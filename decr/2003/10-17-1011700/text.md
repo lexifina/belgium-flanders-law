@@ -38,7 +38,13 @@ Elke voorziening doet aan kwaliteitszorg, gericht op verantwoorde zorg als bedoe
 
 ### ART. 7.
 
-§ 1. De Vlaamse regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en van de besluiten die krachtens dit decreet zijn genomen.<br /><br />Een voorziening stelt aan de Vlaamse regering alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staat de gemachtigden van de Vlaamse regering toe ter plaatse de kwaliteit van de zorg en de kwaliteitszorg te evalueren en alle stappen te ondernemen die daarvoor nodig zijn.<br /><br />Met het oog op het toezicht en de evaluatie, bedoeld in het eerste en het tweede lid, kan de Vlaamse regering per sector bepalen welke gegevens de voorzieningen dienen te verzamelen en te registreren en op welke wijze ze die gegevens verzamelen, registreren en ter beschikking stellen, onverminderd de toepassing van de wetgeving tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens.<br /><br />§ 2. De evaluatie, bedoeld in § 1, tweede lid, is een beoordeling die op basis van stukken en op een objectiverende wijze bepaalt in welke mate de voorziening de kwaliteit van de zorg waarborgt ten aanzien van geëxpliciteerde vereisten. Elke evaluatie resulteert in een evaluatierapport. Dat evaluatierapport moet op actieve wijze aan de inrichtende macht, de medewerkers en de gebruikers van de voorziening bekendgemaakt worden.
+§ 1. De Vlaamse regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en van de besluiten die krachtens dit decreet zijn genomen.<br>
+<br>
+Een voorziening stelt aan de Vlaamse regering alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staat de gemachtigden van de Vlaamse regering toe ter plaatse de kwaliteit van de zorg en de kwaliteitszorg te evalueren en alle stappen te ondernemen die daarvoor nodig zijn.<br>
+<br>
+Met het oog op het toezicht en de evaluatie, bedoeld in het eerste en het tweede lid, kan de Vlaamse regering per sector bepalen welke gegevens de voorzieningen dienen te verzamelen en te registreren en op welke wijze ze die gegevens verzamelen, registreren en ter beschikking stellen, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+§ 2. De evaluatie, bedoeld in § 1, tweede lid, is een beoordeling die op basis van stukken en op een objectiverende wijze bepaalt in welke mate de voorziening de kwaliteit van de zorg waarborgt ten aanzien van geëxpliciteerde vereisten. Elke evaluatie resulteert in een evaluatierapport. Dat evaluatierapport moet op actieve wijze aan de inrichtende macht, de medewerkers en de gebruikers van de voorziening bekendgemaakt worden.
 
 ### ART. 8.
 
