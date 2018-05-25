@@ -1639,7 +1639,13 @@ Als de zakelijkrechthouder of de beheerder een landbouwer is als vermeld   in ar
 
 ### ART. 10.3.2.
 
-<P>Een subsidieaanvraag wordt ingediend bij het agentschap om participatieve en   sensibiliserende projecten uit te voeren in een van de volgende modules:<BR>1°   educatie en publiekswerking;<BR>2° onderzoek.<BR></P>  <P>Het project voldoet aan de volgende voorwaarden:<BR>1° het project heeft een   duur van maximaal drie jaar;<BR>2° het toepassingsgebied van het project is het   Vlaams Gewest en heeft betrekking op onroerend erfgoed.<BR></P>
+<p>Een subsidieaanvraag wordt ingediend bij het agentschap om participatieve en sensibiliserende projecten uit te voeren in een van de volgende modules:<br>
+1° educatie en publiekswerking;<br>
+2° onderzoek.</p>
+
+<p>Een project heeft:<br>
+1° een duur van maximaal drie jaar;<br>
+2° het Vlaams Gewest als toepassingsgebied en heeft betrekking op onroerend erfgoed.</p>
 
 ### ART. 10.3.3.
 
@@ -1647,17 +1653,31 @@ De minister kan jaarlijks een of meer prioritaire thema's voor de   subsidieaanv
 
 ### ART. 10.3.4.
 
-<P>§ 1. Alleen kosten die direct en uitsluitend verbonden zijn aan het project,   komen in aanmerking voor subsidiëring.<BR></P>  <P>De projectsubsidie bedraagt maximaal 60 % van de totale aanvaardbare   projectkosten.<BR></P>  <P>De projectsubsidie kan bovendien alleen toegekend worden voor het deel van de   projectkosten dat niet gefinancierd wordt of zal worden door een andere Vlaamse   overheidsinstantie of door een andere nationale of internationale   publiekrechtelijke rechtspersoon.<BR></P>  <P>§ 2. De projectsubsidie moet worden aangewend voor het doel waarvoor ze is   toegekend. Eventuele ontvangsten die voortvloeien uit het gesubsidieerde   project, moeten integraal worden aangewend voor de uitvoering van het   project.<BR></P>
+<p>§ 1. Alleen kosten die direct en uitsluitend verbonden zijn aan het project, komen in aanmerking voor subsidiëring.</p>
+
+<p>De projectsubsidie bedraagt maximaal 60 % van de totale aanvaardbare projectkosten.<br>
+<br>
+In afwijking van het tweede lid bedraagt de projectsubsidie voor archeologisch syntheseonderzoek minimaal 60% en maximaal 90% van de totale aanvaardbare projectkosten.</p>
+
+<p>De projectsubsidie kan bovendien alleen toegekend worden voor het deel van de projectkosten dat niet gefinancierd wordt of zal worden door een andere Vlaamse overheidsinstantie of door een andere nationale of internationale publiekrechtelijke rechtspersoon.</p>
+
+<p>§ 2. De projectsubsidie moet worden aangewend voor het doel waarvoor ze is toegekend. Eventuele ontvangsten die voortvloeien uit het gesubsidieerde project, moeten integraal worden aangewend voor de uitvoering van het project.</p>
 
 ### ART. 10.3.5.
 
-De minister stelt jaarlijks een maximumbedrag voor de projectsubsidie   vast. Dat bedrag wordt in de projectoproep bekendgemaakt.<BR>
+De minister stelt&nbsp;per projectoproep het subsidiepercentage en het maximumbedrag voor de projectsubsidie vast.
 
 ## Onderafdeling 3 De aanvraagprocedure
 
 ### ART. 10.3.6.
 
-<P>Uiterlijk op 31 januari kan het agentschap een projectoproep lanceren. De   oproep wordt minstens bekendgemaakt op de website van het agentschap en op een   website die gerelateerd is aan onroerend erfgoed.<BR></P>  <P>De projectoproep vermeldt minstens de volgende gegevens:<BR>1° het thema en   de module waarin de projecten moeten passen;<BR>2° het maximale   subsidiebedrag.<BR></P>
+<p>Uiterlijk op 31 januari kan het agentschap een projectoproep lanceren. De oproep wordt minstens bekendgemaakt op de website van het agentschap en op een website die gerelateerd is aan onroerend erfgoed.</p>
+
+<p>De projectoproep vermeldt minstens de volgende gegevens:<br>
+1° het thema en de module waarin de projecten moeten passen;<br>
+2° het maximale subsidiebedrag;<br>
+3° het subsidiepercentage;<br>
+4° de maximale duurtijd van de projecten.</p>
 
 ### ART. 10.3.7.
 
@@ -1671,7 +1691,9 @@ De minister stelt jaarlijks een maximumbedrag voor de projectsubsidie   vast. Da
 
 ### ART. 10.3.9.
 
-De projectvoorstellen worden beoordeeld door een jury, die is samengesteld   uit twee vertegenwoordigers van het agentschap en drie vertegenwoordigers van de   Commissie. De jury kan in voorkomend geval aangevuld worden met externe experten   die beschikken over relevante deskundigheid inzake het thema van de   projectoproep. Elk jurylid is stemgerechtigd.<BR>
+De projectvoorstellen worden beoordeeld door een jury, die is samengesteld uit twee vertegenwoordigers van het agentschap en drie vertegenwoordigers van de Commissie. De jury kan in voorkomend geval aangevuld worden met externe experten die beschikken over relevante deskundigheid inzake het thema van de projectoproep. Elk jurylid is stemgerechtigd.<br>
+<br>
+De minister bepaalt de nadere regels over de aanwijzing, de werking en de organisatie van de jury.
 
 ### ART. 10.3.10.
 
