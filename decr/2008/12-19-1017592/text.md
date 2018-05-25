@@ -22,7 +22,28 @@ De RIS-toepassing is doeltreffend, uitbreidbaar en interoperabel, zodat ze aan a
 
 ### ART. 6.
 
-§ 1. Voor de toepassing van RIS dient de bevoegde instantie :<br />1° alle relevante gegevens over de binnenvaart en reisplanning op de binnenwateren minstens in een toegankelijk elektronisch formaat ter beschikking van de RIS-gebruikers te stellen. Deze gegevens bevatten op zijn minst :<br />a) de as van de waterweg, met kilometeraanduiding;<br />b) de beperkingen met betrekking tot de lengte, breedte, diepgang en hoogte boven de waterlijn van schepen en konvooien;<br />c) bedieningstijden van sluizen, bruggen en andere structuren die de binnenwateren belemmeren;<br />d) plaats van havens en overslaginstallaties;<br />e) referentiegegevens voor waterstanden met betrekking tot de binnenvaart;<br />2° te verzekeren dat voor al hun binnenwateren, die overeenkomstig de classificering van Europese binnenwateren tot klasse Va of hoger behoren, naast de gegevens, vermeld in punt 1°, ook elektronische navigatiekaarten, geschikt voor navigatiedoeleinden, beschikbaar zijn voor de RIS-gebruikers;<br />3° te verzekeren dat ze elektronische scheepsrapporten over de vereiste gegevens betreffende schepen kunnen ontvangen, voor zover scheepsrapportering krachtens de nationale of internationale regelgeving vereist is. In het geval van vervoer waarbij :<br />a) de grens met een naburige lidstaat wordt overschreden;<br />b) de grens met een naburig gewest wordt overschreden;<br />c) de grens met een naburige waterwegbeheerder wordt overschreden;<br />wordt die informatie doorgestuurd naar de bevoegde instanties van de naburige lidstaat, het naburige gewest of de naburige waterwegbeheerder. De verzending van die data moet zijn afgerond voor de schepen de grens, vermeld in punt a), b) of c), bereiken;<br />4° te verzekeren dat de nautische publicaties, met inbegrip van meldingen van de waterstand of maximaal toegestane diepgang en van ijsvorming op hun binnenwateren, worden doorgegeven in gestandaardiseerde, gecodeerde en downloadbare berichten. Het gestandaardiseerde bericht moet ten minste de informatie bevatten die nodig is om veilige navigatie mogelijk te maken. De nautische publicaties moeten minstens in een toegankelijk elektronisch formaat worden meegedeeld.<br /><br />§ 2. De Vlaamse Regering kan bijkomende gegevens vaststellen die op basis van § 1, 1° en 3°, aan of door de RIS-gebruikers moeten worden verstrekt.<br /><br />§ 3. De Vlaamse Regering wijst de bevoegde instantie aan die belast is met de uitvoering van de verplichtingen, vermeld in dit decreet, en met de uitwisseling van gegevens.<br /><br />De bevoegde instantie maakt voor de uitvoering van de verplichtingen, vermeld in dit decreet, en voor de uitwisseling van gegevens gebruik van RIS-centra.<br /><br />§ 4. De uitwisseling van gegevens, vermeld in dit artikel, gebeurt in overeenstemming met de regels inzake bescherming van de privacy, openbaarheid van bestuur en hergebruik van overheidsinformatie.
+§ 1. Voor de toepassing van RIS dient de bevoegde instantie :<br>
+1° alle relevante gegevens over de binnenvaart en reisplanning op de binnenwateren minstens in een toegankelijk elektronisch formaat ter beschikking van de RIS-gebruikers te stellen. Deze gegevens bevatten op zijn minst :<br>
+a) de as van de waterweg, met kilometeraanduiding;<br>
+b) de beperkingen met betrekking tot de lengte, breedte, diepgang en hoogte boven de waterlijn van schepen en konvooien;<br>
+c) bedieningstijden van sluizen, bruggen en andere structuren die de binnenwateren belemmeren;<br>
+d) plaats van havens en overslaginstallaties;<br>
+e) referentiegegevens voor waterstanden met betrekking tot de binnenvaart;<br>
+2° te verzekeren dat voor al hun binnenwateren, die overeenkomstig de classificering van Europese binnenwateren tot klasse Va of hoger behoren, naast de gegevens, vermeld in punt 1°, ook elektronische navigatiekaarten, geschikt voor navigatiedoeleinden, beschikbaar zijn voor de RIS-gebruikers;<br>
+3° te verzekeren dat ze elektronische scheepsrapporten over de vereiste gegevens betreffende schepen kunnen ontvangen, voor zover scheepsrapportering krachtens de nationale of internationale regelgeving vereist is. In het geval van vervoer waarbij :<br>
+a) de grens met een naburige lidstaat wordt overschreden;<br>
+b) de grens met een naburig gewest wordt overschreden;<br>
+c) de grens met een naburige waterwegbeheerder wordt overschreden;<br>
+wordt die informatie doorgestuurd naar de bevoegde instanties van de naburige lidstaat, het naburige gewest of de naburige waterwegbeheerder. De verzending van die data moet zijn afgerond voor de schepen de grens, vermeld in punt a), b) of c), bereiken;<br>
+4° te verzekeren dat de nautische publicaties, met inbegrip van meldingen van de waterstand of maximaal toegestane diepgang en van ijsvorming op hun binnenwateren, worden doorgegeven in gestandaardiseerde, gecodeerde en downloadbare berichten. Het gestandaardiseerde bericht moet ten minste de informatie bevatten die nodig is om veilige navigatie mogelijk te maken. De nautische publicaties moeten minstens in een toegankelijk elektronisch formaat worden meegedeeld.<br>
+<br>
+§ 2. De Vlaamse Regering kan bijkomende gegevens vaststellen die op basis van § 1, 1° en 3°, aan of door de RIS-gebruikers moeten worden verstrekt.<br>
+<br>
+§ 3. De Vlaamse Regering wijst de bevoegde instantie aan die belast is met de uitvoering van de verplichtingen, vermeld in dit decreet, en met de uitwisseling van gegevens.<br>
+<br>
+De bevoegde instantie maakt voor de uitvoering van de verplichtingen, vermeld in dit decreet, en voor de uitwisseling van gegevens gebruik van RIS-centra.<br>
+<br>
+§ 4. De uitwisseling van gegevens, vermeld in dit artikel, gebeurt in overeenstemming met de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, openbaarheid van bestuur en hergebruik van overheidsinformatie.
 
 ### ART. 7.
 
