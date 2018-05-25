@@ -52,7 +52,9 @@ De kapitaalschadecommissies beraadslagen en beslissen geldig over de kapitaalsch
 
 ### ART. 6.
 
-Het is voor een lid van een kapitaalschadecommissie verboden deel te nemen aan de bespreking en de stemming over aangelegenheden waarin hij een rechtstreeks belang heeft, hetzij persoonlijk, hetzij als gelastigde, of waarbij de echtgenoot, of bloed- of aanverwanten tot en met de tweede graad een persoonlijk en rechtstreeks belang hebben. Voor de toepassing van dit lid worden personen die wettelijk samenwonen, met echtgenoten gelijkgesteld. <br /><br />De minister bevoegd voor het leefmilieu stelt, op voorstel van de Vlaamse Landmaatschappij, een deontologische code vast voor de leden van de kapitaalschadecommissies. De deontologische code omvat onder meer beginselen, gedragsregels, richtlijnen en principes met betrekking tot het vermijden van belangenvermenging, met betrekking tot integriteit, zorgvuldigheid, objectiviteit, gelijke behandeling, correctheid en transparantie en met betrekking tot de geheimhoudingsplicht en het respecteren van de privacy.
+Het is voor een lid van een kapitaalschadecommissie verboden deel te nemen aan de bespreking en de stemming over aangelegenheden waarin hij een rechtstreeks belang heeft, hetzij persoonlijk, hetzij als gelastigde, of waarbij de echtgenoot, of bloed- of aanverwanten tot en met de tweede graad een persoonlijk en rechtstreeks belang hebben. Voor de toepassing van dit lid worden personen die wettelijk samenwonen, met echtgenoten gelijkgesteld.<br>
+<br>
+De minister bevoegd voor het leefmilieu stelt, op voorstel van de Vlaamse Landmaatschappij, een deontologische code vast voor de leden van de kapitaalschadecommissies. De deontologische code omvat onder meer beginselen, gedragsregels, richtlijnen en principes met betrekking tot het vermijden van belangenvermenging, met betrekking tot integriteit, zorgvuldigheid, objectiviteit, gelijke behandeling, correctheid en transparantie en met betrekking tot de geheimhoudingsplicht en het respecteren van de persoonlijke levenssfeer, alsook van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 7.
 
