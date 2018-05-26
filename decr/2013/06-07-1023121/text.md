@@ -141,7 +141,32 @@ Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering middelen   toe
 
 ### ART. 17.
 
-<P>Het EVA heeft tot opdracht de integratie te ondersteunen, te stimuleren en te   begeleiden. <BR></P>  <P>Daarvoor vervult het EVA, in overeenstemming met afdeling 3 tot en met 9, de   volgende kerntaken : <BR>1° adviesverstrekking en begeleiding op maat in functie   van empowerment van individuele burgers van de bijzondere doelgroepen met het   oog op zelfstandige en evenredige participatie, actief burgerschap en sociale   samenhang via : <BR>a) het aanbieden van inburgeringstrajecten voor inburgeraars   en toeleidingstrajecten voor minderjarige nieuwkomers en anderstalige   kleuters;<BR>b) het aanbieden van een specifiek trajectmatig vormings- en   begeleidingsaanbod op maat, hetzij individueel, hetzij in groep, in samenwerking   met reguliere voorzieningen, om de personen, vermeld in artikel 3, eerste lid,   1° en 2°, te bereiken en te versterken;<BR>2° adviesverstrekking en   praktijkondersteuning op maat in functie van structureel werken aan integratie   met het oog op zelfstandige en evenredige participatie, toegankelijkheid van   alle voorzieningen, actief burgerschap en sociale samenhang via : <BR>a)   dienstverlening sociaal tolken en sociaal vertalen;<BR>b) taalbeleid; <BR>c)   taalpromotie; <BR>d) integratiewerk;<BR>e) juridische dienstverlening aangaande   de rechtspositie van vreemdelingen;<BR>3° adviesverstrekking en   praktijkondersteuning op maat in functie van het draagvlak, de beeldvorming en   de wederkerigheid van integratie en in functie van sociale samenhang;<BR>4°   adviesverstrekking en praktijkondersteuning op maat in functie van een   onderbouwd, afgestemd, gecoördineerd en inclusief beleid;<BR>5°   adviesverstrekking en begeleiding op maat in functie van een optimale   dienstverlening met betrekking tot Nederlands voor anderstaligen die aan de   voltijdse leerplicht voldaan hebben en die Nederlands willen leren gericht op   sociale, professionele of educatieve redzaamheid;<BR>6° uitreiken van bewijzen   van het taalniveau Nederlands;<BR>7° de regie opnemen over een behoeftedekkend   en behoeftegericht aanbod Nederlands als tweede taal.<BR></P>  <P>In functie van de realisatie van de doelstellingen van het Vlaamse   integratiebeleid, vermeld in artikel 4, vervult het EVA tevens de volgende taken   : <BR>1° verzamelen, bewerken en ter beschikking stellen van data;<BR>2°   opzetten van gerichte, experimentele projecten in functie van de realisatie van   de kerntaken, vermeld in het tweede lid;<BR>3° verzamelen en ter beschikking   stellen van expertise.<BR></P>  <P>Voorts mag het EVA alle andere activiteiten en taken uitoefenen die   rechtstreeks of onrechtstreeks kunnen bijdragen tot de verwezenlijking van de   voormelde opdracht en kerntaken van het EVA.<BR></P>  <P>Het EVA vervult zijn opdracht, taken en kerntaken op een geïntegreerde manier   als vermeld in artikel 4, § 4. Om op een geïntegreerde manier aan het realiseren   van de doelstellingen van het Vlaams integratiebeleid te werken, zal het EVA   tegelijk aan de realisatie van alle&nbsp;zeven de kerntaken   werken.</P>
+<p>Het EVA heeft tot opdracht de integratie te ondersteunen, te stimuleren en te begeleiden.</p>
+
+<p>Daarvoor vervult het EVA, in overeenstemming met afdeling 3 tot en met 9, de volgende kerntaken :<br>
+1° adviesverstrekking en begeleiding op maat in functie van empowerment van individuele burgers van de bijzondere doelgroepen met het oog op zelfstandige en evenredige participatie, actief burgerschap en sociale samenhang via :<br>
+a) het aanbieden van inburgeringstrajecten voor inburgeraars en toeleidingstrajecten voor minderjarige nieuwkomers en anderstalige kleuters;<br>
+b) het aanbieden van een specifiek trajectmatig vormings- en begeleidingsaanbod op maat, hetzij individueel, hetzij in groep, in samenwerking met reguliere voorzieningen, om de personen, vermeld in artikel 3, eerste lid, 1° en 2°, te bereiken en te versterken;<br>
+2° adviesverstrekking en praktijkondersteuning op maat in functie van structureel werken aan integratie met het oog op zelfstandige en evenredige participatie, toegankelijkheid van alle voorzieningen, actief burgerschap en sociale samenhang via :<br>
+a) dienstverlening sociaal tolken en sociaal vertalen;<br>
+b) taalbeleid;<br>
+c) taalpromotie;<br>
+d) integratiewerk;<br>
+e) juridische dienstverlening aangaande de rechtspositie van vreemdelingen;<br>
+3° adviesverstrekking en praktijkondersteuning op maat in functie van het draagvlak, de beeldvorming en de wederkerigheid van integratie en in functie van sociale samenhang;<br>
+4° adviesverstrekking en praktijkondersteuning op maat in functie van een onderbouwd, afgestemd, gecoördineerd en inclusief beleid;<br>
+5° adviesverstrekking en begeleiding op maat in functie van een optimale dienstverlening met betrekking tot Nederlands voor anderstaligen die aan de voltijdse leerplicht voldaan hebben en die Nederlands willen leren gericht op sociale, professionele of educatieve redzaamheid;<br>
+6° uitreiken van bewijzen van het taalniveau Nederlands;<br>
+7° de regie opnemen over een behoeftedekkend en behoeftegericht aanbod Nederlands als tweede taal.</p>
+
+<p>In functie van de realisatie van de doelstellingen van het Vlaamse integratiebeleid, vermeld in artikel 4, vervult het EVA tevens de volgende taken :<br>
+1° verzamelen, bewerken en ter beschikking stellen van data;<br>
+2° opzetten van gerichte, experimentele projecten in functie van de realisatie van de kerntaken, vermeld in het tweede lid;<br>
+3° verzamelen en ter beschikking stellen van expertise.</p>
+
+<p>Voorts mag het EVA alle andere activiteiten en taken uitoefenen die rechtstreeks of onrechtstreeks kunnen bijdragen tot de verwezenlijking van de voormelde opdracht en kerntaken van het EVA.</p>
+
+<p>Het EVA vervult zijn opdracht, taken en kerntaken op een geïntegreerde manier als vermeld in artikel 4, § 4. Om op een geïntegreerde manier aan het realiseren van de doelstellingen van het Vlaams integratiebeleid te werken, zal het EVA tegelijk aan de realisatie van alle&nbsp;zeven de kerntaken werken.</p>
 
 ## Onderafdeling 3. Werking en middelen
 
@@ -290,6 +315,14 @@ De juridische dienstverlening, vermeld in artikel 17, tweede lid, 2°, e),   omv
 ### ART. 46/1.
 
 De adviesverstrekking en begeleiding op maat in functie van een optimale   dienstverlening met betrekking tot Nederlands voor anderstaligen, vermeld in   artikel 17, tweede lid, 5°, omvat de volgende taken:<BR>1° een gecoördineerde en   geobjectiveerde intake, eventueel testing en doorverwijzing van de anderstalige   naar het meest gepaste aanbod Nederlands als tweede taal. Deze oriëntering   gebeurt op een deskundige en neutrale wijze;<BR>2° informatie verzamelen en   verstrekken over het aanbod Nederlands als tweede taal van de centra, vermeld in   artikel 2, 4°, en van eventuele andere aanbieders Nederlands als tweede   taal.
+
+### ART. 46/2.
+
+Het uitreiken van bewijzen van taalniveau Nederlands, vermeld in artikel 17, tweede lid, 6°, omvat de volgende taken:<br>
+1° testen van de kennis van het Nederlands van anderstaligen op een deskundige, objectieve, neutrale en laagdrempelige wijze;<br>
+2° uitreiken van bewijzen van taalniveau Nederlands aan de hand van de niveaus van taalkennis, vastgelegd in het Gemeenschappelijk Europees Referentiekader voor Talen. Die niveaus van taalkennis kunnen afzonderlijk bepaald worden voor elk van de vier vaardigheden lezen, luisteren, spreken en schrijven.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere modaliteiten. Dit artikel kan pas in werking treden nadat de nadere modaliteiten zijn bepaald.
 
 ### ART. 46/3.
 
