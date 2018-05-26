@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029293,
+  "title": "Decreet van 2018-04-27 betreffende de uitzendarbeid in de Vlaamse overheidsdiensten en de lokale besturen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029293/VolledigDocument?datum=2018-05-26",
+  "source_sha256": "ecb350b702d1eb2d0f45d6510eca04ec9c35cf10fc03443218097a517b0321f5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029293&param=informatie",
+  "as_of": "2018-05-26",
+  "made": "2018-04-27",
+  "gazette": "2018-05-16",
+  "numac": 2018030912,
+  "document_start": "2018-05-26",
+  "document_end": null,
+  "in_force": "2018-05-26",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
