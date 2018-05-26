@@ -30,7 +30,9 @@ Bewijzen van kennis van het Nederlands in het vereiste niveau van het   Gemeensc
 
 ### ART. 7.
 
-De bewijzen van kennis van het Nederlands, die de Huizen van het   Nederlands van Brussel, Antwerpen en Gent uitreiken op de niveaus A2 en B1 van   het Gemeenschappelijk Europees Referentiekader voor Talen aan de hand van de   niveaubepaling, zijn geldig als bewijs van taalkennis.
+De bewijzen van kennis van het Nederlands in het vereiste niveau van het Gemeenschappelijk Europees Referentiekader voor Talen die worden uitgereikt door het Agentschap Integratie en Inburgering, het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Antwerpen vzw, het gemeentelijk extern verzelfstandigd agentschap Integratie en Inburgering Gent vzw en het Huis van het Nederlands Brussel vzw, zijn geldig als bewijs van taalkennis.<br>
+<br>
+In het eerste lid wordt verstaan onder het Agentschap Integratie en Inburgering: "het Agentschap Integratie en Inburgering, vermeld in artikel 17, § 2, 7°, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.
 
 ### ART. 8.
 
