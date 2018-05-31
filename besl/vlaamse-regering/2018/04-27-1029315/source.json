@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029315,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot vaststelling van de datum van inwerkingtreding van artikel 603 van het decreet van 22 december 2017 over het lokaal bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029315/VolledigDocument?datum=2018-05-31",
+  "source_sha256": "62db17ed1cfacd6f39f2f6abccf9d59ca6d850303e9fc45f30527cabe6f3ba49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029315&param=informatie",
+  "as_of": "2018-05-31",
+  "made": "2018-04-27",
+  "gazette": "2018-05-30",
+  "numac": 2018012195,
+  "document_start": "2018-05-31",
+  "document_end": null,
+  "in_force": "2018-05-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
