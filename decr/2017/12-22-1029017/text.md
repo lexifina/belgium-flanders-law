@@ -648,6 +648,14 @@ Die keuze geldt tot op het ogenblik dat de gemeenteraad een uitdrukkelijke besli
 
 ## HOOFDSTUK 8. Overgangsbepalingen voor de intergemeentelijke samenwerking en OCMW-verenigingen
 
+### ART 603.
+
+In afwijking van artikel 34 en 35 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking kunnen gemeenten voor 1 januari 2019 beslissen om uit te treden uit, toe te treden tot of hun deelneming te verlengen voor 18 jaar in:<br>
+1° opdrachthoudende verenigingen die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 zijn aangewezen als distributienetbeheerder, op voorwaarde dat voldaan is aan de voorwaarden van het Energiedecreet van 8 mei 2009;<br>
+2° opdrachthoudende verenigingen die, namens of in opdracht van een overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 aangewezen distributienetbeheerder, onder meer het realiseren van de opdrachten, vermeld in artikel 4.1.6. van het Energiedecreet van 8 mei 2009 als doelstelling hebben.<br>
+<br>
+In afwijking van artikel 423 kan de Vlaamse Regering op verzoek van de algemene vergadering van de opdrachthoudende verenigingen, die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 werden aangewezen als distributienetbeheerder en die daartoe in de loop van het jaar 2018 op verzoek van drie vierden van het aantal gemeenten en met een meerderheid van drie vierden van de stemmen, op basis van een omstandig verslag dat de noodzaak van het verzoek aantoont, eenmalig en bij gemotiveerd besluit instemmen dat de einddatum van de statutaire duur verschoven wordt naar 1 april 2019.
+
 ### ART 604.
 
 In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking kunnen, om het distributienetbeheer te vereenvoudigen of als begeleidende maatregelen met het oog op vereenvoudiging van de structuur van het energiedistributienetbeheer in Vlaanderen, in de loop van het jaar 2018 statutenwijzigingen worden voorgelegd aan de deelnemers van:<br>
