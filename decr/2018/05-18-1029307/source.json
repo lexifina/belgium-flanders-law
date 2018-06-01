@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029307,
+  "title": "Decreet van 2018-05-18 houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft de hervorming van het verkooprecht en vereenvoudigingen in de registratiebelasting",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029307/VolledigDocument?datum=2018-06-01",
+  "source_sha256": "8bf2b555db3206b818f98b007882de0a5674e22f8c519453dd625a4b6b59633a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029307&param=informatie",
+  "as_of": "2018-06-01",
+  "made": "2018-05-18",
+  "gazette": "2018-05-28",
+  "numac": 2018012095,
+  "document_start": "2018-06-01",
+  "document_end": null,
+  "in_force": "2018-06-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2018-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
