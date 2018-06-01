@@ -666,6 +666,26 @@ In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergem
 
 In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen statutenwijzigingen aan de deelnemers worden voorgelegd in de loop van het jaar 2018 om de samenstelling, wijze van voordracht en benoeming van de leden van de raad van bestuur, met inbegrip van de voordracht van onafhankelijke bestuurders als stemgerechtigde leden van de raad van bestuur te bepalen, alsook om te bepalen hoeveel leden van de raad van bestuur van hetzelfde geslacht kunnen zijn met een maximum van twee derden.
 
+### ART 608/1.
+
+§ 1. Verenigingen als vermeld in titel VIII, hoofdstuk I en II, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn die een ziekenhuis uitbaten, zijn, om in het kader van of ter ondersteuning van hun wettelijke opdrachten en met instemming van hun leden, gerechtigd lid te worden van een vereniging of vennootschap als vermeld in titel VIII van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, of om lid te worden van andere rechtspersonen dan die met een winstoogmerk. Met behoud van andersluidende decretale of wettelijke bepalingen kan dat gepaard gaan met de overdracht of terbeschikkingstelling van infrastructuur en personeel.<br>
+<br>
+§ 2. Personeelsleden van een openbaar centrum voor maatschappelijk welzijn en personeelsleden van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn die deelgenoot zijn van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, kunnen door die vereniging overgenomen worden.<br>
+<br>
+Ongeacht de regels die van toepassing zijn bij bevorderingen, worden de personeelsleden, vermeld in het eerste lid, met hun graad of met een gelijkwaardige graad en in hun hoedanigheid overgeplaatst. Ze behouden de bezoldiging en de geldelijke anciënniteit die ze hadden of die ze verkregen zouden hebben op grond van de rechtspositieregeling die van toepassing is op het ogenblik van de overname als ze in hun dienst van herkomst het ambt dat ze bij hun overplaatsing bekleedden, verder hadden uitgeoefend.<br>
+<br>
+Op verzoek van het openbaar centrum voor maatschappelijk welzijn van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of op verzoek van het betrokken personeelslid doet de bevoegde provinciegouverneur uitspraak over elke betwisting die betrekking heeft op de toepassing van deze paragraaf.<br>
+<br>
+§ 3. De personeelsleden van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn kunnen overgenomen worden door een openbaar centrum voor maatschappelijk welzijn dat deelgenoot is van die vereniging.<br>
+<br>
+Bij de overname van personeelsleden die in dienst zijn van een deelgenoot van de privésector, kan bedongen worden dat die personeelsleden hun bezoldiging, anciënniteit, sociale zekerheid en verworven rechten onveranderd behouden.<br>
+<br>
+§ 4. Als dat nader bepaald is in de rechtspositieregeling van het personeel van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden van een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+<br>
+De terbeschikkingstelling is tijdelijk en wordt vastgelegd in een overeenkomst tussen een vereniging als vermeld in titel VIII, hoofdstuk I, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn en de rechtspersoon waaraan het personeel ter beschikking wordt gesteld.<br>
+<br>
+De aanstellende overheid beslist, in overeenstemming met de rechtspositieregeling, over de individuele terbeschikkingstelling van het personeelslid en sluit een overeenkomst van terbeschikkingstelling.
+
 ## TITEL 3. Inwerkingtreding
 
 ### ART 609.
