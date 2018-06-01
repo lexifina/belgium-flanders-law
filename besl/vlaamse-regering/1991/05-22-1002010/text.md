@@ -214,7 +214,23 @@ De Vlaamse minister, bevoegd voor het onderwijs, wijst voor de kamer van beroep 
 
 ### ART. 33septies.
 
-§ 1. Het personeelslid beschikt over de in artikel 73, 2e lid, van het decreet vermelde termijn om met een aangetekende brief beroep in te stellen bij de kamer van beroep. <br /><br />De termijn begint te lopen op de dag volgend op de schriftelijke mededeling van de sanctie door de tuchtoverheid. <br /><br />Het beroep moet op straffe van niet-ontvankelijkheid gemotiveerd zijn.<br /><br />Op hetzelfde ogenblik als het personeelslid het beroepschrift indient, stuurt het met een aangetekende brief of tegen ontvangsbewijs een kopie daarvan naar zijn tuchtoverheid.<br /><br />Het beroep moet de naam en het adres van de tuchtoverheid bevatten.<br /><br />§ 2. Na het verstrijken van de termijn, vermeld in artikel 73, tweede lid, van het decreet, of nadat de kamer van beroep een definitieve beslissing heeft genomen, wordt de tuchtmaatregel definitief.<br /><br />§ 3. Bij de ontvangst van het beroepschrift vraagt de secretaris onmiddellijk het tuchtdossier op bij de tuchtoverheid.<br /><br />§ 4. De kamer van beroep kan de door de tuchtoverheid uitgesproken sanctie niet verzwaren.
+§ 1. Het personeelslid beschikt over de in artikel 73, 2e lid, van het decreet vermelde termijn om met een aangetekende brief beroep in te stellen bij de kamer van beroep.<br>
+<br>
+De termijn begint te lopen op de dag volgend op de schriftelijke mededeling van de sanctie door de tuchtoverheid.<br>
+<br>
+Als het einde van de termijn zoals bedoeld in het eerste lid, valt binnen de herfst-, kerst-, krokus-, paas- of zomervakantie zoals die voorzien zijn in het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of in het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, dan wordt die termijn opgeschort gedurende de duur van de betrokken vakantie.<br>
+<br>
+Het beroep moet op straffe van niet-ontvankelijkheid gemotiveerd zijn.<br>
+<br>
+Op hetzelfde ogenblik als het personeelslid het beroepschrift indient, stuurt het met een aangetekende brief of tegen ontvangsbewijs een kopie daarvan naar zijn tuchtoverheid.<br>
+<br>
+Het beroep moet de naam en het adres van de tuchtoverheid bevatten.<br>
+<br>
+§ 2. Na het verstrijken van de termijn, vermeld in artikel 73, tweede lid, van het decreet, of nadat de kamer van beroep een definitieve beslissing heeft genomen, wordt de tuchtmaatregel definitief.<br>
+<br>
+§ 3. Bij de ontvangst van het beroepschrift vraagt de secretaris onmiddellijk het tuchtdossier op bij de tuchtoverheid.<br>
+<br>
+§ 4. De kamer van beroep kan de door de tuchtoverheid uitgesproken sanctie niet verzwaren.
 
 ### ART. 33octies.
 
