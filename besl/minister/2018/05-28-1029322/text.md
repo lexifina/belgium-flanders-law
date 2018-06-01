@@ -39,6 +39,17 @@ Overwegende dat er een marge aanwezig is om de toegekende hoeveelheden schol in 
 Besluit :<br>
 &nbsp;
 
+### ART 1.
+
+In artikel 5, punt 8°, van het ministerieel besluit van 14 december 2017 houdende tijdelijke aanvullende maatregelen voor het jaar 2018 tot het behoud van de visbestanden in zee, wordt na het woord "boomkornetten" de woorden "van de segmenten BT1 en BT2" ingevoegd.
+
+### ART 2.
+
+In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2 wordt het getal "400" vervangen door het getal "600";<br>
+2° in paragraaf 3 wordt het getal "170" vervangen door het getal "200".<br>
+&nbsp;
+
 ### ART 3.
 
 In artikel 28, paragraaf 4, van hetzelfde besluit, zoals gewijzigd bij het ministerieel besluit van 13 februari 2018, worden de volgende wijzigingen aangebracht:<br>
@@ -46,3 +57,7 @@ In artikel 28, paragraaf 4, van hetzelfde besluit, zoals gewijzigd bij het minis
 2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "In de periode van 16 mei 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.".<br>
 &nbsp;
+
+### ART 4.
+
+Dit besluit treedt in werking op 1 juni 2018, met uitzondering van artikel 3 dat in werking treedt op 16 mei 2018. Het houdt op van kracht te zijn op 1 januari 2019.
