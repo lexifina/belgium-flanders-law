@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029677,
+  "title": "Ministerieel besluit van 2018-07-10 tot toekenning van een specifieke delegatie aan het hoofd van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029677/VolledigDocument?datum=2018-06-01",
+  "source_sha256": "a2f988534997a5409a120b832de677055d0b5302d8fa32d55480d91928c79265",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029677&param=informatie",
+  "as_of": "2018-06-01",
+  "made": "2018-07-10",
+  "gazette": "2018-08-29",
+  "numac": 2018013377,
+  "document_start": "2018-06-01",
+  "document_end": "2018-12-31",
+  "in_force": "2018-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
