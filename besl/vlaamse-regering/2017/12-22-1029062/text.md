@@ -274,6 +274,18 @@ Aan artikel 4.3.1, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit 
 "13° recycleerbare harde kunststoffen;<br>
 14° gebruikte dierlijke en plantaardige vetten en oliën.".
 
+### ART 21.
+
+Aan artikel 4.3.2 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 mei 2012, 16 november 2012 en 23 september 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan het eerste lid wordt een punt 20° tot en met 22° toegevoegd, die luiden als volgt:<br>
+"20° recycleerbare harde kunststoffen;<br>
+21° geëxpandeerd polystyreen;<br>
+22° folies.";<br>
+<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"Onder het woord geëxpandeerd polystyreen, vermeld in het eerste lid, 21°, wordt verstaan: zuiver piepschuim van verpakkingen met bolletjesstructuur.".
+
 ### ART 22.
 
 Artikel 4.3.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt vervangen door wat volgt:<br>
