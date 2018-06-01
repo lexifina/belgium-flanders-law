@@ -1168,6 +1168,10 @@ Het getuigschrift kan slechts uitgereikt worden aan leerlingen die vóór 1 janu
 <br>
 § 2. De in paragraaf 1 vermelde leerlingen die het getuigschrift basisonderwijs niet krijgen, ontvangen een getuigschrift dat aangeeft welke doelen de leerling wel heeft bereikt.
 
+### ART 54bis.
+
+In afwijking van artikel 53 en 54 ontvangen de leerlingen die het getuigschrift basisonderwijs niet behalen in het schooljaar 2017-2018, geen getuigschrift dat aangeeft welke doelen de leerling wel bereikt heeft, maar een verklaring met het aantal en soort gevolgde jaren lager onderwijs, een schriftelijke motivering waarom het getuigschrift basisonderwijs niet uitgereikt werd, alsook aandachtspunten voor de toekomst.
+
 ### ART. 55.
 
 De beslissing omtrent het toekennen van het getuigschrift&nbsp;wordt uiterlijk op 30 juni aan de ouders meegedeeld. De ouders worden geacht die beslissing uiterlijk op 1 juli in ontvangst te hebben genomen. Indien de ouders niet akkoord gaan met de genomen beslissing volgt er, op vraag van de ouders, een overleg met de directeur en zijn afgevaardigde, binnen een termijn vastgelegd in het schoolreglement. De school kan dit overleg niet weigeren. Van het overleg wordt een schriftelijke neerslag gemaakt. Dit overleg kan ertoe leiden dat de directeur of zijn afgevaardigde beslist om de klassenraad opnieuw te laten samenkomen om het niet toekennen van het getuigschrift basisonderwijs te bevestigen of te wijzigen. De ouders nemen de beslissing om de klassenraad niet opnieuw te laten samenkomen, dan wel de beslissing van de klassenraad die opnieuw is samengekomen schriftelijk in ontvangst. Bij het niet in ontvangst nemen van deze beslissing door de ouders op de voorziene datum wordt ze toch geacht te zijn ontvangen op de voorziene ontvangstdatum. Indien de ouders niet akkoord gaan met de beslissing, wijst de school de ouders schriftelijk op de mogelijkheid tot beroep zoals bepaald in hoofdstuk IV, afdeling 2, onderafdeling E.
