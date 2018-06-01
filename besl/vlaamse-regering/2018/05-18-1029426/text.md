@@ -38,6 +38,12 @@ In artikel 33ter, § 6, van het besluit van de Vlaamse Regering van 22 mei 1991 
 "De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.".<br>
 &nbsp;
 
+### ART 2.
+
+In artikel 33septies, § 1, van hetzelfde besluit, wordt tussen het tweede en het derde lid een lid ingevoegd dat luidt als volgt:<br>
+"Als het einde van de termijn zoals bedoeld in het eerste lid, valt binnen de herfst-, kerst-, krokus-, paas- of zomervakantie zoals die voorzien zijn in het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of in het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, dan wordt die termijn opgeschort gedurende de duur van de betrokken vakantie.".<br>
+&nbsp;
+
 ### ART 3.
 
 In artikel 9, § 6, van het besluit van de Vlaamse Regering van 22 mei 1991 omtrent de preventieve schorsing en de tucht, alsmede omtrent het ontslag van sommige tijdelijke personeelsleden in het gesubsidieerd onderwijs en in de gesubsidieerde centra voor leerlingenbegeleiding, ingevoegd bij het besluit van de Vlaamse regering van 3 juli 2009, worden de volgende wijzigingen aangebracht:<br>
@@ -45,6 +51,12 @@ In artikel 9, § 6, van het besluit van de Vlaamse Regering van 22 mei 1991 omtr
 2° in het tweede lid wordt het bedrag "50 euro" vervangen door het bedrag "150 euro";<br>
 3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
 "De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.".<br>
+&nbsp;
+
+### ART 4.
+
+&nbsp;In artikel 13, § 1 van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd dat luidt als volgt:<br>
+"Als het einde van de termijn zoals bedoeld in het eerste lid, valt binnen de herfst-, kerst-, krokus-, paas- of zomervakantie zoals die voorzien zijn in het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap of in het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs, dan wordt die termijn opgeschort gedurende de duur van de betrokken vakantie.".<br>
 &nbsp;
 
 ### ART 5.
