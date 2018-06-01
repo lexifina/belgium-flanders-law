@@ -51,6 +51,10 @@ In artikel 14, § 2 en § 4, van het decreet van 13 juli 2012 van het decreet ho
 
 ## Afdeling 3. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft het uitsluiten van de cumul van vermindering van het tarief voor schenkingen van en van verlaging van het verkooprecht voor een beschermd monument waarvoor een investeringsplicht geldt met de vermindering van de personenbelasting voor uitgaven voor beschermde goederen
 
+### ART 13.
+
+In artikel 2.9.4.2.14, § 4, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2018, worden de woorden "als die premies" vervangen door de zinsnede "noch met de vermindering van de personenbelasting, vermeld in artikel 14536 van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering".
+
 ## HOOFDSTUK 5. Landbouw en Visserij
 
 ## HOOFDSTUK 6. Financiën en Begroting
