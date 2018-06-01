@@ -4,7 +4,43 @@
 
 ## HOOFDSTUK 2. Wijzigingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
 
+### ART 2.
+
+&nbsp;Aan artikel 4, § 4, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, ingevoegd bij het decreet van 22 juni 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"Voor de toepassing van hoofdstuk III in het basisonderwijs en in het secundair onderwijs kan de raad van bestuur de diensten die een personeelslid gepresteerd heeft in een wervingsambt in het buitengewoon basis- of buitengewoon secundair onderwijs beschouwen als zijnde gepresteerd in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs. De raad van bestuur kan hierbij voor een personeelslid diensten in aanmerking nemen ten belope van maximaal 720 dagen, berekend volgens paragraaf 1.".
+
+### ART 3.
+
+Aan artikel 21, § 5, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 juni 2015, wordt een vierde lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciėnniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de raad van bestuur in het basis- of secundair onderwijs gebruikmaakt van artikel 4, § 4, tweede lid. Die dienstanciėnniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciėnniteit.".
+
+### ART 4.
+
+Aan artikel 21bis, § 5, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 juni 2015, wordt een vierde lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciėnniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de raad van bestuur gebruikmaakt van artikel 4, § 4, tweede lid. Die dienstanciėnniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciėnniteit.".
+
 ## HOOFDSTUK 3. Wijzigingen van het decreet rechtspositie personeelsleden gesub-sidieerd onderwijs van 27 maart 1991
+
+### ART 6.
+
+Aan artikel 6, § 4, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, ingevoegd bij het decreet van 22 juni 2007, wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"Voor de toepassing van hoofdstuk III in het basisonderwijs en in het secundair onderwijs kan de inrichtende macht de diensten die een personeelslid gepresteerd heeft in een wervingsambt in het buitengewoon basis- of buitengewoon secundair onderwijs beschouwen als zijnde gepresteerd in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs. De inrichtende macht kan hierbij voor een personeelslid diensten in aanmerking nemen ten belope van maximaal 720 dagen, berekend volgens paragraaf 1.".
+
+### ART 7.
+
+Aan artikel 23, § 5, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 juni 2015, wordt een lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciėnniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de inrichtende macht in het basis- of secundair onderwijs gebruikmaakt van artikel 6, § 4, tweede lid. Die dienstanciėnniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciėnniteit.".
+
+### ART 8.
+
+Aan artikel 23bis, § 5, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 19 juni 2015, wordt een lid toegevoegd, dat luidt als volgt :<br>
+<br>
+"In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciėnniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de inrichtende macht gebruikmaakt van artikel 6, § 4, tweede lid. Die dienstanciėnniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciėnniteit.".
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
