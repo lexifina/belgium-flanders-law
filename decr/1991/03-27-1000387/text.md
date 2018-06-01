@@ -96,6 +96,8 @@ g) kan gedurende een schooljaar een dienstanciënniteit van maximaal 360 dagen w
 <br>
 § 4. Voor de toepassing van hoofdstuk III in het deeltijds kunstonderwijs worden de diensten, gepresteerd in het ambt van studiemeester-opvoeder, ook beschouwd als zijnde gepresteerd in het ambt van opsteller.<br>
 <br>
+Voor de toepassing van hoofdstuk III in het basisonderwijs en in het secundair onderwijs kan de raad van bestuur de diensten die een personeelslid gepresteerd heeft in een wervingsambt in het buitengewoon basis- of buitengewoon secundair onderwijs beschouwen als zijnde gepresteerd in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs. De raad van bestuur kan hierbij voor een personeelslid diensten in aanmerking nemen ten belope van maximaal 720 dagen, berekend volgens paragraaf 1.<br>
+<br>
 § 5. De prestaties die een personeelslid levert in een betrekking die wordt ingericht op basis van artikel 154, § 2, van het decreet basisonderwijs van 25 februari 1997, artikel 251/1 of artikel 332/1 van de Codex Secundair Onderwijs, artikel 79/1 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, artikel 130ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel II.30 of III.36 van de Codificatie sommige bepalingen voor het onderwijs, komen in aanmerking voor de berekening van de dienstanciënniteit volgens de bepalingen van dit artikel.
 
 ### ART. 5.
@@ -306,6 +308,8 @@ Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt
 <br>
 Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 1 september van het schooljaar waarin hij het recht wil laten gelden een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br>
 <br>
+In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciënniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de raad van bestuur in het basis- of secundair onderwijs gebruikmaakt van artikel 4, § 4, tweede lid. Die dienstanciënniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciënniteit.<br>
+<br>
 § 6. Een personeelslid dat krachtens § 5 recht verworven heeft op een tijdelijke aanstelling van doorlopende duur, verliest dit recht in het betrokken ambt wanneer hij vervolgens vijf opeenvolgende schooljaren geen diensten heeft gepresteerd in één of meer instellingen van de scholengroep.<br>
 <br>
 § 7. Een personeelslid dat aangesteld is voor bepaalde duur en dat wordt ontslagen :<br>
@@ -391,6 +395,8 @@ Voor het bepalen van de anciënniteit bedoeld in dit artikel wordt, in afwijking
 Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar, dan geldt dit recht voor dit ambt en voor alle vakken en specialiteiten waarvoor het personeelslid uiterlijk op 1 september van het schooljaar waarin hij het recht wil laten gelden een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br>
 <br>
 Is de in § 3 bedoelde anciënniteit verworven in een ambt van leraar voor een vak of een specialiteit waarvoor het personeelslid uiterlijk op 1 september van het schooljaar waarin hij het recht wil laten gelden een voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit, dan geldt dit recht voor dit ambt, dit vak of deze specialiteit en daarenboven ook voor alle vakken en specialiteiten waarvoor het personeelslid een vereist bekwaamheidsbewijs, bij organieke bepaling of bij overgangsmaatregel, bezit.<br>
+<br>
+In afwijking van de bepalingen van deze paragraaf komt ook de dienstanciënniteit in aanmerking die een personeelslid in een ander ambt heeft verworven, als de raad van bestuur gebruikmaakt van artikel 4, § 4, tweede lid. Die dienstanciënniteit wordt berekend conform paragraaf 4, laatste lid, van dit artikel en is voor deze toepassing beperkt tot maximaal 600 dagen dienstanciënniteit.<br>
 <br>
 § 6. Een personeelslid dat krachtens § 5 recht verworven heeft op een tijdelijke aanstelling van doorlopende duur, verliest dit recht in het betrokken ambt wanneer hij vervolgens vijf opeenvolgende schooljaren geen diensten heeft gepresteerd in één of meer instellingen van de scholengroep.<br>
 <br>
