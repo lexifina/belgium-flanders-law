@@ -113,7 +113,7 @@ In de periode van 1 januari 2018 tot en met 31 december 2018 is het verboden:<br
 5° de spanvisserij op kabeljauw te beoefenen;<br>
 6° uitgerust te zijn of te vissen met vistuig TR3 dat niet permanent voorzien is van een zeeflap;<br>
 7° gericht te vissen op zeebaars met staand tuig met een maaswijdte kleiner dan 120 mm;<br>
-8° uitgerust te zijn of te vissen met boomkornetten waarvan de staart, te weten de achterste drie meter van de korre voor de kuil, niet bestaat uit netmateriaal met een maaswijdte van minimaal 120 mm.
+8° uitgerust te zijn of te vissen met boomkornetten&nbsp;van de segmenten BT1 en BT2 waarvan de staart, te weten de achterste drie meter van de korre voor de kuil, niet bestaat uit netmateriaal met een maaswijdte van minimaal 120 mm.
 
 ### ART 6.
 
@@ -230,9 +230,9 @@ In afwijking van het eerste lid is het in de periode van 1 januari 2018 tot en m
 <br>
 Het totale scholquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, dat gereserveerd is voor de vissersvaartuigen met een motorvermogen van meer dan 221 kW, bedraagt 5900 ton voor de periode van 1 januari 2018 tot en met 31 december 2018. Bij uitputting van dat quotum, is het voor die vissersvaartuigen verboden nog schol aan te voeren uit die ICES-gebieden.<br>
 <br>
-§ 2. Van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2018 worden opgevist.<br>
+§ 2. Van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2018 worden opgevist.<br>
 <br>
-§ 3. Van 1 januari 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 170 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2018 worden opgevist.
+§ 3. Van 1 januari 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van die toegekende hoeveelheid mag er per vaartuig maximaal een hoeveelheid van 60 kg per kW voor 15 maart 2018 worden opgevist.
 
 ## Afdeling 3. Tong Bristolkanaal en Keltische Zee - ICES-gebieden VIIf, g
 
