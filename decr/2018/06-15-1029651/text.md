@@ -81,6 +81,12 @@ In artikel 55ter van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 19
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 30.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt een artikel 54bis ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 54bis. In afwijking van artikel 53 en 54 ontvangen de leerlingen die het getuigschrift basisonderwijs niet behalen in het schooljaar 2017-2018, geen getuigschrift dat aangeeft welke doelen de leerling wel bereikt heeft, maar een verklaring met het aantal en soort gevolgde jaren lager onderwijs, een schriftelijke motivering waarom het getuigschrift basisonderwijs niet uitgereikt werd, alsook aandachtspunten voor de toekomst.".
+
 ## HOOFDSTUK 5. Wijzigingen van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad
 
 ## HOOFDSTUK 6. Wijzigingen van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen"
