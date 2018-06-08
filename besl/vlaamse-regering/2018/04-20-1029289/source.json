@@ -2,16 +2,16 @@
   "codex_id": 1029289,
   "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot vaststelling van het aantal te verkiezen gemeenteraadsleden per gemeente, schepenen per gemeente, leden van de raden voor maatschappelijk welzijn van Voeren en de randgemeenten, leden van het vast bureau van Voeren en de randgemeenten, districtsraadsleden per district in Antwerpen, leden van het bijzonder comité voor de sociale dienst per gemeente, provincieraadsleden per provincie van het Vlaamse Gewest, en tot verdeling van de provincieraadsleden over de provinciedistricten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029289/VolledigDocument?datum=2018-05-16",
-  "source_sha256": "42f28ef97394f892966f1fff9702577e8363ac8fd0d85ab52fd18069b669bb6f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029289/VolledigDocument?datum=2018-06-08",
+  "source_sha256": "90680538ff174ec1c0080017f057d8b55aa0fae257e0c76e22ec37f333917897",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029289&param=informatie",
-  "as_of": "2018-05-16",
+  "as_of": "2018-06-08",
   "made": "2018-04-20",
   "gazette": "2018-05-15",
   "numac": 2018030980,
   "document_start": "2018-05-16",
   "document_end": "2018-06-07",
-  "in_force": "2018-05-16",
+  "in_force": "2018-06-08",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2018-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-06-08; future article versions excluded; article text as the API gives it"
 }
