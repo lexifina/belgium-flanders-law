@@ -478,7 +478,7 @@ Een goedgekeurd natuurbeheerplan is bindend voor de opeenvolgende beheerders.<br
 <br>
 De overname van het beheer van een terrein met een goedgekeurd natuurbeheerplan door een nieuwe beheerder wordt binnen een termijn van dertig dagen na de overname door de vorige beheerder aan het agentschap gemeld.<br>
 <br>
-§ 2. De instrumenterend ambtenaar vermeldt in alle akten van verkoop of van verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging of overdracht van vruchtgebruik, erfpacht of opstal, en in elke andere akte van een eigendomsoverdracht ten bezwarende titel, met uitzondering van huwelijkscontracten en hun wijzigingen, dat geheel of gedeeltelijk is gelegen binnen een terrein waarop een goedgekeurd natuurbeheerplan van toepassing is:<br>
+§ 2. De instrumenterend ambtenaar vermeldt in alle akten van verkoop, schenking of verhuring voor meer dan negen jaar van een onroerend goed, van een inbreng van een onroerend goed in een vennootschap, en ook in alle akten van vestiging of overdracht van vruchtgebruik, erfpacht of opstal, en in elke andere akte van een eigendomsoverdracht ten bezwarende titel, met uitzondering van huwelijkscontracten en hun wijzigingen, dat geheel of gedeeltelijk is gelegen binnen een terrein waarop een goedgekeurd natuurbeheerplan van toepassing is:<br>
 1° de datum waarop het natuurbeheerplan werd goedgekeurd, de duur waarvoor het werd goedgekeurd en de verplichtingen die het meebrengt voor de verwerver van het onroerend goed;<br>
 2° het bestaan van de erfdienstbaarheid, vermeld in artikel 16quater decies, § 2.
 
@@ -593,6 +593,57 @@ De Vlaamse Regering bepaalt ook:<br>
 3° de procedure voor de terugvordering van de subsidies.<br>
 <br>
 De Vlaamse Regering kan nadere regels vaststellen inzake de cumulatie van de subsidies toegekend op basis van deze bepaling met subsidies die zijn toegekend op basis van alle andere regelgeving.
+
+### ART 16septiesdecies.
+
+De volgende vrijstellingen worden geacht als subsidie te zijn verleend:<br>
+1° de vrijstelling van de erfbelasting, vermeld in artikel 2.7.6.0.5 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+2° de vrijstelling van de schenkbelasting, vermeld in artikel 2.8.6.0.8 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+3° de vrijstelling van het verkooprecht, vermeld in artikel 2.9.6.0.7 van de Vlaamse Codex Fiscaliteit van 13 december 2013.<br>
+<br>
+De subsidie wordt geacht te zijn verleend gedurende 24 jaar, a rato van 1/24 per jaar, te rekenen vanaf:<br>
+1° voor de vrijstelling van de erfbelasting als vermeld in het eerste lid, 1° : de datum van overlijden van de erflater;<br>
+2° voor de vrijstelling van de schenkbelasting als vermeld in het eerste lid, 2° : de datum van de schenkingsakte die, zonder toepassing van de vrijstelling, vermeld in artikel 2.8.6.0.8 van de Vlaamse Codex Fiscaliteit van 13 december 2013, aan de schenkbelasting onderworpen zou zijn;<br>
+3° voor de vrijstelling van het verkooprecht als vermeld in het eerste lid, 3° : de datum van de authentieke akte van verkrijging die, zonder toepassing van de vrijstelling, vermeld in artikel 2.9.6.0.7 van de Vlaamse Codex Fiscaliteit van 13 december 2013, aan het verkooprecht onderworpen zou zijn.<br>
+<br>
+Bij een rechtshandeling als vermeld in het tweede lid, 2° of 3°, die onderworpen is aan een opschortende voorwaarde, wordt voor de toepassing van dit artikel de datum van de vervulling van de voorwaarde in de plaats gesteld van de datum van de akte.<br>
+<br>
+In het geval dat een goedgekeurd natuurbeheerplan bestaat, worden de subsidies, vermeld in het eerste lid, toegekend onder de volgende voorwaarden:<br>
+1° voor een periode van 24 jaar, te rekenen vanaf de data, vermeld in het tweede lid, moet voor het terrein een goedgekeurd natuurbeheerplan bestaan;<br>
+2° het effectief gevoerde beheer stemt overeen met het goedgekeurde natuurbeheerplan;<br>
+3° het beheer wordt niet overgenomen conform artikel 16decies.<br>
+<br>
+In het geval dat de intentie bestaat om een natuurbeheerplan te laten goedkeuren, worden de subsidies, vermeld in het eerste lid, toegekend onder de volgende voorwaarden:<br>
+1° binnen twee jaar wordt het eerste verkennende deel van de procedure tot goedkeuring van een natuurbeheerplan als vermeld in artikel 16octies, § 1, eerste lid, 1°, goedgekeurd, te rekenen vanaf de data, vermeld in het tweede lid;<br>
+2° binnen vier jaar na de data, vermeld in het tweede lid, wordt een natuurbeheerplan goedgekeurd;<br>
+3° voor de nog resterende looptijd van de periode van 24 jaar, vermeld in het tweede lid, op de datum van goedkeuring van het natuurbeheerplan:<br>
+a) blijft een goedgekeurd natuurbeheerplan bestaan;<br>
+b) stemt het effectief gevoerde beheer overeen met het goedgekeurde natuurbeheerplan;<br>
+c) wordt het beheer niet overgenomen conform artikel 16decies.
+
+### ART 16duodevicies.
+
+§ 1. Als de voorwaarden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, niet worden nageleefd, wordt de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 1°, teruggevorderd van de eigenaar of vruchtgebruiker van het onroerend goed.<br>
+<br>
+§ 2. In geval van overdracht ten bezwarende titel of om niet van de goederen waarvoor de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 1°, is verkregen, is de overdrager ertoe gehouden om in de akte van overdracht van de eigendom of het vruchtgebruik van het onroerend goed de verkrijger in te lichten over het bestaan van de subsidie, waarvoor de voorwaarden gelden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, op het ogenblik van het verlijden van de akte van overdracht, met verwijzing naar dat artikel.<br>
+<br>
+Iedere verkrijger is op zijn beurt ertoe gehouden een verdere verkrijger op dezelfde wijze in te lichten. De rechtsvoorganger van de eigenaar of vruchtgebruiker is ertoe gehouden de eigenaar of vruchtgebruiker schadeloos te stellen voor de terugbetaling van het openstaande saldo van de met toepassing van artikel 16septiesdecies, eerste lid, 1°, verkregen subsidie als hij nagelaten heeft zijn rechtsopvolger in te lichten over het bestaan van de subsidie conform de bepalingen van dat artikel. Een tot schadeloosstelling gehouden persoon heeft op zijn beurt verhaal op zijn rechtsvoorganger als die nagelaten heeft hem op de hoogte te brengen van het bestaan van de subsidie.
+
+### ART 16undevicies.
+
+§ 1. Als de voorwaarden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, niet worden nageleefd, wordt de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 2°, teruggevorderd van de eigenaar van het onroerend goed of bij de vruchtgebruiker.<br>
+<br>
+§ 2. In geval van overdracht ten bezwarende titel of om niet van de goederen waarvoor de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 2°, is verkregen, is de overdrager ertoe gehouden om in de akte van overdracht van de eigendom of het vruchtgebruik van het onroerend goed de verkrijger in te lichten over het bestaan van de subsidie, waarvoor de voorwaarden gelden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, op het ogenblik van het verlijden van de akte van overdracht, met verwijzing naar dat artikel.<br>
+<br>
+Iedere verkrijger is op zijn beurt ertoe gehouden een verdere verkrijger op dezelfde wijze in te lichten. De rechtsvoorganger van de eigenaar of vruchtgebruiker is ertoe gehouden de eigenaar of vruchtgebruiker schadeloos te stellen voor de terugbetaling van het openstaande saldo van de met toepassing van artikel 16septiesdecies, eerste lid, 2°, verkregen subsidie als hij nagelaten heeft zijn rechtsopvolger in te lichten over het bestaan van de subsidie conform de bepalingen van dat artikel. Een tot schadeloosstelling gehouden persoon heeft op zijn beurt verhaal op zijn rechtsvoorganger als die nagelaten heeft hem op de hoogte te brengen van het bestaan van de subsidie.
+
+### ART 16vicies.
+
+§ 1. Als de voorwaarden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, niet worden nageleefd, wordt de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 3°, teruggevorderd bij de eigenaar of vruchtgebruiker van het onroerend goed.<br>
+<br>
+§ 2. In geval van overdracht ten bezwarende titel of om niet van de goederen waarvoor de subsidie, vermeld in artikel 16septiesdecies, eerste lid, 3°, is verkregen, is de overdrager ertoe gehouden om in de akte van overdracht van de eigendom of het vruchtgebruik van het onroerend goed de verkrijger in te lichten over het bestaan van de subsidie, waarvoor de voorwaarden gelden, vermeld in artikel 16septiesdecies, derde lid of vierde lid, op het ogenblik van het verlijden van de akte van overdracht, met verwijzing naar dat artikel.<br>
+<br>
+Iedere verkrijger is op zijn beurt ertoe gehouden een verdere verkrijger op dezelfde wijze in te lichten. De rechtsvoorganger van de eigenaar of vruchtgebruiker is ertoe gehouden de eigenaar of vruchtgebruiker schadeloos te stellen voor de terugbetaling van het openstaande saldo van de met toepassing van artikel 16septiesdecies, eerste lid, 3°, verkregen subsidie als hij nagelaten heeft zijn rechtsopvolger in te lichten over het bestaan van de subsidie conform de bepalingen van dat artikel. Een tot schadeloosstelling gehouden persoon heeft op zijn beurt verhaal op zijn rechtsvoorganger als die nagelaten heeft hem op de hoogte te brengen van het bestaan van de subsidie.
 
 ## HOOFDSTUK V GEBIEDSGERICHT BELEID
 
