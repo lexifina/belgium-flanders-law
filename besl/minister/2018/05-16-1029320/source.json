@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029320,
+  "title": "Ministerieel besluit van 2018-05-16 betreffende de aanwijzing van zwemwateren voor het badseizoen 2018",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029320/VolledigDocument?datum=2018-06-09",
+  "source_sha256": "a8faf3238295cbdf38d73a658f74e024f418f277ee5754a500e524639f413f98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029320&param=informatie",
+  "as_of": "2018-06-09",
+  "made": "2018-05-16",
+  "gazette": "2018-05-30",
+  "numac": 2018031093,
+  "document_start": "2018-06-09",
+  "document_end": null,
+  "in_force": "2018-06-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
