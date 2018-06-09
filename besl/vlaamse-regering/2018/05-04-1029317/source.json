@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029317,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-04 houdende inwerkingtreding van het decreet van 22 december 2017 betreffende de fiscale gunstmaatregelen die verbonden zijn aan natuurbeheerplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029317/VolledigDocument?datum=2018-06-09",
+  "source_sha256": "2d54360df9ff19c26705671541f72f4d4afc1c2adda9889c680ad56fd2d14348",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029317&param=informatie",
+  "as_of": "2018-06-09",
+  "made": "2018-05-04",
+  "gazette": "2018-05-30",
+  "numac": 2018012196,
+  "document_start": "2018-06-09",
+  "document_end": null,
+  "in_force": "2018-06-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
