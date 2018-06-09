@@ -423,7 +423,8 @@ Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het
 6° de nieuwe onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92, waarvoor voor de eerste keer, overeenkomstig artikel 472, § 2, van het federale WIB 92, een kadastraal inkomen is vastgesteld na 1 januari 1998 en voor 1 januari 2008;<br>
 7° de onroerende goederen die onder de toepassing van het Bosdecreet van 13 juni 1990 vallen en die met toepassing van artikel 16 van het voormelde decreet als milieubeschermend bos zijn erkend, of die met toepassing van artikel 22 van het voormelde decreet als bosreservaat zijn erkend of aangewezen, of die erkend zijn voor de productie van bosbouwkundig teeltmateriaal als vermeld in artikel 42 van het voormelde decreet;<br>
 8° de als monument beschermde onroerende goederen of delen ervan die de Vlaamse Regering in erfpacht heeft gegeven of in volle eigendom heeft afgestaan aan een vereniging of stichting die is opgericht overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, en waarvan de hoofddoelstelling erin bestaat een of meer beschermde onroerende goederen waarvan ze eigenaar of erfpachter is, in stand te houden, te beheren en te ontsluiten;<br>
-9° de onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92 voor het gedeelte dat overeenstemt met het kadastraal inkomen van de nieuwe onroerende goederen waarvoor overeenkomstig artikel 472, § 2, van het federale WIB 92 een kadastraal inkomen wordt vastgesteld vanaf 1 januari 2014 en voor 1 januari 2020. Die vrijstelling kan cumulatief worden genoten met de vrijstellingen, vermeld in punt 4° tot en met punt 6°.</p>
+9° de onroerende goederen, vermeld in artikel 471, § 3, van het federale WIB 92 voor het gedeelte dat overeenstemt met het kadastraal inkomen van de nieuwe onroerende goederen waarvoor overeenkomstig artikel 472, § 2, van het federale WIB 92 een kadastraal inkomen wordt vastgesteld vanaf 1 januari 2014 en voor 1 januari 2020. Die vrijstelling kan cumulatief worden genoten met de vrijstellingen, vermeld in punt 4° tot en met punt 6°;<br>
+10° de onbebouwde onroerende goederen waarvoor een natuurbeheerplan als vermeld in artikel 16ter, § 1, 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform de bepalingen en uitvoeringsbepalingen van het voormelde decreet.</p>
 
 <p>De vrijstelling, vermeld in het eerste lid, 3°, is van de drie voorwaarden, vermeld in het eerste lid, 3°, samen afhankelijk. Bij de beoordeling van de voorwaarde dat de goederen op zichzelf niets mogen opbrengen wordt geen rekening gehouden met het feit dat deze onroerende goederen worden gebruikt voor het installeren van hernieuwbare energietechnologieën zoals vermeld in het Energiedecreet van 8 mei 2009, zelfs indien de belastingschuldige daarvoor een vergoeding krijgt van een derde partij.</p>
 
@@ -2435,7 +2436,13 @@ De verkrijging wordt vermoed kosteloos te zijn ontvangen, behoudens tegenbewijs.
 
 ### ART. 2.7.3.2.9.
 
-Als er schenkingen onder de levenden als vermeld in artikel 3.3.1.0.8, §   1, eerste lid, 12°, bestaan, wordt de basis waarop de schenkbelasting is geheven   of zou moeten worden geheven, gevoegd bij de erfgoederen van de belanghebbenden   om de progressieve erfbelasting die op die erfgoederen van toepassing is, te   bepalen.<BR><BR>Het eerste lid is niet van toepassing op :<BR>1° schenkingen   onder de levenden van percelen grond die volgens de stedenbouwkundige   voorschriften bestemd zijn voor woningbouw en waarop de schenkbelasting, vermeld   in artikel 2.8.4.2.1, tabel I, is geheven;<BR>2° schenkingen onder de levenden   van roerende goederen waarop de schenkbelasting, vermeld in artikel 2.8.4.1.1, §   2, is geheven;<BR>3° schenkingen onder de levenden van ondernemingen waarop voor   1 januari 2012 het recht, vermeld in artikel 140bis van het Wetboek van   Registratie-, Hypotheek-, en Griffierechten, is geheven of waarvoor vanaf 1   januari 2012 de vrijstelling, vermeld in artikel 2.8.6.0.3, is   toegepast.
+Als er schenkingen onder de levenden als vermeld in artikel 3.3.1.0.8, § 1, eerste lid, 12°, bestaan, wordt de basis waarop de schenkbelasting is geheven of zou moeten worden geheven, gevoegd bij de erfgoederen van de belanghebbenden om de progressieve erfbelasting die op die erfgoederen van toepassing is, te bepalen.<br>
+<br>
+Het eerste lid is niet van toepassing op :<br>
+1° schenkingen onder de levenden van percelen grond die volgens de stedenbouwkundige voorschriften bestemd zijn voor woningbouw en waarop de schenkbelasting, vermeld in artikel 2.8.4.2.1, tabel I, is geheven;<br>
+2° schenkingen onder de levenden van roerende goederen waarop de schenkbelasting, vermeld in artikel 2.8.4.1.1, § 2, is geheven;<br>
+3° schenkingen onder de levenden van ondernemingen waarop voor 1 januari 2012 het recht, vermeld in artikel 140bis van het Wetboek van Registratie-, Hypotheek-, en Griffierechten, is geheven of waarvoor vanaf 1 januari 2012 de vrijstelling, vermeld in artikel 2.8.6.0.3, is toegepast;<br>
+4° schenkingen onder de levenden van onbebouwde onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast.
 
 ### ART. 2.7.3.2.10.
 
@@ -2531,7 +2538,11 @@ De nettoverkrijging wordt bepaald door het aandeel dat de erfgenaam,   legataris
 
 ### ART. 2.7.3.5.2.
 
-<P>Voor de toepassing van artikel 2.7.4.1.1 worden niet-specifieke schulden en   begrafeniskosten eerst aangerekend op de goederen, vermeld in artikel 2.7.4.2.2,   vervolgens op de roerende goederen en ten slotte op de onroerende   goederen.<BR><BR>De schulden, waarvan wordt bewezen dat ze specifiek werden   aangegaan om bepaalde goederen te verwerven of te behouden, worden aangerekend   op de desbetreffende categorie van goederen, vermeld in artikel 2.7.4.1.1, § 2,   en artikel 2.7.4.2.2, § 1. Wanneer een bepaalde categorie van goederen   ontoereikend is voor de volledige aanrekening van een specifieke schuld, wordt   het overblijvende gedeelte van de schuld aangerekend zoals een niet-specifieke   schuld.<BR><BR>Als de langstlevende partner een deel verkrijgt in de   gezinswoning, wordt zijn aandeel in de schulden van de nalatenschap, die   specifiek zijn aangegaan om de gezinswoning te verwerven of te behouden, eerst   aangerekend op de waarde van zijn deel in de gezinswoning. Wanneer zijn deel in   de gezinswoning ontoereikend is voor de aanrekening van de volledige schuld,   wordt het overblijvende gedeelte aangerekend zoals een specifiek onroerende   schuld. Alle andere schulden van de langstlevende partner volgen, naargelang het   geval, de toerekening voorzien in het eerste lid of het tweede lid, en worden   pas in laatste instantie aangerekend op de waarde van zijn deel in de   gezinswoning.</P>
+<p>Voor de toepassing van artikel 2.7.4.1.1 worden niet-specifieke schulden en begrafeniskosten eerst aangerekend op de goederen, vermeld in artikel 2.7.4.2.2, vervolgens op de roerende goederen en ten slotte op de onroerende goederen.<br>
+<br>
+De schulden, waarvan wordt bewezen dat ze specifiek werden aangegaan om bepaalde goederen te verwerven of te behouden, worden aangerekend op de desbetreffende categorie van goederen,&nbsp;vermeld in artikel 2.7.4.1.1, § 2, artikel 2.7.4.2.2, § 1, en artikel 2.7.6.0.5. Wanneer een bepaalde categorie van goederen ontoereikend is voor de volledige aanrekening van een specifieke schuld, wordt het overblijvende gedeelte van de schuld aangerekend zoals een niet-specifieke schuld.<br>
+<br>
+Als de langstlevende partner een deel verkrijgt in de gezinswoning, wordt zijn aandeel in de schulden van de nalatenschap, die specifiek zijn aangegaan om de gezinswoning te verwerven of te behouden, eerst aangerekend op de waarde van zijn deel in de gezinswoning. Wanneer zijn deel in de gezinswoning ontoereikend is voor de aanrekening van de volledige schuld, wordt het overblijvende gedeelte aangerekend zoals een specifiek onroerende schuld. Alle andere schulden van de langstlevende partner volgen, naargelang het geval, de toerekening voorzien in het eerste lid of het tweede lid, en worden pas in laatste instantie aangerekend op de waarde van zijn deel in de gezinswoning.</p>
 
 ## [Afdeling 4. Tarieven (ing. Decr. 19 december 2014, art. 50, I: 1 januari 2015)]
 
@@ -2708,6 +2719,17 @@ De waarde van de onroerende goederen die te beschouwen zijn als bos als   vermel
 
 De waarde van de zaken die ascendenten verkrijgen uit de nalatenschap van   de erflater, wordt vrijgesteld van de erfbelasting als de volgende voorwaarden   cumulatief zijn vervuld :<BR>1° de zaken zijn door die ascendenten onder de   levenden aan de erflater geschonken voor zijn overlijden;<BR>2° de zaken   bevinden zich nog in natura in de nalatenschap of er is, als ze zijn vervreemd,   nog een schuldvordering in de nalatenschap aanwezig;<BR>3° de erflater is zonder   nakomelingen gestorven.
 
+### ART 2.7.6.0.5.
+
+§ 1. De waarde van de nettoverkrijging in de onbebouwde onroerende goederen waarvoor een natuurbeheerplan type twee, drie of vier als vermeld in artikel 16ter, § 1, 2°, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet, wordt op de datum van het openvallen van de nalatenschap, zowel voor de grond- als voor de opstandswaarde, als volgt van de erfbelasting vrijgesteld:<br>
+1° ten belope van 50% in geval van een natuurbeheerplan type twee;<br>
+2° ten belope van 75% in geval van een natuurbeheerplan type drie;<br>
+3° ten belope van 100% in geval van een natuurbeheerplan type vier.<br>
+<br>
+§ 2. De vrijstelling, vermeld in paragraaf 1, is ook van toepassing als er nog geen natuurbeheerplan is afgesloten, en als de erflater een intentieovereenkomst met het Agentschap voor Natuur en Bos heeft afgesloten of als de erfgenaam, legataris of begiftigde de intentie heeft om op het onroerend goed een natuurbeheerplan type twee, drie of vier als vermeld in artikel 16ter, § 1, 2°, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, tot stand te brengen.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt aan de erfgenaam, legataris of begiftigde verleend als de erfgenaam, legataris of begiftigde binnen een termijn van zes maanden na het openvallen van de nalatenschap een overeenkomst heeft gesloten met het Agentschap voor Natuur en Bos, waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren. In voorkomend geval dient deze overeenkomst gezamenlijk te zijn afgesloten met alle andere houders van zakelijke rechten op het desbetreffende goed.
+
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 73, I: 1 januari 2015)]
 
 ### ART. 2.7.7.0.1.
@@ -2769,7 +2791,9 @@ De schenkbelasting, verschuldigd op akten waarbij eigendom of   vruchtgebruik va
 
 § 1. Als er eerdere schenkingen van onroerende goederen bestaan tussen dezelfde partijen, die vastgesteld zijn door akten die dateren van minder dan drie jaar vóór de datum van de nieuwe schenking van onroerende goederen, wordt de belastbare grondslag van die eerdere schenkingen gevoegd bij de belastbare grondslag van de nieuwe schenking om de toepasselijke schenkbelasting op de nieuwe schenking te bepalen.<br>
 <br>
-Het eerste lid is niet van toepassing op de onroerende goederen die deel uitmaken van een vrijgestelde schenking van activa als vermeld in artikel 2.8.6.0.3, § 1, 1°.<br>
+Het eerste lid is niet van toepassing op:<br>
+1° de onroerende goederen die deel uitmaken van een vrijgestelde schenking van activa als vermeld in artikel 2.8.6.0.3, § 1, 1° ;<br>
+2° de onbebouwde onroerende goederen waarop de vrijstelling, vermeld in artikel 2.8.6.0.8, is toegepast.<br>
 <br>
 § 2. Als in dezelfde akte of in een andere akte van dezelfde datum naast de grond die volgens de stedenbouwkundige voorschriften bestemd is voor woningbouw, nog andere onroerende goederen worden geschonken, wordt voor de toepassing van paragraaf 1 de schenking van de bouwgrond geacht vóór de schenking van de andere goederen geregistreerd te zijn of verplicht registreerbaar te zijn geworden.<br>
 <br>
@@ -3114,6 +3138,18 @@ Voor de toepassing van artikel 2.8.6.0.3 en artikel 2.8.6.0.6., § 1, 2°,   moe
 ### ART. 2.8.6.0.7.
 
 § 1. Na verloop van een termijn van drie jaar na de datum van de   authentieke akte van schenking controleert het bevoegde personeelslid of de   voorwaarden, gesteld voor het behoud van de vrijstelling, vervuld   zijn.<BR><BR>Bij niet-vervulling van de voorwaarden, vermeld in het eerste lid,   wordt de schenkbelasting geacht verschuldigd te zijn, berekend tegen het tarief,   vermeld in artikel 2.8.4.1.1, zonder toepassing van de vrijstelling.<BR><BR>Bij   niet-vervulling van de voorwaarde, vermeld in artikel 2.8.6.0.6, § 2, 3°, is de   schenkbelasting evenredig verschuldigd tegen het tarief, vermeld in artikel   2.8.4.1.1, zonder toepassing van de vrijstelling.<BR><BR>§ 2. Als de   schenkbelasting verschuldigd is doordat de voorwaarden, gesteld tot behoud van   de vrijstelling, niet langer vervuld zijn, kunnen de begiftigden dat melden bij   de bevoegde entiteit van de Vlaamse administratie.<BR><BR>Bij niet-vervulling   van de voorwaarden, vermeld in het eerste lid, wordt de schenkbelasting geacht   verschuldigd te zijn, berekend tegen het tarief, vermeld in artikel 2.8.4.1.1,   zonder toepassing van de vrijstelling.<BR><BR>Bij niet-vervulling van de   voorwaarde, vermeld in artikel 2.8.6.0.6, § 2, 3°, is de schenkbelasting   evenredig verschuldigd tegen het tarief, vermeld in artikel 2.8.4.1.1, zonder   toepassing van de vrijstelling.
+
+### ART 2.8.6.0.8.
+
+§ 1. De waarde van de onbebouwde onroerende goederen waarvoor een natuurbeheerplan type twee, drie of vier als vermeld in artikel 16ter, § 1, 2°, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet, wordt, zowel voor de grond- als voor de opstandswaarde, als volgt van de schenkbelasting vrijgesteld:<br>
+1° ten belope van 75% voor een natuurbeheerplan type twee;<br>
+2° ten belope van 100% voor een natuurbeheerplan type drie en vier.<br>
+<br>
+§ 2. De vrijstelling, vermeld in paragraaf 1, is ook van toepassing als er nog geen natuurbeheerplan is afgesloten, als het onroerend goed wordt geschonken met het oog op het tot stand brengen van een natuurbeheerplan type twee, drie of vier als vermeld in artikel 16ter, § 1, 2°, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt verleend op voorwaarde dat uiterlijk bij de aanbieding ter registratie van de authentieke schenkingsakte een overeenkomst is gesloten met het Agentschap voor Natuur en Bos waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren.<br>
+<br>
+§ 3. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 4°, en § 5,&nbsp;vierde en vijfde lid.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 105, I: 1 januari 2015)]
 
@@ -3471,6 +3507,16 @@ In afwijking van artikel 2.9.1.0.3 wordt een vrijstelling van het   verkooprecht
 ### ART. 2.9.6.0.6.
 
 Er wordt een vrijstelling van het verkooprecht verleend voor vonnissen en   arresten houdende vernietiging, ontbinding of herroeping van een overeenkomst   als vermeld in artikel 2.9.1.0.1, waarbij eigendom of vruchtgebruik wordt   overgedragen van onroerende goederen die in België liggen.<BR><BR>Als de   vernietiging, ontbinding of herroeping, vermeld in het eerste lid, uitgesproken   is ten voordele van een andere persoon dan een van de partijen bij de   overeenkomst, haar erfgenamen of legatarissen worden, al naargelang het geval,   de rechten, vermeld in hoofdstuk 8 tot en met 11, geheven die verschuldigd   geweest zouden zijn als de vernietiging, de ontbinding of de herroeping het   voorwerp van een minnelijke akte had uitgemaakt.
+
+### ART 2.9.6.0.7.
+
+§ 1. De waarde van de onbebouwde onroerende goederen waarvoor een natuurbeheerplan type vier als vermeld in artikel 16ter, § 1, 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is goedgekeurd conform artikel 16octies van het voormelde decreet, wordt volledig van het verkooprecht vrijgesteld. De vrijstelling geldt zowel voor de grond- als voor de opstandswaarde.<br>
+<br>
+§ 2. De vrijstelling, vermeld in paragraaf 1, is ook van toepassing als nog geen natuurbeheerplan is gesloten, als het onroerend goed wordt gekocht met het oog op het tot stand brengen van een natuurbeheerplan type vier als vermeld in artikel 16ter, § 1, 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, wordt verleend op voorwaarde dat uiterlijk bij de aanbieding ter registratie van de authentieke koopakte een overeenkomst is gesloten met het Agentschap voor Natuur en Bos waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren.<br>
+<br>
+§ 3. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 4°, en § 5, achtste en negende lid.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 156, I: 1 januari 2015)]
 
@@ -3913,7 +3959,8 @@ f) de vrijstelling, vermeld in artikel 2.7.6.0.1, waarbij tevens de maatschappel
 g) de vrijstelling, vermeld in artikel 2.7.6.0.2;<br>
 h) de vrijstelling, vermeld in artikel 2.7.6.0.3. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 13bis van het Bosdecreet van 13 juni 1990 en dat voldaan is aan de voorwaarden van artikel 2.7.6.0.3, tweede lid;<br>
 i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
-j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid.<br>
+j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
+k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte.<br>
 <br>
 Als het successierecht verschuldigd is, bevat de aangifte bovendien de uitdrukkelijke vermelding van het adres en de datum en duur van de vestiging van de verschillende fiscale woonplaatsen die de erflater of de afwezige gehad heeft in de periode van vijf jaar voorafgaand aan zijn overlijden of aan het tijdstip waarop het laatste bericht van de afwezige werd ontvangen.<br>
 <br>
@@ -4308,7 +4355,16 @@ De beslissing wordt schriftelijk meegedeeld en ze vermeldt de wijze waarop   ert
 
 ### ART. 3.6.0.0.4.
 
-Wat de erfbelasting betreft, verleent het bevoegde personeelslid ook   ontheffing van de erfbelasting in de volgende gevallen op voorwaarde dat een   aangifte is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het   jaar waarin het recht tot teruggave is ontstaan, die het hierna vermelde feit   aanduidt :<BR>1° wanneer, na het openvallen van de nalatenschap, de actieve   samenstelling ervan verminderd wordt, hetzij door :<BR>a) het intreden van een   voorwaarde of van elk ander voorval;<BR>b) de oplossing van een geschil   ingevolge een in kracht van gewijsde gegaan vonnis of een transactie.<BR>De   ontheffing is niet mogelijk als de vermindering van het actief het gevolg is van   een ontbinding ingevolge het niet-uitvoeren door de erfgenamen, legatarissen of   begiftigden van de voorwaarden van een contract;<BR>2° wanneer een verandering   in de devolutie van de nalatenschap ontstaat waardoor het aanvankelijk berekende   bedrag kan worden verminderd;<BR>3° wanneer in de gevallen, vermeld in artikel   2.7.4.1.2, de belanghebbende de werkelijke toestand aantoont, waardoor het   aanvankelijk berekende bedrag kan worden verminderd.<BR><BR>De bepalingen van   artikel 3.6.0.0.2 en 3.6.0.0.3 zijn onverminderd van toepassing op dit   artikel.
+Wat de erfbelasting betreft, verleent het bevoegde personeelslid ook ontheffing van de erfbelasting in de volgende gevallen op voorwaarde dat een aangifte is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan, die het hierna vermelde feit aanduidt :<br>
+1° wanneer, na het openvallen van de nalatenschap, de actieve samenstelling ervan verminderd wordt, hetzij door :<br>
+a) het intreden van een voorwaarde of van elk ander voorval;<br>
+b) de oplossing van een geschil ingevolge een in kracht van gewijsde gegaan vonnis of een transactie.<br>
+De ontheffing is niet mogelijk als de vermindering van het actief het gevolg is van een ontbinding ingevolge het niet-uitvoeren door de erfgenamen, legatarissen of begiftigden van de voorwaarden van een contract;<br>
+2° wanneer een verandering in de devolutie van de nalatenschap ontstaat waardoor het aanvankelijk berekende bedrag kan worden verminderd;<br>
+3° wanneer in de gevallen, vermeld in artikel 2.7.4.1.2, de belanghebbende de werkelijke toestand aantoont, waardoor het aanvankelijk berekende bedrag kan worden verminderd;<br>
+4° wanneer aan de voorwaarde van artikel 2.7.6.0.5, § 2, tweede lid, wordt voldaan.<br>
+<br>
+De bepalingen van artikel 3.6.0.0.2 en 3.6.0.0.3 zijn onverminderd van toepassing op dit artikel.
 
 ### ART. 3.6.0.0.5.
 
@@ -4827,7 +4883,7 @@ Als openbare of private kredietinstellingen of -inrichtingen kredieten,   lening
 1° de voorwaarden van het abattement, vermeld in artikel 2.8.3.0.4, vervuld zijn;<br>
 2° de voorwaarden van het verlaagde tarief dat ze willen verkrijgen, vervuld zijn;<br>
 3° de voorwaarden van hetzij de vermindering, hetzij de vrijstelling die ze willen verkrijgen, vervuld zijn of vervuld zullen worden;<br>
-4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.9.4.2.10, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
+4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.9.3.0.2, artikel 2.9.3.0.3, artikel 2.9.4.2.1, artikel 2.9.4.2.10, artikel 2.9.5.0.1, artikel 2.8.6.0.8, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2, artikel 2.9.6.0.7, artikel 2.10.3.0.2, artikel 2.10.4.0.1, tweede lid,&nbsp;artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
 5° het geschonken onroerend goed een beschermd monument is en dat het voornemen bestaat toepassing te vragen van artikel 2.8.4.4.1.<br>
 <br>
 § 2. Als partijen de toepassing vragen van het abattement, vermeld in artikel 2.10.3.0.2, maken ze ook melding van het aantal kinderen die recht geven op een verhoging van het bedrag, vermeld in dat artikel, met vermelding van hun naam, geboortedatum en afstammingsband.<br>
@@ -4892,6 +4948,10 @@ Als toepassing gemaakt wordt van het eerste lid, en om de vrijstelling, vermeld 
 <br>
 Als de bescheiden, vermeld in het tweede lid, worden bezorgd met een aangetekende brief, geldt de datum van de poststempel op het verzendingsbewijs als datum van de indiening.<br>
 <br>
+Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.8.6.0.8, § 1, wordt bij de akte, vermeld in paragraaf 1, een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan als vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu toegevoegd.<br>
+<br>
+Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.8.6.0.8, § 2, wordt bij de akte, vermeld in paragraaf 1, een afschrift van de overeenkomst, vermeld in artikel 2.8.6.0.8, § 2, tweede lid, toegevoegd.<br>
+<br>
 De vrijstelling, vermeld in artikel 2.9.6.0.1, eerste lid, 4°, en artikel 2.10.6.0.1, eerste lid, 2°, is alleen van toepassing als in de akte of in een vóór de registratie bij de akte te voegen geschrift de volgende gegevens worden vermeld :<br>
 1° de datum van de eerste ingebruikneming of inbezitneming van het gebouw waarop de overeenkomst betrekking heeft;<br>
 2° het kantoor waar de belastingplichtige van de belasting over de toegevoegde waarde de aangifte moet indienen voor de heffing van de belasting over de toegevoegde waarde;<br>
@@ -4904,7 +4964,11 @@ Voor de toepassing van de vrijstelling, vermeld in artikel 2.9.6.0.4, is vereist
 <br>
 Als de partijen de toepassing vragen van het verlaagde tarief, vermeld in artikel 2.9.4.2.14, is ook vereist dat in de verklaring, vermeld in paragraaf 1:<br>
 1° melding wordt gemaakt van het goedgekeurde beheersplan, vermeld in artikel 2.9.4.2.10, § 2, 2°, met opgave van de referentie, alsook de datum van de goedkeuring van het beheersplan door het agentschap, vermeld in artikel 2.1, 2°, van het Onroerenderfgoeddecreet van 12 juli 2013. Als het beheersplan nog niet is opgemaakt en goedgekeurd op het moment van het verlijden van de authentieke akte van verkrijging, bestaat de verklaring in de melding dat er een beheersplan opgemaakt zal worden als vermeld in artikel 8.1.1 tot en met 8.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-2° de partijen melding maken van hun kennis van artikel 10.5.2 van het Onroerenderfgoeddecreet van 12 juli 2013.
+2° de partijen melding maken van hun kennis van artikel 10.5.2 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.9.6.0.7, § 1, wordt bij de akte, vermeld in paragraaf 1, een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan als vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu toegevoegd.<br>
+<br>
+Als partijen de toepassing vragen van de vrijstelling, vermeld in artikel 2.9.6.0.7, § 2, wordt bij de akte, vermeld in paragraaf 1, een afschrift van de overeenkomst, vermeld in artikel 2.9.6.0.7, § 2, tweede lid, toegevoegd.
 
 ### ART. 3.12.3.0.2.
 
