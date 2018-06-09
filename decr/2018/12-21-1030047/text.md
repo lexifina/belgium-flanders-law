@@ -4,6 +4,10 @@
 
 ## HOOFDSTUK 2. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
+### ART 14.
+
+In artikel 2.8.6.0.8, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2017, worden de woorden "derde en vierde lid" vervangen door de woorden "vierde en vijfde lid".
+
 ### ART 18.
 
 In artikel 2.9.4.2.11 van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2018, worden de volgende wijzigingen aangebracht:<br>
