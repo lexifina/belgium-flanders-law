@@ -2,16 +2,16 @@
   "codex_id": 1014190,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 houdende de toewijzing van de personeelsleden van de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of het Vlaamse Gewest aan de strategische adviesraden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014190/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3cdd5de6ab6c40452576838f7815bb0287c61f8e7f3cccbd70cc4bcae13066ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014190/VolledigDocument?datum=2018-06-10",
+  "source_sha256": "e1976f8706524b1bec101fffcdcb92f432337891ad15936069f4cff58b345bd2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014190&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-06-10",
   "made": "2005-12-16",
   "gazette": "2006-01-11",
   "numac": 2005036653,
   "document_start": "2006-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2018-06-10",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-06-10; future article versions excluded; article text as the API gives it"
 }
