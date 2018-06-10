@@ -37,7 +37,7 @@ c) het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en S
 d) het Agentschap voor Infrastructuur in het Onderwijs;<br>
 e) de Vlaamse Onderwijsraad;<br>
 f) het Gemeenschapsonderwijs;<br>
-g) het Universitair Ziekenhuis Gent;<br>
+g) ...;<br>
 <br>
 4° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
 a) de Vlaamse Belastingdienst;<br>
