@@ -6,7 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Er wordt een basisoverlegcomité opgericht voor elk van de hiernavolgende publiekrechtelijke rechtspersonen die ressorteren onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest : <br />1° de Vlaamse Radio- en Televisieomroep; <br />2° het Universitair Ziekenhuis Gent; <br />3° de administratieve diensten van het Gemeenschapsonderwijs. <br /><br />Voor de Vlaamse Maatschappij voor Watervoorziening wordt er een tussenoverlegcomité, met als gebied het geheel van de diensten van de maatschappij opgericht, en worden de volgende basisoverlegcomités opgericht : <br />1° een basisoverlegcomité per provinciale directie; <br />2° een basisoverlegcomité voor de Centrale Directies.<br /><br />
+Er wordt een basisoverlegcomité opgericht voor elk van de hiernavolgende publiekrechtelijke rechtspersonen die ressorteren onder de Vlaamse Gemeenschap en/of het Vlaamse Gewest :<br>
+1° de Vlaamse Radio- en Televisieomroep;<br>
+2° ...;<br>
+3° de administratieve diensten van het Gemeenschapsonderwijs.<br>
+<br>
+Voor de Vlaamse Maatschappij voor Watervoorziening wordt er een tussenoverlegcomité, met als gebied het geheel van de diensten van de maatschappij opgericht, en worden de volgende basisoverlegcomités opgericht :<br>
+1° een basisoverlegcomité per provinciale directie;<br>
+2° een basisoverlegcomité voor de Centrale Directies.<br>
+&nbsp;
 
 ### ART. 2.
 
