@@ -6,7 +6,14 @@
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of van het Vlaamse Gewest:<br /><br />a) het ministerie van de Vlaamse Gemeenschap;<br /><br />b) de Vlaamse wetenschappelijke instellingen, met inbegrip van de eigen vermogens en rechtspersoonlijkheid van deze instellingen;<br /><br />c) de Vlaamse openbare instellingen, met uitzondering van het Universitair Ziekenhuis Gent, de Vlaamse Maatschappij voor Watervoorziening, het Gemeenschapsonderwijs, de Sociaal-Economische Raad van Vlaanderen en de Vlaamse Onderwijsraad;<br /><br />d) de private rechtspersonen, waarvan de Vlaamse Regering beslist dat ze zullen worden geïntegreerd in de nieuwe structuur ingevolge het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br /><br />2° personeelsleden: de ambtenaren en contractuele personeelsleden die zijn tewerkgesteld bij de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of van het Vlaamse Gewest;<br /><br />3° departementen en verzelfstandigde agentschappen: de departementen en intern en extern verzelfstandigde agentschappen die werden opgericht in uitvoering van het kaderdecreet bestuurlijk beleid van 18 juli 2003.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of van het Vlaamse Gewest:<br>
+a) het ministerie van de Vlaamse Gemeenschap;<br>
+b) de Vlaamse wetenschappelijke instellingen, met inbegrip van de eigen vermogens en rechtspersoonlijkheid van deze instellingen;<br>
+c) de Vlaamse openbare instellingen, met uitzondering van&nbsp;de Vlaamse Maatschappij voor Watervoorziening, het Gemeenschapsonderwijs, de Sociaal-Economische Raad van Vlaanderen en de Vlaamse Onderwijsraad;<br>
+d) de private rechtspersonen, waarvan de Vlaamse Regering beslist dat ze zullen worden geïntegreerd in de nieuwe structuur ingevolge het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+2° personeelsleden: de ambtenaren en contractuele personeelsleden die zijn tewerkgesteld bij de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of van het Vlaamse Gewest;<br>
+3° departementen en verzelfstandigde agentschappen: de departementen en intern en extern verzelfstandigde agentschappen die werden opgericht in uitvoering van het kaderdecreet bestuurlijk beleid van 18 juli 2003.
 
 ### ART. 3.
 

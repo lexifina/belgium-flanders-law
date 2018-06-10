@@ -2,16 +2,16 @@
   "codex_id": 1013822,
   "title": "Besluit van de Vlaamse Regering van 2005-05-20 houdende toewijzing van de personeelsleden van de diensten, instellingen en rechtspersonen die afhangen van de Vlaamse Gemeenschap en/of van het Vlaamse Gewest, aan de departementen en de verzelfstandigde agentschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013822/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d6036857447ae576cf2350ad2062dba4b76ba7655d737a058b513b2727886e25",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013822/VolledigDocument?datum=2018-06-10",
+  "source_sha256": "d6910b0a6c8a3b731e7eededb942fb1257724e4811d355c7f758add880c6969a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013822&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-06-10",
   "made": "2005-05-20",
   "gazette": "2005-06-16",
   "numac": 2005035671,
   "document_start": "2006-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2018-06-10",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-06-10; future article versions excluded; article text as the API gives it"
 }
