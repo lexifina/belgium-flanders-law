@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029328,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie grootkeukenhulpkok",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029328/VolledigDocument?datum=2018-06-11",
+  "source_sha256": "45e4cb3b8418fb7cef8bbd414b697b3604fbb87d1d236c083287b8c02e7c1a0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029328&param=informatie",
+  "as_of": "2018-06-11",
+  "made": "2018-01-26",
+  "gazette": "2018-06-01",
+  "numac": 2018031066,
+  "document_start": "2018-06-11",
+  "document_end": null,
+  "in_force": "2018-06-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
