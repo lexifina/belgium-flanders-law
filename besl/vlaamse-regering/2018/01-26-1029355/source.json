@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029355,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie bekapper",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029355/VolledigDocument?datum=2018-06-11",
+  "source_sha256": "3bca5a102a35d18b29badf63d0d01b25e39e27a8d18175fcb78692e028b11532",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029355&param=informatie",
+  "as_of": "2018-06-11",
+  "made": "2018-01-26",
+  "gazette": "2018-06-01",
+  "numac": 2018030995,
+  "document_start": "2018-06-11",
+  "document_end": null,
+  "in_force": "2018-06-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
