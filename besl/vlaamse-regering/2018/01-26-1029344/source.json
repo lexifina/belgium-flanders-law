@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029344,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie visual merchandiser",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029344/VolledigDocument?datum=2018-06-11",
+  "source_sha256": "f94f03332d1dc8042bd2bcfab7e9f64dfffa56f8aab114819017b8cd9eb98dc3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029344&param=informatie",
+  "as_of": "2018-06-11",
+  "made": "2018-01-26",
+  "gazette": "2018-06-01",
+  "numac": 2018012080,
+  "document_start": "2018-06-11",
+  "document_end": null,
+  "in_force": "2018-06-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
