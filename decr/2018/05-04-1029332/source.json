@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029332,
+  "title": "Decreet van 2018-05-04 betreffende de vrijwillige samenvoeging van de gemeenten Neerpelt en Overpelt en tot wijziging van de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds en de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029332/VolledigDocument?datum=2018-06-11",
+  "source_sha256": "354eb1fb58aae8ebe6a8216cab3c4ae60c63d7e9cfa6fc4be57272b63f3942d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029332&param=informatie",
+  "as_of": "2018-06-11",
+  "made": "2018-05-04",
+  "gazette": "2018-06-01",
+  "numac": 2018012107,
+  "document_start": "2018-06-11",
+  "document_end": null,
+  "in_force": "2018-06-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
