@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029348,
+  "title": "Besluit van de Vlaamse Regering van 2018-01-26 tot erkenning van de beroepskwalificatie programmeur software-, web-, en mobiletoepassingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029348/VolledigDocument?datum=2018-06-11",
+  "source_sha256": "d4810fa8dbb2fff87f07a2b5ff402277885a304bc310fb7c3ed40a6e5c5cf72a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029348&param=informatie",
+  "as_of": "2018-06-11",
+  "made": "2018-01-26",
+  "gazette": "2018-06-01",
+  "numac": 2018031045,
+  "document_start": "2018-06-11",
+  "document_end": null,
+  "in_force": "2018-06-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
