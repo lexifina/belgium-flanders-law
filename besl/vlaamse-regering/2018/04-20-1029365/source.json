@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029365,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot wijziging van artikel 5 van het besluit van de Vlaamse Regering van 5 oktober 2012 betreffende de bepaling van de patiëntbijdrage in de centra voor geestelijke gezondheidszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029365/VolledigDocument?datum=2018-06-15",
+  "source_sha256": "f3f9fc90299e4af1929bdca710334a36945fa6589148792ab622571438ccd55c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029365&param=informatie",
+  "as_of": "2018-06-15",
+  "made": "2018-04-20",
+  "gazette": "2018-06-05",
+  "numac": 2018012239,
+  "document_start": "2018-06-15",
+  "document_end": null,
+  "in_force": "2018-06-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
