@@ -2,16 +2,16 @@
   "codex_id": 1029423,
   "title": "Decreet van 2018-05-25 houdende wijziging van het decreet van 22 december 2017 over het lokaal bestuur, van de decreten van 4 mei 2018 over het samenvoegen van welbepaalde gemeenten, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 en van het Provinciedecreet van 9 december 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029423/VolledigDocument?datum=2018-05-31",
-  "source_sha256": "3be75a16d97e415a396c04720ad5388132b6e84ed04fe0fa7170d887c0831adc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029423/VolledigDocument?datum=2018-06-15",
+  "source_sha256": "58689f6bc72dd258f705a0feb3c06195e53139b0e89ddaaef3664502d699e0c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029423&param=informatie",
-  "as_of": "2018-05-31",
+  "as_of": "2018-06-15",
   "made": "2018-05-25",
   "gazette": "2018-06-15",
   "numac": 2018012631,
   "document_start": "2018-06-25",
   "document_end": null,
-  "in_force": "2018-05-31",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2018-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-06-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-15; future article versions excluded; article text as the API gives it"
 }

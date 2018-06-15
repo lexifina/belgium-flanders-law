@@ -4,9 +4,22 @@
 
 ## HOOFDSTUK II Wijziging van het decreet van 22 december 2017 over het lokaal bestuur
 
+### ART 15.
+
+In artikel 609 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt het woord "achtste" vervangen door het woord "negende";<br>
+2° er wordt een negende lid toegevoegd, dat luidt als volgt:<br>
+"Artikel 608/1 treedt in werking op 1 juni 2018.".<br>
+&nbsp;
+
 ## HOOFDSTUK III Wijziging van de decreten van 4 mei 2018 betreffende de vrijwillige samenvoeging van de gemeenten Deinze en Nevele, de gemeenten Meeuwen-Gruitrode en Opglabbeek, de gemeenten Puurs en Sint-Amands, de gemeenten Kruishoutem en Zingem, de gemeenten Lovendegem, Waarschoot en Zomergem, de gemeenten Neerpelt en Overpelt, en de gemeenten Aalter en Knesselare
 
 ## HOOFDSTUK IV Wijziging van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011
+
+### ART 24.
+
+Aan artikel 71, eerste lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, worden de volgende zinnen toegevoegd:<br>
+"De naam van een gehuwde kandidaat mag voorafgegaan of gevolgd worden door de naam van de echtgenoot of echtgenote van de kandidaat. De naam van een kandidaat die weduwnaar of weduwe is, mag voorafgegaan of gevolgd worden door de naam van de overleden echtgenoot of echtgenote van de kandidaat. Voor de toepassing van deze bepaling worden de personen die een wettelijk samenlevingscontract hebben afgesloten, met echtgenoten gelijkgesteld.".
 
 ## HOOFDSTUK V Wijziging van het Provinciedecreet van 9 december 2005
 
