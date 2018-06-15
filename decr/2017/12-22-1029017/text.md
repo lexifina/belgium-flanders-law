@@ -690,7 +690,7 @@ De aanstellende overheid beslist, in overeenstemming met de rechtspositieregelin
 
 ### ART 609.
 
-Dit decreet treedt in werking op 1 januari 2019, met uitzondering van de bepalingen waarvan de datum van inwerkingtreding in het tweede tot en met het achtste lid bepaald wordt.<br>
+Dit decreet treedt in werking op 1 januari 2019, met uitzondering van de bepalingen waarvan de datum van inwerkingtreding in het tweede tot en met het&nbsp;negende lid bepaald wordt.<br>
 <br>
 De volgende artikelen van dit decreet treden in werking op de tiende dag na de datum van bekendmaking van dit decreet in het Belgisch Staatsblad:<br>
 1° artikel 1;<br>
@@ -807,7 +807,7 @@ De volgende artikelen van dit decreet treden in werking op 1 januari 2020 :<br>
 22° artikel 578, 16° tot en met 18° ;<br>
 23° artikel 578, 20° ;<br>
 24° artikel 578, 22° ;<br>
-25° artikel 578, 24° ;<br>
+25° artikel 578, 24°;<br>
 26° artikel 578, 27° ;<br>
 27° artikel 578, 29° ;<br>
 28° artikel 578, 35° ;<br>
@@ -834,4 +834,6 @@ De volgende artikelen van dit decreet treden in werking op 1 januari 2021:<br>
 De volgende artikelen van dit decreet treden in werking op een door de Vlaamse Regering vast te stellen datum:<br>
 1° artikel 153, derde lid;<br>
 2° artikel 574;<br>
-3° artikel 603.
+3° artikel 603.<br>
+<br>
+Artikel 608/1 treedt in werking op 1 juni 2018.
