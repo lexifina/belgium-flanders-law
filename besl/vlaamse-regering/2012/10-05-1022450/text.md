@@ -30,7 +30,24 @@ De patiënt betaalt een persoonlijke financiële bijdrage voor elke consultatie 
 
 ### ART. 5.
 
-De persoonlijke financiële bijdrage voor een consultatie als vermeld in artikel 4, eerste lid, bedraagt 11 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering. <br /><br />Patiënten die in aanmerking komen voor een verhoogde tegemoetkoming binnen de ziekte- en invaliditeitsregelgeving, genieten een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering. <br /><br />Patiënten die in budgetbegeleiding, budgetbeheer of schuldbemiddeling zijn bij het OCMW of het CAW, genieten ook een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering.<br /><br />Patiënten ten laste van hun ouders of voogd die zonder medeweten van de ouders of voogd en omwille van probleemsituaties die in verband staan met de relaties tot de ouders of voogd naar een CGG komen, genieten van een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering. <br /><br />Patiënten die onder één van de volgende categorieën vallen, moeten geen patiëntbijdrage betalen : <br />1° gedetineerden : personen ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of van een vrijheidsbenemende maatregel geheel of gedeeltelijk plaatsvindt in een gevangenis; <br />2° asielzoekers en mensen zonder wettig verblijf;<br />3° personen aan wie urgentiezorg verstrekt wordt;<br />4° personen in een behartenswaardige situatie.<br /><br />Voor consultaties die langer dan zestig minuten duren, kan het CGG tweemaal het bedrag van de persoonlijke financiële bijdrage, vermeld in het eerste, tweede, derde en vierde lid, aanrekenen.<br /><br />De bijdragen worden verhoogd per veelvoud van 0,50 euro, telkens als door de opeenvolgende indexeringen, vermeld in het eerste, tweede, derde en vierde lid, de bijdragen met minstens hetzelfde veelvoud van 0,50 euro stijgen.
+De persoonlijke financiële bijdrage voor een consultatie als vermeld in artikel 4, eerste lid, bedraagt 11 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering.<br>
+<br>
+Patiënten die in aanmerking komen voor een verhoogde tegemoetkoming binnen de ziekte- en invaliditeitsregelgeving, genieten een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering.<br>
+<br>
+Patiënten die in budgetbegeleiding, budgetbeheer of schuldbemiddeling zijn bij een door de Vlaamse Gemeenschap erkende instelling als vermeld in artikel 6 van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling of bij een persoon als vermeld in artikel VII.115, 1°, van het Wetboek van economisch recht, genieten een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd conform de indexformule, na goedkeuring door de Vlaamse Regering.<br>
+<br>
+Patiënten fiscaal ten laste van hun ouders of voogd die zonder medeweten van de ouders of voogd&nbsp;naar een CGG komen, genieten van een verminderd tarief van 4 euro. Dat bedrag wordt geïndexeerd volgens de indexformule, na goedkeuring door de Vlaamse Regering.<br>
+<br>
+Patiënten die onder één van de volgende categorieën vallen, moeten geen patiëntbijdrage betalen :<br>
+1° gedetineerden : personen ten aanzien van wie de tenuitvoerlegging van een vrijheidsstraf of van een vrijheidsbenemende maatregel geheel of gedeeltelijk plaatsvindt in een gevangenis;<br>
+2° asielzoekers en mensen zonder wettig verblijf;<br>
+3° personen aan wie urgentiezorg verstrekt wordt;<br>
+4° personen in een behartenswaardige situatie;<br>
+5° personen voor wie de maximumfactuur voor de uitgaven van geneeskundige verzorging bereikt is.<br>
+<br>
+Voor consultaties die langer dan zestig minuten duren, kan het CGG tweemaal het bedrag van de persoonlijke financiële bijdrage, vermeld in het eerste, tweede, derde en vierde lid, aanrekenen.<br>
+<br>
+De bijdragen worden verhoogd per veelvoud van 0,50 euro, telkens als door de opeenvolgende indexeringen, vermeld in het eerste, tweede, derde en vierde lid, de bijdragen met minstens hetzelfde veelvoud van 0,50 euro stijgen.
 
 ### ART. 6.
 
