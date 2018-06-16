@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029370,
+  "title": "Decreet van 2018-05-18 tot wijziging van artikel 24 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029370/VolledigDocument?datum=2018-06-16",
+  "source_sha256": "2e6f85eaef4ccc87d991e77fc5d5fdfc31aed4820fed36412a8a57e680a7f56d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029370&param=informatie",
+  "as_of": "2018-06-16",
+  "made": "2018-05-18",
+  "gazette": "2018-06-06",
+  "numac": 2018012258,
+  "document_start": "2018-06-16",
+  "document_end": null,
+  "in_force": "2018-06-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
