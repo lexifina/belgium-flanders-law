@@ -124,7 +124,11 @@ Als iemand op grond van leeftijd ongunstiger wordt behandeld dan iemand anders i
 
 ### ART. 24.
 
-Als iemand op grond van zogenaamd ras, huidskleur, afkomst, of etnische of nationale afstamming ongunstiger wordt behandeld dan iemand anders in een vergelijkbare situatie wordt, is of zou worden behandeld, op de gebieden vermeld in artikel 20, 4°, 5°, 6° en 7°, is er sprake van directe discriminatie in de zin van artikel 16, § 1.
+§ 1. Als iemand op grond van zogenaamd ras, huidskleur, afkomst, of etnische of nationale afstamming ongunstiger wordt behandeld dan iemand anders in een vergelijkbare situatie wordt, is of zou worden behandeld, op de gebieden vermeld in artikel 20, 4°, 5°, 6° en 7°, is er sprake van directe discriminatie in de zin van artikel 16, § 1.<br>
+<br>
+§ 2. Als iemand op grond van geslacht ongunstiger wordt behandeld dan iemand anders in een vergelijkbare situatie wordt, is of zou worden behandeld, op het gebied vermeld in artikel 20, eerste lid, 6°, is er sprake van directe discriminatie in de zin van artikel 16, § 1.<br>
+<br>
+In afwijking van het eerste lid is er geen sprake van directe discriminatie in de zin van artikel 16, § 1, indien het aanbod van, de toegang tot, of de levering van goederen en diensten aan, uitsluitend of hoofdzakelijk, leden van een bepaald geslacht door een legitiem doel wordt gerechtvaardigd en de middelen voor het bereiken van dat doel passend en noodzakelijk zijn.
 
 ### ART. 25.
 
