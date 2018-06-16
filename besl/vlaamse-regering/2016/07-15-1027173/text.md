@@ -31,25 +31,20 @@ Besluit :<br>
 
 ### ART 1.
 
-Dit besluit voorziet in de gedeeltelijke omzetting van richtlijn 2014/103/EU van de Commissie van 21 november 2014 tot derde aanpassing aan de wetenschappelijke en technische vooruitgang van de bijlagen bij Richtlijn 2008/68/EG van het Europees Parlement en de Raad betreffende het vervoer van gevaarlijke goederen over land.<br>
-&nbsp;
+...
 
 ### ART 2.
 
-Het vervoer van gevaarlijke goederen over de binnenwateren is toegestaan als voldaan wordt aan de voorwaarden, bepaald in de bijlage, gevoegd bij dit besluit, tenzij anders vermeld is in de bijlage.
+...
 
 ### ART 3.
 
-Het besluit van de Vlaamse Regering van 14 december 2012 betreffende het vervoer van gevaarlijke goederen over de binnenwateren, gewijzigd bij het besluit van de Vlaamse Regering van 6 juni 2014, wordt opgeheven.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer, is belast met de uitvoering van dit besluit.<br>
-&nbsp;
+...
 
 ### BIJLAGE
 
-De bijlage van het "Besluit van de Vlaamse Regering van 15 juli 2016 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de binnenwateren aan de wetenschappelijke en technische vooruitgang" is via onderstaande link raadpleegbaar:<br>
-<a href="http://www.rijksoverheid.nl/onderwerpen/gevaarlijke-stoffen/documenten/publicaties/2015/05/21/adn-2015">https://www.rijksoverheid.nl/onderwerpen/gevaarlijke-stoffen/documenten/publicaties/2015/05/21/adn-2015</a><br>
-<br>
-&nbsp;
+...

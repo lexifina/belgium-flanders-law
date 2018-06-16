@@ -2,16 +2,16 @@
   "codex_id": 1027173,
   "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot aanpassing van de regelgeving betreffende het vervoer van gevaarlijke goederen over de binnenwateren aan de wetenschappelijke en technische vooruitgang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027173/VolledigDocument?datum=2016-09-08",
-  "source_sha256": "6105ad70cb9484b170f8bf5968ffee0e3c6a11e066b78e2be468ed388dc51671",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027173/VolledigDocument?datum=2018-06-16",
+  "source_sha256": "ff11ac1445ab4859299da5a9dbacea94ea2809d2c418f446455d0a602a6c1d5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027173&param=informatie",
-  "as_of": "2016-09-08",
+  "as_of": "2018-06-16",
   "made": "2016-07-15",
   "gazette": "2016-08-29",
   "numac": 2016036266,
   "document_start": "2016-09-08",
   "document_end": "2018-06-15",
-  "in_force": "2016-09-08",
+  "in_force": "2018-06-16",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2016-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-06-16; future article versions excluded; article text as the API gives it"
 }
