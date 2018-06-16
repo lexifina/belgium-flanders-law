@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029372,
+  "title": "Decreet van 2018-05-18 houdende instemming met het samenwerkingsakkoord van 12 mei 2017 tussen de Federale Staat, het Vlaamse Gewest, het Waals Gewest en het Brussels Hoofdstedelijke Gewest betreffende de uitvoering van de verordening (EG) nr. 1221/2009 van het Europees Parlement en de Raad van 25 november 2009 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieuauditsysteem (EMAS), en tot intrekking van verordening (EG) nr. 761/2001 en van de beschikkingen 2001/681//EG en 2006/193/EG van de Commissie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029372/VolledigDocument?datum=2018-06-16",
+  "source_sha256": "574e4da47ff033578f8bc6da01cd3626f0306b4e4758042de9c2eee6e9153e4c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029372&param=informatie",
+  "as_of": "2018-06-16",
+  "made": "2018-05-18",
+  "gazette": "2018-06-06",
+  "numac": 2018012262,
+  "document_start": "2018-06-16",
+  "document_end": null,
+  "in_force": "2018-06-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
