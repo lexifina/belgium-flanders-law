@@ -1225,7 +1225,7 @@ Als de gezinnen of alleenstaanden, vermeld in artikel 34, § 3, eerste lid, 2°,
 § 1. De VMSW, de sociale huisvestingsmaatschappijen , het Vlaams Woningfonds, de sociale verhuurkantoren, de gemeenten en de openbare centra voor maatschappelijk welzijn beschikken over een recht van voorkoop op de woningen waaraan ze renovatie-, verbeterings- of aanpassingswerkzaamheden hebben uitgevoerd met toepassing van artikel 18, § 2, en 90.<br>
 <br>
 Onverminderd het eerste lid, krijgen het Vlaams Woningfonds, Vlabinvest apb, de sociale huisvestingsmaatschappijen binnen hun werkgebied, en de gemeenten op hun grondgebied, een recht van voorkoop op:<br>
-1° een woning die is opgenomen in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, of op een van de lijsten van de inventaris, bedoeld in artikel 28, § 1, van het Heffingsdecreet;<br>
+1° een woning die opgenomen is in het leegstandsregister, vermeld in artikel 2.2.6 van het decreet Grond- en Pandenbeleid, in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het Heffingsdecreet, of in de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het Heffingsdecreet;<br>
 2° de woning, bedoeld in artikel 19, die niet werd gesloopt binnen de door de Vlaamse regering bepaalde termijn;<br>
 3° een perceel, bestemd voor woningbouw, dat gelegen is in een door de Vlaamse regering te bepalen bijzonder gebied.<br>
 <br>
