@@ -96,7 +96,30 @@ Het grond- en pandenbeleid is gericht op een maatschappelijk gewenst en kwalitei
 
 ### ART. 2.1.3.
 
-§ 1. Het grond- en pandenbeleid wordt verwezenlijkt door middel van zowel   privaatrechtelijke als publiekrechtelijke instrumenten.<BR><BR>Ten bate van de   tenuitvoerlegging van het grond- en pandenbeleid kunnen in het bijzonder, maar   niet uitsluitend, volgende publiekrechtelijke instrumenten worden ingezet   :<BR>1° de instrumenten, vermeld in dit decreet, voor wat betreft :<BR>a) de   activering van gronden en panden;<BR>b) het tijdig voorzien in een voldoende   ruim, betaalbaar en kwalitatief aanbod aan bouwgronden, kavels en   woningen;<BR>c) de compensatie van kapitaalschade;<BR>2° de heffing op   verwaarloosde gebouwen en verwaarloosde, ongeschikte en/of onbewoonbare   woningen, vermeld in artikel 25 van het decreet van 22 december 1995 houdende   bepalingen tot begeleiding van de begroting 1996;<BR>3° de instrumenten, vermeld   in het decreet van 19 april 1995 houdende maatregelen ter bestrijding en   voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<BR>4° de Vlaamse   voorkooprechten, vermeld in artikel 2, 2°, van het decreet van 25 mei 2007   houdende de harmonisering van de procedures van voorkooprechten;<BR>5° de   koopplichten, vermeld in artikel 20 van het decreet van 16 juni 2006 houdende   het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse   bepalingen;<BR>6° het recht van wederinkoop, vermeld in artikel 84 van de   Vlaamse Wooncode;<BR>7° het sociaal beheersrecht, vermeld in artikel 90 van de   Vlaamse Wooncode;<BR>8° de ruilverkaveling, kavelruil, herverkaveling en   landinrichting als vermeld in het decreet van 28 maart 2014 betreffende de   landinrichting;<BR>9° de natuurinrichting, vermeld in artikel 47 van het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu;<BR>10° de onteigening ten algemenen nutte;<BR>11° de faciliteiten,   vermeld in het decreet van 30 maart 2007 betreffende de   Brownfieldconvenanten;<BR>12° de organisatie van een Vlaamse Grondenbank,   vermeld in het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse   Grondenbank en houdende wijziging van diverse bepalingen;<BR>13°   stedenbouwkundige voorschriften en verkavelingsvoorschriften;<BR>14°   erfdienstbaarheden tot openbaar nut, zijnde publiekrechtelijke   erfdienstbaarheden die gevestigd worden op een dienstbaar erf, zoals een   bouwverbod;<BR>15° de planschade- en planbatenregeling, vermeld in artikel 2.6.1   en 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening.<BR><BR>§ 2. De Vlaamse   Regering is er toe gemachtigd om de lijst, vermeld in § 1, tweede lid, aan te   vullen met overige voor het grond- en pandenbeleid relevante instrumenten waarin   de Vlaamse regelgeving voorziet.<BR><BR>
+§ 1. Het grond- en pandenbeleid wordt verwezenlijkt door middel van zowel privaatrechtelijke als publiekrechtelijke instrumenten.<br>
+<br>
+Ten bate van de tenuitvoerlegging van het grond- en pandenbeleid kunnen in het bijzonder, maar niet uitsluitend, volgende publiekrechtelijke instrumenten worden ingezet :<br>
+1° de instrumenten, vermeld in dit decreet, voor wat betreft :<br>
+a) de activering van gronden en panden;<br>
+b) het tijdig voorzien in een voldoende ruim, betaalbaar en kwalitatief aanbod aan bouwgronden, kavels en woningen;<br>
+c) de compensatie van kapitaalschade;<br>
+2° de gemeentelijke belasting op verwaarloosde gebouwen en woningen en de gemeentelijke of de gewestelijke heffing op ongeschikte en onbewoonbare woningen, vermeld in artikel 2.5.1.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
+3° de instrumenten, vermeld in het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
+4° de Vlaamse voorkooprechten, vermeld in artikel 2, 2°, van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten;<br>
+5° de koopplichten, vermeld in artikel 20 van het decreet van 16 juni 2006 houdende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+6° het recht van wederinkoop, vermeld in artikel 84 van de Vlaamse Wooncode;<br>
+7° het sociaal beheersrecht, vermeld in artikel 90 van de Vlaamse Wooncode;<br>
+8° de ruilverkaveling, kavelruil, herverkaveling en landinrichting als vermeld in het decreet van 28 maart 2014 betreffende de landinrichting;<br>
+9° de natuurinrichting, vermeld in artikel 47 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+10° de onteigening ten algemenen nutte;<br>
+11° de faciliteiten, vermeld in het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br>
+12° de organisatie van een Vlaamse Grondenbank, vermeld in het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+13° stedenbouwkundige voorschriften en verkavelingsvoorschriften;<br>
+14° erfdienstbaarheden tot openbaar nut, zijnde publiekrechtelijke erfdienstbaarheden die gevestigd worden op een dienstbaar erf, zoals een bouwverbod;<br>
+15° de planschade- en planbatenregeling, vermeld in artikel 2.6.1 en 2.6.4 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+<br>
+§ 2. De Vlaamse Regering is er toe gemachtigd om de lijst, vermeld in § 1, tweede lid, aan te vullen met overige voor het grond- en pandenbeleid relevante instrumenten waarin de Vlaamse regelgeving voorziet.<br>
+&nbsp;
 
 ## TITEL 2 Planning
 
@@ -154,7 +177,7 @@ Een woning wordt uit het leegstandsregister geschrapt als een zakelijk gerechtig
 <br>
 De bedrijfsruimten die op grond van artikel 2, 1°, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten worden uitgesloten van de toepassing van voormeld decreet, worden onder de aldaar vermelde voorwaarden evenmin als leegstaande gebouwen of woningen in de zin van deze afdeling beschouwd.<br>
 <br>
-§ 6. Een gebouw dat of een woning die door het Vlaamse Gewest geïnventariseerd is als verwaarloosd, kan eveneens opgenomen worden in het leegstandsregister, en omgekeerd.<br>
+§ 6. ....<br>
 <br>
 Woningen die door het Vlaamse Gewest geïnventariseerd zijn als ongeschikt en/of onbewoonbaar, worden niet opgenomen in het leegstandsregister.<br>
 <br>
@@ -192,7 +215,8 @@ Zij vertrekken vanuit een visie en een plan van aanpak, vastgelegd op grond van 
 1° enerzijds de renovatie van onroerende goederen die ten hoogste vier opeenvolgende jaren zijn opgenomen in een of meer van de volgende inventarissen of lijsten, gelijktijdig of consecutief:<br>
 a) het leegstandsregister van de gemeente;<br>
 b) de inventaris van leegstaande of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
-c) de lijsten van ongeschikte of onbewoonbare woningen en verwaarloosde gebouwen of woningen, vermeld in artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+c) het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+d) de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
 2° anderzijds de terbeschikkingstelling van de gerenoveerde onroerende goederen voor de realisatie van een sociaal of bescheiden woonaanbod.<br>
 <br>
 In de subsidieaanvragen moet worden aangetoond dat de projectorganisatoren niet aan de oorzaak liggen van de opname van de onroerende goederen in het register, vermeld in het eerste lid, 1°, a), of in de inventarissen, vermeld in het eerste lid, 1°, b). Daarvoor wordt ten minste een verklaring op erewoord opgenomen, waarin wordt gesteld dat geen van de projectorganisatoren langer dan een maximumtermijn die de Vlaamse Regering bepaalt, eigenaar is van de onroerende goederen in kwestie.<br>
@@ -229,7 +253,34 @@ Een kredietgever die een renovatieovereenkomst sluit, geniet onder de voorwaarde
 
 ### ART. 3.1.4.
 
-§ 1. Een renovatieovereenkomst is een kredietovereenkomst waarvan de oorzaak gelegen is in de renovatie van een onroerend goed, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br />1° het onroerend goed is op het ogenblik van het sluiten van de renovatieovereenkomst sinds ten hoogste vier opeenvolgende jaren opgenomen in één of meer van volgende registers, inventarissen of lijsten, gelijktijdig of consecutief :<br />a) het leegstandsregister;<br />b) de inventaris van leegstaande en/of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br />c) de lijsten van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen en/of woningen, vermeld in artikel 28, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br />2° het onroerend goed wordt na de renovatie bestemd tot hoofdverblijfplaats van ten minste één van de kredietnemers, en dit, behoudens in het geval van overlijden of een plotse ramp, voor een periode van ten minste acht opeenvolgende jaren.<br /><br />§ 2. Een renovatieovereenkomst heeft een looptijd van ten hoogste dertig jaar.<br /><br />§ 3. De rentevoet van een renovatieovereenkomst is bij het aangaan van de lening ten hoogste gelijk aan de in uitvoering van artikel 79 van de Vlaamse Wooncode bepaalde referentierentevoet voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen. De toepasselijke referentievoet is deze die geldt zes maanden voor het sluiten van de renovatieovereenkomst.<br /><br />De rentevoet van een renovatieovereenkomst kan vijfjaarlijks worden herzien. De herziene rentevoet is ten hoogste gelijk aan de referentierentevoet, vermeld in het eerste lid, die geldt zes maanden voor de vijfde, tiende, vijftiende, twintigste, respectievelijk vijfentwintigste verjaardag van de renovatieovereenkomst.<br /><br />Het eerste en het tweede lid houden geenszins een verplichting in om interesten te bedingen.<br /><br />§ 4. Een renovatieovereenkomst wordt opgesteld aan de hand van een modelformulier dat door de Vlaamse Regering wordt vastgesteld.<br /><br />De renovatieovereenkomst omvat ten minste volgende elementen :<br />1° de hoofdsom van de renovatieovereenkomst;<br />2° de begin- en einddatum van de renovatieovereenkomst;<br />3° de nuttige identificatiegegevens van de kredietgever en de kredietnemer, en het bankrekeningnummer waarop de interesten moeten worden gestort;<br />4° de concrete omschrijving van de oorzaak van de renovatieovereenkomst, vermeld in § 1;<br />5° de gegevens van het uittreksel uit het leegstandsregister, de inventaris of de lijsten, vermeld in § 1;<br />6° de bedragen en de vervaldata van de eventuele interesten die moeten worden betaald;<br />7° een verklaring op eer van zowel de kredietgever als de kredietnemer dat aan alle voorwaarden van dit hoofdstuk voldaan wordt en zal worden;<br />8° een verklaring op eer van de kredietgever dat de uitlening of terbeschikkingstelling van geld niet ressorteert onder de handelingen, vermeld in artikel 3 van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en de financiering van terrorisme.<br /><br />
+§ 1. Een renovatieovereenkomst is een kredietovereenkomst waarvan de oorzaak gelegen is in de renovatie van een onroerend goed, voor zover voldaan is aan alle hiernavolgende voorwaarden :<br>
+1° het onroerend goed is op het ogenblik van het sluiten van de renovatieovereenkomst sinds ten hoogste vier opeenvolgende jaren opgenomen in één of meer van volgende registers, inventarissen of lijsten, gelijktijdig of consecutief :<br>
+a) het leegstandsregister;<br>
+b) de inventaris van leegstaande en/of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten;<br>
+c) het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+d) de inventaris van ongeschikte en onbewoonbare woningen, vermeld in artikel 26, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br>
+2° het onroerend goed wordt na de renovatie bestemd tot hoofdverblijfplaats van ten minste één van de kredietnemers, en dit, behoudens in het geval van overlijden of een plotse ramp, voor een periode van ten minste acht opeenvolgende jaren.<br>
+<br>
+§ 2. Een renovatieovereenkomst heeft een looptijd van ten hoogste dertig jaar.<br>
+<br>
+§ 3. De rentevoet van een renovatieovereenkomst is bij het aangaan van de lening ten hoogste gelijk aan de in uitvoering van artikel 79 van de Vlaamse Wooncode bepaalde referentierentevoet voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen. De toepasselijke referentievoet is deze die geldt zes maanden voor het sluiten van de renovatieovereenkomst.<br>
+<br>
+De rentevoet van een renovatieovereenkomst kan vijfjaarlijks worden herzien. De herziene rentevoet is ten hoogste gelijk aan de referentierentevoet, vermeld in het eerste lid, die geldt zes maanden voor de vijfde, tiende, vijftiende, twintigste, respectievelijk vijfentwintigste verjaardag van de renovatieovereenkomst.<br>
+<br>
+Het eerste en het tweede lid houden geenszins een verplichting in om interesten te bedingen.<br>
+<br>
+§ 4. Een renovatieovereenkomst wordt opgesteld aan de hand van een modelformulier dat door de Vlaamse Regering wordt vastgesteld.<br>
+<br>
+De renovatieovereenkomst omvat ten minste volgende elementen :<br>
+1° de hoofdsom van de renovatieovereenkomst;<br>
+2° de begin- en einddatum van de renovatieovereenkomst;<br>
+3° de nuttige identificatiegegevens van de kredietgever en de kredietnemer, en het bankrekeningnummer waarop de interesten moeten worden gestort;<br>
+4° de concrete omschrijving van de oorzaak van de renovatieovereenkomst, vermeld in § 1;<br>
+5° de gegevens van het uittreksel uit het leegstandsregister, de inventaris of de lijsten, vermeld in § 1;<br>
+6° de bedragen en de vervaldata van de eventuele interesten die moeten worden betaald;<br>
+7° een verklaring op eer van zowel de kredietgever als de kredietnemer dat aan alle voorwaarden van dit hoofdstuk voldaan wordt en zal worden;<br>
+8° een verklaring op eer van de kredietgever dat de uitlening of terbeschikkingstelling van geld niet ressorteert onder de handelingen, vermeld in artikel 3 van de wet van 11 januari 1993 tot voorkoming van het gebruik van het financiële stelsel voor het witwassen van geld en de financiering van terrorisme.<br>
+&nbsp;
 
 ### ART. 3.1.5.
 
