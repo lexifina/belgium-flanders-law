@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029390,
+  "title": "Ministerieel besluit van 2018-04-19 tot instelling van het natuurinrichtingsproject Wellemeersen en omgeving Oude Dender",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029390/VolledigDocument?datum=2018-06-18",
+  "source_sha256": "b17d635ad65d30a0babe029ac558260d4ae837b40ed7074f59c40c67be568ab6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029390&param=informatie",
+  "as_of": "2018-06-18",
+  "made": "2018-04-19",
+  "gazette": "2018-06-08",
+  "numac": 2018031175,
+  "document_start": "2018-06-18",
+  "document_end": null,
+  "in_force": "2018-06-18",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-06-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
