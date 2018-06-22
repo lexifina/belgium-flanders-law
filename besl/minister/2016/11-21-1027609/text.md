@@ -26,8 +26,8 @@ Besluit :
 
 ### Enig artikel.
 
-De lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap en de multidisciplinaire informatie, vermeld in artikel 1 van het ministerieel besluit van 8 augustus 2016 tot bepaling van de criteria en de multidisciplinaire informatie die recht verlenen op de Vlaamse ondersteuningspremie en tot aanduiding van de organisatie die gelast is met de beoordeling van zelfstandige activiteiten, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/12/02_1.pdf#page=78">Lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap die recht geven op de Vlaamse ondersteuningspremie</a>
+...
