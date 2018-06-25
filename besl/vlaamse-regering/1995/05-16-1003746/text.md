@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen wordt opgedragen aan ambtenaren van de Vlaamse Belastingdienst zijn:<br>
+De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen, de invordering van administratieve geldboeten en de invordering van toebehoren wordt opgedragen aan personeelsleden van de Vlaamse Belastingdienst zijn:<br>
 1° de economie;<br>
 2° de landbouw;<br>
 3° ...<br>
@@ -14,13 +14,29 @@ De gewestelijke aangelegenheden met betrekking tot welke het invorderen van onbe
 9° de toeristische logiessector;<br>
 10° de financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door algemene rampen.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de toekenning van subsidies die voortvloeien uit het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de gewestelijk ontvangers, worden ingevorderd door ambtenaren van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren&nbsp;inzake de toekenning van subsidies die voortvloeien uit het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds, inzake de toekenning van facultatieve subsidies door het Agentschap voor Binnenlands Bestuur, en inzake afrekeningen die voortvloeien uit het besluit van de Vlaamse Regering van 17 oktober 2008 betreffende de bijdrage van de besturen in de uitgaven die verbonden zijn aan de gewestelijk ontvangers, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door ambtenaren van de Vlaamse Belastingdienst.
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen, de administratieve geldboeten en de toebehoren als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren als gevolg van de taken van het agentschap Facilitair Bedrijf worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.
 
 ### ART. 2.
 
-De in artikel 1 bedoelde ambtenaren worden tevens gemachtigd in naam en voor rekening van de openbare instellingen die afhangen van het Vlaamse Gewest tot het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen onder de voorwaarden zoals bedoeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren.
+De personeelsleden, vermeld in artikel 1, worden tevens gemachtigd om, in naam en voor rekening van de openbare instellingen die afhangen van het Vlaamse Gewest, de onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen onder de voorwaarden, vermeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren, en onder de voorwaarden, vermeld in artikel 28, § 1, eerste lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br>
+<br>
+De machtiging tot invordering, vermeld in het eerste lid, geldt ook voor de administratieve geldboeten die door de instellingen, vermeld in het eerste lid, worden opgelegd en voor de toebehoren.
+
+### ART 2/1.
+
+De personeelsleden van de Vlaamse Belastingdienst kunnen de onbetwiste en opeisbare niet-fiscale schuldvorderingen, de administratieve geldboeten en de toebehoren invorderen door gebruik te maken van een procedure van vereenvoudigd derdenbeslag. Artikel 3.10.3.3.1 en 3.10.3.3.2 van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 zijn van toepassing, met dien verstande dat:<br>
+1° "de belastingschuldige" moet worden gelezen als "de schuldenaar van de onbetwiste en opeisbare niet-fiscale schuldvordering, van de administratieve geldboete en van de toebehoren";<br>
+2° "belastingen en toebehoren" moet worden gelezen als "onbetwiste en opeisbare niet-fiscale schuldvorderingen en administratieve geldboeten, met inbegrip van de toebehoren, vermeld in artikel 1/1 van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren".<br>
+<br>
+De personeelsleden van de Vlaamse Belastingdienst beschikken over de onderzoeksbevoegdheden, vermeld in artikel 3.13.1.3.1 tot en met 3.13.1.3.6, artikel 3.13.1.4.1 en 3.13.1.4.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013, om de vermogenssituatie van de schuldenaar te bepalen met het oog op het leggen van een vereenvoudigd derdenbeslag.<br>
+<br>
+De schuldenaar van de onbetwiste en opeisbare niet-fiscale schuldvordering, van de administratieve geldboete en van de toebehoren wordt op de hoogte gebracht van het dwangschrift dat daarop betrekking heeft, voordat er een vereenvoudigd derdenbeslag wordt gelegd.<br>
+<br>
+De vervolgingskosten die niet bij de schuldenaar kunnen worden gerecupereerd, worden gedragen door de Vlaamse ministeries of de openbare instellingen die afhangen van het Vlaamse Gewest.
 
 ### ART. 3.
 
