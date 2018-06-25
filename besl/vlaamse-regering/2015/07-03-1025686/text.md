@@ -6,7 +6,16 @@ De Vlaamse Regering,<BR><BR>Gelet op het Energiedecreet van 8 mei 2009,   artike
 
 ### ART. 1.
 
-Het overzicht van de ten laste van de afnemers in het vorige trimester   aangerekende heffingen, vermeld in artikel 14.2.2, § 2, van het Energiedecreet   van 8 mei 2009, bevat de volgende gegevens:<BR>1° de benaming van de   toegangshouder;<BR>2° zijn maatschappelijke zetel en exploitatiezetel;<BR>3° de   personalia van de persoon die instaat voor de inning en de storting van de   heffing;<BR>4° het bedrag dat zal worden doorgestort;<BR>5° de mededeling die   bij storting zal worden opgegeven;<BR>6° de datum waarop het bedrag gestort zal   worden.<BR><BR>Het overzicht, vermeld in het eerste lid, wordt op elektronische   wijze bezorgd aan het bevoegde personeelslid van de Vlaamse   Belastingdienst.
+Het overzicht van de ten laste van de afnemers in de vorige maand aangerekende heffingen, vermeld in artikel 14.2.2, § 2, van het Energiedecreet van 8 mei 2009, bevat de volgende gegevens:<br>
+1° de benaming van de toegangshouder;<br>
+2° zijn maatschappelijke zetel en exploitatiezetel;<br>
+3° de personalia van de persoon die instaat voor de inning en de storting van de heffing;<br>
+4° het bedrag dat zal worden doorgestort;<br>
+5° de mededeling die bij storting zal worden opgegeven;<br>
+6° de datum waarop het bedrag gestort zal worden;<br>
+7° het aantal afnamepunten per tarief, vermeld in artikel 14.1.2 van het Energiedecreet van 8 mei 2009, waarvoor de heffing wordt doorgestort.<br>
+<br>
+Het overzicht, vermeld in het eerste lid, wordt op elektronische wijze bezorgd aan het bevoegde personeelslid van de Vlaamse Belastingdienst.
 
 ### ART. 2.
 
@@ -14,7 +23,7 @@ Samen met het bedrag van de boekhoudkundig geregistreerde   niet-invorderbare sc
 
 ### ART. 3.
 
-Met toepassing van artikel 14.2.3, § 2, van het Energiedecreet van 8 mei   2009 zullen de eerste stortingen door de toegangshouders op rekening van het   Vlaamse Gewest van alle door hen conform artikel 14.2.2, § 1, reeds geïnde   heffingen pas uiterlijk op 30 juli 2015 uitgevoerd moeten worden.
+...
 
 ### ART. 4.
 
@@ -22,7 +31,7 @@ De leidend ambtenaar van de Vlaamse Belastingdienst duidt de ambtenaren   aan di
 
 ### ART. 5.
 
-Artikel 3 heeft uitwerking met ingang van 1 januari 2015.
+...
 
 ### ART. 6.
 
