@@ -11,7 +11,17 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br>
 
 ### ART 2.
 
-De gemeenten Meeuwen-Gruitrode en Opglabbeek worden op 1 januari 2019 samengevoegd tot een nieuwe gemeente, genaamd Oudsbergen.<br>
+§ 1. De gemeenten Meeuwen-Gruitrode en Opglabbeek worden op 1 januari 2019 samengevoegd tot een nieuwe gemeente, genaamd Oudsbergen.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 en in afwijking van artikel 5, 2°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016 worden de samenvoeging en alle rechtsgevolgen die daar overeenkomstig het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016 of andere decreet- of regelgeving aan zijn verbonden, uitgesteld als er een bezwaar wordt ingediend tegen de verkiezing, georganiseerd op 14 oktober 2018, en er op 31 december 2018 nog geen definitieve uitspraak is.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder definitieve uitspraak verstaan: een in kracht van gewijsde gegaan arrest van de Raad voor Verkiezingsbetwistingen of, in geval van beroep, van de Raad van State.<br>
+<br>
+§ 3. Als het bezwaar ertoe leidt dat de verkiezing geldig wordt verklaard, wordt de samenvoegingsdatum vastgesteld op de dag waarop de uitslag van de verkiezing definitief is.<br>
+<br>
+Als het bezwaar ertoe leidt dat de verkiezing ongeldig wordt verklaard, wordt de samenvoegingsdatum vastgesteld op de dag waarop de uitslag van de nieuwe verkiezing definitief is.<br>
+<br>
+Voor de toepassing van het eerste en tweede lid wordt de uitslag van een verkiezing definitief geacht zodra er geen beroepsmogelijkheden meer tegen openstaan.<br>
 &nbsp;
 
 ### ART 3.
