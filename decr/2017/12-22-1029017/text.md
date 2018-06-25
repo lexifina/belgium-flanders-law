@@ -316,6 +316,18 @@ De miskenning van de bepalingen van dit artikel door degene van wie het vermoede
 
 ## [Afdeling 5/1. Regeling in geval van bezwaar tegen de verkiezing van de gemeenteraad van de nieuwe gemeente (ing. decr. 25 mei 2018, art. 4, I: 25 juni 2018)]
 
+### ART 355/1.
+
+§ 1. In afwijking van artikel 343, 8°, worden de samenvoeging van gemeenten en alle rechtsgevolgen die daar overeenkomstig dit decreet of overeenkomstig andere decreet- of regelgeving aan verbonden zijn, uitgesteld als er een bezwaar wordt ingediend tegen de eerste verkiezing van de nieuwe gemeenteraad en er op 31 december van het jaar waarin de verkiezing wordt georganiseerd, nog geen definitieve uitspraak is.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder definitieve uitspraak verstaan: een in kracht van gewijsde gegaan arrest van de Raad voor Verkiezingsbetwistingen of, in geval van beroep, van de Raad van State.<br>
+<br>
+§ 2. Als het bezwaar ertoe leidt dat de verkiezing geldig wordt verklaard, wordt de samenvoegingsdatum vastgesteld op de dag waarop de uitslag van de verkiezing definitief is.<br>
+<br>
+Als het bezwaar ertoe leidt dat de verkiezing ongeldig wordt verklaard, wordt de samenvoegingsdatum vastgesteld op de dag waarop de uitslag van de nieuwe verkiezing definitief is.<br>
+<br>
+Voor de toepassing van het eerste en tweede lid wordt de uitslag van een verkiezing definitief geacht zodra er geen beroepsmogelijkheden meer tegen openstaan.
+
 ## Afdeling 6. Bepalingen over het gemeentepersoneel
 
 ## Onderafdeling 1. Principiële beslissing tot samenvoeging en personeel
@@ -612,7 +624,9 @@ De adjunct-financieeldirecteur staat de financieel directeur bij in de vervullin
 <br>
 De gemeenteraad kan bepalen dat de persoon, vermeld in paragraaf 1 en 2, wordt opgenomen in een wervingsreserve. De gemeenteraad stelt de regels voor de wervingsreserve vast. De gemeenteraad bepaalt:<br>
 1° de maximale geldigheidsduur van de wervingsreserves, met inbegrip van eventuele verlenging;<br>
-2° de regels volgens dewelke de kandidaten hun opname in de wervingsreserve behouden of verliezen.
+2° de regels volgens dewelke de kandidaten hun opname in de wervingsreserve behouden of verliezen.<br>
+<br>
+§ 4. Artikel 41, tweede lid, 6°, 163 tot en met 165, 169, 179, 194 en 208, § 2, tweede lid, zijn van overeenkomstige toepassing op de adjunct-financieeldirecteur, met dien verstande dat het woord "adjunct-algemeen directeur" wordt gelezen als het woord "adjunct-financieeldirecteur".
 
 ## Afdeling 2. De gewestelijk ontvanger
 
@@ -652,7 +666,8 @@ Die keuze geldt tot op het ogenblik dat de gemeenteraad een uitdrukkelijke besli
 
 In afwijking van artikel 34 en 35 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking kunnen gemeenten voor 1 januari 2019 beslissen om uit te treden uit, toe te treden tot of hun deelneming te verlengen voor 18 jaar in:<br>
 1° opdrachthoudende verenigingen die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 zijn aangewezen als distributienetbeheerder, op voorwaarde dat voldaan is aan de voorwaarden van het Energiedecreet van 8 mei 2009;<br>
-2° opdrachthoudende verenigingen die, namens of in opdracht van een overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 aangewezen distributienetbeheerder, onder meer het realiseren van de opdrachten, vermeld in artikel 4.1.6. van het Energiedecreet van 8 mei 2009 als doelstelling hebben.<br>
+2° opdrachthoudende verenigingen die, namens of in opdracht van een overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 aangewezen distributienetbeheerder, onder meer het realiseren van de opdrachten, vermeld in artikel 4.1.6. van het Energiedecreet van 8 mei 2009 als doelstelling hebben;<br>
+3° een opdrachthoudende vereniging die een opdracht heeft verkregen die een onderdeel vormt van het beheer van de waterketen, vermeld in het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending.<br>
 <br>
 In afwijking van artikel 423 kan de Vlaamse Regering op verzoek van de algemene vergadering van de opdrachthoudende verenigingen, die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 werden aangewezen als distributienetbeheerder en die daartoe in de loop van het jaar 2018 op verzoek van drie vierden van het aantal gemeenten en met een meerderheid van drie vierden van de stemmen, op basis van een omstandig verslag dat de noodzaak van het verzoek aantoont, eenmalig en bij gemotiveerd besluit instemmen dat de einddatum van de statutaire duur verschoven wordt naar 1 april 2019.
 
@@ -660,11 +675,18 @@ In afwijking van artikel 423 kan de Vlaamse Regering op verzoek van de algemene 
 
 In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking kunnen, om het distributienetbeheer te vereenvoudigen of als begeleidende maatregelen met het oog op vereenvoudiging van de structuur van het energiedistributienetbeheer in Vlaanderen, in de loop van het jaar 2018 statutenwijzigingen worden voorgelegd aan de deelnemers van:<br>
 1° een opdrachthoudende vereniging die overeenkomstig artikel 4.1.1 van het Energiedecreet van 8 mei 2009 is aangewezen als distributienetbeheerder;<br>
-2° een opdrachthoudende vereniging die onder meer opdrachten, vermeld in artikel 4.1.6. van het Energiedecreet van 8 mei 2009 als doelstelling heeft.
+2° een opdrachthoudende vereniging die onder meer opdrachten, vermeld in artikel 4.1.6. van het Energiedecreet van 8 mei 2009 als doelstelling heeft;<br>
+3° opdrachthoudende verenigingen die een opdracht hebben verkregen die een onderdeel vormt van het beheer van de waterketen, vermeld in het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending.
 
 ### ART 605.
 
-In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen statutenwijzigingen aan de deelnemers worden voorgelegd in de loop van het jaar 2018 om de samenstelling, wijze van voordracht en benoeming van de leden van de raad van bestuur, met inbegrip van de voordracht van onafhankelijke bestuurders als stemgerechtigde leden van de raad van bestuur te bepalen, alsook om te bepalen hoeveel leden van de raad van bestuur van hetzelfde geslacht kunnen zijn met een maximum van twee derden.
+In afwijking van artikel 42 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen statutenwijzigingen aan de deelnemers worden voorgelegd in de loop van het jaar 2018 om de samenstelling, wijze van voordracht en benoeming van de leden van de raad van bestuur, met inbegrip van de voordracht van onafhankelijke bestuurders als stemgerechtigde leden van de raad van bestuur te bepalen, alsook om te bepalen hoeveel leden van de raad van bestuur van hetzelfde geslacht kunnen zijn met een maximum van twee derden.<br>
+<br>
+Artikel 434, § 1, en artikel 443, eerste lid, zijn van toepassing vanaf de eerste algehele vervanging van de raad van bestuur, vermeld in artikel 445, tweede lid.
+
+### ART 607/1.
+
+Uiterlijk vanaf de vernieuwing van de raad van bestuur naar aanleiding van de gemeenteraadsverkiezingen van 2018, voldoet de samenstelling van de raad van bestuur van de welzijnsvereniging en de autonome verzorgingsinstelling waarvan alle leden openbare rechtspersonen zijn, aan de vereisten van artikel 474, § 3.
 
 ### ART 608/1.
 
@@ -837,3 +859,15 @@ De volgende artikelen van dit decreet treden in werking op een door de Vlaamse R
 3° artikel 603.<br>
 <br>
 Artikel 608/1 treedt in werking op 1 juni 2018.
+
+### ART 610.
+
+§ 1. In afwijking van artikel 609, eerste lid, blijven de bepalingen van het Gemeentedecreet van 15 juli 2005, het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016 en het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, zoals die golden op 31 december 2018, uitwerking hebben in die gemeenten waarin er bezwaar wordt ingediend tegen de verkiezing, georganiseerd op 14 oktober 2018, en waarover op 1 januari 2019 nog geen definitieve uitspraak is.<br>
+<br>
+Voor de toepassing van het eerste lid wordt onder definitieve uitspraak verstaan: een in kracht van gewijsde gegaan arrest van de Raad voor Verkiezingsbetwistingen of, in geval van beroep, van de Raad van State.<br>
+<br>
+§ 2. Als het bezwaar ertoe leidt dat de verkiezing geldig wordt verklaard, houdt de regeling, vermeld in paragraaf 1, op uitwerking te hebben op de dag waarop de uitslag van de verkiezing definitief is.<br>
+<br>
+Als het bezwaar ertoe leidt dat de verkiezing ongeldig wordt verklaard, houdt de regeling, vermeld in paragraaf 1, op uitwerking te hebben op de dag waarop de uitslag van de nieuwe verkiezing definitief is.<br>
+<br>
+Voor de toepassing van het eerste en tweede lid wordt de uitslag van een verkiezing definitief geacht zodra er geen beroepsmogelijkheden meer tegen openstaan.
