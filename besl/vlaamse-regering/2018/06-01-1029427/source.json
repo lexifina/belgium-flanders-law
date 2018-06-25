@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029427,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-01 houdende wijziging van diverse besluiten, wat betreft de kilometerheffing, de invordering van niet-fiscale schuldvorderingen, de geïntegreerde woonbonus, de energieheffing en tot opheffing van het besluit van de Vlaamse Regering van 14 december 2007 tot regeling van de werking van het Vlaams Toekomstfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029427/VolledigDocument?datum=2018-06-25",
+  "source_sha256": "7bb7471b7dce002178ccc93409d1a8194fc7ba4e655dfa69865d210b161cd8f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029427&param=informatie",
+  "as_of": "2018-06-25",
+  "made": "2018-06-01",
+  "gazette": "2018-06-15",
+  "numac": 2018012562,
+  "document_start": "2018-06-25",
+  "document_end": null,
+  "in_force": "2018-06-25",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2018-06-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
