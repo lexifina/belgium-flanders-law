@@ -111,6 +111,35 @@ In hoofdstuk 3 van hetzelfde decreet wordt het opschrift van afdeling 1 vervange
 "Afdeling 1. De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens".<br>
 &nbsp;
 
+### ART 16.
+
+Artikel 8 van hetzelfde decreet wordt vervangen door wat volgt :<br>
+"Art. 8. § 1. Elke elektronische mededeling van persoonsgegevens door een instantie naar een andere instantie of naar een externe overheid vereist een protocol, gesloten tussen de betreffende instanties.<br>
+<br>
+In dat protocol wordt in ieder geval het volgende vastgelegd :<br>
+1° de identificatie van de verwerkingsverantwoordelijken;<br>
+2° de doeleinden waarvoor de persoonsgegevens worden medegedeeld;<br>
+3° de categorieën en omvang van de medegedeelde persoonsgegevens conform het proportionaliteitsbeginsel;<br>
+4° de categorieën van ontvangers en derden die mogelijks de gegevens eveneens verkrijgen;<br>
+5° de wettelijke basis van zowel de mededeling als de inzameling van de gegevens;<br>
+6° de beveiligingsmaatregelen van de mededeling, rekening houdend met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen;<br>
+7° de periodiciteit van de mededeling;<br>
+8° de duur van de mededeling;<br>
+9° de sancties in geval van niet-naleving van het protocol;<br>
+10° de beschrijving van de precieze doeleinden waarvoor de gegevens oorspronkelijk werden ingezameld door de instantie die beheerder is van de gevraagde gegevens;<br>
+11° ingeval van latere verwerking van de ingezamelde gegevens, vermelding van de verenigbaarheidsanalyse van de doeleinden van deze verwerking met het doeleinde waarvoor de gegevens aanvankelijk zijn verzameld overeenkomstig artikel 6, lid 4, van de algemene verordening gegevensbescherming;<br>
+12° afspraken omtrent de garantie van de kwaliteit van de gegevens en in voorkomend geval de eerbiediging van het wettelijk kader dat de toegang tot de authentieke gegevensbron regelt;<br>
+13° specifieke maatregelen die de gegevensmededeling omkaderen zoals de keuze van het formaat van de mededeling, de logging van de toegangen zodat men kan controleren wie wanneer toegang had tot welke gegevens en waarom en de invoering van een verwijzingsrepertorium in het geval van een automatische mededeling van de wijzigingen aan de gegevens.<br>
+<br>
+Het protocol wordt gesloten door de betreffende verwerkingsverantwoordelijken na advies van de functionaris voor gegevensbescherming van alle betrokken instanties en wordt vervolgens onmiddellijk bekendgemaakt op de website van alle betrokken instanties.<br>
+<br>
+Voorafgaand aan het sluiten van een protocol kan op verzoek van een betrokken partij het advies van de Vlaamse toezichtcommissie, vermeld in artikel 10 of 10/1, worden ingewonnen. De Vlaamse toezichtcommissie brengt haar advies uit binnen een termijn van dertig dagen nadat alle daartoe noodzakelijke gegevens aan de Vlaamse toezichtcommissie zijn medegedeeld. In speciaal gemotiveerde dringende gevallen kan de termijn worden teruggebracht tot vijftien dagen. De adviezen van de Vlaamse toezichtcommissie zijn schriftelijk en met redenen omkleed. Ze worden aan de betreffende instantie meegedeeld en op de website van de Vlaamse toezichtcommissie bekendgemaakt.<br>
+<br>
+§ 2. De mededeling van persoonsgegevens, vermeld in paragraaf 1, vereist geen protocol indien het informatieveiligheidscomité, opgericht met toepassing van artikel 2 van de wet tot oprichting van het informatieveiligheidscomité en tot wijziging van diverse wetten betreffende de uitvoering van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, bevoegd is om met betrekking tot die mededeling een beraadslaging te verlenen.<br>
+<br>
+§ 3. Over de mededeling van persoonsgegevens binnen een instantie beslist de verwerkingsverantwoordelijke van die instantie zelf na voorafgaand advies van de functionaris voor gegevensbescherming van de betreffende instantie. De functionaris voor gegevensbescherming adviseert de verwerkingsverantwoordelijke welke soorten persoonsgegevens voor welke specifieke doeleinden kunnen worden meegedeeld tussen entiteiten binnen de betreffende instantie en op welke manier die mededeling gebeurt. Daartoe onderzoekt de functionaris voor gegevensbescherming of de gegevens toereikend en ter zake dienend zijn, alsook beperkt tot wat noodzakelijk is voor de doeleinden waarvoor zij worden meegedeeld. In het geval de functionaris voor gegevensbescherming oordeelt dat de mededeling, gelet op onder meer de aard, de omvang, de context en de doeleinden van de mededeling, waarschijnlijk een hoog risico inhoudt voor de rechten en vrijheden van natuurlijke personen wiens gegevens zouden worden meegedeeld, kan voorafgaand aan de mededeling het advies bij de Vlaamse toezichtcommissie, vermeld in artikel 10/1, worden ingewonnen.".<br>
+&nbsp;
+
 ### ART 17.
 
 Artikel 9 van hetzelfde decreet wordt vervangen door wat volgt :<br>
