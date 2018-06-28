@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029430,
+  "title": "Samenwerkingsakkoord van 2018-05-30 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, van de Richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming en van de Richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029430/VolledigDocument?datum=2018-06-28",
+  "source_sha256": "543982bf3a3757fd99fb6304ecaae14cdb66b94c71c7f680fe602e4b935d901c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029430&param=informatie",
+  "as_of": "2018-06-28",
+  "made": "2018-05-30",
+  "gazette": "2018-06-18",
+  "numac": 201812677,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2018-06-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
