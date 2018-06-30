@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029441,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-25 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in digital design & development als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029441/VolledigDocument?datum=2018-06-30",
+  "source_sha256": "9269f5444d0011c03baa2939863b57c66fca31909fa1c914a40a1000586abbb5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029441&param=informatie",
+  "as_of": "2018-06-30",
+  "made": "2018-05-25",
+  "gazette": "2018-06-20",
+  "numac": 2018012630,
+  "document_start": "2018-06-30",
+  "document_end": null,
+  "in_force": "2018-06-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
