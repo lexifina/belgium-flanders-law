@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029801,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van het Vergunningsbesluit van 22 november 2013 en van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, wat betreft de competenties van de kinderbegeleider",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029801/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "d132d5a61713d33ec112d4cf82dbe0e8acdf7e914e7d3b0231ec737cf0bd04bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029801&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-09-07",
+  "gazette": "2018-10-10",
+  "numac": 2018014111,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
