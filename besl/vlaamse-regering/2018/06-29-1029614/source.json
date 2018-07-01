@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029614,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-29 houdende de voorwaarden voor het uitbetalen van een investeringssubsidie aan de verzekeringsinstellingen voor het aanpassen van hun software ten einde gegevens te kunnen uitwisselen met de zorgkassen en met de Vlaamse Overheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029614/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "545b8ffc549d96e7f96b5665c5a44fc66cbdeda66265ed993b76872382ce16f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029614&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-06-29",
+  "gazette": "2018-08-07",
+  "numac": 2018031614,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
