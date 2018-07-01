@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029158,
+  "title": "Decreet van 2018-03-09 houdende het terugkommoment in het kader van de rijopleiding categorie B",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029158/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "65e7a27d45c554ef7c7e0820306ea13b3391617175f4d0cce43ea54a07449357",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029158&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-03-09",
+  "gazette": "2018-03-28",
+  "numac": 2018011401,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
