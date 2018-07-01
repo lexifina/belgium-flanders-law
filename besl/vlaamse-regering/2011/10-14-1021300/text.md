@@ -123,7 +123,9 @@ De volgende uitgaven kunnen gelijktijdig worden aangerekend op het vastleggingsk
 27° de betaling van de declaraties, inclusief de rentedeclaraties, met toepassing van het verdrag tussen het Vlaamse Gewest en het Koninkrijk der Nederlanden inzake de verruiming van de vaarweg in de Westerschelde ondertekend in Antwerpen op 17 januari 1995, de werken op Nederlands grondgebied aan het kanaal Gent - Terneuzen en de realisatie van de langetermijnvisie Schelde, ongeacht het bedrag ervan;<br>
 28° de pensioenen voor de vastbenoemde personeelsleden van de VRT en de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden uitbetaald door de Vlaamse Gemeenschap;<br>
 29° het vervangend leefloon voor personen onder elektronisch toezicht;<br>
-30° uitgaven waarvoor de uitdrukkelijke gelijktijdige aanrekening in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt toegestaan.
+30° uitgaven waarvoor de uitdrukkelijke gelijktijdige aanrekening in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt toegestaan;<br>
+31° de compensatievergoedingen, vermeld in artikel 21 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten;<br>
+32° de subsidies in het kader van arbeidsmatige activiteiten, vermeld in artikel 48 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.
 
 ## HOOFDSTUK 4 [... (opgeh. BVR 22 december 2017, art. 16, I: 1 januari 2018)]
 
