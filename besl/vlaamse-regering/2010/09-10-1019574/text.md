@@ -98,7 +98,7 @@ De geneeskundige en paramedische prestaties worden verleend op basis van een sys
 
 ### ART. 21.
 
-Het wijkgezondheidscentrum waakt erover dat in het bijzonder de meest kwetsbare groepen gelijke kansen op en gelijke toegang tot de gezondheidszorg krijgen. Om dat aan te tonen moet het wijkgezondheidscentrum, met betrekking tot de ingeschreven patiënten, beantwoorden aan het criterium, vermeld in het tweede lid.<br /><br />De verhouding van rechthebbenden en gerechtigden met verhoogde verzekeringstegemoetkoming als vermeld in artikel 37 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, ten opzichte van het totale aantal bij het wijkgezondheidscentrum ingeschreven rechthebbenden en gerechtigden, moet hoger liggen dan het landelijk gemiddelde voor de verplichte ziekte- en invaliditeitsverzekering, na standaardisering voor leeftijd en geslacht.
+Het wijkgezondheidscentrum waakt erover dat in het bijzonder de meest kwetsbare groepen gelijke kansen en toegang tot zorg krijgen. Het wijkgezondheidscentrum toont dat met een empirische onderbouwing aan.
 
 ### ART. 22.
 
