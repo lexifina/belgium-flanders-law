@@ -358,7 +358,7 @@ De contracthouder kan een attest inkomenstarief aanvragen in de volgende gevalle
 3° als de contracthouder die een maximumtarief betaalt omdat hij zijn inkomen niet bekend wilde maken als vermeld in artikel 32/1, nu wel zijn inkomen bekend wil maken;<br>
 4° als de contracthouder die een maximumtarief betaalt als vermeld in artikel 36, derde lid, een nieuw attest inkomenstarief wil, en ten vroegste na verloop van zes maanden in het geval van de toepassing van artikel 36, derde lid, 2°.<br>
 <br>
-De contracthouder krijgt het attest inkomenstarief op de momenten na aanvraag toegekend, alsook automatisch na indexatie. De contracthouder geeft het attest inkomenstarief van Kind en Gezin door aan de organisator na elke toekenning van een attest inkomenstarief.<br>
+De contracthouder krijgt het attest inkomenstarief op de momenten na aanvraag toegekend, alsook automatisch na indexatie. De contracthouder geeft het attest inkomenstarief van Kind en Gezin door aan de organisator na elke toekenning van een attest inkomenstarief, tenzij de organisator bepaalt dat de contracthouder hem het attest niet hoeft te geven.<br>
 <br>
 De organisator informeert en ondersteunt de contracthouder bij de correcte toepassing van het online instrument als dat nodig is. Als het voor de contracthouder onmogelijk is om het online instrument te gebruiken, neemt de organisator de toepassing op zich. De organisator en het OCMW krijgen toegang tot het online instrument via een specifieke module en volgens de administratieve richtlijnen van Kind en Gezin.&nbsp;De organisator en het OCMW baseren zich bij de toepassing op de gegevens die de contracthouder hen bezorgt.<br>
 <br>
@@ -415,7 +415,8 @@ e) ontvangt een leefloon als vermeld in de wet van 26 mei 2002 betreffende het r
 a) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard minimumtarief en minstens een van beide personen volgt een inburgeringstraject;<br>
 b) heeft een inkomen dat lager ligt dan het inkomen dat leidt tot het standaard minimumtarief en hebben beiden minstens een tewerkstelling van gemiddeld 19 uren per week;<br>
 c) heeft in toepassing van artikel 57ter van de organieke wet van 8 juli 1976 betreffende de OCMW 's geen recht op maatschappelijke dienstverlening van het OCMW, en beschikt over een attest van het Federaal Agentschap voor de Opvang van Asielzoekers of een van zijn partners in de zin van artikel 2, 9°, van de wet van 12 januari 2007 betreffende de opvang van asielzoekers en van bepaalde andere categorieën van vreemdelingen waaruit blijkt dat het gezin recht heeft op materiële hulp zoals bedoeld in artikel 2, 6°, van diezelfde wet van 12 januari 2007 of medische begeleiding zoals bedoeld in de artikelen 24 en 25 van diezelfde wet van 12 januari 2007;<br>
-3° de contracthouder vraagt het attest inkomenstarief aan voor een pleegkind dat bij hem inwoont.<br>
+3° de contracthouder vraagt het attest inkomenstarief aan voor een pleegkind dat bij hem inwoont;<br>
+4° de contracthouder vraagt het attest inkomenstarief aan voor een kind van een minderjarige tienermoeder.<br>
 <br>
 § 2. Het individueel verminderd inkomenstarief wordt bepaald in de vorm van:<br>
 1° een vermindering van 25% of 50% van het berekende inkomenstarief;<br>
@@ -431,7 +432,7 @@ Een individueel verminderd inkomenstarief wordt toegekend voor één jaar, tenzi
 
 ### ART. 34/1.
 
-De contracthouder met een attest inkomenstarief kan het OCMW verzoeken om een nieuw inkomenstarief te bepalen. Als blijkt dat het voor de contracthouder financieel onmogelijk is om het laatst berekende inkomenstarief of het laatst bepaalde individueel verminderd inkomenstarief te betalen, bepaalt het OCMW een individueel verminderd inkomenstarief.<br>
+De contracthouder met een attest inkomenstarief kan het OCMW verzoeken om een nieuw inkomenstarief te bepalen. Als blijkt dat het voor de contracthouder financieel onmogelijk is om het laatst berekende inkomenstarief, het laatst bepaalde individueel verminderd inkomenstarief of het maximumtarief dat bepaald is ten gevolge van de situatie, vermeld in artikel 36, derde lid, 2°, te betalen, bepaalt het OCMW een individueel verminderd inkomenstarief.<br>
 <br>
 Het OCMW geeft het bedrag van het individueel verminderd inkomenstarief elektronisch door aan Kind en Gezin. Het OCMW kan beslissen dat het bedrag wordt toegepast met terugwerkende kracht tot maximaal zes maanden, te rekenen vanaf de eerste dag van de maand waarin het OCMW beslist. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt, tenzij er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief moet aanvragen als vermeld in artikel 32, derde lid.<br>
 <br>
