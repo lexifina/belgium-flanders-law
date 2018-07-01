@@ -2,16 +2,16 @@
   "codex_id": 1024408,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot erkenning van de onderwijskwalificatie 'Graduaat in het zaalmanagement en sommeliertechnieken'",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024408/VolledigDocument?datum=2014-08-23",
-  "source_sha256": "cd812458bf09a78564aa08bce17225597e82fb47a6153b185914dcee2eb5d74e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024408/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "8aa73463e5e1a86d3ad2bad06e336a143c8141cc8ac6f52b4c856e1507fe5efb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024408&param=informatie",
-  "as_of": "2014-08-23",
+  "as_of": "2018-07-01",
   "made": "2014-06-06",
   "gazette": "2014-08-13",
   "numac": 2014204476,
   "document_start": "2014-08-23",
   "document_end": "2018-06-30",
-  "in_force": "2014-08-23",
+  "in_force": "2018-07-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-07-01; future article versions excluded; article text as the API gives it"
 }
