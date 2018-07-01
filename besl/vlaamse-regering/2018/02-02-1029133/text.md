@@ -561,11 +561,9 @@ De subsidie, vermeld in het eerste lid, is uitgedrukt tegen 100 % van de spilind
 <br>
 De Vlaamse minister, bevoegd voor de bijstand aan personen en de Vlaamse minister, bevoegd voor het gezondheidsbeleid kunnen de nadere regels en bijkomende subsidievoorwaarden bepalen betreffende het moment en de wijze waarop de gegevens vermeld in het eerste lid, 2°, moeten verstrekt worden.<br>
 <br>
-§ 3. De subsidie, vermeld in paragraaf 1, wordt uiterlijk betaald voor 1 mei van het volgende kalenderjaar.<br>
+§ 3. De subsidie, vermeld in paragraaf 1, wordt per kwartaal uitbetaald voor het aantal maanden reëel gepresteerde begeleiding door de begeleider arbeidsmatige activiteiten gedurende dat kwartaal.<br>
 <br>
-Er wordt jaarlijks, uiterlijk op 1 juni, aan elke erkende begeleider arbeidsmatige activiteiten een voorschot betaald van 672 euro per deelnemer arbeidsmatige activiteiten die door de begeleider arbeidsmatige activiteiten begeleid wordt op 1 april van dat jaar.<br>
-<br>
-De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid kunnen de nadere regels bepalen.<br>
+Voor de eerste drie kwartalen wordt de subsidie telkens uiterlijk de tweede maand die volgt op dat kwartaal uitbetaald. Voor het vierde kwartaal van elk jaar wordt de subsidie uitbetaald tijdens het vierde kwartaal van dat jaar op basis van de trajecten die in de maand oktober zijn geregistreerd. In het eerste kwartaal van het daaropvolgende jaar wordt het aantal maanden reëel gepresteerde begeleiding door de begeleider arbeidsmatige activiteiten voor het vierde kwartaal berekend. Te veel uitbetaalde subsidies worden ingehouden of teruggevorderd.<br>
 &nbsp;
 
 ### ART 49.
@@ -595,7 +593,7 @@ Het toezicht en de controle op de uitvoering van het decreet van 25 april 2014 e
 
 ### ART 51.
 
-In 2018 wordt er, uiterlijk op 1 december, aan elke erkende begeleider arbeidsmatige activiteiten een voorschot betaald van 210 euro per deelnemer arbeidsmatige activiteiten die door de begeleider arbeidsmatige activiteiten begeleid wordt op 1 oktober van dat jaar.
+In 2018 wordt de subsidie, vermeld in artikel 48, § 1, voor het derde en vierde kwartaal uitbetaald in de maand december.
 
 ### ART 52.
 
