@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029195,
+  "title": "Decreet van 2018-03-23 houdende wijziging van artikel 8 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, wat betreft de invoering van het laagste tarief van de ouderbijdrage voor kinderopvang voor kinderen van minderjarige tienermoeders",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029195/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "04b94a5b8348493360a31d17c84d84662936d1e40a9f2fbe0c6589f8fa8dc3e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029195&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-03-23",
+  "gazette": "2018-04-05",
+  "numac": 2018011592,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
