@@ -24,7 +24,7 @@ In dit decreet wordt verstaan onder :<br />1° kaderdecreet : het kaderdecreet b
 
 ### ART. 4.
 
-Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen is het agentschap van de Vlaamse overheid dat een kwaliteitsvolle, innovatieve, arbeidsmarktgerichte competentieontwikkeling van jongeren en volwassenen verzekert en bevordert met het oog op meer en sterker ondernemen in Vlaanderen.
+Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen is het agentschap van de Vlaamse overheid dat een kwaliteitsvolle, innovatieve, arbeidsmarktgerichte competentieontwikkeling van jongeren en volwassenen verzekert en bevordert met het oog op meer en sterker ondernemen in Vlaanderen en, dat samen met de onderwijsverstrekkers en sectoren, kwalitatief en kwantitatief vorm geeft aan de werkplekcomponent van het duaal leren.
 
 ### ART. 5.
 
@@ -80,7 +80,7 @@ q) het implementeren van de doel- en kansengroepen in de ondernemerschapstraject
 
 § 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br>
 <br>
-§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het kaderdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die hem verbindt:<br>
+§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het kaderdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en het ondernemingsplan dat hem verbindt:<br>
 1° het uittekenen van de concrete pedagogische noden en de concrete planning en coördinatie inzake de opleiding, begeleiding en vorming van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen of versterken;<br>
 2° het opmaken van het programma van de leertijd en de ondernemerschapstrajecten, rekening houdend met de vestigingsvoorwaarden voor de gereglementeerde beroepen;<br>
 3° het opmaken van de programmatie van de vorming ten behoeve van de in 1° bedoelde personen, alsmede de goedkeuring van het bijhorende organisatieplan. Voor de leertijd moeten de bepalingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap met betrekking tot de programmatie in de opleidingscentra in acht genomen worden;<br>
@@ -101,7 +101,15 @@ q) het implementeren van de doel- en kansengroepen in de ondernemerschapstraject
 
 ### ART. 7.
 
-§ 1. Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bestuurd door een raad van bestuur die is samengesteld uit:<br /><br />1° de voorzitter die niet mag behoren tot, of verbonden zijn met, de organisaties bedoeld in 2° of 3°;<br /><br />2° drie leden voorgedragen door de representatieve organisaties van de werkgevers, de middenstand en de landbouw die in de Sociaal-Economische Raad van Vlaanderen zitting hebben;<br /><br />3° drie leden voorgedragen door de representatieve organisaties van de werknemers die in de Sociaal-Economische Raad van Vlaanderen zitting hebben;<br /><br />4° vijf leden voorgedragen door de Vlaamse regering en die niet mogen behoren tot, of verbonden zijn met, de organisaties bedoeld in 2° of 3°;<br /><br />5° de gedelegeerd bestuurder, bedoeld in artikel 20.<br /><br />§ 2. Alle leden van de raad van bestuur zijn stemgerechtigd.
+§ 1. Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bestuurd door een raad van bestuur die is samengesteld uit:<br>
+1° de voorzitter die niet mag behoren tot, of verbonden zijn met, de organisaties bedoeld in 2° of 3°;<br>
+2° twee bestuurders voorgedragen door de representatieve organisaties van de werkgevers, de middenstand en de landbouw die in de Sociaal-Economische Raad van Vlaanderen zitting hebben;<br>
+3° twee bestuurders voorgedragen door de representatieve organisaties van de werknemers die in de Sociaal-Economische Raad van Vlaanderen zitting hebben;<br>
+4° twee bestuurders voorgedragen door de Vlaamse regering en die niet mogen behoren tot, of verbonden zijn met, de organisaties bedoeld in 2° of 3°;<br>
+5° de gedelegeerd bestuurder, bedoeld in artikel 20;<br>
+6° vier onafhankelijke bestuurders, voorgedragen door de raad van bestuur onder de voorwaarden en op basis van de procedure, vermeld in het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+<br>
+§ 2. Alle leden van de raad van bestuur zijn stemgerechtigd.
 
 ### ART. 8.
 
@@ -121,7 +129,16 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 
 ### ART. 12.
 
-§ 1. Onverminderd het bepaalde in de artikelen 13 tot 18, beschikt de raad van bestuur over de volheid van de bestuursbevoegdheid en beslist hij in alle aangelegenheden waarvoor het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" bevoegd is krachtens dit decreet.<br /><br />§ 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval:<br /><br />1° het sluiten, op voorstel van de gedelegeerd bestuurder, van de beheersovereenkomst met de Vlaamse regering;<br /><br />2° het opstellen van het ontwerp van begroting en van de rekeningen;<br /><br />3° het vaststellen, op voorstel van de gedelegeerd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als bedoeld in artikel 15, § 1, 4°, van het kaderdecreet;<br /><br />4° het beslissen overeenkomstig de voorwaarden van artikel 12 van het kaderdecreet over de deelname van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" aan de oprichting van of de deelname in, alsmede omtrent het bestuur of de leiding en de financiering van andere publiek- of privaatrechtelijke rechtspersonen;<br /><br />5° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van de beheersovereenkomst;<br /><br />6° het rapporteren over de uitvoering van de begroting;<br /><br />7° het sluiten van het organisatieplan met de centra als bedoeld in artikel 38, § 2, laatste lid.
+§ 1. Onverminderd het bepaalde in de artikelen 13 tot 18, beschikt de raad van bestuur over de volheid van de bestuursbevoegdheid en beslist hij in alle aangelegenheden waarvoor het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" bevoegd is krachtens dit decreet.<br>
+<br>
+§ 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval:<br>
+1° het sluiten, op voorstel van de gedelegeerd bestuurder, van het ondernemingsplan met de Vlaamse regering;<br>
+2° het opstellen van het ontwerp van begroting en van de rekeningen;<br>
+3° het vaststellen, op voorstel van de gedelegeerd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als bedoeld in artikel 15, § 1, 4°, van het kaderdecreet;<br>
+4° het beslissen overeenkomstig de voorwaarden van artikel 12 van het kaderdecreet over de deelname van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" aan de oprichting van of de deelname in, alsmede omtrent het bestuur of de leiding en de financiering van andere publiek- of privaatrechtelijke rechtspersonen;<br>
+5° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van het ondernemingsplan;<br>
+6° het rapporteren over de uitvoering van de begroting;<br>
+7° het sluiten van het organisatieplan met de centra als bedoeld in artikel 38, § 2, laatste lid.
 
 ## AFDELING 2 [HET VLAAMS PARTNERSCHAP DUAAL LEREN EN DE SECTORALE PARTNERSCHAPPEN (verv. decr. 10 juni 2016, art. 35, I: 1 juli 2016)]
 
@@ -272,7 +289,7 @@ De Vlaamse regering motiveert zijn beslissing tot niet-goedkeuring van het huish
 
 ### ART. 23.
 
-Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door de raad van bestuur.
+De raad van bestuur stelt, in overleg met de Vlaamse Regering, een ondernemingsplan vast, alsook een jaarrapport over de uitvoering van het ondernemingsplan.
 
 ## HOOFDSTUK VI SAMENWERKING MET VDAB
 
@@ -284,7 +301,20 @@ Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bij he
 
 ### ART. 25.
 
-§ 1. Het verzelfstandigd agentschap kan beschikken over volgende ontvangsten:<br /><br />1° dotatie(s);<br /><br />2° leningen;<br /><br />3° fiscale heffingen voor zover bij decreet toegewezen aan het agentschap;<br /><br />4° retributies voor zover bij decreet toegewezen aan het agentschap;<br /><br />5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br /><br />6° schenkingen en legaten in speciën;<br /><br />7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br /><br />8° opbrengsten uit de verkoop van eigen participaties;<br /><br />9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br /><br />10° terugvorderingen van ten onrechte gedane uitgaven;<br /><br />11° vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in de beheersovereenkomst.<br /><br />§ 2. Tenzij anders is bepaald in een decreet worden de in § 1 genoemde ontvangsten beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.
+§ 1. Het verzelfstandigd agentschap kan beschikken over volgende ontvangsten:<br>
+1° dotatie(s);<br>
+2° leningen;<br>
+3° fiscale heffingen voor zover bij decreet toegewezen aan het agentschap;<br>
+4° retributies voor zover bij decreet toegewezen aan het agentschap;<br>
+5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
+6° schenkingen en legaten in speciën;<br>
+7° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br>
+8° opbrengsten uit de verkoop van eigen participaties;<br>
+9° de subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br>
+10° terugvorderingen van ten onrechte gedane uitgaven;<br>
+11° vergoedingen voor prestaties aan derden, volgens de modaliteiten bepaald in het ondernemingsplan.<br>
+<br>
+§ 2. Tenzij anders is bepaald in een decreet worden de in § 1 genoemde ontvangsten beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.
 
 ## HOOFDSTUK VIII AANBOD VAN OPLEIDINGEN
 
@@ -352,7 +382,34 @@ Een centrum kan, mits het voldoet aan de voorwaarden bedoeld in artikel 37, door
 
 ### ART. 38.
 
-§ 1. Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" kan aan een door de Vlaamse regering erkend centrum voor vorming van zelfstandigen en kleine of middelgrote ondernemingen subsidies en financiële compensaties toekennen indien het centrum voldoet aan de volgende voorwaarden:<br />1° het centrum functioneert in overeenstemming met de regels van het recht inzake verenigingen zonder winstgevend oogmerk, inzonderheid de wet van 27 juni 1921;<br />2° het centrum neemt een boekhouding aan waarvan de regels door de Vlaamse regering zijn vastgesteld;<br />3° het dagelijks bestuur van het centrum is toevertrouwd aan een directeur die daartoe is erkend door de Vlaamse regering overeenkomstig de voorwaarden gesteld door de Vlaamse regering;<br />4° het centrum organiseert een minimum aantal cursussen, conform de richtlijnen en modaliteiten bepaald door de Vlaamse regering.<br /><br />§ 2. Aan een centrum kan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen overeenkomstig de voorwaarden, bepaald door de Vlaamse Regering, en eventuele bijkomende voorwaarden opgenomen in de beheersovereenkomst, de volgende subsidies en financiële compensaties toekennen :<br />1° overeenkomstig artikel 29, een subsidie voor de leertijd;<br />2° overeenkomstig artikel 31, een subsidie voor ondernemerschapstrajecten;<br />3° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor de huur, het verwerven, de nieuwbouw, het eigenaarsonderhoud en de uitrusting van gebouwen;<br />4° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor innovatie en productontwikkeling;<br />5° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor projecten in het kader van de uitvoering van de beheersovereenkomst.<br /><br />De subsidies, vermeld in het eerste lid, 1° en 2°, kunnen de volgende vormen aannemen :<br />1° een productiesubsidie;<br />2° een effectiviteitssubsidie.<br /><br />De subsidies, vermeld in het eerste lid, 1° en 2°, worden toegekend op grond van een door het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen goed te keuren organisatieplan.<br /><br />§ 3. Opdat het centrum als vermeld in § 1, voor subsidiëring door de Vlaamse Regering in aanmerking zou komen, moet het in het kader van de leertijd :<br />1° deelnemen aan en samenwerken binnen een of meer regionale overlegplatformen als vermeld in artikel 103 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap; <br />2° binnen zijn opdrachten, maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren.<br />3° deelnemen aan en samenwerken binnen een lokaal overlegplatform opgericht overeenkomstig artikel IV.2, § 2, eerste lid, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen.<br />Onder « samenwerken » wordt verstaan :<br />- de in artikel IV.4, eerste lid, 1°, van hetzelfde decreet bedoelde gegevens leveren; en<br />- de in het kader van artikel IV.4, eerste lid, van hetzelfde decreet gemaakte afspraken naleven.<br /><br />§ 4. De subsidiëring voor wat betreft de leertijd van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen dat niet meer voldoet aan alle subsidiëringsvoorwaarden, wordt door Syntra Vlaanderen geheel of gedeeltelijk ingehouden. Die inhouding kan alleen op voorstel van de onderwijsinspectie als het gaat om de voorwaarden als vermeld in § 3. De Vlaamse Regering bepaalt de aanvullende bepalingen voor die inhouding en regelt de beroepsprocedure.
+§ 1. Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" kan aan een door de Vlaamse regering erkend centrum voor vorming van zelfstandigen en kleine of middelgrote ondernemingen subsidies en financiële compensaties toekennen indien het centrum voldoet aan de volgende voorwaarden:<br>
+1° het centrum functioneert in overeenstemming met de regels van het recht inzake verenigingen zonder winstgevend oogmerk, inzonderheid de wet van 27 juni 1921;<br>
+2° het centrum neemt een boekhouding aan waarvan de regels door de Vlaamse regering zijn vastgesteld;<br>
+3° het dagelijks bestuur van het centrum is toevertrouwd aan een directeur die daartoe is erkend door de Vlaamse regering overeenkomstig de voorwaarden gesteld door de Vlaamse regering;<br>
+4° het centrum organiseert een minimum aantal cursussen, conform de richtlijnen en modaliteiten bepaald door de Vlaamse regering.<br>
+<br>
+§ 2. Aan een centrum kan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen overeenkomstig de voorwaarden, bepaald door de Vlaamse Regering, en eventuele bijkomende voorwaarden opgenomen in het ondernemingsplan, de volgende subsidies en financiële compensaties toekennen :<br>
+1° overeenkomstig artikel 29, een subsidie voor de leertijd;<br>
+2° overeenkomstig artikel 31, een subsidie voor ondernemerschapstrajecten;<br>
+3° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor de huur, het verwerven, de nieuwbouw, het eigenaarsonderhoud en de uitrusting van gebouwen;<br>
+4° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor innovatie en productontwikkeling;<br>
+5° overeenkomstig de regels, vastgelegd door de Vlaamse Regering, een subsidie of financiële compensatie voor projecten in het kader van de uitvoering van het ondernemingsplan.<br>
+<br>
+De subsidies, vermeld in het eerste lid, 1° en 2°, kunnen de volgende vormen aannemen :<br>
+1° een productiesubsidie;<br>
+2° een effectiviteitssubsidie.<br>
+<br>
+De subsidies, vermeld in het eerste lid, 1° en 2°, worden toegekend op grond van een door het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen goed te keuren organisatieplan.<br>
+<br>
+§ 3. Opdat het centrum als vermeld in § 1, voor subsidiëring door de Vlaamse Regering in aanmerking zou komen, moet het in het kader van de leertijd :<br>
+1° deelnemen aan en samenwerken binnen een of meer regionale overlegplatformen als vermeld in artikel 103 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+2° binnen zijn opdrachten, maximale inspanningen leveren om het voltijds engagement voor elke jongere te realiseren.<br>
+3° deelnemen aan en samenwerken binnen een lokaal overlegplatform opgericht overeenkomstig artikel IV.2, § 2, eerste lid, van het decreet van 28 juni 2002 betreffende gelijke onderwijskansen.<br>
+Onder « samenwerken » wordt verstaan :<br>
+- de in artikel IV.4, eerste lid, 1°, van hetzelfde decreet bedoelde gegevens leveren; en<br>
+- de in het kader van artikel IV.4, eerste lid, van hetzelfde decreet gemaakte afspraken naleven.<br>
+<br>
+§ 4. De subsidiëring voor wat betreft de leertijd van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen dat niet meer voldoet aan alle subsidiëringsvoorwaarden, wordt door Syntra Vlaanderen geheel of gedeeltelijk ingehouden. Die inhouding kan alleen op voorstel van de onderwijsinspectie als het gaat om de voorwaarden als vermeld in § 3. De Vlaamse Regering bepaalt de aanvullende bepalingen voor die inhouding en regelt de beroepsprocedure.
 
 ## AFDELING 2 [... (opgeh. decr. 15 juni 2018, art. 35, I: 1 september 2018)]
 
@@ -392,7 +449,7 @@ De personeelsleden, vermeld in het eerste lid, oefenen de volgende toezichts- en
 4° alle andere opdrachten die in het kader van toezicht worden toegekend bij decreet of besluit van de Vlaamse Regering.<br>
 <br>
 Het kwaliteits- en pedagogisch toezicht, vermeld in het tweede lid, omvat het toezicht op :<br>
-1° de uitvoering van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br>
+1° de uitvoering van de engagementen van de centra in het kader van de uitvoering van het ondernemingsplan en de ondernemingsplannen van de centra;<br>
 2° het organisatieplan;<br>
 3° de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;<br>
 4° de procedures voor inschrijving, vrijstelling, en examens van cursisten;<br>
@@ -400,7 +457,7 @@ Het kwaliteits- en pedagogisch toezicht, vermeld in het tweede lid, omvat het to
 6° de opvolging van aan de centra toegekende kwaliteitslabels.<br>
 <br>
 Het financiële toezicht op de centra, vermeld in het tweede lid, omvat het toezicht op :<br>
-1° de financiële aspecten van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br>
+1° de financiële aspecten van de engagementen van de centra in het kader van de uitvoering van het ondernemingsplan en de ondernemingsplannen van de centra;<br>
 2° de financiële compensaties ter uitvoering van artikel 38, § 2;<br>
 3° de jaarrekeningen van de centra;<br>
 4° de juistheid van de financiële informatie, en de relevantie, het consequente karakter en de bestendigheid van de boekhoudkundige principes en regels die bij de opstelling van de rekeningen worden gebruikt;<br>
