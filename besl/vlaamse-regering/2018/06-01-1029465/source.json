@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029465,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-01 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer de beheersdienst van het Kasteel-Domein van Gaasbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029465/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "7647e017ee269874cdedb0bfacacecf28fe59daa612352aa0faa35a446775fca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029465&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-06-01",
+  "gazette": "2018-06-26",
+  "numac": 2018012772,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
