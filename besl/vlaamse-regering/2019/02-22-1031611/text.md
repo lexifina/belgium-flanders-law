@@ -20,6 +20,15 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
+### ART 4.
+
+In artikel 32, vijfde lid, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2015, wordt de zinsnede "na elke toekenning van een attest inkomenstarief." vervangen door de zinsnede "na elke toekenning van een attest inkomenstarief, tenzij de organisator bepaalt dat de contracthouder hem het attest niet hoeft te geven.".
+
+### ART 5.
+
+Aan artikel 34, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 april 2014, vervangen bij het besluit van de Vlaamse Regering van 24 april 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 16 juni 2017, wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° de contracthouder vraagt het attest inkomenstarief aan voor een kind van een minderjarige tienermoeder.".
+
 ### ART 6.
 
 In artikel 34/1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 24 april 2015, wordt de zinsnede "het laatst berekende inkomenstarief of het laatst bepaalde individueel verminderd inkomenstarief" vervangen door de zinsnede "het laatst berekende inkomenstarief, het laatst bepaalde individueel verminderd inkomenstarief of het maximumtarief dat bepaald is ten gevolge van de situatie, vermeld in artikel 36, derde lid, 2°, ".
