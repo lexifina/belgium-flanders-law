@@ -130,7 +130,7 @@ De organisator met een vergunning voor gezinsopvang of een vergunning voor   gro
 3° de gezinssamenstelling:<br>
 4° de aanwezigheid van pleegkinderen, als bedoeld in artikel 2, 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, in het gezin en die in aanmerking komen voor kinderopvang als bedoeld in artikel 2, 2°.<br>
 <br>
-In afwijking van het eerste lid wordt voor pleeggezinnen zoals bedoeld in artikel 2, 9°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg voor het pleegkind een financiële bijdrage vastgesteld die overeenstemt met de laagst mogelijke financiële bijdrage onafhankelijk van het inkomen van het pleeggezin.<br>
+De financiële bijdrage van de gezinnen voor de kinderopvang van een pleegkind als vermeld in het eerste lid, 4°, of van een kind van een minderjarige tienermoeder, stemt overeen met het laagst mogelijke inkomenstarief, onafhankelijk van het inkomen van het pleeggezin of van het gezin van de minderjarige.<br>
 <br>
 § 2. Behoudens de bepalingen in § 1 geldt ten aanzien van de kinderopvanglocaties in het tweetalige gebied Brussel-Hoofdstad een voorrang voor kinderen waarvan minstens één ouder het Nederlands voldoende machtig is en dit ten belope van maximaal 55 percent van hun opvangcapaciteit.<br>
 <br>
