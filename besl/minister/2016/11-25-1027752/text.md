@@ -305,7 +305,13 @@ Het ministerieel besluit van 27 februari 2014 ter uitvoering van artikel 8, 11, 
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98">http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98">http://www.ejustice.just.fgov.be/mopdf/2017/01/18_1.pdf#page=98</a><br>
+<br>
+* Met ingang van 1 juli 2018 wordt aan punt 1.3 van bijlage 3 een punt g) tot en met j) toegevoegd, die luiden als volgt:<br>
+"g) een diploma van het beroepssecundair onderwijs, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
+h) een studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar, een bewijs van onderwijskwalificatie "kinderbegeleider duaal" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader, met inbegrip van de beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en de beroepskwalificatie "kinderbegeleider schoolgaande kinderen" niveau 4 van de Vlaamse kwalificatiestructuur;<br>
+i) een certificaat, een bewijs van beroepskwalificatie "kinderbegeleider baby's en peuters" niveau 4 van de Vlaamse kwalificatiestructuur en niveau 4 van het Europese kwalificatiekader;<br>
+j) uitgereikt tot en met december 2021: een diploma van het ondernemerschapstraject kinderbegeleider baby's en peuters, uitgereikt door SYNTRA Vlaanderen;" (Zie MB 11 oktober 2018, art. 2, I: 1 juli 2018).
 
 ## BIJLAGE 4
 
