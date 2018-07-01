@@ -77,6 +77,10 @@ Het sectoraal partnerschap kan het maximumaantal jongeren bepalen dat per mentor
 In de sectoren waar geen maximumaantal jongeren per mentor is bepaald door een sectoraal partnerschap, kan het Vlaams Partnerschap Duaal Leren het maximumaantal jongeren bepalen dat per mentor kan worden opgeleid.<br>
 &nbsp;
 
+### ART 4/1.
+
+Bij de beoordeling van de financiële draagkracht, vermeld in artikel 7, § 1, eerste lid, 3°, van het decreet van 10 juni 2016, wordt onder meer rekening gehouden met achterstallige belastingen en met achterstallige bijdragen te innen door een instelling belast met de inning van de sociale zekerheidsbijdragen. Er wordt geen rekening gehouden met bedragen die het voorwerp uitmaken van een afbetalingsplan bij de instelling belast met de inning van de sociale zekerheidsbijdragen dat wordt geëerbiedigd.
+
 ### ART 5.
 
 Met toepassing van artikel 7, § 1, tweede lid, 1° en 2°, van het decreet van 10 juni 2016 oordeelt het Vlaams Partnerschap Duaal Leren of de mentor een bewijs van vooropleiding heeft.<br>
@@ -105,6 +109,14 @@ Als de beslissing tot de niet-erkenning, de opheffing van de erkenning of de uit
 
 Als de beslissing tot de niet-erkenning, de opheffing van de erkenning of de uitsluiting van een onderneming genomen werd door het Vlaams Partnerschap Duaal Leren, kan de onderneming binnen tien dagen na de schriftelijke mededeling van de beslissing met een aangetekende brief een gemotiveerd verzoek tot herziening indienen bij de Vlaamse minister, bevoegd voor werk. Na onderzoek en na het horen van de onderneming neemt de Vlaamse minister, bevoegd voor werk, een beslissing uiterlijk binnen een termijn van zestig dagen na ontvangst van het verzoek. Bij overschrijding van deze termijn, is de omstreden beslissing van rechtswege nietig.<br>
 &nbsp;
+
+### ART 7/1.
+
+Zolang de beroepsprocedure tegen de niet-erkenning van de onderneming loopt, kan zij geen overeenkomsten sluiten.<br>
+<br>
+Zolang de beroepsprocedure tegen de opheffing van de erkenning van de onderneming of tegen de tijdelijke uitsluiting van de onderneming loopt, kan de onderneming geen nieuwe overeenkomsten sluiten. De lopende overeenkomsten blijven uitgevoerd worden.<br>
+<br>
+Zolang de beroepsprocedure tegen de definitieve uitsluiting van de onderneming loopt, kan zij geen nieuwe overeenkomsten sluiten. De lopende overeenkomsten worden beëindigd.
 
 ## Afdeling 2 Beroep tegen de beëindiging van de overeenkomst van alternerende opleiding of de stageovereenkomst alternerende opleiding
 
@@ -220,14 +232,25 @@ De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd
 
 ### BIJLAGE
 
-Model van een overeenkomst van alternerende opleiding<br>
-<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=136</a><br>
-<br>
-* Met ingang van 1 september 2017 wordt in artikel 6 , eerste lid, van bijlage 1&nbsp;in de voetnoot het punt 3°, d) opgeheven.
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/22_1.pdf#page=27">Overeenkomst van alternerende opleiding</a>
 
 ### BIJLAGE
 
 Model van stageovereenkomst<br>
 <br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141">http://www.ejustice.just.fgov.be/mopdf/2017/08/14_1.pdf#page=141</a><br>
+<br>
+* Bij BVR van 22 juni 2018, BS 22 augustus 2018, werden met ingang van1 juli 2018 de volgende wijzigingen aangebracht:<br>
+<br>
+1° in artikel 2, tweede lid, wordt de zinsnede "als het om een opleiding in het secundair onderwijs gaat, of van het begeleidingsteam als het om een opleiding in de leertijd gaat" opgeheven;<br>
+2° in artikel 5 wordt het derde lid vervangen door wat volgt:<br>
+" De overeenkomst wordt uitgevoerd volgens het uurrooster dat als bijlage bij deze overeenkomst is gevoegd. Het uurrooster vermeldt zowel voor de opleidingsdagen in de school als in de onderneming:<br>
+• het exacte aanvangs- en einduur van de opleidingsdag;<br>
+• het tijdstip en de duur van de pauzes;<br>
+• de gebruikelijke rustdag(en).".<br>
+3° De laatste zin van de overeenkomst wordt vervangen door wat volgt:<br>
+"De onderneming registreert de overeenkomst op www.werkplekduaal.be of bezorgt een kopie van de overeenkomst aan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, Kanselarijstraat 19, 1000 Brussel.<br>
+<br>
+Syntra Vlaanderen registreert deze overeenkomst in haar opvolgsysteem, om haar decretale functie van kwaliteitstoezicht op de werkplekcomponent te kunnen uitoefenen. De overeenkomst wordt in het systeem bewaard tot twee jaar na het schooljaar waarin de overeenkomst beëindigd is. In het kader van rapportering kan de informatie op geaggregeerd niveau langer worden bewaard.<br>
+<br>
+Overeenkomstig de Algemene Verordening Gegevensbescherming heeft de leerling het recht om in de wettelijk toegelaten gevallen de inzage, wijziging of verwijdering van zijn persoonsgegevens te verzoeken aan Syntra Vlaanderen. In bepaalde gevallen heeft de leerling ook recht op beperking van de verwerking, alsmede het recht tegen die verwerking van zijn gegevens bezwaar te maken en klacht in te dienen bij de Gegevensbeschermingsautoriteit.
