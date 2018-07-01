@@ -367,17 +367,10 @@ De kinderbegeleider die werkt in een erkende opvanglocatie, heeft een attest van
 2° een bewijs van een kwalificerend traject, vastgesteld door de minister, als voldaan wordt aan de volgende voorwaarden:<br>
 a) per kinderbegeleider in een kwalificerend traject werken er drie voltijds equivalenten kinderbegeleiders met een kwalificatiebewijs als vermeld in punt 1°, op het niveau van de organisator;<br>
 b) per kinderbegeleider in een kwalificerend traject is er altijd een kinderbegeleider met een kwalificatiebewijs als vermeld in punt 1°, aanwezig in de opvanglocatie;<br>
-c) de kinderbegeleider in een kwalificerend traject behaalt het kwalificatiebewijs, vermeld in punt 1°, maximaal zes jaar nadat hij gestart is met werken als kinderbegeleider bij de organisator.</p>
+c) de kinderbegeleider in een kwalificerend traject behaalt het kwalificatiebewijs, vermeld in punt 1°, maximaal zes jaar nadat hij gestart is met werken als kinderbegeleider bij de organisator.<br>
+d) de kinderbegeleider in een kwalificerend traject wordt minstens achttien jaar in het schooljaar waarin hij start met het kwalificerende traject.</p>
 
-<p>§ 3. Uit het kwalificatiebewijs, vermeld in paragraaf 2, 1°, blijkt dat de kinderbegeleider de competenties, opgenomen in bijlage 7, die bij dit besluit is gevoegd, heeft. De competenties zijn gebundeld in de volgende clusters:<br>
-1° kunnen aanbieden van een gevarieerde vrije tijd aan kinderen, zowel aan individuele kinderen als aan een groep kinderen, en kunnen zorgen voor de kinderen, bijdragen aan hun ontwikkeling, en hun welbevinden en betrokkenheid kunnen stimuleren;<br>
-2° kunnen samenwerken met het gezin als partner in de opvoeding;<br>
-3° kunnen samenwerken met externen in functie van een gevarieerde vrije tijd voor kinderen;<br>
-4° kunnen samenwerken met collega's en de verantwoordelijke;<br>
-5° kunnen reflecteren over het pedagogische handelen en op basis van die reflectie het handelen kunnen verbeteren;<br>
-6° kunnen omgaan met diversiteit van kinderen, gezinnen, externen en collega's.<br>
-<br>
-In het eerste lid wordt verstaan onder competentie: de bekwaamheid om kennis, vaardigheden en attitudes in het handelen geïntegreerd aan te wenden voor maatschappelijke activiteiten.</p>
+<p>§ 3. Uit het kwalificatiebewijs, vermeld in paragraaf 2, 1°, blijkt dat de kinderbegeleider de competenties, vermeld in het besluit van de Vlaamse Regering van 21 april 2017 tot erkenning van de beroepskwalificatie kinderbegeleider schoolgaande kinderen, heeft.</p>
 
 ### ART. 39.
 
@@ -903,4 +896,4 @@ Dat evacuatie- en interventieplan wordt opgenomen in de crisisprocedure, vermeld
 
 ### BIJLAGE 7
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/17_2.pdf#page=148">Bijlage   7</A>
+...
