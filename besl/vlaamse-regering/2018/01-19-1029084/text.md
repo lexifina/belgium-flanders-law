@@ -220,6 +220,10 @@ De evaluatie wordt uitgevoerd aan de hand van minstens de volgende parameters:<b
 
 ## Hoofdstuk 6. Slotbepalingen
 
+### ART 23.
+
+Het besluit van de Vlaamse Regering van 20 december 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van vervoer met langere en zwaardere slepen in het kader van een proefproject wordt opgeheven.
+
 ### ART 24.
 
 Het decreet van 7 juli 2017 houdende wijziging van het decreet van 3 mei 2013 betreffende de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport treedt in werking op 1 januari 2018.
