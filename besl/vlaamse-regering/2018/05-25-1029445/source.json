@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029445,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-25 tot ontwikkeling van de onderwijskwalificatie graduaat in het logies-, restaurant- & cateringmanagement en tot opheffing van het besluit van de Vlaamse Regering van 6 juni 2014 tot erkenning van de onderwijskwalificatie 'Graduaat in het zaalmanagement en sommeliertechnieken'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029445/VolledigDocument?datum=2018-07-01",
+  "source_sha256": "e1a7ac6c3648d48c6df66cf70597ddce3bb37a13f0510153b0550d9d6d4a2c0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029445&param=informatie",
+  "as_of": "2018-07-01",
+  "made": "2018-05-25",
+  "gazette": "2018-06-21",
+  "numac": 2018012617,
+  "document_start": "2018-07-01",
+  "document_end": null,
+  "in_force": "2018-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
