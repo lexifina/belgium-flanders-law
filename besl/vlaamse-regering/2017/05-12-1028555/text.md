@@ -78,7 +78,13 @@ Het agentschap bepaalt het maximale aantal personeelspunten van een subsidie-een
 8° het totale aantal zorggebonden personeelspunten dat bij de vergunde zorgaanbieder wordt ingezet in de vorm van een voucher als vermeld in artikel 13 van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, en het aantal extra personeelspunten, bepaald conform artikel 3, § 5, van het voormelde besluit;<br>
 9° de personeelspunten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
 10° de personeelspunten, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
-11° de personeelspunten, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits.
+11° de personeelspunten, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits.<br>
+<br>
+Het totale aantal zorggebonden personeelspunten, vermeld in het eerste lid, 8°, wordt per vergunde zorgaanbieder verminderd met een aantal zorggebonden personeelspunten. De tabel 4, opgenomen in de bijlage, die bij dit besluit is gevoegd, bepaalt per vergunde zorgaanbieder het aantal zorggebonden personeelspunten dat in mindering gebracht wordt.<br>
+<br>
+Voor het jaar 2018 wordt de helft van het aantal zorggebonden personeelspunten, vermeld in de voormelde tabel 4, in mindering gebracht.<br>
+<br>
+Het verminderde aantal zorggebonden personeelspunten, vermeld in het tweede en het derde lid, vormt de basis voor de berekening van het aantal extra personeelspunten, vermeld in het eerste lid, 8°.
 
 ### ART 7.
 
