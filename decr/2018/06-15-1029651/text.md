@@ -117,6 +117,10 @@ In artikel 82 van hetzelfde decreet, vervangen bij het decreet van 8 mei 2009, w
 
 ## HOOFDSTUK 14. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
 
+### ART 71.
+
+Artikel 44 van dezelfde codex, vervangen bij het decreet van 3 juli 2015, wordt opgeheven.
+
 ## HOOFDSTUK 15. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
 ### ART 86.
