@@ -501,7 +501,7 @@ In geval van overname van een school door een ander schoolbestuur, wordt het bed
 
 ### ART. 44.
 
-<P>De Vlaamse Regering kan binnen de beschikbare kredieten subsidies verlenen   aan organisaties die naadloze flexibele trajecten onderwijs-welzijn aanbieden.   Deze trajecten kunnen preventief of curatief ingezet worden in functie van   leerlingen bij wie schooluitval en/of ongekwalificeerde uitstroom dreigt omwille   van pedagogische, juridische, sociale of persoonlijke redenen. De trajecten zijn   gericht op het versterken van secundaire onderwijsinstellingen in hun omgang met   deze leerlingen of op het bevorderen van de re-integratie van leerlingen in het   onderwijs. De trajecten kunnen aangeboden worden binnen de onderwijsinstelling   of op een andere locatie. Een traject dient qua duur, methodiek en invulling   afgestemd te zijn op de behoeften en leeftijd van de individuele leerling of   leerlingengroep.<BR><BR>De Vlaamse Regering bepaalt:<BR>1° de voorwaarden   waaronder deze subsidies kunnen worden toegekend;<BR>2° de wijze van selectie,   de duur en de evaluatie van de trajecten;<BR>3° de wijze van toegang tot de   trajecten;<BR>4° de datum van inwerkingtreding van dit   artikel.</P>
+...
 
 ## Onderafdeling 3. Brussels ondersteuningscentrum secundair onderwijs
 
