@@ -26,12 +26,12 @@
 
 ### ART. 1.
 
-De onderwijskwalificatie "graduaat in het dispatchen van goederenvervoer   via de lucht", ingeschaald op niveau 5 van de Vlaamse kwalificatiestructuur,   wordt erkend. De onderwijskwalificatie "graduaat in het dispatchen van   goederenvervoer via de lucht" is ondergebracht in het studiegebied   "handelswetenschappen en bedrijfskunde" van het hoger beroepsonderwijs. De   studieomvang van de onderwijskwalificatie bedraagt negentig   studiepunten.<BR>
+...
 
 ### ART. 2.
 
-De competenties van de onderwijskwalificatie "graduaat in het dispatchen   van goederenvervoer via de lucht" zijn opgenomen in de beroepskwalificatie   "dispatcher luchtvracht (loadcontroller)", erkend bij het besluit van de Vlaamse   Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie dispatcher   luchtvracht (loadcontroller).<BR>
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
+...
