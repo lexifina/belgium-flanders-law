@@ -2,16 +2,16 @@
   "codex_id": 1024410,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot erkenning van de onderwijskwalificatie 'Graduaat in het dispatchen van goederenvervoer via het spoor'",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024410/VolledigDocument?datum=2014-08-23",
-  "source_sha256": "5851957de6322c895a017adcaa7fe7d31832c9abd5294b8f0353aa300aa4c975",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024410/VolledigDocument?datum=2018-07-02",
+  "source_sha256": "7130db9402fc36a82fee105faef8500b95cf04958e6e236efb0383e83c70d337",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024410&param=informatie",
-  "as_of": "2014-08-23",
+  "as_of": "2018-07-02",
   "made": "2014-06-06",
   "gazette": "2014-08-13",
   "numac": 2014204484,
   "document_start": "2014-08-23",
   "document_end": "2018-07-01",
-  "in_force": "2014-08-23",
+  "in_force": "2018-07-02",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-07-02; future article versions excluded; article text as the API gives it"
 }
