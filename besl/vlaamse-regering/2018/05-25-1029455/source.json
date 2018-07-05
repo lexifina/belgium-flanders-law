@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029455,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-25 houdende de wijziging van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren en het besluit van de Vlaamse Regering van 8 juli 2016 houdende subsidiëring van intergemeentelijke projecten ter ondersteuning van het lokaal woonbeleid, wat betreft de afstemming op de vrijwillige samenvoeging van gemeenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029455/VolledigDocument?datum=2018-07-05",
+  "source_sha256": "5fd0aba93df92614bbe861e1645dca557b13af185d66cd9f4c65738dc54ef495",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029455&param=informatie",
+  "as_of": "2018-07-05",
+  "made": "2018-05-25",
+  "gazette": "2018-06-25",
+  "numac": 2018012748,
+  "document_start": "2018-07-05",
+  "document_end": null,
+  "in_force": "2018-07-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
