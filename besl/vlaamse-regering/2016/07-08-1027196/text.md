@@ -340,6 +340,27 @@ Het agentschap kan opmerkingen formuleren bij het verslag van het woonoverleg of
 
 ## [HOOFDSTUK 4/1 Impact van een vrijwillige samenvoeging van gemeenten (ing. BVR 25 mei 2018, art. 3, I: 5 juli 2018)]
 
+### ART 21/1.
+
+§ 1. Dit artikel is van toepassing in geval van een vrijwillige samenvoeging van gemeenten als vermeld in het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016.<br>
+<br>
+In dit artikel wordt verstaan onder:<br>
+1° nieuwe gemeente: de nieuwe gemeente, vermeld in artikel 5, 5°, van het voormelde decreet;<br>
+2° samengevoegde gemeenten: de samengevoegde gemeenten, vermeld in artikel 5, 4°, van het voormelde decreet;<br>
+3° samenvoegingsdatum: de samenvoegingsdatum, vermeld in artikel 5, 2°, van het voormelde decreet.<br>
+<br>
+§ 2. Als een of meer samengevoegde gemeenten deelnemen aan een bepaald project waaraan een subsidie wordt verleend met toepassing van dit besluit, zonder dat een of meer andere van die gemeenten deelnemen aan een ander dergelijk project, neemt de nieuwe gemeente vanaf de samenvoegingsdatum deel aan dat project op voorwaarde dat de andere deelnemende gemeenten van het project akkoord gaan met de toetreding van de nieuwe gemeente.<br>
+<br>
+In afwijking van het eerste lid kunnen de samengevoegde gemeenten uiterlijk twee maanden voor de samenvoegingsdatum samen beslissen om uit het project, vermeld in het eerste lid, te treden als minstens een van de samengevoegde gemeenten voor de samenvoegingsdatum niet deelneemt aan het voormelde project en op voorwaarde dat de andere deelnemende gemeenten van het project akkoord gaan met de toetreding van de nieuwe gemeente. Als de samengevoegde gemeenten niet tot overeenstemming komen, beslist de minister, nadat de betrokken actoren zijn gehoord, over de deelname van de nieuwe gemeente aan het voormelde project.<br>
+<br>
+Als twee of meer samengevoegde gemeenten deelnemen aan verschillende projecten waaraan een subsidie wordt verleend met toepassing van dit besluit, beslissen de samengevoegde gemeenten uiterlijk twee maanden voor de samenvoegingsdatum samen uit welk project ze treden en tot welk project ze toetreden. De nieuwe gemeente neemt vanaf de samenvoegingsdatum deel aan het project waartoe de samengevoegde gemeenten hebben beslist toe te treden op voorwaarde dat de andere deelnemende gemeenten van het project akkoord gaan met de toetreding van de nieuwe gemeente.<br>
+<br>
+In afwijking van het derde lid kunnen de samengevoegde gemeenten uiterlijk twee maanden voor de samenvoegingsdatum samen beslissen om uit de verschillende projecten, vermeld in het derde lid, te treden op voorwaarde dat de andere deelnemende gemeenten van het project akkoord gaan met de toetreding van de nieuwe gemeente. Als de samengevoegde gemeenten niet tot overeenstemming komen, worden zij geacht samen te hebben beslist om uit de verschillende projecten te treden.<br>
+<br>
+§ 3. Als voor de samenvoegingsdatum een subsidieaanvraag wordt ingediend voor een project met een subsidiëringsperiode die ingaat op of na de samenvoegingsdatum, wordt het subsidiebedrag berekend conform artikel 11 op basis van het aantal deelnemende gemeenten binnen het werkingsgebied op het ogenblik van de startdatum van de subsidiëringsperiode en het aantal private huishoudens volgens de meest recente cijfers van de FOD Economie - Algemene Directie Statistiek.<br>
+<br>
+§ 4. Als een project waaraan een subsidie wordt verleend met toepassing van dit besluit, als gevolg van een vrijwillige samenvoeging van gemeenten niet meer voldoet aan de voorwaarde van een werkingsgebied met minstens twee gemeenten, vermeld in artikel 2, eerste lid, wordt de subsidiëringsperiode automatisch stopgezet op de dag voor de samenvoegingsdatum.
+
 ## HOOFDSTUK 5 Slotbepalingen
 
 ### ART 22.
