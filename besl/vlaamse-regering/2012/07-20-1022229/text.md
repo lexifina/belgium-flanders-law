@@ -86,6 +86,16 @@ Het sociaal verhuurkantoor maakt een jaarverslag op overeenkomstig het stramien 
 
 ## [Afdeling 4. Impact van een vrijwillige samenvoeging van gemeenten (ing. BVR 25 mei 2018, art. 1, I: 5 juli 2018)]
 
+### ART 7/1.
+
+Als twee of meer sociale verhuurkantoren als gevolg van een vrijwillige samenvoeging van gemeenten als vermeld in het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, niet meer voldoen aan de voorwaarde, vermeld in artikel 56, § 4, 3°, van de Vlaamse Wooncode, moeten die sociale verhuurkantoren uiterlijk op 31 december van het tweede jaar dat volgt op de samenvoegingsdatum, voldoen aan die voorwaarde. Aan de voorwaarde is voldaan als in een schriftelijke overeenkomst tussen de sociale verhuurkantoren in kwestie het huren van bijkomende woningen in de nieuwe gemeente uitdrukkelijk wordt overgedragen aan een van de sociale verhuurkantoren in kwestie en die overdracht leidt tot werkingsgebieden zonder samenvallende inhuurnames.<br>
+<br>
+In het eerste lid wordt verstaan onder<br>
+1° nieuwe gemeente: de nieuwe gemeente, vermeld in artikel 5, 5°, van het voormelde decreet;<br>
+2° samenvoegingsdatum: de samenvoegingsdatum, vermeld in artikel 5, 2°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016.<br>
+<br>
+Als de sociale verhuurkantoren in kwestie niet tot overeenstemming komen, beslist de minister, nadat de betrokken actoren zijn gehoord, op basis van het aantal woningen, de huurtermijn en het advies van het lokaal woonoverleg, over de overdracht van beoogde inhuurnames met het oog op een afgestemd werkingsgebied.
+
 ## Hoofdstuk 5. De subsidiëring
 
 ## Afdeling 1. Voorwaarden
