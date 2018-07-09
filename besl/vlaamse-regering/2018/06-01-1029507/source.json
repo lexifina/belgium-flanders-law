@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029507,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-01 tot goedkeuring van de gewijzigde statuten van het Belgische Rode Kruis, bl. 54850",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029507/VolledigDocument?datum=2018-07-09",
+  "source_sha256": "4ce522002b1934099642bc7e8c3661385af35d612a78bbbccb02659bd3134db8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029507&param=informatie",
+  "as_of": "2018-07-09",
+  "made": "2018-06-01",
+  "gazette": "2018-07-09",
+  "numac": 2018012961,
+  "document_start": "2018-07-09",
+  "document_end": null,
+  "in_force": "2018-07-09",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
