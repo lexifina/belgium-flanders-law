@@ -2,16 +2,16 @@
   "codex_id": 1013167,
   "title": "Besluit van de Vlaamse Regering van 2004-04-02 tot goedkeuring van de gewijzigde statuten van het Belgische Rode Kruis",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013167/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9ad8f6697c841b91a06e0aafdf12a56e451101cf631df023d5e3ea2d48eecbbb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013167/VolledigDocument?datum=2018-07-09",
+  "source_sha256": "939c35a99223671918e2292c98fc4f2c4d3a9d78540f7f9c8371c391cf1c89a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013167&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-07-09",
   "made": "2004-04-02",
   "gazette": "2004-07-01",
   "numac": 2004035935,
   "document_start": "2004-07-01",
   "document_end": "2018-07-08",
-  "in_force": "2006-06-01",
+  "in_force": "2018-07-09",
   "article_versions": 70,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-07-09; future article versions excluded; article text as the API gives it"
 }
