@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029476,
+  "title": "Decreet van 2018-06-08 houdende wijziging van diverse bepalingen van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en wijziging van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029476/VolledigDocument?datum=2018-07-12",
+  "source_sha256": "4d5378f57affbf85d41d5ec4340f17b15ecf699657b551b4500a295d2931eb70",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029476&param=informatie",
+  "as_of": "2018-07-12",
+  "made": "2018-06-08",
+  "gazette": "2018-07-02",
+  "numac": 2018012898,
+  "document_start": "2018-07-12",
+  "document_end": null,
+  "in_force": "2018-07-12",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2018-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
