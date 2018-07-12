@@ -3425,7 +3425,7 @@ De minimumstraffen zijn echter een gevangenisstraf van vijftien dagen en een gel
 
 ### ART. 6.2.2.
 
-<p>De hierna volgende handelingen en omissies worden stedenbouwkundige inbreuken genoemd, en worden bestraft met een exclusieve bestuurlijke geldboete van maximaal 50.000 euro :<br>
+<p>De hierna volgende handelingen en omissies worden stedenbouwkundige inbreuken genoemd, en worden bestraft met een exclusieve bestuurlijke geldboete van maximaal 400.000 euro :<br>
 1° de instandhouding van de illegale gevolgen van de misdrijven, vermeld in artikel 6.2.1, eerste lid, voor zover die gevolgen zich situeren in kwetsbaar gebied;<br>
 2° het schenden van de verplichtingen, vermeld in artikel 6.3.6, § 2, tweede en vierde lid, en artikel 6.4.9, § 2, tweede en vierde lid;<br>
 3° het uitvoeren&nbsp;van de handelingen, vermeld in artikel 4.2.2 en 4.2.5, eerste lid, 3°, die voorafgaan aan de betekening van de meldingsakte, vermeld in artikel&nbsp;6, tweede lid&nbsp;van het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
@@ -3499,7 +3499,7 @@ De inbreuken, vermeld in artikel 6.2.2, kunnen worden bestraft met een exclusiev
 
 § 1. De bestuurlijke geldboete is een sanctie waarbij de gewestelijke&nbsp;entiteit een overtreder ertoe verplicht een geldsom te betalen.<br>
 <br>
-De bestuurlijke geldboete wordt vermeerderd met de opdeciemen die van toepassing zijn voor de strafrechtelijke geldboeten. Ze wordt afgestemd op de ernst van het stedenbouwkundige misdrijf of de stedenbouwkundige inbreuk. Er wordt ook rekening gehouden met de frequentie en de omstandigheden waarin de overtreder stedenbouwkundige inbreuken of misdrijven heeft gepleegd of beëindigd.<br>
+Ze wordt afgestemd op de ernst van het stedenbouwkundige misdrijf of de stedenbouwkundige inbreuk. Er wordt ook rekening gehouden met de frequentie en de omstandigheden waarin de overtreder stedenbouwkundige inbreuken of misdrijven heeft gepleegd of beëindigd.<br>
 <br>
 § 2. Op vraag van de overtreder, kan de bestuurlijke geldboete worden opgelegd met uitstel van tenuitvoerlegging gedurende een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen.<br>
 <br>
@@ -3576,7 +3576,7 @@ Een beslissing houdende strafrechtelijke behandeling sluit het opleggen van een 
 <br>
 Een beslissing houdende geen strafrechtelijke behandeling van het stedenbouwkundige misdrijf houdt het verval van de strafvordering met betrekking tot dit misdrijf in, maar laat de strafvordering met betrekking tot andere feiten onverminderd bestaan, zelfs in geval van eenheid van opzet.<br>
 <br>
-§ 4. Een alternatieve bestuurlijke geldboete kan worden opgelegd aan alle overtreders. Ze bedraagt maximaal 250.000 euro.<br>
+§ 4. Een alternatieve bestuurlijke geldboete kan worden opgelegd aan alle overtreders. Ze bedraagt maximaal 2.000.000 euro.<br>
 <br>
 De bestuurlijke geldboete wordt opgelegd en ingevorderd conform artikel 6.2.11 en 6.2.12 met dien verstande dat de termijn waarbinnen de vermoedelijke overtreder op de hoogte moet worden gebracht van het voornemen om een bestuurlijke geldboete op te leggen, dertig dagen bedraagt en pas aanvangt na ontvangst van de beslissing, vermeld in paragraaf 3. De termijn waarbinnen moet worden beslist over het opleggen van een alternatieve bestuurlijke geldboete, bedraagt honderdtachtig dagen.<br>
 <br>
