@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029477,
+  "title": "Ministerieel besluit van 2017-05-31 tot goedkeuring van de beslissing van de bestuurscommissie van de Koninklijke Academie voor Geneeskunde van België van 7 april 2017 over de vaststelling van een aantal regels met betrekking tot de financiële rapportering over het patrimonium van de Koninklijke Academie voor Geneeskunde van België",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029477/VolledigDocument?datum=2018-07-12",
+  "source_sha256": "60bf72fcaf8519c2ad2524aa5f8b32d3ae20674d47ade12009815ab07f89f380",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029477&param=informatie",
+  "as_of": "2018-07-12",
+  "made": "2017-05-31",
+  "gazette": "2018-07-02",
+  "numac": 2018012916,
+  "document_start": "2018-07-12",
+  "document_end": null,
+  "in_force": "2018-07-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
