@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029520,
+  "title": "Decreet van 2018-06-22 houdende instemming met het samenwerkingsakkoord van 29 december 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verhoging van de inkomensgrensbedragen en de vrijstelling van de inkomsten uit een winstgevende activiteit uitgeoefend in het kader van een studentenovereenkomst voor studenten die een alternerende opleiding volgen en die door een leerovereenkomst verbonden zijn",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029520/VolledigDocument?datum=2018-07-12",
+  "source_sha256": "57490f791b7e6f5d4954c69b480364203635d63e5822b53cae3d16f55a1eaab0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029520&param=informatie",
+  "as_of": "2018-07-12",
+  "made": "2018-06-22",
+  "gazette": "2018-07-12",
+  "numac": 2018031411,
+  "document_start": "2018-07-12",
+  "document_end": null,
+  "in_force": "2018-07-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
