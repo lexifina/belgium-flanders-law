@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029523,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 tot wijziging van het besluit van de Vlaamse regering van 13 juli 1988 tot uitvoering van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029523/VolledigDocument?datum=2018-07-13",
+  "source_sha256": "24bafb6fcd36bd194a1819630655cec61f5f8f41500be364a08c9937205e83ce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029523&param=informatie",
+  "as_of": "2018-07-13",
+  "made": "2018-06-08",
+  "gazette": "2018-07-12",
+  "numac": 2018040233,
+  "document_start": "2018-07-13",
+  "document_end": null,
+  "in_force": "2018-07-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
