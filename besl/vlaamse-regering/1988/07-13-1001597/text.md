@@ -120,6 +120,7 @@ a) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de Vlaamse Raad voor reclame en sponsoring op radio en televisie;<br>
 - N.V. Reproductiefonds Vlaamse Musea;<br>
 - het Vlaams Audiovisueel Fonds vzw;<br>
+- Vlaams Fonds voor de Letteren, afgekort VFL;<br>
 b) ressorterend onder de Minister die de buitenlandse handel onder zijn bevoegdheid heeft:<br>
 - de Vlaamse Dienst voor de Buitenlandse Handel;<br>
 c) ressorterend onder de Vlaamse minister van Onderwijs:<br>
@@ -136,7 +137,6 @@ b) ressorterend onder de Vlaamse minister van Welzijn, Gezin en Volksgezondheid:
 c) ressorterend onder de Vlaamse minister van Cultuur:<br>
 - de Nederlandse Radio- en Televisieuitzendingen in België, Omroep van de Vlaamse Gemeenschap (afgekort: BRTN");<br>
 - de Vlaamse Opera, afgekort VLOPERA;<br>
-- het Vlaams Fonds voor de Letteren, afgekort VFL;<br>
 d) ressorterend onder de Vlaamse Minister van Leefmilieu, Landinrichting en K.M.O.-beleid:<br>
 - de Vlaamse Maatschappij voor Watervoorziening;<br>
 - de Vlaamse Waterzuiveringsmaatschappij;<br>
