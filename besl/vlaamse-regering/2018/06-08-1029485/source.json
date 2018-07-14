@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029485,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 houdende indeling bij de gemeentewegen van de gewestweg N226 Wezembeeklaan tussen kilometerpunt 5.650 en 6.067 op het grondgebied van de gemeente Wezembeek-Oppem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029485/VolledigDocument?datum=2018-07-14",
+  "source_sha256": "51ac671743566fda5ca54462075145642053152c6da498855aee6a77aa87ef0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029485&param=informatie",
+  "as_of": "2018-07-14",
+  "made": "2018-06-08",
+  "gazette": "2018-07-04",
+  "numac": 2018040179,
+  "document_start": "2018-07-14",
+  "document_end": null,
+  "in_force": "2018-07-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
