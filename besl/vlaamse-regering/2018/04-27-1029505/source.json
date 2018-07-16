@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029505,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie verkeerskundige",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029505/VolledigDocument?datum=2018-07-16",
+  "source_sha256": "ef461668fbf31e11dcc20e59df046cba2dd76020717a729d743d9fd38a099334",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029505&param=informatie",
+  "as_of": "2018-07-16",
+  "made": "2018-04-27",
+  "gazette": "2018-07-06",
+  "numac": 2018012915,
+  "document_start": "2018-07-16",
+  "document_end": null,
+  "in_force": "2018-07-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
