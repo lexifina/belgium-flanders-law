@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029502,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-27 tot erkenning van de beroepskwalificatie sommelier",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029502/VolledigDocument?datum=2018-07-16",
+  "source_sha256": "b6083de58fe814f660f5df8d4904b72283217cd53d681b050c9c0c19f3fec413",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029502&param=informatie",
+  "as_of": "2018-07-16",
+  "made": "2018-04-27",
+  "gazette": "2018-07-06",
+  "numac": 2018012912,
+  "document_start": "2018-07-16",
+  "document_end": null,
+  "in_force": "2018-07-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
