@@ -1420,7 +1420,7 @@ Vanaf het academiejaar wanneer de nieuwe opleiding aangeboden wordt, kan het ins
 
 <p style="margin-right: 0cm; margin-left: 0cm;">§1. Een in artikel II.152, eerste lid bedoeld besluit van de Vlaamse Regering komt tot stand overeenkomstig de procedure die in dit artikel chronologisch wordt omschreven.<br>
 <br>
-De regelen bepaald in&nbsp;paragraaf 2, 3, 3/1, 4, 5 en 6, eerste lid zijn niet van toepassing op de geregistreerde instellingen. Zij dienen onmiddellijk een dossier in bij de accreditatieorganisatie, rekening houdend met het bepaalde in paragraaf 6, derde lid. Dit geldt ook voor de ambtshalve geregistreerde instellingen die in overeenstemming met artikel II.103 een nieuwe opleiding buiten het Belgische grondgebied willen starten.<br>
+De regelen bepaald in&nbsp;paragraaf 2, 3, 3/1, 4, 5 en 6, eerste lid zijn niet van toepassing op de geregistreerde instellingen. Zij dienen onmiddellijk een dossier in bij de accreditatieorganisatie, rekening houdend met het bepaalde in paragraaf 6, derde lid. Dit geldt ook voor de ambtshalve geregistreerde instellingen die in overeenstemming met artikel II.103 een nieuwe opleiding buiten het Belgische grondgebied willen starten. Dat geldt ook voor de educatieve graduaatsopleidingen, vermeld in artikel II.112, en de educatieve masteropleidingen, vermeld in artikel II.114, die met ingang van het academiejaar 2019-2020 aangeboden worden door de hogescholen en universiteiten. De hogescholen en universiteiten dienen hun dossier bij de accreditatieorganisatie in uiterlijk vóór 15 oktober van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden. De Vlaamse Regering kan het gehanteerde toetsingskader, vermeld in paragraaf 7, voor deze opleidingen aanpassen.<br>
 <br>
 De Vlaamse Regering kan het nadere verloop van de in dit artikel omschreven procedure uitwerken.<br>
 <br>
@@ -1490,6 +1490,14 @@ De ordetermijn van 4 maanden, vermeld in het eerste lid, wordt verlengd tot 6 ma
 De ordetermijn van 4 maanden, vermeld in het eerste lid, wordt ingeval van intrekking van een aanvraag toets nieuwe opleiding geschorst vanaf de intrekking van de aanvraag tot en met de datum van de betekening van de herindiening ervan.<br>
 <br>
 §8. De Vlaamse Regering neemt het besluit houdende erkenning van een nieuwe opleiding binnen een ordetermijn van 30 kalenderdagen, die ingaat de dag na deze van ontvangst van het toetsingsrapport van de accreditatieorganisatie. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling. De nieuwe opleiding wordt geacht geaccrediteerd te zijn tot en met het einde van het tweede academiejaar volgend op het einde van het academiejaar waarin voor de eerste maal de voor de nieuwe opleiding bepaalde studieomvang geheel doorlopen werd.<br>
+<br>
+In afwijking van het eerste lid, vervalt een positief besluit over de aanvraag van een graduaatsopleiding van het hoger beroepsonderwijs op het einde van het vijfde academiejaar dat volgt op de dag van de start van de opleiding in kwestie.<br>
+<br>
+Een positief besluit over de aanvraag van een graduaatsopleiding van het hoger beroepsonderwijs vervalt automatisch als het instellingsbestuur de opleiding niet start in het derde academiejaar dat volgt op de bekendmaking aan het instellingsbestuur. Voor de besluiten die zijn bekendgemaakt tijdens het academiejaar 2017-2018, start de voormelde periode van drie jaar in het academiejaar 2019-2020.<br>
+<br>
+De Vlaamse Regering kan op basis van een advies van de accreditatieorganisatie de geldigheidsduur van een positief besluit over de aanvraag van een opleiding verlengen ter vrijwaring van de gelijktijdige en geclusterde organisatie van externe beoordelingen. De totale duur van de erkenning als nieuwe opleiding kan nooit meer dan acht academiejaren zijn.<br>
+<br>
+In afwijking van het tweede lid bedraagt de geldigheidsduur van de positieve besluiten over de aanvragen van de opleidingen van het hoger beroepsonderwijs die zijn verleend tijdens het academiejaar 2014-2015, zes jaar vanaf het academiejaar dat volgt op de bekendmaking aan het instellingsbestuur.<br>
 <br>
 § 9. Aanvragen voor nieuwe opleidingen ingediend voor 1 maart 2017 bij de Commissie Hoger Onderwijs worden erkend volgens de vereisten van artikels II.152 en II.153 zoals van toepassing voor 1 januari 2018.</p>
 
