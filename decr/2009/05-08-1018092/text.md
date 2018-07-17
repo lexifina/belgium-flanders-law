@@ -1275,7 +1275,7 @@ Voor relevante technologieën en projecten die buiten de vastgestelde representa
 3° de brandstofkosten;<br>
 4° de elektriciteitsprijs.<br>
 <br>
-In afwijking van het eerste lid, 1°, wordt voor installaties voor de productie van groene stroom met startdatum voor 1 januari 2013 ook rekening gehouden met het nog niet afgeschreven gedeelte van de oorspronkelijke investeringskosten of van latere extra investeringen, voor zover die voldoen aan de voorwaarden, vermeld in artikel 7.1.1, § 1, vierde lid.<br>
+In afwijking van het eerste lid, 1°, wordt voor installaties voor de productie van groene stroom met startdatum voor 1 januari 2013 ook rekening gehouden met het nog niet afgeschreven gedeelte van de oorspronkelijke investeringskosten of van latere extra investeringen, voor zover die voldoen aan de voorwaarden, vermeld in artikel 7.1.1, § 1, vierde lid. Tenzij anders door de Vlaamse Regering bepaald, wordt dit wat betreft het nog niet afgeschreven gedeelte van de oorspronkelijke investeringskosten berekend aan de hand van het oorspronkelijke afschrijvingsritme dat gehanteerd werd bij de indienstname van de betrokken installatie.<br>
 <br>
 Voor lopende projecten voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top tijdens de afschrijvingsperiode bedoeld in artikel 7.1.1, § 2 of § 3, of in artikel 7.1.2, § 2 of § 3, niet geactualiseerd wanneer in de methodiek voor een projectcategorie brandstofkosten, vermeld in het eerste lid, 3°, van toepassing zijn. Voor alle andere lopende projecten voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top enkel geactualiseerd afhankelijk van de elektriciteitsprijs.<br>
 <br>
