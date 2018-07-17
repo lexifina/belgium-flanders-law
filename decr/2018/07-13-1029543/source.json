@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029543,
+  "title": "Decreet van 2018-07-13 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de vastlegging van het afschrijvingsritme voor investeringen bij een aanvraag tot verlenging van groenestroomcertificaten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029543/VolledigDocument?datum=2018-07-17",
+  "source_sha256": "285fb41cec035c452cbfd315ab09bbe06f1b6d1004448321545f8b61e5e1b6fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029543&param=informatie",
+  "as_of": "2018-07-17",
+  "made": "2018-07-13",
+  "gazette": "2018-07-17",
+  "numac": 2018040328,
+  "document_start": "2018-07-17",
+  "document_end": null,
+  "in_force": "2018-07-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
