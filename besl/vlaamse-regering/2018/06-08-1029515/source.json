@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029515,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 houdende indeling bij de gemeentewegen van de gewestweg N34-Elisabetlaan (lengte: 120,40 meter + 187,24 meter), N34-ventwegen Nicolas Mengélaan (156,36 meter) en Graaf d'Ursellaan (462,83 meter) op het grondgebied van de gemeente Knokke-Heist",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029515/VolledigDocument?datum=2018-07-20",
+  "source_sha256": "e814155cd169b553b48a647fb16c1cb5a015aa9d08b40bb222065867e5e795cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029515&param=informatie",
+  "as_of": "2018-07-20",
+  "made": "2018-06-08",
+  "gazette": "2018-07-10",
+  "numac": 2018040234,
+  "document_start": "2018-07-20",
+  "document_end": null,
+  "in_force": "2018-07-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
