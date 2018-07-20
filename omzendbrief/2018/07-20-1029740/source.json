@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029740,
+  "title": "Omzendbrief van 2018-07-20 KB/ABB 2018/2 Omzendbrief betreffende de budgetten en de éénjarige meerjarenplannen 2019",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029740/VolledigDocument?datum=2018-07-20",
+  "source_sha256": "c30cbf8529f4fb37ec7ce58511c69f858cb853a681af6081450474100557addf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029740&param=informatie",
+  "as_of": "2018-07-20",
+  "made": "2018-07-20",
+  "gazette": "2018-09-18",
+  "numac": 2018031790,
+  "document_start": "2018-07-20",
+  "document_end": null,
+  "in_force": "2018-07-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
