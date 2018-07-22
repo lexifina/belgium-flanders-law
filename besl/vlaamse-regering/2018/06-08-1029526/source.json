@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029526,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 houdende indeling bij de gemeentewegen van de gewestwegen N32-Noordzandstraat, 't Zand, Smedenstraat (tussen kilometerpunt 0,496 en 0,857), R30-'t Zand (tussen kilometerpunt 0,146 en 0,442), R30-Vrijdagmarkt, Koning Albert I-laan (tussen kilometerpunt 0,000 en 0,252) op het grondgebied van de stad Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029526/VolledigDocument?datum=2018-07-22",
+  "source_sha256": "a5027a52f7697305b144411e5e66e9d211d1babd7d91bf8f06bc096766531bfd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029526&param=informatie",
+  "as_of": "2018-07-22",
+  "made": "2018-06-08",
+  "gazette": "2018-07-12",
+  "numac": 2018040238,
+  "document_start": "2018-07-22",
+  "document_end": null,
+  "in_force": "2018-07-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
