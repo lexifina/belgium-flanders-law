@@ -5,7 +5,8 @@ Het Bestuurscomité van het UZ Gent is samengesteld als volgt:
 3° drie leden, verkozen door de raad van bestuur van de Universiteit Gent, uit zijn midden;
 4° twee leden, verkozen door de hoofdgeneesheer en door de geneesheren-diensthoofden, uit hun midden;
 5° twee leden, verkozen door de geneesheren die geen diensthoofd zijn en minimaal een halftijdse opdracht vervullen, uit hun midden;
-6° maximaal drie externe leden, met bijzondere deskundigheid in ziekenhuismanagement, aangewezen door de overige leden van het Bestuurscomité van het UZ Gent.
+6° maximaal drie externe leden, met bijzondere deskundigheid in ziekenhuismanagement, aangewezen door de overige leden van het Bestuurscomité van het UZ Gent;
+7° de voorzitter van de Academische Coördinatieraad.
 Bij onbeschikbaarheid van de rector wordt hij of zij door de vicerector van de Universiteit Gent vervangen. In dat geval wordt het voorzitterschap waargenomen door de decaan van de faculteit Geneeskunde.
 De gedelegeerd bestuurder maakt als gevolg van zijn of haar aanwijzing tot gedelegeerd bestuurder van rechtswege deel uit van het Bestuurscomité van het UZ Gent. De hoofdgeneesheer van het UZ Gent zit met raadgevende stem in het Bestuurscomité.
 Eén beheerder van de Universiteit Gent zetelt met raadgevende stem in het Bestuurscomité van het UZ Gent.
