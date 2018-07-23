@@ -2,16 +2,16 @@
   "codex_id": 1017476,
   "title": "Decreet van 2008-11-28 [betreffende de interlokale onderwijsvereniging (ILOV)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017476/VolledigDocument?datum=2009-01-26",
-  "source_sha256": "6819cf4850b798efae16f1c6ea216c522727168f7655406f408498d76e34d7a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017476/VolledigDocument?datum=2018-07-23",
+  "source_sha256": "9ae0ffd95998153dc0c596a3b1e3f061b7a6f60ffaf68dcd7e60e05f53a86d81",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017476&param=informatie",
-  "as_of": "2009-01-26",
+  "as_of": "2018-07-23",
   "made": "2008-11-28",
   "gazette": "2009-01-16",
   "numac": 2008204745,
   "document_start": "2009-01-26",
   "document_end": null,
-  "in_force": "2009-01-26",
+  "in_force": "2018-07-23",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2009-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-07-23; future article versions excluded; article text as the API gives it"
 }
