@@ -109,6 +109,43 @@
 
 ## HOOFDSTUK 4 Omgevingsvergunning voor kleinhandelsactiviteiten
 
+### ART 11.
+
+<span style="color: rgb(0, 0, 0);">Niemand mag zonder voorafgaande omgevingsvergunning voor kleinhandelsactiviteiten :</span><br>
+<span style="color: rgb(0, 0, 0);">1° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een nieuw op te richten, niet van vergunning vrijgestelde constructie;</span><br>
+<span style="color: rgb(0, 0, 0);">2° kleinhandelsactiviteiten uitvoeren in een kleinhandelsbedrijf of handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2 in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies als de handelsactiviteiten uitgevoerd worden :</span><br>
+<span style="color: rgb(0, 0, 0);">a) gedurende meer dan honderdtachtig dagen per jaar in geval de handelsactiviteiten verenigbaar zijn met de geldende stedenbouwkundige voorschriften;</span><br>
+<span style="color: rgb(0, 0, 0);">b) gedurende meer dan negentig dagen per jaar in alle andere gevallen;</span><br>
+<span style="color: rgb(0, 0, 0);">op voorwaarde dat de kleinhandelsactiviteiten in overeenstemming zijn met de uitdrukkelijke voorwaarden van een omgevingsvergunning voor stedenbouwkundige handelingen;</span><br>
+<span style="color: rgb(0, 0, 0);">3° een kleinhandelsbedrijf of een handelsgeheel uitbreiden als hierdoor de totale netto handelsoppervlakte :</span><br>
+<span style="color: rgb(0, 0, 0);">a) meer dan 300 m|F2 groter is dan de vergunde netto handelsoppervlakte, of;</span><br>
+<span style="color: rgb(0, 0, 0);">b) meer dan 20 percent groter is dan de vergunde netto handelsoppervlakte;</span><br>
+<span style="color: rgb(0, 0, 0);">4° kleinhandelsbedrijven of handelsgehelen samenvoegen waarbij de netto handelsoppervlakte na samenvoeging meer dan 400 m|F2 bedraagt;</span><br>
+<span style="color: rgb(0, 0, 0);">5° een belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in artikel 3, doorvoeren in een kleinhandelsbedrijf of een handelsgeheel met een netto handelsoppervlakte van meer dan 400 m|F2.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">Onder belangrijke wijziging van de categorieën van kleinhandelsactiviteiten, vermeld in het eerste lid, 5°, wordt begrepen een wijziging waarbij een categorie van kleinhandelsactiviteiten het vergunde aantal vierkante meter netto handels|Upoppervlakte overschrijdt met minstens een van volgende oppervlakten :</span><br>
+<span style="color: rgb(0, 0, 0);">1° met 10 procent van de totale vergunde netto handelsoppervlakte;</span><br>
+<span style="color: rgb(0, 0, 0);">2° met 300 vierkante meter.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">De vergunning legt het aantal vierkante meter van de totale netto handelsoppervlakte per categorie van kleinhandelsactiviteiten vast.</span><br>
+&nbsp;
+
+### ART 12.
+
+<span style="color: rgb(0, 0, 0);">De vergunning wordt verleend overeenkomstig de gewone en vereenvoudigde procedure, vermeld in het decreet van 25 april 2014 betreffende de omgevingsvergunning.</span><br>
+&nbsp;
+
+### ART 13.
+
+<span style="color: rgb(0, 0, 0);">Een omgevingsvergunning voor kleinhandelsactiviteiten wordt geweigerd als het aangevraagde onverenigbaar is met stedenbouwkundige voorschriften of verkavelingsvoorschriften, voor zover daarvan niet op geldige wijze is afgeweken.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">Een omgevingsvergunning voor kleinhandelsactiviteiten kan worden geweigerd als het aangevraagde onverenigbaar is met de doelstellingen van het integraal handelsvestigingsbeleid, vermeld in artikel 4.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">De overheid die belast is met het afleveren van de omgevingsvergunning voor kleinhandelsactiviteiten houdt bij de beoordeling van de vergunningsaanvraag rekening met de in de omgeving bestaande toestand en beleidsmatig gewenste ontwikkelingen met betrekking tot de doelstellingen van het integraal handelsvestigingsbeleid, vermeld in artikel 4.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">De beoordeling van een aanvraag tot het bekomen van een omgevingsvergunning voor kleinhandelsactiviteiten kan niet gebeuren op basis van de toepassing per geval van economische criteria waarbij de verlening van de vergunning afhankelijk wordt gesteld van het bewijs dat er een economische behoefte of marktvraag bestaat, van een beoordeling van de mogelijke of actuele economische gevolgen van de activiteit of van een beoordeling van de geschiktheid van de activiteit in relatie tot de door de bevoegde instantie vastgestelde doelen van economische planning; dit verbod heeft geen betrekking op planningseisen waarmee geen economische doelstelling wordt nagestreefd, maar die voortkomen uit dwingende redenen van algemeen belang.</span><br>
+&nbsp;
+
 ## HOOFDSTUK 5 Handelsvestigingsconvenanten
 
 ### ART 14.
@@ -174,11 +211,157 @@
 <span style="color: rgb(0, 0, 0);">"Het college van burgemeester en schepenen onderwerpt het ontwerp van gemeentelijke stedenbouwkundige verordening aan een openbaar onderzoek. Het openbaar onderzoek duurt dertig dagen en wordt minstens aangekondigd door een bericht in het Belgisch Staatsblad. De Vlaamse Regering stelt nadere regels voor het openbaar onderzoek vast.".</span><br>
 &nbsp;
 
+### ART 32.
+
+<span style="color: rgb(0, 0, 0);">In artikel 5.6.7 van dezelfde codex, vervangen bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° in paragraaf 1, eerste lid, worden tussen de woorden "van een ingedeelde inrichting of activiteit" en de woorden "kan gunstig geadviseerd worden" de woorden "of voor kleinhandelsactiviteiten" ingevoegd;</span><br>
+<span style="color: rgb(0, 0, 0);">2° in paragraaf 2 worden tussen de woorden "een ingedeelde inrichting of activiteit" en de woorden "kan ongunstig geadviseerd" de woorden "of voor kleinhandelsactiviteiten" ingevoegd.</span><br>
+&nbsp;
+
 ## Afdeling 3 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechts|Upcolleges
+
+### ART 33.
+
+In artikel 21 van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtcolleges wordt paragraaf 2 vervangen door wat volgt :<br>
+" § 2. De leidend ambtenaar van het Departement Omgeving of het Agentschap Innoveren en Ondernemen, of bij hun afwezigheid hun gemachtigden die optreden met toepassing van artikel 105, § 2, respectievelijk 5° tot en met 7°, van het -decreet van 25 april 2014 betreffende de omgevingsvergunning, zijn vrijgesteld van de betaling van enig rolrecht.".
 
 ## Afdeling 4 Wijzigingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 34.
+
+<span style="color: rgb(0, 0, 0);">In artikel 2 van het decreet van 25 april 2014 betreffende de omgevingsvergunning worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° in het eerste lid wordt punt 8° vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"8° project : het geheel van volgende elementen of minstens één ervan die onderworpen zijn aan de vergunnings- of meldingsplicht, vermeld in artikel 5 :</span><br>
+<span style="color: rgb(0, 0, 0);">a) stedenbouwkundige handelingen;</span><br>
+<span style="color: rgb(0, 0, 0);">b) de exploitatie van ingedeelde inrichtingen of activiteiten;</span><br>
+<span style="color: rgb(0, 0, 0);">c) kleinhandelsactiviteiten;</span><br>
+<span style="color: rgb(0, 0, 0);">dan wel het verkavelen van gronden;";</span><br>
+<span style="color: rgb(0, 0, 0);">2° het tweede lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Tenzij bij dit decreet een andersluidende definitie is bepaald, zijn de volgende definities van toepassing in dit decreet :</span><br>
+<span style="color: rgb(0, 0, 0);">1° de definities, vermeld in artikel 1.1.2 en 4.1.1 van de VCRO;</span><br>
+<span style="color: rgb(0, 0, 0);">2° de definities, vermeld in artikel 5.1.1 en 5.1.2 van het DABM;</span><br>
+<span style="color: rgb(0, 0, 0);">3° de definities, vermeld in artikel 2 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid.".</span><br>
+&nbsp;
+
+### ART 35.
+
+<span style="color: rgb(0, 0, 0);">In artikel 3 van hetzelfde decreet worden het eerste en het tweede lid vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Dit decreet beoogt een efficiënte, doelgerichte en geïntegreerde vergunningverlening die bijdraagt tot de doelstellingen, vermeld in :</span><br>
+<span style="color: rgb(0, 0, 0);">1° artikel 1.1.4 van de VCRO;</span><br>
+<span style="color: rgb(0, 0, 0);">2° artikel 5.1.3 van het DABM;</span><br>
+<span style="color: rgb(0, 0, 0);">3° artikel 4 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0);">Dit decreet doet geen afbreuk aan de inhoudelijke verplichtingen die zijn vastgesteld bij of krachtens :</span><br>
+<span style="color: rgb(0, 0, 0);">1° titel IV van de VCRO;</span><br>
+<span style="color: rgb(0, 0, 0);">2° titel V van het DABM;</span><br>
+<span style="color: rgb(0, 0, 0);">3° het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid.".</span><br>
+&nbsp;
+
+### ART 36.
+
+<span style="color: rgb(0, 0, 0);">Aan artikel 5, 1°, van hetzelfde decreet wordt een punt d) toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"d) vergunningsplichtige kleinhandelsactiviteiten als vermeld in artikel 11 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;".</span><br>
+&nbsp;
+
+### ART 37.
+
+<span style="color: rgb(0, 0, 0);">In artikel 18 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.".</span>
+
+### ART 38.
+
+<span style="color: rgb(0, 0, 0);">In hetzelfde decreet, gewijzigd door het decreet van 18 december 2015, wordt een artikel 27/1 ingevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Art. 27/1. Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen op een afstand van minder dan twintig kilometer van een ander gewest of van verschillende andere gewesten, en het college van burgemeester en schepenen of de deputatie de bevoegde overheid is, dan brengt de gemeentelijke of provinciale omgevingsambtenaar de Vlaamse Regering hiervan met een beveiligde zending op de hoogte, met het oog op de vervulling van de verplichtingen, opgenomen in artikel 6, § 5bis, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.".</span><br>
+&nbsp;
+
+### ART 39.
+
+<span style="color: rgb(0, 0, 0);">In artikel 29 van hetzelfde decreet worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° tussen de woorden "de aanvraag" en de woorden "aan de beoordelingsgronden" wordt de zinsnede ", in voorkomend geval," ingevoegd;</span><br>
+<span style="color: rgb(0, 0, 0);">2° de woorden "vermeld in titel IV van de VCRO en titel V van het DABM" worden vervangen door de zinsnede "bepaald bij of krachtens :</span><br>
+<span style="color: rgb(0, 0, 0);">1° titel IV van de VCRO;</span><br>
+<span style="color: rgb(0, 0, 0);">2° titel V van het DABM;</span><br>
+<span style="color: rgb(0, 0, 0);">3° het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid".</span><br>
+&nbsp;
+
+### ART 40.
+
+<span style="color: rgb(0, 0, 0);">In artikel 37 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.".</span>
+
+### ART 41.
+
+In hetzelfde decreet, gewijzigd door het decreet van 18 december 2015, wordt een artikel 43/1 ingevoegd, dat luidt als volgt :<br>
+"Art. 43/1. Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen op een afstand van minder dan twintig kilometer van een ander gewest of van verschillende andere gewesten, en het college van burgemeester en schepenen of de deputatie de bevoegde overheid is, dan brengt de gemeentelijke of provinciale omgevingsambtenaar de Vlaamse Regering hiervan met een beveiligde zending op de hoogte, met het oog op de vervulling van de verplichtingen, opgenomen in artikel 6, § 5bis, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.".<br>
+&nbsp;
+
+### ART 42.
+
+<span style="color: rgb(0, 0, 0);">In artikel 44 van hetzelfde decreet worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° tussen de woorden "de aanvraag" en de woorden "aan de beoordelingsgronden" wordt de zinsnede ", in voorkomend geval," ingevoegd;</span><br>
+<span style="color: rgb(0, 0, 0);">2° de woorden "vermeld in titel IV van de VCRO en titel V van het DABM" worden vervangen door de zinsnede "bepaald bij of krachtens :</span><br>
+<span style="color: rgb(0, 0, 0);">1° titel IV van de VCRO;</span><br>
+<span style="color: rgb(0, 0, 0);">2° titel V van het DABM;</span><br>
+<span style="color: rgb(0, 0, 0);">3° het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid".</span><br>
+&nbsp;
+
+### ART 43.
+
+<span style="color: rgb(0, 0, 0);">Aan artikel 53 van hetzelfde decreet wordt een punt 7° toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"7° de leidend ambtenaar van het Agentschap Innoveren en Ondernemen of bij zijn afwezigheid zijn gemachtigde, als het project vergunningsplichtige kleinhandelsactiviteiten omvat.".</span><br>
+&nbsp;
+
+### ART 44.
+
+<span style="color: rgb(0, 0, 0);">Aan hetzelfde decreet wordt een artikel 57/1 toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Art. 57/1. Beroepen inzake omgevingsvergunningen die uitsluitend kleinhandelsactiviteiten omvatten en die louter gebaseerd zijn op economische criteria in functie van economische doelstellingen, zijn onontvankelijk.".</span><br>
+&nbsp;
+
+### ART 45.
+
+<span style="color: rgb(0, 0, 0);">Aan artikel 68, tweede lid, van hetzelfde decreet wordt een punt 10° toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"10° voor projecten die kleinhandelsactiviteiten omvatten en voor niet langer dan 12 maanden vergund worden in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies.".</span><br>
+&nbsp;
+
+### ART 46.
+
+<span style="color: rgb(0, 0, 0);">Aan hetzelfde decreet wordt een artikel 73/1 toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Art. 73/1. De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van kleinhandelsactiviteiten.".</span><br>
+&nbsp;
+
+### ART 47.
+
+<span style="color: rgb(0, 0, 0);">Het opschrift van afdeling 1 van hoofdstuk 8 van hetzelfde decreet wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Afdeling 1. Verval van de omgevingsvergunning voor de uitvoering van stedenbouwkundige handelingen, de exploitatie van een ingedeelde inrichting of activiteit of de uitvoering van kleinhandelsactiviteiten".</span><br>
+&nbsp;
+
+### ART 48.
+
+<span style="color: rgb(0, 0, 0);">In artikel 99 van hetzelfde decreet worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° aan paragraaf 1, eerste lid, wordt een punt 5° toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"5° als de kleinhandelsactiviteiten niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangen.";</span><br>
+<span style="color: rgb(0, 0, 0);">2° tussen paragraaf 2 en paragraaf 3 wordt een paragraaf 2/1 ingevoegd, die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">" § 2/1. De omgevingsvergunning voor het uitvoeren van kleinhandelsactiviteiten vervalt van rechtswege als de kleinhandelsactiviteiten meer dan vijf opeenvolgende jaren worden onderbroken.".</span><br>
+&nbsp;
+
+### ART 49.
+
+<span style="color: rgb(0, 0, 0);">Aan artikel 105, § 2, eerste lid, van hetzelfde decreet wordt een punt 7° toegevoegd, dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"7° de leidend ambtenaar van het Agentschap Innoveren en Ondernemen of bij zijn afwezigheid zijn gemachtigde, als het project vergunningsplichtige kleinhandelsactiviteiten omvat.".</span><br>
+&nbsp;
+
+### ART 50.
+
+<span style="color: rgb(0, 0, 0);">Artikel 106 van hetzelfde decreet wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0);">"Art. 106. Een melding kan slechts gedaan worden voor meldingsplichtige stedenbouwkundige handelingen, een meldingsplichtige exploitatie van ingedeelde inrichtingen of activiteiten die het project omvat of een combinatie hiervan.".</span><br>
+&nbsp;
+
 ## HOOFDSTUK 8 Opheffingsbepaling
+
+### ART 51.
+
+De wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen, gewijzigd bij de wetten van 27 december 2005, 22 december 2009 en 29 maart 2012, wordt opgeheven.<br>
+&nbsp;
 
 ## HOOFDSTUK 9 Slotbepalingen
 
