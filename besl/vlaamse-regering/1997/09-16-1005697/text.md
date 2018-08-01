@@ -16,7 +16,15 @@ Dit besluit is van toepassing op het gewoon en buitengewoon voltijds secundair o
 
 ### ART. 3.
 
-Uiterlijk vijftien kalenderdagen vóór de aanvang van elk schooljaar herinnert het Agentschap voor Onderwijsdiensten via de geschreven pers of via de audiovisuele media alle ouders aan de leerplicht.<br /><br />De ouders worden hierbij gewezen op:<br />1° het bestaan van de leerplicht voor hun kinderen en hun verantwoordelijkheid terzake;<br />2° hun vrijheid om voor hun kinderen te kiezen voor huisonderwijs of onderwijs in een instelling;<br />3° de formaliteiten die bij een keuze voor huisonderwijs vervuld moeten worden, onder meer de mededeling aan het Agentschap voor Onderwijsdiensten zoals bedoeld in artikel 10ter;<br />4° hun vrijheid om, bij de keuze van onderwijs in een instelling, zelf een instellingkeuze te maken;<br />5° hun verplichting om, bij de keuze voor onderwijs in een instelling, ervoor te zorgen dat hun leerplichtige kinderen als leerling van een instelling zijn ingeschreven en die instelling regelmatig bezoeken. Als de instelling waarin wordt ingeschreven een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is, dan komt daarbij ook hun verplichting ervoor te zorgen dat hun leerplichtige kinderen aan de voorwaarde van werkplekleren voldoen; <br />6° de wijze waarop zij vrijstelling van leerplicht kunnen verkrijgen voor hun gehandicapte kinderen.
+Uiterlijk vijftien kalenderdagen vóór de aanvang van elk schooljaar herinnert het Agentschap voor Onderwijsdiensten via de&nbsp;sociale media alle ouders aan de leerplicht.<br>
+<br>
+De ouders worden hierbij gewezen op:<br>
+1° het bestaan van de leerplicht voor hun kinderen en hun verantwoordelijkheid terzake;<br>
+2° hun vrijheid om voor hun kinderen te kiezen voor huisonderwijs of onderwijs in een instelling;<br>
+3° de formaliteiten die bij een keuze voor huisonderwijs vervuld moeten worden, onder meer de mededeling aan het Agentschap voor Onderwijsdiensten zoals bedoeld in artikel 10ter;<br>
+4° hun vrijheid om, bij de keuze van onderwijs in een instelling, zelf een instellingkeuze te maken;<br>
+5° hun verplichting om, bij de keuze voor onderwijs in een instelling, ervoor te zorgen dat hun leerplichtige kinderen als leerling van een instelling zijn ingeschreven en die instelling regelmatig bezoeken. Als de instelling waarin wordt ingeschreven een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen is, dan komt daarbij ook hun verplichting ervoor te zorgen dat hun leerplichtige kinderen aan de voorwaarde van werkplekleren voldoen;<br>
+6° de wijze waarop zij vrijstelling van leerplicht kunnen verkrijgen voor hun gehandicapte kinderen.
 
 ### ART. 4.
 
