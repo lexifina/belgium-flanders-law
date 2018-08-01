@@ -409,7 +409,15 @@ De aanvraag voor een toelage wordt door de aanvrager bij de&nbsp;afdeling   Stud
 
 ### ART. 53/1.
 
-Voor de leerling of student die het voorgaande school- of academiejaar in   aanmerking kwam voor een school- of studietoelage en waarvoor tijdens het   lopende school- of academiejaar geen aanvraag werd ingediend, zal de afdeling   Studietoelagen zelf het recht op een school- of studietoelage onderzoeken.   <BR><BR>De afdeling Studietoelagen bepaalt de datum waarop het onderzoek,   vermeld in het eerste lid, start. Het onderzoek kan ten vroegste op 1 september   en uiterlijk op 1 juni van het lopende school- of academiejaar   starten.<BR><BR>De afdeling Studietoelagen zal de start van het onderzoek melden   aan de wettelijke vertegenwoordiger van de leerling of de student.<BR><BR>In   afwijking van het eerste lid zal de afdeling Studietoelagen het onderzoek niet   starten indien de wettelijke vertegenwoordiger van de leerling of de student dit   weigert.
+Voor de leerling of student die het voorgaande school- of academiejaar in aanmerking kwam voor een school- of studietoelage en waarvoor tijdens het lopende school- of academiejaar geen aanvraag werd ingediend, zal de afdeling Studietoelagen zelf het recht op een school- of studietoelage onderzoeken.<br>
+<br>
+De afdeling Studietoelagen bepaalt de datum waarop het onderzoek, vermeld in het eerste lid, start. Het onderzoek kan ten vroegste op 1&nbsp;augustus en uiterlijk op 1 meii van het lopende school- of academiejaar starten.<br>
+<br>
+De afdeling Studietoelagen zal de start van het onderzoek melden aan de wettelijke vertegenwoordiger van de leerling of de student.<br>
+<br>
+In afwijking van het eerste lid zal de afdeling Studietoelagen het onderzoek niet starten indien de wettelijke vertegenwoordiger van de leerling of de student dit weigert.<br>
+<br>
+De wettelijke vertegenwoordiger van de leerling of de student reageert uiterlijk op 1 juni van het lopende schooljaar op de melding van de start van het onderzoek.
 
 ### ART. 53/2.
 
