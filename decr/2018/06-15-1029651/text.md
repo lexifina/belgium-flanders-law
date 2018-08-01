@@ -93,6 +93,18 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 16 juni 2017, wor
 
 ## HOOFDSTUK 7. Wijzigingen van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
 
+### ART 41.
+
+In artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 2012 en gewijzigd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het tweede lid wordt de datum "1 september" vervangen door de datum "1 augustus";<br>
+<br>
+2° in het tweede lid wordt de datum "1 juni" vervangen door de datum "1 mei";<br>
+<br>
+3° er wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De wettelijke vertegenwoordiger van de leerling of de student reageert uiterlijk op 1 juni van het lopende schooljaar op de melding van de start van het onderzoek.".
+
 ## HOOFDSTUK 8. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding
