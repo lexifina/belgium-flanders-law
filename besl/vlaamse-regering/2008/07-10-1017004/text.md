@@ -116,7 +116,7 @@ De gegevens worden bewaard zolang ze nodig zijn om de administratieve taken van 
 
 Elke gemeentelijke omgevingsambtenaar en elke gemeentelijke ambtenaar, bevoegd voor de opmaak van het register, is gemachtigd het register te consulteren of te actualiseren voor zijn gebied.<br>
 <br>
-Elke gewestelijke stedenbouwkundige&nbsp;ambtenaar, respectievelijk elke provinciale ambtenaar, bevoegd voor de ruimtelijke ordening of het grond- en pandenbeleid, is gemachtigd het register te consulteren voor zijn gebied.<br>
+Elke gewestelijke omgevingsambtenaar respectievelijk elke provinciale omgevingsambtenaar is gemachtigd het register te consulteren voor zijn gebied.<br>
 <br>
 De gewestelijke coördinator van het register is gemachtigd om het register te consulteren of te actualiseren.<br>
 <br>
