@@ -101,7 +101,8 @@ d) een gebied, aangewezen door het Waalse Gewest of het Brusselse Hoofdstedelijk
 68° soortenbeschermingsprogramma: een programma van soortenbehoudsmaatregelen dat met name gericht is op het verkrijgen van de gunstige staat van instandhouding van een inheemse soort of een groep van soorten in het gebied waarop het programma van toepassing is;<br>
 69° planversie: één van de opeenvolgende versies van een managementplan Natura 2000;<br>
 70° zoekzone: een zone die per Europees te beschermen soort en per Europees te beschermen habitat de perimeter aangeeft die gevrijwaard wordt met het oog op het optimaal plaatsen van de instandhoudingsdoelstellingen voor de betrokken speciale beschermingszone. De omvang van de zoekzone wordt bepaald door de oppervlakte die nodig is voor het realiseren van het openstaand saldo van de taakstelling voor de betrokken Europees te beschermen habitat of Europees te beschermen soort;<br>
-71° actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld wordt voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de betrokken speciale beschermingszone.</p>
+71° actiegebied: een gebied dat op basis van relevante milieueffecten vastgesteld wordt voor de realisatie van de taakstelling inzake de toestand van het natuurlijk milieu voor de betrokken speciale beschermingszone;<br>
+72° omgevingsvergunning voor het wijzigen van de vegetatie: de omgevingsvergunning voor het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan.</p>
 
 ## HOOFDSTUK II OFFICIËLE STRUCTUREN INZAKE NATUURBELEID
 
@@ -176,7 +177,29 @@ De Vlaamse regering kan nadere regels vaststellen inzake het opleggen van gebods
 
 ### ART. 9bis.
 
-§ 1. Voor de bescherming van de historisch permanente graslanden, vermeld   in artikel 9, § 1, derde lid, 3° bis, stelt de Vlaamse Regering, op basis van   een voorstel van het Instituut, een ontwerpkaart op basis van wetenschappelijke   criteria, voorlopig vast.<BR><BR>§ 2. De Vlaamse Regering kan de nadere regels   vastleggen inzake de te volgen procedures alsook inzake de samenstelling en de   werking van de verificatiecommissie.<BR><BR>§ 3. De Vlaamse Regering onderwerpt   de ontwerpkaart aan een openbaar onderzoek dat binnen 60 dagen na de voorlopige   vaststelling wordt aangekondigd door aanplakking in elke gemeente waarop het   ontwerpplan geheel of gedeeltelijk betrekking heeft, door een bericht in het   Belgisch Staatsblad en in ten minste drie dagbladen die in het gewest worden   verspreid.<BR><BR>Deze aankondiging vermeldt minstens:<BR>1° de gemeenten waarop   de ontwerpkaart betrekking heeft;<BR>2° waar de ontwerpkaart ter inzage   ligt;<BR>3° de begin- en einddatum van het openbaar onderzoek;<BR>4° het adres   waar de opmerkingen, vermeld in paragraaf 5, dienen toe te komen.<BR><BR>§ 4. Na   de aankondiging wordt de ontwerpkaart gedurende 60 dagen ter inzage gelegd in   het gemeentehuis van elke betrokken gemeente.<BR><BR>§ 5. De opmerkingen worden   uiterlijk de laatste dag van de termijn van het openbaar onderzoek aan het   Instituut toegezonden bij een ter post aangetekende brief of afgegeven tegen   ontvangstbewijs. De opmerkingen kunnen enkel betrekking hebben op het feit of   een voorlopig aangewezen historisch permanent grasland al dan niet voldoet aan   de wetenschappelijke criteria zoals vermeld in paragraaf 1.<BR><BR>§ 6. De   verificatiecommissie onderzoekt alle opmerkingen op de wetenschappelijke   correctheid en brengt binnen 90 dagen na het einde van het openbaar onderzoek   gemotiveerd advies uit bij de Vlaamse Regering.<BR><BR>§ 7. De Vlaamse Regering   stelt binnen 210 dagen na de begindatum van het openbaar onderzoek de kaart van   de historisch permanente graslanden definitief vast, en bepaalt voor welke   graslanden er een verbod op het wijzigen van de vegetatie of een vergunning voor   het wijzigen van de vegetatie van toepassing is.<BR><BR>Het besluit houdende   definitieve vaststelling van de kaart van de historisch permanente graslanden   wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt binnen 30 dagen na   de definitieve vaststelling.<BR><BR>De definitief vastgestelde kaart van de   historisch permanente graslanden treedt in werking 14 dagen na zijn   bekendmaking.
+§ 1. Voor de bescherming van de historisch permanente graslanden, vermeld in artikel 9, § 1, derde lid, 3° bis, stelt de Vlaamse Regering, op basis van een voorstel van het Instituut, een ontwerpkaart op basis van wetenschappelijke criteria, voorlopig vast.<br>
+<br>
+§ 2. De Vlaamse Regering kan de nadere regels vastleggen inzake de te volgen procedures alsook inzake de samenstelling en de werking van de verificatiecommissie.<br>
+<br>
+§ 3. De Vlaamse Regering onderwerpt de ontwerpkaart aan een openbaar onderzoek dat binnen 60 dagen na de voorlopige vaststelling wordt aangekondigd door aanplakking in elke gemeente waarop het ontwerpplan geheel of gedeeltelijk betrekking heeft, door een bericht in het Belgisch Staatsblad en in ten minste drie dagbladen die in het gewest worden verspreid.<br>
+<br>
+Deze aankondiging vermeldt minstens:<br>
+1° de gemeenten waarop de ontwerpkaart betrekking heeft;<br>
+2° waar de ontwerpkaart ter inzage ligt;<br>
+3° de begin- en einddatum van het openbaar onderzoek;<br>
+4° het adres waar de opmerkingen, vermeld in paragraaf 5, dienen toe te komen.<br>
+<br>
+§ 4. Na de aankondiging wordt de ontwerpkaart gedurende 60 dagen ter inzage gelegd in het gemeentehuis van elke betrokken gemeente.<br>
+<br>
+§ 5. De opmerkingen worden uiterlijk de laatste dag van de termijn van het openbaar onderzoek aan het Instituut toegezonden bij een ter post aangetekende brief of afgegeven tegen ontvangstbewijs. De opmerkingen kunnen enkel betrekking hebben op het feit of een voorlopig aangewezen historisch permanent grasland al dan niet voldoet aan de wetenschappelijke criteria zoals vermeld in paragraaf 1.<br>
+<br>
+§ 6. De verificatiecommissie onderzoekt alle opmerkingen op de wetenschappelijke correctheid en brengt binnen 90 dagen na het einde van het openbaar onderzoek gemotiveerd advies uit bij de Vlaamse Regering.<br>
+<br>
+§ 7. De Vlaamse Regering stelt binnen 210 dagen na de begindatum van het openbaar onderzoek de kaart van de historisch permanente graslanden definitief vast, en bepaalt voor welke graslanden er een verbod op het wijzigen van de vegetatie of&nbsp;een omgevingsvergunning voor het wijzigen van de vegetatie van toepassing is.<br>
+<br>
+Het besluit houdende definitieve vaststelling van de kaart van de historisch permanente graslanden wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt binnen 30 dagen na de definitieve vaststelling.<br>
+<br>
+De definitief vastgestelde kaart van de historisch permanente graslanden treedt in werking 14 dagen na zijn bekendmaking.
 
 ## AFDELING 2 HET NATUURRAPPORT
 
@@ -338,7 +361,7 @@ Het verbod, vermeld in het eerste lid, geldt niet voor gemotoriseerd verkeer dat
 3° het voorafgaand, schriftelijk melden of kennisgeven van bepaalde activiteiten aan een bij besluit aangewezen overheid, die binnen een bepaalde termijn de gevolgen van de voorgenomen activiteit beoordeelt;<br>
 4° het herstel in de oorspronkelijke toestand of in een door het besluit aangegeven toestand na de beëindiging van de activiteit.<br>
 <br>
-§ 4. Onverminderd de bepalingen van § 3 wordt het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, afhankelijk gemaakt van het verkrijgen van een vergunning. Het gaat daarbij om de volgende gebieden:<br>
+§ 4. Onverminderd de bepalingen van § 3 wordt het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan, voor zover de Vlaamse regering die wijzigingen niet verbiedt, afhankelijk gemaakt van het verkrijgen van een omgevingsvergunning voor het wijzigen van de vegetatie. Het gaat daarbij om de volgende gebieden:<br>
 1° de groengebieden, de parkgebieden, de buffergebieden, de bosgebieden, de natuurontwikkelingsgebieden, de valleigebieden, de brongebieden, de agrarische gebieden met ecologisch belang of waarde, de agrarische gebieden met bijzondere waarde en de met al deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 2° de beschermde duingebieden, aangeduid krachtens artikel 52 van de wet van 12 juli 1973, toegevoegd bij decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
 3° de gebieden afgebakend volgens of in uitvoering van internationale overeenkomsten of verdragen betreffende het natuurbehoud of van akten betreffende het natuurbehoud, met inbegrip van Europese richtlijnen, vastgesteld op grond van internationale verdragen.<br>
@@ -367,7 +390,9 @@ De Vlaamse Regering kan nadere regels bepalen met betrekking tot de informatie d
 
 ### ART. 15.
 
-De Vlaamse regering stelt regels vast met betrekking tot het aanvragen, verlenen, weigeren, bekendmaken, intrekken en wijzigen van de vergunning of de toestemming, alsook met betrekking tot de adviesverlening, het openbaar onderzoek en het indienen behandelen en bekendmaken van het beroep, alsook de schorsende werking van het beroep.<br /><br />[...  <span class="reference">(opgeh. decr. 19 juli 2002, art. 7, I: 10 september 2002)</span> ]
+De Vlaamse regering stelt regels vast met betrekking tot het aanvragen, verlenen, weigeren, bekendmaken, intrekken en wijzigen van de vergunning of de toestemming, vermeld in artikel 9 en artikel 13, §§ 1, 2 en 3,&nbsp;alsook met betrekking tot de adviesverlening, het openbaar onderzoek en het indienen behandelen en bekendmaken van het beroep, alsook de schorsende werking van het beroep.<br>
+<br>
+&nbsp;
 
 ### ART. 16.
 
