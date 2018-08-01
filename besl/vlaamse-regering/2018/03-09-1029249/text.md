@@ -1128,6 +1128,82 @@ Artikel 1.2.2.3 van het besluit van de Vlaamse Regering van 1 juni 1995 houdende
 
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu
 
+### ART 4.
+
+In artikel 9 van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, vervangen bij het besluit van de Vlaamse Regering van 6 juni 2014 en gewijzigd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt punt 2° opgeheven.<br>
+&nbsp;
+
+### ART 5.
+
+In artikel 10, § 2, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009, worden het tweede en het derde lid vervangen door wat volgt :<br>
+"De afwijkingsaanvraag bevat minimaal de gegevens, vermeld in addendum V1 van bijlage 2 bij het besluit van de Vlaamse Regering van 27 november 2014 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning.<br>
+<br>
+Het Agentschap beslist over de ontvankelijkheid en volledigheid van de afwijkingsaanvraag binnen een termijn van orde van dertig dagen.".<br>
+&nbsp;
+
+### ART 6.
+
+In hoofdstuk 4 van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 november 2015, wordt het opschrift van afdeling 3 vervangen door wat volgt :<br>
+"Afdeling 3. - Beoordelingsgronden".
+
+### ART 7.
+
+In hoofdstuk 4, afdeling 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2012, wordt het opschrift van onderafdeling 1 opgeheven.<br>
+&nbsp;
+
+### ART 8.
+
+Artikel 11 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009, wordt opgeheven.<br>
+&nbsp;
+
+### ART 9.
+
+Artikel 12 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd door het besluit van 10 juni 2011, wordt opgeheven.<br>
+&nbsp;
+
+### ART 10.
+
+Artikel 13 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009, wordt opgeheven.<br>
+&nbsp;
+
+### ART 11.
+
+Artikel 14 van hetzelfde besluit wordt opgeheven.<br>
+&nbsp;
+
+### ART 12.
+
+In artikel 15 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009, worden de volgende wijzigingen aangebracht :<br>
+1° paragraaf 1 wordt opgeheven;<br>
+2° in paragraaf 2 worden de woorden "met de op basis van artikel 14 verleende adviezen, desgevallend met de elementen die voortkomen uit het openbaar onderzoek, en" opgeheven;<br>
+3° paragraaf 3 en 4 worden opgeheven.<br>
+&nbsp;
+
+### ART 13.
+
+Artikel 16 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009, wordt opgeheven.<br>
+&nbsp;
+
+### ART 14.
+
+In hoofdstuk 4, afdeling 3, van hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2012, wordt het opschrift van onderafdeling 2 opgeheven.<br>
+&nbsp;
+
+### ART 15.
+
+Artikel 17 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2012, wordt opgeheven.<br>
+&nbsp;
+
+### ART 16.
+
+&nbsp;Artikel 18 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2012, wordt opgeheven.<br>
+&nbsp;
+
+### ART 17.
+
+Artikel 19 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 3 juli 2009 en gewijzigd bij het besluit van de Vlaamse Regering van 13 januari 2012, wordt opgeheven.<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie
 
 ### ART 18.
@@ -1135,6 +1211,12 @@ Artikel 1.2.2.3 van het besluit van de Vlaamse Regering van 1 juni 1995 houdende
 In artikel 29, § 2, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017, wordt punt 5° opgeheven.
 
 ## HOOFDSTUK 4 Wijziging van het besluit van de Vlaamse Regering van 10 juli 2008 houdende bepaling van de nadere regels voor de opmaak, de actualisering en de financiering van het register van de onbebouwde percelen
+
+### ART 19.
+
+In artikel 17 van het besluit van de Vlaamse Regering van 10 juli 2008 houdende bepaling van de nadere regels voor de opmaak, de actualisering en de financiering van het register van de onbebouwde percelen, gewijzigd bij de besluiten van de Vlaamse Regering van 5 juni 2009, 6 juni 2014 en 27 november 2015, wordt het tweede lid vervangen door wat volgt :<br>
+"Elke gewestelijke omgevingsambtenaar respectievelijk elke provinciale omgevingsambtenaar is gemachtigd het register te consulteren voor zijn gebied.".<br>
+&nbsp;
 
 ## HOOFDSTUK 5 Wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges
 
@@ -1187,6 +1269,11 @@ In artikel 2 van het besluit van de Vlaamse Regering van 27 november 2015 tot ui
 5° de definities, vermeld in artikel 2 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.".<br>
 &nbsp;
 
+### ART 24.
+
+In artikel 8, § 1, 1°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
 ### ART 25.
 
 In artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
@@ -1196,15 +1283,238 @@ In artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 3° in het bestaande tweede lid, dat het derde lid wordt, worden de woorden "eerste lid" vervangen door de woorden "eerste en tweede lid".<br>
 &nbsp;
 
+### ART 26.
+
+In artikel 11 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° punt 3° wordt vervangen door wat volgt :<br>
+"3° in geval van een project dat uitsluitend betrekking heeft op vergunningsplichtige kleinhandelsactiviteiten met een netto handelsoppervlakte van maximaal 20.000 vierkante meter;";<br>
+2° er worden een punt 4° en een punt 5° toegevoegd, die luiden als volgt :<br>
+"4° in geval van een project dat uitsluitend betrekking heeft op vergunningsplichtige wijzigingen van de vegetatie als vermeld in artikel 9bis, § 7, en artikel 13, § 4 en § 5, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+5° in geval van een project dat betrekking heeft op minstens twee van de vergunningsplichten, vermeld in artikel 5, 1°, van het decreet van 25 april 2014 : de projecten, vermeld in artikel 14 van dit besluit, of veranderingen eraan.".<br>
+&nbsp;
+
+### ART 27.
+
+In artikel 13, eerste lid, 1°, b), van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2016, worden de volgende wijzigingen aangebracht :<br>
+1° punt 7) wordt opnieuw opgenomen in volgende lezing : "7) aanvragen die afwijken van verkavelingsvoorschriften;";<br>
+2° in punt 9) wordt de zinsnede "4.4.7, 4.4.16" vervangen door de zinsnede ", 4.4.7, 4.4.9/1, 4.4.16".<br>
+&nbsp;
+
+### ART 28.
+
+In artikel 14 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br>
+1° de woorden "zowel vergunningsplichtige stedenbouwkundige handelingen als de vergunningsplichtige exploitatie van ingedeelde inrichtingen of activiteiten" worden vervangen door de zinsnede "minstens twee van de vergunningsplichten, vermeld in artikel 5, 1°, van het decreet van 25 april 2014,";<br>
+2° er worden een punt 3° en een punt 4° toegevoegd, die luiden als volgt :<br>
+"3° de kleinhandelsactiviteiten vallen onder de toepassing van artikel 11, 3° ;<br>
+4° de vegetatiewijzigingen vallen onder de toepassing van artikel 11, 4°. ".<br>
+&nbsp;
+
+### ART 29.
+
+&nbsp;In artikel 15, § 1, eerste lid, van hetzelfde besluit worden de woorden "vergunningsplichtige stedenbouwkundige handelingen of de vergunningsplichtige exploitatie van ingedeelde inrichtingen of activiteiten" vervangen door de zinsnede "vergunningsplichtige stedenbouwkundige handelingen, de vergunningsplichtige exploitatie van ingedeelde inrichtingen of activiteiten, vergunningsplichtige kleinhandelsactiviteiten of vergunningsplichtige vegetatiewijzigingen".
+
+### ART 30.
+
+In artikel 23, § 1, tweede lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° tussen de woorden "gronden met een kadastraal nummer" en de zinsnede ", stelt de gemeente" de woorden "of kleinhandelsactiviteiten" ingevoegd;<br>
+2° in punt 2° wordt de zin "In dat geval worden alleen de eigenaars van een aanpalend perceel dat geen deel uitmaakt van de verkaveling, op de hoogte gebracht." vervangen door de zin "In dat geval gebeurt de individuele kennisgeving overeenkomstig artikel 85 of artikel 86 van het decreet van 25 april 2014.".<br>
+&nbsp;
+
+### ART 31.
+
+In artikel 24, § 1, tweede lid, 2°, en artikel 25, § 3, eerste lid, 3°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 32.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 19 mei 2017, wordt een artikel 28/1 ingevoegd, dat luidt als volgt :<br>
+"Art. 28/1. Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen op een afstand van minder dan twintig kilometer van een ander gewest of van verschillende andere gewesten, dan vervult de Vlaamse Regering of de gewestelijke omgevingsambtenaar de verplichtingen, opgenomen in artikel 6, § 5bis, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.".<br>
+&nbsp;
+
+### ART 33.
+
+In artikel 30 van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 34.
+
+Artikel 31 van hetzelfde besluit wordt vervangen door wat volgt :<br>
+"Art. 31. Als een vergunningsaanvraag of een beroep betrekking heeft op twee of meer van de vergunningsplichten, vermeld in artikel 5, 1°, van het decreet van 25 april 2014, zijn de artikels die de adviesinstanties voor de vergunningsplichten in kwestie bepalen van toepassing. Daarbij hoeft dezelfde adviesinstantie als vermeld in artikel 35, 37, 38/1 of 38/3, maar één keer om advies gevraagd te worden en hoeft ze maar één advies uit te brengen.".<br>
+&nbsp;
+
+### ART 35.
+
+&nbsp;In artikel 32 van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37 of 38/1".<br>
+&nbsp;
+
+### ART 36.
+
+&nbsp;In artikel 33 van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 37.
+
+In artikel 37, § 2, eerste lid, 1°, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de woorden "of de gewestelijke omgevingsambtenaar" opgeheven.<br>
+&nbsp;
+
+### ART 38.
+
+Aan titel 3, hoofdstuk 6, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 december 2016, 10 februari 2017 en 24 februari 2017, worden een afdeling 4, die bestaat uit artikel 38/1 en 38/2, en een afdeling 5, die bestaat uit artikel 38/3 en 38/4, toegevoegd, die luiden als volgt :<br>
+<br>
+Afdeling 4 De instanties die advies verlenen over kleinhandelsactiviteiten, en de inhoud van de adviezen<br>
+<br>
+Art. 38/1. § 1. Over vergunningsaanvragen of beroepen die betrekking hebben op het uitvoeren van vergunningsplichtige kleinhandelsactiviteiten, wordt advies verleend door de instanties en in de gevallen vermeld in dit artikel.<br>
+<br>
+§ 2. Het Agentschap Innoveren en Ondernemen verleent advies als het voorwerp van de vergunningsaanvraag betrekking heeft op projecten voor kleinhandelsactiviteiten met een netto handelsoppervlakte van 1000 vierkante meter of meer.<br>
+<br>
+Het Agentschap Innoveren en Ondernemen kan het subadvies inwinnen van het Comité voor Kleinhandel, vermeld in artikel 8 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid.<br>
+<br>
+Tenzij het anders is bepaald in de adviesvraag, verleent de instantie, vermeld in het tweede lid, het subadvies binnen een vervaltermijn van twintig dagen.<br>
+<br>
+De vervaltermijn, vermeld in het derde lid, gaat in op de dag na de dag van ontvangst van de subadviesvraag.<br>
+<br>
+Art. 38/2. Het advies van het Agentschap Innoveren en Ondernemen bevat een toetsing aan de beoordelingsgronden, vermeld in artikel 13 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid, en, in voorkomend geval, het Vlaams beleidskader integraal handelsvestigingsbeleid, vermeld in artikel 5 van het voormelde decreet.<br>
+<br>
+Afdeling 5 De instanties die advies verlenen over vegetatiewijzigingen, en de inhoud van de adviezen<br>
+<br>
+Art. 38/3. § 1. Het Agentschap voor Natuur en Bos verleent advies over vergunningsaanvragen of beroepen die betrekking hebben op het uitvoeren van vergunningsplichtige vegetatiewijzigingen.<br>
+<br>
+§ 2. Het agentschap van het beleidsdomein Omgeving dat belast is met de uitvoering van het beleid inzake onroerend erfgoed verleent advies als het voorwerp van de vergunningsaanvraag betrekking heeft op gronden die liggen in een voorlopig of definitief beschermde archeologische site, een voorlopig of definitief beschermd monument, een voorlopig of definitief beschermd cultuurhistorisch landschap of een voorlopig of definitief beschermd stads- of dorpsgezicht, in voorkomend geval met inbegrip van de overgangszones, vermeld in het Onroerenderfgoeddecreet van 12 juli 2013 voor zover een toelating vereist conform artikel 6.4.4, § 3, tweede lid, van voormeld decreet.<br>
+<br>
+In afwijking van het eerste lid wordt het advies verleend door de Vlaamse Commissie Onroerend Erfgoed als een beroep middelen opwerpt over het advies van het agentschap, vermeld in het eerste lid, of over de behandeling van dat advies door de overheid, bevoegd in eerste administratieve aanleg.<br>
+<br>
+Art. 38/4. § 1. Het advies van het Agentschap voor Natuur en Bos, bevat een toetsing aan de beoordelingsgronden, vermeld in artikel 15 van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu alsook een gemotiveerde beoordeling van de verenigbaarheid van de aangevraagde vegetatiewijzigingen met de natuurzorgplicht, zoals voorzien in artikel 14, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+§ 2. Het advies van het agentschap van het beleidsdomein Omgeving dat belast is met de uitvoering van het beleid inzake onroerend erfgoed, respectievelijk de Vlaamse Commissie Onroerend Erfgoed bevat een gemotiveerde beoordeling van de verenigbaarheid van de aangevraagde vegetatiewijzigingen met het actief- en passiefbehoudsbeginsel en de bepalingen van het beschermingsbesluit van het betrokken onroerend erfgoed, en preciseert welke rechtsgevolgen, vermeld in artikel 6.4.4, § 3, vierde lid, van het Onroerenderfgoeddecreet van 12 juli 2013, van toepassing zijn.".<br>
+&nbsp;
+
+### ART 39.
+
+In artikel 39, eerste lid, 5°, van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 40.
+
+In artikel 40 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1, 5°, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 en 38/3";<br>
+2° in paragraaf 2 wordt het eerste lid vervangen door wat volgt :<br>
+"Een personeelslid van het departement van niveau A dat de secretaris-generaal van het departement heeft aangewezen, zit de GOVC voor.";<br>
+3° in paragraaf 2 wordt het tweede lid opgeheven;<br>
+4° in paragraaf 3 wordt het eerste lid vervangen door wat volgt :<br>
+" § 3. De secretaris van de GOVC is een personeelslid van het departement dat de secretaris-generaal van het departement heeft aangewezen.".<br>
+&nbsp;
+
+### ART 41.
+
+&nbsp;In artikel 41 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° in het eerste lid, 4°, en het tweede lid, 1°, d), wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 en 38/3";<br>
+2° aan het eerste lid wordt een punt 5° toegevoegd, dat luidt als volgt :<br>
+"5° het gaat om een aanvraag met betrekking tot kleinhandelsactiviteiten met een netto handelsoppervlakte van meer dan 20.000 vierkante meter.";<br>
+3° in het tweede lid worden de woorden "of een door haar gemachtigde persoon" vervangen door de zinsnede ", de provinciale omgevingsambtenaar of een persoon die de deputatie of de provinciale omgevingsambtenaar gemachtigd heeft";<br>
+4° aan het tweede lid, 1°, wordt een punt e) toegevoegd, dat luidt als volgt :<br>
+"e) het gaat om een aanvraag met betrekking tot kleinhandelsactiviteiten met een netto handelsoppervlakte van meer dan 20.000 vierkante meter;".<br>
+&nbsp;
+
+### ART 42.
+
+&nbsp;In artikel 42, eerste lid, 1°, d), van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 10 februari 2017, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 en 38/3".
+
+### ART 43.
+
+In artikel 46, 1°, van hetzelfde besluit wordt punt a) vervangen door wat volgt :<br>
+"a) in voorkomend geval, de beoordelingsgronden, vastgesteld bij of krachtens de decreten, vermeld in artikel 3, tweede lid, van het decreet van 25 april 2014;".<br>
+&nbsp;
+
+### ART 44.
+
+In artikel 48, § 1, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° in punt 4°, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3";<br>
+2° in punt 7° wordt punt a) vervangen door wat volgt :<br>
+"a) in voorkomend geval, de beoordelingsgronden, vastgesteld bij of krachtens de decreten, vermeld in artikel 3, tweede lid, van het decreet van 25 april 2014;".<br>
+&nbsp;
+
+### ART 45.
+
+In artikel 62 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° in het tweede lid worden een punt 3° /1 en een punt 3° /2 ingevoegd, die luiden als volgt :<br>
+"3° /1 het Agentschap Innoveren en Ondernemen, als de vergunningsaanvraag betrekking heeft op kleinhandelsactiviteiten;<br>
+3° /2 het Agentschap voor Natuur en Bos, als de vergunningsaanvraag betrekking heeft op wijzigingen van de vegetatie;";<br>
+2° in het tweede lid, 4°, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 46.
+
+In artikel 63, § 1, tweede lid, 2°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 47.
+
+In artikel 66 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 februari 2017, wordt het tweede lid vervangen door wat volgt :<br>
+"De vergunningsaanvraag wordt onontvankelijk bevonden als het bevoegde bestuur bij het ontvankelijkheids- en volledigheidsonderzoek vaststelt dat de aanvraag strijdig is met artikel 18, tweede lid, van het decreet van 25 april 2014.".
+
+### ART 48.
+
+In artikel 67 van hetzelfde besluit worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1 en paragraaf 2 wordt de zinsnede "artikel 35 en 37" telkens vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3";<br>
+2° in paragraaf 3, eerste lid, en paragraaf 4, eerste lid, 1°, worden de woorden "een eerste adviesvraag" vervangen door de woorden "een adviesvraag in een eerste adviesronde".<br>
+&nbsp;
+
+### ART 49.
+
+In artikel 70, tweede lid, 3°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
 ### ART 50.
 
 In artikel 73 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
 "Analoge beroepen tegen uitdrukkelijke of stilzwijgende beslissingen van de deputatie in eerste administratieve aanleg worden ingediend op het adres van het Departement Omgeving.".<br>
 &nbsp;
 
+### ART 51.
+
+In artikel 75 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 februari 2017, worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1, eerste lid, 3°, en paragraaf 2, 1°, wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3";<br>
+2° in paragraaf 3, eerste lid, 1°, wordt de zinsnede "door de afdeling RO en de afdeling Milieu, bevoegd voor de omgevingsvergunning" vervangen door de zinsnede "door de afdeling RO en de afdeling Milieu, bevoegd voor de omgevingsvergunning, het Agentschap Innoveren en Ondernemen en het Agentschap voor Natuur en Bos".<br>
+&nbsp;
+
+### ART 52.
+
+In artikel 76, eerste lid, van hetzelfde besluit wordt punt 1° vervangen door wat volgt :<br>
+"1° de deputatie, een bestendig afgevaardigde die de deputatie gemachtigd heeft, de provinciale omgevingsambtenaar of een ambtenaar die de provinciale omgevingsambtenaar gemachtigd heeft, als de deputatie de bevoegde overheid is;".
+
+### ART 53.
+
+In artikel 77, tweede lid, 3°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 54.
+
+&nbsp;In artikel 81 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 februari 2017, wordt het tweede lid vervangen door wat volgt :<br>
+"De vergunningsaanvraag wordt onontvankelijk bevonden als het bevoegde bestuur bij het ontvankelijkheids- en volledigheidsonderzoek vaststelt dat de aanvraag strijdig is met artikel 37, tweede lid, van het decreet van 25 april 2014.".
+
+### ART 55.
+
+&nbsp;In artikel 82, § 1, 2°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
 ### ART 56.
 
 In artikel 83 van hetzelfde besluit wordt de zinsnede ", die de aanvraag niet mee hebben ondertekend" opgeheven.<br>
+&nbsp;
+
+### ART 57.
+
+In artikel 89, § 1, 1°, van hetzelfde besluit wordt de zinsnede "artikel 35 en 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 58.
+
+In artikel 90, eerste lid, van hetzelfde besluit wordt punt 1° vervangen door wat volgt :<br>
+"1° de deputatie, een bestendig afgevaardigde die de deputatie gemachtigd heeft, de provinciale omgevingsambtenaar of een ambtenaar die de provinciale omgevingsambtenaar gemachtigd heeft, als de deputatie de bevoegde overheid is;".
+
+### ART 59.
+
+In artikel 91 van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
 &nbsp;
 
 ### ART 60.
@@ -1228,6 +1538,33 @@ Hoofdstuk 3 Bijstelling van de meldingsakte voor de exploitatie van een ingedeel
 <br>
 Art. 140/1. De bijzondere milieuvoorwaarden die in de meldingsakte van een ingedeelde inrichting of activiteit van de derde klasse zijn opgelegd, kunnen worden bijgesteld. De bijzondere milieuvoorwaarden kunnen van de algemene en sectorale milieuvoorwaarden afwijken als die mogelijkheid in de algemene en sectorale milieuvoorwaarden uitdrukkelijk is vermeld voor vergunningsplichtige ingedeelde inrichtingen of activiteiten rekening houdend met artikel 113, § 2, van het decreet van 25 april 2014."
 
+### ART 63.
+
+Artikel 141 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017, wordt vervangen door wat volgt :<br>
+"Art. 141. § 1. De volgende personen vervullen altijd de functie van gewestelijke omgevingsambtenaar :<br>
+1° de leidend ambtenaren van :<br>
+a) het departement ;<br>
+b) het Agentschap Innoveren en Ondernemen;<br>
+c) het Agentschap voor Natuur en Bos;<br>
+2° de afdelingshoofden van :<br>
+a) de afdeling Milieu, bevoegd voor de omgevingsvergunning;<br>
+b) de afdeling RO, bevoegd voor de omgevingsvergunning.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor de ruimtelijke ordening, de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, en de Vlaamse minister, bevoegd voor economie, kunnen elk bijkomende gewestelijke omgevingsambtenaren aanwijzen. Alleen ambtenaren van niveau A uit de afdelingen RO of Milieu, bevoegd voor de omgevingsvergunning, het Agentschap Innoveren en Ondernemen of het Agentschap voor Natuur en Bos kunnen worden voorgedragen en aangewezen. De ambtenaren die van rechtswege aangewezen zijn en de ambtenaren die bijkomend aangewezen worden, beschikken conform artikel 10 van het decreet van 25 april 2014 samen over voldoende kennis van zowel de ruimtelijke ordening als het milieu als vermeld in hoofdstuk 3 van deze titel.<br>
+<br>
+Het aanwijzingsbesluit vermeldt een termijn van maximaal zes jaar. De aanwijzing is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij bij ministerieel besluit, na advies van de leidend ambtenaren, hetzij op verzoek van de betrokkene.".<br>
+&nbsp;
+
+### ART 64.
+
+In artikel 142 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt :<br>
+"De volgende personeelsleden worden ertoe gemachtigd om taken te vervullen ter voorbereiding of bekendmaking van beslissingen, waarvoor de Vlaamse Regering of de gewestelijke omgevingsambtenaar bevoegd is. Personeelsleden van :<br>
+1° de afdeling RO, bevoegd voor de omgevingsvergunning;<br>
+2° de afdeling Milieu, bevoegd voor de omgevingsvergunning;<br>
+3° het Agentschap Innoveren en Ondernemen;<br>
+4° het Agentschap voor Natuur en Bos.".<br>
+&nbsp;
+
 ### ART 65.
 
 &nbsp;In titel 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 februari 2017, wordt een hoofdstuk 1/1, dat bestaat uit artikel 142/1 en 142/2, ingevoegd, dat luidt als volgt :<br>
@@ -1247,6 +1584,29 @@ Art. 142/2. Met uitzondering van de taken die zijn toegewezen aan de POVC is de 
 Personeelsleden van de provinciale administratie, bevoegd voor de omgevingsvergunning, worden ertoe gemachtigd om taken te vervullen ter voorbereiding of bekendmaking van beslissingen, waarvoor de deputatie bevoegd is.".<br>
 &nbsp;
 
+### ART 66.
+
+&nbsp;In artikel 153 van hetzelfde besluit wordt de zinsnede "artikel 35 of 37" vervangen door de zinsnede "artikel 35, 37, 38/1 of 38/3".<br>
+&nbsp;
+
+### ART 67.
+
+In afdeling 1 van titel 8, hoofdstuk 2, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 10 februari 2017 en 24 februari 2017, wordt een artikel 153/1 ingevoegd, dat luidt als volgt :<br>
+"Art. 153/1. Met toepassing van artikel 14/1, vijfde lid, en in afwijking van artikel 14/1, tweede lid, van het decreet van 25 april 2014 en de bepalingen van dit besluit wat betreft digitale indiening, worden aanvragen die louter betrekking hebben op kleinhandelsactiviteiten of vegetatiewijzigingen per beveiligde analoge zending ingediend in vier exemplaren, waarvan twee exemplaren op papier en twee exemplaren op een leesbare, virusvrije USB-stick.<br>
+<br>
+In afwijking van de bepalingen van dit besluit wat betreft digitale behandeling worden aanvragen die louter betrekking hebben op kleinhandelsactiviteiten of vegetatiewijzigingen analoog behandeld, met inbegrip van de bekendmaking van de beslissing.<br>
+<br>
+De Vlaamse minister, bevoegd voor de ruimtelijke ordening, en de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, en de Vlaamse minister, bevoegd voor de economie, bepalen gezamenlijk de datum vanaf wanneer aanvragen die louter betrekking hebben op kleinhandelsactiviteiten of vegetatiewijzigingen digitaal ingediend kunnen worden en vervolgens digitaal behandeld worden.".<br>
+&nbsp;
+
+### ART 68.
+
+In artikel 156 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 10 februari 2017 en 24 februari 2017, wordt paragraaf 1 vervangen door wat volgt :<br>
+" § 1. Met behoud van de toepassing van artikel 153/1, laadt het bevoegde bestuur analoog ingediende, ontvankelijke en volledige vergunningsaanvragen en analoog ingediende beroepschriften in het uitwisselingsplatform op uiterlijk op de dag van de beslissing over de ontvankelijkheid en de volledigheid.<br>
+<br>
+Het bevoegde bestuur dat akte heeft genomen van een melding, laadt de melding en de meldingsakte in het uitwisselingsplatform op uiterlijk de tiende dag na de meldingsakte.".<br>
+&nbsp;
+
 ### ART 69.
 
 In artikel 159 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 10 februari 2017 en 24 februari 2017, wordt paragraaf 2 vervangen door wat volgt :<br>
@@ -1254,11 +1614,87 @@ In artikel 159 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse 
 <br>
 In afwijking van het eerste lid, laadt de gemeente de standpunten, opmerkingen en bezwaren die analoog zijn ingediend tijdens het openbaar onderzoek, in het uitwisselingsplatform op binnen tien dagen na de afsluiting van het openbaar onderzoek.".
 
+### ART 70.
+
+Bijlage 1 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, wordt vervangen door bijlage 1, gevoegd bij dit besluit.<br>
+&nbsp;
+
+### ART 71.
+
+In bijlage 2 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, worden de volgende wijzigingen aangebracht :<br>
+1° de betrokken addenda worden vervangen door de addenda met dezelfde letter-nummercombinatie, zoals opgenomen in bijlage 2, gevoegd bij dit besluit;<br>
+2° de addenda met nieuwe letter-nummercombinatie, zoals opgenomen in bijlage 2, gevoegd bij dit besluit, worden ingevoegd;<br>
+3° addendum C4C wordt opgeheven.
+
+### ART 72.
+
+Bijlage 3 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, wordt vervangen door bijlage 3, gevoegd bij dit besluit.<br>
+&nbsp;
+
+### ART 73.
+
+Bijlage 4 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, wordt vervangen door bijlage 4, gevoegd bij dit besluit.<br>
+&nbsp;
+
+### ART 74.
+
+Bijlage 6 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, wordt vervangen door bijlage 5, gevoegd bij dit besluit.<br>
+&nbsp;
+
+### ART 75.
+
+&nbsp;Bijlage 7 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017, wordt vervangen door bijlage 6, gevoegd bij dit besluit.<br>
+&nbsp;
+
 ## HOOFDSTUK 8 Slotbepalingen
 
 ## Afdeling 1 Overgangsmaatregelen
 
+### ART 76.
+
+Artikel 27, 1° is van toepassing op vergunningsaanvragen die worden ingediend vanaf de datum van inwerkingtreding van dit artikel 27, 1°.<br>
+&nbsp;
+
+### ART 77.
+
+&nbsp;§ 1. Zolang het Nationaal Sociaal-Economisch Comité voor de Distributie, vermeld in het koninklijk besluit van 23 februari 2005 betreffende de organisatie en werking van het Nationaal Sociaal-Economisch Comité voor de Distributie, of het Interministerieel Comité voor de Distributie, vermeld in het koninklijk besluit van 12 april 2005 tot vaststelling van de organisatie, werking, vergoeding en incompatibiliteitsregels van het Interministerieel Comité voor de Distributie, taken vervullen als gevolg van artikel 55 van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid, geldt volgende regeling.<br>
+<br>
+§ 2. Zes effectieve en zes plaatsvervangende leden van het Nationaal Sociaal-Economisch Comité voor de Distributie worden als volgt benoemd :<br>
+1° de Vlaamse minister, bevoegd voor de economie, benoemt drie effectieve en drie plaatsvervangende leden vanuit de administratie in kwestie;<br>
+2° de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, benoemt een effectief en een plaatsvervangend lid vanuit de administratie in kwestie;<br>
+3° de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer, benoemt een effectief en een plaatsvervangend lid vanuit de administratie in kwestie;<br>
+4° de Vlaamse minister, bevoegd voor de ruimtelijke ordening, benoemt een effectief en een plaatsvervangend lid vanuit de administratie in kwestie.<br>
+<br>
+De Vlaamse minister, bevoegd voor de economie, wordt gemachtigd om de effectieve en plaatsvervangende leden van volgende instanties te benoemen, op voordracht van deze instanties :<br>
+1° de Raad voor het Verbruik namens de verbruikersorganisaties : twee effectieve en twee plaatsvervangende leden;<br>
+2° de Raad voor het Verbruik namens de geïntegreerde handel : twee effectieve en twee plaatsvervangende leden;<br>
+3° de Centrale Raad voor het Bedrijfsleven namens de werknemersorganisaties : drie effectieve en drie plaatsvervangende leden;<br>
+4° de Hoge Raad voor de Zelfstandigen en de K.M.O namens de daarin zetelende middenstandsverenigingen : drie effectieve en drie plaatsvervangende leden;<br>
+5° de Sociaal-Economische Raad van Vlaanderen namens de daarin zetelende middenstandsverenigingen : twee leden per provincie.<br>
+<br>
+De huidige leden blijven rechtsgeldig benoemd, tot de bevoegde minister een ander effectief of plaatsvervangend lid benoemt.<br>
+<br>
+§ 3. De Vlaamse Regering vaardigt vier effectieve en vier plaatsvervangende leden af om te zetelen in het Interministerieel Comité voor de Distributie. De Vlaamse Regering bepaalt welke afgevaardigde en plaatsvervanger het voorzitterschap van dit comité waarneemt.<br>
+<br>
+De huidige leden blijven rechtsgeldig afgevaardigd, tot de Vlaamse Regering een ander effectief of plaatsvervangend lid afvaardigt.<br>
+&nbsp;
+
 ## Afdeling 2 Opheffingsbepaling
+
+### ART 78.
+
+De volgende besluiten worden opgeheven :<br>
+1° het koninklijk besluit van 22 februari 2005 tot verduidelijking van de criteria waarmede rekening moet worden gehouden bij het onderzoek van ontwerpen van handelsvestiging en de samenstelling van het sociaal-economisch dossier;<br>
+2° het koninklijk besluit van 22 februari 2005 betreffende de wijze van voordracht en aanstelling van de leden van het Nationaal Sociaal-Economisch Comité voor de Distributie;<br>
+3° het koninklijk besluit van 23 februari 2005 betreffende de organisatie en werking van het Nationaal Sociaal-Economisch Comité voor de Distributie;<br>
+4° het koninklijk besluit van 1 maart 2005 tot vaststelling van de nadere regels voor de bekendmaking van de vergunning van de handelsvestiging door aanplakking bedoeld bij artikel 12 van de wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen;<br>
+5° het koninklijk besluit van 1 maart 2005 betreffende de voorafgaande verklaring bedoeld in artikel 10, § 1, van de wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen;<br>
+6° het koninklijk besluit van 12 april 2005 tot vaststelling van de organisatie, werking, vergoeding en incompatibiliteitsregels van het Interministerieel Comité voor de Distributie bedoeld bij artikel 11, § 1, van de wet van 13 augustus 2004 betreffende de vergunning van handelsvestigingen;<br>
+7° het ministerieel besluit van 25 januari 2007 tot goedkeuring van het huishoudelijk reglement van het Interministerieel Comité voor de Distributie;<br>
+8° het koninklijk besluit van 17 maart 2013 tot aanduiding van de leden van het Nationaal Sociaal-Economisch Comité voor de Distributie;<br>
+9° het besluit van de Vlaamse Regering van 25 april 2014 betreffende de samenstelling en de werking van het Nationaal Sociaal-Economisch Comité voor de Distributie en van het Interministerieel Comité voor de Distributie;<br>
+10° het besluit van de Vlaamse Regering van 26 juni 2015 tot wijziging van het huishoudelijk reglement van het Interministerieel Comité voor de Distributie.<br>
+&nbsp;
 
 ## Afdeling 3 Inwerkingtredingsbepalingen
 
