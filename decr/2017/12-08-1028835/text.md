@@ -25,6 +25,16 @@ In artikel 5.6.5 van hetzelfde decreet worden de volgende wijzigingen aangebrach
 
 ## HOOFDSTUK 3 Wijzigingen van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu
 
+### ART 4.
+
+Aan artikel 2 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, het laatst gewijzigd bij het decreet van 9 mei 2014, wordt een punt 72° toegevoegd, dat luidt als volgt:<br>
+"72° omgevingsvergunning voor het wijzigen van de vegetatie: de omgevingsvergunning voor het wijzigen van de vegetatie of het geheel of gedeeltelijk wijzigen van kleine landschapselementen of de vegetatie ervan.".<br>
+&nbsp;
+
+### ART 5.
+
+In artikel 9bis, § 7, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 9 mei 2014, worden de woorden "een vergunning voor het wijzigen van de vegetatie" vervangen door de woorden "een omgevingsvergunning voor het wijzigen van de vegetatie".
+
 ### ART 6.
 
 In artikel 13 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 9 mei 2014, worden de volgende wijzigingen aangebracht:<br>
@@ -32,6 +42,11 @@ In artikel 13 van hetzelfde decreet, het laatst gewijzigd bij het decreet van 9 
 2° in paragraaf 5 worden de woorden "van het verkrijgen van een vergunning" vervangen door de woorden "van het verkrijgen van een omgevingsvergunning voor het wijzigen van de vegetatie";<br>
 3° er wordt een paragraaf 8 toegevoegd, die luidt als volgt:<br>
 " § 8. Het zonder voorafgaandelijke omgevingsvergunning of in strijd met deze omgevingsvergunning uitvoeren van vergunningsplichtige handelingen inzake wijziging van de vegetatie of van kleine landschapselementen of van de vegetatie ervan of van handelingen die verboden zijn op basis van of in uitvoering van artikel 13, § 3, is verboden.".<br>
+&nbsp;
+
+### ART 7.
+
+In artikel 15 van hetzelfde decreet, gewijzigd bij het decreet van 19 juli 2002, wordt tussen de zinsnede "de toestemming," en het woord "alsook" de zinsnede "vermeld in artikel 9 en artikel 13, §§ 1, 2 en 3," ingevoegd.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Wijzigingen van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003
@@ -1095,6 +1110,15 @@ In artikel 2 van het decreet van 25 april 2014 betreffende de omgevingsvergunnin
 "4° de definities, vermeld in artikel 2 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.".<br>
 &nbsp;
 
+### ART 112.
+
+In artikel 3 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° artikel 6 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.";<br>
+2° aan het tweede lid wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.".<br>
+&nbsp;
+
 ### ART 113.
 
 &nbsp;In artikel 5 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -1141,6 +1165,26 @@ In artikel 18 van hetzelfde decreet wordt tussen het tweede lid en het derde lid
 "De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die alleen nodig is tijdens de uitvoeringsfase van het project anderzijds. Als voor het project een milieueffect-rapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.".<br>
 &nbsp;
 
+### ART 118.
+
+In artikel 19 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar";<br>
+2° in het tweede lid worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
+&nbsp;
+
+### ART 119.
+
+In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" worden vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar";<br>
+2° een tweede lid wordt toegevoegd, dat luidt als volgt:<br>
+"Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.".<br>
+&nbsp;
+
+### ART 120.
+
+In artikel 25, eerste en tweede lid, van hetzelfde decreet worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" telkens vervangen door de zinsnede "de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde.".<br>
+&nbsp;
+
 ### ART 121.
 
 In artikel 29 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -1184,6 +1228,24 @@ In artikel 37 van hetzelfde decreet wordt tussen het tweede lid en het derde lid
 In artikel 38 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
 1° in het eerste lid worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar";<br>
 2° in het tweede lid worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
+&nbsp;
+
+### ART 126.
+
+In artikel 39 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" worden vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar";<br>
+2° een tweede lid wordt toegevoegd, dat luidt als volgt:<br>
+"Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.".<br>
+&nbsp;
+
+### ART 127.
+
+In artikel 40 van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2015, worden in het vijfde lid de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" telkens vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar".<br>
+&nbsp;
+
+### ART 128.
+
+In artikel 42, derde lid, van hetzelfde decreet worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
 &nbsp;
 
 ### ART 129.
@@ -1233,6 +1295,36 @@ In artikel 53 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016,
 &nbsp;In artikel 56, derde lid, van hetzelfde decreet wordt tussen het woord "bepaalt" en de woorden "de bewijsstukken" de zinsnede ", eventueel met inbegrip van een onontvankelijkheidssanctie, nadere regels met betrekking tot de opbouw en de inhoud van het beroepsschrift en" ingevoegd.<br>
 &nbsp;
 
+### ART 135.
+
+In artikel 57 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "de door haar gemachtigde ambtenaar" vervangen door de woorden "de provinciale respectievelijk gewestelijke omgevingsambtenaar";<br>
+2° in het tweede lid worden de woorden "of de door haar gemachtigde ambtenaar" vervangen door de woorden "of de provinciale respectievelijk gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
+&nbsp;
+
+### ART 136.
+
+&nbsp;In artikel 60 van hetzelfde decreet worden de woorden "of de door haar gemachtigde ambtenaar" telkens vervangen door de woorden "de provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
+&nbsp;
+
+### ART 137.
+
+&nbsp;In artikel 62, eerste lid, 2°, van hetzelfde decreet wordt de zinsnede ", de door haar gemachtigde ambtenaar of de gewestelijke omgevingsambtenaar" vervangen door de woorden "of de provinciale of gewestelijke omgevingsambtenaar".
+
+### ART 138.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 9 mei 2014 en 18 december 2015, wordt een artikel 63/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 63/1. Als de deputatie de bevoegde overheid is en er geen advies van een omgevingsvergunningscommissie vereist is, maakt de provinciale omgevingsambtenaar voor elke beslissing over een beroep een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag, in voorkomend geval, aan de beoordelingsgronden, bepaald bij of krachtens:<br>
+1° titel IV van de VCRO;<br>
+2° titel V van het DABM;<br>
+3° het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Het verslag omvat, in voorkomend geval, een voorstel van antwoord op de standpunten, opmerkingen en bezwaren die zijn ingediend tijdens het eventuele openbaar onderzoek.<br>
+<br>
+De provinciale omgevingsambtenaar stelt dit verslag ter beschikking van de deputatie uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. De deputatie geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde of in voorkomend geval verlengde termijn, kan de deputatie aan de vereiste van een verslag voorbijgaan.".<br>
+&nbsp;
+
 ### ART 139.
 
 Aan artikel 66, § 3, eerste lid, van hetzelfde decreet wordt de zinsnede "hetzij na de ontvangst van de ontbrekende gegevens of documenten, waarbij de meest recente datum geldt" toegevoegd.<br>
@@ -1247,6 +1339,17 @@ Aan artikel 66, § 3, eerste lid, van hetzelfde decreet wordt de zinsnede "hetzi
 
 Aan artikel 70, § 1, tweede lid, van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
 "De exploitatie gebeurt onder naleving van de algemene en sectorale milieuvoorwaarden en de tot dan toe geldende bijzondere milieuvoorwaarden uit de vergunning.".<br>
+&nbsp;
+
+### ART 142.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 73/2 ingevoegd, dat luidt als volgt:<br>
+"Art. 73/2. De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van het wijzigen van de vegetatie ervan.".<br>
+&nbsp;
+
+### ART 143.
+
+In artikel 75, tweede lid, 1°, van hetzelfde decreet worden de woorden "de door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar" vervangen door de woorden "de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde".<br>
 &nbsp;
 
 ### ART 144.
@@ -1291,6 +1394,16 @@ De mededeling, vermeld in het derde en vierde lid, wordt op volgende wijze gedaa
 2° als er geen openbaar onderzoek vereist is, binnen een vervaltermijn van dertig dagen die ingaat de dag na de datum van de verzending van de mededeling, vermeld in paragraaf 1, derde lid.";<br>
 <br>
 3° paragraaf 3 wordt opgeheven.<br>
+&nbsp;
+
+### ART 147.
+
+In artikel 87, § 1, eerste lid, van hetzelfde decreet worden de woorden "de door haar gemachtigde ambtenaar of de gemeentelijke omgevingsambtenaar" vervangen door de zinsnede "of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar".
+
+### ART 148.
+
+&nbsp;In hoofdstuk 8 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt het opschrift van afdeling 1 vervangen door wat volgt:<br>
+"Afdeling 1. - Verval van de omgevingsvergunning voor de uitvoering van stedenbouwkundige handelingen, de exploitatie van een ingedeelde inrichting of activiteit, kleinhandelsactiviteiten of het wijzigen van de vegetatie".<br>
 &nbsp;
 
 ### ART 149.
