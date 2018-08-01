@@ -17,22 +17,41 @@ a) een aangetekend schrijven;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 3° DABM: het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-4° definitieve beslissing: een beslissing waartegen geen georganiseerd administratief beroep meer kan worden ingestelden en&nbsp;die, wat betreft het recht tot voortzetting van de exploitatie van de ingedeelde inrichting of activiteit als vermeld in artikel 70, § 1, tweede lid, en artikel 390, § 6, niet voor een eerste maal geheel of gedeeltelijk vernietigd is door de Raad van Vergunningsbetwistingen en voor zover de beslissingen in eerste en tweede administratieve aanleg de verdere uitbating toelieten. Het recht op verdere exploitatie stopt definitief wanneer de Raad van Vergunningsbetwistingen de schorsing van de vergunning uitspreekt of na een termijn van maximum vijf maand na de eerste uitspraak van de Raad van Vergunningsbetwistingen; [ZIE BELANGRIJKE OPMERKING IN COMMENTAAR IVM ART. 2, EERSTE LID, 4°]<br>
+4° definitieve beslissing: een beslissing waartegen geen georganiseerd administratief beroep meer kan worden ingesteld en die, wat betreft het recht tot voortzetting van de exploitatie van de ingedeelde inrichting of activiteit als vermeld in artikel 70, § 1, tweede lid, en artikel 390, § 6, niet voor een eerste maal geheel of gedeeltelijk vernietigd is door de Raad van Vergunningsbetwistingen en voor zover de beslissingen in eerste en tweede administratieve aanleg de verdere uitbating toelieten. Het recht op verdere exploitatie stopt definitief wanneer de Raad van Vergunningsbetwistingen de schorsing van de vergunning uitspreekt of na een termijn van maximum vijf maand na de eerste uitspraak van de Raad van Vergunningsbetwistingen; [ZIE BELANGRIJKE OPMERKING IN COMMENTAAR IVM ART. 2, EERSTE LID, 4°]<br>
 5° gemeentelijke projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor het college van burgemeester en schepenen bevoegd is om in eerste administratieve aanleg een beslissing te nemen;<br>
 6° meldingsakte: het document waaruit blijkt dat de bevoegde overheid akte heeft genomen van een melding;<br>
 7° omgevingsvergunning: de schriftelijke beslissing van de vergunningverlenende overheid houdende toelating voor een vergunningsplichtig project;<br>
-8° project: het geheel van zowel stedenbouwkundige handelingen als de exploitatie van ingedeelde inrichtingen of activiteiten, of minstens een van die elementen, dan wel het verkavelen van gronden, die onderworpen zijn aan de vergunnings- of meldingsplicht, vermeld in artikel 5;<br>
+8° project : het geheel van volgende elementen of minstens één ervan die onderworpen zijn aan de vergunnings- of meldingsplicht, vermeld in artikel 5 :<br>
+a) stedenbouwkundige handelingen;<br>
+b) de exploitatie van ingedeelde inrichtingen of activiteiten;<br>
+c) kleinhandelsactiviteiten;<br>
+d) het wijzigen van de vegetatie;<br>
+dan wel het verkavelen van gronden;<br>
 9° provinciale projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor de deputatie bevoegd is om in eerste administratieve aanleg een beslissing te nemen;<br>
 10° VCRO: de Vlaamse Codex Ruimtelijke Ordening;<br>
-11° Vlaamse projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor de Vlaamse Regering bevoegd is om in eerste administratieve aanleg een beslissing te nemen.</p>
-
-<p>Tenzij bij dit decreet een andersluidende definitie is bepaald, zijn de volgende definities van toepassing in dit decreet:<br>
+11° Vlaamse projecten: de door de Vlaamse Regering limitatief aangewezen projecten waarvoor de Vlaamse Regering bevoegd is om in eerste administratieve aanleg een beslissing te nemen.<br>
+<br>
+Tenzij bij dit decreet een andersluidende definitie is bepaald, zijn de volgende definities van toepassing in dit decreet :<br>
 1° de definities, vermeld in artikel 1.1.2 en 4.1.1 van de VCRO;<br>
-2° de definities, vermeld in artikel 5.1.1 en 5.1.2 van het DABM.</p>
+2° de definities, vermeld in artikel 5.1.1 en 5.1.2 van het DABM;<br>
+3° de definities, vermeld in artikel 2 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
+4° de definities, vermeld in artikel 2 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.</p>
 
 ### ART. 3.
 
-<P>Dit decreet beoogt een efficiënte, doelgerichte en geïntegreerde   vergunningverlening die bijdraagt tot de doelstellingen, vermeld in:<BR>1°   artikel 1.1.4 van de VCRO;<BR>2° artikel 5.1.3 van het DABM.<BR></P>  <P>Dit decreet doet geen afbreuk aan de inhoudelijke verplichtingen die zijn   vastgesteld bij of krachtens:<BR>1° titel IV van de VCRO;<BR>2° titel V van het   DABM.<BR></P>  <P>Voor projecten die onder de toepassing vallen van een Europese verordening   gelden de bepalingen van dit decreet in de mate dat zij een aanvulling vormen op   de bepalingen van de toepasselijke verordening.<BR></P>
+<p>Dit decreet beoogt een efficiënte, doelgerichte en geïntegreerde vergunningverlening die bijdraagt tot de doelstellingen, vermeld in :<br>
+1° artikel 1.1.4 van de VCRO;<br>
+2° artikel 5.1.3 van het DABM;<br>
+3° artikel 4 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
+4° artikel 6 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Dit decreet doet geen afbreuk aan de inhoudelijke verplichtingen die zijn vastgesteld bij of krachtens :<br>
+1° titel IV van de VCRO;<br>
+2° titel V van het DABM;<br>
+3° het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
+4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Voor projecten die onder de toepassing vallen van een Europese verordening gelden de bepalingen van dit decreet in de mate dat zij een aanvulling vormen op de bepalingen van de toepasselijke verordening.</p>
 
 ### ART. 4.
 
@@ -45,6 +64,8 @@ Dit decreet is van toepassing op projecten die zijn onderworpen aan:<br>
 a) het uitvoeren van stedenbouwkundige handelingen als vermeld in artikel 4.2.1 van de VCRO;<br>
 b) het verkavelen van gronden als vermeld in artikel 4.2.15 van de VCRO;<br>
 c) de exploitatie van een ingedeelde inrichting of activiteit van de eerste of tweede klasse als vermeld in artikel 5.2.1 van het DABM;<br>
+d) vergunningsplichtige kleinhandelsactiviteiten als vermeld in artikel 11 van het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
+e) vergunningsplichtige wijzigingen van de vegetatie, vermeld in artikel 9bis, § 7, en artikel 13, § 4 en § 5, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
 2° de meldingsplicht, namelijk voor:<br>
 a) het uitvoeren van stedenbouwkundige handelingen als vermeld in artikel 4.2.2 en artikel 4.2.4. van de VCRO;<br>
 b) de exploitatie van de ingedeelde inrichting of activiteit van de derde klasse als vermeld in artikel 5.2.1 van het DABM.
@@ -218,21 +239,25 @@ Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een 
 
 ### ART. 18.
 
-<p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.</p>
-
-<p>Als het project zowel vergunningsplichtige stedenbouwkundige handelingen als de vergunningsplichtige exploitatie van ingedeelde inrichtingen of activiteiten omvat en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend zowel voor de stedenbouwkundige handelingen als voor de exploitatie van ingedeelde inrichtingen of activiteiten.<br>
+<p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.<br>
 <br>
-De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die alleen nodig is tijdens de uitvoeringsfase van het project anderzijds. Als voor het project een milieueffect-rapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.</p>
-
-<p>De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
+Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.<br>
+<br>
+De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die alleen nodig is tijdens de uitvoeringsfase van het project anderzijds. Als voor het project een milieueffect-rapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.<br>
+<br>
+De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 19.
 
-<P>De bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde   ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar onderzoekt   de vergunningsaanvraag op haar ontvankelijkheid en volledigheid.<BR></P>  <P>Als de vergunningsaanvraag onvolledig is, kan de bevoegde overheid, de door   haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke   omgevingsambtenaar de vergunningsaanvrager per beveiligde zending vragen om de   ontbrekende gegevens of documenten aan de aanvraag toe te voegen en de termijn   bepalen waarbinnen dit moet gebeuren.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar onderzoekt de vergunningsaanvraag op haar ontvankelijkheid en volledigheid.</p>
+
+<p>Als de vergunningsaanvraag onvolledig is, kan de bevoegde overheid,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde de vergunningsaanvrager per beveiligde zending vragen om de ontbrekende gegevens of documenten aan de aanvraag toe te voegen en de termijn bepalen waarbinnen dit moet gebeuren.</p>
 
 ### ART. 20.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de   vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de   bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde ambtenaar of   in voorkomend geval de gemeentelijke omgevingsambtenaar die nota en beslist of   er over het project een milieueffectrapport moet worden   opgesteld.<BR>
+Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
+<br>
+Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.
 
 ### ART. 21.
 
@@ -254,7 +279,11 @@ Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de   vergunningsaan
 
 ### ART. 25.
 
-<P>In de gevallen die de Vlaamse Regering bepaalt, vraagt de bevoegde overheid,   vermeld in artikel 15, de door haar gemachtigde ambtenaar of in voorkomend geval   de gemeentelijke omgevingsambtenaar het advies van de provinciale of de   gewestelijke omgevingsvergunningscommissie, vermeld in artikel 16, § 1. De   provinciale of de gewestelijke omgevingsvergunningscommissie vraagt de   adviesinstanties, vermeld in artikel 24, eerste lid, en in voorkomend geval het   college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar,   vermeld in artikel 24, tweede lid, om advies.<BR></P>  <P>Als er geen advies van een omgevingsvergunningscommissie, vermeld in artikel   16, § 1, vereist is, vraagt de bevoegde overheid, vermeld in artikel 15, de door   haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke   omgevingsambtenaar de adviesinstanties en in voorkomend geval het college van   burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in   artikel 24, om advies.<BR></P>  <P>Als met toepassing van het eerste lid, een advies van een   omgevingsvergunningscommissie als vermeld in artikel 16, § 1, vereist is,   verlenen de adviesinstanties en in voorkomend geval het college van burgemeester   en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 24, hun   advies aan de omgevingsvergunningscommissie. Die commissie verleent een   geïntegreerd advies.<BR></P>
+<p>In de gevallen die de Vlaamse Regering bepaalt, vraagt de bevoegde overheid, vermeld in artikel 15, de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde het advies van de provinciale of de gewestelijke omgevingsvergunningscommissie, vermeld in artikel 16, § 1. De provinciale of de gewestelijke omgevingsvergunningscommissie vraagt de adviesinstanties, vermeld in artikel 24, eerste lid, en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 24, tweede lid, om advies.</p>
+
+<p>Als er geen advies van een omgevingsvergunningscommissie, vermeld in artikel 16, § 1, vereist is, vraagt de bevoegde overheid, vermeld in artikel 15,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde de adviesinstanties en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 24, om advies.</p>
+
+<p>Als met toepassing van het eerste lid, een advies van een omgevingsvergunningscommissie als vermeld in artikel 16, § 1, vereist is, verlenen de adviesinstanties en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 24, hun advies aan de omgevingsvergunningscommissie. Die commissie verleent een geïntegreerd advies.</p>
 
 ### ART. 26.
 
@@ -264,15 +293,26 @@ Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de   vergunningsaan
 
 De vergunningsaanvrager kan vragen om door de provinciale of de   gewestelijke omgevingsvergunningscommissie gehoord te worden.<BR>
 
+### ART 27/1.
+
+Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen op een afstand van minder dan twintig kilometer van een ander gewest of van verschillende andere gewesten, en het college van burgemeester en schepenen of de deputatie de bevoegde overheid is, dan brengt de gemeentelijke of provinciale omgevingsambtenaar de Vlaamse Regering hiervan met een beveiligde zending op de hoogte, met het oog op de vervulling van de verplichtingen, opgenomen in artikel 6, § 5bis, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+
 ### ART. 28.
 
 <P>Tenzij het milieueffectrapport of het omgevingsveiligheidsrapport al   goedgekeurd en nog actueel is, maakt de afdeling bevoegd voor   milieueffectrapportage en veiligheidsrapportage haar beslissing over de   goedkeuring of afkeuring van dit rapport bekend met toepassing van artikel   4.3.8, § 3, en artikel 4.5.7, § 3, van het DABM.<BR><BR>Als de afdeling bevoegd   voor milieueffectrapportage en veiligheidsrapportage het milieueffectrapport of   omgevingsveiligheidsrapport afkeurt, dan wordt de vergunningsprocedure van   rechtswege stopgezet.<BR></P>
 
 ### ART. 29.
 
-§ 1. Als het college van burgemeester en schepenen de bevoegde overheid is, en geen advies van een omgevingsvergunningscommissie vereist is&nbsp;maakt de gemeentelijke omgevingsambtenaar voor elke beslissing over een vergunningsaanvraag een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag aan de beoordelingsgronden vermeld in titel IV van de VCRO en titel V van het DABM. Het verslag omvat in voorkomend geval een voorstel van antwoord op de tijdens het eventuele openbaar onderzoek ingediende standpunten, opmerkingen en bezwaren.<br>
+§ 1. Als het college van burgemeester en schepenen de bevoegde overheid is, en geen advies van een omgevingsvergunningscommissie vereist is&nbsp;maakt de gemeentelijke omgevingsambtenaar voor elke beslissing over een vergunningsaanvraag een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag, in voorkomend geval, aan de beoordelingsgronden bepaald bij of krachtens :<br>
+1° titel IV van de VCRO;<br>
+2° titel V van het DABM;<br>
+3° het decreet van 15 juli betreffende het integraal handelsvestigingsbeleid;<br>
+4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+Het verslag omvat in voorkomend geval een voorstel van antwoord op de tijdens het eventuele openbaar onderzoek ingediende standpunten, opmerkingen en bezwaren.<br>
 <br>
-De gemeentelijke omgevingsambtenaar stelt dit verslag ter beschikking van het college van burgemeester en schepenen uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. Het college van burgemeester en schepenen geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde of in voorkomend geval verlengde termijn, kan het college van burgemeester en schepenen aan de vereiste van een verslag voorbijgaan.
+De gemeentelijke omgevingsambtenaar stelt dit verslag ter beschikking van het college van burgemeester en schepenen uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. Het college van burgemeester en schepenen geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde of in voorkomend geval verlengde termijn, kan het college van burgemeester en schepenen aan de vereiste van een verslag voorbijgaan.<br>
+<br>
+§ 2. Paragraaf 1 is van overeenkomstige toepassing op de deputatie en de provinciale omgevingsambtenaar.
 
 ### ART. 30.
 
@@ -335,25 +375,37 @@ De Vlaamse Regering bepaalt de nadere regels voor de gewone   vergunningsprocedu
 
 ### ART. 37.
 
-<p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.</p>
-
-<p>Als het project zowel vergunningsplichtige stedenbouwkundige handelingen als de vergunningsplichtige exploitatie van ingedeelde inrichtingen of activiteiten omvat en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend zowel voor de stedenbouwkundige handelingen als voor de exploitatie van ingedeelde inrichtingen of activiteiten.<br>
+<p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.<br>
 <br>
-De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die enkel nodig is tijdens de uitvoeringsfase van het project anderzijds.</p>
-
-<p>De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
+Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.<br>
+<br>
+De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die enkel nodig is tijdens de uitvoeringsfase van het project anderzijds.<br>
+<br>
+De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 38.
 
-<P>&nbsp;De bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde   ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar onderzoekt   de vergunningsaanvraag op haar ontvankelijkheid en volledigheid.<BR></P>  <P>Als de vergunningsaanvraag onvolledig is, kan de bevoegde overheid, de door   haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke   omgevingsambtenaar de vergunningsaanvrager per beveiligde zending vragen om de   ontbrekende gegevens of documenten aan de aanvraag toe te voegen en de termijn   bepalen waarbinnen dit moet gebeuren.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar onderzoekt de vergunningsaanvraag op haar ontvankelijkheid en volledigheid.</p>
+
+<p>Als de vergunningsaanvraag onvolledig is, kan de bevoegde overheid,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde de vergunningsaanvrager per beveiligde zending vragen om de ontbrekende gegevens of documenten aan de aanvraag toe te voegen en de termijn bepalen waarbinnen dit moet gebeuren.</p>
 
 ### ART. 39.
 
-Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de   vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de   bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde ambtenaar of   in voorkomend geval de gemeentelijke omgevingsambtenaar die nota en beslist of   er over het project een milieueffectrapport moet worden   opgesteld.<BR>
+Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de vergunningsaanvraag een project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar die nota en beslist of er over het project een milieueffectrapport moet worden opgesteld.<br>
+<br>
+Als de aanvraag door de bevoegde overheid zelf wordt ingediend, dan verricht de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar de in het eerste lid vermelde taken.
 
 ### ART. 40.
 
-<P>Het resultaat van het onderzoek, vermeld in artikel 38 en 39, wordt bij   beveiligde zending aan de aanvrager meegedeeld binnen een termijn van dertig   dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij   na de ontvangst van de ontbrekende gegevens of documenten.<BR></P>  <P>De beslissing dat er voor het project een milieueffectrapport moet worden   opgesteld, heeft van rechtswege de onvolledigheid van de vergunningsaanvraag en   de stopzetting van de vergunningsprocedure tot gevolg.<BR></P>  <P>Als het resultaat van het onderzoek, vermeld in artikel 39, niet binnen de   termijn, vermeld in het eerste lid, aan de indiener van de vergunningsaanvraag   is verzonden, doet de bevoegde vergunningverlenende overheid binnen een termijn   van negentig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is   ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten   uitdrukkelijk uitspraak of er een milieueffectrapport moet worden opgesteld. Als   zij beslist dat er een milieueffectrapport moet worden opgesteld verklaart zij   de vergunningsaanvraag onvolledig en zonder voorwerp en wordt de procedure   stopgezet.<BR><BR>Tegen de beslissing dat er een milieueffectrapport moet worden   opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de   stopzetting van de procedure kan geen administratief beroep als vermeld in   hoofdstuk 3 worden ingesteld.<BR><BR>Als de bevoegde overheid, vermeld in   artikel 15, de door haar gemachtigde ambtenaar of in voorkomend geval de   gemeentelijke omgevingsambtenaar, beslist dat er een milieueffectrapport over   het project moet worden opgesteld, kan de aanvrager een gemotiveerd verzoek tot   ontheffing van de rapportageverplichting indienen bij de afdeling, bevoegd voor   milieueffectrapportage overeenkomstig de procedure, vermeld in artikel 4.3.3, §   3 tot en met § 9, van het DABM. De beslissing van de afdeling, bevoegd voor   milieueffectrapportage, vermeld in artikel 4.3.3, § 6, van hetzelfde decreet, is   bindend voor de bevoegde overheid, vermeld in artikel 15, de door haar   gemachtigde ambtenaar of in voorkomend geval de gemeentelijke   omgevingsambtenaar.<BR></P>
+<p>Het resultaat van het onderzoek, vermeld in artikel 38 en 39, wordt bij beveiligde zending aan de aanvrager meegedeeld binnen een termijn van dertig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
+
+<p>De beslissing dat er voor het project een milieueffectrapport moet worden opgesteld, heeft van rechtswege de onvolledigheid van de vergunningsaanvraag en de stopzetting van de vergunningsprocedure tot gevolg.</p>
+
+<p>Als het resultaat van het onderzoek, vermeld in artikel 39, niet binnen de termijn, vermeld in het eerste lid, aan de indiener van de vergunningsaanvraag is verzonden, doet de bevoegde vergunningverlenende overheid binnen een termijn van negentig dagen vanaf de dag na de datum waarop de vergunningsaanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten uitdrukkelijk uitspraak of er een milieueffectrapport moet worden opgesteld. Als zij beslist dat er een milieueffectrapport moet worden opgesteld verklaart zij de vergunningsaanvraag onvolledig en zonder voorwerp en wordt de procedure stopgezet.<br>
+<br>
+Tegen de beslissing dat er een milieueffectrapport moet worden opgesteld, de vergunningsaanvraag onvolledig en zonder voorwerp is en tegen de stopzetting van de procedure kan geen administratief beroep als vermeld in hoofdstuk 3 worden ingesteld.<br>
+<br>
+Als de bevoegde overheid, vermeld in artikel 15, of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar, beslist dat er een milieueffectrapport over het project moet worden opgesteld, kan de aanvrager een gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure, vermeld in artikel 4.3.3, § 3 tot en met § 9, van het DABM. De beslissing van de afdeling, bevoegd voor milieueffectrapportage, vermeld in artikel 4.3.3, § 6, van hetzelfde decreet, is bindend voor de bevoegde overheid, vermeld in artikel 15, of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar.</p>
 
 ### ART. 41.
 
@@ -363,17 +415,31 @@ Als met toepassing van artikel 4.3.3, § 2, van het DABM bij de   vergunningsaan
 
 ### ART. 42.
 
-<P>De Vlaamse Regering wijst de adviesinstanties aan die over een   vergunningsaanvraag advies verlenen.<BR></P>  <P>Het advies van het college van burgemeester en schepenen op het ambtsgebied   waarvan de vergunningsaanvraag betrekking heeft of van de gemeentelijke   omgevingsambtenaar wordt altijd ingewonnen als de deputatie of de Vlaamse   Regering de bevoegde overheid is tenzij de aanvraag ingediend is door het   betrokken college.<BR></P>  <P>De bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde   ambtenaar of in voorkomend geval de gemeentelijke omgevingsambtenaar vraagt de   instanties, vermeld in het eerste lid, om advies.<BR></P>
+<p>De Vlaamse Regering wijst de adviesinstanties aan die over een vergunningsaanvraag advies verlenen.</p>
+
+<p>Het advies van het college van burgemeester en schepenen op het ambtsgebied waarvan de vergunningsaanvraag betrekking heeft of van de gemeentelijke omgevingsambtenaar wordt altijd ingewonnen als de deputatie of de Vlaamse Regering de bevoegde overheid is tenzij de aanvraag ingediend is door het betrokken college.</p>
+
+<p>De bevoegde overheid, vermeld in artikel 15,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde vraagt de instanties, vermeld in het eerste lid, om advies.</p>
 
 ### ART. 43.
 
 <P>De Vlaamse Regering stelt de adviestermijnen vast en kan de elementen bepalen   waarop de adviezen moeten ingaan.<BR></P>  <P>Als geen advies wordt uitgebracht binnen de vastgestelde termijn, wordt het   advies geacht gunstig te zijn.<BR></P>
 
+### ART 43/1.
+
+Als het project vergunningsplichtige kleinhandelsactiviteiten omvat met een netto handelsoppervlakte van meer dan 20.000 vierkante meter, gelegen op een afstand van minder dan twintig kilometer van een ander gewest of van verschillende andere gewesten, en het college van burgemeester en schepenen of de deputatie de bevoegde overheid is, dan brengt de gemeentelijke of provinciale omgevingsambtenaar de Vlaamse Regering hiervan met een beveiligde zending op de hoogte, met het oog op de vervulling van de verplichtingen, opgenomen in artikel 6, § 5bis, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
+
 ### ART. 44.
 
-§ 1. Als het college van burgemeester en schepenen de bevoegde overheid is, maakt de gemeentelijke omgevingsambtenaar voor elke beslissing over een vergunningsaanvraag een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag aan de beoordelingsgronden, vermeld in titel IV van de VCRO en titel V van het DABM.<br>
+§ 1. Als het college van burgemeester en schepenen de bevoegde overheid is, maakt de gemeentelijke omgevingsambtenaar voor elke beslissing over een vergunningsaanvraag een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag, in voorkomend geval, aan de beoordelingsgronden, bepaald bij of krachtens :<br>
+1° titel IV van de VCRO;<br>
+2° titel V van het DABM;<br>
+3° het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
 <br>
-De gemeentelijke omgevingsambtenaar stelt dit verslag ter beschikking van het college van burgemeester en schepenen uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. Het college van burgemeester en schepenen geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde termijn, kan het college van burgemeester en schepenen aan de vereiste van een verslag voorbijgaan.
+De gemeentelijke omgevingsambtenaar stelt dit verslag ter beschikking van het college van burgemeester en schepenen uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. Het college van burgemeester en schepenen geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde termijn, kan het college van burgemeester en schepenen aan de vereiste van een verslag voorbijgaan.<br>
+<br>
+§ 2. Paragraaf 1 is van overeenkomstige toepassing op de deputatie en de provinciale omgevingsambtenaar.
 
 ### ART. 45.
 
@@ -436,7 +502,9 @@ Het beroep kan worden ingesteld door:<br>
 3° de leidend ambtenaar van de adviesinstanties of bij zijn afwezigheid zijn gemachtigde als de adviesinstantie tijdig advies heeft verstrekt of als aan hem ten onrechte niet om advies werd verzocht;<br>
 4° het college van burgemeester en schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies werd verzocht;<br>
 5° ...;<br>
-6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde.<br>
+6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde;<br>
+7° de leidend ambtenaar van het Agentschap Innoveren en Ondernemen of bij zijn afwezigheid zijn gemachtigde, als het project vergunningsplichtige kleinhandelsactiviteiten omvat;<br>
+8° de leidend ambtenaar van het agentschap, bevoegd voor natuur en bos, of, bij zijn afwezigheid, zijn gemachtigde als het project vergunningsplichtige wijzigingen van de vegetatie omvat.<br>
 <br>
 [... vernietigd bij arrest Grondwettelijk Hof 46/2019&nbsp;van 14 maart 2019].
 
@@ -465,7 +533,15 @@ Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   termij
 
 ### ART. 57.
 
-<P>De bevoegde overheid, vermeld in artikel 52, of de door haar gemachtigde   ambtenaar onderzoekt het beroep op zijn ontvankelijkheid en   volledigheid.<BR></P>  <P>Als niet alle stukken als vermeld in artikel 56, derde lid, bij het beroep   zijn gevoegd, kan de bevoegde overheid of de door haar gemachtigde ambtenaar de   beroepsindiener per beveiligde zending vragen om binnen een termijn van veertien   dagen die ingaat de dag na de verzending van het vervolledigingsverzoek, de   ontbrekende gegevens of documenten aan het beroep toe te voegen.<BR></P>  <P>Als de beroepsindiener nalaat de ontbrekende gegevens of documenten binnen de   termijn, vermeld in het tweede lid, aan het beroep toe te voegen, wordt het   beroep als onvolledig beschouwd.<BR></P>
+<p>De bevoegde overheid, vermeld in artikel 52, of&nbsp;de provinciale respectievelijk gewestelijke omgevingsambtenaar onderzoekt het beroep op zijn ontvankelijkheid en volledigheid.</p>
+
+<p>Als niet alle stukken als vermeld in artikel 56, derde lid, bij het beroep zijn gevoegd, kan de bevoegde overheid&nbsp;of de provinciale respectievelijk gewestelijke omgevingsambtenaar of de door hem gemachtigde de beroepsindiener per beveiligde zending vragen om binnen een termijn van veertien dagen die ingaat de dag na de verzending van het vervolledigingsverzoek, de ontbrekende gegevens of documenten aan het beroep toe te voegen.</p>
+
+<p>Als de beroepsindiener nalaat de ontbrekende gegevens of documenten binnen de termijn, vermeld in het tweede lid, aan het beroep toe te voegen, wordt het beroep als onvolledig beschouwd.</p>
+
+### ART 57/1.
+
+Beroepen inzake omgevingsvergunningen die uitsluitend kleinhandelsactiviteiten omvatten en die louter gebaseerd zijn op economische criteria in functie van economische doelstellingen, zijn onontvankelijk.
 
 ### ART. 58.
 
@@ -479,7 +555,11 @@ Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   termij
 
 ### ART. 60.
 
-<P>In de gevallen die de Vlaamse Regering bepaalt, vraagt de bevoegde overheid,   vermeld in artikel 52, of de door haar gemachtigde ambtenaar het advies van de   provinciale of de gewestelijke omgevingsvergunningscommissie, vermeld in artikel   16, § 1. De provinciale of de gewestelijke omgevingsvergunningscommissie vraagt   de adviesinstanties, vermeld in artikel 59, eerste lid, en in voorkomend geval   het college van burgemeester en schepenen of de gemeentelijke   omgevingsambtenaar, vermeld in artikel 59, tweede lid, om advies.<BR></P>  <P>Als geen advies van een omgevingsvergunningscommissie, vermeld in artikel 16,   § 1, vereist is, vraagt de bevoegde overheid, vermeld in artikel 52, of de door   haar gemachtigde ambtenaar de adviesinstanties, vermeld in artikel 59, eerste   lid, en in voorkomend geval het college van burgemeester en schepenen of de   gemeentelijke omgevingsambtenaar, vermeld in artikel 59, tweede lid, om   advies.<BR></P>  <P>Als met toepassing van het eerste lid een advies van een   omgevingsvergunningscommissie, vermeld in artikel 16, § 1, vereist is, verlenen   de adviesinstanties, vermeld in artikel 59, eerste lid, en in voorkomend geval   het college van burgemeester en schepenen of de gemeentelijke   omgevingsambtenaar, vermeld in artikel 59, tweede lid, hun advies aan de   omgevingsvergunningscommissie. De voormelde commissie verleent een geïntegreerd   advies.<BR></P>
+<p>In de gevallen die de Vlaamse Regering bepaalt, vraagt de bevoegde overheid, vermeld in artikel 52, de provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde het advies van de provinciale of de gewestelijke omgevingsvergunningscommissie, vermeld in artikel 16, § 1. De provinciale of de gewestelijke omgevingsvergunningscommissie vraagt de adviesinstanties, vermeld in artikel 59, eerste lid, en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 59, tweede lid, om advies.</p>
+
+<p>Als geen advies van een omgevingsvergunningscommissie, vermeld in artikel 16, § 1, vereist is, vraagt de bevoegde overheid, vermeld in artikel 52, de provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde de adviesinstanties, vermeld in artikel 59, eerste lid, en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 59, tweede lid, om advies.</p>
+
+<p>Als met toepassing van het eerste lid een advies van een omgevingsvergunningscommissie, vermeld in artikel 16, § 1, vereist is, verlenen de adviesinstanties, vermeld in artikel 59, eerste lid, en in voorkomend geval het college van burgemeester en schepenen of de gemeentelijke omgevingsambtenaar, vermeld in artikel 59, tweede lid, hun advies aan de omgevingsvergunningscommissie. De voormelde commissie verleent een geïntegreerd advies.</p>
 
 ### ART. 61.
 
@@ -487,11 +567,27 @@ Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   termij
 
 ### ART. 62.
 
-<P>De vergunningsaanvrager alsook elke beroepsindiener kan in tweede   administratieve aanleg vragen om gehoord te worden door:<BR>1° de provinciale of   de gewestelijke omgevingsvergunningscommissie, als een advies van een   omgevingsvergunningscommissie vereist is;<BR>2° de bevoegde overheid, de door   haar gemachtigde ambtenaar of de gewestelijke omgevingsambtenaar, als een advies   van een omgevingsvergunningscommissie niet vereist is.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen inzake de organisatie van en de   vertegenwoordiging op de hoorzitting.<BR></P>
+<p>De vergunningsaanvrager alsook elke beroepsindiener kan in tweede administratieve aanleg vragen om gehoord te worden door:<br>
+1° de provinciale of de gewestelijke omgevingsvergunningscommissie, als een advies van een omgevingsvergunningscommissie vereist is;<br>
+2° de bevoegde overheid of de provinciale of gewestelijke omgevingsambtenaar, als een advies van een omgevingsvergunningscommissie niet vereist is.</p>
+
+<p>De Vlaamse Regering kan nadere regels bepalen inzake de organisatie van en de vertegenwoordiging op de hoorzitting.</p>
 
 ### ART. 63.
 
 &nbsp;De bevoegde overheid, vermeld in artikel 52, onderzoekt de   vergunningsaanvraag in haar totaliteit.<BR>
+
+### ART 63/1.
+
+Als de deputatie de bevoegde overheid is en er geen advies van een omgevingsvergunningscommissie vereist is, maakt de provinciale omgevingsambtenaar voor elke beslissing over een beroep een verslag op, dat deel uitmaakt van het vergunningendossier. Het verslag toetst de aanvraag, in voorkomend geval, aan de beoordelingsgronden, bepaald bij of krachtens:<br>
+1° titel IV van de VCRO;<br>
+2° titel V van het DABM;<br>
+3° het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+4° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.<br>
+<br>
+Het verslag omvat, in voorkomend geval, een voorstel van antwoord op de standpunten, opmerkingen en bezwaren die zijn ingediend tijdens het eventuele openbaar onderzoek.<br>
+<br>
+De provinciale omgevingsambtenaar stelt dit verslag ter beschikking van de deputatie uiterlijk tien dagen voor het verstrijken van de vastgestelde of in voorkomend geval verlengde beslissingstermijn. De deputatie geeft in haar motivering van de beslissing aan op welke wijze rekening wordt gehouden met het verslag. Als geen verslag wordt uitgebracht binnen de vastgestelde of in voorkomend geval verlengde termijn, kan de deputatie aan de vereiste van een verslag voorbijgaan.
 
 ### ART. 64.
 
@@ -538,9 +634,9 @@ De Vlaamse Regering bepaalt de nadere regels voor de procedure in laatste   admi
 
 ### ART. 68.
 
-<p>De omgevingsvergunning geldt voor onbepaalde duur.</p>
-
-<p>In afwijking van het eerste lid kan de bevoegde overheid een omgevingsvergunning geheel of gedeeltelijk voor een bepaalde duur verlenen in de volgende gevallen:<br>
+<p>De omgevingsvergunning geldt voor onbepaalde duur.<br>
+<br>
+In afwijking van het eerste lid kan de bevoegde overheid een omgevingsvergunning geheel of gedeeltelijk voor een bepaalde duur verlenen in de volgende gevallen:<br>
 1° op verzoek van de vergunningsaanvrager;<br>
 2° voor projecten die uitsluitend tijdelijke inrichtingen of activiteiten omvatten, vermeld in artikel 5.2.1, § 2, tweede lid, van het DABM;<br>
 3° als de exploitatie betrekking heeft op een grondwaterwinning of een ontginning;<br>
@@ -551,11 +647,12 @@ De Vlaamse Regering bepaalt de nadere regels voor de procedure in laatste   admi
 a) de localiseerbare gebiedsspecifieke ontwikkelingsperspectieven opgenomen in een voorafgaand aan de indiening van de aanvraag om omgevingsvergunning definitief vastgesteld ruimtelijk structuurplan of ruimtelijk beleidsplan;<br>
 b) de stedenbouwkundige voorschriften van een ruimtelijk uitvoeringsplan;<br>
 8° voor constructies die door de aard ervan een tijdelijk karakter hebben;<br>
-9° voor veranderingen van de exploitatie van een ingedeelde inrichting of activiteit waarvoor de initiële omgevingsvergunning voor een bepaalde duur is verleend.</p>
-
-<p>De vergunning van bepaalde duur die verleend wordt op basis van het tweede lid, 7°, a), wordt geacht voor onbepaalde duur te zijn verleend als bij het verstrijken van de duur van de vergunning de gebiedsspecifieke ontwikkelingsperspectieven niet zijn verankerd in een definitief vastgesteld ruimtelijk uitvoeringsplan.</p>
-
-<p>De Vlaamse Regering kan voor de toepassing van het tweede lid de minimale en maximale geldigheidsduur van de omgevingsvergunning vaststellen.</p>
+9° voor veranderingen van de exploitatie van een ingedeelde inrichting of activiteit waarvoor de initiële omgevingsvergunning voor een bepaalde duur is verleend;<br>
+10° voor projecten die kleinhandelsactiviteiten omvatten en voor niet langer dan 12 maanden vergund worden in een bestaand, vergund of hoofdzakelijk vergund gebouw of in tijdelijke vergunde of van vergunning vrijgestelde constructies.<br>
+<br>
+De vergunning van bepaalde duur die verleend wordt op basis van het tweede lid, 7°, a), wordt geacht voor onbepaalde duur te zijn verleend als bij het verstrijken van de duur van de vergunning de gebiedsspecifieke ontwikkelingsperspectieven niet zijn verankerd in een definitief vastgesteld ruimtelijk uitvoeringsplan.<br>
+<br>
+De Vlaamse Regering kan voor de toepassing van het tweede lid de minimale en maximale geldigheidsduur van de omgevingsvergunning vaststellen.</p>
 
 ## Afdeling 2 Bijzondere bepalingen voor omgevingsvergunningen van bepaalde duur
 
@@ -599,6 +696,14 @@ Met behoud van de toepassing van de algemene en sectorale   milieuvoorwaarden, v
 
 <P>§ 1. De bijzondere milieuvoorwaarden, vermeld in artikel 72, bevatten de   bijkomende maatregelen die noodzakelijk zijn voor de bescherming van de mens en   het milieu tegen onaanvaardbare risico's en hinder afkomstig van de   exploitatie.<BR></P>  <P>De bijzondere milieuvoorwaarden kunnen onder meer bestaan uit een   verplichting:<BR>1° om een studie uit te voeren of te voorzien in een monitoring   met als doel de toepassing van de bijzondere milieuvoorwaarden te   controleren;<BR>2° om lastens de exploitant een saneringscontract als vermeld in   artikel 32septies, § 4 en § 5, van de wet van 26 maart 1971 op de bescherming   van de oppervlaktewateren tegen verontreiniging af te sluiten. Het afsluiten van   dat saneringscontract kan verwezenlijkt worden door toedoen van de exploitant,   met name door zelf de procedure op te starten. De Vlaamse Regering stelt   daarvoor de nadere regels vast.<BR></P>  <P>§ 2. Als beste beschikbare technieken bestaan, vormen ze de referentie voor   de vaststelling van de bijzondere milieuvoorwaarden.<BR></P>  <P>In afwijking van het eerste lid, kan de bevoegde overheid volgens de criteria   die door de Vlaamse Regering worden bepaald, strengere bijzondere   milieuvoorwaarden vaststellen dan die welke haalbaar zijn door gebruik te maken   van de beste beschikbare technieken. De Vlaamse Regering bepaalt de wijze waarop   de beste beschikbare technieken vastgesteld worden.<BR></P>
 
+### ART 73/1.
+
+De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van kleinhandelsactiviteiten.
+
+### ART 73/2.
+
+De bevoegde overheid kan voorwaarden verbinden aan de uitvoering van het wijzigen van de vegetatie ervan.
+
 ### ART. 74.
 
 <P>Alle voorwaarden zijn voldoende precies en redelijk in verhouding tot het   vergunde project.<BR></P>  <P>Ze kunnen worden verwezenlijkt door toedoen van de aanvrager, bouwheer,   gebruiker of exploitant.<BR></P>
@@ -607,7 +712,17 @@ Met behoud van de toepassing van de algemene en sectorale   milieuvoorwaarden, v
 
 ### ART. 75.
 
-<P>De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden. Die   lasten vinden hun oorsprong in het voordeel dat de begunstigde van de   omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de   overheid door de uitvoering van de vergunning op zich moet nemen.<BR></P>  <P>Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder   meer betrekking hebben op:<BR>1° de verwezenlijking of de renovatie van groene   ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur met het   oog op een verbetering van de mobiliteit, nutsvoorzieningen of woningen op   kosten van de vergunninghouder. Vooraleer lasten op te leggen met betrekking tot   nutsvoorzieningen worden de nutsmaatschappijen die actief zijn in de gemeente   waarin het voorwerp van de vergunning gelegen is, door de bevoegde overheid, de   door haar gemachtigde ambtenaar of in voorkomend geval de gemeentelijke   omgevingsambtenaar om advies verzocht. Hierbij wordt gestreefd naar het   gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van   deze aanleg maximaal wordt beperkt;<BR>2° de bewerkstelliging van een vermenging   van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke   groepen op grond van de grootte van de kavels, respectievelijk de typologie, de   kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen   die erop opgericht worden, of van de op te stellen vaste of verplaatsbare   constructies die voor bewoning kunnen worden gebruikt.<BR></P>  <P>Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid   gratis, vrij en onbelast de eigendom wordt overgedragen van de in de   vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten,   openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen   worden aangelegd.<BR></P>  <P>Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 4.2.5 van   het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, verbindt   de vergunningverlenende overheid van rechtswege een last aan de   omgevingsvergunning met het oog op de verwezenlijking van een bescheiden   woonaanbod.<BR></P>  <P>Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan   hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie   waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de   lasten afzonderlijk.<BR></P>
+<p>De bevoegde overheid kan aan een omgevingsvergunning lasten verbinden. Die lasten vinden hun oorsprong in het voordeel dat de begunstigde van de omgevingsvergunning uit die vergunning haalt en in de bijkomende taken die de overheid door de uitvoering van de vergunning op zich moet nemen.</p>
+
+<p>Buiten het voorzien in de nodige financiële waarborgen kunnen lasten onder meer betrekking hebben op:<br>
+1° de verwezenlijking of de renovatie van groene ruimten, ruimten voor openbaar nut, openbare gebouwen, infrastructuur met het oog op een verbetering van de mobiliteit, nutsvoorzieningen of woningen op kosten van de vergunninghouder. Vooraleer lasten op te leggen met betrekking tot nutsvoorzieningen worden de nutsmaatschappijen die actief zijn in de gemeente waarin het voorwerp van de vergunning gelegen is, door de bevoegde overheid,&nbsp;de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar of de door hem gemachtigde om advies verzocht. Hierbij wordt gestreefd naar het gelijktijdig aanleggen van nutsvoorzieningen, waardoor de hinder ten gevolge van deze aanleg maximaal wordt beperkt;<br>
+2° de bewerkstelliging van een vermenging van kavels die tegemoetkomen aan de behoeften van diverse maatschappelijke groepen op grond van de grootte van de kavels, respectievelijk de typologie, de kwaliteit, de vloeroppervlakte, het volume of de lokalenindeling van de woningen die erop opgericht worden, of van de op te stellen vaste of verplaatsbare constructies die voor bewoning kunnen worden gebruikt.</p>
+
+<p>Lasten kunnen ook inhouden dat als de werken zijn begonnen, aan de overheid gratis, vrij en onbelast de eigendom wordt overgedragen van de in de vergunningsaanvraag vermelde openbare wegen, groene of verharde ruimten, openbare gebouwen, nutsvoorzieningen, of de gronden waarop die worden of zullen worden aangelegd.</p>
+
+<p>Als voldaan is aan de uitsluitende voorwaarde, vermeld in artikel 4.2.5 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid, verbindt de vergunningverlenende overheid van rechtswege een last aan de omgevingsvergunning met het oog op de verwezenlijking van een bescheiden woonaanbod.</p>
+
+<p>Als de uitvoering van diverse lasten financieel moet worden gewaarborgd, dan hanteert het bestuur één waarborg voor de totaliteit van de lasten in kwestie waarbij aangegeven wordt welk waarborggedeelte betrekking heeft op elk van de lasten afzonderlijk.</p>
 
 ### ART. 76.
 
@@ -711,7 +826,15 @@ Dit bezwaar geeft duidelijk aan dat het bezwaar afkomstig is van een eigenaar va
 
 ### ART. 87.
 
-<P>§ 1. De bevoegde overheid, vermeld in artikel 15, de door haar gemachtigde   ambtenaar of de gemeentelijke omgevingsambtenaar onderzoekt de ontvankelijkheid   en volledigheid van het verzoek tot bijstelling van de   omgevingsvergunning.<BR></P>  <P>Voor elk ambtshalve initiatief en elk verzoek tot bijstelling, vermeld in   artikel 83, § 1, 1°, respectievelijk 83, § 1, 2°, b), dat niet de individuele   toepassing van een door de Vlaamse Regering ter bescherming van de mens en het   milieu goedgekeurd programma of plan als voorwerp heeft, evenals voor elk   verzoek, vermeld in artikel 83, § 1, 2°, a), wordt door de   omgevingsvergunningscommissie onderzocht of de aangevoerde motieven tot   bijstelling kennelijk ongegrond zijn. Als de omgevingsvergunningscommissie bij   haar onderzoek vaststelt dat het ambtshalve initiatief of het verzoek tot   bijstelling uitsluitend gebaseerd is op motieven die kennelijk ongegrond zijn,   wordt de procedure tot bijstelling definitief stopgezet.<BR></P>  <P>§ 2. Het resultaat van het onderzoek, vermeld in paragraaf 1, eerste lid, en   indien van toepassing, het resultaat van het onderzoek, vermeld in paragraaf 1,   tweede lid, wordt bij beveiligde zending aan de verzoeker of aan het   bestuursorgaan dat het ambtshalve initiatief heeft genomen, meegedeeld binnen   een termijn van vijftig dagen vanaf de dag na de datum waarop het verzoek is   ingediend.<BR></P>  <P>De exploitant van de ingedeelde inrichting of activiteit wordt op dezelfde   dag van de mededeling waarvan sprake in het eerste lid, op de hoogte gebracht   van elk verzoek tot bijstelling dat hij niet zelf heeft ingediend evenals van   elk initiatief tot ambtshalve bijstelling, voor zover ze niet onontvankelijk,   onvolledig of indien van toepassing kennelijk ongegrond werden bevonden.<BR></P>  <P>§ 3. Als het verzoek tot bijstelling van de omgevingsvergunning niet bij de   bevoegde overheid werd ingediend, is artikel 22 van overeenkomstige   toepassing.<BR></P>
+<p>§ 1. De bevoegde overheid, vermeld in artikel 15,&nbsp;of de gemeentelijke, provinciale of gewestelijke omgevingsambtenaar onderzoekt de ontvankelijkheid en volledigheid van het verzoek tot bijstelling van de omgevingsvergunning.</p>
+
+<p>Voor elk ambtshalve initiatief en elk verzoek tot bijstelling, vermeld in artikel 83, § 1, 1°, respectievelijk 83, § 1, 2°, b), dat niet de individuele toepassing van een door de Vlaamse Regering ter bescherming van de mens en het milieu goedgekeurd programma of plan als voorwerp heeft, evenals voor elk verzoek, vermeld in artikel 83, § 1, 2°, a), wordt door de omgevingsvergunningscommissie onderzocht of de aangevoerde motieven tot bijstelling kennelijk ongegrond zijn. Als de omgevingsvergunningscommissie bij haar onderzoek vaststelt dat het ambtshalve initiatief of het verzoek tot bijstelling uitsluitend gebaseerd is op motieven die kennelijk ongegrond zijn, wordt de procedure tot bijstelling definitief stopgezet.</p>
+
+<p>§ 2. Het resultaat van het onderzoek, vermeld in paragraaf 1, eerste lid, en indien van toepassing, het resultaat van het onderzoek, vermeld in paragraaf 1, tweede lid, wordt bij beveiligde zending aan de verzoeker of aan het bestuursorgaan dat het ambtshalve initiatief heeft genomen, meegedeeld binnen een termijn van vijftig dagen vanaf de dag na de datum waarop het verzoek is ingediend.</p>
+
+<p>De exploitant van de ingedeelde inrichting of activiteit wordt op dezelfde dag van de mededeling waarvan sprake in het eerste lid, op de hoogte gebracht van elk verzoek tot bijstelling dat hij niet zelf heeft ingediend evenals van elk initiatief tot ambtshalve bijstelling, voor zover ze niet onontvankelijk, onvolledig of indien van toepassing kennelijk ongegrond werden bevonden.</p>
+
+<p>§ 3. Als het verzoek tot bijstelling van de omgevingsvergunning niet bij de bevoegde overheid werd ingediend, is artikel 22 van overeenkomstige toepassing.</p>
 
 ## Onderafdeling 2 Onderzoek van het verzoek en het initiatief tot ambtshalve bijstelling van de omgevingsvergunning
 
@@ -783,7 +906,8 @@ De Vlaamse Regering kan nadere regels bepalen voor de schorsing of   opheffing v
 1° als de verwezenlijking van de vergunde stedenbouwkundige handelingen niet wordt gestart binnen de twee jaar na het verlenen van de definitieve omgevingsvergunning;<br>
 2° als het uitvoeren van de vergunde stedenbouwkundige handelingen meer dan drie opeenvolgende jaren wordt onderbroken;<br>
 3° als de vergunde gebouwen niet winddicht zijn binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning;<br>
-4° als de exploitatie van de vergunde activiteit of inrichting niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangt.<br>
+4° als de exploitatie van de vergunde activiteit of inrichting niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangt;<br>
+5° als de kleinhandelsactiviteiten niet binnen vijf jaar na het verlenen van de definitieve omgevingsvergunning aanvangen.<br>
 <br>
 De termijn, vermeld in het eerste lid, 1°, kan evenwel, op verzoek van de vergunninghouder, voor een periode van twee jaar verlengd worden als hij aantoont dat de niet-verwezenlijking het gevolg is van een vreemde oorzaak die hem niet kan worden toegerekend. De vergunninghouder dient de aanvraag van de verlenging, op straffe van verval, met een beveiligde zending en minstens drie maanden vóór het verstrijken van de oorspronkelijke vervaltermijn van twee jaar in bij de overheid die de vergunning heeft verleend. Die overheid weigert de aanvraag van de verlenging alleen als:<br>
 1° er geen sprake is van een vreemde oorzaak die niet aan de vergunninghouder kan worden toegerekend;<br>
@@ -796,7 +920,11 @@ De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de 
 <p>§ 2. De omgevingsvergunning voor de exploitatie van een ingedeelde inrichting of activiteit vervalt van rechtswege in elk van de volgende gevallen:<br>
 1° als de exploitatie van de vergunde activiteit of inrichting meer dan vijf opeenvolgende jaren wordt onderbroken;<br>
 2° als de ingedeelde inrichting vernield is wegens brand of ontploffing veroorzaakt ten gevolge van de exploitatie;<br>
-3° als de exploitatie op vrijwillige basis volledig en definitief wordt stopgezet overeenkomstig de voorwaarden en de regels, vermeld in het decreet van 9 maart 2001 tot regeling van de vrijwillige, volledige en definitieve stopzetting van de productie van alle dierlijke mest, afkomstig van een of meerdere diersoorten, en de uitvoeringsbesluiten ervan. De Vlaamse Regering kan nadere regels bepalen voor de inkennisstelling van de stopzetting.</p>
+3° als de exploitatie op vrijwillige basis volledig en definitief wordt stopgezet overeenkomstig de voorwaarden en de regels, vermeld in het decreet van 9 maart 2001 tot regeling van de vrijwillige, volledige en definitieve stopzetting van de productie van alle dierlijke mest, afkomstig van een of meerdere diersoorten, en de uitvoeringsbesluiten ervan. De Vlaamse Regering kan nadere regels bepalen voor de inkennisstelling van de stopzetting.<br>
+<br>
+§ 2/1. De omgevingsvergunning voor het uitvoeren van kleinhandelsactiviteiten vervalt van rechtswege als de kleinhandelsactiviteiten meer dan vijf opeenvolgende jaren worden onderbroken.<br>
+<br>
+§ 2/2. De omgevingsvergunning voor het wijzigen van de vegetatie vervalt van rechtswege als het wijzigen van de vegetatie niet binnen twee jaar na het verlenen van de definitieve omgevingsvergunning aanvangt.</p>
 
 <p>§ 3. Als de gevallen, vermeld in paragraaf 1, betrekking hebben op een gedeelte van het bouwproject, vervalt de omgevingsvergunning alleen voor het niet-afgewerkte gedeelte van een bouwproject. Een gedeelte is eerst afgewerkt als het, in voorkomend geval na de sloping van de niet-afgewerkte gedeelten, kan worden beschouwd als een afzonderlijke constructie die voldoet aan de bouwfysische vereisten.</p>
 
@@ -844,7 +972,9 @@ De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102,   worden g
 3° de leidend ambtenaar van de adviesinstanties, vermeld in artikel 24 of in artikel 42 of bij zijn afwezigheid zijn gemachtigde, als die instantie tijdig advies heeft verstrekt of als aan hem ten onrechte niet om advies werd verzocht;<br>
 4° het college van burgemeester en schepenen als het tijdig advies heeft verstrekt of als het ten onrechte niet om advies werd verzocht;<br>
 5° ...;<br>
-6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde.</p>
+6° de leidend ambtenaar van het Departement Omgeving of, bij zijn afwezigheid, zijn gemachtigde;<br>
+7° de leidend ambtenaar van het Agentschap Innoveren en Ondernemen of bij zijn afwezigheid zijn gemachtigde, als het project vergunningsplichtige kleinhandelsactiviteiten omvat;<br>
+8° de leidend ambtenaar van het agentschap, bevoegd voor natuur en bos, of, bij zijn afwezigheid, zijn gemachtigde als het project vergunningsplichtige wijzigingen van de vegetatie omvat.</p>
 
 <p>De persoon aan wie kan worden verweten dat hij een voor hem nadelige vergunningsbeslissing niet heeft bestreden door middel van het daartoe openstaande georganiseerd administratief beroep bij de bevoegde overheid, vermeld in artikel 52, wordt geacht te hebben verzaakt aan zijn recht om zich tot de Raad voor Vergunningsbetwistingen te wenden.<br>
 <br>
@@ -864,9 +994,7 @@ De bevoegde overheid, vermeld in artikel 15, die nagelaten heeft een uitdrukkeli
 
 ### ART. 106.
 
-De melding wordt gedaan zowel voor de meldingsplichtige stedenbouwkundige handelingen als voor de meldingsplichtige exploitatie van ingedeelde inrichtingen of activiteiten die het project omvat.<br>
-<br>
-Als een project elementen bevat die onderworpen zijn zowel aan een meldingsplicht als aan een vergunningsplicht, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, dan omvat de vergunningsaanvraag de melding. Als bepaalde aspecten van een meldingsplichtig project, vermeld in de melding, onderworpen zijn aan de vergunningsplicht is de melding onontvankelijk en moet een vergunningsaanvraag worden ingediend.
+Een melding kan slechts gedaan worden voor meldingsplichtige stedenbouwkundige handelingen, een meldingsplichtige exploitatie van ingedeelde inrichtingen of activiteiten die het project omvat of een combinatie hiervan.
 
 ### ART. 107.
 
