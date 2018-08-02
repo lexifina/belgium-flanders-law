@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029547,
+  "title": "Decreet van 2018-06-22 houdende diverse wijzigingen van het Bosdecreet van 13 juni 1990 en het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029547/VolledigDocument?datum=2018-08-02",
+  "source_sha256": "e38554a3241a8e64da9cd3db8f0cd3a23baa91d0ee792f6e80ea12f384228113",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029547&param=informatie",
+  "as_of": "2018-08-02",
+  "made": "2018-06-22",
+  "gazette": "2018-07-23",
+  "numac": 2018031412,
+  "document_start": "2018-08-02",
+  "document_end": null,
+  "in_force": "2018-08-02",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
