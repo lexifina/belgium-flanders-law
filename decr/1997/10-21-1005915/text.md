@@ -279,9 +279,11 @@ De sociale functie van een terrein dat beheerd wordt ten behoeve van het natuurb
 2° een bos;<br>
 3° een terrein dat beheerd wordt ten behoeve van het natuurbehoud en dat werd aangekocht of waarop een zakelijk of persoonlijk recht werd verworven, in beide gevallen met financiële tussenkomst van een administratieve overheid in uitvoering van dit decreet.<br>
 <br>
+In afwijking van het eerste lid zijn natuurdomeinen onbeperkt toegankelijk voor voetgangers.<br>
+<br>
 Met de voetganger wordt gelijkgesteld, de rolstoelgebruikers en de fietsers jonger dan 9 jaar.<br>
 <br>
-§ 2. Een terrein als vermeld in paragraaf 1, eerste lid, kan door de beheerder geheel of gedeeltelijk ontoegankelijk worden gesteld, met uitzondering van de openbare wegen. De ontoegankelijkheid kan van bepaalde duur of van onbepaalde duur zijn en kan betrekking hebben op een of meer categorieën van gebruikers.<br>
+§ 2. Een terrein als vermeld in paragraaf 1, eerste en tweede lid, kan door de beheerder geheel of gedeeltelijk ontoegankelijk worden gesteld, met uitzondering van de openbare wegen. De ontoegankelijkheid kan van bepaalde duur of van onbepaalde duur zijn en kan betrekking hebben op een of meer categorieën van gebruikers.<br>
 <br>
 In een openbaar terrein dat beheerd wordt ten behoeve van het natuurbehoud kan de beheerder ook de minder belangrijke openbare wegen ontoegankelijk stellen. Als minder belangrijke openbare wegen worden beschouwd: alle openbare of gedeelten van openbare wegen, met uitzondering van die openbare wegen die ingericht zijn voor het gewone gemotoriseerde verkeer en die in hoofdzaak bestemd zijn als doorgangsweg.<br>
 <br>
@@ -307,13 +309,14 @@ De Vlaamse Regering bepaalt de categorieën van andere gebruikers dan voetganger
 
 ### ART. 12octies.
 
-§ 1. De toegankelijkheid van een terrein als vermeld in artikel 12septies, § 1, eerste lid, wordt vastgesteld in een toegankelijkheidsregeling. Die regeling mag niet strijdig zijn met de inhoud van het natuurbeheerplan of met de bepalingen van dit decreet.<br>
+§ 1. De toegankelijkheid van een terrein als vermeld in artikel 12septies, § 1, eerste en tweede lid, wordt vastgesteld in een toegankelijkheidsregeling. Die regeling mag niet strijdig zijn met de inhoud van het natuurbeheerplan of met de bepalingen van dit decreet.<br>
 <br>
 In de volgende gevallen hoeft geen toegankelijkheidsregeling te worden vastgesteld:<br>
 1° in een terrein als vermeld in artikel 12septies, § 1, eerste lid, waar de toegankelijkheid beperkt blijft tot het verlenen van toegang voor voetgangers op de openbare en de private wegen als vermeld in artikel 12septies, § 1;<br>
-2° in een privaat terrein als vermeld in artikel 12 septies, § 1, eerste lid, waar het terrein ontoegankelijk is gesteld zoals vermeld in artikel 12septies, § 2, eerste lid.<br>
+2° in een privaat terrein als vermeld in artikel 12 septies, § 1, eerste lid, waar het terrein ontoegankelijk is gesteld zoals vermeld in artikel 12septies, § 2, eerste lid;<br>
+3° in een natuurdomein als vermeld in artikel 12septies, § 1, tweede lid, dat in zijn geheel onbeperkt toegankelijk is voor voetgangers.<br>
 <br>
-In andere terreinen dan deze vermeld in artikel 12septies, § 1, eerste lid, kan een toegankelijkheidsregeling opgesteld worden als er voor dat terrein een goedgekeurd natuurbeheerplan is.<br>
+In andere terreinen dan deze vermeld in artikel 12septies, § 1, eerste en tweede&nbsp;lid, kan een toegankelijkheidsregeling opgesteld worden als er voor dat terrein een goedgekeurd natuurbeheerplan is.<br>
 <br>
 § 2. Een toegankelijkheidsregeling kan opgemaakt worden door de beheerder of een groep van beheerder, met de instemming van de eigenaars.<br>
 <br>
@@ -328,7 +331,7 @@ De Vlaamse Regering of haar gemachtigde beslist over de aanvragen van de goedkeu
 
 ### ART. 12novies.
 
-In een terrein als vermeld in artikel 12septies, § 1, eerste lid, is geen enkele vorm van gemotoriseerd verkeer toegelaten, uitgezonderd op de openbare wegen die ingericht zijn voor het gewone gemotoriseerd verkeer en in hoofdzaak bestemd zijn als doorgangsweg.<br>
+In een terrein als vermeld in artikel 12septies, § 1, eerste en tweede&nbsp;lid, is geen enkele vorm van gemotoriseerd verkeer toegelaten, uitgezonderd op de openbare wegen die ingericht zijn voor het gewone gemotoriseerd verkeer en in hoofdzaak bestemd zijn als doorgangsweg.<br>
 <br>
 Het verbod, vermeld in het eerste lid, geldt niet voor gemotoriseerd verkeer dat nodig is voor:<br>
 1° het uitvoeren van beheeractiviteiten, inclusief jacht- en bestrijdingsactiviteiten overeenkomstig de jachtregelgeving of de regelgeving inzake soortenbeheer;<br>
