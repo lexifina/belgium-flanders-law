@@ -2,16 +2,16 @@
   "codex_id": 1021895,
   "title": "Decreet van 2012-06-15 betreffende de in-, uit-, doorvoer en overbrenging van defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal, ordehandhavingsmateriaal, civiele vuurwapens, onderdelen en munitie (citeeropschrift: \"Wapenhandeldecreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021895/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "b8d1796fe1c9689676f7af1d782dc6266c4efe5dbca96a1bc527cfa335ecbe34",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021895/VolledigDocument?datum=2018-08-03",
+  "source_sha256": "2c243438b40df0861c5d28d02af8bc8e18512013c867d4c55e5ea7ebbaf9a757",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021895&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2018-08-03",
   "made": "2012-06-15",
   "gazette": "2012-07-04",
   "numac": 2012035751,
   "document_start": "2012-06-30",
   "document_end": "2027-12-30",
-  "in_force": "2018-05-25",
-  "article_versions": 56,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-08-03",
+  "article_versions": 57,
+  "record_form": "consolidated version as in force on 2018-08-03; future article versions excluded; article text as the API gives it"
 }
