@@ -249,7 +249,8 @@ Zij bepaalt de nadere materiële en formele ondersteuningsvoorwaarden, de mogeli
 
 ### ART. 3.1.3.
 
-Een kredietgever die een renovatieovereenkomst sluit, geniet onder de voorwaarden, vermeld in dit hoofdstuk, een jaarlijkse belastingvermindering.<br /><br />
+Een kredietgever die uiterlijk op 31 december 2018 een renovatieovereenkomst sluit, geniet onder de voorwaarden, vermeld in dit hoofdstuk, een jaarlijkse belastingvermindering.<br>
+&nbsp;
 
 ### ART. 3.1.4.
 
