@@ -10,15 +10,25 @@
 
 ### ART 3.
 
-<p>De Vlaamse Regering stelt de nadere regels vast voor de oplegging van administratieve sancties als vermeld in artikel 24, § 2, van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst), en voor de uitvoering ervan.<br>
+<p>§ 1. De Vlaamse Regering stelt de nadere regels vast voor de oplegging van administratieve sancties als vermeld in artikel 24, § 2, van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst), en voor de uitvoering ervan.<br>
 <br>
-Tegen een administratieve sanctie als vermeld in het eerste lid, kan, op straffe van verval, binnen een termijn van twee maanden vanaf de kennisneming van de beslissing beroep worden aangetekend bij de rechtbank van eerste aanleg van het rechtsgebied waar de betrokken persoon zijn woonplaats of maatschappelijke zetel heeft.<br>
+§ 2. Tegen een administratieve sanctie als vermeld in paragraaf 1, kan, op straffe van verval, binnen een termijn van twee maanden vanaf de kennisneming van de beslissing beroep worden aangetekend bij de rechtbank van eerste aanleg van het rechtsgebied waar de betrokken persoon zijn woonplaats of maatschappelijke zetel heeft.<br>
 <br>
 Als de betrokken persoon geen woonplaats of maatschappelijke zetel in België heeft, wordt het beroep aangetekend bij de Nederlandstalige rechtbank van eerste aanleg van Brussel.<br>
 <br>
 Titel Vbis van boek II van het vierde deel van het Gerechtelijk Wetboek is van overeenkomstige toepassing.<br>
 <br>
-Het beroep schorst de uitvoering van de beslissing.</p>
+Het beroep schorst de uitvoering van de beslissing.<br>
+<br>
+§ 3. Bij verzachtende omstandigheden kan bij het opleggen van de geldboete, vermeld in paragraaf 1, het bedrag van de opgelegde geldboete worden verminderd, zelfs tot onder het toepasselijke minimumbedrag.<br>
+<br>
+§ 4. Op verzoek van de betrokken persoon kan de geldboete of het activiteitenverbod, vermeld in paragraaf 1, worden opgelegd met uitstel van tenuitvoerlegging gedurende een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen.<br>
+<br>
+Het uitstel, vermeld in het eerste lid, wordt van rechtswege herroepen als gedurende de proeftijd een nieuwe inbreuk als vermeld in het voormelde samenwerkingsakkoord en de uitvoeringsbesluiten ervan, is gepleegd, met een veroordeling tot een straf of het opleggen van een administratieve geldboete of activiteitenverbod tot gevolg.<br>
+<br>
+§ 5. De personeelsleden die met toepassing van artikel 46 van het Wapenhandeldecreet van 15 juni 2012 zijn aangewezen om toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan, houden ook toezicht op de naleving van het voormelde samenwerkingsakkoord en de uitvoeringsbesluiten ervan en zijn bevoegd om de inbreuken op het samenwerkingsakkoord en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een proces-verbaal.<br>
+<br>
+De bepalingen in artikel 46, § 1 en § 3, van het voormelde decreet zijn van overeenkomstige toepassing.</p>
 
 ### ART 4.
 
