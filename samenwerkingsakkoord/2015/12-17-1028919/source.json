@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028919,
+  "title": "Samenwerkingsakkoord van 2015-12-17 tot wijziging van het Samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst)",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028919/VolledigDocument?datum=2018-08-03",
+  "source_sha256": "d479c66347c5ccc9ebcf6bafba8fd3708f146db1b1e6ac267f493bb474fe1a33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028919&param=informatie",
+  "as_of": "2018-08-03",
+  "made": "2015-12-17",
+  "gazette": "2018-01-24",
+  "numac": 0,
+  "document_start": "2018-08-03",
+  "document_end": null,
+  "in_force": "2018-08-03",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
