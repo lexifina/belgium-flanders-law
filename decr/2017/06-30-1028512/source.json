@@ -2,16 +2,16 @@
   "codex_id": 1028512,
   "title": "Decreet van 2017-06-30 tot wijziging en optimalisatie van diverse bepalingen van het Wapenhandeldecreet van 15 juni 2012",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028512/VolledigDocument?datum=2017-08-13",
-  "source_sha256": "f66c233f8a7fc5f380db9485a13ca6e43920cfdbda32c9925c3645efcdd08468",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028512/VolledigDocument?datum=2018-08-03",
+  "source_sha256": "02f29d758f4bc3a28284a52f349dfe0d121b9bb1f12e9885c68728c3f3795f86",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028512&param=informatie",
-  "as_of": "2017-08-13",
+  "as_of": "2018-08-03",
   "made": "2017-06-30",
   "gazette": "2017-08-03",
   "numac": 2017030839,
   "document_start": "2017-08-13",
   "document_end": null,
-  "in_force": "2017-08-13",
-  "article_versions": 34,
-  "record_form": "consolidated version as in force on 2017-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-08-03",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2018-08-03; future article versions excluded; article text as the API gives it"
 }

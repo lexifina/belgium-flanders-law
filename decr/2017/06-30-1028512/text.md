@@ -332,6 +332,19 @@ Het beroep schorst de uitvoering van de beslissing.<br>
 <br>
 Het uitstel wordt van rechtswege herroepen als gedurende de proeftijd een nieuwe inbreuk als vermeld in dit decreet, is gepleegd, met een veroordeling tot een straf of het opleggen van een administratieve geldboete of activiteitenverbod tot gevolg.".
 
+### ART 32.
+
+In hetzelfde decreet wordt een artikel 48/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 48/1. Er wordt een Fonds Wapenhandelgerelateerde Boeten opgericht, hierna het fonds te noemen.<br>
+<br>
+Het fonds is een begrotingsfonds als vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+Het fonds wordt gespijsd door de invordering van de administratieve boeten, vermeld in artikel 48 van dit decreet, en artikel 24, § 2, van het samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst).<br>
+<br>
+Het fonds wordt aangewend voor het toezicht op de naleving van dit decreet, de uitvoering en de handhaving ervan, en voor initiatieven om de compliance van de Vlaamse defensie-industrie, wapenhandelaars en wapenbezitters te bevorderen, zoals informatiesessies en documentatiemateriaal.<br>
+<br>
+De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.".
+
 ### ART 33.
 
 In artikel 49, § 3, eerste lid, 5°, van hetzelfde decreet worden de woorden "vierde lid" vervangen door de woorden "tweede lid".
@@ -383,6 +396,26 @@ Per toegekende en geweigerde schriftelijke bevestiging wordt vervolgens een tech
 § 3/2. Maandelijks wordt een verslag met een overzicht van de in de afgelopen maand toegekende vrijstellingen en de toegekende en geweigerde vergunningen en verlengingen gepubliceerd op de website van de Vlaamse overheid.<br>
 <br>
 Het verslag, vermeld in het eerste lid, bevat dezelfde gegevens als de gegevens, vermeld in paragraaf 2.".
+
+### ART 35.
+
+In artikel 3 van het decreet van 8 juli 2016 houdende instemming met het samenwerkingsakkoord van 17 december 2015 tot wijziging van het samenwerkingsakkoord tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst), waarvan het bestaande eerste lid paragraaf 1 zal vormen en het bestaande tweede tot en met het vijfde lid paragraaf 2 zullen vormen, worden de volgende wijzigingen aangebracht:<br>
+1° in het bestaande tweede lid worden de woorden "het eerste lid" vervangen door de zinsnede "paragraaf 1";<br>
+<br>
+2° er worden een paragraaf 3 tot en met 5 toegevoegd, die luiden als volgt:<br>
+" § 3. Bij verzachtende omstandigheden kan bij het opleggen van de geldboete, vermeld in paragraaf 1, het bedrag van de opgelegde geldboete worden verminderd, zelfs tot onder het toepasselijke minimumbedrag.<br>
+<br>
+§ 4. Op verzoek van de betrokken persoon kan de geldboete of het activiteitenverbod, vermeld in paragraaf 1, worden opgelegd met uitstel van tenuitvoerlegging gedurende een proefperiode die niet minder dan een jaar en niet meer dan drie jaar mag bedragen.<br>
+<br>
+Het uitstel, vermeld in het eerste lid, wordt van rechtswege herroepen als gedurende de proeftijd een nieuwe inbreuk als vermeld in het voormelde samenwerkingsakkoord en de uitvoeringsbesluiten ervan, is gepleegd, met een veroordeling tot een straf of het opleggen van een administratieve geldboete of activiteitenverbod tot gevolg.<br>
+<br>
+§ 5. De personeelsleden die met toepassing van artikel 46 van het Wapenhandeldecreet van 15 juni 2012 zijn aangewezen om toezicht te houden op de naleving van het voormelde decreet en de uitvoeringsbesluiten ervan, houden ook toezicht op de naleving van het voormelde samenwerkingsakkoord en de uitvoeringsbesluiten ervan en zijn bevoegd om de inbreuken op het samenwerkingsakkoord en de uitvoeringsbesluiten ervan op te sporen en vast te stellen door een proces-verbaal.<br>
+<br>
+De bepalingen in artikel 46, § 1 en § 3, van het voormelde decreet zijn van overeenkomstige toepassing.".
+
+### ART 36.
+
+Artikel 19 van het decreet van 20 december 2013 houdende bepalingen tot begeleiding van de begroting 2014, gewijzigd bij het decreet van 8 juli 2016, wordt opgeheven.
 
 ### ART 37.
 
