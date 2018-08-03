@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029548,
+  "title": "Decreet van 2018-06-22 houdende de rationalisering van fiscale gunstmaatregelen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029548/VolledigDocument?datum=2018-08-03",
+  "source_sha256": "4a220a6a5a35564bf2cee7cd10d4ee0a9d7af3167dd7c9674291e2880a02c506",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029548&param=informatie",
+  "as_of": "2018-08-03",
+  "made": "2018-06-22",
+  "gazette": "2018-07-24",
+  "numac": 2018013015,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2018-08-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
