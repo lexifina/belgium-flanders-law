@@ -30,7 +30,17 @@ In dit decreet wordt verstaan onder:<BR>1° EVA: het privaatrechtelijk   vormgeg
 
 ### ART. 6.
 
-<P>De raad van bestuur van het EVA wordt als volgt samengesteld:<BR>1° acht   leden, onder wie de voorzitter, worden benoemd door de Vlaamse Regering, op   voordracht van de Vlaamse minister, bevoegd voor het gelijkekansenbeleid;<BR>2°   vijf leden worden benoemd door de Vlaamse Regering, op voordracht van de   provincies.<BR></P>  <P>Bij staking van stemmen is de stem van de voorzitter   doorslaggevend.<BR></P>
+§ 1. De raad van bestuur van het EVA is samengesteld uit de volgende leden:<br>
+1° zes leden, onder wie de voorzitter, die benoemd worden door de Vlaamse Regering, op voordracht van de Vlaamse minister, bevoegd voor het gelijkekansenbeleid;<br>
+2° één lid ter vertegenwoordiging van de Vlaamse provincies, dat wordt benoemd door de Vlaamse Regering, op voordacht van de Vereniging van de Vlaamse Provincies;<br>
+3° één lid ter vertegenwoordiging van de lokale besturen, dat wordt benoemd door de Vlaamse Regering, op voordacht van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+4° vijf onafhankelijke leden, die worden benoemd door de Vlaamse Regering, op voordracht van de raad van bestuur overeenkomstig de artikelen 4, 5, eerste tot en met vierde lid, en 6, van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector, tenzij anders bepaald in dit artikel.<br>
+<br>
+§ 2. Bij een volledig nieuwe samenstelling van de raad van bestuur worden eerst de leden, vermeld in paragraaf 1, 1° tot en met 3°, benoemd door de Vlaamse Regering. Die beperkt samengestelde raad van bestuur draagt nadien de onafhankelijke leden voor aan de Vlaamse Regering.<br>
+<br>
+§ 3. De artikelen 7 tot en met 9 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn van toepassing op de raad van bestuur.<br>
+<br>
+§ 4. Bij staking van stemmen is de stem van de voorzitter doorslaggevend.
 
 ### ART. 7.
 
