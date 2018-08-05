@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029573,
+  "title": "Decreet van 2018-07-06 tot wijziging van artikel 6 van het decreet van 28 maart 2014 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029573/VolledigDocument?datum=2018-08-05",
+  "source_sha256": "79390c90ce5152f593e2f6dfb5515714c0bc32d586d8313c836c9be9bf814456",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029573&param=informatie",
+  "as_of": "2018-08-05",
+  "made": "2018-07-06",
+  "gazette": "2018-07-26",
+  "numac": 2018013036,
+  "document_start": "2018-08-05",
+  "document_end": null,
+  "in_force": "2018-08-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
