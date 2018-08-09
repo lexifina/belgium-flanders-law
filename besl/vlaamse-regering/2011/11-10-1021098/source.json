@@ -2,16 +2,16 @@
   "codex_id": 1021098,
   "title": "Besluit van de Vlaamse Regering van 2011-11-10 betreffende de subsidiëring door het Fonds voor Wetenschappelijk Onderzoek - Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021098/VolledigDocument?datum=2018-03-05",
-  "source_sha256": "06b62bd02205f1609319dcb2c6fc78a7a576c1cb634724d71c0889d991076ade",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021098/VolledigDocument?datum=2018-08-09",
+  "source_sha256": "b5fd01d8995db0504d58699039a09696d555e24333e243c03975a4a398aa49b6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021098&param=informatie",
-  "as_of": "2018-03-05",
+  "as_of": "2018-08-09",
   "made": "2011-11-10",
   "gazette": "2011-12-20",
   "numac": 2011206269,
   "document_start": "2011-12-30",
   "document_end": null,
-  "in_force": "2018-03-05",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2018-03-05; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-08-09",
+  "article_versions": 51,
+  "record_form": "consolidated version as in force on 2018-08-09; future article versions excluded; article text as the API gives it"
 }
