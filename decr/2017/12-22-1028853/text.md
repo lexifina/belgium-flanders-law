@@ -88,7 +88,7 @@ De gedurende het begrotingsjaar 2018 gerealiseerde ontvangsten op het Klimaatfon
 
 ### ART 15.
 
-De gedurende het begrotingsjaar 2018 gerealiseerde ontvangsten op het Fonds Onroerende Goederen (middelen PH0-9PKCTQB-OW en PH0-9PKCTZZ-OI en uitgaven PH0-1PKC4PA-WT, PH0-1PKC4QA-WT en PH0-1PKC4QB-WT) worden gedesaffecteerd ten gunste van de algemene middelen van de Vlaamse Gemeenschap tot een bedrag van 350.000 euro.
+...
 
 ### ART 16.
 
