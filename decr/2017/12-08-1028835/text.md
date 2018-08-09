@@ -981,6 +981,68 @@ Aan artikel 5.2.5, eerste lid, van dezelfde codex, gewijzigd bij het decreet van
 "Afdeling 3. - Bijzondere bepalingen over het aanduiden van gebieden als watergevoelig openruimtegebied met het oog op de bescherming van de belangen van het watersysteem".<br>
 &nbsp;
 
+### ART 91.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt in afdeling 3, ingevoegd bij artikel 90, een artikel 5.6.8 ingevoegd, dat luidt als volgt:<br>
+"Art. 5.6.8. § 1. De Vlaamse Regering kan gebieden waar een conflict bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem, aanduiden als watergevoelig openruimtegebied.<br>
+<br>
+Bij de aanduiding, vermeld in het eerste lid, houdt de Vlaamse Regering rekening met:<br>
+1° de juridische toestand van het gebied, onder meer de bestemmingsvoorschriften volgens de geldende plannen van aanleg of ruimtelijke uitvoeringsplannen of niet-vervallen verkavelingen;<br>
+2° het waterbergend vermogen van het gebied en de overstromingsgevoeligheid, onder meer op basis van de watertoetskaart en de overstromingsgevaarkaarten;<br>
+3° de feitelijke toestand van het gebied, onder meer wat betreft bebouwing;<br>
+4° in voorkomend geval, de acties of maatregelen die gepland zijn voor het gebied of die impact hebben op het gebied in de stroomgebiedbeheerplannen, wateruitvoeringsprogramma's, tussentijdse afbakeningen van de Vlaamse Regering en andere waterbeheerplannen;<br>
+5° de bezwaren en opmerkingen die geformuleerd zijn tijdens het openbaar onderzoek;<br>
+6° de tijdig verleende en ontvangen adviezen;<br>
+7° de eerder genomen beslissingen van de Vlaamse Regering over gebieden waar een conflict bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor het aanduiden van de gebieden, vermeld in het eerste lid. De aanduiding gebeurt cartografisch.<br>
+<br>
+§ 2. De Vlaamse Regering onderwerpt de voorgenomen aanduiding aan een openbaar onderzoek dat zestig dagen duurt, en wint advies in bij de bevoegde waterbeheerders, bij de deputatie, bij de gemeenteraden en de gemeentelijke commissies voor ruimtelijke ordening van de gemeenten waar de voor aanduiding gebieden in kwestie liggen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor dat openbaar onderzoek en die consultatie.<br>
+<br>
+De aanduiding van de watergevoelige openruimtegebieden wordt gepubliceerd in het Belgisch Staatsblad. Ze heeft uitwerking veertien dagen na de publicatie.<br>
+<br>
+§ 3. Binnen de aangeduide watergevoelige openruimtegebieden zijn waterbeheer, natuurbehoud, bosbouw, landschapszorg, landbouw en recreatie nevengeschikte functies.<br>
+<br>
+Voor zover de ruimtelijk-ecologische draagkracht en de waterbeheersfunctie van het gebied niet worden overschreden, zijn alleen de volgende handelingen die nodig of nuttig zijn voor de functies, vermeld in het eerste lid, toegelaten:<br>
+1° het aanbrengen van kleinschalige infrastructuur, gericht op de sociale, educatieve of recreatieve functie van het gebied, waaronder sanitaire gebouwen of schuilplaatsen van één bouwlaag met een oppervlakte van ten hoogste 100 mØ, met uitsluiting van elke verblijfsaccommodatie;<br>
+2° het aanleggen, herstellen, heraanleggen of verplaatsen van openbare wegen en nutsleidingen. Openbare wegen en nutsleidingen kunnen aangelegd of verplaatst worden voor zover dat noodzakelijk is voor de kwaliteit van het leefmilieu, het beheer van het landschap, het herstel en de ontwikkeling van de natuur en het natuurlijk milieu, de openbare veiligheid of de volksgezondheid;<br>
+3° het aanbrengen van kleinschalige infrastructuur, gericht op het gebruik van het gebied voor landbouw of hobbylandbouw;<br>
+4° handelingen die nodig of nuttig zijn om overstromingen te beheersen of om wateroverlast buiten de natuurlijke overstromingsgebieden te voorkomen.<br>
+<br>
+De mogelijkheden om af te wijken van stedenbouwkundige voorschriften of om rekening te houden met ontwerpen van stedenbouwkundige voorschriften, vermeld in titel IV, hoofdstuk 4, zijn van overeenkomstige toepassing in de aldus aangeduide gebieden.<br>
+<br>
+§ 4. De aanduiding als watergevoelig openruimtegebied heeft van rechtswege het verval tot gevolg van:<br>
+1° het onbebouwde deel of de onbebouwde delen van een niet-vervallen verkavelingsvergunning of omgevingsvergunning voor het verkavelen van gronden die binnen de perimeter van dat gebied liggen;<br>
+2° een principieel akkoord als vermeld in artikel 5.6.6, § 2 of § 3, tweede lid, dat afgegeven werd voor gronden die binnen de perimeter van dat gebied liggen.<br>
+<br>
+§ 5. Voor de gebieden die als watergevoelig openruimtegebied zijn aangeduid, kan een ruimtelijk uitvoeringsplan vastgesteld worden met een andersluidende regeling dan de regeling, vermeld in paragraaf 3, in zoverre bij de opmaak van dat ruimtelijk uitvoeringsplan rekening wordt gehouden met het conflict dat bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem. Er kan geen ruimtelijk uitvoeringsplan worden opgemaakt waarvan de voorschriften andere of ruimere bebouwing toelaten dan deze vermeld in paragraaf 3, tweede lid.<br>
+<br>
+De vaststelling van een ruimtelijk uitvoeringsplan in toepassing van deze paragraaf geeft geen aanleiding tot planschadevergoeding, vermeld in titel II, hoofdstuk VI, afdeling 1, noch tot een planbatenheffing, vermeld in titel II, hoofdstuk VI, afdeling 2, noch tot kapitaalschade in de zin van boek 6 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid.<br>
+<br>
+§ 6. Eigenaars van gronden die in watergevoelig openruimtegebied liggen, aangeduid conform dit artikel, kunnen een vergoeding verkrijgen met toepassing van dezelfde voorwaarden en modaliteiten als deze die gelden voor de planschadevergoeding, vermeld in artikel 2.6.1 tot en met 2.6.3, waarbij:<br>
+1° het recht op vergoeding ontstaat op de dag van publicatie in het Belgisch Staatsblad van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied;<br>
+2° het vorderingsrecht vervalt twee jaar nadat het recht op vergoeding is ontstaan;<br>
+3° de vergoedingsgerechtigde diegene is die op het ogenblik van de inwerkingtreding van het besluit van de Vlaamse Regering tot aanduiding van het watergevoelig openruimtegebied het eigendomsrecht of het bloot eigendomsrecht op het perceel kan laten gelden.<br>
+<br>
+De vergoeding wordt gevorderd ten aanzien van het Vlaamse Gewest en aangerekend op het Rubiconfonds.<br>
+<br>
+§ 7. De Vlaamse Regering kan, hangende de procedure of uiterlijk binnen het jaar na een veroordeling tot vergoeding die kracht van gewijsde heeft verkregen, beslissen om de aanduiding als watergevoelig openruimtegebied zoals vermeld in paragraaf 1, geheel of gedeeltelijk op te heffen voor de gronden waarvoor de vergoeding werd gevorderd. De Vlaamse Regering wint hierover het advies in van het college van burgemeester en schepenen van de gemeente waar de gronden gelegen zijn, en van de Coördinatiecommissie Integraal Waterbeleid, bedoeld in artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
+<br>
+De Vlaamse Regering kan aan de opheffing voorwaarden verbinden in verband met de realisatie van de bestemming, zonder die realisatie uit te sluiten.<br>
+<br>
+De opheffing geldt als voldoening aan de verplichting tot vergoeding, ongeacht de voorwaarden die de realisatie van de bestemming aan voorwaarden verbinden zonder ze uit te sluiten.<br>
+<br>
+Als de opheffing slechts gedeeltelijk is, dan wordt de te betalen vergoeding pro rata berekend.".<br>
+&nbsp;
+
+### ART 92.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt in dezelfde afdeling 3 een artikel 5.6.9 ingevoegd, dat luidt als volgt:<br>
+"Art. 5.6.9. De Vlaamse Regering kan voor ruimtelijke uitvoeringsplannen die definitief zijn vastgesteld vóór de aanduiding van de gebieden als watergevoelig openruimtegebied en die al rekening houden met het conflict dat bestaat tussen de verdere realisatie van de bestemming en de belangen van het watersysteem, beslissen om de daaruit resulterende planschadevergoeding volledig aan te rekenen op het Rubiconfonds.".<br>
+&nbsp;
+
 ### ART 93.
 
 Aan titel V van dezelfde codex, het laatst gewijzigd bij het decreet van 15 juli 2016, wordt een hoofdstuk VII toegevoegd, dat luidt als volgt:<br>
