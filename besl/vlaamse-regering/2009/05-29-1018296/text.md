@@ -6,15 +6,32 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° FWO: het privaatrechtelijk   vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 15, § 2, van   het decreet van 30 april 2009 betreffende de organisatie en financiering van het   wetenschaps- en innovatiebeleid, en opgericht bij de notariële akte van 21 juni   2005 in de vorm van de privaatrechtelijke stichting van openbaar nut Fonds voor   Wetenschappelijk Onderzoek - Vlaanderen;<BR>2° specialisatiebeurzen : de   doctoraatsbeurzen toegekend door het&nbsp;FWO in de periode tussen 1 oktober   1994 en de datum van inwerkingtreding van dit besluit.<BR>3° strategisch   basisonderzoek : kwalitatief hoogwaardig generisch onderzoek, dat beoogt   wetenschappelijke of technologische capaciteit op te bouwen als basis voor   economische en/of maatschappelijke toepassingen die :<BR>a) bij de aanvang van   het onderzoek nog niet duidelijk zijn gedefinieerd;<BR>b) slechts effectief   kunnen worden ontwikkeld door middel van vervolgonderzoek;<BR>4° beurstermijn :   de beursperiode die na evaluatie van de beursaanvraag aan de kandidaat-bursaal   wordt toegekend.<BR>5° hoger-onderwijsinstelling : een universiteit of een   hogeschool;<BR>6° onderzoekscentrum: een organisatie voor onderzoek en   kennisverspreiding als vermeld in artikel 2, punt 83 van de verordening (EU) nr.   651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op   grond van de artikelen 107 en 108 van het Verdrag met de interne markt   verenigbaar worden verklaard.
+In dit besluit wordt verstaan onder :<br>
+1° FWO: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 15, § 2, van het decreet van 30 april 2009 betreffende de organisatie en financiering van het wetenschaps- en innovatiebeleid, en opgericht bij de notariële akte van 21 juni 2005 in de vorm van de privaatrechtelijke stichting van openbaar nut Fonds voor Wetenschappelijk Onderzoek - Vlaanderen;<br>
+2° specialisatiebeurzen : de doctoraatsbeurzen toegekend door het&nbsp;Instituut voor Innovatie door Wetenschap en Technologie in de periode tussen 1 oktober 1994 en de datum van inwerkingtreding van dit besluit.<br>
+3° strategisch basisonderzoek : kwalitatief hoogwaardig generisch onderzoek, dat beoogt wetenschappelijke of technologische capaciteit op te bouwen als basis voor economische en/of maatschappelijke toepassingen die :<br>
+a) bij de aanvang van het onderzoek nog niet duidelijk zijn gedefinieerd;<br>
+b) slechts effectief kunnen worden ontwikkeld door middel van vervolgonderzoek;<br>
+4° beurstermijn : de beursperiode die na evaluatie van de beursaanvraag aan de kandidaat-bursaal wordt toegekend.<br>
+5° hoger-onderwijsinstelling : een universiteit of een hogeschool;<br>
+6° onderzoekscentrum: een organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt 83 van de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;<br>
+7° Codex Hoger Onderwijs: het besluit van de Vlaamse Regering van 11 oktober 2013 tot de codificatie van de decretale bepalingen betreffende het hoger onderwijs, zoals gewijzigd;
 
 ### ART. 2.
 
-§ 1 Het FWO is belast met het wetenschappelijk, administratief en   financieel beheer van het stelsel van de doctoraatsbeurzen voor de uitvoering   van projecten van strategisch basisonderzoek ten bate van doctorandi aan de   universiteiten in de Vlaamse Gemeenschap.<BR><BR>§ 2 De Raad van Bestuur van het   FWO kent de doctoraatsbeurzen aan de kandidaat-bursalen toe na advies van de   commissies van deskundigen.<BR><BR>§ 3 De beurzen dienen aan de genieters ervan   de mogelijkheid te bieden een doctoraatsproefschrift voor te bereiden als   neerslag van de uitvoering van het door hen geformuleerde onderzoeksproject   onder de wetenschappelijke begeleiding van een lid van het zelfstandig   academisch personeel (ZAP), een onderzoeksdirecteur van het Fonds voor   Wetenschappelijk Onderzoek - Vlaanderen, of een andere onderzoeker verbonden aan   de universiteit op voorwaarde dat de universitaire overheid garant staat voor de   kwaliteit en de continuïteit van de begeleiding.<BR><BR>Het geformuleerde   onderzoeksproject situeert zich als strategisch basisonderzoek door :<BR>1° zijn   potentieel voor een economische toepasbaarheid op termijn;<BR>2° zijn potentieel   voor een maatschappelijke toepasbaarheid op termijn.
+§ 1 Het FWO is belast met het wetenschappelijk, administratief en financieel beheer van het stelsel van de doctoraatsbeurzen voor de uitvoering van projecten van strategisch basisonderzoek ten bate van doctorandi aan de universiteiten in de Vlaamse Gemeenschap.<br>
+<br>
+§ 2 De raad van bestuur van het FWO kent de doctoraatsbeurzen aan de kandidaat-bursalen toe na advies van de commissies van deskundigen.<br>
+<br>
+§ 3 De beurzen dienen aan de genieters ervan de mogelijkheid te bieden een doctoraatsproefschrift voor te bereiden als neerslag van de uitvoering van het door hen geformuleerde onderzoeksproject onder de wetenschappelijke begeleiding van een lid van het zelfstandig academisch personeel (ZAP), een onderzoeksdirecteur van het Fonds voor Wetenschappelijk Onderzoek - Vlaanderen, of een andere onderzoeker verbonden aan de universiteit op voorwaarde dat de universitaire overheid garant staat voor de kwaliteit en de continuïteit van de begeleiding.<br>
+<br>
+Het geformuleerde onderzoeksproject situeert zich als strategisch basisonderzoek door :<br>
+1° zijn potentieel voor een economische toepasbaarheid op termijn;<br>
+2° zijn potentieel voor een maatschappelijke toepasbaarheid op termijn.
 
 ### ART. 3.
 
-De kandidaat-bursaal moet houder zijn van een masterdiploma, uitgereikt door de daartoe bevoegde instellingen van of gevestigd in een van de landen van de Europese Economische Ruimte of in Zwitserland. De aanvragers moeten houder zijn van een diploma dat minstens evenwaardig is aan een Master-diploma dat aansluit op een Bachelordiploma en uitgereikt werd in België. Buitenlandse diploma's dienen als gelijkwaardig te worden erkend met een Vlaams Master-diploma overeenkomstig de Codex Hoger Onderwijs van 11 oktober 2013, de Europese richtlijnen of een bilateraal akkoord.
+Bij de start van het mandaat dient de kandidaat-bursaal houder te zijn van een diploma dat minstens gelijkwaardig is met een masterdiploma dat aansluit op een bachelordiploma en uitgereikt werd door de daartoe bevoegde instellingen van of gevestigd in een van de landen van de Europese Economische Ruimte of Zwitserland. Diploma's die uitgereikt werden door de daartoe bevoegde instellingen in een van de landen van de Europese Economische Ruimte of Zwitserland, of diploma's die uitgereikt werden door de daartoe bevoegde instellingen uit de Franstalige Gemeenschap, worden erkend als gelijkwaardig met diploma's die uitgereikt werden door de daartoe bevoegde instellingen uit de Vlaamse Gemeenschap overeenkomstig de Codex Hoger Onderwijs van 11 oktober 2013, de toepasselijke Europese richtlijnen of een bilateraal akkoord.
 
 ### ART. 4.
 
@@ -22,23 +39,30 @@ De kandidaat-bursaal moet houder zijn van een masterdiploma, uitgereikt door de 
 
 ### ART. 5.
 
-Het Master-diploma of daarmee gelijkwaardig diploma moet minstens met de vermelding onderscheiding behaald zijn, of anders met een dergelijke vermelding als evenwaardig verklaard worden door de universiteit en is maximaal 5 jaar voor de beursaanvraag behaald. Bij kandidaten die houder zijn van meerdere Master-diploma's zijn beide bepalingen van toepassing op het diploma dat inhoudelijk het meest aansluit bij het doctoraatsonderzoek voor zover dit diploma behaald werd binnen een termijn van maximaal vijf jaar na het behalen van het eerste Master-diploma.
+Voor beursaanvragen tot en met startdatum 1 januari 2019, geldt dat het masterdiploma of daarmee gelijkwaardig diploma minstens met de vermelding onderscheiding moet behaald zijn, of anders met een dergelijke vermelding als evenwaardig verklaard door de universiteit en is maximaal 5 jaar voor de beursaanvraag behaald. Bij kandidaten die houder zijn van meerdere masterdiploma's zijn beide bepalingen van toepassing op het diploma dat inhoudelijk het meest aansluit bij het doctoraatsonderzoek voor zover dit diploma behaald werd binnen een termijn van maximaal vijf jaar na het behalen van het eerste masterdiploma.<br>
+<br>
+Voor beursaanvragen met startdatum 1 november 2019 of later is het masterdiploma of een daarmee gelijkwaardig diploma van de kandidaat, op basis waarvan de aanvraag wordt ingediend, maximum drie jaar voor de uiterste indiendatum van de oproep behaald.
 
 ### ART. 6.
 
-Bij de beoordeling van de ingediende beursaanvragen zijn de volgende evaluatiecriteria van toepassing :<br />1° de wetenschappelijke vakkennis van de kandidaat-bursaal en zijn potentiële bekwaamheid tot het zelfstandig uitvoeren van doctoraatsonderzoek;<br />2° de wetenschappelijke kwaliteit en relevantie van het onderzoeksproject, en de realiseerbaarheid ervan binnen een periode van vier jaar;<br />3° de strategische aard van het onderzoeksproject m.b.t. het potentieel voor een economische en/of maatschappelijke toepasbaarheid van de resultaten op termijn.
+Bij de beoordeling van de ingediende beursaanvragen zijn de volgende evaluatiecriteria van toepassing :<br>
+1° potentiële bekwaamheid tot het zelfstandig uitvoeren van doctoraatsonderzoek als innovatiegerichte onderzoeker;<br>
+2° de wetenschappelijke kwaliteit en relevantie van het onderzoeksproject, en de realiseerbaarheid ervan binnen een periode van vier jaar;<br>
+3° de strategische aard van het onderzoeksproject m.b.t. het potentieel voor een economische en/of maatschappelijke toepasbaarheid van de resultaten op termijn.
 
 ### ART. 7.
 
-<P>De Raad van Bestuur van het FWO legt in een uitvoerend reglement de nadere   regels vast betreffende de vorm en de inhoud, de behandeling en selectie van de   beursaanvragen, binnen de selectievoorwaarden vastgelegd in dit   besluit.</P>
+<p>De raad van bestuur van het FWO legt in een uitvoerend reglement de nadere regels vast betreffende de vorm en de inhoud, de behandeling en selectie van de beursaanvragen, binnen de selectievoorwaarden vastgelegd in dit besluit.</p>
 
 ### ART. 8.
 
-De beoordeling van de ingediende beursaanvragen voor de 1ste beurstermijn   gebeurt door een commissie van deskundigen samengesteld door de Raad van Bestuur   van het FWO. Het aantal, de samenstelling en de werking van deze commissies   wordt door de Raad van Bestuur van het FWO in het reglement, vermeld in artikel   7, nader bepaald. De commissies van deskundigen adviseren de Raad van Bestuur   van het FWO voor zijn beslissing over elke beursaanvraag. <BR><BR>De Raad van   Bestuur van het FWO draagt zorg voor een regelmatige vernieuwing en een optimale   samenstelling van deze commissies. Ten minste een derde van het aantal leden   dient rechtstreeks betrokken te zijn bij onderzoek en ontwikkeling in het   bedrijfsleven. Ten minste een derde van het aantal leden is verbonden aan een   hoger-onderwijsinstelling of een onderzoekscentrum.
+De beoordeling van de ingediende beursaanvragen voor de 1ste beurstermijn gebeurt door een commissie van deskundigen samengesteld door de raad van bestuur van het FWO. Het aantal, de samenstelling en de werking van deze commissies wordt door de raad van bestuur van het FWO in het reglement, vermeld in artikel 7, nader bepaald. De commissies van deskundigen adviseren de raad van bestuur van het FWO voor zijn beslissing over elke beursaanvraag.<br>
+<br>
+De raad van bestuur van het FWO draagt zorg voor een regelmatige vernieuwing en een optimale samenstelling van deze commissies. Ten minste een derde van het aantal leden dient rechtstreeks betrokken te zijn bij onderzoek en ontwikkeling in het bedrijfsleven. Ten minste een derde van het aantal leden is verbonden aan een hoger-onderwijsinstelling of een onderzoekscentrum.
 
 ### ART. 9.
 
-<P>De voorwaarden en bepalingen voor toekenning en behoud van de beurs die de   raad van bestuur, binnen de beperkingen naar toelatings- en selectievoorwaarden   vastgelegd in dit besluit, heeft bepaald worden opgenomen in een overeenkomst   die het FWO sluit met de bursaal. Het betreft een typeovereenkomst, goedgekeurd   door de raad van bestuur. De beurs gaat van start op 1 januari van hetzelfde   academiejaar. De beurs wordt beëindigd van zodra de bursaal deze voorwaarden   niet meer naleeft. Indien de bursaal zijn doctoraatsproefschrift heeft verdedigd   voor het einde van de termijn, loopt de beurs toch door tot het einde van de   termijn.</P>
+De raad van bestuur bepaalt de voorwaarden en bepalingen voor de toekenning en het behoud van de beurs welke, binnen de beperkingen van de toelatings- en selectievoorwaarden die vastgelegd zijn in dit besluit, worden opgenomen in een overeenkomst die het FWO sluit met de bursaal. De beurs wordt beëindigd zodra de bursaal de voormelde voorwaarden niet meer naleeft. Als de bursaal zijn doctoraatsproefschrift heeft verdedigd voor het einde van de termijn, loopt de beurs toch door tot het einde van de termijn.
 
 ### ART. 10.
 
@@ -50,7 +74,34 @@ De beoordeling van de ingediende beursaanvragen voor de 1ste beurstermijn   gebe
 
 ### ART. 12.
 
-§ 1. Tegelijkertijd met de beurs wordt een projectkostenvergoeding   toegekend. De projectkostenvergoeding dekt de kosten van de universiteit voor de   uitvoering van de activiteiten van het doctoraatsproject.<BR><BR>§ 2. Het bedrag   van de projectkostenvergoeding wordt door het beslissingscomité bij het   Hermesfonds uniform voor alle bursalen, en per termijn van twee jaar   vastgesteld, rekening houdend met de middelen die daarvoor uitgetrokken zijn in   de toelage, vermeld in artikel 14.<BR><BR>§ 3. De projectkostenvergoeding wordt   uitbetaald per maand tegelijkertijd met de uitbetaling van de beurs en in de   mate dat die uitbetaling verschuldigd is.<BR><BR>§ 4. Op het ogenblik dat de   bursaal zijn activiteiten voor het project definitief staakt, eindigt het recht   op de projectkostenvergoeding voor de universiteit.<BR><BR>Wanneer het het   beslissingscomité bij het Hermesfonds een einde stelt aan de beurs van de   bursaal, eindigt het recht op de projectkostenvergoeding voor de universiteit op   het einde van de maand, waarin het het beslissingscomité bij het Hermesfonds   zijn beslissing mededeelt aan de bursaal en aan de universiteit.<BR><BR>§ 5. De   gemachtigde van de universiteit verbindt er zich namens zijn instelling in de   overeenkomst tot toekenning van de beurs toe om in verband met de   projectkostenvergoeding de volgende gebruiksvoorwaarden in het algemeen na te   doen leven :<BR>1° kosten alleen als projectkosten te verrekenen met de   schriftelijke goedkeuring van de bursaal en de wetenschappelijk promotor;<BR>2°   geen aandeel te verrekenen van centrale beheerskosten en algemene   exploitatiekosten zoals vermeld in het besluit van de Vlaamse Regering van 14   juli 1993 tot regeling van de centrale beheerskosten en de algemene   exploitatiekosten van de universiteiten, verbonden aan de uitvoering van de   wetenschappelijke activiteiten die door de Vlaamse gemeenschap gefinancierd   worden;<BR>3° geen uitgaven te imputeren, die al werden aangerekend op een   andere financiering.<BR><BR>§ 6. De gemachtigde van de universiteit verklaart er   zich tevens toe bereid om tegenover het beslissingscomité bij het Hermesfonds of   zijn aangestelde de toepassing van de gebruiksvoorwaarden, vermeld in voorgaande   paragraaf, te bewijzen volgens de modaliteiten die het beslissingscomité bij het   Hermesfonds per universiteit bepaalt.<BR><BR>§ 7. Indien het beslissingscomité   bij het Hermesfonds vaststelt dat aan de voorwaarden, vermeld in paragraaf 5, 1°   niet is voldaan zal de universiteit zich onmiddellijk in regel stellen met dit   voorschrift voor alle projecten die op dat ogenblik lopen.<BR><BR>Indien blijkt   dat niet aan de voorwaarden, vermeld in paragraaf 5, 2° en 3°, wordt voldaan,   zal de aanrekening op de projectkostenvergoeding van elk op dat ogenblik lopend   project beperkt worden tot de betalingen op de originele facturen van de   leveranciers, die de terechte aanrekening als specifieke uitgave voor het   project kunnen verantwoorden en betaalt de universiteit aan het Hermesfonds voor   elk project het verschil terug tussen die aanrekeningen en de ontvangen   projectkostenvergoedingen.<BR><BR>§ 8. In geval de universiteit niet meewerkt   aan de bewijsregeling, vermeld in paragraaf 6 of in gebreke blijft ten opzichte   van de regeling, vermeld in paragraaf 7, kan het beslissingscomité bij het   Hermesfonds de verdere uitbetaling van de projectkostenvergoeding geheel of   gedeeltelijk opschorten voor alle of een gedeelte van de lopende projecten bij   die universiteit.<BR><BR>§ 9. De Raad van Bestuur van het IWT kan detailaspecten   in verband met de projectkostenvergoeding volgens dit artikel regelen in een   aanvullend reglement.<BR><BR>§ 10. In toepassing van de Communautaire   kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie   (2006/C 323/01) verbinden alle begunstigden van de projectkostenvergoeding zich   ertoe de kosten en financiering van de door hen eventuele uitgeoefende   economische activiteiten duidelijk te onderscheiden van de in het kader van dit   besluit ontvangen projectkostenvergoeding.<BR><BR>§ 11. Voor de beurzen die   starten vanaf 1 januari 2016 via het FWO gelden paragraaf 1 tot en met 10 niet.   De begunstigde van de beurs toegekend vanaf 1 januari 2016 ontvangt een   werkingstoelage. De Raad van Bestuur van het FWO legt de modaliteiten vast in   een intern reglement.
+§ 1. Tegelijkertijd met de beurs wordt een projectkostenvergoeding toegekend. De projectkostenvergoeding dekt de kosten van de universiteit voor de uitvoering van de activiteiten van het doctoraatsproject.<br>
+<br>
+§ 2. Het bedrag van de projectkostenvergoeding wordt door het beslissingscomité bij het Hermesfonds uniform voor alle bursalen, en per termijn van twee jaar vastgesteld, rekening houdend met de middelen die daarvoor uitgetrokken zijn in de toelage, vermeld in artikel 14.<br>
+<br>
+§ 3. De projectkostenvergoeding wordt uitbetaald per maand tegelijkertijd met de uitbetaling van de beurs en in de mate dat die uitbetaling verschuldigd is.<br>
+<br>
+§ 4. Op het ogenblik dat de bursaal zijn activiteiten voor het project definitief staakt, eindigt het recht op de projectkostenvergoeding voor de universiteit.<br>
+<br>
+Wanneer&nbsp;het beslissingscomité bij het Hermesfonds een einde stelt aan de beurs van de bursaal, eindigt het recht op de projectkostenvergoeding voor de universiteit op het einde van de maand, waarin het&nbsp;beslissingscomité bij het Hermesfonds zijn beslissing mededeelt aan de bursaal en aan de universiteit.<br>
+<br>
+§ 5. De gemachtigde van de universiteit verbindt er zich namens zijn instelling in de overeenkomst tot toekenning van de beurs toe om in verband met de projectkostenvergoeding de volgende gebruiksvoorwaarden in het algemeen na te doen leven :<br>
+1° kosten alleen als projectkosten te verrekenen met de schriftelijke goedkeuring van de bursaal en de wetenschappelijk promotor;<br>
+2° geen aandeel te verrekenen van centrale beheerskosten en algemene exploitatiekosten zoals vermeld in het besluit van de Vlaamse Regering van 14 juli 1993 tot regeling van de centrale beheerskosten en de algemene exploitatiekosten van de universiteiten, verbonden aan de uitvoering van de wetenschappelijke activiteiten die door de Vlaamse gemeenschap gefinancierd worden;<br>
+3° geen uitgaven te imputeren, die al werden aangerekend op een andere financiering.<br>
+<br>
+§ 6. De gemachtigde van de universiteit verklaart er zich tevens toe bereid om tegenover het beslissingscomité bij het Hermesfonds of zijn aangestelde de toepassing van de gebruiksvoorwaarden, vermeld in voorgaande paragraaf, te bewijzen volgens de modaliteiten die het beslissingscomité bij het Hermesfonds per universiteit bepaalt.<br>
+<br>
+§ 7. Indien het beslissingscomité bij het Hermesfonds vaststelt dat aan de voorwaarden, vermeld in paragraaf 5, 1° niet is voldaan zal de universiteit zich onmiddellijk in regel stellen met dit voorschrift voor alle projecten die op dat ogenblik lopen.<br>
+<br>
+Indien blijkt dat niet aan de voorwaarden, vermeld in paragraaf 5, 2° en 3°, wordt voldaan, zal de aanrekening op de projectkostenvergoeding van elk op dat ogenblik lopend project beperkt worden tot de betalingen op de originele facturen van de leveranciers, die de terechte aanrekening als specifieke uitgave voor het project kunnen verantwoorden en betaalt de universiteit aan het Hermesfonds voor elk project het verschil terug tussen die aanrekeningen en de ontvangen projectkostenvergoedingen.<br>
+<br>
+§ 8. In geval de universiteit niet meewerkt aan de bewijsregeling, vermeld in paragraaf 6 of in gebreke blijft ten opzichte van de regeling, vermeld in paragraaf 7, kan het beslissingscomité bij het Hermesfonds de verdere uitbetaling van de projectkostenvergoeding geheel of gedeeltelijk opschorten voor alle of een gedeelte van de lopende projecten bij die universiteit.<br>
+<br>
+§ 9. De raad van bestuur van het IWT kan detailaspecten in verband met de projectkostenvergoeding volgens dit artikel regelen in een aanvullend reglement.<br>
+<br>
+§ 10. In toepassing van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie (2006/C 323/01) verbinden alle begunstigden van de projectkostenvergoeding zich ertoe de kosten en financiering van de door hen eventuele uitgeoefende economische activiteiten duidelijk te onderscheiden van de in het kader van dit besluit ontvangen projectkostenvergoeding.<br>
+<br>
+§ 11. Voor de beurzen die starten vanaf 1 januari 2016 via het FWO gelden paragraaf 1 tot en met 10 niet. De begunstigde van de beurs toegekend vanaf 1 januari 2016 ontvangt een werkingstoelage. De raad van bestuur van het FWO legt de modaliteiten vast in een intern reglement.
 
 ### ART. 13.
 
@@ -58,11 +109,13 @@ De bursaal rapporteert op het einde van elke beurstermijn over de uitvoering van
 
 ### ART. 14.
 
-De Vlaamse Gemeenschap stelt jaarlijks financiële middelen ter beschikking   van het FWO voor de bekostiging van de doctoraatsbeurzen.<BR><BR>De financiële   middelen worden maandelijks per twaalfde voor de twintigste van elke maand ter   beschikking gesteld van het FWO.
+De Vlaamse Gemeenschap stelt jaarlijks financiële middelen ter beschikking van het FWO voor de bekostiging van de doctoraatsbeurzen, inclusief de projectkostenvergoeding.<br>
+<br>
+De financiële middelen worden maandelijks per twaalfde voor de twintigste van elke maand ter beschikking gesteld van het FWO.
 
 ### ART. 15.
 
-De financiële middelen, vermeld in artikel 14, worden met ingang van het begrotingsjaar 1994 jaarlijks aangepast aan de evolutie van de loonkosten volgens de volgende formule, onverminderd de eventuele toekenning van aanvullende kredieten : M (t) = M (t - 1) x J, waarbij :<br />1° M (t) : de financiële middelen voor het jaar t;<br />2° M (t - 1) : de financiële middelen voor het jaar t - 1 inclusief de aanvullende kredieten van het jaar t - 1;<br />3° J = L(t)/L(t - 1) : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het begrotingsjaar t en de geraamde index van de eenheidsloonkosten op het einde van het begrotingsjaar t-1.<br /><br />De Vlaamse Gemeenschap voorziet eveneens de middelen voor het betalen van de projectkostenvergoeding, vermeld in artikel 12.
+...
 
 ### ART. 16.
 
@@ -82,7 +135,7 @@ Het besluit van de Vlaamse Regering van 26 januari 1994 houdende regeling van de
 
 ### ART. 20.
 
-Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch staatsblad, met uitzondering van artikel 2, § 3, tweede lid, 2°, en artikel 3, 2°, die in werking treden op een door de Vlaamse Regering te bepalen datum.
+Dit besluit treedt in werking op de datum van de bekendmaking ervan in het Belgisch staatsblad, met uitzondering van artikel 2, § 3, tweede lid, 2°, dat in werking treedt op een door de Vlaamse Regering te bepalen datum.
 
 ### ART. 21.
 
