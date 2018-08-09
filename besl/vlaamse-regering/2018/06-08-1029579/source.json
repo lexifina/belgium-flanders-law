@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029579,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 tot wijziging van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van de toekenning van doctoraatsbeurzen voor de uitvoering van projecten van strategisch basisonderzoek en het besluit van de Vlaamse Regering van 10 november 2011 betreffende de subsidiëring door het Fonds voor Wetenschappelijk Onderzoek - Vlaanderen en tot opheffing van het besluit van de Vlaamse Regering van 26 oktober 2007 betreffende de subsidiëring van onderzoeks- en innovatie-infrastructuur in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029579/VolledigDocument?datum=2018-08-09",
+  "source_sha256": "553fa9e3c4e73685d262a0faeac96c5dd2725310910eeb9ace67e6244791428e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029579&param=informatie",
+  "as_of": "2018-08-09",
+  "made": "2018-06-08",
+  "gazette": "2018-07-30",
+  "numac": 2018040460,
+  "document_start": "2018-08-09",
+  "document_end": null,
+  "in_force": "2018-08-09",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2018-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
