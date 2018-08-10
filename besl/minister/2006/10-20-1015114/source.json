@@ -2,16 +2,16 @@
   "codex_id": 1015114,
   "title": "Ministerieel besluit van 2006-10-20 betreffende het vaststellen van minimale voorwaarden bij de opname van gegevens in de energieprestatiedatabank",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015114/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "a922cebd2fad69158b88b431f07aa52ba1565f3cd465cef791b62ebfcde9642b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015114/VolledigDocument?datum=2018-08-10",
+  "source_sha256": "41dbf4a7091e899774f4e829f3cd1bed3c5b878f629ed930c9b331a389d6a6fe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015114&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2018-08-10",
   "made": "2006-10-20",
   "gazette": "2006-11-06",
   "numac": 2006036789,
   "document_start": "2006-11-06",
   "document_end": "2018-12-31",
-  "in_force": "2016-01-01",
+  "in_force": "2018-08-10",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-08-10; future article versions excluded; article text as the API gives it"
 }

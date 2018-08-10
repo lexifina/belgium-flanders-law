@@ -17,11 +17,32 @@ Besluit :<br>
 
 ### ART. 1.
 
-De vergunningverlenende overheid zendt maandelijks elektronisch naar het   Vlaams Energieagentschap een overzicht van de aanvragen tot het verkrijgen van   een stedenbouwkundige vergunning die vergund, geweigerd, vernietigd of geschorst   werden. De gemeente zendt tevens elektronisch een overzicht betreffende de   meldingsplichtige handelingen die bij de gemeente in die betreffende periode   werden aangemeld.<BR><BR>Het overzicht bevat per aanvraag of melding de volgende   gegevens :<BR>1° de gemeente waar het perceel gelegen is; <BR>2° het   energieprestatiedossiernummer; <BR>3° de aard en het onderwerp van de   werkzaamheden; <BR>4° de ligging; <BR>5° de gegevens van de aanvrager(s) of van   de meldingsplichtige(n); <BR>6° de datum van de aanvraag van de vergunning of   van de melding; <BR>7° de beslissingen betreffende de vergunning, weigering,   schorsing en vernietiging door de bevoegde instantie en de bijhorende data van   het dossier;<BR>8° de vaststelling door de gemeente dat de aangemelde   meldingsplichtige handelingen toch vergunningsplichtig zouden zijn;<BR>9° de   toepasselijkheid van de EPB-eisen en de aanwezigheid van de   haalbaarheidsstudie;<BR>10° de betrokkenheid van een architect;<BR>11° het type   van de dossiersamenstelling;<BR>12° de startdatum/data en einddatum/data van de   werkzaamheden;<BR>13° in voorkomend geval, het geldende E-peil en het geldende   K-peil, indien voor de vergunning strengere gemeentelijke eisen   gelden.
+De vergunningverlenende overheid zendt maandelijks elektronisch naar het Vlaams Energieagentschap een overzicht van de aanvragen tot het verkrijgen van een stedenbouwkundige vergunning of van een omgevingsvergunning voor stedenbouwkundige handelingen&nbsp;die vergund, geweigerd, vernietigd of geschorst werden. De gemeente zendt tevens elektronisch een overzicht betreffende de meldingsplichtige handelingen die bij de gemeente in die betreffende periode werden aangemeld.<br>
+<br>
+Het overzicht bevat per aanvraag of melding de volgende gegevens :<br>
+1° de gemeente waar het perceel gelegen is;<br>
+2° het energieprestatiedossiernummer;<br>
+3° de aard en het onderwerp van de werkzaamheden;<br>
+4° de ligging;<br>
+5° de gegevens van de aanvrager(s) of van de meldingsplichtige(n);<br>
+6° de datum van de aanvraag van de vergunning of van de melding;<br>
+7° de beslissingen betreffende de vergunning, weigering, schorsing en vernietiging door de bevoegde instantie en de bijhorende data van het dossier;<br>
+8° de vaststelling door de gemeente dat de aangemelde meldingsplichtige handelingen toch vergunningsplichtig zouden zijn;<br>
+9° de toepasselijkheid van de EPB-eisen en de aanwezigheid van de haalbaarheidsstudie;<br>
+10° de betrokkenheid van een architect;<br>
+11° het type van de dossiersamenstelling;<br>
+12° de startdatum/data en einddatum/data van de werkzaamheden;<br>
+13° ....
 
 ### ART. 2.
 
-Bij het verlenen van de vergunning bezorgt de vergunningverlenende overheid de houder van de stedenbouwkundige vergunning het toegekende energieprestatiedossiernummer. Bij het registeren van de melding bezorgt de gemeente de meldingsplichtige(n) het toegekende energieprestatiedossiernummer.<br /><br />Het energieprestatiedossiernummer wordt als volgt opgemaakt : <br />1° Voor gemeenten : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente - G - intern dossiernummer van de gemeente of nummer van het vergunningenregister'.<br />2° Voor RO-Vlaanderen : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van RO-Vlaanderen'. <br /><br />
+Bij het verlenen van de vergunning bezorgt de vergunningverlenende overheid de houder van de omgevingsvergunning voor stedenbouwkundige handelingen het toegekende energieprestatiedossiernummer. Bij de aktename van de melding bezorgt het bevoegd bestuur de meldingsplichtige(n) het toegekende energieprestatiedossiernummer.<br>
+<br>
+Het energieprestatiedossiernummer wordt als volgt opgemaakt :<br>
+1° Voor gemeenten : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente - G - intern dossiernummer van de gemeente of nummer van het vergunningenregister'.<br>
+1° /1 Voor de provincies: 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van de provincie';<br>
+2° Voor Omgeving: 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van Omgeving'.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -39,7 +60,7 @@ Voor bouwprojecten waarvoor een startverklaring werd ingediend, kan de bevoegde 
 
 ### ART. 6.
 
-In afwijking van artikel 3, eerste lid, versturen de vergunningverlenende overheden uiterlijk tegen 30 november 2006, een overzicht, zoals vermeld in artikel 1, voor de periode vanaf 1 januari 2006 tot aan de inwerkingtreding van dit besluit via de website van de energieprestatiedatabank naar het Vlaams Energieagentschap. <br /><br />
+...
 
 ### ART. 7.
 
