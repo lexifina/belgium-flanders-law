@@ -2,16 +2,16 @@
   "codex_id": 1014238,
   "title": "Ministerieel besluit van 2006-01-13 betreffende de vorm en inhoud van de startverklaring",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014238/VolledigDocument?datum=2017-03-01",
-  "source_sha256": "f1b75e69110e98316b00545b4125754d7e392cef494d5f353d4da166c7c45658",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014238/VolledigDocument?datum=2018-08-10",
+  "source_sha256": "cf53f718a6f3e4e7669052b00b5284eb5e400b8480df9dc207868abecab6e7c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014238&param=informatie",
-  "as_of": "2017-03-01",
+  "as_of": "2018-08-10",
   "made": "2006-01-13",
   "gazette": "2006-01-31",
   "numac": 2006035128,
   "document_start": "2006-01-31",
   "document_end": "2018-12-31",
-  "in_force": "2017-03-01",
+  "in_force": "2018-08-10",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2017-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-08-10; future article versions excluded; article text as the API gives it"
 }
