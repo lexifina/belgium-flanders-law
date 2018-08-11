@@ -36,7 +36,26 @@ Dit decreet voorziet daartoe in de volgende instrumenten:<BR>1° beurzen en   pr
 
 ### ART. 7.
 
-<P>§ 1. De Vlaamse Regering ontwikkelt een strategische visie op het   beleidskader voor de kunsten voor de beleidsperiode. Deze strategische visienota   concretiseert de beleidsnota Cultuur.<BR></P>  <P>§ 2. De strategische visienota bevat minstens volgende elementen:<BR>1° een   breed georiënteerde omgevingsanalyse die verder gaat dan het kunstenveld;<BR>2°   nieuwe uitdagingen die om beleidsaandacht vragen;<BR>3° prioriteiten voor de   legislatuur;<BR>4° eventuele voorstellen voor een impulsbeleid;<BR>5°   aandachtspunten bij de uitvoering van het Kunstendecreet;<BR>6° voorstellen voor   een nadere bepaling van de criteria voor de beoordeling van subsidievragen   binnen het Kunstendecreet;<BR>7° een verhouding tot de andere overheden op het   vlak van het kunstenbeleid.<BR></P>  <P>De eventuele nadere bepaling door de Vlaamse Regering van de criteria, blijft   geldig tot de Vlaamse Regering de criteria opnieuw nader bepaalt.<BR></P>  <P>§ 3. Het Kunstensteunpunt, vermeld in artikel 71, levert een bijdrage aan de   opbouw van de strategische visienota, vermeld in paragraaf 1, door een   landschapstekening aan te leveren op basis van een sterkte-zwakteanalyse, die de   sterktes, zwaktes, kansen en bedreigingen omvat, uiterlijk op 1 september van   het jaar voorafgaand aan de neerlegging van de strategische visienota.<BR></P>  <P>§ 4. De Vlaamse Regering legt de strategische visienota voor aan het Vlaams   Parlement uiterlijk op 1 april van het jaar na een verkiezing van het Vlaams   Parlement.<BR></P>
+<p>§ 1. De Vlaamse Regering ontwikkelt een strategische visie op het beleidskader voor de kunsten voor de beleidsperiode. Deze strategische visienota concretiseert de beleidsnota Cultuur.</p>
+
+<p>§ 2. De strategische visienota bevat minstens volgende elementen:<br>
+1° een breed georiënteerde omgevingsanalyse die verder gaat dan het kunstenveld;<br>
+2° nieuwe uitdagingen die om beleidsaandacht vragen;<br>
+3° prioriteiten voor de legislatuur;<br>
+4° eventuele voorstellen voor een impulsbeleid;<br>
+5° aandachtspunten bij de uitvoering van het Kunstendecreet met het oog op de afstemming, vermeld in artikel 46, § 1, van het voorontwerp van beslissing aan de strategische visienota;<br>
+6° voorstellen voor een nadere bepaling van de criteria voor de beoordeling van subsidievragen binnen het Kunstendecreet;<br>
+7° een verhouding tot de andere overheden op het vlak van het kunstenbeleid, rekening houdend met de bijdragen geleverd in het kader van artikel 8, 1°.</p>
+
+<p>De eventuele nadere bepaling door de Vlaamse Regering van de criteria, blijft geldig tot de Vlaamse Regering de criteria opnieuw nader bepaalt.</p>
+
+<p>§ 3. Het Kunstensteunpunt, vermeld in artikel 71, levert een bijdrage aan de opbouw van de strategische visienota, vermeld in paragraaf 1, door een landschapstekening aan te leveren bij de door de Vlaamse Regering aangewezen dienst, uiterlijk op 1 september van het jaar vóór de neerlegging van de strategische visienota.<br>
+<br>
+De landschapstekening is gebaseerd op een sterkte-zwakteanalyse, die de sterktes, zwaktes, kansen en bedreigingen van het kunstenveld beschrijft. De landschapstekening bevat zowel kwalitatieve als kwantitatieve gegevens van het kunstenveld, met inbegrip van cijfers over de internationale context, de aanduiding van zowel hiaten als overaanbod, en de beschrijving van huidige trends.<br>
+<br>
+Het Kunstensteunpunt werkt daarvoor in dialoog met de door de Vlaamse Regering aangewezen dienst..</p>
+
+<p>§ 4. De Vlaamse Regering legt de strategische visienota voor aan het Vlaams Parlement uiterlijk op 1 april van het jaar na een verkiezing van het Vlaams Parlement.</p>
 
 ## Afdeling 2 [... (opgeh. decr. 29 juni 2018, art. 5, I: 1 januari 2019)] complementair beleid
 
@@ -246,7 +265,16 @@ De Vlaamse Regering kan de beoordelings- en de toekenningsprocedure nader   bepa
 
 ### ART. 50.
 
-<P>§ 1. Een subsidie wordt in de vorm van voorschotten beschikbaar gesteld na de   ondertekening van een subsidiebesluit.<BR></P>  <P>De Vlaamse Regering bepaalt nader hoe de voorschotten worden berekend en   betaald.<BR></P>  <P>§ 2. Een werkingssubsidie als vermeld in artikel 6, 4°, wordt als volgt   beschikbaar gesteld:<BR>1° een voorschot van vijfenveertig procent van het   toegekende subsidiebedrag voor het werkjaar, betaalbaar vanaf 1 februari;<BR>2°   een voorschot van vijfenveertig procent van het toegekende subsidiebedrag voor   het werkjaar, betaalbaar vanaf 1 juli;<BR>3° een saldo van maximaal tien procent   van het toegekende subsidiebedrag voor het werkjaar, betaalbaar nadat de door de   Vlaamse Regering aangewezen dienst heeft vastgesteld dat de subsidievoorwaarden   zijn nageleefd.<BR></P>  <P>§ 3. Van een meerjarige subsidie wordt een voorschot beschikbaar gesteld op   voorwaarde dat:<BR>1° een subsidieontvanger tijdig een volledig actieplan voor   het komend werkjaar indient bij de door de Vlaamse Regering aangewezen dienst.   Het actieplan houdt rekening met de beslissing van de Vlaamse Regering en de   grootte van het toegekende subsidiebedrag;<BR>2° noch de door de Vlaamse   Regering aangewezen dienst, noch een commissie als vermeld in artikel 44, een   bezwaar maken bij eventuele afwijkingen die een actieplan bevat ten aanzien van   het aanvraagdossier.<BR></P>  <P>De Vlaamse Regering bepaalt nader welke gegevens en documenten een actieplan   bevat, aan welke inhoudelijke en vormelijke voorwaarden een actieplan voldoet en   op welke wijze en wanneer een actieplan ingediend wordt.<BR></P>
+<p>§ 1. Een subsidie wordt in de vorm van voorschotten beschikbaar gesteld na de ondertekening van een subsidiebesluit.</p>
+
+<p>De Vlaamse Regering bepaalt nader hoe de voorschotten worden berekend en betaald.</p>
+
+<p>§ 2. Een werkingssubsidie als vermeld in artikel 6, 4°, wordt als volgt beschikbaar gesteld:<br>
+1° een voorschot van vijfenveertig procent van het toegekende subsidiebedrag voor het werkjaar, betaalbaar vanaf 1 februari;<br>
+2° een voorschot van vijfenveertig procent van het toegekende subsidiebedrag voor het werkjaar, betaalbaar vanaf 1 juli;<br>
+3° een saldo van maximaal tien procent van het toegekende subsidiebedrag voor het werkjaar, betaalbaar nadat de door de Vlaamse Regering aangewezen dienst heeft vastgesteld dat de subsidievoorwaarden zijn nageleefd.</p>
+
+<p>§ 3. ...</p>
 
 ## Afdeling 2 Toezicht op de subsidieaanwending en sancties
 
