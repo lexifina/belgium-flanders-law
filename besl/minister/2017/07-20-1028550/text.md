@@ -26,8 +26,8 @@ Besluit :
 
 ### ART 1.
 
-Op aanvraag van de coöperatieve vennootschap Rederscentrale met zetel in Hendrik Baelskaai 25, B-8400 Oostende, erkende producentenorganisatie voor de sector visserijproducten, wordt de maatregel tot het betalen van een heffing van 4 euro per kg voor rog (Raja ssp.) van sortering 4, zoals gedefinieerd in artikel 7 en 8 en bijlage II bij Verordening (EG) nr. 2406/1996 van de Raad van 26 november 1996 houdende vaststelling van gemeenschappelijke handelsnormen voor bepaalde visserijprodukten, die aangeland wordt in een Belgische haven, algemeen bindend verklaard voor niet-aangeslotenen bij de producentenorganisatie Rederscentrale, die actief zijn in de havens van Nieuwpoort, Oostende en Zeebrugge.
+...
 
 ### ART 2.
 
-Dit besluit treedt in werking op de dag van bekendmaking ervan in het Belgisch Staatsblad en treedt buiten werking na twaalf maanden vanaf de dag van inwerkingtreding of als de producentenorganisatie Rederscentrale de maatregel ten aanzien van haar leden intrekt.
+...
