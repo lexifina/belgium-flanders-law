@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het jachtdecreet van 24 juli 1991, meer
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° Jachtdecreet : het jachtdecreet van 24 juli 1991;<br />2° Natuurdecreet : het decreet van 21 oktober 1997 op het natuurbehoud en het natuurlijk milieu;<br />3° Minister : de Vlaamse minister bevoegd voor het Natuurbehoud;<br />4° Agentschap : het Agentschap voor Natuur en Bos;<br />5° Ambtenaar : de voor de uitvoering van dit besluit aangestelde ambtenaar van het Agentschap;<br />6° Beschermde soort : een soort die krachtens artikel 51 van het Natuurdecreet bescherming geniet en waarbij categorie 1, 2 of 3 aangekruist is, en categorie 4 niet aangekruist is, in bijlage 1 van het besluit van de Vlaamse Regering van 15 mei 2009 met betrekking tot soortenbescherming en soortenbeheer;<br />7° Schadelijder : degene die, op het ogenblik van het ontstaan van de wildschade of de schade door een beschermde soort, op basis van een titel van eigendom, erfpacht, schriftelijke pacht- of gebruiksovereenkomst, uitbater of gebruiker is van het geteisterde goed. Voor zover het gaat over wildschade of schade door een beschermde soort aan gronden met landbouw- of tuinbouwbestemming, aan de teelten of oogsten op deze gronden of aan de voor de landbouw nuttige dieren, moet de schadelijder kunnen aantonen voor de betrokken percelen geregistreerd te zijn op basis van het decreet van 22 december 2006 houdende een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° Jachtdecreet : het jachtdecreet van 24 juli 1991;<br>
+2° Natuurdecreet : het decreet van 21 oktober 1997 op het natuurbehoud en het natuurlijk milieu;<br>
+3° Minister : de Vlaamse minister bevoegd voor het Natuurbehoud;<br>
+4° Agentschap : het Agentschap voor Natuur en Bos;<br>
+5° Ambtenaar : de voor de uitvoering van dit besluit aangestelde ambtenaar van het Agentschap;<br>
+6° Beschermde soort : een soort die krachtens artikel 51 van het Natuurdecreet bescherming geniet en waarbij categorie 1, 2 of 3 aangekruist is, en categorie 4 niet aangekruist is, in bijlage 1 van het besluit van de Vlaamse Regering van 15 mei 2009 met betrekking tot soortenbescherming en soortenbeheer;<br>
+7° Schadelijder : degene die, op het ogenblik van het ontstaan van de wildschade of de schade door een beschermde soort, op basis van een titel van eigendom, erfpacht, schriftelijke pacht- of gebruiksovereenkomst, uitbater of gebruiker is van het geteisterde goed. Voor zover het gaat over wildschade of schade door een beschermde soort aan gronden met landbouw- of tuinbouwbestemming, of aan de teelten of oogsten op deze gronden, moet de schadelijder kunnen aantonen voor de betrokken percelen geregistreerd te zijn op basis van het decreet van 22 december 2006 houdende een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid;<br>
+8° Voor landbouw nuttige dieren: runderen, varkens, paardachtigen, schapen, geiten, hertachtigen, pluimvee, loopvogels, konijnen en honden.
 
 ### ART. 1/1.
 
@@ -66,7 +74,13 @@ De raming of begroting van de wildschade of schade door een beschermde   soort g
 
 ### ART. 13.
 
-§ 1. Het eigen risico dat geldt bij een te verlenen vergoeding met   betrekking tot de wildschade of schade door een beschermde soort wordt   vastgesteld op 5 % van het bedrag van de vastgestelde schade, met een minimum   van euro 250,00 per schadelijder per jaar. <BR><BR>Vergoedingen lager dan 50   euro worden niet uitbetaald.<BR><BR>§ 2. ...
+§ 1. Het eigen risico dat geldt bij een te verlenen vergoeding met betrekking tot de wildschade of schade door een beschermde soort wordt vastgesteld op 5 % van het bedrag van de vastgestelde schade, met een minimum van euro 250,00 per schadelijder per jaar.<br>
+<br>
+Er geldt geen eigen risico voor schade veroorzaakt door wolf of door lynx.<br>
+<br>
+Vergoedingen lager dan 50 euro worden niet uitbetaald.<br>
+<br>
+§ 2. ...
 
 ## HOOFDSTUK III. Beroep en herziening
 
