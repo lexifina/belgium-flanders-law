@@ -2,16 +2,16 @@
   "codex_id": 1020559,
   "title": "Ministerieel besluit van 2011-07-25 houdende de goedkeuring van het eenheidsreglement gerecycleerde granulaten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020559/VolledigDocument?datum=2017-10-09",
-  "source_sha256": "a136be61720798615d08be75b4e3b119afb465ea8689fd10d5650835d2742a5b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020559/VolledigDocument?datum=2018-08-18",
+  "source_sha256": "3f2e198c747cda03e8b5618fdf9b57548328e26d789bec50bf6934c6c3b7a1ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020559&param=informatie",
-  "as_of": "2017-10-09",
+  "as_of": "2018-08-18",
   "made": "2011-07-25",
   "gazette": "2011-08-23",
   "numac": 2011035674,
   "document_start": "2011-11-23",
   "document_end": null,
-  "in_force": "2017-10-09",
+  "in_force": "2018-08-18",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2017-10-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-08-18; future article versions excluded; article text as the API gives it"
 }
