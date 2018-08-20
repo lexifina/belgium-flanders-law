@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029631,
+  "title": "Ministerieel besluit van 2018-07-12 tot wijziging van artikel 3 van het ministerieel besluit van 13 september 2012 houdende de bepaling van de opslag, de organisatie en de vernietiging van de stukken bij de lokale en provinciale verkiezingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029631/VolledigDocument?datum=2018-08-20",
+  "source_sha256": "d8e4491cb703cd4b9bbc6b70eadff6ef47dc4f41fe637787ac93d4e6ab308a8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029631&param=informatie",
+  "as_of": "2018-08-20",
+  "made": "2018-07-12",
+  "gazette": "2018-08-10",
+  "numac": 2018013136,
+  "document_start": "2018-08-20",
+  "document_end": null,
+  "in_force": "2018-08-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
