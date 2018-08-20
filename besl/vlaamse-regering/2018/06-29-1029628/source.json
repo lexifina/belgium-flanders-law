@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029628,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-29 houdende de uitvoering van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, wat betreft de erkenning van beroepskwalificaties voor maatschappelijke rollen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029628/VolledigDocument?datum=2018-08-20",
+  "source_sha256": "90f92b6b702c6d1d751b90254b0c6701559298bbc31e620056da43ae44884259",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029628&param=informatie",
+  "as_of": "2018-08-20",
+  "made": "2018-06-29",
+  "gazette": "2018-08-10",
+  "numac": 2018013193,
+  "document_start": "2018-08-20",
+  "document_end": null,
+  "in_force": "2018-08-20",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2018-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
