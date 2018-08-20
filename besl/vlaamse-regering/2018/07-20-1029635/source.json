@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029635,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 houdende erkenning van de vzw BaHeNa te Baarle-Hertog als lokale radio-omroeporganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029635/VolledigDocument?datum=2018-08-20",
+  "source_sha256": "eb7f73d93b4853c49f986776fbdb76676ccf7b6b123bd65b60e069fd2a2fb5e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029635&param=informatie",
+  "as_of": "2018-08-20",
+  "made": "2018-07-20",
+  "gazette": "2018-08-10",
+  "numac": 2018013209,
+  "document_start": "2018-08-20",
+  "document_end": null,
+  "in_force": "2018-08-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
