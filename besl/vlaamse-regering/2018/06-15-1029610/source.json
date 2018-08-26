@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029610,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-15 tot wijziging van bijlage II van het koninklijk besluit van 19 maart 2009 betreffende de technische voorschriften voor binnenschepen, wat betreft de technische voorschriften voor alleenvarende duwbakken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029610/VolledigDocument?datum=2018-08-26",
+  "source_sha256": "f8115f2749944fe585302b9ebc8eb291a05dbf578c835c1b93e7935ee70c46ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029610&param=informatie",
+  "as_of": "2018-08-26",
+  "made": "2018-06-15",
+  "gazette": "2018-08-06",
+  "numac": 2018031603,
+  "document_start": "2018-08-26",
+  "document_end": null,
+  "in_force": "2018-08-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
