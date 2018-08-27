@@ -183,6 +183,10 @@ Het agentschap berekent de volgende aanvullende subsidies op basis van het aanta
 2° de toelage voor managementondersteuning, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 november 2013 houdende toekenning voor managementondersteuning aan voorzieningen voor personen met een handicap;<br>
 3° de aanvullende subsidie voor vorming, vermeld in artikel 4 van het besluit van de Vlaamse regering van 10 juli 2001 tot subsidiëring van management en vorming ten bate van voorzieningen gesubsidieerd door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
 
+### ART 20/0.
+
+De subsidies die voor een subsidie-eenheid, met uitzondering van de subsidie-eenheid die is opgericht door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging als vermeld in artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut, zijn berekend conform artikel 3 tot en met 20, worden vanaf het jaar 2018 verminderd met 100 euro per voltijds equivalent.
+
 ### ART 20/1.
 
 De voorschotten op de subsidies voor de vergunde zorgaanbieders, voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, units voor geïnterneerden en observatie-, diagnose- en behandelingsunits worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.<br>
