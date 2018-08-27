@@ -41,7 +41,33 @@ Een   bijstandsorganisatie kan reserves aanleggen conform artikel 5, § 3 en § 
 6° de organisatie toont aan dat ze openstaat voor een ruime, diverse doelgroep van personen met een handicap;<br>
 7° de organisatie hangt niet af van organisaties die instaan voor de indicatiestelling of van organisaties die niet-rechtsreeks toegankelijke zorg en ondersteuning aanbieden;<br>
 8° de organisatie voldoet aan de door de Vlaamse minister, bevoegd voor de bijstand aan personen, vastgestelde kwaliteitseisen;<br>
-9° de werking van de organisatie bestrijkt het volledige grondgebied van het Nederlands taalgebied en het tweetalige gebied Brussel-hoofdstad.</p>
+9° de werking van de organisatie bestrijkt het volledige grondgebied van het Nederlands taalgebied en het tweetalige gebied Brussel-hoofdstad.<br>
+<br>
+Om vergund te blijven moeten de bijstandsorganisaties beschikken over een kwaliteitshandboek als vermeld in artikel 5, § 4, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, dat de gegevens bevat die opgenomen zijn in de bijlage, die bij dit besluit is gevoegd.<br>
+<br>
+Het kwaliteitshandboek is actueel, vormt een samenhangend geheel en komt overeen met de praktijk. Het ligt permanent ter beschikking van de medewerkers van de bijstandsorganisaties en van de budgethouders.<br>
+<br>
+Het kwaliteitshandboek waarborgt en is niet in tegenspraak met de kwaliteitseisen, vermeld in het eerste lid, 8°.<br>
+<br>
+De zelfevaluatie, vermeld in artikel 5, § 3, van het voormelde decreet van 17 oktober 2003, die de bijstandsorganisatie uitvoert, bevat minstens:<br>
+1° een evaluatie van de gebruikersgerichte processen;<br>
+2° een evaluatie van de organisatiegerichte processen en ingezette middelen.<br>
+<br>
+De zelfevaluatie gebeurt in samenspraak met de medewerkers en de budgethouders.<br>
+<br>
+Bij de evaluatie, vermeld in het vijfde lid, 1° en 2°, wordt in het bijzonder aandacht geschonken aan de doeltreffendheid en doelmatigheid van de processen.<br>
+<br>
+In het zevende lid wordt verstaan onder:<br>
+1° doeltreffendheid: de mate waarin de doelstellingen gerealiseerd worden;<br>
+2° doelmatigheid: de mate waarin de resultaten zich verhouden tot de middelen.<br>
+<br>
+In het achtste lid, 2°, wordt verstaan onder middelen: personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden.<br>
+<br>
+Bij elk van de evaluaties, vermeld in het vijfde lid, 1° en 2°, worden de vijf elementen, vermeld in artikel 5, § 3, tweede lid, 1° tot en met 5°, van het voormelde decreet van 17 oktober 2003, doorlopen, telkens gedurende maximaal vijf jaar.<br>
+<br>
+De bijstandsorganisaties moeten aan de voorwaarden, vermeld in het tweede tot en met het tiende lid, voldoen na afloop van een periode van twee jaar te rekenen vanaf de aanvangsdatum van de vergunning.<br>
+<br>
+In afwijking van het elfde lid moeten de bijstandsorganisaties die op 1 januari 2018 zijn vergund door het agentschap met ingang van 1 juli 2020 voldoen aan de voorwaarde, vermeld in derde lid.</p>
 
 <p>Er worden maximaal vijf bijstandsorganisaties vergund. De vergunning, vermeld in het eerste lid, wordt toegekend voor onbepaalde duur.</p>
 
@@ -113,6 +139,10 @@ De   bijstandsorganisaties hebben een collectieve opdracht, zowel voor de   budg
 
 <P>De   vergunde bijstandsorganisaties leggen op de door het agentschap vastgelegde   wijze verantwoording af over de besteding van de ter beschikking gestelde   middelen. Uit deze verantwoording moet blijken dat de ter beschikking gestelde   middelen zijn aangewend voor de doelstellingen, vermeld in dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Zorginspectie   controleert ter plaatse of de kwaliteitseisen en de voorschriften, vermeld in   dit besluit, worden nageleefd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
 
+### ART 18/1.
+
+Als een budgethouder een klacht heeft ingediend bij een bijstandsorganisatie, maar het antwoord van de bijstandsorganisatie de klager geen voldoening schenkt, of als de bijstandsorganisatie de klacht niet afhandelt binnen de termijn die is vastgesteld in de interne klachtenprocedure, dan bestaat de mogelijkheid voor de budgethouder om klacht in te dienen bij het agentschap.
+
 ## HOOFDSTUK 8 Sancties
 
 ### ART. 19.
@@ -132,3 +162,25 @@ Dit   besluit treedt in werking op 1 januari 2016.
 ### ART. 22.
 
 De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de   uitvoering van dit besluit.
+
+### BIJLAGE
+
+Bijlage. Gegevens voor het kwaliteitshandboek als vermeld in artikel 6<br>
+<br>
+Het kwaliteitshandboek, vermeld in artikel 6, bevat de volgende gegevens:<br>
+1° de structuur van het kwaliteitshandboek;<br>
+2° de beschrijving van het aanbod van de bijstandsorganisaties;<br>
+3° het kwaliteitsbeleid: missie, visie, waarden, doelstellingen, strategie en geschreven referentiekader;<br>
+4° het kwaliteitssysteem, dat de volgende gegevens bevat:<br>
+a) de organisatiestructuur;<br>
+b) de deelname aan externe overlegorganen;<br>
+c) het inzetten van de middelen;<br>
+d) het beheren van documenten van het kwaliteitshandboek;<br>
+e) de gebruikersgerichte processen, onder meer:<br>
+1) het beëindigen van de ondersteuning;<br>
+2) het afhandelen van klachten van gebruikers;<br>
+g) de organisatiegerichte processen, onder meer;<br>
+1) de vorming van de medewerkers;<br>
+2) de inzet van het personeel;<br>
+3) de deontologische code;<br>
+5° de zelfevaluatie, vermeld in artikel 6.

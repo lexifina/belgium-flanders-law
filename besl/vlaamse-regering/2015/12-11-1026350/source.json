@@ -2,16 +2,16 @@
   "codex_id": 1026350,
   "title": "Besluit van de Vlaamse Regering van 2015-12-11 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026350/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "6ae6dcb28eb3afcf1961c66190a914ad5b0e928ffa052cbf1f4ae11eaa8a88e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026350/VolledigDocument?datum=2018-08-27",
+  "source_sha256": "b34b915769505459be661c6701de54e08f1a35e3ffc5a4a93dc6f49fe32c0718",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026350&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2018-08-27",
   "made": "2015-12-11",
   "gazette": "2016-01-27",
   "numac": 2016035015,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2018-01-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-08-27",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2018-08-27; future article versions excluded; article text as the API gives it"
 }
