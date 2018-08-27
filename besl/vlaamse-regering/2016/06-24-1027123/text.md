@@ -34,19 +34,17 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° decreet van 25 april 2014: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° meer hoogdrempelige individuele bijstand: de bijstand verleend door een bijstandsorganisatie die bestaat uit deelname aan het bemiddelingsoverleg in de regio's, de vertaling van het ondersteuningsplan in feitelijke zorg en ondersteuning, het helpen opstellen van uitvoerings- en budgetplannen, het zoeken naar, selecteren en onderhandelen met zorgaanbieders, de bijstand bij het sluiten van overeenkomsten, bij het beheer van het budget en bij het verantwoorden van de besteding van het budget en de bemiddeling bij geschillen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° voucher: de vorm van financiering waarbij de persoon met een handicap beslist om de financiering van de niet-rechtstreeks toegankelijke zorg en ondersteuning of de bijstand bij de organisatie daarvan rechtstreeks tussen het agentschap en de vergunninghouder, gekozen door de persoon met een handicap, te laten verlopen;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° zorgaanbieder: de natuurlijke persoon of de rechtspersoon die niet rechtstreeks toegankelijke zorg of ondersteuning aanbiedt aan een persoon met een handicap.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° zorgaanbieder: de natuurlijke persoon of de rechtspersoon die niet rechtstreeks toegankelijke zorg of ondersteuning aanbiedt aan een persoon met een handicap;<br>
+12° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.</span><br>
 &nbsp;
 
 ### ART 2.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgetcategorie die ter beschikking gesteld wordt aan de budgethouder wordt uitgedrukt in zorggebonden punten en in euro.</span><br>
+De budgetcategorie die ter beschikking gesteld wordt aan de budgethouder, wordt uitgedrukt in zorggebonden punten. Het aantal zorggebonden punten is een maximum voor een kalenderjaar.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het aantal zorggebonden punten en de bedragen in euro zijn maximumbedragen voor een kalenderjaar.</span><br>
+De zorggebonden punten kunnen omgezet worden in bedragen in euro aan de hand van de omslagsleutel, vermeld in artikel 17, derde lid, van het besluit van 27 november 2015, die wordt geïndexeerd conform artikel 17, vierde lid, van het voormelde besluit.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De personeelspunten kunnen omgezet worden in bedragen in euro's aan de hand van de omslagsleutel, vermeld in artikel 17, vierde lid, van het besluit van 27 november 2015.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan het budget gebruiken als een voucher, als een cashbudget of als een combinatie van beide.</span><br>
-&nbsp;
+De budgethouder kan het budget gebruiken als een voucher, als een cashbudget of als een combinatie van beide.
 
 ### ART 3.
 
@@ -133,8 +131,8 @@ g) een overeenkomst over hoogdrempelige individuele bijstand met een bijstandsor
 h) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het verlenen van individuele ondersteuningsfuncties als vermeld in artikel 4, 1°, c);<br>
 i) een overeenkomst met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;<br>
 j) een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning;<br>
-3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap en waarbij minimaal de helft van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen van 7 mei 1999 of in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen. familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;<br>
-4° een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning en die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap die deze ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
+3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap, die al of niet beschikken over een budget. De ingezette budgetten kunnen in solidariteit aangewend om zorg en ondersteuning te organiseren voor alle personen met een handicap. Minimaal de helft van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen van 7 mei 1999 of in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen zijn familie tot de tweede graad van de personen met een handicap die worden ondersteund. De rechtspersoon registreert zich bij het agentschap op de wijze die wordt vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+4° een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning en die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap die deze ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap. De zorg en ondersteuning wordt geboden buiten de capaciteit waarvoor de organisatie of dienst is erkend of vergund.<br>
 <br>
 De Vlaamse minister, bevoegd voor de bijstand aan personen, kan vaststellen in welke gevallen en onder welke voorwaarden het cashbudget kan worden besteed voor dagondersteuning als vermeld in artikel 1, 3°, van het besluit van 27 november 2015, op basis van een overeenkomst met groene zorginitiatieven die ondersteuning bieden aan verschillende personen en die zich registeren bij het agentschap.<br>
 <br>
@@ -146,7 +144,7 @@ Het cashbudget kan ook worden ingezet op basis van een overeenkomst voor caseman
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap deelt aan de budgethouder mee dat het budget dat het agentschap heeft toegewezen ter beschikking wordt gesteld, en brengt de budgethouder op de hoogte van de aanvangsdatum en periode.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het eerste jaar wordt het budget ter beschikking gesteld naar rata de resterende maanden van het kalenderjaar.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het eerste jaar wordt het budget ter beschikking gesteld naar rata de resterende&nbsp;dagen van het kalenderjaar.</span><br>
 &nbsp;
 
 ### ART 9.
@@ -171,7 +169,7 @@ Het cashbudget kan ook worden ingezet op basis van een overeenkomst voor caseman
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Bij gebruik als voucher deelt de bijstandsorganisatie de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap en deelt de budgethouder mee in te stemmen met die gegevens. De bijstandsorganisatie deelt aan het agentschap het aantal sessies mee die effectief plaats hebben gevonden. Het agentschap betaalt de vergoeding voor die sessies in euro's aan de bijstandsorganisatie. Het bedrag, uitgedrukt in zorgpunten, wordt in mindering gebracht van het budget van de budgethouder.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De zorggebonden punten worden naar euro's omgerekend aan de hand van de omslagsleutel, vermeld in artikel 2, tweede lid.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De zorggebonden punten worden naar euro's omgerekend aan de hand van de omslagsleutel, vermeld in artikel 2, derde lid.</span><br>
 &nbsp;
 
 ### ART 11.
@@ -182,17 +180,11 @@ Het agentschap kan aan de budgethouder intensieve bemiddeling, vermeld in artike
 
 ### ART 12.
 
-<p>De beslissing van het agentschap tot terbeschikkingstelling van het budget vervalt als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.<br>
+De beslissing van het agentschap tot terbeschikkingstelling van het budget en de beslissing tot toewijzing van dat budget vervallen als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont, kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.<br>
 <br>
 In afwijking van het eerste lid wordt de termijn, vermeld in artikel 9 van dit besluit, verlengd met een periode van acht maanden als het agentschap op het moment dat de termijn, vermeld in artikel 9 van dit besluit, afloopt, heeft beslist om in te stemmen met intensieve bemiddeling als vermeld in artikel 2, § 1, van het besluit van de Vlaamse Regering van 20 juli 2018 over de bemiddeling, de afstemming en de planning in het kader van persoonsvolgende financiering voor meerderjarige personen met een handicap, conform artikel 4 van het voormelde besluit.<br>
 <br>
-Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de beslissing van het agentschap tot terbeschikkingstelling van het budget over een maand zal vervallen.<br>
-<br>
-Als de termijn, vermeld in het eerste lid is verstreken brengt het agentschap de budgethouder schriftelijk op de hoogte van het vervallen van de beslissing tot terbeschikkingstelling.<br>
-<br>
-Als de terbeschikkingstelling vervallen is, wordt de budgethouder met de hem toegewezen budgetcategorie ingedeeld in prioriteitengroep drie als vermeld in artikel 23 van het besluit van 27 november 2015. De budgethouder wordt binnen de prioriteitengroep drie gerangschikt op basis van de datum waarop de terbeschikkingstelling vervalt, vermeld in het eerste lid.<br>
-<br>
-In afwijking van het eerste lid vervalt de beslissing tot toewijzing van het budget, vermeld in artikel 25 van het besluit van 27 november 2015 en de beslissing tot terbeschikkingstelling van het budget dat werd aangevraagd en toegewezen met toepassing van hoofdstuk 5 van het voormelde besluit, als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.</p>
+Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de beslissing van het agentschap tot toewijzing en terbeschikkingstelling van het budget over een maand vervalt. Als de termijn, vermeld in het eerste lid, is verstreken, brengt het agentschap de budgethouder er schriftelijk van op de hoogte dat de beslissing tot toewijzing en terbeschikkingstelling vervalt.
 
 ## HOOFDSTUK 4 Het gebruik van een budget als voucher
 
@@ -239,7 +231,7 @@ In afwijking van het eerste lid vervalt de beslissing tot toewijzing van het bud
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Het agentschap vergoedt de bijstandsorganisatie voor de meer hoogdrempelige individuele bijstand die wordt geleverd op basis van een voucher. De bijstandsorganisatie deelt aan het agentschap het aantal zorggebonden punten mee waarvoor hoogdrempelige individuele bijstand aan budgethouders werd verleend met vermelding van de naam van de budgethouders.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap vergoedt de bijstandsorganisatie in euro's. Het aantal zorggebonden punten dat de bijstandsorganisatie heeft meegedeeld wordt daarvoor omgerekend in euro's met de omslagsleutel, vermeld in artikel 2, tweede lid.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap vergoedt de bijstandsorganisatie in euro's. Het aantal zorggebonden punten dat de bijstandsorganisatie heeft meegedeeld wordt daarvoor omgerekend in euro's met de omslagsleutel, vermeld in artikel 2, derde lid.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 5 Het gebruik van een budget als cashbudget
@@ -359,9 +351,7 @@ In afwijking van het eerste lid vervalt de beslissing tot toewijzing van het bud
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder deelt aan het agentschap mee dat hij de overeenkomst heeft opgezegd met de zorgaanbieder die het agentschap vergund heeft of met de bijstandsorganisatie en deelt de datum mee waarop de overeenkomst beëindigd wordt.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenkomst met de vergunde zorgaanbieder beëindigd wordt op de eerste dag van de eerste maand die volgt op de datum van het overlijden van de budgethouder.<br>
-<br>
-Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenkomst met de vergunde zorgaanbieder beëindigd wordt maximaal twee maanden na de datum van het overlijden van de budgethouder. Als binnen die periode een overeenkomst met een nieuwe budgethouder wordt afgesloten en ingaat, wordt de overeenkomst met de overleden budgethouder beëindigd op de dag waarop de overeenkomst van de nieuwe budgethouder ingaat. Deze regeling is van toepassing tot en met 31 december 2019.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenkomst met de vergunde zorgaanbieder beëindigd wordt maximaal twee maanden na de datum van het overlijden van de budgethouder. Als binnen die periode een overeenkomst met een nieuwe budgethouder wordt afgesloten en ingaat, wordt de overeenkomst met de overleden budgethouder beëindigd op de dag waarop de overeenkomst van de nieuwe budgethouder ingaat. Deze regeling is van toepassing tot en met 31 december 2019.</span><br>
 &nbsp;
 
 ### ART 26.
@@ -391,16 +381,65 @@ Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenk
 
 ### ART 27.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap kan de overeenkomsten, vermeld in artikel 7, die de budgethouder heeft gesloten in het kader van de besteding van zijn budget als cashbudget en de bewijzen met betrekking tot de meegedeelde kosten, opvragen bij de budgethouder.</span><br>
+§ 1. Zorginspectie controleert ter plaatse of op basis van stukken of de bepalingen, vermeld in dit besluit, worden nageleefd.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, controleert ter plaatse of op stukken of de bepalingen vermeld in dit besluit worden nageleefd.</span><br>
+De budgethouders verlenen hun medewerking aan de uitoefening van het toezicht door Zorginspectie. Als daarom verzocht wordt, stellen ze de stukken die verband houden met de besteding van het budget, ter beschikking.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouders verlenen hun medewerking aan de uitoefening van het toezicht door Zorginspectie. Als daarom verzocht wordt stellen ze de stukken die met de besteding van het budget verband houden ter beschikking.</span><br>
-&nbsp;
+§ 2. Het agentschap kan de overeenkomsten, vermeld in artikel 7, die de budgethouder heeft gesloten in het kader van de besteding van zijn budget als cashbudget, en de bewijzen voor de meegedeelde kosten opvragen bij de budgethouder.<br>
+<br>
+§ 3. Als een budgethouder nalaat gevolg te geven aan drie opeenvolgende verzoeken van Zorginspectie om medewerking te verlenen aan de uitoefening van het toezicht, of nalaat gevolg te geven aan drie opeenvolgende verzoeken van Zorginspectie om de stukken, vermeld in paragraaf 1, tweede lid, te bezorgen, of nalaat gevolg te geven aan drie opeenvolgende verzoeken van het agentschap om de overeenkomsten en bewijzen, vermeld in paragraaf 2, te bezorgen, betaalt het agentschap de kosten, vermeld op de kostenstaten, vermeld in artikel 22, niet langer terug en vervalt de beslissing van het agentschap over de terbeschikkingstelling van het budget.
 
 ## [Afdeling 2 Begeleidende maatregelen bij oneigenlijk gebruik (ing. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
 
+### ART 27/1.
+
+Als het agentschap of Zorginspectie vaststelt dat het budget dat ter beschikking is gesteld en dat wordt ingezet als een cashbudget, niet wordt besteed conform artikel 4, 5, 7, 19 en 22 tot en met 24, kan het agentschap maatregelen opleggen als vermeld in artikel 27/2 en 27/3.
+
+### ART 27/2.
+
+Bij een eerste vaststelling van een niet-conforme besteding als vermeld in artikel 27/1, brengt het agentschap de betrokken budgethouder daarvan op de hoogte en informeert het de budgethouder over de aard van de niet-conformiteit.
+
+### ART 27/3.
+
+§ 1. Na twee verschillende vaststellingen van niet-conforme besteding als vermeld in artikel 27/1, binnen een periode van drie maanden kan het agentschap de betrokken budgethouder verwijzen naar een bijstandsorganisatie. De budgethouder is dan verplicht om zich voor het beheer van zijn budget te laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de betrokken persoon met een handicap.<br>
+<br>
+De budgethouder deelt de overeenkomst, vermeld in het eerste lid, mee aan het agentschap. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het eerste lid.<br>
+<br>
+§ 2. Als de budgethouder nalaat de overeenkomst, vermeld in paragraaf 1, eerste lid, aan te gaan en zich te laten bijstaan door een bijstandsorganisatie, of als het agentschap of Zorginspectie opnieuw tweemaal vaststelt dat het budget niet wordt besteed conform artikel 4, 5, 7, 19 en 22 tot en met 24, nadat de budgethouder is verplicht zich te laten bijstaan door een bijstandsorganisatie, kan het agentschap beslissen dat de budgethouder zich gedurende een periode van maximaal twee jaar moet laten bijstaan door een bijstandsorganisatie bij de opmaak van een overeenkomst als vermeld in artikel 7, voor de mededeling van de gegevens van die overeenkomsten, vermeld in artikel 17, § 1, eerste lid, en bij de opmaak en mededeling van de kostenstaten, vermeld in artikel 22.<br>
+<br>
+Het agentschap informeert de budgethouder over zijn beslissing, vermeld in het eerste lid.<br>
+<br>
+De budgethouder sluit een overeenkomst met een bijstandsorganisatie, die de taken, vermeld in het eerste lid, zal opnemen, waarin wordt voorzien in hoogdrempelige individuele bijstand, die wordt vergoed met het budget van de persoon met een handicap. De budgethouder deelt die overeenkomst mee aan het agentschap.<br>
+<br>
+De bijstandsorganisatie, vermeld in de overeenkomst, vermeld in het derde lid, informeert het agentschap over de bijstand die wordt verleend in het kader van de voormelde overeenkomst.<br>
+<br>
+§ 3. Als de budgethouder geen overeenkomst sluit als vermeld in paragraaf 2, derde lid, binnen twee maanden te rekenen vanaf de datum van de beslissing van het agentschap, vermeld in paragraaf 2, eerste lid, kan het agentschap beslissen dat de budgethouder het budget gedurende twee jaar, te rekenen vanaf de datum vermeld in de beslissing van het agentschap, uitsluitend kan inzetten als een voucher bij een vergunde zorgaanbieder.<br>
+<br>
+Het agentschap deelt zijn beslissing, vermeld in het eerste lid, mee aan de budgethouder.<br>
+<br>
+De kosten vermeld op een kostenstaat als vermeld in artikel 22, worden niet meer terugbetaald vanaf de datum, vermeld in de beslissing van het agentschap.<br>
+<br>
+§ 4. Als de budgethouder het budget na de beslissing van het agentschap, vermeld in paragraaf 3, eerste lid, niet inzet als een voucher, vervalt de beslissing van het agentschap over de terbeschikkingstelling van het budget.
+
+### ART 27/4.
+
+Onverminderd de toepassing van artikel 27/1 tot en met 27/3 kan het agentschap de kosten, vermeld op de kostenstaten, vermeld in artikel 22, die terugbetaald zijn aan de budgethouder, terugvorderen als vastgesteld wordt dat die kosten verband houden met een niet-conforme besteding van het cashbudget als vermeld in artikel 27/1.
+
 ## [Afdeling 3 Maatregelen bij onvoldoende besteding van een budget (ing. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
+
+### ART 27/5.
+
+Het agentschap monitort de besteding van de budgetten op jaarbasis.<br>
+<br>
+Als het agentschap vaststelt dat er gedurende een kalenderjaar geen overeenkomsten als vermeld in artikel 7 of 13, eerste lid, zijn meegedeeld aan het agentschap, of als de budgethouder die het budget inzet als een cashbudget, gedurende een kalenderjaar geen kostenstaten als vermeld in artikel 22 heeft ingediend, neemt het agentschap daarover met een brief en telefonisch contact op met de budgethouder.<br>
+<br>
+Als de budgethouder niet reageert op de brief, vermeld in het tweede lid, binnen dertig dagen nadat hij is verzonden, stuurt het agentschap een herinneringsbrief naar de budgethouder.<br>
+<br>
+Als de budgethouder niet reageert op die herinneringsbrief, kan het agentschap beslissen dat de budgethouder zich moet laten bijstaan door een bijstandsorganisatie. De budgethouder sluit een overeenkomst met een bijstandsorganisatie waarin wordt voorzien in ministens vier sessies hoogdrempelige individuele bijstand. De bijstand die wordt geboden door de bijstandsorganisatie, wordt vergoed met het budget van de persoon met een handicap.<br>
+<br>
+De budgethouder deelt de overeenkomst, vermeld in het vierde lid, mee aan het agentschap. De bijstandsorganisaties informeren het agentschap over de bijstand die is verleend conform het vierde lid.<br>
+<br>
+Als de budgethouder geen overeenkomst sluit als vermeld in het vierde lid, worden de kosten vermeld op een kostenstaat als vermeld in artikel 22, niet meer terugbetaald en vervalt de beslissing van het agentschap over de terbeschikkingstelling van het budget.
 
 ## HOOFDSTUK 9 Slotbepalingen
 
