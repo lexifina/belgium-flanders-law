@@ -105,6 +105,10 @@ In artikel 53/1 van hetzelfde decreet, ingevoegd bij het decreet van 21 december
 <br>
 "De wettelijke vertegenwoordiger van de leerling of de student reageert uiterlijk op 1 juni van het lopende schooljaar op de melding van de start van het onderzoek.".
 
+### ART 42.
+
+In artikel 55 van hetzelfde decreet wordt de datum "1 september" vervangen door de zinsnede "de laatste maandag van augustus".
+
 ## HOOFDSTUK 8. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding
