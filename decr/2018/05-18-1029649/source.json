@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029649,
+  "title": "Decreet van 2018-05-18 houdende de Vlaamse sociale bescherming",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029649/VolledigDocument?datum=2018-08-27",
+  "source_sha256": "806903f294d11d6865934a9c0608cf4643bcfecb4749cd0102a288d89e6729d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029649&param=informatie",
+  "as_of": "2018-08-27",
+  "made": "2018-05-18",
+  "gazette": "2018-08-17",
+  "numac": 2018013215,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2018-08-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
