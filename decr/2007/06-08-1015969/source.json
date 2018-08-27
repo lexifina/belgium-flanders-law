@@ -2,16 +2,16 @@
   "codex_id": 1015969,
   "title": "Decreet van 2007-06-08 betreffende de studiefinanciering van de Vlaamse Gemeenschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015969/VolledigDocument?datum=2018-08-01",
-  "source_sha256": "e44788a7bd2df06ada8fe898532e5e27fb97345b1b1a2336ffdd9660f529273d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015969/VolledigDocument?datum=2018-08-27",
+  "source_sha256": "3160eaabeb9c54303b393c539cb92a9337e7fd679720e3a85854807f245ca24f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015969&param=informatie",
-  "as_of": "2018-08-01",
+  "as_of": "2018-08-27",
   "made": "2007-06-08",
   "gazette": "2007-07-19",
   "numac": 2007036095,
   "document_start": "2007-07-01",
   "document_end": null,
-  "in_force": "2018-08-01",
+  "in_force": "2018-08-27",
   "article_versions": 83,
-  "record_form": "consolidated version as in force on 2018-08-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-08-27; future article versions excluded; article text as the API gives it"
 }

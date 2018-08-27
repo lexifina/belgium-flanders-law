@@ -429,7 +429,8 @@ Als een dossier voor de aanvraag van een toelage onvolledig werd   ingediend, mo
 
 ### ART. 55.
 
-De toelage wordt op zijn vroegst uitbetaald vanaf 1 september van het school- of academiejaar in kwestie.<br /><br />
+De toelage wordt op zijn vroegst uitbetaald vanaf de laatste maandag van augustus van het school- of academiejaar in kwestie.<br>
+&nbsp;
 
 ## Afdeling II [... (opgeh. decr. 22 maart 2019, art. 32, I: 1 september 2019)]
 
