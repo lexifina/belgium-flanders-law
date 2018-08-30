@@ -16,8 +16,8 @@ Besluit :
 
 ### ART. 1.
 
-Met toepassing van artikel 5 van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten wordt Quality Partner NV, rue Hayeneux 62, 4040 Herstal, met ingang van 1 januari 2010 erkend als controleorgaan.
+...
 
 ### ART. 2.
 
-Met toepassing van artikel 14 van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten wordt het volgende codenummer toegekend aan Quality Partner NV : BE-BIO-03.
+...
