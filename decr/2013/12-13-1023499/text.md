@@ -3089,7 +3089,7 @@ Het verschil tussen de schenkbelasting, berekend conform artikel 2.8.4.1.1, § 3
 <br>
 § 5. Bij een schenking die onderworpen is aan een opschortende voorwaarde, wordt voor de toepassing van dit artikel de datum van de vervulling van de voorwaarde in de plaats gesteld van de datum van de akte.<br>
 <br>
-§ 6. Het voordeel van de toepassing van paragraaf 1 of 3 kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013 als de voormelde premies betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in paragraaf 1, eerste lid, 1°.<br>
+§ 6. Het voordeel van de toepassing van paragraaf 1 of 3 kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013, noch met de belastingvermindering van de personenbelasting, vermeld in artikel 14536 van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in paragraaf 1, eerste lid, 1°.<br>
 <br>
 § 7. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 5°, en § 3, vijfde lid.
 
@@ -3304,7 +3304,7 @@ In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 6% voor een   koopo
 <br>
 § 4. Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan niet gecombineerd worden met de toepassing van&nbsp;de vermindering, vermeld in artikel 2.9.5.0.1, noch met de ontheffing, vermeld in artikel 3.6.0.0.6, § 3.<br>
 <br>
-Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013, als die premies betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in paragraaf 2, 1°.<br>
+Het voordeel van de toepassing van de tariefvermindering uit dit artikel kan niet gecombineerd worden met de premies, vermeld in artikel 10.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013,&nbsp;noch met de belastingvermindering van de personenbelasting, vermeld in artikel 14536 van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering betrekking hebben op dezelfde beheersmaatregelen, werkzaamheden of diensten als de beheersmaatregelen, de werkzaamheden of de diensten, vermeld in paragraaf 2, 1°.<br>
 <br>
 § 5. Bij een rechtshandeling als vermeld in paragraaf 1 die onderworpen is aan een opschortende voorwaarde, wordt voor de toepassing van dit artikel de datum van de vervulling van de voorwaarde in de plaats gesteld van de datum van de akte.
 
