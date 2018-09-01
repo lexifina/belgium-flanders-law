@@ -34,13 +34,15 @@ Dit besluit is van toepassing op het buitengewoon secundair onderwijs, gefinanci
 In dit besluit wordt verstaan onder :<br>
 1° AgODi : het Agentschap voor Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming;<br>
 2° concentratiegraad : de procentuele verhouding tussen :<br>
-a) het aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 die beantwoorden aan de « gelijkekansendindicator », vermeld in artikel 317, § 1, 1°, van de codificatie betreffende het secundair onderwijs;<br>
-b) het totaal aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br>
+a) het aantal externe en semi-interne regelmatige leerlingen in type&nbsp;basisaanbod en type 3 die beantwoorden aan de « gelijkekansendindicator », vermeld in artikel 317, § 1, 1°, van de codificatie betreffende het secundair onderwijs;<br>
+b) het totaal aantal externe en semi-interne regelmatige leerlingen in type&nbsp;basisaanbod en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br>
 3° decreet: het decreet betreffende de Codificatie van sommige bepalingen voor het onderwijs;<br>
 4° departement : de bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming van het Vlaams Ministerie van Onderwijs en Vorming;<br>
 5° ...<br>
 6° gelijkekansenindicatoren : de gelijkekansenindicatoren, vermeld in artikel 317, § 1, van de codificatie betreffende het secundair onderwijs;<br>
 7° minister : de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Leerlingen type 1, die vallen onder de toepassing van artikel 352, § 2, van de Codex Secundair Onderwijs van 17 december 2010, en die voldoen aan de gelijkekansendindicator, vermeld in artikel 317, § 1, 1°, van de voormelde codex, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.<br>
 &nbsp;
 
 ## HOOFDSTUK II Gelijkekansenindicatoren
@@ -61,7 +63,27 @@ Elke leerling die beantwoordt aan één of meerdere gelijkekansenindicatoren kri
 
 ### ART. 6.
 
-§ 1. Het totale aantal extra lesuren wordt met toepassing van artikel 319, § 1, van de codificatie betreffende het secundair onderwijs als volgt berekend :<br />SigmaL = 0,1747 x SigmaP<br />Waarbij,<br />SigmaL = totaal aantal extra lesuren.<br />SigmaP= totaal aantal punten van de verschillende scholen met een concentratiegraad van ten minste 40 %.<br /><br />§ 2. Het totaal aantal extra lesuren per school wordt als volgt berekend :<br />a) [afgerond (0,1747 x P)] = L, waarbij<br />P = aantal punten per school; dit is 0 als de concentratiegraad < 40 % is.<br />L= Lesuren voor 1 school.<br />Scholen waarvoor [afgerond (0,1747 x P)] < 6, krijgen geen extra lesuren, de extra lesuren die hierdoor vrijkomen, worden bijkomend verdeeld over de scholen waarvoor [afgerond (0,1747 x P)] >= 6.<br />b) Het definitieve aantal extra lesuren per school wordt dan berekend als volgt :<br />Ldef = (SigmaL2 / SigmaP2 + 0,1747) x P2<br />Waarbij :<br />Ldef = definitief aantal extra lesuren voor een school<br />SigmaL2 = som van L voor scholen waar L < 6 en de concentratiegraad >= 40 % is.<br />SigmaP2 = totaal aantal punten van de scholen waar L >= 6 en de concentratiegraad >= 40 % is.<br />P2 = aantal punten per school voor scholen waar L >= 6 en de concentratiegraad >= 40 %.<br /><br />§ 3. Als door een stijging van de beschikbare kredieten of met toepassing van artikel 14, eerste lid, extra lesuren vrijkomen in de loop van een in artikel 318 van de codificatie betreffende het secundair onderwijs vermelde periode van opeenvolgende schooljaren, wordt het aantal extra lesuren per punt opnieuw berekend.<br /><br />
+§ 1. Het totale aantal extra lesuren wordt met toepassing van artikel 319, § 1, van de codificatie betreffende het secundair onderwijs als volgt berekend :<br>
+SigmaL = 0,2189 x SigmaP<br>
+Waarbij,<br>
+SigmaL = totaal aantal extra lesuren.<br>
+SigmaP= totaal aantal punten van de verschillende scholen met een concentratiegraad van ten minste 40 %.<br>
+<br>
+§ 2. Het totaal aantal extra lesuren per school wordt als volgt berekend :<br>
+a) [afgerond (0,2189 x P)] = L, waarbij<br>
+P = aantal punten per school; dit is 0 als de concentratiegraad &lt; 40 % is.<br>
+L= Lesuren voor 1 school.<br>
+Scholen waarvoor [afgerond (0,2189 x P)] &lt; 6, krijgen geen extra lesuren, de extra lesuren die hierdoor vrijkomen, worden bijkomend verdeeld over de scholen waarvoor [afgerond (0,2189 x P)] &gt;= 6.<br>
+b) Het definitieve aantal extra lesuren per school wordt dan berekend als volgt :<br>
+Ldef = (SigmaL2 / SigmaP2 + 0,2189) x P2<br>
+Waarbij :<br>
+Ldef = definitief aantal extra lesuren voor een school<br>
+SigmaL2 = som van L voor scholen waar L &lt; 6 en de concentratiegraad &gt;= 40 % is.<br>
+SigmaP2 = totaal aantal punten van de scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 % is.<br>
+P2 = aantal punten per school voor scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 %.<br>
+<br>
+§ 3. Als door een stijging van de beschikbare kredieten of met toepassing van artikel 14, eerste lid, extra lesuren vrijkomen in de loop van een in artikel 318 van de codificatie betreffende het secundair onderwijs vermelde periode van opeenvolgende schooljaren, wordt het aantal extra lesuren per punt opnieuw berekend.<br>
+&nbsp;
 
 ### ART. 7.
 
