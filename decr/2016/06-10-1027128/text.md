@@ -12,12 +12,12 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In dit decreet wordt verstaan onder:</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° agentschap: het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° alternerende opleiding: elke opleiding van het voltijds secundair onderwijs, met uitzondering van de integratiefase van opleidingsvorm 3 van het buitengewoon secundair onderwijs, die door de Vlaamse Regering als duaal wordt aangeduid en elke opleiding in het deeltijds beroepssecundair onderwijs en in de leertijd. In dergelijke opleiding worden contactonderwijs bij een opleidingsverstrekker en opleiding op de werkplek gecombineerd. Beide componenten beogen samen de uitvoering van één enkel opleidingsplan en zijn daarom inhoudelijk en organisatorisch op elkaar afgestemd;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° mentor: de persoon die binnen de onderneming wordt aangeduid om de opleiding van de leerling op de werkplek te begeleiden en op te volgen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° mentor: de persoon die binnen de onderneming aangeduid wordt om de leerling op de werkplek op te leiden en te begeleiden;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° onderneming: elke natuurlijke persoon, privaatrechtelijke of publiekrechtelijke rechtspersoon die een leerling opleidt met een overeenkomst tot uitvoering van een alternerende opleiding;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° opleidingsplan: een plan dat het individuele leertraject van de leerling bevat;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° opleidingsverstrekker: een opleidings- of onderwijsinstelling die erkend is door de Vlaamse Gemeenschap;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° sectoraal partnerschap: het orgaan, vermeld in artikel 17 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° trajectbegeleider: de door de opleidingsverstrekker gemandateerde persoon of het aangeduid personeelslid belast met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° trajectbegeleider: het gemandateerde personeelslid van een aanbieder duaal leren, dat belast is met de opvolging en begeleiding van de leerling met het oog op de volledige realisatie van het opleidingsplan;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° trajectbegeleiding: een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van de leerling zowel tijdens het onderwijs op school als in het centrum, als tijdens de opleiding op de werkplek;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° Vlaams Partnerschap Duaal Leren: het orgaan, vermeld in artikel 13 tot en met 18 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° werkplek: een reële werkplek of een gesimuleerde werkplek buiten de school. Gesimuleerde werkplekken komen enkel in aanmerking voor zover ze eigen zijn aan de sector of de onderneming en ook door werknemers binnen een sector of onderneming gebruikt dienen te worden.</span><br>
@@ -33,9 +33,13 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) als de opleiding door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) als de opleiding uitsluitend plaatsvindt op een gesimuleerde werkplek.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst sluiten waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden,&nbsp;als de onderneming valt onder het toepassingsgebied van artikel 1 van het koninklijk besluit van 18 juli 2002 houdende maatregelen met het oog op bevordering van de tewerkstelling in de non-profitsector.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding in de volgende gevallen een deeltijdse arbeidsovereenkomst sluiten:<br>
+1° als de onderneming valt onder het toepassingsgebied van artikel 1 van het koninklijk besluit van 18 juli 2002 houdende maatregelen met het oog op bevordering van de tewerkstelling in de non-profitsector; voor deze overeenkomsten gelden de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+2° als de onderneming ressorteert onder het paritair comité 143 voor de zeevisserij; voor deze overeenkomsten gelden de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 mei 2003 tot regeling van de arbeidsovereenkomst wegens scheepsdienst voor de zeevisserij en tot verbetering van het sociaal statuut van de zeevisser.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid sluit een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden, als het een opleiding betreft van het deeltijds beroepssecundair onderwijs die niet door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen, en uiterlijk tot een datum bepaald door de Vlaamse Regering.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid sluit een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden, als het een opleiding betreft van het deeltijds beroepssecundair onderwijs die niet door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen, en uiterlijk tot een datum bepaald door de Vlaamse Regering.<br>
+<br>
+In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding, met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap een overeenkomst sluiten die volgens de aldaar toepasselijke regelgeving in aanmerking komt voor een gelijkwaardig opleidingssysteem van alternerend leren en werken. Voor deze overeenkomst gelden de bepalingen van de aldaar toepasselijke regelgeving.</span><br>
 &nbsp;
 
 ### ART 4.
@@ -43,7 +47,9 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomsten, vermeld in artikel 3, kunnen enkel worden gesloten door:</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een leerling die overeenkomstig de vigerende onderwijsdecreten of -regelgeving een regelmatige leerling is of zijn wettelijke vertegenwoordiger;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een overeenkomstig artikel 7, §§ 1 tot en met 3, erkende onderneming;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° een opleidingsverstrekker.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° een opleidingsverstrekker.<br>
+<br>
+In afwijking van het eerste lid, 2°, kan een overeenkomst worden gesloten met een onderneming die is gevestigd buiten de Vlaamse Gemeenschap en die aldaar door de betrokken bevoegde instantie is erkend als werkplek in het kader van een gelijkwaardig opleidingssysteem van alternerend leren en werken.</span><br>
 &nbsp;
 
 ### ART 5.
@@ -61,6 +67,10 @@
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De duur van alle overeenkomsten samen mag niet meer bedragen dan de duur van de alternerende opleiding waarop de overeenkomsten betrekking hebben en dit vanaf het moment dat de alternerende opleiding voor de leerling ingevuld is met een werkplekcomponent.</span><br>
 &nbsp;
+
+### ART 6bis.
+
+De onderneming kan om het opleidingsplan van de leerling uit te voeren een onderdeel van de opleiding overlaten aan een andere erkende onderneming waarmee zij een samenwerkingsovereenkomst sluit. Dit is enkel mogelijk gedurende de termijn en voor de onderdelen die door het sectoraal partnerschap, of bij afwezigheid van een sectoraal partnerschap in de betrokken sector het Vlaams Partnerschap Duaal Leren, zijn vastgelegd. Het afsluiten van zo een samenwerkingsovereenkomst kan enkel met onderling akkoord van alle betrokken partijen, inclusief de opleidingsverstrekker. Het Vlaams Partnerschap Duaal Leren of het sectorale partnerschap wordt steeds op de hoogte gesteld van het afsluiten van een samenwerkingsovereenkomst.
 
 ### ART 7.
 
@@ -227,7 +237,9 @@
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de hoogte, de wijze van toekenning en de berekeningswijze van de leervergoeding.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De leervergoeding is door de onderneming verschuldigd, zowel voor de opleiding in de onderneming als voor het volgen van de lessen en de activiteiten die gelijkgesteld zijn met lessen.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De leervergoeding is door de onderneming verschuldigd, zowel voor de opleiding in de onderneming als voor het volgen van de lessen en de activiteiten die gelijkgesteld zijn met lessen.<br>
+<br>
+Als de onderneming met toepassing van artikel 6bis een onderdeel van de opleiding overlaat aan een andere erkende onderneming, blijft zij de leervergoeding verschuldigd voor de dagen dat de leerling in die andere onderneming wordt opgeleid.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. De bepalingen van de wet van 12 april 1965 betreffende de bescherming van het loon der werknemers zijn van toepassing op de leervergoeding.</span><br>
 <br>
@@ -289,7 +301,8 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° als de schorsing van de uitvoering van de overeenkomst langer dan zestig dagen aanhoudt en de ondernemer of de leerling de wens uit de overeenkomst niet verder uit te voeren;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° bij definitieve uitsluiting als tuchtmaatregel van de onderwijs- of opleidingsverstrekker, in voorkomend geval na de uitputting van het beroep, vermeld in artikel 123/12 van de Codex Secundair Onderwijs van 17 december 2010;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° bij vroegtijdige stopzetting van de opleiding;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° als de erkenning van de onderneming wordt opgeheven.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° als de erkenning van de onderneming wordt opgeheven;<br>
+10° als de opleidingsverstrekker conform artikel 110/11, § 2, van de Codex Secundair Onderwijs van 17 december 2010 de leerling heeft ingeschreven onder ontbindende voorwaarde en de inschrijving ontbindt.</span><br>
 &nbsp;
 
 ### ART 24.
