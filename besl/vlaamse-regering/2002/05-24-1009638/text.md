@@ -7,12 +7,12 @@
 <p>Tenzij anders is bepaald, zijn de bepalingen van dit besluit van toepassing op de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool, die behoren tot de categorieën van het onderwijzend, het bestuurs- en onderwijzend of van het administratief en technisch personeel.<br>
 <br>
 Dit besluit is eveneens van toepassing op de personeelsleden:<br>
-- die hun ambt op persoonlijke titel hebben behouden met toepassing van de artikelen 326bis, 333, 334, § 1 en 335, § 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap,<br>
-- bedoeld in artikel 36, § 1, punten 1 tot en met 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, die benoemd waren aan een hogeschool.</p>
+- die hun ambt op persoonlijke titel hebben behouden met toepassing van artikel V.276, V.286, V.287, § 1 en artikel V.288, § 2, van de Codex Hoger Onderwijs van 11 oktober 2013,<br>
+- vermeld in artikel III.35, § 1, 1° tot en met 3°, van de Codex Hoger Onderwijs van 11 oktober 2013, die benoemd waren aan een hogeschool.</p>
 
 <p>De bepalingen in hoofdstuk 2, afdeling 2, subafdeling 3 en 4, over het ouderschapsverlof en de loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid zijn ook van toepassing op de contractuele personeelsleden van de publiekrechtelijke hogescholen&nbsp;en de rechtsopvolgers van deze hogescholen.<br>
 <br>
-In afwijking van artikel 5, 11 en 17 kan een volledige of gedeeltelijke loopbaanonderbreking, een loopbaanonderbreking voor het volgen van een beroepsopleiding en een deeltijdse loopbaanonderbreking vanaf 55 jaar uiterlijk op 1 september 2016 ingaan.</p>
+In afwijking van&nbsp;artikel 17 kan&nbsp;een deeltijdse loopbaanonderbreking vanaf 55 jaar uiterlijk op 1 september 2016 ingaan.</p>
 
 ### ART. 1/1.
 
@@ -28,19 +28,19 @@ De personeelsleden die belast zijn met ten minste een halftijdse opdracht mogen 
 
 ### ART. 3.
 
-Onverminderd het bepaalde in artikel 2, mogen de tijdelijke personeelsleden hun beroepsloopbaan volledig of gedeeltelijk onderbreken op voorwaarde dat zij : <br />1° in het academiejaar voorafgaand aan de loopbaanonderbreking een aanstelling hebben gekregen voor het volledige academiejaar in een vacante of niet-vacante betrekking;<br />2° bij de aanvang van het academiejaar van de loopbaanonderbreking opnieuw voor een volledig academiejaar worden aangesteld.<br /><br />Voor tijdelijke personeelsleden die loopbaanonderbreking nemen, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.
+Voor tijdelijke personeelsleden die loopbaanonderbreking nemen, eindigt de loopbaanonderbreking in ieder geval als hun aanstelling eindigt.
 
 ### ART. 4.
 
-De totale duur van de volledige loopbaanonderbreking mag voor de hele   loopbaan niet meer dan&nbsp;60 maanden bedragen.<BR><BR>De totale duur van de   gedeeltelijke loopbaanonderbreking mag voor de hele loopbaan niet meer dan 60   maanden bedragen.
+...
 
 ### ART. 5.
 
-Binnen de perken gesteld bij het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van de onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra wordt de volledige en de gedeeltelijke onderbreking van de beroepsloopbaan toegestaan voor een periode die begint op 1 september, op 1 oktober of 1 november begint en respectievelijk eindigt op 31 augustus, 30 september of 31 oktober van hetzelfde academiejaar.<br /><br />In afwijking van het eerste lid wordt voor de personeelsleden die op 1 september en/of op 1 oktober of 1 november met bevallingsverlof zijn, de onderbreking van de beroepsloopbaan toegestaan voor een periode die begint de dag na het einde van het bevallingsverlof en eindigt de laatste dag van het lopende academiejaar.<br /><br />In afwijking van het eerste lid wordt de onderbreking van de beroepsloopbaan toegestaan voor een periode die begint de dag na het einde van het ouderschapsverlof toegestaan op grond van artikel 13 van dit besluit en eindigt de laatste dag van het lopende academiejaar, op voorwaarde dat het personeelslid bij de aanvang van het ouderschapsverlof heeft meegedeeld dat het zijn beroepsloopbaan na het verstrijken van dit verlof verder wenst te onderbreken.<br /><br />In afwijking van het eerste lid behouden de leden van het administratief en technisch personeel en de personeelsleden bedoeld in artikel 333 § 1 en artikel 335 § 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, die op het ogenblik van de inwerkingtreding van dit besluit genieten van een volledige of gedeeltelijke loopbaanonderbreking, de regelgeving van artikel 3 § 1, b) van het besluit van de Vlaamse regering van 19 december 1991 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van het onderwijs en de psycho-medisch-sociale centra.
+...
 
 ### ART. 6.
 
-Elke onderbreking van de beroepsloopbaan eindigt uiterlijk op het einde   van het academiejaar waarin het personeelslid dat de loopbaanonderbreking   geniet, aanspraak kan maken op een rustpensioen ten laste van de   schatkist.
+...
 
 ### ART. 7.
 
@@ -48,7 +48,11 @@ Tijdens de onderbreking van zijn beroepsloopbaan is het personeelslid met verlof
 
 ### ART. 8.
 
-§ 1. Het hogeschoolbestuur kan het personeelslid, op verzoek van het   personeelslid en mits inachtneming van een opzeggingsperiode van één maand, om   uitzonderlijke&nbsp;redenen toestaan vervroegd een einde te maken aan de   loopbaanonderbreking. Het hogeschoolbestuur kan een kortere opzeggingstermijn   aanvaarden.<BR><BR>§ 2. De bepalingen van paragraaf 1 zijn niet van toepassing   op de personeelsleden die hun loopbaan onderbreken voor het volgen van een   beroepsopleiding, als vermeld in artikel 11.<BR><BR>§ 3. Het hogeschoolbestuur   brengt, binnen vijftien dagen na de beslissing, de Rijksdienst voor   Arbeidsvoorziening op de hoogte van de datum waarop het personeelslid een einde   maakt aan zijn loopbaanonderbreking.
+§ 1. Het hogeschoolbestuur kan het personeelslid, op verzoek van het personeelslid en mits inachtneming van een opzeggingsperiode van één maand, om uitzonderlijke&nbsp;redenen toestaan vervroegd een einde te maken aan de loopbaanonderbreking. Het hogeschoolbestuur kan een kortere opzeggingstermijn aanvaarden.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Het hogeschoolbestuur brengt, binnen vijftien dagen na de beslissing, de Rijksdienst voor Arbeidsvoorziening op de hoogte van de datum waarop het personeelslid een einde maakt aan zijn loopbaanonderbreking.
 
 ### ART. 9.
 
@@ -62,7 +66,9 @@ In dit geval mag de duur overschreden worden van de afwezigheid voor verminderde
 
 ### ART. 10.
 
-Voor het bepalen van het opdrachtvolume bedoeld in de artikelen 2, 3 en 17 wordt eveneens rekening gehouden met de prestaties verstrekt in een onderwijsinstelling van een ander niveau, met uitzondering van de universiteiten.<br /><br />De volledige loopbaanonderbreking omvat al de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent, in hoofdambt, in het onderwijs en in de centra voor leerlingenbegeleiding.
+Voor het bepalen van het opdrachtvolume bedoeld in de artikelen 2 en 17 wordt eveneens rekening gehouden met de prestaties verstrekt in een onderwijsinstelling van een ander niveau, met uitzondering van de universiteiten.<br>
+<br>
+De volledige loopbaanonderbreking omvat al de door de Vlaamse Gemeenschap gefinancierde en gesubsidieerde ambten die het personeelslid uitoefent, in hoofdambt, in het onderwijs en in de centra voor leerlingenbegeleiding.
 
 ## AFDELING 2 SPECIFIEKE STELSELS
 
@@ -70,37 +76,29 @@ Voor het bepalen van het opdrachtvolume bedoeld in de artikelen 2, 3 en 17 wordt
 
 ### ART. 11.
 
-In afwijking van artikel 5 wordt de volledige en de gedeeltelijke   onderbreking van de beroepsloopbaan toegestaan voor de periode van het volgen   van een beroepsopleiding.<BR><BR>Voor de toepassing van het eerste lid wordt   onder beroepsopleiding verstaan:<BR>1° de beroepsopleiding zoals bepaald door   het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van   de arbeidsbemiddeling en de beroepsopleiding;<BR>2° elke vorm van onderwijs en   opleiding georganiseerd, gefinancierd, gesubsidieerd of erkend door de Vlaamse   overheid, waarvan het programma ten minste 120 uren op jaarbasis   omvat.
+...
 
 ## SUBAFDELING 2 LOOPBAANONDERBREKING VOOR PALLIATIEVE VERZORGING
 
 ### ART. 12.
 
-§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één maand, eventueel verlengbaar met één maand, voor het verstrekken van palliatieve verzorging aan een persoon. Deze periode kan twee keer worden verlengd met één maand.<br>
+§ 1.&nbsp;De personeelsleden hebben het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor een periode van één maand voor het verstrekken van palliatieve verzorging aan een persoon. Deze periode kan twee keer worden verlengd met één maand.<br>
 <br>
 Voor de toepassing van het eerste lid wordt onder palliatieve verzorging verstaan elke vorm van bijstand en inzonderheid medische, sociale, administratieve en psychologische bijstand en verzorging van personen die lijden aan een ongeneeslijke ziekte en die zich in een terminale fase bevinden.<br>
 <br>
-De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een loopbaanonderbreking wensen te nemen voor palliatieve verzorging.&nbsp; De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor palliatieve verzorging.<br>
-<br>
-§ 2. Voor de berekening van de termijn van&nbsp;60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor palliatieve verzorging.<br>
-<br>
-In afwijking van artikel 19 geldt de vervangingsplicht niet voor de personeelsleden die hun beroepsloopbaan onderbreken voor palliatieve verzorging.
+§ 2. ..
 
 ## SUBAFDELING 3 OUDERSCHAPSVERLOF
 
 ### ART. 13.
 
-<p>In afwijking van artikel 5 hebben de personeelsleden het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind te zorgen.&nbsp;De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor ouderschapsverlof.<br>
+<p>De personeelsleden hebben&nbsp;het recht om hun beroepsloopbaan volledig of gedeeltelijk te onderbreken om voor hun kind te zorgen.&nbsp;De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor ouderschapsverlof.<br>
 <br>
 De volledige onderbreking van de beroepsloopbaan kan in periodes van een maand of een veelvoud daarvan, met een maximumduur van 4 maanden worden genomen.<br>
 <br>
 De&nbsp;halftijdse onderbreking van de beroepsloopbaan kan worden genomen in periodes van twee maanden of een veelvoud daarvan, met een maximumduur van acht maanden.<br>
 <br>
-De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van 20 maanden.<br>
-<br>
-Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van ouderschapsverlof zoals bedoeld in dit artikel.<br>
-<br>
-De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien tijdelijke personeelsleden een loopbaan wensen te onderbreken om voor hun kind te zorgen.</p>
+De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in periodes van vijf maanden of een veelvoud daarvan, met een maximumduur van 20 maanden.</p>
 
 ### ART. 14.
 
@@ -112,9 +110,7 @@ Het personeelslid heeft recht op het ouderschapsverlof : <BR>1° naar   aanleidi
 
 ### ART. 15.
 
-§ 1. In afwijking van artikel 5 hebben de personeelsleden het recht hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor het verlenen van bijstand of verzorging aan een gezinslid of een familielid tot de tweede graad dat lijdt aan een zware ziekte.<br>
-<br>
-De voorwaarden vermeld in punt 1 en 2 van het eerste lid van artikel 3 zijn niet van toepassing indien de tijdelijke personeelsleden een loopbaanonderbreking wensen te nemen voor van een ziek gezinslid of ziek familielid.<br>
+§ 1.&nbsp;De personeelsleden hebben&nbsp;het recht hun beroepsloopbaan volledig of gedeeltelijk te onderbreken voor het verlenen van bijstand of verzorging aan een gezinslid of een familielid tot de tweede graad dat lijdt aan een zware ziekte.<br>
 <br>
 Voor de toepassing van deze subafdeling wordt verstaan onder gezinslid, elke persoon die samenwoont met het personeelslid en als familielid zowel de bloed- als de aanverwanten.<br>
 <br>
@@ -122,9 +118,7 @@ Voor de toepassing van deze subafdeling wordt onder zware ziekte verstaan, elke 
 <br>
 De bepaling, vermeld in artikel 2, en de voorwaarde "in hoofdambt", vermeld in artikel 10, tweede lid, zijn niet van toepassing op de volledige loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid.<br>
 <br>
-§ 2. Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid.<br>
-<br>
-In afwijking van artikel 19 geldt de vervangingsplicht niet voor de personeelsleden die hun beroepsloopbaan onderbreken voor de verzorging van een ziek gezinslid of ziek familielid.
+§ 2. ...
 
 ### ART. 16.
 
@@ -144,15 +138,13 @@ In afwijking van artikel 19 geldt de vervangingsplicht niet voor de personeelsle
 <br>
 Die personeelsleden moeten benoemd zijn zowel voor het volume van de opdracht waarvoor zij gedeeltelijke loopbaanonderbreking krijgen, als voor het volume van de opdracht die zij blijven uitoefenen.<br>
 <br>
-Voor de berekening van de termijn van 60 maanden voorzien in artikel 4 wordt geen rekening gehouden met de periodes van deeltijdse loopbaanonderbreking vanaf 55 jaar.<br>
-<br>
 § 1bis. In afwijking van paragraaf 1 wordt voor de personeelsleden die hun loopbaan onderbreken met een vijfde, de leeftijd op 50 jaar gebracht voor de personeelsleden die op het ogenblik van de begindatum van de loopbaanonderbreking een beroepsloopbaan van ten minste 28 jaar, zoals bepaald in artikel 3, § 4, van het Koninklijk Besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de psycho-medisch-sociale centra, doorlopen hebben.<br>
 <br>
 § 2. De personeelsleden die van een gedeeltelijke loopbaanonderbreking bedoeld in § 1, genieten en die tijdens vermelde periode hun opdracht opnieuw volledig opnemen, behouden de onderbrekingsuitkeringen die hun werden uitbetaald op grond van artikel 4, § 3, van het koninklijk besluit van 12 augustus 1991 betreffende de toekenning van onderbrekingsuitkeringen aan de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding.<br>
 <br>
 De personeelsleden genoemd in voorgaand lid, kunnen niet opnieuw een gedeeltelijke loopbaanonderbreking krijgen zoals bedoeld in § 1 van dit artikel en kunnen niet opnieuw het voordeel krijgen van het artikel 4, § 3 van het voormelde koninklijk besluit van 12 augustus 1991.<br>
 <br>
-§ 3. De personeelsleden die van een gedeeltelijke loopbaanonderbreking genieten, kunnen ieder jaar met ingang van de datum waarop de loopbaanonderbreking ingegaan is, de omvang van de loopbaanonderbreking aanpassen.<br>
+§ 3. ...<br>
 <br>
 § 4. In afwijking van paragraaf 1 behouden de personeelsleden die voor 1 juli 2012 al van een gedeeltelijke loopbaanonderbreking vanaf 50 jaar genieten, dit recht, ook al zijn zij op dat moment nog geen 55 jaar.<br>
 <br>
@@ -168,7 +160,7 @@ Het hogeschoolbestuur deelt zijn beslissing aan het personeelslid mee binnen vij
 <br>
 Het invullen en overhandigen van het formulier bedoeld in artikel 16, § 2, van het voormelde koninklijk besluit van 12 augustus 1991, geldt als toestemming.<br>
 <br>
-§ 2. Het personeelslid dat zijn loopbaan wenst te onderbreken om een beroepsopleiding te volgen, voegt bij zijn aanvraag een attest van de onderwijs- of opleidingsinstelling. Dit attest vermeldt de inschrijving van het personeelslid en de aanvangsdatum, de duur en het aantal lesuren van de opleiding.<br>
+§ 2. ...<br>
 <br>
 § 3. Het personeelslid dat zijn loopbaan wenst te onderbreken voor het verstrekken van palliatieve verzorging, deelt dit mee aan zijn hogeschoolbestuur. Hij voegt bij deze mededeling een attest afgeleverd door de behandelende geneesheer van de persoon die palliatieve verzorging nodig heeft en waaruit blijkt dat het personeelslid zich bereid heeft verklaard deze palliatieve verzorging te verstrekken. Het attest vermeldt in geen geval de identiteit van de patiënt.<br>
 <br>
@@ -198,7 +190,7 @@ De loopbaanonderbreking voor de verzorging van een zwaar ziek gezins- of familie
 
 ### ART. 20.
 
-<P>§ 1 De volgende vormen van onderbreking van de beroepsloopbaan zijn geen   absoluut recht voor het personeelslid : <BR>1° de volledige   loopbaanonderbreking;<BR>2° de gedeeltelijke loopbaanonderbreking;<BR>3° de   gedeeltelijke loopbaanonderbreking vanaf 55 jaar, met toepassing van artikel   17;<BR>4° de volledige en gedeeltelijke loopbaanonderbreking voor het volgen van   een beroepsopleiding.<BR><BR>§ 2. In afwijking van paragraaf 1, moeten de in die   paragraaf vermelde vormen van onderbreking van de beroepsloopbaan wel worden   toegestaan als er een kandidaat-vervanger is die in het bezit is van het   bekwaamheidsbewijs zoals bedoeld in het decreet van 13 juli 1994 betreffende de   hogescholen in de Vlaamse Gemeenschap. <BR><BR>De bepalingen van het eerste lid   gelden voor een periode van 60 maanden onderbreking van de beroepsloopbaan,   ongeacht of de loopbaan volledig of gedeeltelijk onderbroken wordt. De   bepalingen van het eerste lid gelden ook voor de volledige periode van de   gedeeltelijke onderbreking van de beroepsloopbaan vanaf 1 september, 1 oktober   of 1 november volgend op het bereiken van de leeftijd van vijfenvijftig jaar of   de leeftijd van vijftig jaar indien artikel 17, § 1bis, § 4 of § 5 van   toepassing is.<BR><BR>In geval van weigering deelt het hogeschoolbestuur   uiterlijk zeven kalenderdagen voor de aanvang van de loopbaanonderbreking haar   gemotiveerde beslissing schriftelijk mee aan het personeelslid dat de   loopbaanonderbreking aanvraagt en aan de kandidaat-vervanger.</P>
+...
 
 ## HOOFDSTUK IV OPHEFFINGSBEPALINGEN
 
