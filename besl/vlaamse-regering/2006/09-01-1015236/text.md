@@ -24,14 +24,15 @@ Dit besluit is van toepassing op de personeelsleden, vermeld in artikel 2 van he
 10° wie terbeschikking gesteld was wegens ontstentenis van betrekking voor de oude benaming, is dat automatisch voor de nieuwe benaming;<br>
 11° wie gereaffecteerd of wedertewerkgesteld was in de oude benaming, is dat automatisch in de nieuwe benaming;<br>
 12° een conformiteitsattest voor de oude benaming, uitgereikt ter uitvoering van het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie en het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36, geldt automatisch voor de nieuwe benaming;<br>
-13° artistieke ervaring voor de oude benaming, erkend ter uitvoering van artikel 5 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichting "Beeldende kunst" of van artikel 5 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, studierichtingen "Muziek", "Woordkunst" en "Dans" of van artikel 5bis van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, geldt automatisch voor de nieuwe benaming;<br>
+13° artistieke ervaring voor de oude benaming, erkend ter uitvoering van artikel 5 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel van het ondersteunend personeel&nbsp;en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs,&nbsp;domein "Beeldende en audiovisuele&nbsp;kunst" of van artikel 5 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling van de leden van het bestuurs- en onderwijzend personeel van het ondersteunend personeel&nbsp;en van het opvoedend hulppersoneel van de onderwijsinstellingen voor deeltijds kunstonderwijs, domeinen "Muziek", "Woordkunst-Drama" en "Dans"&nbsp;of van artikel 5bis van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs, geldt automatisch voor de nieuwe benaming;<br>
 14° nuttige ervaring, erkend voor de oude benaming, geldt automatisch als erkende nuttige ervaring voor de nieuwe benaming.<br>
 <br>
 § 2. Met behoud van de toepassing van § 1, heeft de ambtshalve concordantie geen invloed op de rechten en plichten die de betrokken personeelsleden ten aanzien van de oude benaming verworven hebben, in het geval dat de oude benaming nog blijft bestaan.
 
 ### ART. 3.
 
-Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VI. <br /><br />
+Voor de toepassing van dit besluit worden de ambtshalve concordanties opgesomd in de bijlagen I tot en met VII.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -116,10 +117,46 @@ B. De hieronder in de linkerkolom vermelde module ambtshalve geconcordeerd naar 
 		</tr>
 	</tbody>
 </table>
+"<br>
+<br>
+* Bij BVR van 28 september 2018 wordt met ingang van 1 september 2018 aan bijlage V een punt 15° toegevoegd dat luidt als volgt:<br>
+<br>
+"15° Met ingang van 1 september 2018 wordt de hieronder in de linkerkolom vermelde module ambtshalve geconcordeerd naar de hieronder in de rechterkolom vermelde opleiding<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>module</td>
+			<td>opleiding</td>
+		</tr>
+		<tr>
+			<td>Initiatie patronen</td>
+			<td>Naaien</td>
+		</tr>
+		<tr>
+			<td>Modelwijzigingen ensemble</td>
+			<td>Naaien</td>
+		</tr>
+		<tr>
+			<td>Modelwijzigingen vrije tijd</td>
+			<td>Naaien</td>
+		</tr>
+	</tbody>
+</table>
 "
 
 ## BIJLAGE VI
 
-### BIJLAGE 6
+### BIJLAGE VI.
 
-<P>BIJLAGE VI<BR>Ambtshalve concordanties in het deeltijds   kunstonderwijs<BR><BR>A. Met ingang van 1 september 2009 :<BR>1° wordt in het   deeltijds kunstonderwijs het kunstvak animatie in de optie animatie in de lagere   graad of in een erkend tijdelijk project computeranimatie of animatie in de   middelbare graad, ambtshalve geconcordeerd naar het kunstvak animatiefilm;<BR>2°   wordt in het deeltijds kunstonderwijs het kunstvak specifiek artistiek atelier   animatie in een erkend tijdelijk project animatie in de hogere graad of de   specialisatiegraad, ambtshalve geconcordeerd naar het kunstvak specifiek   artistiek atelier animatiefilm;<BR>3° wordt in het deeltijds kunstonderwijs het   kunstvak specifiek artistiek atelier digitale vormgeving in een erkend tijdelijk   project digitale vormgeving ambtshalve geconcordeerd naar het kunstvak specifiek   artistiek atelier interactieve media en naar het kunstvak digitale   beeldverwerking;<BR>4° wordt in het deeltijds kunstonderwijs het algemene vak   kunstgeschiedenis in een erkend tijdelijk project kunstbeschouwing ambtshalve   geconcordeerd naar het kunstvak specifiek artistiek atelier   kunstexploratie;<BR>5° wordt in het deeltijds kunstonderwijs het kunstvak   specifiek artistiek atelier scenografie in een erkend tijdelijk project   scenografie ambtshalve geconcordeerd naar het kunstvak specifiek artistiek   atelier theatervormgeving;<BR>6° wordt in het deeltijds kunstonderwijs het   kunstvak specifieke theatergeschiedenis in een erkend tijdelijk project   scenografie ambtshalve geconcordeerd naar het kunstvak   theatergeschiedenis;<BR>7° worden in het deeltijds kunstonderwijs de kunstvakken   koordirectie en muziektechnische vorming koor in een erkend tijdelijk project   koordirigentenopleiding ambtshalve geconcordeerd naar het kunstvak directie   vocale muziek;<BR>8° worden in het deeltijds kunstonderwijs de kunstvakken   hafabradirectie en muziektechnische vorming hafabra in een erkend tijdelijk   project hafabradirigentenopleiding ambtshalve geconcordeerd naar het kunstvak   directie instrumentale muziek;<BR>9° wordt in het deeltijds kunstonderwijs het   kunstvak volksinstrument met als benaming diatonische accordeon, doedelzak,   draailier, folkviool, gitaar of hommel, in een erkend tijdelijk project   volksmuziek ambtshalve geconcordeerd naar het kunstvak instrument volksmuziek   met de overeenstemmende benaming, namelijk diatonische accordeon, doedelzak,   draailier, folkviool, (folk)gitaar of hommel;<BR>10° wordt in het deeltijds   kunstonderwijs het kunstvak volkszang in een erkend tijdelijk project   volksmuziek ambtshalve geconcordeerd naar het kunstvak zang volksmuziek;<BR>11°   worden in het deeltijds kunstonderwijs de kunstvakken samenspel en instrumentaal   ensemble in een erkend tijdelijk project volksmuziek ambtshalve geconcordeerd   naar het kunstvak ensemble volksmuziek;<BR>12° wordt in het deeltijds   kunstonderwijs het kunstvak algemene muziekcultuur in een erkend tijdelijk   project volksmuziek ambtshalve geconcordeerd naar het kunstvak muziekcultuur   volksmuziek;<BR>13° wordt in het deeltijds kunstonderwijs het technische vak   materialenkennis ambtshalve geconcordeerd naar het technische vak   materialenkennis kunstambachten.<BR><BR>B. Met ingang van 1 september 2014   :<BR>1° wordt in het deeltijds kunstonderwijs het kunstvak wereldinstrument saz   in een erkend tijdelijk project saz ambtshalve geconcordeerd naar het kunstvak   instrument met de specialiteit saz;<BR>2° wordt in het deeltijds kunstonderwijs   het kunstvak wereldinstrument ud in een erkend tijdelijk project ud ambtshalve   geconcordeerd naar het kunstvak instrument met de specialiteit ud;<BR>3° worden   in het deeltijds kunstonderwijs de kunstvakken vormstudie en waarnemingstekenen   in een erkend tijdelijk project beeldverhaal ambtshalve geconcordeerd naar het   kunstvak beeldverhaal.<BR><BR>C. Met ingang van 1 september 2015 :<BR>1° wordt   in het deeltijds kunstonderwijs het kunstvak ortho-agogische muzikale vorming in   een erkend tijdelijk project ortho-agogische muzikale vorming ambtshalve   geconcordeerd naar de kunstvakken algemene muzikale vorming en   samenzang.</P>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/08/20_1.pdf#page=1147">Bijlage VI</a>
+
+### BIJLAGE VII
+
+Bijlage VII. Ambtshalve concordanties in de centra voor leerlingenbegeleiding<br>
+<br>
+Met ingang van 1 september 2018 :<br>
+1° wordt in het centrum voor leerlingenbegeleiding het ambt van administratief werker, ambtshalve geconcordeerd naar het wervingsambt van administratief medewerker;<br>
+2° wordt in het centrum voor leerlingenbegeleiding het ambt van medewerker, ambtshalve geconcordeerd naar het wervingsambt van administratief medewerker.<br>
+Gezien om gevoegd te worden bij het besluit van de Vlaamse Regering van 15 juni 2018 tot wijziging van de regelgeving betreffende de concordantie, de bekwaamheidsbewijzen en de salarisschalen van de personeelsleden van het buitengewoon onderwijs en de centra voor leerlingenbegeleiding.
