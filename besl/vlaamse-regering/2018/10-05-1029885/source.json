@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029885,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-05 tot verhoging van de salarisschalen van het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029885/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "413f2be5b9cdd0ae23d59b08b9a14c721e1e47a3b469ca7166c2fe1e4fbd0a05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029885&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-10-05",
+  "gazette": "2018-11-07",
+  "numac": 2018040743,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
