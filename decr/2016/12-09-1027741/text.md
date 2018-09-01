@@ -189,6 +189,16 @@ In hoofdstuk VI van hetzelfde decreet, gewijzigd bij de decreten van 19 december
 <br>
 De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nadere regels ter uitvoering van het eerste lid.".
 
+### ART 24.
+
+In het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering worden de volgende artikelen opgeheven:<br>
+<br>
+1° artikel 36ter, ingevoegd bij het koninklijk besluit van 13 maart 2006 en gewijzigd bij het koninklijk besluit van 28 december 2011;<br>
+<br>
+2° artikel 36quater, ingevoegd bij het koninklijk besluit van 13 maart 2006 en vervangen bij het koninklijk besluit van 10 november 2012;<br>
+<br>
+3° artikel 36quinquies, ingevoegd bij het koninklijk besluit van 13 maart 2006 en gewijzigd bij het koninklijk besluit van 10 november 2012.
+
 ### ART 25.
 
 In artikel 79, § 9, van hetzelfde koninklijk besluit, het laatst gewijzigd bij het koninklijk besluit van 10 januari 2007, wordt het derde lid vervangen door wat volgt:<br>
