@@ -8,7 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 12 juni 1991 betreffend
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° universiteiten : de universiteiten, vermeld in artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br />2° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen en de jaarrekening goed te keuren;<br />3° boekhoudkundige entiteit : elke entiteit, vermeld in punt 1°;<br />4° boekjaar : het boekjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het begrotingsjaar.
+In dit besluit wordt verstaan onder :<br>
+1° universiteiten : de universiteiten, vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+2° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen en de jaarrekening goed te keuren;<br>
+3° boekhoudkundige entiteit : elke entiteit, vermeld in punt 1°;<br>
+4° boekjaar : het boekjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het begrotingsjaar.
 
 ## HOOFDSTUK II. Toepassingsgebied
 
@@ -386,7 +390,10 @@ Elke boekhoudkundige entiteit voert een interne controle uit op de processen en 
 
 ### ART. 79.
 
-De externe controle van de boekhoudkundige entiteit wordt als volgt geregeld :<br />1° conform artikel 11 wordt de jaarrekening voorgelegd aan een bedrijfsrevisor, wiens verklaring naar aanleiding van een volkomen controle aan de jaarrekening wordt toegevoegd;<br />2° de commissaris van de Vlaamse Regering houdt toezicht op de boekhoudkundige entiteiten,<br />3° de raad van bestuur keurt de jaarrekening goed en stuurt die naar het Rekenhof voor toezicht en visum voor 31 december van het kalenderjaar dat volgt op het afgesloten boekjaar.
+De externe controle van de boekhoudkundige entiteit wordt als volgt geregeld :<br>
+1° conform artikel 11 wordt de jaarrekening voorgelegd aan een bedrijfsrevisor, wiens verklaring naar aanleiding van een volkomen controle aan de jaarrekening wordt toegevoegd;<br>
+2° de commissaris van de Vlaamse Regering houdt toezicht op de boekhoudkundige entiteiten,<br>
+3° de raad van bestuur keurt de jaarrekening goed en stuurt die naar de Vlaamse Regering en het Rekenhof voor 31 maart van het kalenderjaar dat volgt op het afgesloten boekjaar.
 
 ## HOOFDSTUK VIII. Diverse bepalingen en overgangsbepalingen
 
