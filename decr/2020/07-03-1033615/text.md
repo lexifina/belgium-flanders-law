@@ -63,12 +63,24 @@ In artikel II.170, § 2, van dezelfde codex, vervangen bij het decreet van 8 dec
 2° er wordt een negende lid toegevoegd, dat luidt als volgt:<br>
 "Bij de informatieverstrekking over het opleidingsaanbod en bij de studiebekrachtiging hanteert een instellingsbestuur minstens de benamingen en gegevens over de opleidingen en afstudeerrichtingen die zijn vastgelegd in de lijst, vermeld in deze paragraaf. Aan de regeringscommissarissen wordt in het kader van de wettelijkheidscontrole die ze uitvoeren de specifieke toezichtstaak gegeven om deze informatieverstrekking systematisch te screenen. Eventueel dienen ze conform artikel IV.97 tot en met IV.99 een met redenen omkleed beroep in bij de Vlaamse Regering.".
 
+### ART 161.
+
+In artikel V.11, tweede lid, van dezelfde codex wordt de zinsnede "artikel V.13" vervangen door de zinsnede "artikel V.16".
+
+### ART 164.
+
+In artikel V.164, § 2, van dezelfde codex wordt de zinsnede "artikel V.172" vervangen door de zinsnede "artikel V.171".
+
 ### ART 166.
 
 In artikel V.206/6 van dezelfde codex, ingevoegd bij het decreet van 4 mei 2018, worden de volgende wijzigingen aangebracht:<br>
 1° in punt 1° wordt tussen de zinsnede "tweede lid" en de woorden "gelden voor" de zinsnede "en voor de uitbreiding van de omvang van de opdracht" ingevoegd;<br>
 2° een punt 4° wordt toegevoegd, dat luidt als volgt:<br>
 "4° de personeelsleden van het onderwijzend personeel behouden bij de overgang het saldo van de op 31 augustus 2019 in het CVO opgebouwde en opgenomen ziektedagen.".
+
+### ART 167.
+
+In artikel V.276, § 3, van dezelfde codex wordt de zinsnede "artikel V.172" vervangen door de zinsnede "artikel V.171".
 
 ## HOOFDSTUK 13. Wijzigingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen
 
