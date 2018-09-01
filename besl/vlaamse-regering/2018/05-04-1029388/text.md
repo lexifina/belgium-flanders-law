@@ -93,6 +93,46 @@ De termijnen, vermeld in dit hoofdstuk, worden opgeschort tijdens de herfst-, de
 
 ## Hoofdstuk II Wijzigingen van het besluit van de Vlaamse Regering van 10 november 2006 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen
 
+### ART 7.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 10 november 2006 tot vaststelling van de goedkeuringscriteria en indieningsmodaliteiten van de leerplannen, gewijzigd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt de zinsnede "het onderwijs voor sociale promotie, de basiseducatie" vervangen door de woorden "het volwassenenonderwijs".<br>
+&nbsp;
+
+### ART 8.
+
+Artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 oktober 2008, wordt vervangen door wat volgt:<br>
+"Art. 3. Bij de beoordeling van een leerplan houdt de inspectie, vermeld in titel IV van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, rekening met de volgende criteria:<br>
+1° in het basisonderwijs:<br>
+a) het leerplan beantwoordt aan de bepalingen, vermeld in artikel 45 van het decreet basisonderwijs van 25 februari 1997; voor het kleuteronderwijs worden de ontwikkelingsdoelen en voor het gewoon lager onderwijs worden de eindtermen letterlijk opgenomen;<br>
+b) alle leerplannen worden in samenhang ingediend;<br>
+c) de doelgroep wordt vermeld; de administratieve benamingen van de leerlingengroepen voor wie het leerplan bestemd is, worden vermeld;<br>
+d) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van scholen, leraren, lerarenteams of leerlingen;<br>
+e) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+f) het leerplan vertoont consistentie met de ontwikkelingsdoelen en de eindtermen;<br>
+g) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering;<br>
+2° in het voltijds gewoon secundair onderwijs en opleidingsvorm 4 van het buitengewoon secundair onderwijs:<br>
+a) het leerplan beantwoordt aan de bepalingen, vermeld in artikel 147/3 van de Codex Secundair Onderwijs van 17 december 2010; de eindtermen worden letterlijk opgenomen;<br>
+b) alle leerplannen die aansluiten bij het curriculumdossier in kwestie, worden in samenhang ingediend;<br>
+c) de doelgroep wordt vermeld; de benaming van het structuuronderdeel of de structuuronderdelen waarvoor het leerplan bestemd is, wordt vermeld;<br>
+d) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van scholen, leraren, lerarenteams of leerlingen;<br>
+e) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+f) het leerplan vertoont consistentie met de doelen van het curriculumdossier;<br>
+g) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering;<br>
+3° in het volwassenenonderwijs en het deeltijds kunstonderwijs:<br>
+a) de doelgroep wordt vermeld; de administratieve benamingen van de leerlingen- of cursistengroepen voor wie het leerplan bestemd is, worden vermeld;<br>
+b) het leerplan bevat ten minste herkenbaar de doelstellingen die noodzakelijk zijn om, in voorkomend geval, de eindtermen, de specifieke eindtermen, de basiscompetenties of de erkende beroepskwalificaties te bereiken; bij ontstentenis van eindtermen, specifieke eindtermen, basiscompetenties of erkende beroepskwalificaties, legt de indiener zelf de onderwijskundige doelen vast;<br>
+c) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van centra, academies, leraren, lerarenteams, cursisten of leerlingen;<br>
+d) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+e) het leerplan bevat geen doelstellingen die tegenstrijdig zijn met vastgelegde eindtermen, specifieke eindtermen, basiscompetenties of erkende beroepskwalificaties;<br>
+f) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering.".<br>
+&nbsp;
+
+### ART 9.
+
+&nbsp;In artikel 4 van hetzelfde besluit wordt tussen het eerste en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"Voor de leerplannen van de eerste graad die op 1 september 2019 van toepassing worden in het eerste leerjaar van die graad, geldt, in afwijking van de datum vermeld in het eerste lid, als datum "uiterlijk acht maanden na de goedkeuring van de desbetreffende eindtermen en uitbreidingsdoelen Nederlands".".<br>
+&nbsp;
+
 ## Hoofdstuk 3 Slotbepalingen
 
 ### ART 10.
