@@ -18,6 +18,12 @@ Aan artikel 20, § 3, van het decreet betreffende het secundair na secundair ond
 
 ## HOOFDSTUK 6. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 16.
+
+In artikel II.31, 1°, van dezelfde codex wordt punt m) vervangen door wat volgt :<br>
+<br>
+"m) de Faculteit voor Protestantse Theologie en Religiestudies in Brussel;".
+
 ### ART 17.
 
 In artikel II.66/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet van 8 december 2017, worden de volgende wijzigingen aangebracht :<br>
@@ -30,6 +36,10 @@ In artikel II.66/1, eerste lid, van dezelfde codex, ingevoegd bij het decreet va
 <br>
 "6° voor de masteropleidingen in het studiegebied Geneeskunde : ten minste 30 studiepunten.".
 
+### ART 18.
+
+In artikel II.106 van dezelfde codex worden de woorden "Faculteit voor Protestantse Godgeleerdheid" vervangen door de woorden "Faculteit voor Protestantse Theologie en Religiestudies".
+
 ### ART 26.
 
 In artikel II.152 van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 18 mei 2018, worden de volgende wijzigingen aangebracht :<br>
@@ -39,6 +49,16 @@ In artikel II.152 van dezelfde codex, vervangen bij het decreet van 8 december 2
 2° er wordt een zesde lid toegevoegd, dat luidt als volgt :<br>
 <br>
 "De bepalingen van het tweede lid, 2°, en het tweede lid, 5°, zijn niet van toepassing op de andere ambtshalve geregistreerde instellingen.".
+
+### ART 30.
+
+In artikel II.187, § 11, tweede lid, van dezelfde codex, vervangen bij het decreet van 8 december 2017, worden tussen de woorden "De studenten" en de woorden "in de masteropleiding" de woorden "of gediplomeerden" ingevoegd.
+
+### ART 41.
+
+In deel 3, titel 3, van dezelfde codex, het laatst gewijzigd bij het decreet van 18 mei 2018, wordt het opschrift van hoofdstuk 3 vervangen door wat volgt :<br>
+<br>
+"Hoofdstuk 3. Evangelische Theologische Faculteit en Faculteit voor Protestantse Theologie en Religiestudies".
 
 ## HOOFDSTUK 7. Wijziging aan het decreet van 4 mei 2018 betreffende de uitbouw van de graduaatsopleidingen binnen de hogescholen en de versterking van de lerarenopleidingen binnen de hogescholen en universiteiten
 
