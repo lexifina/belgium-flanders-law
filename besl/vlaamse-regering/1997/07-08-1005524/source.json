@@ -2,16 +2,16 @@
   "codex_id": 1005524,
   "title": "Besluit van de Vlaamse Regering van 1997-07-08 betreffende de erkenning, de financiering en subsidiëring van scholen in het gewoon en buitengewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005524/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5ccf609cc39cdc62fa687651a2188bd5b7188fa03267e6cb6f4ab215e06d9ec2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005524/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "f32104ba778e7d8f1395a7f1fc86b82dd5c9febe8bb680a5dccd0a0cad9d57f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005524&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-09-01",
   "made": "1997-07-08",
   "gazette": "1997-08-30",
   "numac": 1997035986,
   "document_start": "1997-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2018-09-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
