@@ -18,7 +18,20 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de VDAB : de 
 
 ### ART. 3.
 
-§ 1. Niet-werkende werkzoekenden met een indicatie van arbeidshandicap kunnen enkel via de trajectwerking een beroep doen op de dienstverlening van een GOB. De dienstverlening van een GOB omvat onder andere een opleidings- en plaatsingsaanbod, met daarin jobhunting, opleiding in het centrum, oriënterende stage, gespecialiseerde individuele beroepsopleiding in een onderneming, hierna GIBO te noemen, en jobcoaching.<br /><br />§ 2. Afwezigheden door ziekte of ongeval en andere gewettigde afwezigheden schorten de opleiding in het centrum, de oriënterende stage en de GIBO op.<br /><br />§ 3. De oriënterende stage is een oriënterende stage als vermeld in artikel 32octies tot en met artikel 32duodecies van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br /><br />§ 4. Met behoud van de toepassing van artikel 3, § 3, onderscheidt de oriënterende stage in het kader van het opleidingsaanbod van een GOB zich van de oriënterende stage, vermeld in artikel 32octies tot en met artikel 32duodecies van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, door de gespecialiseerde begeleiding die wordt aangeboden door een GOB en door een maximum van 800 stage-uren, te spreiden over maximaal 8 maanden, die door de niet-werkende werkzoekende kunnen opgenomen worden op één of meerdere stageplaatsen.<br /><br />§ 5. De GIBO is een IBO als vermeld in artikel 120 tot en met artikel 129 van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br /><br />§ 6. Met behoud van de toepassing van artikel 3, § 5, onderscheidt de GIBO zich van de IBO, als vermeld in artikel 120 tot en met artikel 129 van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, door de gespecialiseerde begeleiding die wordt aangeboden door een GOB en door een maximale duurtijd van 12 maanden.<br /><br />§ 7. De onderneming, vereniging zonder winstoogmerk of administratieve overheid waar een GIBO georganiseerd wordt, is geen maandelijks bedrag verschuldigd zoals vermeld in artikel 123 van het besluit van de Vlaamse Regering van 21 december 1988 houdende de arbeidsbemiddeling en de beroepsopleiding.<br /><br />
+§ 1. Niet-werkende werkzoekenden met een indicatie van arbeidshandicap kunnen enkel via de trajectwerking een beroep doen op de dienstverlening van een GOB. De dienstverlening van een GOB omvat onder andere een opleidings- en plaatsingsaanbod, met daarin jobhunting, opleiding in het centrum, beroepsverkennende stage, IBO voor kwetsbare werkzoekenden, hierna K-IBO te noemen, en jobcoaching.<br>
+<br>
+§ 2. Afwezigheden door ziekte of ongeval en andere gewettigde afwezigheden schorten de opleiding in het centrum, de beroepsverkennende stage en de K-IBO op.<br>
+<br>
+§ 3. De beroepsverkennende stage is een beroepsverkennende stage als vermeld in artikel 41 tot en met artikel 44 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
+<br>
+§ 4. Met behoud van de toepassing van artikel 3, § 3, onderscheidt de beroepsverkennende stage in het kader van het opleidingsaanbod van een GOB zich van de beroepsverkennende stage, vermeld in artikel 41 tot en met artikel 44 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, door de gespecialiseerde begeleiding die wordt aangeboden door een GOB en door een maximum van 800 stage-uren, te spreiden over maximaal 8 maanden, die door de niet-werkende werkzoekende kunnen opgenomen worden op één of meerdere stageplaatsen.<br>
+<br>
+§ 5. De&nbsp;K-IBO is een IBO als vermeld in artikel 98/1 tot en met artikel 98/4 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
+<br>
+§ 6. Met behoud van de toepassing van artikel 3, § 5, onderscheidt de K-IBO in het kader van het opleidingsaanbod van een GOB zich van de K-IBO, als vermeld in artikel 98/1 tot en met artikel 98/4 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding, door de gespecialiseerde begeleiding die wordt aangeboden door een GOB en door een maximale duurtijd van 12 maanden.<br>
+<br>
+§ 7. ....<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -26,7 +39,10 @@ Voor elke niet-werkende werkzoekende wordt een maximale inspanning geleverd in f
 
 ### ART. 5.
 
-De VDAB bepaalt de wijze van rapportering van de gegevens en de resultaten, die in het kader van basisscreening en gespecialiseerd arbeidsonderzoek door de GA worden verzameld.<br /><br />De VDAB bepaalt de wijze waarop afspraken worden gemaakt tussen de GOB, de niet-werkende werkzoekende en desgevallend de onderneming, vereniging zonder winstoogmerk of administratieve overheid waar de oriënterende stage of GIBO plaatsvindt.<br /><br />
+De VDAB bepaalt de wijze van rapportering van de gegevens en de resultaten, die in het kader van basisscreening en gespecialiseerd arbeidsonderzoek door de GA worden verzameld.<br>
+<br>
+De VDAB bepaalt de wijze waarop afspraken worden gemaakt tussen de GOB, de niet-werkende werkzoekende en desgevallend de onderneming, vereniging zonder winstoogmerk of administratieve overheid waar de beroepsverkennende stage of K-IBO plaatsvindt.<br>
+&nbsp;
 
 ### ART. 6.
 
