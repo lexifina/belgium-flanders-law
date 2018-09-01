@@ -116,7 +116,43 @@ In artikel 196sexies, § 1, van het decreet van 15 juni 2007 betreffende het vol
 
 ## Afdeling 3. Maatregelen tot uitvoering van cao XI - Lerarenplatform en omzetting van niet-ingevulde vervangingen - Basisonderwijs
 
+### ART 26.
+
+In hoofdstuk IX van het decreet basisonderwijs van 25 februari 1997 wordt een afdeling 3quinquies ingevoegd, die luidt als volgt :<br>
+<br>
+"Afdeling 3quinquies. Omzetting van niet-ingevulde vervangingen<br>
+<br>
+Art. 153viciessexies. Vanaf het schooljaar 2018-2019 krijgen schoolbesturen van het basisonderwijs de mogelijkheid om de betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komen voor een reguliere vervanging zoals gedefinieerd in afdeling 3quater, artikel 153ter decies, 1°, a), om te zetten in vervangingseenheden. Deze omzetting is enkel mogelijk op voorwaarde dat geen geschikt kandidaat kan worden gevonden die de betrokken vervanging kan uitoefenen. Het schoolbestuur ondertekent hiertoe een verklaring op eer.<br>
+<br>
+Voor het bepalen van het aantal vervangingseenheden wordt de teller van de opdrachtbreuk van het afwezige personeelslid vermenigvuldigd met het aantal kalenderdagen afwezigheid van het afwezige personeelslid.<br>
+<br>
+Deze vervangingseenheden kunnen worden opgespaard en later tijdens het schooljaar worden aangewend. Voor de verrekening van de aanwending worden de vervangingseenheden gedeeld door de teller van de opdrachtbreuk van de vervanger. De wettelijke feestdagen, de weekends en de herfst-, kerst-, krokus- en paasvakantie die, geheel of gedeeltelijk, onmiddellijk aansluiten bij een periode van omzetting naar vervangingseenheden, en die een nieuwe periode van omzetting naar vervangingseenheden onmiddellijk voorafgaan, moeten eveneens worden aangerekend op de vervangingseenheden.<br>
+<br>
+De scholen onderhandelen in het bevoegde lokaal comité over de nadere modaliteiten van de aanwending.<br>
+<br>
+Art. 153viciessepties. De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op continuering en een eventuele uitbreiding naar andere ambten en personeelscategorieën.<br>
+<br>
+Art. 153duodetricies. Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op een door de regering te bepalen datum.".
+
 ## Afdeling 4. Maatregelen tot uitvoering van cao XI - Lerarenplatform en omzetting van niet-ingevulde vervangingen - Secundair Onderwijs
+
+### ART 29.
+
+In deel III, titel 1, hoofdstuk 3, afdeling 2, van de Codex Secundair Onderwijs 17 december 2010, bekrachtigd bij het decreet van 27 mei 2011, wordt een onderafdeling 2/2 ingevoegd, die luidt als volgt :<br>
+<br>
+"Onderafdeling 2/2. Onderwijzend personeel - Omzetting van niet-ingevulde vervangingen<br>
+<br>
+Art. 22/15. Vanaf het schooljaar 2018-2019 krijgen schoolbesturen van het secundair onderwijs de mogelijkheid om de betrekkingen in een wervingsambt van het bestuurs- en onderwijzend personeel die in aanmerking komen voor een reguliere vervanging zoals gedefinieerd in onderafdeling 2/1, artikel 22/2, 1°, a), om te zetten in vervangingseenheden. Deze omzetting is enkel mogelijk op voorwaarde dat geen geschikt kandidaat kan worden gevonden die de betrokken vervanging kan uitoefenen. Het schoolbestuur ondertekent hiertoe een verklaring op eer.<br>
+<br>
+Voor het bepalen van het aantal vervangingseenheden wordt de teller van de opdrachtbreuk van het afwezige personeelslid vermenigvuldigd met de kalenderdagen afwezigheid van het afwezige personeelslid.<br>
+<br>
+Deze vervangingseenheden kunnen worden opgespaard en later tijdens het schooljaar worden aangewend. Voor de verrekening van de aanwending worden de vervangingseenheden gedeeld door de teller van de opdrachtbreuk van de vervanger. De wettelijke feestdagen, de weekends en de herfst-, kerst-, krokus- en paasvakantie die, geheel of gedeeltelijk, onmiddellijk aansluiten bij een periode van omzetting naar vervangingseenheden, en die een nieuwe periode van omzetting naar vervangingseenheden onmiddellijk voorafgaan, moeten eveneens worden aangerekend op de vervangingseenheden.<br>
+<br>
+De scholen onderhandelen in het bevoegde lokaal comité over de nadere modaliteiten van de aanwending.<br>
+<br>
+Art. 22/16. De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op continuering en een eventuele uitbreiding naar andere ambten en personeelscategorieën.<br>
+<br>
+Art. 22/17. Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.".
 
 ## Afdeling 5. Maatregelen tot uitvoering van cao XI : aanpassing van de rechtsgrond voor een terbeschikkingstelling wegens ontstentenis van betrekking naar aanleiding van de vacantverklaring van bepaalde betrekkingen van personeelsleden die afwezig zijn omwille van een verlofstelsel in het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs (bekrachtigd bij het decreet van 23 december 2016)
 
@@ -191,7 +227,33 @@ Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkinge
 
 ## Afdeling 8. Maatregel om de aanvullende pensioenbedragen uit te betalen aan de personeelsleden van de centra basiseducatie en dit in uitvoering van de protocollen nr. 78 en 78bis, afgesloten in het Vlaams Onderhandelingscomité voor de Basiseducatie met betrekking tot regeling van aanvullend pensioen voor de personeelsleden in de basiseducatie
 
+### ART 44.
+
+Aan artikel 88 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt een paragraaf 3 toegevoegd, die luidt als volgt :<br>
+<br>
+" § 3. In uitvoering van de protocollen van akkoord nr. 78 en nr. 78BIS van de onderhandelingen die gevoerd werden in de vergadering van het Vlaams Onderhandelingscomité voor de Basiseducatie tussen de Vlaamse Regering, de werkgevers Federatie Centra voor Basiseducatie vzw, het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs (VOCVO) en de representatieve vakorganisaties ACOD, COC en VSOA, wordt het aanvullend pensioenbedrag door de bevoegde administratie aan de personeelsleden van de centra basiseducatie uitbetaald.".
+
 ## Afdeling 9. Werkingsbudget voor versterking van de leerkracht in het basis-onderwijs
+
+### ART 45.
+
+Aan hoofdstuk XI van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt een afdeling 5 toegevoegd, die luidt als volgt :<br>
+<br>
+"Afdeling 5. Project ondersteuning leerkrachten in het basisonderwijs 2018-2019".
+
+### ART 46.
+
+In hetzelfde decreet wordt in afdeling 5, ingevoegd bij artikel 45, een artikel 172sexies ingevoegd, dat luidt als volgt :<br>
+<br>
+"Artikel 172sexies. Voor begrotingsjaar 2018 wordt een extra werkingsbudget van 9.000.000 euro toegekend aan de scholen van het gewoon en buitengewoon basisonderwijs, voor het schooljaar 2018-2019.<br>
+<br>
+Dit werkingsbudget moet worden aangewend om in het basisonderwijs de leerkracht in de klas te ondersteunen. De criteria met betrekking tot de aanwending van het werkingsbudget in de school, moeten onderhandeld worden in het bevoegde lokaal comité. Als de school deel uitmaakt van een scholengemeenschap, maakt de scholengemeenschap afspraken over de aanwending van de middelen.<br>
+<br>
+De regering bepaalt de verdeling van het extra werkingsbudget over de scholen, de berekeningswijze per school en houdt daarbij minstens rekening met het aantal leerlingen per school, en de uitbetalingsmodaliteiten.".
+
+### ART 47.
+
+In artikel 154, § 2, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 24 november 2017, wordt de zinsnede "vermeld in artikel 76, artikel 173quinquies/2, artikel 173quinquies/3 of artikel 173quinquies/4" vervangen door de zinsnede "vermeld in artikel 76, artikel 87bis, artikel 172sexies, artikel 173quinquies/2, artikel 173quinquies/3 of artikel 173quinquies/4".
 
 ## Afdeling 10. Machtiging aan AGION voor verbintenissen voor huursubsidies
 
