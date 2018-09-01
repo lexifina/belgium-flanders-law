@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032105,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van sommige bepalingen voor de personeelsleden van de academies voor deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032105/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "377254f721f4b9ab8e3c6d027c4f45f76491acd6df85f7dd609d78e2f901a8b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032105&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2019-05-24",
+  "gazette": "2019-08-20",
+  "numac": 2019041792,
+  "document_start": "2019-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
