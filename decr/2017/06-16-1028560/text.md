@@ -13,6 +13,10 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 In artikel 3 van het decreet basisonderwijs van 25 februari 1997, het laatst gewijzigd bij het decreet van 17 juni 2016, wordt tussen punt 24° en punt 24° bis, een punt 24° /1 ingevoegd, dat luidt als volgt :<br>
 "24° /1 individueel aangepast curriculum : een curriculum waarbij leerdoelen op maat van de leerling met een verslag voor toegang tot buitengewoon onderwijs worden geformuleerd. De leerdoelen op maat van de leerling worden gekozen door de klassenraad in afstemming met de ouders, waar mogelijk de leerling, de CLB-medewerker en in voorkomend geval externe ondersteuners, vertrekkende van de ontwikkelingsdoelen en de leerdoelen die het bereiken van de eindtermen beogen. Dit curriculum kan, indien dit noodzakelijk is voor de leerling, ook gebaseerd worden op de ontwikkelingsdoelen van het buitengewoon onderwijs. Het curriculum wordt naargelang de studievoortgang van de leerling aangepast. Deze leerdoelen moeten worden nagestreefd en beogen de maximale ontplooiing van de leerling en een zo volwaardig mogelijke participatie aan het klas- en schoolgebeuren in de school voor gewoon onderwijs. Leerlingen die een individueel aangepast curriculum volgen komen niet in aanmerking voor het getuigschrift basisonderwijs behoudens wanneer voldaan is aan de voorwaarden van artikel 54;".
 
+### ART II.2.
+
+&nbsp;In artikel 13, § 1, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 20 maart 2009 en vervangen door het decreet van 21 december 2012, wordt het getal "220" vervangen door het getal "250".
+
 ### ART II.3.
 
 In artikel 29, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2003, wordt de laatste zin vervangen door wat volgt :<br>
