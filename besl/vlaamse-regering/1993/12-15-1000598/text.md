@@ -337,7 +337,17 @@ Voor de toepassing van de bepalingen van artikel 25, § 1, van het decreet van 1
 
 ### ART. 8.
 
-<P>§ 1. De salarisschalen die verbonden zijn aan de ambten, vermeld in artikel   10 van het decreet van 1 december 1993, worden vastgesteld als volgt :<BR>1°   inspecteur-adviseur voor het lager onderwijs : 167;<BR>1° /1 inspecteur-adviseur   coördinator voor het lager onderwijs: 166;<BR>2° inspecteur-adviseur coördinator   : <BR>a) houder van een bekwaamheidsbewijs van ten minste master als vermeld in   artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende   de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de   bezoldigingsregeling in het secundair onderwijs :604;<BR>b) houder van een ander   bekwaamheidsbewijs dan een bekwaamheidsbewijs als vermeld in punt a) :   166.<BR>3° inspecteur-adviseur voor het lager en het secundair onderwijs of   inspecteur-adviseur voor het secundair onderwijs :<BR>a) houder van een   bekwaamheidsbewijs van tenminste master, als vermeld in artikel 7 van het   besluit van de Vlaamse Regering van 14 juni 1989 betreffende de   bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de   bezoldigingsregeling in het secundair onderwijs en in artikel 8 van het besluit   van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de   salarisschalen en de bezoldigingsregeling in het buitengewoon onderwijs :   541;<BR>b) houder van andere bekwaamheidsbewijzen : 354.<BR><BR>§ 2. De   salarisschalen, vermeld in § 1, worden met ingang van 1 september 2007   vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003   houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.   </P>
+<p>§ 1. De salarisschalen die verbonden zijn aan de ambten, vermeld in artikel 10 van het decreet van 1 december 1993, worden vastgesteld als volgt :<br>
+1° inspecteur-adviseur voor het lager onderwijs : 167;<br>
+1° /1 inspecteur-adviseur coördinator voor het lager onderwijs: 166;<br>
+2° inspecteur-adviseur coördinator :<br>
+a) houder van een bekwaamheidsbewijs van ten minste master als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs :604;<br>
+b) houder van een ander bekwaamheidsbewijs dan een bekwaamheidsbewijs als vermeld in punt a) : 166.<br>
+3° inspecteur-adviseur voor het lager en het secundair onderwijs of inspecteur-adviseur voor het secundair onderwijs :<br>
+a) houder van een bekwaamheidsbewijs van tenminste master, als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs en in artikel 8 van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het buitengewoon onderwijs : 541;<br>
+b) houder van andere bekwaamheidsbewijzen : 354.<br>
+<br>
+§ 2. Deze salarisschalen worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs. .</p>
 
 ### ART. 9.
 
