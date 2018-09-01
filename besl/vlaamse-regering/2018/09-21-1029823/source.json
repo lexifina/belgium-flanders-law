@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029823,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-21 tot erkenning van de Master of Global Health als nieuwe opleiding van de Universiteit Antwerpen, de Universiteit Gent, de Katholieke Universiteit Leuven, de transnationale Universiteit Limburg en de Vrije Universiteit Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029823/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "9af13cacae1bd134205dfbfe1738da5fecfa3eeabdfbf1595118e0defd573d45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029823&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-09-21",
+  "gazette": "2018-10-16",
+  "numac": 2018014204,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
