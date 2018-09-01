@@ -6,19 +6,22 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied huishoudelijk onderwijs, dat behoort   tot het secundair volwassenenonderwijs, vastgelegd in bijlage III tot en met   VII, die bij dit besluit zijn gevoegd.<BR><BR>
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
+1° bijlage V voor het studiegebied huishoudhulp;<br>
+2° bijlage VI voor het studiegebied huishoudelijk koken;<br>
+3° bijlage VII en VIII voor het studiegebied huishoudelijke decoratie- en naaitechnieken.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>In   afwijking van het eerste lid worden de opleidingsprofielen, vastgelegd in   bijlage I en II, uiterlijk tijdens het schooljaar 2008-2009 geëvalueerd. Het   opleidingsprofiel, vermeld in bijlage V, wordt uiterlijk tijdens het schooljaar   2016-2017 geëvalueerd. De opleidingsprofielen, vermeld in bijlage VI en VII,   worden uiterlijk tijdens het schooljaar 2017-2018 geëvalueerd.
+Het opleidingsprofiel, vastgelegd in bijlage VIII, wordt uiterlijk tijdens het schooljaar 2021-2022 geëvalueerd. De resultaten van die evaluatie worden besproken met de pedagogische begeleidingsdiensten en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.
 
 ### ART. 3.
 
-Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding naaien BSO 2, vermeld in   bijlage III bij het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook   onderwijsbevoegdheid voor de modulaire opleiding naaien.<BR><BR>Het bestuur van   een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Inrichten van de woning heeft vanaf 1 februari 2014   onderwijsbevoegdheid voor de modulaire opleiding Decoratief in de   woning.<BR><BR>
+...
 
 ### ART. 4.
 
-De modulaire opleiding naaien BSO 2 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2008-2009 en 2009-2010 gebruikt worden.<br /><br />
+...
 
 ### ART. 5.
 
@@ -46,7 +49,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE IV
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/30_3.pdf#page=94" title=" Bijlage IV" target="_blank" class="pdf">Bijlage IV</a> <br />
+...
 
 ### BIJLAGE V
 
@@ -59,3 +62,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE VII
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1.pdf#page=42">Bijlage   VII</A>
+
+### BIJLAGE VIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/10_1.pdf#page=179">Bijlage VIII</a>
