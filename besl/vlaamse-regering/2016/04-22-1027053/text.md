@@ -109,9 +109,7 @@
 <br>
 <span style="color: rgb(0, 0, 0);">Een opleiding kan in de loop van het schooljaar uiterlijk op de eerste lesdag van oktober met leerlingen worden opgestart.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">Een opleiding kan in het schooljaar 2018-2019 niet meer worden opgestart.</span><br>
-<br>
-<span style="color: rgb(0, 0, 0);">De heropstart uiterlijk in het schooljaar 2019-2020 van een niet-duale gelijknamige opleiding die ten gevolge van het tijdelijke project door de school niet meer werd ingericht, is geen programmatie.</span><br>
+<span style="color: rgb(0, 0, 0);">Voor een tweejarige duale opleiding die wordt opgestart in het schooljaar 2018-2019 moet het tweede leerjaar door de school alleszins in het schooljaar 20192020, zijnde het aanvangsschooljaar van het organiek duaal leren, worden georganiseerd. De heropstart uiterlijk in het schooljaar 2020-2021 van een niet duale gelijknamige of inhoudelijk nauwverwante opleiding die ten gevolge van het tijdelijke project door de school niet meer werd ingericht, is geen programmatie.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">De opname van die opleidingen in het studieaanbod en de programmatie ervan vinden plaats in afwijking van :</span><br>
 <span style="color: rgb(0, 0, 0);">1° voor het voltijds gewoon secundair onderwijs :</span><br>
@@ -303,7 +301,7 @@ Als het niet mogelijk is een beroep te doen op de voltallige klassenraad van het
 <span style="color: rgb(0, 0, 0);">1° de screening, het intakegesprek en de trajectbegeleiding, waaraan de leerling zich moet onderwerpen;</span><br>
 <span style="color: rgb(0, 0, 0);">2° de vermelding dat het niet-sluiten van een overeenkomst binnen de vastgelegde termijn tot de verplichte vroegtijdige beëindiging van de opleiding zal leiden;</span><br>
 <span style="color: rgb(0, 0, 0);">3° de verduidelijking van het orgaan "klassenraad", met de expliciete vermelding dat de trajectbegeleider en mentor er stemgerechtigd deel van uitmaken;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de vermelding, afhankelijk van de duale opleiding die de school organiseert, dat in een duale opleiding overzitten uitgesloten is, uitgezonderd het overzitten in een eenjarige opleiding tijdens het schooljaar 2017-2018 en het overzitten in het tweede jaar van een tweejarige opleiding tijdens het schooljaar 2018-2019.</span><br>
+<span style="color: rgb(0, 0, 0);">4° ...</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">De toevoeging, vermeld in het eerste lid, wordt gedaan in afwijking van artikel 112 van de codex.</span><br>
 <br>
