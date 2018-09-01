@@ -171,7 +171,9 @@ Dit hoofdstuk is van toepassing op de personeelsleden, vermeld in artikel 1, § 
 
 ### ART. 25.
 
-Het personeelslid dat een verlof voor verminderde prestaties wegens ziekte krijgt, moet zijn ambt of ambten opnieuw opnemen voor het volume dat vastgelegd is in het plan. Het aantal nog te verrichten prestaties moet wel ten minste 50 % bedragen van het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, een volledig uur of op een volledige schijf van 10 % voor een ambt met volledige prestaties voor wat de personeelsleden van de centra voor leerlingenbegeleiding betreft. Het volume blijft ongewijzigd gedurende de volledige periode van het verlof zoals vermeld in het plan.<br /><br />De prestaties, verricht door personeelsleden die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, komen enkel en alleen in aanmerking om het volume te bepalen van de nog te verrichten prestaties.
+Het personeelslid dat een verlof voor verminderde prestaties wegens ziekte krijgt, moet zijn ambt of ambten opnieuw opnemen voor het volume dat vastgelegd is in het plan. Het aantal nog te verrichten prestaties moet wel ten minste 50 % bedragen van het aantal prestatie-eenheden die vereist zijn voor een ambt met volledige prestaties. De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, of een volledig uur. Het volume blijft ongewijzigd gedurende de volledige periode van het verlof zoals vermeld in het plan.<br>
+<br>
+De prestaties, verricht door personeelsleden die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel 2, 39°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap, komen enkel en alleen in aanmerking om het volume te bepalen van de nog te verrichten prestaties.
 
 ### ART. 26.
 
@@ -211,7 +213,7 @@ Met het volume van de nog te verrichten prestaties wordt de verhouding bedoeld, 
 <br>
 In afwijking van het eerste lid neemt een personeelslid dat vast benoemd is in een ambt dat slechts kan toegewezen worden aan één personeelslid of aan twee personeelsleden die elk met een halve opdracht worden belasten dat een langdurig verlof voor verminderde prestaties wegens medische redenen krijgt, zijn ambt opnieuw voor 50 % op.<br>
 <br>
-De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, een volledig uur of op een volledige schijf van 10 % voor een ambt met volledige prestaties voor wat de personeelsleden van de centra voor leerlingenbegeleiding betreft.<br>
+De nog te verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang het geval, op een volledige lestijd, een volledig lesuur, of een volledig uur.<br>
 <br>
 Het volume van de nog te verrichten prestaties blijft ongewijzigd gedurende de volledige periode, vermeld in artikel 28/6, tweede lid.<br>
 <br>
