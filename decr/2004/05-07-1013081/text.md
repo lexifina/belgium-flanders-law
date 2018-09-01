@@ -12,7 +12,18 @@ Dit decreet houdt rekening met de bepalingen van :<br />1° richtlijn 2006/123/E
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br />2° leertijd : het traject dat bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische opleiding in een centrum, dat voldoet aan de regels vermeld in artikel 27 tot en met 30;<br />3° ondernemerschapstraject : een door Syntra Vlaanderen gescreend traject, dat afgestemd is op een sectoraal beroepscompetentieprofiel, een generiek ondernemersprofiel of regelgeving, dat voldoet aan de regels vermeld in artikel 31 tot en met 33;<br />4° toegewezen traject : het traject met als doel de deelnemers sterker in te bedden binnen het ondernemerschap door hen opleidingen aan te bieden of technieken aan te leren om hun ondernemerschapscompetenties te verhogen, dat voldoet aan de regels vermeld in artikel 34;<br />5° leertrajectbegeleider : de trajectbegeleider, vermeld in artikel 39 tot en met 40;<br />6° centrum : een erkend centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen als vermeld in artikel 36 tot en met 38;<br />7° regisseur : de taken van Syntra Vlaanderen die in essentie betrekking hebben op het uittekenen van het beleid en het toezicht;<br />8° actor : de taken van Syntra Vlaanderen die verband houden met de concrete organisatie van de opleidingen.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+2° leertijd : het traject dat bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische opleiding in een centrum, dat voldoet aan de regels vermeld in artikel 27 tot en met 30;<br>
+3° ondernemerschapstraject : een door Syntra Vlaanderen gescreend traject, dat afgestemd is op een sectoraal beroepscompetentieprofiel, een generiek ondernemersprofiel of regelgeving, dat voldoet aan de regels vermeld in artikel 31 tot en met 33;<br>
+4° toegewezen traject : het traject met als doel de deelnemers sterker in te bedden binnen het ondernemerschap door hen opleidingen aan te bieden of technieken aan te leren om hun ondernemerschapscompetenties te verhogen, dat voldoet aan de regels vermeld in artikel 34;<br>
+5°...;<br>
+6° centrum : een erkend centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen als vermeld in artikel 36 tot en met 38;<br>
+7° regisseur : de taken van Syntra Vlaanderen die in essentie betrekking hebben op het uittekenen van het beleid en het toezicht;<br>
+8° actor : de taken van Syntra Vlaanderen die verband houden met de concrete organisatie van de opleidingen;<br>
+9° aanloopstructuuronderdelen: aanloopstructuuronderdelen bedoeld in 357/41, 1°, van de Codex Secundair Onderwijs;<br>
+10° duale structuuronderdelen: duale structuuronderdelen bedoeld 357/5, eerste lid, van de Codex Secundair Onderwijs.<br>
+&nbsp;
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -121,7 +132,9 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 
 ### ART. 10.
 
-§ 1. Onverminderd de in artikel 21, § 1, van het kaderdecreet bedoelde onverenigbaarheden, is het mandaat van bestuurder onverenigbaar met de functie van leertrajectbegeleider en lid van de raad van bestuur, directeur-afgevaardigd bestuurder en/of personeelslid van een centrum.<br /><br />§ 2. In het geval een bestuurder het bepaalde in de eerste paragraaf overtreedt, geldt de regeling bepaald in artikel 21, § 2, van het kaderdecreet.
+§ 1. Onverminderd de in artikel 21, § 1, van het kaderdecreet bedoelde onverenigbaarheden, is het mandaat van bestuurder onverenigbaar met de functie van lid van de raad van bestuur, directeur-afgevaardigd bestuurder en/of personeelslid van een centrum.<br>
+<br>
+§ 2. In het geval een bestuurder het bepaalde in de eerste paragraaf overtreedt, geldt de regeling bepaald in artikel 21, § 2, van het kaderdecreet.
 
 ### ART. 11.
 
@@ -153,12 +166,12 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 4° het opmaken van een jaarlijks monitoringsrapport over de stand van zaken van het duaal leren in Vlaanderen;<br>
 5° het nemen van de nodige acties om de ondernemingen te informeren over het duaal leren in Vlaanderen;<br>
 6° het ondersteunen en mobiliseren van ondernemingen met het oog op een versterking, zowel kwantitatief als kwalitatief, van het aanbod aan werkplekken;<br>
-7° het verlenen van advies over alle materies die de werkplekcomponent van het duaal leren aanbelangen.<br>
+7° het verlenen van advies over alle materies die het duaal leren aanbelangen.<br>
 <br>
 § 3. Het Vlaams Partnerschap Duaal Leren is samengesteld uit volgende leden:<br>
 1° een voorzitter;<br>
-2° vier leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
-3° vier leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+2° vier effectieve en vier plaatsvervangende leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+3° vier effectieve en vier plaatsvervangende leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
 4° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
 5° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
 6° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
@@ -167,7 +180,10 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 9° een vertegenwoordiger van het Agentschap voor Onderwijsdiensten;<br>
 10° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
 11° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
-12° een secretaris, personeelslid van het agentschap.<br>
+12° een vertegenwoordiger van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties &amp; Studietoelagen;<br>
+13° een secretaris, personeelslid van het agentschap.<br>
+<br>
+Elke geleding, vermeld in het eerste lid, 4° tot en met 12°, duidt een effectieve en een plaatsvervangende vertegenwoordiger aan.<br>
 <br>
 Met uitzondering van de voorzitter en de secretaris hebben alle leden als vermeld in het eerste lid stemrecht.<br>
 <br>
@@ -202,9 +218,11 @@ De Vlaamse Regering kan een vergoeding toekennen aan de leden van het Vlaams Par
 
 Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten met betrekking tot de overeenkomst van alternerende opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap. Het samenwerkingsakkoord bepaalt de opdrachten van het sectoraal partnerschap.<br>
 <br>
+In afwijking van het eerste lid, 1° en 2°, wordt het sectoraal partnerschap in sectoren zonder representatieve werkgevers- en werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen, samengesteld uit minstens 3 vertegenwoordigers van de werkgeversorganisaties en minstens 3 vertegenwoordigers van de werknemersorganisaties vertegenwoordigd in de raad van bestuur van het sectorfonds van de betrokken sector.<br>
+<br>
 Het sectoraal partnerschap is samengesteld uit volgende leden:<br>
-1° vier leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
-2° vier leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+1° minstens drie vertegenwoordigers van de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+2° minstens drie vertegenwoordigers van de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
 3° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
 4° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
 5° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
@@ -214,7 +232,7 @@ Het sectoraal partnerschap is samengesteld uit volgende leden:<br>
 9° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
 10° een secretaris, personeelslid van het agentschap.<br>
 <br>
-Elke geleding duidt haar vertegenwoordiger(s) aan.<br>
+Elke geleding duidt haar&nbsp;effectieve en plaatsvervangende vertegenwoordiger(s) aan.<br>
 <br>
 De leden kiezen onder elkaar een voorzitter en een ondervoorzitter die niet tot dezelfde geleding behoren.<br>
 <br>
@@ -322,7 +340,39 @@ De raad van bestuur stelt, in overleg met de Vlaamse Regering, een ondernemingsp
 
 ### ART. 26.
 
-§ 1. Het aanbod van trajecten omvat :<br />1° de leertijd;<br />2° het ondernemerschapstraject;<br />3° het toegewezen traject.<br /><br />§ 2. De leertijd, vermeld in paragraaf 1, 1°, is een niet-economische dienst van algemeen belang.<br /><br />§ 3. Het ondernemerschapstraject, vermeld in paragraaf 1, 2°, waarvan de screening door de raad van bestuur of de Vlaamse Regering wordt bekrachtigd, is een niet-economische dienst van algemeen belang. De Vlaamse Regering staat in voor de bekrachtiging van de trajecten als ondernemerschapstrajecten, uitgezonderd in geval de raad van bestuur met eenparigheid van stemmen het advies van de screeningscommissie bekrachtigt.<br /><br />De screening toetst de opportuniteit van het traject aan de hand van vijf te onderzoeken voorwaarden die cumulatief aanwezig moeten zijn. Die voorwaarden zijn :<br />a) het betreft een traject dat leidt naar zelfstandig ondernemerschap, waarin een uitstroom als kmo-medewerker mogelijk is;<br />b) het traject beantwoordt aan een behoefte op de markt;<br />c) het sectoraal beroepscompetentieprofiel, als dat aanwezig is, of het innovatieve karakter in het andere geval, het generieke ondernemersprofiel of de regelgeving wordt onderbouwd;<br />d) de kansen op duurzame tewerkstelling en de economische effectiviteit verhogen;<br />e) andere private marktspelers bieden een dergelijk traject niet aan of bouwen specifieke drempels in die de toegang tot de opleiding minstens belemmeren.<br /><br />Deze voorwaarden worden verduidelijkt door de Vlaamse Regering.<br /><br />De bevoegde sectorcommissie, opgericht overeenkomstig artikel 19, § 2, maakt voor de opportuniteitstoetsing van een te organiseren ondernemerstraject een onderbouwd dossier op dat betrekking heeft op de voorwaarden, vermeld in het tweede lid, a) tot en met d).<br /><br />Het onderbouwde dossier, vermeld in het vierde lid, wordt bezorgd aan de commissie Screening, vermeld in artikel 19, § 3, eerste lid, die adviseert over de voorwaarde, vermeld in het tweede lid, e). De commissie brengt advies uit over de organisatie van ondernemerschapstrajecten.<br /><br />Het onderbouwde dossier, vermeld in het vierde lid, wordt samen met het advies van de commissie Screening, vermeld in het vijfde lid, door de gedelegeerd bestuurder ter bekrachtiging voorgelegd aan de raad van bestuur.<br /><br />Wanneer de beslissing tot bekrachtiging door de raad van bestuur niet gebeurt met eenparigheid van stemmen, voegt de raad van bestuur de afwijkende standpunten toe aan het opportuniteitsdossier en bezorgt hij het opportuniteitsdossier aan de Vlaamse Regering die een definitieve beslissing neemt. Alleen trajecten die door de Vlaamse Regering of de raad van bestuur worden bekrachtigd, mogen als ondernemerschapstrajecten worden benoemd.<br /><br />§ 4. Het ondernemerschapstraject, vermeld in paragraaf 1, 2°, dat op datum van inwerkingtreding van dit decreet erkend is door de raad van bestuur als ondernemersopleiding, is een niet-cconomische dienst van algemeen belang. Dit ondernemerschapstraject wordt vrijgesteld van screening.<br /><br />Derden kunnen ten aanzien van een ondernemerschapstraject dat krachtens het eerste lid vrijgesteld is van screening, aan de minister bevoegd voor professionele vorming vragen, middels een gemotiveerd beroepschrift, om het niet te erkennen als niet-economische dienst van algemeen belang. De minister zal dit beroepschrift dan voor screening aan de screeningscommissie overmaken. Het advies van de screeningscommissie wordt na advies van de raad van bestuur van Syntra Vlaanderen ter beslissing aan de Vlaamse Regering voorgelegd.<br /><br />§ 5. Het toegewezen traject, vermeld in paragraaf 1, 3°, is een dienst van algemeen economisch belang, namelijk een opleiding of een daarmee verband houdende activiteit die van algemeen belang is en waar bijkomend een economische factor speelt, maar die geen leertijd, geen gescreend ondernemerschapstraject of geen op de datum van inwerkingtreding van het decreet door de raad van bestuur erkende ondernemersopleiding is.
+§ 1. Het aanbod van trajecten omvat :<br>
+1° de leertijd;<br>
+2° het ondernemerschapstraject;<br>
+3° het toegewezen traject;<br>
+4° aanloopstructuuronderdelen;<br>
+5° duale structuuronderdelen.<br>
+<br>
+§ 2. De leertijd, vermeld in paragraaf 1, 1°, de aanloopstructuuronderdelen vermeld in paragraaf 1, 4°, en de duale structuuronderdelen, vermeld in paragraaf 1, 5°, zijn een niet-economische dienst van algemeen belang.<br>
+<br>
+§ 3. Het ondernemerschapstraject, vermeld in paragraaf 1, 2°, waarvan de screening door de raad van bestuur of de Vlaamse Regering wordt bekrachtigd, is een niet-economische dienst van algemeen belang. De Vlaamse Regering staat in voor de bekrachtiging van de trajecten als ondernemerschapstrajecten, uitgezonderd in geval de raad van bestuur met eenparigheid van stemmen het advies van de screeningscommissie bekrachtigt.<br>
+<br>
+De screening toetst de opportuniteit van het traject aan de hand van vijf te onderzoeken voorwaarden die cumulatief aanwezig moeten zijn. Die voorwaarden zijn :<br>
+a) het betreft een traject dat leidt naar zelfstandig ondernemerschap, waarin een uitstroom als kmo-medewerker mogelijk is;<br>
+b) het traject beantwoordt aan een behoefte op de markt;<br>
+c) het sectoraal beroepscompetentieprofiel, als dat aanwezig is, of het innovatieve karakter in het andere geval, het generieke ondernemersprofiel of de regelgeving wordt onderbouwd;<br>
+d) de kansen op duurzame tewerkstelling en de economische effectiviteit verhogen;<br>
+e) andere private marktspelers bieden een dergelijk traject niet aan of bouwen specifieke drempels in die de toegang tot de opleiding minstens belemmeren.<br>
+<br>
+Deze voorwaarden worden verduidelijkt door de Vlaamse Regering.<br>
+<br>
+De bevoegde sectorcommissie, opgericht overeenkomstig artikel 19, § 2, maakt voor de opportuniteitstoetsing van een te organiseren ondernemerstraject een onderbouwd dossier op dat betrekking heeft op de voorwaarden, vermeld in het tweede lid, a) tot en met d).<br>
+<br>
+Het onderbouwde dossier, vermeld in het vierde lid, wordt bezorgd aan de commissie Screening, vermeld in artikel 19, § 3, eerste lid, die adviseert over de voorwaarde, vermeld in het tweede lid, e). De commissie brengt advies uit over de organisatie van ondernemerschapstrajecten.<br>
+<br>
+Het onderbouwde dossier, vermeld in het vierde lid, wordt samen met het advies van de commissie Screening, vermeld in het vijfde lid, door de gedelegeerd bestuurder ter bekrachtiging voorgelegd aan de raad van bestuur.<br>
+<br>
+Wanneer de beslissing tot bekrachtiging door de raad van bestuur niet gebeurt met eenparigheid van stemmen, voegt de raad van bestuur de afwijkende standpunten toe aan het opportuniteitsdossier en bezorgt hij het opportuniteitsdossier aan de Vlaamse Regering die een definitieve beslissing neemt. Alleen trajecten die door de Vlaamse Regering of de raad van bestuur worden bekrachtigd, mogen als ondernemerschapstrajecten worden benoemd.<br>
+<br>
+§ 4. Het ondernemerschapstraject, vermeld in paragraaf 1, 2°, dat op datum van inwerkingtreding van dit decreet erkend is door de raad van bestuur als ondernemersopleiding, is een niet-cconomische dienst van algemeen belang. Dit ondernemerschapstraject wordt vrijgesteld van screening.<br>
+<br>
+Derden kunnen ten aanzien van een ondernemerschapstraject dat krachtens het eerste lid vrijgesteld is van screening, aan de minister bevoegd voor professionele vorming vragen, middels een gemotiveerd beroepschrift, om het niet te erkennen als niet-economische dienst van algemeen belang. De minister zal dit beroepschrift dan voor screening aan de screeningscommissie overmaken. Het advies van de screeningscommissie wordt na advies van de raad van bestuur van Syntra Vlaanderen ter beslissing aan de Vlaamse Regering voorgelegd.<br>
+<br>
+§ 5. Het toegewezen traject, vermeld in paragraaf 1, 3°, is een dienst van algemeen economisch belang, namelijk een opleiding of een daarmee verband houdende activiteit die van algemeen belang is en waar bijkomend een economische factor speelt, maar die geen leertijd, geen gescreend ondernemerschapstraject of geen op de datum van inwerkingtreding van het decreet door de raad van bestuur erkende ondernemersopleiding is.
 
 ## AFDELING 2 LEERTIJD
 
@@ -332,7 +382,7 @@ De leertijd bestaat uit een praktijkopleiding in een onderneming, aangevuld met 
 
 ### ART. 28.
 
-De praktijkopleiding in de leertijd omvat het sluiten van een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of deeltijdse arbeidsovereenkomst conform de bepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.
+De praktijkopleiding in de leertijd omvat het sluiten van een overeenkomst vermeld in artikel 3 van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.
 
 ### ART. 29.
 
@@ -378,7 +428,32 @@ Een centrum kan, mits het voldoet aan de voorwaarden bedoeld in artikel 37, door
 
 ### ART. 37.
 
-§ 1. Teneinde door de Vlaamse regering te kunnen worden erkend met het oog op het verstrekken van leertijd en ondernemerschapstrajecten, moet het centrum zijn opgericht onder de vorm van een vereniging zonder winstoogmerk, overeenkomstig de bepalingen van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br /><br />§ 2. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking komt, moet de algemene vergadering  van de vereniging zonder winstoogmerk uitsluitend toegankelijk zijn voor alle representatieve middenstands-, zelfstandigen- en werkgeversorganisaties die voldoen aan de voorwaarden gesteld door de Vlaamse regering.<br /><br />§ 3. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking komt, moeten de statuten ervan voorafgaandelijk door de Vlaamse regering zijn goedgekeurd onder de door de Vlaamse regering bij besluit vastgestelde voorwaarden.<br /><br />Opdat de statuten van het centrum voor goedkeuring in aanmerking zouden komen, moeten zij in elk geval een evenwicht waarborgen in de verschillende bestuursorganen van de vereniging tussen, enerzijds, de vertegenwoordiging van de professionele organisaties en, anderzijds, die van de interprofessionele organisaties.<br /><br />Opdat de statuten van het centrum voor goedkeuring in aanmerking zouden komen, moet daarin in elk geval zijn voorzien in een vertegenwoordiger van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" in de raad van bestuur. Deze vertegenwoordiger woont de vergaderingen van de raad van bestuur bij met raadgevende stem.<br /><br />§ 4. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking zou komen, moet het tot doel hebben:<br />1° het organiseren van leertijd, en ondernemerschapstrajecten;<br />2° de pedagogische begeleiding van de cursisten die de door de vereniging georganiseerde vorming volgen;<br />3° het verlenen aan de Vlaamse regering en aan het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" van de medewerking voor bepaalde verwezenlijkingen op het gebied van de opleiding, vorming en begeleiding, met inbegrip van de innovatie en (product) ontwikkeling;<br />4° het aangaan van samenwerkingsakkoorden met of het nemen van deelnemingen in de andere centra of derden met het oog op het optimaal functioneren van een centrum op zich of van de centra als totaliteit.<br /><br />§ 5. Opdat het centrum als vermeld in § 1, voor erkenning door de Vlaamse Regering in aanmerking zou komen, moet het in het kader van de leertijd : <br />1° de controle door de onderwijsinspectie mogelijk maken;<br />2° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs.<br />3° een doeltreffend beleid voeren om het rookverbod kenbaar te maken en te handhaven, controle uitoefenen over de naleving van het verbod en overtreders sancties opleggen, conform het eigen sanctiebeleid zoals vermeld in het centrum- of arbeidsreglement.<br /><br />§ 6. De Vlaamse Regering kan, op voorstel van een college, de erkenning voor wat betreft de leertijd van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen geleidelijk en geheel of gedeeltelijk opheffen als niet meer wordt voldaan aan de erkenningsvoorwaarden als vermeld in dit artikel. Dat college wordt voor de helft samengesteld uit inspectieleden uit het onderwijs, enerzijds, en voor de helft uit personeelsleden van Syntra Vlaanderen, anderzijds. <br /><br />De Vlaamse Regering legt de aanvullende bepalingen vast over de werking en de organisatie van dat college, wijst de leden ervan aan en regelt de beroepsprocedure.
+§ 1. Teneinde door de Vlaamse regering te kunnen worden erkend met het oog op het verstrekken van leertijd, aanloopstructuuronderdelen, duale structuuronderdelen en ondernemerschapstrajecten, moet het centrum zijn opgericht onder de vorm van een vereniging zonder winstoogmerk, overeenkomstig de bepalingen van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br>
+<br>
+§ 2. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking komt, moet de algemene vergadering van de vereniging zonder winstoogmerk uitsluitend toegankelijk zijn voor alle representatieve middenstands-, zelfstandigen- en werkgeversorganisaties die voldoen aan de voorwaarden gesteld door de Vlaamse regering.<br>
+<br>
+§ 3. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking komt, moeten de statuten ervan voorafgaandelijk door de Vlaamse regering zijn goedgekeurd onder de door de Vlaamse regering bij besluit vastgestelde voorwaarden.<br>
+<br>
+Opdat de statuten van het centrum voor goedkeuring in aanmerking zouden komen, moeten zij in elk geval een evenwicht waarborgen in de verschillende bestuursorganen van de vereniging tussen, enerzijds, de vertegenwoordiging van de professionele organisaties en, anderzijds, die van de interprofessionele organisaties.<br>
+<br>
+Opdat de statuten van het centrum voor goedkeuring in aanmerking zouden komen, moet daarin in elk geval zijn voorzien in een vertegenwoordiger van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" in de raad van bestuur. Deze vertegenwoordiger woont de vergaderingen van de raad van bestuur bij met raadgevende stem.<br>
+<br>
+§ 4. Opdat het centrum bedoeld in de eerste paragraaf voor erkenning door de Vlaamse regering in aanmerking zou komen, moet het tot doel hebben:<br>
+1° het organiseren van leertijd, aanloopstructuuronderdelen, duale structuuronderdelen en ondernemerschapstrajecten;<br>
+2° de pedagogische begeleiding van de cursisten die de door de vereniging georganiseerde vorming volgen;<br>
+3° het verlenen aan de Vlaamse regering en aan het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" van de medewerking voor bepaalde verwezenlijkingen op het gebied van de opleiding, vorming en begeleiding, met inbegrip van de innovatie en (product) ontwikkeling;<br>
+4° het aangaan van samenwerkingsakkoorden met of het nemen van deelnemingen in de andere centra of derden met het oog op het optimaal functioneren van een centrum op zich of van de centra als totaliteit.<br>
+<br>
+§ 5. Opdat het centrum als vermeld in § 1, voor erkenning door de Vlaamse Regering in aanmerking zou komen, moet het in het kader van de leertijd aanloopstructuur-onderdelen en de duale structuuronderdelen&nbsp;:<br>
+1° de controle door de onderwijsinspectie mogelijk maken;<br>
+2° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs.<br>
+3° een doeltreffend beleid voeren om het rookverbod kenbaar te maken en te handhaven, controle uitoefenen over de naleving van het verbod en overtreders sancties opleggen, conform het eigen sanctiebeleid zoals vermeld in het centrum- of arbeidsreglement;<br>
+4° samenwerkingsafspraken maken met een centrum voor leerlingenbegeleiding;<br>
+5° een beleid op leerlingenbegeleiding voeren; de Vlaamse Regering bepaalt de datum van inwerkingtreding van deze bepaling.<br>
+<br>
+§ 6. De Vlaamse Regering kan, op voorstel van een college, de erkenning voor wat betreft de leertijd van een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen geleidelijk en geheel of gedeeltelijk opheffen als niet meer wordt voldaan aan de erkenningsvoorwaarden als vermeld in dit artikel. Dat college wordt voor de helft samengesteld uit inspectieleden uit het onderwijs, enerzijds, en voor de helft uit personeelsleden van Syntra Vlaanderen, anderzijds.<br>
+<br>
+De Vlaamse Regering legt de aanvullende bepalingen vast over de werking en de organisatie van dat college, wijst de leden ervan aan en regelt de beroepsprocedure.
 
 ### ART. 38.
 
@@ -415,16 +490,7 @@ Onder « samenwerken » wordt verstaan :<br>
 
 ### ART. 39.
 
-De leertrajectbegeleiders:<br>
-1° houden de nodige gegevens bij over de ondernemingen in de leertijd, de ondernemingshoofden-opleiders in de ondernemerschapstrajecten, de leerlingen leertijd die een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst willen sluiten en de cursisten-stagiairs die een stageovereenkomst willen sluiten;<br>
-2° staan de kandidaat-leerlingen leertijd en de cursisten-stagiairs bij met advies over de keuze van beroep, van onderneming en van de duurtijd van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;<br>
-3° staan de ondernemingen en de ondernemingshoofden-opleiders bij met advies over de keuze van de leerling leertijd en de cursist-stagiair;<br>
-4° zorgen ervoor dat de leerlingen leertijd zich inschrijven voor passende vorming, georganiseerd door de centra;<br>
-5° treden op als tussenpersonen tussen de onderneming en de leerling leertijd of zijn wettelijke vertegenwoordiger of tussen het ondernemingshoofd en de cursist-stagiair bij het sluiten van een overeenkomst van alternerende opleiding, een stageovereenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst in de leertijd of bij het sluiten van stageovereenkomsten;<br>
-6° oefenen toezicht uit op de door hun bemiddeling gesloten stageovereenkomsten alternerende opleiding, overeenkomsten van alternerende opleiding en deeltijdse arbeidsovereenkomsten in de leertijd of op de stageovereenkomsten in de onderneming;<br>
-7° zorgen voor pedagogische, morele en sociale begeleiding van de leerling leertijd en de cursist-stagiair;<br>
-8° treden op als bemiddelaars in geval van geschillen tussen de onderneming of het ondernemingshoofd-opleider en de leerling leertijd of de cursist-stagiair;<br>
-9° wonen pedagogische activiteiten bij die verband houden met de voormelde opdrachten.
+...
 
 ### ART. 40.
 
@@ -440,7 +506,7 @@ De Vlaamse regering bepaalt bij besluit de werkvoorwaarden en de geldelijke rege
 
 ### ART. 42.
 
-Met behoud van de toepassing van de bevoegdheden van de officieren van de gerechtelijke politie en het overeenkomstig artikel 39, 6°, uitgeoefende toezicht door de leertrajectbegeleiders, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de door het agentschap aangewezen personeelsleden.<br>
+Met behoud van de toepassing van de bevoegdheden van de officieren van de gerechtelijke politie wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de door het agentschap aangewezen personeelsleden.<br>
 <br>
 De personeelsleden, vermeld in het eerste lid, oefenen de volgende toezichts- en controleopdrachten uit :<br>
 1° het kwaliteits- en pedagogisch toezicht;<br>
@@ -468,7 +534,20 @@ Het toezicht op de uitvoering en financiële compensatie van toegewezen trajecte
 
 ### ART. 43.
 
-De personeelsleden, vermeld in artikel 42, beschikken voor de uitoefening van hun toezichts- en controleopdrachten over de bevoegdheden, vermeld in artikel 5/1, 5/2, 6, § 1, 1° tot en met 5°, 7, 1° en 2° a) en b), en 8 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.<br /><br />Die personeelsleden stellen hun bevindingen vast in een verslag. Het verslag wordt naargelang de bepaling van de bevoegdheid in dit decreet of andere regelgeving bezorgd aan de Vlaamse Regering, de raad van bestuur, de praktijkcommissie of de instelling die een uitspraak moet doen overeenkomstig de bepalingen van dit decreet en van de krachtens dit decreet genomen besluiten.<br /><br />Het toezicht kan uitgevoerd worden in de vorm van :<br />1° een jaarlijkse controle;<br />2° een aanvullende controle;<br />3° een steekproefcontrole;<br />4° een verscherpte controle;<br />5° een administratieve controle.<br /><br />De vaststelling van de jaarplanning van de steekproefcontrole en de keuze van de plaats waar of persoon bij wie toezicht wordt uitgeoefend, is gebaseerd op de risico-analyse die jaarlijks door de raad van bestuur wordt opgesteld.<br /><br />Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij diegenen bij wie toezicht wordt uitgeoefend.
+De personeelsleden, vermeld in artikel 42, beschikken voor de uitoefening van hun toezichts- en controleopdrachten over de bevoegdheden, vermeld in artikel 5/1, 5/2, 6, § 1, 1° tot en met 5°, 7, 1° en 2° a) en b), en 8 van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004.<br>
+<br>
+Die personeelsleden stellen hun bevindingen vast in een verslag. Het verslag wordt naargelang de bepaling van de bevoegdheid in dit decreet of andere regelgeving bezorgd aan de Vlaamse Regering, de raad van bestuur of de instelling die een uitspraak moet doen overeenkomstig de bepalingen van dit decreet en van de krachtens dit decreet genomen besluiten.<br>
+<br>
+Het toezicht kan uitgevoerd worden in de vorm van :<br>
+1° een jaarlijkse controle;<br>
+2° een aanvullende controle;<br>
+3° een steekproefcontrole;<br>
+4° een verscherpte controle;<br>
+5° een administratieve controle.<br>
+<br>
+De vaststelling van de jaarplanning van de steekproefcontrole en de keuze van de plaats waar of persoon bij wie toezicht wordt uitgeoefend, is gebaseerd op de risico-analyse die jaarlijks door de raad van bestuur wordt opgesteld.<br>
+<br>
+Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij diegenen bij wie toezicht wordt uitgeoefend.
 
 ### ART. 44.
 
@@ -480,7 +559,7 @@ De volgende maatregelen zijn mogelijk :<br>
 De volgende sancties zijn mogelijk :<br>
 1° de verscherpte controle : er wordt systematisch tot verscherpte controle overgegaan als een waarschuwing is gegeven. De kosten van de verscherpte controle moeten door de gecontroleerde worden gedragen bij wijze van bijzondere kostendekkende vergoeding die concreet wordt bepaald in de werkingscode, vermeld in artikel 43, vijfde lid;<br>
 2° in het kader van de leertijd of de stage :<br>
-a) de schorsing, opheffing of intrekking van de erkenning van de leertrajectbegeleider;<br>
+a) ...;<br>
 b) de opheffing of intrekking van de erkenning van de stageovereenkomst;<br>
 c) de uitsluiting van het ondernemingshoofd-opleider;<br>
 3° de schorsing, opheffing of intrekking van de erkenning en subsidiëring van de activiteiten in hun geheel of van een deel ervan;<br>
@@ -511,7 +590,7 @@ In afwijking van artikel 36, worden de centra en in afwijking van artikel 38, §
 
 ### ART. 48.
 
-In afwijking van artikel 40, § 1, worden de leersecretarissen, die erkend zijn op de datum van de inwerkingtreding van dit decreet beschouwd als zijnde erkend in het kader van dit decreet voor zover zij voldoen aan artikel 40, § 2.
+...
 
 ### ART. 49.
 
