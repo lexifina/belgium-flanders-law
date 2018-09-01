@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029646,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-06 tot wijziging van het besluit van de Vlaamse Regering van 3 juli 2009 houdende de uitvoering van het decreet van 3 april 2009 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de studentensportvoorzieningen van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende studentensportvereniging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029646/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "6a3347bd3d52b47bdc96fe5ac5529ad4f7252612cbf66c055f2b7dcfe2ca3502",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029646&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-07-06",
+  "gazette": "2018-08-16",
+  "numac": 2018013246,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
