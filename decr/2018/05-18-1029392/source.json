@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029392,
+  "title": "Decreet van 2018-05-18 tot opheffing van de wettelijke bepalingen over de basiskennis van het bedrijfsbeheer",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029392/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "55f5bb1d1257ca059c8ea50ad6af07747c06544bbc5612636e605b810ed55498",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029392&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-05-18",
+  "gazette": "2018-06-11",
+  "numac": 2018012401,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
