@@ -34,7 +34,15 @@ Na het verstrijken van en onmiddellijk aansluitend op het bevallingsverlof kan h
 
 ### ART. 7.
 
-§ 1. Het personeelslid dat met toepassing van artikel 42 en 43 van de arbeidswet van 16 maart 1971 is vrijgesteld van arbeid, is ambtshalve met verlof voor de nodige periode. Het verlof eindigt zodra het personeelslid recht heeft op prenataal verlof.<br /><br />Als het personeelslid borstvoeding geeft zoals vermeld in artikel 7, 2°, van het koninklijk besluit van 2 mei 1995 inzake moederschapsbescherming, mag het verlof een periode van vijf maanden vanaf de dag van de bevalling niet overschrijden.<br /><br />§ 2. Tijdens dit verlof heeft het benoemde personeelslid recht op bezoldiging.<br /><br />Het tijdelijke personeelslid heeft tijdens dit verlof geen recht op bezoldiging.<br /><br />§ 3. Dit verlof wordt gelijkgesteld met dienstactiviteit.
+§ 1. Het personeelslid dat met toepassing van artikel 42 en 43 van de arbeidswet van 16 maart 1971 is vrijgesteld van arbeid, is ambtshalve met verlof voor de nodige periode. Het verlof eindigt zodra het personeelslid recht heeft op prenataal verlof.<br>
+<br>
+Als het personeelslid borstvoeding geeft zoals vermeld in artikel X5-7, tweede lid, 2°, van de Codex van 28 april 2017 over het welzijn op het werk, mag het verlof een periode van vijf maanden vanaf de dag van de bevalling niet overschrijden.<br>
+<br>
+§ 2. Tijdens dit verlof heeft het benoemde personeelslid recht op bezoldiging.<br>
+<br>
+Het tijdelijke personeelslid heeft tijdens dit verlof geen recht op bezoldiging.<br>
+<br>
+§ 3. Dit verlof wordt gelijkgesteld met dienstactiviteit.
 
 ## [HOOFDSTUK II/1 Geboorteverlof (ing. BVR 26 februari 2021, art. 2, I: 1 januari 2021)]
 
@@ -42,7 +50,27 @@ Na het verstrijken van en onmiddellijk aansluitend op het bevallingsverlof kan h
 
 ### ART. 8.
 
-§ 1. De personeelsleden hebben naar aanleiding van de hierna opgesomde   gebeurtenissen recht op omstandigheidsverlof voor een als volgt bepaalde   duur:<BR>1° huwelijk van het personeelslid: één werkdag;<BR>2° bevalling van de   echtgenote of de samenwonende partner: tien werkdagen geboorteverlof, te nemen   binnen een periode van vier maanden vanaf de bevalling, met dien verstande dat   minimum zeven dagen aaneensluitend moeten worden genomen.<BR>3° overlijden van   de echtgenoot, samenwonende partner, van een bloed- of aanverwant in de 1e   graad: vier werkdagen;<BR>4° huwelijk van een kind van het personeelslid of een   kind van de samenwonende partner: twee werkdagen;<BR>5° overlijden van een   bloed- of aanverwant, die onder hetzelfde dak als het personeelslid woont,   ongeacht de graad van verwantschap: twee werkdagen;<BR>6° overlijden van een   bloed- of aanverwant in de 2e graad die niet onder hetzelfde dak woont als het   personeelslid: één werkdag;<BR>7° deelneming aan een jury, oproeping als getuige   of persoonlijke verschijning voor een rechtbank: de nodige tijd;<BR>8°   uitoefening van het ambt van voorzitter of bijzitter in een hoofdstembureau,   enig stembureau of bureau voor stemopneming bij de parlements-, de   provincieraads- en de gemeenteraadsverkiezingen, met inbegrip van het Europees   Parlement: de nodige tijd.<BR><BR>§ 2. Het omstandigheidsverlof wordt met   dienstactiviteit gelijkgesteld.<BR><BR>Het omstandigheidsverlof wordt voor   benoemde personeelsleden bezoldigd.<BR><BR>Het omstandigheidsverlof wordt voor   tijdelijke personeelsleden bezoldigd, waarbij een afwijkende regeling geldt voor   het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of   de samenwonende partner.<BR><BR>Het tijdelijke personeelslid ontvangt voor het   omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of   samenwonende partner, gedurende drie van de tien werkdagen zijn salaris. Tijdens   de resterende zeven dagen wordt de betaling van het salaris geschorst en   ontvangt het personeelslid een uitkering via het ziekenfonds, die door de   hogeschool wordt aangevuld tot aan het nettosalaris.<BR><BR>§ 3. Wanneer een   personeelslid in meerdere instellingen werkt gedurende de dagen waarop hij   omstandigheidsverlof neemt, dan geldt dit verlof voor alle instellingen, met   dien verstande dat het in zijn totaliteit beperkt is tot de in dit artikel   vastgelegde aantal werkdagen.<BR><BR>Personeelsleden die zowel in de   privé-sector als in het onderwijs werken, hebben slechts één maal recht op een   periode van tien werkdagen omstandigheidsverlof naar aanleiding van de bevalling   van de echtgenote of samenwonende partner.
+§ 1. De personeelsleden hebben naar aanleiding van de hierna opgesomde gebeurtenissen recht op omstandigheidsverlof voor een als volgt bepaalde duur:<br>
+1° huwelijk of afleggen van een verklaring van wettelijke samenwoning van het personeelslid: twee werkdagen;<br>
+2° bevalling van de echtgenote of de samenwonende partner: tien werkdagen geboorteverlof, te nemen binnen een periode van vier maanden vanaf de bevalling, met dien verstande dat minimum zeven dagen aaneensluitend moeten worden genomen.<br>
+3° overlijden van de echtgenoot, samenwonende partner, van een bloed- of aanverwant in de 1e graad: vier werkdagen;<br>
+4° huwelijk&nbsp;of afleggen van een verklaring van wettelijke samenwoning van een kind van het personeelslid of een kind van de samenwonende partner: twee werkdagen;<br>
+5° overlijden van een bloed- of aanverwant, die onder hetzelfde dak als het personeelslid woont, ongeacht de graad van verwantschap: twee werkdagen;<br>
+6° overlijden van een bloed- of aanverwant in de 2e graad die niet onder hetzelfde dak woont als het personeelslid: één werkdag;<br>
+7° deelneming aan een jury, oproeping als getuige of persoonlijke verschijning voor een rechtbank: de nodige tijd;<br>
+8° uitoefening van het ambt van voorzitter of bijzitter in een hoofdstembureau, enig stembureau of bureau voor stemopneming bij de parlements-, de provincieraads- en de gemeenteraadsverkiezingen, met inbegrip van het Europees Parlement: de nodige tijd.<br>
+<br>
+§ 2. Het omstandigheidsverlof wordt met dienstactiviteit gelijkgesteld.<br>
+<br>
+Het omstandigheidsverlof wordt voor benoemde personeelsleden bezoldigd.<br>
+<br>
+Het omstandigheidsverlof wordt voor tijdelijke personeelsleden bezoldigd, waarbij een afwijkende regeling geldt voor het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of de samenwonende partner.<br>
+<br>
+Het tijdelijke personeelslid ontvangt voor het omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of samenwonende partner, gedurende drie van de tien werkdagen zijn salaris. Tijdens de resterende zeven dagen wordt de betaling van het salaris geschorst en ontvangt het personeelslid een uitkering via het ziekenfonds, die door de hogeschool wordt aangevuld tot aan het nettosalaris.<br>
+<br>
+§ 3. Wanneer een personeelslid in meerdere instellingen werkt gedurende de dagen waarop hij omstandigheidsverlof neemt, dan geldt dit verlof voor alle instellingen, met dien verstande dat het in zijn totaliteit beperkt is tot de in dit artikel vastgelegde aantal werkdagen.<br>
+<br>
+Personeelsleden die zowel in de privé-sector als in het onderwijs werken, hebben slechts één maal recht op een periode van tien werkdagen omstandigheidsverlof naar aanleiding van de bevalling van de echtgenote of samenwonende partner.
 
 ## [HOOFDSTUK III/1 Uitzonderlijk verlof wegens overmacht (ing. BVR 9 september 2011, art. 3)]
 
