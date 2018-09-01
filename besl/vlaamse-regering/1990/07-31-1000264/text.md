@@ -6,7 +6,7 @@
 
 § 1. ...<br>
 <br>
-§ 2. Dit besluit is van toepassing op de personeelsleden die behoren tot de categorieën van het bestuurs- en onderwijzend personeel en van het opvoedend hulppersoneel van de door Vlaamse Gemeenschap georganiseerde en gesubsidieerde onderwijsinstellingen voor deeltijds kunstonderwijs, studierichtingen muziek, woord en dans.
+§ 2. Dit besluit is van toepassing op de personeelsleden die behoren tot de categorieën van het bestuurs- en onderwijzend personeel, van het ondersteunend en van het opvoedend hulppersoneel van de door de Vlaamse Gemeenschap georganiseerde en gesubsidieerde onderwijsinstellingen voor deeltijds kunstonderwijs, domeinen muziek, woordkunst-drama en dans, met inbegrip van de personeelsleden van de kunstacademies, als vermeld in artikel 3, 32°, van het decreet van 9 maart 2018. betreffende het deeltijds kunstonderwijs.
 
 ### ART. 2.
 
@@ -14,7 +14,32 @@
 
 ### ART. 3.
 
-§ 1. Een bekwaamheidsbewijs bestaat uit een basisdiploma, eventueel   aangevuld met een bewijs van pedagogische bekwaamheid en/of nuttige ervaring. In   de gevallen waarvoor toepassing gemaakt wordt van artikel 5 kan een   bekwaamheidsbewijs bestaan uit artistieke ervaring. <BR><BR>§ 2. Onder bewijs   van pedagogische bekwaamheid wordt een van de volgende diploma's of   getuigschriften verstaan:<BR>1° het diploma van geaggregeerde voor het hoger   secundair onderwijs;<BR>2° het diploma van geaggregeerde voor het secundair   onderwijs-groep 2;<BR>3° het diploma van geaggregeerde voor het lager secundair   onderwijs;<BR>4° het diploma van geaggregeerde voor het secundair onderwijs,   groep 1;<BR>5° het diploma van geaggregeerde voor het onderwijs;<BR>6° het   getuigschrift van middelbare technische normaalleergangen;<BR>7° het   getuigschrift van normaalleergangen;<BR>8° het getuigschrift van pedagogische   bekwaamheid;<BR>9° het getuigschrift van pedagogische leergangen;<BR>10° het   diploma van leraar dans;<BR>11° het diploma van onderwijzer(es);<BR>12° het   diploma van kleuteronderwijzer(es);<BR>13° het diploma van bachelor in het   onderwijs : secundair onderwijs;<BR>14° het diploma van bachelor in het   onderwijs : lager onderwijs;<BR>15° het diploma van bachelor in het onderwijs :   kleuteronderwijs;<BR>16° het diploma van leraar, uitgereikt na een specifieke   lerarenopleiding, zoals bepaald in het decreet van 15 december 2006 betreffende   de lerarenopleidingen in Vlaanderen.<BR><BR>§ 3. 1° Voor de houder van het   diploma van licentiaat, die tevens houder is van een GLSO of GVO wordt dit   laatste diploma gelijkgesteld met een GHSO.<BR>2° Voor de houder van het diploma   van meester, die tevens houder is van een getuigschrift van pedagogische   leergangen dat voor een vak van dezelfde studierichting voorkomt onder de   vereiste bekwaamheidsbewijzen en ten laatste tijdens het academiejaar 1996-97   afgeleverd is, wordt dat getuigschrift gelijkgesteld met het diploma van   geaggregeerde voor het onderwijs.<BR>3° De houder van het diploma van   geaggregeerde voor het onderwijs wordt beschouwd als zijnde in het bezit van een   bewijs van pedagogische bekwaamheid voor de vakken waarvoor hij het basisdiploma   bezit. <BR>4° De houder van een diploma van meester in muziek of meester in   dramatische kunst, uitgereikt in de academiejaren 1994-1995 en 1995-1996, met   aanvullende vermelding "en muziekopvoeding" of "en muziekopvoeding van   (specialiteit) of "en opvoeding van (specialiteit) wordt beschouwd als houder   van een diploma van geaggregeerde voor het onderwijs.<BR><BR>§ 4. Voor de   toepassing van dit besluit moet de onderwijscyclus voor de normaalleergangen, de   pedagogische leergangen, het pedagogisch hoger onderwijs van het korte type voor   sociale promotie, het pedagogisch hoger onderwijs voor sociale promotie en de   pedagogische getuigschriften uitgereikt door een centrum voor   volwassenenonderwijs, ten minste 450 lestijden hebben omvat. In afwijking van   artikel 6, § 2, geldt dit ook wanneer ze voor de toepassing van dit besluit   beschouwd worden als een basisdiploma.
+§ 1. Een bekwaamheidsbewijs bestaat uit een basisdiploma, eventueel aangevuld met een bewijs van pedagogische bekwaamheid en/of nuttige ervaring. In de gevallen waarvoor toepassing gemaakt wordt van artikel 5 kan een bekwaamheidsbewijs bestaan uit artistieke ervaring.<br>
+<br>
+§ 2. Onder bewijs van pedagogische bekwaamheid wordt een van de volgende diploma's of getuigschriften verstaan:<br>
+1° het diploma van geaggregeerde voor het hoger secundair onderwijs;<br>
+2° het diploma van geaggregeerde voor het secundair onderwijs-groep 2;<br>
+3° het diploma van geaggregeerde voor het lager secundair onderwijs;<br>
+4° het diploma van geaggregeerde voor het secundair onderwijs, groep 1;<br>
+5° het diploma van geaggregeerde voor het onderwijs;<br>
+6° het getuigschrift van middelbare technische normaalleergangen;<br>
+7° het getuigschrift van normaalleergangen;<br>
+8° het getuigschrift van pedagogische bekwaamheid;<br>
+9° het getuigschrift van pedagogische leergangen;<br>
+10° het diploma van leraar dans;<br>
+11° het diploma van onderwijzer(es);<br>
+12° het diploma van kleuteronderwijzer(es);<br>
+13° het diploma van bachelor in het onderwijs : secundair onderwijs;<br>
+14° het diploma van bachelor in het onderwijs : lager onderwijs;<br>
+15° het diploma van bachelor in het onderwijs : kleuteronderwijs;<br>
+16° het diploma van leraar, uitgereikt na een specifieke lerarenopleiding, zoals bepaald in het decreet van 15 december 2006 betreffende de lerarenopleidingen in Vlaanderen.<br>
+<br>
+§ 3. 1° Voor de houder van het diploma van licentiaat, die tevens houder is van een GLSO of GVO wordt dit laatste diploma gelijkgesteld met een GHSO.<br>
+2° Voor de houder van het diploma van meester, die tevens houder is van een getuigschrift van pedagogische leergangen dat voor een vak van hetzelfde domein voorkomt onder de vereiste bekwaamheidsbewijzen en ten laatste tijdens het academiejaar 1996-97 afgeleverd is, wordt dat getuigschrift gelijkgesteld met het diploma van geaggregeerde voor het onderwijs.<br>
+3° De houder van het diploma van geaggregeerde voor het onderwijs wordt beschouwd als zijnde in het bezit van een bewijs van pedagogische bekwaamheid voor de vakken waarvoor hij het basisdiploma bezit.<br>
+4° De houder van een diploma van meester in muziek of meester in dramatische kunst, uitgereikt in de academiejaren 1994-1995 en 1995-1996, met aanvullende vermelding "en muziekopvoeding" of "en muziekopvoeding van (specialiteit) of "en opvoeding van (specialiteit) wordt beschouwd als houder van een diploma van geaggregeerde voor het onderwijs.<br>
+<br>
+§ 4. Voor de toepassing van dit besluit moet de onderwijscyclus voor de normaalleergangen, de pedagogische leergangen, het pedagogisch hoger onderwijs van het korte type voor sociale promotie, het pedagogisch hoger onderwijs voor sociale promotie en de pedagogische getuigschriften uitgereikt door een centrum voor volwassenenonderwijs, ten minste 450 lestijden hebben omvat. In afwijking van artikel 6, § 2, geldt dit ook wanneer ze voor de toepassing van dit besluit beschouwd worden als een basisdiploma.
 
 ### ART. 3bis.
 
@@ -36,7 +61,22 @@ Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens
 
 ### ART. 5.
 
-[§ 1. Voor de leraar in kunstvakken kan een bekwaamheidsbewijs bestaan uit artistieke ervaring, erkend zoals bepaald in dit artikel.<br /><br />§ 2. Voor de erkenning van de artistieke ervaring wordt de volgende procedure gevolgd:<br />1° de directeur van de instelling voor deeltijds kunstonderwijs die de kandidaat wil aanstellen, stelt een dossier samen dat tenminste de volgende documenten bevat:<br />a) het curriculum vitae van de kandidaat, met identiteitsgegevens, opleiding en werkervaring;<br />b) een beschrijving van de activiteiten en de ervaring die voor de erkenning van de artistieke bekwaamheid nuttig kunnen zijn, eventueel aangevuld met relevante documentatie en referenties;<br />c) een nauwkeurige beschrijving van de betrekking (ambt, studierichting, graad, vak, specialiteit) in het deeltijds kunstonderwijs waarvoor de erkenning als bekwaamheidsbewijs gevraagd wordt;<br />2° de inrichtende macht of haar gemandateerde roept een adviesverlenende commissie samen, die minstens bestaat uit twee directeurs van andere instellingen voor deeltijds kunstonderwijs die de betrokken studierichting organiseren en twee docenten, verbonden aan verschillende hogescholen voor het studiegebied van de vakken waarvoor de artistieke ervaring van de kandidaat erkend moet worden. Voor de studierichting dans mogen de twee docenten tot dezelfde hogeschool be-horen. Voor een kandidaat die verbonden is aan een hogeschool of aan een project hoger kunstonderwijs voor het studiegebied van het vak waarvoor hij aangesteld wordt in het deeltijds kunstonderwijs, hoeven geen docenten van hogescholen deel uit te maken van de commissie. Als datum van de samenroeping geldt de postdatum van de schriftelijke uitnodiging aan de commissieleden;<br />3° de commissie beoordeelt of de kandidaat op basis van artistieke ervaring beschikt over de nodige vakbekwaamheid voor de conform 1°,c), omschreven betrekking in het deeltijds kunstonderwijs. Hierbij houdt de commissie er rekening mee dat de kandidaat minstens 6 jaar artistieke ervaring moet kunnen voorleggen. De commissie verstrekt binnen 90 dagen een advies waarin ze zich duidelijk uitspreekt over de erkenning van de artistieke ervaring. Het advies is bindend;<br />4° de inrichtende macht beslist op een gemotiveerde wijze. Daarbij geeft ze de uitzonderlijke toestand weer die ertoe geleid heeft om tot een aanstelling op basis van artistieke ervaring over te gaan en toont ze aan dat de kandidaat een autoriteit is in het kunstvak in kwestie;<br />5° de beslissing van de inrichtende macht houdt de erkenning in van de artistieke ervaring van de kandidaat als voldoende geacht bekwaamheidsbewijs' voor een conform 1°, c) , omschreven ambt in het deeltijds kunstonderwijs;<br />6° de inrichtende macht of haar gemandateerde deelt de beslissing mee aan de voor het deeltijds kunstonderwijs bevoegde dienst van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap, en voegt een kopie van het advies toe dat tot de beslissing aanleiding gegeven heeft.<br /><br />§ 3. Voor de procedure van § 2 afgerond is, kan, voor een personeelslid dat al aangesteld wordt, alleen een salaris(toelage) uitbetaald worden als hij effectief beschikt over een bekwaamheidsbewijs dat als 'andere' geldt voor het ambt en vak in kwestie. De salarisschaal is dan die voor 'andere bekwaamheidsbewijzen'.<br /><br />§ 4. Voor een personeelslid dat met de procedure van § 2 een voldoende geacht bekwaamheidsbewijs verworven heeft, kan een salaris(toelage) uitbetaald worden in de salarisschaal 301 voor opdrachten in de lagere en de middelbare graad en in de salarisschaal 302 in de hogere graad.
+§ 1. Voor de leraar in kunstvakken kan een bekwaamheidsbewijs bestaan uit artistieke ervaring, erkend zoals bepaald in dit artikel.<br>
+<br>
+§ 2. Voor de erkenning van de artistieke ervaring wordt de volgende procedure gevolgd:<br>
+1° de directeur van de instelling voor deeltijds kunstonderwijs die de kandidaat wil aanstellen, stelt een dossier samen dat tenminste de volgende documenten bevat:<br>
+a) het curriculum vitae van de kandidaat, met identiteitsgegevens, opleiding en werkervaring;<br>
+b) een beschrijving van de activiteiten en de ervaring die voor de erkenning van de artistieke bekwaamheid nuttig kunnen zijn, eventueel aangevuld met relevante documentatie en referenties;<br>
+c) een nauwkeurige beschrijving van de betrekking (ambt, domein, graad, vak, specialiteit) in het deeltijds kunstonderwijs waarvoor de erkenning als bekwaamheidsbewijs gevraagd wordt;<br>
+2° de inrichtende macht of haar gemandateerde roept een adviesverlenende commissie samen, die minstens bestaat uit twee directeurs van andere instellingen voor deeltijds kunstonderwijs die het domein in kwestie organiseren, en twee docenten, die verbonden zijn aan verschillende instellingen voor hoger onderwijs voor het studiegebied van de vakken waarvoor de artistieke ervaring van de kandidaat erkend moet worden. Voor het domein dans mogen de twee docenten tot dezelfde instelling voor hoger onderwijs behoren. Als een kandidaat verbonden is aan een instelling voor hoger onderwijs of aan een project hoger kunstonderwijs voor het studiegebied van het vak waarvoor hij aangesteld wordt in het deeltijds kunstonderwijs, hoeven er geen docenten van instellingen voor hoger onderwijs deel uit te maken van de commissie. Als datum van de samenroeping geldt de postdatum van de schriftelijke uitnodiging aan de commissieleden;<br>
+3° de commissie beoordeelt of de kandidaat op basis van artistieke ervaring beschikt over de nodige vakbekwaamheid voor de conform 1°,c), omschreven betrekking in het deeltijds kunstonderwijs. Hierbij houdt de commissie er rekening mee dat de kandidaat minstens 6 jaar artistieke ervaring moet kunnen voorleggen. De commissie verstrekt binnen 90 dagen een advies waarin ze zich duidelijk uitspreekt over de erkenning van de artistieke ervaring. Het advies is bindend;<br>
+4° de inrichtende macht beslist op een gemotiveerde wijze. Daarbij geeft ze de uitzonderlijke toestand weer die ertoe geleid heeft om tot een aanstelling op basis van artistieke ervaring over te gaan en toont ze aan dat de kandidaat een autoriteit is in het kunstvak in kwestie;<br>
+5° de beslissing van de inrichtende macht houdt de erkenning in van de artistieke ervaring van de kandidaat als voldoende geacht bekwaamheidsbewijs' voor een conform 1°, c) , omschreven ambt in het deeltijds kunstonderwijs;<br>
+6° de inrichtende macht of haar gemandateerde deelt de beslissing mee aan de voor het deeltijds kunstonderwijs bevoegde dienst van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap, en voegt een kopie van het advies toe dat tot de beslissing aanleiding gegeven heeft.<br>
+<br>
+§ 3. Voor de procedure van § 2 afgerond is, kan, voor een personeelslid dat al aangesteld wordt, alleen een salaris(toelage) uitbetaald worden als hij effectief beschikt over een bekwaamheidsbewijs dat als 'andere' geldt voor het ambt en vak in kwestie. De salarisschaal is dan die voor 'andere bekwaamheidsbewijzen'.<br>
+<br>
+§ 4. Aan een personeelslid dat met de procedure, vermeld in paragraaf 2, een voldoende geacht bekwaamheidsbewijs verworven heeft, kan een salaris(toelage) uitbetaald worden in de salarisschaal 301 voor opdrachten in de 1e, 2e en 3e graad en in de salarisschaal 302 in de 4e graad.
 
 ### ART. 6.
 
@@ -44,7 +84,111 @@ Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens
 
 ### ART. 7.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° een   bekwaamheidsbewijs van tenminste master, afgekort tenminste master : een van de   basisdiploma's, vermeld in artikel 6, punt 1° tot en met 6°bis;<BR>2°   HOLT:<BR>a)een bekwaamheidsbewijs van het hoger onderwijs van het lange   type;<BR>b) een diploma van een basisopleiding van twee cycli;<BR>3° een   bekwaamheidsbewijs van hoger kunstonderwijs van de derde graad : een van de   basisdiploma's, vermeld in artikel 6, 4° en 6°;<BR>4° een bekwaamheidsbewijs van   tenminste hoger kunstonderwijs van de tweede graad: een van de basisdiploma's,   vermeld onder de punten 4° en 10°, van artikel 6 van dit besluit;<BR>5° een   bekwaamheidsbewijs van hoger kunstonderwijs van de tweede graad: een van de   basisdiploma's, vermeld onder punt 10°, van artikel 6 van dit besluit;<BR>6°   ...;<BR>7° een bekwaamheidsbewijs van het hoger onderwijs van het korte type   (afgekort: HOKT): een van de basisdiploma's, vermeld in artikel 6, punt 7°, 13°,   14°, a) tot en met k), 15, c), 16° of 17°;<BR>Voor het onderwijs van   kunstvakken, technische vakken of praktische vakken wordt met dit   bekwaamheidsbewijs (HOKT) evenwel niet bedoeld:<BR>a) het diploma of het   getuigschrift van het pedagogisch hoger onderwijs van het korte type met   volledig leerplan of voor sociale promotie, en evenmin het getuigschrift van de   middelbare technische normaalleergangen of van de pedagogische leergangen;<BR>b)   het diploma van onderwijzer(es);<BR>c) het diploma van   kleuteronderwijzer(es);<BR>d) het diploma van geaggregeerde voor het lager   secundair onderwijs of het diploma van regent(es);<BR>e) het diploma van   geaggregeerd leraar van het middelbaar onderwijs van de lagere graad of van   regent(es) voor de middelbare scholen;<BR>f) het diploma van geaggregeerde voor   het middelbaar en technisch onderwijs van de lagere graad;<BR>g) het diploma van   geaggregeerde voor het secundair onderwijs, groep 1;<BR>h) het diploma van   leraar dans;<BR>i) het getuigschrift van pedagogische bekwaamheid dans;<BR>7°   bis bachelor :<BR>a) een diploma van professioneel gerichte bachelor, als   vermeld in artikel 6, § 1, 14°, l);<BR>b) een diploma van academisch gerichte   bachelor, als vermeld in artikel 6, § 1, 14°, q);<BR>8° een bekwaamheidsbewijs   van ten minste bachelor: een van de basisdiploma's, vermeld in artikel 6, punt   1° tot en met 17°, met uitzondering van :<BR>a) het diploma of het getuigschrift   van het pedagogisch hoger onderwijs van het korte type voor sociale promotie of   van het pedagogisch hoger onderwijs voor sociale promotie;<BR>b) het pedagogisch   getuigschrift, uitgereikt door een centrum voor volwassenenonderwijs;<BR>c) het   getuigschrift van de middelbare technische normaalleergangen of van de   pedagogische leergangen;<BR>d) het getuigschrift van pedagogische bekwaamheid   dans;<BR>e) het diploma van eerste prijs notenleer;<BR>9° een bekwaamheidsbewijs   van hoger kunstonderwijs van de eerste graad: een van de basisdiploma's, vermeld   onder punt 13°, van artikel 6 van dit besluit;<BR>9°bis een bekwaamheidsbewijs   van ten minste hoger kunstonderwijs van de eerste graad : een van de   basisdiploma's, vermeld in artikel 6, 4°, 6°, 10° en 13°, of ermee   gelijkgestelde studiebewijzen;<BR>10° ...;<BR>11° GLSO:<BR>a) het diploma van   geaggregeerde voor het lager secundair onderwijs;<BR>b) het diploma van   geaggregeerd leraar van het middelbaar onderwijs van de lagere graad of van   regent(es) voor de middelbare scholen;<BR>c) het diploma van geaggregeerde voor   het middelbaar en technisch onderwijs van de lagere graad;<BR>d) het diploma van   regent(es);<BR>e) het diploma van de middelbare en technische   normaalschool;<BR>f) het diploma van de technische normaalafdelingen met   volledig leerplan, gerangschikt in de categorie D;<BR>g) het diploma van   geaggregeerde voor het secundair onderwijs, groep 1;<BR>h) het diploma van   geaggregeerde voor het secundair onderwijs, groep 1 samen met het diploma van de   voortgezette lerarenopleiding voor de aanvullende uitdieping van een   opleidingseenheid;<BR>12° GVSO-groep 1: het diploma van geaggregeerde voor het   secundair onderwijs, groep 1;<BR>13° ASBS met gehomologeerd getuigschrift   HSO:<BR>a) het gehomologeerde getuigschrift van hoger secundair onderwijs,   uitgereikt na het eerste jaar van het aanvullend secundair   beroepsonderwijs;<BR>b) het gehomologeerde diploma van secundair onderwijs,   uitgereikt na het eerste jaar van het aanvullend secundair   beroepsonderwijs;<BR>c) het diploma van secundair onderwijs, uitgereikt na het   eerste jaar van het aanvullend secundair beroepsonderwijs;<BR>d) het diploma van   secundair onderwijs, uitgereikt na de vierde graad van het beroepssecundair   onderwijs; <BR>14° ASBO :<BR>a) het brevet van het aanvullend secundair   beroepsonderwijs met volledig leerplan of voor sociale promotie; <BR>b) het   studiegetuigschrift van het tweede leerjaar van de vierde graad van het   secundair onderwijs; <BR>c) het diploma in de psychiatrische   verpleegkunde;<BR>d) het diploma in de ziekenhuisverpleegkunde;<BR>e) het   diploma in de verpleegkunde, uitgereikt na de vierde graad van het   beroepssecundair onderwijs;<BR>f) het brevet, certificaat of getuigschrift van   het volwassenenonderwijs, gerangschikt als BSO4;<BR>15° HSBS met gehomologeerd   getuigschrift HSO:<BR>a) het gehomologeerde of door een examencommissie van de   Staat uitgereikte getuigschrift van hoger secundair onderwijs (beroepssecundair   onderwijs);<BR>b) het gehomologeerde of door de examencommissie van de Vlaamse   Gemeenschap uitgereikte diploma van secundair onderwijs (beroepssecundair   onderwijs);<BR>c) het diploma van secundair onderwijs (beroepssecundair   onderwijs);<BR>16° HSBO:<BR>a) het brevet van een hogere secundaire   beroepsschool of leergang;<BR>b) het studieattest of -getuigschrift van het   zesde leerjaar van het beroepssecundair onderwijs;<BR>c) het studieattest of   -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het   beroepssecundair onderwijs;<BR>d) het studiegetuigschrift van het tweede   leerjaar van de derde graad van het secundair onderwijs (beroepssecundair   onderwijs);<BR>e) het studiegetuigschrift van het derde leerjaar van de derde   graad van het secundair onderwijs georganiseerd in de vorm van een   specialisatiejaar (beroepssecundair onderwijs);<BR>f) de bekwaamheidsbewijzen,   vermeld onder HSBS met gehomologeerd getuigschrift HSO / gehomologeerd   getuigschrift van HSO (BSO);<BR>g) het brevet of certificaat of getuigschrift   van het volwassenenonderwijs, gerangschikt als BSO3; <BR>h) het diploma van   secundair onderwijs, gerangschikt als BSO3;<BR>17° HSTO:<BR>a) het diploma van   een hogere secundaire technische school of leergang;<BR>b) het gehomologeerde of   door de examencommissie van de Staat uitgereikte getuigschrift van hoger   secundair technisch onderwijs;<BR>c) het studieattest of -getuigschrift van het   zevende vervolmakings- of specialisatiejaar van het technisch secundair   onderwijs;<BR>d) het gehomologeerde of door de examencommissie van de Vlaamse   Gemeenschap uitgereikte diploma van secundair onderwijs (technisch secundair   onderwijs);<BR>e) het diploma van secundair onderwijs (technisch secundair   onderwijs);<BR>f) het studiegetuigschrift van het derde leerjaar van de derde   graad van het secundair onderwijs, georganiseerd in de vorm van een   specialisatiejaar (technisch secundair onderwijs);<BR>g) het diploma of   certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als   TSO3;<BR>h) het diploma van secundair onderwijs, gerangschikt als TSO3;<BR>i)   certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in   het technisch secundair onderwijs; <BR>18° HSKO:<BR>a) het diploma of   getuigschrift van het hoger secundair kunstonderwijs met volledig leerplan of   met beperkt leerplan of het getuigschrift van secundair onderwijs, uitgereikt in   de hogere graad van het DKO;<BR>b) het diploma van graad van uitmuntendheid van   het kunstonderwijs, georganiseerd in beperkt leerplan;<BR>c) het studieattest of   -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het   kunstsecundair onderwijs of het kwalificatiegetuigschrift, uitgereikt in de   specialisatiegraad van het DKO;<BR>d) het gehomologeerde of door de   examencommissie van de Staat uitgereikte getuigschrift van hoger secundair   kunstonderwijs;<BR>e) het gehomologeerde of door de examencommissie van de   Vlaamse Gemeenschap uitgereikte diploma van secundair onderwijs (kunstsecundair   onderwijs);<BR>f) het diploma van secundair onderwijs (kunstsecundair   onderwijs);<BR>g) het studiegetuigschrift van het derde leerjaar van de derde   graad van het secundair onderwijs, georganiseerd in de vorm van een   specialisatiejaar (kunstsecundair onderwijs);<BR>h) certificaat van een   opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het kunstsecundair   onderwijs; <BR>19° tenminste HSO:<BR>a) een van de basisdiploma's, vermeld onder   de punten 1° tot en met 22°bis, van artikel 6 van dit besluit;<BR>b) de   studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<BR>20°   GMTN: het getuigschrift van middelbare technische normaalleergangen;<BR>21° GPB:   het getuigschrift van pedagogische bekwaamheid;<BR>22° GPL: het getuigschrift   van pedagogische leergangen;<BR>23° NE: nuttige ervaring;<BR>24° ASO: algemeen   secundair onderwijs;<BR>25° TSO: technisch secundair onderwijs;<BR>26° KSO:   kunstsecundair onderwijs;<BR>27° BSO: beroepssecundair onderwijs;<BR>28° BPB:   bewijs van pedagogische bekwaamheid: een van de studiebewijzen, opgesomd in   artikel 3, § 2;<BR>29° DKO: deeltijds kunstonderwijs;<BR>30° KV:   kunstvak;<BR>31° AV: algemeen vak;<BR>32° TV: technisch vak;<BR>33° PBA :   professioneel gerichte bachelor.<BR><BR>§ 2. Voor de studiebewijzen 'certificaat   van de opleiding' en 'diploma secundair onderwijs', uitgereikt in het secundair   volwassenenonderwijs vanaf 1 september 2007, is de rangschikking zoals bedoeld   in artikel 6, 20°, e), 23°, c) en 25°, c), en in § 1, 14°, f), 16°, g) en h), en   17°, g) en h), terug te vinden in bijlage II, gevoegd bij het besluit van de   Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de   salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair   onderwijs.
+§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° een bekwaamheidsbewijs van tenminste master, afgekort tenminste master : een van de basisdiploma's, vermeld in artikel 6, punt 1° tot en met 6°bis;<br>
+2° HOLT:<br>
+a)een bekwaamheidsbewijs van het hoger onderwijs van het lange type;<br>
+b) een diploma van een basisopleiding van twee cycli;<br>
+3° een bekwaamheidsbewijs van hoger kunstonderwijs van de derde graad : een van de basisdiploma's, vermeld in artikel 6, § 1, 4° en 6°, alsook een diploma van doctor in de kunsten;<br>
+4° een bekwaamheidsbewijs van tenminste hoger kunstonderwijs van de tweede graad: een van de basisdiploma's, vermeld onder de punten 4° en 10°, van artikel 6 van dit besluit;<br>
+5° een bekwaamheidsbewijs van hoger kunstonderwijs van de tweede graad: een van de basisdiploma's, vermeld onder punt 10°, van artikel 6 van dit besluit;<br>
+6° ...;<br>
+7° een bekwaamheidsbewijs van het hoger onderwijs van het korte type (afgekort: HOKT): een van de basisdiploma's, vermeld in artikel 6, punt 7°, 13°, 14°, a) tot en met k), 15, c), 16° of 17°;<br>
+Voor het onderwijs van kunstvakken, technische vakken of praktische vakken wordt met dit bekwaamheidsbewijs (HOKT) evenwel niet bedoeld:<br>
+a) het diploma of het getuigschrift van het pedagogisch hoger onderwijs van het korte type met volledig leerplan of voor sociale promotie, en evenmin het getuigschrift van de middelbare technische normaalleergangen of van de pedagogische leergangen;<br>
+b) het diploma van onderwijzer(es);<br>
+c) het diploma van kleuteronderwijzer(es);<br>
+d) het diploma van geaggregeerde voor het lager secundair onderwijs of het diploma van regent(es);<br>
+e) het diploma van geaggregeerd leraar van het middelbaar onderwijs van de lagere graad of van regent(es) voor de middelbare scholen;<br>
+f) het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;<br>
+g) het diploma van geaggregeerde voor het secundair onderwijs, groep 1;<br>
+h) het diploma van leraar dans;<br>
+i) het getuigschrift van pedagogische bekwaamheid dans;<br>
+7° bis bachelor :<br>
+a) een diploma van professioneel gerichte bachelor, als vermeld in artikel 6, § 1, 14°, l);<br>
+b) een diploma van academisch gerichte bachelor, als vermeld in artikel 6, § 1, 14°, q);<br>
+8° een bekwaamheidsbewijs van ten minste bachelor: een van de basisdiploma's, vermeld in artikel 6, punt 1° tot en met 17°, met uitzondering van :<br>
+a) het diploma of het getuigschrift van het pedagogisch hoger onderwijs van het korte type voor sociale promotie of van het pedagogisch hoger onderwijs voor sociale promotie;<br>
+b) het pedagogisch getuigschrift, uitgereikt door een centrum voor volwassenenonderwijs;<br>
+c) het getuigschrift van de middelbare technische normaalleergangen of van de pedagogische leergangen;<br>
+d) het getuigschrift van pedagogische bekwaamheid dans;<br>
+e) het diploma van eerste prijs notenleer;<br>
+9° een bekwaamheidsbewijs van hoger kunstonderwijs van de eerste graad: een van de basisdiploma's, vermeld onder punt 13°, van artikel 6 van dit besluit;<br>
+9°bis een bekwaamheidsbewijs van ten minste hoger kunstonderwijs van de eerste graad : een van de basisdiploma's, vermeld in artikel 6, 4°, 6°, 10° en 13°, of ermee gelijkgestelde studiebewijzen;<br>
+10° ...;<br>
+11° GLSO:<br>
+a) het diploma van geaggregeerde voor het lager secundair onderwijs;<br>
+b) het diploma van geaggregeerd leraar van het middelbaar onderwijs van de lagere graad of van regent(es) voor de middelbare scholen;<br>
+c) het diploma van geaggregeerde voor het middelbaar en technisch onderwijs van de lagere graad;<br>
+d) het diploma van regent(es);<br>
+e) het diploma van de middelbare en technische normaalschool;<br>
+f) het diploma van de technische normaalafdelingen met volledig leerplan, gerangschikt in de categorie D;<br>
+g) het diploma van geaggregeerde voor het secundair onderwijs, groep 1;<br>
+h) het diploma van geaggregeerde voor het secundair onderwijs, groep 1 samen met het diploma van de voortgezette lerarenopleiding voor de aanvullende uitdieping van een opleidingseenheid;<br>
+12° GVSO-groep 1: het diploma van geaggregeerde voor het secundair onderwijs, groep 1;<br>
+13° ASBS met gehomologeerd getuigschrift HSO:<br>
+a) het gehomologeerde getuigschrift van hoger secundair onderwijs, uitgereikt na het eerste jaar van het aanvullend secundair beroepsonderwijs;<br>
+b) het gehomologeerde diploma van secundair onderwijs, uitgereikt na het eerste jaar van het aanvullend secundair beroepsonderwijs;<br>
+c) het diploma van secundair onderwijs, uitgereikt na het eerste jaar van het aanvullend secundair beroepsonderwijs;<br>
+d) het diploma van secundair onderwijs, uitgereikt na de vierde graad van het beroepssecundair onderwijs;<br>
+14° ASBO :<br>
+a) het brevet van het aanvullend secundair beroepsonderwijs met volledig leerplan of voor sociale promotie;<br>
+b) het studiegetuigschrift van het tweede leerjaar van de vierde graad van het secundair onderwijs;<br>
+c) het diploma in de psychiatrische verpleegkunde;<br>
+d) het diploma in de ziekenhuisverpleegkunde;<br>
+e) het diploma in de verpleegkunde, uitgereikt na de vierde graad van het beroepssecundair onderwijs;<br>
+f) het brevet, certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO4;<br>
+15° HSBS met gehomologeerd getuigschrift HSO:<br>
+a) het gehomologeerde of door een examencommissie van de Staat uitgereikte getuigschrift van hoger secundair onderwijs (beroepssecundair onderwijs);<br>
+b) het gehomologeerde of door de examencommissie van de Vlaamse Gemeenschap uitgereikte diploma van secundair onderwijs (beroepssecundair onderwijs);<br>
+c) het diploma van secundair onderwijs (beroepssecundair onderwijs);<br>
+16° HSBO:<br>
+a) het brevet van een hogere secundaire beroepsschool of leergang;<br>
+b) het studieattest of -getuigschrift van het zesde leerjaar van het beroepssecundair onderwijs;<br>
+c) het studieattest of -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het beroepssecundair onderwijs;<br>
+d) het studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs (beroepssecundair onderwijs);<br>
+e) het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs georganiseerd in de vorm van een specialisatiejaar (beroepssecundair onderwijs);<br>
+f) de bekwaamheidsbewijzen, vermeld onder HSBS met gehomologeerd getuigschrift HSO / gehomologeerd getuigschrift van HSO (BSO);<br>
+g) het brevet of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als BSO3;<br>
+h) het diploma van secundair onderwijs, gerangschikt als BSO3;<br>
+17° HSTO:<br>
+a) het diploma van een hogere secundaire technische school of leergang;<br>
+b) het gehomologeerde of door de examencommissie van de Staat uitgereikte getuigschrift van hoger secundair technisch onderwijs;<br>
+c) het studieattest of -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het technisch secundair onderwijs;<br>
+d) het gehomologeerde of door de examencommissie van de Vlaamse Gemeenschap uitgereikte diploma van secundair onderwijs (technisch secundair onderwijs);<br>
+e) het diploma van secundair onderwijs (technisch secundair onderwijs);<br>
+f) het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar (technisch secundair onderwijs);<br>
+g) het diploma of certificaat of getuigschrift van het volwassenenonderwijs, gerangschikt als TSO3;<br>
+h) het diploma van secundair onderwijs, gerangschikt als TSO3;<br>
+i) certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het technisch secundair onderwijs;<br>
+18° HSKO:<br>
+a) het diploma of getuigschrift van het hoger secundair kunstonderwijs met volledig leerplan of met beperkt leerplan of het getuigschrift van secundair onderwijs, uitgereikt in de hogere graad van het DKO;<br>
+b) het diploma van graad van uitmuntendheid van het kunstonderwijs, georganiseerd in beperkt leerplan;<br>
+c) het studieattest of -getuigschrift van het zevende vervolmakings- of specialisatiejaar van het kunstsecundair onderwijs of het kwalificatiegetuigschrift, uitgereikt in de specialisatiegraad van het DKO;<br>
+d) het gehomologeerde of door de examencommissie van de Staat uitgereikte getuigschrift van hoger secundair kunstonderwijs;<br>
+e) het gehomologeerde of door de examencommissie van de Vlaamse Gemeenschap uitgereikte diploma van secundair onderwijs (kunstsecundair onderwijs);<br>
+f) het diploma van secundair onderwijs (kunstsecundair onderwijs);<br>
+g) het studiegetuigschrift van het derde leerjaar van de derde graad van het secundair onderwijs, georganiseerd in de vorm van een specialisatiejaar (kunstsecundair onderwijs);<br>
+h) certificaat van een opleiding secundair-na-secundair (Se-n-Se), uitgereikt in het kunstsecundair onderwijs;<br>
+19° tenminste HSO:<br>
+a) een van de basisdiploma's, vermeld onder de punten 1° tot en met 22°bis, van artikel 6 van dit besluit;<br>
+b) de studiebewijzen die hierboven vermeld zijn als ASBO, HSBO, HSTO en HSKO;<br>
+20° GMTN: het getuigschrift van middelbare technische normaalleergangen;<br>
+21° GPB: het getuigschrift van pedagogische bekwaamheid;<br>
+22° GPL: het getuigschrift van pedagogische leergangen;<br>
+23° NE: nuttige ervaring;<br>
+24° ASO: algemeen secundair onderwijs;<br>
+25° TSO: technisch secundair onderwijs;<br>
+26° KSO: kunstsecundair onderwijs;<br>
+27° BSO: beroepssecundair onderwijs;<br>
+28° BPB: bewijs van pedagogische bekwaamheid: een van de studiebewijzen, opgesomd in artikel 3, § 2;<br>
+29° DKO: deeltijds kunstonderwijs;<br>
+30° KV: kunstvak;<br>
+31° AV: algemeen vak;<br>
+32° TV: technisch vak;<br>
+33° PBA : professioneel gerichte bachelor.<br>
+<br>
+§ 2. Voor de studiebewijzen 'certificaat van de opleiding' en 'diploma secundair onderwijs', uitgereikt in het secundair volwassenenonderwijs vanaf 1 september 2007, is de rangschikking zoals bedoeld in artikel 6, 20°, e), 23°, c) en 25°, c), en in § 1, 14°, f), 16°, g) en h), en 17°, g) en h), terug te vinden in bijlage II, gevoegd bij het besluit van de Vlaamse Regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs.
 
 ### ART. 8.
 
@@ -71,7 +215,7 @@ Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens
 - het diploma van eerste prijs, andere dan deze bedoeld sub 1° en 2° hierboven, uitgereikt door een instelling voor hoger muziekonderwijs, met uitzondering van het diploma van eerste prijs notenleer;<br>
 - de getuigschriften van pedagogische leergangen, uitgereikt na een cyclus van tenminste twee studiejaren door een instelling of een afdeling van een instelling voor hoger kunstonderwijs.<br>
 <br>
-§ 3. Voor het onderwijs in de kunstvakken en naar de uitoefening van het mandaat van directeur in een kunstonderwijsinrichting - studierichtingen "Muziek, Woordkunst en Dans" wordt gelijkgesteld met het getuigschrift van pedagogische leergangen:<br>
+§ 3. Voor het onderwijs in de kunstvakken en naar de uitoefening van het mandaat van directeur in een kunstonderwijsinrichting - domeinen "Muziek, woordkunst-drama en Dans" wordt gelijkgesteld met het getuigschrift van pedagogische leergangen:<br>
 1° het getuigschrift van bekwaamheid uitgereikt overeenkomstig de bepalingen van het koninklijk besluit van 9 september 1969 betreffende het getuigschrift van bekwaamheid tot het geven van onderricht in de gesubsidieerde inrichtingen voor muziekonderwijs;<br>
 2° met de houder van het G.L.P. wordt eveneens gelijkgesteld, de houder van het diploma van laureaat met aanvullende vermelding "...en muziekopvoeding van ... (specialiteit)", "en opvoeding van... (specialiteit) of ... en muziekopvoeding", uitgereikt door een instelling voor hoger muziekonderwijs. De houder van het diploma laureaat muziekopvoeding wordt beschouwd als houder van een getuigschrift pedagogische leergangen;<br>
 3° het getuigschrift, ten laatste op 30 september 1992 uitgereikt door een door de Vlaamse Gemeenschap ingerichte of een door de Vlaamse minister van Onderwijs erkende of gesubsidieerde pedagogische leergang voor opleiding tot leerkracht dans en bewegingsleer;<br>
@@ -186,15 +330,30 @@ Voor de toepassing van dit besluit worden eveneens gelijkgesteld met een bekwaam
 
 ### ART. 10.
 
-§ 1. Voor de toepassing van artikel 2 van de bekwaamheidsbewijzen waarvan de personeelsleden bedoeld in artikel 1 van dit besluit houder moeten zijn, opgesomd in de bijlage muziek, woordkunst en dans, gevoegd bij dit besluit.<br /><br />§ 2. Voor vakken waarvoor geen bekwaamheidsbewijs voorzien is in de graden waarin ze worden gegeven, dient het personeelslid in het bezit te zijn van één van de bekwaamheidsbewijzen die voor hetzelfde vak voorzien zijn in een andere graad.<br /><br />§ 3. Personeelsleden die belast zijn met uren die geen lesuren zijn, dienen deze uren door hun inrichtende macht te laten gelijkstellen met lesuren in één van de vakken die in de betrokken gra(a)d(en) worden onderwezen op basis van de bekwaamheidsbewijzen waarover zij beschikken.
+§ 1. Voor de toepassing van artikel 2 van de bekwaamheidsbewijzen waarvan de personeelsleden bedoeld in artikel 1 van dit besluit houder moeten zijn, opgesomd in de bijlage muziek, woordkunst-drama en dans, gevoegd bij dit besluit.<br>
+<br>
+§ 2. Voor vakken waarvoor geen bekwaamheidsbewijs voorzien is in de graden waarin ze worden gegeven, dient het personeelslid in het bezit te zijn van één van de bekwaamheidsbewijzen die voor hetzelfde vak voorzien zijn in een andere graad.<br>
+<br>
+§ 3. Personeelsleden die belast zijn met uren die geen lesuren zijn, dienen deze uren door hun inrichtende macht te laten gelijkstellen met lesuren in één van de vakken die in de betrokken gra(a)d(en) worden onderwezen op basis van de bekwaamheidsbewijzen waarover zij beschikken.
 
 ### ART. 11.
 
-§ 1. De personeelsleden bedoeld in artikel 1 van dit besluit worden bezoldigd overeenkomstig de salarisschalen die in de bijlage muziek, woordkunst en dans biji dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br /><br />Deze salarisschalen worden, met ingang van 1 december 2001, vastgesteld bij het besluit van de Vlaamse regering van 23 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs. <br /><br />§ 2. De personeelsleden belast met de vakken bedoeld in artikel 10, § 2, worden bezoldigd op basis van de salarisschalen toegekend in de graad waar deze vakken worden gegeven. Zij worden geacht in het bezit te zijn van een vereist of een ander bekwaamheidsbewijs, naargelang zij voor het onderwijs van die vakken in een andere graad beschikken over een vereist of een ander bekwaamheidsbewijs.<br /><br />§ 3. De personeelsleden bedoeld in artikel 10, § 3 worden bezoldigd op basis van de salarisschaal voor lesuren in een vak waarmee hun prestaties zijn gelijkgesteld. Zij worden geacht in het bezit te zijn van een vereist, een voldoende geacht of een ander bekwaamheidsbewijs, naargelang zij voor het geven van het gelijkstellingsvak in het bezit zouden zijn van een vereist, een voldoende geacht of een ander bekwaamheidsbewijs.
+§ 1. De personeelsleden bedoeld in artikel 1 van dit besluit worden bezoldigd overeenkomstig de salarisschalen die in de bijlage muziek, woordkunst-drama en dans biji dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br>
+<br>
+Deze salarisschalen worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+<br>
+§ 2. De personeelsleden belast met de vakken bedoeld in artikel 10, § 2, worden bezoldigd op basis van de salarisschalen toegekend in de graad waar deze vakken worden gegeven. Zij worden geacht in het bezit te zijn van een vereist of een ander bekwaamheidsbewijs, naargelang zij voor het onderwijs van die vakken in een andere graad beschikken over een vereist of een ander bekwaamheidsbewijs.<br>
+<br>
+§ 3. De personeelsleden bedoeld in artikel 10, § 3 worden bezoldigd op basis van de salarisschaal voor lesuren in een vak waarmee hun prestaties zijn gelijkgesteld. Zij worden geacht in het bezit te zijn van een vereist, een voldoende geacht of een ander bekwaamheidsbewijs, naargelang zij voor het geven van het gelijkstellingsvak in het bezit zouden zijn van een vereist, een voldoende geacht of een ander bekwaamheidsbewijs.
 
 ### ART. 12.
 
-§ 1. Vanaf het schooljaar 1990-1991 wordt het minimum en maximum aantal lesuren vereist voor een ambt met volledige prestaties voor de in artikel 1 bedoelde personeelsleden vastgesteld als volgt:<br />1° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de lagere en middelbare graad van het deeltijds kunstonderwijs: 22 lesuren;<br />2° voor het onderwijs van de kunstvakken en voor het ambt van begeleider in de hogere graad van het deeltijds kunstonderwijs: minimum 20 en maximum 22 lesuren;<br />3° voor de personeelsleden die sedert 1 april 1972 genieten van een salarisschaal in overgangstelsel in het deeltijds kunstonderwijs: 24 lesuren.<br /><br />§ 2. Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
+§ 1. Vanaf het schooljaar 1990-1991 wordt het minimum en maximum aantal lesuren vereist voor een ambt met volledige prestaties voor de in artikel 1 bedoelde personeelsleden vastgesteld als volgt:<br>
+1° voor het onderwijs van de vakken en voor het ambt van begeleider in de 1e, 2e en 3e graad van het deeltijds kunstonderwijs: 22 lesuren;<br>
+2° voor het onderwijs van de vakken en voor het ambt van begeleider in de 4e graad van het deeltijds kunstonderwijs: minimum 20 en maximum 22 lesuren;<br>
+3° voor de personeelsleden die sedert 1 april 1972 genieten van een salarisschaal in overgangstelsel in het deeltijds kunstonderwijs: 24 lesuren.<br>
+<br>
+§ 2. Het personeelslid dat zitting heeft in een lokaal inspraakorgaan dat opgericht is door of krachtens een wet of een decreet, krijgt dienstvrijstelling om de vergaderingen van dat inspraakorgaan bij te wonen. De dienstvrijstelling wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ### ART. 13.
 
@@ -388,6 +547,128 @@ h) de verloven van korte duur met behoud van salaris of salaristoelage ter geleg
 i) de verloven zonder behoud van salaris of salaristoelage voor een maximumduur van zes werkdagen per schooljaar;<br>
 j) een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
 
+### ART 15septies.
+
+§ 1. Er worden overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vastbenoemd zijn in een vak in de studierichtingen muziek, woordkunst of dans in het deeltijds kunstonderwijs;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in een vak in de studierichtingen muziek, woordkunst of dans in het deeltijds kunstonderwijs in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een vereist bekwaamheidsbewijs voor een vak in een bepaalde graad waarvoor ze vastbenoemd zijn of waarin ze in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018 tijdelijk aangesteld of waarmee ze tijdelijk belast waren, en geen vereist bekwaamheidsbewijs hebben voor het vak in de overeenstemmende graad uit hetzij het domein muziek, hetzij het domein woordkunst-drama, hetzij het domein dans, waarvoor ze met toepassing van een van de volgende bepalingen respectievelijk een ambtshalve of individuele concordantie verkregen hebben, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs :<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° artikel 56quater van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+4° artikel 74quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+§ 3. De personeelsleden vermeld in paragraaf 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een voldoende geacht bekwaamheidsbewijs voor een vak in een bepaalde graad waarvoor ze vastbenoemd zijn of waarin ze in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018 tijdelijk aangesteld of waarmee ze tijdelijk belast waren, en geen voldoende geacht bekwaamheidsbewijs hebben voor het vak in de overeenstemmende graad uit hetzij het domein muziek, hetzij het domein woordkunst-drama, hetzij het domein dans, waarvoor ze met toepassing van een van de volgende bepalingen respectievelijk een ambtshalve of individuele concordantie verkregen hebben, worden geacht in het bezit te zijn van een voldoende geacht bekwaamheidsbewijs :<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° artikel 56quater van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+4° artikel 74quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+§ 4. De overgangsmaatregelen, vermeld in § 2 en § 3, worden toegekend vanaf 1 september 2018, rekening houdend met de onderstaande bepalingen :<br>
+1° de personeelsleden, vermeld in § 1, 1°, behouden deze overgangsmaatregelen zolang ze in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd;<br>
+2° de personeelsleden, vermeld in § 1, 2°, behouden deze overgangsmaatregelen zolang zij ononderbroken in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+a) de vakantieperioden;<br>
+b) de loopbaanonderbreking en zorgkrediet;<br>
+c) de militaire dienst;<br>
+d) de perioden van wederoproeping;<br>
+e) de ziekte- en bevallingsverloven;<br>
+f) de onbezoldigde ouderschapsverloven;<br>
+g) de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+j) een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+
+### ART 15octies.
+
+§ 1. In afwijking van artikel 15septies, worden in het domein muziek overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vastbenoemd zijn in hetzij het kunstvak algemene muziektheorie, hetzij het kunstvak begeleidingspraktijk, hetzij het kunstvak instrument, hetzij het kunstvak instrument jazz en lichte muziek, hetzij het kunstvak instrument volksmuziek, hetzij het kunstvak muziektheorie, hetzij het kunstvak zang, hetzij het kunstvak zang jazz en lichte muziek, hetzij het kunstvak zang volksmuziek in de studierichting muziek in het deeltijds kunstonderwijs;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in hetzij het kunstvak algemene muziektheorie, hetzij het kunstvak begeleidingspraktijk, hetzij het kunstvak instrument, hetzij het kunstvak instrument jazz en lichte muziek, hetzij het kunstvak instrument volksmuziek, hetzij het kunstvak klankleer en klankopname praktijk, hetzij het kunstvak klankleer en klankopname theorie, hetzij het kunstvak muziektheorie, hetzij het kunstvak zang, hetzij het kunstvak zang jazz en lichte muziek, hetzij het kunstvak zang volksmuziek in de studierichting muziek in het deeltijds kunstonderwijs in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een vereist bekwaamheidsbewijs voor een van de vakken, vermeld in paragraaf 1, en geen vereist bekwaamheidsbewijs hebben voor het overeenstemmende vak uit het domein muziek waarvoor ze met toepassing van een van de volgende bepalingen respectievelijk een ambtshalve of individuele concordantie verkregen hebben, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs :<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° artikel 56quater van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+4° artikel 74quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+§ 3. De personeelsleden, vermeld in paragraaf 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een voldoende geacht bekwaamheidsbewijs voor een van de vakken, vermeld in paragraaf 1, en geen voldoende geacht bekwaamheidsbewijs hebben voor het overeenstemmende vak uit het domein muziek waarvoor ze met toepassing van een van de volgende bepalingen respectievelijk een ambtshalve of individuele concordantie verkregen hebben, worden geacht in het bezit te zijn van een voldoende geacht bekwaamheidsbewijs :<br>
+1° artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991;<br>
+3° artikel 56quater van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+4° artikel 74quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.<br>
+<br>
+§ 4. De overgangsmaatregelen, vermeld in § 2 en § 3, worden toegekend vanaf 1 september 2018, rekening houdend met de onderstaande bepalingen :<br>
+1° de personeelsleden, vermeld in § 1, 1°, behouden deze overgangsmaatregelen zolang ze in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd;<br>
+2° de personeelsleden, vermeld in § 1, 2°, behouden deze overgangsmaatregelen zolang zij ononderbroken in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+a) de vakantieperioden;<br>
+b) de loopbaanonderbreking en zorgkrediet;<br>
+c) de militaire dienst;<br>
+d) de perioden van wederoproeping;<br>
+e) de ziekte- en bevallingsverloven;<br>
+f) de onbezoldigde ouderschapsverloven;<br>
+g) de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+j) een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+
+### ART 15novies.
+
+§ 1. Er worden overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vastbenoemd zijn in het vak dansinitiatie;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018 in het vak dansinitiatie.<br>
+<br>
+§ 2. De personeelsleden, vermeld in § 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een voldoende geacht bekwaamheidsbewijs voor het vak dansinitiatie en die vanaf 1 september 2018 geen voldoende geacht bekwaamheidsbewijs meer hebben voor het vak dansinitiatie, worden geacht in het bezit te zijn van een voldoende geacht bekwaamheidsbewijs voor het vak dansinitiatie.<br>
+<br>
+§ 3. De overgangsmaatregelen, vermeld in § 2, worden toegekend vanaf 1 september 2018, rekening houdend met de onderstaande bepalingen :<br>
+1° de personeelsleden, vermeld in § 1, 1°, behouden deze overgangsmaatregelen zolang ze in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd;<br>
+2° de personeelsleden, vermeld in § 1, 2°, behouden deze overgangsmaatregelen zolang zij ononderbroken in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+a) de vakantieperioden;<br>
+b) de loopbaanonderbreking en zorgkrediet;<br>
+c) de militaire dienst;<br>
+d) de perioden van wederoproeping;<br>
+e) de ziekte- en bevallingsverloven;<br>
+f) de onbezoldigde ouderschapsverloven;<br>
+g) de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+j) een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+
+### ART 15decies.
+
+§ 1. Er worden overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vastbenoemd zijn in het vak begeleidingspraktijk;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018 in het vak begeleidingspraktijk.<br>
+<br>
+§ 2. De personeelsleden, vermeld in § 1, die op basis van de reglementering die van kracht was voor 1 september 2018, organiek of via overgangsmaatregelen, in het bezit waren van een vereist bekwaamheidsbewijs voor het vak begeleidingspraktijk en die vanaf 1 september 2018 geen vereist bekwaamheidsbewijs meer hebben voor het vak begeleidingspraktijk, worden geacht in het bezit te zijn van een vereist bekwaamheidsbewijs voor het vak begeleidingspraktijk.<br>
+<br>
+§ 3. De overgangsmaatregelen, vermeld in § 2, worden toegekend vanaf 1 september 2018, rekening houdend met de onderstaande bepalingen :<br>
+1° de personeelsleden, vermeld in § 1, 1°, behouden deze overgangsmaatregelen zolang ze in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd;<br>
+2° de personeelsleden, vermeld in § 1, 2°, behouden deze overgangsmaatregelen zolang zij ononderbroken in dienst blijven in het onderwijs, de hogescholen en universiteiten uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+a) de vakantieperioden;<br>
+b) de loopbaanonderbreking en zorgkrediet;<br>
+c) de militaire dienst;<br>
+d) de perioden van wederoproeping;<br>
+e) de ziekte- en bevallingsverloven;<br>
+f) de onbezoldigde ouderschapsverloven;<br>
+g) de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+h) de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+i) de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+j) een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+
+### ART 15undecies.
+
+§ 1. Er gelden overgangsmaatregelen voor de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vastbenoemd zijn in de hogere graad van het vak algemene muzikale vorming;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018 in de hogere graad van het vak algemene muzikale vorming.<br>
+<br>
+§ 2. De personeelsleden, vermeld in § 1, behouden voor het vak of de vakken, waarvoor ze met toepassing van een van de volgende bepalingen een individuele concordantie verkregen hebben, de salarisschaal die zij in de hogere graad voor het vak algemene muzikale vorming op grond van de reglementering die gold voor 1 september 2018 ontvingen, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal :<br>
+1° artikel 56quater van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991;<br>
+2° artikel 74quinquies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991.
+
+### ART 15vicies.
+
+De personeelsleden, vermeld in artikel 15septies tot en met 15decies, in artikel 15quinquiesdecies en 15sexiesdecies behouden in de overeenstemmende graad de salarisschaal die hun op grond van de reglementering die vóór 1 september 2018 van toepassing was, verleend kon worden in een bepaalde graad, tenzij het bekwaamheidsbewijs waarover ze beschikken, recht geeft op een hogere salarisschaal.
+
 ### ART. 16.
 
 ...
@@ -408,7 +689,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_3.pdf#page=75">Bijlage   1 deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_4.pdf#page=1">Bijlage   1 deel 2</A><BR><BR>Met ingang van 1 september 2014 worden de volgende   wijzigingen aangebracht:<BR><BR>1° bij de bekwaamheidsbewijzen voor het kunstvak   Begeleidingspraktijk worden in het opmerkingenveld met de opsomming van de   benamingen de woorden "of beiaard" vervangen door de woorden ", beiaard,   bandoneon, saz of ud";<BR>2° bij de bekwaamheidsbewijzen voor het kunstvak   Instrument wordt in het opmerkingenveld met de opsomming van de benamingen   :<BR>a) tussen het woord "altviool" en het woord "bariton" het woord "bandoneon"   ingevoegd;<BR>b) tussen het woord "saxofoon" en het woord "sopraansaxofoon" het   woord "saz" ingevoegd;<BR>c) tussen het woord "tuba" en het woord "viool" het   woord "ud" ingevoegd.<BR><BR>(Zie BVR 3 oktober 2014, art. 27, B.S 18 november   2014)</P>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/13_1.pdf#page=163">Bijlage 1</a>
 
 ### BIJLAGE II.
 
