@@ -22,7 +22,17 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° cursus: 
 
 ### ART. 4.
 
-§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur   belast met een onderwijsopdracht van:<BR>- 14 lestijden in scholen met minder   dan 20 leerlingen;<BR>- 8 lestijden in scholen met 20 tot en met 39   leerlingen;<BR><BR>§ 2. Voor de toepassing van § 1 wordt rekening gehouden met   de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in   aanmerking komen voor de berekening van de lestijden volgens de schalen van het   lopende schooljaar.<BR><BR>§ 3. ...<BR><BR>§ 4. In scholen die minimaal tien   leerlingen in het geïntegreerd onderwijs begeleiden, komen de leerlingen die op   de eerste schooldag van oktober van het voorafgaande schooljaar in het kader van   geïntegreerd onderwijs door de school begeleid werden eveneens in aanmerking   voor de toepassing van § 1.
+§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur belast met een onderwijsopdracht van:<br>
+- 14 lestijden in scholen met minder dan 20 leerlingen;<br>
+- 8 lestijden in scholen met 20 tot en met 39 leerlingen;<br>
+<br>
+§ 2. Voor de toepassing van § 1 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. De leerlingen die in het schooljaar 2014-2015 in het kader van het geïntegreerd onderwijs begeleid zijn, komen ook in aanmerking voor de toepassing van paragraaf 1, op voorwaarde dat de school op de eerste schooldag van oktober van het schooljaar 2014-2015 minimaal tien regelmatige leerlingen in het geïntegreerd onderwijs begeleid heeft.<br>
+<br>
+&nbsp;
 
 ## AFDELING C BIJZONDERE BEPALINGEN INZAKE VRIJWILLIGE FUSIES
 
