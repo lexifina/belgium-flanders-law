@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029461,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-25 tot wijziging van het besluit van de Vlaamse Regering van 1 oktober 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs met betrekking tot de wijze waarop sommige bevoegdheden van de inspectie worden uitgevoerd en tot opheffing van het besluit van de Vlaamse Regering van 17 januari 2014 houdende de vaststelling van de criteria ter beoordeling van verbeterplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029461/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "4c853c65726bb7cf56c058122e69ad43f89856ad4839b3f5f2d2b151e4ffd9e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029461&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-05-25",
+  "gazette": "2018-06-26",
+  "numac": 2018012776,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
