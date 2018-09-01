@@ -298,7 +298,7 @@ Met bekwaamheidsbewijs van het niveau master wordt bedoeld : een van de basisdip
 
 ### ART. 60.
 
-De salarisschalen, vermeld in artikel 58, worden vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
+De salarisschalen, vermeld in artikel 58, worden vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
 
 ## Onderafdeling 3. Bezoldiging inspecteur-generaal
 
@@ -312,7 +312,7 @@ Met bekwaamheidsbewijs van het niveau master wordt bedoeld : een van de basisdip
 
 ### ART. 63.
 
-De salarisschalen, vermeld in artikel 61, worden vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
+De salarisschalen, vermeld in artikel 61, worden vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
 
 ## Afdeling II. Woon-werkverkeer en reis- en verblijfkosten
 
@@ -394,7 +394,7 @@ De ambten die de leden van de pedagogische begeleidingsdiensten kunnen uitoefene
 
 ### ART. 78.
 
-De salarisschalen vermeld in artikel 76 en 77, worden vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
+De salarisschalen vermeld in artikel 76 en 77, worden vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
 
 ## HOOFDSTUK III. Vakantie- en prestatieregeling
 

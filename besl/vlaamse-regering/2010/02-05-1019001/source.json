@@ -2,16 +2,16 @@
   "codex_id": 1019001,
   "title": "Besluit van de Vlaamse Regering van 2010-02-05 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs wat de rechtspositie van het personeel van de inspectie en de pedagogische begeleidingsdiensten betreft",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019001/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "d46028eb2ca886ba71ca455d653e60a621a9eb998f85c854a36ea10c99253ab5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019001/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "f92dfe9cd663f6de3c4ec7141310b3a77e4324584fd8178e08f0ad3b3ba2939a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019001&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2018-09-01",
   "made": "2010-02-05",
   "gazette": "2010-05-17",
   "numac": 2010202589,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2015-07-01",
+  "in_force": "2018-09-01",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
