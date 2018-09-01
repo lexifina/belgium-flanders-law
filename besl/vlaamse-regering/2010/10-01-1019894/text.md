@@ -19,16 +19,16 @@ Besluit :<br>
 
 ### ART. 1.
 
-Bij de doorlichtingen hanteert de inspectie het referentiekader zoals beschreven in bijlage 1, die bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2010.<br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/01/13_2.pdf#page=18" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
+...

@@ -2,16 +2,16 @@
   "codex_id": 1019894,
   "title": "Besluit van de Vlaamse Regering van 2010-10-01 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs met betrekking tot het referentiekader van de inspectie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019894/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "a61b4fbf308a1a4bb98486418f2ff9fa88b70396e67bf20476fc0a608f2d6597",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019894/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "2dfa3f2bd5df7bb7f6767ad4193e347c2f9820bcdda8424d7110d79e5db5782e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019894&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2018-09-01",
   "made": "2010-10-01",
   "gazette": "2011-01-13",
   "numac": 2010035938,
   "document_start": "2010-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2018-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
