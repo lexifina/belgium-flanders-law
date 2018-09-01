@@ -8,39 +8,32 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br>
-1° arbeidsreglement : arbeidsreglement zoals bedoeld in de wet van 8 april 1965 tot instelling van de arbeidsreglementen;<br>
-2° basisonderwijs : het gewoon en buitengewoon basisonderwijs, erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
-3° CLB : centrum voor leerlingenbegeleiding zoals bedoeld in het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
-4° extra-murosactiviteit : extra-murosactiviteit zoals omschreven in artikel 3, 14°ter, van het decreet Basisonderwijs van 25 februari 1997;<br>
-5° gesloten plaats : alle plaatsen die deel uitmaken van de infrastructuur van de instelling, die door wanden worden afgesloten van de omgeving of voorzien zijn van een plafond;<br>
-6° infrastructuur : alle gebouwen en terreinen die behoren tot de instelling;<br>
-7° onderwijsinspectie: de onderwijsinspectie, zoals bedoeld in het decreet betreffende kwaliteit van onderwijs;<br>
-8° instelling : elke onderwijsinstelling of elk CLB;<br>
-9° open plaats : alle plaatsen die deel uitmaken van de infrastructuur van de instelling en die niet als gesloten plaats worden beschouwd;<br>
-10° onderwijsinstelling : een pedagogisch geheel, waar onderwijs georganiseerd wordt en dat onder het bestuur staat van één directeur van het basisonderwijs of het secundair onderwijs;<br>
-11° schoolreglement : het document waarin de verhouding tussen inrichtende macht, ouders en leerlingen wordt geregeld en dat ten minste de orde- en tuchtregeling, de examenregeling en de interne beroepsprocedures omvat;<br>
-12° secundair onderwijs : het voltijds secundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs, de deeltijdse vorming georganiseerd door een centrum voor deeltijdse vorming, de leertijd georganiseerd door een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen erkend, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
-13° roken : het roken van producten op basis van tabak of van soortgelijke producten;<br>
-14° reglementen met betrekking tot het ter beschikking stellen van infrastructuur van schoolinstellingen en CLB's aan derden : alle reglementen en contractuele verbintenissen waarin de voorwaarden van de verhuur en/of het gebruik van delen van of het geheel van infrastructuur van schoolinstellingen en CLB's worden vastgelegd.
+...
 
 ### ART. 3.
 
-Dit decreet is van toepassing op alle instellingen uit het leerplichtonderwijs, het kleuteronderwijs en de CLB's.
+Dit decreet is van toepassing op alle vestigingsplaatsen van:<br>
+1° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde scholen voor basisonderwijs, scholen voor secundair onderwijs, academies deeltijds kunstonderwijs, centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, wat de leertijd betreft, en centra voor deeltijdse vorming;<br>
+2° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde internaten en tehuizen;<br>
+4° de andere scholen en centra voor onderwijs als die dezelfde vestigingsplaatsen in gebruik nemen als de vestigingsplaatsen, vermeld in punt 1°, 2° of 3°.
 
 ## HOOFDSTUK II. Gezondheidsbescherming en rookverbod
 
 ### ART. 4.
 
-Het is verboden te roken in de gesloten plaatsen van de instellingen. <br /><br />Het is verboden te roken in de open plaatsen van de instellingen op weekdagen tussen 6.30 uur 's morgens en 18.30 uur 's avonds. <br /><br />Het is verboden te roken tijdens extra-murosactiviteiten tussen 6.30 uur 's morgens en 18.30 uur 's avonds.
+Er geldt een absoluut en permanent verbod op het roken van producten op basis van tabak of van soortgelijke producten.
 
 ### ART. 5.
 
-De instellingen brengen in hun infrastructuur rookverbodtekens aan zodanig dat ieder die aanwezig is, er kennis van kan nemen.
+De instellingen brengen in hun vestigingsplaatsen rookverbodtekens aan zodanig dat ieder die aanwezig is, er kennis van kan nemen.
 
 ### ART. 6.
 
-De onderwijsinstellingen nemen de bepalingen van het rookverbod op in het schoolreglement. De onderwijsinstellingen en de CLB's nemen de bepalingen van het rookverbod op in het arbeidsreglement en in de reglementen met betrekking tot het ter beschikking stellen van infrastructuur van schoolinstellingen en CLB's aan derden.<br>
+De bepalingen, vermeld in artikel 4, worden in voorkomend geval opgenomen in:<br>
+1° het school-, internaats- of centrumreglement; het betrokken school-, internaats- of centrumbestuur kan bijkomend aan leerlingen een rookverbod bij extra-murosactiviteiten opleggen;<br>
+2° het arbeidsreglement; het betrokken school-, internaats- of centrumbestuur kan bijkomend aan zijn personeelsleden een rookverbod opleggen bij de uitoefening van hun opdrachten buiten de vestigingsplaatsen, vermeld in artikel 3;<br>
+3° de reglementen en contractuele verbintenissen waarin de voorwaarden van de verhuur aan of het gebruik door derden van de vestigingsplaatsen, vermeld in artikel 3, worden vastgelegd.<br>
 <br>
 Hierbij geven de instellingen aan op welke wijze de overtreding van het rookverbod wordt gesanctioneerd.
 
@@ -50,13 +43,13 @@ De instelling voert een doeltreffend beleid om het rookverbod te handhaven. Ze c
 
 ### ART. 8.
 
-De instelling kan het rookverbod, vermeld in artikel 4, desgewenst aanvullen met extra maatregelen. Die aanvullingen kunnen enkel een meer restrictieve uitwerking hebben ten aanzien van het rookverbod, vermeld in artikel 4, en worden eveneens conform artikelen 5 en 6 bekendgemaakt.
+...
 
 ## HOOFDSTUK III. Controle
 
 ### ART. 9.
 
-De inspectie controleert tijdens haar doorlichtingen de uitvoering van de bepalingen in artikelen 5, 6 en 7.
+De onderwijsinspectie controleert tijdens haar doorlichtingen de uitvoering van de bepalingen in artikelen 5, 6 en 7.
 
 ## HOOFDSTUK IV. Wijzigingsbepalingen
 
