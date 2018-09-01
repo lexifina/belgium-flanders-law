@@ -36,6 +36,10 @@ In artikel 87 van hetzelfde decreet, gewijzigd bij het decreet van 4 juli 2008, 
 
 ## HOOFDSTUK 5. Wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen"
 
+### ART 34.
+
+In artikel 13, § 3, eerste lid, 2° en 3°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen" worden tussen het woord "vier" en het woord "leden" telkens de woorden "effectieve en vier plaatsvervangende" ingevoegd.
+
 ## HOOFDSTUK 6. Wijziging van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 7. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
@@ -47,6 +51,12 @@ In artikel 87 van hetzelfde decreet, gewijzigd bij het decreet van 4 juli 2008, 
 ## HOOFDSTUK 10. Wijzigingen van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs
 
 ## HOOFDSTUK 11. Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 73.
+
+Aan artikel 147/1, § 3, van de Codex Secundair Onderwijs, ingevoegd bij het decreet van 26 januari 2018, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De onderwijsinspectie baseert zich bij de doorlichting op de doelen die van toepassing zijn tijdens het schooljaar van de doorlichting en op die van het daaraan voorafgaande schooljaar. Waar echter een curriculumdossier nog niet of nog niet volledig van toepassing is, wordt de doorlichting gebaseerd op de volgende, naargelang van het structuuronderdeel of structuuronderdelen, toepasbare doelen: de eindtermen, de ontwikkelingsdoelen, de specifieke eindtermen, de doelen leidend tot erkende beroepskwalificaties en de leerplannen.".
 
 ### ART 77.
 
@@ -111,9 +121,42 @@ In artikel II.210, § 1, van dezelfde codex, gewijzigd bij het decreet van 19 de
 
 In artikel II.261, § 4, van dezelfde codex wordt het woord "met" vervangen door het woord "niet".
 
+### ART 116.
+
+In artikel V.17/1, vierde lid, van dezelfde codex, ingevoegd bij het decreet van 15 juni 2018, wordt het woord "tweede" vervangen door het woord "derde".
+
+### ART 121.
+
+Aan dezelfde codex wordt een artikel V.110/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. V.110/1. In uitvoering van artikel V.170 reduceert het hogeschoolbestuur ambtshalve en zonder opzegging de aanstelling van een lid van het onderwijzend personeel als aan al de volgende voorwaarden voldaan is:<br>
+1° het personeelslid heeft aan de hogeschool ten minste een halftijdse benoeming of aanstelling binnen een of meer ambten van het onderwijzend personeel;<br>
+2° het personeelslid oefent naast de opdracht aan de hogeschool nog een andere bezoldigde activiteit of beroepsactiviteit uit;<br>
+3° de totale omvang van de opdrachten, vermeld in punt 1° en 2°, bedraagt meer dan 120 %.".
+
+### ART 123.
+
+Aan dezelfde codex wordt een artikel V.111/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. V.111/1. In uitvoering van artikel V.170 reduceert het hogeschoolbestuur ambtshalve en zonder opzegging de benoeming van een lid van het onderwijzend personeel als aan al de volgende voorwaarden voldaan is:<br>
+1° het personeelslid heeft aan de hogeschool ten minste een halftijdse benoeming of aanstelling binnen een of meer ambten van het onderwijzend personeel;<br>
+2° het personeelslid oefent naast de opdracht aan de hogeschool nog een andere bezoldigde activiteit of beroepsactiviteit uit;<br>
+3° de totale omvang van de opdrachten, vermeld in punt 1° en 2°, bedraagt meer dan 120 %;<br>
+4° er is geen verdere ambtshalve reductie van een aanstelling als lid van het onderwijzend personeel mogelijk.".
+
 ### ART 127.
 
 In artikel V.148, § 3, van dezelfde codex wordt tussen het woord "eveneens" en de woorden "het brevet" de zinsnede "ofwel een STCW-vaarbevoegdheidsbewijs van master voor zeeschepen met een bruto tonnage van 3000 of meer ofwel" ingevoegd.
+
+### ART 129.
+
+Artikel V.171 van dezelfde codex, vervangen bij het decreet van 15 juni 2018, wordt vervangen door wat volgt:<br>
+<br>
+"Art. V.171. In afwijking van artikel V.170 wordt de opdracht van het personeelslid dat belast is met ten minste een halftijdse opdracht van artistiek gebonden onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en Muziek en podiumkunsten, vermeld in artikel V.164, § 1, en dat daarnaast een andere bezoldigde activiteit of beroepsactiviteit uitoefent, niet beperkt tot 120 % als deze nevenactiviteiten van artistieke aard zijn en verband houden met de onderwijsactiviteiten die het personeelslid verstrekt. Deze afwijking geldt eveneens voor nevenactiviteiten in het kunstonderwijs. De principes van de uitoefening van nevenactiviteiten in het kunstonderwijs worden verder uitgewerkt in het hogeschoolonderhandelingscomité.".
+
+### ART 130.
+
+In artikel V.172/1, vierde lid, van dezelfde codex, ingevoegd bij het decreet van 15 juni 2018, wordt het woord "tweede" vervangen door het woord "derde".
 
 ## HOOFDSTUK 13. Wijzigingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen
 
@@ -123,7 +166,41 @@ In artikel V.148, § 3, van dezelfde codex wordt tussen het woord "eveneens" en 
 
 ## HOOFDSTUK 16. Wijzigingen van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs
 
+### ART 162.
+
+In artikel 52 van hetzelfde decreet worden in het tweede lid de volgende wijzigingen aangebracht:<br>
+1° in punt 2° wordt het woord "bepaling" vervangen door het woord "bepalingen";<br>
+2° in punt 3° wordt de zinsnede " § 2" vervangen door de zinsnede "paragraaf 2 en 3 en artikel 30".
+
+### ART 170.
+
+Aan artikel 116 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Onder de oprichting van een structuuronderdeel, vermeld in het tweede lid en in artikel 117, wordt de oprichting van een nieuw structuuronderdeel van een domein waarvan de academie al een of meer structuuronderdelen organiseert in een bestaande of nieuwe vestigingsplaats verstaan.";<br>
+2° een derde lid wordt toegevoegd, dat luidt als volgt:<br>
+"Voor de structuuronderdelen van een nieuw opgericht domein, conform artikel 115, die in het negende bestaansjaar van het nieuw opgerichte domein nog in oprichting zijn, gelden de programmatievoorwaarden, vermeld in artikel 117 en 118 tot de structuuronderdelen volledig zijn opgericht.".
+
+### ART 174.
+
+In artikel 134 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Een academie of een volledige vestigingsplaats of een of meer structuuronderdelen in een vestigingsplaats kunnen definitief van adres wijzigen, waarbij alle leerlingen op hetzelfde moment naar het nieuwe adres verhuizen. Bij de verhuizing van een volledige academie, een volledige vestigingsplaats of een volledig structuuronderdeel zijn de programmatienormen niet van toepassing.";<br>
+2° het tweede lid wordt opgeheven;<br>
+3° na het derde lid, dat het tweede lid wordt, wordt een nieuw lid toegevoegd, dat luidt als volgt:<br>
+"Een schoolbestuur kan bij het begin van het schooljaar een deel van de leerlingen van een volledig opgericht structuuronderdeel overbrengen naar een nieuwe vestigingsplaats omwille van infrastructurele noodwendigheden. De programmatienormen zijn niet van toepassing. De rationalisatienormen zijn wel van toepassing. Het schoolbestuur meldt de uitbreiding van een bestaand structuuronderdeel naar een nieuwe vestigingsplaats uiterlijk 30 september aan het Agentschap voor Onderwijsdiensten.".
+
+### ART 176.
+
+In artikel 153, vierde lid, van hetzelfde decreet wordt de zinsnede "de bepalingen in artikel 76, 77, tweede lid en 78" vervangen door de zinsnede "de bepalingen in artikel 74, eerste en tweede lid".
+
 ## HOOFDSTUK 17. Wijzigingen van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding
+
+### ART 183.
+
+In artikel 42, § 2, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid worden de woorden "voor de permanente ondersteuningscel" vervangen door de woorden "in de permanente ondersteuningscel";<br>
+2° het vierde lid wordt vervangen door wat volgt:<br>
+"De betrekkingen die met de overgedragen omkaderingsgewichten worden opgericht voor de regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel, worden administratief verbonden aan een of meer van de centra die deel uitmaken van deze regionale ondersteuningscel of netoverstijgende regionale ondersteuningscel.".
 
 ## HOOFDSTUK 18. Wijzigingen van het decreet van 30 november 2018
 
