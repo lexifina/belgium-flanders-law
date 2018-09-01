@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029691,
+  "title": "Ministerieel besluit van 2018-08-24 tot verlenging van de datum voor inzaaien van een vanggewas of een specifieke teelt ter uitvoering van de artikelen 4.3.1 en 5.2.2.1 van de VLAREME van 28 oktober 2016",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029691/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "f1c683fc0ebe8f20cb2d01c076450152136934486a9ff102ce351bfe45b55f1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029691&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-08-24",
+  "gazette": "2018-09-06",
+  "numac": 2018013586,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}

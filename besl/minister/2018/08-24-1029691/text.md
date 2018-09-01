@@ -1,0 +1,33 @@
+# Ministerieel besluit van 2018-08-24 tot verlenging van de datum voor inzaaien van een vanggewas of een specifieke teelt ter uitvoering van de artikelen 4.3.1 en 5.2.2.1 van de VLAREME van 28 oktober 2016
+
+### Aanhef
+
+DE VLAAMSE MINISTER VAN OMGEVING, NATUUR EN LANDBOUW,<br>
+Gelet op het Mestdecreet van 22 december 2006, artikel 8, § 9, ingevoegd bij het decreet van 12 juni 2015 en gewijzigd bij het decreet van 18 december 2015, artikel 13, § 4, vervangen bij het decreet van 12 juni 2015, en artikel 14, § 9, vervangen bij het decreet van 12 juni 2015 en gewijzigd bij de decreten van 18 december 2015 en 30 juni 2017;<br>
+Gelet op de VLAREME van 28 oktober 2016, artikel 4.3.1, ingevoegd bij het besluit van de Vlaamse Regering van 22 december 2017, en 5.2.2.1;<br>
+Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973, artikel 3, § 1;<br>
+Gelet op de dringende noodzakelijkheid;<br>
+Overwegende dat in het Mestdecreet, meer bepaald in artikel 8 en artikel 14, § 9, de mogelijkheid om meststoffen op te brengen na de oogst van de hoofdteelt gekoppeld is aan het verplicht inzaaien van een vanggewas of een specifieke teelt, uiterlijk op 31 augustus;<br>
+Dat in het Mestdecreet echter voorzien is dat de Vlaamse Regering in geval van uitzonderlijke weersomstandigheden een regeling kan uitwerken om deze data te verlengen;<br>
+Dat artikel 4.3.1 van de Vlareme van 28 oktober 2016, in uitvoering van hoger vermelde bepalingen, de bevoegdheid voor het verlengen van de bemestingsperiode en de inzaaiperiode, toegewezen heeft aan de Vlaamse minister, bevoegd voor het leefmilieu;<br>
+Dat in de VLAREME van 28 oktober 2016 uitvoering wordt gegeven aan verschillende bepalingen van het Mestdecreet, waaronder ook artikel 13, § 4, van het Mestdecreet, dat de Vlaamse Regering de bevoegdheid geeft om in het kader van een derogatie, afwijkende bepalingen uit te werken. Dat in het kader van de derogatie er voor de derogatiegewastypes "wintertarwe met vanggewas" en "triticale met vanggewas" een verplichting is om een vanggewas in te zaaien uiterlijk op 1 september. Dat de minister echter de mogelijkheid heeft om in geval van uitzonderlijke weersomstandigheden te bepalen dat het vanggewas pas uiterlijk op 10 september hoeft te worden ingezaaid;<br>
+Dat de hoeveelheid neerslag in 2018 overwegend normaal was tot en met april, waarna er in de maanden mei, juni en juli nagenoeg geen neerslag viel. Dat onder meer juli, met een gemiddelde neerslaghoeveelheid in Vlaanderen van 12,4 mm zeer droog was. Dat bovendien ook juni zeer droog was voor grote delen van Vlaanderen met neerslag die vooral viel tijdens lokale onweersbuien. Dat de neerslag die in de maand augustus reeds gevallen is of voorspeld is, enig soelaas heeft geboden, doch onvoldoende was. Dat dit blijkt uit de "Standardized Precipitation Index" (SPI) die een indicator is voor de afwijking van de voorbije neerslag t.o.v. het historische normaal. Dat momenteel, rekening houdend met de neerslaghoeveelheden tot 17 augustus, op de korte termijn (SPI-1), de extreem droge toestand die er voorheen was geëvolueerd is naar een matig droge tot normale toestand. Dat op de langere termijn (SPI-3) de toestand voor nagenoeg heel Vlaanderen echter extreem droog blijft;<br>
+Dat gelet op de huidige vaststellingen en de weersvoorspellingen kan gesteld worden dat de bodem in de tweede helft van augustus voldoende vocht bevat opdat er bemest kan worden en de opgebrachte meststoffen voldoende in de bodem ingewerkt kunnen worden. Dat er dan ook geen noodzaak is om, voor het opbrengen van meststoffen, gebruik te maken van de mogelijkheid om een verlenging toe te staan van de gewone bemestingsperiode;<br>
+Dat echter voor het inzaaien van een vanggewas of specifieke teelt andere grondbewerkingen nodig zijn, dan voor het bemesten. Deze grondbewerkingen kunnen vereisen dat men dieper in de bodem doordringt. Door de zeer droge weersomstandigheden van dit jaar is de bodem momenteel nog te droog en te hard, waardoor de vereiste grondbewerkingen niet of niet optimaal uitgevoerd kunnen worden. Opdat een vanggewas of specifieke teelt de in de bodem aanwezige meststoffen optimaal zou kunnen opnemen en aldus uitspoeling ervan zou kunnen vermijden, is het echter aangewezen dat deze teelten voldoende opkomen. Voor de opkomst en de effectiviteit van deze teelten is het dan ook noodzakelijk dat deze in zo optimaal mogelijke omstandigheden, en gebruik makend van de beste grondbewerkingstechnieken, ingezaaid worden;<br>
+Dat volgens de voorspellingen er nog neerslag zal vallen eind augustus en mogelijks ook de eerste dagen van september. Dat deze verwachte neerslag de bodem minder droog zal maken, waardoor het mogelijk zal worden om bij grondbewerkingen dieper in de bodem door te dringen. Dat hierdoor de vanggewassen of specifieke teelten ingezaaid zullen kunnen worden, gebruikmakend van dieper in de bodem doordringende grondbewerkingstechnieken. Dat het dan ook noodzakelijk is om, voor de inzaai van vanggewassen en specifieke teelten, gebruik te maken van de in de mestregelgeving voorziene mogelijkheid om de inzaaiperiode te verlengen;<br>
+Dat om te bepalen of het nodig en nuttig was om deze verlenging toe te staan, er eerst meer duidelijkheid moest zijn over de weersomstandigheden in de tweede helft van augustus. Dat immers de weersomstandigheden, en dan met name de hoeveelheid regenval in deze periode, mee in rekening moeten gebracht worden om te bepalen of een verlenging van de uitrijperiode of de inzaaiperiode noodzakelijk was;<br>
+Dat hierdoor voorliggend besluit niet op een vroeger tijdstip kon genomen worden;<br>
+Dat aangezien de gewone inzaaiperiode afloopt op 31 augustus en het voor de betrokken landbouwers van belang is om tijdig te weten of ze ook nog begin september hun vanggewas kunnen inzaaien, voorliggend besluit dan ook zo snel mogelijk moet genomen worden;<br>
+Dat voorliggend besluit dan ook dringend noodzakelijk is,<br>
+Besluit :
+
+### ART 1.
+
+<br>
+Artikel 1. Ter uitvoering van artikel 4.3.1 van de VLAREME van 28 oktober 2016 wordt vastgesteld dat er in 2018 sprake is van uitzonderlijke weersomstandigheden, als vermeld in artikel 4.3.1, eerste lid, van de VLAREME van 28 oktober 2016.<br>
+<br>
+Gelet op de uitzonderlijke weersomstandigheden, als vermeld in het eerste lid, mogen in het jaar 2018 vanggewassen of specifieke teelten ingezaaid worden tot uiterlijk 10 september, ter uitvoering van artikel 8, § 9, tweede lid, en artikel 14, § 9, zevende lid, 1°, van het Mestdecreet van 22 december 2006, en van artikel 5.2.2.1, tweede lid, van de VLAREME van 28 oktober 2016.
+
+### ART 2.
+
+Dit besluit treedt in werking op 1 september 2018.
