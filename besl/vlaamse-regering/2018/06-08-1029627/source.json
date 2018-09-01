@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029627,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 betreffende de bekrachtiging van het kader voor de Toets Nieuwe Opleiding specificatie Educatieve Graduaatsopleiding en Educatieve Masteropleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029627/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "307be49def351e47acbd9050853d1ce4a5a58757d8a28f844723fc4551d372da",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029627&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-06-08",
+  "gazette": "2018-08-10",
+  "numac": 2018040603,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
