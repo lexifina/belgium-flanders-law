@@ -2,16 +2,16 @@
   "codex_id": 1024753,
   "title": "Besluit van de Vlaamse Regering van 2014-10-03 tot wijziging van diverse besluiten betreffende het deeltijds kunstonderwijs met het oog op een aantal maatregelen voor de inhoudelijke vernieuwing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024753/VolledigDocument?datum=2015-08-31",
-  "source_sha256": "90a64a9b364185145dec9b1cb52eb7d00cf32e734923146be6dab38d61487bdf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024753/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "d2c46f5c5bdfc05ef890d5b6faa59139021dee573bcf284c615c2b619838edd4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024753&param=informatie",
-  "as_of": "2015-08-31",
+  "as_of": "2018-09-01",
   "made": "2014-10-03",
   "gazette": "2014-11-18",
   "numac": 2014036808,
   "document_start": "2014-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2015-08-31",
+  "in_force": "2018-09-01",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2015-08-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
