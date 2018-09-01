@@ -12,7 +12,20 @@ Dit decreet is van toepassing op de interlandelijke adoptie van een kind, zijnde
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder :<br />1° interlandelijke adoptie : de adoptie zoals omschreven in artikel 360.2 van het Burgerlijk Wetboek;<br />2° adoptant : een persoon of personen zoals vermeld in artikel 343, § 1, van het Burgerlijk Wetboek;<br />3° afstandsouder : een ouder die voor zichzelf heeft uitgemaakt een kind af te staan;<br />4° adoptiebemiddeling : elke activiteit van een tussenpersoon die ertoe strekt een adoptie van een kind te realiseren;<br />5° adoptiedienst : een door de Vlaamse Regering erkende instelling die aan adoptiebemiddeling doet en de eerste nazorg verstrekt;<br />6° buitenlands kanaal : een instantie, instelling of persoon in het herkomstland van het kind die bij interlandelijke adoptie bemiddelt;<br />7° zelfstandige adoptie : de adoptie waarbij de adoptant geen beroep doet op een adoptiedienst en de adoptie zelfstandig tot stand brengt;<br />8° Vlaams Centrum voor Adoptie : de afdeling aangewezen binnen Kind en Gezin, die zal optreden als centrale autoriteit en belast is met de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet;<br />9° Vlaamse adoptieambtenaar : de ambtenaar, benoemd binnen het Vlaams Centrum voor Adoptie, die de taken vervult die hem door dit decreet toegewezen worden;<br />10° Haags Verdrag : het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, ondertekend in Den Haag op 29 mei 1993;<br />11° samenwerkingsakkoord : het samenwerkingsakkoord van 12 december 2005 tussen de federale staat, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie;<br />12° Steunpunt Adoptie : een door de Vlaamse Regering erkende instelling die de taken, vermeld in artikel 7, § 2, uitvoert.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° interlandelijke adoptie : de adoptie zoals omschreven in artikel 360.2 van het Burgerlijk Wetboek;<br>
+2° adoptant : een persoon of personen zoals vermeld in artikel 343, § 1, van het Burgerlijk Wetboek;<br>
+3° afstandsouder : een ouder die voor zichzelf heeft uitgemaakt een kind af te staan;<br>
+4° adoptiebemiddeling : elke activiteit van een tussenpersoon die ertoe strekt een adoptie van een kind te realiseren;<br>
+5° adoptiedienst : een door de Vlaamse Regering erkende instelling die aan adoptiebemiddeling doet en de&nbsp;nazorg verstrekt;<br>
+6° buitenlands kanaal : een instantie, instelling of persoon in het herkomstland van het kind die bij interlandelijke adoptie bemiddelt;<br>
+7° zelfstandige adoptie : de adoptie waarbij de adoptant geen beroep doet op een adoptiedienst en de adoptie zelfstandig tot stand brengt;<br>
+8° Vlaams Centrum voor Adoptie : de afdeling aangewezen binnen Kind en Gezin, die zal optreden als centrale autoriteit en belast is met de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet;<br>
+9° Vlaamse adoptieambtenaar : de ambtenaar, benoemd binnen het Vlaams Centrum voor Adoptie, die de taken vervult die hem door dit decreet toegewezen worden;<br>
+10° Haags Verdrag : het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, ondertekend in Den Haag op 29 mei 1993;<br>
+11° samenwerkingsakkoord : het samenwerkingsakkoord van 12 december 2005 tussen de federale staat, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie;<br>
+12° Steunpunt Adoptie : een door de Vlaamse Regering erkende instelling die de taken, vermeld in artikel 7, § 2, uitvoert.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 De informatie en voorbereiding door het Steunpunt Adoptie
 
@@ -41,7 +54,34 @@ De Vlaamse Regering bepaalt de algemene inhoud en de minimumduur van de voorbere
 
 ### ART. 7.
 
-§ 1. De Vlaamse Regering erkent het Steunpunt Adoptie op advies van het   Vlaams Centrum voor Adoptie.<BR><BR>De erkenning wordt verleend voor minimaal   twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden   verlengd.<BR><BR>§ 2. Het Steunpunt Adoptie heeft de volgende taken :<BR>1°   informatie verstrekken aan de adoptanten over alle aspecten van adoptie;<BR>2°   optreden als informatiepunt inzake nazorg en expertise rond adoptie bevorderen   bij het bestaande hulpverleningsaanbod;<BR>3° fungeren als aanspreek- en   oriëntatiepunt voor geadopteerden, adoptanten en afstandsouders;<BR>4° fungeren   als vormings- en expertisecentrum;<BR>5° een documentatie- en informatiecentrum   uitbouwen;<BR>6° het organiseren van de voorbereiding, vermeld in artikel   5.<BR><BR>§ 3. Om erkend te worden, moet het Steunpunt Adoptie aan de volgende   voorwaarden voldoen :<BR>1° uitsluitend doelstellingen zonder winstoogmerk   nastreven;<BR>2° beschikken over een team dat is samengesteld zoals bepaald door   de Vlaamse Regering;<BR>3° zich engageren om regelmatig in het overleg tussen de   verschillende actoren interlandelijke adoptie te participeren;<BR>4° voorzien in   bijscholing voor de hulpverleners;<BR>5° de persoonlijke levenssfeer van de   adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische,   godsdienstige en filosofische overtuiging respecteren.<BR><BR>§ 4. Het erkende   Steunpunt Adoptie moet, om erkend te blijven of een hernieuwing van zijn   erkenning te verkrijgen, de volgende voorschriften naleven :<BR>1° de discretie   en het beroepsgeheim in acht nemen ten aanzien van de informatie die over de   adoptanten wordt verkregen;<BR>2° elke adoptant die door het Vlaams Centrum voor   Adoptie wordt doorverwezen voor het volgen van een voorbereidingsprogramma   aanvaarden en registreren;<BR>3° een jaarverslag opmaken en het in de loop van   het eerste trimester dat volgt op het einde van elk boekjaar bezorgen aan het   Vlaams Centrum voor Adoptie. De Vlaamse Regering bepaalt de inhoud van het   jaarverslag.<BR><BR>§ 5. De Vlaamse Regering kan bijkomende voorwaarden   en&nbsp;nadere bepalingen vastleggen met betrekking tot paragraaf 3 en paragraaf   4.<BR><BR>§ 6. De Vlaamse Regering legt de procedure vast voor de erkenning en   hernieuwing van erkenning van het Steunpunt Adoptie en voorziet in een   bezwaarprocedure.<BR><BR>
+§ 1. De Vlaamse Regering erkent het Steunpunt Adoptie op advies van het Vlaams Centrum voor Adoptie.<br>
+<br>
+De erkenning wordt verleend voor minimaal twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd.<br>
+<br>
+§ 2. Het Steunpunt Adoptie heeft de volgende taken :<br>
+1° informatie verstrekken aan de adoptanten over alle aspecten van adoptie;<br>
+2° optreden als informatiepunt inzake nazorg en expertise rond adoptie bevorderen bij het bestaande hulpverleningsaanbod, alsook een netwerk opzetten met bestaande adoptiesensitieve algemene en gespecialiseerde welzijns- en gezondheidsdiensten, en met de trefgroepen van geadopteerden en adoptanten, met het oog op een efficiënte doorverwijzing;<br>
+3° fungeren als aanspreek- en oriëntatiepunt voor geadopteerden, adoptanten en afstandsouders;<br>
+4° fungeren als vormings- en expertisecentrum;<br>
+5° een documentatie- en informatiecentrum uitbouwen;<br>
+6° het organiseren van de voorbereiding, vermeld in artikel 5.<br>
+<br>
+§ 3. Om erkend te worden, moet het Steunpunt Adoptie aan de volgende voorwaarden voldoen :<br>
+1° uitsluitend doelstellingen zonder winstoogmerk nastreven;<br>
+2° beschikken over een team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br>
+3° zich engageren om regelmatig in het overleg tussen de verschillende actoren interlandelijke adoptie te participeren;<br>
+4° voorzien in bijscholing voor de hulpverleners;<br>
+5° de persoonlijke levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische, godsdienstige en filosofische overtuiging respecteren.<br>
+<br>
+§ 4. Het erkende Steunpunt Adoptie moet, om erkend te blijven of een hernieuwing van zijn erkenning te verkrijgen, de volgende voorschriften naleven :<br>
+1° de discretie en het beroepsgeheim in acht nemen ten aanzien van de informatie die over de adoptanten wordt verkregen;<br>
+2° elke adoptant die door het Vlaams Centrum voor Adoptie wordt doorverwezen voor het volgen van een voorbereidingsprogramma aanvaarden en registreren;<br>
+3° een jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het einde van elk boekjaar bezorgen aan het Vlaams Centrum voor Adoptie. De Vlaamse Regering bepaalt de inhoud van het jaarverslag.<br>
+<br>
+§ 5. De Vlaamse Regering kan bijkomende voorwaarden en&nbsp;nadere bepalingen vastleggen met betrekking tot paragraaf 3 en paragraaf 4.<br>
+<br>
+§ 6. De Vlaamse Regering legt de procedure vast voor de erkenning en hernieuwing van erkenning van het Steunpunt Adoptie en voorziet in een bezwaarprocedure.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -70,17 +110,44 @@ Het Vlaams Centrum voor Adoptie kan nadere richtlijnen bepalen inzake de wijze w
 
 ### ART. 11.
 
-§ 1. De Vlaamse Regering erkent diensten voor maatschappelijk onderzoek op   advies van het Vlaams Centrum voor Adoptie.<BR><BR>§ 2. Om erkend te worden,   moet de dienst voor maatschappelijk onderzoek aan de volgende voorwaarden   voldoen :<BR>1° beschikken over een team dat is samengesteld zoals bepaald door   de Vlaamse Regering;<BR>2° de persoonlijke levenssfeer van de adoptant   eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische,   godsdienstige en filosofische overtuiging respecteren;<BR>3° ...;<BR>4° naleven   van wetenschappelijk onderbouwde criteria;<BR>5° zich engageren om regelmatig in   het overleg tussen de verschillende actoren interlandelijke adoptie te   participeren.<BR><BR>§ 3. De erkenning wordt verleend voor minimaal twee jaar en   maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende   dienst voor maatschappelijk onderzoek moet, om erkend te blijven of opnieuw   erkend te worden, de volgende verplichtingen naleven :<BR>1° de discretie en het   beroepsgeheim in acht nemen ten aanzien van de informatie die over de adoptanten   wordt verkregen;<BR>2° iedereen die zich voor het maatschappelijk onderzoek   aanbiedt, registreren;<BR>3° de vraagstelling beperken tot de informatie die   relevant is voor het bekomen van een geschiktheidsvonnis tot interlandelijke   adoptie;<BR>4° de werking continu bijsturen in functie van wetenschappelijk   onderbouwde criteria, conform de richtlijnen van het Vlaams Centrum voor   Adoptie;<BR>5° een jaarverslag opmaken en het in de loop van het eerste   trimester dat volgt op het einde van elk boekjaar toesturen aan het Vlaams   Centrum voor Adoptie. De inhoud van het jaarverslag wordt door de Vlaamse   Regering bepaald;<BR>6° de taken, vermeld in artikel 10 van dit decreet,   kwaliteitsvol uitvoeren.<BR><BR>§ 4. De Vlaamse Regering stelt de procedure vast   voor de aanvraag en de hernieuwing van de erkenning van de diensten voor   maatschappelijk onderzoek. Tevens voorziet ze in een bezwaarprocedure.<BR><BR>§   5. De Vlaamse Regering stelt een programmering van de diensten voor   maatschappelijk onderzoek op.<BR><BR>
+§ 1. De Vlaamse Regering kan één dienst voor maatschappelijk onderzoek erkennen op advies van het Vlaams Centrum voor Adoptie.<br>
+<br>
+§ 2. Om erkend te worden, moet de dienst voor maatschappelijk onderzoek aan de volgende voorwaarden voldoen :<br>
+1° beschikken over een team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br>
+2° de persoonlijke levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische, godsdienstige en filosofische overtuiging respecteren;<br>
+3° ...;<br>
+4° naleven van wetenschappelijk onderbouwde criteria;<br>
+5° zich engageren om regelmatig in het overleg tussen de verschillende actoren interlandelijke adoptie te participeren.<br>
+<br>
+§ 3. De erkenning wordt verleend voor minimaal twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende dienst voor maatschappelijk onderzoek moet, om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven :<br>
+1° de discretie en het beroepsgeheim in acht nemen ten aanzien van de informatie die over de adoptanten wordt verkregen;<br>
+2° iedereen die zich voor het maatschappelijk onderzoek aanbiedt, registreren;<br>
+3° de vraagstelling beperken tot de informatie die relevant is voor het bekomen van een geschiktheidsvonnis tot interlandelijke adoptie;<br>
+4° de werking continu bijsturen in functie van wetenschappelijk onderbouwde criteria, conform de richtlijnen van het Vlaams Centrum voor Adoptie;<br>
+5° een jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het einde van elk boekjaar toesturen aan het Vlaams Centrum voor Adoptie. De inhoud van het jaarverslag wordt door de Vlaamse Regering bepaald;<br>
+6° de taken, vermeld in artikel 10 van dit decreet, kwaliteitsvol uitvoeren.<br>
+<br>
+§ 4. De Vlaamse Regering stelt de procedure vast voor de aanvraag en de hernieuwing van de erkenning van de dienst voor maatschappelijk onderzoek. Tevens voorziet ze in een bezwaarprocedure.<br>
+<br>
+§ 5. ...
 
 ### ART. 12.
 
-De erkenning van een dienst voor maatschappelijk onderzoek kan door de   Vlaamse Regering worden&nbsp;opgeheven of geschorst voor de termijn die ze   bepaalt als de bepalingen van dit decreet niet worden nageleefd. Bij stopzetting   van de activiteiten wordt de erkenning ambtshalve geschrapt.<BR><BR>De Vlaamse   Regering bepaalt de procedure inzake&nbsp;opheffing en schorsing van de   erkenning.<BR><BR>
+De erkenning, vermeld in artikel 11, § 1, kan door de Vlaamse Regering worden&nbsp;opgeheven of geschorst voor de termijn die ze bepaalt als de bepalingen van dit decreet niet worden nageleefd. Bij stopzetting van de activiteiten wordt de erkenning ambtshalve geschrapt.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure inzake&nbsp;opheffing en schorsing van de erkenning.<br>
+&nbsp;
 
 ## Afdeling 3 De subsidiëring van de [dienst (verv. decr. 16 maart 2018, art. 7, I: 1 september 2018)] voor maatschappelijk onderzoek inzake interlandelijke adoptie
 
 ### ART. 13.
 
-De erkende diensten voor maatschappelijk onderzoek ontvangen de volgende   subsidies :<BR>1° een jaarlijkse subsidie voor personeels- en   werkingskosten;<BR>2° een jaarlijkse subsidie op basis van het aantal   gerealiseerde onderzoeken.<BR><BR>De Vlaamse Regering bepaalt de nadere regelen   voor de subsidiëring van de dienst voor maatschappelijk   onderzoek.<BR><BR>
+De erkende dienst voor maatschappelijk onderzoek ontvangt de volgende subsidies :<br>
+1° een jaarlijkse subsidie voor personeels- en werkingskosten;<br>
+2° een jaarlijkse subsidie op basis van het aantal gerealiseerde onderzoeken.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regelen voor de subsidiëring van de dienst voor maatschappelijk onderzoek.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Adoptiebemiddeling
 
@@ -94,7 +161,29 @@ De adoptant van wie in het kader van een interlandelijke adoptie overeenkomstig 
 
 ### ART. 15.
 
-§ 1. Een adoptiedienst treedt op als tussenpersoon inzake adoptie met als   taak te informeren, te bemiddelen en de eerste nazorg te verstrekken.<BR><BR>§   2. De taken inzake adoptiebemiddeling zijn :<BR>1° mede op grond van de   kindstudie, de juridische en sociaal-psychologische adopteerbaarheid van het   kind nagaan;<BR>2° de adoptanten voorbereiden op de komst van het kind;<BR>3° de   voortgang van de individuele adoptiedossiers begeleiden;<BR>4° een   adoptiesamenwerking aangaan met de buitenlandse kanalen die goedgekeurd zijn   door het Vlaams Centrum voor Adoptie;<BR>5° de adoptie opvolgen zoals bepaald is   in de voorschriften en de wettelijke bepalingen van de staat van herkomst;<BR>6°   de aankomst van het kind in België melden bij het Vlaams Centrum voor   Adoptie;<BR>7° voorzien in gestructureerde verkenningssessies voor de adoptanten   in de voorbereidingsfase en op vraag van de adoptanten een schriftelijk verslag   van deze sessie overmaken aan het Vlaams Centrum voor Adoptie, dat dit toevoegt   aan het verslag van het maatschappelijk onderzoek dat aan de jeugdrechter wordt   bezorgd;<BR>8° voorstellen voor mogelijke adoptiesamenwerking aanbrengen bij het   Vlaams Centrum voor Adoptie;<BR>9° de adoptiewerking periodiek evalueren en   hierover rapporteren aan het Vlaams Centrum voor Adoptie.<BR><BR>§ 3. De taak   inzake informeren is de kandidaat-adoptanten, gedurende de voorbereidingssessie   en in samenspraak met het Steunpunt Adoptie, informeren over de herkomstlanden   waarmee een lopende adoptiesamenwerking bestaat.<BR><BR>§ 4. De taken inzake de   eerste nazorg zijn :<BR>1° de adoptant en het geadopteerde kind bijstaan na de   komst van de geadopteerde in het gezin en nazorg verlenen gedurende de eerste   fase van hechting en integratie;<BR>2° de adoptant op de hoogte stellen van de   bestaande nazorg voor adopties.<BR><BR>§ 5. De adoptiedienst stelt een   schriftelijke overeenkomst op met elke adoptant waarvoor hij bemiddelt. In die   overeenkomst wordt zo exact mogelijk de procedure, de kostprijs, de duur en de   gewaarborgde dienstverlening omschreven.<BR><BR>§ 6. Van ieder adoptiedossier   moet de adoptiedienst, binnen de vier maanden na de totstandkoming van de   adoptie, een kopie bezorgen aan de Vlaamse adoptieambtenaar.<BR><BR>§ 7. De   Vlaamse Regering kan de taken, bepaald in § 2 tot § 6, nader bepalen.   <BR><BR>
+§ 1. Een adoptiedienst treedt op als tussenpersoon inzake adoptie met als taak te informeren, te bemiddelen en de&nbsp;nazorg te verstrekken.<br>
+<br>
+§ 2. De taken inzake adoptiebemiddeling zijn :<br>
+1° mede op grond van de kindstudie, de juridische en sociaal-psychologische adopteerbaarheid van het kind nagaan;<br>
+2° de adoptanten psychosociaal bijstaan en voorbereiden op de komst van het kind;<br>
+3° de voortgang van de individuele adoptiedossiers begeleiden;<br>
+4° een adoptiesamenwerking aangaan met de buitenlandse kanalen die goedgekeurd zijn door het Vlaams Centrum voor Adoptie;<br>
+5° de adoptie opvolgen zoals bepaald is in de voorschriften en de wettelijke bepalingen van de staat van herkomst;<br>
+6° de aankomst van het kind in België melden bij het Vlaams Centrum voor Adoptie;<br>
+7° voorzien in gestructureerde verkenningssessies voor de adoptanten in de voorbereidingsfase en op vraag van de adoptanten een schriftelijk verslag van deze sessie overmaken aan het Vlaams Centrum voor Adoptie, dat dit toevoegt aan het verslag van het maatschappelijk onderzoek dat aan de jeugdrechter wordt bezorgd;<br>
+8° voorstellen voor mogelijke adoptiesamenwerking aanbrengen bij het Vlaams Centrum voor Adoptie;<br>
+9° de adoptiewerking periodiek evalueren en hierover rapporteren aan het Vlaams Centrum voor Adoptie.<br>
+<br>
+§ 3. De taak inzake informeren is de kandidaat-adoptanten, gedurende de voorbereidingssessie en in samenspraak met het Steunpunt Adoptie, informeren over de herkomstlanden waarmee een lopende adoptiesamenwerking bestaat.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. De adoptiedienst stelt een schriftelijke overeenkomst op met elke adoptant waarvoor hij bemiddelt. In die overeenkomst wordt zo exact mogelijk de procedure, de kostprijs, de duur en de gewaarborgde dienstverlening omschreven.<br>
+<br>
+§ 6. Van ieder adoptiedossier moet de adoptiedienst, binnen de vier maanden na de totstandkoming van de adoptie, een kopie bezorgen aan de Vlaamse adoptieambtenaar.<br>
+<br>
+§ 7. De Vlaamse Regering kan de taken, bepaald in § 2 tot § 6, nader bepalen.<br>
+&nbsp;
 
 ## Afdeling 3 Erkenning van de adoptiediensten
 
@@ -104,7 +193,7 @@ De adoptant van wie in het kader van een interlandelijke adoptie overeenkomstig 
 <br>
 § 2. Om erkend te worden, moet de adoptiedienst aan de volgende voorwaarden voldoen :<br>
 1° optreden als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, of als een publiekrechtelijke rechtspersoon;<br>
-2° adoptiebemiddeling en het verstrekken van de eerste nazorg als voornaamste taak hebben;<br>
+2° adoptiebemiddeling en het verstrekken van de&nbsp;nazorg als voornaamste taak hebben;<br>
 3° beschikken over of een beroep kunnen doen op een interdisciplinair team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br>
 4° geleid worden door een persoon die beschikt over kwalificaties zoals bepaald door de Vlaamse Regering;<br>
 5° beschikken over voldoende infrastructuur om de opgelegde verplichtingen uit te voeren en de continuïteit van de dienst te verzekeren;<br>
@@ -154,7 +243,7 @@ b) optreden als informatiepunt inzake nazorg en expertise rond adoptie bevordere
 c) fungeren als aanspreek- en oriëntatiepunt voor geadopteerden, adoptanten en afstandsouders;<br>
 d) fungeren als expertisecentrum;<br>
 e) een documentatie- en informatiecentrum uitbouwen;<br>
-3° de registratie van de adoptanten die zich aanmelden voor adoptie, de doorverwijzing van de adoptant naar het Steunpunt Adoptie en de inning van de bijdrage van de adoptant in de kosten van de voorbereiding en de doorverwijzing naar een dienst voor maatschappelijk onderzoek;<br>
+3° de registratie van de adoptanten die zich aanmelden voor adoptie, de doorverwijzing van de adoptant naar het Steunpunt Adoptie en de inning van de bijdrage van de adoptant in de kosten van de voorbereiding en de doorverwijzing naar de dienst voor maatschappelijk onderzoek;<br>
 4° de registratie van de keuze van de adoptant voor adoptie met een adoptiedienst of zelfstandige adoptie en, bij adoptie met een adoptiedienst, het doorsturen van het verslag, bedoeld in artikel 1231.32 van het Gerechtelijk Wetboek, aan de adoptiedienst die de adoptant gekozen heeft;<br>
 5° het voeren van een gericht beleid voor de adoptie van kinderen met 'special needs';<br>
 6° bij zelfstandige adoptie :<br>
@@ -162,7 +251,7 @@ a) de adoptant op de hoogte brengen van de bestaande nazorg in Vlaanderen;<br>
 b) onderzoek en goed- of afkeuring van het aangebrachte kanaal en het onverwijld doorsturen van het vonnis betreffende de bekwaamheid en de geschiktheid van de adoptant en het verslag, vermeld in artikel 1231.32 van het Gerechtelijk Wetboek, aan de bevoegde autoriteit van de staat van herkomst;<br>
 7° de opdrachten, vermeld in artikel 361.3 van het Burgerlijk Wetboek;<br>
 8° de voortgangsrapportage van de adoptie organiseren en bewaken;<br>
-9° netwerken opzetten tussen bestaande diensten en projecten die een rol spelen in de nazorg bij adoptie, waartoe zeker gerekend worden : adoptiediensten, voorbereidingscentra, diensten die deel uitmaken van de preventieve en gespecialiseerde zorg, trefgroepen van adoptanten en geadopteerden;<br>
+9° netwerken opzetten tussen bestaande diensten en projecten die een rol spelen in de nazorg bij adoptie, waartoe zeker gerekend worden : adoptiediensten,&nbsp;het Steunpunt Adoptie, voorbereidingscentra, diensten die deel uitmaken van de preventieve en gespecialiseerde zorg, trefgroepen van adoptanten en geadopteerden;<br>
 10° samen met de diensten en projecten, vermeld in punt 9°, een overkoepelende visie op nazorg uitwerken;<br>
 11° advies verlenen op eigen initiatief of op verzoek van de Vlaamse Regering met betrekking tot specifieke nazorginitiatieven en -projecten;<br>
 12° de trefgroepen inzake adoptie ondersteunen;<br>
@@ -172,11 +261,11 @@ b) onderzoek en goed- of afkeuring van het aangebrachte kanaal en het onverwijld
 16° bemiddelen tussen de bevoegde buitenlandse overheden en de erkende Vlaamse diensten;<br>
 17° het consulteerbaar maken voor adoptieouders van de onderzochte kanalen voor zelfstandige adoptie en van de beoordelingsgronden van de toelaatbaarheid ervan;<br>
 18° proactief kanaalonderzoek op de door de adoptiediensten aangebrachte kanalen, onder meer op basis van adviezen van de Belgische ambassades en consulaten en dit binnen een kwaliteitskader met een duidelijke timing voor de beslissing over een kanaalonderzoek. De Vlaamse Regering bepaalt hiervoor de nadere regels;<br>
-19° de advisering van de erkenning van het Steunpunt Adoptie, de adoptiediensten, de diensten voor maatschappelijk onderzoek en de trefgroepen en de advisering voor het subsidiëren van het Steunpunt Adoptie en de adoptiediensten;<br>
+19° de advisering van de erkenning van het Steunpunt Adoptie, de adoptiediensten, de dienst voor maatschappelijk onderzoek en de trefgroepen en de advisering voor het subsidiëren van het Steunpunt Adoptie en de adoptiediensten;<br>
 20° ter uitvoering van de opdrachten, vastgelegd in de punten 6° tot 13°, werkafspraken maken met de federale overheid en de andere gemeenschappen;<br>
 21° jaarlijks een activiteitenverslag uitbrengen voor 31 mei van het volgend jaar dat wordt bezorgd aan de Vlaamse Regering en het Vlaams Parlement;<br>
 22° ontwikkelen of ondersteunen van programma's in binnen- en buitenland die de doelstellingen ondersteunen van het Verdrag van Den Haag van 29 mei 1993 inzake de internationale samenwerking en de bescherming van kinderen en van het Internationaal Verdrag van 20 november 1989 inzake de Rechten van het Kind, door België geratificeerd en goedgekeurd met de wet van 25 november 1991;<br>
-23° structureel overleg organiseren tussen alle betrokken partners uit het adoptiewerkveld, namelijk het Steunpunt Adoptie, de adoptiediensten, de diensten voor maatschappelijk onderzoek en de trefgroepen.<br>
+23° structureel overleg organiseren tussen alle betrokken partners uit het adoptiewerkveld, namelijk het Steunpunt Adoptie, de adoptiediensten, de dienst voor maatschappelijk onderzoek en de trefgroepen.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regelen met betrekking tot de werking van het Vlaams Centrum voor Adoptie.<br>
 <br>
@@ -204,7 +293,7 @@ De Vlaamse Regering bepaalt de nadere regels met betrekking tot de gegevensregis
 <br>
 § 7. Het Vlaams Centrum voor Adoptie kan voor het realiseren van zijn doelstellingen, al of niet binnen het kader van de regels, vermeld in § 6, alle mogelijke activiteiten van welke aard ook ontwikkelen, opzetten en realiseren.<br>
 <br>
-§ 8. Bij het Vlaams Centrum voor Adoptie wordt een raadgevend comité opgericht, dat advies verstrekt op verzoek van het hoofd van het Vlaams Centrum voor Adoptie. Het raadgevend comité verstrekt tevens op eigen initiatief advies over alle aangelegenheden die van belang zijn voor de taken van het Vlaams Centrum voor Adoptie.<br>
+§ 8. Bij het Vlaams Centrum voor Adoptie wordt een raadgevend comité opgericht, dat advies verstrekt op verzoek van het hoofd van het Vlaams Centrum voor Adoptie. Het raadgevend comité verstrekt tevens op eigen initiatief advies over alle aangelegenheden die van belang zijn voor de taken van het Vlaams Centrum voor Adoptie. Het raadgevend comité kan ethische reflecties uitbrengen over algemene vragen met betrekking tot interlandelijke adoptie.<br>
 <br>
 Het raadgevend comité is samengesteld uit een evenwichtige vertegenwoordiging van de volgende maatschappelijke geledingen van het beleidsveld :<br>
 1° de adoptieouders en de geadopteerden;<br>
@@ -213,7 +302,7 @@ Het raadgevend comité is samengesteld uit een evenwichtige vertegenwoordiging v
 <br>
 Deze vertegenwoordigers worden benoemd op voordracht van de representatieve middenveldorganisaties van de genoemde geledingen.<br>
 <br>
-In het raadgevend comité kunnen ook andere, door de Vlaamse Regering aan te wijzen personen zitting hebben, alsook onafhankelijke deskundigen op het werkterrein van het Vlaams Centrum voor Adoptie.<br>
+In het raadgevend comité zetelt een ethicus en&nbsp;kunnen ook andere, door de Vlaamse Regering aan te wijzen personen zitting hebben, alsook onafhankelijke deskundigen op het werkterrein van het Vlaams Centrum voor Adoptie.<br>
 <br>
 Het lidmaatschap van het raadgevend comité is onverenigbaar met de hoedanigheid van personeelslid van het Vlaams Centrum voor Adoptie.<br>
 <br>
@@ -221,6 +310,12 @@ De Vlaamse Regering stelt de nadere regels voor de samenstelling van het raadgev
 <br>
 Het raadgevend comité stelt een huishoudelijk reglement op en legt het ter goedkeuring voor aan de Vlaamse Regering. Het reglement stelt de praktische werking vast, de deontologie, de informatie- en rapporteringsopdracht van het comité, en de aard van de dossiers en rapporten die aan het raadgevend comité voorgelegd moeten worden.<br>
 &nbsp;
+
+### ART 20/1.
+
+De Vlaamse Regering bepaalt de rechtsgevolgen ten aanzien van kandidaat-adoptanten als een adoptiesamenwerking van een adoptiedienst met een buitenlands kanaal, al dan niet door het Vlaams Centrum voor Adoptie, wordt opgeschort, stopgezet of als niet-actief wordt beschouwd, waaronder de mogelijkheid dat die kandidaat-adoptanten, met respect voor hun individueel opgebouwde wachtanciënniteit, opgenomen worden op een andere wachtlijst voor interlandelijke adoptie.<br>
+<br>
+Een buitenlands kanaal wordt als niet-actief beschouwd indien vanuit dit kanaal gedurende een periode van drie jaar geen kind werd geplaatst bij kandidaat-adoptieouders.
 
 ### ART. 21.
 
@@ -262,7 +357,7 @@ Het raadgevend comité stelt een huishoudelijk reglement op en legt het ter goed
 <br>
 De minderjarige heeft recht op toelichting bij de gegevens waartoe hij toegang heeft. Als bepaalde gegevens ook een derde betreffen en volledige inzage in de gegevens door de minderjarige afbreuk zou doen aan het recht van de derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot deze gegevens verstrekt via een gesprek, gedeeltelijke inzage of rapportage met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming.<br>
 <br>
-§ 5. Elke inzage moet schriftelijk aan de Vlaamse adoptieambtenaar worden gevraagd.&nbsp;Uiterlijk binnen een maand na ontvangst van de aanvraag verleent de Vlaamse adoptieambtenaar inzage van het dossier of brengt hij de verzoeker op de hoogte van zijn gemotiveerde weigering conform de algemene verordening gegevensbescherming. Een kind kan zijn adoptiedossier alleen inzien onder begeleiding.<br>
+§ 5. Elke inzage bij de Vlaamse adoptieambtenaar of een adoptiedienst moet schriftelijk aan de Vlaamse adoptieambtenaar worden gevraagd.&nbsp;Uiterlijk binnen een maand na ontvangst van de aanvraag verleent de Vlaamse adoptieambtenaar inzage van het dossier of brengt hij de verzoeker op de hoogte van zijn gemotiveerde weigering conform de algemene verordening gegevensbescherming. Een kind kan zijn adoptiedossier alleen inzien onder begeleiding.<br>
 <br>
 § 6. Elke geadopteerde kan de Vlaamse adoptieambtenaar verzoeken om verdere informatie over zichzelf op te vragen.<br>
 <br>
@@ -275,7 +370,14 @@ De minderjarige heeft recht op toelichting bij de gegevens waartoe hij toegang h
 
 ### ART. 26.
 
-§ 1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de   naleving van de bepalingen van dit decreet. Het Steunpunt Adoptie, de diensten   voor maatschappelijk onderzoek, de adoptiediensten en de trefgroepen verlenen   hun medewerking aan de uitoefening van het toezicht.<BR><BR>§ 2. Het toezicht   ter plaatse gebeurt door de personeelsleden van Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein. Zij krijgen daartoe de vrije toegang tot de   lokalen van deze diensten. Zij hebben het recht alle administratieve stukken te   raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en   wachtlijsten.<BR><BR>§ 3. De Vlaamse Regering kan boekhoudkundige regels   vastleggen.<BR><BR>§ 4. De Vlaamse Regering kan de regels voor het toezicht en   de bevoegdheid van het Vlaams Centrum voor Adoptie nader   bepalen.<BR><BR>
+§ 1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de naleving van de bepalingen van dit decreet. Het Steunpunt Adoptie, de dienst voor maatschappelijk onderzoek, de adoptiediensten en de trefgroepen verlenen hun medewerking aan de uitoefening van het toezicht.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De Vlaamse Regering kan boekhoudkundige regels vastleggen.<br>
+<br>
+§ 4. De Vlaamse Regering kan de regels voor het toezicht en de bevoegdheid van het Vlaams Centrum voor Adoptie nader bepalen.<br>
+&nbsp;
 
 ## HOOFDSTUK 10 Strafbepalingen
 
