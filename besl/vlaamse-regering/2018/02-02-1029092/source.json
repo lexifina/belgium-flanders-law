@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029092,
+  "title": "Besluit van de Vlaamse Regering van 2018-02-02 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de toegepaste architectuur als nieuwe opleiding van Thomas More Mechelen-Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029092/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "849554e0b8b2f8d508d4522d4bb5023f3d3c186250accea942fb64ab3fb1ed0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029092&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-02-02",
+  "gazette": "2018-03-05",
+  "numac": 2018010906,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
