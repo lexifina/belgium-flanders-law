@@ -2322,11 +2322,18 @@ Overeenkomstig artikel 3, 4°, van de bijzondere wet van 16 januari 1989   betre
 
 ### ART. 2.7.1.0.2.
 
-De erfbelasting is verschuldigd ongeacht of de verkrijging gebeurt   ingevolge wettelijke devolutie, uiterste wilsbeschikking of contractuele   erfstelling.
+De erfbelasting is verschuldigd ongeacht of de verkrijging gebeurt ingevolge wettelijke devolutie, uiterste wilsbeschikking of contractuele erfstelling.<br>
+<br>
+Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 858bis, § 3 en § 4, van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende aan het vruchtgebruik heeft verzaakt conform paragraaf 5 van het voormelde artikel.
 
 ### ART. 2.7.1.0.3.
 
-Worden met het oog op de heffing van het successierecht als legaten   beschouwd :<BR>1° alle schulden die uitsluitend bij uiterste wil erkend   zijn;<BR>2° alle schuldbekentenissen van sommen die voorkomen als een contract   onder bezwarende titel, maar die een bevoordeling inhouden en die niet aan de   schenkbelasting of het registratierecht op de schenkingen zijn   onderworpen;<BR>3° alle schenkingen van roerende goederen die de erflater heeft   gedaan onder de opschortende voorwaarde of termijn die vervuld wordt ingevolge   het overlijden van de schenker.
+Worden met het oog op de heffing van het successierecht als legaten beschouwd :<br>
+1° alle schulden die uitsluitend bij uiterste wil erkend zijn;<br>
+2° alle schuldbekentenissen van sommen die voorkomen als een contract onder bezwarende titel, maar die een bevoordeling inhouden en die niet aan de schenkbelasting of het registratierecht op de schenkingen zijn onderworpen;<br>
+3° alle schenkingen van roerende goederen die de erflater heeft gedaan onder de opschortende voorwaarde of termijn die vervuld wordt ingevolge het overlijden van de schenker.<br>
+<br>
+Het eerste lid, 3°, is niet van toepassing bij de realisatie van een beding van terugval die de erflater heeft bedongen in het voordeel van een derde voor een vruchtgebruik dat de erflater zich heeft voorbehouden.
 
 ### ART. 2.7.1.0.4.
 
@@ -2394,7 +2401,9 @@ De belastingplichtige is degene die erfgenaam, legataris of begiftigde is of, in
 
 ### ART. 2.7.3.1.1.
 
-Het successierecht wordt gevestigd op de waarde van alles wat uit de   nalatenschap van een rijksinwoner wordt verkregen.<BR><BR>Het recht van overgang   gevestigd op de waarde van de onroerende goederen die in België liggen en   verkregen worden uit de nalatenschap van iemand die geen rijksinwoner   is.
+Het successierecht wordt gevestigd op de waarde van alles wat uit de nalatenschap van een rijksinwoner wordt verkregen overeenkomstig afdeling 1 van dit hoofdstuk.<br>
+<br>
+Het recht van overgang wordt gevestigd op de waarde van de onroerende goederen die in België liggen en verkregen werden overeenkomstig afdeling 1 van dit hoofdstuk uit de nalatenschap van iemand die geen rijksinwoner is.
 
 ## [Onderafdeling 2. Actief van de nalatenschap (ing. Decr.19 december 2014, art. 20, I: 1 januari 2015)]
 
@@ -2424,7 +2433,7 @@ Voor de heffing van het successierecht wordt het volgende, behoudens   tegenbewi
 
 ### ART. 2.7.3.2.7.
 
-Voor de inning van het successierecht in rechte nederdalende lijn of   tussen echtgenoten met gemeenschappelijke kinderen of afstammelingen worden de   terugnemingen en vergoedingen die verbonden zijn hetzij aan de gemeenschap die   heeft bestaan tussen de erflater en een echtgenoot, met wie de erflater bij het   overlijden levende kinderen of afstammelingen heeft, hetzij aan de gemeenschap   die tussen de verwanten in de opgaande lijn van de erflater heeft bestaan, niet   in aanmerking genomen.<BR><BR>De vergoeding, verschuldigd aan de gemeenschap uit   hoofde van een op derden onoverdraagbaar maatschappelijk aandeel waarop door een   van de echtgenoten is ingeschreven en die door hem of door zijn erfgenamen bij   de ontbinding van de gemeenschap is teruggenomen, wordt niet beschouwd als   terugneming of vergoeding die onder de toepassing van dit artikel   valt.
+Voor de inning van het successierecht in rechte nederdalende lijn of tussen echtgenoten met gemeenschappelijke kinderen of afstammelingen worden de terugnemingen en vergoedingen die verbonden zijn hetzij aan de gemeenschap die heeft bestaan tussen de erflater en een echtgenoot, met wie de erflater bij het overlijden levende kinderen of afstammelingen heeft, hetzij aan de gemeenschap die tussen de verwanten in de opgaande lijn van de erflater heeft bestaan, niet in aanmerking genomen.
 
 ### ART. 2.7.3.2.8.
 
@@ -2454,7 +2463,13 @@ Als in de gevallen, vermeld in artikel 2.7.1.0.7, 2.7.1.0.8 en 2.7.1.0.9,   niet
 
 ### ART. 2.7.3.2.12.
 
-§ 1. Op hetgeen een gehandicapte persoon of een gehandicapt kind   verkrijgt, wordt een abattement toegepast voor de som die verkregen is door   toepassing van de volgende formule :<BR>1° (3000 euro) x (cijfer, aangeduid in   artikel 2.7.3.3.2, eerste lid, 5°, volgens de leeftijd van de verkrijger) als de   verkrijging onderworpen is aan het tarief, vermeld in tabel I van artikel   2.7.4.1.1;<BR>2° (1000 euro) x (cijfer, aangeduid in artikel 2.7.3.3.2, eerste   lid, 5°, volgens de leeftijd van de verkrijger) als de verkrijging onderworpen   is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1.<BR><BR>§ 2. Als   een gehandicapte persoon of een gehandicapt kind als vermeld in paragraaf 1,   onderworpen is aan het tarief, vermeld in tabel I van artikel 2.7.4.1.1, wordt   het bedrag van het abattement eerst toegerekend op zijn netto onroerend aandeel,   vervolgens op zijn netto roerend aandeel en bij uitputting van dat aandeel tot   slot op de belastbare grondslag waarop het verlaagde tarief voor familiale   ondernemingen en vennootschappen, met toepassing van artikel 2.7.4.2.2, wordt   berekend.<BR><BR>Als een gehandicapte persoon of een gehandicapt kind als   vermeld in paragraaf 1, samen met personen op wie het tarief `tussen anderen'   van toepassing is, onderworpen is aan het tarief, vermeld in tabel II van   artikel 2.7.4.1.1, wordt, in afwijking van artikel 2.7.4.1.1, de belasting voor   de gehandicapte persoon of het gehandicapte kind berekend alsof hij als enige   voor de nettoverkrijging van de nalatenschap in aanmerking komt. Voor de andere   verkrijgers wordt conform artikel 2.7.4.1.1 de belasting berekend alsof de   gehandicapte persoon of het gehandicapte kind die hoedanigheid niet   heeft.
+§ 1. Op hetgeen een gehandicapte persoon of een gehandicapt kind verkrijgt, wordt een abattement toegepast voor de som die verkregen is door toepassing van de volgende formule :<br>
+1° (3000 euro) x (cijfer, aangeduid in artikel 2.7.3.3.2, eerste lid, 5°, volgens de leeftijd van de verkrijger) als de verkrijging onderworpen is aan het tarief, vermeld in tabel I van artikel 2.7.4.1.1;<br>
+2° (1000 euro) x (cijfer, aangeduid in artikel 2.7.3.3.2, eerste lid, 5°, volgens de leeftijd van de verkrijger) als de verkrijging onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1.<br>
+<br>
+§ 2. Als een gehandicapte persoon of een gehandicapt kind als vermeld in paragraaf 1, onderworpen is aan het tarief, vermeld in tabel I van artikel 2.7.4.1.1, wordt het bedrag van het abattement&nbsp;eerst toegerekend op zijn overeenkomstig artikel 2.7.4.1.1, § 2, derde lid, of artikel 2.7.6.0.6 niet vrijgestelde gedeelte van het netto onroerend aandeel, vervolgens op zijn overeenkomstig artikel 2.7.6.0.6 niet vrijgestelde gedeelte van het netto roerend aandeel en bij uitputting van dat aandeel tot slot op de belastbare grondslag waarop het verlaagde tarief voor familiale ondernemingen en vennootschappen, met toepassing van artikel 2.7.4.2.2, wordt berekend.<br>
+<br>
+Als een gehandicapte persoon of een gehandicapt kind als vermeld in paragraaf 1, samen met personen op wie het tarief `tussen anderen' van toepassing is, onderworpen is aan het tarief, vermeld in tabel II van artikel 2.7.4.1.1, wordt, in afwijking van artikel 2.7.4.1.1, de belasting voor de gehandicapte persoon of het gehandicapte kind berekend alsof hij als enige voor de nettoverkrijging van de nalatenschap in aanmerking komt. Voor de andere verkrijgers wordt conform artikel 2.7.4.1.1 de belasting berekend alsof de gehandicapte persoon of het gehandicapte kind die hoedanigheid niet heeft.
 
 ### ART. 2.7.3.2.13.
 
@@ -2550,23 +2565,23 @@ Als de langstlevende partner een deel verkrijgt in de gezinswoning, wordt zijn a
 
 ### ART. 2.7.4.1.1.
 
-§ 1. De erfbelasting wordt berekend volgens het tarief, vermeld in de onderstaande tabellen :<br>
-<br>
+§ 1. De erfbelasting wordt berekend volgens het tarief, vermeld in de volgende tabellen:<br>
 &nbsp;
-<table border="1">
+<table>
 	<tbody>
 		<tr>
-			<td colspan="4">TABEL I<br>
-			tarief voor een verkrijging in rechte lijn en tussen partners</td>
+			<td colspan="4">TABEL I. Tarief voor een verkrijging in rechte lijn en tussen partners</td>
 		</tr>
 		<tr>
-			<td colspan="2">A Schijf in euro</td>
-			<td rowspan="2">tarief, toepasselijk op het overeenstemmende gedeelte in kolom A, in %</td>
-			<td rowspan="2">totaalbedrag van de belasting op de voorgaande gedeelten, in euro</td>
+			<td colspan="2">A schijf in euro</td>
+			<td>tarief, toepasselijk op het overeenstemmende gedeelte in kolom A, in %</td>
+			<td>totaalbedrag van de belasting op de voorgaande gedeelten, in euro</td>
 		</tr>
 		<tr>
-			<td>Vanaf</td>
+			<td>vanaf</td>
 			<td>tot en met</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>0,01</td>
@@ -2578,30 +2593,30 @@ Als de langstlevende partner een deel verkrijgt in de gezinswoning, wordt zijn a
 			<td>50.000,01</td>
 			<td>250.000</td>
 			<td>9</td>
-			<td>1.500</td>
+			<td>1500</td>
 		</tr>
 		<tr>
 			<td>250.000,01</td>
 			<td>&nbsp;</td>
-			<td>27</td>
+			<td>&nbsp;27</td>
 			<td>19.500</td>
 		</tr>
 	</tbody>
 </table>
-<br>
-<table border="1">
+&nbsp;
+
+<table>
 	<tbody>
 		<tr>
-			<td colspan="6">TABEL II<br>
-			tarief voor een andere verkrijging dan de verkrijgingen, vermeld in tabel I</td>
+			<td colspan="6">TABEL II. Tarief voor een andere verkrijging dan de verkrijgingen, vermeld in tabel I</td>
 		</tr>
 		<tr>
-			<td colspan="2">A Schijf in euro</td>
+			<td colspan="2">A schijf in euro</td>
 			<td colspan="2">tarief, toepasselijk op het overeenstemmende gedeelte in kolom A, in %</td>
 			<td colspan="2">totaalbedrag van de belasting op de voorgaande gedeelten, in euro</td>
 		</tr>
 		<tr>
-			<td>Vanaf</td>
+			<td>vanaf</td>
 			<td>tot en met</td>
 			<td>tussen broers en zussen</td>
 			<td>tussen anderen</td>
@@ -2610,27 +2625,27 @@ Als de langstlevende partner een deel verkrijgt in de gezinswoning, wordt zijn a
 		</tr>
 		<tr>
 			<td>0,01</td>
+			<td>35.000</td>
+			<td>25</td>
+			<td>25</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>35.000,01</td>
 			<td>75.000</td>
 			<td>30</td>
 			<td>45</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>8750</td>
+			<td>8750</td>
 		</tr>
 		<tr>
 			<td>75.000,01</td>
-			<td>125.000</td>
-			<td>55</td>
-			<td>55</td>
-			<td>22.500</td>
-			<td>33.750</td>
-		</tr>
-		<tr>
-			<td>125.000,01</td>
 			<td>&nbsp;</td>
-			<td>65</td>
-			<td>65</td>
-			<td>50.000</td>
-			<td>61.250</td>
+			<td>&nbsp;55</td>
+			<td>55</td>
+			<td>20.750</td>
+			<td>26.750</td>
 		</tr>
 	</tbody>
 </table>
@@ -2641,7 +2656,7 @@ Dit tarief wordt per rechtverkrijgende toegepast op de nettoverkrijging in de on
 <br>
 In afwijking van het tweede lid wordt het tarief van de erfbelasting voor de onroerende goederen tussen partners alleen toegepast op de nettoverkrijging van de rechtverkrijgende partner in de andere goederen dan de woning die de gezinswoning was van de erflater en zijn partner op het ogenblik van het overlijden. Die afwijking geldt evenwel niet als de partner die een deel verkrijgt in die gezinswoning, een bloedverwant in de rechte lijn van de erflater is of een rechtverkrijgende is die voor de toepassing van het tarief met een rechtverkrijgende in de rechte lijn wordt gelijkgesteld.<br>
 <br>
-§ 3. Tabel II, vermeld in paragraaf 1, bevat het tarief voor een verkrijging tussen andere personen dan personen in rechte lijn en tussen partners. Dit tarief wordt voor broers en zussen toegepast op het overeenstemmende gedeelte van de nettoverkrijging van elk van de rechtverkrijgenden, zoals bepaald in kolom A. Voor alle anderen wordt dit tarief toegepast op het overeenstemmende gedeelte van de som van de nettoverkrijgingen door de rechtverkrijgenden van deze groep.
+§ 3. Tabel II, vermeld in paragraaf 1, bevat het tarief voor een verkrijging tussen andere personen dan personen in rechte lijn en tussen partners. Dit tarief wordt voor broers en zussen toegepast op het overeenstemmende gedeelte van de nettoverkrijging van elk van de rechtverkrijgenden, zoals bepaald in kolom A. Voor alle anderen wordt dit tarief toegepast op het overeenstemmende gedeelte van de som van de nettoverkrijgingen door de rechtverkrijgenden van deze groep.&nbsp;
 
 ### ART. 2.7.4.1.2.
 
@@ -2681,7 +2696,19 @@ In afwijking van artikel 2.7.4.1.1 bedraagt het tarief van de erfbelasting   8,5
 
 ### ART. 2.7.5.0.1.
 
-§ 1. De erfbelasting, verschuldigd uit hoofde van een verkrijging in de   rechte lijn of tussen partners wordt verminderd met 500 euro, vermenigvuldigd   met [1 - (nettoverkrijging / 50.000)], als de nettoverkrijging van roerende en   onroerende goederen samen niet meer bedraagt dan 50.000 euro.<BR><BR>Voor de   bepaling van de nettoverkrijging, vermeld in het eerste lid, wordt geen rekening   gehouden met het aandeel dat de partner verkrijgt in de gezinswoning dat   ingevolge de toepassing van artikel 2.7.4.1.1, § 2, derde lid, niet onderworpen   is aan erfbelasting.<BR><BR>De erfbelasting, verschuldigd uit hoofde van een   verkrijging door een broer of zus, wordt verminderd met 2500 euro,   vermenigvuldigd met [1 - (nettoverkrijging / 75.000)], als de nettoverkrijging   groter is dan 18.750 euro en niet meer bedraagt dan 75.000 euro. Als de   nettoverkrijging kleiner is dan of gelijk is aan 18.750 euro, wordt die   belasting verminderd met 2000 euro, vermenigvuldigd met (nettoverkrijging /   20.000).<BR><BR>De erfbelasting, verschuldigd uit hoofde van de som van de   nettoverkrijgingen door andere personen dan erfgenamen in de rechte lijn, de   partners of broers en zussen, wordt verminderd met 2400 euro, vermenigvuldigd   met [1 - (som van de nettoverkrijgingen / 75.000)], als de som van hun   nettoverkrijgingen groter is dan 12.500 euro en niet meer bedraagt dan 75.000   euro. Als de som van hun nettoverkrijgingen kleiner is dan of gelijk is aan   12.500 euro, wordt die belasting verminderd met 2000 euro, vermenigvuldigd met   (som van de nettoverkrijgingen / 12.500). De overeenkomstig dit lid verkregen   vermindering komt toe aan de betrokken erfgenamen in verhouding tot hun aandeel   in de som van de nettoverkrijgingen.<BR><BR>Voor de bepaling van de   nettoverkrijging, vermeld in het eerste tot en met het vierde lid, wordt geen   rekening gehouden met het abattement, vermeld in artikel 2.7.3.2.12. Het bedrag   van de vermindering kan in voorkomend geval niet meer bedragen dan de   erfbelasting, verschuldigd na de toekenning van het abattement, vermeld in   artikel 2.7.3.2.12.<BR><BR>§ 2. Als voor dezelfde nalatenschap zowel de   vermindering, vermeld in paragraaf 1, als de vermindering, vermeld in artikel   2.7.5.0.3, genoten kan worden, wordt de vermindering, vermeld in paragraaf 1,   eerst toegepast.
+§ 1. De erfbelasting, verschuldigd uit hoofde van een verkrijging in de rechte lijn of tussen partners wordt verminderd met 500 euro, vermenigvuldigd met [1 - (nettoverkrijging / 50.000)], als de nettoverkrijging van roerende en onroerende goederen samen niet meer bedraagt dan 50.000 euro.<br>
+<br>
+Voor de bepaling van de nettoverkrijging, vermeld in het eerste lid, wordt geen rekening gehouden met het aandeel dat de partner verkrijgt in de gezinswoning dat ingevolge de toepassing van artikel 2.7.4.1.1, § 2, derde lid, niet onderworpen is aan erfbelasting.<br>
+<br>
+De erfbelasting, verschuldigd uit hoofde van een verkrijging door een broer of zus, wordt verminderd met een bedrag gelijk aan hetzij:<br>
+1° 2.000 euro, vermenigvuldigd met (nettoverkrijging/20.000 euro), wanneer de nettoverkrijging kleiner is dan of gelijk is aan 18.750 euro;<br>
+2° 2.500 euro, vermenigvuldigd met [1-(nettoverkrijging/75.000 euro)], wanneer de nettoverkrijging groter is dan 18.750 euro en niet meer bedraagt dan 75.000 euro.<br>
+<br>
+Voor de erfbelasting verschuldigd door andere personen dan erfgenamen in de rechte lijn, de partners of broers en zussen, wordt eenzelfde vermindering toegepast als berekend overeenkomstig het derde lid waarbij onder de nettoverkrijging moet begrepen worden: de som van de nettoverkrijgingen.<br>
+<br>
+Voor de bepaling van de nettoverkrijging, vermeld in het eerste tot en met het vierde lid, wordt geen rekening gehouden met het abattement, vermeld in artikel 2.7.3.2.12. Het bedrag van de vermindering kan in voorkomend geval niet meer bedragen dan de erfbelasting, verschuldigd na de toekenning van het abattement, vermeld in artikel 2.7.3.2.12.<br>
+<br>
+§ 2. Als voor dezelfde nalatenschap zowel de vermindering, vermeld in paragraaf 1, als de vermindering, vermeld in artikel 2.7.5.0.3, genoten kan worden, wordt de vermindering, vermeld in paragraaf 1, eerst toegepast.
 
 ### ART. 2.7.5.0.2.
 
@@ -2729,6 +2756,14 @@ De waarde van de zaken die ascendenten verkrijgen uit de nalatenschap van   de e
 § 2. De vrijstelling, vermeld in paragraaf 1, is ook van toepassing als er nog geen natuurbeheerplan is afgesloten, en als de erflater een intentieovereenkomst met het Agentschap voor Natuur en Bos heeft afgesloten of als de erfgenaam, legataris of begiftigde de intentie heeft om op het onroerend goed een natuurbeheerplan type twee, drie of vier als vermeld in artikel 16ter, § 1, 2°, 3° en 4°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, tot stand te brengen.<br>
 <br>
 De vrijstelling, vermeld in het eerste lid, wordt aan de erfgenaam, legataris of begiftigde verleend als de erfgenaam, legataris of begiftigde binnen een termijn van zes maanden na het openvallen van de nalatenschap een overeenkomst heeft gesloten met het Agentschap voor Natuur en Bos, waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren. In voorkomend geval dient deze overeenkomst gezamenlijk te zijn afgesloten met alle andere houders van zakelijke rechten op het desbetreffende goed.
+
+### ART 2.7.6.0.6.
+
+§ 1. Voor de toepassing van het tarief, vermeld in artikel 2.7.4.1.1, § 1, in rechte nederdalende lijn, en voor zover de andere ouder van het betrokken kind reeds vooroverleden is, wordt de eerste schijf van 75.000 euro in de nettoverkrijging van het rechtverkrijgende kind onder de 21 jaar van de roerende goederen vrijgesteld van het successierecht.<br>
+<br>
+In afwijking van artikel 2.7.4.1.1, § 2, tweede lid, en voor zover de andere ouder van het betrokken kind reeds vooroverleden is, wordt het tarief van de erfbelasting voor de onroerende goederen in rechte lijn niet toegepast op de nettoverkrijging van het rechtverkrijgende kind onder de 21 jaar in de woning die op het ogenblik van het overlijden van de langstlevende ouder de woning was waar de erflater gedomicilieerd was op het moment van overlijden.<br>
+<br>
+§ 2. Voor de toepassing van het tarief, vermeld in artikel 2.7.4.1.1, § 1, tussen partners wordt de eerste schijf van 50.000 euro in de nettoverkrijging van de rechtverkrijgende partner van de roerende goederen vrijgesteld van het successierecht. Die vrijstelling geldt niet als de rechtverkrijgende partner een bloedverwant in de rechte lijn van de erflater is of een rechtverkrijgende is die voor de toepassing van het tarief met een rechtverkrijgende in de rechte lijn wordt gelijkgesteld.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 73, I: 1 januari 2015)]
 
@@ -2802,6 +2837,12 @@ Het eerste lid is niet van toepassing op:<br>
 ### ART. 2.8.3.0.4.
 
 Op hetgeen aan een gehandicapte persoon of een gehandicapt kind geschonken   wordt, wordt een abattement toegepast aan de voet van de belastbare grondslag,   voor de som die verkregen is door toepassing van de volgende formule :<BR>1°   (3000 euro) x (cijfer, aangeduid in artikel 2.7.3.3.2, eerste lid, 5°, volgens   de leeftijd van de verkrijger) als de schenking onderworpen is aan het tarief   voor verkrijgingen in de rechte lijn en tussen partners, vermeld in artikel   2.8.4.1.1, § 1, of artikel 2.8.4.2.1;<BR>2° (1000 euro) x (cijfer, aangeduid in   artikel 2.7.3.3.2, eerste lid, 5°, volgens de leeftijd van de verkrijger) als de   schenking onderworpen is aan het tarief voor verkrijgingen tussen alle andere   personen, vermeld in artikel 2.8.4.1.1, § 1, of artikel 2.8.4.2.1.<BR><BR>Het   abattement, vermeld in het eerste lid, wordt slechts toegepast als tussen de   schenker en de begiftigde nog geen schenkingen zijn voorgekomen waarbij van deze   vermindering van belastbare grondslag werd genoten.
+
+### ART 2.8.3.0.5.
+
+Een akte die een door de wet toegelaten erfovereenkomst vaststelt, strekt voor de toepassing van de schenkbelasting niet tot bewijs van een schenking die in die overeenkomst wordt vermeld en die niet aan de formaliteit van de registratie is onderworpen, en waarvan de partijen in of onderaan de akte bevestigen dat die heeft plaatsgevonden vóór de datum waarop die overeenkomst gesloten werd.<br>
+<br>
+In afwijking van het eerste lid kunnen de partijen of een van hen in een uitdrukkelijke fiscale verklaring in of onderaan de akte te kennen geven dat de vermelding van een dergelijke schenking wel tot bewijs strekt voor de toepassing van de schenkbelasting.
 
 ## [Afdeling 4. Tarieven (ing. Decr. 19 december 2014, art. 87, I: 1 januari 2015)]
 
@@ -3150,6 +3191,35 @@ Voor de toepassing van artikel 2.8.6.0.3 en artikel 2.8.6.0.6., § 1, 2°,   moe
 De vrijstelling, vermeld in het eerste lid, wordt verleend op voorwaarde dat uiterlijk bij de aanbieding ter registratie van de authentieke schenkingsakte een overeenkomst is gesloten met het Agentschap voor Natuur en Bos waaruit de intentie blijkt om een natuurbeheerplan voor het onroerend goed te laten goedkeuren.<br>
 <br>
 § 3. Voor de toepassing van dit artikel moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1, 4°, en § 5,&nbsp;vierde en vijfde lid.
+
+### ART 2.8.6.0.9.
+
+Als de waarde van de goederen die belast is met de erfbelasting, of een deel van deze goederen, binnen het jaar na het overlijden van de erflater, door een verkrijger van wie de verkrijging belast werd aan het tarief voor een verkrijging in de rechte lijn en tussen partners, bij notariële akte wordt geschonken aan een of meer van zijn afstammelingen of aan een of meer personen die voor de toepassing van de schenkbelasting met afstammelingen worden gelijkgesteld, wordt de schenking vrijgesteld van de schenkbelasting in de mate dat de waarde van de geschonken goederen de brutowaarde van de met erfbelasting belaste goederen niet te boven gaat.<br>
+<br>
+In voorkomend geval wordt het bedrag van de vrijstelling, vermeld in het eerste lid, beperkt met toepassing van de volgende formule: X = a x b/c, waarbij de parameters als volgt worden gedefinieerd:<br>
+1° a = het bedrag van de schenkbelasting zonder de toepassing van de vrijstelling;<br>
+2° b = het gedeelte van de schenking dat overeenstemt met de met erfbelasting belaste brutowaarde;<br>
+3° c = de totale belastbare grondslag van de schenking.<br>
+<br>
+Het bedrag van de vrijstelling, vermeld in het eerste lid, kan nooit hoger zijn dan het bedrag van de erfbelasting dat geheven werd op de overdracht aan de schenker. Als de schenker meer dan één schenking doet zoals vermeld in het eerste lid, wordt het maximumbedrag van de vrijstelling beoordeeld voor alle schenkingen samen.<br>
+<br>
+In voorkomend geval wordt het bedrag van de erfbelasting, vermeld in het derde lid, beperkt met toepassing van de volgende formule: X = a x b/c, waarbij de parameters als volgt worden gedefinieerd:<br>
+1° a = het bedrag van de erfbelasting berekend in hoofde van de schenker op de betrokken categorie goederen;<br>
+2° b = het gedeelte van de schenking dat overeenstemt met de met erfbelasting belaste brutowaarde;<br>
+3° c = de brutowaarde van de met erfbelasting belaste goederen in de betrokken categorie.<br>
+<br>
+Het bedrag van de erfbelasting, vermeld in het derde lid, dat geheven werd op de overdracht aan de schenker is het bedrag dat op regelmatige wijze in hoofde van deze persoon werd geheven op zicht van de aangifte die werd ingediend bij toepassing van artikel 3.3.1.0.5.<br>
+<br>
+Voor schenkingen onderworpen aan het tarief, vermeld in artikel 2.8.4.1.1, § 1, of artikel 2.8.4.2.1, kan de vrijstelling niet verleend worden in de mate deze schenking een onroerend goed tot voorwerp heeft dat geen deel uitmaakte van de verkrijging bij het overlijden, vermeld in het eerste lid.<br>
+<br>
+Voor de toepassing van de vrijstelling, vermeld in het eerste lid, is vereist dat:<br>
+1° de nalatenschap van de erflater waaruit de waarde van de geschonken goederen werd verkregen fiscaal gelokaliseerd is in het Vlaamse Gewest;<br>
+2° het overlijden heeft plaatsgevonden na 31 augustus 2018;<br>
+3° de erfbelasting die werd geheven op de overdracht, is betaald;<br>
+4° de schenking noch aan een opschortende voorwaarde, noch aan een opschortende termijn is onderworpen;<br>
+5° de vrijstelling wordt gevraagd overeenkomstig artikel 3.12.3.0.1, § 1, 3° en 4°.<br>
+<br>
+Voor de toepassing van dit artikel moet onder brutowaarde worden begrepen: de belastbare waarde van de betrokken goederen voor de heffing van de erfbelasting, vóór enige aftrek van passief.
 
 ## [Afdeling 7. Wijze van heffing (ing. Decr. 19 december 2014, art. 105, I: 1 januari 2015)]
 
@@ -3960,7 +4030,10 @@ g) de vrijstelling, vermeld in artikel 2.7.6.0.2;<br>
 h) de vrijstelling, vermeld in artikel 2.7.6.0.3. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 13bis van het Bosdecreet van 13 juni 1990 en dat voldaan is aan de voorwaarden van artikel 2.7.6.0.3, tweede lid;<br>
 i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
 j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
-k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte.<br>
+k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte;<br>
+15° in voorkomend geval de erfovereenkomst, vermeld in artikel 1100/7 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
+16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis, § 3 en § 4, van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd;<br>
+17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
 <br>
 Als het successierecht verschuldigd is, bevat de aangifte bovendien de uitdrukkelijke vermelding van het adres en de datum en duur van de vestiging van de verschillende fiscale woonplaatsen die de erflater of de afwezige gehad heeft in de periode van vijf jaar voorafgaand aan zijn overlijden of aan het tijdstip waarop het laatste bericht van de afwezige werd ontvangen.<br>
 <br>
@@ -4883,7 +4956,7 @@ Als openbare of private kredietinstellingen of -inrichtingen kredieten,   lening
 1° de voorwaarden van het abattement, vermeld in artikel 2.8.3.0.4, vervuld zijn;<br>
 2° de voorwaarden van het verlaagde tarief dat ze willen verkrijgen, vervuld zijn;<br>
 3° de voorwaarden van hetzij de vermindering, hetzij de vrijstelling die ze willen verkrijgen, vervuld zijn of vervuld zullen worden;<br>
-4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.9.3.0.2, artikel 2.9.3.0.3, artikel 2.9.4.2.1, artikel 2.9.4.2.10, artikel 2.9.5.0.1, artikel 2.8.6.0.8, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2, artikel 2.9.6.0.7, artikel 2.10.3.0.2, artikel 2.10.4.0.1, tweede lid,&nbsp;artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
+4° ze de toepassing vragen van artikel 2.8.6.0.3, artikel 2.8.6.0.9, artikel 2.9.4.2.10, artikel 2.9.4.2.11, artikel 2.9.4.2.12, artikel 2.9.4.2.13, artikel 2.9.4.2.14, artikel 2.9.5.0.1, artikel 2.9.6.0.1, eerste lid, 4°, artikel 2.9.6.0.2, artikel 2.10.4.0.1, tweede lid, artikel 2.10.6.0.1, eerste lid, 2°, of artikel 2.10.6.0.2;<br>
 5° het geschonken onroerend goed een beschermd monument is en dat het voornemen bestaat toepassing te vragen van artikel 2.8.4.4.1.<br>
 <br>
 § 2. Als partijen de toepassing vragen van het abattement, vermeld in artikel 2.10.3.0.2, maken ze ook melding van het aantal kinderen die recht geven op een verhoging van het bedrag, vermeld in dat artikel, met vermelding van hun naam, geboortedatum en afstammingsband.<br>
