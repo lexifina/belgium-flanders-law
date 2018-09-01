@@ -436,6 +436,10 @@ In artikel 53/1, § 2, van het decreet van 4 april 2003 betreffende de   herstru
 
 In artikel 62 van hetzelfde decreet, gewijzigd bij de decreten van 16 juni   2006, 8 mei 2009, 30 april 2009, 1 juli 2011 en 6 juli 2012, worden de volgende   wijzigingen aangebracht :<BR>1° in paragraaf 1, tweede lid, wordt een zin   toegevoegd, die luidt als volgt :<BR>« Dit geldt ook voor de ambtshalve   geregistreerde instellingen die in overeenstemming met artikel 53bis een nieuwe   opleiding buiten het Belgische grondgebied willen starten. »;<BR>2° in paragraaf   3 wordt in 4°, de tweede zin geschrapt.<BR>
 
+### ART. V.21.
+
+Aan artikel 63septies van hetzelfde decreet, ingevoegd bij het decreet van   9 juli 2010, wordt in paragraaf 1 een tweede lid toegevoegd, dat luidt als volgt   :<BR>« De studieomvang van de master in de huisartsgeneeskunde en van de master   in de specialistische geneeskunde wordt uitgebreid tot 180 studiepunten. Deze   uitgebreide studieomvang geldt voor alle studenten die zich voor de eerste keer   inschrijven in deze masteropleidingen vanaf het academiejaar 2018-2019 na het   voltooien van een masterop- leiding in de geneeskunde met een studieomvang van   180 studiepunten. ». <BR>
+
 ## Afdeling V Decreet betreffende de rechtspositieregeling van de student
 
 ### ART. V.22.
