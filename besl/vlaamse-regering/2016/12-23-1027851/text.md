@@ -216,9 +216,9 @@ Als de trajectbegeleider van het gemandateerde OCMW niet het OCMW is dat bevoegd
 
 ### ART 16.
 
-De trajectbegeleider kan het instrument van de oriënterende stage, vermeld in titel II, hoofdstuk II, afdeling III, van het besluit van 5 juni 2009, inzetten als aan de volgende voorwaarden is voldaan:<br>
+De trajectbegeleider kan het instrument van de beroepsverkennende stage, vermeld in titel II, hoofdstuk II, afdeling III, van het besluit van 5 juni 2009, inzetten als aan de volgende voorwaarden is voldaan:<br>
 1° het instrument wordt ingezet aan het begin van het traject, bij voorkeur als eerste instrument van het traject tijdelijke werkervaring. Uitzonderlijk kan de trajectbegeleider daarvan afwijken als hij op een later tijdstip een behoefte aan oriëntering of heroriëntering bij de werkzoekende vaststelt;<br>
-2° verschillende oriënterende stages zijn alleen mogelijk als de gecumuleerde duur van die stages niet meer dan dertig dagen bedraagt.<br>
+2° verschillende beroepsverkennende stages zijn alleen mogelijk als de gecumuleerde duur van die stages niet meer dan dertig dagen bedraagt.<br>
 &nbsp;
 
 ### ART 17.
