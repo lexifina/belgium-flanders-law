@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029586,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-08 betreffende de individuele concordantie in het deeltijds kunstonderwijs en tot wijziging van het besluit van de Vlaamse Regering van 1 september 2006 betreffende de ambtshalve concordantie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029586/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "f58f710d2019c97a75473443e4ca2526a3ed93d2f2de66a5d7b3e0f9376e7491",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029586&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-06-08",
+  "gazette": "2018-08-01",
+  "numac": 2018040469,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
