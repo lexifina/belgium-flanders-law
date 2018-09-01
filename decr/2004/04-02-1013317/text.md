@@ -122,7 +122,22 @@ Indien een schoolbestuur een overleg vraagt over een ontwerp van beslissing die 
 
 ### ART. 21.
 
-<P>Het schoolbestuur of zijn gemandateerde legt ieder ontwerp van beslissing   voor overleg aan de schoolraad voor als dat betrekking heeft op:<BR>1° de   bepaling van het profiel van de directeur;<BR>2° het studieaanbod;<BR>3° het   aangaan van samenwerkingsverbanden met andere schoolbesturen en met externe   instanties;<BR>4° de opstapplaatsen en de busbegeleiding in het kader van het   door het schoolbestuur aangeboden vervoer;<BR>5° de vaststelling van het   nascholingsbeleid;<BR>6° het beleid met betrekking tot experimenten en   projecten;<BR>7° het opstellen of wijzigen van de volgende regelingen:<BR>a) het   schoolreglement;<BR>b) het schoolwerkplan in het basisonderwijs;<BR>c) het   beleidsplan of het beleidscontract dat de samenwerking regelt tussen de school   en het centrum voor leerlingenbegeleiding;<BR>8° de infrastructuurwerken die   niet onder het toepassingsgebied vallen van artikel 26, § 1, 1°, a) en c), van   de wet van 15 juni 2006 betreffende de overheidsopdrachten en bepaalde   opdrachten voor werken, leveringen en diensten;<BR>9° de vaststelling van de   criteria voor de aanwending van lestijden, uren, uren-leraar en punten;<BR>10°   het welzijns-, veiligheids- en gezondheidsbeleid van de school ten aanzien van   de leerlingen, met inbegrip van het in eigen beheer of door derden verstrekken   van gezonde en evenwichtige schoolmaaltijden;<BR>11° het beleid met betrekking   tot interne kwaliteitszorg, met inbegrip van de bespreking van de resultaten van   een schooldoorlichting;<BR>12° het gelijke-onderwijskansenbeleid in het   secundair onderwijs.</P>
+<p>Het schoolbestuur of zijn gemandateerde legt ieder ontwerp van beslissing voor overleg aan de schoolraad voor als dat betrekking heeft op:<br>
+1° de bepaling van het profiel van de directeur;<br>
+2° het studieaanbod;<br>
+3° het aangaan van samenwerkingsverbanden met andere schoolbesturen en met externe instanties;<br>
+4° de opstapplaatsen en de busbegeleiding in het kader van het door het schoolbestuur aangeboden vervoer;<br>
+5° de vaststelling van het nascholingsbeleid;<br>
+6° het beleid met betrekking tot experimenten en projecten;<br>
+7° het opstellen of wijzigen van de volgende regelingen:<br>
+a) het schoolreglement;<br>
+b) het schoolwerkplan in het basisonderwijs;<br>
+c) het beleid op leerlingenbegeleiding en de afspraken over de samenwerking tussen de school en het centrum voor leerlingenbegeleiding;<br>
+8° de infrastructuurwerken die niet onder het toepassingsgebied vallen van artikel 26, § 1, 1°, a) en c), van de wet van 15 juni 2006 betreffende de overheidsopdrachten en bepaalde opdrachten voor werken, leveringen en diensten;<br>
+9° de vaststelling van de criteria voor de aanwending van lestijden, uren, uren-leraar en punten;<br>
+10° het welzijns-, veiligheids- en gezondheidsbeleid van de school ten aanzien van de leerlingen, met inbegrip van het in eigen beheer of door derden verstrekken van gezonde en evenwichtige schoolmaaltijden;<br>
+11° het beleid met betrekking tot interne kwaliteitszorg, met inbegrip van de bespreking van de resultaten van een schooldoorlichting;<br>
+12° het gelijke-onderwijskansenbeleid in het secundair onderwijs.</p>
 
 ### ART. 22.
 
@@ -188,7 +203,7 @@ Personeelsleden en leerlingen die deel uitmaken van de schoolraad kunnen voor de
 
 ### ART. 33.
 
-Klachten inzake de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluit-vormingsprocedures bedoeld in artikelen 18 tot en met 22 kunnen door de schoolraad, zijn geledingen en iedere belang-hebbende ingediend worden bij de Commissie Zorgvuldig Bestuur zoals bedoeld in artikel V.21 van het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek.
+Klachten inzake de niet-naleving van de bepalingen omtrent de bevoegdheden en de besluit-vormingsprocedures bedoeld in artikelen 18 tot en met 22 kunnen door de schoolraad, zijn geledingen en iedere belang-hebbende ingediend worden bij de Commissie Zorgvuldig Bestuur.
 
 ## HOOFDSTUK III MEDEZEGGENSCHAPSCOLLEGE
 
