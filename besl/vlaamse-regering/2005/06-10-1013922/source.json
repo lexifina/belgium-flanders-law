@@ -2,16 +2,16 @@
   "codex_id": 1013922,
   "title": "Besluit van de Vlaamse Regering van 2005-06-10 houdende de organisatie en de financiering van de Koninklijke Beiaardschool Jef Denyn in Mechelen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013922/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "aa75093e295a4fda77e89837db86fa128c5c48006d7f533d41bef4e8932a1664",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013922/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "4b8a01e5d68185dee5dda8cc111e15b6b9e316595cd8205366338dc2cbfbd71e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013922&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-09-01",
   "made": "2005-06-10",
   "gazette": "2005-08-16",
   "numac": 2005035975,
   "document_start": "2004-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2015-01-01",
+  "in_force": "2018-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
