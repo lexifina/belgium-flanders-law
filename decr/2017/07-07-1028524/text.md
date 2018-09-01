@@ -400,6 +400,12 @@ In artikel 63/10 van het koninklijk besluit van 27 augustus 1993 tot uitvoering 
 a) ten belope van de nominale waarde van de wijk-werkcheques die op naam van de belastingplichtige zijn uitgegeven en die hij tijdens het belastbare tijdperk bij de uitgever heeft aangekocht, verminderd met de nominale waarde van die wijk-werkcheques die in de loop van datzelfde belastbare tijdperk aan de uitgever zijn terugbezorgd;<br>
 b) op voorwaarde dat de belastingplichtige tot staving van zijn aangifte in de inkomstenbelastingen een attest overlegt dat uitgereikt is door de uitgever van de wijk-werkcheques;".
 
+### ART 53.
+
+In titel IV van de programmawet van 2 augustus 2002 wordt hoofdstuk X, dat bestaat uit artikel 104 tot en met 112, opgeheven.<br>
+<br>
+In afwijking van het eerste lid blijven de beroepsinlevingsovereenkomsten gesloten voor de datum van inwerkingtreding van dit artikel gelden tot het einde van de overeenkomst met toepassing van de regelgeving zoals die gold de dag voor inwerkingtreding van dit artikel.
+
 ### ART 54.
 
 In artikel 2, § 1, eerste lid, van het decreet houdende sociaalrechtelijk toezicht van 30 april 2004 wordt punt 40° vervangen door wat volgt:<br>
