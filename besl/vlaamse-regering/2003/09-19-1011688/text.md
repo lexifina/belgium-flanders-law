@@ -4,13 +4,16 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de vastbenoemde personeelsleden, de tijdelijke personeelsleden met een aanstelling van doorlopende duur en de tijdelijke personeelsleden met een aanstelling van meer dan 105 dagen, telkens in een wervings- of bevorderingsambt, van een centrum.
+Dit besluit is van toepassing op de leden van het bestuurs- en onderwijzend personeel, het ondersteunend personeel en het technisch personeel, vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en artikel 4, § 1, a), van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, die tewerkgesteld zijn in een centrum voor leerlingenbegeleiding dat gefinancierd of gesubsidieerd wordt door de Vlaamse overheid en die aan een van de volgende voorwaarden voldoen:<br>
+1° vastbenoemd zijn;<br>
+2° tijdelijk aangesteld zijn voor doorlopende duur;<br>
+3° tijdelijk aangesteld zijn voor bepaalde duur voor een periode van minstens 104 dagen.
 
 ## HOOFDSTUK II VORMINGSPLAN
 
 ### ART. 2.
 
-Elk centrum stelt voor het komende schooljaar een vormingsplan op. Dit jaarlijks vormingsplan is voorwerp van onderhandelingen in het lokaal comité zoals bedoeld in artikel 2, § 18, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding.
+Elk centrum stelt voor het komende schooljaar een vormingsplan op als vermeld in artikel 62, 4°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding. Dat jaarlijkse vormingsplan is voorwerp van onderhandelingen in het bevoegde lokaal comité.
 
 ### ART. 3.
 
