@@ -114,6 +114,8 @@ De aanvrager, de persoon die de toelage ontvangt of de persoon die in het onderh
 7° onderdanen van een land dat niet tot de Europese Economische Ruimte behoort die op 31 december van het betrokken school- of academiejaar gedurende een onafgebroken periode van minstens twaalf maanden wettig verblijven in België, en dit wettig verblijf niet verleend werd om in België hoger onderwijs te volgen of te werken, noch verleend werd in afwachting van een uitspraak in een asielprocedure om erkend te worden als vluchteling of als persoon die recht heeft op de subsidiaire bescherming, overeenkomstig de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen;<br>
 8° personen die op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in § 1 of § 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken school- of academiejaar minstens twaalf maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen.<br>
 <br>
+§ 3. In afwijking van paragraaf 1 en 2 kan een toelage worden toegekend aan een pleegkind of pleeggast als vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, op voorwaarde dat het pleegkind of de pleeggast langer dan een jaar onafgebroken bij hetzelfde pleeggezin verblijft.<br>
+<br>
 &nbsp;
 
 ## TITEL III Pedagogische voorwaarden
