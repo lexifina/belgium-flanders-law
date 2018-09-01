@@ -6,18 +6,25 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied voeding, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in XIX tot en met LIV, die bij dit besluit zijn gevoegd.<br>
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
+1° bijlage XLI tot en met XLVI voor het studiegebied bakkerij;<br>
+2° bijlage XXXVII en bijlage XXXVIII voor het studiegebied drankenkennis;<br>
+3° bijlage XIX tot en met XXXVI, bijlage XXXIX en bijlage XL voor het studiegebied horeca;<br>
+4° bijlage XLVII tot en met LIV voor het studiegebied slagerij.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
-1° de opleiding Medewerker Slagerij kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
-2° de opleiding Medewerker Bakkerij kan voor traaglerende cursisten 840 lestijden bij een maximale afwijking omvatten, waarbij alle modules 120 lestijden omvatten;<br>
-3° de opleiding Bakker kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
-4° de opleiding Banketbakkerij kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Banketbakkerij 240 lestijden omvat;<br>
-5° de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat;<br>
-6° de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en voorraadbeheer slagerij elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat;<br>
-7° de opleiding Bereider van Vleesproducten (Charcutier) kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
-8° de opleiding Vleesbereider kan voor traaglerende cursisten 160 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
-9° de opleiding Vleesbewerker kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat.
+1° voor het studiegebied bakkerij:<br>
+a) de opleiding Banketbakkerij kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
+b) de opleiding Bakker kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
+c) de opleiding Medewerker Bakkerij kan voor traaglerende cursisten 840 lestijden bij een maximale afwijking omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+2° voor het studiegebied slagerij:<br>
+a) de opleiding Bereider van Vleesproducten (Charcutier) kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
+b) de opleiding Medewerker Slagerij kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+c) de opleiding Slager Distributie kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+d) de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat;<br>
+e) de opleiding Vleesbereider kan voor traaglerende cursisten 160 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
+f) de opleiding Vleesbewerker kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
+g) de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en panklaar maken wild en gevogelte elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat
 
 ### ART. 2.
 
@@ -25,27 +32,7 @@ Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzon
 
 ### ART. 3.
 
-§ 1. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotel TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hotel, hotelbedrijf, hulpkelner, hulpkok, kelner, kok, keukenverantwoordelijke en zaalverantwoordelijke.<br>
-<br>
-§ 2. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotelbedrijf BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen bierkenner, hotelbedrijf, hotelonthaal, hulpkelner, hulpkok, kelner, kelner brasserie taverne bistro, kok, keukenverantwoordelijke, medewerker brasserie taverne bistro, verantwoordelijke brasserie taverne bistro, wijnkenner en zaalverantwoordelijke.<br>
-<br>
-§ 3. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding traiteur BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hulpkelner, hulpkok, kelner banketdienst, keukenverantwoordelijke, kok, traiteur-banketaannemer, traiteurkok en wijnkenner.<br>
-<br>
-§ 4. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3, vermeld in bijlage V bij hetzelfde decreet, heeft vanaf 1 september 2010 ook onderwijsbevoegdheid voor de modulaire opleiding Ambachtelijk brood- en banketbakker.<br>
-<br>
-§ 5. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bakkersgast, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding Medewerker Bakkerij.<br>
-<br>
-§ 6. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de modulaire opleidingen Broodbakker, Banketbakker, Brood en banket of Ambachtelijk brood- en banketbakker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleidingen Bakker en Banketbakker.<br>
-<br>
-§ 7. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Confiseur-chocoladebewerker of Ambachtelijk chocoladebewerker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleidingen Chocoladebewerker en Suiker- en Marsepeinbewerker.<br>
-<br>
-§ 8. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bereider van consumptie-ijs en tearoomspecialiteiten of Ambachtelijk ijsbereider, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding IJsbereider.<br>
-<br>
-§ 9. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Slagersgast, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleiding Medewerker Slagerij.<br>
-<br>
-§ 10. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de modulaire opleidingen Ambachtelijk Slager, Culinair Traiteurslager, Slager, Slagerij en Vleeswaren, Spekslager, Traiteurdelicatessenslager of Verkoper in de Slagerij, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleidingen Slager-Spekslager, Slager Distributie, Wild- en Gevogelteslager, Bereider van Vleesproducten (Charcutier), Vleesbereider en Vleesbewerker.<br>
-<br>
-§ 11. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Uitsnijder/Uitbener, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleiding Uitbener-Uitsnijder.
+...
 
 ### ART. 4.
 
@@ -117,27 +104,27 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_4.pdf#page=11">Bijlage   XIII</A>
+...
 
 ### BIJLAGE XIV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_4.pdf#page=49">Bijlage   XIV</A>
+...
 
 ### BIJLAGE XV
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_4.pdf#page=83">Bijlage   XV deel 1</A><BR><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_5.pdf#page=1">Bijlage   XV deel 2</A><BR><BR><BR>
+...
 
 ### BIJLAGE XVI
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_5.pdf#page=18">Bijlage   XVI</A>
+...
 
 ### BIJLAGE XVII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_5.pdf#page=49">Bijlage   XVII</A>
+...
 
 ### BIJLAGE XVIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_5.pdf#page=93">Bijlage   XVIII deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_6.pdf#page=1">Bijlage   XVIII deel 2</A>
+...
 
 ### BIJLAGE XIX
 
