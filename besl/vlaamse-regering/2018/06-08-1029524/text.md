@@ -20,3 +20,35 @@ Bijlage 1 bij het besluit van de Vlaamse Regering van 8 september 2017 betreffen
 ### ART 2.
 
 Bijlage 1 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt vervangen door de bijlage die als bijlage 2 bij dit besluit is gevoegd.
+
+### ART 3.
+
+Bijlage 1 bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt vervangen door de bijlage die als bijlage 3 bij dit besluit is gevoegd.
+
+### ART 4.
+
+Bijlage 3 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 19 januari 2018, wordt vervangen door de bijlage die als bijlage 4 bij dit besluit is gevoegd.
+
+### ART 5.
+
+Dit besluit treedt in werking op 1 september 2018. Artikel 1 heeft uitwerking met ingang van 1 september 2017. Artikel 2 heeft uitwerking met ingang van 1 februari 2018.
+
+### ART 6.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=251">Bijlage 1</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=336">Bijlage 2</a>
+
+### Bijlage 3
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=422">Bijlage 3</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=509">Bijlage 4</a>
