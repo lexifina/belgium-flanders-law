@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029670,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 tot vastlegging van het pakket \"uren-leraar\" in het voltijds secundair onderwijs, wat de uren-leraar van het eerste leerjaar A en B betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029670/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "6ca51b1632b6d8e6aad6cbfcf9dd17978b92a806ae07fefbb5a451417013721c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029670&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-07-20",
+  "gazette": "2018-08-27",
+  "numac": 2018031756,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
