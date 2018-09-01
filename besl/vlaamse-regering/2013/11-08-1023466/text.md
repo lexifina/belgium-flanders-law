@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder het decreet : het decreet van 10   juli 2008 betreffende het stelsel van leren en werken in de Vlaamse   Gemeenschap.<BR>
+...
 
 ### ART. 2.
 
