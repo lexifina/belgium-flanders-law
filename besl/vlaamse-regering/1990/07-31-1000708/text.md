@@ -188,7 +188,17 @@ In afwijking van artikel 4 wordt aan het Koninklijk Technisch Atheneum Zwijndrec
 
 ### ART. 5.
 
-§ 1. [...  <span class="reference">(opgeh. B.V.R. 8 juni 1994, art. 4, I: 1 september 1994)</span> ]<br /><br />§ 2. [...  <span class="reference">(opgeh. B.V.R. 8 juni 1994, art. 4, I: 1 september 1994)</span> ]<br /><br />[§ 3.  <span class="reference">(ing. B.V.R. 12 juni 1991, art. 4, I: 1 september 1991)</span> ] [...  <span class="reference">(opgeh. B.V.R. 8 juni 1994, art. 4, I: 1 september 1994)</span> ]<br /><br />[§ 4.  <span class="reference">(ing. B.V.R. 12 juni 1991, art. 4, I: 1 september 1991)</span> ] [...  <span class="reference">(opgeh. B.V.R. 8 juni 1994, art. 4, I: 1 september 1994)</span> ]<br /><br />[§ 5.  <span class="reference">(ing. B.V.R. 12 juni 1991, art. 4, I: 1 september 1991)</span> ] [...  <span class="reference">(opgeh. B.V.R. 16 mei 1995, art. 3, I: 1 september 1995)</span> ]
+§ 1. Voor de vaststelling van de verhoging of de vermindering van het pakket uren-leraar, vermeld in artikel 209/1 van de Codex Secundair Onderwijs van 17 december 2010, gelden de volgende gezamenlijke parameters voor het schooljaar 2018-2019:<br>
+1° minimale relatieve stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de onderwijszone op 1 oktober 2018 ten opzichte van 1 februari 2018: 3,6%;<br>
+2° minimale absolute stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de onderwijszone op 1 oktober 2018 ten opzichte van 1 februari 2018: niet bepaald;<br>
+3° minimale relatieve stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de scholengemeenschap op 1 oktober 2018 ten opzichte van 1 februari 2018: 3,6%;<br>
+4° minimale absolute stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de scholengemeenschap op 1 oktober 2018 ten opzichte van 1 februari 2018: 12 vermenigvuldigd met het aantal scholen met een eerste leerjaar van de eerste graad;<br>
+5° minimale relatieve stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de school op 1 oktober 2018 ten opzichte van 1 februari 2018: 3,6%;<br>
+6° minimale absolute stijging respectievelijk daling van het aantal leerlingen in het eerste leerjaar van de eerste graad in de school op 1 oktober 2018 ten opzichte van 1 februari 2018: 12.<br>
+<br>
+§ 2. De berekening, vermeld in paragraaf 1, gebeurt op basis van volgende leerlingencoëfficiënten:<br>
+1° voor het eerste leerjaar A: 1,6 uren-leraar<br>
+2° voor het eerste leerjaar B: 2,45 uren-leraar.
 
 ### ART. 6.
 
