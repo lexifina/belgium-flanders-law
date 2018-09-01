@@ -208,7 +208,10 @@ De Vlaamse Regering bepaalt na advies van de Vlor en de SERV de procedure voor b
 
 ### ART. 8.
 
-Beroepskwalificaties zijn afgeronde en ingeschaalde gehelen van competenties waarmee een beroep kan worden uitgeoefend. Beroepskwalificaties situeren zich op elk van de acht niveaus van de kwalificatiestructuur.<br /><br />
+Beroepskwalificaties zijn afgeronde en ingeschaalde gehelen van competenties waarmee een beroep kan worden uitgeoefend. Beroepskwalificaties situeren zich op elk van de acht niveaus van de kwalificatiestructuur.<br>
+<br>
+Deelkwalificaties zijn samenhangende gehelen van competenties uit eenzelfde beroepskwalificatie die uitstroomkansen bieden in een smaller deel van de arbeidsmarkt dan de volledige beroepskwalificatie. Deelkwalificaties worden afgebakend tijdens de opmaak van een beroepskwalificatie en hebben geen eigen inschalingsniveau.<br>
+&nbsp;
 
 ### ART. 9.
 
