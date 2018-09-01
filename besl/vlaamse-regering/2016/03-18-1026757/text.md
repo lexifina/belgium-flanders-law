@@ -56,6 +56,14 @@ Aan   artikel 2/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 
 &nbsp;Bijlage I bij hetzelfde besluit wordt   opgeheven.
 
+### ART. 14.
+
+&nbsp;Bijlage II bij hetzelfde besluit wordt   opgeheven.
+
+### ART. 15.
+
+Bijlage   IV bij hetzelfde besluit wordt opgeheven.
+
 ### ART. 16.
 
 Aan   hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 maart   2013, worden een bijlage XIII en XIV toegevoegd, die als bijlage 8 en 9 bij dit   besluit zijn gevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
