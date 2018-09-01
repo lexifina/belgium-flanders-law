@@ -62,7 +62,13 @@ Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens
 
 ### ART. 12.
 
-§ 1. De personeelsleden bedoeld in artikel 2, § 1 en § 2, van dit besluit, worden bezoldigd overeen-komstig de salarisschalen die in de bijlage I van dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br /><br />Deze salarisschalen worden met ingang van 1 december 2001 vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br /><br />§ 2. De personeelsleden, belast met de opdrachten bedoeld in artikel 11, § 2 tot en met § 6, worden bezoldigd op basis van het bekwaamheidsbewijs dat zij bezitten voor het ambt of de specialiteit waarmede die opdrachten worden gelijkgesteld. <br /><br />§ 3. De personeelsleden die tijdelijk belast worden met een andere opdracht in een niet-vacante betrekking in een ambt waarvoor de titularis de salarisschaal 106 ontvangt, krijgen de toelage voor het uitoefenen van een beter bezoldigde opdracht.
+§ 1. De personeelsleden bedoeld in artikel 2, § 1 en § 2, van dit besluit, worden bezoldigd overeen-komstig de salarisschalen die in de bijlage I van dit besluit naast elk bekwaamheidsbewijs zijn vermeld.<br>
+<br>
+Deze salarisschalen worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+<br>
+§ 2. De personeelsleden, belast met de opdrachten bedoeld in artikel 11, § 2 tot en met § 6, worden bezoldigd op basis van het bekwaamheidsbewijs dat zij bezitten voor het ambt of de specialiteit waarmede die opdrachten worden gelijkgesteld.<br>
+<br>
+§ 3. De personeelsleden die tijdelijk belast worden met een andere opdracht in een niet-vacante betrekking in een ambt waarvoor de titularis de salarisschaal 106 ontvangt, krijgen de toelage voor het uitoefenen van een beter bezoldigde opdracht.
 
 ### ART. 13.
 
