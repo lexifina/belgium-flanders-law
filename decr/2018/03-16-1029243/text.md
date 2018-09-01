@@ -8,6 +8,16 @@
 
 ## HOOFDSTUK 4 Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 41.
+
+Aan artikel 196quater van hetzelfde decreet, ingevoegd bij het decreet van 25 april 2014 en gewijzigd bij de decreten van 18 december 2015 en 8 juli 2016, wordt een paragraaf 5 toegevoegd, die luidt als volgt :<br>
+" § 5. Bij de toevoeging van de middelen, vermeld in paragraaf 1, tweede lid, aan de reguliere financierings- en subsidiëringsmiddelen voor het volwassenenonderwijs wordt de verdeling tussen de centra vanaf het daaropvolgende schooljaar berekend op basis van de financierbare of subsidieerbare cursisten die tijdens de voorafgaande referteperiode geregistreerd werden in de opleidingen die met de middelen, vermeld in paragraaf 1, tweede lid, georganiseerd werden.<br>
+<br>
+De groei voor alle centra voor basiseducatie, vermeld in artikel 90, wordt berekend op basis van de som van de reguliere middelen voor de vte en punten van de basiseducatie en de middelen voor de aanvullende vte en aanvullende punten van de centra voor basiseducatie, vermeld in paragraaf 1, tweede lid.<br>
+<br>
+De groei voor de opleidingen van het secundair volwassenenonderwijs, vermeld in artikel 107, wordt berekend op basis van de som van de reguliere middelen voor leraarsuren en punten van het secundair volwassenenonderwijs en de middelen voor de aanvullende leraarsuren en aanvullende punten van de centra voor volwassenenonderwijs, vermeld in paragraaf 1, tweede lid.".<br>
+&nbsp;
+
 ### ART 44.
 
 In hetzelfde decreet, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 8 september 2017, wordt een artikel 196novies ingevoegd, dat luidt als volgt :<br>
