@@ -49,8 +49,8 @@ c) onder gelijkaardige omstandigheden als reguliere werknemers van die werkgever
 d) waarbij effectieve arbeid wordt verricht die aansluit bij de gevolgde opleiding;<br>
 e) met de bedoeling beroepservaring op te doen.<br>
 15° Syntra Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen als vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
-16° trajectbegeleider : een leraar die in het deeltijds beroepssecundair onderwijs met trajectbegeleiding is belast;<br>
-17° trajectbegeleider Syntra Vlaanderen : de leersecretaris als vermeld in artikelen 39 en 40, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+16° trajectbegeleider: het aangewezen personeelslid dat in het centrum voor deeltijds beroepssecundair onderwijs belast is met trajectbegeleiding; de gemandateerde persoon die in het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen belast is met trajectbegeleiding;<br>
+17°...;<br>
 18° trajectbegeleiding : een continu proces van begeleiding en opvolging van de persoonlijke ontwikkeling en de vorming van jongeren tijdens de component leren en de component werkplekleren en dit in overleg met de betrokken actoren met als ultiem doel de toeleiding naar de arbeidsmarkt;<br>
 19° uur : hetzij een periode van 50 minuten hetzij, maar uitsluitend in het geval van een voortraject, brugproject of arbeidsdeelname, een periode van 60 minuten; om te komen tot het minimaal aantal uren voltijds engagement wordt een uur omgerekend naar een periode van 50 minuten;<br>
 20° VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding : de dienst die voor het Vlaamse Gewest bevoegd is voor arbeidsbemiddeling en beroepsopleiding en die voor het Brusselse Hoofdstedelijke Gewest bevoegd is voor beroepsopleiding;<br>
@@ -78,7 +78,8 @@ In het deeltijds beroepssecundair onderwijs kan de component werkplekleren als v
 <br>
 In de leertijd kan de component werkplekleren als volgt worden ingevuld :<br>
 1° via de praktijkopleiding binnen de leertijd, die gelijkstaat met arbeidsdeelname;<br>
-2° via een voortraject, doch uitsluitend in geval van ontstentenis van de praktijkopleiding ingevolge verbreking of opschorting van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst.<br>
+2° via een voortraject, doch uitsluitend in geval van ontstentenis van de praktijkopleiding ingevolge verbreking of opschorting van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst;<br>
+3° via een brugproject.<br>
 <br>
 § 2. Voor arbeidsdeelname als vermeld in § 1, tweede lid, 1°, komen in aanmerking :<br>
 1° de reguliere tewerkstelling op basis van een overeenkomst van alternerende opleiding, een stageovereenkomst alternerende opleiding of een deeltijdse arbeidsovereenkomst conform de bepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
@@ -113,7 +114,17 @@ In het deeltijds beroepssecundair onderwijs kan, in afwijking van artikelen 5 en
 
 ### ART. 8.
 
-§ 1. Het deeltijds beroepssecundair onderwijs kan door de Vlaamse   Gemeenschap worden erkend, gefinancierd of gesubsidieerd in maximaal 48 centra   voor deeltijds beroepssecundair onderwijs, verdeeld als volgt : 16 in het   Gemeenschapsonderwijs, 8 in het gesubsidieerd officieel onderwijs, 24 in het   gesubsidieerd vrij onderwijs.<BR><BR>Een centrum voor deeltijds beroepssecundair   onderwijs is hetzij verbonden aan een instelling met voltijds gewoon technisch   of beroepssecundair onderwijs, hetzij autonoom, naar keuze van het   centrumbestuur en met behoud van de toepassing van de programmatie- en   rationalisatienormen. Voor de toepassing van het bijzonder decreet van 14 juli   1998 betreffende het Gemeenschapsonderwijs wordt een autonoom centrum voor   deeltijds beroepssecundair onderwijs beschouwd als een school. Als een centrum   voor deeltijds beroepssecundair onderwijs is verbonden aan een instelling met   voltijds gewoon technisch of beroepssecundair onderwijs, dan wordt onder   centrumbestuur de inrichtende macht van die instelling verstaan.<BR><BR>§ 2. De   bepalingen van § 1 zijn niet van toepassing als het deeltijds beroepssecundair   onderwijs uitsluitend wordt georganiseerd in de vorm van zeevisserijonderwijs.   <BR><BR>In voorkomend geval kan het deeltijds beroepssecundair onderwijs door de   Vlaamse Gemeenschap worden erkend, gefinancierd of gesubsidieerd in maximaal   drie centra voor deeltijds beroepssecundair onderwijs, verdeeld als volgt : één   in het Gemeenschapsonderwijs, één in het gesubsidieerd officieel onderwijs, één   in het gesubsidieerd vrij onderwijs. <BR><BR>Een dergelijk centrum voor   deeltijds beroepssecundair onderwijs is steeds verbonden aan een instelling met   voltijds gewoon secundair onderwijs die het studiegebied maritieme opleidingen   organiseert.<BR><BR>§ 3. Onverminderd de bepalingen van artikel 8, § 1 en § 2,   wordt de oprichting van een erkend, gefinancierd of gesubsidieerd centrum voor   deeltijds beroepssecundair onderwijs door splitsing van een bestaand centrum,   door het centrumbestuur bij de bevoegde dienst van de Vlaamse Gemeenschap   schriftelijk gemeld uiterlijk 1 mei van het voorafgaand schooljaar. Onverminderd   de bepalingen van artikel 8, § 1 en § 2, wordt de oprichting van een centrum die   niet het gevolg is van splitsing van een bestaand centrum, bij de bevoegde   dienst van de Vlaamse Gemeenschap schriftelijk aangevraagd uiterlijk 1 mei van   het voorafgaand schooljaar.
+§ 1. Het deeltijds beroepssecundair onderwijs kan door de Vlaamse Gemeenschap worden erkend, gefinancierd of gesubsidieerd in maximaal 48 centra voor deeltijds beroepssecundair onderwijs, verdeeld als volgt : 16 in het Gemeenschapsonderwijs, 8 in het gesubsidieerd officieel onderwijs, 24 in het gesubsidieerd vrij onderwijs.<br>
+<br>
+Een centrum voor deeltijds beroepssecundair onderwijs is hetzij verbonden aan een instelling met voltijds gewoon technisch of beroepssecundair onderwijs, hetzij autonoom, naar keuze van het centrumbestuur en met behoud van de toepassing van de programmatie- en rationalisatienormen. Voor de toepassing van het bijzonder decreet van 14 juli 1998 betreffende het Gemeenschapsonderwijs wordt een autonoom centrum voor deeltijds beroepssecundair onderwijs beschouwd als een school. Als een centrum voor deeltijds beroepssecundair onderwijs is verbonden aan een instelling met voltijds gewoon technisch of beroepssecundair onderwijs, dan wordt onder centrumbestuur de inrichtende macht van die instelling verstaan.<br>
+<br>
+§ 2. De bepalingen van § 1 zijn niet van toepassing als het deeltijds beroepssecundair onderwijs uitsluitend wordt georganiseerd in de vorm van zeevisserijonderwijs.<br>
+<br>
+In voorkomend geval kan het deeltijds beroepssecundair onderwijs door de Vlaamse Gemeenschap worden erkend, gefinancierd of gesubsidieerd in maximaal drie centra voor deeltijds beroepssecundair onderwijs, verdeeld als volgt : één in het Gemeenschapsonderwijs, één in het gesubsidieerd officieel onderwijs, één in het gesubsidieerd vrij onderwijs.<br>
+<br>
+Een dergelijk centrum voor deeltijds beroepssecundair onderwijs is steeds verbonden aan een instelling met voltijds gewoon secundair onderwijs die het studiegebied maritieme opleidingen organiseert.<br>
+<br>
+§ 3. Onverminderd de bepalingen van artikel 8, § 1 en § 2, wordt de oprichting van een erkend, gefinancierd of gesubsidieerd centrum voor deeltijds beroepssecundair onderwijs door splitsing van een bestaand centrum, door het centrumbestuur bij de bevoegde dienst van de Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 mei van het voorafgaand schooljaar. Met behoud van de toepassing van paragraaf 1 en 2 zijn voor de oprichting van een centrum die niet het gevolg is van splitsing van een bestaand centrum, artikel 14, § 2, of artikel 15, § 2, naargelang van het geval, van de Codex Secundair Onderwijs van 17 december 2010 van toepassing.
 
 ### ART. 9.
 
@@ -121,7 +132,42 @@ Een centrum voor deeltijds beroepssecundair onderwijs dat is verbonden aan een i
 
 ### ART. 10.
 
-§ 1. Met de erkenning van een centrum voor deeltijds beroepssecundair   onderwijs krijgt het centrumbestuur de bevoegdheid om aan de jongeren de van   rechtswege geldende studiebewijzen toe te kennen. <BR><BR>Een opleiding   deeltijds beroepssecundair onderwijs wordt erkend als aan alle onderstaande   voorwaarden, die betrekking hebben hetzij op de opleiding in kwestie hetzij op   de vestigingsplaats van het centrum dat het organiseert, samen is voldaan:   <BR>1° georganiseerd zijn onder de verantwoordelijkheid van een centrumbestuur;   <BR>2° gevestigd zijn in gebouwen en lokalen die aan de voorwaarden op het   gebied van hygiëne, veiligheid en bewoonbaarheid voldoen; <BR>3° de controle   door de onderwijsinspectie mogelijk maken; <BR>4° beschikken over voldoende   didactisch materiaal en over een aangepaste schooluitrusting; <BR>5° de   bepalingen naleven over de onderwijstaal en de taalkennis van het   personeel;<BR>6° een structuur aannemen en inhoudelijk georganiseerd worden als   vermeld in dit decreet; <BR>7° de reglementering betreffende vakantieregeling en   aanwending van de onderwijstijd in acht nemen; <BR>8° beantwoorden aan de   decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor   zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan   die van het voltijds gewoon secundair onderwijs; <BR>9° beschikken over een   beleidscontract, indien het bestuur van beide betrokken centra verschilt, of een   beleidsplan, indien het bestuur van beide betrokken centra hetzelfde is, met een   centrum voor leerlingenbegeleiding; <BR>10° een samenwerkingsakkoord hebben   gesloten met ten minste één door de Vlaamse Gemeenschap erkend centrum voor   deeltijdse vorming met het oog op de organisatie van persoonlijke   ontwikkelingstrajecten voor jongeren, ingeschreven in het centrum voor deeltijds   beroepssecundair onderwijs, of de bemiddeling en samenwerking als vermeld in   artikel 18, § 1, zijn aangegaan;<BR>11° beschikken over personeel waarvan de   gezondheidstoestand de gezondheid van de jongeren niet in gevaar brengt;<BR>12°   de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de   rechten van de mens en van het kind in het bijzonder eerbiedigen;<BR>13° voor   het officieel onderwijs : <BR>a) een open karakter hebben door open te staan   voor alle jongeren, ongeacht de ideologische, filosofische of godsdienstige   opvattingen van de ouders en de jongere;<BR>b) de leerplannen volgen van het   Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van   de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen, of eigen   leerplannen volgen die ermee verenigbaar zijn vanaf een door de Vlaamse Regering   te bepalen datum; <BR>c) een werkplan, centrumreglement en boeken gebruiken in   overeenstemming met het open karakter als vermeld in punt a); <BR>d) begeleid   worden door de begeleidingsdienst van het Gemeenschapsonderwijs, het   Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of   het Provinciaal Onderwijs Vlaanderen vanaf een door de Vlaamse Regering te   bepalen datum. <BR>14° een doeltreffend beleid voert om het rookverbod, bedoeld   in het decreet van 6 juni 2008 houdende het instellen van een rookverbod in   onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en   te handhaven, controle uitoefent over de naleving van het verbod en overtreders   sancties oplegt, conform het eigen sanctiebeleid zoals vermeld in het centrum-   of arbeidsreglement;<BR>15° beantwoorden aan de decretale en reglementaire   bepalingen betreffende de organisatie van het onderwijs. <BR><BR>§ 2.   ...<BR><BR>§ 3. De in de erkenning opgenomen opleidingen worden per schooljaar   met een dienstbrief van het Agentschap voor Onderwijsdiensten bevestigd en   meegedeeld aan het betrokken centrumbestuur. Enkel in het geval het centrum niet   meer erkend is om bepaalde eindstudiebewijzen uit te reiken identiek aan die van   het voltijds gewoon secundair onderwijs, wordt dit in de dienstbrief   vermeld.<BR><BR>§ 4. De in de erkenning opgenomen opleidingen kunnen slechts   worden ingericht in vestigingsplaatsen die voldoen aan de voorwaarde, vermeld in   § 1, 2°. De dienstbrief vermeld in § 3 bevat de vestigingsplaatsen waar de   erkende opleidingen kunnen worden ingericht.<BR><BR>Voor de ingebruikname van   een nieuwe vestigingsplaats gelden de bepalingen van artikel 35ter van het   decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<BR><BR>De melding   tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de aanvraag   vermeld in artikel 8, § 3, in het geval van een centrum dat wordt opgericht   zonder het gevolg te zijn van een splitsing van een bestaand centrum. In dat   geval geldt de termijn, waarbinnen de melding moet ingediend worden, vermeld in   artikel 35ter van het decreet van 8 mei 2009 betreffende de kwaliteit van   onderwijs, niet.<BR><BR>De melding tot ingebruikname van een nieuwe   vestigingsplaats wordt gevoegd bij de melding vermeld in artikel 8, § 3, in het   geval van een centrum dat wordt opgericht als gevolg van een splitsing van een   bestaand centrum. In dat geval geldt de termijn, waarbinnen de melding moet   ingediend worden, vermeld in artikel 35ter van het decreet van 8 mei 2009   betreffende de kwaliteit van onderwijs, niet.<BR><BR>§ 5. Met inachtneming van   artikel 36 tot en met 42 van het decreet van 8 mei 2009 betreffende de kwaliteit   van onderwijs, kan de Vlaamse Regering de erkenning van een centrum of een   vestigingsplaats of opleiding ervan opheffen. Zij kan echter de opheffing van de   erkenning ook beperken tot de opheffing van de bevoegdheid om bepaalde   eindstudiebewijzen, die identiek zijn aan die van het voltijds gewoon secundair   onderwijs, uit te reiken.
+§ 1. Met de voorlopige erkenning of erkenning van een centrum voor deeltijds beroepssecundair onderwijs krijgt het centrumbestuur de bevoegdheid om aan de jongeren de van rechtswege geldende studiebewijzen toe te kennen.<br>
+<br>
+Een opleiding deeltijds beroepssecundair onderwijs wordt erkend als aan alle onderstaande voorwaarden, die betrekking hebben hetzij op de opleiding in kwestie hetzij op de vestigingsplaats van het centrum dat het organiseert, samen is voldaan:<br>
+1° georganiseerd zijn onder de verantwoordelijkheid van een centrumbestuur;<br>
+2° gevestigd zijn in gebouwen en lokalen die aan de voorwaarden op het gebied van hygiëne, veiligheid en bewoonbaarheid voldoen;<br>
+3° de controle door de onderwijsinspectie mogelijk maken;<br>
+4° beschikken over voldoende didactisch materiaal en over een aangepaste schooluitrusting;<br>
+5° de bepalingen naleven over de onderwijstaal en de taalkennis van het personeel;<br>
+6° een structuur aannemen en inhoudelijk georganiseerd worden als vermeld in dit decreet;<br>
+7° de reglementering betreffende vakantieregeling en aanwending van de onderwijstijd in acht nemen;<br>
+8° beantwoorden aan de decretale en reglementaire bepalingen inzake eindtermen en leerplannen voor zover de uitreiking wordt beoogd van eindstudiebewijzen die identiek zijn aan die van het voltijds gewoon secundair onderwijs;<br>
+9° samenwerkingsafspraken maakt met een centrum voor leerlingenbegeleiding en een beleid op leerlingenbegeleiding voeren;<br>
+10° een samenwerkingsakkoord hebben gesloten met ten minste één door de Vlaamse Gemeenschap erkend centrum voor deeltijdse vorming met het oog op de organisatie van persoonlijke ontwikkelingstrajecten voor jongeren, ingeschreven in het centrum voor deeltijds beroepssecundair onderwijs, of de bemiddeling en samenwerking als vermeld in artikel 18, § 1, zijn aangegaan;<br>
+11° beschikken over personeel waarvan de gezondheidstoestand de gezondheid van de jongeren niet in gevaar brengt;<br>
+12° de internationaalrechtelijke en grondwettelijke beginselen op het gebied van de rechten van de mens en van het kind in het bijzonder eerbiedigen;<br>
+13° voor het officieel onderwijs :<br>
+a) een open karakter hebben door open te staan voor alle jongeren, ongeacht de ideologische, filosofische of godsdienstige opvattingen van de ouders en de jongere;<br>
+b) de leerplannen volgen van het Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen, of eigen leerplannen volgen die ermee verenigbaar zijn vanaf een door de Vlaamse Regering te bepalen datum;<br>
+c) een werkplan, centrumreglement en boeken gebruiken in overeenstemming met het open karakter als vermeld in punt a);<br>
+d) begeleid worden door de begeleidingsdienst van het Gemeenschapsonderwijs, het Onderwijssecretariaat van de Steden en Gemeenten van de Vlaamse Gemeenschap of het Provinciaal Onderwijs Vlaanderen vanaf een door de Vlaamse Regering te bepalen datum.<br>
+14° een doeltreffend beleid voert om het rookverbod, bedoeld in het decreet van 6 juni 2008 houdende het instellen van een rookverbod in onderwijsinstellingen en centra voor leerlingenbegeleiding, kenbaar te maken en te handhaven, controle uitoefent over de naleving van het verbod en overtreders sancties oplegt, conform het eigen sanctiebeleid zoals vermeld in het centrum- of arbeidsreglement;<br>
+15° beantwoorden aan de decretale en reglementaire bepalingen betreffende de organisatie van het onderwijs.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De in de erkenning opgenomen opleidingen worden per schooljaar met een dienstbrief van het Agentschap voor Onderwijsdiensten bevestigd en meegedeeld aan het betrokken centrumbestuur. Enkel in het geval het centrum niet meer erkend is om bepaalde eindstudiebewijzen uit te reiken identiek aan die van het voltijds gewoon secundair onderwijs, wordt dit in de dienstbrief vermeld. De dienstbrief bevat de vestigingsplaatsen waar de opleidingen die in de erkenning zijn opgenomen, kunnen worden georganiseerd.<br>
+<br>
+§ 4. De ingebruikname van een nieuwe vestigingsplaats door een centrum wordt gemeld aan het Agentschap voor Onderwijsdiensten, uiterlijk op het tijdstip van de ingebruikname. In de melding wordt verklaard dat :<br>
+1° de vestigingsplaats beantwoordt aan de voorwaarden voor de hygiëne, de veiligheid en de bewoonbaarheid;<br>
+2° het centrum op de hoogte is van aanbevelingen of tekorten die de onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd over de bewoonbaarheid, de veiligheid en de hygiëne van de betreffende gebouwen, als het een vestigingsplaats in gebruik neemt waar een andere onderwijsinstelling gevestigd is of voordien gevestigd was. Het centrum vermeldt in dat geval ook het advies van de onderwijsinspectie over de bewoonbaarheid, de veiligheid en de hygiëne van de nieuwe vestigingsplaats.<br>
+<br>
+De Vlaamse Regering legt het model van het formulier voor de melding, vermeld in het eerste lid, vast.<br>
+<br>
+Deze paragraaf geldt niet voor een centrum dat, al dan niet als gevolg van een splitsing van bestaande centra, wordt opgericht.<br>
+<br>
+§ 5. ...
 
 ### ART. 11.
 
@@ -136,17 +182,17 @@ Een centrum voor deeltijds beroepssecundair onderwijs dat is verbonden aan een i
 <br>
 § 2. ...<br>
 <br>
-§ 3. De in de financiering of subsidiëring opgenomen opleidingen worden per schooljaar met een dienstbrief van het Agentschap voor Onderwijsdiensten bevestigd en meegedeeld aan het betrokken centrumbestuur.<br>
+§ 3. De in de financiering of subsidiëring opgenomen opleidingen worden per schooljaar met een dienstbrief van het Agentschap voor Onderwijsdiensten bevestigd en meegedeeld aan het betrokken centrumbestuur. De dienstbrief bevat de vestigingsplaatsen waar de opleidingen die zijn opgenomen in de financiering of subsidiëring, kunnen worden georganiseerd.<br>
 <br>
-§ 4. De in de financiering of subsidiëring opgenomen opleidingen kunnen slechts worden ingericht in vestigingsplaatsen die voldoen aan de voorwaarde, vermeld in artikel 10, § 1, 2°. De dienstbrief vermeld in § 3 bevat de vestigingsplaatsen waar de gefinancierde of gesubsidieerde opleidingen kunnen worden ingericht.<br>
+§ 4. De ingebruikname van een nieuwe vestigingsplaats door een centrum wordt gemeld aan het Agentschap voor Onderwijsdiensten uiterlijk op het tijdstip van de ingebruikname. In de melding wordt verklaard dat :<br>
+1° de vestigingsplaats beantwoordt aan de voorwaarden voor de hygiëne, de veiligheid en de bewoonbaarheid;<br>
+2° het centrum op de hoogte is van aanbevelingen of tekorten die de onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd over de bewoonbaarheid, de veiligheid en de hygiëne van de betreffende gebouwen, als het een vestigingsplaats in gebruik neemt waar een andere onderwijsinstelling gevestigd is of voordien gevestigd was. Het centrum vermeldt in dat geval ook het advies van de onderwijsinspectie over de bewoonbaarheid, de veiligheid en de hygiëne van de nieuwe vestigingsplaats.<br>
 <br>
-Voor de ingebruikname van een nieuwe vestigingsplaats gelden de bepalingen van artikel 35ter van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.<br>
+De Vlaamse Regering legt het model van het formulier voor de melding, vermeld in het eerste lid, vast.<br>
 <br>
-De melding tot ingebruikname van een nieuwe vestigingsplaats maakt deel uit van de aanvraag vermeld in artikel 8, § 3, in het geval van een centrum dat wordt opgericht zonder het gevolg te zijn van een splitsing van een bestaand centrum. In dat geval geldt de termijn, waarbinnen de melding moet ingediend worden, vermeld in artikel 35ter van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, niet.<br>
+Deze paragraaf geldt niet voor een centrum dat, al dan niet als gevolg van een splitsing van bestaande centra, wordt opgericht.<br>
 <br>
-De melding tot ingebruikname van een nieuwe vestigingsplaats wordt gevoegd bij de melding vermeld in artikel 8, § 3, in het geval van een centrum dat wordt opgericht als gevolg van een splitsing van een bestaand centrum. In dat geval geldt de termijn, waarbinnen de melding moet ingediend worden, vermeld in artikel 35ter van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, niet.<br>
-<br>
-§ 5. Met behoud van de erkenning wordt de financiering of subsidiëring van een centrum dat niet meer voldoet aan alle financierings- of subsidiëringsvoorwaarden of een opleiding ervan die niet meer voldoet aan al die voorwaarden, door de Vlaamse Regering geheel of gedeeltelijk ingehouden. Die inhouding kan alleen op voorstel van de onderwijsinspectie als het gaat om de voorwaarden, vermeld in artikel 10, § 1, 2°, 4° en 5°. De Vlaamse Regering bepaalt de aanvullende bepalingen voor die inhouding en regelt de beroepsprocedure.<br>
+§ 5. ...<br>
 &nbsp;
 
 ### ART. 12.
@@ -237,7 +283,23 @@ Het aanbod van een centrum voor deeltijdse vorming bestaat uit de organisatie va
 
 ### ART. 27.
 
-§ 1. Deeltijds beroepssecundair onderwijs wordt verstrekt naar rata van 15   wekelijkse uren vanaf 1 september tot en met 31 augustus van het daaropvolgende   kalenderjaar, met uitzondering van de vakantieperiodes zoals vastgelegd bij   besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van   het schooljaar in het secundair onderwijs. <BR><BR>In afwijking hiervan : <BR>1°   kan het centrumbestuur het deeltijds beroepssecundair onderwijs in een ander   week- of jaarritme organiseren op voorwaarde enerzijds dat geen afbreuk wordt   gedaan aan het aantal uren op jaarbasis, en anderzijds dat een gemotiveerd   dossier in het centrum ter beschikking wordt gehouden voor het Agentschap voor   Onderwijsdiensten en de onderwijsinspectie; <BR>2° kan het centrumbestuur het   aantal wekelijkse uren verhogen voor jongeren die de component werkplekleren   tijdelijk niet invullen. Het centrumbestuur bepaalt of die bijkomende uren aan   algemene vorming of aan beroepsgerichte vorming worden besteed. <BR><BR>§ 2.   Deeltijds beroepssecundair onderwijs, verstrekt door een centrum voor deeltijds   beroepssecundair onderwijs, bestaat uit algemene vorming en beroepsgerichte   vorming. <BR><BR>In afwijking hiervan :<BR>1° kan een centrum voor deeltijds   beroepssecundair onderwijs enkel de beroepsgerichte vorming verstrekken en de   algemene vorming laten verstrekken door een centrum voor deeltijdse   vorming;<BR>2° kan de klassenraad, vanaf het schooljaar dat begint in het   kalenderjaar waarin de jongere de leeftijd van 18 jaar bereikt, de jongere   vrijstellen van de algemene vorming. Als van die mogelijkheid wordt   gebruikgemaakt, worden 15 wekelijkse uren volledig aan beroepsgerichte vorming   besteed. <BR><BR>§ 3. Een centrum voor deeltijds beroepssecundair onderwijs moet   altijd gedurende ten minste 9 halve lesdagen per week opengesteld zijn.<BR><BR>§   4. Voor de organisatie van de beroepsgerichte vorming en van activiteiten ter   ondersteuning van de beroepsgerichte vorming kan een centrum voor deeltijds   beroepssecundair onderwijs samenwerken met instellingen voor voltijds gewoon   technisch of beroepssecundair onderwijs, met andere centra voor deeltijds   beroepssecundair onderwijs, met centra voor volwassenenonderwijs of met centra   voor vorming van zelfstandigen en kleine en middelgrote ondernemingen. Voor de   organisatie van de algemene vorming en van activiteiten ter ondersteuning van de   algemene vorming kan een centrum voor deeltijds beroepssecundair onderwijs   samenwerken met instellingen voor voltijds gewoon technisch of beroepssecundair   onderwijs.<BR><BR>In voorkomend geval wordt er tussen het centrum en de   instelling in kwestie of tussen de twee centra in kwestie een   samenwerkingsovereenkomst gesloten waarin alle noodzakelijk geachte afspraken en   voorwaarden zijn opgenomen.
+§ 1. Deeltijds beroepssecundair onderwijs wordt verstrekt&nbsp;naar rata van 15 of 16 wekelijkse uren vanaf 1 september tot en met 31 augustus van het daaropvolgende kalenderjaar, met uitzondering van de vakantieperiodes zoals vastgelegd bij besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs.<br>
+<br>
+In afwijking hiervan :<br>
+1° kan het centrumbestuur het deeltijds beroepssecundair onderwijs in een ander week- of jaarritme organiseren op voorwaarde enerzijds dat geen afbreuk wordt gedaan aan het aantal uren op jaarbasis, en anderzijds dat een gemotiveerd dossier in het centrum ter beschikking wordt gehouden voor het Agentschap voor Onderwijsdiensten en de onderwijsinspectie;<br>
+2° kan het centrumbestuur het aantal wekelijkse uren verhogen voor jongeren die de component werkplekleren tijdelijk niet invullen. Het centrumbestuur bepaalt of die bijkomende uren aan algemene vorming of aan beroepsgerichte vorming worden besteed.<br>
+<br>
+§ 2. Deeltijds beroepssecundair onderwijs, verstrekt door een centrum voor deeltijds beroepssecundair onderwijs, bestaat uit algemene vorming en beroepsgerichte vorming.<br>
+<br>
+In afwijking hiervan :<br>
+1° kan een centrum voor deeltijds beroepssecundair onderwijs enkel de beroepsgerichte vorming verstrekken en de algemene vorming laten verstrekken door een centrum voor deeltijdse vorming;<br>
+2° kan de klassenraad, vanaf het schooljaar dat begint in het kalenderjaar waarin de jongere de leeftijd van 18 jaar bereikt, de jongere vrijstellen van de algemene vorming. Als van die mogelijkheid wordt gebruikgemaakt,&nbsp;worden de 15 of 16 wekelijkse uren, vermeld in paragraaf 1, volledig aan beroepsgerichte vorming besteed.<br>
+<br>
+§ 3. Een centrum voor deeltijds beroepssecundair onderwijs moet altijd gedurende ten minste 9 halve lesdagen per week opengesteld zijn.<br>
+<br>
+§ 4. Voor de organisatie van de beroepsgerichte vorming en van activiteiten ter ondersteuning van de beroepsgerichte vorming kan een centrum voor deeltijds beroepssecundair onderwijs samenwerken met instellingen voor voltijds gewoon technisch of beroepssecundair onderwijs, met andere centra voor deeltijds beroepssecundair onderwijs, met centra voor volwassenenonderwijs of met centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen. Voor de organisatie van de algemene vorming en van activiteiten ter ondersteuning van de algemene vorming kan een centrum voor deeltijds beroepssecundair onderwijs samenwerken met instellingen voor voltijds gewoon technisch of beroepssecundair onderwijs.<br>
+<br>
+In voorkomend geval wordt er tussen het centrum en de instelling in kwestie of tussen de twee centra in kwestie een samenwerkingsovereenkomst gesloten waarin alle noodzakelijk geachte afspraken en voorwaarden zijn opgenomen.
 
 ### ART. 27/1.
 
@@ -330,7 +392,10 @@ In het deeltijds beroepssecundair onderwijs en in de leertijd, gefinancierd of g
 
 ### ART. 40.
 
-Een jongere kan niet tot een opleiding in het deeltijds beroepssecundair   onderwijs of in de leertijd worden toegelaten als hij al in het bezit is van een   eindstudiebewijs van dezelfde opleiding, behaald in het secundair onderwijs, in   het volwassenenonderwijs, in de leertijd of in de ondernemersopleiding.   <BR><BR>Een jongere kan niet tot een module van een opleiding in het deeltijds   beroepssecundair onderwijs worden toegelaten als hij die module al met vrucht   heeft gevolgd in het secundair onderwijs of in het   volwassenenonderwijs.<BR><BR>
+Een jongere kan niet tot een opleiding in het deeltijds beroepssecundair onderwijs of in de leertijd worden toegelaten als hij al in het bezit is van een eindstudiebewijs van dezelfde opleiding, behaald in het secundair onderwijs, in het volwassenenonderwijs, in de leertijd of in het ondernemerschapstraject.<br>
+<br>
+Een jongere kan niet tot een module van een opleiding in het deeltijds beroepssecundair onderwijs worden toegelaten als hij die module al met vrucht heeft gevolgd in het secundair onderwijs of in het volwassenenonderwijs.<br>
+&nbsp;
 
 ### ART. 41.
 
@@ -343,11 +408,18 @@ Voor de toelating tot een bepaalde module van een opleiding in het deeltijds ber
 
 ### ART. 42bis.
 
-Voor leerlingen die houder zijn van studiebewijzen, uitgereikt door andere   scholen of centra dan de door de Vlaamse Gemeenschap erkende, gefinancierde of   gesubsidieerde scholen en centra en die :<BR>a) zich ofwel binnen de deeltijdse   leerplichtleeftijd bevinden zoals die is bepaald bij de wet van 29 juni   1983;<BR>b) ofwel uitdrukkelijk opteren voor het volgen van deeltijds   beroepssecundair onderwijs, geldt,<BR>behoudens eventueel andere door de Vlaamse   Regering opgelegde toeltingsvoorwaarden, als toelatingsvoorwaarde een gunstige   beslissing van de klassenraad van een door de betrokken personen gekozen centrum   voor deeltijds beroepssecundair onderwijs.<BR>Bij de beslissing houdt de   klassenraad rekening met het advies van de klassenraad van het onthaaljaar als   het een overstap betreft van het onthaaljaar naar vervolgonderwijs, vermeld in   artikel 146, § 4, van de Codex Secundair Onderwijs. Elke beslissing die afwijkt   van het advies, wordt afdoende gemotiveerd.<BR><BR>Voor de leerlingen in kwestie   kan de Vlaamse Regering nooit toelatingsvoorwaarden met betrekking tot de   vooropleiding bepalen.
+Voor leerlingen die overstappen van een school of centrum met een buitenlands onderwijssysteem of van een school die of centrum dat is erkend door de Franse of Duitstalige Gemeenschap van België en die :<br>
+a) zich ofwel binnen de deeltijdse leerplichtleeftijd bevinden zoals die is bepaald bij de wet van 29 juni 1983;<br>
+b) ofwel uitdrukkelijk opteren voor het volgen van deeltijds beroepssecundair onderwijs, geldt,<br>
+behoudens eventueel andere door de Vlaamse Regering opgelegde toeltingsvoorwaarden, als toelatingsvoorwaarde een gunstige beslissing van de klassenraad van een door de betrokken personen gekozen centrum voor deeltijds beroepssecundair onderwijs.<br>
+Bij de beslissing houdt de klassenraad rekening met het advies van de klassenraad van het onthaaljaar als het een overstap betreft van het onthaaljaar naar vervolgonderwijs, vermeld in artikel 146, § 4, van de Codex Secundair Onderwijs. Elke beslissing die afwijkt van het advies, wordt afdoende gemotiveerd.<br>
+<br>
+Voor de leerlingen in kwestie kan de Vlaamse Regering nooit toelatingsvoorwaarden met betrekking tot de vooropleiding bepalen.
 
 ### ART. 43.
 
-In de leertijd kan de praktijkcommissie voor bepaalde opleidingen bijzondere instapvoorwaarden inzake leeftijd of vooropleiding vastleggen.<br /><br />In de leertijd beslist Syntra Vlaanderen op basis van de leeftijd en de vooropleiding in welk opleidingsjaar de jongere zijn opleiding start.<br /><br />
+In de leertijd kan de raad van bestuur van Syntra Vlaanderen voor bepaalde opleidingen bijzondere instapvoorwaarden inzake leeftijd of vooropleiding vastleggen.<br>
+&nbsp;
 
 ### ART. 44.
 
@@ -355,7 +427,13 @@ Rechtstreekse inschrijving in een centrum om aan de component leren te voldoen, 
 
 ### ART. 45.
 
-§ 1. Voorafgaand aan een inschrijving en bij elke wijziging moet een centrum voor deeltijds beroepssecundair onderwijs of een trajectbegeleider Syntra Vlaanderen, naargelang van het geval, de betrokken personen op de hoogte brengen van het centrumreglement. Daarbij moeten de volgende principes in acht worden genomen :<br />1° voorafgaand aan een inschrijving wordt het centrumreglement schriftelijk of via elektronische drager aangeboden en verklaren de betrokken personen zich er schriftelijk mee akkoord;<br />2° bij elke wijziging van het centrumreglement worden de betrokken personen schriftelijk of via elektronische drager geïnformeerd over die wijziging en geven ze opnieuw schriftelijk akkoord. Indien de betrokken personen zich met de wijziging niet akkoord verklaren, dan wordt aan de inschrijving van de jongere een einde gesteld op 31 augustus van het lopende schooljaar;<br />3° het centrumbestuur vraagt de betrokken personen of ze een papieren versie van het centrumreglement wensen te ontvangen;<br />4° een wijziging van het centrumreglement kan ten vroegste uitwerking hebben in het daaropvolgende schooljaar, tenzij die wijziging het rechtstreekse gevolg is van nieuwe regelgeving.<br /><br />§ 2. Voor materies waarbij de betrokken personen een individuele keuze kunnen maken, die door een regelgeving gegarandeerd wordt, kan die individuele keuze niet via het centrumreglement geregeld worden.
+§ 1. Voorafgaand aan een inschrijving en bij elke wijziging moet een centrum voor deeltijds beroepssecundair onderwijs of een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, naargelang van het geval, de betrokken personen op de hoogte brengen van het centrumreglement. Daarbij moeten de volgende principes in acht worden genomen :<br>
+1° voorafgaand aan een inschrijving wordt het centrumreglement schriftelijk of via elektronische drager aangeboden en verklaren de betrokken personen zich er schriftelijk mee akkoord;<br>
+2° bij elke wijziging van het centrumreglement worden de betrokken personen schriftelijk of via elektronische drager geïnformeerd over die wijziging en geven ze opnieuw schriftelijk akkoord. Indien de betrokken personen zich met de wijziging niet akkoord verklaren, dan wordt aan de inschrijving van de jongere een einde gesteld op 31 augustus van het lopende schooljaar;<br>
+3° het centrumbestuur vraagt de betrokken personen of ze een papieren versie van het centrumreglement wensen te ontvangen;<br>
+4° een wijziging van het centrumreglement kan ten vroegste uitwerking hebben in het daaropvolgende schooljaar, tenzij die wijziging het rechtstreekse gevolg is van nieuwe regelgeving.<br>
+<br>
+§ 2. Voor materies waarbij de betrokken personen een individuele keuze kunnen maken, die door een regelgeving gegarandeerd wordt, kan die individuele keuze niet via het centrumreglement geregeld worden.
 
 ### ART. 46.
 
@@ -378,7 +456,10 @@ Voor een jongere wordt de inschrijving in een centrum voor vorming van zelfstand
 
 ### ART. 49bis.
 
-Voor leerlingen die houder zijn van studiebewijzen, uitgereikt door andere   scholen of centra dan de door de Vlaamse Gemeenschap erkende, gefinancierde of   gesubsidieerde scholen en centra en die :<BR>a) zich ofwel binnen de deeltijdse   leerplichtleeftijd bevinden zoals die is bepaald bij de wet van 29 juni   1983;<BR>b) ofwel uitdrukkelijk opteren voor het volgen van leertijd;<BR>geldt,   behoudens eventueel andere door de Vlaamse Regering opgelegde   toelatingsvoorwaarden, als toelatingsvoorwaarde een gunstige beslissing van   Syntra Vlaanderen. Bij de beslissing houdt Syntra Vlaanderen rekening met het   advies van de klassenraad van het onthaaljaar als het een overstap betreft van   het onthaaljaar naar vervolgonderwijs, vermeld in artikel 146, § 4, van de Codex   Secundair Onderwijs. Elke beslissing die afwijkt van het advies, wordt afdoende   gemotiveerd.
+Voor leerlingen die overstappen van een school of centrum met een buitenlands onderwijssysteem of van een school die of centrum dat is erkend door de Franse of Duitstalige Gemeenschap van België en die :<br>
+a) zich ofwel binnen de deeltijdse leerplichtleeftijd bevinden zoals die is bepaald bij de wet van 29 juni 1983;<br>
+b) ofwel uitdrukkelijk opteren voor het volgen van leertijd;<br>
+geldt, behoudens eventueel andere door de Vlaamse Regering opgelegde toelatingsvoorwaarden, als toelatingsvoorwaarde een gunstige beslissing van de klassenraad van een door de betrokken personen gekozen centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen. Bij de beslissing houdt de klassenraad rekening met het advies van de klassenraad van het onthaaljaar als het een overstap betreft van het onthaaljaar naar vervolgonderwijs, vermeld in artikel 146, § 4, van de Codex Secundair Onderwijs. Elke beslissing die afwijkt van het advies, wordt afdoende gemotiveerd.
 
 ## Onderafdeling II Centrumreglement
 
@@ -544,26 +625,27 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure, met inbegrip   van e
 
 ### ART. 75.
 
-Een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen richt voor elke vestigingsplaats waar de leertijd wordt aangeboden, een begeleidingsteam op.<br>
+Een centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen richt voor elke vestigingsplaats waar de leertijd wordt aangeboden, een klassenraad op.<br>
 <br>
-Het begeleidingsteam bestaat uit de volgende stemgerechtigde leden die elk over één stem beschikken : de directeur van het centrum of zijn afgevaardigde die het begeleidingsteam voorzit, en, afhankelijk van de jongere, de trajectbegeleider, de lesgevers algemene en beroepsgerichte vorming en een afgevaardigde van het CLB.<br>
+De klassenraad bestaat uit de volgende stemgerechtigde leden die elk over één stem beschikken : de directeur van het centrum of zijn afgevaardigde die de klassenraad voorzit, en, afhankelijk van de jongere, de trajectbegeleider, de lesgevers algemene en beroepsgerichte vorming en een afgevaardigde van het CLB.<br>
 <br>
-Het begeleidingsteam mag zich steeds laten bijstaan door andere personen die nuttige beoordelingselementen kunnen aanbrengen voor de begeleiding of de evaluatie van een of meer jongeren.<br>
+De klassenraad mag zich steeds laten bijstaan door andere personen die nuttige beoordelingselementen kunnen aanbrengen voor de begeleiding of de evaluatie van een of meer jongeren.<br>
 &nbsp;
 
 ### ART. 76.
 
-Het begeleidingsteam volgt de vorderingen en de houding van de jongeren tijdens de component leren en de component werkplekleren. Het begeleidingsteam kan daartoe op elk ogenblik overleg plegen, maar in ieder geval op het einde van het eerste semester, voor 15 januari, van elk schooljaar en op het einde van elk schooljaar. Op het einde van elk schooljaar beraadslaagt het begeleidingsteam in het bijzonder over het verdere verloop van de leertijd van de jongeren.<br /><br />
+De klassenraad volgt de vorderingen en de houding van de jongeren tijdens de component leren en de component werkplekleren. De klassenraad kan daartoe op elk ogenblik overleg plegen, maar in ieder geval op het einde van het eerste semester, voor 15 januari, van elk schooljaar en op het einde van elk schooljaar. Op het einde van elk schooljaar beraadslaagt de klassenraad in het bijzonder over het verdere verloop van de leertijd van de jongeren.<br>
+&nbsp;
 
 ### ART. 77.
 
-Het begeleidingsteam beslist over het verdere verloop van de leertijd van een jongere en of een jongere is geslaagd voor een opleiding.<br>
+De klassenraad beslist over het verdere verloop van de leertijd van een jongere en of een jongere is geslaagd voor een opleiding.<br>
 <br>
-Daarbij wordt rekening gehouden met de concrete gegevens uit het dossier van de jongere, inzonderheid met de resultaten die voortvloeien uit de evaluatie van de jongere. De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onderneming en gebeurt permanent om enerzijds de jongere te ondersteunen in zijn leerproces en anderzijds te beslissen of hij in voldoende mate de opleidingsdoelstellingen heeft bereikt. Het begeleidingsteam bepaalt de vorm waarin de jongere wordt geëvalueerd.
+Daarbij wordt rekening gehouden met de concrete gegevens uit het dossier van de jongere, inzonderheid met de resultaten die voortvloeien uit de evaluatie van de jongere. De evaluatie slaat op de theoretische vorming en de praktijkopleiding in de onderneming en gebeurt permanent om enerzijds de jongere te ondersteunen in zijn leerproces en anderzijds te beslissen of hij in voldoende mate de opleidingsdoelstellingen heeft bereikt. De klassenraad bepaalt de vorm waarin de jongere wordt geëvalueerd.
 
 ### ART. 78.
 
-Het begeleidingsteam beslist op gemotiveerde wijze en deelt die beslissing schriftelijk en gemotiveerd mee aan de betrokken personen. Van de beslissingen van het begeleidingsteam wordt een proces-verbaal opgemaakt en worden er notulen gemaakt. Het proces-verbaal bevat de lijst van de geslaagde en niet-geslaagde jongeren. De notulen bevatten een synthese van de elementen die tot de beslissingen hebben geleid, waaronder eventueel het resultaat van een stemming. De processen-verbaal en de notulen moeten gedurende 30 jaar bewaard worden.
+De klassenraad beslist op gemotiveerde wijze en deelt die beslissing schriftelijk en gemotiveerd mee aan de betrokken personen. Van de beslissingen van de klassenraad wordt een proces-verbaal opgemaakt en worden er notulen gemaakt. Het proces-verbaal bevat de lijst van de geslaagde en niet-geslaagde jongeren. De notulen bevatten een synthese van de elementen die tot de beslissingen hebben geleid, waaronder eventueel het resultaat van een stemming. De processen-verbaal en de notulen moeten gedurende 30 jaar bewaard worden.
 
 ### ART. 79.
 
@@ -575,7 +657,11 @@ De studiebekrachtiging in de vorm van toekenning van studiebewijzen als vermeld 
 
 ### ART. 80/1.
 
-Syntra Vlaanderen is ertoe gemachtigd om een attest uit te reiken ter   vervanging van een verloren studiebewijs aan de houders van het studiebewijs.   Het attest vermeldt de datum van uitreiking van het   studiebewijs.<BR><BR>Personen die in toepassing van de wetgeving betreffende de   namen en de voornamen een wijziging van hun naam of voornaam hebben verkregen,   kunnen bij Syntra Vlaanderen een verzoek indienen om het studiebewijs te laten   vervangen door een studiebewijs met hun nieuwe naam.<BR><BR>Bij de aanvraag moet   het oorspronkelijk behaalde studiebewijs worden ingeleverd en moeten stukken   worden gevoegd die de naamswijziging aantonen.
+De centra zijn ertoe gemachtigd om een attest uit te reiken ter vervanging van een verloren studiebewijs aan de houders van het studiebewijs. Het attest vermeldt de datum van uitreiking van het studiebewijs.<br>
+<br>
+Personen die in toepassing van de wetgeving betreffende de namen en de voornamen een wijziging van hun naam of voornaam hebben verkregen, kunnen bij de centra waar ze een studiebewijs hebben behaald of bij de Vlaamse Gemeenschap een verzoek indienen om het studiebewijs te laten vervangen door een studiebewijs met hun nieuwe naam.<br>
+<br>
+Bij de aanvraag moet het oorspronkelijk behaalde studiebewijs worden ingeleverd en moeten stukken worden gevoegd die de naamswijziging aantonen.
 
 ### ART. 81.
 
@@ -586,18 +672,18 @@ Aan een jongere die een opleiding in de leertijd met vrucht heeft gevolgd, wordt
 § 1. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een getuigschrift van de tweede graad van het secundair onderwijs uitgereikt :<br>
 1° met uitzondering van de eerste graad, ten minste 2 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
 2° ten minste één certificaat behaald hebben;<br>
-3° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
+3° ingevolge een beslissing van de klassenraad, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
 <br>
 § 2. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs uitgereikt :<br>
 1° met uitzondering van de eerste graad, ten minste 4 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
 2° ten minste één certificaat behaald hebben;<br>
-3° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
+3° ingevolge een beslissing van de klassenraad, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.<br>
 <br>
 § 3. Aan een jongere die voldaan heeft aan al de onderstaande voorwaarden wordt een diploma van secundair onderwijs uitgereikt :<br>
 1° met uitzondering van de eerste graad, ten minste 5 schooljaren in het secundair onderwijs of in de leertijd hebben doorgebracht;<br>
 2° in het bezit zijn van een getuigschrift van de tweede graad van het secundair onderwijs;<br>
 3° ten minste één certificaat behaald hebben;<br>
-4° ingevolge een beslissing van het begeleidingsteam, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.
+4° ingevolge een beslissing van de klassenraad, in voldoende mate de doelstellingen die in het leerplan zijn opgenomen bereikt hebben en aldus voldaan hebben voor het geheel van de vorming.
 
 ### ART. 83.
 
@@ -657,7 +743,8 @@ Voor de categorie van het bestuurspersoneel wordt aan een centrum voor deeltijds
 
 ### ART. 91.
 
-Het pakket uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs mag nooit rechtstreeks of onrechtstreeks worden aangewend voor de organisatie van een persoonlijk ontwikkelingstraject, een voortraject of een brugproject.<br /><br />
+Het pakket uren-leraar van een centrum voor deeltijds beroepssecundair onderwijs mag nooit rechtstreeks of onrechtstreeks worden aangewend voor de organisatie van een persoonlijk ontwikkelingstraject, een voortraject.<br>
+&nbsp;
 
 ### ART. 92.
 
@@ -667,7 +754,10 @@ De uren-leraar binnen een centrum voor deeltijds beroepssecundair onderwijs word
 
 ### ART. 93.
 
-§ 1. De centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden gesubsidieerd op basis van de bepalingen van het besluit van de Vlaamse Regering van 14 december 2001 betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zoals gewijzigd.<br /><br />§ 2. De Vlaamse Regering kent aanvullende werkingsmiddelen toe aan Syntra Vlaanderen, die zijn voorbehouden voor activiteiten of producten die bijdragen tot optimalisering van de band tussen de component leren en de component werkplekleren. Deze aanvullende middelen worden berekend in functie van het aantal door jongeren effectief gepresteerde uren in een voortraject tijdens het schooljaar waarop de subsidiëring is gebaseerd. De Vlaamse Regering legt het subsidiebedrag vast en kan bijkomende voorwaarden bepalen.<br /><br />
+§ 1. De centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen worden gesubsidieerd op basis van de vigerende regelgeving betreffende de erkenning en de subsidiëring van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen in uitvoering van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zoals gewijzigd.<br>
+<br>
+§ 2. De Vlaamse Regering kent aanvullende werkingsmiddelen toe aan Syntra Vlaanderen, die zijn voorbehouden voor activiteiten of producten die bijdragen tot optimalisering van de band tussen de component leren en de component werkplekleren. Deze aanvullende middelen worden berekend in functie van het aantal door jongeren effectief gepresteerde uren in een voortraject tijdens het schooljaar waarop de subsidiëring is gebaseerd. De Vlaamse Regering legt het subsidiebedrag vast en kan bijkomende voorwaarden bepalen.<br>
+&nbsp;
 
 ## Onderafdeling III [... (opgeh. decr. 30 maart 2018, art. 107, I: 1 september 2019)]
 
@@ -813,7 +903,17 @@ Een regionaal overlegplatform komt tot stand bij schriftelijke overeenkomst tuss
 
 ### ART. 105.
 
-Een regionaal overlegplatform is ten minste als volgt samengesteld :<br />1° één afgevaardigde van elk centrum voor deeltijds beroepssecundair onderwijs, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br />2° één afgevaardigde van elk centrum voor deeltijdse vorming, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br />3° één afgevaardigde van elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br />4° één trajectbegeleider Syntra Vlaanderen;<br />5° één VDAB-account Leren en Werken van elk lokaal klantencentrum van de VDAB binnen het werkingsgebied van het regionaal overlegplatform;<br />6° één waarnemer namens het departement Onderwijs en Vorming; <br />7° één waarnemer namens het departement Werk en Sociale Economie;<br />8° één afgevaardigde van respectievelijk de officiële centra voor leerlingenbegeleiding en de vrije centra voor leerlingenbegeleiding, waarvan het werkingsgebied geheel of gedeeltelijk samenvalt met het werkingsgebied van het regionaal overlegplatform in kwestie;<br />9° één afgevaardigde van het regionaal sociaal-economisch overlegcomité in kwestie.<br /><br />
+Een regionaal overlegplatform is ten minste als volgt samengesteld :<br>
+1° één afgevaardigde van elk centrum voor deeltijds beroepssecundair onderwijs, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br>
+2° één afgevaardigde van elk centrum voor deeltijdse vorming, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br>
+3° één afgevaardigde van elk centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen, waarvan een of meer vestigingsplaatsen binnen het werkingsgebied van het regionaal overlegplatform zijn gelegen;<br>
+4° één trajectbegeleider Syntra Vlaanderen;<br>
+5° één VDAB-account Leren en Werken van elk lokaal klantencentrum van de VDAB binnen het werkingsgebied van het regionaal overlegplatform;<br>
+6° één waarnemer namens het departement Onderwijs en Vorming;<br>
+7° één waarnemer namens het departement Werk en Sociale Economie;<br>
+8° één afgevaardigde van respectievelijk de officiële centra voor leerlingenbegeleiding en de vrije centra voor leerlingenbegeleiding,&nbsp;die werken in&nbsp;het werkingsgebied van het regionaal overlegplatform in kwestie;<br>
+9° één afgevaardigde van het regionaal sociaal-economisch overlegcomité in kwestie.<br>
+&nbsp;
 
 ### ART. 106.
 
