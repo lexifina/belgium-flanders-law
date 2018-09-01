@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029437,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-18 houdende de vastlegging van de maximale groei voor de centra voor basiseducatie en voor de centra voor volwassenenonderwijs per indeling en de toekenning van bijkomende leraarsuren voor de indeling HBO5 voor het schooljaar 2018-2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029437/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "be398437f2103117cc0e0d87f787e9d13b6ee75cc750d08f2d0cd7ed77602901",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029437&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-05-18",
+  "gazette": "2018-06-20",
+  "numac": 2018012591,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
