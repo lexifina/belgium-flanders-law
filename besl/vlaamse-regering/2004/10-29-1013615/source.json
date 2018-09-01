@@ -2,16 +2,16 @@
   "codex_id": 1013615,
   "title": "Besluit van de Vlaamse Regering van 2004-10-29 houdende geldelijke en administratieve bepalingen voor de contractuele personeelsleden in het onderwijs betaald [door het Vlaams Ministerie van Onderwijs en Vorming]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013615/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "c2fc249d2326fc5db6c2336a2f3b51830d286bc30548b4e51d692c9d4e82b1b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013615/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "aa5fcadd7344a9bb36b0002f3fc61098e9132af8a11d0c4e83df11d9752154a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013615&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2018-09-01",
   "made": "2004-10-29",
   "gazette": "2005-01-10",
   "numac": 2004036878,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2018-09-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
