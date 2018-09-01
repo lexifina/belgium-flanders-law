@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029366,
+  "title": "Besluit van de Vlaamse Regering van 2018-05-04 betreffende de lokale samenwerkingsinitiatieven tussen scholen voor basis- en secundair onderwijs, instellingen voor hoger onderwijs en de academies voor deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029366/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "07c39eaa1046c598996d8c70b7dfc1cbb06e4973a5ed24af10afb7be0c31669e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029366&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-05-04",
+  "gazette": "2018-06-05",
+  "numac": 2018012242,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
