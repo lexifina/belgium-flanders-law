@@ -498,7 +498,26 @@ b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nieuwe bachelor- of masteropleidingen overeenko
 
 ### ART. II.31.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Deze onderafdeling is van   toepassing op:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo3; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>1°&nbsp;&nbsp; de personeelsleden, die door   een statuut of een arbeidsovereenkomst van onbepaalde duur verbonden zijn aan   :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">a)&nbsp;&nbsp;&nbsp;   de   diensten van het Vlaams Parlement;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">b)&nbsp;&nbsp;&nbsp;   de   erkende politieke groepen, of de voorzitters van die groepen, van de wetgevende   vergaderingen van de Staat en van de Gemeenschappen of de   Gewesten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">c)&nbsp;&nbsp;&nbsp;   de   Vlaamse Interuniversitaire Raad;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">d)&nbsp;&nbsp;&nbsp;   de   Vlaamse Hogescholenraad;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">e)&nbsp;&nbsp;&nbsp;   een   associatie;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">f)&nbsp;&nbsp;&nbsp;&nbsp;   een   universiteit in de Vlaamse Gemeenschap;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">g)&nbsp;&nbsp;&nbsp;   een   universitair ziekenhuis, behoudens indien dit is opgericht onder de vorm van een   Vlaamse openbare instelling;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">h)&nbsp;&nbsp; een hogeschool in de Vlaamse   Gemeenschap;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">i)&nbsp;&nbsp;&nbsp;&nbsp;   de   Vlerick Business School;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">j)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   het   Instituut voor Tropische Geneeskunde;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">k)&nbsp;&nbsp;&nbsp;   de   Antwerp Management School;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">l)&nbsp;&nbsp;&nbsp;&nbsp;   de   Evangelische Theologische Faculteit in Heverlee;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">m)&nbsp; de Faculteit voor Protestantse   Godgeleerdheid in Brussel;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l0 level1 lfo1; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">n)&nbsp;&nbsp; de Vlaamse Universiteiten en   Hogescholen Raad;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l2 level1 lfo3; tab-stops: list 18.0pt; mso-layout-grid-align: none"   class=MsoNormal>2°&nbsp;&nbsp; de vastbenoemde of tot de   proeftijd toegelaten personeelsleden bedoeld in :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">a)&nbsp;&nbsp;&nbsp;   artikel 2, §1, van het decreet van 27 maart 1991 betreffende de   rechtspositie van bepaalde personeelsleden van het   Gemeenschapsonderwijs;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">b)&nbsp;&nbsp;&nbsp;   artikel 4, §1, van het decreet van 27 maart 1991 betreffende de   rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de   gesubsidieerde centra voor leerlingenbegeleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; VERTICAL-ALIGN: baseline; mso-pagination: none; mso-list: l1 level1 lfo2; tab-stops: -84.0pt list 36.0pt; mso-layout-grid-align: none">c)&nbsp;&nbsp;&nbsp;   artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van   onderwijs.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Deze onderafdeling is van toepassing op:<br>
+1°&nbsp;&nbsp; de personeelsleden, die door een statuut of een arbeidsovereenkomst van onbepaalde duur verbonden zijn aan :<br>
+a)&nbsp;&nbsp;&nbsp; de diensten van het Vlaams Parlement;<br>
+b)&nbsp;&nbsp;&nbsp; de erkende politieke groepen, of de voorzitters van die groepen, van de wetgevende vergaderingen van de Staat en van de Gemeenschappen of de Gewesten;<br>
+c)&nbsp;&nbsp;&nbsp; de Vlaamse Interuniversitaire Raad;<br>
+d)&nbsp;&nbsp;&nbsp; de Vlaamse Hogescholenraad;<br>
+e)&nbsp;&nbsp;&nbsp; een associatie;<br>
+f)&nbsp;&nbsp;&nbsp;&nbsp; een universiteit in de Vlaamse Gemeenschap;<br>
+g)&nbsp;&nbsp;&nbsp; een universitair ziekenhuis, behoudens indien dit is opgericht onder de vorm van een Vlaamse openbare instelling;<br>
+h)&nbsp;&nbsp; een hogeschool in de Vlaamse Gemeenschap;<br>
+i)&nbsp;&nbsp;&nbsp;&nbsp; de Vlerick Business School;<br>
+j)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het Instituut voor Tropische Geneeskunde;<br>
+k)&nbsp;&nbsp;&nbsp; de Antwerp Management School;<br>
+l)&nbsp;&nbsp;&nbsp;&nbsp; de Evangelische Theologische Faculteit in Heverlee;<br>
+m) de Faculteit voor Protestantse Theologie en Religiestudies in Brussel;<br>
+n)&nbsp;&nbsp; de Vlaamse Universiteiten en Hogescholen Raad;<br>
+2°&nbsp;&nbsp; de vastbenoemde of tot de proeftijd toegelaten personeelsleden bedoeld in :<br>
+a)&nbsp;&nbsp;&nbsp; artikel 2, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
+b)&nbsp;&nbsp;&nbsp; artikel 4, §1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+c)&nbsp;&nbsp;&nbsp; artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.</p>
 
 ### ART. II.32.
 
@@ -1076,7 +1095,7 @@ Vanaf het academiejaar 2022-2023 kan het overeenstemmende diploma van bachelor n
 
 ### ART. II.106.
 
-<P style="MARGIN: 0cm 0cm 0pt">Als ambtshalve geregistreerde instelling voor hoger onderwijs kan de   Faculteit voor Protestantse Godgeleerdheid te Brussel in het studiegebied   godsdienstwetenschappen en godgeleerdheid de graden van bachelor, master en   doctor verlenen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Als ambtshalve geregistreerde instelling voor hoger onderwijs kan de&nbsp;Faculteit voor Protestantse Theologie en Religiestudies te Brussel in het studiegebied godsdienstwetenschappen en godgeleerdheid de graden van bachelor, master en doctor verlenen.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ## Hoofdstuk 6 Lerarenopleidingen
 
@@ -1088,7 +1107,21 @@ Vanaf het academiejaar 2022-2023 kan het overeenstemmende diploma van bachelor n
 
 ### ART. II.108.
 
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§1. Het beroepsprofiel van de   leraar is de omschrijving van de kennis, vaardigheden en attitudes van de leraar   bij zijn beroepsuitoefening. Het beroepsprofiel bevat de taken die een ervaren   leraar verricht en zal verrichten in het licht van maatschappelijke en andere   ontwikkelingen, zoals de grootstedelijke context, de taalvaardigheid in het   Nederlands, de meertaligheid en de diversificatie van het onderwijsgebeuren.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">De Vlaamse Regering bepaalt het   beroepsprofiel van de leraar op advies van de Vlaamse Onderwijsraad. De Vlaamse   Regering legt het besluit binnen de 6 maand na definitieve goedkeuring ter   bekrachtiging voor aan het Vlaams Parlement. Indien het Vlaams Parlement dit   besluit niet bekrachtigt binnen de 6 maanden na definitieve goedkeuring, houdt   het op rechtskracht te hebben.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">§2. De basiscompetenties van de   leraar zijn de omschrijving van de kennis, vaardigheden en attitudes, waarover   iedere afgestudeerde moet beschikken om op een volwaardige manier als beginnend   leraar te kunnen fungeren. De basiscompetenties stellen de leraar in staat door   te groeien naar het beroepsprofiel en worden rechtstreeks afgeleid van het   beroepsprofiel.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">De Vlaamse Regering bepaalt de   basiscompetenties op advies van de Vlaamse Onderwijsraad.</P>
+§ 1. In dit hoofdstuk wordt verstaan onder :<br>
+1° inservicetraining : de praktijkcomponent van de lerarenopleiding die de kandidaat-leraar vervult als een personeelslid van een centrum, instelling of school;<br>
+2° preservicetraining : de praktijkcomponent van de lerarenopleiding die de student zonder een statutaire relatie met een centrum, instelling of school vervult.<br>
+<br>
+§ 2. Het opleidingsprogramma van een lerarenopleiding vormt een geïntegreerd geheel van een of meer vakinhouden en het aspect leraarschap, met inbegrip van een luik vakdidactiek en klasmanagement, en bestaat uit een combinatie van theoretisch en praktisch onderwijs dat inspeelt op actuele maatschappelijke thema's en ontwikkelingen.<br>
+<br>
+De praktijkcomponent van het opleidingsprogramma, waarbij de student in hoofdzaak taken uitvoert in een reële school- en klascontext, omvat het geheel van praktijkgerichte onderwijsactiviteiten, preservicetraining en/of inservicetraining. De studieomvang van de praktijkcomponent, uitgedrukt in studiepunten bedraagt ten minste dertig studiepunten.<br>
+<br>
+§ 3. De preservicetraining wordt begeleid door een personeelslid van de instelling die de lerarenopleiding aanbiedt, de stagebegeleider genaamd, en een personeelslid van het centrum, de instelling of de school, dat belast is met het mentorschap. De instellingen die de lerarenopleidingen aanbieden, sluiten een overeenkomst met de centra, instellingen of scholen. Die overeenkomst bevat onder meer : de verantwoordelijkheidsverdeling tussen het centrum, de instelling of de school, de student en de instelling die de lerarenopleiding aanbiedt, waarbij de rol van het centrum, de instelling of de school bij de evaluatie van de student wordt vastgelegd, de periode van het schooljaar waarin die preservicetraining plaatsvindt en de opdrachten die de stagiair moet opnemen.<br>
+<br>
+De inservicetraining gebeurt in de vorm van een leraar-in-opleidingsbaan, hierna de LIO-baan genoemd, en wordt uitgeoefend in een of meer onderwijsinstellingen. De leraar-in-opleiding wordt begeleid door een personeelslid van een of meer onderwijsinstellingen dat belast is met het mentorschap. De instellingen die de lerarenopleidingen aanbieden, sluiten een overeenkomst met de betrokken onderwijsinstellingen. Die overeenkomst bevat onder meer : de verantwoordelijkheidsverdeling tussen de onderwijsinstelling, de leraar-in-opleiding en de instelling die de lerarenopleiding aanbiedt, waarbij de rol van de onderwijsinstelling bij de opleiding, begeleiding en evaluatie van de leraar-in-opleiding wordt vastgelegd. De LIO-baan moet op jaarbasis ten minste vijfhonderd uren-leraar, lesuren, leraarsuren of lestijden bedragen. De LIO-baan in een centrum voor basiseducatie bedraagt op jaarbasis ten minste 0,6 vte. Indien de leraar-in-opleiding er niet in slaagt deze vijfhonderd uren te presteren, kan hij dit tekort aanvullen met preservicetraining. De LIO-baan kan hoogstens dertig studiepunten praktijkcomponent vervangen.<br>
+<br>
+Onverminderd het tweede lid van deze paragraaf is een LIO-baan in het basisonderwijs enkel mogelijk voor :<br>
+1° de leraar-in-opleiding die wordt aangesteld in het ambt van leermeester lichamelijke opvoeding of in het ambt van leermeester algemene en sociale vorming, specialiteit : lichamelijke opvoeding; of<br>
+2° de leraar-in-opleiding die voldoet aan de bepalingen van artikel 11, tweede tot en met zesde lid, van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen, en de bezoldigingsregeling in het gewoon basisonderwijs.
 
 ### ART. II.109.
 
@@ -1690,7 +1723,31 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 
 ### ART. II.171.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Twee of meer universiteiten   kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma   uitreiken en de betreffende graad van bachelor, master of doctor verlenen aan de   student die met succes een door de betrokken universiteiten gezamenlijk   georganiseerde opleiding heeft voltooid of na de succesvolle openbare   verdediging van een proefschrift voorbereid onder gezamenlijke supervisie.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Twee of meer hogescholen   kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma   uitreiken en de betreffende graad van bachelor of master verlenen aan de student   die met succes een door de betrokken hogescholen gezamenlijk georganiseerde   opleiding heeft voltooid.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Twee of meer hogescholen of 2   of meer universiteiten kunnen een in paragraaf 1 en paragraaf 2 bedoelde   gezamenlijke opleiding aanbieden die over 2 of meer studiegebieden heen   gerangschikt wordt, als de betrokken instellingen in elk van de betreffende   studiegebieden onderwijsbevoegdheid hebben.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Indien het gaat om een   bacheloropleiding die volgt op een andere bacheloropleiding of om een   masteropleiding die volgt op een andere masteropleiding dan volstaat het dat elk   van de betrokken instellingen onderwijsbevoegdheid heeft in ten minste 1 van de   betreffende studiegebieden waarin de gezamenlijke opleiding wordt gerangschikt.   <BR><BR>§ 3/1. De vereiste met betrekking tot de onderwijsbevoegdheid, vermeld   in paragraaf 1 tot en met 3, is niet van toepassing als het gaat om een   opleiding die door alle hogescholen respectievelijk alle universiteiten   gezamenlijk wordt aangeboden als vermeld in die paragrafen.<BR><BR>Individuele   hogescholen of universiteiten kunnen uit de uitzondering, vermeld in het eerste   lid, geen rechten met betrekking tot onderwijsbevoegdheid putten voor bestaande   of nieuwe opleidingen die niet voldoen aan de voorwaarde dat zij door alle   hogescholen respectievelijk alle universiteiten gezamenlijk worden   aangeboden.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. De hogescholen of de   universiteiten die een gezamenlijk georganiseerde opleiding zoals bedoeld in   paragraaf 1 en paragraaf 2 aanbieden, sluiten een overeenkomst die afspraken   bevat omtrent het opleidingsprogramma, de wijze van administratie van de   studenten en de financiële transacties tussen de instellingen. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§5. Universiteiten of hogescholen   kunnen voor de toepassing van dit artikel besluiten de uitreiking van   gezamenlijke diploma’s te differentiëren per   afstudeerrichting.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. Twee of meer universiteiten kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van bachelor, master of doctor verlenen aan de student die met succes een door de betrokken universiteiten gezamenlijk georganiseerde opleiding heeft voltooid of na de succesvolle openbare verdediging van een proefschrift voorbereid onder gezamenlijke supervisie.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§2. Twee of meer hogescholen kunnen binnen de perken van hun onderwijsbevoegdheid een gezamenlijk diploma uitreiken en de betreffende graad van gegradueerde, bachelor of master verlenen aan de student die met succes een door de betrokken hogescholen gezamenlijk georganiseerde opleiding heeft voltooid.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§3. Twee of meer hogescholen of 2 of meer universiteiten kunnen een in paragraaf 1 en paragraaf 2 bedoelde gezamenlijke opleiding aanbieden die over 2 of meer studiegebieden heen gerangschikt wordt, als de betrokken instellingen in elk van de betreffende studiegebieden onderwijsbevoegdheid hebben.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">Indien het gaat om een bacheloropleiding die volgt op een andere bacheloropleiding of om een masteropleiding die volgt op een andere masteropleiding dan volstaat het dat elk van de betrokken instellingen onderwijsbevoegdheid heeft in ten minste 1 van de betreffende studiegebieden waarin de gezamenlijke opleiding wordt gerangschikt.<br>
+<br>
+§ 3/1. De vereiste met betrekking tot de onderwijsbevoegdheid, vermeld in paragraaf 1 tot en met 3, is niet van toepassing als het gaat om een opleiding die door alle hogescholen respectievelijk alle universiteiten gezamenlijk wordt aangeboden als vermeld in die paragrafen.<br>
+<br>
+Individuele hogescholen of universiteiten kunnen uit de uitzondering, vermeld in het eerste lid, geen rechten met betrekking tot onderwijsbevoegdheid putten voor bestaande of nieuwe opleidingen die niet voldoen aan de voorwaarde dat zij door alle hogescholen respectievelijk alle universiteiten gezamenlijk worden aangeboden.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§4. De hogescholen of de universiteiten die een gezamenlijk georganiseerde opleiding zoals bedoeld in paragraaf 1 en paragraaf 2 aanbieden, sluiten een overeenkomst die afspraken bevat omtrent het opleidingsprogramma, de wijze van administratie van de studenten en de financiële transacties tussen de instellingen.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§5. Universiteiten of hogescholen kunnen voor de toepassing van dit artikel besluiten de uitreiking van gezamenlijke diploma’s te differentiëren per afstudeerrichting.</p>
 
 ### ART. II.172.
 
@@ -1854,7 +1911,7 @@ De leden van de examencommissie worden op zodanige wijze aangeduid uit de leden 
 <br>
 § 11. De studenten die vóór 1 januari 2018 voldoen aan de algemene en bijzondere toelatingsvoorwaarden voor de opleidingen in het studiegebied Geneeskunde of in het studiegebied Tandheelkunde, worden vrijgesteld van het vergelijkend toelatingsexamen, vermeld in dit artikel.<br>
 <br>
-De studenten in de masteropleiding geneeskunde of tandheelkunde die een vervolgopleiding beogen waarvoor beide basisdiploma's vereist zijn, zijn vrijgesteld van het toelatingsexamen voor de complementaire basisopleiding op voorwaarde van goedkeuring door het instellingsbestuur. De concrete modaliteiten en voorwaarden in dit verband, worden voorafgaandelijk op algemene wijze uitgewerkt in het onderwijs- en examenreglement van de instelling.<br>
+De studenten of gediplomeerden in de masteropleiding geneeskunde of tandheelkunde die een vervolgopleiding beogen waarvoor beide basisdiploma's vereist zijn, zijn vrijgesteld van het toelatingsexamen voor de complementaire basisopleiding op voorwaarde van goedkeuring door het instellingsbestuur. De concrete modaliteiten en voorwaarden in dit verband, worden voorafgaandelijk op algemene wijze uitgewerkt in het onderwijs- en examenreglement van de instelling.<br>
 <br>
 De vrijstelling van het vergelijkend toelatingsexamen, vermeld in dit artikel, geldt, onverminderd de toepassing van artikel II.193, ook voor personen die buiten België een diploma van respectievelijk arts of tandarts hebben behaald en die de toelating hebben om zich aan een universiteit in Vlaanderen in te schrijven respectievelijk voor een masteropleiding in het studiegebied Geneeskunde of een masteropleiding in het studiegebied Tandheelkunde.<br>
 <br>
@@ -2087,9 +2144,10 @@ De bepalingen in het eerste en tweede lid gelden niet voor een inschrijving in e
 
 <p>6°&nbsp;&nbsp; studenten die op basis van de artikelen 10, 10bis, 40bis of 40ter van de wet van 15 december 1980 betreffende de toegang tot het grondgebied, het verblijf, de vestiging en de verwijdering van vreemdelingen de toelating hebben gekregen om een persoon zoals bedoeld in paragraaf 1 of paragraaf 2, 1° tot en met 7°, van onderhavig artikel, of een persoon die op 31 december van het betrokken school- of academiejaar minstens 12 maanden wettig verblijft in België om hoger onderwijs te volgen of te werken, te begeleiden of vervoegen;</p>
 
-<p>7°&nbsp;&nbsp; studenten die kandidaat vluchteling zijn of hun ouders zijn kandidaat vluchteling en de student verblijft al van zijn minderjarigheid in België en heeft niet zelf een asielaanvraag ingediend. De asielaanvraag werd ontvankelijk verklaard voor 1 juni 2007 en hun procedure is nog lopende bij het Commissariaat-generaal voor de Vluchtelingen en de Staatslozen, bij de Vaste Beroepscommissie voor Vluchtelingen, of bij de Raad voor Vreemdelingenbetwistingen.</p>
-
-<p>&nbsp;</p>
+<p>7°&nbsp;&nbsp; studenten die kandidaat vluchteling zijn of hun ouders zijn kandidaat vluchteling en de student verblijft al van zijn minderjarigheid in België en heeft niet zelf een asielaanvraag ingediend. De asielaanvraag werd ontvankelijk verklaard voor 1 juni 2007 en hun procedure is nog lopende bij het Commissariaat-generaal voor de Vluchtelingen en de Staatslozen, bij de Vaste Beroepscommissie voor Vluchtelingen, of bij de Raad voor Vreemdelingenbetwistingen;<br>
+<br>
+8° studenten die familielid zijn van een onderdaan van een lidstaat van de Europese Economische Ruimte.<br>
+&nbsp;</p>
 
 <p>Aan studenten die voor 2008-2009 reeds ingeschreven waren in een opleiding in het hoger onderwijs in Vlaanderen en die op basis van eerdere bepalingen geen verhoogd studiegeld dienden te betalen, mag gedurende de duur van deze opleiding geen verhoogd studiegeld gevraagd worden.</p>
 
@@ -2188,7 +2246,7 @@ Studenten met functiebeperkingen zijn studenten met langdurige fysieke, mentale 
 <br>
 Een aanpassing is een concrete maatregel, van materiële of immateriële aard, die de beperkende invloed van een onaangepaste omgeving op de participatie van een persoon met een functiebeperking neutraliseert. Als een redelijke aanpassing wordt beschouwd, de aanpassing die geen disproportionele belasting betekent.<br>
 <br>
-Een beslissing tot weigering van de gevraagde aanpassingen kan gemotiveerd zijn op grond van een door de instelling gemaakte afweging dat de gevraagde aanpassing afbreuk doet aan de mogelijkheid de essentiële leerresultaten van de opleiding te bereiken.<br>
+Een beslissing tot weigering van de gevraagde aanpassingen kan gemotiveerd zijn op grond van een door de instelling gemaakte afweging dat de gevraagde aanpassing afbreuk doet aan de mogelijkheid de domeinspecifieke leerresultaten van de opleiding te bereiken of aan de mogelijkheid om andere doelstellingen van het opleidingsprogramma globaal te verwezenlijken..<br>
 <br>
 De criteria voor de afweging van disproportionaliteit zijn conform artikel 2, §2 en §3, van het protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding.</p>
 
@@ -2553,7 +2611,7 @@ Besturen beschikken daarbij over de mogelijkheid om maatregelen van corrigerende
 <br>
 Studenten met functiebeperkingen zijn studenten met langdurige fysieke, mentale of zintuiglijke beperkingen die hen in wisselwerking met diverse drempels kunnen beletten volledig, effectief en op voet van gelijkheid met andere studenten te participeren aan het hoger onderwijs.<br>
 <br>
-Een aanpassing is een concrete maatregel, van materiële of immateriële aard, die de beperkende invloed van een onaangepaste omgeving op de participatie van een persoon met een functiebeperking neutraliseert. Als een redelijke aanpassing wordt beschouwd, de aanpassing die geen disproportionele belasting betekent. Een beslissing tot weigering van de gevraagde aanpassingen kan gemotiveerd zijn op grond van een door de instelling gemaakte afweging dat de gevraagde aanpassing afbreuk doet aan de mogelijkheid de essentiële leerresultaten van de opleiding te bereiken.<br>
+Een aanpassing is een concrete maatregel, van materiële of immateriële aard, die de beperkende invloed van een onaangepaste omgeving op de participatie van een persoon met een functiebeperking neutraliseert. Als een redelijke aanpassing wordt beschouwd, de aanpassing die geen disproportionele belasting betekent. Een beslissing tot weigering van de gevraagde aanpassingen kan gemotiveerd zijn op grond van een door de instelling gemaakte afweging dat de gevraagde aanpassing afbreuk doet aan de mogelijkheid de domeinspecifieke leerresultaten van de opleiding te bereiken of aan de mogelijkheid om andere doelstellingen van het opleidingsprogramma globaal te verwezenlijken.<br>
 <br>
 De criteria voor de afweging van disproportionaliteit zijn conform artikel 2, §2 en §3, van het protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding.<br>
 <br>
@@ -6910,7 +6968,60 @@ De partners bij de associaties kunnen personeelsleden met hun instemming   belas
 
 ### ART. III.114.
 
-<P style="MARGIN: 0cm 0cm 0pt">§1. Aan de Evangelische Theologische Faculteit te   Leuven en aan de Faculteit voor Protestantse Godgeleerdheid te Brussel, wordt   jaarlijks een subsidie toegekend voor de organisatie van de graden die zij   kunnen verlenen in overeenstemming met artikel II.105 en II.106. De subsidie is   een bijdrage in de dekking van de gewone uitgaven voor onderwijs, onderzoek,   maatschappelijke en wetenschappelijke dienstverlening, de financiering van   investeringen, de afbetaling van leningen en voor de administratie van de   faculteit, met inbegrip van de roerende uitrustingen.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het totale bedrag van de subsidie voor de beide   instellingen bedraagt 574.000 euro. Dit bedrag wordt verhoogd met:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">1°&nbsp;&nbsp;   100.000 euro in het begrotingsjaar 2012;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">2°&nbsp;&nbsp;   200.000 euro in het begrotingsjaar 2013;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo1">3°&nbsp;&nbsp;   300.000 euro vanaf het begrotingsjaar 2014.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. In het begrotingsjaar 2012 wordt het bedrag   van 574.000 euro als volgt verdeeld: </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo2">1°&nbsp;&nbsp;   de Evangelische Theologische Faculteit te Leuven ontvangt 446.000 euro;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l4 level1 lfo2">2°&nbsp;&nbsp;   de Faculteit voor Protestantse Godgeleerdheid te Brussel ontvangt 128.000   euro.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het bijkomend bedrag van 100.000 euro wordt   verdeeld onder de beide instellingen naar rato van het aantal opgenomen   studiepunten in het academiejaar 2010-2011. Het gaat om de studiepunten   opgenomen in een bacheloropleiding, een initiële masteropleiding of een   specifieke lerarenopleiding die de faculteit bij of krachtens een decreet mag   aanbieden.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. Vanaf het begrotingsjaar 2013 bestaan de   totale bedragen, vermeld in paragraaf 1, uit een sokkel, een variabel   onderwijsdeel en een variabel onderzoeksdeel.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">In de begrotingsjaren 2013 en 2014 bedraagt de   sokkel 160.000 euro. Vanaf het begrotingsjaar 2015 bedraagt de sokkel 100.000   euro. Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit   te Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel naar   rato van 50%. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabel onderwijsdeel bedraagt:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo3">1°&nbsp;&nbsp;   337.700 euro in het begrotingsjaar 2013;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo3">2°&nbsp;&nbsp;   392.700 euro in het begrotingsjaar 2014;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l3 level1 lfo3">3°&nbsp;&nbsp;   425.700 euro vanaf het begrotingsjaar 2015.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Deze bedragen worden verdeeld onder de   Evangelische Theologische Faculteit te Heverlee en de Faculteit voor   Protestantse Godgeleerdheid te Brussel op basis van het aantal   financieringspunten berekend in beide instellingen.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het aantal financieringspunten is gelijk aan de   som van:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo6">1°&nbsp;&nbsp;   het gemiddeld aantal opgenomen studiepunten in de academiejaren t-7/t-6 tot en   met t-3/t-2 voorafgaand aan het begrotingsjaar t in een initiële   bacheloropleiding, een initiële masteropleiding en een specifieke   lerarenopleiding die de desbetreffende instellingen bij of krachtens een decreet   mogen aanbieden; en</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo6">2°&nbsp;&nbsp;   het gemiddeld aantal uitgereikte masterdiploma’s in de academiejaren t-7/t-6 tot   en met t-3/t-2 voorafgaand aan het begrotingsjaar t, vermenigvuldigd met een   factor 30. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het variabel onderzoeksdeel bedraagt:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">1°&nbsp;&nbsp;   276.300 euro in het begrotingsjaar 2013;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">2°&nbsp;&nbsp;   321.300 euro in het begrotingsjaar 2014;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">3°&nbsp;&nbsp;   348.300 euro vanaf het begrotingsjaar 2015.</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">&nbsp;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l5 level1 lfo4">Dit   variabel onderzoeksdeel wordt toegekend op voorwaarde dat de Evangelische   Theologische Faculteit te Heverlee en de Faculteit voor Protestantse   Godgeleerdheid te Brussel een gezamenlijk onderzoeksplan hebben ingediend bij de   Vlaamse minister, bevoegd voor het onderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het onderzoeksplan tekent het gezamenlijk   onderzoeksbeleid uit betreffende het onderzoek in de protestantse godgeleerdheid   en heeft een looptijd van 5 jaar. Het bevat ten minste de volgende elementen:   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">1°&nbsp;&nbsp;   de strategische en operationele doelstellingen betreffende het onderzoeksbeleid   voor de beschouwde periode;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">2°&nbsp;&nbsp;   de kwantiteit en kwaliteit van de te leveren prestaties;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">3°&nbsp;&nbsp;   de gewenste output;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo5">4°&nbsp;&nbsp;   de mate en inhoud van samenwerking met binnenlandse en buitenlandse   onderwijsinstellingen en andere internationale instellingen en organisaties.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Daarenboven geeft het onderzoeksplan de   verdeelsleutel op voor de verdeling van het variabel onderzoeksdeel tussen de   beide instellingen voor de beschouwde periode van 5 jaar. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">Het eerste onderzoeksplan gaat in vanaf 1 januari   2013 en loopt tot 31 december 2017. Jaarlijks bezorgen deze instellingen voor 31   maart een gezamenlijk verslag over de uitvoering van het onderzoeksplan en de   gerealiseerde output aan de minister, bevoegd voor het onderwijs.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">In het geval de instelling geen of een ondermaats   verslag heeft bezorgd voor 31 maart wordt het variabel onderzoeksdeel niet   toegekend in het betrokken begrotingsjaar. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§4. De bedragen vermeld in paragraaf 3 worden   vanaf het begrotingsjaar 2013 geïndexeerd overeenkomstig de bepalingen vermeld   in artikel III.5, §9. </P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§5. De Evangelische Theologische Faculteit te   Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel leggen   jaarlijks een begroting, een jaarrekening en een jaarverslag voor aan de Vlaamse   Regering. De Vlaamse Regering kan nadere voorschriften opleggen betreffende de   inhoud en het opstellen van de begroting, de jaarrekening en het jaarverslag en   kan ter plaatse de nodige verificaties laten uitvoeren.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§6. De commissarissen van de Vlaamse Regering   zijn belast met het toezicht op de Evangelische Theologische Faculteit te Leuven   en de Faculteit voor Protestantse Godgeleerdheid te Brussel, overeenkomstig de   bepalingen in deel 4, titel 4, hoofdstuk 1.<BR><BR>§ 7. De bedragen voor de   Evangelische Theologische Faculteit en de Faculteit Protestantse Godgeleerdheid,   berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2   % verminderd.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. Aan de Evangelische Theologische Faculteit te Leuven en aan de Faculteit voor Protestantse Theologie en Religiestudies te Brussel, wordt jaarlijks een subsidie toegekend voor de organisatie van de graden die zij kunnen verlenen in overeenstemming met artikel II.105 en II.106. De subsidie is een bijdrage in de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de faculteit, met inbegrip van de roerende uitrustingen.<br>
+<br>
+Het totale bedrag van de subsidie voor de beide instellingen bedraagt 574.000 euro. Dit bedrag wordt verhoogd met:<br>
+1°&nbsp;&nbsp; 100.000 euro in het begrotingsjaar 2012;<br>
+2°&nbsp;&nbsp; 200.000 euro in het begrotingsjaar 2013;<br>
+3°&nbsp;&nbsp; 300.000 euro vanaf het begrotingsjaar 2014.<br>
+<br>
+§2. In het begrotingsjaar 2012 wordt het bedrag van 574.000 euro als volgt verdeeld:<br>
+1°&nbsp;&nbsp; de Evangelische Theologische Faculteit te Leuven ontvangt 446.000 euro;<br>
+2°&nbsp;&nbsp; de Faculteit voor Protestantse Godgeleerdheid te Brussel ontvangt 128.000 euro.<br>
+<br>
+Het bijkomend bedrag van 100.000 euro wordt verdeeld onder de beide instellingen naar rato van het aantal opgenomen studiepunten in het academiejaar 2010-2011. Het gaat om de studiepunten opgenomen in een bacheloropleiding, een initiële masteropleiding of een specifieke lerarenopleiding die de faculteit bij of krachtens een decreet mag aanbieden.<br>
+<br>
+§3. Vanaf het begrotingsjaar 2013 bestaan de totale bedragen, vermeld in paragraaf 1, uit een sokkel, een variabel onderwijsdeel en een variabel onderzoeksdeel.<br>
+<br>
+In de begrotingsjaren 2013 en 2014 bedraagt de sokkel 160.000 euro. Vanaf het begrotingsjaar 2015 bedraagt de sokkel 100.000 euro. Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel naar rato van 50%.<br>
+<br>
+Het variabel onderwijsdeel bedraagt:<br>
+1°&nbsp;&nbsp; 337.700 euro in het begrotingsjaar 2013;<br>
+2°&nbsp;&nbsp; 392.700 euro in het begrotingsjaar 2014;<br>
+3°&nbsp;&nbsp; 425.700 euro vanaf het begrotingsjaar 2015.<br>
+<br>
+Deze bedragen worden verdeeld onder de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel op basis van het aantal financieringspunten berekend in beide instellingen.<br>
+<br>
+Het aantal financieringspunten is gelijk aan de som van:<br>
+1°&nbsp;&nbsp; het gemiddeld aantal opgenomen studiepunten in de academiejaren t-7/t-6 tot en met t-3/t-2 voorafgaand aan het begrotingsjaar t in een initiële bacheloropleiding, een initiële masteropleiding en een specifieke lerarenopleiding die de desbetreffende instellingen bij of krachtens een decreet mogen aanbieden; en<br>
+2°&nbsp;&nbsp; het gemiddeld aantal uitgereikte masterdiploma’s in de academiejaren t-7/t-6 tot en met t-3/t-2 voorafgaand aan het begrotingsjaar t, vermenigvuldigd met een factor 30.<br>
+<br>
+Het variabel onderzoeksdeel bedraagt:<br>
+1°&nbsp;&nbsp; 276.300 euro in het begrotingsjaar 2013;<br>
+2°&nbsp;&nbsp; 321.300 euro in het begrotingsjaar 2014;<br>
+3°&nbsp;&nbsp; 348.300 euro vanaf het begrotingsjaar 2015.<br>
+<br>
+Dit variabel onderzoeksdeel wordt toegekend op voorwaarde dat de Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Godgeleerdheid te Brussel een gezamenlijk onderzoeksplan hebben ingediend bij de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Het onderzoeksplan tekent het gezamenlijk onderzoeksbeleid uit betreffende het onderzoek in de protestantse godgeleerdheid en heeft een looptijd van 5 jaar. Het bevat ten minste de volgende elementen:<br>
+1°&nbsp;&nbsp; de strategische en operationele doelstellingen betreffende het onderzoeksbeleid voor de beschouwde periode;<br>
+2°&nbsp;&nbsp; de kwantiteit en kwaliteit van de te leveren prestaties;<br>
+3°&nbsp;&nbsp; de gewenste output;<br>
+4°&nbsp;&nbsp; de mate en inhoud van samenwerking met binnenlandse en buitenlandse onderwijsinstellingen en andere internationale instellingen en organisaties.<br>
+<br>
+Daarenboven geeft het onderzoeksplan de verdeelsleutel op voor de verdeling van het variabel onderzoeksdeel tussen de beide instellingen voor de beschouwde periode van 5 jaar.<br>
+<br>
+Het eerste onderzoeksplan gaat in vanaf 1 januari 2013 en loopt tot 31 december 2017. Jaarlijks bezorgen deze instellingen voor 31 maart een gezamenlijk verslag over de uitvoering van het onderzoeksplan en de gerealiseerde output aan de minister, bevoegd voor het onderwijs.<br>
+<br>
+In het geval de instelling geen of een ondermaats verslag heeft bezorgd voor 31 maart wordt het variabel onderzoeksdeel niet toegekend in het betrokken begrotingsjaar.<br>
+<br>
+§4. De bedragen vermeld in paragraaf 3 worden vanaf het begrotingsjaar 2013 geïndexeerd overeenkomstig de bepalingen vermeld in artikel III.5, §9.<br>
+<br>
+§5. De Evangelische Theologische Faculteit te Heverlee en de Faculteit voor Protestantse Theologie en Religiestudies te Brussel leggen jaarlijks een begroting, een jaarrekening en een jaarverslag voor aan de Vlaamse Regering. De Vlaamse Regering kan nadere voorschriften opleggen betreffende de inhoud en het opstellen van de begroting, de jaarrekening en het jaarverslag en kan ter plaatse de nodige verificaties laten uitvoeren.<br>
+<br>
+§6. De commissarissen van de Vlaamse Regering zijn belast met het toezicht op de Evangelische Theologische Faculteit te Leuven en de Faculteit voor Protestantse Godgeleerdheid te Brussel, overeenkomstig de bepalingen in deel 4, titel 4, hoofdstuk 1.<br>
+<br>
+§ 7. De bedragen voor de Evangelische Theologische Faculteit en de Faculteit voor Protestantse Theologie en Religiestudies, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd.</p>
 
 ## Hoofdstuk 4 Stichtingen van openbaar nut voor postinitieel onderwijs
 
@@ -7772,31 +7883,60 @@ In afwijking van de artikelen IV.95 en IV.108 van deze codex kan de Vlaamse Rege
 
 ### ART. V.11.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur bepaalt bij de vacantverklaring van een opdracht of die   opdracht voltijds of deeltijds is dan wel tot een voltijdse en/of deeltijdse   benoeming of aanstelling aanleiding kan geven. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Tevens bepaalt het universiteitsbestuur het deeltijds karakter van een   opdracht wanneer een lid van het academisch personeel met een voltijdse opdracht   ofwel om een deeltijdse opdracht verzoekt en het universiteitsbestuur hiermee   instemt, ofwel in toepassing van artikel V.13 ambtshalve in een deeltijdse   opdracht wordt geplaatst.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Het universiteitsbestuur bepaalt bij de vacantverklaring van een opdracht of die opdracht voltijds of deeltijds is dan wel tot een voltijdse en/of deeltijdse benoeming of aanstelling aanleiding kan geven.<br>
+<br>
+Tevens bepaalt het universiteitsbestuur het deeltijds karakter van een opdracht wanneer een lid van het academisch personeel met een voltijdse opdracht ofwel om een deeltijdse opdracht verzoekt en het universiteitsbestuur hiermee instemt, ofwel in toepassing van artikel V.16 ambtshalve in een deeltijdse opdracht wordt geplaatst.</p>
 
 ### ART. V.12.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   leden van het academisch personeel met een voltijdse opdracht mogen geen andere   beroepsactiviteit of een andere bezoldigde activiteit uitoefenen dan met   toestemming van het universiteitsbestuur.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Het   universiteitsbestuur stelt jaarlijks de naamlijst op van de voltijdse en van de   deeltijdse leden van het academisch personeel die ten minste een halftijdse   opdracht uitoefenen, en die andere bezoldigde of onbezoldigde activiteiten   uitoefenen die verenigbaar worden geacht met hun opdracht aan de universiteit.   </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De aard en de omvang van die externe activiteiten, evenals de omvang   van hun opdracht aan de universiteit, worden in een tabel aangegeven tegenover   de naam van ieder personeelslid. Het universiteitsbestuur maakt deze lijst   openbaar in de universiteit.</P>  <P style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt" class=MsoBodyText   align=left>&nbsp;</P>  <P style="TEXT-ALIGN: left; MARGIN: 0cm 0cm 0pt" class=MsoBodyText   align=left>De opdrachten van de leden van het academisch personeel toegewezen   krachtens artikel V.17 en Titel 3 dienen op deze lijst niet vermeld te   worden.</P>
+Een deeltijdse opdracht wordt als een procentueel aandeel van een voltijdse opdracht bepaald. Voor het bepalen van een procentueel aandeel komt elke halve dag per week die besteed wordt ten dienste van de universiteit overeen met 10 %. Het procentuele aandeel omvat minstens 10 % van een voltijdse aanstelling en wordt altijd als een veelvoud van vijf uitgedrukt.<br>
+<br>
+In afwijking van het eerste lid bedraagt een deeltijdse opdracht van een lid van het zelfstandig academisch personeel die uitsluitend onderwijsactiviteiten omvat en van praktijkassistenten, ten minste 5 %.
 
 ### ART. V.13.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Deeltijds wordt ambtshalve de opdracht van het lid van het academisch   personeel dat een andere beroepsactiviteit of een andere bezoldigde activiteit   uitoefent welke een groot gedeelte van zijn tijd in beslag neemt.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Als   andere beroepsactiviteiten of bezoldigde activiteiten die een groot gedeelte van   de tijd in beslag nemen, worden beschouwd alle activiteiten waarvan de omvang 2   halve dagen per week overschrijdt of die voorkomen op een lijst vastgesteld door   de Vlaamse Regering, eventueel aangevuld door het universiteitsbestuur. De   Vlaamse Regering kan bij het vaststellen van de lijst tevens de voorwaarden en   de procedure vastleggen waaronder het universiteitsbestuur bij met redenen   omklede beslissing individueel een afwijking kan toestaan aan een lid van het   academisch personeel dat een bepaalde activiteit uitoefent die voorkomt op die   lijst. </P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Voor   de toepassing van het bepaalde in artikel V.12 en V.13 worden de medische en   paramedische activiteiten uitgeoefend door een lid van het academisch personeel   in uitvoering van een arbeidsovereenkomst of van een reglement inzake   kliniekvergoedingen niet beschouwd als zijnde andere beroepsactiviteiten of   andere bezoldigde activiteiten indien ze uitsluitend worden uitgeoefend in het   Universitair Ziekenhuis Gent voor wat de Universiteit Gent betreft, of, voor wat   de andere universiteiten vermeld in artikel II.2 betreft, in het universitair   ziekenhuis, deel uitmakend van de eigen universiteit of hiervan afgesplitst en   omgevormd in een autonome rechtspersoon. Voor wat de Vrije Universiteit Brussel   betreft is het bovenstaande eveneens van toepassing op de personeelsleden   verbonden aan de tandheelkundige kliniek.</P>
+De opdracht van een lid van het zelfstandig academisch personeel in een deeltijds dienstverband kan ofwel uitsluitend onderwijsactiviteiten, ofwel uitsluitend onderzoeksactiviteiten, ofwel een combinatie van beide bevatten. Ook wetenschappelijke dienstverlening en organisatorische, coördinerende of administratieve taken kunnen tot de taakstelling van die leden van het zelfstandig academisch personeel behoren.<br>
+<br>
+Een deeltijdse opdracht van een bepaalde graad van het zelfstandig academisch personeel kan in dezelfde universiteit niet gecombineerd worden met een deeltijdse opdracht van een andere graad van het zelfstandig academisch personeel.
 
 ### ART. V.14.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>De   opdracht van een lid van het zelfstandig academisch personeel in een deeltijds   dienstverband kan ofwel uitsluitend onderwijsactiviteiten, ofwel uitsluitend   onderzoeksactiviteiten of een combinatie van beide bevatten. Ook   wetenschappelijke dienstverlening kan tot de taakstelling van die leden van het   zelfstandig academisch personeel behoren.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: 0cm"   class=MsoNormal>Deze   deeltijdse opdrachten worden uitgedrukt als een procentueel aandeel van een   voltijdse opdracht. Voor het bepalen van een procentueel aandeel komt elke halve   dag per week die besteed wordt ten dienste van de universiteit overeen met 10%.   Het procentueel aandeel moet minstens 10% van een voltijdse aanstelling omvatten   en wordt altijd als een veelvoud van 5 uitgedrukt. In afwijking van het   vorenstaande bedraagt het procentueel aandeel van een deeltijdse opdracht die   uitsluitend onderwijsactiviteiten omvat, ten minste 5%.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+Bij overeenkomst tussen twee of meer universiteiten kunnen afzonderlijke onderwijs- en onderzoeksopdrachten verdeeld over de universiteiten in kwestie als één voltijdse opdracht omschreven worden. In de overeenkomst wordt de universiteit aangewezen die als werkgever van de betrokken personen moet worden beschouwd en worden de opdrachten van de betrokken personen in de verschillende universiteiten procentsgewijs ten opzichte van een voltijdse opdracht bepaald.
 
 ### ART. V.15.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een   deeltijdse opdracht van een lid van het assisterend academisch personeel wordt   als een procentueel aandeel van een voltijdse opdracht bepaald. Voor de bepaling   van het procentueel aandeel komt elke halve dag per week die besteed wordt ten   dienste van de universiteit overeen met 10%. Het procentueel aandeel moet ten   minste 10% van een voltijdse opdracht omvatten en wordt steeds uitgedrukt in een   veelvoud van 5. In afwijking van het vorenstaande bedraagt het procentueel   aandeel van een deeltijdse opdracht van assistenten die uitsluitend belast zijn   met taken van praktijkgebonden onderwijs, ten minste 5%.<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+Ieder personeelslid dat ten minste een halftijdse opdracht uitoefent, bezorgt de universiteit een overzicht van de politieke mandaten en de andere beroeps- of bezoldigde activiteiten die het naast de opdracht aan de universiteit uitoefent. Een personeelslid kan dat overzicht op ieder moment inkijken en laten aanpassen.
 
 ### ART. V.16.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een deeltijdse opdracht van een   bepaalde graad van het zelfstandig academisch personeel kan in dezelfde   universiteit niet gecombineerd worden met een deeltijdse opdracht van een andere   graad van het zelfstandig academisch personeel.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+De totale omvang van de opdrachten van een personeelslid dat ten minste een halftijdse opdracht uitoefent aan de universiteit en dat daarnaast een politiek mandaat bekleedt of een andere bezoldigde activiteit of beroepsactiviteit uitoefent, bedraagt maximaal 120 %.<br>
+<br>
+Als de totale omvang van de opdrachten, vermeld in het eerste lid, meer dan 120 % bedraagt, wordt de opdracht aan de universiteit ambtshalve gereduceerd tot een percentage dat nodig is om de grens van 120 % te bereiken. De omvang van de opdracht die het personeelslid na de reductie nog uitoefent aan de universiteit, bedraagt ten minste 50 %.<br>
+<br>
+Een opdracht waarvan aangenomen wordt dat de uitoefening een halve dag per week in beslag neemt, komt overeen met een volume van 10 % van een voltijdse opdracht. De Vlaamse Regering bepaalt van welke politieke mandaten ambtshalve aangenomen wordt dat deze meer dan 20 % van een voltijdse opdracht in beslag nemen. Deze politieke mandaten leiden tot een ambtshalve reductie van de voltijdse opdracht van een lid van het academisch personeel.
 
 ### ART. V.17.
 
-Bij overeenkomst gesloten tussen 2 of meer universiteiten, kunnen   afzonderlijke onderwijs- en onderzoeksopdrachten verdeeld over de betrokken   universiteiten als 1 voltijdse opdracht omschreven worden. In de overeenkomst   wordt de universiteit aangewezen die als werkgever van de betrokken personen   moet worden beschouwd en worden de opdrachten van de betrokken personen in de   verschillende universiteiten procentsgewijs ten opzichte van een voltijdse   opdracht bepaald.
+Het universiteitsbestuur legt de regels vast over het meedelen van politieke mandaten en andere beroepsactiviteiten of bezoldigde activiteiten en over het bepalen van de omvang van de politieke mandaten die niet tot een ambtshalve reductie leiden en van andere beroepsactiviteiten of bezoldigde activiteiten.<br>
+<br>
+Voor de toepassing van artikel V.15 en V.16 worden de medische en paramedische activiteiten die worden uitgeoefend door een lid van het academisch personeel ter uitvoering van een arbeidsovereenkomst of van een reglement over kliniekvergoedingen, niet beschouwd als andere beroepsactiviteiten of andere bezoldigde activiteiten, als ze uitsluitend worden uitgeoefend in het universitair ziekenhuis dat deel uitmaakt van de eigen universiteit of daarvan afgesplitst is en omgevormd is tot een autonome rechtspersoon.<br>
+<br>
+Voor de Vrije Universiteit Brussel is het tweede lid ook van toepassing op de personeelsleden verbonden aan de tandheelkundige kliniek.
+
+### ART V.17/1.
+
+Het universiteitsbestuur legt in een reglement of in het arbeidsreglement de regels vast met betrekking tot het uitoefenen van nevenactiviteiten die geheel of gedeeltelijk onverenigbaar zijn met een tewerkstelling aan de universiteit.<br>
+<br>
+Onverenigbaar zijn bezoldigde of onbezoldigde activiteiten die:<br>
+1° leiden tot een tegenstrijdigheid van belangen bij het personeelslid;<br>
+2° schade berokkenen aan de universiteit;<br>
+3° belemmeren dat de opdracht aan de universiteit naar behoren uitgevoerd wordt.<br>
+<br>
+Het in het eerste lid vermelde reglement of arbeidsreglement legt ten minste de volgende elementen vast:<br>
+1° de procedure voor het vaststellen van een onverenigbaarheid. Die procedure waarborgt het hoorrecht van het personeelslid en voorziet in een beroepsprocedure;<br>
+2° de gevolgen die verbonden zijn aan het uitoefenen van onverenigbare activiteiten.<br>
+<br>
+Het universiteitsbestuur kan de aanstelling of benoeming van een personeelslid dat na de procedure, vermeld in het&nbsp;derde lid, 1°, weigert een einde te maken aan de vastgestelde en voortdurende onverenigbaarheid, ambtshalve beëindigen. Bij een ambtshalve beëindiging van een benoeming betaalt het universiteitsbestuur de werkgevers- en werknemersbijdragen die nodig zijn om het personeelslid onder de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering te brengen.
 
 ### ART. V.18.
 
@@ -8169,7 +8309,12 @@ De periode van de borstvoedingspauze wordt bezoldigd en is gelijkgesteld met die
 
 ### ART. V.88.
 
-<P style="MARGIN: 0cm 0cm 0pt">Onder de door de Vlaamse Regering bepaalde voorwaarden bevindt het   personeelslid zich in de stand non-activiteit: <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp; wanneer het in vredestijd   sommige militaire prestaties vervult of voor de civiele bescherming dan wel voor   taken van openbaar nut wordt aangewezen op grond van de wetten houdende het   statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp; wanneer het een afwezigheid   van lange duur gewettigd door familiale redenen wordt toegestaan;   </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp; wanneer het afwezig is op   grond van een toestemming om zijn ambt met verminderde prestaties wegens   persoonlijke aangelegenheid uit te oefenen. In dit geval is het personeelslid in   non-activiteit voor de niet-uitgeoefende prestaties; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">4°&nbsp;&nbsp; wanneer het met politiek   verlof is met inbegrip van de periode van eventuele uitgestelde indiensttreding   na het beëindigen van het mandaat; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">5°&nbsp;&nbsp; wanneer het personeelslid met   toepassing van artikel V.170 ambtshalve deeltijds wordt. De non-activiteit heeft   betrekking op het gedeelte van de opdracht dat niet meer uitgeoefend wordt.   </P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Onder de door de Vlaamse Regering bepaalde voorwaarden bevindt het personeelslid zich in de stand non-activiteit:<br>
+1°&nbsp;&nbsp; wanneer het in vredestijd sommige militaire prestaties vervult of voor de civiele bescherming dan wel voor taken van openbaar nut wordt aangewezen op grond van de wetten houdende het statuut van de gewetensbezwaarden, gecoördineerd op 20 februari 1980;<br>
+2°&nbsp;&nbsp; wanneer het een afwezigheid van lange duur gewettigd door familiale redenen wordt toegestaan;<br>
+3°&nbsp;&nbsp; wanneer het afwezig is op grond van een toestemming om zijn ambt met verminderde prestaties wegens persoonlijke aangelegenheid uit te oefenen. In dit geval is het personeelslid in non-activiteit voor de niet-uitgeoefende prestaties;<br>
+4°&nbsp;&nbsp; wanneer het met politiek verlof is met inbegrip van de periode van eventuele uitgestelde indiensttreding na het beëindigen van het mandaat;<br>
+5°&nbsp;&nbsp;...</p>
 
 ### ART. V.89.
 
@@ -8330,6 +8475,13 @@ In afwijking van het eerste lid, punt 5°, kan de aanstelling van het personeels
 <br>
 De opzeggingstermijn wordt herleid tot 7 dagen indien het een personeelslid betreft dat is aangesteld voor een periode van minder dan 12 maanden en indien dit personeelslid de evaluatie "onvoldoende" heeft gekregen voor het ambt waarop de evaluatie betrekking heeft.</p>
 
+### V.110/1.
+
+In uitvoering van artikel V.170 reduceert het hogeschoolbestuur ambtshalve en zonder opzegging de aanstelling van een lid van het onderwijzend personeel als aan al de volgende voorwaarden voldaan is:<br>
+1° het personeelslid heeft aan de hogeschool ten minste een halftijdse benoeming of aanstelling binnen een of meer ambten van het onderwijzend personeel;<br>
+2° het personeelslid oefent naast de opdracht aan de hogeschool nog een andere bezoldigde activiteit of beroepsactiviteit uit;<br>
+3° de totale omvang van de opdrachten, vermeld in punt 1° en 2°, bedraagt meer dan 120 %.
+
 ### ART. V.111.
 
 <p>§1. Een benoeming eindigt van rechtswege en zonder vooropzeg:<br>
@@ -8350,6 +8502,14 @@ In afwijking van het eerste lid, punt 5°, kan de benoeming van het personeelsli
 In deze gevallen wordt een opzeggingstermijn toegekend waarvan de duur gelijk is aan de periode die nodig is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering. Tijdens deze opzeggingstermijn wordt het personeelslid geacht als tijdelijk te zijn aangesteld en kan de hogeschool het betrokken personeelslid met een andere opdracht belasten. Het betrokken personeelslid geniet dan het brutosalaris verbonden aan het ambt waarin het was benoemd. Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.<br>
 <br>
 §3. Het hogeschoolbestuur kan de benoeming van een personeelslid eveneens beëindigen bij een ontslag om een dringende reden. In dit geval vindt het ontslag plaats zonder opzeggingstermijn of verbrekingsvergoeding. Het hogeschoolbestuur betaalt evenwel de werkgevers- en werknemersbijdragen nodig voor de opname van het betrokken personeelslid in de werkloosheidsverzekering, de ziekteverzekering met inbegrip van de sector uitkeringen en de moederschapsbescherming. De duur van de periode gedekt door de betaling van werkgevers- en werknemersbijdragen voor de werkloosheidsverzekering en de ziekteverzekering met inbegrip van de sector uitkeringen mag de duur van de benoeming van het ontslagen personeelslid niet overschrijden.</p>
+
+### V.111/1.
+
+In uitvoering van artikel V.170 reduceert het hogeschoolbestuur ambtshalve en zonder opzegging de benoeming van een lid van het onderwijzend personeel als aan al de volgende voorwaarden voldaan is:<br>
+1° het personeelslid heeft aan de hogeschool ten minste een halftijdse benoeming of aanstelling binnen een of meer ambten van het onderwijzend personeel;<br>
+2° het personeelslid oefent naast de opdracht aan de hogeschool nog een andere bezoldigde activiteit of beroepsactiviteit uit;<br>
+3° de totale omvang van de opdrachten, vermeld in punt 1° en 2°, bedraagt meer dan 120 %;<br>
+4° er is geen verdere ambtshalve reductie van een aanstelling als lid van het onderwijzend personeel mogelijk.
 
 ### ART. V.112.
 
@@ -8372,6 +8532,31 @@ In deze gevallen wordt een opzeggingstermijn toegekend waarvan de duur gelijk is
 <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Als het hogeschoolbestuur een aanstelling of benoeming beëindigt zonder   inachtneming van de in artikel V.110, §2, en V.111, §2, bedoelde   opzeggingstermijn, of zonder inachtneming van de in artikel V.114 bedoelde   motivering, moet zij aan het personeelslid een vergoeding betalen die gelijk is   aan het lopend loon dat overeenstemt hetzij met de duur van de   opzeggingstermijn, hetzij met het resterende gedeelte van die   termijn.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Als het personeelslid zijn aanstelling beëindigt zonder inachtneming van   de in artikel V.115 bedoelde opzeggingstermijn, moet het aan het   hogeschoolbestuur een vergoeding betalen die gelijk is aan het lopend loon dat   overeenstemt hetzij met de duur van de opzeggingstermijn, hetzij met het   resterende gedeelte van die termijn.</P>
 
 ## [Afdeling 7 Politiek verlof (ing. decr. 15 juni 2018, art. 102, I: 1 september 2018)]
+
+### ART V.116/1.
+
+De personeelsleden worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br>
+1° het lidmaatschap van het Europees of Belgisch Parlement, van een Gemeenschaps- of Gewestparlement, van de Commissie van de Europese Gemeenschap, van een regering op federaal, gemeenschaps- of gewestniveau;<br>
+2° het ambt van gouverneur, vicegouverneur, adjunct van de gouverneur van Vlaams-Brabant of het mandaat van een lid van het rechtsprekend college, vermeld in artikel 83quinquies, § 2, van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, of van bestendig afgevaardigde of van staatssecretaris in het Brusselse Hoofdstedelijke Gewest;<br>
+3° het ambt van burgemeester, schepen of OCMW-voorzitter in een gemeente van meer dan 50.000 inwoners.<br>
+<br>
+Het politiek verlof begint van ambtswege op de datum van de eedaflegging voor een van de mandaten, vermeld in het eerste lid.
+
+### ART V.116/2.
+
+Het hogeschoolbestuur kan een personeelslid op zijn of haar verzoek een politiek verlof toekennen voor de uitoefening van een mandaat van burgemeester, schepen of OCMW-voorzitter van een gemeente en voorzitter of lid van het vast bureau van de districtsraad, ongeacht het aantal inwoners. Het personeelslid kan het verlof voltijds of deeltijds opnemen.
+
+### ART V.116/3.
+
+Voor de toepassing van artikel V.116/1 wordt het aantal inwoners bepaald conform artikel 4, § 3, van het decreet over het lokaal bestuur van 22 december 2017.
+
+### ART V.116/4.
+
+Gedurende de periodes van politiek verlof van ambtswege of op eigen verzoek is het personeelslid in de stand non-activiteit. Het personeelslid heeft tijdens die periodes geen recht op een salaris. De periodes van politiek verlof tellen wel mee voor de berekening van de geldelijke anciënniteit.
+
+### ART V.116/5.
+
+Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt op de maand waarin het mandaat eindigt.
 
 ## Hoofdstuk 2 Onderwijzend personeel
 
@@ -8510,7 +8695,7 @@ In deze gevallen wordt een opzeggingstermijn toegekend waarvan de duur gelijk is
 ### ART. V.148.
 
 <p style="margin-right: 0cm; margin-left: 0cm;">§1. De bekwaamheidsbewijzen die, behoudens het bepaalde in paragraaf 2 van dit artikel, minimaal vereist zijn voor aanstelling en benoeming in de hierna vermelde ambten zijn:<br>
-1°&nbsp;&nbsp; praktijklector en hoofdpraktijklector : een diploma van professionele bachelor;<br>
+1°&nbsp;&nbsp; praktijklector en hoofdpraktijklector : een diploma van&nbsp;bachelor;<br>
 2°&nbsp;&nbsp; lector en hoofdlector : een diploma van master;<br>
 3°&nbsp;&nbsp; assistent en werkleider : een diploma van master;<br>
 4°&nbsp;&nbsp; doctor-assistent : een diploma van doctor op proefschrift;<br>
@@ -8592,7 +8777,11 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.164.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De personeelsleden belast met artistiek gebonden   onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en   Muziek en podiumkunsten, met uitzondering van de basisopleidingen van   professionele bachelor, krijgen voor een voltijds of deeltijds ambt van hetzij   assistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar of   gewoon hoogleraar bijzondere salarisschalen, vastgesteld door de Vlaamse   Regering. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Wanneer zij evenwel bij de uitoefening van hun ambt afzien van de   toepassing van artikel V.172, krijgen zij mits het hogeschoolbestuur de   uitdrukkelijke toestemming geeft, de gangbare salarisschaal verbonden aan het   ambt dat zij bekleden. De toekenning van de gangbare salarisschaal is geen recht   voor het personeelslid, heeft altijd een tijdelijk karakter en dient jaarlijks   geëvalueerd te worden. De gangbare salarisschaal blijft verworven zolang het   personeelslid blijft voldoen aan de voorwaarden waarbij zij werd toegekend.   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. In afwijking van paragraaf 2 verwerft het personeelslid dat   gedurende 4 jaar de gangbare salarisschaal genoot of met genot van de gangbare   salarisschaal de leeftijd van 55 jaar heeft bereikt, het recht om deze   salarisschaal verder te blijven genieten.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. De personeelsleden belast met artistiek gebonden onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en Muziek en podiumkunsten, met uitzondering van de basisopleidingen van professionele bachelor, krijgen voor een voltijds of deeltijds ambt van hetzij assistent, werkleider, doctor-assistent, docent, hoofddocent, hoogleraar of gewoon hoogleraar bijzondere salarisschalen, vastgesteld door de Vlaamse Regering.<br>
+<br>
+§2. Wanneer zij evenwel bij de uitoefening van hun ambt afzien van de toepassing van artikel V.171, krijgen zij mits het hogeschoolbestuur de uitdrukkelijke toestemming geeft, de gangbare salarisschaal verbonden aan het ambt dat zij bekleden. De toekenning van de gangbare salarisschaal is geen recht voor het personeelslid, heeft altijd een tijdelijk karakter en dient jaarlijks geëvalueerd te worden. De gangbare salarisschaal blijft verworven zolang het personeelslid blijft voldoen aan de voorwaarden waarbij zij werd toegekend.<br>
+<br>
+§3. In afwijking van paragraaf 2 verwerft het personeelslid dat gedurende 4 jaar de gangbare salarisschaal genoot of met genot van de gangbare salarisschaal de leeftijd van 55 jaar heeft bereikt, het recht om deze salarisschaal verder te blijven genieten.</p>
 
 ### ART. V.165.
 
@@ -8614,21 +8803,40 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.169.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De leden van het onderwijzend personeel belast met een voltijdse   opdracht en de algemeen directeur mogen geen andere beroepsactiviteit of een   andere bezoldigde activiteit uitoefenen dan met toestemming van het   hogeschoolbestuur. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Het hogeschoolbestuur stelt jaarlijks de naamlijst op van de   voltijdse en van de deeltijdse leden van het onderwijzend personeel die ten   minste een halftijdse opdracht uitoefenen, en die andere beroepsactiviteiten of   bezoldigde activiteiten uitoefenen die verenigbaar worden geacht met hun   opdracht aan de hogeschool. Tegenover de naam van elk personeelslid wordt de   aard en de duur van de nevenactiviteiten opgegeven, evenals de omvang van de   opdracht aan de hogeschool. In voorkomend geval wordt ook de algemeen directeur   op deze lijst opgenomen. Het hogeschoolbestuur maakt deze lijst openbaar in de   hogeschool.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. Voor de toepassing van dit artikel en van artikel V.170 wordt een   deeltijdse opdracht van meer dan 70% beschouwd als een voltijdse   opdracht.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+Ieder personeelslid dat ten minste een halftijdse opdracht uitoefent, bezorgt de hogeschool een overzicht van de andere beroepsactiviteiten of bezoldigde activiteiten die het naast de opdracht aan de hogeschool uitoefent. Een personeelslid kan dat overzicht op ieder moment inkijken en laten aanpassen.
 
 ### ART. V.170.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Deeltijds wordt ambtshalve de opdracht van het personeelslid, belast   met een voltijdse opdracht dat een andere beroepsactiviteit of een andere   bezoldigde activiteit uitoefent die een groot deel van zijn tijd in beslag   neemt. Het procentueel aandeel van een opdracht die ambtshalve deeltijds wordt   gesteld, bedraagt ten hoogste 70%. <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Als andere beroepsactiviteiten of bezoldigde activiteiten die een   groot gedeelte van de tijd in beslag nemen, worden beschouwd alle activiteiten   waarvan de omvang 2 halve dagen per week overschrijdt of die voorkomen op een   lijst vastgesteld door de Vlaamse Regering.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. De Vlaamse Regering kan bij het vaststellen van de lijst ook de   voorwaarden en de procedure vastleggen waaronder het hogeschoolbestuur, bij met   reden omklede beslissing, individueel een afwijking kan toestaan aan een lid van   het onderwijzend personeel dat een bepaalde activiteit uitoefent die voorkomt op   die lijst.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. Het voltijds benoemde lid van het onderwijzend personeel dat op zijn   verzoek of in toepassing van paragraaf 1 van dit artikel ambtshalve in een   deeltijdse opdracht wordt geplaatst verkrijgt, vanaf het ogenblik dat er opnieuw   aan de gestelde voorwaarden voldaan is, en indien betrokkene nog geen 60 jaar   oud is, opnieuw een voltijdse opdracht.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Dit recht vervalt als het betrokken lid langer dan 8, al dan niet   opeenvolgende academiejaren, een dergelijke deeltijdse opdracht   uitoefent.</P>
+De totale omvang van de opdrachten van een personeelslid dat ten minste een halftijdse opdracht uitoefent aan de hogeschool en dat daarnaast een andere bezoldigde activiteit of beroepsactiviteit uitoefent, bedraagt maximaal 120 %.<br>
+<br>
+Als de totale omvang van de opdrachten, vermeld in het eerste lid, meer dan 120 % bedraagt, wordt de opdracht aan de hogeschool ambtshalve gereduceerd tot een percentage dat nodig is om de grens van 120 % te bereiken. De omvang van de opdracht die het personeelslid na de reductie nog uitoefent aan de hogeschool bedraagt ten minste 50 %.<br>
+<br>
+Een opdracht waarvan aangenomen wordt dat de uitoefening een halve dag per week in beslag neemt, komt overeen met een volume van 10 % van een voltijdse opdracht.
 
 ### ART. V.171.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur kan bij wijze van algemeen reglement de lijst van   de activiteiten aanvullen die ambtshalve geacht worden een groot gedeelte van de   tijd van het onderwijzend personeel in beslag te nemen. Het hogeschoolbestuur   stuurt hiervan een afschrift aan de Vlaamse Regering via de commissaris van de   Vlaamse Regering.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+In afwijking van artikel V.170 wordt de opdracht van het personeelslid dat belast is met ten minste een halftijdse opdracht van artistiek gebonden onderwijsactiviteiten in de studiegebieden Audiovisuele en beeldende kunst, en Muziek en podiumkunsten, vermeld in artikel V.164, § 1, en dat daarnaast een andere bezoldigde activiteit of beroepsactiviteit uitoefent, niet beperkt tot 120 % als deze nevenactiviteiten van artistieke aard zijn en verband houden met de onderwijsactiviteiten die het personeelslid verstrekt. Deze afwijking geldt eveneens voor nevenactiviteiten in het kunstonderwijs. De principes van de uitoefening van nevenactiviteiten in het kunstonderwijs worden verder uitgewerkt in het hogeschoolonderhandelingscomité.
 
 ### ART. V.172.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In afwijking van artikel V.170, §1, wordt niet ambtshalve deeltijds de   opdracht van het personeelslid belast met een voltijdse opdracht van artistiek   gebonden onderwijsactiviteiten van de studiegebieden Audiovisuele en beeldende   kunst, en Muziek en podiumkunsten bedoeld in artikel V.164, §1, dat een andere   beroepsactiviteit of een andere bezoldigde activiteit uitoefent die een groot   deel van zijn tijd in beslag neemt, voor zover de nevenactiviteiten van   artistieke aard zijn en verband houden met de door het personeelslid verstrekte   onderwijsactiviteiten.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+Het hogeschoolbestuur legt de regels vast over het meedelen van andere beroepsactiviteiten of bezoldigde activiteiten en over het bepalen van de omvang van deze activiteiten.
 
 ## [Afdeling 7 Onverenigbaarheden (ing. decr. 15 juni 2018, art. 114, I: 1 september 2018)]
+
+### ART V.172/1.
+
+Het hogeschoolbestuur legt in een reglement of in het arbeidsreglement de regels vast met betrekking tot het uitoefenen van nevenactiviteiten die geheel of gedeeltelijk onverenigbaar zijn met een tewerkstelling aan de hogeschool.<br>
+<br>
+Onverenigbaar zijn bezoldigde of onbezoldigde activiteiten die:<br>
+1° leiden tot een tegenstrijdigheid van belangen bij het personeelslid;<br>
+2° schade berokkenen aan de hogeschool;<br>
+3° belemmeren dat de opdracht aan de hogeschool naar behoren uitgevoerd wordt.<br>
+<br>
+Het in het eerste lid vermelde reglement of arbeidsreglement legt ten minste de volgende elementen vast:<br>
+1° de procedure voor het vaststellen van een onverenigbaarheid. Die procedure waarborgt het hoorrecht van het personeelslid en voorziet in een beroepsprocedure;<br>
+2° de gevolgen die verbonden zijn aan het uitoefenen van onverenigbare activiteiten.<br>
+<br>
+Het hogeschoolbestuur kan de aanstelling of benoeming van een personeelslid dat na de procedure, vermeld in het derde lid, 1°, weigert een einde te maken aan de vastgestelde en voortdurende onverenigbaarheid, ambtshalve beëindigen. Bij een ambtshalve beëindiging van een benoeming betaalt het hogeschoolbestuur de werkgevers- en werknemersbijdragen die nodig zijn om het personeelslid onder de werkloosheidsverzekering, de ziekteverzekering (sector uitkeringen) en de moederschapsverzekering te brengen.
 
 ## Hoofdstuk 3 Administratief en technisch personeel
 
@@ -8748,23 +8956,23 @@ Worden eveneens aangenomen, buitenlandse diploma's of getuigschriften die kracht
 
 ### ART. V.198.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De leden van het administratief en technisch personeel worden van   ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof   gezonden voor de uitoefening van de volgende politieke mandaten: <?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; het lidmaatschap van het Europees of Belgisch Parlement, van een   Gemeenschaps- of Gewestparlement, van de Commissie van de Europese Unie, van een   regering op federaal-, gemeenschaps- of gewestniveau; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; het ambt van gouverneur, vice-gouverneur, adjunct van de gouverneur van   Vlaams-Brabant of het mandaat van lid van het rechtsprekend college, bedoeld in   artikel 83quinquies, §2, van de bijzondere wet van 12 januari 1989 met   betrekking tot de Brusselse instellingen, of van bestendig afgevaardigde of van   staatssecretaris in het Brusselse Gewest, of van burgemeester, schepen of   OCMW-voorzitter in een gemeente van meer dan 50.000 inwoners.   </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het politiek verlof van ambtswege vangt aan op de datum van de   eedaflegging voor 1 van de bovenvermelde   mandaten.</P>
+...
 
 ### ART. V.199.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur kan de leden van het administratief en technisch   personeel op hun verzoek voor de uitoefening van een mandaat van burgemeester,   schepen of voorzitter van de Raad voor Maatschappelijk Welzijn van een gemeente,   of voorzitter of lid van het vast bureau van de districtsraad, ongeacht het   aantal inwoners, een politiek verlof toekennen. Het personeelslid kan dit verlof   voltijds of halftijds opnemen.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+...
 
 ### ART. V.200.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor de toepassing van artikel V.198 wordt het aantal inwoners bepaald   overeenkomstig de bepalingen van de gemeentewet.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+...
 
 ### ART. V.201.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Gedurende de perioden van politiek verlof op eigen verzoek of van   ambtswege is het personeelslid in de stand non-activiteit. Het personeelslid   heeft tijdens deze periodes geen recht op salaris. De perioden van politiek   verlof tellen echter wel mee voor de berekening van de geldelijke   anciënniteit.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+...
 
 ### ART. V.202.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die   volgt op die waarin het mandaat een einde neemt.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+...
 
 ## Hoofdstuk 4 Overname personeel
 
@@ -9206,7 +9414,15 @@ De Vlaamse Regering is ertoe gemachtigd om bij het bepalen van de verlofstelsels
 
 ### ART. V.276.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. De personeelsleden die op 30 juni 1995 in dienst zijn als lesgever   aan een conservatorium, behouden tot hun uitdiensttreding hun ambt op   persoonlijke titel op voorwaarde dat zij: <?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>a)&nbsp;&nbsp;&nbsp;   op 15 januari 1994 in dienst waren als lesgever in een conservatorium en   er sindsdien in die hoedanigheid ononderbroken in dienst zijn   gebleven;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>b)&nbsp;&nbsp;&nbsp;   op 15 januari 1994 een dienstanciënniteit telden van 6 jaar, verworven   in het hoger onderwijs;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>c)&nbsp;&nbsp;&nbsp;   op 30 juni 1995 belast zijn met een opdracht als lesgever met een volume   van ten minste 13/18.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het hogeschoolbestuur is verplicht hen vanaf het academiejaar 1995-1996   werkgelegenheid te verschaffen naar rato van het volume van hun opdracht op 30   juni 1995. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. De personeelsleden die op 30 juni 1995 in dienst zijn als lesgever   aan een conservatorium en die niet voldoen aan de voorwaarden van paragraaf 1,   mogen door de hogeschool in dienst worden gehouden als lesgever voor het volume   van hun opdracht op 30 juni 1995.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. De personeelsleden bedoeld in paragraaf 1 en paragraaf 2 kunnen als   lesgever niet benoemd worden. In afwijking van artikel V.273, §3, blijven zij   verder bezoldigd tegen het enig bedrag dat hen op grond van de op 30 juni 1995   geldende reglementering werd toegekend. Inzake cumulatie vallen deze   personeelsleden in hun hoedanigheid van lesgever onder toepassing van artikel   V.172.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. De personeelsleden die op 30 juni 1995 in dienst zijn als lesgever aan een conservatorium, behouden tot hun uitdiensttreding hun ambt op persoonlijke titel op voorwaarde dat zij:<br>
+a)&nbsp;&nbsp;&nbsp; op 15 januari 1994 in dienst waren als lesgever in een conservatorium en er sindsdien in die hoedanigheid ononderbroken in dienst zijn gebleven;<br>
+b)&nbsp;&nbsp;&nbsp; op 15 januari 1994 een dienstanciënniteit telden van 6 jaar, verworven in het hoger onderwijs;c)&nbsp;&nbsp;&nbsp; op 30 juni 1995 belast zijn met een opdracht als lesgever met een volume van ten minste 13/18.<br>
+<br>
+Het hogeschoolbestuur is verplicht hen vanaf het academiejaar 1995-1996 werkgelegenheid te verschaffen naar rato van het volume van hun opdracht op 30 juni 1995.<br>
+<br>
+§2. De personeelsleden die op 30 juni 1995 in dienst zijn als lesgever aan een conservatorium en die niet voldoen aan de voorwaarden van paragraaf 1, mogen door de hogeschool in dienst worden gehouden als lesgever voor het volume van hun opdracht op 30 juni 1995.<br>
+<br>
+§3. De personeelsleden bedoeld in paragraaf 1 en paragraaf 2 kunnen als lesgever niet benoemd worden. In afwijking van artikel V.273, §3, blijven zij verder bezoldigd tegen het enig bedrag dat hen op grond van de op 30 juni 1995 geldende reglementering werd toegekend. Inzake cumulatie vallen deze personeelsleden in hun hoedanigheid van lesgever onder toepassing van&nbsp;artikel V.171.</p>
 
 ### ART. V.277.
 
