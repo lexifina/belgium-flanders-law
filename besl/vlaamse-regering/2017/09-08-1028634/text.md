@@ -41,14 +41,12 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=336">http://www.ejustice.just.fgov.be/mopdf/2018/07/12_1.pdf#page=336</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/28_1.pdf#page=62">Bijlage 1</a>
 
 ### BIJLAGE 2.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/06_1.pdf#page=222">http://www.ejustice.just.fgov.be/mopdf/2017/10/06_1.pdf#page=222</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/28_1.pdf#page=321">Bijlage 2</a>
 
 ### BIJLAGE 3.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/06_1.pdf#page=224">http://www.ejustice.just.fgov.be/mopdf/2017/10/06_1.pdf#page=224</a><br>
-<br>
-* In bijlage 3 wordt met ingang van 1 september 2017 het woord "Vakbondswerk" telkens vervangen door de woorden "Syndicaal werk" (zie BVR 19 januari 2018, BS 20 februari 2018, art. 3).
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/28_1.pdf#page=323">Bijlage 3</a>
