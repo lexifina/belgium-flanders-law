@@ -2,16 +2,16 @@
   "codex_id": 1023884,
   "title": "Besluit van de Vlaamse Regering van 2014-01-17 houdende de vaststelling van de criteria ter beoordeling van verbeteringsplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023884/VolledigDocument?datum=2014-03-08",
-  "source_sha256": "54cfa46bb82456988d70c2edcd37e1e8c724c96c1e800d2ceac3e1f657758caf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023884/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "e0f0cf6598f251c4c0419afceb7fef5ecf01eb93aea5ddcfb990e38428f6ef76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023884&param=informatie",
-  "as_of": "2014-03-08",
+  "as_of": "2018-09-01",
   "made": "2014-01-17",
   "gazette": "2014-02-26",
   "numac": 2014035199,
   "document_start": "2014-03-08",
   "document_end": "2018-08-31",
-  "in_force": "2014-03-08",
+  "in_force": "2018-09-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-03-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
