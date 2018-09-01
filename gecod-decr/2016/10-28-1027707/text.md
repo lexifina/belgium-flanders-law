@@ -13,612 +13,231 @@ De codificatie van sommige bepalingen voor het onderwijs regelt enkel gemeenscha
 
 ### ART II.1.
 
-Voor de toepassing van de bepalingen van dit deel II, deeltijds kunstonderwijs worden de volgende begrippen gebruikt :<br>
-&nbsp;<br>
-1° kunstonderwijs: het onderwijs dat aan regelmatige leerlingen wordt verstrekt gedurende veertig weken per jaar, naar rata van minimum één wekelijkse lestijd en maximum twaalf wekelijkse lestijden;<br>
-2° regelmatige leerling: de leerling die beantwoordt aan de toelatingsvoorwaarden, die ingeschreven is voor het geheel van de vakken van een bepaald leerjaar, die werkelijk en regelmatig deze vakken volgt, met het doel op het einde van het schooljaar eventueel de rechten te bekomen die verbonden zijn aan het welslagen in de proeven en die het eventueel vereiste inschrijvingsgeld heeft betaald.<br>
-Bovendien wordt als "regelmatige leerling" aangezien de leerling die, in afwijking van wat voorafgaat, slechts een deel van de vakken daadwerkelijk en regelmatig volgt op grond van vrijstelling voor die vakken die reeds met vrucht werden gevolgd op een gelijkwaardig of hoger niveau van het voltijds secundair onderwijs, van het deeltijds kunstonderwijs, of van het kunstonderwijs met beperkt leerplan;<br>
-3° jongere: de leerling die op 31 december van het schooljaar waarvoor hij inschrijft, jonger is dan 15 jaar of die een schooljaar voordien als dusdanig werd ingeschreven en sedertdien zijn studie niet onderbrak;<br>
-4° volwassene: de leerling die niet voldoet aan de definitie van "jongere" zoals vermeld in 3°;<br>
-5° optie: een samenhangend geheel van vakken dat tot doel heeft een specifieke opleiding te verschaffen;<br>
-6° filiaal: een vestigingsplaats van een onderwijsinstelling, gevestigd op het grondgebied van een andere gemeente;<br>
-7° fusie van scholen: de samenvoeging tot één nieuwe school van twee of meer scholen die gelijktijdig worden afgeschaft of de samenvoeging tot één school van twee of meer scholen waarbij één van de scholen in kwestie blijft bestaan en de andere opslorpt;<br>
-8° overheveling: de overbrenging van een filiaal van de ene naar de andere school;<br>
-9° samensmelting van filialen: de samenvoeging tot één school van twee of meer in dezelfde gemeente gelegen filialen;<br>
-10° hoofdvestiging: de vestigingsplaats van een school die als administratieve zetel door het schoolbestuur is aangeduid;<br>
-11° kunstacademie: school die de studierichtingen beeldende kunst en muziek en één of meer andere studierichtingen organiseert;<br>
-12° leefeenheid: één of meer meerderjarigen, ongeacht hun geslacht, met eventueel een of meer minderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres, alsook één of meer minderjarige gehuwde, zelfstandige of alleenstaande leerlingen of studenten, ongeacht hun geslacht, met eventueel één of meer minder- en meerderjarigen die hun hoofdverblijfplaats hebben op hetzelfde adres.
+...
 
 ## Hoofdstuk 2 Erkenning, financiering, subsidiering van scholen
 
 ### ART II.2.
 
-§1. Het Gemeenschapsonderwijs richt deeltijds kunstonderwijs van de Vlaamse Gemeenschap in en brengt waar daaraan behoefte bestaat, de daartoe nodige scholen en afdelingen ervan tot stand.<br>
-&nbsp;<br>
-De Vlaamse Gemeenschap subsidieert de scholen deeltijds kunstonderwijs en onderverdelingen ervan, die aan de decretale normen beantwoorden en door provincies, gemeenten, verenigingen van gemeenten, andere publiekrechtelijke personen of private personen, zijn tot stand gebracht.<br>
-&nbsp;<br>
-§2. Er kunnen geen scholen voor deeltijds kunstonderwijs en onderverdelingen ervan in stand gehouden of opgericht worden indien zij niet beantwoorden aan de voorwaarden die gelden inzake rationalisatie&nbsp; en programmatie.<br>
-&nbsp;<br>
-De financiering of subsidiëring voor het bedoelde onderdeel wordt ingetrokken voor elke nieuwe oprichting van een school of een onderdeel ervan, indien zij niet beantwoorden aan de voorwaarden inzake rationalisatie en programmatie.<br>
-&nbsp;<br>
-De Vlaamse Regering bepaalt de regels voor de toepassing van de hiervoor voorziene sancties.
+...
 
 ### ART II.3.
 
-Een school kan enkel erkend worden indien ze in het geheel van zijn werking de internationaalrechtelijke en grondwettelijke beginselen inzake de rechten van de mens en van het kind in het bijzonder, eerbiedigen.
+...
 
 ### ART II.4.
 
-Een officiële school kan slechts worden erkend indien zij voldoet aan volgende voorwaarden :<br>
-&nbsp;<br>
-1° een open karakter hebben door open te staan voor alle leerlingen, ongeacht de ideologische, filosofische of godsdienstige opvattingen van de ouders en de leerling;<br>
-2° de leerplannen volgen van het Gemeenschapsonderwijs, OVSG of POV, of eigen leerplannen ermee verenigbaar;<br>
-3° een schoolwerkplan, schoolreglement en schoolboeken gebruiken in overeenstemming met het open karakter bedoeld in 1°;<br>
-4° begeleid worden door de begeleidingsdienst van het Gemeenschapsonderwijs, OVSG of POV.
+...
 
 ### ART II.5.
 
-§1. In het deeltijds kunstonderwijs zullen scholen en onderverdelingen ervan in de financiering of subsidiering kunnen opgenomen worden op advies van de &nbsp;onderwijsinspectie, dat in ieder geval dient te worden uitgebracht vóór 15 juni van het schooljaar in kwestie, zoniet wordt dit advies geacht gunstig te zijn.<br>
-&nbsp;<br>
-§2. Een school voor deeltijds kunstonderwijs wordt gefinancierd of gesubsidieerd wanneer ze zich gedraagt naar de wettelijke en reglementaire bepalingen betreffende de inrichting der studiën en wanneer ze de bepalingen over de taalregeling in onderwijs en de taalkennis van het personeel naleeft.<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-Bovendien moet de school :<br>
-1° een structuur aannemen vastgesteld door of krachtens een wet of decreet. Onder structuur wordt begrepen de grote indelingen binnen een onderwijsniveau en de duur van deze indelingen;<br>
-2° een leerplan eerbiedigen, dat overeenstemt met de wettelijke voorschriften of dat door de Vlaamse minister, bevoegd voor het onderwijs, is goedgekeurd;<br>
-3° zich aan de door de Vlaamse Regering ingerichte controle en onderwijsinspectie onderwerpen. Deze inspectie heeft in het bijzonder betrekking op de onderwezen vakken, het peil der studiën en de toepassing van de taalwetten, met uitsluiting van de pedagogische methodes;<br>
-4° georganiseerd zijn onder de verantwoordelijkheid van een schoolbestuur, zoals bedoeld in artikel 24, §4, van de Grondwet, zijnde een natuurlijke persoon of een rechtspersoon;<br>
-5° per klas, afdeling, graad of andere onderverdeling het minimum aantal leerlingen tellen, bepaald door de Vlaamse Regering, behoudens een door de Vlaamse Regering verleende vrijstelling met het oog op bijzondere en exceptionele omstandigheden;<br>
-6° gevestigd zijn in lokalen die aan de voorwaarden inzake hygiëne en bewoonbaarheid voldoen;<br>
-7° beschikken over een didactisch materieel en een schooluitrusting die beantwoorden aan de pedagogische vereisten;<br>
-8° beschikken over personeel waarvan de gezondheidstoestand die van de leerlingen niet in gevaar brengt en dat onderworpen is aan de regelgeving inzake controle op afwezigheid wegens ziekte;<br>
-9° de regelgeving naleven die het verlenen van verlof aan het personeel zal regelen.<br>
-&nbsp;<br>
-§3. Wanneer een school of een onderverdeling ervan niet langer de gestelde voorwaarden vervult, zullen de financiering of subsidiering ingehouden worden, te rekenen van de datum van de ministeriële kennisgeving die steunt op de geconstateerde tekortkomingen. Ze zullen<br>
-opnieuw verleend worden, wanneer al de voorwaarden tot financiering of subsidiëring terug vervuld worden.
+...
 
 ### ART II.6.
 
-De Vlaamse Regering kan de erkenning van een school of een vestigingsplaats ervan opheffen met inachtname van artikel 35 tot artikel 42 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs.
+...
 
 ### ART II.7.
 
-Het schoolbestuur is bevoegd om aan de leerlingen de van rechtswege geldende studiebewijzen toe te kennen voor zover de studierichtingen en graden in kwestie voldoen aan de voorwaarden inzake financiering of subsidiering, vermeld in de regelgeving voor het deeltijds kunstonderwijs.
+...
 
 ### ART II.8.
 
-De kosten van het onderwijs, verstrekt in de scholen tot stand gebracht door openbare of private personen, vallen ten laste van het schoolbestuur.<br>
-&nbsp;<br>
-Voor de scholen deeltijds kunstonderwijs die aan de bij het decreet en zijn uitvoeringsbesluiten gestelde voorwaarden voldoen, verleent de Vlaamse Gemeenschap, een salaris of een salaristoelage voor het personeel en een werkingsbudget.
+...
 
 ### ART II.9.
 
-Jaarlijks wordt een forfaitair werkingsbudget verleend om de kosten te dekken die verbonden zijn aan de werking en de uitrusting van de scholen, aan het verstrekken van leerboeken en schoolbehoeften van de leerlingen en aan de uitgaven voor investeringen.
+...
 
 ### ART II.10.
 
-§1. Het werkingsbudget wordt uitbetaald aan het schoolbestuur van elke school. Het kan worden aangewend ten behoeve van al de scholen, centra, internaten en tehuizen behorende tot hetzelfde schoolbestuur. Bij deze aanwending dient het schoolbestuur rekening te houden met een gelijke behandeling van haar scholen, centra, internaten en tehuizen en van de leerlingen die ertoe behoren.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering bepaalt :<br>
-1° de wijze waarop de scholen hun aanvraag tot financiering of subsidiëring indienen;<br>
-2° de controlemaatregelen inzonderheid wat de aanwending van de financiering of subsidiering betreft. Deze controle mag evenwel geen betrekking hebben op de opportuniteit van de aanwending.
+...
 
 ### ART II.11.
 
-In geval van overname van een school door een ander schoolbestuur, wordt het bedrag van het werkingsbudget waarop de overgenomen school recht had volgens de geldende bepalingen ter zake, voor het eerste schooljaar van de overname, aan het nieuwe schoolbestuur toegekend.
+...
 
 ### ART II.12.
 
-Onverminderd de strafvervolging waartoe zij aanleiding zou geven, kan elke valse of onnauwkeurige verklaring, afgelegd met de bedoeling om de berekening van het bedrag van het salaris, de salaristoelage of het werkingsbudget te beïnvloeden, voor de betrokken scholen medebrengen dat de financiering of subsidiëring bij gemotiveerd besluit van de Vlaamse Regering wordt ingehouden gedurende een periode van niet meer dan zes maanden voor elke overtreding.<br>
-De teruggave van de ten onrechte als financiering of subsidiëring gestorte bedragen wordt geëist tenzij de fout te wijten is aan de betalende overheid.
+...
 
 ## Hoofdstuk 3 Organisatie en structuur
 
 ### ART II.13.
 
-De Vlaamse Regering bepaalt :<br>
-&nbsp;<br>
-1° per graad en per studierichting :<br>
-- het minimumaantal lestijden en de duur van een lestijd;<br>
-- de toelatings- en overgangsvoorwaarden op basis van de leeftijd, de getuigschriften en de toelatingsproeven;<br>
-- de regels voor de organisatie van evaluaties en examens;<br>
-&nbsp;<br>
-2° de inningsmodaliteiten van het opgelegd inschrijvingsgeld.
+...
 
 ### ART II.14.
 
-De Vlaamse Regering informeert de afgevaardigden van de schoolbesturen en de representatieve vakorganisaties over elke geplande fundamentele onderwijshervorming.<br>
-<br>
-Vóór de Vlaamse Regering een eerste principiële beslissing ter zake neemt, wordt op vraag van ten minste één van de afgevaardigden van de schoolbesturen een apart overleg georganiseerd over die fundamentele onderwijshervorming tussen de Vlaamse minister, bevoegd voor het onderwijs, of zijn afgevaardigde en de afgevaardigden van de schoolbesturen.<br>
-<br>
-Vóór de Vlaamse Regering een eerste principiële beslissing ter zake neemt, wordt op vraag van ten minste één van de representatieve vakorganisaties een apart overleg georganiseerd over die fundamentele onderwijshervorming tussen de Vlaamse minister, bevoegd voor het onderwijs, of zijn afgevaardigde en de representatieve vakorganisaties.
+...
 
 ### ART II.15.
 
-De structuur van het deeltijds kunstonderwijs bestaat uit vier graden :<br>
-1° een lagere graad;<br>
-2° een middelbare graad;<br>
-3° een hogere graad;<br>
-4° een specialisatiegraad.
+...
 
 ### ART II.16.
 
-§1. Het deeltijds kunstonderwijs omvat de studierichtingen :<br>
-1° beeldende kunst;<br>
-2° dans;<br>
-3° muziek;<br>
-4° woordkunst.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering bepaalt de opties en de vakken die binnen de in §1 bedoelde studierichtingen kunnen worden aangeboden.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering kan modaliteiten bepalen voor fusies van scholen en overhevelingen in het deeltijds kunstonderwijs.<br>
-&nbsp;<br>
-§4. Wegens uitzonderlijke redenen van tijdelijke aard kan de Vlaamse Regering toelating geven om leerlingen tijdelijk onder te brengen in gebouwen in gemeenten waar de school voor deeltijds kunstonderwijs geen vestigingsplaatsen of filialen heeft. De programmatie- en rationalisatienormen zijn hier niet van toepassing voor de duur van de tijdelijke onderbrenging.<br>
-&nbsp;<br>
-§5. Scholen, studierichtingen, filialen en graden die op de teldatum, zoals bepaald in artikel II.22, §2, 1°, niet aan de voor hen geldende rationalisatienormen of programmatienormen voldoen blijven gefinancierd of gesubsidieerd als op de vorige teldatum de volgende voorwaarden vervuld waren :<br>
-1° de school in haar geheel voldeed aan de voor haar geldende rationalisatienormen of programmatienormen;<br>
-2° elk filiaal, elke studierichting en elke graad voldeden aan de voor hen geldende rationalisatienormen of programmatienormen.
+...
 
 ### ART II.17.
 
-§1. Binnen de perken van de beschikbare begrotingskredieten kan vanaf het schooljaar 2009-2010 een school voor deeltijds kunstonderwijs opgericht worden in gemeenten die beantwoorden aan de volgende voorwaarden :<br>
-&nbsp;<br>
-1° er zijn minstens 19.300 inwoners op 1 januari van het kalenderjaar voorafgaand aan het kalenderjaar waarin de oprichting gebeurt;<br>
-2° de verhouding tussen het aantal leerlingen dat in de gemeente lager - of secundair onderwijs volgt en het inwonersaantal bedraagt minstens 9% of de verhouding tussen het aantal leerplichtige inwoners en het totale inwonersaantal bedraagt minstens 15,3%; Deze percentages worden berekend aan de hand van het aantal inwoners zoals bedoeld in 1° en het aantal leerlingen geteld op 1 februari van het kalenderjaar voorafgaand aan het kalenderjaar waarin de oprichting gebeurt;<br>
-3° er is nog geen hoofdvestiging of filiaal gevestigd.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering bepaalt de procedure voor de aanvraag en de kwalitatieve beoordeling van nieuwe scholen deeltijds kunstonderwijs.
+...
 
 ### ART II.18.
 
-§1.Vanaf het schooljaar 2009-2010 kan een kunstacademie ontstaan door :<br>
-1° fusie van scholen waarvan de hoofdscholen gelegen zijn in dezelfde gemeente;<br>
-2° de overheveling van een of meer filialen naar een school waarvan de hoofdvestiging gelegen is in dezelfde gemeente;<br>
-3° samensmelting van filialen die gelegen zijn in dezelfde gemeente;<br>
-4° oprichting van een nieuwe school voor deeltijds kunstonderwijs.<br>
-&nbsp;<br>
-§2. De scholen die in het schooljaar 2008-2009 een tijdelijk project betreffende de aanhechting van een studierichting beeldende kunst aan een school voor muziek, woordkunst en/of dans organiseerden, worden beschouwd als kunstacademie.<br>
-&nbsp;<br>
-§3. Vanaf het schooljaar 2010-2011 kan een kunstacademie eveneens ontstaan door de programmatie van een studierichting in een bestaande school.<br>
-&nbsp;<br>
-§4. Een kunstacademie kan enkel ontstaan in gemeenten die beantwoorden aan de voorwaarden zoals bepaald in artikel II.17. §1, 1° en 2°. In gemeenten die daarenboven ook voldoen aan de voorwaarde zoals bepaald in artikel II.17, §1, 3°, kan een kunstacademie ontstaan door de oprichting van een nieuwe school voor deeltijds kunstonderwijs.<br>
-&nbsp;<br>
-§5. De Vlaamse Regering bepaalt de procedure voor de aanvraag, de kwalitatieve beoordeling en de oprichting van kunstacademies.<br>
-&nbsp;<br>
-§6. De Vlaamse Regering bepaalt programmatie- en rationalisatienormen voor scholen, filialen, studierichtingen en graden.<br>
-In afwachting van het in werking treden van de besluiten in uitvoering van deze decreetsbepaling, blijft de ter zake geldende regelgeving, die op het ogenblik van de inwerkingtreding van deze decreetsbepaling van kracht is, van toepassing.<br>
-&nbsp;<br>
-§7. In kunstacademies worden uren-leraar voor beleidsondersteuning gefinancierd of gesubsidieerd. De Vlaamse Regering bepaalt de voorwaarden tot het verkrijgen van de uren alsook het aantal en de wijze van berekening ervan op basis van het aantal financierbare leerlingen ingeschreven op de voor de financierbaarheid relevante teldatum.<br>
-&nbsp;<br>
-§8. Het personeelslid dat aangesteld wordt in een betrekking beleidsondersteuning met uren-leraar vermeld in §7, wordt steeds aangesteld als tijdelijk personeelslid.<br>
-&nbsp;<br>
-De bepalingen van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en het decreet rechtspositie personeelsleden gesubsidieerd onderwijs zijn van toepassing, met uitzondering van de volgende bepalingen :<br>
-1° de betrekking is niet onderworpen aan de reglementering inzake terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie en de wedertewerkstelling. Het schoolbestuur van de school waaraan de betrekking wordt toegewezen, kan evenwel op vrijwillige basis een personeelslid aanstellen dat ter beschikking is gesteld wegens ontstentenis van betrekking. Deze aanstelling wordt beschouwd als een reaffectatie of een wedertewerkstelling. Deze reaffectatie of wedertewerkstelling gebeurt steeds met instemming van het ter beschikking gestelde personeelslid;<br>
-2° het schoolbestuur van de school waaraan de betrekking wordt toegewezen, is niet verplicht om in deze betrekking een personeelslid aan te stellen dat het recht op een tijdelijke aanstelling van doorlopende duur heeft verworven, overeenkomstig artikel 21 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs en artikel 23 van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs;<br>
-3° de betrekking kan niet worden vacant verklaard. Het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
-&nbsp;<br>
-§9. Het personeelslid dat vastbenoemd is in het ambt van directeur in een school voor deeltijds kunstonderwijs en dat als gevolg van het ontstaan van een kunstacademie door fusie van scholen ter beschikking gesteld wordt wegens ontstentenis van betrekking, kan op persoonlijke titel tewerkgesteld worden in een niet-organieke betrekking van directeur die aan de kunstacademie wordt toegevoegd. De tewerkstelling in de niet-organieke betrekking wordt beschouwd als een reaffectatie en schort alle reaffectatie- en wedertewerkstellingsverplichtingen buiten de school op.<br>
-&nbsp;<br>
-De niet-organieke betrekking, vermeld in het eerste lid, wordt toegekend op basis van dezelfde berekening als voor het ambt van directeur, vermeld in artikel II.29. De niet-organieke betrekking wordt slechts toegekend zolang het personeelslid, vermeld in het eerste lid, erin tewerkgesteld wordt.<br>
-&nbsp;<br>
-Zolang aan de kunstacademie een niet-organieke betrekking toegekend wordt als vermeld in het tweede lid, worden in die kunstacademie in afwijking van paragraaf 7, geen uren-leraar voor beleidsondersteuning gefinancierd of gesubsidieerd.
+...
 
 ### ART II.19.
 
-In afwijking van artikel II.17 en artikel II.18, §1 tot en met §6, kunnen vanaf het schooljaar 2011-2012 geen nieuwe scholen voor deeltijds kunstonderwijs worden opgericht.<br>
-&nbsp;<br>
-In afwijking van deze bepaling kan de Vlaamse Regering in uitzonderlijke gevallen aan een schoolbestuur toelating geven tot programmatie van een school :<br>
-1° na schriftelijke en gemotiveerde aanvraag van het schoolbestuur, ingediend bij het Agentschap voor Onderwijsdiensten uiterlijk op 30 november van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br>
-2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de onderwijsinspectie.
+...
 
 ### ART II.20.
 
-§1. De lagere graad is complementair aan het basisonderwijs en wordt afzonderlijk georganiseerd voor volwassenen en jongeren in de studierichtingen "dans" en "muziek". In de studierichtingen "beeldende kunst" en "woordkunst" wordt zij uitsluitend voor jongeren georganiseerd.<br>
-&nbsp;<br>
-De lagere graad bestaat uit vier leerjaren in de studierichtingen "muziek" en "woordkunst" en in de studierichting "dans" georganiseerd voor jongeren. De Vlaamse Regering kan de lagere graad voor deze studierichtingen uitbreiden tot zes leerjaren. De lagere graad bestaat uit twee leerjaren in de studierichting "dans" georganiseerd voor volwassenen. De lagere graad bestaat uit ten minste twee en ten hoogste zes leerjaren in de studierichting "beeldende kunst".<br>
-&nbsp;<br>
-§2. De middelbare graad is complementair aan het secundair onderwijs en wordt afzonderlijk georganiseerd voor volwassenen en jongeren in de studierichtingen "dans" en "woordkunst".<br>
-&nbsp;<br>
-De middelbare graad bestaat uit zes leerjaren in de studierichting "beeldende kunst" en drie leerjaren in de andere studierichtingen.<br>
-&nbsp;<br>
-§3. De hogere graad is complementair aan het secundair onderwijs, uitgezonderd de studierichting "beeldende kunst" die, wat de kunstvakken betreft, equivalent is aan de derde graad van het voltijds kunstsecundair onderwijs.<br>
-&nbsp;<br>
-De hogere graad bestaat uit vier leerjaren met ten minste tien wekelijkse lestijden of uit vijf leerjaren met ten minste acht wekelijkse lestijden in de studierichting "beeldende kunst" en drie leerjaren in de andere studierichtingen.<br>
-Voor de opties kunstexploratie en digitale beeldende kunst bestaat de hogere graad beeldende kunst uit maximaal vier leerjaren met ten minste zes wekelijkse lestijden. Voor de optie theatervormgeving bestaat de hogere graad beeldende kunst uit vier leerjaren met ten minste twaalf wekelijkse lestijden of vijf leerjaren met tenminste tien wekelijkse lestijden.<br>
-&nbsp;<br>
-§4. De specialisatiegraad is complementair aan het secundair onderwijs, uitgezonderd de studierichting "beeldende kunst" die, wat de kunstvakken betreft, &nbsp;equivalent is aan het zevende specialisatiejaar op het einde van de derde graad van het voltijds kunstsecundair onderwijs.<br>
-&nbsp;<br>
-De specialisatiegraad bestaat uit twee leerjaren.
+...
 
 ### ART II.21.
 
-§1. Het deeltijds kunstonderwijs kan enkel gefinancierd of gesubsidieerd worden in scholen die uitsluitend kunstonderwijs organiseren.<br>
-&nbsp;<br>
-§2. In een school voor deeltijds kunstonderwijs worden tenminste twee opeenvolgende graden georganiseerd.<br>
-&nbsp;<br>
-§3. De Koninklijke Beiaardschool te Mechelen wordt als school van het deeltijds kunstonderwijs erkend en gesubsidieerd door de Vlaamse Gemeenschap. De Vlaamse Regering kan specifieke normen en structuren voor deze school vastleggen, die bij decreet worden bekrachtigd.<br>
-&nbsp;<br>
-Het besluit van de Vlaamse Regering van 10 juni 2005 houdende de organisatie en de financiering van de Koninklijke Beiaardschool Jef Denyn in Mechelen wordt bekrachtigd.
+...
 
 ## Hoofdstuk 4 Normen
 
 ### ART II.22.
 
-§1. Onder wekelijkse "uren-leraar" wordt verstaan, het aantal lestijden dat wekelijks besteed wordt aan het onderwijzen van leervakken en aan andere prestaties die in de opdracht van de leraar en de muzikale begeleider mogen opgenomen worden.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering :<br>
-1° bepaalt de berekeningswijze van het aantal uren-leraar, op basis van het aantal regelmatige leerlingen ingeschreven op 1 februari van het voorgaande schooljaar, dat in aanmerking wordt genomen.<br>
-In afwijking hierop is voor de scholen of studierichtingen die in de financiering of subsidiering worden opgenomen, de teldatum voor het schooljaar van opname in de financiering of subsidiering, 1 oktober van dat schooljaar;<br>
-2° bepaalt welke regelmatige leerlingen, bedoeld in 1°, in aanmerking worden genomen;<br>
-3° kan per graad een bijkomend aantal uren-leraar toekennen dat nodig is om een optie of studierichting in afbouw gedurende de afbouwperiode, voor zover noodzakelijk, in stand te houden;<br>
-4° kan voor de opties architectuurtekenen, binnenhuiskunst en industriële kunst van de studierichting beeldende kunst een forfaitair aantal uren-leraar, bijkomend bij het aantal uren-leraar, zoals bedoeld in 1°, toekennen;<br>
-5° bepaalt de regels voor de aanwending van het aantal uren-leraar;<br>
-6° bepaalt het aanwendingspercentage van het aantal uren-leraar.
+...
 
 ### ART II.23.
 
-§1. Een school kan tijdens een bepaald schooljaar niet-ingerichte uren-leraar overdragen naar het volgend schooljaar mits te voldoen aan de volgende voorwaarden :<br>
-1° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar dient vastgelegd uiterlijk op 1 november van dat schooljaar;<br>
-2° het maximum aantal uren-leraar van een bepaald schooljaar dat wordt overgedragen naar het daaropvolgende schooljaar kan nooit hoger liggen dan twee procent van het aantal aanwendbare uren-leraar van dat bepaald schooljaar;<br>
-3° de overgedragen uren-leraar kunnen enkel in het volgend schooljaar worden aangewend.<br>
-&nbsp;<br>
-§2. De overdracht van uren-leraar tijdens een bepaald schooljaar, zoals bedoeld in vorige paragraaf is slechts mogelijk indien het betrokken schoolbestuur van de school op eer verklaart dat zij tijdens dat schooljaar in de betrokken school overeenkomstig de geldende reglementering geen nieuwe of bijkomende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel dient uit te spreken of als de leden van het onderwijzend personeel die nieuw of bijkomend ter beschikking werden gesteld wegens ontstentenis van betrekking, kunnen worden gereaffecteerd of weder tewerk gesteld in een vacante of niet-vacante organieke betrekking in een school van het schoolbestuur en dit voor de hele verdere duur van het schooljaar.<br>
-&nbsp;<br>
-§3. De niet-naleving van de bepalingen van §2 heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid.<br>
-&nbsp;<br>
-§4. In de overgedragen uren-leraar kunnen geen personeelsleden vastbenoemd worden.<br>
-&nbsp;<br>
-§5. Met het oog op de controle van §4 door het Agentschap voor Onderwijsdiensten, dienen de schoolbesturen van de betrokken scholen een verklaring op eer af te leggen die er toe strekt dat in de bedoelde uren-leraar geen personeelsleden vastbenoemd worden.<br>
-&nbsp;<br>
-§6. De niet-naleving van de bepalingen van §4 en §5 heeft tot gevolg dat de vaste benoemingen geen uitwerking kunnen hebben ten aanzien van de overheid.
+...
 
 ### ART II.24.
 
-Een schoolbestuur kan, van de aan haar scholen krachtens de bestaande wettelijke of reglementaire normen, toegekende uren-leraar, binnen hetzelfde niveau, maximaal drie procent herverdelen onder haar scholen.<br>
-Die drie procent wordt berekend op basis van het totaal aantal gefinancierde of gesubsidieerde uren-leraar dat gedurende het vorig schooljaar aan het schoolbestuur op basis van de geldende wettelijke of reglementaire normen werd toegekend.<br>
-&nbsp;<br>
-Bij de in het eerste lid bedoelde herverdeling, mag een schoolbestuur het aantal aan een school toegekende uren-leraar niet verminderen indien ze in dat schooljaar in deze scholen overeenkomstig de geldende reglementering nieuwe of bijkomende terbeschikkingstellingen wegens ontstentenis van betrekking in de categorie van het onderwijzend personeel dient uit te spreken.<br>
-&nbsp;<br>
-Met het oog op de controle door het Agentschap voor Onderwijsdiensten dienen de schoolbesturen een verklaring op eer af te leggen die er toe strekt dat zij de bepalingen van het voorgaand lid in acht nemen bij deze herverdeling. De niet-naleving van deze bepalingen heeft tot gevolg dat een terbeschikkingstelling wegens ontstentenis van betrekking geen uitwerking heeft ten aanzien van de overheid.<br>
-&nbsp;<br>
-In de bijkomende uren-leraar die een school via deze herverdeling verkregen heeft, kunnen geen personeelsleden vastbenoemd worden. Het betrokken schoolbestuur dient een verklaring op eer af te leggen die er toe strekt dat in de bedoelde uren-leraar geen personeelsleden vastbenoemd worden. De niet-naleving van deze bepalingen heeft tot gevolg dat de vaste benoemingen geen uitwerking kunnen hebben ten aanzien van de overheid.
+...
 
 ### ART II.25.
 
-§1. In de lagere en middelbare graad van de scholen voor deeltijds kunstonderwijs die gevestigd zijn in het arrondissement Brussel-Hoofdstad wordt het aantal uren-leraar, vastgesteld overeenkomstig artikel II.22, verhoogd met 30% indien de schoolbesturen deel uitmaken van een netoverschrijdend Samenwerkingsforum.<br>
-&nbsp;<br>
-Het Samenwerkingsforum :<br>
-1° optimaliseert het aanbod van opleidingen die door de scholen voor deeltijds kunstonderwijs worden georganiseerd en stemt dit op elkaar af;<br>
-2° streeft naar een samenwerking met Nederlandstalige scholen voor basisonderwijs of secundair onderwijs;<br>
-3° ontwikkelt socio-culturele initiatieven en streeft daarbij naar een samenwerking met socio-culturele organisaties en instellingen in de gemeenten van het Vlaamse Gewest, genoemd in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
-4° signaleert knelpunten, behoeften en oplossingen inzake deeltijdse kunstopleidingen aan de overheid;<br>
-5° optimaliseert de dienstverlening voor de leerlingen in de scholen;<br>
-6° stimuleert en ondersteunt alle mogelijke vormen van samenwerking tussen de scholen.<br>
-&nbsp;<br>
-Het Samenwerkingsforum stelt bij gewone meerderheid van de totaal uitgebrachte stemmen een huishoudelijk reglement op en legt dit ter bekrachtiging voor aan de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Het Samenwerkingsforum oefent tenminste de volgende opdrachten uit :<br>
-1° de realisatie van de doelstellingen, vermeld in §1;<br>
-2° een met redenen omkleed advies verlenen over de aanvragen van de scholen voor deeltijds kunstonderwijs voor de programmatie van filialen, studierichtingen en graden, zoals vermeld in artikel II.26;<br>
-3° alle opdrachten, dat een schoolbestuur apart aan het Samenwerkingsforum toewijst of die de scholen gezamenlijk aan het Samenwerkingsforum toewijzen, uitvoeren.<br>
-&nbsp;<br>
-§3. Het Samenwerkingsforum kan nooit zelf over onderwijsbevoegdheid beschikken.<br>
-&nbsp;<br>
-§4. Het Samenwerkingsforum legt jaarlijks uiterlijk op 1 april een werkingsverslag voor aan de Vlaamse Regering, die bijsturingen kan voorstellen. Bovendien bezorgt het Samenwerkingsforum jaarlijks uiterlijk op 1 april een zelfevaluatierapport aan het Departement Onderwijs en Vorming in functie van een eventuele structurele verankering van samenwerkingsverbanden in het deeltijds kunstonderwijs. In dit rapport komen minstens de volgende elementen aan bod :<br>
-- een beschrijving van de evolutie van het deeltijds kunstonderwijs in het arrondissement Brussel-Hoofdstad sinds het schooljaar van de opstart van het Samenwerkingsforum;<br>
-- een beschrijving en beoordeling van de sterke en de te verbeteren punten, de kansen en de moeilijkheden van de werking van het Samenwerkingsforum.
+...
 
 ### ART II.26.
 
-§1. Het schoolbestuur van een school voor deeltijds kunstonderwijs die gevestigd is in het arrondissement Brussel-Hoofdstad legt een aanvraag voor programmatie van filialen, studierichtingen en graden, zoals vermeld in hoofdstuk VII van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting beeldende kunst en hoofdstuk VII van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen muziek, woordkunst en dans, voor aan het netoverschrijdend Samenwerkingsforum.<br>
-Het schoolbestuur verkrijgt de toestemming tot de gevraagde programmatie, als het netoverschrijdend Samenwerkingsforum bij consensus een positief advies verleent aan de aanvraag. Het Samenwerkingsforum is gehouden het positief advies verleend bij consensus binnen de dertig kalenderdagen aan de Vlaamse Regering bekend te maken.<br>
-Als het Samenwerkingsforum bij meerderheid een positief advies verleent aan de aanvraag, kan het schoolbestuur de programmatie aanvragen bij de Vlaamse Regering. Het advies uitgebracht door het Samenwerkingsforum geldt dan als advies aan de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. In afwijking van §1, moet het schoolbestuur van een school voor deeltijds kunstonderwijs voor de programmatie van een school, steeds een aanvraag indienen bij de Vlaamse Regering. De Vlaamse Regering kan de aangevraagde programmatie uitsluitend weigeren of verlenen na advies van het Samenwerkingsforum en bij een met redenen omklede beslissing.<br>
-&nbsp;<br>
-§3. Het schoolbestuur van een school voor deeltijds kunstonderwijs dat van het Samenwerkingsforum een negatief advies heeft verkregen, kan bij de Vlaamse Regering de programmatie aanvragen. Het advies uitgebracht door het Samenwerkingsforum geldt dan als advies aan de Vlaamse Regering. De Vlaamse Regering zal, voorafgaandelijk aan het nemen van een beslissing, het advies van de Vlaamse Onderwijsraad inwinnen. De Vlaamse Regering kan de aangevraagde programmatie uitsluitend weigeren of verlenen bij een met redenen omklede beslissing.
+...
 
 ### ART II.27.
 
-§1. In scholen voor deeltijds kunstonderwijs worden uren-opsteller gefinancierd of gesubsidieerd.<br>
-&nbsp;<br>
-§2. De oprichting van betrekkingen in het ambt van opsteller is gebaseerd op het aantal financierbare leerlingen ingeschreven op de voor de financierbaarheid relevante teldatum.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de voorwaarden tot het verkrijgen van de uren-opsteller alsook het aantal en de wijze van berekening ervan.
+...
 
 ### ART II.28.
 
-§1. In de scholen voor deeltijds kunstonderwijs die op 30 juni 2007 beschikken over een gefinancierde of gesubsidieerde betrekking in het ambt van studiemeester-opvoeder, waar een vastbenoemd personeelslid of een tijdelijk personeelslid in een vacante betrekking titularis van is, of waar op 30 juni 2007 een vast benoemd studiemeester-opvoeder ter beschikking gesteld is wegens ontstentenis van betrekking, wordt dat ambt gefinancierd of gesubsidieerd, zolang datzelfde personeelslid er titularis is.<br>
-&nbsp;<br>
-Het recht vermeld in het eerste lid is beperkt tot de omvang van de betrekking waarvan dat personeelslid titularis was op 30 juni 2007.<br>
-&nbsp;<br>
-§2. De omkadering voor de betrekkingen vermeld in §1, wordt in mindering gebracht van de omkadering voor uren-opsteller zoals bedoeld in artikel II.27, §1.<br>
-<br>
-De Vlaamse Regering bepaalt de wijze waarop deze vermindering gebeurt.
+...
 
 ### ART II.29.
 
-De Vlaamse Regering bepaalt op basis van het aantal regelmatige leerlingen op welke wijze het ambt van directeur kan worden toegekend.
+...
 
 ## Hoofdstuk 5 Personeel ten laste van het werkingsbudget of van de eigen middelen
 
 ### ART II.30.
 
-Het schoolbestuur kan ten laste van het werkingsbudget, vermeld in artikel II.44, II.45, II.46 of van de eigen middelen, personeel aanwerven. In het gemeenschapsonderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het deeltijds kunstonderwijs vermeld in artikel 2, §1, van het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs, met uitzondering van het statutaire meesters-, vak- en dienstpersoneel. In het gesubsidieerd onderwijs kan een schoolbestuur voormeld principe aanwenden voor de personeelscategorieën van toepassing in het deeltijds kunstonderwijs vermeld in artikel 4, §1, a), van het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs.<br>
-&nbsp;<br>
-De betrekking die met dit werkingsbudget wordt ingericht kan niet worden vacant verklaard en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in deze betrekking.<br>
-Het personeelslid dat door het schoolbestuur van een school in het gemeenschapsonderwijs wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gemeenschapsonderwijs is op hem van toepassing.<br>
-Het personeelslid dat door het schoolbestuur van een school in het gesubsidieerd onderwijs wordt aangeworven, wordt altijd als tijdelijk personeelslid aangesteld. Het decreet van 27 maart 1991 rechtspositie personeelsleden gesubsidieerd onderwijs is op hem van toepassing.<br>
-&nbsp;<br>
-Het Agentschap voor Onderwijsdiensten betaalt het salaris of salaristoelage rechtstreeks aan de betrokken personeelsleden. Diezelfde dienst vordert het brutosalaris, verhoogd met de vergoedingen, bijslagen, vakantiegeld, eindejaarspremie en werkgeversbijdrage, van het schoolbestuur terug.
+...
 
 ## Hoofdstuk 6 Inschrijvingsgeld
 
 ### ART II.31.
 
-§1. In de scholen voor deeltijds kunstonderwijs van het gemeenschapsonderwijs en het gesubsidieerd onderwijs wordt aan de leerlingen een inschrijvingsgeld opgelegd.<br>
-De Vlaamse Regering bepaalt het minimum bedrag, de wijze van innen en de eventuele gehele of gedeeltelijke vrijstellingen van dit inschrijvingsgeld.<br>
-&nbsp;<br>
-§2. De inschrijvingsgelden van de leerlingen uit het deeltijds kunstonderwijs worden uiterlijk op 1 oktober geïnd en uiterlijk op 15 oktober overgemaakt aan de Vlaamse Gemeenschap.<br>
-De Vlaamse Regering kan op een met redenen omkleed verzoek afwijking verlenen van de verplichting de inschrijvingsgelden uiterlijk op 15 oktober over te maken.<br>
-&nbsp;<br>
-§3. Vanaf een datum nader te bepalen door de Vlaamse Regering wordt paragraaf 2 opgeheven.<br>
-&nbsp;<br>
-§4. De Vlaamse Gemeenschap betaalt aan het schoolbestuur van de betrokken scholen de inschrijvingsgelden van de regelmatige leerlingen die werden vrijgesteld.
+...
 
 ### ART II.32.
 
-In het deeltijds kunstonderwijs betaalt een leerling voor elke studierichting waarvoor hij zich inschrijft inschrijvingsgeld. Dat inschrijvingsgeld wordt betaald vóór 1 oktober van het betrokken schooljaar.
+...
 
 ### ART II.33.
 
-§1. Dit artikel wordt vervangen door artikel II.34, §2 van deze codificatie, op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Voor het schooljaar 2015-2016 bedraagt het inschrijvingsgeld:<br>
-1° 300 euro;<br>
-2° 125 euro als de leerling de leeftijd van 25 jaar niet heeft bereikt of recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel II.35;<br>
-3° 62 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie;<br>
-4° 40 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel II.35.<br>
-&nbsp;<br>
-De inschrijvingsgelden voor het deeltijds kunstonderwijs worden jaarlijks vanaf het schooljaar 2015-2016 vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt :<br>
-&nbsp;<br>
-A = (Cx-1/Cx-2), waarbij :<br>
-1° Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-<br>
-Het bedrag wordt afgerond naar de hogere eenheid.
+...
 
 ### ART II.34.
 
-§1. Dit artikel treedt in werking op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Voor het schooljaar (Y-1)-(Y) bedraagt het inschrijvingsgeld:<br>
-1° 200 euro;<br>
-2° 115 euro als de leerling recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel II.35;<br>
-3° 61 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie;<br>
-4° 40 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel II.35.<br>
-De inschrijvingsgelden voor het deeltijds kunstonderwijs worden jaarlijks vanaf het schooljaar (Y)-(Y+1) vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt:<br>
-A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-Het bedrag wordt afgerond naar de hogere eenheid.[1]<br>
-<br>
-<br>
-[1] Artikel 100ter: Decreet van 31/7/1990 betreffende het onderwijs II. In te voegen met ingang van een datum nader te bepalen door de Vlaamse Regering door het decreet van 25/4/2014. In de codificatie is een §1 toegevoegd, zonder inhoudelijke wijzigingen.<br>
-&nbsp;
+...
 
 ### ART II.35.
 
-Om voor het verminderde inschrijvingsgeld in aanmerking te komen, moet de leerling :<br>
-1° een attest overleggen, uitgereikt door de bevoegde overheid, waaruit blijkt dat hij :<br>
-a) uitkeringsgerechtigd volledig werkloos is, of dat hij ten laste is van een uitkeringsgerechtigde volledig werkloze;<br>
-b) verplicht ingeschreven is als werkzoekende op grond van de reglementering in verband met de arbeidsvoorziening en de werkloosheid, of dat hij ten laste is van een dergelijke persoon;<br>
-&nbsp;<br>
-2° een attest overleggen, uitgereikt door de bevoegde overheid, waaruit blijkt dat hij :<br>
-a) een leefloon van het OCMW ontvangt;<br>
-b) een inkomensgarantie voor ouderen of een rentebijslag ontvangt;<br>
-c) erkend is als gehandicapte en een tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid ontvangt;<br>
-d) voor ten minste 66% arbeidsongeschikt is;<br>
-e) begunstigde is van een verhoogde kinderbijslag (erkend voor ten minste 66%);<br>
-f) persoon ten laste is van een persoon, bedoeld in a) of in b) of in c) of in d);<br>
-&nbsp;<br>
-3° het bewijs overleggen dat hij in een gezinsvervangend tehuis of in een medisch-pedagogische instelling verblijft;<br>
-&nbsp;<br>
-4° het bewijs overleggen dat hij het statuut van erkend politiek vluchteling heeft of ten laste is van een dergelijke persoon;<br>
-&nbsp;<br>
-5° een attest overleggen van het kinderbijslagfonds, indien hij ouder is dan 18 jaar.<br>
-&nbsp;<br>
-Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie, betaalt het verminderde inschrijvingsgeld :<br>
-1° indien een ander lid van de leefeenheid waartoe hij behoort het inschrijvingsgeld reeds heeft betaald in een school voor deeltijds kunstonderwijs;<br>
-2° voor iedere extra inschrijving in een andere studierichting in een school voor deeltijds kunstonderwijs.
+...
 
 ### ART II.36.
 
-§1. De inschrijvingsgelden van het deeltijds kunstonderwijs, zoals bepaald in artikel II.33, II.34 worden vanaf het schooljaar 2003-2004 volledig toegewezen aan het fonds "Inschrijvingsgelden Deeltijds Kunstonderwijs", dat een begrotingsfonds is en verder genoemd "het Fonds".<br>
-Het Fonds is een begrotingsfonds in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan en de controle door het Rekenhof.<br>
-&nbsp;<br>
-§2. De middelen van het Fonds moeten worden aangewend voor uitgaven met betrekking tot de betaling van salarissen of salaristoelagen in het deeltijds kunstonderwijs.<br>
-&nbsp;<br>
-§3. De boekhoudkundige verwerking van de verrichtingen gebeurt voor elk onderwijsnet afzonderlijk.<br>
-&nbsp;<br>
-§4. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het Fonds.
+...
 
 ### ART II.37.
 
-§1. Dit artikel wordt vervangen door artikel II.38, §2 tot en met §4, van deze codificatie, op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering stelt de modaliteiten van de inning van het inschrijvingsgeld vast.
+...
 
 ### ART II.38.
 
-§1. Dit artikel heeft uitwerking met ingang van een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Het schoolbestuur van een gesubsidieerde school met uitzondering van de Koninklijke Beiaardschool Jef Denyn betaalt jaarlijks aan het Agentschap voor Onderwijsdiensten vóór 15 november van het schooljaar (x,x+1) voor elke school een bijdrage i aan het Fonds die als volgt is vastgesteld:<br>
-&nbsp;<br>
-&nbsp;i = (a*A) - b waarbij:<br>
-1° a gelijk is aan het totaal van de inschrijvingsgelden van de regelmatige leerlingen die ingeschreven waren op 1 oktober van het schooljaar (x-1,x);<br>
-2° b gelijk is aan het werkingsbudget zoals bepaald in artikel II.44;<br>
-3° A gelijk is aan de aanpassingscoëfficiënt die als volgt berekend wordt: A = (Cx-1/Cx-2), waarbij:<br>
--Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
--Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-&nbsp;<br>
-§3. Het schoolbestuur van een school van het gemeenschapsonderwijs en het schoolbestuur van de Koninklijke Beiaardschool Jef Denyn betalen jaarlijks aan het Agentschap voor Onderwijsdiensten vóór 15 november een bijdrage i aan het Fonds die overeenkomt met het totaal van de inschrijvingsgelden van de regelmatige leerlingen die ingeschreven waren op 1 oktober van het schooljaar (x-1,x). Vanaf het begrotingsjaar Y wordt de bijdrage i jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A zoals bepaald in §2, 3°.<br>
-&nbsp;<br>
-§4. Voor de berekening van de bijdrage i wordt verondersteld dat een fusie van scholen of de overheveling van één of meer filialen naar een andere school al op 1 september van het voorafgaande schooljaar plaatsvond.
+...
 
 ## Hoofdstuk 7 Beroepskwalificaties, basiscompetenties en specifieke eindtermen
 
 ### ART II.39.
 
-De Vlaamse Regering bepaalt de inwerkingtreding van de artikelen II.40, II.41, II.42.
+...
 
 ### ART II.40.
 
-§1. Voor opleidingen deeltijds kunstonderwijs gelden dezelfde specifieke eindtermen als voor het specifieke gedeelte van de opleidingen in het kunstsecundair onderwijs of gelden beroepskwalificaties.<br>
-&nbsp;<br>
-§2. Voor de opleidingen die hieraan voorafgaan, worden gehelen van basiscompetenties vastgelegd.<br>
-&nbsp;<br>
-§3. De specifieke eindtermen en basiscompetenties worden ontwikkeld gebruikmakend van descriptorelementen vermeld in artikel 6 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur.
+...
 
 ### ART II.41.
 
-De specifieke eindtermen worden vastgelegd door het Vlaams Parlement bij wijze van bekrachtiging van een besluit van de Vlaamse Regering, genomen op advies van de Vlaamse Onderwijsraad.<br>
-<br>
-De Vlaamse Regering legt het besluit ten laatste één maand na de goedkeuring ter bekrachtiging voor aan het Vlaams Parlement.<br>
-<br>
-Erkende beroepskwalificaties zijn afgeronde en ingeschaalde gehelen van competenties om als beginnend beroepsbeoefenaar een beroep uit te oefenen. De competenties van de beginnend beroepsbeoefenaar zijn vervat in de beroepskwalificaties die erkend zijn volgens de procedure bepaald in het decreet van 30 april 2009 betreffende de kwalificatiestructuur.<br>
-<br>
-De basiscompetenties worden bepaald door de Vlaamse Regering.
+...
 
 ### ART II.42.
 
-§1. Als een school oordeelt dat de specifieke eindtermen of basiscompetenties onvoldoende ruimte laten voor haar eigen onderwijskundige opvattingen of ermee onverzoenbaar zijn, dient ze bij de Vlaamse Regering een aanvraag tot afwijking in. Die aanvraag is alleen ontvankelijk, als precies wordt aangegeven waarom die specifieke eindtermen of basiscompetenties voor haar eigen onderwijskundige opvattingen onvoldoende ruimte laten of waarom ze ermee onverzoenbaar zijn. De school stelt in dezelfde aanvraag vervangende specifieke eindtermen of basiscompetenties voor.<br>
-&nbsp;<br>
-§2. De Vlaamse Regering beoordeelt of de aanvraag ontvankelijk is en beslist, in voorkomend geval, of de vervangende specifieke eindtermen of basiscompetenties in hun geheel gelijkwaardig zijn met de bij decreet vastgelegde specifieke eindtermen of de bij besluit van de Vlaamse Regering vastgelegde basiscompetenties en de mogelijkheid bieden om gelijkwaardige studiebewijzen uit te reiken.<br>
-&nbsp;<br>
-De gelijkwaardigheid wordt beoordeeld aan de hand van de volgende criteria :<br>
-1° het respect voor de fundamentele rechten en vrijheden;<br>
-2° de vereiste inhoud : het onderwijsaanbod, zoals gevat in de specifieke eindtermen en basiscompetenties omvat minstens inhouden voor de overeenstemmende opleidingen. Die inhouden moeten enkel in hun geheel evenwaardig zijn met de inhouden waarvoor specifieke eindtermen bij decreet en basiscompetenties bij besluit van de Vlaamse Regering zijn vastgelegd;<br>
-3° de vervangende specifieke eindtermen of basiscompetenties zijn geformuleerd in termen van wat van leerlingen verwacht kan worden;<br>
-4° de vervangende specifieke eindtermen of basiscompetenties slaan op kennis, inzichten, vaardigheden en attitudes;<br>
-5° de vervangende specifieke eindtermen slaan op vaardigheden, specifieke kennis, inzichten en attitudes die de leerlingen toelaten vervolgonderwijs aan te vatten;<br>
-6° de vervangende specifieke eindtermen of basiscompetenties zijn zo geformuleerd dat nagegaan kan worden in welke mate de leerlingen ze verwerven of de scholen ze nastreven.<br>
-&nbsp;<br>
-De Vlaamse Regering wint voor de beoordeling van de ontvankelijkheid en van de gelijkwaardigheid het gemotiveerde advies in van de onderwijsinspectie. De Vlaamse Regering bepaalt de verdere regels van die procedure, met dien verstande dat de aanvrager gehoord wordt.<br>
-&nbsp;<br>
-§3. De school dient uiterlijk op 1 september van het schooljaar dat voorafgaat aan het schooljaar waarin de specifieke eindtermen en basiscompetenties zullen gelden, een afwijkingsaanvraag in. De Vlaamse Regering beslist uiterlijk op 31 december van het voorafgaande schooljaar over de aanvraag.<br>
-<br>
-De Vlaamse Regering legt een besluit betreffende een afwijkingsaanvraag in verband met specifieke eindtermen binnen een termijn van zes maanden ter bekrachtiging voor aan het Vlaams Parlement. Als het Vlaams Parlement dat besluit niet bekrachtigt, houdt het op rechtskracht te hebben.<br>
-&nbsp;<br>
-§4. In afwijking van §3, kan de school een afwijkingsaanvraag indienen binnen een termijn van één maand na de publicatie van een bekrachtigingsdecreet, als dat bekrachtigingsdecreet gepubliceerd wordt na 1 september van het schooljaar dat voorafgaat aan de inwerkingtreding.<br>
-<br>
-In de gevallen, vermeld in het vorige lid, is het schoolbestuur gebonden door de specifieke eindtermen vanaf 1 september na de publicatie van het decreet dat de gelijkwaardige specifieke eindtermen erkent of na de beslissing van de Vlaamse Regering die de afwijkingsaanvraag afwijst.
+...
 
 ## Hoofdstuk 8 Administratief kader
 
 ### ART II.43.
 
-De scholen van het deeltijds kunstonderwijs in het gemeenschapsonderwijs die op 30 juni 1994 beschikken over bezoldigde ambten van secretaris-rekenplichtige, suppoost, klerk en klerk-typist, kunnen deze ambten behouden zolang ze worden ingenomen door de titularissen van dat ogenblik en deze de betrekking in dezelfde administratieve toestand en zonder onderbreking blijven uitoefenen. Het volume van de opdracht mag niet hoger worden dan wat het was op 30 juni 1994.
+...
 
 ## Hoofdstuk 9 Werkingsbudget
 
 ### ART II.44.
 
-§1. Dit artikel wordt vervangen door artikel II.45, §2 tot en met §5 van deze codificatie, op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Dit artikel betreft de gesubsidieerde scholen van het deeltijds kunstonderwijs.<br>
-&nbsp;<br>
-§3. Aan de gesubsidieerde scholen van het deeltijds kunstonderwijs wordt jaarlijks een werkingsbudget toegekend.<br>
-&nbsp;<br>
-§4. Het werkingsbudget voor het schooljaar (X, X+1) worden berekend als volgt :<br>
-Aantal toegekende leraarsuren voor het schooljaar (X, X+1) * bedrag per leraarsuur.<br>
-&nbsp;<br>
-Het bedrag voor het schooljaar 2014-2015 voor de studierichting Beeldende Kunst bedraagt 79,34 euro.<br>
-Het bedrag voor het schooljaar 2014-2015 voor de studierichting Muziek, Woordkunst en Dans bedraagt 26,45 euro.<br>
-&nbsp;<br>
-Vanaf het schooljaar 2015-2016 worden de bedragen van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt :<br>
-A = (Cx-1/Cx-2), waarbij :<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.
+...
 
 ### ART II.45.
 
-§1. Dit artikel treedt in werking op een datum nader te bepalen door de Vlaamse Regering.<br>
-&nbsp;<br>
-§2. Dit artikel betreft de gesubsidieerde scholen van het deeltijds kunstonderwijs, met uitzondering van de Koninklijke Beiaardschool Jef Denyn.<br>
-&nbsp;<br>
-§3. Het werkingsbudget van de gesubsidieerde scholen van het deeltijds kunstonderwijs bestaan uit een gedeelte van de inschrijvingsgelden van de leerlingen.<br>
-&nbsp;<br>
-§4. Het werkingsbudget voor het schooljaar (X, X+1) worden jaarlijks berekend als volgt:<br>
-Aantal toegekende leraarsuren voor het schooljaar (X, X+1) * bedrag per leraarsuur.<br>
-&nbsp;<br>
-Het bedrag per leraarsuur wordt jaarlijks berekend als volgt:<br>
-Basisbedrag * Aanpassingscoëfficiënt.<br>
-&nbsp;<br>
-Het basisbedrag voor de studierichting Beeldende Kunst bedraagt 90,92 euro.<br>
-&nbsp;<br>
-Het basisbedrag voor de studierichting Muziek, Woordkunst en Dans bedraagt 30,31 euro.<br>
-&nbsp;<br>
-Deze basisbedragen worden jaarlijks vanaf het schooljaar (Y)-(Y+1) vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt:<br>
-&nbsp;<br>
-A = (Cx-1/Cx-2), waarbij:<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-De A-coëfficiënt wordt voor 100 procent in rekening gebracht.<br>
-&nbsp;<br>
-§5. Het schoolbestuur mag het werkingsbudget dat zij krachtens dit artikel verkrijgt uitsluitend aanwenden voor de werking van de school. Het schoolbestuur voert een boekhouding, zodat de inkomsten overeenkomstig dit artikel en de aanwending van die inkomsten duidelijk identificeerbaar zijn.
+...
 
 ### ART II.46.
 
-Voor het begrotingsjaar 2015, dat de kredieten omvat voor het schooljaar 2014-2015, is het bedrag dat bestemd is voor het deeltijds kunstonderwijs in het gemeenschapsonderwijs 1.729.877 euro.<br>
-Vanaf het schooljaar 2015-2016 wordt het werkingsbudget van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A2 die voor een schooljaar (X, X+1) als volgt berekend wordt :<br>
-A2 = (Cx-1/Cx-2), waarbij :<br>
-1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
-2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
-De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
+...
 
 ## Hoofdstuk 10 Aanwending van de schooltijd
 
 ### ART II.47.
 
-§1. De Vlaamse Regering bepaalt de aanwending van de schooltijd voor het deeltijds kunstonderwijs in de door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde scholen.<br>
-&nbsp;<br>
-§2. De overtreding van deze regeling kan aanleiding geven tot sancties.<br>
-De bedoelde sanctie kan in het gesubsidieerd onderwijs een gedeeltelijke terugvordering zijn van het werkingsbudget.<br>
-In het gemeenschapsonderwijs kan deze sanctie een gedeeltelijke inhouding zijn van het werkingsbudget toegekend aan het Gemeenschapsonderwijs.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de regels voor de toepassing van de sancties.
+...
 
 ## Hoofdstuk 11 Zorgvuldig bestuur
 
 ### ART II.48.
 
-Een schoolbestuur mag informatie verstrekken over het eigen opvoedingsproject en het onderwijsaanbod, maar mag geen oneerlijke concurrentie voeren.
+...
 
 ### ART II.49.
 
-Er mag in een school voor deeltijds kunstonderwijs geen politieke propaganda gevoerd worden en er mogen geen politieke activiteiten worden georganiseerd.<br>
-&nbsp;<br>
-In afwijking van het vorige lid kunnen politieke activiteiten in een school worden toegelaten buiten de periodes waarin er schoolactiviteiten zijn en buiten de periode van 90 dagen voorafgaand aan een verkiezing. Personeelsleden en leerlingen worden niet gevraagd of aangezet om aan deze activiteiten deel te nemen. Het schoolbestuur &nbsp;kan niet betrokken worden bij de organisatie van de politieke activiteit en houdt rekening met het beginsel van gelijke behandeling bij de toepassing van deze bepaling.<br>
-&nbsp;<br>
-Onder politieke activiteiten wordt hier verstaan alle activiteiten die worden georganiseerd door politieke partijen of politieke mandatarissen van politieke partijen, waarvan de standpunten en gedragingen niet in strijd zijn met het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.
+...
 
 ### ART II.50.
 
-Het schoolbestuur kan handelsactiviteiten verrichten, voor zover deze geen daden van koophandel zijn en voor zover ze verenigbaar zijn met haar onderwijsopdracht.
+...
 
 ### ART II.51.
 
-Een schoolbestuur dat sponsoring of mededelingen die rechtstreeks of onrechtstreeks ten doel hebben de verkoop van producten of diensten te bevorderen, toelaat, waakt erover dat :<br>
-1° door het schoolbestuur verstrekte leermiddelen vrij blijven van bedoelde mededelingen;<br>
-2° activiteiten vrij blijven van bedoelde mededelingen, behoudens indien deze mededelingen louter attenderen op het feit dat de activiteit of een gedeelte van de activiteit ingericht werd door middel van een gift, een schenking of een prestatie om niet of verricht onder reële prijs door een bij name genoemde natuurlijke persoon, rechtspersoon of feitelijke vereniging;<br>
-3° sponsoring en bedoelde mededelingen kennelijk niet onverenigbaar zijn met de pedagogische en onderwijskundige taken en doelstellingen van de school;<br>
-4° sponsoring en bedoelde mededelingen de objectiviteit, de geloofwaardigheid, de betrouwbaarheid en de onafhankelijkheid van de school niet in het gedrang brengen.
+...
 
 ### ART II.52.
 
-Vragen in verband met de toepassing van de beginselen van dit hoofdstuk en klachten in verband met inbreuken op deze beginselen kunnen door iedere belanghebbende ingediend worden bij de Commissie zorgvuldig bestuur, bedoeld in deel VII van deze codificatie.
+...
 
 ## Hoofdstuk 12 Tijdelijke projecten deeltijds kunstonderwijs
 
@@ -626,24 +245,7 @@ Vragen in verband met de toepassing van de beginselen van dit hoofdstuk en klach
 
 ### ART II.53.
 
-§1. De volgende tijdelijke projecten deeltijds kunstonderwijs worden verlengd tot de Vlaamse Regering een nieuwe einddatum bepaalt:<br>
-&nbsp;<br>
-1° ortho-agogische muzikale vorming in de Stedelijke Academie voor Muziek, Woord en Dans van Beringen, de Gemeentelijke Academie voor Muziek en Woord van Grimbergen en de Stedelijke Academie voor Muziek, Woord en Dans van Lokeren;<br>
-2° aangepaste beeldende vorming in de Academie Noord van Brasschaat, de Stedelijke Academie voor Beeldende Kunsten van Eeklo, de Stedelijke Academie voor Schone Kunsten van Kortrijk, de Gemeentelijke Academie voor Beeldende Kunst van Mol, de Stedelijke Academie voor Beeldende Kunsten van Turnhout, de Stedelijke Academie voor Beeldende Kunst 'Kunstacademie De Lei' van Leuven en de Stedelijke Academie voor Schone Kunsten van Hasselt en tot en met 31 augustus 2016;<br>
-3° inclusief muziekonderricht in de Gemeentelijke Muziek- en Woordacademie van Wijnegem, zoals goedgekeurd bij het besluit van de Vlaamse Regering van 15 juni 2007 betreffende de goedkeuring van tijdelijke projecten in het deeltijds kunstonderwijs vanaf het schooljaar 2007-2008 en decretaal bekrachtigd bij het decreet van 13 juli 2007 tot bekrachtiging van het besluit van de Vlaamse Regering van 15 juni 2007 betreffende de goedkeuring van tijdelijke projecten in het deeltijds kunstonderwijs vanaf het schooljaar 2007-2008.<br>
-&nbsp;<br>
-§2. De scholen bedoeld in §1, nemen deel aan een werkgroep die in samenspraak met externe deskundigen de aanpassingen van de leeromgeving ten behoeve van leerlingen met speciale behoeften in een kunstopleiding systematisch zal inventariseren. Aanpassingen zijn afhankelijk van de onderwijsbehoeften van de doelgroep en hebben betrekking op :<br>
-1° het pedagogisch handelen van de leerkracht;<br>
-2° de ontwikkeling van het leertraject;<br>
-3° het inrichten van de leeromgeving.<br>
-&nbsp;<br>
-§3. De Vlaamse Regering bepaalt de samenstelling van de werkgroep en de termijn voor het indienen van het eindrapport.<br>
-&nbsp;<br>
-§4. De projectorganisatoren leveren inspanningen om de aanbevelingen van het eindrapport van de werkgroep, zoals vermeld in §3, te realiseren.<br>
-&nbsp;<br>
-§5. De voorwaarden met betrekking tot de toekenning van de bijkomende uren-leraar, zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing.<br>
-&nbsp;<br>
-§6. De overige voorwaarden zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing, voor zover zij de realisatie van de aanbevelingen uit het eindrapport niet belemmeren. Desgevallend legt de Vlaamse Regering gewijzigde voorwaarden op, die uiterlijk 6 maanden na de beslissing van de Vlaamse Regering decretaal bekrachtigd worden en ten vroegste ingaan vanaf het schooljaar 2011-2012.
+...
 
 ### ART II.54.
 
@@ -675,75 +277,33 @@ Vragen in verband met de toepassing van de beginselen van dit hoofdstuk en klach
 
 ### ART II.55.
 
-De volgende tijdelijke projecten deeltijds kunstonderwijs worden met ongewijzigde voorwaarden verlengd tot de Vlaamse Regering een nieuwe einddatum bepaalt :<br>
-1° conceptuele kunst in de Academie Beeldende Kunst van de Vlaamse Gemeenschap te Etterbeek en de Gemeentelijke Academie voor Schone Kunsten van Kontich;<br>
-2° geïntegreerde lesmethodiek in de Gemeentelijke Academie voor Muziek en Woord van Lanaken;<br>
-3° indimalimexchi.co in de Stedelijke Academie voor Beeldende Kunsten van Hoboken;<br>
-4° integratiekunst mozaïek in de Stedelijke Academie voor Beeldende Kunsten van Wilrijk;<br>
-5° leerstofintegratie in de Stedelijke Academie voor Muziek en Woord van Ieper;<br>
-6° projectonderwijs in de Koninklijke Academie voor Schone Kunsten van Kortrijk;<br>
-7° muziektheater in de Gemeentelijke Academie voor Muziek, Woord en Dans van Buggenhout en de Kunstacademie van Knokke-Heist;<br>
-8° schoenontwerpen in de Stedelijke Academie voor Schone Kunsten van Sint-Niklaas;<br>
-9° geluidsleer en opnametechniek in de Stedelijke Muziekacademie van Geel;<br>
-10° passe-partout in de Stedelijke Academie voor Beeldende Kunst van Oudenaarde;<br>
-11° regie podiumkunsten in de Hagelandse Academie voor Muziek en Woord, de Academie voor Podiumkunsten van Gent en de Stedelijke Academie voor Muziek, Woord en Dans van Lier;<br>
-12° sounddesign in de Koninklijke Academie voor Schone Kunsten Deeltijds Kunstonderwijs te Antwerpen.
+...
 
 ### ART II.56.
 
-§1. De volgende projecten deeltijds kunstonderwijs worden met gewijzigde voorwaarden verlengd tot de Vlaamse Regering een nieuwe einddatum bepaalt :<br>
-1° intergemeentelijke samenwerking Haspengouwse academie;<br>
-2° intergemeentelijke samenwerking Hagelandse academie;<br>
-3° intergemeentelijke samenwerking Noord-Limburg;<br>
-4° intergemeentelijke samenwerking Noorderkempen;<br>
-5° intergemeentelijke samenwerking Noord-Antwerpen.<br>
-&nbsp;<br>
-§2. Aan de oorspronkelijke voorwaarden zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs worden de volgende wijzigingen aangebracht :<br>
-1° de tijdelijke projecten voldoen tegen 30 juni 2009 aan de volgende voorwaarden :<br>
-a) het samenwerkingsverband strekt zich uit over een geheel van minimaal 4 en maximaal 9 aaneensluitende gemeenten;<br>
-b) het samenwerkingsverband organiseert zowel de studierichting beeldende kunst als muziek als een of meer andere studierichtingen;<br>
-c) alle filialen en hoofdvestiging voor deeltijds kunstonderwijs, studierichtingen beeldende kunst, muziek, woordkunst en/of dans, die zich op het grondgebied van die gemeenten bevinden, maken deel uit van het samenwerkingsverband;<br>
-d) het tijdelijk project intergemeentelijke samenwerking Noord-Antwerpen en het tijdelijk project verdeling graden beeldende kunst over de gemeenten Kapellen en Kalmthout maken afspraken met het oog op samenwerking en formuleren daaromtrent een gezamenlijk voorstel;<br>
-2° tijdens de duur van de verlenging kunnen de tijdelijke projecten enkel de oprichting van extra filialen met lagere graden voor jongeren tot gevolg hebben;<br>
-3° de tijdens de verlenging opgerichte filialen zijn onderworpen aan de rationalisatienormen voor de lagere graad in filialen zoals respectievelijk bepaald in het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting beeldende kunst en in het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen muziek, woordkunst en dans;<br>
-4° de projectorganisatoren bezorgen jaarlijks tegen 1 april een zelfevaluatierapport van hun project aan het Departement Onderwijs en Vorming in functie van een eventuele structurele verankering van samenwerkingsverbanden in het deeltijds kunstonderwijs.<br>
-In dit rapport komen minstens de volgende elementen aan bod :<br>
-- een beschrijving van de evolutie van het project sinds het schooljaar van de opstart;<br>
-- een beschrijving en beoordeling van de sterke en de te verbeteren punten, de kansen en de moeilijkheden van het project.<br>
-&nbsp;<br>
-§3. De voorwaarden met betrekking tot de toekenning van de bijkomende uren-leraar, zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing.<br>
-&nbsp;<br>
-§4. De overige voorwaarden zoals bekrachtigd in artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs, blijven van toepassing, voor zover zij de remediëring ten gevolge van het zelfevaluatierapport niet belemmeren. Desgevallend legt de Vlaamse Regering gewijzigde voorwaarden op die uiterlijk 6 maanden na de beslissing van de Vlaamse Regering decretaal bekrachtigd worden en ten vroegste ingaan vanaf het schooljaar 2011-2012.
+...
 
 ## Afdeling 2 Tijdelijk project regionale samenwerking Zuid-Limburg
 
 ### ART II.57.
 
-Scholengroep 13 Zuid-Limburg organiseert vanaf 1 september 2009 tot de Vlaamse Regering een nieuwe einddatum bepaalt een tijdelijk project regionale samenwerking onder de volgende voorwaarden :<br>
-1° de voorwaarden vermeld in artikel II.56, §2, 1°, a), b) en c), waarbij Voeren wordt beschouwd als aaneensluitende gemeente;<br>
-2° het samenwerkingsverband kan zich uitstrekken over het grondgebied van gemeenten die binnen het gebied van de scholengroep vallen en waar geen andere schoolbesturen dan de scholengroep deeltijds kunstonderwijs aanbieden alsook over het grondgebied van gemeenten buiten de scholengroep waar de scholengroep op 1 september 2009 al deeltijds kunstonderwijs aanbiedt;<br>
-3° de voorwaarden vermeld in artikel II.56, §2, 2°, 3° en 4°;<br>
-4° voor de coördinatie van het tijdelijk project ontvangt de scholengroep 10 wekelijkse uren-leraar voor pedagogische coördinatie;<br>
-5° de projectorganisatoren remediëren de te verbeteren punten die het zelfevaluatierapport, zoals vermeld in artikel II.56, §2, 4°, aangeeft.
+...
 
 ## Afdeling 3 Pilootprojecten hervorming deeltijds kunstonderwijs
 
 ### ART II.58.
 
-In de periode van 1 januari 2012 tot de Vlaamse Regering een nieuwe einddatum bepaalt kan de Vlaamse Regering subsidies toekennen aan pilootprojecten ter voorbereiding op de hervorming van het deeltijds kunstonderwijs. De projecten worden georganiseerd door een of meer pedagogische begeleidingsdiensten en/of één of meer specifieke lerarenopleidingen die aansluiten op een vakinhoudelijke opleiding in de kunsten en/of één of meer geïntegreerde lerarenopleidingen in de onderwijsvakken muzikale opvoeding, plastische opvoeding of project kunstvakken.<br>
-&nbsp;<br>
-De Vlaamse Regering bepaalt nadere inhoudelijke, organisatorische en procedurele regels met betrekking tot de afbakening van de thema's, de doelstellingen, de selectie van projecten en de toekenning van subsidies. Zij treft de nodige maatregelen om de transfer van de projectresultaten naar het brede werkveld te realiseren.
+...
 
 ## Afdeling 4 Stopzetting en organieke omzetting van experimenten en tijdelijke projecten
 
 ### ART II.59.
 
-De Vlaamse Regering kan experimenten bekrachtigd bij artikel 19 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs stopzetten.
+...
 
 ### ART II.60.
 
-Als de Vlaamse Regering een experiment of tijdelijk project beëindigt met het oog op opname van het opleidingsaanbod in de structuur van het deeltijds kunstonderwijs zoals bepaald in hoofdstuk II van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `beeldende kunst', en in hoofdstuk II van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `muziek', `woordkunst' en `dans', regelt zij voor de betrokken scholen en leerlingen de overgang naar de organieke opleidingsstructuur.<br>
-Daarbij kan zij afwijken van artikel 49ter van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `beeldende kunst', en van artikel 57ter van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `muziek', `woordkunst' en `dans'.
+...
 
 ## DEEL III INTERNATEN en TEHUIZEN VOOR KINDEREN MET OUDERS DIE GEEN VASTE VERBLIJFPLAATS HEBBEN
 
@@ -1954,7 +1514,7 @@ De bepalingen van deze afdeling zijn niet van toepassing op de personeelsleden d
 
 ### ART V.27.
 
-§1. De Vlaamse Regering bepaalt de verlofregeling in de gefinancierde of&nbsp; gesubsidieerde scholen, centra, internaten en tehuizen voor het gewoon en buitengewoon basisonderwijs, het voltijds en deeltijds gewoon en het buitengewoon secundair onderwijs, het deeltijds kunstonderwijs en het volwassenenonderwijs.<br>
+§1. De Vlaamse Regering bepaalt de verlofregeling in de gefinancierde of&nbsp; gesubsidieerde scholen, centra, internaten en tehuizen voor het gewoon en buitengewoon basisonderwijs, het voltijds en deeltijds gewoon en het buitengewoon secundair onderwijs en het volwassenenonderwijs.<br>
 &nbsp;<br>
 §2. De overtreding van deze regeling kan aanleiding geven tot sancties.<br>
 De bedoelde sanctie kan in het gesubsidieerd onderwijs een gedeeltelijke terugvordering zijn van het werkingsbudget.<br>
@@ -3003,7 +2563,8 @@ De Vlaamse Regering kan de bepalingen van volgende decreten coördineren, met in
 53° het decreet betreffende het onderwijs XXVI;<br>
 54° het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;<br>
 55° het decreet van 25 november 2016 betreffende de alternatieve financiering van schoolinfrastructuur via projectspecifieke DBFM-overeenkomsten;<br>
-56° het decreet betreffende het onderwijs XXVII.&nbsp;<br>
+56° het decreet betreffende het onderwijs XXVII;<br>
+57° het decreet betreffende het onderwijs XXVIII.&nbsp;<br>
 &nbsp;<br>
 Te dien einde kan de Vlaamse Regering :<br>
 &nbsp;<br>
