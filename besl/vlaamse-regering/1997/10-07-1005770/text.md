@@ -133,4 +133,6 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/05_1.pdf#page=220">Bijlage 3</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/02/05_1.pdf#page=220">Bijlage 3</a><br>
+<br>
+In bijlage III&nbsp;wordt met&nbsp;ingang van 1 september 2018&nbsp;tussen de woorden "Restauratietechnieken massief meubel" en het woord "Retouchetechnieken" de woorden "Retouches en herstellingen" ingevoegd (Zie BVR 28 september 2018, art. 1, I: 1 september 2018).
