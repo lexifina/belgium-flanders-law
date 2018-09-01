@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029313,
+  "title": "Ministerieel besluit van 2018-05-02 tot wijziging van bijlage I en II bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029313/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "4a37e13b784ec68897dc6166cb7ed95c1239764c851ff9bc3515a2a3871e1ae6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029313&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-05-02",
+  "gazette": "2018-05-28",
+  "numac": 2018012090,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
