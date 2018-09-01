@@ -694,6 +694,16 @@ Een nieuwe vaste benoeming is ook mogelijk voor een personeelslid als vermeld in
 
 ## [Afdeling 3 Het re-integratietraject van een werknemer die het overeengekomen werk definitief niet kan uitoefenen (ing. decr. 15 juni 2018, art. 126, I: 1 september 2018)]
 
+### ART 75/1.
+
+§ 1. Deze afdeling is van toepassing op het vastbenoemde personeelslid voor wie de preventieadviseur-arbeidsgeneesheer met toepassing van artikel I.4-73, § 4, c), van de codex over het welzijn op het werk van 28 april 2017 heeft beslist dat hij definitief ongeschikt is om het overeengekomen werk te hervatten, maar in staat is om bij het centrumbestuur een aangepast of ander werk uit te voeren, in voorkomend geval na aanpassing van de werkpost.<br>
+<br>
+§ 2. Als conform artikel 73/3 en 73/4 van de codex over het welzijn op het werk van 28 april 2017 het centrumbestuur en het personeelslid ermee akkoord gaan om die beslissing en het door het centrumbestuur uitgewerkte re-integratieplan te volgen, sluiten het centrumbestuur en het personeelslid een schriftelijke overeenkomst over de vorm van de tewerkstelling. Die tewerkstelling is mogelijk in een van de volgende vormen:<br>
+1° tewerkstelling in het ambt van benoeming na aanpassing van de geïndividualiseerde functiebeschrijving, vermeld in artikel 79;<br>
+2° tewerkstelling in een ander ambt dan het ambt van vaste benoeming als vermeld in afdeling 2.<br>
+<br>
+Als de beslissing van de preventieadviseur-arbeidsgeneesheer, vermeld in artikel 73/2, § 4, c), van de codex over het welzijn op het werk van 28 april 2017, niet leidt tot een overeenkomst over tewerkstelling, kan het centrumbestuur een vastbenoemd personeelslid de uitoefening van zijn ambt ontzeggen.
+
 ## HOOFDSTUK 14 De ontwikkelcyclus
 
 ### ART 76.
