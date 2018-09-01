@@ -75,7 +75,7 @@ b) salarisschaal 301 : de houders van een bekwaamheidsbewijs van ten minste bach
 6° de uitvoerend administratief medewerker : salarisschaal 122;<br>
 7° de ervaringsdeskundige in de armoede en sociale uitsluiting : salarisschaal 122.<br>
 <br>
-§ 2. De salarisschalen vermeld in § 1, zijn vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
+§ 2. De salarisschalen vermeld in § 1, zijn vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.<br>
 &nbsp;
 
 ## HOOFDSTUK V Slotbepalingen
