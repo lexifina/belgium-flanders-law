@@ -22,7 +22,11 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° hogeschool : een instelling als vermeld in artikel 2, 1°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />2° boekhoudkundige entiteit : iedere entiteit vermeld in punt 1°;<br />3° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen en de jaarrekening goed te keuren;<br />4° boekjaar : het boekjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het begrotingsjaar.
+In dit besluit wordt verstaan onder :<br>
+1° hogeschool : een instelling als vermeld in artikel II.3 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+2° boekhoudkundige entiteit : iedere entiteit vermeld in punt 1°;<br>
+3° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen en de jaarrekening goed te keuren;<br>
+4° boekjaar : het boekjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het begrotingsjaar.
 
 ## HOOFDSTUK II. Boekhouding
 
@@ -62,7 +66,11 @@ Nadat de rekeningen in overeenstemming zijn gebracht met de gegevens van de inve
 
 ### ART. 10.
 
-De jaarrekening omvat de balans, de resultatenrekening en de toelichting. Die documenten vormen een geheel. De posten van de jaarrekening worden in euro uitgedrukt.<br /><br />De jaarrekening wordt voorgelegd aan een bedrijfsrevisor, wiens verklaring naar aanleiding van een volkomen controle aan de jaarrekening wordt toegevoegd.<br /><br />Voor 31 mei dient het instellingsbestuur van de boekhoudkundige entiteit de jaarrekening in bij de Vlaamse Regering waarin het rekenschap aflegt over het financiële beheer voor het voorgaande boekjaar, met bijgevoegd de verklaring van de bedrijfsrevisor.
+De jaarrekening omvat de balans, de resultatenrekening en de toelichting. Die documenten vormen een geheel. De posten van de jaarrekening worden in euro uitgedrukt.<br>
+<br>
+De jaarrekening wordt voorgelegd aan een bedrijfsrevisor, wiens verklaring naar aanleiding van een volkomen controle aan de jaarrekening wordt toegevoegd.<br>
+<br>
+Voor 31 maart van het kalenderjaar dat volgt op het afgesloten boekjaar&nbsp;dient het instellingsbestuur van de boekhoudkundige entiteit de jaarrekening in bij de Vlaamse Regering waarin het rekenschap aflegt over het financiële beheer voor het voorgaande boekjaar, met bijgevoegd de verklaring van de bedrijfsrevisor.
 
 ### ART. 11.
 
