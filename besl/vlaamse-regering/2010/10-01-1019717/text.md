@@ -21,42 +21,94 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° decreet van 8 mei 2009 : het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs; <br />2° kalenderdag : elke dag van het jaar, uitgezonderd de dagen tijdens de herfst-, de kerst-, de krokus-, de paas- en de zomervakantie;<br />3° minister : de Vlaamse minister bevoegd voor het onderwijs. <br /><br />
+In dit besluit wordt verstaan onder:<br>
+1° bestuur: het schoolbestuur of het bestuur van de instelling;<br>
+2° beveiligde zending: een van volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+3° decreet van 8 mei 2009: het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° kalenderdag: elke dag van het jaar, uitgezonderd de dagen tijdens de herfst-, de kerst-, de krokus-, de paas- en de zomervakantie;<br>
+5° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br>
+6° schriftelijk: op een van de volgende wijzen:<br>
+a) met een brief, verzonden met de post;<br>
+b) met een e-mail;<br>
+c) via "Mijn Onderwijs": de persoonlijke en beveiligde website voor directies en administraties in het onderwijs.
 
 ## HOOFDSTUK 2 Advies bij opname in de erkenning
 
 ### ART. 2.
 
-§ 1. Het onderzoek van de inspectie bij een aanvraag tot opname in de erkenning, vermeld in artikel 35 van het decreet van 8 mei 2009, kan worden toevertrouwd aan een individuele inspecteur of aan een team van inspecteurs.<br /><br />§ 2. Het inspectiebezoek wordt niet aangekondigd.<br /><br />§ 3. De directeur stelt tijdens het onderzoek alle gevraagde relevante informatie ter beschikking. Tijdens het onderzoek kan de inspecteur of het inspectieteam verder informatie verzamelen door onder meer activiteiten of lessen bij te wonen of door gesprekken te voeren met personeelsleden, alsook met leden van het bestuur van de instelling of zijn gemandateerde en met ouders van de leerlingen. Informatie vergaren door gesprekken te voeren met leerlingen of cursisten kan tijdens de bijgewoonde lessen en andere schoolse activiteiten. <br /><br />§ 4. Het onderzoek wordt afgesloten met een verslag dat resulteert in een gemotiveerd advies dat op twee manieren kan worden uitgebracht : <br />1° een gunstig advies;<br />2° een ongunstig advies, met een lijst van de vastgestelde tekorten.<br /><br />Het verslag, vermeld in het eerste lid, wordt binnen dertig kalenderdagen na het onderzoek aan de directeur en aan het bestuur van de instelling bezorgd. <br /><br />§ 5. Als het bestuur meent dat het ongunstig advies onterecht gegeven werd, zal het dat binnen dertig kalenderdagen met een aangetekende brief melden aan de inspecteur-generaal door middel van een gemotiveerd bezwaarschrift. <br /><br />De inspecteur-generaal zal binnen een periode van dertig kalenderdagen een van de volgende beslissingen nemen. Hij kan beslissen dat : <br />1° het beroep van het bestuur van de instelling wordt aanvaard. Als het beroep wordt aanvaard, zal het advies worden gewijzigd in een gunstig advies en wordt het aldus gewijzigde verslag, dat gedateerd wordt bij de opmaak ervan, het oorspronkelijke verslag vervangt en geldt als definitief verslag, opnieuw verzonden naar de directeur en naar het bestuur van de instelling; <br />2° het beroep van het bestuur van de instelling gedeeltelijk wordt aanvaard, maar het ongunstig advies behouden blijft. In dat geval wordt het aldus gewijzigde verslag, dat een lijst van de vastgestelde tekortkomingen bevat, gedateerd wordt bij de opmaak ervan, het oorspronkelijke verslag vervangt en geldt als definitief verslag, opnieuw verzonden naar de directeur en naar het bestuur van de instelling. Het bestuur van de instelling zal binnen een termijn van dertig kalenderdagen na de beslissing van de inspecteur-generaal in voorkomend geval haar schriftelijk commentaar aan de inspectie bezorgen; <br />3° het beroep van het bestuur van de instelling volledig verworpen blijft, en die beslissing wordt naar de directeur en het bestuur van de instelling gestuurd. Het bestuur van de instelling zal binnen een termijn van dertig kalenderdagen na de beslissing van de inspecteur-generaal in voorkomend geval haar schriftelijk commentaar aan de inspectie bezorgen.<br /><br />§ 6. Het verzoek tot opname in de erkenning wordt samen met het definitieve advies van de inspectie voor beslissing voorgelegd aan de minister. In voorkomend geval wordt het bezwaarschrift of het schriftelijk commentaar van de instelling, vermeld in paragraaf 5, tweede lid, 2° en 3°, gevoegd bij het dossier dat aan de minister wordt voorgelegd.<br /><br />§ 7. Wanneer de minister een centrum voor leerlingenbegeleiding opneemt in de erkenning, wordt deze beslissing onverwijld meegedeeld aan de Vlaamse minister bevoegd voor het gezondheidsbeleid.<br /><br />
+§ 1. Het onderzoek van de onderwijsinspectie bij een aanvraag tot opname in de voorlopige erkenning, vermeld in artikel 35, § 1, van het decreet van 8 mei 2009, kan worden toevertrouwd aan een individuele inspecteur of aan een team van inspecteurs.<br>
+<br>
+Het inspectiebezoek, vermeld in het eerste lid, wordt niet aangekondigd.<br>
+<br>
+§ 2. De beslissing van de Vlaamse Regering, vermeld in artikel 35, § 1, vierde lid, van het decreet van 8 mei 2009, wordt binnen vijf kalenderdagen na de beslissing schriftelijk meegedeeld aan het bestuur.<br>
+<br>
+§ 3. Conform artikel 35, § 2, van het decreet van 8 mei 2009 wordt de voorlopig erkende school doorgelicht.<br>
+<br>
+De bepalingen uit hoofdstuk 3 van dit besluit zijn van toepassing.<br>
+<br>
+§ 4. De beslissing van de Vlaamse Regering, vermeld in artikel 35, § 2, vierde lid, van het decreet van 8 mei 2009, wordt binnen vijf kalenderdagen na de beslissing met een beveiligde zending meegedeeld aan het bestuur.<br>
+<br>
+§ 5. De beslissing om een centrum voor leerlingenbegeleiding voorlopig te erkennen, wordt onmiddellijk meegedeeld aan de Vlaamse minister, bevoegd voor het gezondheidsbeleid.
+
+### ART 2/1.
+
+§ 1. Het beroep tegen een niet-erkenning, vermeld in artikel 41, § 2, vierde lid, van het decreet van 8 mei 2009, wordt met een gemotiveerd bezwaarschrift via een beveiligde zending ingediend bij de minister.<br>
+<br>
+Het bezwaarschrift geeft aan waarom het bestuur de niet-erkenning onterecht vindt. Daarbij toont het bestuur aan dat voldaan is aan de decretaal vastgelegde voorwaarden van erkenning.<br>
+<br>
+§ 2. De minister neemt binnen dertig kalenderdagen na de ontvangst van het gemotiveerde bezwaarschrift en, in voorkomend geval, nadat hij het bestuur gehoord heeft, een van de volgende beslissingen:<br>
+1° het beroep van het bestuur wordt aanvaard en de nieuwe instelling wordt erkend;<br>
+2° het beroep van het bestuur wordt verworpen en de beslissing "geen erkenning" blijft behouden.<br>
+<br>
+De minister motiveert de beslissing en deelt die binnen vijf kalenderdagen met een beveiligde zending mee aan het bestuur.
 
 ## HOOFDSTUK 3 De doorlichting
 
 ### ART. 3.
 
-De doorlichting, vermeld in artikel 36 tot en met 42 van het decreet van 8 mei 2009, bestaat uit de volgende drie fases : <br />1° het vooronderzoek;<br />2° de fase van de doorlichtingsbezoeken;<br />3° de fase van de verslaggeving. <br /><br />
+...
 
 ### ART. 4.
 
-Voor het vooronderzoek wordt binnen de inspectie een dossierbeheerder aangewezen. <br /><br />Na afloop van het vooronderzoek wordt een inspecteur aangewezen als inspecteur-verslaggever. Die is verantwoordelijk voor de organisatie van de doorlichtingsbezoeken en voor de verslaggeving tijdens de verslaggevingsfase. <br /><br />
+...
 
 ### ART. 5.
 
-§ 1. De inspectie kondigt schriftelijk aan dat een instelling zal worden doorgelicht. Die aankondiging wordt gezonden aan het bestuur van de instelling en vermeldt de periode waarin de doorlichting zal plaatsvinden. De schriftelijke mededeling wordt verstuurd ten minste dertig kalenderdagen voor het aangekondigde begin van de periode waarin de instelling zal worden doorgelicht.<br /><br />In afwijking van het eerste lid worden de besturen van de instellingen waarvan de doorlichtingsbezoeken in de maand september zullen plaatsvinden, uiterlijk op 20 augustus op de hoogte gebracht. <br /><br />§ 2. De mededeling, waarin de doorlichting wordt aangekondigd, vermeldt uitdrukkelijk de informatie die tijdens de periode waarin de instelling kan worden doorgelicht, in de instelling ter beschikking moet zijn van de inspectie. <br /><br />Bij de mededeling van de inspectie wordt een vragenlijst gevoegd, die de instelling voor het begin van de aangekondigde periode waarin de instelling zal worden doorgelicht, ingevuld aan de inspectie moet bezorgen. <br /><br />De leden van het doorlichtingsteam kunnen tijdens een doorlichtingsbezoek de directeur verzoeken bijkomende relevante documenten ter beschikking te stellen van de inspectie. <br /><br />De instelling moet de inspectie tijdens de doorlichting kunnen aantonen hoe ze de door het decreet van 8 mei 2009 opgelegde verplichtingen heeft vervuld. Met behoud van de toepassing van het eerste en het tweede lid, kiest ze zelf de wijze waarop ze dat doet.<br /><br />
+§ 1. De onderwijsinspectie deelt het bestuur schriftelijk mee dat een instelling zal worden doorgelicht. De schriftelijke mededeling wordt minstens eenentwintig kalenderdagen voor de start van de doorlichting verstuurd.<br>
+<br>
+Die mededeling vermeldt uitdrukkelijk de informatie die voor en tijdens de doorlichtingsperiode ter beschikking moet zijn van de inspectie.<br>
+<br>
+In afwijking van het eerste lid worden de besturen van de instellingen waarvan de doorlichting in de maand september zal plaatsvinden, uiterlijk op twintig augustus op de hoogte gebracht.<br>
+<br>
+§ 2. De leden van het doorlichtingsteam kunnen tijdens een doorlichting de directeur verzoeken bijkomende relevante informatie ter beschikking te stellen van de inspectie.<br>
+<br>
+De leden van het doorlichtingsteam kunnen tijdens de doorlichting bijkomende relevante informatie verzamelen door lessen en schoolse of centrumgebonden activiteiten bij te wonen, en door gesprekken te voeren met de directie, de personeelsleden, het bestuur, met de ouders van de leerlingen, met de leerlingen of cursisten, met de leden van de participatie- en inspraakorganen of met relevante derden.<br>
+<br>
+De instelling moet de onderwijsinspectie tijdens de doorlichting kunnen aantonen hoe ze de verplichtingen van het decreet van 8 mei 2009 heeft vervuld. Ze kiest zelf de wijze waarop ze dat doet.
 
 ### ART. 6.
 
-De inspectieleden kunnen tijdens de doorlichtingsbezoeken bijkomende relevante informatie verzamelen door lessen en schoolse of centrumgebonden activiteiten bij te wonen, en door gesprekken te voeren met personeelsleden alsook met het bestuur van de instelling, met de ouders van de leerlingen of met relevante derden.<br>
-<br>
-Tijdens de lessen en schoolse activiteiten kan bijkomende relevante informatie worden ingewonnen via gesprekken met de leerlingen of cursisten.<br>
-&nbsp;
+...
 
 ### ART. 7.
 
-Het bestuur van de instelling wordt door de inspectie schriftelijk verwittigd als de doorlichtingsbezoeken afgelopen zijn. De datum van het laatste doorlichtingsbezoek geldt als datum voor het einde van de fase van de doorlichtingsbezoeken. <br /><br />
+De onderwijsinspectie brengt het bestuur schriftelijk op de hoogte als de doorlichting afgelopen is.
 
 ### ART. 8.
 
-§ 1. Uiterlijk zestig kalenderdagen nadat de fase van de doorlichtingsbezoeken beëindigd is, informeert de inspectie het bestuur van de instelling over haar bevindingen door een ontwerpverslag te bespreken. Het bestuur bepaalt door wie het vertegenwoordigd wordt bij dat gesprek. <br /><br />§ 2. Uiterlijk zestig kalenderdagen na het gesprek, vermeld in paragraaf 1, stuurt de inspectie het definitieve verslag naar de directeur en naar het bestuur van de instelling. Het verslag wordt gedateerd bij het versturen ervan. <br /><br />Het verslag van de doorlichting is een objectieve weergave van de beoordeling van de kwaliteit van de school, de onderwijsinstelling of het centrum. <br /><br />Het verslag van de doorlichting mag door de school, de onderwijsinstelling of het centrum niet worden gebruikt met het oog op een promotie- of wervingscampagne.<br /><br />§ 3. Het bestuur van de instelling viseert het verslag van de doorlichting, vermeld in paragraaf 2, en stuurt het binnen dertig kalenderdagen na ontvangst terug naar de inspectie en maakt eventueel melding van zijn opmerkingen. <br /><br />De opmerkingen, vermeld in het eerste lid, worden ongewijzigd opgenomen in het verslag. <br /><br />§ 4. Een exemplaar van het volledige doorlichtingsverslag ligt op het secretariaat van de instelling ter inzage. <br /><br />Binnen dertig kalenderdagen na ontvangst van het definitieve doorlichtingsverslag informeert de directeur van de onderwijsinstelling de leerlingen, de ouders van de leerlingen en de cursisten over de mogelijkheid tot inzage, en informeert de directeur van het centrum voor leerlingenbegeleiding de centrumraad. <br /><br />Het verslag moet bovendien binnen dertig kalenderdagen na ontvangst door de directeur van de instelling geagendeerd en integraal besproken worden op een personeelsvergadering.<br /><br />§ 5. Het verslag en het advies, vermeld in artikel 39 van het decreet van 8 mei 2009, wordt aan de minister bezorgd.<br /><br />
+§ 1. Uiterlijk dertig kalenderdagen na de doorlichting bezorgt de onderwijsinspectie het doorlichtingsverslag aan het bestuur en aan de directie van de instelling. Bij een ongunstig advies als vermeld in artikel 41, § 1, van het decreet van 8 mei 2009, wordt het doorlichtingsverslag met een beveiligde zending bezorgd.<br>
+<br>
+§ 2. Uiterlijk binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag kan de directie of het bestuur een bespreking van het verslag aanvragen bij de inspecteur-generaal. Die aanvraag wordt schriftelijk ingediend.<br>
+<br>
+De bespreking wordt zo spoedig mogelijk gepland en het bestuur bepaalt zijn vertegenwoordiging.<br>
+<br>
+De aanvraag van een bespreking van het verslag schort de periode van dertig kalenderdagen voor de aanvraag tot opschorting van de procedure tot intrekking van de erkenning, vermeld in artikel 41, § 2, eerste lid, van het decreet van 8 mei 2009, op.<br>
+<br>
+§ 3. Uiterlijk binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag of, indien er een bespreking werd aangevraagd als vermeld in § 2, eerste lid, na de bespreking van het verslag, kan de directie of het bestuur opmerkingen bezorgen aan de inspecteur-generaal. Die opmerkingen worden ongewijzigd toegevoegd aan het verslag.<br>
+<br>
+§ 4. Binnen dertig kalenderdagen na de ontvangst van het doorlichtingsverslag of, indien er een bespreking werd aangevraagd als vermeld in § 2, eerste lid, na de bespreking van het verslag, informeert de directeur van de instelling de leerlingen, de ouders van de leerlingen en de cursisten over de mogelijkheid tot inzage. Het verslag wordt door de directeur van de instelling geagendeerd en integraal besproken op een personeelsvergadering en op de schoolraad of de centrumraad.
 
 ### ART. 9.
 
@@ -65,13 +117,13 @@ Er worden geen doorlichtingsbezoeken uitgevoerd tussen 10 juni en 15 september.<
 
 ### ART. 10.
 
-§ 1. Het toezicht, vermeld in artikel 38, § 5, van het decreet van 8 mei 2009, bestaat uit een marginale controle op de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid. Tevens wordt onderzocht of de materieel bevoegde overheden geen tekortkomingen hebben vastgesteld en of alle wettelijk vereiste veiligheidsattesten zijn afgeleverd. Die marginale controle kan uitgevoerd worden door een inspecteur of een team van inspecteurs. <br /><br />§ 2. Indien het toezicht, vermeld in artikel 38, § 5, van het decreet van 8 mei 2009, afzonderlijk van de doorlichting wordt uitgevoerd, zijn in geval van dringende noodzakelijkheid de artikelen 5 tot en met 9 van overeenkomstige toepassing, met uitzondering van : <br />1° artikel 5, § 1 en artikel 5, § 2, eerste en tweede lid, die niet van toepassing zijn;<br />2° artikel 8, § 1, § 2, eerste lid en § 3, die niet van toepassing zijn. In afwijking hiervan maakt de inspectie uiterlijk 14 kalenderdagen na het einde van het toezicht een definitief verslag op en bezorgt het aan de directeur en het bestuur van de instelling. Het verslag wordt gedateerd bij het versturen ervan. Het bestuur van de instelling viseert dit verslag en stuurt het binnen 14 kalenderdagen terug naar de inspectie en maakt eventueel melding van zijn opmerkingen, die ongewijzigd opgenomen zullen worden in het verslag.<br /><br />
+Het toezicht, vermeld in artikel 38, § 5, van het decreet van 8 mei 2009, bestaat uit een marginale controle op de voorwaarden voor hygiëne, veiligheid en bewoonbaarheid. Dat betekent dat de onderwijsinspectie nagaat of de instelling een doeltreffend beleid ontwikkelt en voert met het oog op de hygiëne, bewoonbaarheid en veiligheid.
 
 ## HOOFDSTUK 4 [... (opgeh. BVR 25 mei 2018, art. 9, I: 1 september 2018)]
 
 ### ART. 11.
 
-§ 1. De opvolgingsdoorlichting, vermeld in artikel 40 van het decreet van 8 mei 2009, mag op zijn vroegst plaatsvinden negentig kalenderdagen na de datum waarop het definitieve verslag werd bezorgd, behalve als de tekortkomingen betrekking hebben op de hygiëne, veiligheid en bewoonbaarheid. Artikel 4 tot en met 9, is van overeenkomstige toepassing op de opvolgingsdoorlichting.<br /><br />§ 2. Het beperkt gunstig advies, vermeld in artikel 39, § 4, 2°, van het decreet van 8 mei 2009, zal, in zoverre het betrekking heeft op de financiering of subsidiëring van instellingen, afdelingen en andere onderverdelingen van instellingen, geen invloed hebben op de financiering of subsidiëring totdat de erkenning van de instelling of van structuuronderdelen ingetrokken wordt. <br /><br />§ 3. Met behoud van de toepassing van paragraaf 1, kan het bestuur van de instelling binnen dertig kalenderdagen na ontvangst van het advies wat betreft de periode, vermeld in artikel 39, § 4, 2°, van het decreet van 8 mei 2009, een gemotiveerd tegenvoorstel doen. Als een andere periode wordt voorgesteld, meldt de inspecteur-generaal de ontvangst ervan en deelt de genomen beslissing mee binnen de dertig kalenderdagen aan het bestuur van de instelling. Zo niet wordt de voorgestelde periode aanvaard. <br /><br />
+...
 
 ## HOOFDSTUK 5 Intrekking van de erkenning
 
@@ -81,25 +133,46 @@ Er worden geen doorlichtingsbezoeken uitgevoerd tussen 10 juni en 15 september.<
 
 ### ART. 13.
 
-§ 1. De colleges, vermeld in artikel 41, § 4 en § 5, van het decreet van 8   mei 2009, bestaan uit minstens twee inspecteurs. Die inspecteurs mogen geen deel   hebben uitgemaakt van het doorlichtingsteam dat het ongunstige advies heeft   uitgebracht.<BR><BR>De minister stelt het college samen en beslist of hij een   voorzitter aan het paritair college toevoegt, nadat hij het advies heeft   ingewonnen van de inspecteur-generaal.<BR><BR>§ 2. Het college wordt uiterlijk   de tiende kalenderdag voor het verstrijken van de termijn van negentig   kalenderdagen, vermeld in artikel 41, § 3, 1°, 2° of 3°, van het decreet van 8   mei 2009, samengesteld.<BR>
+...
 
 ### ART. 14.
 
-§ 1. Het college voert de opdracht uit voor het verstrijken van de periode   van negentig kalenderdagen, vermeld in artikel 41, § 3, 1°, 2° of 3°, van het   decreet van 8 mei 2009 en kan alle onderzoeksdaden verrichten. Het bestuur van   de instelling en de directie worden binnen deze periode uitgenodigd voor een   gesprek. <BR><BR>§ 2. Als er een voorzitter aan het college is toegevoegd, wordt   het voorstel voor de al dan niet gehele of gedeeltelijke intrekking van de   erkenning geformuleerd door de voorzitter.<BR><BR>Als er geen voorzitter aan het   college is toegevoegd, wordt het voorstel voor de gehele of gedeeltelijke   intrekking van de erkenning geformuleerd door de inspecteur-generaal. <BR><BR>§   3. De leden van het college, met inbegrip van de voorzitter, beslissen bij   gewone meerderheid over het voorstel van de voorzitter, mits minstens twee derde   van de leden van het college aanwezig is. <BR><BR>Het advies wordt gedateerd bij   de stemming ervan.<BR><BR>
+...
 
 ### ART. 15.
 
-In afwijking van artikel 8, § 5, wordt het verslag van het college binnen vijfenveertig kalenderdagen na afloop van het onderzoek, vermeld in artikel 14, § 1, aan de Vlaamse Regering overgezonden en aan het bestuur van de instelling betekend door het college, onder de verantwoordelijkheid van de inspecteur-generaal.<br /><br />Het verslag bevat ten minste : <br />1° het advies en, indien van toepassing overeenkomstig artikel 41, § 5, 3° van het decreet van 8 mei 2009, een voorstel tot geleidelijkheid; <br />2° een duidelijke gemotiveerde beschrijving van de tekorten in geval van voorstel tot gehele of gedeeltelijke opheffing van de erkenning;<br />3° alle verslagen van controles van de voorbije drie jaar.<br /><br />
+De mededeling van de Vlaamse Regering, vermeld in artikel 41, § 1, van het decreet van 8 mei 2009, wordt gedaan met een beveiligde zending. Die mededeling bepaalt de datum waarop de erkenning wordt ingetrokken en verwijst naar de mogelijkheden om:<br>
+1° de procedure tot intrekking van de erkenning op te schorten;<br>
+2° beroep aan te tekenen tegen de onmogelijkheid om de procedure tot intrekking van de erkenning op te schorten.<br>
+<br>
+De nieuwe doorlichting vermeld in artikel 41, § 2, van het decreet van 8 mei 2009, mag op zijn vroegst plaatsvinden negentig kalenderdagen na de datum waarop het definitieve verslag werd bezorgd, behalve als de tekortkomingen betrekking hebben op de hygiëne, veiligheid en bewoonbaarheid.
 
 ### ART. 16.
 
-Het bestuur van de instelling heeft het recht, binnen dertig kalenderdagen   na de betekening van het verslag, bij de Vlaamse Regering een verweerschrift   tegen het voorstel tot gehele of gedeeltelijke intrekking van de erkenning in te   dienen. <BR><BR>In afwijking van het eerste lid, bedraagt de termijn waarin het   bestuur van de instelling een verweerschrift kan instellen zeven kalenderdagen   na het aangetekend versturen van het verslag als de vastgestelde tekortkomingen   alleen betrekking hebben op de erkenningsvoorwaarde bewoonbaarheid, veiligheid   en hygiëne. <BR><BR>Als geen verweerschrift wordt ingediend als vermeld in het   eerste of het tweede lid, neemt de Vlaamse Regering een definitieve beslissing   over de erkenning binnen zestig kalenderdagen na het aangetekend versturen van   het verslag. Als de instelling een verweerschrift heeft ingediend, neemt de   Vlaamse Regering een definitieve beslissing over de erkenning binnen dertig   kalenderdagen na de indiening van dat verweerschrift. <BR><BR>De beslissing van   de Vlaamse Regering wordt met een aangetekende brief betekend aan het bestuur   van de instelling.<BR><BR>Als de beslissing van de Vlaamse Regering over de   erkenning niet tijdig aan het bestuur van de instelling werd betekend, blijft de   erkenning behouden. <BR><BR>De beslissing over gehele of gedeeltelijke   intrekking van de erkenning gaat in op een door de Vlaamse Regering te bepalen   datum. <BR><BR>
+Het verzoek tot opschorting van de procedure tot intrekking van de erkenning, vermeld in artikel 41, § 2, eerste lid, van het decreet van 8 mei 2009, wordt met een beveiligde zending ingediend bij de inspecteur-generaal van de onderwijsinspectie. Die aanvraag bevat het engagement van het bestuur om aan de tekorten te werken, met externe begeleiding.
+
+### ART 16/1.
+
+§ 1. Het beroep tegen een ongunstig advies "zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen", vermeld in artikel 41, § 2, vierde lid, van het decreet van 8 mei 2009, wordt met een gemotiveerd bezwaarschrift via een beveiligde zending ingediend bij de inspecteur-generaal. Het gemotiveerde bezwaarschrift geeft aan waarom een mogelijkheid tot opschorting van de procedure tot intrekking van de erkenning gerechtvaardigd is.<br>
+<br>
+§ 2. Binnen zestig kalenderdagen na de ontvangst van het beroep onderzoekt een paritair samengesteld doorlichtingsteam, dit wil zeggen een team dat voor de helft bestaat uit inspectieleden afkomstig uit het vrij onderwijs en voor de helft uit inspectieleden afkomstig uit het officieel onderwijs, de argumenten van het bestuur.<br>
+<br>
+De inspecteur-generaal stelt het doorlichtingsteam paritair samen. Het bestaat uit minstens twee inspecteurs en wordt voorgezeten door een coördinerende inspecteur. De inspecteurs mogen geen deel hebben uitgemaakt van het doorlichtingsteam dat het ongunstige advies heeft uitgebracht.<br>
+<br>
+Het paritair samengestelde doorlichtingsteam kan alle onderzoekdaden verrichten.<br>
+<br>
+§ 3. Het paritair samengestelde doorlichtingsteam geeft een van de volgende adviezen:<br>
+1° het bestuur kan verzoeken om de procedure tot intrekking van de erkenning op te schorten, op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
+2° het ongunstige advies "zonder de mogelijkheid om de opschorting van de procedure tot intrekking van de erkenning in te roepen" blijft behouden.<br>
+<br>
+§ 4. De leden van het doorlichtingsteam beslissen in consensus. Het verslag met het advies motiveert omstandig de beslissing. Het verslag van het paritair samengestelde doorlichtingsteam wordt binnen twintig kalenderdagen na afloop van het onderzoek aan de Vlaamse Regering bezorgd en aan het bestuur betekend met een beveiligde zending, onder de verantwoordelijkheid van de inspecteur-generaal.
 
 ## HOOFDSTUK 6 Werkingscode
 
 ### ART. 17.
 
-De artikelen 1 tot en met 16 maken deel uit van de werkingscode, vermeld in artikel 33, laatste lid, van het decreet van 8 mei 2009.<br /><br />
+De artikelen 1 tot en met 16/1 maken deel uit van de werkingscode, vermeld in artikel 33, laatste lid, van het decreet van 8 mei 2009.<br>
+&nbsp;
 
 ## HOOFDSTUK 7 Slotbepalingen
 
