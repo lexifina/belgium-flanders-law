@@ -26,6 +26,12 @@ Besluit :
 
 ## Afdeling 1. Definities
 
+### ART 1.
+
+In dit besluit wordt verstaan onder:<br>
+1° school voor gewoon onderwijs: school voor gewoon basisonderwijs of gewoon secundair onderwijs;<br>
+2° waarborglestijden, -lesuren en -uren: de extra lestijden en lesuren voor onderwijzend personeel en de extra uren voor medisch, paramedisch, sociaal, psychologisch en orthopedagogisch personeel die worden gegenereerd in het kader van de waarborgregeling met toepassing van artikel 173septies van het decreet basisonderwijs van 25 februari 1997 en artikel 314/5 van de Codex Secundair Onderwijs van 17 december 2010.
+
 ## Afdeling 2. Berekeningswijze van de waarborgregeling voor het basisonderwijs en voor het secundair onderwijs
 
 ### ART 2.
@@ -99,21 +105,154 @@ Het gemiddeld aantal lesuren buitengewoon secundair onderwijs, vermeld in het ee
 <br>
 Het gemiddeld aantal uren buitengewoon secundair onderwijs per leerling voor het type basisaanbod is gelijk aan het gemiddeld aantal uren buitengewoon secundair onderwijs voor type 1 en het gemiddeld aantal uren buitengewoon secundair onderwijs voor het type 9 per leerling is gelijk aan het gemiddeld aantal uren buitengewoon secundair onderwijs voor het type 3.
 
+### ART 3/1.
+
+§ 1. Met toepassing van artikel 172quinquies, § 2/1 van het decreet basisonderwijs van 25 februari 1997 en van artikel 314/8, § 2/1 van de Codex Secundair Onderwijs van 17 december 2010 worden voor het schooljaar 2018-2019 bijkomende begeleidingseenheden toegekend voor de ondersteuning van leerlingen met een inschrijvingsverslag type 2, 4, 6 of 7 auditieve beperking, waarover ze beschikken omdat ze, voor het basisonderwijs, vallen onder de toepassing van artikel 16, § 2, van het decreet basisonderwijs van 25 februari 1997 of, voor het secundair onderwijs, vallen onder de toepassing van artikel 352, § 2, van de Codex Secundair Onderwijs van 17 december 2010 en leerlingen met een gemotiveerd verslag of een verslag type 2, 4, 6 of 7 auditieve beperking, die voldoen aan de criteria, vermeld in artikel 10, § 1, eerste lid, 2°, 4° en 6°, van het decreet basisonderwijs van 25 februari 1997, en artikel 10, § 1, eerste lid, 7°, van het voormelde decreet wat betreft een auditieve beperking of artikel 259, § 1, 2°, 4° en 6°, van de Codex Secundair Onderwijs van 17 december 2010, en artikel 259, § 1, 7°, van dezelfde codex, wat betreft een auditieve beperking.<br>
+<br>
+§ 2. De bijkomende begeleidingseenheden bedragen 769 begeleidingseenheden voor type 2, 4106 begeleidingseenheden voor type 4, 291 begeleidingseenheden voor type 6 en 2092 begeleidingseenheden voor type 7.<br>
+<br>
+Leerlingen in het gewoon basisonderwijs met een verslag type 7, die voldoen aan de criteria, vermeld in artikel 10, § 1, eerste lid, 7° van het decreet basisonderwijs van 25 februari 1997 wat betreft een spraak- of taalontwikkelingsstoornis kunnen met de begeleidingseenheden voor type 7 ondersteund worden.<br>
+<br>
+§ 3. De bijkomende begeleidingseenheden worden per type over scholen voor buitengewoon onderwijs verdeeld volgens het aandeel dat ze hebben bekomen in de begeleidingseenheden van de voorafname voor het schooljaar 2018-2019 met toepassing van artikel 172quinquies, § 2 van het decreet basisonderwijs van 25 februari 1997 en artikel 314/8 van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+De scholen voor buitengewoon onderwijs werken netoverschrijdend samen bij de aanwending van de begeleidingseenheden voor de ondersteuning van gewone scholen met ondersteuningsvragen voor leerlingen als vermeld in § 1 en § 2, tweede lid.
+
+### ART 3/2.
+
+§ 1. Er worden 506 extra lestijden of extra lesuren toegekend voor de coördinatie van de ondersteuningsnetwerken, als vermeld in artikel 172quinquies, § 3, voorlaatste en laatste lid van het decreet basisonderwijs van 25 februari 1997 en artikel 314/8, § 3, voorlaatste en laatste lid van de Codex Secundair Onderwijs van 17 december 2010. De verdeling gebeurt voor de ondersteuningsnetwerken van het gesubsidieerd vrij onderwijs en voor de ondersteuningsnetwerken van het gesubsidieerd officieel onderwijs en het GO!-onderwijs van de Vlaamse Gemeenschap op basis van het aantal leerlingen van de scholen voor gewoon onderwijs in de ondersteuningsnetwerken op 1 februari 2018. Als een ondersteuningsnetwerk ervoor opteert om een lid van het medisch, paramedisch, sociaal, psychologisch of orthopedagogisch personeel als coördinator aan te stellen, kan het de ontvangen lestijden of lesuren voor coördinatie aanwenden voor ondersteuning en deze omwisselen met eenzelfde aantal uren dat het in mindering brengt van de uren die het toegekend kreeg voor de ondersteuning van scholen voor gewoon onderwijs.<br>
+<br>
+§ 2. De kost van de extra lestijden of extra lesuren, als vermeld in § 1, wordt in mindering gebracht van het budget dat de pedagogische begeleidingsdiensten ter beschikking hebben in toepassing van artikel 21/1 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs. Deze mindering gebeurt volgens het aandeel van respectievelijk het GO!-Onderwijs van de Vlaamse Gemeenschap, de Onderwijskoepel van Steden en Gemeenten, het Provinciaal Onderwijs Vlaanderen en het Katholiek Onderwijs Vlaanderen in dat budget in het begrotingsjaar 2018.
+
 ## HOOFDSTUK 2. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijziging van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs
 
+### ART 4.
+
+In artikel 4 van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het buitengewoon basisonderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 20 januari 2006, 19 juli 2007 en 10 juli 2015, wordt paragraaf 4 vervangen door wat volgt:<br>
+<br>
+" § 4. De leerlingen die in het schooljaar 2014-2015 in het kader van het geïntegreerd onderwijs begeleid zijn, komen ook in aanmerking voor de toepassing van paragraaf 1, op voorwaarde dat de school op de eerste schooldag van oktober van het schooljaar 2014-2015 minimaal tien regelmatige leerlingen in het geïntegreerd onderwijs begeleid heeft.".
+
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken
+
+### ART 5.
+
+In artikel 14septies, eerste lid, 5°, van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken, ingevoegd bij het besluit van de Vlaamse Regering van 10 september 2010, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt b) wordt de zin "Voor leerlingen die vallen onder de toepassing van het besluit van de Vlaamse Regering van 12 december 2003 betreffende de integratie van leerlingen met een matige of ernstige verstandelijke handicap in het gewoon lager en secundair onderwijs kan de afwezigheid maximaal 250 minuten bedragen, verplaatsing inbegrepen.", vervangen door de zin: "Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.";<br>
+<br>
+2° in punt c) wordt punt 2) vervangen door wat volgt:<br>
+" 2) een inschrijvingsverslag of een verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs van 17 december 2010;".
 
 ## Afdeling 3. Wijzigingen van het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs
 
+### ART 6.
+
+In artikel 10ter, eerste lid, 5°, van het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 10 september 2010, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt b) wordt de zin "Voor leerlingen die vallen onder de toepassing van het besluit van de Vlaamse Regering van 12 december 2003 betreffende de integratie van leerlingen met een matige of ernstige verstandelijke handicap in het gewoon lager en secundair onderwijs kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.", vervangen door de zin "Voor leerlingen met een verslag kan de afwezigheid maximaal 250 minuten per week bedragen, verplaatsing inbegrepen.";<br>
+<br>
+2° in punt c), 2), worden tussen het woord, "inschrijvingsverslag" en het woord, "als" de woorden "of een verslag" ingevoegd.
+
 ## Afdeling 4. Wijziging van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs
+
+### ART 7.
+
+Aan artikel 32, § 1, eerste lid, 2°, van het besluit van de Vlaamse Regering van 19 juli 2002 betreffende de organisatie van het voltijds secundair onderwijs, ingevoegd bij het besluit van de Vlaamse Regering van 10 juli 2015 en vervangen bij het besluit van de Vlaamse Regering van 30 augustus 2016, worden de woorden "en in voorkomend geval, de opmaak van een gemotiveerd verslag" toegevoegd.
 
 ## Afdeling 5. Wijzigingen van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon basisonderwijs
 
+### ART 8.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon basisonderwijs worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 3° a) en b), wordt de zinsnede "type 1" vervangen door de woorden, "type basisaanbod";<br>
+<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Leerlingen type 1, die vallen onder de toepassing van artikel 16, § 2, van het decreet basisonderwijs van 25 februari 1997 en die voldoen aan de gelijkekansenindicator, vermeld in artikel 139undecies, § 1, 1°, van het voormelde decreet, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.".
+
+### ART 9.
+
+In artikel 6 van hetzelfde besluit wordt het getal "0,203" telkens vervangen door het getal "0,233".
+
 ## Afdeling 6. Wijzigingen van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon secundair onderwijs
 
+### ART 10.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 30 oktober 2009 betreffende het ondersteuningsaanbod voor gelijke onderwijskansen in het buitengewoon secundair onderwijs, gewijzigd bij de besluiten van de Vlaamse Regering van 17 december 2010 en 28 oktober 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 2°, a) en b), wordt de zinsnede "type 1" vervangen door de woorden, "type basisaanbod";<br>
+<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Leerlingen type 1, die vallen onder de toepassing van artikel 352, § 2, van de Codex Secundair Onderwijs van 17 december 2010, en die voldoen aan de gelijkekansendindicator, vermeld in artikel 317, § 1, 1°, van de voormelde codex, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.".
+
+### ART 11.
+
+In artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 17 december 2010, wordt het getal "0,1747", telkens vervangen door het getal "0,2189".
+
 ## Afdeling 7. Wijzigingen van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag voor toegang tot het geïntegreerd onderwijs en van het attest bij het verslag voor toegang tot het buitengewoon onderwijs
+
+### ART 12.
+
+In het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag voor toegang tot het geïntegreerd onderwijs en van het attest bij het verslag voor toegang tot het buitengewoon onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2016 wordt het opschrift vervangen door wat volgt:<br>
+<br>
+"Besluit van de Vlaamse Regering tot bepaling van de inhoud van het gemotiveerd verslag en van het attest bij het verslag voor toegang tot een individueel aangepast curriculum in een school voor gewoon onderwijs of tot het buitengewoon onderwijs"
+
+### ART 13.
+
+In artikel 3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt, 3° worden de woorden, "het attest bij de eerste attestering heeft afgeleverd" vervangen door de woorden "het attest opmaakt";<br>
+<br>
+2° in punt, 4° worden de woorden "bij de eerste attestering" opgeheven;<br>
+<br>
+3° in punt, 5°, inleidende zin, wordt de zinsnede "bij elk van de daaropvolgende attestwijzigingen, met telkens de vermelding van" vervangen door de zinsnede "in geval van een attestwijziging, met vermelding van";<br>
+<br>
+4° aan punt, 5°, c), wordt een punt 5) toegevoegd, dat luidt als volgt:<br>
+"5) de overgang van een leerling met een verlengd verblijf in het buitengewoon basisonderwijs naar een school voor buitengewoon secundair onderwijs die bij de start van het schooljaar volzet was maar intussen een vrije plaats voor inschrijving heeft;".
+
+### ART 14.
+
+In artikel 5 van hetzelfde besluit worden de woorden, "wordt het verslag aan de ouders terugbezorgd" vervangen door de woorden "bezorgt de directeur van de school het verslag terug aan de ouders".
+
+### ART 15.
+
+In artikel 6 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid, 1°, inleidende zin, wordt het woord "proces" vervangen door het woord, "traject";<br>
+<br>
+2° in het eerste lid, 1°, e), worden de woorden "geïntegreerd onderwijs" vervangen door het woord, "ondersteuningsmodel";<br>
+<br>
+3° in het eerste lid wordt punt 2° vervangen door wat volgt:<br>
+"2° de aanduiding van het type door de omschrijving van de specifieke deskundigheid die vereist is vanuit een of meer van de types, vermeld in artikel 10, § 1, eerste lid, 1° tot en met 4° en 6° tot en met 8°, van het decreet basisonderwijs van 25 februari 1997 en artikel 259, § 1, 1° tot en met 4° en 6° tot en met 8°, van de Codex Secundair Onderwijs van 17 december 2010.";<br>
+<br>
+4° aan het eerste lid, worden een punt 3° en een punt 4°, toegevoegd die luiden als volgt:<br>
+"3° een algemene omschrijving van de ondersteuning die de school voor gewoon onderwijs nodig heeft en de wijze waarop de school voor buitengewoon onderwijs daaraan tegemoet kan komen. Dat gebeurt in dialoog tussen de school voor gewoon onderwijs, de ouders, het CLB en de school voor buitengewoon onderwijs of het ondersteuningsnetwerk;<br>
+4° de beschrijving van eventuele andere ondersteuning door onderwijsexterne diensten.";<br>
+<br>
+5° het tweede lid wordt opgeheven.
+
+### ART 16.
+
+Artikel 7 en 8 van hetzelfde besluit worden opgeheven.
+
+### ART 17.
+
+In artikel 9 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, inleidende zin, worden de woorden "bij de vormgeving van het geïntegreerd onderwijs" opgeheven;<br>
+<br>
+2° in paragraaf 1, 5°, worden de woorden "in het kader van het geïntegreerd onderwijs" opgeheven;<br>
+<br>
+3° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. De directeur van het centrum voor leerlingenbegeleiding van de school voor gewoon onderwijs waar de leerling is ingeschreven en de ouders bevestigen hun engagement via hun handtekening.<br>
+Als de ouders het gemotiveerd verslag niet ondertekenen, kan ondersteuning niet leerlinggericht ingezet worden. De weigering kan een inzet van ondersteuning gericht op de school, de leraar of het lerarenteam echter niet verhinderen.";<br>
+<br>
+4° in paragraaf 3 worden de woorden "van het geïntegreerd onderwijs" vervangen door het woord "ervan".
+
+### ART 18.
+
+In artikel 10 van hetzelfde besluit wordt de zinsnede "en artikel 6, tweede lid," opgeheven.
 
 ### ART 19.
 
@@ -121,4 +260,20 @@ In artikel 11 van hetzelfde besluit worden de woorden "en volgende" toegevoegd.
 
 ## Afdeling 8. Wijzigingen van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs
 
+### ART 20.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 7 juli 2017, worden de woorden, "en als dat schriftelijk gemeld wordt aan de onderwijsinspectie" telkens opgeheven.
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 21.
+
+Dit besluit treedt in werking op 1 september 2018.<br>
+<br>
+Artikel 2 en artikel 3 hebben uitwerking vanaf 1 september 2015.<br>
+<br>
+Artikel 19 heeft uitwerking vanaf 1 september 2016.
+
+### ART 22.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
