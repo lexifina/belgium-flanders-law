@@ -6,11 +6,25 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder de organisatie van schoolsport : <br />1° de innovatie, de planning en de ontwikkeling van de schoolsport;<br />2° het stimuleren van de wisselwerking tussen het vak- of leergebied lichamelijke opvoeding en de schoolsport enerzijds, en de schoolsport en de lokale sportactiviteiten anderzijds;<br />3° de organisatie van extracurriculaire sport- en bewegingsactiviteiten in schools en naschools verband voor de leerlingen uit het basis- en secundair onderwijs.<br /><br />De organisatie van schoolsport heeft als doelstelling leerlingen uit het basis- en secundair onderwijs te stimuleren om levenslang deel te nemen aan sport- en bewegingsactiviteiten, zowel in georganiseerd verband binnen een sportvereniging, als in los georganiseerd of ongeorganiseerd verband.
+Schoolsport is het geheel van extracurriculaire sport- en bewegingsactiviteiten, inclusief initiatieven ter beperking van sedentair gedrag, in schools en naschools verband voor de leerlingen uit het basisonderwijs en secundair onderwijs, met bijzondere aandacht voor die leerlingen die via het bestaande aanbod van sport- en bewegingsactiviteiten buiten schools verband niet worden bereikt.<br>
+<br>
+Schoolsport heeft als doel om leerlingen uit het basisonderwijs en secundair onderwijs te stimuleren om deel te nemen aan sport- en bewegingsactiviteiten, zowel in georganiseerd verband binnen een sportvereniging, als in los of anders georganiseerd of ongeorganiseerd verband, om een gezonde levensstijl en een levenslange deelname aan sport- en bewegingsactiviteiten te stimuleren.<br>
+<br>
+De organisatie van schoolsport omvat:<br>
+1° de innovatie, de planning en de uitvoering van de schoolsport;<br>
+2° het stimuleren van de wisselwerking tussen het vak- of leergebied lichamelijke opvoeding en de schoolsport enerzijds, en de schoolsport en de lokale sportactiviteiten anderzijds.
 
 ### ART. 3.
 
-§ 1. De Vlaamse Regering kan een vereniging zonder winstoogmerk of stichting voor de organisatie van schoolsport, verder vereniging te noemen, subsidiëren als aan de volgende voorwaarden voldaan wordt : <br />1° de vereniging dient een vereniging te zijn, als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, zoals gewijzigd;<br />2° uit de statuten van de vereniging blijkt dat de vereniging een draagvlak vindt bij of in de bestuursorganen vertegenwoordigd is door : <br />a) het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten;<br />b) bij voorkeur alle, maar ten minste één van de volgende sportorganisaties : Vlaamse Sportfederatie, de Bond voor Lichamelijke Opvoeding of het Vlaams Instituut voor Sportbeheer en Recreatiebeleid;<br />3° een subsidieovereenkomst wordt gesloten met de Vlaamse Regering;<br />4° vierjaarlijks legt de vereniging een werkingsverslag voor, waaruit blijkt dat de bepalingen uit de subsidieovereenkomst werden gerealiseerd;<br />5° de vereniging legt jaarlijks een jaarplan, een begroting, een jaarverslag en een jaarrekening voor.<br /><br />§ 2. Het is de Vlaamse Regering niet toegestaan om mee te werken aan de oprichting van de vereniging, de vereniging op te richten of toe te treden tot de vereniging.
+De Vlaamse Regering kan een vereniging zonder winstoogmerk of stichting voor de organisatie van schoolsport, opgericht conform de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, subsidiëren als aan al de volgende voorwaarden voldaan wordt:<br>
+1° uit de statuten blijkt dat in de algemene vergadering en/of de raad van bestuur van de vereniging alleszins vertegenwoordigers zijn opgenomen van:<br>
+a) het Gemeenschapsonderwijs en de representatieve verenigingen van schoolbesturen van het gesubsidieerd onderwijs;<br>
+b) de Vlaamse Sportfederatie, de Bond voor Lichamelijke Opvoeding, het Vlaams Instituut voor Sportbeheer en Recreatiebeleid;<br>
+c) vertegenwoordigers van de non-profitsector die affiniteit hebben met schoolsport;<br>
+2° er wordt een subsidieovereenkomst met de Vlaamse Regering afgesloten. In die overeenkomst worden ook de door de Vlaamse Regering aangewezen experten opgenomen die als waarnemer de algemene vergadering en/of de raad van bestuur van de vereniging bijwonen;<br>
+3° er wordt vierjaarlijks een werkingsverslag voorgelegd, waaruit blijkt dat de bepalingen uit de subsidieovereenkomst werden gerealiseerd;<br>
+4° er wordt jaarlijks een jaarplan, een begroting, een jaarverslag en een jaarrekening voorgelegd;<br>
+5° de principes over deugdelijk bestuur worden gerespecteerd.
 
 ### ART. 4.
 
