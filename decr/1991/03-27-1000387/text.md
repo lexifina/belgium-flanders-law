@@ -8,21 +8,43 @@ Dit decreet regelt een aangelegenheid zoals bedoeld in artikel 59bis, § 2, 2°,
 
 ### ART. 2.
 
-§ 1. Dit decreet is van toepassing op de volgende   personeelscategorieën:<BR>- het bestuurs- en onderwijzend personeel met inbegrip   van de leerkrachten levensbeschouwelijk onderricht;<BR>- het opvoedend   hulppersoneel;<BR>- het paramedisch en sociaal personeel;<BR>- het   psychologisch, orthopedagogisch en medisch personeel;<BR>- het technisch   personeel;<BR>- het administratief personeel;<BR>- het ondersteunend   personeel;<BR>- het beleids- en ondersteunend personeel; <BR>- het personeel van   de pedagogische begeleidingsdienst;<BR>- het statutair meesters-, vak- en   dienstpersoneel;<BR>die in het gemeenschapsonderwijs worden tewerkgesteld bij de   scholengroep of in de volgende instellingen:<BR>- de scholen van het   basisonderwijs en de instellingen van het secundair onderwijs en deeltijds   kunstonderwijs, in welke vorm ook;<BR>- de autonome internaten en tehuizen;<BR>-   de semi-internaten en de internaten die in verblijf en begeleiding tijdens   schoolvrije dagen voorzien;<BR>- de pedagogische begeleidingsdienst;<BR>- de   centra voor leerlingenbegeleiding en in voorkomend geval hun permanente   ondersteuningscel, verder aangeduid als CLB;<BR>- de centra voor   volwassenenonderwijs;<BR>- het vormingscentrum. <BR><BR>§ 2. Dit decreet is niet   van toepassing op de voordrachtgevers zoals bedoeld in de artikelen 68 en 69 van   het decreet van 5 juli 1989 betreffende het onderwijs.<BR><BR>§ 3. De Vlaamse   regering bepaalt de nadere omschrijving van de in § 1 genoemde categorieën. In   afwachting hiervan blijven evenwel de bestaande wettelijke, decretale of   reglementaire bepalingen van kracht.
+§ 1. Dit decreet is van toepassing op de volgende personeelscategorieën:<br>
+- het bestuurs- en onderwijzend personeel met inbegrip van de leerkrachten levensbeschouwelijk onderricht;<br>
+- het opvoedend hulppersoneel;<br>
+- het paramedisch en sociaal personeel;<br>
+- het psychologisch, orthopedagogisch en medisch personeel;<br>
+- het technisch personeel;<br>
+- het administratief personeel;<br>
+- het ondersteunend personeel;<br>
+- het beleids- en ondersteunend personeel;<br>
+- het personeel van de pedagogische begeleidingsdienst;<br>
+- het statutair meesters-, vak- en dienstpersoneel;<br>
+die in het gemeenschapsonderwijs worden tewerkgesteld bij de scholengroep of in de volgende instellingen:<br>
+- de scholen van het basisonderwijs, de instellingen van het secundair onderwijs en de academies voor deeltijds kunstonderwijs, in welke vorm ook;<br>
+- de autonome internaten en tehuizen;<br>
+- de semi-internaten en de internaten die in verblijf en begeleiding tijdens schoolvrije dagen voorzien;<br>
+- de pedagogische begeleidingsdienst;<br>
+- de centra voor leerlingenbegeleiding en in voorkomend geval hun permanente ondersteuningscel, verder aangeduid als CLB;<br>
+- de centra voor volwassenenonderwijs;<br>
+- het vormingscentrum.<br>
+<br>
+§ 2. Dit decreet is niet van toepassing op de voordrachtgevers zoals bedoeld in de artikelen 68 en 69 van het decreet van 5 juli 1989 betreffende het onderwijs.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de nadere omschrijving van de in § 1 genoemde categorieën. In afwachting hiervan blijven evenwel de bestaande wettelijke, decretale of reglementaire bepalingen van kracht.
 
 ### ART. 3.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
 1° de ARGO: de Autonome Raad voor het Gemeenschapsonderwijs bedoeld in het bijzonder decreet van 19 december 1988 betreffende de Autonome Raad voor het Gemeenschapsonderwijs;<br>
 2° de centrale raad: de raad met die naam bedoeld in artikel 5 van het bijzonder decreet van 19 december 1988;<br>
-3° de instelling: de scholen van het basisonderwijs, de scholen en de centra voor deeltijds beroepssecundair onderwijs van het secundair onderwijs, de&nbsp;scholen voor deeltijds kunstonderwijs, de centra voor volwassenenonderwijs, de autonome internaten en tehuizen, de semi-internaten, de internaten die in verblijf en begeleiding tijdens schoolvrije dagen voorzien, de pedagogische begeleidingsdienst en de centra voor leerlingenbegeleiding en in voorkomend geval hun permanente ondersteuningscel. Het internaat toegevoegd aan een school, maakt deel uit van die school. Voor de personeelsleden die volgens artikel 26, § 4, van de codificatie betreffende het secundair onderwijs, bij de scholengroep aangesteld zijn, en voor de vastbenoemde personeelsleden van het meesters-, vak- en dienstpersoneel die bij de scholengroep aangesteld zijn, wordt de scholengroep voor de toepassing van dit decreet beschouwd als een instelling;<br>
+3° de instelling: de scholen van het basisonderwijs, de scholen en de centra voor deeltijds beroepssecundair onderwijs van het secundair onderwijs, de academies voor deeltijds kunstonderwijs, de centra voor volwassenenonderwijs, de autonome internaten en tehuizen, de semi-internaten, de internaten die in verblijf en begeleiding tijdens schoolvrije dagen voorzien, de pedagogische begeleidingsdienst en de centra voor leerlingenbegeleiding en in voorkomend geval hun permanente ondersteuningscel. Het internaat toegevoegd aan een school, maakt deel uit van die school. Voor de personeelsleden die volgens artikel 26, § 4, van de codificatie betreffende het secundair onderwijs, bij de scholengroep aangesteld zijn, en voor de vastbenoemde personeelsleden van het meesters-, vak- en dienstpersoneel die bij de scholengroep aangesteld zijn, wordt de scholengroep voor de toepassing van dit decreet beschouwd als een instelling;<br>
 4° het schooljaar: de periode van 1 september tot 31 augustus van het daaropvolgend jaar voor het kleuter-, lager en secundair onderwijs, het volwassenenonderwijs en voor de CLB's;<br>
 5° de titularis: het personeelslid dat in een vacante betrekking vast benoemd, tijdelijk aangesteld of tot de proeftijd toegelaten is, met uitzondering van wie voor een tijd de tijdelijke titularis vervangt;<br>
 6° de bekwaamheidsbewijzen: de door de Vlaamse regering voor het ambt bepaalde bekwaamheidsbewijzen;<br>
 7° de godsdienst: één van de erediensten bedoeld in de reglementaire bepalingen inzake levensbeschouwelijk onderricht;<br>
 8° de godsdienstleerkracht: de godsdienstleraar en de leermeester godsdienst;<br>
 9° een ambt: een functie die in de onderwijssector wordt uitgeoefend en door de Gemeenschap wordt gefinancierd. De Vlaamse regering stelt de verschillende ambten vast en maakt een indeling in wervings-, selectie- en bevorderingsambten. Zolang de Vlaamse regering geen uitvoering heeft verleend aan deze bepaling blijft de bestaande reglementering van kracht;<br>
-10° een betrekking: de concrete werkgelegenheid in een bepaald ambt in een instelling, uitgedrukt in een door de inrichtende macht bepaald aantal prestatie-eenheden per week. Als het gaat om een onderwijsopdracht vermeldt de inrichtende macht eveneens het onderwijsniveau, de opleiding, de module, het vak en de specialiteit ervan of de met het vak of specialiteit gelijkgestelde activiteit, de graad en voor het voor het voltijds secundair onderwijs eventueel het HBO5, de onderwijsvorm of de opleidingsvorm. Als het gaat om een opdracht in een ambt van het beleids- en ondersteunend personeel of in een ambt van het ondersteunend personeel dan vermeldt de inrichtende macht eveneens het vereiste opleidingsniveau en de puntenwaarde.<br>
+10° een betrekking: de concrete werkgelegenheid in een bepaald ambt in een instelling, uitgedrukt in een door de inrichtende macht bepaald aantal prestatie-eenheden per week. Als het gaat om een onderwijsopdracht vermeldt de inrichtende macht eveneens het onderwijsniveau, de opleiding, de module, het vak en de specialiteit ervan of de met het vak of specialiteit gelijkgestelde activiteit, de graad en voor het voor het voltijds secundair onderwijs eventueel het HBO5, de onderwijsvorm of de opleidingsvorm. Als het gaat om een opdracht in een ambt van het beleids- en ondersteunend personeel of in een ambt van het ondersteunend personeel dan vermeldt de inrichtende macht eveneens het vereiste opleidingsniveau en - uitgezonderd voor de CLB's - de puntenwaarde.<br>
 Een betrekking kan volledig of onvolledig zijn. Een volledige betrekking stemt overeen met het aantal prestatie-eenheden vereist voor een ambt met volledige prestaties.<br>
 Een personeelslid dat deeltijds werkt, heeft het recht dat deze prestaties maximaal over een proportioneel aantal halve dagen per week worden gespreid;<br>
 11° een vacante betrekking: de betrekking die niet is toegewezen aan een tot de proeftijd toegelaten of vast benoemd personeelslid;<br>
@@ -43,7 +65,7 @@ Een personeelslid dat deeltijds werkt, heeft het recht dat deze prestaties maxim
 26° college van directeurs: het college van directeurs zoals bedoeld in artikel 5, § 3, van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
 27° instellingshoofd: het hoofd van een instelling zoals bedoeld in artikel 2, § 1. Voor de pedagogische begeleidingsdienst wijst de afgevaardigd bestuurder een personeelslid van de pedagogische begeleidingsdienst als instellingshoofd aan;<br>
 28° scholengemeenschap: de scholengemeenschap zoals bedoeld in artikel 3, 36°, van de codificatie betreffende het secundair onderwijs en de scholengemeenschap basisonderwijs zoals bedoeld in artikel 3, 52bis, van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br>
-29° vormingscentrum: de permanente ondersteuningscel voor de gefinancierde centra voor leerlingenbegeleiding, zoals bedoeld in artikel 89 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+29° vormingscentrum: de permanente ondersteuningscel voor de gefinancierde centra voor leerlingenbegeleiding, zoals bedoeld in artikel 15 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 30° raadsman: een advocaat, een personeelslid van een instelling of wat de werknemer betreft, een vertegenwoordiger van een erkende vakorganisatie en wat de werkgever betreft, een vertegenwoordiger van de Raad van het Gemeenschapsonderwijs.<br>
 31° bevoegde instantie van de godsdienst of betrokken eredienst : de instantie of personen die de bevoegdheid op basis van de eigen interne regelgeving hebben, of de instantie of personen die van het representatieve orgaan van de eredienst of van het hoofd van de eredienst de bevoegdheid krijgen;<br>
 32° bevoegde instantie van de niet-confessionele zedenleer : de erkende vereniging van de niet-confessionele gemeenschap, vermeld in het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken.<br>
@@ -60,7 +82,8 @@ Voor de toepassing van dit decreet dienen de woorden "centrale raad", "de lokale
 39° leerkracht levensbeschouwelijk onderricht: de godsdienstleerkracht, de leermeester niet-confessionele zedenleer en de leraar niet-confessionele zedenleer;<br>
 40° MEDEX: de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu, Medische Expertise, cel Pensioenen;<br>
 41° preventieadviseur-arbeidsgeneesheer: de preventieadviseur deskundig in arbeidsgeneeskunde verbonden aan de externe Dienst voor Preventie en Bescherming op het werk zoals bepaald in het koninklijk besluit van 27 maart 1998 betreffende de externe diensten voor preventie en bescherming op het werk.<br>
-42° internaten die in verblijf en begeleiding tijdens schoolvrije dagen voorzien: medisch-pedagogische instituten van het gemeenschapsonderwijs, instituten voor buitengewoon secundair onderwijs van het gemeenschapsonderwijs en autonome internaten buitengewoon onderwijs van het gemeenschapsonderwijs met openstelling tijdens schoolvrije dagen die verblijf en begeleiding voor hun internen tijdens de schoolvrije dagen organiseren als bedoeld in artikel III.38 en volgende van de Codificatie sommige bepalingen voor het onderwijs.
+42° internaten die in verblijf en begeleiding tijdens schoolvrije dagen voorzien: medisch-pedagogische instituten van het gemeenschapsonderwijs, instituten voor buitengewoon secundair onderwijs van het gemeenschapsonderwijs en autonome internaten buitengewoon onderwijs van het gemeenschapsonderwijs met openstelling tijdens schoolvrije dagen die verblijf en begeleiding voor hun internen tijdens de schoolvrije dagen organiseren als bedoeld in artikel III.38 en volgende van de Codificatie sommige bepalingen voor het onderwijs;<br>
+43° regionale ondersteuningscel: de netoverstijgende regionale ondersteuningscel of de regionale ondersteuningscel, vermeld in artikel 16 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.
 
 ### ART. 4.
 
@@ -94,11 +117,11 @@ g) kan gedurende een schooljaar een dienstanciënniteit van maximaal 360 dagen w
 3° klerk, gepresteerd vóór de overdracht naar het gemeenschapsonderwijs en tijdens de wettelijke vooropzegperiode na de overdracht;<br>
 4° gesubsidieerd contractueel personeelslid.<br>
 <br>
-§ 4. Voor de toepassing van hoofdstuk III in het deeltijds kunstonderwijs worden de diensten, gepresteerd in het ambt van studiemeester-opvoeder, ook beschouwd als zijnde gepresteerd in het ambt van opsteller.<br>
+§ 4. Voor de toepassing van hoofdstuk III in het deeltijds kunstonderwijs worden de diensten, gepresteerd in het ambt van studiemeester-opvoeder, ook beschouwd als zijnde gepresteerd in het ambt van administratief medewerker.<br>
 <br>
 Voor de toepassing van hoofdstuk III in het basisonderwijs en in het secundair onderwijs kan de raad van bestuur de diensten die een personeelslid gepresteerd heeft in een wervingsambt in het buitengewoon basis- of buitengewoon secundair onderwijs beschouwen als zijnde gepresteerd in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs. De raad van bestuur kan hierbij voor een personeelslid diensten in aanmerking nemen ten belope van maximaal 720 dagen, berekend volgens paragraaf 1.<br>
 <br>
-§ 5. De prestaties die een personeelslid levert in een betrekking die wordt ingericht op basis van artikel 154, § 2, van het decreet basisonderwijs van 25 februari 1997, artikel 251/1 of artikel 332/1 van de Codex Secundair Onderwijs, artikel 79/1 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, artikel 130ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel II.30 of III.36 van de Codificatie sommige bepalingen voor het onderwijs, komen in aanmerking voor de berekening van de dienstanciënniteit volgens de bepalingen van dit artikel.
+§ 5. De prestaties die een personeelslid levert in een betrekking die wordt ingericht op basis van artikel 154, § 2, van het decreet basisonderwijs van 25 februari 1997, artikel 251/1 of artikel 332/1 van de Codex Secundair Onderwijs, artikel 48, § 2, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding, artikel 130ter van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, artikel 82 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs en artikel III.36 van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, komen in aanmerking voor de berekening van de dienstanciënniteit volgens de bepalingen van dit artikel.
 
 ### ART. 5.
 
@@ -132,7 +155,7 @@ Behoudens overmacht mogen de personeelsleden de uitoefening van hun ambt niet on
 
 ### ART. 11.
 
-De personeelsleden zijn ertoe gehouden het ambtsgeheim te bewaren.
+De personeelsleden zijn ertoe gehouden het ambtsgeheim te bewaren. De personeelsleden van een CLB zijn er daarnaast toe gehouden het beroepsgeheim te bewaren.
 
 ### ART. 12.
 
@@ -356,11 +379,7 @@ De toepassing van deze paragraaf mag niet leiden tot onverantwoorde pedagogische
 <br>
 § 16. Voor de toepassing van dit artikel worden ten aanzien van de personeelsleden van het vormingscentrum, de bevoegdheden van de directeur van het CLB uitgeoefend door de afgevaardigd bestuurder.<br>
 <br>
-§ 17. Personeelsleden die tijdelijk zijn aangesteld voor doorlopende duur in een CLB, kunnen met behoud van hun rechten op deze tijdelijke aanstelling van oorlopende duur, tijdelijk worden tewerkgesteld in:<br>
-1° een permanente ondersteuningscel, of<br>
-2° de stuurgroep, of<br>
-3°de internettensamenwerkingscel, of<br>
-4°een tijdelijk project, omschreven in het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding.
+§ 17. Een personeelslid dat tijdelijk is aangesteld voor doorlopende duur in een CLB, kan met behoud van zijn recht op die tijdelijke aanstelling van doorlopende duur tijdelijk worden tewerkgesteld in het vormingscentrum of in een regionale ondersteuningscel.
 
 ### ART. 21bis.
 
@@ -494,7 +513,7 @@ In afwijking van het eerste lid bepaalt de raad van bestuur voor haar centra voo
 
 ### ART. 29.
 
-<P>Een betrekking die deel uitmaakt van een instelling, afdeling,   vestigingsplaats, filiaal, graad, opleidingsvorm of andere onderverdeling die   ingevolge de toepassing van rationalisatie in afbouw is, komt niet in aanmerking   voor een vacantverklaring of voor een benoeming in vast verband. In deze   betrekking kan ook geen mutatie of een nieuwe affectatie   plaatsvinden.</P>
+<p>Een betrekking die deel uitmaakt van een instelling, afdeling, vestigingsplaats,&nbsp; graad, opleidingsvorm of andere onderverdeling die ingevolge de toepassing van rationalisatie in afbouw is, komt niet in aanmerking voor een vacantverklaring of voor een benoeming in vast verband. In deze betrekking kan ook geen mutatie of een nieuwe affectatie plaatsvinden.</p>
 
 ### ART 29bis.
 
@@ -510,7 +529,25 @@ In afwijking van het eerste lid heeft een vaste benoeming wel uitwerking ten aan
 
 ### ART. 31.
 
-§ 1. Een personeelslid kan binnen dezelfde scholengroep mits zijn akkoord   een nieuwe affectatie krijgen in een vacante betrekking van het ambt waarin het   vast benoemd is, voor zover die betrekking, krachtens de reglementering terzake,   niet door reaffectatie of wedertewerkstelling moet worden toegewezen aan een   personeelslid dat wegens ontstentenis van betrekking ter beschikking werd   gesteld. Dat&nbsp;akkoord is niet vereist wanneer de nieuwe affectatie geschiedt   binnen een pedagogische entiteit die bestaat uit enerzijds één instelling met   een eerste graad en anderzijds uit één instelling met een tweede en derde graad   en eventueel het HBO5 van het secundair onderwijs, die behoort tot dezelfde   inrichtende macht en die in hetzelfde gebouwencomplex is gelegen. De criteria en   modaliteiten van deze affectatie worden onderhandeld in het bevoegde   onderhandelingscomité.<BR><BR>Een personeelslid kan, op zijn verzoek, worden   gemuteerd in een vacante betrekking, voorzover die betrekking, krachtens de   reglementering terzake, niet door reaffectatie of wedertewerkstelling moet   worden toegewezen aan een personeelslid dat wegens ontstentenis van betrekking   ter beschikking werd gesteld.<BR><BR>De betrekking kan bij wijze van affectatie   of mutatie worden toegewezen aan het personeelslid dat in die betrekking werd   gereaffecteerd.<BR><BR>§ 2. Voor de affectatie of mutatie van een leerkracht   levensbeschouwelijk onderricht is de instemming vereist van de bevoegde   instantie van de betrokken godsdienst, respectievelijk de bevoegde instantie van   de niet-confessionele zedenleer. <BR><BR>§ 3. In afwijking van paragraaf 1 kan   de raad van bestuur een personeelslid dat vast benoemd is in het ambt van   onderwijzer, in één van de ambten van het beleids- en ondersteunend personeel,   in het ambt van kinderverzorger, in het ambt van leermeester lichamelijke   opvoeding, in het ambt van leermeester godsdienst of in het ambt van leermeester   niet-confessionele zedenleer, mits zijn akkoord een nieuwe affectatie toewijzen   in een vacante betrekking in het ambt van kleuteronderwijzer, op voorwaarde dat   dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van   kleuteronderwijzer. <BR><BR>In afwijking van paragraaf 1 kan de raad van bestuur   een personeelslid dat vast benoemd is in het ambt van kleuteronderwijzer, in het   ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester   godsdienst, in het ambt van leermeester niet-confessionele zedenleer of in één   van de ambten van het beleids- en ondersteunend personeel, mits zijn akkoord een   nieuwe affectatie toewijzen in een vacante betrekking in het ambt van   onderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist   bekwaamheidsbewijs voor het ambt van onderwijzer.<BR><BR>§ 4. In afwijking van   paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in het   ambt van onderwijzer, in één van de ambten van het beleids- en ondersteunend   personeel, in het ambt van kinderverzorger, in het ambt van leermeester   lichamelijke opvoeding, in het ambt van leermeester godsdienst of in het ambt   van leermeester niet-confessionele zedenleer, op zijn verzoek een mutatie   toewijzen in een vacante betrekking in het ambt van kleuteronderwijzer, op   voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs   voor het ambt van kleuteronderwijzer.<BR><BR>In afwijking van paragraaf 1 kan de   raad van bestuur een personeelslid dat vast benoemd is in het ambt van   kleuteronderwijzer in het ambt van leermeester lichamelijke opvoeding, in het   ambt van leermeester godsdienst, in het ambt van leermeester niet-confessionele   zedenleer of in één van de ambten van het beleids- en ondersteunend personeel,   op zijn verzoek een mutatie toewijzen in een vacante betrekking in het ambt van   onderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist   bekwaamheidsbewijs voor het ambt van onderwijzer.
+§ 1. Een personeelslid kan binnen dezelfde scholengroep mits zijn akkoord een nieuwe affectatie krijgen in een vacante betrekking van het ambt waarin het vast benoemd is, voor zover die betrekking, krachtens de reglementering terzake, niet door reaffectatie of wedertewerkstelling moet worden toegewezen aan een personeelslid dat wegens ontstentenis van betrekking ter beschikking werd gesteld. Dat&nbsp;akkoord is niet vereist wanneer de nieuwe affectatie geschiedt binnen een pedagogische entiteit die bestaat uit enerzijds één instelling met een eerste graad en anderzijds uit één instelling met een tweede en derde graad en eventueel het HBO5 van het secundair onderwijs, die behoort tot dezelfde inrichtende macht en die in hetzelfde gebouwencomplex is gelegen. De criteria en modaliteiten van deze affectatie worden onderhandeld in het bevoegde onderhandelingscomité.<br>
+<br>
+Een personeelslid kan, op zijn verzoek, worden gemuteerd in een vacante betrekking, voorzover die betrekking, krachtens de reglementering terzake, niet door reaffectatie of wedertewerkstelling moet worden toegewezen aan een personeelslid dat wegens ontstentenis van betrekking ter beschikking werd gesteld.<br>
+<br>
+De betrekking kan bij wijze van affectatie of mutatie worden toegewezen aan het personeelslid dat in die betrekking werd gereaffecteerd.<br>
+<br>
+§ 2. Voor de affectatie of mutatie van een leerkracht levensbeschouwelijk onderricht is de instemming vereist van de bevoegde instantie van de betrokken godsdienst, respectievelijk de bevoegde instantie van de niet-confessionele zedenleer.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in het ambt van onderwijzer, in één van de ambten van het beleids- en ondersteunend personeel, in het ambt van kinderverzorger, in het ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester godsdienst of in het ambt van leermeester niet-confessionele zedenleer, mits zijn akkoord een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van kleuteronderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van kleuteronderwijzer.<br>
+<br>
+In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in het ambt van kleuteronderwijzer, in het ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester godsdienst, in het ambt van leermeester niet-confessionele zedenleer of in één van de ambten van het beleids- en ondersteunend personeel, mits zijn akkoord een nieuwe affectatie toewijzen in een vacante betrekking in het ambt van onderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van onderwijzer.<br>
+<br>
+§ 4. In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in het ambt van onderwijzer, in één van de ambten van het beleids- en ondersteunend personeel, in het ambt van kinderverzorger, in het ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester godsdienst of in het ambt van leermeester niet-confessionele zedenleer, op zijn verzoek een mutatie toewijzen in een vacante betrekking in het ambt van kleuteronderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van kleuteronderwijzer.<br>
+<br>
+In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in het ambt van kleuteronderwijzer in het ambt van leermeester lichamelijke opvoeding, in het ambt van leermeester godsdienst, in het ambt van leermeester niet-confessionele zedenleer of in één van de ambten van het beleids- en ondersteunend personeel, op zijn verzoek een mutatie toewijzen in een vacante betrekking in het ambt van onderwijzer, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor het ambt van onderwijzer.<br>
+<br>
+&nbsp;§ 4bis. In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in een wervingsambt in het buitengewoon basisonderwijs of in het buitengewoon secundair onderwijs, mits zijn akkoord een nieuwe affectatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs, op voorwaarde dat het personeelslid beschikt over een vereist bekwaamheidsbewijs voor dat ambt.<br>
+<br>
+In afwijking van paragraaf 1 kan de raad van bestuur een personeelslid dat vast benoemd is in een wervingsambt in het buitengewoon basisonderwijs of in het buitengewoon secundair onderwijs, op zijn verzoek een mutatie toewijzen in een vacante betrekking in een wervingsambt in het gewoon basisonderwijs of in het gewoon secundair onderwijs, op voorwaarde dat dit personeelslid beschikt over een vereist bekwaamheidsbewijs voor dat ambt.
 
 ### ART. 32.
 
@@ -630,6 +667,19 @@ De Vlaamse regering bepaalt de administratieve en geldelijke toestand van de per
 
 ## [AFDELING 7ter REGIONALE ONDERSTEUNINGSCEL VAN DE CENTRA VOOR LEERLINGENBEGELEIDING (ing. decr. 27 april 2018, art. 70, I: 1 september 2018)]
 
+### ART 40undecies.
+
+Met behoud van de toepassing van de principes dat een personeelslid wordt aangesteld of geaffecteerd aan een instelling, kunnen:<br>
+1° met behoud van de toepassing van punt 3°, de leden van het bestuurspersoneel van de CLB die een regionale ondersteuningscel vormen, worden ingezet om opdrachten voor de regionale ondersteuningscel te vervullen;<br>
+2° met behoud van de toepassing van punt 3°, de leden van het ondersteunend en technisch personeel van de CLB die een regionale ondersteuningscel vormen mits hun instemming, worden ingezet om opdrachten voor andere CLB van de regionale ondersteuningscel of voor de totaliteit van de regionale ondersteuningscel te vervullen;<br>
+3° de personeelsleden, die worden aangesteld in een betrekking die wordt opgericht ter ondersteuning van de werking van de regionale ondersteuningscel, worden ingezet om opdrachten voor en in andere CLB van de regionale ondersteuningscel of om opdrachten voor de totaliteit van de regionale ondersteuningscel te vervullen.<br>
+<br>
+Bij de toepassing van het eerste lid, 2° en 3°, moeten alleszins de volgende principes worden gehanteerd:<br>
+1° het personeelslid wordt altijd aangesteld in of geaffecteerd aan het CLB waar de betrekking reglementair wordt opgericht;<br>
+2° er wordt altijd rekening gehouden met de statutaire toestand van het personeelslid die conform dit decreet wordt bepaald.<br>
+<br>
+De bepalingen over de inzetbaarheid, vermeld in het eerste en het tweede lid, worden, met behoud van de toepassing van artikel 18 en 31, opgenomen in het geschrift waarin de aanstelling wordt vastgesteld, alsook in de functiebeschrijving, vermeld in hoofdstuk VIIIbis van dit decreet.
+
 ## [AFDELING 7quater CENTRA VOOR VOLWASSENENONDERWIJS (ing. decr. 16 maart 2018, art. 2, I: 1 september 2019)]
 
 ## [AFDELING 7quinquies INZETBAARHEID VAN DE PERSONEELSLEDEN DIE AANGESTELD ZIJN IN EEN AMBT VAN LEERONDERSTEUNEND PERSONEEL IN EEN LEERSTEUNCENTRUM OF EEN LEERSTEUNCENTRUM ALS VERMELD IN ARTIKEL 20, §2, VAN HET DECREET VAN 5 MEI 2023 OVER LEERSTEUN (ing. decr. 5 mei 2023, art. 63, I: 1 september 2023)]
@@ -648,7 +698,7 @@ De Vlaamse regering bepaalt de administratieve en geldelijke toestand van de per
 
 ### ART. 41bis.
 
-<span class="reference">(ing. decr. 14 juli 1998, art. 118, I: 1 september 1999)</span> ] [Dit hoofdstuk is niet van toepassing op het bevorderingsambt van directeur zoals bedoeld in hoofdstuk Vter noch op het mandaat van algemeen directeur bedoeld in hoofdstuk Vquater noch op het mandaat van coördinerend directeur bedoeld in hoofdstuk Vquinquies.  <span class="reference">(verv. decr. 13 juli 2001, art. X. 15, I: 1 september 1999)</span> ]
+Dit hoofdstuk is niet van toepassing op het mandaat van algemeen directeur bedoeld in hoofdstuk Vquater noch op het mandaat van coördinerend directeur bedoeld in hoofdstuk Vquinquies.
 
 ### ART. 41ter.
 
@@ -747,13 +797,21 @@ In afwijking van de bepalingen van dit hoofdstuk heeft, bij uitbreiding van een 
 
 Bij de omvorming van een centrum voor deeltijds beroepssecundair, onderwijs verbonden aan een instelling voor voltijds gewoon secundair onderwijs waar technisch of beroepssecundair onderwijs wordt georganiseerd, tot een autonoom centrum voor deeltijds beroepssecundair onderwijs, heeft de coördinator van het centrum in kwestie voorrang voor een vaste benoeming in het ambt van directeur van het autonome centrum.<br /><br />In afwijking op de bepalingen van dit hoofdstuk moet het personeelslid geen proeftijd doorlopen in het ambt van directeur. De raad van bestuur kan dit personeelslid vast benoemen in het ambt van directeur van het autonome centrum, mits hij voldoet aan de bepalingen van artikel 46, 1° tot en met 3° en 5°.
 
+### ART 48quinquies.
+
+Het personeelslid dat uiterlijk op 31 augustus 2018 belast is met het mandaat van directeur in een CLB, is vanaf 1 september 2018 tijdelijk aangesteld in het ambt van directeur.<br>
+<br>
+In afwijking van de bepalingen van dit hoofdstuk heeft het personeelslid dat uiterlijk op 31 augustus 2018 als titularis belast was met het mandaat van directeur in een CLB, voorrang voor een vaste benoeming in het ambt van directeur van dat CLB.<br>
+<br>
+In afwijking van de bepalingen van dit hoofdstuk moet het personeelslid dat uiterlijk op 31 augustus 2018 als titularis belast was met het mandaat van directeur in een CLB, geen proeftijd doorlopen in het ambt van directeur. De raad van bestuur kan dat personeelslid onmiddellijk vast benoemen in het ambt van directeur van het CLB, op voorwaarde dat hij voldoet aan de voorwaarden, vermeld in artikel 46, 1° tot en met 3°, en 5°.
+
 ### ART. 49.
 
 § 1. Het in een selectie- of bevorderingsambt vastbenoemd personeelslid wordt door [de raad van bestuur  <span class="reference">(verv. decr. 18 mei 1999, art. 55, I: 1 september 1999)</span> ] geaffecteerd in de vacante betrekking waarin het zijn proeftijd heeft volbracht.<br /><br />§ 2. Indien de in § 1 bedoelde betrekking tijdens de proeftijd of op het einde van de proeftijd niet meer kan worden ingericht of wanneer tijdens de proeftijd blijkt dat het personeelslid onrechtmatig tot de proeftijd werd toegelaten, neemt het personeelslid de in artikel 48, § 1, bedoelde betrekking, waarop het zijn aanspraken heeft behouden, opnieuw op.<br /><br />(Zie ook decr. 8 juli 1996, B.S., 5 september 1996)
 
 ### ART. 49bis.
 
-Zonder afbreuk te doen aan het principe dat een personeelslid, toegelaten tot de proeftijd of benoemd, wordt geaffecteerd aan een bepaalde instelling, kunnen de directeur, de directeur aangesteld bij mandaat, de onderdirecteur en de adjunct-directeur van de instellingen die de scholengroep vormen, voor de vervulling van opdrachten voor andere instellingen van de scholengroep of voor de totaliteit van de scholengroep worden ingezet.  <span class="reference">(ing. decr. 18 mei 1999, art. 56, I: 1 september 1999)</span> ]
+Zonder afbreuk te doen aan het principe dat een personeelslid, toegelaten tot de proeftijd of benoemd, wordt geaffecteerd aan een bepaalde instelling, kunnen de directeur en de adjunct-directeur van de instellingen die de scholengroep vormen, voor de vervulling van opdrachten voor andere instellingen van de scholengroep of voor de totaliteit van de scholengroep worden ingezet.&nbsp;
 
 ### ART. 50.
 
@@ -860,53 +918,65 @@ De Vlaamse regering bepaalt de nadere regeling van de administratieve en geldeli
 
 ### ART. 55quater.
 
-<span class="reference">(ing. decr. 14 juli 1998, art. 122)</span> ] [...  <span class="reference">(opgeh. decr. 20 oktober 2000, art. 60, I: 1 september 2000)</span> ]
+...
 
 ### ART. 55quinquies.
 
-§ 1. Elke nieuwe aanstelling in het bevorderingsambt van directeur wordt bij mandaat toegewezen. Deze toewijzing gebeurt:<br />1. voor de CLB's: vanaf 1 september 2000;<br />2. voor het gewoon en buitengewoon basis- en secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs: vanaf een door de Vlaamse regering te bepalen datum. <br /><br />§ 2. Elke aanstelling bij mandaat in het ambt van directeur wordt schriftelijk vastgelegd op de wijze en met de vermeldingen bepaald in artikel 18.<br /><br />§ 3. Onverminderd artikel 55terdecies komen de personeelsleden die vóór een datum die de Vlaamse regering bepaalt tot de proeftijd zijn toegelaten of die belast zijn met het tijdelijk waarnemen van een vacante of een niet-vacante betrekking van directeur op een datum die de Vlaamse regering bepaalt en tot op het ogenblik van vaste benoeming tijdelijk belast blijven met dezelfde betrekking, nog in aanmerking voor een vaste benoeming in dit ambt.
+...
 
 ### ART. 55sexies.
 
-De  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur - voor het vormingscentrum: de afgevaardigd bestuurder -  <span class="reference">(verv. decr. 13 juli 2001, art. X. 22, I: 1 september 2001)</span> ] [bepaalt de wijze van vacantverklaring en kandidaatstelling.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55septies.
 
-Om in een mandaat van directeur aangesteld te kunnen worden, moet het personeelslid bij de aanvang van dat mandaat voldoen aan de volgende voorwaarden:<br /><br />1° houder zijn van het vereist of voldoende geacht bekwaamheidsbewijs, bij organieke bepaling of overgangsmaatregel;<br /><br />2° de betrekking uitoefenen in hoofdambt;<br /><br />3° als laatste evaluatie geen evaluatie met de eindconclusie "onvoldoende" verkregen hebben. Indien het personeelslid niet werd geëvalueerd, wordt deze voorwaarde geacht voldaan te zijn;<br /><br />4° voldoen aan de algemene wervingsvoorwaarden bedoeld in artikel 14 en 17, § 1 tot en met § 4;<br /><br />5° zich kandiaat hebben gesteld in de vorm en binnen de termijn die de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur  <span class="reference">(verv. decr. 18 mei 1999, art. 67, I: 1 januari 2000)</span> ] [bepaalt;  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]<br /><br />[6° beschikken over de bekwaamheden vereist voor het ambt. Deze bekwaamheden en het profiel op basis waarvan zij zijn vastgelegd worden door de raad voor het gemeenschapsonderwijs vastgelegd. Zij worden getest in een proef die wordt georganiseerd onder de verantwoordelijkheid van de raad voor het gemeenschapsonderwijs.  <span class="reference">(ing. decr. 18 mei 1999, art. 67, I: 1 januari 2000)</span> ]<br /><br />[De  <span class="reference">(verv. decr. 18 mei 1999, art. 67, I: 1 januari 2000)</span> ] [raad van bestuur - voor het vormingscentrum: de afgevaardigd bestuurder -  <span class="reference">(verv. decr. 13 juli 2001, art. X. 23, I: 1 september 2001)</span> ] [kan specifieke vorming opleggen.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55octies.
 
-De bepalingen inzake reaffectatie en wedertewerkstelling zijn niet van toepassing op de betrekkingen die toegewezen werden bij mandaat.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55novies.
 
-Prestaties geleverd tijdens een mandaat worden in aanmerking genomen voor de admi-nistratieve en geldelijke anciënniteit van het personeelslid (ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)].
+...
 
 ### ART. 55decies.
 
-55decies. Als een personeelslid zonder vaste benoeming in het onderwijs aangesteld wordt bij man-daat, wordt dit zowel voor de administratieve als voor de geldelijke toestand beschouwd als een tijdelijke aanstelling.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55undecies.
 
-55undecies. § 1. Het mandaat heeft een onbepaalde duur.<br /><br />§ 2. De  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur - voor het vormingscentrum: de afgevaardigd bestuurder -  <span class="reference">(verv. decr. 13 juli 2001, art. X. 24, I: 1 september 2001)</span> ] [kan een einde stellen aan een mandaat:<br /><br />1° met een gemotiveerde opzeg van 3 maanden;<br /><br />2° om dringende redenen volgens de procedure, bedoeld in artikel 24.<br /><br />§ 3. De  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur  <span class="reference">(verv. decr. 18 mei 1999, art. 68, I: 1 januari 2000)</span> ] [moet een einde stellen aan een mandaat:<br /><br />1° na een definitieve evaluatie met de eindconclusie "onvoldoende";<br /><br />2° door toepassing van artikel 23, § 1, a, f, h, i en k, en artikel 86, 1° tot 8°.<br /><br />§ 4. Een personeelslid dat belast is met een mandaat van directeur kan op 1 september vrijwillig afzien van het mandaat. Hij deelt dit per aangetekende brief mee aan de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur,  <span class="reference">(verv. decr. 18 mei 1999, art. 68, I: 1 januari 2000)</span> ] [voor 1 april van hetzelfde jaar.<br /><br />In onderling overleg kan van beide data worden afgeweken.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55duodecies.
 
-55duodecies. § 1. Bij de beëindiging van een mandaat van directeur neemt het vastbenoemd per-soneelslid een betrekking op bij de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur  <span class="reference">(verv. decr. 18 mei 1999, art. 68, I: 1 januari 2000)</span> ] [en in de instelling van aanwijzing volgens zijn vaste benoeming voorafgaand aan het mandaat, tenzij het personeelslid en de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur - voor het vormingscentrum: de afgevaardigd bestuurder - akkoord gaan  <span class="reference">(verv. decr. 13 juli 2001, art. X. 25, I: 1 september 2001)</span> ] met een mutatie.<br /><br />§ 2. Bij de beëindiging van een mandaat van directeur ingevolge een evaluatie "onvoldoende" neemt het personeelslid een betrekking op bij de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur  <span class="reference">(verv. decr. 18 mei 1999, art. 68, I: 1 januari 2000)</span> ] [en in de instelling van aanwijzing volgens zijn vaste benoeming voorafgaand aan het mandaat. Dit personeelslid kan binnen "hetzelfde ambt" geen beroep doen op zijn anciënniteit voor een betrekking.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]<br /><br />[Het betrokken personeelslid wordt voor de duur van het lopende schooljaar ter beschikking gesteld wegens ontstentenis van betrekking.  <span class="reference">(ing. decr. 18 mei 1999, art. 70, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55terdecies.
 
-55terdecies. Het personeelslid belast met een mandaat van directeur in een vacante betrekking, wordt op zijn verzoek op de leeftijd van 55 jaar vast benoemd in deze betrekking, op voorwaarde dat hij:<br /><br />1° de voorwaarden vervult voor vaste benoeming;<br /><br />2° mandaathouder is van de betrekking waarin hij wordt benoemd;<br /><br />3° de vaste benoeming bij de  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ] [raad van bestuur - voor het vormingscentrum: de afgevaardigd bestuurder -  <span class="reference">(verv. decr. 13 juli 2001, art. X. 26, I: 1 september 2001)</span> ] [aanvraagt.<br /><br />Die vaste benoeming heeft steeds 1 januari als ingangsdatum.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ### ART. 55quaterdecies.
 
-55quaterdecies. De Vlaamse regering bepaalt de nadere regeling van de administratieve en geldelijke toestand van de personeelsleden die worden aangesteld bij mandaat.  <span class="reference">(ing. decr. 14 juli 1998, art. 122, I: 1 september 1999)</span> ]
+...
 
 ## [HOOFDSTUK VQUATER MANDAAT VAN ALGEMEEN DIRECTEUR (ing. decr. 18 mei 1999, art. 72)]
 
 ### ART. 55quinquiesdecies.
 
-§ 1. Het mandaat van algemeen directeur, zoals bedoeld in Hoofdstuk III   afdeling 4 van het bijzonder decreet van 14 juli 1998 betreffende het   Gemeenschapsonderwijs wordt toegewezen of beëindigd volgens de voorwaarden en op   de wijze zoals bepaald in dat decreet. Het mandaat wordt toegekend voor   onbepaalde duur en kan op elk ogenblik op gemotiveerde wijze worden   beëindigd.<BR><BR>§ 2. Wanneer het mandaat van algemeen directeur vacant is,   richt de raad van bestuur een oproep tot alle directeurs van de scholen van de   scholengroep om zich kandidaat te stellen voor het mandaat van algemeen   directeur. De raad van bestuur bepaalt de termijn waarbinnen de kandidaten zich   kandidaat moeten stellen. Deze termijn bedraagt tenminste 10   kalenderdagen.<BR><BR>§ 3. De raad van bestuur stelt vooraf de criteria vast op   grond waarvan de kandidaten worden beoordeeld en deelt deze criteria bij de   oproep mee aan de kandidaten.<BR><BR>§ 4. Om in een mandaat van algemeen   directeur aangesteld te kunnen worden, moet het personeelslid bij de aanvang van   dat mandaat beschikken over de bekwaamheden vereist voor het ambt. Deze   bekwaamheden en het profiel op basis waarvan zij zijn vastgelegd, worden door de   raad voor het gemeenschapsonderwijs vastgelegd. Zij worden getest in een proef   die wordt georganiseerd onder de verantwoordelijkheid van de raad voor het   gemeenschapsonderwijs.<BR><BR>Het personeelslid mag als laatste evaluatie geen   evaluatie met eindconlusie « onvoldoende » hebben verkregen.<BR><BR>§ 5. Bij   afwezigheid van het personeelslid dat met toepassing van § 1 initieel belast is   met het mandaat van algemeen directeur, kan de raad van bestuur een ander   personeelslid voor de duur van die afwezigheid belasten met het mandaat. Voor   een periode van maximaal 60 dagen mag de raad van bestuur een lid van het   college van directeurs aanduiden om het mandaat van algemeen directeur waar te   nemen. Bij toepassing van deze bepaling en in afwijking van artikel 55undecies,   § 2, eindigt de aanstelling uiterlijk na het verstrijken van voormelde termijn   van maximaal 60 dagen. <BR><BR>Als de raad van bestuur geen geschikt   personeelslid vindt dat beantwoordt aan de voorwaarde gesteld in paragraaf 4,   kan zij van deze voorwaarde afwijken tot op het ogenblik dat zij een geschikt   personeelslid aanduidt dat wel aan deze voorwaarde beantwoordt. Bij toepassing   van deze bepaling is de aanstelling van het personeelslid beperkt tot een   aanstelling van maximum een jaar.
+§ 1. Het mandaat van algemeen directeur, zoals bedoeld in Hoofdstuk III afdeling 4 van het bijzonder decreet van 14 juli 1998 betreffende het Gemeenschapsonderwijs wordt toegewezen of beëindigd volgens de voorwaarden en op de wijze zoals bepaald in dat decreet. Het mandaat wordt toegekend voor onbepaalde duur en kan op elk ogenblik op gemotiveerde wijze worden beëindigd.<br>
+<br>
+§ 2. Wanneer het mandaat van algemeen directeur vacant is, richt de raad van bestuur een oproep tot alle directeurs van de scholen van de scholengroep om zich kandidaat te stellen voor het mandaat van algemeen directeur. De raad van bestuur bepaalt de termijn waarbinnen de kandidaten zich kandidaat moeten stellen. Deze termijn bedraagt tenminste 10 kalenderdagen.<br>
+<br>
+§ 3. De raad van bestuur stelt vooraf de criteria vast op grond waarvan de kandidaten worden beoordeeld en deelt deze criteria bij de oproep mee aan de kandidaten.<br>
+<br>
+§ 4. Om in een mandaat van algemeen directeur aangesteld te kunnen worden, moet het personeelslid bij de aanvang van dat mandaat beschikken over de bekwaamheden vereist voor het ambt. Deze bekwaamheden en het profiel op basis waarvan zij zijn vastgelegd, worden door de raad voor het gemeenschapsonderwijs vastgelegd. Zij worden getest in een proef die wordt georganiseerd onder de verantwoordelijkheid van de raad voor het gemeenschapsonderwijs.<br>
+<br>
+Het personeelslid mag als laatste evaluatie geen evaluatie met eindconlusie « onvoldoende » hebben verkregen.<br>
+<br>
+§ 5. Bij afwezigheid van het personeelslid dat met toepassing van § 1 initieel belast is met het mandaat van algemeen directeur, kan de raad van bestuur een ander personeelslid voor de duur van die afwezigheid belasten met het mandaat. Voor een periode van maximaal 60 dagen mag de raad van bestuur een lid van het college van directeurs aanduiden om het mandaat van algemeen directeur waar te nemen. Bij toepassing van deze bepaling&nbsp;eindigt de aanstelling uiterlijk na het verstrijken van voormelde termijn van maximaal 60 dagen.<br>
+<br>
+Als de raad van bestuur geen geschikt personeelslid vindt dat beantwoordt aan de voorwaarde gesteld in paragraaf 4, kan zij van deze voorwaarde afwijken tot op het ogenblik dat zij een geschikt personeelslid aanduidt dat wel aan deze voorwaarde beantwoordt. Bij toepassing van deze bepaling is de aanstelling van het personeelslid beperkt tot een aanstelling van maximum een jaar.
 
 ### ART. 55sexiesdecies.
 
@@ -944,7 +1014,14 @@ Dit hoofdstuk is alleen van toepassing op de personeelsleden, vermeld in   artik
 
 ### ART. 55vicies/3.
 
-§ 1. Deze afdeling is van toepassing op het vast benoemde personeelslid   dat door zijn behandelende arts definitief arbeidsongeschikt verklaard is voor   het overeengekomen werk, en dat een beroep doet op de procedure tot   re-integratie zoals bepaald in artikel 39 tot 41 van het koninklijk besluit van   28 mei 2003 betreffende het gezondheidstoezicht op de werknemers.<BR><BR>Het   vast benoemde personeelslid dat door zijn behandelende arts definitief   arbeidsongeschikt verklaard is voor het overeengekomen werk, kan bij de   inrichtende macht een beroep doen op de procedure tot re-integratie. Wanneer het   personeelslid zich met het attest van zijn behandelende arts tot de inrichtende   macht richt om zijn recht op een re-integratieprocedure te laten gelden, moet de   inrichtende macht zo spoedig mogelijk een overleg organiseren over de   mogelijkheden voor ander werk en de maatregelen voor aanpassing van de   werkposten. Aan dat overleg nemen minstens deel:<BR>a) de inrichtende   macht;<BR>b) het personeelslid;<BR>c) de   preventieadviseur-arbeidsgeneesheer.<BR><BR>Na dat overleg formuleert de   preventieadviseur-arbeidsgeneesheer zijn advies aan de inrichtende macht, dat   hij ook aan het personeelslid bezorgt.<BR><BR>§ 2. Als het advies van de   preventieadviseur-arbeidsgeneesheer inhoudt dat het betrokken personeelslid   voldoende geschikt is om een andere functie uit te oefenen en als de inrichtende   macht en het personeelslid ermee akkoord gaan om dat advies te volgen, sluiten   de inrichtende macht en het betrokken personeelslid een schriftelijke   overeenkomst betreffende de vorm van tewerkstelling. Die tewerkstelling kan   onder een van de volgende vormen:<BR>1° tewerkstelling in het ambt van benoeming   na aanpassing van de geïndividualiseerde functiebeschrijving zoals bepaald in   artikel 73ter;<BR>2° tewerkstelling in het ambt van vaste benoeming na een   aanpassing van de draagwijdte van de vaste benoeming zoals bepaald in afdeling   4;<BR>3° tewerkstelling in een ander ambt dan het ambt van vaste benoeming zoals   bepaald in afdeling 5.<BR><BR>Als het advies van de   preventieadviseur-arbeidsgeneesheer niet leidt tot een overeenkomst over   tewerkstelling, is artikel 77sexies van toepassing.
+§ 1. Deze afdeling is van toepassing op het vastbenoemde personeelslid voor wie de preventieadviseur-arbeidsgeneesheer met toepassing van artikel I.4-73, § 4, c), van de codex over het welzijn op het werk van 28 april 2017, heeft beslist dat hij definitief ongeschikt is om het overeengekomen werk te hervatten, maar in staat is om bij de inrichtende macht een aangepast of ander werk uit te voeren, in voorkomend geval na aanpassing van de werkpost.<br>
+<br>
+§ 2. Als conform artikel I.4-74 en I.4-75 van de codex over het welzijn op het werk van 28 april 2017, het schoolbestuur en het personeelslid ermee akkoord gaan om die beslissing en het door het schoolbestuur uitgewerkte re-integratieplan te volgen, sluiten het schoolbestuur en het personeelslid een schriftelijke overeenkomst over de vorm van tewerkstelling. Die tewerkstelling kan onder een van de volgende vormen:<br>
+1° tewerkstelling in het ambt van benoeming na aanpassing van de geïndividualiseerde functiebeschrijving zoals bepaald in artikel 73ter;<br>
+2° tewerkstelling in het ambt van vaste benoeming na een aanpassing van de draagwijdte van de vaste benoeming zoals bepaald in afdeling 4;<br>
+3° tewerkstelling in een ander ambt dan het ambt van vaste benoeming zoals bepaald in afdeling 5.<br>
+<br>
+Als de beslissing van de preventieadviseur-arbeidsgeneesheer, vermeld in artikel I.4-73, § 4, c), van de codex over het welzijn op het werk van 28 april 2017, niet leidt tot een overeenkomst over tewerkstelling, is artikel 77sexies van toepassing.
 
 ## [Afdeling 4. Tewerkstelling in het ambt van vaste benoeming via inperking van de draagwijdte van de vaste benoeming van een leraar (ing. decr. 25 april 2014, art. VII.13, I: 1 september 2014)]
 
@@ -981,14 +1058,13 @@ Een nieuwe vaste benoeming zoals bepaald in artikel 55vicies/6 is eveneens   mog
 § 1. Voor de toepassing van dit artikel wordt verstaan onder :<br>
 1° overheveling van een vestigingsplaats :<br>
 a) in het basisonderwijs : een herstructurering zoals vermeld in artikel 3, 22°, van het decreet van 25 februari 1997 basisonderwijs, waarbij een school een vestigingsplaats, zijnde een gedeelte van een school, zoals vermeld in artikel 3, 56°, van hetzelfde decreet, afschaft en een andere school tegelijkertijd op dezelfde locatie een vestigingsplaats opricht;<br>
-b) in het voltijds gewoon secundair onderwijs : de overheveling van een vestigingsplaats, zoals vermeld in artikel 45, § 2, 4°, artikel 206, § 2, 4°, van de codificatie betreffende het secundair onderwijs;<br>
+b) ...;<br>
 c) in het volwassenenonderwijs : de overheveling van het geheel van het onderwijsaanbod georganiseerd in een vestigingsplaats zoals vermeld in artikel 2, 33°, 40° en 44°, en artikel 65 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-2° overheveling van een filiaal : de overheveling van een filiaal in het deeltijds kunstonderwijs zoals vermeld in artikel II.1, 6° en 8°, van de Codificatie sommige bepalingen betreffende het onderwijs;<br>
-3° samensmelting : de samensmelting van filialen in het deeltijds kunstonderwijs zoals vermeld in artikel&nbsp; II.1, 6° en 9°, van de Codificatie sommige bepalingen betreffende het onderwijs.<br>
+d) in het deeltijds kunstonderwijs: de overheveling van een of meer structuuronderdelen in een bepaalde vestigingsplaats als vermeld in artikel 131 van het decreet van 9 maart 2018 betreffende het deeltijds kunstonderwijs;<br>
+2° ...;<br>
+3° ...<br>
 <br>
-§ 2. Wanneer één van de volgende situaties zich voordoet, stellen de betrokken inrichtende machten, en in het deeltijds kunstonderwijs ook de andere instanties die bij de organisatie van het filiaal betrokken zijn, ten behoeve van de situatie van het personeel een schriftelijke overeenkomst op :<br>
-1° de overheveling van een vestigingsplaats of een filiaal naar een instelling van een andere inrichtende macht;<br>
-2° de samensmelting tot een nieuwe instelling van een andere inrichtende macht.<br>
+§ 2. Bij de overheveling van een vestigingsplaats naar een instelling van een andere inrichtende macht stellen de betrokken inrichtende machten, en in het deeltijds kunstonderwijs ook de andere instanties die bij de organisatie van de vestigingsplaats betrokken zijn, ten behoeve van de situatie van het personeel een schriftelijke overeenkomst op.<br>
 <br>
 De overeenkomst houdt minstens rekening met :<br>
 1° de personeelsleden die in de vestigingsplaats of het filiaal tewerkgesteld zijn in het schooljaar voorafgaand aan de overheveling of de samensmelting, en met de omvang van die tewerkstelling;<br>
@@ -1145,7 +1221,49 @@ De Vlaamse regering bepaalt de nadere regelen betreffende het secretariaat   en 
 
 ### ART. 73ter.
 
-§ 1.Voor de personeelsleden vermeld in artikel 73bis worden, in het kader   van hun begeleiding, geïndividualiseerde functiebeschrijvingen   opgesteld.<BR><BR>Een functiebeschrijving moet gezien worden als een   constructief en positief beleidsinstrument dat het mogelijk maakt een autonoom   personeelsbeleid te voeren dat gericht is op het verstrekken van kwaliteitsvol   onderwijs.<BR><BR>§ 2. Een functiebeschrijving is verplicht voor elk   personeelslid dat aangesteld is voor meer dan 104 dagen. Ze kan ook opgesteld   worden voor personeelsleden die voor een kortere duur aangesteld zijn.<BR><BR>§   3. De raad van bestuur - voor de pedagogische begeleidingsdienst en het   vormingscentrum de afgevaardigd bestuurder - of de scholengemeenschap, indien de   instelling tot een scholengemeenschap behoort, onderhandelt de algemene   afspraken inzake functiebeschrijvingen in het lokaal comité, met dien verstande   dat rekening moet worden gehouden met de principes vermeld in dit   hoofdstuk.<BR><BR>§ 4. De directeur wijst voor ieder personeelslid van zijn   instelling twee evaluatoren aan. De raad van bestuur wijst voor elk van de   personeelsleden van een autonoom internaat en voor elk personeelslid waarvoor de   scholengroep als instelling wordt beschouwd, twee evaluatoren aan. Hierbij wordt   rekening gehouden met volgende principes :<BR>1° voor personeelsleden   tewerkgesteld in wervingsambten moet één van beide evaluatoren steeds de   directeur of adjunct-directeur zijn. Wordt het wervingsambt evenwel uitgeoefend   in een autonoom internaat, dan moet één van beide evaluatoren steeds de   beheerder van dat internaat zijn;<BR>2° voor de eerste evaluator gelden volgende   bepalingen :<BR>- de eerste evaluator moet een personeelslid zijn van de   instelling waar het betrokken personeelslid is tewerkgesteld.<BR>Voor een   personeelslid dat tewerkgesteld is ter ondersteuning van of op het niveau van de   scholengemeenschap, kan de eerste evaluator een personeelslid zijn dat   tewerkgesteld is in een andere instelling van de scholengemeenschap.<BR>Voor een   personeelslid dat tewerkgesteld is bij de scholengroep is de eerste evaluator   een personeelslid dat tewerkgesteld is bij de scholengroep of in een instelling   van de scholengroep;<BR>- voor een personeelslid dat aangesteld is in een   wervingsambt, moet de eerste evaluator aangesteld zijn in een selectie- of   bevorderingsambt. Voor een personeelslid dat aangesteldis in een selectieambt,   moet de eerste evaluator aangesteld zijn in een bevorderingsambt.Voor een   personeelslid dat aangesteld is in een bevorderingsambt, is de eerste evaluator   de directeur;<BR>- de eerste evaluator heeft als voornaamste taak het   personeelslid te coachen in diens functioneren. Het houden van   functioneringsgesprekken is een onderdeel van deze taak;<BR>3° voor de tweede   evaluator gelden volgende bepalingen :<BR>- is de eerste evaluator een   personeelslid dat aangesteld is in een selectieambt c.q. bevorderingsambt, dan   is de tweede evaluator dat minstens ook, of is hij een lid van de raad   vanbestuur;<BR>- de rol van de tweede evaluator wordt bepaald binnen de algemene   afspraken bedoeld in § 3 en in artikel 73novies, maar deze afspraken mogen geen   afbreuk doen aan de rol en de taken van de eerste evaluator zoals vastgelegd in   dit artikel en in artikel 73decies. Deze afspraken moeten minstens inhouden dat   het personeelslid en de eerste evaluator op hun verzoek tijdens de in hoofdstuk   VIIIbis enVIIIter bedoelde procedure steeds een beroep kunnen doen op de tweede   evaluator.<BR><BR>De personeelsleden van de pedagogische begeleidingsdienst die   aangesteld zijn in het ambt van pedagogisch adviseur hebben eveneens twee   evaluatoren. Hierbij gelden volgende bepalingen :<BR>- de adviseur-coördinator   is de eerste evaluator. Hij heeft als voornaamste taak het personeelslid te   coachen in diens functioneren. Het houden van functioneringsgesprekken is een   onderdeel van deze taak;<BR>- de afgevaardigd bestuurder is de tweede evaluator.   Zijn rol wordt bepaald binnen de algemene afspraken bedoeld in § 3 en in artikel   73novies, maar deze afspraken mogen geen afbreuk doen aan de rol en de taken van   de eerste evaluator zoals vastgelegd in dit artikel en in artikel 73decies. Deze   afspraken moeten minstens inhouden dat het personeelslid en de eerste evaluator   op hun verzoek tijdens de in hoofdstuk VIIIbis en VIIIter bedoelde procedure   steeds een beroep kunnen doen op de tweede evaluator. <BR><BR>§ 5. In afwijking   van § 4 worden de beheerder van een autonoom internaat en de directeur   geëva-lueerd door de raad van bestuur. De directeur van het vormingscentrum en   de adviseur-coördinator van de pedagogische begeleidingsdienst worden   geëvalueerd door de afgevaardigd bestuurder. Deze personeelsleden hebben geen   tweede evaluator. <BR>Voor de toepassing van hoofdstuk VIIIbis en van hoofdstuk   VIIIter wordt deze evaluator steeds beschouwd als eerste evaluator. <BR>De   eerste evaluator heeft als voornaamste taak het personeelslid te coachen in   diens functioneren. Het houden van functioneringsgesprekken is een onderdeel van   deze taak. <BR><BR>§ 6. Een opleiding tot evaluator is aangewezen voor wie als   evaluator wordt aangesteld.<BR><BR>§ 7. Het personeelslid en de eerste evaluator   leggen per ambt en per instelling waar het personeelslid fungeert, een   geïndividualiseerde functiebeschrijving vast. Daarbij houden ze rekening met de   algemene afspraken die in uitvoering van § 3 zijn vastgelegd en met de   bepalingen van het arbeidsreglement.<BR><BR>Personeelslid en eerste evaluator   leggen in de functiebeschrijving de taken en instellingsgebonden opdrachten van   het personeelslid vast en de wijze waarop het personeelslid deze taken en   opdrachten moet uitvoeren.<BR><BR>In de functiebeschrijving worden ook de   instellings-specifieke doelstellingen opgenomen.<BR><BR>De functiebeschrijving   bevat eveneens de rechten en plichten inzake permanente vorming en nascholing.   Als het personeelslid nascholing wordt opgelegd, komen de kosten ten laste van   de inrichtende macht.<BR><BR>Ten slotte kunnen aan de functiebeschrijving, naar   aanleiding van een functioneringsgesprek of op basis van de afspraken gemaakt op   het einde van de vorige evaluatieperiode, ook persoons- en ontwikkelingsgerichte   doelstellingen worden toegevoegd.<BR><BR>§ 8. De functiebeschrijving van de   leerkracht levensbeschouwelijk onderricht moet voor de vakinhoudelijke en   vaktechnische aspecten ook het akkoord wegdragen van de bevoegde instantie van   de betrokken eredienst of de niet-confessionele zedenleer. Dit akkoord blijkt   uit de ondertekening van dit deel van de betrokken functiebeschrijving door een   afgevaardigde van de bevoegde instantie.
+§ 1.Voor de personeelsleden vermeld in artikel 73bis worden, in het kader van hun begeleiding, geïndividualiseerde functiebeschrijvingen opgesteld.<br>
+<br>
+Een functiebeschrijving moet gezien worden als een constructief en positief beleidsinstrument dat het mogelijk maakt een autonoom personeelsbeleid te voeren dat gericht is op het verstrekken van kwaliteitsvol onderwijs.<br>
+<br>
+§ 2. Een functiebeschrijving is verplicht voor elk personeelslid dat aangesteld is voor meer dan 104 dagen. Ze kan ook opgesteld worden voor personeelsleden die voor een kortere duur aangesteld zijn.<br>
+<br>
+§ 3. De raad van bestuur - voor de pedagogische begeleidingsdienst en het vormingscentrum de afgevaardigd bestuurder - of de scholengemeenschap, indien de instelling tot een scholengemeenschap behoort, onderhandelt de algemene afspraken inzake functiebeschrijvingen in het lokaal comité, met dien verstande dat rekening moet worden gehouden met de principes vermeld in dit hoofdstuk.<br>
+<br>
+De raden van bestuur van de CLB's die een regionale ondersteuningscel vormen, maken algemene afspraken over de functiebeschrijvingen, waarbij ze rekening houden met de principes, vermeld in dit hoofdstuk. Over deze afspraken wordt onderhandeld in de respectieve lokale comités van de betrokken CLB's of desgevallend in het lokaal onderhandelingscomité van de netoverstijgende regionale ondersteuningscel als vermeld in artikel 50 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.<br>
+<br>
+§ 4. De directeur wijst voor ieder personeelslid van zijn instelling twee evaluatoren aan. De raad van bestuur wijst voor elk van de personeelsleden van een autonoom internaat en voor elk personeelslid waarvoor de scholengroep als instelling wordt beschouwd, twee evaluatoren aan. Hierbij wordt rekening gehouden met volgende principes :<br>
+1° voor personeelsleden tewerkgesteld in wervingsambten moet één van beide evaluatoren steeds de directeur, de adjunct-directeur of - voor het CLB - de coördinator zijn. Wordt het wervingsambt evenwel uitgeoefend in een autonoom internaat, dan moet één van beide evaluatoren steeds de beheerder van dat internaat zijn;<br>
+2° voor de eerste evaluator gelden volgende bepalingen :<br>
+- de eerste evaluator moet een personeelslid zijn van de instelling waar het betrokken personeelslid is tewerkgesteld.<br>
+Voor een personeelslid dat tewerkgesteld is ter ondersteuning van of op het niveau van de scholengemeenschap, kan de eerste evaluator een personeelslid zijn dat tewerkgesteld is in een andere instelling van de scholengemeenschap.<br>
+Voor een personeelslid dat tewerkgesteld is bij de scholengroep is de eerste evaluator een personeelslid dat tewerkgesteld is bij de scholengroep of in een instelling van de scholengroep. Voor een personeelslid dat tewerkgesteld is ter ondersteuning van of op het niveau van de regionale ondersteuningscel kan de eerste evaluator een personeelslid zijn dat tewerkgesteld is in een ander CLB van de regionale ondersteuningscel;<br>
+- voor een personeelslid dat aangesteld is in een wervingsambt, moet de eerste evaluator aangesteld zijn in een selectie- of bevorderingsambt. Voor een personeelslid dat aangesteldis in een selectieambt, moet de eerste evaluator aangesteld zijn in een bevorderingsambt.Voor een personeelslid dat aangesteld is in een bevorderingsambt, is de eerste evaluator de directeur;<br>
+- de eerste evaluator heeft als voornaamste taak het personeelslid te coachen in diens functioneren. Het houden van functioneringsgesprekken is een onderdeel van deze taak;<br>
+3° voor de tweede evaluator gelden volgende bepalingen :<br>
+- is de eerste evaluator een personeelslid dat aangesteld is in een selectieambt c.q. bevorderingsambt, dan is de tweede evaluator dat minstens ook, of is hij een lid van de raad vanbestuur;<br>
+- de rol van de tweede evaluator wordt bepaald binnen de algemene afspraken bedoeld in § 3 en in artikel 73novies, maar deze afspraken mogen geen afbreuk doen aan de rol en de taken van de eerste evaluator zoals vastgelegd in dit artikel en in artikel 73decies. Deze afspraken moeten minstens inhouden dat het personeelslid en de eerste evaluator op hun verzoek tijdens de in hoofdstuk VIIIbis enVIIIter bedoelde procedure steeds een beroep kunnen doen op de tweede evaluator.<br>
+<br>
+De personeelsleden van de pedagogische begeleidingsdienst die aangesteld zijn in het ambt van pedagogisch adviseur hebben eveneens twee evaluatoren. Hierbij gelden volgende bepalingen :<br>
+- de adviseur-coördinator is de eerste evaluator. Hij heeft als voornaamste taak het personeelslid te coachen in diens functioneren. Het houden van functioneringsgesprekken is een onderdeel van deze taak;<br>
+- de afgevaardigd bestuurder is de tweede evaluator. Zijn rol wordt bepaald binnen de algemene afspraken bedoeld in § 3 en in artikel 73novies, maar deze afspraken mogen geen afbreuk doen aan de rol en de taken van de eerste evaluator zoals vastgelegd in dit artikel en in artikel 73decies. Deze afspraken moeten minstens inhouden dat het personeelslid en de eerste evaluator op hun verzoek tijdens de in hoofdstuk VIIIbis en VIIIter bedoelde procedure steeds een beroep kunnen doen op de tweede evaluator.<br>
+<br>
+§ 5. In afwijking van § 4 worden de beheerder van een autonoom internaat en de directeur geëva-lueerd door de raad van bestuur. De directeur van het vormingscentrum en de adviseur-coördinator van de pedagogische begeleidingsdienst worden geëvalueerd door de afgevaardigd bestuurder. Deze personeelsleden hebben geen tweede evaluator.<br>
+Voor de toepassing van hoofdstuk VIIIbis en van hoofdstuk VIIIter wordt deze evaluator steeds beschouwd als eerste evaluator.<br>
+De eerste evaluator heeft als voornaamste taak het personeelslid te coachen in diens functioneren. Het houden van functioneringsgesprekken is een onderdeel van deze taak.<br>
+<br>
+§ 6. Een opleiding tot evaluator is aangewezen voor wie als evaluator wordt aangesteld.<br>
+<br>
+§ 7. Het personeelslid en de eerste evaluator leggen per ambt en per instelling waar het personeelslid fungeert, een geïndividualiseerde functiebeschrijving vast. Daarbij houden ze rekening met de algemene afspraken die in uitvoering van § 3 zijn vastgelegd en met de bepalingen van het arbeidsreglement.<br>
+<br>
+Personeelslid en eerste evaluator leggen in de functiebeschrijving de taken en instellingsgebonden opdrachten van het personeelslid vast en de wijze waarop het personeelslid deze taken en opdrachten moet uitvoeren.<br>
+<br>
+In de functiebeschrijving worden ook de instellings-specifieke doelstellingen opgenomen.<br>
+<br>
+De functiebeschrijving bevat eveneens de rechten en plichten inzake permanente vorming en nascholing. Als het personeelslid nascholing wordt opgelegd, komen de kosten ten laste van de inrichtende macht.<br>
+<br>
+Ten slotte kunnen aan de functiebeschrijving, naar aanleiding van een functioneringsgesprek of op basis van de afspraken gemaakt op het einde van de vorige evaluatieperiode, ook persoons- en ontwikkelingsgerichte doelstellingen worden toegevoegd.<br>
+<br>
+§ 8. De functiebeschrijving van de leerkracht levensbeschouwelijk onderricht moet voor de vakinhoudelijke en vaktechnische aspecten ook het akkoord wegdragen van de bevoegde instantie van de betrokken eredienst of de niet-confessionele zedenleer. Dit akkoord blijkt uit de ondertekening van dit deel van de betrokken functiebeschrijving door een afgevaardigde van de bevoegde instantie.
 
 ### ART. 73ter/1.
 
@@ -1177,7 +1295,9 @@ Onverminderd artikel 73ter en 73ter /1 legt de Vlaamse Regering voor het basison
 
 ### ART. 73novies.
 
-De raad van bestuur - voor de pedagogische begeleidingsdienst en het vormingscentrum de afgevaardigd bestuurder - of de scholengemeenschap, indien de instelling tot een scholengemeenschap behoort, onderhandelt de algemene afspraken inzake evaluatie in het lokaal comité, met dien verstande dat rekening moet worden gehouden met de principes vermeld in dit hoofdstuk.
+De raad van bestuur - voor de pedagogische begeleidingsdienst en het vormingscentrum de afgevaardigd bestuurder - of de scholengemeenschap, indien de instelling tot een scholengemeenschap behoort, onderhandelt de algemene afspraken inzake evaluatie in het lokaal comité, met dien verstande dat rekening moet worden gehouden met de principes vermeld in dit hoofdstuk.<br>
+<br>
+De raden van bestuur van de CLB's die een regionale ondersteuningscel vormen, maken algemene afspraken over de evaluatie, waarbij ze rekening houden met de principes, vermeld in dit hoofdstuk. Over deze afspraken wordt onderhandeld in de respectieve lokale comités van de betrokken CLB's of desgevallend in het lokaal onderhandelingscomité van de netoverstijgende regionale ondersteuningscel als vermeld in artikel 50 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding.
 
 ### ART. 73decies.
 
@@ -1215,7 +1335,7 @@ Het personeelslid dat in een wervingsambt tijdelijk is aangesteld voor bepaalde 
 
 ### ART. 73quinquiesdecies.
 
-§ 1. Het personeelslid dat belast is met een mandaat, zoals bedoeld in dit decreet, wordt na één definitieve evaluatie met eindconclusie 'onvoldoende' door de raad van bestuur ontheven van zijn mandaat.<br /><br />§ 2. In afwijking van § 1 wordt het personeelslid dat belast is met een mandaat van directeur in een CLB én dat vastbenoemd is in het ambt van directeur, met toepassing van artikel 86, 11°, ontslagen door de raad van bestuur als het in éénzelfde instelling voor het ambt van directeur ofwel twee opeenvolgende definitieve evaluaties met eindconclusie « onvoldoende » ofwel drie definitieve evaluaties met eindconclusie « onvoldoende » in zijn loopbaan heeft gekregen.<br /><br />Als de in het vorig lid bedoelde directeur voorheen vastbenoemd was in een ander ambt in het onderwijs, dan kan de raad van bestuur deze directeur echter ook na één definitieve evaluatie met eindconclusie 'onvoldoende' uit zijn ambt verwijderen. Deze directeur wordt door de betrokken raad van bestuur dan onmiddellijk ter beschikking gesteld wegens ontstentenis van betrekking in het ambt waarin hij voorheen was vastbenoemd.<br /><br />Het personeelslid dat belast is met een mandaat van directeur in een CLB en dat niet vastbenoemd is in het ambt van directeur en voorheen ook geen vaste benoeming had in een ander ambt in het onderwijs, wordt, met toepassing van artikel 86, 10°, ontslagen door de raad van bestuur als het voor zijn ambt één definitieve evaluatie met eindconclusie 'onvoldoende' heeft gekregen.
+Het personeelslid dat belast is met een mandaat, als vermeld in hoofdstuk Vquater en Vquinquies van dit decreet, wordt na één definitieve evaluatie met eindconclusie « onvoldoende » door de raad van bestuur ontheven van zijn mandaat.
 
 ### ART. 73sexiesdecies.
 
@@ -1514,6 +1634,10 @@ De tuchtprocedures ingeleid voor het in werking treden van dit decreet worden vo
 ### ART. 99.
 
 De diensten gepresteerd door de personeelsleden in de semi-internaten en   in de internaten die in verblijf en begeleiding tijdens schoolvrije dagen   voorzien vóór het van kracht worden van dit decreet komen in aanmerking voor de   in artikel 4 bedoelde anciënniteit.
+
+### ART 99/1.
+
+De prestaties die een personeelslid tot en met 31 augustus 2018 geleverd heeft in het mandaat van directeur in een CLB worden in aanmerking genomen voor de administratieve en geldelijke anciënniteit van het personeelslid.
 
 ### ART. 100.
 
