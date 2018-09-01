@@ -12,7 +12,19 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs, gefinancierd o
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<br />1° aanvullende lestijden : de aanvullende lestijden vermeld in artikel 138, § 1, 6°, van het decreet Basisonderwijs.<br />2° AgODi : het Agentschap voor Onderwijsdiensten van het Vlaams ministerie van Onderwijs en Vorming;<br />3° concentratiegraad : de procentuele verhouding tussen :<br />a) het aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 dat beantwoordt aan de "gelijkekansenindicator" zoals bedoeld in artikel 139undecies, § 1, 1°, van het decreet;<br />b) het totaal aantal externe en semi-interne regelmatige leerlingen in type 1 en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br />4° decreet : het decreet Basisonderwijs van 25 februari 1997;<br />5° departement : bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming van het Vlaams ministerie van Onderwijs en Vorming;<br />6° gelijkekansenindicatoren : de gelijkekansenindicatoren bedoeld in artikel 139undecies, § 1, van het decreet;<br />7° minister : de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° aanvullende lestijden : de aanvullende lestijden vermeld in artikel 138, § 1, 6°, van het decreet Basisonderwijs.<br>
+2° AgODi : het Agentschap voor Onderwijsdiensten van het Vlaams ministerie van Onderwijs en Vorming;<br>
+3° concentratiegraad : de procentuele verhouding tussen :<br>
+a) het aantal externe en semi-interne regelmatige leerlingen in type&nbsp;basisaanbod en type 3 dat beantwoordt aan de "gelijkekansenindicator" zoals bedoeld in artikel 139undecies, § 1, 1°, van het decreet;<br>
+b) het totaal aantal externe en semi-interne regelmatige leerlingen in type basisaanbod en type 3 van een school, berekend op 1 februari van het voorafgaande schooljaar;<br>
+4° decreet : het decreet Basisonderwijs van 25 februari 1997;<br>
+5° departement : bevoegde dienst of ambtenaar van het Departement Onderwijs en Vorming van het Vlaams ministerie van Onderwijs en Vorming;<br>
+6° gelijkekansenindicatoren : de gelijkekansenindicatoren bedoeld in artikel 139undecies, § 1, van het decreet;<br>
+7° minister : de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+Leerlingen type 1, die vallen onder de toepassing van artikel 16, § 2, van het decreet basisonderwijs van 25 februari 1997 en die voldoen aan de gelijkekansenindicator, vermeld in artikel 139undecies, § 1, 1°, van het voormelde decreet, worden voor de toepassing van dit besluit beschouwd als leerlingen type basisaanbod.<br>
+&nbsp;
 
 ## HOOFDSTUK II Gelijkekansenindicatoren
 
@@ -32,7 +44,28 @@ Elke leerling die beantwoordt aan één of meerdere gelijkekansenindicatoren kri
 
 ### ART. 6.
 
-§ 1. Het totaal aantal aanvullende lestijden wordt in toepassing van artikel 139terdecies, § 1, van het decreet als volgt berekend :<br />SigmaL = 0,203 x SigmaP<br />Waarbij,<br />SigmaL = totaal aantal aanvullende lestijden.<br />SigmaP= totaal aantal punten van de verschillende scholen met een concentratiegraad van ten minste 40 %.<br /><br />§ 2. Het totaal aantal aanvullende lestijden per school wordt als volgt berekend :<br />a) [afgerond (0,203 x P)] = L, waarbij<br />P = aantal punten per school; dit is 0 als de concentratiegraad < 40 % is.<br />L= Lestijden voor 1 school.<br />Scholen waarvoor [afgerond (0,203 x P)] < 6, krijgen geen lestijden, de lestijden die hierdoor vrijkomen, worden bijkomend verdeeld over de scholen waarvoor<br />[afgerond (0,203 x P)] >= 6.<br />b) Het definitief aantal lestijden per school wordt dan berekend als volgt :<br />Ldef = (SigmaL2/SigmaP2 + 0,203) x P2<br />Waarbij :<br />Ldef = definitief aantal lestijden voor een school<br />SigmaL2 = som van L voor scholen waar L < 6 en de concentratiegraad >= 40 % is.<br />SigmaP2 = totaal aantal punten van de scholen waar L >= 6 en de concentratiegraad >= 40 % is.<br />P2 = aantal punten per school voor scholen waar L >= 6 en de concentratiegraad >= 40 %.<br /><br />§ 3. Als door een stijging van de beschikbare kredieten of door toepassing van artikel 14, eerste lid, aanvullende lestijden vrijkomen in de loop van een in artikel 139duodecies van het decreet bedoelde periode van opeenvolgende schooljaren, wordt het aantal lestijden per punt opnieuw berekend.<br /><br />
+§ 1. Het totaal aantal aanvullende lestijden wordt in toepassing van artikel 139terdecies, § 1, van het decreet als volgt berekend :<br>
+SigmaL = 0,233 x SigmaP<br>
+Waarbij,<br>
+SigmaL = totaal aantal aanvullende lestijden.<br>
+SigmaP= totaal aantal punten van de verschillende scholen met een concentratiegraad van ten minste 40 %.<br>
+<br>
+§ 2. Het totaal aantal aanvullende lestijden per school wordt als volgt berekend :<br>
+a) [afgerond (0,233 x P)] = L, waarbij<br>
+P = aantal punten per school; dit is 0 als de concentratiegraad &lt; 40 % is.<br>
+L= Lestijden voor 1 school.<br>
+Scholen waarvoor [afgerond (0,233 x P)] &lt; 6, krijgen geen lestijden, de lestijden die hierdoor vrijkomen, worden bijkomend verdeeld over de scholen waarvoor<br>
+[afgerond (0,233 x P)] &gt;= 6.<br>
+b) Het definitief aantal lestijden per school wordt dan berekend als volgt :<br>
+Ldef = (SigmaL2/SigmaP2 + 0,233) x P2<br>
+Waarbij :<br>
+Ldef = definitief aantal lestijden voor een school<br>
+SigmaL2 = som van L voor scholen waar L &lt; 6 en de concentratiegraad &gt;= 40 % is.<br>
+SigmaP2 = totaal aantal punten van de scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 % is.<br>
+P2 = aantal punten per school voor scholen waar L &gt;= 6 en de concentratiegraad &gt;= 40 %.<br>
+<br>
+§ 3. Als door een stijging van de beschikbare kredieten of door toepassing van artikel 14, eerste lid, aanvullende lestijden vrijkomen in de loop van een in artikel 139duodecies van het decreet bedoelde periode van opeenvolgende schooljaren, wordt het aantal lestijden per punt opnieuw berekend.<br>
+&nbsp;
 
 ### ART. 7.
 
