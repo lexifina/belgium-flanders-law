@@ -24,7 +24,7 @@ Worden eveneens aangenomen de in overeenstemming met een buitenlandse regeling b
 <br>
 Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens aangenomen indien ze vergezeld gaan van een conformiteitsattest zoals bepaald in het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie en het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36.<br>
 <br>
-§ 2. Het besluit van de Vlaamse regering van 21 november 2003 betreffende de salarisschalen van bepaalde personeelsleden van het onderwijs is van toepassing voor de salarisschalen vermeld in bijlage I van dit besluit.<br>
+§ 2. Het het besluit van de Vlaamse Regering van 5 oktober 2018 betreffende de salarisschalen van bepaalde personeelsleden van het onderwijs is van toepassing voor de salarisschalen vermeld in bijlage I van dit besluit.<br>
 <br>
 § 3. De tijdelijke afwijking, vermeld in bijlage I, punt 2.2, Arts, bekwaamheidsbewijzen, vereiste, opmerking 2) : Tijdelijke afwijkingen inzake bijkomend diploma, eindigt wanneer het betrokken personeelslid niet in het bezit is van het bijkomende diploma binnen een periode van 60 maanden.Na het aflopen van die periode van 60 maanden kan dat personeelslid alleen als arts aangesteld worden als houder van een 'ander' bekwaamheidsbewijs, onder de daarvoor geldende voorwaarden en met de bijbehorende salarisschaal.<br>
 <br>
@@ -36,11 +36,7 @@ Artsen voor wie op 1 januari 2013 reeds een deel van of de volledige 60 aaneensl
 <br>
 § 5. ...<br>
 <br>
-§ 6. Het personeelslid dat de coördinatiefunctie, bedoeld in artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, krijgt, ontvangt de niet-verworven salarisschaal 268.<br>
-<br>
-De niet-verworven salarisschaal 268 wordt vastgesteld bij het besluit van de Vlaamse Regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs. Zolang het personeelslid aan de voorwaarden voldoet, maakt de niet-verworven salarisschaal integraal deel uit van de salarisschalen waarop de betrokkene overeenkomstig zijn tijdelijke aanstelling of zijn vaste benoeming recht heeft en vormt die schaal mee de grondslag voor de berekening van het salaris van het betrokken personeelslid. Bij de berekening van de beperking van het salaris tot de eenheid of tot het best bezoldigd ambt wordt met het bedrag van een niet-verworven salarisschaal echter geen rekening gehouden.<br>
-<br>
-De niet-verworven salarisschaal volgt de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994.<br>
+§ 6. ...<br>
 &nbsp;
 
 ### ART. 3.
@@ -65,11 +61,132 @@ Het personeelslid behoudt de overgangsmaatregel vermeld in dit artikel, zolang h
 3° de militaire dienst;<br>
 4° de perioden van wederoproeping;<br>
 5° de ziekte- en bevallingsverloven;<br>
-6° de borstvoedingsverloven;<br>
+6° onbezoldigd ouderschapsverlof;<br>
 7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
 8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
 9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
 10° een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+
+### ART 5ter.
+
+§ 1 Er worden overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 als titularis belast zijn met het mandaat of vast benoemd zijn in het ambt van directeur in een centrum voor leerlingenbegeleiding;<br>
+2° in de loop van het schooljaar 2015-2016, 2016-2017 of 2017-2018 en voor 1 januari 2018 tijdelijk belast zijn met een opdracht in het mandaat van directeur in een centrum voor leerlingenbegeleiding;<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, 1° behouden ten persoonlijke titel salarisschaal 599;<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, 2° hebben recht op salarisschaal 599 wanneer zij aangesteld worden in het ambt van directeur in een centrum voor leerlingenbegeleiding;<br>
+<br>
+§ 2. De personeelsleden behouden de overgangsmaatregelen, vermeld in paragraaf 1 :<br>
+1° voor wat de vastbenoemde personeelsleden betreft : zolang ze in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd;<br>
+2° voor wat de tijdelijke personeelsleden betreft : zolang ze ononderbroken in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van het eerste lid, 2°, worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1° de vakantieperioden;<br>
+2° de loopbaanonderbreking en het zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° onbezoldigd ouderschapsverlof;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
+
+### ART 5quater.
+
+§ 1. In het kader van de ambtshalve concordantie conform artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 worden er overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vast benoemd zijn in het ambt van medewerker in een CLB;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in het ambt van medewerker in een CLB in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, worden geacht over een vereist bekwaamheidsbewijs te beschikken voor het ambt van administratief medewerker met het omkaderingsgewicht dat is toegekend aan de houder van een bekwaamheidsbewijs van ten minste hoger secundair onderwijs als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 14 juni 1989, en de diploma's die daarmee in het voormelde besluit gelijkgesteld zijn.<br>
+<br>
+De personeelsleden behouden de salarisschaal die hun verleend is in het ambt van medewerker conform artikel 5, 5bis en de bijlage, die bij dit besluit is gevoegd, zoals van kracht vóór 1 september 2018.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, 1°, behouden de overgangsmaatregelen, vermeld in paragraaf 1, tweede lid, zolang ze in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, eerste lid, 2°, behouden de overgangsmaatregelen, vermeld in paragraaf 1, tweede lid, zolang ze ononderbroken in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van het tweede lid worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1° de vakantieperioden;<br>
+2° de loopbaanonderbreking en het zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° onbezoldigd ouderschapsverlof;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
+
+### ART 5quinquies.
+
+§ 1. In het kader van de ambtshalve concordantie conform artikel 56ter van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 74quater van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, worden er overgangsmaatregelen toegekend aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vast benoemd zijn in het ambt van administratief werker;<br>
+2° tijdelijk aangesteld of tijdelijk belast geweest zijn met een opdracht in het ambt van administratief werker in de loop van de schooljaren 2015-2016, 2016-2017 of 2017-2018.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, worden geacht over een vereist bekwaamheidsbewijs te beschikken voor het ambt van administratief medewerker met het omkaderingsgewicht dat is toegekend aan de houder van een bekwaamheidsbewijs van ten minste bachelor als vermeld in artikel 7 van het besluit van 14 juni 1989, en de diploma's die daarmee in het voormelde besluit gelijkgesteld zijn.<br>
+<br>
+De personeelsleden behouden de salarisschaal die hun verleend is in het ambt van administratief werker conform artikel 5, 5bis en de bijlage, die bij dit besluit is gevoegd, zoals van kracht vóór 1 september 2018.<br>
+<br>
+§ 2. De personeelsleden, vermeld in paragraaf 1, eerste lid, 1°, behouden de overgangsmaatregelen zolang ze in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, eerste lid, 2°, behouden de overgangsmaatregelen zolang ze ononderbroken in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van het tweede lid worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1° de vakantieperioden;<br>
+2° de loopbaanonderbreking en het zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° onbezoldigd ouderschapsverlof;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
+
+### ART 5sexies.
+
+§ 1. Op 1 september 2018 kan een individuele concordantie als vermeld in artikel 56quater, paragraaf 1 van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en in artikel 74quinquies, paragraaf 1 van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, naar het ambt van coördinator toegekend worden.<br>
+<br>
+De individuele concordantie kan toegekend worden aan de personeelsleden die :<br>
+1° uiterlijk op 31 augustus 2018 vast benoemd zijn in een ambt in een centrum voor leerlingenbegeleiding en voor 1 januari 2018 belast met een coördinatiefunctie, conform artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, zoals van kracht voor 1 september 2018;<br>
+2° of in de loop van het schooljaar 2015-2016, 2016-2017 of 2017-2018 tijdelijk aangesteld zijn in een ambt in een centrum voor leerlingenbegeleiding en voor 1 januari 2018 belast geweest zijn met een coördinatiefunctie, conform artikel 76 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, zoals van kracht voor 1 september 2018.<br>
+<br>
+§ 2. Bij een individuele concordantie, als vermeld in paragraaf 1, geldt het volgende :<br>
+1° de diensten, gepresteerd in het oude ambt, tellen automatisch mee als gepresteerde diensten in het ambt van coördinator;<br>
+2° wie vast benoemd is voor het oude ambt, is vast benoemd voor het ambt van coördinator;<br>
+3° wie ter beschikking gesteld was wegens ontstentenis van betrekking voor het oude onderliggende ambt, is dat ook voor het ambt van coördinator;<br>
+4° wie gereaffecteerd of wedertewerkgesteld was in het oude ambt, is dat ook in het ambt van coördinator;<br>
+5° een conformiteitsattest voor het oude onderliggende ambt, uitgereikt ter uitvoering van het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie en het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36]², geldt automatisch voor het ambt van coördinator;<br>
+<br>
+§ 3. Het individueel concordantieformulier als vermeld in artikel 56quater, § 2, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en in artikel 74quinquies, § 2, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, moet ingediend worden bij het Agentschap voor Onderwijsdiensten tot uiterlijk 15 september 2018.<br>
+<br>
+§ 4. Als het personeelslid en het bestuur van het centrum voor leerlingenbegeleiding niet tot een akkoord komen, kan het personeelslid het bezwaarschrift, vermeld in artikel 56quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs en in artikel 74quinquies, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding, uiterlijk tien kalenderdagen nadat de beslissing hem werd meegedeeld, indienen bij de Commissie Bezwaarschriften.<br>
+<br>
+Als het bestuur van het centrum voor leerlingenbegeleiding nagelaten heeft een beslissing te nemen, kan het personeelslid een gemotiveerd bezwaarschrift indienen bij de Commissie Bezwaarschriften tot uiterlijk 5 oktober 2018.<br>
+<br>
+§ 5. De Commissie Bezwaarschriften bestaat uit de administrateur-generaal van het Agentschap voor Onderwijsdiensten, of zijn afgevaardigde, en uit een bevoegde inspecteur. De Commissie Bezwaarschriften beslist collegiaal binnen de dertig kalenderdagen nadat het bezwaarschrift bij de Commissie ingediend werd.<br>
+<br>
+§ 6. Aan het personeelslid dat een coördinatiefunctie uitgeoefend heeft en dat in toepassing van paragraaf 1 een individuele concordantie krijgt maar niet over een vereist bekwaamheidsbewijs beschikt voor het ambt van coördinator, wordt een overgangsmaatregel toegekend.<br>
+<br>
+De personeelsleden vermeld in het eerste lid worden geacht over een vereist bekwaamheidsbewijs te beschikken. Zij worden ten persoonlijke titel aangesteld in het ambt van coördinator met salarisschaal 202 vermeerderd met de niet verworven salarisschaal 268 en omkaderingsgewicht 0,9.<br>
+<br>
+§ 7. De personeelsleden, vermeld in paragraaf 1, eerste lid, 1°, behouden de overgangsmaatregelen, vermeld in paragraaf 6 zolang ze in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd.<br>
+<br>
+De personeelsleden, vermeld in paragraaf 1, eerste lid, 2°, behouden de overgangsmaatregelen, vermeld in paragraaf 6 zolang ze ononderbroken in dienst blijven in het onderwijs, het academisch onderwijs uitgezonderd, en gefinancierd of gesubsidieerd worden door de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van het tweede lid worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1° de vakantieperioden;<br>
+2° de loopbaanonderbreking en het zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° onbezoldigd ouderschapsverlof;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking van een doorlopende periode van maximaal twee kalenderjaren.
 
 ### ART. 6.
 
@@ -77,7 +194,27 @@ Het personeelslid behoudt de overgangsmaatregel vermeld in dit artikel, zolang h
 
 ### ART. 6bis.
 
-In bijlage I wordt met code d.d. bedoeld :<BR>1 : met ingang van 1   september 2000;<BR>2 : met ingang van 1 september 2002;<BR>3 : met ingang van 1   september 2006;<BR>4 : met ingang van 1 september 2007;<BR>5 : met ingang van 1   september 2000 tot en met 31 augustus 2007;<BR>6 : met ingang van 1 september   2002 tot en met 31 augustus 2007;<BR>7 : met ingang van 1 september 2006 tot en   met 31 augustus 2007;<BR>8 : met ingang van 1 september 2002, met de beperking   evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus   2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende   machten met betrekking tot bezoldiging en terbeschikkingstelling wegens   ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<BR>9 : met   ingang van 1 september 2008;<BR>10 : met ingang van 1 september 2006 tot en met   31 augustus 2008;<BR>11: met ingang van 1 september 2010;<BR>12 : met ingang van   1 september 2000 tot en met 31 augustus 2011;<BR>13 : met ingang van 1 september   2007 tot en met 31 augustus 2011;<BR>14 : met ingang van 1 september   2011;<BR>15: met ingang van 1 september 2000 tot en met 31 december 2012;<BR>16:   met ingang van 1 januari 2013;<BR>17: met ingang van 1 september 2007 tot en met   31 augustus 2013;<BR>18: met ingang van 1 september 2013;<BR>19: met ingang van   1 september 2015.
+In bijlage I wordt met code d.d. bedoeld :<br>
+1 : met ingang van 1 september 2000;<br>
+2 : met ingang van 1 september 2002;<br>
+3 : met ingang van 1 september 2006;<br>
+4 : met ingang van 1 september 2007;<br>
+5 : met ingang van 1 september 2000 tot en met 31 augustus 2007;<br>
+6 : met ingang van 1 september 2002 tot en met 31 augustus 2007;<br>
+7 : met ingang van 1 september 2006 tot en met 31 augustus 2007;<br>
+8 : met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<br>
+9 : met ingang van 1 september 2008;<br>
+10 : met ingang van 1 september 2006 tot en met 31 augustus 2008;<br>
+11: met ingang van 1 september 2010;<br>
+12 : met ingang van 1 september 2000 tot en met 31 augustus 2011;<br>
+13 : met ingang van 1 september 2007 tot en met 31 augustus 2011;<br>
+14 : met ingang van 1 september 2011;<br>
+15: met ingang van 1 september 2000 tot en met 31 december 2012;<br>
+16: met ingang van 1 januari 2013;<br>
+17: met ingang van 1 september 2007 tot en met 31 augustus 2013;<br>
+18: met ingang van 1 september 2013;<br>
+19: met ingang van 1 september 2015;<br>
+20 : met ingang van 1 september 2018.
 
 ### ART. 7.
 
@@ -93,7 +230,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=104">1.   Afkortingen</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=108">Afkortingen</a></p>
 
 ## 2. Overzicht
 
@@ -103,15 +240,23 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=105">2.1.   Directeur</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=109">2.1. Directeur</a></p>
 
 ## [2.2. Coordinator (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
+
+### a
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=110">2.2. Coördinator</a><br>
+<br>
+Bij BVR van 28 juni 2019, BS 14 augustus 2019, worden met ingang van 1 september 2018 de volgende wijzigingen aangebracht:<br>
+<br>
+-&nbsp; de zinsnede "de houder van een erkenning van een titel of bekwaamheid als arts-specialist uitgereikt door het agentschap zorg en gezondheid" vervangen door de zinsnede "de houder van een vereist of voldoende geacht bekwaamheidsbewijs voor het ambt van arts in een CLB"
 
 ## [... (opgeh. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=117">2.9.   Medewerker</A></P>
+<p>...</p>
 
 ## [Technisch personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -119,49 +264,49 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<p><a href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=106">2.2. Arts</a></p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=111">3.1. Arts</a></p>
 
 ## 3.2. Consulent
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=108">2.3.   Consulent</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=114">3.2. Consulent</a></p>
 
 ## 3.3. Psychopedagogisch consulent
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=109">2.4.   Psychopedagogisch consulent</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=115">3.3. Psychopedagogisch consulent </a></p>
 
 ## 3.4. Maatschappelijk werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=110">2.5.   Maatschappelijk werker</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=116">3.4. Maatschappelijk werker</a></p>
 
 ## 3.5. Psychopedagogisch werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=111">2.6.   Psychopedagogisch werker</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=117">3.5. Psychopedagogisch werker</a></p>
 
 ## 3.6. Paramedisch werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=113">2.7.   Paramedisch werker</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=119">3.6. Paramedisch werker</a></p>
 
 ## 3.7. Intercultureel bemiddelaar
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=119">2.10.   Intercultureel bemiddelaar</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=121">3.7. Intercultureel bemiddelaar</a></p>
 
 ## 3.8. Ervaringsdeskundige
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=121">2.11.   Ervaringsdeskundige</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=123">3.8. Ervaringsdeskundige</a></p>
 
 ## [Ondersteunend personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -169,4 +314,4 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=115">2.8.   Administratief werker</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2018/08/09_1.pdf#page=124">4.1. Administratief medewerker</a></p>
