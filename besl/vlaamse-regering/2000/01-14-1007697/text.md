@@ -10,11 +10,139 @@ De ambten van opsteller en intercultureel medewerker bedoeld in artikel 1 behore
 
 ### ART. 3.
 
-[§ 1.  <span class="reference">(ing. B.V.R. 21 november 2003, art. 28)</span> ] Voor het ambt van opsteller gelden de volgende vereiste bekwaamheidsbewijzen en de overeenkomstige weddenschalen:<br /><br />1° houder van een diploma vereist voor het ambt van opsteller zoals bedoeld in artikel 1, § 1, tweede lid, 1°, van het besluit van de Vlaamse regering van 5 juni 1989 tot vaststelling van de bekwaamheidsbewijzen vereist van de kandidaten voor wervingsambten van het administratief personeel van de onderwijsinstellingen en van de psycho-medisch-sociale centra van de Vlaamse Gemeenschap en voor de gesubsidieerde betrekkingen van het administratief personeel in de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen:<br /><br />[weddenschaal 202<br /><br />573 003 - 770 739<br /><br />(20 jaar)<br /><br />2/1 x 11 183<br /><br />1/1 x 15 626<br /><br />1/1 x 4 443<br /><br />1/1 x 17 499<br /><br />1/2 x 15 795<br /><br />1/2 x 16 650<br /><br />1/4 x 16 211<br /><br />1/2 x 21 760<br /><br />1/2 x 18 101<br /><br />2/2 x 16 428<br /><br />1/2 x 16 429<br /><br /> <span class="reference">(verv. B.V.R. 11 januari 2002, art. 1, I: 1 september 2001)</span> ]<br /><br />2° houder van een diploma vereist voor het ambt van klerk zoals bedoeld in artikel 1, § 1, tweede lid, 2°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br /><br />weddenschaal 200<br /><br />523 107 - 645 407<br /><br />(18 jaar)<br /><br />3/1 x 5 860<br /><br />10/2 10 472<br /><br />(Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 202 als volgt verhoogd:<br /><br />a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br /><br />b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br /><br />c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345)<br /><br />[§ 2. De salarisschalen die voorkomen in § 1 worden, met ingang van 1 december 2001, vastgesteld bij het besluit van de Vlaamse regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.  <span class="reference">(ing. B.V.R. 21 november 2003, art. 28, I: 1 december 2001)</span> ]
+§ 1. Voor het ambt van opsteller gelden de volgende vereiste bekwaamheidsbewijzen en de overeenkomstige weddenschalen:<br>
+1° houder van een diploma vereist voor het ambt van opsteller zoals bedoeld in artikel 1, § 1, tweede lid, 1°, van het besluit van de Vlaamse regering van 5 juni 1989 tot vaststelling van de bekwaamheidsbewijzen vereist van de kandidaten voor wervingsambten van het administratief personeel van de onderwijsinstellingen en van de psycho-medisch-sociale centra van de Vlaamse Gemeenschap en voor de gesubsidieerde betrekkingen van het administratief personeel in de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen:<br>
+weddenschaal 202<br>
+<br>
+573 003 - 770 739<br>
+<br>
+(20 jaar)<br>
+<br>
+2/1 x 11 183<br>
+<br>
+1/1 x 15 626<br>
+<br>
+1/1 x 4 443<br>
+<br>
+1/1 x 17 499<br>
+<br>
+1/2 x 15 795<br>
+<br>
+1/2 x 16 650<br>
+<br>
+1/4 x 16 211<br>
+<br>
+1/2 x 21 760<br>
+<br>
+1/2 x 18 101<br>
+<br>
+2/2 x 16 428<br>
+<br>
+1/2 x 16 429<br>
+<br>
+2° houder van een diploma vereist voor het ambt van klerk zoals bedoeld in artikel 1, § 1, tweede lid, 2°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br>
+<br>
+weddenschaal 200<br>
+<br>
+523 107 - 645 407<br>
+<br>
+(18 jaar)<br>
+<br>
+3/1 x 5 860<br>
+<br>
+10/2 10 472<br>
+<br>
+(Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 202 als volgt verhoogd:<br>
+<br>
+a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br>
+<br>
+b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br>
+<br>
+c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345)<br>
+<br>
+§ 2. De salarisschalen die voorkomen in § 1 worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
 
 ### ART. 4.
 
-[§ 1.  <span class="reference">(ing. B.V.R. 21 november 2003, art. 29)</span> ] Voor het ambt van intercultureel medewerker gelden de volgende vereiste bekwaamheidsbewijzen en de overeenkomstige weddenschalen:<br /><br />1° houder van een diploma van het hoger onderwijs van het korte type met volledig leerplan of van het hoger onderwijs van het korte type voor sociale promotie of van het hoger onderwijs van één cyclus uitgereikt door een door de Belgische Staat of door een Gemeenschap georganiseerde, gesubsidieerde of erkende onderwijsinstelling, hetzij door een door de Belgische Staat of een Gemeenschap ingestelde examencommissie:<br /><br />[weddenschaal 333<br /><br />679 411 - 1 183 279<br /><br />(22 jaar)<br /><br />1/1 x 13 846<br /><br />1/1 x 24 882<br /><br />1/1 x 24 883<br /><br />1/1 x 3 037<br /><br />1/1 x 36 435<br /><br />11/2 x 36 435<br /><br /> <span class="reference">(verv. B.V.R. 11 jauari 2001, art. 2, I: 1 september 2001)</span> ]<br /><br />2° houder van een diploma vereist voor het ambt van opsteller zoals bedoeld in artikel 1, § 1, tweede lid, 1°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br /><br />[weddenschaal 202<br /><br />573 003 - 770 739<br /><br />(20 jaar)<br /><br />2/1 x 11 183<br /><br />1/1 x 15 626<br /><br />1/1 x 4 443<br /><br />1/1 x 17 499<br /><br />1/2 x 15 795<br /><br />1/2 x 16 650<br /><br />1/4 x 16 211<br /><br />1/2 x 21 760<br /><br />1/2 x 18 101<br /><br />2/2 x 16 428<br /><br />1/2 x 16 429<br /><br /> <span class="reference">(verv. B.V.R. 11 januari 2002, art. 1, I: 1 september 2001)</span> ]<br /><br />3° houder van een diploma vereist voor het ambt van klerk zoals bedoeld in artikel 1, § 1, tweede lid, 2°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br /><br />weddenschaal 200<br /><br />523 107 - 645 407<br /><br />(18 jaar)<br /><br />3/1 x 5 860<br /><br />10/2 x 10 472<br /><br />(Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 202 als volgt verhoogd:<br /><br />a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br /><br />b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br /><br />c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345.<br /><br />Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 333 als volgt verhoogd:<br /><br />a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301;<br /><br />b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301;<br /><br />c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301)<br /><br />[§ 2. De salarisschalen die voorkomen in § 1 worden, met ingang van 1 december 2001, vastgesteld bij het besluit van de Vlaamse regering van 21 november 2003 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.  <span class="reference">(ing. B.V.R. 21 november 2003, art. 29, I: 1 december 2001)</span> ]
+§ 1.&nbsp;Voor het ambt van intercultureel medewerker gelden de volgende vereiste bekwaamheidsbewijzen en de overeenkomstige weddenschalen:<br>
+1° houder van een diploma van het hoger onderwijs van het korte type met volledig leerplan of van het hoger onderwijs van het korte type voor sociale promotie of van het hoger onderwijs van één cyclus uitgereikt door een door de Belgische Staat of door een Gemeenschap georganiseerde, gesubsidieerde of erkende onderwijsinstelling, hetzij door een door de Belgische Staat of een Gemeenschap ingestelde examencommissie:<br>
+weddenschaal 333<br>
+<br>
+679 411 - 1 183 279<br>
+<br>
+(22 jaar)<br>
+<br>
+1/1 x 13 846<br>
+<br>
+1/1 x 24 882<br>
+<br>
+1/1 x 24 883<br>
+<br>
+1/1 x 3 037<br>
+<br>
+1/1 x 36 435<br>
+<br>
+11/2 x 36 435<br>
+<br>
+2° houder van een diploma vereist voor het ambt van opsteller zoals bedoeld in artikel 1, § 1, tweede lid, 1°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br>
+<br>
+weddenschaal 202<br>
+<br>
+573 003 - 770 739<br>
+<br>
+(20 jaar)<br>
+<br>
+2/1 x 11 183<br>
+<br>
+1/1 x 15 626<br>
+<br>
+1/1 x 4 443<br>
+<br>
+1/1 x 17 499<br>
+<br>
+1/2 x 15 795<br>
+<br>
+1/2 x 16 650<br>
+<br>
+1/4 x 16 211<br>
+<br>
+1/2 x 21 760<br>
+<br>
+1/2 x 18 101<br>
+<br>
+2/2 x 16 428<br>
+<br>
+1/2 x 16 429<br>
+<br>
+3° houder van een diploma vereist voor het ambt van klerk zoals bedoeld in artikel 1, § 1, tweede lid, 2°, van het voornoemd besluit van de Vlaamse regering van 5 juni 1989:<br>
+<br>
+weddenschaal 200<br>
+<br>
+523 107 - 645 407<br>
+<br>
+(18 jaar)<br>
+<br>
+3/1 x 5 860<br>
+<br>
+10/2 x 10 472<br>
+<br>
+(Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 202 als volgt verhoogd:<br>
+<br>
+a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br>
+<br>
+b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345;<br>
+<br>
+c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001 overeenkomstig weddenschaal 158, en de bedragen van weddenschaal 345.<br>
+<br>
+Vanaf 1 september 2002 tot 1 september 2004 wordt de weddenschaal 333 als volgt verhoogd:<br>
+<br>
+a) op 1 september 2002: met 50 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301;<br>
+<br>
+b) op 1 september 2003: met 75 % van het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301;<br>
+<br>
+c) op 1 september 2004: met het verschil tussen de bedragen, toegekend op 31 augustus 2001, en de bedragen van weddenschaal 301)<br>
+<br>
+§ 2. De salarisschalen die voorkomen in § 1 worden, met ingang van 1 september 2018, vastgesteld bij het besluit van de Vlaamse Regering van 5 oktober 2018 houdende de salarisschalen van bepaalde personeelsleden van het onderwijs.
 
 ### ART. 5.
 
