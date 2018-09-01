@@ -55,6 +55,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 11 juni 2010 betreffend
 2° aan het tweede lid wordt een punt 4° toegevoegd, dat luidt als volgt :<br>
 "4° de opleiding Bedrijfsbeheer kan voor snel-lerende cursisten 100 lestijden bedragen, waarbij de module Basiskennis bedrijfsbeheer 100 lestijden bedraagt.".
 
+### ART 6.
+
+Bijlage I bij hetzelfde besluit wordt opgeheven.
+
 ### ART 7.
 
 Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 11 juni 2010, 21 september 2012, 1 maart 2013, 6 september 2013 en 30 augustus 2016, wordt een bijlage XIV toegevoegd, die als bijlage 5 bij dit besluit is gevoegd.
