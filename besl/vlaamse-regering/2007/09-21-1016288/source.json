@@ -2,16 +2,16 @@
   "codex_id": 1016288,
   "title": "Besluit van de Vlaamse Regering van 2007-09-21 betreffende de administratieve omkadering in het deeltijds kunstonderwijs en tot wijziging van het besluit van de Vlaamse Regering van 29 april 1992 betreffende de verdeling van betrekkingen, de terbeschikkingstelling wegens ontstentenis van betrekking, de reaffectatie, de wedertewerkstelling en de toekenning van een wachtgeld of wachtgeldtoelage",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016288/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "c6b6a3a462ce3464d5bd7665f1a94859fc7f44b6297ea6380249bb143b31eec1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016288/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "99bf2146ad4f4a70d623446da92394d392a2f5821b82cec228254fbcdebd603e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016288&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2018-09-01",
   "made": "2007-09-21",
   "gazette": "2007-10-29",
   "numac": 2007036835,
   "document_start": "2007-09-01",
   "document_end": "2018-08-31",
-  "in_force": "2017-01-01",
+  "in_force": "2018-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
 }
