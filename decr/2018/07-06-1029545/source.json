@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029545,
+  "title": "Decreet van 2018-07-06 tot modernisering van de erf- en schenkbelasting, aangepast aan het nieuwe erfrecht",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029545/VolledigDocument?datum=2018-09-01",
+  "source_sha256": "b6f2b0ab641cf6c53eec07b512136e15e3887a8ce78f1a51bafb055af5d60dea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029545&param=informatie",
+  "as_of": "2018-09-01",
+  "made": "2018-07-06",
+  "gazette": "2018-07-20",
+  "numac": 2018013035,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2018-09-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2018-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
