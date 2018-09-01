@@ -89,7 +89,7 @@ In het tijdelijke project kunnen de volgende opleidingen opgenomen worden:<br>
 1° chemische procestechnieken duaal;<br>
 2° elektrische installaties duaal;<br>
 3° elektromechanische technieken duaal;<br>
-4° groen- en tuinbeheer duaal;<br>
+4° ...;<br>
 5° haarverzorging duaal;<br>
 6° ruwbouw duaal;<br>
 7° zorgkundige duaal.<br>
@@ -98,7 +98,7 @@ De opleidingen, vermeld in het eerste lid, zijn tweejarig, met uitzondering van 
 <br>
 Een opleiding kan in de loop van het schooljaar uiterlijk op de eerste lesdag van oktober met leerlingen worden opgestart.<br>
 <br>
-Een opleiding kan in het schooljaar 2018-2019 niet meer worden opgestart.<br>
+Voor een tweejarige duale opleiding die wordt opgestart in het schooljaar 2018-2019 moet het tweede leerjaar door de school alleszins in het schooljaar 2019-2020, zijnde het aanvangsschooljaar van het organiek duaal leren, worden georganiseerd.<br>
 <br>
 De opname van die opleidingen in het opleidingsaanbod vindt plaats in afwijking van artikel 23, 24 en 25 van het decreet van 10 juli 2008, en artikel 6, 7 en 8 van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
 <br>
@@ -224,7 +224,7 @@ Voor de opleidingen in het tijdelijke project worden de volgende gegevens als ve
 1° de screening, het intakegesprek en de trajectbegeleiding waaraan de leerling zich moet onderwerpen;<br>
 2° de vermelding dat het niet-sluiten van een overeenkomst als vermeld in artikel 3, vierde lid, binnen de vastgelegde termijn tot de verplichte vroegtijdige beëindiging van de opleiding zal leiden;<br>
 3° de verduidelijking van het orgaan "begeleidingsteam", met de expliciete vermelding dat de trajectbegeleider en mentor er deel van uitmaken;<br>
-4° de vermelding, afhankelijk van de duale opleiding die het centrum organiseert, dat in een duale opleiding overzitten uitgesloten is, uitgezonderd het overzitten in een eenjarige opleiding tijdens het schooljaar 2017-2018 en het overzitten in het tweede jaar van een tweejarige opleiding tijdens het schooljaar 2018-2019.<br>
+4° ...<br>
 <br>
 De toevoeging, vermeld in het eerste lid, wordt gedaan in afwijking van artikel 112 van de Codex Secundair Onderwijs van 17 december 2010.<br>
 <br>
