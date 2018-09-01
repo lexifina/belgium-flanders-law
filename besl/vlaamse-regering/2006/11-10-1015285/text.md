@@ -37,7 +37,9 @@ Besluit :<br>
 
 ### ART. 1.
 
-Dit besluit is van toepassing op het basisonderwijs, het voltijds gewoon secundair onderwijs, de opleidingsvorm 4 van het buitengewoon secundair onderwijs, het onderwijs voor sociale promotie, de basiseducatie en het deeltijds kunstonderwijs. Dit besluit is, met het oog op de uitreiking van eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, eveneens van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs en op de algemene vorming van de leertijd.<br /><br /><br />
+Dit besluit is van toepassing op het basisonderwijs, het voltijds gewoon secundair onderwijs, de opleidingsvorm 4 van het buitengewoon secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs. Dit besluit is, met het oog op de uitreiking van eindstudiebewijzen, identiek aan die van het voltijds gewoon secundair onderwijs, eveneens van toepassing op de algemene vorming van het deeltijds beroepssecundair onderwijs en op de algemene vorming van de leertijd.<br>
+<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -45,11 +47,39 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° dagen : schoo
 
 ### ART. 3.
 
-Bij de beoordeling van een leerplan houdt de Onderwijsinspectie rekening met de volgende criteria :<br />1° vermelding van de doelgroep : de administratieve benaming(en) van de leerlingen- of cursistengroep(en) voor wie het leerplan bestemd is;<br />2° transparantie : een goedgekeurd leerplan bevat ten minste herkenbaar de doelstellingen die noodzakelijk zijn om de eindtermen of basiscompetenties te bereiken of om de ontwikkelingsdoelen na te streven. Als de eindtermen niet zijn bepaald, legt de indiener zelf de onderwijskundige doelen vast;<br />3° het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van de scholen, de centra, de leraren en de lerarenteams;<br />4° opbouw : het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd. Het geeft binnen het leerplichtonderwijs de samenhang aan met voorafgaande of daaropvolgende leerjaren of graden;<br />5° consistentie : een leerplan bevat geen doelstellingen die tegenstrijdig zijn met de vastgelegde eindtermen, ontwikkelingsdoelen of basiscompetenties;<br />6° materiële uitvoerbaarheid : het leerplan moet duidelijk vermelden welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering.<br /><br />
+Bij de beoordeling van een leerplan houdt de inspectie, vermeld in titel IV van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, rekening met de volgende criteria:<br>
+1° in het basisonderwijs:<br>
+a) het leerplan beantwoordt aan de bepalingen, vermeld in artikel 45 van het decreet basisonderwijs van 25 februari 1997; voor het kleuteronderwijs worden de ontwikkelingsdoelen en voor het gewoon lager onderwijs worden de eindtermen letterlijk opgenomen;<br>
+b) alle leerplannen worden in samenhang ingediend;<br>
+c) de doelgroep wordt vermeld; de administratieve benamingen van de leerlingengroepen voor wie het leerplan bestemd is, worden vermeld;<br>
+d) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van scholen, leraren, lerarenteams of leerlingen;<br>
+e) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+f) het leerplan vertoont consistentie met de ontwikkelingsdoelen en de eindtermen;<br>
+g) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering;<br>
+2° in het voltijds gewoon secundair onderwijs en opleidingsvorm 4 van het buitengewoon secundair onderwijs:<br>
+a) het leerplan beantwoordt aan de bepalingen, vermeld in artikel 147/3 van de Codex Secundair Onderwijs van 17 december 2010; de eindtermen worden letterlijk opgenomen;<br>
+b) alle leerplannen die aansluiten bij het curriculumdossier in kwestie, worden in samenhang ingediend;<br>
+c) de doelgroep wordt vermeld; de benaming van het structuuronderdeel of de structuuronderdelen waarvoor het leerplan bestemd is, wordt vermeld;<br>
+d) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van scholen, leraren, lerarenteams of leerlingen;<br>
+e) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+f) het leerplan vertoont consistentie met de doelen van het curriculumdossier;<br>
+g) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering;<br>
+3° in het volwassenenonderwijs en het deeltijds kunstonderwijs:<br>
+a) de doelgroep wordt vermeld; de administratieve benamingen van de leerlingen- of cursistengroepen voor wie het leerplan bestemd is, worden vermeld;<br>
+b) het leerplan bevat ten minste herkenbaar de doelstellingen die noodzakelijk zijn om, in voorkomend geval, de eindtermen, de specifieke eindtermen, de basiscompetenties of de erkende beroepskwalificaties te bereiken; bij ontstentenis van eindtermen, specifieke eindtermen, basiscompetenties of erkende beroepskwalificaties, legt de indiener zelf de onderwijskundige doelen vast;<br>
+c) het leerplan geeft aan welke ruimte gelaten wordt voor de inbreng van centra, academies, leraren, lerarenteams, cursisten of leerlingen;<br>
+d) het leerplan maakt de systematiek duidelijk volgens welke het is opgebouwd;<br>
+e) het leerplan bevat geen doelstellingen die tegenstrijdig zijn met vastgelegde eindtermen, specifieke eindtermen, basiscompetenties of erkende beroepskwalificaties;<br>
+f) het leerplan vermeldt duidelijk welke materiële vereisten minimaal noodzakelijk zijn voor een goede uitvoering.
 
 ### ART. 4.
 
-Een leerplan wordt ingediend bij de bevoegde inspecteur-generaal uiterlijk op 31 januari voorafgaand aan het schooljaar waarop het leerplan van kracht wordt.<br /><br />Een leerplan dat een negatief advies heeft gekregen, kan niet opnieuw worden ingediend in ongewijzigde vorm.<br /><br />
+Een leerplan wordt ingediend bij de bevoegde inspecteur-generaal uiterlijk op 31 januari voorafgaand aan het schooljaar waarop het leerplan van kracht wordt.<br>
+<br>
+Voor de leerplannen van de eerste graad die op 1 september 2019 van toepassing worden in het eerste leerjaar van die graad, geldt, in afwijking van de datum vermeld in het eerste lid, als datum "uiterlijk acht maanden na de goedkeuring van de desbetreffende eindtermen en uitbreidingsdoelen Nederlands".<br>
+<br>
+Een leerplan dat een negatief advies heeft gekregen, kan niet opnieuw worden ingediend in ongewijzigde vorm.<br>
+&nbsp;
 
 ### ART. 5.
 
