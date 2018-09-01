@@ -11,11 +11,12 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 Voor de toepassing van dit decreet wordt verstaan onder :<br>
 1° basisonderwijs : het gewoon en buitengewoon basisonderwijs;<br>
 2° bestuur : het orgaan dat voor de onderwijsinstelling of het CLB de bestuurshandelingen verricht, overeenkomstig de door de wet, het decreet, het bijzonder decreet of de statuten toegewezen bevoegdheden;<br>
-3° CLB : een centrum voor leerlingenbegeleiding, als vermeld in het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+3° CLB : een centrum voor leerlingenbegeleiding als vermeld in artikel 2, 3°, van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
 4° consortium : het consortium zoals vermeld in artikel 2, 8°, van het decreet van 15 juni 2007 betreffende het volwassenonderwijs;<br>
 5° competenties : de kennis, vaardigheden en attitudes die het personeelslid nodig heeft om zijn taken naar behoren te kunnen uitoefenen;<br>
 6° decretale en reglementaire bepalingen inzake minimumdoelen : de specifieke reglementering per onderwijsniveau inzake ontwikkelingsdoelen, eindtermen, basiscompetenties, leerplannen, handelingsplannen, minimumleerplannen en minimumlessenroosters;<br>
 7° deeltijds kunstonderwijs : het deeltijds kunstonderwijs;<br>
+7° /1 doorlichting : elke vorm van kwaliteitstoezicht door de onderwijsinspectie die resulteert in een verslag en in een advies aan de Vlaamse Regering over de voorlopige erkenning of erkenning van de instelling of van afzonderlijke structuuronderdelen;<br>
 8° erkenningsvoorwaarden : de wettelijke of decretale voorwaarden waaraan een onderwijsinstelling moet voldoen om aan haar leerlingen of cursisten de van rechtswege geldende studiebewijzen toe te kennen;<br>
 9° gezondheidsindex : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994 houdende sociale bepalingen;<br>
 10° hoger beroepsonderwijs : het onderwijs zoals vermeld in het decreet van 30 april 2009 betreffende het hoger beroepsonderwijs;<br>
@@ -34,10 +35,13 @@ g) Raad van Inrichtende Machten van het Protestants-Christelijk onderwijs VZW;<b
 a) artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs, met uitzondering van het personeel van de pedagogische begeleidingsdienst en het statutair meesters-, vak- en dienstpersoneel;<br>
 b) artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
 16° pedagogische begeleiding : de externe professionele ondersteuning van onderwijsinstellingen en CLB's in hun zorg voor kwaliteitsonderwijs en kwaliteitsvolle leerlingenbegeleiding;<br>
+16° /1 referentiekader onderwijskwaliteit : het kader dat de verwachtingen voor kwaliteitsvol onderwijs door onderwijsinstellingen uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van de onderwijsinstelling;<br>
+16° /2 referentiekader CLB-kwaliteit : het kader dat de verwachtingen voor kwaliteitsvolle leerlingenbegeleiding door de CLB's uitzet; het kader is opgebouwd rond de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling en beleid en het houdt rekening met context en input van het CLB;<br>
 17° representatieve vakorganisatie : personeelsvereniging die aangesloten is bij een syndicale organisatie die vertegenwoordigd is in de Sociaal-Economische Raad van Vlaanderen en die een werking ontplooit ten behoeve van de inspectie;<br>
 18° scholengemeenschap : de scholengemeenschap zoals bedoeld in artikel 3, 39°, van de codificatie betreffende het secundair onderwijs en de scholengemeenschap basisonderwijs zoals bedoeld in artikel 3, 52bis, van het decreet van 25 februari 1997 betreffende het basisonderwijs;<br>
 19° secundair onderwijs : het gewoon voltijds secundair onderwijs, het buitengewoon secundair onderwijs en het deeltijds beroepssecundair onderwijs;<br>
 20° structuuronderdeel : onderverdeling in het onderwijsaanbod die afzonderlijk erkend kan worden;<br>
+20° /1 toezichtkader : kader dat de onderwijsinspectie gebruikt om haar doorlichtingsinstrumenten te ontwikkelen, gebaseerd op de referentiekaders zoals bedoeld in punt 16° /1 en 16° /2. Het toezichtkader heeft betrekking op de vier rubrieken : resultaten en effecten, ontwikkeling stimuleren, kwaliteitsontwikkeling, en beleid en houdt rekening met context en input van de instelling;<br>
 21° volwassenenonderwijs : onderwijs dat erkend en gefinancierd of gesubsidieerd wordt door de Vlaamse Gemeenschap en dat georganiseerd wordt door de erkende centra voor volwassenenonderwijs en de erkende centra voor basiseducatie, vermeld in het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br>
 22° leeftijdsgrens : na het einde van het jaar waarin een personeelslid de leeftijd van 65 heeft bereikt.
 
@@ -55,7 +59,17 @@ Dit deel is, tenzij uitdrukkelijk anders bepaald, van toepassing op de door de V
 
 ### ART. 4.
 
-§ 1. Elke onderwijsinstelling is, rekening houdend met haar pedagogisch of agogisch project, ervoor verantwoordelijk kwaliteitsonderwijs te verstrekken en het geboden onderwijs kwaliteitsvol te ondersteunen.<br /><br />Elk CLB is, rekening houdend met de eigen missie en het eigen begeleidingsproject, ervoor verantwoordelijk een kwaliteitsvolle leerlingenbegeleiding te verstrekken en de schoolinterne leerlingenbegeleiding te ondersteunen en te helpen optimaliseren.<br /><br />§ 2. Het verstrekken van kwaliteitsonderwijs, zoals vermeld in § 1, eerste lid, houdt minimaal in dat de onderwijsinstelling de onderwijsreglementering respecteert.<br /><br />Het verstrekken van kwaliteitsvolle leerlingenbegeleiding, zoals vermeld in § 1, tweede lid, houdt minimaal in dat het CLB de CLB-reglementering respecteert.
+§ 1. Elke onderwijsinstelling is, rekening houdend met haar pedagogisch of agogisch project, ervoor verantwoordelijk kwaliteitsonderwijs te verstrekken en het geboden onderwijs kwaliteitsvol te ondersteunen.<br>
+<br>
+Elk CLB is, rekening houdend met de eigen missie en het eigen begeleidingsproject, ervoor verantwoordelijk een kwaliteitsvolle leerlingenbegeleiding te verstrekken en de schoolinterne leerlingenbegeleiding te ondersteunen en te helpen optimaliseren.<br>
+<br>
+§ 2. Het verstrekken van kwaliteitsonderwijs, vermeld in paragraaf 1, eerste lid, houdt minimaal in dat de onderwijsinstelling :<br>
+1° de onderwijsreglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vastgelegd door de Vlaamse Regering, tegemoetkomt.<br>
+<br>
+Het verstrekken van kwaliteitsvolle leerlingenbegeleiding, vermeld in paragraaf 1, tweede lid, houdt minimaal in dat het CLB :<br>
+1° de CLB-reglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vastgelegd door de Vlaamse Regering, tegemoetkomt.
 
 ### ART. 5.
 
@@ -198,7 +212,9 @@ Om nascholings- en begeleidingsactiviteiten te organiseren voor de eigen   perso
 
 ### ART. 21/1.
 
-<P>De pedagogische begeleidingsdiensten die beschikken over een   personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 5.731.000 euro   aan aanvullende werkingsmiddelen.<BR><BR>De werkingsmiddelen, vermeld in het   eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar   rato van het aantal organieke betrekkingen in de instellingen verbonden aan de   pedagogische begeleidingsdienst.</P>
+<p>De pedagogische begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 4.584.000 euro aan aanvullende werkingsmiddelen.<br>
+<br>
+De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen in de instellingen verbonden aan de pedagogische begeleidingsdienst.</p>
 
 ### ART. 22.
 
@@ -236,7 +252,7 @@ Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden te
 
 ### ART. 27/1.
 
-<P>Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten wordt   jaarlijks in een krediet voorzien van 609.000 euro voor de werkingskosten van de   entiteit Onderwijscentrum Brussel van de Vlaamse Gemeenschapscommissie voor de   uitvoering van volgende opdrachten ten aanzien van de scholen en de centra van   het basisonderwijs en secundair onderwijs die erkend, gefinancierd of   gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het tweetalige   gebied Brussel-Hoofdstad:<BR>1° het taalvaardigheidsonderwijs van het Nederlands   en het talenbeleid verbreden en verdiepen;<BR>2° de toepassing van het Brede   Schoolconcept ondersteunen.</P>
+...
 
 ### ART. 27/2.
 
@@ -294,7 +310,17 @@ In afwijking van het eerste lid, wordt het krediet, vermeld in paragraaf 1/1, vo
 
 ### ART. 29.
 
-§ 1. De permanente ondersteuningscellen vermeld in artikel 89 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding hebben als opdracht om de professionalisering van de personeelsleden van de CLB's te versterken. Zij maken hierover afspraken met de pedagogische begeleidingsdienst van het eigen centrumnet. <br /><br />§ 2. Iedere permanente ondersteuningscel stelt driejaarlijks een begeleidingsplan op voor de volgende drie schooljaren. De permanente ondersteuningscel deelt dat begeleidingsplan mee aan de CLB's en aan de Vlaamse Regering.<br /><br />Jaarlijks rapporteren de permanente ondersteuningscellen aan de Vlaamse Regering over de activiteiten van het vorige schooljaar, met inbegrip van een financiële verantwoording over de ontvangen werkingsmiddelen.<br /><br />§ 3. Iedere permanente ondersteuningscel stelt een werkingscode op en maakt die bekend bij de CLB's en hun personeelsleden.<br /><br />§ 4. Iedere permanente ondersteuningscel onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De permanente ondersteuningscel kiest zelf de wijze waarop zij dit doet.<br /><br />§ 5. Het begeleidingsplan, de jaarlijkse rapportering en de werkingscode kunnen geïntegreerd worden in de documenten vermeld in artikel 15, § 2 en § 3.
+§ 1. De permanente ondersteuningscellen&nbsp;vermeld in artikel 15 van het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, secundair onderwijs en de centra voor leerlingenbegeleiding, hebben als opdracht om de professionalisering van de personeelsleden van de CLB's te versterken. Zij maken hierover afspraken met de pedagogische begeleidingsdienst van het eigen centrumnet.<br>
+<br>
+§ 2. Iedere permanente ondersteuningscel stelt driejaarlijks een begeleidingsplan op voor de volgende drie schooljaren. De permanente ondersteuningscel deelt dat begeleidingsplan mee aan de CLB's en aan de Vlaamse Regering.<br>
+<br>
+Jaarlijks rapporteren de permanente ondersteuningscellen aan de Vlaamse Regering over de activiteiten van het vorige schooljaar, met inbegrip van een financiële verantwoording over de ontvangen werkingsmiddelen.<br>
+<br>
+§ 3. Iedere permanente ondersteuningscel stelt een werkingscode op en maakt die bekend bij de CLB's en hun personeelsleden.<br>
+<br>
+§ 4. Iedere permanente ondersteuningscel onderzoekt en bewaakt op systematische wijze haar eigen kwaliteit. De permanente ondersteuningscel kiest zelf de wijze waarop zij dit doet.<br>
+<br>
+§ 5. Het begeleidingsplan, de jaarlijkse rapportering en de werkingscode kunnen geïntegreerd worden in de documenten vermeld in artikel 15, § 2 en § 3.
 
 ## HOOFDSTUK VIII. [Evaluatie van de werking van de pedagogische begeleidingsdiensten, de permanente ondersteuningscellen (verv. decr. 19 december 2014, art. 8, I: 1 januari 2015)]
 
@@ -330,7 +356,10 @@ In titel IV wordt verstaan onder kalenderdag: elke dag van het jaar,   uitgezond
 
 ### ART. 32.
 
-De inspectie oefent volgende opdrachten uit : <br />1° het verlenen van advies bij de opname van instellingen in de erkenning;<br />2° het uitvoeren van doorlichtingen van instellingen;<br />3° alle andere opdrachten die haar worden toegekend bij decreet of besluit van de Vlaamse Regering.
+De inspectie oefent volgende opdrachten uit :<br>
+1° het verlenen van advies voor de voorlopige erkenning van instellingen;<br>
+2° het uitvoeren van doorlichtingen van instellingen;<br>
+3° alle andere opdrachten die haar worden toegekend bij decreet of besluit van de Vlaamse Regering.
 
 ### ART. 33.
 
@@ -344,17 +373,31 @@ De Vlaamse Regering bezorgt aan het Vlaams Parlement jaarlijks een verslag van d
 
 ### ART. 35.
 
-Bij iedere aanvraag tot erkenning van een nieuwe instelling of een structuuronderdeel ervan geeft de inspectie een advies waaruit blijkt of de erkenningsvoorwaarden vervuld zijn.<br /><br />De inspectie stelt na de indiening van de aanvraag ter plaatse een onderzoek in naar het vervullen van de erkenningsvoorwaarden. Na het onderzoek bezorgt de onderwijsinspectie een rapport, met een advies over de erkenning, aan de Vlaamse Regering. Dat rapport moet uiterlijk zes maanden na de aanvraag tot erkenning bekendgemaakt worden, zo niet wordt het advies geacht gunstig te zijn.<br /><br />De Vlaamse Regering bepaalt de verdere procedure voor de erkenning. Die procedure waarborgt de rechten van de verdediging en voorziet in een mogelijkheid tot beroep.
+§ 1. Bij iedere aanvraag tot voorlopige erkenning van een nieuwe instelling onderzoekt de onderwijsinspectie of de decretaal vastgelegde voorwaarden voor een voorlopige erkenning, vervuld zijn.<br>
+<br>
+De inspecteur-generaal kan de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken belasten met een specifieke opdracht als vermeld in artikel 8 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken. De betrokken inspecteurs-adviseurs van de levensbeschouwelijke vakken maken een verslag op over die specifieke opdracht.<br>
+<br>
+Na het onderzoek bezorgt de onderwijsinspectie een rapport met een advies over de voorlopige erkenning aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering beslist uiterlijk op 31 augustus volgend op de aanvraag van de voorlopige erkenning. Zo niet wordt de beslissing geacht gunstig te zijn.<br>
+<br>
+§ 2. Uiterlijk zes maanden na de start van het schooljaar onderzoekt de onderwijsinspectie, via een doorlichting, of de school voldoet aan de decretaal vastgelegde voorwaarden voor een erkenning.<br>
+<br>
+De inspecteur-generaal kan de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken belasten met een specifieke opdracht als vermeld in artikel 8 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken. De betrokken inspecteurs-adviseurs van de levensbeschouwelijke vakken maken een verslag op over die specifieke opdracht.<br>
+<br>
+Na de doorlichting bezorgt de onderwijsinspectie een rapport met een advies als vermeld in artikel 39, § 4, aan de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering beslist uiterlijk op 31 maart van het schooljaar van voorlopige erkenning over de erkenning. Zo niet wordt de beslissing geacht gunstig te zijn.
 
 ## Afdeling IIbis. [... (opgeh. decr. 23 maart 2018, art. 20, I; 1 september 2018)]
 
 ### ART. 35bis.
 
-<P>§ 1. Een instelling die een nieuwe, al dan niet tijdelijke, vestigingsplaats   als vermeld in artikel 3, 56°, en artikel 108 van het decreet basisonderwijs van   25 februari 1997, in gebruik wil nemen, doet hiervan melding bij de bevoegde   dienst, aangewezen door de Vlaamse Regering.<BR><BR>De melding, vermeld in het   eerste lid, wordt uiterlijk op het tijdstip van ingebruikname ingediend bij de   bevoegde dienst, aangewezen door de Vlaamse Regering. In de melding wordt   verklaard dat:<BR>1° de vestigingsplaats beantwoordt aan de voorwaarden   betreffende hygiëne, veiligheid en bewoonbaarheid zoals is bepaald in artikel   62, § 1, 2°, van het decreet basisonderwijs;<BR>2° de instelling, indien zij een   vestigingsplaats in gebruik neemt waar een andere instelling gevestigd is of   voordien was, kennis heeft van aanbevelingen of tekorten die de   onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd   met betrekking tot de bewoonbaarheid, veiligheid en hygiëne van de betreffende   gebouwen. De instelling vermeldt in dat geval eveneens of het advies van de   onderwijsinspectie met betrekking tot de bewoonbaarheid, veiligheid en hygiëne   van de nieuwe vestigingsplaats gunstig, beperkt gunstig of ongunstig   was.<BR><BR>§ 2. De Vlaamse Regering, legt het model van het meldingsformulier   vast. De melding wordt digitaal ingediend.</P>
+...
 
 ### ART. 35ter.
 
-<P>§ 1. Een instelling die een nieuwe vestigingsplaats als vermeld in de   artikelen 14, § 4, en 15, § 4, van de Codex Secundair Onderwijs, respectievelijk   de artikelen 10, § 4, 11, § 4, en 19, § 1/1, van het decreet van 10 juli 2008   betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, in   gebruik wil nemen, doet hiervan melding bij de bevoegde dienst, aangewezen door   de Vlaamse Regering.<BR><BR>De melding, vermeld in het eerste lid, wordt   uiterlijk op het tijdstip van de ingebruikname ingediend bij de bevoegde dienst,   aangewezen door de Vlaamse Regering. In de melding wordt verklaard dat:<BR>1° de   vestigingsplaats beantwoordt aan de voorwaarden betreffende hygiëne, veiligheid   en bewoonbaarheid zoals bepaald is in dezelfde codex, respectievelijk hetzelfde   decreet;<BR>2° de instelling, indien zij een vestigingsplaats in gebruik neemt   waar een andere instelling gevestigd is of voordien was, kennis heeft van   aanbevelingen of tekorten die de onderwijsinspectie in het meest recente   doorlichtingsverslag heeft geformuleerd met betrekking tot de bewoonbaarheid,   veiligheid en hygiëne van de betreffende gebouwen. De instelling vermeldt in dat   geval eveneens of het advies van de onderwijsinspectie met betrekking tot de   bewoonbaarheid, veiligheid en hygiëne van de nieuwe vestigingsplaats gunstig,   beperkt gunstig of ongunstig was.<BR><BR>§ 2. De Vlaamse Regering legt het model   van het meldingsformulier vast. De melding wordt digitaal   ingediend.</P>
+...
 
 ### ART. 35quater.
 
@@ -364,79 +407,118 @@ Bij iedere aanvraag tot erkenning van een nieuwe instelling of een structuuronde
 
 ### ART. 36.
 
-Iedere instelling komt binnen een periode van tien jaar minimaal een keer aan bod om te worden doorgelicht.
+Iedere instelling komt binnen een periode van zes jaar minimum een keer aan bod om te worden doorgelicht.<br>
+<br>
+De doorlichtingscyclus van zes jaar start op 1 september 2018. Met het oog op de organisatie van de doorlichtingen zal de verkorte doorlichtingscyclus in 2021 geëvalueerd worden. Het doel van de evaluatie is de haalbaarheid van de verkorte cyclus en het effect op de personeelsbezetting in relatie met de totaliteit van de opdrachten na te gaan. De gevolgen van de verkorte cyclus op de uitvoerbaarheid van de opdrachten door de inspecteurs zal deel uitmaken van deze evaluatie. Deze evaluatie wordt besproken in de bevoegde onderhandelingscomités voor de sector onderwijs bij de Vlaamse overheid.
 
 ### ART. 37.
 
-Een doorlichting wordt uitgevoerd door een doorlichtingsteam dat bestaat uit ten minste twee inspecteurs. Het doorlichtingsteam kan worden uitgebreid met een of meer externe deskundigen. <br /><br />De inspectie motiveert de deelname van die deskundigen aan het doorlichtingsteam en stelt de instelling hiervan vooraf in kennis.<br /><br />De externe deskundige die deelneemt aan een doorlichting, is volwaardig lid van het doorlichtingsteam. Hij participeert in de voorbereiding, de feitelijke doorlichting en de verslaggeving. Hij is eveneens gehouden aan de werkingscode, vermeld in artikel 33, vierde lid.<br /><br />De externe deskundige ontvangt voor zijn prestaties een vergoeding, zoals vastgelegd door de Vlaamse Regering.
+Een doorlichting wordt uitgevoerd door een doorlichtingsteam dat bestaat uit ten minste twee inspecteurs. Het doorlichtingsteam kan worden uitgebreid met een of meer externe deskundigen.<br>
+<br>
+De inspectie motiveert de deelname van die deskundigen aan het doorlichtingsteam en stelt de instelling hiervan vooraf in kennis.<br>
+<br>
+De externe deskundige die deelneemt aan een doorlichting, is volwaardig lid van het doorlichtingsteam. Hij participeert in de voorbereiding, de feitelijke doorlichting en de verslaggeving. Hij is eveneens gehouden aan de werkingscode, vermeld in artikel 33, vierde lid.<br>
+<br>
+De externe deskundige ontvangt voor zijn prestaties een vergoeding, zoals vastgelegd door de Vlaamse Regering.<br>
+<br>
+De inspecteur-generaal kan tijdens de doorlichting de leden van de inspectie en begeleiding van de levensbeschouwelijke vakken belasten met een specifieke opdracht als vermeld in artikel 8 van het decreet van 1 december 1993 betreffende de inspectie en begeleiding van de levensbeschouwelijke vakken.<br>
+<br>
+De betrokken inspecteurs-adviseurs maken een verslag op over die specifieke opdracht.
 
 ### ART. 38.
 
-§ 1. Tijdens een doorlichting van een onderwijsinstelling gaat de   inspectie na of de onderwijstelling de onderwijsreglementering respecteert en of   de onderwijsinstelling op systematische wijze haar eigen kwaliteit onderzoekt en   bewaakt.<BR><BR>Tijdens een doorlichting van een CLB gaat de inspectie na of het   CLB de CLB-reglementering respecteert en of het CLB op systematische wijze haar   eigen kwaliteit onderzoekt en bewaakt. <BR><BR>De inspectie onderzoekt daarbij   ook de opdrachten die de instelling eventueel heeft toegewezen aan de   scholengemeenschap, de scholengroep of het consortium waartoe zij behoort. De   scholengemeenschappen, scholengroepen of consortia zijn ertoe gehouden de   inspectie alle informatie hierover te verstrekken.<BR><BR>Als de inspectie   tijdens een doorlichting tekorten vaststelt, onderzoekt ze of de instelling deze   tekorten al dan niet zelfstandig en zonder externe ondersteuning weg kan   werken.<BR><BR>§ 2. De Vlaamse Regering expliciteert het referentiekader dat de   inspectie hanteert bij de doorlichtingen en kan daarbij differentiëringen   aanbrengen per onderwijsniveau of voor de CLB's. Het referentiekader is   opgebouwd rond de componenten context, input, proces en output. De component   proces wordt verder onderverdeeld in de domeinen algemeen beleid,   personeelsbeleid, logistiek beleid en onderwijskundig beleid. De componenten en   domeinen worden verder onderverdeeld in indicatoren en variabelen. <BR><BR>De   kwaliteitsaspecten en de indicatoren en variabelen die er naar verwijzen, vinden   hun legitimering in de regelgeving. Ze zijn niet normerend geformuleerd.   <BR><BR>Het referentiekader verwijst op het niveau van indicatoren of variabelen   in ieder geval naar de reglementaire verplichtingen van instellingen inzake de   minimumdoelen, de erkenningsvoorwaarden en de financierings- en   subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van   instellingen op het vlak van : <BR>1° het beleid inzake gelijke   onderwijskansen;<BR>2° het zorgbeleid en de leerlingenbegeleiding;<BR>3° het   talenbeleid;<BR>4° het beleid inzake de oriëntering van leerlingen;<BR>5° het   evaluatiebeleid met betrekking tot leerlingen en cursisten;<BR>6° de   beleidskeuzes die erop gericht zijn de personeelsleden optimaal in te zetten en   te ondersteunen;<BR>7° het nascholings- en professionaliseringsbeleid;<BR>8° het   beleid inzake participatie.<BR><BR>§ 3. De inspectie stelt op basis van het   referentiekader, vermeld in § 2, de doorlichtingsinstrumenten vast en maakt die   bekend.<BR><BR>§ 4. De inspectie baseert zich voor de bepaling van de frequentie   en de intensiteit van de doorlichting op het profiel van de instelling dat tot   stand komt op basis van : <BR>1° een reeks vooraf vastgestelde en meegedeelde   gegevens met betrekking tot de instelling. Die gegevens zijn te relateren aan   elementen van het referentiekader, vermeld in § 2;<BR>2° het vorige   doorlichtingsverslag en, in voorkomend geval, de opvolgingsverslagen.<BR><BR>In   afwijking van het eerste lid, kan de inspectie, naar aanleiding van ernstige   klachten over een instelling, op vraag van de Vlaamse Regering een doorlichting   uitvoeren.<BR><BR>§ 5. Het toezicht op de voorwaarden inzake hygiëne, veiligheid   en bewoonbaarheid van gebouwen en lokalen, vermeld in de reglementering, kan   afzonderlijk van de doorlichting uitgevoerd worden. De Vlaamse Regering bepaalt   de verdere procedure.<BR><BR>§ 6. De inspectie spreekt zich in haar oordeel   nooit uit over de rol van het bestuur van de instelling, noch over individuele   personeelsleden.
+§ 1. Tijdens een doorlichting van een onderwijsinstelling gaat de onderwijsinspectie na of de onderwijsinstelling :<br>
+1° de onderwijsreglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader onderwijskwaliteit, vermeld in artikel 4, § 2, eerste lid, tegemoetkomt.<br>
+<br>
+Tijdens een doorlichting van een CLB gaat de onderwijsinspectie na of het CLB :<br>
+1° de CLB-reglementering respecteert;<br>
+2° aan de kwaliteitsverwachtingen, opgenomen in het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, tweede lid, tegemoetkomt.<br>
+<br>
+De inspectie onderzoekt daarbij ook de opdrachten die de instelling eventueel heeft toegewezen aan de scholengemeenschap of de scholengroep waartoe zij behoort. De scholengemeenschappen of de scholengroepen&nbsp;zijn ertoe gehouden de inspectie alle informatie hierover te verstrekken.<br>
+<br>
+Als de inspectie tijdens een doorlichting tekorten vaststelt, onderzoekt ze of de instelling deze tekorten al dan niet zelfstandig en zonder externe ondersteuning weg kan werken.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De onderwijsinspectie stelt op basis van het referentiekader onderwijskwaliteit en op basis van het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, eerste en tweede lid, het toezichtkader en de doorlichtingsinstrumenten op en maakt die bekend. Het toezichtkader peilt in ieder geval vanuit het referentiekader onderwijskwaliteit naar de reglementaire verplichtingen van instellingen inzake de minimumdoelen, de erkenningsvoorwaarden en de financierings- en subsidiëringsvoorwaarden en naar de reglementaire verplichtingen van instellingen op het vlak van :<br>
+1° het beleid inzake gelijke onderwijskansen;<br>
+2° het zorgbeleid en de leerlingenbegeleiding, met inbegrip van de ondersteuning van leerlingen met bijzondere noden vanuit de ondersteuningsnetwerken;<br>
+3° het talenbeleid;<br>
+4° het beleid inzake de oriëntering van leerlingen;<br>
+5° het evaluatiebeleid met betrekking tot leerlingen en cursisten;<br>
+6° de beleidskeuzes die erop gericht zijn de personeelsleden optimaal in te zetten en te ondersteunen;<br>
+7° het nascholings- en professionaliseringsbeleid;<br>
+8° het beleid inzake participatie.<br>
+<br>
+§ 4. De inspectie baseert zich voor de bepaling van de frequentie en de intensiteit van de doorlichting op het profiel van de instelling dat tot stand komt op basis van :<br>
+1° een reeks vooraf vastgestelde en meegedeelde gegevens met betrekking tot de instelling. Die gegevens zijn te relateren aan elementen in het referentiekader onderwijskwaliteit of het referentiekader CLB-kwaliteit, vermeld in artikel 4, § 2, eerste en tweede lid;<br>
+2° het vorige doorlichtingsverslag en, in voorkomend geval, de opvolgingsverslagen.<br>
+<br>
+In afwijking van het eerste lid, kan de inspectie, naar aanleiding van ernstige klachten over een instelling, op vraag van de Vlaamse Regering een doorlichting uitvoeren.<br>
+<br>
+§ 5. Het toezicht op de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid van gebouwen en lokalen, vermeld in de reglementering, kan afzonderlijk van de doorlichting uitgevoerd worden. De Vlaamse Regering bepaalt de verdere procedure.<br>
+<br>
+§ 6. De inspectie spreekt zich in haar oordeel nooit uit over de rol van het bestuur van de instelling, noch over individuele personeelsleden.
 
 ### ART. 39.
 
-§ 1. Elke doorlichting resulteert in een schriftelijk doorlichtingsverslag dat bestaat uit een beschrijvend gedeelte, een concluderend gedeelte en een advies aan de Vlaamse Regering. <br /><br />Het doorlichtingsteam, met inbegrip van de deelnemende externe deskundigen, stelt in consensus het doorlichtingsverslag op. <br /><br />§ 2. Het beschrijvende gedeelte van het doorlichtingsverslag vermeldt de vaststellingen die naar aanleiding van de doorlichting werden gedaan. <br /><br />§ 3. Het concluderende gedeelte omvat de conclusies. In dat gedeelte wordt uitdrukkelijk vermeld in welke mate voldaan wordt aan de reglementaire bepalingen, vermeld in artikel 4, § 2, eerste lid, wat de onderwijsinstellingen betreft, en in artikel 4, § 2, tweede lid, wat de CLB's betreft en of de instelling op systematische wijze haar eigen kwaliteit onderzoekt en bewaakt.<br /><br />§ 4. Het advies, dat betrekking heeft op de hele instelling of op een structuuronderdeel afzonderlijk, kan op drie manieren worden uitgebracht : <br />1° een gunstig advies : dat houdt in dat de verdere erkenning van de instelling of van structuuronderdelen gunstig wordt geadviseerd;<br />2° een beperkt gunstig advies : dat houdt in dat de erkenning van de instelling of van structuuronderdelen gunstig wordt geadviseerd als binnen een bepaalde periode voldaan wordt aan de voorwaarden, vermeld in het advies;<br />3° een ongunstig advies : dat houdt in dat geadviseerd wordt om de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen op te starten.<br /><br />Enkel bij een ongunstig advies geeft de inspectie aan of de instelling zonder of met externe ondersteuning de vastgestelde tekortkomingen zal kunnen remediëren. De inspectie houdt daarbij ook rekening met de opdrachten die zijn toegewezen aan de scholengemeenschap, de scholengroep of het consortium waartoe de instelling behoort.
+§ 1. Elke doorlichting resulteert in een schriftelijk doorlichtingsverslag en een advies aan de Vlaamse Regering. Het doorlichtingsverslag bevat een onderbouwing van het advies.<br>
+<br>
+Het doorlichtingsteam, met inbegrip van de deelnemende externe deskundigen, stelt in consensus het doorlichtingsverslag op.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Voor een nieuwe instelling zijn de volgende adviezen mogelijk :<br>
+1° advies "voorlopige erkenning" : dit houdt in dat de nieuwe instelling voor één schooljaar erkend wordt;<br>
+2° advies "geen voorlopige erkenning" : dit houdt in dat de nieuwe instelling geen voorlopige erkenning krijgt;<br>
+3° advies "erkenning" : dit houdt in dat de nieuwe instelling met ingang van 1 september van het volgende schooljaar erkend is;<br>
+4° advies "geen erkenning" : dit houdt in dat de nieuwe instelling niet erkend wordt.<br>
+<br>
+§ 5. Voor de hele instelling of voor een afzonderlijk structuuronderdeel zijn de volgende adviezen mogelijk :<br>
+1° gunstig advies : dit houdt in dat de erkenning van de instelling of van structuuronderdelen voortgezet wordt.<br>
+Een gunstig advies kan het bestuur verplichten zich te engageren om aan de tekorten te werken.<br>
+2° ongunstig advies : dit houdt in dat de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen opgestart wordt, met daarbij de vermelding van :<br>
+a) de mogelijkheid tot opschorting : dit houdt in dat het bestuur kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt op voorwaarde dat het bestuur het engagement aangaat om zich bij het werken aan de tekorten extern te laten begeleiden;<br>
+b) de onmogelijkheid tot opschorting : dit houdt in dat het bestuur niet kan verzoeken dat de procedure tot intrekking van de erkenning niet opgestart wordt.
 
 ### ART. 40.
 
-§ 1. Bij een beperkt gunstig advies volgt na de periode, vermeld in het advies, een opvolgingsdoorlichting. Tijdens die opvolgingsdoorlichting gaat de inspectie na of de vastgestelde tekortkomingen voldoende werden geremedieerd. De opvolgingsdoorlichting resulteert in een opvolgingsverslag dat bestaat uit een concluderend gedeelte en een advies. <br /><br />§ 2. Het concluderende gedeelte omvat de conclusies van de opvolging.<br /><br />§ 3. Het advies dat betrekking heeft op de hele instelling of op elk structuuronderdeel afzonderlijk kan op twee manieren worden uitgebracht : <br />1° een gunstig advies : dat houdt in dat de verdere erkenning van de instelling of van structuuronderdelen gunstig wordt geadviseerd;<br />2° een ongunstig advies : dat houdt in dat geadviseerd wordt om de procedure tot intrekking van de erkenning van de instelling of van structuuronderdelen op te starten.<br /><br />§ 4. Als de inspectie tijdens een opvolgingsdoorlichting nieuwe tekortkomingen vaststelt, schrijft ze haar conclusies daarover in een aanvullend doorlichtingsverslag, waarop dezelfde procedure van toepassing is als de procedure, vermeld in artikel 39.
+...
 
 ### ART. 41.
 
-§ 1. Bij een ongunstig advies wordt de procedure tot intrekking van de erkenning van de instelling of van een structuuronderdeel opgestart. De Vlaamse Regering brengt het bestuur van de instelling daarvan op de hoogte.<br>
+§ 1. Bij een advies als vermeld in artikel 39, § 5, 2°, a) of b), of een advies als vermeld in artikel 39, § 4, 4°, brengt de Vlaamse Regering het bestuur van de instelling daarvan op de hoogte.<br>
 <br>
-Indien in het ongunstig advies zowel tekorten op het vlak van bewoonbaarheid, veiligheid en hygiëne, als andere tekorten vastgesteld worden, kan er een aparte procedure tot intrekking van de erkenning worden opgestart voor de eerstgenoemde tekorten, respectievelijk voor alle andere tekorten.<br>
+§ 2. Bij een advies als vermeld in artikel 39, § 5, 2°, a), kan het bestuur van de instelling binnen een termijn van dertig kalenderdagen na de mededeling, vermeld in paragraaf 1, verzoeken om de procedure tot intrekking van de erkenning niet op te starten.<br>
 <br>
-§ 2. Het bestuur van de instelling kan binnen een termijn van zestig kalenderdagen na die mededeling de opschorting van de procedure tot intrekking van de erkenning aanvragen op basis van een door het bestuur van de instelling uitgewerkt verbeteringsplan.<br>
+Als het bestuur van de instelling verzoekt om de procedure tot intrekking van de erkenning niet op te starten, volgt een nieuwe doorlichting binnen een tijdspanne die de onderwijsinspectie bepaalt op basis van de ernst en de aard van de tekorten.<br>
 <br>
-De termijn van zestig kalenderdagen, vermeld in het eerste lid, is niet van toepassing voor tekorten die op de veiligheid, bewoonbaarheid en hygiëne slaan. De Vlaamse Regering deelt voor die tekorten de termijn mee in de mededeling, vermeld in paragraaf 1.<br>
+Als het bestuur geen gebruik maakt van de mogelijkheid om te verzoeken de procedure tot intrekking van de erkenning niet op te starten, start de procedure tot intrekking van de erkenning.<br>
 <br>
-Indien de Vlaamse Regering een ingediend verbeteringsplan goedkeurt, op basis van de door de Vlaamse Regering vastgelegde criteria, dan deelt zij aan het bestuur van de instelling de termijn van opschorting van de procedure mee. Deze termijn bedraagt minimaal een jaar en maximaal drie jaren, te rekenen vanaf de datum van goedkeuring van het verbeteringsplan. In geval van toepassing van tekorten die op de veiligheid, bewoonbaarheid en hygiëne slaan, geldt er geen minimale termijn.<br>
+Na een advies als vermeld in artikel 39, § 5, 2°, b), kan het bestuur binnen een termijn van dertig kalenderdagen na de mededeling, vermeld in paragraaf 1, beroep aantekenen tegen de onmogelijkheid om te verzoeken dat de procedure tot intrekking van de erkenning niet wordt opgestart.<br>
 <br>
-De Vlaamse Regering deelt binnen zestig kalenderdagen na het indienen van het verbeteringsplan, haar beslissing van goedkeuring aan het bestuur van de instelling mee. Indien de Vlaamse Regering deze termijn overschrijdt, wordt de beslissing geacht gunstig te zijn en is de termijn van de opschorting van de intrekking van de erkenning deze die door het bestuur van de instelling werd voorgesteld in het verbeterplan.<br>
+Ook tegen het advies "geen erkenning", vermeld in artikel 39, § 4, 4°, kan door het bestuur beroep aangetekend worden binnen een termijn van dertig kalenderdagen na de mededeling.<br>
 <br>
-§ 3. Een nieuwe doorlichting volgt :<br>
-1° binnen een termijn van negentig kalenderdagen na het verstrijken van de termijn, vermeld in paragraaf 2, eerste of tweede lid, indien het bestuur van de instelling geen verbeteringsplan indiende;<br>
-2° binnen een termijn van negentig kalenderdagen na de betekening van de niet-goedkeuring van het verbeteringsplan door de Vlaamse Regering;<br>
-3° binnen een termijn van negentig kalenderdagen na de periode van opschorting van de procedure tot intrekking van de erkenning, vermeld in paragraaf 2, derde lid.<br>
+§ 3. De Vlaamse Regering bepaalt de procedure voor de opheffing van de erkenning en de procedure voor het beroep, vermeld in paragraaf 2, vierde lid. Die procedures waarborgen de rechten van de verdediging.<br>
 <br>
-§ 4. De doorlichting, vermeld in § 3, wordt uitgevoerd door een door de Vlaamse Regering samengesteld paritair college van inspecteurs. Dat college bestaat voor de helft uit inspectieleden afkomstig uit het vrij onderwijs en voor de helft uit inspectieleden afkomstig uit het officieel onderwijs. De Vlaamse Regering kan aan dit paritair college een voorzitter toevoegen, die niet behoort tot de onderwijsinspectie.<br>
-<br>
-Het paritair college kan een beroep doen op externe deskundigen. De externe deskundige neemt geen deel aan de deliberaties, zijn rapport komt onafhankelijk tot stand en wordt bij de eindbespreking van het paritair college ter bespreking voorgelegd.<br>
-<br>
-Bij staking van stemmen bepaalt de inspecteur-generaal, het college gehoord, het advies.<br>
-<br>
-§ 5. Na de doorlichting brengt het paritair college aan de Vlaamse Regering een definitief advies uit over de verdere erkenning van de instelling. Dat advies kan alleen betrekking hebben op de elementen die in het eerdere advies expliciet werden opgesomd.<br>
-<br>
-Het advies, dat betrekking heeft op de hele instelling of op een of meer structuuronderdelen, kan op drie manieren worden uitgebracht :<br>
-1° een gunstig advies : dat houdt in dat de verdere erkenning van de instelling of van structuuronderdelen gunstig wordt geadviseerd;<br>
-2° een beperkt gunstig advies : dat houdt in dat de erkenning van de instelling of van structuuronderdelen gunstig wordt geadviseerd als binnen een bepaalde periode voldaan wordt aan de voorwaarden, vermeld in het advies;<br>
-3° een advies tot definitieve intrekking van de erkenning. Als het advies alleen betrekking heeft op een structuuronderdeel en niet op het geheel van de instelling, geeft de inspectie in het advies aan welke tijdelijke beperking met betrekking tot het programmeren van bepaalde structuuronderdelen zij voor deze instelling aanbeveelt.<br>
-<br>
-Het voorstel tot opheffing houdt een voorstel in inzake geleidelijkheid tenzij het voorstel tot opheffing betrekking heeft op de voorwaarde, vermeld in :<br>
-a) de bepalingen betreffende de hygiëne en bewoonbaarheid van de lokalen;<br>
-b) artikel 15, § 1, 2°, van de codificatie betreffende het secundair onderwijs;<br>
-c) artikel 62, § 1, 2°, van het decreet basisonderwijs van 25 februari 1997;<br>
-d) artikel 56, 3°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs;<br>
-e) artikel 10, § 1, 2°, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
-<br>
-§ 6. In afwijking van § 4 en § 5 wordt de doorlichting uitgevoerd door een door de Vlaamse Regering samengesteld college van inspectieleden afkomstig uit het officieel onderwijs indien de doorlichting betrekking heeft op :<br>
-1° de voorwaarden vermeld in artikel 15, § 1, 12°, van de codificatie betreffende het secundair onderwijs;<br>
-2° de voorwaarden vermeld in artikel 62, § 2, van het decreet basisonderwijs van 25 februari 1997;<br>
-3° de voorwaarden vermeld in artikel 10, § 1, 13°, van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap.<br>
-<br>
-§ 7. De Vlaamse Regering bepaalt de werking en de organisatie van de colleges vermeld in § 4 en § 6, alsook de procedure voor de opheffing van de erkenning. Die procedure waarborgt de rechten van de verdediging.<br>
-<br>
-In de mate dat het besluit betrekking heeft op het college vermeld in § 6, worden die bepalingen van het besluit aangenomen bij wijze van bekrachtiging van een gezamenlijk voorstel van de Vlaamse Regering, de Raad van het Gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten van het gesubsidieerd officieel onderwijs.
+De beroepsprocedure in geval van een advies conform artikel 39, § 5, 2°, b), voorziet in een paritair samengesteld doorlichtingsteam.
 
 ### ART. 41bis.
 
-Behoudens de mogelijkheden om een advies tot opheffing van de erkenning op   een instelling of op een afzonderlijk structuuronderdeel te betrekken als   vermeld in artikel 39, § 4; artikel 40, § 3, en artikel 41, § 1 en § 5, kan in   het deeltijds beroepssecundair onderwijs een advies tot opheffing van de   erkenning ook enkel betrekking hebben op de bevoegdheid om eindstudiebewijzen,   die identiek zijn aan die van het voltijds gewoon secundair onderwijs, uit te   reiken.
+...
 
 ### ART. 42.
 
-§ 1. De Vlaamse Regering bepaalt de verdere procedureregels voor de   organisatie van de doorlichtingen. Daarbij wordt onder meer aandacht besteed aan   :<BR>1° de manier waarop personeelsleden van de instelling, ouders van   leerlingen en leerlingen of cursisten worden gehoord bij de doorlichting;<BR>2°   de manier waarop personeelsleden van de instelling, ouders van leerlingen en   leerlingen of cursisten worden geïnformeerd over het resultaat van de   doorlichting.<BR><BR>§ 2. Het bestuur en de personeelsleden van de instelling,   de ouders van leerlingen en leerlingen of cursisten worden als eersten   geïnformeerd over het resultaat van de doorlichting, vóór de verslagen openbaar   worden, zoals bepaald door artikel 44 van dit decreet.<BR><BR>§ 3. Bij het   bepalen van de verdere procedureregels, vermeld in paragraaf 1, draagt de   Vlaamse Regering er zorg voor dat de start van de doorlichting tijdig   aangekondigd wordt door de onderwijsinspectie. In afwijking hiervan, kan de   doorlichting of opvolgingsdoorlichting slechts zeven kalenderdagen op voorhand   worden aangekondigd, indien de doorlichting of de opvolgingsdoorlichting beperkt   is tot een controle van de bewoonbaarheid, veiligheid en hygiëne.
+§ 1. De Vlaamse Regering bepaalt de verdere procedureregels voor de organisatie van de doorlichtingen. Daarbij wordt onder meer aandacht besteed aan :<br>
+1° de manier waarop personeelsleden van de instelling, ouders van leerlingen en leerlingen of cursisten worden gehoord bij de doorlichting;<br>
+2° de manier waarop personeelsleden van de instelling, ouders van leerlingen en leerlingen of cursisten worden geïnformeerd over het resultaat van de doorlichting.<br>
+<br>
+§ 2. Het bestuur en de personeelsleden van de instelling, de ouders van leerlingen en leerlingen of cursisten worden als eersten geïnformeerd over het resultaat van de doorlichting, vóór de verslagen openbaar worden, zoals bepaald door artikel 44 van dit decreet.<br>
+<br>
+§ 3. Bij het bepalen van de verdere procedureregels, vermeld in paragraaf 1, draagt de Vlaamse Regering er zorg voor dat de start van de doorlichting tijdig aangekondigd wordt door de onderwijsinspectie. In afwijking hiervan, kan de doorlichting of opvolgingsdoorlichting slechts zeven kalenderdagen op voorhand worden aangekondigd, indien de doorlichting&nbsp;beperkt is tot een controle van de bewoonbaarheid, veiligheid en hygiëne.
 
 ## Afdeling IV. Specifieke opdrachten
 
@@ -452,7 +534,10 @@ Behoudens de mogelijkheden om een advies tot opheffing van de erkenning op   een
 
 ### ART. 44.
 
-De doorlichtingsverslagen, de opvolgingsverslagen en de adviezen met betrekking tot de erkenning van de instelling zijn bestuursdocumenten die vallen onder de toepassing van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, met uitzondering van vrijwillig door de instelling ter beschikking gestelde documenten in het kader van : <br />1° de resultaten van wetenschappelijke onderzoeken waaraan de instelling vrijwillig heeft deelgenomen;<br />2° de interne kwaliteitszorg;<br />3° de resultaten van voorbereidende en periodieke onderzoeken waaraan een instelling deelneemt met het oog op de interne of externe kwaliteitscontrole.
+De doorlichtingsverslagen en de adviezen met betrekking tot de erkenning van de instelling zijn bestuursdocumenten die vallen onder de toepassing van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, met uitzondering van vrijwillig door de instelling ter beschikking gestelde documenten in het kader van :<br>
+1° de resultaten van wetenschappelijke onderzoeken waaraan de instelling vrijwillig heeft deelgenomen;<br>
+2° de interne kwaliteitszorg;<br>
+3° de resultaten van voorbereidende en periodieke onderzoeken waaraan een instelling deelneemt met het oog op de interne of externe kwaliteitscontrole.
 
 ## [HOOFDSTUK IIIbis. De toegang tot persoonsgegevens (ing. Decr. 9 juli 2021, art. 145, I: 1 september 2021)]
 
@@ -506,9 +591,9 @@ De Vlaamse Regering richt een permanent overlegorgaan op waarin de inspectie en 
 4° ...;<br>
 5° voldoen aan de taalvereisten zoals bepaald in artikel 50 van dit decreet.<br>
 <br>
-§ 5. De kandidaat moet aan de aanwervingsvoorwaarden voldoen uiterlijk op het ogenblik van de kandidaatstelling voor de test van de generieke competenties.<br>
+§ 5. ...<br>
 <br>
-§ 6. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, gaat na of de kandidaat voldoet aan de aanwervingsvoorwaarden. Hij baseert zich hiervoor op het dossier, vermeld in artikel 64, § 2. Indien de voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, oordeelt dat de kandidaat niet aan de aanwervingsvoorwaarden voldoet, kan de kandidaat, binnen zeven kalenderdagen na de kennisname van zijn beslissing, vragen om gehoord te worden. De voorzitter van de selectiecommissie, vermeld in artikel 65, § 3, hoort de kandidaat in ieder geval voor de test van de generieke competenties.<br>
+§ 6. ...<br>
 <br>
 § 7. De Vlaamse Regering bepaalt hoe de dienstanciënniteit in het onderwijs en de gepresteerde diensten in de basiseducatie worden berekend.
 
@@ -573,7 +658,11 @@ Een mandaat bij een bestuur is onverenigbaar met de hoedanigheid van lid van de 
 
 ### ART. 60.
 
-Indien het betrokken personeelslid niet vrijwillig een einde stelt aan een vastgestelde onverenigbaarheid wordt hij ontslagen.<br /><br />Voor een personeelslid dat tijdelijk is aangesteld voor onbepaalde duur of tot de proeftijd toegelaten of vastbenoemd is, geldt de procedure van ontslag bij tucht zoals vermeld in hoofdstuk IX. <br /><br />Voor een personeelslid dat tijdelijk is aangesteld voor bepaalde duur of een mandaat bekleedt, geldt de procedure voor ontslag om dringende redenen zoals bepaald in respectievelijk artikel 87, § 4, en artikelen 96 en 105.
+Indien het betrokken personeelslid niet vrijwillig een einde stelt aan een vastgestelde onverenigbaarheid wordt hij ontslagen.<br>
+<br>
+Voor een personeelslid dat tijdelijk is aangesteld voor onbepaalde duur of vastbenoemd is, geldt de procedure van ontslag bij tucht zoals vermeld in hoofdstuk IX.<br>
+<br>
+Voor een personeelslid dat tijdelijk is aangesteld voor bepaalde duur of een mandaat bekleedt, geldt de procedure voor ontslag om dringende redenen zoals bepaald in respectievelijk artikel 87, § 4, en artikelen 96 en 105.
 
 ## [HOOFDSTUK II/1. Flexibele werkregeling (ing. decr. 14 juli 2023, art. 61, I: 1 september 2023)]
 
@@ -589,71 +678,104 @@ De ambten die de leden van de inspectie kunnen uitoefenen, worden als volgt vast
 
 ### ART. 62.
 
-§ 1. Het ambt van inspecteur wordt uitgeoefend door personeelsleden die tijdelijk zijn aangesteld, die tot de proeftijd zijn toegelaten of die vastbenoemd zijn. <br /><br />§ 2. Maximaal 85 % van de ambten van inspecteur wordt uitgeoefend door inspecteurs die tot de proeftijd zijn toegelaten of die vastbenoemd zijn. <br /><br />§ 3. Bij de werving wordt rekening gehouden met de waarborgregeling en met de vereiste samenstelling van de inspectie zoals vermeld in artikel 46.<br /><br />§ 4. Het ambt van inspecteur wordt toegewezen volgens de hieronder bepaalde regels.
+§ 1. Het ambt van inspecteur wordt uitgeoefend door personeelsleden die tijdelijk zijn aangesteld of die vastbenoemd zijn.<br>
+<br>
+§ 2. Maximaal 85 % van de ambten van inspecteur wordt uitgeoefend door inspecteurs&nbsp;of die vastbenoemd zijn.<br>
+<br>
+§ 3. Bij de werving wordt rekening gehouden met de waarborgregeling en met de vereiste samenstelling van de inspectie zoals vermeld in artikel 46.<br>
+<br>
+§ 4. Het ambt van inspecteur wordt toegewezen volgens de hieronder bepaalde regels.
 
 ## Afdeling II. De selectie
 
 ### ART. 63.
 
-<P>§ 1. Voor de toegang tot het ambt van inspecteur wordt een selectie   georganiseerd die bestaat uit twee fasen : <BR>1° de eerste fase : de test van   de generieke competenties;<BR>2° de tweede fase : het interview, eventueel   aangevuld met een bijkomende test waarbij specifieke competenties worden getest   die nodig zijn voor de concrete functie.<BR><BR>§ 2. ...</P>
+§ 1. Voor de werving in het ambt van inspecteur worden op basis van de behoeften vergelijkende selecties georganiseerd volgens een systeem dat naar vorm en inhoud de nodige waarborgen biedt voor de gelijke behandeling, de onafhankelijkheid en de onpartijdigheid.<br>
+<br>
+§ 2. De Vlaamse Regering legt per ambt een generiek selectiereglement vast.<br>
+<br>
+§ 3. Het generieke selectiereglement regelt ten minste :<br>
+1° welke diploma's, getuigschriften, ervaringsbewijzen of toegangsbewijzen toegang verlenen tot de selectieprocedure;<br>
+2° de datum waarop de aanwervingsvoorwaarden, vermeld in artikel 49, moeten zijn vervuld;<br>
+3° de vormvereisten en de termijn van de kandidaatstelling;<br>
+4° de aard en het aantal van de testen;<br>
+5° de mogelijkheid om een bijkomende test te organiseren;<br>
+6° de criteria op basis waarvan wordt beoordeeld of de kandidaat geschikt is en geslaagd is;<br>
+7° de mogelijke voorselectie, naargelang het aantal kandidaten;<br>
+8° een mogelijk beperkte procedure in geval van dringende noodzakelijkheid;<br>
+9° de samenstelling en de werking van de selectiecommissies, die voor de helft bestaan uit personen uit de organisatie en de helft uit personen extern aan de organisatie;<br>
+10° de regels van de rangschikking;<br>
+11° de geldigheidsduur van de werving.<br>
+<br>
+§ 4. Onverminderd paragraaf 3 van dit artikel, kan per specifieke werving en na advies van het onderhandelingscomité, vermeld in artikel 185 van dit decreet, een specifiek selectiereglement opgesteld worden door de inspecteur-generaal en de betrokken coördinerend inspecteur. Het specifieke selectiereglement concretiseert de specifieke verwachtingen en bevat ten minste :<br>
+1° welke specifieke diploma's, getuigschriften, ervaringsbewijzen of toegangsbewijzen toegang verlenen tot de selectieprocedure;<br>
+2° de aard en het aantal van de specifieke testen;<br>
+3° de criteria op basis waarvan wordt beoordeeld of de kandidaat geschikt is en geslaagd is;<br>
+4° de samenstelling en de werking van de selectiecommissies, die voor de helft bestaan uit personen uit de organisatie en de helft uit personen extern aan de organisatie.
 
 ### ART. 64.
 
-§ 1. De oproep voor de test van de generieke competenties wordt   bekendgemaakt volgens de door de Vlaamse Regering bepaalde regels en wordt via   Jobpunt Vlaanderen of zijn rechtsopvolger gepubliceerd. Deze bekendmaking   vermeldt de voorwaarden waaraan de kandidaten moeten voldoen, evenals de   vormvereisten en de termijn voor de kandidaatstelling.<BR><BR>§ 2. De kandidaat   moet minstens dertig kalenderdagen voor de test van de generieke competenties   een dossier indienen. Dit dossier bevat een curriculum vitae en een   competentieportfolio. <BR><BR>§ 3. Enkel kandidaten die voldoen aan de   aanwervingsvoorwaarden, vermeld in artikel 49, kunnen deelnemen aan de   selectieprocedure.<BR><BR>§ 4. Jobpunt Vlaanderen, of zijn rechtsopvolger test   de generieke competenties. <BR><BR>§ 5. Jobpunt Vlaanderen, of zijn   rechtsopvolger stelt een lijst op van de geslaagde kandidaten. <BR><BR>§ 6. De   kandidaten die op de bovenvermelde lijst voorkomen, blijven gedurende zes jaar   opgenomen in de algemene wervingsreserve. De periode van zes jaar begint te   lopen op het ogenblik dat de geslaagde kandidaten in kennis worden gesteld van   de opname in de algemene wervingsreserve.<BR><BR>§ 7. De termijn, vermeld in §   6, wordt zonodig verlengd gedurende de tijdelijke aanstelling van een   inspecteur.
+Elke vacature wordt minstens bekendgemaakt volgens de door de Vlaamse Regering bepaalde regels en via Jobpunt Vlaanderen of zijn rechtsopvolger.<br>
+<br>
+De bekendmaking, vermeld in het eerste lid, bevat de functiebeschrijving, waarin de inzetbaarheid wordt gespecificeerd, en het selectiereglement, vermeld in artikel 63, § 3.
 
 ### ART. 65.
 
-§ 1. Alle kandidaten uit de algemene wervingsreserve ontvangen een   schriftelijke oproep voor de tweede fase van de selectie. Die oproep geeft aan   of het om een toelating tot de proeftijd, een tijdelijke aanstelling van   bepaalde duur of een tijdelijke aanstelling van onbepaalde duur gaat. De oproep   is gebaseerd op een concreet functieprofiel dat een aanduiding bevat van de   inzetbaarheid. <BR><BR>§ 2. Enkel de kandidaten die opgenomen zijn in de   algemene wervingsreserve kunnen deelnemen aan de tweede fase van de selectie.   <BR><BR>§ 3. Een selectiecommissie die bestaat uit inspectieleden en externe   deskundigen neemt het interview af. <BR><BR>§ 4. De commissie, vermeld in § 3,   stelt een lijst op van de geslaagde kandidaten in volgorde van de mate waarin de   kandidaten beantwoorden aan het vereiste functieprofiel. Die volgorde is   dwingend. De commissie beslist bij consensus. Indien geen consensus wordt   bereikt, wordt overgegaan tot stemming. Bij staking van stemmen beslist de   voorzitter. De commissie legt die lijst met inbegrip van een motivatie voor aan   de Vlaamse Regering.<BR><BR>§ 5. De geslaagde kandidaten die op de lijst,   vermeld in § 4, staan en niet tot de proeftijd worden toegelaten, worden   gedurende vier jaar opgenomen in een specifieke wervingsreserve gebaseerd op het   desbetreffende concrete functieprofiel. De periode van vier jaar begint te lopen   op het ogenblik dat de geslaagde kandidaten in kennis worden gesteld van de   opname in de specifieke wervingsreserve.<BR><BR>Deze kandidaten komen in   aanmerking om voorgedragen te worden voor een tijdelijke aanstelling of voor de   toelating tot de proeftijd. <BR><BR>§ 6. Wanneer er een vacature ontstaat voor   het ambt van inspecteur moet in eerste instantie nagegaan worden of er zich   kandidaten bevinden in de specifieke wervingsreserve voor het gevraagde   functieprofiel. De kandidaten van deze wervingsreserve komen in volgorde van   rangschikking in aanmerking om voorgedragen te worden voor de vacante functie.   <BR><BR>Er wordt steeds rekening gehouden met de waarborgregeling en met de   vereiste samenstelling van de inspectie zoals vermeld in artikel   46.
+§ 1. Voorafgaand aan de selectie sluit de inspecteur-generaal de kandidaten uit die niet voldoen aan de statutaire aanwervingsvoorwaarden, vermeld in artikel 49. Hij deelt de beslissing tot uitsluiting schriftelijk mee aan de betrokken kandidaten.<br>
+<br>
+Bij een uitsluiting kan een kandidaat binnen zeven kalenderdagen nadat hij op de hoogte is gebracht van de beslissing, vragen om gehoord te worden.<br>
+<br>
+§ 2. De selectie van inspecteurs verloopt conform het selectiereglement, vermeld in artikel 63, § 3 en § 4.
 
 ### ART. 65/1.
 
-§ 1. In afwijking van artikel 63 kan in geval van dringende tekorten voor   bepaalde concrete functieprofielen een aangepaste wervingsprocedure toegepast   worden. Wanneer de wervingsreserve voor een concreet functieprofiel uitgeput is   en niet kan aangelegd worden bij gebrek aan geschikte kandidaten uit de   generieke wervingsreserve, kan een profielgerichte oproep voor de test van de   specifieke en de generieke competenties opgestart worden.<BR><BR>§ 2. De   selectie van de kandidaten voor de profielgerichte oproep bestaat uit drie fasen   :<BR>1° de eerste fase : een screening van de portfolio's van de   kandidaten;<BR>2° de tweede fase : een interview, eventueel aangevuld met een   bijkomende test waarbij specifieke competenties worden getest die nodig zijn   voor het concrete functieprofiel;<BR>3° de derde fase : de test van de generieke   competenties.<BR><BR>§ 3. Een screeningscommissie, voorgezeten door de   inspecteur-generaal, beoordeelt en selecteert de portfolio's in de eerste fase.   De criteria voor deze beoordeling en de principes van samenstelling van de   screeningcommissie worden generiek vastgelegd in een reglement dat in het   onderhandelingscomité wordt onderhandeld. De screeningcommissie stelt een lijst   op van de kandidaten die kunnen deelnemen aan het vervolg van de   selectieprocedure.<BR><BR>Een selectiecommissie die bestaat uit inspectieleden   en externe deskundigen neemt het interview af.<BR><BR>Jobpunt Vlaanderen, of   zijn rechtsopvolger, test de generieke competenties.<BR><BR>§ 4. De   selectiecommissie, vermeld in § 3, tweede lid, stelt een lijst op van de   kandidaten die voor de drie fases geslaagd zijn in volgorde van de mate waarin   de kandidaten beantwoorden aan het vereiste functieprofiel. Die volgorde is   dwingend. De selectiecommissie beslist bij consensus. Indien geen consensus   wordt bereikt, wordt overgegaan tot stemming. Bij staking van stemmen beslist de   voorzitter. De selectiecommissie legt die lijst met inbegrip van een motivatie   voor aan de Vlaamse Regering.<BR><BR>§ 5. Enkel de kandidaten die voor de drie   fases slagen, blijven gedurende zes jaar opgenomen in de algemene   wervingsreserve en gedurende vier jaar in de specifieke wervingsreserve. Deze   periodes beginnen te lopen op het ogenblik dat de kandidaten schriftelijk in   kennis worden gesteld van de opname in de wervingsreserves.<BR><BR>§ 6. Enkel   wie opgenomen is in de specifieke wervingsreserve komt in aanmerking om   voorgedragen te worden voor een aanstelling.<BR><BR>§ 7. Wanneer er een vacature   ontstaat voor het ambt van inspecteur, moet in eerste instantie nagegaan worden   of er zich kandidaten bevinden in de specifieke wervingsreserve voor het   gevraagde functieprofiel. De kandidaten van deze wervingsreserve komen in   volgorde van rangschikking in aanmerking om voorgedragen te worden voor de   vacante functie.<BR><BR>Er wordt steeds rekening gehouden met de   waarborgregeling en met de vereiste samenstelling van de inspectie, zoals   vermeld in artikel 46.
+...
 
 ### ART. 66.
 
-Als een kandidaat wordt toegelaten tot de proeftijd of wordt vastbenoemd, wordt die kandidaat uit de algemene en de specifieke wervingsreserve geschrapt.
+Als een kandidaat tijdelijk wordt aangesteld voor onbepaalde duur of wordt vastbenoemd, wordt die kandidaat uit de wervingsreserve geschrapt.
 
 ### ART. 67.
 
-De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot de   selectieprocedure, de inhoud van het dossier, vermeld in artikel 64, § 2, en de   generieke competenties. Ze bepaalt de samenstelling en de werking van de   selectiecommissie, vermeld in artikel 65, § 3 en artikel 65/1, § 3, tweede lid,   en § 4.
+...
 
 ## Afdeling III. [... (opgeh. decr. 23 maart 2018, art. 39, I: 1 september 2018)]
 
 ### ART. 68.
 
-De Vlaamse Regering laat de kandidaten toe tot de proeftijd, die ingaat op de eerste dag van de maand.
+...
 
 ### ART. 69.
 
-§ 1. De toelating tot de proeftijd wordt schriftelijk vastgelegd. Dit geschrift wordt overhandigd aan het personeelslid, en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum;<br />4° de duur van de proeftijd; <br />5° het functieprofiel waarop de toelating tot de proeftijd is gebaseerd;<br />6° de standplaats.<br /><br />§ 2. Bij ontstentenis van een geschrift bij de aanvang van de proeftijd, wordt het personeelslid geacht toegelaten te zijn tot de proeftijd, voor de opdracht die het werkelijk uitoefent.
+...
 
 ### ART. 70.
 
-§ 1. De proeftijd moet één volledig en effectief te presteren jaar omvatten. Prestaties die geleverd zijn als tijdelijk aangestelde inspecteur, worden van die periode in mindering gebracht. Op basis van de evaluatie van de proeftijd zoals vermeld in artikel 72, kan de eerste evaluator beslissen om de proeftijd met maximaal één jaar te verlengen met het oog op de verdere ontwikkeling van de competenties. <br /><br />§ 2. De inspecteur beschikt tijdens de proeftijd over een contingent van 25 werkdagen waarop hij afwezig kan zijn zonder dat de duur van de proeftijd wordt verlengd. Dit contingent kan in één keer of gefractioneerd gebruikt worden. <br /><br />Indien het aantal dagen afwezigheid tijdens de proeftijd meer bedraagt dan het contingent, wordt de proeftijd verlengd met het aantal dagen waarmee het contingent overschreden wordt. <br /><br />§ 3. Indien de prestaties als tijdelijk inspecteur in mindering worden gebracht van de proeftijd, wordt het contingent, vermeld in § 2, verminderd in verhouding tot de resterende duur van de proeftijd.<br /><br />Indien de eerste evaluator beslist om de proeftijd te verlengen, wordt het contingent, vermeld in § 2, vermeerderd in verhouding tot de verlenging van de proeftijd.
+...
 
 ### ART. 71.
 
-§ 1. Aan het begin van de proeftijd wordt een geïndividualiseerde functiebeschrijving opgesteld conform artikel 107 en artikel 108.<br /><br />§ 2. Tijdens de proeftijd volgt het personeelslid een opleidingsprogramma.
+...
 
 ### ART. 72.
 
-In de loop van de laatste maand van de proeftijd wordt het betrokken personeelslid geëvalueerd conform de bepalingen van artikel 109, § 1, en artikel 111 tot en met artikel 114, § 2. Het evaluatieverslag van de proeftijd wordt besloten met het gemotiveerd voorstel tot :<br />1° benoeming in vast verband; of<br />2° ontslag van het betrokken personeelslid; of<br />3° verlenging van de proeftijd met maximaal één jaar. Deze verlenging kan slechts één maal gebeuren. <br /><br />Indien het evaluatieverslag het gemotiveerd voorstel tot ontslag bevat, moet het, op straffe van nietigheid, de beroepsmogelijkheden bevatten.
+...
 
 ### ART. 73.
 
-Het personeelslid kan binnen zeven kalenderdagen na ontvangst van het gemotiveerd voorstel tot ontslag, een bezwaarschrift indienen tegen het gemotiveerde voorstel tot ontslag bij de raad van beroep, vermeld in artikel 135. <br /><br />De raad van beroep hoort het personeelslid en kan de betrokken evaluatoren horen.<br /><br />De raad van beroep adviseert binnen dertig kalenderdagen na de ontvangst van het bezwaarschrift. Zoniet wordt geacht dat de raad van beroep eenparig adviseert om het voorstel tot ontslag te verwerpen. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing. <br /><br />Indien de raad van beroep geen eenparig advies uitbrengt, wordt het dossier binnen vijftien kalenderdagen voorgelegd aan de Vlaamse Regering die bevoegd is voor de definitieve beslissing over het ontslag na de proeftijd. De Vlaamse Regering beslist binnen dertig kalenderdagen na ontvangst van het advies van de raad van beroep, zoniet wordt de beslissing geacht gunstig te zijn. <br /><br />De proeftijd van het personeelslid dat een beroepsprocedure heeft lopen tegen het ontslag na de proeftijd, wordt verlengd tot op het ogenblik van de definitieve uitspraak over het ontslag na de proeftijd. <br /><br />De Vlaamse Regering bepaalt de nadere regels en de procedure volgens welke het betrokken personeelslid een bezwaarschrift kan indienen tegen het gemotiveerde voorstel tot ontslag.
+...
 
 ### ART. 74.
 
-§ 1. Als het personeelslid binnen de termijn, vermeld in artikel 73, eerste lid, geen beroep aantekent, is het ontslag definitief, nadat die termijn verstreken is. <br /><br />§ 2. Als het personeelslid binnen de termijn, vermeld in artikel 73, eerste lid, beroep aantekent, is het ontslag definitief als respectievelijk de raad van beroep of de Vlaamse Regering beslist om het gemotiveerd voorstel tot ontslag te bevestigen.<br /><br />§ 3. Wanneer het personeelslid wordt ontslagen gelden de opzeggingstermijn en voorwaarden, vermeld in artikel 131. De opzeggingstermijn gaat in op het ogenblik van de definitieve uitspraak in de beroepsprocedure of op het ogenblik dat de termijn van zeven kalenderdagen, vermeld in artikel 73 verstreken is.
+...
 
 ### ART. 75.
 
-Het personeelslid kan een einde maken aan de proeftijd door vrijwillig ontslag. De opzeggingstermijn bedraagt vijftien kalenderdagen, tenzij bij onderlinge overeenkomst een andere termijn wordt overeengekomen.
+...
 
 ### ART. 76.
 
-§ 1. De Vlaamse Regering benoemt het personeelslid dat de proeftijd heeft doorlopen in het ambt van inspecteur als dat personeelslid het voorwerp uitmaakt van een gemotiveerd voorstel tot benoeming in vast verband als vermeld in artikel 72. De vaste benoeming gaat in de eerste kalenderdag volgend op het einde van de proeftijd. <br /><br />§ 2. De Vlaamse Regering benoemt eveneens het personeelslid dat de proeftijd heeft doorlopen, in het ambt van inspecteur als na de toepassing van artikel 73 respectievelijk de raad van beroep of de Vlaamse Regering beslist heeft om het voorstel tot ontslag te verwerpen. De vaste benoeming gaat in de eerste kalenderdag volgend op de beslissing van de raad van beroep, respectievelijk de Vlaamse Regering. <br /><br />§ 3. De vaste benoeming wordt schriftelijk vastgelegd. Dit geschrift wordt overhandigd aan het personeelslid, en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum van de vaste benoeming; <br />4° het functieprofiel waarop de vaste benoeming is gebaseerd;<br />5° de standplaats.<br /><br />§ 4. Bij ontstentenis van een geschrift bij de aanvang van de vaste benoeming, wordt het personeelslid geacht vastbenoemd te zijn in het ambt en voor de opdracht die het werkelijk uitoefent.
+...
 
 ## HOOFDSTUK V. Het ambt van coördinerend inspecteur en inspecteur-generaal
 
@@ -671,29 +793,73 @@ Prestaties die geleverd zijn tijdens een mandaat, worden in aanmerking genomen v
 
 ### ART. 79.
 
-§ 1. Om tot het mandaat van coördinerend inspecteur te worden toegelaten, moet de kandidaat voldoen aan de volgende voorwaarden : <br />1° vastbenoemd inspecteur zijn; <br />2° ten minste drie jaar dienstanciënniteit hebben in het ambt van inspecteur;<br />3° geen definitieve eindevaluatie met eindconclusie onvoldoende in het ambt van inspecteur gekregen hebben;<br />4° zich kandidaat hebben gesteld, zoals bepaald in de vacature. <br /><br />In afwijking van de bepalingen in het eerste lid kan het ambt van coördinerend inspecteur ook bij mandaat worden toegewezen aan een externe kandidaat, wanneer tijdens een eerste selectieprocedure geen kandidaat of geen geschikte kandidaat wordt gevonden bij inspecteurs die voldoen aan de aanwervingsvoorwaarden, vermeld in § 1. De externe kandidaat moet voldoen aan de volgende voorwaarden : <br />1° gedurende ten minste vijf jaar een leidinggevende functie hebben uitgeoefend;<br />2° ten minste acht jaar relevante ervaring hebben in of met het onderwijs;<br />3° zich kandidaat hebben gesteld volgens de vorm en binnen de termijn vermeld in het schrijven waarbij de vacature ter kennis werd gebracht;<br />4° voldoen aan de algemene aanwervingsvoorwaarden zoals vermeld in artikel 49, § 4. <br /><br />§ 2. Om tot het mandaat van inspecteur-generaal te worden toegelaten, moet de kandidaat voldoen aan de volgende voorwaarden : <br />1° vastbenoemd inspecteur of coördinerend inspecteur zijn of een mandaat bekleden van coördinerend inspecteur; <br />2° ten minste drie jaar dienstanciënniteit hebben in het ambt van inspecteur;<br />3° geen definitieve eindevaluatie met eindconclusie onvoldoende in het ambt van inspecteur of coördinerend inspecteur gekregen hebben;<br />4° zich kandidaat hebben gesteld, zoals bepaald in de vacature. <br /><br />In afwijking van de bepalingen in het eerste lid kan het ambt van inspecteur-generaal ook bij mandaat worden toegewezen aan een kandidaat extern aan de inspectie die voldoet aan de volgende voorwaarden : <br />1° gedurende ten minste tien jaar een leidinggevende functie hebben uitgeoefend;<br />2° ten minste vijftien jaar relevante ervaring hebben in of met het onderwijs;<br />3° zich kandidaat hebben gesteld volgens de vorm en binnen de termijn vermeld in het schrijven waarbij de vacature ter kennis werd gebracht;<br />4° voldoen aan de algemene toelatingsvoorwaarden zoals vermeld in artikel 49, § 4.<br /><br />§ 3. De voorzitter van de selectiecommissie, vermeld in artikel 82, § 3, gaat na of de kandidaat voldoet aan de aanwervingsvoorwaarden. Hij baseert zich hiervoor op het dossier, vermeld in artikel 81, § 2. Indien de voorzitter van de selectiecommissie, vermeld in artikel 82, § 3, oordeelt dat de kandidaat niet aan de aanwervingsvoorwaarden voldoet, kan de kandidaat vragen om gehoord te worden binnen zeven kalenderdagen na de kennisname van de beslissing. De voorzitter van de selectiecommissie, vermeld in artikel 82, § 3, hoort in ieder geval de kandidaat voor de test van de generieke competenties.<br /><br />§ 4. De kandidaat moet aan de aanwervingsvoorwaarden voldoen uiterlijk op het ogenblik van de kandidaatstelling voor de test van de generieke competenties.<br /><br />§ 5. De extern geworven inspecteur-generaal wordt beschouwd als een tijdelijk personeelslid, tot op het ogenblik van de vaste benoeming conform artikel 88. <br /><br />§ 6. De Vlaamse Regering bepaalt hoe de dienstanciënniteit, vermeld in § 1 en § 2 wordt berekend.
+§ 1. Om tot het mandaat van coördinerend inspecteur te worden toegelaten, moet de kandidaat voldoen aan de volgende voorwaarden :<br>
+1° vastbenoemd inspecteur zijn;<br>
+2° ten minste drie jaar dienstanciënniteit hebben in het ambt van inspecteur;<br>
+3° geen definitieve eindevaluatie met eindconclusie onvoldoende in het ambt van inspecteur gekregen hebben;<br>
+4° zich kandidaat hebben gesteld, zoals bepaald in de vacature.<br>
+<br>
+In afwijking van de bepalingen in het eerste lid kan het ambt van coördinerend inspecteur ook bij mandaat worden toegewezen aan een externe kandidaat, wanneer tijdens een eerste selectieprocedure geen kandidaat of geen geschikte kandidaat wordt gevonden bij inspecteurs die voldoen aan de aanwervingsvoorwaarden, vermeld in § 1. De externe kandidaat moet voldoen aan de volgende voorwaarden :<br>
+1° gedurende ten minste vijf jaar een leidinggevende functie hebben uitgeoefend;<br>
+2° ten minste acht jaar relevante ervaring hebben in of met het onderwijs;<br>
+3° zich kandidaat hebben gesteld volgens de vorm en binnen de termijn vermeld in het schrijven waarbij de vacature ter kennis werd gebracht;<br>
+4° voldoen aan de algemene aanwervingsvoorwaarden zoals vermeld in artikel 49, § 4.<br>
+<br>
+§ 2. Om tot het mandaat van inspecteur-generaal te worden toegelaten, moet de kandidaat voldoen aan de volgende voorwaarden :<br>
+1° vastbenoemd inspecteur of coördinerend inspecteur zijn of een mandaat bekleden van coördinerend inspecteur;<br>
+2° ten minste drie jaar dienstanciënniteit hebben in het ambt van inspecteur;<br>
+3° geen definitieve eindevaluatie met eindconclusie onvoldoende in het ambt van inspecteur of coördinerend inspecteur gekregen hebben;<br>
+4° zich kandidaat hebben gesteld, zoals bepaald in de vacature.<br>
+<br>
+In afwijking van de bepalingen in het eerste lid kan het ambt van inspecteur-generaal ook bij mandaat worden toegewezen aan een kandidaat extern aan de inspectie die voldoet aan de volgende voorwaarden :<br>
+1° gedurende ten minste tien jaar een leidinggevende functie hebben uitgeoefend;<br>
+2° ten minste vijftien jaar relevante ervaring hebben in of met het onderwijs;<br>
+3° zich kandidaat hebben gesteld volgens de vorm en binnen de termijn vermeld in het schrijven waarbij de vacature ter kennis werd gebracht;<br>
+4° voldoen aan de algemene toelatingsvoorwaarden zoals vermeld in artikel 49, § 4.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. De extern geworven inspecteur-generaal wordt beschouwd als een tijdelijk personeelslid, tot op het ogenblik van de vaste benoeming conform artikel 88.<br>
+<br>
+§ 6. De Vlaamse Regering bepaalt hoe de dienstanciënniteit, vermeld in § 1 en § 2 wordt berekend.
 
 ## Afdeling III. Selectieprocedure
 
 ### ART. 80.
 
-Voor de toegang tot het ambt van coördinerend inspecteur en inspecteur-generaal wordt een selectie georganiseerd die bestaat uit twee fasen : <br />1° de eerste fase : de test van de generieke competenties;<br />2° de tweede fase : het interview.
+Voor de werving in het ambt van coördinerend inspecteur worden op basis van de behoeften vergelijkende selecties georganiseerd volgens een systeem dat naar vorm en inhoud de nodige waarborgen biedt voor de gelijke behandeling, de onafhankelijkheid en de onpartijdigheid.<br>
+<br>
+Artikel 63, § 2, § 3 en § 4, en artikel 64 en 65 zijn van toepassing.
 
 ### ART. 81.
 
-§ 1. De oproep voor de test van de generieke competenties wordt bekendgemaakt volgens de door de Vlaamse Regering bepaalde regels en wordt minstens in het Belgisch Staatsblad gepubliceerd. Deze bekendmaking vermeldt de voorwaarden waaraan de kandidaten moeten voldoen, alsmede de vormvereisten en de termijn voor de kandidaatstelling.<br /><br />§ 2. De kandidaat moet minstens dertig kalenderdagen voor de test van de generieke competenties een dossier indienen. Dit dossier bevat een curriculum vitae en een competentieportfolio. <br /><br />§ 3. Enkel kandidaten die voldoen aan de aanwervingsvoorwaarden, vermeld in artikel 79, kunnen deelnemen aan de selectieprocedure.<br /><br />§ 4. Jobpunt Vlaanderen, of zijn rechtsopvolger test de generieke competenties. <br /><br />§ 5. Jobpunt Vlaanderen, of zijn rechtsopvolger stelt een lijst op van de geslaagde kandidaten. <br /><br />§ 6. De kandidaten die op de bovenvermelde lijst voorkomen, blijven gedurende zes jaar opgenomen in de algemene wervingsreserve voor respectievelijk het ambt van coördinerend inspecteur of inspecteur-generaal. De periode van zes jaar begint te lopen vanaf het ogenblik dat de geslaagde kandidaten in kennis worden gesteld van de opname in de algemene wervingsreserve.<br /><br />§ 7. Met behoud van het in § 6 vermelde, wordt een coördinerend inspecteur of inspecteur-generaal die tijdelijk is aangesteld niet uit de algemene wervingsreserve geschrapt gedurende de periode van de tijdelijke aanstelling.
+§ 1. Conform artikel 65, § 1, sluit de inspecteur-generaal voorafgaand aan de selectie de kandidaten uit die niet voldoen aan de statutaire voorwaarden, vermeld in artikel 49. Hij deelt de beslissing tot uitsluiting schriftelijk mee aan de betrokken kandidaten.<br>
+<br>
+Bij een uitsluiting kan een kandidaat binnen zeven kalenderdagen nadat hij op de hoogte is gebracht van de beslissing, vragen om gehoord te worden.<br>
+<br>
+§ 2. De selectie van coördinerend-inspecteur verloopt conform het selectiereglement, vermeld in artikel 63, § 3 en § 4.
 
 ### ART. 82.
 
-§ 1. Alle kandidaten uit de algemene wervingsreserve ontvangen een schriftelijke oproep voor het interview. Die oproep vermeldt het ambt waarover het gaat en geeft aan of het om een mandaat of een tijdelijke aanstelling gaat.<br /><br />§ 2. Enkel de kandidaten uit de algemene wervingsreserve kunnen deelnemen aan het interview. <br /><br />§ 3. Het interview wordt afgenomen door een selectiecommissie, die verschillend kan zijn afhankelijk van het ambt. <br /><br />§ 4. De kandidaten stellen een beleidsnota op waarbij ze de prioriteiten voorstellen die ze wensen te leggen in het ambt waarvoor zij kandideren.<br /><br />§ 5. De commissie, vermeld in § 3, stelt een lijst op van de geslaagde kandidaten in volgorde van geschiktheid. Die volgorde is dwingend. De commissie beslist bij consensus. Indien geen consensus wordt bereikt, wordt overgegaan tot stemming. Bij staking van stemmen beslist de voorzitter. De commissie legt die lijst met inbegrip van een motivatie voor aan de Vlaamse Regering.
+Met behoud van toepassing van artikel 77, 78 en 79 van dit decreet zijn de bepalingen van deel III "Recrutering en selectie van het personeel", hoofdstuk 2, "De selectie via een objectief wervingssysteem", van het Vlaams personeelsstatuut van 13 januari 2006 van toepassing voor de werving in het ambt van inspecteur-generaal.
 
 ### ART. 83.
 
-§ 1. De Vlaamse Regering wijst het mandaat toe. <br /><br />§ 2. De toewijzing van het mandaat wordt schriftelijk vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum van het mandaat; <br />4° de standplaats.<br /><br />§ 3. Bij ontstentenis van een geschrift bij de aanvang van het mandaat, wordt het personeelslid geacht het mandaat te bekleden in het ambt en voor de opdracht die het werkelijk uitoefent.
+§ 1. De Vlaamse Regering wijst de mandaten van coördinerend-inspecteur en van inspecteur-generaal toe.<br>
+<br>
+§ 2. De toewijzing van het mandaat wordt schriftelijk vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br>
+1° de identiteit van het personeelslid;<br>
+2° het uit te oefenen ambt;<br>
+3° de ingangsdatum van het mandaat;<br>
+4° de standplaats.<br>
+<br>
+§ 3. Bij ontstentenis van een geschrift bij de aanvang van het mandaat, wordt het personeelslid geacht het mandaat te bekleden in het ambt en voor de opdracht die het werkelijk uitoefent.
 
 ### ART. 84.
 
-De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot de selectieprocedure, de inhoud van het dossier, vermeld in artikel 81, § 2, en de generieke competenties. Ze bepaalt de samenstelling en de werking van de selectiecommissie, vermeld in artikel 82, § 3
+...
 
 ## Afdeling IV. Einde mandaat
 
@@ -765,7 +931,7 @@ De Vlaamse Regering kan binnen de toegekende enveloppe een personeelslid tijdeli
 
 ### ART. 90.
 
-§ 1. Voor de aanstelling van bepaalde duur wordt de selectieprocedure gevolgd zoals vermeld in artikel 63 tot en met artikel 65/1.<br>
+§ 1. ...<br>
 <br>
 § 2. Het eerste jaar van de tijdelijke aanstelling van bepaalde duur volgt het tijdelijk personeelslid een opleidingsprogramma, indien het voor de tijdelijke aanstelling van bepaalde duur nog niet was aangesteld bij de inspectie.
 
@@ -775,7 +941,7 @@ De Vlaamse Regering kan binnen de toegekende enveloppe een personeelslid tijdeli
 
 ### ART. 92.
 
-Een aanstelling van bepaalde duur heeft een minimale duur van een jaar.
+Een aanstelling van bepaalde duur heeft een&nbsp;duur van een jaar.
 
 ### ART. 93.
 
@@ -787,7 +953,12 @@ De tijdelijke aanstelling die volgt op twee aaneensluitende tijdelijke aanstelli
 
 ### ART. 95.
 
-De aanstelling van een personeelslid dat is aangesteld voor bepaalde duur wordt zonder opzegging beëindigd :<br />1° op het ogenblik dat het personeelslid tot de proeftijd toegelaten of vastbenoemd wordt; <br />2° als het personeelslid een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br />3° na afloop van de aanstellingsperiode zonder dat hiervoor formaliteiten te vervullen zijn;<br />4° om dringende redenen, onder de voorwaarden vermeld in artikel 96;<br />5° door vrijwillig ontslag.
+De aanstelling van een personeelslid dat is aangesteld voor bepaalde duur wordt zonder opzegging beëindigd :<br>
+1° op het ogenblik dat het personeelslid vastbenoemd wordt;<br>
+2° als het personeelslid een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br>
+3° na afloop van de aanstellingsperiode zonder dat hiervoor formaliteiten te vervullen zijn;<br>
+4° om dringende redenen, onder de voorwaarden vermeld in artikel 96;<br>
+5° door vrijwillig ontslag.
 
 ### ART. 96.
 
@@ -809,13 +980,30 @@ De Vlaamse Regering kan binnen de toegekende enveloppe een personeelslid tijdeli
 
 § 1. Elke tijdelijke aanstelling voor onbepaalde duur in het ambt van inspecteur moet schriftelijk worden vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum van de aanstelling; <br />4° de aard van de tijdelijke aanstelling;<br />5° het functieprofiel waarop de aanstelling is gebaseerd;<br />6° de standplaats.<br /><br />§ 2. Bij ontstentenis van een geschrift bij aanvang van de tijdelijke aanstelling, wordt het personeelslid geacht aangesteld te zijn voor onbepaalde duur in het ambt en voor de opdracht die het werkelijk uitoefent.
 
+### ART 99bis.
+
+§ 1. De Vlaamse Regering benoemt het personeelslid dat tijdelijk is aangesteld voor onbepaalde duur in het ambt van inspecteur als dat personeelslid het voorwerp uitmaakt van een gemotiveerd voorstel tot benoeming in vast verband.<br>
+<br>
+§ 2. De vaste benoeming wordt schriftelijk vastgelegd. Dit geschrift wordt overhandigd aan het personeelslid en vermeldt ten minste :<br>
+1° de identiteit van het personeelslid;<br>
+2° het uit te oefenen ambt;<br>
+3° de ingangsdatum van de vaste benoeming;<br>
+4° het functieprofiel waarop de vaste benoeming is gebaseerd;<br>
+5° de standplaats.<br>
+<br>
+§ 3. Bij ontstentenis van een geschrift bij de aanvang van de vaste benoeming, wordt het personeelslid geacht benoemd te zijn in het ambt en voor de opdracht die het werkelijk uitvoert.
+
 ### ART. 100.
 
 § 1. Het personeelslid dat tijdelijk is aangesteld voor onbepaalde duur in het ambt van inspecteur, wordt op zijn verzoek in dat ambt benoemd als aan de volgende voorwaarden is voldaan :<br />1° het personeelslid heeft de leeftijd van ten minste 55 jaar bereikt op het ogenblik van de vaste benoeming;<br />2° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste vier jaar het ambt van inspecteur uitgeoefend;<br />3° het personeelslid heeft geen definitieve evaluatie met eindconclusie onvoldoende gekregen in de vier jaar die de aanvraag tot vaste benoeming voorafgaan. <br /><br />§ 2. De vaste benoeming gaat steeds in op de eerste dag van de maand die volgt op de aanvraag bij de Vlaamse Regering.<br /><br />§ 3. Indien op het ogenblik dat het personeelslid de vaste benoeming aanvraagt, een beroepsprocedure loopt tegen een evaluatie met eindconclusie onvoldoende of tegen een tuchtstraf, wordt de vaste benoeming uitgesteld tot er een definitieve uitspraak in deze zaak is. Indien na de beroepsprocedure de evaluatie met eindconclusie onvoldoende of de tuchtstraf niet wordt bevestigd gaat de vaste benoeming in op de eerste dag van de maand die volgt op het ogenblik van de definitieve uitspraak. <br /><br />§ 4. De vaste benoeming moet schriftelijk worden vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum; <br />4° het functieprofiel waarop de vaste benoeming is gebaseerd;<br />5° de standplaats.<br /><br />§ 5. Bij ontstentenis van een geschrift bij aanvang van de vaste benoeming, wordt het personeelslid geacht vastbenoemd te zijn in het ambt en voor de opdracht die het werkelijk uitoefent.
 
 ### ART. 101.
 
-De aanstelling van een personeelslid dat tijdelijk is aangesteld voor onbepaalde duur wordt zonder opzegging beëindigd :<br />1° op het ogenblik dat het personeelslid tot de proeftijd toegelaten of vastbenoemd wordt; <br />2° als het personeelslid gedurende twee opeenvolgende evaluaties of drie keer tijdens de loopbaan in hetzelfde ambt bij de inspectie een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br />3° als het personeelslid ontslagen wordt na een tuchtmaatregel; <br />4° door vrijwillig ontslag.
+De aanstelling van een personeelslid dat tijdelijk is aangesteld voor onbepaalde duur wordt zonder opzegging beëindigd :<br>
+1° op het ogenblik dat het personeelslid vastbenoemd wordt;<br>
+2° als het personeelslid gedurende twee opeenvolgende evaluaties of drie keer tijdens de loopbaan in hetzelfde ambt bij de inspectie een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br>
+3° als het personeelslid ontslagen wordt na een tuchtmaatregel;<br>
+4° door vrijwillig ontslag.
 
 ## Afdeling III. De tijdelijke aanstelling van bepaalde duur in het ambt van coördinerend inspecteur of inspecteur-generaal
 
@@ -863,6 +1051,10 @@ Elke functiebeschrijving of wijziging wordt opgemaakt in onderling overleg tusse
 
 De inspecteur-generaal wordt geëvalueerd zoals bepaald in artikel V.13 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid.
 
+### ART 110/1.
+
+De artikelen VII. 35 en VII.39 van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid zijn van toepassing op de inspecteur-generaal voor zover hij deel uitmaakt van de beleidsraad van het beleidsdomein onderwijs en het management orgaan.
+
 ## Afdeling III. De evaluatie
 
 ### ART. 111.
@@ -905,13 +1097,25 @@ De gemotiveerde beslissing na het beroep wordt bij het evaluatiedossier van de g
 
 ### ART. 120.
 
-§ 1. Elk personeelslid dat tijdelijk is aangesteld of vast benoemd is in het ambt van inspecteur moet eenmaal per jaar geëvalueerd worden in de eerste drie jaar van zijn loopbaan bij de inspectie. <br /><br />De evaluatie van de proeftijd wordt beschouwd als een evaluatie. <br /><br />§ 2. Vanaf het vierde jaar moet het personeelslid dat tijdelijk is aangesteld of vast benoemd is in het ambt van inspecteur minstens om de drie jaar geëvalueerd worden, tenzij het personeelslid vraagt om sneller geëvalueerd te worden.<br /><br />Als een personeelslid dat vast benoemd is in het ambt van inspecteur een definitieve evaluatie met eindconclusie onvoldoende krijgt, moet het na één jaar opnieuw geëvalueerd worden. <br /><br />§ 3. Het personeelslid dat een mandaat bekleedt of tijdelijk is aangesteld in het ambt van coördinerend inspecteur of inspecteur-generaal moet jaarlijks worden geëvalueerd.<br /><br />§ 4. De eindevaluatie van het mandaat vervangt in het desbetreffend jaar de evaluatie zoals bedoeld in § 3. <br /><br />§ 5. Indien er geen evaluatie heeft plaatsgevonden, wordt de evaluatie geacht gunstig te zijn.
+§ 1. Elk personeelslid dat tijdelijk is aangesteld of vast benoemd is in het ambt van inspecteur moet eenmaal per jaar geëvalueerd worden in de eerste drie jaar van zijn loopbaan bij de inspectie.<br>
+<br>
+§ 2. Vanaf het vierde jaar moet het personeelslid dat tijdelijk is aangesteld of vast benoemd is in het ambt van inspecteur minstens om de drie jaar geëvalueerd worden, tenzij het personeelslid vraagt om sneller geëvalueerd te worden.<br>
+<br>
+Als een personeelslid dat vast benoemd is in het ambt van inspecteur een definitieve evaluatie met eindconclusie onvoldoende krijgt, moet het na één jaar opnieuw geëvalueerd worden.<br>
+<br>
+§ 3. Het personeelslid dat een mandaat bekleedt of tijdelijk is aangesteld in het ambt van coördinerend inspecteur of inspecteur-generaal moet jaarlijks worden geëvalueerd.<br>
+<br>
+§ 4. De eindevaluatie van het mandaat vervangt in het desbetreffend jaar de evaluatie zoals bedoeld in § 3.<br>
+<br>
+§ 5. Indien er geen evaluatie heeft plaatsgevonden, wordt de evaluatie geacht gunstig te zijn.
 
 ## HOOFDSTUK VIII. Preventieve schorsing
 
 ### ART. 121.
 
-De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden die :<br />- tijdelijk zijn aangesteld voor onbepaalde duur;<br />- tot de proeftijd zijn toegelaten;<br />- vast benoemd zijn.
+De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden die :<br>
+- tijdelijk zijn aangesteld voor onbepaalde duur;<br>
+- vast benoemd zijn.
 
 ### ART. 122.
 
@@ -925,7 +1129,9 @@ Het personeelslid kan tegen de preventieve schorsing of, als dat van toepassing 
 
 ### ART. 124.
 
-De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden die :<br />- tijdelijk zijn aangesteld voor onbepaalde duur;<br />- tot de proeftijd zijn toegelaten;<br />- vast benoemd zijn.
+De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden die :<br>
+- tijdelijk zijn aangesteld voor onbepaalde duur;<br>
+- vast benoemd zijn.
 
 ## Afdeling I. Tuchtstraffen
 
@@ -955,7 +1161,11 @@ De afhouding of de halvering van het salaris of van het wachtgeld of de toekenni
 
 ### ART. 131.
 
-In geval van ontslag of afzetting bij tuchtmaatregel wordt het personeelslid dat tot de proeftijd is toegelaten of het vastbenoemd personeelslid definitief uit zijn ambt verwijderd na een opzeggingstermijn waarvan de duur wordt vastgesteld afhankelijk van het aantal arbeidsdagen dat vereist is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering.<br /><br />Tijdens die opzeggingstermijn wordt het personeelslid geacht als tijdelijk te zijn aangesteld en wordt het met een opdracht belast. Het personeelslid geniet het brutoactiviteitssalaris of het brutowachtgeld dat verbonden is aan het ambt waarin het vast benoemd was. <br /><br />Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.
+In geval van ontslag of afzetting bij tuchtmaatregel wordt het vastbenoemd personeelslid definitief uit zijn ambt verwijderd na een opzeggingstermijn waarvan de duur wordt vastgesteld afhankelijk van het aantal arbeidsdagen dat vereist is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering.<br>
+<br>
+Tijdens die opzeggingstermijn wordt het personeelslid geacht als tijdelijk te zijn aangesteld en wordt het met een opdracht belast. Het personeelslid geniet het brutoactiviteitssalaris of het brutowachtgeld dat verbonden is aan het ambt waarin het vast benoemd was.<br>
+<br>
+Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.
 
 ### ART. 132.
 
@@ -979,7 +1189,14 @@ Bij het Vlaams ministerie van Onderwijs en Vorming wordt een raad van beroep ing
 
 ### ART. 136.
 
-De raad van beroep heeft tot opdracht advies uit te brengen in beroepsprocedures tegen :<br />1° een tuchtstraf; <br />2° een evaluatie met eindconclusie onvoldoende, met uitzondering van deze van de inspecteur-generaal;<br />3° een voorstel tot ontslag na de beëindiging van de proeftijd;<br />4° een ontslag om dringende redenen;<br />5° een preventieve schorsing of, als dat van toepassing is, tegen de afhouding van salaris. <br /><br />De raad van beroep heeft een adviserende bevoegdheid. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.
+De raad van beroep heeft tot opdracht advies uit te brengen in beroepsprocedures tegen :<br>
+1° een tuchtstraf;<br>
+2° een evaluatie met eindconclusie onvoldoende, met uitzondering van deze van de inspecteur-generaal;<br>
+3° ...;<br>
+4° een ontslag om dringende redenen;<br>
+5° een preventieve schorsing of, als dat van toepassing is, tegen de afhouding van salaris.<br>
+<br>
+De raad van beroep heeft een adviserende bevoegdheid. Bij eenparigheid is het advies van de raad van beroep bindend en neemt de raad van beroep de eindbeslissing.
 
 ### ART. 137.
 
@@ -1079,11 +1296,35 @@ Het wachtgeld, de toelagen en de vergoedingen die eventueel aan dat personeelsli
 
 ### ART. 149.
 
-§ 1. Voor zover dat niet anders is bepaald, wordt het personeelslid dat tijdelijk is aangesteld, tot de proeftijd is toegelaten, vastbenoemd is of een mandaat bekleedt, zonder opzegging uit zijn ambt ontslagen als : <br />1° hij niet meer voldoet aan een van de volgende voorwaarden : <br />a) onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens een door de Vlaamse Regering te verlenen vrijstelling;<br />b) de burgerlijke en politieke rechten genieten;<br />c) voldoen aan de dienstplichtwetten;<br />2° hij na een geoorloofde afwezigheid zonder geldige redenen, behoudens overmacht, zijn dienst niet hervat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft; <br />3° hij zonder geldige redenen zijn betrekking verlaat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft; <br />4° hij zich bevindt in een van de gevallen waarin de toepassing van de burgerlijke wetten en van de strafwetten, de ambtsneerlegging tot gevolg heeft; <br />5° is vastgesteld dat hij wegens een overeenkomstig de wet, het decreet of een reglement erkende blijvende arbeidsongeschiktheid niet meer in staat is zijn ambt naar behoren te vervullen. <br /><br />§ 2. Met behoud van de toepassing van de bepalingen in § 1, wordt een vastbenoemd personeelslid uit zijn ambt ontslagen als : <br />1° hij gedurende twee opeenvolgende evaluaties of drie keer tijdens de loopbaan in hetzelfde ambt bij de inspectie een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br />2° hij wordt ontslagen of afgezet na een tuchtmaatregel. <br /><br />Bij ontslag van een vastbenoemd personeelslid op grond van § 2, 1° en 2°, wordt een opzeggingstermijn bepaald waarvan de duur wordt vastgesteld volgens het aantal arbeidsdagen dat vereist is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering.<br /><br />Tijdens die opzeggingstermijn :<br />1° wordt het personeelslid beschouwd als tijdelijk aangesteld in zijn ambt;<br />2° geniet het personeelslid het brutoactiviteitssalaris dat verbonden is aan het ambt waarin het vastbenoemd was. <br /><br />Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.
+§ 1. Voor zover dat niet anders is bepaald, wordt het personeelslid dat tijdelijk is aangesteld, vastbenoemd is of een mandaat bekleedt, zonder opzegging uit zijn ambt ontslagen als :<br>
+1° hij niet meer voldoet aan een van de volgende voorwaarden :<br>
+a) onderdaan zijn van een lidstaat van de Europese Unie of van de Europese Vrijhandelsassociatie, behoudens een door de Vlaamse Regering te verlenen vrijstelling;<br>
+b) de burgerlijke en politieke rechten genieten;<br>
+c) voldoen aan de dienstplichtwetten;<br>
+2° hij na een geoorloofde afwezigheid zonder geldige redenen, behoudens overmacht, zijn dienst niet hervat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft;<br>
+3° hij zonder geldige redenen zijn betrekking verlaat en gedurende een ononderbroken periode van meer dan tien kalenderdagen afwezig blijft;<br>
+4° hij zich bevindt in een van de gevallen waarin de toepassing van de burgerlijke wetten en van de strafwetten, de ambtsneerlegging tot gevolg heeft;<br>
+5° is vastgesteld dat hij wegens een overeenkomstig de wet, het decreet of een reglement erkende blijvende arbeidsongeschiktheid niet meer in staat is zijn ambt naar behoren te vervullen.<br>
+<br>
+§ 2. Met behoud van de toepassing van de bepalingen in § 1, wordt een vastbenoemd personeelslid uit zijn ambt ontslagen als :<br>
+1° hij gedurende twee opeenvolgende evaluaties of drie keer tijdens de loopbaan in hetzelfde ambt bij de inspectie een definitieve evaluatie met eindconclusie onvoldoende heeft gekregen;<br>
+2° hij wordt ontslagen of afgezet na een tuchtmaatregel.<br>
+<br>
+Bij ontslag van een vastbenoemd personeelslid op grond van § 2, 1° en 2°, wordt een opzeggingstermijn bepaald waarvan de duur wordt vastgesteld volgens het aantal arbeidsdagen dat vereist is om aanspraak te kunnen maken op uitkeringen in het kader van de werkloosheidsreglementering en van de verplichte ziekte- en invaliditeitsverzekering.<br>
+<br>
+Tijdens die opzeggingstermijn :<br>
+1° wordt het personeelslid beschouwd als tijdelijk aangesteld in zijn ambt;<br>
+2° geniet het personeelslid het brutoactiviteitssalaris dat verbonden is aan het ambt waarin het vastbenoemd was.<br>
+<br>
+Het personeelslid kan geheel of gedeeltelijk afstand doen van die opzeggingstermijn.
 
 ### ART. 150.
 
-Voor zover dat niet anders is bepaald, geven de volgende situaties voor   een tijdelijk aangesteld, tot de proeftijd toegelaten en een vastbenoemd   personeelslid eveneens aanleiding tot definitieve ambtsneerlegging of tot   beëindiging van de tijdelijke aanstelling :<BR>1° het vrijwillige ontslag. De   opzeggingstermijn bedraagt vijftien kalenderdagen, tenzij bij onderlinge   overeenkomst een andere termijn wordt overeengekomen. Het personeelslid deelt   het vrijwillig ontslag mee per aangetekende brief; <BR>2° de pensionering wegens   het bereiken van de leeftijdsgrens.<BR><BR>In afwijking van artikel 150, eerste   lid, 2°, en zonder afbreuk te doen aan de bepalingen van artikel 62, § 2 en § 3,   eindigt de aanstelling niet na het bereiken van de leeftijdsgrens indien het   betrokken personeelslid en de inspecteur-generaal overeenkomen de aanstelling te   verlengen. Dergelijke verlenging van de aanstelling geldt telkens enkel voor de   duur van maximum één jaar.
+Voor zover dat niet anders is bepaald, geven de volgende situaties voor een tijdelijk aangesteld en een vastbenoemd personeelslid eveneens aanleiding tot definitieve ambtsneerlegging of tot beëindiging van de tijdelijke aanstelling :<br>
+1° het vrijwillige ontslag. De opzeggingstermijn bedraagt vijftien kalenderdagen, tenzij bij onderlinge overeenkomst een andere termijn wordt overeengekomen. Het personeelslid deelt het vrijwillig ontslag mee per aangetekende brief;<br>
+2° de pensionering wegens het bereiken van de leeftijdsgrens.<br>
+<br>
+In afwijking van artikel 150, eerste lid, 2°, en zonder afbreuk te doen aan de bepalingen van artikel 62, § 2 en § 3, eindigt de aanstelling niet na het bereiken van de leeftijdsgrens indien het betrokken personeelslid en de inspecteur-generaal overeenkomen de aanstelling te verlengen. Dergelijke verlenging van de aanstelling geldt telkens enkel voor de duur van maximum één jaar.
 
 ### ART. 151.
 
@@ -1383,11 +1624,27 @@ In artikel 10, § 4, van het decreet van 10 juli 2008 betreffende het stelsel va
 
 ### ART. 215.
 
-In afwachting van de vaststelling door de Vlaamse Regering van de nadere regels vermeld in artikel 12, blijft het besluit van de Vlaamse Regering van 22 oktober 1996 tot regeling van de procedure voor de toewijzing van nascholingsprojecten op initiatief van de Vlaamse Regering van toepassing.
+§ 1. De instellingen en CLB's die uiterlijk op 30 juni 2018 een beperkt gunstig advies hebben gekregen, worden geacht een "gunstig advies" als vermeld in artikel 39, § 5, 1°, te hebben gekregen.<br>
+<br>
+§ 2. De instellingen en CLB's die uiterlijk op 30 juni 2018 een ongunstig advies hebben gekregen, worden geacht een "ongunstig advies" als vermeld in artikel 39, § 5, 2°, a), te hebben gekregen.<br>
+<br>
+Een nieuwe doorlichting volgt binnen een periode van negentig kalenderdagen na de periode van opschorting van de procedure tot intrekking van de erkenning, die is meegedeeld door de Vlaamse Regering aan het bestuur.<br>
+<br>
+§ 3. De doorlichting, vermeld in paragraaf 2, wordt uitgevoerd door een paritair college van inspecteurs dat de Vlaamse Regering heeft samengesteld. Dat college bestaat voor de helft uit inspectieleden die afkomstig zijn uit het vrij onderwijs, en voor de helft uit inspectieleden die afkomstig zijn uit het officieel onderwijs. De Vlaamse Regering kan aan dat paritair college een voorzitter toevoegen, die niet behoort tot de onderwijsinspectie.<br>
+<br>
+Het paritair college kan een beroep doen op externe deskundigen. De externe deskundige neemt niet deel aan de deliberaties. Zijn rapport, dat hij onafhankelijk opstelt, wordt bij de eindbespreking van het paritair college ter bespreking voorgelegd.<br>
+<br>
+Bij staking van stemmen bepaalt de inspecteur-generaal het advies nadat hij het college heeft gehoord.<br>
+<br>
+§ 4. Na de doorlichting brengt het paritair college aan de Vlaamse Regering een definitief advies uit over de verdere erkenning van de instelling. Dat advies kan alleen betrekking hebben op de elementen die in het eerdere advies expliciet zijn opgesomd.<br>
+<br>
+Het advies, dat betrekking heeft op de hele instelling of op een of meer structuuronderdelen, kan op twee manieren worden uitgebracht :<br>
+1° "gunstig advies" als vermeld in artikel 39, § 5, 1° ;<br>
+2° "ongunstig advies" als vermeld in artikel 39, § 5, 2°.
 
 ### ART. 216.
 
-Het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten, wordt opgeheven.
+...
 
 ### ART. 217.
 
