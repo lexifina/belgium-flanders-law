@@ -15,20 +15,20 @@ In dit besluit wordt verstaan onder :<br>
 2° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004;<br>
 3° de raad van bestuur : de raad van bestuur van de VDAB, vermeld in artikel 7 van het decreet van 7 mei 2004;<br>
 4° arbeidsmarktregie : het operationaliseren van de door de Vlaamse overheid toevertrouwde opdrachten op het vlak van arbeidsmarktbeleid, het in kaart brengen en ordenen van de activiteiten van de betrokken arbeidsmarktactoren, het verwezenlijken van de afstemming tussen de betrokken actoren door het opnemen van een coördinerende rol, het bewerkstelligen van oplossingen en het opzetten van een transparant en permanent arbeidsmarktgegevenssysteem;<br>
-5° trajectbegeleiding : het geheel van adviezen en diensten dat erop gericht is niet-werkende werkzoekenden te begeleiden met het oog op de verdere ontwikkeling van hun loopbaan of de participatie in een traject waarin de meting van competenties centraal staat;<br>
+5° trajectbegeleiding : het geheel van adviezen en diensten dat erop gericht is niet-werkende werkzoekenden te begeleiden met het oog op de verdere ontwikkeling van hun loopbaan of de participatie in een traject waarin de meting van competenties centraal staat en de competenties versterkt en bestendigd kunnen worden;<br>
 6° competentieontwikkeling : elke maatregel die tot doel heeft een persoon bekwaamheid te verstrekken om beroepsarbeid te verrichten;<br>
 7° de werkzoekende : elke persoon die is ingeschreven bij de VDAB, met inbegrip van de personen die op zoek zijn naar een zelfstandige beroepsactiviteit;<br>
 8° de niet-werkende werkzoekende :<br>
 a) de werkzoekende die geen betaalde beroepsarbeid verricht;<br>
 b) de onvrijwillig deeltijdse werknemer, vermeld in artikel 29 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br>
-c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling als vermeld in artikel 87, waarvoor hij vrijstelling heeft gekregen van de directeur van het werkloosheidsbureau;<br>
+c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling als vermeld in artikel 87, waarvoor hij vrijstelling heeft gekregen van de VDAB;<br>
 9° de cursist : de persoon die een competentieontwikkeling als vermeld in artikel 61, 1° tot en met 6°, volgt;<br>
 10° de uitkeringsgerechtigde werkloze : de persoon die voldoet aan de voorwaarden om werkloosheidsuitkeringen te ontvangen;<br>
 11° de werknemer : de persoon die tewerkgesteld is met een arbeidsovereenkomst of de persoon die zonder dat hij door een arbeidsovereenkomst is verbonden, tegen loon arbeidsprestaties verricht onder het gezag van een andere persoon of die arbeid verricht onder vergelijkbare voorwaarden;<br>
 12° personen met een indicatie van een arbeidshandicap : de persoon, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap;<br>
 13° het mandaat : de opdracht, gegeven door de raad van bestuur aan natuurlijke personen of rechtspersonen, om taken uit te voeren op het vlak van kosteloze arbeidsbemiddeling, kosteloze trajectbegeleiding of kosteloze competentieontwikkeling;<br>
 14° ...;<br>
-15° oriënterende stage : stage voor werkzoekenden, die niet past in het kader van van een opleiding, maar in hun beroeps- of loopbaanoriëntatie. De stage vindt plaats tijdens een trajectbegeleiding of activering en kan aan een opleiding voorafgaan. Die stagevorm heeft tot doel een individueel proces te ondersteunen en te versterken, waarbij een werkzoekende zicht krijgt op de concrete arbeidsmarkt, zijn interesses en aanwezige competenties, en waarbij die competenties getest en geactiveerd kunnen worden met het oog op verdere stappen naar tewerkstelling;<br>
+15° beroepsverkennende stage : stage voor werkzoekenden, die niet past in het kader van van een opleiding, maar in hun beroeps- of loopbaanoriëntatie. De stage vindt plaats tijdens een trajectbegeleiding of activering en kan aan een opleiding voorafgaan. Die stagevorm heeft tot doel een individueel proces te ondersteunen en te versterken, waarbij een werkzoekende zicht krijgt op de concrete arbeidsmarkt, zijn interesses en aanwezige competenties, en waarbij die competenties getest en geactiveerd kunnen worden met het oog op verdere stappen naar tewerkstelling;<br>
 16° activering : proces waarbij de werkzoekende, in samenwerking met een begeleider, de medische, mentale, psychische, psychiatrische en sociale problemen die zijn inschakeling op de arbeidsmarkt in de weg staan, probeert op te lossen;<br>
 17° ad-hoctewerkstellingscel : samenwerkingsverband dat naar aanleiding van de herstructurering van een onderneming werd opgericht als feitelijke vereniging of als autonome rechtpersoon, waarbij minstens de onderneming, minstens een van de representatieve werknemersorganisaties en de VDAB betrokken zijn;<br>
 18° permanente tewerkstellingscel : de tewerkstellingscel in beheer van de VDAB waarin verschillende ondernemingen in herstructurering participeren;<br>
@@ -36,12 +36,34 @@ c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling al
 20° outplacementbegeleiding : het geheel van begeleidende diensten en adviezen die in opdracht van de werkgever door een derde individueel of in groep worden verleend om een werknemer in staat te stellen zelf binnen een zo kort mogelijke termijn een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien;<br>
 21° het outplacementbureau : het bureau voor outplacementactiviteiten, vermeld in het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<br>
 22° administratieve overheid : de overheid, vermeld in artikel 14 van de gecoördineerde wetten op de Raad van State;<br>
-23° bemiddelaar: personeelslid van de VDAB dat de nodige initiatieven neemt om de werkzoekende te ondersteunen bij de verbetering van zijn tewerkstellingsmogelijkheden;<br>
+23° bemiddelaar: personeelslid van de VDAB dat de nodige initiatieven neemt om de werkzoekende te ondersteunen bij de verbetering van zijn tewerkstellingsmogelijkheden en de opvolging van het werkzoekgedrag;<br>
 24° controledienst: de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen van de bijbehorende sanctie;<br>
 25° partnerorganisaties: organisaties waarmee de VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of samenwerkingsovereenkomst;<br>
 26° RVA: de Rijksdienst voor Arbeidsvoorziening;<br>
 27° werkervaringsstage: een stage voor een werkzoekende op een reële werkvloer, die als voornaamste doel heeft om de werkzoekende generieke competenties te laten opbouwen die van elke werknemer verwacht worden, los van de functie van de werknemer, en om de werkzoekende werkervaring te laten opdoen, zodat een eerste stap naar herintrede op de arbeidsmarkt gezet kan worden;<br>
-28° activeringsstage: een stage die openstaat voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert. De stage oriënteert de werkzoekende naar betaald werk en bereidt de werkzoekende voor op betaald werk door zijn algemene basisvaardigheden te versterken en door drempels weg te werken die de inschakeling op de arbeidsmarkt bemoeilijken of verhinderen.<br>
+28° activeringsstage: een stage die openstaat voor werkzoekenden bij wie een medisch, mentaal, psychisch, psychiatrisch of sociaal probleem, of een combinatie van die problemen, de inschakeling op de arbeidsmarkt verhindert. De stage oriënteert de werkzoekende naar betaald werk en bereidt de werkzoekende voor op betaald werk door zijn algemene basisvaardigheden te versterken en door drempels weg te werken die de inschakeling op de arbeidsmarkt bemoeilijken of verhinderen;<br>
+29° beroepsinlevingsstage: een betaalde opleiding op de werkvloer waarbij de cursist competenties en werkervaring verwerft en waarbij de VDAB geen begeleiding biedt;<br>
+30° tewerkstellingsbreuk: het gemiddeld aantal uren per week van de werknemer gedeeld door het gemiddeld aantal uren per week van de maatpersoon;<br>
+31° kwetsbare werknemer:<br>
+a) de volgende verplicht ingeschreven deeltijdse werknemers:<br>
+1) de deeltijds werkenden met inkomensgarantie-uitkering;<br>
+2) de deeltijds werkende werkzoekenden in hun beroepsinschakelingstijd;<br>
+b) de volgende werknemers in werkonzekerheid:<br>
+1) de werknemers die het slachtoffer zijn van collectief ontslag of herstructurering, of de werknemers van ondernemingen in moeilijkheden;<br>
+2) de werknemers van wie de arbeidsovereenkomst geheel of gedeeltelijk geschorst is ingevolge tijdelijke werkloosheid;<br>
+3) de werknemers in hun opzeggingstermijn;<br>
+4) de werknemers in tijdelijke arbeid;<br>
+c) de werknemers in een van de volgende tewerkstellingsprogramma's:<br>
+1) een tewerkstellingsprogramma in het kader van collectief maatwerk als vermeld in het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+2) een tewerkstellingsprogramma in het kader van de lokale diensteneconomie, vermeld in artikel 3, 4°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+3) een tewerkstellingsprogramma als vermeld in artikel 60, § 7, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
+4) een tewerkstellingsprogramma in het kader van het wijk-werken, vermeld in artikel 3, 9°, van het Wijk-werkendecreet van 7 juli 2017;<br>
+5) een tewerkstellingsprogramma in het kader van sociale inschakelingseconomie als vermeld in artikel 59 van de wet van 26 maart 1999 betreffende het Belgisch actieplan voor de werkgelegenheid 1998 en houdende diverse bepalingen;<br>
+d) werknemers die om medische redenen, erkend door een arbeidsgeneesheer conform boek I, titel, 4 van de codex over het welzijn op het werk, hun huidige functie niet meer kunnen uitoefenen;<br>
+32° collectieve sluiting: de periode waarin de onderneming of een technische bedrijfseenheid van de onderneming gesloten is met toepassing van:<br>
+a) de wetgeving op de jaarlijkse vakantie van werknemers;<br>
+b) eventueel verhoogd met een aantal bijkomende vakantiedagen voorzien bij Koninklijk Besluit, algemeen verbindend verklaard krachtens artikel 6 van de Gecoördineerde wetten betreffende de jaarlijkse vakantie;<br>
+33° GGMMI: het gewaarborgd gemiddeld minimummaandinkomen, vermeld in artikel 3, eerste lid, van cao nr. 43 van 2 mei 1988 betreffende de waarborg van een gemiddeld minimum maandinkomen.<br>
 <br>
 De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB, wat moet worden verstaan onder onderneming in herstructurering als vermeld in het eerste lid, 17° en 18°.
 
@@ -83,7 +105,40 @@ De VDAB stelt, na advies van de raad van bestuur, een charter op dat de   rechte
 
 ### ART. 6.
 
-§ 1. De volgende personen hebben recht op gratis gebruik van   leermateriaal, -materieel en persoonlijke beschermingsmiddelen die nodig zijn   voor de competentieontwikkeling :<BR>1° de cursist die bij de VDAB is   ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven   werkzoekende;<BR>2° de leerling, vermeld in artikel 62, 5°, tijdens de opleiding   die georganiseerd wordt door de VDAB.<BR><BR>§ 2. De cursist die bij de VDAB is   ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven   werkzoekende die hun studie of leertijd hebben beëindigd, heeft recht op :<BR>1°   een forfaitaire verplaatsingsvergoeding van 0,15 euro per kilometer voor de   verplaatsingen, heen en terug, tussen zijn verblijfplaats en de   opleidingsplaats. De verplaatsingsvergoeding kan door de Vlaamse Regering worden   aangepast op voorstel of na raadpleging van de raad van bestuur;<BR>2° een   vergoeding van 15 euro voor het middagmaal, 15 euro voor het avondmaal en 50   euro voor de overnachting, als de cursist een beroepsopleiding volgt waarbij een   overnachting vereist is. De VDAB bepaalt wanneer overnachting vereist is. De   vergoeding kan door de Vlaamse Regering worden aangepast op voorstel of na   raadpleging van de raad van bestuur;<BR>3° terugbetaling van de effectieve   uitgaven voor kinderopvang voor alle niet-schoolgaande kinderen tot ze   toegelaten worden tot het kleuteronderwijs en voor alle schoolgaande kinderen   tot het einde van het basisonderwijs. Die uitgaven worden alleen terugbetaald   voor de dagen waarop effectief beroepsopleiding wordt gevolgd, onder de volgende   voorwaarden :<BR>a) de uitgaven zijn betaald aan een van de volgende   instellingen :<BR>1) instellingen of opvangvoorzieningen die worden erkend,   gesubsidieerd of gecontroleerd door Kind en Gezin;<BR>2) instellingen of   opvangvoorzieningen die worden erkend, gesubsidieerd of gecontroleerd door de   lokale openbare besturen of door de besturen van de gemeenschappen of   gewesten;<BR>3) kinderdagverblijven of zelfstandige opvanggezinnen die onder het   toezicht staan van Kind en Gezin;<BR>4) kleuter- of lagere scholen, of   instellingen of opvangvoorzieningen die verbonden zijn aan de school of de   inrichtende macht;<BR>b) de cursist verantwoordt het bedrag van de uitgaven met   bewijsstukken.<BR><BR>§ 3. De volgende categorieën van cursisten hebben recht op   een premie van één euro per effectief gevolgd uur beroepsopleiding :<BR>1° de   leefloongerechtigde, vermeld in de wet van 26 mei 2002 betreffende het recht op   maatschappelijke integratie of de behoeftige, vermeld in de wet van 2 april 1965   betreffende het ten laste nemen van de steun, verleend door het Openbaar Centrum   voor Maatschappelijk Welzijn, die een of meer personen ten laste heeft;<BR>2° de   uitkeringsgerechtigde werkloze die volgens de werkloosheidsreglementering wordt   beschouwd als werknemer met gezinslast en die bij de start van de opleiding   minstens één jaar bij de VDAB is ingeschreven als niet-werkende werkzoekende.   Voor de berekening van de periode van één jaar geldt de termijn vanaf de   inschrijving als niet-werkende werkzoekende, die niet langer dan drie maanden   onderbroken mag worden door een voltijdse tewerkstelling tijdens het jaar dat   voorafgaat aan de opleiding, gerekend van datum tot datum;<BR>3° de   niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die een of   meer personen ten laste hebben, die niet behoort tot de personen, vermeld in 1°   of 2°, en die ofwel een inkomensvervangende tegemoetkoming ontvangt, als vermeld   in de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met   een handicap, ontvangt, ofwel een invaliditeitsuitkering ontvangt, als vermeld   in het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende   de verplichte verzekering voor geneeskundige verzorging en uitkeringen,   gecoördineerd op 14 juli 1994.<BR><BR>De premie wordt betaald onder de volgende   voorwaarden :<BR>1° de beroepsopleidingen worden georganiseerd gedurende   minstens vierentwintig uur per week;<BR>2° de cursist heeft effectief minstens   honderdvijftig uur beroepsopleiding gevolgd;<BR>3° de cursist bewijst dat hij   behoort tot een van de categorieën, vermeld in paragraaf 3, eerste lid, met een   attest van het O.C.M.W., van de Rijksdienst voor Arbeidsvoorziening of van de   instelling die de inkomensvervangende tegemoetkoming of de   invaliditeitsuitkering betaalt.<BR><BR>De VDAB kan een afwijking toestaan voor   de niet-werkende werkzoekenden en de verplicht ingeschreven werkzoekende met een   indicatie van arbeidshandicap als uit een medisch attest blijkt dat ze geen   vierentwintig uur opleiding per week mogen volgen.<BR><BR>§ 4. De cursist die de   opleiding volgt via een vorm van afstandsleren, heeft alleen recht op gratis   gebruik van de cursuspakketten.<BR><BR>§ 5. De vergoedingen en de premie,   vermeld in § 1 tot en met 3, zijn ten laste van de VDAB.<BR><BR>§ 6. De   vergoedingen en de premie, vermeld in dit artikel, worden minstens één keer per   maand betaald. Ze worden overgeschreven op een bankrekening of uitbetaald met   een circulaire cheque.
+§ 1. De volgende personen hebben recht op gratis gebruik van leermateriaal, -materieel en persoonlijke beschermingsmiddelen die nodig zijn voor de competentieontwikkeling:<br>
+1° de cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende;<br>
+2° de leerling, vermeld in artikel 62, 5°, tijdens een opleiding die georganiseerd wordt door de VDAB;<br>
+3° de kwetsbare werknemer.<br>
+<br>
+§ 2. De cursist die bij de VDAB is ingeschreven als niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende, die hun studie of leertijd hebben beëindigd, heeft recht op een van de volgende vergoedingen:<br>
+1° een abonnement van een openbare vervoersmaatschappij waarmee de VDAB een overeenkomst heeft gesloten;<br>
+2° een forfaitaire vergoeding voor verplaatsingen heen en terug, tussen zijn verblijfplaats en de opleidingsplaats. Die vergoeding bedraagt 0,15 euro per kilometer. Bij een verplaatsing met andere openbare vervoersmaatschappijen dan de openbare vervoersmaatschappijen, vermeld in punt 1°, betaalt de cursist zelf zijn abonnement. Als de forfaitaire verplaatsingsvergoeding niet volstaat om de kosten te dekken, betaalt de VDAB de effectieve abonnementskosten;<br>
+3° een forfaitaire vergoeding voor verre verplaatsing van 50 euro per aanwezige dag als de enkele verplaatsingstijd voor de cursist meer dan twee uur bedraagt of als de afstand tussen de verblijfplaats en de opleidingsplaats meer dan honderd kilometer bedraagt.<br>
+De vergoedingen kunnen door de Vlaamse Regering worden aangepast op voorstel of na raadpleging van de raad van bestuur van de VDAB;<br>
+4° de terugbetaling van de effectieve uitgaven voor kinderopvang voor alle niet-schoolgaande kinderen tot ze toegelaten worden tot het kleuteronderwijs, en voor alle schoolgaande kinderen tot het einde van het basisonderwijs. Voor alle schoolgaande kinderen geldt een maximumbedrag, conform artikel 30, § 2, eerste lid, 2°, a), en § 3, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, voor kinderopvang tijdens schoolvrije dagen. Die uitgaven worden alleen terugbetaald voor de dagen waarop effectief beroepsopleiding wordt gevolgd. Op dagen van collectieve sluiting van de opleidingsinstelling of de werkgever of de leerwerkplek worden er geen uitgaven terugbetaald. De uitgaven worden terugbetaald als aan de volgende twee voorwaarden is voldaan:<br>
+a) de uitgaven zijn betaald aan een van de volgende instellingen:<br>
+1) instellingen of opvangvoorzieningen die erkend zijn of gesubsidieerd of gecontroleerd worden door Kind en Gezin;<br>
+2) instellingen of opvangvoorzieningen die erkend zijn of gesubsidieerd of gecontroleerd worden door de lokale openbare besturen of door de besturen van de gemeenschappen of gewesten;<br>
+3) kinderdagverblijven of zelfstandige opvanggezinnen die onder het toezicht van Kind en Gezin staan;<br>
+4) kleuter- of lagere scholen, of instellingen of opvangvoorzieningen die verbonden zijn aan de school of de inrichtende macht;<br>
+b) de cursist verantwoordt het bedrag van de uitgaven met betalingsbewijzen.<br>
+<br>
+§ 3. De volgende categorieën van cursisten hebben recht op een stimulanspremie van 100 euro:<br>
+1° de leefloongerechtigde, vermeld in artikel 2, 13° van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding", en de behoeftige, vermeld in artikel 2, 13° van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, die een of meer personen ten laste hebben;<br>
+2° de uitkeringsgerechtigde werkloze die volgens de werkloosheidsreglementering wordt beschouwd als werknemer met gezinslast en die bij de start van de opleiding minstens een jaar bij de VDAB is ingeschreven als niet-werkende werkzoekende. Voor de berekening van de periode van een jaar geldt de termijn vanaf de inschrijving als niet-werkende werkzoekende, die niet langer dan drie maanden onderbroken mag worden door een voltijdse tewerkstelling tijdens het jaar dat voorafgaat aan de opleiding, gerekend van datum tot datum;<br>
+3° de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die een of meer personen ten laste hebben, die niet behoren tot de personen, vermeld in 1° of 2°, en die ofwel een inkomensvervangende tegemoetkoming ontvangen als vermeld in artikel 2 en 6 van de wet van 27 februari 1987 betreffende de tegemoetkomingen aan personen met een handicap, ofwel een invaliditeitsuitkering ontvangen als vermeld in titel III, hoofdstuk III, afdeling VI van het koninklijk besluit van 3 juli 1996 tot uitvoering van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994.<br>
+<br>
+De stimulanspremie wordt uitbetaald als aan de volgende twee voorwaarden is voldaan:<br>
+1° de cursist voldoet aan al de volgende voorwaarden:<br>
+a) de cursist volgt ten minste acht weken beroepsopleiding;<br>
+b) de cursist volgt ten minste twintig uur per week beroepsopleiding;<br>
+2° de cursist heeft ten minste acht weken beroepsopleiding gevolgd.<br>
+<br>
+Vanaf de vijfde week krijgt de cursist de premie.<br>
+<br>
+§ 4. De vergoedingen en de premie, vermeld in paragraaf 1 tot en met 3, zijn ten laste van de VDAB.<br>
+<br>
+§ 5. De vergoedingen en de premie, vermeld in dit artikel, worden één keer per maand betaald. Ze worden overgeschreven op een bankrekening.
 
 ### ART. 7.
 
@@ -205,7 +260,15 @@ Iedereen die wettelijk toegang heeft tot de arbeidsmarkt, mag zich als werkzoeke
 
 ### ART. 33.
 
-De werkzoekende die zich bij de VDAB inschrijft, verstrekt de volgende gegevens :<br />1° identificatiegegevens;<br />2° studie- en beroepsverleden;<br />3° beroepskwalificaties met de eventuele vermelding van de behaalde titel of titels van beroepsbekwaamheid;<br />4° beroepsaspiraties;<br />5° ervaring en verworven competenties.<br /><br />De VDAB reikt aan de werkzoekende die erom verzoekt een bewijs van inschrijving uit.
+De werkzoekende die zich bij de VDAB inschrijft, verstrekt de volgende gegevens :<br>
+1° identificatiegegevens;<br>
+2° studie- en beroepsverleden;<br>
+3° beroepskwalificaties met de eventuele vermelding van de behaalde titel of titels van beroepsbekwaamheid;<br>
+4° beroepsaspiraties;<br>
+5° ervaring en verworven competenties;<br>
+6° elementen om de afstand tot de arbeidsmarkt, de beschikbaarheid voor de arbeidsmarkt, de evaluatie van het pad naar werk en de randvoorwaarden die een belemmering vormen bij de zoektocht naar werk, in te schatten.<br>
+<br>
+De VDAB reikt aan de werkzoekende die erom verzoekt een bewijs van inschrijving uit.
 
 ### ART. 34.
 
@@ -241,19 +304,27 @@ De VDAB kan, binnen de uitgetrokken budgettaire middelen, alle initiatieven neme
 
 ### ART. 41.
 
-De VDAB kan in het kader van de begeleiding naar werk of de voorbereiding daarop een oriënterende stage organiseren in samenwerking met een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid.
+De VDAB of de partnerorganisatie&nbsp;kan in het kader van de begeleiding naar werk of de voorbereiding daarop een beroepsverkennende stage organiseren in samenwerking met een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid.
 
 ### ART. 42.
 
-<P>De niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die   een oriënterende stage lopen, hebben recht op de vergoedingen, vermeld in   artikel 6.</P>
+<p>De niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende die een beroepsverkennende stage lopen, hebben recht op de vergoedingen, vermeld in artikel 6, §2.</p>
 
 ### ART. 43.
 
-De VDAB sluit ten gunste van de werkzoekende die een oriënterende stage loopt, een verzekeringscontract af voor ongevallen die zich voordoen tijdens de oriënterende stage of op de weg van en naar de plaats waar de oriënterende stage plaatsvindt. Dat verzekeringscontract voldoet aan de voorwaarden, vermeld in artikel 11.<br /><br />De werkzoekende die in het kader van oriënterende stage schade berokkent aan de VDAB of aan derden, is alleen aansprakelijk als het gaat om bedrog, een zware fout en een herhaalde lichte fout.
+De VDAB sluit ten gunste van de werkzoekende die een beroepsverkennende stage loopt, een verzekeringscontract af voor ongevallen die zich voordoen tijdens de beroepsverkennende stage of op de weg van en naar de plaats waar de beroepsverkennende stage plaatsvindt. Dat verzekeringscontract voldoet aan de voorwaarden, vermeld in artikel 11.<br>
+<br>
+De werkzoekende die in het kader van beroepsverkennende stage schade berokkent aan de VDAB of aan derden, is alleen aansprakelijk als het gaat om bedrog, een zware fout en een herhaalde lichte fout.
 
 ### ART. 44.
 
-Voor de uitvoering van de oriënterende stage wordt tussen de VDAB, de werkzoekende en de onderneming, vereniging zonder winstoogmerk of administratieve overheid een overeenkomst gesloten, waarvan het model door de raad van bestuur wordt bepaald.<br /><br />De overeenkomst vermeldt :<br />1° de identiteit van de partijen;<br />2° de aanvangsdatum van de oriënterende stage en de vermoedelijke duur ervan. De stage mag maximaal dertig dagen duren;<br />3° de omschrijving van de activiteiten die in het kader van de oriënterende stage plaatsvinden op de werkvloer;<br />4° de verplichtingen van de partijen van de overeenkomst.
+Voor de uitvoering van de beroepsverkennende stage wordt tussen de VDAB of de partnerorganisatie, de werkzoekende en de onderneming, vereniging zonder winstoogmerk of administratieve overheid een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.<br>
+<br>
+De overeenkomst vermeldt :<br>
+1° de identiteit van de partijen;<br>
+2° de aanvangsdatum van de beroepsverkennende stage en de vermoedelijke duur ervan. De stage mag maximaal dertig dagen duren;<br>
+3° de omschrijving van de activiteiten die in het kader van de beroepsverkennende stage plaatsvinden op de werkvloer;<br>
+4° de verplichtingen van de partijen van de overeenkomst.
 
 ## Afdeling IV. Universele dienstverlening voor de werkgever
 
@@ -367,11 +438,29 @@ De VDAB rapporteert jaarlijks aan de raad van bestuur over de werking van de tew
 
 ### ART. 61.
 
-Competentieontwikkeling kan onder meer bestaan uit :<br />1° een beroepsopleiding, dat is een van de volgende activiteiten die door de VDAB wordt georganiseerd of als dusdanig door de VDAB wordt erkend :<br />a) het aanleren van een vak, een beroep of een functie;<br />b) bijscholing in het vak, het beroep of de functie;<br />c) het verwerven van de noodzakelijke basisvaardigheden voor de uitoefening van een beroepsactiviteit;<br />d) beroepsomscholing, vervolmaking en uitbreiding van de vakkennis of de aanpassing ervan aan de ontwikkelingen binnen het vak, het beroep of de functie;<br />2° het bijbrengen en beheren van competenties;<br />3° een persoonsgerichte vorming;<br />4° een sollicitatietraining;<br />5° de observatie van een persoon als vermeld in artikel 62, tijdens een bepaalde periode, zodat zijn lichamelijke en intellectuele vaardigheden kunnen worden vastgesteld en, met het oog op de realisatie van de doelstellingen, vermeld in dit artikel, de meest geschikte beroepsrichting kan worden bepaald;<br />6° oriëntering met het oog op competentieversterking en oriëntering naar de arbeidsmarkt;<br />7° aanvullende dienstverlening, zoals informatieverstrekking over opleiding en werk, loopbaanbegeleiding en certificering.
+Competentieontwikkeling kan onder meer bestaan uit :<br>
+1° een beroepsopleiding, dat is een van de volgende activiteiten die door de VDAB wordt georganiseerd of als dusdanig door de VDAB wordt erkend :<br>
+a) het aanleren van een vak, een beroep of een functie;<br>
+b) bijscholing in het vak, het beroep of de functie;<br>
+c) het verwerven van de noodzakelijke basisvaardigheden voor de uitoefening van een beroepsactiviteit;<br>
+d) beroepsomscholing, vervolmaking en uitbreiding van de vakkennis of de aanpassing ervan aan de ontwikkelingen binnen het vak, het beroep of de functie;<br>
+e) oriëntering met het oog op competentieversterking;<br>
+2° het bijbrengen en beheren van competenties;<br>
+3° een persoonsgerichte vorming;<br>
+4° een sollicitatietraining;<br>
+5° de observatie van een persoon als vermeld in artikel 62, tijdens een bepaalde periode, zodat zijn lichamelijke en intellectuele vaardigheden kunnen worden vastgesteld en, met het oog op de realisatie van de doelstellingen, vermeld in dit artikel, de meest geschikte beroepsrichting kan worden bepaald;<br>
+6° oriëntering naar de arbeidsmarkt;<br>
+7° aanvullende dienstverlening, zoals informatieverstrekking over opleiding en werk, loopbaanbegeleiding en certificering.
 
 ### ART. 62.
 
-De activiteiten, vermeld in artikel 61, kunnen volgens de voorwaarden, vermeld in titel III, worden gevolgd door :<br />1° een werkzoekende;<br />2° een werknemer op eigen verzoek;<br />3° een werknemer op verzoek van zijn werkgever;<br />4° een persoon met een zelfstandige beroepsactiviteit;<br />5° een leerling op verzoek van zijn onderwijsinstelling.
+De activiteiten, vermeld in artikel 61, kunnen volgens de voorwaarden, vermeld in titel III, worden gevolgd door :<br>
+1° een werkzoekende;<br>
+2° een werknemer op eigen verzoek;<br>
+3° een werknemer op verzoek van zijn werkgever;<br>
+4° een persoon met een zelfstandige beroepsactiviteit;<br>
+5° een leerling op verzoek van zijn onderwijsinstelling;<br>
+6° een kwetsbare werknemer.
 
 ### ART. 63.
 
@@ -383,7 +472,7 @@ Om de competentieontwikkeling te organiseren, kan de VDAB eigen centra oprichten
 
 ### ART. 65.
 
-De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reglement bepaalt onder meer de rechten en de plichten van de cursisten, zowel voor orde en tucht als voor de uitvoering van opdrachten die ze in het kader van de opleiding krijgen. Het reglement wordt ter beschikking gesteld van de cursist voor de aanvang van de opleiding en het moet aangeplakt zijn op een goed zichtbare plaats in elk centrum.
+De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reglement bepaalt onder meer de rechten en de plichten van de cursisten, zowel voor orde en tucht als voor de uitvoering van opdrachten die ze in het kader van de opleiding krijgen. Het reglement wordt ter beschikking gesteld van de cursist voor de aanvang van de opleiding&nbsp;of het moet aangeplakt zijn op een goed zichtbare plaats in elk centrum.
 
 ## HOOFDSTUK II. De organisatie van de beroepsopleiding
 
@@ -391,15 +480,15 @@ De raad van bestuur stelt een huishoudelijk reglement op voor de centra. Het reg
 
 ### ART. 66.
 
-De VDAB kan aan de niet-werkende werkzoekende en de verplicht ingeschreven   werkzoekende voorstellen om een passende beroepsopleiding te   volgen.
+De VDAB of de partnerorganisatie kan aan de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende voorstellen om een passende beroepsopleiding te volgen.
 
 ### ART. 67.
 
-De werkzoekende, de werknemer en de persoon met een zelfstandige beroepsactiviteit die een beroepsopleiding wil volgen, doet een aanvraag bij de VDAB.
+De werkzoekende, de werknemer, de kwetsbare werknemer en de persoon met een zelfstandige beroepsactiviteit die een beroepsopleiding wil volgen, doet een aanvraag bij de VDAB of de partnerorganisatie.
 
 ### ART. 68.
 
-De VDAB beslist of een kandidaat voor een beroepsopleiding in aanmerking komt.<br>
+De VDAB of de partnerorganisatie&nbsp;beslist of een kandidaat voor een beroepsopleiding in aanmerking komt.<br>
 <br>
 Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften, en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br>
 <br>
@@ -439,7 +528,7 @@ Aan personen met een zelfstandige beroepsactiviteit en aan werknemers die op hun
 
 ### ART. 77.
 
-De personen die een beroepsopleiding of stage hebben gevolgd, hebben recht op een attest van de verworven competenties, met vermelding van het leertraject en de leerinhouden.
+De personen die een beroepsopleiding of stage hebben gevolgd, hebben recht op een attest van de verworven competenties, met vermelding van het leertraject en de leerinhouden. Dit attest wordt uitgereikt door de VDAB of door de partnerorganisatie.
 
 ## Afdeling II. De overeenkomst voor beroepsopleiding
 
@@ -461,7 +550,10 @@ De onmogelijkheid voor de cursist om de opleiding te volgen wegens ziekte of ong
 
 ### ART. 82.
 
-De VDAB kan de overeenkomst beëindigen zonder opzegging :<br />1° als de cursist valse stukken heeft voorgelegd bij zijn toelating tot het centrum of als hij ernstig tekortschiet in zijn verplichtingen betreffende de goede orde of tucht van het centrum, in zijn contractuele verplichtingen of in de uitvoering van de opdrachten die hem in het kader van de opleiding zijn opgelegd;<br />2° als de schorsing, vermeld in artikel 81, een dusdanige duur heeft bereikt dat de re-integratie van de cursist in de opleiding niet zonder moeilijkheden kan verlopen;<br />3° als de cursist niet geschikt is om met goed gevolg de opleiding te volgen.
+De VDAB of de partnerorganisatie kan de overeenkomst beëindigen zonder opzegging :<br>
+1° als de cursist valse stukken heeft voorgelegd bij zijn toelating tot het centrum of als hij ernstig tekortschiet in zijn verplichtingen betreffende de goede orde of tucht van het centrum, in zijn contractuele verplichtingen of in de uitvoering van de opdrachten die hem in het kader van de opleiding zijn opgelegd;<br>
+2° als de schorsing, vermeld in artikel 81, een dusdanige duur heeft bereikt dat de re-integratie van de cursist in de opleiding niet zonder moeilijkheden kan verlopen;<br>
+3° als de cursist niet geschikt is om met goed gevolg de opleiding te volgen.
 
 ### ART. 83.
 
@@ -471,7 +563,53 @@ De bepalingen van deze afdeling zijn ook van toepassing als de opleiding   wordt
 
 ### ART. 84.
 
-De VDAB kan in het kader van een beroepsopleiding een opleidingsstage organiseren. Tijdens de opleidingsstage worden uitsluitend competenties die vooraf werden verworven, verder ontwikkeld op de werkvloer.<br /><br />De opleidingsstage en het praktische werk moeten nuttig en passend zijn in het kader van de opleiding. De opleidingsstage en het praktische werk worden in het opleidingsprogramma ingeschakeld op het ogenblik dat de cursist over de nodige vaardigheden beschikt om ze uit te voeren, zodoende ze ertoe bijdragen dat de cursist vertrouwd raakt met de jobinhoud, de arbeidsomstandigheden en het arbeidsritme.
+De VDAB of de partnerorganisatie kan in het kader van een beroepsopleiding opleidingsstages organiseren.<br>
+<br>
+De opleidingsstage en het praktische werk moeten nuttig en passend zijn in het kader van de opleiding. De opleidingsstage en het praktische werk worden in het opleidingsprogramma ingeschakeld op het ogenblik dat de cursist over de nodige vaardigheden beschikt om ze uit te voeren, zodoende ze ertoe bijdragen dat de cursist vertrouwd raakt met de jobinhoud, de arbeidsomstandigheden en het arbeidsritme.
+
+### ART 84/1.
+
+De VDAB of de partnerorganisatie dient de opleidingsstages te integreren in een opleiding. De opleidingsstage draagt ertoe bij dat de cursist minstens de competenties verwerft die in het opleidingstraject beoogd worden. De leeractiviteiten worden aangepast aan de mate van competentiebeheersing en zelfsturing van de cursist.<br>
+<br>
+De VDAB of de partnerorganisatie ziet erop toe dat op de werkvloer, in samenspraak met de aanbieder van de opleidingsstageplaats, een mentor aangesteld wordt die de cursist bij zijn toegewezen taken begeleidt, die toeziet op de vorderingen van de cursist en die de vorderingen evalueert.<br>
+<br>
+Een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid komt in aanmerking als aanbieder van een opleidingsstageplaats.
+
+### ART 84/2.
+
+De VDAB of de partnerorganisatie bepaalt de duur van de opleidingsstages. De totale duur bedraagt ten hoogste zes maanden. In uitzonderlijke gevallen kan de stage langer dan zes maanden duren als het inoefenen van de geleerde competenties gerechtvaardigd is door de moeilijkheidsgraad of specifieke locatie. Die rechtvaardiging wordt schriftelijk vastgelegd en door de VDAB of de partner als bijlage bij de opleidingsstageovereenkomst gevoegd. De totale duur van de opleidingsstages bedraagt maximaal de helft van de totale opleidingsduur.<br>
+<br>
+De VDAB of de partnerorganisatie beslist over de verlenging of voortijdige beëindiging van de opleidingsstageovereenkomst. Als de VDAB of de partnerorganisatie de beslissing tot voortijdige beëindiging van de opleidingsstageovereenkomst neemt, is de VDAB of de partnerorganisatie geen enkele vergoeding verschuldigd aan de cursist of aan de aanbieder van de opleidingsstageplaats.
+
+### ART 84/3.
+
+Tussen de VDAB of de partnerorganisatie, de aanbieder van de opleidingsstageplaats en de cursist wordt een opleidingsstageovereenkomst gesloten, waarvan de raad van bestuur van de VDAB het model bepaalt. Die opleidingsstageovereenkomst wordt uiterlijk op de eerste dag van de opleidingsstage op de werkvloer gesloten.
+
+### ART 84/4.
+
+De opleidingsstageovereenkomst vermeldt:<br>
+1° de identiteit van de partijen;<br>
+2° de aanvangsdatum van de opleidingsstage en de duur ervan;<br>
+3° de omschrijving, de inhoud en de doelstelling van de opleidingsstage;<br>
+4° de rechten en plichten van de partijen, vermeld in het decreet van 30 april 2004 houdende het Handvest van de Werkzoekende en de wetgeving op de arbeidsbescherming.
+
+### ART 84/5.
+
+Als het voor de cursist niet mogelijk is de opleidingsstage te volgen wegens ziekte of ongeval, wordt de uitvoering van de overeenkomst geschorst. De cursist is ertoe gehouden zijn ongeschiktheid te rechtvaardigen met een geneeskundig getuigschrift.
+
+### ART 84/6.
+
+De VDAB of de partnerorganisatie kan in de volgende gevallen de overeenkomst beëindigen zonder opzegging:<br>
+1° de cursist heeft valse stukken voorgelegd bij zijn toelating tot de opleidingsstage of hij schiet ernstig tekort in zijn verplichtingen betreffende de goede orde of tucht, in zijn contractuele verplichtingen of in de uitvoering van de opdrachten die hem in het kader van de opleidingsstage zijn opgelegd;<br>
+2° de schorsing, vermeld in artikel 84/5, heeft een dusdanige duur bereikt dat de re-integratie van de cursist in de opleiding niet zonder moeilijkheden kan verlopen.
+
+### ART 84/7.
+
+De cursist heeft, na afloop van de opleiding, recht op een attest van de verworven competenties, met vermelding van het leertraject en de leerinhouden.
+
+### ART 84/8.
+
+Artikel 6, 11, 12 en 79 zijn van toepassing op de opleidingsstage.
 
 ### ART. 85.
 
@@ -501,7 +639,7 @@ De VDAB beslist of een niet-werkende werkzoekende en een verplicht ingeschreven 
 <br>
 Die beslissing wordt genomen op basis van de geschiktheid en het competentieprofiel van de kandidaten.<br>
 <br>
-Bij een negatieve beslissing kan de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur<br>
+Bij een negatieve beslissing kan de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende klacht indienen via de klachtenprocedure van de VDAB of via de Vlaamse Ombudsdienst.<br>
 <br>
 De VDAB beslist ook over de verlenging of de voortijdige beëindiging van de opleiding.
 
@@ -519,43 +657,76 @@ In dit hoofdstuk wordt verstaan onder individuele beroepsopleiding : de beroepso
 
 ### ART. 91.
 
-De VDAB beslist of een werkzoekende een individuele beroepsopleiding kan volgen.<br>
+De VDAB of de partnerorganisatie beslist of een werkzoekende een individuele beroepsopleiding kan volgen.<br>
 <br>
-Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br>
+Die beslissing wordt genomen op basis van het verschil tussen de functievereisten en het competentieprofiel van de kandidaat.<br>
 <br>
-Bij een negatieve beslissing kan de werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur.<br>
+De cursist mag niet eerder in de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid gewerkt hebben in dezelfde functie, met uitzondering van maximaal vier weken uitzendarbeid voor de start van de individuele beroepsopleiding.<br>
 <br>
-De VDAB beslist ook over de verlenging of voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB de beslissing tot voortijdige beëindiging van de individuele beroepsopleiding neemt, is hij geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.
+De VDAB of de partnerorganisatie beslist ook over de verlenging of voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB of de partnerorganisatie de beslissing tot voortijdige beëindiging van de individuele beroepsopleiding neemt, is hij geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.
 
 ### ART. 92.
 
-§ 1. De VDAB bepaalt de opleidingsduur van de individuele beroepsopleiding. De opleidingsduur bedraagt ten minste vier weken en ten hoogste 26 weken.<br>
+§ 1. De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de individuele beroepsopleiding. De opleidingsduur bedraagt ten minste vier weken en ten hoogste 26 weken.<br>
 <br>
-De individuele beroepsopleiding kan georganiseerd worden in aansluiting op een opleiding in een centrum voor beroepsopleiding, waarbij de totale opleidingsduur de duur van dezelfde opleiding in een centrum voor een beroepsopleiding niet mag overschrijden.<br>
+§ 2. ...<br>
 <br>
-§ 2. Voor een laaggeschoolde langdurig werkzoekende kan, wegens de pedagogische noodzaak,&nbsp;de opleidingsduur vastgesteld worden op ten hoogste 52 weken. Als de individuele beroepsopleiding voorafgegaan wordt door een opleiding in een centrum, mag de totale opleidingsduur van 52 weken worden overschreden, als de opleidingsduur van de individuele beroepsopleiding 52 weken niet overschrijdt.<br>
-<br>
-§ 3. De VDAB beschikt over de mogelijkheid om in verschillende vestigingen van een onderneming, vereniging zonder winstoogmerk of administratieve overheid verschillende cursisten een individuele beroepsopleiding te laten starten op hetzelfde ogenblik en met dezelfde opleidingsinhoud.
+§ 3. ...
 
 ### ART. 93.
 
-§ 1. De cursist die een individuele beroepsopleiding volgt, krijgt een premie die met elke productieve arbeid overeenkomt. Het bedrag van die productiviteitspremie wordt uitgedrukt als een percentage van het verschil tussen het normale loon van het beroep en het inkomen waarop de cursist recht heeft op grond van werkloosheid, leefloon of financiële maatschappelijke dienstverlening.<br /><br />§ 2. Als de cursist geen uitkering geniet op grond van werkloosheid, leefloon of financiële maatschappelijke dienstverlening, wordt het bedrag van de productiviteitspremie uitgedrukt als een percentage van het verschil tussen het normale loon van het beroep en een compensatievergoeding.<br /><br />De compensatievergoeding bedraagt 9,60 euro per dag bij een zesdaagse werkweek.<br /><br />De Vlaamse minister, bevoegd voor de beroepsomscholing en -bijscholing, bepaalt op voorstel van de raad van bestuur de categorieën niet-werkende werkzoekenden aan wie die compensatievergoeding wordt toegekend.<br /><br />Die compensatievergoeding wordt betaald door de VDAB en kan worden verminderd met het bedrag van een andere financiële tegemoetkoming, toegekend door de federale of de Vlaamse overheid in het kader van opleiding.<br /><br />§ 3. Voor opleidingen van vier tot 26 weken bedragen de percentages, vermeld in § 1 :<br />1° laatste maand van de opleiding : 100 %;<br />2° voorlaatste maand van de opleiding : 95 %;<br />3° derde laatste maand van de opleiding : 90 %;<br />4° vierde laatste maand van de opleiding : 85 %;<br />5° vijfde laatste maand van de opleiding : 80 %;<br />6° zesde laatste maand van de opleiding : 75 %.<br /><br />Als de opleiding, vermeld in artikel 92, langer dan zes maanden duurt, bedraagt het percentage 100 % voor elke extra maand.<br /><br />§ 4. De VDAB betaalt maandelijks de productiviteitspremie en de compensatievergoeding aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem werden uitbetaald.<br /><br />§ 5. De onderneming, vereniging zonder winstoogmerk of administratieve overheid waar de cursist de individuele beroepsopleiding volgt, is aan de VDAB maandelijks een bedrag verschuldigd dat overeenstemt met de percentages van het verschil tussen het normale loon van het beroep en de gemiddelde werkloosheidsuitkering, vermeld in § 3. De gemiddelde werkloosheidsuitkering wordt jaarlijks door de raad van bestuur bepaald met het oog op de budgettaire neutraliteit tussen de betaalde productiviteitspremie en het bedrag dat gefactureerd wordt aan de werkgever.
+§ 1. De cursist die een individuele beroepsopleiding volgt, krijgt van de VDAB een IBO-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
+<br>
+De IBO-premie bedraagt:<br>
+1° 20 % van het GGMMI bij een vervangingsinkomen van minstens 38,5 euro per dag;<br>
+2° 40 % van het GGMMI bij een vervangingsinkomen van minstens 25,66 euro per dag en maximaal 38,49 euro per dag;<br>
+3° 60 % van het GGMMI bij een vervangingsinkomen van maximaal 25,65 euro per dag;<br>
+4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
+<br>
+De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
+<br>
+§ 2. Bij een deeltijdse IBO wordt de IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+§ 3. De cursist die een IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
+<br>
+§ 4. De VDAB betaalt maandelijks de IBO-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
+<br>
+§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar de cursist de individuele beroepsopleiding volgt, is aan de VDAB maandelijks een kostprijs verschuldigd. Deze bedraagt:<br>
+1° 650 euro als de loonschaal minder dan 1 700 euro bedraagt;<br>
+2° 800 euro als de loonschaal tussen de 1 700 en 2 000 euro bedraagt;<br>
+3° 1 000 euro als de loonschaal tussen de 2 000 en 2 300 euro bedraagt;<br>
+4° 1 200 euro als de loonschaal tussen de 2 300 en 2 600 euro bedraagt;<br>
+5° 1 400 euro als de loonschaal meer dan 2 600 euro bedraagt.<br>
+<br>
+§ 6. Bij een deeltijdse IBO wordt de kostprijs berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+§ 7. De bedragen van de loonschalen, vermeld in paragraaf 5, worden aangepast aan de spilindex.
 
 ### ART. 94.
 
-De werkgever verbindt er zich toe met de cursist die in zijn onderneming,   vereniging zonder winstoogmerk of administratieve overheid een individuele   beroepsopleiding heeft gevolgd, onmiddellijk na het einde van de opleiding een   arbeidsovereenkomst voor onbepaalde duur te sluiten.<BR><BR>Met behoud van de   toepassing van de wettelijke bepalingen over het beëindigen van de   arbeidsovereenkomsten om een dringende reden mag de werkgever aan de   arbeidsovereenkomst, vermeld in het eerste lid, op zijn vroegst een einde maken   na verloop van de tijd die overeenstemt met de duur van de opleiding.<BR><BR>De   werkgever verbindt er zich toe de cursist die de opleiding in de onderneming,   vereniging zonder winstoogmerk of administratieve overheid beëindigd heeft,   tewerk te stellen in de onderneming, vereniging zonder winstoogmerk of   administratieve overheid onder de voorwaarden die voor dat beroep gelden en   minstens tegen dezelfde arbeidsvoorwaarden als die welke golden gedurende de   periode dat de cursist de opleiding volgde.<BR><BR>In afwijking van het eerste   lid, kan de werkgever met de cursist die in zijn onderneming, vereniging zonder   winstoogmerk of administratieve overheid een individuele beroepsopleiding heeft   gevolgd, onmiddellijk na het einde van de opleiding een arbeidsovereenkomst voor   bepaalde duur sluiten, op voorwaarde dat hij aan de VDAB aantoont dat die keuze   overeenstemt met het gangbare aanwervingsbeleid. De arbeidsovereenkomst wordt   gesloten voor minstens dezelfde duur als de duur van de opleiding.
+De werkgever verbindt er zich toe met de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding heeft gevolgd, onmiddellijk na het einde van de opleiding een arbeidsovereenkomst voor onbepaalde duur te sluiten.<br>
+<br>
+Met behoud van de toepassing van de wettelijke bepalingen over het beëindigen van de arbeidsovereenkomsten om een dringende reden mag de werkgever aan de arbeidsovereenkomst, vermeld in het eerste lid, op zijn vroegst een einde maken na verloop van de tijd die overeenstemt met de duur van de opleiding.<br>
+<br>
+De werkgever verbindt er zich toe de cursist die de opleiding in de onderneming, vereniging zonder winstoogmerk of administratieve overheid beëindigd heeft, tewerk te stellen in de onderneming, vereniging zonder winstoogmerk of administratieve overheid onder de voorwaarden die voor dat beroep gelden en minstens tegen dezelfde arbeidsvoorwaarden als die welke golden gedurende de periode dat de cursist de opleiding volgde.<br>
+<br>
+In afwijking van het eerste lid, kan de werkgever met de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding heeft gevolgd, onmiddellijk na het einde van de opleiding een arbeidsovereenkomst voor bepaalde duur sluiten, op voorwaarde dat hij aan de VDAB of de partnerorganisatie aantoont dat die keuze overeenstemt met het gangbare aanwervingsbeleid. De arbeidsovereenkomst wordt gesloten voor minstens dezelfde duur als de duur van de opleiding.
 
 ### ART. 95.
 
-De werkgever verzekert de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats. De verzekering verleent dezelfde waarborgen als de waarborgen, vermeld in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst die tewerkgesteld is in het aan te leren beroep, recht heeft.<br /><br />De cursist die in het kader van zijn individuele beroepsopleiding schade berokkent aan de werkgever of aan derden, is alleen aansprakelijk in geval van bedrog, een zware fout of een herhaalde lichte fout.<br /><br />De cursist heeft op kosten van de werkgever recht op een tegemoetkoming in zijn verplaatsingskosten, volgens de regels van de voor de onderneming geldende collectieve arbeidsovereenkomst. Als er voor de onderneming, vereniging zonder winstoogmerk of administratieve overheid geen specifieke collectieve arbeidsovereenkomst met een dergelijke regeling bestaat, gelden de voorschriften van de collectieve arbeidsovereenkomst nr. 19septies van 31 mei 2007 tot wijziging van de collectieve arbeidsovereenkomst nr. 19ter van 5 maart 1991 tot vervanging van de collectieve arbeidsovereenkomst nr. 19 van 26 maart 1975 betreffende de financiële bijdrage van de werkgevers in de prijs van het vervoer van de werknemers.
+De werkgever verzekert de cursist die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een individuele beroepsopleiding volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats. De verzekering verleent dezelfde waarborgen als de waarborgen, vermeld in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+<br>
+De cursist die in het kader van zijn individuele beroepsopleiding schade berokkent aan de werkgever of aan derden, is alleen aansprakelijk in geval van bedrog, een zware fout of een herhaalde lichte fout.
 
 ### ART. 96.
 
-De VDAB kan beslissen om aan de onderneming, vereniging zonder winstoogmerk of administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, of die een cursist die bij haar een individuele beroepsopleiding heeft gevolgd, ontslaat zonder dringende reden, gedurende drie jaar geen individuele beroepsopleiding toe te kennen. Die periode van drie jaar gaat in op de datum waarop de VDAB kennis krijgt van de overtreding.<br /><br />Tegen die weigering van de VDAB, vermeld in het eerste lid, kan de onderneming, vereniging zonder winstoogmerk of administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.
+De VDAB kan beslissen om aan de onderneming, vereniging zonder winstoogmerk of administratieve overheid die haar wettelijke of contractuele verplichtingen niet nakomt, of die een cursist die bij haar een individuele beroepsopleiding heeft gevolgd, ontslaat zonder dringende reden, gedurende drie jaar geen individuele beroepsopleiding toe te kennen. Die periode van drie jaar gaat in op de datum van de kennisgeving van de beslissing.<br>
+<br>
+Tegen die&nbsp;beslissing van de VDAB, vermeld in het eerste lid, kan de onderneming, vereniging zonder winstoogmerk of administratieve overheid beroep aantekenen bij de raad van bestuur binnen dertig dagen na de schriftelijke kennisgeving van de beslissing.
 
 ### ART. 97.
 
-Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB, de cursist en de onderneming, vereniging zonder winstoogmerk of administratieve overheid een overeenkomst gesloten, waarvan het model door de raad van bestuur wordt bepaald.
+Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB of de partnerorganisatie, de cursist en de onderneming, vereniging zonder winstoogmerk of administratieve overheid een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.
 
 ### ART. 98.
 
@@ -563,98 +734,118 @@ Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB, de 
 
 ### ART. 98/1.
 
-In deze afdeling wordt verstaan onder curatieve IBO : de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan :<br />1° de niet-werkende werkzoekende jonger dan 25 jaar die ten minste gedurende 12 maanden onmiddellijk voorafgaand aan de start van de curatieve IBO bij de VDAB als zodanig is ingeschreven;<br />2° de niet-werkende werkzoekende ouder dan 25 jaar die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de curatieve IBO bij de VDAB als zodanig is ingeschreven.
+In deze afdeling wordt verstaan onder K-IBO: de individuele beroepsopleiding, vermeld in artikel 90, die verstrekt wordt aan:<br>
+1° de niet-werkende werkzoekende met een indicatie van arbeidshandicap;<br>
+2° de niet-werkende werkzoekende die jonger dan 25 jaar is en die ten minste gedurende twaalf maanden onmiddellijk voorafgaand aan de start van de K-IBO bij de VDAB als zodanig is ingeschreven;<br>
+3° de niet-werkende werkzoekende die ouder dan 25 jaar is en die ten minste gedurende 24 maanden onmiddellijk voorafgaand aan de start van de K-IBO bij de VDAB als zodanig is ingeschreven;<br>
+4° personen ten laste van het RIZIV die actieve stappen naar tewerkstelling zetten.
 
 ### ART. 98/2.
 
-De VDAB bepaalt de opleidingsduur van de curatieve IBO. De opleidingsduur bedraagt ten minste 4 weken en ten hoogste 52 weken.
+De VDAB of de partnerorganisatie bepaalt de opleidingsduur van de K-IBO. De opleidingsduur bedraagt ten minste een maand en ten hoogste een jaar.
 
 ### ART. 98/3.
 
-De cursist die een individuele beroepsopleiding volgt, krijgt een premie die met elke productieve arbeid overeenkomt. Het bedrag van die productiviteitspremie wordt uitgedrukt als een percentage van het verschil tussen het normale loon van het beroep en het inkomen waarop de cursist recht heeft op grond van werkloosheid, leefloon of financiële maatschappelijke dienstverlening.<br /><br />Voor opleidingen van vier tot 26 weken bedragen de percentages, vermeld in het eerste lid :<br />1° laatste maand van de opleiding : 100 %;<br />2° voorlaatste maand van de opleiding : 95 %;<br />3° derde laatste maand van de opleiding : 90 %;<br />4° vierde laatste maand van de opleiding : 85 %;<br />5° vijfde laatste maand van de opleiding : 80 %;<br />6° zesde laatste maand van de opleiding : 75 %.<br /><br />Als de opleiding langer dan zes maanden duurt, bedraagt het percentage 100% voor elke extra maand.<br /><br />De VDAB betaalt maandelijks de productiviteitspremie aan de cursist. De VDAB geeft de cursist een overzicht met vermelding van de premie en de vergoedingen die aan hem werden uitbetaald.<br /><br />De onderneming, vereniging zonder winstoogmerk of administratieve overheid waar de cursist de curatieve IBO volgt, is gedurende de eerste zes maanden van de opleiding geen maandelijks bedrag verschuldigd. Vanaf de zevende maand van de opleiding is de onderneming, vereniging zonder winstoogmerk of administratieve overheid aan de VDAB maandelijks een bedrag verschuldigd dat overeenstemt met de percentages van het verschil tussen het normale loon van het beroep en de gemiddelde werkloosheidsuitkering. De gemiddelde werkloosheidsuitkering wordt jaarlijks door de raad van bestuur bepaald met het oog op de budgettaire neutraliteit tussen de betaalde productiviteitspremie en het bedrag dat gefactureerd wordt aan de werkgever.
+§ 1. De cursist die een K-IBO volgt, krijgt van de VDAB een K-IBO-premie. Die premie is afgestemd op het bedrag van het vervangingsinkomen van de cursist.<br>
+<br>
+De IBO-premie bedraagt:<br>
+1° 20 % van het GGMMI bij een vervangingsinkomen van minstens 38,5 euro per dag;<br>
+2° 40 % van het GGMMI bij een vervangingsinkomen van minstens 25,66 euro per dag en maximaal 38,49 euro per dag;<br>
+3° 60 % van het GGMMI bij een vervangingsinkomen van maximaal 25,65 euro per dag;<br>
+4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
+<br>
+De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
+<br>
+§ 2. Bij een deeltijdse K-IBO wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+§ 3. De cursist die een K-IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
+<br>
+§ 4. De VDAB betaalt maandelijks de K-IBO-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
+<br>
+§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar een K-IBO georganiseerd wordt, is geen maandelijks bedrag verschuldigd.
 
 ### ART. 98/4.
 
-Artikel 91, 93, § 2, 94, eerste, tweede, derde en vijfde lid, en artikel 95 tot en met 98 zijn van toepassing op de curatieve IBO.
+Artikel 91 en artikel 94 tot en met 97 zijn van toepassing op de K-IBO.
 
 ## Afdeling II. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
 
 ### ART. 99.
 
-<P>In deze afdeling wordt verstaan onder instapstage de beroepsopleiding op de   werkvloer, die tijdens de beroepsinschakelingstijd verstrekt wordt aan de   niet-werkende werkzoekende jonger dan 25 jaar die geen diploma heeft van het   secundair onderwijs. De instapstage begint ten vroegste op de   honderdzesenvijftigste dag van de beroepsinschakelingstijd, vermeld in artikel   36, § 1, 4° van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering, en ten laatste op de driehonderdentiende   dag.</P>
+...
 
 ### ART. 100.
 
-<P>De instapstage is halftijds of voltijds. De duur van de instapstage bedraagt   drie maanden. De jonge niet-werkende werkzoekende kan hoogstens twee   instapstages volgen, waarvan maximaal één stage bij dezelfde werkgever.   <BR><BR>De VDAB beslist over voortijdige beëindiging van de instapstage. Als de   VDAB de beslissing tot voortijdige beëindiging van de instapstage neemt, is hij   geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de   vereniging zonder winstoogmerk of de administratieve overheid.<BR><BR>Als de   VDAB oordeelt dat de voortijdige beëindiging van de instapstage onvoldoende   gerechtvaardigd is en te wijten is aan de onderneming, vereniging zonder   winstoogmerk of administratieve overheid dan moet die aan de cursist de   vergoeding betalen, vermeld in artikel 101, eerste lid, voor de resterende duur   van de instapstage. <BR></P>
+...
 
 ### ART. 101.
 
-<P>De cursist die een instapstage volgt krijgt ten laste van de onderneming,   vereniging zonder winstoogmerk of administratieve overheid waar de cursist de   instapstage volgt, een maandelijkse productiviteitspremie waarvan het bedrag   gelijk is aan de vergoeding, vermeld in artikel 36quater, § 1, eerste lid, 8°   van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering. Het bedrag van de vergoeding wordt gehalveerd voor   een halftijdse instapstage. <BR><BR>De onderneming, vereniging zonder   winstoogmerk of administratieve overheid geeft de cursist maandelijks een   overzicht met vermelding van de premie en de vergoedingen die aan hem werden   uitbetaald.<BR></P>
+...
 
 ### ART. 102.
 
-<P>De onderneming, de vereniging zonder winstoogmerk of de administratieve   overheid verbindt er zich toe de cursist een attest met de vermelding van de   verworven competenties te geven bij het einde van de instapstage.   </P>
+...
 
 ### ART. 102/1.
 
-Artikel 91, eerste tot en met derde lid, artikel 95, 97 en 98 zijn van   overeenkomstige toepassing op de instapstage.
+...
 
 ## Afdeling III. [... (opgeh. BVR 6 juli 2018, art. 30, I: 1 september 2018)]
 
 ### ART. 103.
 
-In deze afdeling wordt verstaan onder :<br />1° IBO-interim : het samengaan van enerzijds uitzendarbeid bij de werkgever-gebruiker, gedurende een periode van ten hoogste acht weken, en anderzijds een onmiddellijk daaropvolgende individuele beroepsopleiding als vermeld in artikel 90, bij diezelfde werkgever-gebruiker. Het uitzendbureau selecteert de persoon aan wie de IBO-interim wordt gegeven, en de werkgever-gebruiker, en begeleidt beide partijen bij de individuele beroepsopleiding;<br />2° uitzendarbeid : het verrichten van arbeid onder een arbeidsovereenkomst voor uitzendarbeid, als vermeld in artikel 7, 2°, van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers, om de reden, vermeld in artikel 1, § 7, van dezelfde wet;<br />3° het uitzendbureau : het erkende bureau voor uitzendactiviteiten, vermeld in het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet betreffende de private arbeidsbemiddeling;<br />4° de werkgever-gebruiker : de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar de IBO-interim, vermeld in artikel 103, plaatsvindt.<br /><br />De IBO-interim kan door de VDAB als tewerkstellingstraject worden erkend onder de door hem vastgestelde voorwaarden.
+...
 
 ### ART. 104.
 
-De VDAB beslist, binnen de uitgetrokken budgettaire middelen, of een uitkeringsgerechtigde werkloze, een niet-uitkeringsgerechtigde werkzoekende, een leefloontrekker of een persoon die recht heeft op financiële maatschappelijke dienstverlening en die in het bevolkingsregister is ingeschreven, een IBO-interim kan volgen.<br /><br />De IBO-interim kan alleen gegeven worden aan een van de volgende personen :<br />1° personen ouder dan vijftig jaar;<br />2° personen met een indicatie van een arbeidshandicap;<br />3° personen van allochtone afkomst.<br /><br />In het tweede lid, 3° wordt onder personen van allochtone afkomst verstaan : personen met een nationaliteit van een land buiten de Europese Unie of personen van wie minstens één ouder of twee grootouders een nationaliteit hebben van een land buiten de Europese Unie.
+...
 
 ### ART. 105.
 
-De VDAB bepaalt de opleidingsduur van de individuele beroepsopleiding, verstrekt binnen het kader van een IBO-interim. Die opleidingsduur bedraagt ten minste vier weken en, behoudens toepassing van artikel 92, paragraaf 2, ten hoogste 26 weken.<br /><br />De VDAB beslist over de verlenging of de voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB beslist tot voortijdige beëindiging van de individuele beroepsopleiding, is hij met behoud van de toepassing van artikel 110, geen enkele vergoeding verschuldigd aan de persoon aan wie de IBO-interim wordt gegeven, de werkgever-gebruiker of het uitzendbureau.
+...
 
 ### ART. 106.
 
-De persoon aan wie de IBO-interim wordt gegeven, mag in de drie maanden voor de IBO-interim, hoogstens veertien werkdagen uitzendarbeid hebben verricht voor de werkgever-gebruiker in dezelfde functie als de functie waarvoor de IBO-interim wordt gegeven. De werkdagen uitzendarbeid worden in mindering gebracht van de maximumperiode van uitzendarbeid, vermeld in artikel 103.
+...
 
 ### ART. 107.
 
-Het uitzendbureau dat voor IBO-interim ingeschakeld wil worden, moet dat voor de aanvang van de eerste IBO-interim aan de VDAB meedelen. De VDAB bepaalt de wijze van mededeling.
+...
 
 ### ART. 108.
 
-Voor de aanvang van de individuele beroepsopleiding wordt tussen de VDAB, de persoon aan wie de IBO-interim zal worden gegeven, de werkgever-gebruiker en het uitzendbureau een overeenkomst gesloten, waarvan het model door de raad van bestuur wordt bepaald.
+...
 
 ### ART. 109.
 
-Het uitzendbureau stelt voor de aanvang van iedere individuele beroepsopleiding een begeleidings en opleidingsplan op, waarvan het model door de VDAB wordt bepaald.<br /><br />Het begeleidingsplan bevat een concrete weergave van de begeleiding die het uitzendbureau gedurende de individuele beroepsopleiding zal bieden.<br /><br />Het opleidingsplan bevat een concrete weergave van de competenties die de persoon aan wie de IBO-interim wordt gegeven gedurende de individuele beroepsopleiding moet verwerven.<br /><br />De individuele beroepsopleiding kan pas starten nadat de VDAB het begeleidings- en opleidingsplan heeft goedgekeurd. De VDAB neemt daarover een beslissing binnen vijf werkdagen na de ontvangst van dat plan.
+...
 
 ### ART. 110.
 
-De VDAB betaalt het uitzendbureau een vergoeding van 1.200 euro per begonnen individuele beroepsopleiding als voldaan is aan een van de volgende voorwaarden :<br />1° een arbeidsovereenkomst voor onbepaalde duur wordt gesloten tussen de werkgever-gebruiker en de persoon aan wie de IBO-interim werd gegeven onmiddellijk na de voltooiing van de individuele beroepsopleiding;<br />2° een arbeidsovereenkomst van onbepaalde duur wordt gesloten tussen de werkgever-gebruiker of een andere werkgever, en de persoon aan wie de IBO-interim werd gegeven, voor de beëindiging van de individuele beroepsopleiding, op voorwaarde dat de individuele beroepsopleiding minstens dertien weken heeft geduurd.<br /><br />Als niet aan de voorwaarden van het eerste lid voldaan is betaalt de VDAB het uitzendbureau een vergoeding van 500 euro per begonnen individuele beroepsopleiding.
+...
 
 ### ART. 111.
 
-Artikelen 92 tot en met 96 en artikel 98 zijn van toepassing op de individuele beroepsopleiding, verstrekt binnen de IBO-interim, met dien verstande dat de woorden "in een onderneming, vereniging zonder winstoogmerk, of een administratieve overheid" moeten worden gelezen als de woorden "bij een werkgever-gebruiker", en dat het woord "werkgever" moet worden gelezen als het woord "werkgever-gebruiker".
+...
 
 ## [HOOFDSTUK IV. De werkervaringsstage (ing. BVR 23 december 2016, art. 2, I: 1 januari 2017)]
 
 ### ART 111/0/1.
 
-De VDAB kan de werkzoekende in het kader van de begeleiding naar werk een werkervaringsstage voorstellen bij een werkgever. De werkervaringsstage staat open voor elke werkzoekende als:<br>
-1° de VDAB oordeelt dat de werkervaringsstage passend is in zijn traject naar werk;<br>
+De VDAB of de partnerorganisatie kan de werkzoekende in het kader van de begeleiding naar werk een werkervaringsstage voorstellen bij een werkgever. De werkervaringsstage staat open voor elke werkzoekende als:<br>
+1° de VDAB of de partnerorganisatie oordeelt dat de werkervaringsstage passend is in zijn traject naar werk;<br>
 2° de werkzoekende voldoende leerpotentieel heeft om de afstand tot het normale economische circuit te overbruggen;<br>
 3° de werkzoekende een gebrek aan generieke competenties en werkervaring heeft.
 
 ### ART 111/0/2.
 
-De VDAB beslist of een werkzoekende een werkervaringsstage mag volgen.<br>
+De VDAB of de partnerorganisatie beslist of een werkzoekende een werkervaringsstage mag volgen.<br>
 <br>
-De VDAB beslist over de verlenging of de voortijdige beëindiging van de werkervaringsstage.
+De VDAB of de partnerorganisatie beslist over de verlenging of de voortijdige beëindiging van de werkervaringsstage.
 
 ### ART 111/0/3.
 
-De VDAB bepaalt de duur van de werkervaringsstage. De werkervaringsstage bedraagt ten minste twintig uur per week. De duur van de werkervaringsstage bedraagt maximaal zes maanden.
+De VDAB of de partnerorganisatie&nbsp;bepaalt de duur van de werkervaringsstage. De werkervaringsstage bedraagt ten minste twintig uur per week. De duur van de werkervaringsstage bedraagt maximaal zes maanden.
 
 ### ART 111/0/4.
 
@@ -662,7 +853,7 @@ De werkervaringsstage wordt aangevat met een opleidingsplan. Dat opleidingsplan 
 
 ### ART 111/0/5.
 
-Tijdens de duur van de werkervaringsstage wordt de werkzoekende regelmatig opgevolgd door VDAB. De werkgever bij wie de stage wordt aangevat, staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+Tijdens de duur van de werkervaringsstage wordt de werkzoekende regelmatig opgevolgd door VDAB of de partnerorganisatie. De werkgever bij wie de stage wordt aangevat, staat in voor de ondersteuning van de werkzoekende op de werkvloer.
 
 ### ART 111/0/6.
 
@@ -678,7 +869,7 @@ Tijdens de werkervaringsstage is de stagiair verzekerd voor ongevallen als verme
 
 ### ART 111/0/9.
 
-Voor de uitvoering van de werkervaringsstage wordt tussen de VDAB, de stagiair en de werkgever een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.<br>
+Voor de uitvoering van de werkervaringsstage wordt tussen de VDAB of de partnerorganisatie, de stagiair en de werkgever een overeenkomst gesloten, waarvan het model door de raad van bestuur van de VDAB wordt bepaald.<br>
 <br>
 De overeenkomst vermeldt ten minste:<br>
 1° de identiteit van de partijen;<br>
@@ -694,7 +885,7 @@ De werkervaringsstage wordt geschorst gedurende de periodes van ziekte en moeder
 
 De werkervaringsstage wordt stopgezet:<br>
 1° als de periode van schorsing, vermeld in artikel 111/0/10, een zodanige duur heeft bereikt dat de re-integratie van de werkzoekende niet zonder moeilijkheden kan verlopen;<br>
-2° als de stagiair of de werkgever zijn contractuele verplichtingen niet langer nakomt en de VDAB vaststelt dat de verdere uitvoering van de werkervaringsstage onmogelijk is geworden.
+2° als de stagiair of de werkgever zijn contractuele verplichtingen niet langer nakomt en de VDAB of de partnerorganisatie vaststelt dat de verdere uitvoering van de werkervaringsstage onmogelijk is geworden.
 
 ### ART 111/0/12.
 
@@ -710,25 +901,25 @@ Een activeringsstage staat open voor werkzoekenden bij wie een medisch, mentaal,
 
 ### ART 111/0/14.
 
-De VDAB bepaalt de duur van de activeringsstage naargelang de afstand tot de arbeidsmarkt. De activeringsstage heeft een maximale doorlooptijd van zes maanden. Het aantal uren op de werkvloer wordt gradueel opgebouwd naargelang de capaciteiten van de stagiair.<br>
+De VDAB of de partnerorganisatie&nbsp;bepaalt de duur van de activeringsstage naargelang de afstand tot de arbeidsmarkt. De activeringsstage heeft een maximale doorlooptijd van zes maanden. Het aantal uren op de werkvloer wordt gradueel opgebouwd naargelang de capaciteiten van de stagiair.<br>
 <br>
-De VDAB beslist of de werkzoekende een activeringsstage kan volgen. De VDAB beslist ook over de voortijdige beëindiging van de activeringsstage. Een activeringsstage kan niet verlengd worden.
+De VDAB of de partnerorganisatie beslist of de werkzoekende een activeringsstage kan volgen. De VDAB beslist ook over de voortijdige beëindiging van de activeringsstage. Een activeringsstage kan niet verlengd worden.
 
 ### ART 111/0/15.
 
 De activeringsstage kan onmiddellijk worden stopgezet door de begeleider:<br>
 1° als de stagiair werk vindt;<br>
-2° als de stagiair of de werkgever hun contractuele verplichtingen niet langer nakomen en de VDAB vaststelt dat de verdere uitvoering van de activeringsstage onmogelijk is geworden;<br>
+2° als de stagiair of de werkgever hun contractuele verplichtingen niet langer nakomen en de VDAB of de partnerorganisatie vaststelt dat de verdere uitvoering van de activeringsstage onmogelijk is geworden;<br>
 3° als het doel, vermeld in artikel 1, 28°, bereikt is;<br>
-4° als de VDAB vaststelt dat het doel, vermeld in artikel 1, 28°, niet haalbaar is.
+4° als de VDAB of de partnerorganisatie vaststelt dat het doel, vermeld in artikel 1, 28°, niet haalbaar is.
 
 ### ART 111/0/16.
 
-Een beschrijving van de acties om de beginsituatie in kaart te brengen, wordt bij de aanvang van de activeringsstage bepaald en door de VDAB goedgekeurd. Op het einde van de activeringsstage wordt een opleidings- of trajectplan opgemaakt, tenzij blijkt dat de stagiair niet toeleidbaar is naar de arbeidsmarkt.
+Een beschrijving van de acties om de beginsituatie in kaart te brengen, wordt bij de aanvang van de activeringsstage bepaald en door de VDAB of de partnerorganisatie goedgekeurd. Op het einde van de activeringsstage wordt een opleidings- of trajectplan opgemaakt, tenzij blijkt dat de stagiair niet toeleidbaar is naar de arbeidsmarkt.
 
 ### ART 111/0/17.
 
-Tijdens de duur van de activeringsstage wordt de werkzoekende regelmatig opgevolgd door de VDAB. De werkgever waarbij de stage wordt aangevat staat in voor de ondersteuning van de werkzoekende op de werkvloer.
+Tijdens de duur van de activeringsstage wordt de werkzoekende regelmatig opgevolgd door de VDAB of de partnerorganisatie. De werkgever waarbij de stage wordt aangevat staat in voor de ondersteuning van de werkzoekende op de werkvloer.
 
 ### ART 111/0/18.
 
@@ -740,7 +931,7 @@ Tijdens de activeringsstage wordt de stagiair verzekerd voor ongevallen als verm
 
 ### ART 111/0/20.
 
-Voor de uitvoering van de activeringsstage wordt tussen de VDAB, de stagiair en de werkgever een overeenkomst gesloten, waarvan de raad van bestuur van de VDAB het model bepaalt.<br>
+Voor de uitvoering van de activeringsstage wordt tussen de VDAB of de partnerorganisatie, de stagiair en de werkgever een overeenkomst gesloten, waarvan de raad van bestuur van de VDAB het model bepaalt.<br>
 <br>
 De overeenkomst bevat ten minste de volgende elementen:<br>
 1° de identiteit van de partijen;<br>
@@ -753,6 +944,78 @@ c) het naleven van voorschriften inzake veiligheid en A.R.A.B.;<br>
 d) het respecteren van de privacy
 
 ## [HOOFDSTUK VI. De beroepsinlevingsstage (ing. BVR 6 juli 2018, art. 42, I: 1 september 2018)]
+
+### ART 111/0/21.
+
+Dit hoofdstuk is niet van toepassing op:<br>
+1° de opleidingen met een werkplekcomponent waarbij beroepsinlevingsstages conform het decreet of de regelgeving in kwestie impliciet of expliciet uitgesloten zijn;<br>
+2° de arbeidsprestaties uitgevoerd door een leerling of student bij een werkgever in het kader van een opleiding die hij volgt in een door de bevoegde gemeenschap of het bevoegde gewest ingerichte, gesubsidieerde of erkende onderwijsinstelling of opleidingscentrum;<br>
+3° de stages georganiseerd binnen het kader van een cursus die leidt tot het afleveren van een diploma, een getuigschrift of een bewijs van beroepsbekwaamheid;<br>
+4° de opleidingsactiviteiten die plaatsvinden in het kader van een arbeidsovereenkomst als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+5° de bepalingen ingesteld door of krachtens decreten, ordonnanties of collectieve arbeidsovereenkomsten die bij een paritair orgaan gesloten zijn conform de wet van 5 december 1968 betreffende de collectieve arbeidsovereenkomsten en de paritaire comités;<br>
+6° de stagiairs die zich voorbereiden op de uitoefening van een vrij beroep of een intellectueel dienstverlenend beroep en die tijdens hun stage onderworpen zijn aan de deontologie van een orde die of een instituut dat opgericht is door wettelijke of reglementaire bepalingen;<br>
+7° de tewerkstelling van studenten conform artikel 120 tot en met 130ter van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.
+
+### ART 111/0/22.
+
+Voor een verplicht ingeschreven werkzoekende gelden al de volgende voorwaarden:<br>
+1° de VDAB of de partnerorganisaties van de VDAB oordelen dat de beroepsinlevingsstage in het traject naar werk past;<br>
+2° de werkzoekende heeft geen behoefte aan begeleiding van de VDAB of de partnerorganisaties van de VDAB tijdens zijn beroepsinlevingsstage.
+
+### ART 111/0/23.
+
+De beroepsinlevingsstage kan uitgevoerd worden bij een werkgever die op een van de volgende locaties gevestigd is:<br>
+1° een vestigingsplaats in het Vlaamse Gewest;<br>
+2° een vestigingsplaats in het Brusselse Hoofdstedelijke Gewest, op voorwaarde dat de VDAB er een Nederlandstalig opleidingsplan heeft goedgekeurd.<br>
+<br>
+De werkgever bij wie de werkzoekende de stage aanvat, staat in voor de begeleiding van de werkzoekende op de werkvloer.
+
+### ART 111/0/24.
+
+Het opleidingsplan dat tussen de partijen overeengekomen is, wordt voorafgaand aan de uitvoering van de beroepsinlevingsstage goedgekeurd door de VDAB.<br>
+<br>
+Het opleidingsplan omvat:<br>
+1° de aan te leren competenties;<br>
+2° de wijze waarop die competenties aangeleerd worden;<br>
+3° een motivering voor de termijn van de beroepsinlevingsstage, die tussen de partijen overeengekomen is;<br>
+4° de identiteit van de partijen;<br>
+5° het adres waarop de stagiair gedomicilieerd is.
+
+### ART 111/0/25.
+
+Voor de uitvoering van de beroepsinlevingsstage wordt tussen de werkgever en de stagiair een overeenkomst gesloten, uiterlijk op het tijdstip waarop de stagiair de uitvoering van zijn beroepsinlevingsstage aanvangt. Die overeenkomst wordt schriftelijk vastgesteld en bevat de volgende vermeldingen:<br>
+1° de voornamen, de achternaam en de hoofdverblijfplaats van de stagiair;<br>
+2° wat de werkgever betreft: de voornamen, de achternaam en de hoofdverblijfplaats van de werkgever of de naam en de vestigingsplaats van de onderneming;<br>
+3° de plaats van de uitvoering van de beroepsinlevingsstage;<br>
+4° de omschrijving van de activiteiten die in het kader van de beroepsinlevingsstage plaatsvinden op de werkvloer;<br>
+5° de aanvangsdatum en de duur van de beroepsinlevingsstage;<br>
+6° de dagelijkse en wekelijkse duur van de aanwezigheid in de onderneming;<br>
+7° de vergoeding;<br>
+8° de manier waarop een einde kan worden gemaakt aan de beroepsinlevingsstage;<br>
+9° het opleidingsplan dat tussen de partijen overeengekomen is en dat de VDAB goedgekeurd heeft;<br>
+10° de rechten en plichten van de partijen.
+
+### ART 111/0/26.
+
+Voor iedere beroepsinlevingsstage betaalt de werkgever een vergoeding die minimaal de helft van het GGMMI bedraagt. Die vergoeding wordt toegepast in verhouding tot de tewerkstellingsbreuk.
+
+### ART 111/0/27.
+
+De beroepsinlevingsstage duurt maximaal zes maanden.
+
+### ART 111/0/28.
+
+De werkgever verzekert de stagiair die in zijn onderneming, vereniging zonder winstoogmerk of administratieve overheid een beroepsinlevingsstage volgt, tegen ongevallen tijdens de opleiding en op de weg van en naar de opleidingsplaats. De verzekering verleent dezelfde waarborgen als de waarborgen, vermeld in de wet van 10 april 1971 betreffende de arbeidsongevallen en de uitvoeringsbesluiten ervan. Bij een ongeval wordt de vergoeding berekend op basis van het loon waarop een meerderjarige werknemer in loondienst die tewerkgesteld is in het aan te leren beroep, recht heeft.<br>
+<br>
+De werkgever verzekert de stagiair die in het kader van zijn beroepsinlevingsstage schade berokkent aan de werkgever of aan derden.
+
+### ART 111/0/29.
+
+Elke partij kan het beroepsinlevingscontract eenzijdig beëindigen met een opzeggingstermijn van drie dagen, zonder dat er een schadevergoeding verschuldigd is.<br>
+<br>
+De stagiair kan het beroepsinlevingscontract met een opzeggingstermijn van één dag beëindigen, zonder dat hij een schadevergoeding verschuldigd is, wanneer als de stagiair een arbeidsovereenkomst heeft gesloten als vermeld in artikel 2 en 3 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.<br>
+<br>
+De partijen kunnen in onderling overleg het beroepsinlevingscontract beëindigen zonder termijn of schadevergoeding.
 
 ## [TITEL III/1. Activering en beschikbaarheid voor de arbeidsmarkt (ing. BVR 18 december 2015, art. 21, I: 1 januari 2016)]
 
