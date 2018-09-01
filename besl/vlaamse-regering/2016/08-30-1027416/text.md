@@ -132,6 +132,10 @@ Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid h
 Bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 24 april 2015, wordt opgeheven.<br>
 &nbsp;
 
+### ART 16.
+
+Bijlage II en III bij hetzelfde besluit worden opgeheven.
+
 ### ART 17.
 
 Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 24 april 2015, worden een bijlage V tot en met XIII toegevoegd, die als bijlage 7 tot en met 15 bij dit besluit zijn gevoegd.<br>
