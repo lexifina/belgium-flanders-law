@@ -46,7 +46,17 @@ Het geografisch themabestand 'Vlaamse voorkooprechten' wordt bekend   gemaakt do
 
 ### ART. 8.
 
-Onverminderd de specifieke bepalingen, bepaald in de decreten die een Vlaams voorkooprecht invoeren, gelden de voorkooprechten niet :<br />1° in geval van verkoop aan :<br />a) de echtgenoot, de afstammelingen of geadopteerde kinderen van de eigenaar;<br />b) de afstammelingen of geadopteerde kinderen van de echtgenoot van de eigenaar;<br />c) de mede-eigenaar, ongeacht of de onverdeeldheid ophoudt of niet;<br />d) de echtgenoot, de afstammelingen of geadopteerde kinderen van de mede-eigenaar;<br />e) de afstammelingen of geadopteerde kinderen van de echtgenoot van de mede-eigenaar;<br />f) de echtgenoten van voormelde afstammelingen of geadopteerde kinderen.<br />Voor de toepassing van 1° worden onder echtgenoot van de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind, eveneens begrepen, de persoon die met de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind wettelijk samenwoont of er ten minste één jaar ononderbroken mee samenwoont en er een gemeenschappelijke huishouding mee voert;<br />2° wanneer de pachter zijn recht van voorkoop overeenkomstig de pachtwet uitoefent;<br />3° in geval van verkoop aan de huidige pachter op voorwaarde dat deze kan bewijzen dat hij reeds minstens één kalenderjaar pachter is, te rekenen tot de datum waarop de definitieve verkoopsovereenkomst vaste datum heeft verkregen.<br />
+Onverminderd de specifieke bepalingen, bepaald in de decreten die een Vlaams voorkooprecht invoeren, gelden de voorkooprechten niet :<br>
+1° in geval van verkoop aan :<br>
+a) de echtgenoot, de afstammelingen of geadopteerde kinderen van de eigenaar;<br>
+b) de afstammelingen of geadopteerde kinderen van de echtgenoot van de eigenaar;<br>
+c) de mede-eigenaar, ongeacht of de onverdeeldheid ophoudt of niet;<br>
+d) de echtgenoot, de afstammelingen of geadopteerde kinderen van de mede-eigenaar;<br>
+e) de afstammelingen of geadopteerde kinderen van de echtgenoot van de mede-eigenaar;<br>
+f) de echtgenoten van voormelde afstammelingen of geadopteerde kinderen.<br>
+Voor de toepassing van 1° worden onder echtgenoot van de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind, eveneens begrepen, de persoon die met de eigenaar, mede-eigenaar, afstammeling of geadopteerd kind wettelijk samenwoont of er ten minste één jaar ononderbroken mee samenwoont en er een gemeenschappelijke huishouding mee voert;<br>
+2° wanneer de pachter zijn recht van voorkoop overeenkomstig de pachtwet uitoefent;<br>
+3° in geval van verkoop aan de huidige pachter op voorwaarde dat deze kan bewijzen dat hij reeds minstens één kalenderjaar pachter is, te rekenen tot de datum waarop de definitieve verkoopovereenkomst vaste datum heeft verkregen.
 
 ### ART. 9.
 
@@ -68,7 +78,17 @@ Een perceel waarop een Vlaams voorkooprecht is toegekend en bekendgemaakt, kan s
 
 ### ART. 13.
 
-Het e-voorkooploket bezorgt het aanbod aan de begunstigden. Als de   begunstigden het aanbod aanvaarden, brengen ze het e-voorkooploket op de hoogte   binnen een termijn van zestig dagen na de datum bedoeld in artikel 11, vierde   lid.<BR><BR>Iedere begunstigde kan, in geval van verkoop uit de hand binnen de   termijn van zestig dagen de instrumenterende ambtenaar verzoeken om aanvullende   informatie of om mededeling van de inhoud van de verkoopovereenkomst of van het   ontwerp van authentieke akte waarbij alleen de identiteit van de koper   opengelaten wordt. De instrumenterende ambtenaar bezorgt die informatie of   inhoud binnen vijf werkdagen na ontvangst van het verzoek, hetzij digitaal,   hetzij op papieren drager.<BR><BR>Het e-voorkooploket registreert de identiteit   van de begunstigde die het voorkooprecht uitoefent en brengt de instrumenterende   ambtenaar onmiddellijk op de hoogte van het bericht van aanvaarding. Het   e-voorkooploket registreert het tijdstip waarop de kennisgeving aan de   instrumenterende ambtenaar verstuurd wordt. Dit is het tijdstip van   aanvaarding.<BR><BR>De verkoop aan de begunstigde is voltrokken zodra de   kennisgeving van aanvaarding naar de instrumenterende ambtenaar is verzonden. De   koper moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe   de kandidaat koper zich verbonden had, zoals opgenomen in de nagezonden   informatie, medegedeelde verkoopsovereenkomst of ontwerp van authentieke   akte.<BR><BR>Indien meerdere begunstigden het aanbod aanvaarden, en indien zij   onder elkaar geen overeenstemming bereiken, beslist de Vlaamse Regering op   verzoek van de meest gerede partij aan welke geïnteresseerde begunstigde het   goed wordt verkocht. De Vlaamse Regering beslist in functie van het belang van   elke begunstigde bij de uitoefening van het voorkooprecht.<BR><BR>Een   begunstigde kan, in geval van verkoop uit de hand, de instrumenterende ambtenaar   via&nbsp;het e-voorkooploket melden dat hij afziet van uitoefening van het   voorkooprecht waarvan het aanbod hem door het e-voorkooploket is bezorgd. Deze   verzaking is onherroepelijk.<BR>
+Het e-voorkooploket bezorgt het aanbod aan de begunstigden. Als de begunstigden het aanbod aanvaarden, brengen ze het e-voorkooploket op de hoogte binnen een termijn van zestig dagen na de datum bedoeld in artikel 11, vierde lid.<br>
+<br>
+Iedere begunstigde kan, in geval van verkoop uit de hand binnen de termijn van zestig dagen de instrumenterende ambtenaar verzoeken om aanvullende informatie of om mededeling van de inhoud van de verkoopovereenkomst of van het ontwerp van authentieke akte waarbij alleen de identiteit van de koper opengelaten wordt. De instrumenterende ambtenaar bezorgt die informatie of inhoud binnen vijf werkdagen na ontvangst van het verzoek, hetzij digitaal, hetzij op papieren drager.<br>
+<br>
+Het e-voorkooploket registreert de identiteit van de begunstigde die het voorkooprecht uitoefent en brengt de instrumenterende ambtenaar onmiddellijk op de hoogte van het bericht van aanvaarding. Het e-voorkooploket registreert het tijdstip waarop de kennisgeving aan de instrumenterende ambtenaar verstuurd wordt. Dit is het tijdstip van aanvaarding.<br>
+<br>
+De verkoop aan de begunstigde is voltrokken zodra de kennisgeving van aanvaarding naar de instrumenterende ambtenaar is verzonden. De koper moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe de kandidaat koper zich verbonden had, zoals opgenomen in de nagezonden informatie, medegedeelde verkoopovereenkomst of ontwerp van authentieke akte.<br>
+<br>
+Indien meerdere begunstigden het aanbod aanvaarden, en indien zij onder elkaar geen overeenstemming bereiken, beslist de Vlaamse Regering op verzoek van de meest gerede partij aan welke geïnteresseerde begunstigde het goed wordt verkocht. De Vlaamse Regering beslist in functie van het belang van elke begunstigde bij de uitoefening van het voorkooprecht.<br>
+<br>
+Een begunstigde kan, in geval van verkoop uit de hand, de instrumenterende ambtenaar via&nbsp;het e-voorkooploket melden dat hij afziet van uitoefening van het voorkooprecht waarvan het aanbod hem door het e-voorkooploket is bezorgd. Deze verzaking is onherroepelijk.
 
 ## [Afdeling 3 De openbare verkoop (ing. decr. 21 december 2018, art. 5, I: 1 september 2018)]
 
@@ -76,11 +96,55 @@ Het e-voorkooploket bezorgt het aanbod aan de begunstigden. Als de   begunstigde
 
 ### ART. 14.
 
-§ 1. Bij openbare verkoop licht de instrumenterende ambtenaar het   e-voorkooploket minstens dertig dagen voor de zitdag in.<BR><BR>§ 2. De   instrumenterende ambtenaar meldt de volgende gegevens :<BR>1° de identificatie   van het perceel;<BR>2° de plaats, dag en uur van de openbare verkoop;<BR>3° de   naam en het adres van de instrumenterende ambtenaar.<BR><BR>§ 3. Deze   kennisgeving wordt aan de begunstigden bezorgd door het   e-voorkooploket.<BR><BR>§ 4. Iedere begunstigde kan, voorafgaandelijk aan de   openbare verkoop, de instrumenterende ambtenaar verzoeken om bijkomende   informatie of om mededeling van de inhoud van het lastencohier. De   instrumenterende ambtenaar bezorgt deze informatie of deze inhoud binnen vijf   werkdagen na ontvangst van het verzoek, hetzij digitaal, hetzij op papieren   drager.<BR><BR>§ 5. Indien de verkoop wordt gehouden zonder voorbehoud van   uitoefening van het recht van hoger bod, vraagt de instrumenterende ambtenaar   bij het einde van de opbieding en vóór de toewijzing, in het openbaar, aan de   pachter of hij zijn recht van voorkoop wenst uit te oefenen tegen de laatst   geboden prijs. Bij weigering of afwezigheid of stilzwijgen van de pachter, moet   de instrumenterende ambtenaar voor de toewijzing, in het openbaar, dezelfde   vraag stellen aan de aanwezige begunstigden. Bij instemming van de begunstigde   is de verkoop definitief.<BR><BR>Bij weigering, afwezigheid of stilzwijgen van   alle begunstigden wordt de verkoop voortgezet.<BR><BR>Indien de pachter,   overeenkomstig de pachtwet, verklaard heeft zijn antwoord op de vraag van de   instrumenterende ambtenaar in beraad te houden, vraagt de instrumenterende   ambtenaar aan de begunstigde van het recht van voorkoop of hij zijn recht van   voorkoop uitoefent in geval de pachter zijn recht van voorkoop niet uitoefent.   De toewijzing gebeurt dan onder de opschortende voorwaarde van niet uitoefening   van het recht van voorkoop door de pachter.<BR><BR>§ 6. Indien de verkoop wordt   gehouden onder voorbehoud van uitoefening van het recht van hoger bod, vraagt de   instrumenterende ambtenaar op dat ogenblik nog niet of de begunstigden het   voorkooprecht uitoefenen.<BR><BR>Als er een hoger bod wordt gedaan, meldt de   instrumenterende ambtenaar dat minstens tien dagen voor de zitdag na hoger bod   aan het e-voorkooploket conform paragraaf 2. Het e-voorkooploket bezorgt die   informatie aan de begunstigden. Bij de verdere verkoopsverrichtingen handelt de   instrumenterende ambtenaar conform paragraaf 5.<BR><BR>Als er geen hoger bod   wordt gedaan, of indien de instrumenterende ambtenaar het hoger bod niet   aanvaardt, meldt hij dit aan het e-voorkooploket binnen vijftien dagen na het   verstrijken van de termijn voor hoger bod. Door middel van het e-voorkooploket   wordt het aanbod aan de begunstigden bezorgd. Indien de begunstigden het   voorkooprecht uitoefenen melden zij dit door middel van het e-voorkooploket   binnen een termijn van vijftien dagen, te rekenen vanaf de kennisgeving door de   instrumenterende ambtenaar.<BR><BR>Het e-voorkooploket registreert de identiteit   van de begunstigde die het voorkooprecht uitoefent en brengt de instrumenterende   ambtenaar onmiddellijk op de hoogte van het bericht van aanvaarding. Het   e-voorkooploket registreert het tijdstip waarop de kennisgeving aan de   instrumenterende ambtenaar verstuurd wordt. Dit is het tijdstip van   aanvaarding.<BR><BR>De verkoop aan de begunstigde is voltrokken zodra de   kennisgeving van aanvaarding naar de instrumenterende ambtenaar is verzonden. De   koper moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe   de kandidaat koper zich verbonden had, zoals opgenomen in de nagezonden   informatie, medegedeelde verkoopsovereenkomst of ontwerp van authentieke   akte.<BR><BR>De toewijzing is definitief indien geen bericht van uitoefening   door middel van het e-voorkooploket wordt bezorgd binnen de termijn van vijftien   dagen, die loopt vanaf het tijdstip waarop de instrumenterende ambtenaar het   aanbod aan het e-voorkooploket heeft bezorgd.<BR><BR>§ 7. Indien er meerdere   geïnteresseerden zijn om het recht van voorkoop uit te oefenen, beslist de   Vlaamse Regering, op verzoek van de meest gerede partij. De Vlaamse Regering   beslist in functie van het belang van elke begunstigde bij de uitoefening van   het voorkooprecht voor het betrokken perceel.<BR>
+§ 1. Bij openbare verkoop licht de instrumenterende ambtenaar het e-voorkooploket minstens dertig dagen voor de zitting in.<br>
+<br>
+§ 2. De instrumenterende ambtenaar meldt de volgende gegevens:<br>
+1° de identificatie van het perceel;<br>
+2° in geval van een fysieke openbare verkoop: de plaats, dag en uur van de openbare verkoop;<br>
+3° in geval van een gedematerialiseerde openbare verkoop: de dag van de aanvang en de dag van de sluiting van de biedingen;<br>
+4° de naam en het adres van de instrumenterende ambtenaar.<br>
+<br>
+§ 3. Deze kennisgeving wordt aan de begunstigden bezorgd door het e-voorkooploket.<br>
+<br>
+§ 4. Iedere begunstigde kan, voorafgaandelijk aan de openbare verkoop, de instrumenterende ambtenaar verzoeken om bijkomende informatie of om mededeling van de inhoud van het lastenkohier. De instrumenterende ambtenaar bezorgt deze informatie of deze inhoud binnen vijf werkdagen na ontvangst van het verzoek, hetzij digitaal, hetzij op papieren drager.<br>
+<br>
+§ 5. De instrumenterende ambtenaar meldt elke bijkomende zitting minstens 10 dagen vóór de bijkomende zitting aan het e-voorkooploket..<br>
+<br>
+§ 6. Als er meerdere geïnteresseerden zijn om het recht van voorkoop uit te oefenen, beslist de Vlaamse Regering, op verzoek van de meest gerede partij. De Vlaamse Regering beslist op basis van het belang van elke begunstigde bij de uitoefening van het voorkooprecht voor het perceel in kwestie.
 
 ## [Onderafdeling 2 Specifieke bepalingen bij de fysieke openbare verkoop (ing. decr. 21 december 2018, art. 8, I: 1 september 2018)]
 
+### ART 14/1.
+
+§ 1. Als de verkoop wordt gehouden door middel van een fysieke openbare verkoop, vraagt de instrumenterende ambtenaar op de laatste zitting bij het einde van de opbieding en vóór de toewijzing, in het openbaar, aan de pachter of hij zijn recht van voorkoop wil uitoefenen tegen de laatst geboden prijs. Bij weigering, afwezigheid of stilzwijgen van de pachter stelt de instrumenterende ambtenaar vóór de toewijzing, in het openbaar, dezelfde vraag aan de aanwezige begunstigden. Als de begunstigde instemt, is de verkoop definitief.<br>
+<br>
+Bij weigering, afwezigheid of stilzwijgen van alle begunstigden wordt de verkoop voortgezet.<br>
+<br>
+Als de pachter, overeenkomstig de Pachtwet, verklaard heeft dat hij zijn antwoord op de vraag van de instrumenterende ambtenaar in beraad houdt, vraagt de instrumenterende ambtenaar aan de begunstigde van het recht van voorkoop of hij zijn recht van voorkoop uitoefent als de pachter zijn recht van voorkoop niet uitoefent. De toewijzing gebeurt dan onder de opschortende voorwaarde dat de pachter zijn recht van voorkoop niet uitoefent.<br>
+<br>
+De begunstigde moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe de kandidaat-koper zich verbonden had en die opgenomen zijn in de nagezonden informatie of het lastenkohier.<br>
+<br>
+§ 2. Het voorkooprecht wordt aangeboden via het e-voorkooploket als er geen laatste zitting volgt op een eerdere zitting, en paragraaf 1 dus niet van toepassing is. De instrumenterende ambtenaar biedt in dat geval het voorkooprecht aan via het e-voorkooploket binnen 30 dagen te rekenen vanaf de eerdere zitting. De begunstigde brengt het e-voorkooploket op de hoogte van zijn beslissing uiterlijk vijftien dagen te rekenen vanaf de kennisgeving van het aanbod door de instrumenterende ambtenaar.<br>
+<br>
+Als de begunstigde het aanbod aanvaardt, registreert het e-voorkooploket de identiteit van de begunstigde die het voorkooprecht uitoefent en brengt het de instrumenterende ambtenaar onmiddellijk op de hoogte van het bericht van aanvaarding. Het e-voorkooploket registreert het tijdstip waarop de kennisgeving aan de instrumenterende ambtenaar verstuurd wordt. Dat is het tijdstip van aanvaarding.<br>
+<br>
+De verkoop aan de begunstigde is voltrokken zodra de kennisgeving van aanvaarding naar de instrumenterende ambtenaar is verzonden. De begunstigde moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe de kandidaat-koper zich verbonden had en die opgenomen zijn in de nagezonden informatie of het lastenkohier.<br>
+<br>
+Indien de begunstigde geen bericht van uitoefening door middel van het -e-voorkooploket bezorgt uiterlijk vijftien dagen te rekenen vanaf de kennisgeving van het aanbod, kan de verkoper het proces-verbaal van toewijs tekenen met de hoogst aanvaarde bieder.
+
 ## [Onderafdeling 3 Specifieke bepalingen bij de gedematerialiseerde openbare verkoop (ing. decr. 21 december 2018, art. 10, I: 1 september 2018)]
+
+### ART 14/2.
+
+Als de verkoop wordt gehouden door middel van een gedematerialiseerde openbare verkoop bezorgt de instrumenterende ambtenaar na het sluiten van de biedingen en vóór de toewijzing het aanbod aan het e-voorkooploket. Het -e-voorkooploket bezorgt het aanbod aan de begunstigden. Deze aanbieding gebeurt zonder het recht van voorkoop van de pachter, zoals bepaald in artikel 47 tot en met 55 van de Pachtwet van 4 november 1969, te miskennen.<br>
+<br>
+Als de begunstigden het aanbod aanvaarden, brengen zij het e-voorkooploket op de hoogte uiterlijk de eerste werkdag die volgt op de kennisgeving van het aanbod.<br>
+<br>
+Het e-voorkooploket registreert de identiteit van de begunstigde die het voorkooprecht uitoefent en brengt de instrumenterende ambtenaar onmiddellijk op de hoogte van het bericht van aanvaarding. Het e-voorkooploket registreert het tijdstip waarop de kennisgeving aan de instrumenterende ambtenaar verstuurd wordt. Dat is het tijdstip van aanvaarding.<br>
+<br>
+De verkoop aan de begunstigde is voltrokken zodra de kennisgeving van aanvaarding naar de instrumenterende ambtenaar is verzonden. De begunstigde moet de prijs betalen en alle voorwaarden en modaliteiten naleven waartoe de kandidaat-koper zich verbonden had, zoals opgenomen in de nagezonden informatie of het lastenkohier.<br>
+<br>
+Als er geen bericht van uitoefening door middel van het e-voorkooploket wordt bezorgd uiterlijk de eerste werkdag die volgt op de kennisgeving van het aanbod, kan de verkoper het proces-verbaal van toewijs tekenen met de hoogst aanvaarde bieder.
 
 ## [Afdeling 4 Bepalingen over de niet-uitoefening van het voorkooprecht door de begunstigde, de miskenning van het voorkooprecht en de berekening van de termijn (ing. decr. 21 december 2018, art. 12, I: 1 september 2018)]
 
@@ -94,7 +158,9 @@ Het e-voorkooploket bezorgt het aanbod aan de begunstigden. Als de   begunstigde
 
 ### ART. 16/1.
 
-De termijnen, vermeld in artikel 8, 10, 13 en 14, worden als volgt   berekend: de termijnen worden gerekend van middernacht tot middernacht. Elk van   de voormelde termijnen begint te lopen vanaf de dag na die van de gebeurtenis   die de termijn doet ingaan en omvat alle kalenderdagen. De vervaldag is in de   termijn begrepen. De vervaldag wordt niet verplaatst als hij valt op een   zaterdag, zondag, wettelijke of decretale feestdag.
+De termijnen, vermeld in artikel 8, 10, 13 en 14, worden als volgt berekend: de termijnen worden gerekend van middernacht tot middernacht. Elk van de voormelde termijnen begint te lopen vanaf de dag na die van de gebeurtenis die de termijn doet ingaan en omvat alle kalenderdagen. De vervaldag is in de termijn begrepen. De vervaldag wordt niet verplaatst als hij valt op een zaterdag, zondag, wettelijke of decretale feestdag.<br>
+<br>
+De termijn, vermeld in artikel 14/2, tweede lid, wordt gerekend van middernacht tot middernacht. De termijn begint te lopen vanaf de dag na die van de gebeurtenis die de termijn doet ingaan. De vervaldag is in de termijn begrepen. Een zaterdag, zondag, wettelijke of decretale feestdag is niet in de termijn begrepen.
 
 ## HOOFDSTUK VI. Wijzigingsbepalingen
 
