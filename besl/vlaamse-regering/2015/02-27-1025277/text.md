@@ -8,6 +8,10 @@
 
 De   Katholieke Universiteit Leuven kan een onderzoeksmaster Research Master: Master   of Advanced Studies in Theology and Religion organiseren van honderdtwintig   studiepunten. De onderwijstaal is Engels.
 
+### ART. 2.
+
+De   studieomvang van de master in de logopedische en audiologische wetenschappen,   georganiseerd door de Katholieke Universiteit Leuven en de Universiteit Gent, en   van de master in de verzekeringen, georganiseerd door de Katholieke Universiteit   Leuven, wordt uitgebreid van zestig tot honderdtwintig studiepunten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 3.
 
 Voor   de financiering van de aangeboden onderzoeksmaster Research Master: Master of   Advanced Studies in Theology and Religion, vermeld in artikel 1, ontvangt de   Katholieke Universiteit Leuven overeenkomstig de bepalingen van artikel III.11,   § 7, van de Codex Hoger Onderwijs van 11 oktober 2013, bekrachtigd bij het   decreet van 20 december 2013, een bedrag van 92.394 euro.
