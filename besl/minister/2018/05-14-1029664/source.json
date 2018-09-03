@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029664,
+  "title": "Ministerieel besluit van 2018-05-14 houdende vaststelling van de projectmaatregelen die in aanmerking komen voor subsidies in het kader van de 12de oproep in uitvoering van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029664/VolledigDocument?datum=2018-09-03",
+  "source_sha256": "57655fc15977c758091a21fe824e5129ba93529656e918cc82f64c7771feabfe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029664&param=informatie",
+  "as_of": "2018-09-03",
+  "made": "2018-05-14",
+  "gazette": "2018-08-24",
+  "numac": 2018031753,
+  "document_start": "2018-09-03",
+  "document_end": null,
+  "in_force": "2018-09-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
