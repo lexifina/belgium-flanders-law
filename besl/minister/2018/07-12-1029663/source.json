@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029663,
+  "title": "Ministerieel besluit van 2018-07-12 houdende uitvoering van artikel 2 en 4 van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties, wat betreft de sector rundvlees",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029663/VolledigDocument?datum=2018-09-03",
+  "source_sha256": "7deb6da70c0d5c2b6d8a0f72a83f4cc5049388874303d2a34cb992adac8b2de6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029663&param=informatie",
+  "as_of": "2018-09-03",
+  "made": "2018-07-12",
+  "gazette": "2018-08-24",
+  "numac": 2018031730,
+  "document_start": "2018-09-03",
+  "document_end": null,
+  "in_force": "2018-09-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
