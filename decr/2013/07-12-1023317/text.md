@@ -40,6 +40,9 @@ b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 21° code van goede praktijk : geschreven en publiek toegankelijke regels met betrekking tot de uitvoering van en de rapportering over archeologisch vooronderzoek en archeologische opgravingen en met betrekking tot het gebruik van detectoren en de bij de betrokken beroepscategorieën algemeen aanvaarde regels van goed vakmanschap;<br>
 22° cultuurhistorisch landschap : een begrensde grondoppervlakte met een geringe dichtheid van bebouwing en een onderlinge samenhang waarvan de verschijningsvorm en de samenhang het resultaat zijn van natuurlijke processen en van maatschappelijke ontwikkelingen van algemeen belang wegens de erfgoedwaarde;<br>
+22° /1 datum van kennisgeving: tenzij een kennisgeving is gedaan met een beveiligde zending, worden ten aanzien van de geadresseerde de termijnen die beginnen te lopen vanaf een kennisgeving berekend:<br>
+a) als de kennisgeving is gedaan met een gewone brief: vanaf de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd werd, tenzij de geadresseerde het tegendeel bewijst;<br>
+b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, tenzij de geadresseerde het tegendeel bewijst;<br>
 23° erfgoedelementen : de structurele en visuele componenten die de eigenheid van het onroerend erfgoed bepalen en die de waarden vormen die aan de grondslag liggen van een bescherming;<br>
 24° erfgoedkenmerk : typologie, stijl, cultuur, datering, materiaal, biologische soort, thema of ander kenmerk;<br>
 25° erfgoedlandschap : een gebied dat wegens de erfgoedwaarde overeenkomstig de geldende regelgeving opgenomen is in een ruimtelijk uitvoeringsplan op basis van een onroerenderfgoedrichtplan of vastgestelde inventaris;<br>
@@ -575,9 +578,13 @@ De door de Vlaamse Regering daartoe aangewezen ambtenaren hebben voor het   onde
 
 ### ART. 6.1.3.
 
-<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de colleges van burgemeester en schepenen van de betrokken gemeentebesturen en de departementen of agentschappen van de Vlaamse overheid bevoegd voor omgeving, mobiliteit en openbare werken en landbouw en visserij. Deze adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn. Aan deze adviesvereiste kan worden voorbijgegaan in geval van dringende noodzakelijkheid.</p>
+<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de colleges van burgemeester en schepenen van de betrokken gemeentebesturen en de departementen of agentschappen van de Vlaamse overheid bevoegd voor omgeving, mobiliteit en openbare werken en landbouw en visserij. Deze adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn.</p>
 
-<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn. Aan deze adviesvereiste kan worden voorbijgegaan in geval van dringende noodzakelijkheid.</p>
+<p>De Vlaamse Regering wint voorafgaand aan de voorlopige bescherming het advies in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn.<br>
+<br>
+De Vlaamse Regering brengt voorafgaand aan de voorlopige bescherming de zakelijkrechthouders van een monument of een onroerend goed in een archeologische site of stads- of dorpsgezicht op de hoogte. De zakelijkrechthouders kunnen binnen een vervaltermijn van zestig dagen, die ingaat op de dag na de kennisgeving, schriftelijk opmerkingen bezorgen aan het agentschap over de voorlopige bescherming.<br>
+<br>
+Aan de verplichtingen, vermeld in het eerste tot en met het derde lid, kan worden voorbijgegaan in geval van dringende noodzakelijkheid.</p>
 
 ### ART. 6.1.4.
 
@@ -591,28 +598,51 @@ Het besluit tot voorlopige bescherming wordt na de kennisgeving, vermeld   in ar
 
 <p>Het besluit tot voorlopige bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de zakelij krechthouders ter kennis gebracht.</p>
 
-<p>Het agentschap hoort, op hun verzoek, de zakelijkrechthouders.</p>
+<p>Het agentschap hoort, op hun verzoek, de zakelijkrechthouders. Het verzoek wordt schriftelijk ingediend bij het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving, vermeld in het eerste lid.</p>
 
 <p>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit tot voorlopige bescherming op de hoogte gebracht zijn:<br>
 1° brengen de gebruikers van het onroerend goed per beveiligde zending op de hoogte van het besluit tot voorlopige bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
 2° brengen de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het besluit tot voorlopige bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
-3° brengen het agentschap per beveiligde zending op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit tot voorlopige bescherming.</p>
+3° brengen het agentschap&nbsp;schriftelijk op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit tot voorlopige bescherming.</p>
 
 ### ART. 6.1.7.
 
-<P>Het besluit tot voorlopige bescherming wordt per beveiligde zending aan de   betrokken gemeenten bezorgd voor een openbaar onderzoek van dertig   dagen.<BR></P>  <P>De betrokken gemeenten openen het openbaar onderzoek uiterlijk dertig dagen   na de ontvangst van het besluit tot voorlopige bescherming door :<BR>1° een   bericht over het openbaar onderzoek op te hangen op de plaats die aangeduid is   op het plan dat als bijlage bij het besluit tot voorlopige bescherming is   gevoegd;<BR>2° een bericht te publiceren op de website van de betrokken   gemeenten.<BR></P>  <P>De besluiten tot voorlopige bescherming van een cultuurhistorisch landschap   worden ook aangekondigd door een bericht in ten minste drie dagbladen die in de   betrokken gemeenten worden verspreid.<BR></P>  <P>De gemeenten melden aan het agentschap de datum waarop zij het openbaar   onderzoek openen. Het agentschap publiceert een bericht over het openbaar   onderzoek op zijn website.<BR></P>  <P>De berichten, vermeld in het tweede en derde lid, vermelden minstens het   volgende :<BR>1° het voorwerp van het openbaar onderzoek;<BR>2° de begin- en   einddatum van het openbaar onderzoek;<BR>3° de plaats waar het besluit tot   voorlopige bescherming en het beschermingsdossier ter inzage liggen;<BR>4° het   adres waarop opmerkingen en bezwaren per beveiligde zending kunnen worden ter   kennis gebracht.<BR></P>  <P>Tijdens het openbaar onderzoek :<BR>1° liggen het besluit tot voorlopige   bescherming en het beschermingsdossier ter inzage bij de betrokken gemeenten en   het agentschap;<BR>2° kunnen opmerkingen en bezwaren per beveiligde zending aan   de betrokken gemeenten ter kennis worden gebracht;<BR>3° kunnen de betrokken   gemeenten een hoorzitting organiseren.<BR></P>  <P>De betrokken gemeenten stellen een proces-verbaal op waarin de opmerkingen,   de bezwaren en in voorkomend geval een advies en het verslag van de hoorzitting   worden opgenomen en sluiten het openbaar onderzoek af. Binnen een ordetermijn   van vijftien dagen na het afsluiten van het openbaar onderzoek bezorgen ze het   proces-verbaal per beveiligde zending aan het agentschap.<BR></P>  <P>Als de gemeente het openbaar onderzoek niet opent binnen de vooropgestelde   termijn van dertig dagen, is het aan het agentschap dit openbaar onderzoek op te   starten en af te ronden binnen de termijn, vermeld in artikel   6.1.9.<BR></P>
+<p>Het besluit tot voorlopige bescherming wordt per beveiligde zending aan de betrokken gemeenten bezorgd voor een openbaar onderzoek van dertig dagen.</p>
+
+<p>De betrokken gemeenten openen het openbaar onderzoek binnen een termijn van dertig dagen die ingaat op de dag na de kennisgeving van het besluit tot voorlopige bescherming door :<br>
+1° een bericht over het openbaar onderzoek op te hangen op de plaats die aangeduid is op het plan dat als bijlage bij het besluit tot voorlopige bescherming is gevoegd;<br>
+2° een bericht te publiceren op de website van de betrokken gemeenten.</p>
+
+<p>De besluiten tot voorlopige bescherming van een cultuurhistorisch landschap worden ook aangekondigd door een bericht in ten minste drie dagbladen die in de betrokken gemeenten worden verspreid.</p>
+
+<p>De gemeenten melden aan het agentschap de datum waarop zij het openbaar onderzoek openen. Het agentschap publiceert een bericht over het openbaar onderzoek op zijn website.</p>
+
+<p>De berichten, vermeld in het tweede en derde lid, vermelden minstens het volgende :<br>
+1° het voorwerp van het openbaar onderzoek;<br>
+2° de begin- en einddatum van het openbaar onderzoek;<br>
+3° de plaats waar het besluit tot voorlopige bescherming en het beschermingsdossier ter inzage liggen;<br>
+4° het adres waarop opmerkingen en bezwaren schriftelijk kunnen worden ter kennis gebracht.</p>
+
+<p>Tijdens het openbaar onderzoek :<br>
+1° liggen het besluit tot voorlopige bescherming en het beschermingsdossier ter inzage bij de betrokken gemeenten en het agentschap;<br>
+2° kunnen opmerkingen en bezwaren schriftelijk aan de betrokken gemeenten ter kennis worden gebracht;<br>
+3° kunnen de betrokken gemeenten een hoorzitting organiseren.</p>
+
+<p>De betrokken gemeenten stellen een proces-verbaal op waarin de opmerkingen, de bezwaren en in voorkomend geval een advies en het verslag van de hoorzitting worden opgenomen en sluiten het openbaar onderzoek af. Binnen een ordetermijn van vijftien dagen die ingaat op de dag na het afsluiten van het openbaar onderzoek bezorgen ze het proces-verbaal schriftelijk aan het agentschap.</p>
+
+<p>Als de gemeente het openbaar onderzoek niet opent binnen de vooropgestelde termijn van dertig dagen, is het aan het agentschap dit openbaar onderzoek op te starten en af te ronden binnen de termijn, vermeld in artikel 6.1.9.</p>
 
 ### ART. 6.1.8.
 
-De Vlaamse Regering wint over de voorlopige bescherming het advies in bij   de Vlaamse Commissie Onroerend Erfgoed als er overeenkomstig artikel 6.1.3,   tweede lid, omwille van dringende noodzakelijkheid geen voorafgaand advies werd   gevraagd. Dit advies wordt uitgebracht binnen een vervaltermijn van zestig   dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze   termijn wordt overschreden, wordt het advies geacht gunstig te   zijn.<BR>
+De Vlaamse Regering wint over de voorlopige bescherming het advies in bij de Vlaamse Commissie Onroerend Erfgoed als er overeenkomstig artikel 6.1.3, vierde lid, omwille van dringende noodzakelijkheid geen voorafgaand advies werd gevraagd. Dit advies wordt uitgebracht binnen een vervaltermijn van zestig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn.
 
 ### ART. 6.1.9.
 
-<p>§ 1. Vanaf de dag van ontvangst, vermeld in artikel 6.1.6, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming, gedurende een termijn van maximaal negen maanden de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
+<p>§ 1. Vanaf de dag van de kennisgeving, vermeld in artikel 6.1.6, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming, gedurende een termijn van maximaal 270 dagen de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
 <br>
-Vanaf de dag van de bekendmaking in het Belgisch Staatsblad, vermeld in artikel 6.1.5, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming van een cultuurhistorisch landschap, gedurende een termijn van maximaal negen maanden de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
+Vanaf de dag van de bekendmaking in het Belgisch Staatsblad, vermeld in artikel 6.1.5, zijn op de onroerende goederen, vermeld in het besluit tot voorlopige bescherming van een cultuurhistorisch landschap, gedurende een termijn van maximaal&nbsp;270 dagen&nbsp;de rechtsgevolgen van een bescherming voorlopig van toepassing.<br>
 <br>
-§ 2. De Vlaamse Regering kan die termijn eenmalig met maximaal drie maanden verlengen.</p>
+§ 2. De Vlaamse Regering kan die termijn eenmalig met maximaal negentig dagen verlengen.</p>
 
 <p>Het besluit tot verlenging van de voorlopige bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt aan de zakelijkrechthouders per beveiligde zending ter kennis gebracht overeenkomstig artikel 6.1.6.<br>
 <br>
@@ -650,7 +680,7 @@ De Vlaamse Regering stelt het besluit tot definitieve bescherming   vast.<BR>
 9° in voorkomend geval bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone.</p>
 
 <p>Bij elk besluit tot definitieve bescherming worden de volgende bijlagen gevoegd :<br>
-1° een gegeorefereerd plan waarop het onroerend goed en in voorkomend geval de overgangszone nauwkeurig wordt afgelijnd;<br>
+1° een&nbsp;plan waarop het onroerend goed en in voorkomend geval de overgangszone nauwkeurig wordt afgelijnd;<br>
 2° een fotoregistratie van de fysieke toestand;<br>
 3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het onroerend goed;<br>
 4° een document waarin het agentschap zich uitspreekt over de ingediende bezwaren en opmerkingen en in voorkomend geval over de uitgebrachte adviezen en het verslag van de hoorzitting.</p>
@@ -666,9 +696,9 @@ Het besluit tot definitieve bescherming wordt na de kennisgeving, vermeld   in a
 <p>Het besluit tot definitieve bescherming van een archeologische site, monument of stads- of dorpsgezicht wordt met bijlagen per beveiligde zending aan de zakelijkrechthouders ter kennis gebracht.</p>
 
 <p>De zakelijkrechthouders die, overeenkomstig het eerste lid, van het besluit tot definitieve bescherming op de hoogte gebracht zijn:<br>
-3° brengen de gebruikers van het onroerend goed per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. De beveiligde zending vermeldt die verplichting;<br>
-4° brengen de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
-5° brengen het agentschap per beveiligde zending op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit.</p>
+1° brengen de gebruikers van het onroerend goed per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. De beveiligde zending vermeldt die verplichting;<br>
+2° brengen de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het besluit tot definitieve bescherming binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de beveiligde zending vermeld;<br>
+3° brengen het agentschap schriftelijk op de hoogte van de eventuele verkoop, overdracht van het eigendomsrecht of overdracht van een ander zakelijk recht, waarbij de nodige stavingsdocumenten gevoegd zijn, binnen een termijn van tien dagen, die ingaat op de dag na de kennisgeving. Die verplichting wordt in de kennisgeving vermeld. De nieuwe zakelijkrechthouders worden op hun beurt, overeenkomstig het eerste lid, op de hoogte gebracht van het besluit.</p>
 
 ### ART. 6.1.17.
 
@@ -686,7 +716,7 @@ De rechtsgevolgen van een besluit tot definitieve bescherming zijn van   toepass
 
 De Vlaamse Regering kan een besluit tot definitieve bescherming in de volgende gevallen geheel of gedeeltelijk wijzigen of opheffen :<br>
 1° de erfgoedwaarden van het beschermde goed zijn onherstelbaar aangetast of verloren gegaan;<br>
-2° een verplaatsing van het beschermde goed is noodzakelijk voor het behoud ervan;<br>
+2° een verplaatsing van het beschermde goed is noodzakelijk voor het behoud van de erfgoedwaarden ervan of is vereist omwille van het algemeen belang;<br>
 3° de gehele of gedeeltelijke wijziging of opheffing is vereist omwille van het algemeen belang;<br>
 4° het goed beheer vereist de toevoeging van gegevens zoals vermeld in artikel 6.1.14, 7° tot en met 9°.<br>
 5° de toevoeging als bijlage van een lijst van cultuurgoederen die integrerend deel uitmaken van een beschermd goed als vermeld in artikel 6.1.4, § 2, tweede lid, 3°, of de aanpassing van een lijst van cultuurgoederen is noodzakelijk.
@@ -697,19 +727,31 @@ De Vlaamse Regering kan in een gewestelijk ruimtelijk uitvoeringsplan een   besc
 
 ### ART. 6.2.3.
 
-<p>De gehele of gedeeltelijke wijziging of opheffing van een besluit tot definitieve bescherming in de gevallen, vermeld onder artikel 6.2.1, 1° tot en met 3°, gebeurt onder de voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.</p>
-
-<p>De wijziging van een besluit tot definitieve bescherming dat betrekking heeft op een geval zoals vermeld in artikel 6.2.1, 4°, of 5°, kan gebeuren als de eigenaar een schriftelijke toestemming geeft en als het advies van de Commissie wordt gevraagd. Indien de eigenaar geen schriftelijke toestemming geeft, dan gebeurt de wijziging zoals vermeld in artikel 6.2.1, 4°,&nbsp;onder voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18. Indien de eigenaar geen schriftelijke toestemming geeft, dan gebeurt de wijziging in het geval zoals vermeld in artikel 6.2.1, 5°, onder de voorwaarden en in de vorm vastgesteld voor de bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.</p>
+§ 1. In de gevallen, vermeld in artikel 6.2.1, 1° of 3°, kan een besluit tot definitieve bescherming geheel of gedeeltelijk gewijzigd of opgeheven worden onder de voorwaarden en in de vorm die vastgesteld zijn voor een bescherming in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.<br>
+<br>
+§ 2. Een besluit tot definitieve bescherming kan gewijzigd worden omwille van een verplaatsing als vermeld in artikel 6.2.1, 2°, op gezamenlijk verzoek of na akkoord van de betrokken zakelijkrechthouders van de oorspronkelijke locatie en de locatie waarnaar het beschermd goed wordt verplaatst en onder de voorwaarden en in de vorm die vastgesteld zijn voor een bescherming in artikel 6.1.2, 6.1.3, 6.1.5, 6.1.6, 6.1.7, 6.1.9, 6.1.10, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.<br>
+<br>
+Voorafgaand aan het besluit tot voorlopige wijziging worden volgens artikel 6.1.3 adviezen ingewonnen en worden de zakelijkrechthouders van het beschermd monument of van het onroerend goed dat deel uitmaakt van een beschermde archeologische site of een beschermd stads- of dorpsgezicht en de zakelijkrechthouders van het perceel waar het beschermd goed naar wordt verplaatst op de hoogte gebracht. Aan de verplichtingen, vermeld in artikel 6.1.3, eerste tot en met derde lid, kan niet worden voorbijgegaan volgens artikel 6.1.3, vierde lid.<br>
+<br>
+Het agentschap hoort, in afwijking van artikel 6.1.6, tweede lid, de zakelijkrechthouders op hun verzoek en voorafgaand aan het besluit tot voorlopige wijziging. Het verzoek wordt schriftelijk ingediend bij het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving van het ontwerp van besluit tot voorlopige wijziging, vermeld in artikel 6.1.3, derde lid.<br>
+<br>
+De zakelijkrechthouders brengen de gebruikers van het onroerend goed en de zakelijkrechthouders van de cultuurgoederen per beveiligde zending op de hoogte van het ontwerp van besluit tot voorlopige wijziging binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving van het ontwerp van besluit tot voorlopige wijziging, vermeld in artikel 6.1.3, derde lid.<br>
+<br>
+Voorafgaand aan het besluit tot voorlopige wijziging wordt een openbaar onderzoek georganiseerd onder de voorwaarden en in de vorm, vermeld in artikel 6.1.7. Dat openbaar onderzoek heeft betrekking op de oorspronkelijke locatie en de locatie waarnaar het beschermd goed wordt verplaatst. Als het beschermd goed verplaatst wordt naar een andere gemeente, wordt in beide gemeenten een openbaar onderzoek georganiseerd. De betrokken gemeenten hangen een bericht over het openbaar onderzoek uit op beide plaatsen die aangeduid zijn op het plan dat als bijlage bij het ontwerp van besluit tot voorlopige wijziging is gevoegd en publiceren een bericht op hun website.<br>
+<br>
+In afwijking van artikel 6.1.6 en 6.1.16 worden de zakelijkrechthouders van de oorspronkelijke locatie en de locatie waarnaar het beschermde goed wordt verplaatst, per beveiligde zending op de hoogte gebracht van het besluit tot voorlopige en definitieve wijziging van een besluit tot definitieve bescherming van een archeologische site, een monument of een stads- of dorpsgezicht.<br>
+<br>
+§ 3. In de gevallen, vermeld in artikel 6.2.1, 4° of 5°, kan een besluit tot definitieve bescherming gewijzigd worden als de eigenaar schriftelijk toestemming verleent en als het advies van de Commissie wordt gevraagd. Als de eigenaar geen schriftelijke toestemming verleent, dan gebeurt de wijziging, vermeld in artikel 6.2.1, 4°, onder de voorwaarden en in de vorm die vastgesteld zijn voor de bescherming, vermeld in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.7, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18. Als de eigenaar geen schriftelijke toestemming verleent, dan gebeurt de wijziging in het geval, vermeld in artikel 6.2.1, 5°, onder de voorwaarden en in de vorm vastgesteld voor de bescherming, vermeld in artikel 6.1.2, 6.1.5, 6.1.6, 6.1.13, 6.1.15, 6.1.16, 6.1.17 en 6.1.18.
 
 ## Onderafdeling 2 Voorlopige wijziging of opheffing van een besluit tot definitieve bescherming
 
 ### ART. 6.2.4.
 
-De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het   besluit tot definitieve bescherming advies in bij de Vlaamse Commissie Onroerend   Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van dertig dagen,   ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn   wordt overschreden, wordt het advies geacht gunstig te zijn. De termijn van   dertig dagen kan door de Vlaamse Regering eenmalig worden verlengd met dertig   dagen op vraag van de Vlaamse Commissie Onroerend Erfgoed.<BR>
+De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het besluit tot definitieve bescherming in de gevallen, vermeld onder artikel 6.2.1, 1°, 3°, 4° of 5°,&nbsp;advies in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, wordt het advies geacht gunstig te zijn. De termijn van dertig dagen kan door de Vlaamse Regering eenmalig worden verlengd met dertig dagen op vraag van de Vlaamse Commissie Onroerend Erfgoed.
 
 ### ART. 6.2.5.
 
-<p>Het besluit tot voorlopige wijziging of opheffing bevat minstens de volgende gegevens :<br>
+<p>De Vlaamse Regering stelt het besluit tot voorlopige wijziging of opheffing vast. Het besluit tot voorlopige wijziging of opheffing bevat minstens de volgende gegevens :<br>
 1° het opschrift van het besluit dat gewijzigd of opgeheven wordt;<br>
 2° de datum van bekendmaking in het Belgisch Staatsblad van het besluit dat gewijzigd of opgeheven wordt;<br>
 3° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop het beschermde goed zich bevindt;<br>
@@ -717,12 +759,13 @@ De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het   bes
 5° in geval van wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving van de impact op de beheersdoelstellingen, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud en, in voorkomend geval, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone;<br>
 6° de aanduiding van de te registeren en te documenteren erfgoedwaarden die verloren gaan;<br>
 7° in geval van gedeeltelijke of volledige opheffing de eventuele verplichting om het beschermde goed te verplaatsen of om onderdelen met erfgoedwaarde in een erkend onroerenderfgoeddepot te plaatsen;<br>
-8° in geval van opheffing vanwege een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de verplaatsing en de heroprichting op een geschikte plaats.</p>
+8° in geval van&nbsp;wijziging vanwege een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de verplaatsing en de heroprichting op een geschikte plaats en de termijnen waarbinnen die maatregelen uitgevoerd moeten zijn.</p>
 
 <p>Bij elk besluit tot voorlopige wijziging of tot gedeeltelijke opheffing worden de volgende bijlagen gevoegd :<br>
-1° een gegeorefereerd plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+1° een&nbsp;plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid; In het geval van een wijziging wegens een verplaatsing als vermeld in artikel 6.2.1, 2°, worden zowel de oorspronkelijke locatie als de locatie waarnaar het beschermd goed wordt verplaatst, nauwkeurig afgelijnd en worden de plaatsen van aanplakking aangeduid;<br>
 2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
-3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed.</p>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed.<br>
+4° in geval van een wijziging wegens een verplaatsing als vermeld in artikel 6.2.1, 2°, een document waarin het agentschap zich uitspreekt over de ingediende bezwaren en opmerkingen en in voorkomend geval over de uitgebrachte adviezen en het verslag van de hoorzitting.</p>
 
 <p>De Vlaamse Regering kan de gegevens die in elk besluit tot voorlopige wijziging of opheffing of in de bijlagen zijn opgenomen, nader omschrijven of uitbreiden.</p>
 
@@ -730,7 +773,7 @@ De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het   bes
 
 ### ART. 6.2.6.
 
-<p>&nbsp;Het besluit tot definitieve wijziging of opheffing bevat minstens de volgende gegevens :<br>
+<p>Het besluit tot definitieve wijziging of opheffing bevat minstens de volgende gegevens :<br>
 1° het opschrift van het besluit dat gewijzigd of opgeheven wordt;<br>
 2° de datum van bekendmaking in het Belgisch Staatsblad van het besluit dat gewijzigd of opgeheven wordt;<br>
 3° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop het beschermde goed zich bevindt;<br>
@@ -738,19 +781,36 @@ De Vlaamse Regering wint over de voorlopige wijziging of opheffing van het   bes
 5° in geval van wijziging een beschrijving van de impact op de erfgoedwaarden, een beschrijving van de gevolgen voor de beheersdoelstellingen, een beschrijving van de gevolgen voor de bijzondere voorschriften voor de instandhouding en het onderhoud en, in voorkomend geval, de gevolgen voor de bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone;<br>
 6° de aanduiding van de te registeren en te documenteren erfgoedwaarden die verloren gaan;<br>
 7° in geval van opheffing de eventuele verplichting om het beschermde goed te verplaatsen of om de onderdelen met erfgoedwaarde in een onroerenderfgoeddepot te plaatsen;<br>
-8° in geval van opheffing vanwege een verplaatsing als vermeld in artikel 6.2.1, 2°, de maatregelen die nodig zijn voor de ontmanteling, de verplaatsing en de heroprichting van het onroerend goed op een geschikte plaats.</p>
+8° ...</p>
 
 <p>Bij elk besluit tot definitieve wijziging of tot gedeeltelijke opheffing worden de volgende bijlagen gevoegd :<br>
-1° een gegeorefereerd plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van de aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+1° een&nbsp;plan waarop het beschermde goed en in voorkomend geval de overgangszone&nbsp;na wijziging of gedeeltelijke opheffing nauwkeurig wordt afgelijnd en waarop de plaats van de aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
 2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
 3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed;<br>
-4° een document waaruit de behandeling van de bezwaren blijkt.</p>
+4° een document waarin het agentschap zich uitspreekt over de ingediende bezwaren en opmerkingen en in voorkomend geval over de uitgebrachte adviezen en het verslag van de hoorzitting.</p>
 
 <p>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve wijziging of opheffing of in de bijlagen zijn opgenomen nader omschrijven of uitbreiden.</p>
 
 ### ART. 6.2.7.
 
-Tot de vaststelling van het besluit tot definitieve wijziging of opheffing   blijven de rechtsgevolgen van het vorige besluit tot definitieve bescherming van   kracht. De rechtsgevolgen van een besluit tot wijziging of opheffing zijn van   toepassing :<BR>1° op de zakelijkrechthouders vanaf de kennisgeving, vermeld in   artikel 6.1.16;<BR>2° op de gebruikers en de eigenaars van de cultuurgoederen   vanaf de kennisgeving door de zakelijkrechthouders, vermeld in artikel   6.1.16;<BR>3° op iedereen vanaf de bekendmaking ervan in het Belgisch   Staatsblad, vermeld in artikel 6.1.15.<BR>
+Bij een gehele of gedeeltelijke wijziging of opheffing van een besluit tot definitieve bescherming in de gevallen, vermeld in artikel 6.2.1, 1°, 3°, 4° en 5°, blijven tot de vaststelling van het besluit tot definitieve wijziging of opheffing de rechtsgevolgen van het vorige besluit tot definitieve bescherming van kracht.&nbsp;De rechtsgevolgen van een besluit tot wijziging of opheffing zijn van toepassing :<br>
+1° op de zakelijkrechthouders vanaf de kennisgeving, vermeld in artikel 6.1.16;<br>
+2° op de gebruikers en de eigenaars van de cultuurgoederen vanaf de kennisgeving door de zakelijkrechthouders, vermeld in artikel 6.1.16;<br>
+3° op iedereen vanaf de bekendmaking ervan in het Belgisch Staatsblad, vermeld in artikel 6.1.15.
+
+### ART 6.2.8.
+
+§ 1. Bij een wijziging van een besluit tot definitieve bescherming wegens een verplaatsing als vermeld in artikel 6.2.1, 2°, blijven, met behoud van de toepassing van de rechtsgevolgen, vermeld in artikel 6.1.9, de rechtsgevolgen van het vorige besluit tot definitieve bescherming van kracht tot de definitieve wijziging van het beschermingsbesluit wegens een verplaatsing.<br>
+<br>
+In afwijking van artikel 6.1.9, § 2, kan de Vlaamse Regering de termijn, vermeld in artikel 6.1.9, § 1, eenmalig verlengen met maximaal 270 dagen.<br>
+<br>
+Het verkrijgen van een toelating of vergunning voor de ontmanteling en de verplaatsing van het onroerend goed schorst de termijn, vermeld in artikel 6.1.9 en eventueel verlengd overeenkomstig het tweede lid.<br>
+<br>
+§ 2. Het besluit tot voorlopige wijziging vervalt van rechtswege als:<br>
+1° er geen toelating of vergunning voor de ontmanteling, de verplaatsing en de heroprichting van het onroerend goed verleend is binnen de termijn, vermeld in artikel 6.1.9 en eventueel verlengd overeenkomstig paragraaf 1, tweede lid;<br>
+2° de verwezenlijking van de toegelaten of vergunde handelingen niet wordt gestart binnen de twee jaar na het verlenen van de toelating of vergunning.<br>
+<br>
+De termijn van twee jaar, vermeld in het eerste lid, 2°, wordt geschorst in de gevallen, vermeld in artikel 101 van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ## Afdeling 3 Informatie over beschermde goederen
 
@@ -828,19 +888,31 @@ De cultuurgoederen die opgenomen zijn in een besluit tot bescherming van   een m
 
 ### ART. 6.4.7.
 
-<P>De sloop van een beschermd monument is verboden.<BR></P>  <P>De Vlaamse Regering kan een toelating verlenen voor de gedeeltelijke sloop   van een beschermd monument en voor de gehele of gedeeltelijke sloop of voor het   optrekken, plaatsen of herbouwen van een gebouw of constructie in een beschermd   stads- en dorpsgezicht als dat de erfgoedwaarde ervan niet wezenlijk aantast. De   toelating vermeldt de voorwaarden waaronder de sloop en het optrekken, plaatsen   of herbouwen van het gebouw of de constructie worden toegelaten.<BR></P>  <P>De Vlaamse Regering kan de nadere regels daarvoor   bepalen.<BR></P>
+<p>De sloop van een beschermd monument is verboden.</p>
+
+<p>De Vlaamse Regering kan een toelating verlenen voor de gedeeltelijke sloop van een beschermd monument en voor de gehele of gedeeltelijke sloop of voor het optrekken, plaatsen of herbouwen van een gebouw of constructie in een beschermd stads- en dorpsgezicht als dat de erfgoedwaarde ervan niet wezenlijk aantast. De toelating vermeldt de voorwaarden waaronder de sloop en het optrekken, plaatsen of herbouwen van het gebouw of de constructie worden toegelaten.</p>
+
+<p>De Vlaamse Regering kan bij een wijziging van het besluit tot definitieve bescherming wegens een verplaatsing als vermeld in artikel 6.2.1, 2°, na de vaststelling van het besluit tot voorlopige wijziging een toelating verlenen voor de gehele sloop van een beschermd goed. De toelating vermeldt de voorwaarden waaronder de ontmanteling, de verplaatsing en de heroprichting worden toegelaten.<br>
+<br>
+De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
 
 ## Onderafdeling 4 Informatieplicht met betrekking tot publiciteit
 
 ### ART. 6.4.8.
 
-<P>Iedereen die voor eigen rekening of als tussenpersoon een beschermd goed   verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een   erfpacht of een opstalrecht overdraagt of op andere wijze de eigendomsoverdracht   met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de hieraan   verbonden publiciteit dat het onroerend goed beschermd is en de rechtsgevolgen   die aan de bescherming verbonden zijn.<BR></P>  <P>De Vlaamse Regering kan de nadere regels vaststellen voor de vorm en de   modaliteiten van de vermeldingen in de publiciteit en voor de vrijstelling van   deze bepalingen voor bepaalde vormen van publiciteit.<BR></P>
+<p>Iedereen die voor eigen rekening of als tussenpersoon een beschermd goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht vestigt of overdraagt of op andere wijze de eigendomsoverdracht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de hieraan verbonden publiciteit dat het onroerend goed beschermd is en de rechtsgevolgen die aan de bescherming verbonden zijn.</p>
+
+<p>De Vlaamse Regering kan de nadere regels vaststellen voor de vorm en de modaliteiten van de vermeldingen in de publiciteit en voor de vrijstelling van deze bepalingen voor bepaalde vormen van publiciteit.</p>
 
 ## Onderafdeling 5 Informatieplicht onderhandse en authentieke akten
 
 ### ART. 6.4.9.
 
-<P>Iedereen die voor eigen rekening of als tussenpersoon een beschermd goed   verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een   erfpacht of een opstalrecht overdraagt of op andere wijze de eigendomsoverdracht   met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de   onderhandse of authentieke akte dat het onroerend goed beschermd is en de   rechtsgevolgen die aan de bescherming verbonden zijn door een verwijzing naar   hoofdstuk 6 van dit decreet en het beschermingsbesluit in de akte op te nemen.   De instrumenterend ambtenaar meldt de overdracht aan het agentschap.<BR></P>  <P>Als de instrumenterend ambtenaar een onderhandse akte in een authentieke akte   dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van   het eerste lid, dan wijst hij de partijen bij de opmaak van de akte op het   eerste lid. De partijen kunnen geen vordering tot vernietiging inroepen als de   inbreuk op de informatieplicht is rechtgezet bij de authentieke akteverlening en   de informatiegerechtigde in deze akte verzaakt aan de vordering tot   nietigverklaring op basis van een inbreuk op de informatieplicht.<BR></P>  <P>De Vlaamse Regering kan de nadere regels voor de informatieplicht   bepalen.<BR></P>
+<p>Iedereen die voor eigen rekening of als tussenpersoon een beschermd goed verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht vestigt of overdraagt of op andere wijze de eigendomsoverdracht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de onderhandse of authentieke akte dat het onroerend goed beschermd is en de rechtsgevolgen die aan de bescherming verbonden zijn door een verwijzing naar hoofdstuk 6 van dit decreet en het beschermingsbesluit in de akte op te nemen. De instrumenterend ambtenaar meldt de overdracht aan het agentschap.</p>
+
+<p>Als de instrumenterend ambtenaar een onderhandse akte in een authentieke akte dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van het eerste lid, dan wijst hij de partijen bij de opmaak van de akte op het eerste lid.</p>
+
+<p>De Vlaamse Regering kan de nadere regels voor de informatieplicht bepalen.</p>
 
 ## Onderafdeling 6 Onteigening
 
@@ -1036,7 +1108,7 @@ De in artikel 11.2.2, eerste lid 1° tot en met 8°, en artikel 11.2.2, eerste l
 
 <p>De volgende handelingen of nalatigheden worden bestraft met een gevangenisstraf van acht dagen tot vijf jaar en met een geldboete van 26 euro tot 400.000 euro of met een van die straffen alleen :<br>
 1° het slopen van een in de vastgestelde inventaris bouwkundig erfgoed opgenomen onroerend goed zonder over de daartoe vereiste uitvoerbare stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen te beschikken;<br>
-2° het niet naleven van de bijzondere voorschriften voor de instandhouding en het onderhoud van een voorlopige of definitieve bescherming of het niet naleven van de verplichtingen, vermeld in artikel 6.1.4, § 2, eerste lid, 8° en 9°, artikel 6.1.14, eerste lid, 8° en 9°, artikel 6.2.5, eerste lid, 7° en 8°, en artikel 6.2.6, eerste lid, 7° en 8°;<br>
+2° het niet naleven van de bijzondere voorschriften voor de instandhouding en het onderhoud van een voorlopige of definitieve bescherming of het niet naleven van de verplichtingen, vermeld in artikel 6.1.4, § 2, eerste lid, 8° en 9°, artikel 6.1.14, eerste lid, 8° en 9°, artikel 6.2.5, eerste lid, 7° en 8°, en artikel 6.2.6, eerste lid, 7°;<br>
 3° het uitvoeren van overeenkomstig artikel 6.4.4, 6.4.5 of 6.4.7 aan een toelating, stedenbouwkundige vergunning, verkavelingsvergunning, milieuvergunning, omgevingsvergunning, machtiging, ontheffing of afwijking onderworpen handeling zonder of in strijd met de toelating, stedenbouwkundige vergunning, verkavelingsvergunning, milieuvergunning, omgevingsvergunning, machtiging, ontheffing of afwijking;<br>
 4° het uitvoeren van de handelingen, vermeld in artikel 5.1.3, zonder uitvoerbare toelating of melding, of in strijd met de code van goede praktijk,&nbsp;de voorwaarden of maatregelen van de toelating, de melding, de bekrachtigde archeologienota of de bekrachtigde nota;<br>
 5° het niet aangeven van een toevalsvondst overeenkomstig de bepalingen van artikel 5.1.4 of het niet naleven van de verplichtingen bepaald in dit artikel;<br>
