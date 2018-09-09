@@ -90,7 +90,11 @@ De ambtenaren van het Bestuur der BTW, Registratie en Domeinen zijn bevoegd om d
 
 ### ART. 15.
 
-§ 1. De Vlaamse regering wordt gemachtigd om BAM jaarlijks, binnen de perken van de begrotingskredieten, een werkingstoelage toe te kennen ten laste van de begroting van het Vlaamse Gewest.<br /><br />Daarnaast kan BAM ook toelagen ontvangen van andere vennoten en inkomsten verwerven door prestaties te leveren aan derden of door het valoriseren van de roerende en onroerende goederen waarvan zij eigenaar is of die zij beheert.<br /><br />§ 2. BAM waakt er over dat het merendeel van de directe uitgaven voor de financiering, de realisatie, het beheer en de exploitatie van de vierde Scheldeoeververbinding, met inbegrip van de daaraan gerelateerde schuldfmanciering, minstens gedurende de realisatie- en uitbatingsperiode niet beschouwd worden als uitgaven of schulden van de Vlaamse overheid in de zin van het Europees Rekeningenstelsel 1995.
+§ 1. De Vlaamse regering wordt gemachtigd om BAM jaarlijks, binnen de perken van de begrotingskredieten, een werkingstoelage toe te kennen ten laste van de begroting van het Vlaamse Gewest.<br>
+<br>
+Daarnaast kan BAM ook toelagen ontvangen van andere vennoten en inkomsten verwerven door prestaties te leveren aan derden of door het valoriseren van de roerende en onroerende goederen waarvan zij eigenaar is of die zij beheert.<br>
+<br>
+§ 2. ....
 
 ### ART. 16.
 
