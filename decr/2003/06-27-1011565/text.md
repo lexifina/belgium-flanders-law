@@ -98,7 +98,7 @@ Aan de Vlaamse Milieumaatschappij wordt vanaf juli 2003 een dotatie verleend voo
 
 ### ART. 19.
 
-§ 1. Een "Fonds voor de bestrijding van het tabaks- en middelengebruik" wordt opgericht, hierna Fonds te noemen. Het Fonds is een begrotingsfonds zoals bedoeld in artikel 45 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />§ 2. Het Fonds wordt gespijsd met de middelen die in uitvoering van het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapcommissie, de Franse Gemeenschapcommissie en het Waalse Gewest over de bestrijding van tabaksgebruik aan de Vlaamse Gemeenschap wordt toegekend.<br /><br />§ 3. Ten laste van dit Fonds worden alle uitgaven van de administratie Gezondheidszorg aangerekend, voorzover deze verband houden met de uitvoering van het samenwerkingsakkoord tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie, de Franse Gemeenschapscommissie en het Waalse Gewest over de bestrijding van het tabaksgebruik en de preventie van het middelengebruik in het algemeen.<br /><br />§ 4. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het Fonds.
+...
 
 ## HOOFDSTUK VI CULTUUR
 
