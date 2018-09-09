@@ -95,7 +95,11 @@ Vanaf het eerste jaar van de tweede bestuursperiode is de toe te passen index ge
 
 ### ART. 11.
 
-§ 1. Het berekende gemeentelijk aandeel, na de toepassing van de waarborgregeling, bedoeld in artikel 10 van dit decreet, wordt verminderd als de aanslagvoeten voor de aanvullende personenbelasting of de opcentiemen op de onroerende voorheffing van die gemeente, in het jaar dat aan de berekening voorafgaat, lager zijn dan de respectieve drempelwaarden van 5 % en 700 opcentiemen. Die vermindering bedraagt respectievelijk 0,5 % voor elk tiende van een procent en vijfentwintig zevenhonderdste procent voor elke opcentiem onder de drempelwaarde.<br /><br />§ 2. De som van de bedragen die in mindering wordt gebracht van de gemeenten bedoeld in § 1, wordt evenredig verdeeld onder de overige gemeenten, behalve onder de gemeenten van wie de aandelen overeenkomstig de bepalingen in artikel 10, verhoogd werden tot de gewaarborgde ontvangst.<br /><br />§ 3. De vermindering van de aandelen op basis van de fiscale aanslagvoeten wordt gradueel ingevoerd vanaf het jaar 2004. Voor 2004 wordt slechts een derde van de berekende vermindering afgehouden van het gemeentelijk aandeel. Voor 2005 is dat twee derden, voor 2006 en volgende jaren 100 %.
+§ 1. Het berekende gemeentelijk aandeel, na de toepassing van de waarborgregeling, bedoeld in artikel 10 van dit decreet, wordt verminderd als de aanslagvoeten voor de aanvullende personenbelasting of de opcentiemen op de onroerende voorheffing van die gemeente, in het jaar dat aan de berekening voorafgaat, lager zijn dan de respectieve drempelwaarden van 5 % en&nbsp;441 opcentiemen. Die vermindering bedraagt respectievelijk 0,5 % voor elk tiende van een procent en vijfentwintig&nbsp;vierhonderdeenenveertigste procent voor elke opcentiem onder de drempelwaarde.<br>
+<br>
+§ 2. De som van de bedragen die in mindering wordt gebracht van de gemeenten bedoeld in § 1, wordt evenredig verdeeld onder de overige gemeenten, behalve onder de gemeenten van wie de aandelen overeenkomstig de bepalingen in artikel 10, verhoogd werden tot de gewaarborgde ontvangst.<br>
+<br>
+§ 3. De vermindering van de aandelen op basis van de fiscale aanslagvoeten wordt gradueel ingevoerd vanaf het jaar 2004. Voor 2004 wordt slechts een derde van de berekende vermindering afgehouden van het gemeentelijk aandeel. Voor 2005 is dat twee derden, voor 2006 en volgende jaren 100 %.
 
 ## HOOFDSTUK III VEREFFENING VAN DE AANDELEN
 
