@@ -18,16 +18,24 @@ Voor de toepassing van dit decreet wordt verstaan onder :<BR>1° dieren :   de l
 
 ### ART. 4.
 
-<P>Het Vlaams Landbouwfonds kan zijn middelen aanwenden voor de prefinanciering   of financiering van : <BR>1° de uitgaven ter uitvoering van het decreet van 28   juni 2013 betreffende het landbouw- en visserijbeleid en de uitvoeringsbesluiten   ervan;<BR>2° de kosten die verbonden zijn aan opdrachten, programma's of   projecten die voor rekening van het Vlaams Landbouwfonds uitgevoerd worden;   <BR>3° de uitgaven van en voor de dataverzameling en de adviesverlening in het   kader van het gemeenschappelijk landbouw- en visserijbeleid;<BR>4° de uitgaven   van het beleidsdomein Landbouw en Visserij ter uitvoering van het beleid voor   plattelandsontwikkeling;<BR>5° de uitgaven van het beleidsdomein Landbouw en   Visserij om schade te vergoeden, zoals voor het delgen van kosten voor het   vernietigen, het uit de handel nemen, het behandelen, het bewerken of verwerken,   of het geven van een andere bestemming dan een normale bestemming aan de   landbouw- en visserijproducten of grondstoffen, vermeld in artikel 2, 3°, van   het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, en, in   voorkomend geval, voor het delgen van het inkomensverlies dat daarmee gepaard   gaat, als : <BR>a) de schade voortvloeit uit een beslissing van de Europese   Unie, van de federale of van de Vlaamse overheid, zonder dat de schade   veroorzaakt is door de schadelijder;<BR>b) de schade niet voortvloeit uit   bestrijdingsprogramma's met betrekking tot de dieren- of   plantengezondheid;<BR>6° de uitgaven voor het vergoeden van de economische   schade, vermeld in artikel 14 van het decreet van 3 april 2009 houdende de   organisatie van co-existentie van genetisch gemodificeerde gewassen met   conventionele en biologische gewassen en de uitvoeringsbesluiten   ervan</P>
+<p>Het Vlaams Landbouwfonds kan zijn middelen aanwenden voor de prefinanciering of financiering van :<br>
+1° de uitgaven ter uitvoering van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid en de uitvoeringsbesluiten ervan;<br>
+2° de kosten die verbonden zijn aan opdrachten, programma's of projecten die voor rekening van het Vlaams Landbouwfonds uitgevoerd worden;<br>
+3° de uitgaven van en voor de dataverzameling en de adviesverlening in het kader van het gemeenschappelijk landbouw- en visserijbeleid;<br>
+4° de uitgaven van het beleidsdomein Landbouw en Visserij ter uitvoering van het beleid voor plattelandsontwikkeling;<br>
+5° de uitgaven van het beleidsdomein Landbouw en Visserij om schade te vergoeden, zoals voor het delgen van kosten voor het vernietigen, het uit de handel nemen, het behandelen, het bewerken of verwerken, of het geven van een andere bestemming dan een normale bestemming aan de landbouw- en visserijproducten of grondstoffen, vermeld in artikel 2, 3°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, en, in voorkomend geval, voor het delgen van het inkomensverlies dat daarmee gepaard gaat, als :<br>
+a) de schade voortvloeit uit een beslissing van de Europese Unie, van de federale of van de Vlaamse overheid, zonder dat de schade veroorzaakt is door de schadelijder;<br>
+b) de schade niet voortvloeit uit bestrijdingsprogramma's met betrekking tot de dieren- of plantengezondheid;<br>
+6° ...</p>
 
 ### ART. 5.
 
 <p>De middelen van het Vlaams Landbouwfonds worden gevormd door :<br>
 1° de verplichte bijdragen, opgelegd met toepassing van het tweede lid, en artikel 8, § 1, ten laste van natuurlijke personen en rechtspersonen die activiteiten verrichten in de sectoren, vermeld in artikel 3 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
 2° de vergoedingen, de rechten, de heffingen, de afhoudingen en de toeslagen, vermeld in artikel 4, 5°, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, en de retributies, vermeld in artikel 4, 5° /1, van het voormelde decreet, tenzij de vergoedingen, rechten, heffingen of afhoudingen, toeslagen of retributies zonder tussenkomst van het Vlaams Landbouwfonds door de heffingsplichtige aan de dienstverlener worden betaald voor het verrichten van bepaalde diensten of voor het opzetten van bepaalde acties die verband houden met de vergoeding;<br>
-3° de bijdragen en geldboeten, opgelegd in het kader van het decreet van 3 april 2009 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele en biologische gewassen;<br>
-4° de administratieve geldboeten en exclusief bestuurlijke geldboeten, opgelegd ter uitvoering van het decreet betreffende het landbouw- en visserijbeleid;<br>
-5° de betalingen van de expertisekosten en van de bedragen die overeenstemmen met het economische voordeel, die moeten betaald worden ter uitvoering van het decreet betreffende het landbouw- en visserijbeleid;<br>
+3° ...;<br>
+4° ...;<br>
+5° ...;<br>
 6° de vrijwillige bijdragen, alsook de uitzonderlijke ontvangsten;<br>
 7° de ontvangsten voor de uitvoering van diensten voor derden, met inbegrip van overheidsinstellingen;<br>
 8° de ontvangsten die voortvloeien uit de deelneming van de Europese Unie in de uitgaven van het Vlaams Landbouwfonds;<br>
@@ -45,7 +53,19 @@ De verplichte bijdragen, retributies, rechten en vergoedingen, vermeld in het ee
 
 ### ART. 7.
 
-<P>§ 1. Bij het Vlaams Landbouwfonds wordt een raad opgericht.<BR><BR>De Vlaamse   Regering bepaalt de organisatie, samenstelling en werkwijze van die   raad.<BR><BR>§ 2. Bij het vaststellen van de inkomsten en de uitgaven wordt   rekening gehouden met het advies van de raad en met een evenredige verdeling   tussen de sectoren en subsectoren.<BR><BR>De raad geeft advies over : <BR>1° het   programma van de uitgaven van het Vlaams Landbouwfonds, dat vastgelegd wordt   door de minister; <BR>2° alle vragen waarvan de minister de raad opdraagt ze te   onderzoeken.<BR><BR>De raad kan aan de minister elk voorstel voorleggen voor het   toepassingsdomein van het Vlaams Landbouwfonds.<BR><BR>§ 3. De raad verleent   geen advies over de middelen die worden ontvangen en de uitgaven die worden   gedaan ter uitvoering van het decreet van 3 april 2009 houdende de organisatie   van co-existentie van genetisch gemodificeerde gewassen met conventionele en   biologische gewassen.</P>
+<p>§ 1. Bij het Vlaams Landbouwfonds wordt een raad opgericht.<br>
+<br>
+De Vlaamse Regering bepaalt de organisatie, samenstelling en werkwijze van die raad.<br>
+<br>
+§ 2. Bij het vaststellen van de inkomsten en de uitgaven wordt rekening gehouden met het advies van de raad en met een evenredige verdeling tussen de sectoren en subsectoren.<br>
+<br>
+De raad geeft advies over :<br>
+1° het programma van de uitgaven van het Vlaams Landbouwfonds, dat vastgelegd wordt door de minister;<br>
+2° alle vragen waarvan de minister de raad opdraagt ze te onderzoeken.<br>
+<br>
+De raad kan aan de minister elk voorstel voorleggen voor het toepassingsdomein van het Vlaams Landbouwfonds.<br>
+<br>
+§ 3. ...</p>
 
 ### ART. 8.
 
