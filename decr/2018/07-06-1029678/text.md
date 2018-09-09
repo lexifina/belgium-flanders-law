@@ -2,11 +2,25 @@
 
 ## HOOFDSTUK 1. Algemeen
 
+### ART 1.
+
+Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Mobiliteit en Openbare Werken
 
 ## Afdeling 1. Wijziging van het decreet houdende de oprichting van de nv BAM
 
+### ART 2.
+
+In artikel 15 van het decreet van 13 december 2002 houdende de oprichting van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel (BAM), zoals laatst gewijzigd door het decreet van 13 juli 2012, wordt paragraaf 2 opgeheven.
+
 ## Afdeling 2. Subsidie voor de nv Internationale Luchthaven Kortrijk-Wevelgem inzake veiligheid en beveiliging
+
+### ART 3.
+
+In artikel 65 van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen wordt een paragraaf 4 ingevoegd, die luidt als volgt :<br>
+<br>
+" § 4. De Vlaamse Regering kan tijdelijk, en uiterlijk tot 31 maart 2024, binnen de perken van de daartoe op de begroting beschikbare kredieten, een toelage toekennen aan de nv Internationale Luchthaven Kortrijk-Wevelgem tot dekking van de lasten die voortvloeien uit het verstrekken van de taken inzake veiligheid en beveiliging (inclusief brandweerdiensten). De Vlaamse Regering bepaalt de wijze van berekening, de parameters en de betalingsmodaliteiten van deze toelage.".
 
 ## HOOFDSTUK 3. Cultuur, Jeugd, Sport en Media
 
@@ -31,6 +45,24 @@ De Vlaamse Regering beslist over de verdeling van de middelen, vermeld in het ee
 
 ## Afdeling 2. Provinciale middelen Jeugd
 
+### ART 5.
+
+In artikel 13 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid wordt paragraaf 2, opgeheven bij het decreet van 18 december 2015, opnieuw opgenomen in de volgende lezing :<br>
+<br>
+" § 2. Voor de periode 2018 tot en met 2021 kan de Vlaamse Regering, in het kader van de afslanking van de provincies, bijkomende middelen toekennen aan erkende landelijk georganiseerde jeugdverenigingen, verenigingen informatie en participatie en cultuureducatieve verenigingen. Deze middelen omvatten een subsidiëring van een kern van personeelsleden en een subsidiëring op grond van werkelijk gepresteerde activiteiten. Deze middelen worden toegekend aan verenigingen die ressorteren onder dit decreet en in 2014 een provinciale subsidie ontvingen, voor zover die provinciale middelen nog niet werden toegevoegd aan de aanvullende variabele subsidie, als vermeld in paragraaf 1, tweede lid.".
+
+## Afdeling 3. Fonds Vrijwilligersbeleid
+
+### ART 6.
+
+Er wordt een begrotingsfonds Vrijwilligersbeleid opgericht, hierna "het Fonds" te noemen.<br>
+<br>
+Het Fonds is een begrotingsfonds zoals vermeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+Het Fonds wordt gefinancierd door alle ontvangsten die voortvloeien uit de overdracht van de reserve, die de Vereniging van de Vlaamse Provincies heeft aangelegd met de middelen die de Nationale Loterij ter beschikking heeft gesteld voor de financiering van de vrijwilligersverzekering.<br>
+<br>
+Het Fonds wordt aangewend voor de financiering van de verzekering als bedoeld in artikel 6 van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, en voor het beheer en de promotie ervan.
+
 ## Afdeling 4. Indexatie dotatie diensten met afzonderlijk beheer "de beheersdienst van het Kasteel-Domein van Gaasbeek" en "het cultuur- en congrescentrum van de Vlaamse Gemeenschap `Landcommanderij Alden Biesen' te Bilzen"
 
 ### ART 7.
@@ -42,6 +74,29 @@ Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 decemb
 ## HOOFDSTUK 4. Omgeving
 
 ## Afdeling 1. Opheffing Fonds Grondwaterbeheer
+
+### ART 8.
+
+In artikel 10.2.3, § 1, tweede lid, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, gewijzigd bij de decreten van 22 december 2006, 21 december 2012 en 19 december 2014, ingevoegd bij het decreet van 7 mei 2004, gewijzigd bij de decreten van 24 december 2004, 23 december 2005, 30 juni 2006 en 18 december 2015, wordt het punt 13° opgeheven.
+
+### ART 9.
+
+In artikel 10.2.5 van hetzelfde decreet, ingevoegd bij het decreet van 7 mei 2004, gewijzigd bij de decreten van 23 december 2005, 22 december 2006, 21 december 2012 en 19 december 2014, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° in paragraaf 2 wordt het tweede lid vervangen door wat volgt :<br>
+"In afwijking van het eerste lid zijn de in paragraaf 1, 13° en 14°, genoemde ontvangsten te beschouwen als toegewezen ontvangsten. Zij mogen aangewend worden in het kader van het beleid inzake de waterhuishouding, en voor de Polders en Wateringen, met uitzondering evenwel van de loon- en werkingskosten van de Vlaamse Milieumaatschappij.";<br>
+<br>
+2° in paragraaf 2 wordt het derde lid opgeheven;<br>
+<br>
+3° in paragraaf 5 wordt in punt 2° tussen de zinsnede " § 1, 13° " en de zinsnede ", vermelde ontvangsten" de zinsnede "en 14° " ingevoegd;<br>
+<br>
+4° in paragraaf 5 wordt tussen de punten 3° en 4° een punt 3° /1 ingevoegd dat luidt als volgt :<br>
+"3° /1 het per 12 mei 2006 beschikbaar saldo en de op die datum nog openstaande vorderingen, verbintenissen en verplichtingen van het Schadefonds opgericht bij decreet van 24 januari 1984 en gewijzigd bij decreet van 12 december 1990, worden overgedragen naar het Fonds voor de Waterhuishouding, opgericht bij dit decreet;";<br>
+<br>
+5° in paragraaf 5 wordt punt 4° vervangen door wat volgt :<br>
+"4° de middelen van het Fonds voor de Waterhuishouding kunnen aangewend worden voor al wat dienen kan in het raam van het beleid inzake waterhuishouding, en voor de polders en de wateringen, met uitzondering evenwel van de loon- en werkingskosten van de Vlaamse Milieumaatschappij.";<br>
+<br>
+6° paragraaf 6 wordt opgeheven.
 
 ## Afdeling 2. Rechtzetting verwijzing Klimaatfonds
 
@@ -64,6 +119,35 @@ In artikel 2.9.4.2.10, § 4, tweede lid, van hetzelfde decreet, ingevoegd bij he
 In artikel 2.9.4.2.14, § 4, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 mei 2018, worden de woorden "als die premies" vervangen door de zinsnede "noch met de vermindering van de personenbelasting, vermeld in artikel 14536 van het Wetboek van de Inkomstenbelastingen 1992, als de voormelde premies of de belastingvermindering".
 
 ## HOOFDSTUK 5. Landbouw en Visserij
+
+### ART 14.
+
+§ 1. Er wordt een "Fonds toezicht en handhaving Landbouwdecreet" opgericht, hierna "het Fonds" te noemen. Het Fonds is een begrotingsfonds als bedoeld in artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+§ 2. De middelen van het Fonds bestaan uit :<br>
+1° de administratieve geldboeten en exclusief bestuurlijke geldboeten, in voorkomend geval de vermeerdering hiervan met het economisch voordeel voortvloeiend uit het plegen van de inbreuk, geïnd in uitvoering van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+2° de expertisekosten geïnd in uitvoering van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+3° de bijdragen en bestuurlijke geldboeten, geïnd in uitvoering van het decreet van 3 april 2009 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele en biologische gewassen.<br>
+<br>
+§ 3. De middelen van het Fonds kunnen worden aangewend voor :<br>
+1° specifieke werkingskosten in uitvoering van hoofdstuk 3. Controle- en sanctiebepalingen van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+2° de uitgaven voor het vergoeden van de economische schade, vermeld in artikel 14 van het decreet van 3 april 2009 houdende de organisatie van co-existentie van genetisch gemodificeerde gewassen met conventionele en biologische gewassen en de uitvoeringsbesluiten ervan.
+
+### ART 15.
+
+In artikel 4 van het decreet van 19 mei 2006 betreffende de oprichting en werking van het Fonds voor Landbouw en Visserij, vervangen bij het decreet van 28 juni 2013, wordt punt 6° opgeheven.
+
+### ART 16.
+
+In artikel 5 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013, worden punt 3°, 4° en 5° opgeheven.
+
+### ART 17.
+
+In artikel 7 van hetzelfde decreet, vervangen bij het decreet van 28 juni 2013, wordt paragraaf 3 opgeheven.
+
+### ART 18.
+
+In artikel 61 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid wordt de zinsnede "het Fonds voor Landbouw en Visserij, opgericht bij het decreet van 19 mei 2006 betreffende de oprichting en de werking van het Fonds voor Landbouw en Visserij" vervangen door zinsnede "Fonds toezicht en handhaving Landbouwdecreet, opgericht bij het decreet van 6 juli 2018 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018".
 
 ## HOOFDSTUK 6. Financiën en Begroting
 
@@ -90,7 +174,21 @@ In artikel 2.6.7.7.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt
 
 ## Afdeling 1. Wijziging Fonds Departement Kanselarij en Bestuur
 
+### ART 21.
+
+In artikel 9 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° aan het tweede lid wordt een punt 5° toegevoegd, dat luidt als volgt :<br>
+"5° de publieksgerichte werking van het bouwmeesterschap in het kader van het Atelier Bouwmeester.";<br>
+<br>
+2° aan het derde lid wordt een punt 5° toegevoegd, dat luidt als volgt :<br>
+"5° de (co)productie van activiteiten in het kader van de publieksgerichte werking van het bouwmeesterschap en het Atelier Bouwmeester.".
+
 ## Afdeling 2. Wijziging van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds
+
+### ART 22.
+
+In artikel 11, § 1, van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, wordt het getal "700" vervangen door het getal "441" en het woord "zevenhonderdste" vervangen door het woord "vierhonderdeenenveertigste".
 
 ## HOOFDSTUK 8. Onderwijs en Vorming
 
@@ -157,6 +255,10 @@ Art. 22/17. Deze afdeling treedt in werking op 1 september 2018 en houdt op uitw
 ## Afdeling 5. Maatregelen tot uitvoering van cao XI : aanpassing van de rechtsgrond voor een terbeschikkingstelling wegens ontstentenis van betrekking naar aanleiding van de vacantverklaring van bepaalde betrekkingen van personeelsleden die afwezig zijn omwille van een verlofstelsel in het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs (bekrachtigd bij het decreet van 23 december 2016)
 
 ## Afdeling 6. Maatregelen tot uitvoering van cao XI : vereenvoudiging van de procedure betreffende vaste benoeming en vacantverklaring in het decreet rechtpositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
+
+### ART 31.
+
+Aan artikel 3 van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, het laatst gewijzigd bij het decreet van 27 april 2018, wordt aan punt 11° de zin "Met het oog op een vaste benoeming is dit ook een betrekking die vacant wordt verklaard volgens artikel 28, § 1, 4° en 5°, of artikel 100terdecies;" toegevoegd.
 
 ### ART 37.
 
@@ -257,6 +359,10 @@ In artikel 154, § 2, van hetzelfde decreet, het laatst gewijzigd bij het decree
 
 ## Afdeling 10. Machtiging aan AGION voor verbintenissen voor huursubsidies
 
+### ART 48.
+
+In artikel 20 van het decreet van 30 juni 2017 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2017 wordt het bedrag "6.600.000 euro" vervangen door het bedrag "10.200.000 euro".
+
 ## HOOFDSTUK 9. Welzijn, Volksgezondheid en Gezin
 
 ## Afdeling 1. Fonds ter beschikking gestelde ex-provinciale personeelsleden
@@ -271,6 +377,28 @@ De middelen van het fonds dienen aangewend te worden voor de betaling van salari
 
 ## Afdeling 2. Opheffing fonds voor de bestrijding van het tabaks- en middelengebruik
 
+### ART 50.
+
+Artikel 19 van het decreet van 27 juni 2003 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2003 wordt opgeheven.
+
 ## Afdeling 3. Opheffing fonds voor de subsidiëring van zorgvernieuwingsprojecten
 
+### ART 51.
+
+Artikel 24 van het decreet van 24 december 2004 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2004, gewijzigd bij de decreten van 22 december 2006 en 29 juni 2007, wordt opgeheven.
+
 ## HOOFDSTUK 10. Inwerkingtreding
+
+### ART 52.
+
+Dit decreet treedt in werking 10 dagen na bekendmaking in het Belgisch Staatsblad, met uitzondering van :<br>
+1° artikel 4, 7, 23, 24 en 49, die uitwerking hebben vanaf 1 januari 2018;<br>
+2° artikel 10, dat uitwerking heeft vanaf 6 mei 2014;<br>
+3° artikel 11 en 12, die in werking treden op de dag die volgt op de bekendmaking in het Belgisch Staatsblad;<br>
+4° artikel 13, dat van toepassing is op verkoopovereenkomsten afgesloten vanaf 1 juni 2018;<br>
+5° artikel 19, dat uitwerking heeft vanaf aanslagjaar 2018;<br>
+6° artikel 20, dat uitwerking heeft vanaf 21 juli 2012;<br>
+7° artikel 25, 27, 28 en 30, die in werking treden op 1 oktober 2018;<br>
+8° artikel 32 tot en met 36 en 38 tot en met 42, die in werking treden op 15 oktober 2018;<br>
+9° artikel 26, 29 en 44 tot en met 47, die in werking treden op 1 september 2018;<br>
+10° artikel 37 en 43, die uitwerking hebben vanaf 30 april 2018.
