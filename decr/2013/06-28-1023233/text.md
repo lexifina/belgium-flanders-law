@@ -427,7 +427,7 @@ De Vlaamse Regering wijst de personeelsleden aan die de exclusieve bestuurlijke 
 
 ### ART. 61.
 
-&nbsp;De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden   gestort aan het Fonds voor Landbouw en Visserij, opgericht bij het decreet van   19 mei 2006 betreffende de oprichting en de werking van het Fonds voor Landbouw   en Visserij.<BR>
+De exclusieve bestuurlijke geldboeten, vermeld in artikel 56, worden gestort aan Fonds toezicht en handhaving Landbouwdecreet, opgericht bij het decreet van 6 juli 2018 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2018.
 
 ### ART. 62.
 
