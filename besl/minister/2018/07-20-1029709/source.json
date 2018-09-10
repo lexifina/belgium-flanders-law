@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029709,
+  "title": "Ministerieel besluit van 2018-07-20 houdende de organisatie van een oproep voor het indienen van voorstellen voor energieconsulentenprojecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029709/VolledigDocument?datum=2018-09-10",
+  "source_sha256": "19c03bbdd6a36436af21e650f06b6ebdec3975542649b1013acbcc279959708a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029709&param=informatie",
+  "as_of": "2018-09-10",
+  "made": "2018-07-20",
+  "gazette": "2018-09-10",
+  "numac": 2018013548,
+  "document_start": "2018-09-10",
+  "document_end": null,
+  "in_force": "2018-09-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
