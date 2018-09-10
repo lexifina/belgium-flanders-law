@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029681,
+  "title": "Besluit van de Vlaamse Regering van 2018-06-22 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 23 december 2016 tot vaststelling van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029681/VolledigDocument?datum=2018-09-10",
+  "source_sha256": "c393943b5d90fb8f86dedd7e8f2e45483cdf4c4205e5b76336cb9a992c667d39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029681&param=informatie",
+  "as_of": "2018-09-10",
+  "made": "2018-06-22",
+  "gazette": "2018-08-31",
+  "numac": 2018013406,
+  "document_start": "2018-09-10",
+  "document_end": null,
+  "in_force": "2018-09-10",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2018-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
