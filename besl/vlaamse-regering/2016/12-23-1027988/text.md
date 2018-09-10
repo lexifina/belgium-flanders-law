@@ -148,7 +148,7 @@ Het landinrichtingsplan Onthaalinfrastructuur Bulskampveld is verenigbaar met he
 
 ### ART 4.
 
-De bedragen ten laste van de basisallocatie LB0 LC155 6142 van artikel LB0/1LC-H-2-AY/IS van de algemene uitgavenbegroting van de Vlaamse Gemeenschap en ten laste van de basisallocaties LBC LC020 3300 en LBC LC057 6332 van artikel LBC/3LC-H-2-AH/ WT van het Minafonds zullen worden aangerekend bij de toekenning van de subsidies, op grond van de bepalingen van Deel 3, Titel 4 van het besluit van de Vlaamse Regering van 6 juni 2014 betreffende de landinrichting.
+De bedragen ten laste van de basisallocatie QB0 QC187 6142 van artikel QB0-1QCH2NY-IS van de algemene uitgavenbegroting van de Vlaamse Gemeenschap en ten laste van de basisallocatie QBX QC057 6332 van artikel QBX-3QCH2NJ-WT van het Minafonds zullen worden aangerekend bij de toekenning van de subsidies, op grond van de bepalingen van Deel 3, Titel 4 van het besluit van de Vlaamse Regering van 6 juni 2014 betreffende de landinrichting.
 
 ## HOOFDSTUK 2 Instanties en personen die belast zijn met de uitvoering van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld
 
@@ -164,7 +164,7 @@ De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.1.1 en
 
 ### ART 7.
 
-De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.2.6 en 3.1.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Beernem.
+De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.2.5, 1.2.6 en 3.1.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Beernem.
 
 ### ART 8.
 
@@ -172,11 +172,11 @@ De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.3.1, 1
 
 ### ART 9.
 
-De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.4.2, 1.4.3, 1.4.4, 1.4.5, 1.4.6, 2.1.1.a, 2.1.1.b, 2.1.1.c en 2.1.2.a van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Ruiselede of op gronden die toebedeeld moeten worden aan de gemeente Ruiselede.
+De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.4.2, 1.4.3, 1.4.4, 1.4.5, 1.4.6, 2.1.1.a.1, 2.1.1.b, 2.1.1.c en 2.1.2.a van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Ruiselede of op gronden die toebedeeld moeten worden aan de gemeente Ruiselede.
 
 ### ART 10.
 
-De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.5.1, 1.5.2.a., 1.5.5, 1.5.6, 2.2.1.a, 2.2.1.b, 2.2.2.a, 2.2.2.b, 2.2.3.a, 2.2.3.b en 3.3.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Wingene of op gronden die toebedeeld moeten worden aan de gemeente Wingene.
+De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 1.5.1, 1.5.2.a, 1.5.2.b, 1.5.5, 1.5.6, 2.2.1.a, 2.2.2.a, 2.2.2.b, 2.2.3.a, 2.2.3.b en 3.3.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de gemeente Wingene of op gronden die toebedeeld moeten worden aan de gemeente Wingene.
 
 ### ART 11.
 
@@ -188,7 +188,7 @@ De Vlaamse Landmaatschappij is belast met de uitvoering van maatregel 1.3.3 van 
 
 ### ART 13.
 
-De Vlaamse Landmaatschappij is belast met de uitvoering van maatregel 1.5.2.b van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregel wordt uitgevoerd op gronden van de kerkfabriek van de parochie Sint-Jan-Baptist in Wingene en zal beheerd worden door de gemeente Wingene.
+...
 
 ### ART 14.
 
@@ -204,21 +204,21 @@ De Vlaamse Landmaatschappij is belast met de uitvoering van maatregel 2.1.2.d va
 
 ### ART 17.
 
-De Vlaamse Landmaatschappij is belast met de uitvoering van maatregelen 2.1.2.e en 2.1.2.f van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld. Die maatregelen worden uitgevoerd op gronden van de natuurlijke personen, vermeld in bijlage 3, die bij dit besluit is gevoegd. Maatregel 2.1.2.e zal worden beheerd door de gemeente Ruiselede.
+...
 
 ## Afdeling 2 Belasting van gemeenten conform artikel 3.3.8 van het decreet van 28 maart 2014 betreffende de landinrichting
 
 ### ART 18.
 
-De gemeente Beernem is op haar gronden belast met de uitvoering van maatregelen 2.3.1.a, 2.3.1.b en 3.1.1 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
+De gemeente Beernem is op haar gronden belast met de uitvoering van maatregel 3.1.1 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
 
 ### ART 19.
 
-De gemeente Oostkamp is op haar gronden belast met de uitvoering van maatregelen 3.2.1 en 3.2.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
+De gemeente Oostkamp is op haar gronden belast met de uitvoering van maatregel 3.2.2 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
 
 ### ART 20.
 
-De gemeente Ruiselede is op haar gronden belast met de uitvoering van maatregelen 1.4.1.a, 1.4.1.b., 2.1.2.c en 3.4.1 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
+De gemeente Ruiselede is op haar gronden belast met de uitvoering van maatregelen 1.4.1.a, 1.4.1.b., 2.1.1.a.2, 2.1.2.c en 3.4.1 van het landinrichtingsplan Onthaalinfrastructuur Bulskampveld.
 
 ### ART 21.
 
@@ -244,11 +244,7 @@ Een erfdienstbaarheid tot openbaar nut die gericht is op recreatie - maatregel 2
 
 ### ART 25.
 
-&nbsp;Op een deel van het perceel nr. 48M in Ruiselede, afdeling Ruiselede, sectie G, wordt een inrichtingswerk uit kracht van wet - maatregel 2.1.2.e - uitgevoerd, conform artikel 17.<br>
-<br>
-Dat inrichtingswerk uit kracht van wet wordt uitgevoerd met het oog op de recreatieve verbinding deel C tussen het openbaar domein van de Brandstraat en het natuurgebied Gulke Putten (Doomkerke, Ruiselede) en omvat het volgende inrichtingswerk uit kracht van wet op een deel van het volgende perceel in Ruiselede, afdeling Ruiselede, sectie G: op nummer 48M: plaatsen verkeerssignalisatie.<br>
-<br>
-De beschrijving en de lokalisering van het inrichtingswerk uit kracht van wet, alsook de vermelding van de betrokken eigenaar zijn opgenomen in bijlage 3, die bij dit besluit is gevoegd.
+...
 
 ## HOOFDSTUK 5 Slotbepaling
 
@@ -323,33 +319,4 @@ Lijst kadastrale gegevens, eigenaars en detaillering omvang en locatie erfdienst
 
 ### BIJLAGE 3
 
-Inrichtingswerken uit kracht van wet, maatregel 2.1.2.e, als vermeld in de artikelen 17 en 25<br>
-<br>
-Beschrijving<br>
-Het inrichtingswerk uit kracht van wet op de private, trage weg waarop een erfdienstbaarheid tot openbaar nut, gericht op recreatie met het oog op deel C van de recreatieve verbinding Brandstraat - Gulke Putten (Doomkerke, Ruiselede) wordt gevestigd, heeft betrekking op het uitvoeren van een maatregel zodat het publieke gebruik alleen geldt voor voetgangers: het plaatsen van verkeerssignalisatie bij het begin van de trage weg ter hoogte van het natuurgebied Gulke Putten.<br>
-<br>
-Ligging<br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/08_2.pdf#page=70">http://www.ejustice.just.fgov.be/mopdf/2017/03/08_2.pdf#page=70</a><br>
-<br>
-Lijst kadastrale gegevens, eigenaars en detaillering omvang en locatie inrichtingswerken uit kracht van wet
-<table border="1">
-	<tbody>
-		<tr>
-			<td>Kadasternummer</td>
-			<td>Eigenaar</td>
-			<td>Aard inrichtingswerken</td>
-			<td>Locatie inrichtingswerken</td>
-		</tr>
-		<tr>
-			<td>48M</td>
-			<td>Hubert Rogge en<br>
-			Rachelle De Bel<br>
-			Krommekeerstraat 19<br>
-			8755 Ruiselede</td>
-			<td>plaatsen verkeerssignalisatie</td>
-			<td>begin trage weg ter hoogte van natuurgebied Gulke Putten (perceel 38A)</td>
-		</tr>
-	</tbody>
-</table>
-<br>
-&nbsp;
+...
