@@ -10,7 +10,7 @@ De hiernavolgende artikelen van het gemeentedecreet treden in werking :<br />1°
 
 ### ART. 2.
 
-De Vlaamse minister bevoegd voor de Binnenlandse Aangelegenheden is gemachtigd om de modellen van de akten inzake fractievorming met betrekking tot de gemeenteraden en de districtsraden vast te stellen.<br /><br />
+...
 
 ### ART. 3.
 

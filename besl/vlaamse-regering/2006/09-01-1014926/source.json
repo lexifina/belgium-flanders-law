@@ -2,16 +2,16 @@
   "codex_id": 1014926,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de inwerkingtreding van sommige bepalingen van het Gemeentedecreet van 15 juli 2005 en de vaststelling van de modellen van de akten inzake fractievorming",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014926/VolledigDocument?datum=2006-09-05",
-  "source_sha256": "4e25c3554861671091f2911b59fe05bc5630349d84379ee935ee7f0ee391067b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014926/VolledigDocument?datum=2018-09-15",
+  "source_sha256": "7f5d4b44a7b60218a7b5844ec4385b06ee02be78d744bb4b7c2bedc4822b7658",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014926&param=informatie",
-  "as_of": "2006-09-05",
+  "as_of": "2018-09-15",
   "made": "2006-09-01",
   "gazette": "2006-09-05",
   "numac": 2006036345,
   "document_start": "2006-09-05",
   "document_end": null,
-  "in_force": "2006-09-05",
+  "in_force": "2018-09-15",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-15; future article versions excluded; article text as the API gives it"
 }
