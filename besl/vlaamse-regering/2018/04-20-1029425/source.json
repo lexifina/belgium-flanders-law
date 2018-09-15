@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029425,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot vaststelling van het model van akte inzake fractievorming voor de kandidaat-leden van de gemeenteraad, de districtsraad en de provincieraad",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029425/VolledigDocument?datum=2018-09-15",
+  "source_sha256": "92f20b5900c57a2b7518084aa4f1a1510e613f0d728892182c57178a65305786",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029425&param=informatie",
+  "as_of": "2018-09-15",
+  "made": "2018-04-20",
+  "gazette": "2018-06-15",
+  "numac": 2018012554,
+  "document_start": "2018-09-15",
+  "document_end": "2024-04-04",
+  "in_force": "2018-09-15",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2018-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
