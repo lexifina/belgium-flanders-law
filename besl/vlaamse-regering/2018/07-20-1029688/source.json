@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029688,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot wijziging van het besluit van de Vlaamse Regering van 9 december 2016 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029688/VolledigDocument?datum=2018-09-15",
+  "source_sha256": "4f5c41bcfd7188c877d70e962a596f48516f265042a92c25f71dc27552225946",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029688&param=informatie",
+  "as_of": "2018-09-15",
+  "made": "2018-07-20",
+  "gazette": "2018-09-05",
+  "numac": 2018013557,
+  "document_start": "2018-09-15",
+  "document_end": null,
+  "in_force": "2018-09-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
