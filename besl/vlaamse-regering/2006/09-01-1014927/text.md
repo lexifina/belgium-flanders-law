@@ -10,7 +10,7 @@ De hiernavolgende artikelen van het provinciedecreet treden in werking :<br />1Â
 
 ### ART. 2.
 
-De Vlaamse minister bevoegd voor de Binnenlandse Aangelegenheden is gemachtigd om het model van de akte inzake fractievorming met betrekking tot de provincieraden vast te stellen.<br /><br />
+...
 
 ### ART. 3.
 
