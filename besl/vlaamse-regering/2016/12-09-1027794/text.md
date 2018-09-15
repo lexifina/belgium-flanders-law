@@ -48,6 +48,22 @@ De administratieve geldboete moet worden betaald binnen dertig dagen nadat de be
 De ambtenaren van het agentschap Vlaamse Belastingdienst, opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, worden ermee belast het dwangbevel, vermeld in artikel 16, § 3, tweede lid, van het GIPOD-decreet van 4 april 2014, uit te vaardigen en de administratieve geldboete in te vorderen.<br>
 &nbsp;
 
+### ART 5/1.
+
+§ 1. De leidend ambtenaar van het agentschap Informatie Vlaanderen, opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, wijst personeelsleden aan die bevoegd zijn om een administratieve geldboete, vermeld in artikel 10 van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten, hierna het decreet van 10 november 2017 te noemen, op te leggen en om aanmaningen te verzenden, overeenkomstig artikel 11, § 1, van het decreet van 10 november 2017.<br>
+<br>
+Om het bedrag van de administratieve geldboete te bepalen wordt overeenkomstig artikel 10, tweede lid, van het decreet van 10 november 2017 rekening gehouden met verzachtende omstandigheden, en wordt rekening gehouden met:<br>
+1° de frequentie van het onterecht weigeren van de toegang, vermeld in artikel 4 en 5 van het decreet van 10 november 2017;<br>
+2° de frequentie van het plegen van inbreuken op de verplichtingen, vermeld in artikel 6 en 7 van het decreet van 10 november 2017;<br>
+3° de impact en de ernst van de hinder ingevolge de ten onrechte geweigerde toegang, vermeld in artikel 4 en 5 van het decreet van 10 november 2017;<br>
+4° de impact en de ernst van de hinder ingevolge het plegen van inbreuken op de verplichtingen, vermeld in artikel 6 en 7 van het decreet van 10 november 2017.<br>
+<br>
+De administratieve geldboete wordt binnen de volgende termijnen betaald:<br>
+1° als de betrokkene niet in beroep gaat, betaalt hij de administratieve geldboete binnen dertig dagen vanaf de datum van de afgifte van de aangetekende zending of vanaf de datum van kennisgeving tegen ontvangstbewijs;<br>
+2° als de betrokkene in beroep gaat en de beroepsinstantie bevestigt de beslissing, vermeld in artikel 11, § 1, tweede lid, van het decreet van 10 november 2017, of hervormt het bedrag van de administratieve geldboete, betaalt hij de administratieve geldboete binnen dertig dagen nadat hij de beslissing van de beroepsinstantie heeft ontvangen.<br>
+<br>
+§ 2. De personeelsleden van het agentschap Vlaamse Belastingdienst, opgericht bij het besluit van de Vlaamse Regering van 11 juni 2004 tot oprichting van het agentschap Vlaamse Belastingdienst, worden ermee belast het dwangbevel, vermeld in artikel 11, § 2, tweede lid, van het decreet van 10 november 2017, uit te vaardigen en de administratieve geldboete in te vorderen.
+
 ### ART 6.
 
 Aan artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren, gewijzigd bij de besluiten van de Vlaamse Regering van 17 juli 2000, 4 juli 2003, 11 juni 2004, 14 januari 2005, 30 juni 2006, 15 mei 2009, 11 mei 2012 en 5 oktober 2012, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
