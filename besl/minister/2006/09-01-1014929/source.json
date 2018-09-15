@@ -2,16 +2,16 @@
   "codex_id": 1014929,
   "title": "Ministerieel besluit van 2006-09-01 tot de vaststelling van de modellen van de akten inzake fractievorming ter uitvoering van de artikelen 38 en 276 van het gemeentedecreet en van artikel 38 van het provinciedecreet",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014929/VolledigDocument?datum=2006-09-05",
-  "source_sha256": "53ce6a566b07569a485b02b64dc793916e4021068d809a9802ebdb5f7407db91",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014929/VolledigDocument?datum=2018-09-15",
+  "source_sha256": "10f65054bde6555404a88390c67d15be6f8334199597e87bc148c306ca7976ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014929&param=informatie",
-  "as_of": "2006-09-05",
+  "as_of": "2018-09-15",
   "made": "2006-09-01",
   "gazette": "2006-09-05",
   "numac": 2006036334,
   "document_start": "2006-09-05",
   "document_end": "2018-09-14",
-  "in_force": "2006-09-05",
+  "in_force": "2018-09-15",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-09-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-15; future article versions excluded; article text as the API gives it"
 }

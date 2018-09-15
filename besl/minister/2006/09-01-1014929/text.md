@@ -14,34 +14,34 @@ Besluit :
 
 ### ART. 1.
 
-Bij de verkiezingen van 8 oktober 2006 wordt de akte inzake fractievorming voor de kandidaat-gemeenteraadsleden opgemaakt volgens het model G26c dat als eerste bijlage bij dit besluit is gevoegd.<br /><br /><br />
+...
 
 ### ART. 2.
 
-Bij de verkiezingen van 8 oktober 2006 wordt de akte inzake fractievorming voor de kandidaat-districtsraadsleden te Antwerpen opgemaakt volgens het model D26c dat als tweede bijlage bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 3.
 
-Bij de verkiezingen van 8 oktober 2006 wordt de akte inzake fractievorming voor de kandidaat-provincieraadsleden opgemaakt volgens het model P26c dat als derde bijlage bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad. <br /><br />
+...
 
 ## Eerste bijlage
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/05_1.pdf#page=153" title=" eerste bijlage" target="_blank" class="pdf">eerste bijlage</a>
+...
 
 ## Tweede bijlage
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/05_1.pdf#page=162" title=" tweede bijlage" target="_blank" class="pdf">tweede bijlage</a>
+...
 
 ## Derde bijlage
 
 ### Tekst
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/09/05_1.pdf#page=168" title=" derde bijlage" target="_blank" class="pdf">derde bijlage</a>
+...
