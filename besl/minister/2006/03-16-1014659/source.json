@@ -2,16 +2,16 @@
   "codex_id": 1014659,
   "title": "Ministerieel besluit van 2006-03-16 tot vaststelling van het modelformulier en de procedure voor aanvragen van een onderzoek van het binnenmilieu",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014659/VolledigDocument?datum=2006-07-11",
-  "source_sha256": "0face96c32c5f9bca43e77411e69bab750f9b460dc262d8410ffba446dc19259",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014659/VolledigDocument?datum=2018-09-17",
+  "source_sha256": "6cca72d323d90eec1dd06859dcae8c06225b5a766c75e9e8cee8b6e5d7a06b76",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014659&param=informatie",
-  "as_of": "2006-07-11",
+  "as_of": "2018-09-17",
   "made": "2006-03-16",
   "gazette": "2006-07-11",
   "numac": 2006036048,
   "document_start": "2006-07-11",
   "document_end": "2018-09-16",
-  "in_force": "2006-07-11",
+  "in_force": "2018-09-17",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-17; future article versions excluded; article text as the API gives it"
 }
