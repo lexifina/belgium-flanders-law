@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029696,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-13 tot wijziging van diverse bepalingen van het Binnenmilieubesluit van 11 juni 2004 en tot opheffing van het ministerieel besluit van 16 maart 2006 tot vaststelling van het modelformulier en de procedure voor aanvragen van een onderzoek van het binnenmilieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029696/VolledigDocument?datum=2018-09-17",
+  "source_sha256": "5d6a23984681c6b6d8e81ad7810f1ecb0c1c0862592644e359149f195e0a7bd5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029696&param=informatie",
+  "as_of": "2018-09-17",
+  "made": "2018-07-13",
+  "gazette": "2018-09-07",
+  "numac": 2018013405,
+  "document_start": "2018-09-17",
+  "document_end": null,
+  "in_force": "2018-09-17",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2018-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
