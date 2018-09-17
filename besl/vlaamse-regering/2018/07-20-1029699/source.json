@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029699,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot wijziging van het koninklijk besluit van 22 mei 2014 betreffende het goederenvervoer over de weg tot het bepalen van de begunstigden van de borgtocht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029699/VolledigDocument?datum=2018-09-17",
+  "source_sha256": "b71ade3f2358aed4b9b95eb413d459fc36e5db7cb340e2e45bb3e7a68f990fa0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029699&param=informatie",
+  "as_of": "2018-09-17",
+  "made": "2018-07-20",
+  "gazette": "2018-09-07",
+  "numac": 2018013550,
+  "document_start": "2018-09-17",
+  "document_end": null,
+  "in_force": "2018-09-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-09-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
