@@ -2,16 +2,16 @@
   "codex_id": 1021997,
   "title": "Ministerieel besluit van 2012-07-06 houdende de vaststelling van het kiesmaterieel voor de telbureaus",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021997/VolledigDocument?datum=2012-08-12",
-  "source_sha256": "464496e3241939d19564a6dbe412a4b0b0d23287df1b472a4b06dc17ddc33325",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021997/VolledigDocument?datum=2018-09-22",
+  "source_sha256": "e815780ea630ad0657150aba28df5f46917f09376c1383a4eefdcc699026b772",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021997&param=informatie",
-  "as_of": "2012-08-12",
+  "as_of": "2018-09-22",
   "made": "2012-07-06",
   "gazette": "2012-08-02",
   "numac": 2012035815,
   "document_start": "2012-08-12",
   "document_end": "2018-09-21",
-  "in_force": "2012-08-12",
+  "in_force": "2018-09-22",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2012-08-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-09-22; future article versions excluded; article text as the API gives it"
 }
