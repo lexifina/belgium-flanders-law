@@ -16,7 +16,21 @@ Raad van State<BR>afdeling Wetgeving<BR>advies 52.597/3 van 17 januari   2013<BR
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° agentschap : het Agentschap   voor Natuur en Bos;<BR>2° fuik : een vistuig dat bestaat uit een netwerk dat om   twee of meer hoepels is gespannen en dat voorzien is van een of meer inkelingen,   bijvoorbeeld een schietfuik en een visfuik;<BR>3° hengel : elk snoer dat van een   roede voorzien is, ongeacht het gebruikte aas, alsook de peur;<BR>4°   onbevaarbare waterloop : een rivier of beek die de Vlaamse Regering niet bij de   bevaarbare waterlopen gerangschikt heeft, stroomafwaarts van het punt waarop   haar waterbekken ten minste 100 hectare bedraagt;<BR>5° visplas : een   oppervlaktewater, ander dan een waterloop, en waarop de wet van 1 juli 1954 van   toepassing is;<BR>6° schietfuik : een vistuig bestaande uit twee deelfuiken, elk   met één inzwemopening, verbonden met één vleugel en zonder ander   toebehoren;<BR>7° visfuik : een fuik met één inzwemopening, voorzien van   maximaal twee vleugels en zonder andere toebehoren;<BR>8° wateren : alle   waterlopen en visplassen;<BR>9° waterloop : een onbevaarbare waterloop en een   waterweg;<BR>10° waterweg : een als bevaarbaar aangeduide waterloop of kanaal   met een verbindingsfunctie via het water, alsook de havens en dokken;<BR>11°   wedstrijd : een hengelwedstrijd die door een Vlaamse vissersvereniging   georganiseerd wordt;<BR>12° wet van 1 juli 1954 : de wet van 1 juli 1954 op de   riviervisserij.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap : het Agentschap voor Natuur en Bos;<br>
+2° ...;<br>
+3° hengel : elk snoer dat van een roede voorzien is, ongeacht het gebruikte aas, alsook de peur;<br>
+4° onbevaarbare waterloop : een rivier of beek die de Vlaamse Regering niet bij de bevaarbare waterlopen gerangschikt heeft, stroomafwaarts van het punt waarop haar waterbekken ten minste 100 hectare bedraagt;<br>
+5° visplas : een oppervlaktewater, ander dan een waterloop, en waarop de wet van 1 juli 1954 van toepassing is;<br>
+6° ...;<br>
+7° ...;<br>
+8° wateren : alle waterlopen en visplassen;<br>
+9° waterloop : een onbevaarbare waterloop en een waterweg;<br>
+10° waterweg : een als bevaarbaar aangeduide waterloop of kanaal met een verbindingsfunctie via het water, alsook de havens en dokken;<br>
+11° wedstrijd: een hengelgebeuren waarbij vijf of meer vissers op hetzelfde tijdstip starten en stoppen met hengelen, en waarbij daarna een gestandaardiseerde weging, meting of telling van de inhoud van het leefnet plaatsvindt;<br>
+12° wet van 1 juli 1954 : de wet van 1 juli 1954 op de riviervisserij;<br>
+13° aasvis: elke vis die of elk deel van een vis dat gebruikt wordt als aas om andere vissen te vangen;<br>
+14° leefnet: net waarin men vissen die met de hengel zijn gevangen levend in bezit kan houden.
 
 ### ART. 2.
 
@@ -26,25 +40,27 @@ Dit besluit is van toepassing op het vissen op alle vis- en   kreeftensoorten di
 
 ### ART. 3.
 
-Met toepassing van het Reglement van 20 mei 1843 ter uitvoering van   artikel 9 van verdrag van 19 april 1839 betreffende de visserij en de vishandel,   kan een vergunning verleend worden aan iedere inwoner van het Koninkrijk België   of van het Koninkrijk der Nederlanden die wil vissen in de Schelde   stroomafwaarts van Antwerpen, exclusief de dokken van Antwerpen en de dokken van   de linkeroever van de Schelde, vanaf de lijn die ter hoogte van de Royerssluis   verondersteld wordt haaks op de stroom getrokken te zijn voor zover tegen de   inwoner geen proces-verbaal van een milieumisdrijf in het kader van de wet van 1   juli 1954 is vastgesteld in de periode van twaalfmaanden voorafgaand aan de   aanvraag.<BR>
+De minister of zijn gemachtigde kan:<br>
+1° een tijdelijke toelating verlenen of een tijdelijk verbod opleggen als vermeld in artikel 14 van de wet van 1 juli 1954;<br>
+2° een machtiging verlenen als vermeld in artikel 17 en 25 van de wet van 1 juli 1954.
 
 ### ART. 4.
 
-<P>§ 1. De prijs van de vergunning, vermeld in artikel 3, wordt vastgesteld op   75 euro per kalenderjaar. De vergunning geeft toestemming om te vissen met   maximaal vijf visfuiken of schietfuiken. Per persoon wordt maar één vergunning   afgeleverd. De vergunning is geldig voor de duur van het kalenderjaar waarin ze   wordt afgeleverd. De vergunninghouder moet de voorschriften en de beperkingen in   de vergunning naleven.<BR></P>  <P>§ 2. De visfuik en de schietfuik mogen alleen in het gedeelte van de Schelde,   vermeld in artikel 3, worden gebruikt.<BR></P>  <P>§ 3. Tijdens de periode van twee uur na het officiële uur van zonsondergang   tot twee uur voor het officiële uur van zonsopgang mogen die vistuigen niet te   water gebracht, gelicht of bediend worden.<BR></P>  <P>§ 4. Voor de toegestane fuiken gelden de volgende maten :<BR>1° maaswijdte :   minstens 7 mm;<BR>2° lengte (deel)fuik : maximaal 10 m;<BR>3° lengte vleugel :   maximaal 15 m.<BR></P>  <P>De maaswijdte, vermeld in het eerste lid, 1°, geldt voor elke zijde van de   mazen, nat gemeten.<BR></P>  <P>§ 5. Voor de keuring van de maaswijdte, vermeld in paragraaf 4, eerste lid,   1°, wordt gebruikgemaakt van een mal in de vorm van een rechthoekige piramide,   waarop strepen zijn aangebracht die met de opgelegde maten overeenstemmen. Voor   het verrichten van de keuring wordt de mal op verschillende, willekeurige   plaatsen in de mazen, tussen de roeden of in het rijswerk gestoken.<BR></P>  <P>De mal, vermeld in het eerste lid, wordt door het agentschap verstrekt en   geijkt. Een model ervan wordt neergelegd ter griffie van de politierechtbanken,   van de rechtbanken van eerste aanleg en van de hoven van   beroep.<BR></P>
+...
 
 ### ART. 5.
 
-<P>De vergunning wordt verleend door het agentschap.<BR></P>  <P>Het agentschap bepaalt de praktische modaliteiten voor de betaling van de   prijs van de vergunning.<BR></P>
+...
 
 ### ART. 6.
 
-Tot en met 31 december 2014 is het vissen met vergunning in het gedeelte   van de Schelde, vermeld in artikel 3, tijdelijk verboden en worden geen   vergunningen uitgereikt.<BR>
+...
 
 ## HOOFDSTUK 3 Visverlof
 
 ### ART. 7.
 
-Elk visverlof geeft het recht te vissen op de wijze die krachtens de   minder dure visverloven is toegestaan.<BR>
+...
 
 ### ART. 8.
 
@@ -52,7 +68,13 @@ Elk visverlof geeft het recht te vissen op de wijze die krachtens de   minder du
 
 ### ART. 9.
 
-<P>Met behoud van de toepassing van artikel 8 en 12 van de wet van 1 juli 1954   worden de volgende personen van het bezit van het verlof vrijgesteld :<BR>1° een   persoon die niet in het Vlaamse Gewest gedomicilieerd is en deelneemt aan een   door een Vlaamse vissersvereniging georganiseerde en openbaar aangekondigde   nationale of internationale wedstrijd tussen vissersverenigingen op een   zaterdag, zondag of wettelijke feestdag;<BR>2° een persoon die deelneemt aan een   initiatie en/of promotiecampagne voor het hengelen, georganiseerd door een   vissersvereniging, met de toestemming van de voorzitter van de provinciale   visserijcommissie of van de voorzitter van het Centraal Comité van het   Visserijfonds of zijn afgevaardigde.<BR></P>  <P>De vrijstelling voor de personen, vermeld in het eerste lid, 1°, is alleen   geldig voor de werkelijke duur van de wedstrijd. Voor wedstrijden op Europees   vlak en voor wereldkampioenschappen geldt die vrijstelling gedurende de week die   voorafgaat aan de wedstrijd.<BR></P>  <P>Voor de wedstrijden, vermeld in het eerste lid, 1°, wordt minstens één maand   vooraf een aanvraag gericht aan het agentschap.<BR></P>  <P>De vrijstelling voor de personen, vermeld in het eerste lid, 2°, is alleen   geldig voor de duur van de initiatie en/of   promotiecampagne.<BR></P>
+<p>Met behoud van de toepassing van artikel 8 en 12 van de wet van 1 juli 1954 worden de volgende personen van het bezit van het verlof vrijgesteld :<br>
+1° een persoon die niet in het Vlaamse Gewest gedomicilieerd is en deelneemt aan een door een Vlaamse vissersvereniging georganiseerde en openbaar aangekondigde nationale of internationale wedstrijd tussen vissersverenigingen op een zaterdag, zondag of wettelijke feestdag;<br>
+2° een persoon die deelneemt aan een initiatie en/of promotiecampagne voor het hengelen, georganiseerd door een vissersvereniging, met de toestemming van de voorzitter van de provinciale visserijcommissie of van de voorzitter van het Centraal Comité van het Visserijfonds of zijn afgevaardigde.</p>
+
+<p>De vrijstelling voor de personen, vermeld in het eerste lid, 1°, is alleen geldig voor de werkelijke duur van de wedstrijd. Voor wedstrijden op Europees vlak en voor wereldkampioenschappen geldt die vrijstelling gedurende de week die voorafgaat aan de wedstrijd.</p>
+
+<p>De vrijstelling voor de personen, vermeld in het eerste lid, 2°, is alleen geldig voor de duur van de initiatie en/of promotiecampagne.</p>
 
 ## HOOFDSTUK 4 Bepalingen over het vissen, de wijzen van vissen, de vistuigen en de vissoorten
 
@@ -66,11 +88,43 @@ Het is verboden te vissen op de volgende plaatsen :<BR>1° in   sluizen;<BR>2° 
 
 ### ART. 12.
 
-<P>§ 1. In dit artikel wordt verstaan onder nachtvisserij : vissen tussen twee   uur na het officiële uur van zonsondergang en twee uur voor het officiële uur   van zonsopgang, op voorwaarde dat de visser in het bezit is van een geschikt   visverlof.<BR></P>  <P>§ 2. Het vissen is onderworpen aan de volgende beperkingen :<BR>1° in alle   wateren is het verboden te vissen op zalmachtigen in de periode van 1 oktober   tot en met 28 februari;<BR>2° in alle onbevaarbare waterlopen, in de waterwegen   of delen daarvan, opgesomd in bijlage 3, die bij dit besluit is gevoegd, en in   de visplassen, opgesomd in bijlage 3, is het verboden :<BR>a) te vissen op snoek   en snoekbaars in de periode van 1 maart tot en met 31 mei;<BR>b) te vissen op   alle andere vissoorten in de periode van 16 april tot en met 31 mei;<BR>c)   nachtvisserij uit te oefenen.<BR></P>  <P>§ 3. Alle vissen die toevallig gevangen worden in de tijd waarin dat volgens   paragraaf 2 verboden is, moeten onmiddellijk en voorzichtig in het water van   herkomst worden vrijgelaten.<BR></P>  <P>In alle wateren moet elke gevangen vis onmiddellijk en voorzichtig in het   water van herkomst worden vrijgelaten tijdens het vissen in de periode van 16   april tot en met 31 mei of tijdens de nachtvisserij. Tijdens de nachtvisserij   mag een visser evenmin vis in het bezit hebben die buiten de periode van   nachtvisserij is gevangen.<BR></P>  <P>§ 4. Nachtvisserij is toegestaan in de waterwegen of delen daarvan die niet   in bijlage 3 zijn opgesomd en in de visplassen die niet in bijlage 3 zijn   opgesomd. Daarbij is echter elk gebruik van vis of delen ervan als aas en   kunstaas met een totale lengte van meer dan 2 cm, verboden.<BR></P>  <P>§ 5. De volgende afwijkingen zijn van toepassing :<BR>1° in afwijking van   paragraaf 2, 2°, b), is het vliegvissen in alle onbevaarbare waterlopen en in   waterwegen of delen daarvan, opgesomd in bijlage 3, toegestaan in de periode van   16 april tot en met 31 mei;<BR>2° in afwijking van paragraaf 2, 2°, b) en c), is   het altijd en in alle wateren toegestaan met de peur op paling te vissen;<BR>3°   in afwijking van paragraaf 3, tweede lid, mogen vissers tijdens het vissen in de   periode van 16 april tot en met 31 mei of tijdens de nachtvisserij alleen paling   in het bezit hebben of meenemen op voorwaarde dat ze gebruik maken van één peur   en geen andere hengel gebruiken.<BR></P>  <P>In het eerste lid, 1°, wordt verstaan onder vliegvissen : de hengeltechniek   waarbij gebruikgemaakt wordt van het gewicht van de lijn om het aas, de   kunstvlieg te werpen.<BR></P>
+<p>§ 1. In dit artikel wordt verstaan onder nachtvisserij : vissen tussen twee uur na het officiële uur van zonsondergang en twee uur voor het officiële uur van zonsopgang, op voorwaarde dat de visser in het bezit is van een geschikt visverlof.</p>
+
+<p>§ 2. Het vissen is onderworpen aan de volgende beperkingen :<br>
+1° in alle wateren is het verboden te vissen op zalmachtigen in de periode van 1 oktober tot en met 28 februari;<br>
+2° in alle onbevaarbare waterlopen, in de waterwegen of delen daarvan, opgesomd in bijlage 3, die bij dit besluit is gevoegd, en in de visplassen, opgesomd in bijlage 3, is het verboden :<br>
+a) te vissen op snoek en snoekbaars in de periode van 1 maart tot en met 31 mei;<br>
+b) te vissen op alle andere vissoorten in de periode van 16 april tot en met 31 mei;<br>
+c) nachtvisserij uit te oefenen.</p>
+
+<p>§ 3. Alle vissen die toevallig gevangen worden in de tijd waarin dat volgens paragraaf 2 verboden is, moeten onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten.</p>
+
+<p>In alle wateren moet elke gevangen vis onmiddellijk en voorzichtig in het water van herkomst worden vrijgelaten tijdens het vissen in de periode van 16 april tot en met 31 mei of tijdens de nachtvisserij. Tijdens de nachtvisserij mag een visser evenmin vis in het bezit hebben die buiten de periode van nachtvisserij is gevangen.<br>
+<br>
+In alle wateren is het gebruik van aasvissen verboden in de periode van 16 april tot en met 31 mei.</p>
+
+<p>§ 4. Nachtvisserij is toegestaan in de waterwegen of delen daarvan die niet in bijlage 3 zijn opgesomd en in de visplassen die niet in bijlage 3 zijn opgesomd. Daarbij is echter het gebruik van aasvissen en het gebruik van kunstaas met een totale lengte van meer dan 2 cm verboden.</p>
+
+<p>§ 5. De volgende afwijkingen zijn van toepassing :<br>
+1° in afwijking van paragraaf 2, 2°, b), is het vliegvissen&nbsp;toegestaan in de periode van 16 april tot en met 31 mei;<br>
+2° in afwijking van paragraaf 2, 2°, b) en c), is het altijd en in alle wateren toegestaan met de peur op paling te vissen;<br>
+3° in afwijking van paragraaf 3, tweede lid, mogen vissers tijdens het vissen in de periode van 16 april tot en met 31 mei of tijdens de nachtvisserij alleen paling in het bezit hebben of meenemen op voorwaarde dat ze gebruik maken van één peur en geen andere hengel gebruiken.</p>
+
+<p>In het eerste lid, 1°, wordt verstaan onder vliegvissen : de hengeltechniek waarbij gebruikgemaakt wordt van het gewicht van de lijn om het aas, de kunstvlieg te werpen.</p>
 
 ### ART. 13.
 
-<P>De volgende vistuigen en wijzen van vissen zijn verboden :<BR>1° onder het   ijs vissen;<BR>2° gekleurde maden gebruiken;<BR>3° andere vistuigen,   vistoestellen of onderdelen van een vistuig of vistoestel dan een hengel, fuik   of schepnet, opgesteld laten staan of gebruiken;<BR>4° in de periode van 1 maart   tot en met 31 mei in alle onbevaarbare waterlopen, in de waterwegen of delen   daarvan, opgesomd in bijlage 3, en de visplassen, opgesomd in bijlage 3, vis of   delen ervan als aas en kunstaas met een totale lengte van meer dan 2 cm   gebruiken;<BR>5° eenzelfde hengel van meer dan drie enkelvoudige of veelvoudige   haken voorzien;<BR>6° met meer dan twee hengels tegelijk vissen;<BR>7° in de   periode van 1 december tot en met 28 februari en van 16 april tot en met 31 mei   wadend vissen.<BR></P>  <P>In het eerste lid, 7°, wordt verstaan onder wadend vissen : de wijze van   vissen waarbij de visser zich tijdens het vissen door het water verplaatst over   de bedding van de rivier.<BR></P>
+<p>De volgende vistuigen en wijzen van vissen zijn verboden :<br>
+1° onder het ijs vissen;<br>
+2° gekleurde maden gebruiken;<br>
+3° andere vistuigen dan een hengel, peur of schepnet gebruiken;<br>
+4° in de periode van 1 maart tot en met 31 mei in alle onbevaarbare waterlopen, in de waterwegen of delen daarvan, opgesomd in bijlage 3, en de visplassen, opgesomd in bijlage 3,&nbsp;aasvissen gebruiken en kunstaas met een totale lengte van meer dan 2 cm gebruiken;<br>
+5° eenzelfde hengel van meer dan drie enkelvoudige of veelvoudige haken voorzien;<br>
+6° met meer dan twee hengels tegelijk vissen;<br>
+7° in de periode van 1 december tot en met 28 februari en van 16 april tot en met 31 mei wadend vissen;<br>
+8° een leefnet gebruiken.</p>
+
+<p>In het eerste lid, 7°, wordt verstaan onder wadend vissen : de wijze van vissen waarbij de visser zich tijdens het vissen door het water verplaatst over de bedding van de rivier.</p>
 
 ### ART. 14.
 
@@ -78,15 +132,50 @@ Het is verboden te vissen op de volgende plaatsen :<BR>1° in   sluizen;<BR>2° 
 
 ### ART. 15.
 
-<P>§ 1. Exemplaren van de volgende soorten vissen mogen niet in het bezit worden   gehouden als ze kleiner zijn dan de volgende lengte :<BR>1° beekforel, zeelt,   paling, karper, sneep : 30 cm;<BR>2° barbeel, snoek, snoekbaars : 45 cm.<BR></P>  <P>Als dergelijke exemplaren toevallig worden gevangen, moeten ze onmiddellijk   en voorzichtig in het water van herkomst worden vrijgelaten.<BR></P>  <P>De lengte van de vis wordt gemeten in rechte lijn van de punt van de bek tot   het uiteinde van de staartvin. Daarom mag de visser, terwijl hij aan het vissen   is, geen gevangen vissen in het bezit hebben waarvan de kop of de staart   verwijderd zijn.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 gelden de volgende uitzonderingen :<BR>1°   een karper groter dan 60 cm moet na vangst onmiddellijk en voorzichtig in het   water van herkomst worden vrijgelaten;<BR>2° tot en met 31 december 2018 moet   elke gevangen snoek, ongeacht zijn lengte, onmiddellijk en voorzichtig in het   water van herkomst worden vrijgelaten.<BR></P>  <P>§ 3. Met behoud van artikel 10, 12 en 15, § 1 en § 2, mag een visser :<BR>1°   de gevangen vis in een leefnet bewaren;<BR>2° maximaal vijf vissen, die geen   vissen zijn die zijn opgenomen in bijlage 1, waarvan maximaal drie snoekbaarzen   met een lengte van meer dan 15 cm onttrekken en vervoeren. Al die vissen moeten   dood zijn, behalve paling. De vissen mogen niet ter plaatse worden   geconsumeerd.<BR></P>  <P>In het eerste lid, 2°, wordt verstaan onder onttrekken : vis in het bezit   hebben met als doel die blijvend te verwijderen uit een water waarop wet van 1   juli 1954 van toepassing is.<BR></P>
+§ 1. Een visser mag:<br>
+1° maximaal twintig vissen kleiner dan of gelijk aan 15 cm, waarvan maximaal vijf levende, vervoeren en tijdens het hengelen in zijn bezit houden;<br>
+2° maximaal vijf dode vissen groter dan 15 cm vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+<br>
+De vissen, vermeld in het eerste lid, mogen uitsluitend behoren tot de volgende soorten: baars, beekforel, blankvoorn, brasem, (kol)blei, paling, rietvoorn, riviergrondel, snoekbaars en winde. Alle andere vissoorten worden na de vangst onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+<br>
+§ 2. Levende vissen mogen uitsluitend in een visemmer bewaard en vervoerd worden.<br>
+<br>
+In het eerste lid wordt verstaan onder visemmer: een emmer of recipiënt die gevuld is met water waarin vissen levend in bezit gehouden en vervoerd kunnen worden.<br>
+<br>
+§ 3. Voor de volgende vissoorten gelden beperkingen voor de maten bij het in bezit houden overeenkomstig paragraaf 1:<br>
+1° beekforel, paling: minimummaat 30 cm;<br>
+2° snoekbaars: minimummaat 45 cm en maximummaat 70 cm.<br>
+<br>
+Vissen kleiner dan de minimummaten of groter dan de maximummaat, vermeld in het eerste lid, worden na de vangst onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.<br>
+<br>
+§ 4. Met behoud van de toepassing van paragraaf 1, 2 en 3 gelden voor de volgende vissoorten beperkingen voor het bezit of vervoer ervan:<br>
+1° snoekbaars: een visser mag maximaal drie stuks vervoeren en tijdens het hengelen in zijn bezit houden;<br>
+2° paling: een visser mag maximaal drie stuks vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+<br>
+§ 5. De lengte van de vis wordt gemeten in rechte lijn van de punt van de bek tot het uiteinde van de staartvin. Gevangen vissen mogen ter plaatse niet ontdaan worden van kop of staart en mogen niet ter plaatse geconsumeerd worden.<br>
+<br>
+§ 6. In afwijking van paragraaf 1, 2°, en met behoud van de toepassing van paragraaf 2, 3, 4 en 5 mag een visser levende paling vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+<br>
+§ 7. In afwijking van paragraaf 1 en 5, en artikel 12, § 3, mag een visser het hele jaar door, zowel overdag als tijdens de nachtvisserij, een onbeperkt aantal dode zeevissoorten vervoeren en tijdens het hengelen in zijn bezit houden.<br>
+<br>
+In het eerste lid wordt verstaan onder zeevissoorten: de vissoorten waarvan de voortplanting plaatsvindt op zee, met uitzondering van paling.
 
 ### ART. 16.
 
-<P>§ 1. De lengten, vermeld in artikel 15, gelden niet voor de duur van een   wedstrijd op voorwaarde dat aan de volgende voorwaarden voldaan is :<BR>1° het   voederen wordt beperkt tot maximaal 10 liter klaargemaakt voer per deelnemer per   wedstrijd;<BR>2° een hengelvangstregistratie wordt voor elke wedstrijd   opgemaakt.<BR></P>  <P>§ 2. In afwijking van artikel 12, § 3, mogen vissen bewaard worden in een   leefnet in de periode van 16 april tot en met 31 mei tijdens een wedstrijd die   voldoet aan de voorwaarden, vermeld in paragraaf 1.<BR></P>  <P>Alle gevangen vissen moeten in voldoende grote leefnetten worden bewaard tot   na de weging of meting. Snoek, snoekbaars en de soorten, opgesomd in bijlage 1,   mogen niet in een leefnet bewaard worden.<BR></P>  <P>Na weging of meting moet elke vis onmiddellijk en voorzichtig in het water   van herkomst worden vrijgelaten.<BR></P>  <P>§ 3. Voor de wedstrijden, vermeld in de paragrafen 1 en 2, wordt minstens één   maand vooraf een aanvraag gericht aan het agentschap.<BR></P>
+§ 1. Wedstrijden moeten voldoen aan de volgende voorwaarden:<br>
+1° minstens één maand vooraf wordt meldingsbewijs gedaan aan het agentschap. Dit meldingsbewijs wordt door de wedstrijdverantwoordelijke getoond op elk verzoek van de officieren van de gerechtelijke politie en van de toezichthouders die belast zijn met het toezicht op de naleving van de regelgeving over de riviervisserij;<br>
+2° het voederen wordt beperkt tot maximaal 10 liter klaargemaakt voer per deelnemer per wedstrijd;<br>
+3° de hengelvangstgegevens van elke wedstrijd worden geregistreerd en jaarlijks aan het agentschap bezorgd.<br>
+<br>
+§ 2. In afwijking van artikel 12, § 3, artikel 13, eerste lid, 8°, en artikel 15, §§ 1 tot 4, mogen vissen het hele jaar door zonder beperking in aantal bewaard worden in een leefnet tijdens een wedstrijd die voldoet aan de voorwaarden, vermeld in paragraaf 1.<br>
+<br>
+Alle gevangen vissen worden in voldoende grote leefnetten bewaard tot na de weging of meting. Snoek, snoekbaars en de soorten, opgenomen in bijlage 1, die bij dit besluit is gevoegd, mogen niet in een leefnet bewaard worden.<br>
+<br>
+Na weging, meting of telling wordt elke vis onmiddellijk en voorzichtig in het water van herkomst vrijgelaten.
 
 ### ART. 17.
 
-<P>Een visser mag maximaal 20 aasvisjes, levend of dood, bezitten of vervoeren,   ongeacht hun herkomst, als hun lengte, bepaald op de wijze, vermeld in artikel   15, niet meer dan 15 cm bedraagt. De soorten opgenomen in bijlage 1,   kleurvariëteiten en niet-inheemse soorten zijn niet toegestaan.<BR></P>  <P>In het eerste lid wordt verstaan onder aasvis : elke vis die of elk deel van   een vis dat gebruikt wordt als aas om andere vissen mee te   vangen.<BR></P>
+...
 
 ## HOOFDSTUK 5 Slotbepalingen
 
@@ -122,7 +211,7 @@ a) Leiemeanders :<br>
 1) Oude Leie Bourgoyen;<br>
 2) Oude Leie Astene;<br>
 3) Oude Leie Grammene;<br>
-4) Oude Leie Machelen;<br>
+4) ...;<br>
 5) Oude Leie Gottem;<br>
 6) Oude Leie Oeselgem;<br>
 7) Oude Leie Sint-Baafs-Vijve;<br>
@@ -139,7 +228,7 @@ b) Scheldemeanders :<br>
 5) Oude Schelde Meilegem;<br>
 6) Oude Schelde Mesureput;<br>
 7) Oude Schelde Blarewater;<br>
-8) Oude Schelde Spetterkaai;<br>
+8) Oude Schelde Spettekraai;<br>
 9) Oude Schelde Heurne-Heuvel;<br>
 10) Oude Schelde De Sterre;<br>
 11) Oude Schelde Nederename;<br>
@@ -149,7 +238,7 @@ b) Scheldemeanders :<br>
 15) Oude Schelde Berchem Meerse;<br>
 16) Oude Schelde Scheiteput;<br>
 17) Oude Schelde Kerkhove;<br>
-18) Oude Schelde Waarmaarde;<br>
+18) ...;<br>
 19) Oude Schelde Coupure Outrijve;<br>
 c) Schelde-estuarium : het betreft de volgende wateren of delen van wateren die als bevaarbaar gerangschikt zijn :<br>
 1) Oude Durme Hamme;<br>
@@ -192,18 +281,19 @@ b) provincie Limburg :<br>
 14) Grindplas Maasbeempder Greend;<br>
 15) Grindplas Hochter Bampd;<br>
 c) provincie Oost-Vlaanderen :<br>
-1) Hollandergatskreek;<br>
-2) Roeselarekreek;<br>
-3) Nieuwe Roesalearekreek;<br>
-4) Put Roste Muis;<br>
-5) Oudemanskreek;<br>
-6) De Val;<br>
-7) Molenkreek;<br>
+1) ...;<br>
+2) ...;<br>
+3) ...;<br>
+4) ...;<br>
+5) ...;<br>
+6) ...;<br>
+7) ...;<br>
 8) Berlarebroek;<br>
-9) Gemeentevijver Zelzate;<br>
+9) ...;<br>
 10) Bosdamvijver Wachtebeke;<br>
 11) Het Leen in Eeklo;<br>
-12) Klaverbladvijver in Wachtebeke;<br>
+12) ...;<br>
+13) geul Zalegemdijk in Meerdonk;<br>
 d) provincie Vlaams-Brabant :<br>
 1) Groot Wachtbekken Zuunbeek;<br>
 2) Lindevijver in Groenendaal;<br>
@@ -214,10 +304,11 @@ d) provincie Vlaams-Brabant :<br>
 7) Vossemvijver;<br>
 8) Kleine vijver van Horst;<br>
 9) Demermeander Schoonhoven;<br>
+10) grote vijver van Zevenbronnen;<br>
 e) provincie West-Vlaanderen :<br>
 1) Hoge Dijken in Oudenburg;<br>
 2) 't Veld-Zeetje in Ardooie;<br>
-3) Grote Bassin in Roeslare;<br>
+3) Grote Bassin in Roeselare;<br>
 4) Bergelen Put;<br>
 5) Kasteelvijver Beernem;<br>
 6) Koolhofput in Nieuwpoort.
