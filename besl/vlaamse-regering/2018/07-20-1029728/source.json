@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029728,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 februari 2013 tot uitvoering van de wet van 1 juli 1954 op de riviervisserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029728/VolledigDocument?datum=2018-09-22",
+  "source_sha256": "ffa3c72158d16d4c6dacad7e93dbedb7e7f7c253c70a6c6f75b4a24ee6ad5cdb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029728&param=informatie",
+  "as_of": "2018-09-22",
+  "made": "2018-07-20",
+  "gazette": "2018-09-12",
+  "numac": 2018040653,
+  "document_start": "2018-09-22",
+  "document_end": null,
+  "in_force": "2018-09-22",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-09-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
