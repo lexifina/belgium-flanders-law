@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030009,
+  "title": "Decreet van 2018-12-07 Bestuursdecreet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030009/VolledigDocument?datum=2018-09-23",
+  "source_sha256": "5b24161c66440dd1204f5a86590c0c52935cf8c768da7b2a2214cdcf7dd46db6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030009&param=informatie",
+  "as_of": "2018-09-23",
+  "made": "2018-12-07",
+  "gazette": "2018-12-19",
+  "numac": 2018032457,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2018-09-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-09-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
