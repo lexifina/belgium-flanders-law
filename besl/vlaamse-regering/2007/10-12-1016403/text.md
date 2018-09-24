@@ -46,6 +46,9 @@ Besluit :
 
 In dit besluit wordt verstaan onder :<br>
 1° actueel besteedbaar inkomen : het gemiddelde van het effectief beschikbare inkomen over een periode van minimum drie van de zes maanden die aan de referentiedatum voorafgaat, van de kandidaat-huurder, met uitsluiting van de ongehuwde kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op het ogenblik van de referentiedatum. Het inkomen van inwonende ascendenten van de persoon die zich bij de inschrijving heeft opgegeven als toekomstige referentiehuurder of van zijn wettelijke of feitelijke partner wordt slechts voor de helft aangerekend. Het wordt niet aangerekend voor de familieleden van de eerste en de tweede graad van de persoon die zich bij de inschrijving heeft opgegeven als toekomstige referentiehuurder of van zijn wettelijke of feitelijke partner die erkend zijn als ernstig gehandicapt of die ten minste 65 jaar oud zijn. Het effectief beschikbare inkomen is het verschil tussen enerzijds alle belastbare en niet-belastbare inkomens en anderzijds de vrijgestelde inkomens, de effectief betaalde alimentatievergoeding en de effectief betaalde schuldaflossingen. De minister bepaalt de vrijgestelde inkomens en de effectief betaalde schuldaflossingen en stelt de nadere regels vast voor de berekening van het effectief beschikbare inkomen. De effectief betaalde schuldaflossingen komen alleen in aanmerking voor zover de kandidaat-huurder toegelaten is tot een collectieve schuldenregeling overeenkomstig de wet van 5 juli 1998 betreffende de collectieve schuldenregeling en de mogelijkheid van verkoop uit de hand van in beslag genomen onroerende goederen, of in budgetbegeleiding of budgetbeheer is bij een O.C.M.W. of bij een andere door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling;<br>
+1° bis ADL-centrum: het centrale dienstlokaal waar de hulpaanvraag aankomt en vanwaaruit een vergunde zorgaanbieder assistentie bij de activiteiten van het dagelijkse leven verstrekt en coördineert;<br>
+1° ter ADL-cluster: een geheel van twaalf tot vijftien ADL-woningen, geïntegreerd in een sociale woonwijk en verbonden met een ADL-centrum via een communicatie- en oproepsysteem;<br>
+1° quater ADL-woning: de woongelegenheid die aangepast en uitgerust is om de activiteiten van het dagelijks leven en het zelfstandig wonen van personen met een handicap te ondersteunen, die gesubsidieerd is op basis van artikel 72 van de Vlaamse Wooncode en die zich bevindt in een ADL-cluster;<br>
 2° ...;<br>
 3° basistaalvaardigheid Nederlands: het niveau van het Nederlands dat overeenstemt met niveau A1 van het Europees Referentiekader voor Moderne Vreemde Talen;<br>
 4° ...;<br>
@@ -88,7 +91,7 @@ c) de persoon die erkend is als ernstig gehandicapt, of erkend was als ernstig g
 27° sociaal verhuurkantoor : het sociaal verhuurkantoor dat erkend is overeenkomstig artikel 56 van de Vlaamse Wooncode;<br>
 27° bis sociale assistentiewoning : een woning als vermeld in artikel 4, § 1, tweede lid, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
 28° toezichthouder : de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode;<br>
-28° bis ...;<br>
+28° bis vergunde zorgaanbieder: een zorgaanbieder die conform artikel 8 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap vergund is om niet rechtsreeks toegankelijke zorg en ondersteuning aan te bieden;<br>
 28° ter verhurende instelling : openbare besturen, welzijnsorganisaties of organisaties die de Vlaamse Regering daarvoor erkent als vermeld in artikel 91, § 1, 3°, van de Vlaamse Wooncode;<br>
 29° verhuurder : de instantie die woningen verhuurt of onderverhuurt overeenkomstig de bepalingen van titel VII van de Vlaamse Wooncode, namelijk een sociale huisvestingsmaatschappij, de VMSW, het Vlaams Woningfonds, een gemeente, een intergemeentelijk samenwerkingsverband, een O.C.M.W., een OCMW-vereniging of een sociaal verhuurkantoor;<br>
 30° ...;<br>
@@ -129,6 +132,8 @@ Als een persoon zich wil inschrijven voor een sociale assistentiewoning gelden n
 3° hij heeft, samen met zijn gezinsleden, geen perceel, bestemd voor woningbouw, volledig of gedeeltelijk in volle eigendom of volledig in vruchtgebruik;<br>
 4° hij of een van zijn gezinsleden is geen zaakvoerder, bestuurder of aandeelhouder van een vennootschap waarin hij of een van zijn gezinsleden een woning of een perceel dat bestemd is voor woningbouw, heeft ingebracht.<br>
 <br>
+Als een persoon zich wil inschrijven voor een ADL-woning, geldt naast de voorwaarden, vermeld in het eerste lid, ook de voorwaarde dat hij bereid moet zijn om een overeenkomst over het verlenen van zorg en ondersteuning te sluiten met een vergunde zorgaanbieder die vanuit het ADL-centrum assistentie verleent, waarin wordt voorzien dat zorg en ondersteuning als vermeld in artikel 4, 1°, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders wordt ingekocht voor een minimaal budget van 12,2345 zorggebonden punten als vermeld in tabel 1 die als bijlage is gevoegd bij het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget of voor een bedrag dat omgerekend naar punten aan de hand van de omslagsleutel vermeld in artikel 17, derde en vierde lid, van het voormelde besluit van 27 november 2015, overeenstemt met 12,2345 zorggebonden punten. De verhuurder kan een afwijking van de inkomensgrenzen toestaan als de persoon die zich wil inschrijven voor een ADL-woning, daarvoor een gemotiveerd verzoek indient, met dien verstande dat het inkomen uit arbeid de inkomensgrenzen niet mag overschrijden.<br>
+<br>
 Voor de toepassing van het eerste en tweede lid worden de volgende personen niet beschouwd als gezinsleden :<br>
 1° de echtgenoot van de persoon die zich wil inschrijven, op voorwaarde dat wordt aangetoond dat het huwelijk onherstelbaar ontwricht is;<br>
 2° een of meer andere personen dan de persoon, vermeld in punt 1°, die op het ogenblik van de inschrijving samenwonen met de persoon die zich wil inschrijven, en die duidelijk de sociale huurwoning niet met die persoon gaan betrekken.<br>
@@ -141,7 +146,7 @@ Bij de inschrijving meldt de persoon die zich wil inschrijven wie als toekomstig
 <br>
 De verhuurder kan in individuele gevallen afwijken van de voorwaarde, vermeld in het eerste lid, 2°, voor zover de persoon die zich wil inschrijven tot een collectieve schuldenregeling is toegelaten overeenkomstig artikel 1675/6 van het Gerechtelijk Wetboek, of in budgetbegeleiding of budgetbeheer is bij een OCMW of een andere door de Vlaamse Gemeenschap erkende instelling voor schuldbemiddeling.<br>
 <br>
-Als het&nbsp;zesde lid van toepassing is, wordt het actueel besteedbaar inkomen van de persoon die zich wil inschrijven in aanmerking genomen en getoetst aan de inkomensgrenzen, vermeld in § 2.<br>
+Als het&nbsp;zevende lid van toepassing is, wordt het actueel besteedbaar inkomen van de persoon die zich wil inschrijven in aanmerking genomen en getoetst aan de inkomensgrenzen, vermeld in § 2.<br>
 <br>
 De persoon die zich wil inschrijven, kan bewijzen dat hij voldoet aan de voorwaarde, vermeld in het eerste lid, 3°, en tweede lid, 2° en 3°,&nbsp;via een verklaring op eer voor wat betreft de onroerende goederen in het buitenland.<br>
 <br>
@@ -162,7 +167,7 @@ Als het inkomen van het referentiejaar de grens, vermeld in § 2, overschrijdt, 
 1° de woning in het Vlaamse Gewest die binnen de grenzen van een vastgesteld onteigeningsplan ligt, en die wordt bewoond door de persoon die zich kandidaat wil stellen;<br>
 2° de woning in het Vlaamse Gewest die maximaal twee maanden voor de inschrijving onbewoonbaar of ongeschikt verklaard is en waarvan de ontruiming noodzakelijk is;<br>
 3° de woning in het Vlaamse Gewest die onaangepast is en die bewoond wordt door een persoon met een fysieke handicap die zich kandidaat wil stellen;<br>
-4° de woning die bewoond wordt door een persoon met een handicap die ingeschreven is voor een ADL-woning als vermeld in artikel 1, 8°, van het besluit van de Vlaamse Regering van 16 juni 1998 tot aanmoediging van projecten inzake het zelfstandig wonen van personen met een fysieke handicap in sociale woonwijken;<br>
+4° de woning die bewoond wordt door een persoon met een handicap die ingeschreven is voor een ADL-woning;<br>
 5° de woning die in een ruimtelijke bestemmingszone in België ligt waar wonen niet toegelaten is;<br>
 6° de woning die moet worden ontruimd met toepassing van artikel 18, § 2, tweede lid, artikel 26, 60, § 3, en artikel 90, § 1, vierde lid, van de Vlaamse Wooncode;<br>
 7° de woning die bewoond wordt door de persoon die zich wil inschrijven, en die het beheer over zijn woning heeft verloren tengevolge van een faillietverklaring met toepassing van artikel 16 van de Faillissementswet van 8 augustus 1997.<br>
@@ -230,7 +235,19 @@ De minister kan de toepassing van het&nbsp;vijfde lid uitbreiden naar de andere 
 
 ### ART. 10.
 
-De kandidaat-huurder kan het type en de ligging van de woningen aangeven   waarvoor hij zich wil inschrijven. In samenhang hiermee kan hij de maximale   huurprijs opgeven die hij wenst te betalen. In dit kader geeft de verhuurder   toelichting bij de huurprijsberekening en de huurprijzen van de woningen van het   gekozen type met de gekozen ligging. De desgevallend opgegeven maximale   huurprijs wordt jaarlijks op 1 januari geactualiseerd, zoals bepaald in artikel   40.<BR><BR>Met behoud van de toepassing van het eerste lid, mag de voorkeur van   de kandidaat-huurder met betrekking tot het type en de ligging van de woningen   waarvoor hij zich wil inschrijven, niet leiden tot een te beperkte keuze. De   verhuurder weigert die voorkeur als hij van oordeel is dat die voorkeur   kennelijk een te beperkt aandeel van het patrimonium betreft of als die voorkeur   ertoe leidt dat een toewijzing onmogelijk wordt.<BR><BR>In afwijking van het   tweede lid, kan de mantelzorger en de persoon die vanwege één of meer   aanverwante mantelzorgers zorg en bijstand ontvangt, een meer gerichte keuze   maken met betrekking tot de ligging van de woningen waarvoor hij zich wil   inschrijven. <BR><BR>In afwijking van het eerste en het tweede lid, kan een   kandidaat-huurder die zich ingeschreven heeft voor een sociale   assistentiewoning, zijn voorkeur beperken tot de sociale assistentiewoningen die   behoren tot het patrimonium van de verhuurder.<BR><BR>Als de verhuurder de   exacte gezinssamenstelling niet kan verkrijgen via de Kruispuntbank van de   Sociale Zekerheid, deelt de kandidaat-huurder de exacte gezinssamenstelling mee   aan de verhuurder op het ogenblik van de inschrijving.<BR><BR>De   kandidaat-huurder deelt in voorkomend geval op het ogenblik van inschrijving aan   de verhuurder de gegevens mee van de leden van het gezin in het buitenland   waarvoor een aanvraag tot gezinshereniging werd ingediend of zal worden   ingediend.<BR><BR>Als na de inschrijvingsdatum de gezinssamenstelling of het   adres van de kandidaat-huurder wijzigt, moet de kandidaat-huurder dit binnen een   maand na de wijziging meedelen aan de verhuurder.<BR>
+De kandidaat-huurder kan het type en de ligging van de woningen aangeven waarvoor hij zich wil inschrijven. In samenhang hiermee kan hij de maximale huurprijs opgeven die hij wenst te betalen. In dit kader geeft de verhuurder toelichting bij de huurprijsberekening en de huurprijzen van de woningen van het gekozen type met de gekozen ligging. De desgevallend opgegeven maximale huurprijs wordt jaarlijks op 1 januari geactualiseerd, zoals bepaald in artikel 40.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, mag de voorkeur van de kandidaat-huurder met betrekking tot het type en de ligging van de woningen waarvoor hij zich wil inschrijven, niet leiden tot een te beperkte keuze. De verhuurder weigert die voorkeur als hij van oordeel is dat die voorkeur kennelijk een te beperkt aandeel van het patrimonium betreft of als die voorkeur ertoe leidt dat een toewijzing onmogelijk wordt.<br>
+<br>
+In afwijking van het tweede lid, kan de mantelzorger en de persoon die vanwege één of meer aanverwante mantelzorgers zorg en bijstand ontvangt, een meer gerichte keuze maken met betrekking tot de ligging van de woningen waarvoor hij zich wil inschrijven.<br>
+<br>
+In afwijking van het eerste en het tweede lid, kan een kandidaat-huurder die zich ingeschreven heeft voor een sociale assistentiewoning of een ADL-woning, zijn voorkeur beperken tot de sociale&nbsp;assistentiewoningen of ADL-woningen die behoren tot het patrimonium van de verhuurder.<br>
+<br>
+Als de verhuurder de exacte gezinssamenstelling niet kan verkrijgen via de Kruispuntbank van de Sociale Zekerheid, deelt de kandidaat-huurder de exacte gezinssamenstelling mee aan de verhuurder op het ogenblik van de inschrijving.<br>
+<br>
+De kandidaat-huurder deelt in voorkomend geval op het ogenblik van inschrijving aan de verhuurder de gegevens mee van de leden van het gezin in het buitenland waarvoor een aanvraag tot gezinshereniging werd ingediend of zal worden ingediend.<br>
+<br>
+Als na de inschrijvingsdatum de gezinssamenstelling of het adres van de kandidaat-huurder wijzigt, moet de kandidaat-huurder dit binnen een maand na de wijziging meedelen aan de verhuurder.
 
 ### ART. 11.
 
@@ -345,7 +362,7 @@ De verhuurder wijkt af van de rationele bezetting als zijn huurder moet geherhui
 ### ART. 19.
 
 In het eerste toewijzingssysteem is de verhuurder verplicht om achtereenvolgens aan de volgende kandidaat-huurders een voorrang toe te kennen :<br>
-1° de kandidaat-huurder of een van zijn gezinsleden met een fysieke handicap of beperking, uitsluitend als de beschikbare woning door de daarop gerichte investeringen specifiek is aangepast aan de huisvesting van personen met die fysieke handicap of beperking of de kandidaat-huurder die ingeschreven is voor een sociale assistentiewoning, als de beschikbare woning een sociale assistentiewoning is;<br>
+1° de kandidaat-huurder of een van zijn gezinsleden met een fysieke handicap of beperking, uitsluitend als de beschikbare woning door de daarop gerichte investeringen specifiek is aangepast aan de huisvesting van personen met die fysieke handicap of beperking of de kandidaat-huurder die ingeschreven is voor een sociale assistentiewoning, als de beschikbare woning een sociale assistentiewoning is of de kandidaat-huurder die ingeschreven is voor een ADL-woning, als de beschikbare woning een ADL-woning is;<br>
 1° bis de kandidaat-huurder die huurder is van een sociale huurwoning van de verhuurder die niet voldoet aan de normen, vermeld in artikel 5, § 1, derde lid, van de Vlaamse Wooncode;<br>
 1° ter de kandidaat-huurder die huurder is van een sociale huurwoning van de verhuurder en die met toepassing van artikel 92, § 3, eerste lid, 12°, van de Vlaamse Wooncode verplicht is te verhuizen naar een andere sociale huurwoning;<br>
 1° quater de kandidaat-huurder met toepassing van artikel 30, § 1, vierde lid;<br>
@@ -472,7 +489,7 @@ De verhuurder zorgt voor het uitvoeren van de basisbegeleidingstaken.<br /> <br 
 
 § 1. Voor de hierna vermelde beslissingen van de verhuurder kan de kandidaat-huurder die zich benadeeld acht door die beslissing, met een aangetekende en gemotiveerde brief een beoordeling vragen van de toezichthouder :<br>
 1° de beslissing om een woning toe te wijzen aan een andere kandidaat-huurder;<br>
-2° de beslissing om geen afwijking toe te staan, als vermeld in artikel 3, § 1,&nbsp;zesde lid, of een versnelde toewijzing als vermeld in artikel 24;<br>
+2° de beslissing om geen afwijking toe te staan, als vermeld in artikel 3, § 1,&nbsp;zevende lid, of een versnelde toewijzing als vermeld in artikel 24;<br>
 3° de beslissing om de kandidaat-huurder te schrappen uit het register;<br>
 4° de beslissing om de toewijzing van een woning aan de kandidaat-huurder te weigeren;<br>
 5° de beslissing om een persoon die zich wil inschrijven, niet in te schrijven of een persoon die wil toetreden tot de huurovereenkomst, niet te laten toetreden;<br>
@@ -487,7 +504,7 @@ De toezichthouder beoordeelt de gegrondheid en bezorgt zijn beoordeling aan de v
 Als de verhuurder vaststelt dat in het geval, vermeld in het eerste lid, 1°, de toewijzing aan de betrokkene had moeten gebeuren of dat in het geval, vermeld in het eerste lid, 4°, dat de betrokkene ten onrechte werd geweigerd, of als er binnen dertig dagen na ontvangst van de beoordeling van de toezichthouder geen beslissing wordt betekend, krijgt de kandidaat-huurder de voorrang, vermeld in artikel 19, eerste lid, 1° quater en artikel 21, § 2, eerste lid, 1°bis.<br>
 <br>
 Als er binnen dertig dagen na ontvangst van de beoordeling van de toezichthouder geen beslissing als vermeld in het derde lid wordt betekend, wordt :<br>
-1° in het geval, vermeld in het eerste lid, 2°, de afwijking vermeld in artikel 3, § 1,&nbsp;zesde lid, of de versnelde toewijzing, vermeld in artikel 24, toegestaan;<br>
+1° in het geval, vermeld in het eerste lid, 2°, de afwijking vermeld in artikel 3, § 1,&nbsp;zevende lid, of de versnelde toewijzing, vermeld in artikel 24, toegestaan;<br>
 2° in het geval, vermeld in het eerste lid, 3°, de schrapping ongedaan gemaakt;<br>
 3° in het geval, vermeld in het eerste lid, 5°, de persoon ingeschreven of toegelaten tot toetreding tot de huurovereenkomst;<br>
 4° in het geval, vermeld in het eerste lid, 6°, de voorkeur van de kandidaat-huurder aangenomen.<br>
@@ -601,7 +618,7 @@ Als de verwerving, vermeld in het eerste lid, 2°, kosteloos gebeurt, moet al na
 <br>
 De begeleidende maatregelen die gekoppeld zijn aan de begeleiding, vermeld in het eerste lid, 1°, worden opgenomen in een begeleidingsovereenkomst tussen de huurder en een welzijns- of gezondheidsvoorziening.<br>
 <br>
-§ 2. ...<br>
+§ 2. Bij het einde of de opzegging van de overeenkomst over het verlenen van zorg en ondersteuning die gesloten is tussen de huurder van een ADL-woning en de vergunde zorgaanbieder, of als de overeenkomst wordt gewijzigd naar minder zorg en ondersteuning dan vermeld in artikel 3, § 1, derde lid, is de huurder verplicht om in te gaan op het aanbod van een andere sociale huurwoning die beantwoordt aan het type, de ligging en de maximale huurprijs die hij met toepassing van artikel 10 heeft aangegeven, tenzij de verhuurder een afwijking toestaat. Een ongegronde weigering van een aanbod wordt beschouwd als een ernstige tekortkoming op het vlak van de huurdersverplichtingen, die de opzegging van de huurovereenkomst tot gevolg heeft.<br>
 <br>
 § 3. De verhuurder moet aantonen dat hij een beroep heeft gedaan op de bemiddeling van het O.C.M.W. als hij de opzeg betekent aan een huurder van wie het inkomen in het referentiejaar dat als basis diende voor de huurprijsberekening, minder dan 16.200 euro bedraagt.<br>
 <br>
