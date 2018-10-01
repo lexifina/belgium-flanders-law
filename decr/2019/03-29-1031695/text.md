@@ -56,6 +56,13 @@ In artikel 18, eerste lid, van het decreet van 8 juli 2011 houdende bepalingen t
 
 ## HOOFDSTUK 20. Wijzigingen van het Cultureelerfgoeddecreet van 24 februari 2017
 
+### ART 78.
+
+In hetzelfde decreet wordt een artikel 96/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 96/1. Voor de behandeling van de eerste aanvraag van het steunpunt, geldt, in afwijkijking van de regels die op basis van artikel 41 bepaald worden, 1 oktober 2018 als eerste indiendatum.<br>
+De van toepassing zijnde data en termijnen bepaald in uitvoering van artikel 41 voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt, schuiven eenmalig mee op in functie van deze eerste indiendatum. De Vlaamse Regering beslist over deze eerste aanvraag uiterlijk 2 maanden na bekrachtiging van het decreet houdende diverse bepalingen in het beleidsveld cultuur.<br>
+Voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt dienen de noden van cultureelerfgoedorganisaties, beheerders van cultureel erfgoed en cultureelerfgoedgemeenschappen, vermeld in artikel 53/3, 7°, niet te worden bevraagd.".
+
 ## HOOFDSTUK 21. Wijziging van het decreet van 12 mei 2017 houdende diverse bepalingen in de beleidsvelden cultuur en jeugd
 
 ## HOOFDSTUK 22. Wijzigingen van het decreet van 7 juli 2017 houdende de subsidiëring en erkenning van het sociaal-cultureel volwassenenwerk
