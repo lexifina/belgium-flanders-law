@@ -137,7 +137,24 @@ Om voorlopig erkend te kunnen worden moet een ouderenvoorziening aan de volgende
 
 ### ART. 6.
 
-§ 1. Om de kwaliteit van de hulp- en dienstverlening te garanderen en te   bestendigen beantwoordt de voorziening of de vereniging aan de bepalingen van   het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen.<BR><BR>Zolang echter de lijst, vermeld in artikel 6, § 2,   van dat decreet, niet is opgesteld en uiterlijk tot 31 december 2017, leeft, in   afwijking van het eerste lid, de voorziening of de vereniging de bepalingen van   § 2 en van artikel 7 na.<BR><BR>§ 2. De voorziening of de vereniging maakt een   kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave   van het door de voorziening of de vereniging gevoerde kwaliteitsbeleid en een   weergave van het kwaliteitssysteem. <BR>Het kwaliteitshandboek, vermeld in het   eerste lid, bevat ook een beschrijving van de zelfevaluatie die de voorziening   of de vereniging uitvoert. Die zelfevaluatie bevat minstens een periodieke   evaluatie van :<BR>1° de werking van de voorziening of de vereniging;<BR>2° de   doelstellingen.<BR><BR>Bij elk van de evaluaties worden de vijf stappen   doorlopen die omschreven worden in artikel 5, § 3, tweede lid, van het decreet   van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen, telkens gedurende een periode van twee jaar.<BR><BR>De   minister bepaalt de minimale vereisten waaraan het kwaliteitshandboek en het   kwaliteitssysteem moeten voldoen. De minister kan minimale kwaliteitseisen   bepalen.<BR><BR>§ 3. De voorziening ontwikkelt een geschreven referentiekader   voor seksueel grensoverschrijdend gedrag ten aanzien van de   gebruikers.<BR><BR>De voorziening hanteert een procedure voor de preventie van,   de detectie van en gepaste reacties op seksueel grensoverschrijdend gedrag ten   aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen   dat geanonimiseerde gegevens bijhoudt over de gevallen van seksueel   grensoverschrijdend gedrag ten aanzien van de gebruikers.<BR><BR>De voorziening   meldt, op een geanonimiseerde wijze, seksueel grensoverschrijdend gedrag ten   aanzien van de gebruikers aan het agentschap.<BR>
+§ 1. Om de kwaliteit van de hulp- en dienstverlening te garanderen en te bestendigen beantwoordt de voorziening of de vereniging aan de bepalingen van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.<br>
+<br>
+Zolang echter de lijst, vermeld in artikel 6, § 2, van dat decreet, niet is opgesteld en uiterlijk tot 31 december 2021, leeft, in afwijking van het eerste lid, de voorziening of de vereniging de bepalingen van § 2 en van artikel 7 na.<br>
+<br>
+§ 2. De voorziening of de vereniging maakt een kwaliteitshandboek op. Dat handboek bevat minstens een inleiding, een weergave van het door de voorziening of de vereniging gevoerde kwaliteitsbeleid en een weergave van het kwaliteitssysteem.<br>
+Het kwaliteitshandboek, vermeld in het eerste lid, bevat ook een beschrijving van de zelfevaluatie die de voorziening of de vereniging uitvoert. Die zelfevaluatie bevat minstens een periodieke evaluatie van :<br>
+1° de werking van de voorziening of de vereniging;<br>
+2° de doelstellingen.<br>
+<br>
+Bij elk van de evaluaties worden de vijf stappen doorlopen die omschreven worden in artikel 5, § 3, tweede lid, van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, telkens gedurende een periode van twee jaar.<br>
+<br>
+De minister bepaalt de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen. De minister kan minimale kwaliteitseisen bepalen.<br>
+<br>
+§ 3. De voorziening ontwikkelt een geschreven referentiekader voor seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
+<br>
+De voorziening hanteert een procedure voor de preventie van, de detectie van en gepaste reacties op seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers. In die procedure is een registratiesysteem opgenomen dat geanonimiseerde gegevens bijhoudt over de gevallen van seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers.<br>
+<br>
+De voorziening meldt, op een geanonimiseerde wijze, seksueel grensoverschrijdend gedrag ten aanzien van de gebruikers aan het agentschap.
 
 ### ART. 7.
 
@@ -229,7 +246,12 @@ Tenzij het in de bijlagen bij dit besluit anders wordt bepaald, wordt, binnen de
 
 ### ART. 15.
 
-Jaarlijks bepaalt de minister per soort thuiszorgvoorziening en voor de verenigingen het prioriteitenschema voor de toekenning van de subsidie. Voor het vaststellen van dat prioriteitenschema baseert de minister zich op de thuiszorgvoorzieningen en de verenigingen die vóór 1 juli van het desbetreffende jaar erkend zijn, maar niet gesubsidieerd werden. De datum van de erkenningsbeslissing wordt in aanmerking genomen. Het prioriteitenschema houdt minstens rekening met wat per soort voorziening en voor de verenigingen bepaald is in bijlagen III, VI tot en met VIII en XIII bij dit besluit. <br /><br />De thuiszorgvoorzieningen en de verenigingen die in het voorgaande jaar al gesubsidieerd werden en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden. <br /><br />In afwijking van het eerste en tweede lid wordt aan een erkende dienst voor gezinszorg en aanvullende thuiszorg, en aan een erkende dienst voor logistieke hulp een subsidie-enveloppe toegekend conform de bepalingen van bijlagen I en II bij dit besluit.<br /><br />
+Jaarlijks bepaalt de minister per soort thuiszorgvoorziening en voor de verenigingen het prioriteitenschema voor de toekenning van de subsidie. Voor het vaststellen van dat prioriteitenschema baseert de minister zich op de thuiszorgvoorzieningen en de verenigingen die vóór 1 juli van het desbetreffende jaar erkend zijn, maar niet gesubsidieerd werden. De datum van de erkenningsbeslissing wordt in aanmerking genomen. Het prioriteitenschema houdt minstens rekening met wat per soort voorziening en voor de verenigingen bepaald is in bijlagen&nbsp;VI tot en met VIII en XIII bij dit besluit.<br>
+<br>
+De thuiszorgvoorzieningen en de verenigingen die in het voorgaande jaar al gesubsidieerd werden en nog erkend zijn, worden opnieuw gesubsidieerd als ze voldoen aan de subsidiëringsvoorwaarden.<br>
+<br>
+In afwijking van het eerste en tweede lid wordt aan een erkende dienst voor gezinszorg en aanvullende thuiszorg, en aan een erkende dienst voor logistieke hulp een subsidie-enveloppe toegekend conform de bepalingen van bijlagen I en II bij dit besluit.<br>
+&nbsp;
 
 ### ART. 16.
 
@@ -565,7 +587,44 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART. 1.
 
-<P>In deze bijlage wordt verstaan onder :<BR>1° de dienst : de dienst voor   gezinszorg en aanvullende thuiszorg;<BR>2° gezinszorg : het zorgaanbod dat   bestaat uit persoonsverzorging, huishoudelijke hulp en schoonmaakhulp, alsook de   daarmee verband houdende algemene psychosociale en pedagogische ondersteuning en   begeleiding;<BR>3° persoonsverzorging : de activiteiten, vermeld in artikel 2,   1°, van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van   het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de   thuiszorg;<BR>4° huishoudelijke hulp : de hulp- en dienstverlening die bestaat   uit de volgende activiteiten :<BR>a) de organisatie van het huishouden;<BR>b) de   zorg voor de maaltijden : maaltijden bereiden, inclusief dieetmaaltijden en   babyvoeding, alsook inmaken en bewaren van voedingswaren voor gezinsverbruik en   opdienen, afruimen en afwassen;<BR>c) de zorg voor kleding en linnen : wassen,   strijken en verstellen;<BR>d) de zorg voor woon- en leefklimaat : leefruimten   hygiënisch onderhouden, bedden opmaken en verschonen, zorgen voor planten in de   woning en zorgen voor huisdieren;<BR>e) het doen van boodschappen;<BR>f) de zorg   voor veiligheid en hygiëne in de woning;<BR>5° algemene psychosociale en   pedagogische ondersteuning en begeleiding : de activiteiten, vermeld in artikel   2, 2°, van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering   van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in   de thuiszorg;<BR>6° aanvullende thuiszorg : de zorg die bestaat uit het   aanbieden van schoonmaakhulp, oppashulp of karweihulp;<BR>6°/1 meerling :   minstens een drieling of twee tweelingen van wie de leeftijd niet meer verschilt   dan 18 maanden tot een van beide tweelingen de leeftijd van 3 jaar heeft   bereikt;<BR>6°/2 meerlingenhulp : het aanbieden van gezinszorg en/of poetshulp   aan gezinnen met een meerling tot het derde levensjaar;<BR>6°/3 oppashulp : de   hulp- en dienstverlening die erin bestaat de gebruiker gezelschap te bieden en   toezicht op hem te houden bij afwezigheid of ter ondersteuning van de   mantelzorg. Onder gezelschap bieden aan de gebruiker wordt verstaan : in het   bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van   het dagelijkse leven. Onder toezicht houden op de gebruiker wordt verstaan : met   aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend   zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend   hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<BR>7°   verzorgend personeel : de personeelsleden van een dienst voor gezinszorg en   aanvullende thuiszorg die in het natuurlijke thuismilieu van de gebruiker   persoonsverzorging en huishoudelijke hulp aanbieden, alsook algemene   psychosociale en pedagogische ondersteuning en begeleiding die met deze   activiteiten verband houden;<BR>8° logistiek personeel : personen, al dan niet   tewerkgesteld in een dienst voor gezinszorg en aanvullende thuiszorg, die   schoonmaakhulp, karweihulp of oppashulp aanbieden;<BR>9° begeleidend personeel :   de personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg die   belast zijn met het verrichten van de sociale onderzoeken, met de begeleiding   van de gebruikers, met het hulp- en dienstverleningsproces of met het begeleiden   van het verzorgend en logistiek personeel;<BR>10° leidinggevend personeel : de   personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg die   belast zijn met de leiding en de algemene beleidsvoering; <BR>11° lokale   diensteneconomie: de lokale diensteneconomie, vermeld in artikel 3, 4°, van het   decreet van 22 november 2013 betreffende de lokale diensteneconomie; <BR>12°   ...;<BR>13° doelgroepwerknemer : de persoon die schoonmaakhulp, karweihulp en   oppashulp uitvoert in het kader van de lokale diensteneconomie;<BR>14°   omkaderingspersoneel: de personen die belast zijn met de begeleiding van de   doelgroepwerknemer met toepassing van het besluit van de Vlaamse Regering van 19   december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de   lokale diensteneconomie;<BR>15° wijkwerking : het overleg van een groep   personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg, die   onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is   voor de hulp- en dienstverlening in een bepaald gebied. Dat overleg gebeurt met   het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende,   continue en maatschappelijk verantwoorde hulp- en dienstverlening; <BR>16° VVDG   : de Vereniging van de Diensten voor Gezinszorg van de Vlaamse   Gemeenschap;<BR>17° VVSG : de Vereniging van Vlaamse Steden en Gemeenten;<BR>18°   VTE : voltijds equivalent;<BR>19° Vesta: het systeem van elektronische   gegevensuitwisseling waarvan elke dienst voor gezinszorg en aanvullende   thuiszorg moet gebruikmaken om de gegevens over zijn personeel en zijn   gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en   beleidsinformatie te genereren, aan het agentschap te bezorgen;<BR>20°   Zorgregiodecreet : het decreet van 23 mei 2003 betreffende de indeling in   zorgregio's en betreffende de samenwerking en programmatie van   gezondheidsvoorzieningen en welzijnsvoorzieningen;<BR>21° dagverzorgingscentrum:   een dagverzorgingscentrum dat werd erkend ter uitvoering van artikel 51 van   bijlage IX;<BR>22° werkvergadering : een overlegmoment van praktische en   organisatie-technische aard, dat meestal, maar niet noodzakelijk, rechtstreeks   in verband staat met de dienstverlening aan de gebruikers;<BR>23° DOP : een   dienst Ondersteuningsplan die erkend is met toepassing van het besluit van de   Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring   van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject   van personen met een handicap;<BR>24° ondersteuningsplan : een plan als vermeld   in artikel 1, 5°, van het besluit van de Vlaamse Regering van 30 september 2011   betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een   mentororganisatie voor het voortraject van personen met een handicap;<BR>25°   DOP-uren : de uren gezinszorg die gedurende maximaal 3 maanden geboden worden   aan een gebruiker die een ondersteuningsplan van een DOP heeft en waarvoor een   extra subsidie wordt verkregen;<BR>26° regionale dienst: een regionale dienst   voor gezinszorg en aanvullende thuiszorg;<BR>27° stagiair: een leerling, student   of cursist die in het kader van een leerprogramma dat georganiseerd wordt door   een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst   voor gezinszorg en aanvullende thuiszorg, in vergelijkbare omstandigheden als de   personeelsleden van die dienst, om beroepservaring op te   doen.<BR><BR></P>
+<p>In deze bijlage wordt verstaan onder :<br>
+1° de dienst : de dienst voor gezinszorg en aanvullende thuiszorg;<br>
+2° gezinszorg : het zorgaanbod dat bestaat uit persoonsverzorging, huishoudelijke hulp en schoonmaakhulp, alsook de daarmee verband houdende algemene psychosociale en pedagogische ondersteuning en begeleiding;<br>
+3° persoonsverzorging : de activiteiten, vermeld in artikel 2, 1°, van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg;<br>
+4° huishoudelijke hulp : de hulp- en dienstverlening die bestaat uit de volgende activiteiten :<br>
+a) de organisatie van het huishouden;<br>
+b) de zorg voor de maaltijden : maaltijden bereiden, inclusief dieetmaaltijden en babyvoeding, alsook inmaken en bewaren van voedingswaren voor gezinsverbruik en opdienen, afruimen en afwassen;<br>
+c) de zorg voor kleding en linnen : wassen, strijken en verstellen;<br>
+d) de zorg voor woon- en leefklimaat : leefruimten hygiënisch onderhouden, bedden opmaken en verschonen, zorgen voor planten in de woning en zorgen voor huisdieren;<br>
+e) het doen van boodschappen;<br>
+f) de zorg voor veiligheid en hygiëne in de woning;<br>
+5° algemene psychosociale en pedagogische ondersteuning en begeleiding : de activiteiten, vermeld in artikel 2, 2°, van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg;<br>
+6° aanvullende thuiszorg : de zorg die bestaat uit het aanbieden van schoonmaakhulp, oppashulp of karweihulp;<br>
+6°/1 meerling : minstens een drieling of twee tweelingen van wie de leeftijd niet meer verschilt dan 18 maanden tot een van beide tweelingen de leeftijd van 3 jaar heeft bereikt;<br>
+6°/2 meerlingenhulp : het aanbieden van gezinszorg en/of poetshulp aan gezinnen met een meerling tot het derde levensjaar;<br>
+6°/3 oppashulp : de hulp- en dienstverlening die erin bestaat de gebruiker gezelschap te bieden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorg. Onder gezelschap bieden aan de gebruiker wordt verstaan : in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven. Onder toezicht houden op de gebruiker wordt verstaan : met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br>
+7° verzorgend personeel : de personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg die in het natuurlijke thuismilieu van de gebruiker persoonsverzorging en huishoudelijke hulp aanbieden, alsook algemene psychosociale en pedagogische ondersteuning en begeleiding die met deze activiteiten verband houden;<br>
+8° logistiek personeel : personen, al dan niet tewerkgesteld in een dienst voor gezinszorg en aanvullende thuiszorg, die schoonmaakhulp, karweihulp of oppashulp aanbieden;<br>
+9° begeleidend personeel : de personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg die belast zijn met het verrichten van de sociale onderzoeken, met de begeleiding van de gebruikers, met het hulp- en dienstverleningsproces of met het begeleiden van het verzorgend en logistiek personeel;<br>
+10° leidinggevend personeel : de personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg die belast zijn met de leiding en de algemene beleidsvoering;<br>
+11° lokale diensteneconomie: de lokale diensteneconomie, vermeld in artikel 3, 4°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+12° ...;<br>
+13° doelgroepwerknemer : de persoon die schoonmaakhulp, karweihulp en oppashulp uitvoert in het kader van de lokale diensteneconomie;<br>
+14° omkaderingspersoneel: de personen die belast zijn met de begeleiding van de doelgroepwerknemer met toepassing van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+15° wijkwerking : het overleg van een groep personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg, die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is voor de hulp- en dienstverlening in een bepaald gebied. Dat overleg gebeurt met het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende, continue en maatschappelijk verantwoorde hulp- en dienstverlening;<br>
+16° VVDG : de Vereniging van de Diensten voor Gezinszorg van de Vlaamse Gemeenschap;<br>
+17° VVSG : de Vereniging van Vlaamse Steden en Gemeenten;<br>
+18° VTE : voltijds equivalent;<br>
+19° Vesta: het systeem van elektronische gegevensuitwisseling waarvan elke dienst voor gezinszorg en aanvullende thuiszorg moet gebruikmaken om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;<br>
+20° Zorgregiodecreet : het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen;<br>
+21° dagverzorgingscentrum: een dagverzorgingscentrum dat werd erkend ter uitvoering van artikel 51 van bijlage IX;<br>
+22° werkvergadering : een overlegmoment van praktische en organisatie-technische aard, dat meestal, maar niet noodzakelijk, rechtstreeks in verband staat met de dienstverlening aan de gebruikers;<br>
+23° DOP : een dienst Ondersteuningsplan die erkend is met toepassing van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
+24° ondersteuningsplan : een plan als vermeld in artikel 1, 5°, van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
+25° DOP-uren : de uren gezinszorg die gedurende maximaal 3 maanden geboden worden aan een gebruiker die een ondersteuningsplan van een DOP heeft en waarvoor een extra subsidie wordt verkregen;<br>
+26° regionale dienst: een regionale dienst voor gezinszorg en aanvullende thuiszorg;<br>
+27° stagiair: een leerling, student of cursist die in het kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst voor gezinszorg en aanvullende thuiszorg, in vergelijkbare omstandigheden als de personeelsleden van die dienst, om beroepservaring op te doen;<br>
+28° kraamzorg: de gezinszorg of aanvullende thuiszorg voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling.</p>
 
 ## HOOFDSTUK II Programmatie
 
@@ -573,7 +632,30 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minist
 
 ### ART. 2.
 
-De programmatie voor de diensten voor gezinszorg en aanvullende thuiszorg bestaat uit programmacijfers voor de uren persoonsverzorging en huishoudelijke hulp, verstrekt door de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br /><br />De programmacijfers, vermeld in het eerste lid, worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, op basis van de leeftijd van de inwoners als volgt vastgelegd :<br />1° per inwoner van de leeftijdsgroep tot 59 jaar : 0,62 uur per jaar; <br />2° per inwoner van de leeftijdsgroep vanaf 60 tot en met 64 jaar : 1,68 uur per jaar;<br />3° per inwoner van de leeftijdsgroep vanaf 65 tot en met 74 jaar : 4,58 uur per jaar;<br />4° per inwoner van de leeftijdsgroep vanaf 75 tot en met 84 jaar : 17,5 uur per jaar; <br />5° per inwoner van de leeftijdsgroep vanaf 85 jaar : 40 uur per jaar. <br /><br />Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie van het jaar dat volgt op het jaar waarop de programmatie betrekking heeft. Die bevolkingsprojectie wordt door de minister vastgelegd en moet ten minste aan de volgende voorwaarden voldoen : <br />1° ze is afzonderlijk per kalenderjaar opgesteld; <br />2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend.<br /><br />
+Het programma voor de diensten voor gezinszorg en aanvullende thuiszorg bestaat uit programmacijfers gezinszorg en evaluatiecriteria.
+
+### ART 2/1.
+
+De programmacijfers gezinszorg, vermeld in artikel 2, worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, op basis van de leeftijd van de inwoners op de volgende wijze vastgelegd:<br>
+1° per inwoner van de leeftijdsgroep tot 59 jaar: 0,62 uur per jaar;<br>
+2° per inwoner van de leeftijdsgroep vanaf 60 tot en met 64 jaar: 1,68 uur per jaar;<br>
+3° per inwoner van de leeftijdsgroep vanaf 65 tot en met 74 jaar: 4,58 uur per jaar;<br>
+4° per inwoner van de leeftijdsgroep vanaf 75 tot en met 84 jaar: 17,5 uur per jaar;<br>
+5° per inwoner van de leeftijdsgroep vanaf 85 jaar: 40 uur per jaar.<br>
+<br>
+Voor de toepassing van de programmacijfers wordt uitgegaan van de bevolkingsprojectie van het jaar na het jaar waarop de programmatie betrekking heeft. Die bevolkingsprojectie wordt door de minister vastgelegd en voldoet ten minste aan al de volgende voorwaarden:<br>
+1° ze is afzonderlijk per kalenderjaar opgesteld;<br>
+2° ze is specifiek voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad berekend.
+
+### ART 2/2.
+
+De evaluatiecriteria voor de diensten voor gezinszorg en aanvullende thuiszorg, vermeld in artikel 2, worden door de minister vastgelegd. Hij houdt daarbij rekening met:<br>
+1° de verhouding tussen enerzijds de programmacijfers gezinszorg in een regionale stad als vermeld in de bijlage bij het Zorgregiodecreet, en anderzijds de effectief gepresteerde uren gezinszorg door de erkende diensten voor gezinszorg en aanvullende thuiszorg in die regionale stad, zoals geregistreerd in Vesta;<br>
+2° het werkgebied van de dienst voor gezinszorg en aanvullende thuiszorg waarvoor een aanvraag tot erkenning is ingediend, dat getoetst wordt aan de verhouding, vermeld in punt 1° ;<br>
+3° de datum waarop de ontvankelijke erkenningsaanvraag is ingediend;<br>
+4° de samenwerkingsverbanden met erkende woonzorgvoorzieningen of andere welzijnsvoorzieningen en vrijwilligersorganisaties.<br>
+<br>
+De evaluatiecriteria worden toegepast in de volgorde, vermeld in het eerste lid.
 
 ## Afdeling II [... (opgeh. BVR 22 juni 2012, art. 1, I: 26 juli 2012)]
 
@@ -587,7 +669,7 @@ De programmatie voor de diensten voor gezinszorg en aanvullende thuiszorg bestaa
 
 Met behoud van de toepassing van artikel 4 tot en met 7, 43, 50, 67, 70 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten voor gezinszorg en aanvullende thuiszorg de onderstaande specifieke voorwaarden :<br>
 A. Voorwaarden voor de hulp- en dienstverlening<br>
-1° de dienst indiceert de behoeften van de gebruiker op het vlak van gezinszorg en aanvullende thuiszorg conform artikel 43 van het woonzorgdecreet van 13 maart 2009. Daarvoor verricht het begeleidend personeel van de dienst een sociaal onderzoek in het natuurlijk thuismilieu van de gebruiker, hetzij jaarlijks als aan de gebruiker uitsluitend gezinszorg of gezinszorg en aanvullende thuiszorg worden verleend, hetzij tweejaarlijks als aan de gebruiker uitsluitend aanvullende thuiszorg wordt verleend. De behoeften van de gebruiker worden vastgesteld aan de hand van de BEL-profielschaal of de BelRAI screener. De minister bepaalt de nadere regels in verband met het sociaal onderzoek en de wijze van het gebruik van de BEL-profielschaal of de BelRAI screener. Een voorafgaand sociaal onderzoek is niet vereist als de dienst aan een gebruiker in een groep van assistentiewoningen crisiszorg of overbruggingszorg verstrekt als vermeld in bijlage XVI;<br>
+1° de dienst indiceert, behalve bij kraamzorg, de behoeften van de gebruiker op het vlak van gezinszorg en aanvullende thuiszorg conform artikel 43 van het woonzorgdecreet van 13 maart 2009. Daarvoor verricht het begeleidend personeel van de dienst een sociaal onderzoek in het natuurlijk thuismilieu van de gebruiker, hetzij jaarlijks als aan de gebruiker uitsluitend gezinszorg of gezinszorg en aanvullende thuiszorg worden verleend, hetzij tweejaarlijks als aan de gebruiker uitsluitend aanvullende thuiszorg wordt verleend. De behoeften van de gebruiker worden vastgesteld aan de hand van de BEL-profielschaal of de BelRAI screener. De minister bepaalt de nadere regels in verband met het sociaal onderzoek en de wijze van het gebruik van de BEL-profielschaal of de BelRAI screener. Een voorafgaand sociaal onderzoek is niet vereist als de dienst aan een gebruiker in een groep van assistentiewoningen crisiszorg of overbruggingszorg verstrekt als vermeld in bijlage XVI;<br>
 2° de dienst biedt op verzoek van de gebruiker of zijn vertegenwoordiger persoonsverzorging, huishoudelijke hulp en de bijbehorende psychosociale en pedagogische ondersteuning, alsook schoonmaakhulp aan, als uit het sociaal onderzoek, vermeld in punt 1°, blijkt dat de draagkracht van de gebruiker of zijn omgeving, hetzij wegens geestelijke of lichamelijke ongeschiktheid, hetzij wegens bijzondere sociale omstandigheden, onvoldoende is. In geval van acute zorg mag het sociaal onderzoek, vermeld in punt 1°, door de dienst ook na de start van de hulpverlening uitgevoerd worden tot maximaal 14 dagen erna. Acute zorg is gezinszorg die gedurende maximaal 14 dagen wordt geboden in geval van een noodsituatie die niet vooraf kan worden ingeschat en waarin onmiddellijk zorg vereist is. De dienst hoeft geen sociaal onderzoek uit te voeren als de gezinszorg niet voortgezet wordt na die 14 dagen;<br>
 2°/1 de dienst biedt gedurende maximaal drie maanden op verzoek van het gezin dat door een overlijden van een of meer kinderen niet meer voldoet aan de definitie van een meerling als vermeld in artikel 1, nog meerlingenhulp;<br>
 3° de dienst verleent prioriteit op basis van de vastgestelde behoeften, de beperkingen op het vlak van zelfzorg en de beperkingen op het vlak van de beschikbaarheid en draagkracht van de mantelzorg. De dienst bepaalt het aantal uren hulp- en dienstverlening aan de gebruiker afhankelijk van die criteria. De minister kan de nadere regels bepalen;<br>
@@ -633,7 +715,7 @@ c) hetzij een bekwaamheidsattest van polyvalent verzorgende, uitgereikt door een
 d) een bekwaamheidsattest, uitgereikt door een opleidingscentrum dat erkend is door de Franse of de Duitstalige Gemeenschap, en dat opleidingen organiseert die zowel naar inhoud als naar niveau gelijkwaardig zijn aan de opleidingen van een opleidingscentrum als vermeld in c) ;<br>
 e) een buitenlands studiebewijs, op voorwaarde dat het door het Vlaams Ministerie van Onderwijs en Vorming gelijkwaardig wordt verklaard met een Vlaams studiebewijs als vermeld in a) of b) ;<br>
 f) een conformiteitsattest, uitgereikt met toepassing van artikel 7 tot en met 11 van het besluit van de Vlaamse Regering van 27 maart 2009 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg;<br>
-g) een attest waaruit blijkt dat de persoon door de Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu geregistreerd is als zorgkundige op basis van de overgangsmaatregelen, vermeld in artikel 3, § 1 of § 2, of artikel 4 van het koninklijk besluit van 12 januari 2006 tot vaststelling van de nadere regels om geregistreerd te worden als zorgkundige;<br>
+g) een attest waaruit blijkt dat de persoon&nbsp;geregistreerd is als zorgkundige;<br>
 3° de dienst stelt per 120 gebruikers, aan wie hij gezinszorg biedt, één VTE begeleidend personeel tewerk. Per 60 extra gebruikers aan wie hij gezinszorg aanbiedt, stelt hij daarbovenop één halftijds equivalent begeleidend personeel tewerk;<br>
 4° een begeleidend personeelslid of lid van het omkaderingspersoneel moet bij de indiensttreding beschikken over een van de volgende graden of studiebewijzen :<br>
 a) de graad van bachelor in het studiegebied gezondheidszorg of het studiegebied sociaalagogisch werk;<br>
@@ -651,7 +733,8 @@ Als een personeelslid daaraan niet voldoet, maar over minstens vijf jaar ervarin
 10° er wordt minimaal ten belope van 1,3 % van het toegekende urencontingent aan vorming georganiseerd voor het verzorgend personeel;<br>
 11° de inhoud, de plaats en het tijdstip van de vormingsactiviteiten worden altijd geregistreerd en bijgehouden op de dienst;<br>
 12° voor zover de bijscholing collectief gebeurt, is er een planning. Die wordt op de dienst ter beschikking gesteld, minimaal de maand voorafgaand aan de activiteit;<br>
-13° elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe&nbsp;en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd.<br>
+13° elk verzorgend, logistiek, begeleidend of leidinggevend personeelslid, elke doelgroepwerknemer en elk lid van het omkaderingspersoneel moet beschikken over een inschrijvingsnummer bij het agentschap voor hij tewerkgesteld mag worden bij een dienst. Het agentschap kent dat nummer toe&nbsp;en levert een inschrijvingsbewijs af nadat de dienst het identificatienummer van de sociale zekerheid (INSZ-nummer) van de betrokken persoon bezorgd heeft. Er wordt per functietype een apart inschrijvingsnummer toegekend en een inschrijvingsbewijs afgeleverd;<br>
+14° de private dienst past minimaal de loon- en arbeidsvoorwaarden van het paritair comité 318.02 toe op de tewerkstelling van het personeel.<br>
 <br>
 C. Voorwaarden voor de werking<br>
 1° de hulp- en dienstverlening wordt zo verleend, en de werking wordt zo georganiseerd, dat de middelen (personeel, financiën, gebouwen en inrichting, technieken en methoden) waarover de dienst beschikt, zich verhouden tot de hulp- en dienstverlening die beantwoordt aan de behoeften van de gebruikers;<br>
@@ -697,7 +780,22 @@ Binnen de beschikbare begrotingskredieten en overeenkomstig de bepalingen van ho
 
 ### ART. 8.
 
-Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt   minstens 4 % van het totaal aantal subsidiabele uren van het voorafgaande jaar,   zonder dat de programmatie, vermeld in artikel 2, overschreden kan worden.   <BR><BR>Met behoud van de toepassing van het eerste lid, legt de Vlaamse   Regering elk jaar het totale aantal subsidiabele uren vast, waarvan maximaal   32.265 uren DOP-uren zijn. <BR><BR>De minister bepaalt jaarlijks per erkende   dienst voor gezinszorg en aanvullende thuiszorg het maximum aantal subsidiabele   uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het   toekennen van het jaarlijks extra urencontingent houdt de minister onder andere   rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften   die vastgesteld worden per regionale stad, zoals bepaald in de bijlage bij het   Zorgregiodecreet. De minister kan jaarlijks maximaal 10 % van het extra aantal   te subsidiëren uren gezinszorg toekennen aan nieuwe initiatieven.<BR><BR>Aan een   erkende dienst wordt in het eerste werkjaar van zijn erkenning een   urencontingent toegekend van 15.390 uren gezinszorg.<BR><BR>&nbsp;De minister   bepaalt de procedure voor de aanvraag en de toewijzing van de DOP-uren, vermeld   in het tweede lid, aan de erkende diensten voor gezinszorg en aanvullende   thuiszorg.<BR><BR>
+Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt minstens 4 % van het totaal aantal subsidiabele uren van het voorafgaande jaar, zonder dat de programmatie, vermeld in artikel 2, overschreden kan worden.<br>
+<br>
+Met behoud van de toepassing van het eerste lid, legt de Vlaamse Regering elk jaar het totale aantal subsidiabele uren vast, waarvan maximaal 32.265 uren DOP-uren zijn.<br>
+<br>
+De minister bepaalt jaarlijks per erkende dienst voor gezinszorg en aanvullende thuiszorg het maximale aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het toekennen van het jaarlijkse extra urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften die vastgesteld worden per regionale stad als vermeld in de bijlage bij het Zorgregiodecreet. Het procentueel aandeel van de extra te subsidiëren uren gezinszorg, dat kan worden toegekend aan nieuwe initiatieven, mag niet meer bedragen dan de procentuele ruimte in de programmatie in het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de extra te subsidiëren uren gezinszorg worden toegekend.<br>
+<br>
+De procentuele ruimte in de programmatie, vermeld in het derde lid, is het procentueel aandeel van de uren gezinszorg in het programmacijfer, vermeld in artikel 2, voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, die nog niet effectief gepresteerd zijn in hetzelfde jaar door de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br>
+<br>
+Om de effectief gepresteerde uren gezinszorg, vermeld in het vierde lid, te bepalen, worden de gegevens gebruikt die doorgestuurd werden naar Vesta. De effectief gepresteerde uren gezinszorg bevatten de uren die gepresteerd zijn in een dagverzorgingscentrum.<br>
+<br>
+De minister bepaalt jaarlijks het aantal te erkennen nieuwe initiatieven. Diensten die erkend worden ter uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2018 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels betreffende de voorafgaande vergunning, worden als een nieuw initiatief beschouwd.<br>
+<br>
+Aan een erkende dienst wordt in het eerste werkjaar van zijn erkenning een urencontingent toegekend van 15.390 uren gezinszorg.<br>
+<br>
+&nbsp;De minister bepaalt de procedure voor de aanvraag en de toewijzing van de DOP-uren, vermeld in het tweede lid, aan de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br>
+&nbsp;
 
 ### ART. 9.
 
@@ -1110,13 +1208,35 @@ In afwijking van artikel 4, A, 9°, blijft het ministerieel besluit van 26   jul
 
 De erkende diensten voor gezinszorg en aanvullende thuiszorg die uit een   regionale dienst zijn getreden en die op 1 januari 2014 nog deel uitmaakten van   die regionale dienst, ontvangen tijdens het jaar waarin ze zijn uitgetreden,   voorschotten conform artikel 20, tweede lid, en tijdens het eerste en tweede   jaar dat volgt op het jaar van de uittreding uit de regionale dienst,   voorschotten conform artikel 21, tweede lid.
 
+### ART 47.
+
+Een private dienst voor gezinszorg en aanvullende thuiszorg die op 1 oktober 2018 erkend is, wordt tot en met 31 december 2019 geacht te beantwoorden aan de voorwaarde, vermeld in artikel 4, B, 14°, ook al past hij de loon- en arbeidsvoorwaarden van het paritair comité 318.02 niet toe.
+
 ## BIJLAGE II Diensten voor logistieke hulp
 
 ## HOOFDSTUK I Definities
 
 ### ART. 1.
 
-In deze bijlage wordt verstaan onder :<BR>1° logistiek personeel :   personen, tewerkgesteld in een dienst voor logistieke hulp, die schoonmaakhulp   of karweihulp aanbieden;<BR>2° begeleidend personeel : de personeelsleden die   belast zijn met het verrichten van de sociale onderzoeken, met de begeleiding   van de gebruikers, met het hulp- en dienstverleningsproces of met het begeleiden   van het logistiek personeel;<BR>3° leidinggevend personeel : de personeelsleden   die belast zijn met de leiding en de algemene beleidsvoering; <BR>4°   doelgroepwerknemer : de persoon die schoonmaakhulp of karweihulp uitvoert in het   kader van de lokale diensteneconomie;<BR>5° lokale diensteneconomie: de lokale   diensteneconomie, vermeld in artikel 3, 4°, van het decreet van 22 november 2013   betreffende de lokale diensteneconomie;<BR>6° omkaderingspersoneel: de personen   die belast zijn met de begeleiding van de doelgroepwerknemer met toepassing van   het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het   decreet van 22 november 2013 betreffende de lokale diensteneconomie;<BR>7° VTE :   voltijds equivalent;<BR>8° VVDG : de Vereniging van de Diensten voor Gezinszorg   van de Vlaamse Gemeenschap;<BR>9° VVSG : de Vereniging van Vlaamse Steden en   Gemeenten;<BR>10° logistieke hulp : de zorg die bestaat in het aanbieden van   schoonmaakhulp of karweihulp;<BR>11° Vesta: het systeem van elektronische   gegevensuitwisseling waarvan elke dienst voor logistieke hulp moet gebruikmaken   om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de   subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan   het agentschap te bezorgen;<BR>12° meerling : minstens een drieling of twee   tweelingen van wie de leeftijd niet meer verschilt dan 18 maanden tot een van   beide tweelingen de leeftijd van 3 jaar heeft bereikt;<BR>13° meerlingenhulp :   het aanbieden van poetshulp aan gezinnen met een meerling tot het derde   levensjaar;<BR>14° werkvergadering : een overlegmoment van praktische en   organisatie-technische aard, dat meestal, maar niet noodzakelijk, rechtstreeks   in verband staat met de dienstverlening aan de gebruikers;<BR>15° wijkwerking :   het overleg van een groep personeelsleden van een dienst voor logistieke hulp,   die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk   is voor de hulp- en dienstverlening in een bepaald gebied. Dat overleg gebeurt   met het oog op het verlenen van een gebruikersgerichte, doelmatige,   doeltreffende, continue en maatschappelijk verantwoorde hulp- en   dienstverlening;<BR>16° stagiair: een leerling, student of cursist die in het   kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling   of een opleidingscentrum, arbeid verricht bij een dienst voor logistieke hulp,   in vergelijkbare omstandigheden als de personeelsleden van die dienst, om   beroepservaring op te doen.<BR><BR>
+In deze bijlage wordt verstaan onder :<br>
+1° logistiek personeel : personen, tewerkgesteld in een dienst voor logistieke hulp, die schoonmaakhulp of karweihulp aanbieden;<br>
+2° begeleidend personeel : de personeelsleden die belast zijn met het verrichten van de sociale onderzoeken, met de begeleiding van de gebruikers, met het hulp- en dienstverleningsproces of met het begeleiden van het logistiek personeel;<br>
+3° leidinggevend personeel : de personeelsleden die belast zijn met de leiding en de algemene beleidsvoering;<br>
+4° doelgroepwerknemer : de persoon die schoonmaakhulp of karweihulp uitvoert in het kader van de lokale diensteneconomie;<br>
+5° lokale diensteneconomie: de lokale diensteneconomie, vermeld in artikel 3, 4°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+6° omkaderingspersoneel: de personen die belast zijn met de begeleiding van de doelgroepwerknemer met toepassing van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+7° VTE : voltijds equivalent;<br>
+8° VVDG : de Vereniging van de Diensten voor Gezinszorg van de Vlaamse Gemeenschap;<br>
+9° VVSG : de Vereniging van Vlaamse Steden en Gemeenten;<br>
+10° logistieke hulp : de zorg die bestaat in het aanbieden van schoonmaakhulp of karweihulp;<br>
+11° Vesta: het systeem van elektronische gegevensuitwisseling waarvan elke dienst voor logistieke hulp moet gebruikmaken om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;<br>
+12° meerling : minstens een drieling of twee tweelingen van wie de leeftijd niet meer verschilt dan 18 maanden tot een van beide tweelingen de leeftijd van 3 jaar heeft bereikt;<br>
+13° meerlingenhulp : het aanbieden van poetshulp aan gezinnen met een meerling tot het derde levensjaar;<br>
+14° werkvergadering : een overlegmoment van praktische en organisatie-technische aard, dat meestal, maar niet noodzakelijk, rechtstreeks in verband staat met de dienstverlening aan de gebruikers;<br>
+15° wijkwerking : het overleg van een groep personeelsleden van een dienst voor logistieke hulp, die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is voor de hulp- en dienstverlening in een bepaald gebied. Dat overleg gebeurt met het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende, continue en maatschappelijk verantwoorde hulp- en dienstverlening;<br>
+16° stagiair: een leerling, student of cursist die in het kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst voor logistieke hulp, in vergelijkbare omstandigheden als de personeelsleden van die dienst, om beroepservaring op te doen;<br>
+17° kraamzorg: de logistieke hulp voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling.<br>
+&nbsp;
 
 ## HOOFDSTUK II Programmatie
 
@@ -1130,7 +1250,7 @@ Het maximale aantal te erkennen diensten voor logistieke hulp wordt bepaald op t
 
 Met behoud van de toepassing van artikelen 4, 8, 9, 43, 51, 67, 70 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten voor logistieke hulp de onderstaande specifieke voorwaarden :<br>
 A. Voorwaarden voor de hulp- en dienstverlening<br>
-1° de dienst indiceert conform artikel 43 van het woonzorgdecreet van 13 maart 2009 de behoeften van de gebruiker op het vlak van schoonmaakhulp en karweihulp. Daartoe verricht het begeleidend personeel van de dienst tweejaarlijks in het natuurlijke thuismilieu van de gebruiker een sociaal onderzoek. De behoeften van de gebruiker worden vastgesteld aan de hand van de BEL-profielschaal of de BelRAI screener. De minister bepaalt de nadere regels in verband met het sociaal onderzoek en de wijze van het gebruik van de BEL-profielschaal of de BelRAI screener;<br>
+1° de dienst indiceert, behalve bij kraamzorg, conform artikel 43 van het woonzorgdecreet van 13 maart 2009 de behoeften van de gebruiker op het vlak van schoonmaakhulp en karweihulp. Daartoe verricht het begeleidend personeel van de dienst tweejaarlijks in het natuurlijke thuismilieu van de gebruiker een sociaal onderzoek. De behoeften van de gebruiker worden vastgesteld aan de hand van de BEL-profielschaal of de BelRAI screener. De minister bepaalt de nadere regels in verband met het sociaal onderzoek en de wijze van het gebruik van de BEL-profielschaal of de BelRAI screener;<br>
 2° de dienst biedt op verzoek van de gebruiker of zijn vertegenwoordiger schoonmaakhulp aan, als uit het sociaal onderzoek, vermeld in punt 1°, blijkt dat de draagkracht van de gebruiker of zijn omgeving, hetzij wegens geestelijke of lichamelijke ongeschiktheid, hetzij wegens bijzondere sociale omstandigheden, onvoldoende is;<br>
 2°/1 de dienst biedt gedurende maximaal drie maanden op verzoek van het gezin dat door een overlijden van een of meer kinderen niet meer voldoet aan de definitie van een meerling als vermeld in artikel 1, nog meerlingenhulp;<br>
 3° de dienst verleent prioriteit op basis van de vastgestelde behoeften, de beperkingen op het vlak van zelfzorg, en de beperkingen op het vlak van de beschikbaarheid en draagkracht van de mantelzorg. De dienst bepaalt het aantal uren schoonmaakhulp aan de gebruiker afhankelijk van die criteria. De minister kan nadere regels bepalen;<br>
@@ -1342,7 +1462,14 @@ In afwijking van artikel 3, vierde lid, van dit besluit, moet een erkende   dien
 
 ### ART. 1.
 
-In deze bijlage wordt verstaan onder :<br />1° oppashulp : de hulp- en dienstverlening tijdens de dag of tijdens de nacht, die erin bestaat de gebruiker gezelschap te bieden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorg. Onder gezelschap bieden aan de gebruiker wordt verstaan : in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven. Onder toezicht houden op de gebruiker wordt verstaan : met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br />2° ...<br />3° ...<br />4° coördinatie : werkzaamheid die tot doel heeft de vraag naar oppashulp door te verwijzen naar het aanbod van oppashulp, en omgekeerd;<br />5° ...<br />6° vrijwilligersoppas : oppashulp, verleend door vrijwilligers.<br /><br />
+In deze bijlage wordt verstaan onder :<br>
+1° oppashulp : de hulp- en dienstverlening tijdens de dag of tijdens de nacht, die erin bestaat de gebruiker gezelschap te bieden en toezicht op hem te houden bij afwezigheid of ter ondersteuning van de mantelzorg. Onder gezelschap bieden aan de gebruiker wordt verstaan : in het bijzijn van de gebruiker vertoeven en hem vergezellen bij de activiteiten van het dagelijkse leven. Onder toezicht houden op de gebruiker wordt verstaan : met aandacht aanwezig zijn in de onmiddellijke nabijheid van de gebruiker, oplettend zijn voor de eventuele behoeften van de gebruiker en als dat nodig is, dringend hulp en bijstand verlenen of professionele zorg of mantelzorg inroepen;<br>
+2° vrijwilliger: een natuurlijke persoon die een activiteit als vermeld in artikel 3, 1°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, verricht;<br>
+3° verenigingswerker: een natuurlijke persoon die een activiteit als vermeld in artikel 2, 1°, van de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie, verricht;<br>
+4° coördinatie : werkzaamheid die tot doel heeft de vraag naar oppashulp door te verwijzen naar het aanbod van oppashulp, en omgekeerd;<br>
+5° ...<br>
+6° vrijwilligersoppas : oppashulp, verleend door vrijwilligers of verenigingswerkers.<br>
+&nbsp;
 
 ## HOOFDSTUK II Programmatie
 
@@ -1373,7 +1500,7 @@ De evaluatiecriteria voor de diensten voor oppashulp worden door de minister vas
 Met behoud van de toepassing van artikelen 4, 10, 11, 43, 50, 67 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van diensten voor oppashulp de onderstaande specifieke voorwaarden :<br>
 A. Voorwaarden voor de hulp- en dienstverlening<br>
 1° vanaf het tweede kalenderjaar dat hij voor subsidiëring in aanmerking komt, zorgt de dienst per kalenderjaar voor de coördinatie van minstens 5 000 uren vrijwilligersoppas in de regio waarvoor hij erkend is. Als de dienst echter erkend is voor de regio die bestaat uit het tweetalige gebied Brussel-Hoofdstad, zorgt hij voor de coördinatie van minstens 3 000 uren vrijwilligersoppas in die regio;<br>
-2° de dienst voldoet aan de federale regelgeving betreffende de rechten van vrijwilligers en aan de Vlaamse regelgeving betreffende het georganiseerd vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+2° de dienst voldoet aan de bepalingen van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers, de wet van 18 juli 2018 betreffende de economische relance en de versterking van de sociale cohesie en het decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 3° de dienst maakt geen selectie wat doelgroepen betreft;<br>
 4° de dienst maakt geen selectie wat de financiële draagkracht van de gebruiker betreft, tenzij dat zou inhouden dat de dienst zich prioritair richt op een toeleiding van gebruikers met een verhoogd risico op verminderde welzijnskansen;<br>
 5° de dienst vordert van de gebruiker een onkostenvergoeding voor de aangeboden vrijwilligersoppas, die maximaal 2,50 euro per uur bedraagt. Dat bedrag wordt geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij wet van 30 maart 1994. De basisindex is de index die van toepassing is op 1 januari 2010. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat volgt op de indexsprong. De onkostenvergoeding die aangerekend wordt voor de vrijwilligersoppas, is gelijk aan de effectieve duur van die vrijwilligersoppas, uitgedrukt in minuten, gedeeld door zestig, en vermenigvuldigd met de onkostenvergoeding die gevraagd wordt per uur vrijwilligersoppas;<br>
@@ -1382,15 +1509,15 @@ A. Voorwaarden voor de hulp- en dienstverlening<br>
 8° de dienst zorgt voor een passende doorverwijzing als de hulpvraag buiten zijn wettelijke opdracht valt;<br>
 9° als de dienst zelf niet in een aanbod kan voorzien, informeert hij de gebruiker over andere erkende oppasdiensten in de regio;<br>
 10° de dienst streeft naar toegankelijkheid voor zijn gebruikers, vanuit een niet-discriminerende houding;<br>
-11° alvorens vrijwilligersoppas aan te bieden, zorgt de dienst ervoor dat hij beschikt over het identificatienummer van de sociale zekerheid (INSZ-nummer) van de gebruiker en de vrijwilliger.<br>
+11° alvorens vrijwilligersoppas aan te bieden, zorgt de dienst ervoor dat hij beschikt over het identificatienummer van de sociale zekerheid (INSZ-nummer) van de gebruiker, de vrijwilliger en de verenigingswerker.<br>
 <br>
 B. Voorwaarden voor de omkadering<br>
 1° de dienst beschikt minstens over 0,5 equivalent coördinator, die beschikt over een diploma van master of bachelor;<br>
 2° de coördinator volgt, gespreid over een periode van maximaal twee jaar, minstens 20 uren bijscholing over onderwerpen die voor de dienst relevant zijn;<br>
-3° de dienst rekruteert, stimuleert, ondersteunt en vormt vrijwilligers, met respect voor hun persoonlijke levenssfeer en hun mogelijkheden;<br>
-4° de dienst zet voldoende en deskundig personeel en vrijwilligers in om zijn vooropgestelde doelstellingen te realiseren;<br>
-5° de dienst volgt het functioneren van het personeel en de vrijwilligers;<br>
-6° de dienst organiseert periodiek en op een gestructureerde wijze intern overleg met en permanente vorming voor personeel en vrijwilligers.<br>
+3° de dienst rekruteert, stimuleert, ondersteunt en vormt vrijwilligers en verenigingswerkers, met respect voor hun persoonlijke levenssfeer en hun mogelijkheden;<br>
+4° de dienst zet voldoende en deskundig personeel, vrijwilligers en verenigingswerkers in om zijn vooropgestelde doelstellingen te realiseren;<br>
+5° de dienst volgt het functioneren van het personeel, de&nbsp;vrijwilligers en de&nbsp;verenigingswerkers;<br>
+6° de dienst organiseert periodiek en op een gestructureerde wijze intern overleg met en permanente vorming voor personeel, vrijwilligers en verenigingswerkers.<br>
 <br>
 C. Voorwaarden voor de werking<br>
 1° de dienst is minstens 32 uren per week bereikbaar, met een passende spreiding over alle werkdagen;<br>
@@ -1408,7 +1535,7 @@ c) de continuïteit van de coördinatieopdracht;<br>
 10° de dienst beschikt over een duidelijke organisatiestructuur;<br>
 11° de dienst beheert zijn beschikbare middelen optimaal met het oog op de realisatie van de vooropgestelde doelstellingen;<br>
 12° de dienst garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten;<br>
-13° elke dienst moet gebruikmaken van het systeem van elektronische gegevensuitwisseling tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn gebruikers en vrijwilligers die nodig zijn voor het berekenen van de subsidies en voor het genereren van operationele en beleidsinformatie, aan het agentschap te bezorgen. Dat gebeurt volgens de richtlijnen die het agentschap ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens.<br>
+13° elke dienst moet gebruikmaken van het systeem van elektronische gegevensuitwisseling tussen het agentschap en de diensten voor oppashulp, om de gegevens over zijn gebruikers, vrijwilligers en verenigingswerkersdie nodig zijn voor het berekenen van de subsidies en voor het genereren van operationele en beleidsinformatie, aan het agentschap te bezorgen. Dat gebeurt volgens de richtlijnen die het agentschap ter beschikking heeft gesteld. De dienst is verantwoordelijk voor het veiligheidsbeleid bij het doorsturen van de gegevens.<br>
 &nbsp;
 
 ## HOOFDSTUK IV Subsidiëring
@@ -1423,7 +1550,7 @@ Binnen de beschikbare begrotingskredieten legt de minister jaarlijks het totale 
 
 ### ART. 8.
 
-Het prioriteitenschema voor de diensten voor oppashulp houdt minstens rekening met :<br />1° de datum van de erkenningsbeslissing; <br />2° de geografische spreiding van de diensten voor oppashulp over de provincies en het tweetalige gebied Brussel-Hoofdstad; <br />3° de mate waarop de dienst voor oppashulp in de periode van één jaar voor de datum waarop een ontvankelijke erkenningsaanvraag werd ingediend, al actief was als dienst voor oppashulp.<br /><br />
+...
 
 ## HOOFDSTUK V Overgangsbepalingen
 
