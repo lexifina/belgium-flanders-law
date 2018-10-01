@@ -2,16 +2,16 @@
   "codex_id": 1029117,
   "title": "Ministerieel besluit van 2018-02-23 tot vaststelling van de schema's met de voorwaarden waaraan teeltmateriaal van siergewassen moet voldoen, van de voorschriften voor het door de leverancier op te maken etiket of ander document en van de aanvullende uitvoeringsbepalingen voor de door de leverancier bij te houden lijsten van siergewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029117/VolledigDocument?datum=2018-03-24",
-  "source_sha256": "00f8da446cb7ab896c60eaf0d90e6ef912ceab67b6aac82b66a79872b93d79e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029117/VolledigDocument?datum=2018-10-01",
+  "source_sha256": "cd4c1b3f74f4b1c46aefddee3005ccdc68185ac785b870b9015ac054aa59464b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029117&param=informatie",
-  "as_of": "2018-03-24",
+  "as_of": "2018-10-01",
   "made": "2018-02-23",
   "gazette": "2018-03-14",
   "numac": 2018011258,
   "document_start": "2018-03-24",
   "document_end": null,
-  "in_force": "2018-03-24",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2018-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-10-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-10-01; future article versions excluded; article text as the API gives it"
 }
