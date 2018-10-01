@@ -14,7 +14,7 @@ In dit besluit wordt verstaan onder :<br>
 3° beroepskwalificatiedossier : het begrip vermeld in artikel 2, 4° bis van het decreet van 30 april 2009;<br>
 4° competentie : het begrip vermeld in artikel 2, 6° van het decreet van 30 april 2009;<br>
 5° decreet van 30 april 2009 : het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br>
-6° ...;<br>
+6° deelkwalificatie : het begrip, vermeld in artikel 8, tweede lid, van het decreet van 30 april 2009;<br>
 7° interprofessionele sociale partner : sociale partner vertegenwoordigd in de Raad van de SERV;<br>
 8° minister : de Vlaamse minister bevoegd voor het onderwijs en voor de coördinatie van het vormingsbeleid;<br>
 9° onderwijskwalificatie : het begrip vermeld in artikel 2, 17° van het decreet van 30 april 2009;<br>
@@ -45,7 +45,14 @@ Iedere arbeidsmarktactor kan een beroepskwalificatiedossier   indienen.
 
 ### ART. 5.
 
-Een beroepskwalificatiedossier is opgebouwd uit de volgende onderdelen   :<BR>1° de titel en definitie van de beroepskwalificatie;<BR>2° de vermelding   van de betrokken sectoren en van de indieners;<BR>3° de competenties beschreven   volgens de descriptorelementen op basis van de referentiekaders vermeld in   artikel 10, § 3 van het decreet van 30 april 2009, en de verwijzing naar de   gehanteerde referentiekaders;<BR>4° een analyse van de arbeidsmarktrelevantie en   of maatschappelijke relevantie van de beroepskwalificatie;<BR>5° de samenhang   met andere beroepskwalificatiedossiers en met erkende beroeps- en   onderwijskwalificaties;<BR>6° een omschrijving van de duurzaamheid van de   beroepskwalificatie door de behoefte aan actualisatie aan te   geven.
+Een beroepskwalificatiedossier is opgebouwd uit de volgende onderdelen :<br>
+1° de titel en definitie van de beroepskwalificatie;<br>
+2° de vermelding van de betrokken sectoren en van de indieners;<br>
+3° de competenties beschreven volgens de descriptorelementen op basis van de referentiekaders vermeld in artikel 10, § 3 van het decreet van 30 april 2009, en de verwijzing naar de gehanteerde referentiekaders;<br>
+3° /1 als dat van toepassing is, de titel van de deelkwalificatie(s) en de competenties die samen een deelkwalificatie vormen;<br>
+4° een analyse van de arbeidsmarktrelevantie en of maatschappelijke relevantie van de beroepskwalificatie, met inbegrip van de eventuele deelkwalificatie(s);<br>
+5° de samenhang met andere beroepskwalificatiedossiers en met erkende beroeps- en onderwijskwalificaties;<br>
+6° ...
 
 ### ART. 6.
 
@@ -91,7 +98,9 @@ Het agentschap voert een marginale toetsing uit van het proces en het   resultaa
 
 ### ART. 15.
 
-<P>Het agentschap bezorgt aan de minister een erkenningsadvies als vermeld in   artikel 12 van het decreet van 30 april 2009 binnen dertig kalenderdagen na de   inschaling. De Vlaamse Regering beslist of er al dan niet tot erkenning wordt   overgegaan. <BR></P>  <P>De erkende beroepskwalificatie omvat minstens de benaming en de definitie van   de beroepskwalificatie, de competenties van het gevalideerd   beroepskwalificatiedossier, de niveaubepaling en het jaartal van de erkenning.   Elke erkende beroepskwalificatie wordt bekendgemaakt in het Belgisch   Staatsblad.</P>
+<p>Het agentschap bezorgt aan de minister een erkenningsadvies als vermeld in artikel 12 van het decreet van 30 april 2009 binnen dertig kalenderdagen na de inschaling. De Vlaamse Regering beslist of er al dan niet tot erkenning wordt overgegaan.</p>
+
+<p>De erkende beroepskwalificatie omvat minstens de naam en de definitie van de beroepskwalificatie, de competenties van het gevalideerde beroepskwalificatiedossier, de eventuele onderliggende deelkwalificatie(s), de niveaubepaling van de beroepskwalificatie en het jaartal van de erkenning. Elke erkende beroepskwalificatie wordt bekendgemaakt in het Belgisch Staatsblad.</p>
 
 ## [HOOFDSTUK 2/1. Procedure voor de actualisering of schrapping van beroepskwalificaties (ing. BVR 7 juli 2017, art. 4, I: 5 augustus 2017)]
 
