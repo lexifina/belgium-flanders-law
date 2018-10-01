@@ -211,13 +211,13 @@ Ter uitvoering van artikel 81 van het decreet wordt in bijlage XIV, die bij dit 
 
 ### ART. 16.
 
-Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van de volgende studiebewijzen van de leertijd, zijn opgenomen in bijlage XV tot en met XX, die bij dit besluit zijn gevoegd :<br>
+Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van de volgende studiebewijzen van de leertijd, zijn opgenomen in bijlage XV tot en met XIX, die bij dit besluit zijn gevoegd :<br>
 1° certificaat;<br>
 2° getuigschrift leertijd;<br>
 3° getuigschrift van de tweede graad van het secundair onderwijs;<br>
 4° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br>
 5° diploma van secundair onderwijs;<br>
-6° getuigschrift over de basiskennis van het bedrijfsbeheer.
+6° ...
 
 ### ART. 16bis.
 
@@ -1603,24 +1603,30 @@ Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssec
 
 ### BIJLAGE XV
 
-Certificaat (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=37" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=187">Bijlage XV Model</a><br>
+&nbsp;
 
 ### BIJLAGE XVI
 
-Getuigschrift leertijd (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=39" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=189">Model</a><br>
+&nbsp;
 
 ### BIJLAGE XVII
 
-Getuigschrift van de tweede graad van het secundair onderwijs (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=41" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=191">Bijlage XVII Model</a><br>
+&nbsp;
 
 ### BIJLAGE XVIII
 
-Studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=43" title=" " target="_blank" class="pdf"></a> <br />
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=193">Bijlage XVIII Model</a><br>
+<br>
+&nbsp;
 
 ### BIJLAGE XIX
 
-Diploma van secundair onderwijs (derde graad) (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=45" title=" " target="_blank" class="pdf"></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/19_2.pdf#page=195">Bijlage XIX Model</a>
 
 ### BIJLAGE XX
 
-Getuigschrift over de basiskennis van het bedrijfsbeheer (leertijd)<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=47" title=" " target="_blank" class="pdf"></a>
+...<br>
+&nbsp;
