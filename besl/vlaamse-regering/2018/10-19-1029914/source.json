@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029914,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-19 tot wijziging van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, wat betreft de erkenning van de diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029914/VolledigDocument?datum=2018-10-01",
+  "source_sha256": "55da52ad0acba6046815277174eff39880b799fe2ae3dd91f9990d1e065f9483",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029914&param=informatie",
+  "as_of": "2018-10-01",
+  "made": "2018-10-19",
+  "gazette": "2018-11-22",
+  "numac": 2018014761,
+  "document_start": "2018-10-01",
+  "document_end": null,
+  "in_force": "2018-10-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
