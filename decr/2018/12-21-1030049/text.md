@@ -74,11 +74,32 @@ Aan artikel 2.7.6.0.6, § 2, van de Vlaamse Codex Fiscaliteit van 13 december 20
 
 ## Afdeling 3. Aanpassing budget lerarenplatform basisonderwijs
 
+### ART 39.
+
+In hoofdstuk IX, afdeling 3quater, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt een artikel 153duodevicies/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 153duodevicies/1. In afwijking van artikel 153 septies decies wordt het aantal beschikbare voltijdse equivalenten dat niet werd ingevuld omdat niet alle scholen deelnemen aan het lerarenplatform, verdeeld over de deelnemende samenwerkingsplatformen.<br>
+<br>
+Het volume van deze lestijden per deelnemend samenwerkingsplatform wordt berekend naar rato van het aandeel van de lestijden van het vorige schooljaar van de scholen van het betreffende samenwerkingsplatform ten opzichte van het totaal aantal lestijden van het vorige schooljaar van alle deelnemende scholen samen, waarbij onder het totale aantal lestijden wordt verstaan de som van het totale aantal:<br>
+1° lestijden volgens de schalen;<br>
+2° SES-lestijden;<br>
+3° additionele lestijden volgens de schalen gebaseerd op de leerling-leerkracht-ratio;<br>
+4° aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs;<br>
+5° aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuur-beschouwing.".
+
 ## Afdeling 4. Eenmalig werkingsbudget voor werkdrukverlaging in het basisonderwijs
 
 ## Afdeling 5. Schrappen voorwaarde dat een school voor buitengewoon secundair onderwijs opleidingsvorm 4 type 5 enkel bij een universitair ziekenhuis kan worden opgericht
 
 ## Afdeling 6. Aanpassing budget lerarenplatform secundair onderwijs
+
+### ART 46.
+
+In artikel 22/6 van dezelfde codex, ingevoegd bij het decreet van 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het getal "148.422" wordt vervangen door het getal "156.917";<br>
+<br>
+2° het getal "350" wordt vervangen door het getal "369,87".
 
 ## Afdeling 7. Cao V Hoger Onderwijs
 
