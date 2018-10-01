@@ -214,6 +214,79 @@ In artikel 196sexies, § 1, van het decreet van 15 juni 2007 betreffende het vol
 
 ## Afdeling 3. Maatregelen tot uitvoering van cao XI - Lerarenplatform en omzetting van niet-ingevulde vervangingen - Basisonderwijs
 
+### ART 25.
+
+In hoofdstuk IX van het decreet basisonderwijs van 25 februari 1997 wordt een afdeling 3quater ingevoegd, die luidt als volgt :<br>
+<br>
+"Afdeling 3quater. Lerarenplatform<br>
+<br>
+Onderafdeling 1. Toepassingsgebied en definities<br>
+<br>
+Art. 153duodecies. Deze afdeling is van toepassing op de wervingsambten van het bestuurs- en onderwijzend personeel, die worden vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 en die worden tewerkgesteld in de scholen van het basisonderwijs.<br>
+<br>
+Art. 153terdecies. Voor de toepassing van deze afdeling wordt begrepen onder :<br>
+1° reguliere vervanging :<br>
+a) een vervanging van een afwezigheid van minder dan een schooljaar die voldoet aan volgende voorwaarden :<br>
+- het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
+- het personeelslid dat afwezig is, kan worden vervangen volgens de gangbare financierings- en subsidiëringsregels;<br>
+of<br>
+b) een vervanging van een korte afwezigheid op basis van afdeling 3ter van dit hoofdstuk;<br>
+2° samenwerkingsplatform :<br>
+- een scholengemeenschap; of<br>
+- meerdere scholengemeenschappen; of<br>
+- een scholengemeenschap en één of meer scholen die niet tot een scholengemeenschap behoren; of<br>
+- meerdere scholengemeenschappen en één of meer scholen die niet tot een scholengemeenschap behoren;<br>
+3° inzetbaarheidspercentage : de verhouding tussen de totale duur van de uitgeoefende reguliere vervangingen, uitgedrukt in kalenderdagen, en de totale duur van de aanstelling, uitgedrukt in kalenderdagen, telkens vermenigvuldigd met het volume van de opdracht.<br>
+<br>
+Onderafdeling 2. Pilootproject<br>
+<br>
+Art. 153quaterdecies. Tijdens het schooljaar 2018-2019 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.<br>
+<br>
+Art. 153quinquiesdecies. Alle scholen van het gewoon en buitengewoon basisonderwijs die deel uitmaken van een samenwerkingsplatform kunnen deelnemen aan het pilootproject.<br>
+<br>
+Art. 153sexiesdecies. De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
+- de deelname aan het lerarenplatform;<br>
+- de criteria van aanstelling van de betrokken personeelsleden;<br>
+- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
+- de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.<br>
+<br>
+Onderafdeling 3. Berekening van de middelen<br>
+<br>
+Art. 153septiesdecies. Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,79.<br>
+<br>
+Onderafdeling 4. Toekenning van de middelen<br>
+<br>
+Art. 153duodevicies. Alle deelnemende scholen ontvangen lestijden voor de aanstelling van personeelsleden in het lerarenplatform. Het volume van deze lestijden per deelnemende school wordt berekend a rato van het aandeel van de lestijden van het vorige schooljaar van de betreffende school ten opzichte van het totaal aantal lestijden van het vorige schooljaar van alle deelnemende scholen samen, waarbij onder het totale aantal lestijden wordt verstaan de som van het totale aantal :<br>
+a) lestijden volgens de schalen;<br>
+b) SES-lestijden;<br>
+c) additionele lestijden volgens de schalen gebaseerd op de leerling-leerkracht -ratio;<br>
+d) aanvullende lestijden voor het voeren van een gelijkekansenbeleid in het buitengewoon basisonderwijs;<br>
+e) aanvullende lestijden godsdienst, niet-confessionele zedenleer en cultuurbeschouwing.<br>
+<br>
+Onderafdeling 5. Aanwending van de middelen<br>
+<br>
+Art. 153undevicies. De lestijden voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lestijden kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
+<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
+<br>
+De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.<br>
+<br>
+Art. 153vicies. Het personeelslid wordt voor ten minste een halftijdse opdracht aangesteld in de scholen die deel uitmaken van het samenwerkingsplatform. De halftijdse opdracht kan bestaan uit lestijden voor het lerarenplatform en andere lestijden.<br>
+<br>
+Art. 153viciessemel. Een personeelslid in het lerarenplatform wordt ingezet voor reguliere vervangingen.<br>
+<br>
+Art. 153viciesbis. Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.<br>
+<br>
+Art. 153viciester. De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
+<br>
+Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval in het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden vermeerderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.<br>
+<br>
+Onderafdeling 6. Monitoring en verderzetting van het lerarenplatform<br>
+<br>
+Art. 153viciesquater. Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel vanaf 2019-2020.<br>
+<br>
+Art. 153viciesquinquies. Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de regering te bepalen datum.".
+
 ### ART 26.
 
 In hoofdstuk IX van het decreet basisonderwijs van 25 februari 1997 wordt een afdeling 3quinquies ingevoegd, die luidt als volgt :<br>
@@ -234,6 +307,73 @@ Art. 153duodetricies. Deze afdeling treedt in werking op 1 september 2018 en hou
 
 ## Afdeling 4. Maatregelen tot uitvoering van cao XI - Lerarenplatform en omzetting van niet-ingevulde vervangingen - Secundair Onderwijs
 
+### ART 27.
+
+In deel III, titel 1, hoofdstuk 3, afdeling 2, onderafdeling 2, van de Codex Secundair Onderwijs van 17 december 2010, bekrachtigd bij het decreet van 27 mei 2011, wordt het opschrift vervangen door wat volgt :<br>
+<br>
+"Onderwijzend personeel - herverdeling en overdracht van uren".
+
+### ART 28.
+
+In deel III, titel 1, hoofdstuk 3, afdeling 2, van de Codex Secundair Onderwijs van 17 december 2010, bekrachtigd bij het decreet van 27 mei 2011, wordt een onderafdeling 2/1 ingevoegd, die luidt als volgt :<br>
+<br>
+"Onderafdeling 2/1. Onderwijzend personeel - lerarenplatform<br>
+<br>
+Art. 22/1. Deze onderafdeling is van toepassing op de wervingsambten van het bestuurs- en onderwijzend personeel, die worden vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsi-dieerd onderwijs van 27 maart 1991 en die worden tewerkgesteld in het secundair onderwijs.<br>
+<br>
+Art. 22/2. Voor de toepassing van deze onderafdeling wordt begrepen onder :<br>
+1° reguliere vervanging : een vervanging van een afwezigheid van minder dan een schooljaar die voldoet aan volgende voorwaarden :<br>
+- het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
+- het personeelslid dat afwezig is, kan worden vervangen volgens de gangbare financierings- en subsidiëringsregels;<br>
+2° samenwerkingsplatform :<br>
+- een scholengemeenschap of;<br>
+- meerdere scholengemeenschappen of;<br>
+- een scholengemeenschap en één of meer scholen die niet tot een scholengemeenschap behoren of;<br>
+- meerdere scholengemeenschappen en één of meer scholen die niet tot een scholengemeenschap behoren;<br>
+3° inzetbaarheidspercentage : de verhouding tussen de totale duur van de uitgeoefende reguliere vervangingen, uitgedrukt in kalenderdagen, en de totale duur van de aanstelling, uitgedrukt in kalenderdagen, telkens vermenigvuldigd met het volume van de opdracht.<br>
+<br>
+Art. 22/3. Tijdens het schooljaar 2018-2019 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.<br>
+<br>
+Art. 22/4. In het secundair onderwijs kunnen een aantal projectscholen die deel uitmaken van een samenwerkingsplatform deelnemen binnen het voorziene aantal voltijdse equivalenten. De selectie van de samenwerkingsplatformen gebeurt door de Vlaamse Regering op voorstel van de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners op basis van volgende criteria :<br>
+- evenredige spreiding over de netten volgens lesurenpakket;<br>
+- geografische spreiding;<br>
+- grootte van het samenwerkingsplatform;<br>
+- de inhoud van de protocollen van de onderhandelingen.<br>
+<br>
+Art. 22/5. De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
+- de deelname aan het lerarenplatform;<br>
+- de criteria van aanstelling van de betrokken personeelsleden;<br>
+- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
+- de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.<br>
+<br>
+Art. 22/6. De totale som van de uren-leraar en lesuren zoals bepaald in artikel 22/8 van alle deelnemende scholen mag niet meer bedragen dan 148.422 uren-leraar/lesuren. Het aantal beschikbare voltijdse equivalenten bedraagt 350 voor het secundair onderwijs voor het totaal van alle deelnemende scholen. De omzetting van voltijds equivalenten naar lesuren of uren-leraar gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 21,47.<br>
+<br>
+Art. 22/7. Alle deelnemende scholen ontvangen lesuren of uren-leraar voor de aanstelling van personeelsleden in het lerarenplatform. Het volume van deze lesuren of uren-leraar per deelnemende school wordt berekend a rato van het aandeel van de lesuren of uren-leraar van vorig schooljaar van de betreffende school ten opzichte van het totaal aantal lesuren of uren-leraar van vorig schooljaar van alle deelnemende scholen samen waarbij onder het totaal aantal lesuren of uren-leraar wordt verstaan de som van het totale aantal :<br>
+- uren-leraar voor de levensbeschouwelijke en de niet-levensbeschouwelijke vakken;<br>
+- uren-leraar geïntegreerd ondersteuningsaanbod;<br>
+- lesuren voor levensbeschouwing en niet-levensbeschouwing;<br>
+- lesuren geïntegreerd ondersteuningsaanbod.<br>
+<br>
+Art. 22/8. De lesuren en uren-leraar voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lesuren en uren-leraar kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
+<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het bestuurs- en onderwijzend personeel.<br>
+<br>
+De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.<br>
+<br>
+Art. 22/9. Het personeelslid wordt voor ten minste een halftijdse opdracht aangesteld in de scholen die deel uitmaken van het samenwerkingsplatform. De halftijdse opdracht kan bestaan uit lesuren en uren-leraar voor het lerarenplatform en andere lesuren en uren-leraar.<br>
+<br>
+Art. 22/10. Een personeelslid in het lerarenplatform wordt ingezet voor reguliere vervangingen.<br>
+<br>
+Art. 22/11. Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.<br>
+<br>
+Art. 22/12. De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
+<br>
+Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar vermeerderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.<br>
+<br>
+Art. 22/13. Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel vanaf 2019-2020.<br>
+<br>
+Art. 22/14. Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.".
+
 ### ART 29.
 
 In deel III, titel 1, hoofdstuk 3, afdeling 2, van de Codex Secundair Onderwijs 17 december 2010, bekrachtigd bij het decreet van 27 mei 2011, wordt een onderafdeling 2/2 ingevoegd, die luidt als volgt :<br>
@@ -253,6 +393,10 @@ Art. 22/16. De maatregel wordt jaarlijks opgevolgd en gemonitord in de gemeensch
 Art. 22/17. Deze afdeling treedt in werking op 1 september 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.".
 
 ## Afdeling 5. Maatregelen tot uitvoering van cao XI : aanpassing van de rechtsgrond voor een terbeschikkingstelling wegens ontstentenis van betrekking naar aanleiding van de vacantverklaring van bepaalde betrekkingen van personeelsleden die afwezig zijn omwille van een verlofstelsel in het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs (bekrachtigd bij het decreet van 23 december 2016)
+
+### ART 30.
+
+In artikel V.75, § 1, van het besluit van de Vlaamse Regering van 28 oktober 2016 betreffende codificatie sommige bepalingen voor het onderwijs, bekrachtigd bij het decreet van 23 december 2016, wordt aan de opsomming de zin "- een vaste benoeming van een ander personeelslid in hun betrekking die vacant is verklaard in toepassing van artikel 28, § 1, eerste lid, 4° of 5°, of artikel 100terdecies van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of van artikel 33, § 1, eerste lid, 4° en 5°, of artikel 84undevicies van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991." toegevoegd.
 
 ## Afdeling 6. Maatregelen tot uitvoering van cao XI : vereenvoudiging van de procedure betreffende vaste benoeming en vacantverklaring in het decreet rechtpositie personeelsleden gemeenschapsonderwijs van 27 maart 1991
 
