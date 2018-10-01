@@ -114,7 +114,8 @@ In de periode van 1 januari 2018 tot en met 31 december 2018 is het verboden:<br
 6° uitgerust te zijn of te vissen met vistuig TR3 dat niet permanent voorzien is van een zeeflap;<br>
 7° gericht te vissen op zeebaars met staand tuig met een maaswijdte kleiner dan 120 mm;<br>
 8° uitgerust te zijn of te vissen met boomkornetten&nbsp;van de segmenten BT1 en BT2 waarvan de staart, te weten de achterste drie meter van de korre voor de kuil, niet bestaat uit netmateriaal met een maaswijdte van minimaal 120 mm;<br>
-9° te vissen op paling met een lengte van meer dan 12 cm gedurende de periode 1 november 2018 tot en met 31 december 2018 en dit in alle ICES-gebieden.
+9° te vissen op paling met een lengte van meer dan 12 cm gedurende de periode 1 november 2018 tot en met 31 december 2018 en dit in alle ICES-gebieden.<br>
+10° gericht te vissen op rog met staand tuig.
 
 ### ART 6.
 
@@ -309,14 +310,14 @@ De drempelwaarde vermeld in artikel 8 wordt voor de kabeljauwvisserij met vistui
 <br>
 Met behoud van toepassing van paragraaf 4, derde lid, kunnen eigenaars van vissersvaartuigen met een motorvermogen van meer dan 221 kW een toewijzing van vangstmogelijkheden voor de kabeljauw uit de ICES-gebieden II, IV in functie van het motorvermogen aanvragen. Daartoe dienen ze voor 15 juli 2018 een verzoek bij de dienst in. Als er geen geldige aanvraag wordt ingediend, is artikel 25 van toepassing.<br>
 <br>
-§ 3. Van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 17 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+§ 3. Van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
 § 4. Van 1 januari 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de<br>
 kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 11 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-In afwijking van het eerste lid is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW dat uitsluitend de passieve visserij beoefent, van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 17 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
+In afwijking van het eerste lid is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW dat uitsluitend de passieve visserij beoefent, van 1 januari 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 25 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.<br>
 <br>
-Vanaf 1 juli 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 3.500 kg verhoogd met een hoeveelheid die gelijk is aan 18 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
+Vanaf 1 juli 2018 tot en met 31 oktober 2018 is het in de ICES-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden, die gelijk is aan 3.500 kg verhoogd met een hoeveelheid die gelijk is aan 23 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.
 
 ## Afdeling 7. Kabeljauw westelijke wateren - ICES-gebieden VIIb, c, VIIe-k, VIII
 
@@ -400,9 +401,13 @@ In de periode van 1 januari 2018 tot en met 31 december 2018 is het voor een vis
 <br>
 In de periode van 1 januari 2018 tot en met 31 december 2018 is het voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, die gemengde zeereizen in de ICES-gebieden VIId en IV maakt, verboden bij de scholvangst in de ICES-gebieden IV een hoeveelheid te overschrijden die gelijk is aan 1600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de ICES-gebieden IV.<br>
 <br>
-§ 2. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 2. In de periode van 1 januari 2018 tot en met 30 september 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2018 tot en met 30 september 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 65 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in de ICES-gebieden VIIf, g voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 130 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-gebieden VIII voor een vissersvaartuig verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
 
@@ -414,19 +419,25 @@ In de periode van 1 januari 2018 tot en met 31 december 2018 is het in de ICES-g
 <br>
 In de periode van 1 april 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 juli 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden.<br>
+In de periode van 1 juli 2018 tot en met 30 september&nbsp;2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de ICES-gebieden.<br>
 <br>
 § 2. In de periode van 1 januari 2018 tot en met 31 maart 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 april 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 juli 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+In de periode van 1 juli 2018 tot en met 30 september&nbsp;2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 is uitgerust met de boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
 § 3. In de periode van 1 januari 2018 tot en met 31 maart 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 In de periode van 1 april 2018 tot en met 30 juni 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
-In de periode van 1 juli 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+In de periode van 1 juli 2018 tot en met 30 september 2018 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 800 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen 2018 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende ICES-gebieden.<br>
 <br>
 § 4. In de periode van 1 februari 2018 tot en met 31 december 2018 is het in het ICES-gebied VIIa voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de kabeljauwvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 20 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
@@ -436,7 +447,9 @@ In de periode van 1 juli 2018 tot en met 31 december 2018 is het in de ICES-gebi
 <br>
 De hoeveelheden, vermeld in de paragrafen een tot en met drie, worden van 1 april 2018 tot en met 30 juni 2018 met 300 kg per vaartdag verhoogd, als het vaartuig in kwestie gedurende de gehele visreis actief was met TR 1- of BT 1-vistuig.<br>
 <br>
-De hoeveelheden vermeld in de paragrafen 1, 2 en 3 worden in de periode van 1 juli 2018 tot en met 31 december 2018 met 400 kg per vaartdag verhoogd, als het betrokken vaartuig gedurende de gehele visreis actief was met TR 1 of BT 1-vistuig.
+De hoeveelheden vermeld in de paragrafen 1, 2 en 3 worden in de periode van 1 juli 2018 tot en met 30 september &nbsp;2018 met 400 kg per vaartdag verhoogd, als het betrokken vaartuig gedurende de gehele visreis actief was met TR 1 of BT 1-vistuig.<br>
+<br>
+De hoeveelheden vermeld in de paragrafen 1, 2 en 3 worden in de periode van 1 oktober 2018 tot en met 31 december 2018 met 500 kg per vaartdag verhoogd, als het betrokken vaartuig gedurende de gehele visreis actief was met TR 1 of BT 1-vistuig.
 
 ## Afdeling 4. Schelvis
 
@@ -462,9 +475,13 @@ In afwijking van het eerste en tweede lid, worden de maximaal toegelaten vangsth
 <br>
 In de periode van 1 januari 2018 tot en met 31 december 2018 is het in ICES-gebied VIId voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-§ 3. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+§ 3. In de periode van 1 januari 2018 tot en met 30 september 2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
-In de periode van 1 januari 2018 tot en met 31 december 2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+In de periode van 1 januari 2018 tot en met 30 september&nbsp;2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 350 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
+<br>
+In de periode van 1 oktober 2018 tot en met 31 december 2018 is het in ICES-gebieden VIIa-c, e-k voor een vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de rogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
 § 4. In de periode van 1 januari 2018 tot en met 31 december 2018 is het in ICES-gebied VIIe voor een vissersvaartuig verboden bij de golfrogvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 40 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in dat ICES-gebied.<br>
 <br>
