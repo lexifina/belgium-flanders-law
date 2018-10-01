@@ -743,6 +743,14 @@ Voor intergemeentelijke samenwerkingsverbanden, die op basis van het eerste lid 
 
 &nbsp;In afwijking van artikel 95 wordt de werkingssubsidie, die op basis van artikel 44 van het Cultureel-erfgoeddecreet van 6 juli 2012 wordt toegekend aan het steunpunt voor cultureel erfgoed, verdergezet conform de bepalingen van dit voormelde decreet, tot er nieuwe regelgeving van toepassing wordt voor de werkingssubsidie voor het steunpunt voor cultureel erfgoed.
 
+### ART 96/1.
+
+Voor de behandeling van de eerste aanvraag van het steunpunt, geldt, in afwijkijking van de regels die op basis van artikel 41 bepaald worden, 1 oktober 2018 als eerste indiendatum.<br>
+<br>
+De van toepassing zijnde data en termijnen bepaald in uitvoering van artikel 41 voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt, schuiven eenmalig mee op in functie van deze eerste indiendatum. De Vlaamse Regering beslist over deze eerste aanvraag uiterlijk 2 maanden na bekrachtiging van het decreet houdende diverse bepalingen in het beleidsveld cultuur.<br>
+<br>
+Voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt dienen de noden van cultureelerfgoedorganisaties, beheerders van cultureel erfgoed en cultureelerfgoedgemeenschappen, vermeld in artikel 53/3, 7°, niet te worden bevraagd.
+
 ### ART 97.
 
 De aanvullende subsidies voor tewerkstelling die toegekend worden op basis van hoofdstuk 6 van het Cultureel-erfgoeddecreet van 6 juli 2012 worden verdergezet, conform de bepalingen van het voormelde decreet, in afwachting van de volgende regeling:<br>
