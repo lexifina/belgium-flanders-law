@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029780,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-14 tot wijziging van artikel VII 60 van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de loodstoelageregeling voor de operationele loodsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029780/VolledigDocument?datum=2018-10-01",
+  "source_sha256": "8e21c2ac0c794a4e1ea5b2c3317157c59b999370850f1ead1af1208656585b60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029780&param=informatie",
+  "as_of": "2018-10-01",
+  "made": "2018-09-14",
+  "gazette": "2018-10-04",
+  "numac": 2018014029,
+  "document_start": "2018-10-01",
+  "document_end": null,
+  "in_force": "2018-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
