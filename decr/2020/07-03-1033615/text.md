@@ -56,6 +56,10 @@ d) een welomschreven opleiding, opleidingsonderdeel of cluster van opleidingsond
 2° aan punt 69° wordt een punt j) toegevoegd, dat luidt als volgt:<br>
 "j) een individuele beslissing houdende de weigering tot inschrijving op basis van het niet naleven van een opgelegde maatregel van studievoortgangsbewaking, bedoeld in artikel II.246;".
 
+### ART 138.
+
+In artikel II.167 van dezelfde codex wordt de zinsnede "artikel II.102" vervangen door de zinsnede "artikel II.170, § 2".
+
 ### ART 139.
 
 In artikel II.170, § 2, van dezelfde codex, vervangen bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 5 april 2019, worden de volgende wijzigingen aangebracht:<br>
