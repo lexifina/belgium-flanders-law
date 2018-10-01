@@ -2866,13 +2866,59 @@ Voor de toepassing van deze afdeling wordt verstaan onder :<br />1° samenwerkin
 
 ## [Onderafdeling 2. Werking (verv. decr. 9 juli 2021, art. 49, I: 1 september 2021)]
 
+### ART 153quaterdecies.
+
+Tijdens het schooljaar 2018-2019 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
+
+### ART 153quinquiesdecies.
+
+Alle scholen van het gewoon en buitengewoon basisonderwijs die deel uitmaken van een samenwerkingsplatform kunnen deelnemen aan het pilootproject.
+
+### ART 153sexiesdecies.
+
+De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
+- de deelname aan het lerarenplatform;<br>
+- de criteria van aanstelling van de betrokken personeelsleden;<br>
+- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
+- de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.
+
 ## [Onderafdeling 3 Berekening van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
+
+### ART 153septiesdecies.
+
+Het aantal beschikbare voltijdse equivalenten bedraagt 2500 voor alle scholen van het basisonderwijs. Indien niet alle scholen deelnemen wordt dit aantal proportioneel verminderd. De omzetting van voltijds equivalenten naar lestijden gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 23,79.
 
 ## [Onderafdeling 4 Toekenning van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
 ## [Onderafdeling 5 Aanwending van de middelen (ing. decr. 6 juli 2018, art. 25, I: 1 oktober 2018)]
 
+### ART 153undevicies.
+
+De lestijden voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lestijden kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
+<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het onderwijzend personeel.<br>
+<br>
+De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.
+
+### ART 153viciesbis.
+
+Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.
+
+### ART 153viciester.
+
+De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
+<br>
+Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval in het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lestijden vermeerderd met het aantal lestijden dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.
+
 ## [Onderafdeling 6. Inwerkingtreding (verv. decr. 9 juli 2021, art. 57, I: 1 september 2021)]
+
+### ART 153viciesquater.
+
+Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel vanaf 2019-2020.
+
+### ART 153viciesquinquies.
+
+Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de regering te bepalen datum.
 
 ## [AFDELING 3QUINQUIES FLEXIBILISERING VAN DE VERVANGINGEN (verv. decr. 14 juli 2023, art. 48, I: 1 september 2023)]
 

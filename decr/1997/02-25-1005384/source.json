@@ -2,16 +2,16 @@
   "codex_id": 1005384,
   "title": "Decreet van 1997-02-25 basisonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005384/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "a26e10c1dd6b4d08dd2a505df638c738dc737ba64d40ecf04600a2b41c4c584e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005384/VolledigDocument?datum=2018-10-01",
+  "source_sha256": "a481e5efcf014752cd102be4bfb46003e33d7b7f4fe69f789397bcc9e7339886",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005384&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2018-10-01",
   "made": "1997-02-25",
   "gazette": "1997-04-17",
   "numac": 1997035456,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-09-01",
-  "article_versions": 378,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-10-01",
+  "article_versions": 387,
+  "record_form": "consolidated version as in force on 2018-10-01; future article versions excluded; article text as the API gives it"
 }
