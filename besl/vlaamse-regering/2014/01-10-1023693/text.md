@@ -20,7 +20,9 @@ Dit besluit is van toepassing op de erkenning van de   onderwijskwalificaties va
 
 ### ART. 3.
 
-Beroepskwalificatie(s) vervat in een onderwijskwalificatie zijn in   principe van hetzelfde niveau of mits motivatie één niveau lager of één niveau   hoger dan de onderwijskwalificatie zelf en kunnen hierbij geen onderwijsniveau   overschrijden. Eenzelfde beroepskwalificatie kan vervat zitten in verschillende   onderwijskwalificaties.<BR>
+Beroepskwalificatie(s) vervat in een onderwijskwalificatie zijn in principe van hetzelfde niveau of mits motivatie één niveau lager of één niveau hoger dan de onderwijskwalificatie zelf en kunnen hierbij geen onderwijsniveau overschrijden. Eenzelfde beroepskwalificatie kan vervat zitten in verschillende onderwijskwalificaties.<br>
+<br>
+Deelkwalificaties die gebruikt worden in een onderwijskwalificatie van niveau 1 tot en met 4, zijn deelkwalificaties die onderdeel uitmaken van een beroepskwalificatie van niveau 1 tot en met 4.
 
 ## Afdeling 2 Opmaak van een voorstel van onderwijskwalificatie
 
