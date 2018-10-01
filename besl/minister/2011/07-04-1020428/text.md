@@ -25,24 +25,25 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 ### BIJLAGE
 
 De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het Departement Werk en Sociale Economie zijn :<br>
+<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
 			<td>Aerts Lorette</td>
-			<td>Joosten Guy</td>
-		</tr>
-		<tr>
-			<td>Bergiers Jean-Marc</td>
 			<td>Lambrechts Ann</td>
 		</tr>
 		<tr>
-			<td>Botteldoorn Kristof</td>
+			<td>Bergiers Jean-Marc</td>
 			<td>Linskens Caroline</td>
 		</tr>
 		<tr>
-			<td>Breynaert Katleen</td>
+			<td>Botteldoorn Kristof</td>
 			<td>Marchand Thalassa</td>
+		</tr>
+		<tr>
+			<td>Breynaert Katleen</td>
+			<td>Mariën Lieven</td>
 		</tr>
 		<tr>
 			<td>Caestecker Nicky</td>
@@ -73,12 +74,8 @@ De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het
 			<td>Segers Tom</td>
 		</tr>
 		<tr>
-			<td>De Koster Liesbet</td>
-			<td>Smits Elke</td>
-		</tr>
-		<tr>
 			<td>De Wilde Hedwig</td>
-			<td>Van Den Bossche Martine</td>
+			<td>Smits Elke</td>
 		</tr>
 		<tr>
 			<td>De Wit Jurgen</td>
@@ -118,11 +115,11 @@ De sociaalrechtelijke inspecteurs van de afdeling Toezicht en Handhaving van het
 		</tr>
 		<tr>
 			<td>Herman Katrien</td>
-			<td>Willems Marc</td>
+			<td>Verhofstadt Jan</td>
 		</tr>
 		<tr>
-			<td>Inghelbrecht Lena</td>
-			<td>&nbsp;</td>
+			<td>Joosten Guy</td>
+			<td>Willems Marc</td>
 		</tr>
 	</tbody>
 </table>
