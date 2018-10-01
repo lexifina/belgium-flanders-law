@@ -330,6 +330,89 @@ De uren-leraar die worden berekend voor een erkende godsdienst, voor niet-confes
 
 ## [Onderafdeling 2/1 Onderwijzend personeel - lerarenplatform (ing. decr. 6 juli 2018, art. 28, I: 1 oktober 2018)]
 
+### ART 22/1.
+
+Deze onderafdeling is van toepassing op de wervingsambten van het bestuurs- en onderwijzend personeel, die worden vermeld in artikel 2, § 1, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 en in artikel 4, § 1, van het decreet rechtspositie personeelsleden gesubsi-dieerd onderwijs van 27 maart 1991 en die worden tewerkgesteld in het secundair onderwijs.
+
+### ART 22/2.
+
+Voor de toepassing van deze onderafdeling wordt begrepen onder :<br>
+1° reguliere vervanging : een vervanging van een afwezigheid van minder dan een schooljaar die voldoet aan volgende voorwaarden :<br>
+- het te vervangen personeelslid is aangesteld in een gefinancierde of gesubsidieerde betrekking in het onderwijs;<br>
+- het personeelslid dat afwezig is, kan worden vervangen volgens de gangbare financierings- en subsidiëringsregels;<br>
+2° samenwerkingsplatform :<br>
+- een scholengemeenschap of;<br>
+- meerdere scholengemeenschappen of;<br>
+- een scholengemeenschap en één of meer scholen die niet tot een scholengemeenschap behoren of;<br>
+- meerdere scholengemeenschappen en één of meer scholen die niet tot een scholengemeenschap behoren;<br>
+3° inzetbaarheidspercentage : de verhouding tussen de totale duur van de uitgeoefende reguliere vervangingen, uitgedrukt in kalenderdagen, en de totale duur van de aanstelling, uitgedrukt in kalenderdagen, telkens vermenigvuldigd met het volume van de opdracht.
+
+### ART 22/3.
+
+Tijdens het schooljaar 2018-2019 wordt een pilootproject `lerarenplatform' opgezet om tijdelijk aangestelde personeelsleden werkzekerheid te bieden.
+
+### ART 22/4.
+
+In het secundair onderwijs kunnen een aantal projectscholen die deel uitmaken van een samenwerkingsplatform deelnemen binnen het voorziene aantal voltijdse equivalenten. De selectie van de samenwerkingsplatformen gebeurt door de Vlaamse Regering op voorstel van de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners op basis van volgende criteria :<br>
+- evenredige spreiding over de netten volgens lesurenpakket;<br>
+- geografische spreiding;<br>
+- grootte van het samenwerkingsplatform;<br>
+- de inhoud van de protocollen van de onderhandelingen.
+
+### ART 22/5.
+
+De deelnemende scholen moeten in het bevoegde lokaal comité onderhandelen over :<br>
+- de deelname aan het lerarenplatform;<br>
+- de criteria van aanstelling van de betrokken personeelsleden;<br>
+- de criteria van inzetbaarheid van de betrokken personeelsleden in pedagogisch zinvolle taken;<br>
+- de inzetbaarheid in de verschillende scholengemeenschappen indien het samenwerkingsplatform bestaat uit meerdere scholengemeenschappen of in de scholen die niet behoren tot een scholengemeenschap.
+
+### ART 22/6.
+
+De totale som van de uren-leraar en lesuren zoals bepaald in artikel 22/8 van alle deelnemende scholen mag niet meer bedragen dan 156.917 uren-leraar/lesuren. Het aantal beschikbare voltijdse equivalenten bedraagt 369,87 voor het secundair onderwijs voor het totaal van alle deelnemende scholen. De omzetting van voltijds equivalenten naar lesuren of uren-leraar gebeurt door het aantal voltijdse equivalenten te vermenigvuldigen met 21,47.
+
+### ART 22/7.
+
+Alle deelnemende scholen ontvangen lesuren of uren-leraar voor de aanstelling van personeelsleden in het lerarenplatform. Het volume van deze lesuren of uren-leraar per deelnemende school wordt berekend a rato van het aandeel van de lesuren of uren-leraar van vorig schooljaar van de betreffende school ten opzichte van het totaal aantal lesuren of uren-leraar van vorig schooljaar van alle deelnemende scholen samen waarbij onder het totaal aantal lesuren of uren-leraar wordt verstaan de som van het totale aantal :<br>
+- uren-leraar voor de levensbeschouwelijke en de niet-levensbeschouwelijke vakken;<br>
+- uren-leraar geïntegreerd ondersteuningsaanbod;<br>
+- lesuren voor levensbeschouwing en niet-levensbeschouwing;<br>
+- lesuren geïntegreerd ondersteuningsaanbod.
+
+### ART 22/8.
+
+De lesuren en uren-leraar voor het lerarenplatform worden samengelegd op het niveau van het samenwerkingsplatform. Deze lesuren en uren-leraar kunnen niet worden overgedragen naar het volgende schooljaar of naar een ander samenwerkingsplatform.<br>
+<br>
+Het personeelslid in het lerarenplatform krijgt een aanstelling die ten vroegste aanvangt op 1 oktober en uiterlijk eindigt op het einde van het schooljaar. De aanstelling is alleen mogelijk in een wervingsambt van het bestuurs- en onderwijzend personeel.<br>
+<br>
+De decreten Rechtspositie zijn van toepassing voor wat betreft de tijdelijke aanstelling, maar de betrekking komt niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren, muteren, reaffecteren of wedertewerkstellen in deze betrekkingen.
+
+### ART 22/9.
+
+Het personeelslid wordt voor ten minste een halftijdse opdracht aangesteld in de scholen die deel uitmaken van het samenwerkingsplatform. De halftijdse opdracht kan bestaan uit lesuren en uren-leraar voor het lerarenplatform en andere lesuren en uren-leraar.
+
+### ART 22/10.
+
+Een personeelslid in het lerarenplatform wordt ingezet voor reguliere vervangingen.
+
+### ART 22/11.
+
+Als het personeelslid niet kan worden ingezet voor reguliere vervangingen, wordt het op basis van zijn bekwaamheidsbewijs ingezet in zinvolle pedagogische taken.
+
+### ART 22/12.
+
+De personeelsleden aangesteld in het lerarenplatform moeten op het niveau van het samenwerkingsplatform samen een inzetbaarheidspercentage van 85 procent bereiken.<br>
+<br>
+Als het bereikte inzetbaarheidspercentage op positieve of negatieve wijze afwijkt van dit vooropgesteld percentage, zal dit verschil - op positieve of negatieve wijze - worden verrekend op de middelen lerarenplatform die in voorkomend geval het daarop volgend schooljaar worden toegekend aan het samenwerkingsplatform. Indien het bereikte inzetbaarheidspercentage lager lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar dat wordt toegekend aan een samenwerkingsplatform verminderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken. Indien het bereikte inzetbaarheidspercentage hoger lag dan het vooropgestelde inzetbaarheidspercentage, wordt het aantal lesuren/uren-leraar vermeerderd met het aantal lesuren/uren-leraar dat overeenkomt met het aantal dat nodig was om het vooropgestelde inzetbaarheidspercentage te bereiken.
+
+### ART 22/13.
+
+Het pilootproject lerarenplatform wordt opgevolgd en gemonitord in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité met de overheid en de sociale partners, met het oog op een mogelijke verdere implementatie van de maatregel vanaf 2019-2020.
+
+### ART 22/14.
+
+&nbsp;Deze afdeling treedt in werking op 1 oktober 2018 en houdt op uitwerking te hebben op een door de Vlaamse Regering te bepalen datum.
+
 ## [Onderafdeling 2/2 Flexibilisering van de vervangingen (verv. decr. 14 juli 2023, art. 70, I: 1 september 2023)]
 
 ### ART 22/15.
