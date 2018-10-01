@@ -26,7 +26,17 @@ De technische commissie is samengesteld als volgt :<br />1° een ambtenaar met m
 
 ### ART. 6.
 
-De leden van de technische commissie en hun plaatsvervangers worden benoemd door de minister.<br /><br />
+De leden van de technische commissie en hun plaatsvervangers worden benoemd door de minister.<br>
+<br>
+De duur van het mandaat van de leden van de technische commissie en van de plaatsvervangers bedraagt vier jaar. Het mandaat is hernieuwbaar.<br>
+<br>
+Het mandaat eindigt :<br>
+1° als de duur ervan verstreken is;<br>
+2° bij ontslag, gedwongen of vrijwillig;<br>
+3° bij overlijden.<br>
+<br>
+Het lid of de plaatsvervanger van wie het mandaat eindigt vóór de normale vervaldatum, wordt vervangen door een nieuw lid of een nieuwe plaatsvervanger. In dat geval voltooit het nieuwe lid of de nieuwe plaatsvervanger het mandaat van diegene die hij vervangt.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -46,7 +56,11 @@ Een lid van de technische commissie kan geen zitting houden wanneer een dossier 
 
 ### ART. 11.
 
-De technische commissie kan, met het oog op het uitbrengen van een advies als vermeld in artikel 3, 1°, een lid belasten met een onderzoek ter plaatse.<br /><br />
+Om een advies als vermeld in artikel 3, 1°, uit te brengen, kan de voorzitter van de technische commissie op eigen initiatief of op voorstel van een lid van de technische commissie:<br>
+1° een lid belasten met een onderzoek ter plaatse;<br>
+2° de aanvrager van een afwijking of zijn afgevaardigde oproepen voor de vergadering van de technische commissie waarin zijn aanvraag van afwijking wordt onderzocht.<br>
+<br>
+De voorzitter van de technische commissie kan, op eigen initiatief of op voorstel van een lid van de technische commissie, een of meer deskundigen die geen lid zijn van de technische commissie oproepen voor een vergadering van de technische commissie voor het onderzoek van bijzondere punten.
 
 ### ART. 12.
 
@@ -54,7 +68,10 @@ De adviezen van de technische commissie worden met volstrekte meerderheid van st
 
 ### ART. 13.
 
-Het advies, vermeld in artikel 3. 1°, wordt aan de bevoegde entiteit ter kennis gebracht binnen een termijn van drie maanden na de ontvangst van de adviesvraag.<br /><br />
+Het advies, vermeld in artikel 3. 1°, wordt aan de bevoegde entiteit ter kennis gebracht binnen een termijn van&nbsp;zes maanden na de ontvangst van de adviesvraag.<br>
+<br>
+In afwijking van het eerste lid wordt voor de toepassing van artikel 11 van het besluit van de Vlaamse Regering van 9 december 2011 tot vaststelling van de specifieke brandveiligheidsnormen waaraan ouderenvoorzieningen en centra voor herstelverblijf moeten voldoen en tot bepaling van de procedure voor de uitreiking van het attest van naleving van die normen de bevoegde entiteit binnen zes maanden na de datum van de ontvankelijkheid van de aanvraag van afwijking op de hoogte gebracht van het advies, vermeld in artikel 3, 1°.<br>
+&nbsp;
 
 ### ART. 14.
 
