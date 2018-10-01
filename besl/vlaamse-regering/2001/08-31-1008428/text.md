@@ -12,7 +12,9 @@ Het schooljaar begint op 1 september en eindigt op 31 augustus van het daaropvol
 
 ### ART. 3.
 
-§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages.<br /><br />§ 2. In het deeltijds beroepssecundair onderwijs worden de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
+§ 1. In het voltijds gewoon en buitengewoon secundair onderwijs worden de lessen gespreid over 9 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten. Deze bepaling geldt niet voor stages. Met toepassing van artikels 357/3 en 357/39 uit de Codex Secundair Onderwijs van 17 december 2010, is dit artikel niet van toepassing op duale structuuronderdelen en aanloopstructuuronderdelen.<br>
+<br>
+§ 2. In het deeltijds beroepssecundair onderwijs worden de lessen gespreid over maximum 4 halve lesdagen van maandag tot en met vrijdag. De lessen vangen op zijn vroegst om 8 uur aan en eindigen op zijn vroegst om 15 uur en uiterlijk om 17 uur. Er is een middagpauze van ten minste 50 minuten.
 
 ### ART. 4.
 
