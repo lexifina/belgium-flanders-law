@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029659,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-13 betreffende de selectie van samenwerkingsplatformen voor het lerarenplatform in het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029659/VolledigDocument?datum=2018-10-01",
+  "source_sha256": "167fc552ff48355cd669b52cb019d3d7fb6c0015b3000220d690131211edc364",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029659&param=informatie",
+  "as_of": "2018-10-01",
+  "made": "2018-07-13",
+  "gazette": "2018-08-22",
+  "numac": 2018031719,
+  "document_start": "2018-10-01",
+  "document_end": null,
+  "in_force": "2018-10-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
