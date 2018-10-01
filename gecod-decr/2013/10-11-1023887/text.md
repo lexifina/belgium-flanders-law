@@ -899,7 +899,21 @@ De personen die in het bezit zijn van een buitenlandse diploma van hoger onderwi
 
 ### ART. II.77.
 
-<P style="MARGIN: 0cm 0cm 0pt">De Vlaamse Regering stelt, in functie van de internationale   herkenbaarheid, na advies van de VLUHR en de studentenkoepelverenigingen, de   lijst vast van de bachelor- en mastergraden in het academisch onderwijs waaraan   de specificatie “of Arts”, “of Science”, “of Laws”, “of Medicine”, “of   Veterinary Science”, “of Veterinary Medicine” of “of Philosophy”mag toegevoegd   worden. De adviezen worden geacht gegeven te zijn indien ze niet verstrekt   werden binnen de door de Vlaamse Regering bepaalde termijn.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">De onderstaande afkortingen zijn voor de volgende categorieën   voorbehouden:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; Ba voor diegene die gerechtigd   is tot het voeren van de graad van bachelor;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; Ma voor diegene die gerechtigd   is tot het voeren van de graad van master;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; BA voor diegene die gerechtigd   is tot het voeren van de graad van bachelor met de specificatie “of   Arts”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; MA voor diegene die gerechtigd   is tot het voeren van de graad van master met de specificatie “of   Arts”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>5°&nbsp;&nbsp; BSc voor diegene die   gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of   Science”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>6°&nbsp;&nbsp; MSc voor diegene die   gerechtigd is tot het voeren van de graad van master met de specificatie “of   Science”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>7°&nbsp;&nbsp; LL.B voor diegene die   gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of   Laws”; </P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>8°&nbsp;&nbsp; LL.M voor diegene die   gerechtigd is tot het voeren van de graad van master met de specificatie “of   Laws”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>9°&nbsp;&nbsp; MMed voor diegene die   gerechtigd is tot het voeren van de graad van master met de specificatie “of   Medicine”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>10°BVetSc voor diegene die   gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of   Veterinary Science”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>11°MVetMed voor diegene die   gerechtigd is tot het voeren van de graad van master met de specificatie “of   Veterinary Medicine”;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">12°MPhil voor diegene die   gerechtigd is tot het voeren van de graad van master met de specificatie “of   Philosophy”.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">In de lijst, vermeld in artikel II.170, § 2, legt de Vlaamse Regering, met het oog op de internationale herkenbaarheid, de bachelor- en mastergraden in het academisch onderwijs vast waaraan de specificatie "of Arts", "of Science", "of Laws", "of Medicine", "of Veterinary Science", "of Veterinary Medicine" of "of Philosophy" toegevoegd mag worden.<br>
+<br>
+De onderstaande afkortingen zijn voor de volgende categorieën voorbehouden:<br>
+1°&nbsp;&nbsp; Ba voor diegene die gerechtigd is tot het voeren van de graad van bachelor;<br>
+2°&nbsp;&nbsp; Ma voor diegene die gerechtigd is tot het voeren van de graad van master;<br>
+3°&nbsp;&nbsp; BA voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of Arts”;<br>
+4°&nbsp;&nbsp; MA voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Arts”;<br>
+5°&nbsp;&nbsp; BSc voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of Science”;<br>
+6°&nbsp;&nbsp; MSc voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Science”;<br>
+7°&nbsp;&nbsp; LL.B voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of Laws”;<br>
+8°&nbsp;&nbsp; LL.M voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Laws”;<br>
+9°&nbsp;&nbsp; MMed voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Medicine”;<br>
+10°BVetSc voor diegene die gerechtigd is tot het voeren van de graad van bachelor met de specificatie “of Veterinary Science”;<br>
+11°MVetMed voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Veterinary Medicine”;<br>
+12°MPhil voor diegene die gerechtigd is tot het voeren van de graad van master met de specificatie “of Philosophy”.</p>
 
 ## Hoofdstuk 5 Onderwijsbevoegdheid
 
@@ -1037,34 +1051,13 @@ b) in het academisch onderwijs de graden van bachelor of master kunnen worden ve
 
 ### ART. II.102.
 
-<p>§1. De Vlaamse Regering legt een lijst vast van de bachelor- en masteropleidingen die per instelling aangeboden worden in overeenstemming met de onderwijsbevoegdheid zoals vastgelegd in de artikelen II.78 tot en met II.101. Deze lijst bevat per instelling en per studiegebied, deel van een studiegebied of cluster van studiegebieden, de volgende gegevens:<br>
-1°&nbsp;&nbsp; graad en kwalificatie van de betrokken opleiding;<br>
-2°&nbsp;&nbsp; afstudeerrichtingen binnen de betrokken opleidingen;<br>
-3°&nbsp;&nbsp; vestiging waar de betrokken opleiding of afstudeerrichting aangeboden wordt.<br>
+<p>§1. ...<br>
 <br>
-De eerste lijst geeft de situatie weer van het academiejaar 2010-2011.<br>
+§2. ...<br>
 <br>
-§2. Vanaf het academiejaar 2013-2014 past de Vlaamse Regering de lijst, bedoeld in paragraaf 1, jaarlijks aan op basis van:<br>
-1°&nbsp;&nbsp; de beslissing van de Vlaamse Regering houdende erkenning van een nieuwe opleiding;<br>
-2°&nbsp;&nbsp; &nbsp;op voorstel van de algemene vergadering van de VLUHR die beslist volgens haar eigen beslissingsregels voor wat betreft:<br>
-a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wijzigingen in de benaming van de opleiding (kwalificatie);<br>
-b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wijzigingen in de aard (statuut) van de opleiding;<br>
-c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wijzigingen aan afstudeerrichtingen die binnen een bepaalde opleiding kunnen worden aangeboden;<br>
-d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verandering van vestiging binnen een hogeschool binnen het kader van de artikelen II.78 tot en met II.101;<br>
-e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het omvormen van een bachelor- of masteropleiding tot een gezamenlijk georganiseerde opleiding, waarbij de toetredende instelling de bachelor of masteropleiding op het ogenblik van omvorming niet aanbiedt, zoals vermeld in artikel II.166. In afwijking hiervan wordt bepaald dat de master in de Ergotherapeutische Wetenschap vanaf het academiejaar 2013-2014 gezamenlijk wordt aangeboden door de KU Leuven, de Universiteit Antwerpen, de Universiteit Hasselt en de Universiteit Gent;<br>
-f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het samenvoegen van twee of meerdere bacheloropleidingen of twee of meerdere masteropleidingen binnen een hogeschool of universiteit, zoals vermeld in artikel II.167.<br>
-3°&nbsp;&nbsp; een beslissing van het instellingsbestuur waarmee ze aangeeft deze opleiding niet langer in te richten;<br>
-4°&nbsp;&nbsp; een negatief accreditatiebesluit van de accreditatieorganisatie, na doorlopen van de procedure voor tijdelijke erkenning;<br>
-5°&nbsp;&nbsp; wijzigingen van benamingen of samenvoegingen van opleidingen die deel uitmaken van de uitvoering van door de Vlaamse Regering goedgekeurde rationalisatieplannen;<br>
-6°&nbsp;&nbsp; masteropleidingen die geselecteerd werden in overeenstemming met de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen een multi- of gezamenlijke diplomering wordt vooropgesteld;<br>
-7°&nbsp;&nbsp; een positief oordeel van de Commissie Hoger Onderwijs om een anderstalige bachelor- of masteropleiding te organiseren, en waar de Vlaamse Regering binnen een vervaltermijn van 45 dagen geen negatief oordeel heeft over gegeven.<br>
+§3. ...<br>
 <br>
-§3. De Vlaamse Regering kan de lijst ook aanpassen om de noodzakelijke vergelijkbaarheid, duidelijkheid en transparantie in de benamingen te realiseren, op advies van de VLUHR.<br>
-<br>
-§4. In afwijking van het krachtens dit artikel vastgelegde besluit is:<br>
-1°&nbsp;&nbsp; de vestiging van de professioneel gerichte bacheloropleiding "Bachelor in de grafische en digitale media", aangeboden door de Artesis Plantijn Hogeschool Antwerpen vanaf het academiejaar 2012-2013 Antwerpen;<br>
-2°&nbsp;&nbsp; de vestiging van de professioneel gerichte bacheloropleiding "Bachelor in het vastgoed", aangeboden door de Artesis Hogeschool Antwerpen vanaf het academiejaar 2015-2016 Antwerpen;<br>
-3°&nbsp;&nbsp; de vestiging van de professioneel gerichte bacheloropleiding "Bachelor in de elektromechanica", aangeboden door de Artesis Plantijn Hogeschool Antwerpen vanaf het academiejaar 2015-2016 Antwerpen.<br>
+§4....<br>
 <br>
 § 5. De bachelor-na-bacheloropleidingen, leidende tot de volgende bachelordiploma's, worden na het academiejaar 2021-2022 niet meer aangeboden :<br>
 - bachelor in de intensieve zorg en spoedgevallenzorg;<br>
@@ -1655,7 +1648,7 @@ Instellingen moeten door middel van de organisatie van specifieke studietrajecte
 
 ### ART. II.167.
 
-<P style="MARGIN: 0cm 0cm 0pt">Als een hogeschool of universiteit 2 of meerdere bacheloropleidingen of   2 of meerdere masteropleidingen wil samenvoegen tot respectievelijk een   bachelor- of masteropleiding, dan wordt deze opleiding niet beschouwd als nieuwe   opleiding indien de samengevoegde opleiding opgenomen is in de lijst, vermeld in   artikel II.102.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Als een hogeschool of universiteit 2 of meerdere bacheloropleidingen of 2 of meerdere masteropleidingen wil samenvoegen tot respectievelijk een bachelor- of masteropleiding, dan wordt deze opleiding niet beschouwd als nieuwe opleiding indien de samengevoegde opleiding opgenomen is in de lijst, vermeld in artikel artikel II.170, § 2.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. II.168.
 
@@ -1669,7 +1662,79 @@ Instellingen moeten door middel van de organisatie van specifieke studietrajecte
 
 ### ART. II.170.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Er wordt een   Hogeronderwijsregister aangelegd van de bachelor- en masteropleidingen die   overeenkomstig deze codificatie worden georganiseerd. <?xml:namespace prefix = o   ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Het Hogeronderwijsregister   bevat van elke opleiding de volgende algemene gegevens:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; de naam van de   opleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>2°&nbsp;&nbsp; in voorkomend geval de   afstudeerrichtingen;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>3°&nbsp;&nbsp; de onderwijstaal gebruikt in   de opleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>4°&nbsp;&nbsp; in voorkomend geval de   vermelding dat er een opleidingstraject is ten behoeve van   werkstudenten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>5°&nbsp;&nbsp; de graad waartoe de opleiding   leidt en de kwalificatie van de graad, respectievelijk aangevuld met de   specificatie van de graad;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>6°&nbsp;&nbsp; de titel die door de houder   van het diploma kan worden gevoerd;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>7°&nbsp;&nbsp; de bevoegde instelling die de   opleiding verzorgt, de vestiging(en) waar de opleiding wordt aangeboden en   respectievelijk de associatie waarvan de instelling lid   is;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>8°&nbsp;&nbsp; de studieomvang van de   opleiding uitgedrukt in studiepunten;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>9°&nbsp;&nbsp; de domeinspecifieke   leerresultaten van de opleidingen;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>10°de datum van de accreditatie,   tijdelijke erkenning of erkenning als nieuwe opleiding;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>11°het tijdstip waarop de   accreditatie, de tijdelijke erkenning of de erkenning als nieuwe opleiding   vervalt;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>12°het academiejaar of de   academiejaren waarin de opleiding wordt aangeboden;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>13°het studiegebied, een deel van   een studiegebied of studiegebieden waarbinnen een opleiding wordt   gerangschikt;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>14°de ISCED benaming van het   studiegebied waarin de opleiding gerangschikt wordt. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het Hogeronderwijsregister   omvat uitsluitend de gegevens die in paragraaf 2 zijn opgenomen. De Vlaamse   Regering kan in functie van de organisatorische transparantie de in paragraaf 2   opgesomde gegevens verder verduidelijken.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>In het Hogeronderwijsregister   wordt in een link voorzien naar de websites van de instellingen met meer   uitgebreide informatie over de gegevens inzake aansluiting en vervolgopleidingen   en de onderwijs- en examenreglementen. Het Hogeronderwijsregister voorziet in   een historiek met betrekking tot de accreditatiestatus van de opleidingen en hun   benamingen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. De instellingen voor hoger   onderwijs delen jaarlijks vóór 1 mei de in paragraaf 2, eerste lid, bedoelde   gegevens mee inzake de opleidingen die zij het daaropvolgend academiejaar   rechtmatig kunnen organiseren. De Vlaamse Regering bepaalt de nadere regelen   inzake de wijze waarop en de vorm waarin de gegevens worden meegedeeld,   verbeterd en geactualiseerd. De gegevens inzake gezamenlijke opleidingen worden   aangeleverd door de coördinerende instelling. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De Vlaamse Regering kan een   instantie aanwijzen die belast wordt met de opmaak en het actualiseren van het   Hogeronderwijsregister. Het Vlaams ministerie van Onderwijs en Vorming dient   jaarlijks vóór 1 juni de echtheid van het Hogeronderwijsregister te bevestigen.   </P>
+§ 1. Er wordt een register gepubliceerd van de opleidingen van het hoger beroepsonderwijs en van de bachelor- en masteropleidingen die conform deze codex worden aangeboden, hierna Hogeronderwijsregister te noemen.<br>
+<br>
+Het Hogeronderwijsregister bevat van elke opleiding de volgende gegevens:<br>
+1° de gegevens, vermeld in paragraaf 2;<br>
+2° in voorkomend geval, de studieomvang van de afstudeerrichting(en);<br>
+3° de datum van accreditatie of erkenning als nieuwe opleiding;<br>
+4° het tijdstip waarop de accreditatie of de erkenning als nieuwe opleiding vervalt;<br>
+5° in voorkomend geval de vermelding dat er een opleidingstraject is voor werk-studenten;<br>
+6° de vermelding dat in het desbetreffende academiejaar studenten kunnen inschrijven in de opleiding;<br>
+7° de vestiging(en) en, in voorkomend geval de buitenlandse locaties, waar opleiding en, in voorkomend geval, de afstudeerrichting(en) worden aangeboden;<br>
+8° in voorkomend geval de vermelding van de instelling die de opleiding gezamenlijk aanbiedt.<br>
+<br>
+In het Hogeronderwijsregister wordt in een link voorzien naar de websites van de instellingen met meer uitgebreide informatie over de gegevens over de aansluiting, de vervolgopleidingen en de onderwijs- en examenreglementen.<br>
+<br>
+De domeinspecifieke leerresultaten van een opleiding zijn zowel in het Hogeronderwijsregister als in de Kwalificatiedatabank te raadplegen. Er wordt een link voorzien naar de Kwalificatiedatabank.<br>
+<br>
+Het Hogeronderwijsregister voorziet in een historiek over de accreditatiestatus en de benamingen van de opleidingen. Het Hogeronderwijsregister voorziet in een Engelstalige vertaling van de benaming van de opleidingen.<br>
+<br>
+In het Hogeronderwijsregister kunnen daarnaast ook de opleidingen vermeld worden, aangeboden door de Hogere instituten en andere instellingen voor Schone Kunsten als vermeld in artikel III.119.<br>
+<br>
+De opmaak en de actualisering van het Hogeronderwijsregister wordt gedaan door de bevoegde dienst van de Vlaamse overheid.<br>
+<br>
+§ 2. De Vlaamse Regering legt een lijst vast van de opleidingen van het hoger beroepsonderwijs en van de bachelor- en masteropleidingen die conform deze codex per instelling aangeboden kunnen worden.<br>
+<br>
+Voor de opleidingen van het hoger beroepsonderwijs en de bachelor- en de masteropleidingen die door de hogescholen en universiteiten worden aangeboden in overeenstemming met de onderwijsbevoegdheid, vermeld in artikel II.78 tot en met II.100, bevat die lijst per instelling en per studiegebied, deel van een studiegebied of cluster van studiegebieden, de volgende gegevens:<br>
+1° de graad van de opleiding;<br>
+2° de kwalificatie van de graad van de opleiding;<br>
+3° de vermelding dat de opleiding een graduaatsopleiding is, een initiële bachelor-opleiding, een bachelor-na-bacheloropleiding, een initiële masteropleiding of een master-na-masteropleiding;<br>
+4° in voorkomend geval de specificatie van de graad, vermeld in artikel II.77;<br>
+5° in voorkomend geval de bijkomende titel die de houder van het diploma kan voeren, vermeld in artikel II.76;<br>
+6° in voorkomend geval de afstudeerrichtingen binnen de opleiding;<br>
+7° de vestiging(en) waar de opleiding en, in voorkomend geval, de afstudeer-richting(en) worden aangeboden;<br>
+8° de vermelding dat de opleiding Nederlandstalig is of anderstalig is, met in voorkomend geval de Nederlandstalige equivalente opleiding;<br>
+9° de studieomvang van de opleiding.<br>
+<br>
+Voor de opleidingen van het hoger beroepsonderwijs, de bachelor- en masteropleidingen die door de andere ambtshalve geregistreerde instellingen of door de geregistreerde instellingen worden aangeboden, bevat de lijst per instelling de volgende gegevens:<br>
+1° het studiegebied, een deel van een studiegebied of studiegebieden waarbinnen een opleiding wordt ondergebracht;<br>
+2° de graad van de opleiding;<br>
+3° de kwalificatie van de graad van de opleiding;<br>
+4° de vermelding dat de opleiding een graduaatsopleiding is, een initiële bachelor-opleiding, een bachelor-na-bacheloropleiding, een initiële masteropleiding of een master-na-masteropleiding;<br>
+5° de studieomvang van de opleiding, uitgedrukt in studiepunten;<br>
+6° in voorkomend geval de specificatie van de graad, vermeld in artikel II.77;<br>
+7° in voorkomend geval de bijkomende titel die de houder van het diploma kan voeren, vermeld in artikel II.76;<br>
+8° de vermelding van de onderwijstaal van de opleiding.<br>
+<br>
+Voor de bachelor- en de masteropleidingen geeft de eerste lijst de situatie weer van het academiejaar 2018-2019, voor de opleidingen van het hoger beroepsonderwijs de situatie van het academiejaar 2019-2020.<br>
+<br>
+De Vlaamse Regering past als een gevolg van de volgende beslissingen of besluiten de lijst met de opleidingen van het hoger beroepsonderwijs en de bachelor- en masteropleidingen die de universiteiten en hogescholen aanbieden, jaarlijks aan:<br>
+1° op basis van een beslissing van de Vlaamse Regering over:<br>
+a) de erkenning van een nieuwe opleiding;<br>
+b) de wijziging van de studieomvang van een opleiding;<br>
+c) de erkenning van een master in het kader van de uitbreiding van de studieomvang van een masteropleiding;<br>
+2° op voorstel van de algemene vergadering van de VLUHR, die beslist volgens haar eigen beslissingsregels, over:<br>
+a) wijzigingen in de kwalificatie van de graad van de opleiding;<br>
+b) wijzigingen aan afstudeerrichtingen die binnen een bepaalde opleiding kunnen worden aangeboden. Die wijzigingen hebben betrekking op:<br>
+1) het aanbieden van nieuwe afstudeerrichtingen;<br>
+2) wijzigingen aan de benaming van bestaande afstudeerrichtingen, met uitzondering van de opleidingen van het hoger beroepsonderwijs;<br>
+3) veranderingen van vestiging binnen de instelling en opleiding van bestaande afstudeerrichtingen;<br>
+c) de omvorming van een bachelor- of masteropleiding tot een gezamenlijk georganiseerde opleiding, waarbij de toetredende instelling de bachelor- of masteropleiding op het ogenblik van de omvorming niet aanbiedt als vermeld in artikel II.166;<br>
+d) de samenvoeging van twee of meer bacheloropleidingen of twee of meer masteropleidingen binnen een hogeschool of universiteit, vermeld in artikel II.167;<br>
+3° op basis van een beslissing van het instellingsbestuur waarmee ze aangeeft:<br>
+a) de opleiding of een afstudeerrichting niet langer te organiseren;<br>
+b) de taal van een bachelor-na-bachelor- en master-na-masteropleiding te wijzigen;<br>
+4° op basis van een negatief accreditatiebesluit van de accreditatieorganisatie;<br>
+5° in geval een masteropleiding geselecteerd wordt in overeenstemming met de bepalingen van een Europees financieringsprogramma ter bevordering van de internationale samenwerking in het hoger onderwijs en waarbinnen een multi- of gezamenlijke diplomering wordt vooropgesteld;<br>
+6° op basis van een positief oordeel van de Commissie Hoger Onderwijs om een anderstalige bachelor- of masteropleiding te organiseren, waarover de Vlaamse Regering binnen een vervaltermijn van 45 dagen geen negatief oordeel heeft gegeven;<br>
+7° op basis van een positief oordeel van de Commissie Hoger Onderwijs over de verandering van vestigingsplaats van een bachelor- of masteropleiding.<br>
+<br>
+De Vlaamse Regering kan de lijst van de bachelor- en masteropleidingen die de universiteiten en hogescholen aanbieden, ook aanpassen om de noodzakelijke vergelijkbaarheid, duidelijkheid en transparantie in de benamingen te realiseren, op advies van de VLUHR.<br>
+<br>
+Voor de bachelor- en masteropleidingen die de andere ambtshalve geregistreerde instellingen en de geregistreerde instellingen aanbieden, kan de Vlaamse Regering het Hogeronderwijsregister, vermeld in paragraaf 1, aanpassen op vraag van het instellingsbestuur. Voor de specificatie van de graad voegt het instellingsbestuur bij de voormelde vraag een advies van de VLUHR.<br>
+<br>
+De door de VLUHR en het instellingsbestuur gevraagde aanpassingen worden jaarlijks vóór 1 december van het academiejaar dat voorafgaat aan het academiejaar waarop de aanpassing van toepassing is, meegedeeld aan de bevoegde dienst van de Vlaamse overheid.
 
 ## [Hoofdstuk 9/1 Verantwoording voor de kwaliteit van opleidingen (ing. decr. 18 mei 2018, art. 43, I: 1 september 2019)]
 
