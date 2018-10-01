@@ -4,25 +4,81 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ACOD: De   Algemene Centrale der Openbare Diensten;<BR>2° COC: Christelijke   Onderwijscentrale;<BR>3° COV: Christelijk Onderwijzersverbond;<BR>4° cursist :   een persoon die een opleiding volgt of ingeschreven was in het   volwassenenonderwijs, in het deeltijds kunstonderwijs, bij Syntra, bij de VDAB   of in het Sociaal-Cultureel Volwassenenwerk of een persoon die een opleiding   gevolgd heeft in het school- of kalenderjaar dat voorafgaat aan de datum van de   oproep;<BR>5° decreet: het decreet van 2 april 2004 betreffende participatie op   school en de Vlaamse Onderwijsraad;<BR>6° departement: bevoegde dienst of   ambtenaar van het departement Onderwijs van het ministerie van de Vlaamse   Gemeenschap;<BR>7° directeur : elk personeelslid in een onderwijsinstelling dat   functioneert in het ambt van directeur, algemeen of coördinerend directeur op   het moment van zijn voordracht;<BR>8° GO! Ouders : oudervereniging van het   Gemeenschapsonderwijs;<BR>9° minister: de Vlaamse minister, bevoegd voor het   onderwijs;<BR>10° KOOGO: Koepel van Ouderverenigingen van het Officieel   Gesubsidieerd Onderwijs;<BR>11° OKO: Overleg Kleine   Onderwijsverstrekkers;<BR>12° OVSG: Onderwijssecretariaat voor Steden en   Gemeenten;<BR>13° POV: Provinciaal Onderwijs Vlaanderen;<BR>14° : SOCIUS :   Steunpunt voor Sociaal Cultureel Volwassenenwerk;<BR>15° : Syntra Vlaanderen :   het Vlaams Agentschap voor Ondernemersvorming;<BR>16° vakorganisatie: een   personeelsvereniging van het onderwijs aangesloten bij een in de   Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale   organisatie;<BR>17° VCOV: Vlaamse Confederatie van Ouders en   Ouderverenigingen;<BR>18° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling;<BR>19°   VERVER : de Verenigde Verenigingen;<BR>20° VLOR: de Vlaamse   Onderwijsraad;<BR>21° VSKO: Vlaams Secretariaat van het Katholiek   Onderwijs;<BR>22° VSOA: Vrij Syndicaat voor het Openbaar Ambt.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° ACOD: De Algemene Centrale der Openbare Diensten;<br>
+2° COC: Christelijke Onderwijscentrale;<br>
+3° COV: Christelijk Onderwijzersverbond;<br>
+4° cursist : een persoon die een opleiding volgt of ingeschreven was in het volwassenenonderwijs, in het deeltijds kunstonderwijs, bij Syntra, bij de VDAB of in het Sociaal-Cultureel Volwassenenwerk of een persoon die een opleiding gevolgd heeft in het school- of kalenderjaar dat voorafgaat aan de datum van de oproep;<br>
+5° decreet: het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br>
+6° departement: bevoegde dienst of ambtenaar van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br>
+7° directeur : elk personeelslid in een onderwijsinstelling dat functioneert in het ambt van directeur, algemeen of coördinerend directeur op het moment van zijn voordracht;<br>
+8° GO! Ouders : oudervereniging van het Gemeenschapsonderwijs;<br>
+9° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br>
+10° KOOGO: Koepel van Ouderverenigingen van het Officieel Gesubsidieerd Onderwijs;<br>
+11° OKO: Overleg Kleine Onderwijsverstrekkers;<br>
+12° OVSG: Onderwijssecretariaat voor Steden en Gemeenten;<br>
+13° POV: Provinciaal Onderwijs Vlaanderen;<br>
+14° : SOCIUS : Steunpunt voor Sociaal Cultureel Volwassenenwerk;<br>
+15° : Syntra Vlaanderen : het Vlaams Agentschap voor Ondernemersvorming;<br>
+15° bis SYNTRUM : de koepelorganisatie die optreedt als vertegenwoordiger van de centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen;<br>
+16° vakorganisatie: een personeelsvereniging van het onderwijs aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie;<br>
+17° VCOV: Vlaamse Confederatie van Ouders en Ouderverenigingen;<br>
+18° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling;<br>
+19° VERVER : de Verenigde Verenigingen;<br>
+20° VLOR: de Vlaamse Onderwijsraad;<br>
+21° ...<br>
+22° VSOA: Vrij Syndicaat voor het Openbaar Ambt.
 
 ## HOOFDSTUK II Samenstelling van de Algemene raad en de deelraden van de VLOR
 
 ### ART. 2.
 
-De Algemene raad bestaat uit&nbsp;37 leden en wordt samengesteld als   volgt:<BR>1° twee vertegenwoordigers van de instellingshoofden van het hoger   onderwijs, één namens de hogescholen en één namens de universiteiten;<BR>2° tien   vertegenwoordigers van de inrichtende machten waarvan twee aangeduid door het   Gemeenschapsonderwijs, één aangeduid door POV, twee aangeduid door OVSG, vier   aangeduid door het VSKO en één aangeduid door OKO;<BR>3° vijf directeurs, van   wie één uit het officieel basisonderwijs, één uit het vrij secundair onderwijs,   één uit het officieel deeltijds kunstonderwijs, één uit het vrij   volwassenenonderwijs en één uit de vrije centra voor leerlingenbegeleiding,   samen voorgedragen door de representatieve verenigingen van inrichtende machten   en het GO! en de representatieve vakorganisaties;<BR>4° zes vertegenwoordigers   van het personeel waarvan twee aangeduid door het ACOD, drie aangeduid door het   COC en COV en één aangeduid door het VSOA;<BR>5° vier vertegenwoordigers van de   ouders van leerlingen waarvan één aangeduid door KOOGO, één aangeduid door GO!   Ouders en twee door VCOV;<BR>6° twee vertegenwoordigers van de leerlingen uit   het secundair onderwijs;<BR>7° twee vertegenwoordigers van de studenten uit het   hoger onderwijs;<BR>8° vier vertegenwoordigers uit sociaal-economische   organisaties;<BR>9° twee vertegenwoordigers uit sociaal-culturele   organisaties;<BR>10° ...
+De Algemene raad bestaat uit&nbsp;37 leden en wordt samengesteld als volgt:<br>
+1° twee vertegenwoordigers van de instellingshoofden van het hoger onderwijs, één namens de hogescholen en één namens de universiteiten;<br>
+2° tien vertegenwoordigers van de inrichtende machten waarvan twee aangeduid door het Gemeenschapsonderwijs, één aangeduid door POV, twee aangeduid door OVSG, vier aangeduid door het&nbsp;Katholiek Onderwijs Vlaanderen en één aangeduid door OKO;<br>
+3° vijf directeurs, van wie één uit het officieel basisonderwijs, één uit het vrij secundair onderwijs, één uit het officieel deeltijds kunstonderwijs, één uit het vrij volwassenenonderwijs en één uit de vrije centra voor leerlingenbegeleiding, samen voorgedragen door de representatieve verenigingen van inrichtende machten en het GO! en de representatieve vakorganisaties;<br>
+4° zes vertegenwoordigers van het personeel waarvan twee aangeduid door het ACOD, drie aangeduid door het COC en COV en één aangeduid door het VSOA;<br>
+5° vier vertegenwoordigers van de ouders van leerlingen waarvan één aangeduid door KOOGO, één aangeduid door GO! Ouders en twee door VCOV;<br>
+6° twee vertegenwoordigers van de leerlingen uit het secundair onderwijs;<br>
+7° twee vertegenwoordigers van de studenten uit het hoger onderwijs;<br>
+8° vier vertegenwoordigers uit sociaal-economische organisaties;<br>
+9° twee vertegenwoordigers uit sociaal-culturele organisaties;<br>
+10° ...
 
 ### ART. 3.
 
-De Raad voor het basisonderwijs bestaat uit&nbsp;22 leden en wordt   samengesteld als volgt:<BR>1° acht vertegenwoordigers van de inrichtende machten   waarvan twee aangeduid door het Gemeenschapsonderwijs, twee aangeduid door OVSG,   drie aangeduid door het VSKO en één aangeduid door OKO;<BR>2° twee directeurs,   van wie één uit het officieel basisonderwijs, één uit het vrij basisonderwijs,   samen voorgedragen door de representatieve verenigingen van inrichtende machten   en het GO! en de representatieve vakorganisaties;<BR>3° zes vertegenwoordigers   van het personeel waarvan één aangeduid door het ACOD, vier aangeduid door het   COC en COV en één aangeduid door het VSOA;<BR>4° twee vertegenwoordigers van de   ouders waarvan één aangeduid door KOOGO en GO! Ouders en één aangeduid door   VCOV;<BR>5° twee vertegenwoordigers van de centra voor leerlingenbegeleiding   waarvan één uit het officieel onderwijs en één uit het vrij onderwijs;<BR>6°   twee vertegenwoordigers uit sociaal-culturele organisaties;<BR>7°   ...;
+De Raad voor het basisonderwijs bestaat uit&nbsp;22 leden en wordt samengesteld als volgt:<br>
+1° acht vertegenwoordigers van de inrichtende machten waarvan twee aangeduid door het Gemeenschapsonderwijs, twee aangeduid door OVSG, drie aangeduid door het&nbsp;Katholiek Onderwijs Vlaanderen en één aangeduid door OKO;<br>
+2° twee directeurs, van wie één uit het officieel basisonderwijs, één uit het vrij basisonderwijs, samen voorgedragen door de representatieve verenigingen van inrichtende machten en het GO! en de representatieve vakorganisaties;<br>
+3° zes vertegenwoordigers van het personeel waarvan één aangeduid door het ACOD, vier aangeduid door het COC en COV en één aangeduid door het VSOA;<br>
+4° twee vertegenwoordigers van de ouders waarvan één aangeduid door KOOGO en GO! Ouders en één aangeduid door VCOV;<br>
+5° twee vertegenwoordigers van de centra voor leerlingenbegeleiding waarvan één uit het officieel onderwijs en één uit het vrij onderwijs;<br>
+6° twee vertegenwoordigers uit sociaal-culturele organisaties;<br>
+7° ...;
 
 ### ART. 4.
 
-§ 1. De Raad voor het secundair onderwijs bestaat uit&nbsp;28 leden en   wordt samengesteld als volgt:<BR>1° acht vertegenwoordigers van de inrichtende   machten waarvan twee aangeduid door het Gemeenschapsonderwijs, één aangeduid   door POV, één aangeduid door OVSG, drie aangeduid door het VSKO en één aangeduid   door OKO;<BR>2° twee directeurs, van wie één uit het officieel secundair   onderwijs, één uit het vrij secundair onderwijs, samen voorgedragen door de   representatieve verenigingen van inrichtende machten en het GO! en de   representatieve vakorganisaties;<BR>3° zes vertegenwoordigers van het personeel   waarvan één aangeduid door het ACOD, vier aangeduid door het COC en COV en één   aangeduid door het VSOA;<BR>4° twee vertegenwoordigers van de ouders waarvan één   aangeduid door KOOGO en GO! Ouders en één aangeduid door VCOV;<BR>5° twee   vertegenwoordigers van de leerlingen;<BR>6° twee vertegenwoordigers van de   centra voor leerlingenbegeleiding waarvan één uit het officieel onderwijs en één   uit het vrij onderwijs;<BR>7° vier vertegenwoordigers uit sociaal-economische   organisaties;<BR>8° twee vertegenwoordigers uit sociaal-culturele   organisaties;<BR>9° ...
+§ 1. De Raad voor het secundair onderwijs bestaat uit&nbsp;29 leden en wordt samengesteld als volgt:<br>
+1° negen vertegenwoordigers van de inrichtende machten, waarvan twee aangewezen door het Gemeenschapsonderwijs, één door POV, één door OVSG, drie door het Katholiek Onderwijs Vlaanderen, één door OKO en één door SYNTRUM;<br>
+2° twee directeurs, van wie één uit het officieel secundair onderwijs, één uit het vrij secundair onderwijs, samen voorgedragen door de representatieve verenigingen van inrichtende machten en het GO! en de representatieve vakorganisaties;<br>
+3° zes vertegenwoordigers van het personeel waarvan één aangeduid door het ACOD, vier aangeduid door het COC en COV en één aangeduid door het VSOA;<br>
+4° twee vertegenwoordigers van de ouders waarvan één aangeduid door KOOGO en GO! Ouders en één aangeduid door VCOV;<br>
+5° twee vertegenwoordigers van de leerlingen;<br>
+6° twee vertegenwoordigers van de centra voor leerlingenbegeleiding waarvan één uit het officieel onderwijs en één uit het vrij onderwijs;<br>
+7° vier vertegenwoordigers uit sociaal-economische organisaties;<br>
+8° twee vertegenwoordigers uit sociaal-culturele organisaties;<br>
+9° ...
 
 ### ART. 5.
 
-De Raad voor levenslang en levensbreed leren bestaat uit&nbsp;31   leden:<BR>1°&nbsp;11 vertegenwoordigers van de inrichtende machten en   opleidingsverstrekkers waarvan één aangeduid door het Gemeenschapsonderwijs, één   aangewezen door OKO, één aangeduid door POV, één aangeduid door OVSG, drie   aangeduid door het VSKO, drie vertegenwoordigers van de andere   opleidingsverstrekkers aangeduid door Syntra Vlaanderen, VDAB en SOCIUS in   overleg met de voogdijminister en één vertegenwoordiger aangeduid door de   federatie voor basiseducatie;<BR>2° vier directeurs, van wie één uit het   officieel deeltijds kunstonderwijs, twee uit het volwassenenonderwijs, van wie   één uit het officieel en één uit het vrij onderwijs, samen voorgedragen door de   representatieve verenigingen van inrichtende machten en het GO! en de   representatieve vakorganisaties en één directeur van een centrum voor   basiseducatie, samen voorgedragen door de Federatie Basiseducatie en de   representatieve vakorganisaties;<BR>3° zes vertegenwoordigers van het personeel   waarvan twee aangeduid door het ACOD, drie aangeduid door het COC en COV en één   aangeduid door het VSOA;<BR>4° vier cursisten;<BR>5° vier vertegenwoordigers uit   sociaal-economische organisaties;<BR>6° twee vertegenwoordiger uit   sociaal-culturele organisaties;<BR>7° ...
+De Raad voor levenslang en levensbreed leren bestaat uit&nbsp;31 leden:<br>
+1°&nbsp;11 vertegenwoordigers van de inrichtende machten en opleidingsverstrekkers waarvan één aangeduid door het Gemeenschapsonderwijs, één aangewezen door OKO, één aangeduid door POV, één aangeduid door OVSG, drie aangeduid door het Katholiek Onderwijs Vlaanderen, drie vertegenwoordigers van de andere opleidingsverstrekkers aangeduid door Syntra Vlaanderen, VDAB en SOCIUS in overleg met de voogdijminister en één vertegenwoordiger aangeduid door de federatie voor basiseducatie;<br>
+2° vier directeurs, van wie één uit het officieel deeltijds kunstonderwijs, twee uit het volwassenenonderwijs, van wie één uit het officieel en één uit het vrij onderwijs, samen voorgedragen door de representatieve verenigingen van inrichtende machten en het GO! en de representatieve vakorganisaties en één directeur van een centrum voor basiseducatie, samen voorgedragen door de Federatie Basiseducatie en de representatieve vakorganisaties;<br>
+3° zes vertegenwoordigers van het personeel waarvan twee aangeduid door het ACOD, drie aangeduid door het COC en COV en één aangeduid door het VSOA;<br>
+4° vier cursisten;<br>
+5° vier vertegenwoordigers uit sociaal-economische organisaties;<br>
+6° twee vertegenwoordiger uit sociaal-culturele organisaties;<br>
+7° ...
 
 ### ART. 6.
 
