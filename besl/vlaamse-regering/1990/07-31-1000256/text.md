@@ -76,7 +76,7 @@ Deze salarisschalen worden, met ingang van 1 september 2018, vastgesteld bij het
 
 ### ART. 13bis.
 
-Voor de directeurs van de instellingen voor buitengewoon basisonderwijs,   bedoeld in bijlage I bij dit besluit, met uitzondering van de   medisch-pedagogische instituten georganiseerd door de Vlaamse Gemeenschap, wordt   met ingang van 1 september 2002 de salarisschaal bepaald in functie van het   aantal leerlingen. Dit aantal wordt als volgt bepaald:<BR>1° op de teldatum die   geldt voor de instelling wordt het aantal regelmatige leerlingen per type   vastgesteld;<BR>2° dit aantal wordt, naargelang het type, vermenigvuldigd met de   volgende coëfficiënt:<BR>type 1 5;<BR>type basisaanbod 5;<BR>type 2 8,9;<BR>type   3 7,1;<BR>type 4 10;<BR>type 6 8,1;<BR>type 7 8,9;<BR>type 8 5;<BR>type 9   7,1.<BR>3° ongeacht het type buitengewoon onderwijs geldt voor de leerlingen die   geïntegreerd onderwijs volgen de coëfficiënt 3. Het aantal van deze leerlingen   wordt op de eerste schooldag van oktober van het voorafgaand schooljaar   vastgesteld;<BR>4° de producten, bekomen volgens 1°, 2° en 3°, worden   samengeteld;<BR>5° het resultaat van deze som is het aantal leerlingen dat   bepalend is voor het toekennen van de salarisschaal zoals bepaald in bijlage II.
+...
 
 ## HOOFDSTUK III OVERGANGSBEPALINGEN
 
@@ -344,7 +344,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-<P>De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I die bij dit   besluit is gevoegd, treden in werking op 1 september 2015, met uitzondering van   de bekwaamheidsbewijzen en salarisschalen die voorafgegaan worden door code 1   die uitwerking hebben met ingang van 1 september 2011 en de bekwaamheidsbewijzen   en salarisschalen die voorafgegaan worden door code 2 die uitwerking hebben met   ingang van 1 september 2014.</P>
+De bekwaamheidsbewijzen en salarisschalen, vermeld in bijlage I, die bij dit besluit is gevoegd, treden in werking op 1 september 2018.
 
 ### ART. 20.
 
@@ -356,4 +356,4 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/10/07_1.pdf#page=28">Bijlage   I.</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/10/05_1.pdf#page=160">Bijlage 1</a>
