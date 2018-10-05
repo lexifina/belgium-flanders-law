@@ -22,7 +22,15 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 
 ### ART. 4.
 
-§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur in de volgende gevallen belast met een onderwijsopdracht van:<br />- 14 lestijden in scholen met minder dan 20 leerlingen;<br />- 10 lestijden in scholen met 20 tot en met 129 leerlingen;<br />- 4 lestijden in scholen met 130 tot en met 179 leerlingen.<br /><br />§ 2. In afwijking van § 1 wordt voor de scholen in het tweetalig gebied Brussel-Hoofdstad de directeur belast met een onderwijsopdracht van:<br />- 14 lestijden in scholen met minder dan 20 leerlingen;<br />- 10 lestijden in scholen met 20 tot en met 69 leerlingen;<br />- 4 lestijden in scholen met 70 tot en met 99 leerlingen.<br /><br />§ 3. Voor de toepassing van § 1 en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
+§ 1. Met toepassing van artikel 130, § 2, van het decreet wordt de directeur in de volgende gevallen belast met een onderwijsopdracht van:<br>
+1° 10 lestijden in scholen met minder dan 20 leerlingen;<br>
+2° 6 lestijden in scholen met 20 tot en met 99 leerlingen.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt voor de scholen in het Brussels Hoofdstedelijk Gewest de directeur belast met een onderwijsopdracht van:<br>
+1° 10 lestijden in scholen met minder dan 20 leerlingen;<br>
+2° 6 lestijden in scholen met 20 tot en met 69 leerlingen.<br>
+<br>
+§ 3. Voor de toepassing van § 1 en § 2 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.
 
 ## AFDELING C BIJZONDERE BEPALINGEN INZAKE VRIJWILLIGE FUSIES
 
