@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029781,
+  "title": "Ministerieel besluit van 2018-09-28 houdende de aanwijzing van de gemeenten die een audiomodule kunnen gebruiken bij de lokale en provinciale verkiezingen van 14 oktober 2018",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029781/VolledigDocument?datum=2018-10-05",
+  "source_sha256": "38ba6f53a105ec7b891b5c2a9db371746f529095dcc7a03c773ce8c84b26812e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029781&param=informatie",
+  "as_of": "2018-10-05",
+  "made": "2018-09-28",
+  "gazette": "2018-10-04",
+  "numac": 2018014144,
+  "document_start": "2018-10-05",
+  "document_end": null,
+  "in_force": "2018-10-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
