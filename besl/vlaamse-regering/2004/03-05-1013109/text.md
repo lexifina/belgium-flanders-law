@@ -93,7 +93,52 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het
 
 ### ART. 4.
 
-Met toepassing van de artikelen 125septies, § 2, 3° en 125duodecies, § 2, 3° van het decreet wordt, bij het tellen van de leerlingen voor het voldoen aan de norm van scholengemeenschap en voor de puntenenveloppe ter ondersteuning van de werking van de scholengemeenschap:<br /><br />1° op leerlingen van de scholen gelegen in een gemeente met een bevolkingsdichtheid van minder dan 200 inwoners per km2 de coëfficiënt 1,2 toegepast;<br /><br />2° op leerlingen van scholen voor buitengewoon basisonderwijs die in het kader van de loonsverhoging directeurs buitengewoon basisonderwijs worden ingedeeld in de categorieën B en C, zoals bedoeld in bijlage 1 van het besluit van de Vlaamse regering van 31 juli 1990 betreffende de bekwaamheidbewijzen, de weddenschalen en de bezoldigingsregeling in het buitengewoon basisonderwijs, de coëfficiënt 1,9 toegepast;<br /><br />3° op leerlingen van scholen voor buitengewoon basisonderwijs die in het kader van de loonsverhoging directeurs buitengewoon basisonderwijs worden ingedeeld in categorie A, zoals bedoeld in bijlage 1 van het besluit van de Vlaamse regering van 31 juli 1990 betreffende de bekwaamheidbewijzen, de weddenschalen en de bezoldigingsregeling in het buitengewoon basisonderwijs, de coëfficiënt 2,1 toegepast.
+<span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Met toepassing van artikel 125septies, § 2, 3°, en 125duodecies, § 2, 3°, van het decreet worden, bij het tellen van de leerlingen om te voldoen aan de norm van scholengemeenschap en voor de puntenenveloppe ter ondersteuning van de werking van de scholengemeenschap, de volgende coëfficiënten toegepast:<br>
+1° de coëfficiënt 1,2 wordt toegepast op leerlingen van de scholen die in een gemeente liggen met een bevolkingsdichtheid van minder dan 200 inwoners per km<sup>2</sup><sup>;</sup><br>
+2° de coëfficiënt 2,1 wordt toegepast op leerlingen van:<br>
+a) een school voor buitengewoon basisonderwijs type 5;<br>
+b) een school voor buitengewoon basisonderwijs die verbonden is aan een internaat buitengewoon Onderwijs als vermeld in deel III, hoofdstuk 4, afdeling 1, onderafdeling 2, van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016;<br>
+c) een school voor buitengewoon basisonderwijs met een semi-internaat van het gemeenschapsonderwijs als vermeld in het koninklijk besluit van 21 augustus 1978 houdende organisatie van de semi-internaten in het buitengewoon onderwijs van de Staat en tot vaststelling van de personeelsnormen;<br>
+d) een school voor buitengewoon basisonderwijs met 850 of meer gewogen leerlingen;<br>
+3° de coëfficiënt 1,9 wordt toegepast op leerlingen van scholen voor buitengewoon basisonderwijs die geen leerlingen zijn als de leerlingen, vermeld in punt 2°.<br>
+Voor de weging van de leerlingen, vermeld in het eerste lid, 2°, d), gelden de volgende coëfficiënten:</span></span><br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Coëfficiënt </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">Leerlingen</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">&nbsp; </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">&nbsp;</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">3 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">die in het schooljaar 2014-2015 in het kader van geïntegreerd onderwijs begeleid zijn door een school die minstens 10 leerlingen begeleidde Er wordt per school telkens gekeken naar het aantal GON-leerlingen op de eerste schooldag van oktober van 2014.</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">5 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">type basisaanbod, type 1 en type 8</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">7,1 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">type 3 en type 9</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">8,1 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">type 6</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">8,9 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">type 2 en type 7</span></span></td>
+		</tr>
+		<tr>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">10 </span></span></td>
+			<td><span style="font-size: 12px;"><span style="font-family: Arial,Helvetica,sans-serif;">type 4</span></span></td>
+		</tr>
+	</tbody>
+</table>
 
 ### ART. 4bis.
 
