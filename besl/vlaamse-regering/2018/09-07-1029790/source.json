@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029790,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 betreffende maatregelen ter ondersteuning van het basisonderwijs en houdende wijziging van diverse besluiten betreffende personeelsformatie, scholengemeenschappen en salarisschalen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029790/VolledigDocument?datum=2018-10-05",
+  "source_sha256": "da259140e5cb6e2bd6596681170255a1b8e5b6a3b1fe052f0e90a174d4927474",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029790&param=informatie",
+  "as_of": "2018-10-05",
+  "made": "2018-09-07",
+  "gazette": "2018-10-05",
+  "numac": 2018014013,
+  "document_start": "2018-10-05",
+  "document_end": null,
+  "in_force": "2018-10-05",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
