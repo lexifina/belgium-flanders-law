@@ -2,16 +2,16 @@
   "codex_id": 1005513,
   "title": "Besluit van de Vlaamse Regering van 1997-06-17 betreffende de personeelsformatie in het buitengewoon basisonderwijs [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005513/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "544a70e28bf8465dc2f905607eb34149902f6519120eba8d9f5a6830fb061374",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005513/VolledigDocument?datum=2018-10-05",
+  "source_sha256": "01377cb37e427cedd5c158ab5fb3d379db36e504a1c574a33a3edf4f6ca0f996",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005513&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2018-10-05",
   "made": "1997-06-17",
   "gazette": "1997-08-27",
   "numac": 1997035953,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2018-10-05",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-10-05; future article versions excluded; article text as the API gives it"
 }

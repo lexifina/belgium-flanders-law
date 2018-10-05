@@ -22,9 +22,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° cursus: 
 
 ### ART. 4.
 
-§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur belast met een onderwijsopdracht van:<br>
-- 14 lestijden in scholen met minder dan 20 leerlingen;<br>
-- 8 lestijden in scholen met 20 tot en met 39 leerlingen;<br>
+&nbsp;§ 1. Met toepassing van artikel 130, § 2, van het decreet wordt de directeur belast met een onderwijsopdracht van:<br>
+1° 10 lestijden in scholen met minder dan 20 leerlingen;<br>
+2° 4 lestijden in scholen met 20 tot en met 39 leerlingen;<br>
 <br>
 § 2. Voor de toepassing van § 1 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.<br>
 <br>
