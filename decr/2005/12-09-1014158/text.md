@@ -262,7 +262,7 @@ b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br>
 
 ### ART. 44.
 
-§ 1. De deputatie van de provincieraad bestaat uit ten hoogste zes leden. Het voorzitterschap wordt geregeld conform artikel 52.<br>
+§ 1. De deputatie van de provincieraad bestaat uit&nbsp;vier leden. Het voorzitterschap wordt geregeld conform artikel 52.<br>
 <br>
 Leden van een provincieraad, die hetzij echtgenoten, hetzij bloedverwanten tot en met de tweede graad, hetzij aanverwanten in de eerste graad zijn, kunnen niet tegelijk deel uitmaken van de deputatie van die raad.<br>
 <br>
