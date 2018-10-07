@@ -8,6 +8,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## Hoofdstuk 2. Wijziging van het Provinciedecreet van 9 december 2005
 
+### ART 2.
+
+In artikel 44, § 1, eerste lid, van het Provinciedecreet van 9 december 2005, gewijzigd bij decreet van 29 juni 2012, wordt het woord "vijf" vervangen door het woord "vier".
+
 ## Hoofdstuk 3. Wijzigingen van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011
 
 ### ART 3.

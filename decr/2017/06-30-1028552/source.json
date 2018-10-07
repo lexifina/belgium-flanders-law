@@ -2,16 +2,16 @@
   "codex_id": 1028552,
   "title": "Decreet van 2017-06-30 houdende wijziging van het Provinciedecreet van 9 december 2005, het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, het Digitaal Kiesdecreet van 25 mei 2012 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028552/VolledigDocument?datum=2017-08-24",
-  "source_sha256": "f0749d0bf799f5bf722b56a5441ad6a96c40d74003ec5a74cdb85320cdb25e82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028552/VolledigDocument?datum=2018-10-07",
+  "source_sha256": "383b9208261a8eb585dff74d18b7167f16a8dccbe583f37ef5671e290b09f907",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028552&param=informatie",
-  "as_of": "2017-08-24",
+  "as_of": "2018-10-07",
   "made": "2017-06-30",
   "gazette": "2017-08-14",
   "numac": 2017020498,
   "document_start": "2017-08-24",
   "document_end": null,
-  "in_force": "2017-08-24",
-  "article_versions": 87,
-  "record_form": "consolidated version as in force on 2017-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-10-07",
+  "article_versions": 88,
+  "record_form": "consolidated version as in force on 2018-10-07; future article versions excluded; article text as the API gives it"
 }
