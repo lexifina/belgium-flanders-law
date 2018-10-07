@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029977,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-05 tot vaststelling van de technische voorschriften voor binnenschepen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029977/VolledigDocument?datum=2018-10-07",
+  "source_sha256": "655149e57e881a1033dcf35b47cc986bfc31173bcdba35f3cdd0f1d2e40c8a9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029977&param=informatie",
+  "as_of": "2018-10-07",
+  "made": "2018-10-05",
+  "gazette": "2018-12-12",
+  "numac": 2018014966,
+  "document_start": "2018-10-07",
+  "document_end": null,
+  "in_force": "2018-10-07",
+  "article_versions": 62,
+  "record_form": "consolidated version as in force on 2018-10-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
