@@ -60,7 +60,7 @@ De aanvrager toont bovendien op het ogenblik van de aanvraag van een akkoord voo
 
 ### ART 4.
 
-§ 1. De aanvrager en de eigenaar van de grond waarop een project wordt uitgevoerd of de aanvrager en de houder van de zakelijke rechten op de grond waarop een project wordt uitgevoerd, worden geacht een ongeoorloofde verwantschapsband te hebben als de eigenaar van de grond of de houder van de zakelijke rechten op de grond een natuurlijke persoon is of een handelsvennootschap met rechtspersoonlijkheid als vermeld in artikel 2, § 2, van het Wetboek van Vennootschappen, en als de ene rechtstreeks of onrechtstreeks de bevoegdheid in rechte of in feite heeft om bij de andere een beslissende invloed uit te oefenen op de aanstelling van de meerderheid van de leden van het bestuursorgaan of op de oriëntatie van het beleid.<br>
+§ 1. De aanvrager en de eigenaar van de grond waarop een project wordt uitgevoerd of de aanvrager en de houder van de zakelijke rechten op de grond waarop een project wordt uitgevoerd, worden geacht een ongeoorloofde verwantschapsband te hebben als de eigenaar van de grond of de houder van de zakelijke rechten op de grond een natuurlijke persoon is of een vennootschap met rechtspersoonlijkheid als vermeld in het Wetboek van Vennootschappen, met uitzondering van een coöperatieve vennootschap die erkend is conform artikel 5 van de wet van 20 juli 1955 houdende instelling van een Nationale Raad voor de Coöperatie, en als de ene rechtstreeks of onrechtstreeks de bevoegdheid in rechte of in feite heeft om bij de andere een beslissende invloed uit te oefenen op de aanstelling van de meerderheid van de leden van het bestuursorgaan of op de oriëntatie van het beleid.<br>
 <br>
 § 2. De ongeoorloofde verwantschapsband is in rechte en wordt onweerlegbaar vermoed als aan een van de volgende voorwaarden is voldaan:<br>
 1° de eigenaar van de grond of de houder van de zakelijke rechten op de grond is in het bezit van de meerderheid van de stemrechten die verbonden zijn aan het totaal van de deelnamerechten van de aanvrager;<br>
@@ -148,7 +148,7 @@ j) een akkoord met het initiële programma van eisen en het engagement ten aanzi
 k) de identificatiegegevens van de coördinator die verantwoordelijk is voor het behalen van de objectief evalueerbare prestatie-eisen op het vlak van comfort en het gebruik van energie, water en materialen;<br>
 l) de verwijzing naar een document waaruit blijkt dat het masterplan uitgevoerd kan worden binnen de programmatie betreffende de ziekenhuizen en binnen de beschikbare begrotingskredieten;<br>
 2° de ondertekende notulen van de vergadering van de bevoegde organen van de aanvrager met de beslissing om het masterplan goed te keuren en in te dienen;<br>
-3° een bewijs dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, eerste lid, van dit besluit, en een bewijs dat de aanvrager financieel in staat is de investering te dragen tijdens de bouwperiode als vermeld in artikel 3, tweede lid, van dit besluit;<br>
+3° een bewijs dat de aanvrager&nbsp;over een genotsrecht als vermeld in artikel 3, eerste lid, van dit besluit beschikt of zal beschikken, en een bewijs dat de aanvrager financieel in staat is de investering te dragen tijdens de bouwperiode als vermeld in artikel 3, tweede lid, van dit besluit;<br>
 4° een evaluatie van de bestaande infrastructuur van de aanvrager, met duiding van de voorgeschiedenis, het bouwkundige concept, de eventuele erfgoedwaarde, de functionaliteit, de leefbaarheid en de energie-efficiëntie;<br>
 5° een conceptnota van het masterplan, die bestaat uit:<br>
 a) een beschrijving van de totaliteit van de geplande investeringen voor de komende tien jaar, met daarbij:<br>
@@ -283,7 +283,7 @@ De aanvrager die in het bezit is van het akkoord strategisch forfait of, in voor
 <br>
 De aanvraag, vermeld in het eerste lid, bevat de ondertekende notulen van de vergadering van de bevoegde organen van de aanvrager met de beslissing om een strategisch forfait aan te vragen en met de geplande datum van ingebruikname.<br>
 <br>
-Conform artikel 7, derde lid, van het besluit van 14 juli 2017 kan het strategisch forfait pas toegekend worden vanaf de datum van de ingebruikname van de infrastructuur. Nadat de aanvrager de exploitatie van de betreffende infrastructuur heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds.
+Conform artikel 7, derde lid, van het besluit van 14 juli 2017 kan het strategisch forfait pas toegekend worden vanaf de datum van de ingebruikname van de infrastructuur. Nadat de aanvrager de exploitatie van de betreffende infrastructuur heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds. Hij bezorgt daarbij aan het Fonds ook het stuk waaruit blijkt dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, eerste lid, van dit besluit. Als volgens het gemeen recht een authentieke akte vereist is, betreft het een authentieke akte, anders betreft het een geregistreerde onderhandse akte.
 
 ### ART 16.
 
@@ -326,7 +326,7 @@ a) de laatst goedgekeurde jaarrekening van de eigenaar van de grond of de houder
 b) de laatst goedgekeurde jaarrekening van de bestuurders met rechtspersoonlijkheid in de raad van bestuur van de aanvrager, als die niet neergelegd hoeft te worden bij de Nationale Bank van België;<br>
 c) de laatst goedgekeurde jaarrekening van de bestuurders met rechtspersoonlijkheid in de raad van bestuur van de eigenaar van de grond of van de houder van de zakelijke rechten op de grond, als die niet neergelegd hoeft te worden bij de Nationale Bank van België;<br>
 d) een verklaring waarvan het origineel ondertekend is door de voltallige raad van bestuur van de eigenaar van de grond of van de houder van de zakelijke rechten op de grond enerzijds, en de aanvrager anderzijds, dat er geen ongeoorloofde verwantschapsband bestaat tussen de eigenaar van de grond of de houder van de zakelijke rechten op de grond en de aanvrager als vermeld in artikel 3, eerste lid, en artikel 4 van dit besluit;<br>
-9° de authentieke akte waaruit blijkt dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, eerste lid, van dit besluit;<br>
+9° ...;<br>
 10° het bewijs dat rekening is gehouden met het advies, vermeld in artikel 6 van dit besluit.<br>
 <br>
 De aanvrager houdt al de volgende stukken ter beschikking:<br>
