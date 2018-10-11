@@ -11,7 +11,8 @@ Het hoofd van het departement Welzijn, Volksgezondheid en Gezin is belast met de
 
 ### ART. 2.
 
-Bij de opdrachten, vermeld in artikel 1, heeft het hoofd van het departement Welzijn, Volksgezondheid en Gezin delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid.<br /><br />
+Bij de opdrachten, vermeld in artikel 1, heeft het hoofd van het departement Welzijn, Volksgezondheid en Gezin delegatie van beslissingsbevoegdheid voor de aangelegenheden, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -19,7 +20,8 @@ Naast de delegaties, vermeld in artikel 2, krijgt het hoofd van het   departemen
 
 ### ART. 4.
 
-Bij het gebruik van de delegaties, vermeld in artikel 2 en 3, gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, met inbegrip van de bepalingen over subdelegatie, de regeling bij vervanging en de verantwoording. In afwijking van de bepalingen over subdelegatie kan het hoofd van het departement Welzijn, Volksgezondheid en Gezin de subdelegatie, vermeld in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, verlenen aan personeelsleden van het departement Welzijn, Volksgezondheid en Gezin die onder zijn hiërarchische gezag staan.<br /><br />
+Bij het gebruik van de delegaties, vermeld in artikel 2 en 3, gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen over subdelegatie, de regeling bij vervanging en de verantwoording. In afwijking van de bepalingen over subdelegatie kan het hoofd van het departement Welzijn, Volksgezondheid en Gezin de subdelegatie, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, verlenen aan personeelsleden van het departement Welzijn, Volksgezondheid en Gezin die onder zijn hiërarchische gezag staan.<br>
+&nbsp;
 
 ### ART. 5.
 
