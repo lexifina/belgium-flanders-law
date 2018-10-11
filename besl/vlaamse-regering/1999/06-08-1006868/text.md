@@ -20,21 +20,74 @@ Dit besluit stelt de totale investeringssubsidie en de bouwtechnische normen vas
 
 ### ART. 4.
 
-§ 1. De subsidiabele oppervlakte bedraagt maximaal:<br />1° voor de woonzorgcentra : 65 m2 per woongelegenheid als alle kamers van het woonzorgcentrum waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur;<br />2° voor de lokale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br />3° voor de regionale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br />4° voor de dagverzorgingscentra: 300 m2 per dagverzorgingscentrum;<br />5° voor de centra voor kortverblijf : 65 m2 per woongelegenheid als alle kamers van het centrum voor kortverblijf waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur.<br /><br />§ 2. Bij uitbreiding komt enkel de nieuwgebouwde oppervlakte die tezamen met de oppervlakte van het behouden gedeelte van het bestaande gebouw, de maximale subsidiabele oppervlakte, vermeld onder § 1, niet overschrijdt voor subsidiëring in aanmerking.<br /><br />§ 3. Van de maximale subsidiabele oppervlakte, vermeld in § 1 en § 2, kan enkel op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding in zoverre de erkennings- en exploitatievoorwaarden dit vereisen.
+§ 1. De subsidiabele oppervlakte bedraagt maximaal:<br>
+1° voor de woonzorgcentra : 65 m2 per woongelegenheid als alle kamers van het woonzorgcentrum waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur;<br>
+2° voor de lokale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br>
+3° voor de regionale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br>
+4° voor de dagverzorgingscentra: 300 m2 per dagverzorgingscentrum;<br>
+5° voor de centra voor kortverblijf : 65 m2 per woongelegenheid als alle kamers van het centrum voor kortverblijf waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur.<br>
+<br>
+§ 2. ....<br>
+<br>
+§ 3. Van de maximale subsidiabele oppervlakte, vermeld in § 1, kan enkel op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding in zoverre de erkennings- en exploitatievoorwaarden dit vereisen.
 
 ## HOOFDSTUK IV INVESTERINGSSUBSIDIE
 
 ### ART. 5.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is vastgesteld op:<BR>1° voor de   woonzorgcentra: 550 euro per m2;<BR>2° voor de lokale dienstencentra: 500 euro   per m2;<BR>3° voor de regionale dienstencentra: 500 euro per m2;<BR>4° voor de   dagverzorgingscentra: 550 euro per m2;<BR>5° voor de centra voor kortverblijf:   550 euro per m2.<BR><BR>§ 2. ...
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is vastgesteld op:<br>
+1° voor de woonzorgcentra: 550 euro per m2;<br>
+2° voor de lokale dienstencentra: 500 euro per m2;<br>
+3° voor de regionale dienstencentra: 500 euro per m2;<br>
+4° voor de dagverzorgingscentra: 550 euro per m2;<br>
+5° voor de centra voor kortverblijf: 550 euro per m2.<br>
+<br>
+§ 2. Voor een nieuwbouw van een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, 2°, 3° of 4°, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%;<br>
+3° uitrusting en meubilering: 10%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.
 
 ### ART. 6.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is vastgesteld op:<br />1° voor de ruwbouw, de technische uitrusting en de afwerking van de woonzorgcentra: 500 euro per m2;<br />2° voor de ruwbouw, de technische uitrusting en de afwerking van de lokale dienstencentra: 450 euro per m2;<br />3° voor de ruwbouw, de technische uitrusting en de afwerking van de regionale dienstencentra: 450 euro per m2;<br />4° voor de ruwbouw, de technische uitrusting en de afwerking van de dagverzorgingscentra: 500 euro per m2;<br />5° voor de ruwbouw, de technische uitrusting en de afwerking van de centra voor kortverblijf: 500 euro per m2;<br />6° voor de uitrusting en meubilering: 60 % van de goedgekeurde raming.<br /><br />Het basisbedrag, bedoeld in het eerste lid, 6°, wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />§ 2. De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding zoals bepaald in § 1 kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw zoals bepaald in artikel 5, § 1.
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is vastgesteld op:<br>
+1° voor de ruwbouw, de technische uitrusting en de afwerking van de woonzorgcentra: 500 euro per m2;<br>
+2° voor de ruwbouw, de technische uitrusting en de afwerking van de lokale dienstencentra: 450 euro per m2;<br>
+3° voor de ruwbouw, de technische uitrusting en de afwerking van de regionale dienstencentra: 450 euro per m2;<br>
+4° voor de ruwbouw, de technische uitrusting en de afwerking van de dagverzorgingscentra: 500 euro per m2;<br>
+5° voor de ruwbouw, de technische uitrusting en de afwerking van de centra voor kortverblijf: 500 euro per m2;<br>
+6° voor de uitrusting en meubilering: 60 % van de goedgekeurde raming.<br>
+<br>
+Het basisbedrag, bedoeld in het eerste lid, 6°, wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+§ 2. De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding zoals bepaald in § 1 kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw zoals bepaald in artikel 5, § 1.<br>
+<br>
+§ 3. Voor een uitbreiding van een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreiding, vermeld in paragraaf 1, 2°, 3° of 4°, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor de uitrusting en meubilering, vermeld in het eerste lid, is vastgesteld op 60% van de goedgekeurde raming. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is. De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.<br>
+<br>
+De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in deze paragraaf, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 5, § 2.
 
 ### ART. 7.
 
-Het basisbedrag van de investeringssubsidie voor verbouwing is vastgesteld op 60 % van de goedgekeurde raming. Dit basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />Het basisbedrag van de totale investeringssubsidie voor verbouwing mag ten hoogste 75 % van het in artikel 6, § 1, 1° tot en met 5° bepaalde basisbedrag van de investeringssubsidie voor uitbreiding bedragen.
+Het basisbedrag van de investeringssubsidie voor verbouwing is vastgesteld op 60 % van de goedgekeurde raming. Dit basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+Het basisbedrag van de totale investeringssubsidie voor verbouwing mag ten hoogste 75 % van het in artikel 6, § 1, 1° tot en met 5° bepaalde basisbedrag van de investeringssubsidie voor uitbreiding bedragen.<br>
+<br>
+Voor een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum mag, in afwijking van het tweede lid, het basisbedrag van de totale investeringssubsidie voor verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de voorziening in kwestie, vermeld in artikel 6, § 1, eerste lid, 2°, 3° of 4°, en § 2, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
+<br>
+In het derde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART. 8.
 
@@ -46,7 +99,7 @@ Behalve bij een lokaal dienstencentrum, een regionaal dienstencentrum of   een d
 
 ### ART. 10.
 
-Het basisbedrag van de investeringssubsidie voor meubilering en uitrusting, die afzonderlijk en in het bijzonder moeten worden aangeschaft, bedraagt 60 % van de goedgekeurde raming. Dit basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+...
 
 ### ART. 11.
 
@@ -54,7 +107,7 @@ De bedragen zoals bepaald in artikel 5 en 6 worden jaarlijks op 1 januari aangep
 
 ### ART. 12.
 
-Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief BTW wordt vastgesteld met toepassing van artikel 5, 6, 7, 8 of 10, een subsidie voor de BTW tegen het geldende tarief en voor de algemene onkosten tegen 10 %. De totale investeringssubsidie wordt dan als volgt berekend: basisbedrag + geldende BTW op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende BTW op de algemene onkosten.
+Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief BTW wordt vastgesteld met toepassing van artikel 5, 6, 7 of&nbsp;8, een subsidie voor de BTW tegen het geldende tarief en voor de algemene onkosten tegen 10 %. De totale investeringssubsidie wordt dan als volgt berekend: basisbedrag + geldende BTW op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende BTW op de algemene onkosten.
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
