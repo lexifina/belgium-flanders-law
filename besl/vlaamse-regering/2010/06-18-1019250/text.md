@@ -36,25 +36,85 @@ De bouwfysische normen, vermeld in artikel 2 tot en met 5, gelden met behoud van
 
 ### ART. 7.
 
-In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van   de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die   in aanmerking wordt genomen voor subsidiëring.<BR><BR>De subsidiabele   oppervlakte bedraagt maximaal :<BR>1° voor een residentiële voorziening : 65 m2   per erkende capaciteitseenheid;<BR>2° voor een semiambulante voorziening : 45 m2   per erkende capaciteitseenheid;<BR>3° voor een thuisbegeleidingsdienst of een   dienst voor begeleid zelfstandig wonen: 20 m2 per voltijds equivalent van de   maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de   personeelskosten, vermeld in het besluit van de Vlaamse Regering inzake de   erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de   bijzondere jeugdbijstand;<BR>4° voor een dienst voor herstelgerichte en   constructieve afhandeling of een dienst voor crisishulp aan huis : 20 m2 per   voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand   aan personen, aanvaarde personeelsformatie.<BR>5° voor een organisatie voor   bijzondere jeugdzorg :<BR>a) 65 m² per erkende verblijfsmodule;<BR>b) 45 m² per   erkende module dagbegeleiding in groep;<BR>c) 20 m² per voltijdsequivalent van   de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan   personen, aanvaard heeft voor de modules contextbegeleiding, contextbegeleiding   in functie van autonoom wonen en ondersteunende begeleiding;<BR>6° voor een   centrum voor integrale gezinszorg:<BR>a) 65 m<SUP>2</SUP> per gebruiker die het   centrum volgens zijn erkenning kan opnemen;<BR>b) 20 m<SUP>2</SUP> per   voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd   voor de bijstand aan personen, aanvaard heeft voor de modules   contextbegeleiding;<BR>7° voor een onthaal-, oriëntatie- en observatiecentrum in   een modulair kader:<BR>a) 65 m<SUP>2</SUP> per verblijfsmodule;<BR>b) 20   m<SUP>2</SUP> per voltijdsequivalent van de personeelsformatie die de Vlaamse   minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules   diagnostiek in het kader van een problematische leefsituatie;<BR>8° voor een   vergunde dienst voor pleegzorg: 20 m<SUP>2</SUP> per voltijdsequivalent van de   door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde   personeelsformatie.<BR><BR>Bij uitbreiding van oppervlakte komt alleen de nieuw   gebouwde of de aangekochte oppervlakte die samen met de oppervlakte van het   behouden gedeelte van het bestaande gebouw de maximale subsidiabele oppervlakte,   vermeld in lid 2, niet overschrijdt, voor subsidiëring in aanmerking.<BR><BR>Van   de maximale subsidiabele oppervlakte, vermeld in lid 2 en 3, kan alleen op   gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover   de erkennings- en exploitatievoorwaarden dat vereisen.
+In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.<br>
+<br>
+De subsidiabele oppervlakte bedraagt maximaal :<br>
+1° voor een residentiële voorziening : 65 m2 per erkende capaciteitseenheid;<br>
+2° voor een semiambulante voorziening : 45 m2 per erkende capaciteitseenheid;<br>
+3° voor een thuisbegeleidingsdienst of een dienst voor begeleid zelfstandig wonen: 20 m2 per voltijds equivalent van de maximale personeelsbezetting die in aanmerking komt voor de subsidiëring van de personeelskosten, vermeld in het besluit van de Vlaamse Regering inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand;<br>
+4° voor een dienst voor herstelgerichte en constructieve afhandeling of een dienst voor crisishulp aan huis : 20 m2 per voltijds equivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
+5° voor een organisatie voor bijzondere jeugdzorg :<br>
+a) 65 m² per erkende verblijfsmodule;<br>
+b) 45 m² per erkende module dagbegeleiding in groep;<br>
+c) 20 m² per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules contextbegeleiding, contextbegeleiding in functie van autonoom wonen en ondersteunende begeleiding;<br>
+6° voor een centrum voor integrale gezinszorg:<br>
+a) 65 m<sup>2</sup> per gebruiker die het centrum volgens zijn erkenning kan opnemen;<br>
+b) 20 m<sup>2</sup> per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules contextbegeleiding;<br>
+7° voor een onthaal-, oriëntatie- en observatiecentrum in een modulair kader:<br>
+a) 65 m<sup>2</sup> per verblijfsmodule;<br>
+b) 20 m<sup>2</sup> per voltijdsequivalent van de personeelsformatie die de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaard heeft voor de modules diagnostiek in het kader van een problematische leefsituatie;<br>
+8° voor een vergunde dienst voor pleegzorg: 20 m<sup>2</sup> per voltijdsequivalent van de door de Vlaamse minister, bevoegd voor de bijstand aan personen, aanvaarde personeelsformatie.<br>
+<br>
+Van de maximale subsidiabele oppervlakte, vermeld in lid 2, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 4. Investeringssubsidie
 
 ### ART. 8.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van   de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld   op 550 euro per m2.<BR><BR>§ 2. ...
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 550 euro per m2.<br>
+<br>
+§ 2. Voor een nieuwbouw kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%;<br>
+3° uitrusting en meubilering: 10%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.
 
 ### ART. 9.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor   de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde   diensten voor pleegzorg vastgesteld op 500 euro per m2.<BR><BR>§ 2. Het   basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering   bij uitbreiding is voor de sector van de voorzieningen van de bijzondere   jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de   goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis   van de eindafrekening.<BR><BR>De te veel ontvangen investeringssubsidie moet   onmiddellijk worden terugbetaald.<BR><BR>§ 3. De totale som van het basisbedrag   van de investeringssubsidie voor uitbreiding, vermeld in paragrafen 1 en 2, kan   niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw,   vermeld in artikel 8, § 1.
+§ 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 500 euro per m2.<br>
+<br>
+§ 2. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding is voor de sector van de voorzieningen van de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
+<br>
+De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+§ 3. De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in paragrafen 1 en 2, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 8, § 1.<br>
+<br>
+§ 4. Voor een uitbreiding van een voorziening of een dienst als vermeld in paragraaf 1 kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreiding, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor de uitrusting en meubilering, vermeld in het eerste lid, is vastgesteld op 60% van de goedgekeurde raming. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is. De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.<br>
+<br>
+De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in deze paragraaf, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 8, § 2.
 
 ### ART. 10.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor verbouwingswerken is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />§ 2. Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken mag ten hoogste 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 9, § 1.<br /><br />§ 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br /><br />De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+§ 1. Het basisbedrag van de investeringssubsidie voor verbouwingswerken is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+§ 2. Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken mag ten hoogste 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 9, § 1.<br>
+<br>
+In afwijking van het eerste lid mag het basisbedrag van de totale investeringssubsidie voor verbouwingswerken ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 9, § 1 en § 3, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
+<br>
+In het tweede lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+§ 3. Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwing is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening.<br>
+<br>
+De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
 
 ### ART. 11.
 
-Het basisbedrag van de investeringssubsidie voor aankoop met of zonder   verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het   basisbedrag van de investeringssubsidie, vermeld in artikel 8. Als het gebouw   dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied   Brussel-Hoofdstad ligt of in een grootstad of centrumstad als vermeld in artikel   4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de   werking en de verdeling van het Vlaams Stedenfonds, bedraagt het basisbedrag van   de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en   meubilering inbegrepen, maximaal 100 % van het basisbedrag van de   investeringssubsidie, vermeld in artikel 8.<BR><BR>Voor de aankoop kan ten   hoogste 60 % van de som van de door het comité van aankoop geschatte venale   waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en   registratiebelasting of registratierechten of btw in aanmerking komen voor de   investeringssubsidie.
+Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 8. Als het gebouw dat het voorwerp uitmaakt van de aankoop, in het tweetalige gebied Brussel-Hoofdstad ligt of in een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, bedraagt het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, maximaal 100 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 8.<br>
+<br>
+Voor de aankoop kan ten hoogste 60 % van de som van de door het comité van aankoop geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw in aanmerking komen voor de investeringssubsidie.
 
 ### ART. 12.
 
@@ -62,7 +122,7 @@ Het basisbedrag van de investeringssubsidie voor aankoop met of zonder   verbouw
 
 ### ART. 13.
 
-Het basisbedrag van de investeringssubsidie voor meubilering en uitrusting, die afzonderlijk en in het bijzonder moeten worden aangeschaft, bedraagt 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+...
 
 ### ART. 14.
 
@@ -70,7 +130,7 @@ De bedragen, vermeld in artikelen 8, 9 en 10, worden jaarlijks op 1 januari aang
 
 ### ART. 15.
 
-Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief btw wordt vastgesteld met toepassing van artikelen 8, 9, 10, 11 en 13, een subsidie voor de btw tegen het geldende tarief en voor de algemene onkosten tegen 10 %. De totale investeringssubsidie wordt als volgt berekend : basisbedrag + geldende btw op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende btw op de algemene onkosten.
+Behalve voor de aankoop omvat de investeringssubsidie, naast het bedrag dat exclusief btw wordt vastgesteld met toepassing van artikelen 8, 9, 10 en&nbsp;11, een subsidie voor de btw tegen het geldende tarief en voor de algemene onkosten tegen 10 %. De totale investeringssubsidie wordt als volgt berekend : basisbedrag + geldende btw op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende btw op de algemene onkosten.
 
 ## HOOFDSTUK 5. Wijzigingsbepaling
 
