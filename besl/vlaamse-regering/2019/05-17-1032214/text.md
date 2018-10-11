@@ -86,6 +86,26 @@ Artikel 21 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reger
 
 ## HOOFDSTUK 10. Wijzigingen van het besluit van de Vlaamse Regering van 30 maart 2018 tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden
 
+### ART 37.
+
+In artikel 9/2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"In het eerste lid wordt onder facilitatiekost de kost van een facilitatiecontract verstaan. Dat facilitatiecontract is het contract om tot een aanbesteding van een energieprestatiecontract te komen.".
+
+### ART 40.
+
+In artikel 9/7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 3° wordt de zinsnede "het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden" vervangen door de zinsnede "artikel 7bis van het voormelde decreet";<br>
+<br>
+2° in punt 7° wordt de zinsnede "elektriciteitsproductie," opgeheven;<br>
+<br>
+3° in punt 7° wordt het woord "weerhouden" vervangen door het woord "gesubsidieerd".
+
+### ART 41.
+
+In artikel 9/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 20 juli 2018, wordt het tweede lid opgeheven.
+
 ## HOOFDSTUK 11. Wijzigingen van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
 
 ## HOOFDSTUK 12. Wijzigingen van het besluit van de Vlaamse Regering van 23 november 2018 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor sommige voorzieningen voor personen met een handicap en tot wijziging van artikel 16 van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden

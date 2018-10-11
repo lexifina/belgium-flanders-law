@@ -2,16 +2,16 @@
   "codex_id": 1032214,
   "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032214/VolledigDocument?datum=2018-07-01",
-  "source_sha256": "811f0e0776bc4c8c2b3b600399c8ea486b11981f9a40af64a33576527bae7ca9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032214/VolledigDocument?datum=2018-10-11",
+  "source_sha256": "90b77dae63ef8087fa4aa7a5cd8cabdf7e15886e61280cf7e5a296c9be7a9dd3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032214&param=informatie",
-  "as_of": "2018-07-01",
+  "as_of": "2018-10-11",
   "made": "2019-05-17",
   "gazette": "2019-09-09",
   "numac": 2019014291,
   "document_start": "2019-09-19",
   "document_end": null,
-  "in_force": "2018-07-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2018-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-10-11",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-10-11; future article versions excluded; article text as the API gives it"
 }
