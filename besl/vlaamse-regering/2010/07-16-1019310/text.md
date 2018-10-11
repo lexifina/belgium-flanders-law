@@ -52,21 +52,86 @@ De bouwfysische normen, vermeld in artikelen 3 tot en met 6, gelden met behoud v
 
 ### ART. 8.
 
-In dit artikel wordt verstaan onder : <br />1° subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br />2° bedden voor intensieve verzorging : bedden in een functie voor intensieve zorg, in een dienst voor intensieve neonatologie (kenletter NIC) en binnen een afdeling voor hoogrisicozwangerschappen (MIC-afdeling);<br />3° universitaire ziekenhuisdiensten : diensten als vermeld in artikel 4 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.<br /><br />De subsidiabele oppervlakte bedraagt maximaal : <br />1° voor elk bed of elke plaats in een algemeen ziekenhuis met meer dan 250 bedden, met uitzondering van de bedden of plaatsen in geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en in geïsoleerde geriatriediensten (kenletter G), en met uitzondering van de bedden voor intensieve verzorging : 98,5 m2 voor de niet-universitaire ziekenhuisdiensten en 125 m2 voor de universitaire ziekenhuisdiensten;<br />2° voor elk bed of elke plaats in een algemeen ziekenhuis met 250 bedden of minder, met uitzondering van de bedden of plaatsen in geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en in geïsoleerde geriatriediensten (kenletter G), en met uitzondering van de bedden voor intensieve verzorging : 110 m2;<br />3° voor elke plaats in de functie daghospitalisatie binnen een ziekenhuis : 98,5 m2 voor de niet-universitaire ziekenhuisdiensten en 125 m2 voor de universitaire ziekenhuisdiensten;<br />4° voor elk bed of elke plaats in een psychiatrisch ziekenhuis met 100 bedden of meer : 87,5 m2;<br />5° voor elk bed of elke plaats in een psychiatrisch ziekenhuis met minder dan 100 bedden : 90 m2;<br />6° voor elk bed voor forensische psychiatrie in een psychiatrisch ziekenhuis : 90 m2;<br />7° voor elk bed of elke plaats in een geïsoleerde gespecialiseerde dienst voor behandeling en revalidatie (kenletter Sp) of in een geïsoleerde geriatriedienst (kenletter G) : 110 m2;<br />8° voor elke operatiezaal, met inbegrip van het lokaal voor sterilisatie en de ontwaakzaal, zowel voor de klassieke hospitalisatie als voor de functie daghospitalisatie binnen een ziekenhuis : 350 m2 voor de niet-universitaire ziekenhuisdiensten en 440 m2 voor de universitaire ziekenhuisdiensten;<br />9° voor elk bed voor intensieve verzorging : 128,5 m2 voor de niet-universitaire ziekenhuisdiensten en 160 m2 voor de universitaire ziekenhuisdiensten;<br />10° voor het verloskwartier, voor elke 100 bevallingen : 24 m2 voor de niet-universitaire ziekenhuisdiensten en 30 m2 voor de universitaire ziekenhuisdiensten. In afwijking daarvan bedraagt voor algemene ziekenhuizen met 250 bedden of minder de totale maximale subsidiabele oppervlakte voor het verloskwartier minimaal 96 m2;<br />11° voor de eenheid neonatale zorg (N*-eenheid), voor elke 100 bevallingen : voor de niet-universitaire ziekenhuisdiensten 50 m2 en voor de universitaire ziekenhuisdiensten 63 m2. Ongeacht het aantal bevallingen moet de oppervlakte die met toepassing daarvan wordt gesubsidieerd, voldoende zijn voor de installatie van minimaal zes plaatsen voor de eenheid neonatale zorg;<br />12° voor de functie van lokale neonatale zorg (N*-functie), voor elke 100 bevallingen : voor de niet-universitaire ziekenhuisdiensten 100 m2 en voor de universitaire ziekenhuisdiensten 125 m2;<br />13° voor elke bunker binnen een dienst radiotherapie : 500 m2 voor zowel universitaire als niet-universitaire ziekenhuisdiensten;<br />14° voor elke post van een centrum voor de behandeling van chronische nierinsufficiëntie : 40 m2 voor de niet-universitaire ziekenhuisdiensten en 50 m2 voor de universitaire ziekenhuisdiensten;<br />15° voor elk bed of elke plaats in een rust- en verzorgingstehuis : 65 m2;<br />16° voor elk bed of elke plaats in een psychiatrisch verzorgingstehuis : 65 m2. <br /><br />Bij uitbreiding van oppervlakte komt alleen de nieuw gebouwde of aangekochte oppervlakte die samen met de oppervlakte van het behouden gedeelte van het bestaande gebouw de maximale subsidiabele oppervlakte, vermeld in het tweede lid, niet overschrijdt, voor subsidiëring in aanmerking.<br /><br />Van de maximale subsidiabele oppervlakte, vermeld in het tweede en derde lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover als de erkennings- en exploitatievoorwaarden dat vereisen.
+In dit artikel wordt verstaan onder :<br>
+1° subsidiabele oppervlakte : de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring;<br>
+2° bedden voor intensieve verzorging : bedden in een functie voor intensieve zorg, in een dienst voor intensieve neonatologie (kenletter NIC) en binnen een afdeling voor hoogrisicozwangerschappen (MIC-afdeling);<br>
+3° universitaire ziekenhuisdiensten : diensten als vermeld in artikel 4 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.<br>
+<br>
+De subsidiabele oppervlakte bedraagt maximaal :<br>
+1° voor elk bed of elke plaats in een algemeen ziekenhuis met meer dan 250 bedden, met uitzondering van de bedden of plaatsen in geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en in geïsoleerde geriatriediensten (kenletter G), en met uitzondering van de bedden voor intensieve verzorging : 98,5 m2 voor de niet-universitaire ziekenhuisdiensten en 125 m2 voor de universitaire ziekenhuisdiensten;<br>
+2° voor elk bed of elke plaats in een algemeen ziekenhuis met 250 bedden of minder, met uitzondering van de bedden of plaatsen in geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en in geïsoleerde geriatriediensten (kenletter G), en met uitzondering van de bedden voor intensieve verzorging : 110 m2;<br>
+3° voor elke plaats in de functie daghospitalisatie binnen een ziekenhuis : 98,5 m2 voor de niet-universitaire ziekenhuisdiensten en 125 m2 voor de universitaire ziekenhuisdiensten;<br>
+4° voor elk bed of elke plaats in een psychiatrisch ziekenhuis met 100 bedden of meer : 87,5 m2;<br>
+5° voor elk bed of elke plaats in een psychiatrisch ziekenhuis met minder dan 100 bedden : 90 m2;<br>
+6° voor elk bed voor forensische psychiatrie in een psychiatrisch ziekenhuis : 90 m2;<br>
+7° voor elk bed of elke plaats in een geïsoleerde gespecialiseerde dienst voor behandeling en revalidatie (kenletter Sp) of in een geïsoleerde geriatriedienst (kenletter G) : 110 m2;<br>
+8° voor elke operatiezaal, met inbegrip van het lokaal voor sterilisatie en de ontwaakzaal, zowel voor de klassieke hospitalisatie als voor de functie daghospitalisatie binnen een ziekenhuis : 350 m2 voor de niet-universitaire ziekenhuisdiensten en 440 m2 voor de universitaire ziekenhuisdiensten;<br>
+9° voor elk bed voor intensieve verzorging : 128,5 m2 voor de niet-universitaire ziekenhuisdiensten en 160 m2 voor de universitaire ziekenhuisdiensten;<br>
+10° voor het verloskwartier, voor elke 100 bevallingen : 24 m2 voor de niet-universitaire ziekenhuisdiensten en 30 m2 voor de universitaire ziekenhuisdiensten. In afwijking daarvan bedraagt voor algemene ziekenhuizen met 250 bedden of minder de totale maximale subsidiabele oppervlakte voor het verloskwartier minimaal 96 m2;<br>
+11° voor de eenheid neonatale zorg (N*-eenheid), voor elke 100 bevallingen : voor de niet-universitaire ziekenhuisdiensten 50 m2 en voor de universitaire ziekenhuisdiensten 63 m2. Ongeacht het aantal bevallingen moet de oppervlakte die met toepassing daarvan wordt gesubsidieerd, voldoende zijn voor de installatie van minimaal zes plaatsen voor de eenheid neonatale zorg;<br>
+12° voor de functie van lokale neonatale zorg (N*-functie), voor elke 100 bevallingen : voor de niet-universitaire ziekenhuisdiensten 100 m2 en voor de universitaire ziekenhuisdiensten 125 m2;<br>
+13° voor elke bunker binnen een dienst radiotherapie : 500 m2 voor zowel universitaire als niet-universitaire ziekenhuisdiensten;<br>
+14° voor elke post van een centrum voor de behandeling van chronische nierinsufficiëntie : 40 m2 voor de niet-universitaire ziekenhuisdiensten en 50 m2 voor de universitaire ziekenhuisdiensten;<br>
+15° voor elk bed of elke plaats in een rust- en verzorgingstehuis : 65 m2;<br>
+16° voor elk bed of elke plaats in een psychiatrisch verzorgingstehuis : 65 m2.<br>
+<br>
+Van de maximale subsidiabele oppervlakte, vermeld in het tweede&nbsp;lid, kan alleen op gemotiveerd verzoek afgeweken worden bij verbouwing of uitbreiding, voor zover als de erkennings- en exploitatievoorwaarden dat vereisen.
 
 ## HOOFDSTUK 4 Investeringssubsidie
 
 ### ART. 9.
 
-§ 1. De maximale subsidiabele kostprijs voor de nieuwbouwwerken is voor   een ziekenhuis vastgesteld op 1.100 euro per m2.<BR><BR>Met behoud van de   toepassing van het eerste lid is het basisbedrag van de investeringssubsidie   voor de nieuwbouwwerken voor een ziekenhuis vastgesteld op 60 % van de   goedgekeurde raming en beperkt tot de aanvaarde behoeften. Bij nieuwbouwwerken   die als prioritair worden beschouwd met toepassing van artikel 3, § 1bis, van   het koninklijk besluit van 13 december 1966 tot bepaling van het percentage van   de toelagen voor de opbouw, de herconditionering, de uitrusting en de apparatuur   van de ziekenhuizen en van zekere voorwaarden waaronder ze worden verleend, kan   de Vlaamse minister, bevoegd voor het gezondheidsbeleid, dat percentage bepalen   op 10 %.<BR><BR>Het basisbedrag, vermeld in het tweede lid, wordt, indien nodig,   verminderd op basis van de eindafrekening. De te veel ontvangen   investeringssubsidie moet onmiddellijk worden terugbetaald.<BR><BR>§ 2. Het   basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en   meubilering inbegrepen, is voor een psychiatrisch verzorgingstehuis vastgesteld   op 550 euro per m2.<BR><BR>§ 3. ...<BR><BR>§ 4. ...
+§ 1. De maximale subsidiabele kostprijs voor de nieuwbouwwerken is voor een ziekenhuis vastgesteld op 1.100 euro per m2.<br>
+<br>
+Met behoud van de toepassing van het eerste lid is het basisbedrag van de investeringssubsidie voor de nieuwbouwwerken voor een ziekenhuis vastgesteld op 100% van de goedgekeurde raming en beperkt tot de aanvaarde behoeften.<br>
+<br>
+Het basisbedrag, vermeld in het tweede lid, wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+§ 2. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor een psychiatrisch verzorgingstehuis vastgesteld op 550 euro per m2.<br>
+<br>
+§ 3. Voor een nieuwbouw van een ziekenhuis of een psychiatrisch verzorgingstehuis kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%;<br>
+3° uitrusting en meubilering: 10%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.
 
 ### ART. 10.
 
-De maximale subsidiabele kostprijs voor de uitbreidingswerken is voor een ziekenhuis vastgesteld op 1.100 euro per m2.<br /><br />Met behoud van de toepassing van het eerste lid is het basisbedrag van de investeringssubsidie voor uitbreidingswerken voor een ziekenhuis vastgesteld op 60 % van de goedgekeurde raming en beperkt tot de aanvaarde behoeften. Bij uitbreidingswerken die als prioritair worden beschouwd met toepassing van artikel 3, § 1bis, van het koninklijk besluit van 13 december 1966 tot bepaling van het percentage van de toelagen voor de opbouw, de herconditionering, de uitrusting en de apparatuur van de ziekenhuizen en van zekere voorwaarden waaronder ze worden verleend, kan de Vlaamse minister, bevoegd voor het gezondheidsbeleid, dat percentage bepalen op 10 %.<br /><br />Het basisbedrag, vermeld in het tweede lid, wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+De maximale subsidiabele kostprijs voor de uitbreidingswerken is voor een ziekenhuis vastgesteld op 1.100 euro per m2.<br>
+<br>
+Met behoud van de toepassing van het eerste lid is het basisbedrag van de investeringssubsidie voor uitbreidingswerken voor een ziekenhuis vastgesteld op 100% van de goedgekeurde raming en beperkt tot de aanvaarde behoeften.<br>
+<br>
+Het basisbedrag, vermeld in het tweede lid, wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+Voor uitbreidingswerken aan een ziekenhuis kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreidingswerken, vermeld in het eerste lid, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%;<br>
+3° uitrusting en meubilering: 10%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het vierde lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.<br>
+<br>
+Met behoud van de toepassing van het vierde lid is het basisbedrag van de investeringssubsidie voor uitbreidingswerken voor een ziekenhuis vastgesteld op 100% van de goedgekeurde raming en beperkt tot de aanvaarde behoeften.<br>
+<br>
+Het basisbedrag, vermeld in het zesde lid, wordt verminderd op basis van de eindafrekening als dat nodig is. De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.
 
 ### ART. 11.
 
-Het basisbedrag van de investeringssubsidie voor de uitbreidingswerken van een psychiatrisch verzorgingstehuis is vastgesteld op 500 euro per m2.<br /><br />Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding van een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in het eerste en tweede lid, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 9, § 2.
+Het basisbedrag van de investeringssubsidie voor de uitbreidingswerken van een psychiatrisch verzorgingstehuis is vastgesteld op 500 euro per m2.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij uitbreiding van een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in het eerste en tweede lid, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw, vermeld in artikel 9, § 2.<br>
+<br>
+Voor uitbreidingswerken aan een psychiatrisch verzorgingstehuis kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreidingswerken, vermeld in het eerste lid, dan verdeeld op de volgende wijze:<br>
+1° technische uitrusting: 30%;<br>
+2° afwerking: 25%.<br>
+<br>
+De projectfase ruwbouw, vermeld in het vierde lid, omvat de gevelsluiting, bovenbouw, onderbouw en dakwerken, en wordt gerealiseerd conform de bouwtechnische en bouwfysische normen, vermeld in dit besluit.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor de uitrusting en meubilering, vermeld in het vierde lid, is vastgesteld op 60% van de goedgekeurde raming. Dat basisbedrag wordt verminderd op basis van de eindafrekening als dat nodig is. De te veel ontvangen investeringssubsidie wordt onmiddellijk terugbetaald.<br>
+<br>
+De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in het vierde tot en met het zesde lid, kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw van een psychiatrisch verzorgingstehuis, vermeld in artikel 9, § 3.
 
 ### ART. 12.
 
@@ -74,11 +139,37 @@ De investeringssubsidie voor uitbreiding van een rust- en verzorgingstehuis word
 
 ### ART. 13.
 
-Het basisbedrag van de investeringssubsidie voor verbouwingswerken aan een ziekenhuis is vastgesteld op 10 % van de goedgekeurde raming en beperkt tot de aanvaarde behoeften. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een ziekenhuis mag maximaal 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreidingswerken, vermeld in artikel 10.<br /><br />De verbouwingswerken, vermeld in het eerste lid, komen alleen in aanmerking voor subsidiëring op voorwaarde dat het verbouwingswerken betreft die als prioritair worden beschouwd met toepassing van artikel 3, § 1bis, van het koninklijk besluit van 13 december 1966 tot bepaling van het percentage van de toelagen voor de opbouw, de herconditionering, de uitrusting en de apparatuur van de ziekenhuizen en van zekere voorwaarden waaronder ze worden verleend.
+Het basisbedrag van de investeringssubsidie voor verbouwingswerken aan een ziekenhuis is vastgesteld op 100 % van de goedgekeurde raming en beperkt tot de aanvaarde behoeften. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een ziekenhuis mag maximaal 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreidingswerken, vermeld in artikel 10, eerste lid.<br>
+<br>
+In afwijking van het tweede lid mag het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een ziekenhuis ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreidingswerken, vermeld in artikel 10, eerste tot en met derde lid, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
+<br>
+In het derde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART. 14.
 
-Het basisbedrag van de investeringssubsidie voor verbouwingswerken aan een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br /><br />Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een psychiatrisch verzorgingstehuis mag maximaal 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 11, eerste lid.<br /><br />Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwingswerken aan een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.
+Het basisbedrag van de investeringssubsidie voor verbouwingswerken aan een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+Het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een psychiatrisch verzorgingstehuis mag maximaal 75 % bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 11, eerste lid.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor de eerste uitrusting en meubilering bij verbouwingswerken aan een psychiatrisch verzorgingstehuis is vastgesteld op 60 % van de goedgekeurde raming, tot maximaal 50 euro per m2. Dat basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
+<br>
+In afwijking van het tweede lid mag het basisbedrag van de totale investeringssubsidie voor verbouwingswerken aan een psychiatrisch verzorgingstehuis ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding, vermeld in artikel 11, eerste en derde lid, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
+1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
+2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
+<br>
+In het vierde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
+1° een beschermd monument als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een gebouw dat deel uitmaakt van een beschermd cultuurhistorisch landschap of van een beschermd stads- of dorpsgezicht als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+3° een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ### ART. 15.
 
@@ -86,27 +177,45 @@ De investeringssubsidie voor de verbouwing van een rust- en verzorgingstehuis wo
 
 ### ART. 16.
 
-<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen definitief principieel akkoord worden verkregen   voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de   sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.   Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of   wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode   een definitief principieel akkoord voor verbouwing worden verkregen.<BR><BR>In   afwijking van het eerste lid kan de Vlaamse minister, bevoegd voor de bijstand   aan personen en voor het gezondheidsbeleid, voor ziekenhuizen in de periode van   twintig jaar na de ingebruikname van een investering die gesubsidieerd is door   het Fonds of door zijn rechtsvoorgangers, een definitief principieel akkoord   toestaan voor hetzelfde project of voor een deel van hetzelfde project, op   voorwaarde dat het project waarvoor een definitief principieel akkoord wordt   gevraagd, verder bestemd blijft binnen de persoonsgebonden aangelegenheden,   vermeld in artikel 2, 3°, van het decreet van 2 juni 2006 tot omvorming van het   Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern   verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het   decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden   aangelegenheden. Bij zijn beslissing tot afwijking kan de Vlaamse minister,   bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, rekening   houden met functionele elementen, financiële elementen, de opname van de   infrastructuur in een grotere ontwikkeling met private of publieke partners, of   met de realisatietermijn.</P>
+<p>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een subsidiebelofte voor verbouwing worden verkregen.<br>
+<br>
+In afwijking van het eerste lid kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, voor ziekenhuizen in de periode van twintig jaar na de ingebruikname van een investering die gesubsidieerd is door het Fonds of door zijn rechtsvoorgangers, een subsidiebelofte toestaan voor hetzelfde project of voor een deel van hetzelfde project, op voorwaarde dat het project waarvoor een subsidiebelofte wordt gevraagd, verder bestemd blijft binnen de persoonsgebonden aangelegenheden, vermeld in artikel 2, 3°, van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden. Bij zijn beslissing tot afwijking kan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, rekening houden met functionele elementen, financiële elementen, de opname van de infrastructuur in een grotere ontwikkeling met private of publieke partners, of met de realisatietermijn.</p>
 
 ### ART. 17.
 
-Het basisbedrag van de investeringssubsidie voor meubilering en uitrusting van een rust- en verzorgingstehuis of van een psychiatrisch verzorgingstehuis, die afzonderlijk en in het bijzonder moeten worden aangeschaft, bedraagt 60 % van de goedgekeurde raming.
+...
 
 ### ART. 18.
 
-Roerende investeringen die noodzakelijk zijn voor de ingebruikname van de nieuwbouw of de uitbreiding van een ziekenhuis, worden gesubsidieerd buiten de maximaal subsidiabele kostprijs op basis van het bedrag van de goedgekeurde biedingen en beperkt tot de aanvaarde behoeften voor de nieuwbouw of de uitbreiding, op voorwaarde dat het investeringen betreft in uitrusting en materiaal die een verbetering betekenen voor patiënten en personeel van : <br />1° het operatiekwartier;<br />2° het verloskwartier;<br />3° de dienst voor intensieve neonatologie (kenletter NIC);<br />4° de afdeling voor hoogrisicozwangerschappen (MIC-afdeling);<br />5° de sterilisatieafdeling;<br />6° de functie voor intensieve zorg;<br />7° de functie "eerste opvang spoedgevallen" en de functie "gespecialiseerde spoedgevallenzorg".<br /><br />De voorwaarde, vermeld in het eerste lid, dat het investeringen betreft in uitrusting en materiaal die een verbetering betekenen voor patiënten en personeel, is niet van toepassing op investeringen in eerste uitrusting of de eerste aankoop van materiaal.
+Roerende investeringen die noodzakelijk zijn voor de ingebruikname van de nieuwbouw, uitbreiding of verbouwing van een ziekenhuis, worden gesubsidieerd buiten de maximaal subsidiabele kostprijs op basis van het bedrag van de goedgekeurde ramingen en beperkt tot de aanvaarde behoeften.
 
 ### ART. 19.
 
-De volgende onroerende investeringen komen in aanmerking voor subsidiëring buiten de maximale subsidiabele kostprijs : <br />1° voor alle ziekenhuizen : <br />a) de afbraakwerken voor zover ze noodzakelijk zijn voor de inplanting van nieuwe subsidieerbare constructies of uitbreidingen van bestaande gebouwen;<br />b) sommige buitengewone uitgaven met een uitzonderlijk karakter, voor zover ze, onafhankelijk van de wil van de voorziening, onontbeerlijk en behoorlijk gerechtvaardigd zijn en berekend zijn op basis van normale erkende eenheidsprijzen;<br />c) één duurzaam overdekte parkeerplaats per twee bedden of plaatsen, met een maximale subsidiabele kostprijs van 10.000 euro per parkeerplaats;<br />2° voor de psychiatrische ziekenhuizen : <br />a) de inrichting van de omgeving;<br />b) de sportinfrastructuur.<br /><br />Voor de investeringen, vermeld in het eerste lid, is het basisbedrag van de investeringssubsidie vastgesteld op 60 % van de goedgekeurde raming en beperkt tot de aanvaarde behoeften, met behoud van de toepassing van het eerste lid. Bij investeringen die als prioritair worden beschouwd met toepassing van artikel 3, § 1bis, van het koninklijk besluit van 13 december 1966 tot bepaling van het percentage van de toelagen voor de opbouw, de herconditionering, de uitrusting en de apparatuur van de ziekenhuizen en van zekere voorwaarden waaronder ze worden verleend, kan de Vlaamse minister, bevoegd voor het gezondheidsbeleid, dat percentage bepalen op 10 %.
+De volgende onroerende investeringen komen in aanmerking voor subsidiering buiten de maximale subsidiabele kostprijs van 1.100 euro per m2:<br>
+1° voor alle ziekenhuizen:<br>
+a) de afbraakwerken als ze noodzakelijk zijn voor de inplanting van nieuwe subsidieerbare constructies of uitbreidingen van bestaande gebouwen;<br>
+b) sommige buitengewone uitgaven met een uitzonderlijk karakter, als ze, onafhankelijk van de wil van de voorziening, onontbeerlijk en behoorlijk gerechtvaardigd zijn en berekend zijn op basis van normale erkende eenheidsprijzen;<br>
+2° voor de psychiatrische ziekenhuizen:<br>
+a) de inrichting van de omgeving;<br>
+b) de sportinfrastructuur.<br>
+<br>
+De maximale subsidiabele kostprijs voor de investeringen, vermeld in het eerste lid, 1°, is vastgesteld op 110 euro per m2. Voor de psychiatrische ziekenhuizen is de maximale kostprijs voor de investeringen, vermeld in het eerste lid, 1° en 2° samen, vastgesteld op 220 euro per m2.<br>
+<br>
+Voor de investeringen, vermeld in het eerste lid, is het basisbedrag van de investeringssubsidie vastgesteld op 100% van de goedgekeurde raming en beperkt tot de aanvaarde behoeften, met behoud van de toepassing van het eerste en het tweede lid.
 
 ### ART. 20.
 
-De bedragen, vermeld in artikelen 9, 10, 11, 14 en 19, worden jaarlijks op 1 januari aangepast aan de bouwindex. De basisindex is die van 1 januari 1994.<br /><br />De aanpassing, vermeld in het eerste lid, wordt doorgevoerd aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20, waarbij : <br />1° s : het officiële loon in de bouwnijverheid voor categorie 2A, dat van kracht is op 1 januari van het jaar in kwestie;<br />2° S : 19,885;<br />3° i : de index van de bouwmaterialen die van kracht is op 1 december voorafgaand aan het jaar in kwestie;<br />4° I : 3627.
+De bedragen, vermeld in artikelen 9, 10, 11, 14, 18&nbsp;en 19, worden jaarlijks op 1 januari aangepast aan de bouwindex. De basisindex is die van 1 januari 1994.<br>
+<br>
+De aanpassing, vermeld in het eerste lid, wordt doorgevoerd aan de hand van de actualisatieformule 0,40 s/S + 0,40 i/I + 0,20, waarbij :<br>
+1° s : het officiële loon in de bouwnijverheid voor categorie 2A, dat van kracht is op 1 januari van het jaar in kwestie;<br>
+2° S : 19,885;<br>
+3° i : de index van de bouwmaterialen die van kracht is op 1 december voorafgaand aan het jaar in kwestie;<br>
+4° I : 3627.
 
 ### ART. 21.
 
-De investeringssubsidie omvat, naast het bedrag dat exclusief btw wordt vastgesteld met toepassing van artikelen 9, 10, 11, 12, 13, 14, 15, 17, 18 en 19, een subsidie voor de btw tegen het geldende tarief en voor de algemene onkosten tegen 10 % . De totale investeringssubsidie wordt als volgt berekend : basisbedrag + geldende btw op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende btw op de algemene onkosten.
+De investeringssubsidie omvat, naast het bedrag dat exclusief btw wordt vastgesteld met toepassing van artikelen 9, 10, 11, 12, 13, 14, 15,&nbsp;18 en 19, een subsidie voor de btw tegen het geldende tarief en voor de algemene onkosten tegen 10 % . De totale investeringssubsidie wordt als volgt berekend : basisbedrag + geldende btw op het basisbedrag + algemene onkosten à 10 % op het basisbedrag + geldende btw op de algemene onkosten.
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
@@ -133,6 +242,24 @@ Het besluit van de Vlaamse Regering van 8 juni 1999 tot vaststelling van de tota
 Voor de dossiers die vallen onder het toepassingsgebied van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden waarvoor de subsidiebelofte werd gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de inwerkingtreding van dit besluit.<br>
 <br>
 Voor de dossiers die vallen onder het toepassingsgebied van het besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringssubsidies verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden waarvoor geen bevel tot aanvang van de werken gegeven werd of geen bestelling geplaatst werd voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen van dit besluit.
+
+### ART 26/1.
+
+Vanaf de datum van de inwerkingtreding van het besluit van de Vlaamse Regering van 6 juli 2018 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden komen alleen de volgende projecten in aanmerking voor een investeringssubsidie voor ziekenhuizen conform het besluit van de Vlaamse Regering van 16 juli 2010 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de verzorgingsvoorzieningen en het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden:<br>
+1° projecten van ziekenhuizen ter uitvoering van het besluit van de Vlaamse Regering van 21 september 2012 betreffende pilootprojecten over nieuwe ruimtelijke concepten in de woonzorg;<br>
+2° projecten van ziekenhuizen waarvoor een planningsvergunning inzake reconversie naar k-plaatsen werd verleend conform artikel 5 van het besluit van de Vlaamse Regering van 18 februari 1997 tot vaststelling van de procedure voor het verkrijgen van een planningsvergunning en een exploitatievergunning voor intramurale en transmurale voorzieningen in de gezondheidszorg en de omzendbrief van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin van 18 februari 2016 betreffende mogelijkheden van reconversie naar verblijven voor adolescenten met sterk verhoogde psychische kwetsbaarheid.<br>
+<br>
+De investeringssubsidie, vermeld in het eerste lid, wordt verleend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, lid 2, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen. De investeringssubsidie wordt verleend als compensatie van de verplichtingen die voortvloeien uit de opdracht van het ziekenhuis conform de bepalingen, vermeld in het eerste lid, 1° of 2°, wat de kosten betreft die verband houden met investeringen in infrastructuur die noodzakelijk is voor de uitvoering van die verplichtingen, om de toegang te waarborgen tot een kwalitatief hoogstaande en betaalbare gezondheidszorg die voor iedereen toegankelijk is, waarbij de kosten grotendeels ten laste worden gelegd van collectieve voorzieningen.<br>
+<br>
+Minstens elke tien jaar vanaf de toekenning van de investeringssubsidie zien de personen, belast met het toezicht, vermeld in artikel 1, 9°, van het besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen, erop toe dat het ziekenhuis aan de voorwaarden, vermeld in het tweede lid, voldoet. Als aan die voorwaarden is voldaan, wordt het ziekenhuis voort belast met de verplichtingen, vermeld in het tweede lid, voor een nieuwe periode van maximaal tien jaar. Als aan die voorwaarden niet is voldaan, zijn de bepalingen van hoofdstuk 2, afdeling 5 tot en met 7, van het besluit van de Vlaamse Regering van 25 april 2014 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen van toepassing en is het ziekenhuis niet langer belast met de verplichtingen, vermeld in het tweede lid. In dit laatste geval gebeurt een afrekening van de investeringssubsidies voor de ten einde gekomen verplichtingen.<br>
+<br>
+Minstens om de drie jaar en aansluitend op het tienjaarlijkse toezicht, vermeld in het derde lid, controleren het Fonds of de personen, belast met het toezicht, vermeld in het derde lid, de boekhouding van het ziekenhuis.<br>
+<br>
+Met behoud van de toepassing van artikel 83 tot en met 85 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen worden in de boekhouding van het ziekenhuis de ontvangsten en uitgaven die verband houden met investeringen in infrastructuur noodzakelijk voor de uitvoering van de verplichtingen, vermeld in het tweede lid, transparant afgezonderd.<br>
+<br>
+Met toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof zullen de investeringssubsidies worden teruggevorderd voor zover daartoe aanleiding bestaat na de afrekening, vermeld in het derde lid, of na de controle, vermeld in het vierde lid.<br>
+<br>
+De exploitant van het ziekhuis houdt de documenten, inclusief de boekhouding, die verband houdende met de verplichtingen, vermeld in het tweede lid, en met de investeringssubsidie, ter beschikking van het Fonds. Hij bezorgt die documenten aan het Fonds op verzoek van het Fonds.
 
 ### ART. 27.
 
