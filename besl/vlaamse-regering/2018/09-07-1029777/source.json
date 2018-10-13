@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029777,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 5 februari 2016 houdende vaststelling van de werking en het beheer van het Financieringsinstrument voor de Vlaamse visserij- en aquacultuursector (FIVA) en de verrichtingen die voor steun in aanmerking komen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029777/VolledigDocument?datum=2018-10-13",
+  "source_sha256": "f36b3084ac0e548582d7dbe612fa8b0edec95618e49129cb7ec19bec5743b806",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029777&param=informatie",
+  "as_of": "2018-10-13",
+  "made": "2018-09-07",
+  "gazette": "2018-10-03",
+  "numac": 2018014082,
+  "document_start": "2018-10-13",
+  "document_end": null,
+  "in_force": "2018-10-13",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
