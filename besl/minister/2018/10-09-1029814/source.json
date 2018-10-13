@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029814,
+  "title": "Ministerieel besluit van 2018-10-09 houdende de vaststelling dat de digitale systemen en processen voor het kandidatenbeheer, voor de digitale stemming, voor het verwerken van de stemmen en voor de zetelberekening de integriteit van de gegevens en het geheim van de stemming van 14 oktober 2018 waarborgen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029814/VolledigDocument?datum=2018-10-13",
+  "source_sha256": "15c0a2af826eb2541354da46b0abe726007ac248fa14c791dbcb899f2190fd82",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029814&param=informatie",
+  "as_of": "2018-10-13",
+  "made": "2018-10-09",
+  "gazette": "2018-10-12",
+  "numac": 2018031983,
+  "document_start": "2018-10-13",
+  "document_end": null,
+  "in_force": "2018-10-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-10-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
