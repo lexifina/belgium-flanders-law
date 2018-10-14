@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029779,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van het besluit van de Vlaamse Regering van 20 december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de diversificatie naar zorgboerderijactiviteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029779/VolledigDocument?datum=2018-10-14",
+  "source_sha256": "6e4158db1621aefe592d61970cf9c2b19250ad3a714f7a6f70617e158ee7283e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029779&param=informatie",
+  "as_of": "2018-10-14",
+  "made": "2018-09-07",
+  "gazette": "2018-10-04",
+  "numac": 2018014028,
+  "document_start": "2018-10-14",
+  "document_end": null,
+  "in_force": "2018-10-14",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
