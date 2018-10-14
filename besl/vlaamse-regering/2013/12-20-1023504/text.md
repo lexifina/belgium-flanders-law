@@ -8,11 +8,24 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° ...<BR>3° land- of tuinbouwer : de natuurlijke persoon of de   rechtspersoon die een bedrijf exploiteert met alleen activiteiten die verband   houden met land- of tuinbouw en land- of tuinbouwverbreding, hierna het land- of   tuinbouwbedrijf te noemen;<BR>4° land- of tuinbouwverbreding : het   hoevetoerisme, de landbouwgerelateerde dagrecreatie, de rechtstreekse verkoop   van hoeveproducten, de productie van hernieuwbare energie, het landschapsbeheer,   de landbouweducatie, het agrarisch natuurbeheer en de   zorgboerderijactiviteit;<BR>5° ministers : de Vlaamse minister, bevoegd voor het   landbouwbeleid en de zeevisserij, de Vlaamse minister, bevoegd voor de bijstand   aan personen, de Vlaamse minister bevoegd voor het gezondheidsbeleid, en de   Vlaamse minister bevoegd voor het onderwijs;<BR>6° voorziening : een organisatie   die voldoet aan een van de volgende voorwaarden :<BR>a) de organisatie is erkend   door de Vlaamse overheid en oefent activiteiten uit op het domein van de   zorgverstrekking, de gezondheidsopvoeding, de preventieve gezondheidszorg, het   gezin, het maatschappelijk welzijn, de personen met een handicap, de ouderen, de   bijzondere jeugdzorg, en de sociale hulpverlening aan gedetineerden met het oog   op hun sociale reïntegratie, vermeld in artikel 5, § 1, I en II, van de   bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met   uitzondering van de organisaties die activiteiten uitoefenen op het domein van   het medisch verantwoord sporten en de kinderopvang;<BR>b) de organisatie is een   gemeenschapsinstelling voor bijzondere jeugdbijstand, een comité voor bijzondere   jeugdzorg, een ondersteuningscentrum jeugdzorg, een sociale dienst voor   gerechtelijke jeugdbijstand of een medisch-pedagogisch instituut van het   gemeenschapsonderwijs;<BR>c) de organisatie is een centrum voor   leerlingenbegeleiding als vermeld in het decreet van 1 december 1998 betreffende   de centra voor leerlingenbegeleiding;<BR>d) de organisatie is actief in de   gezondheidszorg, met een RIZIV-conventie;<BR>e) de organisatie krijgt van de   ministers de toestemming om een zorgboerderijovereenkomst te sluiten met   toepassing van dit besluit;<BR>7° zorgvrager : een natuurlijk persoon die een   beroep doet op een voorziening. De persoon die een beroep doet op een centrum   voor leerlingenbegeleiding komt alleen in aanmerking voor zover hij ten minste   het eerste leerjaar van de eerste graad van het secundair onderwijs heeft   aangevat en de begeleiding door het CLB past in het kader van het tijdelijk uit   het onderwijs nemen van leerlingen om pedagogische, juridische, sociale of   persoonlijke redenen, met de bedoeling hen opnieuw in het onderwijs op te   nemen;<BR>8° zorgboerderijactiviteit : een aan de landbouw gerelateerde   activiteit voor zorgvragers op het bedrijf van de land- of   tuinbouwer.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° ...<br>
+3° land- of tuinbouwer : de natuurlijke persoon of de rechtspersoon die een bedrijf exploiteert met alleen activiteiten die verband houden met land- of tuinbouw en land- of tuinbouwverbreding, hierna het land- of tuinbouwbedrijf te noemen;<br>
+4° land- of tuinbouwverbreding : het hoevetoerisme, de landbouwgerelateerde dagrecreatie, de rechtstreekse verkoop van hoeveproducten, de productie van hernieuwbare energie, het landschapsbeheer, de landbouweducatie, het agrarisch natuurbeheer en de zorgboerderijactiviteit;<br>
+5° ministers : de Vlaamse minister, bevoegd voor de landbouw, de Vlaamse minister, bevoegd voor de bijstand aan personen, de Vlaamse minister bevoegd voor het gezondheidsbeleid, en de Vlaamse minister bevoegd voor het onderwijs;<br>
+6° voorziening : een organisatie die voldoet aan een van de volgende voorwaarden :<br>
+a) de organisatie is&nbsp;vergund door de Vlaamse overheid en oefent activiteiten uit op het domein van de zorgverstrekking, de gezondheidsopvoeding, de preventieve gezondheidszorg, het gezin, het maatschappelijk welzijn, de personen met een handicap, de ouderen, de bijzondere jeugdzorg, en de sociale hulpverlening aan gedetineerden met het oog op hun sociale reïntegratie, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met uitzondering van de organisaties die activiteiten uitoefenen op het domein van het medisch verantwoord sporten en de kinderopvang;<br>
+b) de organisatie is een gemeenschapsinstelling voor bijzondere jeugdbijstand, een comité voor bijzondere jeugdzorg, een ondersteuningscentrum jeugdzorg, een sociale dienst voor gerechtelijke jeugdbijstand of een medisch-pedagogisch instituut van het gemeenschapsonderwijs;<br>
+c) de organisatie is een centrum voor leerlingenbegeleiding als vermeld in het decreet van 27 april 2018 betreffende de leerlingenbegeleiding in het basisonderwijs, het secundair onderwijs en de centra voor leerlingenbegeleiding;<br>
+d) de organisatie is actief in de gezondheidszorg, met een RIZIV-conventie;<br>
+e) de organisatie krijgt van de ministers de toestemming om een zorgboerderijovereenkomst te sluiten met toepassing van dit besluit;<br>
+7° zorgvrager : een natuurlijk persoon die een beroep doet op een voorziening. De persoon die een beroep doet op een centrum voor leerlingenbegeleiding komt alleen in aanmerking voor zover hij ten minste het eerste leerjaar van de eerste graad van het secundair onderwijs heeft aangevat en de begeleiding door het CLB past in het kader van het tijdelijk uit het onderwijs nemen van leerlingen om pedagogische, juridische, sociale of persoonlijke redenen, met de bedoeling hen opnieuw in het onderwijs op te nemen;<br>
+8° zorgboerderijactiviteit : een aan de landbouw gerelateerde activiteit voor zorgvragers op het bedrijf van de land- of tuinbouwer.
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK 2 Subsidie voor diversificatie naar zorgboerderijactiviteiten
 
@@ -26,11 +39,27 @@ Binnen de daarvoor bestemde begrotingskredieten kan de Vlaamse minister, bevoegd
 
 ### ART. 4.
 
-De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden,   vermeld in Verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006   betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op   de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie L 379   van 28 december 2006.<BR>
+De subsidie, vermeld in artikel 2, wordt verleend onder de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie (L 352) van 24 december 2013.
 
 ### ART. 5.
 
-<P>Om in aanmerking te komen voor de subsidie, vermeld in artikel 2, moet   voldaan zijn aan de volgende voorwaarden :<BR>1° de land- of tuinbouwer behoort   tot een van de volgende categoriëen :<BR>a) een natuurlijk persoon;<BR>b) een   handelsvennootschap als vermeld in artikel 2, § 2, van het Wetboek van   Vennootschappen, met uitzondering van het economisch samenwerkingsverband;<BR>c)   een landbouwvennootschap als vermeld in artikel 2, § 3, van het Wetboek van   Vennootschappen;<BR>d) een consumentencoöperatie, namelijk een   handelsvennootschap als vermeld in artikel 2, § 2, van het Wetboek van   Vennootschappen;<BR>2° de land- of tuinbouwer baat een land- of tuinbouwbedrijf   uit met een voldoende bruto bedrijfsresultaat als vermeld in artikel 7;<BR>3° de   land- of tuinbouwer heeft een maximumberoepsinkomen uit andere   beroepsactiviteiten als vermeld in artikel 8;<BR>4° de land- of tuinbouwer is   gedurende de volledige looptijd van de zorgboerderijovereenkomst verzekerd voor   zijn burgerlijke aansprakelijkheid voor de schade aan derden, veroorzaakt door   de zorgvrager in het kader van de uitoefening van zorgboerderijactiviteiten op   zijn land- of tuinbouwbedrijf en de verzekeringspolis vermeldt expliciet de   uitoefening van zorgboerderijactiviteiten;<BR>5° de land- of tuinbouwer heeft   een zorgboerderijovereenkomst als vermeld in hoofdstuk 4 van dit besluit,   gesloten;<BR>6° de land- of tuinbouwer, een gezinslid, een medewerker, een derde   of een voorziening hebben een zorgboerderijactiviteit uitgevoerd op het bedrijf   van de land- of tuinbouwer zoals bepaald in de zorgboerderijovereenkomst;<BR>7°   de land- of tuinbouwer heeft de aanwezigheid van de zorgvrager op het bedrijf   van de land- of tuinbouwer in het kader van een zorgboerderijactiviteit   geregistreerd.<BR></P>  <P>In het eerste lid, 6°, wordt verstaan onder :<BR>1° gezinslid : een bloed- of   aanverwant tot en met de tweede graad;<BR>2° medewerker : een persoon die actief   is op het bedrijf van de land- of tuinbouwer in het kader van een   gereglementeerd sociaal statuut.<BR></P>
+<p>Om in aanmerking te komen voor de subsidie, vermeld in artikel 2, moet voldaan zijn aan de volgende voorwaarden :<br>
+1° de land- of tuinbouwer behoort tot een van de volgende categoriëen :<br>
+a) een natuurlijk persoon;<br>
+b) een handelsvennootschap als vermeld in artikel 2, § 2, van het Wetboek van Vennootschappen, met uitzondering van het economisch samenwerkingsverband;<br>
+c) een landbouwvennootschap als vermeld in artikel 2, § 3, van het Wetboek van Vennootschappen;<br>
+d) een consumentencoöperatie, namelijk een handelsvennootschap als vermeld in artikel 2, § 2, van het Wetboek van Vennootschappen;<br>
+2° de land- of tuinbouwer baat een land- of tuinbouwbedrijf uit met een voldoende bruto bedrijfsresultaat als vermeld in artikel 7;<br>
+3° de land- of tuinbouwer heeft een maximumberoepsinkomen uit andere beroepsactiviteiten als vermeld in artikel 8;<br>
+4° de land- of tuinbouwer is gedurende de volledige looptijd van de zorgboerderijovereenkomst verzekerd voor zijn burgerlijke aansprakelijkheid voor de schade aan derden, veroorzaakt door de zorgvrager in het kader van de uitoefening van zorgboerderijactiviteiten op zijn land- of tuinbouwbedrijf en de verzekeringspolis vermeldt expliciet de uitoefening van zorgboerderijactiviteiten;<br>
+5° de land- of tuinbouwer heeft een zorgboerderijovereenkomst als vermeld in hoofdstuk 4 van dit besluit, gesloten;<br>
+6° de land- of tuinbouwer, een gezinslid, een medewerker, een derde of een voorziening hebben een zorgboerderijactiviteit uitgevoerd op het bedrijf van de land- of tuinbouwer zoals bepaald in de zorgboerderijovereenkomst;<br>
+7° de land- of tuinbouwer heeft de aanwezigheid van de zorgvrager op het bedrijf van de land- of tuinbouwer in het kader van een zorgboerderijactiviteit geregistreerd;<br>
+8° het adres van de land- of tuinbouwer als natuurlijke persoon of de maatschappelijke zetel van de land- of tuinbouwer als rechtspersoon bevindt zich in het Vlaamse Gewest.</p>
+
+<p>In het eerste lid, 6°, wordt verstaan onder :<br>
+1° gezinslid : een bloed- of aanverwant tot en met de tweede graad;<br>
+2° medewerker : een persoon die actief is op het bedrijf van de land- of tuinbouwer in het kader van een gereglementeerd sociaal statuut.</p>
 
 ### ART. 6.
 
@@ -92,7 +121,13 @@ De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij,   bepaal
 
 ### ART. 18.
 
-<P>Na het aflopen van een kwartaal of na het beëindigen van een   zorgboerderijovereenkomst bevestigt de land- of tuinbouwer de registraties en   dient hij de geregistreerde zorgboerderijactiviteiten in als   subsidieaanvraag.<BR></P>  <P>De betalingsaanvraag is pas ontvankelijk na bevestiging van de geregistreerde   dagen door de voorziening.<BR></P>  <P>Een subsidie voor een zorgboerderijactiviteit wordt alleen uitbetaald als de   subsidieaanvraag voor geregistreerde zorgboerderijactiviteiten is ingediend   binnen de periode van één jaar nadat die zorgboerderijactiviteit werd   uitgevoerd.<BR></P>  <P>De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, kan   nadere regels bepalen voor de te volgen procedure.<BR></P>
+<p>Na het aflopen van een kwartaal of na het beëindigen van een zorgboerderijovereenkomst bevestigt de land- of tuinbouwer de registraties en dient hij de geregistreerde zorgboerderijactiviteiten in als subsidieaanvraag.</p>
+
+<p>De betalingsaanvraag is pas ontvankelijk na bevestiging van de geregistreerde dagen door de voorziening.</p>
+
+<p>Een subsidie voor een zorgboerderijactiviteit wordt alleen uitbetaald als de subsidieaanvraag voor geregistreerde zorgboerderijactiviteiten is ingediend binnen de periode van één jaar na afloop van het kwartaal in kwestie.</p>
+
+<p>De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, kan nadere regels bepalen voor de te volgen procedure.</p>
 
 ## HOOFDSTUK 8 Controle
 
@@ -110,7 +145,7 @@ De land- of tuinbouwers verstrekken alle documenten en inlichtingen die   noodza
 
 ### ART. 22.
 
-De bevoegde entiteit&nbsp;kan de gegevens die het nodig heeft voor de   uitvoering en de controle van deze steunmaatregel, rechtstreeks opvragen bij   derden, op voorwaarde dat het beschikt over de machtiging tot mededeling van   persoonsgegevens op basis van de wet van 8 december 1992 tot bescherming van de   persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens of   van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke   gegevensverkeer.<BR>
+De bevoegde entiteit&nbsp;kan de gegevens die het nodig heeft voor de uitvoering en de controle van deze steunmaatregel, rechtstreeks opvragen bij derden met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing zijn bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder zijn of worden gespecificeerd.
 
 ### ART. 23.
 
@@ -124,7 +159,22 @@ De voorziening blijft verantwoordelijk voor het zorgaanbod aan de   zorgvrager e
 
 ### ART. 25.
 
-<P>Een organisatie als vermeld in artikel 1, 6°, e), die de toestemming wil   krijgen om een zorgboerderijovereenkomst te sluiten, kan daarvoor een aanvraag   indienen bij de bevoegde entiteit.<BR><BR>De bevoegde entiteit zorgt voor de   voorbereiding van het dossier voor de zorgboerderijcommissie en kan in   voorkomend geval aanvullende informatie of toelichtingen vragen bij de   aanvragende organisatie.<BR><BR>De commissie komt samen op vraag van de bevoegde   entiteit. De commissie kan alleen geldig vergaderen als naast de voorzitter   minstens één vertegenwoordiger van elk beleidsdomein aanwezig is. De bevoegde   entiteit bezorgt het advies van de zorgboerderijcommissie aan de ministers. De   ministers beslissen of de aanvragende organisatie al dan niet de toestemming   krijgt om zorgboerderijovereenkomsten te sluiten met toepassing van dit   besluit.<BR><BR>De organisatie kan enkel van de ministers de toestemming krijgen   om een zorgboerderijovereenkomst te sluiten als de organisatie bij de aanvraag   alle controles aanvaardt die noodzakelijk zijn om de kwaliteit van de zorg op   het bedrijf van de land- of tuinbouwer te garanderen.<BR></P>
+<p>Een organisatie als vermeld in artikel 1, 6°, e), die de toestemming wil krijgen om een zorgboerderijovereenkomst te sluiten, kan daarvoor een aanvraag indienen bij de bevoegde entiteit.<br>
+<br>
+De bevoegde entiteit brengt de organisatie op de hoogte van haar beslissing over de ontvankelijkheid. Een aanvraag is ontvankelijk als ze ondertekend is door een persoon die daarvoor bevoegd is en als ze minstens de volgende elementen bevat:<br>
+1° een beschrijving van de organisatie en haar activiteiten;<br>
+2° de reden waarom de organisatie gebruik wenst te maken van zorgboerderijen;<br>
+3° welke zorgboerderijactiviteiten zullen worden aangeboden en de manier waarop ze zullen worden uitgevoerd;<br>
+4° de wijze waarop de kwaliteit van de aangeboden zorgboerderijactiviteiten gegarandeerd wordt;<br>
+5° de verklaring dat de organisatie alle controles aanvaardt die noodzakelijk zijn om de kwaliteit van de zorgboerderijactiviteiten op het bedrijf van de landbouwer te garanderen.<br>
+<br>
+De bevoegde entiteit zorgt voor de voorbereiding van het dossier voor de zorgboerderijcommissie en kan in voorkomend geval aanvullende informatie of toelichtingen vragen bij de aanvragende organisatie.<br>
+<br>
+De commissie komt samen op vraag van de bevoegde entiteit. De commissie kan alleen geldig vergaderen als naast de voorzitter minstens één vertegenwoordiger van elk beleidsdomein aanwezig is. De bevoegde entiteit bezorgt het advies van de zorgboerderijcommissie aan de ministers. De ministers beslissen of de aanvragende organisatie al dan niet de toestemming krijgt om zorgboerderijovereenkomsten te sluiten met toepassing van dit besluit.<br>
+<br>
+De organisatie kan enkel van de ministers de toestemming krijgen om een zorgboerderijovereenkomst te sluiten als de organisatie bij de aanvraag alle controles aanvaardt die noodzakelijk zijn om de kwaliteit van de zorg op het bedrijf van de land- of tuinbouwer te garanderen.<br>
+<br>
+Als de organisatie van de ministers toestemming krijgt om een zorgboerderijovereenkomst te sluiten, komt de land- of tuinbouwer die met die organisatie een zorgboerdijovereenkomst heeft gesloten, in aanmerking voor de subsidie, vermeld in artikel 2, vanaf de datum waarop de bevoegde entiteit heeft beslist dat het aanvraagdossier ontvankelijk is als vermeld in het tweede lid.</p>
 
 ## HOOFDSTUK 10 Slotbepalingen
 
