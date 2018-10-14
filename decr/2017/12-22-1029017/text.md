@@ -436,6 +436,16 @@ Voor de toepassing van het eerste en tweede lid wordt de uitslag van een verkiez
 
 ## Afdeling 1. De organisatie van de raad voor maatschappelijk welzijn
 
+### ART 530.
+
+Om tot werkend lid van een raad voor maatschappelijk welzijn of tot opvolger te kunnen worden verkozen, moet iemand op de dag van de algehele verkiezing van de raad voor maatschappelijk welzijn:<br>
+1° Belg of onderdaan van een andere lidstaat van de Europese Unie zijn, overeenkomstig artikel 7 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
+2° de leeftijd van achttien jaar hebben bereikt;<br>
+3° ingeschreven zijn in de bevolkingsregisters van de gemeente die door het openbaar centrum voor maatschappelijk welzijn wordt bediend;<br>
+4° zich niet bevinden in een van de gevallen van onverkiesbaarheid, vermeld in artikel 58 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<br>
+<br>
+Artikel 58, tweede lid, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is van toepassing als de inbreuken, vermeld in die bepaling, zijn gepleegd tijdens de uitoefening van een ambt binnen het openbaar centrum voor maatschappelijk welzijn of een gemeenteambt.
+
 ## Afdeling 2. De werking van de raad voor maatschappelijk welzijn
 
 ## Afdeling 3. De bevoegdheden van de raad voor maatschappelijk welzijn
