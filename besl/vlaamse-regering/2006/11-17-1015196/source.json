@@ -2,16 +2,16 @@
   "codex_id": 1015196,
   "title": "Besluit van de Vlaamse Regering van 2006-11-17 betreffende de voordrachtsakte en de verkiezing van de leden van de raden voor maatschappelijk welzijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015196/VolledigDocument?datum=2006-11-24",
-  "source_sha256": "0b18b355e8622e704d049dba8f83b14f299903f35b8e043f87965e0bed0e5b6b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015196/VolledigDocument?datum=2018-10-15",
+  "source_sha256": "b31d0b2ee19742d18181b604f0f3d0e43c1139252b9231364e8fa7fbdf35dfee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015196&param=informatie",
-  "as_of": "2006-11-24",
+  "as_of": "2018-10-15",
   "made": "2006-11-17",
   "gazette": "2006-11-24",
   "numac": 2006036897,
   "document_start": "2006-11-24",
   "document_end": "2018-10-14",
-  "in_force": "2006-11-24",
+  "in_force": "2018-10-15",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-10-15; future article versions excluded; article text as the API gives it"
 }
