@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029791,
+  "title": "Ministerieel besluit van 2018-08-30 tot vaststelling van de formule, vermeld in artikel 9/13, eerste lid van het besluit van de Vlaamse Regering van 20 juli 2018 tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029791/VolledigDocument?datum=2018-10-15",
+  "source_sha256": "297fd181f487cd772f639db1773a68b74c6cb14984427b88867f835c3bdb4a0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029791&param=informatie",
+  "as_of": "2018-10-15",
+  "made": "2018-08-30",
+  "gazette": "2018-10-05",
+  "numac": 2018031912,
+  "document_start": "2018-10-15",
+  "document_end": "2019-10-17",
+  "in_force": "2018-10-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
