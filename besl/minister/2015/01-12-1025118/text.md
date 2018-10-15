@@ -25,7 +25,7 @@
 16° Filip Kets;<br>
 17° Sigrid Lauwers;<br>
 18° Marc Luyckx;<br>
-19° Xavier Marescaux;<br>
+19° ...<br>
 20° Alain Maricou;<br>
 21° Mark Martien;<br>
 22° Stijn Menten;<br>
@@ -60,7 +60,8 @@
 51° Birgit Vermaesen;<br>
 52° Gertjan Droeshout;<br>
 53° Hilke Elsen;<br>
-54° Claire De Winter;</p>
+54° Claire De Winter;<br>
+56° Koen Baert;</p>
 
 ### ART. 2.
 
