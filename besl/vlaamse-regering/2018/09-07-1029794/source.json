@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029794,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 26 juli 2016 tot toekenning van onderbrekingsuitkeringen voor zorgkrediet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029794/VolledigDocument?datum=2018-10-18",
+  "source_sha256": "b31a70318fd378f9f95dc02453c9b8bdff0de8f3f9414c188f4c105a977ca505",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029794&param=informatie",
+  "as_of": "2018-10-18",
+  "made": "2018-09-07",
+  "gazette": "2018-10-08",
+  "numac": 2018014083,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2018-10-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
