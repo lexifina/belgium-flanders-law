@@ -38,13 +38,14 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.
 
 ### BIJLAGE
 
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen voor het jaar 2018</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Verdeling van de waarborg van het Vlaamse Gewest over de kredietmaatschappijen voor het jaar 2018</span></span></span><br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>Erkenningsnr</td>
 			<td>Naam EKM</td>
-			<td>Afgerond naar 1000-tal</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>1</td>
@@ -54,7 +55,7 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.
 		<tr>
 			<td>2</td>
 			<td>Kempische Heerd</td>
-			<td>1 665 000</td>
+			<td>2 653 000</td>
 		</tr>
 		<tr>
 			<td>3</td>
@@ -69,12 +70,7 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.
 		<tr>
 			<td>5</td>
 			<td>Elk Zijn Huis</td>
-			<td>3 684 000</td>
-		</tr>
-		<tr>
-			<td>7</td>
-			<td>Klein eigenaarskrediet</td>
-			<td>988 000</td>
+			<td>7 684 000</td>
 		</tr>
 		<tr>
 			<td>11</td>
@@ -103,18 +99,13 @@ Dit besluit treedt in werking op de datum van ondertekening ervan.
 		</tr>
 		<tr>
 			<td>26</td>
-			<td>Vennootschap voor Sociaal Woonkrediet Eigen Huis</td>
-			<td>2 791 000</td>
+			<td>Hypostart</td>
+			<td>4 473 000</td>
 		</tr>
 		<tr>
 			<td>30</td>
 			<td>Ons eigen Huis</td>
 			<td>1 048 000</td>
-		</tr>
-		<tr>
-			<td>33</td>
-			<td>Eigen Heerd Is Goud Weerd</td>
-			<td>1 682 000</td>
 		</tr>
 		<tr>
 			<td>40</td>

@@ -2,16 +2,16 @@
   "codex_id": 1029612,
   "title": "Ministerieel besluit van 2018-07-16 betreffende de verdeling van de Gewestwaarborg toegestaan in de periode van 1 juli 2018 tot 31 december 2018 aan de erkende kredietmaatschappijen voor de aflossing van de hoofdsom en de interesten van de kredieten bestemd voor de financiering van sociale leningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029612/VolledigDocument?datum=2018-07-16",
-  "source_sha256": "f20d831071de509917e2c70835ec14dd0193fa14f7df16c57a8f68eb8e88c07a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029612/VolledigDocument?datum=2018-10-18",
+  "source_sha256": "b27dcdcc8503e3e01fc02e8f00fc03989940395dcc50d363a5e1772361c50250",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029612&param=informatie",
-  "as_of": "2018-07-16",
+  "as_of": "2018-10-18",
   "made": "2018-07-16",
   "gazette": "2018-08-06",
   "numac": 2018031613,
   "document_start": "2018-07-16",
   "document_end": null,
-  "in_force": "2018-07-16",
+  "in_force": "2018-10-18",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2018-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-10-18; future article versions excluded; article text as the API gives it"
 }
