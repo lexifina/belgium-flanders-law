@@ -283,3 +283,7 @@ Het subsidiebedrag vermeld in artikel 8, wordt in het kader van de interne   sta
 ### ART. 17.
 
 <P>Aan de partnerorganisatie `Foton', actief in de zorgregio's Brugge en   Oostende, wordt een bedrag van 125.000 euro (hondervijfentwintigduizend euro)   boven op het subsidiebedrag, vermeld in artikel 8 van deze bijlage, toegekend   voor de verderzetting en borging van de opgebouwde expertise en werking van   thuisbegeleiding dementie met dementieconsulenten.<BR></P>  <P>Telkens als het bedrag, vermeld in artikel 8 wordt verhoogd met een   substantieel subsidiebedrag, wordt het aanvullende subsidiebedrag toegekend aan   de partnerorganisatie, actief in de zorgregio Brugge en Oostende, verminderd met   dat bedrag tot de subsidiebedragen van alle regionale expertisecentra dementie   gelijk zijn.<BR></P>
+
+### ART 18.
+
+Het erkend regionaal expertisecentrum dementie Memo, actief in de zorgregio Leuven, wordt jaarlijks een bedrag van 65.000,00 euro (vijfenzestigduizend euro) toegekend boven het subsidiebedrag vermeld in artikel 8 van deze bijlage, voor de verderzetting van de ontwikkeling van de proeftuin `Zorgcirkels jongdementie' en de uitvoering van de voortrekkersrol ervan in Vlaanderen. Dit bedrag wordt, binnen de beschikbare begrotingskredieten jaarlijks geïndexeerd.
