@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029881,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-19 houdende wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, wat betreft de vaststelling van de startdatum en verlenging van een civiele noodsituatie bij dreigend energietekort",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029881/VolledigDocument?datum=2018-10-19",
+  "source_sha256": "881f62b1610b9599d1609026ce2f46c33f7eb34919f93736572166c946dcbb02",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029881&param=informatie",
+  "as_of": "2018-10-19",
+  "made": "2018-10-19",
+  "gazette": "2018-10-31",
+  "numac": 2018032103,
+  "document_start": "2018-10-19",
+  "document_end": null,
+  "in_force": "2018-10-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
