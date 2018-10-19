@@ -331,6 +331,10 @@ De Vlaamse minister, bevoegd voor de huisvesting, heeft delegatie om het Vlaams 
 
 De Vlaamse minister, bevoegd voor de economie, het wetenschapsbeleid en het technologisch innovatiebeleid, heeft delegatie om in het kader van de opdracht van het Fonds Flankerend Economisch en Innovatiebeleid uitgaven tot 500.000 euro aan te gaan die passen in het sociale, economische en regionale beleid van de Vlaamse Regering.
 
+### ART 13/5.
+
+De Vlaamse minister, bevoegd voor het energiebeleid, heeft delegatie om te beslissen over de startdatum en de verlenging van de civiele noodsituatie, vermeld in artikel 4, eerste lid, 2° en 3°, van het decreet van 17 oktober 2018 houdende afwijkingen op de gewestelijke vergunningsplicht in geval van civiele noodsituatie.
+
 ## HOOFDSTUK 3 Algemene bepalingen
 
 ### ART. 14.
