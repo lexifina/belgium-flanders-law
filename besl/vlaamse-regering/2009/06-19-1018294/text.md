@@ -158,6 +158,10 @@ Het Besluit van de Vlaamse Regering van 6 juli 1994 tot vaststelling van de tota
 
 Voor de dossiers die vallen onder het toepassingsgebied van het Besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden waarvoor de subsidiebelofte werd gegeven voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen die van toepassing waren voor de inwerkingtreding van dit besluit.<br /><br />Voor de dossiers die vallen onder het toepassingsgebied van het Besluit van de Vlaamse Regering van 1 september 2006 tot regeling van de alternatieve investeringssubsidies verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden waarvoor geen eerste gebruikstoelage werd vastgelegd voor de datum van de inwerkingtreding van dit besluit, gelden de bepalingen van dit besluit.
 
+### ART 30/1.
+
+Dit besluit geldt niet voor voorzieningen die onder het toepassingsgebied vallen van het besluit van de Vlaamse Regering van 22 juni 2018 tot regeling van het infrastructuurforfait binnen de persoonsvolgende financiering voor personen met een handicap, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden.
+
 ### ART. 31.
 
 Dit besluit treedt in werking op 1 juli 2009.
