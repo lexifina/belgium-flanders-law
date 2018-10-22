@@ -219,16 +219,16 @@
 	</tbody>
 </table>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>§ 2. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2018 overgedragen naar het begrotingsjaar 2019 voor onderstaande begrotingsartikelen en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2019.</span></span></span>
-
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>§ 2. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet op 31 december 2018 overgedragen naar het begrotingsjaar 2019 voor onderstaande begrotingsartikelen en samengevoegd met de overeenstemmende kredieten voor het begrotingsjaar 2019.</span></span></span><br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
 			<td>BEGROTINGSARTIKEL</td>
 		</tr>
 		<tr>
-			<td>PROVISIONEEL KREDIET VOOR UITGAVEN TE FINANCIEREN DOOR MIDDEL VAN DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (ARTIKEL 62 BIS VAN DE B.F.W. VAN 16 JANUARI 1989, ZOALS INGEVOEGD VIA DE B.W. VAN 13 JULI 2001)</td>
+			<td>PROVISIONEEL KREDIET VOOR UITGAVEN TE FINANCIEREN D.M.V. DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (ARTIKEL 62BIS VAN DE B.F.W. VAN 16.01.1989, ZOALS INGEVOEGD VIA DE B.W. VAN 13.07.2001)</td>
 			<td>CB0-1CBB2AB-PR</td>
 		</tr>
 		<tr>
@@ -244,7 +244,7 @@
 			<td>CB0-1CBX2AC-PR</td>
 		</tr>
 		<tr>
-			<td>PROVISIE VOOR INVESTERINGEN IN HET KADER VAN HET ACTIEPLAN ENERGIE-EFFICI"NTIE</td>
+			<td>PROVISIE VOOR INVESTERINGEN IN HET KADER VAN HET ACTIEPLAN ENERGIE-EFFICIENTIE</td>
 			<td>CB0-1CBX2AC-PR</td>
 		</tr>
 		<tr>
@@ -264,7 +264,7 @@
 			<td>CB0-1CDB2DC-WT</td>
 		</tr>
 		<tr>
-			<td>VOOR HET NEMEN VAN PARTICIPATIES IN PMV (ONDER ANDERE ZAAIKAPITAALFONDS VLAANDEREN MEDISCH CENTRUM) (PRO MEMORIE)</td>
+			<td>VOOR HET NEMEN VAN PARTICIPATIES IN PMV (OA ZAAIKAPITAALFONDS VLAANDEREN MEDISCH CENTRUM) (PRO MEMORIE)</td>
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
@@ -276,7 +276,7 @@
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
-			<td>KREDIETVERLENINGEN AAN EN DEELNEMINGEN IN BEDRIJVEN EN FINANCI"LE INSTELLINGEN EN ANDERE FINANCI"LE PRODUCTEN - NIET VERDEELD</td>
+			<td>KREDIETVERLENINGEN AAN EN DEELNEMINGEN IN BEDRIJVEN EN FINANCIELE INSTELLINGEN EN ANDERE FINANCIELE PRODUCTEN - NIET VERDEELD</td>
 			<td>CB0-1CEX2BA-PA</td>
 		</tr>
 		<tr>
@@ -336,11 +336,15 @@
 			<td>MB0-1MHF5AY-IS</td>
 		</tr>
 		<tr>
-			<td>TERUGBETALING AAN NEDERLAND VAN DE DOOR DEZE STAAT GEDANE INVESTERINGSUITGAVEN MET BETREKKING TOT DE WESTERSCHELDE EN HET ZEEKANAAL GENT-TERNEUZEN (PRO MEMORIE)</td>
+			<td>TERUGBETALING AAN NEDERLAND VAN DE DOOR DEZE STAAT GEDANE INVESTERINGSUITGAVEN M.B.T. DE WESTERSCHELDE EN HET ZEEKANAAL GENT-TERNEUZEN</td>
 			<td>MB0-1MIF2AH-WT</td>
 		</tr>
 		<tr>
 			<td>INVESTERINGEN IN HET KADER VAN DE LUCHTHAVENS</td>
+			<td>MBU-3MFF2AI-WT</td>
+		</tr>
+		<tr>
+			<td>INSPELEN OP INVESTERINGSOPPORTUNITEITEN (overdracht beperkt tot maximaal 10 miljoen euro)</td>
 			<td>MBU-3MFF2AI-WT</td>
 		</tr>
 		<tr>
@@ -453,12 +457,11 @@
 	</tbody>
 </table>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>§ 4. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet onder het begrotingsartikel MB0-1MFX2AG-PR op 31 december 2018 overgedragen naar het begrotingsjaar 2019.</span></span></span><br>
+§ 4. In afwijking van de bepalingen van artikel 13, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt het onbelast kredietsaldo in vastleggingskrediet onder het begrotingsartikel MB0-1MFX2AG-PR op 31 december 2018 overgedragen naar het begrotingsjaar 2019.<br>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Indien de ESR-aanrekenbare ontvangst per 31 december 2018 op het begrotingsartikel CE0-9CDBADD-OW minder bedraagt dan 440.034.000 euro, wordt het over te dragen vastleggingskrediet verminderd met het verschil tussen de totale ESR-aanrekenbare ontvangst per 31 december 2018 op het begrotingsartikel CE0-9CDBADD-OW en 440.034.000 euro.</span></span></span><br>
+Indien de ESR-aanrekenbare ontvangst per 31 december 2018 op het begrotingsartikel CE0-9CDBADD-OW minder bedraagt dan 444.267.000 euro, wordt het over te dragen vastleggingskrediet verminderd met het verschil tussen de totale ESR-aanrekenbare ontvangst per 31 december 2018 op het begrotingsartikel CE0-9CDBADD-OW en 444.267.000 euro.<br>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Deze vermindering in over te dragen vastleggingskrediet wordt beperkt tot maximaal 32.106.000 euro.</span></span></span><br>
-&nbsp;
+Deze vermindering in over te dragen vastleggingskrediet wordt beperkt tot maximaal 42.867.000 euro.
 
 ## OVERDRACHTEN MACHTIGING VLAAMSE RECHTSPERSONEN
 
@@ -505,13 +508,13 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 ### ART 17.
 
 <span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>§ 1. Binnen de perken van het betrokken begrotingsartikel kunnen volgende subsidies worden toegekend :</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<table border="1">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
 			<td>BEGROTINGSARTIKEL</td>
-			<td>VAK (BEGROTINGS-<br>
-			ARTIKEL)</td>
+			<td>VAK<br>
+			(BEGROTINGSARTIKEL)</td>
 		</tr>
 		<tr>
 			<td>VOOR BELEIDSRELEVANT ONDERZOEK</td>
@@ -519,12 +522,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>TOT DEKKING VAN HET AANDEEL IN DE INTRESTLASTEN VAN LENINGEN AANGEGAAN BIJ FORTIS BANK VOORTSPRUITEND UIT DE WAARBORG BETREFFENDE DE SCHULDVORDER. WAARVAN SPRAKE IN ARTIKEL 6BIS, VAN DE WET VAN 23 DECEMBER 1963 OP DE ZIEKEN-HUIZEN (SECTOR 58.10)</td>
+			<td>TOT DEKKING VAN HET AANDEEL IN DE INTRESTLASTEN VAN LENINGEN AANGEGAAN BIJ FORTIS BANK VOORTSPRUITEND UIT DE WAARBORG BETREFFENDE DE SCHULDVORDER. WAARVAN SPRAKE IN ARTIKEL 6BIS, VAN DE WET VAN 23.12.1963 OP DE ZIEKENHUIZEN (SECTOR 58.10)</td>
 			<td>CB0-1CEB2BA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>COÖRDINATIESTRUCTUUR VOOR PATRIMONIUMDOCUMENTATIE</td>
+			<td>COORDINATIESTRUCTUUR VOOR PATRIMONIUMDOCUMENTATIE</td>
 			<td>CE0-1CDB2DE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -544,12 +547,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>HET FLANDERS CENTER (OSAKA-JAPAN)</td>
-			<td>DB0-1DDA2AC-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>HET VLAAMS HUIS IN NEW YORK</td>
+			<td>ARTS FLANDERS JAPAN</td>
 			<td>DB0-1DDA2AC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -561,11 +559,6 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		<tr>
 			<td>SUBSIDIES AAN PERSONEN VOOR STAGES BIJ INTERNATIONALE ORGANISATIES</td>
 			<td>DB0-1DDA2AD-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>DE GEMENGDE COMMISSIE VLAANDEREN-NEDERLAND TER UITVOERING VAN HET VERDRAG VAN 17 JANUARI 1995 INZAKE DE SAMENWERKING OP HET GEBIED VAN CULTUUR, ONDERWIJS, WETENSCHAPPEN EN WELZIJN</td>
-			<td>DB0-1DDA2AE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -584,7 +577,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PROVINCIE WEST-VLAANDEREN IN VERBAND MET DE AANSTELLING VAN EEN COORDINATOR VAN DE GRENSOVERSCHRIJDENDE EN INTERREGIONALE SAMENWERKING TUSSEN VLAANDEREN EN NOORD-FRANKRIJK</td>
+			<td>SUBSIDIES I.K.V. GRENSOVERSCHRIJDENDE SAMENWERKING MET DE BUURLANDEN</td>
 			<td>DB0-1DDA2AE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -594,7 +587,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>HET VLAAMS - EUROPEES VERBINDINGSAGENTSCHAP (VZW)</td>
+			<td>HET VLAAMS-EUROPEES VERBINDINGSAGENTSCHAP (VZW)</td>
 			<td>DB0-1DDA2AX-IS</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -719,6 +712,11 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>DOMEINSPECIFIEK FUNDAMENTEEL ONDERZOEK - ALAMIRE FOUNDATION</td>
+			<td>EB0-1EEG2HA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>BEVORDERING VAN DE VLAAMSE INFORMATIEMAATSCHAPPIJ IN HET KADER VAN DE LISSABONSTRATEGIE</td>
 			<td>EB0-1EEG2JA-WT</td>
 			<td>&nbsp;</td>
@@ -819,7 +817,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN DE VZW DIESLEKTIKUS VOOR DE WERKING VAN ADIBIB VLAANDEREN</td>
+			<td>AAN DE VZW DIESLEKTIKUS VOOR DE WERKING VAN ADIBIB VLAANDEREN EN VOORLEESSOFTWARE</td>
 			<td>FB0-1FGE2AJ-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -919,11 +917,6 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VZW EPOS SAMENWERKING TUSSEN DE 3 GEMEENSCHAPPEN</td>
-			<td>FB0-1FGE2AO-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
 			<td>SUBSIDIES AAN DE VZW CONNECTIEF</td>
 			<td>FB0-1FGE2AP-WT</td>
 			<td>&nbsp;</td>
@@ -934,7 +927,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VOORBEREIDING VAN EEN GENTEGREERD ONDERWIJS- EN VORMINGSBELEID</td>
+			<td>VOORBEREIDING VAN EEN GEINTEGREERD ONDERWIJS- EN VORMINGSBELEID</td>
 			<td>FB0-1FGE2AP-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1194,12 +1187,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>HET ZORG- EN GEZONDHEIDSBELEID, GEFINANCIERD MET DE NETTOOPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
+			<td>HET ZORG- EN GEZONDHEIDSBELEID, GEFINANCIERD MET DE NETTO-OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ</td>
 			<td>GE0-1GDD2AA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INVESTERINGSSUBSIDIES VOOR OUDERENVOORZIEN INGEN GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
+			<td>INVESTERINGSSUBSIDIES VOOR OUDERENVOORZIENINGEN GEFINANCIERD MET DE NETTO OPBRENGST VAN DE WINST VAN DE NATIONALE LOTERIJ (PRO MEMORIE)</td>
 			<td>GE0-1GDD2AA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1239,7 +1232,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>GENTEGREERDE DIENSTEN THUISZORG (GDT)</td>
+			<td>GEINTEGREERDE DIENSTEN THUISZORG (GDT)</td>
 			<td>GE0-1GDD2AB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1319,18 +1312,13 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SUBSIDIES IN VERBAND MET INFECTIEZIEKTEN EN VACCINATIES</td>
+			<td>ZIEKTEPREVENTIE - INFECTIEZIEKTEN EN VACCINATIES</td>
 			<td>GE0-1GDD2AE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>I.V.A. VLAAMSE MILIEUMAATSCHAPPIJ</td>
 			<td>GE0-1GDD2AW-IS</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>DE VOI VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK</td>
-			<td>GE0-1GDD2AX-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -1354,7 +1342,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>DE ERKENDE EN/OF GESUBSIDIEERDE THUISZORGVOORZIENINGEN EN VERENIGINGEN, DIENSTEN VOOR LOGISTIEKE HULP EN AANVULLENDE THUISZORG (INCLUSIEF ONDERHOUDSKOSTEN -VESTA)</td>
+			<td>DE ERKENDE EN/OF GESUBSIDIEERDE THUISZORGVOORZIENINGEN EN -VERENIGINGEN, DIENSTEN VOOR LOGISTIEKE HULP EN AANVULLENDE THUISZORG (INCL. ONDERHOUDSKOSTEN VESTA)</td>
 			<td>GE0-1GHD2AB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1364,7 +1352,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING VAN PROJECTEN IN DE OUDERENZORG (PRO MEMORIE )</td>
+			<td>ONDERSTEUNING VAN PROJECTEN IN DE OUDERENZORG ( PRO MEMORIE )</td>
 			<td>GE0-1GHD2AB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1446,77 +1434,88 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		<tr>
 			<td>BIJDRAGE AAN DE NEDERLANDSE TAALUNIE</td>
 			<td>HB0-1HCI2AE-WT</td>
-			<td rowspan="8">8.166</td>
+			<td>8.022</td>
 		</tr>
 		<tr>
 			<td>BILATERALE SAMENWERKING</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INTERNATIONALE EN INTERREGIONALE CULTURELE SAMENWERKING</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>PROJECTMATIGE SAMENWERKING TUSSEN VLAAMSE GEMEENSCHAP EN HET PALEIS VOOR SCHONE KUNSTEN</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>STICHTING "DE BRAKKE GROND"</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>STICHTING "DE BRAKKE GROND" VOOR KLEIN ONDERHOUD</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VLAAMS NEDERLANDS HUIS</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW DARNA</td>
 			<td>HB0-1HCI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>TRANSITIENETWERK CULTUUR PULSE</td>
 			<td>HB0-1HCI2AH-WT</td>
-			<td rowspan="2">1.537</td>
+			<td>1.639</td>
 		</tr>
 		<tr>
 			<td>WETENSCHAPPELIJKE STEUNPUNTEN EN JEUGDONDERZOEKSPLATFORM</td>
 			<td>HB0-1HCI2AH-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>REGULARISATIE GESCO'S</td>
 			<td>HB0-1HCI2AJ-WT</td>
-			<td>1.661</td>
+			<td>1.620</td>
 		</tr>
 		<tr>
 			<td>DE BEGUNSTIGDEN GESUBSIDIEERD IN HET KADER VAN DE EX-PROVINCIALE BEVOEGDHEDEN</td>
 			<td>HB0-1HCI2AL-WT<br>
 			HB0-1HCI2AN-WT</td>
-			<td>9.775</td>
+			<td>8.674</td>
 		</tr>
 		<tr>
 			<td>VZW PROSPEKTA</td>
 			<td>HB0-1HCI2AN-WT</td>
-			<td rowspan="2">6.417</td>
+			<td>5.316</td>
 		</tr>
 		<tr>
 			<td>VZW KLEIN VERHAAL</td>
 			<td>HB0-1HCI2AN-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ARCHEOLOGISCH MUSEUM ENAME</td>
 			<td>HB0-1HCI2AO-WT</td>
-			<td rowspan="3">4.200</td>
+			<td>4.208</td>
 		</tr>
 		<tr>
 			<td>ARCHEOLOGISCH MUSEUM VELZEKE</td>
 			<td>HB0-1HCI2AO-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>MOLENMUSEUM WACHTEBEKE</td>
 			<td>HB0-1HCI2AO-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>TOEKENNING VAN PRIJZEN VAN DE VLAAMSE GEMEENSCHAP</td>
@@ -1526,47 +1525,57 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		<tr>
 			<td>UITVOERING VAN DE VLAAMSE INTERSECTORALE AKKOORDEN (PC329.1)</td>
 			<td>HB0-1HCX2AF-WT</td>
-			<td rowspan="2">31.883</td>
+			<td>32.009</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN HET VLAAMS INTERSECTORAAL AKKOORD VIA4 - KUNSTEN (PC304)</td>
 			<td>HB0-1HCX2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VLAAMS HUIS VOOR AMATEURKUNSTEN</td>
 			<td>HB0-1HDI2AB-WT</td>
-			<td>8.548</td>
+			<td>8.648</td>
 		</tr>
 		<tr>
 			<td>ETNISCH CULTURELE FEDERATIES</td>
 			<td>HB0-1HDI2AC-WT</td>
-			<td rowspan="2">59.607</td>
+			<td>60.005</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR SOCIAAL CULTUREEL WERK (PRO MEMORIE)</td>
 			<td>HB0-1HDI2AC-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>EXPERTISECENTRUM VOOR ISLAMITISCHE CULTUREN IN VLAANDEREN</td>
 			<td>HB0-1HDI2AE-WT</td>
-			<td rowspan="4">7.659</td>
+			<td>8.651</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR ALGEMEEN CULTUURBELEID</td>
 			<td>HB0-1HDI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR HET PARTICIPATIEBELEID</td>
 			<td>HB0-1HDI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VLAAMSE VRIJETIJDSPAS</td>
 			<td>HB0-1HDI2AE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>VRIJWILLIGERSBELEID</td>
+			<td>HB0-1HDI2AE-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>CULTUURCONNECT</td>
 			<td>HB0-1HDI2AH-WT</td>
-			<td>19.133</td>
+			<td>19.206</td>
 		</tr>
 		<tr>
 			<td>VZW VITAMINE C</td>
@@ -1576,28 +1585,37 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		<tr>
 			<td>VZW DE RAND VOOR DE WERKING VAN HET MUSEUM FELIX DE BOECK</td>
 			<td>HB0-1HEI2AA-WT</td>
-			<td>1.421</td>
+			<td>2.033</td>
+		</tr>
+		<tr>
+			<td>PROJECT VLAAMSE MEESTERS</td>
+			<td>HB0-1HEI2AB-WT</td>
+			<td>5.193</td>
 		</tr>
 		<tr>
 			<td>STAD MECHELEN - CONVENANT ERFGOED</td>
 			<td>HB0-1HEI2AC-WT</td>
-			<td rowspan="5">34.874</td>
+			<td>34.643</td>
 		</tr>
 		<tr>
 			<td>STUDIECENTRUM VOOR VLAAMSE MUZIEK VZW</td>
 			<td>HB0-1HEI2AC-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW CENTRUM AGRARISCHE GESCHIEDENIS</td>
 			<td>HB0-1HEI2AC-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW VLAAMS ARCHITECTUURINSTITUUT</td>
 			<td>HB0-1HEI2AC-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>STAD ANTWERPEN (BEHEERDER VAN HET LETTERHUIS)</td>
 			<td>HB0-1HEI2AC-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES VOOR INTERNATIONAAL KUNSTENBELEID</td>
@@ -1607,121 +1625,142 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		<tr>
 			<td>DIVERSE BRUSSELSE PODIA</td>
 			<td>HB0-1HEI2AF-WT</td>
-			<td rowspan="10">4.938</td>
+			<td>4.154</td>
 		</tr>
 		<tr>
 			<td>HET KUNSTENLOKET</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW FLAGEY</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SOCIAAL PASSIEF INTERCOMMUNALE MAATSCHAPPIJ VOOR OPERA VOOR VLAANDEREN (OVV)</td>
+			<td>SOCIAAL PASSIEF INTERCOMMUNALE MAATSCHAPPIJ OPERA VOOR VLAANDEREN (OVV)</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>SPREIDING VAN KUNSTWERKEN</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VERBETEREN ARBEIDSOMSTANDIGHEDEN KUNSTE-NAARS-WERKNEMERS</td>
+			<td>VERBETEREN ARBEIDSOMSTANDIGHEDEN KUNSTENAARS-WERKNEMERS</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW CENTRUM VOOR DE BIBLIOGRAFIE VAN DE NEERLANDISTIEK</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW CONCERTGEBOUW BRUGGE</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW STICHTING ONS ERFDEEL</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW THEATER STAP</td>
 			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>STUDIO ANTWERPEN</td>
+			<td>HB0-1HEI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET VOOR KUNSTEN</td>
 			<td>HB0-1HEI2AG-WT</td>
-			<td>10.206</td>
+			<td>10.366</td>
 		</tr>
 		<tr>
 			<td>VZW DE SINGEL BEHEERSCOMMISSIE INFRASTRUCTUUR</td>
 			<td>HB0-1HEI2AN-IS</td>
-			<td>2.270</td>
+			<td>2.278</td>
 		</tr>
 		<tr>
 			<td>VLAAMSE OPERA DEELS GEFINANCIERD IN UITVOERING VAN ARTIKEL 62BIS FINANCIERINGSWET</td>
 			<td>HB0-1HEI2AW-IS</td>
-			<td>24.714</td>
+			<td>24.799</td>
 		</tr>
 		<tr>
 			<td>DEELNAME AAN EURIMAGES</td>
 			<td>HB0-1HEI2BA-WT</td>
-			<td rowspan="2">799</td>
+			<td>849</td>
 		</tr>
 		<tr>
 			<td>DEELNAME AAN HET EUROPEES AUDIOVISUEEL OBSERVATORIUM</td>
 			<td>HB0-1HEI2BA-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>HET KUNSTENLOKET EN ZIJN RECHTSOPVOLGER</td>
 			<td>HB0-1HEI2BB-WT</td>
-			<td>3.115</td>
+			<td>4.339</td>
 		</tr>
 		<tr>
 			<td>VLAAMS INSTITUUT VOOR ARCHIVERING</td>
 			<td>HB0-1HEI2BC-WT</td>
-			<td>4.520</td>
+			<td>4.586</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES AAN JOP VOOR UITVOEREN SCHOOLMONITOR</td>
 			<td>HB0-1HGI2AA-WT</td>
-			<td rowspan="2">902</td>
+			<td>872</td>
 		</tr>
 		<tr>
 			<td>VZW BEDEVAART NAAR DE GRAVEN AAN DE IJZER</td>
 			<td>HB0-1HGI2AA-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>COFINANCIERING PROJECTEN TAALSIMULERING VIA HET JEUGDWERK</td>
 			<td>HB0-1HGI2AB-WT</td>
-			<td rowspan="6">460</td>
+			<td>460</td>
 		</tr>
 		<tr>
 			<td>EUROPEES JEUGDORKEST</td>
 			<td>HB0-1HGI2AB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>EUROPEES MUZIEKFESTIVAL VOOR DE JEUGD TE NEERPELT</td>
 			<td>HB0-1HGI2AB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>INTERNATIONALE JEUGDSAMENWERKING ZUID-AFRIKA</td>
 			<td>HB0-1HGI2AB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>PROJECTOPROEP IN HET KADER VAN DE PREVENTIE VAN RADICALISERING</td>
 			<td>HB0-1HGI2AB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW MAGIK?</td>
 			<td>HB0-1HGI2AB-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VZW VILLANELLA</td>
-			<td>HB0-1HGI2AC-WT</td>
-			<td>37.003</td>
+			<td>GEMEENTE WEMMEL</td>
+			<td>HB0-1HGI2AF-WT</td>
+			<td>1.216</td>
 		</tr>
 		<tr>
 			<td>DE BEGUNSTIGDEN GESUBSIDIEERD IN HET KADER VAN DE EX-PROVINCIALE JEUGDBEVOEGDHEDEN</td>
 			<td>HB0-1HGI2AI-WT</td>
-			<td>3.308</td>
+			<td>2.876</td>
 		</tr>
 		<tr>
 			<td>SUBSIDIES VOOR PROJECTEN MEDIAWIJSHEID EN HET MEDIA-EDUCATIEPROJECT NIEUWSMEDIA IN DE KLAS</td>
@@ -1729,27 +1768,29 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>1.684</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING VAN ALLERHANDE MEDIAINITIATIEVEN IN HET BINNENLAND</td>
+			<td>ONDERSTEUNING VAN ALLERHANDE MEDIA-INITIATIEVEN IN HET BINNENLAND</td>
 			<td>HB0-1HHI2AC-WT</td>
-			<td>404</td>
+			<td>554</td>
 		</tr>
 		<tr>
 			<td>OPLEIDINGSSTEUN TER BEVORDERING VAN EEN DIVERS EN KWALITEITSVOL AANBOD IN EEN DUURZAAM EN PLURIFORM VLAAMS MEDIALANDSCHAP</td>
 			<td>HB0-1HHI2AF-WT</td>
-			<td rowspan="3">1.658</td>
+			<td>2.008</td>
 		</tr>
 		<tr>
 			<td>VLAAMSE VERENIGING VAN BEROEPSJOURNALISTEN</td>
 			<td>HB0-1HHI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VZW JOURNALISMFUND.EU</td>
 			<td>HB0-1HHI2AF-WT</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>ONDERSTEUNING REGIONALE TELEVISIE-INITIATIEVEN</td>
 			<td>HB0-1HHI2AG-WT</td>
-			<td>1.876</td>
+			<td>1.896</td>
 		</tr>
 		<tr>
 			<td>STICHTING HET BESTE VAN VLAANDEREN EN NEDERLAND</td>
@@ -1757,7 +1798,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>1.635</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN IN HET KADER VAN INTERNATIONALE ONTWIKKELINGSSAMEN-WERKING</td>
+			<td>UITGAVEN IN HET KADER VAN INTERNATIONALE ONTWIKKELINGSSAMENWERKING</td>
 			<td>JB0-1JDG2AA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1787,7 +1828,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN VOOR ERSV'S TER COÖRDINATIE VAN HET SOCIO-ECONOMISCH STREEKONTWIKKELINGSBELEID EN TER FINANCIERING VAN DE PROJECTONTWIKKELAARS EAD</td>
+			<td>UITGAVEN VOOR ERSV'S TER COORDINATIE VAN HET SOCIO-ECONOMISCH STREEKONTWIKKELINGSBELEID EN TER FINANCIERING VAN DE PROJECTONTWIKKELAARS EAD</td>
 			<td>JB0-1JDG2AC-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1892,7 +1933,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>NATIONALE LOTERIJMIDDELEN VOOR -INVESTERINGSUITGAVEN BOUW EN UITRUSTING VAN BESCHUTTE WERKPLAATSEN</td>
+			<td>NATIONALE LOTERIJMIDDELEN VOOR INVESTERINGSUITGAVEN BOUW EN UITRUSTING VAN BESCHUTTE WERKPLAATSEN</td>
 			<td>JB0-1JEC2CA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1902,12 +1943,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDER-NEMEN BIJ LOKALE OVERHEDEN</td>
+			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN BIJ LOKALE OVERHEDEN</td>
 			<td>JB0-1JEC2CB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAAT-SCHAPPELIJK VERANTWOORD ONDER-NEMEN BIJ VZW'S</td>
+			<td>LOKALE DIENSTENECONOMIE IKV DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN BIJ VZW'S</td>
 			<td>JB0-1JEC2CB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1922,12 +1963,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN : BEHEERSVERGOEDING PARTICIPATIEFONDS VLAANDEREN</td>
+			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN: BEHEERSVERGOEDING PARTICIPATIEFONDS VLAANDEREN</td>
 			<td>JB0-1JEC2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN : BEHEERSVERGOEDING PMV</td>
+			<td>ONDERSTEUNINGSMAATREGELEN VOOR HET ONDERNEMERSCHAP OP HET VLAK VAN DE SOCIALE ECONOMIE EN HET MAATSCHAPPELIJK VERANTWOORD ONDERNEMEN: BEHEERSVERGOEDING PMV</td>
 			<td>JB0-1JEC2GA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1947,7 +1988,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN VOOR INTELLECTUELE, MORELE EN SOCIALE VORMING EN -SOCIALE PROMOTIE VOOR WERKNEMERS</td>
+			<td>VOOR DE BETALING VAN DE VLAAMSE COFINANCIERING IN HET KADER VAN HET OPERATIONEEL PROGRAMMA 2014-2020 UIT TE KEREN VIA DE AFDELING ESF EN DUURZAAM ONDERNEMEN VAN HET DEPARTEMENT WERK EN SOCIALE ECONOMIE</td>
+			<td>JB0-1JEC2GA-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>UITGAVEN VOOR INTELLECTUELE, MORELE EN SOCIALE VORMING EN SOCIALE PROMOTIE VOOR WERKNEMERS</td>
 			<td>JB0-1JFG2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2037,7 +2083,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>FONDS VOOR SCHEEPSJONGEREN</td>
+			<td>FONDS VOOR SCHEEPSJONGENS</td>
 			<td>KB0-1KDH2DT-IS</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2072,7 +2118,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>EVA VLAAMS PROMOTIE-CENTRUM VOOR AGRO EN VISSERIJMARKETING (VLAM)</td>
+			<td>EVA VLAAMS PROMOTIE-CENTRUM VOOR AGRO- EN VISSERIJMARKETING (VLAM)</td>
 			<td>KB0-1KGH2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2117,7 +2163,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>MAATSCHAPPIJ VOOR HET HAVEN-, GROND- EN INDUSTRIALISATIEBELEID VOOR HET LINKERSCHELDEOEVER-GEBIED</td>
+			<td>MAATSCHAPPIJ VOOR HET HAVEN-, GROND- EN INDUSTRIALISATIEBELEID VOOR HET LINKERSCHELDEOEVERGEBIED</td>
 			<td>MB0-1MEF2AA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2127,7 +2173,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VZW CENTRUM VOOR POSITIEVE AANWENDING/TAXISTOP</td>
+			<td>VZW CENTRUM VOOR POSITIEVE AANWENDING/ TAXISTOP</td>
 			<td>MB0-1MEF2AA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2142,7 +2188,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BELGISCH INSTITUUT VOOR DE VERKEERSVEILIGHEID VZW - CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIG-AANPASSING (CARA)</td>
+			<td>VIAS INSTITUTE - CENTRUM VOOR RIJGESCHIKTHEID EN VOERTUIGAANPASSING (CARA)</td>
 			<td>MB0-1MFF4AB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2158,6 +2204,21 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 		</tr>
 		<tr>
 			<td>VLAAMS INSTITUUT VOOR DE LOGISTIEK</td>
+			<td>MB0-1MIF2AE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>KENNISCENTRUM BINNENVAART VLAANDEREN</td>
+			<td>MB0-1MIF2AE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>HINTERLANDCONNECTIVITEIT</td>
+			<td>MB0-1MIF2AE-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>EIGEN VERMOGEN FLANDERS HYDRAULICS</td>
 			<td>MB0-1MIF2AE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2242,7 +2303,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN HOLIBIFOON VZW</td>
+			<td>AAN HOLEBIFOON VZW</td>
 			<td>PJ0-1PFC2CA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2277,7 +2338,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN BR(IK - ALLES VOOR STADSSTUDENTEN VZW</td>
+			<td>AAN BRIK - STUDENT IN BRUSSEL</td>
 			<td>PJ0-1PGI2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2292,7 +2353,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN DE VLAAMSE GEMEENSCHAPSCOMMISSIE IN BRUSSEL VOOR DE ONDERSTEUNING VAN DE BREDE SCHOOL IN BRUSSEL</td>
+			<td>AAN DE VLAAMSE GEMEENSCHAPSCOMISSIE IN BRUSSEL VOOR DE ONDERSTEUNING VAN DE BREDE SCHOOL IN BRUSSEL</td>
 			<td>PJ0-1PGI2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2307,7 +2368,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>AAN KENNISCENTRUM WELZIJN, WONEN EN ZORG VZW</td>
+			<td>AAN KENNISCENTRUM WELZIJN, WONEN, ZORG VZW</td>
 			<td>PJ0-1PGI2EB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2382,7 +2443,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PRIJS THUIS IN DE STAD/SLIM IN DE STAD</td>
+			<td>SLIM IN DE STAD SUBSIDIE</td>
 			<td>PJ0-1PMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2392,17 +2453,17 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE - VILVOORDE AANDEEL DILBEEK</td>
+			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE-VILVOORDE AANDEEL DILBEEK</td>
 			<td>PJ0-1PMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE - VILVOORDE AANDEEL HALLE</td>
+			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE-VILVOORDE AANDEEL HALLE</td>
 			<td>PJ0-1PMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE-VILVOORDE AANDEEL VIL-VOORDE</td>
+			<td>SPECIFIEKE BIJDRAGEN VOOR VERSTEDELIJKTE KERNEN ARRONDISSEMENT HALLE-VILVOORDE AANDEEL VILVOORDE</td>
 			<td>PJ0-1PMC2HA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2422,7 +2483,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>DATABANK ONDERGROND VLAANDEREN, VLAAMSE GEOTHEEK, BODEMBESCHERMING EN NATUURLIJKE RIJKDOMMEN (INCLUSIEF UITGAVEN EU COFINANCIERING)</td>
+			<td>DATABANK ONDERGROND VLAANDEREN, VLAAMSE GEOTHEEK, BODEMBESCHERMING EN NATUURLIJKE RIJKDOMMEN (INCL. UITGAVEN EU COFINANCIERING)</td>
 			<td>QB0-1QCH2EA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2462,6 +2523,11 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>ONDERSTEUNING GSA EN LOKALE RUIMTELIJKE PROJECTEN</td>
+			<td>QB0-1QCH2ND-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td>PROJECTEN TER VERSTERKING VAN DE LOKALE HANDHAVING</td>
 			<td>QB0-1QCH2ND-WT</td>
 			<td>&nbsp;</td>
@@ -2477,7 +2543,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BIJDRAGEN VERDRAGEN EN SAMEN-WERKINGSAKKOORDEN</td>
+			<td>BIJDRAGEN VERDRAGEN EN SAMENWERKINGSAKKOORDEN</td>
 			<td>QB0-1QCH2OB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2507,7 +2573,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BIJDRAGEN VERDRAGEN EN SAMEN-WERKINGSAKKOORDEN</td>
+			<td>BIJDRAGEN VERDRAGEN EN SAMENWERKINGSAKKOORDEN</td>
 			<td>QB0-1QEB2KA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2527,17 +2593,17 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BELEID DIERENWELZIJN (VLAAMS DIEREN-WELZIJNFONDS)</td>
+			<td>BELEID DIERENWELZIJN (VLAAMS DIERENWELZIJNFONDS)</td>
 			<td>QB0-1QFF4MB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING LAGERE OVERHEDEN EN VERENIGINGEN OPENBAAR BELANG VOOR WERKZAAMHEDEN EN ANDERE INITIATIEVEN IN UITVOERING VAN BOS-DECREET EN PROJECTEN TER VERGROENING VAN DE STAD</td>
+			<td>ONDERSTEUNING LAGERE OVERHEDEN EN VERENIGINGEN OPENBAAR BELANG VOOR WERKZAAMHEDEN EN ANDERE INITIATIEVEN I.U.V. BOSDECREET EN PROJECTEN TER VERGROENING VAN DE STAD</td>
 			<td>QD0-1QCH2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>ONDERSTEUNING MAATSCHAPPIJEN EN VERENIGINGEN VOOR BEVORDERING VAN NATUURBEHEER, GEBRUIK EN RECREATIE IN BUITENGEBIED</td>
+			<td>ONDERSTEUNING MAATSCHAPPIJEN EN VERENIGINGEN VOOR BEVORDERING VAN NATUURBEHEER, -GEBRUIK EN -RECREATIE IN BUITENGEBIED</td>
 			<td>QD0-1QCH2FA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2572,7 +2638,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING)</td>
+			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU-COFINANCIERING)</td>
 			<td>QE0-1QEB2KA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2597,7 +2663,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU COFINANCIERING)</td>
+			<td>INITIATIEVEN DIE HET INTERNATIONALE, FEDERALE, EN REGIONALE ENERGIEBELEID ONDERSTEUNEN (INCLUSIEF UITGAVEN MET EU-COFINANCIERING)</td>
 			<td>QE0-1QEB2KB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2607,7 +2673,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>REG-DEMONSTRATIEPROJECTEN, ONTWIKKELING NIEUWE MATERIALEN, PROCEDES OF PRODUCTEN, INCLUSIEF COMMERCIALISERING</td>
+			<td>REG-DEMONSTRATIEPROJECTEN, ONTWIKKELING NIEUWE MATERIALEN, PROCEDES OF PRODUCTEN, INCL. COMMERCIALISERING</td>
 			<td>QE0-1QEB2KB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2622,7 +2688,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PROJECTEN ENERGIEBELEID (INCLUSIEF UITGAVEN MET EU COFINANCIERING) (ENERGIEFONDS)</td>
+			<td>PROJECTEN ENERGIEBELEID (INCLUSIEF UITGAVEN MET EU-COFINANCIERING) (ENERGIEFONDS)</td>
 			<td>QE0-1QEB4KE-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2647,22 +2713,17 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>COMPENSATIE MINDER-INKOMSTEN VAN GEMEENTEN VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5 % NAAR 1,6 % OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
+			<td>COMPENSATIE MINDER-INKOMSTEN VAN GEMEENTEN VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5% NAAR 1,6% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
 			<td>QF0-1QDC2QA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>COMPENSATIE MINDER-INKOMSTEN VAN PROVINCIES VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5 % NAAR 1,6 % OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
+			<td>COMPENSATIE MINDER-INKOMSTEN VAN PROVINCIES VOOR DE BIJSTELLING VAN DE ONROERENDE VOORHEFFING VAN 2,5% NAAR 1,6% OP WONINGEN DIE WORDEN VERHUURD AAN SVK'S</td>
 			<td>QF0-1QDC2QA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>GESCO'S VOOR SVK'S EN HUURDERSBONDEN</td>
-			<td>QF0-1QDC2QA-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>VOOR DE ONDERSTEUNING VAN DE WERKING VAN DE EIGENAARSVERENIGINGEN</td>
 			<td>QF0-1QDC2QA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2682,18 +2743,23 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>BOUW EN DE RENOVATIE VAN KOOPWONINGEN IN HET KADER VAN SOCIALE WOONPROJECTEN (UP BESLUIT VAN 18 JULI 2008, HOOFDSTUK III, AFDELING II, ONDERAFDELING IV EN VI)</td>
+			<td>BOUW EN DE RENOVATIE VAN KOOPWONINGEN IN HET KADER VAN SOCIALE WOONPROJECTEN (UP BESLUIT VAN 18/07/2008, HDSTK III, AFD II, ONDERAFD IV EN VI)</td>
 			<td>QF0-1QDC2QK-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>VOOR SHM'S MET HET OOG OP ONDERSTEUNING VAN HUN FINANCI"LE LEEFBAARHEID</td>
+			<td>VOOR SHM'S MET HET OOG OP ONDERSTEUNING VAN HUN FINANCIELE LEEFBAARHEID</td>
 			<td>QF0-1QDC2QK-IS</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>VOOR UITGAVEN MET BETREKKING TOT RATIONEEL ENERGIEGEBRUIK (PRO MEMORIE)</td>
 			<td>QF0-1QDC2QK-IS</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>TEGEMOETKOMINGEN IN HET KADER VAN HET ACTIEPLAN BRANDPREVENTIE</td>
+			<td>QF0-1QDC2RA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -2707,17 +2773,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>UITGAVEN TER UITVOERING VAN HET FONDS VOOR DE HUISVESTING MET INBEGRIP VAN ADL-PROJECTEN, VAN SUBSIDIES VOOR BIJDRAGE TOT VERBETERING VAN DE SOCIALE HUISVESTING EN DE INTERNATIONALE SAMEN-WERKING, VAN ZENDINGSREIZEN VAN DE VL. MIN. (FONDS)</td>
+			<td>UITGAVEN TER UITVOERING VAN HET FONDS VOOR DE HUISVESTING MET INBEGRIP VAN ADL-PROJECTEN, VAN SUBSIDIES VOOR BIJDRAGE TOT VERBETERING VAN DE SOCIALE HUISVESTING EN DE INTERNATIONALE SAMENWERKING, VAN ZENDINGSREIZEN VAN DE VL. MIN. (FONDS)</td>
 			<td>QF0-1QDC4TB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>FONDATION LE CORBUSIER, PARIJS</td>
-			<td>QG0-1QGA2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>CONVENANT PROVINCIE OOST-VLAANDEREN PROVINCIAAL ERFGOEDCENTRUM (PEC) ENAME</td>
 			<td>QG0-1QGA2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2732,11 +2793,6 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PROJECTSUBSIDIE ERFGOEDACADEMIE VZW</td>
-			<td>QG0-1QGA2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
 			<td>PROJECTSUBSIDIE REGIONAAL LANDSCHAP KEMPEN EN MAASLAND BIJDRAGE VOORBEREIDINGSTRAJECT ERKENNING ALS UNESCO WERELDERFGOED VAN DE HOGE KEMPEN EN DE AANGRENZENDE MIJNSITES</td>
 			<td>QG0-1QGA2BB-WT</td>
 			<td>&nbsp;</td>
@@ -2747,17 +2803,12 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>PROJECTSUBSIDIES ONROEREND ERFGOED WO I</td>
-			<td>QG0-1QGA2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>PROJECTSUBSIDIES VZW NATUURPUNT</td>
-			<td>QG0-1QGA2BB-WT</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
 			<td>PROJECTSUBSIDIE EUROPEES JAAR VAN HET ERFGOED</td>
+			<td>QG0-1QGA2BB-WT</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>VZW FORUM VLAAMSE ARCHEOLOGIE</td>
 			<td>QG0-1QGA2BB-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2797,7 +2848,7 @@ Het onbelast kredietsaldo op de vastleggingsmachtiging van het Topstukkenfonds (
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>STAD LEUVEN VOOR RESTAURATIE EN LAND-SCHAPSBEHEER VAN DE ABDIJ VAN PARK</td>
+			<td>STAD LEUVEN VOOR RESTAURATIE EN LANDSCHAPSBEHEER VAN DE ABDIJ VAN PARK</td>
 			<td>QG0-1QGA2CA-WT</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -2840,18 +2891,17 @@ Het Vlaams Agentschap voor Internationaal Ondernemen (begrotingsartikel DB0-1DFA
 
 ### ART 22.
 
-Het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO) (begrotingsartikel EB0-1EEG5GT-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 339.973.000 euro voor :<br>
+Het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO) (begrotingsartikel EB0-1EEG5GT-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 337.205.000 euro voor:<br>
 1° het fundamenteel onderzoek;<br>
 2° het strategisch basisonderzoek;<br>
 3° het klinisch-wetenschappelijk onderzoek;<br>
-4° de investeringen in zware, middelzware en bijzondere onderzoeksinfrastructuur.<br>
-&nbsp;
+4° de investeringen in zware, middelzware en bijzondere onderzoeksinfrastructuur.
 
 ### ART 23.
 
 § 1. Het Gemeenschapsonderwijs (begrotingsartikel FC0-1FGE5AV-WT) wordt gemachtigd verbintenissen aan te gaan voor een bedrag van 12.893.000 euro voor kleine infrastructuurwerken in schoolgebouwen van het Gemeenschapsonderwijs.<br>
 <br>
-§ 2. Het Gemeenschapsonderwijs (begrotingsartikel FC0-1FGE5AV-IS) wordt gemachtigd verbintenissen aan te gaan voor een bedrag van 41.837.000 euro voor grote infrastructuurwerken in schoolgebouwen van het Gemeenschapsonderwijs.<br>
+§ 2. Het Gemeenschapsonderwijs (begrotingsartikel FC0-1FGE5AV-IS) wordt gemachtigd verbintenissen aan te gaan voor een bedrag van 41.811.000 euro voor grote infrastructuurwerken in schoolgebouwen van het Gemeenschapsonderwijs.<br>
 <br>
 § 3. Het GO! wordt gemachtigd voor dezelfde doeleinden als vermeld in paragraaf 1 en paragraaf 2 verbintenissen aan te gaan in het kader van de uitvoering van het intern Vlaams klimaatbeleid voor maximaal het bedrag dat vanuit het Vlaams Klimaatfonds aan GO! wordt uitgekeerd.<br>
 <br>
@@ -2860,30 +2910,27 @@ Het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO) (begrotingsartikel EB0-1
 
 ### ART 24.
 
-§ 1. Het Agentschap voor Infrastructuur in het Onderwijs (begrotingsartikel FC0-1FGE5AW-IS) wordt gemachtigd de hiernavolgende verbintenissen aan te gaan ten belope van 184.215.000 euro voor het beheer, het onderhoud en de investeringen in schoolgebouwen :<br>
+§ 1. Het Agentschap voor Infrastructuur in het Onderwijs (begrotingsartikel FC0-1FGE5AW-IS) wordt gemachtigd de hiernavolgende verbintenissen aan te gaan ten belope van 187.931.000 euro voor het beheer, het onderhoud en de investeringen in schoolgebouwen:<br>
 1° voor het gesubsidieerd officieel onderwijs met uitzondering van het hoger onderwijs;<br>
 2° voor het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs.<br>
 <br>
 § 2. De verbintenissen, vermeld in paragraaf 1, worden in een globaal pakket, per vrijgegeven investeringsschijf, opgenomen en vastgelegd, rekening houdend met een door de Vlaamse Regering, op voorstel van het Agentschap voor Infrastructuur in het Onderwijs jaarlijks vast te stellen percentage dat volgens de statistische gegevens inzake saldi en ordonnanties effectief wordt vereffend. Deze te vereffenen bedragen kunnen de in paragraaf 1 vermelde machtiging nooit overschrijden.<br>
 <br>
-§ 3. Het Agentschap voor Infrastructuur in het Onderwijs wordt gemachtigd voor dezelfde doeleinden als vermeld in paragraaf 1 verbintenissen aan te gaan in het kader van de uitvoering van het intern Vlaams klimaatbeleid voor maximaal het bedrag dat vanuit het Vlaams Klimaatfonds aan AGIOn wordt uitgekeerd.<br>
+§ 3. Het Agentschap voor Infrastructuur in het Onderwijs wordt gemachtigd voor dezelfde doeleinden, vermeld in paragraaf 1, verbintenissen aan te gaan in het kader van de uitvoering van het intern Vlaams klimaatbeleid voor maximaal het bedrag dat vanuit het Vlaams Klimaatfonds aan AGIOn wordt uitgekeerd.<br>
 <br>
-§ 4. Het Agentschap voor Infrastructuur in het Onderwijs wordt gemachtigd leningen te verschaffen aan het gesubsidieerd officieel onderwijs met uitzondering van het hoger onderwijs en aan het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs ten belope van maximaal 3.876.000 euro, aangevuld met het onbelast kredietsaldo zoals bedoeld in artikel 12, enkel en alleen bestemd voor investeringen in het plaatsen van fotovoltaïsche installaties op schoolinfrastructuur in 2018.<br>
-&nbsp;
+§ 4. Het Agentschap voor Infrastructuur in het Onderwijs wordt gemachtigd leningen te verschaffen aan het gesubsidieerd officieel onderwijs en aan het gesubsidieerd vrij onderwijs met uitzondering van het hoger onderwijs ten belope van maximaal 3.876.000 euro, aangevuld met het onbelast kredietsaldo zoals bedoeld in artikel 12, enkel en alleen bestemd voor investeringen in hernieuwbare energie in schoolinfrastructuur in 2018.
 
 ### ART 25.
 
-§ 1. Het Agentschap voor Infrastructuur in het Onderwijs en het Gemeenschapsonderwijs worden gemachtigd verbintenissen aan te gaan ten belope van 56.000.000 euro (begrotingsartikel FB0-1FGE5AI-IS) voor schoolinfrastructuur in functie van tekorten met betrekking tot infrastructuurcapaciteit.<br>
+§ 1. Het Agentschap voor Infrastructuur in het Onderwijs en het Gemeenschapsonderwijs worden gemachtigd verbintenissen aan te gaan ten belope van 54.042.000 euro (begrotingsartikel FB0-1FGE5AI-IS) voor schoolinfrastructuur in functie van tekorten met betrekking tot infrastructuurcapaciteit.<br>
 <br>
-§ 2. Het Agentschap voor Infrastructuur in het Onderwijs en/of het Gemeenschapsonderwijs worden gemachtigd verbintenissen aan te gaan maximaal ten bedrage van het krediet ingeschreven op begrotingsartikel FB0-1FGE2AI-IS voor de financiering van schoolinfrastructuur en het lenigen van de meest dringende capaciteitsbehoeften voor schoolgebouwen.<br>
-&nbsp;
+§ 2. Het Agentschap voor Infrastructuur in het Onderwijs en/of het Gemeenschapsonderwijs worden gemachtigd verbintenissen aan te gaan maximaal ten bedrage van het krediet ingeschreven op begrotingsartikel FB0-1FGE2AI-IS voor de financiering van schoolinfrastructuur en het lenigen van de meest dringende capaciteitsbehoeften voor schoolgebouwen.
 
 ### ART 26.
 
-§ 1. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (begrotingsartikel JB0-1JDG5CY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 15.880.000 euro voor de investeringen (beroepsopleiding).<br>
+§ 1. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding (begrotingsartikel JB0-1JDG5CY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 30.255.000 euro voor de investeringen (beroepsopleiding).<br>
 <br>
-§ 2. In afwijking van artikel 38, § 4, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof kunnen uitgaven op de vastleggingsmachtiging in het kader van de tewerkstellingspremie (begrotingsartikel JB0-1JDG5CY-IS) eveneens gefinancierd worden door terugvorderingen van tewerkstellingspremies.<br>
-&nbsp;
+§ 2. In afwijking van artikel 38, § 4, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof kunnen uitgaven op de vastleggingsmachtiging in het kader van de tewerkstellingspremie (begrotingsartikel JB0-1JDG5CY-IS) eveneens gefinancierd worden door terugvorderingen van tewerkstellingspremies.
 
 ### ART 27.
 
@@ -2898,17 +2945,15 @@ Het Fonds Wetenschappelijk Onderzoek - Vlaanderen (FWO) (begrotingsartikel EB0-1
 
 ### ART 28.
 
-De Luchthavenontwikkelingsmaatschappij Antwerpen (begrotingsartikel MB0-1MDF5AQ-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 267.000 euro voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Antwerpen. Het bedrag van de machtiging kan aangevuld worden vanuit de kredieten bedoeld onder begrotingsartikel MBU-3MFF2AI-WT.<br>
-&nbsp;
+De Luchthavenontwikkelingsmaatschappij Antwerpen (begrotingsartikel MB0-1MDF5AQ-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 657.000 euro voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Antwerpen. Het bedrag van de machtiging kan aangevuld worden vanuit de kredieten bedoeld onder begrotingsartikel MBU-3MFF2AI-WT.
 
 ### ART 29.
 
-De Luchthavenontwikkelingsmaatschappij Oostende-Brugge (begrotingsartikel MB0-1MDF5AR-IS) wordt gemachtigd verbintenissen aan te gaan voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Oostende-Brugge. Het bedrag van de machtiging kan aangevuld worden vanuit de kredieten bedoeld onder begrotingsartikel MBU-3MFF2AI-WT.<br>
-&nbsp;
+De Luchthavenontwikkelingsmaatschappij Oostende-Brugge (begrotingsartikel MB0-1MDF5AR-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 899.000 euro voor investeringen in het kader van de instandhouding van de basisinfrastructuur van de Luchthaven Oostende-Brugge. Het bedrag van de machtiging kan aangevuld worden vanuit de kredieten bedoeld onder begrotingsartikel MBU-3MFF2AI-WT.
 
 ### ART 30.
 
-De Vlaamse Vervoersmaatschappij - De Lijn (begrotingsartikel MB0-1MEF5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 164.654.000 euro :<br>
+De Vlaamse Vervoermaatschappij - De Lijn (begrotingsartikel MB0-1MEF5AY-IS) wordt gemachtigd verbintenissen aan te gaan ten belope van 185.617.000 euro:<br>
 1° voor investeringen stationsomgevingen;<br>
 2° voor de investeringen in het kader van Masterplanprojecten (Brabo 1 en Brabo 2, inclusief aanverwante investeringen);<br>
 3° voor investeringen.
@@ -2920,10 +2965,9 @@ De Werkvennootschap (begrotingsartikel MB0-1MHF5AY-IS) wordt gemachtigd voor een
 
 ### ART 32.
 
-§ 1. De Vlaamse Waterweg nv wordt gemachtigd voor een bedrag van 186.687.000 euro verbintenissen aan te gaan voor investeringen in het kader van het beheer en exploitatie van waterwegen en voor investeringen in het kader van het beheer, exploitatie en commercialisatie van aan waterwegen gelegen gronden (begrotingsartikel MB0-1MIF5AW-IS).<br>
+§ 1. De Vlaamse Waterweg nv wordt gemachtigd voor een bedrag van 182.639.000 euro verbintenissen aan te gaan voor investeringen in het kader van het beheer en de exploitatie van waterwegen en voor investeringen in het kader van het beheer, de exploitatie en commercialisatie van aan waterwegen gelegen gronden (begrotingsartikel MB0-1MIF5AW-IS).<br>
 <br>
-§ 2. De Vlaamse Waterweg nv wordt ertoe gemachtigd om voor het verhogen van de bruggen over het Albertkanaal voor 30 jaar verbintenissen aan te gaan ten laste van de Vlaamse uitgavenbegroting die resulteren in een totale beschikbaarheidsvergoeding van maximaal 6.500.000 euro (in prijzen 2012) per jaar. Deze beschikbaarheidsvergoedingen zullen worden aangerekend op begrotingsartikel MB0-1MIF5AW-IS.<br>
-&nbsp;
+§ 2. De Vlaamse Waterweg nv wordt ertoe gemachtigd om voor het verhogen van de bruggen over het Albertkanaal voor 30 jaar verbintenissen aan te gaan ten laste van de Vlaamse uitgavenbegroting die resulteren in een totale beschikbaarheidsvergoeding van maximaal 6.500.000 euro (in prijzen 2012) per jaar. Deze beschikbaarheidsvergoedingen zullen worden aangerekend op begrotingsartikel MB0-1MIF5AW-IS.
 
 ### ART 33.
 
@@ -3067,8 +3111,7 @@ De Vlaamse Regering wordt ertoe gemachtigd zowel het vastleggings- als het veref
 
 ### ART 52.
 
-De Vlaamse Regering wordt gemachtigd voor een bedrag van 3 miljoen euro zowel in VAK als in VEK kredieten, ingeschreven voor schoolsportinfrastructuur onder het begrotingsartikel FB0-1FGE5AI-IS, over te schrijven naar begrotingsartikel HB0-1HFG5AY-IS voor de uitvoering van werken en het dekken van exploitatiekosten in het kader van openstelling schoolsportinfrastructuur.<br>
-&nbsp;
+De Vlaamse Regering wordt gemachtigd voor een bedrag van 4 miljoen euro zowel in VAK als in VEK kredieten, ingeschreven voor schoolsportinfrastructuur onder het begrotingsartikel FB0-1FGE5AI-IS, over te schrijven naar begrotingsartikel HB0-1HFG5AY-IS voor de uitvoering van werken en het dekken van exploitatiekosten in het kader van openstelling schoolsportinfrastructuur.
 
 ### ART 53.
 
@@ -3126,9 +3169,9 @@ De Vlaamse Regering wordt ertoe gemachtigd zowel het vastleggings- als het veref
 
 ### ART 57.
 
-<br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Zowel de vastleggings- als de vereffeningskredieten ingeschreven onder de onderstaande begrotingsartikelen kunnen bij besluit van de Vlaamse Regering overgeschreven worden naar de door de Vlaamse Regering aan te duiden programma's en begrotingsartikels.</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+Zowel de vastleggings- als de vereffeningskredieten ingeschreven onder de onderstaande begrotingsartikelen kunnen bij besluit van de Vlaamse Regering overgeschreven worden naar de door de Vlaamse Regering aan te duiden programma's en begrotingsartikels.<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>OMSCHRIJVING</td>
@@ -3154,10 +3197,13 @@ De Vlaamse Regering wordt ertoe gemachtigd zowel het vastleggings- als het veref
 			<td>WERKING EN TOELAGEN - ACTIVEREN VAN TALENTEN - STARTBAANOVEREENKOMSTEN VLAAMSE GEMEENSCHAP</td>
 			<td>JB0-1JDG2CD-WT</td>
 		</tr>
+		<tr>
+			<td>WERKING EN TOELAGEN</td>
+			<td>JB0-1JAX2ZZ-WT</td>
+		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
+.
 
 ### ART 58.
 
@@ -3383,13 +3429,12 @@ Het provisioneel krediet ingeschreven onder het begrotingsartikel VR0-1VBA2ZZ-PR
 	</tbody>
 </table>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>2° de subsidies en loontegemoetkomingen, ongeacht het bedrag, op onderstaande begrotingsartikelen :</span></span></span>
-
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>2° de subsidies en loontegemoetkomingen, ongeacht het bedrag, op onderstaande begrotingsartikelen :</span></span></span><br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>BEGROTINGSARTIKEL</td>
-			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>JB0-1JDG2EA-WT</td>
@@ -3404,6 +3449,9 @@ Het provisioneel krediet ingeschreven onder het begrotingsartikel VR0-1VBA2ZZ-PR
 			<td>JB0-1JFG2FB-WT</td>
 		</tr>
 		<tr>
+			<td>JB0-1JDG2CB-WT</td>
+		</tr>
+		<tr>
 			<td>JB0-1JDG2CF-WT</td>
 		</tr>
 		<tr>
@@ -3411,8 +3459,6 @@ Het provisioneel krediet ingeschreven onder het begrotingsartikel VR0-1VBA2ZZ-PR
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ## DIVERSE ANDERE BEPALINGEN
 
@@ -4438,12 +4484,12 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 
 ### ART 123.
 
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>De lijst van Vlaamse rechtspersonen bedoeld in artikel 4, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, bevat volgende instellingen.</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>De lijst van Vlaamse rechtspersonen bedoeld in artikel 4, § 2, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, bevat volgende instellingen.</span></span></span><br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>Eigen Vermogens</td>
-			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Eigen vermogen Koninklijk Museum voor Schone Kunsten Antwerpen</td>
@@ -4464,7 +4510,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten</td>
 		</tr>
 		<tr>
-			<td>VZW's</td>
+			<td>Vzw's</td>
 		</tr>
 		<tr>
 			<td>Beheer Kunstsite</td>
@@ -4477,9 +4523,6 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 		</tr>
 		<tr>
 			<td>deSingel</td>
-		</tr>
-		<tr>
-			<td>EPON</td>
 		</tr>
 		<tr>
 			<td>Flanders Technology International</td>
@@ -4542,7 +4585,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Agentschap Toegankelijk Vlaanderen</td>
 		</tr>
 		<tr>
-			<td>EVA van privaatrecht (NV)</td>
+			<td>EVA van privaatrecht (nv)</td>
 		</tr>
 		<tr>
 			<td>Vlaams Energiebedrijf</td>
@@ -4566,7 +4609,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Vlaams Instituut voor Biotechnologie</td>
 		</tr>
 		<tr>
-			<td>NV</td>
+			<td>Nv</td>
 		</tr>
 		<tr>
 			<td>Beheersmaatschappij Antwerpen Mobiel</td>
@@ -4584,7 +4627,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Domus Flandria</td>
 		</tr>
 		<tr>
-			<td>Gigarant NV</td>
+			<td>Gigarant nv</td>
 		</tr>
 		<tr>
 			<td>Gimvindus</td>
@@ -4626,7 +4669,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Vlaamse Milieuholding</td>
 		</tr>
 		<tr>
-			<td>Waarborgbeheer NV</td>
+			<td>Waarborgbeheer nv</td>
 		</tr>
 		<tr>
 			<td>Wandelaar Invest</td>
@@ -4656,7 +4699,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Andere</td>
 		</tr>
 		<tr>
-			<td>Fonds voor scheepsjongeren</td>
+			<td>Fonds voor Scheepsjongeren</td>
 		</tr>
 		<tr>
 			<td>Vlaamse Regulator van de Elektriciteits- en Gasmarkt</td>
@@ -4725,7 +4768,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>PMV Beheer nv</td>
 		</tr>
 		<tr>
-			<td>PMV re Vinci NV</td>
+			<td>PMV re Vinci nv</td>
 		</tr>
 		<tr>
 			<td>PMV-TINA Comm. VA</td>
@@ -4737,7 +4780,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Vlaams Innovatiefonds</td>
 		</tr>
 		<tr>
-			<td>Universiteiten &amp; Hogescholen</td>
+			<td>Universiteiten en Hogescholen</td>
 		</tr>
 		<tr>
 			<td>Artesis Plantijn Hogeschool Antwerpen</td>
@@ -4752,7 +4795,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Associatie Universiteit - Hogescholen Limburg</td>
 		</tr>
 		<tr>
-			<td>Associatie Universiteit &amp; Hogescholen Antwerpen</td>
+			<td>Associatie Universiteit en Hogescholen Antwerpen</td>
 		</tr>
 		<tr>
 			<td>Associatie Universiteit Gent</td>
@@ -4848,9 +4891,6 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Commissie Juridische Bijstand Arrondissement Ieper</td>
 		</tr>
 		<tr>
-			<td>Commissie Juridische Bijstand Arrondissement Tongeren</td>
-		</tr>
-		<tr>
 			<td>Commissie Juridische Bijstand Gent</td>
 		</tr>
 		<tr>
@@ -4863,7 +4903,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Commissie Juridische Bijstand Veurne</td>
 		</tr>
 		<tr>
-			<td>Commissie voor Juridische Bijstand Arrondissement Hasselt</td>
+			<td>Commissie voor Juridische Bijstand Limburg</td>
 		</tr>
 		<tr>
 			<td>Commissie voor Juridische Bijstand Dendermonde</td>
@@ -4872,7 +4912,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>Commissie voor Juridische Bijstand Leuven</td>
 		</tr>
 		<tr>
-			<td>Commissie voor Juridische Bijstand van het Arrondissement Mechelen</td>
+			<td>Commissie voor Juridische Bijstand van het arrondissement Mechelen</td>
 		</tr>
 		<tr>
 			<td>Commissie voor Juridische Bijstand van het gerechtelijk Arrondissement Brugge</td>
@@ -4932,7 +4972,7 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 			<td>West-Vlaams Woonkrediet</td>
 		</tr>
 		<tr>
-			<td>Vlaamse paraparlementaire instellingen</td>
+			<td>Vlaams paraparlementaire instellingen</td>
 		</tr>
 		<tr>
 			<td>Kinderrechtencommissariaat</td>
@@ -4948,8 +4988,6 @@ De ontvangsten en uitgaven voor orde worden respectievelijk geraamd op 0 euro en
 		</tr>
 	</tbody>
 </table>
-<br>
-&nbsp;
 
 ## THESAURIEBEHEER
 
@@ -5119,7 +5157,13 @@ De orderekening 8C090700 voor de gemeenten en de orderekening 8C090600 voor de p
 
 ### ART 142.
 
-De orderekening 8C0953 waarop de doorstorting van het gedeelte van de planbatenheffing wordt aangerekend dat aan de gemeenten en provincies toekomt, mag een negatief saldo vertonen ten belope van de voor de betrokken gemeente of provincie nog niet verrekende bedragen van betaalde vorderingen die in ontheffing gezet zijn. De orderekening wordt aangezuiverd met in de volgende maanden voor de betrokken gemeente of provincie gerealiseerde ontvangsten.
+§ 1. De orderekening 8C0953 waarop de doorstorting van het gedeelte van de planbatenheffing wordt aangerekend dat aan de gemeenten en provincies toekomt, mag een negatief saldo vertonen ten belope van de voor de betrokken gemeente of provincie nog niet verrekende bedragen van betaalde vorderingen die in ontheffing gezet zijn. De orderekening wordt aangezuiverd met in de volgende maanden voor de betrokken gemeente of provincie gerealiseerde ontvangsten.<br>
+<br>
+§ 2. De orderekeningen 8C0942 en 8C0943 waarop de opdeciemen met betrekking tot de verkeersbelasting voor rekening van de gemeenten worden aangerekend, mogen een negatief saldo vertonen ten belope van de voor de betrokken gemeenten nog niet verrekende bedragen van betaalde vorderingen die in ontheffing gezet zijn. De orderekening wordt aangezuiverd met in de volgende maanden voor de betrokken gemeenten gerealiseerde ontvangsten.<br>
+<br>
+§ 3. De orderekening 8C0908 waarop de opcentiemen en vergoedingen met betrekking tot de leegstandsheffing bedrijfsruimten voor rekening van de gemeenten worden aangerekend, mag een negatief saldo vertonen ten belope van de voor de betrokken gemeenten nog niet verrekende bedragen van betaalde vorderingen die in ontheffing gezet zijn. De orderekening wordt aangezuiverd met in de volgende maanden voor de betrokken gemeenten gerealiseerde ontvangsten.<br>
+<br>
+§ 4. De orderekening 8C0905 waarop de opcentiemen en vergoedingen met betrekking tot de heffing op ongeschikt en onbewoonbare woningen voor rekening van de gemeenten worden aangerekend, mag een negatief saldo vertonen ten belope van de voor de betrokken gemeenten nog niet verrekende bedragen van betaalde vorderingen die in ontheffing gezet zijn. De orderekening wordt aangezuiverd met in de volgende maanden voor de betrokken gemeenten gerealiseerde ontvangsten.
 
 ### ART 143.
 
@@ -5164,10 +5208,9 @@ De orderekening 8C0953 waarop de doorstorting van het gedeelte van de planbatenh
 
 § 1. De uitgaven met betrekking tot huurgelden, belastingen, retributies en vergoedingen die vastgelegd en vereffend worden vanuit begrotingsartikel PH0-1PKC2QB-WT mogen aangerekend worden op rekening PH0-5PKC2QB-02 die betrekking heeft op vooruitbetaalde kosten.<br>
 <br>
-§ 2. PH0-1PKC2QB-02 wordt aangezuiverd, in vastleggings- en in vereffeningskrediet, door de kredieten voorzien op begrotingsartikel PH0-1PKC2QB-WT.<br>
+§ 2. PH0-5PKC2QB-02 wordt aangezuiverd, in vastleggings- en in vereffeningskrediet, door de kredieten voorzien op begrotingsartikel PH0-1PKC2QB-WT.<br>
 <br>
-§ 3. De rekening PH0-1PKC2QB-02 met betrekking tot vooruitbetaalde kosten mag jaaroverschrijdend een negatief saldo vertonen van maximaal 15.000.000 euro.<br>
-&nbsp;
+§ 3. De rekening PH0-5PKC2QB-02 met betrekking tot vooruitbetaalde kosten mag jaaroverschrijdend een negatief saldo vertonen van maximaal 15.000.000 euro.
 
 ### ART 149.
 
@@ -5223,12 +5266,11 @@ mag jaaroverschrijdend een negatief saldo vertonen van maximaal 25.000.000 euro.
 
 § 1. De Vlaamse Regering wordt ertoe gemachtigd voorschotten toe te staan voor de verrichtingen inzake het financieel beheer van de exploitatierekening voor erfgoedleningen. Deze voorschotten worden aangerekend op de orderekening 8Q0972 `erfgoedleningen'.<br>
 <br>
-§ 2. De orderekening 8Q0972 mag een debetsaldo van maximum 7.000.000 euro op jaarbasis vertonen.<br>
+§ 2. De orderekening 8Q0972 mag een debetsaldo van maximum 7.000.000 euro op jaarbasis vertonen. In afwijking mag de orderekening 8Q0972 voor 2018 een debetsaldo van maximaal 21.000.000 euro vertonen.<br>
 <br>
-§ 3. Het Rekenhof kan te allen tijde en ter plaatse controle uitoefenen op de financiële rekeningen (orde- en exploitatierekening) inzake de erfgoedleningen.<br>
+§ 3. Het Rekenhof kan ten allen tijde en ter plaatse controle uitoefenen op de financiële rekeningen (orde- en exploitatierekening) inzake de erfgoedleningen.<br>
 <br>
-§ 4. De orderekening 8Q0972 wordt aangezuiverd via ontvangsten op begrotingsartikels QG0-9QGAACB-OW (renteontvangsten erfgoedleningen) en QG0-9QGAACB-OP (kapitaalaflossingen erfgoedleningen).<br>
-&nbsp;
+§ 4. De orderekening 8Q0972 wordt aangezuiverd via ontvangsten op begrotingsartikels QG0-9QGAACB-OW (renteontvangsten erfgoedleningen) en QG0-9QGAACB-OP (kapitaalaflossingen erfgoedleningen).
 
 ### ART 157.
 
