@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029854,
+  "title": "Ministerieel besluit van 2018-10-19 houdende vaststelling van de startdatum van een civiele noodsituatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029854/VolledigDocument?datum=2018-10-25",
+  "source_sha256": "8d45deba9e0820311d08474f236991563eabf759e35b5a6f3f716c2a7c38ab34",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029854&param=informatie",
+  "as_of": "2018-10-25",
+  "made": "2018-10-19",
+  "gazette": "2018-10-25",
+  "numac": 2018014516,
+  "document_start": "2018-10-25",
+  "document_end": null,
+  "in_force": "2018-10-25",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
