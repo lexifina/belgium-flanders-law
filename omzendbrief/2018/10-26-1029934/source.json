@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029934,
+  "title": "Omzendbrief van 2018-10-26 KB/ABB 2018/3 betreffende de start van de lokale en provinciale bestuursperiode",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029934/VolledigDocument?datum=2018-10-26",
+  "source_sha256": "eeb6f14bef46e114fa32a04414c5629aa766d04c4b921af2d7490367f1ea1fee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029934&param=informatie",
+  "as_of": "2018-10-26",
+  "made": "2018-10-26",
+  "gazette": "2018-11-30",
+  "numac": 2018014940,
+  "document_start": "2018-10-26",
+  "document_end": null,
+  "in_force": "2018-10-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2018-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
