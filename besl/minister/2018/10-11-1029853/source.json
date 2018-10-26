@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029853,
+  "title": "Ministerieel besluit van 2018-10-11 houdende vaststelling van de richtlijnen en modellen in het kader van de waarborgregeling voor het opsporen en winnen van aardwarmte in de diepe ondergrond",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029853/VolledigDocument?datum=2018-10-26",
+  "source_sha256": "112d40ac6f99a81aab5cfa49c080c8cc2f3c95c64f5b2f1b82cf173b06ba420a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029853&param=informatie",
+  "as_of": "2018-10-26",
+  "made": "2018-10-11",
+  "gazette": "2018-10-25",
+  "numac": 2018032026,
+  "document_start": "2018-10-26",
+  "document_end": null,
+  "in_force": "2018-10-26",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2018-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
