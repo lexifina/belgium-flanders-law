@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029835,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot erkenning van de beroepskwalificatie restauratievakman metselwerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029835/VolledigDocument?datum=2018-10-27",
+  "source_sha256": "82c8127cec140ab9b512dc42740cf33b765e804bfc8f2c05dea2efdf05d3e4c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029835&param=informatie",
+  "as_of": "2018-10-27",
+  "made": "2018-07-20",
+  "gazette": "2018-10-17",
+  "numac": 2018014024,
+  "document_start": "2018-10-27",
+  "document_end": null,
+  "in_force": "2018-10-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
