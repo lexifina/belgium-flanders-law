@@ -690,6 +690,11 @@ In artikel 2.16.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 Aan artikel 5.20.2.3 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 7 juni 2013 en gewijzigd bij het besluit van de Vlaamse Regering van 16 mei 2014, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
 " § 4. Voor kleine en middelgrote stookinstallaties gelden de bepalingen van afdeling 5.43.2, met uitzondering van emissiegrenswaarden, die erin zijn vastgesteld, voor stookinstallaties die gevoed worden met raffinaderijbrandstof, alleen of in combinatie met andere brandstoffen voor de productie van energie."
 
+### ART 10.
+
+In artikel 5.20.2.4, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 11 december 2015, wordt de zinsnede "vermeld in artikel 5.43.2.20 tot en met 5.43.2.30" vervangen door de zinsnede "vermeld in artikel 5.43.2.23 tot en met 5.43.2.36".<br>
+&nbsp;
+
 ### ART 11.
 
 In artikel 5.20.2.6 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 23 april 2004 en vervangen bij het besluit van de Vlaamse Regering van 7 juni 2013, worden de volgende wijzigingen aangebracht:<br>
