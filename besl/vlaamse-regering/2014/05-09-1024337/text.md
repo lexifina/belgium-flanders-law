@@ -8,7 +8,24 @@
 
 ### ART. 1.
 
-<P>In dit besluit wordt verstaan onder:<BR>1° attest draagkracht: het attest   draagkracht van een kinderbegeleider, vermeld in artikel 12 van het   Vergunningsbesluit van 22 november 2013;<BR>2° brandveiligheidsattest: een   brandveiligheidsattest als vermeld in artikel 23, tweede lid, van het   Vergunningsbesluit van 22 november 2013;<BR>3° brandveiligheidsvoorschriften: de   specifieke brandveiligheidsvoorschriften, vermeld in artikel 23 van het   Vergunningsbesluit van 22 november 2013;<BR>4° decreet van 20 april 2012: het   decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en   peuters;<BR>5° elektronische handtekening: een geavanceerde elektronische   handtekening met gekwalificeerd certificaat als vermeld in artikel 2, 2° en 4°,   van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband   met het juridisch kader voor de elektronische handtekening,de elektronisch   aangetekende zending en certificatiediensten;<BR>6° minister: de Vlaamse   minister, bevoegd voor de bijstand aan personen;<BR>7° opvangvorm: het soort   kinderopvang dat de organisator aanbiedt, zijnde de groepsopvang, vermeld in   artikel 4, 2°, van het decreet van 20 april 2012, of de gezinsopvang, vermeld in   artikel 4, 1°, van het decreet van 20 april 2012;<BR>8° subsidie: een of meer   van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en   18°, van het Subsidiebesluit van 22 november 2013;<BR>9° technische commissie:   de technische commissie voor de brandveiligheid, vermeld in het besluit van de   Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie   voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en   Gezin;<BR>10° verslag over de infrastructuur: een verslag over de infrastructuur   als vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013;<BR>11°   Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en   Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse   Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid   en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van   agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en   betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein.<BR></P>  <P>Dit besluit wordt aangehaald als: Procedurebesluit van 9 mei   2014.<BR></P>
+<p>In dit besluit wordt verstaan onder:<br>
+1° attest draagkracht: het attest draagkracht van een kinderbegeleider, vermeld in artikel 12 van het Vergunningsbesluit van 22 november 2013;<br>
+2° brandveiligheidsattest: een brandveiligheidsattest als vermeld in artikel 23, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
+3° brandveiligheidsvoorschriften: de specifieke brandveiligheidsvoorschriften, vermeld in artikel 23 van het Vergunningsbesluit van 22 november 2013;<br>
+4° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+5° elektronische handtekening: een geavanceerde elektronische handtekening met gekwalificeerd certificaat als vermeld in artikel 2, 2° en 4°, van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband met het juridisch kader voor de elektronische handtekening,de elektronisch aangetekende zending en certificatiediensten;<br>
+6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+6° /1 nieuwe gemeente: het lokaal bestuur van de nieuwe gemeente, vermeld in artikel 5, 5°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
+6° /2 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn;<br>
+7° opvangvorm: het soort kinderopvang dat de organisator aanbiedt, zijnde de groepsopvang, vermeld in artikel 4, 2°, van het decreet van 20 april 2012, of de gezinsopvang, vermeld in artikel 4, 1°, van het decreet van 20 april 2012;<br>
+7° /1 samengevoegde gemeenten: het lokaal bestuur van de samengevoegde gemeenten, vermeld in artikel 5, 4°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
+7° /2 samenvoegingsdecreet: het samenvoegingsdecreet, vermeld in artikel 5, 1°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
+8° subsidie: een of meer van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013;<br>
+9° technische commissie: de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
+10° verslag over de infrastructuur: een verslag over de infrastructuur als vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013;<br>
+11° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.</p>
+
+<p>Dit besluit wordt aangehaald als: Procedurebesluit van 9 mei 2014.</p>
 
 ### ART. 2.
 
@@ -622,13 +639,41 @@ De aanvraag tot wijziging van een subsidietoekenning wordt ingediend met   het a
 
 ### ART. 88.
 
-Kind en Gezin kan de aanvraag tot wijziging van een subsidietoekenning   toekennen alleen in de volgende gevallen:<BR>1° een organisator die   subsidieerbare kinderopvangplaatsen van een subsidiegroep gezinsopvang wil   overhevelen naar een subsidiegroep groepsopvang door samenwerkende onthaalouders   en omgekeerd, binnen hetzelfde geografische gebied, als de subsidiebedragen van   beide subsidiegroepen dezelfde zijn. Dat kan zolang er geen saldoafrekening is,   eventueel met terugwerkende kracht voor het afgelopen subsidiejaar;<BR>2° een   organisator die subsidieerbare kinderopvangplaatsen van een subsidiegroep   gezinsopvang of een subsidiegroep groepsopvang door samenwerkende onthaalouders   wil overhevelen naar een subsidiegroep in een aangrenzende zorgregio op   voorwaarde dat:<BR>a) de organisator ten gevolge van de omzetting naar   aanleiding van de inwerkingtreding van het decreet van 20 april 2012 een klein   aantal subsidieerbare kinderopvangplaatsen heeft in een subsidiegroep;<BR>b) de   organisator de overheveling vraagt na stopzetting van de laatste   kinderopvanglocatie in die zorgregio;<BR>c) de overheveling gebeurt naar de   subsidiegroep in de aangrenzende zorgregio waar hij op het moment van de   inwerkingtreding van het decreet van 20 april 2012, al subsidieerbare   kinderopvangplaatsen had en waar hij de meeste subsidieerbare   kinderopvangplaatsen heeft op het moment van de aanvraag;<BR>d) er in die   oorspronkelijke subsidiegroep sinds de omzetting geen nieuwe vergunning voor   gezinsopvang of groepsopvang door samenwerkende onthaalouders is   opgestart;<BR>e) het een overheveling betreft van maximaal acht subsidieerbare   kinderopvangplaatsen;<BR>3° een organisator die subsidieerbare   kinderopvangplaatsen, met uitzondering van subsidieerbare kinderopvangplaatsen   met alleen basissubsidie, wil overhevelen naar een andere geografische   subsidiegroep wegens de verhuizing van een kinderopvanglocatie groepsopvang op   voorwaarde dat:<BR>a) de nieuwe kinderopvanglocatie zich op korte afstand   bevindt van de kinderopvanglocatie uit de subsidiegroep waar de subsidieerbare   kinderopvangplaatsen zich bevonden;<BR>b) de organisator kan aantonen dat de   gemeente waarnaar de subsidieerbare kinderopvangplaatsen worden overgeheveld,   een grotere nood heeft aan kinderopvang dan de gemeente waar de   kinderopvanglocatie was;<BR>c) zowel het lokaal&nbsp;bestuur van de gemeente   vanwaaruit de kinderopvang vertrekt als het lokaal&nbsp;bestuur waarnaar de   kinderopvang verhuist, een positief advies geeft voor de verhuizing;<BR>4° een   organisator die subsidieerbare kinderopvangplaatsen met alleen basissubsidie wil   overhevelen naar een andere geografische subsidiegroep wegens de verhuizing van   een kinderopvanglocatie groepsopvang op voorwaarde dat:<BR>a) de nieuwe   kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit   de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich   bevonden;<BR>b) de organisator kan aantonen dat de zorgregio waarnaar de   subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft   aan kinderopvang dan de zorgregio waar de kinderopvanglocatie was;<BR>5° een   organisator die subsidieerbare kinderopvangplaatsen wil overhevelen naar een   andere geografische subsidiegroep wegens de verhuizing van een   kinderopvanglocatie gezinsopvang op voorwaarde dat:<BR>a) de nieuwe   kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit   de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich   bevonden;<BR>b) de organisator kan aantonen dat de zorgregio waarnaar de   subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft   aan kinderopvang dan de zorgregio waar de kinderopvanglocatie was;<BR>6° een   organisator die subsidieerbare kinderopvangplaatsen wil overhevelen van een   subsidiegroep gezinsopvang naar een subsidiegroep groepsopvang of omgekeerd voor   dezelfde kinderopvanglocatie, waarbij Kind en Gezin beslist hoeveel   subsidieerbare kinderopvangplaatsen maximaal overgeheveld kunnen worden als de   overheveling gebeurt van gezinsopvang naar groepsopvang.<BR>
+Kind en Gezin kan de aanvraag tot wijziging van een subsidietoekenning toekennen alleen in de volgende gevallen:<br>
+1° een organisator die subsidieerbare kinderopvangplaatsen van een subsidiegroep gezinsopvang wil overhevelen naar een subsidiegroep groepsopvang samenwerkende onthaalouders en omgekeerd, binnen hetzelfde geografische gebied, als de subsidiebedragen van beide subsidiegroepen dezelfde zijn en op voorwaarde dat de organisator aan al de volgende voorwaarden voldoet:<br>
+a) de organisator voldeed het voorgaande kalenderjaar in de nieuwe subsidiegroep voor de subsidieerbare kinderopvangplaatsen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013 of als dat niet het geval is, kan hij aantonen dat hij de vier meest recente kwartalen wel voldoet;<br>
+b) de organisator kan aantonen dat hij na de overheveling minstens evenveel vergunde kinderopvangplaatsen zal hebben als subsidieerbare kinderopvangplaatsen in de zorgregio en dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 42, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
+c) de organisator kan aantonen dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de nieuwe zorgregio;;<br>
+2° een organisator die subsidieerbare kinderopvangplaatsen van een subsidiegroep gezinsopvang of een subsidiegroep groepsopvang door samenwerkende onthaalouders wil overhevelen naar een subsidiegroep in een aangrenzende zorgregio op voorwaarde dat:<br>
+a) de organisator ten gevolge van de omzetting naar aanleiding van de inwerkingtreding van het decreet van 20 april 2012 een klein aantal subsidieerbare kinderopvangplaatsen heeft in een subsidiegroep;<br>
+b) de organisator de overheveling vraagt na stopzetting van de laatste kinderopvanglocatie in die zorgregio;<br>
+c) de overheveling gebeurt naar de subsidiegroep in de aangrenzende zorgregio waar hij op het moment van de inwerkingtreding van het decreet van 20 april 2012, al subsidieerbare kinderopvangplaatsen had en waar hij de meeste subsidieerbare kinderopvangplaatsen heeft op het moment van de aanvraag;<br>
+d) er in die oorspronkelijke subsidiegroep sinds de omzetting geen nieuwe vergunning voor gezinsopvang of groepsopvang door samenwerkende onthaalouders is opgestart;<br>
+e) het een overheveling betreft van maximaal acht subsidieerbare kinderopvangplaatsen;<br>
+3° een organisator die subsidieerbare kinderopvangplaatsen, met uitzondering van subsidieerbare kinderopvangplaatsen met alleen basissubsidie, wil overhevelen naar een andere geografische subsidiegroep wegens de verhuizing van een kinderopvanglocatie groepsopvang op voorwaarde dat:<br>
+a) de nieuwe kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich bevonden;<br>
+b) de organisator kan aantonen dat de gemeente waarnaar de subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft aan kinderopvang dan de gemeente waar de kinderopvanglocatie was;<br>
+c) zowel het lokaal&nbsp;bestuur van de gemeente vanwaaruit de kinderopvang vertrekt als het lokaal&nbsp;bestuur waarnaar de kinderopvang verhuist, een positief advies geeft voor de verhuizing;<br>
+4° een organisator die subsidieerbare kinderopvangplaatsen met alleen basissubsidie wil overhevelen naar een andere geografische subsidiegroep wegens de verhuizing van een kinderopvanglocatie groepsopvang op voorwaarde dat:<br>
+a) de nieuwe kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich bevonden;<br>
+b) de organisator kan aantonen dat de zorgregio waarnaar de subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft aan kinderopvang dan de zorgregio waar de kinderopvanglocatie was;<br>
+5° een organisator die subsidieerbare kinderopvangplaatsen wil overhevelen naar een andere geografische subsidiegroep wegens de verhuizing van een kinderopvanglocatie gezinsopvang op voorwaarde dat:<br>
+a) de nieuwe kinderopvanglocatie zich op korte afstand bevindt van de kinderopvanglocatie uit de subsidiegroep waar de subsidieerbare kinderopvangplaatsen zich bevonden;<br>
+b) de organisator kan aantonen dat de zorgregio waarnaar de subsidieerbare kinderopvangplaatsen worden overgeheveld, een grotere nood heeft aan kinderopvang dan de zorgregio waar de kinderopvanglocatie was;<br>
+6° een organisator die subsidieerbare kinderopvangplaatsen wil overhevelen van een subsidiegroep gezinsopvang naar een subsidiegroep groepsopvang of omgekeerd voor dezelfde kinderopvanglocatie, waarbij Kind en Gezin beslist hoeveel subsidieerbare kinderopvangplaatsen maximaal overgeheveld kunnen worden als de overheveling gebeurt van gezinsopvang naar groepsopvang;<br>
+7° een organisator die de subsidieerbare kinderopvangplaatsen wil overhevelen van een subsidiegroep gezinsopvang naar een andere geografische subsidiegroep gezinsopvang waarvoor Kind en Gezin zonder de overheveling een beslissing tot vermindering of stopzetting van subsidieerbare kinderopvangplaatsen zal nemen wegens niet-naleving van de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, of wegens het verstrijken van de termijn van het voorbehoud, vermeld in artikel 4, 2°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, en op voorwaarde dat de organisator aan al de volgende voorwaarden voldoet:<br>
+a) de organisator voldeed het voorgaande kalenderjaar in de nieuwe subsidiegroep voor de subsidieerbare kinderopvangplaatsen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, als hij al subsidieerbare kinderopvangplaatsen had in de zorgregio, of als dit niet het geval is, kan hij aantonen dat hij de vier meest recente kwartalen wel voldoet;<br>
+b) de organisator kan aantonen dat hij na de overheveling minstens evenveel vergunde kinderopvangplaatsen zal hebben als subsidieerbare kinderopvangplaatsen in de zorgregio en dat hij zal voldoen aan de voorwaarden, vermeld in artikel 42, tweede lid, van het Vergunningsbesluit van 22 november 2013;<br>
+c) de organisator kan aantonen dat hij na de overheveling zal voldoen aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de nieuwe zorgregio;<br>
+d) de lokale besturen van de gemeenten van de zorgregio waar de organisator nieuwe vergunde kinderopvangplaatsen zal realiseren voor die overheveling, geven een positief advies over de nieuwe vergunde en subsidieerbare kinderopvangplaatsen.<br>
+<br>
+Als de organisator in het kalenderjaar van de overheveling van subsidieerbare kinderopvangplaatsen conform het geval, vermeld in het eerste lid, 7°, niet voldoet aan de voorwaarden, vermeld in artikel 21 van het Subsidiebesluit van 22 november 2013, in de zorgregio waarnaar de plaatsen overgeheveld zijn, vermindert Kind en Gezin automatisch het aantal subsidieerbare plaatsen met maximaal het aantal overgehevelde plaatsen, met ingang van 1 januari van het kalenderjaar na de overheveling.
 
 ### ART. 89.
 
 Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 1°, toekent, gaat die op zijn vroegste in op 1 januari van het vorige kalenderjaar. Als er al een saldoafrekening is gemaakt, kan de toekenning op zijn vroegste ingaan op 1 januari van het jaar van de aanvraag.<br>
 <br>
-Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, 2° tot en met 6°, toekent, gaat die op zijn vroegste in op de datum van de beslissing tot toekenning.
+Als Kind en Gezin een wijziging van de subsidietoekenning als vermeld in artikel 88, eerste lid, 2° tot en met 7°, toekent, gaat die op zijn vroegste in op de datum van de beslissing tot toekenning.
 
 ## Onderafdeling 4 Aanvraag van een subsidietoekenning bij wijziging van de organisator
 
@@ -645,20 +690,18 @@ De aanvraag van een subsidietoekenning bij wijziging van de organisator   wordt 
 ### ART. 92.
 
 <p>De aanvraag van een subsidie voor individuele inclusieve kinderopvang wordt ingediend, per opgevangen kind met specifieke zorgbehoefte, met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat:<br>
-1° de datum vanaf wanneer de organisator de subsidies effectief wil laten ingaan;<br>
+1° de datum vanaf wanneer en tot wanneer de organisator de subsidies wil krijgen;<br>
 2° de identiteitsgegevens en de contactgegevens van de organisator, waaronder de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
 3° de identiteitsgegevens en de contactgegevens van de persoon die meer informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het telefoonnummer en het e-mailadres van die persoon;<br>
 4° de gegevens over de kinderopvanglocatie waar het kind opgevangen wordt, waaronder de opvangvorm, het dossiernummer, de naam en het adres;<br>
 5° de identiteitsgegevens van het kind voor wie de subsidie wordt aangevraagd, waaronder de voor- en achternaam, de geboortedatum en de datum waarop de kinderopvang start. Als er al een kindcode is toegekend voor het kind : de kindcode;<br>
-6° ...;<br>
-7° de omschrijving van de specifieke zorg die het kind nodig heeft, met een verwijzing naar artikel 42 van het Subsidiebesluit van 22 november 2013;<br>
+6° een attest van een professionele deskundige die niet verbonden is aan de organisator, waarin de problematiek van het kind beschreven wordt, en de duurtijd van de problematiek die specifieke zorg in het kader van kinderopvang noodzakelijk maakt;<br>
+7° de omschrijving van de specifieke zorg die het kind nodig heeft, en hoe de organisator voldoet aan de bepaling, vermeld in artikel 42 van het Subsidiebesluit van 22 november 2013, en met een toelichting hoe dat gelinkt wordt aan de problematiek van het kind die blijkt uit het attest van de professionele deskundige, vermeld in punt 6°;<br>
 8° de vermelding dat het gezin ingelicht is over de verwerking van de persoonsgegevens van het kind;<br>
 9° een verklaring op erewoord over:<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit van 22 november 2013;<br>
-10° de datum en de handtekening van de organisator.<br>
-<br>
-Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator onder gesloten enveloppe een attest van een professioneel deskundige, die niet verbonden is met de organisator, waarin uitleg gegeven wordt over de problematiek van het kind. Op die enveloppe staat de naam van het kind, het dossiernummer van de organisator en de aanvraagdatum.</p>
+10° de datum en de handtekening van de organisator.</p>
 
 ### ART. 93.
 
@@ -702,7 +745,7 @@ Kind en Gezin beslist over de gegrondheid van de aanvraag, vermeld in   artikel 
 
 ### ART. 102.
 
-Voor de aanvraag van een subsidie voor individuele inclusieve kinderopvang   wordt het attest van de professionele deskundige, vermeld in artikel 92, tweede   lid, na de beslissing tot ontvankelijkheid onder gesloten enveloppe voor advies   bezorgd aan een adviserend geneesheer van Kind en Gezin.<BR>
+...
 
 ### ART. 103.
 
@@ -804,6 +847,38 @@ Kind en Gezin stopt met de tussenkomst als uitbetalingsinstelling in de volgende
 3° het convenant wordt door het lokaal bestuur of door Kind en Gezin stopgezet.
 
 ## [TITEL 4/2 Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 14 september 2018, art. 7, I: 2 november 2018)]
+
+### ART 112/7.
+
+Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van kinderopvang is, samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, zet Kind en Gezin de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
+<br>
+Kind en Gezin telt de subsidieerbare kinderopvangplaatsen groepsopvang of gezinsopvang van de samengevoegde gemeenten die vóór de samenvoeging tot verschillende subsidiegroepen groepsopvang of gezinsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang of gezinsopvang behoren, samen.<br>
+<br>
+De procedures voor een samengevoegde gemeente of een samengevoegd OCMW op basis van het Handhavingsbesluit Baby's en Peuters van 11 december 2015 kunnen voortgezet worden voor de nieuwe gemeente of het nieuwe OCMW.<br>
+<br>
+Kind en Gezin bezorgt de nieuwe gemeente en het OCMW automatisch de nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen.
+
+### ART 112/8.
+
+Als gemeenten samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, past Kind en Gezin de gegevens van de vergunningen, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan. Kind en Gezin kent dan een nieuwe vergunning, nieuwe subsidiebelofte of subsidietoekenning toe met hetzelfde voorwerp als vóór de samenvoeging als de kinderopvanglocatie van een organisator tot een andere subsidiegroep behoort na de samenvoeging van de gemeenten.<br>
+<br>
+Kind en Gezin telt de subsidieerbare kinderopvangplaatsen groepsopvang samen van een organisator die vóór de samenvoeging van gemeenten kinderopvanglocaties groepsopvang had die tot verschillende subsidiegroepen groepsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang behoren.<br>
+<br>
+Kind en Gezin zorgt voor een automatische overheveling van subsidieerbare kinderopvangplaatsen gezinsopvang of groepsopvang samenwerkende onthaalouders naar de nieuwe subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders waartoe de kinderopvanglocatie gezinsopvang behoort na de samenvoeging van gemeenten, als de organisator door de samenvoeging van de gemeenten in de oorspronkelijke subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders van die kinderopvanglocatie geen enkele kinderopvanglocatie gezinsopvang meer heeft.<br>
+<br>
+Als minstens één kinderopvanglocatie gezinsopvang of groepsopvang samenwerkende onthaalouders uit een subsidiegroep gezinsopvang of uit een subsidiegroep groepsopvang samenwerkende onthaalouders door de samenvoeging van gemeenten tot een nieuwe subsidiegroep gezinsopvang of nieuwe subsidiegroep groepsopvang samenwerkende onthaalouders behoort, en de organisator minstens één kinderopvanglocatie gezinsopvang of groepsopvang samenwerkende onthaalouders behoudt in de oorspronkelijke subsidiegroep, vraagt Kind en Gezin aan de organisator hoeveel subsidieerbare kinderopvangplaatsen gezinsopvang of groepsopvang samenwerkende onthaalouders hij wil overhevelen van de subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders waartoe de kinderopvanglocatie behoorde, naar de nieuwe subsidiegroep gezinsopvang of groepsopvang samenwerkende onthaalouders.<br>
+<br>
+De samenvoeging van gemeenten doet geen afbreuk aan de procedures voor organisatoren op basis van het Handhavingsbesluit Baby's en Peuters van 11 december 2015 als ze naar aanleiding van de samenvoeging van gemeenten een nieuwe vergunning, subsidiebelofte of subsidietoekenning krijgen.<br>
+<br>
+Kind en Gezin bezorgt de organisatoren de aangepaste of nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen.
+
+### ART 112/9.
+
+Voor de subsidieerbare kinderopvangplaatsen, waarvoor een voorbehoud als vermeld in artikel 6, tweede lid, 2°, van het Subsidiebesluit van 22 november 2013, loopt op het moment van de samenvoeging van de gemeenten, loopt de termijn van het voorbehoud, vermeld in artikel 4, 2°, van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, verder na de samenvoeging.
+
+### ART 112/10.
+
+Als de samenvoeging van gemeenten niet ingaat op 1 januari van een kalenderjaar, wordt voor de berekening van de subsidie, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord, voor de nieuwe gemeente rekening gehouden met de gegevens van de samengevoegde gemeenten op 1 januari van het kalenderjaar van de samenvoeging.
 
 ## TITEL 5 Slotbepalingen
 
