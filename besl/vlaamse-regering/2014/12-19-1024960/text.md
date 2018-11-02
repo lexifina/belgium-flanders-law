@@ -69,10 +69,10 @@ De   aanvraag van een attest van toezicht voor vakantieopvang wordt ingediend me
 Naast het aanvraagformulier, vermeld in artikel 9 en 10, bezorgt de organisator de volgende documenten, met de post of elektronisch, volgens de administratieve richtlijnen van Kind en Gezin :<br>
 1° voor een erkenning of een attest van toezicht voor groepsopvang :<br>
 a) het brandveiligheidsattest A of B;<br>
-b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de verantwoordelijke, vermeld in artikel 33, § 1, eerste lid, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de verantwoordelijke, vermeld in artikel 33, § 1, eerste lid, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 2° voor een erkenning of een attest van toezicht voor gezinsopvang :<br>
 a) het document, vermeld in punt 1°, b);<br>
-b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de kinderbegeleider, vermeld in artikel 38, § 1, eerste lid, 2°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+b) het uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest voor de kinderbegeleider, vermeld in artikel 38, § 1, eerste lid, 1°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 3° voor een attest van toezicht voor vakantieopvang : het document, vermeld in punt 1°, b).
 
 ### ART. 12.
@@ -562,20 +562,18 @@ De subsidietoekenning geldt voor het jaar waarin de   specifieke dienstverlening
 ### ART. 99.
 
 <p>De aanvraag van een subsidie voor individuele inclusieve buitenschoolse opvang wordt ingediend, per opgevangen kind met specifieke zorgbehoefte, met het aanvraagformulier van Kind en Gezin, dat de volgende gegevens bevat :<br>
-1° de datum vanaf wanneer de organisator de subsidies effectief wil laten ingaan;<br>
+1° de datum vanaf wanneer en tot wanneer de organisator de subsidies wil krijgen;<br>
 2° de identiteitsgegevens en de contactgegevens van de organisator, waaronder de naam, de rechtsvorm, het adres, het rekeningnummer en het ondernemingsnummer van de organisator. Als de organisator een feitelijke vereniging is, moet het rekeningnummer slaan op de feitelijke vereniging zelf;<br>
 3° de identiteitsgegevens en de contactgegevens van de persoon die meer informatie kan geven over de aanvraag, waaronder de voor- en achternaam, het telefoonnummer en het e-mailadres van die persoon;<br>
 4° de gegevens over de opvanglocatie waar het kind opgevangen wordt, waaronder de opvangvorm, het dossiernummer, de naam en het adres;<br>
 5° de identiteitsgegevens van het kind voor wie de subsidie wordt aangevraagd, waaronder de voor- en achternaam, de geboortedatum, een uniek identificatienummer en de datum waarop de buitenschoolse opvang start;<br>
-6° de omschrijving van de specifieke zorg die het nodig heeft, met een verwijzing naar artikel 75 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+5° /1 een attest van een professionele deskundige die niet verbonden is aan de organisator, waarin de problematiek van het kind beschreven wordt, en de duurtijd van de problematiek die specifieke zorg in het kader van kinderopvang noodzakelijk maakt;<br>
+6° de omschrijving van de specifieke zorg die het kind nodig heeft, en hoe de organisator voldoet aan de bepaling, vermeld in artikel 75 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, en met een toelichting hoe dat gelinkt wordt aan de problematiek van het kind die blijkt uit het attest van de professionele deskundige, vermeld in punt 5° /1;<br>
 7° de vermelding dat het gezin ingelicht is over de verwerking van de persoonsgegevens van het kind;<br>
 8° een verklaring op erewoord over :<br>
 a) het feit dat de persoon die de aanvraag doet, gemachtigd is om te handelen in naam van de organisator;<br>
 b) de kennisname van de voorwaarden voor de specifieke dienstverlening, vermeld in het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 9° de datum en een handtekening vanwege de organisator.</p>
-
-<p><br>
-Naast het aanvraagformulier, vermeld in het eerste lid, bezorgt de organisator onder gesloten enveloppe een attest van een professioneel deskundige, die niet verbonden is met de organisator, waarin uitleg gegeven wordt over de problematiek van het kind. Op die enveloppe staat de naam van het kind, het dossiernummer van de organisator en de aanvraagdatum.</p>
 
 ### ART. 100.
 
@@ -635,7 +633,7 @@ Kind   en Gezin beslist over de gegrondheid van de aanvraag, vermeld in artikel 
 
 ### ART. 110.
 
-Voor de aanvraag van een subsidie voor individuele inclusieve   kinderopvang wordt het attest van de professionele deskundige na de beslissing   tot ontvankelijkheid onder gesloten enveloppe voor advies bezorgd aan een   adviserend geneesheer van Kind en Gezin.
+...
 
 ### ART. 111.
 
@@ -724,6 +722,32 @@ Het bezwaar tegen de beslissingen, vermeld in artikel 22, 28,   34, 70, 78, 109 
 Het bezwaar schort de uitvoering van de beslissing niet   op.
 
 ## [Titel 4/1. Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 14 september 2018, art. 13, I: 2 november 2018)]
+
+### ART 127/1.
+
+Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van buitenschoolse opvang is, samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, zet Kind en Gezin de erkenningen, de attesten van toezicht, de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
+<br>
+De nieuwe gemeente of OCMW behoudt bij ongewijzigde omstandigheden na de samenvoeging van gemeenten voor de subsidie voor initiatief voor buitenschoolse opvang de bedragen voor de verschillende schijven equivalentvolle opvangplaatsen, vermeld in artikel 20 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, zoals die zijn toegekend aan de samengevoegde gemeenten.<br>
+<br>
+Kind en Gezin telt de subsidieerbare opvangplaatsen groepsopvang of gezinsopvang met subsidie voor inkomenstarief samen van de samengevoegde gemeenten die vóór de samenvoeging tot verschillende subsidiegroepen groepsopvang of gezinsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang of gezinsopvang behoren.<br>
+<br>
+De procedures voor een samengevoegde gemeente of een samengevoegd OCMW op basis van artikel 58 tot en met 60 van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014 of op basis van artikel 95 tot en met 97 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 kunnen voortgezet worden in de nieuwe gemeente of het nieuwe OCMW.<br>
+<br>
+Voor de toepassing van artikel 22 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 zal Kind en Gezin in het kalenderjaar waarin de gemeenten samengevoegd zijn, nagaan of de samengevoegde gemeenten samen de vereiste minimumbezetting haalden tijdens het kalenderjaar voorafgaand aan de samenvoeging. Op basis daarvan volgt de schorsing of de evenredige vermindering van de subsidie.<br>
+<br>
+Kind en Gezin bezorgt de nieuwe gemeente en het nieuwe OCMW de nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen.
+
+### ART 127/2.
+
+Als gemeenten samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, past Kind en Gezin de gegevens van de erkenningen, attesten van toezicht, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan.<br>
+<br>
+Kind en Gezin telt de subsidieerbare opvangplaatsen groepsopvang samen van een organisator die vóór de samenvoeging van gemeenten opvanglocaties groepsopvang had die tot verschillende gemeenten behoorden, en door de samenvoeging tot dezelfde gemeente behoren.<br>
+<br>
+Kind en Gezin bezorgt de organisatoren de aangepaste erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen.
+
+### ART 127/3.
+
+Voor de subsidieerbare opvangplaatsen, waarvoor een voorbehoud loopt zoals vermeld in artikel 6, tweede lid, 2° van het Subsidiebesluit van 22 november 2013 op het moment van de samenvoeging van de gemeenten, loopt de termijn voorzien in artikel 4, 2°, van het ministerieel besluit tot uitvoering van het van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, verder.
 
 ## Titel 5. Slotbepalingen
 
