@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029850,
+  "title": "Ministerieel besluit van 2018-09-25 tot de vaststelling van het gebied `Vallei van de Mombeek en Fonteinbeek en de burcht en het bos van Kolmont' en de `Spoorwegbedding lijn 23: deel Borgloon-Tongeren' in de landschapsatlas",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029850/VolledigDocument?datum=2018-11-03",
+  "source_sha256": "cb09bc29c43e6e234e5202d1a172b501e28a659ebf784a822877d1346de40ef5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029850&param=informatie",
+  "as_of": "2018-11-03",
+  "made": "2018-09-25",
+  "gazette": "2018-10-24",
+  "numac": 2018014393,
+  "document_start": "2018-11-03",
+  "document_end": null,
+  "in_force": "2018-11-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
