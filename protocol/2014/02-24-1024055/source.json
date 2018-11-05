@@ -2,16 +2,16 @@
   "codex_id": 1024055,
   "title": "Protocol van 2014-02-24 Aanvullend protocolakkoord aan het Protocolakkoord van 11 maart 2008 tussen de Federale Overheid en de overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet, betreffende het focal point voor het Internationaal Gezondheidsreglement (IHR)",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024055/VolledigDocument?datum=2014-05-09",
-  "source_sha256": "064ea924dac4acf2e7a8a738cacd03592c15109a7b8c80546c40a059d01ee58d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024055/VolledigDocument?datum=2018-11-05",
+  "source_sha256": "068a110006fc4124552986bc6939de632f4bc7e9d6a7f3a5fd0bb4192e2023e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024055&param=informatie",
-  "as_of": "2014-05-09",
+  "as_of": "2018-11-05",
   "made": "2014-02-24",
   "gazette": "2014-04-29",
   "numac": 2014024109,
   "document_start": "2014-05-09",
   "document_end": "2018-11-04",
-  "in_force": "2014-05-09",
+  "in_force": "2018-11-05",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2014-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-11-05; future article versions excluded; article text as the API gives it"
 }
