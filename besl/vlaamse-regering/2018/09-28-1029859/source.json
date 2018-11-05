@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029859,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-28 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029859/VolledigDocument?datum=2018-11-05",
+  "source_sha256": "a78af5aff5feb2329c27500bdc75ec8c1dc0f48fe5c260ac2e1ece0d1e6853a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029859&param=informatie",
+  "as_of": "2018-11-05",
+  "made": "2018-09-28",
+  "gazette": "2018-10-26",
+  "numac": 2018014430,
+  "document_start": "2018-11-05",
+  "document_end": null,
+  "in_force": "2018-11-05",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2018-11-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
