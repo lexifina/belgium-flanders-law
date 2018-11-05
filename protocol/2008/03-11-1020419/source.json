@@ -2,16 +2,16 @@
   "codex_id": 1020419,
   "title": "Protocol van 2008-03-11 gesloten tussen de Federale Overheid en de overheden bedoeld in artikelen 128, 130 en 135 van de Grondwet, betreffende de internationale notificatie door België in het kader van het Internationaal Gezondheidsreglement (IHR)",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020419/VolledigDocument?datum=2015-03-30",
-  "source_sha256": "ce765f61e332b468fc9b94e9367e09da400610aa779faf439aca63058d346f51",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020419/VolledigDocument?datum=2018-11-05",
+  "source_sha256": "f91fa3bce2ec54c57c741025a36c9c29d3db2451c116e473653a8fe9a32519e7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020419&param=informatie",
-  "as_of": "2015-03-30",
+  "as_of": "2018-11-05",
   "made": "2008-03-11",
   "gazette": "2008-05-07",
   "numac": 2008024165,
   "document_start": "2008-05-17",
   "document_end": "2018-11-04",
-  "in_force": "2015-03-30",
+  "in_force": "2018-11-05",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-03-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-11-05; future article versions excluded; article text as the API gives it"
 }
