@@ -49,6 +49,8 @@ Het Provinciaal Mobiliteitspunt heeft de volgende taken met betrekking tot het P
 1° projecten voor een modale verschuiving naar duurzaam woon-werkverkeer bij potentiële projectindieners initiëren;<br>
 2° projecten die projectindieners wensen in te dienen inhoudelijk ondersteunen bij de opmaak en de indiening ervan ;<br>
 3° goedgekeurde projecten begeleiden bij de uitvoering, de opvolging en de evaluatie ervan.<br>
+<br>
+Voor de verwerking van persoonsgegevens die het Provinciaal Mobiliteitspunt uitvoert in het kader van zijn taken, vermeld in het eerste lid, is het gekwalificeerd als verwerker in opdracht van de projectindiener als vermeld in artikel 4, 8) verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming), en voldoet het Provinciaal Mobiliteitspunt aan de verplichtingen die het in dat verband heeft.<br>
 &nbsp;
 
 ## HOOFDSTUK 3 De begeleidingscommissie
@@ -99,15 +101,16 @@ De begeleidingscommissie maakt jaarlijks een evaluatie van haar werking en stelt
 ### ART 10.
 
 De minister bepaalt per projectoproep voor welke van de volgende maatregelen en onder welke eventueel aanvullende voorwaarden subsidies kunnen worden verleend:<br>
-1° infrastructurele ingrepen die functionele fietsverplaatsingen of carpooling faciliteren<br>
-2° de aankoop en leasing van bedrijfsfietsen<br>
-3° het gebruik van auto- of fietsdeelsystemen<br>
-4° vergoedingen voor het gebruik van het openbaar vervoer<br>
-5° kosten voor fietsonderhoud<br>
-6° fietsvergoedingen<br>
-7° onkosten verbonden aan communicatie- en sensibiliseringsinitiatieven<br>
-8° de aankoop van (veiligheids)uitrusting voor fietsers<br>
-9° projectcoördinatiekosten.<br>
+1° infrastructurele ingrepen die functionele fietsverplaatsingen, verplaatsingen met elektrisch aangedreven fietsen, verplaatsingen met een voortbewegingstoestel of carpooling faciliteren;<br>
+2° de aankoop en leasing van bedrijfsfietsen, elektrisch aangedreven bedrijfsfietsen en bedrijfsvoortbewegingstoestellen;<br>
+3° het gebruik van auto- of fietsdeelsystemen;<br>
+4° vergoedingen voor het gebruik van het openbaar vervoer;<br>
+5° kosten voor fietsonderhoud en de kosten voor het onderhoud van elektrisch aangedreven fietsen en voortbewegingstoestellen;<br>
+6° fietsvergoedingen;<br>
+7° onkosten verbonden aan communicatie- en sensibiliseringsinitiatieven;<br>
+8° de aankoop van uitrusting voor fietsers, gebruikers van elektrisch aangedreven fietsen en gebruikers van voortbewegingstoestellen;<br>
+9° projectcoördinatiekosten;<br>
+10° vergoedingen om innovatieve vormen van woon-werkverkeer te organiseren en te gebruiken.<br>
 <br>
 De minister bepaalt per maatregel het maximale subsidietarief . Subsidies worden verleend binnen de grenzen van de maximumtarieven en voor zover de uitgaven dateren van na de datum van de oproep, vermeld in artikel 11.<br>
 <br>
@@ -171,7 +174,7 @@ De begeleidingscommissie beslist over de ontvankelijkheid van een ingediend proj
 <br>
 Over de ontvankelijk verklaarde projecten formuleert de begeleidingscommissie een advies binnen een maand na de datum waarop het Provinciaal Mobiliteitspunt zijn advies op de website van het Pendelfonds heeft opgeladen.<br>
 <br>
-Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunstig geadviseerde projecten hoger is dan het totale subsidiebedrag dat in de oproep is opgenomen, brengt de begeleidingscommissie een advies uit over de rangorde van de projecten. De rangorde wordt voor 50% bepaald op basis van de aanvaarde projectkosten per werknemer die in het potentieel werd opgenomen in het kader van een modale verschuiving. Daarnaast wordt de verwachte procentuele modale verschuiving voor 30% in rekening gebracht. 20% van de weging wordt afhankelijk gemaakt van de kwaliteit van het ingediende dossier. De minister stelt de hierbij te hanteren methodiek vast.<br>
+Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunstig geadviseerde projecten hoger is dan het totale subsidiebedrag dat in de oproep is opgenomen, brengt de begeleidingscommissie een advies uit over de rangorde van de projecten. De rangorde wordt voor 20% bepaald op basis van de aanvaarde projectkosten per werknemer die in het potentieel is opgenomen in het kader van een modale verschuiving. Daarnaast wordt de verwachte procentuele modale verschuiving voor 30% in rekening gebracht. 50% van de weging wordt afhankelijk gemaakt van de inhoudelijke onderbouwing, meer bepaald de inhoudelijke volledigheid van het dossier, de mate waarin het dossier bijdraagt aan het mobiliteitsbeleid op Vlaams niveau in het algemeen en de mate waarin het beantwoordt aan de strategische focus van de projectoproep in het bijzonder. De minister stelt de hierbij te hanteren methodiek vast.<br>
 <br>
 De minister beslist op basis van het advies van de begeleidingscommissie over de goedkeuring en, in voorkomend geval, de rangorde van de projecten. De minister kan op een gemotiveerde wijze afwijken van het voorgestelde advies.<br>
 <br>
@@ -180,8 +183,7 @@ Als de begeleidingscommissie geen advies heeft bezorgd binnen de termijn, vermel
 
 ### ART 19.
 
-De projecten die de minister heeft goedgekeurd en die volgens hun rangorde in aanmerking komen voor een subsidie ingeval het totale subsidiebedrag, opgenomen in de oproep, niet toereikend is, worden geselecteerd voor het krijgen van subsidies.<br>
-&nbsp;
+Als voor een oproep het totale bedrag van de aangevraagde subsidies van de gunstig geadviseerde projecten hoger is dan het totale subsidiebedrag dat in de oproep is bepaald, dan wordt het totale beschikbare bedrag verdeeld volgens de rangorde, vermeld in artikel 18, tot het totale bedrag is opgenomen.
 
 ## Afdeling 3 De voortgangsprocedure
 
@@ -192,6 +194,8 @@ Zodra het project van start is gegaan, meldt de projectindiener dat aan de afdel
 Nadat de projectindiener de start van het project heeft aangetoond, wordt een eerste schijf van 30% van het subsidiebedrag uitbetaald.<br>
 <br>
 Als de projectindiener geen betalingsbewijs heeft ingediend binnen zes maanden na de datum waarop de minister het subsidiebesluit heeft ondertekend, vervalt het recht op subsidie.<br>
+<br>
+Als er gegronde redenen zijn voor een eventuele vertraging, kan de minister een verlenging toestaan van de termijn, vermeld in het derde lid, waarin het betalingsbewijs van de facturatie ingediend moet worden.<br>
 &nbsp;
 
 ### ART 21.
@@ -234,6 +238,12 @@ De projectindiener bezorgt zijn voorstellen tot inhoudelijke aanpassingen van he
 <br>
 Het globale subsidiebedrag kan door deze inhoudelijke aanpassingen nooit overschreden worden.<br>
 &nbsp;
+
+### ART 26/1.
+
+De projectindiener kan de subsidie cumuleren met andere subsidies, conform de verordening (EG) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun.<br>
+<br>
+De subsidie kan geheel of gedeeltelijk worden teruggevorderd wanneer de de-minimisdrempels in de verordening nr.1407/2013 van de Commissie zijn overschreden.
 
 ## HOOFDSTUK 6 Werking en beheer van het Pendelfonds
 
