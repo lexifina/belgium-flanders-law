@@ -2,16 +2,16 @@
   "codex_id": 1007217,
   "title": "Decreet van 1980-02-13 betreffende de Koninklijke Academie voor Nederlandse Taal- en Letterkunde",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007217/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "c83f82bd4170a2f002450c000fe34860c452b158502aa0003316462b6bfcda9e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007217/VolledigDocument?datum=2018-11-10",
+  "source_sha256": "84566d9492fd7e80770b4469d0e07d84d515d5bdfcd7a8db31a1cd98c9dbc661",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007217&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2018-11-10",
   "made": "1980-02-13",
   "gazette": "1980-03-18",
   "numac": 1980021302,
   "document_start": null,
   "document_end": "2018-11-09",
-  "in_force": "2016-01-01",
+  "in_force": "2018-11-10",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-11-10; future article versions excluded; article text as the API gives it"
 }
