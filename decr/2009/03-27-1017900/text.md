@@ -694,6 +694,21 @@ De sociale woonbeleidsconvenanten bewaken de verhouding die door het Ruimtelijk 
 
 ## Afdeling 3 [... (opgeh. Decr. 9 juli 2021, art. 200, I: 20 september 2021)]
 
+### ART 4.1.5.
+
+§ 1. Dit artikel is van toepassing in geval van een vrijwillige samenvoeging van gemeenten als vermeld in het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016.<br>
+<br>
+In dit artikel wordt verstaan onder:<br>
+1° nieuwe gemeente: de nieuwe gemeente, vermeld in artikel 5, 5°, van het voormelde decreet;<br>
+2° samengevoegde gemeenten: de samengevoegde gemeenten, vermeld in artikel 5, 4°, van het voormelde decreet;<br>
+3° samenvoegingsdatum: de samenvoegingsdatum, vermeld in artikel 5, 2°, van het voormelde decreet.<br>
+<br>
+§ 2. Het bestaande sociaal woonaanbod in de nulmeting, vermeld in artikel 4.1.1, wordt voor een nieuwe gemeente vanaf de samenvoegingsdatum geacht gelijk te zijn aan de som van het bestaande sociaal woonaanbod in de nulmeting binnen de samengevoegde gemeenten.<br>
+<br>
+§ 3. Voor een nieuwe gemeente is het bindend sociaal objectief, vermeld in artikel 4.1.2, vanaf de samenvoegingsdatum gelijk aan de som van de bindende sociale objectieven van de samengevoegde gemeenten, inclusief de specifieke inhaalbeweging, vermeld in artikel 4.1.4, § 2, die in voorkomend geval aan een of meer van de samengevoegde gemeenten is opgelegd.<br>
+<br>
+Een vrijstelling of vermindering van de specifieke inhaalbeweging, vermeld in artikel 4.1.4, § 2, die voor de samenvoegingsdatum is toegekend aan een of meer van de samengevoegde gemeenten, blijft behouden.
+
 ## HOOFDSTUK 2 Normen
 
 ## Afdeling 1 Per gemeente
