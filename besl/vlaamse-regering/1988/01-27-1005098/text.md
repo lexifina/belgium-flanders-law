@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° commissarissen en gemachtigden van financiën: de door de Vlaamse regering in die hoedanigheid aangewezen personen bij instellingen van openbaar nut die vallen onder toepassing van de wet van 16 maart 1954;<br /><br />2° afgevaardigden van de Vlaamse regering: de door de Vlaamse regering in die hoedanigheid aangewezen personen bij publiekrechtelijke of privaatrechtelijke instellingen of ondernemingen;<br /><br />3° voorzitters en leden van de raden van bestuur of niet-adviserende bijzondere commissies: de personen die in die hoedanigheid hetzij benoemd of aangeduid werden door de Vlaamse regering, hetzij behoren tot instellingen, ondernemingen of niet-adviserende bijzondere commissies die bij decreet of bij besluit van de Vlaamse regering werden opgericht.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° besluit van de Vlaamse Regering van 13 juli 1988: het besluit van de Vlaamse Regering van 13 juli 1988 tot uitvoering van het besluit van de Vlaamse Regering van 27 januari 1988 houdende sommige maatregelen tot harmonisatie van de toelagen en presentiegelden aan commissarissen, gemachtigden van financiën, afgevaardigden van de Vlaamse Regering, voorzitters en leden van niet-adviserende bijzondere commissies of van raden van bestuur van instellingen en ondernemingen die onder de Vlaamse Regering behoren;<br>
+1°/1 commissarissen en gemachtigden van financiën: de door de Vlaamse regering in die hoedanigheid aangewezen personen bij instellingen, vermeld in het besluit van de Vlaamse Regering van 13 juli 1988;<br>
+2° afgevaardigden van de Vlaamse regering: de door de Vlaamse regering in die hoedanigheid aangewezen personen bij instellingen of ondernemingen, vermeld in het besluit van de Vlaamse Regering van 13 juli 1988;<br>
+3° voorzitters en leden van de raden van bestuur of niet-adviserende bijzondere commissies: de personen die in die hoedanigheid hetzij benoemd of aangeduid werden door de Vlaamse regering, hetzij behoren tot instellingen, ondernemingen of niet-adviserende bijzondere commissies, vermeld in het besluit van de Vlaamse Regering van 13 juli 1988.
 
 ### ART. 2.
 
@@ -18,17 +22,41 @@ Voor zover aan de in artikel 1 bedoelde personen toelagen, vergoedingen en prese
 
 ### ART. 4.
 
-§ 1. Behoudens andersluidende wettelijke, decretale of algemene reglementaire bepalingen, kan door het Ministerie van de Vlaamse Gemeenschap, optredend als betaalorganisme, voor de in artikel 1, 1° en 2°, bedoelde personen, aangewezen door de Vlaamse regering, een forfaitaire jaarlijkse toelage worden betaald van:<br /><br />a) 30 000 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie I als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />b) 45 000 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie II als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />c) 60 000 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie III als bedoeld bij artikel 3, § 1, hiervoor.<br /><br />§ 2. De forfaitaire toelage voorzien bij § 1 hiervoor wordt in gelijke delen per kwartaal uitbetaald, na verlopen termijn, op voorlegging van een ondertekende schuldvordering.<br /><br />Zij valt ten laste van de instelling, onderneming of bijzondere commissie waarbij de bedoelde personen aangewezen worden.
+§ 1. Behoudens andersluidende wettelijke, decretale of algemene reglementaire bepalingen kan voor de personen, vermeld in artikel 1, 1° /1 en 2°, die aangewezen zijn door de Vlaamse Regering, een forfaitaire jaarlijkse toelage worden toegekend van:<br>
+1° een maximumbedrag van 1270 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie I als vermeld in artikel 3, § 1;<br>
+2° een maximumbedrag van 1900 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie II als vermeld in artikel 3, § 1;<br>
+3° een maximumbedrag van 2540 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie III als vermeld in artikel 3, § 1.<br>
+<br>
+§ 2. De forfaitaire toelage, vermeld in paragraaf 1, kan alleen betaald worden aan de betrokken personen als ze in het kalenderjaar waarop de vergoeding betrekking heeft, aanwezig waren op minstens twee derde van de vergaderingen van de raad van bestuur waarvoor ze op regelmatige wijze waren uitgenodigd. Deze maatregel geldt niet als de afwezigheid het gevolg was van overmacht of gewettigde verhindering.<br>
+<br>
+De forfaitaire toelage, in voorkomend geval verminderd overeenkomstig artikel 16, wordt betaald in het begin van het kalenderjaar dat volgt op het kalenderjaar waarop de toelage betrekking heeft.<br>
+<br>
+Als het mandaat van een persoon in een bepaald jaar minder dan twaalf maanden bestrijkt, wordt het bedrag van de forfaitaire toelage pro rata berekend, in maanden. Bij die berekening wordt de maand meegerekend waarin het mandaat begonnen of beëindigd is.<br>
+<br>
+De forfaitaire toelage is ten laste van de instelling, onderneming of bijzondere commissie waarbij de bedoelde personen aangewezen zijn.
 
 ### ART. 5.
 
-Buiten de in artikel 4, § 1, hiervoor vermelde toelagen kan door het Ministerie van de Vlaamse Gemeenschap voor de in artikel 1,1° en 2°, bedoelde personen een presentiegeld worden betaald, vastgesteld overeenkomstig artikel 9 van onderhavig besluit.<br /><br />Zij valt ten laste van de instelling, onderneming of bijzondere commissie waarbij de bedoelde personen aangewezen worden.
+Buiten de in artikel 4, § 1, hiervoor vermelde toelagen kan&nbsp;voor de in artikel 1, 1° /1 en 2°, bedoelde personen een presentiegeld worden betaald, vastgesteld overeenkomstig artikel 9 van onderhavig besluit.<br>
+<br>
+Zij valt ten laste van de instelling, onderneming of bijzondere commissie waarbij de bedoelde personen aangewezen worden.
 
 ## HOOFDSTUK III TOELAGEN VOOR DE VOORZITTERS VAN NIET-ADVISERENDE BIJZONDERE COMMISSIES OF VAN RADEN VAN BESTUUR VAN INSTELLINGEN OF ONDERNEMINGEN DIE BIJ DECREET OF BIJ BESLUIT VAN DE VLAAMSE REGERING WERDEN OPGERICHT
 
 ### ART. 6.
 
-Een forfaitaire jaarlijkse toelage kan toegekend worden aan de voorzitters bedoeld in artikel 1, 3°.<br /><br />In voorkomend geval wordt deze toelage, behoudens andersluidende wettelijke, decretale of algemene reglementaire bepalingen beperkt tot:<br /><br />a) een maximum bedrag van 45 000 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie I, als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />b) een maximum bedrag van 67 500 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie II, als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />c) een maximum bedrag van 90 000 frank voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie III, als bedoeld bij artikel 3, § 1, hiervoor.<br /><br />Deze toelage wordt in gelijke delen per kwartaal uitbetaald, na verlopen termijn, tegen voorlegging van een ondertekende schuldvordering. Zij valt ten laste van het Ministerie van de Vlaamse Gemeenschap of van de betrokken instelling, onderneming of bijzondere commissie.
+§ 1. Behoudens andersluidende wettelijke, decretale of algemene reglementaire bepalingen kan aan de voorzitters, vermeld in artikel 1, 3°, een forfaitaire jaarlijkse toelage worden toegekend van:<br>
+1° een maximumbedrag van 1900 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie I als vermeld in artikel 3, § 1;<br>
+2° een maximumbedrag van 2850 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie II als vermeld in artikel 3, § 1;<br>
+3° een maximumbedrag van 3800 euro voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie III als vermeld in artikel 3, § 1.<br>
+<br>
+§ 2. De forfaitaire toelage, vermeld in paragraaf 1, kan alleen betaald worden als de voorzitter in het kalenderjaar waarop de vergoeding betrekking heeft, aanwezig was op minstens twee derde van de vergaderingen van de raad van bestuur waarvoor hij in die hoedanigheid aangesteld is. Deze maatregel geldt niet als de afwezigheid het gevolg was van overmacht of gewettigde verhindering.<br>
+<br>
+De forfaitaire toelage, in voorkomend geval verminderd overeenkomstig artikel 16, wordt betaald in het begin van het kalenderjaar dat volgt op het kalenderjaar waarop de toelage betrekking heeft.<br>
+<br>
+Als het mandaat van de voorzitter in een bepaald jaar minder dan twaalf maanden bestrijkt, wordt het bedrag van de forfaitaire toelage pro rata berekend, in maanden. Bij die berekening wordt de maand meegerekend waarin het mandaat begonnen of beëindigd werd.<br>
+<br>
+De toelage is ten laste van de betrokken instelling, onderneming of bijzondere commissie.
 
 ### ART. 7.
 
@@ -42,7 +70,12 @@ Wanneer de voorzitter verhinderd is en diens functie waargenomen wordt door een 
 
 ### ART. 9.
 
-Aan de in artikel 1, 3°, bedoelde personen kan een presentiegeld worden toegekend, berekend als volgt:<br /><br />a) een maximum bedrag van 1 000 frank per zitting en met een maximum van 40 000 frank per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie I als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />b) een maximum bedrag van 1 500 frank per zitting en met een maximum van 60 000 frank per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie II, als bedoeld bij artikel 3, § 1, hiervoor;<br /><br />c) een maximum bedrag van 2 000 frank per zitting en met een maximum van 80 000 frank per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in de categorie III, als bedoeld bij artikel 3, § 1, hiervoor.<br /><br />[Aan de in het eerste lid bedoelde personen die gehandicapt zijn en zonder assistentie van een derde persoon de zittingen van de niet-adviserende organen niet kunnen bijwonen, kan een verhoogd presentiegeld, bovenop het bij het eerste lid vermelde presentiegeld, worden toegekend van 750 frank per zitting van een halve dag en van 1 500 frank per zitting van een hele dag.  <span class="reference">(ing. B.V.R. 14 mei 1996, art. 1, I: 1 januari 1996)</span> ]
+Aan de personen, vermeld in artikel 1, 3°, kan een presentiegeld worden toegekend van:<br>
+1° een maximumbedrag van 45 euro per zitting tot maximaal 1800 euro per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie I als vermeld in artikel 3, § 1;<br>
+2° een maximumbedrag van 65 euro per zitting tot maximaal 2600 euro per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie II als vermeld in artikel 3, § 1;<br>
+3° een maximumbedrag van 85 euro per zitting tot maximaal 3400 euro per jaar voor de instellingen, ondernemingen of bijzondere commissies die gerangschikt worden in categorie III als vermeld in artikel 3, § 1.<br>
+<br>
+Aan de personen, vermeld in het eerste lid, die een handicap hebben en die zonder assistentie van een derde persoon de zittingen van de niet-adviserende organen niet kunnen bijwonen, kan het presentiegeld, vermeld in het eerste lid, verhoogd worden met 32,50 euro per zitting van een halve dag en met 65 euro per zitting van een hele dag.
 
 ### ART. 10.
 
@@ -50,15 +83,19 @@ Per dag kan maar één presentiegeld worden toegekend.
 
 ### ART. 11.
 
-Aan de in artikel 1 bedoelde personen en aan de leden als bedoeld bij onderhavig besluit kunnen daarenboven ook nog reis- en verblijfkosten worden toegekend die in geen geval hoger mogen liggen dan die welke gelden voor ambtenaren van het eerste niveau van het Ministerie van de Vlaamse Gemeenschap.<br /><br />Voor de toepassing van voornoemd lid worden de voorzitters van de raden van bestuur en van de bijzondere commissies, die geen ambtenaar zijn, in dit verband gelijk gesteld met ambtenaren van de rangen 15 tot 17.
+Aan de in artikel 1 bedoelde personen en aan de leden als bedoeld bij onderhavig besluit kunnen daarenboven ook nog reis- en verblijfkosten worden toegekend die in geen geval hoger mogen liggen dan die welke gelden voor ambtenaren van niveau A bij de diensten van de Vlaamse overheid.<br>
+<br>
+Voor de toepassing van voornoemd lid worden de voorzitters van de raden van bestuur en van de bijzondere commissies, die geen ambtenaar zijn, in dit verband gelijk gesteld met ambtenaren van de rangen A3&nbsp;tot A4.
 
 ### ART. 12.
 
-Behoudens andersluidende algemene reglementaire bepalingen worden het presentiegeld en de vergoedingen voor reis- en verblijfkosten per kwartaal uitbetaald tegen voorlegging van een ondertekende schuldvordering die door het Ministerie van de Vlaamse Gemeenschap of door de betrokken instelling, onderneming of bijzondere commissie wordt gewaarmerkt op basis van de gecontroleerde aanwezigheden op de zittingen.<br /><br />Het presentiegeld en de vergoedingen wegens reis- en verblijfkosten vallen ten laste van de betrokken instelling, onderneming of bijzondere commissie.
+Behoudens andersluidende algemene reglementaire bepalingen worden het presentiegeld en de vergoedingen voor reis- en verblijfkosten per kwartaal uitbetaald op basis van de gecontroleerde aanwezigheden op de zittingen.<br>
+<br>
+Het presentiegeld en de vergoedingen wegens reis- en verblijfkosten vallen ten laste van de betrokken instelling, onderneming of bijzondere commissie.
 
 ### ART. 13.
 
-De toelagen en presentiegelden, waarvan sprake in de artikelen 4, 6 en 9, ondergaan periodiek de schommelingen van het indexcijfer van de consumptieprijzen. De herziening gebeurt telkens na een vaste periode van twee jaar. In aanmerking worden genomen de indexcijfers die van kracht zijn in januari 1988 (zijnde 274,54) en in januari van het telkens daaropvolgend jaar van herziening.
+De toelagen en presentiegelden, vermeld in artikel 4, 6 en 9, en de bedragen, vermeld in artikel 16, volgen de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld. Ze zijn gekoppeld aan het spilindexcijfer 103,04 (basis 2013).
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
@@ -68,11 +105,38 @@ Voor de voorzitter bedoeld in artikel 1, 3°, kan de jaarlijkse vergoeding waarv
 
 ### ART. 15.
 
-Aan de in artikel 1 bedoelde personen kunnen geen andere toelagen en presentiegelden worden toegekend dan de in het besluit bepaalde.
+§ 1. Als binnen de raad van bestuur een auditcomité wordt opgericht, kan de raad van bestuur beslissen voor de prestaties van de in artikel 1 bedoelde personen als lid van het auditcomité een vergoeding toe te kennen.<br>
+<br>
+De vergoeding wordt toegekend in de vorm van een presentiegeld per bijgewoonde vergadering van het auditcomité.<br>
+<br>
+Het bedrag van het presentiegeld kan maximaal gelijk zijn aan het presentiegeld voor de deelname aan een vergadering van de raad van bestuur.<br>
+<br>
+Aan de bestuurder die voorzitter is van het auditcomité kan een dubbel presentiegeld worden toegekend.<br>
+<br>
+§ 2. Als binnen de raad van bestuur een remuneratiecomité wordt opgericht, kan de raad van bestuur beslissen voor de prestaties van de in artikel 1 bedoelde personen als lid van het remuneratiecomité een vergoeding toe te kennen.<br>
+<br>
+De vergoeding wordt toegekend in de vorm van een presentiegeld per bijgewoonde vergadering van het remuneratiecomité.<br>
+<br>
+Het bedrag van het presentiegeld kan maximaal gelijk zijn aan het presentiegeld voor de deelname aan een vergadering van de raad van bestuur.<br>
+<br>
+Aan de bestuurder die voorzitter is van het remuneratiecomité kan een dubbel presentiegeld worden toegekend.<br>
+<br>
+§ 3. Als binnen de raad van bestuur een comité wordt opgericht met een andere opdracht dan een auditcomité of een remuneratiecomité, kan voor de prestaties van in artikel 1 bedoelde personen als lid van een dergelijk comité geen extra vergoeding worden toegekend. De vergoeding daarvoor wordt geacht begrepen te zijn in de vergoedingen die worden toegekend als lid van de raad van bestuur.
 
 ### ART. 16.
 
-Op basis van gemotiveerde voorstellen van de betrokken Vlaamse minister kan de Vlaamse regering afwijken van de onderhavige bepalingen.
+§ 1. Per kalenderjaar wordt de som van de presentiegelden en van de forfaitaire jaarlijkse toelage, die voor de vergaderingen van de raad van bestuur toegekend worden aan een persoon, vermeld in artikel 1, als volgt beperkt:<br>
+1° voor kleine organisaties (maximaal 99 personeelsleden): 2500 euro;<br>
+2° voor middelgrote organisaties (minimaal 100 en maximaal 499 personeelsleden): 4500 euro;<br>
+3° voor grote organisaties (minimaal 500 personeelsleden): 6500 euro.<br>
+<br>
+Voor de voorzitters worden de voormelde bedragen verdubbeld.<br>
+<br>
+Als het mandaat van een persoon, vermeld in artikel 1, in een bepaald jaar minder dan twaalf maanden bestrijkt, wordt het bedrag, vermeld in het eerste lid, pro rata berekend in maanden. Bij die berekening wordt de maand meegerekend waarin het mandaat begonnen of beëindigd is.<br>
+<br>
+Het aantal personeelsleden is het aantal werknemers, uitgedrukt in voltijdsequivalenten (vte), dat in dienst is op 31 december van het jaar waarop de vergoedingen betrekking hebben.<br>
+<br>
+§ 2. De Vlaamse Regering kan, op gemotiveerd voorstel van de betrokken instelling, onderneming of bijzondere commissie, een verhoging toestaan van de maximumbedragen van de vergoedingen, vermeld in artikel 4, 6 en 9, op voorwaarde dat de bedragen per kalenderjaar, vermeld in paragraaf 1, niet overschreden worden.
 
 ### ART. 17.
 
