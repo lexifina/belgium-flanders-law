@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030229,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot wijziging van diverse besluiten van de Vlaamse Regering betreffende de vergoedingen van bestuurders en regeringscommissarissen in de Vlaamse publieke sector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030229/VolledigDocument?datum=2018-11-16",
+  "source_sha256": "b17a6d6e0317ed8ab57d23363a88d439d00aee34ad08aacc0fc7fe60b4de8679",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030229&param=informatie",
+  "as_of": "2018-11-16",
+  "made": "2018-12-21",
+  "gazette": "2019-02-06",
+  "numac": 2019010520,
+  "document_start": "2018-11-16",
+  "document_end": null,
+  "in_force": "2018-11-16",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
