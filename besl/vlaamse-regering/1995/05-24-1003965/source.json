@@ -2,16 +2,16 @@
   "codex_id": 1003965,
   "title": "Besluit van de Vlaamse Regering van 1995-05-24 houdende vaststelling van de regelen betreffende de werking en het beheer van het Vlaams Fonds voor de Lastendelging",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003965/VolledigDocument?datum=2017-03-01",
-  "source_sha256": "5bb4ba648ce7433fb6eb436726cfdbfb083d93fd6457a903e31a8043ec2b904b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003965/VolledigDocument?datum=2018-11-17",
+  "source_sha256": "3d5bd2eed1a8d40c51b74bbbbca8eee709f422783d6dba5f6d15848faa00799a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003965&param=informatie",
-  "as_of": "2017-03-01",
+  "as_of": "2018-11-17",
   "made": "1995-05-24",
   "gazette": "1995-09-02",
   "numac": 1995036231,
   "document_start": "1995-01-01",
   "document_end": null,
-  "in_force": "2017-03-01",
+  "in_force": "2018-11-17",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2017-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-11-17; future article versions excluded; article text as the API gives it"
 }
