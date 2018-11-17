@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029883,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029883/VolledigDocument?datum=2018-11-17",
+  "source_sha256": "4beeb6777a2611e05d7dc7a078c8ab433a3ec7a45eb158715256f3e69ba13227",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029883&param=informatie",
+  "as_of": "2018-11-17",
+  "made": "2018-09-07",
+  "gazette": "2018-11-07",
+  "numac": 2018014536,
+  "document_start": "2018-11-17",
+  "document_end": null,
+  "in_force": "2018-11-17",
+  "article_versions": 99,
+  "record_form": "consolidated version as in force on 2018-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
