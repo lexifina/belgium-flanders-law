@@ -45,7 +45,7 @@ De bepalingen van dit besluit zijn van toepassing, voor zover deze handelingen n
 
 ### ART. 1.4.
 
-De bepalingen van dit besluit zijn van toepassing, voor zover deze handelingen niet strijdig zijn met de voorschriften van gemeentelijke ruimtelijke uitvoeringsplannen, bijzondere plannen van aanleg, verkavelingen of omgevingsvergunningen voor het verkavelen van gronden die niet opgenomen zijn in de gemeentelijke lijst, opgemaakt in toepassing van artikel 4.4.1, § 3 van de Vlaamse Codex Ruimtelijke Ordening.<br>
+De bepalingen van dit besluit zijn van toepassing, voor zover deze handelingen niet strijdig zijn met de voorschriften van gemeentelijke ruimtelijke uitvoeringsplannen, bijzondere plannen van aanleg,&nbsp;minder dan vijftien jaar oude verkavelingsvergunningen of minder dan vijftien jaar oude omgevingsvergunningen voor het verkavelen van gronden die niet opgenomen zijn in de gemeentelijke lijst, opgemaakt in toepassing van artikel 4.4.1, § 3 van de Vlaamse Codex Ruimtelijke Ordening.<br>
 &nbsp;
 
 ### ART 1.5
@@ -55,9 +55,9 @@ Overeenkomstig artikel 4.2.3. van de Vlaamse Codex Ruimtelijke Ordening zijn de 
 ### ART 1.6.
 
 De bepalingen van dit besluit zijn niet van toepassing op handelingen gelegen in:<br>
-1° een vijf meter brede strook, te rekenen vanaf de bovenste rand van het talud van ingedeelde onbevaarbare en bevaarbare waterlopen;<br>
+1° een vijf meter brede strook, te rekenen vanaf de bovenste rand van het talud van ingedeelde onbevaarbare en bevaarbare waterlopen, alsook in de bedding van deze waterlopen;<br>
 2° de erfdienstbaarheidszone langs grachten van algemeen belang, opgelegd in toepassing van artikel 32quaterdecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
-3° een afgebakende oeverzone als vermeld in artikel 3, § 2, 43°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
+3° een afgebakende oeverzone als vermeld in artikel 3, § 2, 43bis° , van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
 <br>
 De bepalingen van het eerste lid zijn niet van toepassing op handelingen, uitgevoerd door of in opdracht van de beheerder van de waterloop of gracht.
 
@@ -145,7 +145,7 @@ b) vijf meter van alle perceelsgrenzen;<br>
 
 ### ART. 4.2.
 
-Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het aanleggen van verhardingen als aan al de volgende voorwaarden voldaan is:<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het aanleggen van verhardingen als aan al de volgende voorwaarden voldaan is:<br>
 1° de verhardingen staan in functie van de bestaande industrie en bedrijvigheid;<br>
 2° voor de plaats waar de verhardingen worden aangelegd bestaat een bijzonder plan van aanleg of ruimtelijk uitvoeringsplan;<br>
 3° de verhardingen worden aangelegd binnen een straal van:<br>
@@ -159,7 +159,7 @@ b) drie meter van alle perceelsgrenzen;.<br>
 
 ### ART 4.3.
 
-Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het oprichten van gebouwen als aan al de volgende voorwaarden voldaan is:<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het oprichten van gebouwen als aan al de volgende voorwaarden voldaan is:<br>
 1° het gebouw heeft de functie industrie en bedrijvigheid, staat in relatie tot de bestaande industrie en bedrijvigheid en betreft geen bedrijfswoning;<br>
 2° voor de plaats waar het gebouw wordt opgericht bestaat een bijzonder plan van aanleg of ruimtelijk uitvoeringsplan;<br>
 3° het gebouw wordt opgericht binnen een straal van:<br>
@@ -219,7 +219,7 @@ c) voor de drainagewerken is geen milieueffectrapport vereist;<br>
 
 ### ART 5.3.
 
-&nbsp;Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van constructies, in agrarisch gebied in de ruime zin als aan al de volgende voorwaarden voldaan is:<br>
+&nbsp;Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van constructies, in agrarisch gebied in de ruime zin als aan al de volgende voorwaarden voldaan is:<br>
 1° de constructies staan in functie van de professionele teelt van landbouwgewassen of van de professionele veeteelt;<br>
 2° het betreft geen gebouwen of verhardingen;<br>
 3° de constructies worden opgericht binnen een straal van dertig meter van een hoofdzakelijk vergund of vergund geacht landbouwbedrijfsgebouw;<br>
@@ -239,6 +239,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor :<
 a) ze maken geen deel uit van een bos;<br>
 b) ze liggen in een woongebied in de ruime zin, in een agrarisch gebied in de ruime zin of in een industriegebied in de ruime zin, en niet in een woonparkgebied;<br>
 c) ze liggen binnen een straal van maximaal 15 meter rondom de vergunde woning, de vergunde landbouwbedrijfswoning of landbouwbedrijfsgebouwen of de vergunde bedrijfswoning of bedrijfsgebouwen;<br>
+d) ze liggen niet op openbaar domein;<br>
 2° het vellen van alleenstaande hoogstammige bomen of van enkele bomen in lijnverband omwille van acuut gevaar en na voorafgaande schriftelijke instemming van de burgemeester;<br>
 3° het vellen van hoogstammige bomen, gelegen op terreinen waarvoor een door de bevoegde overheid of bevoegde administratie(s) goedgekeurd beheersplan of beheersvisie bestaat op basis van de milieu- en natuurwetgeving, als het vellen van de hoogstammige bomen als activiteit in dat beheersplan of beheersvisie is opgenomen.<br>
 4° het vellen van hoogstammige bomen die deel uitmaken van systemen voor grondgebruik waarbij de teelt van bomen wordt gecombineerd met landbouw op dezelfde grond, toegepast op een perceel landbouwgrond als vermeld in artikel 2, 12°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid en waarvan de aanmelding via de verzamelaanvraag en het aanplanten van de bomen is gedaan na 1 juni 2012;<br>
@@ -257,7 +258,7 @@ b) de hoogstammige bomen zijn hoger dan de afstand tussen de voet van de boom en
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor volgende handelingen:<br>
 1° het aanleggen of herinrichten van perceelsopritten en perceelsovergangen, inclusief de eventueel hiervoor strikt noodzakelijke inbuizing van grachten;<br>
 2° het aanleggen, inbuizen, openleggen, herprofileren of geheel of gedeeltelijk dempen van grachten voor de detailontwatering van een gebied, voor zover de bodem van de aan te leggen grachten niet dieper is dan 1,5 meter, gemeten vanaf het maaiveld;<br>
-3° het uitvoeren van reliëfwijzigingen van minder dan een meter die de aard en de functie van het terrein niet wijzigen;<br>
+3° het uitvoeren van reliëfwijzigingen van minder dan een meter;<br>
 4° het plaatsen of herinrichten van kleinschalige toeristisch-recreatieve infrastructuur zoals zitbanken, picknicktafels, vuilbakken, fietsenrekken, speeltoestellen, infopanelen en infokiosken;<br>
 5° het plaatsen of herinrichten van kleinschalige faunavoorzieningen;<br>
 6° het aanleggen of herinrichten van infiltratie- of buffervoorzieningen met een maximale oppervlakte van 100 vierkante meter;<br>
@@ -278,20 +279,20 @@ De vrijstelling, vermeld in het eerste lid, geldt alleen voor handelingen ter ui
 
 ### ART 6.3.
 
-Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het louter door uitgraving aanleggen van een veedrinkpoel met een maximale oppervlakte van 100 vierkante meter.
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het louter door uitgraving aanleggen van een veedrinkpoel met een maximale oppervlakte van 100 vierkante meter.
 
 ## HOOFDSTUK 7 Tijdelijke handelingen
 
 ### ART. 7.1.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor tijdelijke handelingen nodig voor de uitvoering van vergunde werken, als die handelingen plaatsvinden binnen de werkstrook die afgebakend is in de omgevingsvergunning voor stedenbouwkundige handelingen of als die handelingen plaatsvinden op openbaar domein.<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor tijdelijke handelingen die nodig zijn om vergunde handelingen, meldingsplichtige handelingen waarvan akte is genomen of van vergunning vrijgestelde handelingen uit te voeren als die tijdelijke handelingen plaatsvinden op openbaar domein, op het goed of binnen de werkstrook die afgebakend is in de omgevingsvergunning voor stedenbouwkundige handelingen of in de meldingsakte. De tijdelijke handelingen die nodig zijn om de van vergunning vrijgestelde handelingen uit te voeren, mogen niet langer dan een jaar duren.<br>
 <br>
-Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de tijdelijke plaatsing van verplaatsbare constructies tijdens de uitvoering van vergunde verbouwingen of herbouwingen van gebouwen als aan al de volgende voorwaarden is voldaan:<br>
-1° de constructies worden gebruikt om functies in onder te brengen die door de uitvoering van de werken niet meer kunnen plaatsvinden in de te verbouwen of herbouwen gebouwen;<br>
-2° de constructies worden niet langer dan twee jaar geplaatst;<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de tijdelijke plaatsing van verplaatsbare constructies tijdens de uitvoering van vergunde verbouwingen of herbouwingen van gebouwen, meldingsplichtige verbouwingen of herbouwingen waarvan akte is genomen of van vergunning vrijgestelde verbouwingen als aan al de volgende voorwaarden is voldaan :<br>
+1° de constructies worden gebruikt om functies in onder te brengen die door de uitvoering van de handelingen niet meer kunnen plaatsvinden in de te verbouwen of herbouwen gebouwen;<br>
+2° de constructies worden niet langer dan twee jaar geplaatst in geval van vergunde of meldingsplichtige verbouwingen of herbouwingen en niet langer dan een jaar in geval van verbouwingen die vrijgesteld zijn van vergunning;<br>
 3° de maximale hoogte is beperkt tot 3,5 meter;<br>
-4° de constructies worden verwijderd binnen dertig dagen nadat de vergunde verbouwde of herbouwde gebouwen in gebruik zijn genomen.<br>
-&nbsp;
+4° bij plaatsing op een goed dat niet tot het openbaar domein behoort, wordt de constructie op minimaal twee meter afstand van de zijdelingse en van de achterste perceelsgrens geplaatst;<br>
+5° de constructies worden verwijderd binnen dertig dagen nadat de verbouwde of herbouwde gebouwen in gebruik zijn genomen.
 
 ### ART. 7.2.
 
@@ -316,7 +317,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART 7.5.
 
-Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het tijdelijk gebruiken van een terrein om op te kamperen in het kader van een evenement of door georganiseerde groepen kampeerders die onder toezicht van een of meer begeleiders staan als aan al de volgende voorwaarden is voldaan:<br>
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het tijdelijk gebruiken van een terrein om op te kamperen in het kader van een evenement of door georganiseerde groepen kampeerders die onder toezicht van een of meer begeleiders staan als aan al de volgende voorwaarden is voldaan:<br>
 1° een maximale duur van vier periodes van dertig aaneengesloten dagen per kalenderjaar wordt niet overschreden. Op de eerste dag van het gebruik begint de periode van dertig dagen te lopen, ongeacht of het gebruik de volle dertig dagen gebeurt. De periodes van dertig dagen kunnen aaneengesloten zijn, maar overlappen elkaar niet;<br>
 2° het terrein ligt niet in een ruimtelijk kwetsbaar gebied, niet zijnde parkgebied;<br>
 3° het gebruik brengt de verwezenlijking van de algemene bestemming van het gebied niet in het gedrang;<br>
@@ -344,7 +345,7 @@ De vrijstelling, vermeld in artikel 8.1, geldt alleen als de handelingen voldoen
 1° de bestaande terreinen, gebouwen, constructies en verhardingen zijn hoofdzakelijk vergund of vergund geacht;<br>
 2° het terrein wordt niet uitgebreid en de bestaande bufferzones blijven behouden;<br>
 3° er wordt geen vergunningsplichtige functiewijziging uitgevoerd;<br>
-4° ...<br>
+4° de handelingen betreffen niet het slopen of verwijderen van gebouwen, met uitzondering van het slopen of verwijderen, vermeld in hoofdstuk 13;<br>
 5° de handelingen zijn niet gesitueerd in ruimtelijk kwetsbaar gebied, met uitzondering van parkgebied;<br>
 6° de handelingen gaan niet gepaard met een ontbossing, een aanmerkelijke reliëfwijziging of een wijziging van waterlichamen;<br>
 7° ...<br>
@@ -352,11 +353,14 @@ De vrijstelling, vermeld in artikel 8.1, geldt alleen als de handelingen voldoen
 
 ### ART. 8.3.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor het optrekken van installaties en gebouwen van militair strategisch belang   in gebieden die op de plannen van aanleg of op de uitvoeringsplannen aangegeven   zijn als militair domein.<BR><BR>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het optrekken van installaties en gebouwen van militair strategisch belang in gebieden die op de plannen van aanleg of op de uitvoeringsplannen aangegeven zijn als militair domein.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de aanleg van leidingen van militair strategisch belang en hun aanhorigheden.<br>
+&nbsp;
 
 ### ART. 8.4.
 
-Een stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen, verplaatsen, wijzigen of vervangen van verplaatsbare verblijven, ook al zijn ze bestemd om ter plaatse te blijven staan, en voor bijbehorende installaties, op voorwaarde dat:<br>
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor het plaatsen, verplaatsen, wijzigen of vervangen van verplaatsbare verblijven, ook al zijn ze bestemd om ter plaatse te blijven staan, en voor bijbehorende installaties, op voorwaarde dat:<br>
 1° de verblijven zijn geplaatst op een terreingerelateerd logies dat voldoet aan de voorwaarden, vermeld in artikel 4 van het decreet van 5 februari 2016 houdende het toeristische logies;<br>
 2° de plaatsing, verplaatsing, wijziging of vervanging niet strijdig is met de voorwaarden, vermeld in punt 1°.<br>
 <br>
@@ -388,10 +392,10 @@ Alleen voor de plaatsing van volgende publiciteitsinrichtingen is geen omgevings
 ### ART. 10.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de uitvoering van de volgende handelingen op openbaar domein of op een terrein dat na de handelingen tot het openbaar domein zal behoren :<br>
-1° de aanleg of wijziging van verhardingen waarvan de oppervlakte 150 vierkante meter of minder bedraagt, met een reliëfwijziging van minder dan 50 cm;<br>
-2° het aanbrengen van een andere verharding met een maximale uitbreiding van 150 vierkante meter. De vrijstelling geldt niet als de bestaande weg een aardeweg, grindweg, steengruisweg of kasseiweg is;<br>
+1° de aanleg van verhardingen waarvan de oppervlakte&nbsp;300 vierkante meter of minder bedraagt, met een reliëfwijziging van minder dan 50 cm;<br>
+2° het geheel of gedeeltelijk wijzigen van een bestaande verharding. De vrijstelling geldt niet als de bestaande weg een aardeweg, grindweg, steengruisweg of kasseiweg is of als de bestaande weg een waterdoorlatend karakter heeft;<br>
 3° de aanleg van verhoogde kruispunten, verkeersdrempels en andere verkeersremmende ingrepen binnen de bestaande verhardingsbreedte;<br>
-4° gebruikelijke ondergrondse constructies en aansluitingen, zoals installaties voor het transport of de distributie van drinkwater, afvalwater, elektriciteit, aardgas en andere nutsvoorzieningen;<br>
+4° gebruikelijke ondergrondse constructies en aansluitingen, zoals installaties voor het transport of de distributie van drinkwater, afvalwater, elektriciteit, aardgas, warmte- en koudenetleidingen en andere nutsvoorzieningen;<br>
 5° gebruikelijke aanhorigheden;<br>
 6° technische constructies van algemeen belang met een maximaal volume van 30 kubieke meter en een maximale hoogte van 5 meter;<br>
 7° de ondergrondse aanhoging of uitdieping van waterlichamen of de versteviging van oevers, voor zover deze niet gelegen zijn in een ruimtelijk kwetsbaar gebied en het project niet voor komt op bijlage I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage;<br>
@@ -423,7 +427,7 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 ### ART. 11.5.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor :<br>
-1° het op dezelfde plaats geheel of gedeeltelijk vervangen van een vergunde pyloon of mast door een nieuwe pyloon of mast die even hoog is of lager, en die er kennelijk hetzelfde uitziet als de vergunde pyloon of mast;<br>
+1° het geheel of gedeeltelijk vervangen van een vergunde pyloon of mast door een nieuwe pyloon of mast die even hoog is of lager, en die er kennelijk hetzelfde uitziet als de vergunde pyloon of mast. De vervanging gebeurt op dezelfde plaats of onmiddellijk aansluitend bij de vergunde pyloon of mast, waarbij de nieuwe afstanden tot de perceelsgrenzen niet kleiner zijn dan de bestaande afstand tot de dichtstbijzijnde perceelsgrens;<br>
 2° het op dezelfde plaats geheel of gedeeltelijk vervangen van een vergunde windturbine voor de productie van elektriciteit door een nieuwe windturbine die even hoog is of lager, en met wieken die even lang zijn of korter, en die er kennelijk hetzelfde uitziet als de vergunde windturbine;<br>
 3° het op dezelfde plaats geheel of gedeeltelijk vervangen van een bestaande&nbsp;installatie met een maximaal volume van 30 kubieke meter door een nieuwe&nbsp;installatie met hetzelfde of een kleiner omschreven volume.<br>
 &nbsp;
@@ -442,7 +446,8 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 11.9.
 
-De vrijstelling, vermeld in artikel 11.1, tot en met artikel 11.8. geldt enkel voor zover deze handelingen niet niet voor komen op bijlage I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage.<br /><br />
+De vrijstelling, vermeld in artikel 11.1, tot en met artikel 11.8. geldt enkel voor zover deze handelingen niet voor komen op bijlage I en II van het besluit van de Vlaamse Regering van 10 december 2004 houdende vaststelling van de categorieën van projecten onderworpen aan milieueffectrapportage.<br>
+&nbsp;
 
 ## HOOFDSTUK 12 Telecommunicatie
 
@@ -452,11 +457,16 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de
 1° de plaatsing van de volledige installatie, binnen in bestaande gebouwen of constructies. In voorkomend geval wordt de zend- en ontvangstinstallatie geplaatst achter materialen die er hetzelfde uitzien als de bestaande materialen, maar die radiogolven doorlaten;<br>
 2° de plaatsing van een installatie voor telecommunicatie aan de buitenkant van bestaande gebouwen of constructies, in de kleur van de gevel of de constructie, of in een neutrale, onopvallende kleur, als de installatie niet boven het gebouw of de constructie uitsteekt;<br>
 3 de plaatsing van een installatie op een bestaand gebouw gelegen in een industriegebied in de ruime zin. De totale hoogte van de dragende structuur bedraagt maximaal 5 meter boven het gebouw. De bijbehorende technische installatie wordt ondergebracht in het gebouw, ondergronds of op het dak;<br>
-4° de plaatsing van een installatie op een bestaande vergunde pyloon of mast op voorwaarde dat de hoogte niet toeneemt en de bijbehorende technische installatie ondergronds geplaatst wordt of onmiddellijk aansluit bij de pyloon of mast;<br>
-5° de plaatsing van een installatie aan een bestaande vergunde hoogspanningspyloon, op voorwaarde dat de hoogte met maximaal vijf meter toeneemt en de bijbehorende technische installatie ondergronds geplaatst wordt of onmiddellijk aansluit bij de pyloon;<br>
+4° de plaatsing van een installatie op een&nbsp;vergunde pyloon of mast op voorwaarde dat de hoogte niet toeneemt;<br>
+5° de plaatsing van een installatie aan een bestaande vergunde hoogspanningspyloon, op voorwaarde dat de hoogte met maximaal vijf meter toeneemt en de bijbehorende technische installatie ondergronds geplaatst wordt of onmiddellijk aansluit bij de pyloon, met een maximaal volume van dertig kubieke meter per openbare telecommunicatie-operator;<br>
 6° de plaatsing van installaties op bestaande verlichtingspalen, met inbegrip van de vervanging ervan, op openbaar domein, op voorwaarde dat de installatie niet meer dan vijf meter boven de verlichtingsarmatuur of boven de bestaande infrastructuur uitsteekt;<br>
 7° de plaatsing van installaties en constructies ter verzekering van de stabiliteit en veiligheid bij bestaande installaties.<br>
-8° de plaatsing op de grond van installaties met een maximaal volume van 2,5 kubieke meter per openbare telecommunicatie-operator.<br>
+8° de plaatsing op de grond van installaties met een maximale hoogte van vijf meter, en de bij deze installaties horende ondergrondse constructies waarbij het maximaal bovengronds volume per openbare telecommunicatie-operator als volgt bedraagt :<br>
+a) drie kubieke meter als het hoogste punt van de hoogste antenne lager is dan 15 meter boven het maaiveld;<br>
+b) vijf kubieke meter als het hoogste punt van de hoogste antenne lager is dan 25 meter boven het maaiveld;<br>
+c) tien kubieke meter als het hoogste punt van de hoogste antenne lager is dan 35 meter boven het maaiveld;<br>
+d) dertig kubieke meter als het hoogste punt van de hoogste antenne hoger is dan 35 meter boven het maaiveld;<br>
+9° de plaatsing op openbaar domein van installaties met een maximaal volume van dertig kubieke meter per openbare telecommunicatie-operator en met een maximale hoogte van vijf meter.<br>
 &nbsp;
 
 ### ART. 12.2.
@@ -465,21 +475,26 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 
 ### ART. 12.3.
 
-Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing op platte daken van allerlei&nbsp;installaties, die geen gebouwen of delen van gebouwen zijn, met een maximale hoogte van drie meter, op voorwaarde dat de hoogte van de installatie boven de dakrand op elk punt kleiner is dan de afstand tot de dakrand.<br>
-&nbsp;
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van allerlei installaties met betrekking tot zend- en ontvangstinstallaties voor telecommunicatie als voldaan is aan al de volgende voorwaarden :<br>
+1° het betreft geen gebouwen of delen van gebouwen;<br>
+2° de plaatsing gebeurt op daken;<br>
+3° de hoogte van de installaties op elk punt boven de dakrand is kleiner dan de afstand tot de dakrand of tot minstens één van de in een bepaalde richting gelegen dakranden van het gebouw en de aangrenzende gebouwen;<br>
+4° de maximale hoogte van de installaties is beperkt tot vijf meter boven de dakrand van het dak waarop de installaties zich bevinden.
 
 ### ART 12.4.
 
-Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van communicatiekabels, leidingen en bijbehorende aanhorigheden zoals aansluitdozen aan de buitenkant van bestaande gebouwen, in de kleur van de gevel of in een neutrale, onopvallende kleur, als de installatie niet boven het gebouw of de constructie uitsteekt.
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van communicatiekabels, leidingen en bijbehorende aanhorigheden zoals aansluitdozen aan de buitenkant van bestaande gebouwen, in de kleur van de gevel of in een neutrale, onopvallende kleur, als de installatie niet boven het gebouw of de constructie uitsteekt.<br>
+<br>
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de plaatsing van ondergrondse technische installaties en van ondergrondse leidingen en communicatiekabels naar zend- en ontvangstinstallaties voor telecommunicatie.
 
 ## [HOOFDSTUK 12/1 Reliëfwijzigingen (ing. BVR 15 juli 2016, art. 32, I: 29 september 2016)]
 
 ### ART 12/1.1.
 
-Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor reliëfwijzigingen als aan al de volgende voorwaarden is voldaan:<br>
+Een&nbsp;omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor reliëfwijzigingen als aan al de volgende voorwaarden is voldaan:<br>
 1° het terrein ligt niet in ruimtelijk kwetsbaar, erosiegevoelig of mogelijk of effectief overstromingsgevoelig gebied;<br>
-2° de aard of functie van het terrein wijzigt niet;<br>
-3° het volume van de reliëfwijziging is kleiner dan dertig kubieke meter per goed;<br>
+2° de aard van het terrein kan wijzigen, maar de functie van het terrein wijzigt niet;<br>
+3° het totale volume van de reliëfwijziging is kleiner dan dertig kubieke meter per goed;<br>
 4° de hoogte of diepte van de reliëfwijziging is op elk punt kleiner dan een halve meter;<br>
 5° de reliëfwijziging strekt niet tot het geheel of gedeeltelijk dempen van grachten of waterlopen.
 
@@ -492,6 +507,10 @@ Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor 
 ### ART. 13.2.
 
 Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig   voor de volledige afbraak van vrijstaande bouwwerken of constructies, op   voorwaarde dat aan al de volgende vereisten voldaan is :<BR>1° het betreft geen   kleine elementen en constructies, geïsoleerd of deel uitmakend van een geheel,   die van belang zijn voor de kwaliteit van de leefomgeving, een volkskundige,   historische of esthetische waarde hebben, als referentie dienen voor de   bevolking van een buurt of wijk, of bijdragen tot het gevoel van een   plaatselijke bevolking tot een bepaalde plek te behoren, zoals fonteinen,   kiosken, pompen, putten, kruisen, calvaries, veldkapellen, standbeelden,   wegwijzers, schandpalen, grenspalen, mijlpalen, lantaarnpalen, uurwerken,   klokkenspelen, zonnewijzers, hekkens, omheiningsmuren, luifels, graven,   herkenningstekens van merkwaardige gebeurtenissen uit het verleden, balies,   straatmeubilair, waterkunstwerkjes, bakhuizen, houtskeletbouw, koetshuizen,   oranjerieën, priëlen, ijskelders;<BR>2° het betreft geen gebouwen of   constructies die opgenomen zijn in de inventaris van het bouwkundig erfgoed,   vastgesteld met toepassing van artikel 4.1.1 van het decreet van 12 juli 2013   betreffende het onroerend erfgoed;<BR>3° de grondoppervlakte bedraagt minder dan   100 vierkante meter.<BR><BR>
+
+### ART 13.3.
+
+Een omgevingsvergunning voor stedenbouwkundige handelingen is niet nodig voor de volledige afbraak of volledige bovengrondse afbraak van een bestaande pyloon of mast en aanhorigheden zoals leidingen en omvormingsstations.
 
 ## [HOOFDSTUK 13/1 Tijdelijke regeling voor terrassen voor de horeca (ing. BVR 2 april 2021, art. 1, I: 3 mei 2021)]
 
