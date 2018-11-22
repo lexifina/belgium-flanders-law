@@ -66,7 +66,11 @@ Voor de vervulling van hun opdracht vallen de leden van de kapitaalschadecommiss
 
 ### ART. 8.
 
-De Vlaamse Regering, de deputatie respectievelijk de provincieraad en het college van burgemeester en schepenen respectievelijk de gemeenteraad maken het register van de percelen, vermeld in artikel 2.2.2, § 1, eerste lid, 7°, van de Vlaamse Codex Ruimtelijke Ordening, over aan het secretariaat van de kapitaalschadecommissie waar de percelen die een bestemmingswijziging ondergaan zijn gelegen.<br /><br />Het register wordt op de volgende tijdstippen overgemaakt : <br />1° van zodra het ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk uitvoeringsplan voorlopig is vastgesteld en alvorens het openbaar onderzoek over dit ontwerp plaatsvindt;<br />2° van zodra het gewestelijk, provinciaal en gemeentelijk ruimtelijk uitvoeringsplan, definitief is vastgesteld.
+De Vlaamse Regering, de deputatie respectievelijk de provincieraad en het college van burgemeester en schepenen respectievelijk de gemeenteraad maken het register van de percelen, vermeld in artikel 2.2.5, § 1, eerste lid, 9°, van de Vlaamse Codex Ruimtelijke Ordening, over aan het secretariaat van de kapitaalschadecommissie waar de percelen die een bestemmingswijziging ondergaan zijn gelegen.<br>
+<br>
+Het register wordt op de volgende tijdstippen overgemaakt :<br>
+1° van zodra het ontwerp van gewestelijk, provinciaal en gemeentelijk ruimtelijk uitvoeringsplan voorlopig is vastgesteld en alvorens het openbaar onderzoek over dit ontwerp plaatsvindt;<br>
+2° van zodra het gewestelijk, provinciaal en gemeentelijk ruimtelijk uitvoeringsplan, definitief is vastgesteld.
 
 ### ART. 9.
 
