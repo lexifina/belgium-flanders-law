@@ -2,16 +2,16 @@
   "codex_id": 1007272,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007272/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "ee36a36e1be50e9d478d27a93f111125a13984da764e5b7ccc1c1fb279768d20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007272/VolledigDocument?datum=2018-11-22",
+  "source_sha256": "f14f641dc6b465c5e840b74ccb097a20b2d77bc9ac82ad8da7c3745ce73edaa0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007272&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2018-11-22",
   "made": "2000-05-05",
   "gazette": "2000-05-19",
   "numac": 2000035477,
   "document_start": "2000-05-01",
   "document_end": null,
-  "in_force": "2017-02-23",
+  "in_force": "2018-11-22",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-11-22; future article versions excluded; article text as the API gives it"
 }
