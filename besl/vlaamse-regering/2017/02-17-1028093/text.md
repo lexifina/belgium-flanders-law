@@ -140,7 +140,7 @@ Door de documenten, vermeld in artikel 4, § 1, eerste lid en § 4 van dit beslu
 <br>
 De bevraagde instanties laden hun advies op in het digitale platform.<br>
 <br>
-In afwijking van het derde en vierde lid, kan de communicatie tussen de bevoegde overheid en andere landen, andere gewesten of de federale overheid, gebeuren via het digitale platform of met een beveiligde zending.
+In afwijking van het derde en vierde lid, kan de communicatie tussen de bevoegde overheid en andere landen, andere gewesten of de federale overheid, gebeuren via het digitale platform, schriftelijk of digitaal.
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
