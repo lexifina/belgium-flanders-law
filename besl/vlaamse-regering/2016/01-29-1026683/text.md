@@ -18,7 +18,15 @@ Bij   de taalkundige mannelijke verwijzing naar personen is deze verwijzing telk
 
 ### ART. 3.
 
-Ter   uitvoering van artikel 7 van het decreet van 7 juni 2013 worden minstens de   volgende beleidsdomeinen aangewezen als relevant voor het Vlaamse   integratiebeleid :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   Kanselarij en Bestuur;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   Internationaal Vlaanderen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   Economie, Wetenschap en Innovatie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   Onderwijs en Vorming;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   Welzijn, Volksgezondheid en Gezin;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   Cultuur, Jeugd, Sport en Media;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   Werk en Sociale Economie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   Ruimtelijke ordening, Woonbeleid en Onroerend Erfgoed.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Ter uitvoering van artikel 7 van het decreet van 7 juni 2013 worden minstens de volgende beleidsdomeinen aangewezen als relevant voor het Vlaamse integratiebeleid :<br>
+1° Kanselarij en Bestuur;<br>
+2° Internationaal Vlaanderen;<br>
+3° Economie, Wetenschap en Innovatie;<br>
+4° Onderwijs en Vorming;<br>
+5° Welzijn, Volksgezondheid en Gezin;<br>
+6° Cultuur, Jeugd, Sport en Media;<br>
+7° Werk en Sociale Economie;<br>
+8° Omgeving.
 
 ### ART. 4.
 
