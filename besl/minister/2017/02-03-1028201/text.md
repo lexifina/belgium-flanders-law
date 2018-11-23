@@ -16,4 +16,4 @@ De standaardprocedure traceerbaarheid voor bouw- en sloopmateriaal, gevoegd in b
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/07/09_1.pdf#page=165"><span style="color: rgb(0, 102, 204);">Bijlage</span></a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/11/13_1.pdf#page=78">Bijlage</a>
