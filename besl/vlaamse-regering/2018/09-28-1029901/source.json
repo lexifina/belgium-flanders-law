@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029901,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-28 houdende het terugkommoment in het kader van de rijopleiding categorie B",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029901/VolledigDocument?datum=2018-11-24",
+  "source_sha256": "6cc83054f3054f6647d2aa91a737836bfbfa5cf3819f5a2c1b7814e430be629b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029901&param=informatie",
+  "as_of": "2018-11-24",
+  "made": "2018-09-28",
+  "gazette": "2018-11-14",
+  "numac": 2018032180,
+  "document_start": "2018-11-24",
+  "document_end": null,
+  "in_force": "2018-11-24",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2018-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
