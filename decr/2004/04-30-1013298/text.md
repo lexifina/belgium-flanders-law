@@ -9,7 +9,7 @@ Dit decreet regelt zowel een gewest- als een gemeenschapsaangelegenheid.
 ### ART. 2.
 
 § 1. Dit decreet bepaalt de bevoegdheden van de sociaalrechtelijke inspecteurs die belast zijn met de controle en het toezicht op de hierna genoemde regelgeving, met inbegrip van de uitvoeringsbesluiten, en bepaalt de administratieve geldboeten die toepasselijk zijn in geval van inbreuk op deze bepalingen en in geval van inbreuk op de reglementering die tot stand is gekomen krachtens de hierna volgende bepalingen:<br>
-1° de wet van 1 juli 1963 houdende toekenning van een vergoeding voor sociale promotie;<br>
+1° ...;<br>
 2° het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen;<br>
 3° het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting van en programma ter bevordering van de werkgelegenheid in de niet-commerciële sector;<br>
 4° ...<br>
