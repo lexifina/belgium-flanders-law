@@ -137,7 +137,8 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 4° Toegankelijk Vlaanderen;<br>
 5° ...<br>
 6° Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect.);<br>
-7° Agentschap Integratie en Inburgering.<br>
+7° Agentschap Integratie en Inburgering;<br>
+8° het Vlaams Pensioenfonds.<br>
 <br>
 § 3. De strategische adviesraad die tot het beleidsdomein Kanselarij en Bestuur behoort, is de Sociaal-Economische Raad van Vlaanderen, onverminderd de opdrachten van de Sociaal-Economische Raad van Vlaanderen als strategische adviesraad voor andere beleidsdomeinen en beleidsvelden.</p>
 
