@@ -65,6 +65,7 @@ n) het Garantiefonds voor de Huisvesting;<br>
 o) Toegankelijk Vlaanderen;<br>
 p) het agentschap Informatie Vlaanderen;<br>
 q) het Eigen Vermogen Informatie Vlaanderen;<br>
+r) het Vlaams Pensioenfonds.<br>
 <br>
 6° de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn is bevoegd voor:<br>
 a) het Agentschap Wegen en Verkeer;<br>
