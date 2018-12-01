@@ -32,3 +32,9 @@ Aan artikel 34, § 1, van hetzelfde besluit, ingevoegd bij het besluit van de Vl
 ### ART 6.
 
 In artikel 34/1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 24 april 2015, wordt de zinsnede "het laatst berekende inkomenstarief of het laatst bepaalde individueel verminderd inkomenstarief" vervangen door de zinsnede "het laatst berekende inkomenstarief, het laatst bepaalde individueel verminderd inkomenstarief of het maximumtarief dat bepaald is ten gevolge van de situatie, vermeld in artikel 36, derde lid, 2°, ".
+
+### ART 8.
+
+In artikel 59, § 2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 april 2014 en vervangen bij het besluit van de Vlaamse Regering van 24 april 2015, worden punt 2° en punt 3° vervangen door wat volgt:<br>
+"2° fase 2: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 416,47 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,28 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
+3° fase 3: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 630,78 euro en het bedrag, vermeld in het eerste lid, 2°, met 11,04 euro. Deze fase heeft uitwerking vanaf 1 december 2018;".
