@@ -733,8 +733,8 @@ b) voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsi
 <br>
 Binnen de overgangsperiode van zes jaar en voor de bedragen, vermeld in het eerste lid, wordt gestreefd naar een groeipad dat in zeven fases verloopt, waarbij de bedragen, vermeld in het eerste lid, geleidelijk verhogen als volgt:<br>
 1° fase 1: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 413,56 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,24 euro. Deze fase heeft uitwerking op 1 april 2015;<br>
-2° fase 2: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 409,51 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,16 euro;<br>
-3° fase 3: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 620,24 euro en het bedrag, vermeld in het eerste lid, 2°, met 10,86 euro;<br>
+2° fase 2: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 416,47 euro en het bedrag, vermeld in het eerste lid, 2°, met 7,28 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
+3° fase 3: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 630,78 euro en het bedrag, vermeld in het eerste lid, 2°, met 11,04 euro. Deze fase heeft uitwerking vanaf 1 december 2018;<br>
 4° fase 4: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,23 euro;<br>
 5° fase 5: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in het eerste lid, 2°, met 6,23 euro;<br>
 6° fase 6: het bedrag, vermeld in het eerste lid, 1°, wordt verhoogd met 355,87 euro en het bedrag, vermeld in eerste lid, 2°, met 6,23 euro;<br>
