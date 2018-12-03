@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029806,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 houdende het statuut van de provinciale mandataris",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029806/VolledigDocument?datum=2018-12-03",
+  "source_sha256": "d9a7bf6d878e33bcb7c6d8165dd630877a67fbd5e3844c6331c2ac2c37d04173",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029806&param=informatie",
+  "as_of": "2018-12-03",
+  "made": "2018-09-07",
+  "gazette": "2018-10-11",
+  "numac": 2018014110,
+  "document_start": "2018-12-03",
+  "document_end": null,
+  "in_force": "2018-12-03",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2018-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
