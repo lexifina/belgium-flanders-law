@@ -38,11 +38,11 @@ Ter uitvoering van artikel 274, § 5, van het Gemeentedecreet van 15 juli   2005
 
 ### ART. 5.
 
-Ter uitvoering van artikel 72bis van het Provinciedecreet van 9 december   2005 brengt de provincie de Vlaamse Regering binnen een termijn van twintig   kalenderdagen op de hoogte van de eedaflegging van een provincieraadslid, een   gedeputeerde of van een voorzitter van de provincieraad door middel van het   elektronisch invullen van de gegevens, vermeld in artikel 72bis van het   Provinciedecreet van 9 december 2005, in een mandatendatabank.
+...
 
 ### ART. 6.
 
-<P>Wanneer een provincieraadslid, een gedeputeerde, een voorzitter van de   provincieraad afstand doet van zijn ambt of mandaat, van zijn ambt of mandaat   vervallen wordt verklaard, als verhinderd wordt beschouwd, afgezet of geschorst   is, ontslag genomen heeft of overleden is, brengt de provincie de Vlaamse   Regering binnen een termijn van twintig kalenderdagen op de hoogte van de   einddatum van het ambt of mandaat door middel van het elektronisch invullen van   de mandatendatabank.<BR></P>  <P>De provincie is er niet toe gehouden de Vlaamse Regering op de hoogte te   brengen van de gegevens, vermeld in artikel 72bis van het Provinciedecreet van 9   december 2005, van de personen die het ambt of mandaat gedurende een periode van   niet meer dan dertien weken waarnemen wegens een verhindering of schorsing.   </P>
+...
 
 ### ART. 7.
 
