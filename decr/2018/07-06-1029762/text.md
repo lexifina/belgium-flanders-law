@@ -8,6 +8,1285 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## HOOFDSTUK II. Wijziging van het Provinciedecreet van 9 december 2005
 
+### ART 3.
+
+In artikel 7 van hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006, 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zinsnede "De verkozen provincieraadsleden worden, voor de goede orde, door de provinciegriffier ten minste acht dagen voor de installatievergadering van de provincieraad" vervangen door de zinsnede "Als er geen bezwaar is ingediend tegen de verkiezing, worden de verkozen provincieraadsleden door de uittredende voorzitter van de provincieraad ten minste veertien dagen voor de installatievergadering van de provincieraad";<br>
+2° paragraaf 1, tweede lid, wordt vervangen door wat volgt:<br>
+"De installatievergadering van de provincieraad vindt plaats op een van de eerste vijf werkdagen van december. Bij ontstentenis van oproeping door de uittredende voorzitter van de provincieraad vindt de installatievergadering van rechtswege plaats in het provinciehuis, om 10 uur, op de eerste werkdag van de maand december. De provinciegriffier brengt bij ontstentenis van oproeping door de uittredende voorzitter van de provincieraad voor de goede orde ten minste acht dagen voor de installatievergadering van de provincieraad de nieuw verkozen provincieraadsleden daarvan op de hoogte.";<br>
+3° paragraaf 1, derde lid, wordt vervangen door wat volgt:<br>
+"In het tweede lid wordt verstaan onder werkdag: elke dag van de week, behalve zaterdag, zondag en wettelijke en decretale feestdagen.";<br>
+4° aan paragraaf 1, vierde lid, wordt de zinsnede ", maar ten vroegste op een van de eerste vijf werkdagen van december" toegevoegd;<br>
+5° in paragraaf 1, zesde lid, worden de woorden "de voormelde bepalingen" vervangen door de woorden "het vierde en het vijfde lid";<br>
+6° aan paragraaf 5 wordt de volgende zin toegevoegd: "Als de voorzitter van de provincieraad, degene die de voorzitter vervangt of degene die de eed afneemt van de voorzitter, nalaat de eed af te nemen, noteert de provinciegriffier de vervanging van de voorzitter in de notulen van de vergadering.";<br>
+7° een paragraaf 6 wordt toegevoegd, die luidt als volgt:<br>
+" § 6. De rangorde van de provincieraadsleden wordt tijdens de installatievergadering van de nieuwe provincieraad onmiddellijk na de eedaflegging van de provincieraadsleden vastgesteld. Het provincieraadslid met de hoogste anciënniteit neemt de hoogste rang in. Bij gelijke anciënniteit neemt het provincieraadslid dat bij de laatste volledige vernieuwing van de provincieraad het hoogste aantal naamstemmen heeft behaald, de hoogste rang in. Bij een gelijk aantal naamstemmen neemt het provincieraadslid van wie de lijst bij de laatste volledige vernieuwing van de provincieraad de meeste stemmen heeft behaald, de hoogste rang in. De opvolgers die na de installatievergadering als provincieraadslid worden geïnstalleerd, nemen in volgorde van hun eedaflegging een rang in.".
+
+### ART 4.
+
+In artikel 8 van hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006, 22 december 2006, 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de zinnen "Een verkozene die meer dan één akte van voordracht ondertekent, kan voor de duur van de zittingsperiode van de provincieraad niet worden benoemd of verkozen als gedeputeerde, voorzitter van de provincieraad of voorzitter van een commissie en kan de provincie niet vertegenwoordigen of namens de provincie een mandaat bekleden in provinciaal extern verzelfstandigde agentschappen of andere verenigingen, stichtingen of vennootschappen. Indien de betrokken verkozene reeds een dergelijk mandaat bekleedt, vervalt dit van rechtswege voor de duur van de zittingsperiode van de raad." vervangen door de zinnen "Een verkozene die meer dan één akte van voordracht ondertekent, kan voor de duur van de zittingsperiode van de provincieraad niet worden benoemd of verkozen als gedeputeerde, voorzitter van de provincieraad of voorzitter van een provincieraadscommissie, noch een dergelijk mandaat waarnemen. Hij kan de provincie ook niet vertegenwoordigen of kan namens de provincie geen mandaat bekleden of waarnemen in provinciaal extern verzelfstandigde agentschappen of andere verenigingen, stichtingen of vennootschappen. Als de betrokkene al een dergelijk mandaat bekleedt of waarneemt, vervalt dat mandaat van rechtswege voor de duur van de zittingsperiode van de raad.";<br>
+2° in paragraaf 1, tweede lid, wordt tussen de woorden "het mandaat niet kan opnemen" en de zinsnede ", wordt tot vervanging overgegaan" de zinsnede "of als er geen opvolger is vermeld," ingevoegd;<br>
+3° in paragraaf 1, derde lid, wordt het woord "overhandigd" vervangen door het woord "bezorgd";<br>
+4° in paragraaf 2, eerste lid, wordt het woord "overhandigt" vervangen door het woord "bezorgt";<br>
+5° in paragraaf 3, eerste lid, wordt het woord "overhandigd" vervangen door het woord "bezorgd";<br>
+6° in paragraaf 3, derde lid, wordt tussen de woorden "het mandaat niet kan opnemen" en de zinsnede ", wordt tot vervanging overgegaan" de woorden "of als er geen opvolger is vermeld" ingevoegd.
+
+### ART 5.
+
+In artikel 10, § 1, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt de zinsnede ", met een brief die afgegeven wordt tegen ontvangstbewijs" opgeheven.
+
+### ART 6.
+
+&nbsp;In artikel 11, eerste lid, 2°, van hetzelfde decreet, worden de woorden "de gouverneur en" vervangen door de zinsnede "de hoge ambtenaar die de Brusselse Hoofdstedelijke Regering aanwijst overeenkomstig artikel 48, derde lid, van de bijzondere wet van 12 januari 1989 betreffende de Brusselse Instellingen,".
+
+### ART 7.
+
+In artikel 13, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 22 december 2006 en gewijzigd bij de decreten van 30 april 2009, 8 juli 2011 en 29 juni 2012, worden de woorden "Onverminderd de bepalingen van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011" vervangen door de zinsnede "Met behoud van de toepassing van de bepalingen van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges".
+
+### ART 8.
+
+In artikel 14, 3°, van hetzelfde decreet, toegevoegd bij het decreet van 30 april 2009, wordt de zinsnede "3° het provincieraadslid dat omwille" vervangen door de zinsnede "4° het provincieraadslid dat omwille".
+
+### ART 9.
+
+Aan artikel 15 van hetzelfde decreet, vervangen bij het decreet van 30 april 2009, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Als het provincieraadslid zelf voorzitter van de provincieraad is, deelt hij zijn ontslag schriftelijk mee aan de persoon die hem vervangt met toepassing van artikel 8, § 4, eerste lid. Het ontslag is definitief zodra zijn vervanger de kennisgeving ontvangt.".
+
+### ART 10.
+
+In artikel 17 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 worden een tweede, derde en vierde lid toegevoegd, die luiden als volgt:<br>
+"De som van de vergoedingen, wedden en presentiegelden die de provincieraadsleden ontvangen voor hun mandaat als raadslid en de som van de vergoedingen, wedden en presentiegelden die ze ontvangen als bezoldiging voor activiteiten die ze naast hun mandaat uitgeoefend hebben, is gelijk aan of lager dan anderhalve keer het bedrag van de vergoeding van de leden van het Vlaams Parlement. Voor de berekening van dat bedrag komen de vergoedingen, wedden en presentiegelden die de provincieraadsleden ontvangen in aanmerking als ze voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard.<br>
+<br>
+Als het plafond, vermeld in het tweede lid, wordt overschreden, wordt de som van de vergoedingen, wedden of presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard als vermeld in het tweede lid, verminderd tot het passende bedrag.<br>
+<br>
+De vergoedingen, wedden en presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard, zijn die, vermeld in artikel 68, § 4, tweede lid.";<br>
+2° in paragraaf 2, tweede lid, worden de woorden "op de wijze die de Vlaamse Regering bepaalt" telkens opgeheven;<br>
+3° paragraaf 5 wordt vervangen door wat volgt:<br>
+" § 5. De provincieraad kan de eretitels toekennen aan de provincieraadsleden onder de voorwaarden die hij bepaalt.".
+
+### ART 11.
+
+In artikel 18, § 1 en § 2, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt het woord "handicap" telkens vervangen door het woord "beperking".
+
+### ART 12.
+
+Aan artikel 21 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+"Als een raadslid daarom verzoekt, wordt een dossier elektronisch ter beschikking gesteld.";<br>
+2° in het derde lid wordt de zin "Dit huishoudelijk reglement bepaalt in elk geval dat indien een provincieraadslid hierom verzoekt, een dossier elektronisch ter beschikking wordt gesteld." opgeheven.
+
+### ART 13.
+
+In artikel 23 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden "op het provinciehuis" opgeheven;<br>
+2° in paragraaf 1, eerste lid, laatste zin, worden tussen de woorden "de nadere regels over" en de woorden "de wijze van openbaarmaking" de woorden "de plaats en" ingevoegd;<br>
+3° paragraaf 2 wordt opgeheven.
+
+### ART 14.
+
+In artikel 25 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de woorden "doen verwijderen" vervangen door de woorden "laten verwijderen";<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"De voorzitter kan bovendien een proces-verbaal opmaken tegen die persoon en dat proces-verbaal bezorgen aan het Openbaar Ministerie met het oog op de eventuele vervolging van de betrokkene.".
+
+### ART 15.
+
+In artikel 26, eerste lid, van hetzelfde decreet worden de woorden "enkel een besluit nemen" vervangen door de woorden "alleen beraadslagen of beslissen".
+
+### ART 16.
+
+In artikel 27, § 1, eerste lid, 2°, van hetzelfde decreet wordt tussen de woorden "goedkeuring van" en de woorden "de jaarrekening" de zinsnede "het meerjarenplan, het budget en" ingevoegd.
+
+### ART 17.
+
+In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, tweede lid, wordt de zinsnede "het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening" vervangen door de zinsnede "de beleidsrapporten, vermeld in artikel 141,";<br>
+2° in paragraaf 2, laatste zin, worden tussen de woorden "van het punt" en de woorden "kan de besloten vergadering" de woorden "of in geval van de eed-aflegging van een personeelslid" ingevoegd.
+
+### ART 18.
+
+In artikel 30, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° tussen de zinsnede "dossiers, stukken en akten" en de woorden "die het bestuur" wordt de zinsnede ", ongeacht de drager," ingevoegd;<br>
+2° een tweede lid wordt toegevoegd, dat luidt als volgt:<br>
+"De briefwisseling, gericht aan de voorzitter van de provincieraad en die bestemd is voor de provincieraad, wordt meegedeeld aan de provincieraadsleden.".
+
+### ART 19.
+
+In artikel 33 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden tussen de woorden "De notulen" en de woorden "van de vergadering" de woorden "en het zittingsverslag" ingevoegd;<br>
+2° in het tweede lid worden tussen de woorden "de notulen" en de woorden "van de vorige vergadering" en tussen de woorden "de notulen" en de woorden "ter beschikking worden gesteld" telkens de woorden "en het zittingsverslag" ingevoegd;<br>
+3° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+"Als een provincieraadslid daarom verzoekt, worden de notulen en het zittingsverslag elektronisch ter beschikking gesteld.";<br>
+4° in het derde lid worden tussen de woorden "de notulen" en de woorden "van de vorige vergadering" en tussen de woorden "de notulen" en de woorden "in die zin aangepast" telkens de woorden "en het zittingsverslag" ingevoegd;<br>
+5° in het vierde lid worden tussen de woorden "de notulen" en de woorden "van de vorige vergadering" en tussen de woorden "de notulen" en de woorden "als goedgekeurd beschouwd" telkens de woorden "en het zittingsverslag" ingevoegd.
+
+### ART 20.
+
+Aan artikel 35, § 2, van hetzelfde decreet wordt een punt 4° toegevoegd, dat luidt als volgt:<br>
+"4° de beëindiging van een mandaat als vermeld in punt 2°. ".
+
+### ART 21.
+
+In artikel 36, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 30 april 2009, wordt de zin "Personen worden benoemd, aangesteld, verkozen of voorgedragen bij volstrekte meerderheid van stemmen." opgeheven.
+
+### ART 22.
+
+Artikel 37 van hetzelfde decreet wordt opgeheven.
+
+### ART 23.
+
+In artikel 38, § 2, eerste lid, van hetzelfde decreet, vervangen bij het decreet van 2 juni 2006 en gewijzigd bij het decreet van 8 juli 2011, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 7° wordt de zinsnede "en 100, 8° " vervangen door de zinsnede "en 100, 7° " en wordt het woord "overhandigd" vervangen door het woord "bezorgd";<br>
+2° in punt 8° wordt het woord "overhandigd" vervangen door het woord "bezorgd".
+
+### ART 24.
+
+Aan artikel 39 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het tweede lid opgeheven;<br>
+2° aan paragraaf 5 wordt de zinsnede ", met dien verstande dat de leden met raadgevende stem, vermeld in paragraaf 3, vierde lid, hetzelfde presentiegeld krijgen als de andere leden" toegevoegd;<br>
+3° aan paragraaf 5 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Als een lid met raadgevende stem lid is van verschillende commissies, kan het bedrag van de toegekende presentiegelden jaarlijks nooit hoger zijn dan het hoogste presentiegeld dat jaarlijks theoretisch toegekend kan worden aan een vast lid. Voor de berekening van dat maximumbedrag wordt rekening gehouden met het aantal commissievergaderingen die voor een vast lid recht geven op presentiegeld.".
+
+### ART 25.
+
+In artikel 40, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° aan punt 1° worden de woorden "of lid van de deputatie" toegevoegd;<br>
+2° in punt 7° worden tussen de woorden "de notulen" en de woorden "van de vorige vergadering" de woorden "en het zittingsverslag" ingevoegd;<br>
+3° punt 10° wordt opgeheven.
+
+### ART 26.
+
+In artikel 43 van hetzelfde decreet, gewijzigd bij de decreten van 20 juni 2008, 30 april 2009, 29 juni 2012 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt de zinsnede "als vermeld in artikel 2, derde lid," opgeheven;<br>
+2° in paragraaf 2, 3°, wordt de zinsnede "het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening" vervangen door de zinsnede "de beleidsrapporten, vermeld in artikel 141";<br>
+3° in paragraaf 2, 5°, worden de woorden "extern verzelfstandigde agentschappen" vervangen door de woorden "en het toetreden tot rechtspersonen" en wordt tussen de woorden "vertegenwoordiging in" en het woord "instellingen" de zinsnede "agentschappen," ingevoegd;<br>
+4° in paragraaf 2, 8°, worden de woorden "interne controlesysteem" vervangen door het woord "organisatiebeheersingssysteem" en wordt het woord "als" opgeheven;<br>
+5° in paragraaf 2 wordt punt 11° vervangen door wat volgt:<br>
+"11° het vaststellen van de plaatsingsprocedure en het vaststellen van de voorwaarden van overheidsopdrachten tenzij:<br>
+a) de opdracht past binnen het begrip dagelijks bestuur, vermeld in punt 9°, waarvoor de deputatie bevoegd is;<br>
+b) de raad de plaatsingsprocedure en het vaststellen van de voorwaarden voor die overheidsopdracht nominatief aan de deputatie heeft toevertrouwd;";<br>
+6° in paragraaf 2 wordt punt 12° vervangen door wat volgt:<br>
+"12° de daden van beschikking over onroerende goederen, behalve die vermeld in artikel 57, § 3, 8°, c);<br>
+7° in paragraaf 2, 21°, wordt de zinsnede "als vermeld in artikelen 153 en artikel 155, § 3" vervangen door de zinsnede "vermeld in artikelen 155, 157, 158, 159 en 161";<br>
+8° in paragraaf 2 wordt punt 25° opgeheven;<br>
+9° in paragraaf 2 wordt punt 26° opgeheven;<br>
+10° aan paragraaf 2 wordt een punt 28° toegevoegd, dat luidt als volgt:<br>
+"28° het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies;";<br>
+11° aan paragraaf 2 wordt een punt 29° toegevoegd, dat luidt als volgt:<br>
+"29° het goedkeuren van het meerjarenplan en de aanpassingen ervan van een autonoom provinciebedrijf.".
+
+### ART 27.
+
+In artikel 45 van hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006, 22 december 2006 en 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de zinnen "Een verkozene die meer dan één akte van voordracht ondertekent, kan voor de duur van de zittingsperiode van de provincieraad niet worden benoemd of verkozen als gedeputeerde, voorzitter van de provincieraad of voorzitter van een commissie en kan de provincie niet vertegenwoordigen of namens de provincie een mandaat bekleden in provinciaal extern verzelfstandigde agentschappen of andere verenigingen, stichtingen of vennootschappen. Indien de betrokken verkozene reeds een dergelijk mandaat bekleedt, vervalt dit van rechtswege voor de duur van de zittingsperiode van de raad." vervangen door de zinnen "Een verkozene die meer dan één akte van voordracht ondertekent, kan voor de duur van de zittingsperiode van de provincieraad niet worden benoemd of verkozen als gedeputeerde, voorzitter van de provincieraad of voorzitter van een commissie, noch een dergelijk mandaat waarnemen. Hij kan de provincie ook niet vertegenwoordigen of kan namens de provincie geen mandaat bekleden of waarnemen in provinciaal extern verzelfstandigde agentschappen of andere verenigingen, stichtingen of vennootschappen. Als de betrokkene al een dergelijk mandaat bekleedt of waarneemt, vervalt dat mandaat van rechtswege voor de duur van de zittingsperiode van de raad.";<br>
+2° in paragraaf 1, derde lid, laatste zin, worden tussen de woorden "het mandaat niet kan opnemen" en de zinsnede ", wordt tot vervanging overgegaan" de woorden "of als er geen opvolger is vermeld" ingevoegd;<br>
+3° in paragraaf 1, vierde lid, wordt het woord "overhandigd" vervangen door het woord "bezorgd";<br>
+4° in paragraaf 2, eerste lid, wordt het woord "overhandigt" vervangen door het woord "bezorgt";<br>
+5° in paragraaf 3, eerste lid, wordt het woord "overhandigd" vervangen door het woord "bezorgd";<br>
+6° in paragraaf 3, tweede lid, laatste zin, worden tussen de woorden "het mandaat niet kan opnemen" en de zinsnede ", wordt tot vervanging overgegaan" de woorden "of als er geen opvolger is vermeld" ingevoegd;<br>
+7° aan paragraaf 3, vierde lid, worden de volgende zinnen toegevoegd:<br>
+"Voor een kandidaat die op de zitting wordt voorgedragen, moet tijdens de zitting en vóór de stemming blijken dat een meerderheid van de provincieraadsleden die op dezelfde lijst zijn verkozen als de voorgedragen kandidaat, de voordracht van deze kandidaat steunt. Zo niet wordt de voordracht van deze kandidaat niet in aanmerking genomen.".
+
+### ART 28.
+
+In artikel 47, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt de zinsnede "artikelen 13 en 30" vervangen door de zinsnede "en artikel 13".
+
+### ART 29.
+
+&nbsp;In artikel 50 van hetzelfde decreet, gewijzigd bij de decreten van 22 december 2006, 30 april 2009 en 25 mei 2018, wordt paragraaf 2 vervangen door wat volgt:<br>
+" § 2. Als de gedeputeerde om een andere reden dan de redenen, vermeld in paragraaf 1, afwezig is, kan hij worden vervangen door het op dezelfde lijst verkozen provincieraadslid met de hoogste rang. Als er geen provincieraadslid is dat op dezelfde lijst verkozen is, kan de gedeputeerde vervangen worden door het provincieraadslid van een andere lijst met de hoogste rang. Als dat raadslid de gedeputeerde niet kan vervangen, kan het mandaat van gedeputeerde waargenomen worden door een van de andere provincieraadsleden in volgorde van hun rang.".
+
+### ART 30.
+
+In artikel 51 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid wordt het woord "is" vervangen door de zinsnede "en 30 zijn";<br>
+2° in het vijfde lid wordt het woord "aan" vervangen door de woorden "naar of ter beschikking gesteld van" en wordt de zin "Dit huishoudelijk reglement bepaalt in elk geval dat, indien een provincieraadslid hierom verzoekt, de notulen elektronisch ter beschikking worden gesteld." vervangen door de zin "Als een provincieraadslid daarom verzoekt, worden de notulen elektronisch verstuurd of ter beschikking gesteld.".
+
+### ART 31.
+
+Artikel 55 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 55. De deputatie neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin ze nadere regels vaststelt over haar werking.".
+
+### ART 33.
+
+In artikel 58 van hetzelfde decreet, vervangen bij het decreet van 30 april 2009 en gewijzigd bij de decreten van 29 juni 2012 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid worden de zinsneden "artikel 155 en" en "als vermeld in artikel 2, derde lid," opgeheven;<br>
+2° in het tweede lid wordt de zinsnede "vermeld in artikel 57, § 3, 7°, 8°, b) en c), 9°, 10° en 11°, a)" vervangen door de zinsnede "vermeld in artikel 57, § 3, 7°, 8°, c), 9° en 10° ";<br>
+3° in de laatste zin van het tweede lid wordt de zinsnede "als vermeld in artikelen 151, 153, 155, § 2, eerste en tweede lid, en § 3, artikel 156, § 4, artikelen 157, 159, § 2, en artikel 164" vervangen door de zinsnede "als vermeld in artikel 150, 159, 161 en 163, § 2";<br>
+4° in het derde lid wordt de zin "Met behoud van de toepassing van artikel 155 oefent de provinciegriffier de overeenkomstig het eerste lid toevertrouwde bevoegdheden persoonlijk uit." vervangen door de zin "De provinciegriffier oefent de bevoegdheden die hem met toepassing van het eerste lid zijn toevertrouwd persoonlijk uit." en worden de woorden "bevoegdheden vermeld in artikel 73 en" vervangen door de woorden "bevoegdheid tot het vaststellen van het organogram en de bevoegdheid tot het aanstellen van een waarnemend provincie-griffier bij toepassing van artikel";<br>
+5° in het vierde lid worden de woorden "wijze van gunning" vervangen door het woord "plaatsingsprocedure" en wordt de zinsnede ", het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten" opgeheven.
+
+### ART 34.
+
+In artikel 60, 1°, van hetzelfde decreet wordt het woord "Arbitragehof" vervangen door de woorden "Grondwettelijk Hof".
+
+### ART 35.
+
+&nbsp;In artikel 67 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, worden de woorden "kent de eretitels toe aan de gedeputeerden" vervangen door de woorden "kan de eretitels van de gedeputeerden toekennen".
+
+### ART 36.
+
+In artikel 68 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 3 wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid worden de persoonlijke bijdragen voor de sociale zekerheid en de pensioenen van de mandatarissen, vermeld in artikel 37quater van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale zekerheid voor werknemers, gecompenseerd door de provincie. De Vlaamse Regering bepaalt de grenzen en nadere voorwaarden voor de toepassing van dit lid.";<br>
+2° in paragraaf 4, tweede lid, 2°, worden de woorden "het decreet houdende de intergemeentelijke samenwerking" vervangen door de zinsnede "deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur";<br>
+3° in paragraaf 5, eerste lid, worden de woorden "voorzitter of ondervoorzitter van een openbaar centrum voor maatschappelijk welzijn" vervangen door de zinsnede "voorzitter van een raad voor maatschappelijk welzijn, voorzitter van een bijzonder comité voor de sociale dienst die met toepassing van artikel 42, § 1, derde lid, van het decreet van 22 december 2017 over het lokaal bestuur schepen is".
+
+### ART 37.
+
+In artikel 68bis, § 1 en § 2, van hetzelfde decreet, ingevoegd bij het decreet van 30 april 2009, wordt het woord "handicap" telkens vervangen door het woord "beperking".
+
+### ART 38.
+
+Artikel 72bis van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 72bis. Een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid houdt een databank bij met gegevens over de mandatarissen van de provincie. Die databank bevat de voornaam, de achternaam, het geslacht, de geboortedatum, het rijksregisternummer, de naam van de lijst waarop de mandataris als provincieraadslid is verkozen, de naam van de fractie waartoe hij behoort, of, in voorkomend geval, de melding dat hij als onafhankelijke zetelt, alsook, in voorkomend geval, de bevoegdheden die hij toegewezen krijgt, en de begin- en einddatum van zijn mandaat. Die gegevens worden ter beschikking gesteld door de provincie. De databank houdt het historisch overzicht van die gegevens bij.<br>
+<br>
+De entiteit, vermeld in het eerste lid, is verantwoordelijk voor het beheer van de gegevens, vermeld in het eerste lid.<br>
+<br>
+De gegevens van de mandatarissen worden met uitzondering van het rijksregisternummer, het geslacht en de geboortedatum door de entiteit publiek toegankelijk gemaakt.<br>
+<br>
+De Vlaamse Regering regelt de nadere uitvoering van dit artikel.".
+
+### ART 39.
+
+Artikel 75 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 75. Na hun aanstelling leggen de personeelsleden, vermeld in artikel 74, tijdens een openbare vergadering van de provincieraad de volgende eed af in handen van de voorzitter: "Ik zweer de verplichtingen van mijn ambt trouw na te komen.".<br>
+<br>
+Een personeelslid als vermeld in het eerste lid, dat zonder wettige reden de eed niet aflegt nadat het met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens, uitgenodigd is om de eed af te leggen, wordt geacht zijn aanstelling niet te aanvaarden. Die eedaflegging weigeren staat gelijk aan afstand doen van de aanstelling. Van de eedaflegging of de weigering ervan wordt een proces-verbaal opgemaakt.".
+
+### ART 40.
+
+In artikel 76, tweede lid, van hetzelfde decreet, worden de volgende wijzigingen aangebracht:<br>
+1° de woorden "taken van externe audit" worden vervangen door het woord "audittaken";<br>
+2° de tweede zin wordt opgeheven.
+
+### ART 41.
+
+Artikel 83, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Hij staat aan het hoofd van het provinciepersoneel en hij is bevoegd voor het dagelijkse personeelsbeheer. De provinciegriffier kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan andere personeelsleden.".
+
+### ART 42.
+
+In artikel 84 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, worden de woorden "de ambtelijke voorbereiding van" opgeheven;<br>
+2° in paragraaf 1 wordt het tweede lid vervangen door wat volgt:<br>
+"Hij staat in voor het organisatiebeheersingssysteem, overeenkomstig artikel 95 tot en met 97.";<br>
+3° in paragraaf 2, tweede lid, worden de woorden "of overeenkomstig artikel 155," opgeheven;<br>
+4° paragraaf 4 wordt vervangen door wat volgt:<br>
+" § 4. De provinciegriffier zorgt in overleg met het managementteam voor het opstellen van:<br>
+1° het voorontwerp van het organogram;<br>
+2° het voorontwerp van de rechtspositieregeling van het personeel;<br>
+3° het voorontwerp van de beleidsrapporten en de opvolgingsrapportering;<br>
+4° de inventaris.".
+
+### ART 43.
+
+Artikel 88 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 3 juni 2016, wordt opgeheven.
+
+### ART 44.
+
+Artikel 89 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 89. De financieel beheerder staat onder de functionele leiding van de provinciegriffier in voor:<br>
+1° het opstellen, in overleg met het managementteam, van het voorontwerp van de beleidsrapporten en de opvolgingsrapportering;<br>
+2° het voeren en het afsluiten van de boekhouding;<br>
+3° het verzorgen van financiële analyse en financiële beleidsadvisering;<br>
+4° het thesauriebeheer, met behoud van de toepassing van de bepalingen daarover in het organisatiebeheersingssysteem.<br>
+<br>
+De financieel beheerder rapporteert aan de provinciegriffier over de taken, vermeld in het eerste lid.".
+
+### ART 45.
+
+Artikel 90 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 90. De financieel beheerder staat in volle onafhankelijkheid in voor:<br>
+1° de voorafgaande krediet- en wetmatigheidscontrole van de beslissingen van de provincie met budgettaire en financiële impact, overeenkomstig de voorwaarden, vastgesteld in titel IV;<br>
+2° het debiteurenbeheer, in het bijzonder de invordering van de fiscale en niet-fiscale ontvangsten en het verlenen van kwijting.<br>
+<br>
+De financieel beheerder kan een dwangbevel uitvaardigen, geviseerd en uitvoerbaar verklaard door de deputatie, om onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen. Dat dwangbevel wordt betekend bij gerechtsdeurwaardersexploot. Dat exploot stuit de verjaring.<br>
+<br>
+Een dwangbevel als vermeld in het tweede lid kan door de deputatie alleen worden geviseerd en uitvoerbaar verklaard worden als de schuld opeisbaar, vaststaand en zeker is. De schuldenaar moet bovendien vooraf aangemaand zijn met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van deze melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. De provincie kan administratieve kosten aanrekenen voor die aangetekende brief. Die kosten zijn ten laste van de schuldenaar en kunnen ook ingevorderd worden via het dwangbevel.<br>
+<br>
+Schulden van een publieke rechtspersoon kunnen nooit via een dwangbevel worden ingevorderd.<br>
+<br>
+Er kan verzet worden aangetekend tegen een gerechtsdeurwaardersexploot als vermeld in het tweede lid binnen een maand na de betekening ervan bij verzoekschrift of door een dagvaarding ten gronde.<br>
+<br>
+De financieel beheerder rapporteert in volle onafhankelijkheid over de volgende aangelegenheden aan de provincieraad en aan de deputatie:<br>
+1° de vervulling van de opdrachten, vermeld in dit artikel;<br>
+2° de thesaurietoestand, de liquiditeitsprognose, de beheerscontrole en de evolutie van de budgetten;<br>
+3° de financiële risico's.<br>
+<br>
+De financieel beheerder stelt tegelijkertijd een afschrift van de rapportering, vermeld in het zesde lid, aan de provinciegriffier ter beschikking.".
+
+### ART 46.
+
+&nbsp;In artikel 91 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt de zin "Hij staat in voor de uitvoering van de betalingen van de girale uitgaven, na uitdrukkelijke betalingsopdracht van de provinciegriffier overeenkomstig artikel 159." opgeheven.
+
+### ART 47.
+
+In artikel 92 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 3 juni 2016, wordt het tweede lid vervangen door wat volgt:<br>
+"Met behoud van de toepassing van het derde lid bestaat het managementteam uit de provinciegriffier, de financieel beheerder en alle andere leden die geen mandataris zijn en waarvan de deelname aan het managementteam nuttig wordt geacht voor het functioneren van de provincie.".
+
+### ART 48.
+
+Aan artikel 93 van hetzelfde decreet wordt de zinsnede: ", overeenkomstig het organisatiebeheersingssysteem, vermeld in artikel 95 tot en met 97." toegevoegd.
+
+### ART 49.
+
+Aan artikel 94, tweede zin, van hetzelfde decreet wordt de zinsnede ", overeenkomstig het organisatiebeheersingssysteem, vermeld in artikel 95 tot en met 97." toegevoegd.
+
+### ART 50.
+
+In hetzelfde decreet wordt in titel II, hoofdstuk VI, het opschrift van afdeling III vervangen door wat volgt:<br>
+"Afdeling III. Organisatiebeheersing".
+
+### ART 51.
+
+Artikel 95 van hetzelfde decreet, vervangen bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 95. Organisatiebeheersing is het geheel van maatregelen en procedures die ontworpen zijn om een redelijke zekerheid te verschaffen dat men:<br>
+1° de vastgelegde doelstellingen bereikt en de risico's om deze te bereiken kent en beheerst;<br>
+2° wetgeving en procedures naleeft;<br>
+3° over betrouwbare financiële en beheersrapportering beschikt;<br>
+4° op een effectieve en efficiënte wijze werkt en de beschikbare middelen economisch inzet;<br>
+5° de activa beschermt en fraude voorkomt.".
+
+### ART 52.
+
+Artikel 96 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 96. Het organisatiebeheersingssysteem bepaalt op welke wijze de organisatiebeheersing van de provincie wordt georganiseerd, met inbegrip van de te nemen controlemaatregelen, procedures en de aanwijzing van de personeelsleden en organen die ervoor verantwoordelijk zijn, en de rapporteringsverplichtingen van de personeelsleden die bij het organisatiebeheersingssysteem betrokken zijn.<br>
+<br>
+Het organisatiebeheersingssysteem beantwoordt minstens aan het principe van functiescheiding waar mogelijk en is verenigbaar met de continuïteit van de werking van de provinciale diensten.".
+
+### ART 53.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 96bis ingevoegd, dat luidt als volgt:<br>
+"Art. 96bis. Het organisatiebeheersingssysteem wordt vastgesteld door de provinciegriffier, na overleg met het managementteam. Het algemene kader van het organisatiebeheersingssysteem en de elementen daarin die raken aan de rol en de bevoegdheden van de provincieraad zijn onderworpen aan de goedkeuring van de provincieraad.<br>
+<br>
+De provinciegriffier rapporteert jaarlijks aan de deputatie en de provincieraad over de organisatiebeheersing. Die rapportering gebeurt jaarlijks uiterlijk voor 30 juni van het daaropvolgende jaar.".
+
+### ART 54.
+
+Artikel 97 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 97. Met behoud van de toepassing van artikel 58 kan de provinciegriffier, binnen de grenzen van het organisatiebeheersingssysteem, zijn bevoegdheden toevertrouwen aan andere personeelsleden van de provincie. Ook de financieel beheerder kan zijn bevoegdheden toevertrouwen aan andere personeelsleden van de provincie. In beide gevallen gebeurt dat schriftelijk en met een ondubbelzinnige omschrijving van de toegekende bevoegdheden en de daaraan verbonden opdrachten, middelen en rapporteringsverplichtingen.<br>
+<br>
+De toepassing van het eerste lid ontslaat de provinciegriffier of de financieel beheerder nooit van zijn verantwoordelijkheid.".
+
+### ART 55.
+
+In artikel 98, tweede lid, van hetzelfde decreet, vervangen bij het decreet van 30 april 2009, wordt de zinsnede "bedoeld in artikel 101, § 2," vervangen door de zinsnede "vermeld in artikel 101".
+
+### ART 56.
+
+In artikel 100bis van hetzelfde decreet, ingevoegd bij het decreet van 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+" § 1. Als dat nader bepaald is in de rechtspositieregeling van het personeel, kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden aan:<br>
+1° een extern verzelfstandigd agentschap als vermeld in artikel 224;<br>
+2° een vereniging of een vennootschap als vermeld in artikel 240;<br>
+3° een andere overheid dan vermeld in punt 1° en 2° ;<br>
+4° een vereniging zonder winstoogmerk als vermeld in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen, waarin de provincie al dan niet deelneemt en waarvan de activiteit verband houdt met een provinciaal belang.";<br>
+2° in het tweede lid, dat het tweede lid van paragraaf 1 wordt, worden de woorden "de overheid of de vereniging zonder winstoogmerk" vervangen door de woorden "de rechtspersoon";<br>
+3° het derde lid wordt paragraaf 2.
+
+### ART 57.
+
+Aan artikel 103, § 1, tweede lid, van hetzelfde decreet wordt de zinsnede "overeenkomstig het organisatiebeheersingssysteem, vermeld in artikel 95 tot en met 97" toegevoegd.
+
+### ART 58.
+
+Aan artikel 108, tweede zin, van hetzelfde decreet, wordt de zinsnede "overeenkomstig het organisatiebeheersingssysteem, vermeld in artikel 95 tot en met 97" toegevoegd.
+
+### ART 59.
+
+In artikel 111, derde lid, van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, wordt tussen het woord "wordt" en het woord "opgemaakt" het woord "minstens" ingevoegd.
+
+### ART 60.
+
+Artikel 114 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 114. Dit hoofdstuk is niet van toepassing op de leden van het provinciepersoneel in contractueel dienstverband.".
+
+### ART 61.
+
+Artikel 116 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 116. § 1. De volgende tuchtstraffen kunnen worden opgelegd:<br>
+1° blaam;<br>
+2° inhouding van salaris;<br>
+3° schorsing met inhouding van salaris;<br>
+4° ontslag van ambtswege;<br>
+5° afzetting.<br>
+<br>
+§ 2. De provincieraad kan de voorwaarden en de grenzen vaststellen van de tuchtstraffen, vermeld in paragraaf 1. De inhouding van salaris en de schorsing met inhouding van salaris mag respectievelijk een termijn van zes maanden en een jaar niet overschrijden.<br>
+<br>
+De tuchtstraf afzetting kan slechts worden opgelegd als de feiten die daaraan ten grondslag liggen, door de wetten en decreten als een misdaad zijn omschreven.<br>
+<br>
+Elke tuchtstraf die een inhouding van salaris inhoudt, mag niet hoger zijn dan de begrenzing, vermeld in artikel 23, tweede lid, van de wet van 12 april 1965 betreffende de bescherming van het loon van de<br>
+werknemers.<br>
+<br>
+§ 3. Elke tuchtstraf, behalve het ontslag van ambtswege en de afzetting, wordt in het persoonlijk dossier van de personeelsleden doorgehaald na verloop van een termijn van één jaar voor de blaam, drie jaar voor de inhouding van salaris en vier jaar voor de schorsing met inhouding van salaris. Die termijnen lopen vanaf de datum waarop de tuchtstraf werd uitgesproken door de tuchtoverheid of, indien beroep werd aangetekend overeenkomstig artikel 135, vanaf de datum van de uitspraak van de Beroepscommissie voor Tuchtzaken. De doorhaling heeft enkel uitwerking voor de toekomst. De provincieraad kan kortere doorhalingstermijnen vaststellen.".
+
+### ART 62.
+
+Artikel 117 van hetzelfde decreet wordt opgeheven.
+
+### ART 63.
+
+Artikel 118 van hetzelfde decreet wordt opgeheven.
+
+### ART 64.
+
+Artikel 119 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 119. De overheid die op het ogenblik van de vaststelling van de feiten bevoegd is voor het aanstellen en ontslaan van het personeelslid, treedt op als tuchtoverheid.<br>
+<br>
+In afwijking van artikel 58, derde lid, kan de provinciegriffier zijn bevoegdheid als tuchtoverheid slechts delegeren aan personeelsleden met minstens dezelfde of een gelijkwaardige graad als het personeelslid dat de tuchtprocedure ondergaat.<br>
+<br>
+De provincieraad kan onder zijn leden een tuchtcommissie oprichten, die de tuchtbevoegdheid van de provincieraad uitoefent.<br>
+<br>
+Het huishoudelijk reglement bepaalt de nadere regels over het voorzitterschap, de notulering en de werkwijze van de commissie.".
+
+### ART 65.
+
+Artikel 120 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 120. § 1. De tuchtoverheid start het tuchtonderzoek op en stelt een tuchtonderzoeker aan.<br>
+<br>
+Als tuchtonderzoeker kan elk personeelslid worden aangesteld dat werkt in een provincie of een verzelfstandigde entiteit van een provincie. Dit personeelslid heeft minstens een graad die gelijkwaardig is aan de graad van het tuchtrechtelijk vervolgde personeelslid.<br>
+<br>
+§ 2. Als het tuchtonderzoek is afgerond, stelt de tuchtonderzoeker het tuchtverslag op dat minstens de ten laste gelegde feiten bevat.<br>
+<br>
+De tuchtoverheid stelt het tuchtdossier samen. Het tuchtdossier bevat alle stukken die betrekking hebben op de ten laste gelegde feiten.".
+
+### ART 66.
+
+Artikel 121 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 121. De betrokkene mag zich op elk moment laten bijstaan en vertegenwoordigen door een raadsman van zijn keuze.".
+
+### ART 67.
+
+Artikel 122 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 122. Een tuchtstraf kan pas worden opgelegd nadat het personeelslid en, in voorkomend geval, zijn raadsman de gelegenheid hebben gekregen om door de tuchtoverheid te worden gehoord in de verdediging met betrekking tot alle feiten die het personeelslid ten laste worden gelegd.".
+
+### ART 68.
+
+Artikel 123 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 69.
+
+Artikel 124 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 124. De betrokkene wordt van de beslissing van de tuchtoverheid op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.<br>
+<br>
+In de kennisgeving van de beslissing wordt melding gemaakt van de beroepsmogelijkheid, vermeld in afdeling VIII, van de termijn waarbinnen en van de wijze waarop het beroep kan worden aangetekend.".
+
+### ART 70.
+
+Artikel 125 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 125. De Vlaamse Regering stelt de minimale voorwaarden vast voor de termijnen en de nadere procedureregels voor de tuchtprocedure.".
+
+### ART 71.
+
+Artikel 126 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 126. § 1. De tuchtoverheid kan geen tuchtrechtelijke vervolging meer instellen na verloop van een termijn van zes maanden na de vaststelling of de kennisname door de tuchtoverheid van de feiten.<br>
+<br>
+De tuchtrechtelijke vervolging wordt geacht te zijn ingesteld zodra de tuchtoverheid beslist om een tuchtonderzoek op te starten als vermeld in artikel 120.<br>
+<br>
+§ 2. Als in verband met dezelfde feiten een opsporingsonderzoek of een gerechtelijk onderzoek is ingesteld, wordt de termijn, vermeld in paragraaf 1, gestuit tot op de dag dat de tuchtoverheid ervan op de hoogte wordt gebracht dat de strafvordering beëindigd werd doordat, ingeval van een opsporingsonderzoek de zaak geseponeerd werd of er een correctioneel vonnis of arrest werd geveld, dat in kracht van gewijsde is gegaan, en ingeval van een gerechtelijk onderzoek de zaak beslecht werd met een beschikking tot buitenvervolgingstelling, die kracht van gewijsde heeft, of met een correctioneel vonnis of arrest, dat in kracht van gewijsde is gegaan.<br>
+<br>
+Als de strafvordering op gang werd gebracht door een rechtstreekse dagvaarding dan geldt de stuiting, vermeld in het eerste lid, vanaf de datum van de dagvaarding tot op de dag dat de tuchtoverheid ervan op de hoogte wordt gebracht dat de strafvordering beëindigd werd met een correctioneel vonnis of arrest dat in kracht van gewijsde is gegaan.<br>
+<br>
+§ 3. Het opsporingsonderzoek, het gerechtelijk onderzoek of de strafvervolging doet geen afbreuk aan de mogelijkheid van de tuchtoverheid om een tuchtstraf uit te spreken. Als een opgelegde tuchtstraf onverenigbaar blijkt te zijn met een latere in kracht van gewijsde getreden strafrechtelijke uitspraak, kan het betrokken personeelslid binnen zestig dagen na de kennisneming ervan bij de tuchtoverheid een verzoek tot intrekking van de opgelegde tuchtsanctie instellen.<br>
+<br>
+§ 4. Als de tuchtstraf wordt vernietigd, kan de tuchtoverheid vanaf de datum van de kennisgeving van de vernietiging, de tuchtrechtelijke vervolging hernemen gedurende het gedeelte van de termijn, vermeld in paragraaf 1, dat is overgebleven bij het instellen van de vervolging en minstens gedurende een termijn van drie maanden.<br>
+<br>
+Als de tuchtstraf wordt ingetrokken, kan de tuchtoverheid vanaf de datum van de intrekking de tuchtrechtelijke vervolging hernemen gedurende het gedeelte van de termijn, vermeld in paragraaf 1, dat is overgebleven bij het instellen van de vervolging.".
+
+### ART 72.
+
+Artikel 127 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 127. § 1. Als tegen een personeelslid een tuchtprocedure, een opsporingsonderzoek of een strafvervolging loopt en zijn aanwezigheid onverenigbaar is met het belang van de dienst, kan de tuchtoverheid het personeelslid bij wijze van ordemaatregel preventief schorsen, al dan niet met inhouding van salaris. Het personeelslid wordt vooraf gehoord.<br>
+<br>
+§ 2. In hoogdringende gevallen kan de provinciegriffier bij wijze van ordemaatregel het personeelslid onmiddellijk preventief schorsen zonder inhouding van salaris.<br>
+<br>
+Als tegen de provinciegriffier, de financieel beheerder of de ombudsman een tuchtprocedure, een opsporingsonderzoek of een strafvervolging loopt en zijn aanwezigheid onverenigbaar is met het belang van de dienst, kan de voorzitter van de provincieraad in hoogdringende gevallen bij wijze van ordemaatregel het personeelslid onmiddellijk preventief schorsen zonder inhouding van salaris.<br>
+<br>
+§ 3. De preventieve schorsing, vermeld in paragraaf 2, wordt binnen acht dagen nadat de beslissing genomen is, bevestigd door de tuchtoverheid, met behoud van de mogelijkheid om vanaf dan, volgens de regels, vermeld in paragraaf 1, de preventieve schorsing gepaard te laten gaan met een inhouding van salaris.<br>
+<br>
+Als binnen de termijn, vermeld in het eerste lid, de tuchtoverheid de preventieve schorsing niet heeft bevestigd, vervallen de gevolgen van de preventieve schorsing.".
+
+### ART 73.
+
+Artikel 128 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 128. § 1. De preventieve schorsing wordt uitgesproken voor een termijn van maximaal zes maanden.<br>
+<br>
+De tuchtoverheid kan beslissen tot een inhouding van salaris, op voorwaarde dat het personeelslid daarover vooraf wordt gehoord.<br>
+<br>
+De inhouding van salaris mag niet hoger zijn dan de begrenzing, vermeld in artikel 23, tweede lid, van de wet van 12 april 1965 betreffende de bescherming van het loon van de werknemers.<br>
+<br>
+§ 2. Als er een opsporingsonderzoek of een strafvervolging loopt, kan de tuchtoverheid de termijn, vermeld in paragraaf 1, verlengen voor perioden van maximaal zes maanden zolang het opsporingsonderzoek of de strafvervolging loopt, op voorwaarde dat het personeelslid daarover wordt gehoord.<br>
+<br>
+Als binnen de termijnen, vermeld in het eerste lid, geen tuchtstraf wordt opgelegd, vervallen de gevolgen van de preventieve schorsing.<br>
+<br>
+§ 3. De betrokkene wordt van de preventieve schorsing op de hoogte gebracht met een aangetekende brief, met een brief die afgegeven wordt tegen ontvangstbewijs, of via een elektronische melding van gegevens die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens.".
+
+### ART 74.
+
+Artikel 129 van hetzelfde decreet wordt opgeheven.
+
+### ART 75.
+
+Artikel 130 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 130. Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, geen tuchtstraf oplegt of een tuchtstraf zonder inhouding van salaris oplegt, wordt de preventieve schorsing ingetrokken en betaalt de provincie het ingehouden salaris uit.<br>
+<br>
+Als de tuchtoverheid, in aansluiting op een preventieve schorsing met inhouding van salaris, een tuchtstraf met inhouding van salaris, ontslag van ambtswege of afzetting oplegt, heeft de tuchtstraf uitwerking met ingang van de dag waarop de preventieve schorsing is ingegaan. In dat geval wordt het bedrag van het salaris dat ingehouden is tijdens de schorsing in mindering gebracht op het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf. Als het bedrag van het ingehouden salaris groter is dan het bedrag van het salarisverlies dat verbonden is aan de tuchtstraf, betaalt de provincie het verschil uit.".
+
+### ART 76.
+
+Artikel 131 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 77.
+
+Artikel 132 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 132. De Vlaamse Regering stelt de minimale voorwaarden vast voor de termijnen en de nadere procedureregels voor de preventieve schorsing.".
+
+### ART 78.
+
+Artikel 134 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 134. De Beroepscommissie voor Tuchtzaken is een bestuurlijk orgaan. De Vlaamse Regering regelt de samenstelling, de werking en de vergoeding van de leden ervan, alsook de nadere procedureregels van de beroepsprocedure.".
+
+### ART 79.
+
+Artikel 135 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 135. Binnen dertig dagen na ontvangst van de beslissing over het opleggen van een tuchtstraf of een preventieve schorsing kan het personeelslid tegen die beslissing beroep aantekenen bij de Beroepscommissie voor Tuchtzaken.<br>
+<br>
+Het beroep, vermeld in het eerste lid, schorst de uitvoering van de beslissing van de tuchtoverheid niet.".
+
+### ART 80.
+
+Artikel 136 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 136. De Beroepscommissie voor Tuchtzaken mag pas uitspraak doen nadat aan het personeelslid en aan de tuchtoverheid en hun respectieve raadsman de gelegenheid werd geboden om te worden gehoord. Die hoorzittingen zijn niet openbaar, tenzij het betrokken personeelslid er zelf om verzoekt.".
+
+### ART 81.
+
+Artikel 138 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 138. Binnen zestig dagen na de dag van ontvangst van het tuchtdossier spreekt de Beroepscommissie voor Tuchtzaken zich uit over het beroep. De Beroepscommissie voor Tuchtzaken deelt de datum waarop ze het tuchtdossier heeft ontvangen, mee aan de tuchtoverheid en de indiener van het beroep.<br>
+<br>
+De Beroepscommissie voor Tuchtzaken kan de oorspronkelijke termijn van zestig dagen eenmaal verlengen met een termijn van zestig dagen. Ze brengt, voor het verstrijken van de termijn van zestig dagen, de tuchtoverheid en het per-soneelslid op de hoogte van de verlengde termijn.<br>
+<br>
+Met behoud van de toepassing van de termijn, vermeld in het eerste en tweede lid, kan de Beroepscommissie voor Tuchtzaken de tuchtoverheid de mogelijkheid geven om binnen een bepaalde termijn een onwettigheid in de bestreden beslissing te herstellen. In voorkomend geval deelt de Beroepscommissie voor Tuchtzaken de partijen mee op welke wijze het beroep verder wordt behandeld na kennisname van de beslissing van de tuchtoverheid tot herstel van de onwettigheid en uiterlijk na het verstrijken van die termijn om de onwettigheid te herstellen.<br>
+<br>
+Als de Beroepscommissie voor Tuchtzaken het beroep gegrond verklaart, vernietigt ze de bestreden beslissing.".
+
+### ART 82.
+
+Artikel 139 van hetzelfde decreet wordt opgeheven.
+
+### ART 83.
+
+In hetzelfde decreet wordt in titel III, hoofdstuk VI, afdeling IX, die bestaat uit artikel 140, opgeheven.
+
+### ART 84.
+
+In hetzelfde decreet wordt het opschrift van titel IV vervangen door wat volgt:<br>
+"Titel IV. De beleids- en beheerscyclus".
+
+### ART 85.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk I van titel IV vervangen door wat volgt:<br>
+"Hoofdstuk I. De beleidsrapporten".
+
+### ART 86.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling I, die bestaat uit artikel 141 tot en met 145, ingevoegd, die luidt als volgt:<br>
+"Afdeling I. Algemene bepalingen".
+
+### ART 88.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk II van titel IV opgeheven.
+
+### ART 89.
+
+Artikel 142 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 142. Onmiddellijk na de definitieve vaststelling van een beleidsrapport, bezorgt de provincie de gegevens over het vastgestelde beleidsrapport in digitale vorm aan de Vlaamse Regering.<br>
+<br>
+Het vastgestelde beleidsrapport is pas uitvoerbaar als de digitale rapportering erover aan de Vlaamse Regering is bezorgd.<br>
+<br>
+Als er nog geen jaarrekening is vastgesteld op 30 juni van het jaar dat volgt op het boekjaar in kwestie, bezorgt de provincie de gegevens over het ontwerp van jaarrekening in digitale vorm aan de Vlaamse Regering.".
+
+### ART 91.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt het opschrift van hoofdstuk III van titel IV opgeheven.
+
+### ART 92.
+
+Artikel 144 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 144. Het boekjaar begint op 1 januari en eindigt op 31 december van hetzelfde jaar.".
+
+### ART 94.
+
+In titel IV, hoofdstuk I van hetzelfde decreet wordt een afdeling II, die bestaat uit artikel 146 tot en met 148, ingevoegd, die luidt als volgt:<br>
+"Afdeling II. Het meerjarenplan".
+
+### ART 98.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling III, die bestaat uit artikel 149 en 150, ingevoegd, die luidt als volgt:<br>
+"Afdeling III. Aanpassingen van het meerjarenplan".
+
+### ART 101.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling IV, die bestaat uit artikel 151, ingevoegd, die luidt als volgt:<br>
+"Afdeling IV. Bijzondere bepaling over het bestuurlijk toezicht op het meerjarenplan".
+
+### ART 102.
+
+Artikel 151 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 151. Met behoud van de bevoegdheid van de toezichthoudende overheid tot vernietiging wegens schending van het recht of strijdigheid met het algemeen belang, met toepassing van artikel 245 tot en met 252, vernietigt de toezichthoudende overheid het meerjarenplan of de aanpassing ervan in de volgende gevallen:<br>
+1° aan de raadsleden is in het beleidsrapport niet alle noodzakelijke informatie ter beschikking gesteld om met kennis van zaken een beslissing te kunnen nemen, onder meer over de financiële risico's;<br>
+2° er wordt niet afdoende of alleen op basis van fictieve gegevens aangetoond dat het financiële evenwicht gevrijwaard blijft in de boekjaren waarop het meerjarenplan betrekking heeft;<br>
+3° het meerjarenplan dat aan de raadsleden is bezorgd, stemt niet overeen met de digitale rapportering die daarover aan de Vlaamse Regering is bezorgd met toepassing van artikel 142;<br>
+4° verwachte ontvangsten of uitgaven zijn ten onrechte, of ten onrechte niet, opgenomen in het meerjarenplan.<br>
+<br>
+In afwijking van artikel 248 beschikt de toezichthoudende overheid over vijftig dagen om het meerjarenplan of de aanpassing ervan te vernietigen en om de provincie daarvan op de hoogte te brengen. Die termijn gaat in op de dag nadat de provincie zowel de toezichthoudende overheid op de hoogte heeft gebracht van de bekendmaking van het beleidsrapport, met toepassing van artikel 180bis, eerste lid, 3°, als de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd met toepassing van artikel 142.".
+
+### ART 103.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling V, die bestaat uit artikel 152 en 153, ingevoegd, die luidt als volgt:<br>
+"Afdeling V. De jaarrekening".
+
+### ART 104.
+
+Artikel 152 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 152. Nadat de rekeningen van de boekhouding, vermeld in artikel 145, in overeenstemming zijn gebracht met de gegevens van de inventaris van al de bezittingen, rechten, vorderingen, schulden en verplichtingen, van welke aard ook, van de provincie, worden ze samengevat opgenomen in het ontwerp van de jaarrekening.<br>
+<br>
+De jaarrekening bestaat uit een beleidsevaluatie, een financiële nota en een toelichting.<br>
+<br>
+De jaarrekening wordt vastgesteld voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.".
+
+### ART 106.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt het opschrift van hoofdstuk IV van titel IV opgeheven.
+
+### ART 107.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt in titel IV, hoofdstuk IV, het opschrift van afdeling I opgeheven.
+
+### ART 108.
+
+In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling VI, die bestaat uit artikel 154, ingevoegd, die luidt als volgt:<br>
+"Afdeling VI. Bijzondere bepaling over het bestuurlijk toezicht op de jaarrekening".
+
+### ART 109.
+
+Artikel 154 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 154. § 1. De toezichthoudende overheid keurt de jaarrekening goed op voorwaarde dat:<br>
+1° aan de raadsleden in het beleidsrapport alle noodzakelijke informatie ter beschikking is gesteld om met kennis van zaken een beslissing te nemen;<br>
+2° de jaarrekening juist en volledig is en een waar en getrouw beeld geeft van de financiële toestand van de provincie;<br>
+3° het beleidsrapport dat aan de raadsleden is bezorgd overeenstemt met de digitale rapportering die daarover aan de Vlaamse Regering is bezorgd met toepassing van artikel 142;<br>
+4° de algemene en de budgettaire boekhouding op elkaar aansluiten.<br>
+<br>
+Als de toezichthoudende overheid geen besluit heeft verzonden naar de provincie binnen een termijn van honderdvijftig dagen, wordt ze geacht de jaarrekening goed te keuren. Die termijn gaat in op de dag nadat de provincie zowel de toezichthoudende overheid op de hoogte heeft gebracht van de bekendmaking van de jaarrekening, met toepassing van artikel 180bis, eerste lid, 3°, als de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd met toepassing van artikel 142.<br>
+<br>
+§ 2. De toezichthoudende overheid kan bij de goedkeuring bepaalde verrichtingen als onregelmatig bestempelen en beslist dan over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Ze brengt de betrokkenen onmiddellijk op de hoogte van haar beslissing met een aangetekende brief of een andere melding die voldoet aan de voorwaarden, vermeld in artikel 2281 van het Burgerlijk Wetboek, en die een bewijs oplevert van die melding, van het tijdstip waarop ze is verricht en van de authenticiteit en de integriteit van de verwerkte gegevens. In voorkomend geval wordt daarbij een verzoek gevoegd om het vastgestelde bedrag aan de provincie te betalen. Een afschrift van de beslissing van de toezichthoudende overheid wordt bezorgd aan de provincie.".
+
+### ART 110.
+
+&nbsp;In titel IV van hetzelfde decreet wordt een hoofdstuk II, dat bestaat uit artikel 155 en 156, ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk II. Andere rapporteringen".
+
+### ART 112.
+
+Artikel 156 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 156. De provincie rapporteert aan de Vlaamse Regering over de verrichte transacties van elk kwartaal voor het einde van de maand die volgt op het kwartaal.".
+
+### ART 113.
+
+In titel IV van hetzelfde decreet wordt een hoofdstuk III, dat bestaat uit artikel 157 tot en met 163 ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk III. De ontvangsten- en uitgavencyclus".
+
+### ART 114.
+
+Artikel 157 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 157. Een verbintenis mag alleen worden aangegaan als de financiële gevolgen ervan tijdens de periode van het meerjarenplan passen binnen de ramingen van het meerjarenplan en als de financiële gevolgen voor het lopende boekjaar passen binnen de limitatieve kredieten voor dat boekjaar in het meerjarenplan.<br>
+<br>
+Als de provincie nog niet over uitvoerbare kredieten beschikt voor het lopende boekjaar, is het aangaan of het wijzigen van verbintenissen onderworpen aan de voorafgaande goedkeuring door de provincieraad. De provincie kan dan alleen verbintenissen aangaan of wijzigen die behoren tot de exploitatie en die verband houden met de courante werking en de bestaande dienstverlening.<br>
+<br>
+Iedereen die in strijd met het eerste of het tweede lid verbintenissen heeft aangegaan, is daarvoor persoonlijk verantwoordelijk, behalve in de gevallen die door of krachtens dit decreet worden bepaald en met behoud van de eventuele medeverantwoordelijkheid van andere organen of personeelsleden.".
+
+### ART 115.
+
+Artikel 158 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 158. De voorgenomen financiële verbintenissen die resulteren in een uitgaande nettokasstroom zijn onderworpen aan een voorafgaand visum, voordat enige verbintenis kan worden aangegaan.<br>
+<br>
+De financieel beheerder onderzoekt de wettigheid en regelmatigheid van die voorgenomen verbintenissen in het kader van zijn opdracht, vermeld in artikel 90, eerste lid, 1°. Hij verleent zijn visum, als uit dat onderzoek de wettigheid en regelmatigheid van de voorgenomen verbintenis blijkt. Hij kan voorwaarden koppelen aan zijn visum. Als de financieel beheerder weigert zijn visum te verlenen, of als hij er voorwaarden aan koppelt, motiveert hij dat.<br>
+<br>
+De provincieraad bepaalt, na advies van de financieel beheerder, de nadere voorwaarden waaronder de financieel beheerder de controle, vermeld in het tweede lid, uitoefent. De provincieraad kan binnen de perken die vastgelegd zijn door de Vlaamse Regering, en na advies van de financieel beheerder, bepaalde categorieën van verrichtingen uitsluiten van de visumverplichting.<br>
+<br>
+Het organisatiebeheersingssysteem bepaalt de voorwaarden die gelden om advies te kunnen vragen aan de financieel beheerder over de wettigheid en regelmatigheid van verrichtingen die van de visumverplichting zijn uitgesloten.".
+
+### ART 116.
+
+In hetzelfde decreet wordt in titel IV, hoofdstuk IV, het opschrift van afdeling II opgeheven.
+
+### ART 117.
+
+Artikel 159 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 159. Als de financieel beheerder weigert om een visum te verlenen aan een voorgenomen verbintenis, kan de deputatie op eigen verantwoordelijkheid viseren. In dat geval brengt de deputatie de gemotiveerde beslissing van de financieel beheerder, samen met zijn eigen beslissing, ter kennis van de provincieraad.<br>
+<br>
+De verbintenis kan pas worden aangegaan nadat de provincieraad heeft kunnen kennisnemen van die beslissing van de deputatie.<br>
+<br>
+In afwijking van het eerste lid kan de provincieraad in de situatie, vermeld in artikel 157, tweede lid, viseren als de financieel beheerder weigert om een visum te verlenen aan een voorgenomen verbintenis.".
+
+### ART 118.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt het opschrift van hoofdstuk V van titel IV opgeheven.
+
+### ART 119.
+
+Artikel 160 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 160. Met het behoud van de toepassing van artikel 157, eerste en tweede lid, kan de provincie geen verbintenissen uitvoeren zonder dat er kredieten voor beschikbaar zijn.<br>
+<br>
+Totdat de provincie over uitvoerbare kredieten beschikt, kan ze alleen uitgaven doen overeenkomstig verbintenissen die zijn aangegaan voor het begin van het boekjaar en overeenkomstig nieuwe verbintenissen die behoren tot de exploitatie en die verband houden met de courante werking en de bestaande dienstverlening.".
+
+### ART 120.
+
+Artikel 161 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 161. De provincieraad kan zonder de nodige kredieten over de uitgaven beslissen die door dwingende en onvoorziene omstandigheden vereist zijn, op voorwaarde dat hij daarvoor een met redenen omkleed besluit neemt.<br>
+<br>
+In dezelfde omstandigheden en als het geringste uitstel onbetwistbare schade zou veroorzaken, kan de deputatie op eigen verantwoordelijkheid over de uitgaven beslissen. De deputatie brengt de provincieraad daarvan onmiddellijk op de hoogte.<br>
+<br>
+De bevoegdheid om over de uitgaven te beslissen, houdt ook de bevoegdheid in tot het vaststellen van de voorwaarden van overheidsopdrachten, het vaststellen van de plaatsingsprocedure, het voeren van de plaatsingsprocedure, de gunning en de uitvoering van de overheidsopdrachten.<br>
+<br>
+In de gevallen, vermeld in het eerste en het tweede lid, worden de financiële gevolgen opgenomen in de eerstvolgende aanpassing van het meerjarenplan.".
+
+### ART 121.
+
+&nbsp;Artikel 162 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 162. Als verschillende provincies betrokken zijn bij een uitgave die door of krachtens wettelijke of decretale bepalingen aan de provincie is opgelegd, dragen ze allemaal daarin bij naar evenredigheid van het belang dat ze erbij kunnen hebben. In geval van weigering of van onenigheid over de verhouding van dat belang en van de te dragen lasten, beslist de Vlaamse Regering over het aandeel van elke provincie.".
+
+### ART 122.
+
+Artikel 163 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 163. § 1. Alle girale betalingen worden ondertekend door de provinciegriffier en de financieel beheerder. Met zijn handtekening bevestigt de provinciegriffier dat de uitgave wettig en regelmatig is.<br>
+<br>
+Als het organisatiebeheersingssysteem daarvoor een regeling bevat, kunnen provisies ter beschikking gesteld worden van personeelsleden voor het betalen van geringe exploitatie-uitgaven die voor de goede werking van de dienst onmiddellijk moeten worden gedaan. Het eerste lid is niet van toepassing op de betalingen vanuit die provisies.<br>
+<br>
+Betalingen in verband met het thesauriebeheer verricht de financieel beheerder autonoom. Daaronder vallen niet de betalingen naar de provisies, vermeld in het tweede lid.<br>
+<br>
+De deputatie wijst, met uitsluiting van de financieel beheerder, een of meer personeelsleden van de provincie aan die verantwoordelijk zijn voor de kasverrichtingen. Bij gebrek aan aanwijzing door de deputatie is de provinciegriffier verantwoordelijk voor de kasverrichtingen. De betrokken personeelsleden kunnen de aan hen toevertrouwde bevoegdheden niet weigeren als hun functieomschrijving erin voorziet.<br>
+<br>
+§ 2. Als de provinciegriffier of een personeelslid dat hij met betalingsverrichtingen belast heeft, weigert een betalingsopdracht aan een financiële instelling te ondertekenen, kan de deputatie op eigen verantwoordelijkheid bevelen de betaling uit te voeren. Een dergelijk bevel kan niet worden geweigerd.<br>
+<br>
+In het geval, vermeld in het eerste lid, brengt de deputatie de provincieraad op de hoogte van dat betalingsbevel.<br>
+<br>
+De betaling, vermeld in het eerste lid, kan pas worden uitgevoerd nadat de provincieraad heeft kunnen kennisnemen van de beslissing van de deputatie.".
+
+### ART 123.
+
+&nbsp;In titel IV van hetzelfde decreet wordt een hoofdstuk IV, dat bestaat uit artikel 164 ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk IV. Nadere uitwerking door de Vlaamse Regering".
+
+### ART 124.
+
+Artikel 164 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 164. De Vlaamse Regering bepaalt de nadere voorschriften voor de uitvoering van deze titel en de bijbehorende documenten, met inbegrip van de te hanteren modellen, de rekeningenstelsels en de inhoud en wijze van de digitale rapporteringen.<br>
+<br>
+De Vlaamse Regering bepaalt welke kredieten limitatief zijn.<br>
+<br>
+De Vlaamse Regering bepaalt de minimale vereisten waaraan de informaticasystemen moeten voldoen die door de provincie worden gehanteerd bij de uitvoering van de bepalingen van deze titel.".
+
+### ART 125.
+
+Artikel 167 van hetzelfde decreet wordt opgeheven.
+
+### ART 126.
+
+Artikel 168 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, wordt opgeheven.
+
+### ART 127.
+
+Artikel 169 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, wordt opgeheven.
+
+### ART 128.
+
+Artikel 170 van hetzelfde decreet wordt opgeheven.
+
+### ART 129.
+
+In artikel 171 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, worden paragraaf 6 tot en met paragraaf 8 opgeheven.
+
+### ART 130.
+
+Artikel 172 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt opgeheven.
+
+### ART 131.
+
+Artikel 173 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt opgeheven.
+
+### ART 132.
+
+Artikel 174bis van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt opgeheven.
+
+### ART 133.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt hoofdstuk VIII van titel IV, dat bestaat uit artikel 175, opgeheven.
+
+### ART 134.
+
+&nbsp;In titel V, hoofdstuk I, afdeling I van hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 175bis ingevoegd, dat luidt als volgt:<br>
+"Art. 175bis. Akten en documenten van de provincie, het autonoom provinciebedrijf en het provinciaal extern verzelfstandigd agentschap in privaatrechtelijke vorm mogen op elke informatiedrager geplaatst worden, als de provincie, het autonoom provinciebedrijf of het provinciaal extern verzelfstandigd agentschap in privaatrechtelijke vorm een duurzame bewaring en toegankelijkheid garandeert.<br>
+<br>
+Voor de toepassing van dit decreet kan aan de vereiste van een handtekening voldaan worden door een elektronische procedure die de authenticiteit en de integriteit van de gegevens waarborgt. De Vlaamse Regering kan die elektronische procedure nader bepalen.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de wijze waarop gegevens, akten en documenten van de provincie, het autonoom provinciebedrijf en het provinciaal extern verzelfstandigd agentschap in privaatrechtelijke vorm opgemaakt, bewaard en gecommuniceerd worden.".
+
+### ART 135.
+
+In artikel 176 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De provinciegriffier woont de vergaderingen van de provincieraad bij en is verantwoordelijk voor het opstellen en het bewaren van de notulen en het zittingsverslag ervan. De provinciegriffier woont de vergaderingen van de deputatie bij en is verantwoordelijk voor het opstellen en het bewaren van de notulen ervan.";<br>
+2° in het tweede lid worden de woorden "originelen van de" telkens opgeheven;<br>
+3° in het tweede lid worden tussen het woord "notulen" en de woorden "van de provincieraad" de woorden "en het zittingsverslag" ingevoegd;<br>
+4° in het tweede lid wordt tussen het woord "door" en de woorden "de provinciegouverneur" het woord "de" opgeheven.
+
+### ART 136.
+
+Aan artikel 177, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden een tweede en derde lid toegevoegd, die luiden als volgt:<br>
+"De zittingsverslagen van de vergaderingen van de provincieraad vermelden, in chronologische volgorde, alle besproken onderwerpen, de essentie van de tussenkomsten en van de mondeling en schriftelijk gestelde vragen en antwoorden. De provincieraad kan beslissen om het zittingsverslag te vervangen door een audio- of audiovisuele opname van de openbare zitting van de provincieraad.<br>
+<br>
+Als de provincieraad een aangelegenheid overeenkomstig artikel 28 in besloten vergadering behandelt, vermelden de notulen alleen de beslissingen en wordt er geen zittingsverslag opgesteld.".
+
+### ART 137.
+
+In artikel 178 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2 wordt tussen het woord "door" en de woorden "de provinciegouverneur" het woord "de" opgeheven;<br>
+2° in paragraaf 5/1 wordt het woord "schriftelijk" opgeheven;<br>
+3° in paragraaf 5/1 worden tussen het woord "notulen" en de zinsnede ", vermeld" de woorden "en het zittingsverslag" ingevoegd;<br>
+4° in paragraaf 5/1 wordt de zin "De voorzitter van de provincieraad kan tevens zijn bevoegdheden die voortvloeien uit artikel 43, § 2, 12°, delegeren aan een of meer leden van de provincieraad." opgeheven;<br>
+5° in paragraaf 5/1 wordt tussen de zinsnede ", delegeren aan een of meer leden van de provincieraad" en de woorden "Die opdracht" de zin "Hij doet dat schriftelijk via een informatiedrager naar keuze." ingevoegd;<br>
+6° in paragraaf 6 worden tussen het woord "notulen" en de zinsnede ", vermeld" de woorden "en het zittingsverslag" ingevoegd;<br>
+7° in paragraaf 6 wordt de zin "De opdrachten tot ondertekening of medeondertekening worden schriftelijk gegeven en zijn te allen tijde herroepbaar; de provincieraad wordt daarvan op de hoogte gebracht tijdens zijn eerstvolgende vergadering." vervangen door de zinnen "Hij doet dat schriftelijk via een informatiedrager naar keuze. Die opdracht kan op elk moment worden herroepen.".
+
+### ART 138.
+
+In artikel 179 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De provinciegriffier vermeldt de intrekking van een besluit, de vernietiging of de niet-goedkeuring van een besluit door een toezichthoudende overheid in de notulen van de provincieraad of van de deputatie.";<br>
+2° in het tweede lid worden de woorden "en de deputatie van elke kantmelding" vervangen door de woorden "of de deputatie daarvan".
+
+### ART 139.
+
+Artikel 180 van hetzelfde decreet, vervangen bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 180. Via de webtoepassing van de provincie wordt een lijst bekendgemaakt met de besluiten van:<br>
+1° de provincieraad;<br>
+2° de raden van bestuur van de autonome provinciebedrijven;<br>
+3° de deputatie.<br>
+<br>
+De lijst, vermeld in het eerste lid, bevat een beknopte omschrijving van de aangelegenheden die geregeld zijn in de besluiten. Er wordt geen informatie verspreid die valt onder de uitzonderingen, vermeld in het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.".
+
+### ART 140.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 180bis ingevoegd, dat luidt als volgt:<br>
+"Art. 180bis. Via de webtoepassing van de provincie worden de volgende besluiten en de inhoud ervan bekendgemaakt:<br>
+1° de reglementen en verordeningen van de provincieraad en van de deputatie;<br>
+2° de rechtspositieregeling van het provinciepersoneel en de wijzigingen ervan;<br>
+3° de beleidsrapporten van de provincie en van de autonome provinciebedrijven;<br>
+4° de besluiten van de provincieraad over de beleidsrapporten van de autonome provinciebedrijven;<br>
+5° de oprichtingsakte van de autonome provinciebedrijven;<br>
+6° de statuten en de wijzigingen ervan van de autonome provinciebedrijven;<br>
+7° de oprichtingsakte van de extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
+8° de statuten van de extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
+9° de jaarrekeningen van de extern verzelfstandigde agentschappen in privaatrechtelijke vorm;<br>
+10° de besluiten van de raad van bestuur van de autonome provinciebedrijven waarbij wordt afgeweken van de rechtspositieregeling van het provinciepersoneel;<br>
+11° de besluiten van de raad van bestuur van de autonome provinciebedrijven betreffende retributies.<br>
+<br>
+Met behoud van de bepalingen van dit decreet, kan de Vlaamse Regering bepalen welke andere besluiten en andere stukken moeten worden bekendgemaakt, en voor alle besluiten en stukken, vermeld in dit artikel, hoe lang ze minimaal via de webtoepassing van de provincie raadpleegbaar moeten blijven.".
+
+### ART 141.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 180ter ingevoegd, dat luidt als volgt:<br>
+"Art. 180ter. De bekendmaking van de lijst van de besluiten, vermeld in artikel 180, en van de besluiten, vermeld in artikel 180bis, gebeurt binnen tien dagen nadat ze genomen zijn, met vermelding van de datum waarop ze via de webtoepassing worden bekendgemaakt.<br>
+<br>
+Voor de besluiten, vermeld in artikel 180bis, eerste lid, 1° en 2°, bevat de bekendmaking ook de datum waarop ze zijn aangenomen.<br>
+<br>
+De webtoepassing van de provincie vermeldt de wijze waarop het publiek inzage kan krijgen in de besluiten die op de lijst zijn vermeld, en vermeldt ook de mogelijkheid om klacht in te dienen bij de toezichthoudende overheid, vermeld in artikel 241. Als de toezichthoudende overheid een besluit heeft vernietigd, wordt ook van die vernietiging melding gemaakt.".
+
+### ART 142.
+
+In artikel 181 van hetzelfde decreet wordt de zinsnede "artikel 180" vervangen door de zinsnede "artikel 180bis, eerste lid, 1° en 2° ".
+
+### ART 143.
+
+Artikel 182 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 182. Tenzij de wet, dit decreet of een ander decreet de vorm van mededeling of kennisgeving oplegt, kan het huishoudelijk reglement van de provincieraad bepalen op welke wijze stukken aan de betrokkene worden meegedeeld of ter kennis gebracht. Als het huishoudelijk reglement niets bepaalt, worden de stukken van de provincie met een gewone brief meegedeeld of ter kennis gebracht.".
+
+### ART 144.
+
+In titel V van hetzelfde decreet wordt het opschrift van hoofdstuk III vervangen door wat volgt:<br>
+"Hoofdstuk III. Onroerende goederen van de provincie".
+
+### ART 145.
+
+Aan artikel 185 van hetzelfde decreet wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Onroerende goederen van de provincie en van de autonome provinciebedrijven worden altijd vervreemd volgens de principes van mededinging en transparantie, behalve als er een motivering wordt gegeven voor een afwijking daarvan.".
+
+### ART 146.
+
+Artikel 185ter van hetzelfde decreet, ingevoegd bij het decreet van 10 december 2010, wordt opgeheven.
+
+### ART 147.
+
+In artikel 185quater van hetzelfde decreet, ingevoegd bij het decreet van 10 december 2010, wordt de zinsnede "artikelen 185bis en 185ter" vervangen door de zinsnede "artikel 185bis".
+
+### ART 148.
+
+... (bepaling werd vernietigd bij arrest 131/2019 van het Grondwettelijk Hof van 10 oktober 2019: <a href="https://www.const-court.be/public/n/2019/2019-131n.pdf">arrest 131/2019</a>&nbsp;)
+
+### ART 149.
+
+In titel V van hetzelfde decreet wordt een hoofdstuk IVbis ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk IVbis. Digitale communicatie met de Vlaamse overheid".
+
+### ART 150.
+
+In hoofdstuk IVbis van hetzelfde decreet, ingevoegd bij artikel 149, wordt een artikel 187bis ingevoegd, dat luidt als volgt:<br>
+"Art. 187bis. Een door de Vlaamse Regering aan te wijzen entiteit van de Vlaamse overheid houdt een databank bij die gegevens bevat over de aangestelde en waarnemende provinciegriffier en de aangestelde en waarnemende financieel beheerder van de provincie en over de leidend ambtenaar van het autonoom provinciebedrijf. De databank biedt een overzicht van de personeelsleden die namens de provincie en het autonoom provinciebedrijf verantwoordelijk zijn voor de digitale communicatie met de Vlaamse overheid.<br>
+<br>
+De databank bevat de voornaam, de achternaam, het rijksregisternummer, de contactgegevens en de begin- en einddatum van de aanstelling. De gegevens worden ter beschikking gesteld door de provincie en het autonoom provinciebedrijf. De databank houdt het historische overzicht van die gegevens bij.<br>
+<br>
+De gegevens, vermeld in het tweede lid, van de personen, vermeld in het eerste lid, die in functie zijn, worden met uitzondering van het rijksregisternummer door de entiteit publiek toegankelijk gemaakt.<br>
+<br>
+De entiteit, vermeld in het eerste lid, is verantwoordelijk voor het beheer van de gegevens, vermeld in dit artikel.".
+
+### ART 151.
+
+In artikel 188 van hetzelfde decreet, gewijzigd bij de decreten van 29 juni 2012 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zinsnede "Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking" vervangen door de zinsnede "Met behoud van toepassing van titel 3 van deel 3 van het decreet van 22 december 2017 over het lokaal bestuur";<br>
+2° in paragraaf 1, tweede lid, wordt tussen de woorden "die vennootschap" en de woorden "de realisatie" het woord "uitsluitend" ingevoegd;<br>
+3° in paragraaf 1, tweede lid, worden de woorden "in de zin van het decreet" vervangen door de zinsnede "als vermeld in het decreet van 18 juli 2013";<br>
+4° in paragraaf 1, tweede lid, wordt het woord "uitsluitende" opgeheven;<br>
+5° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. Met behoud van de toepassing van artikel 100bis mag deze oprichting, deelname of vertegenwoordiging, vermeld in paragraaf 1, niet gepaard gaan met de overdracht van provinciale infrastructuur, noch met de overdracht of terbeschikkingstelling van personeel.".
+
+### ART 152.
+
+In artikel 191 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1 wordt de volgende zin toegevoegd:<br>
+"De provinciegriffier neemt dat op in het organisatiebeheersingssysteem, vermeld in artikel 96.";<br>
+2° een paragraaf 3 wordt toegevoegd, die luidt als volgt:<br>
+" § 3. De provinciegriffier rapporteert jaarlijks aan de provincieraad over de klachten ingediend tegen de provincie.".
+
+### ART 153.
+
+&nbsp;In titel VI van hetzelfde decreet wordt een hoofdstuk Ibis ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk Ibis. Inspraak, voorstellen van burgers en verzoekschriften aan de organen van de provincie".
+
+### ART 154.
+
+In hoofdstuk Ibis van hetzelfde decreet, ingevoegd bij artikel 153, wordt een artikel 191bis ingevoegd, dat luidt als volgt:<br>
+"Art. 191bis. § 1. De provincieraad voert een beleid op het vlak van de betrokkenheid en de inspraak van de burgers of van de doelgroepen, met inbegrip van een regeling over het recht van de inwoners om voorstellen en vragen op de agenda van de provincieraad te zetten.<br>
+<br>
+§ 2. Overeenkomstig artikel 28 van de Grondwet, heeft iedereen het recht verzoekschriften in te dienen bij de organen van de provincie.<br>
+<br>
+§ 3. Onder voorbehoud van de wettelijke en decretale bepalingen die op dit gebied gelden, kan alleen de provincieraad overgaan tot de organisatie van raden en overlegstructuren die als opdracht hebben op regelmatige en systematische wijze het provinciebestuur te adviseren.<br>
+<br>
+Ten hoogste twee derde van de leden van de raden en de overlegstructuren, vermeld in het eerste lid, is van hetzelfde geslacht. Als dat niet het geval is, kan niet op rechtsgeldige wijze advies worden uitgebracht.<br>
+<br>
+Provincieraadsleden en leden van de deputatie kunnen geen stemgerechtigd lid zijn van de raden en de overlegstructuren, vermeld in het eerste lid.<br>
+<br>
+§ 4. De provincieraad kan ook andere initiatieven nemen om de inspraak van de burgers te bevorderen.<br>
+<br>
+§ 5. De provincieraad bepaalt bij reglement de wijze waarop concreet vormgegeven wordt aan de inspraak, vermeld in paragraaf 1 tot en met 4, voor de provincie en haar organen.".
+
+### ART 155.
+
+In titel VI van hetzelfde decreet wordt hoofdstuk II, dat bestaat uit artikel 192 en 193, opgeheven.
+
+### ART 156.
+
+In titel VI van hetzelfde decreet wordt hoofdstuk IIbis, dat bestaat uit artikel 193bis tot en met 193quinquies, ingevoegd bij decreet van 2 juni 2006, opgeheven.
+
+### ART 157.
+
+In titel VI van hetzelfde decreet wordt hoofdstuk III, dat bestaat uit artikel 194 tot en met 197, opgeheven.
+
+### ART 158.
+
+In titel VI, hoofdstuk IV, van hetzelfde decreet wordt een afdeling I, die bestaat uit artikel 198 tot en met 201, ingevoegd, die luidt als volgt:<br>
+"Afdeling I. Algemene bepalingen".
+
+### ART 159.
+
+Artikel 198 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 198. De provincieraad kan beslissen om de inwoners te raadplegen over de aangelegenheden, vermeld in artikel 2, § 2, eerste lid. Hij organiseert een volksraadpleging als de inwoners van de provincie daartoe een verzoek hebben ingediend dat voldoet aan de voorwaarden, vermeld in dit hoofdstuk.<br>
+<br>
+Persoonlijke aangelegenheden en aangelegenheden betreffende de jaarrekeningen, het meerjarenplan en de aanpassingen ervan, de provinciebelastingen en de retributies kunnen niet het voorwerp zijn van een volksraadpleging.".
+
+### ART 160.
+
+Artikel 199 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 199. Een volksraadpleging kan niet worden georganiseerd in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de provincieraden. Bovendien kan er geen volksraadpleging worden georganiseerd in de periode van veertig dagen voor de rechtstreekse verkiezing van de leden van de Kamer van Volksvertegenwoordigers, de gemeenschaps- en gewestparlementen en het Europees Parlement.<br>
+<br>
+De inwoners van de provincie kunnen maar eenmaal om de zes maanden worden geraadpleegd, met een maximum van zes volksraadplegingen per bestuursperiode. Gedurende de periode tussen twee vernieuwingen van de provincieraad kan maar één volksraadpleging over hetzelfde onderwerp worden gehouden.".
+
+### ART 161.
+
+Artikel 200 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 200. De vraag of vragen waarop de volksraadpleging betrekking heeft, wordt zo geformuleerd dat met ja of nee kan worden geantwoord.".
+
+### ART 162.
+
+Artikel 201 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 201. De Vlaamse Adviescommissie voor Volksraadplegingen, bedoeld in artikel 308 van het decreet van 22 december 2017 over het lokaal bestuur, heeft als opdracht om op verzoek advies uit te brengen aan de Vlaamse Regering, aan initiatiefnemers of aan provincies over het houden van een provinciale volksraadpleging. Zij kan hierover ook uit eigen beweging advies verstrekken aan de Vlaamse Regering.".
+
+### ART 163.
+
+In titel VI, hoofdstuk IV, van hetzelfde decreet wordt een afdeling II, die bestaat uit artikel 202 tot en met 208, ingevoegd, die luidt als volgt:<br>
+"Afdeling II. De volksraadpleging op initiatief van de inwoners".
+
+### ART 164.
+
+Artikel 202 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, wordt vervangen door wat volgt:<br>
+"Art. 202. Het initiatief dat uitgaat van de inwoners van de provincie moet worden gesteund door ten minste 10% van de inwoners.".
+
+### ART 165.
+
+Artikel 203 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 203. Elk verzoek om een volksraadpleging te houden, op initiatief van de inwoners van de provincie, wordt gericht aan de deputatie.<br>
+<br>
+Het verzoek wordt met een aangetekende brief of door afgifte tegen ontvangstbewijs ingediend. De Vlaamse Regering kan bepalen dat ook andere manieren van indiening mogelijk zijn.<br>
+<br>
+Bij het verzoek worden een gemotiveerde nota gevoegd en de stukken die de provincieraad kunnen voorlichten.".
+
+### ART 166.
+
+Artikel 204 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 204. Het verzoek wordt ingediend met een formulier dat bestaat uit een verzoekschrift en een petitielijst.<br>
+<br>
+Het verzoekschrift bevat de volgende vermeldingen:<br>
+1° de naam van de provincie;<br>
+2° de tekst van artikel 196 van het Strafwetboek;<br>
+3° de vraag of vragen waarop de voorgenomen volksraadpleging betrekking heeft;<br>
+4° de naam, de voornamen, de geboortedatum en de woonplaats van de personen die het initiatief nemen tot de volksraadpleging.<br>
+<br>
+De petitielijst bevat naast de vermeldingen in het tweede lid ook de naam, voornamen, geboortedatum en woonplaats van iedereen die het verzoekschrift heeft ondertekend.<br>
+<br>
+De Vlaamse Regering stelt het model van het formulier, vermeld in het eerste lid, vast.".
+
+### ART 167.
+
+Artikel 205 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 205. § 1. Een persoon kan verzoeken om een volksraadpleging als hij aan al de volgende voorwaarden voldoet:<br>
+1° in het bevolkingsregister van een gemeente in de provincie ingeschreven of vermeld zijn;<br>
+2° de leeftijd van zestien jaar bereikt hebben;<br>
+3° niet het voorwerp uitmaken van een veroordeling of beslissing die voor een provincieraadskiezer de uitsluiting of schorsing van het kiesrecht meebrengt.<br>
+<br>
+§ 2. De voorwaarden, vermeld in paragraaf 1, moeten vervuld zijn op de datum waarop het verzoekschrift wordt ingediend.<br>
+<br>
+§ 3. Artikel 15, § 5, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is van toepassing op alle categorieën van personen die voldoen aan de voorwaarden, vermeld in paragraaf 1.<br>
+<br>
+Voor niet-Belgische onderdanen en voor Belgische onderdanen die jonger zijn dan achttien jaar, wordt de kennisgeving door de parketten van de hoven en rechtbanken gedaan als de veroordeling of de internering, waartegen met geen gewoon rechtsmiddel meer kan worden opgekomen, zou hebben geleid tot uitsluiting van het kiesrecht of opschorting van dat recht als ze ten laste van een provincieraadskiezer is uitgesproken. In geval van kennisgeving nadat de lijst van deelnemers is opgemaakt, worden de betrokkenen van die lijst geschrapt.".
+
+### ART 168.
+
+Artikel 205bis van hetzelfde decreet, ingevoegd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 169.
+
+Artikel 206 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, wordt vervangen door wat volgt:<br>
+"Art. 206. Na de ontvangst van het verzoek onderzoekt de deputatie of het verzoekschrift voldoet aan de vereisten, vermeld in artikel 198, 199, 200, 203, 204 en 205.<br>
+<br>
+Het resultaat van dat onderzoek wordt in een gemotiveerd advies meegedeeld aan de provincieraad.".
+
+### ART 170.
+
+Artikel 207 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt:<br>
+"Art. 207. Nadat het onderzoek, vermeld in artikel 206, is afgesloten wordt het verzoek om een volksraadpleging te houden, ingeschreven op de agenda van de eerstvolgende vergadering van de provincieraad.<br>
+<br>
+De provincieraad beslist of het verzoek toelaatbaar is.".
+
+### ART 171.
+
+Artikel 208 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 208. De deputatie onderzoekt of het verzoek gesteund is door een voldoende aantal geldige handtekeningen. De deputatie kan beslissen dit onderzoek te voeren vooraleer ze overgaat tot het onderzoek, vermeld in artikel 206.<br>
+<br>
+Naar aanleiding van dat onderzoek schrapt de deputatie:<br>
+1° de dubbele handtekeningen;<br>
+2° de handtekeningen van de personen die niet voldoen aan de voorwaarden, vermeld in artikel 205;<br>
+3° de handtekeningen van de personen voor wie de verschafte gegevens ontoereikend zijn om de toetsing van hun identiteit mogelijk te maken.<br>
+<br>
+De controle wordt beëindigd als het aantal geldige handtekeningen is bereikt.".
+
+### ART 172.
+
+In titel VI, hoofdstuk IV, van hetzelfde decreet wordt een afdeling III, die bestaat uit artikel 209 tot en met 211, ingevoegd, die luidt als volgt:<br>
+"Afdeling III. Voorafgaand aan de volksraadpleging".
+
+### ART 173.
+
+Artikel 209 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 209. Ten minste dertig dagen voor de dag van de volksraadpleging stelt de provincie aan de inwoners een brochure ter beschikking waarin het onderwerp van de volksraadpleging op een objectieve manier wordt uiteengezet. Die brochure bevat in voorkomend geval ook de gemotiveerde nota, vermeld in artikel 203, derde lid, en de vraag of vragen waarover de inwoners zullen worden geraadpleegd.".
+
+### ART 174.
+
+Artikel 210 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 210. § 1. Op de dertigste dag voor de volksraadpleging maakt de deputatie een lijst op van de deelnemers aan de volksraadpleging.<br>
+<br>
+Op de lijst van deelnemers aan de volksraadpleging worden de volgende personen vermeld:<br>
+1° de personen die op de voormelde datum in het bevolkingsregister van een gemeente in de provincie ingeschreven of vermeld zijn en die de leeftijd van zestien jaar hebben bereikt, en die niet het voorwerp uitmaken van een veroordeling of beslissing die voor een provincieraadskiezer de uitsluiting of schorsing van het kiesrecht meebrengt;<br>
+2° de deelnemers die tussen de datum, vermeld in het eerste lid, en de datum van de volksraadpleging de leeftijd van zestien jaar bereiken;<br>
+3° de personen voor wie de schorsing van het kiesrecht een einde neemt of zou nemen uiterlijk op de dag die is vastgesteld voor de volksraadpleging.<br>
+<br>
+De deelnemers die na de datum waarop de lijst van de deelnemers aan de volksraadpleging wordt afgesloten, het voorwerp zijn van een veroordeling of van een beslissing die voor een provincieraadskiezer ofwel de uitsluiting van het kiesrecht, ofwel de schorsing van dat recht op de dag van de volksraadpleging meebrengt, worden van die lijst geschrapt.<br>
+<br>
+Voor elke persoon die voldoet aan de deelnemingsvoorwaarden vermeldt de lijst van deelnemers aan de volksraadpleging de naam, de voornamen, de geboortedatum, het geslacht en de hoofdverblijfplaats. Die lijst wordt volgens een doorlopende nummering en eventueel per wijk van de gemeente opgemaakt, ofwel in alfabetische volgorde van de deelnemers, ofwel geografisch volgens de straten.<br>
+<br>
+§ 2. Artikel 15, § 5, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 is van toepassing op alle categorieën van personen die voldoen aan de voorwaarden, vermeld in paragraaf 1.<br>
+<br>
+Voor niet-Belgische onderdanen en voor Belgische onderdanen die jonger zijn dan achttien jaar wordt de kennisgeving door de parketten van de hoven en rechtbanken gedaan als de veroordeling of de internering, waartegen met geen gewoon rechtsmiddel meer kan worden opgekomen, zou hebben geleid tot uitsluiting van het kiesrecht of opschorting van dat recht als ze ten laste van een provincieraadskiezer is uitgesproken. In geval van kennisgeving nadat de lijst van deelnemers is opgemaakt, worden de betrokkenen van die lijst geschrapt.".
+
+### ART 175.
+
+Artikel 211 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 211. § 1. De volgende potentiële deelnemers aan de provinciale volksraadpleging kunnen een andere potentiële deelnemer aan de provinciale volksraadpleging machtigen om in hun naam te stemmen:<br>
+1° potentiële deelnemers aan de provinciale volksraadpleging die wegens ziekte of gebrekkigheid niet in staat zijn om zich naar het stemlokaal te begeven of om ernaartoe gebracht te worden. Die onbekwaamheid blijkt uit een medisch attest;<br>
+2° potentiële deelnemers aan de provinciale volksraadpleging die om beroeps- of dienstredenen:<br>
+a) in het buitenland zijn opgehouden, net als de leden van hun gezin of hun gevolg die met hen daar verblijven. De onmogelijkheid blijkt uit een attest van de militaire of burgerlijke overheid of van de werkgever van de betrokkenen;<br>
+b) zich op de dag van de provinciale volksraadpleging in het Rijk bevinden, maar in de onmogelijkheid verkeren zich in het stemlokaal te melden. De onmogelijkheid blijkt ook uit een attest van de militaire of burgerlijke overheid of van de werkgever van de betrokkenen;<br>
+3° potentiële deelnemers aan de provinciale volksraadpleging die het beroep van schipper, marktkramer of kermisreiziger uitoefenen en de leden van hun gezin die met hen samenwonen. De uitoefening van het beroep blijkt uit een attest van de burgemeester van de gemeente waar de betrokkenen in het bevolkingsregister zijn ingeschreven. De Vlaamse Regering bepaalt het model van dit attest;<br>
+4° potentiële deelnemers aan de provinciale volksraadpleging die op de dag van de provinciale volksraadpleging ten gevolge van een rechterlijke maatregel in een toestand van vrijheidsbeneming verkeren. Die toestand wordt bevestigd door de directie van de inrichting waar de betrokkenen zich bevinden;<br>
+5° potentiële deelnemers aan de provinciale volksraadpleging die om redenen in verband met hun geloofsovertuiging in de onmogelijkheid verkeren zich in het stemlokaal te melden. Die onmogelijkheid blijkt uit een attest dat is afgegeven door de religieuze overheid;<br>
+6° studenten die zich om studieredenen, in de onmogelijkheid bevinden om zich in het stemlokaal te melden, op voorwaarde dat ze een attest overleggen van de directie van de instelling waar ze studeren;<br>
+7° potentiële deelnemers aan de provinciale volksraadpleging die om andere redenen op de dag van de provinciale volksraadpleging niet in hun woonplaats zijn wegens een tijdelijk verblijf in het buitenland, en bijgevolg in de onmogelijkheid verkeren om zich in het stemlokaal aan te melden, als de onmogelijkheid door de burgemeester van hun woonplaats vastgesteld is, na overlegging van de nodige bewijsstukken of, als de betrokkene zich in de onmogelijkheid bevindt een dergelijk bewijsstuk voor te leggen, op grond van een verklaring op erewoord. De Vlaamse Regering bepaalt het model van de verklaring op erewoord die de betrokkene indient en het attest dat de burgemeester afgeeft. De aanvraag wordt uiterlijk de derde dag voor de dag van de volksraadpleging bij de burgemeester van de woonplaats ingediend.<br>
+<br>
+§ 2. Iedereen die de hoedanigheid van potentiële deelnemer aan de provinciale volksraadpleging bezit, kan als gemachtigde worden aangewezen. De gemachtigde kan zijn hoedanigheid bewijzen met zijn oproepingsbrief.<br>
+<br>
+Iedere gemachtigde mag maar één volmacht hebben.<br>
+<br>
+§ 3. De volmacht wordt gesteld op een formulier waarvan het model door de Vlaamse Regering wordt bepaald. Het wordt kosteloos ter beschikking gesteld door de gemeente.<br>
+<br>
+De volmacht vermeldt de volksraadpleging waarvoor ze geldig is, de naam, de voornamen, de geboortedatum en het adres van de volmachtgever en van de gemachtigde.<br>
+<br>
+De volmachtgever en de gemachtigde ondertekenen het volmachtformulier.".
+
+### ART 176.
+
+Artikel 211bis van hetzelfde decreet, ingevoegd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 177.
+
+In titel VI, hoofdstuk IV, van hetzelfde decreet wordt een afdeling IV, die bestaat uit artikel 212 tot en met 214ter, ingevoegd, die luidt als volgt:<br>
+"Afdeling IV. Verloop van de volksraadpleging".
+
+### ART 178.
+
+Artikel 212 van hetzelfde decreet, gewijzigd bij het decreet van 8 juli 2011, wordt vervangen door wat volgt:<br>
+"Art. 212. De deelname aan de volksraadpleging is niet verplicht. Elke deelnemer heeft recht op één stem. De stemming is geheim.<br>
+<br>
+De volksraadpleging kan alleen op een zondag plaatsvinden. De deelnemers worden tot de stemming toegelaten van 8 tot 13 uur. De personen die zich voor 13 uur in het stemlokaal bevinden, worden nog tot de stemming toegelaten.".
+
+### ART 179.
+
+Artikel 213 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 213. Om tot de provinciale volksraadpleging toegelaten te worden, overhandigt de gemachtigde aan de voorzitter van het stembureau waar de volmachtgever had moeten stemmen, de volmacht en een van de attesten, vermeld in artikel 211, § 1. Hij toont hem ook zijn identiteitskaart, de oproepingsbrief van de volmachtgever en zijn eigen oproepingsbrief, waarop de voorzitter de vermelding "heeft bij volmacht gestemd" noteert.".
+
+### ART 180.
+
+Artikel 214 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 214. De stemmen worden alleen geteld als ten minste 10% van de inwoners aan de volksraadpleging heeft deelgenomen.".
+
+### ART 181.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 214bis ingevoegd, dat luidt als volgt:<br>
+"Art. 214bis. De Vlaamse Regering bepaalt de nadere procedureregels voor het houden van een provinciale volksraadpleging.".
+
+### ART 182.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 30 juni 2017, wordt een artikel 214ter ingevoegd, dat luidt als volgt:<br>
+"Art. 214ter. De gemeenten staan in voor de organisatie van de volksraadpleging. De daaraan verbonden kosten worden gedragen door de provincie.".
+
+### ART 183.
+
+Aan titel VI, hoofdstuk IV, van hetzelfde decreet wordt een afdeling V toegevoegd, die luidt als volgt:<br>
+"Afdeling V. Na de volksraadpleging".
+
+### ART 184.
+
+In hetzelfde decreet wordt aan afdeling V, toegevoegd bij artikel 183, een artikel 214quater toegevoegd, dat luidt als volgt:<br>
+"Art. 214quater. De Vlaamse Regering bepaalt de wijze waarop de uitslag van de volksraadpleging aan de bevolking wordt bekendgemaakt.".
+
+### ART 185.
+
+In hetzelfde decreet wordt aan afdeling V, toegevoegd bij artikel 183, een artikel 214quinquies toegevoegd, dat luidt als volgt:<br>
+"Art. 214quinquies. De Raad voor Verkiezingsbetwistingen doet uitspraak over de geschillen betreffende de telling van de stemmen, vermeld in artikel 214. Het bezwaar moet worden ingesteld binnen de acht dagen nadat het proces-verbaal is bekendgemaakt waarin is vastgesteld dat het vereiste aantal deelnemers, vermeld in artikel 214, niet is bereikt of waarin de uitslag van de provinciale volksraadpleging is vermeld.<br>
+<br>
+Tegen de uitspraken van de Raad voor Verkiezingsbetwistingen kan binnen een termijn van acht dagen na de kennisgeving beroep aangetekend worden bij de Raad van State. Dat beroep is niet schorsend. De hoofdgriffier van de Raad van State deelt het beroep binnen acht dagen na de ontvangst ervan mee aan de betrokkene en aan de provincie in kwestie. De Raad van State doet uitspraak binnen zestig dagen. Het arrest van de Raad van State wordt door de zorg van de hoofdgriffier onmiddellijk ter kennis gebracht van de betrokkene, de Vlaamse Regering en de provincie.".
+
+### ART 186.
+
+In hetzelfde decreet wordt aan afdeling V, toegevoegd bij artikel 183, een artikel 214sexies toegevoegd, dat luidt als volgt:<br>
+"Art. 214sexies. De bepalingen van deel 5, titel 1, hoofdstuk 1, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, met uitzondering van artikel 234, zijn van toepassing op de provinciale volksraadpleging, met dien verstande dat "kiezer" en "kiezers" altijd worden gelezen als "deelnemer" en "deelnemers", "verkiezing", "verkiezingen" en "kiesverrichtingen" worden gelezen als "volksraadpleging" en "kiescollege" wordt gelezen als "college".".
+
+### ART 188.
+
+In artikel 219, § 3, van hetzelfde decreet, wordt punt 3° vervangen door wat volgt:<br>
+"3° zijn financiële middelen worden voor meer dan de helft door de provincie gefinancierd.".
+
+### ART 189.
+
+&nbsp;In artikel 221 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zin "Deze bepaling slaat niet op de omvorming van bestaande structuren conform artikel 266 van dit decreet, tenzij hierdoor bijkomende taken van provinciaal belang extern zouden worden verzelfstandigd." opgeheven;<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De provincieraad of een provincieraadscommissie waakt over de afstemming van het beleid van de verzelfstandigde agentschappen van de provincie op het provinciaal beleid.".
+
+### ART 190.
+
+In artikel 223, 1°, van hetzelfde decreet worden de woorden "de gouverneur en" vervangen door de zinsnede "de hoge ambtenaar die de Brusselse Hoofdstedelijke Regering aanwijst overeenkomstig artikel 48, derde lid, van de bijzondere wet van 12 januari 1989 betreffende de Brusselse Instellingen,".
+
+### ART 191.
+
+In artikel 224 van hetzelfde decreet worden de zinsnede ", mits de terzake geldende rechtspositieregeling nageleefd wordt," en de woorden "ter beschikking stellen of" opgeheven.
+
+### ART 192.
+
+In artikel 225 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zin "Onder voorbehoud van de toepassing van de bepalingen inzake het goedkeuringstoezicht verkrijgt het autonoom provinciebedrijf rechtspersoonlijkheid op de datum van voormelde oprichtingsbeslissing." vervangen door de zin "Het autonoom provinciebedrijf verkrijgt rechtspersoonlijkheid op de datum van die oprichtingsbeslissing.";<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"De oprichtingsbeslissing en de statuten worden samen met het verslag, vermeld in het eerste lid, gepubliceerd via een webtoepassing van de provincie.";<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+"Het autonoom provinciebedrijf bezorgt onmiddellijk na elke vergadering een lijst met de besluiten van zijn raad van bestuur, met een beknopte omschrijving van de daarin geregelde aangelegenheden, aan de provincie, zodat ze kunnen worden bekendgemaakt op een webtoepassing van de provincie, overeenkomstig artikel 180. Het autonoom provinciebedrijf bezorgt ook onmiddellijk na de behandeling ervan door de raad van bestuur zijn beleidsrapporten aan de provincie, zodat ze kunnen worden bekendgemaakt op een webtoepassing van de provincie, overeenkomstig artikel 180bis.".
+
+### ART 193.
+
+In artikel 227 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt opgeheven;<br>
+2° het bestaande derde lid, dat het tweede lid wordt, wordt vervangen door wat volgt:<br>
+"De statutenwijzigingen worden op dezelfde wijze als de oprichtingsbeslissing en de statuten bekendgemaakt. Een volledig gecoördineerde tekst van de statuten wordt gepubliceerd via een webtoepassing van de provincie.".
+
+### ART 195.
+
+In artikel 229 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt in paragraaf 2, eerste lid, de zin "Het aantal leden van de raad van bestuur bedraagt ten hoogste een vijfde van het aantal provincieraadsleden." vervangen door de zin "Het aantal leden van de raad van bestuur bedraagt ten hoogste twaalf.".
+
+### ART 196.
+
+Artikel 230 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 230. De statuten kunnen de raad van bestuur toelaten om volgende bevoegdheden toe te vertrouwen aan een directiecomité of een gedelegeerd bestuurder, al dan niet met de mogelijkheid om die toevertrouwde bevoegdheden verder toe te vertrouwen aan personeelsleden van het autonoom provinciebedrijf:<br>
+1° het dagelijks personeelsbeheer, de bevoegdheid voor het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel;<br>
+2° het dagelijkse bestuur;<br>
+3° de vertegenwoordiging met betrekking tot dat bestuur;<br>
+4° de voorbereiding en de uitvoering van de beslissingen van de raad van bestuur.<br>
+<br>
+De raad van bestuur benoemt de leden van het directiecomité of de gedelegeerd bestuurder.<br>
+<br>
+De provincieraad bepaalt de hoogte van het presentiegeld en de andere vergoedingen die in het kader van de bestuurlijke werking van het autonoom provinciebedrijf worden toegekend, binnen de perken en overeenkomstig de toekenningsvoorwaarden, bepaald door de Vlaamse Regering .".
+
+### ART 197.
+
+In artikel 231 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, worden de zinnen "De notulen van die vergaderingen en alle documenten waarnaar verwezen wordt in de notulen, alsook de beslissingen van de gedelegeerd bestuurder, worden ter inzage neergelegd op de griffie van de provincie. Op verzoek van een provincieraadslid worden deze notulen elektronisch ter beschikking gesteld." vervangen door de zinnen "Een lijst met besluiten van de raad van bestuur wordt via een webtoepassing van de provincie gepubliceerd overeenkomstig artikel 180. Die webtoepassing vermeldt ook de wijze waarop het publiek inzage kan krijgen in de notulen van de raad van bestuur en van het directiecomité en in de beslissingen van de gedelegeerd bestuurder.".
+
+### ART 198.
+
+In artikel 234 van hetzelfde decreet, gewijzigd bij de decreten van 29 juni 2012 en 3 juni 2016, wordt het tweede lid vervangen door wat volgt:<br>
+"De overeenstemmende rechtspositieregeling en de deontologische code van het provinciepersoneel zijn van toepassing op het personeel van het autonoom provinciebedrijf. Het autonoom provinciebedrijf stelt de afwijkingen van die rechtspositieregeling vast, als het specifieke karakter van het autonoom provinciebedrijf dat verantwoordt. Het provinciebedrijf bepaalt de rechtspositieregeling van de betrekkingen die niet bestaan binnen de provincie.".
+
+### ART 199.
+
+&nbsp;In artikel 235, § 5, van hetzelfde decreet worden het derde en het vierde lid opgeheven.
+
 ### ART 200.
 
 In artikel 236 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
@@ -22,19 +1301,225 @@ In artikel 236 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 200
 3° een vijfde lid wordt toegevoegd, dat luidt als volgt:<br>
 "De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.".
 
+### ART 204.
+
+In artikel 238 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt de zinsnede "betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen," vervangen door de zinsnede "betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen,";<br>
+2° in paragraaf 1 wordt het tweede lid vervangen door wat volgt:<br>
+"De provinciale extern verzelfstandigde agentschappen, vermeld in het eerste lid, worden opgericht in overeenstemming met het gelijkheidsbeginsel, de regelgeving inzake mededinging en staatssteun.";<br>
+3° in paragraaf 1, vierde lid, wordt de zinsnede "betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen." vervangen door de zinsnede "betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk, de stichtingen en de Europese politieke partijen en stichtingen.";<br>
+4° in paragraaf 2 wordt het tweede lid opgeheven;<br>
+5° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. De beslissing tot oprichting of deelname wordt samen met het verslag, vermeld in paragraaf 2, gepubliceerd op een webtoepassing van de provincie.";<br>
+6° paragraaf 4 wordt opgeheven.
+
+### ART 205.
+
+In artikel 240, 3°, van hetzelfde decreet worden de woorden "interne controle" vervangen door het woord "organisatiebeheersing".
+
+### ART 206.
+
+In hetzelfde decreet wordt het opschrift van titel VIII vervangen door wat volgt:<br>
+"Titel VIII. Bestuurlijk toezicht en audit".
+
+### ART 207.
+
+&nbsp;In artikel 244 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De Vlaamse Regering bepaalt op welke wijze de communicatie tussen de provincieoverheid, de toezichthoudende overheid en, in voorkomend geval, de indiener van de klacht, verloopt.";<br>
+2° in het tweede lid wordt tussen het woord "verzenden" en de woorden "van een beslissing aan de toezichthoudende overheid" de woorden "of de kennisgeving van de bekendmaking" ingevoegd;<br>
+3° het derde lid wordt opgeheven.
+
+### ART 208.
+
+Artikel 245 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 245. Op dezelfde dag als de bekendmaking op de webtoepassing van de provincie van de lijst van de aangelegenheden, vermeld in artikel 180, eerste lid, 1° en 2°, en van de besluiten, vermeld in artikel 180bis, brengt de provincieoverheid de toezichthoudende overheid op de hoogte van de bekendmaking ervan.".
+
+### ART 209.
+
+Artikel 246 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt opgeheven.
+
+### ART 210.
+
+In artikel 247 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt:<br>
+"De toezichthoudende overheid kan besluiten van een provincieoverheid ambtshalve opvragen.".
+
+### ART 211.
+
+Artikel 248 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 248. § 1. Met behoud van toepassing van artikel 151 en 154 beschikt de toezichthoudende overheid over dertig dagen om de besluiten van een provincieoverheid te vernietigen en om de provincieoverheid daarvan kennis te geven.<br>
+<br>
+Alle besluiten en opmerkingen van de toezichthoudende overheid worden ter kennis gebracht op de eerstvolgende vergadering van de provincieraad.<br>
+<br>
+§ 2. De termijn, vermeld in paragraaf 1, gaat in op de dag die volgt op de kennisgeving aan de toezichthoudende overheid van de bekendmaking op de webtoepassing van de provincie van de besluiten, vermeld in artikel 180bis, of van de lijst van de aangelegenheden, vermeld in artikel 180, eerste lid, 1° en 2°.<br>
+<br>
+Onder voorbehoud van toepassing van het eerste lid, start de termijn, vermeld in paragraaf 1, voor de besluiten van een provincieoverheid die met toepassing van artikel 247 ambtshalve of na ontvangst van een klacht werden opgevraagd door de toezichthoudende overheid, op de dag die volgt op de verzending van het opgevraagde besluit.<br>
+<br>
+§ 3. Een klacht wordt, op straffe van niet-ontvankelijkheid, ingediend binnen een periode van dertig dagen, die volgt op de dag van de bekendmaking op de webtoepassing van de provincie van de lijst van aangelegenheden, vermeld in artikel 180, eerste lid, 1° en 2°, of van de besluiten, vermeld in artikel 180bis.<br>
+<br>
+§ 4. De termijn, vermeld in paragraaf 1, wordt gestuit door de verzending van een klacht aan de toezichthoudende overheid, op voorwaarde dat die klacht verstuurd werd op de wijze bepaald door de Vlaamse Regering binnen de termijn, vermeld in paragraaf 3.<br>
+<br>
+Een nieuwe termijn als vermeld in paragraaf 1 gaat in op de dag die volgt op de verzending van de klacht.<br>
+<br>
+§ 5. De termijn, vermeld in paragraaf 1, wordt gestuit door de opvraging door de toezichthoudende overheid van het besluit bij de provincieoverheid met toepassing van artikel 247.<br>
+<br>
+Een nieuwe termijn als vermeld in paragraaf 1 gaat in op de dag die volgt op de dag van de verzending van het opgevraagde besluit.<br>
+<br>
+§ 6. De provincieoverheid verzendt het besluit dat door de toezichthoudende overheid is opgevraagd binnen een termijn van dertig dagen die volgt op de dag van de verzending van de opvraging.<br>
+<br>
+Als de provincieoverheid het gevraagde besluit niet verzendt aan de toezichthoudende overheid binnen de termijn, vermeld in het eerste lid, bezorgt de toezichthoudende overheid na het verstrijken van die termijn een herinnering. De herinnering verwijst uitdrukkelijk naar de gevolgen, vermeld in het vierde lid.<br>
+<br>
+Een nieuwe termijn van dertig dagen gaat in op de dag na de verzending van de herinnering.<br>
+<br>
+Als het gevraagde besluit niet wordt verzonden aan de toezichthoudende overheid binnen die nieuwe termijn, is het opgevraagde besluit van rechtswege nietig. De toezichthoudende overheid brengt de provincieoverheid op de hoogte van die nietigheid.".
+
+### ART 212.
+
+Artikel 249 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 213.
+
+In artikel 250 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste en het tweede lid worden vervangen door een nieuw eerste lid, dat luidt als volgt:<br>
+"Als een klacht wordt ingediend tegen een besluit van de provincieoverheid, brengt de toezichthoudende overheid de indiener van de klacht op de hoogte van:<br>
+1° de ontvangst van de klacht, binnen tien dagen nadat ze ontvangen werd;<br>
+2° het verzoek van de toezichthoudende overheid aan de provincieoverheid om het besluit en het bijbehorende dossier te bezorgen, binnen tien dagen na dat verzoek;<br>
+3° het besluit van de toezichthoudende overheid over de ingediende klacht met vermelding van de motieven waarop het besluit is gebaseerd.";<br>
+2° tussen het bestaande tweede lid, dat onderdeel van het eerste lid wordt, en het derde lid wordt een lid, dat het tweede lid wordt, ingevoegd, dat luidt als volgt:<br>
+"Zodra de toezichthoudende overheid het onderzoek heeft afgerond, stuurt ze haar definitieve antwoord aan de indiener van de klacht en geeft ze er ook kennis van aan de provincieoverheid in kwestie. Deze mededeling wordt ter kennis gebracht op de eerstvolgende vergadering van de provincieraad.";<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+"In geval van stuiting van de termijn om beroep in te stellen bij de Raad van State, brengt de toezichthoudende overheid de indiener van de klacht op de wijze, bepaald door de Vlaamse Regering, op de hoogte van de motieven van de toezichthoudende overheid om het besluit van de provincieoverheid waartegen de klacht was ingediend op, niet te vernietigen, binnen tien dagen na het nemen van dat besluit of na het verstrijken van de termijn.";<br>
+4° het vierde lid wordt opgeheven.
+
+### ART 214.
+
+Artikel 251 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART 215.
+
+In artikel 252 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De goedkeuring van de jaarrekeningen overeenkomstig artikel 154, § 1, en artikel 236 juncto artikel 154, § 1, eerste lid, brengt met zich mee dat de beslissingen van de provincieoverheid die genomen zijn in de loop van het jaar waarop de jaarrekeningen betrekking hebben en die niet werden opgevraagd, of vernietigd, niet langer vatbaar zijn voor vernietiging.";<br>
+2° het tweede lid wordt opgeheven.
+
+### ART 216.
+
+In artikel 253 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, wordt het woord "schriftelijke" opgeheven;<br>
+2° in paragraaf 2, eerste lid, wordt de zinsnede "gebeurt op de persoonlijke kosten van de personen die verzuimd hebben" vervangen door "moet vergoed worden door de personen die verzuimd hebben".
+
+### ART 217.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk II van titel VIII vervangen door wat volgt:<br>
+"Hoofdstuk II. Audit".
+
+### ART 218.
+
+Artikel 254 van hetzelfde decreet, vervangen bij het decreet van 5 juli 2013, wordt vervangen door wat volgt:<br>
+"Art. 254. In elke provincie en in elk autonoom provinciebedrijf wordt periodiek een audit uitgevoerd door Audit Vlaanderen als vermeld in artikel 34, § 1, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br>
+<br>
+Audit Vlaanderen bezorgt de verslagen van de audits aan de voorzitter van de provincieraad, die ze bezorgt aan de provincieraadsleden.".
+
+### ART 219.
+
+Artikel 255 van hetzelfde decreet, opgeheven bij het decreet van 29 juni 2012, wordt opnieuw opgenomen in de volgende lezing:<br>
+"Art. 255. Audit Vlaanderen evalueert de organisatiebeheersing, gaat na of ze adequaat is en formuleert aanbevelingen tot verbetering daarvan. Audit Vlaanderen kan daarvoor organisatie- en procesaudits uitvoeren en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
+<br>
+Audit Vlaanderen is ook bevoegd voor het uitvoeren van forensische audits bij de besturen, vermeld in artikel 254.".
+
+### ART 220.
+
+Artikel 257 van hetzelfde decreet wordt opgeheven.
+
+### ART 221.
+
+Aan titel VIII, hoofdstuk I, van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009, 29 juni 2012 en 5 juli 2013, wordt een artikel 258bis toegevoegd, dat luidt als volgt:<br>
+"Art. 258bis. De provincieraad kan een interne audit organiseren. In afwijking van artikel 83 kan hij er daarbij voor kiezen om de personeelsleden die belast zijn met de interne audit niet onder de algemene leiding van de provinciegriffier te plaatsen. In dat geval is artikel 111, tweede lid, en 127, § 2, tweede lid, van toepassing op die personeelsleden, met dien verstande dat "de ombudsman" wordt gelezen als "het personeelslid belast met de interne audit".".
+
 ## HOOFDSTUK III. Slotbepalingen
 
 ## Afdeling 1. Overgangsbepalingen
 
 ## Onderafdeling 1. Overgangsbepaling inzake de organisatiebeheersing
 
+### ART 222.
+
+Totdat een regeling wordt uitgewerkt met toepassing van artikel 95 tot en met 96bis van het Provinciedecreet, zoals gewijzigd bij artikel 51 tot en met 53 van dit decreet en uiterlijk tot en met 1 juli 2019, blijven de regelingen van toepassing die de provincies lokaal hebben uitgewerkt met toepassing van artikel 155, 156, § 4, 158 en 159 van het Provinciedecreet.
+
 ## Onderafdeling 2. Overgangsbepalingen inzake de beleids- en beheerscyclus
+
+### ART 223.
+
+Op het meerjarenplan 2020-2025 van de provincies zijn de volgende artikelen van het Provinciedecreet, zoals respectievelijk gewijzigd bij artikel 87, 90, 93, 95 en 96 van dit decreet, van toepassing, ook als dat meerjarenplan al voor 1 januari 2020 wordt vastgesteld:<br>
+1° artikel 141;<br>
+2° artikel 143;<br>
+3° artikel 145;<br>
+4° artikel 146;<br>
+5° artikel 147.<br>
+<br>
+Op het budget voor 2019 en de budgetwijzigingen voor datzelfde jaar is artikel 151 van het Provinciedecreet, zoals gewijzigd bij artikel 102 van dit decreet, van toepassing, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+1° "het meerjarenplan of de aanpassing ervan" als "het budget of de budgetwijziging";<br>
+2° "het meerjarenplan" als "het budget".<br>
+<br>
+In 2019 worden voor de toepassing van artikel 157 van het Provinciedecreet, zoals gewijzigd bij artikel 114 van dit decreet, de woorden "binnen de limitatieve kredieten voor dat boekjaar in het meerjarenplan" gelezen als "binnen de limitatieve kredieten van het budget".<br>
+<br>
+Op de aanpassingen van het meerjarenplan, de budgetten en de budgetwijzigingen van de provincies is vanaf 1 januari 2019 artikel 141, § 3, van het Provinciedecreet, zoals gewijzigd bij artikel 87 van dit decreet, van overeenkomstige toepassing.<br>
+<br>
+In 2019 wordt onder de beleidsrapporten van de provincie begrepen het budget, het meerjarenplan, de aanpassing van het meerjarenplan en de jaarrekening.
+
+### ART 224.
+
+De Vlaamse Regering kan, op voorwaarde dat de provincieraad dat vraagt, de volgende artikelen van het Provinciedecreet, zoals respectievelijk gewijzigd bij artikel 87, 90, 93, 95, 96, 97, 99, 100 en 111 van dit decreet, al op 1 januari 2019 in werking laten treden bij bepaalde provincies:<br>
+1° artikel 141;<br>
+2° artikel 143;<br>
+3° artikel 145;<br>
+4° artikel 146;<br>
+5° artikel 147;<br>
+6° artikel 148;<br>
+7° artikel 149;<br>
+8° artikel 150;<br>
+9° artikel 155.<br>
+<br>
+Artikel 223, tweede tot en met vijfde lid, is niet van toepassing op de provincies, vermeld in het eerste lid.<br>
+<br>
+Die besturen stellen, in afwijking van artikel 146, tweede lid, van het Provinciedecreet, zoals gewijzigd bij artikel 95 van dit decreet, uiterlijk in het eerste kwartaal van 2019, een eenjarig meerjarenplan vast voor 2019. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting, opgemaakt overeenkomstig artikel 147 van het Provinciedecreet, zoals gewijzigd bij artikel 96 van dit decreet.<br>
+<br>
+Bij die besturen treden de volgende artikelen van het Provinciedecreet, zoals respectievelijk gewijzigd bij artikel 104 en 105 van dit decreet, dan in werking op 1 januari 2020:<br>
+1° artikel 152, tweede lid;<br>
+2° artikel 153.
 
 ## Onderafdeling 3. Overgangsbepaling over de werking van de provincie
 
+### ART 225.
+
+De besluiten en de reglementen en verordeningen van de provincie en het autonoom provinciebedrijf, genomen tot en met 2 december 2018 blijven onderworpen aan de toepassing van de regels over bekendmaking die op dat ogenblik van kracht zijn.
+
 ## Onderafdeling 4. Overgangsbepalingen inzake de autonome provinciebedrijven
 
+### ART 226.
+
+Op het meerjarenplan 2020-2025 van het autonoom provinciebedrijf zijn de volgende artikelen van het Provinciedecreet, zoals respectievelijk gewijzigd bij artikel 87, 90, 93, 95 en 96 van dit decreet, van overeenkomstige toepassing, met toepassing van artikel 236 van het Provinciedecreet, zoals gewijzigd bij artikel 200 van dit decreet, ook al gebeurt de vaststelling al voor 1 januari 2020:<br>
+1° artikel 141;<br>
+2° artikel 143;<br>
+3° artikel 145;<br>
+4° artikel 146;<br>
+5° artikel 147.
+
+### ART 227.
+
+De Vlaamse Regering kan, op voorwaarde dat de provincieraad van de provincie die het autonoom provinciebedrijf heeft opgericht dat vraagt, de volgende artikelen van het Provinciedecreet, zoals gewijzigd bij artikel 87, 90, 93, 95, 96, 99, 111 en 200 van dit decreet, al op 1 januari 2019 in werking laten treden bij bepaalde autonome provinciebedrijven:<br>
+1° artikel 236, eerste lid, wat betreft de toepassing van artikel 141, 143, 145, 146, 147, 149 en 155;<br>
+2° artikel 236, derde en vijfde lid.<br>
+<br>
+Die autonome provinciebedrijven stellen in het geval, vermeld in het eerste lid, in afwijking van artikel 146, tweede lid, van het Provinciedecreet, zoals gewijzigd bij artikel 95 van dit decreet, in het eerste kwartaal van 2019, een eenjarig meerjarenplan vast voor 2019. Dat meerjarenplan bestaat uit een strategische nota, een financiële nota en een toelichting, opgemaakt overeenkomstig artikel 147 van het Provinciedecreet, zoals gewijzigd bij artikel 96 van dit decreet.<br>
+<br>
+Bij die autonome provinciebedrijven treedt artikel 236 van het Provinciedecreet, zoals gewijzigd bij artikel 200 van dit decreet, wat betreft de toepassing van artikel 150, 152, eerste en tweede lid, en artikel 153 van het Provinciedecreet, in werking op 1 januari 2020.
+
 ## Onderafdeling 5. Overgangsbepaling voor het bestuurlijk toezicht
+
+### ART 228.
+
+De besluiten van de provincieoverheden, vermeld in artikel 241 van het Provinciedecreet van 9 december 2005, die werden genomen tot en met 2 december 2018, blijven onderworpen aan de toepassing van de regels over het bestuurlijk toezicht die op dat ogenblik van kracht zijn.
 
 ## Afdeling 2. Inwerkingtreding
 
