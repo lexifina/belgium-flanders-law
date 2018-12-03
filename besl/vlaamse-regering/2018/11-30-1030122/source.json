@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030122,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-30 houdende het gebruik van open standaarden door de provinciale besturen en tot nadere regeling van de databank van de provinciale mandatarissen en van de databank van de leidend ambtenaren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030122/VolledigDocument?datum=2018-12-03",
+  "source_sha256": "dd57d4f16fb67b97909329fa0310eb934b31489b9147cd4083faadf9633ab58b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030122&param=informatie",
+  "as_of": "2018-12-03",
+  "made": "2018-11-30",
+  "gazette": "2019-01-18",
+  "numac": 2018010095,
+  "document_start": "2018-12-03",
+  "document_end": null,
+  "in_force": "2018-12-03",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2018-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
