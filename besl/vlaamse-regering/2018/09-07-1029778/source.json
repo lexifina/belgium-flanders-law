@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029778,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 betreffende de bekendmaking en raadpleegbaarheid van besluiten en stukken van de provincie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029778/VolledigDocument?datum=2018-12-03",
+  "source_sha256": "cdd209d10cecbfa2ef30a82df3df45e9729b55124bb514dd861384a6d770ef0d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029778&param=informatie",
+  "as_of": "2018-12-03",
+  "made": "2018-09-07",
+  "gazette": "2018-10-03",
+  "numac": 2018014073,
+  "document_start": "2018-12-03",
+  "document_end": null,
+  "in_force": "2018-12-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
