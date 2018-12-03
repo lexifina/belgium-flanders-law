@@ -65,6 +65,30 @@ Aan artikel 20, § 3, derde lid, van hetzelfde decreet wordt de zinsnede ", met 
 
 ## Onderafdeling 4 Wijzigingen van het Provinciedecreet van 9 december 2005
 
+### ART 7.
+
+Aan artikel 30, § 1, van het Provinciedecreet van 9 december 2005, ingevoegd bij het decreet van 30 april 2009, wordt de zinsnede ", onder voorbehoud van de toepassing van artikel 12, lid 5, en artikel 15, lid 3, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)" toegevoegd.<br>
+&nbsp;
+
+### ART 8.
+
+In artikel 256 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009, 29 juni 2012 en 5 juli 2013, worden de volgende wijzigingen aangebracht :<br>
+1° aan het derde lid wordt de volgende zin toegevoegd :<br>
+"Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) heeft de persoon, op wie de rapportering betrekking heeft, geen toegang tot die verklaringen, behalve met toestemming van degene die de onregelmatigheid heeft gerapporteerd.";<br>
+2° er worden een vierde tot en met een negende lid toegevoegd, die luiden als volgt :<br>
+"Met toepassing van artikel 23, lid 1, e) en h), van de voormelde verordening kan Audit Vlaanderen beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het vijfde tot en met het negende lid.<br>
+<br>
+De mogelijkheid, vermeld in het vierde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van Audit Vlaanderen, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+Audit Vlaanderen moet de beslissing, vermeld in het vierde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het vierde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag Audit Vlaanderen op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan Audit Vlaanderen heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het vierde lid, tijdens de periode, vermeld in het vijfde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst Audit Vlaanderen hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.".<br>
+&nbsp;
+
 ## Onderafdeling 5 Wijziging van het decreet van 25 mei 2007 houdende de harmonisering van de procedures van voorkooprechten
 
 ### ART 9.
