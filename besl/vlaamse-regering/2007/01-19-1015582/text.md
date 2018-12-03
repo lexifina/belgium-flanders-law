@@ -6,50 +6,7 @@ VERSLAG AAN DE VLAAMSE REGERING <br /><br />Dames en heren,<br /><br />Dit beslu
 
 ### Aanhef
 
-Gelet op artikel 20 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de bijzondere wet van 16 juli 1993.<br>
-<br>
-Gelet op de wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, inzonderheid op artikel 25, ingevoegd bij het decreet van 22 december 2006, artikel 38, gewijzigd bij de wet van 5 augustus 1992 en bij de decreten van 18 mei 1999 en 17 juli 2000, en op artikel 39;<br>
-<br>
-Gelet op het Gemeentedecreet van 15 juli 2005, gewijzigd bij het decreet van 2 juni 2006, inzonderheid op artikel 2, 17, 18, 38, § 2, op artikel 39, § 5, op artikel 50, § 2, op artikel 63, tweede lid, op artikel 69, 70, 74, tweede lid, op artikel 151, § 2, eerste lid, op artikel 163, § 1, op artikel 179, eerste lid, op artikel 235, § 2, eerste lid, 3°, op artikel 247 eerste lid, 2°, op artikel 273, § 3,op artikel 274, § 5, op artikel 276, eerste lid, op artikel 303, eerste lid, 2° en op artikel 313, § 1, derde lid;<br>
-<br>
-Gelet op het Provinciedecreet van 9 december 2005, gewijzigd bij het decreet van 2 juni 2006, inzonderheid op artikel 17, 18, 38, tweede lid, op artikel 39, § 5, op artikel 50, § 2, op artikel 67, 72, tweede lid, op artikel 147, § 2, op artikel 159, § 1, op artikel 175, eerste lid, op artikel 228, § 2, eerste lid, 3° en op artikel 240, eerste lid, 2°;<br>
-<br>
-Gelet op het koninklijk besluit van 15 januari 1837 tot vaststelling van de ambtskleding van de leden van de provincieraad;<br>
-<br>
-Gelet op het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van meer dan twintigduizend inwoners;<br>
-<br>
-Gelet op het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van vijfduizend tot twintigduizend inwoners;<br>
-<br>
-Gelet op het koninklijk besluit van 23 januari 1837 tot vaststelling van de ambtskledij van de burgemeester en schepenen van de gemeenten van minder dan vijfduizend inwoners;<br>
-<br>
-Gelet op het besluit van de regent van 2 oktober 1947 tot bepaling van het officieel kostuum van de vrouwen die het ambt van burgemeester of schepen der gemeenten waarnemen;<br>
-<br>
-Gelet op het koninklijk besluit van 30 september 1981 tot regeling van de modaliteiten voor het verlenen van de eretitel van hun ambt aan de burgemeesters, aan de schepenen en aan de voorzitters van de raden van de openbare centra voor maatschappelijk welzijn of van de gewezen commissies van openbare onderstand;<br>
-<br>
-Gelet op het koninklijk besluit van 25 februari 1996 tot uitvoering van artikel 12bis van de nieuwe gemeentewet;<br>
-<br>
-Gelet op het koninklijk besluit van 28 november 1997 tot uitvoering van artikel 63bis van de provinciewet;<br>
-<br>
-Gelet op het besluit van de Vlaamse Regering van 22 september 1998 betreffende de bezoldiging van de voorzitters en de presentiegelden van de leden van de raden voor maatschappelijk welzijn;<br>
-<br>
-Gelet op het koninklijk besluit van 4 mei 1999 houdende uitvoering van artikel 329bis van de nieuwe gemeentewet en van artikel 144 van de provinciewet;<br>
-<br>
-Gelet op het koninklijk besluit van 16 november 2000 tot vaststelling van het vakantiegeld en de eindejaarspremie van de burgemeesters en schepenen;<br>
-<br>
-Gelet op het koninklijk besluit van 24 november 2000 tot bepaling van de wedde van de voorzitters en de leden van het bureau van de districtsraden;<br>
-<br>
-Gelet op het besluit van 30 april 2004 van de Vlaamse Regering tot vaststelling van het vakantiegeld van de burgemeesters en schepenen;<br>
-<br>
-Gelet op het advies van de Inspectie van Financiën, gegeven op 30 november 2006;<br>
-<br>
-Gelet op het advies nummer 41.853/3 van de Raad van State, gegeven op 27 december 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br>
-<br>
-Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin en de Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering;<br>
-<br>
-Na beraadslaging,<br>
-<br>
-Besluit :<br>
-&nbsp;
+...
 
 ## TITEL I VASTSTELLING VAN DE WEDDEN VAN DE BURGEMEESTERS EN SCHEPENEN EN DE WIJZE VAN BETALING VAN DE WEDDEN VAN DE BURGEMEESTERS EN SCHEPENEN EN DE GEDEPUTEERDEN, EN BEPALING VAN DE VOORWAARDEN EN DE MODALITEITEN VAN TOEKENNING VAN DE WEDDE VAN DE VOORZITTER EN DE ONDERVOORZITTER VAN HET OPENBAAR CENTRUM VOOR MAATSCHAPPELIJK WELZIJN
 
