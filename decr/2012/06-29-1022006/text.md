@@ -96,6 +96,10 @@ In artikel 66, § 1, vijfde lid, van hetzelfde decreet worden tussen de woorden 
 
 Artikel 67 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 67. De provincieraad kent de eretitels toe aan de gedeputeerden onder de voorwaarden die hij bepaalt. De Vlaamse Regering bepaalt de ambtskledij en de onderscheidingstekens van de gedeputeerden. ».
 
+### ART. 24.
+
+In artikel 68 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt paragraaf 5 vervangen door wat volgt :<br /><br />« § 5. Er wordt een uittredingsvergoeding toegekend aan de gedeputeerden die hun mandaat beëindigen. De Vlaamse Regering bepaalt de wijze van betaling, de toekenningsvoorwaarden en de duur van de uittredingsvergoeding binnen de hierna bepaalde grenzen :<br />- een maand uittredingsvergoeding per gepresteerd jaar, met een maximum van twaalf maanden;<br />- de vergoeding wordt niet uitgekeerd aan uittredende mandatarissen die worden verkozen of benoemd tot burgemeester of schepen, voorzitter of ondervoorzitter van een openbaar centrum voor maatschappelijk welzijn, provinciegouverneur, ambassadeur, lid van het parlement, lid van een Gemeenschaps- of Gewestregering, minister of staatssecretaris, lid van het Grondwettelijk Hof en evenmin aan uittredende mandatarissen die een bezoldigd ambt hebben aanvaard in een internationale of parastatale instelling;<br />- de uittredingsvergoeding vervalt indien de betrokkene een beroepsinkomen verwerft.<br /><br />Hierbij kan de betrokkene aanvragen het verschil bij te passen indien dit inkomen lager zou liggen dan de uittredingsvergoeding. ».
+
 ### ART. 25.
 
 In artikel 69 van hetzelfde decreet worden de volgende wijzigingen aangebracht : <br /><br />1° in het eerste lid worden de woorden « of voorzitter van de provincieraad » geschrapt;<br /><br />2° in het tweede lid worden telkens de woorden « of voorzitter van de provincieraad » geschrapt.
@@ -369,6 +373,10 @@ In artikel 268, § 1, tweede lid, van hetzelfde decreet, ingevoegd bij het decre
 ## HOOFDSTUK 3. Slotbepalingen
 
 ## Afdeling 1. Overgangsbepalingen
+
+### ART. 89.
+
+De gedeputeerden die het mandaat van gedeputeerde uitoefenen op het ogenblik van de inwerkingtreding van dit decreet, ontvangen bij de beëindiging van hun mandaat een uittredingsvergoeding, onder dezelfde voorwaarden als de voorwaarden voor de toekenning van de uittredingsvergoeding aan de leden van het Vlaams Parlement.
 
 ## Afdeling 2. Inwerkingtreding
 
