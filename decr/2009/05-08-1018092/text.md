@@ -2631,7 +2631,7 @@ Groenestroomcertificaten en warmte-krachtcertificaten, afgeleverd voor 1 januari
 
 ### ART. 15.3.5/7.
 
-Netgebruikers, aangesloten op het distributienet, die tussen 1 januari   2015 en 1 oktober 2015 getroffen werden door een langdurige stroomonderbreking,   vermeld in artikel 4.1.11/5, kunnen in afwijking van artikel 4.1.11/5, § 3, op   straffe van onontvankelijkheid, nog een aanvraag tot schadevergoeding indienen   gedurende dertig kalenderdagen volgende op de inwerkingtreding van dit artikel.   De door de Vlaamse Regering op grond van artikel 4.1.11/5, § 4, derde lid,   vastgestelde voorwaarden en procedures zijn van overeenkomstige   toepassing.
+De elektriciteitsdistributienetbeheerders in wiens geografisch gebied op de datum van de inwerkingtreding van dit artikel al toegelaten directe lijnen als vermeld in artikel 4.5.1 liggen, zorgen ervoor dat die lijnen uiterlijk op 31 december 2018 uitgerust zijn met een meter die toelaat de hoeveelheid elektriciteit die in de directe lijn geïnjecteerd wordt, te meten voor de berekening van de heffing, vermeld in titel XIV, hoofdstuk III. De VREG bezorgt de elektriciteitsdistributienetbeheerders de nodige informatie om die installatie mogelijk te maken. De kost van deze meter en de plaatsing ervan is ten laste van de beheerder van de directe lijn.
 
 ### ART. 15.3.5/8.
 
