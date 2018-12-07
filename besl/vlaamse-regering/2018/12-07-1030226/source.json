@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030226,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-07 houdende de herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBE2ZZ-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het begrotingsjaar 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030226/VolledigDocument?datum=2018-12-07",
+  "source_sha256": "a09552561e42a0c612dd34b4a5d40ab75883635fad6127912fdeb2153736064b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030226&param=informatie",
+  "as_of": "2018-12-07",
+  "made": "2018-12-07",
+  "gazette": "2019-02-06",
+  "numac": 2019010607,
+  "document_start": "2018-12-07",
+  "document_end": null,
+  "in_force": "2018-12-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
