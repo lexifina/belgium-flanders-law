@@ -8,7 +8,38 @@ In dit besluit wordt verstaan onder : <BR>1° minister : de Vlaamse   minister, 
 
 ### ART. 2.
 
-<P>§ 1. De uitzonderlijke voertuigen bestaan uit de volgende vier categorieën   uitzonderlijke voertuigen : <BR>1° categorie 1, waarvan de voertuigen voldoen   aan de volgende voorwaarden : <BR>a) de lengte van een enkelvoudig voertuig is   kleiner dan of gelijk aan 19,00 meter;<BR>b) de lengte van een sleep is kleiner   dan of gelijk aan 27,00 meter;<BR>c) de breedte is kleiner dan of gelijk aan   3,50 meter;<BR>d) de hoogte en massa voldoen aan bepalingen van het koninklijk   besluit van 1 december 1975 en het koninklijk besluit van 15 maart 1968;<BR>2°   categorie 2, waarvan de voertuigen voldoen aan minstens een van de volgende   voorwaarden : <BR>a) de lengte van een enkelvoudig voertuig is groter dan 19,00   meter en kleiner dan of gelijk aan 22,00 meter;<BR>b) de lengte van een sleep is   groter dan 27,00 meter en kleiner dan of gelijk aan 30,00 meter;<BR>c) de   breedte is groter dan 3,50 meter en kleiner dan of gelijk aan 4,25 meter;<BR>d)   de hoogte overschrijdt de grenzen, vermeld in het koninklijk besluit van 1   december 1975 en het koninklijk besluit van 15 maart 1968, en is kleiner dan of   gelijk aan 4,50 meter;<BR>e) de massa overschrijdt de grenzen, bepaald in het   koninklijk besluit van 15 maart 1968, en is kleiner dan of gelijk aan 90,000   ton;<BR>3° categorie 3, waarvan de voertuigen voldoen aan minstens een van de   volgende voorwaarden : <BR>a) de lengte van een enkelvoudig voertuig is groter   dan 22,00 meter en kleiner dan of gelijk aan 28,00 meter;<BR>b) de lengte van   een sleep is groter dan 30,00 meter en kleiner dan of gelijk aan 35,00   meter;<BR>c) de breedte is groter dan 4,25 meter en kleiner dan of gelijk aan   5,00 meter;<BR>d) de hoogte is groter dan 4,50 meter en kleiner dan of gelijk   aan 4,80 meter;<BR>e) de massa is groter dan 90,000 ton en kleiner dan of gelijk   aan 120,000 ton;<BR>4° categorie 4, waarvan de voertuigen voldoen aan minstens   een van de volgende voorwaarden : <BR>a) de lengte van een enkelvoudig voertuig   is groter dan 28,00 meter;<BR>b) de lengte van een sleep is groter dan 35,00   meter;<BR>c) de breedte is groter dan 5,00 meter;<BR>d) de hoogte is groter dan   4,80 meter;<BR>e) de massa is groter dan 120,000 ton. <BR></P>  <P>§ 2. In paragraaf 1 wordt verstaan onder : <BR>1° enkelvoudig voertuig : een   motorvoertuig dat als enig voertuig deel uitmaakt van het transport;<BR>2° sleep   : elke groep van voertuigen die aan elkaar gekoppeld zijn om door dezelfde   kracht te worden voortbewogen.<BR></P>  <P>§ 3. Enkelvoudige voertuigen die een startklare lengte hebben die groter is   dan 19,00 meter, zijn vooraan en achteraan uitgerust met minstens één gestuurde   as.<BR></P>  <P>Bij slepen met een startklare lengte groter dan 27,00 meter is het langste   getrokken voertuig uitgerust met minimaal één gestuurde as.   <BR></P>
+<p>§ 1. De uitzonderlijke voertuigen bestaan uit de volgende vier categorieën uitzonderlijke voertuigen :<br>
+1° categorie 1, waarvan de voertuigen voldoen aan de volgende voorwaarden :<br>
+a) de lengte van een enkelvoudig voertuig is kleiner dan of gelijk aan 19,00 meter;<br>
+b) de lengte van een sleep of een gelede bus is kleiner dan of gelijk aan 27,00 meter;<br>
+c) de breedte is kleiner dan of gelijk aan 3,50 meter;<br>
+d) de hoogte en massa voldoen aan bepalingen van het koninklijk besluit van 1 december 1975 en het koninklijk besluit van 15 maart 1968;<br>
+2° categorie 2, waarvan de voertuigen voldoen aan minstens een van de volgende voorwaarden :<br>
+a) de lengte van een enkelvoudig voertuig is groter dan 19,00 meter en kleiner dan of gelijk aan 22,00 meter;<br>
+b) de lengte van een sleep is groter dan 27,00 meter en kleiner dan of gelijk aan 30,00 meter;<br>
+c) de breedte is groter dan 3,50 meter en kleiner dan of gelijk aan 4,25 meter;<br>
+d) de hoogte overschrijdt de grenzen, vermeld in het koninklijk besluit van 1 december 1975 en het koninklijk besluit van 15 maart 1968, en is kleiner dan of gelijk aan 4,50 meter;<br>
+e) de massa overschrijdt de grenzen, bepaald in het koninklijk besluit van 15 maart 1968, en is kleiner dan of gelijk aan 90,000 ton;<br>
+3° categorie 3, waarvan de voertuigen voldoen aan minstens een van de volgende voorwaarden :<br>
+a) de lengte van een enkelvoudig voertuig is groter dan 22,00 meter en kleiner dan of gelijk aan 28,00 meter;<br>
+b) de lengte van een sleep is groter dan 30,00 meter en kleiner dan of gelijk aan 35,00 meter;<br>
+c) de breedte is groter dan 4,25 meter en kleiner dan of gelijk aan 5,00 meter;<br>
+d) de hoogte is groter dan 4,50 meter en kleiner dan of gelijk aan 4,80 meter;<br>
+e) de massa is groter dan 90,000 ton en kleiner dan of gelijk aan 120,000 ton;<br>
+4° categorie 4, waarvan de voertuigen voldoen aan minstens een van de volgende voorwaarden :<br>
+a) de lengte van een enkelvoudig voertuig is groter dan 28,00 meter;<br>
+b) de lengte van een sleep is groter dan 35,00 meter;<br>
+c) de breedte is groter dan 5,00 meter;<br>
+d) de hoogte is groter dan 4,80 meter;<br>
+e) de massa is groter dan 120,000 ton.</p>
+
+<p>§ 2. In paragraaf 1 wordt verstaan onder :<br>
+1° enkelvoudig voertuig : een motorvoertuig dat als enig voertuig deel uitmaakt van het transport;<br>
+2° sleep : elke groep van voertuigen die aan elkaar gekoppeld zijn om door dezelfde kracht te worden voortbewogen.</p>
+
+<p>§ 3. Enkelvoudige voertuigen die een startklare lengte hebben die groter is dan 19,00 meter, zijn vooraan en achteraan uitgerust met minstens één gestuurde as.</p>
+
+<p>Bij slepen met een startklare lengte groter dan 27,00 meter is het langste getrokken voertuig uitgerust met minimaal één gestuurde as.</p>
 
 ## HOOFDSTUK 2 De vergunningsprocedure, de retributie en de types van vergunningen
 
