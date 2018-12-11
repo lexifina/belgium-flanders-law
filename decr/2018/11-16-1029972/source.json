@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029972,
+  "title": "Decreet van 2018-11-16 houdende instemming met het samenwerkingsakkoord van 6 september 2017 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aanknopingsfactoren, het beheer van de lasten van het verleden, de gegevensuitwisseling inzake de gezinsbijslagen en de praktische regels betreffende de bevoegdheidsoverdracht tussen de kinderbijslagfondsen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029972/VolledigDocument?datum=2018-12-11",
+  "source_sha256": "aa2799e44e01f31ed111a89f2532970d37b1fd0671514dfa862ff062aaae2d7f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029972&param=informatie",
+  "as_of": "2018-12-11",
+  "made": "2018-11-16",
+  "gazette": "2018-12-11",
+  "numac": 2018032360,
+  "document_start": "2018-12-11",
+  "document_end": null,
+  "in_force": "2018-12-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2018-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
