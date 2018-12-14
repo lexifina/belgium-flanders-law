@@ -2,16 +2,16 @@
   "codex_id": 1009732,
   "title": "Omzendbrief van 2002-09-27 BA-2002/12 Administratief toezicht op de gemeenten en de politiezones. - Wijzigingen aan het decreet van 28 april 1993 door het decreet van 15 juli 2002",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009732/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1ccff02b40c1ac1b10e6f92b0805cbec72186659ca00e3371f913042503ef079",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009732/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "918501c3f2d7a088e083190be77b2c82e6e68efddb72ca1fdc7f3414b132d69e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009732&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "2002-09-27",
   "gazette": "2002-10-15",
   "numac": 2002036291,
   "document_start": "2002-09-27",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
