@@ -2,16 +2,16 @@
   "codex_id": 1006149,
   "title": "Omzendbrief van 1998-05-05 BA-98/03 betreffende de herschikking van de taken administratief toezicht t.a.v. de OCMW's tussen de Administratie Gezin en Maatschappelijk Welzijn (AGMW) en de Administratie Binnenlandse Aangelegenheden 5ABA) - beslissing van de Vlaamse regering van 20 januari 1998",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006149/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1e2c3becf1cd0d63e4c0e4fa77ea651797df40a2cdcefeeda2887250e38c7477",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006149/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "f4e6c8da8c39de2e5846028663c2c9ba9e19a388c94df8602c703a032d9998bd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006149&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "1998-05-05",
   "gazette": "1998-05-27",
   "numac": 1998035578,
   "document_start": "1998-05-05",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
