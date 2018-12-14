@@ -66,11 +66,21 @@ Een erkende huurdersorganisatie kan één regionaal steunpunt uitbouwen met het 
 
 ### ART. 7.
 
-Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap   beschikbare kredieten wordt er onder de voorwaarden, gesteld in dit besluit, een   basissubsidie-enveloppe toegekend aan de erkende huurdersorganisatie.<BR><BR>De   basissubsidie-enveloppe voor de huurdersorganisaties van de provincies Limburg   en Vlaams-Brabant bedraagt per kalenderjaar 174.690,45 euro en voor de   huurdersorganisatie van de provincie West-Vlaanderen 227.675,25 euro per   kalenderjaar. Voor de huurdersorganisaties van de provincies Oost-Vlaanderen en   Antwerpen bedraagt de subsidie 215.536,86 euro per kalenderjaar.<BR><BR>Voor de   huurdersorganisaties van de provincies Oost-Vlaanderen en Antwerpen bedraagt de   subsidie 217.714 euro per kalenderjaar.<BR><BR>
+Binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten wordt er onder de voorwaarden, gesteld in dit besluit, een basissubsidie-enveloppe toegekend aan de erkende huurdersorganisatie.<br>
+<br>
+De basissubsidie-enveloppe voor de huurdersorganisaties van de provincies Limburg en Vlaams-Brabant bedraagt 214.957,14 euro per kalenderjaar en voor de huurdersorganisatie van de provincie West-Vlaanderen 280.026,65 euro per kalenderjaar. Voor de huurdersorganisaties van de provincies Oost-Vlaanderen en Antwerpen bedraagt de subsidie 265.119,88 euro per kalenderjaar.<br>
+&nbsp;
 
 ### ART. 8.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse   Gemeenschap beschikbare kredieten kan, met ingang van 1 januari 2010, aan een   erkende huurdersorganisatie een aanvullende subsidie-enveloppe ten bedrage van   107.343 euro per kalenderjaar worden toegekend voor de werking van een nieuw   regionaal steunpunt als vermeld in artikel 6. Vanaf 1 januari 2015 bedraagt de   aanvullende subsidie-enveloppe voor de regionale steunpunten 106.269,57   euro.<BR><BR>Om voor de aanvullende subsidie-enveloppe in aanmerking te komen,   moet het regionaal steunpunt aan de volgende voorwaarden voldoen :<BR>1° de   voorwaarden, vermeld in artikel 3, tweede lid, 1°, vervullen;<BR>2° er zich toe   verbinden om binnen een termijn van drie maanden na de toekenning van de   aanvullende subsidie-enveloppe over een centraal secretariaat met een   consultatieruimte als vermeld in artikel 3, tweede lid, 4°, te beschikken;<BR>3°   er zich toe verbinden om binnen een termijn van drie maanden na de toekenning   van de aanvullende subsidie-enveloppe gedurende ten minste tien extra uur per   week voor advies beschikbaar te zijn voor het publiek, waarvan ten minste één   uur per week 's avonds na 18 uur of tijdens het weekend;<BR>4° ten minste één   voltijds personeelsequivalent met een diploma niet-universitair hoger onderwijs   of met drie jaar nuttige ervaring in de huisvestingsproblematiek tewerkstellen   of zich ertoe verbinden om binnen een termijn van drie maanden na de toekenning   van de aanvullende subsidie-enveloppe hieraan te voldoen.<BR><BR>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan, met ingang van 1 januari 2010, aan een erkende huurdersorganisatie een aanvullende subsidie-enveloppe ten bedrage van 130.084,55 euro per kalenderjaar worden toegekend voor de werking van een nieuw regionaal steunpunt als vermeld in artikel 6.<br>
+<br>
+Om voor de aanvullende subsidie-enveloppe in aanmerking te komen, moet het regionaal steunpunt aan de volgende voorwaarden voldoen :<br>
+1° de voorwaarden, vermeld in artikel 3, tweede lid, 1°, vervullen;<br>
+2° er zich toe verbinden om binnen een termijn van drie maanden na de toekenning van de aanvullende subsidie-enveloppe over een centraal secretariaat met een consultatieruimte als vermeld in artikel 3, tweede lid, 4°, te beschikken;<br>
+3° er zich toe verbinden om binnen een termijn van drie maanden na de toekenning van de aanvullende subsidie-enveloppe gedurende ten minste tien extra uur per week voor advies beschikbaar te zijn voor het publiek, waarvan ten minste één uur per week 's avonds na 18 uur of tijdens het weekend;<br>
+4° ten minste één voltijds personeelsequivalent met een diploma niet-universitair hoger onderwijs of met drie jaar nuttige ervaring in de huisvestingsproblematiek tewerkstellen of zich ertoe verbinden om binnen een termijn van drie maanden na de toekenning van de aanvullende subsidie-enveloppe hieraan te voldoen.<br>
+&nbsp;
 
 ### ART. 9.
 
@@ -86,7 +96,7 @@ De basissubsidie-enveloppe, eventueel vermeerderd met een aanvullende subsidie-e
 
 ### ART. 12.
 
-De bedragen vermeld in de artikelen 7, 8 en 21 worden jaarlijks aangepast aan de evolutie van de gezondheidsindex. De indexatie voor januari 2006 bedraagt 102,82 (basis 2004 = 100). De nieuwe bedragen worden afgerond tot op een euro. De bedragen moeten vanaf 0,5 euro naar boven worden afgerond.<br /><br />
+De bedragen vermeld in artikel 7 en 8 van dit besluit worden jaarlijks geïndexeerd. Het loonaandeel wordt geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. Het is gekoppeld aan de spilindex die van toepassing is op 1 september 2018. Het niet-loonaandeel wordt geïndexeerd volgens de indexatieparameter voor werkingskredieten die in de begrotingsinstructies is opgenomen.
 
 ### ART. 13.
 
