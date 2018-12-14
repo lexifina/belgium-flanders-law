@@ -37,7 +37,7 @@ Besluit :
 In dit besluit wordt verstaan onder :<br>
 1° agentschap : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
 2° huurder : de alleenstaande of het gezin waaraan het sociaal verhuurkantoor een woning of kamer verhuurt;<br>
-3° frictieleegstand : de leegstand van woningen of kamers van maximaal twee maanden, als gevolg van verhuizingen, verkopen of verbouwingen, die noodzakelijk is om de woningmarkt naar behoren te laten functioneren;<br>
+3° frictieleegstand : de leegstand van woningen of kamers, als gevolg van verhuizingen, verkopen of verbouwingen, die noodzakelijk is om de woningmarkt naar behoren te laten functioneren;<br>
 4° intern huurreglement : het document, vermeld in artikel 1, 16°, van het Kaderbesluit Sociale Huur;<br>
 5° Kaderbesluit Sociale Huur : het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode;<br>
 6°...;<br>
@@ -45,20 +45,26 @@ In dit besluit wordt verstaan onder :<br>
 8° ondersteuningsstructuur : het extern verzelfstandigd agentschap Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode, die instaat voor de ondersteuning van de sociale verhuurkantoren;<br>
 9° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<br>
 10° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
-11° werkingsgebied : het gebied dat wordt gevormd door de gemeenten waar het sociaal verhuurkantoor effectief woningen of kamers huurt of verhuurt;<br>
+11° ...;<br>
 12° Woonkwaliteitsbesluit : het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen.
 
 ## Hoofdstuk 2. [... (opgeh. BVR 26 oktober 2018, art. 5, I: 14 december 2018)]
 
 ### ART. 2.
 
-Een sociaal verhuurkantoor heeft de volgende opdrachten : <br />1° op de private huurwoningmarkt woningen of kamers huren of in erfpacht nemen met het oog op het verhuren van kwaliteitsvolle woningen of kamers aan woonbehoeftige gezinnen en alleenstaanden tegen een redelijke huurprijs en met aandacht voor het bieden van woonzekerheid; <br />2° het uitvoeren van de basisbegeleidingstaken, vermeld in artikel 29bis van het Kaderbesluit Sociale Huur en de huurders begeleiden om hen vertrouwd te maken met hun rechten en plichten als huurder;<br />3° in functie van het verruimen van het woningaanbod toegankelijk zijn voor de kandidaat-verhuurders en voor de verhuurders en hen begeleiden en ondersteunen met het oog op het verzekeren van de woningkwaliteit, overeenkomstig de normen, vermeld in artikel 3;<br />4° met de lokale besturen en woon- en welzijnsactoren overleggen en samenwerken en, als dat wenselijk is, zelf het initiatief nemen om lokale samenwerkingsverbanden op te zetten.<br /><br />Het sociaal verhuurkantoor kan ter ondersteuning van de uitvoering van zijn opdrachten, bijkomende taken opnemen. De minister kan hiervoor nadere regels bepalen.
+...
 
 ## Hoofdstuk 3. Bepalingen over de woningkwaliteit
 
 ### ART. 3.
 
-Alleen woningen die voldoen aan de elementaire veiligheids-, gezondheids-   en woonkwaliteitsvereisten, vastgesteld ter uitvoering van artikel 5 van de   Vlaamse Wooncode,&nbsp;komen in aanmerking om verhuurd te worden door een   sociaal verhuurkantoor. Voor de beoordeling van die vereisten en normen kan de   minister strengere bezettingsnormen opleggen dan de normen die opgenomen zijn in   het technisch verslag, vermeld in artikel 2 van het   Woonkwaliteitsbesluit.<BR><BR>Voor het sociaal verhuurkantoor een   hoofdhuurovereenkomst sluit met het oog op de onderverhuring van een woning of   een kamer, vraagt het een conformiteitsonderzoek voor die woning of kamer aan   bij het agentschap of, als de gemeente waar de woning of kamer ligt daarvoor een   afsprakenkader met de minister en het sociaal verhuurkantoor overeengekomen is,   bij de gemeente.<BR><BR>Het conformiteitsonderzoek, vermeld in het tweede lid,   wordt uitgevoerd binnen een termijn van vijftien werkdagen na de datum van de   aanvraag.<BR><BR>Met behoud van de toepassing van het eerste lid mag het sociaal   verhuurkantoor de hoofdhuurovereenkomst, vermeld in het tweede lid, sluiten als   het conformiteitsonderzoek niet uitgevoerd wordt binnen de termijn, vermeld in   het derde lid.<BR><BR>De conformiteit wordt beoordeeld volgens artikel 2, § 1, §   2 en § 3, eerste lid van het Woonkwaliteitsbesluit.
+Alleen woningen die voldoen aan de criteria van conformiteit die de Vlaamse Regering vaststelt in toepassing van artikel 5, § 4, van de Vlaamse Wooncode, komen in aanmerking om verhuurd te worden door een sociaal verhuurkantoor. Voor de beoordeling van die vereisten en normen kan de minister strengere bezettingsnormen opleggen dan de normen die opgenomen zijn in het technisch verslag, vermeld in artikel 2 van het Woonkwaliteitsbesluit.<br>
+<br>
+Het sociaal verhuurkantoor kan, voor het een hoofdhuurovereenkomst sluit met het oog op de onderverhuring van een woning, een conformiteitsonderzoek vragen aan het agentschap of, als de gemeente waar de woning ligt daarvoor een afsprakenkader met de minister en het sociaal verhuurkantoor overeengekomen is, aan de gemeente.<br>
+<br>
+Het sociaal verhuurkantoor dat een woning in huur wil nemen en een hoofdhuurovereenkomst sluit, als vermeld in artikel 8 van de Woninghuurwet, kan een conformiteitsonderzoek aanvragen bij het agentschap of, als de gemeente waar de woning ligt daarvoor een afsprakenkader met de minister en het sociaal verhuurkantoor overeengekomen is, aan de gemeente zodra de renovatiewerken zijn voltooid.<br>
+<br>
+Het conformiteitsonderzoek, vermeld in het tweede en derde lid, wordt uitgevoerd binnen vijftien werkdagen na de datum van de aanvraag. De conformiteit wordt beoordeeld op basis van de vereisten en de normen, vermeld in artikel 2, § 1, § 2 en § 3, eerste lid van het Woonkwaliteitsbesluit. Een werkdag is elke kalenderdag, behalve een zaterdag, een zondag of een wettelijke feestdag.
 
 ## Hoofdstuk 4. De erkenning
 
@@ -66,13 +72,42 @@ Alleen woningen die voldoen aan de elementaire veiligheids-, gezondheids-   en w
 
 ### ART. 4.
 
-Onverminderd de voorwaarden vermeld in artikel 56 van de Vlaamse Wooncode, moet de aanvrager om als sociaal verhuurkantoor erkend te kunnen worden en te blijven, aan de volgende voorwaarden voldoen : <br />1° de opdracht, vermeld in artikel 2, eerste lid, 1°, effectief uitvoeren gedurende een periode van ten minste zes maanden;<br />2° de opdrachten, vermeld in artikel 2, eerste lid, 2° tot en met 4°, vervullen;<br />3° zich verbinden tot deelname aan het overleg dat de ondersteuningsstructuur organiseert;<br />4° het werkingsgebied afstemmen op de werkingsgebieden van de erkende sociale verhuurkantoren die actief zijn in de betreffende regio. Een sociaal verhuurkantoor kan geen woningen in huur nemen die gelegen zijn in gemeenten waar een ander erkend sociaal verhuurkantoor al een woning in huur heeft genomen;<br />5° de lokale inbedding en verankering van de werking en het beheer van het sociaal verhuurkantoor aantonen in de gemeenten die deel uitmaken van het werkingsgebied;<br />6° zich ertoe verbinden elke wijziging in de statuten en elke wijziging waardoor niet meer voldaan wordt aan de erkenningsvoorwaarden, mee te delen aan het agentschap;<br />7° instaan voor een systeem van interne controle;<br />8° zich verbinden tot het opmaken van een jaarverslag, zoals vermeld in artikel 7.
+Met behoud van de toepassing van de voorwaarden vermeld in artikel 56, § 3 en § 4, van de Vlaamse Wooncode, moet de aanvrager om als sociaal verhuurkantoor erkend te kunnen worden en te blijven ter uitvoering van artikel 56, § 5 van de Vlaamse Wooncode, aan de volgende aanvullende voorwaarden voldoen:<br>
+1° het sociaal verhuurkantoor is voldoende actief in zijn werkingsgebied. Aan sociale verhuurkantoren waarvan het aantal ingehuurde woningen binnen een gemeente gedurende twee jaar niet toeneemt, kan de minister een termijngebonden groeipad opleggen. Als het sociaal verhuurkantoor het opgelegde groeipad niet realiseert, kan de minister, na het sociaal verhuurkantoor te hebben gehoord en na mededeling aan de Vlaamse Regering, beslissen dat het sociaal verhuurkantoor geen nieuwe inhuurnemingen in de betreffende gemeente meer kan overeenkomen en de gemeente toevoegen aan het werkingsgebied van een ander sociaal verhuurkantoor;<br>
+2° elk sociaal verhuurkantoor zorgt voor een behoorlijk werkend systeem van interne controle waarbij de kritieke processen formeel worden beschreven in door de raad van bestuur vastgestelde procedures die taken, verantwoordelijkheden en bevoegdheden vastleggen en aangeven hoe, door wie en tijdens welk onderdeel van het proces controles worden uitgevoerd. Het gaat om de processen in verband met:<br>
+a) de financiële procedures voor activiteiten inzake kas- en liquiditeitenbeheer, voorraad- en materialenbeheer, inkomende facturen, betalingen en loonadministratie, bestellingen en overheidsopdrachten;<br>
+b) het personeelsbeheer, namelijk de aanwijzing van de verantwoordelijke voor het personeelskader, de processen om personeel aan te werven en te ontslaan en om lonen en sociale voordelen uit te betalen;<br>
+c) het beheer, de beveiliging van gegevens en activa en het voorkomen van fraude;<br>
+d) de controles op het correcte verloop van de toewijzingen en de behandeling van klachten;<br>
+3° elk sociaal verhuurkantoor heeft een door zijn raad van bestuur goedgekeurd debiteurenreglement waarin minimaal het volgende is opgenomen:<br>
+a) de procedure die het sociaal verhuurkantoor hanteert op het vlak van de inning en betaling van vorderingen op huurders;<br>
+b) de regels en de voorwaarden die gehanteerd worden bij het dubieus verklaren van een vordering op een huurder, de regels voor het boeken van waardeverminderingen en de definitieve afboeking wegens oninbaarheid;<br>
+4° Elk sociaal verhuurkantoor verbindt zich tot deelname aan het overleg dat de ondersteuningsstructuur organiseert.<br>
+<br>
+De minister kan bijkomende regels bepalen omtrent het debiteurenbeheer en de minimale waarderingsregels bij het boeken van waardeverminderingen, vermeld in het eerste lid, 3°.<br>
+<br>
+Eerste lid, punt 1° treedt in werking op een door de Vlaamse Regering vast te stellen datum.
 
 ## Afdeling 2. Procedure
 
 ### ART. 5.
 
-De aanvraag tot erkenning wordt ingediend bij het agentschap en bevat de volgende gegevens en stukken : <br />1° bewijzen waaruit blijkt dat aan de erkenningsvoorwaarden, vermeld in artikel 4 is voldaan; <br />2° ten minste toelichting over : <br />a) de rechtsvorm;<br />b) de structuur van de organisatie;<br />c) de personeelsformatie;<br />d) de statuten en het huishoudelijk reglement;<br />e) het beheerde patrimonium;<br />f) de inschrijvings- en toewijzingsprocedure en het intern huurreglement;<br />g) het werkingsgebied;<br />h) de huurdersbegeleiding en participatie;<br />i) de lokale netwerkvorming en de lokale inbedding en verankering, gestaafd met een advies van het lokaal woonoverleg;<br />j) de interne controle.<br /><br />Zodra het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd, beslist de minister binnen een termijn van drie maanden over de erkenningsaanvraag. De beslissing wordt door het agentschap betekend aan de aanvrager, met een afschrift aan de ondersteuningsstructuur, aan de toezichthouder en aan de belangenstructuur.
+De aanvraag tot erkenning wordt ingediend bij het agentschap en bevat de volgende gegevens en stukken :<br>
+1° bewijzen waaruit blijkt dat aan de erkenningsvoorwaarden, vermeld in&nbsp;artikel 4 van dit besluit, en artikel 56, § 3 en § 4 van de Vlaamse Wooncode is voldaan;<br>
+2° ten minste toelichting over :<br>
+a) de rechtsvorm;<br>
+b) de structuur van de organisatie;<br>
+c) de personeelsformatie;<br>
+d) de statuten en het huishoudelijk reglement;<br>
+e) het beheerde patrimonium;<br>
+f) de inschrijvings- en toewijzingsprocedure en het intern huurreglement;<br>
+g) het werkingsgebied;<br>
+h) de huurdersbegeleiding en participatie;<br>
+i) de lokale netwerkvorming en de lokale inbedding en verankering, gestaafd met een advies van het lokaal woonoverleg;<br>
+j) de interne controle;<br>
+k) het debiteurenreglement.<br>
+<br>
+Zodra het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd, beslist de minister binnen een termijn van drie maanden over de erkenningsaanvraag. De beslissing wordt door het agentschap betekend aan de aanvrager, met een afschrift aan de ondersteuningsstructuur, aan de toezichthouder en aan de belangenstructuur.
 
 ### ART. 6.
 
@@ -107,18 +142,52 @@ Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap vast
 2° een basissubsidie-enveloppe;<br>
 3° een aanvullende subsidie-enveloppe;<br>
 4° een subsidie bestemd voor de beheersvergoeding;<br>
+5° een groeisubsidie;<br>
+6° de subsidie, vermeld in artikel 56bis, § 2, 4°, van de Vlaamse Wooncode.<br>
+<br>
+Bij een dreigend budgettekort kan een proratering van de subsidies, vermeld in het eerste lid, doorgevoerd worden.<br>
 <br>
 De minister kan in het begrotingsjaar 2016 een subsidie toekennen bestemd voor het aanzuiveren van het overgedragen verlies en voor het opvangen van de verliezen ingevolge het oninvorderbaar worden van huurvorderingen.
 
 ### ART. 9.
 
-§1. De opstartsubsidie kan worden toegekend als het sociaal verhuurkantoor   erkend is en, op basis van een gemotiveerde planning, aantoont via welk   groeitraject het op 31 december van het vierde kalenderjaar dat volgt op het   jaar waarin de aanvraag wordt ingediend, minstens 50 woningen in huur heeft. De   aanvraag voor de opstartsubsidie wordt ingediend bij het agentschap en bevat een   gemotiveerde planning van de woningaangroei voor de komende vier jaar. Het   agentschap keurt het groeitraject goed.<BR><BR>Het sociaal verhuurkantoor dient   jaarlijks, uiterlijk op 15 november, een overzichtstabel van de woningen die het   in beheer heeft op 1 november, bij het agentschap in, om aan te tonen dat het   voldoet aan het goedgekeurde groeitraject. Indien blijkt dat het vooropgestelde   groeipad niet is gerealiseerd, moet bijkomend gemotiveerd worden hoe de beoogde   einddoelstelling zal worden gehaald.<BR><BR>De opstartsubsidie is een   forfaitaire subsidie die kan worden aangewend voor alle kosten die verbonden   zijn aan de uitvoering van de opdrachten van een sociaal verhuurkantoor. Ze   bedraagt 14.850 euro per jaar. De opstartsubsidie wordt jaarlijks uitbetaald in   het begin van het kalenderjaar. Een sociaal verhuurkantoor kan in aanmerking   komen voor een opstartsubsidie gedurende maximaal vier jaar. <BR><BR>§ 2. De   basissubsidie-enveloppe en de aanvullende subsidie-enveloppe worden toegekend   als het sociaal verhuurkantoor voldoet aan de volgende voorwaarden : <BR>1° het   sociaal verhuurkantoor heeft de rechtsvorm van een vereniging als vermeld in   titel VIII, hoofdstuk I van het decreet van 19 december 2008 betreffende de   organisatie van de openbare centra voor maatschappelijk welzijn, of van een   vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921   betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen   zonder winstoogmerk en de stichtingen;<BR>2° het sociaal verhuurkantoor is   sedert minstens één jaar erkend, of het sociaal verhuurkantoor neemt de werking   over van een of meer erkende sociale verhuurkantoren die minstens één jaar   erkend zijn;<BR>3° het sociaal verhuurkantoor toont minstens de tewerkstelling   van een personeelslid aan met minimaal een bachelordiploma of met minimaal twee   jaar nuttige ervaring inzake huisvestings- of welzijnsthematiek, dat instaat   voor meer dan een halftijdse coördinatiefunctie; <BR>4° het sociaal   verhuurkantoor toont aan dat het beschikt over een personeelsformatie om de   opdrachten, vermeld in artikel 2, uit te voeren;<BR>5° in de raad van bestuur   van het sociaal verhuurkantoor wordt minimaal de helft van de stemgerechtigde   bestuursmandaten vervuld door gemeenten en OCMW's, de woon- en welzijnsactoren   uit het werkingsgebied of personen die beroepsmatig actief zijn of een mandaat   uitoefenen in deze besturen of diensten. Minstens drie vierde van de gemeenten   of OCMW's in het werkingsgebied van het sociaal verhuurkantoor is stemgerechtigd   betrokken in het bestuur of de algemene vergadering. De verdeling van   bestuursmandaten en de samenstelling van de bestuursorganen worden opgenomen in   de statuten van het sociaal verhuurkantoor;<BR>6° het sociaal verhuurkantoor   streeft een aaneengesloten werkingsgebied na, waarbij rekening gehouden wordt   met de woningen in huur tijdens het voorgaande kalenderjaar;<BR>7° het sociaal   verhuurkantoor heeft minstens vijftig woningen in huur;<BR>8° het sociaal   verhuurkantoor verbindt zich ertoe aan het agentschap en aan de   ondersteuningsstructuur elke wijziging in de statuten, het huishoudelijk   reglement, de vervanging van de coördinator en elke wijziging waardoor niet meer   voldaan wordt aan de subsidievoorwaarden, mee te delen;<BR>9° het sociaal   verhuurkantoor dient een gemotiveerde planning in van de woningaangroei die het   verwacht te realiseren in de komende vijf jaar;<BR><BR>Voor de toepassing van   het eerste lid, 7°, wordt geen rekening gehouden met de woningen waarvan een   gemeente, een OCMW, een autonoom gemeentebedrijf, een intercommunale, de Vlaamse   Maatschappij voor Sociaal Wonen of een erkende sociale huisvestingsmaatschappij,   het Vlaams Woningfonds van de Grote Gezinnen of een provinciebestuur, eigenaar   is. <BR><BR>§ 3. Er wordt voor de toepassing van § 2, eerste lid 7°, wel   rekening gehouden met de woningen die door het sociaal verhuurkantoor worden   verhuurd met toepassing van artikel 18, § 2, en artikel 90 van de Vlaamse   Wooncode en met kamers die op de private huurwoningmarkt ingehuurd worden door   het sociaal verhuurkantoor en verhuurd worden in het kader van een   samenwerkingsovereenkomst die gesloten is met een erkende   welzijnsinstantie.<BR><BR>De aanvullende subsidie-enveloppe wordt toegekend als   het aantal woningen respectievelijk meer bedraagt dan vijftig en honderd. Het   aantal woningen dat in aanmerking wordt genomen, is het aantal woningen op 1   november van het jaar waarin de aanvraag wordt ingediend. Dat aantal wordt met   een omstandige overzichtstabel bewezen, waaruit blijkt dat de woningen voldoen   aan de voorwaarden vermeld in paragraaf twee, tweede lid en paragraaf drie,   eerste lid.<BR><BR>De minister kan de minimale competenties van de verschillende   functieprofielen voor de personeelsformatie van een sociaal verhuurkantoor,   vermeld in § 2, eerste lid, 4° vaststellen.
+§1. De opstartsubsidie kan worden toegekend als het sociaal verhuurkantoor erkend is, een rechtsvorm heeft zoals vermeld in § 2, 1° of opgericht is in de schoot van een gemeente of OCMW, en, op basis van een gemotiveerde planning, aantoont via welk groeitraject het op 31 december van het vierde kalenderjaar dat volgt op het jaar waarin de aanvraag wordt ingediend, minstens vijftig woningen in huur heeft. De aanvraag voor de opstartsubsidie wordt ingediend bij het agentschap en bevat een gemotiveerde planning van de woningaangroei voor de komende vier jaar. De minister of zijn gemachtigde beslist over de subsidieaanvraag binnen een termijn van drie maanden nadat het agentschap een aanvraag heeft ontvangen.<br>
+<br>
+Het sociaal verhuurkantoor dient jaarlijks, uiterlijk op 15 november, een overzichtstabel van de woningen die het in beheer heeft op 1 november, bij het agentschap in, om aan te tonen dat het voldoet aan het vooropgestelde groeitraject. Indien blijkt dat het vooropgestelde groeitraject niet gerealiseerd is, moet worden aangetoond op welke wijze de beoogde einddoelstelling zal worden gehaald.<br>
+<br>
+De opstartsubsidie is een forfaitaire subsidie die kan worden aangewend voor alle kosten die verbonden zijn aan de uitvoering van de opdrachten van een sociaal verhuurkantoor. Ze bedraagt 32.335 euro per jaar. Een sociaal verhuurkantoor kan in aanmerking komen voor een opstartsubsidie gedurende maximaal vier jaar. In het jaar van toekenning wordt de opstartsubsidie uitbetaald binnen de maand die volgt op de goedkeuring van de aanvraag. De opstartsubsidie wordt jaarlijks uitbetaald in de maand van de verjaardag van de eerste uitbetaling van de opstartsubsidie. Vanaf de toekenning van de basissubsidie-enveloppe, vermeld in paragraaf 2, wordt de laatst toegekende opstartsubsidie verminderd in verhouding tot het aantal volledige maanden waarvoor het sociaal verhuurkantoor al een basissubsidie-enveloppe wordt toegekend. Deze vermindering wordt ingehouden op de basissubsidie-enveloppe.<br>
+<br>
+Voor sociale verhuurkantoren die een opstartsubsidie of voor de eerste keer een basissubsidie-enveloppe toegekend krijgen, is artikel 13, § 2, tweede en derde lid niet van toepassing.<br>
+<br>
+§ 2.&nbsp;De basissubsidie-enveloppe, de aanvullende subsidie-enveloppe en de groeisubsidie worden toegekend als het sociaal verhuurkantoor voldoet aan de volgende voorwaarden :<br>
+1° het sociaal verhuurkantoor heeft de rechtsvorm van een vereniging als vermeld in titel VIII, hoofdstuk I van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn of van een welzijnsvereniging als vermeld in deel 3, titel 4, hoofdstuk 2 van het decreet van 22 december 2017 over het lokaal bestuur, of van een vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
+2° het sociaal verhuurkantoor is sedert minstens één jaar erkend, of het sociaal verhuurkantoor neemt de werking over van een of meer erkende sociale verhuurkantoren die minstens één jaar erkend zijn;<br>
+3° het sociaal verhuurkantoor toont minstens de tewerkstelling van een personeelslid aan met minimaal een bachelordiploma of met minimaal twee jaar nuttige ervaring inzake huisvestings- of welzijnsthematiek, dat instaat voor minstens een halftijdse coördinatiefunctie;<br>
+4° het sociaal verhuurkantoor toont aan dat het beschikt over een personeelsformatie om de opdrachten, vermeld in artikel 56, § 2, derde lid, van de Vlaamse Wooncode, uit te voeren;<br>
+5° het sociaal verhuurkantoor toont aan dat in zijn statuten is opgenomen dat lokale huisvestingsmaatschappijen, gemeenten en OCMW's en andere lokale huisvestings- en welzijnsactoren uit het werkingsgebied van het betreffende sociaal verhuurkantoor, stemgerechtigd kunnen deelnemen in het beheer van het sociaal verhuurkantoor en bewijst dat het die instanties heeft aangeboden om als stemgerechtigde deel te nemen;<br>
+6° ...;<br>
+7° het sociaal verhuurkantoor heeft minstens vijftig woningen in huur;<br>
+8° het sociaal verhuurkantoor verbindt zich ertoe aan het agentschap en aan de ondersteuningsstructuur elke wijziging in de statuten, het huishoudelijk reglement, de vervanging van de coördinator en elke wijziging waardoor niet meer voldaan wordt aan de subsidievoorwaarden, mee te delen;<br>
+9° het sociaal verhuurkantoor dient een gemotiveerde planning in van de woningaangroei die het verwacht te realiseren in de komende vijf jaar;<br>
+11° het sociaal verhuurkantoor maakt een financiële planning op, zoals vermeld in artikel 7.<br>
+<br>
+Voor de toepassing van het eerste lid, 7° wordt geen rekening gehouden met de sociale huurwoningen vermeld in artikel 2, § 1, eerste lid, 22°, a), c), e) en f) van de Vlaamse Wooncode.<br>
+<br>
+§ 3. Er wordt voor de toepassing van paragraaf 2, eerste lid 7°, rekening gehouden met kamers vermeld in artikel 2, § 1, eerste lid, 10° bis van de Vlaamse Wooncode, die het sociaal verhuurkantoor op de private huurwoningmarkt inhuurt als ze verhuurd worden in het kader van een samenwerkingsovereenkomst die gesloten is met een erkende welzijnsinstantie.<br>
+<br>
+De aanvullende subsidie-enveloppe wordt toegekend als het aantal woningen respectievelijk meer bedraagt dan vijftig en honderd. Het aantal woningen dat in aanmerking wordt genomen, is het aantal woningen op 1 november van het jaar waarin de aanvraag wordt ingediend. Dat aantal wordt met een omstandige overzichtstabel bewezen, waaruit blijkt dat de woningen voldoen aan de voorwaarden vermeld in paragraaf twee, tweede lid en paragraaf drie, eerste lid.<br>
+<br>
+De minister kan de minimale competenties van de verschillende functieprofielen voor de personeelsformatie van een sociaal verhuurkantoor, vermeld in § 2, eerste lid, 4° vaststellen.
 
 ## Afdeling 2. De subsidieaanvraag
 
 ### ART. 10.
 
-De aanvraag voor de basissubsidie-enveloppe wordt ingediend bij het agentschap en bevat de volgende gegevens en stukken : <br />1° bewijzen waaruit blijkt dat aan de subsidievoorwaarden, vermeld in artikel 9, § 2, eerste lid, 1° tot en met 9°, is voldaan;<br />2° de toelichting, vermeld in artikel 5, eerste lid, 2°.<br /><br />De minister of zijn gemachtigde beslist over de subsidieaanvraag binnen een termijn van drie maanden nadat het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd.
+De aanvraag voor de basissubsidie-enveloppe wordt ingediend bij het agentschap en bevat de volgende gegevens en stukken :<br>
+1° bewijzen waaruit blijkt dat aan de subsidievoorwaarden, vermeld in artikel 9, § 2, eerste lid, 1° tot en met 11°, is voldaan;<br>
+2° de toelichting, vermeld in artikel 5, eerste lid, 2°.<br>
+<br>
+De minister of zijn gemachtigde beslist over de subsidieaanvraag binnen een termijn van drie maanden nadat het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd.
 
 ### ART. 11.
 
@@ -126,89 +195,132 @@ Het agentschap betekent het subsidiebesluit inzake de basissubsidie-enveloppe aa
 
 ### ART. 12.
 
-De aanvraag voor de aanvullende subsidie-enveloppe wordt jaarlijks uiterlijk op 15 november bij het agentschap ingediend en bevat de bewijzen dat aan de subsidievoorwaarden, vermeld in artikel 9, § 3, tweede lid, is voldaan.<br /><br />De minister of zijn gemachtigde beslist over de subsidieaanvraag binnen een termijn van drie maanden nadat het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd.<br /><br />Het agentschap betekent het subsidiebesluit inzake de aanvullende subsidie-enveloppe aan het sociaal verhuurkantoor met een afschrift aan de ondersteuningsstructuur en aan de toezichthouder.<br /><br />Het subsidiebesluit vermeldt het maximumbedrag van de aanvullende subsidie-enveloppe. De periode waarin het sociaal verhuurkantoor in aanmerking komt voor de aanvullende subsidie-enveloppe gaat in op de eerste dag van het kalenderjaar dat volgt op het jaar waarin de aanvraag is ingediend en loopt tot en met 31 december van dat kalenderjaar.
+De aanvraag voor de aanvullende subsidie-enveloppe wordt jaarlijks uiterlijk op 15 november bij het agentschap ingediend en bevat de bewijzen dat aan de subsidievoorwaarden, vermeld in artikel 9, § 3, tweede lid, is voldaan.<br>
+<br>
+De minister of zijn gemachtigde beslist over de subsidieaanvraag binnen een termijn van drie maanden nadat het agentschap een volledig aanvraagdossier heeft ontvangen en daarvan een ontvangstmelding heeft gestuurd.<br>
+<br>
+Het agentschap betekent het subsidiebesluit inzake de aanvullende subsidie-enveloppe aan het sociaal verhuurkantoor met een afschrift aan de ondersteuningsstructuur, de toezichthouder en de vzw Huurpunt of haar rechtsopvolger.<br>
+<br>
+Het subsidiebesluit vermeldt het maximumbedrag van de aanvullende subsidie-enveloppe. De periode waarin het sociaal verhuurkantoor in aanmerking komt voor de aanvullende subsidie-enveloppe gaat in op de eerste dag van het kalenderjaar dat volgt op het jaar waarin de aanvraag is ingediend en loopt tot en met 31 december van dat kalenderjaar.<br>
+<br>
+De groeisubsidie wordt jaarlijks door de minister of zijn gemachtigde toegekend aan een sociaal verhuurkantoor dat aantoont dat het in het afgelopen werkingsjaar een groter aantal gesubsidieerde woningen in beheer heeft. De groeisubsidie wordt toegekend op basis van de vergelijking van het aantal woningen vermeld in de twee recentste overzichtstabellen, vermeld in artikel 11, derde lid. Gesubsidieerde woningen waarvan de huurovereenkomsten in de loop van het werkingsjaar tussen sociale verhuurkantoren worden overgedragen omwille van een wijziging in het werkingsgebied, komen niet in aanmerking voor de berekening van de groeisubsidie.
 
 ## Afdeling 3. De subsidie, de uitbetaling van de subsidie en de vorming van reserves
 
 ### ART. 13.
 
-De basissubsidie-enveloppe bedraagt maximaal 110.385 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 50 woningen en maximaal 99 woningen in huur heeft. De aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1534,50 euro per woning voor de 51ste tot en met de 99ste woning.<br>
+§ 1. De basissubsidie-enveloppe bedraagt maximaal 117.171 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 50 woningen en maximaal 99 woningen in huur heeft. De aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1534,50 euro per woning voor de 51ste tot en met de 99ste woning.<br>
 <br>
-De basissubsidie-enveloppe bedraagt maximaal 202.950 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 100 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.534,50 euro per woning vanaf de 101ste woning tot de 250ste woning. Vanaf de 251ste woning bedraagt de aanvullende subsidie per kalenderjaar 1.584 euro.<br>
+De basissubsidie-enveloppe bedraagt maximaal 209.736 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 100 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.534,50 euro per woning vanaf de 101ste woning tot de 199ste woning.<br>
 <br>
-De in het eerste en het tweede lid vermelde subsidie-enveloppes worden verhoogd met een subsidie bestemd voor de volledige kost van de beheersvergoeding, bestaande uit en geplafonneerd op de bedragen zoals vermeld in artikel 5 paragraaf 4 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, verhoogd met de hierop verschuldigde BTW.<br>
+De basissubsidie-enveloppe bedraagt maximaal 372.424 euro per kalenderjaar voor een sociaal verhuurkantoor dat minstens 200 woningen in huur heeft, en de aanvullende subsidie-enveloppe bedraagt per kalenderjaar 1.534,50 euro per woning vanaf de 201ste woning tot de 250ste woning. Vanaf de 251ste woning bedraagt de aanvullende subsidie per kalenderjaar 1.584 euro.<br>
 <br>
-De minister kan in het begrotingsjaar 2016 een subsidie verlenen, bestemd voor het aanzuiveren van het overgedragen verlies en voor het opvangen van de verliezen ingevolge het oninvorderbaar worden van huurvorderingen. De subsidie bedraagt maximaal 1100 euro per woning, opgenomen in de overzichtstabel, vermeld in artikel 11, derde lid, voor zover deze in aanmerking komt voor de basissubsidie en/of de aanvullende subsidie. Als een sociaal verhuurkantoor zijn eerste aanvraag voor subsidiëring indient in de loop van 2016, wordt voor de berekening van de subsidie rekening gehouden met het minimum aantal woningen waarmee met toepassing van het eerste en het tweede lid wordt rekening gehouden bij de bepaling van de basissubsidie-enveloppe op de aanvraagdatum.<br>
+De groeisubsidie bedraagt 1.534,50 euro per woning.<br>
 <br>
-Een erkend en gesubsidieerd sociaal verhuurkantoor met minder dan 100 woningen in huur, moet op 1 november van het derde kalenderjaar na het ingaan van de periode van de eerste basissubsidie-enveloppe minstens 100 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor dat op datum van inwerkingtreding van dit besluit reeds minstens 50 woningen maar minder dan 100 woningen in huur had, moet op 1 november 2015 minstens 100 woningen inhuren.<br>
+De in het eerste, tweede, derde en vierde lid vermelde subsidie-enveloppes worden verhoogd met een subsidie bestemd voor de volledige kost van de beheersvergoeding, bestaande uit en geplafonneerd op de bedragen zoals vermeld in artikel 5 paragraaf 4 van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen, verhoogd met de hierop verschuldigde btw.<br>
 <br>
-Een erkend en gesubsidieerd sociaal verhuurkantoor met minstens 100 woningen maar minder dan 150 woningen in huur, moet op 1 november van het vierde kalenderjaar na het ingaan van de periode van de basissubsidie-enveloppe die gekoppeld is aan 100 woningen, minstens 150 woningen inhuren. Een erkend en gesubsideerd sociaal verhuurkantoor dat op datum van inwerkingtreding van dit besluit reeds minstens 100 woningen maar minder dan 150 woningen in huur had, moet op 1 november 2016 minstens 150 woningen inhuren.<br>
+§ 2. Een erkend en gesubsidieerd sociaal verhuurkantoor met minder dan 100 woningen in huur moet vanaf 1 november van het derde kalenderjaar nadat de periode van de eerste basissubsidie-enveloppe is ingegaan, minstens 100 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor dat op 1 januari 2013 al minstens 50 woningen maar minder dan 100 woningen in huur had, moet vanaf 1 november 2015 minstens 100 woningen inhuren.<br>
 <br>
-Een erkend en gesubsidieerd sociaal verhuurkantoor, met een werkingsgebied waarvan een stad met meer dan 150 000 inwoners deel uitmaakt, en met minstens 150 woningen, maar minder dan 200 woningen in huur, moet op 1 november van het derde kalenderjaar na het ingaan van de periode van de basissubsidie-enveloppe en aanvullende subsidie-enveloppe die gekoppeld is aan 150 woningen, minstens 200 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, waarvan een stad met meer dan 150 000 inwoners deel uitmaakt van het werkingsgebied, dat op datum van inwerkingtreding van dit besluit reeds minstens 150 woningen maar minder dan 200 woningen in huur had, moet op 1 november 2015 minstens 200 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, met een werkingsgebied waarvan een stad met meer dan 150 000 inwoners deel uitmaakt, en met minstens 200 woningen maar minder dan 250 woningen in huur, moet op 1 november van het vierde kalenderjaar na het ingaan van de periode van de basissubsidie-enveloppe en aanvullende subsidie-enveloppe die gekoppeld is aan 200 woningen, minstens 250 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, waarvan een stad met meer dan 150 000 inwoners deel uitmaakt van het werkingsgebied, dat op datum van inwerkingtreding van dit besluit reeds minstens 200 woningen maar minder dan 250 woningen in huur had, moet op 1 november 2016 minstens 250 woningen inhuren.<br>
+Een erkend en gesubsidieerd sociaal verhuurkantoor met minstens 100 woningen, maar minder dan 150 woningen in huur, moet vanaf 1 november van het vierde kalenderjaar nadat de periode van de basissubsidie-enveloppe die gekoppeld is aan 100 woningen, is ingegaan, minstens 150 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor dat op 1 januari 2013 al minstens 100 woningen, maar minder dan 150 woningen in huur had, moet vanaf 1 november 2016 minstens 150 woningen inhuren.<br>
 <br>
-Indien het minimum aantal woningen in huur, zoals bepaald in het&nbsp;vijfde, zesde en zevende&nbsp;lid, niet wordt behaald, wordt de basissubsidie-enveloppe voor het daaropvolgende kalenderjaar verminderd met 10 % totdat het sociaal verhuurkantoor respectievelijk minstens 100, 150, 200 of 250 woningen in huur heeft.<br>
+Een erkend en gesubsidieerd sociaal verhuurkantoor met een werkingsgebied waar een stad met meer dan 150.000 inwoners deel van uitmaakt, en met minstens 150 woningen, maar minder dan 200 woningen in huur, moet vanaf 1 november van het derde kalenderjaar nadat de periode van de basissubsidie-enveloppe en de aanvullende subsidie-enveloppe die gekoppeld is aan 150 woningen, is ingegaan, minstens 200 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, met een werkingsgebied waar een stad met meer dan 150.000 inwoners deel van uitmaakt, dat op 1 januari 2013 al minstens 150 woningen, maar minder dan 200 woningen in huur had, moet vanaf 1 november 2015 minstens 200 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, met een werkingsgebied, waar een stad met meer dan 150 000 inwoners deel van uitmaakt, en met minstens 200 woningen maar minder dan 250 woningen in huur, moet vanaf 1 november van het vierde kalenderjaar nadat de periode van de basissubsidie-enveloppe en de aanvullende subsidie-enveloppe die gekoppeld is aan 200 woningen, is ingegaan, minstens 250 woningen inhuren. Een erkend en gesubsidieerd sociaal verhuurkantoor, met een werkingsgebied waar een stad met meer dan 150.000 inwoners deel van uitmaakt, dat op 1 januari 2013 al minstens 200 woningen, maar minder dan 250 woningen in huur had, moet vanaf 1 november 2016 minstens 250 woningen inhuren.<br>
 <br>
-De minister kan een afwijking toestaan van de vermindering met 10 %, vermeld in het&nbsp;achtste lid. De minister kan de afwijking toestaan op voorwaarde dat het sociaal verhuurkantoor voldoende geobjectiveerd aantoont waarom de vooropgestelde woninggroei niet werd gehaald. Daarbij moeten minstens twee van de volgende redenen of realisaties door het sociaal verhuurkantoor worden aangetoond, die in de beslissing tot afwijking tot uiting kunnen worden gebracht :<br>
-a) er werd een jaarlijks gemiddelde woninggroei van 7,5 % gerealiseerd;<br>
-b) er is reeds een belangrijk aandeel van de private huurmarkt in het werkingsgebied van het sociaal verhuurkantoor in beheer bij het sociaal verhuurkantoor;<br>
-c) het lokale betaalbare privaat huurwoningaanbod is beperkt;<br>
-d) er is een substantiële bruto-groei, maar de netto-groei werd beperkt omdat er een betekenisvol aantal woningen uit beheer zijn gegaan;<br>
-e) de groei is beperkt omwille van een grondig gemotiveerde situatie van overmacht of omwille van een grondige wijziging in het personeelsteam, bestuur en/of het werkingsgebied;<br>
-f) het sociaal verhuurkantoor heeft een verantwoorde professionele herstructurering doorgevoerd, met daarin effectieve samenwerking met de lokale huisvestingsmaatschappij, welzijnsdienst of lokale besturen rond het uitvoeren van de taken van het sociaal verhuurkantoor, waardoor een grondige basis is gevormd om zich breder te kunnen toeleggen op effectieve woninggroei.<br>
+Als het minimum aantal woningen in huur, vermeld in het eerste, tweede en derde lid, niet wordt behaald, wordt de basissubsidie-enveloppe voor het daaropvolgende kalenderjaar verminderd met 10 % totdat het sociaal verhuurkantoor respectievelijk minstens 100, 150, 200 of 250 woningen in huur heeft.<br>
 <br>
-Het sociaal verhuurkantoor kan voor de in het vorige lid bedoelde motivering alle relevante elementen inbrengen die aantonen dat de in het besluit verwachte woninggroei niet haalbaar was, vooropgesteld dat er effectief een deel van de woninggroei werd gerealiseerd.<br>
+De minister kan een afwijking toestaan van de vermindering met 10 %, vermeld in het vierde lid. De minister kan de afwijking toestaan op voorwaarde dat het sociaal verhuurkantoor voldoende geobjectiveerd aantoont waarom de vooropgestelde woninggroei niet is gehaald. Daarbij worden minstens twee van de volgende redenen of realisaties door het sociaal verhuurkantoor aangetoond, die in de beslissing tot afwijking tot uiting kunnen worden gebracht:<br>
+1° er is een jaarlijkse gemiddelde woninggroei van 7,5% gerealiseerd;<br>
+2° het sociaal verhuurkantoor heeft al een belangrijk aandeel van de private huurmarkt in zijn werkingsgebied in beheer;<br>
+3° het lokale betaalbare private huurwoningaanbod is beperkt;<br>
+4° er is een substantiële bruto groei, maar de netto groei is beperkt omdat er een betekenisvol aantal woningen uit beheer is gegaan;<br>
+5° de groei is beperkt door een grondig gemotiveerde situatie van overmacht;<br>
+6° de groei is beperkt door een grondige wijziging van het personeelsteam, het bestuur of het werkingsgebied;<br>
+7° het sociaal verhuurkantoor heeft een verantwoorde professionele herstructurering doorgevoerd, waarbij het effectief samenwerkt met de lokale huisvestingsmaatschappijen, welzijnsdiensten of lokale besturen bij de uitvoering van zijn taken, waardoor het een grondige basis heeft gevormd om zich breder te kunnen toeleggen op effectieve woninggroei.<br>
 <br>
-Als twee of meer gesubsidieerde sociale verhuurkantoren fuseren, ontvangt het gefuseerde sociaal verhuurkantoor voor een periode van twee kalenderjaren een verhoging van de subsidie-enveloppe, vermeld in het eerste en tweede lid. De verhoging bedraagt 198 euro per woning, vanaf de 51ste woning in huur, en wordt toegepast bij de eerstvolgende subsidietoekenning, na de melding van de uitgevoerde fusie.<br>
+Punt 6° en 7°, vermeld in het vijfde lid, houden op uitwerking te hebben op 1 januari 2019.<br>
 <br>
-Met behoud van de toepassing van artikel 15 worden de basissubsidie-enveloppe en de aanvullende subsidie-enveloppe, vermeld in het eerste en tweede lid, besteed aan de werkings- en personeelskosten die verbonden zijn aan de uitvoering van de opdrachten van het sociaal verhuurkantoor, met inbegrip van de kosten van frictieleegstand en de afschrijving op andere activa dan de huurwoningen. Als de aangetoonde werkingskosten hoger zijn dan 30 % van de totale subsidie-enveloppe, worden ze slechts ten bedrage van 30 % aanvaard.<br>
+Het sociaal verhuurkantoor kan voor de motivering, vermeld in het vijfde lid, alle relevante elementen inbrengen die aantonen dat de verwachte woninggroei, vermeld in het besluit, niet haalbaar was, vooropgesteld dat er effectief een deel van de woninggroei is gerealiseerd.<br>
 <br>
-Na de voorafgaande goedkeuring door het agentschap kunnen kostenvergoedingen voor externe personeelsleden, waarvan het sociaal verhuurkantoor aantoont dat ze noodzakelijk zijn om structureel te voorzien in de personeelsformatie, als personeelskosten worden beschouwd.<br>
+§ 3. Als twee of meer gesubsidieerde sociale verhuurkantoren overgaan tot een overdracht van algemeenheid of van een bedrijfstak, als vermeld in artikel 770 van het Wetboek van Vennootschappen, blijft de laatst bekende subsidie van de afzonderlijke sociale verhuurkantoren voor een periode van twee kalenderjaren behouden met behoud van de toepassing van paragraaf 1, eerste, tweede, derde en vierde lid.<br>
 <br>
-De bedragen, vermeld in dit artikel, zijn uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2012. Binnen de perken van de begroting wordt het bedrag geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van het Rijk worden gekoppeld.
+§ 4. Met behoud van de toepassing van artikel 15 worden de subsidies vermeld in paragraaf 1, eerste, tweede, derde en vierde lid, besteed aan de personeelskosten, de kosten die verbonden zijn aan frictieleegstand, de waardeverminderingen doordat huurvorderingen oninbaar worden, en de werkingskosten die verbonden zijn aan de uitvoering van de opdrachten van het sociaal verhuurkantoor, met inbegrip van de afschrijvingen op andere activa dan de huurwoningen. Als de aangetoonde werkingskosten hoger zijn dan 30 % van de totale subsidie-enveloppe, exclusief de subsidie voor de beheersvergoeding vermeld in paragraaf 1, vijfde lid, wordt maar 30 % ervan aanvaard.<br>
+<br>
+§ 5. Na de voorafgaande goedkeuring door het agentschap kunnen de volgende kosten als personeelskosten worden beschouwd:<br>
+1° kostenvergoedingen voor externe personeelsleden, waarvan het sociaal verhuurkantoor aantoont dat ze noodzakelijk zijn om structureel te voorzien in de personeelsformatie;<br>
+2° kosten voor de uitbesteding van de boekhouding aan een boekhouder, die erkend is door het Beroepsinstituut van Erkende Boekhouders en Fiscalisten.<br>
+<br>
+§ 6. De bedragen, vermeld in dit artikel en in artikel 9, § 1 van dit besluit worden jaarlijks geïndexeerd. Het loonaandeel wordt geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld,<br>
+zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. Het is gekoppeld aan de spilindex die van toepassing is op 1 januari 2012. Het niet-loonaandeel wordt geïndexeerd volgens de indexatieparameter voor de werkingskredieten die in de begrotingsinstructies is opgenomen.
 
 ### ART. 14.
 
-De basissubsidie-enveloppe en de aanvullende subsidie-enveloppe worden voor elk volledig kalenderjaar uitbetaald via drie voorschotten. Het eerste voorschot bedraagt 40 % van het met toepassing van artikel 13 toegestane maximumbedrag, verhoogd met de subsidie voor de beheersvergoeding vermeld in artikel 13, derde lid. Het tweede voorschot bedraagt 40% van het met toepassing van artikel 13 toegestane maximumbedrag. Het derde voorschot bedraagt 10% van het met toepassing van artikel 13 toegestane maximumbedrag. De voorschotten worden ambtshalve betaalbaar gesteld bij het begin van elke viermaandelijkse periode. De jaarlijkse afrekening wordt uiterlijk op 31 mei van het volgende kalenderjaar opgemaakt op basis van de stukken, vermeld in artikel 7 en 16, tweede lid, 1° en 2°, met het oog op de uitbetaling van het saldo.<br>
+De basissubsidie-enveloppe, de aanvullende subsidie-enveloppe en de subsidie voor de beheersvergoeding, vermeld in artikel 13, § 1, eerste, tweede, derde en vijfde lid, worden voor elk volledig kalenderjaar uitbetaald via drie voorschotten:<br>
+1° het eerste voorschot bedraagt 40 % van het toegestane maximumbedrag, verhoogd met de subsidie voor de beheersvergoeding, vermeld in artikel 13, § 1, vijfde lid;<br>
+2° het tweede voorschot bedraagt 40 % van het toegestane maximumbedrag;<br>
+3° het derde voorschot bedraagt 10 % van het toegestane maximumbedrag.<br>
+<br>
+De voorschotten, vermeld in het eerste lid, worden ambtshalve betaalbaar gesteld bij het begin van elke viermaandelijkse periode. De jaarlijkse afrekening wordt uiterlijk op 31 mei van het volgende kalenderjaar opgemaakt op basis van de stukken, vermeld in artikel 7 en 16, § 3, eerste lid, 1° en 2°, met het oog op de uitbetaling van het saldo. De groeisubsidie, vermeld in artikel 13, § 1, vierde lid, wordt toegekend in de maand december die volgt op de voorlegging van de overzichtstabel, vermeld in artikel 11, derde lid, waarmee het sociaal verhuurkantoor aantoont dat het aantal beheerde woningen is toegenomen.<br>
 <br>
 De basissubsidie-enveloppe voor de maanden tussen de inwerkingtreding van het subsidiebesluit en 1 januari van het eerste volledige kalenderjaar worden berekend in verhouding tot het aantal maanden. Ze worden uitbetaald volgens de voorschottenregeling, vermeld in het eerste lid, per periode van maximaal vier maanden.<br>
 <br>
-De subsidiëring voor de personeelskosten wordt bij de jaarlijkse afrekening berekend op grond van de werkelijke lasten van de bezoldiging van de voltijds of deeltijds tewerkgestelde personeelsleden, met inbegrip van de werkgeverslasten, het vakantiegeld, de eindejaarstoelage en het vervroegde vakantiegeld bij uitdiensttreding. Er wordt rekening gehouden met de anciënniteit in een voltijdse of deeltijdse dagtaak.Als het sociaal verhuurkantoor een afwijking heeft verkregen, overeenkomstig artikel 13, twaalfde lid, toont het de loonkosten van het personeel aan door middel van een omstandige afrekeningsnota van de betreffende werkgever aangevuld met de door diezelfde werkgever echt verklaarde afschriften van de in artikel 16, tweede lid, 2° vermelde verantwoordingsstukken die betrekking hebben op de betrokken personeelsleden.<br>
-<br>
-De subsidie, vermeld in artikel 13, vierde lid wordt betaald in de loop van het laatste kwartaal van het jaar dat volgt op het jaar waarin de overzichtstabel is ingediend conform artikel 11, derde lid.
+De subsidiëring voor de personeelskosten wordt bij de jaarlijkse afrekening berekend op grond van de werkelijke lasten van de bezoldiging van de voltijds of deeltijds tewerkgestelde personeelsleden, met inbegrip van de werkgeverslasten, het vakantiegeld, de eindejaarstoelage en het vervroegde vakantiegeld bij uitdiensttreding. Er wordt rekening gehouden met de anciënniteit in een voltijdse of deeltijdse dagtaak.Als het sociaal verhuurkantoor een&nbsp;goedkeuring heeft verkregen, overeenkomstig artikel 13, § 5, toont het de loonkosten van het personeel aan door middel van een omstandige afrekeningsnota van de betreffende werkgever aangevuld met de door diezelfde werkgever echt verklaarde afschriften van de in artikel 16, § 3, eerste lid, 2° vermelde verantwoordingsstukken die betrekking hebben op de betrokken personeelsleden.
 
 ### ART. 15.
 
-Met behoud van de toepassing van artikel 13 kunnen sociale verhuurkantoren het overschot van de subsidie, dat niet werd aangewend voor werkings- en personeelskosten, onder de hierna bepaalde voorwaarden aanwenden voor reservevorming :<br>
-1° het boekjaar werd afgesloten met winst;<br>
-2° Jaarlijks kan maximaal 5% van de totaliteit van de basissubsidie-enveloppe en de aanvullende subsidie-enveloppe, vermeld in artikel 8, eerste lid, 2° en 3°, bestemd worden als reserve;<br>
-2° /1 het niet aangewende saldo van de subsidie, vermeld in artikel 8, tweede lid, wordt jaarlijks overgedragen en bestemd als reserve;<br>
-3° de reserve wordt aangewend voor toekomstige kosten die verbonden zijn aan niet-recupereerbare huurschade of definitief oninbare huurvorderingen;<br>
-4° ...
+Het niet aangewende saldo van de subsidie, vermeld in artikel 8, derde lid, wordt jaarlijks overgedragen en bestemd als reserve voor toekomstige kosten die verbonden zijn aan niet-recupereerbare huurschade of definitief oninbare huurvorderingen.<br>
+<br>
+Het gedeelte van de groeisubsidie, dat niet in het jaar van toekenning kan worden aangewend, wordt eenmalig overgedragen en kan in het volgende werkingsjaar aangewend worden voor personeelskosten, de kosten die verbonden zijn aan frictieleegstand, de kosten die verbonden zijn aan waardeverminderingen doordat huurvorderingen oninbaar worden en de werkingskosten die verbonden zijn aan de uitvoering van de opdrachten van het sociaal verhuurkantoor.
 
 ## Afdeling 4. Boekhouding en rapportering
 
 ### ART. 16.
 
-Elk sociaal verhuurkantoor dat een subsidie als vermeld in dit besluit, ontvangt, voert een boekhouding die gebaseerd is op een minimaal genormaliseerd rekeningstelsel, overeenkomstig de nadere regels die de minister heeft bepaald.<br>
+§ 1. Elk sociaal verhuurkantoor dat de juridische structuur van een vzw heeft en een subsidie als vermeld in dit besluit, ontvangt, voert een boekhouding conform het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen met inbegrip van artikel III.82, III.83, III.84, III.86, III.87, III.88, III.89, III.90, III.92 van het Wetboek van economisch recht en de uitvoeringsbesluiten ervan. Elk sociaal verhuurkantoor dat de juridische structuur heeft van een OCMW-vereniging, welzijnsvereniging, of opgericht is in de schoot van een gemeente of OCMW, en een subsidie als vermeld in dit besluit, ontvangt, voert een boekhouding conform het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn.<br>
 <br>
-Het sociaal verhuurkantoor bezorgt jaarlijks uiterlijk op 15 maart en voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor werd gesubsidieerd, de volgende stukken aan het agentschap :<br>
-1° een gedetailleerde afrekening van de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, aangevuld met de resultatenrekening en een balans over het voorbije werkingsjaar, overeenkomstig het genormaliseerde rekeningstelsel, vermeld in het eerste lid, alsook een begroting voor het lopende kalenderjaar die goedgekeurd is door het bevoegde bestuursorgaan. Als de werking van het sociaal verhuurkantoor deel uitmaakt van een breder opdrachtenpakket van een rechtspersoon, overeenkomstig artikel 9, § 2, eerste lid, 1°, moet de rechtspersoon een volledige analytische boekhouding voeren, zodat de activa en passiva van het sociaal verhuurkantoor kunnen worden afgezonderd in de balans en de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, afzonderlijk gerapporteerd en bewezen kunnen worden;<br>
+De minister bepaalt de nadere regels en stelt de verdere indeling vast van:<br>
+1° het minimale algemene rekeningstelsel, vermeld in artikel 3 en 4 en in de bijlage bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekeningen van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen, dat de sociale verhuurkantoren die als vereniging zonder winstoogmerk zijn opgericht, bij het voeren van hun boekhouding volgen;<br>
+2° de rekeningen, vermeld in artikel 15 van het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn en in het genormaliseerde stelsel van de algemene rekeningen, opgenomen in de bijlage bij het voormelde ministerieel besluit, dat de sociale verhuurkantoren die als OCMW-vereniging, welzijnsvereniging, of in de schoot van een gemeente of OCMW zijn opgericht, bij het voeren van hun boekhouding volgen.<br>
+<br>
+§ 2. Het sociaal verhuurkantoor dat een subsidie als vermeld in dit besluit, ontvangt, rapporteert uiterlijk op de dertigste kalenderdag van ieder kwartaal aan de ondersteuningsstructuur over:<br>
+1° het saldo van de zichtrekeningen en de beleggingsrekeningen op het einde van het vorige kwartaal;<br>
+2° de openstaande saldi van de aangegane leningen op het einde van het vorige kwartaal;<br>
+3° de vervaldagenbalans van de vorderingen van het sociaal verhuurkantoor op het einde van het vorige kwartaal;<br>
+4° de vervaldagenbalans van de schulden van het sociaal verhuurkantoor op het einde van het vorige kwartaal;<br>
+5° de kasstroomrapportering over het voorbije kwartaal.<br>
+<br>
+In het eerste lid wordt verstaan onder vervaldagenbalans: een rapport dat het sociaal verhuurkantoor op maandelijkse basis genereert, waarin de verdeling van de openstaande vorderingen en schulden op basis van de vervaldatum ervan worden geclassificeerd.<br>
+<br>
+De rapporteringen verlopen elektronisch conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
+<br>
+Punt 3°, 4° en 5° van het eerste lid treden in werking op 1 januari 2020.<br>
+<br>
+§ 3. Het sociaal verhuurkantoor bezorgt jaarlijks uiterlijk op 15 maart en voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor gesubsidieerd is, de volgende stukken aan het agentschap:<br>
+1° een gedetailleerde afrekening van de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, aangevuld met de resultatenrekening en een balans over het voorbije werkingsjaar, conform het genormaliseerde rekeningstelsel, vermeld in paragraaf 1, tweede lid, alsook een begroting voor het lopende kalenderjaar die het bevoegde bestuursorgaan goedgekeurd heeft. Als de werking van het sociaal verhuurkantoor deel uitmaakt van een breder opdrachtenpakket, voert de rechtspersoon een volledige analytische boekhouding, zodat de activa en passiva van het sociaal verhuurkantoor kunnen worden afgezonderd in de balans en de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, afzonderlijk gerapporteerd en bewezen kunnen worden;<br>
 2° een gedetailleerde afrekening van de personeelskosten met onder meer een afschrift van de RSZ-staten en de individuele jaarrekeningen over de gesubsidieerde periode;<br>
 3° een gedetailleerd overzicht, in overeenstemming met de boekhouding, van de waardeverminderingen en terugnemingen daarvan op huurvorderingen, alsook de minder- en meerwaarden op de realisatie van huurvorderingen.<br>
 <br>
-Het sociaal verhuurkantoor staat in voor een uniforme registratie en terbeschikkingstelling van gegevens, op basis van instructies van de ondersteuningsstructuur, met het oog op het administratieve beheer en de externe rapportering van de relevante gegevens.
+Het sociaal verhuurkantoor staat in voor een uniforme registratie en terbeschikkingstelling van gegevens, op basis van instructies van het agentschap en de ondersteuningsstructuur, met het oog op het administratieve beheer en de externe rapportering van de relevante gegevens.<br>
+<br>
+§ 4. Elke beslissing over het beheer van het sociaal verhuurkantoor met een significante impact op de financiële middelen of op de personeelsinzet, wordt omstandig gemotiveerd rekening houdend met:<br>
+1° de maatschappelijke opdracht van het sociaal verhuurkantoor;<br>
+2° de huidige en te verwachten toekomstige financieel-economische toestand.<br>
+<br>
+§ 5. Een sociaal verhuurkantoor dat een lening aangaat bij een andere partij dan de Vlaamse Maatschappij voor Sociaal Wonen, meldt dat voorafgaandelijk aan de ondersteuningsstructuur en het agentschap.
 
 ## [Hoofdstuk 5/1. Aanvullende subsidie voor kosten die verbonden zijn aan externe bijstand (ing. BVR 26 oktober 2018, art. 18, I: 14 december 2018)]
+
+### ART 16/1.
+
+Wanneer een sociaal verhuurkantoor, met toepassing van artikel 56bis, § 2, 4° van de Vlaamse Wooncode, verplicht wordt beroep te doen op gespecialiseerde externe bijstand, beslist de minister over de aard en de omvang van de externe bijstand. Het sociaal verhuurkantoor plaatst daartoe een overheidsopdracht waarvan de opdrachtomschrijving door de minister wordt vastgesteld. De kosten verbonden aan de uitvoering van de opdracht worden volledig gesubsidieerd. Het sociaal verhuurkantoor legt de gunningsbeslissing voor aan het agentschap. Op voorlegging van de facturen van de externe bijstandsverlener betaalt het agentschap de aanvullende subsidie.
 
 ## [Hoofdstuk 6. Stopzetting van de uitbetaling en terugvordering van onterecht verkregen subsidies (verv. BVR 26 oktober 2018, art. 19, I: 14 december 2018)]
 
 ### ART. 17.
 
-Met behoud van de toepassing van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen, af te leggen in verband met subsidies, vergoedingen en toelagen, zal de minister na gemotiveerd advies van het agentschap of de toezichthouder, na het sociaal verhuurkantoor te hebben gehoord en na de schriftelijke kennisgeving daarvan, de uitbetaling van de subsidie stopzetten, de al uitbetaalde subsidie terugvorderen en de erkenning intrekken als :<br>
-1° wordt vastgesteld dat het sociaal verhuurkantoor niet meer voldoet aan de erkennings- of subsidievoorwaarden en ze niet kan aantonen dat het opnieuw aan de voorwaarden voldoet binnen drie maanden die volgen op de datum van de vaststelling dat ze niet voldeed aan een van de erkennings- of subsidievoorwaarden;<br>
-2° het sociaal verhuurkantoor een voldoende ernstige onregelmatigheid begaat bij de uitvoering van haar opdrachten;<br>
-3° het sociaal verhuurkantoor ten onrechte een erkenning of subsidiëring heeft ontvangen op grond van onjuiste informatie;<br>
-4° het sociaal verhuurkantoor de controle op de aanwending van de toegekende subsidies verhindert.
+Met behoud van de toepassing van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen, af te leggen in verband met subsidies, vergoedingen en toelagen, kan de minister na gemotiveerd advies van het agentschap of de toezichthouder, na het sociaal verhuurkantoor te hebben gehoord en na de kennisgeving daarvan die met een beveiligde zending wordt verstuurd, de uitbetaling van de subsidie stopzetten en de al uitbetaalde subsidie terugvorderen als de Vlaamse Regering een van de sancties oplegt, vermeld in artikel 56bis, § 2, van de Vlaamse Wooncode.<br>
+<br>
+Met behoud van de toepassing van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen, af te leggen in verband met subsidies, vergoedingen en toelagen, zal de minister na gemotiveerd advies van het agentschap of de toezichthouder, na het sociaal verhuurkantoor te hebben gehoord en na de kennisgeving daarvan die met een beveiligde zending wordt verstuurd, de uitbetaling van de subsidie stopzetten en de al uitbetaalde subsidie terugvorderen als:<br>
+1° het sociaal verhuurkantoor ten onrechte een erkenning of subsidiëring heeft ontvangen op grond van onjuiste informatie;<br>
+2° het sociaal verhuurkantoor de controle op de aanwending van de toegekende subsidies verhindert.
 
 ## Hoofdstuk 7. Wijzigingsbepalingen
 
