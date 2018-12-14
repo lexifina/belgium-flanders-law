@@ -2,16 +2,16 @@
   "codex_id": 1001096,
   "title": "Omzendbrief van 1993-06-23 BA-G 93/05 betreffende het decreet van 28 april 1993 houdende regeling, voor het Vlaamse Gewest, van het administratief toezicht op de gemeenten",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001096/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "573973a2afa27921ff6f196496939dfec3cb6689cbd43fef17aec29db68e88e2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001096/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "5052cced33bfee89f26980e87f84bb2542afa212252f9a2b37eaef505a39a1f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001096&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "1993-06-23",
   "gazette": "1993-08-03",
   "numac": 1993801449,
   "document_start": "1993-06-23",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
