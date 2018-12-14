@@ -2,16 +2,16 @@
   "codex_id": 1013284,
   "title": "Omzendbrief van 2004-07-14 BA-2004/4 betreffende het administratief toezicht op de Openbare centra voor maatschappelijk welzijn - wijzigingen aan de organieke wat van 8 juli 1976 betreffende de Openbare Centra voor maatschappelijk welzijn door het decreet van 7 mei 2004",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013284/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d94bc4754d4a2c5c5631b4f95e429ccdfcfb361620482810eec0ae44dc70a921",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013284/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "6844090697a834894b081c76244816330fadc70c29550c715c8f741e70100f63",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013284&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "2004-07-14",
   "gazette": "2004-07-28",
   "numac": 2004036208,
   "document_start": "2004-07-14",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
