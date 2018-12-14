@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030287,
+  "title": "Ministerieel besluit van 2018-12-14 houdende goedkeuring van de lijst met de definitieve onderverdeling van gemeenten in categorieën in het kader van de voortgangstoets van 2018",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030287/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "7230cad2278bd420e4684111ad26d4e5984a07f2412d14a1ac8ad7765bed6329",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030287&param=informatie",
+  "as_of": "2018-12-14",
+  "made": "2018-12-14",
+  "gazette": "2019-02-22",
+  "numac": 2019010955,
+  "document_start": "2018-12-14",
+  "document_end": null,
+  "in_force": "2018-12-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2018-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
