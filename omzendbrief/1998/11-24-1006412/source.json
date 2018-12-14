@@ -2,16 +2,16 @@
   "codex_id": 1006412,
   "title": "Omzendbrief van 1998-11-24 BA 98/10 betreffende de uitvoering van het kwalitatief sectoraal akkoord 95-96 voor de lokale en regionale besturen en invoering tewerkstellingsparagraaf bij overheidsopdrachten",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006412/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "84835189a64b13f907f2b533ca20d7614d67304e4a477a52482c89f9fc26235f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006412/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "43fe60dffc882229ddc4d392f980872e5f033e3976f5904b0e1d3fcb4a06f89d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006412&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "1998-11-24",
   "gazette": "1998-12-23",
   "numac": 1998036358,
   "document_start": "1998-11-24",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
