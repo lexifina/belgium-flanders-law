@@ -2,16 +2,16 @@
   "codex_id": 1008403,
   "title": "Omzendbrief van 2001-09-07 BA/2001/13 betreffende de nieuwe lokale politie, eengemeentezones en meergemeentezones : administratief toezicht, specifiek toezicht en gewoon toezicht",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008403/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "f9bdcf41411828085d60364bd0d3142c2b5d5f70c9c54d0ed27784df0455619d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008403/VolledigDocument?datum=2018-12-14",
+  "source_sha256": "42e5b2a54c17f1e6ae807eb01cfd50975c65efa6c786a31824c559a3a490306f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008403&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-14",
   "made": "2001-09-07",
   "gazette": "2001-10-09",
   "numac": 2001036111,
   "document_start": "2001-09-07",
   "document_end": "2018-12-13",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-14",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-14; future article versions excluded; article text as the API gives it"
 }
