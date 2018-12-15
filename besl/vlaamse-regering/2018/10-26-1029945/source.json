@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029945,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-26 betreffende de uitvoering van het Bovenlokaal Cultuurdecreet van 15 juni 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029945/VolledigDocument?datum=2018-12-15",
+  "source_sha256": "1fdf417b8377a062699141cdc791471521b2645b1fd1972c174c51b83f41cf09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029945&param=informatie",
+  "as_of": "2018-12-15",
+  "made": "2018-10-26",
+  "gazette": "2018-12-05",
+  "numac": 2018014939,
+  "document_start": "2018-12-15",
+  "document_end": "2024-07-19",
+  "in_force": "2018-12-15",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2018-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
