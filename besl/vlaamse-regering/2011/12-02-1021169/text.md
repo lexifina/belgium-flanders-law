@@ -134,7 +134,8 @@ De provinciale verdeling van de middelen kan jaarlijks door de minister worden g
 12° een forfaitair bedrag van 150 euro per kW geïnstalleerd elektrisch verwarmingsvermogen, verminderd met het bedrag van de premie van de netbeheerder per kW op de datum van de facturatie, voor de vervanging van elektrische verwarming;<br>
 13° een forfaitair bedrag van 33 euro per m², gemeten volgens glasmaat, voor het vervangen van de beglazing door hoogrendementsglas bij renovatie, niet cumuleerbeer met de subsidie, vermeld in punt 3° ;<br>
 14° een forfaitair bedrag van 2500 euro per gesloopt huis of 1250 euro per gesloopt appartement bij vervangingsbouw;<br>
-15° een forfaitair bedrag van 10 euro per m² geplaatste spouwisolatie, gemeten volgens de netto-oppervlakte.<br>
+15° een forfaitair bedrag van 10 euro per m² geplaatste spouwisolatie, gemeten volgens de netto-oppervlakte;<br>
+16° een forfaitair bedrag van 1500 euro per woning bij de installatie van een vraaggestuurd ventilatiesysteem met vrije toevoer en mechanische afvoer of van een ventilatiesysteem met mechanische aan- en afvoer met warmteterugwinning.<br>
 <br>
 § 3/2. Als het beschikbare provinciale krediet binnen de verdeelsleutel van de subsidies uit het Vlaams Klimaatfonds volledig is opgebruikt, kan de VMSW het resterende provinciale krediet binnen de verdeelsleutel van de subsidie, vermeld in artikel 2, zowel aanwenden voor de uitkering van de subsidiebedragen, vermeld in paragraaf 1, eerste lid, als voor de uitkering van de subsidiebedragen bij grondige renovaties, vermeld in paragraaf 3 en 3/1. Als de subsidies uit het Vlaams Klimaatfonds weer aangevuld worden, kunnen de uitgekeerde subsidiebedragen terugvloeien naar het beschikbare krediet, vermeld in artikel 2.<br>
 <br>
@@ -205,9 +206,9 @@ De subsidiebedragen toegestaan met toepassing van dit besluit, worden   verleend
 
 ### ART. 9.
 
-De VMSW bezorgt een eindrapportering uiterlijk op 1 januari 2019, aan de minister en aan het agentschap over de aanwending van de uitgekeerde subsidies per SHM. Zij geeft in haar rapport een overzicht van de verdeling van het beschikbare krediet, vermeld in artikel 2, over de provincies. Dat rapport omvat ook de opgave van de totale intresten die de VMSW op het subsidieaandeel heeft verkregen. Zij toont aan dat die intresten voor dezelfde doelstelling en onder dezelfde voorwaarden als de subsidie zelf zijn aangewend.<br>
+De VMSW bezorgt een eindrapportering uiterlijk op 1 januari 2020, aan de minister en aan het agentschap over de aanwending van de uitgekeerde subsidies per SHM. Zij geeft in haar rapport een overzicht van de verdeling van het beschikbare krediet, vermeld in artikel 2, over de provincies. Dat rapport omvat ook de opgave van de totale intresten die de VMSW op het subsidieaandeel heeft verkregen. Zij toont aan dat die intresten voor dezelfde doelstelling en onder dezelfde voorwaarden als de subsidie zelf zijn aangewend.<br>
 <br>
-De VMSW stort het niet-uitgekeerde subsidieaandeel van de subsidie, vermeld in artikel 2, inclusief de verkregen interesten op dat subsidieaandeel, uiterlijk op 1 januari 2019 terug in de algemene middelen. De interesten die worden verkregen op het niet aangewende gedeelte van het uitbetaalde voorschot, worden berekend op basis van de Euro OverNight Index Average, met een minimum van 0%.<br>
+De VMSW stort het niet-uitgekeerde subsidieaandeel van de subsidie, vermeld in artikel 2, inclusief de verkregen interesten op dat subsidieaandeel, uiterlijk op 1 januari 2020 terug in de algemene middelen. De interesten die worden verkregen op het niet aangewende gedeelte van het uitbetaalde voorschot, worden berekend op basis van de Euro OverNight Index Average, met een minimum van 0%.<br>
 &nbsp;
 
 ### ART. 9/1.
@@ -217,6 +218,10 @@ Voor aanvragen voor de subsidiebedragen, vermeld in artikel 4, § 3, eerste   li
 ### ART 9/2.
 
 In afwijking van artikel 7, § 2, eerste en vierde lid, van dit besluit kunnen subsidies voor renovatiewerkzaamheden en vervangingsbouw die na 1 januari 2016 en vóór de datum van de inwerkingtreding van het besluit van de Vlaamse Regering van 23 december 2016 tot wijziging van het besluit van de Vlaamse Regering van 2 december 2011 houdende de subsidiëring van sociale huisvestingsmaatschappijen voor uitgaven met betrekking tot rationeel energiegebruik en groene warmte besteld zijn, in geval van te gunnen werkzaamheden, of gestart zijn, nog aangevraagd worden na de bestelling of tijdens de uitvoering van de werkzaamheden. De subsidiebedragen, vermeld in artikel 4, § 3/1, moeten worden aangevraagd vóór de werkzaamheden voltooid zijn.
+
+### ART 9/3.
+
+In afwijking van artikel 7, § 2, eerste en vierde lid, van dit besluit kan de subsidie voor de maatregel, vermeld in artikel 3, eerste lid, punt 17°, voor renovatiewerkzaamheden en vervangingsbouw die na 1 januari 2016 en vóór de datum van de inwerkingtreding van het besluit van de Vlaamse Regering van 30 november 2018 tot wijziging van diverse bepalingen betreffende het woonbeleid, besteld zijn, in geval van te gunnen werkzaamheden, of gestart zijn, nog aangevraagd worden na de bestelling of tijdens de uitvoering van de werkzaamheden. Het subsidiebedrag, vermeld in artikel 4, § 3/1, punt 16°, moet worden aangevraagd vóór de werkzaamheden voltooid zijn.
 
 ### ART. 10.
 
