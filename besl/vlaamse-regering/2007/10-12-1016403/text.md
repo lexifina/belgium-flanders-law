@@ -98,6 +98,7 @@ c) de persoon die erkend is als ernstig gehandicapt, of erkend was als ernstig g
 31° Vlaamse Wooncode : decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 32° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van de Vlaamse Wooncode;<br>
 33° welzijns- of gezondheidsvoorziening : een voorziening die werkzaam is in het kader van de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover die aangelegenheden vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin, vastgesteld krachtens artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003. Een OCMW wordt gelijkgesteld met een welzijns- of gezondheidsvoorziening;<br>
+34° agentschap Wonen-Vlaanderen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen.<br>
 <br>
 Een afschrift van het interne huurreglement en latere wijzigingen worden onmiddellijk meegedeeld aan de toezichthouder.
 
