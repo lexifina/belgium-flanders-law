@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029965,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-30 tot wijziging van diverse bepalingen betreffende het woonbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029965/VolledigDocument?datum=2018-12-17",
+  "source_sha256": "f9548704773766bbc95b485ffec77ca78ca34fbf78d68b391c477825876c2c9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029965&param=informatie",
+  "as_of": "2018-12-17",
+  "made": "2018-11-30",
+  "gazette": "2018-12-07",
+  "numac": 2018032370,
+  "document_start": "2020-01-01",
+  "document_end": null,
+  "in_force": "2018-12-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-12-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
