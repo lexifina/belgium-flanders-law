@@ -53,7 +53,7 @@ c) elke andere door de minister toegestane betekeningswijze waarbij de datum van
 
 ### ART. 2.
 
-Het afdelingshoofd van de afdeling Toezicht oefent de functie uit van toezichthouder. De overige toezichthouders worden aangesteld onder de ambtenaren van niveau A die minstens één jaar hebben gewerkt bij de afdeling Toezicht.<br>
+Het afdelingshoofd van de afdeling Toezicht oefent de functie uit van toezichthouder. De overige toezichthouders worden aangesteld onder de ambtenaren van niveau A die minstens één jaar en onder de ambtenaren van niveau B die minstens drie jaar hebben gewerkt bij de afdeling Toezicht. De lijnmanager van het agentschap waartoe de afdeling Toezicht behoort, kan ten aanzien van kandidaat-toezichthouders van niveau B bijzondere vereisten in overeenstemming met de functiebeschrijving en het competentieprofiel vaststellen.<br>
 <br>
 De ambtenaren die tot toezichthouder werden aangesteld, blijven in die hoedanigheid onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse Overheid.<br>
 &nbsp;
