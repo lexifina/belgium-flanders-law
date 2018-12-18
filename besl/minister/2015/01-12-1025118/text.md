@@ -43,7 +43,7 @@
 34° ...;<br>
 35° Marc Van Daele;<br>
 36° Nadine Van Wambeke;<br>
-37° Walter Van Damme;<br>
+37° ...;<br>
 38° Jozef Van Kerckhoven;<br>
 39° Paul Van Steenwinkel;<br>
 40° Veerle Vander Schelde;<br>
@@ -56,8 +56,8 @@
 47° Johan Reymen;<br>
 48° Hans Duyck;<br>
 49° Anke Symens;<br>
-50° Carolien Neckebrouck;<br>
-51° Birgit Vermaesen;<br>
+50° ...;<br>
+51° ...;<br>
 52° Gertjan Droeshout;<br>
 53° Hilke Elsen;<br>
 54° Claire De Winter;<br>
