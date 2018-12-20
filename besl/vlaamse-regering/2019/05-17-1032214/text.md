@@ -84,6 +84,34 @@ Artikel 21 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reger
 
 ## HOOFDSTUK 9. Wijzigingen van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen
 
+### ART 31.
+
+In artikel 14, eerste lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen wordt de zinsnede "artikel 6 tot en met 7, derde lid" vervangen door de zinsnede "artikel 6 en 7, eerste en tweede lid".
+
+### ART 32.
+
+In artikel 15 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt de zinsnede "artikel 6 tot en met 7, tweede lid" vervangen door de zinsnede "artikel 6 en 7, eerste en tweede lid";<br>
+<br>
+2° in het eerste lid wordt de zin "In afwijking van artikel 7, derde lid, van dit besluit wordt het strategisch forfait toegekend vanaf het jaar na het jaar waarin het bevel is gegeven tot aanvang van de werken of waarin de bestelling is geplaatst." opgeheven;<br>
+<br>
+3° aan het tweede lid wordt de volgende zin toegevoegd:<br>
+<br>
+"In afwijking van artikel 15, derde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen, wordt het strategisch forfait toegekend vanaf het jaar na het jaar waarin het bevel is gegeven tot de aanvang van de werken of waarin de bestelling is geplaatst.".
+
+### ART 33.
+
+In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de zinsnede "artikel 6 en 7, eerste, tweede en vierde lid" wordt vervangen door de zinsnede "artikel 6 en 7";<br>
+<br>
+2° de zinsnede "artikel 7, derde lid, van dit besluit" wordt vervangen door de zinsnede "artikel 15, derde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen,".
+
+### ART 34.
+
+In artikel 17 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 26 oktober 2018, wordt voor de woorden "Als een algemeen of" de nummering " § 2" ingevoegd.
+
 ## HOOFDSTUK 10. Wijzigingen van het besluit van de Vlaamse Regering van 30 maart 2018 tot uitvoering van het klimaatplan met betrekking tot de infrastructuur voor persoonsgebonden aangelegenheden
 
 ### ART 37.
