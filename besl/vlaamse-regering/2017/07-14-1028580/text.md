@@ -25,10 +25,10 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° aanvrager: een rechtspersoon die een erkend ziekenhuis exploiteert en die voor dat ziekenhuis een aanvraag van een strategisch forfait indient;<br>
 2° agentschap Zorg en Gezondheid: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid";<br>
-3° algemeen ziekenhuis: een ziekenhuis dat geen psychiatrisch, universitair of categoraal ziekenhuis is;<br>
+3° algemeen ziekenhuis: een ziekenhuis dat geen psychiatrisch, universitair of revalidatieziekenhuis is;<br>
 4° bed of plaats: een bed of plaats in een algemeen of universitair ziekenhuis, inclusief geïsoleerde gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp) en geïsoleerde geriatriediensten (kenletter G), een plaats in dagopname of een bed of plaats in een psychiatrisch ziekenhuis;<br>
 5° besluit van 14 juli 2017: het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de subsidiëring van infrastructuur van ziekenhuizen;<br>
-6° categoraal ziekenhuis: een ziekenhuis dat uitsluitend beschikt over gespecialiseerde diensten voor behandeling en revalidatie (kenletter Sp), al of niet samen met diensten voor gewone ziekenhuisopname (kenletter H), diensten Neuropsychiatrie voor behandeling van volwassen patiënten (kenletter T) of diensten Geriatrie (kenletter G);<br>
+6° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren;<br>
 7° coördinatiecommissie: de commissie, vermeld in artikel 12 van dit besluit;<br>
 8° eenheid: een operatiezaal met inbegrip van het lokaal voor sterilisatie en de ontwaakzaal, een bed voor intensieve verzorging binnen de functie intensieve zorgen, het verloskwartier, de functie van lokale neonatale zorg (N*-functie), een bed in een dienst voor intensieve neonatologie (NIC-dienst), een bunker in een dienst Radiotherapie of een post van een centrum voor de behandeling van chronische nierinsufficiëntie;<br>
 9° Fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, opgericht bij het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
@@ -283,7 +283,9 @@ De aanvrager die in het bezit is van het akkoord strategisch forfait of, in voor
 <br>
 De aanvraag, vermeld in het eerste lid, bevat de ondertekende notulen van de vergadering van de bevoegde organen van de aanvrager met de beslissing om een strategisch forfait aan te vragen en met de geplande datum van ingebruikname.<br>
 <br>
-Conform artikel 7, derde lid, van het besluit van 14 juli 2017 kan het strategisch forfait pas toegekend worden vanaf de datum van de ingebruikname van de infrastructuur. Nadat de aanvrager de exploitatie van de betreffende infrastructuur heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds. Hij bezorgt daarbij aan het Fonds ook het stuk waaruit blijkt dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, eerste lid, van dit besluit. Als volgens het gemeen recht een authentieke akte vereist is, betreft het een authentieke akte, anders betreft het een geregistreerde onderhandse akte.
+Het strategisch forfait kan pas worden toegekend vanaf de datum van ingebruikname van de infrastructuur waarvan het forfait de investeringskosten dekt, op zijn vroegst vanaf het jaar 2017. Als de infrastructuur in gebruik wordt genomen in het laatste trimester van een jaar, kan het strategisch forfait voor dat jaar in het daaropvolgende jaar worden uitbetaald. Voor het jaar van de ingebruikname van de infrastructuur wordt het volledige bedrag van het jaarlijkse strategisch forfait toegekend, ongeacht de datum van de ingebruikname.<br>
+<br>
+Nadat de aanvrager de exploitatie van de infrastructuur in kwestie heeft opgestart, deelt hij de opstartdatum onmiddellijk mee aan het Fonds. Hij bezorgt daarbij aan het Fonds ook het stuk waaruit blijkt dat de aanvrager over een genotsrecht beschikt als vermeld in artikel 3, eerste lid. Als volgens het gemeen recht een authentieke akte vereist is, betreft het een authentieke akte, anders betreft het een geregistreerde onderhandse akte.
 
 ### ART 16.
 
@@ -356,7 +358,7 @@ Het Fonds brengt de aanvrager op de hoogte van de opstartbeslissing over de toek
 
 Na de ondertekening van de opstartbeslissing tot toekenning van een strategisch forfait stelt de leidend ambtenaar van het Fonds conform het tweede lid jaarlijks het bedrag van het strategisch forfait vast op naam van de aanvrager. Het Fonds betaalt het bedrag jaarlijks uit.<br>
 <br>
-Het bedrag van het jaarlijkse strategisch forfait wordt vastgesteld conform artikel 6, 7 en 14 tot en met 17 van het besluit van 14 juli 2017.<br>
+Het bedrag van het jaarlijkse strategisch forfait wordt vastgesteld conform&nbsp;artikel 6 tot en met 7 en 14 tot en met 17 van het besluit van 14 juli 2017.<br>
 <br>
 Het Fonds deelt de berekening van het jaarlijkse strategisch forfait mee aan de aanvrager.<br>
 <br>
@@ -366,9 +368,7 @@ Als de aanvrager geen bezwaar heeft ingediend conform het vierde lid, wordt hij 
 
 ### ART 20.
 
-Voor het jaar van de ingebruikname van de infrastructuur wordt het volledige bedrag van het jaarlijkse strategisch forfait toegekend, ongeacht de datum van de ingebruikname.<br>
-<br>
-Vanaf het tweede jaar van de toekenning van het jaarlijkse strategisch forfait wordt dat forfait berekend op basis van het aantal bedden, plaatsen en eenheden die het ziekenhuis in gebruik heeft op 1 januari van het jaar waarop het forfait betrekking heeft.
+...
 
 ### ART 21.
 
@@ -416,23 +416,13 @@ De aanvrager bezorgt de aanvraag, de informatie of de stukken, met inbegrip van 
 
 ### ART 27.
 
-Het Fonds betaalt het jaarlijkse instandhoudingsforfait uit in het jaar waarop het forfait betrekking heeft.<br>
-<br>
-Het jaarlijkse instandhoudingsforfait is gelijk aan het bedrag dat wordt verkregen door toepassing van de bepalingen van hoofdstuk 3 van het besluit van 14 juli 2017 op het aantal bedden, plaatsen en eenheden die voor het ziekenhuis op 1 januari van het jaar waarop het forfait betrekking heeft, erkend zijn. Wat de hierna vermelde plaatsen of eenheden betreft, worden de bepalingen van hoofdstuk 3 van het besluit van 14 juli 2017 echter toegepast op het aantal dat voor het ziekenhuis in gebruik heeft op de daarnaast vermelde datum of tijdens de daarnaast vermelde periode:<br>
-1° plaatsen dagziekenhuis in algemene of universitaire ziekenhuizen: het aantal verantwoorde plaatsen tijdens het tweede jaar dat voorafgaat aan het jaar waarop het forfait betrekking heeft;<br>
-2° OK-zalen in algemene of universitaire ziekenhuizen: het aantal weerhouden zalen op 1 juli van het jaar dat voorafgaat aan het jaar waarop het forfait betrekking heeft;<br>
-3° verloskwartier en N-functie in algemene of universitaire ziekenhuizen: het aantal verlossingen tijdens het tweede jaar dat voorafgaat aan het jaar waarop het forfait betrekking heeft;<br>
-4° bunker in algemene of universitaire ziekenhuizen, voor zover het lineaire versnellers betreft: het aantal lineaire versnellers tijdens het tweede jaar dat voorafgaat aan het jaar waarop het forfait betrekking heeft. De lineaire versnellers worden toegerekend aan de ziekenhuizen die beschikken over een erkenning voor die versnellers.<br>
-<br>
-Voor de toepassing van artikel 12, tweede lid, 1° tot en met 4°, 6° en 7°, van het besluit van 14 juli 2017 worden de bedragen voor afschrijving in aanmerking genomen op 1 juli van het jaar dat voorafgaat aan het jaar waarop het forfait betrekking heeft.<br>
-<br>
-In afwijking van het tweede lid, 4°, wordt voor de berekening van het instandhoudingsforfait voor het jaar 2017 het aantal lineaire versnellers in aanmerking genomen tijdens het jaar 2016.
+...
 
 ### ART 28.
 
-Het Fonds bezorgt de berekening van het jaarlijkse instandhoudingsforfait, vermeld in artikel 27, tweede lid, aan de exploitant van het ziekenhuis. Als de exploitant niet akkoord gaat met die berekening, kan hij binnen dertig dagen na de ontvangst van die berekening op elektronische wijze bezwaar aantekenen bij het Fonds. De beslissing van de leidend ambtenaar van het Fonds over het bezwaar wordt binnen dertig dagen na de ontvangst van het bezwaar aan de exploitant meegedeeld.<br>
+Het Fonds bezorgt de berekening van het jaarlijkse instandhoudingsforfait, vermeld in hoofdstuk 3 van het besluit van 14 juli 2017, aan de exploitant van het ziekenhuis. Als de exploitant niet akkoord gaat met die berekening, kan hij binnen dertig dagen na de ontvangst van die berekening op elektronische wijze bezwaar aantekenen bij het Fonds. De beslissing van de leidend ambtenaar van het Fonds over het bezwaar wordt binnen dertig dagen na de ontvangst van het bezwaar aan de exploitant meegedeeld.<br>
 <br>
-Als de exploitant geen bezwaar heeft ingediend conform het eerste lid, wordt hij van rechtswege vermoed akkoord te gaan met de berekening van het jaarlijkse instandhoudingsforfait, vermeld in artikel 27, tweede lid.
+Als de exploitant geen bezwaar heeft ingediend conform het eerste lid, wordt hij van rechtswege vermoed akkoord te gaan met de berekening van het jaarlijkse instandhoudingsforfait, vermeld in hoofdstuk 3 van het besluit van 14 juli 2017.
 
 ## HOOFDSTUK 4 Gemeenschappelijke bepalingen over het strategisch forfait en het instandhoudingsforfait
 
