@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030471,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot wijziging van het besluit van de Vlaamse Regering van 23 september 2016 houdende eenmalige subsidiëring van de digitale behandeling van de omgevingsvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030471/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "c0a273c1c5ea53b23292d88a6dc741bc64dd2a641c977c4c62c071c89f36c685",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030471&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-12-21",
+  "gazette": "2019-03-27",
+  "numac": 2019011345,
+  "document_start": "2018-12-21",
+  "document_end": null,
+  "in_force": "2018-12-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
