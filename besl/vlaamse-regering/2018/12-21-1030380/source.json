@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030380,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot erkenning van Tersana vzw als bodemsaneringsorganisatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030380/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "58e80e7ae0dd288230d1b31b109a808f483db387b1c90b379f4d6f598190584d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030380&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-12-21",
+  "gazette": "2019-03-11",
+  "numac": 2019040389,
+  "document_start": "2018-12-21",
+  "document_end": "2036-12-31",
+  "in_force": "2018-12-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
