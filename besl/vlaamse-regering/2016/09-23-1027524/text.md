@@ -48,6 +48,14 @@ De subsidie, vermeld in het tweede lid, bedraagt 4500 euro.<br>
 <br>
 Het departement betaalt de subsidie, vermeld in het derde lid, uiterlijk op 31 december 2017 uit aan de provincies en gemeenten die voor 1 juni 2017 zijn ingestapt in de omgevingsvergunning en uiterlijk op 1 juli 2018 aan alle andere gemeenten. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan het departement heeft bezorgd.
 
+### ART 3/1.
+
+Binnen de perken van de daarvoor bestemde kredieten op de begroting van de Vlaamse Gemeenschap wordt een subsidie toegekend aan de Vlaamse gemeenten en de Vlaamse provincies als tegemoetkoming voor de digitale aanpassingen in het kader van de uitbreiding van de omgevingsvergunning met de omgevingsvergunning voor kleinhandelsactiviteiten en vegetatiewijzigingen en in het kader van de herwerkingen van de dossierbehandelingssystemen die informatie uitwisselen met het Omgevingsloket.<br>
+<br>
+De subsidie, vermeld in het eerste lid, bedraagt 4.500 euro per gemeente en per provincie. Met gemeenten worden de gemeenten bedoeld die bestaan op 1 augustus 2018.<br>
+<br>
+Het departement betaalt de subsidie, vermeld in het tweede lid, uiterlijk op 30 juni 2019 uit aan de provincies en de gemeenten. Het subsidiebedrag wordt overgeschreven op het rekeningnummer dat de gemeente of de provincie aan het departement heeft bezorgd.
+
 ### ART 4.
 
 Het besluit van de Vlaamse Regering van 4 april 2014 tot vaststelling van de regels betreffende een eenmalige subsidie aan de gemeenten in het kader van het digitaliseren van het ruimtelijke vergunningenbeleid wordt opgeheven op 1 december 2016.<br>
