@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030381,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 houdende goedkeuring van het subsidiëringsprogramma van de vzw Tersana",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030381/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "bdabe1ee2c780c5cd3a55468813d0fd29758729d3a278fae0f7bb1f06b21a436",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030381&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-12-21",
+  "gazette": "2019-03-11",
+  "numac": 2019040397,
+  "document_start": "2018-12-21",
+  "document_end": null,
+  "in_force": "2018-12-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
