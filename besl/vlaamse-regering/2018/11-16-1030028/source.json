@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030028,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-16 houdende de uitvoering van artikel 5 van het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030028/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "4705621d7d38f8bde82178ff69d0ca4ed3427142764a9f14b8700ecd14ef0052",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030028&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-11-16",
+  "gazette": "2018-12-21",
+  "numac": 2018032487,
+  "document_start": "2018-12-21",
+  "document_end": null,
+  "in_force": "2018-12-21",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
