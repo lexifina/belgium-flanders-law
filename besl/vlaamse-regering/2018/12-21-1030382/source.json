@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030382,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 betreffende de startsubsidiëring van de vzw Tersana",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030382/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "6866110a622a20e9787467df6e4c696c4d63a0ed3f6af9a0d75caa1d04b24f09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030382&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-12-21",
+  "gazette": "2019-03-11",
+  "numac": 2019040398,
+  "document_start": "2018-12-21",
+  "document_end": null,
+  "in_force": "2018-12-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
