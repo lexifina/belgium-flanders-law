@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030147,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot toekenning van een subsidie aan de sociale huisvestingsmaatschappijen die actief bezig zijn met de bouw en renovatie van sociale huurwoningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030147/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "f35ebfab99b3c830dad0d1b8b71797fb8083dbcfe976c1341acb1f94a448efef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030147&param=informatie",
+  "as_of": "2018-12-21",
+  "made": "2018-12-21",
+  "gazette": "2019-01-25",
+  "numac": 2019030015,
+  "document_start": "2018-12-21",
+  "document_end": null,
+  "in_force": "2018-12-21",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2018-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
