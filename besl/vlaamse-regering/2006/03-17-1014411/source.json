@@ -2,16 +2,16 @@
   "codex_id": 1014411,
   "title": "Besluit van de Vlaamse Regering van 2006-03-17 houdende de oprichting van de onafhankelijke commissie, belast met de bepaling, actualisering en voortgangsbewaking van de minimumkwaliteitseisen voor het niet-dringend liggend ziekenvervoer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014411/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "11605f5aef9ed12f60ff142483f07a7c53ec379f320a5ac25d061812d59410e9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014411/VolledigDocument?datum=2018-12-21",
+  "source_sha256": "93068855d2cb9246afabbff3c8372a704ed647e7a0984b093c7f5ba7b450ec1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014411&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2018-12-21",
   "made": "2006-03-17",
   "gazette": "2006-04-06",
   "numac": 2006035504,
   "document_start": null,
   "document_end": "2018-12-20",
-  "in_force": "2006-06-01",
+  "in_force": "2018-12-21",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-21; future article versions excluded; article text as the API gives it"
 }
