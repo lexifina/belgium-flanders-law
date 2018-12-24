@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029511,
+  "title": "Samenwerkingsakkoord van 2018-02-02 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029511/VolledigDocument?datum=2018-12-24",
+  "source_sha256": "d76f73579fa1652d391a29eed45cc6c423e31dcfb3259da1cddc124adc106e2b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029511&param=informatie",
+  "as_of": "2018-12-24",
+  "made": "2018-02-02",
+  "gazette": "2018-12-24",
+  "numac": 2018015287,
+  "document_start": "2018-12-24",
+  "document_end": null,
+  "in_force": "2018-12-24",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2018-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
