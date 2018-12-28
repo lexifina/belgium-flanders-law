@@ -44,3 +44,17 @@ Artikel 14 van het koninklijk besluit van 10 augustus 2005 tot vaststelling van 
 "Voor de toepassing van dit artikel wordt geen rekening gehouden met de in juli, augustus en september via een studentenovereenkomst verdiende inkomsten uit winstgevende activiteiten van de kinderen die daartoe gemachtigd zijn overeenkomstig artikel 1, 2°, tweede en derde zin, van het koninklijk besluit van 14 juli 1995 waarbij sommige categorieën studenten uit het toepassingsgebied van Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten worden gesloten, behalve wat betreft de in artikelen 7 en 12 bedoelde kinderen.".
 
 ## HOOFDSTUK 3. Inwerkingtreding van het samenwerkingsakkoord
+
+### ART 6.
+
+De inwerkingtreding van de bepalingen van dit samenwerkingsakkoord wordt als volgt vastgelegd :<br>
+1° met betrekking tot hoofdstuk 1 treden artikelen 1 tot 3 op 1 januari 2018 in werking;<br>
+2° met betrekking tot hoofdstuk 2 hebben artikelen 4 en 5 op 1 juli 2017 uitwerking.
+
+### ART 7.
+
+Dit samenwerkingsakkoord heeft uitwerking na goedkeuring door de respectievelijke bevoegde wetgevers, met ingang van de dag waarop de laatste goedkeuring in het Belgisch Staatsblad wordt bekendgemaakt.
+
+### ART 8.
+
+Dit samenwerkingsakkoord heeft niet tot gevolg dat de wijzigingen die het aan de regelgevende teksten aanbrengt de aard van die teksten wijzigen.

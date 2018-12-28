@@ -2,16 +2,16 @@
   "codex_id": 1028934,
   "title": "Samenwerkingsakkoord van 2017-12-29 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de verhoging van de inkomensgrensbedragen en de vrijstelling van de inkomsten uit een winstgevende activiteit uitgeoefend in het kader van een studentenovereenkomst voor studenten die een alternerende opleiding volgen en die door een leerovereenkomst verbonden zijn",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028934/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "40229ed83d72c9acbc1b3ed0529333fd60242dbf0e830cf8fc0bd9a4a72ab45a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028934/VolledigDocument?datum=2018-12-28",
+  "source_sha256": "d2c2acee8bb8feede0f4f51ebcc5f95848f47d9ed25c0e84d7702112ac7c2b46",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028934&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2018-12-28",
   "made": "2017-12-29",
   "gazette": "2018-01-26",
   "numac": 2018030146,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-01-01",
-  "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-12-28",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-12-28; future article versions excluded; article text as the API gives it"
 }
