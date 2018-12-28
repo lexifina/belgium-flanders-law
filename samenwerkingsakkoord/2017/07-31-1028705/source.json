@@ -2,16 +2,16 @@
   "codex_id": 1028705,
   "title": "Samenwerkingsakkoord van 2017-07-31 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de wijziging van het koninklijk besluit van 12 augustus 1985 tot uitvoering van artikel 62, § 5, van de Algemene kinderbijslagwet en de wijziging van het koninklijk besluit van 26 maart 1965 betreffende de kinderbijslag voor bepaalde categorieën van het door de staat bezoldigd personeel alsmede voor de personeelsleden van het operationeel kader en van het administratief en logistiek kader van de korpsen van de lokale politie",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028705/VolledigDocument?datum=2017-07-31",
-  "source_sha256": "8ad669608a13602a9201d7e961140e30be4f01d80eafde27348492bc8fcbc2ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028705/VolledigDocument?datum=2018-12-28",
+  "source_sha256": "77e8ffdaf14701acee79abb1e8668c29730c614846dffc132a9bc8288876cea5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028705&param=informatie",
-  "as_of": "2017-07-31",
+  "as_of": "2018-12-28",
   "made": "2017-07-31",
   "gazette": "2017-10-27",
   "numac": 2017013692,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-07-31",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2017-07-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2018-12-28",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2018-12-28; future article versions excluded; article text as the API gives it"
 }

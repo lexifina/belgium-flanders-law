@@ -29,6 +29,13 @@ Bepalingen<br>
 
 ## HOOFDSTUK 1 Definities
 
+### ART 1.
+
+Voor de toepassing van dit samenwerkingsakkoord wordt verstaan onder:<br>
+- deelentiteiten: de Gemeenschappelijke Gemeenschapscommissie, voor de gebiedsomschrijving van het tweetalige gebied Brussel-Hoofdstad; de Vlaamse Gemeenschap, voor de gebiedsomschrijving van het Nederlandse taalgebied; het Waalse Gewest, voor de gebiedsomschrijving van het Franse taalgebied en de Duitstalige Gemeenschap, voor de gebiedsomschrijving van het Duitse taalgebied;<br>
+- de bevoegde wetgevers: de wetgevers van de Vlaamse Gemeenschap, het Waalse Gewest, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie.<br>
+&nbsp;
+
 ## HOOFDSTUK 2 Wijziging van het koninklijk besluit van 12 augustus 1985 tot uitvoering van artikel 62, § 5, van de Algemene kinderbijslagwet
 
 ### ART 2.
@@ -52,3 +59,20 @@ Voor de maanden na december 2017 worden de kinderbijslagen bedoeld bij artikel 1
 &nbsp;
 
 ## HOOFDSTUK 4 Inwerkingtreding van het samenwerkingsakkoord
+
+### ART 4.
+
+De inwerkingtreding van de bepalingen van dit samenwerkingsakkoord wordt als volgt vastgelegd:<br>
+1 ° met betrekking tot hoofdstuk 2 heeft artikel 2 uitwerking met ingang van 1 januari 2016;<br>
+2° met betrekking tot hoofdstuk 3 heeft artikel 3 uitwerking op de dag van de ondertekening van dit samenwerkingsakkoord.<br>
+&nbsp;
+
+### ART 5.
+
+Dit samenwerkingsakkoord heeft uitwerking na goedkeuring door de respectievelijke bevoegde wetgevers, met ingang van de dag waarop de laatste goedkeuring in het Belgisch Staatsblad wordt bekendgemaakt.<br>
+&nbsp;
+
+### ART 6.
+
+Dit samenwerkingsakkoord heeft niet tot gevolg dat de wijzigingen die het aan de regelgevende teksten aanbrengt de aard van die teksten wijzigen.<br>
+&nbsp;
