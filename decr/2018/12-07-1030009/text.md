@@ -18,6 +18,29 @@
 
 ## Afdeling 2. Principes voor informeren en participeren
 
+### ART II.7.
+
+De burger krijgt, zelf of via zijn gemandateerde, een geconsolideerde en burgergerichte toegang tot de gegevens die op hem betrekking hebben en waarover de overheidsinstanties, vermeld in artikel II.1, beschikken.<br>
+<br>
+Onder gegevens waarover de overheidsinstanties, vermeld in artikel II.1, beschikken wordt verstaan: gegevens die beheerd of verwerkt worden door een overheidsinstantie als vermeld in artikel II.1, of gegevens die beheerd of verwerkt worden door een externe overheid waartoe een overheidsinstantie als vermeld in artikel II.1, toegang heeft.<br>
+<br>
+Het gaat onder meer om:<br>
+1° gegevens over natuurlijke personen of rechtspersonen;<br>
+2° informatie over lopende dossiers;<br>
+3° informatie over rechten die voortvloeien uit regelgeving en die kunnen afgeleid worden uit de gegevens, vermeld in punt 1°.<br>
+<br>
+Persoonsgegevens worden verwerkt met inachtneming van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, en in het bijzonder die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of deelstatelijk niveau verder zijn of worden gespecificeerd.<br>
+<br>
+De toegang, vermeld in het eerste lid, geldt niet ten aanzien van de overheidsinstanties en de externe overheden die met toepassing van artikel 23, lid 1, e) en h), van de algemene verordening gegevensbescherming hebben gebruikgemaakt van de mogelijkheid om de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon overeenkomstig de specifieke decretale bepalingen ter uitvoering van voormelde verordeningsbepaling.<br>
+<br>
+Deze toegang mag alleen gebruikt worden door de burger om toegang te krijgen tot zijn gegevens en mag voor geen enkel ander doeleinde worden gebruikt.<br>
+<br>
+De manier en de nadere inhoud van de toegang wordt bepaald door het agentschap Informatie Vlaanderen in overleg met de betrokken overheidsinstanties en externe overheden.<br>
+<br>
+In afwijking van het zevende lid, duidt de Vlaamse Regering aan welke overheidsinstantie de manier en de nadere inhoud van de toegang tot gegevens met betrekking tot rechtspersonen en natuurlijke personen in hun hoedanigheid van ondernemer bepaalt in overleg met de betrokken overheidsinstanties en externe overheden.<br>
+<br>
+De Vlaamse Regering kan overheidsinstanties als vermeld in artikel II.1, verplichten mee te werken aan het toegankelijk maken van gegevens, en kan ook andere verplichtingen opleggen voor de toegang, vermeld in het eerste lid.
+
 ## Afdeling 3. Normen voor overheidscommunicatie
 
 ## Afdeling 4. Toegankelijkheid van websites en mobiele applicaties
@@ -62,7 +85,40 @@ Op vzw's of stichtingen is artikel II.16 alleen van toepassing als ze diensten v
 
 ## Onderafdeling 1. Algemene bepalingen
 
+### ART II.19.
+
+Deze afdeling regelt de uitwisseling van berichten tussen een overheidsinstantie als vermeld in artikel II.18, en gebruikers in de mate dat die berichten beogen rechtsgevolgen tot stand te brengen bij de toepassing van wettelijke of reglementaire bepalingen.
+
 ## Onderafdeling 2. Elektronische uitwisseling van berichten
+
+### ART II.22.
+
+§ 1. Overheidsinstanties als vermeld in artikel II.18, voorzien voor een procedure in een elektronische weg om berichten uit te wisselen met gebruikers, ook als de toepasselijke regelgeving alleen voorziet in de uitwisseling via analoge weg, vanaf het moment waarop de overheidsinstantie de beslissing dat elektronische uitwisseling mogelijk is voor de procedure, heeft bekendgemaakt.<br>
+<br>
+De overheidsinstanties, vermeld in artikel II.18, kunnen beperkingen en technische eisen opleggen aan de uitwisseling via elektronische weg.<br>
+<br>
+De Vlaamse Regering kan overheidsinstanties als vermeld in artikel II.18, verplichten om in procedures uitwisseling van berichten via elektronische weg mogelijk te maken.<br>
+<br>
+§ 2. Als de toepasselijke regelgeving niet voorziet in elektronische uitwisseling van berichten, gelden de volgende voorwaarden voor de elektronische uitwisseling met burgers of externe overheden:<br>
+1° de overheidsinstanties, vermeld in artikel II.18, moeten burgers en externe overheden vooraf informeren over de te volgen procedures en over de rechtsgevolgen die de elektronische uitwisseling heeft;<br>
+2° de burgers of externe overheden moeten vooraf uitdrukkelijk ingestemd hebben met de uitwisseling van berichten via elektronische weg;<br>
+3° de burgers en externe overheden moeten die instemming op elk moment kunnen intrekken.<br>
+<br>
+§ 3. De overheidsinstanties, vermeld in artikel II.18, die berichten via elektronische weg uitwisselen, garanderen voor de elektronische communicatie een voldoende graad van informatieveiligheid en onweerlegbaarheid.<br>
+<br>
+Ze stellen maatregelen vast die aangepast zijn aan de omstandigheden en die gelijkwaardige garanties bieden voor informatieveiligheid en onweerlegbaarheid als de uitwisseling op analoge dragers. Die maatregelen worden bekendgemaakt.<br>
+<br>
+De Vlaamse Regering kan de minimumnormen bepalen waaraan de maatregelen, vermeld in het tweede lid, moeten voldoen.<br>
+<br>
+§ 4. Onder de voorwaarden, vermeld in paragraaf 1, 2 en 3, brengt de uitwisseling via elektronische weg dezelfde rechtsgevolgen tot stand als de uitwisseling op analoge dragers.
+
+### ART II.23.
+
+Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht door een overheidsinstantie als vermeld in artikel II.18, elektronisch is verzonden aan de geadresseerde, het tijdstip waarop het bericht het informatiesysteem verlaat dat de overheidsinstantie gebruikt. Als de overheidsinstantie en de geadresseerde gebruikmaken van hetzelfde informatiesysteem, geldt het tijdstip waarop het bericht toegankelijk wordt voor de geadresseerde als tijdstip van verzending door de overheidsinstantie en als tijdstip van ontvangst door de geadresseerde.<br>
+<br>
+Tenzij het anders voorzien is in de toepasselijke regelgeving, geldt als tijdstip waarop een bericht elektronisch is ontvangen door een overheidsinstantie als vermeld in artikel II.18, het tijdstip waarop het bericht het informatiesysteem dat die overheidsinstantie gebruikt, bereikt.<br>
+<br>
+Als de overheidsinstantie, vermeld in artikel II.18, en de geadresseerde gebruikmaken van hetzelfde informatiesysteem geldt een elektronisch bericht als aangetekende zending.
 
 ## Afdeling 3. Bestuurshandelingen in elektronische vorm
 
