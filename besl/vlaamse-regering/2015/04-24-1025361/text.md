@@ -30,7 +30,7 @@ In   dit besluit wordt verstaan onder:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: no
 
 ### ART. 2.
 
-Het   hoofd van het Departement Landbouw en Visserij kan de aangelegenheden die   conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van   het departement vallen, subdelegeren aan personeelsleden van het departement die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## HOOFDSTUK 2 Innovatiesteun
 
@@ -48,7 +48,16 @@ De   toegekende steun bedraagt 40% voor de uitgaven zoals vermeld in artikel 4 e
 
 ### ART. 6.
 
-<P>De   volgende kandidaat-begunstigden komen in aanmerking:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de landbouwers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de groepen van landbouwers.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid, 2°, wordt verstaan onder groep van landbouwers: een   rechtspersoon die aan de volgende voorwaarden voldoet:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de hoofdactiviteit betreft een van de volgende activiteiten:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   de kweek, opkweek of teelt van landbouwproducten, of de respectieve ontwikkeling   en verbetering daarvan;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de verwerking of afzet van die landbouwproducten of van landbouwproducten die   voor minstens 50% afkomstig zijn van de vennoten die landbouwer zijn, of de   respectieve ontwikkeling en verbetering van die verwerking of afzet;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   minstens de helft van de vennoten is landbouwer en meer dan de helft van het   stemrecht is in hun handen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de maatschappelijke zetel of de exploitatiezetel ligt in het Vlaamse   Gewest.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De volgende kandidaat-begunstigden komen in aanmerking:<br>
+1° de landbouwers;<br>
+2° de groepen van landbouwers.</p>
+
+<p>In het eerste lid, 2°, wordt verstaan onder groep van landbouwers: een rechtspersoon die aan de volgende voorwaarden voldoet:<br>
+1° de hoofdactiviteit betreft een van de volgende activiteiten:<br>
+a) de kweek, opkweek of teelt van landbouwproducten, of de respectieve ontwikkeling en verbetering daarvan;<br>
+b) de verwerking of afzet van die landbouwproducten of van landbouwproducten die voor minstens 50% afkomstig zijn van de vennoten die landbouwer zijn, of de respectieve ontwikkeling en verbetering van die verwerking of afzet;<br>
+2° al de vennoten zijn landbouwer;<br>
+3° de maatschappelijke zetel of de exploitatiezetel ligt in het Vlaamse Gewest.</p>
 
 ## HOOFDSTUK 3 Organisatie van de steunverlening
 
@@ -70,7 +79,15 @@ De   toegekende steun bedraagt 40% voor de uitgaven zoals vermeld in artikel 4 e
 
 ### ART. 10.
 
-De   toegekende steun wordt uitbetaald in maximaal twee schijven na de indiening van   een aanvraag tot uitbetaling:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een eerste schijf kan worden uitbetaald na de voorlegging van facturen en   betalingsbewijzen die minstens 30% en maximaal 75% van de toegekende steun   vertegenwoordigen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het saldo of de totaliteit van de steun wordt uitbetaald na de voorlegging van   alle resterende facturen en betalingsbewijzen en nadat een controle ter plaatse   heeft plaatsgevonden en aan alle voorwaarden is voldaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De toegekende steun wordt uitbetaald in één schijf na de indiening van een aanvraag van uitbetaling.<br>
+<br>
+De steun wordt uitbetaald na de voorlegging van alle facturen en betalingsbewijzen, en nadat een controle ter plaatse heeft plaatsgevonden waaruit blijkt dat aan alle voorwaarden is voldaan.
+
+### ART 10/1.
+
+De steun is pas verworven als de gesubsidieerde investeringen in gebruik worden gehouden voor de doeleinden waarvoor de steun is toegekend gedurende minimaal vijf jaar na de eindbetaling.<br>
+<br>
+Als de minimale periode van gebruik voor de doeleinden waarvoor de steun is toegekend, niet wordt bereikt, wordt de steun herberekend en in verhouding teruggevorderd.
 
 ## HOOFDSTUK 6 Slotbepaling
 
