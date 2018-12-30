@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder :<BR>1° teeltmateriaal : zaad,   plantendel
 
 ### ART. 2/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK II. Voorschriften voor teeltmateriaal en fruitgewassen
 
@@ -66,7 +66,13 @@ In geval van tijdelijke moeilijkheden bij de levering van teeltmateriaal of frui
 
 ### ART. 12.
 
-§ 1. De bevoegde entiteit kan beslissen overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap of teeltmateriaal en fruitgewassen die in een derde land zijn geproduceerd en dezelfde garanties bieden inzake verplichtingen van de leverancier, identiteit, kenmerken, substraat, verpakking, voorschriften met betrekking tot inspectie, waarmerking en plombering, in al deze opzichten gelijkwaardig zijn aan teeltmateriaal en fruitgewassen die in de Europese Gemeenschap zijn geproduceerd en aan de eisen en voorschriften van de richtlijn voldoen.<br /><br />§ 2. In afwachting van paragraaf 1 en tot 31 december 2010, kan de bevoegde entiteit met behoud van de toepassing van koninklijk besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen voorwaarden toepassen die tenminste gelijkwaardig zijn aan de voorwaarden die op tijdelijke of permanente basis zijn opgenomen in de artikel 4 vermelde specifieke voorschriften. Indien in deze specifieke voorschriften niet in dergelijke voorwaarden is voorzien, dienen de voorwaarden voor de invoer tenminste gelijkwaardig te zijn aan de voorwaarden die zijn vastgesteld overeenkomstig dit besluit.<br /><br />§ 3. In afwachting van paragraaf 1 kan de termijn van paragraaf 2 verlengd worden overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap voor de onderscheiden derde landen.<br /><br />§ 4. Voor teeltmateriaal en fruitgewassen die door een ander gewest of een andere lidstaat worden ingevoerd overeenkomstig een besluit dat dit gewest of die lidstaat overeenkomstig § 1 heeft genomen, gelden ten aanzien van de in § 1 vermelde punten geen beperkingen ten aanzien van het in de handel brengen.
+§ 1. De bevoegde entiteit kan beslissen overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap of teeltmateriaal en fruitgewassen die in een derde land zijn geproduceerd en dezelfde garanties bieden inzake verplichtingen van de leverancier, identiteit, kenmerken, substraat, verpakking, voorschriften met betrekking tot inspectie, waarmerking en plombering, in al deze opzichten gelijkwaardig zijn aan teeltmateriaal en fruitgewassen die in de Europese Gemeenschap zijn geproduceerd en aan de eisen en voorschriften van de richtlijn voldoen.<br>
+<br>
+§ 2. In afwachting van paragraaf 1 en tot 31 december 2018, kan de bevoegde entiteit met behoud van de toepassing van koninklijk besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen voorwaarden toepassen die tenminste gelijkwaardig zijn aan de voorwaarden die op tijdelijke of permanente basis zijn opgenomen in de artikel 4 vermelde specifieke voorschriften. Indien in deze specifieke voorschriften niet in dergelijke voorwaarden is voorzien, dienen de voorwaarden voor de invoer tenminste gelijkwaardig te zijn aan de voorwaarden die zijn vastgesteld overeenkomstig dit besluit.<br>
+<br>
+§ 3. In afwachting van paragraaf 1 kan de termijn van paragraaf 2 verlengd worden overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap voor de onderscheiden derde landen.<br>
+<br>
+§ 4. Voor teeltmateriaal en fruitgewassen die door een ander gewest of een andere lidstaat worden ingevoerd overeenkomstig een besluit dat dit gewest of die lidstaat overeenkomstig § 1 heeft genomen, gelden ten aanzien van de in § 1 vermelde punten geen beperkingen ten aanzien van het in de handel brengen.
 
 ## HOOFDSTUK VII. Controlemaatregelen
 
@@ -102,7 +108,7 @@ Bij wijze van overgangsmaatregel kan tot en met 31 december 2018 toestemming ver
 
 ### ART. 20.
 
-De inbreuken op de bepalingen van dit besluit worden opgespoord, vastgesteld, vervolgd en bestraft in overeenstemming met wat is bepaald in de wet van 11 juli 1969 betreffende de bestrijdingsmiddelen en de grondstoffen voor de landbouw, tuinbouw, bosbouw en veeteelt.
+...
 
 ### ART. 21.
 

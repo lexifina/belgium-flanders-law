@@ -2,16 +2,16 @@
   "codex_id": 1018819,
   "title": "Besluit van de Vlaamse Regering van 2010-01-22 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018819/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "51c17a67ea15271a5b31caca874cbc5394a6b7821f1cb71b776b4905a42d9c44",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018819/VolledigDocument?datum=2018-12-30",
+  "source_sha256": "4c98ceaace7d934312c35d75e04ff8a2e3d22a38845dce26b91e222bdbb271c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018819&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-12-30",
   "made": "2010-01-22",
   "gazette": "2010-03-10",
   "numac": 2010035181,
   "document_start": "2012-09-30",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2018-12-30",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
 }
