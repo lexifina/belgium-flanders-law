@@ -8,7 +8,36 @@
 
 ### ART. 1.
 
-<P>In dit besluit wordt verstaan onder :<BR>1° bruto warm karkasgewicht: het   gewicht van het karkas op het moment van de weging op de slachtlijn, met   inbegrip van de tarra;<BR>1°/1 CBKc : de cel Begeleiding Karkasclassificatie van   de Universiteit Gent;<BR>2° identificatienummer :<BR>a) van een rund : het   identificatienummer, vermeld in artikel 1, 6°, van het koninklijk besluit van 23   maart 2011 tot vaststelling van een identificatie- en registratieregeling voor   runderen;<BR>b) van een varken : de identificatiegegevens van het levende dier,   afkomstig uit een andere lidstaat of ingevoerd uit een derde land, en geslacht   in een inrichting in het Vlaamse Gewest;<BR>3° indelingsresultaten :<BR>a) van   een volwassen rund : de gegevens die betrekking hebben op de categorie, de   bevleesdheid, de vetbedekking, de aanbiedingsvorm, het warme karkasgewicht en de   erkende classificeerder of in voorkomend geval de vermelding dat de indeling is   verricht met een geautomatiseerde indelingsmethode;<BR>b) van een varken : de   gegevens die betrekking hebben op het percentage mager vlees, het warme   karkasgewicht, de conformatie en de erkende classificeerder of in voorkomend   geval de vermelding dat de indeling is verricht met een geautomatiseerde   indelingsmethode;<BR>4° individualiseringsnummer : het merkteken tot   individualisering, als vermeld in het ministerieel besluit van 28 augustus 1973   tot vervanging van het ministerieel besluit nr. 12, van 14 november 1972, met   betrekking tot de automatische weegtoestellen te gebruiken in slachthuizen voor   de toepassing van de belasting over de toegevoegde waarde;<BR>5° inrichting : de   slachtinrichting waar runderen of varkens worden geslacht;<BR>6° IVB : de vzw   Interprofessionele Vereniging voor het Belgisch vlees;<BR>7° klopnummer : de   code van het varkensbeslag die met een erkende klophamerstempel op beide flanken   van het slachtvarken moet worden aangebracht binnen vijf dagen voor het vertrek   uit het beslag;<BR>8° leverancier : de eigenaar van het dier, vermeld in artikel   1, § 1, 3°, van het ministerieel besluit van 28 september 2010 betreffende het   geïnformatiseerd register in de slachthuizen;<BR>9° minister : de Vlaamse   minister, bevoegd voor het landbouwbeleid en de zeevisserij;<BR>10° omgerekende   karkasgewicht : het karkasgewicht van een geslacht volwassen rund als het zou   aangeboden zijn met aanbiedingsvorm "0", omgerekend door op het warme   karkasgewicht de in bijlage 1 vermelde correctiecoëfficiënten toe te   passen;<BR>11° paspoort van het volwassen rund : het paspoort, vermeld in   artikel 1, 21°, van het koninklijk besluit van 23 maart 2011 tot vaststelling   van een identificatie- en registratieregeling voor runderen;<BR>12° producent   :<BR>a) van runderen : de verantwoordelijke van het veebeslag, waar het dier het   laatst is verbleven, die vermeld staat op het paspoort van het rund dat   aangemeld is bij de inrichting;<BR>b) van varkens : de fysieke persoon of   rechtspersoon aan wie het klopnummer is toegekend;<BR>12° /1 tarra: het gewicht   van de slachthaak of -haken waaraan het karkas in kwestie is opgehangen bij de   weging van het karkas in kwestie op de slachtlijn;<BR>13° volwassen rund : een   rund dat bij de slacht ten minste twaalf maanden oud is;<BR>14° verificatie : de   controle die de inrichting met behulp van sjablonen uitvoert om na te gaan of de   indelingstoestellen correcte metingen verrichten;<BR>15° verordening (EG) nr.   1234/2007 : verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007   houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke   bepalingen voor een aantal landbouwproducten   ("Integrale-GMO-verordening");<BR>16° verordening (EG) nr. 1249/2008 :   verordening (EG) nr. 1249/2008 van de Commissie van 10 december 2008 tot   vaststelling van de uitvoeringsbepalingen voor de communautaire   indelingsschema's voor runder-, varkens- en schapenkarkassen en voor de   mededeling van de prijzen daarvan;<BR>16° /1 warm karkasgewicht: het bruto warme   karkasgewicht, verminderd met de tarra;<BR>17° wet van 28 maart 1975 : de wet   van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en   zeevisserijproducten.<BR></P>  <P>Het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw   en Visserij wordt aangewezen als bevoegde autoriteit in de zin van dit besluit.   Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.</P>
+<p>In dit besluit wordt verstaan onder :<br>
+1° bruto warm karkasgewicht: het gewicht van het karkas op het moment van de weging op de slachtlijn, met inbegrip van de tarra;<br>
+1°/1 CBKc : de cel Begeleiding Karkasclassificatie van de Universiteit Gent;<br>
+2° identificatienummer :<br>
+a) van een rund : het identificatienummer, vermeld in artikel 1, 6°, van het koninklijk besluit van 23 maart 2011 tot vaststelling van een identificatie- en registratieregeling voor runderen;<br>
+b) van een varken : de identificatiegegevens van het levende dier, afkomstig uit een andere lidstaat of ingevoerd uit een derde land, en geslacht in een inrichting in het Vlaamse Gewest;<br>
+3° indelingsresultaten :<br>
+a) van een volwassen rund : de gegevens die betrekking hebben op de categorie, de bevleesdheid, de vetbedekking, de aanbiedingsvorm, het warme karkasgewicht en de erkende classificeerder of in voorkomend geval de vermelding dat de indeling is verricht met een geautomatiseerde indelingsmethode;<br>
+b) van een varken : de gegevens die betrekking hebben op het percentage mager vlees, het warme karkasgewicht, de conformatie en de erkende classificeerder of in voorkomend geval de vermelding dat de indeling is verricht met een geautomatiseerde indelingsmethode;<br>
+4° individualiseringsnummer : het merkteken tot individualisering, als vermeld in het ministerieel besluit van 28 augustus 1973 tot vervanging van het ministerieel besluit nr. 12, van 14 november 1972, met betrekking tot de automatische weegtoestellen te gebruiken in slachthuizen voor de toepassing van de belasting over de toegevoegde waarde;<br>
+5° inrichting : de slachtinrichting waar runderen of varkens worden geslacht;<br>
+6° IVB : de vzw Interprofessionele Vereniging voor het Belgisch vlees;<br>
+7° klopnummer : de code van het varkensbeslag die met een erkende klophamerstempel op beide flanken van het slachtvarken moet worden aangebracht binnen vijf dagen voor het vertrek uit het beslag;<br>
+8° leverancier : de eigenaar van het dier, vermeld in artikel 1, § 1, 3°, van het ministerieel besluit van 28 september 2010 betreffende het geïnformatiseerd register in de slachthuizen;<br>
+9° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br>
+10° omgerekende karkasgewicht : het karkasgewicht van een geslacht volwassen rund als het zou aangeboden zijn met aanbiedingsvorm "0", omgerekend door op het warme karkasgewicht de in bijlage 1 vermelde correctiecoëfficiënten toe te passen;<br>
+11° paspoort van het volwassen rund : het paspoort, vermeld in artikel 1, 21°, van het koninklijk besluit van 23 maart 2011 tot vaststelling van een identificatie- en registratieregeling voor runderen;<br>
+12° producent :<br>
+a) van runderen : de verantwoordelijke van het veebeslag, waar het dier het laatst is verbleven, die vermeld staat op het paspoort van het rund dat aangemeld is bij de inrichting;<br>
+b) van varkens : de fysieke persoon of rechtspersoon aan wie het klopnummer is toegekend;<br>
+12° /1 tarra: het gewicht van de slachthaak of -haken waaraan het karkas in kwestie is opgehangen bij de weging van het karkas in kwestie op de slachtlijn;<br>
+13° volwassen rund : een rund dat bij de slacht ten minste twaalf maanden oud is;<br>
+14° verificatie : de controle die de inrichting met behulp van sjablonen uitvoert om na te gaan of de indelingstoestellen correcte metingen verrichten;<br>
+15° verordening (EG) nr. 1234/2007 : verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten ("Integrale-GMO-verordening");<br>
+16° verordening (EG) nr. 1249/2008 : verordening (EG) nr. 1249/2008 van de Commissie van 10 december 2008 tot vaststelling van de uitvoeringsbepalingen voor de communautaire indelingsschema's voor runder-, varkens- en schapenkarkassen en voor de mededeling van de prijzen daarvan;<br>
+16° /1 warm karkasgewicht: het bruto warme karkasgewicht, verminderd met de tarra;<br>
+17° wet van 28 maart 1975 : de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten;<br>
+18° algemene verordening gegevensbescherming: verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming).</p>
+
+<p>Het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij wordt aangewezen als bevoegde autoriteit in de zin van dit besluit. Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die onder zijn hiërarchisch gezag staan, tot op het meest functionele niveau.</p>
 
 ## [HOOFDSTUK 2 Aanbiedingsvorm en ontvetting van en in te delen runderen (verv. BVR 18 oktober 2019, art. 2, I: 7 december 2019)]
 
@@ -66,7 +95,9 @@ Als karkassen niet worden ingedeeld overeenkomstig dit besluit :<BR>1° is   het
 
 ### ART. 10.
 
-<P>&nbsp;Met toepassing van artikel 5 van verordening (EG) nr. 1249/2008, is de   indeling van geslachte volwassen runderen, vermeld in artikel 6 van dit besluit,   niet bindend voor inrichtingen waar op jaarbasis gemiddeld niet meer dan 75   volwassen runderen per week worden geslacht.<BR></P>  <P>De inrichtingen die toch vrijwillig indelen, doen dat op de wijze, vermeld in   artikel 6 van dit besluit, en melden dat vooraf schriftelijk aan de bevoegde   autoriteit.<BR></P>
+Met toepassing van artikel 2, lid 1, van verordening (EU) nr. 2017/1182 is de indeling van geslachte runderen, vermeld in artikel 6 van dit besluit, niet bindend voor inrichtingen waar op jaarbasis gemiddeld minder dan 75 runderen van ten minste acht maanden oud per week worden geslacht.<br>
+<br>
+De inrichtingen die toch vrijwillig indelen, delen in conform verordening (EU) nr. 1308/2013, verordening (EU) nr. 2017/1182, uitvoeringsverordening (EU) nr. 2017/1184 en dit besluit, en melden dat vooraf schriftelijk aan de bevoegde autoriteit.
 
 ### ART. 11.
 
@@ -88,7 +119,9 @@ De inrichting deelt de runderen die niet ouder zijn dan acht maanden in de   cat
 
 ### ART. 14.
 
-<P>Met toepassing van artikel 20, tweede lid, van verordening (EG) nr.   1249/2008, is de indeling van geslachte varkens, vermeld in artikel 6 van dit   besluit, niet bindend voor de inrichtingen waar op jaarbasis gemiddeld niet meer   dan tweehonderd varkens per week worden geslacht.<BR></P>  <P>De inrichtingen die toch indelen, delen in overeenkomstig de bepalingen van   verordening (EG) nr. 1234/2007, verordening (EG) nr. 1249/2008 en dit besluit,   en melden dat vooraf schriftelijk aan de bevoegde   autoriteit.<BR></P>
+Met toepassing van artikel 2, lid 1, van verordening (EU) nr. 2017/1182 is de indeling van geslachte varkens, vermeld in artikel 6 van dit besluit, niet bindend voor inrichtingen waar op jaarbasis gemiddeld minder dan 200 varkens per week worden geslacht.<br>
+<br>
+De inrichtingen die toch vrijwillig indelen, delen in conform verordening (EU) nr. 1308/2013, verordening (EU) nr. 2017/1182, uitvoeringsverordening (EU) nr. 2017/1184 en dit besluit, en melden dat vooraf schriftelijk aan de bevoegde autoriteit.
 
 ### ART. 15.
 
@@ -196,7 +229,7 @@ De inrichting bezorgt van elk geslacht volwassen rund de volgende   beschikbare 
 
 ### ART. 36.
 
-De IVB wordt voor de verwerking van de persoonsgegevens, vermeld in deze   afdeling en afdeling 3 en 4 van dit hoofdstuk, aangewezen als de verwerker van   persoonsgegevens, vermeld in artikel 1, § 5, van de wet van 8 december 1992 tot   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens. De bevoegde autoriteit is de verantwoordelijke voor de   verwerking, vermeld in artikel 1, § 4, van de voormelde wet.<BR>
+De IVB wordt voor de verwerking van de persoonsgegevens, vermeld in deze afdeling en afdeling 3 en 4 van dit hoofdstuk, aangewezen als de verwerker, vermeld in artikel 4, 8), van de algemene verordening gegevensbescherming. De bevoegde autoriteit is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
 
 ### ART. 37.
 
@@ -220,11 +253,38 @@ De gegevens, vermeld in artikel 37 en 38, en de originele elektronische   bestan
 
 ### ART. 41.
 
-De IVB bezorgt als verwerker van de persoonsgegevens als vermeld in   artikel 36, individuele, gegroepeerde en verwerkte gegevens aan de bevoegde   autoriteit, die verantwoordelijke voor de verwerking is als vermeld in artikel   36. De IVB bezorgt die gegevens kosteloos op elektronische wijze in het formaat   dat bepaald is door de bevoegde autoriteit of via de website van de   IVB.<BR>
+De IVB bezorgt als verwerker van de persoonsgegevens als vermeld in artikel 36, individuele, gegroepeerde en verwerkte gegevens aan de bevoegde autoriteit, die verwerkingsverantwoordelijke is als vermeld in artikel 36. De IVB bezorgt die gegevens kosteloos op elektronische wijze in het formaat dat bepaald is door de bevoegde autoriteit of via de website van de IVB.
 
 ### ART. 42.
 
-<P>§ 1. De IVB kan individuele, gegroepeerde of verwerkte gegevens waarover de   IVB beschikt met toepassing van artikel 37 en 38 van dit besluit, verstrekken   aan andere actoren. Een actor die een elektronische mededeling van gegevens wil   verkrijgen die vallen onder de persoonsgegevens, vermeld in artikel 1, § 1, van   de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten   opzichte van de verwerking van persoonsgegevens, dient daarvoor een aanvraag tot   machtiging van de Vlaamse Toezichtcommissie in, met toepassing van artikel 8 van   het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke   gegevensverkeer.<BR></P>  <P>§ 2. De volgende actoren kunnen in ieder geval overeenkomstig paragraaf 1   individuele gegevens opvragen die noodzakelijk zijn voor de uitoefening van hun   taken :<BR>1° de entiteiten van het beleidsdomein Landbouw en Visserij;<BR>2°   andere entiteiten van de Vlaamse overheid dan de bevoegde autoriteit en de   entiteiten, vermeld in punt 1° ;<BR>3° de federale overheid;<BR>4° andere   gewestelijke instanties;<BR>5° de CBKc;<BR>6° de erkende fokkersverenigingen met   toepassing van het Fokkerijbesluit van 19 maart 2010.<BR></P>  <P>De minister kan bijkomende actoren aanwijzen die in aanmerking komen voor het   opvragen van de individuele gegevens die dienstig zijn voor hen, en die in   aanmerking komen voor het ontvangen van individuele gegevens met toepassing van   paragraaf 1.<BR></P>  <P>§ 3. De volgende actoren kunnen in ieder geval met toepassing van paragraaf 1   verwerkte of gegroepeerde gegevens opvragen die noodzakelijk zijn voor de   uitoefening van hun taken :<BR>1° de entiteiten van het beleidsdomein Landbouw   en Visserij;<BR>2° andere entiteiten van de Vlaamse overheid dan de bevoegde   autoriteit en de entiteiten, vermeld in punt 1° ;<BR>3° de federale   overheid;<BR>4° andere gewestelijke instanties;<BR>5° de CBKc;<BR>6° de erkende   fokkersverenigingen met toepassing van het Fokkerijbesluit 19 maart;<BR>7° de   beroepssectoren die door de minister worden bepaald.<BR></P>  <P>De minister kan bijkomende actoren aanwijzen die in aanmerking komen voor het   opvragen van de verwerkte en gegroepeerde gegevens die dienstig zijn voor hen,   en die in aanmerking om gegroepeerde en verwerkte gegevens met toepassing van   paragraaf 1 te ontvangen.<BR></P>  <P>§ 4. De IVB bezorgt na machtiging door de Vlaamse Toezichtcommissie de   gegevens kosteloos :<BR>1° op elektronische wijze of via de website van IVB aan   de actoren, vermeld in paragraaf 2, eerste lid, 1° en 5°, en paragraaf 3, eerste   lid, 1°, 5° en 7° ;<BR>2° op elektronische wijze aan de actoren, vermeld in   paragraaf 2, eerste lid, 2°, 3°, 4° en 6°, en paragraaf 3, eerste lid, 2°, 3°,   4° en 6°. <BR></P>  <P>De minister bepaalt de wijze waarop de gegevens meegedeeld moeten worden voor   de actoren die aangewezen worden met toepassing van paragraaf 2, tweede lid, en   paragraaf 3, tweede lid.<BR></P>
+<p>§ 1. De IVB kan individuele, gegroepeerde of verwerkte gegevens waarover de IVB beschikt met toepassing van artikel 37 en 38 van dit besluit, verstrekken aan andere actoren. De mededeling van persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming, gebeurt met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing zijn bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder zijn of worden gespecificeerd.</p>
+
+<p>§ 2. De volgende actoren kunnen in ieder geval overeenkomstig paragraaf 1 individuele gegevens opvragen die noodzakelijk zijn voor de uitoefening van hun taken :<br>
+1° de entiteiten van het beleidsdomein Landbouw en Visserij;<br>
+2° andere entiteiten van de Vlaamse overheid dan de bevoegde autoriteit en de entiteiten, vermeld in punt 1° ;<br>
+3° de federale overheid;<br>
+4° andere gewestelijke instanties;<br>
+5° de CBKc;<br>
+6° de erkende fokkersverenigingen met toepassing van het Fokkerijbesluit van 19 maart 2010.</p>
+
+<p>De minister kan bijkomende actoren aanwijzen die in aanmerking komen voor het opvragen van de individuele gegevens die dienstig zijn voor hen, en die in aanmerking komen voor het ontvangen van individuele gegevens met toepassing van paragraaf 1.</p>
+
+<p>§ 3. De volgende actoren kunnen in ieder geval met toepassing van paragraaf 1 verwerkte of gegroepeerde gegevens opvragen die noodzakelijk zijn voor de uitoefening van hun taken :<br>
+1° de entiteiten van het beleidsdomein Landbouw en Visserij;<br>
+2° andere entiteiten van de Vlaamse overheid dan de bevoegde autoriteit en de entiteiten, vermeld in punt 1° ;<br>
+3° de federale overheid;<br>
+4° andere gewestelijke instanties;<br>
+5° de CBKc;<br>
+6° de erkende fokkersverenigingen met toepassing van het Fokkerijbesluit 19 maart;<br>
+7° de beroepssectoren die door de minister worden bepaald.</p>
+
+<p>De minister kan bijkomende actoren aanwijzen die in aanmerking komen voor het opvragen van de verwerkte en gegroepeerde gegevens die dienstig zijn voor hen, en die in aanmerking om gegroepeerde en verwerkte gegevens met toepassing van paragraaf 1 te ontvangen.</p>
+
+<p>§ 4. Met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing zijn bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder zijn of worden gespecificeerd, bezorgt de IVB de gegevens kosteloos :<br>
+1° op elektronische wijze of via de website van IVB aan de actoren, vermeld in paragraaf 2, eerste lid, 1° en 5°, en paragraaf 3, eerste lid, 1°, 5° en 7° ;<br>
+2° op elektronische wijze aan de actoren, vermeld in paragraaf 2, eerste lid, 2°, 3°, 4° en 6°, en paragraaf 3, eerste lid, 2°, 3°, 4° en 6°.</p>
+
+<p>De minister bepaalt de wijze waarop de gegevens meegedeeld moeten worden voor de actoren die aangewezen worden met toepassing van paragraaf 2, tweede lid, en paragraaf 3, tweede lid.</p>
 
 ## HOOFDSTUK 8 Indelingsverantwoordelijken en classificeerders
 
@@ -376,11 +436,11 @@ De inrichting neemt alle noodzakelijke maatregelen om bij defect van de   geïns
 
 ### ART. 71.
 
-De overtredingen van de bepalingen van dit besluit en van de   uitvoeringsbesluiten ervan worden opgespoord en vastgesteld overeenkomstig de   bepalingen van de wet van 28 maart 1975.<BR>
+...
 
 ### ART. 72.
 
-Met toepassing van artikel 5 en artikel 11 van de wet van 28 maart 1975   worden de personeelsleden van de bevoegde autoriteit aangewezen voor het   toezicht op de toepassing van de relevante bepalingen van verordening (EG) nr.   1234/2007, verordening (EG) nr. 1249/2008, dit besluit en de   uitvoeringsbesluiten ervan.<BR>
+...
 
 ### ART. 73.
 
