@@ -46,7 +46,11 @@ Het   VLIF verleent subsidies conform de bepalingen van :<BR   style="WHITE-SPAC
 
 ### ART. 10.
 
-<P>Met   de tussenkomst van de erkende kredietinstelling wordt een steunaanvraag voor een   rentesubsidie of waarborg en eventueel een waarborgadvies ingediend bij het   VLIF, namens de kredietnemer.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister bepaalt de indieningswijze en -termijn van de steunaanvraag.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister bepaalt welke kredietverrichtingen en -modaliteiten van het   gesubsidieerde krediet de kredietinstelling in het kader van de steunaanvraag   meedeelt aan het VLIF en op welke tijdstippen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Met de tussenkomst van de erkende kredietinstelling wordt een steunaanvraag voor een rentesubsidie of waarborg en eventueel een waarborgadvies ingediend bij het VLIF.</p>
+
+<p>De minister bepaalt de indieningswijze en -termijn van de steunaanvraag.</p>
+
+<p>De minister bepaalt welke kredietverrichtingen en -modaliteiten van het gesubsidieerde krediet de kredietinstelling in het kader van de steunaanvraag meedeelt aan het VLIF en op welke tijdstippen.</p>
 
 ### ART. 11.
 
@@ -76,7 +80,9 @@ Het   krediet waarvoor de waarborg verleend wordt of een waarborgadvies gevraagd
 
 ### ART. 16.
 
-<P>De   VLIF-waarborg wordt uitgedrukt als een percentage van de hoofdsom van het   gewaarborgde krediet, bepaald op basis van het subsidiabele bedrag van de   investering en de gestelde zekerheden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   percentage, vermeld in het eerste lid, bedraagt maximaal 80   %.</P>
+<p>De VLIF-waarborg wordt uitgedrukt als een percentage van de hoofdsom van het gewaarborgde krediet, bepaald op basis van het bedrag van de investering of het project waarvan de investering, die voor selectie in aanmerking komt, deel uitmaakt, en van de gestelde zekerheden.</p>
+
+<p>Het percentage, vermeld in het eerste lid, bedraagt maximaal 80 %.</p>
 
 ### ART. 17.
 
@@ -108,15 +114,24 @@ De   waarborg vangt aan op de dag van de eerste kredietopname.
 
 ### ART. 23.
 
-<P>Met   toepassing van de VLIF-waarborg kan de kredietverlener de uitbetaling vragen van   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   het percentage, vermeld in artikel 16, eerste lid, van het openstaande kapitaal   van het gewaarborgde krediet op de datum van de opzegging. Het openstaande   kapitaal wordt verminderd met het uitstellen van kapitaalaflossingen waarvoor   het VLIF geen voorafgaande toestemming heeft verleend;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   achtergestelde interesten, berekend op het gewaarborgde kredietgedeelte over een   periode van ten hoogste zes maanden die voorafgaat aan de datum van de opzegging   van het gewaarborgde krediet;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   verantwoorde kosten en erelonen, die rechtstreeks gemaakt zijn voor de   recuperatie van de bedragen die voortvloeien uit de zekerheden van de   kredietnemer. Ze worden proportioneel verdeeld over de investeringskredieten of   gelijkaardige kredieten die aangegaan zijn tot drie maanden na de aanvraag van   de laatst toegekende VLIF-waarborg.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   volgende bedragen vallen niet onder de toepassing van de VLIF-waarborg   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de verwijlintresten;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de wederbeleggingsvergoedingen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de provisie voor overdisponering;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de penaliteitsverhogingen, toegepast bij de opeisbaarheid van het   krediet.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als er VLIF-waarborg is toegekend, kan de kredietverlener de uitbetaling vragen, in verhouding tot het percentage, vermeld in artikel 16, eerste lid, van het openstaande kapitaal van het gewaarborgde krediet op de datum van de opzegging, van:<br>
+1° het openstaande kapitaal verminderd met de uitstellen van kapitaalaflossing waarvoor het VLIF geen voorafgaande toestemming heeft verleend;<br>
+2° achtergestelde interesten, berekend op het gewaarborgde kredietgedeelte over een periode van ten hoogste zes maanden die voorafgaat aan de datum van de opzegging van het gewaarborgde krediet;<br>
+3° verantwoorde kosten en erelonen, die rechtstreeks gemaakt zijn voor de recuperatie van de bedragen die voortvloeien uit de zekerheden van de kredietnemer. Ze worden proportioneel verdeeld over de investeringskredieten of gelijkaardige kredieten die aangegaan zijn tot drie maanden na de aanvraag van de laatst toegekende VLIF-waarborg.</p>
+
+<p>De volgende bedragen vallen niet onder de toepassing van de VLIF-waarborg :<br>
+1° de verwijlintresten;<br>
+2° de wederbeleggingsvergoedingen;<br>
+3° de provisie voor overdisponering;<br>
+4° de penaliteitsverhogingen, toegepast bij de opeisbaarheid van het krediet.</p>
 
 ### ART. 24.
 
-Het   totale bedrag dat als waarborg uitbetaald wordt, kan nooit hoger zijn dan de   toegekende waarborg, vermeld in artikel 16.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het bedrag dat als waarborg uitbetaald wordt als hoofdsom van het gewaarborgde krediet, kan nooit hoger zijn dan de toegekende waarborg, vermeld in artikel 16.
 
 ### ART. 25.
 
-De   gerecupereerde bedragen die voortvloeien uit de uitwinning van de zekerheden van   de kredietnemer, worden op dezelfde wijze verdeeld als de kosten, vermeld in   artikel 23, eerste lid, 3°, ongeacht of de waarborg al uitbetaald is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De gerecupereerde bedragen die voortvloeien uit de uitwinning van de zekerheden van de kredietnemer, worden afgetrokken van de bedragen, vermeld in artikel 23, na verdeling op dezelfde wijze als de kosten, vermeld in artikel 23, eerste lid, 3°, ongeacht of de waarborg al dan niet uitbetaald is.
 
 ### ART. 26.
 
