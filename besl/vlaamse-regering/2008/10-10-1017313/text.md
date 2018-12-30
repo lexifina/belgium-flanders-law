@@ -8,25 +8,38 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 3 maart 2004 inzake de 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   3 maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden   en de erkenning van centra voor meer duurzame landbouw;<BR>2° de minister : de   Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<BR>3°   bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij;<BR>4° de landbouweducatie : het geheel van   de activiteiten, vermeld in artikel 20 van het decreet;<BR>5° activiteit : een   initiatief als vermeld in artikel 20 van het decreet;<BR>6° algemeen centrum :   een vereniging die door de minister is erkend als algemeen centrum voor   landbouweducatie volgens de voorwaarden, vermeld in het decreet en in dit   besluit;<BR>7° centrum : een vereniging die door de minister is erkend als   centrum voor landbouweducatie volgens de voorwaarden, vermeld in het decreet en   in dit besluit;<BR>8° een actieplan : een door een algemeen centrum in te dienen   overzicht van activiteiten die het eerstvolgende kalenderjaar worden   georganiseerd;<BR>9° een project : een initiatief met een tijdelijk karakter   over visievorming of landbouweducatie als vermeld in artikel 20 van het   decreet.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+2° de minister : de Vlaamse minister, bevoegd voor&nbsp;de landbouw;<br>
+3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+4° de landbouweducatie : het geheel van de activiteiten, vermeld in artikel&nbsp;19 van het decreet;<br>
+5° activiteit : een initiatief als vermeld in artikel&nbsp;19 van het decreet;<br>
+6° algemeen centrum : een vereniging die door de minister is erkend als algemeen centrum voor landbouweducatie volgens de voorwaarden, vermeld in het decreet en in dit besluit;<br>
+7° centrum : een vereniging die door de minister is erkend als centrum voor landbouweducatie volgens de voorwaarden, vermeld in het decreet en in dit besluit;<br>
+8° een actieplan : een door een algemeen centrum in te dienen overzicht van activiteiten die het eerstvolgende kalenderjaar worden georganiseerd;<br>
+9° een project : een initiatief met een tijdelijk karakter over visievorming of landbouweducatie als vermeld in artikel&nbsp;19 van het decreet.
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK II. Erkenning
 
 ### ART. 2.
 
-Om erkend te worden door de minister als algemeen centrum, moet een vereniging voldoen aan de voorwaarden, vermeld in artikel 21 van het decreet, en aan de volgende voorwaarden :<br />1° per kalenderjaar minstens 12 000 dagverblijven verzorgen, die deel uitmaken van een meerdaags verblijf;<br />2° permanent samenwerken met minstens vijf actieve landbouwbedrijven die geïdentificeerd zijn als producent, of opereren vanop een actief landbouwbedrijf dat geïdentificeerd is als producent en bovendien permanent samenwerken met minstens twee actieve landbouwbedrijven die geïdentificeerd zijn als producent;<br />3° een didactisch onderbouwd landbouweducatief aanbod voorleggen met activiteiten rond ten minste vijf landbouwsectoren;<br />4° de persoon die instaat voor de planning en coördinatie van de activiteiten beschikt over een pedagogisch bekwaamheidsbewijs.
+Om erkend te worden door de minister als algemeen centrum, moet een vereniging voldoen aan de voorwaarden, vermeld in artikel 20 van het decreet, en aan de volgende voorwaarden :<br>
+1° per kalenderjaar minstens 12 000 dagverblijven verzorgen, die deel uitmaken van een meerdaags verblijf;<br>
+2° permanent samenwerken met minstens vijf actieve landbouwbedrijven die geïdentificeerd zijn als landbouwer, of opereren vanop een actief landbouwbedrijf dat geïdentificeerd is als landbouwer en bovendien permanent samenwerken met minstens twee actieve landbouwbedrijven die geïdentificeerd zijn als landbouwer;<br>
+3° een didactisch onderbouwd landbouweducatief aanbod voorleggen met activiteiten rond ten minste vijf landbouwsectoren;<br>
+4° de persoon die instaat voor de planning en coördinatie van de activiteiten beschikt over een pedagogisch bekwaamheidsbewijs.
 
 ### ART. 3.
 
-Om erkend te worden door de minister als centrum, moet een vereniging voldoen aan de voorwaarden, vermeld in artikel 21 van het decreet.
+Om erkend te worden door de minister als centrum, moet een vereniging voldoen aan de voorwaarden, vermeld in artikel 20 van het decreet.
 
 ### ART. 4.
 
-Om als algemeen centrum of als centrum te worden erkend, dient de   vereniging een aanvraag in bij de bevoegde entiteit en ze voegt daarbij alle   stukken waaruit moet blijken dat respectievelijk aan de voorwaarden, vermeld in   artikel 21 van het decreet, of artikel 2 van dit besluit, is   voldaan.
+Om als algemeen centrum of als centrum te worden erkend, dient de vereniging een aanvraag in bij de bevoegde entiteit en ze voegt daarbij alle stukken waaruit moet blijken dat respectievelijk aan de voorwaarden, vermeld in artikel 20 van het decreet, of artikel 2 van dit besluit, is voldaan.
 
 ### ART. 5.
 
@@ -38,7 +51,9 @@ Eenzelfde vereniging kan alleen hetzij als algemeen centrum, hetzij als centrum 
 
 ### ART. 7.
 
-Als door de bevoegde entiteit wordt vastgesteld dat het centrum of het   algemeen centrum respectievelijk niet meer voldoet aan de voorwaarden, vermeld   in artikel 21 van het decreet, of artikel 2 van dit besluit, of als ernstige   tekortkomingen of fraude worden vastgesteld, kan de minister de erkenning in   kwestie schorsen of opheffen naargelang de frequentie, het aantal, de aard of de   omvang van de tekortkomingen of van de fraude. De minister kan daarvoor   modaliteiten bepalen.<BR><BR>De erkenning wordt van rechtswege opgeheven als het   algemeen centrum gedurende twee opeenvolgende jaren geen actieplan heeft   ingediend. De vereniging kan pas opnieuw een erkenning aanvragen een jaar na de   opheffing van de erkenning.
+Als door de bevoegde entiteit wordt vastgesteld dat het centrum of het algemeen centrum respectievelijk niet meer voldoet aan de voorwaarden, vermeld in artikel 20 van het decreet, of artikel 2 van dit besluit, of als ernstige tekortkomingen of fraude worden vastgesteld, kan de minister de erkenning in kwestie schorsen of opheffen naargelang de frequentie, het aantal, de aard of de omvang van de tekortkomingen of van de fraude. De minister kan daarvoor modaliteiten bepalen.<br>
+<br>
+De erkenning wordt van rechtswege opgeheven als het algemeen centrum gedurende twee opeenvolgende jaren geen actieplan heeft ingediend. De vereniging kan pas opnieuw een erkenning aanvragen een jaar na de opheffing van de erkenning.
 
 ## HOOFDSTUK III. Subsidiëring
 
@@ -108,7 +123,11 @@ De toegekende subsidie wordt als volgt uitbetaald :<BR>1° een eerste   schijf v
 
 ### ART. 22.
 
-De controle op de aanwending van de subsidie wordt uitgeoefend door de   personeelsleden van de bevoegde entiteit.<BR><BR>De personeelsleden van de   bevoegde&nbsp;entiteit kunnen bij de uitoefening van hun controleopdracht elk   onderzoek en elke zowel administratieve als inhoudelijke controle ter plaatse   instellen, alsmede alle inlichtingen inwinnen die zij nodig achten om zich ervan   te vergewissen dat de reglementaire bepalingen werkelijk werden   nageleefd.<BR><BR>Als de uitoefening van de controle wordt verhinderd, wordt   overeenkomstig artikelen 55 tot en met 58 van de gecoördineerde wetten op de   Rijkscomptabiliteit de subsidie geweigerd of teruggevorderd.
+De controle op de aanwending van de subsidie wordt uitgeoefend door de personeelsleden van de bevoegde entiteit.<br>
+<br>
+De personeelsleden van de bevoegde&nbsp;entiteit kunnen bij de uitoefening van hun controleopdracht elk onderzoek en elke zowel administratieve als inhoudelijke controle ter plaatse instellen, alsmede alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de reglementaire bepalingen werkelijk werden nageleefd.<br>
+<br>
+Als de uitoefening van de controle wordt verhinderd, wordt overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof de subsidie geweigerd of teruggevorderd.
 
 ### ART. 23.
 
@@ -116,13 +135,13 @@ Om de controle mogelijk te maken zorgen de centra en de algemene centra ervoor d
 
 ### ART. 24.
 
-Als uit de controles blijkt dat de voorwaarden waaronder de subsidie werd   verleend, niet werden nageleefd of dat de subsidie niet werd aangewend voor de   doeleinden waarvoor ze werd verleend, is het algemeen centrum of het centrum   overeenkomstig artikel 55 tot en met 58 van de gecoördineerde wetten gehouden   tot terugbetaling van de subsidie, alsook als het algemeen centrum of het   centrum in gebreke blijven de stukken, vermeld in artikel 13 en 20, in te   dienen. Het algemeen centrum of het centrum betaalt de subsidie terug binnen een   maand nadat de bevoegde&nbsp;entiteit daarom heeft verzocht.
+Als uit de controles blijkt dat de voorwaarden waaronder de subsidie werd verleend, niet werden nageleefd of dat de subsidie niet werd aangewend voor de doeleinden waarvoor ze werd verleend, is het algemeen centrum of het centrum overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof gehouden tot terugbetaling van de subsidie, alsook als het algemeen centrum of het centrum in gebreke blijven de stukken, vermeld in artikel 13 en 20, in te dienen. Het algemeen centrum of het centrum betaalt de subsidie terug binnen een maand nadat de bevoegde&nbsp;entiteit daarom heeft verzocht.
 
 ## Afdeling V. Verplichte vermeldingen
 
 ### ART. 25.
 
-Bij de uitvoering van elke activiteit van het goedgekeurde project of van het goedgekeurde actieplan wordt de volgende tekst vermeld : "Dit project wordt gefinancierd door het Departement Landbouw en Visserij van de Vlaamse overheid." <br /><br />Op elke publicatie of tekst over een activiteit van het goedgekeurde actieplan of het goedgekeurde project wordt het logo van de Vlaamse overheid aangebracht.
+Het door de bevoegde entiteit ter beschikking gestelde logo moet vermeld worden in alle communicatievormen over de activiteiten, vermeld in dit besluit. Uitzonderingen daarop zijn alleen toegelaten op voorwaarde dat daarvoor voorafgaandelijk schriftelijk of elektronisch een gemotiveerde aanvraag ingediend wordt en op voorwaarde dat de bevoegde entiteit die aanvraag schriftelijk of elektronisch goedgekeurd heeft.
 
 ## HOOFSTUK IV. Uitvoeringsbepalingen
 
