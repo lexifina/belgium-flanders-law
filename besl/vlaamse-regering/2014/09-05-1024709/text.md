@@ -32,7 +32,7 @@ In dit besluit wordt verstaan onder:<BR>1° betalingsaanvraag: het verzoek   tot
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK 2 Maatregelen
 
