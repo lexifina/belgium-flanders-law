@@ -24,7 +24,16 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° bevoegde entiteit : het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° minister : de Vlaamse minister, bevoegd voor het afzet- en   uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten;<BR>3° verordening   (EU) nr. 1151/2012 : verordening (EU) nr. 1151/2012 van het Europees Parlement   en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor   landbouwproducten en levensmiddelen;<BR>4° oorsprongsbenaming : de   oorsprongsbenaming, vermeld in artikel 5, lid 1, van verordening (EU) nr.   1151/2012;<BR>5° geografische aanduiding : de geografische aanduiding, vermeld   in artikel 5, lid 2, van verordening (EU) nr. 1151/2012;<BR>6° gegarandeerde   traditionele specialiteit : de gegarandeerde traditionele specialiteit, vermeld   in artikel 18, lid 1, van verordening (EU) nr. 1151/2012;<BR>7°   registratieaanvraag : de aanvraag tot registratie van een oorsprongsbenaming,   een geografische aanduiding of een gegarandeerde traditionele   specialiteit;<BR>8° adviescommissie : een door de minister samengestelde   commissie die advies verleent over de ingediende registratieaanvragen;<BR>9°   productdossier : het productdossier, vermeld in artikel 19, lid 1, van   verordening (EU) nr. 1151/2012, of het productdossier, vermeld in artikel 7, lid   1, van de voormelde verordening, naargelang het gaat om een registratieaanvraag   van een gegarandeerde traditionele specialiteit, of om een registratieaanvraag   van een oorsprongsbenaming of een geografische aanduiding.
+In dit besluit wordt verstaan onder :<br>
+1° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° minister : de Vlaamse minister, bevoegd voor het afzet- en uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten;<br>
+3° verordening (EU) nr. 1151/2012 : verordening (EU) nr. 1151/2012 van het Europees Parlement en de Raad van 21 november 2012 inzake kwaliteitsregelingen voor landbouwproducten en levensmiddelen;<br>
+4° oorsprongsbenaming : de oorsprongsbenaming, vermeld in artikel 5, lid 1, van verordening (EU) nr. 1151/2012;<br>
+5° geografische aanduiding : de geografische aanduiding, vermeld in artikel 5, lid 2, van verordening (EU) nr. 1151/2012;<br>
+6° gegarandeerde traditionele specialiteit : de gegarandeerde traditionele specialiteit, vermeld in artikel 18, lid 1, van verordening (EU) nr. 1151/2012;<br>
+7° registratieaanvraag : de aanvraag tot registratie van een oorsprongsbenaming, een geografische aanduiding of een gegarandeerde traditionele specialiteit;<br>
+8° ...;<br>
+9° productdossier : het productdossier, vermeld in artikel 19, lid 1, van verordening (EU) nr. 1151/2012, of het productdossier, vermeld in artikel 7, lid 1, van de voormelde verordening, naargelang het gaat om een registratieaanvraag van een gegarandeerde traditionele specialiteit, of om een registratieaanvraag van een oorsprongsbenaming of een geografische aanduiding.
 
 ### ART. 1/1.
 
@@ -40,7 +49,31 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 3.
 
-<P>§ 1. De registratieaanvraag wordt opgenomen in een bericht dat wordt   bekendgemaakt in het Belgisch Staatsblad. De bekendmaking bevat de naam van het   product of levensmiddel dat een registratie als oorsprongsbenaming, geografische   aanduiding of gegarandeerde traditionele specialiteit beoogt, alsook een   samenvatting van het productdossier. Het bericht nodigt elke natuurlijke persoon   of rechtspersoon met een rechtmatig belang uit om kennis te nemen van het   productdossier en om bezwaren te uiten binnen een termijn van zestig   kalenderdagen, die begint op de dag na de bekendmaking van het bericht in het   Belgisch Staatsblad. Het bezwaarschrift moet ingediend worden bij de bevoegde   entiteit.<BR><BR>Ter uitvoering van artikel 49, lid 3, van verordening (EU) nr.   1151/2012 onderzoekt de bevoegde entiteit de ontvankelijkheid van de ingediende   bezwaren.<BR><BR>De bevoegde entiteit brengt de aanvrager op de hoogte van de   eventuele bezwaren van derden en verzoekt hem om daarop te antwoorden binnen een   termijn van negentig kalenderdagen. De bevoegde entiteit kan die termijn   verlengen als dat door één van de twee partijen gevraagd wordt.<BR><BR>Bij   gebrek aan antwoord binnen de gestelde termijn, wordt de registratieaanvraag   geacht ingetrokken te zijn.<BR><BR>De antwoorden op de bezwaren worden ook aan   de bevoegde entiteit bezorgd.<BR><BR>§ 2. Na het verstrijken van de termijnen,   vermeld in paragraaf 1, wordt de registratieaanvraag voor advies aan de   adviescommissie voorgelegd.<BR><BR>De adviescommissie beschikt over een termijn   van negentig kalenderdagen vanaf de ontvangst van de registratieaanvraag om een   advies te geven aan de minister. Die periode wordt opgeschort als de   adviescommissie opmerkingen heeft op het productdossier totdat een aangepast   productdossier ingediend wordt.<BR><BR>Het advies van de adviescommissie is niet   bindend.<BR><BR>§ 3. Het advies van de adviescommissie wordt, samen met het   registratieaanvraag en de eventuele bezwaren en antwoorden, onverwijld aan de   minister bezorgd. De minister beslist na ontvangst van het advies of de   registratieaanvraag gerechtvaardigd is en voldoet aan de voorwaarden, vermeld in   verordening (EU) nr. 1151/2012.<BR><BR>De beslissing van de minister wordt   onverwijld bezorgd aan de aanvrager en aan de derden die van de mogelijkheid   gebruikgemaakt hebben om hun bezwaren te uiten.<BR><BR>§ 4. Als de beslissing   gunstig is voor de aanvrager, wordt ze in het Belgisch Staatsblad gepubliceerd.   De beslissing en de versie van het productdossier waarop de beslissing   betrekking heeft, worden ook openbaar gemaakt op de website van de bevoegde   entiteit. Tegen die beslissing kan beroep worden ingediend bij de Raad van   State.<BR><BR>§ 5. Als de eindbeslissing gunstig is voor de aanvrager, dient de   bevoegde entiteit de aanvraag tot communautaire registratie in bij de Europese   Commissie.<BR><BR>§ 6. Dit artikel is ook van toepassing op een aanvraag tot   wijziging van het productdossier als vermeld in artikel 53 van verordening (EU)   nr. 1151/2012.</P>
+<p>§ 1. De registratieaanvraag wordt opgenomen in een bericht dat wordt bekendgemaakt in het Belgisch Staatsblad. De bekendmaking bevat de naam van het product of levensmiddel dat een registratie als oorsprongsbenaming, geografische aanduiding of gegarandeerde traditionele specialiteit beoogt, alsook een samenvatting van het productdossier. Het bericht nodigt elke natuurlijke persoon of rechtspersoon met een rechtmatig belang uit om kennis te nemen van het productdossier en om bezwaren te uiten binnen een termijn van zestig kalenderdagen, die begint op de dag na de bekendmaking van het bericht in het Belgisch Staatsblad. Het bezwaarschrift moet ingediend worden bij de bevoegde entiteit.<br>
+<br>
+Ter uitvoering van artikel 49, lid 3, van verordening (EU) nr. 1151/2012 onderzoekt de bevoegde entiteit de ontvankelijkheid van de ingediende bezwaren.<br>
+<br>
+De bevoegde entiteit brengt de aanvrager op de hoogte van de eventuele bezwaren van derden en verzoekt hem om daarop te antwoorden binnen een termijn van negentig kalenderdagen. De bevoegde entiteit kan die termijn verlengen als dat door één van de twee partijen gevraagd wordt.<br>
+<br>
+Bij gebrek aan antwoord binnen de gestelde termijn, wordt de registratieaanvraag geacht ingetrokken te zijn.<br>
+<br>
+De antwoorden op de bezwaren worden ook aan de bevoegde entiteit bezorgd.<br>
+<br>
+§ 2. ....<br>
+<br>
+§ 3. Na het verstrijken van de termijnen, vermeld in paragraaf 1, bezorgt de bevoegde entiteit de eventueel herwerkte registratieaanvraag en de eventuele bezwaren en antwoorden aan de minister. De minister beslist of de registratieaanvraag gerechtvaardigd is en voldoet aan de voorwaarden, vermeld in verordening (EU) nr. 1151/2012.<br>
+<br>
+De beslissing van de minister wordt onverwijld bezorgd aan de aanvrager en aan de derden die van de mogelijkheid gebruikgemaakt hebben om hun bezwaren te uiten.<br>
+<br>
+§ 4. Als de beslissing gunstig is voor de aanvrager, wordt ze in het Belgisch Staatsblad gepubliceerd. De beslissing en de versie van het productdossier waarop de beslissing betrekking heeft, worden ook openbaar gemaakt op de website van de bevoegde entiteit. Tegen die beslissing kan beroep worden ingediend bij de Raad van State.<br>
+<br>
+§ 5. Als de eindbeslissing gunstig is voor de aanvrager, dient de bevoegde entiteit de aanvraag tot communautaire registratie in bij de Europese Commissie.<br>
+<br>
+§ 6. Dit artikel is ook van toepassing op een aanvraag tot wijziging van het productdossier als vermeld in artikel 53 van verordening (EU) nr. 1151/2012.</p>
+
+### ART 3/1.
+
+De producent die wil gebruikmaken van een beschermde oorsprongsbenaming, beschermde geografische aanduiding of gegarandeerde traditionele specialiteit, meldt dat vooraf aan de bevoegde entiteit.
 
 ## Afdeling II. Registratieaanvraag van een gegarandeerde traditionele specialiteit
 
