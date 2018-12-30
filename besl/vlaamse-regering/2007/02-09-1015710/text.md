@@ -6,13 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 28 maart 1975 houdende de ha
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° het   decreet : het decreet van 22 december 2006 tot inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid;<BR>2° de   ministers : de Vlaamse minister, bevoegd voor het landbouwbeleid, en de Vlaamse   minister, bevoegd voor het leefmilieu;<BR>3° Departement Landbouw en Visserij:   het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>4° verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 2,   11°, van Verordening (EG) nr. 796/2004 van de Commissie.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 22 december 2006 tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid;<br>
+2° de ministers : de Vlaamse minister, bevoegd voor het landbouwbeleid, en de Vlaamse minister, bevoegd voor het leefmilieu;<br>
+3° Departement Landbouw en Visserij: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+4° verzamelaanvraag: de verzamelaanvraag, vermeld in artikel 11 van gedelegeerde verordening (EU) nr. 640/2014 van de Commissie van 11 maart 2014 tot aanvulling van Verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad wat betreft het geïntegreerd beheers- en controlesysteem en de voorwaarden voor weigering of intrekking van betalingen en voor administratieve sancties in het kader van rechtstreekse betalingen, plattelandsontwikkelingsbijstand en de randvoorwaarden.
 
 ### ART. 2.
 
 § 1. Het Departement Landbouw en Visserij is de bevoegde instantie voor de identificatie en registratie in het GBCS van de landbouwers en van de landbouwgronden, vermeld in artikel 3, § 1, van het decreet.<br>
-<br>
-Het hoofd van de bevoegde instantie kan de aangelegenheden die conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde instantie vallen, subdelegeren aan personeelsleden van de bevoegde instantie die onder zijn hiërarchisch gezag staan, tot op het meest functionele niveau.<br>
 <br>
 § 2. De ministers bepalen de nadere uitvoeringswijze van de voorwaarde voor het exclusieve gebruik en het exclusieve beheer van de productiemiddelen van een bedrijf als vermeld in artikel 4, § 3, 2°, van het decreet.<br>
 <br>
@@ -26,22 +28,28 @@ De ministers kunnen nadere regels bepalen voor de identificatie bij het overneme
 
 ### ART. 4.
 
-§ 1. De verzamelaanvraag is de basis voor :<br>
-1° de aanvraag tot definitieve vaststelling van de toeslagrechten;<br>
-2° de activering van de toeslagrechten;<br>
-3° de aanvraag voor andere oppervlaktegebonden steunregelingen als vermeld in titel III, bijlage I en VI van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003;<br>
-4° de aangifte van landbouwgronden in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan;<br>
-5° de steunaanvraag of de uitbetalingsaanvraag voor de volgende maatregelen, als de Vlaamse Regering heeft beslist dat de verzamelaanvraag voor die maatregelen als steunaanvraag of betalingsaanvraag gebruikt wordt :<br>
-a) steunmaatregelen als vermeld in voormelde Verordening (EG) nr. 73/2009, andere dan de steunmaatregelen vermeld in punt 1° tot en met 3° ;<br>
-b) steunmaatregelen als vermeld in Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).<br>
-<br>
-De ministers kunnen, ieder wat zijn of haar bevoegdheid betreft, bepalen dat de verzamelaanvraag de basis is voor de steunaanvraag en de uitbetalingaanvraag voor oppervlaktegebonden agro-milieumaatregelen als vermeld in artikel 36, punten a),ii), a), iii), a),iv) en b),i) van Verordening (EG) nr. 1698/2005 of voor oppervlaktegebonden milieumaatregelen als vermeld in artikel 13, 23 en 31 van Verordening (EG) nr. 1257/1999.<br>
-<br>
-De verzamelaanvraag is de basis voor de steunaanvraag en de betalingsaanvraag voor maatregelen om steun te verlenen aan landbouwers die deelnemen aan de voedselkwaliteitsregeling die is ingesteld bij Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91.<br>
+§ 1. De verzamelaanvraag is de basis voor:<br>
+1° de aangifte van alle landbouwareaal, vermeld in artikel 4, lid 1, e), van verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
+2° de aangifte van de vergroeningselementen, vermeld in hoofdstuk 3, afdeling 3, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, die de landbouwer wil gebruiken in het kader van de vergroeningspremie en om te voldoen aan de verplichting van het ecologisch aandachtsgebied;<br>
+3° de aangifte van stallen, gebouwen, niet-landbouwareaal en percelen in het kader van het Mestdecreet van 22 december 2006;<br>
+4° de aanvraag voor de jonge landbouwersbetaling, vermeld in hoofdstuk 3, afdeling 4, van het voormelde besluit van 24 oktober 2014;<br>
+5° de aangifte van percelen voor biocertificering en de percelen die al gecertificeerd zijn;<br>
+6° de betalingsaanvraag voor inkomenscompensatie en onderhoudssubsidie voor bebossing van landbouwgronden, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 2 oktober 2015 betreffende het verlenen van subsidies voor bebossing en voor herbebossing;<br>
+7° de aangifte van de teelten waarvoor steun wordt aangevraagd in het kader van het doel, vermeld in artikel 33, lid 1, e), van verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
+8° de aangifte van percelen waarop dieren geplaatst zijn, in het kader van diergebonden steunmaatregelen;<br>
+9° de aangifte en de aanvraag van een teelttoestemming voor hennep als vermeld in artikel 21 van het voormelde besluit van 24 oktober 2014;<br>
+10° een aanvraag van nieuwe betalingsrechten of van een verhoging van betalingsrechten uit de reserve als vermeld in artikel 33, § 3, eerste lid, van het voormelde besluit van 24 oktober 2014;<br>
+11° de facultatieve aangifte van boslandbouwsystemen met het oog op de vrijstelling van de vergunningsplicht, vermeld in artikel 8, § 2, van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+12° de aangifte van percelen, de verbintenisaanvragen en betalingsaanvragen voor beheerovereenkomsten en agromilieuverbintenissen vermeld in artikel 12, § 3, tweede lid, van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020;<br>
+13° de activering van betalingsrechten conform artikel 27 van het voormelde besluit van 24 oktober 2014;<br>
+14° de aanvraag voor nieuwe verbintenissen en de betalingsaanvraag voor de hectaresteun voor biologische productiemethode, vermeld in artikel 6, eerste en vierde lid, van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaamse Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
+15° de betalingsaanvraag voor de aanplantsubsidie voor boslandbouwsystemen, vermeld in artikel 5, § 3, tweede lid, van het besluit van de Vlaamse Regering van 30 juli 2014 betreffende het verlenen van subsidies voor de aanplant van boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
+16° de aangifte van niet-productieve investeringen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan niet-productieve investeringen en aan de ontwikkeling van kleine landbouwbedrijven;<br>
+17° de aangifte van activiteiten als vermeld in artikel 8 van het voormelde besluit van 24 oktober 2014, waardoor men niet als actieve landbouwer wordt beschouwd.<br>
 <br>
 § 2. De landbouwer meldt elke wijziging in het gebruik van de percelen landbouwgrond zoals hij ze in de verzamelaanvraag heeft aangegeven.<br>
 <br>
-§ 3. De ministers bepalen de verdere voorwaarden en regels ter uitvoering van § 1 en § 2 en de wijze waarop de gegevens die noodzakelijk zijn voor een correcte uitvoering van artikel 3, § 2, van het decreet worden aangegeven en beheerd.
+§ 3. De terzake bevoegde minister bepaalt de verdere voorwaarden en regels ter uitvoering en beheer van § 1 en § 2 en de regels aangaande de werking van de verzamelaanvraag.
 
 ### ART. 5.
 
