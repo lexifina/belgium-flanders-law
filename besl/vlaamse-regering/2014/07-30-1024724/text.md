@@ -30,7 +30,7 @@ In dit besluit wordt verstaan onder:<BR>1° begunstigde: de begunstigde van   de
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK 2 Subsidie voor boslandbouwsystemen
 
@@ -42,7 +42,27 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 3.
 
-<P>§ 1. De volgende kosten voor het planten van de bomen komen in aanmerking   voor subsidiëring:<BR>1° aankoopkosten van de bomen;<BR>2° kosten voor de arbeid   en het machinale werk voor het planten, verstevigen en beschermen van de   bomen;<BR>3° aankoopkosten voor verstevigings- en beschermingsmateriaal van de   bomen.<BR></P>  <P>De kosten, vermeld in het tweede lid, komen alleen in aanmerking als ze aan   de volgende twee voorwaarden voldoen:<BR>1° ze worden aangetoond met factuur en   betalingsbewijs;<BR>2° ze hebben betrekking op het planten van bomen, uitgevoerd   na de goedkeuring van de steunaanvraag.<BR></P>  <P>Als de begunstigde de plantwerkzaamheden, vermeld in het tweede lid, 2°, zelf   uitvoert, wordt daarvoor een forfaitair bedrag van 200 euro per hectare   betaald.<BR></P>  <P>De minister kan het steunpercentage, vermeld in het eerste lid, en het   forfaitaire bedrag, vermeld in het vierde lid, aanpassen afhankelijk van de   budgettaire noodzaak.<BR></P>  <P>§ 2. Als de kosten voor het planten van de bomen, vermeld in paragraaf 1,   tweede lid, hoger zijn dan wat daarvoor redelijk is, kan de bevoegde entiteit   bijkomend onderzoek verrichten en de subsidie in voorkomend geval   verminderen.<BR></P>  <P>§ 3. De volgende bomen komen niet in aanmerking voor subsidiëring:<BR>1°   laagstamfruitbomen en halfstamfruitbomen;<BR>2° naaldbomen;<BR>3° Amerikaanse   vogelkers of andere invasieve soorten die door de minister kunnen worden   aangeduid.<BR></P>
+<p>§ 1. De begunstigde kan een subsidie ontvangen van ten hoogste 80% van de kosten voor het planten van de bomen.<br>
+<br>
+De volgende kosten voor het planten van de bomen komen in aanmerking voor subsidiëring:<br>
+1° aankoopkosten van de bomen;<br>
+2° kosten voor de arbeid en het machinale werk voor het planten, verstevigen en beschermen van de bomen;<br>
+3° aankoopkosten voor verstevigings- en beschermingsmateriaal van de bomen.</p>
+
+<p>De kosten, vermeld in het tweede lid, komen alleen in aanmerking als ze aan de volgende twee voorwaarden voldoen:<br>
+1° ze worden aangetoond met factuur en betalingsbewijs;<br>
+2° ze hebben betrekking op het planten van bomen, uitgevoerd na de goedkeuring van de steunaanvraag.</p>
+
+<p>Als de begunstigde de plantwerkzaamheden, vermeld in het tweede lid, 2°, zelf uitvoert, wordt daarvoor een forfaitair bedrag van 200 euro per hectare betaald.</p>
+
+<p>De minister kan het steunpercentage, vermeld in het eerste lid, en het forfaitaire bedrag, vermeld in het vierde lid, aanpassen afhankelijk van de budgettaire noodzaak.</p>
+
+<p>§ 2. Als de kosten voor het planten van de bomen, vermeld in paragraaf 1, tweede lid, hoger zijn dan wat daarvoor redelijk is, kan de bevoegde entiteit bijkomend onderzoek verrichten en de subsidie in voorkomend geval verminderen.</p>
+
+<p>§ 3. De volgende bomen komen niet in aanmerking voor subsidiëring:<br>
+1° laagstamfruitbomen en halfstamfruitbomen;<br>
+2° naaldbomen;<br>
+3° Amerikaanse vogelkers, Amerikaanse eik, valse Acacia of andere invasieve soorten die door de minister kunnen worden aangeduid.</p>
 
 ## HOOFDSTUK 4 Subsidievoorwaarden
 
