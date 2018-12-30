@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder:<BR>1° betalingsaanvraag: het verzoek   tot
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK 2 Maatregelen
 
@@ -50,7 +50,29 @@ Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besl
 
 ### ART. 5.
 
-<P>§ 1. De landbouwer kan voor de maatregel, vermeld in artikel 2, eerste lid,   2°, afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daarvoor goedgekeurd zijn, jaarlijks de volgende subsidies ontvangen die   afhankelijk zijn van het gewas en de teeltgroep waartoe het gewas behoort:<BR>1°   eenjarige akkerbouw- en ruwvoederteelten, vermeld in punt 1, 1°, van de bijlage   bij dit besluit: 260 euro/ha;<BR>2° eenjarige fruit- en groenteteelten en   kruiden, vermeld in punt 1, 2°, van de bijlage bij dit besluit: 400   euro/ha;<BR>3° beschutte teelten,vermeld in punt 1, 3°, van de bijlage bij dit   besluit: 400 euro/ha;<BR>4° grasland, meerjarige voederteelten, vermeld in punt   1, 4°, van de bijlage bij dit besluit: 120 euro/ha;<BR>5° meerjarige fruit- en   groenteteelten en kruiden, vermeld in punt 1, 5°, van de bijlage bij dit   besluit: 210 euro/ha.<BR></P>  <P>De teeltgroepen, vermeld in punt 2 van de bijlage bij dit besluit, komen niet   in aanmerking voor subsidiëring.<BR></P>  <P>§ 2. Een verbintenis kan worden gesloten vanaf het moment dat een perceel de   wettelijke omschakelingstermijn doorlopen heeft en onder controle staat van een   erkend controleorgaan.<BR></P>  <P>§ 3. In het geval dat het bedrijf of een product van de landbouwer geschorst   is, wordt geen subsidie toegekend.<BR></P>  <P>Als de duur van de schorsing korter is dan of gelijk is aan een kalenderjaar,   wordt enkel geen subsidie toegekend voor het jaar waarin de schorsing een   aanvang neemt.<BR></P>  <P>Als de duur van de schorsing langer is dan een kalenderjaar, wordt geen   subsidie toegekend voor alle jaren waarin de schorsing loopt.<BR></P>  <P>§ 4. Om in aanmerking te komen voor de subsidie, vermeld in paragraaf 1, moet   de landbouwer gedurende de volledige looptijd van de verbintenis tot toepassing   van de maatregel, vermeld in artikel 2, eerste lid, 2°, aan de volgende   voorwaarden voldoen:<BR>1° het perceel is in het kader van de biologische   productiemethode aangemeld bij en staat onder controle van eencontroleorgaan dat   erkend is door de Vlaamse overheid krachtens het besluit van de Vlaamse Regering   van 12 december 2008 betreffende de biologische productie en de etikettering van   biologische producten, en werd niet gedeclasseerd als gevolg van een inbreuk   tijdens de hoofdteelt;<BR>2° de landbouwer heeft het perceel in eigen gebruik   vanaf de uiterste indieningsdatum van de verzamelaanvraag en gedurende de   volledige teeltperiode van de hoofdteelt. Als uitzondering op het in eigen   gebruik hebben, wordt het sluiten van een inscharingscontract toegestaan;<BR>3°   de landbouwer geeft het perceel jaarlijks aan in de verzamelaanvraag en meldt   elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<BR>4°   als de landbouwer de subsidie voor meerjarige fruitteelt voor hoogstammige   fruitbomen of notenbomen aanvraagt, moet de fruitopbrengst van de hoogstammige   fruitbomen en notenbomen die meer dan vijf jaar voordien werden aangeplant,   gecommercialiseerd worden;<BR>5° de volledig ingezaaide of beteelde oppervlakte   komt in aanmerking voor de subsidie, alsook de onverharde oppervlakte die   noodzakelijk is voor de teeltwerkzaamheden;<BR></P>
+<p>§ 1. De landbouwer kan voor de maatregel, vermeld in artikel 2, eerste lid, 2°, afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die daarvoor goedgekeurd zijn, jaarlijks de volgende subsidies ontvangen die afhankelijk zijn van het gewas en de teeltgroep waartoe het gewas behoort:<br>
+1° eenjarige akkerbouw- en ruwvoederteelten, vermeld in punt 1, 1°, van de bijlage bij dit besluit: 260 euro/ha;<br>
+2° eenjarige fruit- en groenteteelten en kruiden, vermeld in punt 1, 2°, van de bijlage bij dit besluit: 400 euro/ha;<br>
+3° beschutte teelten,vermeld in punt 1, 3°, van de bijlage bij dit besluit: 400 euro/ha;<br>
+4° grasland, meerjarige voederteelten, vermeld in punt 1, 4°, van de bijlage bij dit besluit: 120 euro/ha;<br>
+5° meerjarige fruit- en groenteteelten en kruiden, vermeld in punt 1, 5°, van de bijlage bij dit besluit: 210 euro/ha.</p>
+
+<p>De teeltgroepen, vermeld in punt 2 van de bijlage bij dit besluit, komen niet in aanmerking voor subsidiëring.</p>
+
+<p>§ 2. Een verbintenis kan worden gesloten vanaf het moment dat een perceel onder controle staat van een erkend controleorgaan.</p>
+
+<p>§ 3. In het geval dat het bedrijf of een product van de landbouwer geschorst is, wordt geen subsidie toegekend.</p>
+
+<p>Als de duur van de schorsing korter is dan of gelijk is aan een kalenderjaar, wordt enkel geen subsidie toegekend voor het jaar waarin de schorsing een aanvang neemt.</p>
+
+<p>Als de duur van de schorsing langer is dan een kalenderjaar, wordt geen subsidie toegekend voor alle jaren waarin de schorsing loopt.</p>
+
+<p>§ 4. Om in aanmerking te komen voor de subsidie, vermeld in paragraaf 1, moet de landbouwer gedurende de volledige looptijd van de verbintenis tot toepassing van de maatregel, vermeld in artikel 2, eerste lid, 2°, aan de volgende voorwaarden voldoen:<br>
+1° het perceel is in het kader van de biologische productiemethode aangemeld bij en staat onder controle van een controleorgaan dat erkend is door de Vlaamse overheid krachtens het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten, en werd niet gedeclasseerd als gevolg van een inbreuk tijdens de hoofdteelt;<br>
+2° de landbouwer heeft het perceel in eigen gebruik vanaf de uiterste indieningsdatum van de verzamelaanvraag en gedurende de volledige teeltperiode van de hoofdteelt. Als uitzondering op het in eigen gebruik hebben, wordt het sluiten van een inscharingscontract toegestaan;<br>
+3° de landbouwer geeft het perceel jaarlijks aan in de verzamelaanvraag en meldt elke wijziging van de initiële aangifte zodra die wijziging zich voordoet;<br>
+4° als de landbouwer de subsidie voor meerjarige fruitteelt voor hoogstammige fruitbomen of notenbomen aanvraagt, moet de fruitopbrengst van de hoogstammige fruitbomen en notenbomen die meer dan vijf jaar voordien werden aangeplant, gecommercialiseerd worden;<br>
+5° de volledig ingezaaide of beteelde oppervlakte komt in aanmerking voor de subsidie, alsook de onverharde oppervlakte die noodzakelijk is voor de teeltwerkzaamheden;</p>
 
 ## Afdeling 2 Aanvraagprocedure
 
