@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder : <BR>1° Belgische   vi
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK 2 Het satellietvolgsysteem
 
@@ -48,6 +48,10 @@ De eigenaar van een Belgisch vissersvaartuig bezorgt bij de eerste   installatie
 ### ART. 8.
 
 Als het ERS aan boord na het doorzenden van een bericht naar het Belgische visserijcontrolecentrum geen retourbericht van dat centrum ontvangt, stuurt de kapitein van het vissersvaartuig of zijn vertegenwoordiger de boodschap opnieuw uit. <br /><br />Na drie vruchteloze pogingen, als een defect is vastgesteld of als aan de kapitein of zijn vertegenwoordiger is meegedeeld dat er een defect is, deelt de kapitein of zijn vertegenwoordiger de gegevens per e-mail, fax, telefoon of radio, via een voor de ontvangst van dergelijke berichten op grond van de communautaire wetgeving erkend radiostation, mee aan het Belgische visserijcontrolecentrum.<br /><br />
+
+### ART 8/1.
+
+Naar gelang de ernst van de inbreuk, worden inbreuken op artikel 14, 15, 23, 24, 62 en 63 van Verordening (EG) nr. 1224/2009, bestraft conform artikel 56 en hoofdstuk 3, afdeling 2, van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid.
 
 ## HOOFDSTUK 4 Slotbepalingen
 
