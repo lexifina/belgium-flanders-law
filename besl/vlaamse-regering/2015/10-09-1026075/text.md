@@ -28,7 +28,7 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 2.
 
-Het   hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit besluit en   de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde entiteit   vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die onder zijn   hiërarchisch gezag staan, tot op het meest functionele niveau.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## HOOFDSTUK 2 Steun voor de oprichting en de werking van operationele groepen
 
@@ -42,7 +42,7 @@ Conform   artikel 35 van verordening (EU) nr. 1305/2013 en binnen de daarvoor be
 
 ### ART. 5.
 
-<P>De   maximaal toegekende subsidie bedraagt 30.000 euro per operationele   groep.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidie bedraagt maximaal 90% van de subsidiabele   kosten.</P>
+<p>De subsidie bedraagt maximaal 90% van de subsidiabele kosten.</p>
 
 ## HOOFDSTUK 3 De indiening van aanvragen voor de subsidiëring van operationele groepen
 
@@ -52,7 +52,7 @@ Conform   artikel 35 van verordening (EU) nr. 1305/2013 en binnen de daarvoor be
 
 ### ART. 7.
 
-<P>De   aanvraag wordt bij de bevoegde entiteit ingediend in een elektronische   versie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister kan de vorm en de inhoud voor de aanvragen tot subsidiëring van een   operationele groep nader bepalen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De minister kan de vorm en de inhoud voor de aanvragen tot subsidiëring van een operationele groep&nbsp;en de wijze waarop die ingediend moeten worden bepalen.</p>
 
 ### ART. 8.
 
@@ -112,7 +112,22 @@ Overeenkomstig   artikel 57 van verordening (EU) nr. 1305/2013 verspreiden de op
 
 ### ART. 18.
 
-<P>De   toegekende subsidie wordt als volgt uitbetaald :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een eerste schijf van maximaal 60% na indiening en beoordeling door de bevoegde   entiteit van de volgende stukken :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   een schuldvordering;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   een tussentijds rapport;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   een tussentijdse financiële afrekening;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   de nodige verantwoordingstukken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het resterende saldo van de subsidie na de indiening en beoordeling door de   bevoegde entiteit van de volgende stukken :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   een schuldvordering;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   de functionele verantwoording, vermeld in artikel 16;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   de financiële verantwoording, vermeld in artikel 17.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   stukken, vermeld in het eerste lid, punt 1°, kunnen ten vroegste 6 maanden na de   start van de werking van de operationele groep worden ingediend bij de bevoegde   entiteit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidie wordt uitbetaald op de rekening van de indiener.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De toegekende subsidie wordt als volgt uitbetaald :<br>
+1° een eerste schijf van maximaal 60% na indiening en beoordeling door de bevoegde entiteit van de volgende stukken :<br>
+a) een schuldvordering;<br>
+b) een tussentijds rapport;<br>
+c) een tussentijdse financiële afrekening;<br>
+d) de nodige verantwoordingstukken.<br>
+2° het resterende saldo van de subsidie na de indiening en beoordeling door de bevoegde entiteit van de volgende stukken :<br>
+a) een schuldvordering;<br>
+b) de functionele verantwoording, vermeld in artikel 16;<br>
+c) de financiële verantwoording, vermeld in artikel 17.</p>
+
+<p>De stukken, vermeld in het eerste lid, punt 1°, kunnen ten vroegste 6 maanden na de start van de werking van de operationele groep worden ingediend bij de bevoegde entiteit.<br>
+<br>
+De minister kan bepalen op welke wijze de stukken, vermeld in het eerste lid, bij de bevoegde entiteit moeten worden ingediend.</p>
+
+<p>De subsidie wordt uitbetaald op de rekening van de indiener.</p>
 
 ## HOOFDSTUK 7 Toezicht en controle
 
@@ -132,7 +147,9 @@ De   bevoegde entiteit heeft delegatie om de subsidie geheel of gedeeltelijk ter
 
 ### ART. 22.
 
-De   indiener bezorgt de bevoegde entiteit alle publicaties die hij zelf over de   werking van de operationele groep verspreidt, op het moment van de   verspreiding.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De indiener bezorgt de bevoegde entiteit alle publicaties die hij zelf over de werking van de operationele groep verspreidt, op het moment van de verspreiding.<br>
+<br>
+De minister kan de wijze waarop de publicaties moeten worden bezorgd, bepalen.
 
 ### ART. 23.
 
