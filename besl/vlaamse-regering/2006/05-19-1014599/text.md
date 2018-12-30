@@ -8,25 +8,97 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 11 juli 1969 betreffende de 
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° zaden :   het oogstproduct van de volgende landbouwsoorten dat kan worden gebruikt als   teeltmateriaal voor een nieuwe inzaai :<BR>a) voedergewassen :<BR>1) Cicer   arietinum L. - kikkererwt;<BR>2) Lupinus luteus L. - gele lupine;<BR>3) Medicago   sativa L. - luzerne;<BR>4) Pisum sativum L. (partim) - voedererwt;<BR>5)   Trifolium alexandrinum L. - Alexandrijnse klaver;<BR>6) Trifolium resupinatum L.   - Perzische klaver;<BR>7) Vicia faba - veldboon;<BR>8) Vicia sativa L. -   voederwikke;<BR>b) granen :<BR>1) Avena sativa - haver;<BR>2) Hordeum vulgare L.   - gerst;<BR>3) Phalaris canariensis L. - kanariezaad;<BR>4) Secale cereale L. -   rogge;<BR>5) X Triticosecale Wittm. - triticale;<BR>6) Triticum aestivum L.   emend. Fiori et Paol. - zachte tarwe;<BR>7) Triticum durum Desf. - harde   tarwe;<BR>8) Triticum spelta L. - spelt;<BR>c) olie- en vezelhoudende gewassen   :<BR>1) Brassica napus L. (partim) - koolzaad;<BR>2) Brassica rapa L. (partim) -   raapzaad;<BR>3) Linum usitatissimum - lijnzaad met uitzondering van   vezelvlas;<BR>2° landbouwer : de landbouwuitbater, natuurlijke of rechtspersoon   of de groepering van natuurlijke of rechtspersonen of van beide, die op autonome   wijze en voor eigen rekening, een bedrijf beheert of laat beheren door zijn   afgevaardigde. De afgevaardigde moet onafhankelijk zijn van de   loontrieerder;<BR>3° bedrijf : het geheel van productie-eenheden, beheerd door   een landbouwer;<BR>4° productie-eenheid : het geheel van de productiemiddelen in   een functioneel verband, met inbegrip van de gebouwen, de opslagmogelijkheden,   de veestapel en de gronden, die nodig zijn voor de landbouwer met het oog op de   uitvoering van een landbouwactiviteit;<BR>5° loontriage : dienstverlening, op   verzoek van de landbouwer, voor het behandelen, hetzij verwerken, hetzij   chemisch behandelen, hetzij verpakken van zaden die afkomstig zijn van het eigen   bedrijf van die landbouwer en die bestemd zijn om daar te worden ingezaaid en   dus niet verhandeld mogen worden, of voor het ter beschikking stellen van de   nodige apparatuur voor de behandeling;<BR>6° loontrieerder : de persoon die aan   loontriage doet, zonder hierbij een beroep te doen op derden, of de persoon die   een mobiele trieerinstallatie ter beschikking stelt, ongeacht de omstandigheden   van die terbeschikkingstelling;<BR>7° partij : elke hoeveelheid zaden van   eenzelfde soort en van eenzelfde ras die voor loontriage wordt aangeboden door   een landbouwer;<BR>8° producentnummer : nummer, toegekend in het kader van de   verplichting van een systeem van unieke identificatie van iedere landbouwer,   zoals bepaald in Verordening (EG) nr. 1782/2003 van de Raad van 29 september   2003;<BR>9° in de handel brengen : de verkoop, het bezit met het oog op de   verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of   overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op   commercieel gebruik;<BR>10° begeleidend document : genummerd document zoals   vastgesteld en uitgereikt door de bevoegde entiteit naar het model van de   bijlage in de vorm van een vijfvoudig formulier, opgedeeld in drie   vakken;<BR>11° bevoegde entiteit : het Departement Landbouw en Visserij van het   Vlaams Ministerie van Landbouw en Visserij;<BR>12° minister : de Vlaamse   minister, bevoegd voor het Landbouwbeleid en de   Zeevisserij.<BR><BR>
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° zaden : het oogstproduct van de volgende landbouwsoorten dat kan worden gebruikt als teeltmateriaal voor een nieuwe inzaai :<br>
+a) voedergewassen :<br>
+1) Cicer arietinum L. - kikkererwt;<br>
+2) Lupinus luteus L. - gele lupine;<br>
+3) Medicago sativa L. - luzerne;<br>
+4) Pisum sativum L. (partim) - voedererwt;<br>
+5) Trifolium alexandrinum L. - Alexandrijnse klaver;<br>
+6) Trifolium resupinatum L. - Perzische klaver;<br>
+7) Vicia faba - veldboon;<br>
+8) Vicia sativa L. - voederwikke;<br>
+b) granen :<br>
+1) Avena sativa - haver;<br>
+2) Hordeum vulgare L. - gerst;<br>
+3) Phalaris canariensis L. - kanariezaad;<br>
+4) Secale cereale L. - rogge;<br>
+5) X Triticosecale Wittm. - triticale;<br>
+6) Triticum aestivum L. emend. Fiori et Paol. - zachte tarwe;<br>
+7) Triticum durum Desf. - harde tarwe;<br>
+8) Triticum spelta L. - spelt;<br>
+c) olie- en vezelhoudende gewassen :<br>
+1) Brassica napus L. (partim) - koolzaad;<br>
+2) Brassica rapa L. (partim) - raapzaad;<br>
+3) Linum usitatissimum - lijnzaad met uitzondering van vezelvlas;<br>
+2° landbouwer : de landbouwuitbater, natuurlijke of rechtspersoon of de groepering van natuurlijke of rechtspersonen of van beide, die op autonome wijze en voor eigen rekening, een bedrijf beheert of laat beheren door zijn afgevaardigde. De afgevaardigde moet onafhankelijk zijn van de loontrieerder;<br>
+3° bedrijf : het geheel van productie-eenheden, beheerd door een landbouwer;<br>
+4° productie-eenheid : het geheel van de productiemiddelen in een functioneel verband, met inbegrip van de gebouwen, de opslagmogelijkheden, de veestapel en de gronden, die nodig zijn voor de landbouwer met het oog op de uitvoering van een landbouwactiviteit;<br>
+5° loontriage : dienstverlening, op verzoek van de landbouwer, voor het behandelen, hetzij verwerken, hetzij chemisch behandelen, hetzij verpakken van zaden die afkomstig zijn van het eigen bedrijf van die landbouwer en die bestemd zijn om daar te worden ingezaaid en dus niet verhandeld mogen worden, of voor het ter beschikking stellen van de nodige apparatuur voor de behandeling;<br>
+6° loontrieerder: de natuurlijke of rechtspersoon die aan loontriage doet, zonder daarbij een beroep te doen op derden, of de natuurlijke of rechtspersoon die een mobiele trieerinstallatie ter beschikking stelt, ongeacht de omstandigheden van die terbeschikkingstelling;<br>
+7° partij : elke hoeveelheid zaden van eenzelfde soort en van eenzelfde ras die voor loontriage wordt aangeboden door een landbouwer;<br>
+8° landbouwernummer: het nummer dat wordt toegekend in het kader van de verplichting van een systeem van unieke identificatie van iedere landbouwer, vermeld in verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad;<br>
+9° in de handel brengen : de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik;<br>
+10° begeleidend document : genummerd document zoals vastgesteld en uitgereikt door de bevoegde entiteit naar het model van de bijlage in de vorm van een vijfvoudig formulier, opgedeeld in drie vakken;<br>
+11° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+12° minister : de Vlaamse minister, bevoegd voor de landbouw.<br>
+&nbsp;
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## HOOFDSTUK II Verplichtingen voor de loontrieerder
 
 ### ART. 2.
 
-Niemand mag aan loontriage doen tenzij hij daartoe is erkend door de minister of over een erkenning beschikt die uitgereikt is door de bevoegde instantie van een ander gewest of van een andere lidstaat die deel uitmaakt van de Europese Economische Ruimte.<br /><br />
+Alleen natuurlijke of rechtspersonen die de minister erkent als loontrieerder mogen aan loontriage doen.<br>
+&nbsp;
 
 ### ART. 3.
 
-§ 1. Om erkend te worden en te blijven, moet de loontrieerder aan de volgende voorwaarden voldoen :<br />1° beschikken over een aangepaste installatie die een samenhangende eenheid vormt en die ten minste bestaat uit :<br />a) een reinigings- en trieertoestel;<br />b) een geijkt weegtoestel;<br />c) een ontsmettingstoestel bij een chemische behandeling van de zaden;<br />d) een lokaal dat of een kast die bestemd is voor de goede bewaring van de monsters.<br />Als de loontrieerder meer dan een installatie gebruikt in het kader van dit besluit, moeten alle installaties aan de bovengenoemde voorwaarden voldoen.<br />Eenzelfde installatie mag niet tegelijk in aanmerking komen voor de erkenning als loontrieerder en voor de erkenning als handelaar-bereider van zaaizaden van de soorten, vermeld in artikel 1, die wordt verleend overeenkomstig de reglementering houdende inrichting van de keuring van zaaizaad van landbouwgewassen;<br />2° beschikken over een ruimte waar de partijen in afwachting van de loontriage duidelijk gescheiden en goed geïdentificeerd bewaard kunnen worden;<br />3° in geval van het opslaan van zaden, bestemd om te worden ingezaaid, beschikken over een infrastructuur die de goede bewaring van de zaden verzekert;<br />4° alle retributies betalen die in het kader van de erkenning verschuldigd zijn;<br />5° de procedure, vermeld in artikel 7, bij elke loontriage doorlopen;<br />6° alle vierde exemplaren van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, zoals vermeld in artikel 7, § 8, worden elk jaar voor 15 mei bij de bevoegde entiteit ingediend;.<br />7° een register bijhouden dat bestaat uit het klassement van alle begeleidende documenten, vermeld in artikel 7 § 9, al dan niet volledig of gedeeltelijk ingevuld naar gelang van de toestand van elke zaadpartij gedurende een periode van drie jaar vanaf de datum van teruggave van de getrieerde zaden;<br />8° toegang verschaffen aan de landbouwer of zijn afgevaardigde tot de plaatsen waar de zaden worden bewaard en getrieerd, zolang de zaden zich bij de loontrieerder bevinden;<br />9° geen zaden van verschillende partijen mengen of omwisselen of een gedeelte van een partij wegnemen of er zaden aan toevoegen bij het aanbieden met het oog op de loontriëring, gedurende het opslaan, het triëren, het reinigen, het ontsmetten, het verpakken en het vervoeren;<br />10° bewijzen voorleggen van de bestemming van de hoeveelheid zaden die werden aangeboden door de landbouwer en die niet tegen loon getrieerd werden.<br /><br />§ 2. Voor de loontrieerder die trieert bij de landbouwer met behulp van een mobiele installatie geldt § 1 met uitzondering van punt 2° en 3°. Bovendien deelt de loontrieerder op eenvoudig verzoek van de bevoegde entiteit mee waar de mobiele installatie zich bevindt.<br /><br />§ 3 Loontrieerders, erkend door een andere instantie, die triëren in het Vlaams Gewest moeten geregistreerd worden door de bevoegde entiteit en moeten gebruik maken van het begeleidingsdocument, vermeld in artikel 1, 10°.<br /><br />
+§ 1. Om erkend te worden als vermeld in artikel 2, moet de loontrieerder aan al de volgende voorwaarden voldoen:<br>
+1° beschikken over een aangepaste installatie die een samenhangende eenheid vormt en die ten minste bestaat uit:<br>
+a) een reinigings- en trieertoestel;<br>
+b) een geijkt weegtoestel;<br>
+c) een ontsmettingstoestel voor een chemische behandeling van de zaden;<br>
+d) een lokaal dat of een kast die bestemd is voor de goede bewaring van de monsters;<br>
+2° beschikken over een ruimte waar de partijen in afwachting van de loontriage duidelijk gescheiden en goed geïdentificeerd bewaard kunnen worden;<br>
+3° in geval van het opslaan van zaden die bestemd zijn om te worden ingezaaid, beschikken over een infrastructuur die de goede bewaring van de zaden verzekert;<br>
+4° alle retributies betalen die in het kader van de erkenning verschuldigd zijn.<br>
+<br>
+Als de loontrieerder meer dan een installatie gebruikt in het kader van dit besluit, moeten alle installaties aan de voorwaarden, vermeld in het eerste lid, voldoen. Eenzelfde installatie mag niet tegelijk in aanmerking komen voor de erkenning als loontrieerder en voor de erkenning als handelaar-bereider van zaaizaden van de soorten, vermeld in artikel 1, 1°, die wordt verleend conform de reglementering houdende inrichting van de keuring van zaaizaad van landbouwgewassen.<br>
+<br>
+§ 2. Voor de loontrieerder die trieert bij de landbouwer met behulp van een mobiele installatie, geldt paragraaf 1 met uitzondering van het eerste lid, 2° en 3°. Bovendien deelt de loontrieerder op eenvoudig verzoek van de bevoegde entiteit mee waar de mobiele installatie zich bevindt.<br>
+<br>
+§ 3. Om erkend te blijven, moet de loontrieerder naast de voorwaarden, vermeld in paragraaf 1, aan al de volgende voorwaarden voldoen:<br>
+1° de procedure, vermeld in artikel 7, bij elke loontriage doorlopen;<br>
+2° alle vierde exemplaren van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, vermeld in artikel 7, § 8, elk jaar voor 15 mei bij de bevoegde entiteit indienen;<br>
+3° een register bijhouden dat bestaat uit het klassement van alle begeleidende documenten, vermeld in artikel 7, § 9, al dan niet volledig of gedeeltelijk ingevuld naargelang van de toestand van elke zaadpartij gedurende een periode van drie jaar vanaf de datum van teruggave van de getrieerde zaden;<br>
+4° toegang verschaffen aan de landbouwer of zijn afgevaardigde tot de plaatsen waar de zaden worden bewaard en getrieerd, zolang de zaden zich bij de loontrieerder bevinden;<br>
+5° geen zaden van verschillende partijen mengen of omwisselen of een gedeelte van een partij wegnemen of er zaden aan toevoegen bij het aanbieden met het oog op de loontriage, gedurende het opslaan, het triëren, het reinigen, het ontsmetten, het verpakken en het vervoeren;<br>
+6° bewijzen voorleggen van de bestemming van de hoeveelheid zaden die de landbouwer heeft aangeboden en die niet tegen loon getrieerd zijn;<br>
+7° alle retributies betalen die in het kader van de erkenning verschuldigd zijn.
 
 ### ART. 4.
 
-§ 1. Een erkenning wordt schriftelijk aangevraagd bij de bevoegde entiteit. Ze omvat een ondertekende verklaring van de aanvrager waarin hij zich ertoe verbindt om alle voorwaarden van dit besluit te respecteren. De bevoegde entiteit stelt een model op voor de aanvraag tot erkenning.<br /><br />§ 2. De erkenning wordt door de minister verleend aan de loontrieerder voor een welbepaalde installatie en voor een termijn van ten hoogste één jaar die begint op 1 juli van het lopende jaar en eindigt op 30 juni van het daaropvolgende jaar. De erkenning is persoonlijk en niet overdraagbaar. De bevoegde entiteit kent een erkenningsnummer toe aan iedere erkende installatie.<br /><br />§ 3. De erkenning kan jaarlijks vernieuwd worden als de bepalingen van dit besluit gerespecteerd worden. De vraag tot vernieuwing van de erkenning moet schriftelijk gericht worden aan de bevoegde entiteit volgens het model, bepaald door de bevoegde entiteit, ten minste een maand voor het vervallen ervan.<br /><br />§ 4. De lijst van de erkende loontrieerders wordt jaarlijks in het Belgisch Staatsblad bekendgemaakt.<br /><br />§ 5. Zonder afbreuk te doen aan eventuele strafvervolgingen, schorst de minister de erkenning in geval van vaststelling van tekortkomingen betreffende de naleving van artikel 3 tijdens een periode die vastgesteld wordt afhankelijk van de ernst van de vastgestelde tekortkomingen. Alvorens de beslissing tot schorsing genomen wordt, heeft de betrokkene het recht om gehoord te worden. De minister brengt zijn beslissing tot schorsing van de erkenning met een aangetekende brief ter kennis aan de loontrieerder. Hij stelt de duur van de schorsing vast, alsook de manier om er in voorkomend geval een vervroegd einde aan te stellen.<br /><br />De beslissing van de tijdelijke schorsing alsmede de eventuele beslissing om een vervroegd einde te stellen aan de schorsing worden gepubliceerd in het Belgisch Staatsblad bij uittreksel.<br /><br />Tijdens de periode van schorsing is het niet mogelijk dat de loontrieerder een nieuwe erkenning op basis van § 2 of een vernieuwde erkenning op basis van § 3 aanvraagt.<br /><br />
+§ 1. Een erkenning wordt schriftelijk aangevraagd bij de bevoegde entiteit. Ze omvat een ondertekende verklaring van de aanvrager waarin hij zich ertoe verbindt om alle voorwaarden van dit besluit te respecteren. De bevoegde entiteit stelt een model op voor de aanvraag tot erkenning.<br>
+<br>
+§ 2. De minister verleent de erkenning aan de loontrieerder voor een welbepaalde installatie en voor een termijn van ten hoogste vijf jaar, die begint op 1 juli van het lopende jaar.<br>
+<br>
+De bevoegde entiteit kent een erkenningsnummer toe aan iedere erkende installatie. Die erkende installatie kan niet tegelijk door een andere loontrieerder aangegeven worden in het kader van een erkenningsaanvraag.<br>
+<br>
+§ 3. De erkenning kan&nbsp;vernieuwd worden als de bepalingen van dit besluit gerespecteerd worden. De vraag tot vernieuwing van de erkenning moet schriftelijk gericht worden aan de bevoegde entiteit volgens het model, bepaald door de bevoegde entiteit, ten minste een maand voor het vervallen ervan.<br>
+<br>
+§ 4. De lijst van de erkende loontrieerders wordt&nbsp;in het Belgisch Staatsblad bekendgemaakt.<br>
+<br>
+§ 5. Met behoud van de toepassing van eventuele handhavingsmaatregelen die opgelegd zijn conform het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, schorst de minister de erkenning als er tekortkomingen worden vastgesteld in de naleving van artikel 3 van dit besluit, tijdens een periode die vastgesteld wordt afhankelijk van de ernst van de vastgestelde tekortkomingen. Alvorens de beslissing tot schorsing genomen wordt, heeft de betrokkene het recht om gehoord te worden binnen veertien kalenderdagen vanaf de kennisgeving van het voornemen tot schorsing. De minister brengt de loontrieerder met een aangetekende brief op de hoogte van zijn beslissing tot schorsing van de erkenning. Hij stelt de duur van de schorsing vast, alsook de manier om er in voorkomend geval een vervroegd einde aan te stellen.<br>
+<br>
+De beslissing van de tijdelijke schorsing alsmede de eventuele beslissing om een vervroegd einde te stellen aan de schorsing worden gepubliceerd in het Belgisch Staatsblad bij uittreksel.<br>
+<br>
+Tijdens de periode van schorsing is het niet mogelijk dat de loontrieerder een nieuwe erkenning op basis van §&nbsp;1 of een vernieuwde erkenning op basis van § 3 aanvraagt.<br>
+&nbsp;
 
 ## HOOFDSTUK III Verplichtingen voor de landbouwer
 
@@ -36,23 +108,81 @@ Elke landbouwer die een of meer partijen van zaden, afkomstig van zijn eigen oog
 
 ### ART. 6.
 
-De landbouwer bewaart op zijn bedrijf gedurende een periode van drie jaar vanaf de inontvangstname van de getrieerde zaden :<br />1° het bewijs van de herkomst van het uitgangsmateriaal dat gediend heeft voor de productie van de loongetrieerde zaden : hetzij de aankoopfactuur van de gecertificeerde zaden, hetzij een bewijsstuk van de in het vorige seizoen tegen loon getrieerde zaden. Hiervoor mag gebruikgemaakt worden van de registratieprocedures, opgezet met toepassing van artikel 6 van het koninklijk besluit van 14 november 2003 betreffende autocontrole, meldingsplicht en traceerbaarheid in de voedselketen;<br />2° het derde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, dat hij verkrijgt van de loontrieerder bij de inontvangstname van de loongetrieerde zaden, zoals vermeld in artikel 7, § 7. Dit begeleidende document wordt vervangen door een analoog document als de landbouwer heeft laten triëren tegen loon buiten Vlaanderen.<br /><br />
+De landbouwer bewaart op zijn bedrijf gedurende een periode van drie jaar vanaf de inontvangstname van de getrieerde zaden :<br>
+1° het bewijs van de herkomst van het uitgangsmateriaal dat gediend heeft voor de productie van de loongetrieerde zaden : hetzij de aankoopfactuur van de gecertificeerde zaden, hetzij een bewijsstuk van de in het vorige seizoen tegen loon getrieerde zaden. Hiervoor mag gebruikgemaakt worden van de registratieprocedures, opgezet met toepassing van artikel 6 van het koninklijk besluit van 14 november 2003 betreffende autocontrole, meldingsplicht en traceerbaarheid in de voedselketen;<br>
+2° het derde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, dat hij verkrijgt van de loontrieerder bij de inontvangstname van de loongetrieerde zaden, zoals vermeld in artikel 7, § 7.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Procedure van loontriage
 
 ### ART. 7.
 
-§ 1. Iedere partij die door een landbouwer aangeboden wordt voor loontriage moet het object uitmaken van een begeleidend document in de vorm van een vijfvoudig formulier zoals omschreven in artikel 1, 10°, dat ter beschikking wordt gesteld door de loontrieerder en waarvan :<br />a) het eerste exemplaar bestemd is voor de landbouwer bij de afgifte van de zaden aan de loontrieerder (enkel vak 1 is ingevuld);<br />b) het tweede exemplaar bestemd is om de te triëren zaden te identificeren (enkel vak 1 is ingevuld);<br />c) het derde exemplaar bestemd is voor de landbouwer op het ogenblik van de teruggave van de tegen loon getrieerde zaden (vak 1, 2 en 3 zijn ingevuld);<br />d) het vierde exemplaar bestemd is voor de bevoegde entiteit (vak 1, 2 en 3 zijn ingevuld);<br />e) het vijfde exemplaar bestemd is voor de loontrieerder (vak 1, 2 en 3 zijn ingevuld);<br /><br />§ 2. Bij de afgifte van het zaad vult de landbouwer vak 1a van het begeleidende document in en overhandigt het aan de loontrieerder.<br /><br />De loontrieerder vult vak 1b van het begeleidende document in op het ogenblik van de inontvangstname van de zaden van de landbouwer.<br /><br />De loontrieerder overhandigt het eerste exemplaar van het begeleidende document aan de landbouwer. Dat exemplaar geldt als bewijs van de afgifte van zaad.<br /><br />Als de geleverde partij niet in haar totaliteit bestemd is voor de loontriage, zondert de loontrieerder onmiddellijk na de ontvangst het gedeelte af dat bestemd is voor de loontriage.<br /><br />§ 3. De loontrieerder slaat iedere partij gescheiden en duidelijk geïdentificeerd op op de plaats, vermeld in artikel 3, 2°.<br /><br />In afwachting van de loontriage en om iedere verwarring uit te sluiten, plaatst de loontrieerder bij elke partij het tweede exemplaar van het begeleidende document, waarvan vak 1 volledig ingevuld en ondertekend is.<br /><br />Als de partij bewaard wordt in verpakkingen, wordt het begeleidende document vervangen door een etiket dat aan elke verpakking gehecht wordt en dezelfde vermeldingen bevat.<br /><br />§ 4. De loontrieerder trieert de zaden en verpakt ze in zakken onmiddellijk bij het verlaten van het reinigings- of het ontsmettingstoestel. Hij vult vak 2 van het begeleidende document in.<br /><br />De loontrieerder voorziet de zakken met tegen loon getrieerd zaad van een etiket, waarop hij de volgende gegevens vermeldt :<br />1° de naam en het adres van de bedrijfszetel van de loontrieerder;<br />2° het door de bevoegde entiteit toegekende documentnummer op het begeleidende document zoals vermeld in artikel 1, 10°;<br />3° de naam en het adres van de landbouwer;<br />4° Als de zaden ontsmet werden : de vermelding « ontsmet met ...... (handelsbenaming die op het etiket van het gebruikte ontsmettingsmiddel voorkomt) ».<br /><br />Het etiket mag geen vermelding, teken of afkorting bevatten dat verwijst naar de rasbenaming;<br /><br />§ 5. Het zaad hoeft niet in zakken verpakt te worden als het zaad het landbouwbedrijf niet verlaat of rechtstreeks van de loontrieerder naar het veld wordt getransporteerd om te worden ingezaaid.<br /><br />§ 6. Van elke partij van de tegen loon getrieerde zaden neemt de loontrieerder drie monsters van minstens 500 gram. De landbouwer of zijn afgevaardigde mogen aanwezig zijn bij die monstername.<br /><br />Elk monster wordt gesloten met een zelfklevend etiket, uitgereikt door de bevoegde entiteit, dat door de loontrieerder ondertekend en door de landbouwer medeondertekend wordt.<br /><br />Het zelfklevende etiket draagt naast de aanduidingen die moeten voorkomen op het etiket, vermeld in § 3, de naam van de soort en van het ras, volgens de verklaring van de landbouwer.<br /><br />De loontrieerder bewaart twee monsters, waarvan één ter beschikking wordt gehouden van de bevoegde entiteit. Het derde monster wordt ter beschikking gesteld van de landbouwer na de terugname van de getrieerde hoeveelheid. Het voor de bevoegde entiteit bestemde monster en het monster dat bestemd is voor de loontrieerder worden bewaard in het lokaal of kast, vermeld in artikel 3, 1°, d) gedurende achttien maanden vanaf de monstername.<br /><br />§ 7. Op het ogenblik van de teruggave van de tegen loon getrieerde zaden laat de loontrieerder de landbouwer vak 3 van het begeleidende document invullen en ondertekenen.<br /><br />Hierna overhandigt de loontrieerder het derde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, aan de landbouwer.<br /><br />§ 8. Het vierde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, bezorgt de loontrieerder aan de bevoegde entiteit overeenkomstig artikel 3, 6°.<br /><br />§ 9. Het vijfde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, bewaart de loontrieerder zelf overeenkomstig artikel 3, 7°.<br /><br />
+§ 1. Iedere partij die door een landbouwer aangeboden wordt voor loontriage moet het object uitmaken van een begeleidend document in de vorm van een vijfvoudig formulier zoals omschreven in artikel 1, 10°, dat ter beschikking wordt gesteld door de loontrieerder en waarvan :<br>
+a) het eerste exemplaar bestemd is voor de landbouwer bij de afgifte van de zaden aan de loontrieerder (enkel vak 1 is ingevuld);<br>
+b) het tweede exemplaar bestemd is om de te triëren zaden te identificeren (enkel vak 1 is ingevuld);<br>
+c) het derde exemplaar bestemd is voor de landbouwer op het ogenblik van de teruggave van de tegen loon getrieerde zaden (vak 1, 2 en 3 zijn ingevuld);<br>
+d) het vierde exemplaar bestemd is voor de bevoegde entiteit (vak 1, 2 en 3 zijn ingevuld);<br>
+e) het vijfde exemplaar bestemd is voor de loontrieerder (vak 1, 2 en 3 zijn ingevuld);<br>
+<br>
+§ 2. Bij de afgifte van het zaad vult de landbouwer vak 1a van het begeleidende document in en overhandigt het aan de loontrieerder.<br>
+<br>
+De loontrieerder vult vak 1b van het begeleidende document in op het ogenblik van de inontvangstname van de zaden van de landbouwer.<br>
+<br>
+De loontrieerder overhandigt het eerste exemplaar van het begeleidende document aan de landbouwer. Dat exemplaar geldt als bewijs van de afgifte van zaad.<br>
+<br>
+Als de geleverde partij niet in haar totaliteit bestemd is voor de loontriage, zondert de loontrieerder onmiddellijk na de ontvangst het gedeelte af dat bestemd is voor de loontriage.<br>
+<br>
+§ 3. De loontrieerder slaat iedere partij gescheiden en duidelijk geïdentificeerd op op de plaats, vermeld in artikel 3, § 1, eerste lid, 2°.<br>
+<br>
+In afwachting van de loontriage en om iedere verwarring uit te sluiten, plaatst de loontrieerder bij elke partij het tweede exemplaar van het begeleidende document, waarvan vak 1 volledig ingevuld en ondertekend is.<br>
+<br>
+Als de partij bewaard wordt in verpakkingen, wordt het begeleidende document vervangen door een etiket dat aan elke verpakking gehecht wordt en dezelfde vermeldingen bevat.<br>
+<br>
+§ 4. De loontrieerder trieert de zaden en verpakt ze in zakken onmiddellijk bij het verlaten van het reinigings- of het ontsmettingstoestel. Hij vult vak 2 van het begeleidende document in.<br>
+<br>
+De loontrieerder voorziet de zakken met tegen loon getrieerd zaad van een etiket, waarop hij de volgende gegevens vermeldt :<br>
+1° de naam en het adres van de bedrijfszetel van de loontrieerder;<br>
+2° het door de bevoegde entiteit toegekende documentnummer op het begeleidende document zoals vermeld in artikel 1, 10°;<br>
+3° de naam en het adres van de landbouwer;<br>
+4° Als de zaden ontsmet werden : de vermelding « ontsmet met ...... (handelsbenaming die op het etiket van het gebruikte ontsmettingsmiddel voorkomt) ».<br>
+<br>
+Het etiket mag geen vermelding, teken of afkorting bevatten dat verwijst naar de rasbenaming;<br>
+<br>
+§ 5. Het zaad hoeft niet in zakken verpakt te worden als het zaad het landbouwbedrijf niet verlaat of rechtstreeks van de loontrieerder naar het veld wordt getransporteerd om te worden ingezaaid.<br>
+<br>
+§ 6. Van elke partij van de tegen loon getrieerde zaden neemt de loontrieerder drie monsters van minstens 500 gram. De landbouwer of zijn afgevaardigde mogen aanwezig zijn bij die monstername.<br>
+<br>
+Elk monster wordt gesloten met een zelfklevend etiket, uitgereikt door de bevoegde entiteit, dat door de loontrieerder ondertekend en door de landbouwer medeondertekend wordt.<br>
+<br>
+Het zelfklevende etiket draagt naast de aanduidingen die moeten voorkomen op het etiket, vermeld in § 3, de naam van de soort en van het ras, volgens de verklaring van de landbouwer.<br>
+<br>
+De loontrieerder bewaart twee monsters, waarvan één ter beschikking wordt gehouden van de bevoegde entiteit. Het derde monster wordt ter beschikking gesteld van de landbouwer na de terugname van de getrieerde hoeveelheid. Het voor de bevoegde entiteit bestemde monster en het monster dat bestemd is voor de loontrieerder worden bewaard in het lokaal of kast, vermeld in artikel 3, § 1, eerste lid, 1°, d) gedurende achttien maanden vanaf de monstername.<br>
+<br>
+§ 7. Op het ogenblik van de teruggave van de tegen loon getrieerde zaden laat de loontrieerder de landbouwer vak 3 van het begeleidende document invullen en ondertekenen.<br>
+<br>
+Hierna overhandigt de loontrieerder het derde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, aan de landbouwer.<br>
+<br>
+§ 8. Het vierde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, bezorgt de loontrieerder aan de bevoegde entiteit overeenkomstig artikel 3, § 3, 2°.<br>
+<br>
+§ 9. Het vijfde exemplaar van het begeleidende document, waarvan vak 1, 2 en 3 ingevuld en ondertekend zijn, bewaart de loontrieerder zelf overeenkomstig artikel 3, § 3, 3°.<br>
+&nbsp;
 
 ## HOOFDSTUK V Controle
 
 ### ART. 8.
 
-§ 1 De bevoegde entiteit is belast met de controle op de naleving van de bepalingen van dit besluit. Die controle kan inspectiebezoeken omvatten en er kan gebruik gemaakt worden van de gegevens en informatie, geregistreerd door de bevoegde entiteit die bevoegd is voor het uitvoeren van controles in het kader van Verordening (EG) nr. 1782/2003 van de Raad van 29 september 2003 ter uitvoering van de reglementaire voorschriften, verbonden aan de bedrijfstoeslagregeling.<br /><br />Als tijdens een inspectiebezoek vastgesteld wordt dat er door de loontrieerder of de landbouwer bijkomende acties ondernomen moeten worden om in overeenstemming te zijn met de bepalingen van dit besluit en hierdoor bijkomende controles door de bevoegde entiteit nodig zijn, worden de inspectiekosten van deze bijkomende controles op de betrokkene verhaald.<br /><br />§ 2. De documenten, vermeld in dit besluit, moeten aan de ambtenaren van de bevoegde entiteit voorgelegd worden bij ieder verzoek.<br /><br />§ 3. De bevoegde entiteit kan overgaan tot de controle van de identiteit van de zaden, bestemd of aangeboden voor loontriage, van de zaden die opgeslagen zijn bij de landbouwer, van de getrieerde, verpakte, getransporteerde en bij de uitzaai gebruikte zaden.<br /><br />
+§ 1 De bevoegde entiteit is belast met de controle op de naleving van de bepalingen van dit besluit. Die controle kan inspectiebezoeken omvatten en er kan gebruik gemaakt worden van de gegevens en informatie, geregistreerd door de bevoegde entiteit die bevoegd is voor het uitvoeren van controles in het kader van verordening (EU) nr. 1307/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr. 637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de Raad.<br>
+<br>
+Als tijdens een inspectiebezoek vastgesteld wordt dat er door de loontrieerder of de landbouwer bijkomende acties ondernomen moeten worden om in overeenstemming te zijn met de bepalingen van dit besluit en hierdoor bijkomende controles door de bevoegde entiteit nodig zijn, worden de inspectiekosten van deze bijkomende controles op de betrokkene verhaald.<br>
+<br>
+§ 2. De documenten, vermeld in dit besluit, moeten aan de ambtenaren van de bevoegde entiteit voorgelegd worden bij ieder verzoek.<br>
+<br>
+§ 3. De bevoegde entiteit kan overgaan tot de controle van de identiteit van de zaden, bestemd of aangeboden voor loontriage, van de zaden die opgeslagen zijn bij de landbouwer, van de getrieerde, verpakte, getransporteerde en bij de uitzaai gebruikte zaden.<br>
+&nbsp;
 
 ### ART. 9.
 
-Overtredingen van de bepalingen van dit besluit worden opgespoord, vastgesteld, vervolgd en bestraft in overeenstemming met de bepalingen van de wet van 11 juli 1969 betreffende de bestrijdingsmiddelen en de grondstoffen voor de landbouw, tuinbouw, bosbouw en veeteelt.<br /><br />De termijn van de voorlopige inbeslagneming, vermeld in artikel 13 van de wet, vermeld in het eerste lid, is vastgesteld op dertig dagen.<br /><br />
+...
 
 ## HOOFDSTUK VI Overgangs- en slotbepalingen
 
