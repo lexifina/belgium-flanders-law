@@ -6,7 +6,9 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder:<BR>1° comité: het   toezichtcomité, vermeld in artikel 2;<BR>2° minister: de Vlaamse minister van   Omgeving, Natuur en Landbouw.<BR>
+&nbsp;In dit besluit wordt verstaan onder:<br>
+1° comité: het toezichtcomité, vermeld in artikel 2;<br>
+2° minister: de Vlaamse minister bevoegd voor de landbouw.
 
 ### ART. 2.
 
@@ -14,7 +16,38 @@
 
 ### ART. 3.
 
-<P>§ 1. Het comité is samengesteld uit tweeëntwintig leden, onder   voorzitterschap van de minister.<BR></P>  <P>De leden hebben de hoedanigheid van stemgerechtigd lid of raadgevend   lid.<BR></P>  <P>§ 2. De elf stemgerechtigde leden zijn:<BR>1° de minister;<BR>2° één   vertegenwoordiger, voorgedragen door de Vlaamse minister van Omgeving, Natuur en   Landbouw;<BR>3° één vertegenwoordiger, voorgedragen door de minister-president   van de Vlaamse Regering en Vlaams minister van Buitenlands Beleid en Onroerend   Erfgoed;<BR>4° één vertegenwoordiger, voorgedragen door de Vlaamse minister van   Onderwijs;<BR>5° één vertegenwoordiger, voorgedragen door de Vlaamse minister   van Begroting, Financiën en Energie;<BR>6° één vertegenwoordiger, voorgedragen   door Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke   Kansen en Armoedebestrijding;<BR>7° één vertegenwoordiger, voorgedragen door de   Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en   Dierenwelzijn;<BR>8° één vertegenwoordiger, voorgedragen door de Vlaamse   minister van Welzijn, Volksgezondheid en Gezin;<BR>9° één vertegenwoordiger,   voorgedragen door de Vlaamse minister van Werk, Economie, Innovatie en   Sport;<BR>10° één vertegenwoordiger, voorgedragen door de Vlaamse minister van   Cultuur, Media, Jeugd en Brussel;<BR>11° de secretaris-generaal van het   Departement Landbouw en Visserij, tevens ondervoorzitter van het comité.<BR></P>  <P>§ 3. De elf raadgevende leden zijn:<BR>1° één vertegenwoordiger, voorgedragen   door de Europese Commissie, directoraat-generaal Landbouw;<BR>2° één   vertegenwoordiger, voorgedragen door de Milieu- en Natuurraad van   Vlaanderen;<BR>3° één vertegenwoordiger, voorgedragen door de   Sociaal-Economische Raad van Vlaanderen;<BR>4° één vertegenwoordiger,   voorgedragen door de Strategische Adviesraad Landbouw en Visserij;<BR>5° één   vertegenwoordiger, voorgedragen door het Agentschap voor Natuur en Bos;<BR>6°   één vertegenwoordiger, voorgedragen door de Vlaamse Landmaatschappij;<BR>7° één   vertegenwoordiger, voorgedragen door het team Gelijke Kansen in Vlaanderen van   de Diensten voor het Algemeen Regeringsbeleid;<BR>8° één vertegenwoordiger,   voorgedragen door het Vlaams Betaalorgaan;<BR>9° één vertegenwoordiger,   voorgedragen door de Vereniging van de Vlaamse Provincies vzw;<BR>10° één   vertegenwoordiger, voorgedragen door de Vereniging van Vlaamse Steden en   Gemeenten vzw;<BR>11° één vertegenwoordiger, voorgedragen door het Vlaams Ruraal   Netwerk.<BR></P>  <P>§ 4. Het Waalse Gewest kan op verzoek van de minister één vertegenwoordiger   voordragen als bijkomend raadgevend lid.<BR></P>  <P>§ 5. Het secretariaat wordt waargenomen door een personeelslid van het   Departement Landbouw en Visserij.<BR></P>
+<p>§ 1. Het comité is samengesteld uit eenentwintig leden, onder voorzitterschap van de minister.</p>
+
+<p>De leden hebben de hoedanigheid van stemgerechtigd lid of raadgevend lid.</p>
+
+<p>§ 2. De elf stemgerechtigde leden zijn:<br>
+1° de minister;<br>
+2° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Omgeving, Natuur en Landbouw;<br>
+3° één vertegenwoordiger, voorgedragen door de minister-president van de Vlaamse Regering en Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed;<br>
+4° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Onderwijs;<br>
+5° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Begroting, Financiën en Energie;<br>
+6° één vertegenwoordiger, voorgedragen door Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding;<br>
+7° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
+8° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br>
+9° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Werk, Economie, Innovatie en Sport;<br>
+10° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
+11° de secretaris-generaal van het Departement Landbouw en Visserij, tevens ondervoorzitter van het comité.</p>
+
+<p>§ 3. De tien raadgevende leden zijn:<br>
+1° één vertegenwoordiger, voorgedragen door de Europese Commissie, directoraat-generaal Landbouw;<br>
+2° één vertegenwoordiger, voorgedragen door de Milieu- en Natuurraad van Vlaanderen;<br>
+3° één vertegenwoordiger, voorgedragen door de Sociaal-Economische Raad van Vlaanderen;<br>
+4° één vertegenwoordiger, voorgedragen door de Strategische Adviesraad Landbouw en Visserij;<br>
+5° één vertegenwoordiger, voorgedragen door het Agentschap voor Natuur en Bos;<br>
+6° één vertegenwoordiger, voorgedragen door de Vlaamse Landmaatschappij;<br>
+7° één vertegenwoordiger, voorgedragen door het Vlaams Betaalorgaan;<br>
+8° één vertegenwoordiger, voorgedragen door de Vereniging van de Vlaamse Provincies vzw;<br>
+9° één vertegenwoordiger, voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten vzw;<br>
+10° één vertegenwoordiger, voorgedragen door het Vlaams Ruraal Netwerk.</p>
+
+<p>§ 4. Het Waalse Gewest kan op verzoek van de minister één vertegenwoordiger voordragen als bijkomend raadgevend lid.</p>
+
+<p>§ 5. Het secretariaat wordt waargenomen door een personeelslid van het Departement Landbouw en Visserij.</p>
 
 ### ART. 4.
 
