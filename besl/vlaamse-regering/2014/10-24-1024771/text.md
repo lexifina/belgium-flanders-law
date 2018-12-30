@@ -95,7 +95,7 @@ b) een rechtspersoon of groepering van natuurlijke personen die voldoet aan de d
 
 ### ART. 2.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## Afdeling 2 Enveloppe voor rechtstreekse betalingen en algemene bepalingen
 
@@ -191,7 +191,18 @@ Alleen de teelt van gewassen in volle grond kan subsidiabel zijn.   Substraattee
 
 ### ART. 21.
 
-<P>§ 1. Ter uitvoering van artikel 32, zesde lid, van verordening (EU) nr.   1307/2013, is de teelt van hennep onderworpen aan een voorafgaande vergunning,   hierna teelttoestemming voor hennep te noemen. De teeltoestemming voor hennep is   alleen geldig voor het teeltseizoen waarvoor de toestemming wordt aangevraagd en   voor het in de aanvraag vermelde ras. Alleen de teelt van rassen als vermeld in   artikel 9 van gedelegeerde verordening (EU) nr. 639/2014, is toegestaan.<BR></P>  <P>De minister bepaalt:<BR>1° ter uitvoering van artikel 17, zevende lid, van   uitvoeringsverordening (EU) nr. 809/2014, de wijze waarop de teelttoestemming   wordt aangevraagd, de inhoud van de aanvraag en de vereiste bewijsstukken;<BR>2°   het uiterste tijdstip waarop de aanvraag tot teelttoestemming voor een   teeltseizoen moet worden ingediend;<BR>3° de wijze waarop de teelttoestemming   wordt gegeven.<BR></P>  <P>De minister kan de formulieren voor de aanvraag tot het krijgen van een   teelttoestemming en de vorm van de teelttoestemming vastleggen.<BR></P>  <P>§ 2. De teelt van hennep wordt gecontroleerd overeenkomstig artikel 45 van   uitvoeringsverordening (EU) nr. 809/2014.<BR></P>  <P>De minister kan de aanvullende voorwaarden voor de controle   vaststellen.<BR></P>
+<p>§ 1. Ter uitvoering van artikel 32, zesde lid, van verordening (EU) nr. 1307/2013, is de teelt van hennep onderworpen aan een voorafgaande vergunning, hierna teelttoestemming voor hennep te noemen. De teeltoestemming voor hennep is alleen geldig voor het teeltseizoen waarvoor de toestemming wordt aangevraagd en voor het in de aanvraag vermelde ras. Alleen de teelt van rassen als vermeld in artikel 9 van gedelegeerde verordening (EU) nr. 639/2014, is toegestaan.</p>
+
+<p>De minister bepaalt:<br>
+1° ter uitvoering van artikel 17, zevende lid, van uitvoeringsverordening (EU) nr. 809/2014, de wijze waarop de teelttoestemming wordt aangevraagd, de inhoud van de aanvraag en de vereiste bewijsstukken;<br>
+2° het uiterste tijdstip waarop de aanvraag tot teelttoestemming voor een teeltseizoen moet worden ingediend;<br>
+3° de wijze waarop de teelttoestemming wordt gegeven.</p>
+
+<p>De minister kan de formulieren voor de aanvraag tot het krijgen van een teelttoestemming en de vorm van de teelttoestemming vastleggen.</p>
+
+<p>§ 2. De teelt van hennep wordt gecontroleerd overeenkomstig artikel&nbsp;9 van gedelegeerde verordening (EU) nr. 639/2014.</p>
+
+<p>De minister kan de aanvullende voorwaarden voor de controle vaststellen.</p>
 
 ### ART. 22.
 
