@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°   gemeenschappe
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ### ART. 2.
 
@@ -30,17 +30,55 @@ Het Comité kan bepalen dat de opneming van een ras in de rassenlijst van een an
 
 ### ART. 5.
 
-Er wordt een Comité opgericht, samengesteld uit :<BR>1° de voorzitter :   Het hoofd van de bevoegde entiteit of een door hem aangewezen personeelslid van   de bevoegde entiteit;<BR>2° twee vertegenwoordigers van de bevoegde   entiteit;<BR>3° de administrateur-generaal van het Instituut voor Landbouw- en   Visserijonderzoek of een door hem aangewezen personeelslid van het Instituut   voor Landbouw- en Visserijonderzoek;<BR>4° twee deskundigen van de universiteit,   hogeschool of van associaties;<BR>5° een niet-stemgerechtigde secretaris,   aangewezen door de voorzitter van het comité.<BR><BR>Het Comité is belast met de   uitvoering van de taken, vermeld dit besluit. De minister kan de leden van het   Comité benoemen en de samenstelling van het Comité wijzigen. De minister kan de   taken van het Comité aanvullen of beperken.<BR><BR>Het Comité stelt een   huishoudelijk reglement op dat door de minister wordt   goedgekeurd.<BR><BR>
+Er wordt een Comité opgericht, samengesteld uit :<br>
+1° de voorzitter : Het hoofd van de bevoegde entiteit of een door hem aangewezen personeelslid van de bevoegde entiteit;<br>
+2° twee vertegenwoordigers van de bevoegde entiteit, waarvan één vertegenwoordiger door de voorzitter van het Comité als verslaggever aangewezen wordt;<br>
+3° de administrateur-generaal van het Instituut voor Landbouw- en Visserijonderzoek of een door hem aangewezen personeelslid van het Instituut voor Landbouw- en Visserijonderzoek;<br>
+4° twee deskundigen van de universiteit, hogeschool of van associaties;<br>
+5° ...<br>
+<br>
+Het Comité is belast met de uitvoering van de taken, vermeld dit besluit. De minister kan de leden van het Comité benoemen en de samenstelling van het Comité wijzigen. De minister kan de taken van het Comité aanvullen of beperken.<br>
+<br>
+Het Comité kan tijdelijk en afhankelijk van de concrete dossiers een beroep doen op andere vertegenwoordigers van de diensten en instellingen van de Vlaamse overheid en externe deskundigen.<br>
+<br>
+Het Comité stelt een huishoudelijk reglement op dat door de minister wordt goedgekeurd.<br>
+&nbsp;
 
 ## HOOFDSTUK III Toelating tot de rassenlijsten van landbouwgewassen en groentegewassen
 
 ### ART. 6.
 
-§ 1. Een ras wordt slechts in de rassenlijst van landbouwgewassen of de rassenlijst van groentegewassen opgenomen indien het onderscheidbaar, bestendig en voldoende homogeen is.<br /><br />In geval van landbouwgewassen en van industriële cichorei, moet het ras bovendien een voldoende cultuur- en gebruikswaarde bezitten.<br /><br />§ 2. Een onderzoek naar de cultuur- en gebruikswaarde is niet noodzakelijk :<br />1° voor de toelating van grasrassen, wanneer de kweker verklaart dat het zaaizaad van zijn ras niet bestemd is voor de teelt van voedergewassen. Voor deze rassen beslist de minister overeenkomstig de beslissingen van de Europese instellingen dat na een passend onderzoek moet blijken dat de rassen geschikt zijn voor het gebruik waarvoor zij volgens verklaring bestemd zijn;<br />2° voor de toelating van rassen waarvan het zaaizaad bestemd is voor verkoop in een andere lidstaat die deze rassen mede op grond van hun cultuur- en gebruikswaarde heeft toegelaten;<br />3° voor de toelating van rassen (ingeteelde stammen, hybriden) die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor hybriderassen die voldoen aan de eisen, vermeld in § 1.<br /><br />§ 3. In het geval van een genetisch gemodificeerd ras mag dit alleen worden toegelaten als alle passende maatregelen zijn genomen ter voorkoming van negatieve effecten voor de volksgezondheid en het milieu, zoals voorzien in het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewuste introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organismen of van producten die er bevatten.<br /><br />§ 4. Indien voorts van een plantenras afgeleid materiaal bestemd is voor gebruik als levensmiddel dat valt onder artikel 3 van Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders, of als diervoeder dat valt onder artikel 15 van die verordening, mag dat ras alleen worden toegelaten als het overeenkomstig die verordening is goedgekeurd.<br /><br />§ 5. In het belang van de instandhouding van plantaardige genetische bronnen vermeld in Verordening (EG) nr. 1467/94 van de Raad van 20 juni 1994 inzake de instandhouding, de karakterisering, de verzameling en het gebruik van genetische hulpbronnen in de landbouw kan de minister overeenkomstig de beslissingen van de Europese instellingen afwijken van de aanvaardingscriteria betreffende onderscheidbaarheid, bestendigheid en homogeniteit.
+§ 1. Een ras wordt slechts in de rassenlijst van landbouwgewassen of de rassenlijst van groentegewassen opgenomen indien het onderscheidbaar, bestendig en voldoende homogeen is.<br>
+<br>
+In geval van landbouwgewassen en van industriële cichorei, moet het ras bovendien een voldoende cultuur- en gebruikswaarde bezitten.<br>
+<br>
+§ 2. Een onderzoek naar de cultuur- en gebruikswaarde is niet noodzakelijk :<br>
+1° voor de toelating van grasrassen, wanneer de kweker verklaart dat het zaaizaad van zijn ras niet bestemd is voor de teelt van voedergewassen. Voor deze rassen beslist de minister overeenkomstig de beslissingen van de Europese instellingen dat na een passend onderzoek moet blijken dat de rassen geschikt zijn voor het gebruik waarvoor zij volgens verklaring bestemd zijn;<br>
+2° voor de toelating van rassen waarvan het zaaizaad bestemd is voor verkoop in een andere lidstaat die deze rassen mede op grond van hun cultuur- en gebruikswaarde heeft toegelaten;<br>
+3° voor de toelating van rassen (ingeteelde stammen, hybriden) die uitsluitend bestemd zijn voor gebruik als kruisingspartner voor hybriderassen die voldoen aan de eisen, vermeld in § 1.<br>
+<br>
+§ 3. In het geval van een genetisch gemodificeerd ras mag dit alleen worden toegelaten als alle passende maatregelen zijn genomen ter voorkoming van negatieve effecten voor de volksgezondheid en het milieu, zoals voorzien in het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewuste introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organismen of van producten die er bevatten.<br>
+<br>
+§ 4. Indien voorts van een plantenras afgeleid materiaal bestemd is voor gebruik als levensmiddel dat valt onder artikel 3 van Verordening (EG) nr. 1829/2003 van het Europees Parlement en de Raad van 22 september 2003 inzake genetisch gemodificeerde levensmiddelen en diervoeders, of als diervoeder dat valt onder artikel 15 van die verordening, mag dat ras alleen worden toegelaten als het overeenkomstig die verordening is goedgekeurd.<br>
+<br>
+§ 5. In het belang van de instandhouding van plantaardige genetische bronnen&nbsp;kan de minister overeenkomstig de beslissingen van de Europese instellingen afwijken van de aanvaardingscriteria betreffende onderscheidbaarheid, bestendigheid en homogeniteit.
 
 ### ART. 7.
 
-§ 1. Een ras is, ongeacht de kunstmatige of natuurlijke oorsprong van de eerste mutatie waaruit het is ontstaan, onderscheidbaar wanneer het zich door één of meer belangrijke eigenschappen duidelijk onderscheidt van elk ander in de Europese Gemeenschap bekend ras.<br /><br />De eigenschappen moeten duidelijk kunnen worden herkend en beschreven.<br /><br />Als in de Europese Gemeenschap bekend ras wordt beschouwd ieder ras dat, op het ogenblik waarop de aanvraag tot toelating van het te beoordelen ras volgens de voorschriften wordt ingediend :<br />1° ofwel voorkomt op de gemeenschappelijke rassenlijst van landbouwgewassen of op de gemeenschappelijke rassenlijst van groentegewassen;<br />2° ofwel, zonder op één van die lijsten te staan, is toegelaten dan wel het onderwerp is van een aanvraag tot toelating in België of in een andere lidstaat, hetzij tot de keuring en de handel, hetzij tot de keuring voor andere landen, hetzij tot de controle als standaardzaad, tenzij vóór het besluit inzake het verzoek om toelating van het te beoordelen ras, niet meer in alle betrokken lidstaten aan voornoemde voorwaarden wordt voldaan.<br /><br />§ 2. Een ras is bestendig wanneer het na opeenvolgende vermeerderingen, of, wanneer de kweker een bijzondere vermeerderingscyclus heeft vastgesteld, op het einde van elke cyclus, voor wat de wezenlijke eigenschappen betreft, nog aan zijn beschrijving beantwoordt.<br /><br />§ 3. Een ras is voldoende homogeen indien de planten van dit ras, afgezien van enkele afwijkingen, rekening houdend met de bijzonderheden van het voortplantingsstelsel van de planten, ten aanzien van alle daartoe in aanmerking genomen eigenschappen met elkaar overeenstemmen of genetisch identiek zijn.<br /><br />§ 4. Een ras bezit voldoende cultuur- of gebruikswaarde wanneer het ten opzichte van de andere in de nationale rassenlijst van landbouwgewassen of de nationale rassenlijst van groentegewassen opgenomen rassen door het geheel van zijn hoedanigheden, tenminste voor de productie in een bepaald gebied, een duidelijke verbetering betekent, hetzij voor de teelt, hetzij voor de valorisatie van de oogst of van de daaruit verkregen producten. Een lager niveau van bepaalde eigenschappen kan door andere gunstige eigenschappen gecompenseerd worden.<br /><br />
+§ 1. Een ras is, ongeacht de kunstmatige of natuurlijke oorsprong van de eerste mutatie waaruit het is ontstaan, onderscheidbaar wanneer het zich door één of meer belangrijke eigenschappen duidelijk onderscheidt van elk ander in de Europese Gemeenschap bekend ras.<br>
+<br>
+De eigenschappen moeten duidelijk kunnen worden herkend en beschreven.<br>
+<br>
+Als in de Europese Gemeenschap bekend ras wordt beschouwd ieder ras dat, op het ogenblik waarop de aanvraag tot toelating van het te beoordelen ras volgens de voorschriften wordt ingediend :<br>
+1° ofwel voorkomt op de gemeenschappelijke rassenlijst van landbouwgewassen of op de gemeenschappelijke rassenlijst van groentegewassen;<br>
+2° ofwel, zonder op één van die lijsten te staan, is toegelaten dan wel het onderwerp is van een aanvraag tot toelating in België of in een andere lidstaat, hetzij tot de keuring en de handel, hetzij tot de keuring voor andere landen, hetzij tot de controle als standaardzaad, tenzij vóór het besluit inzake de aanvraag van toelating van het te beoordelen ras, niet meer in alle betrokken lidstaten aan voornoemde voorwaarden wordt voldaan.<br>
+<br>
+§ 2. Een ras is bestendig wanneer het na opeenvolgende vermeerderingen, of, wanneer de kweker een bijzondere vermeerderingscyclus heeft vastgesteld, op het einde van elke cyclus, voor wat de wezenlijke eigenschappen betreft, nog aan zijn beschrijving beantwoordt.<br>
+<br>
+§ 3. Een ras is voldoende homogeen indien de planten van dit ras, afgezien van enkele afwijkingen, rekening houdend met de bijzonderheden van het voortplantingsstelsel van de planten, ten aanzien van alle daartoe in aanmerking genomen eigenschappen met elkaar overeenstemmen of genetisch identiek zijn.<br>
+<br>
+§ 4. Een ras bezit voldoende cultuur- of gebruikswaarde wanneer het ten opzichte van de andere in de nationale rassenlijst van landbouwgewassen of de nationale rassenlijst van groentegewassen opgenomen rassen door het geheel van zijn hoedanigheden, tenminste voor de productie in een bepaald gebied, een duidelijke verbetering betekent, hetzij voor de teelt, hetzij voor de valorisatie van de oogst of van de daaruit verkregen producten. Een lager niveau van bepaalde eigenschappen kan door andere gunstige eigenschappen gecompenseerd worden.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -52,7 +90,9 @@ De uit andere gewesten en lidstaten afkomstige rassen worden, met name wat de pr
 
 ### ART. 10.
 
-Bij het indienen van het verzoek om opneming van een ras moet de aanvrager aanduiden of er voor dit ras reeds een verzoek werd ingediend in een ander gewest of lidstaat en zo ja, in welke andere gewest of welke lidstaat en tot welk resultaat het verzoek heeft geleid.<br /><br />
+De procedure van de aanvraag van toelating tot de rassenlijst van landbouwgewassen of de rassenlijst van groentegewassen wordt door de minister vastgesteld.<br>
+<br>
+Bij het indienen van de aanvraag van toelating tot de rassenlijst van een ras moet de aanvrager aanduiden of er voor dat ras al een aanvraag is ingediend in een ander gewest of lidstaat en zo ja, in welk gewest of welke lidstaat de aanvraag is ingediend en tot welk resultaat de aanvraag heeft geleid.
 
 ## HOOFDSTUK IV Bekendmakingen rassenlijsten van landbouwgewassen en groentegewassen en geschiktheid rasbenaming
 
@@ -62,7 +102,27 @@ Het Comité is gemachtigd de rassenlijst van landbouwgewassen en de rassenlijst 
 
 ### ART. 12.
 
-§ 1. De bevoegde entiteit maakt de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen officieel bekend, met daarbij de naam van voor de instandhouding verantwoordelijke persoon of personen.<br /><br />Wanneer meer personen voor de instandhouding van een ras verantwoordelijk zijn, behoeven hun namen niet te worden bekendgemaakt. Worden deze namen niet vermeld, dan wordt in de in rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen aangegeven dat de bevoegde entiteit beschikt over de lijst van de namen van degenen die voor de instandhouding verantwoordelijk zijn.<br /><br />§ 2. Bij toelating van een ras wordt zorg gedragen dat dit ras, voor zover mogelijk, dezelfde benaming als in andere lidstaten draagt.<br /><br />Indien bekend is dat zaaizaad of pootgoed van een ras in een ander land onder een andere naam in de handel wordt gebracht, wordt deze naam eveneens in de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen vermeld.<br /><br />§ 3. Rekening houdend met de beschikbare informaties, draagt een ras dat zich niet duidelijk onderscheidt :<br />1° van een ras dat in een andere lidstaat was toegelaten, of<br />2° van een ander ras dat inzake de onderscheidbaarheid, de bestendigheid en de homogeniteit is beoordeeld volgens de regels in artikel 7 voorgeschreven, zonder evenwel een in de Europese Gemeenschap bekend ras in de zin van artikel 7, § 1, te zijn,<br />de naam van dat ras. <br /><br />Deze bepaling is niet van toepassing indien deze benaming misleidend of verwarrend kan werken voor wat het ras betreft, of indien andere feiten krachtens de gezamenlijke voorschriften van de betrokken lidstaat inzake de rasbenamingen het gebruik ervan beletten, of indien voor een recht van een derde het vrije gebruik van deze benaming met betrekking tot het ras in de weg staat.<br /><br />§ 4. De bevoegde entiteit is voor elk toegelaten ras belast met het samenstellen van een dossier waarin zijn opgenomen, een beschrijving van het ras en een duidelijke samenvatting van alle gegevens waarop de toelating is gegrond. De beschrijving van de rassen heeft betrekking op planten welke direct verkregen zijn van zaaizaad of pootgoed van de categorieën gecertificeerd zaaizaad en pootgoed of, bij gebrek, van de categorie standaardzaad.<br /><br />§ 5. De bevoegde entiteit ziet erop toe dat genetisch gemodificeerd rassen die zijn toegelaten, duidelijk als zodanig in de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen worden vermeld. Al wie een dergelijk ras in de handel brengt, geeft in zijn verkoopscatalogus duidelijk aan dat het ras genetisch gemodificeerd is.<br /><br />§ 6. Wat de geschiktheid van een rasbenaming betreft, geldt het bepaalde in de artikel 63 van de Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht. Nadere bepalingen zijn vastgelegd in Verordening (EG) nr. 930/2000 van de Commissie van 4 mei 2000 tot vaststelling van nadere bepalingen betreft de geschiktheid van rasbenamingen voor landbouw- en groentegewassen.<br /><br />
+§ 1. De bevoegde entiteit maakt de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen officieel bekend, met daarbij de naam van voor de instandhouding verantwoordelijke persoon of personen.<br>
+<br>
+Wanneer meer personen voor de instandhouding van een ras verantwoordelijk zijn, behoeven hun namen niet te worden bekendgemaakt. Worden deze namen niet vermeld, dan wordt in de in rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen aangegeven dat de bevoegde entiteit beschikt over de lijst van de namen van degenen die voor de instandhouding verantwoordelijk zijn.<br>
+<br>
+§ 2. Bij toelating van een ras wordt zorg gedragen dat dit ras, voor zover mogelijk, dezelfde benaming als in andere lidstaten draagt.<br>
+<br>
+Indien bekend is dat zaaizaad of pootgoed van een ras in een ander land onder een andere naam in de handel wordt gebracht, wordt deze naam eveneens in de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen vermeld.<br>
+<br>
+§ 3. Rekening houdend met de beschikbare informaties, draagt een ras dat zich niet duidelijk onderscheidt :<br>
+1° van een ras dat in een andere lidstaat was toegelaten, of<br>
+2° van een ander ras dat inzake de onderscheidbaarheid, de bestendigheid en de homogeniteit is beoordeeld volgens de regels in artikel 7 voorgeschreven, zonder evenwel een in de Europese Gemeenschap bekend ras in de zin van artikel 7, § 1, te zijn,<br>
+de naam van dat ras.<br>
+<br>
+Deze bepaling is niet van toepassing indien deze benaming misleidend of verwarrend kan werken voor wat het ras betreft, of indien andere feiten krachtens de gezamenlijke voorschriften van de betrokken lidstaat inzake de rasbenamingen het gebruik ervan beletten, of indien voor een recht van een derde het vrije gebruik van deze benaming met betrekking tot het ras in de weg staat.<br>
+<br>
+§ 4. De bevoegde entiteit is voor elk toegelaten ras belast met het samenstellen van een dossier waarin zijn opgenomen, een beschrijving van het ras en een duidelijke samenvatting van alle gegevens waarop de toelating is gegrond. De beschrijving van de rassen heeft betrekking op planten welke direct verkregen zijn van zaaizaad of pootgoed van de categorieën gecertificeerd zaaizaad en pootgoed of, bij gebrek, van de categorie standaardzaad.<br>
+<br>
+§ 5. De bevoegde entiteit ziet erop toe dat genetisch gemodificeerd rassen die zijn toegelaten, duidelijk als zodanig in de rassenlijst van landbouwgewassen en de rassenlijst van groentegewassen worden vermeld. Al wie een dergelijk ras in de handel brengt, geeft in zijn verkoopscatalogus duidelijk aan dat het ras genetisch gemodificeerd is.<br>
+<br>
+§ 6. Wat de geschiktheid van een rasbenaming betreft, geldt het bepaalde in de artikel 63 van de Verordening (EG) nr. 2100/94 van de Raad van 27 juli 1994 inzake het communautaire kwekersrecht. Nadere bepalingen zijn vastgelegd in verordening (EG) nr. 637/2009 van de Commissie van 22 juli 2009 tot vaststelling van uitvoeringsbepalingen betreffende de geschiktheid van rasbenamingen voor landbouw- en groentegewassen.<br>
+&nbsp;
 
 ### ART. 13.
 
@@ -96,11 +156,18 @@ Het Comité draagt er zorg voor dat een ras van de rassenlijst van landbouwgewas
 
 ### ART. 19.
 
-§ 1. Zaaizaad en pootgoed van rassen toegelaten in tenminste één lidstaat, overeenkomstig de bepalingen van de Richtlijn nr. 2002/53/EG van de Raad van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen en Richtlijn 2002/55/EG van de Raad van 13 juni 2002 betreffende het in de handel brengen van groentezaad, worden, na publicatie in de gemeenschappelijke rassenlijst, aan geen enkele handelsbeperking in het Vlaamse Gewest onderworpen.<br /><br />§ 2. In afwijking van de vereisten, vermeld in § 1, kan de minister overeenkomstig de beslissingen van de Europese instellingen een verzoek aan de Commissie van de Europese Gemeenschappen indienen, om te worden gemachtigd het gebruik van het betrokken ras op het gehele of een deel van het grondgebied van het Vlaamse Gewest te verbieden, of voor het ras passende teeltvoorwaarden en, in het geval, vermeld in punt 3°, voor de uit de teelt verkregen producten passende gebruiksvoorwaarden voor te schrijven :<br />1° indien het bewijs wordt geleverd dat de teelt van dit ras in fytosanitair opzicht schadelijk kan zijn voor de teelt van andere rassen of gewassen,<br />2° wanneer op basis van officiële in het Vlaams Gewest in overeenkomstige toepassing van artikel 7, § 4, verrichte veldproeven, is geconstateerd dat het ras nergens op het grondgebied van het Vlaams Gewest de resultaten oplevert die worden verkregen met een vergelijkbaar ras dat op het grondgebied van het Vlaams Gewest is toegelaten, of wanneer algemeen bekend is dat het ras wegens zijn vorm of rijpheidsklasse op geen enkel gedeelte van het grondgebied van het Vlaams Gewest grondgebied voor de teelt geschikt is. Het verzoek moet voor het einde van het derde kalenderjaar na de toelating worden ingediend;<br />3° wanneer er andere goede redenen zijn dan die reeds zijn genoemd of kunnen zijn genoemd tijdens de procedure, vermeld in artikel 13, § 2, die aantonen dat het ras een gevaar voor de menselijke gezondheid of voor het milieu inhoudt. Het aantonen dat het ras een gevaar voor de menselijke gezondheid of voor het milieu inhoudt dient te gebeuren volgens de procedure zoals beschreven in artikel 42 van het koninklijk besluit van 25 februari 2005.<br /><br />
+§ 1. Zaaizaad en pootgoed van rassen toegelaten in tenminste één lidstaat, overeenkomstig de bepalingen van de Richtlijn nr. 2002/53/EG van de Raad van 13 juni 2002 betreffende de gemeenschappelijke rassenlijst van landbouwgewassen en Richtlijn 2002/55/EG van de Raad van 13 juni 2002 betreffende het in de handel brengen van groentezaad, worden, na publicatie in de gemeenschappelijke rassenlijst, aan geen enkele handelsbeperking in het Vlaamse Gewest onderworpen.<br>
+<br>
+§ 2. In afwijking van de vereisten, vermeld in § 1, kan de minister overeenkomstig de beslissingen van de Europese instellingen een verzoek aan de Commissie van de Europese Gemeenschappen indienen, om te worden gemachtigd het gebruik van het betrokken ras op het gehele of een deel van het grondgebied van het Vlaamse Gewest te verbieden, of voor het ras passende teeltvoorwaarden en, in het geval, vermeld in punt 3°, voor de uit de teelt verkregen producten passende gebruiksvoorwaarden voor te schrijven :<br>
+1° indien het bewijs wordt geleverd dat de teelt van dit ras in fytosanitair opzicht schadelijk kan zijn voor de teelt van andere rassen of gewassen,<br>
+2° wanneer op basis van officiële in het Vlaams Gewest in overeenkomstige toepassing van artikel 7, § 4, verrichte veldproeven, is geconstateerd dat het ras nergens op het grondgebied van het Vlaams Gewest de resultaten oplevert die worden verkregen met een vergelijkbaar ras dat op het grondgebied van het Vlaams Gewest is toegelaten, of wanneer algemeen bekend is dat het ras wegens zijn vorm of rijpheidsklasse op geen enkel gedeelte van het grondgebied van het Vlaams Gewest grondgebied voor de teelt geschikt is. Het verzoek moet voor het einde van het derde kalenderjaar na de toelating worden ingediend;<br>
+3° wanneer er andere goede redenen zijn dan die reeds zijn genoemd of kunnen zijn genoemd tijdens de procedure, vermeld in artikel 13, § 2, die aantonen dat het ras een gevaar voor de menselijke gezondheid of voor het milieu inhoudt. Het aantonen dat het ras een gevaar voor de menselijke gezondheid of voor het milieu inhoudt dient te gebeuren volgens de procedure zoals beschreven in artikel 42 van het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewust introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organisemen of van producten die er bevatten.<br>
+&nbsp;
 
 ### ART. 20.
 
-Indien er wordt geconstateerd dat de teelt op het grondgebied van het Vlaamse Gewest van een in de gemeenschappelijke rassenlijst van landbouwgewassen of groentegewassen opgenomen ras in fytosanitair opzicht schadelijk zou kunnen zijn voor de teelt van andere rassen of gewassen, of een risico voor de menselijke gezondheid of voor het milieu met zich zou kunnen brengen, kan de minister overeenkomstig de beslissingen van de Europese instellingen, een verzoek aan de Commissie van de Europese Gemeenschappen indienen om te worden gemachtigd de handel in zaaizaad of pootgoed van dit ras op het gehele grondgebied van het Vlaamse Gewest of op een deel daarvan te verbieden. Bij onmiddellijk gevaar van verbreiding van schadelijke organismen, of onmiddellijk gevaar voor de menselijke gezondheid of het milieu kan dit verbod door de minister worden uitgevaardigd vanaf het ogenblik van het indienen van zijn aanvraag tot op het tijdstip van het definitieve besluit van de Commissie van de Europese Gemeenschappen. Het aantonen dat het ras een risico voor de menselijke gezondheid of voor het milieu met zich zou kunnen brengen, dient te gebeuren volgens de procedure zoals beschreven in artikel 42 van het koninklijk besluit van 25 februari 2005.<br /><br />
+Indien er wordt geconstateerd dat de teelt op het grondgebied van het Vlaamse Gewest van een in de gemeenschappelijke rassenlijst van landbouwgewassen of groentegewassen opgenomen ras in fytosanitair opzicht schadelijk zou kunnen zijn voor de teelt van andere rassen of gewassen, of een risico voor de menselijke gezondheid of voor het milieu met zich zou kunnen brengen, kan de minister overeenkomstig de beslissingen van de Europese instellingen, een verzoek aan de Commissie van de Europese Gemeenschappen indienen om te worden gemachtigd de handel in zaaizaad of pootgoed van dit ras op het gehele grondgebied van het Vlaamse Gewest of op een deel daarvan te verbieden. Bij onmiddellijk gevaar van verbreiding van schadelijke organismen, of onmiddellijk gevaar voor de menselijke gezondheid of het milieu kan dit verbod door de minister worden uitgevaardigd vanaf het ogenblik van het indienen van zijn aanvraag tot op het tijdstip van het definitieve besluit van de Commissie van de Europese Gemeenschappen. Het aantonen dat het ras een risico voor de menselijke gezondheid of voor het milieu met zich zou kunnen brengen, dient te gebeuren volgens de procedure zoals beschreven in artikel 42 van het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewust introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organisemen of van producten die er bevatten.<br>
+&nbsp;
 
 ### ART. 21.
 
@@ -108,7 +175,10 @@ Het Comité bepaalt of een ras, dat geschrapt is van de catalogus van het land w
 
 ### ART. 22.
 
-Overeenkomstig de beslissingen van de Europese instellingen kan de minister specifieke voorwaarden vastleggen om rekening te houden met de ontwikkelingen in verband met de voorwaarden waaronder chemisch behandeld zaad in de handel mag worden gebracht.<br /><br />Onverminderd Verordening (EG) nr. 1467/94 van de Raad van 20 juni 1994 inzake de instandhouding, de karakterisering, de verzameling en het gebruik van genetische hulpbronnen in de landbouw, stelt de minister overeenkomstig de beslissingen van de Europese instellingen specifieke voorwaarden vast om rekening te houden met ontwikkelingen in verband met de instandhouding in situ en het duurzaam gebruik van plantaardige genetische hulpbronnen door middel van het kweken en in de handel brengen van zaad van landrassen en rassen die zijn aangepast aan de natuurlijke lokale en regionale omstandigheden en worden bedreigd met genetische erosie.<br /><br />
+Overeenkomstig de beslissingen van de Europese instellingen kan de minister specifieke voorwaarden vastleggen om rekening te houden met de ontwikkelingen in verband met de voorwaarden waaronder chemisch behandeld zaad in de handel mag worden gebracht.<br>
+<br>
+De minister stelt overeenkomstig de beslissingen van de Europese instellingen specifieke voorwaarden vast om rekening te houden met ontwikkelingen in verband met de instandhouding in situ en het duurzaam gebruik van plantaardige genetische hulpbronnen door middel van het kweken en in de handel brengen van zaad van landrassen en rassen die zijn aangepast aan de natuurlijke lokale en regionale omstandigheden en worden bedreigd met genetische erosie.<br>
+&nbsp;
 
 ### ART. 23.
 
@@ -122,7 +192,7 @@ Behoudens de bepalingen van het artikelen 19 en 20, doet dit besluit geen afbreu
 
 ### ART. 25.
 
-Overtreding van de bepalingen van dit besluit wordt opgespoord, vastgesteld, vervolgd en bestraft overeenkomstig de bepalingen van de wet van 11 juli 1969 betreffende de bestrijdingsmiddelen en grondstoffen voor de landbouw, tuinbouw, bosbouw en veeteelt, zoals laatst gewijzigd bij de wet van 22 december 2003.<br /><br />
+...
 
 ### ART. 26.
 

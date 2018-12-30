@@ -2,16 +2,16 @@
   "codex_id": 1017236,
   "title": "Besluit van de Vlaamse Regering van 2008-09-26 betreffende de toelating van de rassen van landbouwgewassen en groentegewassen tot en het behoud ervan op de rassenlijsten van landbouwgewassen en groentegewassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017236/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "5ae63aee1cec03bfe32da7e9dcd6a6813fedcd2dc002e52e4db7f0c69f6c9747",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017236/VolledigDocument?datum=2018-12-30",
+  "source_sha256": "d948ebabc7528a8a48f00dc138807cd26e3359a5b250dcbe583041ff24794359",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017236&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-12-30",
   "made": "2008-09-26",
   "gazette": "2008-10-28",
   "numac": 2008036255,
   "document_start": "2008-11-07",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2018-12-30",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
 }
