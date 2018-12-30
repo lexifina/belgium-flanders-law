@@ -2,16 +2,16 @@
   "codex_id": 1024945,
   "title": "Besluit van de Vlaamse Regering van 2014-12-19 betreffende steun aan de investeringen en aan de overname in de landbouw",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024945/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "2bb52df52107b9f2a212af88f1f087f97a4a7a6d2bdf1bce4fdfbb3b3a6f5d30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024945/VolledigDocument?datum=2018-12-30",
+  "source_sha256": "f255e14635e8abc50ffd662003b8c682ab28569cda31e970a2a2ad474e46baf8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024945&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2018-12-30",
   "made": "2014-12-19",
   "gazette": "2015-02-02",
   "numac": 2015035094,
   "document_start": "2015-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2017-02-23",
+  "in_force": "2018-12-30",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
 }
