@@ -14,7 +14,8 @@ De algemene landbouworganisaties, vermeld in artikel 5, § 2, 1°, van het opric
 
 ### ART. 3.
 
-De vertegenwoordiger van de jongerenlandbouworganisaties, vermeld in artikel 5, § 2, 2°, van het oprichtingsdecreet, wordt voorgedragen door Katholieke Landelijke Jeugd vzw.<br /><br />
+De vertegenwoordiger van de jongerenlandbouworganisaties, vermeld in artikel 5, § 2, 2°, van het oprichtingsdecreet, wordt voorgedragen door Katholieke Landelijke Jeugd &amp; Groene Kring vzw.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -39,15 +40,22 @@ De vertegenwoordiger van de visserijsector, vermeld in artikel 5, § 2, 7°, van
 
 ### ART. 9.
 
-De toeleveringssector, vermeld in artikel 5, § 2, 8°, van het oprichtingsdecreet, wordt als volgt vertegenwoordigd :<br />1° een vertegenwoordiger, voorgedragen door Fedagrim, de Belgische Federatie van de uitrusting voor de Landbouw, de Tuinbouw, de Veeteelt en de Tuin vzw;<br />2° een vertegenwoordiger, voorgedragen door de Beroepsverening van de mengvoederfabrikanten vzw.<br /><br />
+De toeleveringssector, vermeld in artikel 5, § 2, 8°, van het oprichtingsdecreet, wordt als volgt vertegenwoordigd :<br>
+1° een vertegenwoordiger, voorgedragen door de Belgische Federatie van de Toeleveranciers van machines, gebouwen en uitrustingen en aanverwante diensten voor de Landbouw en voor de Groenvoorzieningen vzw;<br>
+2° een vertegenwoordiger, voorgedragen door de Belgian Feed Association vzw.<br>
+&nbsp;
 
 ### ART. 10.
 
-De verwerking, vermeld in artikel 5, § 2, 9°, van het oprichtingsdecreet, wordt als volgt vertegenwoordigd :<br />1° een vertegenwoordiger, voorgedragen door de Federatie Voedingsindustrie Vlaanderen vzw;<br />2° een vertegenwoordiger, voorgedragen door de Unie van Zelfstandige Ondernemers vzw.<br /><br />
+De verwerking, vermeld in artikel 5, § 2, 9°, van het oprichtingsdecreet, wordt als volgt vertegenwoordigd :<br>
+1° een vertegenwoordiger, voorgedragen door Fevia Vlaanderen vzw;<br>
+2° een vertegenwoordiger, voorgedragen door de Unie van Zelfstandige Ondernemers vzw.<br>
+&nbsp;
 
 ### ART. 11.
 
-De vertegenwoordiger van de handel en distributie, vermeld in artikel 5, § 2, 10°, van het oprichtingsdecreet, wordt voorgedragen door V.B.T. vzw.<br /><br />
+De vertegenwoordiger van de handel en distributie, vermeld in artikel 5, § 2, 10°, van het oprichtingsdecreet, wordt voorgedragen door het Verbond van Belgische Tuinbouwcoöperaties vzw.<br>
+&nbsp;
 
 ### ART. 12.
 
@@ -71,7 +79,18 @@ Op voordracht van de Strategische Adviesraad benoemt de Vlaamse Regering de voor
 
 ### ART. 17.
 
-De technische werkcommissie Visserij, vermeld in artikel 6, tweede lid, van het oprichtingsdecreet, is als volgt samengesteld : <br />1° zes vertegenwoordigers, voorgedragen door de Rederscentrale CV, van wie drie vertegenwoordigers van het grootsegment, twee van het kleinsegment en een voor de garnaalvissers; <br />2° een vertegenwoordiger, voorgedragen door de Stichting voor Duurzame Visserijontwikkeling VZW; <br />3° een vertegenwoordiger, voorgedragen door het Algemeen Christelijk Vakverbond (ACV); <br />4° een vertegenwoordiger, voorgedragen door het Algemeen Belgisch Vakverbond (ABVV); <br />5° een vertegenwoordiger, voorgedragen door de Algemene Centrale der Liberale Vakbonden (ACLVB); <br />6° een vertegenwoordiger, voorgedragen door de Nationale Federatie der Viskleinhandelaars VZW; <br />7° een vertegenwoordiger, voorgedragen door de Groepering der Visnijverheden; <br />8° twee vertegenwoordigers, voorgedragen door de Vlaamse Visveiling NV; <br />9° een vertegenwoordiger, voorgedragen door de Nieuwpoortse Visveiling; <br />10° een vertegenwoordiger, voorgedragen door het Maritiem Instituut van het Gemeenschapsonderwijs; <br />11° een vertegenwoordiger, voorgedragen door de milieubeweging, vertegenwoordigd in de MinaRaad.
+De technische werkcommissie Visserij, vermeld in artikel 6, tweede lid, van het oprichtingsdecreet, is als volgt samengesteld :<br>
+1° zes vertegenwoordigers, voorgedragen door de Rederscentrale CV, van wie drie vertegenwoordigers van het grootsegment, twee van het kleinsegment en een voor de garnaalvissers;<br>
+2° een vertegenwoordiger, voorgedragen door VISGRO vzw;<br>
+3° een vertegenwoordiger, voorgedragen door het Algemeen Christelijk Vakverbond (ACV);<br>
+4° een vertegenwoordiger, voorgedragen door het Algemeen Belgisch Vakverbond (ABVV);<br>
+5° een vertegenwoordiger, voorgedragen door de Algemene Centrale der Liberale Vakbonden (ACLVB);<br>
+6° een vertegenwoordiger, voorgedragen door de Vlaamse Federatie van Vishandelaars vzw;<br>
+7° een vertegenwoordiger, voorgedragen door de Belgische groepering van de visindustrie;<br>
+8° twee vertegenwoordigers, voorgedragen door de Vlaamse Visveiling NV;<br>
+9° een vertegenwoordiger, voorgedragen door de Stedelijke Vismijn Nieuwpoort;<br>
+10° een vertegenwoordiger, voorgedragen door het Maritiem Instituut Mercator van het Gemeenschapsonderwijs;<br>
+11° een vertegenwoordiger, die samen door Bond Beter Leefmilieu vzw en Natuurpunt, vereniging voor natuur en landschap in Vlaanderen vzw, wordt voorgedragen.
 
 ### ART. 18.
 
