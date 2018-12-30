@@ -8,11 +8,24 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° decreet van 28 juni 2013: het   decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<BR>2°   ...;<BR>3° bevoegde entiteit: het Departement Landbouw en Visserij van het   Vlaams Ministerie van Landbouw en Visserij;<BR>4° BELAC: het accreditatiesysteem   opgericht bij koninklijk besluit van 31 januari 2006 tot oprichting van het   BELAC accreditatiesysteem van instellingen voor de   conformiteitsbeoordeling;<BR>5° ISTA: International Seed Testing   Association;<BR>6° minister: de Vlaamse minister bevoegd voor het landbouw- en   visserijbeleid;<BR>7° managementcomité: het managementorgaan van het   beleidsdomein Landbouw en Visserij;<BR>8° voorzitter: de voorzitter van het   managementcomité;<BR>9° beveiligde zending: een van de volgende   betekeningswijzen:<BR>a) een aangetekende brief;<BR>b) een afgifte tegen   ontvangstbewijs;<BR>c) elke andere door de minister toegelaten betekeningswijze   waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<BR>10°   ...<BR>
+In dit besluit wordt verstaan onder:<br>
+1° decreet van 28 juni 2013: het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid;<br>
+2° ...;<br>
+3° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+4° BELAC: het accreditatiesysteem opgericht bij koninklijk besluit van 31 januari 2006 tot oprichting van het BELAC accreditatiesysteem van instellingen voor de conformiteitsbeoordeling;<br>
+5° ISTA: International Seed Testing Association;<br>
+6° minister: de Vlaamse minister bevoegd voor de landbouw;<br>
+7° managementcomité: het managementorgaan van het beleidsdomein Landbouw en Visserij;<br>
+8° voorzitter: de voorzitter van het managementcomité;<br>
+9° beveiligde zending: een van de volgende betekeningswijzen:<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de minister toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
+10° ...
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ### ART. 2.
 
