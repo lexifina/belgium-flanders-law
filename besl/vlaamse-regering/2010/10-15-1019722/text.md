@@ -154,7 +154,38 @@ De staalnames en de analyses worden uitgevoerd door een erkende dienst of labora
 
 ### ART. 22.
 
-§ 1. De minister kan een dienst erkennen om staalnames uit te voeren naar vermenging van conventionele en biologische gewassen met genetisch gemodificeerde gewassen, als de dienst voldoet aan de volgende voorwaarden : <br />1° de dienst beschikt over voldoende nuttige ervaring met betrekking tot het nemen van stalen in landbouwgewassen en -grondstoffen, onder andere overeenkomstig ISO 2859 en ISO 542;<br />2° de dienst beschikt over passende en toereikende uitrusting voor staalnames;<br />3° de dienst is geaccrediteerd volgens het systeem BELAC voor het nakomen van de ISO 17025 normen.<br /><br />De dienst die wil erkend worden voor staalnames, overeenkomstig het eerste lid, dient daartoe een aanvraag in bij de bevoegde instantie. De aanvraag tot erkenning bevat minimaal de volgende gegevens :<br />1° de naam en het adres van de aanvragende dienst;<br />2° de identificatie van een natuurlijke persoon verantwoordelijk voor het geheel van gedane staalnames;<br />3° een bewijs van nuttige ervaring en referenties met betrekking tot het nemen van stalen in landbouwgewassen en -grondstoffen onder andere overeenkomstig ISO 2859 en ISO 542;<br />4° een bewijs dat passende en toereikende uitrusting voor staalnames voorhanden zijn;<br />5° een bewijs van accreditatie volgens het systeem BELAC voor het nakomen van de ISO 17025 normen;<br />6° een akkoordverklaring die de overheid toelaat de erkenning voor staalname en de contactgegevens van de dienst te publiceren.<br /><br />§ 2. De minister kan een laboratorium erkennen om analyses uit te voeren naar vermenging van conventionele en biologische gewassen met genetisch gemodificeerde gewassen, als het laboratorium voldoet aan de volgende voorwaarden :<br />1° het laboratorium beschikt over voldoende nuttige ervaring met betrekking tot analyses voor het opsporen van genetisch gemodificeerde gewassen;<br />2° het laboratorium beschikt over passende en toereikende installaties en uitrusting voor alle nodige analyses;<br />3° het laboratorium is geaccrediteerd voor kwalitatieve en kwantitatieve GGO-analyses volgens het systeem BELAC voor het nakomen van de ISO 17025 normen;<br />4° een akkoordverklaring die de overheid toelaat de erkenning voor analyses en de contactgegevens van het laboratorium te publiceren.<br /><br />Het laboratorium dat wil erkend worden voor analyses, overeenkomstig het eerste lid, dient daartoe een aanvraag in bij de bevoegde instantie. De aanvraag tot erkenning bevat minimaal de volgende gegevens :<br />1° de naam en het adres van het aanvragende laboratorium;<br />2° de identificatie van een natuurlijke persoon verantwoordelijk voor het geheel van gedane analyses;<br />3° een bewijs van nuttige ervaring en referenties met betrekking tot analyses voor het opsporen van genetisch gemodificeerde gewassen en de ervan afgeleide producten;<br />4° een bewijs dat passende en toereikende installaties en uitrusting voor alle nodige analyses voorhanden zijn;<br />5° een bewijs van accreditatie voor kwalitatieve en kwantitatieve GGO-analyses volgens het systeem BELAC voor het nakomen van de ISO 17025 normen.<br /><br />§ 3. Een erkenning is vijf jaar geldig. De minister kan de erkenning van een dienst of een laboratorium op basis van een met redenen omklede beslissing geheel of gedeeltelijk intrekken als de dienst of het laboratorium niet langer voldoet aan een of meer van de voorwaarden, vermeld in paragraaf 1, eerste lid, en in paragraaf 2, eerste lid.<br /><br />
+§ 1. De minister kan een dienst erkennen om staalnames uit te voeren naar vermenging van conventionele en biologische gewassen met genetisch gemodificeerde gewassen, als de dienst voldoet aan de volgende voorwaarden :<br>
+1° de dienst beschikt over voldoende nuttige ervaring met betrekking tot het nemen van stalen in landbouwgewassen en -grondstoffen, onder andere overeenkomstig ISO 2859 en ISO 542;<br>
+2° de dienst beschikt over passende en toereikende uitrusting voor staalnames;<br>
+3° de dienst is geaccrediteerd volgens het systeem BELAC voor het nakomen van de ISO 17025 normen.<br>
+<br>
+De dienst die wil erkend worden voor staalnames, overeenkomstig het eerste lid, dient daartoe een aanvraag in bij de bevoegde instantie. De aanvraag tot erkenning bevat minimaal de volgende gegevens :<br>
+1° de naam en het adres van de aanvragende dienst;<br>
+2° de identificatie van een natuurlijke persoon verantwoordelijk voor het geheel van gedane staalnames;<br>
+3° een bewijs van nuttige ervaring en referenties met betrekking tot het nemen van stalen in landbouwgewassen en -grondstoffen onder andere overeenkomstig ISO 2859 en ISO 542;<br>
+4° een bewijs dat passende en toereikende uitrusting voor staalnames voorhanden zijn;<br>
+5° een bewijs van accreditatie volgens het systeem BELAC voor het nakomen van de ISO 17025 normen;<br>
+6° ...<br>
+<br>
+De erkenning voor staalname en de contactgegevens van de dienst worden gepubliceerd.<br>
+<br>
+§ 2. De minister kan een laboratorium erkennen om analyses uit te voeren naar vermenging van conventionele en biologische gewassen met genetisch gemodificeerde gewassen, als het laboratorium voldoet aan de volgende voorwaarden :<br>
+1° het laboratorium beschikt over voldoende nuttige ervaring met betrekking tot analyses voor het opsporen van genetisch gemodificeerde gewassen;<br>
+2° het laboratorium beschikt over passende en toereikende installaties en uitrusting voor alle nodige analyses;<br>
+3° het laboratorium is geaccrediteerd voor kwalitatieve en kwantitatieve GGO-analyses volgens het systeem BELAC voor het nakomen van de ISO 17025 normen;<br>
+4° ...<br>
+<br>
+Het laboratorium dat wil erkend worden voor analyses, overeenkomstig het eerste lid, dient daartoe een aanvraag in bij de bevoegde instantie. De aanvraag tot erkenning bevat minimaal de volgende gegevens :<br>
+1° de naam en het adres van het aanvragende laboratorium;<br>
+2° de identificatie van een natuurlijke persoon verantwoordelijk voor het geheel van gedane analyses;<br>
+3° een bewijs van nuttige ervaring en referenties met betrekking tot analyses voor het opsporen van genetisch gemodificeerde gewassen en de ervan afgeleide producten;<br>
+4° een bewijs dat passende en toereikende installaties en uitrusting voor alle nodige analyses voorhanden zijn;<br>
+5° een bewijs van accreditatie voor kwalitatieve en kwantitatieve GGO-analyses volgens het systeem BELAC voor het nakomen van de ISO 17025 normen.<br>
+<br>
+De erkenning voor analyses en de contactgegevens van het laboratorium worden gepubliceerd.<br>
+<br>
+§ 3. Een erkenning is vijf jaar geldig. De minister kan de erkenning van een dienst of een laboratorium op basis van een met redenen omklede beslissing geheel of gedeeltelijk intrekken als de dienst of het laboratorium niet langer voldoet aan een of meer van de voorwaarden, vermeld in paragraaf 1, eerste lid, en in paragraaf 2, eerste lid.<br>
+&nbsp;
 
 ## HOOFDSTUK VIII Slotbepalingen
 
