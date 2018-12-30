@@ -62,8 +62,9 @@ Het is verboden voor de eigenaars of gebruikers van vaartuigen zonder visvergunn
 1° te vissen voorbij de zone van drie zeemijl van de kust;<br>
 2° binnen de zone van drie zeemijl van de kust de vissoorten waarvoor ingevolge de EU-reglementering een TAC of quotum geldt, te vissen, aan boord te hebben of aan land te brengen.<br>
 <br>
-Zolang het quotum voor een bepaalde vissoort in het ICES-gebied IV (Noordzee en Schelde-estuarium) niet is uitgeput, gelden de verboden, vermeld in het eerste lid, niet voor de zeereizen van vaartuigen zonder visvergunning als tijdens die zeereizen uitsluitend het zeehengelen wordt beoefend en als die vaartuigen geen ander vistuig aan boord hebben dan dat, bestemd voor het niet-geautomatiseerde zeehengelen.<br>
-&nbsp;
+De verboden, vermeld in het eerste lid, gelden niet voor de zeereizen van vaartuigen zonder visvergunning als tijdens die zeereizen uitsluitend het zeehengelen wordt beoefend en als die vaartuigen geen ander vistuig aan boord hebben dan vistuig voor het niet-geautomatiseerd zeehengelen.<br>
+<br>
+In afwijking van het tweede lid wordt de ontheffing voor het zeehengelen op TAC of quotumsoorten ingetrokken voor die soorten waarvan het quotum in het ICES-gebied IV (Noordzee en Schelde-estuarium) uitgeput is verklaard.
 
 ### ART 5.
 

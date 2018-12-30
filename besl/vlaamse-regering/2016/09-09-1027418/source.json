@@ -2,16 +2,16 @@
   "codex_id": 1027418,
   "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot vaststelling van aanvullende nationale maatregelen voor de instandhouding en het beheer van de visbestanden en voor controle op de visserijactiviteiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027418/VolledigDocument?datum=2016-10-01",
-  "source_sha256": "d05bdd3245952550e61d64bddd7ab68d2ac4da30e82b02d32543c8bd94df8075",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027418/VolledigDocument?datum=2018-12-30",
+  "source_sha256": "f9b4150f1f9ea6c275c01fadff0dabbdadbd62effeacda4a90ffe2e1988d7177",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027418&param=informatie",
-  "as_of": "2016-10-01",
+  "as_of": "2018-12-30",
   "made": "2016-09-09",
   "gazette": "2016-09-21",
   "numac": 2016036420,
   "document_start": "2016-10-01",
   "document_end": null,
-  "in_force": "2016-10-01",
+  "in_force": "2018-12-30",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2016-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
 }
