@@ -32,7 +32,7 @@ In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: n
 
 ### ART. 2.
 
-Het   hoofd van het Departement Landbouw en Visserij kan de aangelegenheden die   conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van   het departement vallen, subdelegeren aan personeelsleden van het departement die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## HOOFDSTUK 2 Investeringssteun
 
@@ -72,11 +72,18 @@ De   toegekende steun bedraagt 30 % van de uitgaven die in aanmerking komen, en 
 
 ### ART. 10.
 
-De   toegekende steun wordt uitbetaald in maximaal twee schijven na de indiening van   een aanvraag tot uitbetaling :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een eerste schijf kan worden uitbetaald na de voorlegging van facturen en   betalingsbewijzen die minstens 30 % en maximaal 75 % van de toegekende steun   vertegenwoordigen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het saldo of de totaliteit van de steun wordt uitbetaald na de voorlegging van   alle resterende facturen en betalingsbewijzen en nadat een controle ter plaatse   heeft plaatsgevonden en aan alle voorwaarden is voldaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De toegekende steun wordt uitbetaald in één schijf na de indiening van een aanvraag van uitbetaling.<br>
+<br>
+De steun wordt uitbetaald na de voorlegging van alle facturen en betalingsbewijzen, en nadat een controle ter plaatse heeft plaatsgevonden waaruit blijkt dat aan alle voorwaarden is voldaan.
 
 ### ART. 11.
 
-<P>De   steun is pas verworven als de gesubsidieerde investeringen in gebruik worden   gehouden voor de doeleinden waarvoor de steun is toegekend gedurende minimaal   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   tien jaar voor gebouwen en hun inrichting;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   vijf jaar voor machines en installaties;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   drie jaar voor software en sturingsprogramma's.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de minimale periode van gebruik voor de doeleinden waarvoor de steun is   toegekend, niet wordt bereikt, wordt de steun herberekend en in verhouding   teruggevorderd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De steun is pas verworven als de gesubsidieerde investeringen in gebruik worden gehouden voor de doeleinden waarvoor de steun is toegekend gedurende minimaal :<br>
+1° vijf jaar na de eindbetaling voor machines en installaties, software en sturingsprogramma's;<br>
+2° tien jaar na de eindbetaling voor gebouwen en hun inrichting.<br>
+3° ...</p>
+
+<p>Als de minimale periode van gebruik voor de doeleinden waarvoor de steun is toegekend, niet wordt bereikt, wordt de steun herberekend en in verhouding teruggevorderd.</p>
 
 ## HOOFDSTUK 6 Slotbepalingen
 
