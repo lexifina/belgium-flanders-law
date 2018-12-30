@@ -6,19 +6,35 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 1234/2007 van de R
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° bevoegde entiteit : het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° hop : de producten, vermeld in bijlage I van Verordening (EG)   nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke   ordening van de landbouwmarkten en specifieke bepalingen voor een aantal   landbouwproducten ("Integrale-GMO-verordening"), en nader omschreven in de   definities, vermeld in bijlage III, deel III van Verordening (EG) nr. 1234/2007   van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de   landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten   ("Integrale-GMO-verordening");<BR>3° hopproducten : de producten die vervaardigd   zijn uit hop die in de Europese Unie is geoogst of die uit derde landen is   ingevoerd, overeenkomstig de bepalingen van Verordening (EG) nr. 1295/2008 van   de Commissie van 18 december 2008 betreffende de invoer van hop uit derde   landen;<BR>3° aanvrager : de producent van hop of de exploitant van het   certificeringscentrum die de certificering bij de bevoegde entiteit   aanvraagt;<BR>4° Verordening (EG) nr. 1850/2006 : Verordening (EG) nr. 1850/2006   van de Commissie van 14 december 2006 betreffende de wijze van certificering van   hop en hopproducten.<BR><BR>
+In dit besluit wordt verstaan onder :<br>
+1° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+2° hop: de producten, vermeld in bijlage I, deel VI van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad, en nader omschreven in de definities, vermeld in bijlage II, deel III, van de voormelde verordening;<br>
+3° hopproducten : de producten die vervaardigd zijn uit hop die in de Europese Unie is geoogst of die uit derde landen is ingevoerd, overeenkomstig de bepalingen van Verordening (EG) nr. 1295/2008 van de Commissie van 18 december 2008 betreffende de invoer van hop uit derde landen;<br>
+3° aanvrager : de producent van hop of de exploitant van het certificeringscentrum die de certificering bij de bevoegde entiteit aanvraagt;<br>
+4° Verordening (EG) nr. 1850/2006 : Verordening (EG) nr. 1850/2006 van de Commissie van 14 december 2006 betreffende de wijze van certificering van hop en hopproducten.<br>
+&nbsp;
 
 ### ART. 1/1.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ### ART. 2.
 
-Vanaf de oogst 2010 is de bevoegde entiteit belast met de certificering van hop en hopproducten ter uitvoering van artikel 117 van Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten ("Integrale-GMO-verordening"), en met de controle op de gelijkwaardigheid van de verklaringen die ingevoerde hop en uit hop vervaardigde producten vergezellen, vermeld in artikel 3 van Verordening (EG) nr. 1295/2008 van de Commissie van 18 december 2008 betreffende de invoer van hop uit derde landen.<br /><br />
+Vanaf de oogst 2010 is de bevoegde entiteit belast met de certificering van hop en hopproducten ter uitvoering van artikel 77 van Verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad, en met de controle op de gelijkwaardigheid van de verklaringen die ingevoerde hop en uit hop vervaardigde producten vergezellen, vermeld in artikel 3 van Verordening (EG) nr. 1295/2008 van de Commissie van 18 december 2008 betreffende de invoer van hop uit derde landen.<br>
+&nbsp;
 
 ### ART. 3.
 
-Om erkend te worden moet een certificeringscentrum beschikken over adequate voorzieningen als vermeld in artikel 22 van Verordening (EG) nr. 1850/2006, om partijen hop te bemonsteren, te beoordelen op de minimumeisen en te persen. Een certificeringscentrum kan de beoordeling zelf uitvoeren of in opdracht laten uitvoeren.<br /><br />Onder adequate voorzieningen als vermeld in het eerste lid wordt verstaan : <br />1° een geijkt weegtoestel om balen af te wegen;<br />2° een installatie om balen te persen;<br />3° een vochtigheidsmeter die voldoet aan de eisen, vermeld in bijlage II.B.2. van Verordening (EG) nr. 1850/2006;<br />4° een weegschaal met een nauwkeurigheid van ten minste 0,1 g en zeven met een maaswijdte van 10 mm, 3 mm en 0,8 mm als het certificeringscentrum zelf monsters beoordeelt.<br /><br />De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, erkent de certificeringscentra overeenkomstig artikel 22 van Verordening (EG) nr. 1850/2006. De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij kan de erkenning intrekken als het certificeringscentrum niet meer aan de voorwaarden van het eerste, het tweede en derde lid voldoet.<br /><br />
+Om erkend te worden moet een certificeringscentrum beschikken over adequate voorzieningen als vermeld in artikel 22 van Verordening (EG) nr. 1850/2006, om partijen hop te bemonsteren, te beoordelen op de minimumeisen en te persen. Een certificeringscentrum kan de beoordeling zelf uitvoeren of in opdracht laten uitvoeren.<br>
+<br>
+Onder adequate voorzieningen als vermeld in het eerste lid wordt verstaan :<br>
+1° een geijkt weegtoestel om balen af te wegen;<br>
+2° een installatie om balen te persen;<br>
+3° een vochtigheidsmeter die voldoet aan de eisen, vermeld in bijlage II.B.2. van Verordening (EG) nr. 1850/2006;<br>
+4° een weegschaal met een nauwkeurigheid van ten minste 0,1 g en zeven met een maaswijdte van 10 mm, 3 mm en 0,8 mm als het certificeringscentrum zelf monsters beoordeelt.<br>
+<br>
+De Vlaamse minister, bevoegd voor de landbouw, erkent de certificeringscentra overeenkomstig artikel 22 van Verordening (EG) nr. 1850/2006. De Vlaamse minister, bevoegd voor de landbouw, kan de erkenning intrekken als het certificeringscentrum niet meer voldoet aan een van de voorwaarden, vermeld in het eerste of het tweede lid.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -30,7 +46,8 @@ Afhankelijk van de plaats van certificering brengt hetzij de producent van hop, 
 
 ### ART. 6.
 
-Als de partij aan de certificeringscriteria beantwoordt, overhandigt de bevoegde entiteit een certificaat als vermeld in artikel 16 van Verordening (EG) nr. 1580/2006, aan de aanvrager.<br /><br />
+Als de partij aan de certificeringscriteria beantwoordt, overhandigt de bevoegde entiteit een certificaat als vermeld in artikel 16 van Verordening (EG) nr. 1850/2006, aan de aanvrager.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -46,11 +63,15 @@ De producent van hop vernietigt elk jaar voor 1 juli de mannelijke hopplanten op
 
 ### ART. 10.
 
-In het kader van de certificering, en in het bijzonder voor de controle ter plaatse op de voorwaarden van Verordening (EG) nr. 1850/2006, betaalt de aanvrager een retributie aan het Fonds voor Landbouw en Visserij van 30 euro per verplaatsing, ongeacht het aantal certificeringen dat op die plaats wordt verricht.<br /><br />De aanvrager stort de verschuldigde retributie op de rekening van het Fonds voor Landbouw en Visserij, na ontvangst van een factuur.<br /><br />
+In het kader van de certificering, en in het bijzonder voor de controle ter plaatse op de voorwaarden, vermeld in artikel 4, 6, 9, 11, 13, 14, 16 en 20 van de verordening (EG) nr. 1850/2006, betaalt de aanvrager een retributie aan het Vlaams Landbouwfonds van 30 euro per verplaatsing, ongeacht het aantal certificeringen dat op die plaats wordt verricht.<br>
+<br>
+Op 1 juli van het jaar (x) wordt het bedrag van de retributie, vermeld in het eerste lid, met 5 % verhoogd als het indexcijfer van de consumptieprijzen in minstens een van de maanden van het jaar ervoor (x-1) met 5 % of een veelvoud van 5% is gestegen ten opzichte van het basisindexcijfer. Het basisindexcijfer is het indexcijfer van de consumptieprijzen van juli 2017.<br>
+<br>
+De aanvrager stort de verschuldigde retributie op de rekening van het Vlaams Landbouwfonds binnen dertig kalenderdagen na de verzending van de factuur.
 
 ### ART. 11.
 
-De overtredingen van bepalingen van dit besluit en van Verordening (EG) nr. 1850/2006 worden opgespoord, vastgesteld en bestraft overeenkomstig de bepalingen van de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.<br /><br />
+...
 
 ### ART. 12.
 
