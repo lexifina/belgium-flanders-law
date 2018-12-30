@@ -35,11 +35,40 @@ Besluit :<br>
 
 ### ART. 1.
 
-Met behoud van toepassing van de definities, vermeld in Verordening (EG)   nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de   etikettering van biologische producten en tot intrekking van Verordening (EEG)   nr. 2092/91 en de definities, vermeld in haar uitvoeringsbepalingen, wordt in   dit besluit verstaan onder :<BR>1°Verordening 834/2007 : Verordening (EG) nr.   834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de   etikettering van biologische producten en tot intrekking van Verordening (EEG)   nr. 2092/91;<BR>2° Verordening 889/2008 : Verordening (EG) nr. 889/2008 van de   Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering   van Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de   biologische productie en de etikettering van biologische producten;<BR>3° de   minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de   zeevisserij;<BR>4° de bevoegde entiteit: het Departement Landbouw en Visserij   van het Vlaams Ministerie van Landbouw en Visserij;<BR>5° ...<BR>6° ...<BR>7°   voorverpakt product : verkoopseenheid die bestemd is om als zodanig aan de   eindverbruiker en instellingen te worden aangeboden en die bestaat uit een   product en het verpakkingsmateriaal waarin het product, voordat het te koop   wordt aangeboden, is verpakt. Daarbij kan dat verpakkingsmateriaal het product   geheel of ten dele bedekken, maar zodanig dat de inhoud niet kan worden   veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;<BR>8°   producent : marktdeelnemer die aan plantaardige of dierlijke productie   doet;<BR>9° bereider : marktdeelnemer die aan bereiding doet;<BR>10° verwerker :   bereider die landbouwingrediënten verwerkt en als afgewerkt of half afgewerkt   product op de markt brengt;<BR>11° herverpakker : bereider die producten   aankoopt, de verpakking wijzigt en de herverpakte producten verkoopt;<BR>12°   verdeler van producten onder eigen naam of onder een privaat label   (heretiketteerder) : bereider die producten in gesloten verpakking aankoopt en   diezelfde producten onder zijn eigen naam verkoopt, zonder het product of de   verpakking te wijzigen;<BR>13° verdeler: groothandelaar die aan verdeling doet.   De marktactiviteit verdeler wordt onderverdeeld in de categorieën: "verdeler van   niet-voorverpakte producten en verdeler van voorverpakte producten";<BR>14°   verdeler van niet-voorverpakte producten : verdeler die niet-voorverpakte   producten aankoopt en diezelfde producten op de markt brengt zonder het product,   de verpakking of de etikettering te wijzigen;<BR>15° verdeler van voorverpakte   producten : verdeler die voorverpakte producten aankoopt en diezelfde producten   op de markt brengt zonder het product, de verpakking of de etikettering te   wijzigen;<BR>16° exporteur : marktdeelnemer die goederen uit het douanegebied   van de Europese Gemeenschap uitvoert;<BR>17° ...<BR>18° verkoper :   marktdeelnemer die producten als vermeld in artikel 1, 2, van Verordening   834/2007, op de markt brengt die direct bestemd zijn voor de eindconsument of   eindgebruiker;<BR>19° omzet : jaarlijkse omzet van een activiteit in de   biologische productiemethode;<BR>20° parallelle activiteit : om het even welke   marktactiviteit van een marktdeelnemer waarbij in dezelfde bedrijfseenheid   hetzelfde product zowel in biologische als niet-biologische kwaliteit het proces   doorloopt of aanwezig is;<BR>21° gemengde activiteit : productie, bereiding,   import, verdeling of verkoop van verschillende producten, van zowel gangbare als   in omschakelings- of biologische kwaliteit, in dezelfde bedrijfseenheid;<BR>22°   controle: het toetsen van de activiteiten of de producten van een   marktdeelnemer, al dan niet ter plaatse, aan de normen, vastgesteld in   Verordening 834/2007, dit besluit en de uitvoeringsbepalingen ervan;<BR>23°   jaarlijkse controle (JC): aangekondigde controle ter plaatse, waaraan elke   marktdeelnemer eenmaal per jaar onderworpen wordt;<BR>24° aanvullende controle   (AC) : controle die behoort tot de jaarlijkse controle die noodzakelijk   is&nbsp;als de&nbsp;normen niet op één dag gecontroleerd kunnen worden;<BR>25°   steekproefcontrole (SC): bij voorkeur onaangekondigde controle als vermeld in   artikel 65, 4, van Verordening 889/2008, boven op de jaarlijkse controle,   waarbij een beperkt aantal normen ter plaatse gecontroleerd wordt;<BR>26°   verscherpte controle (VC) : bij voorkeur onaangekondigde controle, al dan niet   volledig, die uitgevoerd wordt naar aanleiding van een vastgestelde   inbreuk;<BR>27° administratieve controle (BC) : controle, waarbij de   marktdeelnemer niet ter plaatse wordt gecontroleerd.<BR>28° kruiscontrole: de   uitwisseling en vergelijking van informatie zowel binnen een controleorgaan als   tussen verschillende controleorganen, over bepaalde verhandelde producten tussen   marktdeelnemers;<BR>29° controleorgaan: het controleorgaan dat erkend is met   toepassing van titel III van dit besluit.
+Met behoud van toepassing van de definities, vermeld in Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 en de definities, vermeld in haar uitvoeringsbepalingen, wordt in dit besluit verstaan onder :<br>
+1°Verordening 834/2007 : Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91;<br>
+2° Verordening 889/2008 : Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten;<br>
+3° de minister : de Vlaamse minister, bevoegd voor&nbsp;de landbouw;<br>
+4° de bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+5° ...<br>
+6° ...<br>
+7° voorverpakt product : verkoopseenheid die bestemd is om als zodanig aan de eindverbruiker en instellingen te worden aangeboden en die bestaat uit een product en het verpakkingsmateriaal waarin het product, voordat het te koop wordt aangeboden, is verpakt. Daarbij kan dat verpakkingsmateriaal het product geheel of ten dele bedekken, maar zodanig dat de inhoud niet kan worden veranderd zonder dat het verpakkingsmateriaal wordt geopend of aangetast;<br>
+8° producent : marktdeelnemer die aan plantaardige of dierlijke productie doet;<br>
+9° bereider : marktdeelnemer die aan bereiding doet;<br>
+10° verwerker : bereider die landbouwingrediënten verwerkt en als afgewerkt of half afgewerkt product op de markt brengt;<br>
+11° herverpakker : bereider die producten aankoopt, de verpakking wijzigt en de herverpakte producten verkoopt;<br>
+12° verdeler van producten onder eigen naam of onder een privaat label (heretiketteerder) : bereider die producten in gesloten verpakking aankoopt en diezelfde producten onder zijn eigen naam verkoopt, zonder het product of de verpakking te wijzigen;<br>
+13° verdeler: groothandelaar die aan verdeling doet. De marktactiviteit verdeler wordt onderverdeeld in de categorieën: "verdeler van niet-voorverpakte producten en verdeler van voorverpakte producten";<br>
+14° verdeler van niet-voorverpakte producten : verdeler die niet-voorverpakte producten aankoopt en diezelfde producten op de markt brengt zonder het product, de verpakking of de etikettering te wijzigen;<br>
+15° verdeler van voorverpakte producten : verdeler die voorverpakte producten aankoopt en diezelfde producten op de markt brengt zonder het product, de verpakking of de etikettering te wijzigen;<br>
+16° exporteur : marktdeelnemer die goederen uit het douanegebied van de Europese Gemeenschap uitvoert;<br>
+17° ...<br>
+18° verkoper : marktdeelnemer die producten als vermeld in artikel 1, 2, van Verordening 834/2007, op de markt brengt die direct bestemd zijn voor de eindconsument of eindgebruiker;<br>
+19° omzet : jaarlijkse omzet van een activiteit in de biologische productiemethode;<br>
+20° parallelle activiteit : om het even welke marktactiviteit van een marktdeelnemer waarbij in dezelfde bedrijfseenheid hetzelfde product zowel in biologische als niet-biologische kwaliteit het proces doorloopt of aanwezig is;<br>
+21° gemengde activiteit : productie, bereiding, import, verdeling of verkoop van verschillende producten, van zowel gangbare als in omschakelings- of biologische kwaliteit, in dezelfde bedrijfseenheid;<br>
+22° controle: het toetsen van de activiteiten of de producten van een marktdeelnemer, al dan niet ter plaatse, aan de normen, vastgesteld in Verordening 834/2007, dit besluit en de uitvoeringsbepalingen ervan;<br>
+23° jaarlijkse controle (JC): aangekondigde controle ter plaatse, waaraan elke marktdeelnemer eenmaal per jaar onderworpen wordt;<br>
+24° aanvullende controle (AC) : controle die behoort tot de jaarlijkse controle die noodzakelijk is&nbsp;als de&nbsp;normen niet op één dag gecontroleerd kunnen worden;<br>
+25° steekproefcontrole (SC): bij voorkeur onaangekondigde controle als vermeld in artikel 65, 4, van Verordening 889/2008, boven op de jaarlijkse controle, waarbij een beperkt aantal normen ter plaatse gecontroleerd wordt;<br>
+26° verscherpte controle (VC) : bij voorkeur onaangekondigde controle, al dan niet volledig, die uitgevoerd wordt naar aanleiding van een vastgestelde inbreuk;<br>
+27° administratieve controle (BC) : controle, waarbij de marktdeelnemer niet ter plaatse wordt gecontroleerd.<br>
+28° kruiscontrole: de uitwisseling en vergelijking van informatie zowel binnen een controleorgaan als tussen verschillende controleorganen, over bepaalde verhandelde producten tussen marktdeelnemers;<br>
+29° controleorgaan: het controleorgaan dat erkend is met toepassing van titel III van dit besluit.
 
 ### ART. 1/1/.
 
-Het hoofd van het Departement Landbouw en Visserij kan de aangelegenheden   die conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid   van het departement vallen, subdelegeren aan personeelsleden van het departement   die onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+...
 
 ## TITEL II Toepassingsgebied
 
@@ -115,7 +144,20 @@ Om zijn erkenning te behouden moet een controleorgaan aan de volgende   voorwaar
 
 ### ART. 14.
 
-De organisatie bezorgt haar aanvraag tot erkenning aan de bevoegde   entiteit. Bij die aanvraag zijn de stukken, vermeld in artikel 12, gevoegd. De   bevoegde entiteit bevestigt binnen dertig dagen de ontvangst van het dossier,   met eventueel de vermelding van de ontbrekende stukken.<BR><BR>De bevoegde   entiteit legt haar advies over het aanvraagdossier voor aan de minister binnen   een termijn van maximaal 61 dagen.<BR><BR>De termijn, vermeld in het tweede lid,   start op het ogenblik dat de bevoegde entiteit aan de aanvrager met een   aangetekende brief bevestigt dat zijn dossier volledig is. In die brief worden   de termijn, vermeld in het tweede lid, en de beschikbare rechtsmiddelen   vermeld.<BR><BR>De minister beslist binnen een termijn van 61 dagen na de   ontvangst van het advies van de bevoegde entiteit of de erkenning wordt   verleend.<BR><BR>Met toepassing van artikel 27, 10, van Verordening 834/2007   kent de minister aan een nieuw erkend controleorgaan een codenummer   toe.<BR><BR>De erkenning wordt schriftelijk meegedeeld aan de aanvrager en   gepubliceerd in het Belgisch Staatsblad. <BR><BR>De weigering tot het verlenen   van een erkenning wordt schriftelijk meegedeeld aan de aanvrager, met vermelding   van de redenen.<BR><BR>
+De organisatie bezorgt haar aanvraag tot erkenning aan de bevoegde entiteit. Bij die aanvraag zijn de stukken, vermeld in artikel 12, gevoegd. De bevoegde entiteit bevestigt binnen dertig dagen de ontvangst van het dossier, met eventueel de vermelding van de ontbrekende stukken.<br>
+<br>
+De bevoegde entiteit legt haar advies over het aanvraagdossier voor aan de minister binnen een termijn van maximaal 61 dagen.<br>
+<br>
+De termijn, vermeld in het tweede lid, start op het ogenblik dat de bevoegde entiteit aan de aanvrager schriftelijk bevestigt dat zijn dossier volledig is. In die kennisgeving worden de termijn, vermeld in het tweede lid, en de beschikbare rechtsmiddelen vermeld.<br>
+<br>
+De minister beslist binnen een termijn van 61 dagen na de ontvangst van het advies van de bevoegde entiteit of de erkenning wordt verleend.<br>
+<br>
+Met toepassing van artikel 27, 10, van Verordening 834/2007 kent de minister aan een nieuw erkend controleorgaan een codenummer toe.<br>
+<br>
+De erkenning wordt schriftelijk meegedeeld aan de aanvrager en gepubliceerd in het Belgisch Staatsblad.<br>
+<br>
+De weigering tot het verlenen van een erkenning wordt schriftelijk meegedeeld aan de aanvrager, met vermelding van de redenen.<br>
+&nbsp;
 
 ## Afdeling III Opheffing van de erkenning
 
@@ -271,7 +313,9 @@ Met toepassing van artikel 27, 5, d), van Verordening 834/2007 brengt het   cont
 
 ### ART. 46.
 
-Ten einde regelmatig te kunnen beschikken over informatie in verband met   de veebeslagen en de daar gehouden dieren, moet het controleorgaan toelating   bekomen van het FAVV om de gegevens van de centrale databank voor identificatie   en registratie te gebruiken en een overeenkomst sluiten met de organisatie die   instaat voor het realiseren en onderhouden van de toegang tot deze   gegevens..<BR><BR>Ten einde jaarlijks te kunnen beschikken over de   perceelsplannen van de producenten sluit het controleorgaan een overeenkomst met   de bevoegde entiteit. Voor de diersoorten waarvoor een Sanitelidentificatie- en   registratiesysteem georganiseerd is, geeft elke producent de toestemming aan   zijn controleorgaan om over de gegevens van de database over zijn veebeslag te   beschikken.
+Ten einde regelmatig te kunnen beschikken over informatie in verband met de veebeslagen en de daar gehouden dieren, moet het controleorgaan toelating bekomen van het FAVV om de gegevens van de centrale databank voor identificatie en registratie te gebruiken en een overeenkomst sluiten met de organisatie die instaat voor het realiseren en onderhouden van de toegang tot deze gegevens..<br>
+<br>
+Ten einde jaarlijks te kunnen beschikken over de perceelsplannen van de producenten sluit het controleorgaan een overeenkomst met de bevoegde entiteit. Voor de diersoorten waarvoor een Sanitelidentificatie- en registratiesysteem georganiseerd is, kunnen de gegevens van het veebeslag van de producenten door de bevoegde entiteit en door de controleorganen rechtstreeks opgevraagd worden via dat systeem.
 
 ### ART. 47.
 
