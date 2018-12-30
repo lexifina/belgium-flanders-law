@@ -42,8 +42,8 @@ De Vlaamse minister, bevoegd voor de landbouw, en de Vlaamse   minister, bevoegd
 
 ### BIJLAGE 1.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2015/05/07_1.pdf#page=76">Bijlage 1</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/20_2.pdf#page=85">Bijlage 1</a>
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/07_1.pdf#page=77">Bijlage   2</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2018/12/20_2.pdf#page=88">Bijlage 2</a>

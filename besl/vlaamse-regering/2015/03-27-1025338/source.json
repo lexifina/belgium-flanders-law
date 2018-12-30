@@ -2,16 +2,16 @@
   "codex_id": 1025338,
   "title": "Besluit van de Vlaamse Regering van 2015-03-27 betreffende het combineren van agromilieumaatregelen, beheerovereenkomsten, biohectaresteun en ecologisch aandachtsgebied met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014 2020, en tot wijziging van artikel 12 van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling 2014-2020",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025338/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "895e9fb7362f2b17fcf1fd3cbc4ecb5bbd33726ea95cf04bc29cfe9e36394071",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025338/VolledigDocument?datum=2018-12-30",
+  "source_sha256": "f81c9ca081a03943d6e6f244fff827880cdc89533195c22116ca97b29759aa34",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025338&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2018-12-30",
   "made": "2015-03-27",
   "gazette": "2015-05-07",
   "numac": 2015035546,
   "document_start": "2005-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2018-12-30",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2018-12-30; future article versions excluded; article text as the API gives it"
 }
