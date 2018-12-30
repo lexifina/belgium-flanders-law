@@ -31,7 +31,30 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° gedistilleerde drank : de alcoholhoudende drank, vermeld in artikel 2 van Verordening (EG) nr. 110/2008;<br />2° geografische aanduiding van een product : een aanduiding die verwijst naar de naam van het Vlaamse Gewest, van een deel van zijn grondgebied of van een bepaalde plaats op zijn grondgebied, die wordt gebruikt voor de beschrijving van een product dat aan de volgende vier voorwaarden voldoet :<br />a) het product heeft een specifieke kwaliteit, reputatie of andere kenmerken die aan de geografische oorsprong kunnen worden toegeschreven;<br />b) ten minste 85 % van de druiven die gebruikt zijn voor de bereiding van het product is afkomstig uit dat geografische gebied;<br />c) de productie vindt plaats in dat geografische gebied;<br />d) het product is verkregen van wijndruivenrassen die tot de soort Vitis vinifera behoren of die het resultaat zijn van een kruising van die soort met andere soorten van het geslacht Vitis;<br />3° geografische aanduiding van een gedistilleerde drank : een aanduiding die aangeeft dat de gedistilleerde drank zijn oorsprong op het grondgebied van het Vlaamse Gewest of op een plaats op dat grondgebied heeft als een bepaalde kwaliteit, reputatie of ander kenmerk van die gedistilleerde drank hoofdzakelijk toe te schrijven is aan zijn geografische oorsprong;<br />4° minister : de Vlaamse minister, bevoegd voor het landbouwbeleid;<br />5° oorsprongsbenaming : de naam van het Vlaamse Gewest, van een deel van zijn grondgebied of van een bepaalde plaats op zijn grondgebied, die wordt gebruikt voor de beschrijving van een product dat aan de volgende vier voorwaarden voldoet :<br />a) de kwaliteit en de kenmerken van het product zijn hoofdzakelijk of uitsluitend toe te schrijven aan de specifieke geografische omgeving met haar eigen factoren die bepaald zijn door natuur en mens;<br />b) alle druiven waarmee het product is bereid, zijn afkomstig uit dat geografische gebied;<br />c) de productie vindt plaats in dat geografische gebied;<br />d) het product is verkregen van wijndruivenrassen die behoren tot de soort Vitis vinifera;<br />6° product : de producten, vermeld in artikel 118bis,1, van Verordening (EG) nr. 1234/2007;<br />7° productdossier : het productdossier, vermeld in artikel 118quater, 2, van Verordening (EG) nr. 1234/2007;<br />8° traditionele aanduiding : de aanduiding die in het Vlaamse Gewest traditioneel voor de producten wordt gebruikt om :<br />a) aan te geven dat het product een beschermde oorsprongsbenaming of geografische aanduiding heeft overeenkomstig de gemeenschapswetgeving of de Vlaamse wetgeving;<br />b) de productie- of rijpingsmethode, de kwaliteit, de kleur, de aard van de plaats van verkrijging van, of een historische gebeurtenis in verband met het product met een beschermde oorsprongsbenaming of geografische aanduiding aan te geven.<br />9° Verordening (EG) nr. 110/2008 : Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad;<br />10° Verordening (EG) nr. 1234/2007 : Verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-Verordening);<br />11° Verordening (EG) nr. 607/2009 : Verordening (EG) nr. 607/2009 van de Commissie van 14 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad wat betreft beschermde oorsprongsbenamingen en geografische aanduidingen, traditionele aanduidingen, etikettering en presentatie van bepaalde wijnbouwproducten.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° gedistilleerde drank : de alcoholhoudende drank, vermeld in artikel 2 van Verordening (EG) nr. 110/2008;<br>
+2° geografische aanduiding van een product : een aanduiding die verwijst naar de naam van het Vlaamse Gewest, van een deel van zijn grondgebied of van een bepaalde plaats op zijn grondgebied, die wordt gebruikt voor de beschrijving van een product dat aan de volgende vier voorwaarden voldoet :<br>
+a) het product heeft een specifieke kwaliteit, reputatie of andere kenmerken die aan de geografische oorsprong kunnen worden toegeschreven;<br>
+b) ten minste 85 % van de druiven die gebruikt zijn voor de bereiding van het product is afkomstig uit dat geografische gebied;<br>
+c) de productie vindt plaats in dat geografische gebied;<br>
+d) het product is verkregen van wijndruivenrassen die tot de soort Vitis vinifera behoren of die het resultaat zijn van een kruising van die soort met andere soorten van het geslacht Vitis;<br>
+3° geografische aanduiding van een gedistilleerde drank : een aanduiding die aangeeft dat de gedistilleerde drank zijn oorsprong op het grondgebied van het Vlaamse Gewest of op een plaats op dat grondgebied heeft als een bepaalde kwaliteit, reputatie of ander kenmerk van die gedistilleerde drank hoofdzakelijk toe te schrijven is aan zijn geografische oorsprong;<br>
+4° minister : de Vlaamse minister, bevoegd voor&nbsp;de landbouw;<br>
+5° oorsprongsbenaming : de naam van het Vlaamse Gewest, van een deel van zijn grondgebied of van een bepaalde plaats op zijn grondgebied, die wordt gebruikt voor de beschrijving van een product dat aan de volgende vier voorwaarden voldoet :<br>
+a) de kwaliteit en de kenmerken van het product zijn hoofdzakelijk of uitsluitend toe te schrijven aan de specifieke geografische omgeving met haar eigen factoren die bepaald zijn door natuur en mens;<br>
+b) alle druiven waarmee het product is bereid, zijn afkomstig uit dat geografische gebied;<br>
+c) de productie vindt plaats in dat geografische gebied;<br>
+d) het product is verkregen van wijndruivenrassen die behoren tot de soort Vitis vinifera;<br>
+6° product: de producten, vermeld in artikel 92, lid 1, van verordening (EU) nr. 1308/2013;"<br>
+7° productdossier: het productdossier, vermeld in artikel 94, lid 2, van verordening (EU) nr. 1308/2013;<br>
+8° traditionele aanduiding : de aanduiding die in het Vlaamse Gewest traditioneel voor de producten wordt gebruikt om :<br>
+a) aan te geven dat het product een beschermde oorsprongsbenaming of geografische aanduiding heeft overeenkomstig de gemeenschapswetgeving of de Vlaamse wetgeving;<br>
+b) de productie- of rijpingsmethode, de kwaliteit, de kleur, de aard van de plaats van verkrijging van, of een historische gebeurtenis in verband met het product met een beschermde oorsprongsbenaming of geografische aanduiding aan te geven.<br>
+9° Verordening (EG) nr. 110/2008 : Verordening (EG) nr. 110/2008 van het Europees Parlement en de Raad betreffende de definitie, de aanduiding, de presentatie, de etikettering en de bescherming van geografische aanduidingen van gedistilleerde dranken en tot intrekking van Verordening (EG) nr. 1576/89 van de Raad;<br>
+10° verordening (EU) nr. 1308/2013: de verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
+11° Verordening (EG) nr. 607/2009 : Verordening (EG) nr. 607/2009 van de Commissie van 14 juli 2009 tot vaststelling van uitvoeringsbepalingen voor Verordening (EG) nr. 479/2008 van de Raad wat betreft beschermde oorsprongsbenamingen en geografische aanduidingen, traditionele aanduidingen, etikettering en presentatie van bepaalde wijnbouwproducten;<br>
+12° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Toepassingsgebied
 
@@ -49,11 +72,37 @@ Dit besluit geldt voor elke marktdeelnemer die een gedistilleerde drank met een 
 
 ### ART. 4.
 
-§ 1. De beschermingsaanvraag voor een oorsprongsbenaming of voor een geografische aanduiding kan alleen worden ingediend voor een product.<br /><br />§ 2. De beschermingsaanvraag wordt ingediend door een belanghebbende producentengroepering onder de voorwaarden, vermeld in artikel 118sexies van Verordening (EG) nr. 1234/2007.<br /><br />Als voldaan is aan de voorwaarden, vermeld in artikel 2, 1, van Verordening (EG) nr. 607/2009, kan de beschermingsaanvraag worden ingediend door een individuele producent.<br /><br />§ 3. De beschermingsaanvraag moet een technisch dossier bevatten met daarin de gegevens, vermeld in artikel 118quater, 1, van Verordening (EG) nr. 1234/2007. De beschermingsaanvraag wordt met een aangetekende brief ingediend bij de bevoegde entiteit. <br /><br />De bevoegde entiteit controleert het technisch dossier op volledigheid en kan de aanvrager vragen het dossier te vervolledigen. <br /><br />
+§ 1. De beschermingsaanvraag voor een oorsprongsbenaming of voor een geografische aanduiding kan alleen worden ingediend voor een product.<br>
+<br>
+§ 2. De beschermingsaanvraag wordt ingediend door een belanghebbende producentengroepering onder de voorwaarden, vermeld in artikel 94 van verordening (EU) nr. 1308/2013.<br>
+<br>
+Als voldaan is aan de voorwaarden, vermeld in artikel 2, 1, van Verordening (EG) nr. 607/2009, kan de beschermingsaanvraag worden ingediend door een individuele producent.<br>
+<br>
+§ 3. De beschermingsaanvraag moet een technisch dossier bevatten met daarin de gegevens, vermeld in artikel 94, lid 1, van verordening (EU) nr. 1308/2013. De beschermingsaanvraag wordt met een aangetekende brief ingediend bij de bevoegde entiteit.<br>
+<br>
+De bevoegde entiteit controleert het technisch dossier op volledigheid en kan de aanvrager vragen het dossier te vervolledigen.<br>
+&nbsp;
 
 ### ART. 5.
 
-§ 1. De beschermingsaanvraag voor een oorsprongsbenaming of voor een geografische aanduiding wordt opgenomen in een bericht dat wordt bekendgemaakt in het Belgisch Staatsblad. Het bericht bevat de geplande oorsprongsbenaming of geografische aanduiding van het product en een samenvatting van het productdossier, vermeld in artikel 118quater, 2, van Verordening 1234/2007. <br /><br />Elke natuurlijke persoon of rechtspersoon met een rechtmatig belang die op het Belgische grondgebied woont of gevestigd is, kan per aangetekende brief een bezwaar indienen tegen de voorgestelde bescherming. Dat bezwaar moet binnen een termijn van twee maanden, die begint op de dag na de bekendmaking in het Belgisch Staatsblad, door een met redenen omklede verklaring ingediend worden bij de bevoegde entiteit.<br /><br />De aanvrager wordt op de hoogte gebracht van de eventuele bezwaren van derden en wordt verzocht om daarop per aangetekende brief aan de bevoegde entiteit te antwoorden binnen een termijn van vijfenveertig kalenderdagen na de ontvangst van het verzoek van antwoord. Bij gebrek aan antwoord binnen de gestelde termijn, wordt de aanvraag geacht ingetrokken te zijn.<br /><br />§ 2. Na het verstrijken van de termijn, vermeld in paragraaf 1, derde lid, of als er geen bezwaar ingediend is na het verstrijken van de termijn, vermeld in paragraaf 1, tweede lid, wordt het aanvraagdossier, samen met de eventuele bezwaren en antwoorden daarop voor advies voorgelegd aan de adviescommissie, vermeld in artikel 13.<br /><br />De adviescommissie beschikt over een termijn van vijfenveertig kalenderdagen vanaf de ontvangst van het aanvraagdossier om een gemotiveerd advies te verlenen. Het advies van de commissie is niet bindend.<br /><br />§ 3. Het volledige dossier, dat bestaat uit het aanvraagdossier, de eventuele bezwaren en antwoorden en het advies, wordt aan de minister bezorgd. De minister beslist binnen vijfenveertig dagen na de ontvangst van het volledige dossier of de aanvraag gerechtvaardigd is en voldoet aan de voorwaarden van Verordening (EG) nr. 1234/2007.<br /><br />De beslissing wordt met een aangetekende brief bezorgd aan de aanvrager en aan de derden die van de mogelijkheid hebben gebruik gemaakt om hun bezwaren te uiten.<br /><br />§ 4. Bij een beslissing die gunstig is voor de aanvrager, wordt die beslissing, samen met het enige document, vermeld in artikel 118quater, 1, van Verordening (EG) nr. 1234/2007, en het productdossier, gepubliceerd op de website van de Vlaamse overheid : http://www.vlaanderen.be/landbouw <br /><br />De bevoegde entiteit dient de beschermingsaanvraag in bij de Europese Commissie overeenkomstig artikel 118septies, 5, van Verordening (EG) nr. 1234/2007.<br /><br />§ 5. De procedure, vermeld in paragrafen 1 tot en met 4, is ook van toepassing op een aanvraag tot wijziging van het productdossier als vermeld in artikel 118octodecies, 2, van Verordening (EG) nr. 1234/2007.<br /><br />
+§ 1. De beschermingsaanvraag voor een oorsprongsbenaming of voor een geografische aanduiding wordt opgenomen in een bericht dat wordt bekendgemaakt in het Belgisch Staatsblad. Het bericht bevat de geplande oorsprongsbenaming of geografische aanduiding van het product en een samenvatting van het productdossier, vermeld in artikel 94, lid 2, van verordening (EU) nr. 1308/2013.<br>
+<br>
+Elke natuurlijke persoon of rechtspersoon met een rechtmatig belang die op het Belgische grondgebied woont of gevestigd is, kan per aangetekende brief een bezwaar indienen tegen de voorgestelde bescherming. Dat bezwaar moet binnen een termijn van twee maanden, die begint op de dag na de bekendmaking in het Belgisch Staatsblad, door een met redenen omklede verklaring ingediend worden bij de bevoegde entiteit.<br>
+<br>
+De aanvrager wordt op de hoogte gebracht van de eventuele bezwaren van derden en wordt verzocht om daarop per aangetekende brief aan de bevoegde entiteit te antwoorden binnen een termijn van vijfenveertig kalenderdagen na de ontvangst van het verzoek van antwoord. Bij gebrek aan antwoord binnen de gestelde termijn, wordt de aanvraag geacht ingetrokken te zijn.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Het volledige dossier, dat bestaat uit het aanvraagdossier, de eventuele bezwaren en antwoorden, wordt aan de minister bezorgd. De minister beslist binnen vijfenveertig dagen na de ontvangst van het volledige dossier of de aanvraag gerechtvaardigd is en voldoet aan de voorwaarden van verordening (EU) nr. 1308/2013.<br>
+<br>
+De beslissing wordt met een aangetekende brief bezorgd aan de aanvrager en aan de derden die van de mogelijkheid hebben gebruik gemaakt om hun bezwaren te uiten.<br>
+<br>
+§ 4. Bij een beslissing die gunstig is voor de aanvrager, wordt die beslissing, samen met het enige document, vermeld in artikel 94, lid 1, van verordening (EU) nr. 1308/2013, en het productdossier, gepubliceerd op de website van de Vlaamse overheid : http://www.vlaanderen.be/landbouw<br>
+<br>
+De bevoegde entiteit dient de beschermingsaanvraag in bij de Europese Commissie overeenkomstig artikel 96, lid 5, van verordening (EU) nr. 1308/2013.<br>
+<br>
+§ 5. De procedure, vermeld in paragrafen 1 tot en met 4, is ook van toepassing op een aanvraag tot wijziging van het productdossier als vermeld in artikel 105 van verordening (EU) nr. 1308/2013.<br>
+&nbsp;
 
 ### ART. 6.
 
@@ -93,7 +142,7 @@ De minister bepaalt de bevoegde entiteit.<br /><br />
 
 ### ART. 13.
 
-De minister bepaalt de samenstelling en de werking van de adviescommissie en benoemt de leden.<br /><br />
+...
 
 ## HOOFDSTUK 7 Controle
 
