@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033552,
+  "title": "Besluit van de Vlaamse Regering van 2020-06-26 tot aanpassing van het maximaal te financieren voltijdsequivalent derde luik in het koninklijk besluit van 17 augustus 2007 tot uitvoering van de artikelen 57 en 59 van de programmawet van 2 januari 2001 wat de harmonisering van de barema's, de loonsverhogingen en tewerkstellingsmaatregelen in bepaalde gezondheidsinstellingen betreft en tot aanpassing van betaalmomenten in verschillende regelgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033552/VolledigDocument?datum=2018-12-31",
+  "source_sha256": "a8da3a0f04093166fad46eeb60efe7c236ddc01871a5a3481f99d41bc0ddfa5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033552&param=informatie",
+  "as_of": "2018-12-31",
+  "made": "2020-06-26",
+  "gazette": "2020-08-10",
+  "numac": 2020042435,
+  "document_start": "2018-12-31",
+  "document_end": null,
+  "in_force": "2018-12-31",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
