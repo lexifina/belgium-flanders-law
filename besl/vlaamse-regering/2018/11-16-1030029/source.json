@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030029,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-16 tot ontwikkeling van de onderwijskwalificatie graduaat in het programmeren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030029/VolledigDocument?datum=2018-12-31",
+  "source_sha256": "dae67116e8f363fdb49e4b9693c5cc2000eb4a2e90daf1089f02c68c95fc16b2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030029&param=informatie",
+  "as_of": "2018-12-31",
+  "made": "2018-11-16",
+  "gazette": "2018-12-21",
+  "numac": 2018015400,
+  "document_start": "2018-12-31",
+  "document_end": null,
+  "in_force": "2018-12-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2018-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
