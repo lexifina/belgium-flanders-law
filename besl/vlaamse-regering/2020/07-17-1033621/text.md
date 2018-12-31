@@ -31,6 +31,10 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 1. Wijzigingen van het besluit van de Vlaamse regering van 24 mei 2002 betreffende de onderbreking van de beroepsloopbaan van de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool
 
+### ART 4.
+
+In artikel 14, tweede lid van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 12 oktober 2012, wordt tussen de zinsnede "de kinderbijslag," en het woord "wordt" de zinsnede "of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag," ingevoegd.
+
 ### ART 5.
 
 In artikel 17 van hetzelfde besluit wordt een paragraaf 6 ingevoegd, die luidt als volgt:<br>
@@ -44,6 +48,20 @@ In artikel 17 van hetzelfde besluit wordt een paragraaf 6 ingevoegd, die luidt a
 In artikel 13 van het besluit van de Vlaamse Regering van 9 september 2011 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, wordt een paragraaf 5/2 ingevoegd, die luidt als volgt:<br>
 <br>
 " § 5/2. De gedeeltelijke loopbaanonderbreking vanaf de leeftijd van 55 jaar of vanaf de leeftijd van vijftig jaar indien artikel 9, § 3, § 4 of § 5 van toepassing is, wordt geschorst op het ogenblik dat het personeelslid het recht doet gelden op een loopbaanonderbreking voor palliatieve zorgen of voor het hervatten van het werk binnen de periode van 16 maart 2020 tot en met 30 juni 2020 ingevolge de coronacrisis.
+
+### ART 15.
+
+In artikel 24, tweede lid, van hetzelfde besluit wordt tussen de zinsnede "de kinderbijslag," en het woord "geldt" de zinsnede "of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag," ingevoegd.
+
+### ART 16.
+
+In artikel 25 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het tweede lid wordt punt 1° opgeheven;<br>
+<br>
+2° aan het tweede lid, 3° wordt de zinsnede ", of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag" toegevoegd;<br>
+<br>
+3° in het derde lid wordt de zinsnede "1° en" opgeheven.
 
 ### ART 20.
 
