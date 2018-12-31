@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030146,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-14 tot wijziging van artikel 1, 20quater en 21, van het besluit van de Vlaamse Regering van 8 december 1998 tot uitvoering van het decreet inzake sociale werkplaatsen en tot wijziging van artikel 95, 99 en 106 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030146/VolledigDocument?datum=2018-12-31",
+  "source_sha256": "b845586c6856d7e1c20872daf6dd16531d17e10eba76e39f416c1ef375c600b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030146&param=informatie",
+  "as_of": "2018-12-31",
+  "made": "2018-12-14",
+  "gazette": "2019-01-25",
+  "numac": 2019010316,
+  "document_start": "2018-12-31",
+  "document_end": null,
+  "in_force": "2018-12-31",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2018-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
