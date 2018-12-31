@@ -102,7 +102,13 @@ De onderbreking van de beroepsloopbaan met een vijfde kan worden opgenomen in pe
 
 ### ART. 14.
 
-Het personeelslid heeft recht op het ouderschapsverlof : <BR>1° naar   aanleiding van de geboorte van zijn kind tot het kind twaalf jaar wordt;<BR>2°   in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf   de inschrijving van het kind als deel uitmakend van zijn gezin in het   bevolkingsregister of in het vreemdelingenregister van de gemeente waar het   personeelslid zijn verblijfplaats heeft, en dit uiterlijk tot het kind twaalf   jaar wordt.<BR><BR>Wanneer het kind voor ten minste 66 % getroffen is door een   lichamelijke of geestelijke ongeschiktheid of een aandoening heeft, die tot   gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de   medisch-sociale schaal in de zin van de regelgeving betreffende de   kinderbijslag, wordt de leeftijdsgrens vastgesteld op 21 jaar.<BR><BR>Aan de   voorwaarde van de twaalfde of de eenentwintigste verjaardag moet zijn voldaan   uiterlijk gedurende de periode van het ouderschapsverlof.
+Het personeelslid heeft recht op het ouderschapsverlof :<br>
+1° naar aanleiding van de geboorte van zijn kind tot het kind twaalf jaar wordt;<br>
+2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, en dit uiterlijk tot het kind twaalf jaar wordt.<br>
+<br>
+Wanneer het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft, die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag, of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag, wordt de leeftijdsgrens vastgesteld op 21 jaar.<br>
+<br>
+Aan de voorwaarde van de twaalfde of de eenentwintigste verjaardag moet zijn voldaan uiterlijk gedurende de periode van het ouderschapsverlof.
 
 ## [SUBAFDELING 3/1 - LOOPBAANONDERBREKING VOOR CORONA-OUDERSCHAPSVERLOF (ing. BVR 17 juli 2020, art. 6, I: 1 mei 2020 )]
 
