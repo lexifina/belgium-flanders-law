@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 7° toeleider: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 8° bemiddelaar: de VDAB of een door de VDAB erkende partner waarmee een samenwerkingsovereenkomst wordt afgesloten;<br>
 9° persoonlijk ontwikkelingsplan: een opvolgbaar actieplan dat de te ontwikkelen competenties en het ontwikkelpad van een persoon bevat met als doel die persoon een stevige positie op de arbeidsmarkt te bezorgen<br>
-10° omkadering: persoon die instaat voor de persoonlijke en dagdagelijkse begeleiding van de doelgroepwerknemers en/of arbeidszorgmedewerkers en de bedrijfsvoering;<br>
+10° omkadering: de persoon die instaat voor de dagdagelijkse begeleiding van de arbeidszorgmedewerkers<br>
 11° doorstroming: de tewerkstelling van de doelgroepwerknemer, die aansluit op een tewerkstelling in het kader van dit besluit, in een betrekking geheel zonder of met een geringere ondersteuning dan vermeld in dit besluit;<br>
 12° uitbreiding van de erkenning: verhoging van het aantal erkende voltijds equivalente doelgroepwerknemers;<br>
 13° doelgroepwerknemer met herinschakelingsuitkering: doelgroepwerknemer die voldoet aan de voorwaarden zoals bepaald in artikel 1, § 2 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
@@ -317,9 +317,9 @@ Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingsp
 
 ### ART. 20quater.
 
-In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende doelgroepwerknemers en omkaderingspersoneelsleden.<br>
+In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende omkaderingspersoneelsleden.<br>
 <br>
-Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende doelgroepwerknemer of omkaderingspersoneelslid :
+Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende&nbsp;of omkaderingspersoneelslid :
 <div>
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
