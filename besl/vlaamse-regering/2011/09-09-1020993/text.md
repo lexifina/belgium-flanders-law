@@ -162,11 +162,24 @@ De personeelsleden hebben recht op ouderschapsverlof om voor hun kind te   zorge
 
 ### ART. 24.
 
-Het personeelslid heeft recht op het ouderschapsverlof : <br />1° vanaf de geboorte van zijn kind tot op de vooravond van de dag waarop het kind twaalf jaar wordt;<br />2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot op de vooravond van de dag waarop het kind twaalf jaar wordt.<br /><br />Wanneer het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag, geldt de leeftijdsgrens van 21 jaar in plaats van 12 jaar.<br /><br />
+Het personeelslid heeft recht op het ouderschapsverlof :<br>
+1° vanaf de geboorte van zijn kind tot op de vooravond van de dag waarop het kind twaalf jaar wordt;<br>
+2° in het kader van de adoptie van een kind, gedurende een periode die loopt vanaf de inschrijving van het kind als deel uitmakend van zijn gezin in het bevolkingsregister of in het vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats heeft, uiterlijk tot op de vooravond van de dag waarop het kind twaalf jaar wordt.<br>
+<br>
+Wanneer het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag, of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag,&nbsp;geldt de leeftijdsgrens van 21 jaar in plaats van 12 jaar.<br>
+&nbsp;
 
 ### ART. 25.
 
-Het personeelslid dat zijn loopbaan wil onderbreken om voor zijn kind te zorgen in het kader van ouderschapsverlof, deelt dat mee aan de inrichtende macht van de instelling(en) of het/de centr(um)(a) waar hij werkt, met uitzondering van de personeelsleden van de inspectie, die dat meedelen aan de Vlaamse Regering. Bij die mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld. <br /><br />Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, de volgende bewijsstukken : <br />1° een uittreksel uit de geboorteakte van het kind; <br />2° een attest waaruit de adoptie blijkt;<br />3° een attest waaruit blijkt dat het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag. <br /><br />Bij de documenten, vermeld in het tweede lid, 1° en 2°, moet altijd een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt. <br /><br />
+Het personeelslid dat zijn loopbaan wil onderbreken om voor zijn kind te zorgen in het kader van ouderschapsverlof, deelt dat mee aan de inrichtende macht van de instelling(en) of het/de centr(um)(a) waar hij werkt, met uitzondering van de personeelsleden van de inspectie, die dat meedelen aan de Vlaamse Regering. Bij die mededeling moeten de begin- en einddatum van het ouderschapsverlof worden vermeld.<br>
+<br>
+Het personeelslid verstrekt uiterlijk op het ogenblik dat het ouderschapsverlof ingaat, naar gelang van het geval, de volgende bewijsstukken :<br>
+1° ...<br>
+2° een attest waaruit de adoptie blijkt;<br>
+3° een attest waaruit blijkt dat het kind voor ten minste 66 % getroffen is door een lichamelijke of geestelijke ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler I van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag , of dat ten minste negen punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving over de kinderbijslag.<br>
+<br>
+Bij de documenten, vermeld in het tweede lid,&nbsp;2°, moet altijd een uittreksel uit het bevolkings- of vreemdelingenregister worden gevoegd, waaruit de samenstelling van het gezin blijkt.<br>
+&nbsp;
 
 ## [Afdeling 1/1 Loopbaanonderbreking voor corona-ouderschapsverlof (ing. BVR 17 juli 2020, art. 18, I: 1 mei 2020)]
 
