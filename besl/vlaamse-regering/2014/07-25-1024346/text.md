@@ -12,7 +12,68 @@ Dit hoofdstuk verdeelt de bevoegdheden binnen de Vlaamse Regering, met het   oog
 
 ### ART. 2.
 
-<P>§ 1. De heer Geert Bourgeois, voorzitter van de Vlaamse Regering, is bevoegd   voor het beleidsdomein Kanselarij en Bestuur, vermeld in artikel 3 van het   besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de   organisatie van de Vlaamse administratie, hierna het organisatiebesluit te   noemen, met uitzondering van de bestuurszaken, het gelijkekansen- en   integratiebeleid en de coördinatie van het beleid met betrekking tot   Brussel-Hoofdstad en de Vlaamse Rand rond Brussel.<BR><BR>Hij is bevoegd om, met   toepassing van artikel 11bis van de bijzondere wet van 8 augustus 1980 tot   hervorming der instellingen, namens de Vlaamse Regering, de federale minister   van Justitie te verzoeken om vervolgingen te bevelen.<BR><BR>Hij draagt de titel   "minister-president van de Vlaamse Regering".<BR><BR>§ 2. De heer Geert   Bourgeois, lid van de Vlaamse Regering, is bevoegd voor:<BR>1° het beleidsdomein   internationaal Vlaanderen, vermeld in artikel 6 van het organisatiebesluit, met   uitzondering van het beleidsveld toerisme;<BR>2° het beleidsveld onroerend   erfgoed.<BR>3° ...<BR><BR>Hij draagt de titel "Vlaams minister van Buitenlands   Beleid en Onroerend Erfgoed".<BR><BR>§ 3. Mevrouw Hilde Crevits,   viceminister-president van de Vlaamse Regering, is bevoegd voor het   beleidsdomein onderwijs en vorming, vermeld in artikel 8 van het   organisatiebesluit.<BR><BR>Zij draagt de titel "Vlaams minister van   Onderwijs".<BR><BR>§ 4. De heer Bart Tommelein, viceminister-president van de   Vlaamse Regering, is bevoegd voor:<BR>1° het beleidsdomein financiën en   begroting, vermeld in artikel 5 van het organisatiebesluit;<BR>2° het   beleidsveld energie.<BR><BR>Hij draagt de titel "Vlaams minister van Begroting,   Financiën en Energie". <BR><BR>§ 5. Mevrouw Liesbeth Homans,   viceminister-president van de Vlaamse Regering, is bevoegd voor:<BR>1° de   bestuurszaken, vermeld in artikel 3, § 1, 2°, van het organisatiebesluit;<BR>2°   het beleidsveld woonbeleid;<BR>3° het beleidsveld sociale economie;<BR>4° het   gelijkekansen- en integratiebeleid, vermeld in artikel 3, § 1, 3°, van het   organisatiebesluit;<BR>5° de coördinatie van het armoedebeleid.<BR><BR>Zij   draagt de titel "Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen,   Gelijke Kansen en Armoedebestrijding".<BR><BR>§ 6. De heer Ben Weyts is bevoegd   voor:<BR>1° het beleidsdomein mobiliteit en openbare werken, vermeld in artikel   14 van het organisatiebesluit;<BR>2° het beleidsveld coördinatie Vlaamse   Rand;<BR>3° het beleidsveld dierenwelzijn;<BR>4° het beleidsveld   toerisme.<BR><BR>Hij draagt de titel "Vlaams minister van Mobiliteit, Openbare   Werken, Vlaamse Rand, Toerisme en Dierenwelzijn".<BR><BR>§ 7. De heer Jo   Vandeurzen is bevoegd voor het beleidsdomein welzijn, volksgezondheid en gezin,   vermeld in artikel 9 van het organisatiebesluit.<BR><BR>Hij draagt de titel   "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<BR><BR>§ 8. De heer   Philippe Muyters is bevoegd voor:<BR>1° het beleidsdomein economie, wetenschap   en innovatie, vermeld in artikel 7 van het organisatiebesluit;<BR>2° het   beleidsveld werkgelegenheid;<BR>3° het beleidsveld professionele vorming;<BR>4°   het beleidsveld sport.<BR><BR>Hij draagt de titel "Vlaams minister van Werk,   Economie, Innovatie en Sport".<BR><BR>§ 9. Mevrouw Joke Schauvliege is bevoegd   voor:<BR>1° het beleidsdomein landbouw en visserij, vermeld in artikel 12 van   het organisatiebesluit;<BR>2° het beleidsveld leefmilieu en natuur, met inbegrip   van de natuurlijke rijkdommen en het plattelandsbeleid;<BR>3° het beleidsveld   ruimtelijke ordening.<BR><BR>Zij draagt de titel "Vlaams minister van Omgeving,   Natuur en Landbouw".<BR><BR>§ 10. De heer Sven Gatz is bevoegd voor:<BR>1° het   beleidsdomein cultuur, jeugd, sport en media, vermeld in artikel 10 van het   organisatiebesluit, met uitzondering van het beleidsveld sport;<BR>2° het   beleidsveld coördinatie Brussel.<BR><BR>Hij wordt aangewezen om als Brussels lid   van de Vlaamse Regering de vergaderingen van het College van de Vlaamse   Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke   Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in   artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de   Brusselse instellingen.<BR><BR>Hij draagt de titel "Vlaams minister van Cultuur,   Media, Jeugd en Brussel".</P>
+<p>§ 1. De heer Geert Bourgeois, voorzitter van de Vlaamse Regering, is bevoegd voor het beleidsdomein Kanselarij en Bestuur, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, hierna het organisatiebesluit te noemen, met uitzondering van de bestuurszaken, het gelijkekansen- en integratiebeleid en de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en de Vlaamse Rand rond Brussel.<br>
+<br>
+Hij is bevoegd om, met toepassing van artikel 11bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, namens de Vlaamse Regering, de federale minister van Justitie te verzoeken om vervolgingen te bevelen.<br>
+<br>
+Hij draagt de titel "minister-president van de Vlaamse Regering".<br>
+<br>
+§ 2. De heer Geert Bourgeois, lid van de Vlaamse Regering, is bevoegd voor:<br>
+1° het beleidsdomein internationaal Vlaanderen, vermeld in artikel 6 van het organisatiebesluit, met uitzondering van het beleidsveld toerisme;<br>
+2° het beleidsveld onroerend erfgoed.<br>
+3° ...<br>
+<br>
+Hij draagt de titel "Vlaams minister van Buitenlands Beleid en Onroerend Erfgoed".<br>
+<br>
+§ 3. Mevrouw Hilde Crevits, viceminister-president van de Vlaamse Regering, is bevoegd voor het beleidsdomein onderwijs en vorming, vermeld in artikel 8 van het organisatiebesluit.<br>
+<br>
+Zij draagt de titel "Vlaams minister van Onderwijs".<br>
+<br>
+§ 4. De heer Sven Gatz, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+1° het beleidsdomein cultuur, jeugd, sport en media, vermeld in artikel 10 van het organisatiebesluit, met uitzondering van het beleidsveld sport;<br>
+2° het beleidsveld coördinatie Brussel.<br>
+<br>
+Hij wordt aangewezen om als Brussels lid van de Vlaamse Regering de vergaderingen van het College van de Vlaamse Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Cultuur, Media, Jeugd en Brussel".<br>
+<br>
+§ 5. Mevrouw Liesbeth Homans, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+1° de bestuurszaken, vermeld in artikel 3, § 1, 2°, van het organisatiebesluit;<br>
+2° het beleidsveld woonbeleid;<br>
+3° het beleidsveld sociale economie;<br>
+4° het gelijkekansen- en integratiebeleid, vermeld in artikel 3, § 1, 3°, van het organisatiebesluit;<br>
+5° de coördinatie van het armoedebeleid.<br>
+<br>
+Zij draagt de titel "Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding".<br>
+<br>
+§ 6. De heer Ben Weyts is bevoegd voor:<br>
+1° het beleidsdomein mobiliteit en openbare werken, vermeld in artikel 14 van het organisatiebesluit;<br>
+2° het beleidsveld coördinatie Vlaamse Rand;<br>
+3° het beleidsveld dierenwelzijn;<br>
+4° het beleidsveld toerisme.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn".<br>
+<br>
+§ 7. De heer Jo Vandeurzen is bevoegd voor het beleidsdomein welzijn, volksgezondheid en gezin, vermeld in artikel 9 van het organisatiebesluit.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
+<br>
+§ 8. De heer Philippe Muyters is bevoegd voor:<br>
+1° het beleidsdomein economie, wetenschap en innovatie, vermeld in artikel 7 van het organisatiebesluit;<br>
+2° het beleidsveld werkgelegenheid;<br>
+3° het beleidsveld professionele vorming;<br>
+4° het beleidsveld sport.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Werk, Economie, Innovatie en Sport".<br>
+<br>
+§ 9. Mevrouw Joke Schauvliege is bevoegd voor:<br>
+1° het beleidsdomein landbouw en visserij, vermeld in artikel 12 van het organisatiebesluit;<br>
+2° het beleidsveld leefmilieu en natuur, met inbegrip van de natuurlijke rijkdommen en het plattelandsbeleid;<br>
+3° het beleidsveld ruimtelijke ordening.<br>
+<br>
+Zij draagt de titel "Vlaams minister van Omgeving, Natuur en Landbouw".<br>
+<br>
+§ 10. ...</p>
 
 ### ART. 3.
 
@@ -39,13 +100,17 @@ e) de Vlaamse Onderwijsraad;<br>
 f) het Gemeenschapsonderwijs;<br>
 g) ...;<br>
 <br>
-4° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
-a) de Vlaamse Belastingdienst;<br>
-b) het Vlaams Toekomstfonds;<br>
-c) het Vlaams Fonds voor de Lastendelging;<br>
-d) het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven;<br>
-e) het Vlaams Energieagentschap;<br>
-f) de Vlaamse Regulator van de Elektriciteits- en Gasmarkt;<br>
+4° de Vlaamse minister van Cultuur, Media, Jeugd en Brussel is bevoegd voor:<br>
+a) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
+b) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
+c) het Fonds Culturele Infrastructuur;<br>
+d) het Vlaams Fonds voor de Letteren;<br>
+e) het Topstukkenfonds;<br>
+f) de Vlaamse Radio- en Televisieomroep;<br>
+g) de Vlaamse Regulator voor de Media;<br>
+h) het Vlaams-Brusselfonds;<br>
+i) Muntpunt;<br>
+j) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
 <br>
 5° de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<br>
 a) het Agentschap&nbsp;Overheidspersoneel;<br>
@@ -143,19 +208,7 @@ s) het Vlaams Landbouwinvesteringsfonds;<br>
 t) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
 u) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;<br>
 <br>
-10° de Vlaamse minister van Cultuur, Media, Jeugd en Brussel is bevoegd voor:<br>
-a) ...;<br>
-b) ...;<br>
-c) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
-d) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
-e) het Fonds Culturele Infrastructuur;<br>
-f) het Vlaams Fonds voor de Letteren;<br>
-g) het Topstukkenfonds;<br>
-h) de Vlaamse Radio- en Televisieomroep;<br>
-i) de Vlaamse Regulator voor de Media;<br>
-j) het Vlaams-Brusselfonds;<br>
-k) Muntpunt;<br>
-l) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;
+10° ...
 
 ### ART. 4.
 
