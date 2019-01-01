@@ -44,7 +44,12 @@ Ieder heeft het recht om zijn competenties door een bevoegde instantie te laten 
 
 ### ART. 6.
 
-De procedure tot het bekomen van een titel van beroepsbekwaamheid kan   worden opgestart indien de volgende stappen werden voltooid:<BR>1° de Vlaamse   Regering bepaalt, na advies van de SERV, de beroepen waarvoor een titel van   beroepsbekwaamheid kan worden uitgereikt;<BR>2° de Vlaamse Regering bepaalt per   beroep, bedoeld in 1°, na advies van de SERV, de varianten van een titel van   beroepsbekwaamheid;<BR>3° de SERV werkt, op verzoek van de Vlaamse Regering,   voor de beroepen, bedoeld in 1°, de beroepscompetentieprofielen of   competentieprofielen uit;<BR>4° de SERV ontwikkelt op basis van de   beroepscompetentieprofielen of competentieprofielen, de standaarden. Een   standaard wordt afgeleid uit een beroepscompetentieprofiel of competentieprofiel   en omvat de selectie van competentievereisten die noodzakelijk worden geacht   voor de uitoefening van een bepaald beroep. De Vlaamse Regering bepaalt, na   advies van de SERV de standaarden.<BR>5° de Vlaamse Regering bepaalt, na advies   van de SERV en VLOR, de procedure op basis waarvan studiebewijzen van   opleidings- en onderwijsprogramma's die overeenstemmen met de competenties   verbonden aan een beroep of deel van een beroep, geïdentificeerd en erkend   worden en dus beschouwd worden als een titel van   beroepsbekwaamheid.
+De procedure tot het bekomen van een titel van beroepsbekwaamheid kan worden opgestart indien de volgende stappen werden voltooid:<br>
+1° de Vlaamse Regering bepaalt, na advies van de SERV, de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt;<br>
+2° de Vlaamse Regering bepaalt per beroep, bedoeld in 1°, na advies van de SERV, de varianten van een titel van beroepsbekwaamheid;<br>
+3° de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding werkt, op verzoek van de Vlaamse Regering, voor de beroepen, bedoeld in 1°, de beroepscompetentieprofielen of competentieprofielen uit;<br>
+4° de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding ontwikkelt op basis van de beroepscompetentieprofielen of competentieprofielen, de standaarden. Een standaard wordt afgeleid uit een beroepscompetentieprofiel of competentieprofiel en omvat de selectie van competentievereisten die noodzakelijk worden geacht voor de uitoefening van een bepaald beroep. De Vlaamse Regering bepaalt, na advies van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding de standaarden.<br>
+5° de Vlaamse Regering bepaalt, na advies van de SERV en VLOR, de procedure op basis waarvan studiebewijzen van opleidings- en onderwijsprogramma's die overeenstemmen met de competenties verbonden aan een beroep of deel van een beroep, geïdentificeerd en erkend worden en dus beschouwd worden als een titel van beroepsbekwaamheid.
 
 ## HOOFDSTUK V HET VERWERVEN VAN EEN TITEL VAN BEROEPSBEKWAAMHEID
 
@@ -66,7 +71,7 @@ De procedure tot het bekomen van een titel van beroepsbekwaamheid kan   worden o
 
 ### ART. 10.
 
-Binnen de perken van de op de begroting van de Vlaamse Gemeenschap uitgetrokken kredieten kent de Vlaamse Regering aan de bevoegde instantie een jaarlijkse subsidie toe voor de basis-, werkings- en personeelskosten om de taken, bedoeld in artikel 7, uit te voeren.
+...
 
 ### ART. 11.
 
