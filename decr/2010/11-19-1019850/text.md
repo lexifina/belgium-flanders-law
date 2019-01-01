@@ -8,13 +8,25 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <br />1° het kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, zoals gewijzigd;<br />2° het decreet Lokaal Cultuurbeleid : het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid, zoals gewijzigd.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° het decreet Lokaal Cultuurbeleid : het decreet van 13 juli 2001 houdende het stimuleren van een kwalitatief en integraal lokaal cultuurbeleid, zoals gewijzigd.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Oprichting als privaatrechtelijk vormgegeven extern verzelfstandigd agentschap
 
 ### ART. 3.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om, onder de voorwaarden vermeld in dit decreet, samen met het college van de Vlaamse Gemeenschapscommissie, mee te werken aan de oprichting van een Vlaams Communicatiehuis in Brussel onder de vorm van een vereniging zonder winstoogmerk overeenkomstig de bepalingen van dit decreet en deel te nemen aan de werking ervan.<br /><br />De op te richten vereniging zonder winstoogmerk wordt "Muntpunt" genoemd. <br /><br />§ 2. Muntpunt is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel 29 van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op Muntpunt.<br /><br />§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein Muntpunt behoort.<br /><br />
+§ 1. De Vlaamse Regering wordt gemachtigd om, onder de voorwaarden vermeld in dit decreet, samen met het college van de Vlaamse Gemeenschapscommissie, mee te werken aan de oprichting van een Vlaams Communicatiehuis in Brussel onder de vorm van een vereniging zonder winstoogmerk overeenkomstig de bepalingen van dit decreet en deel te nemen aan de werking ervan.<br>
+<br>
+De op te richten vereniging zonder winstoogmerk wordt "Muntpunt" genoemd.<br>
+<br>
+§ 2. Muntpunt is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op Muntpunt.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein Muntpunt behoort.<br>
+&nbsp;
 
 ## HOOFDSTUK 3 Missie en taken
 
@@ -32,7 +44,7 @@ Muntpunt heeft tot taak : <br />1° te fungeren als een centraal aanspreekpunt m
 
 De algemene vergadering en de raad van bestuur worden samengesteld op basis van artikel 9, c), van het decreet van 28 januari 1974 betreffende het cultuurpact.<br>
 <br>
-De helft van de leden plus één van de algemene vergadering wordt door de Vlaamse Gemeenschap voorgedragen, de andere leden worden door de Vlaamse Gemeenschapscommissie voorgedragen. De raad van bestuur bestaat uit vier leden die voorgedragen zijn door de Vlaamse Gemeenschap, drie leden die voorgedragen zijn door de Vlaamse Gemeenschapscommissie, en vier onafhankelijke leden conform artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+De helft van de leden plus één van de algemene vergadering wordt door de Vlaamse Gemeenschap voorgedragen, de andere leden worden door de Vlaamse Gemeenschapscommissie voorgedragen. De raad van bestuur bestaat uit vier leden die voorgedragen zijn door de Vlaamse Gemeenschap, drie leden die voorgedragen zijn door de Vlaamse Gemeenschapscommissie, en vier onafhankelijke leden conform artikel III.41 van het Bestuursdecreet.<br>
 &nbsp;
 
 ### ART. 7.
@@ -43,7 +55,20 @@ De statuten van Muntpunt, alsook de wijzigingen die erin worden aangebracht, wor
 
 ### ART. 8.
 
-De Vlaamse Regering en Muntpunt sluiten een samenwerkingsovereenkomst als vermeld in artikel 31 van het kaderdecreet.<br /><br />In die samenwerkingsovereenkomst worden onder meer de volgende zaken bepaald : <br />1° de uit te voeren taken;<br />2° de financiële tegemoetkoming vermeld in artikel 10;<br />3° de informatie- en rapportageplicht over de taken en de financiële situatie;<br />4° de nadere voorwaarden voor het beheer van, het toezicht op en de werking van Muntpunt;<br />5° de nadere voorwaarden betreffende het ter beschikking stellen van middelen en infrastructuur vermeld in artikel 11;<br />6° de opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.<br /><br />Met behoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de samenwerkingsovereenkomst, wordt die gesloten voor een periode van maximaal vier jaar die eindigt uiterlijk twaalf maanden na de algehele vernieuwing van het Vlaams Parlement.<br /><br />De samenwerkingsovereenkomst wordt aan het Vlaams Parlement meegedeeld na de goedkeuring ervan door de Vlaamse Regering. <br /><br />
+De Vlaamse Regering en Muntpunt sluiten een samenwerkingsovereenkomst als vermeld in artikel III.16 van het Bestuursdecreet.<br>
+<br>
+In die samenwerkingsovereenkomst worden onder meer de volgende zaken bepaald :<br>
+1° de uit te voeren taken;<br>
+2° de financiële tegemoetkoming vermeld in artikel 10;<br>
+3° de informatie- en rapportageplicht over de taken en de financiële situatie;<br>
+4° de nadere voorwaarden voor het beheer van, het toezicht op en de werking van Muntpunt;<br>
+5° de nadere voorwaarden betreffende het ter beschikking stellen van middelen en infrastructuur vermeld in artikel 11;<br>
+6° de opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.<br>
+<br>
+Met behoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de samenwerkingsovereenkomst, wordt die gesloten voor een periode van maximaal vier jaar die eindigt uiterlijk twaalf maanden na de algehele vernieuwing van het Vlaams Parlement.<br>
+<br>
+De samenwerkingsovereenkomst wordt aan het Vlaams Parlement meegedeeld na de goedkeuring ervan door de Vlaamse Regering.<br>
+&nbsp;
 
 ## HOOFDSTUK 6 Toezicht
 
