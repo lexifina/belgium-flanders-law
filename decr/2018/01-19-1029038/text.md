@@ -1,0 +1,371 @@
+# Decreet van 2018-01-19 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid
+
+## HOOFDSTUK 1. Algemene bepalingen
+
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid, met uitzondering van artikel 16, § 2, dat een gemeenschaps- en een gewestaangelegenheid regelt.
+
+### ART 2.
+
+In dit decreet wordt verstaan onder:<br>
+1° actoren in de zorg: zorgverleners, hulpverleners, voorzieningen, personen of organisaties die kenbaar hebben gemaakt als zorgverlener, hulpverlener of voorziening te willen optreden en personen of organisaties waarvan redelijkerwijze kan worden vermoed dat ze als zorgverlener, hulpverlener of voorziening optreden;<br>
+2° anonieme gegevens: gegevens die geen betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon of op persoonsgegevens die zodanig anoniem zijn gemaakt dat de betrokkene niet of niet meer identificeerbaar is;<br>
+3° gezondheidsbeleid: het beleid over het geheel van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid over het medisch schooltoezicht en de medisch verantwoorde sportbeoefening;<br>
+4° gevoelige gegevens: gegevens als vermeld in de artikelen 9, 1), en 10, van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) en in de artikelen 6, § 1, 7, § 1, en 8, § 1, van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;<br>
+5° hulpverlener: de natuurlijke persoon, met uitzondering van de zorgverlener, die op beroepsmatige basis zorg verstrekt;<br>
+6° inbreuk: de niet-naleving van de regelgeving, vermeld in artikel 3, eerste lid, door actoren in de zorg of zorggebruikers;<br>
+7° inspecteurs: de personeelsleden van de diensten van de Vlaamse overheid die aangesteld zijn door de Vlaamse Regering om toezicht te houden op de naleving van de regelgeving, vermeld in artikel 3, eerste lid, door actoren in de zorg of zorggebruikers;<br>
+8° niet-residentiële zorggebruiker: de zorggebruiker die geen residentiële of semi-residentiële zorg ontvangt;<br>
+9° opvoedingsverantwoordelijken: de natuurlijke personen, andere dan de ouders, die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br>
+10° uitbetalingsactor: de publieke uitbetalingsactor of een private uitbetalingsactor als bedoeld in de regelgeving over de toelagen in het kader van het welzijns- en gezinsbeleid;<br>
+11° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid instaat voor de organisatie of uitvoering van zorg of die instaat voor de toekenning van rechten, met inbegrip van de ziekenfondsen, de zorgkassen, de Zorgkassencommissie en de uitbetalingsactoren;<br>
+12° welzijns- en gezinsbeleid: het beleid over het geheel van de aangelegenheden, vermeld in artikel 5, § 1, II en IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid op het vlak van het onthaal en de integratie van inwijkelingen;<br>
+13° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheidsbeleid of het welzijns- en gezinsbeleid, waaronder hulp, dienstverlening, ondersteuning, Vlaamse sociale bescherming, zorgverzekering en gezinsbijslagen;<br>
+14° zorggebruiker: de patiënt, namelijk de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek;<br>
+15° zorgverlener: de beoefenaar, vermeld in de wet betreffende de uitoefening van de gezondheidszorgberoepen gecoördineerd op 10 mei 2015.
+
+## HOOFDSTUK 2. De uitoefening van toezichtstaken
+
+## Afdeling 1. Algemene uitoefeningsvoorwaarden
+
+### ART 3.
+
+De inspecteurs oefenen de bevoegdheden, vermeld in dit decreet, uit met het oog op het toezicht op de naleving van de regelgeving in het kader van het gezondheidsbeleid en het welzijns- en gezinsbeleid. Onder regelgeving wordt niet alleen wetgeving verstaan, maar ook geformaliseerde afspraken.<br>
+<br>
+Bij de uitoefening van de bevoegdheden, vermeld in dit decreet, dragen de inspecteurs er zorg voor dat de middelen die ze aanwenden, passend en noodzakelijk zijn voor dat toezicht.<br>
+<br>
+Het toezicht wordt op stukken of ter plaatse uitgeoefend.
+
+### ART 4.
+
+Tijdens de uitoefening van hun ambt dragen de inspecteurs een legitimatiekaart, die ze desgevraagd onmiddellijk tonen.<br>
+<br>
+De Vlaamse Regering bepaalt de vorm en de inhoud van de legitimatiekaart.
+
+### ART 5.
+
+§ 1. De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, respecteren het vertrouwelijke karakter van de gegevens waarvan ze kennis hebben gekregen bij de uitoefening van hun opdracht. Ze wenden die gegevens uitsluitend aan voor de vervulling van de toezichtsopdracht.<br>
+<br>
+§ 2. De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, hebben het recht om voor de uitoefening van hun toezichtsopdracht persoonsgegevens, waaronder gevoelige gegevens, te verwerken.<br>
+<br>
+§ 2/1. Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de inspecteurs beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de voormelde inspecteurs, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De voormelde inspecteurs moeten de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de voormelde inspecteurs op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de inspecteurs heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de voormelde inspecteurs hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.<br>
+<br>
+§ 3. De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren de persoonsgegevens die zij bij de uitoefening van hun opdracht verwerken, niet langer dan nodig voor de uitoefening van die opdracht.<br>
+<br>
+De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren het verslag, vermeld in artikel 13, alsook de bijlagen bij dat verslag tot 20 jaar nadat het verslag definitief is geworden of, indien het het voorwerp uitmaakt van een rechtsgeding, tot 20 jaar nadat een in kracht van gewijsde gegaan vonnis of arrest is uitgesproken.<br>
+<br>
+De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren andere informatie die zij bij de uitoefening van hun opdracht verwerken tot 3 jaar nadat het verslag definitief is geworden.<br>
+<br>
+§ 4. Het Departement Welzijn, Volksgezondheid en Gezin is de verwerkingsverantwoordelijke voor de persoonsgegevens die inspecteurs bij de uitoefening van hun opdracht verwerken.
+
+### ART 6.
+
+De minderjarige of handelingsonbekwame persoon oefent de rechten, vermeld in dit decreet, zelfstandig uit, op voorwaarde dat hij tot een redelijke beoordeling van zijn belangen in staat is. In het andere geval worden zij uitgeoefend door zijn wettelijke vertegenwoordiger, en, in voorkomend geval, van zijn opvoedingsverantwoordelijken.
+
+## Afdeling 2. Toezichtrechten
+
+### ART 7.
+
+§ 1. Bij de uitoefening van hun opdracht hebben de inspecteurs de volgende toezichtrechten:<br>
+1° het recht op toegang, vermeld in artikel 8;<br>
+2° het recht om informatie te vragen aan iedere persoon van wie ze dat nodig achten;<br>
+3° het recht op identiteitsopname, vermeld in artikel 9;<br>
+4° het recht om inzage te krijgen in en kopieën te nemen van documenten en informatiedragers, vermeld in artikel 10;<br>
+5° het recht op onderzoek van zaken, vermeld in artikel 11;<br>
+6° het recht om vaststellingen te doen met audiovisuele middelen en met staalnames, vermeld in artikel 12;<br>
+7° het recht om zich te laten bijstaan door deskundigen;<br>
+8° het recht om zich, in uitzonderlijke omstandigheden of wanneer de eigen veiligheid in het gedrang is, te laten bijstaan door de lokale en federale politie.<br>
+<br>
+§ 2. Voor de uitoefening van hun opdracht in het kader van het financiële toezicht kunnen inspecteurs de rechten, vermeld in paragraaf 1, uitoefenen ten aanzien van actoren in de zorg en zorggebruikers voor wat betreft de aanwending van publieke middelen en de regelgeving daarover.
+
+### ART 8.
+
+§ 1. Behalve in de gevallen, vermeld in paragraaf 2, hebben de inspecteurs het recht om bij dag en bij nacht, zonder voorafgaande waarschuwing, elke plaats vrij te betreden.<br>
+<br>
+§ 2. De inspecteurs hebben toegang tot bewoonde ruimtes in een van de volgende gevallen:<br>
+1° indien de visitatie plaatsvindt tussen 5 uur en 21 uur heeft de rechter in de politierechtbank daarvoor vooraf een machtiging tot visitatie verleend;<br>
+2° indien de visitatie plaatsvindt tussen 21 uur en 5 uur heeft de rechter in de politierechtbank daarvoor vooraf een bijzonder gemotiveerde machtiging tot visitatie verleend;<br>
+3° de personen die het werkelijke genot hebben van de ruimte, hebben er voorafgaandelijk en schriftelijk hun toestemming voor gegeven.<br>
+<br>
+De inspecteurs hebben tussen 5 uur en 21 uur steeds toegang tot de door de actor in de zorg bewoonde ruimtes die worden gebruikt voor de verlening van zorg.<br>
+<br>
+De inspecteurs hebben tussen 5 uur en 21 uur toegang tot de private ruimtes die bewoond worden door de residentiële of de semiresidentiële zorggebruiker in een van de volgende gevallen:<br>
+1° de rechter in de politierechtbank heeft daarvoor vooraf een machtiging tot visitatie verleend;<br>
+2° de persoon die het werkelijke genot heeft van de ruimte, heeft er zich niet tegen verzet.<br>
+<br>
+De inspecteurs hebben tussen 5 uur en 21 uur steeds toegang tot de gemeenschappelijke ruimtes die bewoond worden door de residentiële of de semiresidentiële zorggebruiker.<br>
+<br>
+De inspecteurs hebben steeds toegang tot bewoonde ruimtes als dat noodzakelijk is om dringende redenen ter bescherming van de volksgezondheid.<br>
+<br>
+§ 3. Het geheel van de motiveringsstukken voor de machtiging tot visitatie wordt bij het toezichtdossier gevoegd.
+
+### ART 9.
+
+De inspecteurs hebben het recht de identiteit op te nemen van de personen die zich bevinden op de plaatsen die aan hun toezicht onderworpen zijn en van eenieder van wie ze de verklaring of identificatie nodig achten voor de uitoefening van het toezicht.<br>
+<br>
+De inspecteurs kunnen daarvoor van die personen de voorlegging van identiteitsdocumenten vorderen.<br>
+<br>
+De inspecteurs kunnen die personen identificeren met behulp van niet-officiële documenten als die personen geen officiële identificatiedocumenten kunnen voorleggen of als de inspecteurs kunnen twijfelen aan de authenticiteit ervan of aan de identiteit van die personen.
+
+### ART 10.
+
+De inspecteurs hebben het recht inzage te vorderen van alle documenten en informatiedragers die nodig zijn voor de uitoefening van het toezicht, met inbegrip van documenten en informatiedragers die persoonsgegevens, waaronder gevoelige gegevens, bevatten. Daarvoor mogen ze zich die documenten en informatiedragers laten voorleggen op de plaats die ze aanwijzen.<br>
+<br>
+De bevoegdheid, vermeld in het eerste lid, heeft ook betrekking op gegevens die toegankelijk zijn via een informaticasysteem of via elk ander elektronisch apparaat.<br>
+<br>
+De inspecteurs mogen zich van alle documenten en informatiedragers die nodig zijn voor de uitoefening van het toezicht kosteloos een kopie laten verstrekken of er zelf een kopie van maken. Als kopiëren niet mogelijk is, mogen ze die documenten en informatiedragers, met uitzondering van de documenten en informatiedragers die gevoelige gegevens bevatten, tegen een door hen af te geven schriftelijk bewijs meenemen voor de periode die vereist is om hun opdracht te volbrengen.<br>
+<br>
+De inspecteurs hebben het recht om documenten en informatiedragers die door de regelgeving voorgeschreven gegevens bevatten, met uitzondering van de documenten en informatiedragers die gevoelige gegevens bevatten, tijdelijk tegen een door hen af te geven schriftelijk bewijs in beslag te nemen of te verzegelen als dat noodzakelijk is voor de opsporing, voor het onderzoek of voor het leveren van het bewijs van de inbreuk, of als het gevaar bestaat dat met die documenten of informatiedragers de inbreuken worden voortgezet of nieuwe inbreuken zullen worden gepleegd.<br>
+<br>
+De inspecteurs hebben het recht documenten en informatiedragers op te sporen die door de regelgeving voorgeschreven gegevens bevatten, met inbegrip van documenten en informatiedragers die gevoelige gegevens bevatten.<br>
+<br>
+Als anonieme gegevens beschikbaar en actueel zijn, vragen de inspecteurs in eerste instantie inzage in die gegevens. Voor zover dat nodig is in het licht van de toezichtsopdracht, kunnen de inspecteurs inzage vorderen in persoonsgegevens, mits daarvoor de Europese, federale en Vlaamse regels rond het verwerken van deze gegevens worden gevolgd.
+
+### ART 11.
+
+De inspecteurs hebben het recht zaken te onderzoeken of te laten onderzoeken.<br>
+<br>
+Als het onderzoek niet ter plaatse uitgevoerd kan worden, mogen de inspecteurs de zaken tegen een door hen af te geven schriftelijk bewijs meenemen tijdens de periode die vereist is om het onderzoek uit te voeren.<br>
+<br>
+Ze hebben het recht om zaken tijdelijk tegen een door hen af te geven schriftelijk bewijs in beslag te nemen of te verzegelen als dat noodzakelijk is voor de opsporing, voor het onderzoek of voor het leveren van het bewijs van de inbreuken, of als het gevaar bestaat dat met die zaken de inbreuken worden voortgezet of nieuwe inbreuken zullen worden gepleegd.
+
+### ART 12.
+
+De inspecteurs hebben het recht vaststellingen te doen met audiovisuele middelen en met staalnames.<br>
+<br>
+Vaststellingen met audiovisuele middelen gelden tot bewijs van het tegendeel, op voorwaarde dat zij het voorwerp uitmaken van een document van vaststelling dat naast de gegevens, vermeld in artikel 15, tweede lid, de volgende gegevens bevat:<br>
+1° de dag, de datum, het uur waarop en de beschrijving van de plaats waar de vaststelling met audiovisuele middelen is gemaakt;<br>
+2° de identificatie van het technisch hulpmiddel waarmee de vaststelling met audiovisuele middelen werd gedaan;<br>
+3° een beschrijving van de vaststelling die met audiovisuele middelen werd gedaan;<br>
+4° wanneer het gaat om een detailopname, een aanduiding met de schaal.<br>
+<br>
+De inspecteurs en de deskundigen, vermeld in artikel 7, § 1, 7°, bewaren de vaststelling met audiovisuele middelen niet langer dan nodig voor de uitoefening van hun opdracht.<br>
+<br>
+Vaststellingen met staalnames gelden tot bewijs van het tegendeel, op voorwaarde dat de inspecteurs ze zelf op regelmatige wijze hebben gedaan of door een erkend laboratorium op regelmatige wijze hebben laten doen.
+
+## Afdeling 3. Afhandeling van het toezicht
+
+### ART 13.
+
+§ 1. De inspecteurs stellen een verslag op van hun vaststellingen. De Vlaamse Regering bepaalt welke inlichtingen het verslag minstens bevat.<br>
+<br>
+§ 2. Een kopie van het voorlopige verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag nadat de laatste vaststelling in het kader van het toezicht gedaan is. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
+<br>
+§ 3. De actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, hebben elk het recht om binnen een termijn van veertien dagen hun schriftelijke reactie op het voorlopige verslag kenbaar te maken. De termijn neemt een aanvang de dag na de ontvangst van het voorlopige verslag en de bijlagen, vermeld in paragraaf 2. De termijn is eenmalig verlengbaar met veertien dagen, op voorwaarde dat de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, of de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, de inspecteurs daarvan binnen een termijn van veertien dagen schriftelijk op de hoogte brengen en deze er hun akkoord aan verlenen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag. De reactie wordt als bijlage bij het verslag gevoegd en maakt dus deel uit van het administratief dossier.<br>
+<br>
+De inspecteurs kunnen het verslag aanpassen op basis van de reacties op het voorlopige verslag en de bijlagen, vermeld in eerste lid. De actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, worden schriftelijk op de hoogte gebracht van eventuele aanpassingen.<br>
+<br>
+§ 4. Een kopie van het verslag en de bijlagen wordt binnen een termijn van dertig dagen bezorgd aan de actor in de zorg, aan de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en aan de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan. De termijn neemt een aanvang de dag na de ontvangst van de laatste reactie, vermeld in paragraaf 3, of na het verstrijken van de reactietermijn. De termijn is eenmalig verlengbaar met dertig dagen, op voorwaarde dat de inspecteurs de actor in de zorg, de zorggebruiker, als die het voorwerp van het toezicht uitmaakt, en de klachtindiener, als de vaststellingen naar aanleiding van een klacht werden gedaan, daarvan binnen een termijn van dertig dagen schriftelijk op de hoogte brengen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is, eindigt de termijn op de eerstvolgende werkdag.<br>
+<br>
+§ 5. Het verslag dat conform paragraaf 1 tot en met 4 opgesteld en bezorgd is, heeft bewijswaarde tot het tegendeel is bewezen.
+
+### ART 14.
+
+Als dat vereist is om de veiligheid of de gezondheid van de zorggebruiker te vrijwaren, kan de Vlaamse Regering concrete beschermende maatregelen opleggen aan de actor in de zorg. In dat bevel is de termijn bepaald waarin de maatregelen gelden en is omschreven welke voorwaarden vervuld moeten zijn om de vastgestelde gebreken te verhelpen.<br>
+<br>
+Als het nemen van de maatregelen, vermeld in het eerste lid, om zeer dringende redenen van veiligheid of gezondheid van de zorggebruiker niet kan worden uitgesteld, kan de inspecteur aan de actor in de zorg concrete beschermende maatregelen opleggen die ten hoogste zeven dagen gelden. Die maatregelen kunnen door de Vlaamse Regering worden opgeheven, verlengd of gewijzigd, met een bevel als vermeld in het eerste lid.<br>
+<br>
+De maatregelen, vermeld in het eerste en tweede lid, kunnen onder meer bestaan in een gehele of gedeeltelijke sluiting van de voorziening, het verbod bepaalde activiteiten te verrichten of voort te zetten, de verplichting bepaalde zorggebruikers in cohorte te behandelen of het verbod nieuwe zorggebruikers op te nemen.<br>
+<br>
+In geval van niet-naleving van de conform het eerste lid opgelegde maatregelen stelt de Vlaamse Regering een proces-verbaal van vaststelling op en bezorgt ze dat aan het Openbaar Ministerie.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de procedure die gelden bij de toepassing van het eerste en het tweede lid.
+
+### ART 15.
+
+De volgende handelingen en maatregelen maken het voorwerp uit van een document van vaststelling dat onmiddellijk tegen afgifte van een ontvangstbewijs wordt bezorgd:<br>
+1° de toegang tot bewoonde ruimtes, vermeld in artikel 8, § 2, als de uitbater van de actor in de zorg, zijn aangestelde of lasthebber of de zorggebruiker afwezig was of daar niet vrijwillig mee heeft ingestemd;<br>
+2° de opsporing, vermeld in artikel 10, vijfde lid, als de uitbater van de actor in de zorg, zijn aangestelde of lasthebber of de zorggebruiker afwezig was of daar niet vrijwillig mee heeft ingestemd;<br>
+3° het meenemen van documenten, informatiedragers of zaken met toepassing van artikel 10, derde lid, of artikel 11, tweede lid;<br>
+4° de inbeslagnemingen of verzegelingen die verricht zijn met toepassing van artikel 10, vierde lid, of artikel 11, derde lid;<br>
+5° de vaststelling met audiovisuele middelen die met toepassing van artikel 12, eerste lid, heeft plaatsgevonden;<br>
+6° de concrete beschermende maatregelen die krachtens artikel 14 ten aanzien van de actor in de zorg zijn genomen.<br>
+<br>
+Het document van vaststelling bevat de volgende gegevens:<br>
+1° de datum en het uur waarop de maatregelen zijn genomen;<br>
+2° de genomen maatregelen;<br>
+3° de rechtsmiddelen tegen die maatregelen, het bevoegde gerechtelijke arrondissement en de overheid die in voorkomend geval moet worden gedagvaard.
+
+### ART 16.
+
+§ 1. De inspecteurs kunnen de gegevens die ze in uitvoering van hun opdracht, vermeld in artikel 3, eerste lid, verzameld hebben, verstrekken aan de Vlaamse Regering, alsook aan openbare instellingen, meewerkende instellingen en voorzieningen, aan andere inspectiediensten en aan alle ambtenaren die belast zijn met het toezicht op andere regelgeving, als die gegevens hen rechtstreeks aanbelangen bij de uitoefening van de opdrachten waarmee ze belast zijn.<br>
+<br>
+De gegevens worden altijd verstrekt als de Vlaamse Regering, instellingen, voorzieningen, diensten of ambtenaren, vermeld in het eerste lid, erom verzoeken.<br>
+<br>
+§ 2. Alle diensten van de Vlaamse Gemeenschap, het Vlaamse Gewest, provincies, federaties van gemeenten, gemeenten, verenigingen waarvan ze deel uitmaken, openbare instellingen die ervan afhangen, en alle openbare en meewerkende instellingen die onder de bevoegdheid vallen van de Vlaamse Gemeenschap of het Vlaamse Gewest, verstrekken de inspecteurs alle gegevens waar ze om verzoeken onder de voorwaarden bepaald in een besluit van de Vlaamse Regering. Ze leggen hen ook alle documenten of informatiedragers ter inzage voor die de inspecteurs nuttig achten voor het toezicht en de controle op de naleving van de regelgeving waarmee ze belast zijn, en ze verstrekken hen uittreksels en kopieën.<br>
+<br>
+§ 3. De bevoegdheden en de verplichtingen, vermeld in paragraaf 1 en 2, worden uitgeoefend met inachtname van de Europese, federale en Vlaamse regels rond het verwerken en de overdracht van deze gegevens en van de regelgeving over het beroepsgeheim.
+
+## HOOFDSTUK 3. Sancties
+
+### ART 17.
+
+§ 1. De Vlaamse Regering kan een administratieve geldboete van 200 tot 20.000 euro opleggen aan al wie het toezicht, vermeld in hoofdstuk 2 van dit decreet en de uitvoeringsbesluiten ervan, wetens en willens verhindert. De hoogte van de boete staat in verhouding tot de zwaarwichtigheid van de inbreuk en de herhaling ervan.<br>
+<br>
+De toezichtrechten, vermeld in artikel 10, derde lid, worden alleen verhinderd als ze betrekking hebben hetzij op documenten of informatiedragers die door de regelgeving voorgeschreven gegevens bevatten, hetzij op valse documenten of informatiedragers. Het toezichtrecht, vermeld in artikel 7, § 1, 2°, wordt alleen verhinderd als de ondervraagde leugenachtige verklaringen aflegt.<br>
+<br>
+Als de verhindering, vermeld in eerste lid, de vaststellingen over de naleving van de regelgeving, vermeld in artikel 3, geheel of gedeeltelijk onmogelijk heeft gemaakt, geldt tot bewijs van het tegendeel een vermoeden dat de regelgeving geheel of gedeeltelijk niet is nageleefd.<br>
+<br>
+§ 2. De administratieve geldboete, vermeld in paragraaf 1, eerste lid, kan worden opgelegd binnen een termijn van zes maanden vanaf de dag van de vaststelling van de inbreuk door de inspecteurs en nadat de betrokkene werd gehoord. De betrokkene mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een administratieve geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarin een beroep ingesteld kan worden tegen de beslissing.<br>
+<br>
+Bij verzachtende omstandigheden kan het bedrag van de opgelegde administratieve geldboete worden verminderd, zelfs tot onder het toepasselijke minimumbedrag.<br>
+<br>
+Als de betrokkene weigert de administratieve geldboete te betalen, wordt ze bij dwangbevel ingevorderd. De Vlaamse Regering wijst de personeelsleden aan die een dwangbevel kunnen geven en uitvoerbaar verklaren. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de datum van de beslissing, vermeld in het eerste lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, vermeld in artikel 2244 tot en met artikel 2250 van het Burgerlijk Wetboek.
+
+### ART 18.
+
+De persoon die een opgelegde veiligheidsmaatregel als vermeld in artikel 14, niet naleeft, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 tot 2000 euro, of met één van die straffen alleen.<br>
+<br>
+De straffen, vermeld in artikel 36 tot en met 37 van het Strafwetboek, zijn van toepassing op het misdrijf, vermeld in het eerste lid.
+
+## HOOFDSTUK 4. Wijzigingsbepalingen
+
+### ART 19.
+
+In artikel 18 van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders, gewijzigd bij het decreet van 21 juni 2013, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt opgeheven;<br>
+2° in paragraaf 3 wordt de zinsnede "en § 2" opgeheven.
+
+### ART 20.
+
+In artikel 13, § 4, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, gewijzigd bij de decreten van 2 juni 2006 en 21 juni 2013, worden het tweede en het derde lid opgeheven.
+
+### ART 21.
+
+In hetzelfde decreet, gewijzigd bij het decreet van 20 april 2012, wordt hoofdstuk IV, dat bestaat uit artikel 14 en 15, opgeheven.
+
+### ART 22.
+
+In artikel 7 van het decreet van 30 april 2004 betreffende het niet dringend liggend ziekenvervoer wordt het tweede lid opgeheven.
+
+### ART 23.
+
+In het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap worden in artikel 23, gewijzigd bij het decreet van 24 april 2014, het derde en het vierde lid opgeheven.
+
+### ART 24.
+
+In artikel 8 van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening, gewijzigd bij het decreet van 21 juni 2013, worden het tweede tot en met het vierde lid opgeheven.
+
+### ART 25.
+
+In artikel 66 van het Woonzorgdecreet van 13 maart 2009 worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1 wordt het eerste lid opgeheven;<br>
+2° in paragraaf 1, tweede lid, worden de woorden "Die ambtenaren" vervangen door de zinsnede "De ambtenaren, vermeld in artikel 72,";<br>
+3° in paragraaf 1, tweede lid, worden tussen het woord "woonzorg" en het woord "wordt" de woorden "in aangemelde thuiszorg- en ouderenzorgvoorzieningen" ingevoegd;<br>
+4° in paragraaf 2 wordt het eerste lid opgeheven;<br>
+5° in paragraaf 2, tweede lid, worden de woorden "die verplichtingen" vervangen door de zinsnede "de verplichtingen, vermeld in paragraaf 1,";<br>
+6° in paragraaf 2, tweede lid, wordt de zinsnede "gebouwen, vermeld in § 1, eerste lid," vervangen door de woorden "thuiszorg- of ouderenzorgvoorziening".
+
+### ART 26.
+
+In artikel 72 van hetzelfde decreet worden het tweede en het derde lid opgeheven.
+
+### ART 27.
+
+In artikel 73 van hetzelfde decreet, gewijzigd bij het decreet van 18 november 2011, wordt het tweede lid opgeheven.
+
+### ART 28.
+
+Artikel 32 van het decreet van 20 maart 2009 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt opgeheven.
+
+### ART 29.
+
+In artikel 33 van hetzelfde decreet wordt de zinsnede "artikelen 31 en" telkens vervangen door het woord "artikel".
+
+### ART 30.
+
+In artikel 26 van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt paragraaf 2, gewijzigd bij het decreet van 19 juni 2015, opgeheven.
+
+### ART 31.
+
+In artikel 2 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, gewijzigd bij de decreten van 19 juni 2015 en 15 juli 2016, worden in het eerste lid de volgende wijzigingen aangebracht:<br>
+1° in punt 12° wordt voor het woord "toezichtpersoon" en voor het woord "toezichthouder" telkens het woord "private" ingevoegd;<br>
+2° er wordt een punt 18° toegevoegd, dat luidt als volgt:<br>
+"18° private toezichthouder: een toezichthouder die is vormgegeven volgens het private vennootschaps- of verenigingsrecht.".
+
+### ART 32.
+
+In artikel 15 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° voor het woord "toezichthouder" wordt telkens het woord "private" ingevoegd;<br>
+2° in het tweede punt van het eerste lid, wordt tussen het woord "de" en het woord "toezichtperso(o)n(en)" het woord "private" ingevoegd;<br>
+3° in het tweede lid wordt tussen het woord "de" en het woord "toezichtpersoon" het woord "private" ingevoegd.
+
+### ART 33.
+
+In artikel 16 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° voor het woord "toezichtpersoon" wordt telkens het woord "private" ingevoegd;<br>
+2° in het derde lid wordt tussen het woord "de" en het woord "toezichtpersonen" het woord "private" ingevoegd;<br>
+3° in het vierde lid wordt tussen het woord "de" en het woord "toezichthouder" het woord "private" ingevoegd.
+
+### ART 34.
+
+In artikel 17 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen het woord "de" en het woord "toezichtpersoon" het woord "private" ingevoegd;<br>
+2° voor het woord "toezichthouder" wordt telkens het woord "private" ingevoegd.
+
+### ART 35.
+
+In artikel 18 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt het tweede lid opgeheven.
+
+### ART 36.
+
+In artikel 19, eerste lid, van hetzelfde decreet wordt punt 2° opgeheven.
+
+### ART 37.
+
+In artikel 22, eerste lid, van hetzelfde decreet worden in punt 1° tussen het woord "toezicht" en het woord "verhindert" de woorden "door de private toezichthouder" ingevoegd.
+
+### ART 38.
+
+In artikel 23 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg worden het tweede tot en met het vijfde lid opgeheven.
+
+### ART 39.
+
+In artikel 78 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, gewijzigd bij de decreten van 17 juni 2016 en 3 februari 2017, worden in paragraaf 1 het tweede en het derde lid opgeheven.
+
+### ART 40.
+
+In artikel 20 van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning worden het tweede en het derde lid opgeheven.
+
+### ART 41.
+
+In artikel 20 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap worden het tweede en het derde lid opgeheven.
+
+### ART 42.
+
+In artikel 45 van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten wordt paragraaf 2 opgeheven.
+
+### ART 43.
+
+In artikel 26 van het decreet van 3 juli 2015 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt paragraaf 2, gewijzigd bij het decreet van 15 juli 2016, opgeheven.
+
+### ART 44.
+
+In het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, worden in artikel 26 punt 2° en 3° opgeheven.
+
+### ART 45.
+
+In hetzelfde decreet wordt hoofdstuk 14, dat bestaat uit artikel 107, opgeheven.
+
+## HOOFDSTUK 5. Slotbepalingen
+
+### ART 46.
+
+De Vlaamse Regering evalueert dit decreet drie jaar na de inwerkingtreding ervan.
+
+### ART 47.
+
+Dit decreet treedt in werking op 1 januari 2019.
