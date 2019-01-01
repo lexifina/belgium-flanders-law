@@ -2,16 +2,16 @@
   "codex_id": 1014351,
   "title": "Ministerieel besluit van 2006-02-15 tot bepaling van de standaard voor de titel van autocarchauffeur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014351/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6b714a8129d765e98cd1df4f02ca24b073c31f4a947b46ac5e1aa68bdf2cef36",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014351/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "741a804546f2dcea6aedcb32e172de6e1c528db35b2c862704f6e055ca995919",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014351&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "2006-02-15",
   "gazette": "2006-03-13",
   "numac": 2006035374,
   "document_start": "2006-03-13",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
