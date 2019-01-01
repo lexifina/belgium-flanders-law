@@ -19,8 +19,8 @@ Besluit :<br>
 
 ### ART. 1.
 
-Volgende beoordelingsinstanties zijn voor onbepaalde duur erkend op basis van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid :<br />- UBK/UCB vzw, Zuidstationstraat 3, bus 206, 9000 Gent, als erkende beoordelingsinstantie voor een titel van kapper;<br />- UBK/UCB vzw, Zuidstationstraat 3, bus 206, 9000 Gent, als erkende beoordelingsinstantie voor een titel van kapper-salonbeheerder;<br />- OCMW Gent - Opleidings- en Tewerkstellingscentrum, Van Bockxtaelstraat 51, 9050 Ledeberg, als erkende beoordelingsinstantie voor een titel van verhuizer-drager;<br />- OCMW Gent - Opleidings- en Tewerkstellingscentrum, Van Bockxtaelstraat 51, 9050 Ledeberg, als erkende beoordelingsinstantie voor een titel van verhuizer-inpakker.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
