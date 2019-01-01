@@ -10,13 +10,18 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° v.z.w. de Rand: de v.z.w. opgericht bij oprichtingsakte van 20 december 1996 onder de naam v.z.w. de Rand;<br /><br />2° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />3° gemeenschapscentrum: culturele infrastructuur, beheerd door de v.z.w. de Rand, met het oog op cultuurparticipatie, gemeenschapsvorming, sociaal-culturele dienstverlening en cultuurspreiding voor de lokale bevolking en met bijzondere aandacht voor de Nederlandstalige uitstraling en het onthaal van anderstaligen.
+In dit decreet wordt verstaan onder:<br>
+1° v.z.w. de Rand: de v.z.w. opgericht bij oprichtingsakte van 20 december 1996 onder de naam v.z.w. de Rand;<br>
+2° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+3° gemeenschapscentrum: culturele infrastructuur, beheerd door de v.z.w. de Rand, met het oog op cultuurparticipatie, gemeenschapsvorming, sociaal-culturele dienstverlening en cultuurspreiding voor de lokale bevolking en met bijzondere aandacht voor de Nederlandstalige uitstraling en het onthaal van anderstaligen.
 
 ## HOOFDSTUK III MACHTIGING TOT OMVORMING TOT EEN PRIVAATRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIGD AGENTSCHAP
 
 ### ART. 3.
 
-§ 1. De Vlaamse regering wordt gemachtigd om onder de voorwaarden, bepaald in dit decreet, te participeren in de v.z.w. de Rand. De v.z.w. de Rand is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als bedoeld in artikel 29 van het kaderdecreet.<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort. De bepalingen van het kaderdecreet zijn van toepassing op de v.z.w. de Rand.
+§ 1. De Vlaamse regering wordt gemachtigd om onder de voorwaarden, bepaald in dit decreet, te participeren in de v.z.w. de Rand. De v.z.w. de Rand is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort. De bepalingen van het Bestuursdecreet zijn van toepassing op de v.z.w. de Rand.
 
 ## HOOFDSTUK IV MISSIE EN TAKEN
 
@@ -36,9 +41,9 @@ De v.z.w. de Rand heeft tot taak:<br /><br />1° te fungeren als documentatie- e
 <br>
 § 2. De algemene vergadering van de vzw ``de Rand'' bestaat uit negentien leden. Acht leden zijn vertegenwoordigers van de Vlaamse Gemeenschap en beschikken elk over drie stemmen in de algemene vergadering. Vier leden zijn vertegenwoordigers van de provincie Vlaams-Brabant en beschikken elk over twee stemmen in de algemene vergadering. Zeven leden zijn elk vertegenwoordiger van een programmeringscommissie en beschikken elk over één stem in de algemene vergadering.<br>
 <br>
-§ 3. De raad van bestuur van de vzw "de Rand" bestaat uit achttien leden. Drie leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd. Twee leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd. Zeven leden worden door de algemene vergadering op voordracht van de programmeringscommissies benoemd. Zes onafhankelijke leden worden benoemd overeenkomstig de artikelen 4, 5, eerste tot en met derde en vijfde lid, en 6 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector. Ze beschikken elk over één stem in de raad van bestuur.<br>
+§ 3. De raad van bestuur van de vzw "de Rand" bestaat uit achttien leden. Drie leden worden door de algemene vergadering op voordracht van de Vlaamse Gemeenschap benoemd. Twee leden worden door de algemene vergadering op voordracht van de provincie Vlaams-Brabant benoemd. Zeven leden worden door de algemene vergadering op voordracht van de programmeringscommissies benoemd. Zes onafhankelijke leden worden benoemd overeenkomstig artikel III.40, III.41, eerste tot en met derde en vijfde lid, en artikel III.42 van het Bestuursdecreet. Ze beschikken elk over één stem in de raad van bestuur.<br>
 <br>
-De artikelen 7 tot en met 9 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn van toepassing op de raad van bestuur van de vzw "de Rand"..
+De artikelen III.37, III.38, III.39 en III.43 van het Bestuursdecreet zijn van toepassing op de raad van bestuur van de vzw "de Rand".
 
 ### ART. 7.
 
@@ -82,7 +87,7 @@ De regeringscommissaris kan van de bestuurders alle inlichtingen en ophelderinge
 <br>
 § 3. De Vlaamse Regering stelt de vergoeding van de regeringscommissaris vast.<br>
 <br>
-§ 4. De artikelen 10 tot 17 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn van toepassing op de regeringscommissaris aangesteld bij de vzw "de Rand".
+§ 4. De artikelen III.49 tot en met III.56 van het Bestuursdecreet zijn van toepassing op de regeringscommissaris aangesteld bij de vzw "de Rand".
 
 ## HOOFDSTUK VIII FINANCIËLE BEPALINGEN EN TERBESCHIKKINGSTELLING VAN PERSONEEL EN INFRASTRUCTUUR
 
@@ -135,7 +140,17 @@ De provincie Vlaams-Brabant voert een beleid dat het Vlaamse karakter van   de p
 
 ### ART. 13.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende de v.z.w. de Rand coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie te herschrijven, zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
+§ 1. ...<br>
+<br>
+§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende de v.z.w. de Rand coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren<br>
+<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie te herschrijven, zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
