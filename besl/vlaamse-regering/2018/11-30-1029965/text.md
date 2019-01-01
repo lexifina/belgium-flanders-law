@@ -22,6 +22,22 @@ Aan artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 12 oktobe
 <br>
 "34° agentschap Wonen-Vlaanderen: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen.".
 
+### ART 6.
+
+In artikel 46 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"De aangepaste huurprijs is gelijk aan 1/55ste van het inkomen, vermeld in artikel 1, eerste lid, 15°, verhoogd met de energiecorrectie, vermeld in artikel 44, en verminderd met de som van de patrimoniumkorting, vermeld in artikel 43, en de gezinskorting, vermeld in artikel 45.";<br>
+<br>
+2° in het tweede lid wordt punt 2° vervangen door wat volgt:<br>
+"2° de minimale huurprijs, vermeld in artikel 42, verhoogd met de energiecorrectie, vermeld in artikel 44, als het verschil, vermeld in het eerste lid, kleiner is dan de minimale huurprijs verhoogd met de energiecorrectie.";<br>
+<br>
+3° tussen het tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid, wordt de aangepaste huurprijs berekend op basis van:<br>
+1° 1/54<sup>ste</sup>&nbsp;van het inkomen, als het inkomen hoger is dan de toepasselijke inkomensgrens, vermeld in artikel 3, § 2, maar lager dan 125 % van de toepasselijke inkomensgrens;<br>
+2° 1/53<sup>ste</sup>&nbsp;van het inkomen, als het inkomen gelijk aan of hoger is dan 125 % van de toepasselijke inkomensgrens, vermeld in artikel 3, § 2, maar lager dan 150% van de toepasselijke inkomensgrens;<br>
+3° 1/52<sup>ste</sup>&nbsp;van het inkomen, als het inkomen gelijk aan of hoger is dan 150% van de toepasselijke inkomensgrens, vermeld in artikel 3, § 2.".
+
 ### ART 10.
 
 Aan artikel 4, § 3/1, van het besluit van de Vlaamse Regering van 2 december 2011 houdende de subsidiëring van sociale huisvestingsmaatschappijen voor uitgaven met betrekking tot rationeel energiegebruik en groene warmte, ingevoegd bij het besluit van de Vlaamse Regering van 23 december 2016, wordt een punt 16° toegevoegd, dat luidt als volgt:<br>
