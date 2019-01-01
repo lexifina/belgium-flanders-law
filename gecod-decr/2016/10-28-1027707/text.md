@@ -869,7 +869,7 @@ De subsidie-enveloppes bevatten middelen voor de ondersteuning van de jaarlijkse
 ### ART IV.4.
 
 De subsidie-enveloppes worden toegekend op voorwaarde dat :<br>
-1° de dienst erkend is door de Vlaamse Regering voor ten minste vijftien bedden voor dag- en nachthospitalisatie en/of plaatsen voor daghospitalisatie;<br>
+1° de dienst erkend is door de Vlaamse Regering voor ten minste&nbsp;negen bedden voor dag- en nachthospitalisatie en/of plaatsen voor daghospitalisatie;<br>
 2° de dienst over voldoende didactisch materiaal, aangepaste schooluitrusting en lokalen die voldoen aan de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid beschikt om onderwijs te verstrekken;<br>
 3° de dienst voor het verstrekken van onderwijs geen andere financiering of subsidiëring door de Vlaamse Gemeenschap geniet;<br>
 4° het onderwijs wordt verstrekt overeenkomstig de in Afdeling 3 bedoelde beginselen;<br>
@@ -881,9 +881,8 @@ De subsidie-enveloppes worden vastgesteld door het aantal bedden voor dag- en na
 
 ### ART IV.6.
 
-§1. De Vlaamse Regering kent de subsidie-enveloppes toe binnen de beschikbare begrotingskredieten.<br>
-Vanaf 2015 bedraagt de subsidie-enveloppe 1.469.000 euro.<br>
-Vanaf 2016 wordt dit bedrag geïndexeerd op basis van de gezondheidsindex.<br>
+§1. De Vlaamse Regering kent de subsidie-enveloppes toe binnen de beschikbare begrotingskredieten. Vanaf 2019 bedraagt de subsidie-enveloppe minimaal 1.469.000 euro. Dit bedrag wordt geïndexeerd op basis van de gezondheidsindex.<br>
+<br>
 &nbsp;<br>
 §2. De Vlaamse Regering kan nadere regelen met betrekking tot de toekenning van de subsidie-enveloppes vastleggen en de bepalingen inzake de voorwaarden voor het toekennen van subsidie in het kader van artikel IV.4, verder preciseren.
 
@@ -1546,35 +1545,36 @@ De afdeling is van toepassing op bovenvermelde personeelsleden voor zover zij :<
 
 ### ART V.30.
 
-De personeelsleden, bedoeld in artikel V.29, worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten :<br>
+De personeelsleden, vermeld in artikel V.29, worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken, met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br>
 1° burgemeester van een gemeente met meer dan 50.000 inwoners;<br>
-2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente met meer dan 80.000 inwoners;<br>
-3° lid van de bestendige deputatie van een provincieraad;<br>
+2° schepen of voorzitter van het bijzonder comité voor de sociale dienst van een gemeente met meer dan 80.000 inwoners;<br>
+3° lid van de deputatie van een provincieraad;<br>
 4° voorzitter van een agglomeratie of van een federatie van gemeenten;<br>
-5° lid van de Kamer van Volksvertegenwoordigers of van de Senaat;<br>
+5° lid van de Kamer van volksvertegenwoordigers of van de Senaat;<br>
 6° lid van het Vlaams Parlement;<br>
 7° lid van het Brussels Hoofdstedelijk Parlement;<br>
-8° lid van het Europees parlement;<br>
-9° lid van de federale regering;<br>
+8° lid van het Europees Parlement;<br>
+9° lid van de Federale Regering;<br>
 10° lid van de Vlaamse Regering of van de Brusselse Hoofdstedelijke Regering;<br>
-11° staatssecretaris van het Brussels Hoofdstedelijk Gewest;<br>
+11° staatssecretaris van het Brusselse Hoofdstedelijke Gewest;<br>
 12° lid van de Vlaamse Gemeenschapscommissie.<br>
-&nbsp;<br>
-Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging voor één van de boven vermelde mandaten.
+<br>
+Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging voor een van de voormelde mandaten.
 
 ### ART V.31.
 
-Aan een personeelslid wordt op zijn verzoek, een voltijds of deeltijds politiek verlof toegekend voor de uitoefening van een mandaat van :<br>
+Aan een personeelslid wordt op zijn of haar verzoek, een voltijds of deeltijds politiek verlof toegekend voor de uitoefening van een mandaat van:<br>
 1° burgemeester, schepen of gemeenteraadslid;<br>
-2° provincieraadslid dat geen lid is van de bestendige deputatie;<br>
-3° voorzitter, lid van het bureau of lid van de raad voor maatschappelijk welzijn;<br>
-4° voorzitter, lid van het vast bureau van de districtsraad of lid van de districtsraad.<br>
+2° provincieraadslid dat geen lid is van de deputatie van een provincieraad;<br>
+3° voorzitter of lid van het bijzonder comité voor de sociale dienst;<br>
+4° voorzitter, lid van het vast bureau of lid van de raad voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
+5° districtsburgemeester, districtsschepen of lid van de districtsraad.<br>
 <br>
 De Vlaamse Regering kan voor personeelsleden die dit verlof opnemen, voorwaarden bepalen.
 
 ### ART V.32.
 
-Voor de toepassing van artikel V.30, eerste lid, 1° en 2°, wordt het aantal inwoners bepaald overeenkomstig de bepalingen van het gemeentedecreet of de nieuwe gemeentewet.
+Voor de toepassing van artikel V.30, eerste lid, 1° en 2°, wordt het aantal inwoners bepaald overeenkomstig de bepalingen van het decreet van 22 december 2017 over het lokaal bestuur.
 
 ### ART V.33.
 
@@ -2483,6 +2483,18 @@ De Raad van het Gemeenschapsonderwijs bedoeld in artikel 5, §4, van het bijzond
 De opbrengsten die verbonden zijn aan de in het eerste lid genoemde daden van beheer of beschikking worden aangewend overeenkomstig de bepalingen van artikel 13, §2, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving.
 
 ## [DEEL X/1 OVERGANGSMAATREGEL BIJ FUSIE VAN GEMEENTEN (ing. decr. 15 juni 2018, art. 120, I: 1 januari 2019)]
+
+### ART X.1/1.
+
+In dit artikel wordt verstaan onder instellingen:<br>
+1° de scholen voor gewoon en buitengewoon basisonderwijs;<br>
+2° de instellingen voor deeltijds kunstonderwijs.<br>
+<br>
+Gemeenten die fusioneren conform het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016 worden voor de toepassing van de onderwijsregelgeving gedurende een periode van zes schooljaren, die start op 1 september na de fusie, beschouwd als niet gefusioneerd voor:<br>
+1° het berekenen van de financiering en subsidiëring van de instellingen en scholengemeenschappen op hun grondgebied;<br>
+2° het behalen van de programmatie- en rationalisatienormen van de instellingen op hun grondgebied;<br>
+3° het behalen van de norm voor scholengemeenschappen basisonderwijs;<br>
+4° de regionale afbakeningen voor de onderwijszones en de LOP-gebieden.
 
 ## [DEEL X/2 GOEDKEURING VAN VERVANGENDE ONDERWIJSDOELEN (ing. decr. 7 juli 2023, art. 136, I: 1 september 2021)]
 
