@@ -264,7 +264,7 @@ Het beslissingscomité bij het Hermesfonds bepaalt binnen de perken van de begro
 <br>
 Als de budgettaire mogelijkheden in verhouding tot het volume aanvragen ongewenste verdringingseffecten zouden veroorzaken, kan het beslissingscomité bij het Hermesfonds jaarlijks een maximaal steunvolume per onderneming opleggen.<br>
 <br>
-§ 3. Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht, ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, conform de modaliteiten die opgenomen zijn in het kaderdecreet bestuurlijk beleid van 18 juli 2003, of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
+§ 3. Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht, ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid,&nbsp;of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
 <br>
 De Vlaamse Regering machtigt de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, om de nodige afspraken te maken met het beslissingscomité bij het Hermesfonds voor de nadere invulling van de opdracht.
 
