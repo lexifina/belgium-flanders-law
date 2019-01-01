@@ -190,11 +190,9 @@ Het vertrouwenscentrum kindermishandeling kan in bijkomende tijden en kanalen vo
 
 ### ART 27.
 
-§ 1. Het vertrouwenscentrum kindermishandeling, erkend conform dit besluit, ontvangt binnen de perken van de begrotingskredieten jaarlijks een algemene werkingssubsidie ter ondersteuning van personeels- en werkingskosten.<br>
+Het vertrouwenscentrum kindermishandeling en de partnerorganisatie, erkend conform dit besluit, ontvangen binnen de perken van de begrotingskredieten jaarlijks een algemene werkingssubsidie ter ondersteuning van de personeels- en werkingskosten.<br>
 <br>
-Het agentschap kent een subsidie toe voor de duur van de erkenning.<br>
-<br>
-§ 2. De partnerorganisatie, erkend conform de bepalingen van dit besluit, kan binnen de perken van de begrotingskredieten jaarlijks een algemene werkingssubsidie ontvangen ter ondersteuning van personeels- en werkingskosten.
+Het agentschap kent voor de duur van de erkenning een subsidie toe als vermeld in het eerste lid.
 
 ## Afdeling 2. Subsidievoorwaarden
 
@@ -231,16 +229,18 @@ Een overschot als vermeld in het eerste lid, wordt gecompenseerd door een tekort
 Er wordt voor elk vertrouwenscentrum kindermishandeling jaarlijks aanvullend een tegemoetkoming voor anciënniteitsontwikkeling vastgesteld, op basis van het verschil in gemiddelde anciënniteit van de personeelsleden van het vertrouwenscentrum kindermishandeling in het voorgaande jaar, in vergelijking met het basisjaar 2016.<br>
 <br>
 § 2. Onverminderd artikel 27, paragraaf 1, behoudt het vertrouwenscentrum kindermishandeling, vermeld in artikel 53, bij de berekening van het subsidiebedrag, vermeld in paragraaf 1, eerste lid, het volgende subsidiebedrag dat op dat vertrouwenscentrum kindermishandeling betrekking heeft:<br>
-1° vertrouwenscentrum kindermishandeling Antwerpen: 1.498.891,48 euro (een miljoen vierhonderdachtennegentigduizend achthonderdeenennegentig euro achtenveertig cent);<br>
-2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 813.154,90 euro (achthonderddertienduizend honderdvierenvijftig euro negentig cent);<br>
-3° vertrouwenscentrum kindermishandeling Limburg: 919.254,77 euro (negenhonderdnegentienduizend tweehonderdvierenvijftig euro zevenenzeventig cent);<br>
-4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.139.656,74 euro (een miljoen honderdnegenendertigduizend zeshonderdzesenvijftig euro vierenzeventig cent);<br>
-5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.035.461,16 euro (een miljoen vijfendertigduizend vierhonderdeenenzestig euro zestien cent);<br>
-6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.040.676,67 euro (een miljoen veertigduizend zeshonderdzesenzeventig euro zevenenzestig cent).<br>
+1° vertrouwenscentrum kindermishandeling Antwerpen: 1.540.449,13 euro (een miljoen vijfhonderdveertigduizend vierhonderdnegenenveertig euro dertien cent);<br>
+2° vertrouwenscentrum kindermishandeling Brussel-Hoofdstad: 836.072,58 euro (achthonderdzesendertigduizend tweeënzeventig euro achtenvijftig cent);<br>
+3° vertrouwenscentrum kindermishandeling Limburg: 945.322,84 euro (negenhonderdvijfenveertigduizend driehonderdtweeëntwintig euro vierentachtig cent);<br>
+4° vertrouwenscentrum kindermishandeling Oost-Vlaanderen: 1.171.282,15 euro (een miljoen honderdeenenzeventigduizend tweehonderdtweeëntachtig euro vijftien cent);<br>
+5° vertrouwenscentrum kindermishandeling Vlaams-Brabant: 1.067.005,30 euro (een miljoen zevenenzestigduizend en vijf euro dertig cent);<br>
+6° vertrouwenscentrum kindermishandeling West-Vlaanderen: 1.068.254,17 euro (een miljoen achtenzestigduizend tweehonderdvierenvijftig euro zeventien cent).<br>
 <br>
-§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 50.000,00 euro (vijftigduizend euro). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
+§ 3. De jaarlijkse aanvullende subsidie voor het vertrouwenscentrum kindermishandeling dat de elektronische toegang via de chat verzekert, vermeld in artikel 10, § 1, tweede lid, bedraagt 79.000 euro (negenenzeventigduizend euro). Als de elektronische toegang via de chat door meer dan één vertrouwenscentrum kindermishandeling wordt verzekerd, bepaalt het agentschap na overleg met de betrokken vertrouwenscentra kindermishandeling de verdeling van de aanvullende subsidie over de betreffende vertrouwenscentra kindermishandeling.<br>
 <br>
-§ 4. De subsidies, vermeld in dit artikel, zijn uitgedrukt tegen 100 % van de spilindex die van toepassing is op 1 januari 2017. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
+§ 3/1. De jaarlijkse subsidie voor de partnerorganisatie bedraagt 100.103,50 euro (honderdduizend honderdendrie euro vijftig cent).<br>
+<br>
+§ 4. De subsidies, vermeld in dit artikel, zijn gekoppeld aan de spilindex die van toepassing is op 1 januari 2017, met uitzondering van de subsidie vermeld in paragraaf 3/1 van dit artikel, die gekoppeld is aan de spilindex die van toepassing is op 1 januari 2019. De bedragen worden geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. De aanpassing wordt telkens gedaan vanaf de tweede maand die volgt op de maand waarin een spilindex wordt bereikt of erop wordt teruggebracht.
 
 ## Afdeling 4. De uitbetaling
 
