@@ -62,6 +62,10 @@ Artikel 13 van hetzelfde decreet wordt opgeheven.
 
 Artikel 347 van dezelfde wet, vervangen bij de wet van 22 december 2003, wordt opgeheven.
 
+### ART. 9.
+
+Artikel 353bis van dezelfde wet, ingevoegd bij de wet van 22 december 2003 en gewijzigd bij de wetten van 19 juni 2009 en 4 juli 2011, wordt opgeheven.
+
 ### ART. 11.
 
 Artikel 353bis/10 van dezelfde wet, ingevoegd bij de wet van 24 april 2014, wordt opgeheven.
