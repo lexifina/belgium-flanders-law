@@ -8,13 +8,25 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.<BR>
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<BR>1° EVA: het privaatrechtelijk   vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 3, § 1, eerste   lid;<BR>2° gebruikers: iedereen die gebruikmaakt van de leefomgeving, in het   bijzonder de doelgroep van personen met een handicap en ouderen;<BR>3°   kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>4°   universal design: gebouwen, producten, reële en digitale omgevingen, programma's   en diensten zodanig ontwerpen dat ze zowel esthetisch aantrekkelijk als   functioneel zijn voor een zo groot mogelijke diversiteit aan gebruikers, zonder   dat er voor specifieke gebruikers of groepen van gebruikers speciale   aanpassingen vereist zijn.<BR>
+In dit decreet wordt verstaan onder:<br>
+1° EVA: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 3, § 1, eerste lid;<br>
+2° gebruikers: iedereen die gebruikmaakt van de leefomgeving, in het bijzonder de doelgroep van personen met een handicap en ouderen;<br>
+3° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+4° universal design: gebouwen, producten, reële en digitale omgevingen, programma's en diensten zodanig ontwerpen dat ze zowel esthetisch aantrekkelijk als functioneel zijn voor een zo groot mogelijke diversiteit aan gebruikers, zonder dat er voor specifieke gebruikers of groepen van gebruikers speciale aanpassingen vereist zijn.
 
 ## HOOFDSTUK 2 Machtiging tot oprichting van een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap
 
 ### ART. 3.
 
-<P>§ 1. De Vlaamse Regering wordt gemachtigd om, namens de Vlaamse Gemeenschap   en het Vlaamse Gewest onder de voorwaarden, vermeld in dit decreet, een   privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in   artikel 29 van het kaderdecreet, in de vorm van een private stichting op te   richten, en te belasten met de missie en de taken, vermeld in hoofdstuk   3.<BR></P>  <P>De stichting wordt "Toegankelijk Vlaanderen" genoemd. Een handelsbenaming   voor de stichting kan in de statuten worden bepaald.<BR></P>  <P>De statuten van het EVA, alsook de wijzigingen die erin worden aangebracht,   worden ter goedkeuring voorgelegd aan de Vlaamse Regering en worden meegedeeld   aan het Vlaams Parlement.<BR></P>  <P>§ 2. Behalve in geval van andersluidende bepalingen in dit decreet zijn de   bepalingen van het kaderdecreet van toepassing op het EVA.<BR></P>  <P>§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het EVA   behoort.<BR></P>
+<p>§ 1. De Vlaamse Regering wordt gemachtigd om, namens de Vlaamse Gemeenschap en het Vlaamse Gewest onder de voorwaarden, vermeld in dit decreet, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet, in de vorm van een private stichting op te richten, en te belasten met de missie en de taken, vermeld in hoofdstuk 3.</p>
+
+<p>De stichting wordt "Toegankelijk Vlaanderen" genoemd. Een handelsbenaming voor de stichting kan in de statuten worden bepaald.</p>
+
+<p>De statuten van het EVA, alsook de wijzigingen die erin worden aangebracht, worden ter goedkeuring voorgelegd aan de Vlaamse Regering en worden meegedeeld aan het Vlaams Parlement.</p>
+
+<p>§ 2. Behalve in geval van andersluidende bepalingen in dit decreet zijn de bepalingen van het Bestuursdecreet van toepassing op het EVA.</p>
+
+<p>§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het EVA behoort.</p>
 
 ## HOOFDSTUK 3 Missie en taken
 
@@ -52,7 +64,19 @@ In het kader van zijn expertise-uitbouw en ter uitvoering van zijn taken   incor
 
 ### ART. 9.
 
-<P>Er wordt tussen de Vlaamse Regering en het EVA een samenwerkingsovereenkomst   gesloten als vermeld in artikel 31 van het kaderdecreet.<BR></P>  <P>In de samenwerkingsovereenkomst, vermeld in het eerste lid, worden onder meer   de volgende zaken bepaald:<BR>1° de krachtlijnen, de nadere omschrijving en   aanpak van de uit te voeren missie en taken, vermeld in hoofdstuk 3;<BR>2° de   informatie- en rapportageverplichtingen over de missie en taken, vermeld in   hoofdstuk 3, en de financiële situatie, waaronder minstens het opstellen van een   jaarverslag;<BR>3° de nadere voorwaarden en modaliteiten van eventuele   terbeschikkingstelling aan het EVA van statutaire personeelsleden, gebouwen en   andere infrastructuur of andere middelen als vermeld in artikel 13 en 14;<BR>4°   de regels en modaliteiten voor de toekenning, de terugvordering en de   verantwoording van de werkings- en investeringssubsidies, vermeld in artikel 12,   eerste lid, de indiening van aanvragen en bewijsstukken en de procedure voor de   controle op de aanwending van de subsidies;<BR>5° de nadere bepalingen over het   beheer van, het toezicht op en de werking van het EVA; <BR>6° de modaliteiten   van de vergoeding voor de dienstverlening van het EVA;<BR>7° de duur en de   opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst;<BR>8°   de centrale en gedecentraliseerde vestigingsplaatsen van het EVA met het oog op   een laagdrempelige werking en een voldoende regionale spreiding als vermeld in   artikel 7.<BR></P>  <P>De samenwerkingsovereenkomst bevat een antidiscriminatie- en een   diversiteitsclausule.<BR></P>
+<p>Er wordt tussen de Vlaamse Regering en het EVA een samenwerkingsovereenkomst gesloten als vermeld in artikel III.16 van het Bestuursdecreet.</p>
+
+<p>In de samenwerkingsovereenkomst, vermeld in het eerste lid, worden onder meer de volgende zaken bepaald:<br>
+1° de krachtlijnen, de nadere omschrijving en aanpak van de uit te voeren missie en taken, vermeld in hoofdstuk 3;<br>
+2° de informatie- en rapportageverplichtingen over de missie en taken, vermeld in hoofdstuk 3, en de financiële situatie, waaronder minstens het opstellen van een jaarverslag;<br>
+3° de nadere voorwaarden en modaliteiten van eventuele terbeschikkingstelling aan het EVA van statutaire personeelsleden, gebouwen en andere infrastructuur of andere middelen als vermeld in artikel 13 en 14;<br>
+4° de regels en modaliteiten voor de toekenning, de terugvordering en de verantwoording van de werkings- en investeringssubsidies, vermeld in artikel 12, eerste lid, de indiening van aanvragen en bewijsstukken en de procedure voor de controle op de aanwending van de subsidies;<br>
+5° de nadere bepalingen over het beheer van, het toezicht op en de werking van het EVA;<br>
+6° de modaliteiten van de vergoeding voor de dienstverlening van het EVA;<br>
+7° de duur en de opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst;<br>
+8° de centrale en gedecentraliseerde vestigingsplaatsen van het EVA met het oog op een laagdrempelige werking en een voldoende regionale spreiding als vermeld in artikel 7.</p>
+
+<p>De samenwerkingsovereenkomst bevat een antidiscriminatie- en een diversiteitsclausule.</p>
 
 ### ART. 10.
 
@@ -68,7 +92,7 @@ De dienstverlening van het EVA aan de provincies wordt nader geregeld in   een d
 
 ### ART. 13.
 
-De Vlaamse Regering is gemachtigd om statutaire personeelsleden van de   Vlaamse ministeries, de IVA's met rechtspersoonlijkheid en de publiekrechtelijke   EVA's, vermeld in het kaderdecreet, overeenkomstig de modaliteiten, vermeld in   de samenwerkingsovereenkomst, ter beschikking te stellen van het   EVA.<BR>
+De Vlaamse Regering is gemachtigd om statutaire personeelsleden van&nbsp;de departementen, de IVA's zonder rechtspersoonlijkheid, de IVA's met rechtspersoonlijkheid en de publiekrechtelijke EVA's, vermeld in het Bestuursdecreet, overeenkomstig de modaliteiten, vermeld in de samenwerkingsovereenkomst, ter beschikking te stellen van het EVA.
 
 ### ART. 14.
 

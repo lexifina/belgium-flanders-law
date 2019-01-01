@@ -2,16 +2,16 @@
   "codex_id": 1023958,
   "title": "Decreet van 2014-03-28 houdende machtiging tot oprichting van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap Toegankelijk Vlaanderen in de vorm van een private stichting",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023958/VolledigDocument?datum=2018-08-05",
-  "source_sha256": "8fc4786b823ed1e40c883f2bff1fe62f85a4d0ac27f3392d94568c79b84d98d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023958/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "41aa0e2526ced14d6141ad73e861aff596ee1f290ec65a4f51238c823acfc338",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023958&param=informatie",
-  "as_of": "2018-08-05",
+  "as_of": "2019-01-01",
   "made": "2014-03-28",
   "gazette": "2014-04-01",
   "numac": 2014035362,
   "document_start": "2014-04-11",
   "document_end": null,
-  "in_force": "2018-08-05",
+  "in_force": "2019-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2018-08-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
