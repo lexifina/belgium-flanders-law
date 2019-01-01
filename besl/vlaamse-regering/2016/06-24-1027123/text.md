@@ -75,9 +75,21 @@ Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, r
 <br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het jaar 2018 bepaalt het agentschap voor de zorgaanbieders die met ingang van 1 september 2016 van rechtswege vergund worden, het aantal extra personeelspunten, vermeld in § 3, eerste lid, dat voor dat jaar wordt vergoed en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in § 4, eerste lid, dat voor dat jaar wordt betaald door het gemiddelde te berekenen van de extra personeelspunten en het bedrag van de vergoeding waarop de vergunde zorgaanbieder conform paragraaf 3 en paragraaf 4, recht heeft voor het jaar 2017, dat werd berekend conform het tweede lid en het aantal extra personeelspunten en het bedrag van de vergoeding waarop de vergunde zorgaanbieder, conform paragraaf 3 en paragraaf 4, recht heeft voor het jaar 2018.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid wordt het aantal extra personeelspunten, vermeld in § 3, eerste lid, en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in § 4, eerste lid, voor een zorgaanbieder die niet met ingang van 1 september 2016 van rechtswege is vergund voor het jaar 2017 vastgesteld op basis van de zorggebonden punten en de bedragen die door budgethouders tijdens het jaar 2017 bij de zorgaanbieder worden besteed.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid worden het aantal extra personeelspunten, vermeld in paragraaf 3, eerste lid, en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in paragraaf 4, eerste lid, voor een zorgaanbieder die conform van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap wordt vergund door het agentschap, voor het kalenderjaar waarin de vergunning wordt verleend, vastgesteld op basis van de zorggebonden punten en de bedragen die budgethouders tijdens dat kalenderjaar bij de zorgaanbieder besteden.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het jaar 2018 worden de extra personeelspunten waarop de zorgaanbieder die niet met ingang van 1 september 2016 van rechtswege is vergund, conform paragraaf 3, recht heeft bepaald door het gemiddelde te berekenen van de extra personeelspunten waarop de zorgaanbieder recht heeft voor het 2017 en voor het jaar 2018. Het bedrag van de vergoeding van de organisatiegebonden kosten wordt bepaald door het gemiddelde te berekenen van de vergoedingen voor organisatiegebonden kosten waarop de vergunde zorgaanbieder conform paragraaf 4, recht heeft voor het jaar 2017 en het jaar 2018.</span><br>
+Voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend, worden de extra personeelspunten waarop de zorgaanbieder, vermeld in het vierde lid, conform paragraaf 3, recht heeft, bepaald door het gemiddelde te berekenen van de extra personeelspunten waarop de zorgaanbieder recht heeft voor het kalenderjaar waarin de vergunning is verleend en voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend. Het bedrag van de vergoeding van de organisatiegebonden kosten wordt bepaald door het gemiddelde te berekenen van de vergoedingen voor organisatiegebonden kosten waarop de vergunde zorgaanbieder conform paragraaf 4, recht heeft voor het kalenderjaar waarin de vergunning is verleend en voor het kalenderjaar dat volgt op het kalenderjaar waarin de vergunning is verleend.<br>
+<br>
+§ 6. Het gedeelte van de werkingsmiddelen, vermeld in paragraaf 3, tweede lid, en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in paragraaf 5, dat de verantwoorde kosten overschrijdt, mogen worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de vergunde zorgaanbieder niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 2 Besteding van het budget
@@ -106,7 +118,9 @@ c) individuele ondersteuningsfuncties:<br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon onderwijs of het geïntegreerd onderwijs aanbieden;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de kosten voor zorg en ondersteuning die al door het agentschap, door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid, 2°, kunnen medische en paramedische behandelingen, onderzoekingen of therapieën vergoed worden bij het gebruik van het budget bij een zorgaanbieder die vergund is door het agentschap als het gaat om activiteiten in het kader van een medisch of paramedisch team in een handicapspecifieke context, als ze niet terugbetaald worden krachtens de wetgeving over de verplichte verzekering voor geneeskundige verzorging en uitkeringen.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid, 2°, kunnen medische en paramedische behandelingen, onderzoekingen of therapieën vergoed worden bij het gebruik van het budget bij een zorgaanbieder die vergund is door het agentschap als het gaat om activiteiten in het kader van een medisch of paramedisch team in een handicapspecifieke context, als ze niet terugbetaald worden krachtens de wetgeving over de verplichte verzekering voor geneeskundige verzorging en uitkeringen.<br>
+<br>
+Het budget dat besteed wordt aan dagondersteuning als vermeld in artikel 4, 1°, b), van dit besluit, of begeleid werken als vermeld in artikel 9/1 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, kan niet gecombineerd worden met de arbeidsmatige activiteiten, vermeld in artikel 44 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.</span><br>
 &nbsp;
 
 ### ART 6.
@@ -311,10 +325,21 @@ Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de
 
 ### ART 23.
 
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder in het kader van de besteding van zijn budget als cashbudget een arbeidsovereenkomst sluit moet hij voldoen aan zijn fiscale en sociaal-rechtelijke verplichtingen als werkgever daarin inbegrepen de bepalingen over het minimumloon en de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01.</span><br>
+<span style="color:#000000; font-family:times new roman; font-size:medium">§ 1. Als budgethouders in het kader van de besteding van het budget als cashbudget een arbeidsovereenkomst sluiten, voldoen ze aan hun fiscale en sociaal-rechterlijke verplichtingen als werkgever, de bepalingen over het minimumloon en de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01 en de bepalingen over de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337.<br>
 <br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan met minderjarigen alleen een overeenkomst sluiten voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Bovendien mag de minderjarige geen bloed- of aanverwant zijn tot de tweede graad, noch deel uitmaken van het gezin van de persoon met een handicap of van zijn wettelijke vertegenwoordiger.</span><br>
-&nbsp;
+§ 2. Als budgethouders een beroep willen doen op een minderjarige voor het bieden van zorg en ondersteuning, kan dat alleen in het kader van een van de volgende overeenkomsten :<br>
+1° een overeenkomst voor tewerkstelling van studenten als vermeld in Titel VII van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. De budgethouder voldoet als werkgever aan alle fiscale en sociaal rechtelijke verplichtingen, de bepalingen over het minimumloon en verplaatsingen, zoals vastgesteld binnen het paritair comité 319.01 en de bepalingen over de eindejaarspremie die zijn opgenomen in de collectieve arbeidsovereenkomsten die hierover worden aangenomen binnen het paritair comité 337;<br>
+2° een overeenkomst met een organisatie die vrijwilligers ter beschikking stelt.<br>
+<br>
+Vóór de ingangsdatum van een overeenkomst als vermeld in het eerste lid, 1°, moet de budgethouder het schriftelijke bewijs van de machtiging door een ouder of de voogd, vermeld in artikel 43 van de wet van 3 juli 1978 betreffende arbeidsovereenkomsten, aan het agentschap bezorgen. Het agentschap stelt een model voor de machtiging ter beschikking.<br>
+<br>
+De budgethouder bezorgt een machtiging door een ouder of de voogd aan het agentschap voor de ingangsdatum van de overeenkomst, vermeld in het eerste lid, 2°. Het agentschap stelt een model voor de machtigingen ter beschikking.<br>
+<br>
+§ 3. In het geval, vermeld in paragraaf 1 en paragraaf 2, eerste lid, 1°, betaalt het agentschap een tegemoetkoming voor de eindejaarspremie die is vastgesteld binnen het paritair comité 337. De Vlaamse minister, bevoegd voor de personen met een beperking, bepaalt de wijze waarop het bedrag van de tegemoetkoming wordt berekend en houdt daarbij rekening met het bedrag van de eindejaarspremie dat is vastgesteld binnen het paritair comité 337 en met de middelen die daarvoor op de begroting van het agentschap zijn ingeschreven.<br>
+<br>
+Het agentschap vraagt met het oog op de berekening en de betaling van de tegemoetkoming voor de eindejaarspremie, vermeld in het tweede lid, de volgende gegevens op bij de Rijksdienst voor de Sociale Zekerheid :<br>
+1° de identiteit van de budgethouders die overeenkomsten als vermeld in het eerste lid hebben afgesloten;<br>
+de identiteit van de werknemers in kwestie en de gegevens over hun tewerkstelling.</span>
 
 ### ART 24.
 
