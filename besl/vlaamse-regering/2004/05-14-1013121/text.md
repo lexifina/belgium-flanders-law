@@ -48,7 +48,7 @@ b) het onroerend erfgoed te inventariseren en prospectie uit te voeren;<br>
 c) de dossiers over de voorlopige en definitieve bescherming van monumenten en stads- en dorpsgezichten, archeologische sites, cultuurhistorische landschappen en varend erfgoed inhoudelijk en administratief voor te bereiden en te volgen, op basis van de eigen beheersgegevens en op basis van de inventarisgegevens;<br>
 d) adviezen, vergunningen, toelatingen en machtigingen over onroerend erfgoed te verstrekken;<br>
 e) beleidsgericht wetenschappelijk onderzoek ter ondersteuning van de uitvoering van het beleid uit te voeren;<br>
-f) gereglementeerde subsidies, toelagen, premies of tegemoetkomingen te verstrekken, alsook niet-gereglementeerde subsidies die nominatief zijn opgenomen in de beheersovereenkomst, vermeld in artikel 7, de voortgangscontrole uit te oefenen op de voorwaarden of verbintenissen die daarbij van toepassing zijn, alsook de terugbetaling te organiseren van de subsidies, de toelagen, de premies of de tegemoetkomingen als de begunstigde de voorwaarden of de verbintenissen niet naleeft;<br>
+f) gereglementeerde subsidies, toelagen, premies of tegemoetkomingen te verstrekken, alsook niet-gereglementeerde subsidies die nominatief zijn opgenomen in het ondernemingsplan, vermeld in artikel 7, de voortgangscontrole uit te oefenen op de voorwaarden of verbintenissen die daarbij van toepassing zijn, alsook de terugbetaling te organiseren van de subsidies, de toelagen, de premies of de tegemoetkomingen als de begunstigde de voorwaarden of de verbintenissen niet naleeft;<br>
 g) kennisbeheer, informatieverstrekking en sensibilisering te verzorgen over de taken, vermeld in punt a) tot en met f).<br>
 3° wat monitoring en beleidsevaluatie betreft, de beleidsevaluatie te vernieuwen en verder uit te bouwen, en de beleidsuitvoering binnen het beleidsveld Onroerend Erfgoed op te volgen door :<br>
 a) beleidsindicatoren verder te identificeren, die passen in het beleidsmodel en die toelaten de intermediaire effecten binnen het beleidsveld Onroerend Erfgoed op te volgen;<br>
@@ -74,7 +74,9 @@ Het hoofd van Onroerend Erfgoed stelt tweemaandelijks de gebieden vast waar geen
 
 ### ART. 4.
 
-De concretisering van de wijze waarop Onroerend Erfgoed zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in de in artikel 7 bedoelde beheersovereenkomst.<br /><br />Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet bestuurlijk beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstelingen, beschreven aan de hand van meetbare criteria.
+De concretisering van de wijze waarop Onroerend Erfgoed zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in het ondernemingsplan, vermeld in artikel 7.<br>
+<br>
+Het ondernemingsplan regelt de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstelingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 5.
 
@@ -88,11 +90,11 @@ Onroerend Erfgoed ressorteert onder het hiërarchische gezag van de Vlaamse   mi
 
 ### ART. 7.
 
-De minister stuurt Onroerend Erfgoed aan, inzonderheid via de beheersovereenkomst.
+De minister stuurt Onroerend Erfgoed aan, inzonderheid via het ondernemingsplan.
 
 ### ART. 8.
 
-Overeenkomstig artikel 6, § 3, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 is het hoofd van Onroerend Erfgoed belast met de algemene leiding, de werking en de vertegenwoordiging van Onroerend Erfgoed, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van Onroerend Erfgoed is belast met de algemene leiding, de werking en de vertegenwoordiging van Onroerend Erfgoed, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ## HOOFDSTUK III DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
@@ -103,13 +105,13 @@ Het hoofd van Onroerend Erfgoed heeft toegang tot onroerend erfgoed en tot   vaa
 ### ART. 9/1.
 
 Met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de interne verzelfstandigde agentschappen van de Vlaamse overheid worden aan het hoofd van Onroerend Erfgoed de volgende aanvullende en specifieke delegaties verleend :<br>
-1° het verstrekken van advies en het uitreiken van attesten namens de Vlaamse Regering, ter uitvoering van artikel 104, 8°, van het Wetboek van Inkomstenbelastingen 1992, in verband met de aftrek van uitgaven voor onderhoud en restauratie van beschermd onroerend erfgoed;<br>
+1° ter uitvoering van het Wetboek van de inkomstenbelastingen 1992 en ter uitvoering van artikel 10.5.1 van het Onroerenderfgoeddecreet van 12 juli 2013 advies verstrekken en attesten uitreiken in verband met de beheersmaatregelen, werkzaamheden of diensten voor het behoud of de herwaardering van de erfgoedkenmerken en de erfgoedelementen van beschermde onroerende goederen;<br>
 2° het nemen van beslissingen over het in erfpacht geven van beschermd onroerend erfgoed dat tot het private domein van de Vlaamse Gemeenschap of het Vlaamse Gewest behoort, met het oog op het behoud ervan en de vrijwaring van verval of beschadiging;<br>
 3° het nemen van de beslissingen om over te gaan tot onteigening ten algemenen nutte van beschermd onroerend erfgoed overeenkomstig artikel 6.4.10 van het Onroerenderfgoeddecreet van 12 juli 2013, met dien verstande dat de minister, bevoegd voor het onroerend erfgoed, de noodzaak van de verkrijging namens het Vlaamse Gewest geval per geval beoordeelt en een machtiging tot onteigening verleent;<br>
 4° ...;<br>
 5° het verstrekken van adviezen aan de vergunningverlenende overheden, overeenkomstig de regelgeving ter zake;<br>
 6° het verlenen van machtigingen, toestemmingen of vergunningen namens de Vlaamse Regering voor de uitvoering van werkzaamheden binnen of aan beschermd onroerend erfgoed, met toepassing van de regelgeving inzake onroerend erfgoed;<br>
-7° het verlenen van alle in de beheersovereenkomst nominatief opgenomen gereglementeerde en niet-gereglementeerde subsidies binnen het budget dat daarvoor ter beschikking is gesteld;<br>
+7° het verlenen van alle in het ondernemingsplan nominatief opgenomen gereglementeerde en niet-gereglementeerde subsidies binnen het budget dat daarvoor ter beschikking is gesteld;<br>
 8° de organisatie van het openbaar onderzoek namens de Vlaamse minister, bevoegd voor het onroerend erfgoed, ter uitvoering van artikel 4.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013 en artikel 4.1.6 van het Onroerenderfgoedbesluit van 16 mei 2014;<br>
 9° het inwinnen van de adviezen namens de Vlaamse minister, bevoegd voor het onroerend erfgoed, ter uitvoering van artikel 6.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 10° het beslissen over de beroepen tegen beslissingen tot toepassing van bestuursdwang, vermeld in artikel 11.5.8 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
@@ -119,7 +121,7 @@ Met toepassing van artikel 18 van het besluit van de Vlaamse Regering van 10 okt
 
 ### ART. 10.
 
-Onverminderd de artikelen 9, 33 en 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op Onroerend Erfgoed.
+&nbsp;Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op Onroerend Erfgoed.
 
 ### ART. 11.
 
