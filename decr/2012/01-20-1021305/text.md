@@ -269,7 +269,7 @@ b) onderzoek en goed- of afkeuring van het aangebrachte kanaal en het onverwijld
 <br>
 De Vlaamse Regering bepaalt de nadere regelen met betrekking tot de werking van het Vlaams Centrum voor Adoptie.<br>
 <br>
-§ 3. Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen moet Kind en Gezin alle klachten tegen partners, ook ouders, in de adoptieprocedure opnemen, behandelen en, eventueel, sanctioneren. De Vlaamse Regering bepaalt de verdere regels voor het opleggen van een eventuele sanctie.<br>
+§ 3. Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in titel II, hoofdstuk 5, van het Bestuursdecreet van 7 december 2018 moet Kind en Gezin alle klachten tegen partners, ook ouders, in de adoptieprocedure opnemen, behandelen en, eventueel, sanctioneren. De Vlaamse Regering bepaalt de verdere regels voor het opleggen van een eventuele sanctie.<br>
 <br>
 § 4. Het Vlaams Centrum voor Adoptie voert de taken, vermeld in § 2, voor zover het om beleidsuitvoerende taken gaat, uit in samenhang met :<br>
 1° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid;<br>
@@ -277,7 +277,7 @@ De Vlaamse Regering bepaalt de nadere regelen met betrekking tot de werking van 
 <br>
 Het Vlaams Centrum voor Adoptie ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in § 2.<br>
 <br>
-Het Vlaams Centrum voor Adoptie stelt de verworven kennis en expertise ter beschikking van de beleidsondersteuning als bedoeld in artikel 4, § 1, van het kaderdecreet Bestuurlijk Beleid.<br>
+Het Vlaams Centrum voor Adoptie stelt de verworven kennis en expertise ter beschikking in het kader van de toepassing van artikel III.2, derde lid, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 Het Vlaams Centrum voor Adoptie zal haar dienstverlening permanent optimaliseren en vernieuwen op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
 <br>
