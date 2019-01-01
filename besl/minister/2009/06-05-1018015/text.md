@@ -14,24 +14,24 @@ Besluit :
 
 ### ART. 1.
 
-Het volmachtformulier dat moet worden gebruikt bij de gemeentelijke volksraadpleging is bij dit besluit gevoegd als bijlage 1.<br /><br />De tekst van artikel 212bis van het Gemeentedecreet wordt op de keerzijde van het volmachtformulier gedrukt.<br /><br />In het geval voorzien in artikel 212bis, § 1, 7°, van het Gemeentedecreet wordt het attest, uitgereikt door de burgemeester, opgemaakt volgens het model dat bij dit besluit gevoegd is als bijlage 2.
+...
 
 ### ART. 2.
 
-Het attest van uitoefening van het beroep van schipper, marktkramer of kermisreiziger is bij dit besluit gevoegd als bijlage 3.
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 juli 2009.
+...
 
 ### BIJLAGE
 
-<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/06/19_3.pdf#page=183" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE
 
-<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/06/19_3.pdf#page=185" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE
 
-<br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/06/19_3.pdf#page=186" title=" " target="_blank" class="pdf"></a>
+...
