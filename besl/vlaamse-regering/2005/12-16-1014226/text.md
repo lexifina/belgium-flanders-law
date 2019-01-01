@@ -380,92 +380,65 @@ De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoerin
 <br>
 1. Op het perceel mag geen voorvrucht zijn verbouwd die zich niet verdraagt met de productie van zaaizaad van de soort en het ras van het betrokken gewas. Het perceel moet ook voldoende vrij zijn van opslag van de voorvrucht.<br>
 <br>
-2. Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden en in het bijzonder voor Sorghum spp. van bronnen van Sorghum halepense :<br>
-</p>
+2. Het gewas moet voldoen aan de onderstaande normen voor de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden:<br>
+&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>Gewas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>Minimumafstand</p>
-			</td>
+			<td>gewas</td>
+			<td>minimumafstand</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>Phalaris canariensis, Secale cereale (andere dan hybriden) :</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>Phalaris canariensis, Secale cereale (andere dan hybriden):</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>- voor de productie van basiszaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>300 m</p>
-			</td>
+			<td>- voor de productie van basiszaad</td>
+			<td>300 m</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>- voor de productie van gecertificeerd zaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>250 m</p>
-			</td>
+			<td>- voor de productie van gecertificeerd zaad</td>
+			<td>250 m</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>Sorghum spp.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>300 m</p>
-			</td>
+			<td>Sorghum spp.</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>xTriticosecale, zelfbestuivende rassen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>- voor de productie van basiszaad (*)</td>
+			<td>400 m</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>- voor de productie van basiszaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>50 m</p>
-			</td>
+			<td>- voor de productie van gecertificeerd zaad (*)</td>
+			<td>200 m</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>- voor de productie van gecertificeerd zaad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>20 m</p>
-			</td>
+			<td>x Triticosecale, zelfbestuivende rassen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
-			<p>Zea mays</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
-			<p>200 m</p>
-			</td>
+			<td>- voor de productie van basiszaad</td>
+			<td>50 m</td>
+		</tr>
+		<tr>
+			<td>- voor de productie van gecertificeerd zaad</td>
+			<td>20 m</td>
+		</tr>
+		<tr>
+			<td>Zea mays</td>
+			<td>200 m</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
+<p><br>
+(*) In gebieden waar de aanwezigheid van S. halepense of S. sudanense een specifiek probleem voor kruisbestuiving vormt, geldt het volgende:<br>
+a) gewassen voor de productie van basiszaad van Sorghum bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 800 meter van een bron van een dergelijk verontreinigend pollen;<br>
+b) gewassen voor de productie van gecertificeerd zaad van Sorghum bicolor of hybriden daarvan moeten worden geïsoleerd op een afstand van minimaal 400 meter van een bron van een dergelijk verontreinigend pollen.<br>
+De minimumafstanden in de bovenstaande tabel hoeven niet in acht te worden genomen als er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.</p>
 
-<p>&nbsp;</p>
-
-<p>Deze afstanden behoeven niet in acht genomen te worden, wanneer er voldoende bescherming tegen ongewenste vreemdbestuiving aanwezig is.<br>
-<br>
+<p><br>
 3. Het gewas moet voldoende rasecht en raszuiver zijn : een gewas van een ingeteelde stam moet voldoende echt en zuiver zijn met betrekking tot zijn eigenschappen. Wat de productie van zaad van hybriderassen betreft, gelden genoemde bepalingen ook voor de eigenschappen van de kruisingspartners, inclusief mannelijke steriliteit of herstel van de fertiliteit.<br>
 <br>
 Gewassen van Oryza sativa, Phalaris canariensis, Secale cereale (andere dan hybriden), Sorghum spp. en Zea mays moeten met name aan de volgende andere normen of voorwaarden voldoen :<br>
@@ -531,51 +504,47 @@ a) Het gewas moet voldoen aan de onderstaande normen betreffende de afstand tot 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
+			<td style="background-color:transparent; width:303.35pt">
 			<p>Gewas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
+			<td style="background-color:transparent; width:150.75pt">
 			<p>Minimumafstand</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
+			<td style="background-color:transparent; width:303.35pt">
 			<p>- voor de productie van basiszaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
+			<td style="background-color:transparent; width:150.75pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
+			<td style="background-color:transparent; width:303.35pt">
 			<p>- indien gebruik wordt gemaakt van mannelijke steriliteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
+			<td style="background-color:transparent; width:150.75pt">
 			<p>1 000 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
+			<td style="background-color:transparent; width:303.35pt">
 			<p>- indien geen gebruik wordt gemaakt van mannelijke steriliteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
+			<td style="background-color:transparent; width:150.75pt">
 			<p>600 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:303.35pt">
+			<td style="background-color:transparent; width:303.35pt">
 			<p>- voor de productie van gecertificeerd zaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:150.75pt">
+			<td style="background-color:transparent; width:150.75pt">
 			<p>500 m</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
 
 <p>b) Het gewas moet voldoende rasecht en raszuiver zijn wat de eigenschappen van de kruisingspartners betreft, inclusief de mannelijke steriliteit.<br>
 <br>
@@ -603,6 +572,7 @@ ii) de minimale hybriditeit moet 95 % bedragen. Het percentage van de hybriditei
 <br>
 5/1. Gewassen voor de productie van basiszaad en gecertificeerd zaad van hybriden van Hordeum vulgare door middel van de CMS-techniek :<br>
 a)Het gewas moet voldoen aan de onderstaande normen voor de afstand tot dicht in de buurt gelegen bestuivingsbronnen die tot ongewenste vreemdbestuiving kunnen leiden :</p>
+&nbsp;
 
 <table border="1">
 	<tbody>
