@@ -32,7 +32,11 @@ Na ontvangst van een schriftelijke machtiging van de minister bevoegd voor   won
 
 ### ART. 4.
 
-Elke sociale huisvestingsmaatschappij zorgt voor een behoorlijk werkend   systeem van interne controle waarbij de kritieke processen formeel worden   beschreven in door de raad van bestuur vastgestelde procedures die taken,   verantwoordelijkheden en bevoegdheden vastleggen en aangeven hoe, door wie en   tijdens welk onderdeel van het proces controles worden uitgevoerd. Het gaat om   de processen in verband met:<BR>1° de financiële procedures voor activiteiten   inzake kas- en liquiditeitenbeheer, voorraad- en materialenbeheer, inkomende   facturen en betalingen en loonadministratie, bestellingen en   overheidsopdrachten;<BR>2° het personeelsbeheer, met name de aanduiding van de   verantwoordelijke voor het personeelskader, de processen met betrekking tot het   aanwerven en ontslaan van personeel en tot de uitbetaling van lonen en sociale   voordelen;<BR>3° het beheer, de beveiliging van gegevens en activa en het   voorkomen van fraude;<BR>4° procedures zoals de controle op het correct verloop   van de toewijzingen, de opvolging van het debiteurenbeheer en de behandeling van   klachten in toepassing van het decreet van 1 juni 2001 houdende toekenning van   een klachtrecht ten aanzien van bestuursinstellingen.
+Elke sociale huisvestingsmaatschappij zorgt voor een behoorlijk werkend systeem van interne controle waarbij de kritieke processen formeel worden beschreven in door de raad van bestuur vastgestelde procedures die taken, verantwoordelijkheden en bevoegdheden vastleggen en aangeven hoe, door wie en tijdens welk onderdeel van het proces controles worden uitgevoerd. Het gaat om de processen in verband met:<br>
+1° de financiële procedures voor activiteiten inzake kas- en liquiditeitenbeheer, voorraad- en materialenbeheer, inkomende facturen en betalingen en loonadministratie, bestellingen en overheidsopdrachten;<br>
+2° het personeelsbeheer, met name de aanduiding van de verantwoordelijke voor het personeelskader, de processen met betrekking tot het aanwerven en ontslaan van personeel en tot de uitbetaling van lonen en sociale voordelen;<br>
+3° het beheer, de beveiliging van gegevens en activa en het voorkomen van fraude;<br>
+4° procedures zoals de controle op het correct verloop van de toewijzingen, de opvolging van het debiteurenbeheer en de behandeling van klachten in toepassing van titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK 3. Aanwerving en bezoldigingsvoorwaarden van de directeur
 
