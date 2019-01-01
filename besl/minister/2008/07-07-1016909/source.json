@@ -2,16 +2,16 @@
   "codex_id": 1016909,
   "title": "Ministerieel besluit van 2008-07-07 tot bepaling van de standaard voor de titel van fitnessbegeleider",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016909/VolledigDocument?datum=2008-07-22",
-  "source_sha256": "be9037316751470a4ce65ea85601fb909c2825e697587452208d3db8e198ee41",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016909/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "a7dd7ce580a78b31213fedd4216a642d73c853d8d1d8447cf78cfcef59fa7cdb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016909&param=informatie",
-  "as_of": "2008-07-22",
+  "as_of": "2019-01-01",
   "made": "2008-07-07",
   "gazette": "2008-07-22",
   "numac": 2008202544,
   "document_start": "2008-07-22",
   "document_end": "2018-12-31",
-  "in_force": "2008-07-22",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
