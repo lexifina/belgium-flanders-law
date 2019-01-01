@@ -135,7 +135,17 @@ Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering middelen   toe
 
 ### ART. 16.
 
-<P>§ 1. De Vlaamse Regering wordt gemachtigd om namens de Vlaamse Gemeenschap   onder de voorwaarden, bepaald in dit decreet, een privaatrechtelijk vormgegeven   extern verzelfstandigd agentschap als bedoeld in artikel 29 van het kaderdecreet   Bestuurlijk Beleid van 18 juli 2003, in de vorm van een private stichting op te   richten, dan wel mee te werken aan de oprichting ervan, en te belasten met de   taken, bedoeld in artikel 17. <BR></P>  <P>Behalve in het geval van andersluidende bepalingen in dit decreet, zijn de   bepalingen van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 van   toepassing op het EVA.<BR></P>  <P>De statuten van het EVA en elke wijziging daaraan, worden ter goedkeuring   voorgelegd aan de Vlaamse Regering en meegedeeld aan het Vlaams   Parlement.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het EVA   behoort. De statuten van het EVA bepalen dat de leden van de raad van bestuur   door de Vlaamse Regering worden benoemd en ontslagen.<BR></P>  <P>§ 3. Het EVA voert het Vlaamse integratie- en inburgeringsbeleid op het   terrein uit en heeft als werkingsgebied het volledige Nederlandse taalgebied en   het tweetalige gebied Brussel-Hoofdstad.<BR></P>  <P>§ 4. De Vlaamse Regering kan de beleidsondersteuning en de   beleidsvoorbereiding van het Vlaamse integratiebeleid toevertrouwen aan een   departement of een intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid.</P>
+<p>§ 1. De Vlaamse Regering wordt gemachtigd om namens de Vlaamse Gemeenschap onder de voorwaarden, bepaald in dit decreet, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet van 7 december 2018, in de vorm van een private stichting op te richten, dan wel mee te werken aan de oprichting ervan, en te belasten met de taken, bedoeld in artikel 17.</p>
+
+<p>Behalve in het geval van andersluidende bepalingen in dit decreet, zijn de bepalingen van het&nbsp;Bestuursdecreet van 7 december 2018 van toepassing op het EVA.</p>
+
+<p>De statuten van het EVA en elke wijziging daaraan, worden ter goedkeuring voorgelegd aan de Vlaamse Regering en meegedeeld aan het Vlaams Parlement.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het EVA behoort. De statuten van het EVA bepalen dat de leden van de raad van bestuur door de Vlaamse Regering worden benoemd en ontslagen.</p>
+
+<p>§ 3. Het EVA voert het Vlaamse integratie- en inburgeringsbeleid op het terrein uit en heeft als werkingsgebied het volledige Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.</p>
+
+<p>§ 4. De Vlaamse Regering kan de beleidsondersteuning en de beleidsvoorbereiding van het Vlaamse integratiebeleid toevertrouwen aan een departement of een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid.</p>
 
 ## Onderafdeling 2. De opdracht, taken en kerntaken van het EVA
 
@@ -172,11 +182,31 @@ e) juridische dienstverlening aangaande de rechtspositie van vreemdelingen;<br>
 
 ### ART. 18.
 
-<P>§ 1. De Vlaamse Regering is gemachtigd om statutaire personeelsleden van de   Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's   als vermeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003,   overeenkomstig de modaliteiten, bepaald in de samenwerkingsovereenkomst, ter   beschikking te stellen van het EVA.<BR></P>  <P>§ 2. De Vlaamse Regering kan tevens gebouwen en andere infrastructuur of   andere middelen overeenkomstig de modaliteiten, vermeld in de   samenwerkingsovereenkomst, ter beschikking stellen van het EVA. De   terbeschikkingstelling geldt maar tot wederopzegging, zonder dat het EVA daaruit   schadeloosstelling tegenover de Vlaamse Gemeenschap kan eisen.<BR></P>  <P>§ 3. Jaarlijks kunnen aan het EVA ten laste van de algemene uitgavenbegroting   en binnen de beschikbare begrotingskredieten van de Vlaamse Gemeenschap algemene   werkingssubsidies, investeringssubsidies en projectsubsidies toegekend worden.   De regels en modaliteiten voor de toekenning, de terugvordering en de   verantwoording van de subsidies, de indiening van aanvragen en   verantwoordingsstukken, de eenmalige gegevensopvraging en voor de   onverenigbaarheden en de procedure voor de controle op de aanwending van de   subsidies worden vastgesteld in de samenwerkingsovereenkomst, vermeld in artikel   19.<BR></P>  <P>§ 4. Het EVA is gemachtigd om, telkens mits akkoord van de betrokken   entiteiten, over te gaan tot de overname van personeelsleden en gebouwen en   andere infrastructuur van bestaande entiteiten.<BR></P>  <P>§ 5. Het EVA is gemachtigd om over te gaan tot terugvordering van de   subsidies die de bestaande entiteiten hebben aangewend voor het opbouwen van een   reserve en of voor het verwerven van gebouwen en andere infrastructuur die de   bestaande entiteiten niet meer kunnen aanwenden voor het doel waarvoor ze zijn   verleend.</P>
+<p>§ 1. De Vlaamse Regering is gemachtigd om statutaire personeelsleden van de departementen, IVA's zonder rechtspersoonlijkheid, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's als vermeld in het Bestuursdecreet van 7 december 2018, overeenkomstig de modaliteiten, bepaald in de samenwerkingsovereenkomst, ter beschikking te stellen van het EVA.</p>
+
+<p>§ 2. De Vlaamse Regering kan tevens gebouwen en andere infrastructuur of andere middelen overeenkomstig de modaliteiten, vermeld in de samenwerkingsovereenkomst, ter beschikking stellen van het EVA. De terbeschikkingstelling geldt maar tot wederopzegging, zonder dat het EVA daaruit schadeloosstelling tegenover de Vlaamse Gemeenschap kan eisen.</p>
+
+<p>§ 3. Jaarlijks kunnen aan het EVA ten laste van de algemene uitgavenbegroting en binnen de beschikbare begrotingskredieten van de Vlaamse Gemeenschap algemene werkingssubsidies, investeringssubsidies en projectsubsidies toegekend worden. De regels en modaliteiten voor de toekenning, de terugvordering en de verantwoording van de subsidies, de indiening van aanvragen en verantwoordingsstukken, de eenmalige gegevensopvraging en voor de onverenigbaarheden en de procedure voor de controle op de aanwending van de subsidies worden vastgesteld in de samenwerkingsovereenkomst, vermeld in artikel 19.</p>
+
+<p>§ 4. Het EVA is gemachtigd om, telkens mits akkoord van de betrokken entiteiten, over te gaan tot de overname van personeelsleden en gebouwen en andere infrastructuur van bestaande entiteiten.</p>
+
+<p>§ 5. Het EVA is gemachtigd om over te gaan tot terugvordering van de subsidies die de bestaande entiteiten hebben aangewend voor het opbouwen van een reserve en of voor het verwerven van gebouwen en andere infrastructuur die de bestaande entiteiten niet meer kunnen aanwenden voor het doel waarvoor ze zijn verleend.</p>
 
 ### ART. 19.
 
-<P>Tussen het EVA en de Vlaamse Regering wordt een samenwerkingsovereenkomst als   vermeld in artikel 31 van het Kaderdecreet bestuurlijk beleid van 18 juli 2003,   gesloten. <BR></P>  <P>In de samenwerkingsovereenkomst, vermeld in het eerste lid, worden onder meer   de volgende zaken bepaald : <BR>1° de krachtlijnen, de nadere omschrijving en   aanpak van de uit te voeren taken en kerntaken;<BR>2° de informatie- en   rapportageverplichtingen over de taken en kerntaken en de financiële situatie,   waaronder minstens het opstellen van een jaarverslag;<BR>3° de nadere   voorwaarden en modaliteiten tot eventuele terbeschikkingstelling aan het EVA van   statutaire personeelsleden, gebouwen en andere infrastructuur of andere middelen   als vermeld in artikel 18;<BR>4° de regels en modaliteiten voor de toekenning,   de terugvordering en de verantwoording van de subsidies, de indiening van   aanvragen en verantwoordingsstukken, de eenmalige gegevensopvraging en voor de   onverenigbaarheden en de procedure voor de controle op de aanwending van de   subsidies;<BR>5° de nadere bepalingen betreffende het beheer van, het toezicht   op en de werking van het EVA;<BR>6° de duur, opzeggings- en   verlengingsmogelijkheden van de samenwerkingsovereenkomst;<BR>7° de lokale en   regionale vestigingsplaatsen van het EVA met het oog op een laagdrempelige   werking en een voldoende lokale spreiding;<BR>8° de manier waarop de raad van   bestuur de onafhankelijkheid en de kwaliteit van de juridische dienstverlening   zal garanderen.<BR></P>  <P>De samenwerkingsovereenkomst bevat een antidiscriminatie- en een   diversiteitsclausule.</P>
+<p>Tussen het EVA en de Vlaamse Regering wordt een samenwerkingsovereenkomst als vermeld in artikel III.16 van het Bestuursdecreet van 7 december 2018, gesloten.</p>
+
+<p>In de samenwerkingsovereenkomst, vermeld in het eerste lid, worden onder meer de volgende zaken bepaald :<br>
+1° de krachtlijnen, de nadere omschrijving en aanpak van de uit te voeren taken en kerntaken;<br>
+2° de informatie- en rapportageverplichtingen over de taken en kerntaken en de financiële situatie, waaronder minstens het opstellen van een jaarverslag;<br>
+3° de nadere voorwaarden en modaliteiten tot eventuele terbeschikkingstelling aan het EVA van statutaire personeelsleden, gebouwen en andere infrastructuur of andere middelen als vermeld in artikel 18;<br>
+4° de regels en modaliteiten voor de toekenning, de terugvordering en de verantwoording van de subsidies, de indiening van aanvragen en verantwoordingsstukken, de eenmalige gegevensopvraging en voor de onverenigbaarheden en de procedure voor de controle op de aanwending van de subsidies;<br>
+5° de nadere bepalingen betreffende het beheer van, het toezicht op en de werking van het EVA;<br>
+6° de duur, opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst;<br>
+7° de lokale en regionale vestigingsplaatsen van het EVA met het oog op een laagdrempelige werking en een voldoende lokale spreiding;<br>
+8° de manier waarop de raad van bestuur de onafhankelijkheid en de kwaliteit van de juridische dienstverlening zal garanderen.</p>
+
+<p>De samenwerkingsovereenkomst bevat een antidiscriminatie- en een diversiteitsclausule.</p>
 
 ### ART. 20.
 
