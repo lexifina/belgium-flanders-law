@@ -2,16 +2,16 @@
   "codex_id": 1025079,
   "title": "Ministerieel besluit van 2015-02-03 houdende vaststelling van het model van verslag ter naleving van de disciplinaire maatregelen overeenkomstig het Antidopingdecreet van 25 mei 2012",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025079/VolledigDocument?datum=2015-02-03",
-  "source_sha256": "7c1e1c5dee42ed2ff3b72e3272b68a2f0336806696caadab5e1861c5464c6b39",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025079/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "a3cf25a3ac6353f86f3c2877dfb4c0d4e901869051d5ea0a4deeb3388e8e5bbc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025079&param=informatie",
-  "as_of": "2015-02-03",
+  "as_of": "2019-01-01",
   "made": "2015-02-03",
   "gazette": "2015-03-05",
   "numac": 2015035226,
   "document_start": "2015-02-03",
   "document_end": "2018-12-31",
-  "in_force": "2015-02-03",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
