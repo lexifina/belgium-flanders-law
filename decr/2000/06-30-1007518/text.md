@@ -140,7 +140,7 @@ De Vlaamse regering wordt ertoe gemachtigd om voor de jaren 2000 tot en met 2004
 
 ### ART. 26.
 
-In afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domein-goederen en van toepassing verklaard op het Vlaamse Gewest bij het decreet van 20 december 1989 houdende bepalingen tot begeleiding van de begroting 1990, kan de Vlaamse regering de bij koninklijk besluit van 26 februari 1980 als monument beschermde kapel van Onze-Lieve-Vrouw-van-Steenbergen te Oud-Heverlee, Bomendreef + 1, sectie D, nr. 81A, kapel 1 a 2 ca. onderhands vererfpachten aan de Stichting Vlaams Erfgoed voor een jaarlijkse canon van 1 000 frank.
+...
 
 ### ART. 27.
 

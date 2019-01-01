@@ -2,16 +2,16 @@
   "codex_id": 1007518,
   "title": "Decreet van 2000-06-30 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2000",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007518/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5210a3f8383011c2bac497241c9fc0def58aad0fe413b89b4c2621a6c5654e1b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007518/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "46e8b2dd2d87d64aead91049ed7f5d404b719b98d8a2b7a26e86bc17dba0f0ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007518&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "2000-06-30",
   "gazette": "2000-08-17",
   "numac": 2000035776,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
