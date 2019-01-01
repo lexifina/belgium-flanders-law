@@ -8,7 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 31 juli 1990 betreffend
 
 ### ART. 1.
 
-Dit besluit is van toepassing op :<br />1° de regelmatige leerlingen die vijf jaar of ouder geworden zijn vóór 1 januari van het lopende schooljaar van het gewoon en buitengewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br />2° de regelmatige al dan niet leerplichtige leerlingen van het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, artikel 116 van de codificatie betreffende het secundair onderwijs.<br /><br />
+Dit besluit is van toepassing op :<br>
+1° de regelmatige leerlingen&nbsp;van het gewoon en buitengewoon basisonderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap;<br>
+2° de regelmatige al dan niet leerplichtige leerlingen van het gewoon en buitengewoon secundair onderwijs, gefinancierd of gesubsidieerd door de Vlaamse Gemeenschap, artikel 116 van de codificatie betreffende het secundair onderwijs.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -18,7 +21,18 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° afstand : de 
 
 ### ART. 3.
 
-Een leerling heeft recht op tijdelijk onderwijs aan huis door de school waar de leerling is ingeschreven als aan al de volgende voorwaarden voldaan is : <br />1° de leerling is wegens ziekte of ongeval al een ononderbroken periode van 21 kalenderdagen afwezig op school. Die periode kan ook in het voorafgaande schooljaar geheel of gedeeltelijk doorlopen zijn. <br />In de volgende gevallen geldt die voorwaarde evenwel niet en is er een onmiddellijk recht op onderwijs aan huis : <br />a) als de leerling na een periode van onderwijs aan huis de lesbijwoning op school hervat, maar binnen een termijn van drie maanden, schoolvakanties niet inbegrepen, opnieuw afwezig is wegens ziekte of ongeval;<br />b) als de leerling lijdt aan een chronische ziekte; deze bepaling geeft uitvoering aan de uitzondering opgenomen in artikel 117, § 3, tweede lid, van de codificatie betreffende het secundair onderwijs, voor wat het secundair onderwijs betreft, en aan de uitzondering opgenomen in artikel 34, § 3, tweede lid, van het decreet Basisonderwijs van 25 februari 1997, ingevoegd bij de artikelen II.3 en II.13 van hetzelfde decreet van 15 juli 2005, voor wat het basisonderwijs betreft; <br />2° de afstand tussen de school enerzijds en de verblijfplaats van de leerling anderzijds bedraagt maximaal 10 km in het gewoon onderwijs en maximaal 20 km in het buitengewoon onderwijs. Hierbij wordt de voor de leerling, qua afstand, meest gunstige vestigingsplaats van de school in beschouwing genomen, ongeacht of dat de vestigingsplaats is waar de leerling normaliter de lessen volgt;<br />3° de betrokken personen dienen een schriftelijke aanvraag in bij de schooldirectie. <br />Voor niet-chronisch zieke leerlingen moet bij de aanvraag een medisch attest worden gevoegd waaruit blijkt dat de leerling onmogelijk naar school kan gaan, maar wel onderwijs mag krijgen. Als de afwezigheid wegens ziekte of ongeval wordt verlengd, moet een nieuwe aanvraag worden ingediend.<br /><br />Chronisch zieke leerlingen moeten bij de eerste aanvraag tijdens het schooljaar in kwestie een medisch attest voegen, uitgereikt door een geneesheer-specialist, dat het chronische ziektebeeld bevestigt en waaruit blijkt dat de leerling onderwijs mag krijgen. Bij een nieuwe afwezigheid ten gevolge van desbetreffende chronische ziekte tijdens hetzelfde schooljaar is geen nieuw medisch attest vereist.<br /><br />
+Een leerling heeft recht op tijdelijk onderwijs aan huis door de school waar de leerling is ingeschreven als aan al de volgende voorwaarden voldaan is :<br>
+1° de leerling is wegens ziekte of ongeval al een ononderbroken periode van 21 kalenderdagen afwezig op school. Die periode kan ook in het voorafgaande schooljaar geheel of gedeeltelijk doorlopen zijn.<br>
+In de volgende gevallen geldt die voorwaarde evenwel niet en is er een onmiddellijk recht op onderwijs aan huis :<br>
+a) als de leerling na een periode van onderwijs aan huis de lesbijwoning op school hervat, maar binnen een termijn van drie maanden, schoolvakanties niet inbegrepen, opnieuw afwezig is wegens ziekte of ongeval;<br>
+b) als de leerling lijdt aan een chronische ziekte; deze bepaling geeft uitvoering aan de uitzondering opgenomen in artikel 117, § 3, tweede lid, van de codificatie betreffende het secundair onderwijs, voor wat het secundair onderwijs betreft, en aan de uitzondering opgenomen in artikel 34, § 3, tweede lid, van het decreet Basisonderwijs van 25 februari 1997, ingevoegd bij de artikelen II.3 en II.13 van hetzelfde decreet van 15 juli 2005, voor wat het basisonderwijs betreft;<br>
+2° de afstand tussen de school enerzijds en de verblijfplaats van de leerling anderzijds bedraagt maximaal 10 km in het gewoon onderwijs en maximaal 20 km in het buitengewoon onderwijs. Hierbij wordt de voor de leerling, qua afstand, meest gunstige vestigingsplaats van de school in beschouwing genomen, ongeacht of dat de vestigingsplaats is waar de leerling normaliter de lessen volgt;<br>
+3° de betrokken personen vragen tijdelijk onderwijs aan huis aan bij de directie.<br>
+Voor niet-chronisch zieke leerlingen moet de aanvraag gebaseerd zijn op een medisch attest waaruit blijkt dat de leerling onmogelijk naar school kan gaan, maar wel onderwijs mag krijgen. Dit attest wordt aan de school bezorgd. Als de afwezigheid wegens ziekte of ongeval wordt verlengd of als de leerling na het hervatten van de lessen op school binnen een termijn van drie maanden opnieuw afwezig is wegens ziekte of ongeval, moet geen nieuwe aanvraag gebeuren.<br>
+Voor chronisch zieke leerlingen moet er per school maar één aanvraag gebeuren en wordt het medisch attest maar éénmaal bezorgd aan de school. Het medisch attest, dat het chronische ziektebeeld bevestigt en waaruit blijkt dat de leerling onderwijs mag krijgen, wordt opgemaakt door een arts-specialist.<br>
+<br>
+Chronisch zieke leerlingen moeten bij de eerste aanvraag tijdens het schooljaar in kwestie een medisch attest voegen, uitgereikt door een geneesheer-specialist, dat het chronische ziektebeeld bevestigt en waaruit blijkt dat de leerling onderwijs mag krijgen. Bij een nieuwe afwezigheid ten gevolge van desbetreffende chronische ziekte tijdens hetzelfde schooljaar is geen nieuw medisch attest vereist.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -34,7 +48,22 @@ Tijdelijk onderwijs aan huis kan niet worden georganiseerd in een preventorium, 
 
 ### ART. 7.
 
-§ 1. De directie van de school waar de leerling is ingeschreven, organiseert op de verblijfplaats het tijdelijke onderwijs aan huis zo spoedig mogelijk en uiterlijk vanaf de schoolweek die volgt op de week waarin de aanvraag ontvankelijk werd bevonden.<br /><br />Als de leerling, voorafgaand aan het tijdelijke onderwijs aan huis, onderwijs heeft gekregen in een preventorium, een ziekenhuis waar onderwijs van type 5 wordt georganiseerd of een dienst neuropsychiatrie voor kinderen, dan moet de directie van de school die het onderwijs aan huis organiseert overleg plegen met de directie van die voorafgaande instelling. <br /><br />§ 2. Het tijdelijke onderwijs aan huis vindt plaats naar rata van vier wekelijkse lestijden. <br /><br />Voor chronisch zieke leerlingen gelden die vier wekelijkse lestijden per schijf van 9 halve lesdagen afwezigheid.<br /><br />§ 3. In het secundair onderwijs beslist de directeur of de klassenraad, naar keuze van het schoolbestuur, na overleg met de betrokken personen welke vakken aan huis worden onderwezen. Die vakken mogen tijdens de duurtijd van het onderwijs aan huis wisselen.<br /><br />
+§ 1. De directie van de school waar de leerling is ingeschreven, organiseert op de verblijfplaats het tijdelijke onderwijs aan huis zo spoedig mogelijk en uiterlijk vanaf de schoolweek die volgt op de week waarin de aanvraag ontvankelijk werd bevonden.<br>
+<br>
+Bij een chronische ziekte kan het tijdelijk onderwijs aan huis ook gedeeltelijk op school georganiseerd worden.<br>
+<br>
+In het basisonderwijs gebeurt dat na een akkoord tussen de betrokken personen en de school en vindt dit plaats buiten normale aanwezigheid van de leerlingen zoals gedefinieerd in artikel 3, 43°, van het decreet basisonderwijs van 25 februari 1997 en niet tijdens de middagpauze als vermeld in artikel 3, § 1 van het besluit van de Vlaamse Regering van 17 april 1991 tot organisatie van het schooljaar in het basisonderwijs en in het deeltijds onderwijs georganiseerd, erkend of gesubsidieerd door de Vlaamse Gemeenschap.<br>
+<br>
+In het secundair onderwijs gebeurt dat na een akkoord tussen de betrokken personen en de school en vindt dit plaats buiten de lesuren van toepassing op het structuuronderdeel waarin de betrokken leerling is ingeschreven en niet tijdens de middagpauze als vermeld in artikel 3, § 1 van het besluit van de Vlaamse Regering van 31 augustus 2001 houdende de organisatie van het schooljaar in het secundair onderwijs.<br>
+<br>
+Als de leerling, voorafgaand aan het tijdelijke onderwijs aan huis, onderwijs heeft gekregen in een preventorium, een ziekenhuis waar onderwijs van type 5 wordt georganiseerd of een dienst neuropsychiatrie voor kinderen, dan moet de directie van de school die het onderwijs aan huis organiseert overleg plegen met de directie van die voorafgaande instelling.<br>
+<br>
+§ 2. Het tijdelijke onderwijs aan huis vindt plaats naar rata van vier wekelijkse lestijden.<br>
+<br>
+Voor chronisch zieke leerlingen gelden die vier wekelijkse lestijden per schijf van 9 halve lesdagen afwezigheid.<br>
+<br>
+§ 3. In het secundair onderwijs beslist de directeur of de klassenraad, naar keuze van het schoolbestuur, na overleg met de betrokken personen welke vakken aan huis worden onderwezen. Die vakken mogen tijdens de duurtijd van het onderwijs aan huis wisselen.<br>
+&nbsp;
 
 ## HOOFDSTUK III Permanent onderwijs aan huis
 

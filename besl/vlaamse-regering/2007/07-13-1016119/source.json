@@ -2,16 +2,16 @@
   "codex_id": 1016119,
   "title": "Besluit van de Vlaamse Regering van 2007-07-13 betreffende het onderwijs aan huis voor zieke kinderen en jongeren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016119/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "c428871de94431c314ffa6f1107e5d1d5e8ad0c3d32f13d718d1376700d87d33",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016119/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "70abcfa792282080810a1a98d5b3330d581aad0041cd61697e6ffd08348f43db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016119&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2019-01-01",
   "made": "2007-07-13",
   "gazette": "2007-08-31",
   "numac": 2007036468,
   "document_start": "2007-01-01",
   "document_end": null,
-  "in_force": "2011-07-04",
+  "in_force": "2019-01-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
