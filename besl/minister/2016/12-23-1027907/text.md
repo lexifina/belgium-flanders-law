@@ -19,8 +19,24 @@ Besluit :<br>
 
 ### ART 1.
 
-Dit besluit is niet van toepassing op de programmatie van de centra voor algemeen welzijnswerk voor de hulpverlening aan seksuele delinquenten en de crisisjeugdhulpverlening.<br>
-&nbsp;
+De volgende opdrachten zijn opdrachten buiten programmatie voor de specifieke intersectorale modules of programma's, vermeld in artikel 28, § 2, eerste lid, 1°, van het besluit van 21 juni 2013 betreffende het algemeen welzijnswerk:<br>
+1° het aanbod verzorgen in het kader van de crisisjeugdhulpverlening;<br>
+2° het aanbod verzorgen in het kader van de hulpverlening aan seksuele delinquenten;<br>
+3° een intersectorale module voor instellingsverlaters aanbieden in samenwerking met voorzieningen uit de jeugdhulp en de geestelijke gezondheidszorg;<br>
+4° Housing First realiseren in samenwerking met voorzieningen uit de sectoren personen met een handicap en de geestelijke gezondheidzorg;<br>
+5° het aanbod verzorgen binnen het intersectoraal programma "Meer capaciteit en samenwerking in de rechtstreeks toegankelijke jeugdhulp: investeren in een versterkte jeugdhulp snel en dichtbij onze gezinnen, kinderen en jongeren".<br>
+<br>
+De volgende opdrachten zijn opdrachten buiten programmatie voor de uniforme aansturing en coördinatie van de hulpverlening aan een specifieke doelgroep, vermeld in artikel 28, § 2, eerste lid, 2°, van het voormelde besluit:<br>
+1° de welzijnsgerichte benadering binnen de initiatieven die zijn opgezet in het kader van de Belgian Homeless Cup aansturen en coördineren;<br>
+2° de psychosociale nazorg voor slachtoffers van collectieve noodsituaties en terreuraanslagen aansturen en coördineren;<br>
+3° de welzijnscomponent binnen het Transgender Infopunt aansturen en coördineren;<br>
+4° de hulplijn 1712 voor vragen over misbruik, geweld en kindermishandeling aansturen en coördineren;<br>
+5° de hulpverlening aan geradicaliseerde gedetineerden aansturen en coördineren.<br>
+<br>
+In de beslissing om de erkenning te verlenen, vermeld in artikel 25, tweede lid, van het voormelde besluit, bepaalt de secretaris-generaal:<br>
+1° voor welke opdrachten, vermeld in het eerste en het tweede lid, een centrum algemeen welzijnswerk is erkend;<br>
+2° het bijbehorende aantal voltijdsequivalenten waarvoor het centrum algemeen welzijnswerk buiten de programmatie is erkend;<br>
+3° het bijbehorende werkingsgebied.
 
 ### ART 2.
 
@@ -34,7 +50,8 @@ Het tweetalige gebied Brussel-Hoofdstad wordt voor de toepassing van het eerste 
 <br>
 § 4. Bij de berekening van de indicatoren voor de welzijnsvraag, vermeld in artikel 4, § 2, en artikel 10, § 2, voor het tweetalige gebied Brussel-Hoofdstad:<br>
 1° wordt voor het bepalen van het aantal inwoners van dat gebied 30% van het totale aantal inwoners van dat gebied in aanmerking genomen;<br>
-2° wordt, in afwijking van artikel 4, § 2, tweede, derde en vierde lid, en artikel 10, § 2, eerste lid, voor het bepalen van het gewicht van de gemeenten van dat gebied, automatisch het maximale gewicht toegepast.<br>
+2° wordt, in afwijking van artikel 4, § 2, tweede, derde en vierde lid, voor het bepalen van het gewicht van de gemeenten van dat gebied, het gewogen aantal inwoners van twaalf jaar of ouder in de gemeenten van het Nederlandse taalgebied gedeeld door het aantal inwoners van twaalf jaar of ouder in de gemeenten van het Nederlandse taalgebied;<br>
+3° wordt, in afwijking van artikel 10, § 2, eerste lid, voor het bepalen van het gewicht van de gemeenten van dat gebied, het gewogen aantal inwoners van de doelgroep in de gemeenten van het Nederlandse taalgebied gedeeld door het aantal inwoners van de doelgroep in de gemeenten van het Nederlandse taalgebied.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Algemene programmatie van de centra voor algemeen welzijnswerk
@@ -59,7 +76,7 @@ De algemene programmatie geldt niet bij uitbreidingen van het aantal voltijdsequ
 Het gewicht van een gemeente wordt bepaald op basis van de volgende acht indicatoren, die worden omschreven in bijlage 1, die bij dit besluit is gevoegd.<br>
 1° het aantal inwoners met voorkeursregeling in de ziekteverzekering ten opzichte van het totale aantal inwoners;<br>
 2° het aantal alleenstaande ouders ten opzichte van het totale aantal huishoudens met kinderen onder de 25 jaar;<br>
-3° het aantal inwoners met recht op een tegemoetkoming hulp aan bejaarden ten opzichte van het totale aantal inwoners van 65 jaar of ouder;<br>
+3° het aantal inwoners met recht op een tegemoetkoming hulp aan bejaarden of een zorgbudget voor ouderen met een zorgnood&nbsp;ten opzichte van het totale aantal inwoners van 65 jaar of ouder;<br>
 4° de kansarmoede-index van Kind en Gezin;<br>
 5° het aantal laaggeschoolde langdurig werkzoekenden ten opzichte van het totale aantal niet-werkende werkzoekenden;<br>
 6° het aantal inwoners van buitenlandse niet-EU-herkomst ten opzichte van het totale aantal inwoners;<br>
@@ -69,8 +86,8 @@ Gemeenten die voor een indicator een score halen boven het 75e percentiel, krijg
 <br>
 Het gewicht van een gemeente wordt als volgt bepaald op basis van de som van de risicoscores voor alle indicatoren:<br>
 1° gemeenten met een score van 0 tot en met 2 krijgen als gewicht 1,00;<br>
-2° gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,25;<br>
-3° gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,50.<br>
+2° gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,40;<br>
+3° gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,80.<br>
 <br>
 Het aantal inwoners van twaalf jaar of ouder van de gemeente, vermenigvuldigd met het gewicht van de gemeente, vormt het gewogen aantal inwoners van twaalf jaar of ouder van de gemeente.<br>
 <br>
@@ -93,11 +110,11 @@ De indicator welzijnsaanbod wordt uitgedrukt als een percentage dat weergeeft we
 
 ### ART 6.
 
-Het programmatieverschil wordt bepaald door het verschil tussen de indicatoren welzijnsaanbod en welzijnsvraag. In een provincie is sprake van een programmatie-evenwicht als het programmatieverschil tussen - 0,5% en + 0,5% ligt.<br>
+Het programmatieverschil wordt bepaald door het verschil tussen de indicatoren welzijnsaanbod en welzijnsvraag. In een provincie is sprake van een programmatie-evenwicht als het programmatieverschil tussen - 1,0% en + 1,0% ligt.<br>
 <br>
 Voor elke erkende voltijdsequivalent uitbreiding in de centra voor algemeen welzijnswerk wordt berekend in welke provincies er geen programmatie-evenwicht is. Als niet in alle provincies een evenwicht gerealiseerd is, worden de volgende toewijzingsregels gehanteerd:<br>
-1° provincies met een negatief programmatieverschil hoger dan - 0,5% krijgen prioriteit. De provincie met het hoogste verschil krijgt de uitbreiding;<br>
-2° provincies met een positief programmatieverschil hoger dan 0,5% komen niet in aanmerking voor uitbreiding;<br>
+1° provincies met een negatief programmatieverschil hoger dan - 1,0% krijgen prioriteit. De provincie met het hoogste verschil krijgt de uitbreiding;<br>
+2° provincies met een positief programmatieverschil hoger dan 1,0% komen niet in aanmerking voor uitbreiding;<br>
 3° als de toewijzingsregels, vermeld in punt 1° of 2°, niet van toepassing zijn, bepaalt de minister in welke provincies de uitbreiding wordt ingezet, waarbij de toewijzing het bestaande programmatie-evenwicht niet mag doorbreken.<br>
 &nbsp;
 
@@ -187,8 +204,8 @@ a) omschrijving: het aantal huishoudens met een alleenstaande ouder waarin het j
 b) bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
 c) periode: de gegevens van het laatst beschikbare jaar;<br>
 3° indicator 3:<br>
-a) omschrijving: het aantal personen dat recht heeft op een tegemoetkoming hulp aan bejaarden, gedeeld door het totale aantal inwoners van 65 jaar of ouder;<br>
-b) bron: FOD Sociale Zekerheid en FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
+a) omschrijving: het aantal personen dat recht heeft op een tegemoetkoming hulp aan bejaarden of een zorgbudget voor ouderen met een zorgnood, gedeeld door het totale aantal inwoners van 65 jaar of ouder;<br>
+b) bron: FOD Sociale Zekerheid, Agentschap Vlaamse Sociale Bescherming en FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
 c) periode: de gegevens van het laatst beschikbare jaar;<br>
 4° indicator 4:<br>
 a) omschrijving: de kansarmoede-index van Kind en Gezin;<br>
@@ -273,8 +290,8 @@ a) doelgroep: het totale aantal inwoners van achttien jaar of ouder:<br>
 b) indicatoren: voor deze cluster worden dezelfde acht indicatoren, vermeld in bijlage 1, gehanteerd;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 2 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,25;<br>
-3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,50;<br>
+2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,40;<br>
+3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,80;<br>
 2° voor de cluster problemen op het vlak van relaties en persoonlijke problemen:<br>
 a) doelgroep: het totale aantal inwoners van achttien jaar of ouder:<br>
 1) bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
@@ -292,7 +309,7 @@ a) bron: Zorg en Gezondheid, Kenmerken suïcidepogingen in Gent en Vlaanderen<br
 b) periode: de gegevens van het laatst beschikbare jaar;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 1 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 2 tot en met 4 krijgen als gewicht 1,25;<br>
+2) gemeenten met een score van 2 tot en met 4 krijgen als gewicht 1,40;<br>
 3° voor de cluster problemen ten gevolge van armoede en schulden en toeleiding tot basisrechten:<br>
 a) doelgroep: het totale aantal inwoners van achttien jaar of ouder:<br>
 1) bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
@@ -300,8 +317,8 @@ a) doelgroep: het totale aantal inwoners van achttien jaar of ouder:<br>
 b) indicatoren: voor deze cluster worden dezelfde acht indicatoren, vermeld in bijlage 1, gehanteerd;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 2 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,25;<br>
-3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,50;<br>
+2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,40;<br>
+3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,80;<br>
 4° voor de cluster problemen ten gevolge van dader- en slachtofferschap:<br>
 a) doelgroep: het totale aantal inwoners van achttien jaar of ouder:<br>
 1) bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
@@ -321,7 +338,7 @@ bron: Zorg en Gezondheid, Kenmerken suïcidepogingen in Gent en Vlaanderen<br>
 periode: de gegevens van het laatst beschikbare jaar;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 1 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 2 tot en met 4 krijgen als gewicht 1,25;<br>
+2) gemeenten met een score van 2 tot en met 4 krijgen als gewicht 1,40;<br>
 5° voor de cluster problemen ten gevolge van detentie:<br>
 a) doelgroep: de dagpopulatie beklaagden en de dagpopulatie veroordeelden, met uitzondering van de gevangenissen die minder dan vijf jaar in gebruik zijn waar wordt gewerkt met de gemiddelde capaciteit;<br>
 b) indicatoren:<br>
@@ -354,7 +371,7 @@ bron: Rijksregister (Agentschap Inburgering);<br>
 periode: de laatst beschikbare cijfers;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 1 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 2 tot en met 3 krijgen als gewicht 1,25;<br>
+2) gemeenten met een score van 2 tot en met 3 krijgen als gewicht 1,40;<br>
 7° voor de cluster problemen, gerelateerd aan minderjarigen en jongvolwassenen:<br>
 a) doelgroep: het totale aantal inwoners van 12 tot en met 24 jaar:<br>
 1) bron: FOD Economie, Algemene Directie Statistiek en Economische Informatie (ADSEI);<br>
@@ -386,6 +403,6 @@ bron: Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG);<br>
 periode: de gegevens van het laatst beschikbare jaar;<br>
 c) gewicht:<br>
 1) gemeenten met een score van 0 tot en met 2 krijgen als gewicht 1,00;<br>
-2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,25;<br>
-3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,50.<br>
+2) gemeenten met een score van 3 tot en met 5 krijgen als gewicht 1,40;<br>
+3) gemeenten met een score van 6 tot en met 8 krijgen als gewicht 1,80.<br>
 &nbsp;
