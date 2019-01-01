@@ -106,7 +106,17 @@ De waarborgen die op grond van het decreet van 15 april 1997 tot regeling van de
 
 ### ART. 21.
 
-§ 1. Er wordt een recuperatiefonds studietoelagen opgericht, hierna genoemd 'het fonds'.<br /><br />§ 2. Het fonds is een begrotingsfonds type B in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br /><br />§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit terugvorderingen ter uitvoering van artikelen 10, 11 en 22 van het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap, alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikelen 47 en 48 van het decreet van 30 april 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap, en alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikel 62 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br /><br />Het fonds wordt eveneens gespijsd door de niet-geïnde studiefinanciering, schooltoelagen of studietoelagen.<br /><br />§ 4. Het fonds wordt aangewend voor de betaling van school- en studietoelagen aan leerlingen en studenten overeenkomstig het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br />
+§ 1. Er wordt een recuperatiefonds studietoelagen opgericht, hierna genoemd 'het fonds'.<br>
+<br>
+§ 2. Het fonds is een begrotingsfonds type B in de zin van artikel 45 van het koninklijk besluit van 17 juli 1991 houdende coördinatie van de wetten op de rijkscomptabiliteit.<br>
+<br>
+§ 3. Het fonds wordt gespijsd door alle ontvangsten die voortvloeien uit terugvorderingen ter uitvoering van artikelen 10, 11 en 22 van het decreet van 16 februari 2001 houdende regeling van de studietoelagen voor het hoger onderwijs in de Vlaamse Gemeenschap, alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikelen 47 en 48 van het decreet van 30 april 2004 betreffende de studiefinanciering en studentenvoorzieningen in het hoger onderwijs van de Vlaamse Gemeenschap, en alle ontvangsten die voortvloeien uit terugvorderingen zoals bepaald in artikel 62 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br>
+<br>
+Het fonds wordt eveneens gespijsd door de niet-geïnde studiefinanciering, schooltoelagen of studietoelagen.<br>
+<br>
+§ 4. Het fonds wordt aangewend voor de betaling van school- en studietoelagen aan leerlingen en studenten overeenkomstig het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.<br>
+<br>
+Het fonds wordt eveneens aangewend voor de kosten die voortvloeien uit gedwongen invordering van terugvorderingen ter uitvoering van artikel 62 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap.
 
 ## HOOFDSTUK XIII Universiteiten
 
@@ -380,46 +390,7 @@ In het kader van de terugbetaling ten overstaan van het Vlaamse Gewest vanwege V
 
 ### ART. 79.
 
-§ 1. De personen met een arbeidshandicap die wegens de aard of de ernst van hun arbeidshandicap niet of nog niet in het normale economische arbeidscircuit beroepsactiviteiten kunnen uitoefenen, kunnen, hetzij voltijds, hetzij deeltijds, in beschutte werkplaatsen worden tewerkgesteld, die worden erkend en gesubsidieerd door het Departement Werk en Sociale Economie.<br>
-<br>
-De Vlaamse Regering bepaalt de criteria en de procedure aan de hand waarvan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding bepaalt of een persoon al dan niet een arbeidshandicap heeft en voldoet aan de hierboven gestelde voorwaarden.<br>
-<br>
-De in de beschutte werkplaatsen tewerkgestelde personen met een arbeidshandicap worden aangeworven krachtens een arbeidsovereenkomst voor arbeiders of voor bedienden.<br>
-<br>
-De beschutte werkplaats kan aan de personen met een arbeidshandicap, die zich onmogelijk of moeilijk kunnen verplaatsen, huisarbeid verschaffen. In dit geval worden zij aangeworven krachtens een arbeidsovereenkomst voor huisarbeiders.<br>
-<br>
-§ 2. Het bouwen, het inrichten en oprichten, het in gebruik nemen van, het exploiteren en het wijzigen van de opnamecapaciteit van een door het Departement Werk en Sociale Economie subsidiabele beschutte werkplaats is onderworpen aan een voorafgaande vergunning verleend door het Departement Werk en Sociale Economie in het kader van de door de Vlaamse Regering vastgestelde programmatie.<br>
-<br>
-De Vlaamse Regering bepaalt de modaliteiten van deze vergunningsplicht.<br>
-<br>
-In geval de vergunning wordt geweigerd kan de aanvrager tegen deze beslissing beroep aantekenen bij de regering op de wijze door deze bepaald.<br>
-<br>
-§ 3. De Vlaamse Regering bepaalt de voorwaarden inzake erkenning van de beschutte werkplaatsen en de nadere regels inzake de indiening en behandeling van de aanvraag tot erkenning en inzake het verlenen, weigeren, schorsen en intrekken van deze erkenning. In geval de erkenning wordt geweigerd, geschorst of ingetrokken, kan de aanvrager tegen de beslissing beroep aantekenen bij de regering op de wijze door deze bepaald.<br>
-<br>
-Deze voorwaarden van erkenning hebben ten minste betrekking op:<br>
-1° het onthaalbeleid en de begeleiding van de werknemers met een arbeidshandicap;<br>
-2° de vrijheid van de in de werkplaats tewerkgestelde personen en de eerbiediging van hun ideologische, filosofische of godsdienstige overtuiging;<br>
-3° de veiligheid en gezondheid van de werknemers met een arbeidshandicap, en de arbeidsrechtelijke verhoudingen;<br>
-4° de materiële infrastructuur;<br>
-5° de inspraak van de personen met een arbeidshandicap of van hun wettelijke vertegenwoordigers;<br>
-6° het beheer, de boekhouding en de verslaggeving van de werkplaats;<br>
-7° het onderzoek en het behandelen van de klachten van de werknemers;<br>
-8° de kwaliteit van de sociale begeleiding van de werknemers;<br>
-9° het beheer van gelden en goederen van de werknemers met een arbeidshandicap.<br>
-<br>
-De erkenning kan niet worden verleend wanneer de beschutte werkplaats niet past in het kader van de programmatie die door de Vlaamse Regering is vastgesteld. Om erkend te worden moet de voorziening opgericht zijn door een vereniging zonder winstoogmerk, of door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging, bedoeld bij artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut.<br>
-<br>
-Indien voormelde rechtspersoon ook andere voorzieningen organiseert dan beschutte tewerkstelling moet de inhoudelijke en administratieve autonomie van de beschutte werkplaats gewaarborgd zijn.<br>
-<br>
-§ 4. De Vlaamse Regering bepaalt de voorwaarden, de criteria, de modaliteiten en het bedrag van de subsidies, die aan de beschutte werkplaatsen worden verleend met het oog op de tewerkstelling van werknemers met een arbeidshandicap.<br>
-<br>
-§ 5. Het Departement Werk en Sociale Economie kan binnen de perken van de hiervoor op de begroting van het Vlaams ministerie van Werk en Sociale Economie ingeschreven middelen tegemoetkomen in de financiering van de aankoop, bouw en verbouwingswerken alsook in de kosten van uitrusting en apparatuur van de door hem erkende beschutte werkplaatsen die in het kader van de programmatie ter zake hiervoor in aanmerking komen.<br>
-<br>
-De Vlaamse Regering bepaalt de procedureregels, de bouwtechnische normen en de maximumbedragen inzake het verlenen van deze tegemoetkomingen.<br>
-<br>
-§ 6. De sociaalrechtelijke inspecteurs, vermeld in het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn, oefenen controle en toezicht uit op de naleving van deze bepalingen.<br>
-<br>
-§ 7. Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 500 euro of met één van die straffen alleen degene die, zonder voorafgaande vergunning als vermeld in paragraaf 2, een door het Departement Werk en Sociale Economie subsidieerbare beschutte werkplaats bouwt, wie deze opricht, in gebruik neemt, exploiteert of de opnamecapaciteit ervan wijzigt en die het toezicht verhindert zoals voorzien in paragraaf 6.
+<p>...</p>
 
 ## HOOFDSTUK XXVIII Centra voor gespecialiseerde voorlichting bij beroepskeuze en centra voor beroepsopleiding of omscholing van personen met een handicap
 
@@ -447,7 +418,13 @@ Onverminderd de bepalingen van het vennootschapsrecht, blijft de raad van bestuu
 
 ### ART. 84.
 
-§ 1. De Vlaamse Regering wordt ertoe gemachtigd om diensten met afzonderlijk beheer op te richten waarvan het werkingsdomein overeenstemt met het werkingsdomein van intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid, conform de lijst, zoals voorzien in artikel 6, § 4, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br /><br />§ 2. De Vlaamse Regering wordt ertoe gemachtigd de regels met betrekking tot het financieel en materieel beheer van deze DAB's vast te stellen.<br /><br />§ 3. De begrotingen van deze intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid kunnen worden opgesteld en goedgekeurd door de Vlaamse Regering.<br /><br />§ 4. De door de Vlaamse Regering goedgekeurde begrotingen, worden onmiddellijk aan het Vlaams Parlement en aan het Rekenhof medegedeeld.
+§ 1. De Vlaamse Regering wordt ertoe gemachtigd om diensten met afzonderlijk beheer op te richten waarvan het werkingsdomein overeenstemt met het werkingsdomein van intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid, conform de lijst, vermeld in artikel III.3 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+§ 2. De Vlaamse Regering wordt ertoe gemachtigd de regels met betrekking tot het financieel en materieel beheer van deze DAB's vast te stellen.<br>
+<br>
+§ 3. De begrotingen van deze intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid kunnen worden opgesteld en goedgekeurd door de Vlaamse Regering.<br>
+<br>
+§ 4. De door de Vlaamse Regering goedgekeurde begrotingen, worden onmiddellijk aan het Vlaams Parlement en aan het Rekenhof medegedeeld.
 
 ## HOOFDSTUK XXXII Inwerkingtreding
 
