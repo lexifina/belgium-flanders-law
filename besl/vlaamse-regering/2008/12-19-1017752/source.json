@@ -2,16 +2,16 @@
   "codex_id": 1017752,
   "title": "Besluit van de Vlaamse Regering van 2008-12-19 betreffende de samenwerkingsinitiatieven eerstelijnsgezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017752/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "99cf82efaad16606e6e3105e59c1bdf9f5d2569a3ac1469bbcc1a4cd320a40b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017752/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "e4bf0aff9065fa23c84a2304325ae062e638339aa14879f98338e86d180cd856",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017752&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2019-01-01",
   "made": "2008-12-19",
   "gazette": "2009-03-31",
   "numac": 2009201391,
   "document_start": "2009-01-01",
   "document_end": "2019-09-30",
-  "in_force": "2015-01-01",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

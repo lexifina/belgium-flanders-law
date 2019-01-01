@@ -25,7 +25,27 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° aanvrager : een rechtspersoon of de Vlaamse Gemeenschapscommissie die een aanvraag tot erkenning als samenwerkingsinitiatief eerstelijnsgezondheidszorg indient;<br />2° Administrateur-generaal : de leidend ambtenaar van het Vlaams Agentschap Zorg en Gezondheid;<br />3° Agentschap : het Vlaams Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap 'Zorg en Gezondheid';<br />4° Eerstelijnsdecreet : het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders;<br />5° Geïntegreerde Dienst voor Thuisverzorging : een dienst erkend overeenkomstig het koninklijk besluit van 8 juli 2002 tot vaststelling van de normen voor de bijzondere erkenning van geïntegreerde diensten voor thuisverzorging;<br />6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br />7° lokaal dienstencentrum, afgekort LDC : een voorziening als vermeld in artikel 16 van het woonzorgdecreet van 13 maart 2009;<br />8° lokaal sociaal beleid : het geheel van de beleidsbepaling en acties van het lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en 24, § 3, van de Grondwet, vermeld in het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid;<br />9° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />10° multidisciplinair zorgtraject : een wetenschappelijk onderbouwde beschrijving van de verschillende stappen in een multidisciplinaire zorgverlening;<br />11° organisatie van multidisciplinair overleg : het samenbrengen van zorgaanbieders van verschillende disciplines, het bieden van praktische en administratieve ondersteuning bij dat overleg en het bewaken van de voortgangscontrole van dat overleg;<br />12° regionaal dienstencentrum, afgekort RDC : een voorziening als vermeld in artikel 20 van het woonzorgdecreet van 13 maart 2009; <br />13° samenwerkingsinitiatief eerstelijnsgezondheidszorg, afgekort SEL : een door de Vlaamse Regering erkend samenwerkingsverband van vertegenwoordigers van zorgaanbieders en eventueel van vertegenwoordigers van mantelzorgers of vrijwilligers, dat gericht is op de optimalisatie van de zorg binnen een geografisch afgebakend werkgebied als vermeld in artikel 2, 11°, van het Eerstelijnsdecreet;<br />14° vrijwilliger : een persoon als vermeld in artikel 2, 12° van het Eerstelijnsdecreet; <br />15° vrijwilligersorganisaties : elke feitelijke vereniging of private rechtspersoon zonder winstoogmerk die werkt met vrijwilligers;<br />16° zorgaanbieder : een organisatie, dienst of persoon als vermeld in artikel 2, 16°, van het Eerstelijnsdecreet;<br />17° zorgbemiddelaar : persoon, aangewezen door een gebruiker of mantelzorger, die de taken van de zorgaanbieders, mantelzorgers en vrijwilligers op elkaar afstemt en op de behoeften van de gebruiker;<br />18° Zorgregiodecreet : het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° aanvrager : een rechtspersoon of de Vlaamse Gemeenschapscommissie die een aanvraag tot erkenning als samenwerkingsinitiatief eerstelijnsgezondheidszorg indient;<br>
+2° Administrateur-generaal : de leidend ambtenaar van het Vlaams Agentschap Zorg en Gezondheid;<br>
+3° Agentschap : het Vlaams Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap 'Zorg en Gezondheid';<br>
+4° Eerstelijnsdecreet : het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders;<br>
+4/1° eerstelijnszone: een geografisch afgebakend gebied waarin een project, dat de Vlaamse Regering subsidieert, werkt aan de organisatie van de zorg en ondersteuning in zijn werkgebied en aan de ondersteuning van de eerstelijnszorgaanbieders;<br>
+5° Geïntegreerde Dienst voor Thuisverzorging : een dienst erkend overeenkomstig het koninklijk besluit van 8 juli 2002 tot vaststelling van de normen voor de bijzondere erkenning van geïntegreerde diensten voor thuisverzorging;<br>
+6° Logo : een door de Vlaamse Regering erkend samenwerkingsverband voor loco-regionaal gezondheidsoverleg en -organisatie binnen een geografisch aaneengesloten gebied als vermeld in artikel 2, 19°, van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br>
+7° lokaal dienstencentrum, afgekort LDC : een voorziening als vermeld in artikel 16 van het woonzorgdecreet van 13 maart 2009;<br>
+8° ...<br>
+9° minister : de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+10° ...<br>
+11° organisatie van multidisciplinair overleg : het samenbrengen van zorgaanbieders van verschillende disciplines, het bieden van praktische en administratieve ondersteuning bij dat overleg en het bewaken van de voortgangscontrole van dat overleg;<br>
+12° ...<br>
+13° samenwerkingsinitiatief eerstelijnsgezondheidszorg, afgekort SEL : een door de Vlaamse Regering erkend samenwerkingsverband van vertegenwoordigers van zorgaanbieders en eventueel van vertegenwoordigers van mantelzorgers of vrijwilligers, dat gericht is op de optimalisatie van de zorg binnen een geografisch afgebakend werkgebied als vermeld in artikel 2, 11°, van het Eerstelijnsdecreet;<br>
+14° vrijwilliger : een persoon als vermeld in artikel 2, 12° van het Eerstelijnsdecreet;<br>
+15° vrijwilligersorganisaties : elke feitelijke vereniging of private rechtspersoon zonder winstoogmerk die werkt met vrijwilligers;<br>
+16° zorgaanbieder : een organisatie, dienst of persoon als vermeld in artikel 2, 16°, van het Eerstelijnsdecreet;<br>
+17° zorgbemiddelaar : persoon, aangewezen door een gebruiker of mantelzorger, die de taken van de zorgaanbieders, mantelzorgers en vrijwilligers op elkaar afstemt en op de behoeften van de gebruiker;<br>
+18° Zorgregiodecreet : het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen.<br>
+&nbsp;
 
 ## HOOFDSTUK II Werkgebied
 
@@ -41,7 +61,16 @@ Een SEL richt zich tot de zorgbehoevende gebruikers en hun omgeving, de zorgaanb
 
 ### ART. 4.
 
-De opdrachten en de taken van een SEL zijn de volgende : <br />1° het opmaken en regelmatig actualiseren van een volledig overzicht van de zorgaanbieders, verenigingen van mantelzorgers en gebruikers en de vrijwilligersorganisaties binnen zijn eigen werkgebied. Dat overzicht wordt ter beschikking gesteld, onder andere, via een website die voor iedereen toegankelijk is;<br />2° het actief bekendmaken van het geactualiseerde overzicht, vermeld in punt 1°, aan de kleinstedelijke afdelingen van een SEL, de zorgaanbieders, de vrijwilligersorganisaties en de verenigingen van mantelzorgers en de gebruikers binnen het werkgebied van een SEL;<br />3° het sluiten van samenwerkingsovereenkomsten met minstens de ziekenhuizen, woonzorgcentra en rust- en verzorgingstehuizen, dagverzorgingscentra en centra voor kortverblijf om het zorgcontinuüm te verzekeren. Die overeenkomsten hebben tot doel een vlotte overgang te realiseren van de thuissituatie naar een residentiële of semi-residentiële voorziening of ziekenhuis en omgekeerd;<br />4° het ondersteunen van de progressieve invoering van multidisciplinaire zorgtrajecten;<br />5° het aanreiken en promoten van het elektronische zorgplan;<br />6° het organiseren of ondersteunen van multidisciplinaire vormingen om de zorgaanbieders, onder meer, te leren omgaan met multidisciplinaire zorgtrajecten, om de multidisciplinaire samenwerking te bevorderen en om het gebruik van elektronische zorgplannen en andere elektronische toepassingen te ondersteunen;<br />7° het bewaken van de procedures die betrekking hebben op de evaluatie van het zelfzorgvermogen en de kwaliteitsvolle uitwerking van het zorgplan;<br />8° het verlenen van adviezen, op eigen initiatief of op verzoek van de Vlaamse overheid, en het signaleren aan het agentschap van goedepraktijkvoorbeelden en van eventuele probleemsituaties;<br />9° het toezicht houden op de organisatie van een multidisciplinair overleg in het kader van een zorgplan door de gebruiker zelf, zijn wettelijke vertegenwoordiger, een mantelzorger, een vrijwilliger of zorgaanbieder;<br />10° het faciliteren van het multidisciplinair overleg door de personen, vermeld in punt 9°, indien gewenst, toe te leiden naar een regionaal dienstencentrum of een sociale dienst van een openbaar centrum voor maatschappelijk welzijn of naar een zorgaanbieder die zijn bereidheid hiertoe kenbaar gemaakt heeft aan een SEL of aan een kleinstedelijke afdeling van een SEL voor de organisatie van dit multidisciplinair overleg. In het tweetalige gebied Brussel-Hoofdstad kan deze toeleiding ook naar een lokaal dienstencentrum gebeuren; <br />11° het zelf organiseren van een multidisciplinair overleg als de organisaties, vermeld in punt 10°, nalaten dat overleg te laten plaatsvinden binnen een redelijke termijn na de aanvraag tot overleg en in ieder geval binnen de termijn van een maand;<br />12° het adviseren van de lokale besturen bij de opmaak van het onderdeel eerste lijn van hun lokaal sociaal beleidsplan.<br /><br />
+Een SEL heeft de volgende opdrachten en taken:<br>
+1° de procedures bewaken voor de evaluatie van het zelfzorgvermogen en de kwaliteitsvolle uitwerking van het zorgplan;<br>
+2° toezicht houden op de organisatie van het multidisciplinaire overleg in het kader van een zorgplan door de gebruiker zelf, zijn wettelijke vertegenwoordiger, een mantelzorger, een vrijwilliger of een zorgaanbieder;<br>
+3° het multidisciplinaire overleg faciliteren door de personen, vermeld in punt 2°, als dat wenselijk is, toe te leiden naar een zorgaanbieder die aan het SEL heeft gemeld dat hij bereid is dat multidisciplinaire overleg te organiseren. In het tweetalige gebied Brussel-Hoofdstad kunnen de personen, vermeld in punt 2°, ook toegeleid worden naar een lokaal dienstencentrum;<br>
+4° zelf een multidisciplinair overleg organiseren als de zorgaanbieder, vermeld in punt 3°, nalaat dat overleg te laten plaatsvinden binnen een maand nadat het overleg is aangevraagd;<br>
+5° de initiatiefnemers van de eerstelijnszone, in het werkgebied van het SEL, ondersteunen;<br>
+6° de huidige samenwerkingsovereenkomsten met minstens de ziekenhuizen, woonzorgcentra en rust- en verzorgingstehuizen, dagverzorgingscentra en centra voor kortverblijf opvolgen om het zorgcontinuüm te verzekeren. Die overeenkomsten hebben tot doel de overgang van de thuissituatie naar een residentiële of semiresidentiële voorziening of ziekenhuis en omgekeerd vlot te laten verlopen;<br>
+7° de website www.desocialekaart.be actief bekendmaken bij zorgaanbieders in het werkgebied van het SEL;<br>
+8° zorgverstrekkers in het werkgebied van het SEL ondersteunen om opgenomen te worden in de databank van de website www.desocialekaart.be;<br>
+9° adviezen verlenen, op eigen initiatief of op verzoek van de Vlaamse overheid, en goedepraktijkvoorbeelden en eventuele probleemsituaties signaleren aan het Agentschap.
 
 ### ART. 5.
 
@@ -55,11 +84,22 @@ De opdrachten en de taken van een SEL spelen zich af binnen het gebied van een r
 
 ### ART. 7.
 
-De administrateur-generaal erkent de SEL's voor zes jaar.<br /><br />
+De administrateur-generaal erkent de SEL's voor&nbsp;maximaal twee jaar.<br>
+&nbsp;
 
 ### ART. 8.
 
-Om erkend te worden als SEL, moeten de volgende voorwaarden vervuld zijn : <br />1° de aanvrager voldoet aan de bepalingen van het Eerstelijnsdecreet die betrekking hebben op de erkenning;<br />2° het werkgebied voldoet aan de bepalingen, vermeld in artikel 2;<br />3° de aanvrager is een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan een SEL opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid;<br />4° de statuten, indien van toepassing, zijn voor publicatie aangeboden; <br />5° er is een overzicht gemaakt van alle zorgaanbieders, verenigingen van mantelzorgers en gebruikers en vrijwilligersorganisaties die actief zijn in het werkgebied van een SEL. Dat overzicht vormt een onderdeel van de erkenningsaanvraag;<br />6° de zorgaanbieders, verenigingen van mantelzorgers en gebruikers en vrijwilligersorganisaties zijn schriftelijk uitgenodigd om lid te worden van een SEL volgens de bepalingen van artikel 12, § 1, van het Eerstelijnsdecreet;<br />7° elke categorie van zorgaanbieders als vermeld in artikel 12, § 2, van het Eerstelijnsdecreet, is vertegenwoordigd door minstens een lid;<br />8° de aanvrager toont op basis van het overzicht, vermeld in punt 5°, per categorie van zorgaanbieders aan dat minstens de helft van de georganiseerde zorg in de regio vertegenwoordigd is volgens de bepalingen, vermeld in artikel 12, § 3, van het Eerstelijnsdecreet. Die verplichting vervalt als een bepaalde groep van zorgaanbieders formeel aangeeft de werking van een SEL niet te willen ondersteunen;<br />9° het voorzitter- of ondervoorzitterschap van een SEL wordt opgenomen door een huisarts.<br /><br />
+Om erkend te worden als SEL, moeten de volgende voorwaarden vervuld zijn :<br>
+1° de aanvrager voldoet aan de bepalingen van het Eerstelijnsdecreet die betrekking hebben op de erkenning;<br>
+2° het werkgebied voldoet aan de bepalingen, vermeld in artikel 2;<br>
+3° de aanvrager is een vereniging zonder winstoogmerk. In het tweetalig gebied Brussel-Hoofdstad kan een SEL opgericht worden door de Vlaamse Gemeenschapscommissie, bevoegd voor het gezondheidsbeleid;<br>
+4° de statuten, indien van toepassing, zijn voor publicatie aangeboden;<br>
+5° ...<br>
+6° de zorgaanbieders, verenigingen van mantelzorgers en gebruikers en vrijwilligersorganisaties zijn schriftelijk uitgenodigd om lid te worden van een SEL volgens de bepalingen van artikel 12, § 1, van het Eerstelijnsdecreet;<br>
+7° elke categorie van zorgaanbieders als vermeld in artikel 12, § 2, van het Eerstelijnsdecreet, is vertegenwoordigd door minstens een lid;<br>
+8° de aanvrager toont op basis van het overzicht, vermeld in punt 5°, per categorie van zorgaanbieders aan dat minstens de helft van de georganiseerde zorg in de regio vertegenwoordigd is volgens de bepalingen, vermeld in artikel 12, § 3, van het Eerstelijnsdecreet. Die verplichting vervalt als een bepaalde groep van zorgaanbieders formeel aangeeft de werking van een SEL niet te willen ondersteunen;<br>
+9° het voorzitter- of ondervoorzitterschap van een SEL wordt opgenomen door een huisarts.<br>
+&nbsp;
 
 ### ART. 9.
 
@@ -73,15 +113,15 @@ Om erkend te blijven, moet een SEL : <br />1° voldoen aan de voorwaarden, verme
 
 ### ART. 11.
 
-De administrateur-generaal verlengt de erkenning van een SEL voor zes jaar. De verlenging van de erkenning is aansluitend aan de erkenning.<br /><br />
+...
 
 ### ART. 12.
 
-§ 1. Om de continuïteit van de erkenning te kunnen garanderen, verzoekt   het agentschap een SEL om minstens twaalf maanden voor de erkenning afloopt, de   nodige informatie te bezorgen voor een verlenging van de erkenning.<BR><BR>De   administrateur-generaal bepaalt de vorm van die informatie en de wijze waarop ze   bezorgd moet worden.<BR><BR>§ 2. Een SEL bezorgt, minstens zes maanden voor de   erkenningstermijn verstreken is, de informatie, vermeld in § 1, voor de   samenstelling van een dossier tot verlenging van een erkenning aan het   agentschap.<BR><BR>§ 3. De beslissing over de verlenging van de erkenning wordt   bezorgd aan een SEL voor de aflopende erkenningstermijn verstreken is.<BR><BR>§   4. De administrateur-generaal uit het voornemen tot weigering van de verlenging   van de erkenning als de erkende voorziening niet langer voldoet aan de   erkenningsvoorwaarden. De beheersinstantie wordt met een aangetekende brief op   de hoogte gebracht van het voornemen tot weigering van de verlenging van de   erkenning. Dat voornemen wordt gemotiveerd.<BR><BR>De aangetekende brief bevat   naast het voornemen ook informatie over de mogelijkheid, de voorwaarden en de   procedure om een gemotiveerd bezwaarschrift in te dienen bij het   agentschap.<BR><BR>Als een SEL geen bezwaarschrift indient binnen vijfenveertig   dagen nadat de aangetekende brief verstuurd is, wordt de beslissing van de   administrateur-generaal tot weigering van de verlenging van de erkenning met een   aangetekende brief aan een SEL bezorgd.<BR><BR>§ 5. Als de   administrateur-generaal voor de erkenning afgelopen is, geen beslissing neemt   als vermeld in § 3, of geen voornemen uit tot weigering van de verlenging van de   erkenning als vermeld in § 4, eerste lid, wordt de erkenning van rechtswege   verlengd tot de administrateur-generaal een beslissing tot verlenging van de   erkenning neemt of een voornemen tot weigering uit.<BR><BR>§ 6. Als de   verlenging van de erkenning wordt geweigerd, kan het SEL geen aanspraak maken op   een vergoeding voor kosten verbonden aan activiteiten die hebben plaatsgevonden   met het oog op het bekomen van de verlenging van de   erkenning.<BR><BR>
+...
 
 ### ART. 13.
 
-Om een verlenging van de erkenning te krijgen, moet een SEL voldoen aan de voorwaarden, vermeld in artikel 10 en aan de bepaling van artikel 12, § 2.<br /><br />
+...
 
 ## HOOFDSTUK VI Schorsing en intrekking van erkenning
 
@@ -97,7 +137,8 @@ Om een verlenging van de erkenning te krijgen, moet een SEL voldoen aan de voorw
 
 ### ART. 16.
 
-Op straffe van onontvankelijkheid kan een SEL binnen vijfenveertig dagen   na het versturen van de aangetekende brief, vermeld in artikel 9, § 5, tweede en   derde lid, artikel 12, § 4, tweede en derde lid, artikel 14, § 2 en artikel 15,   § 3 met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij het   agentschap.<BR><BR>
+Op straffe van onontvankelijkheid kan een SEL binnen vijfenveertig dagen na het versturen van de aangetekende brief, vermeld in artikel 9, § 5, tweede en derde lid,&nbsp;artikel 14, § 2 en artikel 15, § 3 met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij het agentschap.<br>
+&nbsp;
 
 ### ART. 17.
 
@@ -115,11 +156,21 @@ De administrateur-generaal kent aan een SEL een jaarlijkse subsidie toe binnen d
 
 ### ART. 20.
 
-§ 1. De subsidie voor een SEL, vermeld in artikel 19 bedraagt 69.031,87   euro (negenenzestigduizend eenendertig euro zevenentachtig cent) per   werkingsjaar, vermeerderd met 0,2133 euro per inwoner van het werkgebied van een   SEL.<BR><BR>§ 2. Het aantal inwoners van het werkgebied van een SEL wordt, voor   de toepassing van dit besluit, bepaald volgens de gegevens van het agentschap   over het werkingsjaar dat voorafgaat aan het werkingsjaar waarop de subsidie   betrekking heeft.<BR><BR>Voor het tweetalig gebied Brussel-Hoofdstad worden   300.000 inwoners in rekening gebracht.<BR><BR>
+§ 1. De subsidie voor een SEL, vermeld in artikel 19 bedraagt&nbsp;72.106,90 euro (tweeënzeventigduizend honderd en zes euro negentig cent) per werkingsjaar, vermeerderd met 0,4358 euro per inwoner van het werkgebied van een SEL.<br>
+<br>
+§ 2. Het aantal inwoners van het werkgebied van een SEL wordt, voor de toepassing van dit besluit, bepaald volgens de gegevens van het agentschap over het werkingsjaar dat voorafgaat aan het werkingsjaar waarop de subsidie betrekking heeft.<br>
+<br>
+Voor het tweetalig gebied Brussel-Hoofdstad worden 300.000 inwoners in rekening gebracht.<br>
+&nbsp;
 
 ### ART. 21.
 
-De bedragen, vermeld in artikel 20, § 1, worden vanaf het werkingsjaar   2016 jaarlijks op 1 januari geïndexeerd volgens de volgende formule   :<BR>geïndexeerd bedrag = subsidiebedrag X gezondheidsindex november x-1 /   gezondheidsindex november x-2,<BR>waarbij:<BR>1° x = het werkingsjaar waarop de   subsidie betrekking heeft;<BR>2° subsidiebedrag = de bedragen, vermeld in   artikel 20, § 1;<BR>3° gezondheidsindex: het prijsindexcijfer dat berekend en   benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende   sociale bepalingen.<BR>
+De bedragen, vermeld in artikel 20, § 1, worden vanaf het werkingsjaar 2020 jaarlijks op 1 januari geïndexeerd volgens de volgende formule :<br>
+geïndexeerd bedrag = subsidiebedrag X gezondheidsindex november x-1 / gezondheidsindex november x-2,<br>
+waarbij:<br>
+1° x = het werkingsjaar waarop de subsidie betrekking heeft;<br>
+2° subsidiebedrag = de bedragen, vermeld in artikel 20, § 1;<br>
+3° gezondheidsindex: het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen.
 
 ### ART. 22.
 
@@ -145,7 +196,17 @@ De totale opgebouwde reserve mag op het einde van een bepaald werkingsjaar nooit
 
 ### ART. 24.
 
-§ 1. De aanleg van een reserve, opgebouwd uit subsidies in het kader van dit besluit, wordt toegestaan.<br /><br />Een reserve kan alleen aangewend worden om uitgaven te financieren die bijdragen tot de realisatie van de opdrachten en de taken, vermeld in dit besluit.<br /><br />De reserve wordt bepaald door de definitief verworven subsidie in het kader van dit besluit te verminderen met de door het agentschap aanvaarde uitgaven.<br /><br />§ 2. De totale opgebouwde reserve mag op het einde van een bepaald werkingsjaar nooit meer bedragen dan de helft van het geïndexeerde bedrag van de subsidie, vermeld in artikel 20, § 1, vastgelegd voor het werkingsjaar in kwestie.<br /><br />Als er geen verlenging van de erkenning wordt aangevraagd of verleend, wordt de reserve integraal ingebracht bij de bepaling en vereffening van de subsidie van het laatste erkenningsjaar. <br /><br />
+§ 1. Het is toegestaan een reserve aan te leggen die opgebouwd is uit subsidies in het kader van dit besluit.<br>
+<br>
+De reserve wordt bepaald door de definitief verworven subsidie in het kader van dit besluit te verminderen met de uitgaven die het Agentschap heeft aanvaard.<br>
+<br>
+De totale opgebouwde reserve mag op het einde van een bepaald werkingsjaar nooit meer bedragen dan de helft van het geïndexeerde bedrag van de subsidie, vermeld in artikel 20, § 1, dat vastgelegd is voor het werkingsjaar in kwestie.<br>
+<br>
+§ 2. Een reserve kan alleen aangewend worden om uitgaven te financieren die ertoe bijdragen de opdrachten en de taken, vermeld in dit besluit, te realiseren.<br>
+<br>
+§ 3. De mogelijkheid bestaat om naast de reservevorming een fonds voor sociaal passief op te bouwen. Met een fonds voor sociaal passief kan de voorziening het hoofd bieden aan toekomstige lasten in geval van ontslagen.<br>
+<br>
+§ 4. Als er geen verlenging van de erkenning wordt aangevraagd of verleend, worden de reserve en het fonds voor sociaal passief die in het kader van dit besluit zijn opgebouwd en die overblijven nadat de ontslagpremies zijn uitbetaald, integraal teruggestort.
 
 ### ART. 25.
 
@@ -171,7 +232,8 @@ De minister bepaalt welke gegevens minstens geregistreerd moeten worden om de op
 
 ### ART. 30.
 
-Het agentschap wordt belast met het toezicht op een SEL. Om het toezicht   uit te oefenen, kan het agentschap : <BR>1° indien nodig, aanvullende gegevens   aan een SEL vragen;<BR>2° bij een SEL of een kleinstedelijke afdeling van een   SEL een inspectie laten verrichten door Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het   besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement   Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van   regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein.<BR><BR>
+Het agentschap wordt belast met het toezicht op een SEL.<br>
+&nbsp;
 
 ## HOOFDSTUK X Wijzigingsbepalingen
 
@@ -183,7 +245,18 @@ In het besluit van de Vlaamse Regering van 21 december 1990 houdende coördinati
 
 ### ART. 32.
 
-Een erkenning als SEL kan op zijn vroegst op 1 januari 2010 ingaan.<br /><br />
+Een erkenning als SEL kan op zijn vroegst op 1 januari 2019 ingaan.<br>
+&nbsp;
+
+### ART 32/1.
+
+Een rechtspersoon of, in voorkomend geval, de Vlaamse Gemeenschapscommissie die op 31 december 2018 al erkend is als SEL of als geïntegreerde dienst voor thuisverzorging, hierna GDT te noemen, behoudt zijn erkenning of erkenningen overeenkomstig de regelgeving die op 31 december 2018 voor de erkenning in kwestie van toepassing was.<br>
+<br>
+In afwijking van het eerste lid voert elk erkend SEL en elke erkende GDT uiterlijk op 1 juli 2019 de opdrachten, vermeld in artikel 4, uit. Ze hoeven vanaf die datum de opdrachten die overeenkomstig de regelgeving op 31 december 2018 op hun erkenning van toepassing waren, niet meer uit te voeren.<br>
+<br>
+Een rechtspersoon of, in voorkomend geval, de Vlaamse Gemeenschapscommissie die op 31 december 2018 erkend is als SEL of als GDT, kan, uiterlijk tot en met 1 juli 2019, een aanvraag indienen om de erkenning als SEL of als GDT die aan hem verleend is voor 1 januari 2019, om te zetten in een erkenning als SEL, overeenkomstig de regelgeving die van toepassing is op het moment van de aanvraag.<br>
+<br>
+Een erkenning als SEL die verleend is overeenkomstig de regelgeving die van toepassing is vanaf 1 januari 2019, kan voor dezelfde rechtspersoon niet gecumuleerd worden met een erkenning als SEL of als GDT die verleend is vóór 1 januari 2019.
 
 ### ART. 33.
 
