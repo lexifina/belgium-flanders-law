@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Het geactualiseerde monitoringprogramma van de watertoestand, vermeld in artikel 67 en 69 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, opgenomen in&nbsp;bijlage 1,&nbsp;die bij dit besluit is gevoegd, wordt hierbij vastgesteld. De indeling, definities en presentatie van de oppervlaktewatertoestand zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd.
+Het geactualiseerde monitoringprogramma van de watertoestand, vermeld in artikel&nbsp;1.7.5.1 en 1.7.5.3&nbsp;van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, opgenomen in&nbsp;bijlage 1,&nbsp;die bij dit besluit is gevoegd, wordt hierbij vastgesteld. De indeling, definities en presentatie van de oppervlaktewatertoestand zijn opgenomen in bijlage 2, die bij dit besluit is gevoegd.
 
 ### ART. 1/1.
 
@@ -18,7 +18,7 @@ Dit besluit voorziet in de technische specificaties voor de chemische   analysen
 
 ### ART. 1/3.
 
-§ 1. Alle analysemethoden, met inbegrip van de laboratorium-, veld- en onlinemethoden, overeenkomstig de norm EN ISO/IEC 17025 of andere gelijkwaardige op internationaal niveau erkende normen, die worden gebruikt in de programma's voor de monitoring van de chemische watertoestand, vermeld in artikel 68 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, worden gevalideerd en gedocumenteerd.<br>
+§ 1. Alle analysemethoden, met inbegrip van de laboratorium-, veld- en onlinemethoden, overeenkomstig de norm EN ISO/IEC 17025 of andere gelijkwaardige op internationaal niveau erkende normen, die worden gebruikt in de programma's voor de monitoring van de chemische watertoestand, vermeld in artikel&nbsp;1.7.5.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, worden gevalideerd en gedocumenteerd.<br>
 <br>
 § 2. De minimale prestatiekenmerken voor alle gebruikte analysemethoden worden gebaseerd op een meetonzekerheid van ten hoogste 50% (k = 2), geschat op het niveau van relevante milieukwaliteitsnormen, en een bepalingsgrens van ten hoogste 30% van de relevante milieukwaliteitsnormen.<br>
 <br>
@@ -35,7 +35,7 @@ Als een berekende gemiddelde waarde van de meetresultaten onder de bepalingsgren
 § 4. De laboratoria of de door de laboratoria aangestelde personen hanteren methoden voor kwaliteitszorgsystemen die in overeenstemming zijn met de norm EN ISO/IEC 17025 of andere gelijkwaardige op internationaal niveau erkende normen.<br>
 <br>
 De laboratoria of de door de laboratoria aangestelde personen bewijzen hun bekwaamheid bij de analyse van relevante fysisch-chemische of chemische te meten grootheden door:<br>
-1° deel te nemen aan programma's voor geschiktheidsbeproeving waarin de analysemethoden, vermeld in paragraaf 1, worden behandeld van te meten grootheden op concentratieniveaus die representatief zijn voor de programma's voor de monitoring van de chemische watertoestand, vermeld in artikel 68 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+1° deel te nemen aan programma's voor geschiktheidsbeproeving waarin de analysemethoden, vermeld in paragraaf 1, worden behandeld van te meten grootheden op concentratieniveaus die representatief zijn voor de programma's voor de monitoring van de chemische watertoestand, vermeld in artikel&nbsp;1.7.5.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° beschikbare referentiematerialen te analyseren die representatief zijn voor verzamelde monsters die adequate concentratieniveaus bevatten, in vergelijking met de voor de minimale prestatiekenmerken bedoelde relevante milieukwaliteitsnormen.<br>
 <br>
 De programma's voor geschiktheidsbeproeving, vermeld in het tweede lid, 1°, worden georganiseerd door geaccrediteerde organisaties, internationaal of nationaal erkende organisaties die voldoen aan de normen van de ISO/IEC-leidraad 43-1 of van andere gelijkwaardige op internationaal niveau erkende normen. De resultaten van de deelname aan deze programma's worden beoordeeld op basis van de scoringsystemen, vermeld in de ISO/IEC-leidraad 43-1 of in de norm ISO 13528 of in andere gelijkwaardige op internationaal niveau erkende normen.
@@ -46,7 +46,7 @@ De programma's voor geschiktheidsbeproeving, vermeld in het tweede lid, 1°, wor
 <br>
 § 2. Voor stoffen waarvoor een milieukwaliteitsnorm voor sediment of biota wordt toegepast, wordt de stof ten minste één keer per jaar in de betrokken matrix gemonitord, tenzij de technische kennis of het oordeel van deskundigen een ander interval rechtvaardigt.<br>
 <br>
-§ 3. Voor de analyse van langetermijntendensen als vermeld in bijlage I, 1, 1.2., 5°, bij het decreet van 18 juli 2003 betreffende het integraal waterbeleid, wordt de meetfrequentie in sediment of biota zodanig vastgesteld dat ze voldoende gegevens voor een betrouwbare analyse oplevert. Als richtsnoer geldt dat de monitoring elke drie jaar wordt uitgevoerd, tenzij de technische kennis of het oordeel van deskundigen een ander interval rechtvaardigt.<br>
+§ 3. Voor de analyse van langetermijntendensen als vermeld in bijlage 1, 1, 1.2., 5°, bij het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wordt de meetfrequentie in sediment of biota zodanig vastgesteld dat ze voldoende gegevens voor een betrouwbare analyse oplevert. Als richtsnoer geldt dat de monitoring elke drie jaar wordt uitgevoerd, tenzij de technische kennis of het oordeel van deskundigen een ander interval rechtvaardigt.<br>
 <br>
 § 4. De stoffen die zich gedragen als alomtegenwoordige persistente, bio-accumulerende, toxische stoffen met de volgnummers (5), (21), (28), (30), (35), (37), (43) en (44), vermeld in de tabel bij artikel 3, de kolom "Europese context", van bijlage 2.3.1. bij het besluit van de Vlaamse regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne (titel II van het VLAREM), kunnen minder intensief gemonitord worden dan vereist voor prioritaire stoffen als vermeld in paragraaf 2 en bijlage 1, op voorwaarde dat de monitoring representatief is en er reeds een statistisch robuust referentiekader beschikbaar is met betrekking tot de aanwezigheid van die stoffen in het aquatische milieu. Als richtsnoer geldt dat de monitoring, conform paragraaf 3, elke drie jaar wordt uitgevoerd, tenzij de technische kennis of het oordeel van deskundigen een ander interval rechtvaardigt.<br>
 <br>
@@ -142,7 +142,7 @@ De KRLW is richtlijn 2000/60/EG van het Europees Parlement en de Raad van 23 okt
 <p>1.2 Het Decreet Integraal Waterbeleid (DIW)<br>
 De KRLW werd in Vlaamse wetgeving omgezet door middel van het Decreet Integraal Waterbeleid (Vlaams Parlement, 2003).</p>
 
-<p>In uitvoering van artikel 67 moest de Vlaamse Regering voor elk stroomgebieddistrict de programma's voor de monitoring van de watertoestand opstellen. De programma's moesten uiterlijk 22 december 2006 in uitvoering zijn. Artikel 68 van het DIW geeft een nadere omschrijving van de inhoud van de programma's voor de monitoring van de watertoestand.<br>
+<p>In uitvoering van artikel&nbsp;1.7.5.1 moest de Vlaamse Regering voor elk stroomgebieddistrict de programma's voor de monitoring van de watertoestand opstellen. De programma's moesten uiterlijk 22 december 2006 in uitvoering zijn. Artikel&nbsp;1.7.5.2 van het DIW geeft een nadere omschrijving van de inhoud van de programma's voor de monitoring van de watertoestand.<br>
 Artikel 68 DIW<br>
 De programma's bevatten:<br>
 1° voor oppervlaktewater:<br>
@@ -162,7 +162,7 @@ b) de kwantitatieve toestand.</p>
 1d) de aanvoer en afzetting van sedimenten (2);</p>
 
 <p>1.3 De context van het voorgestelde monitoringsprogramma<br>
-Het programma heeft alleen betrekking op de monitoringprogramma's in uitvoering van artikel 68 van het DIW. Het programma heeft geen betrekking op de meetverplichtingen in uitvoering van andere communautaire dan de KRLW of specifieke meetprogramma's. Het programma wordt opgesplitst in twee delen, met name een programma voor oppervlaktewater (I) en een programma voor grondwater (II).</p>
+Het programma heeft alleen betrekking op de monitoringprogramma's in uitvoering van artikel&nbsp;1.7.5.2 van het DIW. Het programma heeft geen betrekking op de meetverplichtingen in uitvoering van andere communautaire dan de KRLW of specifieke meetprogramma's. Het programma wordt opgesplitst in twee delen, met name een programma voor oppervlaktewater (I) en een programma voor grondwater (II).</p>
 
 <p>Het stroomgebiedbeheerplan moet o.m. omvatten een kaart van de voor de doeleinden van artikel 8 en bijlage&nbsp;2 gevormde monitoringnetwerken, en een presentatie in kaartvorm van de resultaten van de monitoringprogramma's die uit hoofde van die bepalingen zijn uitgevoerd voor de toestand van oppervlaktewater (ecologisch en chemisch) en grondwater (chemisch en kwantitatief);</p>
 
@@ -1919,7 +1919,7 @@ Per definitie bestaan er geen grensoverschrijdende grondwaterlichamen, wel grens
 <p>Om daaraan gevolg te kunnen geven worden veel meetpunten langs de grenszone van grensoverschrijdende watervoerende lagen bij de monitoring gebruikt. In het kader van de uitbreiding van het primair grondwatermeetnet van de VMM zijn dan ook bijkomende putten aan de rand van het gewest geïnstalleerd. Het op elkaar afstemmen van de monitoringsystemen is wenselijk. In elk geval moeten de monitoringgegevens van de buurlanden of buurtregio's beschikbaar zijn.</p>
 
 <p>3.2.5 Specifieke aanvullingen voor de monitoring van beschermde gebieden voor de winning van drinkwater<br>
-Speciaal toezicht is noodzakelijk voor de afgebakende DWPA's (Drinking Water Protection Areas - cf. artikel 71 DIW) of de drinkwaterbeschermingszones (type I + II + III) binnen de grondwaterlichamen. In die zones en de rechtstreekse omgeving ervan (bijv. intrekgebieden) kan met een hogere densiteit aan meetlocaties of met een hogere meetfrequentie worden gemeten.</p>
+Speciaal toezicht is noodzakelijk voor de afgebakende DWPA's (Drinking Water Protection Areas - cf. artikel&nbsp;1.7.6.1 DIW) of de drinkwaterbeschermingszones (type I + II + III) binnen de grondwaterlichamen. In die zones en de rechtstreekse omgeving ervan (bijv. intrekgebieden) kan met een hogere densiteit aan meetlocaties of met een hogere meetfrequentie worden gemeten.</p>
 
 <p>Voor het merendeel van de zones wordt de peilevolutie voor de onttrekkingslaag door de drinkwatermaatschappijen op basis van maandelijkse metingen verplicht opgevolgd en bijgehouden (Vlarem-vergunningen). Aanvullend kan gebruik worden gemaakt van putten in beheer van de overheid, onder andere om de werking van de onttrekking op aanpalende watervoerende lagen beter in te schatten.</p>
 
