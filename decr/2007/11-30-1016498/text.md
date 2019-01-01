@@ -8,13 +8,32 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br />
 
 ### ART. 2.
 
-Bij het Departement Cultuur, Jeugd en Media wordt een strategische adviesraad opgericht als vermeld in artikel 2 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden. De strategische adviesraad draagt de naam "Raad voor Cultuur, Jeugd, Sport en Media, afgekort SARC" en heeft tot taak om het Vlaams Parlement, de Vlaamse Regering of de individuele ministers te adviseren over strategische beleidsaangelegenheden die behoren tot het beleidsdomein Cultuur, Jeugd, Sport en Media. In afwijking van artikel 3, eerste lid, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden heeft de adviesraad geen rechtspersoonlijkheid.
+Bij het Departement Cultuur, Jeugd en Media wordt een strategische adviesraad opgericht als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018 . De strategische adviesraad draagt de naam "Raad voor Cultuur, Jeugd, Sport en Media, afgekort SARC" en heeft tot taak om het Vlaams Parlement, de Vlaamse Regering of de individuele ministers te adviseren over strategische beleidsaangelegenheden die behoren tot het beleidsdomein Cultuur, Jeugd, Sport en Media. De adviesraad heeft geen rechtspersoonlijkheid.
 
 ## HOOFDSTUK II Taakomschrijving
 
 ### ART. 3.
 
-§ 1. De Raad voor Cultuur, Jeugd, Sport en Media heeft de volgende opdrachten :<br />1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid met betrekking tot Cultuur, Jeugd, Sport en Media;<br />2° bijdragen tot de vorming van een beleidsvisie over Cultuur, Jeugd, Sport en Media;<br />3° de maatschappelijke ontwikkelingen op het vlak van Cultuur, Jeugd, Sport en Media volgen en interpreteren;<br />4° advies uitbrengen over voorontwerpen van decreet met betrekking tot Cultuur, Jeugd, Sport en Media;<br />5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet;<br />6° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering met betrekking tot Cultuur, Jeugd, Sport en Media;<br />7° reflecties leveren over de bij het Vlaams Parlement ingediende beleidsnota's en beleidsbrieven over Cultuur, Jeugd, Sport en Media;<br />8° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord inzake Cultuur, Jeugd, Sport en Media die de Vlaamse Gemeenschap wil sluiten met de staat of met andere gemeenschappen en gewesten;<br />9° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving inzake Cultuur, Jeugd, Sport en Media op het niveau van de federale overheid, de Europese Unie, alsook over internationale verdragen die voorbereid worden.<br /><br />§ 2. De Vlaamse Regering is verplicht om advies te vragen over :<br />1° de voorontwerpen van decreet, als vermeld in § 1, 4°;<br />2° de ontwerpen van besluit van de Vlaamse Regering, als vermeld in § 1, 6°, die van strategisch belang zijn en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn;<br />3° in afwijking van artikel 4, 2°, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden de ontwerpen van besluit die, binnen de taakomschrijving van de raad, onder de toepassing vallen van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt.<br /><br />§ 3. De Vlaamse Regering geeft duiding en toelichting aan de Raad voor Cultuur, Jeugd, Sport en Media over haar beslissing over de adviezen, vermeld in § 2.<br /><br />§ 4. Alle adviezen, uitgebracht door de Raad voor Cultuur, Jeugd, Sport en Media, zijn openbaar.<br /><br />
+§ 1. De Raad voor Cultuur, Jeugd, Sport en Media heeft de volgende opdrachten :<br>
+1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid met betrekking tot Cultuur, Jeugd, Sport en Media;<br>
+2° bijdragen tot de vorming van een beleidsvisie over Cultuur, Jeugd, Sport en Media;<br>
+3° de maatschappelijke ontwikkelingen op het vlak van Cultuur, Jeugd, Sport en Media volgen en interpreteren;<br>
+4° advies uitbrengen over voorontwerpen van decreet met betrekking tot Cultuur, Jeugd, Sport en Media;<br>
+5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet;<br>
+6° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering met betrekking tot Cultuur, Jeugd, Sport en Media;<br>
+7° reflecties leveren over de bij het Vlaams Parlement ingediende beleidsnota's en beleidsbrieven over Cultuur, Jeugd, Sport en Media;<br>
+8° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord inzake Cultuur, Jeugd, Sport en Media die de Vlaamse Gemeenschap wil sluiten met de staat of met andere gemeenschappen en gewesten;<br>
+9° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving inzake Cultuur, Jeugd, Sport en Media op het niveau van de federale overheid, de Europese Unie, alsook over internationale verdragen die voorbereid worden.<br>
+<br>
+§ 2. De Vlaamse Regering is verplicht om advies te vragen over :<br>
+1° de voorontwerpen van decreet, als vermeld in § 1, 4°;<br>
+2° de ontwerpen van besluit van de Vlaamse Regering, als vermeld in § 1, 6°, die van strategisch belang zijn en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn;<br>
+3° in afwijking van artikel III.94, § 2, eerste lid, van het Bestuursdecreet van 7 december 2018 de ontwerpen van besluit die, binnen de taakomschrijving van de raad, onder de toepassing vallen van de wet van 16 juli 1973 waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt.<br>
+<br>
+§ 3. De Vlaamse Regering geeft duiding en toelichting aan de Raad voor Cultuur, Jeugd, Sport en Media over haar beslissing over de adviezen, vermeld in § 2.<br>
+<br>
+§ 4. Alle adviezen, uitgebracht door de Raad voor Cultuur, Jeugd, Sport en Media, zijn openbaar.<br>
+&nbsp;
 
 ## HOOFDSTUK III Samenstelling en organisatie
 
@@ -28,11 +47,22 @@ De Raad voor Cultuur, Jeugd, Sport en Media wordt samengesteld uit vertegenwoord
 
 ### ART. 6.
 
-De leden van de Raad voor Cultuur, Jeugd, Sport en Media worden benoemd voor een termijn van vier jaar.<br /><br />De leden beschikken over de nodige kennis van het beleidsdomein of het beleidsveld en hebben ervaring met de conceptuele benadering ervan in de Vlaamse Gemeenschap. De vertegenwoordigers van het maatschappelijk middenveld zijn actief in een organisatie waarvan de hoofdactiviteit past binnen de bevoegdheden van de algemene raad of een sectorraad en relevant is voor het beleid van de Vlaamse Gemeenschap betreffende Cultuur, Jeugd, Sport en Media.<br /><br />Bij de samenstelling van de Raad voor Cultuur, Jeugd, Sport en Media worden de verplichtingen vermeld in artikel 7 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, nageleefd. Er moet ook rekening worden gehouden met de bepalingen over diversiteit in visieteksten en actieplannen van de Vlaamse Regering. Eveneens wordt ervoor gezorgd dat bestuursniveaus, werksoorten en initiatiefnemers op het gebied van Cultuur, Jeugd, Sport en Media vertegenwoordigd zijn.<br />
+De leden van de Raad voor Cultuur, Jeugd, Sport en Media worden benoemd voor een termijn van vier jaar.<br>
+<br>
+De leden beschikken over de nodige kennis van het beleidsdomein of het beleidsveld en hebben ervaring met de conceptuele benadering ervan in de Vlaamse Gemeenschap. De vertegenwoordigers van het maatschappelijk middenveld zijn actief in een organisatie waarvan de hoofdactiviteit past binnen de bevoegdheden van de algemene raad of een sectorraad en relevant is voor het beleid van de Vlaamse Gemeenschap betreffende Cultuur, Jeugd, Sport en Media.<br>
+<br>
+Bij de samenstelling van de Raad voor Cultuur, Jeugd, Sport en Media worden de verplichtingen vermeld in artikel III.58, eerste lid, van het Bestuursdecreet van 7 december 2018, nageleefd. Er moet ook rekening worden gehouden met de bepalingen over diversiteit in visieteksten en actieplannen van de Vlaamse Regering. Eveneens wordt ervoor gezorgd dat bestuursniveaus, werksoorten en initiatiefnemers op het gebied van Cultuur, Jeugd, Sport en Media vertegenwoordigd zijn.
 
 ### ART. 7.
 
-§ 1. De leden van de Raad voor Cultuur, Jeugd, Sport en Media oefenen hun functie uit in volledige onafhankelijkheid ten opzichte van de Vlaamse overheid of van hun werkgever of bestuursorganen waarin zij zitten.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen in artikel 8 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, is het lidmaatschap van de algemene raad en van de sectorraden onverenigbaar met :<br />1° het lidmaatschap van advies- en beoordelingscommissies die ingesteld zijn binnen het beleidsdomein Cultuur, Jeugd, Sport en Media;<br />2° de hoedanigheid van personeelslid van steunpunten of instellingen met een vergelijkbare opdracht, die opgericht, erkend of gesubsidieerd worden door de Vlaamse Regering en die actief zijn binnen het beleidsdomein Cultuur, Jeugd, Sport en Media.<br /><br />§ 3. Specifiek voor de sectorraad Media is de uitoefening in hoofdberoep van om het even welke functie in een mediabedrijf of -instelling onverenigbaar met de hoedanigheid van onafhankelijke deskundige.<br /><br />
+§ 1. De leden van de Raad voor Cultuur, Jeugd, Sport en Media oefenen hun functie uit in volledige onafhankelijkheid ten opzichte van de Vlaamse overheid of van hun werkgever of bestuursorganen waarin zij zitten.<br>
+<br>
+§ 2. Met behoud van de toepassing van de bepalingen in artikel III.97 van het Bestuursdecreet van 7 december 2018, is het lidmaatschap van de algemene raad en van de sectorraden onverenigbaar met :<br>
+1° het lidmaatschap van advies- en beoordelingscommissies die ingesteld zijn binnen het beleidsdomein Cultuur, Jeugd, Sport en Media;<br>
+2° de hoedanigheid van personeelslid van steunpunten of instellingen met een vergelijkbare opdracht, die opgericht, erkend of gesubsidieerd worden door de Vlaamse Regering en die actief zijn binnen het beleidsdomein Cultuur, Jeugd, Sport en Media.<br>
+<br>
+§ 3. Specifiek voor de sectorraad Media is de uitoefening in hoofdberoep van om het even welke functie in een mediabedrijf of -instelling onverenigbaar met de hoedanigheid van onafhankelijke deskundige.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -62,7 +92,16 @@ De Vlaamse Regering stelt de presentiegelden en de vergoedingen van de leden vas
 
 ### ART. 14.
 
-In afwijking van artikel 11 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, regelt de Raad voor Cultuur, Jeugd, Sport en Media de interne werking, evenals de bevoegdheden van het vast bureau en van de secretaris die de leiding heeft over het secretariaat in een huishoudelijk reglement. <br /><br />Een ontwerp van huishoudelijk reglement wordt drie maanden na de samenstelling van de Raad voor Cultuur, Jeugd, Sport en Media aan de Vlaamse Regering ter goedkeuring bezorgd.<br /><br />Het huishoudelijk reglement bepaalt de afspraken en de onderlinge afstemming tussen de Raad voor Cultuur, Jeugd, Sport en Media en de Vlaamse Jeugdraad voor alle materies en adviestaken betreffende het jeugdbeleid en de jeugdwerksector.<br /><br />De algemene raad en elke sectorraad kunnen rechtstreeks adviezen geven.<br /><br />Als de sectorraden over dezelfde materie adviezen uitbrengen, zorgt de algemene raad voor een gecoördineerd advies waarbij alle standpunten weergegeven worden.<br /><br />
+In afwijking van artikel III.99 van het Bestuursdecreet van 7 december 2018, regelt de Raad voor Cultuur, Jeugd, Sport en Media de interne werking, evenals de bevoegdheden van het vast bureau en van de secretaris die de leiding heeft over het secretariaat in een huishoudelijk reglement.<br>
+<br>
+Een ontwerp van huishoudelijk reglement wordt drie maanden na de samenstelling van de Raad voor Cultuur, Jeugd, Sport en Media aan de Vlaamse Regering ter goedkeuring bezorgd.<br>
+<br>
+Het huishoudelijk reglement bepaalt de afspraken en de onderlinge afstemming tussen de Raad voor Cultuur, Jeugd, Sport en Media en de Vlaamse Jeugdraad voor alle materies en adviestaken betreffende het jeugdbeleid en de jeugdwerksector.<br>
+<br>
+De algemene raad en elke sectorraad kunnen rechtstreeks adviezen geven.<br>
+<br>
+Als de sectorraden over dezelfde materie adviezen uitbrengen, zorgt de algemene raad voor een gecoördineerd advies waarbij alle standpunten weergegeven worden.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -70,13 +109,15 @@ De artikelen 12, 13, 14 en 16 zijn van toepassing op de werking van de Raad voor
 
 ### ART. 16.
 
-Met behoud van de toepassing van artikel 15 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, bepaalt het protocol de afspraken over de informatie-uitwisseling met de advies- en beoordelingscommissies, vermeld in artikel 7, § 2, 1°.<br /><br />
+Met behoud van de toepassing van artikel III.102 van het Bestuursdecreet van 7 december 2018, bepaalt het protocol de afspraken over de informatie-uitwisseling met de advies- en beoordelingscommissies, vermeld in artikel 7, § 2, 1°.<br>
+&nbsp;
 
 ## HOOFDSTUK V Programmering en verslaggeving
 
 ### ART. 17.
 
-Voor de programmering en de verslaggeving van de werkzaamheden van de Raad voor Cultuur, Jeugd, Sport en Media is hoofdstuk V van het decreet van 18 juli 2003 tot regeling van strategische adviesraden van toepassing.<br /><br />
+Voor de programmering en de verslaggeving van de werkzaamheden van de Raad voor Cultuur, Jeugd, Sport en Media zijn de artikelen III.105 en III.106 van het Bestuursdecreet van 7 december 2018 van toepassing.<br>
+&nbsp;
 
 ## HOOFDSTUK VI Overgang van personeel, goederen, rechten en verplichtingen
 
