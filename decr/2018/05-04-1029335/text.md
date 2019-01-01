@@ -59,6 +59,63 @@ Artikel 5 is van overeenkomstige toepassing op de overdracht van risico-gronden 
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 7.
+
+<br>
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, toegevoegd bij het decreet van 22 december 2017, worden de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>NEVELE</td>
+			<td>199 375,72</td>
+			<td>0,1522 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>DEINZE</td>
+			<td>554 897,89</td>
+			<td>0,4236 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt vervangen door wat volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>DEINZE</td>
+			<td>754 273,61</td>
+			<td>0,5757 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### ART 8.
+
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, wordt in de rubriek Provincie Oost-Vlaanderen de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Nevele</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">opgeheven.</span></span>
+
 ## HOOFDSTUK 6 Inwerkingtreding
 
 ### ART 9.
