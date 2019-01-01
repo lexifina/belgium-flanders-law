@@ -138,7 +138,9 @@ Het Vlaams Expertisecentrum voor Opvoedingsondersteuning kan lokale   samenwerki
 
 ### ART. 20.
 
-<P>De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen   van dit decreet en zijn uitvoeringsbesluiten.<BR></P>  <P>De Vlaamse Regering wijst de entiteit aan die de Huizen van het Kind   inspecteert. De personeelsleden van die entiteit hebben toegang tot iedere   vestigingsplaats van een Huis van het Kind, met dien verstande dat slechts de   ruimtes of lokalen die bestemd zijn voor activiteiten in het kader van het Huis   van het Kind die door Kind en Gezin worden erkend of gesubsidieerd of die met   die activiteiten in verband staan onderworpen zijn aan het toezicht.<BR></P>  <P>De betrokken actoren, vermeld in het tweede lid, verlenen hun medewerking aan   de uitoefening van het toezicht. Ze stellen aan de personeelsleden, vermeld in   het tweede lid, alle gegevens ter beschikking die voor het toezicht noodzakelijk   zijn. Ze staan de personeelsleden toe om ter plaatse de naleving van de   bepalingen van dit decreet en zijn uitvoeringsbesluiten te verifiëren. Van hun   vaststellingen maken de personeelsleden, vermeld in het tweede lid, een verslag   op. Het verslag heeft bewijswaarde tot het tegenbewijs.<BR></P>
+<p>De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten.</p>
+
+<p>&nbsp;</p>
 
 ## Hoofdstuk 7 Wijzigingsbepalingen
 
