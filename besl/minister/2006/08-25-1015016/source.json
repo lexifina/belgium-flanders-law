@@ -2,16 +2,16 @@
   "codex_id": 1015016,
   "title": "Ministerieel besluit van 2006-08-25 tot bepaling van de standaard voor de titel van verhuizer-inpakker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015016/VolledigDocument?datum=2006-10-06",
-  "source_sha256": "8de39eee185eeaae6f6d33756bf8c671ffeb1d77b53ec527721653c46571c82e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015016/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "a830254231d42ecaef621194c0fd1a8c95fa599927a6246bd334b29ec0123aa8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015016&param=informatie",
-  "as_of": "2006-10-06",
+  "as_of": "2019-01-01",
   "made": "2006-08-25",
   "gazette": "2006-10-06",
   "numac": 2006036403,
   "document_start": "2006-10-06",
   "document_end": "2018-12-31",
-  "in_force": "2006-10-06",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-10-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
