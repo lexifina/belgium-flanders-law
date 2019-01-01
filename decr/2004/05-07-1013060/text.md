@@ -8,13 +8,22 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<BR><BR>1° het Kaderdecreet: het   Kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>2° de Vlaamse   Trainersschool : het samenwerkingsverband tussen het agentschap Sport   Vlaanderen, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de   Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse   sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen;<BR>3°   eigen centra: de Vlaamse sportinfrastructuren die eigendom zijn van het   agentschap of door het agentschap zelf beheerd en geëxploiteerd worden;<BR>4°   ...;<BR>5° Nationale Antidopingorganisatie Vlaanderen, afgekort NADO Vlaanderen   : de administratie van de Vlaamse Gemeenschap die bevoegd is voor de uitvoering   van het antidopingbeleid.<BR>
+In dit decreet wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° de Vlaamse Trainersschool : het samenwerkingsverband tussen het agentschap Sport Vlaanderen, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen;<br>
+3° eigen centra: de Vlaamse sportinfrastructuren die eigendom zijn van het agentschap of door het agentschap zelf beheerd en geëxploiteerd worden;<br>
+4° ...;<br>
+5° Nationale Antidopingorganisatie Vlaanderen, afgekort NADO Vlaanderen : de administratie van de Vlaamse Gemeenschap die bevoegd is voor de uitvoering van het antidopingbeleid.
 
 ## HOOFDSTUK II OMVORMING
 
 ### ART. 3.
 
-Het agentschap Sport Vlaanderen is een intern verzelfstandigd agentschap   met rechtspersoonlijkheid, bedoeld bij artikel 10 van het Kaderdecreet. Het   agentschap draagt als naam "Sport Vlaanderen".<BR><BR>De Vlaamse regering   bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<BR><BR>De   bepalingen van het kaderdecreet zijn van toepassing op het agentschap Sport   Vlaanderen.
+Het agentschap Sport Vlaanderen is een intern verzelfstandigd agentschap met rechtspersoonlijkheid, bedoeld bij artikel III.4 van het Bestuursdecreet. Het agentschap draagt als naam "Sport Vlaanderen".<br>
+<br>
+De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap Sport Vlaanderen.
 
 ## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
 
@@ -57,7 +66,36 @@ De Vlaamse regering regelt het bestuur en de werking van het agentschap.
 
 ### ART. 7.
 
-<P>§ 1. Het agentschap Sport Vlaanderen kan beschikken over de volgende   ontvangsten :<BR>1° dotaties, met inbegrip van de dotatie voor de werking van   NADO Vlaanderen;<BR>2° inkomsten uit eigen participaties en uit door het   agentschap verstrekte leningen aan derden;<BR>3° leningen van allerlei aard,   onder de voorwaarden, door de Vlaamse Regering bepaald;<BR>4° opbrengsten van de   eigen activiteiten, alsook de vergoeding van diensten die door het agentschap   Sport Vlaanderen in het kader van zijn taak, vermeld in artikel 5 van dit   decreet, worden gepresteerd, alsook de ontvangsten uit de verkoop van eigen   publicaties;<BR>5° ontvangsten die voortvloeien uit daden van beheer of daden   van beschikking met betrekking tot de eigen roerende en onroerende   goederen;<BR>6° opbrengsten uit de verkoop van eigen participaties;<BR>7°   inkomsten uit sponsoring, coproducties en cofinanciering;<BR>8° de   terugvordering van ten onrechte verrichte betalingen;<BR>9° subsidies waarvoor   het agentschap als begunstigde in aanmerking komt;<BR>10° schenkingen en   legaten;<BR>11° vergoedingen voor prestaties aan derden, volgens de   modaliteiten, bepaald in het ondernemingsplan;<BR>12° opbrengsten van   administratieve geldboeten en terugbetalingen van de kosten, vermeld in artikel   41 en 45 van het Antidopingdecreet van 25 mei 2012, en de vergoedingen die   antidopingorganisaties en sportverenigingen betalen om middelen ter beschikking   te stellen voor de uitvoering en afhandeling van de dopingcontroles, vermeld in   artikel 17/1 van het voormelde decreet;<BR>13° administratieve geldboeten inzake   sportaangelegenheden, andere dan deze vermeld in punt 12°.<BR><BR>In het eerste   lid, 11°, wordt verstaan onder ondernemingsplan : het ondernemingsplan, vermeld   in artikel 5/1 van het Kaderdecreet.<BR><BR>Tenzij het anders is bepaald in een   decreet, worden de ontvangsten, vermeld in het eerste lid, beschouwd als   ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<BR><BR>De dotatie   voor de werking van NADO Vlaanderen, vermeld in het eerste lid, 1°, en de   ontvangsten, vermeld in het eerste lid, 12°, kunnen alleen worden aangewend voor   de werking van NADO Vlaanderen.<BR><BR>Het hoofd van het agentschap beoordeelt   vooraf de opportuniteit en de risico's die verbonden zijn aan de aanvaarding van   schenkingen en legaten als vermeld in het eerste lid, 10°.<BR><BR>§ 2. Het   agentschap wordt gemachtigd een reservefonds aan te leggen. In de begroting is   het reservefonds toegewezen aan het hele agentschap.<BR><BR>Het agentschap mag   de middelen in het reservefonds voor de volgende taken aanwenden :<BR>1° de   taken, vermeld in artikel 5;<BR>2° de verwerving en het beheer van patrimonium   dat wordt aangewend voor de realisatie van de taken, vermeld in artikel   5.<BR><BR>Het spijzen van het reservefonds is afhankelijk van een machtiging   door het Vlaams Parlement in de jaarlijkse begroting. Die machtiging kan alleen   betrekking hebben op het deel van de uitgavenkredieten dat in de begroting aan   het agentschap wordt toegekend en dat in het begrotingsjaar zelf niet wordt   aangewend.</P>
+<p>§ 1. Het agentschap Sport Vlaanderen kan beschikken over de volgende ontvangsten :<br>
+1° dotaties, met inbegrip van de dotatie voor de werking van NADO Vlaanderen;<br>
+2° inkomsten uit eigen participaties en uit door het agentschap verstrekte leningen aan derden;<br>
+3° leningen van allerlei aard, onder de voorwaarden, door de Vlaamse Regering bepaald;<br>
+4° opbrengsten van de eigen activiteiten, alsook de vergoeding van diensten die door het agentschap Sport Vlaanderen in het kader van zijn taak, vermeld in artikel 5 van dit decreet, worden gepresteerd, alsook de ontvangsten uit de verkoop van eigen publicaties;<br>
+5° ontvangsten die voortvloeien uit daden van beheer of daden van beschikking met betrekking tot de eigen roerende en onroerende goederen;<br>
+6° opbrengsten uit de verkoop van eigen participaties;<br>
+7° inkomsten uit sponsoring, coproducties en cofinanciering;<br>
+8° de terugvordering van ten onrechte verrichte betalingen;<br>
+9° subsidies waarvoor het agentschap als begunstigde in aanmerking komt;<br>
+10° schenkingen en legaten;<br>
+11° vergoedingen voor prestaties aan derden, volgens de modaliteiten, bepaald in het ondernemingsplan;<br>
+12° opbrengsten van administratieve geldboeten en terugbetalingen van de kosten, vermeld in artikel 41 en 45 van het Antidopingdecreet van 25 mei 2012, en de vergoedingen die antidopingorganisaties en sportverenigingen betalen om middelen ter beschikking te stellen voor de uitvoering en afhandeling van de dopingcontroles, vermeld in artikel 17/1 van het voormelde decreet;<br>
+13° administratieve geldboeten inzake sportaangelegenheden, andere dan deze vermeld in punt 12°.<br>
+<br>
+In het eerste lid, 11°, wordt verstaan onder ondernemingsplan : het ondernemingsplan, vermeld in artikel III.61 van het Bestuursdecreet.<br>
+<br>
+Tenzij het anders is bepaald in een decreet, worden de ontvangsten, vermeld in het eerste lid, beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+<br>
+De dotatie voor de werking van NADO Vlaanderen, vermeld in het eerste lid, 1°, en de ontvangsten, vermeld in het eerste lid, 12°, kunnen alleen worden aangewend voor de werking van NADO Vlaanderen.<br>
+<br>
+Het hoofd van het agentschap beoordeelt vooraf de opportuniteit en de risico's die verbonden zijn aan de aanvaarding van schenkingen en legaten als vermeld in het eerste lid, 10°.<br>
+<br>
+§ 2. Het agentschap wordt gemachtigd een reservefonds aan te leggen. In de begroting is het reservefonds toegewezen aan het hele agentschap.<br>
+<br>
+Het agentschap mag de middelen in het reservefonds voor de volgende taken aanwenden :<br>
+1° de taken, vermeld in artikel 5;<br>
+2° de verwerving en het beheer van patrimonium dat wordt aangewend voor de realisatie van de taken, vermeld in artikel 5.<br>
+<br>
+Het spijzen van het reservefonds is afhankelijk van een machtiging door het Vlaams Parlement in de jaarlijkse begroting. Die machtiging kan alleen betrekking hebben op het deel van de uitgavenkredieten dat in de begroting aan het agentschap wordt toegekend en dat in het begrotingsjaar zelf niet wordt aangewend.</p>
 
 ## HOOFDSTUK VI SAMENWERKING
 
