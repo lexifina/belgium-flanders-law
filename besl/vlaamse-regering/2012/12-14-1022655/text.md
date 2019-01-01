@@ -24,7 +24,7 @@
 1° de metagegevens worden ingediend met de toepassing die het agentschap ter beschikking stelt;<br>
 2° de geografische gegevensbron en de geografische dienst voldoen aan de technische voorwaarden, overeenkomstig artikel 28 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen.</p>
 
-<p>Het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid,&nbsp;oordeelt of de koppeling van de geografische gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is voor de taken van algemeen belang van de instanties.</p>
+<p>Het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018,&nbsp;oordeelt of de koppeling van de geografische gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is voor de taken van algemeen belang van de instanties.</p>
 
 <p>De geografische gegevensbronnen en geografische diensten in beheer van een derde partij, moeten voor een periode van minstens drie jaar gekoppeld worden aan het netwerk.</p>
 
@@ -62,7 +62,7 @@ De toegang tot en het gebruik van geografische gegevensbronnen en   geografische
 
 ### ART. 8.
 
-<p>§ 1. De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de toegang tot de geografische gegevensbronnen en geografische diensten, gekoppeld aan het netwerk, beperken als die toegang een gevaar oplevert voor de volgende aangelegenheden :<br>
+<p>§ 1. De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, de toegang tot de geografische gegevensbronnen en geografische diensten, gekoppeld aan het netwerk, beperken als die toegang een gevaar oplevert voor de volgende aangelegenheden :<br>
 1° het vertrouwelijke karakter van de internationale betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap en van de betrekkingen van het Vlaamse Gewest of de Vlaamse Gemeenschap met de supranationale instellingen, met de Federale Staat en met andere gemeenschappen en gewesten;<br>
 2° de openbare veiligheid en de nationale defensie;<br>
 3° de rechtspleging in een strafrechtelijk, burgerlijk, administratief of sociaalrechtelijk rechtsgeding.</p>
@@ -81,7 +81,7 @@ De toegang tot en het gebruik van geografische gegevensbronnen en   geografische
 
 <p>De derde partij zal het agentschap op de hoogte brengen van haar verzoek. Indien het agentschap niet binnen drie maanden zijn verplichtingen nakomt, zal de ontkoppeling effectief plaatsvinden.</p>
 
-<p>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, in de volgende gevallen :<br>
+<p>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op voorstel van&nbsp;het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, in de volgende gevallen :<br>
 1° als de geografische gegevensbron of geografische dienst niet langer voldoet aan de technische vereisten, vermeld in artikel 27 van het GDI-decreet van 20 februari 2009;<br>
 2° als de metagegevens niet worden bijgehouden.</p>
 
