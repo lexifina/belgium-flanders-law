@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />2° de minister: de Vlaamse minister, bevoegd voor het economisch beleid.
+In dit besluit wordt verstaan onder:<br>
+1°...;<br>
+2° de minister: de Vlaamse minister, bevoegd voor het economisch beleid.
 
 ## HOOFDSTUK II Benaming, doel en taakstelling van het agentschap
 
@@ -56,7 +58,7 @@ Het agentschap ressorteert onder het hiërarchisch gezag van de minister.
 
 ### ART. 7.
 
-<P>De minister stuurt het agentschap aan conform de modaliteiten, vermeld in   artikel 8 van het kaderdecreet bestuurlijk beleid van 18 juli   2003.</P>
+...
 
 ### ART. 8.
 
