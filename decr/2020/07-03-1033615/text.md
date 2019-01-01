@@ -27,6 +27,14 @@ In artikel 134, § 1, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 
 
 ## HOOFDSTUK 8. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 71.
+
+In bijlage IV bij hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in REGIO III wordt het woord "Puurs" vervangen door het woord "Puurs-SintAmands" en wordt het woord "Sint-Amands" opgeheven;<br>
+2° in REGIO VII wordt het woord "Meeuwen-Gruitrode" vervangen door het woord "Oudsbergen", worden de woorden "Neerpelt", "Opglabbeek" en "Overpelt" opgeheven en wordt tussen het woord "Peer" en het woord "Tessenderlo" het woord "Pelt" ingevoegd;<br>
+3° in REGIO X wordt de naam "Kruishoutem" vervangen door het woord "Kruisem" en wordt het woord "Zingem" opgeheven;<br>
+4° in REGIO XI wordt het woord "Knesselare" vervangen door het woord "Lievegem" en worden de woorden "Lovendegem", "Nevele", "Waarschoot" en "Zomergem" opgeheven.
+
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ### ART 84.
@@ -66,6 +74,10 @@ In artikel II.170, § 2, van dezelfde codex, vervangen bij het decreet van 8 dec
 1° in het tweede lid wordt tussen de zinsnede "vermeld in artikel II.78 tot en met II.100," en de woorden "bevat die lijst per instelling" de zinsnede "artikel II.100/1, II.100/2 en artikel II.113, § 4, vierde lid," ingevoegd;<br>
 2° er wordt een negende lid toegevoegd, dat luidt als volgt:<br>
 "Bij de informatieverstrekking over het opleidingsaanbod en bij de studiebekrachtiging hanteert een instellingsbestuur minstens de benamingen en gegevens over de opleidingen en afstudeerrichtingen die zijn vastgelegd in de lijst, vermeld in deze paragraaf. Aan de regeringscommissarissen wordt in het kader van de wettelijkheidscontrole die ze uitvoeren de specifieke toezichtstaak gegeven om deze informatieverstrekking systematisch te screenen. Eventueel dienen ze conform artikel IV.97 tot en met IV.99 een met redenen omkleed beroep in bij de Vlaamse Regering.".
+
+### ART 159.
+
+In artikel III.42/1, § 1, tweede lid, van dezelfde codex, ingevoegd bij het decreet van 4 mei 2018, wordt tussen de zinsnede "98,39 euro wordt" en de woorden "aangepast aan de evolutie van de gezondheidsindex" de zinsnede "tot en met het begrotingsjaar 2019" ingevoegd.
 
 ### ART 161.
 
