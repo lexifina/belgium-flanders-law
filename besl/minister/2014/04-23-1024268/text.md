@@ -84,24 +84,19 @@ De rechtzetting na een saldoafrekening gebeurt als volgt bij het voorschot   van
 <p>§ 1. De organisator bezorgt maximaal maandelijks aan Kind en Gezin de volgende gegevens per kinderopvanglocatie, voor de subsidie voor inkomenstarief:<br>
 1° de gegevens over het dagelijkse gebruik van kinderopvang, op basis van de unieke identificatiegegevens van de baby of peuter;<br>
 2° het aantal openingsdagen;<br>
-3° het aantal gerechtvaardigde afwezigheidsdagen en het aantal afwezigheidsdagen dat niet gerechtvaardigd is, op basis van de unieke identificatiegegevens van de baby of peuter.</p>
-
-<p>De organisator bezorgt maximaal maandelijks aan Kind en Gezin de volgende gegevens op basis van de unieke identificatiegegevens van de baby of peuter en per kinderopvanglocatie, voor de subsidie flexibele urenpakketten groepsopvang en de subsidie flexibele gezinsopvang:<br>
-1° de gegevens over het dagelijkse gebruik van kinderopvang tussen 6 uur en 20 uur;<br>
-2° de gegevens over het dagelijkse gebruik van kinderopvang 's nachts;<br>
-3° de gegevens over het dagelijkse gebruik van kinderopvang van elf uur of meer per dag;<br>
-4° het aantal gerechtvaardigde afwezigheidsdagen en het aantal afwezigheidsdagen dat niet gerechtvaardigd is.<br>
+3° het aantal gerechtvaardigde afwezigheidsdagen en het aantal afwezigheidsdagen dat niet gerechtvaardigd is, op basis van de unieke identificatiegegevens van de baby of peuter.<br>
 <br>
 § 2. De organisator bezorgt maximaal jaarlijks aan Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
 1° voor de subsidie voor inkomenstarief: per uniek geregistreerd kind alle kenmerken van voorrang, vermeld in artikel 22 en 23 van het Subsidiebesluit van 22 november 2013, waaraan het voldoet;<br>
 2° voor de plussubsidie: per uniek geregistreerd kind dat behoort tot een kwetsbaar gezin, de kenmerken van het kwetsbaar gezin, vermeld in artikel 1, 10°, en artikel 38 van het Subsidiebesluit van 22 november 2013;<br>
 3° voor de subsidie voor inclusieve kinderopvang: de gegevens over het dagelijkse gebruik van kinderen met een specifieke zorgbehoefte op basis van de unieke identificatiegegevens van de baby of peuter met een specifieke zorgbehoefte;<br>
-4° voor de subsidie flexibele gezinsopvang: het aantal kinderopvangprestaties op flexibele openingstijden per tijdstip.<br>
+4° voor de subsidie flexibele gezinsopvang: het aantal kinderopvangprestaties op flexibele openingstijden per tijdstip;<br>
+5° voor de subsidie voor ruimere openingsmomenten: het aantal geplande kindaanwezigheden op ruimere openingsmomenten, opgedeeld in kindaanwezigheden voor 7 uur, na 18 uur, op een zaterdag, op een zon- of feestdag;<br>
+6° voor de subsidie voor dringende kinderopvang: per kalenderjaar het aantal unieke kinderen voor wie de opvang op een dringende opvangplaats is opgestart, opgedeeld per reden, als vermeld in artikel 40/12 van het Subsidiebesluit van 22 november 2013.<br>
 <br>
 § 3. De organisator bezorgt op verzoek van Kind en Gezin de volgende gegevens per kinderopvanglocatie:<br>
 1° voor de basissubsidie: het aantal openingsdagen en het aantal uniek opgevangen kinderen in een kalenderjaar;<br>
-2° voor de subsidie flexibele groepsopvang: het aantal uren kinderopvang op flexibele openingstijden per tijdstip;<br>
-3° voor de subsidie flexibele urenpakketten groepsopvang: het aantal kindaanwezigheden op flexibele openingstijden per tijdstip..</p>
+2° voor de subsidie voor dringende kinderopvang: per kind dat gebruikgemaakt heeft van de dringende kinderopvang en er niet meer van gebruikmaakt, hoelang dat kind gebruikgemaakt heeft van de dringende opvangplaats, alsook of het kind nadien is doorgestroomd naar de reguliere opvang en, als dat laatste het geval is, of dat naar de eigen reguliere opvang of een andere opvang was..</p>
 
 ## TITEL 2 Basissubsidie
 
