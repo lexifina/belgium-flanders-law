@@ -23,8 +23,8 @@ In dit decreet wordt verstaan onder :<br />1° SERV : de Sociaal-Economische Raa
 ### ART. 5.
 
 § 1. Binnen de perken van het jaarlijks goedgekeurde begrotingskrediet en volgens de voorwaarden bepaald in dit decreet en de uitvoeringsbesluiten ervan, kan de Vlaamse Regering aan de volgende sociale-economieondernemingen een subsidie toekennen :<br>
-1° de sociale werkplaatsen, vermeld in artikel 3 van het decreet van 14 juli 1998 inzake sociale werkplaatsen;<br>
-2° de beschutte werkplaatsen, vermeld in artikel 79 van het decreet van 23 december 2005 tot begeleiding van de begroting 2006;<br>
+1° de maatwerkbedrijven, vermeld in artikel 3, 5°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
+2° de maatwerkafdelingen, vermeld in artikel 3, 4°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 3° de lokalediensteneconomieondernemingen, vermeld in artikel 3, 5°, van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 4° de invoegbedrijven, vermeld in titel II van het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie en vermeld in artikel 4 van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven;<br>
 5° de coöperatieve vennootschappen die overeenkomstig de wet van 20 juli 1955 zijn erkend door de Nationale Raad van de Coöperatie als ze voldoen aan de voorwaarden, vermeld in artikel 4 van dit decreet;<br>
