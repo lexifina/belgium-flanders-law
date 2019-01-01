@@ -2,16 +2,16 @@
   "codex_id": 1013949,
   "title": "Decreet van 2005-07-15 Gemeentedecreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013949/VolledigDocument?datum=2018-12-31",
-  "source_sha256": "0230f6c3bfcdac7d46a47c0e6e58e76fc8ad09fd3c2f62600c70047cb294229f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013949/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8419fd9567cb5205a3f1d11b3acdb42d203d2bcc25d8ad81ae5ed96a0794cf8c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013949&param=informatie",
-  "as_of": "2018-12-31",
+  "as_of": "2019-01-01",
   "made": "2005-07-15",
   "gazette": "2005-08-31",
   "numac": 2005036063,
   "document_start": "2007-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2018-12-31",
-  "article_versions": 334,
-  "record_form": "consolidated version as in force on 2018-12-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 336,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
