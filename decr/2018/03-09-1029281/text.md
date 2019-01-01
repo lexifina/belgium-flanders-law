@@ -885,7 +885,11 @@ Per traject in een structuuronderdeel worden de leerlingen altijd afzonderlijk g
 <br>
 § 3. De resultaten van de berekeningen, vermeld in paragraaf 1 en 2, worden afgerond naar het hogere geheel getal als het eerste cijfer na de komma groter is dan vier en naar het lagere geheel getal als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier.<br>
 <br>
-§ 4. In afwijking van paragraaf 1 en 2 is de teldag voor de berekening van de lestijden voor de structuuronderdelen van academies in oprichting 1 oktober van het lopende schooljaar. Die teldag geldt voor de hele academie vanaf het schooljaar van oprichting en de elf daaropvolgende schooljaren.<br>
+§ 4. In afwijking van paragraaf 1 en 2 is de teldag voor de berekening van de lestijden voor de structuuronderdelen van academies in oprichting en van domeinen waarvan de oprichting gestart is vóór 31 augustus 2018 1 oktober van het lopende schooljaar.<br>
+<br>
+In het geval van de oprichting van een academie geldt die teldag voor de hele academie vanaf het schooljaar van oprichting tot en met de elf daaropvolgende schooljaren.<br>
+<br>
+In het geval van de oprichting van een domein waarvan de oprichting gestart is vóór 31 augustus 2018 geldt die teldag enkel voor het domein in kwestie tot en met het schooljaar waarin alle leerjaren van de verschillende graden van het domein zijn uitgebouwd conform artikel 157.<br>
 <br>
 § 5. De Vlaamse Regering bepaalt de ambten en de salarisschalen waarin een academie met de lestijden, vermeld in paragraaf 1, 2 en 4, betrekkingen kan organiseren en de wijze waarop de omrekening gebeurt van de lestijden, vermeld in paragraaf 1, 2 en 4, naar die betrekkingen worden omgerekend.<br>
 &nbsp;
@@ -1083,14 +1087,14 @@ S = de solidariteitsfactor = 1 - (A/B),<br>
 waarbij :<br>
 1° A : de lestijden voor het schooljaar X/X+1, berekend conform artikel 69 en 70, met toepassing van solidariteitsfactor 1, van alle structuuronderdelen van het domein beeldende en audiovisuele kunsten in vestigingsplaatsen die op 1 februari van het voorafgaande schooljaar nog in oprichting zijn conform artikel 114 tot en met 118;<br>
 2° B : het totale aantal lestijden voor het domein beeldende en audiovisuele kunsten voor het schooljaar X/X+1, berekend conform artikel 69 en 70, met toepassing van solidariteitsfactor 1;<br>
-3° in afwijking van artikel 69 is de teldag voor de berekening van de solidariteitsfactor voor academies in oprichting, conform artikel 114, 1 februari van het voorgaande schooljaar.<br>
+3° in afwijking van artikel 69 is de teldag voor de berekening van de solidariteitsfactor voor academies in oprichting conform artikel 114 en voor domeinen waarvan de oprichting gestart is vóór 31 augustus 2018 conform artikel 157 1 februari van het voorgaande schooljaar.<br>
 <br>
 § 3. De solidariteitsfactor voor het geheel van de domeinen dans, woordkunst-drama en muziek wordt berekend volgens de formule :<br>
 S = de solidariteitsfactor = 1 - (C/D),<br>
 waarbij :<br>
 1° C : de lestijden voor het schooljaar X/X+1, berekend conform artikel 69 en 70, met toepassing van solidariteitsfactor 1, van alle structuuronderdelen van de domeinen dans, drama-woordkunst en muziek in vestigingsplaatsen die op 1 februari van het voorafgaande schooljaar nog in oprichting zijn conform artikel 114 tot en met 118;<br>
 2° D : het totale aantal lestijden van de domeinen dans, drama-woordkunst en muziek voor het schooljaar X/X+1, berekend conform artikel 69 en 70, met toepassing van solidariteitsfactor 1;<br>
-3° in afwijking van artikel 69 is de teldag voor de berekening van de solidariteitsfactor voor academies in oprichting, conform artikel 114, 1 februari van het voorgaande schooljaar.<br>
+3° in afwijking van artikel 69 is de teldag voor de berekening van de solidariteitsfactor voor academies in oprichting conform artikel 114 en voor domeinen waarvan de oprichting gestart is vóór 31 augustus 2018 conform artikel 157 1 februari van het voorgaande schooljaar.<br>
 <br>
 § 4. Voor de toepassing van paragraaf 2 en 3 worden de lestijden voor het schooljaar X/X+1, berekend conform artikel 69 en 70, voor het structuuronderdeel domeinoverschrijdende initiatieopleiding in vestigingsplaatsen die op 1 februari van het voorafgaande schooljaar nog in oprichting zijn, conform artikel 114 tot en met 118, vermenigvuldigd met 0,25, opgeteld bij de berekening van A en B en vermenigvuldigd met 0,75, opgeteld bij de berekening van C en D.<br>
 <br>
