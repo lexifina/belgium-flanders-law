@@ -85,6 +85,27 @@
 <span style="color: rgb(0, 0, 0);">Art. 6/3. De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding bezorgt via elektronische weg aan de instelling die belast is met de inning en de invordering van de socialezekerheidsbijdragen, alle gegevens die die instelling nodig heeft om op een geautomatiseerde manier het recht op de doelgroepvermindering voor de oudere niet-werkende werkzoekenden, vermeld in artikel 6/1, te beoordelen.".</span><br>
 &nbsp;
 
+### ART 3.
+
+<span style="color: rgb(0, 0, 0);">In artikel 8 van hetzelfde besluit, gewijzigd bij het koninklijk besluit van 28 maart 2007, wordt de zinsnede "De artikelen 9, 9bis en 12 van dit besluit zijn" vervangen door de zinsnede "Het artikel 9bis van dit besluit is".</span>
+
+### ART 4.
+
+<span style="color: rgb(0, 0, 0);">Artikel 9 van hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 17 juli 2013, 21 januari 2014 en 26 januari 2014, opgeheven.</span><br>
+&nbsp;
+
+### ART 5.
+
+<span style="color: rgb(0, 0, 0);">In artikel 10 van hetzelfde besluit, gewijzigd bij het koninklijk besluit van 28 maart 2007, wordt de zinsnede "artikelen 9 en 9bis" telkens vervangen door de zinsnede "artikel 9bis".</span><br>
+&nbsp;
+
+### ART 6.
+
+<span style="color: rgb(0, 0, 0);">In artikel 11 van hetzelfde besluit, gewijzigd bij de koninklijke besluiten van 21 januari 2004 en 28 maart 2007, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0);">1° de zinsnede "Voor de toepassing van artikelen 9 en 9bis" wordt vervangen door de zinsnede "Voor de toepassing van artikel 9bis";</span><br>
+<span style="color: rgb(0, 0, 0);">2° de zinsnede "van respectievelijk de voormelde artikelen 9 en 9bis" wordt vervangen door de zinsnede ", vermeld artikel 9bis".</span><br>
+&nbsp;
+
 ### ART 7.
 
 <span style="color: rgb(0, 0, 0);">Artikel 12 van hetzelfde besluit, gewijzigd bij het koninklijk besluit van 21 januari 2004, wordt opgeheven.</span><br>
@@ -134,6 +155,14 @@
 <span style="color: rgb(0, 0, 0);">§ 4. De werkgever of werknemer die de juistheid van de gegevens, vermeld in paragraaf 3, betwist, kan bij het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie een aanvraag tot wijziging indienen, waarbij hij de nodige bewijsstukken aanlevert.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">Het voormelde departement kan alle noodzakelijk gegevensbronnen raadplegen met het oog op de verwerking van de aanvraag.".</span><br>
+&nbsp;
+
+### ART 13.
+
+<span style="color: rgb(0, 0, 0);">In hetzelfde besluit, het laatst gewijzigd bij het koninklijk besluit van 26 januari 2016, worden de volgende artikelen opgeheven :</span><br>
+<span style="color: rgb(0, 0, 0);">1° artikel 28/1, ingevoegd bij het koninklijk besluit van 16 juli 2004, vervangen bij het koninklijk besluit van 28 maart 2007 en gewijzigd bij het koninklijk besluit van 22 april 2009;</span><br>
+<span style="color: rgb(0, 0, 0);">2° artikel 28/1bis, ingevoegd bij het koninklijk besluit van 28 juni 2009 en gewijzigd bij de wet van 30 december 2009 en het koninklijk besluit van 13 augustus 2011;</span><br>
+<span style="color: rgb(0, 0, 0);">3° artikel 28/1ter, ingevoegd bij het koninklijk besluit van 3 februari 2010.</span><br>
 &nbsp;
 
 ## HOOFDSTUK 2 De Vlaamse ondersteuningspremie
@@ -326,6 +355,20 @@
 
 ## HOOFDSTUK 3 Slotbepalingen
 
+### ART 19.
+
+<span style="color: rgb(0, 0, 0);">In het koninklijk besluit van 19 december 2001 tot bevordering van de tewerkstelling van langdurig werkzoekenden worden de volgende artikelen opgeheven :</span><br>
+<span style="color: rgb(0, 0, 0);">1° artikel 7, vervangen bij het koninklijk besluit van 16 mei 2003 en het laatst gewijzigd bij het koninklijk besluit van 26 januari 2014;</span><br>
+<span style="color: rgb(0, 0, 0);">2° artikel 10, vervangen bij het koninklijk besluit van 16 mei 2003 en het laatst gewijzigd bij het koninklijk besluit van 30 september 2012.</span><br>
+&nbsp;
+
+### ART 20.
+
+<span style="color: rgb(0, 0, 0);">In het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering worden de volgende artikelen opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0);">1° artikel 78 ter, ingevoegd bij het koninklijk besluit van 9 juni 1997 en gewijzigd bij de koninklijke besluiten van 15 juli 1998 en 7 juni 2013;</span><br>
+<span style="color: rgb(0, 0, 0);">2° artikel 131 quater, ingevoegd bij het koninklijk besluit van 9 juni 1997, vervangen bij het koninklijk besluit van 15 juli 1998 en gewijzigd bij het koninklijk besluit van 13 juli 2001.</span><br>
+&nbsp;
+
 ### ART 21.
 
 <span style="color: rgb(0, 0, 0);">De volgende regelingen worden opgeheven :</span><br>
@@ -384,7 +427,9 @@ b) 7178,76 euro als de werknemer op de dag van de indiensttreding jonger dan der
 
 ### ART 28.
 
-<span style="color: rgb(0, 0, 0);">Voor jonge werknemers die uiterlijk op 30 juni 2016 in dienst zijn getreden, behouden werkgevers een doelgroepvermindering tot uiterlijk 31 december 2018 volgens de voorwaarden, vermeld in artikel 18 en 20 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, zoals van kracht vóór de inwerkintreding van dit besluit.</span><br>
+<span style="color: rgb(0, 0, 0);">Voor jonge werknemers die uiterlijk op 30 juni 2016 in dienst zijn getreden, behouden werkgevers een doelgroepvermindering tot uiterlijk 31 december 2018 volgens de voorwaarden, vermeld in artikel 18 en 20 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, zoals van kracht vóór de inwerkintreding van dit besluit.<br>
+<br>
+Ter uitvoering van artikel 18, § 4, van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen wordt bij de hertewerkstelling bij dezelfde werkgever geen onderscheid gemaakt tussen tewerkstellingen die begonnen zijn voor en na 1 juli 2016.</span><br>
 &nbsp;
 
 ### ART 28/1.
