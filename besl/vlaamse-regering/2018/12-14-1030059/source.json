@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030059,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-14 houdende de wijziging van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013, wat betreft de belasting op de spelen en weddenschappen en op de automatische ontspanningstoestellen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030059/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "ae26f37c4d8f64b0e68fa7b040230137bfb77af9497746f2079347f18d4aea5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030059&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-14",
+  "gazette": "2018-12-28",
+  "numac": 2018015609,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
