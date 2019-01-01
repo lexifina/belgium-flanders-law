@@ -8,7 +8,11 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° het Kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° het Havendecreet : het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens.<br /><br />Tenzij anders is bepaald, hebben de begrippen die in dit decreet worden gebruikt de betekenis die aan die begrippen gegeven wordt in het Havendecreet.
+In dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° het Havendecreet : het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens.<br>
+<br>
+Tenzij anders is bepaald, hebben de begrippen die in dit decreet worden gebruikt de betekenis die aan die begrippen gegeven wordt in het Havendecreet.
 
 ## HOOFDSTUK II. Machtiging tot oprichting van de nv Vlaamse Havens
 
@@ -16,7 +20,11 @@ In dit decreet wordt verstaan onder :<br />1° het Kaderdecreet : het kaderdecre
 
 ### ART. 3.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om namens het Vlaamse Gewest, onder de voorwaarden bepaald in dit decreet, de naamloze vennootschap Vlaamse Havens, hierna de NV Vlaamse Havens genoemd, op te richten dan wel mee te werken aan de oprichting ervan. De NV Vlaamse Havens is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als bedoeld in artikel 29 van het Kaderdecreet. De bepalingen van het Kaderdecreet zijn van toepassing op de NV Vlaamse Havens.<br /><br />§ 2. De statuten van de NV Vlaamse Havens en elke wijziging daaraan, worden ter kennisgeving voorgelegd aan de Vlaamse Regering en medegedeeld aan het Vlaams Parlement.<br /><br />§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.
+§ 1. De Vlaamse Regering wordt gemachtigd om namens het Vlaamse Gewest, onder de voorwaarden bepaald in dit decreet, de naamloze vennootschap Vlaamse Havens, hierna de NV Vlaamse Havens genoemd, op te richten dan wel mee te werken aan de oprichting ervan. De NV Vlaamse Havens is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als vermeld in artikel III.14 van het Bestuursdecreet. De bepalingen van het&nbsp;Bestuursdecreet zijn van toepassing op de NV Vlaamse Havens.<br>
+<br>
+§ 2. De statuten van de NV Vlaamse Havens en elke wijziging daaraan, worden ter kennisgeving voorgelegd aan de Vlaamse Regering en medegedeeld aan het Vlaams Parlement.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.
 
 ## Afdeling II. Missie, taken en bevoegdheden
 
@@ -32,11 +40,17 @@ De NV Vlaamse Havens moet jaarlijks een financiële planning opstellen voor de r
 
 ### ART. 6.
 
-§ 1. De Vlaamse Regering is gemachtigd om personeelsleden van de Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's, zoals omschreven in het Kaderdecreet, overeenkomstig te bepalen regelen ter beschikking te stellen van de NV Vlaamse Havens.<br /><br />§ 2. De Vlaamse Regering kan tevens infrastructuur overeenkomstig te bepalen regelen ter beschikking stellen van de nv Vlaamse Havens en haar dochterondernemingen. De terbeschikkingstelling geldt slechts tot wederopzegging, zonder dat hieruit schadeloosstelling jegens het Vlaamse Gewest kan worden geëist door de NV Vlaamse Havens of haar dochterondernemingen.<br /><br />§ 3. De Vlaamse Regering, voor het Vlaamse Gewest, en de NV Vlaamse Havens en haar dochterondernemingen kunnen, in het kader van de missie en de doelstellingen van de NV Vlaamse Havens, zoals bepaald in artikel 4 van dit decreet, zakelijke rechten vestigen op de onroerende goederen die behoren tot het openbaar domein, voor zover de te vestigen zakelijke rechten niet kennelijk onverenigbaar zijn met de bestemming van deze goederen.
+§ 1. De Vlaamse Regering is gemachtigd om personeelsleden van de Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's, zoals omschreven in het Bestuursdecreet, overeenkomstig te bepalen regelen ter beschikking te stellen van de NV Vlaamse Havens.<br>
+<br>
+§ 2. De Vlaamse Regering kan tevens infrastructuur overeenkomstig te bepalen regelen ter beschikking stellen van de nv Vlaamse Havens en haar dochterondernemingen. De terbeschikkingstelling geldt slechts tot wederopzegging, zonder dat hieruit schadeloosstelling jegens het Vlaamse Gewest kan worden geëist door de NV Vlaamse Havens of haar dochterondernemingen.<br>
+<br>
+§ 3. De Vlaamse Regering, voor het Vlaamse Gewest, en de NV Vlaamse Havens en haar dochterondernemingen kunnen, in het kader van de missie en de doelstellingen van de NV Vlaamse Havens, zoals bepaald in artikel 4 van dit decreet, zakelijke rechten vestigen op de onroerende goederen die behoren tot het openbaar domein, voor zover de te vestigen zakelijke rechten niet kennelijk onverenigbaar zijn met de bestemming van deze goederen.
 
 ### ART. 7.
 
-De NV Vlaamse Havens en de Vlaamse Regering sluiten een samenwerkingsovereenkomst zoals bedoeld in artikel 31 van het Kaderdecreet.<br /><br />De samenwerkingsovereenkomst bepaalt ten minste de krachtlijnen van de uit te voeren taken, de informatie- en rapportageverplichtingen inzake de taken en de financiële situatie, de door de NV Vlaamse Havens voor elke nieuwe zeesluis op te richten dochteronderneming, de voorwaarden tot eventuele terbeschikkingstelling aan de NV Vlaamse Havens of haar dochterondernemingen van personeelsleden, infrastructuur of andere middelen, de nadere bepalingen betreffende het beheer, het toezicht en de werking van de NV Vlaamse Havens, de duur, opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.
+De NV Vlaamse Havens en de Vlaamse Regering sluiten een samenwerkingsovereenkomst zoals bedoeld in artikel III.16 van het Bestuursdecreet.<br>
+<br>
+De samenwerkingsovereenkomst bepaalt ten minste de krachtlijnen van de uit te voeren taken, de informatie- en rapportageverplichtingen inzake de taken en de financiële situatie, de door de NV Vlaamse Havens voor elke nieuwe zeesluis op te richten dochteronderneming, de voorwaarden tot eventuele terbeschikkingstelling aan de NV Vlaamse Havens of haar dochterondernemingen van personeelsleden, infrastructuur of andere middelen, de nadere bepalingen betreffende het beheer, het toezicht en de werking van de NV Vlaamse Havens, de duur, opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.
 
 ### ART. 8.
 
