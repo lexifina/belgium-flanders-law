@@ -6,11 +6,11 @@
 
 ### ART. 1.
 
-Het formulier houdende het verzoek tot het organiseren van een   volksraadpleging, vermeld in artikel 207 van het Gemeentedecreet van 15 juli   2005, wordt opgesteld overeenkomstig het model, opgenomen in bijlage 1 (a en b),   die bij dit besluit is gevoegd.<BR>
+...
 
 ### ART. 2.
 
-Het formulier houdende het verzoek tot het organiseren van een   volksraadpleging, vermeld in artikel 293 van het Gemeentedecreet van 15 juli   2005, wordt opgesteld overeenkomstig het model, opgenomen in bijlage 2 (a en b),   die bij dit besluit is gevoegd.<BR>
+...
 
 ### ART. 3.
 
@@ -18,7 +18,7 @@ Het formulier houdende het verzoek tot het organiseren van een   volksraadplegin
 
 ### ART. 4.
 
-<P>Het model van het formulier, vermeld in artikel 1, 2 en 3, bestaat uit twee   delen: het verzoekschrift en de petitielijst. <BR></P>  <P>Het is voldoende dat aan de bevolking alleen de petitielijst wordt aangeboden   ter ondertekening. <BR></P>
+...
 
 ### ART. 5.
 
