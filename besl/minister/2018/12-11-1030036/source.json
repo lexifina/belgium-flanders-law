@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030036,
+  "title": "Ministerieel besluit van 2018-12-11 tot vaststelling van de formulieren voor de aanvraag van een toestemming wegens therapeutische noodzaak",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030036/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8aec69b99aab274e0809eb2863840728397ee99a7f621c18f299c9539c0ef8d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030036&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-11",
+  "gazette": "2018-12-24",
+  "numac": 2018015385,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
