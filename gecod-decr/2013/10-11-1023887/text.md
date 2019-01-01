@@ -1440,13 +1440,15 @@ In het erkenningsbesluit, vermeld in het eerste lid, worden de volgende punten o
 2° in geval van een nieuwe initiële bachelor- of masteropleiding de naam (de graad en de kwalificatie van de graad) van de opleiding die afgebouwd wordt of de vermelding dat de Commissie Hoger Onderwijs een positief oordeel heeft gegeven over de aanvraag tot vrijstelling van de verplichte afbouw;<br>
 3° het academiejaar vanaf wanneer de nieuwe opleiding aangeboden kan worden.<br>
 <br>
-Vanaf het academiejaar wanneer de nieuwe opleiding aangeboden wordt, kan het instellingsbestuur geen nieuwe studenten meer inschrijven in de opleiding die afgebouwd wordt.
+Vanaf het academiejaar wanneer de nieuwe opleiding aangeboden wordt, kan het instellingsbestuur geen nieuwe studenten meer inschrijven in de opleiding die afgebouwd wordt.<br>
+<br>
+De bepalingen van het tweede lid, 2°, en het tweede lid, 5°, zijn niet van toepassing op de andere ambtshalve geregistreerde instellingen.
 
 ### ART. II.153.
 
 <p style="margin-right: 0cm; margin-left: 0cm;">§1. Een in artikel II.152, eerste lid bedoeld besluit van de Vlaamse Regering komt tot stand overeenkomstig de procedure die in dit artikel chronologisch wordt omschreven.<br>
 <br>
-De regelen bepaald in&nbsp;paragraaf 2, 3, 3/1, 4, 5 en 6, eerste lid zijn niet van toepassing op de geregistreerde instellingen. Zij dienen onmiddellijk een dossier in bij de accreditatieorganisatie, rekening houdend met het bepaalde in paragraaf 6, derde lid. Dit geldt ook voor de ambtshalve geregistreerde instellingen die in overeenstemming met artikel II.103 een nieuwe opleiding buiten het Belgische grondgebied willen starten. Dat geldt ook voor de educatieve graduaatsopleidingen, vermeld in artikel II.112, en de educatieve masteropleidingen, vermeld in artikel II.114, die met ingang van het academiejaar 2019-2020 aangeboden worden door de hogescholen en universiteiten. De hogescholen en universiteiten dienen hun dossier bij de accreditatieorganisatie in uiterlijk vóór 15 oktober van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden. De Vlaamse Regering kan het gehanteerde toetsingskader, vermeld in paragraaf 7, voor deze opleidingen aanpassen.<br>
+De regelen bepaald in&nbsp;paragraaf 2, 3, 3/1, 4, 5 en 6, eerste lid zijn niet van toepassing op de geregistreerde instellingen. Zij dienen onmiddellijk een dossier in bij de accreditatieorganisatie, rekening houdend met het bepaalde in paragraaf 6, derde lid. Dit geldt ook voor de ambtshalve geregistreerde instellingen die in overeenstemming met artikel II.103 een nieuwe opleiding buiten het Belgische grondgebied willen starten. Dat geldt ook voor de educatieve graduaatsopleidingen, vermeld in artikel II.112, en de educatieve masteropleidingen, vermeld in artikel II.114, die met ingang van het academiejaar 2019-2020 aangeboden worden door de hogescholen en universiteiten. De hogescholen en universiteiten dienen hun dossier bij de accreditatieorganisatie in uiterlijk vóór 15 oktober van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden. De Vlaamse Regering kan het gehanteerde toetsingskader, vermeld in paragraaf 7, voor deze opleidingen aanpassen. De regels, vermeld in paragraaf 2, paragraaf 3, 6°, en paragraaf 3/1, zijn niet van toepassing op de andere ambtshalve geregistreerde instellingen. De andere ambtshalve geregistreerde instellingen dienen onmiddellijk een dossier in bij de Commissie Hoger Onderwijs voor 1 maart van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden.<br>
 <br>
 De Vlaamse Regering kan het nadere verloop van de in dit artikel omschreven procedure uitwerken.<br>
 <br>
@@ -1469,7 +1471,7 @@ Om dit advies aan te leveren stellen de VLIR en de VLHORA een procedure vast, af
 5° een inschatting van de mate van verwevenheid en verwantschap van de nieuwe opleiding ten aanzien van het bestaande aanbod;<br>
 6° de inhoud van het advies van de VLIR of de VLHORA, met aandacht voor de regionale spreiding en wenselijke fijnmazigheid van het aanbod.<br>
 <br>
-De Commissie Hoger Onderwijs onderzoekt expliciet alle criteria, omschrijft per criterium haar bevindingen en motiveert haar positieve of negatieve oordeel over de macrodoelmatigheid van het ingediende dossier.<br>
+De Commissie Hoger Onderwijs onderzoekt expliciet alle criteria, omschrijft per criterium haar bevindingen en motiveert haar positieve of negatieve oordeel over de macrodoelmatigheid van het ingediende dossier. Voor de andere ambtshalve geregistreerde instellingen wordt in het oordeel van de Commissie Hoger Onderwijs geen rekening gehouden met het criterium, vermeld in paragraaf 1, 6°.<br>
 <br>
 De Commissie Hoger Onderwijs brengt haar oordeel over de ingediende aanvragen uiterlijk uit op 1 juni van het kalenderjaar dat voorafgaat aan het academiejaar waarin de instelling de opleiding op zijn vroegst wil aanbieden.<br>
 <br>
@@ -1698,7 +1700,7 @@ Voor de opleidingen van het hoger beroepsonderwijs en de bachelor- en de mastero
 9° de studieomvang van de opleiding.<br>
 <br>
 Voor de opleidingen van het hoger beroepsonderwijs, de bachelor- en masteropleidingen die door de andere ambtshalve geregistreerde instellingen of door de geregistreerde instellingen worden aangeboden, bevat de lijst per instelling de volgende gegevens:<br>
-1° het studiegebied, een deel van een studiegebied of studiegebieden waarbinnen een opleiding wordt ondergebracht;<br>
+1° indien van toepassing het studiegebied, een deel van het studiegebied of studiegebieden waarbinnen een opleiding wordt ondergebracht;<br>
 2° de graad van de opleiding;<br>
 3° de kwalificatie van de graad van de opleiding;<br>
 4° de vermelding dat de opleiding een graduaatsopleiding is, een initiële bachelor-opleiding, een bachelor-na-bacheloropleiding, een initiële masteropleiding of een master-na-masteropleiding;<br>
@@ -2650,7 +2652,21 @@ De Vlaamse Regering voert elke vijf jaar een evaluatie uit naar mogelijke   vere
 
 ### ART. II.273.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Het bestuur en de student   sluiten door de inschrijving een toetredingsovereenkomst.<?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het bestuur bezorgt het   e-mailadres dat de student bij de instelling heeft aan de bevoegde dienst van de   Vlaamse Gemeenschap. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. Het bestuur bepaalt en   wijzigt de algemene voorwaarden van de overeenkomst, met inachtname van de   participatierechten van de studentenraad, zoals bedoeld in Hoofdstuk 4, van deze   titel.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Deze algemene voorwaarden   worden vastgelegd in:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>1°&nbsp;&nbsp; het onderwijs- en   examenreglement;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1; tab-stops: list 18.0pt"   class=MsoNormal>2°&nbsp;&nbsp; de rechtspositieregeling van   de student, waarin ten minste worden opgenomen:</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-list: l1 level1 lfo2; tab-stops: list 36.0pt"   class=MsoNormal>a)&nbsp;&nbsp;&nbsp;   de   wederzijdse rechten en plichten van het bestuur en de student en de gevolgen van   de niet-naleving daarvan,</P>  <P   style="TEXT-INDENT: -17.85pt; MARGIN: 0cm 0cm 0pt 35.7pt; mso-list: l1 level1 lfo2; tab-stops: list 36.0pt"   class=MsoNormal>b)&nbsp;&nbsp;&nbsp;   de   wegwijsinformatie bedoeld in artikel 29, §1, van het decreet van 26 maart 2004   betreffende de openbaarheid van bestuur.</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. Het bestuur en de student sluiten door de inschrijving een toetredingsovereenkomst.<!--?xml:namespace prefix   = o ns = "urn:schemas-microsoft-com:office:office" /--></p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">Het bestuur bezorgt het e-mailadres dat de student bij de instelling heeft aan de bevoegde dienst van de Vlaamse Gemeenschap.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§2. Het bestuur bepaalt en wijzigt de algemene voorwaarden van de overeenkomst, met inachtname van de participatierechten van de studentenraad, zoals bedoeld in Hoofdstuk 4, van deze titel.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">Deze algemene voorwaarden worden vastgelegd in:</p>
+
+<p style="margin-right: 0cm; margin-left: 18pt;">1°&nbsp;&nbsp; het onderwijs- en examenreglement;</p>
+
+<p style="margin-right: 0cm; margin-left: 18pt;">2°&nbsp;&nbsp; de rechtspositieregeling van de student, waarin ten minste worden opgenomen:</p>
+
+<p style="margin-right: 0cm; margin-left: 36pt;">a)&nbsp;&nbsp;&nbsp; de wederzijdse rechten en plichten van het bestuur en de student en de gevolgen van de niet-naleving daarvan,</p>
+
+<p style="margin-right: 0cm; margin-left: 35.7pt;">b)&nbsp;&nbsp;&nbsp; de wegwijsinformatie bedoeld in artikel II.5, van het Bestuursdecreet van 7 december 2018.</p>
 
 ### ART. II.274.
 
@@ -2684,7 +2700,7 @@ In het kader van redelijke aanpassingen kunnen studenten die omwille van hun fun
 
 ### ART. II.277.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Het bestuur treedt ten aanzien   van de studenten op als bestuursinstantie voor wat betreft de toepassing van het   decreet van 26 maart 2004 betreffende de openbaarheid van   bestuur.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+<p style="margin-right: 0cm; margin-left: 0cm;">Het bestuur treedt ten aanzien van de studenten op als bestuursinstantie voor wat betreft de toepassing van het titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018.<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /--></p>
 
 ### ART. II.278.
 
@@ -3427,6 +3443,48 @@ In afwijking van het bepaalde in het eerste lid, 1°, worden de bachelor-na-bach
 In afwijking van artikel II.129, § 1, eerste lid, van de Codex Hoger   Onderwijs rondt de accreditatieorganisatie het proces van de instellingsreviews   in de eerste ronde gezamenlijk af vóór 1 september 2017 met een besluit per   instelling. Die besluiten worden samen met de rapporten bekendgemaakt. De   procedures bedoeld in artikel II.129, § 3, kunnen nooit leiden tot een   overschrijding van die termijn.
 
 ## [Hoofdstuk 9 Overgangsbepalingen voor de inbedding van de graduaatsopleidingen in de hogescholen (ing. decr. 4 mei 2018, art. 152, I: 1 september 2019)]
+
+### ART II.395.
+
+§ 1. De accreditatieorganisatie adviseert over de toets nieuwe opleiding voor de omvorming van bestaande hbo5-opleidingen uiterlijk op 15 april voor de aanvragen die uiterlijk op 30 november van het voorafgaande kalenderjaar zijn ingediend, en uiterlijk op 30 oktober voor de aanvragen die uiterlijk op 31 mei van hetzelfde kalenderjaar zijn ingediend.<br>
+<br>
+De accreditatieorganisatie adviseert over de toets nieuwe opleiding voor de omvorming van bestaande hbo5-opleidingen uiterlijk op 15 juni 2019 voor de aanvragen die uiterlijk op 15 februari 2019 zijn ingediend.<br>
+<br>
+§ 2. [... vernietigd bij <a href="https://www.const-court.be/public/n/2020/2020-152n.pdf">arrest 2020/152</a>&nbsp;van het Grondwettelijk Hof van 19 november 2020]<br>
+<br>
+§ 3. De Hogeschool West-Vlaanderen kan uit de lijst van bestaande hbo5-opleidingen op de data, vermeld in de eerste paragraaf, in totaal maximaal één aanvraag indienen voor een toets nieuwe opleiding bij de accreditatieorganisatie voor een graduaatsopleiding zonder de verplichting om een bestaande hbo5-opleiding om te vormen, maar met de verplichting om een aanvraag macrodoelmatigheidstoets bij de Commissie Hoger Onderwijs in te dienen.<br>
+<br>
+In dit geval bevat het aanvraagdossier voor de macrodoelmatigheidstoets de volgende informatie en documenten :<br>
+1° de informatie, vermeld in artikel II.152, tweede lid, 1°, a) tot en met m);<br>
+2° een dossier dat de Commissie Hoger Onderwijs in staat stelt de toetsing aan de criteria, vermeld in artikel II.153, § 3, eerste lid, uit te voeren.<br>
+<br>
+De Hogeschool West-Vlaanderen bezorgt voor de in het eerste lid bedoelde aanvraag het aanvraagdossier voor de macrodoelmatigheidstoets tevens aan de VLHORA. De VLHORA stelt voor deze aanvraag een advies als vermeld in artikel II.152, tweede lid, 2°, op. Ze bezorgt het advies aan de Commissie Hoger Onderwijs uiterlijk :<br>
+1° op 31 januari voor de aanvraag die uiterlijk op 30 november bij de accreditatieorganisatie is ingediend;<br>
+2° op 15 juli voor de aanvraag die uiterlijk op 31 mei bij de accreditatieorganisatie is ingediend;<br>
+3° 30 dagen na de indiening van de aanvraag voor de aanvraag die uiterlijk op 15 februari 2019 bij de accreditatieorganisatie is ingediend.<br>
+<br>
+De Commissie Hoger Onderwijs brengt over de in het eerste lid bedoelde aanvraag een oordeel uit over de macrodoelmatigheid overeenkomstig artikel 153, § 3, eerste, tweede en vierde lid. Indien het advies van de VLHORA niet tijdig wordt verstrekt, dan brengt de Commissie Hoger Onderwijs een oordeel over de macrodoelmatigheid uit op basis van de criteria, vermeld in artikel II.153, § 3, eerste lid, 1° tot en met 5°.<br>
+<br>
+De Commissie Hoger Onderwijs brengt haar oordeel over de in het eerste lid bedoelde aanvragen uit uiterlijk :<br>
+1° op 28 februari voor de aanvraag die uiterlijk op 30 november bij de accreditatieorganisatie is ingediend;<br>
+2° op 1 september voor de aanvraag die uiterlijk op 31 mei bij de accreditatieorganisatie is ingediend;<br>
+3° binnen de 60 dagen na de indiening van de aanvraag voor de aanvraag die uiterlijk op 15 februari 2019 is ingediend.<br>
+<br>
+Als het oordeel van de Commissie Hoger Onderwijs over de macrodoelmatigheid van een in het eerste lid bedoelde aanvraag negatief is of niet tijdig wordt verstrekt, kan de beroepsprocedure, vermeld in artikel II.153, § 4 en § 5, gevolgd worden.<br>
+<br>
+Als het oordeel van de Commissie Hoger Onderwijs over de macrodoelmatigheid van een in het eerste lid bedoelde aanvraag of de beslissing van de Vlaamse Regering na het beroep, vermeld in het zesde lid, positief is, evenals het toetsingsbesluit van de accreditatieorganisatie, dan neemt de Vlaamse Regering het besluit houdende erkenning van deze nieuwe opleiding binnen een ordetermijn van 30 dagen, die ingaat de dag na de dag van de ontvangst van het positieve toetsingsbesluit en het onderliggende beoordelingsrapport van de accreditatieorganisatie.<br>
+<br>
+§ 4. De accreditatieorganisatie bezorgt uiterlijk één maand vóór het verstrijken van de termijn een ontwerp van toetsingsrapport aan de instelling, die de mogelijkheid krijgt om opmerkingen te formuleren.<br>
+<br>
+Het instellingsbestuur kan het onderdeel van de aanvraag voor de toets nieuwe opleiding intrekken uiterlijk binnen een termijn van 20 dagen, die ingaat de dag na de ontvangst van het ontwerp. Het instellingsbestuur beschikt over een termijn van 60 dagen om het onderdeel van de aanvraag voor de toets nieuwe opleiding opnieuw in te dienen bij de accreditatieorganisatie. De termijn van 60 dagen gaat in op de dag na de intrekking van de initiële aanvraag.<br>
+<br>
+De termijnen, die lopen vanaf de datum waarop de aanvraag uiterlijk ingediend moet zijn tot en met de datum waarop de accreditatieorganisatie uiterlijk haar advies uitbrengt, worden in geval van intrekking van het onderdeel van de aanvraag voor de toets nieuwe opleiding geschorst vanaf de intrekking van het onderdeel van de aanvraag tot en met de datum van de betekening van de herindiening ervan.<br>
+<br>
+§ 5. De Vlaamse Regering neemt het besluit houdende erkenning van een nieuwe opleiding binnen een ordetermijn van 30 kalenderdagen, die ingaat de dag na deze van ontvangst van het toetsingsrapport van de accreditatieorganisatie. Het besluit treedt in werking met ingang van de bekendmaking ervan aan de instelling.<br>
+<br>
+§ 6. Als het besluit over de toets nieuwe opleiding in het kader van een omvorming als vermeld in artikel II.150/1, § 2, negatief is, kan het instellingsbestuur nog maximaal één academiejaar de om te vormen hbo5-opleiding aanbieden en hiervoor studenten inschrijven. Het programma van deze opleiding wordt ingericht conform de artikelen II.67 en II.69.<br>
+<br>
+Een instelling kan na een negatief toetsingsbesluit voor een identieke opleiding nog een keer een aanvraag voor een toets nieuwe opleiding indienen. Als het besluit over de toets nieuwe opleiding in het kader van een omvorming als vermeld in artikel II.150/1, § 2, opnieuw negatief is, bouwt de instelling de opleiding af of zet ze die stop. Het instellingsbestuur garandeert de voorzieningen die nodig zijn om de ingeschreven studenten hun opleiding te kunnen laten voltooien.
 
 ## [Hoofdstuk 10 Overgangsbepalingen voor de versterking van de lerarenopleidingen aan de hogescholen en de universiteiten (ing. decr. 4 mei 2018, art. 159, I: 1 september 2019)]
 
@@ -5554,7 +5612,23 @@ De som van het totale bedrag van de verminderingen op grond van het eerste of he
 <br>
 § 7. Bovenop de vermindering, vermeld in paragraaf 4 van dit artikel, wordt vanaf het begrotingsjaar 2015 de totale werkingsuitkering van de hogescholen en universiteiten, berekend overeenkomstig de bepalingen van titel 1, hoofdstuk 1, van dit deel, met 26.614.642,36 euro verminderd.<br>
 <br>
-Dit bedrag wordt vanaf het begrotingsjaar 2017 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
+Dit bedrag wordt vanaf het begrotingsjaar 2017 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 8. Vanaf het begrotingsjaar 2019 worden de totale werkingsmiddelen van de universiteiten met 2.508.061 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
+<br>
+Vanaf het begrotingsjaar 2019 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) met 1.747.939 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
+<br>
+De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 9. Vanaf het begrotingsjaar 2020 worden de totale werkingsmiddelen van de hoge-scholen (inclusief de Hogere Zeevaartschool) met 4.390.165 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt vanaf het begrotingsjaar 2021 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 10. Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de hogescholen (inclusief de Hogere Zeevaartschool) met 5.092.455 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke hogeschool in de totale werkingsmiddelen.<br>
+<br>
+Vanaf het begrotingsjaar 2021 worden de totale werkingsmiddelen van de universiteiten met 7.119.565 euro vermeerderd. Dit bedrag wordt verdeeld op basis van het procentuele aandeel van elke universiteit in de totale werkingsmiddelen.<br>
+<br>
+De bedragen, vermeld in het eerste en het tweede lid, worden vanaf het begrotingsjaar 2022 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.</p>
 
 ### ART. III.25.
 
@@ -5592,11 +5666,64 @@ Dit bedrag wordt vanaf het begrotingsjaar 2017 geïndexeerd aan de hand van de i
 
 ### ART. III.32.
 
-<P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>§1. De universiteiten ontvangen vanaf het begrotingsjaar 2008   gezamenlijk een bedrag van 4.494.431,96 euro voor de organisatie van de   specifieke lerarenopleiding. </P>  <P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>§2. Vanaf het begrotingsjaar 2008 wordt de gezamenlijke toelage   verdeeld pro rata de in het voorlaatst afgelopen academiejaar verworven credits   in de lerarenopleiding.</P>  <P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>§3. Deze toelagen worden beschouwd als extra werkingsmiddelen.   Zij worden maandelijks per twaalfden ter beschikking gesteld van elke   universiteit aan het einde van de maand op die waarop het twaalfde betrekking   heeft.</P>  <P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; mso-hyphenate: none; tab-stops: -72.0pt -36.0pt"   class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§4. De in paragraaf 1 vermelde   bedragen worden met ingang van begrotingsjaar 2009 geïndexeerd volgens de   bepalingen in artikel III.5, §9.</P>
+§ 1. De universiteiten ontvangen tot en met het begrotingsjaar 2021 een bedrag van 5.121.329,96 euro voor de financiering van de lerarenopleiding. Dat bedrag wordt met ingang van het begrotingsjaar 2018 geïndexeerd conform artikel III.5, § 9.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt onder de universiteiten als volgt verdeeld :<br>
+1° in het begrotingsjaar 2019 pro rata de verworven studiepunten in de specifieke lerarenopleidingen in het academiejaar 2016-2017;<br>
+2° in het begrotingsjaar 2020 pro rata het gemiddelde van de verworven studiepunten in de specifieke lerarenopleiding over de academiejaren 2016-2017 en 2017-2018;<br>
+3° in het begrotingsjaar 2021 pro rata het gemiddelde van de verworven studiepunten in de specifieke lerarenopleiding over de academiejaren 2016-2017, 2017-2018 en 2018-2019.<br>
+<br>
+De bedragen, vermeld in het tweede lid, worden beschouwd als extra werkingsmiddelen. Zij worden maandelijks per twaalfden ter beschikking gesteld van de universiteit aan het einde van de maand op die waarop het twaalfde betrekking heeft.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2022 worden de bedragen, berekend voor het begrotingsjaar 2021 conform paragraaf 1, jaarlijks met 1/5 afgebouwd. De vrijgekomen middelen worden toegevoegd aan het variabel onderwijsdeel voor de universitaire opleidingen VOWun2014, vermeld in artikel III.5.
 
 ### ART. III.33.
 
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">SLO is bestemd voor de   financiering van de specifieke lerarenopleidingen van de hogescholen. De   specifieke lerarenopleidingen voor de houders van een professioneel   bachelordiploma, met uitzondering van de specifieke lerarenopleiding dans,   worden slechts gefinancierd mits goedkeuring door de Vlaamse Regering.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">De Vlaamse Regering houdt hierbij   rekening met de volgende criteria inzake macrodoelmatigheid: het aanbod van   specifieke lerarenopleidingen in en het aantal studenten in deze specifieke   lerarenopleidingen. De Vlaamse Regering kan hierbij het advies inwinnen van de   Commissie Hoger Onderwijs.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">Vanaf 2008 ontvangen de   hogescholen voor de organisatie van de specifieke lerarenopleidingen gezamenlijk   een bedrag van 1.362.083,04 euro. </P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">Vanaf het begrotingsjaar 2008   gebeurt de verdeling pro rata de in het voorlaatst afgelopen academiejaar   verworven credits in de lerarenopleiding.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">Dit bedrag wordt jaarlijks   aangepast op de wijze bepaald in artikel III.5, §9.</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">Vóór het begrotingsjaar 2012   wordt deze financieringswijze geëvalueerd.</P>
+§ 1. De hogescholen ontvangen tot en met het begrotingsjaar 2021 een bedrag van 1.499.455 euro voor de financiering van de lerarenopleiding. Dat bedrag wordt met ingang van het begrotingsjaar 2018 geïndexeerd conform artikel III.5, § 9.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt onder de hogescholen als volgt verdeeld :<br>
+1° in het begrotingsjaar 2019 : pro rata de verworven studiepunten in de specifieke lerarenopleidingen in het academiejaar 2016-2017;<br>
+2° in het begrotingsjaar 2020 : pro rata het gemiddelde van de verworven studiepunten in de specifieke lerarenopleiding over de academiejaren 2016-2017 en 2017-2018;<br>
+3° in het begrotingsjaar 2021 : pro rata het gemiddelde van de verworven studiepunten in de specifieke lerarenopleiding over de academiejaren 2016-2017, 2017-2018 en 2018-2019.<br>
+<br>
+Voor de berekening van de verworven studiepunten in de specifieke lerarenopleidingen worden de verworven studiepunten in de specifieke lerarenopleiding Dans niet meegenomen.<br>
+<br>
+De Artesis Plantijn Hogeschool Antwerpen ontvangt 52.616 euro voor de specifieke lerarenopleiding Dans. Dit bedrag wordt met ingang van het begrotingsjaar 2018 geïndexeerd conform artikel III.5, § 9.<br>
+<br>
+§ 2. Vanaf het begrotingsjaar 2022 worden de bedragen, berekend voor het begrotings-jaar 2021 conform paragraaf 1, tweede lid, 3°, jaarlijks met 1/3 afgebouwd. De vrijgekomen middelen worden als volgt verdeeld :<br>
+1° in het begrotingsjaar 2022 : op basis van het aantal verworven studiepunten in het academiejaar 2019-2020 van de educatieve masteropleidingen voor kunstvakken in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten indien de student reeds in het bezit is van een masterdiploma in hetzelfde studiegebied en van de verworven studiepunten in de educatieve masteropleidingen voor kunstvakken in het studiegebied Audiovisuele en beeldende kunst, met uitzondering van de verworven studiepunten die meegerekend worden voor het vaststellen van de financieringspunten FPi-output, vermeld in artikel III.13, § 9;<br>
+2° in het begrotingsjaar 2023 : op basis van het gemiddeld aantal verworven studiepunten over de academiejaren 2019-2020 en 2020-2021 van de educatieve masteropleidingen voor kunstvakken in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten indien de student reeds in het bezit is van een masterdiploma in hetzelfde studiegebied en van de verworven studiepunten in de educatieve masteropleidingen voor kunstvakken in het studiegebied Audiovisuele en beeldende kunst, met uitzondering van de verworven studiepunten die meegerekend worden voor het vaststellen van de financieringspunten FPi-output, vermeld in artikel III.13, § 9;<br>
+3° vanaf het begrotingsjaar 2024 : op basis van het gemiddeld aantal verworven studiepunten over de academiejaren t-5/t-4 tot en met t-3/t-2 van de educatieve masteropleidingen voor kunstvakken in de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten indien de student reeds in het bezit is van een masterdiploma in hetzelfde studiegebied en van de verworven studiepunten in de educatieve masteropleidingen voor kunstvakken in het studiegebied Audiovisuele en beeldende kunst, met uitzondering van de verworven studiepunten die meegerekend worden voor het vaststellen van de financieringspunten FPi-output, vermeld in artikel III.13, § 9.<br>
+<br>
+§ 3. Het bedrag, vermeld in paragraaf 1, eerste lid, volgt de evolutie van VOWhko overeenkomstig de bepalingen vermeld in artikel III.6.<br>
+<br>
+§ 4. Vanaf het begrotingsjaar 2022 wordt het bedrag, vermeld in paragraaf 1, vierde lid, jaarlijks met 1/3 afgebouwd. Het vrijgekomen bedrag wordt toegevoegd aan VOWhbo.
+
+### ART III.33/1.
+
+§ 1. Een centrum voor volwassenenonderwijs dat specifieke lerarenopleidingen aanbiedt tot en met het schooljaar 2018-2019 en een of meerdere hogescholen en een of meerdere universiteiten die lerarenopleidingen aanbieden sluiten een overeenkomst waarin ten minste afspraken gemaakt worden over de overdracht, de terbeschikkingstelling en het gebruik van infrastructuur en onroerende goederen, de overdracht van personeelsleden.<br>
+<br>
+De hogescholen en universiteiten waarmee een centrum voor volwassenenonderwijs een overeenkomst heeft afgesloten sluiten onderling een overeenkomst over de verdeling van de middelen afkomstig van het centrum voor volwassenenonderwijs en over de verdeling van de personeelsleden.<br>
+<br>
+§ 2. De hogescholen en universiteiten waarmee een centrum voor volwassenenonderwijs een overeenkomst heeft gesloten als vermeld in paragraaf 1, ontvangen samen de volgende middelen :<br>
+1° in het begrotingsjaar 2019 : 1/3 van de gegenereerde middelen voor de specifieke lerarenopleidingen voor het schooljaar 2018-2019 in het desbetreffende centrum voor volwassenenonderwijs;<br>
+2° in de begrotingsjaren 2020 tot en met 2026 : de gegenereerde middelen voor de specifieke lerarenopleidingen voor het schooljaar 2018-2019 in het desbetreffende centrum voor volwassenenonderwijs.<br>
+<br>
+De gegenereerde middelen, vermeld in punt 1° en 2°, zijn het aantal leraarsuren voor de specifieke lerarenopleidingen in het desbetreffende centrum voor volwassenenonderwijs voor het schooljaar 2018-2019, berekend conform de artikelen 98 en 99 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, vermenigvuldigd met 100,08 euro. Dit bedrag van 100,08 euro wordt aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de aanpassing is 1 september 2017.<br>
+<br>
+De gegenereerde middelen worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 3. De middelen, vermeld in paragraaf 2, worden verdeeld onder de universiteiten en hogescholen die een overeenkomst als vermeld in paragraaf 1, tweede lid, hebben afgesloten, op basis van een percentage dat in de overeenkomst is vastgelegd. Dat percentage wordt meegedeeld aan de bevoegde dienst van de Vlaamse overheid. De betrokken hogescholen en universiteiten kunnen dit percentage jaarlijks aanpassen.<br>
+<br>
+De overeenkomst, vermeld in paragraaf 1, tweede lid, bevat ook een regeling indien het aandeel van de overgekomen personeelsleden, uitgedrukt in voltijdse eenheden, van de partners in de overeenkomst niet overeenkomt met de verdeling van de financiële middelen, vermeld in het eerste lid.<br>
+<br>
+§ 4. Vanaf het begrotingsjaar 2027 worden de middelen, vermeld in paragraaf 2, eerste lid, 2°, afgebouwd. De vrijgekomen middelen worden toegevoegd aan VOWhbo, VOWprof2014, VOWun2014 en de aanvullende middelen, vermeld in artikel III.33, § 2, op basis van het aandeel diploma's uitgereikt in de academie-jaren 2020-2021 tot en met 2024-2025 van respectievelijk :<br>
+1° de educatieve graduaatsopleiding voor secundair onderwijs, vermeld in artikel II.112;<br>
+2° het verkorte traject van de educatieve bacheloropleiding voor secundair onderwijs, vermeld in artikel II.113, § 4;<br>
+3° het verkorte traject van de educatieve masteropleiding voor secundair onderwijs, vermeld in artikel II.114, § 5;<br>
+4° het verkorte of consecutieve traject van de educatieve masteropleiding voor kunstvakken, vermeld in artikel II.114, § 5 en § 6.<br>
+<br>
+§ 5. De Vlaamse Regering kan binnen de beschikbare budgetten de middelen bestemd voor de specifieke lerarenopleiding die vanaf het schooljaar 2019-2020 niet meer aangewend dienen te worden binnen het volwassenenonderwijs, overdragen van de loonkredieten volwassenenonderwijs naar de werkingstoelagen van de hogescholen of universiteiten die lerarenopleidingen aanbieden. De Vlaamse Regering bepaalt hiervoor het toewijzingsmechanisme.
 
 ## Afdeling 2 Aanvullende uitkeringen
 
@@ -5842,6 +5969,31 @@ c. de betaling van andere uitgaven ten voordele van het Vlaamse hoger onderwijs.
 
 <P style="MARGIN: 0cm 0cm 0pt">§1. De Hogeschool Gent ontvangt een bedrag van 13.828,13 euro als extra   werkingsuitkering. Vanaf het begrotingsjaar 2015 wordt dat bedrag toegevoegd aan   het variabel onderwijsgedeelte voor de professioneel gerichte opleidingen aan de   hogescholen VOWprof.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De bedragen, vermeld in dit artikel worden geïndexeerd aan de hand   van de indexformule, vermeld in artikel III.5, §9.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. De middelen, vermeld in dit artikel, worden met behoud van   bestemming toegevoegd aan de   werkingsuitkering.</P>
 
+### ART III.40/1.
+
+§ 1. De hogescholen die de professioneel gerichte bacheloropleiding `bachelor in de Verpleegkunde' aanbieden, ontvangen in het begrotingsjaar 2019 een bedrag van 2,850 miljoen euro voor de uitbreiding van de studieomvang van deze opleiding van 180 naar 240 studiepunten. Vanaf het begrotingsjaar 2020 wordt dit bedrag verhoogd tot 11,420 miljoen euro.<br>
+<br>
+Dit bedrag wordt vanaf het begrotingsjaar 2021 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 2. Het bedrag, vermeld in paragraaf 1, wordt verdeeld over de hogescholen die de professioneel gerichte bacheloropleiding `bachelor in de Verpleegkunde' aanbieden op basis van het aantal financieringspunten diploma's in deze opleiding berekend op basis van de volgende academiejaren:<br>
+1° voor het begrotingsjaar 2019: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2012-2013, 2013-2014, 2014-2015, 2015-2016 en 2016-2017;<br>
+2° voor het begrotingsjaar 2020: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2013-2014, 2014-2015, 2015-2016, 2016-2017 en 2017-2018;<br>
+3° voor het begrotingsjaar 2021: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2013-2014, 2014-2015, 2015-2016, 2016-2017 en 2017-2018;<br>
+4° voor het begrotingsjaar 2022: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2015-2016, 2016-2017, 2017-2018 en 2019-2020;<br>
+5° voor het begrotingsjaar 2023: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2016-2017, 2017-2018, 2019-2020 en 2020-2021;<br>
+6° voor het begrotingsjaar 2024: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2017-2018, 2019-2020, 2020-2021 en 2021-2022;<br>
+7° voor het begrotingsjaar 2025: op basis van het aantal financieringspunten diploma's in deze opleiding in de academiejaren 2019-2020, 2020-2021, 2021-2022 en 2022-2023.<br>
+<br>
+§ 3. Vanaf het begrotingsjaar 2022 worden de middelen, berekend overeenkomstig paragraaf 1, jaarlijks met 1/5 afgebouwd. De vrijgekomen middelen worden toegevoegd aan het variabel onderwijsdeel voor de professioneel gerichte bachelor-opleidingen VOWprof2014, vermeld in artikel III.5.
+
+### ART III.40/2.
+
+Vanaf het begrotingsjaar 2019 ontvangt de Katholieke Universiteit Leuven jaarlijks een bedrag van 158.000 euro als financiering van de optie `Islamitische theologie en godsdienstwetenschappen' binnen de Master of Arts in de wereldreligies.<br>
+<br>
+De subsidie, vermeld in het eerste lid, geldt als bijdrage in de personeels- en werkingskosten die worden gemaakt in het kader van de uitbouw van de optie `Islamitische theologie en godsdienstwetenschappen' binnen de Master of Arts in de wereldreligies.<br>
+<br>
+De Katholieke Universiteit Leuven bezorgt jaarlijks tegen 15 januari aan de bevoegde dienst van de Vlaamse overheid een activiteitenverslag van de periode waarop de subsidie betrekking heeft en een gedetailleerde verantwoording van de kosten.
+
 ### ART. III.41.
 
 <p>§1. Vanaf het begrotingsjaar 2012 wordt in een bijkomende financiering voorzien voor de hogeronderwijsinstellingen die een vestigingsplaats hebben in het tweetalige gebied Brussel-Hoofdstad en er initiële bachelor- of masteropleidingen organiseren. Die bijkomende financiering bedraagt (uitgedrukt in miljoen euro):</p>
@@ -5903,6 +6055,26 @@ Vanaf het begrotingsjaar 2015 wordt in een bijkomende financiering   voorzien vo
 ### ART. III.42.
 
 <P style="MARGIN: 0cm 0cm 0pt">§1. Wanneer een centrum voor volwassenenonderwijs   in academiejaar t/t+1 een geaccrediteerde opleiding, in uitvoering van artikel   II.138, overdraagt aan een hogeschool dan ontvangt deze instelling vanaf   begrotingsjaar t hiervoor de volgende middelen :</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">1°&nbsp;&nbsp;   in het jaar t : de kost van de lonen van de personeelsleden die in uitvoering   van artikel V.204 een betrekking opnemen in de hogeschool met inbegrip van het   gedeelte van het vakantiegeld en de eindejaarstoelage dat ten laste is van de   hogeschool;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">2°&nbsp;&nbsp;   in het jaar t+1 en t+2 : de totale loonkost van de personeelsleden die in   uitvoering van artikel V.204 in het jaar t effectief een opdracht hebben   opgenomen in de hogeschool;</P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1">3°&nbsp;&nbsp;   vanaf het jaar t+3 worden deze middelen jaarlijks met 20% afgebouwd. De   vrijgekomen middelen worden toegevoegd aan de werkingsmiddelen voor de   professionele bacheloropleidingen VOWprof, zoals vastgesteld in artikel   III.5.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. In afwijking van paragraaf 1 wordt het totaal   vastgelegde bedrag voor de overdracht van de bachelor in de sociale   readaptatiewetenschappen aan&nbsp;UC Leuven&nbsp;vanaf begrotingsjaar t+3   jaarlijks met 12,5% verminderd.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§3. De bedragen berekend in begrotingsjaar t   worden vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule,   vermeld in artikel III.5, §9.</P>
+
+### ART III.42/1.
+
+§ 1. Bij de overdracht van hbo5-opleidingen van een of meer centra voor volwassenenonderwijs aan een hogeschool in het academiejaar 2019-2020 ontvangt die hogeschool vanaf het begrotingsjaar 2019 daarvoor de volgende middelen :<br>
+1° in het begrotingsjaar 2019 : 1/3 van de gegenereerde middelen voor de hbo5-opleidingen voor het schooljaar 2018-2019 in het desbetreffende centrum voor volwassenenonderwijs;<br>
+2° vanaf het begrotingsjaar 2020 : de gegenereerde middelen voor de hbo5-opleidingen voor het schooljaar 2018-2019 in het desbetreffende centrum voor volwassenenonderwijs.<br>
+<br>
+De gegenereerde middelen, vermeld in punt 1° en 2°, zijn het aantal leraarsuren voor de hbo5-opleidingen in het desbetreffende centrum of centra voor volwassenenonderwijs voor het schooljaar 2018-2019, berekend conform de artikelen 98 en 99 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, vermenigvuldigd met 98,39 euro. Dit bedrag van 98,39 euro wordt tot en met het begrotingsjaar 2019 aangepast aan de evolutie van de gezondheidsindex. De referentiedatum voor de aanpassing is 1 september 2017.<br>
+<br>
+§ 2. De middelen, vermeld in paragraaf 1, 2°, worden cumulatief vermenigvuldigd met het volgende percentage :<br>
+1° voor het begrotingsjaar 2020 : het percentage van de evolutie tussen het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2017-2018 van de betrokken centra voor volwassenenonderwijs;<br>
+2° voor het begrotingsjaar 2021 : het percentage van de evolutie tussen het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogeschool en het aantal lestijden waarvoor werd ingeschreven gedeeld door 12 van het schooljaar 2018-2019 van de betrokken centra voor volwassenenonderwijs;<br>
+3° voor het begrotingsjaar 2022 : het percentage van de evolutie tussen het aantal opgenomen studiepunten in de graduaatsopleidingen van het academiejaar 2020-2021 en het aantal opgenomen studiepunten van het academiejaar 2019-2020 in de hogeschool;<br>
+4° voor de begrotingsjaren 2023 en 2024 monitort de Vlaamse Regering budgettaire effecten van de open-end financiering van de graduaatsopleidingen tweemaal per jaar in functie van begrotingsopmaak en begrotingscontrole. Op basis van deze monitoring kan de regering ingrijpen in het groeimechanisme om deze effecten onder controle te houden en eventueel beslissen om over te stappen op een budgetbeheersbaar financieringssysteem.<br>
+<br>
+§ 3. De middelen, vermeld in paragraaf 1, worden vanaf het begrotingsjaar 2020 geïndexeerd aan de hand van de indexformule, vermeld in artikel III.5, § 9.<br>
+<br>
+§ 4. Vanaf het begrotingsjaar 2022 worden de middelen, berekend overeenkomstig paragraaf 1, 2 en 3, jaarlijks met 1/3 afgebouwd. De vrijgekomen middelen worden toegevoegd aan het variabel onderwijsdeel voor de graduaatsopleidingen VOWhbo, vermeld in artikel III.5.<br>
+<br>
+§ 5. De Vlaamse Regering kan binnen de beschikbare budgetten de middelen bestemd voor het hoger beroepsonderwijs die vanaf het schooljaar 2019-2020 niet meer aangewend dienen te worden binnen het volwassenenonderwijs, overdragen van de loonkredieten volwassenenonderwijs naar de werkingstoelagen van de hogescholen die graduaatsopleidingen aanbieden. De Vlaamse Regering bepaalt hiervoor het toewijzingsmechanisme.
 
 ### ART. III.43.
 
@@ -6382,7 +6554,19 @@ In afwijking van de bovenstaande puntengewichten, wordt voor de opleidingen `Bio
 <br>
 § 5. De bedragen, vermeld in paragraaf 1 en 2, op prijsniveau 2017, worden jaarlijks aangepast als volgt : het bedrag wordt vermenigvuldigd met de gewogen evolutie van het jaarlijks gemiddelde van de index van de Associatie van Belgische Experten (ABEX-index) van de vijf voorlaatste kalenderjaren die voorafgaan aan het begrotingsjaar, uitgedrukt in percenten.<br>
 <br>
-§ 6. Bij eventuele fusies van hogescholen worden de percentages zoals vastgelegd in paragraaf 3 van de fuserende hogescholen samengevoegd en toegekend aan de nieuwe hogeschool.
+§ 6. Bij eventuele fusies van hogescholen worden de percentages zoals vastgelegd in paragraaf 3 van de fuserende hogescholen samengevoegd en toegekend aan de nieuwe hogeschool.<br>
+<br>
+§ 7. Vanaf het begrotingsjaar 2019 wordt een investeringstoelage van 9.000.000 euro toegekend aan de hogescholen.<br>
+<br>
+De verdeling per hogeschool gebeurt op basis van het aantal unieke studenten die op 31 oktober van het academiejaar t-1/t in de desbetreffende hogeschool in een graduaatsopleiding zijn ingeschreven.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aangepast overeenkomstig paragraaf 5 van dit artikel.<br>
+<br>
+§ 8. In afwijking van paragraaf 7 gebeurt de verdeling van het bedrag in paragraaf 7, eerste lid, voor het begrotingsjaar 2019 op basis van het bedrag dat elke hogeschool ontvangt volgens de bepalingen in paragraaf 1 van artikel III.42/1 van dit decreet.<br>
+<br>
+§ 9. Vanaf het begrotingsjaar 2019 wordt een bedrag van 1.000.000 euro voor 60 % toegevoegd aan de enveloppe voor de gesubsidieerde vrije hogescholen en voor 40 % aan de enveloppe van de publiekrechtelijke hogescholen, vermeld in paragraaf 2, 2° , van dit artikel.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, op prijsniveau 2019, wordt jaarlijks aangepast overeenkomstig paragraaf 5 van dit artikel.
 
 ### ART. III.46/1.
 
@@ -6560,7 +6744,7 @@ Het aantal gewogen opgenomen studiepunten per universiteit is gelijk aan de som 
 
 <p>§1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in deel 5, titel 1, hoofdstuk 1 en 2, in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht:</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-alt: outset #222222 .75pt;" border="1" cellspacing="0" cellpadding="0">
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color: transparent;">
@@ -6610,7 +6794,7 @@ Het aantal gewogen opgenomen studiepunten per universiteit is gelijk aan de som 
 <br>
 Vanaf het begrotingsjaar 2016 wordt voor de toekenning van de hierna vermelde uitkeringen bovendien vereist dat de universiteit kan aantonen dat de door haar daartoe bevoegde organen goedgekeurde aanpassingen van bestaande pensioenregelingen of de inrichting van nieuwe pensioenregelingen het voorwerp hebben uitgemaakt van een collectief overleg of tot stand kwamen met inspraak vanwege de vertegenwoordigers van de leden van het administratief en technisch personeel bezoldigd met bedoelde werkingsuitkeringen:</p>
 
-<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-border-alt: outset #222222 .75pt;" border="1" cellspacing="0" cellpadding="0">
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt; mso-yfti-tbllook: 1184;" border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color: transparent;">
@@ -6679,7 +6863,15 @@ Vanaf het begrotingsjaar 2018 volgen deze bedragen de evolutie van de gezondheid
 </table>
 
 <p><br>
-Vanaf het begrotingsjaar 2019 volgen deze bedragen de evolutie van de gezondheidsindex.</p>
+Vanaf het begrotingsjaar 2019 volgen deze bedragen de evolutie van de gezondheidsindex.<br>
+<br>
+§ 7. Naast de bedragen, vermeld in paragraaf 1, 2, 5 en 6, ontvangen vanaf het begrotingsjaar 2019 de volgende universiteiten de hierna vermelde bijkomende uitkering, uitgedrukt in euro, als bijdrage in het dekken van de kosten, vermeld in paragraaf 1 en 2:<br>
+a) Katholieke Universiteit Leuven 714.551,84<br>
+b) Vrije Universiteit Brussel 236.277,78<br>
+c) Universiteit Antwerpen 40.159,42<br>
+d) Universiteit Hasselt 9.010,96.<br>
+<br>
+Vanaf het begrotingsjaar 2020 volgen deze bedragen de evolutie van de gezondheidsindex.</p>
 
 <p>&nbsp;</p>
 
@@ -6735,6 +6927,10 @@ Deze bedragen worden vanaf het begrotingsjaar 2016 met 2 % verminderd.<br>
 <br>
 In het begrotingsjaar 2017 wordt in het kader van artikel II.117 een bedrag van 400.000 euro toegevoegd aan het bedrag van de sociale toelage van de universiteiten en een bedrag van 934.000 euro toegevoegd aan het bedrag van de hogescholen. Vanaf begrotingsjaar 2018 worden deze bedragen verhoogd tot respectievelijk 1.200.000 euro jaarlijks toe te voegen aan het bedrag van de sociale toelage van de universiteiten en 2.800.000 euro, jaarlijks toe te voegen aan het bedrag van de sociale toelage van de hogescholen.<br>
 <br>
+In het begrotingsjaar 2019 wordt een bedrag van 163.719 euro toegevoegd aan het bedrag van de sociale toelage van de universiteiten en een bedrag van 803.211 euro aan het bedrag van de sociale toelage van de hogescholen. Vanaf het begrotingsjaar 2020 worden deze bedragen verhoogd tot respectievelijk 491.157 euro jaarlijks toe te voegen aan het bedrag van de sociale toelage van de universiteiten en 2.409.632 euro, jaarlijks toe te voegen aan het bedrag van de sociale toelage van de hogescholen.<br>
+<br>
+In het begrotingsjaar 2024 evalueert de Vlaamse Regering of de bedragen van de sociale toelage aan de universiteiten en de hogescholen nog in overeenstemming zijn met de evoluties van het aantal en het profiel van de studenten. Deze evaluatie zal de Vlaamse Regering elke vier jaar uitvoeren.<br>
+<br>
 § 2. De bedragen, berekend overeenkomstig dit artikel, worden binnen de perken van de jaarlijkse begrotingskredieten jaarlijks geïndexeerd aan de hand van de volgende formule : I = 0,50 x (L1/L0) + 0,50 x (Cl/CO), waarbij<br>
 1° I : de indexformule;<br>
 2° L1/L0 : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betreffende begrotingsjaar n en de index van de eenheidsloonkosten op het einde van begrotingsjaar n-1;<br>
@@ -6746,17 +6942,13 @@ In het begrotingsjaar 2017 wordt in het kader van artikel II.117 een bedrag van 
 <br>
 De sociale toelage die een hogeschool ontvangt in het begrotingsjaar t kan echter niet lager zijn dan 98% van de sociale toelage die haar in het begrotingsjaar t-1 is toegekend.<br>
 <br>
-Daarbij wordt de volgende berekeningswijze gehanteerd :</p>
-
-<p>1°&nbsp;&nbsp; stap 1 : voor iedere hogeschool wordt het bedrag berekend op basis van haar aandeel in het aantal opgenomen studiepunten;</p>
-
-<p>2°&nbsp;&nbsp; stap 2 : voor iedere hogeschool wordt in het begrotingsjaar t 98% van het bedrag dat de hogeschool als sociale toelage ontvangen heeft in begrotingsjaar t-1, als referentiepunt vastgeklikt;</p>
-
-<p>3°&nbsp;&nbsp; stap 3 : als voor een hogeschool het bedrag berekend in stap 1 kleiner is dan het bedrag berekend in stap 2, dan ontvangt die hogeschool als sociale toelage het bedrag dat als referentiepunt is vastgeklikt overeenkomstig stap 2;</p>
-
-<p>4°&nbsp;&nbsp; stap 4 : als voor een hogeschool het bedrag berekend in stap 1 groter is dan het bedrag berekend in stap 2, dan ontvangt die hogeschool als sociale toelage het bedrag berekend in stap 2 vermeerderd met het procentueel aandeel van de instelling in het positieve verschil tussen de som van de bedragen berekend conform stap 1 en de som van de bedragen, berekend conform stap 2.<br>
+Daarbij wordt de volgende berekeningswijze gehanteerd :<br>
+1°&nbsp;&nbsp; stap 1 : voor iedere hogeschool wordt het bedrag berekend op basis van haar aandeel in het aantal opgenomen studiepunten;<br>
+2°&nbsp;&nbsp; stap 2 : voor iedere hogeschool wordt in het begrotingsjaar t 98% van het bedrag dat de hogeschool als sociale toelage ontvangen heeft in begrotingsjaar t-1, als referentiepunt vastgeklikt;<br>
+3°&nbsp;&nbsp; stap 3 : als voor een hogeschool het bedrag berekend in stap 1 kleiner is dan het bedrag berekend in stap 2, dan ontvangt die hogeschool als sociale toelage het bedrag dat als referentiepunt is vastgeklikt overeenkomstig stap 2;<br>
+4°&nbsp;&nbsp; stap 4 : als voor een hogeschool het bedrag berekend in stap 1 groter is dan het bedrag berekend in stap 2, dan ontvangt die hogeschool als sociale toelage het bedrag berekend in stap 2 vermeerderd met het procentueel aandeel van de instelling in het positieve verschil tussen de som van de bedragen berekend conform stap 1 en de som van de bedragen, berekend conform stap 2.<br>
 <br>
-De opgenomen studiepunten, vermeld in dit artikel, zijn de studiepunten berekend overeenkomstig artikel III.7 van deze codex, met behoud van artikel III.30, § 1.</p>
+De opgenomen studiepunten in een hogeschool voor het begrotingsjaar t, vermeld in dit artikel, zijn het gemiddelde aantal studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2 waarvoor studenten onder diplomacontract zich hebben ingeschreven voor een graduaatsopleiding of een initiële bachelor- of masteropleiding in de desbetreffende hogeschool.</p>
 
 ### ART. III.69.
 
@@ -7157,6 +7349,8 @@ In de begrotingsjaren 2015 en 2016 wordt een bedrag van 250.000 euro toegevoegd 
 <br>
 Vanaf het begrotingsjaar 2018 wordt een bedrag van 400.000 euro toegevoegd aan de toelage, vermeld in deze paragraaf.<br>
 <br>
+Vanaf het begrotingsjaar 2019 wordt een bedrag van 400.000 euro toegevoegd aan de toelage vermeld in deze paragraaf.<br>
+<br>
 §2. De in paragraaf 1 bedoelde hogere instituten voor schone kunsten worden opgericht met als doel posthogeschoolvormingen te organiseren inzake de opleidingen van de studiegebieden Audiovisuele en beeldende kunst en Muziek en podiumkunsten. De posthogeschoolvorming wordt bekrachtigd met de titel van 'Laureaat van het Hoger Instituut voor Schone Kunsten'. Deze laureaatsvorming heeft tot doel aan afgestudeerden uit de betrokken sectoren en aan jonge kunstenaars de mogelijkheid te bieden hun artistiek talent verder te ontplooien. Deze instituten worden beheerd door een vereniging zonder winstgevend doel die met betrekking tot de posthogeschoolvorming optreedt als overkoepelende instantie voor alle hogescholen die een opleiding in de betrokken sectoren organiseren.<br>
 <br>
 De in paragraaf 1 bedoelde andere instellingen zijn instellingen die excellente hogere kunstopleidingen organiseren, doch krachtens artikel II.3 niet als hogescholen kunnen beschouwd worden.<br>
@@ -7171,11 +7365,13 @@ De in paragraaf 1 bedoelde andere instellingen zijn instellingen die excellente 
 <br>
 De besluiten die de Vlaamse Regering neemt in uitvoering van de bepalingen van deze codificatie met betrekking tot de begroting en de personeelsformatie voor de hogescholen en betreffende de algemene boekhouding, de jaarrekening en het rekeningstelsel voor de hogescholen zijn van overeenkomstige toepassing op de instituten voor schone kunsten en de instellingen die excellente kunstopleidingen organiseren.<br>
 <br>
+§ 3/1. Het rapport van deze interne en externe kwaliteitszorg, vermeld in paragraaf 3, 2°, van hetzelfde artikel, is publiek en bevat een beoordeling van de onderwijskwaliteit van de door deze instituten of instellingen aangeboden opleidingen die leiden tot de titel van laureaat van een hoger instituut in de kunsten.<br>
+<br>
 §4. De Vlaamse Regering kan de subsidiëring van een instituut of instelling verminderen, doch slechts jaarlijks en naar evenredigheid van de vastgestelde tekortkomingen op de in de beheersovereenkomst bezegelde afspraken.<br>
 <br>
 §5. In afwijking van het bepaalde in paragraaf 3 kunnen lopende beheersovereenkomsten maximaal 2 keer met ten hoogste 1 jaar verlengd worden, in geval de evaluatie van de wijze waarop de lopende beheersovereenkomst werd uitgevoerd, onvoldoende positief is om een nieuwe beheersovereenkomst met een looptijd van 5 jaar af te sluiten. Indien na deze verlenging(en) naar het oordeel van de Vlaamse Regering de betrokken instelling een deugdelijk beleidsplan heeft voorgelegd, kan een nieuwe beheersovereenkomst met een looptijd van maximaal 4 jaar worden gesloten.<br>
 <br>
-§ 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016 en van 400.000 euro vanaf 2018 niet in rekening gebracht.</p>
+§ 6. De bedragen voor de hogere instituten voor schone kunsten en voor de instellingen die excellente kunstopleidingen organiseren, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2015 met 2 % verminderd. Voor de berekening van de 2 % worden de bijkomende toelagen van 250.000 euro in 2015 en 2016, de bijkomende toelage van 400.000 euro vanaf 2018 en de bijkomende toelage van 400.000 euro vanaf 2019 niet in rekening gebracht.</p>
 
 ## TITEL 4 Evaluatie
 
@@ -7341,7 +7537,14 @@ Het hogeschoolbestuur stelt een begroting op voor het volgende begrotingsjaar en
 
 ### ART. IV.28.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1 Bij het vaststellen van de jaarlijkse personeelsformaties neemt het   hogeschoolbestuur met betrekking tot het onderwijzend personeel, uitgedrukt in   voltijdse eenheden, de volgende regels in acht:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=MsoListParagraph>1°&nbsp;&nbsp; voor de personeelsformaties die betrekking hebben op de personeelsleden   verbonden aan de professionele opleidingen en op de personeelsleden toegewezen   aan de Schools of Arts: het aantal vastbenoemde personeelsleden, uitgedrukt in   voltijdse eenheden, bedraagt ten hoogste 72% van het aantal leden van het   onderwijzend personeel uitgedrukt in voltijdse eenheden. Hierbij wordt de   bevordering of ambtswijziging van een reeds in de hogeschool benoemd   personeelslid niet beschouwd als een nieuwe benoeming. De toepassing van de   bepalingen van dit punt wordt voor een periode van 5 jaar met ingang van het   begrotingsjaar 2014 opgeschort.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een benoeming of aanstelling in een ambt van het onderwijzend personeel   is slechts mogelijk met inachtneming van bovenvermelde   aantallen.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§2. In geval van een herstructurering zoals bedoeld in artikel I.3, 34°,   kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de   normen vermeld in paragraaf 1.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1 Bij het vaststellen van de jaarlijkse personeelsformaties neemt het hogeschoolbestuur met betrekking tot het onderwijzend personeel, uitgedrukt in voltijdse eenheden, de volgende regels in acht:<br>
+1°&nbsp;&nbsp; voor de personeelsformaties die betrekking hebben op de personeelsleden verbonden aan de professionele opleidingen en op de personeelsleden toegewezen aan de Schools of Arts: het aantal vastbenoemde personeelsleden, uitgedrukt in voltijdse eenheden, bedraagt ten hoogste 72% van het aantal leden van het onderwijzend personeel uitgedrukt in voltijdse eenheden. Hierbij wordt de bevordering of ambtswijziging van een reeds in de hogeschool benoemd personeelslid niet beschouwd als een nieuwe benoeming. De toepassing van de bepalingen van dit punt wordt voor een periode van&nbsp;8 jaar met ingang van het begrotingsjaar 2014 opgeschort.<br>
+<br>
+Een benoeming of aanstelling in een ambt van het onderwijzend personeel is slechts mogelijk met inachtneming van bovenvermelde aantallen.<br>
+<br>
+§2. In geval van een herstructurering zoals bedoeld in artikel I.3, 34°, kunnen de herstructurerende instellingen op gemotiveerde wijze afwijken van de normen vermeld in paragraaf 1.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
 ### ART. IV.29.
 
@@ -7407,9 +7610,7 @@ Het hogeschoolbestuur stelt een begroting op voor het volgende begrotingsjaar en
 
 ### ART. IV.43.
 
-<p>Het beleidsplan over studentenvoorzieningen geeft voor een periode van 5 jaar aan hoe de hogeschool of universiteit de doelstelling, vermeld in artikel II.337 zal nastreven en op welke manier ze daarvoor de sociale toelage van de overheid en andere roerende en onroerende middelen zal aanwenden.<br>
-<br>
-Het beleidsplan wordt opgesteld conform de leidraad die de Vlaamse Regering ter beschikking stelt.<br>
+<p>Het beleidsplan over studentenvoorzieningen geeft aan hoe de hogeschool of universiteit de doelstelling, vermeld in artikel II.337 zal nastreven en op welke manier ze daarvoor de sociale toelage van de overheid en andere roerende en onroerende middelen zal aanwenden.<br>
 <br>
 Het beleidsplan wordt samen met de meerjarenbegroting ingediend bij de Vlaamse Regering. Wijzigingen in het beleidsplan worden samen met de jaarlijkse begroting ingediend.</p>
 
@@ -7758,7 +7959,19 @@ In het gestructureerd overleg, vermeld in artikel IV.91, stellen de Vlaamse over
 
 ### ART. IV.95.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De   Vlaamse Regering benoemt een commissaris van de Vlaamse Regering bij iedere   universiteit. Eénzelfde commissaris kan bij meerdere universiteiten worden   aangesteld.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+§ 1. De Vlaamse Regering benoemt maximaal vijf commissarissen die belast zijn met het toezicht op de hogescholen en de universiteiten zoals vermeld in deze titel. De Vlaamse Regering wijst het toezicht op elke hogeschool en elke universiteit toe aan een commissaris voor hernieuwbare termijnen van 5 jaar, waarbij iedere commissaris belast is met het toezicht op ten minste één hogeschool en ten minste één universiteit.<br>
+<br>
+De commissarissen van de Vlaamse Regering worden benoemd onder de houders van een masterdiploma of een bij of krachtens de wet of het decreet of internationaal verdrag gelijkgesteld diploma, die ten minste 5 jaar nuttige ervaring hebben. De Vlaamse Regering legt de selectieprocedure vast.<br>
+<br>
+Het ambt van commissaris van de Vlaamse Regering is onverenigbaar met elk ambt of bestuursmandaat in een universiteit, hogeschool, associatie, hoger instituut of andere instellingen voor schone kunsten als vermeld in artikel III.119, of instelling voor postinitieel onderwijs binnen de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. De commissarissen van de Vlaamse Regering oefenen geen andere beroepsactiviteiten of andere bezoldigde activiteiten uit dan met toestemming van de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+§ 3. De commissarissen van de Vlaamse Regering ontvangen de bezoldiging die op een gewoon hoogleraar aan een Vlaamse universiteit van toepassing is.<br>
+<br>
+De rechtspositieregeling van het personeel van de diensten van de Vlaamse overheid is op hen van toepassing. Voor de toepassing van het mobiliteitskrediet worden de commissarissen van de Vlaamse Regering gelijkgesteld met een ambtenaar van N-niveau.<br>
+<br>
+De Vlaamse Regering is gemachtigd om voor de commissarissen van de Vlaamse Regering aanvullende rechtspositieregels vast te stellen, waarbij de rechtspositieregeling van een ambtenaar van N-niveau als uitgangspunt geldt.
 
 ## [Afdeling 2. De toezichtstaken (ing. decr. 1 maart 2019, art. 53, I: 1 september 2019)]
 
@@ -8513,7 +8726,19 @@ Wanneer er tijdens de mandaatstermijn een einde komt aan het mandaat van een eff
 
 ### ART. V.108.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Een benoemd personeelslid of een personeelslid bedoeld in artikel   V.264, 2°, kan na interne of externe vacature aangesteld en benoemd worden in   een ander ambt. Het personeelslid ontvangt de salarisschaal verbonden aan het   andere ambt en is onderworpen aan de statutaire bepalingen verbonden aan dit   ambt.<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een benoemd personeelslid of personeelslid bedoeld in artikel V.264, 2°,   dat door ambtswijziging een andere aanstelling krijgt, behoudt zijn benoeming of   zijn overgangsrechten in zijn vorige ambt zolang het niet benoemd wordt in het   andere ambt. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De benoemde personeelsleden blijven, tot zij benoemd zijn in het nieuwe   ambt, inzake ziekteverlof en geldelijke anciënniteit evenwel onderworpen aan de   statutaire bepalingen verbonden aan het ambt waarin zij benoemd zijn indien deze   bepalingen gunstiger zijn.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt">§2. De bezoldiging gebeurt met ingang van het academiejaar 1999-2000   volgens de modaliteiten die respectievelijk gelden voor de benoemde   personeelsleden en de personeelsleden bedoeld in artikel V.264,   2°.</P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
+<p style="margin-right: 0cm; margin-left: 0cm;">§1. Een tijdelijk of benoemd personeelslid of een personeelslid bedoeld in artikel V.264, 2°, kan na interne of externe vacature aangesteld en benoemd worden in een ander ambt. Het personeelslid ontvangt de salarisschaal verbonden aan het andere ambt en is onderworpen aan de statutaire bepalingen verbonden aan dit ambt.<br>
+<br>
+Een tijdelijk of benoemd personeelslid of personeelslid als bedoeld in artikel V.264, 2°, dat door ambtswijziging een andere aanstelling krijgt in de hogeschool, behoudt zijn aanstelling of benoeming of zijn overgangsrechten in zijn vorige ambt zolang het niet benoemd wordt in het andere ambt in die hogeschool.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">De tijdelijke of benoemde personeelsleden blijven, tot zij benoemd zijn in het nieuwe ambt, inzake ziekteverlof en geldelijke anciënniteit evenwel onderworpen aan de statutaire bepalingen verbonden aan het ambt waarin zij voor de ambtswijziging aangesteld of benoemd zijn indien deze bepalingen gunstiger zijn.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">§2. De bezoldiging gebeurt met ingang van het academiejaar 1999-2000 volgens de modaliteiten die respectievelijk gelden voor de benoemde personeelsleden en de personeelsleden bedoeld in artikel V.264, 2°.</p>
+
+<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
 ### ART. V.109.
 
@@ -8603,13 +8828,13 @@ In uitvoering van artikel V.170 reduceert het hogeschoolbestuur ambtshalve en zo
 De personeelsleden worden van ambtswege en zonder dat ze zich eraan kunnen onttrekken met politiek verlof gezonden voor de uitoefening van de volgende politieke mandaten:<br>
 1° het lidmaatschap van het Europees of Belgisch Parlement, van een Gemeenschaps- of Gewestparlement, van de Commissie van de Europese Gemeenschap, van een regering op federaal, gemeenschaps- of gewestniveau;<br>
 2° het ambt van gouverneur, vicegouverneur, adjunct van de gouverneur van Vlaams-Brabant of het mandaat van een lid van het rechtsprekend college, vermeld in artikel 83quinquies, § 2, van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen, of van bestendig afgevaardigde of van staatssecretaris in het Brusselse Hoofdstedelijke Gewest;<br>
-3° het ambt van burgemeester, schepen of OCMW-voorzitter in een gemeente van meer dan 50.000 inwoners.<br>
+3° het ambt van burgemeester, districtsburgemeester, schepen of voorzitter van het bijzonder comité voor de sociale dienst in een gemeente of een district van meer dan 50.000 inwoners.<br>
 <br>
 Het politiek verlof begint van ambtswege op de datum van de eedaflegging voor een van de mandaten, vermeld in het eerste lid.
 
 ### ART V.116/2.
 
-Het hogeschoolbestuur kan een personeelslid op zijn of haar verzoek een politiek verlof toekennen voor de uitoefening van een mandaat van burgemeester, schepen of OCMW-voorzitter van een gemeente en voorzitter of lid van het vast bureau van de districtsraad, ongeacht het aantal inwoners. Het personeelslid kan het verlof voltijds of deeltijds opnemen.
+Het hogeschoolbestuur kan aan een personeelslid op zijn of haar verzoek een politiek verlof toekennen voor de uitoefening van een mandaat van burgemeester, districtsburgemeester, schepen, districtsschepen, voorzitter van de raad voor maatschappelijk welzijn van de gemeente Voeren of van een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966 of voorzitter van het bijzonder comité voor de sociale dienst, ongeacht het aantal inwoners. Het personeelslid kan het verlof voltijds of deeltijds opnemen.
 
 ### ART V.116/3.
 
@@ -8725,7 +8950,7 @@ Het politiek verlof eindigt uiterlijk op de laatste dag van de maand die volgt o
 
 ### ART. V.140.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Een benoemd personeelslid dat door ambtswijziging een andere aanstelling   krijgt, behoudt zijn benoeming in zijn vorig ambt zolang hij niet opnieuw   benoemd wordt in een ander ambt.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
+...
 
 ### ART. V.141.
 
@@ -9064,6 +9289,26 @@ Het hogeschoolbestuur kan de aanstelling of benoeming van een personeelslid dat 
 <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De hogeschool treedt in de rechten en de verplichtingen van de   inrichtende macht van het gemeenschapsonderwijs met betrekking tot de   opleidingen van het hoger onderwijs voor sociale promotie die in toepassing van   artikel II.138 door de hogeschool zijn overgenomen. In de overname zijn begrepen   alle rechten en verplichtingen verbonden aan hangende en toekomstige   procedures.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>
 
 ## [Onderafdeling 2 Overname hbo5 of SLO (ing. decr. 4 mei 2019, art. 188, I: 1 september 2019)]
+
+### ART V.206/1.
+
+Een hogeschool die de onderwijsbevoegdheid van een opleiding van het hoger beroepsonderwijs of een deel van de financiële middelen voor een stopgezette specifieke lerarenopleiding overneemt, neemt met ingang van 1 september 2019 de leden van het onderwijzend personeel in het ambt van lector over, voor zover deze personeelsleden vermeld zijn op de lijst bedoeld in artikel 103ter decies, § 1, eerste lid, 1° en 2°, van het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991 of artikel 84vicies ter, § 1, eerste lid, 1° en 2°, van het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991 :<br>
+1° de benoemde personeelsleden die op 31 december 2018 benoemd zijn bij het centrum voor volwassenenonderwijs;<br>
+2° de personeelsleden die op 31 december 2018 met een tijdelijke aanstelling van doorlopende duur in een vacante betrekking aangesteld zijn.<br>
+<br>
+De overgenomen personeelsleden worden vanaf het moment dat ze overgenomen zijn door de hogeschool personeelsleden van de hogeschool, betaald met de werkingsuitkeringen van de hogeschool in kwestie.<br>
+<br>
+De hogeschool treedt ten opzichte van de overgenomen personeelsleden vanaf 1 september 2019 in de rechten en verplichtingen van het centrum voor volwassenenonderwijs dat voor de overname de betrokken personeelsleden tewerkstelde. In deze overdracht zijn alle rechten en verplichtingen verbonden aan hangende en toekomstige procedures inbegrepen.
+
+### ART V.206/2.
+
+§ 1. De hogeschool neemt op 1 september 2019 de vastbenoemde personeelsleden, vermeld in artikel V.206/1, eerste lid, 1°, over voor de omvang van de betrekking waarvan zij op 31 december 2018 titularis zijn. De hogeschool neemt de tijdelijke personeelsleden, vermeld in artikel V.206/1, eerste lid, 2°, over voor de omvang van de betrekking waarvan deze personeelsleden op 30 juni 2019 titularis zijn.<br>
+<br>
+§ 2. De benoemde personeelsleden behouden na de overname door de hogeschool hun vaste benoeming. De tijdelijke personeelsleden krijgen bij de overname een aanstelling van onbepaalde duur.<br>
+<br>
+In afwijking van het eerste lid kan de hogeschool de personeelsleden die op 30 juni 2019 een tijdelijke aanstelling van doorlopende duur hebben, bij de overname benoemen. Een benoeming is alleen mogelijk als het personeelslid daarom verzoekt.<br>
+<br>
+Artikel IV.28 van deze codex is niet van toepassing.
 
 ## Hoofdstuk 5 Personeel dat verbonden is aan de academische opleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in de universiteiten
 
