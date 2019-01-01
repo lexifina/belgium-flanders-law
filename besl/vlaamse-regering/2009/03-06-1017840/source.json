@@ -2,16 +2,16 @@
   "codex_id": 1017840,
   "title": "Besluit van de Vlaamse Regering van 2009-03-06 houdende de toekenning van een subsidie ter ondersteuning van de zelfstandige kinderopvangvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017840/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "37c6878cef8f8b26fc5372e302da13dfa5d34acf39d6b33854639e98d86bc17f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017840/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c579163db57b7594ae22d7ec96d6297288a93f09dddd507b68b7c736014dda14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017840&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2019-01-01",
   "made": "2009-03-06",
   "gazette": "2009-04-28",
   "numac": 2009201781,
   "document_start": "2009-04-28",
   "document_end": "2018-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
