@@ -28,7 +28,7 @@ Het ingediende dossier is volledig als alle rubrieken zijn ingevuld, het   formu
 
 ### ART. 3.
 
-<P>Het Agentschap Ondernemen toetst de steunaanvragen individueel aan de   ontvankelijkheidscriteria zoals vermeld in artikel 21 en 36 van het besluit van   19 juli 2013 en brengt de onderneming schriftelijk op de hoogte van haar   beslissing over de ontvankelijkheid of onontvankelijkheid, met vermelding van de   motivering en de beroepsmogelijkheden.</P>  <P><BR>De te behalen ondergrenzen voor de ratio's voor de bepaling van de   financiële gezondheid van de aanvragende onderneming, vermeld in artikel 21, 3°,   en artikel 36, 3°, van het besluit van 19 juli 2013, worden vastgesteld door het   Agentschap Ondernemen en op de website gepubliceerd.</P>
+<p>Het Agentschap Ondernemen toetst de steunaanvragen individueel aan de ontvankelijkheidscriteria zoals vermeld in artikel 21 en 36 van het besluit van 19 juli 2013 en brengt de onderneming schriftelijk op de hoogte van haar beslissing over de ontvankelijkheid of onontvankelijkheid, met vermelding van de motivering en de beroepsmogelijkheden.</p>
 
 ## HOOFDSTUK 3. Beoordeling van het ingediende project
 
