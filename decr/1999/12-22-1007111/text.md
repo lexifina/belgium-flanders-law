@@ -278,7 +278,7 @@ De Vlaamse regering wordt gemachtigd om het eigendomsaandeel van het Vlaamse Gew
 
 ### ART. 57.
 
-In afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen en van toepassing verklaard op het Vlaamse Gewest bij het decreet van 20 december 1989 houdende bepalingen tot begeleiding van de begroting 1990, kan de Vlaamse regering de volgende goederen onderhands vererfpachten aan de Stichting Vlaams Erfgoed voor een jaarlijkse canon van 1 000 frank:<br /><br />1° de Maagdentoren in Zichem Scherpenheuvel;<br /><br />2° de windmolen van Hoeke (Sijsele Damme);<br /><br />3° de woning van architect Renaat Braem (Deurne Antwerpen).
+...
 
 ## HOOFDSTUK XVI SOCIAAL-CULTUREEL WERK
 

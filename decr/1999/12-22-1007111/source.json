@@ -2,16 +2,16 @@
   "codex_id": 1007111,
   "title": "Decreet van 1999-12-22 houdende bepalingen tot begeleiding van de begroting 2000",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007111/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8b84121b11fe20cd26f608483456273557ab59a937c04425ff7f71c1201d4069",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007111/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8bf0d56e50157df9124072dc405125911bb3ba5c73c18ce24f808c98aa760152",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007111&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "1999-12-22",
   "gazette": "1999-12-30",
   "numac": 1999036566,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
