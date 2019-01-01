@@ -206,7 +206,8 @@ Onverminderd de artikelen 20 en 21 zijn alle personen die hun medewerking verlen
 
 ### ART. 23.
 
-De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten.<br /><br />De Vlaamse Regering wijst de personeelsleden van de diensten van de Vlaamse Regering aan die belast zijn met het toezicht, vermeld in het eerste lid. Deze personeelsleden oefenen het toezicht ter plaatse of op stukken uit. Ze hebben het recht elke dienst voor pleegzorg te bezoeken en kunnen alle relevante stukken en gegevens, die voor het toezicht noodzakelijk zijn, rechtstreeks opvragen of ze ter plaatse inkijken.<br /><br />De diensten voor pleegzorg verlenen hun medewerking aan de uitoefening van het toezicht.<br /><br />Ze stellen aan de personeelsleden, vermeld in het tweede lid, alle relevante stukken en gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan deze personeelsleden toe om ter plaatse de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn.<br /><br />Van hun vaststellingen maken de personeelsleden, als bedoeld in het tweede lid, een verslag op. Het verslag heeft bewijskracht tot het tegenbewijs. Van het verslag wordt een afschrift gestuurd naar de dienst voor pleegzorg in kwestie.<br /><br />
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten.<br>
+&nbsp;
 
 ## Afdeling 2 Begeleidende maatregelen
 
