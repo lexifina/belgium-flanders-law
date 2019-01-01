@@ -122,7 +122,11 @@ De Vlaamse werkgroep geeft een typetoelating na een gunstige beoordeling door mi
 
 ### ART. 25.
 
-Het agentschap en de Zorginspectie kunnen ter plaatse of op stukken toezicht uitoefenen op de naleving van de erkenningsvoorwaarden door de mammografische eenheden en de controleorganisaties die een erkenning aanvragen of die erkend zijn.<br /><br />De mammografische eenheden en de controleorganisaties verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan het agentschap, op haar eenvoudig verzoek, de stukken die met de erkenningsaanvraag of de erkenning zelf verband houden.<br /><br />Het centrum voor borstkankeropsporing en de controleorganisatie, waarmee een mammografische eenheid een samenwerkingsovereenkomst heeft gesloten, evalueren de kwaliteit van de uitvoering van de opdrachten van de mammografische eenheid in kwestie, vermeld in bijlagen 2 tot en met 4, die bij dit besluit is gevoegd. <br /><br />De administrateur-generaal kan andere private of openbare instanties belasten met bepaalde controles en evaluaties.
+Het agentschap en de Zorginspectie kunnen&nbsp;toezicht uitoefenen op de naleving van de erkenningsvoorwaarden door de mammografische eenheden en de controleorganisaties die een erkenning aanvragen of die erkend zijn.<br>
+<br>
+Het centrum voor borstkankeropsporing en de controleorganisatie, waarmee een mammografische eenheid een samenwerkingsovereenkomst heeft gesloten, evalueren de kwaliteit van de uitvoering van de opdrachten van de mammografische eenheid in kwestie, vermeld in bijlagen 2 tot en met 4, die bij dit besluit is gevoegd.<br>
+<br>
+De administrateur-generaal kan andere private of openbare instanties belasten met bepaalde controles en evaluaties.
 
 ### ART. 26.
 
