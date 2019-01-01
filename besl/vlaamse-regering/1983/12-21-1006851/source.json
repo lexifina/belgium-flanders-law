@@ -2,16 +2,16 @@
   "codex_id": 1006851,
   "title": "Besluit van de Vlaamse Regering van 1983-12-21 tot vaststelling van de voorwaarden waaronder de toelating wordt verstrekt aan de coöperatieve vennootschap \"Vlaams Woningfonds van de Grote Gezinnen\", tot het aangaan van leningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006851/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "80ae7554b3b0f5fbf5a25a310adc2fc7408bca31b9f82a489b166b16222e6cc5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006851/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "977788bbefc6bacd26cf2d871b2e968243a714580f261db91edb39a3ad9013f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006851&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2019-01-01",
   "made": "1983-12-21",
   "gazette": "1984-02-10",
   "numac": 1984023039,
   "document_start": null,
   "document_end": "2020-12-31",
-  "in_force": "2016-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

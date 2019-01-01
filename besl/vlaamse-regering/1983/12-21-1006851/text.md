@@ -6,7 +6,13 @@ Het Gewest waarborgt, ten opzichte van de inschrijvers, de goede afloop van de l
 
 ### ART. 2.
 
-De opbrengst van de leningen zal door de vennootschap worden geboekt op een rekening "Fonds B2" genaamd, waarop tevens de voorschotten worden geboekt, die haar eventueel worden verleend door het "Woningfonds van de Bond der Kroostrijke Gezinnen van België".<br /><br />De voorwaarden waaronder de in het Fonds B2 aanwezige gelden worden aangewend worden bij besluit van de Vlaamse regering vastgesteld.<br /><br />De hypothecaire leningen die de vennootschap toekent alsmede de aankopen, ruilen en inhuurnemingen van woningen die zij, met het oog op hun verkoop of verhuring, in voorkomend geval na de sanering, verbetering en/of aanpassing ervan, verwezenlijkt door middel van de kapitalen van het Fonds B2 worden in een onderscheiden boekhouding geboekt.<br /><br />De door het Fonds B2 gemaakte winst komt het Gewest ten goede. Zij wordt in een reserve gestort waarvan de aanwending in gezamelijk overleg wordt geregeld door de Vlaamse minister van Financiën en Begroting en de Vlaamse minister van Huisvesting.
+De opbrengst van de leningen zal door de vennootschap worden geboekt op een rekening "Fonds B2" genaamd, waarop tevens de voorschotten worden geboekt, die haar eventueel worden verleend door het "Woningfonds van de Bond der Kroostrijke Gezinnen van België".<br>
+<br>
+De voorwaarden waaronder de in het Fonds B2 aanwezige gelden worden aangewend worden bij besluit van de Vlaamse regering vastgesteld.<br>
+<br>
+De hypothecaire leningen en de huurwaarborgleningen die de vennootschap toekent alsmede de aankopen, ruilen en inhuurnemingen van woningen die zij, met het oog op hun verkoop of verhuring, in voorkomend geval na de sanering, verbetering en/of aanpassing ervan, verwezenlijkt door middel van de kapitalen van het Fonds B2 worden in een onderscheiden boekhouding geboekt.<br>
+<br>
+De door het Fonds B2 gemaakte winst komt het Gewest ten goede. Zij wordt in een reserve gestort waarvan de aanwending in gezamelijk overleg wordt geregeld door de Vlaamse minister van Financiën en Begroting en de Vlaamse minister van Huisvesting.
 
 ### ART. 3.
 
