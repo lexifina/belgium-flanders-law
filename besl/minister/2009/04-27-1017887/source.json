@@ -2,16 +2,16 @@
   "codex_id": 1017887,
   "title": "Ministerieel besluit van 2009-04-27 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017887/VolledigDocument?datum=2013-09-25",
-  "source_sha256": "35496e18f5830894c2edc3c5a35f0cb85229c36bb8a0b2570e59823832cf53aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017887/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "ba81d4a960b528ec9d5ffd323fa0875841e3f338d8abbe6b8d53b550c6dba2e3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017887&param=informatie",
-  "as_of": "2013-09-25",
+  "as_of": "2019-01-01",
   "made": "2009-04-27",
   "gazette": "2009-05-12",
   "numac": 2009202089,
   "document_start": "2009-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2013-09-25",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-09-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
