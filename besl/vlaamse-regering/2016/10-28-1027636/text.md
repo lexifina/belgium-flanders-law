@@ -25,7 +25,7 @@ Besluit :<br>
 
 In dit besluit wordt verstaan onder:<br>
 1° agentschap MDK: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Maritieme Dienstverlening en Kust, opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Maritieme Dienstverlening en Kust;<br>
-2° raadgevend comité: een raadgevend comité als vermeld in artikel 6, § 2, tweede lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+2° raadgevend comité: een raadgevend comité als vermeld in artikel III.1, vierde lid, van het bestuursdecreet van 7 december 2018;<br>
 3° minister: de Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het vervoer.<br>
 &nbsp;
 
@@ -106,7 +106,7 @@ Het lidmaatschap van het raadgevend comité is onverenigbaar met elk van de volg
 3° lid van een kabinet;<br>
 4° het ambt van personeelslid van een departement of een agentschap, dat ressorteert onder de minister;<br>
 5° het ambt van personeelslid van het Vlaams Parlement of van de bij het Vlaams Parlement opgerichte diensten;<br>
-6° het ambt van personeelslid van een strategische adviesraad als vermeld in artikel 2, 1°, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden.<br>
+6° het ambt van personeelslid van een strategische adviesraad als vermeld in artikel III.93 van het bestuursdecreet van 7 december 2018.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Werking
