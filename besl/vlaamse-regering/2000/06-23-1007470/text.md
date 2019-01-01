@@ -4,13 +4,23 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° de minister: de Vlaamse   minister, bevoegd voor de Bijstand aan Personen;<BR>2° de administratie: het   intern verzelfstandigd agentschap Zorg en Gezondheid <BR>3° besluit van 21   september 2004 : het koninklijk besluit van 21 september 2004 houdende   vaststelling van de normen voor de bijzondere erkenning als rust- en   verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet   aangeboren hersenletsels; <BR>4° erkenning: de bijzondere erkenning, bedoeld in   artikel 3 van het besluit van 21 september 2004;<BR>5° centrum: een centrum voor   dagverzorging, zijnde een instelling die een verzorgingsstructuur aanbiedt die   zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de   noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun   thuisomgeving;<BR>6° verblijfseenheden: opnamemogelijkheden, plaatsen in een   centrum voor dagverzorging;<BR>7° de administrateur-generaal : het hoofd van het   intern verzelfstandigd agentschap Zorg en Gezondheid.
+In dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor de Bijstand aan Personen;<br>
+2° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid<br>
+3° het besluit van 24 juli 2009: het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<br>
+4° erkenning: de bijkomende erkenning, vermeld in artikel 10/5 van het besluit van 24 juli 2009;<br>
+5° centrum: een dagverzorgingscentrum met een bijkomende erkenning, zijnde een dagverzorgingscentrum dat een verzorgingsstructuur aanbiedt die zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving of dat een verzorgingsstructuur aanbiedt die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving;<br>
+6° verblijfseenheden: opnamemogelijkheden in een dagverzorgingscentrum;<br>
+7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
 
 ## [HOOFDSTUK II DE BIJKOMENDE ERKENNING (verv. BVR 30 november 2018, art. 543, I: 1 januari 2019)]
 
 ### ART. 2.
 
-Een erkenning kan aan een centrum worden verleend op voorwaarde dat:<BR>1°   de erkenningsaanvraag overeenkomstig artikel 4 ontvankelijk is;<BR>2° de   erkenningsaanvraag past in de planning en criteria, die de minister bepaalt;   <BR>3° het centrum voldoet aan de erkenningsnormen, bepaald in bijlage 2 bij het   besluit van 21 september 2004 .
+Een erkenning kan aan een centrum worden verleend op voorwaarde dat:<br>
+1° de erkenningsaanvraag overeenkomstig artikel 4 ontvankelijk is;<br>
+2° de erkenningsaanvraag past in de planning en criteria, die de minister bepaalt;<br>
+3° het centrum voldoet aan de erkenningsvoorwaarden, vermeld in hoofdstuk III/1 van bijlage IX of hoofdstuk III/1 van bijlage XV van het besluit van 24 juli 2009.
 
 ### ART. 3.
 
@@ -18,7 +28,11 @@ De erkenning van een centrum geldt voor een onbepaalde duur.
 
 ### ART. 4.
 
-Een erkenningsaanvraag moet door het centrum met de post, per fax of per   e-mail ingediend worden bij de administratie, samen met de volgende   documenten:<BR>1° een inlichtingenformulier, waarin minstens de volgende   gegevens worden vermeld: de benaming en het juridisch statuut van de aanvrager,   evenals de naam en de kwalificatie van de dagelijks verantwoordelijke;<BR>2° het   aantal verblijfseenheden waarvoor de erkenning wordt aangevraagd;<BR>3° de lijst   van het verplegend, verzorgend en paramedisch personeel, werkzaam in het centrum   voor dagverzorging met vermelding van kwalificatie, inschrijvingsnummer bij het   Rijksinstituut voor ziekte- en invaliditeitsverzekering en arbeidsduur per week,   waaruit blijkt dat aan de gestelde personeelsnormen voldaan is;<BR>4° een   afschrift van de overeenkomst met het woonzorgcentrum of met het rust- en   verzorgingstehuis waarmee een functionele binding verzekerd wordt, een afschrift   van het op dat ogenblik geldend erkenningsbesluit van dit woonzorgcentrum , of   een afschrift van de op dat ogenblik geldende erkenningsbesluiten van dit rust-   en verzorgingstehuis.
+Een erkenningsaanvraag moet door het centrum met de post, per fax of per e-mail ingediend worden bij de administratie, samen met de volgende documenten:<br>
+1° een inlichtingenformulier, waarin minstens de volgende gegevens worden vermeld: de benaming en het juridisch statuut van de aanvrager, evenals de naam en de kwalificatie van de dagelijks verantwoordelijke;<br>
+2° het aantal verblijfseenheden waarvoor de erkenning wordt aangevraagd;<br>
+3° de lijst van het verplegend, verzorgend en paramedisch personeel, werkzaam in het dagverzorgingscentrum met vermelding van kwalificatie, inschrijvingsnummer bij het Rijksinstituut voor ziekte- en invaliditeitsverzekering en arbeidsduur per week, waaruit blijkt dat aan de gestelde personeelsnormen voldaan is;<br>
+4° ...
 
 ### ART. 5.
 
@@ -44,11 +58,13 @@ Een aanvraag tot wijziging van één of meer elementen van de erkenning, die   u
 
 ### ART. 10.
 
-De administratie oefent, ter plaatse of op stukken, toezicht uit op de   naleving van de erkenningsnormen zoals bepaald in bijlage 2 bij het besluit van   21 september 2004. Ze heeft het recht om het centrum te bezoeken en om zelf   kennis te nemen van alle stukken en bescheiden die noodzakelijk zijn voor de   uitoefening van dat toezicht.<BR><BR>Het centrum verleent zijn medewerking aan   de uitoefening van dat toezicht. Het bezorgt de administratie, op eenvoudig   verzoek, de stukken die met de uitoefening van dit toezicht verband   houden.
+De administratie oefent, ter plaatse of op stukken, toezicht uit op de naleving van de erkenningsvoorwaarden, vermeld in hoofdstuk III/1 van bijlage IX of van bijlage XV van het besluit van 24 juli 2009. Ze heeft het recht om het centrum te bezoeken en om zelf kennis te nemen van alle stukken en bescheiden die noodzakelijk zijn voor de uitoefening van dat toezicht.<br>
+<br>
+Het centrum verleent zijn medewerking aan de uitoefening van dat toezicht. Het bezorgt de administratie, op eenvoudig verzoek, de stukken die met de uitoefening van dit toezicht verband houden.
 
 ### ART. 11.
 
-Als het centrum niet langer voldoet aan één of meer erkenningsnormen of als het niet meewerkt aan de uitoefening van het toezicht, genoemd in artikel 10, kan de administrateur-generaal, via een aangetekende brief, een gemotiveerd voornemen tot intrekking van de erkenning aan het centrum sturen. Hierin worden de mogelijkheid en de voorwaarden om een bezwaarschrift, als bedoeld in artikel 12, § 1, in te dienen vermeld.
+Als het centrum niet langer voldoet aan één of meer erkenningsvoorwaarden of als het niet meewerkt aan de uitoefening van het toezicht, genoemd in artikel 10, kan de administrateur-generaal, via een aangetekende brief, een gemotiveerd voornemen tot intrekking van de erkenning aan het centrum sturen. Hierin worden de mogelijkheid en de voorwaarden om een bezwaarschrift, als bedoeld in artikel 12, § 1, in te dienen vermeld.
 
 ### ART. 12.
 
