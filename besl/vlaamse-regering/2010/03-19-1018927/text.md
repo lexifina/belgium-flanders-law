@@ -48,7 +48,10 @@ Het stedenbouwkundig attest wordt binnen een ordetermijn van 75 dagen na de ontv
 
 ### ART. 10.
 
-Met behoud van de mogelijkheid om op grond van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur inzage te krijgen in en uittreksels te krijgen uit het vergunningenregister en het plannenregister, gelden volgende regelen voor wat betreft de aanvraag van een stedenbouwkundig uittreksel :<br />1° de aanvraag wordt afgegeven op het gemeentehuis of bezorgd bij gewone brief of, zo de gemeente deze mogelijkheid voorziet, elektronisch ingediend, in voorkomend geval aan de hand van het door de gemeente gehanteerde modelformulier;<br />2° het stedenbouwkundig uittreksel wordt afgegeven binnen een termijn van dertig dagen, die ingaat op de dag na deze van de ontvangst van de aanvraag.<br /><br />
+Met behoud van de mogelijkheid om op grond van titel II, hoofdstuk 3, van het bestuursdecreet van 7 december 2018 inzage te krijgen in en uittreksels te krijgen uit het vergunningenregister en het plannenregister, gelden volgende regelen voor wat betreft de aanvraag van een stedenbouwkundig uittreksel :<br>
+1° de aanvraag wordt afgegeven op het gemeentehuis of bezorgd bij gewone brief of, zo de gemeente deze mogelijkheid voorziet, elektronisch ingediend, in voorkomend geval aan de hand van het door de gemeente gehanteerde modelformulier;<br>
+2° het stedenbouwkundig uittreksel wordt afgegeven binnen een termijn van dertig dagen, die ingaat op de dag na deze van de ontvangst van de aanvraag.<br>
+&nbsp;
 
 ## HOOFDSTUK 4 Slotbepalingen
 
