@@ -89,7 +89,7 @@ De werkzoekende heeft bij de arbeidsbemiddeling, de trajectbegeleiding en de com
 
 ### ART. 4.
 
-De werkzoekende die meent dat hij in die rechten is geschaad, kan klacht indienen op basis van het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen.
+De werkzoekende die meent dat hij in die rechten is geschaad, kan klacht indienen op basis van titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018.
 
 ### ART. 5.
 
