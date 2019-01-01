@@ -8,7 +8,14 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   decreet: het decreet van 15 januari 2016 houdende diverse maatregelen inzake de   ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting   van het Eigen Vermogen Informatie Vlaanderen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid   Informatie Vlaanderen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   AGIV: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap   Agentschap voor Geografische Informatie Vlaanderen, opgericht bij het decreet   van 7 mei 2004 houdende oprichting van het publiekrechtelijk vormgegeven extern   verzelfstandigd agentschap "Agentschap voor Geografische Informatie Vlaanderen"   en te ontbinden bij het decreet;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   instanties: de instanties, vermeld in artikel 4, § 1, van het decreet van 26   maart 2004 betreffende de openbaarheid van bestuur;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   EV IV: het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het   decreet;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   minister: de Vlaamse minister, bevoegd voor de bestuurszaken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   beheerscommissie: de beheerscommissie, vermeld in artikel 10 van het   decreet.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° decreet: het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen;<br>
+2° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Informatie Vlaanderen;<br>
+3° AGIV: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen, opgericht bij het decreet van 7 mei 2004 houdende oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Agentschap voor Geografische Informatie Vlaanderen" en te ontbinden bij het decreet;<br>
+4° instanties: de instanties van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instanties van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet en de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet;;<br>
+5° EV IV: het Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet;<br>
+6° minister: de Vlaamse minister, bevoegd voor de bestuurszaken;<br>
+7° beheerscommissie: de beheerscommissie, vermeld in artikel 10 van het decreet.
 
 ### ART. 2.
 
@@ -24,8 +31,8 @@ Het agentschap vervult, om de missie, vermeld in artikel 3, waar te maken, de vo
 1° instaan voor de beleidsondersteuning inzake digitalisering, informatieverwerving, -uitbouw, -beheer en -ontsluiting, dienstenintegratie en elektronisch bestuurlijk gegevensverkeer;<br>
 2° vanuit gebruikersgericht standpunt digitale informatie en diensten creëren, uitbouwen, integreren, beheren en ontsluiten;<br>
 3° oplossingen realiseren, samen met de instanties, ondernemingen en organisaties die de informatie op de juiste plaats in de bedrijfsprocessen brengen met het oog op de creatie van maximale meerwaarde;<br>
-4° de interactie met burgers, ondernemingen en organisaties organiseren via een uniek informatiepunt met geïntegreerde kanalen en daartoe de dienstverlening herdenken en voor de kwaliteitstoets zorgen;<br>
-5° burgers, ondernemingen en organisaties via het informatiepunt, vermeld in 4°, wegwijs maken in het overheidslandschap en hen een centraal informatie- en documentatiepunt aanbieden overeenkomstig het decreet van 8 mei 2009 houdende de goedkeuring van de herziene normen voor Vlaamse Overheidscommunicatie;<br>
+4° de interactie met burgers, ondernemingen en organisaties organiseren via een centraal contact- en informatiepunt en daartoe de dienstverlening herdenken en voor de kwaliteitstoets zorgen;<br>
+5° burgers, ondernemingen en organisaties via het informatiepunt, vermeld in 4°, wegwijs maken in het overheidslandschap en hen een centraal contact- en informatiepunt aanbieden overeenkomstig artikel II.6, eerste lid, van het bestuursdecreet van 7 december 2018;<br>
 6° instanties ondersteunen in hun contacten met burgers, ondernemingen en organisaties;<br>
 7° interactieve begeleiding en ondersteuning bieden aan burgers, ondernemingen en organisaties bij het gebruik van digitale informatie en diensten van de instanties;<br>
 8° de instanties voorzien van diensten, ondersteuning en kennisoverdracht om hun interne werking, dienstverlening en processen te vereenvoudigen en te digitaliseren;<br>
@@ -33,7 +40,7 @@ Het agentschap vervult, om de missie, vermeld in artikel 3, waar te maken, de vo
 10° verzamelen en ter beschikking stellen van bedrijfsinformatie van de instanties voor thema's, zoals personeel, organisatie, wetsmatiging, ICT, e-government, facilitair management, vastgoed en overheidsopdrachten;<br>
 11° ...<br>
 12° ...<br>
-13° een gezamenlijk bestand met wegwijsinformatie en eerstelijnsinformatie van en over de instanties, zoals de productencatalogus, uitbouwen, beheren en ontsluiten overeenkomstig artikel 29 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+13° een of meer gezamenlijke bestanden met basisinformatie van de Vlaamse overheid, de lokale overheden, de instellingen met een publieke taak en de milieu-instanties uitbouwen, beheren en ontsluiten overeenkomstig artikel II.5 van het bestuursdecreet van 7 december 2018;<br>
 14° een digitaal kader scheppen en instanties daartoe stimuleren door hen ondersteuning te bieden bij de uitbouw van informatie-infrastructuur;<br>
 15° de Vlaamse Regering ondersteunen bij de uitvoering van het programma Vlaanderen Radicaal Digitaal.
 
@@ -45,7 +52,7 @@ Het agentschap vervult, om de missie, vermeld in artikel 3, waar te maken, de vo
 
 ### ART. 6.
 
-Met   behoud van de toepassing van artikel 5/1, 33 en 34 van het Kaderdecreet   Bestuurlijk Beleid van 18 juli 2003 met betrekking tot informatieverstrekking,   rapportering, interne controle en interne audit is de minister verantwoordelijk   voor de voortgangscontrole van en het toezicht op het agentschap.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.
 
 ### ART. 7.
 
@@ -91,7 +98,7 @@ Het   saldo maakt deel uit van de middelen van het volgende jaar en kan dienen t
 
 ### ART. 17.
 
-Het   EV IV is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering   van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal   kasbeheer voor de Vlaamse verzelfstandigde agentschappen opgericht ingevolge het   decreet Bestuurlijk Beleid van 18 juli 2003.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het EV IV is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen.
 
 ### ART. 18.
 
