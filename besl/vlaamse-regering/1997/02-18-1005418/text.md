@@ -4,11 +4,24 @@
 
 ### ART. 1.
 
-Het toepassingsgebied van dit besluit omvat het toepassingsgebied van de wet op de ziekenhuizen en van artikel 5 van de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en betreffende sommige andere vormen van verzorging.
+Het toepassingsgebied van dit besluit omvat:<br>
+1° het toepassingsgebied van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+2° de initiatieven van beschut wonen, vermeld in artikel 2, 9° van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+3° de psychiatrische verzorgingstehuizen, vermeld in artikel 2, 12° van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+4° de revalidatieziekenhuizen, vermeld in artikel 2, 17°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging voor zover het de revalidatieziekenhuizen betreft.<br>
+<br>
+In dit besluit wordt met "planningsvergunning" ook de "voorafgaande vergunning" vermeld in artikel 62 decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, bedoeld.
 
 ### ART. 2.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   planningsvergunning: de beslissing waaruit blijkt dat de aangevraagde   capaciteit, wijziging in capaciteit en/of in bestemming van een voorziening past   in de programmatie of de behoefteraming voor de specifieke soort van   voorziening;<BR>2° de exploitatievergunning: de beslissing waaruit blijkt dat   voldaan is aan alle voorwaarden tot ingebruikneming van ziekenhuisdiensten,   zoals bedoeld in titel III, hoofdstuk I, afdeling 3 van de wet op de   ziekenhuizen;<BR>3° de minister: de Vlaamse minister bevoegd voor het   gezondheidsbeleid;<BR>4° ...;<BR>5° de Adviescommissie : de commissie, vermeld   in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers;<BR>6° de administratie: het intern   verzelfstandigd agentschap Zorg en Gezondheid;<BR>7° de administrateur-generaal   : het hoofd van het intern verzelfstandigd agentschap Zorg en   Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de planningsvergunning: de beslissing waaruit blijkt dat de aangevraagde capaciteit, wijziging in capaciteit en/of in bestemming van een voorziening past in de programmatie of de behoefteraming voor de specifieke soort van voorziening;<br>
+2° de exploitatievergunning: de beslissing waaruit blijkt dat voldaan is aan alle voorwaarden tot ingebruikneming van ziekenhuisdiensten, zoals bedoeld in titel III, hoofdstuk I, afdeling 3 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+3° de minister: de Vlaamse minister bevoegd voor het gezondheidsbeleid;<br>
+4° ...;<br>
+5° de Adviescommissie : de commissie, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers;<br>
+6° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
+7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
 
 ## HOOFDSTUK II PROCEDURE TOT HET VERKRIJGEN VAN EEN PLANNINGSVERGUNNING
 
