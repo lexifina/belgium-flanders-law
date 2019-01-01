@@ -16,7 +16,7 @@ Het ILVO heeft als missie het uitvoeren en coördineren van beleidsonderbouwend 
 
 ### ART. 4.
 
-De concretisering van de wijze waarop het ILVO zijn taken moet vervullen met strategische en operationele doelstellingen, wordt overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 geregeld in de beheersovereenkomst, vermeld in artikel 7.
+De concretisering van de wijze waarop het ILVO zijn taken moet vervullen met strategische en operationele doelstellingen, wordt overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018 geregeld in het ondernemingsplan, vermeld in artikel 7 van dit besluit.
 
 ### ART. 5.
 
@@ -30,11 +30,13 @@ Het ILVO ressorteert onder het hiërarchische gezag van de minister.
 
 ### ART. 7.
 
-De minister stuurt het ILVO aan, inzonderheid via de beheersovereenkomst.<br /><br />De beheersovereenkomst wordt, overeenkomstig artikel 8, eerste lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003, na onderhandeling, gesloten tussen de Vlaamse Regering, vertegenwoordigd door de minister, en het hoofd van het ILVO.<br /><br />De beheersovereenkomst, alsook elke verlenging, wijziging, schorsing of ontbinding ervan, wordt vooraf ter goedkeuring aan de Vlaamse Regering voorgelegd, op voorstel van de minister.
+De minister stuurt het ILVO aan, inzonderheid via het ondernemingsplan.<br>
+<br>
+Het ondernemingsplan wordt, overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, vastgesteld door de Vlaamse Regering op voorstel van het hoofd van het ILVO.
 
 ### ART. 8.
 
-Overeenkomstig artikel 6, § 3, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 is het hoofd van het ILVO belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid. Een algemeen directeur zal het hoofd van het ILVO bijstaan.
+Het hoofd van het ILVO is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid. Een algemeen directeur zal het hoofd van het ILVO bijstaan.
 
 ## HOOFDSTUK III Delegatie van beslissingsbevoegdheden
 
@@ -64,11 +66,11 @@ De minister is verantwoordelijk voor de opvolging van en het toezicht op het ILV
 
 ### ART. 14.
 
-Het ILVO staat in voor de interne controle van zijn bedrijfsprocessen en activiteiten overeenkomstig artikel 33, eerste lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.
+Het ILVO staat in voor de organisatiebeheersing overeenkomstig artikel III.114 van het bestuursdecreet van 7 december 2018.
 
 ### ART. 15.
 
-De entiteit Audit Vlaanderen&nbsp; evalueert de interne controlesystemen   van het ILVO en kan zo nodig forensische audits&nbsp; instellen overeenkomstig   artikel 34 van het kaderdecreet bestuurlijk beleid van 18 juli   2003.
+De entiteit Audit Vlaanderen&nbsp; evalueert de interne controlesystemen van het ILVO en kan zo nodig forensische audits&nbsp; instellen overeenkomstig artikel III.115 van het bestuursdecreet van 7 december 2018.
 
 ### ART. 16.
 
@@ -76,7 +78,10 @@ De daartoe aangewezen diensten van het Vlaams ministerie dat instaat voor de fin
 
 ### ART. 17.
 
-De informatieverstrekking en de rapportering door het ILVO omvatten overeenkomstig artikel 9, § 1, 4° en 5°, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 en overeenkomstig artikel 25, eerste lid, van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid ten minste:<br /><br />1° een jaarlijks ondernemingsplan en een operationeel plan op middellange en lange termijn;<br /><br />2° een periodiek rapport betreffende het gebruik van de verleende delegaties;<br /><br />3° een jaarlijks rapport, alsook een eindrapport, betreffende de uitvoering van de beheersovereenkomst, op basis van beleids- en beheersrelevante indicatoren en kengetallen.
+De informatieverstrekking en de rapportering door het ILVO omvatten artikel III.61 en III.62 van het bestuursdecreet van 7 december 2018 en overeenkomstig artikel 26, eerste lid, van het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen ten minste:<br>
+1° een jaarlijks ondernemingsplan en een operationeel plan op middellange en lange termijn;<br>
+2° een periodiek rapport betreffende het gebruik van de verleende delegaties;<br>
+3° een jaarlijks rapport, alsook een eindrapport, betreffende de uitvoering van de beheersovereenkomst, op basis van beleids- en beheersrelevante indicatoren en kengetallen.
 
 ### ART. 18.
 
