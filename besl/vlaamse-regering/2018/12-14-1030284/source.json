@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030284,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-14 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030284/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "09d385c3ecfe2dd8a3ffba55d2b0115d20c2c11cdb95b20a18ae357cf2f0e36c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030284&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-14",
+  "gazette": "2019-02-22",
+  "numac": 2019040387,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
