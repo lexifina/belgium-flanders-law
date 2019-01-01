@@ -117,7 +117,11 @@ De erkenning gaat in op de datum van de ondertekening van het erkenningsbesluit 
 
 ### ART. 7.
 
-Het sociaal verhuurkantoor maakt een jaarverslag op overeenkomstig het stramien dat door het agentschap ter beschikking wordt gesteld.<br /><br />Het verslag wordt jaarlijks uiterlijk op 15 maart bij het agentschap en bij de ondersteuningsstructuur ingediend, voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor is erkend.
+Elk sociaal verhuurkantoor maakt een jaarverslag op conform het model dat het agentschap ter beschikking stelt.<br>
+<br>
+Elk sociaal verhuurkantoor dat een subsidie ontvangt als vermeld in dit besluit, maakt een financiële planning op voor de komende vijf jaar conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
+<br>
+Het jaarverslag en de financiële planning worden jaarlijks uiterlijk op 15 maart bij het agentschap en bij de ondersteuningsstructuur ingediend, voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor is erkend.
 
 ## [Afdeling 4. Impact van een vrijwillige samenvoeging van gemeenten (ing. BVR 25 mei 2018, art. 1, I: 5 juli 2018)]
 
