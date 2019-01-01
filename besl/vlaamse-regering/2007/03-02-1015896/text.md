@@ -146,7 +146,9 @@ Wat actieve openbaarheid betreft, bepaalt de administrateur-generaal de wijze wa
 
 ### ART. 27.
 
-In uitvoering van het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen gewijzigd bij het decreet van 20 februari 2004, is een Klachtendienst belast met de opdrachten vastgesteld in het decreet.<br /><br />De Klachtendienst bestaat uit een of meer klachtenbehandelaars; een van hen vervult de functie van klachtencoördinator.<br />
+In uitvoering van titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018 is een Klachtendienst belast met de opdrachten vastgesteld in het decreet.<br>
+<br>
+De Klachtendienst bestaat uit een of meer klachtenbehandelaars; een van hen vervult de functie van klachtencoördinator.
 
 ### ART. 28.
 
