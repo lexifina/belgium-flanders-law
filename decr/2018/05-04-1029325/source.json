@@ -2,16 +2,16 @@
   "codex_id": 1029325,
   "title": "Decreet van 2018-05-04 betreffende de vrijwillige samenvoeging van de gemeenten Kruishoutem en Zingem en tot wijziging van de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds en de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029325/VolledigDocument?datum=2018-06-25",
-  "source_sha256": "b38388129bc531c7fa4b20ad99b32b822867be7f6cd362209abb4c4126177e6f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029325/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c050cb8b8d9f96e1c5887fb985bb8ec348a6dc3e2d457836a2df1bdd410edcce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029325&param=informatie",
-  "as_of": "2018-06-25",
+  "as_of": "2019-01-01",
   "made": "2018-05-04",
   "gazette": "2018-06-01",
   "numac": 2018012104,
   "document_start": "2018-06-11",
   "document_end": null,
-  "in_force": "2018-06-25",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2018-06-25; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
