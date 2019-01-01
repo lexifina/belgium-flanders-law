@@ -25,9 +25,14 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 14° mededeling : een of meer van de bewerkingen, vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming, die slaan op het verstrekken van gegevens door doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, als dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken, wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br>
 15° authentieke geografische gegevensbron : geografische gegevensbron als vermeld in hoofdstuk V van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
 16° GDI-Vlaanderen : de Geografische Data-Infrastructuur Vlaanderen, vermeld in artikel 4 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen;<br>
-17° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
-18° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
-19° instantie : een instantie als vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+17° deelnemer aan GDI-Vlaanderen: een instantie van de Vlaamse overheid als vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018, een instantie van een lokale overheid als vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, een instelling met een publieke taak als vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018 of een milieu-instantie als vermeld in artikel I.3, 7°, van het Bestuursdecreet van 7 december 2018;<br>
+18° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74. van het Bestuursdecreet van 7 december 2018;<br>
+19° instantie:<br>
+a) een deelnemer aan GDI-Vlaanderen;<br>
+b) een andere instantie in België die:<br>
+1) een regering of een andere bestuurlijke overheid is, met inbegrip van openbare adviesorganen, op federaal, regionaal of lokaal niveau;<br>
+2) een natuurlijke persoon of rechtspersoon is die openbare bestuursfuncties uitoefent, met inbegrip van specifieke taken, activiteiten of diensten met betrekking tot milieu;<br>
+3) een natuurlijke persoon of rechtspersoon is die onder toezicht van een orgaan of persoon als vermeld onder punt 1) of 2), belast is met openbare verantwoordelijkheden of functies, of openbare diensten op milieugebied verleent;<br>
 20° derde partij : een natuurlijke persoon, een rechtspersoon of een groepering ervan die geen instantie is;<br>
 21° initiator : een instantie of derde partij die hetzij door of krachtens dit decreet, hetzij door of krachtens een andere wettelijke of decretale bepaling exclusieve eindverantwoordelijkheid heeft gekregen over de levensloop van een adrescomponent, met inbegrip van de relatie tussen de adrescomponent en het geografische object waarnaar ze verwijst;<br>
 22° gebruiker : iedereen die gebruik maakt van het CRAB;<br>
