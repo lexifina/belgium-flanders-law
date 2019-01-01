@@ -2,16 +2,16 @@
   "codex_id": 1025173,
   "title": "Ministerieel besluit van 2015-03-26 tot uitvoering van artikel 13 en 51 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling en het artikel 13 van het besluit van 19 december 2014 tot uitvoering van het decreet lokale diensteneconomie van 22 november 2013",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025173/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "8019adbae2ac6dbda7a2d1742d9e4b80ca397cb698d5437afe5e175f06fdae8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025173/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "7a755224e16183d49210546adf634639e3dcbf16953eb901986ae1c174265c2d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025173&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2019-01-01",
   "made": "2015-03-26",
   "gazette": "2015-03-30",
   "numac": 2015035417,
   "document_start": "2015-04-01",
   "document_end": "2018-12-31",
-  "in_force": "2015-04-01",
+  "in_force": "2019-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
