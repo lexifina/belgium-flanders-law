@@ -74,7 +74,41 @@ Op verzoek van één of meerdere deelgebieden kan de werkgroep   samengesteld ui
 
 ### ART. 16.
 
-Tenzij   een deelgebied er anders over beslist en onverminderd artikel 68quinquies, § 2,   van de bijzondere financieringswet, artikel 6, § 1, IX, 7°, a), vijfde lid en   b), tweede lid, van de bijzondere wet en het koninklijk besluit van 23 augustus   2014 tot uitvoering van artikel 54, § 1, tiende lid, van de bijzondere wet van   16 januari 1989 betreffende de financiering van de Gemeenschappen en de   Gewesten, is dit protocol van toepassing voor 3 begrotingsjaren.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Na   het verstrijken van die termijn kan het protocol met termijnen van één of   meerdere jaren worden verlengd mits de regering van het betrokken deelgebied dit   tijdig notificeert aan de federale overheid. Deze notificatie wordt ten laatste   op 31 oktober voorafgaand aan het eerste betrokken begrotingsjaar gericht aan de   federale Minister van Financiën. De federale Minister van Financiën stelt de   leden van de federale regering die in de aanhef van dit protocol zijn vermeld   binnen de 2 weken van de notificatie op de hoogte.
+§ 1. Tenzij een deelgebied er anders over beslist en onverminderd artikel 68quinquies, § 2, van de bijzondere financieringswet, artikel 6, § 1, IX, 7°, a), vijfde lid en b), tweede lid, van de bijzondere wet en het koninklijk besluit van 23 augustus 2014 tot uitvoering van artikel 54, § 1, tiende lid, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, is dit protocol van toepassing voor 3 begrotingsjaren.<br>
+Na het verstrijken van die termijn kan het protocol met termijnen van één of meerdere jaren worden verlengd mits de regering van het betrokken deelgebied dit tijdig notificeert aan de federale overheid. Deze notificatie wordt ten laatste op 31 oktober voorafgaand aan het eerste betrokken begrotingsjaar gericht aan de federale Minister van Financiën. De federale Minister van Financiën stelt de leden van de federale regering die in de aanhef van dit protocol zijn vermeld binnen de 2 weken van de notificatie op de hoogte.<br>
+<br>
+§ 2. Het protocol wordt stopgezet voor wat de in artikel 5, § 1, IV, van de bijzondere wet bedoelde bevoegdheden betreft die krachtens artikel 12 van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming naar de gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie werden overgeheveld :<br>
+1° wat de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap betreft, vanaf de met ingang van 1 januari 2019 bestaande rechten op gezinsbijslagen, met inbegrip van de bij- en terugbetalingen ingevolge voorlopige en definitieve afrekeningen, rechtzettingen en achterstallen met betrekking tot de vóór 1 januari 2019 bestaande rechten op gezinsbijslagen,<br>
+2° wat de Gemeenschappelijke Gemeenschapscommissie betreft, vanaf de met ingang van 1 januari 2020 bestaande rechten op gezinsbijslagen, met inbegrip van de bij- en terugbetalingen ingevolge voorlopige en definitieve afrekeningen, rechtzettingen en achterstallen met betrekking tot de vóór 1 januari 2020 bestaande rechten op gezinsbijslagen.<br>
+<br>
+§ 3. Het protocol wordt verlengd voor wat de in artikel 5, § 1, I en II, van de bijzondere wet bedoelde bevoegdheden betreft inzake gezondheidsbeleid en bijstand aan personen en ouderenzorg die krachtens de artikelen 6 tot 8, 55 en 56, van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming naar de gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie werden overgeheveld, tot het bedrag aan behoeften :<br>
+- dat betrekking heeft op prestaties geleverd tot en met 31 december 2018, en<br>
+- dat gefactureerd wordt tot en met 31 december 2022, waarbij die gefactureerde bedragen ook de bij- en terugbetalingen ingevolge voorlopige en definitieve afrekeningen, rechtzettingen en achterstallen omvatten die betrekking hebben op prestaties geleverd tot en met 31 december 2018,<br>
+- de afsluitingen voor deze prestaties tot en met het kalenderjaar 2022.<br>
+<br>
+§ 4. Het protocol wordt verlengd voor wat de toepassing van artikel 68quinquies, § 3, van de bijzondere financieringswet betreft tot het bedrag aan vergoedingen :<br>
+- dat betrekking heeft op de in artikel 94, § 1ter, van de bijzondere wet bedoelde prestaties die geleverd worden tot en met 31 december 2019, en<br>
+- dat gefactureerd wordt tot en met 31 december 2021,<br>
+- waarbij die gefactureerde bedragen uitsluitend de bij- en terugbetalingen van de bedoelde vergoeding bevatten ingevolge de voorlopige en definitieve afrekening, rechtzettingen en achterstallen van die vergoeding met betrekking tot bedoelde prestaties die uiterlijk tot 31 december 2019 werden geleverd.<br>
+<br>
+§ 5. Het protocol wordt verlengd voor wat de toepassing van artikel 47/9, § 4, van de bijzondere financieringswet betreft inzake de financieringskost van de infrastructuur en de medisch-technische diensten van de ziekenhuizen, tot het bedrag aan behoeften:<br>
+- dat betrekking heeft op prestaties geleverd tot en met 31 december 2060, en<br>
+- dat gefactureerd wordt tot en met 31 december 2060,<br>
+- waarbij die gefactureerde bedragen ook de bij- en terugbetalingen ingevolge voorlopige en definitieve afrekeningen, rechtzettingen en achterstallen omvatten die betrekking hebben op prestaties geleverd tot en met 31 december 2060.<br>
+<br>
+§ 6. Het protocol wordt verlengd, wat de Gemeenschappelijke Gemeenschapscommissie betreft, tot de financiering van de investeringen in de infrastructuur en de medisch-technische diensten van de ziekenhuizen als bedoeld in artikel 5, § 1, I, 1°, a), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen die onder de bevoegdheid van de Gemeenschappelijke Gemeenschapscommissie ressorteren, voor zover deze investeringen :<br>
+1° nà 31 december 2015 het voorwerp hebben uitgemaakt van een eerste aflossing;<br>
+2° of, de nieuwbouw of de prioritaire verbeteringswerken betreffen die door de Gemeenschappelijke Gemeenschapscommissie worden gesubsidieerd en die niet werden voorzien op de bouwkalender die in het protocolakkoord afgesloten op de interministeriële conferentie Volksgezondheid van 19 juni 2006 is voorzien;<br>
+3° of, niet prioritaire verbeteringswerken betreffen, voor zover de investeringen conform zijn aan de van kracht zijnde federale regels en na 31 december 2015 werden aangevangen;<br>
+voor zover de betrokken bevoegdheid nog niet bij ordonnantie door de Gemeenschappelijke Gemeenschapscommissie werd overgenomen.<br>
+<br>
+§ 7. Het protocol wordt verlengd, ieder wat hem betreft, voor :<br>
+- de in artikel 6, § 1, IX, van de bijzondere wet bedoelde bevoegdheden inzake arbeidsmarktbeleid, andere dan de in artikel 6, § 1, IX, 7°, a) en b) van de bijzondere wet bedoelde bevoegdheden inzake doelgroepenbeleid, die krachtens artikel 22 van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming aan de gewesten werden overgeheveld,<br>
+- de in afdeling 5 van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen bedoelde bevoegdheden inzake loopbaanonderbreking die krachtens artikel 65 van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming aan de gewesten en de gemeenschappen werden overgeheveld,<br>
+tot het bedrag aan behoeften :<br>
+- dat betrekking heeft op prestaties geleverd tot de datum waarop de maatregelen in een gewest of een gemeenschap worden vervangen of opgeheven, en<br>
+- dat gefactureerd wordt tot wanneer de laatste prestaties, in uitdoving, werden uitgevoerd door de tijdelijke en administratieve en technische operatoren voor de maatregelen die werden vervangen of opgeheven,<br>
+- waarbij die gefactureerde bedragen ook de bij- en terugbetalingen ingevolge voorlopige en definitieve afrekeningen, rechtzettingen en achterstallen omvatten die betrekking hebben op prestaties geleverd tot en met de datum van vervanging of opheffing van de betrokken maatregelen in het betrokken gewesten of gemeenschap.
 
 ### ART. 17.
 
