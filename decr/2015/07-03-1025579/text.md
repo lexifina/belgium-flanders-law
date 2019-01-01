@@ -232,7 +232,13 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 <p>§ 4. Het fonds wordt aangewend ter financiering van uitgaven voor werking, subsidies en investeringen ten bate van verkeersveiligheid met inbegrip van de regeling van de regularisatie van de exploitatievoorwaarden van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen teneinde de organisatie van deze controle over het hele grondgebied te verzekeren.</p>
 
-<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.</p>
+<p>§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.<br>
+<br>
+§ 6. Om de verkeersveiligheid te bevorderen, kan de Vlaamse Regering, binnen de perken van de begrotingskredieten, een subsidie verlenen aan de gemeenten voor projecten die de aanleg of de verbetering van de infrastructuur aan schoolomgevingen tot doel hebben, andere dan deze bedoeld in artikel 26/10 en artikel 26/12 van het decreet van 20 maart 2009 betreffende het mobiliteitsbeleid.<br>
+<br>
+Enkel de uitvoering van de in de projectdossiers beschreven maatregelen en acties komen in aanmerking voor een subsidie. De voorbereidende werkzaamheden, zoals de opmaak van het projectdossier en eventuele bijkomende studies, onderzoeken of analyses komen niet in aanmerking voor een subsidie.<br>
+<br>
+Binnen de perken van de kredieten van het verkeersveiligheidsfonds wordt hiervoor een budgettaire enveloppe per jaar voorzien. De Vlaamse Regering bepaalt de nadere voorwaarden op basis waarvan de projecten, vermeld in het eerste lid, subsidiabel zijn en bepaalt de procedure voor de aanvraag, beoordeling, toekenning en uitbetaling van de subsidie.</p>
 
 ## HOOFDSTUK 7 Welzijn, Volksgezondheid en Gezin
 
