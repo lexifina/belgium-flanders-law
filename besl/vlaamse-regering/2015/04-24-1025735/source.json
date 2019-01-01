@@ -2,16 +2,16 @@
   "codex_id": 1025735,
   "title": "Besluit van de Vlaamse Regering van 2015-04-24 houdende de erkenning van de inventarisatie van de bedrijventerreinen op perceelsniveau in het Vlaamse Gewest als authentieke geografische gegevensbron",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025735/VolledigDocument?datum=2015-12-31",
-  "source_sha256": "5487941358a1dd88d829ee6df960bc809e93c9785fce4b5fea5c1b6b9e358ab5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025735/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "100bcfbef15970aaff8bfbcb7d6b498c384a626e541406b212845edc0cd1a4db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025735&param=informatie",
-  "as_of": "2015-12-31",
+  "as_of": "2019-01-01",
   "made": "2015-04-24",
   "gazette": "2015-08-25",
   "numac": 2015036073,
   "document_start": "2015-09-04",
   "document_end": null,
-  "in_force": "2015-12-31",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2015-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

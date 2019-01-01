@@ -10,7 +10,7 @@
 
 ### ART. 2.
 
-Het Agentschap Innoveren en Ondernemen wordt aangewezen als   beheersinstantie als vermeld in artikel 3 van het besluit van de Vlaamse   Regering van 15 mei 2009 houdende uitvoering van het decreet van 18 juli 2008   betreffende het elektronische bestuurlijke gegevensverkeer.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Het Agentschap Innoveren en Ondernemen wordt aangewezen als beheersinstantie als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018.
 
 ### ART. 3.
 
