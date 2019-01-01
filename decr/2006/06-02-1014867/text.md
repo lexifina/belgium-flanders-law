@@ -8,13 +8,22 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder <br />1° het kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° initiatiefnemer : een rechtspersoon die zorg- en dienstverlening organiseert in het kader van de persoonsgebonden aangelegenheden;<br />3° persoonsgebonden aangelegenheden : de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voorzover die aangelegenheden vallen onder het beleidsdomein, vermeld in artikel 3, tweede lid.<br /><br />
+Voor de toepassing van dit decreet wordt verstaan onder<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;;<br>
+2° initiatiefnemer : een rechtspersoon die zorg- en dienstverlening organiseert in het kader van de persoonsgebonden aangelegenheden;<br>
+3° persoonsgebonden aangelegenheden : de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voorzover die aangelegenheden vallen onder het beleidsdomein, vermeld in artikel 3, tweede lid.<br>
+&nbsp;
 
 ## HOOFDSTUK II Oprichting
 
 ### ART. 3.
 
-Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel 10 van het kaderdecreet. Dat agentschap draagt als naam Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, afgekort VIPA.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel 10, § 1, van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap, met uitzondering van artikel 4, § 2, 1 °, artikel 6, § 3, en artikel 8.<br /><br />
+Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel III.4 van het Bestuursdecreet. Dat agentschap draagt als naam Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, afgekort VIPA.<br>
+<br>
+De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel III.4, § 1, van het Bestuursdecreet.<br>
+<br>
+Artikel III.6 van het Bestuursdecreet is niet van toepassing op het agentschap.<br>
+&nbsp;
 
 ## HOOFDSTUK III Missie, taken en bevoegdheden
 
@@ -43,7 +52,12 @@ De Vlaamse Regering kan, na advies van het raadgevend comité dat is opgericht b
 
 ### ART. 7.
 
-Het VIPA registreert en verwerkt alle nodige gegevens voor :<br />1° de uitvoering van de, taken, vermeld in artikelen 5, 6, 8, 9 en 10;<br />2° het verstrekken van de beleidsgerichte input, ver-meld in artikel 4, § 3, van het kaderdecreet.<br /><br />De Vlaamse Regering bepaalt de nadere regels met betrekking tot de registratie en verwerking van de gegevens, overeenkomstig de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.<br /><br />
+Het VIPA registreert en verwerkt alle nodige gegevens voor :<br>
+1° de uitvoering van de, taken, vermeld in artikelen 5, 6, 8, 9 en 10;<br>
+2° het verstrekken van de beleidsgerichte input, vermeld in artikel III.2, derde lid, van het Bestuursdecreet.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels met betrekking tot de registratie en verwerking van de gegevens, overeenkomstig de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -61,7 +75,8 @@ Op verzoek van en ten laste van een departement of een agentschap van het beleid
 
 ### ART. 11.
 
-De Vlaamse Regering regelt de werking van het agentschap voorzover deze regeling geen afbreuk doet aan de beslissings- en beleidsstructuur die in het kaderdecreet of in dit decreet is vastgelegd. Ze regelt ook het beheer van het agentschap. In afwijking van artikel 6, § 3, van het kaderdecreet kan ze het hoofd van het departement van het beleidsdomein in kwestie met de algemene leiding, de werking en de vertegenwoordiging van het VIPA belasten.<br /><br />
+De Vlaamse Regering regelt de werking van het agentschap voorzover deze regeling geen afbreuk doet aan de beslissings- en beleidsstructuur die in het Bestuursdecreet of in dit decreet is vastgelegd. Ze regelt ook het beheer van het agentschap. In afwijking van artikel III.6 van het Bestuursdecreet kan ze het hoofd van het departement van het beleidsdomein in kwestie met de algemene leiding, de werking en de vertegenwoordiging van het VIPA belasten.<br>
+&nbsp;
 
 ### ART. 12.
 
@@ -85,7 +100,19 @@ In afwijking van de bepalingen van het vigerende decreet houdende de algemene ui
 
 ### ART. 16.
 
-§ 1. De Vlaamse Regering wordt ermee belast de bestaande wets- en decreetsbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.<br /><br />De bevoegdheid die hiertoe aan de Vlaamse Regering is opgedragen vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse Regering kan de bepalingen van de decreten betreffende het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden coordineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Daartoe kan de Vlaamse Regering :<br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.<br /><br />
+§ 1. De Vlaamse Regering wordt ermee belast de bestaande wets- en decreetsbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.<br>
+<br>
+De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.<br>
+<br>
+De bevoegdheid die hiertoe aan de Vlaamse Regering is opgedragen vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse Regering kan de bepalingen van de decreten betreffende het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden coordineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Daartoe kan de Vlaamse Regering :<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.<br>
+&nbsp;
 
 ## HOOFDSTUK VII Slotbepalingen
 
@@ -127,7 +154,12 @@ Aan artikel 6, 1 °, van het decreet van 7 mei 2004 tot oprichting van het inter
 
 ### ART. 26.
 
-Alle aanvragen tot investeringssubsidies betreffende voorzieningen in de kinderdagopvangsector en voorzieningen voor de sociale integratie van personen met een handicap die hangende zijn op de datum van de inwerkingtreding van dit decreet, worden verder behandeld door het VIPA, dat daarvoor in de plaats treedt respectievelijk van de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, en van de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of hun rechtsopvolger.<br /><br />Het VIPA neemt, wat betreft de investeringssubsidies, de rechten en plichten over van de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, en van de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of hun rechtsopvolger.<br /><br />Het eerste en het tweede lid zijn niet van toepassing op de volgende voorzieningen inzake de sociale integratie van personen met een handicap : de beschutte werkplaatsen, de centra, voor beroepsopleiding of -omscholing en de centra voor gespecialiseerde voorlichting bij beroepskeuze.<br /><br />
+Alle aanvragen tot investeringssubsidies betreffende voorzieningen in de kinderdagopvangsector en voorzieningen voor de sociale integratie van personen met een handicap die hangende zijn op de datum van de inwerkingtreding van dit decreet, worden verder behandeld door het VIPA, dat daarvoor in de plaats treedt respectievelijk van de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, en van de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of hun rechtsopvolger.<br>
+<br>
+Het VIPA neemt, wat betreft de investeringssubsidies, de rechten en plichten over van de instelling Kind en Gezin, opgericht bij het decreet van 29 mei 1984 houdende oprichting van de instelling Kind en Gezin, en van de instelling Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, opgericht bij het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap, of hun rechtsopvolger.<br>
+<br>
+Het eerste en het tweede lid zijn niet van toepassing op de volgende voorzieningen inzake de sociale integratie van personen met een handicap : de maatwerkbedrijven, de centra, voor beroepsopleiding of -omscholing en de centra voor gespecialiseerde voorlichting bij beroepskeuze.<br>
+&nbsp;
 
 ### ART. 27.
 
