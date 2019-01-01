@@ -433,19 +433,9 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART. 45.
 
-<p>§ 1. In afwijking van artikel 44 kan de Vlaamse Regering het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan, geheel of gedeeltelijk toewijzen aan andere ambtenaren.<br>
-<br>
-§ 2. De ambtenaren, vermeld in paragraaf 1, beschikken over de volgende toezichtsrechten, waarvan zij alleen gebruikmaken als dat passend en noodzakelijk is om de toezichtsopdracht te vervullen:<br>
-1° het recht op toegang tot alle plaatsen tussen 5 uur en 21 uur. Als het gaat om bewoonde ruimtes, hebben de ambtenaren alleen toegang als de persoon die het werkelijke genot van de ruimtes heeft, daar vooraf en schriftelijk zijn toestemming voor heeft gegeven of als de rechter in de politierechtbank daarvoor vooraf machtiging heeft verleend;<br>
-2° het recht om informatie te vragen aan iedere persoon van wie ze dat nodig achten;<br>
-3° het recht op identiteitsopname;<br>
-4° het recht om inzage te vorderen in documenten en andere informatiedragers die verband houden met dit decreet. Daarvoor mogen de personeelsleden zich die informatiedragers laten voorleggen op de plaats die ze aanwijzen. Ze mogen zich van de documenten en andere informatiedragers kosteloos een kopie laten verstrekken of er zelf een kopie van maken. Als ze ter plaatse geen kopieën kunnen maken, mogen ze de informatiedragers voor korte tijd meenemen om ze in te kijken of om ze te kopiëren, tegen afgifte van een schriftelijk ontvangstbewijs met een inventaris van de informatiedragers in kwestie;<br>
-5° het recht om vaststellingen te doen van mogelijke schendingen van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, met behulp van audiovisuele middelen. Die vaststellingen gelden tot bewijs van het tegendeel, op voorwaarde dat de ambtenaren ze zelf en op regelmatige wijze hebben gedaan;<br>
-6° het recht op onderzoek van zaken;<br>
-7° het recht om zich te laten bijstaan door deskundigen;<br>
-8° het recht om bij de uitoefening van hun toezichtopdracht de bijstand van de politie te vorderen.<br>
-<br>
-De Vlaamse Regering bepaalt de nadere regels.</p>
+<p>§ 1. In afwijking van artikel 44 kan de Vlaamse Regering het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan, geheel of gedeeltelijk toewijzen aan andere ambtenaren.</p>
+
+<p>§ 2. ....</p>
 
 ### ART. 46.
 
