@@ -6,7 +6,9 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ### ART. 1.
 
-Dit besluit is van toepassing op :<br />1° de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, zoals bedoeld in het kaderdecreet bestuurlijk beleid van 18 juli 2003, met uitzondering van de gedelegeerd bestuurder;<br />2° de regeringsafgevaardigden die toezicht uitoefenen op deze agentschappen.<br />
+Dit besluit is van toepassing op :<br>
+1° de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, vermeld in artikel III.7 van het bestuursdecreet van 7 december 2018, met uitzondering van de gedelegeerd bestuurder;<br>
+2° de regeringsafgevaardigden die toezicht uitoefenen op deze agentschappen.
 
 ### ART. 2.
 
@@ -66,7 +68,8 @@ In categorie II worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegeve
 2° De Vlaamse Waterweg, naamloze vennootschap;<br>
 3° ...;<br>
 4° Vlaamse Landmaatschappij, naamloze vennootschap;<br>
-5° Vlaamse Maatschappij voor Sociaal Wonen, naamloze vennootschap.
+5° Vlaamse Maatschappij voor Sociaal Wonen, naamloze vennootschap;<br>
+6° Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid.
 
 ### ART. 7.
 
