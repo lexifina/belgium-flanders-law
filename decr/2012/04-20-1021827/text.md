@@ -22,12 +22,13 @@ In dit decreet wordt verstaan onder :<br>
 9° lokaal bestuur : het gemeentebestuur en het bestuur van het openbaar centrum voor maatschappelijk welzijn. Voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad worden de opdrachten van het lokaal bestuur opgenomen door de Vlaamse Gemeenschapscommissie;<br>
 10° lokaal loket kinderopvang : neutraal informatie- en ondersteuningspunt voor gezinnen met een vraag naar kinderopvang, in de vorm van een netwerk van actoren die relevant zijn voor kinderopvang;<br>
 11° toezichthouder : de organisatie die één of meerdere toezichtperso(o)n(en) aanwijst om ter plaatse te laten vaststellen of de organisator de bepalingen van dit decreet en de uitvoeringsbesluiten ervan naleeft, om Kind en Gezin daarover te adviseren;<br>
-12° toezichtpersoon : het personeelslid van de toezichthouder dat toezicht houdt;<br>
+12° private toezichtpersoon : het personeelslid van de private toezichthouder dat toezicht houdt;<br>
 13° Zorginspectie : Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
 14° tegelijk aanwezige kinderen : alle baby's, peuters en kinderen die naar de basisschool gaan, en wat de kinderen die deel uitmaken van het gezin van de kinderbegeleider gezinsopvang betreft tot het einde van de kleuterschool, die gelijktijdig in de kinderopvanglocatie aanwezig zijn;<br>
 15° zorgregio : zorgregio niveau kleine stad, vermeld in artikel 2, 5°, van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen. De gemeenten behorend tot het tweetalige gebied Brussel-Hoofdstad worden beschouwd als één aparte zorgregio;<br>
 16° kwalificatie : een afgerond en ingeschaald geheel van competenties;<br>
-17° competentie : de bekwaamheid om kennis, vaardigheden en attitudes in het handelen geïntegreerd aan te wenden voor maatschappelijke activiteiten.<br>
+17° competentie : de bekwaamheid om kennis, vaardigheden en attitudes in het handelen geïntegreerd aan te wenden voor maatschappelijke activiteiten;<br>
+18° private toezichthouder: een toezichthouder die is vormgegeven volgens het private vennootschaps- of verenigingsrecht.<br>
 <br>
 Onder meer de volgende activiteiten worden niet beschouwd als kinderopvang met betrekking tot baby's en peuters :<br>
 1° jeugdhulpverlening als vermeld in artikel 2, § 1, 30°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
@@ -208,13 +209,13 @@ De Vlaamse Regering kan nadere regels bepalen om vernieuwende projecten inzake k
 
 De Vlaamse Regering kan toezichthouders aanwijzen naast Zorginspectie. Dit gebeurt op basis van regels die de Vlaamse Regering heeft bepaald voor :<br>
 1° de toezichtopdracht;<br>
-2° de voorwaarden waaraan de toezichthouder en de toezichtperso(o)n(en) moeten voldoen, minstens met betrekking tot de vereiste expertise, de vereiste kwalificaties en de onafhankelijkheid ten opzichte van de organisator;<br>
+2° de voorwaarden waaraan de private toezichthouder en de private toezichtperso(o)n(en) moeten voldoen, minstens met betrekking tot de vereiste expertise, de vereiste kwalificaties en de onafhankelijkheid ten opzichte van de organisator;<br>
 3° de voorafgaande machtiging door de Vlaamse Regering;<br>
-4° de controle op de toezichthouder;<br>
+4° de controle op de private toezichthouder;<br>
 5° de prijs die voor het toezicht gevraagd wordt, en wie die prijs betaalt;<br>
 6° de verhouding met Zorginspectie en met Kind en Gezin.<br>
 <br>
-Bij de uitoefening van zijn toezichtopdracht draagt de toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.<br>
+Bij de uitoefening van zijn toezichtopdracht draagt de private toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.<br>
 <br>
 Kind en Gezin oefent toezicht uit op stukken.
 
@@ -222,11 +223,30 @@ Kind en Gezin oefent toezicht uit op stukken.
 
 ### ART. 16.
 
-De toezichtpersoon beschikt over de volgende toezichtrechten, waarvan de toezichtpersoon alleen gebruik maakt als dat relevant en noodzakelijk is om de toezichtopdracht te vervullen :<br />1° het recht op toegang in de ruimten die gebruikt worden voor kinderopvang gedurende de openingstijden van de kinderopvanglocatie. De aanvraag van een vergunning bevat een toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor kinderopvang dienen;<br />2° het recht om inzage te vorderen in documenten en andere informatiedragers die verband houden met kinderopvang. Daarvoor mag hij zich die informatiedragers laten voorleggen op de plaats die hij aanwijst. Hij mag zich van de documenten en andere informatiedragers kosteloos een kopie laten verstrekken of er zelf een kopie van maken. Als hij ter plaatse geen kopieën kan maken, mag hij de informatiedragers voor korte tijd meenemen om ze in te kijken of om ze te kopiëren, tegen afgifte van een schriftelijk ontvangstbewijs met een inventaris van de informatiedragers in kwestie;<br />3° het recht om vaststellingen te doen van mogelijke schendingen van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan in de ruimten die gebruikt worden voor kinderopvang, met behulp van audiovisuele middelen. Identificeerbare personen en voorwerpen mogen alleen op de audiovisuele middelen voorkomen als dat relevant en noodzakelijk is;<br />4° het recht van onderzoek van zaken, zoals het recht van monsterneming en analyse;<br />5° het recht om bij de uitoefening van zijn toezichtopdracht de bijstand van de politie te vorderen.<br /><br />De Vlaamse Regering bepaalt de nadere regels.<br /><br />De toezichtpersonen oefenen de bevoegdheden, vermeld in het eerste lid, uit met het oog op het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.<br /><br />Bij de uitoefening van de bevoegdheden, vermeld in het eerste lid, staan de toezichthouder en de toezichtpersoon ervoor in dat de middelen die de toezichtpersoon aanwendt, passend en noodzakelijk zijn voor het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.
+De private toezichtpersoon beschikt over de volgende toezichtrechten, waarvan de private toezichtpersoon alleen gebruik maakt als dat relevant en noodzakelijk is om de toezichtopdracht te vervullen :<br>
+1° het recht op toegang in de ruimten die gebruikt worden voor kinderopvang gedurende de openingstijden van de kinderopvanglocatie. De aanvraag van een vergunning bevat een toestemming van alle meerderjarige natuurlijke personen die de lokalen bewonen om controlebezoeken te laten uitvoeren in de bewoonde lokalen die voor kinderopvang dienen;<br>
+2° het recht om inzage te vorderen in documenten en andere informatiedragers die verband houden met kinderopvang. Daarvoor mag hij zich die informatiedragers laten voorleggen op de plaats die hij aanwijst. Hij mag zich van de documenten en andere informatiedragers kosteloos een kopie laten verstrekken of er zelf een kopie van maken. Als hij ter plaatse geen kopieën kan maken, mag hij de informatiedragers voor korte tijd meenemen om ze in te kijken of om ze te kopiëren, tegen afgifte van een schriftelijk ontvangstbewijs met een inventaris van de informatiedragers in kwestie;<br>
+3° het recht om vaststellingen te doen van mogelijke schendingen van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan in de ruimten die gebruikt worden voor kinderopvang, met behulp van audiovisuele middelen. Identificeerbare personen en voorwerpen mogen alleen op de audiovisuele middelen voorkomen als dat relevant en noodzakelijk is;<br>
+4° het recht van onderzoek van zaken, zoals het recht van monsterneming en analyse;<br>
+5° het recht om bij de uitoefening van zijn toezichtopdracht de bijstand van de politie te vorderen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels.<br>
+<br>
+De private toezichtpersonen oefenen de bevoegdheden, vermeld in het eerste lid, uit met het oog op het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+Bij de uitoefening van de bevoegdheden, vermeld in het eerste lid, staan de private toezichthouder en de private toezichtpersoon ervoor in dat de middelen die de private&nbsp;toezichtpersoon aanwendt, passend en noodzakelijk zijn voor het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.
 
 ### ART. 17.
 
-De toezichtpersoon maakt een verslag op van zijn toezichtbezoek en stelt, in voorkomend geval, inbreuken vast in een verslag van vaststelling. Als een kopie van de verslagen naar de organisator is gestuurd, hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.<br /><br />De organisator heeft het recht om binnen een termijn van veertien kalenderdagen na de schriftelijke kennisgeving schriftelijke opmerkingen over de inhoud van het verslag aan de toezichthouder over te maken.<br /><br />De toezichthouder voegt de eventuele schriftelijke opmerkingen van de organisator bij het verslag van vaststelling dat hij aan Kind en Gezin bezorgt.<br /><br />Op basis van het ontvangen verslag van vaststelling van de toezichthouder onderneemt Kind en Gezin zo nodig verdere stappen volgens de bepalingen, vermeld in artikel 18 tot en met 22. Kind en Gezin stelt de organisator daarvan in kennis.<br /><br />De Vlaamse Regering bepaalt de nadere regels.
+De private toezichtpersoon maakt een verslag op van zijn toezichtbezoek en stelt, in voorkomend geval, inbreuken vast in een verslag van vaststelling. Als een kopie van de verslagen naar de organisator is gestuurd, hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.<br>
+<br>
+De organisator heeft het recht om binnen een termijn van veertien kalenderdagen na de schriftelijke kennisgeving schriftelijke opmerkingen over de inhoud van het verslag aan de private toezichthouder over te maken.<br>
+<br>
+De private toezichthouder voegt de eventuele schriftelijke opmerkingen van de organisator bij het verslag van vaststelling dat hij aan Kind en Gezin bezorgt.<br>
+<br>
+Op basis van het ontvangen verslag van vaststelling van de private toezichthouder onderneemt Kind en Gezin zo nodig verdere stappen volgens de bepalingen, vermeld in artikel 18 tot en met 22. Kind en Gezin stelt de organisator daarvan in kennis.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels.
 
 ## Afdeling 2. Aanmaning
 
@@ -234,15 +254,21 @@ De toezichtpersoon maakt een verslag op van zijn toezichtbezoek en stelt, in voo
 
 Als wordt vastgesteld dat een organisator de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, of het door of krachtens dit decreet geregelde toezicht verhindert, wordt de organisator schriftelijk aangemaand door Kind en Gezin. Die aanmaning vermeldt een termijn waarbinnen de organisator moet voldoen aan de niet-nageleefde bepalingen&nbsp;of aan de vereisten betreffende het toezicht en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.<br>
 <br>
-Bij dringende noodzakelijkheid kan die aanmaning achterwege gelaten worden en worden onmiddellijk bestuurlijke maatregelen genomen zoals vermeld in afdeling 3.<br>
-<br>
 De Vlaamse Regering bepaalt de nadere regels.
 
 ## Afdeling 3. Bestuurlijke maatregelen
 
 ### ART. 19.
 
-Kind en Gezin kan de vergunning wijzigen, schorsen of opheffen als de organisator :<br />1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br />2° het door of krachtens dit decreet geregelde toezicht verhindert.<br /><br />De schorsing van de vergunning heeft van rechtswege de opschorting van de uitoefening van de kinderopvang tot gevolg vanaf de dag die volgt op de datum van de kennisgeving van de beslissing tot schorsing, tot het moment waarop de organisator weer voldoet aan de bepalingen, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br /><br />De opheffing van de vergunning heeft van rechtswege de sluiting van de kinderopvanglocatie tot gevolg.<br /><br />De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevatten om een bezwaar in te dienen.
+Kind en Gezin kan de vergunning wijzigen, schorsen of opheffen als de organisator :<br>
+1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
+2° ...<br>
+<br>
+De schorsing van de vergunning heeft van rechtswege de opschorting van de uitoefening van de kinderopvang tot gevolg vanaf de dag die volgt op de datum van de kennisgeving van de beslissing tot schorsing, tot het moment waarop de organisator weer voldoet aan de bepalingen, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+De opheffing van de vergunning heeft van rechtswege de sluiting van de kinderopvanglocatie tot gevolg.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevatten om een bezwaar in te dienen.
 
 ### ART. 20.
 
@@ -268,7 +294,20 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 22.
 
-Kind en Gezin kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br />1° het door of krachtens dit decreet geregelde toezicht verhindert;<br />2° kinderopvang organiseert zonder vergunning als vermeld in artikel 4;<br />3° de bepalingen van dit decreet en de uitvoeringsbesluiten ervan niet naleeft.<br /><br />De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat Kind en Gezin het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br /><br />De betrokkene kan, op straffe van verval van het recht tot het instellen van het beroep, binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd tegen die beslissing beroep aantekenen met een verzoekschrift bij de Raad van State. Dat beroep schorst de uitvoering van de beslissing.<br /><br />Als de betrokkene weigert de bestuurlijke geldboete te betalen, wordt ze bij dwangbevel ingevorderd. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br /><br />De vordering tot voldoening van de bestuurlijke geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het tweede lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
+Kind en Gezin kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br>
+1° het door of krachtens dit decreet geregelde toezicht door de private toezichthouder verhindert;<br>
+2° kinderopvang organiseert zonder vergunning als vermeld in artikel 4;<br>
+3° de bepalingen van dit decreet en de uitvoeringsbesluiten ervan niet naleeft.<br>
+<br>
+De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat Kind en Gezin het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
+<br>
+De betrokkene kan, op straffe van verval van het recht tot het instellen van het beroep, binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd tegen die beslissing beroep aantekenen met een verzoekschrift bij de Raad van State. Dat beroep schorst de uitvoering van de beslissing.<br>
+<br>
+Als de betrokkene weigert de bestuurlijke geldboete te betalen, wordt ze bij dwangbevel ingevorderd. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br>
+<br>
+De vordering tot voldoening van de bestuurlijke geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het tweede lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
 
 ### ART. 23.
 
