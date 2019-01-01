@@ -6,11 +6,145 @@
 
 ### ART. 1.
 
-&nbsp;Een centrum voor teleonthaal rapporteert jaarlijks over de volgende   resultaatgerichte indicatoren met betrekking tot de uitvoering van de bepalingen   van artikel 4 en artikel 5 van het besluit van de Vlaamse Regering van 21 juni   2013 betreffende het algemeen welzijnswerk:<BR>1° de verhouding tussen de   voltijdsequivalenten vrijwilligers en de voltijdsequivalenten   beroepskrachten;<BR>2° het gemiddelde aantal gepresteerde uren per   vrijwilliger;<BR>3° het aantal uren gevolgde vorming per jaar door werknemers in   verhouding tot het aantal effectief gepresteerde uren;<BR>4° het aantal uren   vorming, gedoceerd door beroepskrachten, per jaar in verhouding tot het aantal   effectief gepresteerde uren door beroepskrachten per jaar;<BR>5° de gemiddelde   anciënniteit van vrijwilligers en beroepskrachten;<BR>6° een tabel met de   gespreksthema's van de telefoongesprekken;<BR>7° een tabel met de   gespreksthema's van de onlinegesprekken;<BR>8° de verhouding tussen de instroom   en de uitstroom van vrijwilligers;<BR>9° het gemiddelde aantal uren telefonische   en onlinebereikbaarheid per dag;<BR>10° de kostprijs van de bekendmaking en de   rekrutering per nieuwe vrijwilliger;<BR>11° de kostprijs van de bekendmaking en   de rekrutering per oproep;<BR>12° de bezettingsgraad van de telefonische en de   onlinebereikbaarheid;<BR>13° de kostprijs van vorming per uur voor   vrijwilligers;<BR>14° een overzicht van de doorverwijzingen bij   telefoongesprekken;<BR>15° een overzicht van de doorverwijzingen bij   onlinegesprekken;<BR>16° de kostprijs van infrastructuur per voltijdsequivalent   medewerker, zowel beroepskrachten als vrijwilligers;<BR>17° het procentuele   aandeel oproepen zonder gesprek;<BR>18° de verhouding tussen online- en   telefonische oproepen;<BR>19° de verhouding tussen online- en telefonische   gesprekken;<BR>20° de gemiddelde duurtijd van online- en telefonische   oproepen.<BR>
+&nbsp;Een centrum voor teleonthaal rapporteert jaarlijks over de volgende resultaatgerichte indicatoren met betrekking tot de uitvoering van de bepalingen van artikel 4 en artikel 5 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk:<br>
+1° de verhouding tussen de voltijdsequivalenten vrijwilligers en de voltijdsequivalenten beroepskrachten;<br>
+2° het gemiddelde aantal gepresteerde uren per vrijwilliger;<br>
+3° het aantal uren gevolgde vorming per jaar door werknemers in verhouding tot het aantal effectief gepresteerde uren;<br>
+4° het aantal uren vorming, gedoceerd door beroepskrachten, per jaar in verhouding tot het aantal effectief gepresteerde uren door beroepskrachten per jaar;<br>
+5° de mediaan anciënniteit van vrijwilligers en beroepskrachten die op 31 december van het werkingsjaar actief zijn;<br>
+6° een tabel met de gespreksthema's van de telefoongesprekken;<br>
+7° een tabel met de gespreksthema's van de onlinegesprekken;<br>
+8° de verhouding tussen de instroom en de uitstroom van vrijwilligers;<br>
+9° het gemiddelde aantal uren telefonische en onlinebereikbaarheid per dag;<br>
+10° de kostprijs van de bekendmaking en de rekrutering per nieuwe vrijwilliger;<br>
+11° de kostprijs van de bekendmaking en de rekrutering per oproep;<br>
+12° een overzicht van de totale effectieve gesprekstijd op jaarbasis aan de telefoon;<br>
+13° een overzicht van de totale effectieve gesprekstijd op jaarbasis via chat;<br>
+14° een overzicht van de doorverwijzingen bij telefoongesprekken;<br>
+15° een overzicht van de doorverwijzingen bij onlinegesprekken;<br>
+16° de kostprijs van infrastructuur per voltijdsequivalent medewerker, zowel beroepskrachten als vrijwilligers;<br>
+17° het procentuele aandeel oproepen zonder gesprek;<br>
+18° de verhouding tussen online- en telefonische oproepen;<br>
+19° de verhouding tussen online- en telefonische gesprekken;<br>
+20° de gemiddelde duurtijd van online- en telefonische oproepen.
 
 ### ART. 2.
 
-Een centrum voor algemeen welzijnswerk rapporteert jaarlijks over de   volgende resultaatgerichte indicatoren met betrekking tot de uitvoering van de   sectorale doelstellingen, vermeld in artikel 11 van het besluit van de Vlaamse   Regering van 21 juni 2013 betreffende het algemeen welzijnswerk, die het moet   realiseren in het kader van het aanbod van de hulp- en dienstverlening, vermeld   in artikel 6 tot en met 10 van het voormelde besluit:<BR>1° met betrekking tot   het bereiken van kwetsbare personen en groepen als vermeld in artikel 11, eerste   lid, 1° tot en met 3°, van het voormelde besluit:<BR>a) een beschrijving van de   acties die het CAW heeft ondernomen, op basis van de analyse die het heeft   gemaakt;<BR>b) een opgave van de groepen of personen die het daarmee heeft   bereikt, zowel op kwantitatieve als op kwalitatieve wijze;<BR>c) een   beschrijving van de signalen die uit de acties zijn voortgevloeid;<BR>d) het   aandeel bereikte kwetsbare personen in verhouding tot de aanwezigheid van   kwetsbare personen in de regio. Om de kwetsbaarheid te bepalen, worden minimaal   de indicatoren inkomensniveau in verhouding tot gezinssamenstelling en   opleidingsniveau gehanteerd;<BR>2° met betrekking tot de opdracht preventie,   vermeld in artikel 11, eerste lid, 4°, van het voormelde besluit: een   beschrijving van de preventieprojecten aan de hand van de projectfiche, ter   beschikking gesteld door het Departement Welzijn, Volksgezondheid en   Gezin;<BR>3° met betrekking tot de opdracht onthaal, vermeld in artikel 11,   eerste lid, 5° tot en met 11°, van het voormelde besluit:<BR>a) per zorgregio   een opgave van:<BR>1) het aantal kwetsbare personen dat gebruikmaakt van onthaal   en evolutie per jaar;<BR>2) de aanwezigheid van kwetsbare personen in verhouding   tot niet-kwetsbare personen in onthaal;<BR>3) de aanwezigheid van kwetsbare   personen in onthaal in verhouding tot kwetsbare personen in de totale populatie   uit de zorgregio;<BR>b) per zorgregio een opgave van:<BR>1) het gebruik van het   onthaal door:<BR>i) het aantal jongeren, enerzijds van twaalf tot en met   zeventien jaar, en anderzijds van achttien tot en met vijfentwintig jaar;<BR>ii)   het aantal personen met een vraag over slachtofferschap, van zowel slachtoffers   van geweld, misdrijven en rampen, en hun na- en naastbestaanden;<BR>iii) het   aantal personen met een vraag over slachtofferschap dat is doorverwezen door de   politie;<BR>iv) het aantal personen dat een vraag stelt naar aanleiding van   betrokkenheid bij een verkeersongeval van zowel slachtoffers, nabestaanden,   naastbestaanden en veroorzakers;<BR>v) het aantal gedetineerden per   gevangenis;<BR>2) de evolutie per jaar voor de onderscheiden groepen;<BR>3) de   aanwezigheid van de onderscheiden groepen, vermeld in punt 1, in verhouding tot   totale cliënteel in onthaal;<BR>4) de aanwezigheid van de onderscheiden groepen   in onthaal, vermeld in punt 1, in verhouding tot de aanwezigheid van die   onderscheiden groepen in de zorgregio;<BR>c) per zorgregio: een opgave van de   doorstroom:<BR>1) het aantal doorstromers naar begeleiding binnen het CAW, en de   tijd tussen de afronding van het onthaal en de start van de begeleiding,   uitgedrukt in de volgende categorieën: minder dan één week, één week, twee   weken, twee weken tot één maand, één maand tot drie maanden, meer dan drie   maanden;<BR>2) het aantal doorverwijzingen vanuit onthaal naar   niet-AWW-hulpverlening met vermelding van de dienst, voorziening of organisatie   waarnaar wordt doorverwezen;<BR>3) het aandeel waarvoor effectief   niet-AWW-begeleiding is opgestart, voor de onderscheiden doelgroepen;<BR>d) per   zorgregio: een opgave van de gegevens over de beëindiging van de   hulpverlening:<BR>1) het aantal hulpvragen, afgerond in onthaal zonder verdere   begeleidingsbehoefte;<BR>2) het aantal hulpvragen, afgebroken in onthaal;<BR>e)   een opgave van het aantal cliënten dat gebruikmaakt van het onthaalaanbod via   nieuwe media, en de evolutie per jaar;<BR>f) een opgave van het aantal oproepen   bij 1712, met opsplitsing per problematiek;<BR>4° met betrekking tot de opdracht   begeleiding, vermeld in artikel 11, eerste lid, 12° tot en met 25°, van het   voormelde besluit, en geldend voor elke sectorale doelstelling met betrekking   tot begeleiding:<BR>a) het aantal cliënten dat gebruikmaakt van het   begeleidingsaanbod, met opgave van hun leeftijd, uitgedrukt in de volgende   categorieën: minder dan 12 jaar, van 12 tot en met 17 jaar, van 18 tot en met 25   jaar, van 26 tot en met 59 jaar, meer dan 60 jaar. Als hulp betrekking heeft op   minderjarigen, wordt het statuut van de cliënt, namelijk kind, ouder of   opvoedingsverantwoordelijke, vermeld. De evolutie per jaar wordt weergegeven.   Bij woonproblematiek en schuldproblematiek worden die gegevens opgesplitst per   aanbodsvorm in het gedifferentieerde begeleidingsaanbod;<BR>b) de duur van de   afgeronde begeleidingen: het aantal begeleidingen met gemiddelde duur tussen nul   en drie maanden, van drie tot zes maanden, van negen tot twaalf maanden, meer   dan één jaar, en de evolutie per jaar;<BR>c) het gemiddelde aantal contacten van   de afgeronde begeleidingen;<BR>d) het aantal cliënten dat door het CAW wordt   doorverwezen naar gepaste vervolgbegeleiding buiten het CAW, met specificatie   naar welke dienst, voorziening of organisatie, en vermelding van de duurtijd   tussen de doorverwijzing en de start van de vervolgbegeleiding, en de evolutie   per jaar;<BR>e) het aantal cliënten dat doorverwezen is en voor wie de   doorverwijzing niet heeft geleid tot verdere begeleiding, ten opzichte van het   aantal cliënten dat doorverwezen is en voor wie de doorverwijzing wel heeft   geleid tot verdere begeleiding, en de evolutie per jaar;<BR>f) het aantal   begeleidingen dat vroegtijdig en eenzijdig wordt afgebroken, ten opzichte van   het aantal cliënten dat hulpverlening blijft krijgen tot de einddatum die   afgesproken is;<BR>5° met betrekking tot de opdracht begeleiding, vermeld in   artikel 11, eerste lid, 12° tot en met 25°, van het voormelde besluit, en   geldend voor specifieke sectorale doelstellingen met betrekking tot   begeleiding:<BR>a) met betrekking tot minderjarigen: het aantal cliënten dat   doorverwezen is door een andere dienst, met vermelding van de diensten waardoor   ze doorverwezen zijn;<BR>b) met betrekking tot de slachtoffers van een misdrijf   en hun na(ast)bestaanden: het aantal doorverwijzingen via politie die uitmonden   in psychosociale begeleiding, in verhouding tot:<BR>1) het totale aantal   doorverwijzingen door de politie;<BR>2) het totale aantal psychosociale   begeleidingen van slachtoffers;<BR>c) met betrekking tot slachtoffers en plegers   van familiaal geweld en misbruik: het aantal afgeronde begeleidingen waarbij na   afsluiting van de begeleiding geweld na zes maanden nog altijd gestopt is, in   verhouding tot het totale aantal afgeronde begeleidingen;<BR>d) het aantal   cliënten met psychische en psychiatrische stoornissen dat is doorverwezen naar   meer gespecialiseerde begeleiding en dat daar ook effectief terechtkan, met   specificering van de gespecialiseerde begeleiding waarnaar is   doorverwezen;<BR>e) het aantal begeleidingen met betrekking tot   scheidingsproblemen waarbij duurzame afspraken zijn gemaakt tussen de ouders   over de kinderen, ten opzichte van het aantal begeleidingen dat niet tot   duurzame afspraken heeft geleid;<BR>f) met betrekking tot begeleidingen in het   kader van een woonproblematiek:<BR>1) het aantal begeleidingen waarvoor de   risico's onder controle zijn gebracht en zelfstandig wonen kan worden   gerealiseerd;<BR>2) de bezettingsgraad in residentiële begeleiding;<BR>3) het   aantal preventieve woonbegeleidingen;<BR>4) het aantal cliënten bij wie   uithuiszetting vermeden is één jaar na de afronding van de begeleiding;<BR>5)   het aantal begeleidingen waarvoor wordt samengewerkt met andere deelwerkingen   van het CAW in het kader van het hulpverleningsplan;<BR>6) het aantal   begeleidingen waarvoor wordt samengewerkt met respectievelijk welzijnsactoren en   huisvestingsactoren;<BR>7) het aantal cliënten dat het CAW doorverwijst naar   gespecialiseerde zorg en dat daar ook effectief terechtkan, met specificering   van de voorzieningen waarnaar is doorverwezen, en de evolutie per jaar;<BR>8) de   duur tussen de doorverwijzing en de start van de begeleiding in gespecialiseerde   zorg, uitgedrukt in de volgende categorieën: één week, twee weken, twee weken   tot één maand, één maand tot drie maanden, meer dan drie maanden;<BR>g) met   betrekking tot begeleidingen in het kader van een schuldproblematiek:<BR>1) een   beschrijving van het gedifferentieerde begeleidingsaanbod;<BR>2) het aantal   cliënten bij wie na afronding van de begeleiding schulden uitblijven of   beheersbaar blijven één jaar na de begeleiding;<BR>h) met betrekking tot   personen met een precair verblijfsstatuut: het aantal begeleidingen waarbij   zinvolle toekomstoriëntatie aan bod komt, met vermelding van de doelstelling van   de begeleiding: terugkeer of regularisatie;<BR>i) met betrekking tot integrale   begeleiding aan personen en gezinnen in armoede:<BR>1) het aantal personen en   gezinnen in armoede dat integrale begeleiding ontvangt, met vermelding van de   verschillende aspecten of levensdomeinen die daarbij aan bod komen;<BR>2) het   aantal begeleidingen waarvoor samengewerkt wordt met andere diensten,   voorzieningen of organisaties, met specificering van die diensten, voorzieningen   of organisaties;<BR>j) met betrekking tot gedetineerden:<BR>1) het aantal   gedetineerden dat door het CAW is bijgestaan bij de opmaak van hun hulp- en   dienstverleningsplan;<BR>2) het aantal gedetineerden dat integraal is begeleid   door het CAW;<BR>3) het aantal doorverwijzingen naar hulp- en dienstverlening   buiten het CAW, met specificering van de hulp- en dienstverlening waarnaar is   doorverwezen;<BR>4) het aantal dossiers waarin de gedetineerde wordt geholpen   bij het onderhouden, versterken of herstellen van zijn sociaal netwerk;<BR>5)   een oplijsting van de diensten, voorzieningen of organisaties waarmee contact   wordt opgenomen in het kader van reclasseringsdossiers;<BR>6) het aantal   gedetineerden dat ondersteund wordt bij de opmaak van hun reclasseringsplan voor   de strafuitvoeringsrechtbank;<BR>7) het aantal doorverwijzingen naar andere   deelwerkingen van het CAW;<BR>8) het aantal begeleidingen met naastbestaanden in   het kader van begeleiding bij de gevolgen van detentie;<BR>k) met betrekking tot   plegers van seksueel misbruik:<BR>1) het aantal begeleide meerderjarige en   minderjarige cliënten dat niet doorverwezen is door justitie, met vermelding van   de doorverwijzer;<BR>2) de ondertekende prestatieverbintenissen of opgenomen   begeleidingen;<BR>3) de ondertekende prestatieverbintenissen of   intakegesprekken;<BR>4) de ondertekende prestatieverbintenissen of   doorverwijzingen door justitie;<BR>5) het aantal cliënten voor wie de   begeleiding volledig is afgerond en bij wie een gunstige verandering in het   gedrag waarneembaar is;<BR>6) het aantal cliënten dat één jaar na de afronding   van de begeleiding niet hervallen is.<BR>
+Een centrum voor algemeen welzijnswerk rapporteert jaarlijks over de volgende resultaatgerichte indicatoren over de uitvoering van de sectorale doelstellingen, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende het algemeen welzijnswerk, die het moet realiseren in het kader van het aanbod van de hulp- en dienstverlening, vermeld in artikel 6 tot en met 10 van het voormelde besluit:<br>
+1° met betrekking tot het bereiken van kwetsbare personen en groepen als vermeld in artikel 11, eerste lid, 1° tot en met 3°, van het voormelde besluit:<br>
+a) een beschrijving van de acties die het CAW heeft ondernomen en een motivering van de keuze voor die acties;<br>
+b) een opgave van de groepen of personen die het daarmee heeft bereikt, zowel op kwantitatieve als op kwalitatieve wijze;<br>
+c) een beschrijving van de signalen die uit de acties zijn voortgevloeid en de wijze waarop met die signalen aan de slag is gegaan;<br>
+2° met betrekking tot de opdracht preventie, vermeld in artikel 11, eerste lid, 4°, van het voormelde besluit:<br>
+a) een beschrijving van de reguliere werkingen en initiatieven rond preventie in het CAW;<br>
+b) een beschrijving van de preventieprojecten aan de hand van de projectfiche die ter beschikking wordt gesteld door het Departement Welzijn, Volksgezondheid en Gezin;<br>
+3° met betrekking tot de opdrachten onthaal en psychosociale begeleiding, vermeld in artikel 11, eerste lid, 5°, 7° tot en met 9°, 11° tot en met 22°, 24° en 25°, van het voormelde besluit, het aantal bereikte cliënten in onthaal en begeleiding, opgesplitst naar geïdentificeerde en niet-geïdentificeerde personen, met vermelding van:<br>
+a) de leeftijd, uitgedrukt in de volgende categorieën:<br>
+1) minder dan twaalf jaar;<br>
+2) van twaalf tot en met zeventien jaar;<br>
+3) van achttien tot en met vierentwintig jaar;<br>
+4) van vijfentwintig tot en met negenenvijftig jaar;<br>
+5) zestig jaar en ouder;<br>
+b) het geslacht;<br>
+c) de kleinstedelijke zorgregio van verblijf van de laatst bekende domicilie;<br>
+4° met betrekking tot de opdracht onthaal, vermeld in artikel 11, eerste lid, 5°, 7° tot en met 9°, en 11°, van het voormelde besluit, en opgesplitst naar cliënten met los van elkaar staande onthaalcontacten en cliënten met onthaalcontact(en) binnen een traject:<br>
+a) de thematieken en thematische clusters waarrond gewerkt is in onthaal;<br>
+b) de initiatiefnemer van het onthaal bij het eerste cliëntcontact;<br>
+c) het aantal cliënten bij wie het eerste cliëntcontact mobiel plaatsvond;<br>
+d) de sectoren die doorverwezen naar het centrum;<br>
+e) de sectoren waarnaar het centrum heeft doorverwezen;<br>
+f) het aantal hulpverlenende cliëntcontacten in onthaal tijdens het werkingsjaar, opgesplitst naar contactsoort;<br>
+g) de wijze waarop het onthaal is afgesloten, uitgedrukt in de volgende categorieën:<br>
+1) afgerond zonder doorverwijzing;<br>
+2) afgerond met interne doorverwijzing;<br>
+3) afgerond met externe doorverwijzing;<br>
+4) afgebroken door cliënt;<br>
+5) afgebroken door dienst;<br>
+6) afgebroken wegens beschikbaarheid;<br>
+h) voor de afgesloten onthalen: de spreiding van het totaal aantal hulpverlenende cliëntcontacten in onthaal;<br>
+i) voor de cliënten bij wie het onthaal is afgerond met een doorverwijzing naar verdere begeleiding in het centrum: de duur tussen de doorverwijzing naar begeleiding en de opstart daarvan in aantal dagen en opgesplitst naar begeleidingsmodule;<br>
+5° met betrekking tot de opdracht onthaal, vermeld in artikel 11, eerste lid, 6°, van het voormelde besluit:<br>
+a) het aantal hulpverlenende chatgesprekken opgesplitst naar leeftijd, uitgedrukt in de categorieën, vermeld in punt 3°, a);<br>
+b) de thematieken en thematische clusters waarrond gewerkt is;<br>
+6° met betrekking tot de opdracht onthaal, vermeld in artikel 11, eerste lid, 10°, van het voormelde besluit:<br>
+a) het aantal paginaweergaven en bezoekers van de 1712-website;<br>
+b) het aantal contacten via telefoon, mail en chat;<br>
+c) de belangrijkste problematiek van de personen over wie contact wordt opgenomen;<br>
+7° met betrekking tot de opdracht van psychosociale begeleiding, vermeld in artikel 11, eerste lid, 12° tot en met 22°, 24° en 25°, van het voormelde besluit:<br>
+a) de thematieken en thematische clusters waarrond gewerkt is in begeleiding;<br>
+b) de sectoren die doorverwezen naar het centrum;<br>
+c) de sectoren waarnaar het centrum heeft doorverwezen;<br>
+d) het aantal ingezette begeleidingsmodules, het aantal betrokken cliënten en het aantal hulpverlenende cliëntcontacten binnen de module tijdens het werkingsjaar, opgesplitst naar contactsoort;<br>
+e) het aantal afgesloten begeleidingsmodules met vermelding van:<br>
+1) de wijze waarop de begeleidingsmodule is afgesloten, uitgedrukt in de volgende categorieën: afgerond, afgebroken, afgebroken wegens beschikbaarheid;<br>
+2) de spreiding van het totaal aantal hulpverlenende cliëntcontacten binnen die modules;<br>
+3) de spreiding van de totale duurtijd van die modules, uitgedrukt in aantal dagen;<br>
+8° een opsplitsing van de indicatoren, vermeld in punt 3°, 4° en 7°, voor de volgende onderscheiden doelgroepen:<br>
+a) minderjarigen van twaalf tot en met zeventien jaar en jongvolwassenen van achttien tot en met vierentwintig jaar;<br>
+b) slachtoffers van geweld, misdrijven, rampen, evenals hun na- en naastbestaanden;<br>
+c) betrokkenen bij een verkeersongeval;<br>
+d) gedetineerden;<br>
+9° voor de doelgroepen, vermeld in punt 8°, b) en c):<br>
+a) het aantal bereikte cliënten in onthaal met doorverwijsstrookje door de politie;<br>
+b) het aantal bereikte cliënten in onthaal en in begeleiding met vermelding van de rol van de cliënt, uitgedrukt in de volgende categorieën:<br>
+1) slachtoffer;<br>
+2) nabestaande of naastbestaande van het slachtoffer;<br>
+3) nabestaande of naastbestaande van de veroorzaker of dader;<br>
+4) veroorzaker of dader;<br>
+5) getuige;<br>
+6) andere;<br>
+10° voor de doelgroep, vermeld in punt 8°, d), het aantal bereikte cliënten in onthaal en in begeleiding met vermelding van:<br>
+a) de gevangenis waar de gedetineerde verbleef;<br>
+b) het statuut van de gedetineerde bij de start van het werkingsjaar, uitgedrukt in de volgende categorieën:<br>
+1) beklaagde;<br>
+2) geïnterneerde;<br>
+3) veroordeelde minder dan drie jaar;<br>
+4) veroordeelde drie jaar of meer;<br>
+c) het aantal gedetineerden dat overgeplaatst is uit een andere gevangenis;<br>
+d) het aantal gedetineerden dat ondersteund is bij de opmaak van het reclasseringsplan;<br>
+11° met betrekking tot de opdracht van psychosociale begeleiding, vermeld in artikel 11, eerste lid, 16°, van het voormelde besluit: het aantal begeleidingsmodules waarbij de gedetineerde zelf rechtstreeks is betrokken;<br>
+12° met betrekking tot de opdracht van psychosociale begeleiding, vermeld in artikel 11, eerste lid, 20° en 21°, van het voormelde besluit:<br>
+a) het aantal beschikbare woongelegenheden gedurende het voorbije werkingsjaar en het totaal aantal nachten dat die woongelegenheden effectief bezet waren;<br>
+b) de rationele bezetting van de woongelegenheden, vermeld in punt a), en het totaal aantal overnachtingen gedurende het voorbije werkingsjaar;<br>
+13° met betrekking tot de opdracht van psychosociale begeleiding, vermeld in artikel 11, eerste lid, 22°, van het voormelde besluit: het aantal cliënten in een procedure collectieve schuldenregeling, opgesplitst naar begeleidingsmodule;<br>
+14° met betrekking tot de opdracht van psychosociale begeleiding, vermeld in artikel 11, eerste lid, 25°, van het voormelde besluit: het aantal personen in begeleiding bij wie het voorbije werkingsjaar is gewerkt rond begeleidingsmodules of thematieken uit minimaal drie verschillende thematische clusters;<br>
+15° met betrekking tot de geboden nazorg bij afgesloten begeleidingen:<br>
+a) het aantal hulpverlenende cliëntcontacten in nazorg tijdens het werkingsjaar;<br>
+b) voor de cliënten bij wie de nazorg tijdens het werkingsjaar is afgesloten:<br>
+1) de begeleidingsmodules die de cliënt aangeboden kreeg;<br>
+2) het aantal cliënten bij wie de geformuleerde begeleidingsdoelstellingen bereikt blijven;<br>
+3) de spreiding van het totaal aantal hulpverlenende cliëntcontacten binnen nazorg;<br>
+4) de spreiding van de totale duur van de nazorg, uitgedrukt in aantal dagen;<br>
+16° in het kader van de begeleidingsopdrachten, vermeld in artikel 11, eerste lid, 12° tot en met 25°, van het voormelde besluit bieden de centra algemeen welzijnswerk de volgende begeleidingsmodules aan:<br>
+a) begeleiding preventie van uithuiszetting;<br>
+b) woonbegeleiding ambulant;<br>
+c) Housing First;<br>
+d) woonbegeleiding met verblijf;<br>
+e) crisisopvang;<br>
+f) begeleiding persoonlijke problemen;<br>
+g) begeleiding relatie- en gezinsproblemen;<br>
+h) begeleiding opvoedingsproblemen;<br>
+i) ouderschapsbegeleiding;<br>
+j) ouderschapsbemiddeling (buiten officiële of feitelijke scheidingscontext);<br>
+k) scheidingsbegeleiding;<br>
+l) scheidingsbemiddeling;<br>
+m) bezoekruimte;<br>
+n) budgetbegeleiding;<br>
+o) budgetbeheer;<br>
+p) schuldbemiddeling;<br>
+q) begeleiding dader- en plegerschap;<br>
+r) begeleiding slachtofferschap;<br>
+s) begeleiding intrafamilaal geweld: ambulant;<br>
+t) begeleiding intrafamiliaal geweld: residentieel;<br>
+u) begeleiding gedetineerden;<br>
+v) begeleiding naastbestaanden gedetineerden;<br>
+w) begeleiding ouder-kind contact tijdens detentie;<br>
+x) begeleiding precair verblijf;<br>
+y) intersectorale begeleiding instellingsverlaters.<br>
+<br>
+De rapportering over de indicatoren, vermeld in het eerste lid, 6°, wordt opgenomen in de jaarlijkse rapportering over de werking van 1712 in het 1712-jaarverslag.<br>
+<br>
+In het eerste lid wordt verstaan onder spreiding: een opgave van het minimum, het maximum, het gemiddelde, de mediaan en de standaardafwijking.
 
 ### ART. 3.
 
