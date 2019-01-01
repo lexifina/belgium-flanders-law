@@ -48,11 +48,17 @@ Bij   het Agentschap voor Onderwijsdiensten wordt een Vlaamse Bemiddelingscommis
 
 ### ART. 7.
 
-<p>De leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig het Vlaams personeelsstatuut van 13 januari 2006.</p>
+<p>De voorzitter en de leden van de Commissie ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.</p>
 
 <p>De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4000 euro. Indien van toepassing, ontvangt de plaatsvervangende voorzitter pro rata van het aantal voorgezeten bemiddelingsgesprekken, een deel van deze vergoeding.<br>
 <br>
-De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.</p>
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+De leden die deelnemen aan een bemiddelingsgesprek, ontvangen een forfaitaire vergoeding per bemiddelingsgesprek van 125 euro tegen 100 %, met een maximum van tien bemiddelingsgesprekken per jaar. Een lid kan afzien van deze vergoeding.<br>
+<br>
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De vergoeding wordt gekoppeld aan de spilindex 138, 01.<br>
+<br>
+De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro als de zittingen geheel of gedeeltelijk plaatsvinden buiten de normale diensttijd.</p>
 
 ## Onderafdeling 2 Bevoegdheden
 
