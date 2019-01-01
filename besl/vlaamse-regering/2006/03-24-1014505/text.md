@@ -5,22 +5,16 @@
 ### ART. 1.
 
 § 1. Naast de taken toegekend overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie is het departement Mobiliteit en Openbare Werken belast met:<br>
-<br>
 1° het verstrekken van managementondersteunende diensten en juridische ondersteuning ten behoeve van het Agentschap Infrastructuur, het Agentschap voor Maritieme Dienstverlening en Kust, de Diensten voor Afzonderlijk Beheer binnen het beleidsdomein en het departement zelf. De samenwerking inzake het verstrekken van managementondersteunende en juridische diensten tussen het departement Mobiliteit en Openbare Werken en deze agentschappen wordt vastgelegd in samenwerkingsakkoorden;<br>
-<br>
 2° de coördinatie ten behoeve van het beleidsdomein van rapporteringen aan de minister inzake personeelsaangelegenheden, facilitair management, informatie- en communicatietechnologie, boekhouding, begroting en juridische aangelegenheden;<br>
-<br>
 3° het verstrekken van technisch ondersteunende diensten ten behoeve van het beleidsdomein. Het departement Mobiliteit en Openbare Werken is gemachtigd om technisch ondersteunende diensten te verlenen aan andere beleidsdomeinen en derden. De samenwerking tussen het departement Mobiliteit en Openbare Werken als aanbieder van technisch ondersteunende diensten en het agentschap als aanvrager ervan, wordt vastgelegd in samenwerkingsakkoorden tussen het departement en de agentschappen. De technische ondersteuning houdt geen overdracht in van bevoegdheid, noch verantwoordelijkheid van de aanvrager naar de aanbieder van deze diensten;<br>
-<br>
 4° het beheer en de exploitatie van de maritieme toegangswegen tot de Vlaamse zeehavens;<br>
-<br>
 5° de supervisie over de uitrusting en de uitbating van de Vlaamse regionale luchthavens;<br>
-<br>
 6° het beheer van het Vlaams Infrastructuurfonds.<br>
 <br>
 De leidend ambtenaar van het departement Mobiliteit en Openbare Werken treedt op als ordonnateur van het Vlaams Infrastructuurfonds.<br>
 <br>
-§ 2. Het departement Mobiliteit en Openbare Werken is overeenkomstig artikel 4 § 2, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 ook belast met de taken van beleidsuitvoering die niet werden toevertrouwd aan een agentschap van het desbetreffende beleidsdomein.
+§ 2. Het departement Mobiliteit en Openbare Werken is overeenkomstig artikel III.2 van het bestuursdecreet van 7 december 2018 ook belast met de taken van beleidsuitvoering die niet werden toevertrouwd aan een agentschap van het desbetreffende beleidsdomein.
 
 ## HOOFDSTUK II DELEGATIES AAN HET HOOFD VAN HET DEPARTEMENT VAN HET BELEIDSDOMEIN MOBILITEIT EN OPENBARE WERKEN
 
