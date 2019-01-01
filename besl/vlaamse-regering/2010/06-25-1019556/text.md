@@ -271,11 +271,11 @@ Fouten in de jaarrekening van een voorgaande periode worden gecorrigeerd in de e
 
 ### ART. 48.
 
-Elke budgethouder, aangesteld overeenkomstig artikel 159, § 2 tot en met § 4, en artikel 224, § 3, tweede lid, van het Gemeentedecreet van 15 juli 2005, artikel 155, § 2 en § 3, en artikel 218, § 3, tweede lid, van het Provinciedecreet van 9 december 2005, artikel 161, § 2 en § 3, en artikel 217, § 3, tweede lid, van het OCMW-decreet van 19 december 2008, beschikt per financieel boekjaar over een beheersbudget waarin minimaal de aan hem toegewezen taakstelling en de aan hem toegewezen kredieten worden opgenomen.<br /><br />
+...
 
 ### ART. 49.
 
-Voor elke budgethouder, vermeld in artikel 48, wordt per financieel   boekjaar een beheersrekening opgesteld waarin minimaal de aan hem toegewezen   taakstelling wordt geëvalueerd, alsook het aan hem toegewezen deel van de   kredieten.<BR><BR>
+...
 
 ## TITEL 3 Rubrieken van de beleids- en beheersrapporten
 
@@ -603,7 +603,7 @@ Met uitzondering van de uitgaven die betaald worden via provisies, kan een uitga
 
 ### ART. 124.
 
-Voor de definitieve vaststelling van het budget mogen, door middel van   voorlopige kredieten, uitgaven inzake exploitatie plaatsvinden.<BR><BR>Die   voorlopige kredieten mogen per beleidsdomein niet meer bedragen dan een twaalfde   van het overeenkomstige krediet in het exploitatiebudget van het vorige   boekjaar, per verlopen of begonnen maand, tot maximaal drie twaalfden. Die   beperking is niet van toepassing voor de afwijkingen daarvan waarvoor de   minister toestemming heeft verleend.<BR><BR>Voor de definitieve vaststelling van   het budget mogen, door middel van voorlopige kredieten, de periodieke   aflossingen van lening- en leasingschulden plaatsvinden.<BR><BR>Voorlopige   kredieten kunnen niet worden gewijzigd door middel van een interne   kredietaanpassing.<BR><BR>
+...
 
 ### ART. 125.
 
@@ -611,7 +611,7 @@ De betalingen aan verenigingen zonder rechtspersoonlijkheid worden altijd verric
 
 ### ART. 126.
 
-§ 1. De personen, vermeld in artikel 163, § 3, van het Gemeentedecreet van 15 juli 2005, artikel 159, § 3, van het Provinciedecreet van 9 december 2005, en artikel 165, § 3, van het OCMW-decreet van 19 december 2008, zijn de kredietinstellingen en de financiële instellingen die erkend zijn overeenkomstig de wet van 22 maart 1993 op het statuut van en het toezicht op de kredietinstellingen.<br /><br />De opeisbare schulden die aangegaan zijn door het bestuur bij die personen, kunnen, als dat zo overeengekomen werd tussen het bestuur en die personen, in mindering gebracht worden op de rekeningen van het bestuur.<br /><br />§ 2. De opeisbare schulden die voortvloeien uit verbintenissen uit leasingovereenkomsten, zijn opeisbare schulden als vermeld in artikel 163, § 3, van het Gemeentedecreet van 15 juli 2005, artikel 159, § 3, van het Provinciedecreet van 9 december 2005, en artikel 165, § 3, van het OCMW-decreet van 19 december 2008.<br /><br />De opeisbare schulden die aldus aangegaan zijn door het bestuur, kunnen, als dat zo overeengekomen werd tussen het bestuur en de leasinggever, in mindering gebracht worden op de rekeningen van het bestuur.<br /><br />
+...
 
 ## HOOFDSTUK 6 De ontvangstencyclus
 
