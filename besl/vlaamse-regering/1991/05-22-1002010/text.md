@@ -188,13 +188,15 @@ De raad van beroep stelt een huishoudelijk reglement op en legt het ter goedkeur
 <br>
 § 4. Tijdens hun mandaat in de kamer van beroep kunnen de effectieve en de plaatsvervangende voorzitters en leden geen personeelslid of tuchtoverheid bijstaan of vertegenwoordigen in de kamer van beroep.<br>
 <br>
-§ 5. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
+§ 5. De leden ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
 <br>
 § 6. De effectieve voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
 <br>
 Wanneer de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, dan wordt aan deze laatste een vergoeding van 150 euro per zitting toegekend.<br>
 <br>
-De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+De voorzitters ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.
 
 ### ART. 33quater.
 
