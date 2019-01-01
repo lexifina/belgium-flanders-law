@@ -2,16 +2,16 @@
   "codex_id": 1015903,
   "title": "Ministerieel besluit van 2007-06-11 tot bepaling van de standaard voor de titel van calculator bouw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015903/VolledigDocument?datum=2007-06-28",
-  "source_sha256": "647ba87b11d889a8d152bbdb29d677b4270dc2bb3a7c886c4bb99efc3258242c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015903/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "91a35bce5916a7a41130b24d4e1143ce5304c48df228c773550befa44363cff5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015903&param=informatie",
-  "as_of": "2007-06-28",
+  "as_of": "2019-01-01",
   "made": "2007-06-11",
   "gazette": "2007-06-28",
   "numac": 2007035945,
   "document_start": "2007-06-28",
   "document_end": "2018-12-31",
-  "in_force": "2007-06-28",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
