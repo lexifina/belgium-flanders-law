@@ -22,7 +22,7 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de toebehoren als g
 
 ### ART. 2.
 
-De personeelsleden, vermeld in artikel 1, worden tevens gemachtigd om, in naam en voor rekening van de openbare instellingen die afhangen van het Vlaamse Gewest, de onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen onder de voorwaarden, vermeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren, en onder de voorwaarden, vermeld in artikel 28, § 1, eerste lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br>
+De personeelsleden, vermeld in artikel 1, worden tevens gemachtigd om, in naam en voor rekening van de openbare instellingen die afhangen van het Vlaamse Gewest, de onbetwiste en opeisbare niet-fiscale schuldvorderingen in te vorderen onder de voorwaarden, vermeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren, en onder de voorwaarden, vermeld in artikel III.21, § 1, eerste lid, van het bestuursdecreet van 7 december 2018.<br>
 <br>
 De machtiging tot invordering, vermeld in het eerste lid, geldt ook voor de administratieve geldboeten die door de instellingen, vermeld in het eerste lid, worden opgelegd en voor de toebehoren.
 
