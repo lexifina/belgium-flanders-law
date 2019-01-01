@@ -67,14 +67,14 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° decreet van 23 december 2016: het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
-2° stuurorgaan: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016.
+1° ...;<br>
+2° stuurorgaan: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK 2 De werking van het stuurorgaan
 
 ### ART 2.
 
-Het stuurorgaan beraadslaagt uit eigen beweging of op verzoek van de Vlaamse Regering, een lid van de Vlaamse Regering of een instantie als vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br>
+Het stuurorgaan beraadslaagt uit eigen beweging of op verzoek van de Vlaamse Regering, een lid van de Vlaamse Regering of de instanties van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instanties van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, en de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet.<br>
 <br>
 De leden van het stuurorgaan streven consensus na. Als er geen consensus wordt bereikt, geeft het stuurorgaan in de beraadslaging de verschillende standpunten weer.<br>
 <br>
@@ -90,7 +90,7 @@ Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van d
 
 ### ART 3.
 
-De externe innovators, vermeld in artikel 5, eerste lid, 5°, van het decreet van 23 december 2016, zijn deskundig, onafhankelijk en onpartijdig. Ze hebben een grondige kennis van en minstens vijf jaar nuttige ervaring in informatie en ICT op internationaal, Europees, Vlaams of lokaal niveau. De Vlaamse minister, bevoegd voor de bestuurszaken, nodigt organisaties en instellingen die zich bezighouden met onderzoek, wetenschap, innovatie, technologie, informatie of overheidsaangelegenheden, uit om kandidaat-externe-innovators voor te dragen voor het stuurorgaan.<br>
+De externe innovators, vermeld in artikel III.76, eerste lid, 5°, van het bestuursdecreet van 7 december 2018, zijn deskundig, onafhankelijk en onpartijdig. Ze hebben een grondige kennis van en minstens vijf jaar nuttige ervaring in informatie en ICT op internationaal, Europees, Vlaams of lokaal niveau. De Vlaamse minister, bevoegd voor de bestuurszaken, nodigt organisaties en instellingen die zich bezighouden met onderzoek, wetenschap, innovatie, technologie, informatie of overheidsaangelegenheden, uit om kandidaat-externe-innovators voor te dragen voor het stuurorgaan.<br>
 <br>
 Na een voorafgaande mededeling aan de Vlaamse Regering benoemt de Vlaamse minister, bevoegd voor de bestuurszaken, de leden, de plaatsvervangende leden en de voorzitter.
 
