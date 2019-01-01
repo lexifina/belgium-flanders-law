@@ -200,6 +200,10 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
+### ART 24/1.
+
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD voor zieke kinderen krijgt, die geen openbaar bestuur is, ontvangt van het agentschap Opgroeien regie een subsidie voor eindejaarspremie. De subsidie bedraagt 1141,86 euro per voltijds equivalent.
+
 ## Afdeling 4 Buitenschoolse opvang in een afzonderlijke binnenruimte
 
 ### ART 25.
