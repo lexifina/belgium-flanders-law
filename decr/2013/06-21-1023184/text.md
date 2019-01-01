@@ -67,9 +67,9 @@ De Vlaamse Regering wordt gemachtigd om een centrum voor   kwaliteitsbewaking vo
 
 <p>De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader omschrijven. Ze kan aan het centrum bijkomende opdrachten met betrekking tot diagnostiek, indicatiestelling en zorginschaling en met betrekking tot kwaliteitsbewaking in het algemeen toevertrouwen.</p>
 
-<p>De opdrachten, vermeld in het eerste lid of bepaald ter uitvoering van het derde lid, worden uitgevoerd voor de toepassing van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming en van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp. De Vlaamse Regering kan bepalen dat die opdrachten worden verricht voor de toepassing van andere regelgeving binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin.</p>
+<p>De opdrachten, vermeld in het eerste lid of bepaald ter uitvoering van het derde lid, worden uitgevoerd voor de toepassing van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming en van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp. De Vlaamse Regering kan bepalen dat die opdrachten worden verricht voor de toepassing van andere regelgeving binnen het beleidsdomein Welzijn, Volksgezondheid en Gezin.</p>
 
-<p>De Vlaamse Regering kan bepalen dat het centrum opdrachten als vermeld in het eerste lid of bepaald ter uitvoering van het derde lid kan uitvoeren voor andere beleidsdomeinen als vermeld in artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003. De Vlaamse Regering bepaalt die opdrachten.</p>
+<p>De Vlaamse Regering kan bepalen dat het centrum opdrachten als vermeld in het eerste lid of bepaald ter uitvoering van het derde lid kan uitvoeren voor andere beleidsdomeinen als vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018. De Vlaamse Regering bepaalt die opdrachten.</p>
 
 ### ART. 13.
 
