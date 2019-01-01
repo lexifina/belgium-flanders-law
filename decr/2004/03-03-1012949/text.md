@@ -148,7 +148,13 @@ Indien de gegevensuitwisseling door organisaties, diensten en personen met een m
 
 ### ART. 18.
 
-§ 1. Alle samenwerkingsverbanden op het niveau van de praktijkvoering,   samenwerkingsinitiatieven eerstelijnsgezondheidszorg, partnerorganisaties en   organisaties met terreinwerking, die door de Vlaamse regering erkend en/of   gesubsidieerd worden voor opdrachten binnen het kader van dit decreet, moeten   verantwoording afleggen en zijn onderworpen aan toezicht.<BR><BR>De Vlaamse   regering organiseert het toezicht en de controle op de naleving van dit   decreet.<BR><BR>§ 2. De ambtenaren die de Vlaamse regering belast met het   toezicht, hebben het recht de in § 1 bedoelde samenwerkingsverbanden op het   niveau van de praktijkvoering, samenwerkingsinitiatieven   eerstelijnsgezondheidszorg, partnerorganisaties en organisaties met   terreinwerking, te bezoeken en ter plaatse zelf kennis te nemen van alle stukken   en bescheiden die noodzakelijk of relevant zijn voor de uitoefening van hun   ambt.<BR><BR>Van hun vaststellingen maken zij een verslag op waarvan een   afschrift wordt overgemaakt aan het samenwerkingsverband op het niveau van de   praktijkvoering, het samenwerkingsinitiatief eerstelijnsgezondheidszorg, de   partnerorganisatie of de organisatie met terreinwerking in kwestie.<BR><BR>§ 3.   De Vlaamse regering kan nadere regels bepalen met betrekking tot § 1 en §   2.
+§ 1. Alle samenwerkingsverbanden op het niveau van de praktijkvoering, samenwerkingsinitiatieven eerstelijnsgezondheidszorg, partnerorganisaties en organisaties met terreinwerking, die door de Vlaamse regering erkend en/of gesubsidieerd worden voor opdrachten binnen het kader van dit decreet, moeten verantwoording afleggen en zijn onderworpen aan toezicht.<br>
+<br>
+De Vlaamse regering organiseert het toezicht en de controle op de naleving van dit decreet.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De Vlaamse regering kan nadere regels bepalen met betrekking tot § 1.
 
 ### ART. 19.
 
