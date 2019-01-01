@@ -2,16 +2,16 @@
   "codex_id": 1019613,
   "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van programmeur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019613/VolledigDocument?datum=2010-10-26",
-  "source_sha256": "0bb7e3aa2c814c922f7fc4aed0182fdca5318c3b55e4769cb2968df5e6548f7d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019613/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c90a1aff939797a04a28a0a18c6ec8fb96298a1b766f281ebc9f04a7cb5f1edb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019613&param=informatie",
-  "as_of": "2010-10-26",
+  "as_of": "2019-01-01",
   "made": "2010-10-05",
   "gazette": "2010-10-26",
   "numac": 2010205352,
   "document_start": "2010-10-26",
   "document_end": "2018-12-31",
-  "in_force": "2010-10-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
