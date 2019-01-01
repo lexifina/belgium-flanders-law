@@ -10,7 +10,17 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   decreet: h
 
 ### ART. 2.
 
-In elke gemeente wordt een commissie opgericht die samengesteld is   uit:<BR>1° de hoofd-maatschappelijk assistent(e) van de Sociale Dienst van het   OCMW, of diens afgevaardigde, die het voorzitterschap van de commissie   waarneemt;<BR>2° één lid van de Raad voor Maatschappelijk Welzijn, aangeduid   door deze Raad, dat, in voorkomend geval, zitting heeft in het Bijzonder Comité   voor de Sociale Dienst van het OCMW van de gemeente waar de huishoudelijke   abonnee zijn woonplaats heeft;<BR>3° één vertegenwoordiger van de betrokken   netbeheerder, aardgasnetbeheerder of exploitant, naargelang van het geval;<BR>4°   één vertegenwoordiger van de erkende instelling voor schuldbemiddeling, als de   huishoudelijke afnemer, huishoudelijke aardgasafnemer of huishoudelijke abonnee,   naargelang van het geval voor zijn sociale begeleiding een beroep gedaan heeft   op een dergelijke instelling.<BR><BR>Het secretariaat van de commissie wordt   waargenomen door een personeelslid van het OCMW.
+In elke gemeente wordt een commissie opgericht die samengesteld is uit:<br>
+1° de hoofd-maatschappelijk assistent(e) van de Sociale Dienst van het OCMW, of diens afgevaardigde, die het voorzitterschap van de commissie waarneemt;<br>
+2° één lid van&nbsp;het Bijzonder Comité voor de Sociale Dienst van het OCMW van de gemeente waar de huishoudelijke abonnee zijn woonplaats heeft;<br>
+3° één vertegenwoordiger van de betrokken netbeheerder, aardgasnetbeheerder of exploitant, naargelang van het geval;<br>
+4° één vertegenwoordiger van de erkende instelling voor schuldbemiddeling, als de huishoudelijke afnemer, huishoudelijke aardgasafnemer of huishoudelijke abonnee, naargelang van het geval voor zijn sociale begeleiding een beroep gedaan heeft op een dergelijke instelling.<br>
+<br>
+Wanneer de huishoudelijke abonnee zijn woonplaats heeft in de gemeente Voeren of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966, worden in het eerste lid,2° de woorden "Bijzonder Comité voor de Sociale Dienst" gelezen als "Vast Bureau".<br>
+<br>
+Het secretariaat van de commissie wordt waargenomen door een personeelslid van het OCMW.<br>
+<br>
+&nbsp;
 
 ## HOOFDSTUK III WERKING VAN DE COMMISSIE
 
