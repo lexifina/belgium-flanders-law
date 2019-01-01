@@ -8,7 +8,9 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder :<br />1° het Kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° het Wetboek van vennootschappen : de wet van 7 mei 1999 houdende het Wetboek van vennootschappen.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° het Wetboek van vennootschappen : de wet van 7 mei 1999 houdende het Wetboek van vennootschappen.
 
 ## DEEL II. [... (opgeh. decr. 8 januari 2021, art. 4, I: 15 september 2021)]
 
@@ -26,7 +28,15 @@ Voor de toepassing van deel II wordt verstaan onder :<BR>1° de DAB   Luchthaven
 
 ### ART. 4.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel 13 van het Kaderdecreet. Dat agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Oostende-Brugge', afgekort : LOM Oostende-Brugge.<br /><br />§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Oostende-Brugge behoort.<br /><br />§ 3. Met behoud van de toepassing van de bepalingen in artikel 22 worden de statuten van de LOM Oostende-Brugge vastgesteld bij besluit van de Vlaamse Regering.<br /><br />§ 4. Het oprichtingskapitaal van de LOM Oostende-Brugge wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal zal door het Vlaamse Gewest worden volstort door middel van een inbreng in geld. Alle aandelen die het oprichtingskapitaal vertegenwoordigen zullen worden onderschreven door het Vlaamse Gewest, behoudens één aandeel dat zal worden onderschreven door de Participatiemaatschappij Vlaanderen. Het oprichtingskapitaal van de LOM Oostende-Brugge zal uiterlijk op de datum van de inwerkingtreding van dit decreet worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br /><br />§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel III.7 van het Bestuursdecreet. Dat agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Oostende-Brugge', afgekort : LOM Oostende-Brugge.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Oostende-Brugge behoort.<br>
+<br>
+§ 3. Met behoud van de toepassing van de bepalingen in artikel 22 worden de statuten van de LOM Oostende-Brugge vastgesteld bij besluit van de Vlaamse Regering.<br>
+<br>
+§ 4. Het oprichtingskapitaal van de LOM Oostende-Brugge wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal zal door het Vlaamse Gewest worden volstort door middel van een inbreng in geld. Alle aandelen die het oprichtingskapitaal vertegenwoordigen zullen worden onderschreven door het Vlaamse Gewest, behoudens één aandeel dat zal worden onderschreven door de Participatiemaatschappij Vlaanderen. Het oprichtingskapitaal van de LOM Oostende-Brugge zal uiterlijk op de datum van de inwerkingtreding van dit decreet worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br>
+<br>
+§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
 
 ### ART. 5.
 
@@ -36,7 +46,7 @@ Voor de toepassing van deel II wordt verstaan onder :<BR>1° de DAB   Luchthaven
 
 ### ART. 6.
 
-De LOM Oostende-Brugge is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Kaderdecreet en aan de statuten, vermeld in artikel 4, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Kaderdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Kaderdecreet, noch van de dwingende bepalingen van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Kaderdecreet.
+De LOM Oostende-Brugge is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Bestuursdecreet en aan de statuten, vermeld in artikel 4, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Bestuursdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Bestuursdecreet, noch van de dwingende bepalingen van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Bestuursdecreet.
 
 ### ART. 7.
 
@@ -78,7 +88,7 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 § 1. De LOM Oostende-Brugge heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Oostende-Brugge, die zorgt voor de commerciële uitbating ervan.<br>
 <br>
-De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Oostende-Brugge die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Oostende-Brugge bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Oostende-Brugge zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Oostende-Brugge, vermeld in artikel 32, § 3, van dit decreet.<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Oostende-Brugge die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel III.61, § 1, van het Bestuursdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Oostende-Brugge bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Oostende-Brugge zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Oostende-Brugge, vermeld in artikel 32, § 3, van dit decreet.<br>
 <br>
 § 2. De LOM Oostende-Brugge kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
 <br>
@@ -132,13 +142,13 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 <br>
 De leden van de raad van bestuur worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Oostende-Brugge heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Oostende-Brugge steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest.<br>
 <br>
-De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel III.41 van het Bestuursdecreet.<br>
 <br>
 De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of, op voordracht van de algemene vergadering van de LOM Oostende-Brugge.<br>
 <br>
 De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
 <br>
-§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel III.12 van het Bestuursdecreet.
 
 ### ART. 24.
 
@@ -170,7 +180,11 @@ De LOM Oostende-Brugge kan toelagen van openbare rechtspersonen, schenkingen en 
 
 ### ART. 29.
 
-§ 1. De boekhouding van de LOM Oostende-Brugge wordt gevoerd volgens de wetgeving op de boekhouding en jaarrekeningen van de ondernemingen. De LOM Oostende-Brugge voert tevens een analytische boekhouding.<br /><br />§ 2. Zonder afbreuk te doen aan de bepalingen in het Kaderdecreet inzake toezicht en informatieverstrekking, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen, weer te geven in de jaarrekening, aan een commissaris opgedragen. Die wordt door de algemene vergadering aangewezen onder de leden van het Instituut der Bedrijfsrevisoren.<br /><br />De commissaris heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van vennootschappen zijn bepaald.
+§ 1. De boekhouding van de LOM Oostende-Brugge wordt gevoerd volgens de wetgeving op de boekhouding en jaarrekeningen van de ondernemingen. De LOM Oostende-Brugge voert tevens een analytische boekhouding.<br>
+<br>
+§ 2. Zonder afbreuk te doen aan de bepalingen in het Bestuursdecreet inzake toezicht en informatieverstrekking, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen, weer te geven in de jaarrekening, aan een commissaris opgedragen. Die wordt door de algemene vergadering aangewezen onder de leden van het Instituut der Bedrijfsrevisoren.<br>
+<br>
+De commissaris heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van vennootschappen zijn bepaald.
 
 ### ART. 30.
 
@@ -216,7 +230,15 @@ Voor de toepassing van deel III wordt verstaan onder :<br />1° de LOM Kortrijk-
 
 ### ART. 37.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel 13 van het Kaderdecreet. Dit agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem', afgekort : LOM Kortrijk-Wevelgem.<br /><br />§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Kortrijk-Wevelgem behoort.<br /><br />§ 3. Met behoud van de toepassing van de bepalingen van artikel 55 worden de statuten van de LOM Kortrijk-Wevelgem vastgesteld bij besluit van de Vlaamse Regering. <br /><br />§ 4. Het oprichtingskapitaal van de LOM Kortrijk-Wevelgem wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal dat in geld zal worden onderschreven zal uiterlijk op de datum van de inwerkingtreding van dit decreet worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br /><br />§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel III.7 van het Bestuursdecreet. Dit agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem', afgekort : LOM Kortrijk-Wevelgem.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Kortrijk-Wevelgem behoort.<br>
+<br>
+§ 3. Met behoud van de toepassing van de bepalingen van artikel 55 worden de statuten van de LOM Kortrijk-Wevelgem vastgesteld bij besluit van de Vlaamse Regering.<br>
+<br>
+§ 4. Het oprichtingskapitaal van de LOM Kortrijk-Wevelgem wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal dat in geld zal worden onderschreven zal uiterlijk op de datum van de inwerkingtreding van dit decreet worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br>
+<br>
+§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
 
 ### ART. 38.
 
@@ -226,7 +248,7 @@ Voor de toepassing van deel III wordt verstaan onder :<br />1° de LOM Kortrijk-
 
 ### ART. 39.
 
-De LOM Kortrijk-Wevelgem is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Kaderdecreet en aan de statuten, vermeld in artikel 37, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Kaderdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Kaderdecreet noch van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Kaderdecreet.
+De LOM Kortrijk-Wevelgem is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Bestuursdecreet en aan de statuten, vermeld in artikel 37, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Bestuursdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Bestuursdecreet noch van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Bestuursdecreet.
 
 ### ART. 40.
 
@@ -268,7 +290,7 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 § 1. De LOM Kortrijk-Wevelgem heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Kortrijk-Wevelgem, die zorgt voor de commerciële uitbating ervan.<br>
 <br>
-De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Kortrijk-Wevelgem die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Kortrijk-Wevelgem bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Kortrijk-Wevelgem zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Kortrijk-Wevelgem, vermeld in artikel 65, § 3, van dit decreet.<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Kortrijk-Wevelgem die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel III.61, § 1, van het Bestuursdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Kortrijk-Wevelgem bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Kortrijk-Wevelgem zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Kortrijk-Wevelgem, vermeld in artikel 65, § 3, van dit decreet.<br>
 <br>
 § 2. De LOM Kortrijk-Wevelgem kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
 <br>
@@ -322,13 +344,13 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 <br>
 De leden van de raad van bestuur worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Kortrijk-Wevelgem heeft het recht om kandidaten voor te dragen voor benoeming, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Kortrijk-Wevelgem steeds moet bestaan uit bestuurders, voorgedragen door het Vlaamse Gewest.<br>
 <br>
-De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel III.41 van het Bestuursdecreet.<br>
 <br>
 De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of op voordracht van de algemene vergadering van de LOM Kortrijk-Wevelgem.<br>
 <br>
 De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
 <br>
-§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel III.12 van het Bestuursdecreet.
 
 ### ART. 57.
 
@@ -360,7 +382,11 @@ De LOM Kortrijk-Wevelgem kan toelagen van openbare rechtspersonen, schenkingen e
 
 ### ART. 62.
 
-§ 1. De boekhouding van de LOM Kortrijk-Wevelgem wordt gevoerd volgens de wetgeving op de boekhouding en jaarrekeningen van de ondernemingen. De LOM Kortrijk-Wevelgem voert tevens een analytische boekhouding.<br /><br />§ 2. Zonder afbreuk te doen aan de bepalingen in het Kaderdecreet inzake toezicht en informatieverstrekking, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen, weer te geven in de jaarrekening, aan een commissaris opgedragen. Die wordt door de algemene vergadering aangewezen onder de leden van het Instituut der Bedrijfsrevisoren.<br /><br />De commissaris heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van vennootschappen zijn bepaald.
+§ 1. De boekhouding van de LOM Kortrijk-Wevelgem wordt gevoerd volgens de wetgeving op de boekhouding en jaarrekeningen van de ondernemingen. De LOM Kortrijk-Wevelgem voert tevens een analytische boekhouding.<br>
+<br>
+§ 2. Zonder afbreuk te doen aan de bepalingen in het Bestuursdecreet inzake toezicht en informatieverstrekking, wordt de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen, weer te geven in de jaarrekening, aan een commissaris opgedragen. Die wordt door de algemene vergadering aangewezen onder de leden van het Instituut der Bedrijfsrevisoren.<br>
+<br>
+De commissaris heeft de rechten, verplichtingen, taken, bevoegdheden en actiemiddelen die in het Wetboek van vennootschappen zijn bepaald.
 
 ### ART. 63.
 
@@ -406,7 +432,15 @@ Voor de toepassing van deel III/1 wordt verstaan onder : <BR>1° de DAB   Luchth
 
 ### ART. 66/2.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel 13 van het Kaderdecreet. Dat agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Antwerpen', afgekort : LOM Antwerpen.<br /><br />§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Antwerpen behoort.<br /><br />§ 3. Met behoud van de toepassing van de bepalingen in artikel 66/20 worden de statuten van de LOM Antwerpen vastgesteld bij besluit van de Vlaamse Regering.<br /><br />§ 4. Het oprichtingskapitaal van de LOM Antwerpen wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal zal door het Vlaamse Gewest worden volstort door middel van een inbreng in geld. Alle aandelen die het oprichtingskapitaal vertegenwoordigen zullen worden onderschreven door het Vlaamse Gewest, behoudens één aandeel dat zal worden onderschreven door de Participatiemaatschappij Vlaanderen. Het oprichtingskapitaal van de LOM Antwerpen zal uiterlijk op de datum van de inwerkingtreding van het decreet van 8 mei 2009 houdende wijziging van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge en Kortrijk-Wevelgem worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br /><br />§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht als vermeld in artikel III.7 van het Bestuursdecreet. Dat agentschap is een naamloze vennootschap van publiek recht en draagt als naam 'Luchthavenontwikkelingsmaatschappij Antwerpen', afgekort : LOM Antwerpen.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de LOM Antwerpen behoort.<br>
+<br>
+§ 3. Met behoud van de toepassing van de bepalingen in artikel 66/20 worden de statuten van de LOM Antwerpen vastgesteld bij besluit van de Vlaamse Regering.<br>
+<br>
+§ 4. Het oprichtingskapitaal van de LOM Antwerpen wordt bepaald door de Vlaamse Regering. Het oprichtingskapitaal zal door het Vlaamse Gewest worden volstort door middel van een inbreng in geld. Alle aandelen die het oprichtingskapitaal vertegenwoordigen zullen worden onderschreven door het Vlaamse Gewest, behoudens één aandeel dat zal worden onderschreven door de Participatiemaatschappij Vlaanderen. Het oprichtingskapitaal van de LOM Antwerpen zal uiterlijk op de datum van de inwerkingtreding van het decreet van 8 mei 2009 houdende wijziging van het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge en Kortrijk-Wevelgem worden gedeponeerd op een bijzondere rekening op de wijze, bepaald in artikel 449 van het Wetboek van vennootschappen.<br>
+<br>
+§ 5. Artikelen 451, 454, 456 en 458 van het Wetboek van vennootschappen zijn niet van toepassing.
 
 ### ART. 66/3.
 
@@ -416,7 +450,7 @@ Voor de toepassing van deel III/1 wordt verstaan onder : <BR>1° de DAB   Luchth
 
 ### ART. 66/4.
 
-De LOM Antwerpen is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Kaderdecreet en aan de statuten, vermeld in artikel 66/2, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Kaderdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Kaderdecreet, noch van de dwingende bepalingen van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Kaderdecreet.
+De LOM Antwerpen is onderworpen aan dit decreet, en voor de niet uitdrukkelijk bij dit decreet geregelde aangelegenheden, aan het Bestuursdecreet en aan de statuten, vermeld in artikel 66/2, § 3, in die volgorde. Zonder afbreuk te doen aan het voorgaande, zijn voor alles wat niet uitdrukkelijk door dit decreet, het Bestuursdecreet en de statuten is bepaald, de bepalingen van het Wetboek van vennootschappen voor de naamloze vennootschap van toepassing. In de statuten kan niet worden afgeweken van dit decreet, van het Bestuursdecreet, noch van de dwingende bepalingen van het Wetboek van vennootschappen, tenzij deze afwijkingen voortvloeien uit dit decreet of uit het Bestuursdecreet.
 
 ### ART. 66/5.
 
@@ -458,7 +492,7 @@ Elke uitgifte van nieuwe aandelen of van converteerbare obligaties, obligaties m
 
 § 1. De LOM Antwerpen heeft als doel de duurzame ontwikkeling, de instandhouding, het beheer en het onderhoud van de luchthaveninfrastructuur en de terbeschikkingstelling van die infrastructuur, of een deel ervan, tegen marktconforme vergoeding, aan de LEM Antwerpen, die zorgt voor de commerciële uitbating ervan.<br>
 <br>
-De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Antwerpen die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel 5/1, § 1, van het Kaderdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Antwerpen bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Antwerpen zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Antwerpen, vermeld in artikel 66/30, § 3, van dit decreet.<br>
+De concretisering van de kwalitatieve en kwantitatieve wijze waarop de LOM Antwerpen die activiteiten zal verrichten, zal opgenomen worden in het ondernemingsplan, vermeld in artikel III.61, § 1, van het Bestuursdecreet. Dat ondernemingsplan zal ook de beleids- en beheersdoelstellingen van de LOM Antwerpen bevatten voor het toezicht op controle-, veiligheids-, beveiligings- en brandweerdiensten, en voor de certificering van de luchthaven, zoals die voortvloeien uit de toepasselijke internationale, Europese en nationale regelgeving. De LOM Antwerpen zal in haar ondernemingsplan de respectieve taken en verantwoordelijkheden concretiseren voor de uitvoering van de eventuele samenwerkingsovereenkomsten voor het luchtverkeer die het Vlaamse Gewest met de federale overheid sluit. Het voorgaande doet geen afbreuk aan de verplichtingen van de LEM Antwerpen, vermeld in artikel 66/30, § 3, van dit decreet.<br>
 <br>
 § 2. De LOM Antwerpen kan daarenboven alle handelingen en activiteiten verrichten die rechtstreeks of onrechtstreeks bijdragen tot of verband houden met de verwezenlijking van haar doel als vermeld in § 1.<br>
 <br>
@@ -512,13 +546,13 @@ De algemene vergadering heeft de bevoegdheid om de statuten te wijzigen, conform
 <br>
 De leden van de raad van bestuur &nbsp;worden door de Vlaamse Regering benoemd. De algemene vergadering van aandeelhouders van de LOM Antwerpen heeft het recht om kandidaten voor te dragen voor benoeming door de Vlaamse Regering, met dien verstande dat de meerderheid van de leden van de raad van bestuur van de LOM Antwerpen steeds moet bestaan uit bestuurders, voorgedragen door hetVlaamse Gewest.<br>
 <br>
-De onafhankelijke leden worden benoemd overeenkomstig artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+De onafhankelijke leden worden benoemd overeenkomstig artikel III.41 van het Bestuursdecreet.<br>
 <br>
 De benoeming en het ontslag van de bestuurders moeten worden neergelegd en bekendgemaakt overeenkomstig artikel 74 en volgende van het Wetboek van vennootschappen. In die publicatie wordt tevens aangegeven of de betrokken bestuurder benoemd werd op voordracht van het Vlaamse Gewest of, op voordracht van de algemene vergadering van de LOM Antwerpen.<br>
 <br>
 De raad van bestuur heeft het recht ad hoc waarnemers uit te nodigen om aanwezig te zijn op de vergaderingen van de raad van bestuur.<br>
 <br>
-§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel 21 van het Kaderdecreet.
+§ 2. Het mandaat van bestuurder moet beantwoorden aan de onverenigbaarheden, vermeld in artikel III.12 van het Bestuursdecreet.
 
 ### ART. 66/22.
 
