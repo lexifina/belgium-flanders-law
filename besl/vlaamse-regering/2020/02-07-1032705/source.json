@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032705,
+  "title": "Besluit van de Vlaamse Regering van 2020-02-07 tot wijziging van diverse besluiten van de Vlaamse Regering wat betreft de toepassing van de nieuwe maatregelen van het Vlaams Intersectoraal Akkoord",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032705/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8c8601a977836e4956a3385b3c9eff3cb2396384f91a864ba05050ab0bda2290",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032705&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2020-02-07",
+  "gazette": "2020-03-06",
+  "numac": 2020040461,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
