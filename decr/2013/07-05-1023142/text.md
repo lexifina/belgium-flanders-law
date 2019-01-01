@@ -92,13 +92,13 @@ In artikel 30 van hetzelfde decreet wordt het woord "IAVA" telkens   vervangen d
 
 ### ART. 19.
 
-<P>Bij Audit Vlaanderen worden twee auditcomités opgericht, elk bestaande uit 7   leden : <BR>1° het auditcomité van de Vlaamse administratie, bestaande uit 4   onafhankelijke deskundigen en 3 vertegenwoordigers van de Vlaamse   Regering;<BR>2° het auditcomité van de lokale besturen, bestaande uit 4   onafhankelijke deskundigen, 2 leden op voordracht van de Vereniging van Vlaamse   Steden en Gemeenten en 1 lid op voordracht van de Vereniging van de Vlaamse   Provincies. De minister bevoegd voor Binnenlands Bestuur of zijn   vertegenwoordiger woont de vergadering van het auditcomité van de lokale   besturen als waarnemer bij.<BR></P>  <P>De auditcomités staan in voor de aansturing en opvolging van, en de controle   en het toezicht op Audit Vlaanderen. De beide auditcomités worden voorgezeten   door een onafhankelijke deskundige.<BR></P>
+...
 
 ## HOOFDSTUK 10 Single audit
 
 ### ART. 20.
 
-Buiten de uitzonderingen op de geheimhoudingsplicht waarin artikel 79 van   de wet van 22 juli 1953 houdende oprichting van een Instituut van de   Bedrijfsrevisoren en organisatie van het publiek toezicht op het beroep van   bedrijfsrevisor voorziet, geldt deze plicht tevens niet voor : <BR>a) de   informatie-uitwisseling over de auditstrategie en -planning, de monitoring en   risico-analyse, de controle en rapportering en de controlemethodieken door de   bedrijfsrevisor aan het Rekenhof en het agentschap Audit Vlaanderen inzake de   lokale en provinciale besturen die zij gemeenschappelijk hebben als   controledomein;<BR>b) de overdracht aan het Rekenhof en het agentschap Audit   Vlaanderen van informatie uit werkdocumenten van de bedrijfsrevisor inzake   lokale en provinciale besturen die zij gemeenschappelijk hebben als   controledomein.<BR>
+...
 
 ## HOOFDSTUK 11 Overgangsbepaling
 
