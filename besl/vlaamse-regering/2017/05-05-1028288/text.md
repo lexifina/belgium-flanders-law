@@ -58,12 +58,12 @@ d) het eventuele dienstgebouw;<br>
 a) het grondwerk en de grondwaterverlaging;<br>
 b) de bouw en de aanleg van het gekozen zuiveringssysteem, inclusief de leidingen;<br>
 11° minister: de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid;<br>
-12° nv Aquafin: de naamloze vennootschap, vermeld in artikel 32septies, § 1, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
+12° nv Aquafin: de naamloze vennootschap, vermeld in artikel 2.6.1.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 13° riolering: het geheel van openbare leidingen en openluchtgreppels, bestemd voor de opvang en het transport van afvalwater, met uitsluiting van prioritaire riolering;<br>
 14° rioolbeheerder: de gemeenten, gemeentebedrijven, intercommunales, intergemeentelijke samenwerkingsverbanden of de Vlaamse Maatschappij voor Watervoorziening;<br>
 15° titel II van VLAREM: het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 16° uitvoeringsplan: het plan dat de uitvoering en de timing van de projecten regelt met betrekking tot de gemeentelijke en de bovengemeentelijke saneringsverplichting, evenals de noodzakelijke afstemming van de projecten;<br>
-17° Vlaamse Milieumaatschappij: het intern verzelfstandigd agentschap met rechtspersoonlijkheid, als bedoeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, opgericht bij decreet van 7 mei 2004 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, tot aanvulling ervan met een titel Agentschappen en tot wijzigingen van diverse andere wetten en decreten, dat in werking is getreden ingevolge het besluit van de Vlaamse Regering van 31 maart 2006 tot operationalisering van het beleidsdomein Leefmilieu, Natuur en Energie;<br>
+17° Vlaamse Milieumaatschappij: het intern verzelfstandigd agentschap met rechtspersoonlijkheid, vermeld in artikel 10.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, opgericht bij decreet van 7 mei 2004 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, tot aanvulling ervan met een titel Agentschappen en tot wijzigingen van diverse andere wetten en decreten, dat in werking is getreden ingevolge het besluit van de Vlaamse Regering van 31 maart 2006 tot operationalisering van het beleidsdomein Leefmilieu, Natuur en Energie;<br>
 18° zoneringsplan: het plan dat een onderscheid maakt tussen de gebieden met collectieve sanering en de gebieden met individuele sanering.
 
 ## HOOFDSTUK 2 Gewestbijdrage
@@ -107,9 +107,9 @@ De ambtelijke commissie wordt samengesteld uit:<br>
 
 Voor de samenstelling van het subsidiëringsprogramma kunnen de rioolbeheerders elektronisch voorstellen van rioleringsprojecten en projecten van kleinschalige zuivering, met inbegrip van projecten voor de aanleg van individuele waterzuiveringsinstallaties, indienen bij de Vlaamse Milieumaatschappij.<br>
 <br>
-De rioleringsprojecten worden door de Vlaamse Milieumaatschappij beoordeeld in het licht van de criteria, vermeld in artikel 32duodecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging.<br>
+De rioleringsprojecten worden door de Vlaamse Milieumaatschappij beoordeeld in het licht van de criteria, vermeld in artikel 2.6.1.3.1, § 2, artikel 2.6.1.2.2, § 1, tweede lid, artikel 2.6.1.2.2., § 2 en artikel 2.6.1.2.3 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
-De projecten van kleinschalige zuivering, met uitzondering van individuele waterzuiveringsinstallaties, worden door de Vlaamse Milieumaatschappij beoordeeld om opgenomen te worden in het ontwerp van subsidiëringsprogramma op basis van de criteria, vermeld in artikel 32duodecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging evenals de volgende criteria:<br>
+De projecten van kleinschalige zuivering, met uitzondering van individuele waterzuiveringsinstallaties, worden door de Vlaamse Milieumaatschappij beoordeeld om opgenomen te worden in het ontwerp van subsidiëringsprogramma op basis van de criteria, vermeld in artikel 2.6.1.3.1, § 2, artikel 2.6.1.2.2, § 1, tweede lid, artikel 2.6.1.2.2., § 2 en artikel 2.6.1.2.3 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 evenals de volgende criteria:<br>
 1° het voorgestelde project wordt op basis van de definitieve gemeentelijke zoneringsplannen uitgevoerd buiten de gebieden die aangesloten zijn of worden op een bovengemeentelijke zuiveringsinstallatie;<br>
 2° het project beoogt de zuivering van huishoudelijk afvalwater van minimaal twintig en maximaal tweeduizend inwonersequivalenten en voldoet aan de voorwaarde, vermeld in artikel 3;<br>
 3° de totale verdisconteerde kostprijs ligt lager dan de verdisconteerde kosten van aansluiting op de meest nabije bovengemeentelijke zuiveringsinstallatie, voor zover een dergelijke aansluiting ecologisch verantwoord is.<br>
@@ -124,7 +124,7 @@ De projecten voor de aanleg van een individuele waterzuiveringsinstallatie worde
 
 De Vlaamse Milieumaatschappij maakt op basis van de ingediende voorstellen, rekening houdend met het beschikbare budget en na overleg met de rioolbeheerders, een subsidiëringsprogramma op. De projecten voor de aanleg van een individuele waterzuiveringsinstallatie worden door de Vlaamse Milieumaatschappij per subsidiëringsprogramma ondergebracht in één aanvraagdossier per rioolbeheerder.<br>
 <br>
-De criteria voor de opmaak van het subsidiëringsprogramma worden, in overeenstemming met de criteria, vermeld in artikel 32duodecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, bepaald door de minister op voorstel van de Vlaamse Milieumaatschappij na overleg met de ambtelijke commissie en de bekkenbesturen, vermeld in artikel 26, eerste lid, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
+De criteria voor de opmaak van het subsidiëringsprogramma worden, in overeenstemming met de criteria, vermeld in artikel 2.6.1.3.1, § 2, artikel 2.6.1.2.2, § 1, tweede lid, artikel 2.6.1.2.2., § 2 en artikel 2.6.1.2.3 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, bepaald door de minister op voorstel van de Vlaamse Milieumaatschappij na overleg met de ambtelijke commissie en de bekkenbesturen, vermeld in artikel 1.5.3.1, eerste lid, van het voormelde decreet.<br>
 <br>
 Op basis van deze criteria legt de Vlaamse Milieumaatschappij minimaal jaarlijks een ontwerp van subsidiëringsprogramma voor aan de minister.<br>
 <br>
