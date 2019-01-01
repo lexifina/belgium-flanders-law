@@ -580,15 +580,16 @@ De vermelding, vermeld in het eerste lid, wordt ook opgenomen in elektronische c
 
 ### ART. 53.
 
-De personeelsleden van Zorginspectie zijn belast met het toezicht op het   naleven van de bepalingen van dit besluit.<BR><BR>De beheerders, de directie en   het personeel van de voorziening zijn verplicht aan die personeelsleden alle   medewerking te verlenen bij de uitoefening van hun   toezichtsopdracht.<BR><BR>
+De personeelsleden van Zorginspectie zijn belast met het toezicht op het naleven van de bepalingen van dit besluit.
 
 ### ART. 54.
 
-Het gemachtigde personeelslid van Zorginspectie deelt aan de voorziening   en het agentschap de resultaten en bevindingen van de toezichtsopdracht mee in   een schriftelijk rapport.<BR><BR>De voorziening stelt dat rapport ter   beschikking van de gebruikers of hun vertegenwoordigers en de   medewerkers.<BR><BR>
+De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
+&nbsp;
 
 ### ART. 55.
 
-§ 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van Zorginspectie dat vast in het rapport, vermeld in artikel 54. Dat rapport geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br>
+§ 1. Als een voorziening niet voldoet aan de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende verplichtingen zoals die decretaal en reglementair bepaald zijn, stelt het gemachtigde personeelslid van Zorginspectie dat vast in het verslag van het toezicht. Dat&nbsp;verslag geeft op gemotiveerde wijze aan op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden.<br>
 <br>
 § 2. De leidend ambtenaar kan aan de voorziening vragen binnen een te bepalen termijn de nodige maatregelen te nemen om aan de verplichtingen te voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.<br>
 <br>
@@ -597,9 +598,9 @@ De voorziening heeft het recht om tegen dit rapport of tegen die opgelegde termi
 
 ### ART. 56.
 
-§ 1. Na afloop van de opgelegde termijn, vermeld in artikel 55, § 2, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het rapport, vermeld in artikel 54.<br>
+§ 1. Na afloop van de opgelegde termijn, vermeld in artikel 55, § 2, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht.<br>
 <br>
-Het gemachtigde personeelslid van Zorginspectie deelt aan de voorziening en het agentschap schriftelijk en gemotiveerd de resultaten en bevindingen van zijn toezichtopdrachten mee in een rapport. De voorziening stelt dat rapport ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
+De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
 <br>
 § 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening begeleidende maatregelen opleggen, zodat de voorziening binnen een termijn die de leidend ambtenaar oplegt, aan de verplichtingen kan voldoen. Die termijn bedraagt minstens&nbsp;drie maanden en hoogstens twaalf maanden.<br>
 <br>
@@ -610,13 +611,22 @@ De voorziening heeft het recht om tegen die begeleidende maatregelen schriftelij
 
 ### ART. 57.
 
-§ 1. Na afloop van de opgelegde termijn,vermeld in artikel 56, § 2, tweede   lid, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor   de tekortkomingen die vastgesteld werden in het rapport, vermeld in artikel 56,   § 1, eerste lid.<BR><BR>Het gemachtigde personeelslid van Zorginspectie deelt   aan de voorziening en het agentschap schriftelijk en gemotiveerd de resultaten   en bevindingen van zijn toezichtopdrachten mee in een rapport. De voorziening   stelt dat rapport ter beschikking van de gebruikers of hun vertegenwoordigers en   de medewerkers. <BR><BR>§ 2. Als blijkt dat de genomen maatregelen niet voldoen,   kan de leidend ambtenaar de voorziening een administratieve geldboete van 100   tot 100.000 euro opleggen. Het bedrag van de opgelegde administratieve geldboete   wordt vastgesteld met inachtneming van het aantal inbreuken op de bepalingen en   de ernst ervan. De administratieve geldboete wordt aan de voorziening betekend.   De leidend ambtenaar zal tevens de voorziening gelasten binnen een termijn van   hoogstens twaalf maanden de nodige maatregelen te treffen om aan de   verplichtingen te voldoen.<BR><BR>De voorziening heeft het recht schriftelijk   bezwaar in te dienen bij de minister, bevoegd voor de bijstand aan personen, op   straffe van verval binnen veertien dagen na ontvangst van de betekening. Na   onderzoek van de bezwaren bevestigt of ontkracht de minister de administratieve   geldboete of de vraag om de nodige maatregelen te treffen.<BR><BR>§ 3. De   voorziening brengt binnen veertien dagen na de betekening van de geldboete de   gebruikers daarvan op de hoogte via het collectief overleg van de voorziening,   of bij ontstentenis daarvan de gebruikers individueel.<BR><BR>
+§ 1. Na afloop van de opgelegde termijn,vermeld in artikel 56, § 2, tweede lid, voert Zorginspectie een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden in het verslag van het toezicht.<br>
+<br>
+De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers of hun vertegenwoordigers en de medewerkers.<br>
+<br>
+§ 2. Als blijkt dat de genomen maatregelen niet voldoen, kan de leidend ambtenaar de voorziening een administratieve geldboete van 100 tot 100.000 euro opleggen. Het bedrag van de opgelegde administratieve geldboete wordt vastgesteld met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan. De administratieve geldboete wordt aan de voorziening betekend. De leidend ambtenaar zal tevens de voorziening gelasten binnen een termijn van hoogstens twaalf maanden de nodige maatregelen te treffen om aan de verplichtingen te voldoen.<br>
+<br>
+De voorziening heeft het recht schriftelijk bezwaar in te dienen bij de minister, bevoegd voor de bijstand aan personen, op straffe van verval binnen veertien dagen na ontvangst van de betekening. Na onderzoek van de bezwaren bevestigt of ontkracht de minister de administratieve geldboete of de vraag om de nodige maatregelen te treffen.<br>
+<br>
+§ 3. De voorziening brengt binnen veertien dagen na de betekening van de geldboete de gebruikers daarvan op de hoogte via het collectief overleg van de voorziening, of bij ontstentenis daarvan de gebruikers individueel.<br>
+&nbsp;
 
 ### ART. 58.
 
-§ 1. Zorginspectie voert één jaar na de termijn, vermeld in artikel 57, § 2, eerste lid, een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden. Als de voorziening niet de nodige maatregelen heeft genomen om aan de vereisten te voldoen, stelt het gemachtigde personeelslid van Zorginspectie dat vast in een rapport, dat op gemotiveerde wijze aangeeft op welke punten de vereisten voor een verantwoorde ondersteuning en de daaruit voortvloeiende decretaal en reglementair bepaalde verplichtingen niet of onvoldoende nageleefd werden. Dat rapport wordt aan de leidend ambtenaar en aan de voorziening bezorgd.<br>
+§ 1. Zorginspectie voert één jaar na de termijn, vermeld in artikel 57, § 2, eerste lid, een nieuwe evaluatie uit, met specifieke aandacht voor de tekortkomingen die vastgesteld werden.<br>
 <br>
-De voorziening stelt dat rapport ter beschikking van de gebruikers en de medewerkers.<br>
+De voorziening stelt het verslag van het toezicht ter beschikking van de gebruikers en de medewerkers.<br>
 <br>
 § 2. De leidend ambtenaar legt, met inachtneming van het aantal inbreuken op de bepalingen en de ernst ervan, de voorziening een nieuwe termijn op van minstens&nbsp;drie en hoogstens twaalf maanden om aan de verplichtingen te voldoen. Voor het verstrijken van die termijn legt de voorziening de bewijzen voor van de genomen maatregelen. De leidend ambtenaar kan Zorginspectie een onderzoek van de genomen maatregelen gelasten.<br>
 &nbsp;
@@ -632,8 +642,6 @@ De voorziening kan tegen de opschorting of intrekking van de erkenning beroep aa
 
 ### ART 59/1.
 
-Als er ernstige aanwijzingen zijn dat de integriteit van de gebruikers in de context van de geleverde ondersteuning in het gedrang komt en dat bevestigd wordt door de vaststellingen van Zorginspectie, kan de leidend ambtenaar onmiddellijk een maatregel als vermeld in artikel 56, § 2, opleggen.<br>
-<br>
 Als uit vaststellingen van Zorginspectie ernstige afwijkingen, fraude of financieel misbruik blijken of als blijkt dat bedrieglijke gegevens werden doorgegeven, kan de leidend ambtenaar onmiddellijk een maatregel als bepaald in artikel 56, § 2, artikel 57, § 2 of artikel 59, eerste lid, opleggen.
 
 ## HOOFDSTUK 12 Wijzigings-, overgangs- en slotbepalingen
