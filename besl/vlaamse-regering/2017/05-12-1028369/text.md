@@ -89,6 +89,22 @@ Het beslissingscomité bij het Hermesfonds kan voor de onderzoeksprojecten de ko
 
 ## [Afdeling 2 Starterssteun (ing. BVR 14 decmebr 2018, art. 21, I: 1 januari 2019)]
 
+### ART 6/1.
+
+Het beslissingscomité bij het Hermesfonds kan aan kleine innovatieve ondernemingen starterssteun toekennen als vermeld in artikel 22 van de algemene groepsvrijstellingsverordening.<br>
+<br>
+De steunintensiteit per begunstigde bedraagt maximaal het steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening.<br>
+<br>
+Het verhoogde maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, kan worden toegekend aan kleine en innovatieve ondernemingen die op de regionale steunkaart liggen.<br>
+<br>
+In het derde lid wordt verstaan onder regionale steunkaart: de kaart met gebieden die op sociaal-economisch gebied achtergebleven zijn en die beantwoorden aan de voorwaarden, vermeld in de richtsnoeren inzake regionale steunmaatregelen 2014-2020 (EU Publicatieblad van 23 juli 2013, C 209/1) en de latere wijzigingen ervan. Die gebieden zijn voor Vlaanderen vastgelegd in de regionale steunkaart van het Vlaamse Gewest, goedgekeurd door de Europese Commissie op 16 september 2014 en door de Vlaamse Regering op 21 november 2014 voor de periode van 1 juli 2014 tot en met 31 december 2020 (SA.38577 Regional Aid Map for Belgium (2014-2020)).<br>
+<br>
+Als de steunkaart, vermeld in het derde en vierde lid, wordt herzien door de Europese Commissie of de Vlaamse Regering, wordt de nieuwe steunkaart in aanmerking genomen.<br>
+<br>
+Het beslissingscomité bij het Hermesfonds beslist of de begunstigde in aanmerking komt om als innovatieve onderneming erkend te worden.<br>
+<br>
+In het zesde lid wordt verstaan onder innovatieve onderneming: de innovatieve onderneming, vermeld in artikel 2, 80, van de algemene groepsvrijstellingsverordening.
+
 ## [Afdeling 3 Gemeenschappelijke bepalingen over steun voor onderzoek en over starterssteun (ing. BVR 14 december 2018, art. 22, I: 1 januari 2019)]
 
 ### ART 7.
@@ -205,7 +221,7 @@ b) voor het project:<br>
 <br>
 Het beslissingscomité bij het Hermesfonds bepaalt binnen de perken van de begrotingskredieten en de algemene beleidsprioriteiten van de politieke overheid, zoals vastgelegd door de Vlaamse Regering, de selectiemechanismen voor de beoordeling van de projecten. Daarbij wordt op basis van een appreciatie voor elk van de criteria een algemene score of appreciatie gegeven en wordt steun toegekend volgens een rangorde binnen de beschikbare begroting, waarbij dit algemeen geldend is voor alle aanvragen.<br>
 <br>
-§ 3. Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht, ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, conform het kaderdecreet bestuurlijk beleid van 18 juli 2003, of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
+§ 3. Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht, ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
 <br>
 De Vlaamse Regering machtigt de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, om de nodige afspraken te maken met het beslissingscomité bij het Hermesfonds voor de nadere invulling van de opdracht.
 
