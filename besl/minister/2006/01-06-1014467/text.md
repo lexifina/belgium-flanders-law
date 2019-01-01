@@ -2,7 +2,9 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° gemachtigde indicatiesteller: een gemachtigde indicatiesteller als bedoeld in artikel 13 van het besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering;<br /><br />2° controleorgaan: het controleorgaan als bedoeld in de artikelen 36 en 37 van het besluit van de Vlaamse Regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering, gewijzigd bij het besluit van de Vlaamse Regering van 2 april 2004.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° gemachtigde indicatiesteller: een gemachtigde indicatiesteller als vermeld in artikel 154 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+2° controleorgaan: het controleorgaan als vermeld in artikel 187 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ### ART. 2.
 
@@ -30,13 +32,45 @@ Het controleorgaan valt eveneens onder de toepassing van artikel 3, met uitzonde
 
 ### Tekst
 
-Tweede bijlage bij het ministerieel besluit van 6 januari 2006 tot regeling van de vaststelling van de ernst en de duur van het verminderd zelfzorgvermogen aan de hand van de BEL-profielschaal in het kader van de Vlaamse zorgverzekering<br /><br />Inhoudsopgave<br /><br />Hoofdstuk I. - Gebruiker<br /><br />Hoofdstuk II. - Gemachtigde indicatiesteller<br /><br />Afdeling I. - Wie zijn de gemachtigde indicatiestellers ?<br /><br />Afdeling II. - Personen die indicatiestellingen kunnen uitvoeren<br /><br />Afdeling III. - Attitude bij het uitvoeren van de indicatiestelling<br /><br />Hoofdstuk III. - BEL-profielschaal<br /><br />Afdeling I. - Voorzijde van het formulier 'vaststelling van het langdurig, ernstig verminderd zelfzorgvermogen'<br /><br />Afdeling II. - Keerzijde van het formulier 'vaststelling van het langdurig, ernstig verminderd zelfzorgvermogen: de BEL-foto<br /><br />I. - Indeling BEL-foto<br /><br />Onderafdeling II. - Algemene principes<br /><br />Onderafdeling III. - Concrete interpretatie van de items<br /><br />Onderafdeling IV. - Woordenboek van de items<br /><br />Afdeling III. -Verduidelijking bij frequente interpretatieproblemen<br /><br />Afdeling IV. - Duur van het ernstig verminderd zelfzorgvermogen<br /><br />Hoofdstuk IV. - Facturatie van de uitgevoerde indicatiestellingen
+Tweede bijlage bij het ministerieel besluit van 6 januari 2006 tot regeling van de vaststelling van de ernst en de duur van het verminderd zelfzorgvermogen aan de hand van de BEL-profielschaal in het kader van de Vlaamse sociale bescherming<br>
+<br>
+Inhoudsopgave<br>
+<br>
+Hoofdstuk I. - Gebruiker<br>
+<br>
+Hoofdstuk II. - Gemachtigde indicatiesteller<br>
+<br>
+Afdeling I. - Wie zijn de gemachtigde indicatiestellers ?<br>
+<br>
+Afdeling II. - Personen die indicatiestellingen kunnen uitvoeren<br>
+<br>
+Afdeling III. - Attitude bij het uitvoeren van de indicatiestelling<br>
+<br>
+Hoofdstuk III. - BEL-profielschaal<br>
+<br>
+Afdeling I. - Voorzijde van het formulier 'vaststelling van het langdurig, ernstig verminderd zelfzorgvermogen'<br>
+<br>
+Afdeling II. - Keerzijde van het formulier 'vaststelling van het langdurig, ernstig verminderd zelfzorgvermogen: de BEL-foto<br>
+<br>
+I. - Indeling BEL-foto<br>
+<br>
+Onderafdeling II. - Algemene principes<br>
+<br>
+Onderafdeling III. - Concrete interpretatie van de items<br>
+<br>
+Onderafdeling IV. - Woordenboek van de items<br>
+<br>
+Afdeling III. -Verduidelijking bij frequente interpretatieproblemen<br>
+<br>
+Afdeling IV. - Duur van het ernstig verminderd zelfzorgvermogen<br>
+<br>
+Hoofdstuk IV. - Facturatie van de uitgevoerde indicatiestellingen
 
 ## HOOFDSTUK I Gebruiker
 
 ### Tekst
 
-1. De gebruiker is steeds de persoon voor wie een aanvraag tot een tenlasteneming in het kader van de zorgverzekering wordt aangevraagd.<br>
+1. De gebruiker is steeds de persoon voor wie een zorgbudget voor zwaar zorgbehoevenden wordt aangevraagd.<br>
 <br>
 2. Een indicatiestelling wordt op vraag van de gebruiker of zijn vertegenwoordiger, uitgevoerd bij een gebruiker die geen attest heeft.<br>
 <br>
@@ -54,7 +88,16 @@ Tweede bijlage bij het ministerieel besluit van 6 januari 2006 tot regeling van 
 
 ### Tekst
 
-7. De Vlaamse regering machtigt van rechtswege indicatiestellers om de ernst en de duur van het verminderd zelfzorgvermogen vast te stellen. Volgende voorzieningen die door de Vlaamse Gemeenschap erkend zijn, zijn van rechtswege gemachtigd:<br /><br />Vlaanderen:<br /><br />- centra voor algemeen welzijnswerk in het kader van de ziekenfondsen;<br /><br />- diensten voor gezinszorg;<br /><br />- openbare centra voor maatschappelijk welzijn.<br /><br />Brussel:<br /><br />- centra voor algemeen welzijnswerk in het kader van de ziekenfondsen;<br /><br />- diensten voor gezinszorg;<br /><br />- lokale dienstencentra.<br /><br />8. Als een van rechtswege gemachtigd indicatiesteller verkiest geen indicatiestellingen in het kader van de zorgverzekering uit te voeren, meldt hij dit schriftelijk aan het Vlaams Zorgfonds.
+7. De Vlaamse regering machtigt van rechtswege indicatiestellers om de ernst en de duur van de verminderde zelfredzaamheid vast te stellen. De volgende voorzieningen die door de Vlaamse Gemeenschap erkend zijn, zijn van rechtswege gemachtigd:<br>
+Vlaanderen:<br>
+- diensten maatschappelijk werk van de ziekenfondsen;<br>
+- diensten voor gezinszorg;<br>
+- welzijnsverenigingen, vermeld in artikel 475 van het decreet van 22 december 2017 over het lokaal bestuur, en openbare centra voor maatschappelijk welzijn.<br>
+Brussel :<br>
+- diensten maatschappelijk werk van de ziekenfondsen;<br>
+- diensten voor gezinszorg.<br>
+<br>
+8. Als een van rechtswege gemachtigd indicatiesteller verkiest geen indicatiestellingen in het kader van&nbsp;het zorgbudget voor zwaar zorgbehoevenden uit te voeren, meldt hij dit schriftelijk aan het Agentschap voor Vlaamse Sociale Bescherming.
 
 ## Afdeling II Personen die indicatiestellingen kunnen uitvoeren
 
@@ -118,7 +161,81 @@ Onderstaande voorbeelden zijn bedoeld om de richtlijnen betreffende de handleidi
 
 ### Tekst
 
-42. De zorgkassen storten aan de gemachtigde indicatiestellers 75 euro per uitgevoerde indicatiestelling, als deze aan de volgende voorwaarden voldoet:<br /><br />- ze is uitgevoerd door een door de gebruiker of zijn vertegenwoordiger gekozen gemachtigde indicatiesteller in het kader van de Vlaamse zorgverzekering;<br /><br />- het gaat niet om een indicatiestelling die uitgevoerd werd door een erkende dienst voor gezinszorg of een OCMW dat over een erkende dienst voor gezinszorg beschikt, waarbij aan de geïndiceerde gebruiker binnen de zes maanden na het uitvoeren van de indicatiestelling door deze voorziening gezinszorg werd verstrekt.<br /><br />43. De dienst voor gezinszorg of het OCMW dat over een erkende dienst voor gezinszorg beschikt, deelt in voorkomend geval aan de zorgkas mee dat zij binnen de zes maanden na het uitvoeren van de indicatiestelling gezinszorg aan de gebruiker verstrekt heeft. Deze mededeling gebeurt binnen de dertig dagen na de feiten.<br /><br />44. De gemachtigde indicatiestellers volgen de onderstaande procedure voor de facturatie van de in het kader van de zorgverzekering uitgevoerde indicatiestellingen aan de zorgkas waarbij de geïndiceerde aangesloten is:<br /><br />a. De facturen worden opgemaakt per zorgkas. In principe worden deze facturen ingediend op de hoofdzetel van de zorgkas in kwestie. In onderling overleg tussen zorgkas en gemachtigde indicatiesteller kan overeengekomen worden om de facturen op te maken per decentraal punt van de zorgkas. Hiertoe is het nodig dat de gemachtigde indicatiesteller weet op welk decentraal punt van de zorgkas het dossier van de betrokken geïndiceerde wordt bijgehouden.<br /><br />b. ...<br /><br />c. ...<br /><br />d. De gemachtigde indicatiestellers factureren de uitgevoerde indicatiestellingen voor de tiende dag van de eerstvolgende maand aan de zorgkassen. Indien dit niet haalbaar is, stellen zij voor de<br /><br />tiende dag van de eerstvolgende maand de zorgkassen van de uitgevoerde indicatiestellingen in kennis.<br /><br />e. Een kopie van alle BEL-foto's (recto en verso) waarop de factuur betrekking heeft, wordt bij de factuur gevoegd, zowel van deze met een score gelijk aan of boven de 35 punten als deze met een score onder de 35 punten.<br /><br />f. De gemachtigde indicatiestellers vermelden minstens de volgende gegevens op de factuur:<br /><br />- factuurdatum;<br /><br />- factuurnummer;<br /><br />- GKB-nummer van de gemachtigde indicatiesteller (GKB = gemeenschappelijk klantenbestand). De OCMW-diensten voor gezinszorg vermelden het GKB-nummer van de dienst voor gezinszorg. U kan het GKB-nummer van uw voorziening vinden op de website 'www.vlaamsezorgverzekering.be';<br /><br />- code van de indicatiesteller<br /><br />207001 = diensten voor gezinszorg<br /><br />201001 = ocmw's<br /><br />213001 = centra voor maatschappelijk welzijn<br /><br />207003 = lokale dienstencentra<br /><br />- aantal te vergoeden indicatiestellingen;<br /><br />- totaalbedrag;<br /><br />- rekeningnummer.<br /><br />g. Als na het versturen van de factuur de dienst voor gezinszorg binnen de zes maanden na de indicatiestelling alsnog gezinszorg aan de zorgbehoevende verstrekt, dan delen zij dit ten laatste binnen de dertig dagen na de feiten aan de zorgkas mee samen met een creditnota. De zorgkassen brengen daarop het bedrag in mindering van de volgende factuur die zij aan de betrokken gemachtigde indicatiesteller moeten betalen.<br /><br />h. Bij de factuur wordt eveneens een inventaris gevoegd van de indicatiestellingen waarop de factuur betrekking heeft. De inventarislijst dient alfabetisch op naam van de geïndiceerde gerangschikt te worden.<br /><br />De diensten voor gezinszorg voegen steeds twee inventarissen per factuur, namelijk een inventaris van de indicatiestellingen met vergoeding en een inventaris van de indicatiestellingen zonder vergoeding, eventueel met vermelding van « NIHIL »<br /><br />i. De inventaris vermeldt per uitgevoerde indicatiestelling minstens de volgende gegevens:<br /><br />- per pagina<br /><br />- naam en GKB-nummer van de gemachtigde indicatiesteller<br /><br />- factuurnummer en -datum (link tussen de inventarislijst en de factuur)<br /><br />- paginanummer<br /><br />- per indicatiestelling<br /><br />- oorlopend volgnummer van de indicatiestellingen;<br /><br />- naam en voornaam geïndiceerde;<br /><br />- rijksregisternummer geïndiceerde;<br /><br />- datum indicatiestelling;<br /><br />- resultaat indicatiestelling (behaalde score).<br /><br />j. Bij een beperkt aantal te factureren indicatiestellingen (minder dan tien indicatiestellingen) is het toegelaten dat geen gebruik gemaakt wordt van een inventarislijst. In dit geval moeten de gevraagde gegevens per indicatiestelling op de factuur vermeld worden.
+42. De zorgkassen storten aan de gemachtigde indicatiestellers 75 euro per uitgevoerde indicatiestelling, als deze aan de volgende voorwaarden voldoet:<br>
+<br>
+- ze is uitgevoerd door een door de gebruiker of zijn vertegenwoordiger gekozen gemachtigde indicatiesteller in het kader van het zorgbudget voor zwaar zorgbehoevenden;<br>
+<br>
+- het gaat niet om een indicatiestelling die uitgevoerd werd door een erkende dienst voor gezinszorg of een OCMW dat over een erkende dienst voor gezinszorg beschikt, waarbij aan de geïndiceerde gebruiker binnen de zes maanden na het uitvoeren van de indicatiestelling door deze voorziening gezinszorg werd verstrekt.<br>
+<br>
+43. De dienst voor gezinszorg of het OCMW dat over een erkende dienst voor gezinszorg beschikt, deelt in voorkomend geval aan de zorgkas mee dat zij binnen de zes maanden na het uitvoeren van de indicatiestelling gezinszorg aan de gebruiker verstrekt heeft. Deze mededeling gebeurt binnen de dertig dagen na de feiten.<br>
+<br>
+44. De gemachtigde indicatiestellers volgen de onderstaande procedure voor de facturatie van de in het kader van het zorgbudget voor zwaar zorgbehoevenden uitgevoerde indicatiestellingen aan de zorgkas waarbij de geïndiceerde aangesloten is:<br>
+<br>
+a. De facturen worden opgemaakt per zorgkas. In principe worden deze facturen ingediend op de hoofdzetel van de zorgkas in kwestie. In onderling overleg tussen zorgkas en gemachtigde indicatiesteller kan overeengekomen worden om de facturen op te maken per decentraal punt van de zorgkas. Hiertoe is het nodig dat de gemachtigde indicatiesteller weet op welk decentraal punt van de zorgkas het dossier van de betrokken geïndiceerde wordt bijgehouden.<br>
+<br>
+b. ...<br>
+<br>
+c. ...<br>
+<br>
+d. De gemachtigde indicatiestellers factureren de uitgevoerde indicatiestellingen voor de tiende dag van de eerstvolgende maand aan de zorgkassen. Indien dit niet haalbaar is, stellen zij voor de<br>
+<br>
+tiende dag van de eerstvolgende maand de zorgkassen van de uitgevoerde indicatiestellingen in kennis.<br>
+<br>
+e. Een kopie van alle BEL-foto's (recto en verso) waarop de factuur betrekking heeft, wordt bij de factuur gevoegd, zowel van deze met een score gelijk aan of boven de 35 punten als deze met een score onder de 35 punten.<br>
+<br>
+f. De gemachtigde indicatiestellers vermelden minstens de volgende gegevens op de factuur:<br>
+<br>
+- factuurdatum;<br>
+<br>
+- factuurnummer;<br>
+<br>
+- GKB-nummer van de gemachtigde indicatiesteller (GKB = gemeenschappelijk klantenbestand). De OCMW-diensten voor gezinszorg vermelden het GKB-nummer van de dienst voor gezinszorg. U kan het GKB-nummer van uw voorziening vinden op de website 'www.vlaamsezorgverzekering.be';<br>
+<br>
+- code van de indicatiesteller<br>
+<br>
+207001 = diensten voor gezinszorg<br>
+<br>
+201001 = ocmw's<br>
+<br>
+213001 = centra voor maatschappelijk welzijn<br>
+<br>
+207003 = lokale dienstencentra<br>
+<br>
+- aantal te vergoeden indicatiestellingen;<br>
+<br>
+- totaalbedrag;<br>
+<br>
+- rekeningnummer.<br>
+<br>
+g. Als na het versturen van de factuur de dienst voor gezinszorg binnen de zes maanden na de indicatiestelling alsnog gezinszorg aan de zorgbehoevende verstrekt, dan delen zij dit ten laatste binnen de dertig dagen na de feiten aan de zorgkas mee samen met een creditnota. De zorgkassen brengen daarop het bedrag in mindering van de volgende factuur die zij aan de betrokken gemachtigde indicatiesteller moeten betalen.<br>
+<br>
+h. Bij de factuur wordt eveneens een inventaris gevoegd van de indicatiestellingen waarop de factuur betrekking heeft. De inventarislijst dient alfabetisch op naam van de geïndiceerde gerangschikt te worden.<br>
+<br>
+De diensten voor gezinszorg voegen steeds twee inventarissen per factuur, namelijk een inventaris van de indicatiestellingen met vergoeding en een inventaris van de indicatiestellingen zonder vergoeding, eventueel met vermelding van « NIHIL »<br>
+<br>
+i. De inventaris vermeldt per uitgevoerde indicatiestelling minstens de volgende gegevens:<br>
+<br>
+- per pagina<br>
+<br>
+- naam en GKB-nummer van de gemachtigde indicatiesteller<br>
+<br>
+- factuurnummer en -datum (link tussen de inventarislijst en de factuur)<br>
+<br>
+- paginanummer<br>
+<br>
+- per indicatiestelling<br>
+<br>
+- doorlopend volgnummer van de indicatiestellingen;<br>
+<br>
+- naam en voornaam geïndiceerde;<br>
+<br>
+- rijksregisternummer geïndiceerde;<br>
+<br>
+- datum indicatiestelling;<br>
+<br>
+- resultaat indicatiestelling (behaalde score).<br>
+<br>
+j. Bij een beperkt aantal te factureren indicatiestellingen (minder dan tien indicatiestellingen) is het toegelaten dat geen gebruik gemaakt wordt van een inventarislijst. In dit geval moeten de gevraagde gegevens per indicatiestelling op de factuur vermeld worden.
 
 ## Bijlage 3:
 
