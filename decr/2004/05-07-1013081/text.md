@@ -13,7 +13,7 @@ Dit decreet houdt rekening met de bepalingen van :<br />1° richtlijn 2006/123/E
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;;<br>
 2° leertijd : het traject dat bestaat uit een praktijkopleiding in een onderneming, aangevuld met een theoretische opleiding in een centrum, dat voldoet aan de regels vermeld in artikel 27 tot en met 30;<br>
 3° ondernemerschapstraject : een door Syntra Vlaanderen gescreend traject, dat afgestemd is op een sectoraal beroepscompetentieprofiel, een generiek ondernemersprofiel of regelgeving, dat voldoet aan de regels vermeld in artikel 31 tot en met 33;<br>
 4° toegewezen traject : het traject met als doel de deelnemers sterker in te bedden binnen het ondernemerschap door hen opleidingen aan te bieden of technieken aan te leren om hun ondernemerschapscompetenties te verhogen, dat voldoet aan de regels vermeld in artikel 34;<br>
@@ -29,7 +29,17 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 3.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtsper-soonlijkheid opgericht zoals bedoeld in artikel 13 van het kaderdecreet. Dit agentschap draagt als naam "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", hierna genoemd Syntra Vlaanderen.<br /><br />Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid van de Vlaamse overheid".<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br /><br />De Vlaamse regering kan beslissen meerdere regionale vestigingen van het agentschap op te richten.<br /><br />§ 4. Alle bepalingen van het kaderdecreet zijn op dit decreet van toepassing.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtsper-soonlijkheid opgericht zoals bedoeld in artikel III.7 van het Bestuursdecreet. Dit agentschap draagt als naam "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", hierna genoemd Syntra Vlaanderen.<br>
+<br>
+Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid van de Vlaamse overheid".<br>
+<br>
+§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br>
+<br>
+De Vlaamse regering kan beslissen meerdere regionale vestigingen van het agentschap op te richten.<br>
+<br>
+§ 4. Alle bepalingen van het Bestuursdecreet over publiekrechtelijk vormgegeven agentschappen zijn van toepassing.
 
 ## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
 
@@ -91,7 +101,7 @@ q) het implementeren van de doel- en kansengroepen in de ondernemerschapstraject
 
 § 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br>
 <br>
-§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het kaderdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en het ondernemingsplan dat hem verbindt:<br>
+§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het Bestuursdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en het ondernemingsplan dat hem verbindt:<br>
 1° het uittekenen van de concrete pedagogische noden en de concrete planning en coördinatie inzake de opleiding, begeleiding en vorming van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen of versterken;<br>
 2° het opmaken van het programma van de leertijd en de ondernemerschapstrajecten, rekening houdend met de vestigingsvoorwaarden voor de gereglementeerde beroepen;<br>
 3° het opmaken van de programmatie van de vorming ten behoeve van de in 1° bedoelde personen, alsmede de goedkeuring van het bijhorende organisatieplan. Voor de leertijd moeten de bepalingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap met betrekking tot de programmatie in de opleidingscentra in acht genomen worden;<br>
@@ -132,9 +142,9 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 
 ### ART. 10.
 
-§ 1. Onverminderd de in artikel 21, § 1, van het kaderdecreet bedoelde onverenigbaarheden, is het mandaat van bestuurder onverenigbaar met de functie van lid van de raad van bestuur, directeur-afgevaardigd bestuurder en/of personeelslid van een centrum.<br>
+§ 1. Onverminderd de in artikel III.12, § 1, van het Bestuursdecreet bedoelde onverenigbaarheden, is het mandaat van bestuurder onverenigbaar met de functie van lid van de raad van bestuur, directeur-afgevaardigd bestuurder en/of personeelslid van een centrum.<br>
 <br>
-§ 2. In het geval een bestuurder het bepaalde in de eerste paragraaf overtreedt, geldt de regeling bepaald in artikel 21, § 2, van het kaderdecreet.
+§ 2. In het geval een bestuurder het bepaalde in de eerste paragraaf overtreedt, geldt de regeling bepaald in artikel III.12, § 2, van het Bestuursdecreet.
 
 ### ART. 11.
 
@@ -147,8 +157,8 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 § 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval:<br>
 1° het sluiten, op voorstel van de gedelegeerd bestuurder, van het ondernemingsplan met de Vlaamse regering;<br>
 2° het opstellen van het ontwerp van begroting en van de rekeningen;<br>
-3° het vaststellen, op voorstel van de gedelegeerd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als bedoeld in artikel 15, § 1, 4°, van het kaderdecreet;<br>
-4° het beslissen overeenkomstig de voorwaarden van artikel 12 van het kaderdecreet over de deelname van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" aan de oprichting van of de deelname in, alsmede omtrent het bestuur of de leiding en de financiering van andere publiek- of privaatrechtelijke rechtspersonen;<br>
+3° ...;<br>
+4° het beslissen overeenkomstig de voorwaarden van artikel III.18 van het Bestuursdecreet over de deelname van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" aan de oprichting van of de deelname in, alsmede omtrent het bestuur of de leiding en de financiering van andere publiek- of privaatrechtelijke rechtspersonen;<br>
 5° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van het ondernemingsplan;<br>
 6° het rapporteren over de uitvoering van de begroting;<br>
 7° het sluiten van het organisatieplan met de centra als bedoeld in artikel 38, § 2, laatste lid.
@@ -572,7 +582,19 @@ Als een sanctie als vermeld in het tweede lid wordt uitgesproken, kan beroep wor
 
 ### ART. 45.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de missie, taken en bevoegdheden van het Vlaams Instituut voor het Zelfstandig Ondernemen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de entiteit binnen de Vlaamse overheid die instaat voor de bedrijfsbegeleiding en de vormgeving, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br /><br />4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen, naar de vorm aanpassen.<br /><br />De coördinatie treedt pas in werking nadat zij bekrachtigd is door het Vlaams Parlement.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de missie, taken en bevoegdheden van het Vlaams Instituut voor het Zelfstandig Ondernemen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Bestuursdecreet.<br>
+<br>
+De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de entiteit binnen de Vlaamse overheid die instaat voor de bedrijfsbegeleiding en de vormgeving, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br>
+4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen, naar de vorm aanpassen.<br>
+<br>
+De coördinatie treedt pas in werking nadat zij bekrachtigd is door het Vlaams Parlement.
 
 ## HOOFDSTUK XII SLOTBEPALINGEN
 
