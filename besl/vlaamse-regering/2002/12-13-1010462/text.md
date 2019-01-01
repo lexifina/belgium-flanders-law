@@ -4,7 +4,16 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het   Waterbeleid;<BR>2° nieuwe inrichtingen en waterdistributienetwerken:   inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na   het inwerking treden van dit besluit;<BR>3° het decreet: het decreet van 24 mei   2002 betreffende water, bestemd voor menselijke aanwending;<BR>4° de bevoegde   entiteit Leefmilieu : de afdeling, bevoegd voor operationeel waterbeheer, van de   Vlaamse Milieumaatschappij;<BR>5° de bevoegde entiteit Volksgezondheid : de   afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams   Agentschap Zorg en Gezondheid;<BR>6° nooddrinkwatervoorziening: de levering door   de exploitant van het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie, tijdens een geplande of ongeplande onderbreking van de   levering via het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie;<BR>7° noodwatervoorziening: de levering door de   exploitant van het openbaar waterdistributienetwerk van water, uitsluitend voor   sanitaire doeleinden, tijdens een geplande of ongeplande onderbreking van de   levering via het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie.<BR><BR>De definities van het decreet zijn van toepassing   op dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br>
+2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br>
+3° het decreet: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+4° de bevoegde entiteit Leefmilieu : de afdeling, bevoegd voor operationeel waterbeheer, van de Vlaamse Milieumaatschappij;<br>
+5° de bevoegde entiteit Volksgezondheid : de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams Agentschap Zorg en Gezondheid;<br>
+6° nooddrinkwatervoorziening: de levering door de exploitant van het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie, tijdens een geplande of ongeplande onderbreking van de levering via het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie;<br>
+7° noodwatervoorziening: de levering door de exploitant van het openbaar waterdistributienetwerk van water, uitsluitend voor sanitaire doeleinden, tijdens een geplande of ongeplande onderbreking van de levering via het openbaar waterdistributienetwerk van water, bestemd voor menselijke consumptie.<br>
+<br>
+De definities van het decreet zijn van toepassing op dit besluit.
 
 ### ART. 2.
 
@@ -29,7 +38,49 @@ Als de waterleverancier water levert dat niet geschikt is voor menselijke consum
 
 ### ART. 3/1.
 
-§ 1. De exploitant van het openbaar waterdistributienetwerk staat binnen   zijn distributiegebied in voor de totstandbrenging en instandhouding van een   duurzame voorziening van water, bestemd voor menselijke consumptie, als vermeld   in artikel 3, § 2, van het decreet.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk stelt, uiterlijk op 1 januari 2016, per leveringsgebied   of per andere logische eenheid in het distributiegebied een leveringsplan op dat   ten minste de volgende gegevens bevat :<BR>1° een schematisch overzicht met   technische gegevens van de inrichtingen en het openbaar waterdistributienetwerk,   zoals een overzicht van :<BR>a) de winnings- en productielocaties;<BR>b) het   transport- en distributienetwerk, inclusief verbindingen met aangrenzende   gebieden;<BR>c) de capaciteit en levering onder niet-verstoorde   omstandigheden;<BR>d) de beschikbare reservecapaciteit en   verbindingsmogelijkheden met andere gebieden voor gebruik bij   verstoringen;<BR>e) de aansluitingsgraad binnen het gebied;<BR>2° een synthese   van de aanpak om de verplichtingen voor de levering conform artikel 3, § 2, van   het decreet in te vullen, zowel in niet-verstoorde als in verstoorde   omstandigheden.<BR><BR>De exploitant van het openbaar waterdistributienetwerk   houdt het leveringsplan actueel.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk neemt alle passende maatregelen om te kunnen voorzien in   de toekomstige behoeften van water, bestemd voor menselijke consumptie, in zijn   distributiegebied. De exploitant van het openbaar waterdistributienetwerk stelt   onder meer een langetermijnvoorzieningsplan op voor een periode van twintig jaar   met daarin een planning met inbegrip van een prognose van de vereiste   investeringen ter veiligstelling van de voorziening van water, bestemd voor   menselijke consumptie, opgesplitst in winning, zuivering en distributie. Het   langetermijnvoorzieningsplan wordt om de zes jaar herzien. Het eerste   langetermijnvoorzieningsplan wordt opgesteld tegen uiterlijk 1 januari 2017. De   exploitant van het openbaar waterdistributienetwerk houdt bij de opmaak van het   langetermijnvoorzieningsplan rekening met de door de Vlaamse Milieumaatschappij   aangeleverde informatie over de behoefteprognose voor water, bestemd voor   menselijke consumptie, en over de draagkracht van de ruwwaterbronnen.<BR><BR>§   2. De exploitant van het openbaar waterdistributienetwerk zet alle passende   middelen in om de waterlevering op elk moment te verzekeren, waaronder de   organisatie van een nooddrinkwatervoorziening of een noodwatervoorziening. In   geval van een nooddrinkwatervoorziening wordt een algemene   inspanningsverbintenis aangegaan naar rato van drie liter water, bestemd voor   menselijke consumptie, per inwoner per dag.<BR><BR>De exploitant van het   openbaar waterdistributienetwerk meldt elke onderbreking in de levering via het   openbaar waterdistributienetwerk met een verwachte duur van meer dan 24 uur en   met een omvang van meer dan honderd aftakkingen aan de bevoegde entiteit   Leefmilieu en aan de bevoegde entiteit Volksgezondheid. De exploitant van het   openbaar waterdistributienetwerk houdt beide entiteiten op de hoogte van de   evolutie van de situatie, zijn onderzoeken en de genomen maatregelen.<BR><BR>De   bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid kunnen in   onderling overleg en in overleg met de exploitanten van het openbaar   waterdistributienetwerk richtlijnen voor de nooddrinkwatervoorziening en de   noodwatervoorziening opstellen.<BR><BR>§ 3. De exploitant van het openbaar   waterdistributienetwerk borgt de kwaliteit van het productie- en   distributieproces en het geleverde water, bestemd voor menselijke consumptie,   onder meer door de nodige controle, vermeld in hoofdstuk III, te verzekeren en   door de implementatie van een risico-evaluatie- en   risicobeheerstrategie.<BR><BR>Via de risico-evaluatie- en risicobeheerstrategie   wordt nagegaan of er een significant risico bestaat dat het water, bestemd voor   menselijke consumptie, dat wordt geleverd, niet voldoet aan de bepalingen,   vermeld in artikel 2. De primaire bedrijfsprocessen die in ieder geval deel   moeten uitmaken van de risico-evaluatie- en risicobeheerstrategie, zijn :<BR>1°   de winning, de opslag en het transport van oppervlaktewater, grondwater of ander   water dat gebruikt wordt voor de bereiding van water, bestemd voor menselijke   consumptie;<BR>2° de behandeling van het onttrokken water tot water, bestemd   voor menselijke consumptie, met inbegrip van het gebruik van chemicaliën en   materialen;<BR>3° de opslag en distributie van het water, bestemd voor   menselijke consumptie, tot op het punt dat het geleverd wordt aan de   klant.<BR><BR>Als er significante risico's zijn dat niet gegarandeerd kan worden   dat het geleverde water, bestemd voor menselijke consumptie, gezond en schoon is   als vermeld in artikel 2, neemt de exploitant van het openbaar   waterdistributienetwerk binnen zijn bevoegdheden de nodige herstelmaatregelen.   De herstelmaatregelen beogen de risico's weg te nemen, te beperken of te beheren   om zo de potentiële negatieve impact van de risico's op de kwaliteit van het   geleverde water, bestemd voor menselijke consumptie, en op de volksgezondheid   maximaal te voorkomen of te beperken.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk houdt de risico-evaluatie- en risicobeheerstrategie   actueel. De exploitant van het openbaar waterdistributienetwerk zorgt daarbij   voor een herziening om de zes jaar en tussentijds als daar aanleiding toe   is.<BR><BR>De exploitant van het openbaar waterdistributienetwerk bewaakt de   kwaliteit en de effectiviteit van de controles, vermeld in hoofdstuk III, en de   risico-evaluatie- en risicobeheerstrategie.<BR><BR>De bevoegde entiteit   Leefmilieu kan, in overleg met de exploitant van het openbaar   waterdistributienetwerk, nadere richtlijnen opstellen voor de risico-evaluatie-   en risicobeheerstrategie en voor de implementatie ervan.<BR><BR>§ 4. De   exploitant van het openbaar waterdistributienetwerk stelt, uiterlijk 1 jaar na   de inwerkingtreding van dit besluit, een interventieplan op waarin het gekozen   concept, de organisatie en de middelen om te voldoen aan de verplichting voor de   organisatie van een nooddrinkwatervoorziening of noodwatervoorziening conform   paragraaf 2, en de bepalingen, vermeld in artikel 14, § 1, worden   beschreven.<BR><BR>Het interventieplan is onder meer afgestemd op de   richtsnoeren, vermeld in artikel 14, § 2.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk houdt het interventieplan actueel en zorgt voor een   herziening om de zes jaar en tussentijds als daar aanleiding toe is.<BR><BR>De   exploitant van het openbaar waterdistributienetwerk houdt het interventieplan   ter inzage voor de bevoegde entiteit Leefmilieu die de vereiste afstemming op de   richtsnoeren, vermeld in artikel 14, § 2, kan nagaan en eventueel de nodige   aanpassingen kan vragen. De bevoegde entiteit Leefmilieu kan ook op elk moment   advies verstrekken over het interventieplan.
+§ 1. De exploitant van het openbaar waterdistributienetwerk staat binnen zijn distributiegebied in voor de totstandbrenging en instandhouding van een duurzame voorziening van water, bestemd voor menselijke consumptie, als vermeld in artikel 2.1.1, § 2, van het decreet.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk stelt, uiterlijk op 1 januari 2016, per leveringsgebied of per andere logische eenheid in het distributiegebied een leveringsplan op dat ten minste de volgende gegevens bevat :<br>
+1° een schematisch overzicht met technische gegevens van de inrichtingen en het openbaar waterdistributienetwerk, zoals een overzicht van :<br>
+a) de winnings- en productielocaties;<br>
+b) het transport- en distributienetwerk, inclusief verbindingen met aangrenzende gebieden;<br>
+c) de capaciteit en levering onder niet-verstoorde omstandigheden;<br>
+d) de beschikbare reservecapaciteit en verbindingsmogelijkheden met andere gebieden voor gebruik bij verstoringen;<br>
+e) de aansluitingsgraad binnen het gebied;<br>
+2° een synthese van de aanpak om de verplichtingen voor de levering conform artikel 2.1.1, § 2, van het decreet in te vullen, zowel in niet-verstoorde als in verstoorde omstandigheden.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk houdt het leveringsplan actueel.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk neemt alle passende maatregelen om te kunnen voorzien in de toekomstige behoeften van water, bestemd voor menselijke consumptie, in zijn distributiegebied. De exploitant van het openbaar waterdistributienetwerk stelt onder meer een langetermijnvoorzieningsplan op voor een periode van twintig jaar met daarin een planning met inbegrip van een prognose van de vereiste investeringen ter veiligstelling van de voorziening van water, bestemd voor menselijke consumptie, opgesplitst in winning, zuivering en distributie. Het langetermijnvoorzieningsplan wordt om de zes jaar herzien. Het eerste langetermijnvoorzieningsplan wordt opgesteld tegen uiterlijk 1 januari 2017. De exploitant van het openbaar waterdistributienetwerk houdt bij de opmaak van het langetermijnvoorzieningsplan rekening met de door de Vlaamse Milieumaatschappij aangeleverde informatie over de behoefteprognose voor water, bestemd voor menselijke consumptie, en over de draagkracht van de ruwwaterbronnen.<br>
+<br>
+§ 2. De exploitant van het openbaar waterdistributienetwerk zet alle passende middelen in om de waterlevering op elk moment te verzekeren, waaronder de organisatie van een nooddrinkwatervoorziening of een noodwatervoorziening. In geval van een nooddrinkwatervoorziening wordt een algemene inspanningsverbintenis aangegaan naar rato van drie liter water, bestemd voor menselijke consumptie, per inwoner per dag.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk meldt elke onderbreking in de levering via het openbaar waterdistributienetwerk met een verwachte duur van meer dan 24 uur en met een omvang van meer dan honderd aftakkingen aan de bevoegde entiteit Leefmilieu en aan de bevoegde entiteit Volksgezondheid. De exploitant van het openbaar waterdistributienetwerk houdt beide entiteiten op de hoogte van de evolutie van de situatie, zijn onderzoeken en de genomen maatregelen.<br>
+<br>
+De bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid kunnen in onderling overleg en in overleg met de exploitanten van het openbaar waterdistributienetwerk richtlijnen voor de nooddrinkwatervoorziening en de noodwatervoorziening opstellen.<br>
+<br>
+§ 3. De exploitant van het openbaar waterdistributienetwerk borgt de kwaliteit van het productie- en distributieproces en het geleverde water, bestemd voor menselijke consumptie, onder meer door de nodige controle, vermeld in hoofdstuk III, te verzekeren en door de implementatie van een risico-evaluatie- en risicobeheerstrategie.<br>
+<br>
+Via de risico-evaluatie- en risicobeheerstrategie wordt nagegaan of er een significant risico bestaat dat het water, bestemd voor menselijke consumptie, dat wordt geleverd, niet voldoet aan de bepalingen, vermeld in artikel 2. De primaire bedrijfsprocessen die in ieder geval deel moeten uitmaken van de risico-evaluatie- en risicobeheerstrategie, zijn :<br>
+1° de winning, de opslag en het transport van oppervlaktewater, grondwater of ander water dat gebruikt wordt voor de bereiding van water, bestemd voor menselijke consumptie;<br>
+2° de behandeling van het onttrokken water tot water, bestemd voor menselijke consumptie, met inbegrip van het gebruik van chemicaliën en materialen;<br>
+3° de opslag en distributie van het water, bestemd voor menselijke consumptie, tot op het punt dat het geleverd wordt aan de klant.<br>
+<br>
+Als er significante risico's zijn dat niet gegarandeerd kan worden dat het geleverde water, bestemd voor menselijke consumptie, gezond en schoon is als vermeld in artikel 2, neemt de exploitant van het openbaar waterdistributienetwerk binnen zijn bevoegdheden de nodige herstelmaatregelen. De herstelmaatregelen beogen de risico's weg te nemen, te beperken of te beheren om zo de potentiële negatieve impact van de risico's op de kwaliteit van het geleverde water, bestemd voor menselijke consumptie, en op de volksgezondheid maximaal te voorkomen of te beperken.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk houdt de risico-evaluatie- en risicobeheerstrategie actueel. De exploitant van het openbaar waterdistributienetwerk zorgt daarbij voor een herziening om de zes jaar en tussentijds als daar aanleiding toe is.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk bewaakt de kwaliteit en de effectiviteit van de controles, vermeld in hoofdstuk III, en de risico-evaluatie- en risicobeheerstrategie.<br>
+<br>
+De bevoegde entiteit Leefmilieu kan, in overleg met de exploitant van het openbaar waterdistributienetwerk, nadere richtlijnen opstellen voor de risico-evaluatie- en risicobeheerstrategie en voor de implementatie ervan.<br>
+<br>
+§ 4. De exploitant van het openbaar waterdistributienetwerk stelt, uiterlijk 1 jaar na de inwerkingtreding van dit besluit, een interventieplan op waarin het gekozen concept, de organisatie en de middelen om te voldoen aan de verplichting voor de organisatie van een nooddrinkwatervoorziening of noodwatervoorziening conform paragraaf 2, en de bepalingen, vermeld in artikel 14, § 1, worden beschreven.<br>
+<br>
+Het interventieplan is onder meer afgestemd op de richtsnoeren, vermeld in artikel 14, § 2.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk houdt het interventieplan actueel en zorgt voor een herziening om de zes jaar en tussentijds als daar aanleiding toe is.<br>
+<br>
+De exploitant van het openbaar waterdistributienetwerk houdt het interventieplan ter inzage voor de bevoegde entiteit Leefmilieu die de vereiste afstemming op de richtsnoeren, vermeld in artikel 14, § 2, kan nagaan en eventueel de nodige aanpassingen kan vragen. De bevoegde entiteit Leefmilieu kan ook op elk moment advies verstrekken over het interventieplan.
 
 ### ART. 4.
 
@@ -73,7 +124,7 @@ De operationele monitoring inclusief de te meten parameters en frequenties worde
 <br>
 De monsters moeten zodanig genomen zijn dat ze representatief zijn voor de kwaliteit van het gedurende het jaar verbruikte water in het leveringsgebied.<br>
 <br>
-De plaatsen van monsterneming worden voorgesteld door de waterleverancier in het controleprogramma, bedoeld in artikel 11, zodanig dat aangetoond wordt dat het water, bestemd voor menselijke consumptie, gezond en schoon is op de plaatsen, bepaald door artikel 6, § 2, van het decreet.<br>
+De plaatsen van monsterneming worden voorgesteld door de waterleverancier in het controleprogramma, bedoeld in artikel 11, zodanig dat aangetoond wordt dat het water, bestemd voor menselijke consumptie, gezond en schoon is op de plaatsen, bepaald door artikel&nbsp;2.3.2, van het decreet.<br>
 <br>
 § 2. De monstername en de analyse worden gedaan door een laboratorium in de discipline water, deeldomein drinkwater, dat erkend is conform het VLAREL van 19 november 2010. De monsters worden geanalyseerd conform de bepalingen in bijlage III, die bij dit besluit is gevoegd.<br>
 <br>
@@ -97,7 +148,7 @@ De exploitant van het openbaar waterdistributienetwerk deelt uiterlijk op 1 sept
 <br>
 § 2.&nbsp;De exploitant van een openbaar waterdistributienetwerk en de titularis van een private waterwinning, die water, bestemd voor menselijke consumptie, levert in het kader van een commerciële of openbare activiteit, deelt uiterlijk op 1 september van elk jaar, voor akkoord of aanmerkingen, een controleprogramma als vermeld in artikel 10, voor het volgende jaar mee aan de bevoegde entiteit Leefmilieu. Dat controleprogramma voldoet minimaal aan de specificaties, vermeld in bijlage II. Bij ontstentenis van weigering of opmerkingen door de bevoegde entiteit Leefmilieu binnen&nbsp;drie maanden na ontvangst wordt het controleprogramma geacht goedgekeurd te zijn. De bevoegde entiteit Leefmilieu kan, als dat noodzakelijk is, in overleg met de&nbsp;indiener het controleprogramma aanpassen.<br>
 <br>
-§ 3. Voor de toepassing van het controleprogramma worden de publieke gebouwen ingedeeld in minstens twee categorieën. Categorie 1 bevat minstens de gebouwen bedoeld in artikel 2, 11°, b tot en met e, van het decreet. De bemonsteringen in de publieke gebouwen worden niet meegeteld om te voldoen aan de bepalingen, vermeld in bijlage II, tabel B.<br>
+§ 3. Voor de toepassing van het controleprogramma worden de publieke gebouwen ingedeeld in minstens twee categorieën. Categorie 1 bevat minstens de gebouwen bedoeld in artikel 2.1.2, 22°, b tot en met e, van het decreet. De bemonsteringen in de publieke gebouwen worden niet meegeteld om te voldoen aan de bepalingen, vermeld in bijlage II, tabel B.<br>
 <br>
 § 4. De bevoegde entiteit Leefmilieu kan nadere regels bepalen met betrekking tot de inhoud van het controleprogramma.
 
@@ -1291,13 +1342,24 @@ Opmerking 13: Deze parameter hoeft alleen te worden opgevolgd door een exploitan
 
 Bijlage II. Controle<br>
 <br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=44">http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=44</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=44">http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=44</a><br>
+<br>
+* Bij BVR van 26 april 2019, BS 19 juli 2019 worden met ingang van 1 januari 2019 de volgende wijzigingen aangebracht:<br>
+1° in deel B "parameter en frequenties", 1 Algemeen kader wordt de zinsnede "6, § 2" vervangen door de zinsnede "2.3.2";<br>
+2° in deel C "Risicobeoordeling" wordt punt 3 vervangen door wat volgt:<br>
+"3. In de risicobeoordeling wordt er rekening gehouden met de resultaten van de programma's voor de monitoring, vermeld in 1.7.5.1 tot 1.7.5.3 van het decreet, voor de waterlichamen, vermeld in artikel 1.7.6.1, tweede lid, 1°, van het voormelde decreet, die gemiddeld meer dan 100 m3 per dag leveren conform punt 2.1.2 en 3.4.1 van bijlage 1 bij het besluit van de Vlaamse Regering van 26 april 2013 tot vaststelling van het geactualiseerde monitoringprogramma van de watertoestand ter uitvoering van artikel 1.7.5.1 en 1.7.5.3 van het decreet, en met de parameters waarvoor richtwaarden zijn vastgesteld."<br>
+3° in deel C "Risicobeoordeling" wordt in punt 4 het punt c vervangen door wat volgt:<br>
+"c. De nodige waarborgen vermeld in deel A, punt 1, a), moeten worden geleverd."<br>
+4° in deel D "Steekproefmethoden en plaatsen van monsterneming" wordt de zinsnede "6, § 2" vervangen door de zinsnede "2.3.2".&nbsp;
 
 ### BIJLAGE III.
 
 Bijlage III.<br>
 <br>
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=50">http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=50</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=50">http://www.ejustice.just.fgov.be/mopdf/2017/10/11_1.pdf#page=50</a><br>
+<br>
+* Bij BVR van 26 april 2019, BS 19 juli 2019 worden met ingang van 1 januari 2019 de volgende wijzigingen aangebracht:<br>
+In Deel B "Chemische en indicatorparameters waarvoor prestatiekenmerken gespecificeerd zijn, 1 Chemische en indicatorparameters" wordt de zinsnede "artikel 67 en 69 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid" vervangen door de zinsnede "de artikelen 1.7.5.1 en 1.7.5.3 van het decreet".
 
 ### BIJLAGE IV.
 
