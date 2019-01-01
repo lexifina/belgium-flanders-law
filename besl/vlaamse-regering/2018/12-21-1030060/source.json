@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030060,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot wijziging van het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning, het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning, het Procedurebesluit van 9 mei 2014, het Procedurebesluit Buitenschoolse Opvang van 19 december 2014 en het besluit van de Vlaamse Regering van 12 oktober 2018 houdende de erkenning en de subsidiëring van consultatiebureaus en de erkenning van consultatiebureauartsen, wat betreft de procedure in het kader van samenvoeging van gemeenten, tot wijziging van het besluit van de Vlaamse Regering van 21 september 2018 tot vaststelling van de nadere regels voor het toekennen van een sociale toeslag en tot wijziging van het besluit van de Vlaamse Regering van 13 juli 2018 tot vaststelling van de nadere regels over de rechten en plichten van begunstigden in hun contacten met uitbetalingsactoren en tot vaststelling van de regels voor de ambtshalve en gedwongen herziening van een beslissing tot toekenning van toelagen in het kader van het gezinsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030060/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "4e3db37bc1e3090de908b746f7b97bc424a920bf237de7b6d3480ef28b051be5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030060&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-21",
+  "gazette": "2018-12-28",
+  "numac": 2018015439,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
