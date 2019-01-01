@@ -21,7 +21,7 @@ Besluit :<br>
 
 ### ART 1.
 
-De grenzen van de afgesloten watervoerende lagen, vermeld in artikel 2 van het decreet van 24 januari 1984, zijn aangeduid op de vier kaarten opgenomen in bijlage 1, die bij dit besluit is gevoegd:<br>
+De grenzen van de afgesloten watervoerende lagen, vermeld in artikel 4.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, zijn aangeduid op de vier kaarten opgenomen in bijlage 1, die bij dit besluit is gevoegd:<br>
 Bijlage 1.1. Het afgesloten deel van het Oligoceen Aquifersysteem (HCOV 0400);<br>
 Bijlage 1.2. Het afgesloten deel van het Ledo-Paniseliaan-Brusseliaan Aquifersysteem (HCOV 0600);<br>
 Bijlage 1.3. Het afgesloten deel van de Ieperiaan Aquifer (HCOV 0800);<br>
@@ -30,7 +30,7 @@ Bijlage 1.4. Het afgesloten deel van het Paleoceen Aquifersysteem (HCOV 1000), h
 
 ### ART 2.
 
-De grenzen van de heffingsgebieden waarvoor de gebiedsfactoren, vermeld in de bijlage bij het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer, van toepassing zijn, zijn aangeduid op de acht kaarten opgenomen in bijlage 2, die bij dit besluit is gevoegd:<br>
+De grenzen van de heffingsgebieden waarvoor de gebiedsfactoren, vermeld in de bijlage 6 bij het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, van toepassing zijn, zijn aangeduid op de acht kaarten opgenomen in bijlage 2, die bij dit besluit is gevoegd:<br>
 Bijlage 2.1. Heffingsgebieden voor winningen gelegen in de Quartaire Aquifersystemen (HCOV 0100);<br>
 Bijlage 2.2. Heffingsgebieden voor winningen gelegen in het Kempens Aquifersysteem (HCOV 0200);<br>
 Bijlage 2.3. Heffingsgebieden voor winningen gelegen in het Oligoceen Aquifersysteem (HCOV 0400);<br>
