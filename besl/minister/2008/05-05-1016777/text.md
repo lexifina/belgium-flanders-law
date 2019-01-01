@@ -14,8 +14,8 @@ Besluit :
 
 ### ART. 1.
 
-Volgende beoordelingsinstanties zijn voor onbepaalde duur erkend op basis van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, gewijzigd bij het besluit van de Vlaamse Regering van 5 oktober 2007 :<br />1°Cobot VZW, Poortakkerstraat 92, 9051 Sint-Denijs-Westrem, als erkende beoordelingsinstantie voor een titel van dubbelstuk tapijtwever;<br />2° @thetys, Vilvoordselaan 296, 1130 Brussel, als erkende beoordelingsinstantie voor een titel van heftruckchauffeur;<br />3° @thetys, Vilvoordselaan 296, 1130 Brussel, als erkende beoordelingsinstantie voor een titel van reachtruckchauffeur;<br />4° @thetys, Vilvoordselaan 296, 1130 Brussel, als erkende beoordelingsinstantie voor een titel van magazijnmedewerker; <br />5° VDAB, Keizerslaan 11, 1000 Brussel, als erkende beoordelingsinstantie voor een titel van heftruckchauffeur;<br />6° VDAB, Keizerslaan 11, 1000 Brussel, als erkende beoordelingsinstantie voor een titel van reachtruckchauffeur;<br />7° VDAB, Keizerslaan 11, 1000 Brussel, als erkende beoordelingsinstantie voor een titel van magazijnmedewerker;<br />8° VZW WEB, steenweg op Tielen 70, 2300 Turnhout, als erkende beoordelingsinstantie voor een titel van monitor/begeleider in beschutte en sociale werkplaatsen;<br />9° SYNTRA Limburg, Herkenrodestraat 20, 3600 Genk, als erkende beoordelingsinstantie voor een titel van kapper.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2008, met uitzondering van artikel 1, 9°, hetwelk uitwerking heeft met ingang van 24 juli 2007.
+...
