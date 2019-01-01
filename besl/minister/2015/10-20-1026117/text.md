@@ -14,4 +14,4 @@ Besluit :</p>
 
 ### ART. Enig.
 
-Voor   het Vlaamse Gewest wordt het Agentschap Waterwegen en Zeekanaal nv aangeduid als   de bevoegde autoriteit in de zin van punt 1.5.1 van de Bijlage bij het Europees   verdrag van 26 mei 2000 inzake het internationaal vervoer van gevaarlijke   goederen over de binnenwateren.
+...
