@@ -8,7 +8,10 @@ Dit decreet regelt een gewest- en gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-Er wordt een strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, afgekort "SARO", opgericht als vermeld in artikel 3 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden.<br /><br />De SARO heeft rechtspersoonlijkheid. De bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adviesraden zijn van toepassing op de SARO.<br /><br />
+Er wordt een strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, afgekort "SARO", opgericht als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018 .<br>
+<br>
+De SARO heeft rechtspersoonlijkheid. De bepalingen van titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 zijn van toepassing op de SARO.<br>
+&nbsp;
 
 ## HOOFDSTUK II Taakomschrijving
 
