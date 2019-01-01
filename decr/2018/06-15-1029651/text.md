@@ -900,6 +900,26 @@ In artikel 17 van hetzelfde besluit wordt in het eerste lid het punt 4° opgehev
 
 ## HOOFDSTUK 17. Wijzigingen van de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
 
+### ART 120.
+
+In de Codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt een deel X/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Deel X/1. Overgangsmaatregel bij fusie van gemeenten".
+
+### ART 121.
+
+In dezelfde codificatie, het laatst gewijzigd bij het decreet van 16 juni 2017, wordt in deel X/1, ingevoegd bij artikel 120, een artikel X.1/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. X.1/1. In dit artikel wordt verstaan onder instellingen:<br>
+1° de scholen voor gewoon en buitengewoon basisonderwijs;<br>
+2° de instellingen voor deeltijds kunstonderwijs.<br>
+<br>
+Gemeenten die fusioneren conform het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016 worden voor de toepassing van de onderwijsregelgeving gedurende een periode van zes schooljaren, die start op 1 september na de fusie, beschouwd als niet gefusioneerd voor:<br>
+1° het berekenen van de financiering en subsidiëring van de instellingen en scholengemeenschappen op hun grondgebied;<br>
+2° het behalen van de programmatie- en rationalisatienormen van de instellingen op hun grondgebied;<br>
+3° het behalen van de norm voor scholengemeenschappen basisonderwijs;<br>
+4° de regionale afbakeningen voor de onderwijszones en de LOP-gebieden.".
+
 ### ART 122.
 
 In artikel III.20, § 2, 2°, van dezelfde codificatie wordt het getal "100" vervangen door het getal "110".

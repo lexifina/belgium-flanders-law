@@ -2,16 +2,16 @@
   "codex_id": 1029651,
   "title": "Decreet van 2018-06-15 betreffende het onderwijs XXVIII",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029651/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "d38cd6e6ee43be79374a6196e563c3a8d0d57f1d6099364a06597bd2e63587d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029651/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "46c5a795ce0f9c2fd660a00f9a3bd6553e9847ad9ac5df3100ad31866129093e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029651&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-01-01",
   "made": "2018-06-15",
   "gazette": "2018-08-17",
   "numac": 2018013216,
   "document_start": "2018-09-01",
   "document_end": null,
-  "in_force": "2018-09-01",
-  "article_versions": 130,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 132,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
