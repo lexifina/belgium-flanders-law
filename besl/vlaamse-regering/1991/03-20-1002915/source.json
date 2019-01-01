@@ -2,16 +2,16 @@
   "codex_id": 1002915,
   "title": "Besluit van de Vlaamse Regering van 1991-03-20 houdende vaststelling van regelen met betrekking tot de uitvoering van werken door de N.V. Aquafin in toepassing van de [artikel 2.6.1.1.1. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002915/VolledigDocument?datum=2016-10-23",
-  "source_sha256": "ee8114c7f61728fb4c5d4cf3d655916f8a77ef4c2b1b4cdb7ef356e73b505208",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002915/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "0b7a4f005d9d998bc567a4a4e6abc97fc5c9ac65a28380c43caac3a5ad1e05c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002915&param=informatie",
-  "as_of": "2016-10-23",
+  "as_of": "2019-01-01",
   "made": "1991-03-20",
   "gazette": "1991-05-18",
   "numac": 1991035654,
   "document_start": "1991-03-20",
   "document_end": null,
-  "in_force": "2016-10-23",
+  "in_force": "2019-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2016-10-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

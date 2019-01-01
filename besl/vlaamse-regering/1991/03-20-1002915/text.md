@@ -6,7 +6,7 @@ In dit besluit wordt verstaan onder minister : de Vlaamse minister, bevoegd voor
 
 ### ART. 1/1.
 
-Voor de toepassing van de bepalingen van artikel 32octies, § 3, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, dient onder de in artikel 9 van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen bedoelde houder van een toelating en toelatingsakte verstaan, de op 25 april 1990 opgerichte N.V. Aquafin respectievelijk de op 11 januari 1991 door de partijen ondertekende overeenkomst tussen het Vlaamse Gewest en de N.V. Aquafin alsmede de in uitvoering van deze overeenkomst aan deze vennootschap opgedragen investeringsprogramma's.
+Voor de toepassing van de bepalingen van artikel 2.6.1.1.1. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, dient onder de in artikel 9 van de wet van 12 april 1965 betreffende het vervoer van gasachtige produkten en andere door middel van leidingen bedoelde houder van een toelating en toelatingsakte verstaan, de op 25 april 1990 opgerichte N.V. Aquafin respectievelijk de op 11 januari 1991 door de partijen ondertekende overeenkomst tussen het Vlaamse Gewest en de N.V. Aquafin alsmede de in uitvoering van deze overeenkomst aan deze vennootschap opgedragen investeringsprogramma's.
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ Onverminderd de wettelijke en reglementaire bepalingen van toepassing op de uit 
 
 ### ART. 3.
 
-§ 1. De aanvraag van de N.V. Aquafin hetzij om toepassing van de bepalingen van artikel 32octies, § 3, van bovenvermelde wet van 26 maart 1971, hetzij om verklaring van openbaar nut met het oog op de oprichting van rioolwaterzuiveringsinfrastructuur onder, op of boven private onbebouwde gronden die niet omsloten zijn met een muur of een omheining conform met de bouw- of stedebouwverordeningen, wordt gericht aan de minister.<br>
+§ 1. De aanvraag van de N.V. Aquafin hetzij om toepassing van de bepalingen van artikel 2.6.1.1.1. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, hetzij om verklaring van openbaar nut met het oog op de oprichting van rioolwaterzuiveringsinfrastructuur onder, op of boven private onbebouwde gronden die niet omsloten zijn met een muur of een omheining conform met de bouw- of stedebouwverordeningen, wordt gericht aan de minister.<br>
 <br>
 § 2. Opdat de in paragraaf 1 bedoelde aanvraag ontvankelijk zou zijn omvat zij de volgende inlichtingen:<br>
 1°de redenen die het gebeurlijk bezetten van het privaat domein rechtvaardigen:<br>
@@ -26,7 +26,7 @@ Onverminderd de wettelijke en reglementaire bepalingen van toepassing op de uit 
 
 ### ART. 4.
 
-§ 1. In geval toepassing wordt gemaakt van de bepalingen van artikel 32octies, § 3, van de voorvermelde wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging dienen de volgende overheden en diensten geraadpleegd over het voorgestelde tracé of vestigingsplaats van de uit te voeren rioolwaterzuiveringsinfrastructuurwerken:<br>
+§ 1. In geval toepassing wordt gemaakt van de bepalingen van artikel 2.6.1.1.1. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 dienen de volgende overheden en diensten geraadpleegd over het voorgestelde tracé of vestigingsplaats van de uit te voeren rioolwaterzuiveringsinfrastructuurwerken:<br>
 - de provincie(s) waarin de werken zijn gepland;<br>
 - de gemeente(n) waarin de werken zijn gepland.<br>
 <br>
@@ -60,7 +60,7 @@ De nv Aquafin voegt een kopie van de beslissing van de minister bij de stukken, 
 
 § 1. De eigenaar van het private erf, bezwaard met een erfdienstbaarheid gevestigd met het oog op de oprichting en de exploitatie van rioolwaterzuiveringsinfrastructuur, kan binnen een termijn van twee jaar nadat hem de verklaring van openbaar nut werd betekend met het oog op de vestiging van de erfdienstbaarheid, de minister laten weten dat hij de gerechtigde op deze erfdienstbaarheid vraagt het bezette terrein aan te kopen.<br>
 <br>
-§ 2. Indien geen minnelijke schikking kan getroffen worden voor de aankoop van het bezette terrein, zal de Vlaamse regering op verzoek van de N.V. Aquafin de verwerving en onmiddellijke inbezitneming van deze terreinen van openbaar nut verklaren overeenkomstig artikel 10, alinea 1 en artikel 14 van de wet van 12 april 1965, van toepassing krachtens artikel 32octies, § 3, van de wet van 26 maart 1971. Dit verzoek moet worden gericht aan de minister binnen een termijn van twee jaar na de datum van ontvangst door de voormelde vennootschap, van de vraag die hem werd toegestuurd door de eigenaar van het bezette erf.
+§ 2. Indien geen minnelijke schikking kan getroffen worden voor de aankoop van het bezette terrein, zal de Vlaamse regering op verzoek van de N.V. Aquafin de verwerving en onmiddellijke inbezitneming van deze terreinen van openbaar nut verklaren overeenkomstig artikel 10, alinea 1 en artikel 14 van de wet van 12 april 1965, van toepassing krachtens artikel 2.6.1.1.1. van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018. Dit verzoek moet worden gericht aan de minister binnen een termijn van twee jaar na de datum van ontvangst door de voormelde vennootschap, van de vraag die hem werd toegestuurd door de eigenaar van het bezette erf.
 
 ### ART. 6.
 
