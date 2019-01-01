@@ -2,16 +2,16 @@
   "codex_id": 1026963,
   "title": "Besluit van de Vlaamse Regering van 2016-05-13 tot vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de besturen van de eredienst",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026963/VolledigDocument?datum=2016-07-11",
-  "source_sha256": "965bc0a1916e25f5fdb04585660c6aeda2703b381831ceb7c800c48b4e24e4e0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026963/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "80e3956715895cd0462f6d1abdbf62fbef937677a16112d2b16e0ca538131717",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026963&param=informatie",
-  "as_of": "2016-07-11",
+  "as_of": "2019-01-01",
   "made": "2016-05-13",
   "gazette": "2016-07-01",
   "numac": 2016035976,
   "document_start": "2016-07-11",
   "document_end": "2023-01-31",
-  "in_force": "2016-07-11",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2016-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

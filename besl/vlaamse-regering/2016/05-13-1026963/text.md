@@ -42,7 +42,7 @@
 <span style="color: rgb(0, 0, 0);">1° het tijdstip van verzending wordt geregistreerd en kan worden geraadpleegd;</span><br>
 <span style="color: rgb(0, 0, 0);">2° de gebruiker van het elektronische systeem kan worden geauthentificeerd aan de hand van het ondernemingsnummer van het bestuur van de eredienst of het centraal bestuur of aan de hand van een ander gegeven dat het bestuur uniek identificeert en dat wordt bepaald door de minister;</span><br>
 <span style="color: rgb(0, 0, 0);">3° de stukken worden voorzien van een elektronische handtekening die voldoet aan de vereisten, vermeld in artikel 1322, tweede lid, van het Burgerlijk Wetboek;</span><br>
-<span style="color: rgb(0, 0, 0);">4° de verzonden stukken onveranderlijk zijn en minstens zo lang raadpleegbaar blijven als wordt voorgeschreven door de Archiefwet van 24 juni 1955 en het Archiefdecreet van 9 juli 2010;</span><br>
+<span style="color: rgb(0, 0, 0);">4° de verzonden stukken onveranderlijk zijn en minstens zo lang raadpleegbaar blijven als wordt voorgeschreven door de Archiefwet van 24 juni 1955 en titel III, hoofdstuk 3, afdeling 5, van het bestuursdecreet van 7 december 2018;</span><br>
 <span style="color: rgb(0, 0, 0);">5° de ontvanger een melding krijgt van de verzending van de stukken die voor hem bestemd zijn.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">De minister kan de nadere inhoud bepalen van de melding, vermeld in het eerste lid, 5°, die verstuurd wordt aan de provinciegouverneur of de minister.</span><br>
