@@ -36,7 +36,14 @@ Elke aanvraag tot erkenning of tot hernieuwing van de erkenning bevat ten minste
 
 ### ART. 8.
 
-Om erkend te worden als palliatief netwerk moet er een schriftelijke overeenkomst worden overgelegd met meerdere in de regio bestaande partners zijnde:<br /><br />1° eerstelijnshulpverleners of hun organisaties;<br /><br />2° erkende rustoorden;<br /><br />3° erkende rust- en verzorgingstehuizen;<br /><br />4° erkende ziekenhuizen, inzonderheid die met erkende dienst Sp palliatief;<br /><br />5° pluridisciplinaire organisaties voor thuiszorg;<br /><br />6° specifieke initiatieven voor palliatieve zorg;<br /><br />7° organisaties van families, thuisverzorgers en/of vrijwilligers die op palliatief vlak actief zijn.
+Om erkend te worden als palliatief netwerk moet er een schriftelijke overeenkomst worden overgelegd met meerdere in de regio bestaande partners zijnde:<br>
+1° eerstelijnshulpverleners of hun organisaties;<br>
+2° erkende woonzorgcentra zonder bijkomende erkenning;<br>
+3° erkende woonzorgcentra met een bijkomende erkenning;<br>
+4° erkende ziekenhuizen, inzonderheid die met erkende dienst Sp palliatief;<br>
+5° pluridisciplinaire organisaties voor thuiszorg;<br>
+6° specifieke initiatieven voor palliatieve zorg;<br>
+7° organisaties van families, thuisverzorgers en/of vrijwilligers die op palliatief vlak actief zijn.
 
 ### ART. 9.
 
@@ -118,7 +125,7 @@ De palliatieve deskundigen en consulenten staan zowel ter beschikking van de ext
 
 ### ART. 27.
 
-De palliatieve deskundigen, de consulenten en vrijwilligers die gesubsidieerd worden door de Vlaamse Gemeenschap zullen zoveel mogelijk de opvang en begeleiding van de palliatieve patiënten in hun thuismilieu helpen mogelijk maken en houden. Enkel als de thuiszorg niet meer mogelijk is, zal gezocht worden naar een passende opvang in een specifieke eenheid van een woonzorgcentrum, rust- en verzorgingstehuis of ziekenhuis.
+De palliatieve deskundigen, de consulenten en vrijwilligers die gesubsidieerd worden door de Vlaamse Gemeenschap zullen zoveel mogelijk de opvang en begeleiding van de palliatieve patiënten in hun thuismilieu helpen mogelijk maken en houden. Enkel als de thuiszorg niet meer mogelijk is, zal gezocht worden naar een passende opvang in een specifieke eenheid van een woonzorgcentrum, met of zonder bijkomende erkenning of ziekenhuis.
 
 ### ART. 28.
 
