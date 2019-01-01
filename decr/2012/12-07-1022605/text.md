@@ -34,7 +34,17 @@ Een Vlaams ouderenbeleid moet de voorwaarden creëren om : <BR>1° de   toegang 
 
 ### ART. 7.
 
-<P>§ 1. De Vlaamse ouderenraad heeft als algemene opdracht, hetzij op eigen   initiatief, hetzij op verzoek van de Vlaamse Regering, van het Vlaams Parlement   of van een strategische adviesraad, advies uit te brengen over alle   aangelegenheden die ouderen aangaan. Daartoe volgt de raad de ontwikkelingen in   het ouderenbeleid op en heeft hij oog voor de behoeften en de participatie van   ouderen. De Vlaamse Regering kan bijkomende opdrachten toevertrouwen aan de   Vlaamse ouderenraad.<BR></P>  <P>In het eerste lid wordt onder strategische adviesraad verstaan : een orgaan   zoals vermeld onder artikel 2, 1°, van het decreet van 18 juli 2003 tot regeling   van strategische adviesraden.<BR></P>  <P>§ 2. De Vlaamse Regering erkent een vereniging zonder winstoogmerk als   Vlaamse ouderenraad voor maximaal vijf jaar. De Vlaamse Regering bepaalt de   regels voor het verlenen en intrekken van de erkenning, alsook de   erkenningsvoorwaarden die minstens betrekking hebben op : <BR>1° de   pluralistische en representatieve samenstelling van de vereniging;<BR>2° de   ervaring met de actoren en de betrokkenheid van de actoren bij de werking van de   vereniging;<BR>3° de bekendheid en de mogelijkheid tot deelname aan de   activiteiten van de vereniging;<BR>4° de opdrachten, vermeld in paragraaf 1,   eerste lid, en de wijze waarop ze worden uitgevoerd.<BR></P>  <P>§ 3. De leden van de Vlaamse Regering winnen het advies van de Vlaamse   ouderenraad in over alle ontwerpen van beslissingen die van strategisch belang   zijn voor ouderen.<BR></P>
+<p>§ 1. De Vlaamse ouderenraad heeft als algemene opdracht, hetzij op eigen initiatief, hetzij op verzoek van de Vlaamse Regering, van het Vlaams Parlement of van een strategische adviesraad, advies uit te brengen over alle aangelegenheden die ouderen aangaan. Daartoe volgt de raad de ontwikkelingen in het ouderenbeleid op en heeft hij oog voor de behoeften en de participatie van ouderen. De Vlaamse Regering kan bijkomende opdrachten toevertrouwen aan de Vlaamse ouderenraad.</p>
+
+<p>In het eerste lid wordt onder strategische adviesraad verstaan : een orgaan zoals vermeld onder artikel III.93, eerste lid, van het Bestuursdecreet van 7 december 2018.</p>
+
+<p>§ 2. De Vlaamse Regering erkent een vereniging zonder winstoogmerk als Vlaamse ouderenraad voor maximaal vijf jaar. De Vlaamse Regering bepaalt de regels voor het verlenen en intrekken van de erkenning, alsook de erkenningsvoorwaarden die minstens betrekking hebben op :<br>
+1° de pluralistische en representatieve samenstelling van de vereniging;<br>
+2° de ervaring met de actoren en de betrokkenheid van de actoren bij de werking van de vereniging;<br>
+3° de bekendheid en de mogelijkheid tot deelname aan de activiteiten van de vereniging;<br>
+4° de opdrachten, vermeld in paragraaf 1, eerste lid, en de wijze waarop ze worden uitgevoerd.</p>
+
+<p>§ 3. De leden van de Vlaamse Regering winnen het advies van de Vlaamse ouderenraad in over alle ontwerpen van beslissingen die van strategisch belang zijn voor ouderen.</p>
 
 ### ART. 8.
 
