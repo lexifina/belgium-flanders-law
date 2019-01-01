@@ -2,16 +2,16 @@
   "codex_id": 1028180,
   "title": "Decreet van 2017-02-24 betreffende onteigening voor het algemeen nut (citeeropschrift: \"het Vlaams Onteigeningsdecreet van 24 februari 2017\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028180/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "a50b868b2a74c6305725bedbcaee598d7fce79efaf8f6e5c9b6e1e7cfce43b61",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028180/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "62ffee0b9b3a02a64aaefab13e369cfb3b901573ba8f73355071dd2668204b47",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028180&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-01-01",
   "made": "2017-02-24",
   "gazette": "2017-04-25",
   "numac": 2017040219,
   "document_start": "2018-01-01",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 125,
-  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

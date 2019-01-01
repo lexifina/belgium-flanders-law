@@ -55,11 +55,11 @@ Een aandeel in een onverdeelde eigendom of een ander zakelijk recht kan niet afz
 
 De volgende instanties zijn bevoegd om tot onteigening over te gaan:<br>
 1° de Vlaamse Regering, het College van de Vlaamse Gemeenschapscommissie, de gemeenten en de provincies;<br>
-2° elk verzelfstandigd agentschap met rechtspersoonlijkheid, zoals bedoeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+2° elk verzelfstandigd agentschap met rechtspersoonlijkheid, zoals bedoeld in het Bestuursdecreet van 7 december 2018;<br>
 3° de volgende rechtspersonen:<br>
 a) de polderbesturen en wateringen, vermeld in de wet van 3 juni 1957 betreffende de polders en de wet van 5 juli 1956 betreffende de wateringen;<br>
 b) de ruilverkavelingscomités, vermeld in de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet;<br>
-c) de nv Aquafin en de waterzuiveringsmaatschappijen, vermeld in de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
+c) de Vennootschap vermeld in artikel 2.6.1.1.1. § 1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 d) de ruilcomités, vermeld in de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
 e) de Maatschappij Linkerscheldeoever, vermeld in de wet van 19 juni 1978 betreffende het beheer van het Linkerscheldeoevergebied ter hoogte van Antwerpen en houdende maatregelen voor het beheer en de exploitatie voor de haven van Antwerpen;<br>
 f) de Vlaamse Maatschappij voor Watervoorziening, vermeld in het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening;<br>
@@ -68,7 +68,7 @@ h) de Universiteit Antwerpen, vermeld in het decreet van 22 december 1995 houden
 i) de sociale huisvestingsmaatschappijen, vermeld in het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 j) de nv Mijnschade en Bemaling Limburgs Mijngebied, vermeld in het decreet van 19 december 1997 houdende oprichting van de naamloze vennootschap Mijnschade en Bemaling Limburgs Mijngebied;<br>
 k) het Gemeenschapsonderwijs, vermeld in het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
-l) de exploitanten van een openbaar waterdistributienetwerk, vermeld in het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
+l) de exploitanten van een openbaar waterdistributienetwerk, vermeld in het decreet van van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 m) de havenbedrijven, vermeld in het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens;<br>
 n) de NV Beheersmaatschappij Antwerpen Mobiel, vermeld in het decreet van 13 december 2002 houdende de oprichting van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel (BAM);<br>
 o) de NV LOM Oostende-Brugge, de NV LOM Kortrijk-Wevelgem en de NV LOM Antwerpen, vermeld in het decreet van 10 juli 2008 betreffende het beheer en de uitbating van de regionale luchthavens Oostende-Brugge, Kortrijk-Wevelgem en Antwerpen;<br>
