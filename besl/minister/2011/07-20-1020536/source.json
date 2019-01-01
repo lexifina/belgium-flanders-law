@@ -2,16 +2,16 @@
   "codex_id": 1020536,
   "title": "Ministerieel besluit van 2011-07-20 tot bepaling van de standaard voor de titel van bakker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020536/VolledigDocument?datum=2011-07-06",
-  "source_sha256": "468b1b490bcb1b2cf1e82a8ae5c68538bf709b7b83aa2dd0e05ef941605fefb2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020536/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "11e01e885ac413f32f03832ca2a5cdc0d4e945ea87bdbc4463e9374e3b935a45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020536&param=informatie",
-  "as_of": "2011-07-06",
+  "as_of": "2019-01-01",
   "made": "2011-07-20",
   "gazette": "2011-08-17",
   "numac": 2011204029,
   "document_start": "2011-07-06",
   "document_end": "2018-12-31",
-  "in_force": "2011-07-06",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
