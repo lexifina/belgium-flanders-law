@@ -2,16 +2,16 @@
   "codex_id": 1024809,
   "title": "Ministerieel besluit van 2014-11-17 betreffende de opleiding tot verslaggever en de opleidingsinstellingen bedoeld in [artikel 8.6.1 en 8.6.3] van het Energiebesluit van 19 november 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024809/VolledigDocument?datum=2018-02-24",
-  "source_sha256": "2382f7735c347866f1069fa01c5e4fbc271819a7944303e1693750d500d7e114",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024809/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "22da6b67f2b1694f6c18c91bb92a12f8d1acb783c890f016cb30251d0f1f69a3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024809&param=informatie",
-  "as_of": "2018-02-24",
+  "as_of": "2019-01-01",
   "made": "2014-11-17",
   "gazette": "2014-12-18",
   "numac": 2014036901,
   "document_start": "2014-12-18",
   "document_end": "2018-12-31",
-  "in_force": "2018-02-24",
+  "in_force": "2019-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2018-02-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
