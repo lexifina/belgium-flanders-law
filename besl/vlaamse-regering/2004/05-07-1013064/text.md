@@ -26,7 +26,7 @@ f) de taken van de openbare psychiatrische zorgcentra Geel en Rekem, vermeld in 
 2° de taken van beleid met betrekking tot de persoonsgebonden aangelegenheden op het vlak van de bijstand aan personen, vermeld in artikel 5, § 1, II, 5°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 3° in het kader van de volksgezondheid het uitvoeren van inspecties, de advisering over milieuvergunningen en het behandelen van klachten en incidenten;<br>
 4° het beheren van het Agentschap voor Vlaamse Sociale Bescherming;<br>
-5° het ter beschikking stellen van personeel aan de vzw Vlaamse Zorgkas, vermeld in artikel 18, § 1, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
+5° het ter beschikking stellen van personeel aan de vzw Vlaamse Zorgkas, vermeld in artikel 21, § 1, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.
 
@@ -40,11 +40,26 @@ Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de r
 
 ### ART. 6.
 
-Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen moet het agentschap klachten, geuit ten aanzien van de door hem erkende voorzieningen, opnemen en behandelen.
+Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening , vermeld in titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018, moet het agentschap klachten, geuit ten aanzien van de door hem erkende voorzieningen, opnemen en behandelen.
 
 ### ART. 7.
 
-Het agentschap vervult zijn taken ten aanzien van de doelgroep in samenhang met:<br /><br />1° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn en gezondheid;<br /><br />2° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid.<br /><br />Het agentschap ontwikkelt terreinexpertise m.b.t. de taken vermeld in het artikel 3.<br /><br />Het agentschap stelt de door hem verworven kennis en expertise ter beschikking van de beleidsondersteuning als bedoeld in artikel 4, § 1, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br /><br />Het agentschap zorgt voor de permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen inzake kennis en expertise.<br /><br />Het agentschap registreert en verwerkt alle gegevens die noodzakelijk zijn om:<br /><br />1° de taken, bedoeld in artikel 3 uit te voeren;<br /><br />2° de beleidsgerichte input als bedoeld in artikel 4, § 3, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 te leveren;<br /><br />3° de opdrachten te verwezenlijken die hem overeenkomstig de regelgeving inzake de openbare statistiek zijn toevertrouwd.<br /><br />De Vlaamse minister, [bevoegd voor Welzijn, Volksgezondheid en Gezin  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006)</span> ], in dit besluit de minister te noemen, bepaalt de nadere regels met betrekking tot de gegevensregistratie en -verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van de persoonsgegevens.
+Het agentschap vervult zijn taken ten aanzien van de doelgroep in samenhang met:<br>
+1° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn en gezondheid;<br>
+2° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid.<br>
+<br>
+Het agentschap ontwikkelt terreinexpertise m.b.t. de taken vermeld in het artikel 3.<br>
+<br>
+Het agentschap stelt de door hem verworven kennis en expertise ter beschikking van de beleidsondersteuning, vermeld in artikel III.2, derde lid, van het bestuursdecreet van 7 december 2018.<br>
+<br>
+Het agentschap zorgt voor de permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
+<br>
+Het agentschap registreert en verwerkt alle gegevens die noodzakelijk zijn om:<br>
+1° de taken, bedoeld in artikel 3 uit te voeren;<br>
+2° de beleidsgerichte input, vermeld in artikel III.2, derde lid, van het bestuursdecreet van 7 december 2018 te leveren;<br>
+3° de opdrachten te verwezenlijken die hem overeenkomstig de regelgeving inzake de openbare statistiek zijn toevertrouwd.<br>
+<br>
+De Vlaamse minister, [bevoegd voor Welzijn, Volksgezondheid en Gezin (verv. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006) ], in dit besluit de minister te noemen, bepaalt de nadere regels met betrekking tot de gegevensregistratie en -verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van de persoonsgegevens.
 
 ### ART. 8.
 
@@ -101,7 +116,7 @@ Daarnaast geldt inzake het gebruik van de delegaties nog dat voor de delegatie i
 
 ### ART. 16.
 
-Onverminderd artikel 5/1, 33 en 34 van het Kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Onverminderd artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018 met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 17.
 
