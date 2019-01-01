@@ -58,7 +58,7 @@ Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de 
 
 ### ART. 12.
 
-Met behoud van de toepassing van artikel 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.<br /><br />
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.
 
 ### ART. 13.
 
