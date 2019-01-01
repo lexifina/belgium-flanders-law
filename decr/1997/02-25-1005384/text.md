@@ -637,9 +637,13 @@ Tegen deze beslissing is beroep mogelijk zoals voorzien in artikel 37/4.
 
 ### ART. 34.
 
-<p>§ 1. Leerlingen die vijf jaar of ouder geworden zijn vóór 1 januari van het lopende schooljaar voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school, hebben, onder de voorwaarden door de regering bepaald, recht op tijdelijk onderwijs aan huis, synchroon internetonderwijs of een combinatie van beiden.<br>
+<p>§ 1. Leerlingen voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school, hebben, onder de voorwaarden door de regering bepaald, recht op tijdelijk onderwijs aan huis.<br>
 <br>
-§ 2. Bij langdurige afwezigheid wegens ziekte of ongeval van een regelmatig ingeschreven leerplichtige leerling is het schoolbestuur verplicht om de ouders te informeren over het recht op, de mogelijkheden van en de modaliteiten van het tijdelijk onderwijs aan huis en van synchroon internetonderwijs.<br>
+Leerlingen die vijf jaar of ouder geworden zijn vóór 1 januari van het lopende schooljaar voor wie het door ziekte of ongeval tijdelijk onmogelijk is om onderwijs te volgen in hun school, hebben, onder de voorwaarden door de regering bepaald, recht op synchroon internetonderwijs.<br>
+<br>
+Het recht op tijdelijk onderwijs aan huis en het recht op synchroon internetonderwijs kan gecombineerd worden.<br>
+<br>
+§ 2. Het schoolbestuur is verplicht om de ouders van leerlingen die ervoor in aanmerking komen te informeren over het recht op, de mogelijkheden van en de modaliteiten van het tijdelijk onderwijs aan huis en van synchroon internetonderwijs..<br>
 <br>
 § 3. De uitdrukkelijke vraag van de ouders voor een leerling als vermeld in paragraaf 1, verplicht het schoolbestuur er toe om tijdelijk onderwijs aan huis of synchroon internetonderwijs te organiseren.<br>
 <br>
@@ -1137,13 +1141,53 @@ Aan de ouders wordt tevens meegedeeld welke plaats bij de niet-toegewezen leerli
 
 ### ART. 37vicies quinquies.
 
-§ 1. Uiterlijk op 15 september van het schooljaar voorafgaand aan het   schooljaar waarvoor de inschrijvingen gelden, legt een schoolbestuur, meerdere   schoolbesturen samen of het LOP een voorstel van aanmeldingsprocedure voor aan   de CLR.<BR><BR>In afwijking van het eerste lid legt voor het buitengewoon   onderwijs een schoolbestuur, meerdere schoolbesturen samen of het LOP dat wenst   aan te melden voor type 9 voor de inschrijvingen voor het schooljaar 2015-2016,   het aanmeldingsdossier uiterlijk op 16 februari 2015 voor aan de CLR.<BR><BR>§   2. Het dossier daartoe bevat minstens de volgende onderdelen : <BR>1° de start   en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering   ervan, overeenkomstig artikel 37undevicies;<BR>2° het middel of de middelen tot   aanmelden;<BR>3° de wijze waarop scholen hun capaciteit, het aantal plaatsen   waarin een inschrijving gerealiseerd kan worden hun aanmeldingsmiddelen, de   aanmeldingsperiode of alle deelperiodes en inschrijvingsperiodes   bekendmaken;<BR>4° de manier waarop de mogelijkheid om een leerling in één   aanmeldingsdossier voor verschillende scholen of vestigingsplaatsen tegelijk aan   te melden, indien de aanmeldingsprocedure geldt voor meerdere scholen en   vestigingsplaatsen, wordt geoperationaliseerd, waarbij tegelijkertijd vermeden   wordt dat voor eenzelfde leerling meerdere aanmeldingsdossiers aangelegd kunnen   worden binnen het eigen aanmeldingssysteem;<BR>5° een regeling waarbij de   aanmeldingen van leerlingen die behoren tot dezelfde leefentiteit, als vermeld   in artikel 37quater, aan elkaar gekoppeld kunnen worden, of een motivering om   deze regeling niet te voorzien;<BR>6° de regeling om bij verschillende scholen   of vestigingsplaatsen een duidelijke voorkeurorde op te geven;<BR>7° een   regeling voor de communicatie aan de ouders, als vermeld in artikel 37vicies   quater;<BR>8° een regeling over het bijhouden van het aanmeldingsregister per   school of vestigingsplaats en de overdracht van de informatie over de aangemelde   leerlingen aan het schoolbestuur;<BR>9° de verdere concretisering van de   ordeningscriteria. Dit bestaat uit : <BR>a) het bepalen van de wijze waarop de   noties afstand, in afwijking van artikel 3, 4°, en werkadres, bedoeld in artikel   37vicies bis, § 1, 3°, en artikel 37vicies ter, § 1, 4°, gehanteerd   worden;<BR>b) de hantering van de plaats van de school of vestigingsplaats   binnen de rangorde in keuze, bedoeld in artikel 37vicies bis, § 1, 3°, en   artikel 37vicies ter, § 1, 4°, gemaakt door de ouders bij de ordening en de   toewijzing, als vermeld in artikel 37vicies quater;<BR>c) de hantering van   toeval, bedoeld in artikel 37vicies bis, § 1, 3°, en artikel 37vicies ter, § 1,   4°;<BR>d) het bepalen van de verhouding en de volgorde tussen de verschillende   gekozen ordeningscriteria, en de ordeningscriteria, in toepassing van artikel   37vicies quater, § 2, derde lid, die gehanteerd worden bij de rangschikking van   de niet-toegewezen leerlingen;<BR>e) het maken van afspraken rond het bepalen   van de evenredige verdeling, als vermeld in artikel 37septies, van de scholen en   vestigingsplaatsen, met onder meer het bepalen van de geografische omschrijving   waarbinnen de toetsing zal gebeuren en de elementen die in overweging worden   genomen bij de berekening van de contingenten;<BR>f) het bepalen van de mate   waarin scholen de vrijheid hebben om hun instroom met het oog op de evenredige   verdeling, als vermeld in artikel 37septies, te sturen;<BR>g) de gemotiveerde   afwijking, vermeld in artikel 37vicies bis, § 1, derde lid, en artikel 37vicies   ter, § 1, derde lid;<BR>10° beslissingen aangaande de uitvoeringsmodaliteiten :   <BR>a) de wijze waarop ouders en scholen bij de aanmeldingsprocedure ondersteund   zullen worden en wie daarbij betrokken zal zijn;<BR>b) de wijze waarop zal   omgegaan worden met de behandeling van disfuncties en eerstelijnsklachten over   het verloop van de aanmeldingsprocedure;<BR>c) de wijze waarop enerzijds de   werving, de toeleiding en de ondersteuning van ouders en anderzijds de   ondersteuning van scholen zal gebeuren met het oog op de evenredige verdeling,   als vermeld in artikel 37septies;<BR>d) de wijze waarop de aanmeldingsprocedure   gemonitord en geëvalueerd zal worden;<BR>11° de wijze waarop over de   aanmeldingsprocedure en alle genomen beslissingen daarin gecommuniceerd wordt   aan alle belanghebbenden.<BR>12° het al dan niet door de schoolbesturen   mandateren aan het LOP, of buiten het werkingsgebied van een LOP aan het daartoe   aangeduide schoolbestuur, van:<BR>a) de rangschikking van de aangemelde   leerlingen;<BR>b) het uitreiken van de melding van de definitieve toewijzing of   van de melding over het niet kunnen toewijzen van de leerling aan een door de   ouders gekozen school of vestigingsplaats;<BR>c) de mededeling van de   niet-gerealiseerde inschrijvingen.<BR><BR>§ 3. De CLR toetst het voorstel van   aanmeldingsprocedure aan de bepalingen inzake het recht op inschrijving en de   aanmeldingsprocedures, vermeld in afdelingen 3 en 4, en de volgende   uitgangspunten : <BR>1° het realiseren van optimale leer- en ontwikkelingskansen   voor alle leerlingen en dit, voor zover mogelijk, in een school in hun   buurt;<BR>2° het vermijden van uitsluiting, segregatie en discriminatie;<BR>3°   het bevorderen van sociale mix en cohesie;<BR>4° voor het tweetalige gebied   Brussel-Hoofdstad daarnaast ook de bescherming van de gelijke onderwijs- en   inschrijvingskansen van Nederlandstaligen en het behoud van het Nederlandstalige   karakter van het door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd   onderwijs.<BR><BR>§ 4. De CLR neemt over het voorstel van aanmeldingsprocedure   een besluit uiterlijk twee maanden na de indiening. Enkel indien de einddatum   van deze periode van twee maanden valt in de periode tussen 15 juli en 15   augustus, valt de beslissing uiterlijk in de week volgend op 16   augustus.
+§ 1. Uiterlijk op 15 september van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijvingen gelden, legt een schoolbestuur, meerdere schoolbesturen samen of het LOP een voorstel van aanmeldingsprocedure voor aan de CLR.<br>
+<br>
+In afwijking van het eerste lid, kan een schoolbestuur, meerdere schoolbesturen samen of het LOP uiterlijk op 31 januari 2019 een voorstel van aanmeldingsprocedure voor de inschrijvingen voor schooljaar 2019-2020 voorleggen aan de CLR.<br>
+<br>
+§ 2. Het dossier daartoe bevat minstens de volgende onderdelen :<br>
+1° de start en de duur van de aanmeldingsperiode of alle deelperiodes en de motivering ervan, overeenkomstig artikel 37undevicies;<br>
+2° het middel of de middelen tot aanmelden;<br>
+3° de wijze waarop scholen hun capaciteit, het aantal plaatsen waarin een inschrijving gerealiseerd kan worden hun aanmeldingsmiddelen, de aanmeldingsperiode of alle deelperiodes en inschrijvingsperiodes bekendmaken;<br>
+4° de manier waarop de mogelijkheid om een leerling in één aanmeldingsdossier voor verschillende scholen of vestigingsplaatsen tegelijk aan te melden, indien de aanmeldingsprocedure geldt voor meerdere scholen en vestigingsplaatsen, wordt geoperationaliseerd, waarbij tegelijkertijd vermeden wordt dat voor eenzelfde leerling meerdere aanmeldingsdossiers aangelegd kunnen worden binnen het eigen aanmeldingssysteem;<br>
+5° een regeling waarbij de aanmeldingen van leerlingen die behoren tot dezelfde leefentiteit, als vermeld in artikel 37quater, aan elkaar gekoppeld kunnen worden, of een motivering om deze regeling niet te voorzien;<br>
+6° de regeling om bij verschillende scholen of vestigingsplaatsen een duidelijke voorkeurorde op te geven;<br>
+7° een regeling voor de communicatie aan de ouders, als vermeld in artikel 37vicies quater;<br>
+8° een regeling over het bijhouden van het aanmeldingsregister per school of vestigingsplaats en de overdracht van de informatie over de aangemelde leerlingen aan het schoolbestuur;<br>
+9° de verdere concretisering van de ordeningscriteria. Dit bestaat uit :<br>
+a) het bepalen van de wijze waarop de noties afstand, in afwijking van artikel 3, 4°, en werkadres, bedoeld in artikel 37vicies bis, § 1, 3°, en artikel 37vicies ter, § 1, 4°, gehanteerd worden;<br>
+b) de hantering van de plaats van de school of vestigingsplaats binnen de rangorde in keuze, bedoeld in artikel 37vicies bis, § 1, 3°, en artikel 37vicies ter, § 1, 4°, gemaakt door de ouders bij de ordening en de toewijzing, als vermeld in artikel 37vicies quater;<br>
+c) de hantering van toeval, bedoeld in artikel 37vicies bis, § 1, 3°, en artikel 37vicies ter, § 1, 4°;<br>
+d) het bepalen van de verhouding en de volgorde tussen de verschillende gekozen ordeningscriteria, en de ordeningscriteria, in toepassing van artikel 37vicies quater, § 2, derde lid, die gehanteerd worden bij de rangschikking van de niet-toegewezen leerlingen;<br>
+e) het maken van afspraken rond het bepalen van de evenredige verdeling, als vermeld in artikel 37septies, van de scholen en vestigingsplaatsen, met onder meer het bepalen van de geografische omschrijving waarbinnen de toetsing zal gebeuren en de elementen die in overweging worden genomen bij de berekening van de contingenten;<br>
+f) het bepalen van de mate waarin scholen de vrijheid hebben om hun instroom met het oog op de evenredige verdeling, als vermeld in artikel 37septies, te sturen;<br>
+g) de gemotiveerde afwijking, vermeld in artikel 37vicies bis, § 1, derde lid, en artikel 37vicies ter, § 1, derde lid;<br>
+10° beslissingen aangaande de uitvoeringsmodaliteiten :<br>
+a) de wijze waarop ouders en scholen bij de aanmeldingsprocedure ondersteund zullen worden en wie daarbij betrokken zal zijn;<br>
+b) de wijze waarop zal omgegaan worden met de behandeling van disfuncties en eerstelijnsklachten over het verloop van de aanmeldingsprocedure;<br>
+c) de wijze waarop enerzijds de werving, de toeleiding en de ondersteuning van ouders en anderzijds de ondersteuning van scholen zal gebeuren met het oog op de evenredige verdeling, als vermeld in artikel 37septies;<br>
+d) de wijze waarop de aanmeldingsprocedure gemonitord en geëvalueerd zal worden;<br>
+11° de wijze waarop over de aanmeldingsprocedure en alle genomen beslissingen daarin gecommuniceerd wordt aan alle belanghebbenden.<br>
+12° het al dan niet door de schoolbesturen mandateren aan het LOP, of buiten het werkingsgebied van een LOP aan het daartoe aangeduide schoolbestuur, van:<br>
+a) de rangschikking van de aangemelde leerlingen;<br>
+b) het uitreiken van de melding van de definitieve toewijzing of van de melding over het niet kunnen toewijzen van de leerling aan een door de ouders gekozen school of vestigingsplaats;<br>
+c) de mededeling van de niet-gerealiseerde inschrijvingen.<br>
+<br>
+§ 3. De CLR toetst het voorstel van aanmeldingsprocedure aan de bepalingen inzake het recht op inschrijving en de aanmeldingsprocedures, vermeld in afdelingen 3 en 4, en de volgende uitgangspunten :<br>
+1° het realiseren van optimale leer- en ontwikkelingskansen voor alle leerlingen en dit, voor zover mogelijk, in een school in hun buurt;<br>
+2° het vermijden van uitsluiting, segregatie en discriminatie;<br>
+3° het bevorderen van sociale mix en cohesie;<br>
+4° voor het tweetalige gebied Brussel-Hoofdstad daarnaast ook de bescherming van de gelijke onderwijs- en inschrijvingskansen van Nederlandstaligen en het behoud van het Nederlandstalige karakter van het door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd onderwijs.<br>
+<br>
+§ 4. De CLR neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk twee maanden na de indiening. Enkel indien de einddatum van deze periode van twee maanden valt in de periode tussen 15 juli en 15 augustus, valt de beslissing uiterlijk in de week volgend op 16 augustus.
 
 ### ART. 37vicies sexies.
 
 § 1. Bij een negatief besluit van de CLR over het voorstel van aanmeldingsprocedure kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk op 30 november van het schooljaar voorafgaand aan het schooljaar waarvoor de inschrijvingen gelden, een van volgende initiatieven nemen :<br>
 1° een aangepast voorstel van aanmeldingsprocedure indienen bij de CLR. In dat geval toetst de CLR het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De CLR neemt over het aangepaste voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan;<br>
 2° het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3. De Vlaamse Regering neemt over het voorstel van aanmeldingsprocedure een besluit uiterlijk dertig kalenderdagen volgend op de dag van de indiening ervan. De Vlaamse Regering bepaalt de nadere regelen inzake het verloop van de procedure.<br>
+<br>
+In afwijking van het eerste lid, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP, uiterlijk op 15 februari 2019 de initiatieven nemen zoals bepaald in het eerste lid, 1° en 2°.<br>
 <br>
 § 2. Bij een negatief besluit, van de CLR over het, overeenkomstig paragraaf 1, 1°, voorgelegde aangepast voorstel van aanmeldingsprocedure, kan het betrokken schoolbestuur, de meerdere betrokken schoolbesturen samen of het betrokken LOP uiterlijk dertig kalenderdagen na ontvangst van het negatief besluit het aangepast voorstel van aanmeldingsprocedure of het voorstel van aanmeldingsprocedure, vermeld in artikel 37vicies quinquies, voorleggen aan de Vlaamse Regering. In dat geval toetst de Vlaamse Regering het voorstel overeenkomstig artikel 37vicies quinquies, § 3.<br>
 <br>
@@ -1277,7 +1321,7 @@ De ontwikkelingsdoelen en eindtermen worden door de regering als een ontwerp van
 <br>
 De ontwikkelingsdoelen en eindtermen worden periodiek gescreend op hun actualiteitswaarde en worden zo nodig bijgestuurd. De regering bepaalt de procedure voor deze screening en bijsturing.<br>
 <br>
-§ 4. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel blijven de bestaande ontwikkelingsdoelen en eindtermen van toepassing.<br>
+§ 4. In afwachting van ontwikkelingsdoelen en eindtermen tot stand gekomen in uitvoering van de bepalingen van dit artikel blijven de bestaande ontwikkelingsdoelen en eindtermen van toepassing. In afwijking van paragraaf 3 en 5 kan de regering de bestaande ontwikkelingsdoelen voor het buitengewoon basisonderwijs herordenen en technisch aanpassen.<br>
 <br>
 Bij de ontwikkeling en de implementatie van de ontwikkelingsdoelen en eindtermen wordt rekening gehouden met de coherentie en continuïteit over het kleuter- en lager onderwijs heen en de aansluiting op de eindtermen en ontwikkelingsdoelen van het secundair onderwijs, zonder de eigenheid van het basisonderwijs uit het oog te verliezen.<br>
 <br>
@@ -1982,7 +2026,23 @@ b) punten 0 = de som van het totale aantal punten voor schoolkenmerk 1 en 2, ber
 a) Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
 b) Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
 <br>
-De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
+De A2-coëfficiënt wordt voor 100 % in rekening gebracht.<br>
+<br>
+§ 3. Voor het begrotingsjaar 2019 wordt een extra werkingsbudget van 10.000.000 euro toegekend aan de scholen van het gewoon en buitengewoon basisonderwijs, voor het schooljaar 2018-2019. Deze middelen kunnen ook aangewend worden tijdens het schooljaar 2019-2020.<br>
+<br>
+Het extra werkingsbudget per school is het resultaat van de vermenigvuldiging van het aantal kleuters in de school op 1 februari 2018, met de G_Kl, waarbij:<br>
+<br>
+G_Kl = het extra werkingsbudget vermeld in het eerste lid, gedeeld door het totaal aantal kleuters in het gewoon en buitengewoon basisonderwijs op 1 februari 2018.<br>
+<br>
+Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 maart 2019.";<br>
+<br>
+§ 4. Voor het begrotingsjaar 2019 wordt een extra werkingsbudget van 397.607 euro toegekend aan het gewoon en buitengewoon basisonderwijs, voor het schooljaar 2018-2019. Deze middelen kunnen ook aangewend worden tijdens het schooljaar 2019-2020.<br>
+<br>
+Het extra werkingsbudget per school is het resultaat van de vermenigvuldiging van het aantal kleuters in de school op 1 februari 2018, met de G_Kl, waarbij:<br>
+<br>
+G_Kl = het extra werkingsbudget, vermeld in het eerste lid, gedeeld door het totaal aantal kleuters in het gewoon en buitengewoon basisonderwijs op 1 februari 2018.<br>
+<br>
+Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 maart 2019.
 
 ## [6° EXTRA WERKINGSBUDGET VOOR BELEIDSONDERSTEUNING (ing. Decr. 25 februari 2022, art. 2, I: 1 september 2021)]
 
@@ -3040,11 +3100,27 @@ De regering bepaalt de wijze van verdeling van de in artikel 166 bedoelde person
 
 ### ART. 168.
 
-<P>Eén vereniging zonder winstoogmerk ontvangt de subsidie, vermeld in artikel   169, vanaf de data, vermeld in artikel 169, en één voltijds verlof wegens   bijzondere opdracht als ze voldoet aan de volgende voorwaarden:<BR>1° ze stelt   zich tot doel de participatie van de kleuters van de kermisexploitanten en ze   organiseert een rijdende kleuterschool Vlaanderen ter bevordering daarvan. De   rijdende kleuterschool Vlaanderen zal de toer van de foren volgen;<BR>2° ze   leeft de erkenningsvoorwaarden na, vermeld in artikel 62, § 1, 2°, 5°, 6°, 7° en   11° ;<BR>3° ze voorziet in onderwijsaanbod dat ten minste de leergebieden,   vermeld in artikel 39, omvat. De geformuleerde ontwikkelingsdoelen voor die   leergebieden, vermeld in artikel 44, § 1, worden nagestreefd;<BR>4° ze houdt   zich aan de bepalingen, vermeld in artikel 27 en 27bis;<BR>5° ze aanvaardt   alleen kleuters die zijn ingeschreven in een erkende school;<BR>6° ze bezorgt   jaarlijks uiterlijk op 15 september een financieel verslag over het afgelopen   schooljaar;<BR>7° ze toont de betrokkenheid met en de kennis van de doelgroep   aan;<BR>8° ze toont aan dat ze voldoende ervaring heeft met het organiseren van   een rijdende kleuterschool.</P>
+<p>Eén vereniging zonder winstoogmerk ontvangt de subsidie, vermeld in artikel 169, vanaf de data, vermeld in artikel 169, en één voltijds verlof wegens bijzondere opdracht als ze voldoet aan de volgende voorwaarden:<br>
+1° ze stelt zich tot doel de participatie van de kleuters van de kermisexploitanten en ze organiseert een rijdende kleuterschool Vlaanderen ter bevordering daarvan. De rijdende kleuterschool Vlaanderen zal de toer van de foren volgen;<br>
+2° ze leeft de erkenningsvoorwaarden na, vermeld in artikel 62, § 1, 2°, 5°, 6°, 7° en 11° ;<br>
+3° ze voorziet in onderwijsaanbod dat ten minste de leergebieden, vermeld in artikel 39, omvat. De geformuleerde ontwikkelingsdoelen voor die leergebieden, vermeld in artikel 44, § 1, worden nagestreefd;<br>
+4° ze houdt zich aan de bepalingen, vermeld in artikel 27 en 27bis;<br>
+5° ze aanvaardt alleen kleuters die zijn ingeschreven in een erkende school;<br>
+6° ze bezorgt jaarlijks een verslag over de afgelopen subsidieperiode;<br>
+7° ze toont de betrokkenheid met en de kennis van de doelgroep aan;<br>
+8° ze toont aan dat ze voldoende ervaring heeft met het organiseren van een rijdende kleuterschool.</p>
 
 ### ART. 169.
 
-<P>§ 1. Vanaf het schooljaar 2015-2016 wordt aan de vzw een subsidie toegekend   van maximaal 28.000 euro voor het project de rijdende kleuterschool   Vlaanderen.<BR><BR>§ 2. De subsidie, vermeld in paragraaf 1, wordt als volgt   uitbetaald:<BR>1° een eerste schijf van 80% uiterlijk één maand na de   ondertekening van het subsidiebesluit;<BR>2° een saldo van 20% nadat het   financieel verslag, vermeld in artikel 168, goedgekeurd is.<BR><BR>§ 3. Vanaf   het begrotingsjaar 2016 wordt de subsidie die aan de vzw toegekend wordt,   jaarlijks geïndexeerd tegen 75% van het prijsindexcijfer dat berekend wordt voor   de toepassing van het koninklijk besluit van 24 december 1993 ter uitvoering van   de wet van 6 januari 1989 tot vrijwaring van 's lands   concurrentievermogen.<BR><BR>§ 4. Vanaf het schooljaar 2015-2016 wordt aan de   vzw ook een verlof wegens bijzondere opdracht voor één kleuteronderwijzer   toegekend.<BR><BR>§ 5. De regering bepaalt de verdere procedure voor de aanvraag   en de toekenning van de subsidie, vermeld in paragraaf 1, en het verlof wegens   bijzondere opdracht, vermeld in paragraaf 4. De toekenning van de subsidie en   het verlof wegens bijzondere opdracht gebeuren telkens voor een periode van vijf   schooljaren.</P>
+<p>§ 1. Vanaf het schooljaar 2015-2016 wordt aan de vzw een subsidie toegekend van maximaal 28.000 euro per 12 maanden voor het project de rijdende kleuterschool Vlaanderen. Vanaf 2019 wordt de subsidie toegekend op kalenderjaarbasis.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Vanaf het begrotingsjaar 2016 wordt de subsidie die aan de vzw toegekend wordt, jaarlijks geïndexeerd tegen 75% van de gezondheidsindex.<br>
+<br>
+§ 4. Vanaf het schooljaar 2015-2016 wordt aan de vzw ook een verlof wegens bijzondere opdracht voor één kleuteronderwijzer toegekend.<br>
+<br>
+§ 5. De regering bepaalt de verdere procedure voor de aanvraag en de toekenning van de subsidie, vermeld in paragraaf 1, en het verlof wegens bijzondere opdracht, vermeld in paragraaf 4. De subsidie wordt de eerste keer toegekend voor de periode van 1 september 2015 tot en met 31 december 2020, vervolgens telkens voor een periode van vijf kalenderjaren. Het verlof wegens bijzondere opdracht wordt telkens toegekend voor een periode van vijf schooljaren.</p>
 
 ### ART. 170.
 
