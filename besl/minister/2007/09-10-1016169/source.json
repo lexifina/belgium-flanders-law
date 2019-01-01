@@ -2,16 +2,16 @@
   "codex_id": 1016169,
   "title": "Ministerieel besluit van 2007-09-10 tot bepaling van de standaard voor de titel van begeleider buitenschoolse kinderopvang",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016169/VolledigDocument?datum=2007-09-25",
-  "source_sha256": "08a03cf7bd9e332c9b676f9238ea5f169ee36beea6faabe3c3f99fbad1bd403a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016169/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "5a65195f399481ef47089e023ff07db9bf74357c0899f6ca949f9ef53c40f833",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016169&param=informatie",
-  "as_of": "2007-09-25",
+  "as_of": "2019-01-01",
   "made": "2007-09-10",
   "gazette": "2007-09-25",
   "numac": 2007036580,
   "document_start": "2007-09-25",
   "document_end": "2018-12-31",
-  "in_force": "2007-09-25",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
