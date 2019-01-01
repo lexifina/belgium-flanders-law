@@ -35,6 +35,14 @@ In artikel 2, eerste lid, van het besluit van de Vlaamse Regering van 26 juli 20
 3° er wordt een punt 25° toegevoegd, dat luidt als volgt :<br>
 "25° de personeelsleden van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt (VREG), vermeld in artikel 3.1.12/4, § 1 van het Energiedecreet van 8 mei 2009.".
 
+### ART 2.
+
+In artikel 16 van hetzelfde besluit wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De aanvraag wordt ingediend met een elektronisch aanvraagformulier dat door het departement ter beschikking wordt gesteld.<br>
+<br>
+Indien het voor de werknemer onmogelijk is om gebruik te maken van een elektronisch aanvraagformulier, neemt het personeelslid of de werkgever contact op met het departement. Het departement zoekt in overleg met het personeelslid of de werkgever naar een passende oplossing om de aanvraag in te dienen."
+
 ### ART 3.
 
 Artikel 1, 1° heeft uitwerking met ingang van 1 januari 2018.<br>
