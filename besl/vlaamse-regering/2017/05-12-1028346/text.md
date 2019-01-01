@@ -861,6 +861,21 @@ Lijst van activiteiten als vermeld in artikel 1, 11° en 12°.<br>
 			<td>1</td>
 		</tr>
 		<tr>
+			<td>74201</td>
+			<td>Activiteiten van fotografen, met uitzondering van persfotografen</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>77220</td>
+			<td>Verhuur van videobanden, dvd's en cd's</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td>77291</td>
+			<td>Verhuur en lease van machines, apparatuur en handgereedschap voor doe-het-zelvers</td>
+			<td>1</td>
+		</tr>
+		<tr>
 			<td>79110</td>
 			<td>Reisbureaus</td>
 			<td>1</td>
@@ -1021,11 +1036,6 @@ Lijst van activiteiten als vermeld in artikel 1, 11° en 12°.<br>
 			<td>2</td>
 		</tr>
 		<tr>
-			<td>74201</td>
-			<td>Activiteiten van fotografen, met uitzondering van persfotografen</td>
-			<td>2</td>
-		</tr>
-		<tr>
 			<td>75000</td>
 			<td>Veterinaire diensten</td>
 			<td>2</td>
@@ -1043,16 +1053,6 @@ Lijst van activiteiten als vermeld in artikel 1, 11° en 12°.<br>
 		<tr>
 			<td>77210</td>
 			<td>Verhuur en lease van sport- en recreatieartikelen</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>77220</td>
-			<td>Verhuur van videobanden, dvd's en cd's</td>
-			<td>2</td>
-		</tr>
-		<tr>
-			<td>77291</td>
-			<td>Verhuur en lease van machines, apparatuur en handgereedschap voor doe-het-zelvers</td>
 			<td>2</td>
 		</tr>
 		<tr>
