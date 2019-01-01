@@ -4,7 +4,7 @@
 
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake salarissen, toelagen, vergoedingen en sociale voordelen van de personeelsleden van de Vlaamse ministeries en van de personeelsleden in het onderwijs, alsook de administratieve geld-boeten, opgenomen in artikel 228, eerste lid, 4°, en artikel 229, eerste lid, 4°, van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, alsook de administratieve geldboeten met de eventuele invorderingskosten, opgenomen in hoofdstuk III van het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaal-rechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaams Gewest bevoegd zijn, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de Vlaamse sociale bescherming, vermeld in het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, evenals de administratieve geldboeten die erop betrekking hebben, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de Vlaamse sociale bescherming, vermeld in het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, evenals de administratieve geldboeten die erop betrekking hebben, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
 De administratieve geldboeten, vermeld in artikel 15 van het decreet van 18 juli 2003 betreffende de verblijven en verenigingen die een werking uitoefenen in het kader van "Toerisme voor Allen", en de eventuele invorderingskosten, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
@@ -16,7 +16,7 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de toekenning v
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Departement Onderwijs en Vorming of een agentschap van het Vlaams Ministerie van Onderwijs en Vorming worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van Kind en Gezin, het Departement Welzijn, Volksgezondheid en Gezin, het agentschap Zorg en Gezondheid, het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden en het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van Kind en Gezin, het Departement Welzijn, Volksgezondheid en Gezin, het agentschap Zorg en Gezondheid, het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, &nbsp;het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg en het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid,&nbsp;worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
@@ -24,11 +24,15 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de take
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het agentschap Sport Vlaanderen, met inbegrip van NADO Vlaanderen, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Departement Werk en Sociale Economie worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Departement Werk en Sociale Economie worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Fonds Culturele Infrastructuur worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+<br>
+De onbetwiste en opeisbare ten onrechte door verzekeringsinstellingen uitbetaalde tegemoetkomingen en de aan verzekeringsinstellingen, rechthebbenden, vervoerders, verzekeringsinstellingen en zorgvoorzieningen krachtens het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, opgelegde administratieve geldboeten en eventuele invorderingskosten, worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.
 
 ### ART. 1bis.
 
-De personeelsleden, vermeld in artikel 1, worden tevens gemachtigd, in naam en voor rekening van de openbare instellingen die afhangen van de Vlaamse Gemeenschap, tot het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen onder de voorwaarden, vermeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, en onder de voorwaarden, vermeld in artikel 28, § 1, eerste lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.
+De personeelsleden, vermeld in artikel 1, worden tevens gemachtigd, in naam en voor rekening van de openbare instellingen die afhangen van de Vlaamse Gemeenschap, tot het invorderen van onbetwiste en opeisbare niet-fiscale schuldvorderingen onder de voorwaarden, vermeld in artikel 2, tweede lid, van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren, en onder de voorwaarden, vermeld in artikel III.21, § 1, eerste lid, van het bestuursdecreet van 7 december 2018.
 
 ### ART. 2.
 
