@@ -94,7 +94,16 @@ Een aanvrager kan alleen een erkenning of een verlenging van een erkenning   ver
 
 ### ART. 19.
 
-<P>Als de inrichtende macht geen bezwaarschrift indient binnen dertig   kalenderdagen na de ontvangst van het voornemen tot beslissing, wordt na het   verstrijken van die termijn binnen vijftien kalenderdagen de beslissing van het   agentschap met een aangetekende zending aan het ondersteuningsteam   bezorgd.<BR></P>  <P>Als het ondersteuningsteam binnen dertig kalenderdagen na de ontvangst van   het voornemen bezwaar heeft ingediend, wordt de beslissing genomen na het   doorlopen van de bezwaarprocedure. Binnen dertig kalenderdagen na het doorlopen   van de bezwaarprocedure of na het verstrijken van de termijn van de   bezwaarprocedure wordt de beslissing met een aangetekende zending bekendgemaakt   aan de inrichtende macht.<BR></P>  <P>De beslissing tot intrekking van de erkenning vermeldt:<BR>1° de   beslissing;<BR>2° de inwerkingtreding van de beslissing;<BR>3° de voorwaarden   die moeten worden vervuld om de sanctie op te heffen;<BR>4° conform artikel 25   van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, de   mogelijkheid om beroep in te stellen bij de Raad van State;<BR>5° het beroep,   vermeld in punt 4°, wordt bij ter post aangetekende brief ingediend binnen de 60   dagen vanaf de kennisgeving van de in punt 1° vermelde beslissing, als vermeld   in artikel 19 van de wetten op de Raad van State, gecoördineerd op 12 januari   1973.<BR></P>
+<p>Als de inrichtende macht geen bezwaarschrift indient binnen dertig kalenderdagen na de ontvangst van het voornemen tot beslissing, wordt na het verstrijken van die termijn binnen vijftien kalenderdagen de beslissing van het agentschap met een aangetekende zending aan het ondersteuningsteam bezorgd.</p>
+
+<p>Als het ondersteuningsteam binnen dertig kalenderdagen na de ontvangst van het voornemen bezwaar heeft ingediend, wordt de beslissing genomen na het doorlopen van de bezwaarprocedure. Binnen dertig kalenderdagen na het doorlopen van de bezwaarprocedure of na het verstrijken van de termijn van de bezwaarprocedure wordt de beslissing met een aangetekende zending bekendgemaakt aan de inrichtende macht.</p>
+
+<p>De beslissing tot intrekking van de erkenning vermeldt:<br>
+1° de beslissing;<br>
+2° de inwerkingtreding van de beslissing;<br>
+3° de voorwaarden die moeten worden vervuld om de sanctie op te heffen;<br>
+4° conform artikel II.21 van het bestuursdecreet van 7 december 2018, de mogelijkheid om beroep in te stellen bij de Raad van State;<br>
+5° het beroep, vermeld in punt 4°, wordt bij ter post aangetekende brief ingediend binnen de 60 dagen vanaf de kennisgeving van de in punt 1° vermelde beslissing, als vermeld in artikel 19 van de wetten op de Raad van State, gecoördineerd op 12 januari 1973.</p>
 
 ## Afdeling 3 Toezicht op de naleving van de erkenningsvoorwaarden
 
