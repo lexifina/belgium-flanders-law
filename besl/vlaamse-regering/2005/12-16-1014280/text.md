@@ -80,7 +80,9 @@ Het agentschap is niet bevoegd voor de opdrachten die door of ter uitvoering van
 
 ### ART. 5.
 
-De concretisering van de wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in de beheersovereenkomst, vermeld in artikel 7.<br /><br />Overeenkomstig artikel 9, § 11, 1°, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+De concretisering van de wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, wordt geregeld in het ondernemingsplan, vermeld in artikel 7.<br>
+<br>
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 6.
 
@@ -90,7 +92,11 @@ Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de r
 
 ### ART. 7.
 
-Het agentschap ressorteert onder het hiërarchische gezag van de Vlaamse minister, bevoegd voor de Huisvesting.<br /><br />Hij stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.<br /><br />Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het agentschap ressorteert onder het hiërarchische gezag van de Vlaamse minister, bevoegd voor de Huisvesting.<br>
+<br>
+Hij stuurt het agentschap aan, inzonderheid via het ondernemingsplan.<br>
+<br>
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ## HOOFDSTUK III Delegatie van beslissingsbevoegdheden
 
@@ -102,7 +108,7 @@ a) artikel 24, 3°, van het decreet van 22 december 1995 houdende bepalingen tot
 b) artikel 15 van het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers;<br>
 c) artikel 2, 7°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 2° gewestelijke ambtenaren als vermeld in 1° aan te stellen en hun werkingsgebied vast te stellen;<br>
-3° alle in de beheersovereenkomst nominatief opgenomen gereglementeerde subsidies, toelagen, premies en tegemoetkomingen te verlenen binnen het daartoe ter beschikking gestelde budget.<br>
+3° alle in het ondernemingsplan nominatief opgenomen gereglementeerde subsidies, toelagen, premies en tegemoetkomingen te verlenen binnen het daartoe ter beschikking gestelde budget.<br>
 <br>
 Het hoofd van het agentschap:<br>
 1° wordt aangewezen als gemachtigde voor het viseren en uitvoerbaar verklaren van dwangbevelen als vermeld in artikel 59 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
@@ -118,7 +124,9 @@ c) het aanstellen van ambtenaren met opsporings- en vaststellingsbevoegdheid als
 
 ### ART. 9.
 
-Met behoud van de toepassing van artikel 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de Vlaamse minister, bevoegd voor de huisvesting, verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.<br /><br />Hij kan op ieder ogenblik aan het hoofd van het agentschap informatie, rapportering en verantwoording vragen over bepaalde aangelegenheden, zowel op geaggregeerd niveau als op het niveau van individuele onderwerpen en dossiers.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de Vlaamse minister, bevoegd voor de huisvesting, verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.<br>
+<br>
+Hij kan op ieder ogenblik aan het hoofd van het agentschap informatie, rapportering en verantwoording vragen over bepaalde aangelegenheden, zowel op geaggregeerd niveau als op het niveau van individuele onderwerpen en dossiers.
 
 ## HOOFDSTUK V Slotbepalingen
 
