@@ -8,13 +8,21 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />- het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />- het agentschap: het Vlaams Agentschap voor Internationaal Ondernemen.
+In dit decreet wordt verstaan onder:<br>
+- Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+- het agentschap: het Vlaams Agentschap voor Internationaal Ondernemen.
 
 ## HOOFDSTUK II OPRICHTING
 
 ### ART. 3.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht zoals bedoeld in artikel 13 van het kaderdecreet. Dit agentschap draagt als naam 'Vlaams Agentschap voor Internationaal Ondernemen', in het Engels 'Flanders Investment & Trade', afgekort 'FIT'. De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.<br /><br />Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap van de Vlaamse overheid".<br /><br />§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap opgericht zoals bedoeld in artikel III.7 van het Bestuursdecreet. Dit agentschap draagt als naam 'Vlaams Agentschap voor Internationaal Ondernemen', in het Engels 'Flanders Investment &amp; Trade', afgekort 'FIT'. De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap.<br>
+<br>
+Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, moeten de benaming van het agentschap vermelden, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap van de Vlaamse overheid".<br>
+<br>
+§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.
 
 ## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
 
@@ -30,7 +38,7 @@ In dit decreet wordt verstaan onder:<br /><br />- het kaderdecreet: het kaderdec
 
 § 1. Met het oog op de uitvoering van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het agentschap gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br>
 <br>
-§ 2. Het agentschap beschikt met het oog op de uitvoering van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het bepaalde in het kaderdecreet, dit decreet, de uitvoeringsbesluiten ervan en het ondernemingsplan:<br>
+§ 2. Het agentschap beschikt met het oog op de uitvoering van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet, dit decreet, de uitvoeringsbesluiten ervan en het ondernemingsplan:<br>
 1° het tariferen van de dienstverlening van het agentschap;<br>
 2° het toekennen van subsidies en het verstrekken van waarborgen;<br>
 3° het ontwikkelen van een strategisch plan aangaande de wijze waarop het agentschap de ontwikkeling van de buitenlandse handel van Vlaanderen en de promotie van Vlaanderen als vestigingsplaats voor buitenlandse ondernemingen wil realiseren;<br>
@@ -52,11 +60,33 @@ De goederen, de rechten en de verplichtingen van de Belgische Dienst voor de Bui
 
 ### ART. 7.
 
-<P>§ 1. Het agentschap wordt bestuurd door een raad van bestuur die is   samengesteld uit:<BR>1° vier bestuurders, voorgedragen door de Vlaamse Regering,   onder wie minstens één bestuurder die over een bijzondere expertise beschikt op   het vlak van de internationale investeringen, en onder wie de gedelegeerd   bestuurder;<BR>2° vier bestuurders, voorgedragen door de representatieve   organisaties van de werkgevers, de middenstand en de werknemers die in de   Sociaal-Economische Raad van Vlaanderen zitting hebben, waarbij elk van de   voormelde categorieën van representatieve organisaties over minstens één   bestuurder beschikt;<BR>3° vier onafhankelijke bestuurders, voorgedragen door de   raad van bestuur onder de voorwaarden en op basis van de procedure, vermeld in   paragraaf 2.<BR><BR>§ 2. De bepalingen uit hoofdstuk 2 van het decreet van 22   november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector zijn   van toepassing op de onafhankelijke bestuurders van de raad van bestuur, tenzij   het anders bepaald is in dit artikel.<BR><BR>§ 3. De door de Vlaamse Regering   voorgedragen bestuurders kunnen op elk moment worden ontslagen door de Vlaamse   Regering.<BR><BR>§ 4. De raad van bestuur kiest een voorzitter uit de leden,   vermeld in paragraaf 1, 1°, op voordracht van de Vlaamse Regering. Bovendien   kiest de raad uit zijn leden een ondervoorzitter.<BR><BR>Het mandaat van   voorzitter van de raad van bestuur is niet verenigbaar met het mandaat van   gedelegeerd bestuurder.<BR><BR>§ 5. Bij hun aanstelling leggen de leden van de   raad van bestuur een overzicht van hun andere lopende mandaten en activiteiten   voor aan de Vlaamse Regering. Latere wijzigingen in mandaten of activiteiten   worden ook voorgelegd.</P>
+<p>§ 1. Het agentschap wordt bestuurd door een raad van bestuur die is samengesteld uit:<br>
+1° vier bestuurders, voorgedragen door de Vlaamse Regering, onder wie minstens één bestuurder die over een bijzondere expertise beschikt op het vlak van de internationale investeringen, en onder wie de gedelegeerd bestuurder;<br>
+2° vier bestuurders, voorgedragen door de representatieve organisaties van de werkgevers, de middenstand en de werknemers die in de Sociaal-Economische Raad van Vlaanderen zitting hebben, waarbij elk van de voormelde categorieën van representatieve organisaties over minstens één bestuurder beschikt;<br>
+3° vier onafhankelijke bestuurders, voorgedragen door de raad van bestuur onder de voorwaarden en op basis van de procedure, vermeld in paragraaf 2.<br>
+<br>
+§ 2. De bepalingen van artikel III.37, III.38, III.39 en III.40 tot en met III.43 van het Bestuursdecreet zijn van toepassing op de onafhankelijke bestuurders van de raad van bestuur, tenzij het anders bepaald is in dit artikel.<br>
+<br>
+§ 3. De door de Vlaamse Regering voorgedragen bestuurders kunnen op elk moment worden ontslagen door de Vlaamse Regering.<br>
+<br>
+§ 4. De raad van bestuur kiest een voorzitter uit de leden, vermeld in paragraaf 1, 1°, op voordracht van de Vlaamse Regering. Bovendien kiest de raad uit zijn leden een ondervoorzitter.<br>
+<br>
+Het mandaat van voorzitter van de raad van bestuur is niet verenigbaar met het mandaat van gedelegeerd bestuurder.<br>
+<br>
+§ 5. Bij hun aanstelling leggen de leden van de raad van bestuur een overzicht van hun andere lopende mandaten en activiteiten voor aan de Vlaamse Regering. Latere wijzigingen in mandaten of activiteiten worden ook voorgelegd.</p>
 
 ### ART. 8.
 
-§ 1. Met het oog op de uitvoering van de in artikel 4 bedoelde missie en   de in artikel 5 bedoelde taken en binnen de perken van het kaderdecreet, dit   decreet, de uitvoeringsbesluiten ervan en het ondernemingsplan, beschikt de Raad   van Bestuur over de ruimste bevoegdheden voor het bestuur van het   agentschap.<BR><BR>§ 2. Onverminderd andere decretale bepalingen, kunnen   volgende bevoegdheden van de Raad van Bestuur niet worden gedelegeerd:<BR>1°   ...;<BR>2° het opstellen van het ontwerp van begroting en van de rekeningen   evenals hun aanpassingen;<BR>3° de vaststelling, in samenspraak met de Vlaamse   Regering, van het ondernemingsplan, vermeld in artikel 15;<BR>4° het beslissen   overeenkomstig de voorwaarden van artikel 12 van het kaderdecreet over de   deelname van het agentschap aan de oprichting van of de deelname in, alsmede   omtrent het bestuur of de leiding en de financiering van andere publiek- of   privaatrechtelijke rechtspersonen;<BR>5° de vaststelling van het jaarrapport   over de uitvoering van het ondernemingsplan, vermeld in artikel 15;<BR>6° het   rapporteren over de uitvoering van de begroting en over de boekhouding;<BR>7° de   herverdeling van investeringskredieten.
+§ 1. Met het oog op de uitvoering van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken en binnen de perken van het Bestuursdecreet, dit decreet, de uitvoeringsbesluiten ervan en het ondernemingsplan, beschikt de Raad van Bestuur over de ruimste bevoegdheden voor het bestuur van het agentschap.<br>
+<br>
+§ 2. Onverminderd andere decretale bepalingen, kunnen volgende bevoegdheden van de Raad van Bestuur niet worden gedelegeerd:<br>
+1° ...;<br>
+2° het opstellen van het ontwerp van begroting en van de rekeningen evenals hun aanpassingen;<br>
+3° de vaststelling, in samenspraak met de Vlaamse Regering, van het ondernemingsplan, vermeld in artikel 15;<br>
+4° het beslissen overeenkomstig de voorwaarden van artikel III.18 van het Bestuursdecreet over de deelname van het agentschap aan de oprichting van of de deelname in, alsmede omtrent het bestuur of de leiding en de financiering van andere publiek- of privaatrechtelijke rechtspersonen;<br>
+5° de vaststelling van het jaarrapport over de uitvoering van het ondernemingsplan, vermeld in artikel 15;<br>
+6° het rapporteren over de uitvoering van de begroting en over de boekhouding;<br>
+7° de herverdeling van investeringskredieten.
 
 ### ART. 9.
 

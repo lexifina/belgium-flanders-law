@@ -2,16 +2,16 @@
   "codex_id": 1013054,
   "title": "Decreet van 2004-05-07 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \"Vlaams Agentschap voor Internationaal Ondernemen\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013054/VolledigDocument?datum=2016-04-03",
-  "source_sha256": "92b016b36fa85aed828754694777f1fb5c5cbbee92b5cce612d28dce18b06e1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013054/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "25a72226921c9df02d89bf003d60c6adefd6fa89146586a513b2a6eddb239657",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013054&param=informatie",
-  "as_of": "2016-04-03",
+  "as_of": "2019-01-01",
   "made": "2004-05-07",
   "gazette": "2004-06-04",
   "numac": 2004035840,
   "document_start": "2005-07-01",
   "document_end": null,
-  "in_force": "2016-04-03",
+  "in_force": "2019-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2016-04-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
