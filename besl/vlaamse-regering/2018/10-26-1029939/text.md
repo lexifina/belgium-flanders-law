@@ -96,6 +96,16 @@ In artikel 5, eerste lid, van hetzelfde besluit worden de volgende wijzigingen a
 <br>
 "k) het debiteurenreglement.".
 
+### ART 9.
+
+Artikel 7 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 7. Elk sociaal verhuurkantoor maakt een jaarverslag op conform het model dat het agentschap ter beschikking stelt.<br>
+<br>
+Elk sociaal verhuurkantoor dat een subsidie ontvangt als vermeld in dit besluit, maakt een financiële planning op voor de komende vijf jaar conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
+<br>
+Het jaarverslag en de financiële planning worden jaarlijks uiterlijk op 15 maart bij het agentschap en bij de ondersteuningsstructuur ingediend, voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor is erkend.".
+
 ### ART 10.
 
 In artikel 8 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 2 december 2016, worden de volgende wijzigingen aangebracht:<br>

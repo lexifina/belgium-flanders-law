@@ -2,16 +2,16 @@
   "codex_id": 1029939,
   "title": "Besluit van de Vlaamse Regering van 2018-10-26 tot wijziging van het besluit van de Vlaamse Regering van 29 september 2006 houdende de erkenning en subsidiëring van huurdersorganisaties en het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren en tot opheffing van het besluit van de Vlaamse Regering van 15 december 2006 houdende bepaling van de toekenning van VIA-subsidies aan de gesubsidieerde huurdiensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029939/VolledigDocument?datum=2018-12-14",
-  "source_sha256": "234636ff298452c964691dec6b6ec450f8fe88ddb477d981db56b1ce8ae991cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029939/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f626aa660635373a9ff6596aee8b887f9825931b137cbc687f2d764b2f29e051",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029939&param=informatie",
-  "as_of": "2018-12-14",
+  "as_of": "2019-01-01",
   "made": "2018-10-26",
   "gazette": "2018-12-04",
   "numac": 2018032265,
   "document_start": "2018-12-14",
   "document_end": null,
-  "in_force": "2018-12-14",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2018-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
