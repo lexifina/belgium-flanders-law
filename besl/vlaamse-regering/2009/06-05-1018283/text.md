@@ -122,7 +122,7 @@ Om erkend te kunnen blijven, moet een afdeling Medisch Toezicht of departement M
 
 ### ART. 26.
 
-Het agentschap wordt belast met het toezicht op de naleving van dit   besluit. Om het toezicht uit te oefenen, kan het agentschap : <BR>1°   gebruikmaken van de jaarverslagen vermeld in artikel 25, 3° en van de gegevens,   vermeld in artikel 25, 4°;<BR>2° alle aanvullende gegevens die daartoe nodig   zijn, vragen aan de afdeling Medisch Toezicht of het departement Medisch   Toezicht;<BR>3° in de lokalen die de afdeling Medisch Toezicht of het   departement Medisch Toezicht ter beschikking heeft, een onderzoek dat betrekking   heeft op de erkenningsvoorwaarden verrichten of laten verrichten door   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein, of door andere bevoegde   openbare instanties;<BR>4° gebruikmaken van gegevens over de afdeling Medisch   Toezicht of het departement Medisch Toezicht, die worden aangeleverd door   derden.
+Het agentschap wordt belast met het toezicht op de naleving van dit besluit.
 
 ## HOOFDSTUK VI. Erkenning van een afdeling Medisch Toezicht of departement Medisch Toezicht als organisatie met terreinwerking
 
