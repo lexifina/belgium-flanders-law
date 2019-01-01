@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br>
 1° raadgevende comités : de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
 2° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 3° VAPH : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-4° Agentschap voor Vlaamse Sociale Bescherming : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Agentschap voor Vlaamse Sociale Bescherming, opgericht bij het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+4° Agentschap voor Vlaamse Sociale Bescherming : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 5° Zorg en Gezondheid : het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
 6° Jongerenwelzijn : het intern verzelfstandigd agentschap Jongerenwelzijn;<br>
 7° minister : de Vlaamse minister bevoegd voor de Bijstand aan Personen en voor het Gezondheidsbeleid.<br>
@@ -43,7 +43,7 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
 4° acht onafhankelijke deskundigen.<br>
 <br>
-§ 4. Overeenkomstig artikel 14 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming bestaat het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming uit 32 leden, waarvan :<br>
+§ 4. Overeenkomstig artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming bestaat het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming uit 32 leden, waarvan :<br>
 1° acht vertegenwoordigers van de cliënten, de patiënten en de mantelzorgers;<br>
 2° zes vertegenwoordigers van de zorgkassen;<br>
 3° zes vertegenwoordigers van de Vlaamse sociale partners;<br>
@@ -70,7 +70,7 @@ Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkhe
 
 ### ART. 5.
 
-De minister wijst onder de leden van de raadgevende comités een voorzitter en hoogstens twee ondervoorzitters aan. Bij het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming wordt de voorzitter benoemd uit een van de onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming, overeenkomstig artikel 14 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
+De minister wijst onder de leden van de raadgevende comités een voorzitter en hoogstens twee ondervoorzitters aan. Bij het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming wordt de voorzitter benoemd uit een van de onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming, overeenkomstig artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 &nbsp;
 
 ### ART. 6.
@@ -91,7 +91,12 @@ Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van
 
 ### ART. 9.
 
-Het lidmaatschap van een raadgevend comité is onverenigbaar met :<br />1° een mandaat in het Europees Parlement, de Kamer van volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement;<br />2° het ambt van minister, staatssecretaris en hun kabinetsleden;<br />3° het ambt van personeelslid van een departement of een agentschap, dat in een hiërarchische verhouding staat tot de minister;<br />4° het ambt van personeelslid van het Vlaams Parlement en de bij het Vlaams Parlement opgerichte diensten;<br />5° het ambt van personeelslid van een strategische adviesraad opgericht krachtens het decreet van 18 juli 2003 tot regeling van strategische adviesraden.<br /><br />
+Het lidmaatschap van een raadgevend comité is onverenigbaar met :<br>
+1° een mandaat in het Europees Parlement, de Kamer van volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brussels Hoofdstedelijk Parlement;<br>
+2° het ambt van minister, staatssecretaris en hun kabinetsleden;<br>
+3° het ambt van personeelslid van een departement of een agentschap, dat in een hiërarchische verhouding staat tot de minister;<br>
+4° het ambt van personeelslid van het Vlaams Parlement en de bij het Vlaams Parlement opgerichte diensten;<br>
+5° het ambt van personeelslid van een strategische adviesraad als vermeld in artikel III.93 van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK III Werking
 
