@@ -9,16 +9,16 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° authentieke gegevensbron : een authentieke gegevensbron als vermeld in artikel 4, § 1 en § 2, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+1° authentieke gegevensbron : een authentieke gegevensbron als vermeld in artikel III.66, § 1, van het Bestuursdecreet van 7 december 2018;<br>
 2° de Vlaamse toezichtcommissie : de Vlaamse toezichtcommissie, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 3° dienstenintegrator : een instantie die bij of krachtens een wet, een decreet of een ordonnantie belast is, binnen een bepaald overheidsniveau of in een bepaalde sector, met een taak van algemeen belang, en meer bepaald met de organisatie van elektronische gegevensuitwisseling over instanties heen en met de geintegreerde ontsluiting van gegevens;<br>
 4° externe overheid : een overheid die tot het internationale of federale niveau behoort, een andere gemeenschap of een ander gewest, en de daarvan afhangende instellingen of rechtspersonen, alsook de privaatrechtelijke rechtspersonen die belast zijn met taken of opdrachten van algemeen belang;<br>
 5° het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten : het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008;<br>
-6° instanties : de instanties, vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+6° instanties : de instanties van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018, de instanties van de lokale overheden, vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, de instellingen met een publieke taak, vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018 en de milieu-instanties, vermeld in artikel I.3, 7°, van het Bestuursdecreet van 7 december 2018;<br>
 7° ...<br>
 8° ...<br>
 9° VDI : de Vlaamse dienstenintegrator;<br>
-10° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.<br>
+10° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74. van het Bestuursdecreet van 7 december 2018.<br>
 11° algemene verordening gegevensbescherming : verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming).
 
 ## HOOFDSTUK 2. Oprichting van de VDI
