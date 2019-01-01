@@ -2,16 +2,16 @@
   "codex_id": 1012805,
   "title": "Decreet van 2004-03-19 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid \"Toerisme Vlaanderen\"",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012805/VolledigDocument?datum=2011-12-01",
-  "source_sha256": "1e240e0acd2b026d3734fa9786ac5a8325b59a27346d4992330baa675edc62d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012805/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c538bef16ea36a8a025460cb5b03645f73e159d7305e989e6dedafe400ea344b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012805&param=informatie",
-  "as_of": "2011-12-01",
+  "as_of": "2019-01-01",
   "made": "2004-03-19",
   "gazette": "2004-04-29",
   "numac": 2004035613,
   "document_start": "2004-04-29",
   "document_end": null,
-  "in_force": "2011-12-01",
+  "in_force": "2019-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2011-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
