@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029798,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-14 houdende wijziging van artikel 2 en 4 van het besluit van de Vlaamse Regering van 26 oktober 2012 tot bepaling van de regierol van gemeenten op het vlak van de lokale sociale economie, vermeld in artikel 15 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029798/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "7b6d8388ecb6e65640dee7e5202e4d80bf9c3821ed38e73dfa34b0352d7d9080",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029798&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-09-14",
+  "gazette": "2018-10-09",
+  "numac": 2018014114,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
