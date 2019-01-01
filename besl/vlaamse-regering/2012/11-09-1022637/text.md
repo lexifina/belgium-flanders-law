@@ -122,7 +122,9 @@ Het CKG bewaakt dat zijn medewerkers van goed zedelijk gedrag zijn en   vraagt d
 
 ### ART. 22.
 
-<P>§ 1. Zorginspectie houdt toezicht op de kwaliteit van de infrastructuur en   het pedagogisch en agogisch functioneren van de CKG's.<BR></P>  <P>§ 2. Zorginspectie heeft toegang tot de centra op elk moment dat er kinderen   opgevangen of begeleid kunnen worden. Zorginspectie kan alle documenten inkijken   en informatie inwinnen bij alle personen die bij de opvang of begeleiding in de   centra betrokken zijn.<BR></P>  <P>De dossiers, getuigschriften, verslagen, overeenkomsten en bewijsstukken die   door de bepalingen van dit besluit zijn vereist, moeten ter beschikking worden   gehouden van Zorginspectie.<BR></P>
+<p>§ 1. Zorginspectie houdt toezicht op de kwaliteit van de infrastructuur en het pedagogisch en agogisch functioneren van de CKG's.</p>
+
+<p>§ 2. De dossiers, getuigschriften, verslagen, overeenkomsten en bewijsstukken die door de bepalingen van dit besluit zijn vereist, moeten ter beschikking worden gehouden van Zorginspectie.</p>
 
 ### ART. 23.
 
@@ -237,6 +239,12 @@ Bij een wijziging of verbouwing van vestigingsplaats geeft Kind en Gezin   onmid
 Als geen beroepsschrift wordt ingediend binnen de termijn vermeld in   artikel 49, krijgt de voorgenomen beslissing van rechtswege een definitief   karakter na het aflopen van deze termijn.<BR>
 
 ## [Afdeling 4/1 Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 21 december 2018, art. 1, I: 1 januari 2019)]
+
+### ART 47/1.
+
+Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, vult het agentschap de gegevens van de erkenning van het CKG in de samengevoegde gemeenten automatisch aan met de gegevens die voortvloeien uit de samenvoeging tot de nieuwe gemeente.<br>
+<br>
+Kind en Gezin brengt het CKG elektronisch op de hoogte van de aanpassingen.
 
 ## Afdeling 5 Beroepsprocedure
 
