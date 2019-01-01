@@ -337,8 +337,8 @@ Als het personeelslid niet is geëvalueerd, wordt aan die voorwaarde geacht vold
 § 2. Een vaste benoeming gaat altijd in op 1 januari en is alleen mogelijk in een vacante organieke betrekking.<br>
 <br>
 § 3. Een centrumbestuur kan een personeelslid alleen vast benoemen op voorwaarde dat het het volgende maximumpercentage in acht neemt:<br>
-1° de vastbenoemde leden aangesteld conform artikel 85 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, nemen ten hoogste 90% in van de door de Vlaamse Gemeenschap jaarlijks toegekende organieke voltijdsequivalenten aan dat centrum, waarbij 15 september van het kalenderjaar voorafgaand aan de datum van de vaste benoeming als ijkpunt wordt genomen;<br>
-2° de vastbenoemde personeelsleden aangesteld conform artikel 87, § 2, van het voormelde decreet, nemen ten hoogste 90% in van de door de Vlaamse Gemeenschap jaarlijks toegekende organieke puntenenveloppe aan dat centrum, waarbij 15 september van het kalenderjaar voorafgaand aan de datum van de vaste benoeming als ijkpunt wordt genomen.<br>
+1° de vastbenoemde leden aangesteld conform artikel 85 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, nemen ten hoogste 77% in van de door de Vlaamse Gemeenschap jaarlijks toegekende organieke voltijdsequivalenten aan dat centrum, waarbij 15 september van het kalenderjaar voorafgaand aan de datum van de vaste benoeming als ijkpunt wordt genomen;<br>
+2° de vastbenoemde personeelsleden aangesteld conform artikel 87, § 2, van het voormelde decreet, nemen ten hoogste 77% in van de door de Vlaamse Gemeenschap jaarlijks toegekende organieke puntenenveloppe aan dat centrum, waarbij 15 september van het kalenderjaar voorafgaand aan de datum van de vaste benoeming als ijkpunt wordt genomen.<br>
 <br>
 § 4. Met behoud van de toepassing van paragraaf 3 benoemt het centrumbestuur altijd het personeelslid met de meeste dienstanciënniteit in het centrum. Het maakt daarvoor jaarlijks uiterlijk op 31 augustus van het schooljaar voorafgaand aan de datum van de vaste benoeming een lijst op die aangeeft welke plaats een personeelslid inneemt.<br>
 <br>
