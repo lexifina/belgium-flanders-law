@@ -8,13 +8,27 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<BR>1° het kaderdecreet: het   kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>2° handicap: elk langdurig   en belangrijk participatieprobleem van een persoon dat te wijten is aan het   samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of   zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en   persoonlijke en externe factoren;<BR>3° ondersteuning: elke materiële of   immateriële hulp en elke vorm van hulp- en dienstverlening die in het kader van   dit decreet met het oog op hun maatschappelijke integratie aan personen met een   handicap of aan personen met een vermoeden van handicap&nbsp;wordt   verstrekt;<BR>4° voorziening: elke organisatievorm die de ondersteuning   organiseert en/of verleent;<BR>5° indicatiestelling: de multidisciplinaire   evaluatie aan de hand waarvan wordt bepaald wie beschouwd kan worden als een   persoon met een handicap en wat de aard en de graad van ondersteuning is die   vereist is om de maatschappelijke integratie mogelijk te maken;<BR>6°   toewijzing: de beslissing van het agentschap die bepaalt welke ondersteuning het   ten laste zal nemen.
+In dit decreet wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° handicap: elk langdurig en belangrijk participatieprobleem van een persoon dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren;<br>
+3° ondersteuning: elke materiële of immateriële hulp en elke vorm van hulp- en dienstverlening die in het kader van dit decreet met het oog op hun maatschappelijke integratie aan personen met een handicap of aan personen met een vermoeden van handicap&nbsp;wordt verstrekt;<br>
+4° voorziening: elke organisatievorm die de ondersteuning organiseert en/of verleent;<br>
+5° indicatiestelling: de multidisciplinaire evaluatie aan de hand waarvan wordt bepaald wie beschouwd kan worden als een persoon met een handicap en wat de aard en de graad van ondersteuning is die vereist is om de maatschappelijke integratie mogelijk te maken;<br>
+6° toewijzing: de beslissing van het agentschap die bepaalt welke ondersteuning het ten laste zal nemen.
 
 ## HOOFDSTUK II OPRICHTING
 
 ### ART. 3.
 
-Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10 van het kaderdecreet.<br /><br />Dat agentschap draagt als naam Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te noemen.<br /><br />De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.
+Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel III.4 van het Bestuursdecreet.<br>
+<br>
+Dat agentschap draagt als naam Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te noemen.<br>
+<br>
+De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap.
 
 ## HOOFDSTUK III MISSIE EN TAKEN
 
@@ -59,7 +73,7 @@ Het agentschap kan voor het realiseren van zijn missie en taken en met   inachtn
 
 ### ART. 10.
 
-Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen, neemt het agentschap klachten op die worden geuit tegen voorzieningen die door het agentschap werden erkend en behandelt deze klachten.
+Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in titel II, hoofdstuk 5, van het Bestuursdecreet, neemt het agentschap klachten op die worden geuit tegen voorzieningen die door het agentschap werden erkend en behandelt deze klachten.
 
 ### ART. 11.
 
@@ -67,11 +81,11 @@ Het agentschap voert zijn taken, genoemd in artikelen 5, 6, 7 en 8, ten aanzien 
 1° het in andere beleidsdomeinen en op andere beleidsniveaus gevoerde beleid;<br>
 2° het door de Vlaamse Gemeenschap gevoerde welzijns- en gezondheidsbeleid.<br>
 <br>
-Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, genoemd in artikel 5, 6 en 7. Het agentschap stelt de verworven kennis en expertise ter beschikking van de beleidsondersteuning zoals bedoeld in artikel 4, § 1, van het kaderdecreet. Het agentschap zorgt ervoor dat zijn dienstverlening op basis van de nieuwste stand van kennis en expertise voortdurend wordt verbeterd.<br>
+Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, genoemd in artikel 5, 6 en 7. Het agentschap stelt de verworven kennis en expertise ter beschikking in het kader van de toepassing van artikel III.2, derde lid, van het Bestuursdecreet. Het agentschap zorgt ervoor dat zijn dienstverlening op basis van de nieuwste stand van kennis en expertise voortdurend wordt verbeterd.<br>
 <br>
 Het agentschap registreert en verwerkt alle nodige gegevens voor:<br>
 1° de uitvoering van de taken, genoemd in artikelen 5, 6 en 7;<br>
-2° het verstrekken van de beleidsgerichte input, als genoemd in artikel 4, § 3, van het kaderdecreet.<br>
+2° het verstrekken van de beleidsgerichte input, als genoemd in artikel III.2, derde lid, van het Bestuursdecreet.<br>
 <br>
 De Vlaamse regering bepaalt de nadere regels voor de registratie en verwerking van gegevens, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
@@ -105,7 +119,7 @@ Artikel 14 is niet van toepassing op ondersteuning die verleend wordt ter   uitv
 
 ### ART. 16.
 
-De persoonsvolgende financiering voor personen met een handicap bestaat uit een getrapt ondersteuningssysteem voor personen met een handicap. De eerste trap omvat een basisondersteuningsbudget, verstrekt in het kader van de Vlaamse sociale bescherming, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming. De tweede trap omvat een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, verstrekt door het agentschap.<br>
+De persoonsvolgende financiering voor personen met een handicap bestaat uit een getrapt ondersteuningssysteem voor personen met een handicap. De eerste trap omvat een basisondersteuningsbudget, als vermeld in artikel 4, eerste lid, 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming. De tweede trap omvat een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, verstrekt door het agentschap.<br>
 <br>
 De persoonsvolgende financiering, vermeld in het eerste lid, wordt geregeld in het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, met behoud van de toepassing van de bepalingen van dit decreet. Artikel 21 is echter niet van toepassing op het basisondersteuningsbudget, vermeld in het eerste lid, waarvoor de bepalingen van de Vlaamse sociale bescherming, vermeld in het eerste lid gelden.
 
@@ -188,17 +202,13 @@ Er kan geen ondersteuning worden verstrekt aan een persoon die al ondersteund wo
 
 ### ART. 22.
 
-De Vlaamse regering regelt de werking van het agentschap voor zover deze regeling geen afbreuk doet aan de in het kaderdecreet of in voorliggend oprichtingsdecreet vastgelegde beslissings- en beleidsstructuur.
+De Vlaamse regering regelt de werking van het agentschap voor zover deze regeling geen afbreuk doet aan de in het Bestuursdecreet of in voorliggend oprichtingsdecreet vastgelegde beslissings- en beleidsstructuur.
 
 ### ART. 23.
 
 Het agentschap stelt alle gegevens ter beschikking, waar de entiteit om verzoekt die door de regering is belast met inspectie. Tussen het agentschap en deze entiteit wordt een samenwerkingsovereenkomst gesloten. De Vlaamse regering bepaalt de nadere regels voor deze samenwerkingsovereenkomst.<br>
 <br>
-De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
-<br>
-De door het agentschap erkende of vergunde organisaties of voorzieningen stellen aan de personeelsleden die met toezicht belast zijn alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die personeelsleden toe om ter plaatse de naleving van de bepalingen, vermeld in het tweede lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn. Deze bevoegdheden worden uitgeoefend met het oog op het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan. De personeelsleden die met het toezicht belast zijn, staan ervoor in dat de middelen die worden aanwend, passend en noodzakelijk zijn voor het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.<br>
-<br>
-Van hun vaststellingen maken de personeelsleden, vermeld in het derde lid, een verslag op. Het verslag heeft bewijswaarde tot het tegenbewijs. Van het verslag wordt een afschrift gestuurd naar de betrokkene.
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
 ### ART. 24.
 
@@ -238,7 +248,21 @@ Het agentschap wordt gemachtigd om een reservefonds aan te leggen.<br /><br />In
 
 ### ART. 31.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende het agentschap te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben indien ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot op deze laatste datum.<br /><br />De bevoegdheid die hiertoe aan de Vlaamse regering is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />De Vlaamse regering kan de bepalingen van de decreten betreffende het agentschap coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende het agentschap te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.<br>
+<br>
+De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben indien ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot op deze laatste datum.<br>
+<br>
+De bevoegdheid die hiertoe aan de Vlaamse regering is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+De Vlaamse regering kan de bepalingen van de decreten betreffende het agentschap coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
 
 ## HOOFDSTUK XI OVERGANGS- EN SLOTBEPALINGEN
 
