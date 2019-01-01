@@ -50,7 +50,7 @@ De bij de berekening van het resultaat van het fonds, vermeld in het eerste lid,
 
 ### ART 3.
 
-Met toepassing van artikel 50, § 2, tweede lid, van de Vlaamse Wooncode kan aan het VWF een toelage worden verleend voor de financiering van de bijzondere sociale leningen en de huurhulpverrichtingen.<br>
+Met toepassing van artikel 50, § 2, tweede lid, en artikel 79bis, tweede lid van de Vlaamse Wooncode kan aan het VWF een toelage worden verleend voor de financiering van de bijzondere sociale leningen, de huurwaarborgleningen en de huurhulpverrichtingen.<br>
 <br>
 De toelage bestaat uit:<br>
 1° de toelage ter financiering van de werkingskosten die wordt berekend op basis van het verschil tussen de uit de werking voortvloeiende ontvangsten en uitgaven;<br>
