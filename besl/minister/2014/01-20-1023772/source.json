@@ -2,16 +2,16 @@
   "codex_id": 1023772,
   "title": "Ministerieel besluit van 2014-01-20 houdende de erkenning van opleidings- en exameninstellingen voor de certificering van aannemers en installateurs en houdende de certificering van aannemers en installateurs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023772/VolledigDocument?datum=2016-12-05",
-  "source_sha256": "be29f5560b552e5795940b80fa47f702fcc90dea1e923a2da3f16fda3e294068",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023772/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "9530661cd126c2fdb2a113ccceacc25f29a8a57c745394ef1de47b62163b514c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023772&param=informatie",
-  "as_of": "2016-12-05",
+  "as_of": "2019-01-01",
   "made": "2014-01-20",
   "gazette": "2014-02-05",
   "numac": 2014035123,
   "document_start": "2014-02-15",
   "document_end": "2018-12-31",
-  "in_force": "2016-12-05",
+  "in_force": "2019-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2016-12-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
