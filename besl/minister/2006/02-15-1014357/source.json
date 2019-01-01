@@ -2,16 +2,16 @@
   "codex_id": 1014357,
   "title": "Ministerieel besluit van 2006-02-15 tot bepaling van de standaard voor de titel van kapper",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014357/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b1f81a8576aba6638a1f9212961e1147bd374de67d02d61c32acf3dd35f2f48c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014357/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "58f75e83ad1c85dbdef5532a29601fe2277da654649b4ae2e9c67597fea8e854",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014357&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "2006-02-15",
   "gazette": "2006-03-13",
   "numac": 2006035379,
   "document_start": "2006-03-13",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
