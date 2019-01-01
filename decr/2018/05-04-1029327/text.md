@@ -59,6 +59,110 @@ Artikel 5 is van overeenkomstige toepassing op de overdracht van risicogronden v
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 7.
+
+<br>
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, toegevoegd bij het decreet van 22 december 2017, worden de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>MEEUWEN-GRUITRODE</td>
+			<td>218 960,27</td>
+			<td>0,1671 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>OPGLABBEEK</td>
+			<td>184 950,26</td>
+			<td>0,1412 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">3° tussen de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>OUDENBURG</td>
+			<td>91 672,10</td>
+			<td>0,0700 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">en de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>OUD-HEVERLEE</td>
+			<td>197 709,65</td>
+			<td>0,1509 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt een rij ingevoegd, die luidt als volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>OUDSBERGEN</td>
+			<td>403 910,53</td>
+			<td>0,3083 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### ART 8.
+
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, worden in de rubriek Provincie Limburg de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Meeuwen-Gruitrode</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Opglabbeek</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt vervangen door wat volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Oudsbergen</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Inwerkingtreding
 
 ### ART 9.
