@@ -2,16 +2,16 @@
   "codex_id": 1009284,
   "title": "Decreet van 2002-05-24 betreffende water bestemd voor menselijke aanwending",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009284/VolledigDocument?datum=2017-08-14",
-  "source_sha256": "842329581a2fe3448bcdc782640014a0efd2fa09686caa0964915659e926c277",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009284/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "b8b469cfade3013a1e4bfdd9f2f605c7f8b8e5f3dbe79540f7ace98cd63ec8a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009284&param=informatie",
-  "as_of": "2017-08-14",
+  "as_of": "2019-01-01",
   "made": "2002-05-24",
   "gazette": "2002-07-23",
   "numac": 2002035862,
   "document_start": "2002-07-23",
   "document_end": "2018-12-31",
-  "in_force": "2017-08-14",
+  "in_force": "2019-01-01",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2017-08-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
