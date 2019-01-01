@@ -10,13 +10,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° EVA: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in artikel 3, § 1, eerste lid;<br>
-2° decreet van 18 juli 2003: het kaderdecreet bestuurlijk beleid van 18 juli 2003.
+2° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;
 
 ## HOOFDSTUK 2. Machtiging tot oprichting als privaatrechtelijk vormgegeven extern verzelfstandigd agentschap
 
 ### ART 3.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om, namens de Vlaamse Gemeenschap onder de voorwaarden, vermeld in dit decreet, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel 29 van het decreet van 18 juli 2003, in de vorm van een vereniging zonder winstoogmerk op te richten, en te belasten met het doel en de taken, vermeld in hoofdstuk 3 van dit decreet.<br>
+§ 1. De Vlaamse Regering wordt gemachtigd om, namens de Vlaamse Gemeenschap onder de voorwaarden, vermeld in dit decreet, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet, in de vorm van een vereniging zonder winstoogmerk op te richten, en te belasten met het doel en de taken, vermeld in hoofdstuk 3 van dit decreet.<br>
 <br>
 De vereniging zonder winstoogmerk wordt Koninklijk Museum voor Schone Kunsten Antwerpen genoemd.<br>
 <br>
@@ -24,7 +24,7 @@ Het EVA wordt gespecificeerd als Vlaamse wetenschappelijke instelling.<br>
 <br>
 De statuten van het EVA, alsook de wijzigingen die erin worden aangebracht, worden ter goedkeuring voorgelegd aan de Vlaamse Regering en worden meegedeeld aan het Vlaams Parlement.<br>
 <br>
-§ 2. Behalve in geval van andersluidende bepalingen in dit decreet zijn de bepalingen van het decreet van 18 juli 2003 van toepassing op het EVA.<br>
+§ 2. Behalve in geval van andersluidende bepalingen in dit decreet zijn de bepalingen van het Bestuursdecreet van toepassing op het EVA.<br>
 <br>
 § 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het EVA behoort.
 
@@ -79,13 +79,13 @@ De Vlaamse Regering kan bijzondere opdrachten toewijzen aan het EVA, die aanslui
 <br>
 § 3. De raad van bestuur van het EVA bestaat uit:<br>
 1° zeven leden, voorgedragen door de Vlaamse Regering;<br>
-2° vier onafhankelijke bestuurders, benoemd conform artikel 4, 5, eerste tot en met derde en vijfde lid, en artikel 6 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.
+2° vier onafhankelijke bestuurders, benoemd conform artikel III.40, III.41, eerste tot en met derde en vijfde lid, en artikel III.42 van het Bestuursdecreet;
 
 ## HOOFDSTUK 5. Samenwerkingsovereenkomst en middelen
 
 ### ART 7.
 
-De samenwerkingsovereenkomst vermeld in artikel 31 van het decreet van 18 juli 2003 bevat onder meer de volgende zaken:<br>
+De samenwerkingsovereenkomst vermeld in artikel III.16 van het Bestuursdecreet bevat onder meer de volgende zaken:<br>
 1° de uit te voeren taken, vermeld in artikel 5;<br>
 2° de financiële tegemoetkoming, vermeld in artikel 8;<br>
 3° de informatie- en rapportageplicht over de taken en de financiële situatie;<br>
@@ -105,7 +105,7 @@ Het EVA is gemachtigd om telkens na het akkoord van de betrokken entiteiten over
 
 ### ART 10.
 
-De Vlaamse Regering is gemachtigd om statutaire personeelsleden van de Vlaamse ministeries, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijke extern verzelfstandigde agentschappen, vermeld in het decreet van 18 juli 2003, conform de modaliteiten, vermeld in de samenwerkingsovereenkomst, vermeld in artikel 7, ter beschikking te stellen van het EVA.
+De Vlaamse Regering is gemachtigd om statutaire personeelsleden van de departementen, de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid, de intern verzelfstandigde agentschappen met rechtspersoonlijkheid en de publiekrechtelijke extern verzelfstandigde agentschappen, vermeld in artikel III.1, tweede lid, van het Bestuursdecreet, conform de modaliteiten, vermeld in de samenwerkingsovereenkomst, vermeld in artikel 7, ter beschikking te stellen van het EVA.
 
 ### ART 11.
 
@@ -153,8 +153,8 @@ In geval van ontbinding van het EVA wordt het actief, na aanzuivering van het pa
 
 ### ART 16.
 
-De saldi op de rekeningen van de Dienst met Afzonderlijk Beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten te Antwerpen, alsook de rechten en verplichtingen die eraan verbonden zijn, worden uiterlijk op 31 december 2018 overgedragen aan het EVA.
+De saldi op de rekeningen van de Dienst met Afzonderlijk Beheer Beheersdienst van het Koninklijk Museum voor Schone Kunsten te Antwerpen, alsook de rechten en verplichtingen die eraan verbonden zijn, worden uiterlijk op 31 december 2019 overgedragen aan het EVA.
 
 ### ART 18.
 
-Dit decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 15 en 17, die in werking treden op 1 januari 2019.
+Dit decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 15 en 17, die in werking treden op 1 januari 2020.
