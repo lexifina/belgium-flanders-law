@@ -2,16 +2,16 @@
   "codex_id": 1016322,
   "title": "Ministerieel besluit van 2007-10-12 betreffende het vaststellen van nadere regels met betrekking tot het bij te houden gemeten globaal energieverbruik, de webapplicatie en de vorm en inhoud van het energieprestatiecertificaat voor publieke gebouwen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016322/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "6c6af7fd63e8a1cb3b824c412f48ffcfb4e64ac14887cb10272b19b6c80fccf3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016322/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8fac90e097c3a86fb86dc703244c5f6744498e9c7125ed691249724cb002b797",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016322&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2019-01-01",
   "made": "2007-10-12",
   "gazette": "2007-11-08",
   "numac": 2007036919,
   "document_start": "2007-11-18",
   "document_end": "2018-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
