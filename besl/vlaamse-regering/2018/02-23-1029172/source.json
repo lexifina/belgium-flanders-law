@@ -2,16 +2,16 @@
   "codex_id": 1029172,
   "title": "Besluit van de Vlaamse Regering van 2018-02-23 houdende toekenning van een subsidie aan het ondersteuningsnetwerk kinderopvang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029172/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "2a185c46e2d9df607089e1afb3f13b09256d85ca85d0c389a7ec95e73b175b5f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029172/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "795f435209c78a56b2d0c6f0941d4727db38c487d897554f9fc8e160c844f1fe",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029172&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-01-01",
   "made": "2018-02-23",
   "gazette": "2018-03-30",
   "numac": 218011403,
   "document_start": "2019-01-01",
   "document_end": "2027-12-31",
-  "in_force": "2018-01-01",
-  "article_versions": 10,
-  "record_form": "consolidated version as in force on 2018-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
