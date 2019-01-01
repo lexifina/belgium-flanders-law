@@ -2,16 +2,16 @@
   "codex_id": 1029064,
   "title": "Besluit van de Vlaamse Regering van 2018-01-19 tot regeling van de Vlaamse deelname aan en/of subsidiëring van internationale onderzoeksinfrastructuren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029064/VolledigDocument?datum=2018-03-05",
-  "source_sha256": "4ff08d223e24e8ba591c5b41733a8a64becc0c981b4760591a3fc66988d1ac4d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029064/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f1368b6a3eaf03a16c72a139550167a1adb9141aab04f763d31a5e9cf42fe7ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029064&param=informatie",
-  "as_of": "2018-03-05",
+  "as_of": "2019-01-01",
   "made": "2018-01-19",
   "gazette": "2018-02-23",
   "numac": 2018030404,
   "document_start": "2018-03-05",
   "document_end": null,
-  "in_force": "2018-03-05",
+  "in_force": "2019-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2018-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

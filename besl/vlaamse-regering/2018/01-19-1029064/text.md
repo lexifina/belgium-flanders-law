@@ -92,7 +92,7 @@ De leden van de commissie Science worden door de raad van bestuur benoemd voor e
 
 ### ART 5.
 
-In dit artikel wordt verstaan onder beleidsraad : de beleidsraad, opgericht voor het beleidsdomein Economie, Wetenschap en Innovatie conform artikel 3, vierde lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br>
+In dit artikel wordt verstaan onder beleidsraad: de beleidsraad, vermeld in artikel III.1, vijfde lid, van het bestuursdecreet van 7 december 2018, die is opgericht voor het beleidsdomein Economie, Wetenschap en Innovatie.<br>
 <br>
 De raad van bestuur richt een commissie Strategie op. De leden van die commissie worden door de raad van bestuur benoemd op voordracht van de beleidsraad van het Beleidsdomein Economie, Wetenschap en Innovatie.<br>
 <br>
