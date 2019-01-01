@@ -2,16 +2,16 @@
   "codex_id": 1028872,
   "title": "Besluit van de Vlaamse Regering van 2017-11-24 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028872/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "12af3df9fbffab34368af74b33413ffd5dc1825de0afd7fbb9fcd7db4e6d2eef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028872/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "acd8c40036ff763e829bc94e34bdd111d331626f45622a51c3ed9662e98d8b95",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028872&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-01-01",
   "made": "2017-11-24",
   "gazette": "2018-01-12",
   "numac": 2017032083,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2018-01-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

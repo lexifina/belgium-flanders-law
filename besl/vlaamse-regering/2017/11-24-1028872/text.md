@@ -87,6 +87,20 @@ Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 8, eerste lid
 Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 2, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het overleg met de werknemersvertegenwoordiging.<br>
 &nbsp;
 
+### ART 7/1.
+
+Het gedeelte van de werkingstoelage, vermeld in artikel 7, tweede lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de voorziening, vermeld in artikel 2, niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
+
 ### ART 8.
 
 Een voorziening als vermeld in artikel 2, kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
@@ -125,7 +139,11 @@ Het agentschap kan binnen de grenzen van de middelen die daarvoor zijn vastgeleg
 De units voor geïnterneerden bieden ondersteuning aan personen die aan de volgende voorwaarden voldoen:<br>
 1° ze zijn geïnterneerd;<br>
 2° ze zijn door het agentschap erkend als een persoon met een handicap;<br>
-3° ze verbleven in de periode van achttien maanden voorafgaand aan de datum van de opname in de unit voor geïnterneerden minstens een dag in een gevangenis of in een forensisch psychiatrisch centrum als vermeld in artikel 3, 4°, c), van de wet van 5 mei 2014 betreffende de internering;<br>
+3° ze verblijven op het moment dat het aanvraagdocument, vermeld in artikel 21, eerste lid, 1°, wordt bezorgd aan het agentschap en op het moment van de opname in de unit voor geïnterneerden in een van de volgende inrichtingen:<br>
+a) een inrichting als vermeld in artikel 3, 4°, a), van de wet van 5 mei 2014 betreffende de internering;<br>
+b) een inrichting als vermeld in artikel 3, 4°, b), van de voormelde wet;<br>
+c) een inrichting als vermeld in artikel 3, 4°, c), van de voormelde wet;<br>
+d) een door de bevoegde overheid gesubsidieerde medium risk afdeling in het kader van het pilootproject internering of een afdeling met een voorbehouden capaciteit voor geïnterneerde personen die er verblijven onder het statuut van plaatsing, vermeld in artikel 19 van de voormelde wet, met het oog op een verdere maatschappelijke reïntegratie. Het gaat om afdelingen van de campus van het Openbaar Psychiatrisch Zorgcentrum Rekem, het Universitair Psychiatrisch Centrum Bierbeek of het Psychiatrisch Centrum Sint-Jan-Baptist Zelzate;<br>
 4° het agentschap heeft positief beslist over de aanvraag van ondersteuning door een unit voor geïnterneerden;<br>
 5° ze hebben behoefte aan voltijdse dagondersteuning en woonondersteuning in een residentiële setting met handicapspecifieke en forensische knowhow.<br>
 <br>
@@ -178,6 +196,20 @@ Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het
 <br>
 &nbsp;
 
+### ART 16/1.
+
+Het gedeelte van de werkingstoelagen, vermeld in artikel 16, eerste lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de voorziening, vermeld in artikel 10, niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
+
 ### ART 17.
 
 Een voorziening als vermeld in artikel 10, kan maximaal 3% van de personeelspunten, vermeld in artikel 16, eerste lid, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
@@ -195,7 +227,7 @@ De persoon met een handicap die ondersteund wordt door een unit voor geïnternee
 
 ### ART 19.
 
-De units voor geïnterneerden behalen een bezettingsgraad van 95%. Bij een lagere bezetting worden de personeels- en werkingssubsidies verminderd in verhouding tot de werkelijk bereikte bezetting. De bezettingsgraad wordt berekend op het aantal erkende plaatsen, vermeld in artikel 25, tweede lid.<br>
+De units voor geïnterneerden behalen een bezettingsgraad van 90%. Bij een lagere bezetting worden de personeels- en werkingssubsidies verminderd in verhouding tot de werkelijk bereikte bezetting. De bezettingsgraad wordt berekend op het aantal erkende plaatsen, vermeld in artikel 25, tweede lid.<br>
 <br>
 De units voor geïnterneerden bezorgen navolgende gegevens over de bezetting aan het agentschap:<br>
 1° het aantal personen met een handicap die worden ondersteund;<br>
