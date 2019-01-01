@@ -154,7 +154,7 @@ Het college kan een beroep doen op externe deskundigen. De externe   deskundige 
 
 ### ART. 34.
 
-Het doorlichtingsverslag, het opvolgingsverslag en het advies dat   uitgebracht werd naar aanleiding van de procedure tot opheffing van de   erkenning, kunnen worden geraadpleegd overeenkomstig de bepalingen van het   decreet van 26 maart 2004 betreffende de openbaarheid van   bestuur.<BR>
+Het doorlichtingsverslag, het opvolgingsverslag en het advies dat uitgebracht werd naar aanleiding van de procedure tot opheffing van de erkenning, kunnen worden geraadpleegd overeenkomstig de bepalingen van titel II, hoofdstuk 3, van het bestuursdecreet van 7 december 2018.
 
 ### ART. 35.
 
