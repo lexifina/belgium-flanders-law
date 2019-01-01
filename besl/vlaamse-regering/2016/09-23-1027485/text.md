@@ -81,6 +81,10 @@ Aan artikel 1, § 1, eerste lid, van het besluit van de Vlaamse Regering van 13 
 
 In artikel 14bis, eerste lid, van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen, ingevoegd bij het koninklijk besluit van 21 januari 2004 en gewijzigd bij het koninklijk 28 maart 2007 en het besluit van de Vlaamse regering van 10 juni 2016, wordt de zinsnede "artikel 9bis" vervangen door de zinsnede "artikelen 9 en 9bis".
 
+### ART 7.
+
+In artikel 14bis, eerste lid van hetzelfde besluit, ingevoegd bij het koninklijk besluit van 21 januari 2004 en gewijzigd bij het koninklijk van 28 maart 2007, en het besluit van de Vlaamse regering van 10 juni 2016, en 23 september 2016, wordt de zinsnede "artikelen 9 en 9bis" vervangen door de zinsnede "artikel 9bis".
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 8.
