@@ -213,12 +213,7 @@ Dit reglement en zijn wijzigingen worden ter goedkeuring aan de gemeenteraad voo
 <br>
 § 10. De Vlaamse Regering stelt de nadere regels voor de samenstelling, de organisatie en werkwijze van de gemeentelijke commissie voor ruimtelijke ordening vast.<br>
 <br>
-§ 11. Voor een gemeente van 10.000 inwoners of minder kan de gemeenteraad een gemotiveerd verzoek richten aan de Vlaamse Regering om vrijgesteld te worden van de verplichting om een gemeentelijke commissie voor ruimtelijke ordening op te richten. De Vlaamse Regering stuurt haar beslissing binnen vijfendertig dagen na ontvangst van het verzoek tot vrijstelling naar de gemeenteraad, zo niet wordt het verzoek geacht niet te zijn ingewilligd.<br>
-<br>
-In een gemeente die vrijstelling heeft verkregen, worden de taken van de gemeentelijke commissie voor ruimtelijke ordening waargenomen door de bevoegde gewestelijke stedenbouwkundige ambtenaar. De taken van het secretariaat worden evenwel uitgeoefend door de gemeentelijke administratie. Deze codex moet voor die gemeenten dan ook in die zin gelezen worden.<br>
-<br>
-De Vlaamse Regering kan criteria bepalen die in aanmerking komen om een vrijstelling te verkrijgen van de verplichting om een gemeentelijke commissie voor ruimtelijke ordening op te richten.<br>
-&nbsp;
+§ 11. ...
 
 ## Afdeling 4 Algemene bepaling
 
@@ -1649,7 +1644,7 @@ b) de ondergeschikte wooneenheid vormt één fysiek geheel met de hoofdwooneenhe
 c) de ondergeschikte wooneenheid, daaronder niet begrepen de met de hoofdwooneenheid gedeelde ruimten, maakt ten hoogste één derde uit van het bouwvolume van de volledige woning,<br>
 d) de creatie van de ondergeschikte wooneenheid gebeurt met het oog op het huisvesten van :<br>
 1) hetzij ten hoogste twee personen, waarvan ten minste één persoon 65 jaar of ouder is;<br>
-2) hetzij ten hoogste twee personen, waarvan ten minste één persoon die hulpbehoevend is. Een hulpbehoevende persoon is een persoon met een handicap, een persoon die in aanmerking komt voor een zorgverzekeringstegemoetkoming, een tegemoetkoming voor hulp aan bejaarden of een basisondersteuningsbudget als vermeld in artikel 4, eerste lid, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming, of een persoon die een behoefte heeft aan ondersteuning om zich in zijn thuismilieu te kunnen handhaven. De kinderen ten laste van de hulpbehoevende persoon worden niet meegerekend bij het bepalen van het maximum van twee personen;<br>
+2) hetzij ten hoogste twee personen, waarvan ten minste één persoon die hulpbehoevend is. Een hulpbehoevende persoon is een persoon met een handicap, een persoon die in aanmerking komt voor een zorgbudget voor zwaar zorgbehoevenden, een zorgbudget voor ouderen met een zorgnood of een basisondersteuningsbudget als vermeld in artikel 4, eerste lid, 1°, 2° en 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming, of een persoon die een behoefte heeft aan ondersteuning om zich in zijn thuismilieu te kunnen handhaven. De kinderen ten laste van de hulpbehoevende persoon worden niet meegerekend bij het bepalen van het maximum van twee personen;<br>
 3) hetzij de zorgverlener indien de personen, vermeld in punt 1 of 2, gehuisvest blijven in de hoofdwooneenheid.<br>
 e) de eigendom, of ten minste de blote eigendom, op de hoofd- en de ondergeschikte wooneenheid berust bij dezelfde titularis of titularissen.<br>
 &nbsp;
@@ -1870,7 +1865,7 @@ c) andere verkavelingsvoorschriften dan deze die vermeld zijn onder b), voor zov
 d) een goede ruimtelijke ordening;<br>
 2° indien de weigering genoodzaakt wordt door de decretale beoordelingselementen, vermeld in afdeling 2;<br>
 3° indien het aangevraagde onverenigbaar is met normen en percentages betreffende de verwezenlijking van een ...bescheiden woonaanbod, vastgesteld bij of krachtens het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-4° in de gevallen waarin overeenkomstig artikel 8, § 1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid geen vergunning kan worden afgeleverd.<br>
+4° in de gevallen waarin overeenkomstig&nbsp;artikel 1.3.1.1, van het decreet betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 geen vergunning kan worden afgeleverd.<br>
 <br>
 In de gevallen, vermeld in het eerste lid, 1° en 2°, kan het vergunningverlenende bestuursorgaan de vergunning toch afleveren, wanneer het van oordeel is dat de overeenstemming van het aangevraagde met het recht en de goede ruimtelijke ordening gewaarborgd kan worden door het opleggen van voorwaarden, met inbegrip van het opleggen van een beperkte aanpassing van de ter beoordeling voorgelegde plannen. Die voorwaarden kunnen niet dienen om de leemten van een onvolledige of vage aanvraag op te vangen.<br>
 <br>
@@ -2839,11 +2834,11 @@ De gegevens, vermeld in artikel 5.1.2, § 1, tweede en derde lid, worden geregis
 
 ### ART. 5.1.6.
 
-Het plannenregister, het vergunningenregister en de inhouden van beide registers, worden beschouwd als een bestuursdocument, vermeld in artikel 3, 4°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br>
+Het plannenregister, het vergunningenregister en de inhouden van beide registers, worden beschouwd als een bestuursdocument, vermeld in artikel I.4, 3°, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 Beide registers zijn toegankelijk voor het publiek in het gemeentehuis.<br>
 <br>
-Onverminderd hoofdstuk II, afdeling IV, van voormeld decreet van 26 maart 2004 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.
+Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de ambtenaren van ruimtelijke ordening,&nbsp;vermeld in de artikelen 1.4.3 en 1.4.9 van deze codex en de artikelen 9/1 en 10 van het decreet van 25 april 2014 betreffende de omgevingsvergunning op eerste verzoek, onmiddellijk een kosteloos uittreksel.
 
 ## HOOFDSTUK II Informatieplichten
 
