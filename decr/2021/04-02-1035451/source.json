@@ -2,16 +2,16 @@
   "codex_id": 1035451,
   "title": "Decreet van 2021-04-02 houdende diverse technische wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013 en gerelateerde bepalingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035451/VolledigDocument?datum=2018-06-01",
-  "source_sha256": "6ce826d88e9d5252bcb32f84a850e3f2a4b3fbdb07fb32448fe00e04b4ba9bd9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035451/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "2cb04d7cb32e8d84dcd6221a76f3cf4214e147f68eeb76181f317b6993b4ba0b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035451&param=informatie",
-  "as_of": "2018-06-01",
+  "as_of": "2019-01-01",
   "made": "2021-04-02",
   "gazette": "2021-04-15",
   "numac": 2021041255,
   "document_start": "2021-04-25",
   "document_end": null,
-  "in_force": "2018-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2018-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
