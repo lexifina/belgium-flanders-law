@@ -2,10 +2,9 @@
 
 ### ART. 1.
 
-De lijst van de andere activiteiten waarvan men overeenkomstig artikel 75 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap, ambtshalve aanneemt dat ze een groot gedeelte van de tijd van een lid van het academisch personeel in beslag nemen, wordt vastgesteld als volgt:<br>
-1° het lidmaatschap van het Europees of Belgisch parlement, van een gemeenschaps- of gewestraad, van de Commissie van de Europese Gemeenschappen, van een regering op nationaal (federaal) niveau of gemeenschaps- of gewestniveau; het ambt van gouverneur, vice-gouverneur, bestendig afgevaardigde, burgemeester, schepen of O.C.M.W.-voorzitter in een gemeente met meer dan 50 000 inwoners;<br>
-2° ...;<br>
-3° ....
+De politieke mandaten waarvan ambtshalve aangenomen wordt dat deze meer dan 20 % van een voltijdse opdracht in beslag nemen, zijn de volgende:<br>
+1° het lidmaatschap van het Europees of Belgisch parlement, van een gemeenschaps- of gewestraad, van de Commissie van de Europese Gemeenschappen, van een regering op nationaal (federaal) niveau of gemeenschaps- of gewestniveau;<br>
+2° het ambt van gouverneur, vice-gouverneur, bestendig afgevaardigde, burgemeester, schepen of voorzitter van de raad voor maatschappelijk welzijn in een gemeente met meer dan 50.000 inwoners.
 
 ### ART. 2.
 
