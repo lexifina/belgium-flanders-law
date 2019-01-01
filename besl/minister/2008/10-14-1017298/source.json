@@ -2,16 +2,16 @@
   "codex_id": 1017298,
   "title": "Ministerieel besluit van 2008-10-14 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017298/VolledigDocument?datum=2008-07-15",
-  "source_sha256": "e01bdd52c8c6e808ea95508eee29445600bd0487ad4e31470488b37930a2308e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017298/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "9eb50ea17e4df5e3d362f12461d9a90b7458bd8d4281e18dd960383772f12e5f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017298&param=informatie",
-  "as_of": "2008-07-15",
+  "as_of": "2019-01-01",
   "made": "2008-10-14",
   "gazette": "2008-11-17",
   "numac": 2008204052,
   "document_start": "2008-07-15",
   "document_end": "2018-12-31",
-  "in_force": "2008-07-15",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
