@@ -14,7 +14,23 @@ In artikel 2, § 1, eerste lid, van het decreet houdende sociaalrechtelijk toezi
 
 ## Afdeling 3. Wijzigingen van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid
 
+### ART 23.
+
+In artikel 6 van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, gewijzigd bij de decreten van 19 december 2008 en 30 april 2009, worden de volgende wijzigingen aangebracht :<br>
+<br>
+1° in punt 3° worden de woorden "de SERV" vervangen door de woorden "de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
+<br>
+2° in punt 4° worden de woorden "de SERV" telkens vervangen door de woorden "de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".
+
+### ART 24.
+
+Artikel 10 van hetzelfde decreet wordt opgeheven.
+
 ## Afdeling 4. Wijziging van het decreet van 7 mei 2004 inzake de Sociaaleconomische Raad van Vlaanderen
+
+### ART 25.
+
+Artikel 15bis van het decreet van 7 mei 2004 inzake de Sociaaleconomische Raad van Vlaanderen, ingevoegd bij het decreet van 19 december 2008 en gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
 
 ## HOOFDSTUK 3. Slotbepalingen
 
