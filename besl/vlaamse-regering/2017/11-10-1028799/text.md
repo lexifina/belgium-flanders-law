@@ -23,11 +23,11 @@ Besluit :<br>
 
 ### ART 1.
 
-De leer- en ervaringsbewijzendatabank, vermeld in artikel 19 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, wordt erkend als authentieke gegevensbron als vermeld in artikel 3 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+De leer- en ervaringsbewijzendatabank, vermeld in artikel 19 van het decreet van 30 april 2009 betreffende de kwalificatiestructuur, wordt erkend als authentieke gegevensbron als vermeld in artikel III.66 van het bestuursdecreet van 7 december 2018.
 
 ### ART 2.
 
-Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, wordt aangewezen als beheersinstantie als vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 april 2009 tot oprichting van het intern verzelfstandigd Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, wordt aangewezen als beheersinstantie als vermeld in artikel 3 van besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018.
 
 ### ART 3.
 

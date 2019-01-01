@@ -2,16 +2,16 @@
   "codex_id": 1028799,
   "title": "Besluit van de Vlaamse Regering van 2017-11-10 houdende de erkenning van de leer- en ervaringsbewijzendatabank als authentieke gegevensbron",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028799/VolledigDocument?datum=2017-12-22",
-  "source_sha256": "11fc31125372c72b09c30bd59e2dced8b7d6201b764b5aeb8f581a14c997a32f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028799/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f9a485e1ffcb2b31bc00c390550b0e5af51ac5a754d44451a614ee8d46b1614b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028799&param=informatie",
-  "as_of": "2017-12-22",
+  "as_of": "2019-01-01",
   "made": "2017-11-10",
   "gazette": "2017-12-12",
   "numac": 2017031743,
   "document_start": "2017-12-22",
   "document_end": null,
-  "in_force": "2017-12-22",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
