@@ -2,16 +2,16 @@
   "codex_id": 1027785,
   "title": "Decreet van 2016-12-23 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027785/VolledigDocument?datum=2017-09-26",
-  "source_sha256": "519d2a2ea989b6d62fe17859c539963421e53a93f843026ca8b6bc0fa76b109e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027785/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "404351c916113e5bc068f406a17d7d73a6ffe588dd43ccb06945486e399be63a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027785&param=informatie",
-  "as_of": "2017-09-26",
+  "as_of": "2019-01-01",
   "made": "2016-12-23",
   "gazette": "2017-01-26",
   "numac": 2017020088,
   "document_start": "2017-09-26",
   "document_end": "2018-12-31",
-  "in_force": "2017-09-26",
+  "in_force": "2019-01-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2017-09-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
