@@ -83,7 +83,7 @@ De minister erkent de adviesdiensten op voorstel van de beheersdienst.<br>
 <br>
 Een adviesdienst wordt erkend om advies te verlenen over alle modules.<br>
 <br>
-Bestuursinstanties, zoals omschreven in artikel 3, 1°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur kunnen niet erkend worden als adviesdienst.<br>
+Instanties als vermeld in artikel I.3 van het bestuursdecreet van 7 december 2018, kunnen niet erkend worden als adviesdienst.<br>
 &nbsp;
 
 ### ART. 8.
