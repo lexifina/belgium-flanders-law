@@ -4,17 +4,55 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° aanvrager :   rechtspersoon die erkend is of voldoet aan de wettelijke voorwaarden om zorg- en   dienstverlening te organiseren in het kader van de persoonsgebonden   aangelegenheden en die een aanvraag tot het verkrijgen van een   investeringssubsidie of investeringswaarborg indient<BR>2° investering : kosten   voor bouw-, uitbreidings- en verbouwingswerkzaamheden, aankoop van   infrastructuur, uitrusting of apparatuur, met uitzondering van de aankoop van   grond<BR>3° investeringssubsidie : subsidie als rechtstreekse of onrechtstreekse   bijdrage in de kostprijs of de financiering van de investering door een   aanvrager, overeenkomstig de bepalingen van het decreet van 23 februari 1994   inzake de infrastructuur voor persoonsgebonden aangelegenheden<BR>4°   subsidiebelofte: verbintenis, die op het lopende begrotingsjaar wordt   vastgelegd, om voor een investering een investeringssubsidie toe te   kennen;<BR>5° ...;<BR>6° project : het voorwerp van de geplande investering,   zoals omschreven in het masterplan, waarvoor een investeringssubsidie of   investeringswaarborg wordt gevraagd<BR>7° ...;<BR>8° masterplan : globale en   beschrijvende schets met kostenraming van het geplande project of de geplande   projecten, met vermelding van de doelgroep, de capaciteit, de   uitvoeringstermijnen en toekomstige ontwikkelingen, met daarbij een financieel   plan in verhouding tot de verwachte exploitatie;<BR>9° nieuwbouw: een nieuwe   bouwconstructie met een eigen, autonome en functionele bestemming in de   persoonsgebonden aangelegenheden, die een ruwbouw bevat;<BR>10° uitbreiding: het   bouwen van een nieuwe bouwconstructie aan of bij een bestaande constructie die   een functionele bestemming in de persoonsgebonden aangelegenheden heeft of voor   dergelijke bestemming in aanmerking komt en waarbij de nieuwe constructie   functioneel aansluit;<BR>11° aankoop: de verwerving van een gebouw dat in   aanmerking komt voor een functionele bestemming in de persoonsgebonden   aangelegenheden;<BR>12° verbouwing: elke materiële ingreep, met uitzondering van   uitbreiding alsmede van de onderhoudswerken of de door slijtage noodzakelijke   vervangingswerken, tot verbetering of vernieuwing van een gebouw met een   functionele bestemming in de persoonsgebonden aangelegenheden, of dat voor een   dergelijke functionele bestemming in aanmerking komt;<BR>13° lokaal   dienstencentrum : een voorziening als vermeld in artikel 16 van het   woonzorgdecreet van 13 maart 2009;<BR>14° regionaal dienstencentrum : een   voorziening als vermeld in artikel 20 van het woonzorgdecreet van 13 maart   2009;<BR>15° dagverzorgingscentrum : een voorziening als vermeld in artikel 25   van het woonzorgdecreet van 13 maart 2009;<BR>16° centrum voor kortverblijf :   een voorziening als vermeld in artikel 30 van het woonzorgdecreet van 13 maart   2009; <BR>17° woonzorgcentrum : een voorziening als vermeld in artikel 37 van   het woonzorgdecreet van 13 maart 2009;<BR>18° voorziening voor ouderen : een   dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum;   <BR>19° voorziening in de thuiszorg : een lokaal dienstencentrum of een   regionaal dienstencentrum; <BR>20° subsidiabele oppervlakte: de som van de per   bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in   aanmerking wordt genomen voor subsidiëring.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° aanvrager : rechtspersoon die erkend is of voldoet aan de wettelijke voorwaarden om zorg- en dienstverlening te organiseren in het kader van de persoonsgebonden aangelegenheden en die een aanvraag tot het verkrijgen van een investeringssubsidie of investeringswaarborg indient<br>
+2° investering : kosten voor bouw-, uitbreidings- en verbouwingswerkzaamheden, aankoop van infrastructuur, uitrusting of apparatuur, met uitzondering van de aankoop van grond<br>
+3° investeringssubsidie : subsidie als rechtstreekse of onrechtstreekse bijdrage in de kostprijs of de financiering van de investering door een aanvrager, overeenkomstig de bepalingen van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden<br>
+4° subsidiebelofte: verbintenis, die op het lopende begrotingsjaar wordt vastgelegd, om voor een investering een investeringssubsidie toe te kennen;<br>
+5° ...;<br>
+6° project : het voorwerp van de geplande investering, zoals omschreven in het masterplan, waarvoor een investeringssubsidie of investeringswaarborg wordt gevraagd<br>
+7° ...;<br>
+8° masterplan : globale en beschrijvende schets met kostenraming van het geplande project of de geplande projecten, met vermelding van de doelgroep, de capaciteit, de uitvoeringstermijnen en toekomstige ontwikkelingen, met daarbij een financieel plan in verhouding tot de verwachte exploitatie;<br>
+9° nieuwbouw: een nieuwe bouwconstructie met een eigen, autonome en functionele bestemming in de persoonsgebonden aangelegenheden, die een ruwbouw bevat;<br>
+10° uitbreiding: het bouwen van een nieuwe bouwconstructie aan of bij een bestaande constructie die een functionele bestemming in de persoonsgebonden aangelegenheden heeft of voor dergelijke bestemming in aanmerking komt en waarbij de nieuwe constructie functioneel aansluit;<br>
+11° aankoop: de verwerving van een gebouw dat in aanmerking komt voor een functionele bestemming in de persoonsgebonden aangelegenheden;<br>
+12° verbouwing: elke materiële ingreep, met uitzondering van uitbreiding alsmede van de onderhoudswerken of de door slijtage noodzakelijke vervangingswerken, tot verbetering of vernieuwing van een gebouw met een functionele bestemming in de persoonsgebonden aangelegenheden, of dat voor een dergelijke functionele bestemming in aanmerking komt;<br>
+13° lokaal dienstencentrum : een voorziening als vermeld in artikel 16 van het woonzorgdecreet van 13 maart 2009;<br>
+14° ...;<br>
+15° dagverzorgingscentrum : een voorziening als vermeld in artikel 25 van het woonzorgdecreet van 13 maart 2009;<br>
+16° centrum voor kortverblijf : een voorziening als vermeld in artikel 30 van het woonzorgdecreet van 13 maart 2009;<br>
+17° woonzorgcentrum : een voorziening als vermeld in artikel 37 van het woonzorgdecreet van 13 maart 2009;<br>
+18° voorziening voor ouderen : een dagverzorgingscentrum, een centrum voor kortverblijf of een woonzorgcentrum;<br>
+19° voorziening in de thuiszorg : een lokaal dienstencentrum;<br>
+20° subsidiabele oppervlakte: de som van de per bouwlaag berekende nuttige vloeroppervlakte, buitenmuren inbegrepen, die in aanmerking wordt genomen voor subsidiëring.
 
 ### ART. 2.
 
-Dit besluit stelt de totale investeringssubsidie en de bouwtechnische normen vast voor lokale dienstencentra, regionale dienstencentra, dagverzorgingscentra, centra voor kortverblijf en woonzorgcentra.
+Dit besluit stelt de totale investeringssubsidie en de bouwtechnische normen vast voor lokale dienstencentra,&nbsp;dagverzorgingscentra, centra voor kortverblijf en woonzorgcentra.
 
 ## HOOFDSTUK II BOUWTECHNISCHE EN BOUWFYSISCHE NORMEN
 
 ### ART. 3.
 
-§ 1. De algemene bouwtechnische en de bouwfysische normen waaraan de   infrastructuur met een functionele bestemming in de sector van de voorzieningen   voor ouderen en voorzieningen in de thuiszorg moet voldoen om voor een   investeringssubsidie in aanmerking te komen, zijn:<BR>1° de regelgeving over de   brandveiligheid;<BR>2° de regelgeving over de toegang van gehandicapten tot   gebouwen toegankelijk voor het publiek;<BR>3° de regelgeving over de eisen en   handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat   voor gebouwen en tot invoering van een energieprestatiecertificaat;<BR>4°   ...<BR>5° ...<BR>6° het Algemeen Reglement inzake elektrische   installaties;<BR>7° de typebestekken, opgesteld door het Vlaams ministerie van   Mobiliteit en Openbare Werken;<BR>8° de regelgeving over de stedenbouw en   ruimtelijke ordening;<BR>9° de regelgeving over de milieuvergunningen;<BR>10°   indien van toepassing, de regelgeving houdende integratie van kunstwerken in   gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de   overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de   Vlaamse Gemeenschap behoren.<BR><BR>§ 2. De specifieke bouwtechnische en   bouwfysische normen waaraan de infrastructuur met een functionele bestemming in   de sector van de voorzieningen voor ouderen en voorzieningen in de thuiszorg   moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :   <BR>1° voor de woonzorgcentra : de specifieke erkenningsvoorwaarden, opgenomen   in bijlage XII bij het besluit van de Vlaamse Regering van 24 juli 2009   betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling   voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers,   inzonderheid de voorwaarden die betrekking hebben op de zorg en kwaliteit van de   zorg en de infrastructuur; <BR>2° voor de voorzieningen in de thuiszorg, de   dagverzorgingscentra en de centra voor kortverblijf : de specifieke   erkenningsvoorwaarden, opgenomen in bijlagen VI, VII, IX en XI bij het besluit,   vermeld in punt 1°, inzonderheid de voorwaarden die betrekking hebben op de   infrastructuur.<BR><BR>§ 3. De bouwfysische normen, vermeld in paragraaf 1 en 2,   gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne,   comfort en bescherming van de arbeid.<BR><BR>§ 4. Innovatieve pilootprojecten,   geselecteerd na een oproep door de Vlaamse minister, bevoegd voor de bijstand   aan personen, kunnen van het Fonds een afwijking krijgen van de specifieke   erkenningsvoorwaarden, vermeld in paragraaf 2. Afwijkingen worden alleen   verleend als ze tot doel hebben de levenskwaliteit van de bewoners van de   innovatieve pilootprojecten te verhogen. De Vlaamse minister, bevoegd voor de   bijstand aan personen, bepaalt daarvoor de bijkomende   selectiecriteria.
+§ 1. De algemene bouwtechnische en de bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de voorzieningen voor ouderen en voorzieningen in de thuiszorg moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn:<br>
+1° de regelgeving over de brandveiligheid;<br>
+2° de regelgeving over de toegang van gehandicapten tot gebouwen toegankelijk voor het publiek;<br>
+3° de regelgeving over de eisen en handhavingsmaatregelen op het vlak van de energieprestaties en het binnenklimaat voor gebouwen en tot invoering van een energieprestatiecertificaat;<br>
+4° ...<br>
+5° ...<br>
+6° het Algemeen Reglement inzake elektrische installaties;<br>
+7° de typebestekken, opgesteld door het Vlaams ministerie van Mobiliteit en Openbare Werken;<br>
+8° de regelgeving over de stedenbouw en ruimtelijke ordening;<br>
+9° de regelgeving over de milieuvergunningen;<br>
+10° indien van toepassing, de regelgeving houdende integratie van kunstwerken in gebouwen van openbare diensten en daarmee gelijkgestelde diensten en van door de overheid gesubsidieerde inrichtingen, verenigingen en instellingen die tot de Vlaamse Gemeenschap behoren.<br>
+<br>
+§ 2. De specifieke bouwtechnische en bouwfysische normen waaraan de infrastructuur met een functionele bestemming in de sector van de voorzieningen voor ouderen en voorzieningen in de thuiszorg moet voldoen om voor een investeringssubsidie in aanmerking te komen, zijn :<br>
+1° voor de woonzorgcentra : de specifieke erkenningsvoorwaarden, opgenomen in bijlage XII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, inzonderheid de voorwaarden die betrekking hebben op de zorg en kwaliteit van de zorg en de infrastructuur;<br>
+2° voor de voorzieningen in de thuiszorg, de dagverzorgingscentra en de centra voor kortverblijf : de specifieke erkenningsvoorwaarden, opgenomen in bijlagen VI,&nbsp;IX en XI bij het besluit, vermeld in punt 1°, inzonderheid de voorwaarden die betrekking hebben op de infrastructuur.<br>
+<br>
+§ 3. De bouwfysische normen, vermeld in paragraaf 1 en 2, gelden met behoud van de toepassing van de wetgeving over veiligheid, hygiëne, comfort en bescherming van de arbeid.<br>
+<br>
+§ 4. Innovatieve pilootprojecten, geselecteerd na een oproep door de Vlaamse minister, bevoegd voor de bijstand aan personen, kunnen van het Fonds een afwijking krijgen van de specifieke erkenningsvoorwaarden, vermeld in paragraaf 2. Afwijkingen worden alleen verleend als ze tot doel hebben de levenskwaliteit van de bewoners van de innovatieve pilootprojecten te verhogen. De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt daarvoor de bijkomende selectiecriteria.
 
 ## HOOFDSTUK III SUBSIDIABELE OPPERVLAKTE
 
@@ -23,7 +61,7 @@ Dit besluit stelt de totale investeringssubsidie en de bouwtechnische normen vas
 § 1. De subsidiabele oppervlakte bedraagt maximaal:<br>
 1° voor de woonzorgcentra : 65 m2 per woongelegenheid als alle kamers van het woonzorgcentrum waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur;<br>
 2° voor de lokale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br>
-3° voor de regionale dienstencentra: de aanvaarde noodzakelijke oppervlakte voor de gemeenschappelijke voorzieningen voor dienstverlening met een maximum van 600 m2 per dienstencentrum;<br>
+3° ...;<br>
 4° voor de dagverzorgingscentra: 300 m2 per dagverzorgingscentrum;<br>
 5° voor de centra voor kortverblijf : 65 m2 per woongelegenheid als alle kamers van het centrum voor kortverblijf waarin de ouderen individueel verblijven, met inbegrip van hun sanitaire cellen, een oppervlakte hebben van 25 m2 of groter. Als dat niet het geval is, wordt de maximale subsidiabele oppervlakte van 65 m2 per woongelegenheid voor die woongelegenheden die kleiner zijn dan 25 m2, met het verschil in kameroppervlakte verminderd. Voor de woongelegenheden die wel beschikken over een oppervlakte van 25 m2 of groter is dan de maximale subsidiabele oppervlakte 65 m2 per woongelegenheid. De oppervlakte van de kamers, met inbegrip van hun sanitaire cellen, wordt gemeten tussen de assen van de drie binnenmuren en de buitenzijde van de buitenmuur.<br>
 <br>
@@ -38,11 +76,11 @@ Dit besluit stelt de totale investeringssubsidie en de bouwtechnische normen vas
 § 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is vastgesteld op:<br>
 1° voor de woonzorgcentra: 550 euro per m2;<br>
 2° voor de lokale dienstencentra: 500 euro per m2;<br>
-3° voor de regionale dienstencentra: 500 euro per m2;<br>
+3° ...;<br>
 4° voor de dagverzorgingscentra: 550 euro per m2;<br>
 5° voor de centra voor kortverblijf: 550 euro per m2.<br>
 <br>
-§ 2. Voor een nieuwbouw van een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, 2°, 3° of 4°, dan verdeeld op de volgende wijze:<br>
+§ 2. Voor een nieuwbouw van een lokaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor nieuwbouw wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor nieuwbouw, vermeld in paragraaf 1, 2°, 3° of 4°, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
 2° afwerking: 25%;<br>
 3° uitrusting en meubilering: 10%.<br>
@@ -54,7 +92,7 @@ De projectfase ruwbouw, vermeld in het eerste lid, omvat de gevelsluiting, boven
 § 1. Het basisbedrag van de investeringssubsidie voor uitbreiding is vastgesteld op:<br>
 1° voor de ruwbouw, de technische uitrusting en de afwerking van de woonzorgcentra: 500 euro per m2;<br>
 2° voor de ruwbouw, de technische uitrusting en de afwerking van de lokale dienstencentra: 450 euro per m2;<br>
-3° voor de ruwbouw, de technische uitrusting en de afwerking van de regionale dienstencentra: 450 euro per m2;<br>
+3° ...;<br>
 4° voor de ruwbouw, de technische uitrusting en de afwerking van de dagverzorgingscentra: 500 euro per m2;<br>
 5° voor de ruwbouw, de technische uitrusting en de afwerking van de centra voor kortverblijf: 500 euro per m2;<br>
 6° voor de uitrusting en meubilering: 60 % van de goedgekeurde raming.<br>
@@ -63,7 +101,7 @@ Het basisbedrag, bedoeld in het eerste lid, 6°, wordt, indien nodig, verminderd
 <br>
 § 2. De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding zoals bepaald in § 1 kan niet hoger zijn dan het basisbedrag van de investeringssubsidie voor nieuwbouw zoals bepaald in artikel 5, § 1.<br>
 <br>
-§ 3. Voor een uitbreiding van een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreiding, vermeld in paragraaf 1, 2°, 3° of 4°, dan verdeeld op de volgende wijze:<br>
+§ 3. Voor een uitbreiding van een lokaal dienstencentrum of een dagverzorgingscentrum kan een subsidiebelofte worden toegekend voor de projectfasen technische uitrusting, afwerking, uitrusting en meubilering, ook al is de projectfase ruwbouw al aangevat of gerealiseerd voordat de subsidiebelofte voor uitbreiding wordt aangevraagd. De projectfase ruwbouw wordt dan niet gesubsidieerd. Een subsidiebelofte voor de projectfase uitrusting en meubilering alleen is niet mogelijk. Bij de subsidiebelofte wordt de investeringssubsidie voor uitbreiding, vermeld in paragraaf 1, 2° of 4°, dan verdeeld op de volgende wijze:<br>
 1° technische uitrusting: 30%;<br>
 2° afwerking: 25%.<br>
 <br>
@@ -77,9 +115,9 @@ De totale som van het basisbedrag van de investeringssubsidie voor uitbreiding, 
 
 Het basisbedrag van de investeringssubsidie voor verbouwing is vastgesteld op 60 % van de goedgekeurde raming. Dit basisbedrag wordt, indien nodig, verminderd op basis van de eindafrekening. De te veel ontvangen investeringssubsidie moet onmiddellijk worden terugbetaald.<br>
 <br>
-Het basisbedrag van de totale investeringssubsidie voor verbouwing mag ten hoogste 75 % van het in artikel 6, § 1, 1° tot en met 5° bepaalde basisbedrag van de investeringssubsidie voor uitbreiding bedragen.<br>
+Het basisbedrag van de totale investeringssubsidie voor verbouwing mag ten hoogste 75 % van het in artikel 6, § 1, eerste lid, 1°, 2°, 4° of 5° bepaalde basisbedrag van de investeringssubsidie voor uitbreiding bedragen.<br>
 <br>
-Voor een lokaal dienstencentrum, een regionaal dienstencentrum of een dagverzorgingscentrum mag, in afwijking van het tweede lid, het basisbedrag van de totale investeringssubsidie voor verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de voorziening in kwestie, vermeld in artikel 6, § 1, eerste lid, 2°, 3° of 4°, en § 2, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
+Voor een lokaal dienstencentrum of een dagverzorgingscentrum mag, in afwijking van het tweede lid, het basisbedrag van de totale investeringssubsidie voor verbouwing ten hoogste 100% bedragen van het basisbedrag van de investeringssubsidie voor uitbreiding van de voorziening in kwestie, vermeld in&nbsp;artikel 6, § 1, eerste lid, 2° of 4°, en § 2, als het gaat om een ingrijpende duurzame verbouwing waardoor de realisatie gelijkwaardig wordt aan een nieuwbouw. Die verbouwing voldoet aan al de volgende voorwaarden:<br>
 1° het betreft een renovatie waarbij de technische installaties om een specifiek binnenklimaat te realiseren, volledig worden vervangen en minstens 75% van de bestaande en nieuwe scheidingsconstructies die het beschermd volume omhullen en die grenzen aan de buitenomgeving, worden geïsoleerd, behalve bij die erfgoedgebouwen waar zulke renovatie niet haalbaar blijkt;<br>
 2° het project voldoet aan de minimumeisen en de voorwaarden voor comfort en gebruik van energie, water en materialen, zoals bepaald door de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 3° het gebouw heeft een functionaliteit die gelijkwaardig is aan een nieuwbouw.<br>
@@ -91,7 +129,9 @@ In het derde lid, 1°, wordt verstaan onder erfgoedgebouw:<br>
 
 ### ART. 8.
 
-Behalve bij een lokaal dienstencentrum, een regionaal dienstencentrum of   een dagverzorgingscentrum komt een aankoop alleen in aanmerking voor een   investeringssubsidie als hij gepaard gaat met en wordt gevolgd door   verbouwingswerkzaamheden.<BR><BR>Het basisbedrag van de investeringssubsidie   voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen,   bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld   in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door   het comité van aankoop geschatte venale waarde van het gebouw en de aan de   aankoop verbonden en bewezen notariskosten en registratiebelasting of   registratierechten of btw, in aanmerking komen voor de   investeringssubsidie.
+Behalve bij een lokaal dienstencentrum of een dagverzorgingscentrum komt een aankoop alleen in aanmerking voor een investeringssubsidie als hij gepaard gaat met en wordt gevolgd door verbouwingswerkzaamheden.<br>
+<br>
+Het basisbedrag van de investeringssubsidie voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door het comité van aankoop geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratiebelasting of registratierechten of btw, in aanmerking komen voor de investeringssubsidie.
 
 ### ART. 9.
 
