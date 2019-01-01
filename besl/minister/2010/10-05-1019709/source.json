@@ -2,16 +2,16 @@
   "codex_id": 1019709,
   "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van GIS-medewerker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019709/VolledigDocument?datum=2010-11-19",
-  "source_sha256": "936033208c3d26f3525ee6244766850914a5e6ce5a1cc0ad4f591879eaa4f916",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019709/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "18893030c5ed4b37bd842d916a0a11df33452dad5185b7d56b1d499a48d7282b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019709&param=informatie",
-  "as_of": "2010-11-19",
+  "as_of": "2019-01-01",
   "made": "2010-10-05",
   "gazette": "2010-11-19",
   "numac": 2010205356,
   "document_start": "2010-11-19",
   "document_end": "2018-12-31",
-  "in_force": "2010-11-19",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-11-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
