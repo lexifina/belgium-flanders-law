@@ -28,7 +28,22 @@ Dit decreet heeft tot doel de bloei van een professioneel en kwalitatief,   duur
 
 ### ART. 6.
 
-Dit decreet voorziet daartoe in de volgende instrumenten:<BR>1° beurzen en   projectsubsidies voor kunstenaars;<BR>2° kunstenaarstoelagen;<BR>3°   projectsubsidies voor organisaties;<BR>4° werkingssubsidies voor   organisaties;<BR>5° beheersovereenkomsten met kunstinstellingen en   ondersteunende organisaties;<BR>6° overeenkomsten in functie van internationale   promotie;<BR>7° kunstaankopen;<BR>8° een protocol met de Vlaamse   Gemeenschapscommissie en representatieve organisaties die de belangen behartigen   van de Vlaamse provincies en van de Vlaamse steden en gemeenten.<BR><BR>De   instrumenten, vermeld in het eerste lid, worden toegepast met inachtneming van   de volgende voorwaarden, vermeld in de algemene groepsvrijstellingsverordening   :<BR>1° dossiers waar ten aanzien van de subsidieontvanger er een bevel tot   terugvordering uitstaat ingevolge een eerder besluit van de Europese Commissie   waarbij de steun onrechtmatig en onverenigbaar is verklaard met de interne   markt, zijn uitgesloten;<BR>2° dossiers van subsidieontvangers die voldoen aan   de definitie van "onderneming in moeilijkheden", vermeld in de algemene   groepsvrijstellingsverordening, zijn uitgesloten;<BR>3° bij de berekening van de   steunintensiteit en de in aanmerking komende kosten zijn alle bedragen die   worden gebruikt, de bedragen vóór aftrek van belastingen of andere heffingen. De   in aanmerking komende kosten worden gestaafd met bewijsstukken, die duidelijk   gespecifieerd en actueel zijn;<BR>4° wanneer steun in een andere vorm dan een   subsidie wordt toegekend, is het steunbedrag het bruto-subsidie-equivalent van   de steun;<BR>5° steun die in meerdere delen wordt uitgekeerd wordt gedisconteerd   tot de waarde ervan op het tijdstip van de toekenning van de steun. De in   aanmerking komende kosten worden gedisconteerd tot hun waarde op het tijdstip   van de toekenning van de steun.<BR>
+Dit decreet voorziet daartoe in de volgende instrumenten:<br>
+1° beurzen en projectsubsidies voor kunstenaars;<br>
+2° ...;<br>
+3° projectsubsidies voor organisaties;<br>
+4° werkingssubsidies voor organisaties;<br>
+5° beheersovereenkomsten met kunstinstellingen en ondersteunende organisaties;<br>
+6° overeenkomsten in functie van internationale promotie;<br>
+7° kunstaankopen;<br>
+8° ...<br>
+<br>
+De instrumenten, vermeld in het eerste lid, worden toegepast met inachtneming van de volgende voorwaarden, vermeld in de algemene groepsvrijstellingsverordening :<br>
+1° dossiers waar ten aanzien van de subsidieontvanger er een bevel tot terugvordering uitstaat ingevolge een eerder besluit van de Europese Commissie waarbij de steun onrechtmatig en onverenigbaar is verklaard met de interne markt, zijn uitgesloten;<br>
+2° dossiers van subsidieontvangers die voldoen aan de definitie van "onderneming in moeilijkheden", vermeld in de algemene groepsvrijstellingsverordening, zijn uitgesloten;<br>
+3° bij de berekening van de steunintensiteit en de in aanmerking komende kosten zijn alle bedragen die worden gebruikt, de bedragen vóór aftrek van belastingen of andere heffingen. De in aanmerking komende kosten worden gestaafd met bewijsstukken, die duidelijk gespecifieerd en actueel zijn;<br>
+4° wanneer steun in een andere vorm dan een subsidie wordt toegekend, is het steunbedrag het bruto-subsidie-equivalent van de steun;<br>
+5° steun die in meerdere delen wordt uitgekeerd wordt gedisconteerd tot de waarde ervan op het tijdstip van de toekenning van de steun. De in aanmerking komende kosten worden gedisconteerd tot hun waarde op het tijdstip van de toekenning van de steun.
 
 ## HOOFDSTUK 2 Organisatie kunstenbeleid
 
@@ -61,11 +76,14 @@ Het Kunstensteunpunt werkt daarvoor in dialoog met de door de Vlaamse Regering a
 
 ### ART. 8.
 
-<P>§ 1. De Vlaamse Regering sluit met de Vlaamse Gemeenschapscommissie en met de   representatieve organisaties die de belangen behartigen van de Vlaamse   provincies en van de Vlaamse steden en gemeenten een protocol dat minstens   bepalingen bevat over de wijze waarop:<BR>1° de Vlaamse provincies, de Vlaamse   steden en gemeenten en de Vlaamse Gemeenschapscommissie:<BR>a) hun   beleidsintenties voor de actoren in het kunstenveld, gevestigd op hun   grondgebied, kenbaar maken;<BR>b) betrokken worden bij de opmaak van de   strategische visienota, vermeld in artikel 7;<BR>2° de Vlaamse provincies, de   Vlaamse steden en gemeenten, en in voorkomend geval de Vlaamse   Gemeenschapscommissie, waar organisaties gevestigd zijn die een vijfjarige   werkingssubsidie aanvragen, gehoord worden na de beoordelingsprocedure; <BR>3°   de Vlaamse steden of gemeenten, en in voorkomend geval de Vlaamse   Gemeenschapscommissie, waar de kunstinstellingen, vermeld in artikel 68,   gevestigd zijn, betrokken worden bij het sluiten van de beheersovereenkomsten   met de kunstinstellingen.<BR></P>  <P>Het protocol kan andere aspecten in verband met een complementair   kunstenbeleid bevatten, voor zover daarbij geen bijkomende bevoegdheden worden   toegekend.<BR><BR>§ 2. Het protocol als vermeld in § 1 is van kracht voor de   duur van de legislatuur.<BR><BR>§ 3. In afwijking van § 2 is de representatieve   organisatie die de belangen behartigt van de Vlaamse provincies partij bij het   protocol tot en met 31 december 2016.<BR></P>
+De Vlaamse Regering betrekt de Vlaamse steden en gemeenten en de Vlaamse Gemeenschapscommissie bij de uitvoering van dit decreet door minstens:<br>
+1° bij de opmaak van de strategische visienota, vermeld in artikel 7, een schriftelijke bijdrage te vragen van de Vlaamse steden en gemeenten en aan de Vlaamse Gemeenschapscommissie, waarin ze hun visie formuleren op het belang en de ontwikkeling van kunstenorganisaties met een Vlaamse of internationale uitstraling die op hun grondgebied gevestigd zijn, in relatie tot hun lokale kunstenbeleid;<br>
+2° de Vlaamse steden en gemeenten, en in voorkomend geval de Vlaamse Gemeenschapscommissie, waarin kunstenorganisaties gevestigd zijn die een werkingssubsidie aanvragen, te horen na de beoordelingsprocedure, als ze daarom verzoeken;<br>
+3° de Vlaamse steden en gemeenten en, in voorkomend geval, de Vlaamse Gemeenschapscommissie, waarin de kunstinstellingen, vermeld in artikel 68, gevestigd zijn, te betrekken bij het sluiten van de beheersovereenkomsten met die organisaties.
 
 ### ART. 9.
 
-De Vlaamse Regering bepaalt nader de procedure voor het sluiten van een   protocol.<BR>
+...
 
 ## TITEL 3 Subsidies aan kunstenaars en organisaties
 
@@ -133,7 +151,39 @@ De Vlaamse Regering kan een projectsubsidie voor een kunstenaar toekennen.   Een
 
 ### ART. 23.
 
-<P>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk   aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<BR>1° de   aanvrager is betrokken bij het kunstgebeuren binnen de Vlaamse   Gemeenschap;<BR>2° de aanvrager is professioneel actief in de   kunstensector;<BR>3° de activiteiten behoren niet tot de activiteiten, vermeld   in artikel 11.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst, toetsen een ontvankelijk aanvraagdossier aan de volgende   criteria:<BR>1° kwaliteit inhoudelijk concept en concrete uitwerking;<BR>2°   kwaliteit zakelijk beheer:<BR>a) het sporen van de artistieke met de zakelijke   planning;<BR>b) een haalbare en realistische begroting;<BR>c) aandacht voor een   correcte vergoeding voor kunstenaars;<BR>3° positionering en samenwerking;<BR>4°   landelijke en/of internationale betekenis;<BR>5° indien van toepassing, de   nadere bepaling door de Vlaamse Regering van de criteria.<BR></P>  <P>§ 3. Het criterium 'kwaliteit inhoudelijk concept en concrete uitwerking'   wordt voor projectsubsidies specifiek ingevuld per functie als volgt:<BR>1° voor   de functie ontwikkeling:<BR>a) kwaliteit van het artistiek onderzoek en   experiment;<BR>b) bijdrage aan de ontwikkeling van het traject van de   kunstenaar;<BR>2° voor de functie productie:<BR>a) kwaliteit van het creatie- en   productieproces;<BR>b) kwaliteit van het artistieke resultaat;<BR>c) visie op   distributie en publieksbereik;<BR>3° voor de functie presentatie:<BR>a)   kwaliteit van het gepresenteerde artistieke resultaat;<BR>b) kwaliteit van de   presentatiecontext;<BR>c) visie op en uitwerking van de publiekswerking;<BR>4°   voor de functie participatie:<BR>a) kwaliteit van de participatieve concepten en   methodieken;<BR>b) kwaliteit van de procesbegeleiding;<BR>c) betrokkenheid van   de deelnemers;<BR>5° voor de functie reflectie:<BR>a) kwaliteit van de reflectie   over de kunst(praktijk) en/of het kunstenveld, voor zover er een betrokkenheid   is met het kunstenveld in het Nederlandse taalgebied en/of in het tweetalige   gebied Brussel-Hoofdstad;<BR>b) kwaliteit van de wijze waarop de reflectie   toegankelijk gemaakt wordt.<BR></P>
+<p>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<br>
+1° de aanvrager is betrokken bij het kunstgebeuren binnen de Vlaamse Gemeenschap;<br>
+2° de aanvrager is professioneel actief in de kunstensector;<br>
+3° de activiteiten behoren niet tot de activiteiten, vermeld in artikel 11.</p>
+
+<p>§ 2. Een commissie als vermeld in artikel 44 toetst een ontvankelijk aanvraagdossier aan de volgende criteria:<br>
+1° de kwaliteit van het inhoudelijke concept en de concrete uitwerking;<br>
+2° de kwaliteit van het zakelijke beheer, meer bepaald:<br>
+a) de kwaliteit van het zakelijke beheer en de haalbaarheid van de begroting;<br>
+b) de aandacht voor een correcte vergoeding van kunstenaars;<br>
+3° de landelijke en/of internationale positionering, samenwerking en betekenis;<br>
+4° de mate waarin het aanvraagdossier een of meer aandachtspunten uitvoert uit de strategische visienota, vermeld in artikel 7, § 2, 5° ;<br>
+5° voor zover dat van toepassing is, de nadere bepaling van de criteria door de Vlaamse Regering.</p>
+
+<p>§ 3. Het criterium 'kwaliteit inhoudelijk concept en concrete uitwerking' wordt voor projectsubsidies specifiek ingevuld per functie als volgt:<br>
+1° voor de functie ontwikkeling:<br>
+a) kwaliteit van het artistiek onderzoek en experiment;<br>
+b) bijdrage aan de ontwikkeling van het traject van de kunstenaar;<br>
+2° voor de functie productie:<br>
+a) kwaliteit van het creatie- en productieproces;<br>
+b) kwaliteit van het artistieke resultaat;<br>
+c) visie op distributie en publieksbereik;<br>
+3° voor de functie presentatie:<br>
+a) kwaliteit van het gepresenteerde artistieke resultaat;<br>
+b) kwaliteit van de presentatiecontext;<br>
+c) visie op en uitwerking van de publiekswerking;<br>
+4° voor de functie participatie:<br>
+a) kwaliteit van de participatieve concepten en methodieken;<br>
+b) kwaliteit van de procesbegeleiding;<br>
+c) betrokkenheid van de deelnemers;<br>
+5° voor de functie reflectie:<br>
+a) kwaliteit van de reflectie over de kunst(praktijk) en/of het kunstenveld, voor zover er een betrokkenheid is met het kunstenveld in het Nederlandse taalgebied en/of in het tweetalige gebied Brussel-Hoofdstad;<br>
+b) kwaliteit van de wijze waarop de reflectie toegankelijk gemaakt wordt.</p>
 
 ### ART. 24.
 
@@ -145,7 +195,9 @@ De Vlaamse Regering kan een projectsubsidie voor een kunstenaar toekennen.   Een
 
 ### ART. 25.
 
-§ 1. De Vlaamse Regering kan een werkingssubsidie toekennen. Een   werkingssubsidie ondersteunt een organisatie bij de uitvoering van een werking   die inzet op een of meerdere functies en disciplines voor een periode van vijf   jaar. Een aanvraag wordt ingediend bij de door de Vlaamse Regering aangewezen   dienst uiterlijk op 1 oktober van het voorlaatste jaar dat voorafgaat aan een   vijfjarige subsidieperiode.<BR><BR>§ 2. Bij de aanvang van elk werkingsjaar mag   de Vlaamse Regering de werkingssubsidies aanpassen ter financiering van de extra   personeelsuitgaven die voortvloeien uit de stijging van het indexcijfer op basis   waarvan de salarissen van de Vlaamse ambtenaren worden berekend. Onder   voorbehoud van de toepassing van artikel 4, worden deze werkingssubsidies   aangepast binnen de perken van de door het Vlaams Parlement goedgekeurde   kredieten.
+§ 1. De Vlaamse Regering kan een werkingssubsidie toekennen. Een werkingssubsidie ondersteunt een organisatie bij de uitvoering van een werking die inzet op een of meerdere functies en disciplines voor een periode van vijf jaar. Een aanvraag wordt ingediend bij de door de Vlaamse Regering aangewezen dienst uiterlijk op 1 december van het voorlaatste jaar dat voorafgaat aan een vijfjarige subsidieperiode.<br>
+<br>
+§ 2. Bij de aanvang van elk werkingsjaar mag de Vlaamse Regering de werkingssubsidies aanpassen ter financiering van de extra personeelsuitgaven die voortvloeien uit de stijging van het indexcijfer op basis waarvan de salarissen van de Vlaamse ambtenaren worden berekend. Onder voorbehoud van de toepassing van artikel 4, worden deze werkingssubsidies aangepast binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten.
 
 ### ART. 26.
 
@@ -157,7 +209,44 @@ Een aanvraagdossier voor een werkingssubsidie omvat:<BR>1° een toelichting   va
 
 ### ART. 28.
 
-<P>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk   aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<BR>1°   minstens drie jaar professionele activiteit in de kunstensector kunnen   aantonen;<BR>2° de samenwerking met kunstenaars en kunstenorganisaties is   uitgewerkt, indien de aanvraag inzet op de functie participatie;<BR>3° de   activiteiten behoren niet tot de activiteiten, vermeld in artikel 11.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst toetsen een ontvankelijk aanvraagdossier aan de volgende   criteria:<BR>1° kwaliteit inhoudelijk concept en concrete uitwerking;<BR>2°   kwaliteit zakelijk beheer:<BR>a) het sporen van de artistieke met de zakelijke   planning;<BR>b) een haalbare en realistische begroting;<BR>c) de evenwichtige   samenstelling van de raad van bestuur, rekening houdend met maatschappelijke en   culturele diversiteit;<BR>d) de wijze waarop de organisatie bestuurd   wordt;<BR>e) een kwaliteitsvol personeelsbeleid voeren met bijzondere aandacht   voor de correcte vergoeding van kunstenaars;<BR>3° kwaliteit voorbije   werking;<BR>4° positionering en samenwerking;<BR>5° landelijke en/of   internationale betekenis;<BR>6° kennisopbouw en kennisdeling;<BR>7°   maatschappelijke en culturele diversiteit;<BR>8° ondersteuning van kunstenaars,   met specifieke aandacht voor startende kunstenaars;<BR>9° indien van toepassing,   de nadere bepaling door de Vlaamse Regering van de criteria.<BR></P>  <P>§ 3. Het criterium 'kwaliteit inhoudelijk concept en concrete uitwerking'   wordt voor werkingssubsidies specifiek ingevuld per functie als volgt:<BR>1°   voor de functie ontwikkeling:<BR>a) visie op en kwaliteit van de begeleidings-   en ondersteuningsfunctie en/of van het artistiek onderzoek, het experiment en de   artistieke vernieuwing;<BR>2° voor de functie productie:<BR>b) visie op en   kwaliteit van het creatie- en productieproces;<BR>c) kwaliteit van het artistiek   resultaat;<BR>d) visie op distributie en publieksbereik;<BR>3° voor de functie   presentatie:<BR>a) kwaliteit van het programma;<BR>b) kwaliteit van de   presentatiecontext;<BR>c) visie op en uitwerking van de publiekswerking;<BR>4°   voor de functie participatie:<BR>a) kwaliteit van de participatieve concepten en   methodieken;<BR>b) kwaliteit van de procesbegeleiding;<BR>c) betrokkenheid van   de deelnemers;<BR>5° voor de functie reflectie:<BR>a) kwaliteit van de reflectie   over de kunst(praktijk) en/of over het kunstenveld, voor zover er een   betrokkenheid is met het kunstenveld in het Nederlandse taalgebied en/of in het   tweetalige gebied Brussel-Hoofdstad;<BR>b) kwaliteit van de wijze waarop de   reflectie toegankelijk gemaakt wordt.<BR></P>
+<p>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<br>
+1° minstens drie jaar professionele activiteit in de kunstensector kunnen aantonen;<br>
+2° de samenwerking met kunstenaars en kunstenorganisaties is uitgewerkt, indien de aanvraag inzet op de functie participatie;<br>
+3° de activiteiten behoren niet tot de activiteiten, vermeld in artikel 11.<br>
+<br>
+§ 2. Een commissie als vermeld in artikel 44 toetst een ontvankelijk aanvraagdossier aan de volgende criteria:<br>
+1° de kwaliteit van het inhoudelijk concept en de concrete uitwerking;<br>
+2° de kwaliteit van het zakelijke beheer:<br>
+a) de kwaliteit van het zakelijke beheer en de haalbaarheid van de begroting;<br>
+b) de evenwichtige samenstelling van de raad van bestuur, rekening houdend met maatschappelijke en culturele diversiteit;<br>
+c) de wijze waarop de organisatie bestuurd wordt;<br>
+d) een kwaliteitsvol personeelsbeleid, met bijzondere aandacht voor de correcte vergoeding van kunstenaars;<br>
+3° de kwaliteit van de voorbije werking;<br>
+4° de landelijke en/of internationale positionering, samenwerking en betekenis;<br>
+5° de kennisopbouw en kennisdeling;<br>
+6° de maatschappelijke en culturele diversiteit;<br>
+7° de ondersteuning van kunstenaars, met specifieke aandacht voor startende kunstenaars;<br>
+8° de mate waarin het aanvraagdossier een of meer aandachtspunten uitvoert uit de strategische visienota, vermeld in artikel 7, § 2, 5° ;<br>
+9° voor zover dat van toepassing is, de nadere bepaling van de criteria door de Vlaamse Regering.<br>
+<br>
+§ 3. Het criterium 'kwaliteit inhoudelijk concept en concrete uitwerking' wordt voor werkingssubsidies specifiek ingevuld per functie als volgt:<br>
+1° voor de functie ontwikkeling:<br>
+a) visie op en kwaliteit van de begeleidings- en ondersteuningsfunctie en/of van het artistiek onderzoek, het experiment en de artistieke vernieuwing;<br>
+2° voor de functie productie:<br>
+b) visie op en kwaliteit van het creatie- en productieproces;<br>
+c) kwaliteit van het artistiek resultaat;<br>
+d) visie op distributie en publieksbereik;<br>
+3° voor de functie presentatie:<br>
+a) kwaliteit van het programma;<br>
+b) kwaliteit van de presentatiecontext;<br>
+c) visie op en uitwerking van de publiekswerking;<br>
+4° voor de functie participatie:<br>
+a) kwaliteit van de participatieve concepten en methodieken;<br>
+b) kwaliteit van de procesbegeleiding;<br>
+c) betrokkenheid van de deelnemers;<br>
+5° voor de functie reflectie:<br>
+a) kwaliteit van de reflectie over de kunst(praktijk) en/of over het kunstenveld, voor zover er een betrokkenheid is met het kunstenveld in het Nederlandse taalgebied en/of in het tweetalige gebied Brussel-Hoofdstad;<br>
+b) kwaliteit van de wijze waarop de reflectie toegankelijk gemaakt wordt.</p>
 
 ### ART. 29.
 
@@ -179,7 +268,12 @@ Een aanvraagdossier is samengesteld als vermeld in artikel   22.<BR>
 
 ### ART. 33.
 
-<P>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk   aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<BR>1° de   aanvrager is professioneel actief in de kunstensector;<BR>2° de samenwerking met   kunstenaars en kunstenorganisaties is uitgewerkt, indien de aanvraag inzet op de   functie participatie;<BR>3° de activiteiten behoren niet tot de activiteiten,   vermeld in artikel 11.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst toetsen een ontvankelijk aanvraagdossier aan de criteria,   vermeld in artikel 23, § 2, en in artikel 23, § 3.<BR></P>
+<p>§ 1. Een commissie als vermeld in artikel 44, gaat na of een ontvankelijk aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<br>
+1° de aanvrager is professioneel actief in de kunstensector;<br>
+2° de samenwerking met kunstenaars en kunstenorganisaties is uitgewerkt, indien de aanvraag inzet op de functie participatie;<br>
+3° de activiteiten behoren niet tot de activiteiten, vermeld in artikel 11.</p>
+
+<p>§ 2. Een commissie als vermeld in artikel 44 toetst een ontvankelijk aanvraagdossier aan de criteria, vermeld in artikel 23, § 2, en in artikel 23, § 3.</p>
 
 ## HOOFDSTUK 4 Bepalingen inzake het oormerken van subsidies
 
@@ -199,7 +293,19 @@ Van de projectsubsidies voorbehouden aan kunstenaars en organisaties wordt   een
 
 ### ART. 36.
 
-<P>§ 1. De Vlaamse Regering benoemt een pool van beoordelaars voor de opmaak van   het artistiek-inhoudelijke advies over aanvraagdossiers.<BR></P>  <P>§ 2. De Vlaamse Regering benoemt een beoordelaar omwille van zijn   deskundigheid over onderdelen van het kunstenveld, over bepaalde functies of   disciplines.<BR></P>  <P>De Vlaamse Regering bepaalt nader de vereisten waaraan een beoordelaar   voldoet. De Vlaamse Regering kan zich hiervoor laten adviseren door de   Adviescommissie Kunsten, vermeld in artikel 39.<BR></P>  <P>§ 3. De Vlaamse Regering benoemt een beoordelaar voor een periode van vijf   jaar. De Vlaamse Regering vervangt uiterlijk om de vijf jaar de helft van de   beoordelaars.<BR></P>  <P>Een beoordelaar kan opeenvolgend maximum twee mandaten vervullen.<BR></P>  <P>§ 4. De Vlaamse Regering bepaalt nader de regels voor de samenstelling en   aanstelling van de pool van beoordelaars.<BR></P>  <P>§ 5. De Vlaamse Regering bepaalt nader de procedure voor het ontslag van een   beoordelaar.<BR></P>
+<p>§ 1. De Vlaamse Regering benoemt een pool van beoordelaars.</p>
+
+<p>§ 2. De Vlaamse Regering benoemt een beoordelaar omwille van zijn deskundigheid over onderdelen van het kunstenveld, over bepaalde functies of disciplines.</p>
+
+<p>De Vlaamse Regering bepaalt nader de vereisten waaraan een beoordelaar voldoet. De Vlaamse Regering kan zich hiervoor laten adviseren door de Adviescommissie Kunsten, vermeld in artikel 39.</p>
+
+<p>§ 3. De Vlaamse Regering benoemt een beoordelaar voor een periode van vijf jaar. De Vlaamse Regering vervangt uiterlijk om de vijf jaar de helft van de beoordelaars.</p>
+
+<p>Een beoordelaar kan opeenvolgend maximum twee mandaten vervullen.</p>
+
+<p>§ 4. De Vlaamse Regering bepaalt nader de procedureregels voor de samenstelling en aanstelling van de pool van beoordelaars.</p>
+
+<p>§ 5. De Vlaamse Regering bepaalt nader de procedure voor het ontslag van een beoordelaar.</p>
 
 ### ART. 37.
 
@@ -213,7 +319,28 @@ Van de projectsubsidies voorbehouden aan kunstenaars en organisaties wordt   een
 
 ### ART. 39.
 
-<P>§ 1. De Vlaamse Regering richt een Adviescommissie Kunsten op voor de   algemene kwalitatieve monitoring van de artistiek-inhoudelijke beoordeling. De   Adviescommissie Kunsten werkt binnen het referentiekader van de visienota,   vermeld in artikel 7.<BR></P>  <P>§ 2. De Vlaamse Regering benoemt een voorzitter en de leden van de   Adviescommissie Kunsten.<BR></P>  <P>§ 3. De kerntaken van de Adviescommissie Kunsten zijn:<BR>1° waken over een   kwaliteitsvol proces van de artistiek-inhoudelijke beoordeling en daartoe de   visie, de methodiek en de evaluatie ontwikkelen;<BR>2° beleidsgericht advies   formuleren over de kwaliteitsbeoordeling;<BR>3° erop toezien dat het proces van   artistiek-inhoudelijke beoordeling plaatsvindt binnen het kader van de   visienota, vermeld in artikel 7.<BR></P>  <P>§ 4. De Vlaamse Regering benoemt een lid van de Adviescommissie Kunsten   omwille van zijn totaalvisie op het kunstenveld.<BR></P>  <P>De Vlaamse Regering bepaalt nader de vereisten waaraan een lid van de   Adviescommissie Kunsten voldoet.<BR></P>  <P>§ 5. De Vlaamse Regering benoemt een lid van de Adviescommissie Kunsten voor   een periode van vijf jaar. De Vlaamse Regering vervangt uiterlijk om de vijf   jaar de helft van de leden.<BR></P>  <P>Een lid van de Adviescommissie Kunsten kan opeenvolgend maximum twee mandaten   vervullen.<BR></P>  <P>§ 6. De Vlaamse Regering bepaalt nader de regels voor de samenstelling en   aanstelling van de Adviescommissie Kunsten.<BR></P>  <P>§ 7. De Vlaamse Regering bepaalt nader de procedure voor het ontslag van een   lid van de Adviescommissie Kunsten.<BR></P>
+<p>§ 1. De Vlaamse Regering richt een Adviescommissie Kunsten op voor de algemene kwalitatieve monitoring van de beoordeling. De Adviescommissie Kunsten werkt binnen het referentiekader van de strategische visienota, vermeld in artikel 7.</p>
+
+<p>§ 2. De Vlaamse Regering benoemt een voorzitter en de leden van de Adviescommissie Kunsten.</p>
+
+<p>§ 3. De kerntaken van de Adviescommissie Kunsten zijn:<br>
+1° waken over een kwaliteitsvol proces van de beoordeling en daartoe de visie, de methodiek en de evaluatie ontwikkelen;<br>
+2° beleidsgericht advies formuleren over de kwaliteitsbeoordeling;<br>
+3° erop toezien dat het proces van beoordeling plaatsvindt binnen het kader van de strategische visienota, vermeld in artikel 7;<br>
+4° op metaniveau nagaan of de commissies rekening houden met de replieken in de definitieve adviezen, zoals is opgenomen in artikel 45, § 3;<br>
+5° een methodologische toetsing uitvoeren op de afstemming van het voorontwerp van beslissing op de strategische visienota, vermeld in artikel 46, § 1, die is opgemaakt door de door de Vlaamse Regering aangewezen dienst.</p>
+
+<p>§ 4. De Vlaamse Regering benoemt een lid van de Adviescommissie Kunsten omwille van zijn totaalvisie op het kunstenveld.</p>
+
+<p>De Vlaamse Regering bepaalt nader de vereisten waaraan een lid van de Adviescommissie Kunsten voldoet.</p>
+
+<p>§ 5. De Vlaamse Regering benoemt een lid van de Adviescommissie Kunsten voor een periode van vijf jaar. De Vlaamse Regering vervangt uiterlijk om de vijf jaar de helft van de leden.</p>
+
+<p>Een lid van de Adviescommissie Kunsten kan opeenvolgend maximum twee mandaten vervullen.</p>
+
+<p>§ 6. De Vlaamse Regering bepaalt nader de regels voor de samenstelling en aanstelling van de Adviescommissie Kunsten.</p>
+
+<p>§ 7. De Vlaamse Regering bepaalt nader de procedure voor het ontslag van een lid van de Adviescommissie Kunsten.</p>
 
 ### ART. 40.
 
@@ -233,23 +360,63 @@ Een beoordelaar als vermeld in artikel 36, kan geen lid zijn van de   Adviescomm
 
 ### ART. 43.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst beheert een   aanvraagdossier als vermeld in artikel 12. De door de Vlaamse Regering   aangewezen dienst treft de nodige voorbereidingen voor de   kwaliteitsbeoordeling.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst gaat de   toekenningsvoorwaarden na, vermeld in artikel 96, § 1, in artikel 119, § 1, in   artikel 133, § 1, in artikel 146, § 1, in artikel 154, § 1, in artikel 160, § 1,   en beoordeelt de kwaliteit van de zakelijke en de beheersmatige aspecten van een   ontvankelijk aanvraagdossier aan de hand van de criteria, vermeld in artikel 23,   § 2, in artikel 23, § 3, in artikel 28, § 2, in artikel 28, § 3, in artikel 33,   § 2, in artikel 88, in artikel 96, § 2, in artikel 110, § 2, in artikel 119, §   2, in artikel 133, § 2, in artikel 146, § 2, in artikel 154, § 2, in artikel   160, § 2, of in artikel 175, en stelt een gemotiveerd advies op, inclusief een   indicatieve waardering.<BR></P>  <P>§ 3. De door de Vlaamse Regering aangewezen dienst groepeert aanvraagdossiers   die vergelijkbare functies of disciplines aangeven als kenmerkend voor het   artistieke initiatief.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst beheert een aanvraagdossier als vermeld in artikel 12. De door de Vlaamse Regering aangewezen dienst treft de nodige voorbereidingen voor de kwaliteitsbeoordeling.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst controleert de toekenningsvoorwaarden, vermeld in artikel 119, § 1, artikel 133, § 1, artikel 146, § 1, artikel 154, § 1, en artikel 160, § 1. Daarnaast beoordeelt de dienst een ontvankelijk aanvraagdossier aan de hand van de criteria, vermeld in artikel 119, § 2, 133, § 2, en 146, § 2, en stelt een ontwerp van beslissing op, inclusief een gemotiveerd advies.</p>
+
+<p>§ 3. De door de Vlaamse Regering aangewezen dienst groepeert aanvraagdossiers die vergelijkbare functies of disciplines aangeven als kenmerkend voor het artistieke initiatief.</p>
 
 ### ART. 44.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst duidt voor de beoordeling   van vergelijkbare aanvraagdossiers een commissie en een voorzitter als vermeld   in artikel 38, § 1, aan.<BR></P>  <P>Bij de samenstelling van een commissie houdt de door de Vlaamse Regering   aangewezen dienst rekening met de functies en de disciplines die de   aanvraagdossiers kenmerken.<BR></P>  <P>De Vlaamse Regering bepaalt nader het aantal beoordelaars in een   commissie.<BR></P>  <P>De Vlaamse Regering bepaalt nader de methode en de procedure die de door de   Vlaamse Regering aangewezen dienst hanteert voor de aanduiding van commissies.   De Vlaamse Regering kan hiervoor advies inwinnen bij de Adviescommissie Kunsten,   vermeld in artikel 39.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst bezorgt alle nuttige   informatie, nodig om tot een kwaliteitsvolle inhoudelijke beoordeling te komen,   aan een commissie. Indien er voor het aanvraagdossier een zakelijk advies   vereist is, zorgt de door de Vlaamse Regering aangewezen dienst voor een   voorlopige zakelijke en beheersmatige toetsing inclusief de in dicatieve   waardering van een aanvraagdossier bij de aanvang van de artistiek-inhoudelijke   toetsing door een commissie.<BR></P>  <P>§ 3. Een commissie gaat de toekenningsvoorwaarden na, vermeld in artikel 11,   artikel 17, § 1, in artikel 20, § 1, in artikel 23, § 1, in artikel 28, § 1,   artikel 33, § 1, in artikel 92, in artikel 110, § 1, en beoordeelt de kwaliteit   van de artistiek-inhoudelijke aspecten van een ontvankelijk aanvraagdossier aan   de hand van de criteria, vermeld in artikel 17, § 2, in artikel 20, § 2, in   artikel 23, § 2, in artikel 23, § 3, in artikel 28, § 2, in artikel 28, § 3, in   artikel 33, § 2, in artikel 88, in artikel 110, § 2, in artikel 154, § 2, in   artikel 160, § 2, in artikel 167, § 1, of in artikel 175, en stelt een   gemotiveerd artistiek-inhoudelijk advies op, inclusief een indicatieve   waardering binnen de hen toegewezen budgettaire ruimte.<BR></P>
+§ 1. De Vlaamse Regering wijst per commissie een aantal vaste beoordelaars aan voor de beoordeling van vergelijkbare aanvraagdossiers voor werkingssubsidies, projectsubsidies en beurzen.<br>
+<br>
+Het aantal vaste beoordelaars bestaat uit minstens een derde en minder dan de helft van het totale aantal beoordelaars per commissie.<br>
+<br>
+Artikel 36, § 2, § 3 en § 5, en artikel 37 zijn van overeenkomstige toepassing op de vaste beoordelaars.<br>
+<br>
+De Vlaamse Regering bepaalt het aantal beoordelaars in een commissie nader.<br>
+<br>
+De door de Vlaamse Regering aangewezen dienst, wijst bij elke nieuwe aanvraagronde de voorzitter en de aanvullende wisselende beoordelaars van een commissie aan uit de pool van voorzitters, vermeld in artikel 38, en uit de pool van beoordelaars, vermeld in artikel 36, rekening houdend met de functies en disciplines die de aanvraagdossiers kenmerken.<br>
+<br>
+De Vlaamse Regering bepaalt de methode en de procedure voor de aanduiding van commissies nader. De Vlaamse Regering kan daarvoor advies inwinnen bij de Adviescommissie Kunsten, vermeld in artikel 39.<br>
+<br>
+§ 2. De door de Vlaamse Regering aangewezen dienst, bezorgt aan een commissie alle nuttige informatie die de commissie nodig heeft om tot een kwaliteitsvolle beoordeling te komen, inclusief een voorbereiding van de beoordeling van het criterium "kwaliteit zakelijk beheer", vermeld in artikel 23, § 2, 2°, artikel 28, § 2, 2°, artikel 33, § 2, en artikel 175, of de zakelijke of financiële aspecten van een ontvankelijk aanvraagdossier, vermeld in artikel 154, § 2, artikel 160, § 2, of artikel 160, § 3.<br>
+<br>
+§ 3. Een commissie controleert de toekenningsvoorwaarden, vermeld in artikel 11, artikel 17, § 1, artikel 20, § 1, artikel 23, § 1, artikel 28, § 1, artikel 33, § 1, en artikel 92. Daarnaast beoordeelt de commissie de kwaliteit van een ontvankelijk aanvraagdossier aan de hand van de criteria, vermeld in artikel 17, § 2, artikel 20, § 2, artikel 23, § 2, artikel 23, § 3, artikel 28, § 2, artikel 28, § 3, artikel 33, § 2, artikel 154, § 2, artikel 160, § 2, artikel 160, § 3, of artikel 175, en stelt ze een gemotiveerd advies op, inclusief een indicatieve waardering over het volgen of beperken van de gevraagde subsidie bij een positief advies. In het geval van een werkingssubsidie gaat het om een gemotiveerd voorlopig advies.<br>
+<br>
+§ 4. Elke aanvrager van een werkingssubsidie als vermeld in artikel 25 of elke indiener van een beleidsplan als vermeld in artikel 83 wordt gehoord over het ingediende aanvraagdossier door de commissie die het dossier zal beoordelen, met als doel elementen van het aanvraagdossier te verduidelijken.<br>
+<br>
+De datum van de hoorzitting valt vóór de datum waarop de advisering plaatsheeft.
 
 ### ART. 45.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst stelt een voorlopig   voorstel van beslissing op over alle aspecten van een aanvraagdossier van een   werkingssubsidie als vermeld in artikel 6, 4°. <BR></P>  <P>§ 2. Als er bij de beoordeling van een aanvraagdossier voor een   werkingssubsidie, een grote discrepantie bestaat tussen het advies van de   commissie en het advies van de door de Vlaamse Regering aangewezen dienst,   houden beide partijen een deliberatiemoment. Tijdens het deliberatiemoment   streven beide partijen ernaar hun advies zo veel mogelijk op elkaar af te   stemmen.<BR></P>  <P>§ 3. Een aanvrager van een werkingssubsidie ontvangt het voorlopig voorstel   van beslissing.<BR></P>  <P>De Vlaamse Regering bepaalt nader de procedure voor het bezorgen van het   voorlopig voorstel van beslissing en de wijze waarop de voorstellen van   beslissing openbaar worden gemaakt.<BR></P>  <P>§ 4. Het voorlopig voorstel van beslissing omvat:<BR>1° het advies over de   zakelijke en de beheersmatige aspecten;<BR>2° het artistiek-inhoudelijke   advies.<BR></P>  <P>§ 5.Een aanvrager van een werkingssubsidie kan verhaal indienen tegen een van   de adviezen vervat in het voorlopige voorstel van beslissing, bedoeld in § 4, 1°   en 2°, als dit negatief is.<BR></P>  <P>Het verhaal behelst het oorspronkelijk ingediende dossier en mag geen nieuwe   artistiek-inhoudelijke noch nieuwe zakelijke elementen bevatten.<BR></P>  <P>Het verhaal bevat de nodige argumenten waaruit zou blijken dat het   beoordelingsproces niet zorgvuldig is gebeurd.<BR></P>  <P>De Vlaamse Regering duidt op 1 oktober van het voorlaatste jaar dat   voorafgaat aan een vijfjarige subsidieperiode een commissie aan die het verhaal   beoordeelt op zijn ontvankelijkheid.<BR></P>  <P>De Vlaamse Regering kan nader de vereisten bepalen waaraan een lid van een   commissie die een verhaal beoordeelt op zijn ontvankelijkheid voldoet.</P>  <P><BR>De Vlaamse Regering bepaalt nader de regels voor de samenstelling en   aanstelling van de commissie die een verhaal beoordeelt op zijn   ontvankelijkheid.<BR></P>  <P>Een lid van de commissie die een verhaal beoordeelt op zijn ontvankelijkheid   ontvangt een vergoeding voor zijn of haar werkzaamheden en verplaatsingen. De   Vlaamse Regering bepaalt nader de hoogte van de vergoedingen.<BR></P>  <P>De beoordeling van de ontvankelijkheid gebeurt op basis van de volgende   elementen:<BR>1° correctheid van de gevolgde procedure bij de beoordeling van   het subsidiedossier;<BR>2° correctheid van de gevolgde methodiek bij de   beoordeling van het subsidiedossier;<BR>3° validiteit van de aangevoerde   argumenten door de aanvrager van het verhaal.<BR></P>  <P>Bij onontvankelijkheid van het verhaal eindigt de verhaalprocedure en blijft   het oorspronkelijke voorlopige voorstel van beslissing gelden.<BR></P>  <P>De Vlaamse Regering bepaalt nader welke gegevens en documenten een verhaal   bevat, en op welke wijze en wanneer een verhaal ingediend wordt.<BR></P>  <P>§ 6. De door de Vlaamse Regering aangewezen dienst behandelt de zakelijke en   de beheersmatige aspecten van het verhaalrecht, vermeld in paragraaf 5.<BR></P>  <P>§ 7. De door de Vlaamse Regering aangewezen dienst duidt uit de pool van   beoordelaars een commissie van minimaal vijf leden aan voor de behandeling van   de artistiek-inhoudelijke aspecten van een ontvankelijk verhaal.<BR></P>  <P>Deze beoordelaars waren niet betrokken bij de opmaak van het   artistiek-inhoudelijke advies over het betrokken aanvraagdossier.<BR><BR>§ 8.   Een aanvrager van een werkingssubsidie kan een schriftelijke reactie indienen op   een van de adviezen vervat in het voorlopige voorstel van beslissing, bedoeld in   § 4, 1° en 2°, als dit positief is.<BR><BR>De schriftelijke reactie behelst het   oorspronkelijk ingediende dossier en mag geen nieuwe artistiek-inhoudelijke noch   nieuwe zakelijke elementen bevatten.<BR><BR>De commissie die het oorspronkelijk   ingediende dossier beoordeeld heeft aangevuld met een lid dat niet betrokken was   bij het advies vervat in het voorlopig voorstel van beslissing, behandelt de   artistiek-inhoudelijke aspecten van de schriftelijke reactie.<BR><BR>De door de   Vlaamse Regering aangewezen dienst behandelt de zakelijke en de beheersmatige   aspecten van de schriftelijke reactie.<BR><BR>De termijn waarbinnen een   aanvrager een schriftelijke reactie kan indienen, bedraagt tien werkdagen na de   dag waarop het voorlopige voorstel van beslissing naar de betrokken organisatie   is verstuurd. Na het verstrijken van de voormelde termijn bestaat er geen   gelegenheid meer om een schriftelijke reactie in te dienen.<BR><BR>De Vlaamse   Regering bepaalt nader welke gegevens en documenten een schriftelijke reactie   bevat en op welke wijze een schriftelijke reactie ingediend   wordt.<BR></P>
+§ 1. De door de Vlaamse Regering aangewezen dienst, bezorgt het voorlopige advies aan de aanvrager van een werkingssubsidie als vermeld in artikel 25 of aan de indiener van een beleidsplan als vermeld in artikel 83.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze nader waarop de voorlopige adviezen openbaar worden gemaakt.<br>
+<br>
+§ 2. Een aanvrager van een werkingssubsidie als vermeld in artikel 25 of een indiener van een beleidsplan als vermeld in artikel 83 kan een repliek formuleren op het voorlopige advies en bezorgt die aan de door de Vlaamse Regering aangewezen dienst, binnen een termijn van tien werkdagen na het bezorgen van het voorlopige advies.<br>
+<br>
+In de repliek kan de aanvrager of indiener alleen reageren op feitelijke onjuistheden in het voorlopige advies. Alleen de feitelijke onjuistheden waarop gereageerd wordt in de repliek, kunnen aanleiding geven tot een aanpassing van het voorlopige advies.<br>
+<br>
+§ 3. Rekening houdend met de repliek, vermeld in paragraaf 2, formuleert de bevoegde commissie een definitief advies, inclusief een indicatieve waardering, als vermeld in artikel 44, § 3.<br>
+<br>
+§ 4. Zowel bij beurzen, projecten als werkingssubsidies stelt de bevoegde commissie een rangorde op voor alle dossiers die ze beoordeeld heeft, rekening houdend met de beoordelingscriteria en, in geval van projecten en werkingssubsidies, de aandachtspunten uit de strategische visienota, vermeld in artikel 7, § 2, 5°.<br>
+<br>
+Als vergelijkbare dossiers over verschillende commissies verdeeld worden, houden de betrokken voorzitters een overlegmoment om de rangorde over alle door hen beoordeelde vergelijkbare dossiers te bepalen.
 
 ### ART. 46.
 
-<P>De door de Vlaamse Regering aangewezen dienst stelt een voorstel van   beslissing op over alle aspecten van een aanvraagdossier.<BR></P>  <P>Een voorstel van beslissing omvat een voorstel over de toekenning van een   subsidie en:<BR>1° indien vereist het advies over de zakelijke en de   beheersmatige aspecten;<BR>2° het artistiek-inhoudelijke advies;<BR>3° indien   van toepassing de behandeling van het verhaalrecht door de door de Vlaamse   Regering aangewezen dienst;<BR>4° indien van toepassing de behandeling van het   verhaalrecht door de commissie die is aangesteld voor de artistiek-inhoudelijke   aspecten van het verhaalrecht;<BR>5° indien van toepassing de behandeling van de   schriftelijke reactie door de door de Vlaamse Regering aangewezen dienst;<BR>6°   indien van toepassing de behandeling van de schriftelijke reactie door de   commissie die het oorspronkelijke dossier beoordeeld heeft;<BR>7° een voorstel   over de grootte van het toe te kennen subsidiebedrag of van het toe te kennen   subsidiebedrag per werkjaar.<BR></P>
+§ 1. De door de Vlaamse Regering aangewezen dienst, stelt een voorontwerp van beslissing op over het geheel van de voorliggende dossiers op basis van de adviezen of definitieve adviezen en de rangordes van de commissies, vermeld in artikel 45, § 3.<br>
+<br>
+Het voorontwerp van beslissing is afgestemd op de strategische visienota, vermeld in artikel 7, en op het beschikbare budget.<br>
+<br>
+§ 2. De Adviescommissie Kunsten voert een methodologische toetsing uit op de afstemming van het voorontwerp van beslissing aan de strategische visienota, ter uitvoering van haar opdracht, vermeld in artikel 39. Ze levert daarover binnen tien werkdagen een advies af aan de door de Vlaamse Regering aangewezen dienst.<br>
+<br>
+§ 3. De door de Vlaamse Regering aangewezen dienst, stelt een ontwerp van beslissing op over het geheel van de voorliggende dossiers op basis van het voorontwerp van beslissing en het advies van de Adviescommissie Kunsten.
 
 ### ART. 47.
 
-De Vlaamse Regering beslist over de toekenning van een subsidie, de duur   van een subsidieperiode en de grootte van het toegekende subsidiebedrag of het   toegekende subsidiebedrag per werkjaar, op basis van het gemotiveerd advies,   vermeld in artikel 43, § 2, en in artikel 44, § 3, en het voorstel van   beslissing, vermeld in artikel 46.<BR>
+De Vlaamse Regering beslist over de toekenning van een subsidie, de duur van een subsidieperiode en de grootte van het toegekende subsidiebedrag of het toegekende subsidiebedrag per werkjaar, op basis van het ontwerp van beslissing, vermeld in artikel 46, § 3.
 
 ### ART. 48.
 
@@ -257,7 +424,13 @@ De Vlaamse Regering kan de beoordelings- en de toekenningsprocedure nader   bepa
 
 ### ART. 49.
 
-<P>De Vlaamse Regering beslist ten laatste zes maanden voor het begin van een   subsidieperiode over de toekenning van een werkingssubsidie.<BR></P>  <P>Indien de Vlaamse Regering niet tijdig beslist over de toekenning van een   werkingssubsidie, verlengt de duur van de subsidieperiode van organisaties die   al een werkingssubsidie ontvangen in uitvoering van het Kunstendecreet, met één   werkjaar. Onder voorbehoud van de toepassing van artikel 4 is het voor dat   werkjaar uitgekeerde subsidiebedrag gelijk aan het door de Vlaamse Regering   bepaalde subsidiebedrag per werkjaar uit de vorige   subsidieperiode.<BR></P>
+<p>De Vlaamse Regering beslist ten laatste op 1 oktober van het jaar voor het begin van een subsidieperiode over de toekenning van een werkingssubsidie.</p>
+
+<p>Indien de Vlaamse Regering niet tijdig beslist over de toekenning van een werkingssubsidie, verlengt de duur van de subsidieperiode van organisaties die al een werkingssubsidie ontvangen in uitvoering van het Kunstendecreet, met één werkjaar. Onder voorbehoud van de toepassing van artikel 4 is het voor dat werkjaar uitgekeerde subsidiebedrag gelijk aan het door de Vlaamse Regering bepaalde subsidiebedrag per werkjaar uit de vorige subsidieperiode.<br>
+<br>
+De organisaties waaraan een werkingssubsidie wordt toegekend, passen het ingediende aanvraagdossier of beleidsplan aan tot een geactualiseerd beleidsplan, rekening houdend met het toegekende subsidiebedrag en met de eventuele overwegingen bij de subsidiebeslissing van de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering bepaalt nader de gegevens en documenten die een geactualiseerd beleidsplan bevat, de inhoudelijke en vormelijke voorwaarden waaraan het voldoet en de wijze en het tijdstip waarop het wordt ingediend.</p>
 
 ## HOOFDSTUK 6 Bepalingen over betaling, toezicht, reserve en sanctie
 
@@ -282,11 +455,30 @@ De Vlaamse Regering kan de beoordelings- en de toekenningsprocedure nader   bepa
 
 ### ART. 51.
 
-<P>§ 1. Een subsidieontvanger voldoet aan elk van de volgende   subsidievoorwaarden:<BR>1° tijdig een verantwoordingsdossier indienen;<BR>2° een   volledig verantwoordingsdossier indienen;<BR>3° de subsidie gebruiken voor het   doel waarvoor ze is verleend, tenzij de aanvrager kan motiveren dat afwijkingen   van het aanvraagdossier of het actieplan noodzakelijk waren. Hierbij kan   afgeweken worden van de wet van 16 mei 2003 tot vaststelling van de algemene   bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor   de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie   van de controle door het Rekenhof.<BR></P>  <P>§ 2. De Vlaamse Regering kan bijkomende subsidievoorwaarden opleggen met als   doel dubbele subsidiëring vanwege de Vlaamse overheid te   voorkomen.<BR></P>
+<p>§ 1. Een subsidieontvanger voldoet aan elk van de volgende subsidievoorwaarden:<br>
+1° tijdig een verantwoordingsdossier indienen;<br>
+2° een volledig verantwoordingsdossier indienen;<br>
+3° de subsidie gebruiken voor het doel waarvoor ze is verleend, tenzij de aanvrager kan motiveren dat afwijkingen van het aanvraagdossier of het geactualiseerd beleidsplan noodzakelijk waren. Hierbij kan afgeweken worden van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.</p>
+
+<p>§ 2. De Vlaamse Regering kan bijkomende subsidievoorwaarden opleggen met als doel dubbele subsidiëring vanwege de Vlaamse overheid te voorkomen.</p>
 
 ### ART. 52.
 
-<P>§ 1. Bijkomend aan de subsidievoorwaarden, vermeld in artikel 51, geldt voor   een ontvanger van een beurs, een residentietoelage en een tussenkomst voor een   buitenlands publiek presentatiemoment de volgende subsidievoorwaarde in functie   van het doelmatigheidstoezicht: toelichten op welke wijze de beurs, de   residentietoelage of de tussenkomst voor het buitenlandse publieke   presentatiemoment heeft bijgedragen tot de professionele artistieke ontwikkeling   van de kunstenaar.<BR></P>  <P>§ 2. Bijkomend aan de subsidievoorwaarden, vermeld in artikel 51, gelden voor   een ontvanger van een andere subsidie dan een beurs, de volgende   subsidievoorwaarden:<BR>1° de aanvraag of het actieplan getrouw uitvoeren;<BR>2°   indien de subsidieontvanger een rechtspersoon is:<BR>a) de toepasselijke cao's   naleven;<BR>b) aan de bezoldigde zelfstandige artistieke en artistiek-technische   medewerkers op wie de organisatie een beroep doet, minstens evenveel betalen als   wat minstens aan loonkosten verschuldigd is aan een werknemer voor dezelfde   prestaties;<BR>c) een boekhouding voeren conform de bepalingen van de wet van 17   juli 1975 op de boekhouding en de jaarrekening van de ondernemingen en conform   de bepalingen betreffende het rekeningstelsel in de wet betreffende de   verenigingen zonder winstoogmerk, de internationale verenigingen zonder   winstoogmerk en de stichtingen van 2 mei 2002;<BR>3° indien de subsidieontvanger   een werkingssubsidie ontvangt:<BR>a) zorg dragen voor het eigen archief. De   Vlaamse Regering kan nadere richtlijnen bepalen met betrekking tot de zorg voor   het eigen archief;<BR>b) de principes van goed bestuur naleven. De Vlaamse   Regering bepaalt nader de principes van goed bestuur;<BR>c) een professionele   organisatie zijn;<BR>d) aanvullende voorwaarden naleven die door de Vlaamse   Regering bepaald kunnen worden en die betrekking hebben op het minimum aantal   activiteiten, het minimumpercentage eigen inkomsten en het minimumpercentage van   het toegekende financieringsbudget, te gebruiken voor de honorering van   medewerkers en kunstenaars.<BR></P>  <P>§ 3. In afwijking van § 2, 2°, c), geldt, indien de subsidieontvanger een   gemeente, een stad, een provincie of de Vlaamse Gemeenschapscommissie is, de   volgende subsidievoorwaarde: een overzicht bijhouden van de aan de subsidie   toewijsbare opbrengsten en kosten.<BR></P>
+<p>§ 1. Bijkomend aan de subsidievoorwaarden, vermeld in artikel 51, geldt voor een ontvanger van een beurs, een residentietoelage en een tussenkomst voor een buitenlands publiek presentatiemoment de volgende subsidievoorwaarde in functie van het doelmatigheidstoezicht: toelichten op welke wijze de beurs, de residentietoelage of de tussenkomst voor het buitenlandse publieke presentatiemoment heeft bijgedragen tot de professionele artistieke ontwikkeling van de kunstenaar.</p>
+
+<p>§ 2. Bijkomend aan de subsidievoorwaarden, vermeld in artikel 51, gelden voor een ontvanger van een andere subsidie dan een beurs, de volgende subsidievoorwaarden:<br>
+1° de aanvraag of het geactualiseerd beleidsplan getrouw uitvoeren;<br>
+2° indien de subsidieontvanger een rechtspersoon is:<br>
+a) de toepasselijke cao's naleven;<br>
+b) aan de bezoldigde zelfstandige artistieke en artistiek-technische medewerkers op wie de organisatie een beroep doet, minstens evenveel betalen als wat minstens aan loonkosten verschuldigd is aan een werknemer voor dezelfde prestaties;<br>
+c) een boekhouding voeren conform de bepalingen van de wet van 17 juli 1975 op de boekhouding en de jaarrekening van de ondernemingen en conform de bepalingen betreffende het rekeningstelsel in de wet betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen van 2 mei 2002;<br>
+3° indien de subsidieontvanger een werkingssubsidie ontvangt:<br>
+a) zorg dragen voor het eigen archief. De Vlaamse Regering kan nadere richtlijnen bepalen met betrekking tot de zorg voor het eigen archief;<br>
+b) de principes van goed bestuur naleven. De Vlaamse Regering bepaalt nader de principes van goed bestuur;<br>
+c) een professionele organisatie zijn;<br>
+d) aanvullende voorwaarden naleven die door de Vlaamse Regering bepaald kunnen worden en die betrekking hebben op het minimum aantal activiteiten, het minimumpercentage eigen inkomsten en het minimumpercentage van het toegekende financieringsbudget, te gebruiken voor de honorering van medewerkers en kunstenaars.</p>
+
+<p>§ 3. In afwijking van § 2, 2°, c), geldt, indien de subsidieontvanger een gemeente, een stad, een provincie of de Vlaamse Gemeenschapscommissie is, de volgende subsidievoorwaarde: een overzicht bijhouden van de aan de subsidie toewijsbare opbrengsten en kosten.</p>
 
 ## Onderafdeling 2 Verantwoording
 
@@ -304,11 +496,32 @@ De Vlaamse Regering kan de beoordelings- en de toekenningsprocedure nader   bepa
 
 ### ART. 55.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt of is voldaan   aan de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°, in artikel 51, § 2,   en in artikel 52. De door de Vlaamse Regering aangewezen dienst beoordeelt of de   motivering bij eventuele afwijkingen van het aanvraagdossier of van het   actieplan voldoende en aanvaardbaar is.<BR></P>  <P>Voor het toezicht op de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°,   in artikel 51, § 2, en in artikel 52, kan de door de Vlaamse Regering aangewezen   dienst:<BR>1° de rapportering over de uitvoering van de aanvraag toetsen;<BR>2°   de jaarlijkse rapportering over de uitvoering van het actieplan, indien de   subsidieontvanger een werkingssubsidie ontvangt, toetsen;<BR>3° op ieder   ogenblik aanvullende informatie en documenten opvragen bij de   subsidieontvanger;<BR>4° op ieder ogenblik aanvullende informatie en documenten   opvragen bij andere subsidiërende en/of toezichthoudende   overheidsdiensten;<BR>5° tijdens toezicht ter plaatse alle relevante documenten   raadplegen en medewerkers en bestuurders van de gesubsidieerde activiteit   bevragen.<BR></P>  <P>De door de Vlaamse Regering aangewezen dienst wordt belast met het   toezicht.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt nader de toezichtmodaliteiten en kan deze   specifiëren naargelang de subsidiesoort en de hoogte van het toegekende   subsidiebedrag. De Vlaamse Regering bepaalt hiervoor de grensbedragen.<BR></P>  <P>§ 3. Voor de bepalingen in artikel 51, § 1, artikel 56, § 3, artikel 60 en   artikel 100, 3°, wordt op basis van artikel 10 van de bijzondere wet van 8   augustus 1980 afgeweken van de Algemene bepalingenwet van 16 mei   2003.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt of is voldaan aan de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°, in artikel 51, § 2, en in artikel 52. De door de Vlaamse Regering aangewezen dienst beoordeelt of de motivering bij eventuele afwijkingen van het aanvraagdossier of van het geactualiseerd beleidsplan voldoende en aanvaardbaar is.</p>
+
+<p>Voor het toezicht op de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°, in artikel 51, § 2, en in artikel 52, kan de door de Vlaamse Regering aangewezen dienst:<br>
+1° de rapportering over de uitvoering van de aanvraag toetsen;<br>
+2° de jaarlijkse rapportering over de uitvoering van het actieplan, indien de subsidieontvanger een werkingssubsidie ontvangt, toetsen;<br>
+3° op ieder ogenblik aanvullende informatie en documenten opvragen bij de subsidieontvanger;<br>
+4° op ieder ogenblik aanvullende informatie en documenten opvragen bij andere subsidiërende en/of toezichthoudende overheidsdiensten;<br>
+5° tijdens toezicht ter plaatse alle relevante documenten raadplegen en medewerkers en bestuurders van de gesubsidieerde activiteit bevragen.</p>
+
+<p>De door de Vlaamse Regering aangewezen dienst wordt belast met het toezicht.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt nader de toezichtmodaliteiten en kan deze specifiëren naargelang de subsidiesoort en de hoogte van het toegekende subsidiebedrag. De Vlaamse Regering bepaalt hiervoor de grensbedragen.</p>
+
+<p>§ 3. Voor de bepalingen in artikel 51, § 1, artikel 56, § 3, artikel 60 en artikel 100, 3°, wordt op basis van artikel 10 van de bijzondere wet van 8 augustus 1980 afgeweken van de Algemene bepalingenwet van 16 mei 2003.</p>
 
 ### ART. 56.
 
-<P>§ 1. Als de door de Vlaamse Regering aangewezen dienst vaststelt dat niet   volledig is voldaan aan de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°,   in artikel 51, § 2, en in artikel 52, verleent de door de Vlaamse Regering   aangewezen dienst een gemotiveerd advies over de vastgestelde inbreuk aan de   Vlaamse Regering.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst bezorgt een voorstel van   beslissing aan de Vlaamse Regering op basis van het gemotiveerde advies, vermeld   in paragraaf 1 en, indien van toepassing, een sanctievoorstel.<BR></P>  <P>§ 3. De Vlaamse Regering beslist over de toekenning van een sanctie en,   indien van toepassing, over het sanctiebedrag.<BR></P>  <P>De Vlaamse Regering neemt een sanctiebeslissing die betrekking heeft op het   niet volledig voldoen aan de subsidievoorwaarde, vermeld in artikel 52, § 2, 3°,   b), onder de opschortende voorwaarde van remediëring.<BR></P>  <P>Een sanctie staat in een redelijke verhouding tot de vastgestelde inbreuk,   vermeld in paragraaf 1.<BR></P>
+<p>§ 1. Als de door de Vlaamse Regering aangewezen dienst vaststelt dat niet volledig is voldaan aan de subsidievoorwaarden, vermeld in artikel 51, § 1, 3°, in artikel 51, § 2, en in artikel 52, verleent de door de Vlaamse Regering aangewezen dienst een gemotiveerd advies over de vastgestelde inbreuk aan de Vlaamse Regering.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst bezorgt een ontwerp van beslissing aan de Vlaamse Regering op basis van het gemotiveerde advies, vermeld in paragraaf 1 en, indien van toepassing, een sanctievoorstel.</p>
+
+<p>§ 3. De Vlaamse Regering beslist over de toekenning van een sanctie en, indien van toepassing, over het sanctiebedrag.</p>
+
+<p>De Vlaamse Regering neemt een sanctiebeslissing die betrekking heeft op het niet volledig voldoen aan de subsidievoorwaarde, vermeld in artikel 52, § 2, 3°, b), onder de opschortende voorwaarde van remediëring.</p>
+
+<p>Een sanctie staat in een redelijke verhouding tot de vastgestelde inbreuk, vermeld in paragraaf 1.</p>
 
 ### ART. 57.
 
@@ -316,7 +529,13 @@ De Vlaamse Regering kan de beoordelings- en de toekenningsprocedure nader   bepa
 
 ### ART. 58.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst verleent een gemotiveerd   advies over de betwisting of de intentieverklaring tot remediëring.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst bezorgt een voorstel van   beslissing aan de Vlaamse Regering op basis van een gemotiveerd advies als   vermeld in paragraaf 1 en, indien van toepassing, een sanctievoorstel.<BR></P>  <P>§ 3. De Vlaamse Regering beslist over de toekenning van een sanctie en,   indien van toepassing, het sanctiebedrag.<BR></P>  <P>Een sanctie staat in een redelijke verhouding tot de vastgestelde inbreuk,   vermeld in paragraaf 1.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst verleent een gemotiveerd advies over de betwisting of de intentieverklaring tot remediëring.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst bezorgt een ontwerp van beslissing aan de Vlaamse Regering op basis van een gemotiveerd advies als vermeld in paragraaf 1 en, indien van toepassing, een sanctievoorstel.</p>
+
+<p>§ 3. De Vlaamse Regering beslist over de toekenning van een sanctie en, indien van toepassing, het sanctiebedrag.</p>
+
+<p>Een sanctie staat in een redelijke verhouding tot de vastgestelde inbreuk, vermeld in paragraaf 1.</p>
 
 ### ART. 59.
 
@@ -346,7 +565,13 @@ Een bestedingsplan dat niet tijdig is ingediend of dat niet volledig is,   is on
 
 ### ART. 65.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst toetst een ontvankelijk   bestedingsplan aan het criterium 'opportuniteit van de voorgestelde   besteding'.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst verleent een gemotiveerd   advies over het bestedingsplan.<BR></P>  <P>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een voorstel van   beslissing op basis van het gemotiveerd advies, vermeld in paragraaf 1.<BR></P>  <P>§ 4. De Vlaamse Regering beslist over de goedkeuring van een bestedingsplan   en, indien van toepassing, over een sanctie en over een sanctiebedrag. Een   sanctie staat in een redelijke verhouding tot de niet-aanvaarde elementen uit   een bestedingsplan.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst toetst een ontvankelijk bestedingsplan aan het criterium 'opportuniteit van de voorgestelde besteding'.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst verleent een gemotiveerd advies over het bestedingsplan.</p>
+
+<p>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een ontwerp van beslissing op basis van het gemotiveerd advies, vermeld in paragraaf 1.</p>
+
+<p>§ 4. De Vlaamse Regering beslist over de goedkeuring van een bestedingsplan en, indien van toepassing, over een sanctie en over een sanctiebedrag. Een sanctie staat in een redelijke verhouding tot de niet-aanvaarde elementen uit een bestedingsplan.</p>
 
 ### ART. 66.
 
@@ -370,7 +595,22 @@ Een bestedingsplan dat niet tijdig is ingediend of dat niet volledig is,   is on
 
 ### ART. 70.
 
-<P>§ 1. Een erkenning als kunstinstelling vindt plaats nadat de Vlaamse Regering   met een in aanmerking komende organisatie als vermeld in artikel 68, § 3, heeft   overlegd. Het staat een in aanmerking komende organisatie vrij om af te zien van   een erkenning als kunstinstelling.<BR></P>  <P>De Vlaamse Regering bepaalt nader de overlegprocedure.<BR></P>  <P>§ 2. Een erkenning als kunstinstelling geldt voor onbepaalde duur.<BR></P>  <P>§ 3. Een erkenning kan worden stopgezet als minstens een van de volgende   voorwaarden is vervuld:<BR>1° de organisatie beëindigt haar werking;<BR>2° de   organisatie voldoet niet meer aan een van de erkenningsvoorwaarden, vermeld in   artikel 68, § 2.<BR></P>  <P>De Vlaamse Regering bepaalt nader de procedure voor de   stopzetting.<BR></P>
+<p>§ 1. Een erkenning als kunstinstelling vindt plaats nadat de Vlaamse Regering met een in aanmerking komende organisatie als vermeld in artikel 68, § 3, heeft overlegd. Het staat een in aanmerking komende organisatie vrij om af te zien van een erkenning als kunstinstelling.</p>
+
+<p>De Vlaamse Regering bepaalt nader de overlegprocedure.</p>
+
+<p>§ 2. Een erkenning als kunstinstelling geldt voor onbepaalde duur.<br>
+<br>
+§ 2/1. De functies van de artistieke en zakelijke eindverantwoordelijken in een erkende kunstinstelling zijn mandaatfuncties. Een mandaatfunctie heeft een duur van zes jaar en is eenmaal verlengbaar voor een duur van maximaal zes jaar.<br>
+<br>
+De mandaatfuncties worden voor elke erkende kunstinstelling nader bepaald in de beheersovereenkomst, vermeld in artikel 77.</p>
+
+<p>§ 3. Een erkenning kan worden stopgezet als minstens een van de volgende voorwaarden is vervuld:<br>
+1° de organisatie beëindigt haar werking;<br>
+2° de organisatie voldoet niet meer aan een van de erkenningsvoorwaarden, vermeld in artikel 68, § 2;<br>
+3° de organisatie voldoet niet aan de voorwaarden voor de mandaatfuncties, vermeld in paragraaf 2/1.</p>
+
+<p>De Vlaamse Regering bepaalt nader de procedure voor de stopzetting.</p>
 
 ## HOOFDSTUK 2 Ondersteunende organisaties
 
@@ -378,7 +618,9 @@ Een bestedingsplan dat niet tijdig is ingediend of dat niet volledig is,   is on
 
 ### ART. 71.
 
-<P>Het Kunstensteunpunt is een centrum van expertise en aanspreekpunt voor   iedereen die professioneel actief is of wenst te worden binnen de functies,   vermeld in artikel 10, § 2, en de artistieke disciplines, vermeld in artikel 10,   § 3. Het Kunstensteunpunt vervult een intermediaire rol tussen het veld en de   overheid.<BR></P>  <P>Het Kunstensteunpunt treedt niet in de plaats van belangenbehartigende   organisaties.<BR></P>
+<p>Het Kunstensteunpunt is een centrum van expertise en aanspreekpunt voor iedereen die professioneel actief is of wenst te worden binnen de functies, vermeld in artikel 10, § 2, en de artistieke disciplines, vermeld in artikel 10, § 3, met uitzondering van de muziek in de niet-klassieke sectoren (pop-, rock-, jazz-, folk- en wereldmuziek), waarvoor het Kunstensteunpunt en de vzw Poppunt een afsprakenkader overeenkomen en waarvoor de Vlaamse Regering de vzw Poppunt subsidieert volgens de modaliteiten vastgelegd in een beheersovereenkomst. Het Kunstensteunpunt vervult een intermediaire rol tussen het veld en de overheid.</p>
+
+<p>Het Kunstensteunpunt treedt niet in de plaats van belangenbehartigende organisaties.</p>
 
 ### ART. 72.
 
@@ -428,19 +670,23 @@ Een bestedingsplan dat niet tijdig is ingediend of dat niet volledig is,   is on
 
 ### ART. 81.
 
-Elke erkende kunstinstelling als vermeld in artikel 70, § 1, en elke   ondersteunende organisatie als vermeld in artikel 71, in artikel 73 en in   artikel 75 en de organisatie, vermeld in artikel 170, voldoet aan de   voorwaarden, vermeld in artikel 26, 1°, en in artikel 26, 2°. <BR>
+Elke erkende kunstinstelling als vermeld in artikel 70, § 1, en elke ondersteunende organisatie als vermeld in artikel 71 en in artikel 73 en de organisatie, vermeld in artikel 170, voldoet aan de voorwaarden, vermeld in artikel 26, 1°, en in artikel 26, 2°.
 
 ### ART. 82.
 
-Elke erkende kunstinstelling als vermeld in artikel 70, § 1, en elke   ondersteunende organisatie als vermeld in artikel 71, in artikel 73 en in   artikel 75, en de organisatie, vermeld in artikel 170, ontvangt een subsidie   voor de realisatie van haar opdracht.<BR>
+Elke erkende kunstinstelling als vermeld in artikel 70, § 1, en elke ondersteunende organisatie als vermeld in artikel 71 en in artikel 73 en de organisatie, vermeld in artikel 170, ontvangt een subsidie voor de realisatie van haar opdracht.
 
 ### ART. 83.
 
-Om het toe te kennen subsidie- of dotatiebedrag en de ermee verbonden   opdrachten te kunnen bepalen, dient een kunstinstelling of een ondersteunende   organisatie, uiterlijk op 30 oktober van het eerste volledige kalenderjaar van   een legislatuur, een beleidsplan in bij de door de Vlaamse Regering aangewezen   dienst.<BR>
+Om het toe te kennen subsidie- of dotatiebedrag en de ermee verbonden opdrachten te kunnen bepalen, dient een kunstinstelling of een ondersteunende organisatie, uiterlijk op 1 december van het eerste volledige kalenderjaar van een legislatuur, een beleidsplan in bij de door de Vlaamse Regering aangewezen dienst.
 
 ### ART. 84.
 
-<P>§ 1. Een beleidsplan van een erkende kunstinstelling als vermeld in artikel   70, § 1, is samengesteld als vermeld in artikel 27.<BR></P>  <P>§ 2. Een beleidsplan van een ondersteunende organisatie als vermeld in   artikel 71, in artikel 73 en in artikel 75, en van de organisatie, vermeld in   artikel 170, is samengesteld als vermeld in artikel 27, 1°, 2°, 4° en 5°.   <BR></P>  <P>§ 3. De Vlaamse Regering bepaalt nader welke gegevens en documenten een   beleidsplan bevat, aan welke inhoudelijke en vormelijke voorwaarden een   beleidsplan voldoet en op welke wijze een beleidsplan ingediend   wordt.<BR></P>
+<p>§ 1. Een beleidsplan van een erkende kunstinstelling als vermeld in artikel 70, § 1, is samengesteld als vermeld in artikel 27.</p>
+
+<p>§ 2. Een beleidsplan van een ondersteunende organisatie als vermeld in artikel 71 en in artikel 73, en van de organisatie, vermeld in artikel 170, is samengesteld als vermeld in artikel 27, 1°, 2°, 4° en 5°.</p>
+
+<p>§ 3. De Vlaamse Regering bepaalt nader welke gegevens en documenten een beleidsplan bevat, aan welke inhoudelijke en vormelijke voorwaarden een beleidsplan voldoet en op welke wijze een beleidsplan ingediend wordt.</p>
 
 ## Afdeling 3 Bepalingen voor de beoordeling en de subsidietoekenning
 
@@ -448,7 +694,21 @@ Om het toe te kennen subsidie- of dotatiebedrag en de ermee verbonden   opdracht
 
 ### ART. 85.
 
-<P>§ 1. De Vlaamse Regering richt per kunstinstelling en per ondersteunende   organisatie een afzonderlijke beoordelingscommissie op.<BR></P>  <P>Een beoordelingscommissie voor een kunstinstelling is samengesteld uit zeven   leden waarvan drie leden met expertise en ervaring in het buitenland en een   voorzitter.<BR></P>  <P>Een beoordelingscommissie voor een ondersteunende organisatie is samengesteld   uit zeven leden die benoemd zijn in de pool van beoordelaars en een   voorzitter.<BR></P>  <P>De Vlaamse Regering bepaalt nader de aanstellingsprocedure voor de leden en   de voorzitter van een beoordelingscommissie.<BR></P>  <P>§ 2. De Vlaamse Regering benoemt een lid van een beoordelingscommissie voor   de duur van de beoordelingsperiode. Een lid van een beoordelingscommissie kan   opeenvolgend maximum twee mandaten vervullen.<BR></P>  <P>§ 3. Een lid van een beoordelingscommissie wordt benoemd op basis van   deskundigheid over onderdelen van een beleidsveld of over bepaalde functies die   relevant zijn voor het beleidsplan.<BR></P>  <P>De Vlaamse Regering bepaalt nader de vereisten waaraan een lid van een   beoordelingscommissie voldoet.<BR></P>  <P>§ 4. In een beoordelingscommissie is expertise voorzien voor alle kerntaken   en voor alle functies als vermeld in artikel 10, § 2, en alle disciplines als   vermeld in artikel 10, § 3, die in een aanvraagdossier zijn   aangegeven.<BR></P>
+<p>§ 1. De Vlaamse Regering richt per kunstinstelling en per ondersteunende organisatie een afzonderlijke beoordelingscommissie op.</p>
+
+<p>Een beoordelingscommissie voor een kunstinstelling is samengesteld uit zeven leden waarvan drie leden met expertise en ervaring in het buitenland en een voorzitter.</p>
+
+<p>Een beoordelingscommissie voor een ondersteunende organisatie is samengesteld uit zeven leden&nbsp;en een voorzitter.</p>
+
+<p>De Vlaamse Regering bepaalt nader de aanstellingsprocedure voor de leden en de voorzitter van een beoordelingscommissie.</p>
+
+<p>§ 2. De Vlaamse Regering benoemt een lid van een beoordelingscommissie voor de duur van de beoordelingsperiode. Een lid van een beoordelingscommissie kan opeenvolgend maximum twee mandaten vervullen.</p>
+
+<p>§ 3. Een lid van een beoordelingscommissie wordt benoemd op basis van deskundigheid over onderdelen van een beleidsveld of over bepaalde functies die relevant zijn voor het beleidsplan.</p>
+
+<p>De Vlaamse Regering bepaalt nader de vereisten waaraan een lid van een beoordelingscommissie voldoet.</p>
+
+<p>§ 4. In een beoordelingscommissie is expertise voorzien voor alle kerntaken en voor alle functies als vermeld in artikel 10, § 2, en alle disciplines als vermeld in artikel 10, § 3, die in een aanvraagdossier zijn aangegeven.</p>
 
 ### ART. 86.
 
@@ -462,15 +722,37 @@ De door de Vlaamse Regering aangewezen dienst neemt het secretariaat waar   van 
 
 ### ART. 88.
 
-<P>§ 1. Een beoordelingscommissie als vermeld in artikel 85, en de door de   Vlaamse Regering aangewezen dienst toetsen een beleidsplan van een   kunstinstelling aan de criteria, vermeld in artikel 28, § 2, en in artikel 28, §   3.<BR></P>  <P>§ 2. Een beoordelingscommissie als vermeld in artikel 85, en de door de   Vlaamse Regering aangewezen dienst toetsen een beleidsplan van een   ondersteunende organisatie aan de volgende criteria:<BR>1° de kwaliteit van de   dienstverlening;<BR>2° de wijze waarop de kerntaken, vermeld in de artikelen 72,   74, 76 en 171, gerealiseerd worden; <BR>3° de positionering, samenwerking en   netwerkvorming, zowel binnen Vlaanderen als internationaal;<BR>4° de   inspanningen op het vlak van maatschappelijke en culturele diversiteit; <BR>5°   de kwaliteit van het zakelijke beheer;<BR>6° indien van toepassing, de nadere   bepaling door de Vlaamse Regering van de criteria;<BR>7° eventuele bijkomende   criteria die in de beheersovereenkomst zijn opgenomen.<BR></P>
+<p>§ 1. Een beoordelingscommissie als vermeld in artikel 85 toetst een beleidsplan van een kunstinstelling aan de criteria, vermeld in artikel 28, § 2, en in artikel 28, § 3.</p>
+
+<p>§ 2. Een beoordelingscommissie als vermeld in artikel 85 toetst een beleidsplan van een ondersteunende organisatie aan de volgende criteria:<br>
+1° de kwaliteit van de dienstverlening;<br>
+2° de wijze waarop de kerntaken, vermeld in de artikelen 72, 74 en 171, gerealiseerd worden;<br>
+3° de positionering, samenwerking en netwerkvorming, zowel binnen Vlaanderen als internationaal;<br>
+4° de inspanningen op het vlak van maatschappelijke en culturele diversiteit;<br>
+5° de kwaliteit van het zakelijke beheer;<br>
+5° /1 de mate waarin het beleidsplan een of meer aandachtspunten uitvoert uit de strategische visienota, vermeld in artikel 7, § 2, 5° ;<br>
+6° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria;<br>
+7° eventuele bijkomende criteria die in de beheersovereenkomst zijn opgenomen.</p>
 
 ### ART. 89.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst treft de nodige   voorbereidingen voor de kwaliteitsbeoordeling van het beleidsplan.<BR><BR>§ 2.   De door de Vlaamse Regering aangewezen dienst beoordeelt de kwaliteit van de   zakelijke en de beheersmatige aspecten van een beleidsplan van een   kunstinstelling aan de hand van de criteria, vermeld in artikel 28, § 2 en § 3,   en stelt een gemotiveerd advies op, inclusief een indicatieve   waardering.<BR><BR>§ 3. De door de Vlaamse Regering aangewezen dienst beoordeelt   de kwaliteit van de zakelijke en de beheersmatige aspecten van een beleidsplan   van een ondersteunende organisatie aan de hand van de criteria, vermeld in   artikel 88, § 2, en stelt een gemotiveerd advies op, inclusief een indicatieve   waardering.<BR><BR>§ 4. De door de Vlaamse Regering aangewezen dienst bezorgt   alle nuttige informatie, nodig om tot een kwaliteitsvolle inhoudelijke   beoordeling te komen, aan een beoordelingscommissie als vermeld in artikel 85.   Indien er voor het aanvraagdossier een zakelijk advies vereist is, zorgt de door   de Vlaamse Regering aangewezen dienst voor een voorlopige zakelijke en   beheersmatige toetsing inclusief de indicatieve waardering van een   aanvraagdossier bij de aanvang van de artistiek-inhoudelijke toetsing door de   beoordelingscommissie.<BR><BR>§ 5. Een beoordelingscommissie als vermeld in   artikel 85 beoordeelt de kwaliteit van de artistiek-inhoudelijke aspecten van   een ontvankelijk aanvraagdossier van een kunstinstelling aan de hand van de   criteria, vermeld in artikel 28, § 2, en artikel 28, § 3, en stelt een   gemotiveerd advies op, inclusief een indicatieve waardering binnen de hen   toegewezen budgettaire ruimte.<BR><BR>§ 6. Een beoordelingscommissie als vermeld   in artikel 85 beoordeelt de kwaliteit van de artistiek-inhoudelijke aspecten van   een ontvankelijk aanvraagdossier van een ondersteunende organisatie aan de hand   van de criteria, vermeld in artikel 88, § 2, en stelt een gemotiveerd advies op,   inclusief een indicatieve waardering binnen de hen toegewezen budgettaire   ruimte.<BR><BR>§ 7. De door de Vlaamse Regering aangewezen dienst stelt een   voorlopig voorstel van beslissing op over alle aspecten van een aanvraagdossier   van een kunstinstelling en een ondersteunende organisatie als vermeld in artikel   6, 5°.<BR><BR>§ 8. Als er bij de beoordeling van een beleidsplan van een   kunstinstelling of van een ondersteunende organisatie een grote discrepantie   bestaat tussen het advies van de beoordelingscommissie en het advies van de door   de Vlaamse Regering aangewezen dienst, houden beide partijen een   deliberatiemoment. Tijdens het deliberatiemoment streven beide partijen ernaar   hun advies zo veel mogelijk op elkaar af te stemmen.<BR><BR>§ 9. De   kunstinstelling of ondersteunende organisatie ontvangt het voorlopige voorstel   van beslissing.<BR><BR>De Vlaamse Regering bepaalt nader de procedure voor het   bezorgen van het voorlopige voorstel van beslissing en de wijze waarop de   voorstellen van beslissing openbaar worden gemaakt.<BR><BR>§ 10. Het voorlopige   voorstel van beslissing omvat:<BR>1° het advies over de zakelijke en de   beheersmatige aspecten;<BR>2° het artistiek-inhoudelijke advies.<BR><BR>§ 11.   Een kunstinstelling kan een schriftelijke reactie indienen op een van de   adviezen vervat in het voorlopige voorstel van beslissing, bedoeld in § 10, 1°   en 2°.<BR><BR>De schriftelijke reactie behelst het oorspronkelijk ingediende   dossier en mag geen nieuwe artistiek-inhoudelijke noch nieuwe zakelijke   elementen bevatten.<BR><BR>De beoordelingscommissie die het oorspronkelijk   ingediende dossier beoordeeld heeft, behandelt de artistiek-inhoudelijke   aspecten van de schriftelijke reactie.<BR><BR>De door de Vlaamse Regering   aangewezen dienst behandelt de zakelijke en de beheersmatige aspecten van de   schriftelijke reactie.<BR><BR>De termijn waarbinnen de kunstinstelling een   schriftelijke reactie kan indienen, bedraagt tien werkdagen na de dag waarop het   voorlopige voorstel van beslissing is verstuurd. Na het verstrijken van de   voormelde termijn bestaat er geen gelegenheid meer om een schriftelijke reactie   in te dienen.<BR><BR>De Vlaamse Regering bepaalt nader welke gegevens en   documenten een schriftelijke reactie bevat en op welke wijze een schriftelijke   reactie ingediend wordt.<BR><BR>§ 12. Een ondersteunende organisatie kan verhaal   indienen tegen een van de adviezen vervat in het voorlopige voorstel van   beslissing, bedoeld in § 10, 1° en 2°, als dit negatief is.<BR><BR>Het verhaal   behelst het oorspronkelijk ingediende dossier en mag geen nieuwe   artistiek-inhoudelijke noch nieuwe zakelijke elementen bevatten.<BR><BR>Het   verhaal bevat de nodige argumenten waaruit zou blijken dat het   beoordelingsproces niet zorgvuldig is gebeurd.<BR><BR>De Vlaamse Regering duidt   op 1 oktober van het voorlaatste jaar dat voorafgaat aan een vijfjarige   subsidieperiode een commissie aan die het verhaal beoordeelt op zijn   ontvankelijkheid.<BR><BR>Een lid van de beoordelingscommissie die een verhaal   beoordeelt op zijn ontvankelijkheid ontvangt een vergoeding voor zijn of haar   werkzaamheden en verplaatsingen. De Vlaamse Regering bepaalt nader de hoogte van   de vergoedingen.<BR><BR>De beoordeling van de ontvankelijkheid gebeurt op basis   van de volgende elementen:<BR>1° correctheid van de gevolgde procedure bij de   beoordeling van het subsidiedossier;<BR>2° correctheid van de gevolgde methodiek   bij de beoordeling van het subsidiedossier;<BR>3° validiteit van de aangevoerde   argumenten door de aanvrager van het verhaal.<BR><BR>Bij onontvankelijkheid van   het verhaal eindigt de verhaalprocedure en blijft het oorspronkelijke voorlopige   voorstel van beslissing gelden.<BR><BR>§ 13. Een ondersteunende organisatie kan   een schriftelijke reactie indienen op een van de adviezen vervat in het   voorlopige voorstel van beslissing, bedoeld in § 10, 1° en 2°, als dit positief   is.<BR><BR>De schriftelijke reactie behelst het oorspronkelijk ingediende   dossier en mag geen nieuwe artistiek-inhoudelijke noch nieuwe zakelijke   elementen bevatten.<BR><BR>De beoordelingscommissie die het oorspronkelijk   ingediende dossier beoordeeld heeft, behandelt de artistiek-inhoudelijke   aspecten van de schriftelijke reactie.<BR><BR>De door de Vlaamse Regering   aangewezen dienst behandelt de zakelijke en de beheersmatige aspecten van de   schriftelijke reactie.<BR><BR>De termijn waarbinnen de ondersteunende   organisatie een schriftelijke reactie kan indienen, bedraagt tien werkdagen na   de dag waarop het voorlopige voorstel van beslissing naar de betrokken   organisatie is verstuurd. Na het verstrijken van de voormelde termijn bestaat er   geen gelegenheid meer om een schriftelijke reactie in te dienen.<BR><BR>De   Vlaamse Regering bepaalt nader welke gegevens en documenten een schriftelijke   reactie bevat en op welke wijze een schriftelijke reactie ingediend   wordt.<BR><BR>§ 14. Een voorstel van beslissing omvat een voorstel over de   toekenning van een subsidie en:<BR>1° indien vereist het advies over de   zakelijke en de beheersmatige aspecten;<BR>2° het artistiek-inhoudelijke   advies;<BR>3° indien van toepassing de behandeling van het verhaalrecht door de   door de Vlaamse Regering aangewezen dienst;<BR>4° indien van toepassing de   behandeling van het verhaalrecht door de beoordelingscommissie die is aangesteld   voor de artistiek-inhoudelijke aspecten van het verhaalrecht;<BR>5° indien van   toepassing de behandeling van de schriftelijke reactie door de door de Vlaamse   Regering aangewezen dienst;<BR>6° indien van toepassing de behandeling van de   schriftelijke reactie door de beoordelingscommissie die het oorspronkelijke   dossier beoordeeld heeft;<BR>7° een voorstel over de grootte van het toe te   kennen subsidiebedrag of van het toe te kennen subsidiebedrag per   werkjaar.<BR><BR>§ 15. De Vlaamse Regering beslist over het beleidsplan en de   grootte van het toegekende subsidiebedrag per werkjaar, op basis van het   gemotiveerd advies, vermeld in § 2, § 3, § 5 en § 6, en het voorstel van   beslissing, vermeld in § 14.<BR><BR>§ 16. De Vlaamse Regering beslist ten   laatste zes maanden voor het begin van een subsidieperiode over de toekenning   van een subsidie.<BR><BR>Indien de Vlaamse Regering niet tijdig beslist over de   toekenning van een subsidie, verlengt de duur van de subsidieperiode van   kunstinstellingen en ondersteunende organisaties die al een subsidie ontvangen   in uitvoering van het Kunstendecreet, met één werkjaar. Onder voorbehoud van de   toepassing van artikel 4 is het voor dat werkjaar uitgekeerde subsidiebedrag   gelijk aan het door de Vlaamse Regering bepaalde subsidiebedrag per werkjaar uit   de vorige subsidieperiode.</P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst, treft de nodige voorbereidingen voor de kwaliteitsbeoordeling van het beleidsplan.<br>
+<br>
+§ 2. De door de Vlaamse Regering aangewezen dienst, bezorgt aan een beoordelingscommissie als vermeld in artikel 85 alle nuttige informatie die nodig is om tot een kwaliteitsvolle beoordeling te komen, inclusief een voorbereiding van de beoordeling van het criterium "kwaliteit zakelijk beheer".<br>
+<br>
+§ 3. Een beoordelingscommissie als vermeld in artikel 85 beoordeelt de kwaliteit van een ontvankelijk beleidsplan van een kunstinstelling aan de hand van de criteria, vermeld in artikel 28, § 2 en § 3, en stelt een gemotiveerd voorlopig advies op, inclusief een indicatieve waardering over het volgen of beperken van de gevraagde subsidie.<br>
+<br>
+§ 4. Een beoordelingscommissie als vermeld in artikel 85 beoordeelt de kwaliteit van een ontvankelijk beleidsplan van een ondersteunende organisatie aan de hand van de criteria, vermeld in artikel 88, § 2, en stelt een gemotiveerd voorlopig advies op, inclusief een indicatieve waardering over het volgen of beperken van de gevraagde subsidie.<br>
+<br>
+§ 5. De verdere beoordelings- en toekenningsprocedure wordt uitgevoerd volgens de bepalingen die gelden voor werkingssubsidies, vermeld in artikel 45 tot en met 49.</p>
 
 ### ART. 90.
 
-<P>Een gemotiveerd advies als vermeld in artikel 89, § 2, § 3, § 5 en § 6,   omvat:<BR>1° een onderbouwde evaluatie van het beleidsplan;<BR>2° een aanduiding   van de punten waarop de werking bijsturing behoeft;<BR>3° indien van toepassing   een voorstel van nieuwe opdrachten of bijkomende taken;<BR>4° een voorstel van   toe te kennen subsidiebedrag per werkjaar.</P>
+<p>Een gemotiveerd voorlopig advies als vermeld in artikel 89, § 3 en § 4, omvat:<br>
+1° een onderbouwde evaluatie van het beleidsplan;<br>
+2° een aanduiding van de punten waarop de werking bijsturing behoeft;<br>
+3° indien van toepassing een voorstel van nieuwe opdrachten of bijkomende taken;<br>
+4° ....</p>
 
 ### ART. 91.
 
@@ -488,43 +770,43 @@ Naast de activiteiten, vermeld in artikel 11, komen ook de creatieve   activitei
 
 ### ART. 93.
 
-<P>§ 1. De Vlaamse Regering kan aan een kunstenaar een renteloze   kunstenaarstoelage toekennen voor de overbrugging van artistieke kosten. Een   kunstenaarstoelage is een subsidie aan een kunstenaar die door de ontvanger   volledig wordt terugbetaald volgens af te spreken modaliteiten.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt nader het maximale bedrag waarvoor een   kunstenaars toelage kan worden gevraagd.<BR></P>  <P>§ 3. De Vlaamse Regering bepaalt nader de modaliteiten en de maximale termijn   waarbinnen een kunstenaarstoelage wordt terugbetaald.<BR></P>
+...
 
 ### ART. 94.
 
-<P>§ 1. Een kunstenaar die een kunstenaarstoelage aanvraagt, dient een   aanvraagdossier in bij de door de Vlaamse Regering aangewezen dienst.<BR></P>  <P>§ 2. Een aanvraagdossier voor een kunstenaarstoelage omvat:<BR>1°   documentatiemateriaal dat de professionele artistieke activiteit van de   aanvrager aantoont;<BR>2° een toelichting bij de artistieke finaliteit van de   kunstenaarstoelage; <BR>3° een begroting van de voorziene kosten en opbrengsten;   <BR>4° een toelichting bij de onmogelijkheid tot prefinanciering.<BR></P>  <P>De Vlaamse Regering bepaalt nader welke gegevens en documenten een   aanvraagdossier bevat, aan welke inhoudelijke en vormelijke voorwaarden een   aanvraagdossier voldoet en op welke wijze en wanneer een aanvraagdossier   ingediend wordt.<BR></P>
+...
 
 ### ART. 95.
 
-De door de Vlaamse Regering aangewezen dienst onderzoekt of een aanvraag   voldoet aan de ontvankelijkheidsvoorwaarden, vermeld in artikel   14.<BR>
+...
 
 ### ART. 96.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst gaat na of een   ontvankelijk aanvraagdossier voldoet aan elk van de volgende   toekenningsvoorwaarden:<BR>1° de kunstenaar is professioneel actief in de   kunstensector;<BR>2° de activiteiten behoren niet tot de activiteiten, vermeld   in artikel 11 en in artikel 92.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst toetst een ontvankelijk   aanvraagdossier aan de volgende criteria:<BR>1° artistieke finaliteit van de   gevraagde middelen;<BR>2° onmogelijkheid tot prefinanciering;<BR>3° garanties op   terugbetaling.<BR></P>  <P>§ 3. De door de Vlaamse Regering aangewezen dienst verleent over een   ontvankelijk aanvraagdossier een gemotiveerd advies over de toekenning van een   kunstenaarstoelage en, indien van toepassing, over de grootte van het toe te   kennen toelagebedrag, over de duur van de te overbruggen periode, over de duur   van de terugbetalingsperiode en over de   terugbetalingsmodaliteiten.<BR></P>
+...
 
 ### ART. 97.
 
-<P>De Vlaamse Regering beslist over de toekenning van een kunstenaarstoelage, op   basis van het gemotiveerde advies, vermeld in artikel 96, § 3.<BR></P>  <P>De Vlaamse Regering bepaalt nader de   toekenningsprocedure.<BR></P>
+...
 
 ### ART. 98.
 
-<P>Een kunstenaarstoelage wordt volledig beschikbaar gesteld na de toekenning er   van.<BR></P>  <P>Een beslissing over een kunstenaarstoelage bevat bepalingen over:<BR>1° het   toelagebedrag;<BR>2° de duur van de te overbruggen periode;<BR>3° de duur van de   terugbetalingsperiode;<BR>4° de terugbetalingsmodaliteiten.<BR></P>  <P>De Vlaamse Regering kan nadere modaliteiten bepalen over een   kunstenaarstoelage.<BR></P>
+...
 
 ### ART. 99.
 
-&nbsp;Een toelageontvanger betaalt de kunstenaarstoelage volledig terug   volgens de modaliteiten, vermeld in artikel 98.<BR>
+...
 
 ### ART. 100.
 
-Een toelageontvanger voldoet aan elk van de volgende voorwaarden:<BR>1°   tijdig een verantwoordingsdossier indienen;<BR>2° een volledig   verantwoordingsdossier indienen;<BR>3° de toelage gebruiken voor het doel   waarvoor ze is verleend, tenzij de aanvrager kan motiveren dat afwijkingen van   het aanvraagdossier noodzakelijk waren. Hierbij kan afgeweken worden van de wet   van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de   begrotingen, de controle op de subsidies en voor de boekhouding van de   gemeenschappen en de gewesten, alsook voor de organisatie van de controle door   het Rekenhof.<BR>
+...
 
 ### ART. 101.
 
-<P>§ 1. De toelageontvanger dient na afloop van de overbruggingsperiode een   verantwoordingsdossier in bij de door de Vlaamse Regering aangewezen dienst dat   aantoont hoe is voldaan aan de voorwaarden, vermeld in artikel 100.<BR></P>  <P>§ 2. Een verantwoordingsdossier omvat:<BR>1° een overzicht van de uitgaven   waaraan de toelage is besteed;<BR>2° een motivering waarom eventuele afwijkingen   van het aanvraagdossier noodzakelijk waren.<BR></P>  <P>De Vlaamse Regering bepaalt nader welke gegevens en documenten een   verantwoordingsdossier bevat, aan welke inhoudelijke en vormelijke voorwaarden   een verantwoordingsdossier voldoet en op welke wijze en wanneer een   verantwoordingsdossier ingediend wordt.<BR></P>
+...
 
 ### ART. 102.
 
-<P>De door de Vlaamse Regering aangewezen dienst onderzoekt of is voldaan aan de   voorwaarden, vermeld in artikel 100. De door de Vlaamse Regering aangewezen   dienst beoordeelt of de motivering bij eventuele afwijkingen van het   aanvraagdossier voldoende en aanvaardbaar is.<BR></P>  <P>De door de Vlaamse Regering aangewezen dienst wordt belast met het   toezicht.<BR></P>
+...
 
 ### ART. 103.
 
@@ -532,49 +814,49 @@ Een toelageontvanger voldoet aan elk van de volgende voorwaarden:<BR>1°   tijdi
 
 ### ART. 104.
 
-<P>§ 1. Een sanctie als vermeld in artikel 103, § 1, wordt door de door de   Vlaamse Regering aangewezen dienst uitgevoerd door het instellen van een   terugvordering.<BR></P>  <P>§ 2. Een sanctie als vermeld in artikel 103, § 2, wordt door de door de   Vlaamse Regering aangewezen dienst meegedeeld via een aangetekende   kennisgeving.<BR></P>
+...
 
 ## Afdeling 2 [... (opgeh. decr. 29 juni 2018, art. 30, I: 1 januari 2019)]
 
 ### ART. 105.
 
-<P>De Vlaamse Regering kan een subsidie toekennen voor de ondersteuning van een   partnerproject. In een partnerproject ontwikkelt een actor uit het kunstenveld,   in samenwerking met een of meerdere partnerorganisaties buiten het kunstenveld,   een artistiek initiatief met bijzondere innovatieve waarde voor alle betrokken   partners.<BR></P>  <P>De actor uit het kunstenveld kan zowel een persoon als een organisatie zijn.   <BR></P>  <P>Elke partner uit het partnerproject kan optreden als aanvrager van   ondersteuning.<BR></P>
+...
 
 ### ART. 106.
 
-Een subsidie voor een partnerproject is een   projectsubsidie.<BR>
+...
 
 ### ART. 107.
 
-Een aanvraagdossier voldoet aan de ontvankelijkheidsvoorwaarden, vermeld   in artikel 14. Alle aan een partnerproject deelnemende organisaties moeten   beschikken over rechtspersoonlijkheid.<BR>
+...
 
 ### ART. 108.
 
-<P>&nbsp;§ 1. Een persoon of een organisatie die een subsidie voor een   partnerproject aanvraagt, dient een aanvraagdossier in bij de door de Vlaamse   Regering aangewezen dienst.<BR></P>  <P>§ 2. Een aanvraagdossier voor een partnerproject omvat:<BR>1° een toelichting   bij het inhoudelijk concept van het project;<BR>2° het profiel en de   activiteiten van de betrokken partners;<BR>3° de aard en de omvang van de   inbreng van de betrokken partners;<BR>4° de raming van kosten en opbrengsten van   het project;<BR>5° de innovatieve meerwaarde voor alle partners.<BR></P>  <P>De Vlaamse Regering bepaalt nader welke gegevens en documenten een   aanvraagdossier bevat, aan welke inhoudelijke en vormelijke voorwaarden een   aanvraagdossier voldoet en op welke wijze en wanneer een aanvraagdossier   ingediend wordt.<BR></P>
+...
 
 ### ART. 109.
 
-De door de Vlaamse Regering aangewezen dienst onderzoekt de   ontvankelijkheid, vermeld in artikel 14 en in artikel 107.<BR>
+...
 
 ### ART. 110.
 
-<P>§ 1. Een commissie als vermeld in artikel 44 gaat na of een ontvankelijk   aanvraagdossier voldoet aan elk van de toekenningsvoorwaarden, vermeld in   artikel 11 en artikel 92.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst, toetsen een ontvankelijk aanvraagdossier aan de volgende   criteria:<BR>1° artistieke innovatieve waarde van het project voor alle   partners;<BR>2° relevantie voor het kunstenveld;<BR>3° kwaliteit van de   betrokken partners en hun relevantie voor het project;<BR>4° inbreng van de   betrokken partners;<BR>5° haalbaarheid van de begroting;<BR>6° indien van   toepassing, de nadere bepaling door de Vlaamse Regering van de   criteria.<BR></P>
+...
 
 ### ART. 111.
 
-De beoordeling van een ontvankelijk aanvraagdossier en de beslissing over   de toekenning gebeurt volgens de bepalingen, vermeld in artikel 43, in artikel   44, en in artikel 46 tot en met artikel 48.<BR>
+...
 
 ### ART. 112.
 
-<P>Een subsidie wordt in de vorm van voorschotten beschikbaar gesteld na de   ondertekening van een subsidiebesluit.<BR></P>  <P>De Vlaamse Regering bepaalt nader hoe de voorschotten worden berekend en   betaald.<BR></P>
+...
 
 ### ART. 113.
 
-De subsidieontvanger voldoet aan:<BR>1° de subsidievoorwaarden, vermeld in   artikel 51, en in artikel 52, § 2, 1°, in artikel 52, § 2, 2°, en in artikel 52,   § 3; <BR>2° de verantwoordingsplicht, vermeld in artikel 53.<BR>
+...
 
 ### ART. 114.
 
-De door de Vlaamse Regering aangewezen dienst:<BR>1° houdt toezicht als   vermeld in artikel 54 op de tijdigheid en volledigheid van een   verantwoordingsdossier van een partnerproject;<BR>2° houdt toezicht als vermeld   in artikel 55 tot en met artikel 60 op de doelmatige en rechtmatige   subsidieaanwending van een partnerproject.<BR>
+...
 
 ## Afdeling 3 Cofinanciering van internationale kunstprojecten
 
@@ -626,11 +908,19 @@ De Vlaamse Regering duidt buitenlandse residentieplekken aan waarmee een   samen
 
 ### ART. 125.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt welke   residentieplekken in aanmerking kunnen komen voor aanduiding als vermeld in   artikel 124, en houdt daarbij rekening met:<BR>1° de stad of regio waar de   residentieplek gevestigd is;<BR>2° de kwaliteit van de residentiewerking;<BR>3°   de complementariteit van de residentiewerking met de overige in aanmerking te   nemen residentieplekken;<BR>4° indien van toepassing, de nadere bepaling door de   Vlaamse Regering van de criteria.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst beoordeelt een   residentieplek en stelt een gemotiveerd advies op.<BR></P>  <P>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een voorstel van   beslissing over een actualisatie van de lijst met aangeduide residentieplekken   aan de Vlaamse Regering.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt welke residentieplekken in aanmerking kunnen komen voor aanduiding als vermeld in artikel 124, en houdt daarbij rekening met:<br>
+1° de stad of regio waar de residentieplek gevestigd is;<br>
+2° de kwaliteit van de residentiewerking;<br>
+3° de complementariteit van de residentiewerking met de overige in aanmerking te nemen residentieplekken;<br>
+4° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst beoordeelt een residentieplek en stelt een gemotiveerd advies op.</p>
+
+<p>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een ontwerp van beslissing over een actualisatie van de lijst met aangeduide residentieplekken aan de Vlaamse Regering.</p>
 
 ### ART. 126.
 
-De Vlaamse Regering beslist over de actualisatie van de lijst met   internationale residentieplekken op basis van het advies, vermeld in artikel   125, § 2, en het voorstel van beslissing, vermeld in artikel 125, §   3.<BR>
+De Vlaamse Regering beslist over de actualisatie van de lijst met internationale residentieplekken op basis van het advies, vermeld in artikel 125, § 2, en het ontwerp van beslissing, vermeld in artikel 125, § 3.
 
 ### ART. 127.
 
@@ -688,11 +978,24 @@ De Vlaamse Regering duidt buitenlandse presentatieplekken aan waarmee een   same
 
 ### ART. 139.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt welke   buitenlandse presentatieplekken in aanmerking kunnen komen voor aanduiding als   vermeld in artikel 138 en houdt daarbij rekening met de volgende kenmerken van   de buitenlandse presentatieplek:<BR>1° de stad of regio waar de buitenlandse   presentatieplek gevestigd is;<BR>2° de inhoudelijke werking;<BR>3° de   mogelijkheden tot presentatie van Vlaamse kunstenaars, kunstwerken of producties   in het langetermijnbeleid;<BR>4° de publiekswerking en het promotiebeleid;<BR>5°   de omkaderende activiteiten;<BR>6° de planning van concrete presentaties;<BR>7°   een budgettering van opbrengsten en kosten voor geplande presentaties;<BR>8° de   complementariteit van de buitenlandse presentatieplek met de overige in   aanmerking te nemen buitenlandse presentatieplekken;<BR>9° indien van   toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.<BR></P>  <P>§ 2. De door de Vlaamse Regering aangewezen dienst beoordeelt een   presentatieplek en stelt een gemotiveerd advies op.<BR></P>  <P>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een voorstel van   beslissing over een actualisatie van de lijst met aangeduide presentatieplekken   aan de Vlaamse Regering.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst onderzoekt welke buitenlandse presentatieplekken in aanmerking kunnen komen voor aanduiding als vermeld in artikel 138 en houdt daarbij rekening met de volgende kenmerken van de buitenlandse presentatieplek:<br>
+1° de stad of regio waar de buitenlandse presentatieplek gevestigd is;<br>
+2° de inhoudelijke werking;<br>
+3° de mogelijkheden tot presentatie van Vlaamse kunstenaars, kunstwerken of producties in het langetermijnbeleid;<br>
+4° de publiekswerking en het promotiebeleid;<br>
+5° de omkaderende activiteiten;<br>
+6° de planning van concrete presentaties;<br>
+7° een budgettering van opbrengsten en kosten voor geplande presentaties;<br>
+8° de complementariteit van de buitenlandse presentatieplek met de overige in aanmerking te nemen buitenlandse presentatieplekken;<br>
+9° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.</p>
+
+<p>§ 2. De door de Vlaamse Regering aangewezen dienst beoordeelt een presentatieplek en stelt een gemotiveerd advies op.</p>
+
+<p>§ 3. De door de Vlaamse Regering aangewezen dienst bezorgt een ontwerp van beslissing over een actualisatie van de lijst met aangeduide presentatieplekken aan de Vlaamse Regering.</p>
 
 ### ART. 140.
 
-De Vlaamse Regering beslist over de actualisatie van de lijst met   internationale presentatieplekken op basis van het advies, vermeld in artikel   139, § 2, en het voorstel van beslissing, vermeld in artikel 139, §   3.<BR>
+De Vlaamse Regering beslist over de actualisatie van de lijst met internationale presentatieplekken op basis van het advies, vermeld in artikel 139, § 2, en het&nbsp;ontwerp van beslissing, vermeld in artikel 139, § 3.
 
 ### ART. 141.
 
@@ -726,7 +1029,9 @@ De beoordeling van een ontvankelijk aanvraagdossier en de beslissing over   de t
 
 ### ART. 148.
 
-<P>Een toegekende tussenkomst voor buitenlandse publieke presentatiemomenten   wordt in de vorm van voorschotten beschikbaar gesteld na ondertekening van een   subsidiebesluit tenzij het subsidieverslag lager is dan een door de Vlaamse   Regering te bepalen grensbedrag.<BR></P>  <P>De Vlaamse Regering bepaalt nader de procedure voor het uitbetalen van de   subsidies, als bedoeld in artikel 143.<BR></P>
+<p>Een toegekende tussenkomst voor buitenlandse publieke presentatiemomenten wordt in de vorm van voorschotten beschikbaar gesteld na ondertekening van een subsidiebesluit tenzij het subsidiebedrag lager is dan een door de Vlaamse Regering te bepalen grensbedrag.</p>
+
+<p>De Vlaamse Regering bepaalt nader de procedure voor het uitbetalen van de subsidies, als bedoeld in artikel 143.</p>
 
 ### ART. 149.
 
@@ -752,7 +1057,18 @@ Een aanvraagdossier voldoet aan de ontvankelijkheidsvoorwaarden, vermeld   in ar
 
 ### ART. 154.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst gaat na of een   ontvankelijk aanvraagdossier voldoet aan elk van de volgende   toekenningsvoorwaarden:<BR>1° de toekenningsvoorwaarden, vermeld in artikel 11   en in artikel 92;<BR>2° de toekenningsvoorwaarden, vermeld in artikel 23, indien   de aanvrager een individu is;<BR>3° beschikken over rechtspersoonlijkheid indien   de aanvrager een organisatie is.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst, toetsen een ontvankelijk aanvraagdossier aan de volgende   criteria:<BR>1° artistieke kwaliteit van de aanvrager;<BR>2°   potentieelinschatting van de doorbraak;<BR>3° haalbaarheid van de   planning;<BR>4° haalbaarheid van de ingeschatte kosten en opbrengsten;<BR>5°   haalbaarheid van de effecten op middellange termijn;<BR>6° indien van   toepassing, de nadere bepaling door de Vlaamse Regering van de   criteria.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst gaat na of een ontvankelijk aanvraagdossier voldoet aan elk van de volgende toekenningsvoorwaarden:<br>
+1° de toekenningsvoorwaarden, vermeld in artikel 11 en in artikel 92;<br>
+2° de toekenningsvoorwaarden, vermeld in artikel 23, indien de aanvrager een individu is;<br>
+3° beschikken over rechtspersoonlijkheid indien de aanvrager een organisatie is.</p>
+
+<p>§ 2. Een commissie als vermeld in artikel 44 toetst&nbsp;een ontvankelijk aanvraagdossier aan de volgende criteria:<br>
+1° artistieke kwaliteit van de aanvrager;<br>
+2° potentieelinschatting van de doorbraak;<br>
+3° haalbaarheid van de planning;<br>
+4° haalbaarheid van de ingeschatte kosten en opbrengsten;<br>
+5° haalbaarheid van de effecten op middellange termijn;<br>
+6° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.</p>
 
 ### ART. 155.
 
@@ -778,7 +1094,22 @@ De Vlaamse Regering kan een projectsubsidie toekennen aan een   internationale n
 
 ### ART. 160.
 
-<P>§ 1. De door de Vlaamse Regering aangewezen dienst gaat na of een   ontvankelijk aanvraagdossier voldoet aan elk van de toekenningsvoorwaarden,   vermeld in artikel 11, in artikel 33, § 1, 1°, en in artikel 92.<BR></P>  <P>§ 2. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst, toetsen een ontvankelijk aanvraagdossier voor een subsidie   aan een netwerkorganisatie aan de volgende criteria:<BR>1° kwaliteit van de   werking;<BR>2° het draagvlak van het netwerk binnen het kunstenveld;<BR>3° de   internationale uitstraling;<BR>4° de impact op het vlak van concrete   uitwisseling en samenwerking;<BR>5° de uitwisseling van deskundigheid;<BR>6° het   sporen van het inhoudelijke met het financiële beleidsplan;<BR>7° indien van   toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.<BR></P>  <P>§ 3. Een commissie als vermeld in artikel 44, en de door de Vlaamse Regering   aangewezen dienst, toetsen een ontvankelijk aanvraagdossier voor een   netwerkevenement aan de volgende criteria:<BR>1° internationale   uitstraling;<BR>2° relevantie voor het kunstenveld;<BR>3° mogelijkheid tot   deelname aan het initiatief door individuele kunstenaars of   kunstprofessionals;<BR>4° indien van toepassing, de nadere bepaling door de   Vlaamse Regering van de criteria.<BR></P>
+<p>§ 1. De door de Vlaamse Regering aangewezen dienst gaat na of een ontvankelijk aanvraagdossier voldoet aan elk van de toekenningsvoorwaarden, vermeld in artikel 11, in artikel 33, § 1, 1°, en in artikel 92.</p>
+
+<p>§ 2. Een commissie als vermeld in artikel 44 toetst&nbsp;een ontvankelijk aanvraagdossier voor een subsidie aan een netwerkorganisatie aan de volgende criteria:<br>
+1° kwaliteit van de werking;<br>
+2° het draagvlak van het netwerk binnen het kunstenveld;<br>
+3° de internationale uitstraling;<br>
+4° de impact op het vlak van concrete uitwisseling en samenwerking;<br>
+5° de uitwisseling van deskundigheid;<br>
+6° het sporen van het inhoudelijke met het financiële beleidsplan;<br>
+7° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.</p>
+
+<p>§ 3. Een commissie als vermeld in artikel 44 toetst een ontvankelijk aanvraagdossier voor een subsidie aan een netwerkevenement aan de volgende criteria:<br>
+1° internationale uitstraling;<br>
+2° relevantie voor het kunstenveld;<br>
+3° mogelijkheid tot deelname aan het initiatief door individuele kunstenaars of kunstprofessionals;<br>
+4° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria.</p>
 
 ### ART. 161.
 
@@ -844,7 +1175,7 @@ De Vlaamse Regering richt een afzonderlijke beoordelingscommissie op met   dezel
 
 ### ART. 175.
 
-Een commissie als vermeld in artikel 174, en de door de Vlaamse Regering   aangewezen dienst toetsen een beleidsplan aan de criteria, vermeld in artikel   88, § 2.<BR>
+Een commissie als vermeld in artikel 174 toetst&nbsp;een beleidsplan aan de criteria, vermeld in artikel 88, § 2.
 
 ### ART. 176.
 
@@ -883,3 +1214,7 @@ De Vlaamse Regering verlengt de duur van de beheersovereenkomst met het   Kunste
 ### ART. 184.
 
 De eerste vijfjarige subsidieperiode voor werkingssubsidies, vermeld in   artikel 25, vangt aan in 2017.<BR>
+
+### ART 185.
+
+Artikel 70, § 2/1, is vanaf 1 januari 2019 van toepassing op alle nieuwe aanstellingen van artistieke en zakelijke eindverantwoordelijken door kunstinstellingen.
