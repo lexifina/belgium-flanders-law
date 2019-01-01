@@ -49,7 +49,7 @@ De bepalingen van dit hoofdstuk zijn uitsluitend van toepassing op Vlaamse PPS-p
 
 ### ART. 8.
 
-In afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domein-goederen, gewijzigd bij de wetten van 2 juli 1969 en 6 juli 1989 en bij het decreet van 6 juli 2001, en van overeenkomstige toepassing verklaard op de Vlaamse Gemeenschap en het Vlaamse Gewest bij artikel 22 van het decreet van 20 december 1989 houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap, kan de Vlaamse regering de onroerende goederen die behoren tot het privaat domein van de Vlaamse Gemeenschap of het Vlaamse Gewest, ongeacht de geschatte waarde ervan, uit de hand of bij wijze van ruiling vervreemden en er zakelijke rechten op vestigen, zonder enige vorm van voorafgaande kennisgeving aan de personen die volgens de laatste kadastra-le toestand een principaal zakelijk recht bezitten op de aangrenzende percelen.
+In afwijking van artikel 4 van het decreet van 30 november 2018 betreffende het vervreemden van onroerende domeingoederen en het vestigen en vervreemden van zakelijke rechten door de Vlaamse Gemeenschap en het Vlaamse Gewest, kan de Vlaamse Regering de onroerende domeingoederen van de Vlaamse Gemeenschap en het Vlaamse Gewest, ongeacht de geschatte waarde ervan, uit de hand of bij wijze van ruiling vervreemden en er zakelijke rechten op vestigen, zonder enige vorm van voorafgaande kennisgeving aan de natuurlijke of rechtspersonen die volgens de laatste kadastrale toestand eigenaar zijn van percelen die grenzen aan onroerende domeingoederen van de Vlaamse Gemeenschap of het Vlaamse Gewest.
 
 ### ART. 9.
 
