@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030215,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-14 tot vaststelling van de tuchtprocedure voor het statutaire provinciepersoneel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030215/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f0173f435fa95cfa2522c6d36e11f9b3f8c95df8c91d85f4fa98a5fc9011c6e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030215&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-14",
+  "gazette": "2019-02-01",
+  "numac": 2019010460,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
