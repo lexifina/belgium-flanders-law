@@ -2,16 +2,16 @@
   "codex_id": 1007313,
   "title": "Besluit van de Vlaamse Regering van 2000-05-19 tot vaststelling van nadere regels voor de samenstelling, de organisatie en de werkwijze van de provinciale [, intergemeentelijke] en gemeentelijke commissies voor ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007313/VolledigDocument?datum=2017-02-23",
-  "source_sha256": "6cd59605ee8252ba8a66b5f8922873e1ccf07ce2fc3dd4855fa04edc46fe1efe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007313/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "90ce43ce7545f4498f7ae387ff94a0454f88eaebc554ec2debd6d5274cf72305",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007313&param=informatie",
-  "as_of": "2017-02-23",
+  "as_of": "2019-01-01",
   "made": "2000-05-19",
   "gazette": "2000-06-03",
   "numac": 2000035561,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-02-23",
+  "in_force": "2019-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2017-02-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
