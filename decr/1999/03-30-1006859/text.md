@@ -115,7 +115,19 @@ De Beroepscommissie is bevoegd inzake inhoudelijke bezwaren tegen de besluiten v
 
 ### ART. 12.
 
-§ 1. [De besluiten van het Fondsbestuur, het Beslissingscollege, de Adviescommissies en de Be-roepscommissie worden genomen bij meerderheid van de uitgebrachte stemmen. De voorzitters hebben een beslissende stem bij staking van stemmen.  <span class="reference">(verv. Decr. 30 april 2004, art. 12, I: 9 juli 2004)</span> ]<br /><br />§ 2. [...  <span class="reference">(opgeh. Decr. 30 april 2004, art. 12, I: 9 juli 2004)</span> ]<br /><br />§ 3. De Vlaamse regering kan te allen tijde gegevens opvragen aan het VFL en bij monde van de vertegenwoordiger van de Vlaamse regering klachten en suggesties formuleren.<br /><br />§ 4. Om geldig te kunnen beslissen moet de meerderheid van de leden aanwezig zijn. Is dat niet het geval, dan wordt na ten minste drie werkdagen en uiterlijk na dertig dagen een nieuwe vergadering bijeengeroepen, waarop geldig kan worden beslist ongeacht het aantal aanwezigen.<br /><br />§ 5. Het Fondsbestuur vergadert telkens wanneer de voorzitter, de vertegenwoordiger van de Vlaamse regering of ten minste drie bestuursleden hierom verzoeken.<br /><br />§ 6. [De leden van het Fondsbestuur, het Beslissingscollege, de Beroepscommissie en de Adviescommissies worden voor hun werkzaamheden vergoed. De vergoeding wordt vastgesteld door het Fondsbestuur tijdens de eerste vergadering van het kalenderjaar.  <span class="reference">(verv. Decr. 30 april 2004, art. 12, I: 9 juli 2004)</span> ]<br /><br />§ 7. De voorzitters van de bestuurs- en adviesorganen van het VFL plaatsen een onderwerp op de agenda van de volgende vergadering, wanneer dat door de vertegenwoordiger van de Vlaamse regering of door een lid van één van de bestuurs- [beslissings-, beroeps-  <span class="reference">(ing. Decr. 30 april 2004, art. 12, I: 9 juli 2004)</span> ] of adviesorganen schriftelijk is aangevraagd.
+§ 1. De besluiten van het Fondsbestuur, het Beslissingscollege, de Adviescommissies en de Be-roepscommissie worden genomen bij meerderheid van de uitgebrachte stemmen. De voorzitters hebben een beslissende stem bij staking van stemmen.&nbsp;<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De Vlaamse regering kan te allen tijde gegevens opvragen aan het VFL en bij monde van de vertegenwoordiger van de Vlaamse regering klachten en suggesties formuleren.<br>
+<br>
+§ 4. Om geldig te kunnen beslissen moet de meerderheid van de leden aanwezig zijn. Is dat niet het geval, dan wordt na ten minste drie werkdagen en uiterlijk na dertig dagen een nieuwe vergadering bijeengeroepen, waarop geldig kan worden beslist ongeacht het aantal aanwezigen.<br>
+<br>
+§ 5. Het Fondsbestuur vergadert telkens wanneer de voorzitter, de vertegenwoordiger van de Vlaamse regering of ten minste drie bestuursleden hierom verzoeken.<br>
+<br>
+§ 6. De leden van het Fondsbestuur, het Dagelijks Bestuur, met uitzondering van de directeur, het Beslissingscollege, de Beroepscommissie en de Adviescommissies worden voor hun werkzaamheden vergoed. De vergoeding wordt vastgesteld door het Fondsbestuur tijdens de eerste vergadering van het kalenderjaar.&nbsp;<br>
+<br>
+§ 7. De voorzitters van de bestuurs- en adviesorganen van het VFL plaatsen een onderwerp op de agenda van de volgende vergadering, wanneer dat door de vertegenwoordiger van de Vlaamse regering of door een lid van één van de bestuurs- beslissings-, beroeps-&nbsp;of adviesorganen schriftelijk is aangevraagd.
 
 ### ART. 13.
 
