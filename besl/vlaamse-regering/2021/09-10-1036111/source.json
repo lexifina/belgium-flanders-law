@@ -1,0 +1,17 @@
+{
+  "codex_id": 1036111,
+  "title": "Besluit van de Vlaamse Regering van 2021-09-10 tot wijziging van artikel 30 en artikel 35 van het besluit van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap en tot invoeging van een hoofdstuk 7/1 in het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie en een hoofdstuk 9/1 in het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1036111/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "b8949d4c6d96c771cd889d17cd663b11160e91ca7c55f0951caad6e3ec66b48e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1036111&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2021-09-10",
+  "gazette": "2021-10-07",
+  "numac": 2021033304,
+  "document_start": "2021-10-17",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
