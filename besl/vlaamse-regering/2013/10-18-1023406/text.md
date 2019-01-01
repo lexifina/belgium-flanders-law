@@ -52,7 +52,13 @@ Onafhankelijke deskundigen van het ene auditcomité kunnen deel uitmaken   van h
 
 ### ART. 11.
 
-<P>De Vlaamse Regering duidt de vertegenwoordigers van de lokale besturen aan,   na voordracht van de vertegenwoordigers van deze organisaties.<BR></P>  <P>De onafhankelijke deskundigen worden, op voordracht van de auditcomités,   aangeduid door de Vlaamse Regering voor een periode van vijf jaar die maximaal   eenmaal hernieuwbaar is.<BR></P>  <P>Telkens in een auditcomité één of meerdere mandaten van onafhankelijke   deskundigen of vertegenwoordigers van de lokale besturen in toepassing van   artikel 19 van het Auditdecreet van 5 juli 2013 te begeven zijn, wordt per   mandaat de kandidatuur van minstens één man en één vrouw voorgedragen.<BR></P>  <P>De Vlaamse Regering duidt onder de onafhankelijke deskundigen de voorzitters   van de auditcomités aan, op voordracht van de   auditcomités.<BR></P>
+<p>De Vlaamse Regering duidt de vertegenwoordigers van de lokale besturen aan, na voordracht van de vertegenwoordigers van deze organisaties.</p>
+
+<p>De onafhankelijke deskundigen worden, op voordracht van de auditcomités, aangeduid door de Vlaamse Regering voor een periode van vijf jaar die maximaal eenmaal hernieuwbaar is.</p>
+
+<p>Telkens in een auditcomité één of meerdere mandaten van onafhankelijke deskundigen of vertegenwoordigers van de lokale besturen in toepassing van artikel III.115, § 4, van het bestuursdecreet van 7 december 2018 te begeven zijn, wordt per mandaat de kandidatuur van minstens één man en één vrouw voorgedragen.</p>
+
+<p>De Vlaamse Regering duidt onder de onafhankelijke deskundigen de voorzitters van de auditcomités aan, op voordracht van de auditcomités.</p>
 
 ### ART. 12.
 
@@ -70,11 +76,17 @@ Onverminderd de bevoegdheden en de eigen beslissingsprocedure van elk   auditcom
 
 ### ART. 15.
 
-<P>§ 1. Overeenkomstig artikel 19, tweede lid, van het Auditdecreet van 5 juli   2013 staan de auditcomités in voor de aansturing van het agentschap. Die   aansturing gebeurt via de beheersovereenkomst. Overeenkomstig artikel 8 van het   kaderdecreet bestuurlijk beleid van 18 juli 2003 en artikel 19, tweede lid, van   het Auditdecreet van 5 juli 2013 wordt de beheersovereenkomst gesloten tussen de   auditcomités en het hoofd van het agentschap.<BR></P>  <P>§ 2. De onderhandeling over de beheersovereenkomst, alsook elke verlenging,   wijziging, schorsing of ontbinding ervan, gebeurt tussen enerzijds de   auditcomités en anderzijds het hoofd van het agentschap.<BR></P>  <P>Op voorstel van beide auditcomités wordt de beheersovereenkomst, alsook elke   verlenging, wijziging, schorsing of ontbinding ervan, door de minister-president   en de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, ter   bekrachtiging voorgelegd aan de Vlaamse Regering.<BR></P>
+...
 
 ### ART. 16.
 
-<P>Overeenkomstig artikel 19, tweede lid, van het Auditdecreet van 5 juli 2013   zijn de auditcomités verantwoordelijk voor de opvolging van en het toezicht op   het agentschap. Daarvoor keuren ze het jaarlijkse ondernemingsplan van het   agentschap goed.<BR></P>  <P>De auditcomités kunnen, zowel in het kader van de adviesverlening als in het   kader van de opvolging en de uitoefening van het toezicht, op ieder ogenblik aan   het hoofd van het agentschap informatie, rapportering en verantwoording vragen   over bepaalde aangelegenheden, zowel op geaggregeerd niveau als op niveau van   individuele onderwerpen en dossiers. Elk auditcomité kan, als dat noodzakelijk   is, vragen aan personeelsleden van de organisatie waar een audit is uitgevoerd,   om toelichting te geven op een bijeenkomst van het auditcomité.<BR></P>  <P>Op voorwaarde dat de auditcomités daarvoor hun goedkeuring verlenen, wordt na   een selectieprocedure waarbij ook de auditcomités betrokken zijn, een   gekwalificeerde en onafhankelijke persoon of instantie aangewezen, die instaat   voor de evaluatie van de werking van het agentschap. De frequentie van die   evaluatie wordt bepaald door de auditcomités.<BR></P>  <P>De auditcomités kunnen een forensische audit laten uitvoeren in het   agentschap.<BR></P>
+<p>Overeenkomstig artikel III.115, § 4, tweede lid, van het bestuursdecreet van 7 december 2018 zijn de auditcomités verantwoordelijk voor de aansturing en de opvolging van en het toezicht op het agentschap. Daarvoor keuren ze het jaarlijkse ondernemingsplan van het agentschap goed.</p>
+
+<p>De auditcomités kunnen, zowel in het kader van de adviesverlening als in het kader van de opvolging en de uitoefening van het toezicht, op ieder ogenblik aan het hoofd van het agentschap informatie, rapportering en verantwoording vragen over bepaalde aangelegenheden, zowel op geaggregeerd niveau als op niveau van individuele onderwerpen en dossiers. Elk auditcomité kan, als dat noodzakelijk is, vragen aan personeelsleden van de organisatie waar een audit is uitgevoerd, om toelichting te geven op een bijeenkomst van het auditcomité.</p>
+
+<p>Op voorwaarde dat de auditcomités daarvoor hun goedkeuring verlenen, wordt na een selectieprocedure waarbij ook de auditcomités betrokken zijn, een gekwalificeerde en onafhankelijke persoon of instantie aangewezen, die instaat voor de evaluatie van de werking van het agentschap. De frequentie van die evaluatie wordt bepaald door de auditcomités.</p>
+
+<p>De auditcomités kunnen een forensische audit laten uitvoeren in het agentschap.</p>
 
 ### ART. 17.
 
@@ -108,15 +120,20 @@ Het agentschap rapporteert over zijn werkzaamheden en bevindingen aan de   audit
 
 ### ART. 24.
 
-<P>Conform artikel 9 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 en   artikel 25 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot   regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de   intern verzelfstandigde agentschappen van de Vlaamse overheid, omvat de   informatieverstrekking en de rapportering door het agentschap ten minste :<BR>1°   een jaarlijks ondernemingsplan;<BR>2° een periodiek rapport over het gebruik van   de verleende delegaties;<BR>3° een jaarlijks rapport, alsook een eindrapport,   over de uitvoering van de beheersovereenkomst, op basis van beleids- en   beheersrelevante indicatoren en kengetallen.<BR></P>  <P>Zowel in het ondernemingsplan als in het jaarverslag geeft het agentschap aan   wat de verhouding is tussen de activiteiten als externe audit en deze als   interne audit.<BR></P>
+<p>Conform artikel III.61 en III.62 van het bestuursdecreet van 7 december 2018 en artikel 26 van het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, omvat de informatieverstrekking en de rapportering door het agentschap ten minste :<br>
+1° een jaarlijks ondernemingsplan;<br>
+2° een periodiek rapport over het gebruik van de verleende delegaties;<br>
+3° een jaarlijks rapport, alsook een eindrapport, over de uitvoering van het ondernemingsplan, op basis van beleids- en beheersrelevante indicatoren en kengetallen.</p>
+
+<p>Zowel in het ondernemingsplan als in het jaarverslag geeft het agentschap aan wat de verhouding is tussen de activiteiten als externe audit en deze als interne audit.</p>
 
 ### ART. 25.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid   voor de aangelegenheden die zijn vastgesteld in het besluit van de Vlaamse   Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde   agentschappen van de Vlaamse overheid.<BR>
+Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.
 
 ### ART. 26.
 
-Bij het gebruik van de delegaties gelden de algemene voorwaarden en   beperkingen, alsook de bepalingen over de mogelijkheid tot subdelegatie, de   regeling bij vervanging en de verantwoording, vermeld in het besluit van de   Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde   agentschappen van de Vlaamse overheid.<BR>
+Bij het gebruik van de delegaties gelden de algemene voorwaarden en beperkingen, alsook de bepalingen over de mogelijkheid tot subdelegatie, de regeling bij vervanging en de verantwoording, vermeld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
