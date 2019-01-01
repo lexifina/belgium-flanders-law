@@ -32,7 +32,7 @@ Het apparaat, vermeld in het eerste lid, mag alleen bestaan uit een lineaire ver
 
 ### ART 4.
 
-Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
+Voor een PET-scanner die op zijn vroegst in 2015 is geïnstalleerd, wordt er jaarlijks een forfaitaire subsidie van 200.000 euro toegekend tijdens de duur van de erkenning van de dienst waarbij het apparaat geïnstalleerd is. Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 100.000 euro. De subsidie wordt voor het eerst toegekend in het jaar dat volgt op het jaar waarin het apparaat geïnstalleerd is.<br>
 Het apparaat, vermeld in het eerste lid, past in het maximale aantal apparaten dat mag worden uitgebaat met toepassing van artikel 3 van het koninklijk besluit van 25 april 2014 houdende vaststelling van het maximum aantal PET-scanners en diensten nucleaire geneeskunde waarin een PET-scanner wordt opgesteld, dat uitgebaat mag worden.
 
 ### ART 5.
