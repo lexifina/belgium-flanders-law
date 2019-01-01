@@ -288,6 +288,16 @@ b) de ouders, in eigen naam of namens de niet-bekwame leerling.<br>
 <br>
 § 2. De overdracht van gegevens uit het multidisciplinaire dossier, vermeld in paragraaf 1, vindt plaats onder de verantwoordelijkheid van de directeur van het centrum waartoe de leerling behoort, en de verantwoordelijke beroepsbeoefenaar in de gezondheidszorg van het centrum.
 
+### ART 28/1.
+
+In afwijking van artikel 28 hebben personeelsleden van de school waar de leerling met een verslag of een gemotiveerd verslag ingeschreven is of de lessen volgt, recht op inzage van het verslag of het gemotiveerde verslag uit het multidisciplinaire dossier van de leerling. Dat recht op inzage geldt ook voor de personeelsleden van de school voor buitengewoon onderwijs die in het kader van het ondersteuningsmodel instaan voor de begeleiding van de leerling met een verslag of een gemotiveerd verslag.<br>
+<br>
+De inzage kan op digitale wijze verlopen. Bij elke inzage wordt de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens toegepast.<br>
+<br>
+Aan de zijde van het centrum voor leerlingenbegeleiding dat instaat voor de begeleiding en de ondersteuning van de leerling met een verslag of gemotiveerd verslag is het centrum zelf verwerkingsverantwoordelijke. Aan de zijde van de school waar de leerling met een verslag of gemotiveerd verslag is ingeschreven, is het schoolbestuur van de school waar de leerling met een verslag of een gemotiveerd verslag is ingeschreven de verwerkingsverantwoordelijke.<br>
+<br>
+In het belang van de optimale begeleiding van de betrokken leerling en de organisatie van de school kunnen leerlingen en ouders zich niet verzetten tegen de inzage.
+
 ### ART 29.
 
 Het centrum bewaart het multidisciplinaire dossier van de leerling tot ten minste tien jaar na de datum van het laatst uitgevoerde systematische contact of de laatst uitgevoerde vaccinatie.<br>
