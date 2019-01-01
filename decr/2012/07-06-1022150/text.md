@@ -179,19 +179,19 @@ In aanvulling op de documenten, vermeld in artikel 16, moeten de organisaties, v
 
 ### ART. 34.
 
-De Vlaamse Regering subsidieert een organisatie die als doel heeft :<br />1° een platform te organiseren voor uitwisseling van kennis en expertise tussen openbare bibliotheken, wetenschappelijke bibliotheken, documentatiediensten en archieven;<br />2° de leden te informeren over de werking van de organisatie;<br />3° op te treden als vertegenwoordiger van alle aangesloten leden ten aanzien van de overheid, telkens als daarom gevraagd wordt.<br /><br />Om gesubsidieerd te kunnen worden moet de organisatie minstens de helft van alle gesubsidieerde openbare bibliotheken tot lid hebben.<br /><br />
+...
 
 ### ART. 35.
 
-De organisatie, vermeld in artikel 34, concretiseert haar werking om de vijf jaar in een meerjarenplan.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering aan de organisatie een jaarlijkse subsidie toe voor personeel en werking, waarvan zij het bedrag bepaalt.<br /><br />
+...
 
 ### ART. 36.
 
-De Vlaamse Regering subsidieert een organisatie die als doel heeft :<br />1° een gemeenschappelijk platform te organiseren voor de aangesloten cultuurcentra;<br />2° de leden te informeren over de werking van de organisatie;<br />3° op te treden als vertegenwoordiger van alle aangesloten leden ten aanzien van de overheid, telkens als daarom gevraagd wordt.<br /><br />Om gesubsidieerd te kunnen worden, moet de organisatie minstens de helft van alle gesubsidieerde cultuurcentra tot lid hebben.<br /><br />
+...
 
 ### ART. 37.
 
-De organisatie, vermeld in artikel 36, concretiseert haar werking om de vijf jaar in een meerjarenplan.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering aan de organisatie een jaarlijkse subsidie toe voor personeel en werking, waarvan ze het bedrag bepaalt.<br /><br />
+...
 
 ## HOOFDSTUK 5 Intergemeentelijke samenwerking voor afstemming van het cultuuraanbod en de communicatie
 
