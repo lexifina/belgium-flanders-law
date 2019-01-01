@@ -88,9 +88,7 @@ In afwijking van artikel 3, § 2, tweede lid, van het decreet van 6 juli 2001 ho
 
 ### ART. 16.
 
-In afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domein-goederen, van toepassing verklaard op het Vlaamse Gewest bij artikel 22 van het decreet 20 december 1989 houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap, kan de Vlaamse regering als monument beschermde monumenten en de erbij horende goederen en terreinen die ze in eigendom heeft in erfpacht geven of in volle eigendom afstaan aan de vzw Herita of aan de provincie of stad of gemeente waar ze gelegen zijn.<br>
-<br>
-De Vlaamse regering wordt gemachtigd de voorwaarden en het bedrag te bepalen van de jaarlijkse canon of van de vergoeding voor de afstand van de eigendom.
+...
 
 ## HOOFDSTUK XIV BODEMBESCHERMINGSFONDS
 
