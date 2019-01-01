@@ -22,7 +22,7 @@ Bij het uitoefenen van zijn taken treedt het departement op namens de rechtspers
 
 ### ART. 5.
 
-Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2004 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen, gewijzigd bij het decreet van 20 februari 2004, moet het departement klachten, geuit ten aanzien van de door het departement erkende voorzieningen, opnemen en behandelen.
+Onverminderd de behandeling van klachten over de eigen werking en dienstverlening , vermeld in titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018, moet het departement klachten, geuit ten aanzien van de door het departement erkende voorzieningen, opnemen en behandelen.
 
 ### ART. 6.
 
@@ -72,7 +72,7 @@ Bij het gebruik van de delegaties gelden de algemene regelingen,   voorwaarden e
 
 ### ART. 15.
 
-Met behoud van de toepassing van artikelen 33 en 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot interne controle en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het departement.
+Met behoud van de toepassing van artikel III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het departement.
 
 ### ART. 16.
 
