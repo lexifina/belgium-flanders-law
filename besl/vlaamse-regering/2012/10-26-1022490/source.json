@@ -2,16 +2,16 @@
   "codex_id": 1022490,
   "title": "Besluit van de Vlaamse Regering van 2012-10-26 tot bepaling van de regierol van gemeenten op het vlak van de lokale sociale economie, vermeld in artikel 15 van het decreet van 17 februari 2012 betreffende de ondersteuning van het ondernemerschap op het vlak van de sociale economie en de stimulering van het maatschappelijk verantwoord ondernemen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022490/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "075e922492868e397e583ffe94818c3bc73a55a68a56d50c5b38e5656d8b94dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022490/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "2994b32f83a12ce46c6aa927a3d88ba8d45738adc1d83b93e198e228500ab3d4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022490&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2019-01-01",
   "made": "2012-10-26",
   "gazette": "2012-11-27",
   "numac": 2012036185,
   "document_start": "2014-01-01",
   "document_end": "2022-12-31",
-  "in_force": "2017-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

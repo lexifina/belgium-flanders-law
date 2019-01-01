@@ -29,7 +29,10 @@ In dit besluit wordt verstaan onder :<BR>1° minister : de Vlaamse   minister, b
 
 ### ART. 2.
 
-Volgens de voorwaarden, bepaald in dit besluit, kan de minister aan de   volgende begunstigden een subsidie ter ondersteuning van hun regierol toekennen   :<BR>1° de centrumsteden : de steden, vermeld in artikel 4 van het decreet van   13 december 2002 tot vaststelling van de regels inzake de werking en de   verdeling van het Vlaams Stedenfonds;<BR>2° de intergemeentelijke   samenwerkingsverbanden : de samenwerkingsverbanden,vermeld in artikel 3 van het   decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<BR>3° de   OCMW-verenigingen: de verenigingen, bepaald in Titel VIII, Hoofdstuk I, van het   decreet betreffende de organisatie van de openbare centra voor maatschappelijk   welzijn van 19 december 2008.<BR>
+Volgens de voorwaarden, bepaald in dit besluit, kan de minister aan de volgende begunstigden een subsidie ter ondersteuning van hun regierol toekennen :<br>
+1° de centrumsteden: de centrumsteden, vermeld in hoofdstuk IIIquinquies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds;<br>
+2° de intergemeentelijke samenwerkingsverbanden: de samenwerkingsverbanden, vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
+3° welzijnsverenigingen: de welzijnsverenigingen, vermeld in deel 3, titel 4, hoofdstuk 2, van het decreet van 22 december 2017 over het lokaal bestuur.
 
 ### ART. 3.
 
@@ -37,7 +40,22 @@ Volgens de voorwaarden, bepaald in dit besluit, kan de minister aan de   volgend
 
 ### ART. 4.
 
-<P>§ 1. Binnen de perken van de jaarlijks goedgekeurde begroting wordt de   subsidie toegekend op basis van de hiernavolgende verdelingscriteria:<BR>1° het   aantal inwoners per begunstigde, volgens de volgende verdeelsleutel:<BR>1)   25.000 euro voor de centrumsteden tot 80.000 inwoners of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 60.000 tot 80.000   inwoners;<BR>2) 50.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 80.000 tot 150.000   inwoners.<BR>3) 75.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 150.000 tot 220.000   inwoners;<BR>4) 100.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 220.000 tot 290.000   inwoners;<BR>5) 125.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 290.000 tot 360.000   inwoners;<BR>6) 150.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 360.000 tot 430.000   inwoners;<BR>7) 175.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met 430.000 tot 500.000   inwoners;<BR>8) 200.000 euro voor de centrumsteden of intergemeentelijke   samenwerkingsverbanden en OCMW-verenigingen met meer dan 500.000 inwoners.<BR>2°   een intergemeentelijk samenwerkingsverband of OCMW vereniging met een   centrumstad krijgt maximaal 50.000 euro meer dan het subsidiebedrag voor de   centrumstad zelf;<BR>3° een intergemeentelijk samenwerkingsverband of   OCMW-vereniging zonder centrumstad krijgt maximaal 50.000 euro.<BR><BR>§ 2. Met   behoud van de toepassing van paragraaf 1 geldt de volgende volgorde van   verdeling wanneer de beschikbare kredieten worden overschreden:<BR>1° de   verdeling geschiedt over de centrumsteden, al dan niet in een intergemeentelijk   samenwerkingsverband of OCMW-vereniging;<BR>2° de verdeling geschiedt vervolgens   over de begunstigden met de hoogste werkloosheidsgraad.</P>
+<p>§ 1. Binnen de perken van de jaarlijks goedgekeurde begroting wordt de subsidie toegekend op basis van de hiernavolgende verdelingscriteria:<br>
+1° het aantal inwoners per begunstigde, volgens de volgende verdeelsleutel:<br>
+1) 25.000 euro voor de centrumsteden tot 80.000 inwoners of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 60.000 tot 80.000 inwoners;<br>
+2) 50.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 80.000 tot 150.000 inwoners.<br>
+3) 75.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 150.000 tot 220.000 inwoners;<br>
+4) 100.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 220.000 tot 290.000 inwoners;<br>
+5) 125.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 290.000 tot 360.000 inwoners;<br>
+6) 150.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 360.000 tot 430.000 inwoners;<br>
+7) 175.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met 430.000 tot 500.000 inwoners;<br>
+8) 200.000 euro voor de centrumsteden of intergemeentelijke samenwerkingsverbanden en welzijnsverenigingen met meer dan 500.000 inwoners.<br>
+2° een intergemeentelijk samenwerkingsverband of welzijnsvereniging met een centrumstad krijgt maximaal 50.000 euro meer dan het subsidiebedrag voor de centrumstad zelf;<br>
+3° een intergemeentelijk samenwerkingsverband of welzijnsvereniging zonder centrumstad krijgt maximaal 50.000 euro.<br>
+<br>
+§ 2. Met behoud van de toepassing van paragraaf 1 geldt de volgende volgorde van verdeling wanneer de beschikbare kredieten worden overschreden:<br>
+1° de verdeling geschiedt over de centrumsteden, al dan niet in een intergemeentelijk samenwerkingsverband of welzijnsvereniging;<br>
+2° de verdeling geschiedt vervolgens over de begunstigden met de hoogste werkloosheidsgraad.</p>
 
 ### ART. 5.
 
