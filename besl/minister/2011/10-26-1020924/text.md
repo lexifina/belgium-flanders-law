@@ -15,8 +15,8 @@ Besluit :<br>
 
 ### ART. 1.
 
-In uitvoering van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid worden de volgende organisaties als beoordelingsinstanties erkend : <br />1° VDAB, Keizerslaan 11, 1000 Brussel, als erkende beoordelingsinstantie voor een titel van poetshulp;<br />2° Vormingscentrum Hoger Instituut voor Verpleegkunde Sint-Elisabeth Turnhout, Herentalsstraat 70, 2300 Turnhout, als erkende beoordelingsinstantie voor een titel van poetshulp.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 2 september 2011.<br /><br />
+...
