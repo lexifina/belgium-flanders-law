@@ -25,6 +25,13 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
+### ART 1.
+
+Artikel I 5 § 4, eerste lid, van het Vlaams personeelsstatuut van 13 januari 2006, gewijzigd bij de besluiten van de Vlaamse Regering van 29 april 2011, 24 juni 2016 en 27 januari 2017, wordt als volgt gewijzigd:<br>
+1° in punt 2° worden de woorden "in aanmerking komen voor toegang tot een beschutte werkplaats of een Vlaamse ondersteuningspremie" vervangen door de woorden "recht hebben op Bijzondere Tewerkstellingsondersteunende Maatregelen (BTOM)";<br>
+2° er wordt een punt 3° toegevoegd dat luidt als volgt:<br>
+"3° personen van wie de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding beslist dat zij recht hebben op collectief maatwerk of een Vlaamse ondersteuningspremie (VOP) voor een duur van vijf jaar.".
+
 ### ART 15.
 
 In hetzelfde besluit worden een artikel VI 164 en VI 165 ingevoegd, die luiden als volgt:<br>
@@ -36,6 +43,25 @@ Art. VI 165. In afwijking van artikel VI 26, § 1 behoudt de ambtenaar die vanaf
 In afwijking van artikel VI 26, § 2 behoudt het contractuele personeelslid dat vanaf 1 januari 2015 tot 31 december 2018 in het kader van een staatshervorming en het contractuele personeelslid dat vanaf 1 januari 2018 in het kader van de afslanking van de provincies overgeheveld is naar de diensten van de Vlaamse overheid en dat respectievelijk conform artikel VII 190 en artikel VII 202 met ingang van de datum van de overheveling tewerkgesteld is in de betrekking en bezoldigd in de salarisschaal respectievelijk conform bijlage 14 en bijlage 17, die bij dit besluit zijn gevoegd, bij overplaatsing door horizontale mobiliteit naar een contractuele functie met een salarisschaal van dezelfde rang zijn salarisschaal in overgangsregeling tot op het moment dat zijn organieke regeling voordeliger is.<br>
 <br>
 In afwijking van artikel VI 26, § 3, behoudt het contractuele personeelslid dat vanaf 1 januari 2015 tot 31 december 2018 in het kader van een staatshervorming en het contractuele personeelslid dat vanaf 1 januari 2018 in het kader van de afslanking van de provincies overgeheveld is naar de diensten van de Vlaamse overheid en dat respectievelijk conform artikel VII 190 en artikel VII 202 met ingang van de datum van de overheveling tewerkgesteld is in de betrekking en bezoldigd in de salarisschaal respectievelijk conform bijlage 14 en bijlage 17, die bij dit besluit zijn gevoegd, bij overplaatsing door horizontale mobiliteit naar een statutaire functie met een overeenstemmende of gelijkwaardige inhoud van dezelfde rang zijn salarisschaal in overgangsregeling tot op het moment dat zijn organieke regeling voordeliger is.".
+
+### ART 17.
+
+Aan artikel VII 45, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt een rij toegevoegd, die luidt als volgt:
+<table border="1" style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>jeugdzorgtoelage administratieve personeelsleden met baliefunctie</td>
+			<td>439 euro tegen 100% per jaar</td>
+			<td>personeelslid van niveau C of D met een administratieve functie dat werkt in de afdeling Continuïteit en Toegang of in de afdeling Ondersteuningscentra en Sociale Diensten van de jeugdrechtbank, dat gedurende 1 tot 9 volledige dagen per maand een baliefunctie uitoefent</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;877 euro tegen 100% per jaar</td>
+			<td>personeelslid van niveau C of D met een administratieve functie dat werkt in de afdeling Continuïteit en Toegang of in de afdeling Ondersteuningscentra en Sociale Diensten van de jeugdrechtbank, dat 10 volledige dagen of meer per maand een baliefunctie uitoefent</td>
+		</tr>
+	</tbody>
+</table>
+<span style="font-size:medium"><span style="color:#000000">".</span></span>
 
 ### ART 25.
 
@@ -56,3 +82,61 @@ Artikel VII 102, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART 30.
 
 In artikel VII 199, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017, wordt tussen de woorden "van de brutojaarwedde" en het woord "ontving" de zinsnede "(verhoogd met de haard- of standplaatstoelage)" ingevoegd.
+
+### ART 37.
+
+Artikel X 65, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008 en 29 mei 2009 en van 26 april 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. X 65. Op aanvraag van het personeelslid wordt binnen de hierna bepaalde grenzen, twee dagen per maand dienstvrijstelling verleend om de volgende politieke mandaten uit te oefenen:<br>
+1° gemeenteraadslid;<br>
+2° lid van de raad voor maatschappelijk welzijn, dat geen gemeenteraadslid is;<br>
+3° lid van het bijzonder comité voor de sociale dienst, dat geen gemeenteraadslid of lid van de raad voor maatschappelijk welzijn is;<br>
+4° lid van de districtsraad;<br>
+5° lid van de provincieraad.<br>
+<br>
+De dienstvrijstelling, vermeld in het eerste lid, is niet van toepassing als het personeelslid naast een mandaat als vermeld in het eerste lid, ook een of meer van de volgende mandaten uitoefent:<br>
+1° burgemeester;<br>
+2° schepen;<br>
+3° districtsburgemeester;<br>
+4° districtsschepen;<br>
+5° voorzitter van het bijzonder comité voor de sociale dienst;<br>
+6° lid van het vast bureau van een openbaar centrum voor maatschappelijk welzijn dat een andere gemeente bedient dan de gemeente Voeren of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
+7° voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966;<br>
+8° gedeputeerde.".
+
+### ART 38.
+
+Artikel X 66 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 26 april 2019, wordt vervangen door wat volgt:<br>
+<br>
+"Art. X 66. Op aanvraag van het personeelslid wordt binnen de hierna bepaalde grenzen, facultatief politiek verlof toegekend om de volgende politieke mandaten uit te oefenen:<br>
+1° gemeenteraadslid, lid van de raad voor maatschappelijk welzijn dat geen lid is van de gemeenteraad, lid van het bijzonder comité voor de sociale dienst, dat geen gemeenteraadslid of lid van de raad voor maatschappelijk welzijn is of districtsraadslid:<br>
+a) in een gemeente of district tot en met 80.000 inwoners: twee dagen per maand;<br>
+b) in een gemeente of district van 80.001 of meer inwoners: vier dagen per maand;<br>
+2° schepen, voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966 of districtsburgemeester:<br>
+a) in een gemeente of district tot en met 30.000 inwoners: vier dagen per maand;<br>
+b) in een gemeente of district van 30.001 tot en met 50.000 inwoners: een vierde van een voltijds ambt;<br>
+c) in een gemeente of district van 50.001 tot en met 80.000 inwoners: de helft van een voltijds ambt;<br>
+3° districtsschepen:<br>
+a) in een district tot en met 10.000 inwoners: twee dagen per maand;<br>
+b) in een district van 10.001 tot en met 20.000 inwoners: drie dagen per maand;<br>
+c) in een district van 20.001 of meer inwoners: vijf dagen per maand;<br>
+4° burgemeester:<br>
+a) in een gemeente tot en met 30.000 inwoners: een vierde van een voltijds ambt;<br>
+b) in een gemeente van 30.001 tot en met 50.000 inwoners: de helft van een voltijds ambt;<br>
+5° provincieraadslid dat geen gedeputeerde is: vier dagen per maandag.<br>
+<br>
+Het politiek verlof, vermeld in het eerste lid, 1°, wordt niet toegekend als het personeelslid ook een of meer van de volgende mandaten uitoefent:<br>
+1° burgemeester;<br>
+2° schepen;<br>
+3° districtsburgemeester;<br>
+4° districtsschepen;<br>
+5° voorzitter van het bijzonder comité voor de sociale dienst;<br>
+6° lid van het vast bureau van een openbaar centrum voor maatschappelijk welzijn dat een andere gemeente bedient dan de gemeente Voeren of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996;<br>
+7° voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996.".
+
+### ART 39.
+
+Aan artikel X 67 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 23 mei 2008 en 29 mei 2009 en van 26 april 2019, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 2° worden de woorden "of voorzitter van de raad voor maatschappelijk welzijn van een gemeente" opgeheven;<br>
+2° tussen punt 2° en punt 3° wordt een punt 2° /1 ingevoegd, dat luidt als volgt:<br>
+"2° /1 voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996: de regeling voor schepen, vermeld in punt 2 is overeenkomstig van toepassing;".
