@@ -21,7 +21,7 @@ De netbeheerder van een detailnet vermeldt zijn aanwezigheid bij de projectzone 
 <br>
 De netbeheerder van een vervoersnet vermeldt zijn aanwezigheid bij de projectzone waarvoor een GRB-product beschikbaar is in de aangiftetabel vervoersnet. Hij vermeldt eveneens per projectzone binnen zijn discipline de trajectlengte van zijn aanwezige exploiteerbare net.<br>
 <br>
-Bij de bepaling van het aantal verbruiksmeters en de trajectlengte volgt de netbeheerder de technische procedures die goedgekeurd zijn door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, en die raadpleegbaar zijn op de website van de Vlaamse overheid.
+Bij de bepaling van het aantal verbruiksmeters en de trajectlengte volgt de netbeheerder de technische procedures die goedgekeurd zijn door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, en die raadpleegbaar zijn op de website van de Vlaamse overheid.
 
 ### ART. 5.
 
