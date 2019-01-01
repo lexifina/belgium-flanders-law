@@ -12,6 +12,8 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 
 <p>In deze codex wordt verstaan onder :<br>
 1° belastingen en toebehoren : de belastingen in hoofdsom waarop deze codex van toepassing is, in voorkomend geval met inbegrip van de opcentiemen of de opdeciem, nalatigheidsinteresten, administratieve geldboetes, belastingverhogingen en kosten van vervolging of tenuitvoerlegging, rechtsplegingsvergoedingen, gerechtskosten en betekeningskosten;<br>
+1° /1 belasting op de automatische ontspanningstoestellen: de belasting die geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 13, van deze codex;<br>
+1° /2 belasting op de spelen en weddenschappen: de belasting die geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 12, van deze codex;<br>
 2° belasting op de inverkeerstelling : de belasting die geheven wordt overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de bepalingen van titel 2, hoofdstuk 3, van deze codex;<br>
 3° belastingplichtige : iedere natuurlijke persoon of rechtspersoon in wiens hoofde een belasting wordt geheven;<br>
 4° belastingschuldige : iedere natuurlijke persoon of rechtspersoon die met toepassing van deze codex of het gemeen recht gehouden is tot de betaling van een belasting;<br>
@@ -22,7 +24,7 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 7° /1 dienstverlener : elke door een tolheffende instantie, vermeld in artikel 4, tweede lid, 2°, van het decreet Kilometerheffing op haar tolgebied, vermeld in artikel 5, § 2, derde lid, 1°, van het decreet Kilometerheffing toegelaten juridische entiteit die een dienst aanbiedt van facturatie aan gebruikers, inning en afdracht aan de gewesten van de kilometerheffing op basis van gegevens die geregistreerd zijn door een elektronische registratievoorziening;<br>
 7° /2 dienstverleningsovereenkomst : de overeenkomst tussen de houder van een voertuig en een dienstverlener naar zijn keuze, die voorafgaand aan het gebruik van enige weg voor dat voertuig moet worden gesloten;<br>
 7° /3 elektronische registratievoorziening : de elektronische boordapparatuur bestemd voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst, die, al dan niet met behulp van elektronische apparatuur op afstand, data uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot de berekening van de kilometerheffing op die geregistreerde afstand;<br>
-8° entiteit van de Vlaamse administratie : een intern of extern verzelfstandigd agentschap of een departement als vermeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 en in de ter uitvoering van dat decreet goedgekeurde oprichtingsbesluiten;<br>
+8° entiteit van de Vlaamse administratie: een intern of extern verzelfstandigd agentschap of een departement;<br>
 9° erfbelasting : verzamelterm voor het successierecht en het recht van overgang;<br>
 10° eurovignet : de belasting die tot en met de inwerkingtreding van het decreet van 3 juli 2015 tot invoering van de kilometerheffing en de stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband geheven werd overeenkomstig de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en conform de toenmalige bepalingen van titel 2, hoofdstuk 4, van deze codex;<br>
 10° /1 heffing ongeschikte en onbewoonbare woningen: de belasting die geheven wordt conform de bepalingen van titel 2, hoofdstuk 5, van deze codex;<br>
@@ -49,7 +51,7 @@ Deze codex regelt een gewestaangelegenheid.<BR>
 <br>
 In titel 2, hoofdstuk 1, wordt verstaan onder :<br>
 1° gehandicapte persoon : de als gehandicapt aangemerkte personen, vermeld in artikel 135, eerste lid, 1°, van het federale WIB 92;<br>
-2° gehandicapt kind : het kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen;<br>
+2° gehandicapt kind : een kind met een specifieke ondersteuningsbehoefte als vermeld in artikel 3, § 1, 39°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid of een kind dat door de gezinsbijslagregelgeving van andere gefedereerde deelentiteiten beschouwd wordt als een kind met een handicap, een kind met een beperking of een kind dat op basis van de zelfredzaamheidsgraad of de ernst van de gevolgen van de aandoening recht heeft op een toeslag van de basiskinderbijslag of een kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen;<br>
 3° grensarbeider : de persoon die in de grensstreek van een buurland werkt en die volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn woonplaats heeft in de grensstreek van België, waarnaar hij gewoonlijk dagelijks of ten minste eenmaal per week terugkeert.<br>
 <br>
 In titel 2, hoofdstuk 2, wordt verstaan onder :<br>
@@ -87,7 +89,7 @@ In titel 2, hoofdstuk 4, wordt verstaan onder :<br>
 In titel 2, hoofdstuk 7 en hoofdstuk 8, wordt verstaan onder :<br>
 1° beurswaarde : de slotkoers van een financieel instrument, zoals die als koersinformatie beschikbaar is in de gespecialiseerde pers of in gespecialiseerde elektronisch raadpleegbare bronnen;<br>
 1° /1 bouwgrond: een perceel grond dat stedenbouwkundig bestemd is tot woningbouw of een onroerend goed dat ermee wordt gelijkgesteld. Het geheel of het gedeelte van een gebouw dat, pas na de uitvoering van andere werken dan normale herstellings- of onderhoudswerken, kan dienen tot huisvesting van een gezin of een persoon, met in voorkomend geval de aanhorigheden die tegelijk met het gebouw worden verkregen, wordt met een bouwgrond gelijkgesteld;<br>
-2° gehandicapt kind : het kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen;<br>
+2° gehandicapt kind : een kind met een specifieke ondersteuningsbehoefte als vermeld in artikel 3, § 1, 39°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid of een kind dat door de gezinsbijslagregelgeving van andere gefedereerde deelentiteiten beschouwd wordt als een kind met een handicap, een kind met een beperking of een kind dat op basis van de zelfredzaamheidsgraad of de ernst van de gevolgen van de aandoening recht heeft op een toeslag van de basiskinderbijslag of een kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen;<br>
 3° gehandicapte persoon : de als gehandicapt aangemerkte personen, vermeld in artikel 135, eerste lid, 1°, van het federale WIB 92;<br>
 4° partner :<br>
 a) de persoon die op dag van het openvallen van de nalatenschap met de erflater of op de dag van de schenking met de schenker gehuwd is;<br>
@@ -123,7 +125,7 @@ In titel 2, hoofdstuk 8, wordt de schenkbelasting, vermeld in het eerste lid, 19
 4° de schenking van roerende goederen door een niet-rijksinwoner natuurlijke persoon of een rechtspersoon aan een niet-rijksinwoner natuurlijke persoon of een rechtspersoon als de schenking ter registratie wordt aangeboden in het Vlaamse Gewest.<br>
 <br>
 In titel 2, hoofdstuk 9, wordt in afwijking van het eerste lid verstaan onder :<br>
-1° gehandicapt kind : het kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen;<br>
+1° gehandicapt kind : een kind met een specifieke ondersteuningsbehoefte als vermeld in artikel 3, § 1, 39°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
 2° aanhorigheid : elk gebouwd of ongebouwd onroerend goed dat volgens de aard, de ligging, de oppervlakte en de waarde ervan een normale bijhorigheid vormt, al naargelang het geval, hetzij van het huis of de verdieping of het gedeelte van verdieping, hetzij van een op te richten woning;<br>
 3° kinderen ten laste : de kinderen die deel uitmaken van het feitelijke gezin van de verkrijger op de datum van de akte van verkrijging en die, gedurende het kalenderjaar dat aan die datum voorafgaat, persoonlijk geen bestaansmiddelen hebben genoten waarvan het nettobedrag hoger is dan de nettobedragen, vermeld in artikel 136 en artikel 141 van het federale WIB 92;<br>
 4° kadastraal inkomen : het inkomen, vastgesteld overeenkomstig titel IX van het federale WIB 92;<br>
@@ -131,7 +133,11 @@ In titel 2, hoofdstuk 9, wordt in afwijking van het eerste lid verstaan onder :<
 6° woning : het huis of het geheel of het gedeelte van een verdieping van een gebouw dat hetzij dadelijk, hetzij na normale herstellings- of onderhoudswerken hoofdzakelijk dient of zal dienen tot huisvesting van één gezin of een persoon, met in voorkomend geval de aanhorigheden die tegelijk met het huis, het geheel of het gedeelte van een verdieping worden verkregen;<br>
 7° bouwgrond : een perceel grond dat stedenbouwkundig bestemd is tot woningbouw of een onroerend goed dat ermee wordt gelijkgesteld. Het geheel of het gedeelte van een gebouw dat, pas na de uitvoering van andere werken dan normale herstellings- of onderhoudswerken, kan dienen tot huisvesting van een gezin of een persoon, met in voorkomend geval de aanhorigheden die tegelijk met het gebouw worden verkregen, wordt met een bouwgrond gelijkgesteld;<br>
 8° kernsteden: de gemeenten Aalst, Antwerpen, Boom, Brugge, Dendermonde, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas, Turnhout en Vilvoorde;<br>
-9° gemeenten van de Vlaamse Rand rond Brussel: de gemeenten Affligem, Asse, Beersel, Bertem, Bever, Dilbeek, Drogenbos, Galmaarden, Gooik, Grimbergen, Halle, Herne, Hoeilaart, Huldenberg, Kampenhout, Kapelle-op-den-Bos, Kortenberg, Kraainem, Lennik, Liedekerke, Linkebeek, Londerzeel, Machelen, Meise, Merchtem, Opwijk, Overijse, Pepingen, Roosdaal, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Steenokkerzeel, Ternat, Tervuren Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem en Zemst.</p>
+9° gemeenten van de Vlaamse Rand rond Brussel: de gemeenten Affligem, Asse, Beersel, Bertem, Bever, Dilbeek, Drogenbos, Galmaarden, Gooik, Grimbergen, Halle, Herne, Hoeilaart, Huldenberg, Kampenhout, Kapelle-op-den-Bos, Kortenberg, Kraainem, Lennik, Liedekerke, Linkebeek, Londerzeel, Machelen, Meise, Merchtem, Opwijk, Overijse, Pepingen, Roosdaal, Sint-Genesius-Rode, Sint-Pieters-Leeuw, Steenokkerzeel, Ternat, Tervuren Vilvoorde, Wemmel, Wezembeek-Oppem, Zaventem en Zemst.<br>
+<br>
+In titel 2, hoofdstuk 12 en hoofdstuk 13, en in titel 3, wordt verstaan onder Kansspelwet van 7 mei 1999: de wet van 7 mei 1999 op de kansspelen, de weddenschappen, de kansspelinrichtingen en de bescherming van de spelers.<br>
+<br>
+In titel 2, hoofdstuk 13, en in titel 3, wordt, overeenkomstig artikel 76 van het federale Wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen, verstaan onder automatisch ontspanningstoestel: een toestel dat dient tot ontspanning en een mechanisch, elektrisch of elektronisch onderdeel bevat om het op gang te brengen, te laten werken of te bedienen, en dat gestart wordt door de inbreng van een geldstuk, van een penning of van een ander middel dat daarvoor in de plaats komt.</p>
 
 ### ART. 1.1.0.0.3.
 
@@ -171,24 +177,26 @@ Voor de vaststelling van de belastbare grondslag wordt geen rekening   gehouden 
 
 ### ART. 2.1.4.0.1.
 
-<p>§ 1. Het tarief van de onroerende voorheffing bedraagt 3,97 %.</p>
-
-<p>§ 2. In afwijking van paragraaf 1 bedraagt het tarief 2,54 % voor :<br>
+<p>§ 1. Het tarief van de onroerende voorheffing bedraagt 3,97 %.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 bedraagt het tarief 2,54 % voor :<br>
 1° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan Openbare Centra voor Maatschappelijk Welzijn of aan door haar opgerichte verenigingen waarvan slechts één of meer Openbare Centra voor Maatschappelijk Welzijn deel uitmaken;<br>
 2° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan gemeenten;<br>
 3° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan de Vlaamse Maatschappij voor Sociaal Wonen of aan de erkende sociale huisvestingsmaatschappijen, vermeld in artikel 40 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
 4° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan het Vlaams Woningfonds;<br>
 5° de eigendommen die als sociale woningen worden verhuurd en toebehoren aan een erkend sociaal verhuurkantoor;<br>
-6° de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en in overeenstemming met de voorwaarden, vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren;<br>
-7° de eigendommen die toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld.</p>
-
-<p>Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.</p>
-
-<p>Het verlaagde tarief, vermeld in het eerste lid, 6°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.</p>
-
-<p>Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.</p>
-
-<p>§ 3. In afwijking van paragraaf 1 bedraagt het tarief voor materieel en outillage als vermeld in artikel 471, § 3, van het federale WIB 92, 3,97% vermenigvuldigd met de coëfficiënt, vermeld in het tweede lid. De toepassing van de coëfficiënt mag geen aanleiding geven tot een hoger tarief dan het tarief dat van toepassing is in het vorige aanslagjaar, met uitzondering van het aanslagjaar waarin dit decreet in werking treedt waarbij de toepassing van de coëfficiënt geen aanleiding mag geven tot een hoger tarief dan 3,97%.<br>
+6° ...;<br>
+7° de eigendommen die toebehoren aan rechtspersonen, erkend overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap en die gebruikt worden voor wooninfrastructuur voor personen met een handicap, vermeld in artikel 2, 2°, van hetzelfde decreet, die een duidelijk vastgestelde behoefte aan zorg en ondersteuning hebben. De Vlaamse Regering bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, is ook van toepassing op gelijkaardige onroerende goederen van gelijkaardige rechtspersonen die opgericht zijn volgens en onderworpen zijn aan de wetgeving van een staat van de Europese Economische Ruimte, en die bovendien hun statutaire zetel, hun hoofdbestuur of hun hoofdvestiging binnen de Europese Economische Ruimte hebben.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, 7°, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat een rechtspersoon erkend is overeenkomstig artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap. De toekenning geldt tot het einde van de erkenning. Elke beëindiging van een erkenning moet uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld worden.<br>
+<br>
+§ 2/1. In afwijking van paragraaf 1 bedraagt het tarief 2,4 % voor de eigendommen die door een erkend sociaal verhuurkantoor worden gehuurd met toepassing van en conform de voorwaarden, vermeld in artikel 2 en 3 van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren.<br>
+<br>
+Het verlaagde tarief, vermeld in het eerste lid, wordt toegekend vanaf het aanslagjaar waarin uiterlijk op 31 maart aan de bevoegde entiteit van de Vlaamse administratie gemeld wordt dat de eigendom op 1 januari van het aanslagjaar gehuurd wordt door een erkend sociaal verhuurkantoor. De toekenning geldt tot het einde van de huurovereenkomst. Elke vroegtijdige beëindiging van de huurovereenkomst wordt uiterlijk op 31 maart van het jaar dat volgt op de beëindiging aan de bevoegde entiteit van de Vlaamse administratie gemeld.<br>
+<br>
+§ 3. In afwijking van paragraaf 1 bedraagt het tarief voor materieel en outillage als vermeld in artikel 471, § 3, van het federale WIB 92, 3,97% vermenigvuldigd met de coëfficiënt, vermeld in het tweede lid. De toepassing van de coëfficiënt mag geen aanleiding geven tot een hoger tarief dan het tarief dat van toepassing is in het vorige aanslagjaar, met uitzondering van het aanslagjaar waarin dit decreet in werking treedt waarbij de toepassing van de coëfficiënt geen aanleiding mag geven tot een hoger tarief dan 3,97%.<br>
 <br>
 De coëfficiënt wordt verkregen door het gemiddelde van de maandelijkse indexcijfers van het jaar 1996 te delen door het gemiddelde van de maandelijkse indexcijfers van het jaar dat voorafgaat aan het jaar van de inkomsten. Daarbij worden de volgende afrondingen toegepast :<br>
 1° het gemiddelde van de maandelijkse indexcijfers wordt afgerond op het hogere of lagere honderdste naargelang het cijfer van de duizendsten al of niet vijf bereikt;<br>
@@ -217,7 +225,7 @@ Als een gemeente de opbrengst van haar deel in die onroerende voorheffing evenwe
 
 § 1. Er wordt een vermindering verleend van :<br>
 1° 25 % van de onroerende voorheffing voor de woning waar de belastingplichtige volgens het bevolkingsregister op 1 januari van het aanslagjaar zijn hoofdverblijfplaats heeft, als het kadastraal inkomen van zijn gezamenlijke, in het Vlaamse Gewest gelegen, onroerende goederen niet meer bedraagt dan 745 euro;<br>
-2° de onroerende voorheffing berekend volgens de volgende tabel voor de kinderen die in aanmerking komen voor een kinderbijslag, voor de woning die op 1 januari van het aanslagjaar wordt betrokken door een gezin met ten minste twee kinderen die daar volgens het bevolkingsregister hun woonplaats hebben en die in aanmerking komen voor kinderbijslag. Daarbij wordt een gehandicapt kind voor twee gerekend.<br>
+2° de onroerende voorheffing berekend volgens de volgende tabel voor de kinderen die in aanmerking komen voor de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor de woning die op 1 januari van het aanslagjaar wordt betrokken door een gezin met ten minste twee kinderen die daar volgens het bevolkingsregister hun woonplaats hebben en die in aanmerking komen voor gezinsbijslag. Daarbij wordt een gehandicapt kind voor twee gerekend.<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -365,7 +373,7 @@ Bij de overdracht van een onroerend goed waarvoor een vermindering als vermeld i
 1° de vermindering van de onroerende voorheffing, vermeld in artikel 2.1.5.0.1, § 1, 1°, op 50 % gebracht voor een tijdperk van vijf jaar dat aanvangt met het eerste jaar waarvoor de onroerende voorheffing is verschuldigd, als het een woning betreft die de belastingplichtige heeft laten bouwen of nieuw gebouwd heeft aangekocht;<br>
 2° een vermindering van 20 % van de onroerende voorheffing verleend voor de woning die wordt betrokken door een oorlogsverminkte die het voordeel geniet van artikel 13 van de samengeordende wetten op de vergoedingspensioenen, gecoördineerd op 5 oktober 1948;<br>
 3° een kwijtschelding of proportionele vermindering van de onroerende voorheffing verleend als het belastbaar inkomen overeenkomstig artikel 15 van het federale WIB 92 kan worden verminderd;<br>
-4° de vermindering van de onroerende voorheffing, vermeld in artikel 2.1.5.0.1, § 1, 2°, verleend voor de kinderen van grensarbeiders die ingevolge de regelgeving in het land waar de grensarbeiders zijn tewerkgesteld, van ieder stelsel van kinderbijslag zijn uitgesloten, als ze volgens de Belgische regelgeving inzake kinderbijslag in aanmerking zouden komen voor kinderbijslag.</p>
+4° de vermindering van de onroerende voorheffing, vermeld in artikel 2.1.5.0.1, § 1, 2°, verleend voor de kinderen van grensarbeiders die ingevolge de regelgeving in het land waar de grensarbeiders zijn tewerkgesteld, van ieder stelsel van gezinsbijslag zijn uitgesloten, als ze volgens de Belgische regelgeving inzake gezinsbijslag in aanmerking zouden komen voor kinderbijslag.</p>
 
 <p>§ 2. Voor onroerende goederen die langer dan twaalf maanden niet in gebruik zijn genomen, rekening houdend met het vorige aanslagjaar, kan de kwijtschelding of proportionele vermindering van de onroerende voorheffing, vermeld in paragraaf 1, eerste lid, 3°, alleen worden verleend voor :<br>
 1° een niet-gemeubileerd gebouwd onroerend goed, opgenomen in een onteigeningsplan;<br>
@@ -403,7 +411,7 @@ Het belastingkrediet, vermeld in het eerste lid, geldt vanaf de inwerkingtreding
 
 Aan de belastingplichtige rechtspersoon wordt een belastingkrediet toegekend dat gelijk is aan :<br>
 1° 2,5 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 1, van toepassing is;<br>
-2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2, van toepassing is;<br>
+2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2 of § 2/1, van toepassing is;<br>
 3° 2,5 % van het kadastraal inkomen vermenigvuldigd met de coëfficiënt, vermeld in artikel 2.1.4.0.1, § 3, tweede lid, als het tarief, vermeld in artikel 2.1.4.0.1, § 3, van toepassing is.<br>
 <br>
 Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
@@ -438,19 +446,29 @@ Het belastingkrediet, vermeld in het eerste lid, komt volledig ten laste van het
 
 ### ART. 2.1.6.0.2.
 
-<p>Op aanvraag van de belastingschuldige wordt ook een vrijstelling van de onroerende voorheffing verleend voor het kadastraal inkomen van :<br>
-1° de onroerende goederen met een maximale vloeroppervlakte van 15 are waarvan minstens 50 % wordt gebruikt voor het uitoefenen van een kleinhandel of voor het bedrijf van een ambachtsman die rechtstreeks in contact staat met het publiek en die, op grond van een geldige stedenbouwkundige vergunning, verbouwd worden tot een woning die bestemd is voor de huisvesting van een gezin of van een alleenstaande;<br>
-2° de onroerende goederen die aanleiding geven tot een verhoogd kadastraal inkomen ingevolge de uitvoering van renovatiewerkzaamheden als vermeld in artikel 2, § 1, eerste lid, 18°, van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, alsook sloopwerkzaamheden, gevolgd door vervangingsbouw.</p>
-
-<p>De vrijstellingen, vermeld in het eerste lid, kunnen niet worden samengevoegd en zijn overdraagbaar op de rechtsopvolger.</p>
-
-<p>De Vlaamse Regering bepaalt de regels voor de aanvraag van de vrijstellingen.</p>
-
-<p>De vrijstelling, vermeld in het eerste lid, 1°, wordt verleend voor een periode van drie jaar vanaf het aanslagjaar dat volgt op het jaar van effectieve bewoning dat blijkt uit de inschrijving in het bevolkings- of vreemdelingenregister.</p>
-
-<p>De vrijstelling, vermeld in het eerste lid, 2°, wordt verleend voor het gedeelte dat meer bedraagt dan het vastgestelde kadastraal inkomen vóór de aanvang van de renovatiewerkzaamheden. De vrijstelling wordt verleend voor een periode van vijf jaar vanaf het aanslagjaar waarin het verhoogde kadastraal inkomen als grondslag van de onroerende voorheffing wordt gebruikt.</p>
-
-<p>De volgende goederen komen in aanmerking voor de toepassing van het eerste lid, 2° : de onroerende goederen die opgenomen zijn in het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995, of in de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het voornoemde decreet.</p>
+Op aanvraag van de belastingschuldige wordt ook een vrijstelling van de onroerende voorheffing verleend voor het kadastraal inkomen van:<br>
+1° de onroerende goederen die zijn gebruikt om een kleinhandelsactiviteit uit te oefenen, die in een winkelarm gebied liggen en die op grond van een geldige omgevingsvergunning verbouwd worden tot een of meerdere woningen;<br>
+2° de onroerende goederen waarvan minstens de benedenverdieping wordt gebruikt om een kleinhandelsactiviteit uit te oefenen, die in een kernwinkelgebied liggen en waarvan een of meer verdiepingen boven de kleinhandelsactiviteit op grond van een geldige omgevingsvergunning verbouwd worden tot een of meer woningen;<br>
+3° de onroerende goederen waar sloopwerkzaamheden, gevolgd door vervangbouw, worden uitgevoerd en die voorafgaand aan de omgevingsvergunning of meldingsakte opgenomen zijn in een van de volgende inventarissen:<br>
+a) de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het decreet van 22 december 1995;<br>
+b) de inventaris van leegstaande of verwaarloosde bedrijfsruimten, vermeld in artikel 3, § 1, van het decreet van 19 april 1995.<br>
+<br>
+In het eerste lid wordt verstaan onder:<br>
+1° kernwinkelgebied: een kernwinkelgebied als vermeld in artikel 2, 3°, van het decreet van 15 juli 2016 betreffende het integraal handelsvestigingsbeleid;<br>
+2° kleinhandelsactiviteit: de categorieën van kleinhandelsactiviteit, vermeld in artikel 3 van het voormelde decreet;<br>
+3° winkelarm gebied: een winkelarm gebied als vermeld in artikel 2, 8°, van het voormelde decreet.<br>
+<br>
+De vrijstellingen, vermeld in het eerste lid, worden verleend voor een periode van vijf jaar.<br>
+<br>
+De vrijstellingen, vermeld in het eerste lid, 1° en 2°, worden verleend vanaf het aanslagjaar dat volgt op het jaar van de effectieve bewoning die blijkt uit de inschrijving in het bevolkings- of vreemdelingenregister binnen vijf jaar na de voorlopige oplevering van de ombouwwerken.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, 2°, wordt verleend voor het gedeelte dat is bestemd voor huisvesting.<br>
+<br>
+De vrijstelling, vermeld in het eerste lid, 3°, wordt verleend vanaf het aanslagjaar dat volgt op het jaar dat het onroerend goed niet meer voorkomt in de inventaris en wordt in voorkomend geval beperkt tot het gedeelte van het bedrag van de belasting dat, inclusief de provinciale en gemeentelijke opcentiemen, per woning niet hoger is dan 1000 euro of per bedrijfsruimte niet hoger is dan 4000 euro.<br>
+<br>
+De vrijstellingen, vermeld in het eerste lid, zijn overdraagbaar op de rechtsopvolger.<br>
+<br>
+De Vlaamse Regering kan de nadere regels voor de aanvraag van de vrijstellingen bepalen.
 
 ### ART 2.1.6.0.3.
 
@@ -1530,7 +1548,7 @@ De belasting voor de personenauto's, de auto's voor dubbel gebruik en de   minib
 
 ### ART. 2.2.5.0.2.
 
-<P>De belasting wordt verminderd met 75 % voor elk voertuig dat uitsluitend   wordt gebruikt voor het vervoer van goederen of voorwerpen, als het voertuig   uitsluitend wordt gebruikt in het kader van de havenactiviteit binnen de   havenomheining, zoals bepaald door de Vlaamse Regering.<BR></P>  <P>De Vlaamse Regering kan de nodige controlemaatregelen bepalen.<BR></P>  <P>Dit artikel is niet van toepassing op de belasting vastgesteld conform   artikel 2.2.4.0.2, § 1.<BR></P>
+...
 
 ### ART. 2.2.5.0.3.
 
@@ -1557,8 +1575,8 @@ c) een concessie van de openbare machten;<br>
 5° de voertuigen die uitsluitend op proef worden gebruikt door de fabrikanten of handelaars of door hun bedienden;<br>
 6° de vaartuigen en bootjes;<br>
 7° de eigenlijke tractoren, de voertuigen-werktuigmachines die speciaal zijn ontworpen voor de landbouw, en de aanhangwagens, als die voertuigen uitsluitend worden gebruikt om landbouwarbeid te verrichten, zelfs als ze het personeel, de voorwerpen of de producten vervoeren die daarvoor onmisbaar zijn en om de vruchten van de uitvoering van die arbeid te vervoeren naar om het even welke plaats van de onderneming van de landbouwer voor de rekening van wie de werken zijn uitgevoerd. Voor zover hij er eigenaar van is of er het bestendige of gewoonlijke gebruik van heeft, mag de landbouwer die voertuigen, met vrijstelling van belasting, ook gebruiken voor het vervoer van vee, waren of goederen, die voortkomen van zijn landbouwbedrijf of ervoor zijn bestemd, alsook van brandhout, bestemd voor eigen verbruik. Dat geldt ook als die voertuigen toebehoren aan een van de leden van een groep landbouwers die, zij het tijdelijk, in gemeenschap werken, en als er vee, waren of goederen mee worden vervoerd die voortkomen van het bedrijf van een van hen of die ervoor zijn bestemd;<br>
-8° de vrachtauto's, lichte vrachtauto's en de auto's voor dubbel gebruik die door de landbouwer voor eigen rekening worden aangewend binnen de perken en onder de voorwaarden, vermeld in 7°, zijn ook vrijgesteld als de landbouwer sedert een datum vóór 1 juli 1965 eigenaar is van die voertuigen of er het bestendige of gewoonlijke gebruik van heeft;<br>
-9° de tractoren en aanhangwagens die aan de ondernemingen van vlasroting en vlaszwingeling toebehoren en die uitsluitend voor de noodwendigheden van de onderneming van de eigenaar binnen een straal van ten hoogste tien kilometer worden gebruikt, hetzij om het vlas naar de installaties van die ondernemingen te brengen, hetzij om het vlas tijdens de roting- en zwingelverrichtingen te vervoeren, met inbegrip van het vervoer van het gezwingeld vlas naar de plaats van levering;<br>
+8° ...;<br>
+9° ...;<br>
 10° de bromfietsen en de motorfietsen voorzien van een motor met een cilinderinhoud van maximaal 250 kubieke centimeter;<br>
 11° de autovoertuigen die uitsluitend aangewend worden voor een taxidienst of voor verhuring met bestuurder;<br>
 12° de autovoertuigen die gebruikt worden door een Belgische verblijfhouder en ter beschikking zijn gesteld van hem door zijn werkgever die in het buitenland gevestigd is, en die in het buitenland zijn ingeschreven;<br>
@@ -1580,9 +1598,12 @@ c) een concessie van de openbare machten;<br>
 
 <p>§ 3. De vrijstellingen, vermeld in paragraaf 1, eerste lid, 13°, en paragraaf 2, 2°, kunnen alleen worden verleend als ze worden aangevraagd voor het begin van het belastbare tijdperk.</p>
 
-<p>Het begrip `af en toe', vermeld in paragraaf 1, eerste lid, 13°, en paragraaf 2, 2°, is voldaan als het voertuig in kwestie maximaal dertig dagen op de openbare weg wordt gebruikt.</p>
+<p>Aan het begrip `af en toe', vermeld in paragraaf 1, eerste lid, 13°, en paragraaf 2, 2°, is voldaan in al de volgende gevallen:<br>
+1° als het voertuig in kwestie door de aard ervan maar af en toe gebruikmaakt van de openbare weg. De Vlaamse Regering bepaalt welke voertuigen hieronder vallen;<br>
+2° als het voertuig in kwestie maximaal vijfhonderd kilometer per kalenderjaar aflegt op de wegen of de wegsegmenten, vermeld in bijlage 2, die bij dit decreet is gevoegd, zoals geregistreerd door de elektronische registratievoorziening, vermeld in artikel 3.3.1.0.13;<br>
+3° als het voertuig in kwestie dat niet beschikt over een elektronische registratievoorziening als vermeld in artikel 3.3.1.0.13 maximaal dertig dagen op de openbare weg wordt gebruikt.</p>
 
-<p>De vrijstelling kan worden bewezen door een rittenblad bij te houden dat moet worden aangevraagd bij de bevoegde entiteit van de Vlaamse administratie. Het rittenblad moet zich op elk moment aan boord van het voertuig bevinden.</p>
+<p>De vrijstelling, vermeld in het tweede lid, 3°,&nbsp;kan worden bewezen door een rittenblad bij te houden dat moet worden aangevraagd bij de bevoegde entiteit van de Vlaamse administratie. Het rittenblad moet zich op elk moment aan boord van het voertuig bevinden.</p>
 
 <p>De geldigheidsduur van een rittenblad is maximaal twaalf opeenvolgende maanden vanaf de aanvangsdatum van het rittenblad. Als het belastbare tijdperk minder dan twaalf maanden bedraagt, wordt de geldigheidsduur van het rittenblad overeenkomstig ingekort.</p>
 
@@ -1720,7 +1741,210 @@ Als de CO<SUB>2</SUB>-uitstoot van het wegvoertuig niet bekend is, wordt   die p
 
 ### ART. 2.3.4.2.1.
 
-§ 1. De belasting op andere voertuigen dan de voertuigen, vermeld in   artikel 2.3.4.1.1, wordt berekend op de wijze die hierna wordt vermeld :<BR>1°   voor de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen   wordt de belasting berekend op basis van de volgende tabel : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>aantal pk       <TD>aantal kW       <TD>totaalbedrag van de belasting in euro <BR>    <TR>      <TD>8 en minder       <TD>70 en minder       <TD>61,50 <BR>    <TR>      <TD>9 tot en met 10       <TD>71 tot en met 85       <TD>123 <BR>    <TR>      <TD>11       <TD>86 tot en met 100       <TD>495 <BR>    <TR>      <TD>12 tot en met 14       <TD>101 tot en met 110       <TD>867 <BR>    <TR>      <TD>15       <TD>111 tot en met 120       <TD>1239 <BR>    <TR>      <TD>16 tot en met 17       <TD>121 tot en met 155       <TD>2478 <BR>    <TR>      <TD>meer dan 17       <TD>meer dan 155       <TD>4957<BR></TD></TR></TBODY></TABLE>  <P><BR>Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht   (pk) en in kilowatt (kW), aanleiding geeft tot de heffing van een verschillend   belastingbedrag, is de belasting voor het hoogste bedrag verschuldigd;<BR>2° de   belasting bedraagt 619 euro voor ultralichte motorluchtvaartuigen en 2478 euro   voor alle andere luchtvaartuigen;<BR>3° de belasting bedraagt 2478 euro voor   boten.<BR></P>  <P>§ 2. Voor de wegvoertuigen die beantwoorden aan de emissienorm "euro 4",   wordt de belasting, berekend conform paragraaf 1, 1°, verminderd met de   bedragen, vermeld in de volgende tabel, in voorkomend geval beperkt tot het   bedrag van de belasting : <BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>brandstofsoort en euronorm       <TD>aanslagjaar 2002, in euro       <TD>aanslagjaar 2003, in euro <BR>    <TR>      <TD>diesel euro 4       <TD>- 620       <TD>- 496 <BR>    <TR>      <TD>benzine euro 4       <TD>- 323       <TD>- 248<BR></TD></TR></TBODY></TABLE>  <P><BR>Voor de wegvoertuigen waarvan de motor, ook al is het maar gedeeltelijk   of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare   koolwaterstoffen, wordt de belasting, berekend conform paragraaf 1, 1°,   verminderd met 298 euro, in voorkomend geval beperkt tot het bedrag van de   belasting.<BR></P>  <P>Als de verbrandingsmotor van een wegvoertuig wordt aangedreven door   verschillende brandstofsoorten en het voertuig daardoor in aanmerking komt voor   een combinatie van de vermindering voor benzine en lpg, wordt de toe te kennen   vermindering beperkt tot het hoogste bedrag dat voor dat aanslagjaar voor een   bepaalde soort van brandstof van toepassing is.<BR></P>  <P>De wegvoertuigen waaraan het Europese homologatieattest 98/69B of 1999/102B   of 1999/96B is toegekend, worden geacht te beantwoorden aan de emissienorm "euro   4".<BR></P>  <P>§ 3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt   verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in   de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het   binnenland of in het buitenland voor ze definitief ingevoerd werden : <BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>Termijn       <TD>Percentage <BR>    <TR>      <TD>van 1 jaar tot 2 jaar       <TD>90 <BR>    <TR>      <TD>van 2 jaar tot 3 jaar       <TD>80 <BR>    <TR>      <TD>van 3 jaar tot 4 jaar       <TD>70 <BR>    <TR>      <TD>van 4 jaar tot 5 jaar       <TD>60 <BR>    <TR>      <TD>van 5 jaar tot 6 jaar       <TD>55 <BR>    <TR>      <TD>van 6 jaar tot 7 jaar       <TD>50 <BR>    <TR>      <TD>van 7 jaar tot 8 jaar       <TD>45 <BR>    <TR>      <TD>van 8 jaar tot 9 jaar       <TD>40 <BR>    <TR>      <TD>van 9 jaar tot 10 jaar       <TD>35 <BR>    <TR>      <TD>van 10 jaar tot 11 jaar       <TD>30 <BR>    <TR>      <TD>van 11 jaar tot 12 jaar       <TD>25 <BR>    <TR>      <TD>van 12 jaar tot 13 jaar       <TD>20 <BR>    <TR>      <TD>van 13 jaar tot 14 jaar       <TD>15 <BR>    <TR>      <TD>van 14 jaar tot 15 jaar       <TD>10<BR></TD></TR></TBODY></TABLE>  <P><BR>In afwijking van het eerste lid bedraagt de belasting voor de voertuigen   die vijftien jaar en meer ingeschreven geweest zijn 61,50 euro.<BR></P>  <P>Na toepassing van het eerste lid mag de belasting voor een voertuig niet   minder dan 61,50 euro bedragen.<BR></P>  <P>De belasting, berekend conform paragraaf 1, 2° en 3°, wordt verminderd tot   het percentage van de belasting voor de luchtvaartuigen en boten, vermeld in de   volgende tabel, naargelang de luchtvaartuigen en boten al normaal ingeschreven   geweest zijn of voorzien geweest zijn van een vlaggenbrief in het binnenland of   in het buitenland voor ze definitief ingevoerd werden : <BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>Termijn       <TD>Percentage <BR>    <TR>      <TD>van 1 jaar tot 2 jaar       <TD>90 <BR>    <TR>      <TD>van 2 jaar tot 3 jaar       <TD>80 <BR>    <TR>      <TD>van 3 jaar tot 4 jaar       <TD>70 <BR>    <TR>      <TD>van 4 jaar tot 5 jaar       <TD>60 <BR>    <TR>      <TD>van 5 jaar tot 6 jaar       <TD>50 <BR>    <TR>      <TD>van 6 jaar tot 7 jaar       <TD>40 <BR>    <TR>      <TD>van 7 jaar tot 8 jaar       <TD>30 <BR>    <TR>      <TD>van 8 jaar tot 9 jaar       <TD>20 <BR>    <TR>      <TD>van 9 jaar tot 10 jaar       <TD>10<BR></TD></TR></TBODY></TABLE><BR>In afwijking van het vierde lid bedraagt   de belasting 61,50 euro voor :<BR>1° de luchtvaartuigen en boten die tien jaar   of ouder zijn;<BR>2° de zelfbouwvliegtuigen, met uitzondering van de   zelfbouwvliegtuigen die worden geacht in het verkeer te zijn gesteld door   vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend   doel, met leasingactiviteiten;<BR>3° de paramotoren, met uitzondering van de   paramotoren die worden geacht in het verkeer te zijn gesteld door   vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend   doel, met leasingactiviteiten.<BR>
+§ 1. De belasting op andere voertuigen dan de voertuigen, vermeld in artikel 2.3.4.1.1, wordt berekend op de wijze die hierna wordt vermeld :<br>
+1° voor de personenauto's, auto's voor dubbel gebruik, minibussen en motorfietsen wordt de belasting berekend op basis van de volgende tabel :<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>aantal pk</td>
+			<td>aantal kW</td>
+			<td>totaalbedrag van de belasting in euro</td>
+		</tr>
+		<tr>
+			<td>8 en minder</td>
+			<td>70 en minder</td>
+			<td>61,50</td>
+		</tr>
+		<tr>
+			<td>9 tot en met 10</td>
+			<td>71 tot en met 85</td>
+			<td>123</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>86 tot en met 100</td>
+			<td>495</td>
+		</tr>
+		<tr>
+			<td>12 tot en met 14</td>
+			<td>101 tot en met 110</td>
+			<td>867</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>111 tot en met 120</td>
+			<td>1239</td>
+		</tr>
+		<tr>
+			<td>16 tot en met 17</td>
+			<td>121 tot en met 155</td>
+			<td>2478</td>
+		</tr>
+		<tr>
+			<td>meer dan 17</td>
+			<td>meer dan 155</td>
+			<td>4957</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Als het vermogen van eenzelfde motor, uitgedrukt in fiscale paardenkracht (pk) en in kilowatt (kW), aanleiding geeft tot de heffing van een verschillend belastingbedrag, is de belasting voor het hoogste bedrag verschuldigd;<br>
+2° de belasting bedraagt 619 euro voor ultralichte motorluchtvaartuigen en 2478 euro voor alle andere luchtvaartuigen;<br>
+3° de belasting bedraagt 2478 euro voor boten.</p>
+
+<p>§ 2. Voor de wegvoertuigen waarvan de motor, ook al is het maar gedeeltelijk of tijdelijk, aangedreven wordt met vloeibaar petroleumgas of andere vloeibare koolwaterstofgassen, wordt de belasting, berekend conform paragraaf 1, 1°, verminderd met 298 euro, in voorkomend geval beperkt tot het bedrag van de belasting.</p>
+
+<p>Als de verbrandingsmotor van een wegvoertuig wordt aangedreven door verschillende brandstofsoorten en het voertuig daardoor in aanmerking komt voor een combinatie van de vermindering voor benzine en lpg, wordt de toe te kennen vermindering beperkt tot het hoogste bedrag dat voor dat aanslagjaar voor een bepaalde soort van brandstof van toepassing is.</p>
+
+<p>De wegvoertuigen waaraan het Europese homologatieattest 98/69B of 1999/102B of 1999/96B is toegekend, worden geacht te beantwoorden aan de emissienorm "euro 4".</p>
+
+<p>§ 3. De belasting, berekend conform paragraaf 1, 1°, en paragraaf 2, wordt verminderd tot het percentage van de belasting voor de wegvoertuigen, vermeld in de volgende tabel, naargelang de voertuigen al ingeschreven zijn geweest in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Termijn</td>
+			<td>Percentage</td>
+		</tr>
+		<tr>
+			<td>van 1 jaar tot 2 jaar</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>van 2 jaar tot 3 jaar</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>van 3 jaar tot 4 jaar</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>van 4 jaar tot 5 jaar</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>van 5 jaar tot 6 jaar</td>
+			<td>55</td>
+		</tr>
+		<tr>
+			<td>van 6 jaar tot 7 jaar</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>van 7 jaar tot 8 jaar</td>
+			<td>45</td>
+		</tr>
+		<tr>
+			<td>van 8 jaar tot 9 jaar</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>van 9 jaar tot 10 jaar</td>
+			<td>35</td>
+		</tr>
+		<tr>
+			<td>van 10 jaar tot 11 jaar</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>van 11 jaar tot 12 jaar</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>van 12 jaar tot 13 jaar</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>van 13 jaar tot 14 jaar</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>van 14 jaar tot 15 jaar</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+In afwijking van het eerste lid bedraagt de belasting voor de voertuigen die vijftien jaar en meer ingeschreven geweest zijn 61,50 euro.</p>
+
+<p>Na toepassing van het eerste lid mag de belasting voor een voertuig niet minder dan 61,50 euro bedragen.</p>
+
+<p>De belasting, berekend conform paragraaf 1, 2° en 3°, wordt verminderd tot het percentage van de belasting voor de luchtvaartuigen en boten, vermeld in de volgende tabel, naargelang de luchtvaartuigen en boten al normaal ingeschreven geweest zijn of voorzien geweest zijn van een vlaggenbrief in het binnenland of in het buitenland voor ze definitief ingevoerd werden :</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Termijn</td>
+			<td>Percentage</td>
+		</tr>
+		<tr>
+			<td>van 1 jaar tot 2 jaar</td>
+			<td>90</td>
+		</tr>
+		<tr>
+			<td>van 2 jaar tot 3 jaar</td>
+			<td>80</td>
+		</tr>
+		<tr>
+			<td>van 3 jaar tot 4 jaar</td>
+			<td>70</td>
+		</tr>
+		<tr>
+			<td>van 4 jaar tot 5 jaar</td>
+			<td>60</td>
+		</tr>
+		<tr>
+			<td>van 5 jaar tot 6 jaar</td>
+			<td>50</td>
+		</tr>
+		<tr>
+			<td>van 6 jaar tot 7 jaar</td>
+			<td>40</td>
+		</tr>
+		<tr>
+			<td>van 7 jaar tot 8 jaar</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>van 8 jaar tot 9 jaar</td>
+			<td>20</td>
+		</tr>
+		<tr>
+			<td>van 9 jaar tot 10 jaar</td>
+			<td>10</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+In afwijking van het vierde lid bedraagt de belasting 61,50 euro voor :<br>
+1° de luchtvaartuigen en boten die tien jaar of ouder zijn;<br>
+2° de zelfbouwvliegtuigen, met uitzondering van de zelfbouwvliegtuigen die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten;<br>
+3° de paramotoren, met uitzondering van de paramotoren die worden geacht in het verkeer te zijn gesteld door vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.
 
 ### ART. 2.3.4.2.2.
 
@@ -1765,7 +1989,9 @@ In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsysteme
 
 ### ART. 2.3.6.0.2.
 
-<P>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor   of waterstof wordt geen belasting geheven.<BR><BR>Dit artikel is alleen van   toepassing op de wegvoertuigen, vermeld in artikel 2.3.4.1.1.</P>
+<p>Op voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof wordt geen belasting geheven.<br>
+<br>
+Dit artikel is alleen van toepassing op wegvoertuigen van natuurlijke personen en andere rechtspersonen dan vennootschappen, autonome overheidsbedrijven en verenigingen zonder winstgevend doel, met leasingactiviteiten.</p>
 
 ### ART. 2.3.6.0.3.
 
@@ -3355,7 +3581,13 @@ In afwijking van artikel 2.9.4.1.1 bedraagt het verkooprecht 6% voor een   koopo
 
 ### ART. 2.9.4.2.8.
 
-§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het   verkooprecht verlaagd tot 6% voor de ruilovereenkomsten van ongebouwde   landgoederen waarvan de verkoopwaarde voor elk van de kavels niet meer bedraagt   dan het kadastraal inkomen, vermenigvuldigd met een door de Vlaamse Regering   vastgestelde coëfficiënt op voorwaarde dat het waardeverschil tussen elk van de   kavels of de opleg een vierde van de verkoopwaarde van de minste kavel niet te   boven gaat.<BR><BR>Voor de toepassing van het tarief, vermeld in het eerste lid,   moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1 en § 3,   tweede lid.<BR><BR>§ 2. Voor elke te laag bevonden opleg of elk te laag bevonden   waardeverschil, zijn aanvullende rechten verschuldigd.<BR><BR>Hetzelfde geldt   voor elke overschatting van de kavels die een vermindering van het verkooprecht   tot gevolg heeft.
+§ 1. In afwijking van artikel 2.9.4.1.1 wordt het tarief van het verkooprecht verlaagd tot 6% voor de ruilovereenkomsten van ongebouwde landgoederen&nbsp;waarvan de oppervlakte van elk van de kavels niet meer bedraagt dan vijf hectare, op voorwaarde dat het waardeverschil tussen elk van de kavels of de opleg een vierde van de verkoopwaarde van de minste kavel niet te boven gaat.<br>
+<br>
+Voor de toepassing van het tarief, vermeld in het eerste lid, moet voldaan zijn aan de verplichtingen van artikel 3.12.3.0.1, § 1 en § 3, tweede lid.<br>
+<br>
+§ 2. Voor elke te laag bevonden opleg of elk te laag bevonden waardeverschil, zijn aanvullende rechten verschuldigd.<br>
+<br>
+Hetzelfde geldt voor elke overschatting van de kavels die een vermindering van het verkooprecht tot gevolg heeft.
 
 ### ART. 2.9.4.2.9.
 
@@ -3530,12 +3762,16 @@ Als onroerende goederen verkregen worden in andere omstandigheden dan de omstand
 Er wordt een vrijstelling van het verkooprecht verleend voor :<br>
 1° de akten die in der minne verleden zijn in naam van of ten voordele van de federale staat, de gemeenschappen, de gewesten, de gemeenschapscommissies, de openbare instellingen van de federale staat, de gemeenschappen of de gewesten;<br>
 2° de akten in der minne die betrekking hebben op onroerende goederen die uitsluitend bestemd zijn voor onderwijs, verleden op naam van of ten voordele van de inrichtende machten van het gemeenschapsonderwijs of het gesubsidieerd onderwijs, alsook op naam van of ten voordele van verenigingen zonder winstoogmerk voor patrimoniaal beheer die tot uitsluitend doel hebben onroerende goederen ter beschikking te stellen voor onderwijs dat door de voormelde inrichtende machten wordt verstrekt;<br>
-3° de akten die in der minne verleden zijn in naam van of ten voordele van de naamloze vennootschap van publiek recht HST-Fin;<br>
-4° de akten die in der minne verleden zijn in naam van of ten voordele van de naamloze vennootschap A.S.T.R.I.D.;<br>
-5° de akten die verleden zijn in naam van of ten voordele van de naamloze vennootschap BIO;<br>
+3° ...;<br>
+4° ...;<br>
+5° ...;<br>
 6° de akten die verleden zijn in naam van of ten voordele van de Vlaamse Maatschappij voor Sociaal Wonen;<br>
 7° de akten die verleden zijn in naam van of ten voordele van de Nationale Maatschappij der Belgische Spoorwegen;<br>
-8° de akten houdende oprichting, wijziging, verlenging of ontbinding van de Vlaamse Maatschappij voor Watervoorziening, van de Société wallonne des Eaux, van de Brusselse Maatschappij voor Waterbeheer, van de verenigingen of intercommunales vermeld in de wet van 22 december 1986 betreffende de intercommunales, het Vlaams decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en de Code de la démocratie locale et de la décentralisation, van de Maatschappij voor het Intercommunaal Vervoer te Brussel, van de Vlaamse Vervoersmaatschappij, van de Société Régionale wallonne du Transport, van de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen;<br>
+8° de akten houdende oprichting, wijziging, verlenging of ontbinding van:<br>
+a) de Vlaamse Maatschappij voor Watervoorziening;<br>
+b) de verenigingen of intercommunales, vermeld in de wet van 22 december 1986 betreffende de intercommunales en het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
+c) de Vlaamse Vervoermaatschappij - De Lijn;<br>
+d) de Federale Participatie- en Investeringsmaatschappij en de gewestelijke investeringsmaatschappijen;<br>
 9° de akten die, bij toepassing van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn of het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn, de overgave vaststellen van goederen aan openbare centra voor maatschappelijk welzijn ofwel de overgave van goederen aan op grond van voornoemde wet of decreet&nbsp;opgerichte verenigingen.<br>
 <br>
 Het eerste lid, 1° tot en met 7°, is alleen van toepassing op de akten waarvan de kosten wettelijk ten laste van vermelde entiteiten vallen.<br>
@@ -3544,31 +3780,24 @@ Om de vrijstelling, vermeld in het eerste lid, te verkrijgen, moet voldaan zijn 
 
 ### ART. 2.9.6.0.3.
 
-Er wordt een vrijstelling van het verkooprecht verleend voor :<br>
-1° de overdrachten in der minne van onroerende goederen ten algemenen nutte, aan de federale staat, de gemeenschappen, de gewesten, de gemeenschapscommissies, provinciën, gemeenten, openbare instellingen en aan alle andere tot onteigening gerechtigde organen of personen;<br>
-2° de akten betreffende de wederafstand na onteigening ten algemenen nutte in de gevallen waarin ze bij de wet of het decreet toegelaten is;<br>
-3° de akten tot vaststelling van een ruilverkaveling of herverkaveling met het oog op de realisatie van een ruimtelijk uitvoeringsplan als vermeld in hoofdstuk II van titel II van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
-4° de akten van overdracht van een afgedankte bedrijfsruimte aan de federale staat of een andere publiekrechtelijke rechtspersoon;<br>
-5° de akten houdende verkrijging door vreemde staten van onroerende goederen die bestemd zijn tot vestiging van hun diplomatieke of consulaire vertegenwoordiging in België, of voor de woning van het hoofd van de standplaats;<br>
-6° de akten, vonnissen en arresten betreffende de uitvoering van de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne;<br>
-7° de akten houdende ruiling van gronden bij wijze van bestemmingswijzigingscompensatie of compensatie ingevolge beschermingsvoorschriften, waarbij de Vlaamse Grondenbank optreedt overeenkomstig artikel 6.2.10 van het decreet van 27 maart 2009 betreffende het grond- en pandenbeleid;<br>
-8° de akten, vonnissen en arresten betreffende de uitvoering van de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet en van de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
-9° de akten houdende ruiling als vermeld in artikel 5, § 2, 5°, § 3, 1°, § 5 en § 7, van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
-10° de natuurinrichtingsakten, vermeld in artikel 41 van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
-11° de akten houdende vrijwillige herverkaveling, de akten houdende herverkaveling uit kracht van de wet en de akten houdende herverkaveling uit kracht van de wet met planologische ruil, vermeld in artikel 2.1.18, artikel 2.1.48 en artikel 2.1.66 van het decreet van 28 maart 2014 betreffende de landinrichting;<br>
-12° de overeenkomsten tot overdracht van onroerende goederen als vermeld in artikel 2.9.3.0.1, voor zover de overdracht plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een brownfieldconvenant als vermeld in het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.<br>
+Er wordt een vrijstelling van het verkooprecht verleend voor:<br>
+1° de overdrachten in der minne van onroerende goederen ten algemenen nutte, aan de federale staat, de gemeenschappen, de gewesten, de gemeenschapscommissies, de provincies, de gemeenten, de openbare instellingen en aan alle andere tot onteigening gerechtigde organen of personen;<br>
+2° de akten voor de wederafstand na onteigening ten algemenen nutte in de gevallen waarin die bij de wet of het decreet toegelaten is;<br>
+3° de akten houdende verkrijging door vreemde staten van onroerende goederen die bestemd zijn tot vestiging van hun diplomatieke of consulaire vertegenwoordiging in België, of voor de woning van het hoofd van de standplaats;<br>
+4° de overeenkomsten tot overdracht van onroerende goederen, vermeld in artikel 2.9.3.0.1, als de overdracht plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een brownfieldconvenant als vermeld in het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten;<br>
+5° de akten, vonnissen en arresten voor de ruil, de ruilverkaveling of de herverkaveling, of voor het vestigen van een erfdienstbaarheid, ter uitvoering van een wet of een decreet.<br>
 <br>
-De vrijstelling, vermeld in het eerste lid, 5°, is ondergeschikt aan de voorwaarde dat wederkerigheid aan de Belgische Staat toegekend wordt.<br>
+De vrijstelling, vermeld in het eerste lid, 3°, is ondergeschikt aan de voorwaarde dat wederkerigheid aan de Belgische Staat toegekend wordt.<br>
 <br>
-De vrijstelling, vermeld in het eerste lid, 12°, wordt alleen verleend als bij de aan de formaliteit van de registratie onderworpen akte of verklaring over de overeenkomst een attest is gevoegd waarin wordt bevestigd dat de overdracht plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een brownfieldconvenant, en dat de onroerende goederen waarvoor de vrijstelling wordt gevraagd, deel uitmaken van dat brownfieldproject. De Vlaamse Regering bepaalt de nadere regels voor de vormgeving van dat attest.<br>
+De vrijstelling, vermeld in het eerste lid, 4°, wordt alleen verleend als bij de aan de formaliteit van de registratie onderworpen akte of verklaring over de overeenkomst een attest is gevoegd waarin wordt bevestigd dat de overdracht plaatsvindt met het oog op de realisatie van een brownfieldproject dat het voorwerp uitmaakt of zal uitmaken van een brownfieldconvenant, en dat de onroerende goederen waarvoor de vrijstelling wordt gevraagd, deel uitmaken van dat brownfieldproject. De Vlaamse Regering bepaalt de nadere regels voor de vormgeving van dat attest.<br>
 <br>
-Als de overeenkomst, vermeld in het eerste lid, 12°, ook andere onroerende goederen omvat dan de onroerende goederen, vermeld in het eerste lid, en als de overdracht gedaan wordt voor een gezamenlijke prijs, moet de verkoopwaarde van elk van de onderscheiden categorieën van onroerende goederen worden opgegeven in een aanvullende verklaring als vermeld in artikel 3.13.1.2.1.<br>
+Als de overeenkomst, vermeld in het eerste lid, 4°, ook andere onroerende goederen omvat dan de onroerende goederen, vermeld in het eerste lid, en als de overdracht gedaan wordt voor een gezamenlijke prijs, wordt de verkoopwaarde van elk van de onderscheiden categorieën van onroerende goederen opgegeven in een aanvullende verklaring als vermeld in artikel 3.13.1.2.1.<br>
 <br>
-Het verkooprecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 12°, als de Vlaamse Regering beslist tot stopzetting van de onderhandelingen als vermeld in artikel 8, § 3, vierde lid, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant.&nbsp;Het verkooprecht wordt opeisbaar vanaf de kennisgeving aan het bevoegde personeelslid van het niet langer vervuld zijn van de voorwaarden voor het behoud van de vrijstelling. De Vlaamse Regering bepaalt de nadere regels voor die kennisgeving.
+Het verkooprecht is alsnog verschuldigd door de verkrijger van de onroerende goederen, vermeld in het eerste lid, 4°, als de Vlaamse Regering beslist tot stopzetting van de onderhandelingen als vermeld in artikel 8, § 3, eerste lid, van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten, of als het brownfieldproject niet tijdig wordt gestart of gerealiseerd conform de voorwaarden, vermeld in het brownfieldconvenant. Het verkooprecht wordt opeisbaar vanaf de kennisgeving aan het bevoegde personeelslid dat de voorwaarden voor het behoud van de vrijstelling niet langer vervuld zijn. De Vlaamse Regering bepaalt de nadere regels voor die kennisgeving.
 
 ### ART. 2.9.6.0.4.
 
-Er wordt een vrijstelling van het verkooprecht verleend voor de   ruilovereenkomsten van onbebouwde landeigendommen waarvan de verkoopwaarde voor   elk van de kavels niet meer bedraagt dan het kadastraal inkomen, vermenigvuldigd   met een door de Vlaamse Regering vastgestelde coëfficiënt, op voorwaarde dat er   tussen elk van de kavels geen waardeverschil of opleg is.
+Er wordt een vrijstelling van het verkooprecht verleend voor de ruilovereenkomsten van onbebouwde landeigendommen waarvan de oppervlakte van elk van de kavels niet meer bedraagt dan vijf hectare, op voorwaarde dat er tussen elk van de kavels geen waardeverschil of opleg is.
 
 ### ART. 2.9.6.0.5.
 
@@ -3596,7 +3825,9 @@ Het verkooprecht wordt geheven in overeenstemming met de bepalingen van   artike
 
 ### ART. 2.9.7.0.2.
 
-<P>Voor ruilovereenkomsten wordt het verkooprecht gevestigd op basis van het   bedrag van de overeengekomen waarde van het onroerend goed waarop de   ruilovereenkomst betrekking heeft, dat aanleiding geeft tot heffing van het   hoogste recht.<BR><BR>Bij ruilovereenkomsten van onbebouwde landeigendommen,   waarbij er ongelijkheid van kavels is en waarbij de verkoopwaarde voor elk van   de kavels niet meer bedraagt dan het kadastraal inkomen, vermenigvuldigd met een   door de Vlaamse Regering vastgestelde coëfficiënt, wordt in afwijking van het   eerste lid het verkooprecht geheven op het waardeverschil of de opleg als die   opleg groter is dan dat verschil.</P>
+<p>Voor ruilovereenkomsten wordt het verkooprecht gevestigd op basis van het bedrag van de overeengekomen waarde van het onroerend goed waarop de ruilovereenkomst betrekking heeft, dat aanleiding geeft tot heffing van het hoogste recht.<br>
+<br>
+Bij ruilovereenkomsten van onbebouwde landeigendommen, waarbij er ongelijkheid van kavels is en waarbij de oppervlakte van elk van de kavels niet meer bedraagt dan vijf hectare, wordt in afwijking van het eerste lid het verkooprecht geheven op het waardeverschil of de opleg als die opleg groter is dan dat verschil.</p>
 
 ### ART. 2.9.7.0.3.
 
@@ -3679,7 +3910,7 @@ Om de vrijstelling, vermeld in het eerste lid, 2°, te verkrijgen, moet voldaan 
 
 ### ART. 2.10.6.0.2.
 
-Er wordt een vrijstelling van het verdeelrecht verleend voor :<BR>1° de   akten in der minne die verleden zijn in naam van of ten voordele van de federale   staat, de gemeenschappen, de gewesten, de gemeenschapscommissies, openbare   instellingen van de federale staat, de gemeenschappen en de gewesten;<BR>2° de   akten in der minne die betrekking hebben op onroerende goederen die uitsluitend   bestemd zijn voor onderwijs, die verleden zijn in naam van of ten voordele van   de inrichtende machten van het gemeenschapsonderwijs of het gesubsidieerd   onderwijs, alsook ten name of ten bate van verenigingen zonder winstoogmerk voor   patrimoniaal beheer die tot uitsluitend doel hebben onroerende goederen ter   beschikking te stellen voor onderwijs dat door de voormelde inrichtende machten   wordt verstrekt;<BR>3° de akten die in der minne verleden zijn in naam van of   ten voordele van de naamloze vennootschap van publiek recht HST-Fin;<BR>4° de   akten die in der minne verleden zijn in naam van of ten voordele van de naamloze   vennootschap A.S.T.R.I.D.;<BR>5° de akten die verleden zijn in naam van of ten   voordele van de naamloze vennootschap BIO;<BR>6° de akten die verleden zijn in   naam van of ten voordele van de Vlaamse Maatschappij voor Sociaal Wonen;<BR>7°   de akten die verleden zijn in naam van of ten voordele van de Nationale   Maatschappij der Belgische Spoorwegen.<BR><BR>Het eerste lid is alleen van   toepassing op de akten waarvan de kosten wettelijk ten laste van de vermelde   entiteiten vallen.<BR><BR>Om de vrijstelling, vermeld in het eerste lid, te   verkrijgen, moet voldaan zijn aan de verplichtingen, vermeld in artikel   3.12.3.0.1, § 1, 4°.
+...
 
 ### ART. 2.10.6.0.3.
 
@@ -3785,11 +4016,141 @@ In geval van een handelszaak wordt het recht van hypotheekvestiging   vastgestel
 
 ## [Afdeling 1 Belastbaar voorwerp (ing. Decr. 7 december 2018, art. 4, I: 1 januari 2019)]
 
+### ART 2.12.1.0.1.
+
+Overeenkomstig artikel 3, eerste lid, 1°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten wordt er een belasting geheven op de spelen en weddenschappen.
+
 ## [Afdeling 2 Belastingplichtigen (ing. Decr. 7 december 2018, art. 6, I: 1 januari 2019)]
+
+### ART 2.12.2.0.1.
+
+De belastingplichtige is degene die, zelfs toevallig, enige inzet of enig inleggeld aanneemt in het kader van spelen en weddenschappen, hetzij voor eigen rekening, hetzij als tussenpersoon.<br>
+<br>
+In afwijking van het eerste lid zijn de belastingplichtigen diegenen die het lokaal of het materieel ter beschikking stellen van personen die aan spelen of weddenschappen doen als er, in private kringen of in andere lokalen of via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van de Kansspelwet van 7 mei 1999, aan spelen of aan weddenschappen wordt gedaan op een wijze dat niemand in het bijzonder belast is om inzetten of inleggelden aan te nemen, hetzij voor eigen rekening, hetzij als tussenpersoon.
 
 ## [Afdeling 3 Belastbare grondslag (ing. Decr. 7 december 2018, art. 8, I: 1 januari 2019)]
 
+### ART 2.12.3.0.1.
+
+§ 1. De belasting op de spelen en weddenschappen wordt geheven op de opbrengst van de spelen en de weddenschappen, met inbegrip van deze die ingezet worden via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van de Kansspelwet van 7 mei 1999.<br>
+<br>
+In het eerste lid wordt verstaan onder opbrengst: het bedrag van de sommen of inleggelden die worden ingezet bij de spelen en weddenschappen in kwestie, verminderd met de winsten die voor die spelen en weddenschappen werkelijk verdeeld zijn. Dat geldt ook voor sommen of inleggelden die worden ingezet in private kringen.<br>
+<br>
+In afwijking van het tweede lid wordt voor de casinospelen de opbrengst gevormd per kansspelinrichting door het verschil tussen het bedrag van de incasso's die vastgesteld worden op het einde van de partijen en het samengevoegde bedrag van de aanvangsvoorschotten en de bijkomende voorschotten, verminderd met de afnemingen tijdens de partijen. Voor de met casinospelen gelijkgestelde automatische ontspanningstoestellen wordt de opbrengst gevormd per kansspelinrichting door het verschil van de sommen die per toestel worden ingezet, verminderd met de winsten die voor dat toestel werkelijk verdeeld zijn.<br>
+<br>
+De opbrengst, vermeld in het derde lid, wordt dagelijks vastgesteld. Het eventuele verlies dat voor een dag wordt vastgesteld, wordt in mindering gebracht van de opbrengst van de volgende dagen.<br>
+<br>
+Voor de toepassing van het eerste lid worden de sommen of inleggelden geacht ingezet te zijn in het Vlaamse Gewest als de spelen of weddenschappen worden ontvangen via een server die in het Vlaamse Gewest gevestigd is of uitgebaat wordt.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, eerste lid, wordt de belasting geheven op:<br>
+1° het bedrag van de sommen of inleggelden die ingezet worden bij spelen of weddenschappen in geval van mediaspelen als vermeld in artikel 2, 9°, van de Kansspelwet van 7 mei 1999, met uitzondering van mediaspelen via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van voormelde wet;<br>
+2° het vermoedelijke bedrag van de sommen of inleggelden die ingezet worden bij spelen of weddenschappen in het geval van een ambtshalve aanslag als vermeld in artikel 2.12.7.0.1.
+
 ## [Afdeling 4 Tarieven (ing. Decr. 7 december 2018, art. 10, I: 1 januari 2019)]
+
+### ART 2.12.4.0.1.
+
+§ 1. Het tarief van de belasting bedraagt 15%.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 bedraagt het tarief:<br>
+1° 11% als de sommen of inleggelden worden ingezet via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van de Kansspelwet van 7 mei 1999;<br>
+2° het percentage in de volgende tabel dat overeenstemt met de schijf van de opbrengst als het gaat om casinospelen:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="2">A. schijf in euro</td>
+			<td>tarief toepasselijk op het overeenstemmende gedeelte in kolom A, in %</td>
+			<td>totaalbedrag van de belasting op het voorgaande gedeelte, in euro</td>
+		</tr>
+		<tr>
+			<td>vanaf</td>
+			<td>tot en met</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>0,01</td>
+			<td>865.000</td>
+			<td>33</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>865.000,01</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;44</td>
+			<td>285.450</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+3° het percentage in de volgende tabel dat overeenstemt met de schijf van de opbrengst voor de met casinospelen gelijkgestelde automatische ontspanningstoestellen, vermeld in artikel 2.13.6.0.1, 2° :<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td colspan="2">A. schijf in euro</td>
+			<td>tarief toepasselijk op het overeenstemmende gedeelte in kolom A, in %</td>
+			<td>totaalbedrag van de belasting op de voorgaande gedeelten, in euro</td>
+		</tr>
+		<tr>
+			<td>vanaf</td>
+			<td>tot en met</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>0,01</td>
+			<td>1.200.000</td>
+			<td>20</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>1.200.000,01</td>
+			<td>2.450.000</td>
+			<td>25</td>
+			<td>240.000</td>
+		</tr>
+		<tr>
+			<td>2.450.000,01</td>
+			<td>3.700.000</td>
+			<td>30</td>
+			<td>552.500</td>
+		</tr>
+		<tr>
+			<td>3.700.000,01</td>
+			<td>6.150.000</td>
+			<td>35</td>
+			<td>927.500</td>
+		</tr>
+		<tr>
+			<td>6.150.000,01</td>
+			<td>8.650.000</td>
+			<td>40</td>
+			<td>1.785.000</td>
+		</tr>
+		<tr>
+			<td>8.650.000,01</td>
+			<td>12.350.000</td>
+			<td>45</td>
+			<td>2.785.000</td>
+		</tr>
+		<tr>
+			<td>12.350.001,01</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;50</td>
+			<td>4.450.000</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De schijven, vermeld in het eerste lid, 2° en 3°, worden toegepast op de opbrengst voor het kalenderjaar.
+
+### ART 2.12.4.0.2.
+
+De provincies en de gemeenten zijn niet gemachtigd tot het heffen van opcentiemen op de belasting op de spelen en de weddenschappen, vermeld in artikel 2.12.1.0.1, of van welke belasting dan ook op de spelen en weddenschappen die onderhevig zijn aan de belasting, vermeld in dit hoofdstuk.<br>
+<br>
+In afwijking van het eerste lid kunnen de provincies en de gemeenten een belasting heffen op de agentschappen voor weddenschappen op paardenwedrennen. De provinciale en gemeentelijke belasting mag per agentschap niet hoger zijn dan respectievelijk 37,5 en 62 euro per maand bedrijvigheid of per gedeelte daarvan.
 
 ## [Afdeling 5 Verminderingen (ing. Decr. 7 december 2018, art. 13, I: 1 januari 2019)]
 
@@ -3799,11 +4160,31 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 6 Vrijstellingen (ing. Decr. 7 december 2018, art. 15, I: 1 januari 2019)]
 
+### ART 2.12.6.0.1.
+
+Er wordt een vrijstelling van de belasting verleend voor:<br>
+1° de toegelaten loterijen;<br>
+2° de volksvermakelijkheden, waarbij alleen inschrijvings- of deelnemingsrechten worden geheven, die verdeeld worden in de vorm van prijzen waarvan de waarde niet meer bedraagt dan het tienvoudige van de inzet per deelnemer of die besteed worden aan de normale organisatiekosten, als het totale bedrag van die rechten per dag en per persoon niet meer bedraagt dan 50 euro;<br>
+3° de duivenprijskampen waarbij uitsluitend ingezet wordt door de eigenaars van de ingeschreven duiven;<br>
+4° de vogelzangwedstrijden;<br>
+5° de wedstrijden die uitsluitend worden georganiseerd voor musea of voor de instellingen, vermeld in artikel 14533, § 1, 1° en 2°, van het Wetboek van de Inkomstenbelastingen 1992;<br>
+6° de sportbeoefening.<br>
+<br>
+De vrijstellingen, vermeld in het eerste lid, 2° tot en met 6°, zijn niet van toepassing op sommen of inleggelden ingezet voor de betrokken spelen of weddenschappen via informatiemaatschappij-instrumenten als vermeld in artikel 2, 10°, van de Kansspelwet van 7 mei 1999.
+
 ## [Afdeling 7 Wijze van heffing (ing. Decr. 7 december 2018, art. 17, I: 1 januari 2019)]
+
+### ART 2.12.7.0.1.
+
+De belasting op de spelen en weddenschappen wordt gevestigd op zicht van de aangifte, vermeld in artikel 3.3.1.0.15, of ambtshalve als de aangifte niet is ingediend binnen de termijn, vermeld in artikel 3.3.1.0.15, of bij onjuistheid of onvolledigheid van de aangifte, en conform artikel 3.3.2.0.1, eerste lid, 11°, en tweede lid, 7°, en artikel 3.3.3.0.1, § 2.
 
 ## [Hoofdstuk 13. Belasting op de automatische ontspanningstoestellen (ing. Decr. 7 december 2018, art. 19, I: 1 januari 2019)]
 
 ## [Afdeling 1 Belastbaar voorwerp (ing. Decr. 7 december 2018, art. 20, I: 1 januari 2019)]
+
+### ART 2.13.1.0.1.
+
+Overeenkomstig artikel 3, eerste lid, 2°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten en artikel 76 van het federale Wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen wordt een belasting geheven op de automatische ontspanningstoestellen, die opgesteld worden op de openbare weg, in de voor het publiek toegankelijke plaatsen of in private kringen, ongeacht of de toegang tot die kringen al dan niet onderworpen is aan bepaalde formaliteiten.
 
 ## [Afdeling 2 Belastingplichtigen (ing. Decr. 7 december 2018, art. 22, I: 1 januari 2019)]
 
@@ -3813,17 +4194,110 @@ De belastingplichtige is de eigenaar van het automatische ontspanningstoestel.
 
 ## [Afdeling 3 Belastbare grondslag (ing. Decr. 7 december 2018, art. 24, I: 1 januari 2019)]
 
+### ART 2.13.3.0.1.
+
+§ 1. De automatische ontspanningstoestellen zijn volgens hun type ingedeeld in vijf categorieën, respectievelijk aangeduid door de letters A, B, C, D en E.<br>
+<br>
+§ 2. De volgende automatische ontspanningstoestellen worden respectievelijk gerangschikt in de volgende categorieën:<br>
+1° de categorie A:<br>
+a) de elektrische biljarten met veranderlijke inzet, gewoonlijk "Bingo" genaamd, waarvan het spel erin bestaat verscheidene ballen of kogels in de op het horizontale vlak van het toestel gemaakte gaten te plaatsen met het doel, naargelang van het type van toestel, op het paneel van het verticale vlak verschillende cijfers of tekens op een horizontale, verticale of diagonale lijn of in een bepaalde zone te belichten;<br>
+b) de elektrische biljarten met veranderlijke inzet, gewoonlijk "One-ball" genaamd, waarvan het spel erin bestaat op het horizontale vlak van het toestel een bal of kogel te plaatsen in een van de gaten die hetzelfde cijfer draagt als het cijfer dat op het paneel van het verticale vlak verlicht is;<br>
+c) de automatische ontspanningstoestellen, inclusief de toestellen, vermeld in punt 3° tot en met 5°, die aan de speler of gebruiker toelaten, zelfs toevallig, tenminste het bedrag van de gedane inzet in geld of in de vorm van penningen terug te winnen of prijzen te winnen, in natura of in de vorm van premiebons, met een handelswaarde van ten minste 6,20 euro;<br>
+d) de kansspelen op virtuele weddenschappen;<br>
+2° de categorie B: de automatische ontspanningstoestellen, vermeld in punt 1°, c), die eigendom zijn van foorreizigers en in het Vlaamse Gewest maximaal tien weken aaneensluitend op eenzelfde plaats zijn opgesteld in mobiele installaties op foren, jaarmarkten, handelsforen, wijkkermissen en feestelijkheden;<br>
+3° de categorie C:<br>
+a) de automatische kranen met grijp- of duwarm;<br>
+b) de elektrische biljarten met vaste inzet, gewoonlijk "Pin-Ball", "Flipper" of "Flip-Tronic" genaamd, waarvan het spel erin bestaat ballen of kogels te lanceren die, door hun aanraking met sommige hinderpalen, die zich op het horizontale vlak van het toestel bevinden, op het paneel van het verticale vlak het resultaat van het spel zichtbaar maken in de vorm van punten, tekens of afbeeldingen;<br>
+c) de automatische kegelspelen, die normaal verplaatsbaar zijn en gewoonlijk het gebruik van ballen of kogels vereisen;<br>
+d) de automatische ontspanningstoestellen die simultaan films of beelden projecteren en klank verspreiden;<br>
+4° de categorie D:<br>
+a) de automatische platenspelers, gewoonlijk "Juke-Box" genaamd, die uitsluitend muziek verspreiden, zelfs als ze op afstand in werking worden gesteld;<br>
+b) de automatische kegelspelen, die normaal verplaatsbaar zijn en gewoonlijk het gebruik van schijven vereisen;<br>
+c) de automatische schietapparaten;<br>
+d) de elektrische golf-, hockey-, tennis- en voetbalspelen, het elektrisch balspel van het model "Spinner" en de elektrische toestellen van het model "Base-ball", "Basket-ball", "Drop-ball", "Skee-ball", "Skee-fun", "All-Star Bowler" en "Ten Strike";<br>
+e) iedere elektrische biljart die deel uitmaakt van het competitiespel dat normaal op foren en kermissen wordt georganiseerd en gewoonlijk "Bumper" wordt genoemd;<br>
+5° de categorie E:<br>
+a) alle automatische ontspanningstoestellen die bij de bevoegde overheid zijn aangegeven ter uitvoering van artikel 3.12.4.0.1 en die niet in een van de categorieën A tot en met D zijn gerangschikt;<br>
+b) de automatische ontspanningstoestellen met een verminderde inzet.<br>
+<br>
+Wanneer technische, economische of sociale omstandigheden het vereisen, kan de categorie waarin een type toestel moet worden gerangschikt, vastgesteld of gewijzigd worden door de Vlaamse Regering, na raadpleging van de betrokken beroepsverenigingen. Voor de rangschikking van een toestel wordt rekening gehouden met zijn rendabiliteit, de aard van het aangeboden spel en de menigvuldigheid van de inzet.
+
+### ART 2.13.3.0.2.
+
+Elke combinatie van toestellen waarop gelijktijdig verschillende inzetten kunnen worden gedaan, die ieder recht geven op een afzonderlijk spel, bevat zoveel belastbare toestellen als er afzonderlijke spelen mogelijk zijn die gelijktijdig kunnen plaatsvinden.<br>
+<br>
+Als de combinatie, vermeld in het eerste lid, de aard vertoont van een competitiespel, wordt het aantal belastbare toestellen evenwel beperkt tot het aantal tekens, nummers, figuren of andere voorwerpen die in het spel kunnen worden betrokken.
+
 ## [Afdeling 4 Tarieven (ing. Decr. 7 december 2018, art. 27, I: 1 januari 2019)]
+
+### ART 2.13.4.0.1.
+
+&nbsp;De belasting wordt berekend volgens het tarief per kalenderjaar, vermeld in de volgende tabel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>categorie van het toestel</td>
+			<td>tarief in euro</td>
+		</tr>
+		<tr>
+			<td>A</td>
+			<td>4.000</td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td>1.290</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>D</td>
+			<td>0</td>
+		</tr>
+		<tr>
+			<td>E</td>
+			<td>150</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De tarieven, vermeld in het eerste lid, worden met ingang van 1 januari 2020 jaarlijks geïndexeerd met behulp van de coëfficiënt die wordt verkregen door het algemene indexcijfer van de consumptieprijzen van het Rijk, voor de maand november van het vorige jaar te delen door het algemene indexcijfer van de consumptieprijzen van het Rijk voor de maand november van het jaar 2018. Daarbij worden de volgende afrondingen toegepast:<br>
+1° de coëfficiënt wordt afgerond op het hogere of lagere tienduizendste naargelang het cijfer van de honderdduizendsten al of niet vijf bereikt;<br>
+2° na de toepassing van de coëfficiënt wordt het verkregen bedrag afgerond op de hogere of lagere eurocent naargelang het cijfer van het tiende van de eurocent al dan niet vijf bereikt.
+
+### ART 2.13.4.0.2.
+
+De provincies en de gemeenten zijn niet gemachtigd tot het heffen van opcentiemen op belasting op de automatische ontspanningstoestellen of van welke belasting dan ook op de automatische ontspanningstoestellen die onderhevig zijn aan de belasting, vermeld in dit hoofdstuk.
 
 ## [Afdeling 5 Verminderingen (ing. Decr. 7 december 2018, art. 30, I: 1 januari 2019)]
 
+### ART 2.13.5.0.1.
+
+In afwijking van artikel 2.13.4.0.1, eerste lid, is drie vierde, de helft of een vierde van het jaarbedrag verschuldigd als de opstelling van het automatische ontspanningstoestel respectievelijk gebeurt in de loop van het tweede, het derde of het vierde kwartaal.
+
+### ART 2.13.5.0.2.
+
+De belasting op de automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, § 2, die eigendom zijn van foorreizigers, wordt verminderd tot 10% als ze in het Vlaamse Gewest maximaal tien weken aaneensluitend op eenzelfde plaats zijn opgesteld in mobiele installaties op foren, jaarmarkten, handelsforen, wijkkermissen en feestelijkheden.
+
 ## [Afdeling 6 Vrijstellingen (ing. Decr. 7 december 2018, art. 33, I: 1 januari 2019)]
+
+### ART 2.13.6.0.1.
+
+Er wordt een vrijstelling van de belasting verleend voor de automatische ontspanningstoestellen:<br>
+1° die in de lokalen die daarvoor bestemd zijn, uitsluitend ter beschikking staan van de jeugdbewegingen, van bewoners van rust- en verzorgingsinstellingen of van in ziekenhuizen opgenomen personen;<br>
+2° die zich bevinden in een kansspelinrichting van klasse I als vermeld in artikel 6 van de Kansspelwet van 7 mei 1999, en onderworpen worden aan de belasting, vermeld in artikel 2.12.4.0.1, § 2, 3°.
 
 ## [Afdeling 7 Wijze van heffing (ing. Decr. 7 december 2018, art. 35, I: 1 januari 2019)]
 
 ### ART 2.13.7.0.1.
 
 De belasting wordt gevestigd op zicht van de aangifte, vermeld in artikel 3.3.1.0.16, of ambtshalve als de aangifte niet is ingediend binnen de termijn, vermeld in artikel 3.3.1.0.16, of bij onjuistheid of onvolledigheid van de aangifte, en conform de bepalingen van artikel 3.3.2.0.1, eerste lid, 12°, en tweede lid, 8°, en artikel 3.3.3.0.1, § 2.
+
+### ART 2.13.7.0.2.
+
+Met uitzondering van afdeling 5 en afdeling 6, is dit hoofdstuk niet van toepassing op de automatische ontspanningstoestellen waarvan de exploitatie is verboden krachtens artikel 4, 7 en 8 van de Kansspelwet van 7 mei 1999.
 
 ## TITEL 3 Inning en invordering
 
@@ -3879,7 +4353,7 @@ De Vlaamse Regering bepaalt welk percentage van de leegstandsheffing bedrijfsrui
 
 ### ART. 3.1.0.0.6.
 
-<P>&nbsp;De provincies en de gemeenten die met toepassing van artikel 2.1.4.0.2   opcentiemen op de onroerende voorheffing heffen, en die met toepassing van   artikel 2.1.4.0.1, § 2, eerste lid, 5°, 6° en 7°, en artikel 2.1.5.0.1, § 2, die   opbrengsten derven, worden daarvoor volledig vergoed door het Vlaamse   Gewest.</P>
+De provincies en de gemeenten die met toepassing van artikel 2.1.4.0.2 opcentiemen op de onroerende voorheffing heffen, en die met toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 5° en 7°, en § 2/1, artikel 2.1.5.0.1, § 2, artikel 2.1.6.0.2 en artikel 2.2.6.0.1, § 2, 2°, die opbrengsten derven, worden daarvoor volledig vergoed door het Vlaamse Gewest. De compensatie voor artikel 2.2.6.0.1, § 2, 2°, geldt enkel voor voertuigen die voor het eerst worden vrijgesteld vanaf aanslagjaar 2019.
 
 ### ART. 3.1.0.0.7.
 
@@ -4144,6 +4618,51 @@ Als de laatste dag van een termijn als vermeld in deze afdeling, op een   zaterd
 
 § 1. De registratie van afgelegde kilometers, die nodig is voor de   berekening van de kilometerheffing, wordt gedaan met behulp van een   elektronische registratievoorziening.<BR><BR>§ 2. Tenzij het voertuig is   vrijgesteld van de kilometerheffing, moet de houder van het voertuig voorafgaand   aan het gebruik van elke weg ervoor zorgen dat het voertuig is uitgerust met de   elektronische registratievoorziening die aan hem ter beschikking gesteld   is.<BR><BR>Als de bestuurder niet de houder van het voertuig is, rust op hem   dezelfde verplichting als vermeld in het eerste lid.<BR><BR>§ 3. De bestuurder   ziet er tijdens elk gebruik van een weg op toe dat de elektronische   registratievoorziening, volgens de gegevens die de mens-machine-interface   aangeeft, de afstand die het voertuig aflegt registreert.<BR><BR>In het eerste   lid wordt verstaan onder mens-machine-interface : ieder onderdeel van de   elektronische registratievoorziening waarmee de elektronische   registratievoorziening en de gebruiker ervan met elkaar communiceren, met   inbegrip van, in voorkomend geval, de toetsen en het beeldscherm.<BR><BR>§ 4. De   houder van het voertuig stelt zich onmiddellijk in verbinding met de   dienstverlener in de volgende gevallen :<BR>1° als de elektronische   registratievoorziening signaleert dat het voertuig niet meer voldoet aan de bij   deze codex of de uitvoeringsbesluiten ervan bepaalde vereisten;<BR>2° als elk   signaal door de elektronische registratievoorziening ontbreekt;<BR>3° als hij   het signaal ontvangt dat het ter beschikking gestelde gegarandeerde betaalmiddel   ontoereikend is geworden.<BR><BR>Als de bestuurder niet de houder van het   voertuig is, rust op hem dezelfde verplichting als vermeld in het eerste   lid.<BR><BR>De dienstverlener geeft, waar nodig, instructies aan de bestuurder   van het voertuig, waarbij die laatste ertoe gehouden is die instructies na te   leven.<BR><BR>Voor de toepassing van dit artikel wordt verstaan onder   elektronische registratievoorziening : de elektronische boordapparatuur bestemd   voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst,   die, al dan niet met behulp van elektronische apparatuur op afstand, data   uitwisselt om te komen tot de registratie van afgelegde kilometers, alsook tot   de berekening van de kilometerheffing op die geregistreerde afstand.<BR><BR>De   Vlaamse Regering bepaalt de instructies, vermeld in het derde lid.
 
+### ART 3.3.1.0.14.
+
+De belastingplichtige dient uiterlijk de voorlaatste werkdag voor het begin van de verrichtingen voor spelen en weddenschappen bij de bevoegde entiteit van de Vlaamse administratie een voorafgaande aangifte in. Als de spelen of de weddenschappen een voortdurend karakter hebben, geldt de aangifte tot de intrekking ervan.<br>
+<br>
+De voorafgaande aangifte, vermeld in het eerste lid, vermeldt:<br>
+1° hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de belastingplichtige;<br>
+2° de klasse van de kansspelinrichting, vermeld in artikel 6 van de Kansspelwet van 7 mei 1999, en het type en het nummer van de vergunning, toegekend door de Kansspelcommissie;<br>
+3° de naam van de plaats en het adres waar de spelen of de weddenschappen worden georganiseerd;<br>
+4° de aard van de spelen of de weddenschappen;<br>
+5° de periode waarin de spelen of de weddenschappen worden georganiseerd.<br>
+<br>
+De aangifteplicht die is bepaald in dit artikel geldt niet voor de van belasting vrijgestelde spelen en weddenschappen, vermeld in artikel 2.12.6.0.1.
+
+### ART 3.3.1.0.15.
+
+Voor de toepassing van titel 2, hoofdstuk 12, dient de belastingplichtige de eerste werkdag van de maand bij de bevoegde entiteit van de Vlaamse administratie een aangifte in voor de verrichtingen die gerealiseerd zijn in de vorige maand.<br>
+<br>
+De aangifte, vermeld in het eerste lid, vermeldt:<br>
+1° hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de belastingplichtige;<br>
+2° de klasse van de kansspelinrichting, vermeld in artikel 6 van de Kansspelwet van 7 mei 1999, en het type en het nummer van de vergunning, toegekend door de Kansspelcommissie;<br>
+3° het belastbare bedrag van de verrichtingen volgens de aard van de verrichting, vermeld in artikel 2.12.3.0.1;<br>
+4° de datum of periode van de verrichtingen;<br>
+5° een samenvattende maandelijkse staat van de inzetten ter verificatie van het belastbare bedrag.<br>
+<br>
+De aangifteplicht die is bepaald in dit artikel geldt niet voor de van belasting vrijgestelde spelen en weddenschappen, vermeld in artikel 2.12.6.0.1.
+
+### ART 3.3.1.0.16.
+
+De belastingplichtige dient uiterlijk de voorlaatste werkdag voor de opstelling van het automatische ontspanningstoestel, vermeld in artikel 2.13.1.0.1, een aangifte in bij de bevoegde entiteit van de Vlaamse administratie.<br>
+<br>
+De aangifte, vermeld in het eerste lid, vermeldt:<br>
+1° hetzij het identificatienummer uit het Rijksregister van de natuurlijke personen, hetzij het ondernemingsnummer dat bekend is bij de Kruispuntbank van Ondernemingen, hetzij het identificatienummer, vermeld in artikel 8 van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid, van de belastingplichtige;<br>
+2° voor elke plaats van opstelling:<br>
+a) de naam en het adres;<br>
+b) de voornamen en de achternaam van de natuurlijke persoon of de naam van de rechtspersoon van de uitbater, vermeld in artikel 3.10.4.4.6;<br>
+c) de klasse van de kansspelinrichting, vermeld in artikel 6 van de Kansspelwet van 7 mei 1999, en het type en het nummer van de vergunning, toegekend door de Kansspelcommissie;<br>
+d) het aantal toestellen per categorie als vermeld in artikel 2.13.3.0.1, dat wordt opgesteld;<br>
+e) de periode van de opstelling per categorie als vermeld in artikel 2.13.3.0.1.<br>
+<br>
+De belastingplichtige geeft elke wijziging van de elementen van de aangifte, vermeld in het tweede lid, 2°, aan uiterlijk de voorlaatste werkdag voor hij de wijzigingen in de opstelling doorvoert. In afwijking daarvan wordt een wijziging van punt 2°, d) en e), alleen doorgegeven als daardoor het bedrag van de belasting, vermeld in artikel 2.13.4.0.1, eerste lid, toeneemt.<br>
+<br>
+Bij gebrek aan andersluidende kennisgeving is de aangifte die ingediend is voor een jaar, geldig voor de volgende jaren.<br>
+<br>
+De aangifteplicht die is bepaald in dit artikel geldt niet voor de opstelling van automatische ontspanningstoestellen, vermeld in artikel 2.13.3.0.1, § 2, eerste lid, 3° en 4°.
+
 ## Afdeling 2 Aanslagjaar en belastbaar tijdperk
 
 ### ART. 3.3.2.0.1.
@@ -4162,7 +4681,9 @@ a) als er een registratieverplichting bestaat overeenkomstig het federale Wetboe
 1) het jaar waarin de akte die of het geschrift dat aanleiding geeft tot de heffing van de registratiebelasting, binnen de ervoor bepaalde termijn, overeenkomstig het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, ter registratie wordt aangeboden;<br>
 2) het jaar waarin de termijn, vermeld in punt 1), verstrijkt bij gebrek aan aanbieding ter registratie binnen die termijn;<br>
 b) als er geen registratieverplichting bestaat overeenkomstig het federale Wetboek van Registratie-, Hypotheek- en Griffierechten : het jaar waarin de akte of het geschrift ter registratie wordt aangeboden;<br>
-10° de kilometerheffing het kalenderjaar waarin de belasting verschuldigd is. Het begint op de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg.<br>
+10° de kilometerheffing het kalenderjaar waarin de belasting verschuldigd is. Het begint op de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg;<br>
+11° de belasting op de spelen en weddenschappen: het jaar waarin de spelen en de weddenschappen die aanleiding geven tot de belasting plaatsvinden;<br>
+12° de belasting op de automatische ontspanningstoestellen: het jaar waarin een automatisch ontspanningstoestel is opgesteld.<br>
 <br>
 Het belastbare tijdperk is voor :<br>
 1° de toepassing van de onroerende voorheffing gelijk aan het aanslagjaar;<br>
@@ -4170,7 +4691,9 @@ Het belastbare tijdperk is voor :<br>
 3° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, tweede lid, voor de eerste keer gelijk aan het aantal maanden dat begrepen is tussen de eerste dag van de maand waarin het voertuig in de loop van een burgerlijk jaar in gebruik is genomen op de openbare weg, en 31 december van hetzelfde jaar. Vervolgens is het gelijk aan elke periode van twaalf maanden die aanvangt op 1 januari van elk volgend kalenderjaar;<br>
 4° het eurovignet voor de voertuigen die in België ingeschreven zijn of ingeschreven moeten zijn, gelijk aan de opeenvolgende tijdvakken van twaalf achtereenvolgende maanden, waarvan het eerste tijdvak ingaat op de dag waarop het voertuig, vermeld in artikel 2.4.1.0.1, op de openbare weg rijdt;<br>
 5° de heffing ongeschikte en onbewoonbare woningen gelijk aan de opeenvolgende periodes van twaalf maanden die volgen op de inventarisatiedatum, vermeld in artikel 24, 6°, van het decreet van 22 december 1995;<br>
-6° de kilometerheffing gelijk aan de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg.</p>
+6° de kilometerheffing gelijk aan de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg;<br>
+7° de belasting op de spelen en weddenschappen gelijk aan het aanslagjaar;<br>
+8° de belasting op de automatische ontspanningstoestellen gelijk aan het aanslagjaar.</p>
 
 ## Afdeling 3 Aanslagtermijn
 
@@ -4180,10 +4703,9 @@ Het belastbare tijdperk is voor :<br>
 
 <p>Die termijn wordt met vier jaar verlengd in geval van inbreuk op de bepalingen van deze codex of van ter uitvoering ervan genomen besluiten, gedaan met bedrieglijk opzet of met het oogmerk te schaden.</p>
 
-<p>§ 2. Voor de verkeersbelasting, de belasting op de inverkeerstelling en het eurovignet kan de belasting of de aanvullende belasting worden geheven gedurende vijf jaar vanaf de eerste dag van het aanslagjaar waarvoor ze verschuldigd is.<br>
+<p>§ 2. Voor de verkeersbelasting, de belasting op de inverkeerstelling, de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen kan de belasting of de aanvullende belasting worden geheven gedurende vijf jaar vanaf de eerste dag van het aanslagjaar waarvoor ze verschuldigd is.<br>
 <br>
-Voor de kilometerheffing kan de belasting worden geheven gedurende vijf jaar vanaf de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg.<br>
-&nbsp;</p>
+Voor de kilometerheffing kan de belasting worden geheven gedurende vijf jaar vanaf de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg.</p>
 
 <p>§ 3. Voor de leegstandsheffing bedrijfsruimten moet de belasting geheven worden vóór 31 december van het aanslagjaar.</p>
 
@@ -4317,6 +4839,12 @@ Als een voertuig in de loop van een aanslagjaar wordt afgevoerd van het   repert
 ### ART. 3.4.7.0.6.
 
 Inzake de registratiebelasting worden de aanvullende rechten die ingevolge   een tekortschatting of om een andere reden betaald zijn, aangerekend op de   aanvullende rechten die ingevolge prijsbewimpeling verschuldigd   zijn.
+
+### ART 3.4.7.0.7.
+
+Als een automatisch ontspanningstoestel in de loop van een aanslagjaar niet meer wordt opgesteld, wordt de betaalde belasting op de automatische ontspanningstoestellen op aanvraag van de belastingplichtige teruggegeven in verhouding tot de nog niet aangevangen kwartalen.<br>
+<br>
+De aanvraag, vermeld in het eerste lid, wordt ingediend bij het bevoegde personeelslid uiterlijk de laatste dag van het kwartaal waarin het toestel wordt opgesteld.
 
 ## Afdeling 8 Betalingsfaciliteiten
 
@@ -4593,7 +5121,7 @@ Het bevoegde personeelslid moet een herinneringsbrief sturen ten minste   één 
 
 <p>§ 2. De onroerende voorheffing die wordt ingekohierd op naam van verschillende natuurlijke personen of rechtspersonen kan, behalve in geval van andersluidende wetsbepalingen, slechts ten laste van elk van hen worden ingevorderd voor het gedeelte dat verband houdt met hun aandeel in het onroerend goed. Het kohier is uitvoerbaar tegen elk van hen in de mate dat de aanslag ten laste van die natuurlijke personen of rechtspersonen kan worden ingevorderd op grond van het gemeen recht of op grond van de bepalingen van deze codex.</p>
 
-<p>De verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet, de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing, de leegstandsheffing bedrijfsruimten, de&nbsp;heffing ongeschikte en onbewoonbare woningen of de heffing vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening, die ingekohierd is op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende bepalingen in deze codex, ten laste van elk van hen worden ingevorderd. De belastingschuldigen zijn hoofdelijk gehouden tot betaling van de belasting.<br>
+<p>De verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet, de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing, de leegstandsheffing bedrijfsruimten, de&nbsp;heffing ongeschikte en onbewoonbare woningen, de heffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, de belasting op de spelen en weddenschappen of de belasting op de automatische ontspanningstoestellen,, die ingekohierd is op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende bepalingen in deze codex, ten laste van elk van hen worden ingevorderd. De belastingschuldigen zijn hoofdelijk gehouden tot betaling van de belasting.<br>
 <br>
 De registratiebelasting, die wordt ingekohierd op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende wetsbepalingen, alleen ten laste van elk van hen worden ingevorderd voor het gedeelte dat verband houdt met hun aandeel in het goed dat het voorwerp uitmaakt van de overeenkomst. Het kohier is uitvoerbaar tegen elk van hen in de mate dat de aanslag ten laste van die natuurlijke of rechtspersonen kan worden ingevorderd op grond van het gemeen recht of op grond van de bepalingen van deze codex.</p>
 
@@ -4727,6 +5255,10 @@ In de gevallen, vermeld in het tweede lid, zijn de partijen die aan de overtredi
 ### ART. 3.10.4.4.5.
 
 De vertegenwoordiger, vermeld in artikel 2.9.4.2.4, § 2, 3°, is hoofdelijk   gehouden tot de fiscale verplichtingen van de verkrijger, vermeld in hetzelfde   punt 3°.
+
+### ART 3.10.4.4.6.
+
+Als de belastingplichtige het automatische ontspanningstoestel niet heeft aangegeven, wordt de persoon die als uitbater van lokalen of andere plaatsen als vermeld in artikel 2.13.1.0.1, toelaat om in die lokalen of andere plaatsen het automatisch ontspanningstoestel op te stellen, als belastingschuldige beschouwd voor de belasting en toebehoren.
 
 ## Onderafdeling 5 Invordering van het eurovignet bij andere belastingschuldigen dan de eigenaar
 
@@ -5069,6 +5601,12 @@ Dit artikel is niet van toepassing in geval van bijvoeging of van neerlegging, i
 
 ## [Afdeling 4 Verplichtingen van derden in het kader van de belasting op de automatische ontspanningstoestellen (ing. Decr. 7 december 2018, art. 46, I: 1 januari 2019)]
 
+### ART 3.12.4.0.1.
+
+De invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geeft voor de rangschikking, vermeld in artikel 2.13.3.0.1, elk model van automatisch ontspanningstoestel aan vooraleer hij in het Vlaamse Gewest opstelt, verkoopt of verhuurt. Als een toestel niet wordt aangegeven, wordt het toestel ambtshalve gerangschikt in categorie A.<br>
+<br>
+Als de invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geen aangifte tot rangschikking indient bij de federale belastingdiensten, dient hij een aangifte tot rangschikking in bij de bevoegde entiteit van de Vlaamse administratie. Indien een aangifte tot rangschikking wordt ingediend bij de federale belastingdiensten, aanvaardt de bevoegde entiteit van de Vlaamse administratie de genomen beslissing tot rangschikking voor de toepassing van artikel 2.13.4.0.1.
+
 ## [Afdeling [5 (verv. decr. 20 november 2020, art. 8)][. Verplichtingen in het kader van de burgerlijke vordering (ing. Decr. 21 december 2018, art. 47, I: 7 januari 2019)]
 
 ## Hoofdstuk 13 Onderzoek en controle
@@ -5141,6 +5679,10 @@ De verificaties en vragen om inlichtingen, vermeld in artikel 3.13.1.2.1,   eers
 
 Het bevoegde personeelslid kan voor de erfbelasting op elk moment van de   aangevers eisen dat ze een verklaring van de schuldeiser bezorgen, waarin wordt   bevestigd dat een schuld die in het passief opgenomen is, ten laste van de   overledene al bestond op de dag van zijn overlijden. De verklaring moet   ondertekend worden door de schuldeiser, door zijn wettelijke vertegenwoordiger   of door een daarvoor aangestelde gevolmachtigde.<BR><BR>De verklaring, vermeld   in het eerste lid, mag op straffe van schadevergoeding door de schuldeiser niet   worden geweigerd als ze wettig wordt aangevraagd.<BR><BR>De verklaring blijft   bij de aangifte van nalatenschap gevoegd.
 
+### ART 3.13.1.2.9.
+
+De belastingplichtige houdt het bedrag van de inzetten, de inleggelden, de uitgekeerde winsten, de weddenschappen en alle andere gegevens die noodzakelijk zijn om de belasting op de spelen en weddenschappen te bepalen, bij op een elektronische informatiedrager.
+
 ## Onderafdeling 3 Plichten van derden
 
 ### ART. 3.13.1.3.1.
@@ -5185,7 +5727,9 @@ Artikel 96 tot en met artikel 99 en artikel 101 tot en met artikel 1032   van he
 
 ### ART. 3.13.2.0.1.
 
-<P>Voor de verkeersbelasting, de belasting op de inverkeerstelling, het   eurovignet en de kilometerheffing houden de bevoegde personeelsleden toezicht op   de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan   met betrekking tot de voertuigen die zich op de openbare weg bevinden. Ze kunnen   alle documenten die nuttig zijn voor de identificatie van het voertuig of   vaartuig, van de bestuurder of houder doen voorleggen, alsook een ander document   dat de betaling van de belasting bewijst. Ze zijn gemachtigd zonder enige   bijstand de garages, de hangars en de berg- of aanmeerplaatsen te   onderzoeken.</P>
+<p>Voor de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet en de kilometerheffing houden de bevoegde personeelsleden toezicht op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan met betrekking tot de voertuigen die zich op de openbare weg bevinden. Ze kunnen alle documenten die nuttig zijn voor de identificatie van het voertuig of vaartuig, van de bestuurder of houder doen voorleggen, alsook een ander document dat de betaling van de belasting bewijst. Ze zijn gemachtigd zonder enige bijstand de garages, de hangars en de berg- of aanmeerplaatsen te onderzoeken.<br>
+<br>
+Voor de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen houden de bevoegde personeelsleden toezicht op de naleving van de bepalingen van deze codex en de uitvoeringsbesluiten ervan op de plaatsen waar die spelen en weddenschappen plaatsvinden of de automatische ontspanningstoestellen opgesteld zijn.</p>
 
 ### ART. 3.13.2.0.2.
 
@@ -5197,11 +5741,41 @@ Met behoud van de bevoegdheden die toevertrouwd worden aan de andere   officiere
 
 ### ART. 3.13.2.0.4.
 
-<P>§ 1. Als de niet-betaling van de verkeersbelasting, de belasting op de   inverkeerstelling, het eurovignet of de kilometerheffing wordt vastgesteld op de   openbare weg, moet de bestuurder van het voertuig dat aan een van die   belastingen onderhevig is, de niet-betaalde belasting en de boete samen met de   interesten en kosten op het ogenblik van de vaststelling van de overtreding   betalen aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.<BR></P>  <P>§ 2. In geval van niet-betaling van de sommen, vermeld in paragraaf 1, op het   ogenblik van de vaststelling van de overtreding, wordt het voertuig door het   bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, aangehaald tot de   verschuldigde sommen betaald zijn.<BR></P>  <P>Het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, stelt in het   geval, vermeld in het eerste lid, een proces-verbaal van aanhaling op.<BR></P>  <P>De aanhaling, vermeld in het eerste lid, kan onder meer bestaan uit het   inhouden van de boorddocumenten, het inhouden van de vrachtbrief, het plaatsen   van een wielklem, het wegtakelen van het voertuig, vermeld in paragraaf 1, naar   een stallingplaats en het stallen van het voertuig.<BR></P>  <P>Het aangehaalde voertuig mag niet worden vervreemd noch worden verplaatst   zonder toestemming van het bevoegde personeelslid.<BR></P>  <P>§ 3. Als de sommen, vermeld in paragraaf 1, niet betaald zijn binnen een week   na de dag van de vaststelling van de overtreding, vermeld in paragraaf 1, is er   een vermoeden dat de rechten van het Vlaamse Gewest in gevaar zijn.<BR></P>  <P>Als de belastingschuldige betwist dat de rechten van het Vlaamse Gewest in   gevaar verkeren, wordt er over de betwisting uitspraak gedaan, zoals in kort   geding door de beslagrechter van de plaats waar de bevoegde entiteit van de   Vlaamse administratie die de belasting moet innen, is gevestigd.<BR></P>  <P>De bevoegde entiteit van de Vlaamse administratie kan in het geval, vermeld   in het eerste lid, een dwangschrift opstellen en laten overgaan tot betekening   van een dwangbevel en eventueel tot uitvoerend roerend beslag op het   voertuig.<BR></P>  <P>In het dwangschrift en het dwangbevel kunnen naast de sommen, vermeld in   paragraaf 1, andere openstaande schulden worden opgenomen die betrekking hebben   op de belastingen, opcentiemen, opdeciem, interesten en kosten die door de   bevoegde entiteit van de Vlaamse administratie worden geïnd.<BR></P>  <P>§ 4. Het risico en de eventuele kosten die voortvloeien uit de aanhaling en   het beslag, zijn ten laste van de belastingschuldige.<BR></P>  <P>Het beslag wordt na betaling van alle sommen en bijbehorende kosten die   opgenomen zijn in het dwangbevel, opgeheven.<BR></P>  <P>§ 5. Met behoud van de toepassing van artikel 1627 van het Gerechtelijk   Wetboek wordt de opbrengst van de verkoop van het voertuig, vermeld in artikel   1.1.0.0.2, derde lid, 1° en 2°, en artikel 2.2.1.0.1, aangerekend volgens de   regels, vermeld in artikel 3.4.7.0.1. Het eventuele overschot wordt aan de   belastingschuldige terugbetaald.<BR></P>
+<p>§ 1. Als de niet-betaling van de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de kilometerheffing wordt vastgesteld op de openbare weg, moet de bestuurder van het voertuig dat aan een van die belastingen onderhevig is, de niet-betaalde belasting en de boete samen met de interesten en kosten op het ogenblik van de vaststelling van de overtreding betalen aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.</p>
+
+<p>§ 2. In geval van niet-betaling van de sommen, vermeld in paragraaf 1, op het ogenblik van de vaststelling van de overtreding, wordt het voertuig door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, aangehaald tot de verschuldigde sommen betaald zijn.</p>
+
+<p>Het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, stelt in het geval, vermeld in het eerste lid, een verslag van vaststelling van aanhaling op.</p>
+
+<p>De aanhaling, vermeld in het eerste lid, kan onder meer bestaan uit het inhouden van de boorddocumenten, het inhouden van de vrachtbrief, het plaatsen van een wielklem, het wegtakelen van het voertuig, vermeld in paragraaf 1, naar een stallingplaats en het stallen van het voertuig.</p>
+
+<p>Het aangehaalde voertuig mag niet worden vervreemd noch worden verplaatst zonder toestemming van het bevoegde personeelslid.</p>
+
+<p>§ 3. Als de sommen, vermeld in paragraaf 1, niet betaald zijn binnen een week na de dag van de vaststelling van de overtreding, vermeld in paragraaf 1, is er een vermoeden dat de rechten van het Vlaamse Gewest in gevaar zijn.</p>
+
+<p>Als de belastingschuldige betwist dat de rechten van het Vlaamse Gewest in gevaar verkeren, wordt er over de betwisting uitspraak gedaan, zoals in kort geding door de beslagrechter van de plaats waar de bevoegde entiteit van de Vlaamse administratie die de belasting moet innen, is gevestigd.</p>
+
+<p>De bevoegde entiteit van de Vlaamse administratie kan in het geval, vermeld in het eerste lid, een dwangschrift opstellen en laten overgaan tot betekening van een dwangbevel en eventueel tot uitvoerend roerend beslag op het voertuig.</p>
+
+<p>In het dwangschrift en het dwangbevel kunnen naast de sommen, vermeld in paragraaf 1, andere openstaande schulden worden opgenomen die betrekking hebben op de belastingen, opcentiemen, opdeciem, interesten en kosten die door de bevoegde entiteit van de Vlaamse administratie worden geïnd.</p>
+
+<p>§ 4. Het risico en de eventuele kosten die voortvloeien uit de aanhaling en het beslag, zijn ten laste van de belastingschuldige.</p>
+
+<p>Het beslag wordt na betaling van alle sommen en bijbehorende kosten die opgenomen zijn in het dwangbevel, opgeheven.</p>
+
+<p>§ 5. Met behoud van de toepassing van artikel 1627 van het Gerechtelijk Wetboek wordt de opbrengst van de verkoop van het voertuig, vermeld in artikel 1.1.0.0.2, derde lid, 1° en 2°, en artikel 2.2.1.0.1, aangerekend volgens de regels, vermeld in artikel 3.4.7.0.1. Het eventuele overschot wordt aan de belastingschuldige terugbetaald.</p>
 
 ### ART. 3.13.2.0.5.
 
-<P>Als een overtreding van de bepalingen van deze codex met betrekking tot de   verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de   kilometerheffing wordt geconstateerd, zal een proces-verbaal worden opgemaakt   door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3. Het   proces-verbaal vermeldt minstens de overtreding alsook de elementen die moeten   toelaten de overtreder te identificeren.<BR></P>  <P>Na het opstellen van de processen-verbaal, vermeld in het eerste lid, wordt   een afschrift ervan aan de overtreder afgeleverd binnen vijftien dagen na de   vaststelling van de overtreding, op straffe van verval van de bijzondere   bewijswaarde van het proces-verbaal.<BR></P>  <P>De processen-verbaal, vermeld in het eerste lid, opgemaakt door het bevoegde   personeelslid, vermeld in artikel 3.13.2.0.3, verdienen het volle geloof in   rechten totdat de valsheid ervan bewezen is.<BR><BR>Als de overtreder niet kan   worden geïdentificeerd op de dag van de vaststelling van de overtreding begint   de termijn van vijftien dagen, vermeld in het tweede lid, te lopen na de dag   waarop het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, de overtreder   met zekerheid kon identificeren.<BR></P>
+<p>Als een overtreding van de bepalingen van deze codex&nbsp;wordt geconstateerd, zal een verslag van vaststelling worden opgemaakt door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3. Het verslag van vaststelling vermeldt minstens de overtreding alsook de elementen die moeten toelaten de overtreder te identificeren.</p>
+
+<p>Na het opstellen van de verslagen van vaststelling, vermeld in het eerste lid, wordt een afschrift ervan aan de overtreder afgeleverd binnen vijftien dagen na de vaststelling van de overtreding, op straffe van verval van de bijzondere bewijswaarde van het verslag van vaststelling.</p>
+
+<p>De verslagen van vaststelling, vermeld in het eerste lid, opgemaakt door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, verdienen het volle geloof in rechten totdat de valsheid ervan bewezen is.<br>
+<br>
+Als de overtreder niet kan worden geïdentificeerd op de dag van de vaststelling van de overtreding begint de termijn van vijftien dagen, vermeld in het tweede lid, te lopen na de dag waarop het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, de overtreder met zekerheid kon identificeren.<br>
+<br>
+Als in samenhang met de overtredingen, vermeld in het eerste lid, tegelijkertijd een strafrechtelijk misdrijf wordt vastgesteld, wordt de vaststelling van dat misdrijf, opgenomen in een proces-verbaal.</p>
 
 ## Hoofdstuk 14 Verjaring
 
@@ -5277,7 +5851,7 @@ De schending van het beroepsgeheim, vermeld in artikel 3.19.0.0.2, wordt   gestr
 
 ### ART. 3.15.3.0.7.
 
-Een persoon die rechtstreeks of onrechtstreeks het verbod of de sluiting,   uitgesproken met toepassing van artikel 3.15.3.0.6, overtreedt, wordt gestraft   met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van   250 euro tot 125.000 euro of met een van die straffen alleen.
+Een persoon die rechtstreeks of onrechtstreeks het verbod of de sluiting, uitgesproken met toepassing van artikel 3.15.3.0.6 of 3.16.0.0.5, overtreedt, wordt gestraft met een gevangenisstraf van acht dagen tot twee jaar en met een geldboete van 250 euro tot 125.000 euro of met een van die straffen alleen.
 
 ### ART. 3.15.3.0.8.
 
@@ -5294,6 +5868,14 @@ De wet van 5 maart 1952 betreffende de opdecimes op de strafrechterlijke   geldb
 ### ART. 3.15.3.0.11.
 
 <P>Als de verkeersbelasting, de belasting op de inverkeerstelling of de   kilometerheffing niet is betaald, kan de rechtbank de nummerplaat van het   voertuig verbeurd verklaren en de teruggave ervan bevelen aan de overheid die   belast is met de inschrijving van de voertuigen.</P>
+
+### ART 3.15.3.0.12.
+
+Met behoud van de toepassing van hoofdstuk VII van boek 1 van het Strafwetboek wordt de persoon die, op welke plaats en onder welke vorm ook, in het openbaar of op een andere wijze, spelen of weddenschappen organiseert of exploiteert, aan die organisatie of aan die exploitatie deelneemt door spelen of weddenschappen aan te bieden of door rechtstreeks of met hulp van een tussenpersoon te spelen of te wedden, of zich aanbiedt om gelden die bestemd zijn tot de dienst van spelen of van weddenschappen in ontvangst te nemen, ze inzamelt of ze stort, beschouwd als dader, mededader of medeplichtige van de overtredingen van de bepalingen van deze codex inzake de belasting op de spelen en weddenschappen, of van de uitvoeringsbesluiten ervan.
+
+### ART 3.15.3.0.13.
+
+Met behoud van de toepassing van de andere bepalingen van dit hoofdstuk, kan een overtreding op de bepalingen van deze codex over de belasting op de spelen en weddenschappen, of van de uitvoeringsbesluiten ervan, aanleiding geven tot de verbeurdverklaring van de gelden of effecten die bij spelen of weddenschappen zijn ingezet of die bestemd zijn voor de dienst van de spelen of de weddenschappen en in het bezit worden gevonden van de overtreders op het ogenblik dat het misdrijf wordt vastgesteld.
 
 ## Hoofdstuk 16 [Administratieve sancties (verv. Decr. 19 december 2014, art. 291, I: 1 januari 2015)]
 
@@ -5312,6 +5894,18 @@ Het besluit, vermeld in artikel 3.16.0.0.1, waarvan een eensluidend   verklaard 
 ### ART. 3.16.0.0.4.
 
 Derden die betreffende de erfbelasting administratieve geldboeten   verschuldigd zijn, zijn zelf gehouden tot betaling van de belastingen en   toebehoren die ten gevolge van de overtreding niet konden worden   geïnd.
+
+### ART 3.16.0.0.5.
+
+Met behoud van de toepassing van hoofdstuk 15, kan een overtreding op de bepalingen van deze codex over de belasting op de spelen en weddenschappen, of van de uitvoeringsbesluiten ervan, aanleiding geven tot de sluiting van de kansspelinrichting of tot het verbod om inzetten of weddenschappen aan te nemen voor een duur van tien dagen tot dertig dagen.<br>
+<br>
+Als het gaat om een weigering om de reglementaire controlemaatregelen, vermeld in titel 3, hoofdstuk 13, na te leven of de belasting te betalen, ofwel om een verzet tegen het optreden van de bevoegde personeelsleden, wordt de sluiting of het verbod gehandhaafd zolang die weigering of dat verzet blijft bestaan.<br>
+<br>
+De sluiting van de kansspelinrichting of het verbod om inzetten of weddenschappen aan te nemen wordt door het bevoegde personeelslid uitgesproken en wordt meegedeeld aan de bevoegde procureur des Konings die voor de uitvoering ervan zorgt.<br>
+<br>
+De beslissing tot sluiting van de inrichting of tot verbod om inzetten of weddenschappen aan te nemen kan, binnen tien dagen van haar kennisgeving, betwist worden bij de voorzitter van de rechtbank van eerste aanleg zetelend zoals in kortgeding in wiens bevoegdheid de gemeente valt waar de kansspelinrichting gevestigd is of waar de inzetten of de weddenschappen zijn aangenomen.<br>
+<br>
+De voorziening schorst de uitvoering van de beslissing niet als die laatste genomen is wegens de weigering om de reglementaire controlemaatregelen, vermeld in titel 3, hoofdstuk 13, na te leven of de belasting te betalen, ofwel, wegens het verzet tegen het optreden van de bevoegde personeelsleden.
 
 ## Hoofdstuk 17 [Bewijsmiddelen (verv. Decr. 19 december 2014, art. 293, I: 1 januari 2015)]
 
@@ -5450,7 +6044,7 @@ Het bevoegde personeelslid kan de administratieve geldboetes, vermeld in het vie
 
 ### ART. 3.18.0.0.3.
 
-In afwijking van artikel 3.2.2.0.1 kunnen de bevoegde personeelsleden   tijdens de uitvoering van het toezicht, vermeld in artikel 3.13.2.0.1, de   administratieve geldboetes, vermeld in artikel 3.18.0.0.1, of de   belastingverhogingen, vermeld in artikel 3.18.0.0.2, opleggen zonder dat ze   moeten worden ingekohierd. Als daarbij geen contante betaling verkregen kan   worden, worden die administratieve geldboetes of belastingverhogingen op een   later tijdstip alsnog ingekohierd.
+In afwijking van artikel 3.2.2.0.1 kunnen de bevoegde personeelsleden tijdens de uitvoering van het toezicht, vermeld in artikel 3.13.2.0.1, de administratieve geldboetes, vermeld in artikel 3.18.0.0.1, of de belastingverhogingen, vermeld in artikel 3.18.0.0.2, 3.18.0.0.15/1 en 3.18.0.0.15/2, opleggen zonder dat ze moeten worden ingekohierd. Als daarbij geen contante betaling verkregen kan worden, worden die administratieve geldboetes of belastingverhogingen op een later tijdstip alsnog ingekohierd.
 
 ### ART. 3.18.0.0.4.
 
@@ -5532,6 +6126,18 @@ In de gevallen, vermeld in het eerste lid, zijn de partijen die aan de overtredi
 ### ART. 3.18.0.0.15.
 
 De belastingverhogingen, vermeld in artikel 3.18.0.0.6 tot en met artikel   3.18.0.0.13, worden verhoogd tot 100 % als de overtredingen zijn gepleegd met de   bedoeling de belasting te ontduiken of dat mogelijk te maken.
+
+### ART 3.18.0.0.15/1.
+
+In geval van een ambtshalve aanslag als vermeld in artikel 2.12.7.0.1, of in geval van onjuiste gegevens op de elektronische informatiedrager, vermeld in artikel 3.13.1.2.9, is een belastingverhoging verschuldigd van 20% van de belasting op de spelen en weddenschappen, vermeld in artikel 2.12.4.0.1.<br>
+<br>
+In afwijking van het eerste lid bedraagt de belastingverhoging 100% als de overtredingen zijn gepleegd met de bedoeling de belasting te ontduiken of de vestiging ervan onmogelijk te maken, of indien het gaat om een spel of weddenschap dat is verboden krachtens artikel 4, 7 en 8 van de Kansspelwet van 7 mei 1999.
+
+### ART 3.18.0.0.15/2.
+
+In geval van een ambtshalve aanslag als vermeld in artikel 2.13.7.0.1, is een belastingverhoging per automatisch ontspanningstoestel verschuldigd van 20% van de belasting op de automatische ontspanningstoestellen voor een kalenderjaar, vermeld in artikel 2.13.4.0.1.<br>
+<br>
+In afwijking van het eerste lid bedraagt de belastingverhoging 100% als de overtredingen zijn gepleegd met de bedoeling de belasting te ontduiken of de vestiging ervan onmogelijk te maken, of indien het gaat om een verboden automatisch ontspanningstoestel als bedoeld in artikel 2.13.7.0.2.
 
 ### ART. 3.18.0.0.16.
 
@@ -5692,6 +6298,7 @@ De Vlaamse Regering wordt ertoe gemachtigd om verwijzingen in andere   decreten 
 De volgende regelingen worden opgeheven :<br>
 1° het WIB 92, zoals van toepassing op de onroerende voorheffing wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 21 juni 2013, met uitzondering van artikel 249, artikel 464/1 en titel IX, met behoud van de toepassing van artikel 5.0.0.0.6;<br>
 2° het wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen, zoals van toepassing op de verkeersbelasting op de autovoertuigen en de belasting op de inverkeerstelling wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 9 november 2012, met uitzondering van artikel 3, 35, 42, 94, 95 en 107;<br>
+2° /1 het wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen, zoals van toepassing op de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 3 juli 2015, met uitzondering van artikel 66 en 76;<br>
 3° de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend in Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het decreet van 9 november 2012, met uitzondering van artikel 1, 2, eerste lid, 2bis en 3, eerste lid;<br>
 4° het Wetboek van Successierechten, zoals van toepassing voor wat betreft het Vlaamse Gewest, voor de belastingen, vermeld in artikel 3, 4°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, het laatst gewijzigd bij de wet van 21 december 2013, met uitzondering van artikel 1, artikel 60bis, § 1 tot en met § 9, § 10, 1° en 3°, § 11, tweede tot en met vijfde lid (als het betrekking heeft op overlijdens van voor 1 januari 2012), artikel 76, artikel 96 tot en met 99 van het federale Wetboek van Successierechten, artikel 101 tot en met 103 van het federale Wetboek van Successierechten, artikel 144, artikel 145, artikel 163 en boek II, IIbis en III;<br>
 5° het Wetboek der Registratie-, Hypotheek- en Griffierechten, zoals van toepassing voor wat betreft het Vlaamse Gewest voor de belastingen, vermeld in artikel 3, 6°, 7° en 8°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de gemeenschappen en de gewesten, het laatst gewijzigd bij het decreet van 28 maart 2014, met uitzondering van artikel 1, artikel 2 (met uitzondering van het derde lid, de woorden "alsook de voorschriften die voor de juiste heffing van de verschuldigde rechten nodig zijn"), artikel 2bis tot en met artikel 8bis, artikel 9, eerste en tweede lid, artikel 10, tweede lid, artikel 11, tweede en derde lid, artikel 13, artikel 19, artikel 21<sup>1</sup>, artikel 21<sup>2</sup>, 1°, artikel 23 tot en met artikel 34, artikel 35, eerste en vijfde lid (als die leden geen betrekking hebben op de registratiebelasting), artikel 35, tweede en derde lid, artikel 36 tot en met artikel 39, artikel 41, 2° en 3°, artikel 41bis, artikel 43 (als het geen betrekking heeft op schenkbelasting, verkooprecht of verdeelrecht), artikel 75, tweede lid, tweede zin, artikel 77 tot en met artikel 84, artikel 88, artikel 921 (als het geen betrekking heeft op het recht van hypotheekvestiging), artikel 922, artikel 94, artikel 103, artikel 115 tot en met artikel 119, artikel 121 (als het geen betrekking heeft op verkooprecht), artikel 122, artikel 123, artikel 124, artikel 128, artikel 142 tot en met artikel 145, artikel 158, artikel 159, 9° en 14°,&nbsp;artikel 160, artikel 161, 1° (als het geen betrekking heeft op verkooprecht of verdeelrecht), 1° bis, 3° (als het geen betrekking heeft op verkooprecht), 4° (als het geen betrekking heeft op registratiebelasting), 5°, 10°, 12° en 13°, artikel 162 tot en met artikel 165, artikel 166 (als het geen betrekking heeft op de openbare verkoping van onroerende goederen), artikel 170, tweede lid, artikel 173, 3°, 4°, 5° en 6°, artikel 176 tot en met artikel 180, artikel 184, artikel 184bis (als het geen betrekking heeft op schenkbelasting, verkooprecht of verdeelrecht), artikel 206, tweede lid, artikel 206bis, derde lid,<br>
@@ -5727,7 +6334,7 @@ Artikel 3.3.1.0.4 is alleen van toepassing op elke schrapping of wissing   van e
 
 ### ART. 5.0.0.0.8.
 
-De bevoegde entiteit van de Vlaamse administratie is bevoegd om de   overeenkomstig de toepassing van artikel 5, § 3, van de bijzondere wet van 16   januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten   overgedragen en nog niet afgehandelde dossiers waarvoor een dwangschrift door de   federale ontvanger is uitgevaardigd, te innen en verder in te   vorderen.
+De bevoegde entiteit van de Vlaamse administratie is bevoegd om de overeenkomstig de toepassing van artikel 5, § 3, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten overgedragen en nog niet afgehandelde dossiers, ongeacht of daarvoor al een dwangschrift door de federale ontvanger is uitgevaardigd, te innen en verder in te vorderen.
 
 ### ART. 5.0.0.0.9.
 
@@ -5748,6 +6355,16 @@ De belastingen, vermeld in artikel 3, eerste lid, 4° en 6° tot en met 8°,   v
 ### ART. 5.0.0.0.13.
 
 § 1. In afwijking van artikel 2.4.7.0.2, is voor de aangiftes, vermeld in   artikel 3.3.1.0.3, die betrekking hebben op voertuigen die in België   ingeschreven zijn of ingeschreven moeten zijn en die vanaf 1 november 2015 zijn   onderschreven of overeenkomstig artikel 3.3.1.0.3, vierde lid, werden verlengd,   het eurovignet slechts verschuldigd voor het aantal termijnen van een maand,   begonnen voor 1 april 2016.<BR><BR>Om het verschuldigde bedrag te berekenen,   wordt de volgende formule toegepast :<BR>JV/12 x M,<BR>waarbij :<BR>1° JV = het   toepasselijke tarief van een eurovignet met een geldigheidsduur van een jaar als   vermeld in artikel 2.4.4.0.1;<BR>2° M = het aantal termijnen van een maand die   begonnen zijn voor 1 april 2016.<BR><BR>§ 2. Het bevoegde personeelslid verleent   een evenredige teruggave van het overeenkomstig paragraaf 1 betaalde eurovignet   dat betrekking heeft op de periode vanaf 1 april 2016.<BR><BR>Voor de berekening   van het terug te betalen bedrag wordt de volgende formule toegepast :<BR>JV x   r/365 dagen,<BR>waarbij :<BR>1° JV = het toepasselijke tarief van een eurovignet   met een geldigheidsduur van een jaar als vermeld in artikel 2.4.4.0.1;<BR>2° r =   het resterende aantal dagen waarvoor al betaald werd, te rekenen vanaf 1 april   2016.<BR><BR>Artikel 3.4.7.0.4 is niet van toepassing.
+
+### ART 5.1.0.0.14.
+
+In afwijking van artikel 3.3.1.0.14, dient elke belastingplichtige zijn aangifte in bij de bevoegde entiteit van de Vlaamse administratie uiterlijk op 31 januari 2019 voor de organisatie van:<br>
+1° eenmalige spelen en weddenschappen, die georganiseerd worden tussen 1 en 31 januari 2019;<br>
+2° spelen en weddenschappen met een voortdurend karakter, die georganiseerd worden vanaf 1 januari 2019 of na 31 december 2018 verder georganiseerd worden.
+
+### ART 5.1.0.0.15.
+
+In afwijking van artikel 3.3.1.0.16 dient de belastingplichtige de aangifte voor de opstelling van een automatisch ontspanningstoestel vanaf 1 januari 2019 bij de bevoegde entiteit van de Vlaamse administratie in uiterlijk op 31 januari 2019.
 
 ## TITEL 6 Citeertitel
 
@@ -5779,15 +6396,1294 @@ Deze codex wordt aangehaald als : Vlaamse Codex Fiscaliteit van 13   december 20
 
 ### Tabel 4.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoBodyText>Tabel 4:   Wetboek van 23   november 1965   van de met   inkomstenbelastingen gelijkgestelde belastingen (WIGB)</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoBodyText>&nbsp;</P>  <P>  <TABLE   style="MARGIN: auto auto auto 6.75pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-table-layout-alt: fixed"   class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         WIGB</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         Vlaamse         Codex         Fiscaliteit</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.4.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.5.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 16">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.4.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 17">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.6.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 18">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.8.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 19">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.9.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 20">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 21">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 22">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 23">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.7.0.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 24">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.8.0.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 25">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.8.0.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 26">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.8.0.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 27">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.9.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 28">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.9.1.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 29">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.9.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 30">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.4.1.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 31">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.4.6.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 32">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 33">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.2.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 34">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 35">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 36">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 37">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 38">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 39">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 40">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 41">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 42">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 43">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 44">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 45">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 46">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 47">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 48">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 49">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 50">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.9</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 51">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.10</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 52">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 53">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 54">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 55">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 56">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 57">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 58">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 59">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 60">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 61">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 62">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 63">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 64">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 65">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 66">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 67">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 68">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.4.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 69">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 70">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 71">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 72">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.3.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 73">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 74">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 75">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 76">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 77">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 78">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 79">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 80">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 81">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 82">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.9</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 83">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.10</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 84">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.18.0.0.1,         §1,         §4         en §5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 85">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.19.0.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 86">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 87">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 1°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 88">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 2°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 89">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 2°, in fine</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 90">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5,         §1,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 91">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5,         §2,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 92">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 5, §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2.2.6.0.1, §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 93">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 94">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         7,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 95">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 96">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         9</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 97">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         10</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 98">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         11</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 99">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         12</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 100">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         13</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 101">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         14</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 102">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 103">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         16</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 104">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         21</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §2,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 105">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         22</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 106">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.3,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 107">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 108">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23ter</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 109">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         29</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 110">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         31</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 111">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 112">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33/1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 113">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33bis,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.3.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 114">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33bis,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 115">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         34</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.4.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 116">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 117">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 118">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §2,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 119">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.3,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 120">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 121">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 122">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 123">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §2,         tweede zin</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 124">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 125">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 126">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 127">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 128">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 129">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         37</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 130">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 131">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 132">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 133">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 134">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 135">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 136">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 137">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 138">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 139">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         39</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 140">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40, eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 141">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 142">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40,         tweede         lid,         eerste zin</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.18.0.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 143">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         41</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.11</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 144">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 42</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2.2.4.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 145">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         42bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 146">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         94</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         vierde lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 147">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         94</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.1.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 148">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 149">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 150">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 151">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.10.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 152">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.10.3.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 153">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 154">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 155">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 156">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 157">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 158">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 159">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 160">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.1.4.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 161">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.2.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 162">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.2.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 163">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.11</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 164">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         96</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §1,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 165">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97, §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 166">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97,         §2,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 167">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97, §2, tweede lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 168">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97,         §2,         derde         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         derde         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 169">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 170">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97ter</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 171">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97quater</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 172">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97quinquies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 173">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97sexies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 174">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97septies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 175">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97octies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 176">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97novies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 177">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97decies</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 178">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 98</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2.3.4.2.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 179">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99, §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 180">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         derde         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 181">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99, §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         vierde lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 182">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         100, §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 183">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         100, §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 184">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         102</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 185">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         103</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 186">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         104</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.3.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 187">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         105</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 188">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         106</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 189">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         107</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.2.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 190">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         120</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 191">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         121</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 192">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         122</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 193">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         123</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 194; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         124</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5.0.0.0.8</P></TD></TR></TBODY></TABLE></P>
+Tabel 4. Wetboek van 23 november 1965 van de met Inkomstenbelastingen Gelijkgestelde Belastingen (WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>bepaling WIGB</td>
+			<td>bepaling Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.1.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.1.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.3.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.7.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.7.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.8.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.5.9.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.6.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.6.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.6.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.7.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.8.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.8.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.8.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.9.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.9.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.9.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.4.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.4.6.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.3.8</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.8</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.9</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.1.0.10</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.3.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.1.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.14.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.14.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.14.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.14.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.8</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.9</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.15.3.0.10</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.18.0.0.1, § 1, § 4 en § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.19.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2bis</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 2.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 4, § 1</td>
+			<td>Art. 1.1.0.0.2, derde lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 4, § 2</td>
+			<td>Art. 1.1.0.0.2, derde lid, 2°</td>
+		</tr>
+		<tr>
+			<td>Art. 4, § 3</td>
+			<td>Art. 1.1.0.0.2, derde lid, 2°, in fine</td>
+		</tr>
+		<tr>
+			<td>Art. 5, § 1, eerste lid</td>
+			<td>Art. 2.2.6.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 5, § 2, eerste lid</td>
+			<td>Art. 2.2.6.0.1, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 5, § 3</td>
+			<td>Art. 2.2.6.0.1, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Art. 2.2.2.0.1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 7, eerste lid</td>
+			<td>Art. 2.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Art. 2.2.3.0.8</td>
+		</tr>
+		<tr>
+			<td>Art. 9</td>
+			<td>Art. 2.2.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 2.2.4.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 11</td>
+			<td>Art. 2.2.4.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 12</td>
+			<td>Art. 2.2.4.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 13</td>
+			<td>Art. 2.2.6.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 14</td>
+			<td>Art. 2.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 15</td>
+			<td>Art. 2.2.5.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 16</td>
+			<td>Art. 2.2.5.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 21</td>
+			<td>Art. 2.2.2.0.1, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 22</td>
+			<td>Art. 3.3.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 23</td>
+			<td>Art. 2.2.6.0.3, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 23bis</td>
+			<td>Art. 3.4.7.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 23ter</td>
+			<td>Art. 2.2.6.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 29</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 31</td>
+			<td>Art. 3.3.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.13.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 33/1</td>
+			<td>Art. 3.13.2.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 33bis, eerste lid</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33bis, tweede lid</td>
+			<td>Art. 3.10.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 34</td>
+			<td>Art. 3.13.1.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 36bis</td>
+			<td>Art. 3.13.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 36bis</td>
+			<td>Art. 3.13.2.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 36bis, eerste lid</td>
+			<td>Art. 2.2.2.0.1, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 36bis, eerste lid</td>
+			<td>Art. 2.2.6.0.3, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 36bis, tweede lid</td>
+			<td>Art. 2.2.7.0.2, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater</td>
+			<td>Art. 3.3.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 1</td>
+			<td>Art. 2.2.7.0.2, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 2, tweede zin</td>
+			<td>Art. 3.3.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 3</td>
+			<td>Art. 2.2.7.0.2, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 5</td>
+			<td>Art. 2.2.7.0.2, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 6</td>
+			<td>Art. 2.2.7.0.2, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 7</td>
+			<td>Art. 3.3.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 36quater, § 8</td>
+			<td>Art. 3.3.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 37</td>
+			<td>Art. 3.5.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.3.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 38</td>
+			<td>Art. 3.13.1.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 39</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40, eerste lid</td>
+			<td>Art. 3.3.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40, tweede lid</td>
+			<td>Art. 3.13.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 40, tweede lid, eerste zin</td>
+			<td>Art. 3.18.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 41</td>
+			<td>Art. 3.15.3.0.11</td>
+		</tr>
+		<tr>
+			<td>Art. 42</td>
+			<td>Art. 2.2.4.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 42bis</td>
+			<td>Art. 3.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 43</td>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 43</td>
+			<td>Art. 2.12.4.0.1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 43</td>
+			<td>Art. 2.12.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 43bis, § 1</td>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 43bis, § 1</td>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 43bis, § 2</td>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 43ter</td>
+			<td>Art. 2.12.3.0.1, § 1, 2de lid</td>
+		</tr>
+		<tr>
+			<td>Art. 44</td>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 44</td>
+			<td>Art. 2.12.4.0.1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 2, eerste lid</td>
+			<td>Art. 2.12.3.0.1, § 2, eerste lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 2, eerste lid</td>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 2°, en tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 2, tweede lid</td>
+			<td>Art. 2.12.3.0.1, § 2, tweede en derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 2, derde lid</td>
+			<td>Art. 2.12.3.0.1, § 2, eerste lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 45, § 2, derde lid</td>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 3° en tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 51</td>
+			<td>Art. 2.12.2.0.1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 52</td>
+			<td>Art. 2.12.2.0.1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 53</td>
+			<td>Art. 3.3.1.0.14, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 54</td>
+			<td>Art. 3.13.1.2.9</td>
+		</tr>
+		<tr>
+			<td>Art. 56</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 56</td>
+			<td>Art. 3.3.1.0.14, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 57</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 58, eerste deel</td>
+			<td>Art. 3.13.1.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 58, tweede deel</td>
+			<td>Art. 3.13.1.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 59</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 60, § 1</td>
+			<td>Art. 3.3.1.0.15</td>
+		</tr>
+		<tr>
+			<td>Art. 60, § 1</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 60, § 1</td>
+			<td>Art. 3.4.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 60, § 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 63</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 64</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 65</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 68</td>
+			<td>Art. 2.12.3.0.1, § 2, 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 68</td>
+			<td>Art. 2.12.7.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 68</td>
+			<td>Art. 3.18.0.0.5/1</td>
+		</tr>
+		<tr>
+			<td>Art. 69</td>
+			<td>Art. 3.15.3.0.12</td>
+		</tr>
+		<tr>
+			<td>Art. 70, eerste lid, 1°</td>
+			<td>Art. 3.15.3.0.13</td>
+		</tr>
+		<tr>
+			<td>Art. 70, eerste lid, 2° en tweede tot vierde lid</td>
+			<td>Art. 3.16.0.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 71</td>
+			<td>Art. 3.15.3.0.7</td>
+		</tr>
+		<tr>
+			<td>Art. 72</td>
+			<td>Art. 3.15.3.0.8</td>
+		</tr>
+		<tr>
+			<td>Art. 74</td>
+			<td>Art. 2.12.4.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 76, § 1</td>
+			<td>Art. 2.13.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 76, § 2</td>
+			<td>Art. 1.1.0.0.2, dertiende lid</td>
+		</tr>
+		<tr>
+			<td>Art. 77</td>
+			<td>Art. 2.13.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 78, eerste zin</td>
+			<td>Art. 2.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 78, tweede zin</td>
+			<td>Art. 3.10.4.4.6</td>
+		</tr>
+		<tr>
+			<td>Art. 79, § 1</td>
+			<td>Art. 2.13.3.0.1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 79, § 2, eerste en tweede lid</td>
+			<td>Art. 2.13.3.0.1, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 79, § 2, derde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 79, § 3, eerste lid</td>
+			<td>Art. 3.12.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 79, § 3, tweede lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 80, § 1</td>
+			<td>Art. 2.13.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 80, § 2</td>
+			<td>Art. 2.13.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 81, 1°, eerste zin</td>
+			<td>Art. 2.13.3.0.1, § 2, eerste lid, 2°</td>
+		</tr>
+		<tr>
+			<td>Art. 81, 1°, eerste zin</td>
+			<td>Art. 2.13.5.0.1, tweede lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 81, 1°, eerste zin</td>
+			<td>Art. 2.13.5.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 81, 1°, tweede zin</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 82</td>
+			<td>Art. 3.4.7.0.7</td>
+		</tr>
+		<tr>
+			<td>Art. 82</td>
+			<td>Art. 2.13.5.0.1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 83</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 84, § 1</td>
+			<td>Art. 2.13.7.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 84, § 1</td>
+			<td>Art. 3.3.1.0.16</td>
+		</tr>
+		<tr>
+			<td>Art. 84, § 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 84, § 3</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 85</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 86</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 87</td>
+			<td>Art. 3.13.1.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 88</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 89, eerste lid</td>
+			<td>Art. 2.13.7.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 89, tweede lid</td>
+			<td>Art. 3.18.0.0.15/2</td>
+		</tr>
+		<tr>
+			<td>Art. 89, derde lid</td>
+			<td>Art. 3.18.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 89, vierde lid</td>
+			<td>Art. 3.3.3.0.1, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 91</td>
+			<td>Art. 2.13.7.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 92, eerste lid</td>
+			<td>Art. 3.18.0.0.15/2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 92, tweede lid</td>
+			<td>Art. 2.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 92, tweede lid</td>
+			<td>Art. 3.10.4.4.6</td>
+		</tr>
+		<tr>
+			<td>Art. 92, derde lid</td>
+			<td>Art. 3.3.3.0.1, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 92, derde lid</td>
+			<td>Art. 3.18.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 93</td>
+			<td>Art. 2.13.4.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 94</td>
+			<td>Art. 1.1.0.0.2, vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 94</td>
+			<td>Art. 2.3.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.3.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.5.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.10.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.1.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.13.2.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 95</td>
+			<td>Art. 3.15.3.0.11</td>
+		</tr>
+		<tr>
+			<td>Art. 96</td>
+			<td>Art. 2.3.6.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 97, § 1</td>
+			<td>Art. 2.3.3.0.1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 97, § 2, eerste lid</td>
+			<td>Art. 2.3.3.0.1, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 97, § 2, tweede lid</td>
+			<td>Art. 2.3.3.0.1, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 97, § 2, derde lid</td>
+			<td>Art. 2.3.3.0.1, § 2, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 97bis</td>
+			<td>Art. 2.3.4.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 97ter</td>
+			<td>Art. 2.3.4.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 97quater</td>
+			<td>Art. 2.3.4.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 97quinquies</td>
+			<td>Art. 2.3.4.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 97sexies</td>
+			<td>Art. 2.3.4.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 97septies</td>
+			<td>Art. 2.3.4.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 97octies</td>
+			<td>Art. 2.3.4.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 97novies</td>
+			<td>Art. 2.3.4.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 97decies</td>
+			<td>Art. 2.3.6.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 98</td>
+			<td>Art. 2.3.4.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 99, § 1</td>
+			<td>Art. 2.3.2.0.1, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 99, § 2</td>
+			<td>Art. 2.3.2.0.1, § 1, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 99, § 3</td>
+			<td>Art. 2.3.2.0.1, § 1, vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 100, § 1</td>
+			<td>Art. 2.3.2.0.1, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 100, § 2</td>
+			<td>Art. 2.3.2.0.1, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 102</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 103</td>
+			<td>Art. 3.3.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 104</td>
+			<td>Art. 3.3.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 105</td>
+			<td>Art. 2.3.6.0.1, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 106</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 107</td>
+			<td>Art. 2.3.4.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 120</td>
+			<td>Art. 3.13.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 121</td>
+			<td>Art. 3.13.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 122</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 123</td>
+			<td>Art. 3.13.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 124</td>
+			<td>Art. 5.0.0.0.8</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tabel 5.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoBodyText>Tabel 5:   Koninklijk besluit van   8 juli 1970   houdende de   algemene verordening betreffende de met   de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P>  <TABLE   style="MARGIN: auto auto auto 6.75pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-table-layout-alt: fixed"   class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         KB/WIGB</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         Vlaamse         Codex         Fiscaliteit</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         12, tweede lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.2.0.1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         eerste lid, 3°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, tweede lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, derde lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         derde         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         17</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         18</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         19</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         20</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         21</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         22</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §1,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58bis,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 16; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58bis,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         derde lid</P></TD></TR></TBODY></TABLE></P>
+Tabel 5. Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>bepaling KB/WIGB</td>
+			<td>bepaling Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.2.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 12, tweede lid</td>
+			<td>Art. 3.14.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 15, § 1, eerste lid</td>
+			<td>Art. 2.2.6.0.1, § 1, eerste lid, 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 15, § 1, tweede lid</td>
+			<td>Art. 2.2.6.0.1, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 15, § 1, derde lid</td>
+			<td>Art. 2.2.6.0.1, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 15, § 2</td>
+			<td>Art. 2.2.6.0.1, § 1, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 17</td>
+			<td>Art. 2.2.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 18</td>
+			<td>Art. 2.2.3.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 19</td>
+			<td>Art. 2.2.3.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 20</td>
+			<td>Art. 2.2.3.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 21</td>
+			<td>Art. 2.2.3.0.6</td>
+		</tr>
+		<tr>
+			<td>Art. 22</td>
+			<td>Art. 2.2.3.0.7</td>
+		</tr>
+		<tr>
+			<td>Art. 35bis</td>
+			<td>Art. 3.4.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 51</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 52</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 53</td>
+			<td>Art. 1.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 54</td>
+			<td>Art. 3.13.1.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 54</td>
+			<td>Art. 3.13.1.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 58</td>
+			<td>Art. 2.3.6.0.1, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 58bis, eerste lid</td>
+			<td>Art. 2.3.6.0.1, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 58bis, tweede lid</td>
+			<td>Art. 2.3.6.0.1, § 2, derde lid</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tabel 6.
 
-<P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt" class=MsoBodyText>Tabel 6:   Ministerieel besluit van   17 juli 1970   tot uitvoering van   het wetboek van   de met de inkomstenbelastingen gelijkgestelde belastingen (MB/WIGB)</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P>  <TABLE   style="MARGIN: auto auto auto 6.75pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-table-layout-alt: fixed"   class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         MB/WIGB</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         Vlaamse         Codex         Fiscaliteit</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2bis</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.5,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2ter,         eerste lid, a)</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2, derde lid, 3°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2ter,         eerste lid, b)</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2, derde lid, 4°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2ter,         eerste lid, c)</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2, derde lid, 5°</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2ter,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 5°, in fine</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2quater</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.5,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2quinquies,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.5,         §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2quinquies,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.5,         §4</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 9; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2quinquies,         §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.5,         §5</P></TD></TR></TBODY></TABLE></P>
+Tabel 6. Ministerieel besluit van 17 juli 1970 tot uitvoering van het wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen (MB/WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>bepaling MB/WIGB</td>
+			<td>bepaling Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2bis</td>
+			<td>Art. 2.2.6.0.5, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2ter, eerste lid, a)</td>
+			<td>Art. 1.1.0.0.2, derde lid, 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 2ter, eerste lid, b)</td>
+			<td>Art. 1.1.0.0.2, derde lid, 4°</td>
+		</tr>
+		<tr>
+			<td>Art. 2ter, eerste lid, c)</td>
+			<td>Art. 1.1.0.0.2, derde lid, 5°</td>
+		</tr>
+		<tr>
+			<td>Art. 2ter, tweede lid</td>
+			<td>Art. 1.1.0.0.2, derde lid, 5°, in fine</td>
+		</tr>
+		<tr>
+			<td>Art. 2quater</td>
+			<td>Art. 2.2.6.0.5, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2quinquies, § 1</td>
+			<td>Art. 2.2.6.0.5, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2quinquies, § 2</td>
+			<td>Art. 2.2.6.0.5, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 2quinquies, § 3</td>
+			<td>Art. 2.2.6.0.5, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7bis</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7ter</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7quater</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7quinquies</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Bijlage</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tabel 7.
 
@@ -8791,11 +10687,1137 @@ Deze codex wordt aangehaald als : Vlaamse Codex Fiscaliteit van 13   december 20
 
 ### Tabel 4.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoBodyText>Tabel 4:   Wetboek van 23   november 1965   van de met   inkomstenbelastingen gelijkgestelde belastingen (WIGB)</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P>  <TABLE   style="MARGIN: auto auto auto 6.75pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-table-layout-alt: fixed"   class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         Vlaamse         Codex         Fiscaliteit</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         WIGB</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 1°</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 2°</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         derde lid, 2°, in fine</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         4, §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1.1.0.0.2,         vierde lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         94</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 1.1.0.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §2,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         21</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.2.0.1,         §2,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         7,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         9</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         10</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 16">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         11</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 17">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         12</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 18">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.4.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         42</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 19">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         14</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 20">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 21">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.5.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         16</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 22">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5,         §1,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 23">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5,         §2,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 24">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2.2.6.0.1, §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 5, §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 25">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         13</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 26">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.3,         eerste lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 27">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.3,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 28">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23ter</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 29">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 30">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 31">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 32">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §5</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 33">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.7.0.2,         §4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §6</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 34">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         94</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 35">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         100, §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 36">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99,         §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 37">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         derde         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 38">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §1,         vierde lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         99, §3</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 39">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.2.0.1,         §2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         100, §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 40">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97, §1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 41">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97,         §2,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 42">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97, §2, tweede lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 43">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.3.0.1,         §2,         derde         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97,         §2,         derde         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 44">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97bis</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 45">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97ter</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 46">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97quater</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 47">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97quinquies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 48">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97sexies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 49">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97septies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 50">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97octies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 51">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.1.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97novies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 52">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         98</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 53">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.4.2.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         107</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 54">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §1,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         96</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 55">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         eerste         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         105</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 56">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         97decies</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 57">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 58">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 59">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.1.0.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         42bis</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 60">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 61">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 62">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.2.4.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 63">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §2,         tweede         zin</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 64">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §7</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 65">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater,         §8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 66">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 67">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40, eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 68">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.1.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 69">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         22</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 70">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36quater</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 71">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         103</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 72">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         31</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 73">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         104</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 74">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.3.5.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 75">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         29</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 76">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         102</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 77">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 78">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 79">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 80">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.7.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         23bis</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 81">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 82">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 83">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 84">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.2.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 85">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 86">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         37</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 87">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.3.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 88">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.4.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 89">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.6.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 90">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.8.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 91">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.5.9.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 92">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 93">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 94">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.6.0.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 95">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.7.0.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 96">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.8.0.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 97">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.8.0.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 98">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.8.0.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 99">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.9.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 100">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.9.1.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 101">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.9.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 102">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33bis,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 103">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 104">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.3.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33bis,         eerste         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 105">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.10.3.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 106">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.4.1.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 107">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.4.6.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 108">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 109">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.2.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 110">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 111">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 112">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 113">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 114">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 115">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 116">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 117">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.10.5.3.8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 118">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 119">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 120">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 121">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 122">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 123">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 124">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 125">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 126">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.9</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 127">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.12.1.0.10</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 128">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 129">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 130">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.1.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 131">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 132">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 133">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 134">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 135">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 136">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 137">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 138">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 139">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.1.2.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 140">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 141">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 142">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 143">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 144">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 145">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.1.2.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 146">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 147">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 148">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 149">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 150">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.2.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         38</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 151">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.1.2.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 152">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 153">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 154">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 155">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 156">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 157">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.3.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 158">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.4.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 159">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.1.4.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         34</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 160">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.1.4.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 161">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         39</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 162">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         106</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 163">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         122</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 164">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         121</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 165">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         123</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 166">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         120</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 167">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 168">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 169">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 170">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art. 3.13.2.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 171">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         33/1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 172">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         36bis</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 173">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.13.2.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 174">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 175">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 176">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 177">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.3.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 178">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.1.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 179">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 180">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 181">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 182">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 183">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 184">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 185">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 186">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 187">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.9</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 188">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.10</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 189">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.11</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         41</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 190">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.15.3.0.11</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         95</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 191">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.18.0.0.1,         §1,         §4         en §5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 192">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.18.0.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         40,         tweede         lid,         eerste zin</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 193">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.19.0.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 194; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         5.0.0.0.8</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         124</P></TD></TR></TBODY></TABLE></P>
+Tabel 4. Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen (WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>bepaling Vlaamse Codex Fiscaliteit</td>
+			<td>bepaling WIGB</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.2, derde lid, 1°</td>
+			<td>Art. 4, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.2, derde lid, 2°</td>
+			<td>Art. 4, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.2, derde lid, 2°, in fine</td>
+			<td>Art. 4, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.2, vierde lid</td>
+			<td>Art. 94</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.2, dertiende lid</td>
+			<td>Art. 76, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 56</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 84, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.1.0.1</td>
+			<td>Art. 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.2.0.1, § 1</td>
+			<td>Art. 6</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.2.0.1, § 2, eerste lid</td>
+			<td>Art. 21</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.2.0.1, § 2, tweede lid</td>
+			<td>Art. 36bis, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.1</td>
+			<td>Art. 7, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.8</td>
+			<td>Art. 8</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.4.0.1</td>
+			<td>Art. 9</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.4.0.2</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.4.0.3</td>
+			<td>Art. 11</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.4.0.4</td>
+			<td>Art. 12</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.4.0.5</td>
+			<td>Art. 42</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.5.0.1</td>
+			<td>Art. 14</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.5.0.2</td>
+			<td>Art. 15</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.5.0.3</td>
+			<td>Art. 16</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 1, eerste lid</td>
+			<td>Art. 5, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 2</td>
+			<td>Art. 5, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 3</td>
+			<td>Art. 5, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.2</td>
+			<td>Art. 13</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.3, eerste lid</td>
+			<td>Art. 23</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.3, tweede lid</td>
+			<td>Art. 36bis, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.4</td>
+			<td>Art. 23ter</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.7.0.2, § 1</td>
+			<td>Art. 36quater, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.7.0.2, § 1</td>
+			<td>Art. 36bis, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.7.0.2, § 2</td>
+			<td>Art. 36quater, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.7.0.2, § 3</td>
+			<td>Art. 36quater, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.7.0.2, § 4</td>
+			<td>Art. 36quater, § 6</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.1.0.1</td>
+			<td>Art. 94</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.2.0.1, § 1, eerste lid</td>
+			<td>Art. 100, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.2.0.1, § 1, tweede lid</td>
+			<td>Art. 99, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.2.0.1, § 1, derde lid</td>
+			<td>Art. 99, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.2.0.1, § 1, vierde lid</td>
+			<td>Art. 99, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.2.0.1, § 2</td>
+			<td>Art. 100, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.3.0.1, § 1</td>
+			<td>Art. 97, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.3.0.1, § 2, eerste lid</td>
+			<td>Art. 97, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.3.0.1, § 2, tweede lid</td>
+			<td>Art. 97, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.3.0.1, § 2, derde lid</td>
+			<td>Art. 97, § 2, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.1</td>
+			<td>Art. 97bis</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.2</td>
+			<td>Art. 97ter</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.2</td>
+			<td>Art. 97quater</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.3</td>
+			<td>Art. 97quinquies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.4</td>
+			<td>Art. 97sexies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.5</td>
+			<td>Art. 97septies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.6</td>
+			<td>Art. 97octies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.1.7</td>
+			<td>Art. 97novies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.2.1</td>
+			<td>Art. 98</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.4.2.2</td>
+			<td>Art. 107</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.1, § 1, eerste lid</td>
+			<td>Art. 96</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.1, § 2, eerste lid</td>
+			<td>Art. 105</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.2</td>
+			<td>Art. 97decies</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.2.0.1, eerste lid</td>
+			<td>Art. 51</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.2.0.1, tweede lid</td>
+			<td>Art. 52</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 1, 2de lid</td>
+			<td>Art. 43ter</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+			<td>Art. 43</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+			<td>Art. 43bis, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+			<td>Art. 43bis, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 1, eerste lid</td>
+			<td>Art. 44</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 2, 3°</td>
+			<td>Art. 68</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 2, eerste lid, 1°</td>
+			<td>Art. 45, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 2, eerste lid, 1°</td>
+			<td>Art. 45, § 2, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.3.0.1, § 2, tweede en derde lid</td>
+			<td>Art. 45, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.1, § 1</td>
+			<td>Art. 43</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.1, § 1</td>
+			<td>Art. 44</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 1°</td>
+			<td>Art. 43bis, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 2°, en tweede lid</td>
+			<td>Art. 45, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.1, § 2, eerste lid, 3° en tweede lid</td>
+			<td>Art. 45, § 2, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.4.0.2</td>
+			<td>Art. 74</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.6.0.1</td>
+			<td>Art. 43</td>
+		</tr>
+		<tr>
+			<td>Art. 2.12.7.0.1</td>
+			<td>Art. 68</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.1.0.1</td>
+			<td>Art. 76, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.2.0.1</td>
+			<td>Art. 78, eerste zin</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.2.0.1</td>
+			<td>Art. 92, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.3.0.1, § 1</td>
+			<td>Art. 79, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.3.0.1, § 2</td>
+			<td>Art. 79, § 2, eerste en tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.3.0.1, § 2, eerste lid, 2°</td>
+			<td>Art. 81, 1°, eerste zin</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.3.0.2</td>
+			<td>Art. 80, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.4.0.1</td>
+			<td>Art. 80, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.4.0.2</td>
+			<td>Art. 93</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.5.0.1</td>
+			<td>Art. 82</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.5.0.2</td>
+			<td>Art. 81, 1°, eerste zin</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.6.0.1</td>
+			<td>Art. 77</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.7.0.1</td>
+			<td>Art. 84, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.7.0.1</td>
+			<td>Art. 89, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.13.7.0.2</td>
+			<td>Art. 91</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.4</td>
+			<td>Art. 42bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.4.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.1</td>
+			<td>Art. 36quater, § 2, tweede zin</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.1</td>
+			<td>Art. 36quater, § 7</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.1</td>
+			<td>Art. 36quater, § 8</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.14, eerste lid</td>
+			<td>Art. 53</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.14, tweede lid</td>
+			<td>Art. 56</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.15</td>
+			<td>Art. 60, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.16</td>
+			<td>Art. 84, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.2</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.2</td>
+			<td>Art. 40, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.2</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.2.0.1</td>
+			<td>Art. 22</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.2.0.1</td>
+			<td>Art. 36quater</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.2.0.1</td>
+			<td>Art. 103</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.3.0.1</td>
+			<td>Art. 31</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.3.0.1</td>
+			<td>Art. 104</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.3.0.1, § 2</td>
+			<td>Art. 89, vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.3.0.1, § 2</td>
+			<td>Art. 92, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.5.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 29</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 60, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 83</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 102</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.4</td>
+			<td>Art. 60, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.7.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.7.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.7.0.3</td>
+			<td>Art. 23bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.7.0.7</td>
+			<td>Art. 82</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.2.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.2.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.3.0.2</td>
+			<td>Art. 37</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.3.0.2</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.4.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.6.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.8.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.5.9.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.6.0.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.6.0.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.6.0.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.7.0.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.8.0.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.8.0.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.8.0.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.9.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.9.1.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.9.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.2.0.1</td>
+			<td>Art. 33bis, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.2.0.1</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 33bis, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.4.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.4.4.6</td>
+			<td>Art. 78, tweede zin</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.4.4.6</td>
+			<td>Art. 92, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.4.6.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.2.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.2.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.3.8</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.8</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.9</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.1.0.10</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.4.0.1</td>
+			<td>Art. 79, § 3, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.1.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.1.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.1</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.1</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.2</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.2</td>
+			<td>Art. 58, tweede deel</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.2</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.3</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.3</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.4</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.4</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.5</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.5</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.6</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.6</td>
+			<td>Art. 58, eerste deel</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.6</td>
+			<td>Art. 87</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.6</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.7</td>
+			<td>Art. 38</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.7</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.9</td>
+			<td>Art. 54</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.4.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.4.2</td>
+			<td>Art. 34</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.4.2</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 39</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 106</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 122</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.2</td>
+			<td>Art. 121</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.2</td>
+			<td>Art. 123</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.3</td>
+			<td>Art. 120</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.4</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.4</td>
+			<td>Art. 36bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.4</td>
+			<td>Art. 40, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.4</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.5</td>
+			<td>Art. 33/1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.5</td>
+			<td>Art. 36bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.5</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.14.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.14.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.14.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.14.3.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.7</td>
+			<td>Art. 71</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.8</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.8</td>
+			<td>Art. 72</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.9</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.10</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.11</td>
+			<td>Art. 41</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.11</td>
+			<td>Art. 95</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.12</td>
+			<td>Art. 69</td>
+		</tr>
+		<tr>
+			<td>Art. 3.15.3.0.13</td>
+			<td>Art. 70, eerste lid, 1°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.16.0.0.5</td>
+			<td>Art. 70, eerste lid, 2° en tweede tot vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.1, § 1, § 4 en § 5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.3</td>
+			<td>Art. 89, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.3</td>
+			<td>Art. 92, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.4</td>
+			<td>Art. 40, tweede lid, eerste zin</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.5/1</td>
+			<td>Art. 68</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.15/2</td>
+			<td>Art. 89, tweede lid en art. 92, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.19.0.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 5.0.0.0.8</td>
+			<td>Art. 124</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tabel 5.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoBodyText>Tabel 5:   Koninklijk besluit van   8 juli 1970   houdende de   algemene verordening betreffende de met   de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoBodyText>&nbsp;</P>  <P>  <TABLE   style="MARGIN: auto auto auto 6.75pt; BORDER-COLLAPSE: collapse; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 0cm 0cm 0cm; mso-table-layout-alt: fixed"   class=MsoNormalTable border=0 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         Vlaamse         Codex         Fiscaliteit</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: black 1pt solid; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Bepaling         KB/WIGB</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.2</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         17</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.3</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         18</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.4</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         19</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.5</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         20</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.6</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         21</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.3.0.7</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         22</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         eerste lid, 3°</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, tweede lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15, §1, derde lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.2.6.0.1,         §1,         derde         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         15,         §2</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §1,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         tweede         lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58bis,         eerste lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         2.3.6.0.1,         §2,         derde lid</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         58bis,         tweede         lid</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.2.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         1</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.4.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         8</P></TD></TR>    <TR style="HEIGHT: 1pt; mso-yfti-irow: 16; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: black 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 204.95pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         3.14.2.0.1</P></TD>      <TD       style="BORDER-BOTTOM: black 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 0cm; WIDTH: 205pt; PADDING-RIGHT: 0cm; HEIGHT: 1pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: black 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; mso-border-top-alt: solid black .5pt"       vAlign=top width=273>        <P style="MARGIN: 0cm 0cm 0pt" class=TableParagraph>Art.         12, tweede lid</P></TD></TR></TBODY></TABLE></P>
+Tabel 5. Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de Inkomstenbelastingen Gelijkgestelde Belastingen (KB/WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>bepaling Vlaamse Codex Fiscaliteit</td>
+			<td>bepaling KB/WIGB</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.4</td>
+			<td>Art. 53</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.2</td>
+			<td>Art. 17</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.3</td>
+			<td>Art. 18</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.4</td>
+			<td>Art. 19</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.5</td>
+			<td>Art. 20</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.6</td>
+			<td>Art. 21</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.3.0.7</td>
+			<td>Art. 22</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 1, eerste lid, 3°</td>
+			<td>Art. 15, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 1, tweede lid</td>
+			<td>Art. 15, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 1, tweede lid</td>
+			<td>Art. 15, § 1, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1, § 1, derde lid</td>
+			<td>Art. 15, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.1, § 1, tweede lid</td>
+			<td>Art. 58</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.1, § 2, tweede lid</td>
+			<td>Art. 58bis, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2.3.6.0.1, § 2, derde lid</td>
+			<td>Art. 58bis, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.1</td>
+			<td>Art. 54</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.3.1</td>
+			<td>Art. 54</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.2.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 8</td>
+		</tr>
+		<tr>
+			<td>Art. 3.14.2.0.1</td>
+			<td>Art. 12, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.2.0.1</td>
+			<td>Art. 35bis</td>
+		</tr>
+	</tbody>
+</table>
 
 ### Tabel 6.
 
@@ -9849,8 +12871,8 @@ Deze codex wordt aangehaald als : Vlaamse Codex Fiscaliteit van 13   december 20
 ### BIJLAGE 2.
 
 De wegen die onder een wegtype als vermeld in artikel 2.4.4.0.2, 3°, vallen zijn de volgende, voor zover ze zich situeren op het grondgebied van het Vlaamse Gewest :<br>
-1) Autosnelwegen, incl. bretelwegen, autosnelwegenringen en op- en afritten :<br>
-Autosnelwegen :<br>
+1) Autosnelwegen, inclusief bretelwegen, autosnelwegenringen en op- en afritten:<br>
+Autosnelwegen:<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -9882,7 +12904,7 @@ Autosnelwegen :<br>
 		<tr>
 			<td>A8</td>
 			<td>E429</td>
-			<td>Halle (Ring om Halle incl. N203a) - grens Wallonië (Doornik)</td>
+			<td>Halle (Ring om Halle inclusief N203a) - grens Wallonië (Doornik)</td>
 		</tr>
 		<tr>
 			<td>A10</td>
@@ -9893,6 +12915,11 @@ Autosnelwegen :<br>
 			<td>A11</td>
 			<td>E34</td>
 			<td>Antwerpen - Zelzate, tot en met de kruising met de R4-West</td>
+		</tr>
+		<tr>
+			<td>A11</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Brugge (N31) - Knokke-Heist (N49)</td>
 		</tr>
 		<tr>
 			<td>A12</td>
@@ -9932,12 +12959,12 @@ Autosnelwegen :<br>
 		<tr>
 			<td>A25</td>
 			<td>E25</td>
-			<td>Luik (Wallonië) - Maastricht (Nl) thv Voeren (op- en afritten-complex N602)</td>
+			<td>Luik (Wallonië) - Maastricht (NL) thv Voeren (op- en afritten-complex N602)</td>
 		</tr>
 		<tr>
 			<td>A112</td>
 			<td>(N186)</td>
-			<td>Antwerpen / Jan de Voslei</td>
+			<td>Antwerpen/Jan de Voslei</td>
 		</tr>
 		<tr>
 			<td>A201</td>
@@ -9948,7 +12975,6 @@ Autosnelwegen :<br>
 </table>
 <br>
 Autosnelwegringen<br>
-<br>
 &nbsp;
 <table border="1">
 	<tbody>
@@ -10047,12 +13073,17 @@ Autosnelwegringen<br>
 		<tr>
 			<td>N35</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;Deinze - Tielt</td>
+			<td>&nbsp;Deinze - N37 (Tielt)</td>
 		</tr>
 		<tr>
 			<td>N35</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;Pittem (de kruising met N50) - (de kruising met) N330</td>
+		</tr>
+		<tr>
+			<td>N36</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;R32 (Roeselare) tot N35 (Zarren)</td>
 		</tr>
 		<tr>
 			<td>N42</td>
@@ -10098,6 +13129,11 @@ Autosnelwegringen<br>
 			<td>N186</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;Antwerpen (Jan de Voslei)</td>
+		</tr>
+		<tr>
+			<td>N722</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Vanaf N80 (Hasselt) tot N718 (St-Truiden)</td>
 		</tr>
 	</tbody>
 </table>
