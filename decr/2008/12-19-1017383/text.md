@@ -432,7 +432,7 @@ Aan het decreet van 18 juli 2003 tot regeling van strategische adviesraden wordt
 
 ### ART. 34.
 
-In afwijking op de bepalingen van de domaniale wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen, is de Vlaamse Regering ertoe gemachtigd de wegenis gelegen te Wingene, ter hoogte van het Sint-Pietersveld, Vagevuurstraat en Boskapeldreef, eigendom van de Vlaamse Gemeenschap, kosteloos over te dragen aan de gemeente Wingene.<br /><br />
+...
 
 ## HOOFDSTUK VI Vlaamse Vervoermaatschappij - De Lijn
 
