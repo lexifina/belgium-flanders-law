@@ -2,11 +2,114 @@
 
 ## HOOFDSTUK 1. Algemene bepalingen
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+### ART 2.
+
+In dit decreet wordt verstaan onder:<br>
+1° administratie: de administratieve entiteit van de Vlaamse administratieve diensten die verantwoordelijk is voor de uitvoering van het jeugdbeleid, vermeld in artikel 4, 7°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° bovenlokaal: het lokale gemeentelijke belang overstijgend;<br>
+3° geprofessionaliseerd jeugdwerk: de jeugdwerkinitiatieven met minstens één beroepskracht;<br>
+4° jeugdwerk: het sociaal-cultureel werk op basis van niet-commerciële doelen voor of door de jeugd van drie tot en met dertig jaar, in de vrije tijd, onder educatieve begeleiding en ter bevordering van de algemene en integrale ontwikkeling van de jeugd die eraan deelneemt op vrijwillige basis;<br>
+5° kinderen en jongeren met een handicap: de kinderen en de jongeren die door hun mentale of fysieke situatie een groter risico op achterstelling of uitsluiting lopen;<br>
+6° maatschappelijk kwetsbare kinderen en jongeren: de kinderen en de jongeren die door hun afkomst, hun thuissituatie of hun statuut een groter risico op achterstelling of uitsluiting lopen;<br>
+7° projectsubsidie: een subsidie die toegekend wordt ter ondersteuning van de specifieke kosten die voortvloeien uit een activiteit die zowel qua opzet of doelstelling als in de tijd kan worden afgebakend;<br>
+8° werkingssubsidie: een subsidie die toegekend wordt ter ondersteuning van de personeels- en werkingskosten die voortvloeien uit een structurele werking die een continu en permanent karakter vertoont.
+
+### ART 3.
+
+§ 1. De Vlaamse Regering verleent subsidies aan:<br>
+1° geprofessionaliseerde jeugdhuizen die inspelen op prioriteiten van het Vlaamse jeugd- en kinderrechtenbeleid;<br>
+2° geprofessionaliseerd jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren;<br>
+3° bovenlokaal jeugdwerk met kinderen en jongeren met een handicap;<br>
+4° intergemeentelijke projectverenigingen die de samenwerking en de netwerking stimuleren tussen de lokale besturen en de jeugdverenigingen binnen hun werkingsgebied.<br>
+<br>
+Om in aanmerking te komen voor subsidiëring op basis van dit decreet, gelden al de volgende algemene voorwaarden:<br>
+1° de aanvrager dient een subsidieaanvraag in volgens de modaliteiten, bepaald door de Vlaamse Regering;<br>
+2° de aanvrager onderschrijft de principes en de regels van de democratie, de rechten van het kind en het Europees Verdrag tot Bescherming van de Rechten van de Mens en de Fundamentele Vrijheden en past die toe in zijn werking;<br>
+3° de aanvrager verstrekt op verzoek van de administratie alle nuttige gegevens over de werking in de gevraagde vorm;<br>
+4° de aanvrager beheert op zelfstandige wijze de financiën en bepaalt onafhankelijk zijn eigen beleid;<br>
+5° de aanvrager beantwoordt aan de specifieke voorwaarden, vermeld in artikel 4, 5, 6, 7 of 8.<br>
+<br>
+§ 2. De werkingssubsidies, vermeld in artikel 4 tot en met 6, kunnen niet gecumuleerd worden. De begunstigde of zijn deelwerkingen kunnen alleen op basis van één subsidielijn middelen ontvangen.<br>
+<br>
+§ 3. Vanaf het ogenblik dat de begunstigde een belofte van subsidiëring ontvangt, moet hij:<br>
+1° meewerken aan onderzoek dat door of namens de Vlaamse Regering wordt georganiseerd met het oog op het voeren van een jeugd- en kinderrechtenbeleid;<br>
+2° het logo van de Vlaamse Gemeenschap opnemen op alle informatiedragers die betrekking hebben op initiatieven die gesubsidieerd worden in het kader van dit decreet.<br>
+<br>
+§ 4. De volgende verenigingen komen niet in aanmerking voor subsidiëring op basis van dit decreet:<br>
+1° verenigingen die een werkingssubsidie ontvangen op basis van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid;<br>
+2° feitelijke verenigingen en rechtspersonen die activiteiten uitoefenen die gericht zijn op de hele Vlaamse Gemeenschap.
+
 ## HOOFDSTUK 2. Subsidies voor geprofessionaliseerde jeugdhuizen die inspelen op prioriteiten van het Vlaamse jeugd- en kinderrechtenbeleid
+
+### ART 4.
+
+§ 1. In dit artikel wordt verstaan onder jeugdhuis: een vorm van sociaal-cultureel werk op basis van niet-commerciële doelen, in de vrije tijd, ter bevordering van de algemene en integrale ontwikkeling van de jongeren van veertien tot en met dertig jaar die eraan deelnemen op vrijwillige basis, waarvan de activiteiten plaatsvinden in een aangepaste accommodatie.<br>
+<br>
+§ 2. De Vlaamse Regering kan om de vier jaar werkingssubsidies toekennen aan geprofessionaliseerde jeugdhuizen als ze inspelen op prioriteiten van het Vlaamse jeugd- en kinderrechtenbeleid.<br>
+<br>
+§ 3. Om in aanmerking te komen voor werkingssubsidies, voldoet het jeugdhuis op het moment van de aanvraag bovendien aan al de volgende specifieke voorwaarden:<br>
+1° het jeugdhuis is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° het jeugdhuis beschikt over een algemene vergadering van ten minste twintig stemgerechtigde leden, waarvan ten minste tien leden jonger dan dertig jaar zijn;<br>
+3° het jeugdhuis beschikt over een ontmoetingsruimte die gespreid over ten minste drie dagen, ten minste twintig uur per week, waarvan minstens vier uur tijdens het weekend, open is;<br>
+4° het jeugdhuis is ten hoogste vier weken per jaar gesloten;<br>
+5° de werking van het jeugdhuis vindt plaats in een accommodatie die aangepast is aan de georganiseerde activiteiten. Het jeugdhuis beschikt daarbij over een afzonderlijke ontmoetingsruimte, een activiteitenruimte en een secretariaatsruimte;<br>
+6° het jeugdhuis is werkgever van ten minste een halftijdse beroepskracht met een inhoudelijke taakstelling;<br>
+7° het jeugdhuis dient een beleidsplan in voor een periode van vier jaar;<br>
+8° het jeugdhuis bezit een privaatrechtelijke rechtspersoonlijkheid met een niet-commercieel karakter.<br>
+<br>
+In het eerste lid, 3°, wordt verstaan onder weekend: vrijdag, zaterdag en zondag.<br>
+<br>
+Het beleidsplan, vermeld in het eerste lid, 7°, bevat per initiatief de volgende elementen:<br>
+1° de meerwaarde van het initiatief voor de structurele werking en de doelgroep van het jeugdhuis en voor het de lokale gemeenschap waarin het jeugdhuis actief is;<br>
+2° een omschrijving van de doelgroep die het jeugdhuis wil bereiken;<br>
+3° de wijze waarop vrijwilligers betrokken zullen worden bij de uitwerking en uitvoering;<br>
+4° de wijze waarop het initiatief inspeelt op de prioriteiten van het Vlaamse jeugd- en kinderrechtenbeleid;<br>
+5° de wijze waarop het jeugdhuis samenwerkt met, dan wel ondersteund wordt door, andere actoren met deskundigheid in het initiatief.<br>
+<br>
+Het beleidsplan, vermeld in het eerste lid, 7°, bevat een planning voor vier jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste twee jaar. Na afloop van het tweede jaar wordt de planning verder geactualiseerd in een aan de administratie voor te leggen voortgangsrapport. Na afloop van het vierde jaar bezorgt het jeugdhuis de administratie een werkingsverslag. De eerste periode van vier jaar loopt van 1 januari 2020 tot en met 31 december 2023.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de prioriteiten, de nadere voorwaarden en de procedure voor de indiening van het beleidsplan, het voortgangsrapport en het werkingsverslag, alsook voor de beoordeling, de toekenning en de uitbetaling van de subsidies en het toezicht op de naleving van de algemene en specifieke subsidiëringsvoorwaarden.
 
 ## HOOFDSTUK 3. Subsidies voor jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren
 
 ## HOOFDSTUK 4. Subsidies voor jeugdwerk met kinderen en jongeren met een handicap
+
+### ART 6.
+
+§ 1. De Vlaamse Regering kan om de vier jaar een werkingssubsidie toekennen aan geprofessionaliseerd jeugdwerk met kinderen en jongeren met een handicap om een bovenlokaal jeugdwerkaanbod te organiseren, zowel tijdens de schoolvakanties als tijdens het schooljaar. De initiatiefnemer kan daarenboven eveneens worden gesubsidieerd als hij ervoor zorgt dat de betrokken kinderen en jongeren aansluiting vinden bij instellingen of organisaties die hen kunnen helpen te integreren in de samenleving om zo hun achterstelling of uitsluiting weg te werken of als hij sensibiliseert voor mechanismen die afbreuk doen aan de rechten en gelijke kansen van kinderen en jongeren, op basis van zijn eigen praktijkervaring.<br>
+<br>
+§ 2. Om in aanmerking te komen voor werkingssubsidies voldoet de werking met kinderen en jongeren met een handicap op het moment van de aanvraag bovendien aan al de volgende specifieke voorwaarden:<br>
+1° de initiatiefnemer is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° de initiatiefnemer geeft uitvoering aan de opdracht, vermeld in paragraaf 1;<br>
+3° de initiatiefnemer organiseert zowel tijdens het schooljaar als tijdens de schoolvakanties een jeugdwerkaanbod;<br>
+4° de initiatiefnemer dient een beleidsplan in voor een periode van vier jaar;<br>
+5° de initiatiefnemer beschikt over privaatrechtelijke rechtspersoonlijkheid met een niet-commercieel karakter.<br>
+<br>
+In het beleidsplan, vermeld in het eerste lid, 4°, neemt de werking met kinderen en jongeren met een handicap de volgende elementen op:<br>
+1° de doelgroep die de initiatiefnemer bereikt, met vermelding van leeftijd en geografische spreiding;<br>
+2° de plannen om het jeugdwerkaanbod te organiseren;<br>
+3° de wijze waarop de initiatiefnemer het personeels- en vrijwilligersbeleid vorm geeft;<br>
+4° de wijze waarop de initiatiefnemer de participatie voor kinderen en jongeren stimuleert, waardoor de betrokken kinderen en jongeren aansluiting vinden bij instellingen of organisaties die hen kunnen helpen te integreren in de samenleving om zo hun achterstelling of uitsluiting weg te werken;<br>
+5° de wijze waarop de initiatiefnemer sensibiliseert voor mechanismen die afbreuk doen aan de rechten en gelijke kansen van kinderen en jongeren, op basis van zijn eigen praktijkervaring.<br>
+<br>
+Het beleidsplan, vermeld in het eerste lid, 4°, bevat een planning voor vier jaar, met een concreet uitgewerkte inhoudelijke en financiële planning voor de eerste twee jaar. Na afloop van het tweede jaar wordt de planning verder geactualiseerd in een aan de administratie voor te leggen voortgangsrapport. Na afloop van het vierde jaar bezorgt de initiatiefnemer de administratie een werkingsverslag. De eerste periode van vier jaar loopt van 1 januari 2020 tot en met 31 december 2023.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de nadere voorwaarden en de procedure voor de indiening van het beleidsplan, het voortgangsrapport en het werkingsverslag, alsook voor de beoordeling, de toekenning en de uitbetaling van de subsidie en het toezicht op de naleving van de algemene en specifieke subsidiëringsvoorwaarden.
+
+### ART 7.
+
+De Vlaamse Regering kan jaarlijks projectsubsidies toekennen aan jeugdwerk met kinderen en jongeren met een handicap om een bovenlokaal jeugdwerkaanbod te organiseren, tijdens de schoolvakanties of tijdens het schooljaar.<br>
+<br>
+Om in aanmerking te komen voor projectsubsidies, voldoet de werking met kinderen en jongeren met een handicap op het moment van de aanvraag aan al de volgende specifieke voorwaarden:<br>
+1° de werking is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+2° de werking is een feitelijke vereniging of bezit een privaatrechtelijke rechtspersoonlijkheid met een niet-commercieel karakter;<br>
+3° er is al een bestaande werking die volledig steunt op vrijwilligers. Er zijn geen beroepskrachten in dienst.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden voor de indiening van de subsidieaanvragen, alsook voor de beoordeling, de toekenning en de uitbetaling van de subsidies en het toezicht op de naleving van de subsidiëringsvoorwaarden.
 
 ## HOOFDSTUK 5. Subsidies voor structurele intergemeentelijke samenwerking
 
@@ -96,3 +199,15 @@ In afwijking van artikel 5 worden aan de volgende organisaties in 2018, 2019 en 
 De verenigingen, vermeld in het eerste lid, rapporteren jaarlijks aan de administratie over hun werking volgens de instructies van de administratie.<br>
 <br>
 Tijdens het jaar waarvoor de subsidie bestemd is, wordt de subsidie aan de verenigingen uitbetaald in vier schijven van 22,5 %. Het saldo wordt uitbetaald na indiening van de verantwoordingsstukken.
+
+### ART 14.
+
+Binnen de perken van het krediet dat goedgekeurd is door het Vlaams Parlement, kan de Vlaamse Regering bij de aanvang van elk werkingsjaar de hoogte van de jaarlijks toe te kennen werkingssubsidie, vermeld in artikel 4, 5, 6, 8 en 13, aanpassen aan de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen of aan de verplichtingen voor de werkgevers, opgenomen in de toepasselijke collectieve arbeidsovereenkomsten die tussentijds gesloten zijn tussen de erkende vakbonden en werkgeversfederaties en die geregistreerd zijn bij de Federale Overheidsdienst Werkgelegenheid, Arbeid en Sociaal Overleg, of dat subsidiebedrag verminderen als de kredieten die daarvoor zijn opgenomen in de algemene uitgavenbegroting van de Vlaamse Gemeenschap, dat noodzakelijk maken.<br>
+<br>
+De eerste indexatie kan plaatsvinden het jaar nadat de initiatiefnemer de werkingssubsidie, vermeld in artikel 4, 5, 6, 8 of 13, voor het eerst ontvangt.
+
+### ART 15.
+
+Dit decreet treedt in werking op 1 januari 2019, met uitzondering van:<br>
+1° artikel 9, 10 en 13, die in werking treden op 1 januari 2018;<br>
+2° artikel 5, 8, 11 en 12, die in werking treden op 1 januari 2020.
