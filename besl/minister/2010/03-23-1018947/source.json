@@ -2,16 +2,16 @@
   "codex_id": 1018947,
   "title": "Ministerieel besluit van 2010-03-23 tot bepaling van de standaard voor de titel van machineregelaar kunststofverwerking",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018947/VolledigDocument?datum=2010-04-22",
-  "source_sha256": "9aab3b012897292c6ba06bee3f9a653058a3e279aad7bf8e2810b127b1cb824c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018947/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "4063ed861250cb1744c147c89d820a7d9eccf9ccad905d8e7cc763ceb531d426",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018947&param=informatie",
-  "as_of": "2010-04-22",
+  "as_of": "2019-01-01",
   "made": "2010-03-23",
   "gazette": "2010-04-22",
   "numac": 2010202088,
   "document_start": "2010-04-22",
   "document_end": "2018-12-31",
-  "in_force": "2010-04-22",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
