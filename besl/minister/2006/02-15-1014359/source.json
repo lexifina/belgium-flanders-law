@@ -2,16 +2,16 @@
   "codex_id": 1014359,
   "title": "Ministerieel besluit van 2006-02-15 tot bepaling van de standaard voor de titel van platwever",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014359/VolledigDocument?datum=2007-06-26",
-  "source_sha256": "e8b3cf8766d23545cfa3599f7610389ffd699f85a033f381cb32f6648d520283",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014359/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "1a234a7518bca23044e1b87e4880461eb9a65b1cecc64662fd7167b48a63a353",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014359&param=informatie",
-  "as_of": "2007-06-26",
+  "as_of": "2019-01-01",
   "made": "2006-02-15",
   "gazette": "2006-03-13",
   "numac": 2006035381,
   "document_start": "2006-03-13",
   "document_end": "2018-12-31",
-  "in_force": "2007-06-26",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-06-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
