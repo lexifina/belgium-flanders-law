@@ -22,7 +22,12 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° Fonds : het Fonds ter   bestrijding van de uithuiszettingen, vermeld in artikel 58 van het decreet van   23 december 2011 houdende bepalingen tot begeleiding van de begroting   2012;<BR>2° huurovereenkomst : een huurovereenkomst voor de hoofdverblijfplaats   als vermeld in boek III, titel VIII, hoofdstuk II, afdeling II, van het   Burgerlijk Wetboek, die niet onder de toepassing valt van titel VII van het   decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<BR>3° huurprijs : de door   de huurder te betalen prijs voor het gebruik van de woning en de   gemeenschappelijke delen, met uitsluiting van alle bedragen, verschuldigd voor   de levering van goederen of diensten;<BR>4° verhuurder : de persoon, of zijn   lasthebber, die alleen of samen met een of meer andere personen een woning   verhuurt met een huurovereenkomst;<BR>5° woning : elk onroerend goed of deel   ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of van een   alleenstaande.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° Fonds : het Fonds ter bestrijding van de uithuiszettingen, vermeld in artikel 58 van het decreet van 23 december 2011 houdende bepalingen tot begeleiding van de begroting 2012;<br>
+2° huurovereenkomst : een huurovereenkomst voor de hoofdverblijfplaats als vermeld in het Vlaams Woninghuurdecreet, die niet onder de toepassing valt van titel VII van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode;<br>
+3° huurprijs : de door de huurder te betalen prijs voor het gebruik van de woning en de gemeenschappelijke delen, met uitsluiting van alle bedragen, verschuldigd voor de levering van goederen of diensten;<br>
+4° verhuurder : de persoon, of zijn lasthebber, die alleen of samen met een of meer andere personen een woning verhuurt met een huurovereenkomst;<br>
+5° woning : elk onroerend goed of deel ervan dat hoofdzakelijk bestemd is voor de huisvesting van een gezin of van een alleenstaande.
 
 ### ART. 2.
 
