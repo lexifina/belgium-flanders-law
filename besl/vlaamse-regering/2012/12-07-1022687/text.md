@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-<P>In dit besluit wordt verstaan onder : <BR>1° adviescomité : het Adviescomité   Microfinanciering, vermeld in artikel 24/1;<BR>2° inclusieve kredietverstrekker   in het Zuiden : een rechtspersoon die bijdraagt aan een inclusieve financiële   sector door het verstrekken van kredieten aan personen en organisaties uit het   Zuiden die voorheen uitgesloten waren van toegang tot klassieke financiële   instellingen;<BR>3° minister : de Vlaamse minister, bevoegd voor de   internationale samenwerking.</P>
+<p>In dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° inclusieve kredietverstrekker in het Zuiden : een rechtspersoon die bijdraagt aan een inclusieve financiële sector door het verstrekken van kredieten aan personen en organisaties uit het Zuiden die voorheen uitgesloten waren van toegang tot klassieke financiële instellingen;<br>
+3° minister : de Vlaamse minister, bevoegd voor de internationale samenwerking.</p>
 
 ### ART. 2.
 
@@ -20,43 +23,43 @@
 
 ### ART. 3.
 
-<P>Binnen de perken van de daarvoor bestemde begrotingskredieten kan de minister   subsidies toekennen in het kader van het impulsbeleid gemeentelijke   ontwikkelingssamenwerking.<BR></P>  <P>De subsidies kunnen alleen worden toegekend aan lokale besturen die op het   lokale niveau invulling geven aan de Vlaamse beleidsprioriteit inzake   gemeentelijke ontwikkelingssamenwerking, namelijk door de opname van   ontwikkelingssamenwerking in het reguliere lokale beleid en de verdere   professionalisering van de lokale besturen op het vlak van gedecentraliseerde   ontwikkelingssamenwerking, zowel op het vlak van eigen acties als op het vlak   van de coördinatie van lokale initiatieven.<BR></P>  <P>Die beleidsprioriteit heeft minstens betrekking op het eerste van de volgende   resultaatsgebieden en kan, als de gemeente daarvoor kiest, daarnaast ook het   tweede resultaatsgebied omvatten : <BR>1° de versterking van het draagvlak voor   ontwikkelingssamenwerking in de eigen gemeente;<BR>2° de versterking van de   bestuurskracht van een partneroverheid in het Zuiden, zodat die haar kerntaken   zo goed mogelijk kan uitvoeren. <BR></P>
+...
 
 ### ART. 4.
 
-<P>§ 1. Het impulsbeleid richt zich tot gemeenten en interlokale verenigingen   uit het Vlaamse Gewest en, voor de gemeenschapsaangelegenheden, tot gemeenten   uit het tweetalige gebied Brussel-Hoofdstad, die daarbij zowel onderling als met   de Vlaamse Gemeenschapscommissie kunnen samenwerken.<BR></P>  <P>§ 2. Een gemeente uit het tweetalige gebied Brussel-Hoofdstad kan een   subsidie ontvangen als ze een meerjarenplanning voorlegt over de wijze waarop   ze, voor de gemeenschapsaangelegenheden, een gemeentelijk beleid op het vlak van   ontwikkelingssamenwerking zal voeren. <BR></P>  <P>Ze maakt daarvoor gebruik van het standaardformulier dat haar op eenvoudig   verzoek ter beschikking wordt gesteld.<BR>§ 3. Een gemeente kan maximaal twee   beleidscycli van zes jaar in aanmerking komen voor een   subsidie.<BR></P>
+...
 
 ### ART. 5.
 
-<P>De subsidie wordt initieel toegekend voor de eerste drie jaar van de lokale   beleidscyclus.<BR></P>  <P>De minister evalueert in de loop van die initiële subsidieperiode de Vlaamse   beleidsprioriteiten en de subsidieregeling.<BR></P>  <P>Als die evaluatie geen aanleiding geeft tot een wijziging van dit besluit,   wordt de subsidie van rechtswege verlengd voor de laatste drie jaar van de   beleidscyclus.<BR></P>
+...
 
 ### ART. 6.
 
-De jaarlijkse subsidie bedraagt : <BR>1° maximaal 45.000 euro voor een   gemeente uit het Vlaamse Gewest;<BR>2° maximaal 45.000 euro voor een gemeente   uit het tweetalige gebied Brussel-Hoofdstad.<BR>
+...
 
 ### ART. 7.
 
-<P>§ 1. Een interlokale vereniging uit het Vlaamse Gewest kan een subsidie   ontvangen via het impulsbeleid gemeentelijke ontwikkelingssamenwerking als ze   een beherende gemeente aanstelt die, namens de interlokale vereniging, een   beleid inzake ontwikkelingssamenwerking opneemt in haar strategische   meerjarenplanning. <BR></P>  <P>De jaarlijkse subsidie bedraagt in dat geval maximaal 54.000 euro.<BR></P>  <P>Een gemeente kan niet tegelijkertijd via een interlokale vereniging en als   aparte gemeente deelnemen aan het impulsbeleid.<BR></P>  <P>§ 2. Verschillende gemeenten uit het tweetalige gebied Brussel-Hoofdstad   kunnen collectief of samen met de Vlaamse Gemeenschapscommissie een gezamenlijke   meerjarenplanning voorleggen over de wijze waarop ze, als samenwerkingsverband   zonder rechtspersoonlijkheid, een beleid op het vlak van   ontwikkelingssamenwerking zullen voeren. <BR></P>  <P>Het samenwerkingsverband, vermeld in het eerste lid, maakt daarvoor gebruik   van het standaardformulier dat op eenvoudig verzoek door de minister ter   beschikking wordt gesteld. <BR></P>  <P>De jaarlijkse subsidie bedraagt in dat geval maximaal 54.000 euro.<BR></P>  <P>Een gemeente kan niet tegelijkertijd via een dergelijk samenwerkingsverband   en als aparte gemeente deelnemen aan het impulsbeleid.<BR></P>
+...
 
 ### ART. 8.
 
-<P>§ 1. De vereiste cofinanciering wordt vastgesteld op het volgende bedrag :   <BR>1° voor de eerste beleidscyclus waarin een gemeente deelneemt aan het   impulsbeleid : een bedrag dat gelijk is aan drie vijfde van het bedrag van de   subsidie;<BR>2° voor de tweede beleidscyclus waarin een gemeente deelneemt aan   het impulsbeleid : een bedrag dat gelijk is aan het bedrag van de   subsidie.<BR></P>  <P>§ 2. In de cofinanciering, vermeld in paragraaf 1, moet door de gemeente   worden voorzien in de loop van de periode van drie jaar waarvoor de subsidie   wordt toegekend.<BR></P>  <P>Bij deelname via een interlokale vereniging of een samenwerkingsverband als   vermeld in artikel 7, § 2, kan die cofinanciering door alle deelnemende   gemeenten worden geleverd.<BR></P>  <P>§ 3. De volgende uitgaven kunnen onder meer worden aangerekend als   cofinanciering : <BR>1° eigen subsidies aan lokale verenigingen en organisaties   die actief zijn op het vlak van ontwikkelingssamenwerking;<BR>2° alle uitgaven   die verbonden zijn aan draagvlakversterking, sensibilisatie en capaciteitsopbouw   voor ontwikkelingssamenwerking in de gemeente;<BR>3° alle uitgaven die verbonden   zijn aan bestuurskrachtversterking van een partneroverheid in het Zuiden, met   inbegrip van reiskosten;<BR>4° alle uitgaven voor noodhulp aan het   Zuiden.<BR>Subsidies van andere overheden kunnen niet worden aangerekend als   cofinanciering.<BR></P>
+...
 
 ### ART. 9.
 
-De subsidie kan niet worden gebruikt door de gemeente om subsidies te   verlenen aan derden.<BR>
+...
 
 ## Afdeling 2 [... (opgeh. BVR 12 oktober 2018, art. 2, I: 1 januari 2019)]
 
 ### ART. 10.
 
-<P>&nbsp;§ 1. De gemeenten die deelnemen aan het impulsbeleid gemeentelijke   ontwikkelingssamenwerking, betrekken een erkende adviesraad   ontwikkelingssamenwerking bij hun gemeentelijke ontwikkelingssamenwerking.   <BR></P>  <P>De adviesraad wordt erkend door de gemeenteraad, die ook de wijze van   samenstelling ervan bepaalt, en mag naast ontwikkelingssamenwerking ook andere   beleidsdomeinen binnen zijn adviesbevoegdheid hebben.<BR></P>  <P>§ 2. De adviesraad brengt advies uit op verzoek van de gemeente of op eigen   initiatief. De gemeente wint in ieder geval het advies in van de adviesraad voor   elke beslissing van de gemeenteraad over : <BR>1° de onderdelen van de   strategische meerjarenplanning die betrekking hebben op   ontwikkelingssamenwerking;<BR>2° de eventuele keuze van een partneroverheid in   het Zuiden, als de gemeente overweegt om aan bestuurskrachtversterking van die   partneroverheid te doen.<BR></P>  <P>De gemeente geeft aan op welke wijze aan het advies gevolg gegeven is. Als   het advies niet gegeven wordt binnen dertig dagen na de ontvangst van de   aanvraag door de voorzitter van de adviesraad, mag aan de adviesverplichting   voorbijgegaan worden. <BR></P>  <P>§ 3. Als verschillende gemeenten met toepassing van artikel 7 samenwerken op   het vlak van ontwikkelingssamenwerking, kunnen ze ervoor kiezen om een   gezamenlijke erkende adviesraad ontwikkelingssamenwerking op te   richten.<BR></P>
+...
 
 ## Afdeling 3 [... (opgeh. BVR 12 oktober 2018, art. 2, I: 1 januari 2019)]
 
 ### ART. 11.
 
-<P>De minister kent de subsidies toe op basis van een kwalitatief   beoordelingskader, op grond waarvan de aanvragen op een eenvormige wijze worden   gequoteerd.<BR></P>  <P>Dit kwalitatieve beoordelingskader omvat de volgende criteria : <BR>1° de   overeenstemming met de beleidsprioriteit, vermeld in artikel 3;<BR>2° de   haalbaarheid en de duurzaamheid van de visie van de gemeente op   ontwikkelingssamenwerking in haar strategische meerjarenplanning;<BR>3° de   verhouding tussen het bedrag van de gevraagde subsidie en de te verwachten   resultaten.<BR></P>  <P>De minister geeft aan welk gewicht aan de verschillende criteria wordt   toegekend.<BR></P>
+...
 
 ## Afdeling 4 [... (opgeh. BVR 12 oktober 2018, art. 3, I: 1 januari 2020)]
 
@@ -82,19 +85,49 @@ De minister stelt modellen op voor : <BR>1° het formulier voor de   indiening v
 
 ### ART. 15.
 
-Binnen de perken van de daarvoor bestemde begrotingskredieten kan de   minister projectsubsidies toekennen aan initiatieven inzake   ontwikkelingseducatie. <BR>
+Binnen de perken van de daarvoor bestemde begrotingskredieten kan de minister projectsubsidies toekennen aan initiatieven inzake de verankering van de internationale ontwikkelingsagenda in Vlaanderen.
 
 ### ART. 16.
 
-De minister kan projecten alleen subsidiëren als aan de volgende   voorwaarden is voldaan : <BR>1° het projectvoorstel wordt ingediend met het   standaardformulier dat daarvoor ter beschikking wordt gesteld;<BR>2° het   projectvoorstel wordt ingediend door een samenwerkingsverband tussen een   hoofdindiener, die de eindverantwoordelijkheid heeft voor het project, en één of   meer andere publieke of private rechtspersonen uit het Nederlandse taalgebied of   het tweetalige gebied Brussel-Hoofdstad;<BR>3° het samenwerkingsverband kan   aantoonbare kennis en ervaring voorleggen op het vlak van   ontwikkelingssamenwerking en educatie;<BR>4° de partners in het   samenwerkingsband kunnen een ondertekende intentieverklaring voorleggen dat elk   van hen een inbreng van eigen middelen zal doen, op financieel, materieel,   personeel of logistiek vlak;<BR>5° de looptijd van het project bedraagt maximaal   drie jaar.<BR>
+De minister kan projecten alleen subsidiëren als aan de volgende voorwaarden is voldaan :<br>
+1° het projectvoorstel wordt ingediend met het standaardformulier dat daarvoor ter beschikking wordt gesteld;<br>
+2° het projectvoorstel wordt ingediend door een samenwerkingsverband tussen een hoofdindiener, die de eindverantwoordelijkheid heeft voor het project, en één of meer andere publieke of private rechtspersonen uit het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;<br>
+3° het samenwerkingsverband kan aantoonbare kennis en ervaring voorleggen op het vlak van de internationale ontwikkelingsagenda;<br>
+4° de partners in het samenwerkingsband kunnen een ondertekende intentieverklaring voorleggen dat elk van hen een inbreng van eigen middelen zal doen, op financieel, materieel, personeel of logistiek vlak;<br>
+5° de looptijd van het project bedraagt maximaal&nbsp;vijf jaar.
 
 ### ART. 17.
 
-<P>§ 1. De minister maakt de oproep voor de indiening van projectvoorstellen   inzake ontwikkelingseducatie bekend, samen met het daarvoor bestemde   standaardformulier.<BR></P>  <P>Hij kan prioriteiten vastleggen voor thema's van projecten of voor specifieke   doelstellingen van het beleid. Die prioriteiten worden in dat geval expliciet   vermeld in de oproep.<BR></P>  <P>§ 2. Het samenwerkingsverband verduidelijkt in het projectvoorstel : <BR>1°   de visie en uitvoeringsstrategie van het project op middellange termijn;<BR>2°   een gedetailleerde begroting;<BR>3° de noden, behoeften en karakteristieken van   de doelgroep;<BR>4° de kennis en ervaring van de partners in het   samenwerkingsverband op het vlak van ontwikkelingssamenwerking of   educatie;<BR>5° de educatieve methode die gehanteerd zal worden;<BR>6° de   strategie inzake interne voortgangscontrole en evaluatie, met vermelding van de   daarvoor gehanteerde indicatoren.<BR></P>  <P>§ 3. De periode voor het indienen van projectvoorstellen wordt afgesloten op   de laatste dag van de derde maand die volgt op de bekendmaking van de oproep.   Projectvoorstellen die na die dag worden ingediend, zijn niet   ontvankelijk.<BR></P>
+<p>§ 1. De minister maakt de oproep voor de indiening van projectvoorstellen inzake de verankering van de internationale ontwikkelingsagenda in Vlaanderen bekend, samen met het daarvoor bestemde standaardformulier.</p>
+
+<p>Hij kan prioriteiten vastleggen voor thema's van projecten of voor specifieke doelstellingen van het beleid. Die prioriteiten worden in dat geval expliciet vermeld in de oproep.</p>
+
+<p>§ 2. Het samenwerkingsverband verduidelijkt in het projectvoorstel :<br>
+1° de visie en uitvoeringsstrategie van het project op middellange termijn;<br>
+2° een gedetailleerde begroting;<br>
+3° de noden, behoeften en karakteristieken van de doelgroep;<br>
+4° de kennis en ervaring van de partners in het samenwerkingsverband op het vlak van de internationale ontwikkelingsagenda;<br>
+5° de educatieve methode die gehanteerd zal worden;<br>
+6° de strategie inzake interne voortgangscontrole en evaluatie, met vermelding van de daarvoor gehanteerde indicatoren.</p>
+
+<p>§ 3. De periode voor het indienen van projectvoorstellen wordt afgesloten op de laatste dag van de derde maand die volgt op de bekendmaking van de oproep. Projectvoorstellen die na die dag worden ingediend, zijn niet ontvankelijk.</p>
 
 ### ART. 18.
 
-<P>De minister kent de subsidies toe op basis van een kwalitatief   beoordelingskader, op grond waarvan de aanvragen op een eenvormige wijze worden   gequoteerd, en neemt zijn beslissing uiterlijk drie maanden na de afsluiting van   de indieningsperiode. <BR></P>  <P>Dit kwalitatieve beoordelingskader omvat de volgende criteria : <BR>1° de   samenstelling van het samenwerkingsverband en de meerwaarde ervan;<BR>2° de   effectieve betrokkenheid van de doelgroep;<BR>3° de relevantie van het onderwerp   vanuit het perspectief van de Noord-Zuidproblematiek, vermeld in artikel 2,   18°/1, van het kaderdecreet van 22 juni 2007 inzake   ontwikkelingssamenwerking;<BR>4° de mate van verbreding en vernieuwing;<BR>5° de   educatieve methode en de duurzaamheid van het voorstel;<BR>6° de strategie van   het samenwerkingsverband inzake interne voortgangscontrole en evaluatie;<BR>7°   de verhouding tussen het bedrag van de gevraagde subsidie en van de   verschillende begrotingsposten enerzijds, en de te verwachten resultaten   anderzijds;<BR>8° in voorkomend geval, de aandacht voor de door de minister   vastgelegde prioriteiten.<BR></P>  <P>De minister geeft in de oproep aan welk gewicht aan de verschillende criteria   wordt toegekend.<BR></P>
+<p>De minister kent de subsidies toe op basis van een kwalitatief beoordelingskader, op grond waarvan de aanvragen op een eenvormige wijze worden gequoteerd, en neemt zijn beslissing uiterlijk drie maanden na de afsluiting van de indieningsperiode.</p>
+
+<p>Dit kwalitatieve beoordelingskader omvat de volgende criteria :<br>
+1° de samenstelling van het samenwerkingsverband en de meerwaarde ervan;<br>
+2° de effectieve betrokkenheid van de doelgroep;<br>
+3° de relevantie van het onderwerp in verhouding tot de doelstellingen van de Vlaamse ontwikkelingssamenwerking, vermeld in artikel 3 van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking;<br>
+4° de mate van verbreding en vernieuwing;<br>
+5° de duurzaamheid van het voorstel;<br>
+6° de strategie van het samenwerkingsverband inzake interne voortgangscontrole en evaluatie;<br>
+7° de verhouding tussen het bedrag van de gevraagde subsidie en van de verschillende begrotingsposten enerzijds, en de te verwachten resultaten anderzijds;<br>
+8° in voorkomend geval, de aandacht voor de door de minister vastgelegde prioriteiten;<br>
+9° de overeenstemming van de activiteiten met de 2030 Agenda voor Duurzame Ontwikkeling.</p>
+
+<p>De minister geeft in de oproep aan welk gewicht aan de verschillende criteria wordt toegekend.</p>
 
 ### ART. 19.
 
@@ -104,7 +137,23 @@ Wijzigingen in aard, opzet of uitvoering die zich tijdens de looptijd van   een 
 
 ### ART. 20.
 
-<P>§ 1. De maximale inbreng door de Vlaamse overheid in een project bedraagt   60.000 euro per jaar.<BR></P>  <P>De subsidie bedraagt maximaal 85 % van de totale kosten van het project. De   overige 15 % moet door andere financieringsbronnen dan de Vlaamse overheid   worden gefinancierd.<BR></P>  <P>§ 2. Er wordt geen subsidie toegekend of uitbetaald voor de volgende uitgaven   : <BR>1° structurele financiering van algemene werkingskosten van de partners in   het samenwerkingsverband;<BR>2° fondsenwervende acties;<BR>3°   lobbyactiviteiten;<BR>4° verlengingen van projecten die al gesubsidieerd werden   door de Vlaamse overheid, als er geen vernieuwend aspect in vervat zit.<BR></P>  <P>§ 3. Voor duurzame uitrustingsgoederen kan de subsidie niet meer bedragen dan   de jaarlijkse afschrijvingswaarde. Ze moeten bovendien gerechtvaardigd zijn in   het kader van het project.<BR></P>  <P>§ 4. Binnen de begroting van een project kunnen bedragen worden overgeheveld   naar andere individuele kostensoorten als het bedrag van de overheveling niet   meer dan 10 % bedraagt van het totale subsidiebedrag. <BR></P>  <P>Na uitdrukkelijke voorafgaande schriftelijke toelating van de minister kunnen   binnen de begroting van een project bedragen worden overgeheveld naar andere   individuele kostensoorten die meer bedragen dan 10 % van het totale   subsidiebedrag.<BR></P>  <P>Die overhevelingen worden in elk geval uitdrukkelijk vermeld in de   rapportering.<BR></P>
+<p>§ 1. De maximale inbreng door de Vlaamse overheid in een project bedraagt 250.000 euro voor de volledige looptijd van het project.</p>
+
+<p>De subsidie bedraagt maximaal 85 % van de totale kosten van het project. De overige 15 % moet door andere financieringsbronnen dan de Vlaamse overheid worden gefinancierd.</p>
+
+<p>§ 2. Er wordt geen subsidie toegekend of uitbetaald voor de volgende uitgaven :<br>
+1° structurele financiering van algemene werkingskosten van de partners in het samenwerkingsverband;<br>
+2° fondsenwervende acties;<br>
+3° lobbyactiviteiten;<br>
+4° ...</p>
+
+<p>§ 3. Voor duurzame uitrustingsgoederen kan de subsidie niet meer bedragen dan de jaarlijkse afschrijvingswaarde. Ze moeten bovendien gerechtvaardigd zijn in het kader van het project.</p>
+
+<p>§ 4. Binnen de begroting van een project kunnen bedragen worden overgeheveld naar andere individuele kostensoorten als het bedrag van de overheveling niet meer dan 10 % bedraagt van het totale subsidiebedrag.</p>
+
+<p>Na uitdrukkelijke voorafgaande schriftelijke toelating van de minister kunnen binnen de begroting van een project bedragen worden overgeheveld naar andere individuele kostensoorten die meer bedragen dan 10 % van het totale subsidiebedrag.</p>
+
+<p>Die overhevelingen worden in elk geval uitdrukkelijk vermeld in de rapportering.</p>
 
 ## Onderafdeling 3 Verantwoording en uitbetaling van de projectsubsidie
 
@@ -120,51 +169,74 @@ Wijzigingen in aard, opzet of uitvoering die zich tijdens de looptijd van   een 
 
 ### ART. 23.
 
-<P>§ 1. Binnen de perken van de daarvoor bestemde begrotingskredieten kan de   minister projectsubsidies toekennen aan kortlopende actualiteitsgebonden   initiatieven inzake ontwikkelingseducatie.<BR></P>  <P>§ 2. De minister kan projecten alleen subsidiëren als aan de volgende   voorwaarden is voldaan : <BR>1° het projectvoorstel wordt ingediend met het   daarvoor bestemde standaardformulier;<BR>2° het projectvoorstel heeft een   duidelijk verband met de internationale actualiteit;<BR>3° de indiener is een   rechtspersoon zonder winstoogmerk of met sociaal oogmerk met aantoonbare kennis   en ervaring op het vlak van ontwikkelingseducatie;<BR>4° de looptijd van het   project bedraagt maximaal drie maanden.<BR></P>  <P>§ 3. De maximale inbreng door de Vlaamse overheid in een kortlopend   actualiteitsgebonden project bedraagt 12.500 euro per project.<BR></P>  <P>De subsidie bedraagt maximaal 85 % van de totale kosten van het project. De   overige 15 % moet door andere financieringsbronnen dan de Vlaamse overheid   worden gefinancierd.<BR></P>  <P>§ 4. Er wordt geen subsidie toegekend voor : <BR>1° structurele financiering   van de algemene werkingskosten van de partners in het   samenwerkingsverband;<BR>2° fondsenwervende acties;<BR>3°   lobbyactiviteiten.<BR></P>
+...
 
 ## Afdeling 3 Delegatie aan de minister
 
 ### ART. 24.
 
-De minister stelt modellen op voor : <BR>1° het formulier voor de   indiening van projectvoorstellen;<BR>2° het formulier voor de indiening van   projectvoorstellen voor kortlopende actualiteitsgebonden initiatieven inzake   ontwikkelingseducatie.<BR>
+De minister stelt modellen op voor :<br>
+1° het formulier voor de indiening van projectvoorstellen;<br>
+2° ....
 
 ## [HOOFDSTUK 3/1 Ondersteuning van inclusieve financiering (verv. BVR 12 oktober 2018, art. 13, I: 1 januari 2019)]
 
 ### ART. 24/1.
 
-§ 1. Er bestaat een Adviescomité Microfinanciering met de volgende taken :   <BR>1° het verlenen van advies aan de Vlaamse Regering over de participatie in   internationale investeringsfondsen;<BR>2° het verlenen van advies aan de   minister over de erkenning en de intrekking van de erkenning van Vlaamse   ontwikkelingsfondsen;<BR>3° het verlenen van advies aan de minister over het   toekennen van waarborgen;<BR>4° het verlenen van advies aan de minister over de   uitwinning van de waarborg;<BR>5° het uitvoeren van voortgangscontrole op   participaties en waarborgen.<BR><BR>§ 2. Het adviescomité bestaat uit de   volgende drie leden : <BR>1° een personeelslid van het Vlaams Ministerie   internationaal Vlaanderen, dat het voorzitterschap waarneemt;<BR>2° een   personeelslid dat vertrouwd is met de bepalingen van het decreet van 8 juli 2011   houdende regeling van de begroting, de boekhouding, de toekenning van subsidies   en de controle op de aanwending ervan, en de controle door het Rekenhof;<BR>3°   een externe adviseur met specifieke kennis over microfinanciering en over   internationale financiering.<BR><BR>De leden worden aangewezen door de minister   voor een duur van vijf jaar, die onbeperkt kan worden verlengd. Voor elk van de   leden wordt een plaatsvervanger aangesteld.<BR><BR>§ 3. Het adviescomité stelt   een huishoudelijk reglement op, dat door de minister wordt   goedgekeurd.
+Bij het nemen van participaties in internationale investeringsfondsen wordt rekening gehouden met zowel ontwikkelingscriteria als met economische criteria.<br>
+<br>
+Onder ontwikkelingscriteria als vermeld in het eerste lid, worden in ieder geval de volgende elementen begrepen:<br>
+1° de bijdrage van de activiteiten van het investeringsfonds aan de structurele bestrijding van de armoede in ontwikkelingslanden;<br>
+2° de beoogde doelgroep;<br>
+3° de sectoren waarin het investeringsfonds actief is;<br>
+4° de geografische afbakening van de activiteiten van het investeringsfonds;<br>
+5° de overeenstemming van de activiteiten van het investeringsfonds met de 2030 Agenda voor Duurzame Ontwikkeling.<br>
+<br>
+Onder economische criteria als vermeld in het eerste lid, worden in ieder geval de volgende elementen begrepen:<br>
+1° de institutionele opzet van het investeringsfonds;<br>
+2° het risicoprofiel van het investeringsfonds;<br>
+3° de rendementsverwachting van het investeringsfonds;<br>
+4° het beheer van het investeringsfonds;<br>
+5° de mix van de kredietportefeuille van het investeringsfonds.
 
 ### ART. 24/2.
 
-&nbsp;§ 1. De Vlaamse Regering kan, na advies van het adviescomité,   besluiten tot het nemen van een participatie in een internationaal   investeringsfonds dat inclusieve kredietverstrekkers in het Zuiden   ondersteunt.<BR><BR>§ 2. Rekening houdend met de beschikbare middelen op de   begroting en na een marktverkenning, brengt het adviescomité advies uit over het   nemen van een participatie in een internationaal investeringsfonds waarbij zowel   aan ontwikkelingscriteria als aan economische criteria aandacht wordt   besteed.<BR><BR>Onder ontwikkelingscriteria worden in ieder geval de volgende   elementen begrepen : <BR>1° de bijdrage van de activiteiten van het   investeringsfonds aan de structurele bestrijding van de armoede in het   Zuiden;<BR>2° de beoogde doelgroep;<BR>3° de sectoren waarin het   investeringsfonds actief is;<BR>4° de geografische afbakening van de   activiteiten van het investeringsfonds;<BR>5° de overeenstemming van de   activiteiten van het investeringsfonds met de beginselen van de duurzame   ontwikkeling.<BR><BR>Onder economische criteria worden in ieder geval de   volgende elementen begrepen : <BR>1° de institutionele opzet van het   investeringsfonds;<BR>2° het risicoprofiel van het investeringsfonds;<BR>3° de   rendementsverwachting van het investeringsfonds;<BR>4° het beheer van het   investeringsfonds;<BR>5° de mix van de kredietportefeuille van het   investeringsfonds.
+Bij het uitvoeren van kapitaaloverdrachten aan internationale investeringsfondsen wordt in ieder geval met volgende ontwikkelingscriteria rekening gehouden:<br>
+1° de bijdrage van de activiteiten van het investeringsfonds aan de structurele bestrijding van de armoede in ontwikkelingslanden;<br>
+2° de beoogde doelgroep;<br>
+3° de sectoren waarin het investeringsfonds actief is;<br>
+4° de geografische afbakening van de activiteiten van het investeringsfonds;<br>
+5° de overeenstemming van de activiteiten van het investeringsfonds met de 2030 Agenda voor Duurzame Ontwikkeling.
 
 ### ART. 24/3.
 
-§ 1. Alleen erkende Vlaamse ontwikkelingsfondsen komen in aanmerking voor   waarborgverlening door het Fonds Microfinanciering. De minister erkent de   Vlaamse ontwikkelingsfondsen na advies van het adviescomité.<BR><BR>Om te kunnen   worden erkend als Vlaams ontwikkelingsfonds moet de verzoekende organisatie   voldoen aan alle volgende criteria : <BR>1° ze heeft een rechtsvorm naar   Belgisch recht aangenomen;<BR>2° ze streeft statutair een sociaal doel na en   heeft geen oogmerk tot winstmaximalisatie;<BR>3° ze heeft gedurende de laatste   drie jaar onafgebroken financieringsactiviteiten ontwikkeld met kredieten,   waarborgen of participaties;<BR>4° ze heeft een geïnvesteerde portefeuille in   microfinanciering in het Zuiden die minstens 500.000 euro bedraagt.<BR><BR>§ 2.   De erkenning als Vlaams ontwikkelingsfonds is vijf jaar geldig en is   hernieuwbaar.<BR><BR>§ 3. De erkenning wordt van rechtswege ingetrokken als de   organisatie haar financieringsactiviteiten staakt, als ze ontbonden of vereffend   wordt, als ze haar fonds overdraagt, of als de geïnvesteerde portefeuille in   microfinanciering in het Zuiden niet langer minstens 500.000 euro   bedraagt.<BR><BR>De minister kan, op advies van het adviescomité en nadat de   organisatie de mogelijkheid werd geboden om te worden gehoord, de erkenning als   Vlaams ontwikkelingsfonds intrekken of schorsen in geval van een veroordeling of   ernstige verdenkingen ten opzichte van het ontwikkelingsfonds of zijn   bestuurders.
+Het personeelslid dat met de leiding van de DAB Fonds Inclusieve Financiering wordt belast, of zijn plaatsvervanger, wordt aangesteld als gedelegeerd ordonnateur van de voormelde DAB.<br>
+<br>
+De gedelegeerde ordonnateur is gemachtigd om, binnen de delegatie die aan hem verleend is, alle verbintenissen aan te gaan die noodzakelijk zijn om de opdracht van de DAB Fonds Inclusieve Financiering te realiseren.
 
 ### ART. 24/4.
 
-§ 1. Een Vlaams ontwikkelingsfonds kan de volgende vormen van waarborgen   verkrijgen van het Fonds Microfinanciering : <BR>1° een waarborg voor een   directe kredietverlening door het Vlaamse ontwikkelingsfonds aan een inclusieve   kredietverstrekker in het Zuiden;<BR>2° een tegenwaarborg voor een bankgarantie   of een met een garantiebrief verstrekte waarborg die in opdracht en voor   rekening van een Vlaams ontwikkelingsfonds aan een derde partij gesteld werd in   het kader van de financiering van een inclusieve kredietverstrekker in het   Zuiden;<BR>3° een waarborg voor een participatie in het kapitaal van een   inclusieve kredietverstrekker in het Zuiden.<BR><BR>§ 2. Bij het verlenen van   een tegenwaarborg voor een bankgarantie of waarborg aan een inclusieve   kredietverstrekker in het Zuiden als vermeld in paragraaf 1, 2°, gelden de   volgende regels : <BR>1° de garantiebrief vermeldt dat de waarborg betrekking   heeft op de bankgaranties die in opdracht en voor rekening van de waarborgnemer   zijn gesteld aan een derde partij in het kader van een financiering aan een   inclusieve kredietverstrekker in het Zuiden;<BR>2° het risico dat de garantie   wordt opgevorderd, is gedekt als die opvordering te wijten is aan een   commercieel risico met betrekking tot de inclusieve kredietverstrekker in het   Zuiden, of aan een politiek risico;<BR>3° de dekking vangt aan op de datum van   de inwerkingtreding van de bankgarantie. Het recht op uitwinning ontstaat op de   dag waarop het Vlaamse ontwikkelingsfonds wordt gedebiteerd door de bank die de   opgevorderde bankgarantie heeft gesteld of een contragarantie ervoor heeft   verleend;<BR>4° het Vlaamse ontwikkelingsfonds zorgt ervoor dat de   garantiestellingen of soortgelijke verbintenissen : <BR>a) niet op eerste   verzoek en zonder rechtvaardiging kunnen worden opgevorderd;<BR>b) niet kunnen   worden verlengd naar goeddunken van de begunstigde;<BR>c) automatisch worden   verminderd, afhankelijk van de terugbetaling, als ze betrekking hebben op een   bankkrediet met gespreide terugbetaling, waarbij die degressie zowel in het   waarborgcontract als in de eigenlijke garantiebrief wordt vastgelegd.<BR><BR>Bij   het verlenen van een waarborg voor een participatie in het kapitaal van een   inclusieve kredietverstrekker in het Zuiden als vermeld in paragraaf 1, 3°,   komen de volgende participatievormen in aanmerking : <BR>1° de deelname in het   kapitaal van een inclusieve kredietverstrekker in het Zuiden, waarbij de te   waarborgen inbreng alleen in cash of andere financiële activa gedaan   wordt;<BR>2° met investeringen gelijk te stellen leningen, wat inhoudt dat het   Vlaamse ontwikkelingsfonds als leninggever een ondernemingsrisico aanvaardt,   onder meer doordat de leningen het karakter van achtergestelde, al dan niet in   kapitaal converteerbare; leningen hebben;<BR>3° herinvestering van winsten.   <BR><BR>§ 3. De inclusieve kredietverstrekker in het Zuiden voldoet aan de   volgende voorwaarden : <BR>1° het gaat om een entiteit waarvan de   rechtspersoonlijkheid wordt erkend in de staat waarin ze haar activiteiten   ontplooit;<BR>2° de entiteit kan aan de hand van werkingsverslagen aantonen dat   ze minstens drie jaar actief is op het gebied van microfinanciering voor arme en   achtergestelde groepen;<BR>3° de entiteit legt boekhoudkundige verslagen over de   laatste twee boekjaren voor.
+...
 
 ### ART. 24/5.
 
-§ 1. De waarborgen hebben betrekking op politieke en commerciële risico's,   voor de dekkingspercentages, vermeld in paragraaf 2 en 3.<BR><BR>Het Vlaamse   ontwikkelingsfonds houdt het gedeelte van de transactie dat niet door de   waarborg van het Fonds Microfinanciering gedekt is, voor eigen   rekening.<BR><BR>§ 2. Het maximale dekkingspercentage voor politieke risico's   bedraagt 95 %.<BR><BR>Politieke risico's zijn gebeurtenissen die zich in het   buitenland voordoen en die voor het Vlaamse ontwikkelingsfonds of voor de   inclusieve kredietverstrekker in het Zuiden als een geval van overmacht worden   beschouwd. Het gaat meer bepaald om : <BR>1° politieke gebeurtenissen, zoals   oorlogen, revoluties en opstanden;<BR>2° rampen, zoals aardbevingen,   vulkaanuitbarstingen, grootschalige overstromingen of tsunami's;<BR>3°   handelingen, beslissingen of het in gebreke blijven van overheidsinstanties, die   als overheidsmaatregelen worden beschouwd.<BR><BR>§ 3. Het maximale   dekkingspercentage voor commerciële risico's bedraagt 50 %.<BR><BR>Commerciële   risico's zijn : <BR>1° de bewezen insolventie van de inclusieve   kredietverstrekker in het Zuiden, die kan worden vastgesteld : <BR>a) in rechte,   in geval van faillietverklaring, minnelijk of gerechtelijk akkoord, of een   rechterlijke beslissing van gelijke strekking, die de opschorting van   persoonlijke rechtsvorderingen tot gevolg heeft;<BR>b) in feite, als het Vlaamse   ontwikkelingsfonds aantoont dat de toestand van de inclusieve kredietverstrekker   in het Zuiden elke betaling onwaarschijnlijk maakt en dat een gedwongen   tenuitvoerlegging of faillissementsaanvraag het risico op een groter verlies   inhoudt.<BR>2° het in gebreke blijven van de inclusieve kredietverstrekker in   het Zuiden doordat hij niet in staat is zijn verplichtingen na te komen of er   zich zonder wettige reden aan onttrekt.<BR><BR>§ 4. Geen enkel verlies geeft   aanleiding tot uitwinning als dat verlies, naast de gedekte oorzaken, vermeld in   paragraaf 2 en 3, namelijk commercieel en politiek risico, ook te wijten is aan   een fout van het Vlaamse ontwikkelingsfonds of van elke persoon voor wie dat   ontwikkelingsfonds aansprakelijk is.<BR><BR>§ 5. Het Fonds Microfinanciering   neemt alleen de hoofdsom in de dekking op.<BR><BR>De terugbetalingen door de   inclusieve kredietverstrekker in het Zuiden aan het Vlaamse waarborgfonds komen   in mindering van de verbintenis van het Fonds Microfinanciering.
+...
 
 ### ART. 24/6.
 
-§ 1. De minister beslist, na advies van het adviescomité, over elke   toekenning van een waarborgverlening waarvoor een Vlaams ontwikkelingsfonds een   aanvraag heeft ingediend.<BR><BR>Een aanvraag wordt schriftelijk ingediend bij   het adviescomité en heeft betrekking op een transactie van minstens 50.000   euro.<BR><BR>§ 2. Een aanvraag bevat de volgende elementen : <BR>1° het type   transactie waarvoor een waarborg wordt gevraagd;<BR>2° de inclusieve   kredietverstrekker in het Zuiden die de debiteur is van die transactie;<BR>3°   het bedrag van de waarborgstelling die het Vlaamse ontwikkelingsfonds   verlangt;<BR>4° de looptijd van de waarborgstelling;<BR>5° het voorstel van   financieringscontract tussen het Vlaamse ontwikkelingsfonds en de inclusieve   kredietverstrekker in het Zuiden voor de gedekte transactie;<BR>6° documentatie   op het vlak van de kredietwaardigheid van de inclusieve kredietverstrekker in   het Zuiden, zoals : <BR>a) een kopie van de officiële akte van oprichting;<BR>b)   de twee meest recente werkingsverslagen;<BR>c) de twee meest recente   boekhoudkundige verslagen;<BR>d) een actueel financieel verslag, met inbegrip   van de balans en de resultatenrekening;<BR>e) een actueel portefeuilleverslag,   gebaseerd op de portfolio-at-riskberekeningswijze;<BR>7° een werkplan dat   aantoont dat de transactie de toegang tot financiële diensten verbetert voor   arme en achtergestelde groepen.<BR><BR>Het adviescomité kan op elk moment   aanvullende documenten en informatie opvragen bij het Vlaamse   ontwikkelingsfonds.<BR><BR>§ 3. Het adviescomité baseert zijn advies op de   volgende criteria : <BR>1° de kredietwaardigheid van de inclusieve   kredietverstrekker in het Zuiden;<BR>2° de omvang van de voorgestelde transactie   en andere lopende waarborgen voor transacties naar de inclusieve   kredietverstrekker in het Zuiden, in verhouding tot diens balanstotaal;<BR>3° de   mate waarin de transactie de toegang van arme en achtergestelde groepen tot   financiële diensten verbetert;<BR>4° de inschatting van de specifieke politieke   en commerciële risico's;<BR>5° het verband met het prioritaire gebied van de   Vlaamse ontwikkelingssamenwerking.
+...
 
 ### ART. 24/7.
 
-§ 1. De verlening van een waarborg door het Fonds Microfinanciering is   afhankelijk van de betaling van een eenmalige premie door het indienende Vlaamse   ontwikkelingsfonds van 0,25 % op het bedrag van de transactie, vermeerderd met   een jaarlijkse premie van 0,25 %, te berekenen op het openstaande saldo van het   transactiebedrag aan het begin van het jaar in kwestie.<BR><BR>Het Vlaamse   ontwikkelingsfonds stort de eenmalige premie, samen met de eerste jaarlijkse   premie, binnen een maand na de betekening van het ministerieel besluit tot   waarborgverlening op straffe van intrekking van de verleende waarborg.<BR><BR>§   2. Het Vlaamse ontwikkelingsfonds heeft de volgende verplichtingen : <BR>1° het   betaalt tijdig de waarborgpremie, vermeld in paragraaf 1;<BR>2° het rapporteert   jaarlijks aan het adviescomité over de activiteiten van de inclusieve   kredietverstrekker in het Zuiden;<BR>3° het breng het adviescomité zonder   uitstel op de hoogte van elke dreigende schade en van elke gebeurtenis die een   invloed kan hebben op het risico, zoals een verslechtering van de financiële   toestand van de inclusieve kredietverstrekker in het Zuiden;<BR>4° het brengt   het adviescomité zonder uitstel op de hoogte van elke aanvraag tot   faillissement, gerechtelijk akkoord of een soortgelijke procedure ten aanzien   van het Vlaamse ontwikkelingsfonds.<BR><BR>§ 3. De waarborg vervalt van   rechtswege als : <BR>1° de erkenning van het Vlaamse ontwikkelingsfonds conform   artikel 24/3 wordt ingetrokken of niet wordt verlengd;<BR>2° het   financieringscontract tussen het Vlaamse ontwikkelingsfonds en de inclusieve   kredietverstrekker in het Zuiden niet in werking is getreden binnen zes maanden   na de uitreiking van de waarborg;<BR>3° de waarborgpremie, vermeld in paragraaf   1, niet binnen een maand na uitreiking van de waarborg door het Vlaamse   ontwikkelingsfonds betaald wordt.
+...
 
 ### ART. 24/8.
 
-§ 1. De minister beslist, na advies van het adviescomité, over elke   betaling die het Fonds Microfinanciering doet in het kader van de uitwinning van   de waarborg.<BR><BR>§ 2. Iedere betaling door het Fonds Microfinanciering aan   een Vlaams ontwikkelingsfonds is afhankelijk van een aanvraag tot uitwinning,   gericht aan het adviescomité, en van de inzending van alle inlichtingen en   documenten die nodig zijn als bewijs van het recht op uitwinning van de   waarborg.<BR><BR>§ 3. Naast de boekhouding kunnen de bewijzen waaruit het recht   op uitwinning moet blijken, onder meer bestaan uit : <BR>1° in geval van   onteigening en overheidsmaatregelen : wetten, decreten, besluiten en   verordeningen van het gastland;<BR>2° in geval van oorlog : verklaring van de   Federale Overheidsdienst Buitenlandse Zaken, Buitenlandse Handel en   Ontwikkelingssamenwerking.<BR><BR>§ 4. De berekening van het te betalen bedrag   bestaat uit de volgende elementen : <BR>1° aan debetzijde : het niet-betaalde   bedrag van de vordering waarop het schadegeval betrekking heeft;<BR>2° aan   creditzijde : elk bedrag dat werd verkregen in verband met de gedekte vordering   en dat niet werd toegerekend aan de vordering, vermeld in het debet.<BR><BR>Het   bedrag van de uitwinning wordt berekend met toepassing van het toegekende   dekkingspercentage op het saldo van de berekening.
+...
 
 ### ART. 24/9.
 
-Het personeelslid dat met de leiding van de DAB Fonds Microfinanciering   wordt belast of zijn plaatsvervanger wordt aangesteld als gedelegeerd   ordonnateur van de DAB. <BR><BR>De gedelegeerde ordonnateur is gemachtigd om,   binnen de delegatie die aan hem verleend is, alle verbintenissen aan te gaan die   noodzakelijk zijn voor de realisatie van de opdracht van de DAB Fonds   Microfinanciering.
+...
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
