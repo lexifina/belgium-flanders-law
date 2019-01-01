@@ -10,13 +10,28 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />2° VLAM: het "Vlaams Centrum voor Agro- en Visserijmarketing", opgericht op 22 september 1994 als vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br /><br />3° sector: verzameling van organisaties die een of meer productgroepen vertegenwoordigen in het economische proces;<br /><br />4° sectorgroep: sectoraal overlegorgaan binnen de VLAM-structuur;<br /><br />5° productgroep: verzameling van producten die een zekere economische samenhang vertonen;<br /><br />6° marktdeelnemer: al wie betrokken is in het economische proces van productie, verwerking, distributie en verhandeling van een bepaald product;<br /><br />7° categorie van marktdeelnemers: verzameling van marktdeelnemers die een zekere economische samenhang vertoont.
+In dit decreet wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° VLAM: het "Vlaams Centrum voor Agro- en Visserijmarketing", opgericht op 22 september 1994 als vereniging zonder winstoogmerk overeenkomstig de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen;<br>
+3° sector: verzameling van organisaties die een of meer productgroepen vertegenwoordigen in het economische proces;<br>
+4° sectorgroep: sectoraal overlegorgaan binnen de VLAM-structuur;<br>
+5° productgroep: verzameling van producten die een zekere economische samenhang vertonen;<br>
+6° marktdeelnemer: al wie betrokken is in het economische proces van productie, verwerking, distributie en verhandeling van een bepaald product;<br>
+7° categorie van marktdeelnemers: verzameling van marktdeelnemers die een zekere economische samenhang vertoont.
 
 ## HOOFDSTUK III OPRICHTING ALS PRIVAATRECHTELIJK VORMGEGEVEN EXTERN VERZELFSTANDIGD AGENTSCHAP
 
 ### ART. 3.
 
-VLAM is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als bedoeld in artikel 29 van het kaderdecreet.<br /><br />Het juridische statuut van VLAM is een vereniging zonder winstoogmerk in de zin van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br /><br />De Vlaamse regering wordt gemachtigd toe te treden tot en deel te nemen aan de werking van VLAM.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.<br /><br />De Vlaamse regering bepaalt tot welk beleidsdomein het agentschap behoort.
+VLAM is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als bedoeld in artikel III.14 van het Bestuursdecreet.<br>
+<br>
+Het juridische statuut van VLAM is een vereniging zonder winstoogmerk in de zin van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br>
+<br>
+De Vlaamse regering wordt gemachtigd toe te treden tot en deel te nemen aan de werking van VLAM.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap.<br>
+<br>
+De Vlaamse regering bepaalt tot welk beleidsdomein het agentschap behoort.
 
 ## HOOFDSTUK IV MISSIE EN TAKEN
 
@@ -62,7 +77,7 @@ VLAM heeft als enige organisatie in Vlaanderen het recht om verplichte bijdragen
 
 ### ART. 12.
 
-De Vlaamse regering is gemachtigd om personeelsleden van de Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's, zoals bepaald in het kaderdecreet, ter beschikking te stellen van VLAM.
+De Vlaamse regering is gemachtigd om personeelsleden van de Vlaamse ministeries, IVA's met rechtspersoonlijkheid en publiekrechtelijke EVA's, ter beschikking te stellen van VLAM.
 
 ### ART. 13.
 
