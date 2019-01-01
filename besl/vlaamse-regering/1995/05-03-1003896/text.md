@@ -54,7 +54,7 @@ De uitbetaling van de subsidies zal geschieden na voorlegging van:<br /><br />a)
 
 ### ART. 12.
 
-§ 1. Onverminderd de bevoegdheden van het Rekenhof kan de administratie op ieder ogenblik toegang hebben tot alle documenten en welkdanige informatie ook die betrekking hebben op de uitvoering van dit besluit.<br /><br />§ 2. Het centrum verbindt er zich toe terzake alle medewerking te verlenen.
+...
 
 ## HOOFDSTUK V SLOTBEPALINGEN
 
