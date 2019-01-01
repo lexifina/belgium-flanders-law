@@ -34,7 +34,11 @@ Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   vol
 
 ### ART. 5.
 
-<P>Er wordt geen steun verleend aan ondernemingen die niet voldoen aan de   regelgeving die van toepassing is in het Vlaamse Gewest.<BR><BR>De onderneming   mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden   hebben bij de Rijksdienst voor Sociale Zekerheid, geen onderneming in   moeilijkheden zijn als vermeld in artikel 2, punt 18, van de algemene   vrijstellingsverordening, en geen procedure op basis van Europees of nationaal   recht hebben lopen waarbij een toegekende steun wordt   teruggevorderd.</P>
+<p>Er wordt geen steun verleend aan ondernemingen die niet voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest.<br>
+<br>
+De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+<br>
+In afwijking van het tweede lid geldt de voorwaarde over ondernemingen in moeilijkheden niet voor een starter als vermeld in artikel 22, 2, van de algemene groepsvrijstellingsverordening. Het maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, wordt alleen toegepast als dat lager is dan de maximale steunintensiteit, vermeld in dit besluit en de uitvoeringsbesluiten ervan.</p>
 
 ### ART. 6.
 
@@ -46,7 +50,17 @@ Met behoud van de toepassing van artikel 14, punt 5, van de algemene   vrijstell
 
 ### ART. 8.
 
-<P>§ 1. Een individuele onderneming of minstens drie samenwerkende ondernemingen   kunnen om de twaalf maanden een dossier indienen dat zowel een luik met   opleidingen, als een luik met investeringen moet bevatten die verband houden met   het door te voeren transformatieproject. <BR></P>  <P>Elk ingediend transformatieproject moet een afgelijnd geheel vormen en moet   de uitvoering zijn van een aparte strategische beslissing van de onderneming of   van meerdere ondernemingen die gaan samenwerken. <BR></P>  <P>De samenwerkende ondernemingen mogen geen partner- of verbonden ondernemingen   zijn in de zin van de definitie van kleine en middelgrote ondernemingen, vermeld   in bijlage I van de algemene vrijstellingsverordening. <BR></P>  <P>§ 2. Bij de beslissing wordt een steunbedrag toegekend dat bestaat uit een   basissteun voor het transformatieproject, eventueel verhoogd met een bonussteun   voor de bijkomende tewerkstelling. <BR></P>  <P>Met behoud van de toepassing van artikel 9 bedraagt het plafond voor de   totale basissteun, bestaande uit de som van de basissteun voor het in aanmerking   komende opleidingsbedrag en de basissteun voor het in aanmerking komende   investeringsbedrag, een miljoen euro (1.000.000 euro) per aanvragende   onderneming. <BR></P>  <P>De steun wordt proportioneel verdeeld over de begunstigde ondernemingen op   basis van het in aanmerking komende opleidingsbedrag en het in aanmerking   komende investeringsbedrag per begunstigde onderneming, zoals die worden bepaald   door het Agentschap Innoveren en Ondernemen.<BR></P>
+<p>§ 1. Een individuele onderneming of minstens drie samenwerkende ondernemingen kunnen per kalenderjaar meerdere dossiers indienen die zowel een luik met opleidingen, als een luik met investeringen moet bevatten die verband houden met het door te voeren transformatieproject.</p>
+
+<p>Elk ingediend transformatieproject moet een afgelijnd geheel vormen en moet de uitvoering zijn van een aparte strategische beslissing van de onderneming of van meerdere ondernemingen die gaan samenwerken. De ondernemingen, vermeld in het eerste lid, kunnen maximaal een keer per transformatieproject een dossier indienen.</p>
+
+<p>De samenwerkende ondernemingen mogen geen partner- of verbonden ondernemingen zijn in de zin van de definitie van kleine en middelgrote ondernemingen, vermeld in bijlage I van de algemene vrijstellingsverordening.</p>
+
+<p>§ 2. Bij de beslissing wordt een steunbedrag toegekend dat bestaat uit een basissteun voor het transformatieproject, eventueel verhoogd met een bonussteun voor de bijkomende tewerkstelling.</p>
+
+<p>Met behoud van de toepassing van artikel 9 bedraagt het plafond voor de totale basissteun, bestaande uit de som van de basissteun voor het in aanmerking komende opleidingsbedrag en de basissteun voor het in aanmerking komende investeringsbedrag, een miljoen euro (1.000.000 euro) per aanvragende onderneming en per kalenderjaar.</p>
+
+<p>De steun wordt proportioneel verdeeld over de begunstigde ondernemingen op basis van het in aanmerking komende opleidingsbedrag en het in aanmerking komende investeringsbedrag per begunstigde onderneming, zoals die worden bepaald door het Agentschap Innoveren en Ondernemen.</p>
 
 ### ART. 9.
 
@@ -118,7 +132,16 @@ De kosten die maximaal in aanmerking komen, zijn die welke zijn opgenomen   in a
 
 ### ART. 21.
 
-<P>De aanvraag tot toekenning van steun is ontvankelijk als cumulatief aan de   volgende voorwaarden is voldaan :<BR>1° het dossier is volledig;<BR>2° bij het   aanvraagformulier is een kwalitatief transformatieplan met een opleidingsluik   gevoegd dat, voor zover in de onderneming een ondernemingsraad aanwezig is, aan   de ondernemingsraad is voorgelegd;<BR>3° de aanvragende onderneming beschikt   over voldoende financieringscapaciteit op basis van een geloofwaardig financieel   plan en zij is financieel gezond op basis van de berekende solvabiliteitsratio   en ratio liquiditeit in de ruime zin;<BR>4° de onderneming beschikt over een   kwalitatief transformatieplan;<BR>5° het transformatieproject valt op afdoende   wijze binnen het beoogde toepassingsgebied van dit besluit. <BR></P>  <P>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat   de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het   opleidingsluik. Enkel het additionele gedeelte van de opleidingen dat essentieel   is voor het kunnen doorvoeren van het totale transformatieproject, komt in   aanmerking.<BR></P>  <P>De minister kan de uitvoeringsvoorwaarden van de ontvankelijkheidscriteria,   vermeld in het eerste en het tweede lid, bepalen. <BR></P>
+<p>De aanvraag tot toekenning van steun is ontvankelijk als cumulatief aan de volgende voorwaarden is voldaan :<br>
+1° het dossier is volledig;<br>
+2° bij het aanvraagformulier is een kwalitatief transformatieplan met een opleidingsluik gevoegd dat, voor zover in de onderneming een ondernemingsraad aanwezig is, aan de ondernemingsraad is voorgelegd;<br>
+3° de aanvragende onderneming beschikt over voldoende financieringscapaciteit op basis van een geloofwaardig financieel plan;<br>
+4° de onderneming beschikt over een kwalitatief transformatieplan;<br>
+5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit.</p>
+
+<p>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het opleidingsluik. Enkel het additionele gedeelte van de opleidingen dat essentieel is voor het kunnen doorvoeren van het totale transformatieproject, komt in aanmerking.</p>
+
+<p>De minister kan de uitvoeringsvoorwaarden van de ontvankelijkheidscriteria, vermeld in het eerste en het tweede lid, bepalen.</p>
 
 ## Onderafdeling 3 Beoordelingscriteria
 
@@ -204,7 +227,16 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 36.
 
-<P>De aanvraag tot toekenning van steun is ontvankelijk als cumulatief aan de   volgende voorwaarden is voldaan :<BR>1° het dossier is volledig;<BR>2° bij het   aanvraagformulier is een kwalitatief transformatieplan met een investeringsluik   gevoegd;<BR>3° de aanvragende onderneming beschikt over voldoende   financieringscapaciteit op basis van een geloofwaardig financieel plan en zij is   financieel gezond op basis van de berekende solvabiliteitsratio en ratio   liquiditeit in de ruime zin;<BR>4° de onderneming beschikt over een kwalitatief   transformatieplan; <BR>5° het transformatieproject valt op afdoende wijze binnen   het beoogde toepassingsgebied van dit besluit. <BR></P>  <P>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat   de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het   investeringsluik. Enkel het additionele gedeelte van de investeringen dat   essentieel is voor het kunnen doorvoeren van het totale transformatieproject,   komt in aanmerking. Grote ondernemingen moeten aantonen dat de steun hun   lokalisatiegedrag naar de regionale steungebieden beïnvloedt.<BR></P>  <P>De minister kan de uitvoeringsvoorwaarden van de ontvankelijkheidscriteria,   vermeld in het eerste en het tweede lid, bepalen. <BR></P>
+<p>De aanvraag tot toekenning van steun is ontvankelijk als cumulatief aan de volgende voorwaarden is voldaan :<br>
+1° het dossier is volledig;<br>
+2° bij het aanvraagformulier is een kwalitatief transformatieplan met een investeringsluik gevoegd;<br>
+3° de aanvragende onderneming beschikt over voldoende financieringscapaciteit op basis van een geloofwaardig financieel plan;<br>
+4° de onderneming beschikt over een kwalitatief transformatieplan;<br>
+5° het transformatieproject valt op afdoende wijze binnen het beoogde toepassingsgebied van dit besluit.</p>
+
+<p>De aanvragende onderneming toont in het bijgevoegde transformatieplan aan dat de aangevraagde steun noodzakelijk is en een stimulerend effect heeft voor het investeringsluik. Enkel het additionele gedeelte van de investeringen dat essentieel is voor het kunnen doorvoeren van het totale transformatieproject, komt in aanmerking. Grote ondernemingen moeten aantonen dat de steun hun lokalisatiegedrag naar de regionale steungebieden beïnvloedt.</p>
+
+<p>De minister kan de uitvoeringsvoorwaarden van de ontvankelijkheidscriteria, vermeld in het eerste en het tweede lid, bepalen.</p>
 
 ## Onderafdeling 3 Beoordelingscriteria
 
@@ -226,15 +258,33 @@ De steun wordt toegekend in de vorm van een basissteun voor het   transformatiep
 
 ### ART. 40.
 
-<P>De basissteun wordt aan de onderneming uitbetaald in drie schijven :<BR>1°   een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot   toekenning van de steun uitbetaald, op voorwaarde dat de onderneming :<BR>a) de   uitbetaling van de schijf aanvraagt;<BR>b) het transformatieproject voor 30%   heeft gerealiseerd;<BR>2° een bedrag van 30 % wordt op zijn vroegst dertig dagen   na de beslissing tot toekenning van de steun uitbetaald, op voorwaarde dat de   onderneming :<BR>a) de uitbetaling van de schijf aanvraagt;<BR>b) verklaart dat   het transformatieproject voor 60 % is gerealiseerd;<BR>3° een resterend bedrag   van 40 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van   de steun uitbetaald, na de volledige realisatie van het transformatieproject, op   voorwaarde dat :<BR>a) de onderneming de uitbetaling van de schijf   aanvraagt;<BR>b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft   gehad om vast te stellen dat :<BR>1) de in aanmerking komende   transformatieopleidingen volledig zijn gerealiseerd; <BR>2) de in aanmerking   komende transformatie-investeringen volledig zijn gerealiseerd en deze   investeringen in en door de aanvragende onderneming worden geëxploiteerd;<BR>3)   er geen achterstallige schulden zijn vastgesteld bij de Rijksdienst voor Sociale   Zekerheid en in het kader van steunmaatregelen met toepassing van het decreet   van 16 maart 2012. Als de onderneming achterstallige schulden heeft, wordt de   uitbetaling opgeschort tot ze het bewijs levert dat die schulden werden   aangezuiverd;<BR>4) de op het moment van de steuntoekenning vastgelegde   aanvangstewerkstelling minstens behouden blijft. In geval van daling van de   aanvangstewerkstelling wordt de volledige steun pro rata verminderd;<BR>5) aan   alle voorwaarden, vermeld in het decreet van 16 maart 2012 en in dit besluit, is   voldaan.<BR></P>  <P>Als de opleidingen of investeringen, vermeld in punt 3°, b), 1) en 2), niet   volledig zijn gerealiseerd, wordt de steun voor de opleidingen of investeringen   pro rata verminderd. <BR></P>
+<p>De basissteun wordt aan de onderneming uitbetaald in drie schijven :<br>
+1° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, op voorwaarde dat de onderneming :<br>
+a) de uitbetaling van de schijf aanvraagt;<br>
+b) het transformatieproject voor 30% heeft gerealiseerd;<br>
+2° een bedrag van 30 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, op voorwaarde dat de onderneming :<br>
+a) de uitbetaling van de schijf aanvraagt;<br>
+b) verklaart dat het transformatieproject voor 60 % is gerealiseerd;<br>
+3° een resterend bedrag van 40 % wordt op zijn vroegst dertig dagen na de beslissing tot toekenning van de steun uitbetaald, na de volledige realisatie van het transformatieproject, op voorwaarde dat :<br>
+a) de onderneming de uitbetaling van de schijf aanvraagt;<br>
+b) het Agentschap Innoveren en Ondernemen de mogelijkheid heeft gehad om vast te stellen dat :<br>
+1) de in aanmerking komende transformatieopleidingen volledig zijn gerealiseerd;<br>
+2) de in aanmerking komende transformatie-investeringen volledig zijn gerealiseerd en deze investeringen in en door de aanvragende onderneming worden geëxploiteerd;<br>
+3) ...;<br>
+4) de op het moment van de steuntoekenning vastgelegde aanvangstewerkstelling minstens behouden blijft. In geval van daling van de aanvangstewerkstelling wordt de volledige steun pro rata verminderd;<br>
+5) aan alle voorwaarden, vermeld in het decreet van 16 maart 2012 en in dit besluit, is voldaan.</p>
+
+<p>Als de opleidingen of investeringen, vermeld in punt 3°, b), 1) en 2), niet volledig zijn gerealiseerd, wordt de steun voor de opleidingen of investeringen pro rata verminderd.</p>
 
 ### ART. 41.
 
-<P>De bonussteun, vermeld in artikel 18 en 33, voor de bijkomende tewerkstelling   wordt achteraf in een keer aan de onderneming uitbetaald na overlegging van het   bewijs van realisatie van de beloofde bijkomende tewerkstelling en het bewijs   dat de onderneming geen achterstallige schulden heeft bij de Rijksdienst voor   Sociale Zekerheid.<BR></P>  <P>Als de vooropgestelde tewerkstellingsvooruitzichten niet of niet volledig   worden gerealiseerd, kan de bonussteun respectievelijk niet worden uitbetaald of   trapsgewijs worden verminderd, op basis van een door de minister opgesteld   schema.<BR></P>
+<p>De bonussteun, vermeld in artikel 18 en 33, voor de bijkomende tewerkstelling wordt achteraf in een keer aan de onderneming uitbetaald na overlegging van het bewijs van realisatie van de beloofde bijkomende tewerkstelling.</p>
+
+<p>Als de vooropgestelde tewerkstellingsvooruitzichten niet of niet volledig worden gerealiseerd, kan de bonussteun respectievelijk niet worden uitbetaald of trapsgewijs worden verminderd, op basis van een door de minister opgesteld schema.</p>
 
 ### ART. 41/1.
 
-Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op   basis van Europees of nationaal recht hebben lopen waarbij een toegekende steun   wordt teruggevorderd.
+Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd. Als er een procedure tot terugvordering loopt, wordt de uitbetaling van de subsidie opgeschort tot de onderneming het bewijs levert dat het terug te vorderen bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 42.
 
