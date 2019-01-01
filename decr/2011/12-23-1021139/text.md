@@ -622,7 +622,8 @@ Artikel 78 van het decreet van 23 december 2010 houdende bepalingen tot begeleid
 
 ### ART. 58.
 
-Bij het beleidsdomein RWO wordt een Dienst met Afzonderlijk Beheer opgericht met als naam « Fonds ter bestrijding van de uithuiszettingen », hierna het Fonds genoemd.<br /><br />
+Bij het&nbsp;beleidsdomein Omgeving wordt een Dienst met Afzonderlijk Beheer opgericht met als naam « Fonds ter bestrijding van de uithuiszettingen », hierna het Fonds genoemd.<br>
+&nbsp;
 
 ### ART. 59.
 
@@ -634,7 +635,10 @@ De middelen van het Fonds zijn :<br />1° een dotatie ten laste van de algemene 
 
 ### ART. 61.
 
-De middelen van het Fonds kunnen aangewend worden om uitgaven te financieren verbonden aan :<br />1° het verstrekken van subsidies aan de verhuurders of huurders die voldoen aan de voorwaarden voor het bekomen van de tegemoetkoming, zoals die bepaald worden door de Vlaamse Regering;<br />2° de werkingskosten eigen aan het Fonds.<br /><br />
+De middelen van het Fonds kunnen aangewend worden om uitgaven te financieren verbonden aan :<br>
+1° het verstrekken van subsidies aan de verhuurders of huurders en aan tussenpersonen die voldoen aan de voorwaarden voor het bekomen van de tegemoetkoming, zoals die bepaald worden door de Vlaamse Regering;<br>
+2° de werkingskosten eigen aan het Fonds.<br>
+&nbsp;
 
 ## HOOFDSTUK 10 Vlaams Stedenfonds
 
@@ -674,7 +678,7 @@ In artikel 78 van het decreet van 22 december 2006 houdende bepalingen tot begel
 
 ### ART. 69.
 
-Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in artikel 3 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof met als naam « digitale drukkerij » die belast wordt met het drukwerk.<br /><br />De tegoeden, financiële schulden, openstaande vastleggingen en vorderingen van de intendance-rekening 'BFO 8B0920 IVA Facilitair Management' en 'BFO BF50301' worden overgedragen aan de dienst met afzonderlijk beheer.<br /><br />De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financieel en materieel beheer van de dienst met afzonderlijk beheer Digitale Drukkerij.<br /><br />
+...
 
 ## HOOFDSTUK 14 IVA Stationsomgevingen
 
