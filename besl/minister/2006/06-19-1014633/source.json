@@ -2,16 +2,16 @@
   "codex_id": 1014633,
   "title": "Ministerieel besluit van 2006-06-19 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014633/VolledigDocument?datum=2006-07-04",
-  "source_sha256": "cda2d4b86dfa9fcd81946db2d20b4376949f9985eae44cac7540109d54da7ac2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014633/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "d0e559abf6559363e706ec0feda0a07d5c2cc3a9844c09f5dce536c251be7ce7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014633&param=informatie",
-  "as_of": "2006-07-04",
+  "as_of": "2019-01-01",
   "made": "2006-06-19",
   "gazette": "2006-07-04",
   "numac": 2006035997,
   "document_start": "2006-07-04",
   "document_end": "2018-12-31",
-  "in_force": "2006-07-04",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
