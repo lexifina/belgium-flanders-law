@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART. 2.
 
-<p>Ter uitvoering van artikel 12bis, § 1, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending zijn de bepalingen van dit besluit van toepassing op de exploitant voor alle tarieven waarmee de kosten voor de drinkwateractiviteit doorgerekend worden aan de abonnees.</p>
+<p>Ter uitvoering van artikel 2.5.2.3.2, § 1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 zijn de bepalingen van dit besluit van toepassing op de exploitant voor alle tarieven waarmee de kosten voor de drinkwateractiviteit doorgerekend worden aan de abonnees.</p>
 
 <p>De bepalingen van dit besluit hebben geen betrekking op:<br>
 1° water dat niet geleverd wordt gebruikmakend van het openbaar waterdistributienetwerk;<br>
