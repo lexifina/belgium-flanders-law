@@ -2,16 +2,16 @@
   "codex_id": 1019605,
   "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van dierenverzorger",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019605/VolledigDocument?datum=2010-10-26",
-  "source_sha256": "8f721cb0027037cdb5d32909893797de2dc513114f14dcc718731e5ffcac24ad",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019605/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "1dfb83937ca3f3e54e3171f2e9cd381dbbfb5cfb4b09da7e2b9c9410be88a08e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019605&param=informatie",
-  "as_of": "2010-10-26",
+  "as_of": "2019-01-01",
   "made": "2010-10-05",
   "gazette": "2010-10-26",
   "numac": 2010205344,
   "document_start": "2010-10-26",
   "document_end": "2018-12-31",
-  "in_force": "2010-10-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
