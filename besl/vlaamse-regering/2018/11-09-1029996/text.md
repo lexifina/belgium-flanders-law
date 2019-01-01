@@ -41,6 +41,12 @@ In hetzelfde besluit worden artikel 2 tot en met 4 opgeheven.
 
 ## Afdeling 2. Wijzigingen aan het besluit van de Vlaamse Regering van 1 december 1998 tot vaststelling van de regeling omtrent de afwezigheden, de tucht, de administratieve standen, het verlof, de mandaatsbeëindiging, het onderzoek van de lichamelijke geschiktheid en het geneeskundig toezicht voor het academisch personeel bij de universiteiten in de Vlaamse Gemeenschap
 
+### ART 3.
+
+Aan artikel 1, § 1 van het besluit van de Vlaamse Regering van 1 december 1998 tot vaststelling van de regeling omtrent de afwezigheden, de tucht, de administratieve standen, het verlof, de mandaatsbeëindiging, het onderzoek van de lichamelijke geschiktheid en het geneeskundig toezicht voor het academisch personeel bij de universiteiten in de Vlaamse Gemeenschap, wordt een punt 5° toegevoegd, dat luidt als volgt:<br>
+<br>
+"5° afzetting.".
+
 ### ART 4.
 
 Aan artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 15 juni 2007, worden de volgende wijzigingen aangebracht:<br>
