@@ -4,9 +4,48 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° de bijzondere wet: de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br /><br />2° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />3° beleidsdomein: een homogeen beleidsdomein zoals bedoeld in artikel 2 van het kaderdecreet, bestaande uit een verzameling van beleidsvelden die zowel vanuit politiek als maatschappelijk oogpunt een herkenbaar en samenhangend geheel vormen;<br /><br />4° beleidsveld: een verzameling van beleidsitems die zowel vanuit politiek als maatschappelijk oogpunt een herkenbaar en samenhangend geheel vormen;<br /><br />5° Vlaamse administratie: het geheel van de Vlaamse ministeries en agentschappen;<br /><br />6° Vlaams ministerie: een Vlaams ministerie als bedoeld in artikel 3, eerste lid, van het kaderdecreet, bestaande uit een departement en eventueel de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid van het beleidsdomein;<br /><br />7° departement: het onderdeel van een Vlaams ministerie dat, onder het rechtstreekse gezag en de rechtstreekse verantwoordelijkheid van de bevoegde minister, belast is met de taken die nader omschreven worden in artikel 30;<br /><br />8° agentschap: een verzelfstandigd agentschap als bedoeld in artikel 4, § 2, van het kaderdecreet;<br /><br />9° project: een geheel van activiteiten dat in een tijdelijk samenwerkingsverband wordt uitgevoerd door meerdere specialisten of specialistische groepen, en dat gericht is op een duidelijk gespecificeerd resultaat.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de bijzondere wet: de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° het decreet van 7 december 2018: het Bestuursdecreet van 7 december 2018;<br>
+3° beleidsdomein: een homogeen beleidsdomein als vermeld in artikel III.1 van het decreet van 7 december 2018, bestaande uit een verzameling van beleidsvelden die zowel vanuit politiek als maatschappelijk oogpunt een herkenbaar en samenhangend geheel vormen;<br>
+4° beleidsveld: een verzameling van beleidsitems die zowel vanuit politiek als maatschappelijk oogpunt een herkenbaar en samenhangend geheel vormen;<br>
+5° Vlaamse administratie: de Vlaamse administratie, vermeld in artikel III.1 van het decreet van 7 december 2018;<br>
+6° ...;<br>
+7° departement: het onderdeel van een Vlaams ministerie dat, onder het rechtstreekse gezag en de rechtstreekse verantwoordelijkheid van de bevoegde minister valt;<br>
+8° agentschap: een verzelfstandigd agentschap als vermeld in artikel III.1 van het decreet van 7 december 2018;<br>
+9° project: een geheel van activiteiten dat in een tijdelijk samenwerkingsverband wordt uitgevoerd door meerdere specialisten of specialistische groepen, en dat gericht is op een duidelijk gespecificeerd resultaat.
 
 ## [HOOFDSTUK Ibis. Vlaamse ministeries (ing. BVR 25 januari 2019, art. 2, I: 1 januari 2019)]
+
+### ART 1bis.
+
+Per beleidsdomein kan een Vlaams ministerie worden opgericht.<br>
+<br>
+De Vlaamse ministeries bestaan in voorkomend geval uit departementen en intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid.
+
+### ART 1ter.
+
+Aan de departementen en intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid kunnen zowel beleidsondersteunende taken als taken van beleidsuitvoering worden toevertrouwd.
+
+### ART 1quater.
+
+§ 1. De intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid zijn diensten van de Vlaamse Gemeenschap die beschikken over operationele autonomie als vermeld in artikel 1quinquies.<br>
+<br>
+Intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid worden opgericht bij besluit. Het oprichtingsbesluit omvat een opsomming van de doelstellingen en taken die aan het intern verzelfstandigde agentschap worden toevertrouwd.<br>
+<br>
+§ 2. Het hoofd van een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid is het personeelslid dat, met behoud van de toepassing van de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid, en in voorkomend geval bijgestaan door een adjunct, die de algemeen directeur wordt genoemd, door de Vlaamse Regering wordt belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap.
+
+### ART 1quinquies.
+
+De departementen en intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid beschikken over operationele autonomie voor:<br>
+1° de vaststelling en wijziging van de organisatiestructuur van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid;<br>
+2° de organisatie van de operationele processen met het oog op de realisatie van de afgesproken doelstellingen;<br>
+3° de uitvoering van het personeelsbeleid;<br>
+4° de aanwending van de ter beschikking gestelde middelen voor:<br>
+a) de werking van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid;<br>
+b) de uitvoering van de doelstellingen en taken van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid;<br>
+c) het sluiten van contracten om de opdrachten van het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid uit te voeren;<br>
+5° de organisatiebeheersing binnen het departement of het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid.
 
 ## [HOOFDSTUK II Vaststelling van de beleidsdomeinen (verv. BVR 2 oktober 2019, art. 1, I: 2 oktober 2019)]
 
@@ -140,7 +179,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 7° Agentschap Integratie en Inburgering;<br>
 8° het Vlaams Pensioenfonds.<br>
 <br>
-§ 3. De strategische adviesraad die tot het beleidsdomein Kanselarij en Bestuur behoort, is de Sociaal-Economische Raad van Vlaanderen, onverminderd de opdrachten van de Sociaal-Economische Raad van Vlaanderen als strategische adviesraad voor andere beleidsdomeinen en beleidsvelden.</p>
+§ 3. ....</p>
 
 ### ART. 18.
 
@@ -178,7 +217,13 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 22.
 
-§ 1. Voor het beleidsdomein Onderwijs en Vorming wordt het Vlaams   Ministerie van Onderwijs en Vorming opgericht, dat bestaat uit het gelijknamige   departement, de Onderwijsinspectie en de volgende twee agentschappen zonder   rechtspersoonlijkheid:<BR>1° Agentschap voor Onderwijsdiensten;<BR>2° Agentschap   voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en   Studietoelagen.<BR><BR>§ 2. Het agentschap met rechtspersoonlijkheid dat tot het   beleidsdomein Onderwijs en Vorming behoort, is het Agentschap voor   Infrastructuur in het Onderwijs.<BR><BR>§ 3. De strategische adviesraad die tot   het beleidsdomein Onderwijs en Vorming behoort, is de Vlaamse   Onderwijsraad.
+§ 1. Voor het beleidsdomein Onderwijs en Vorming wordt het Vlaams Ministerie van Onderwijs en Vorming opgericht, dat bestaat uit het gelijknamige departement, de Onderwijsinspectie en de volgende twee agentschappen zonder rechtspersoonlijkheid:<br>
+1° Agentschap voor Onderwijsdiensten;<br>
+2° Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen.<br>
+<br>
+§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Onderwijs en Vorming behoort, is het Agentschap voor Infrastructuur in het Onderwijs.<br>
+<br>
+§ 3. ....
 
 ### ART. 23.
 
@@ -197,7 +242,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 8° Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid;<br>
 9° Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg.<br>
 <br>
-§ 3. De strategische adviesraad die tot het beleidsdomein Welzijn, Volksgezondheid en Gezin behoort, is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid.
+§ 3. ...
 
 ### ART. 24.
 
@@ -207,11 +252,9 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 1° Sport Vlaanderen;<br>
 2° Vlaamse Regulator voor de Media.<br>
 <br>
-§ 3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media bij het Departement Cultuur, Jeugd en Media.<br>
+§ 3. ...<br>
 <br>
-§ 4. Met toepassing van artikel 4, § 1, tweede lid, van het kaderdecreet is Sport Vlaanderen, vermeld in paragraaf 2, 1°, belast met de beleidsondersteunende taken voor het beleidsveld sport, vermeld in artikel 10, § 2, 6°, van dit besluit.<br>
-<br>
-De taken die conform artikel 30 aan de departementen worden toevertrouwd, behoren, met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30, § 2, eerste lid, 1°, d), tot het takenpakket van Sport Vlaanderen wat het beleidsveld sport betreft.
+§ 4. ...
 
 ### ART. 25.
 
@@ -219,7 +262,11 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 
 ### ART. 26.
 
-§ 1. Voor het beleidsdomein Landbouw en Visserij wordt het Vlaams   ministerie van Landbouw en Visserij opgericht, dat bestaat uit het gelijknamige   departement en het agentschap zonder rechtspersoonlijkheid Instituut voor   Landbouw- en Visserijonderzoek. <BR><BR>§ 2. Het agentschap met   rechtspersoonlijkheid dat tot het beleidsdomein Landbouw en Visserij behoort, is   het Vlaams Centrum voor Agro- en Visserijmarketing.<BR><BR>§ 3. De strategische   adviesraad die tot het beleidsdomein Landbouw en Visserij behoort, is de   Strategische Adviesraad voor Landbouw en Visserij.
+§ 1. Voor het beleidsdomein Landbouw en Visserij wordt het Vlaams ministerie van Landbouw en Visserij opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Instituut voor Landbouw- en Visserijonderzoek.<br>
+<br>
+§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Landbouw en Visserij behoort, is het Vlaams Centrum voor Agro- en Visserijmarketing.<br>
+<br>
+§ 3. ...
 
 ### ART. 27.
 
@@ -241,7 +288,7 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 7° Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
 8° Vlaamse Havens.<br>
 <br>
-§ 3. De strategische adviesraad die tot het beleidsdomein Mobiliteit en Openbare Werken behoort, is de Mobiliteitsraad van Vlaanderen.
+§ 3. ....
 
 ### ART. 29.
 
@@ -259,34 +306,59 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 4° Vlaamse Landmaatschappij;<br>
 5° ....<br>
 <br>
-§ 3. De strategische adviesraden die tot het beleidsdomein Omgeving behoren, zijn:<br>
-1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
-2° Vlaamse Woonraad bij het agentschap Wonen-Vlaanderen;<br>
-3° Milieu- en Natuurraad van Vlaanderen.<br>
+§ 3. ....<br>
 <br>
-§ 4. Met toepassing van artikel 4, § 1, tweede lid, van het kaderdecreet is het agentschap Wonen-Vlaanderen, vermeld in paragraaf 1, 1°, belast met de beleidsondersteunende taken voor het beleidsveld woonbeleid, vermeld in artikel 15, § 2, 2°, en is het agentschap Onroerend Erfgoed, vermeld in paragraaf 1, 2°, belast met de beleidsondersteunende taken voor het beleidsveld beheer en bescherming onroerend erfgoed, vermeld in artikel 15, § 2, 3°.<br>
-<br>
-De taken die overeenkomstig artikel 30 aan de departementen worden toevertrouwd, behoren, met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30, § 2, 1°, d), tot het takenpakket van Wonen-Vlaanderen wat het beleidsveld woonbeleid betreft en tot het takenpakket van Onroerend Erfgoed wat het beleidsveld beheer en bescherming onroerend erfgoed betreft.
+§ 4.....
 
 ## HOOFDSTUK IV Taakstelling van de departementen, agentschappen en wisselwerking tussen departementen en agentschappen
 
 ### ART. 30.
 
-§ 1. De departementen die overeenkomstig artikel 4, § 1, van het kaderdecreet belast zijn met de beleidsondersteunende taken, hebben tot taak de minister te ondersteunen:<br /><br />1° bij het uitwerken van diens beleid: daartoe heeft het departement een beleidsvoorbereidende en een beleidsevaluerende opdracht;<br /><br />2° bij de aansturing en de opvolging van de beleidsuitvoering, die in de regel toevertrouwd wordt aan agentschappen.<br /><br />Om deze taken te vervullen, zorgt het departement op het niveau van het beleidsdomein en het departement voor:<br /><br />1° de organisatie van de beheerscontrole;<br /><br />2° kennisbeheer en managementinformatiesysteem;<br /><br />3° de onderlinge afstemming van de beleidsondersteuning en de beleidsuitvoering.<br /><br />§ 2. De volgende activiteiten ten behoeve van de minister zijn de taak van het departement;<br /><br />1° op het vlak van beleidsvoorbereiding en -evaluatie:<br /><br />a) het ontwikkelen van een beleidsvoorbereidend instrumentarium, met inbegrip van de permanente monitoring en het informatiemanagement van het beleidsdomein, de aansturing van het beleidsgericht wetenschappelijk onderzoek, het opbouwen van netwerken binnen en buiten het beleidsdomein en op internationale fora;<br /><br />b) het uitwerken van inhoudelijke voorstellen met het oog op de beleidsbepaling: de beleidsnota's, beleidsbrieven, beleidsvoorstellen, de gecoördineerde begrotingsvoorstellen, de ontwerpen van regelgeving, voorstellen met betrekking tot instrumenten, middelen, financiëringsmechanismen, periodiek benodigde beleids- en beheersinformatie, verantwoordings- en toezichtsmechanismen, adviezen en activiteiten met het oog op de beleidscoördinatie en -afstemming;<br /><br />c) de evaluatie op macroniveau van de beleidsuitvoering (ingezette instrumenten, effecten, enz.) met het oog op eventuele bijsturing van het beleid of bijsturing van de aansturing van agentschappen;<br /><br />d) het secretariaat van de beleidsraad en de beleidsmatige informatie en communicatie van het beleidsdomein;<br /><br />2° op het vlak van de aansturing en de opvolging van de beleidsuitvoering:<br /><br />a) de omzetting van de strategische doelstellingen uit het regeerakkoord, de beleidsnota's en de jaarlijkse beleidsbrieven in operationele doelstellingen op het niveau van het beleidsdomein of van de beleidsvelden die behoren tot het beleidsdomein<br /><br />b) de voorbereiding van beheersovereenkomsten en samenwerkingsovereenkomsten met de verzelfstandigde agentschappen en het verlenen van advies bij de onderhandelingen daarover<br /><br />c) de opvolging en monitoring van de beleidsuitvoering.<br /><br />Zoals bepaald in paragraaf 4 worden de verzelfstandigde agentschappen betrokken bij deze activiteiten van beleidsvoorbereiding en aansturing en opvolging van de beleidsuitvoering.<br /><br />§ 3. Overeenkomstig artikel 4, § 2, van het kaderdecreet zijn de taken van de agentschappen gericht op de beleidsuitvoering.<br /><br />De departementen zijn overeenkomstig artikel 4, § 2, tweede lid, van het kaderdecreet ook belast met de taken van beleidsuitvoering die niet werden toevertrouwd aan een agentschap van het desbetreffende beleidsdomein.<br /><br />§ 4. Beleidsondersteuning en beleidsuitvoering vereisen een optimale samenwerking. Hiertoe bouwen departementen en agentschappen een gestructureerde samenspraak en samenwerking uit, met het oog op de optimale realisatie van de beleidsdoelstellingen, en met respect voor ieders taakstelling en verantwoordelijkheid.<br /><br />Deze samenwerking tussen departement en agentschappen is vereist in meerdere fasen van de beleids- en beheerscylus:<br /><br />1° de agentschappen worden betrokken bij de operationele beleidsvoorbereiding en beleidsevaluatie. Het departement toetst de beleidsvoornemens met de betrokken agentschappen; vanuit hun taakstelling inzake beleidsuitvoering leveren de agentschappen beleidsgerichte input;<br /><br />2° inzake monitoring en opvolging van de beleidsuitvoering steunt het departement ook op de periodieke informatieverstrekking en rapportering van de agentschappen.
+§ 1. Onder beleidsondersteunende taken wordt verstaan het ondersteunen van de minister:<br>
+1° bij de uitwerking van zijn beleid: het betreft een beleidsvoorbereidende en een beleidsevaluerende opdracht;<br>
+2° bij de aansturing en de opvolging van de beleidsuitvoering.<br>
+<br>
+Om de taken, vermeld in het eerste lid, te vervullen is het nodig te voorzien in:<br>
+1° de organisatie van de beheerscontrole;<br>
+2° kennisbeheer en managementinformatiesysteem;<br>
+3° de onderlinge afstemming van de beleidsondersteuning en de beleidsuitvoering.<br>
+<br>
+§ 2. De volgende activiteiten die uitgevoerd worden voor de minister zijn beleidsondersteunende taken;<br>
+1° op het vlak van beleidsvoorbereiding en -evaluatie:<br>
+a) het ontwikkelen van een beleidsvoorbereidend instrumentarium, met inbegrip van de permanente monitoring en het informatiemanagement van het beleidsdomein, de aansturing van het beleidsgericht wetenschappelijk onderzoek, het opbouwen van netwerken binnen en buiten het beleidsdomein en op internationale fora;<br>
+b) het uitwerken van inhoudelijke voorstellen met het oog op de beleidsbepaling: de beleidsnota's, beleidsbrieven, beleidsvoorstellen, de gecoördineerde begrotingsvoorstellen, de ontwerpen van regelgeving, voorstellen met betrekking tot instrumenten, middelen, financiëringsmechanismen, periodiek benodigde beleids- en beheersinformatie, verantwoordings- en toezichtsmechanismen, adviezen en activiteiten met het oog op de beleidscoördinatie en -afstemming;<br>
+c) de evaluatie op macroniveau van de beleidsuitvoering (ingezette instrumenten, effecten, enz.) met het oog op eventuele bijsturing van het beleid;<br>
+d) het secretariaat van de beleidsraad en de beleidsmatige informatie en communicatie van het beleidsdomein;<br>
+2° op het vlak van de aansturing en de opvolging van de beleidsuitvoering:<br>
+a) de omzetting van de strategische doelstellingen uit het regeerakkoord, de beleidsnota's en de jaarlijkse beleidsbrieven in operationele doelstellingen op het niveau van het beleidsdomein of van de beleidsvelden die behoren tot het beleidsdomein<br>
+b) de voorbereiding van ondernemingsplannen en samenwerkingsovereenkomsten met de verzelfstandigde agentschappen en het verlenen van advies bij de onderhandelingen daarover<br>
+c) de opvolging en monitoring van de beleidsuitvoering.<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. Beleidsondersteuning en beleidsuitvoering vereisen een optimale samenwerking. Hiertoe bouwen departementen en agentschappen een gestructureerde samenspraak en samenwerking uit, met het oog op de optimale realisatie van de beleidsdoelstellingen, en met respect voor ieders taakstelling en verantwoordelijkheid.<br>
+<br>
+De departementen nemen de beleidsondersteunende taken op, tenzij de beleidsraad een andere taakverdeling vaststelt en onverminderd de toewijzing van taken in de oprichtingsbesluiten en -decreten.
 
 ## HOOFDSTUK V Oprichting en wijze van samenstelling van de beleidsraad
 
 ### ART. 31.
 
-Per homogeen beleidsdomein wordt een beleidsraad opgericht als bedoeld in artikel 3, derde lid, van het kaderdecreet.
+Per homogeen beleidsdomein wordt een beleidsraad opgericht als vermeld in artikel III.1, vijfde lid, van het decreet van 7 december 2018.
 
 ### ART. 32.
 
-De beleidsraad wordt voorgezeten door de minister(s), bevoegd voor het beleidsdomein in kwestie, eventueel bijgestaan door de kabinetschef.<br /><br />De leidinggevende personeelsleden die aan het hoofd staan van het departement of van een agentschap van het beleidsdomein in kwestie maken deel uit van de beleidsraad. Daarnaast kan de minister ook andere leidinggevende personeelsleden die behoren tot het middenkader van het beleidsdomein in kwestie aanwijzen om deel uit te maken van de beleidsraad.<br /><br />Naar gelang van de behoeften en de te bespreken agendapunten kan de bevoegde minister andere personeelsleden van de Vlaamse administratie uitnodigen op de vergaderingen van de beleidsraad. De beleidsraad kan externen uitnodigen om te worden gehoord met het oog op advies.
+§ 1. De beleidsraad wordt voorgezeten door de minister(s), bevoegd voor het beleidsdomein in kwestie, eventueel bijgestaan door de kabinetschef.<br>
+<br>
+De leidinggevende personeelsleden die aan het hoofd staan van het departement of van een agentschap van het beleidsdomein in kwestie maken deel uit van de beleidsraad. Daarnaast kan de minister ook andere leidinggevende personeelsleden die behoren tot het middenkader van het beleidsdomein in kwestie aanwijzen om deel uit te maken van de beleidsraad.<br>
+<br>
+Naar gelang van de behoeften en de te bespreken agendapunten kan de bevoegde minister andere personeelsleden van de Vlaamse administratie uitnodigen op de vergaderingen van de beleidsraad. De beleidsraad kan externen uitnodigen om te worden gehoord met het oog op advies.<br>
+<br>
+§ 2. Als de bevoegde minister of zijn gedelegeerde deelneemt aan vergaderingen van het managementorgaan van het beleidsdomein, vermeld in artikel I 8 van het Vlaams personeelsstatuut van 13 januari 2006, komt die vergadering in de plaats van de beleidsraad.
 
 ### ART. 32bis.
 
-In afwijking van artikel 32, tweede lid, maken de leidinggevende personeelsleden die aan het hoofd staan van de agentschappen, vermeld in artikel 23, § 2, 1° en 2°, geen deel uit van de beleidsraad van het beleidsdomein in kwestie.
+In afwijking van artikel 32, tweede lid, maken de leidinggevende personeelsleden die aan het hoofd staan van de agentschappen, vermeld in artikel 23, § 2, 1° en 2° en artikel 28, § 2, 5° tot en met 8°, geen deel uit van de beleidsraad van het beleidsdomein in kwestie.
 
 ## HOOFDSTUK VI Projectwerking
 
