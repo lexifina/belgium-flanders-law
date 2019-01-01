@@ -183,7 +183,26 @@ De organisator heeft een verzekering voor : <BR>1° de burgerlijke   aansprakeli
 
 ### ART. 32.
 
-<P>De organisator zorgt voor pedagogische ondersteuning bij het pedagogisch   beleid, vermeld in artikel 31. De pedagogische ondersteuning wordt gegeven door   een pedagogische ondersteuningsorganisatie die erkend is door Kind en   Gezin.<BR></P>  <P>De organisator van gezinsopvang zorgt ervoor dat de draagkracht door de   pedagogische ondersteuningsorganisatie periodiek geëvalueerd wordt en dat zo   nodig het attest draagkracht, vermeld in artikel 12, aangepast wordt en   informeert Kind en Gezin daarover.<BR></P>
+De organisator zorgt voor pedagogische ondersteuning bij het pedagogisch beleid, vermeld in artikel 31, en toont de volgende elementen aan :<br>
+1° de keuze om die ondersteuning intern dan wel extern te organiseren;<br>
+2° de manier waarop die ondersteuning de organisator versterkt binnen een competent systeem, is afgestemd op de noden van de kinderopvanglocatie en deel uitmaakt van een geïntegreerde ondersteuning op een of meer van de volgende onderling samenhangende thema's :<br>
+a) infrastructuur;<br>
+b) veiligheid en gezondheid;<br>
+c) omgang met kinderen en gezinnen;<br>
+d) medewerkers;<br>
+e) organisatorisch management;<br>
+f) samenwerking met Kind en Gezin, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners;<br>
+g) opnamebeleid, met bijzondere aandacht voor kwetsbare gezinnen;<br>
+h) inclusieve opvang van kinderen met een specifieke zorgbehoefte;<br>
+i) flexibele opvang.<br>
+<br>
+Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, c), wordt rekening gehouden met het pedagogische raamwerk, ontwikkeld in september 2014 door de vakgroep sociale agogiek van de universiteit Gent en het expertisecentrum ervaringsgericht onderwijs van de Katholieke Universiteit Leuven, in opdracht van Kind en Gezin.<br>
+<br>
+Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, d), wordt rekening gehouden met het opvolgen van de draagkracht van medewerkers.<br>
+<br>
+Bij de ondersteuning van het thema, vermeld in het eerste lid, 2°, e), wordt rekening gehouden met het ondernemen in de kinderopvang en de financiële werking.<br>
+<br>
+De organisator kan aantonen dat hij voldoet aan de voorwaarde, vermeld in het eerste lid, door middel van de zelfevaluatie, vermeld in artikel 51, eerste lid, of het kwaliteitshandboek, vermeld in artikel 57.
 
 ## Onderafdeling 3 Betrokkenheid en participatie van de gezinnen
 
@@ -497,7 +516,7 @@ Voor de kinderopvanglocaties, vermeld in artikel 68, 69 en 73, geldt een   overg
 
 ### ART. 74.
 
-<P>...</P>
+Als de kinderbegeleider in de gezinsopvang die ook als verantwoordelijke werkt, zich tussen 1 januari 2019 en 31 december 2023 laat ondersteunen door een pool gezinsopvang als vermeld in het besluit van de Vlaamse Regering van 22 februari 2019 houdende de toekenning van een subsidie aan pools gezinsopvang, geldt voor die persoon de kwalificatie van kinderbegeleider, vermeld in artikel 43, § 2, eerste lid, 4°, a), in afwijking van de werkingsvoorwaarde over de kwalificatie voor verantwoordelijke, vermeld in artikel 40, § 2, eerste lid, 5°, en dit mogelijks tot 1 april 2024.
 
 ## Afdeling 3 Inwerkingtredingsbepaling en uitvoeringsbepaling
 
