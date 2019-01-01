@@ -297,7 +297,7 @@ De   vergoeding, vermeld in artikel 53, kan niet gecumuleerd worden met:<BR   st
 
 ### ART. 59.
 
-Om   te onderzoeken of en in welke mate de betrokkene recht heeft op een vergoeding,   raadpleegt het departement de noodzakelijke gegevens bij de authentieke   gegevensbronnen, vermeld in artikel 5 van het besluit van de Vlaamse Regering   van 15 mei 2009 houdende de uitvoering van het decreet van 18 juli 2008   betreffende het elektronische bestuurlijke gegevensverkeer.
+Om te onderzoeken of en in welke mate de betrokkene recht heeft op een vergoeding, raadpleegt het departement de noodzakelijke gegevens bij de authentieke gegevensbronnen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018.
 
 ## Afdeling 2 Vergoeding doorstroomtraject
 
