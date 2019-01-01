@@ -2,15 +2,15 @@
 
 ### Aanhef
 
-De Vlaamse minister van Werk, Onderwijs en Vorming,<br /><br />Gelet op het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, inzonderheid op artikel 6, 4°;<br /><br />Gelet op het besluit van de Vlaamse Regering van 27 juli 2004 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij het besluit van de Vlaamse Regering van 15 oktober 2004, 23 december 2005, 19 mei 2006, 30 juni 2006, 1 september 2006, 15 juni 2007 en 28 juni 2007, 10 oktober 2007 en 14 november 2007; <br /><br />Gelet op het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, inzonderheid op artikel 4, § 3, gewijzigd bij het besluit van de Vlaamse Regering van 5 oktober 2007;<br /><br />Gelet op het besluit van de Vlaamse Regering van 3 oktober 2008 tot bepaling van de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt, inzonderheid op artikel 1, 9°;<br /><br />Gelet op het advies van de Sociaal-Economische Raad van Vlaanderen, gegeven op 4 juni 2008,<br /><br />Besluit :
+...
 
 ### ART. 1.
 
-Voor het beroep van dispatcher met de overeenkomstige titel van dispatcher verwijzend naar het SERV-beroepsprofiel 'dispatcher' met als uniek volgnummer 07/29 als vermeld in artikel 1, 9°, van het besluit van de Vlaamse Regering van 3 oktober 2008 tot bepaling van de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt, worden de standaard, de succescriteria, de richtlijnen voor beoordeling en de classificatie met bijbehorend subsidiebedrag vastgelegd in de bijlage gevoegd bij dit besluit.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2009.
+...
 
 ### BIJLAGE
 
