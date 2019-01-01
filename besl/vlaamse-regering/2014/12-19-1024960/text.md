@@ -725,7 +725,7 @@ Het bezwaar schort de uitvoering van de beslissing niet   op.
 
 ### ART 127/1.
 
-Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van buitenschoolse opvang is, samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, zet Kind en Gezin de erkenningen, de attesten van toezicht, de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
+Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van buitenschoolse opvang is, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, zet Kind en Gezin de erkenningen, de attesten van toezicht, de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe erkenningen, attesten van toezicht, vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
 <br>
 De nieuwe gemeente of OCMW behoudt bij ongewijzigde omstandigheden na de samenvoeging van gemeenten voor de subsidie voor initiatief voor buitenschoolse opvang de bedragen voor de verschillende schijven equivalentvolle opvangplaatsen, vermeld in artikel 20 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014, zoals die zijn toegekend aan de samengevoegde gemeenten.<br>
 <br>
@@ -739,7 +739,7 @@ Kind en Gezin bezorgt de nieuwe gemeente en het nieuwe OCMW de nieuwe erkenninge
 
 ### ART 127/2.
 
-Als gemeenten samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, past Kind en Gezin de gegevens van de erkenningen, attesten van toezicht, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan.<br>
+Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, past Kind en Gezin de gegevens van de erkenningen, attesten van toezicht, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan.<br>
 <br>
 Kind en Gezin telt de subsidieerbare opvangplaatsen groepsopvang samen van een organisator die vóór de samenvoeging van gemeenten opvanglocaties groepsopvang had die tot verschillende gemeenten behoorden, en door de samenvoeging tot dezelfde gemeente behoren.<br>
 <br>
