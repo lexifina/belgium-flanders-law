@@ -2,16 +2,16 @@
   "codex_id": 1014358,
   "title": "Ministerieel besluit van 2006-02-15 tot bepaling van de standaard voor de titel van kapper-salonbeheerder",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014358/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "acbe5e20f7ff5a3078d56604d0be5d3b4f72ffc3cef2bd33a23bd87890b23892",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014358/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "aad9df65dfb26ca39bb96ec86f6dc736d414ef911dc3d8022855e66380fb4980",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014358&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "2006-02-15",
   "gazette": "2006-03-13",
   "numac": 2006035380,
   "document_start": "2006-03-13",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
