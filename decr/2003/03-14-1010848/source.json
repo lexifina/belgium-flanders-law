@@ -2,16 +2,16 @@
   "codex_id": 1010848,
   "title": "Decreet van 2003-03-14 houdende regeling van het politiek verlof voor de personeelsleden van de provincies, gemeenten, de agglomeraties van gemeenten en openbare centra voor maatschappelijk welzijn, alsook de openbare instellingen en publiekrechtelijke verenigingen die onder hun controle of toezicht vallen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010848/VolledigDocument?datum=2006-11-30",
-  "source_sha256": "59f2e04dcac46cf289e2831dac31839b1f94dd73f3d0576dfe0fc1ce57154e3b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010848/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "75c7e5ef8abcbf361b6320d84553fd4f5bd2ebc3b0e93e53d3da5a300a026eb8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010848&param=informatie",
-  "as_of": "2006-11-30",
+  "as_of": "2019-01-01",
   "made": "2003-03-14",
   "gazette": "2003-04-24",
   "numac": 2003035354,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2006-11-30",
+  "in_force": "2019-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
