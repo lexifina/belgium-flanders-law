@@ -122,6 +122,58 @@ In artikel 3.1.4/3 van hetzelfde decreet, ingevoegd bij het decreet van 8 juli 2
 
 ## HOOFDSTUK 5. Wijzigingen aan titel IV van het Energiedecreet van 8 mei 2009
 
+### ART 7.
+
+In artikel 4.1.1 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt tussen de woorden "voor een" en het woord "geografisch" het woord "aaneensluitend" ingevoegd;<br>
+<br>
+2° in het eerste lid worden de woorden "het elektriciteits- of aardgasdistributienet" vervangen door de woorden "het elektriciteits- en het aardgasdistributienet";<br>
+<br>
+3° tussen het eerste lid en het tweede lid worden twee leden ingevoegd, die luiden als volgt:<br>
+<br>
+"In afwijking van het eerste lid wordt voor de beoordeling of een netbeheerder over een geografisch aaneensluitend afgebakend gebied beschikt echter geen rekening gehouden met het grondgebied van de gemeente Voeren en het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.<br>
+<br>
+In afwijking van het eerste lid kan de VREG, voor het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied en als daarvoor een technische of financiële noodzaak bestaat, een verschillende elektriciteitsdistributienetbeheerder en aardgasdistributienetbeheerder aanstellen.".
+
+### ART 8.
+
+Aan artikel 4.1.4, § 2, 1°, van hetzelfde decreet wordt de zinsnede "inclusief het beschikken over een door de VREG gecontroleerd ondernemingsplan" toegevoegd.
+
+### ART 9.
+
+In artikel 4.1.5 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+<br>
+"De distributienetbeheerders kunnen op elk moment maar op één gezamenlijke werkmaatschappij een beroep doen gedurende een door de VREG aanvaarde periode. Die periode is voor iedere afzonderlijke distributienetbeheerder niet langer dan de duur van de aanwijzing van die distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.";<br>
+<br>
+2° in het vierde lid wordt de zinsnede "en 4.1.8" vervangen door de zinsnede "tot en met artikel 4.1.8/1";<br>
+<br>
+3° er wordt een zesde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De VREG kan haar toestemming, vermeld in het eerste lid, intrekken wanneer zij van oordeel is dat niet langer voldaan is aan de voorwaarden ter uitvoering van het derde lid of aan de voorwaarden, vermeld in artikel 4.1.7 tot en met 4.1.8/1.".
+
+### ART 10.
+
+Aan titel IV, hoofdstuk I, afdeling II, van hetzelfde decreet wordt een artikel 4.1.5/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 4.1.5/1. De raad van bestuur van de werkmaatschappij telt maximaal twintig leden, waarbij elke deelnemende distributienetbeheerder ten minste één vertegenwoordiger heeft.<br>
+<br>
+Het mandaat van lid van de raad van bestuur, vermeld in het eerste lid, is onverenigbaar met:<br>
+1° het lidmaatschap van de wetgevende kamers, het Europees Parlement, de gemeenschaps- en gewestparlementen, de Vergadering van de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad, de Vlaamse Gemeenschapscommissie of de Franse Gemeenschapscommissie;<br>
+2° de functie of het ambt van minister, staatssecretaris, of het lidmaatschap van een gewest- of gemeenschapsregering.<br>
+<br>
+Om een meer evenwichtige participatie van mannen en vrouwen te bevorderen mag ten hoogste twee derde van de leden van de raad van bestuur, vermeld in het eerste lid, van hetzelfde geslacht zijn.<br>
+<br>
+Telkens als er door een voordrachtprocedure één of meer mandaten vacant zijn in de raad van bestuur, vermeld in het eerste lid, en de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting, vermeld in het derde lid, wordt de voordrachtprocedure hernomen.".
+
+### ART 11.
+
+Aan titel IV, hoofdstuk I, afdeling II, van hetzelfde decreet wordt een artikel 4.1.5/2 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 4.1.5/2. De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van het managementcomité van de werkmaatschappij mag niet meer bedragen dan de jaarlijkse bezoldiging van de minister-president van de Vlaamse Regering. Hoofdstuk 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector is op die functies van overeenkomstige toepassing.".
+
 ### ART 12.
 
 In artikel 4.1.14 van hetzelfde decreet, gewijzigd bij de decreten van 8 juli 2011 en 25 april 2014, worden de volgende wijzingen aangebracht:<br>
@@ -177,6 +229,22 @@ Aan titel IV, hoofdstuk III, van hetzelfde decreet wordt een afdeling III toegev
 Aan afdeling III, toegevoegd bij artikel 17, wordt een artikel 4.3.3 toegevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 4.3.3. In het geval de VREG de leveringsvergunning van een leverancier, vermeld in artikel 4.3.1, intrekt, of indien een leverancier de toegang tot het net wordt ontzegd, of in geval van het faillissement van een leverancier, treedt de netbeheerder, wat betreft de afnemers van die leverancier die op zijn net zijn aangesloten, op als noodleverancier. De Vlaamse Regering bepaalt de maximale periode, die niet langer kan zijn dan zestig dagen, gedurende dewelke de netbeheerder voor die afnemers als noodleverancier kan optreden en de Vlaamse Regering kan ook nadere voorwaarden bepalen waaronder zij deze taak uitvoeren.".
+
+### ART 19.
+
+In artikel 4.6.1 van hetzelfde decreet, ingevoegd bij het decreet van 8 juli 2011, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan paragraaf 2, eerste lid, worden de volgende zinnen toegevoegd:<br>
+<br>
+"De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de VREG oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de VREG aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.";<br>
+<br>
+2° aan paragraaf 3 wordt de zinsnede ", onverminderd wat bepaald is in paragraaf 2, eerste lid" toegevoegd.
+
+### ART 20.
+
+Aan artikel 4.7.1, § 2, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 8 juli 2011, worden de volgende zinnen toegevoegd:<br>
+<br>
+"De netbeheerder beslist over de toestemming binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de netbeheerder oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de netbeheerder aan de aanvrager mee dat de termijn van zestig kalenderdagen verlengd wordt tot een termijn van negentig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.".
 
 ## HOOFDSTUK 6. Wijzigingen aan titel V van het Energiedecreet van 8 mei 2009
 
@@ -501,6 +569,12 @@ In titel XV, hoofdstuk III, van hetzelfde decreet, laatst gewijzigd bij het decr
 <br>
 "Art. 15.3.5/17. De werkmaatschappij past tegen uiterlijk 1 april 2019 de statuten en de samenstelling van haar raad van bestuur aan de voorwaarden, vermeld in artikel 4.1.5/1, aan. Als de werkmaatschappij de statuten of de samenstelling van de raad van bestuur niet aanpast, dan kan de VREG de toestemming, vermeld in artikel 4.1.5, eerste lid, intrekken.".
 
+### ART 58.
+
+In titel XV, hoofdstuk III, van hetzelfde decreet, laatst gewijzigd bij het decreet van 16 november 2018, wordt een artikel 15.3.5/18 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 15.3.5/18. De distributienetbeheerders hebben tot en met 1 januari 2021 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, waarbij eventueel onderling gebieden kunnen worden uitgewisseld. De VREG doet, conform de door de Vlaamse Regering volgens artikel 4.1.4 vastgestelde procedure, waar nodig een nieuwe aanwijzing als distributienetbeheerder, of wijzigt de bestaande aanwijzing als distributienetbeheerder.".
+
 ### ART 59.
 
 In titel XV, hoofdstuk III, van hetzelfde decreet, laatst gewijzigd bij het decreet van 16 november 2018, wordt een artikel 15.3.5/19 ingevoegd, dat luidt als volgt:<br>
@@ -522,6 +596,22 @@ In titel XV, hoofdstuk III, van hetzelfde decreet, laatst gewijzigd bij het decr
 De VREG kan bepalen dat een distributiesysteem of een verbruikseenheid in gespecifieerde omstandigheden als bestaand, dan wel als nieuw wordt beschouwd in het kader van de Netcode voor aansluiting van verbruikers, als bedoeld in verordening 2016/1388/EU.".
 
 ## HOOFDSTUK 15. Wijzigingen aan de bijlage bij het Energiedecreet van 8 mei 2009
+
+### ART 62.
+
+In de bijlage van hetzelfde decreet, gewijzigd bij de decreten van 18 november 2011, 21 december 2012, 14 maart 2014 en 17 februari 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 1.7.3 wordt het woord "elektrische" telkens opgeheven;<br>
+<br>
+2° in punt 1.7.3 wordt het woord "direct" vervangen door het woord "directe";<br>
+<br>
+3° in punt 2.7.3 wordt het woord "elektrische" telkens opgeheven;<br>
+<br>
+4° in punt 2.7.3 wordt het woord "direct" vervangen door het woord "directe";<br>
+<br>
+5° in punt 3 wordt het laatste streepje vervangen door wat volgt:<br>
+<br>
+"- Het S-peil (kWh/m<sup>2</sup>) is een geheel getal".
 
 ## HOOFDSTUK 16. Wijzigingen aan het Gerechtelijk Wetboek
 
