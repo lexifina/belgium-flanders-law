@@ -25,7 +25,7 @@ Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.</p>
 2° het leveren van ondersteunende gebouwgebonden diensten op het vlak van technisch onderhoud, verhuizingen, bekabeling, energiebeheer, beheer van meubilair, beveiliging, catering, schoonmaak, beheer van vergaderzalen, reprografie, postbedeling, afvalverwerking in de gebouwen van de Vlaamse administratie;<br>
 3° het leveren van niet-gebouwgebonden facilitaire diensten op het vlak van de aankoop en het beheer van roerende goederen.<br>
 <br>
-Het agentschap heeft tot taak op te treden als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten en raamovereenkomsten met betrekking tot werken, leveringen of diensten die bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen. De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen voor andere instanties als vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, en voor de Vlaamse Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen afnemen.<br>
+Het agentschap heeft tot taak op te treden als gemeenschappelijke aankoopcentrale voor het plaatsen van overheidsopdrachten en raamovereenkomsten met betrekking tot werken, leveringen of diensten die bestemd zijn voor de departementen en de intern verzelfstandigde agentschappen. De gemeenschappelijke aankoopcentrale kan die raamovereenkomsten ook plaatsen voor andere instanties van de Vlaamse of de lokale overheid, vermeld in artikel I.3, 1°, of artikel I.3, 5°, van het bestuursdecreet van 7 december 2018, en voor de Vlaamse Gemeenschapscommissie, die op eigen verantwoordelijkheid kunnen afnemen.<br>
 <br>
 Het agentschap heeft tot taak de rol te vervullen van een kenniscentrum overheidsopdrachten met het oog op de professionalisering van de overheidsopdrachtenpraktijk en de gemeenschappelijke aankoopcentrale. Dat omvat onder meer de volgende activiteiten:<br>
 1° het juridisch ondersteunen van de gemeenschappelijke aankoopcentrale, de taskforce Duurzame Overheidsopdrachten en de overheidsopdrachten van de Vlaamse administratie;<br>
@@ -42,7 +42,7 @@ Het agentschap heeft tot taak diensten inzake informatie- en communicatietechnol
 <br>
 Het agentschap heeft tot taak het beleid inzake het openbare archiefwezen uit te voeren, te coördineren en te ondersteunen.<br>
 <br>
-Het agentschap ondersteunt de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen overeenkomstig artikel 10 van het Archiefdecreet van 9 juli 2010, zowel bij het archiefbeheer als de archiefzorg.</p>
+Het agentschap ondersteunt de instanties van de Vlaamse overheid en van de lokale overheden conform artikel III.86 van het bestuursdecreet van 7 december 2018.</p>
 
 ### ART. 4/1.
 
@@ -50,7 +50,7 @@ Het agentschap ondersteunt de entiteiten van de Vlaamse overheid en van de lokal
 
 ### ART. 5.
 
-Overeenkomstig artikel 5/1, § 2, van het kaderdecreet bestuurlijk beleid   van 18 juli 2003, regelt het ondernemingsplan de concretisering van de   kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet   vervullen, met strategische en operationele doelstellingen, beschreven aan de   hand van meetbare criteria.
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 6.
 
@@ -68,7 +68,7 @@ De minister stuurt het agentschap aan, inzonderheid via het   ondernemingsplan.
 
 ### ART. 9.
 
-Overeenkomstig artikel 6, § 3, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 is het hoofd van het agentschap belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ## HOOFDSTUK IV DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
@@ -84,7 +84,7 @@ Bij het gebruik van de delegaties gelden de algemene voorwaarden en beperkingen,
 
 ### ART. 12.
 
-Onverminderd de artikelen 33 en 34 van het kaderdecreet bestuurlijk beleid   van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering,   interne controle en interne audit, is de minister verantwoordelijk voor de   opvolging van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 13.
 
