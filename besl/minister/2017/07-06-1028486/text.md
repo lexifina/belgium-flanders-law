@@ -59,12 +59,14 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 35° Vlaamse Baseball en Softball Liga vzw, Boomgaardstraat 22, bus 30, 2600 Berchem, met ondernemingsnummer 0434.987.788;<br>
 36° Vlaamse Boks Liga vzw, Moerbeistraat 5, 2811 Hombeek, met ondernemingsnummer 0879.722.890;<br>
 37° Vlaamse Boogsport Federatie "Liggende Wip" vzw, Boomgaardstraat 22, bus 26, 2600 Berchem, met ondernemingsnummer 0412.746.480;<br>
+37° /1 Vlaamse Gewichtheffers en Powerlifting Federatie vzw, Moerenakker 10, 9070 Heusden, met ondernemingsnummer 0417.702.487;<br>
 38° Vlaamse Handbalvereniging vzw, Dr. Vanderhoeydonckstraat 48, 3560 Lummen, met ondernemingsnummer 0417.063.079;<br>
 39° Vlaamse Hockey Liga vzw, Charles Schallerlaan 50-52, 1160 Brussel, met ondernemingsnummer 0846.518.307;<br>
 40° Vlaamse Judofederatie vzw, Warandestraat 1A, 9240, Zele, met ondernemingsnummer 0421.410.758;<br>
 41° Vlaamse Ju-Jitsu Federatie vzw, Drakenhoflaan 160, 2100 Deurne, met ondernemingsnummer 0435.871.478;<br>
 42° Vlaamse Kano &amp; Kajak Federatie vzw, Clercxhoevestraat 2B, 3910 Neerpelt, met ondernemingsnummer 0417.934.101;<br>
 43° Vlaamse Karate Federatie vzw, Tarbotstraat 1/001, 9000 Gent, met ondernemingsnummer 0428.240.053;<br>
+43° /1 Vlaamse Kickboks, Muaythai en Mixed Martial Arts Organisatie vzw, Wolfputstraat 149 bus 201, 9041 Oostakker, met ondernemingsnummer 0431.878.543;<br>
 44° Vlaamse Kunstschaatsen Bond vzw, Melkouwensteenweg 4, 2590 Berlaar, met ondernemingsnummer 0417.659.927;<br>
 45° Vlaamse Liga Paardensport vzw, Jozef Hebbelynckstraat 2, 9820 Merelbeke, met ondernemingsnummer 0465.222.391;<br>
 46° Vlaamse Motorrijdersbond van België vzw, Gentse Steenweg 349/11, 9300 Aalst, met ondernemingsnummer 0469.199.886;<br>
@@ -73,6 +75,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 49° Vlaamse Rollerbond vzw, Esperantolaan 13, bus 8, 3300 Tienen, met ondernemingsnummer 0418.543.122;<br>
 50° Vlaamse Schermbond vzw, Zuiderlaan 14, 9000 Gent, met ondernemingsnummer 0418.821.452;<br>
 51° Vlaamse Schietsportkoepel vzw, Boomgaardstraat 22, bus 7, 2600 Berchem, met ondernemingsnummer 0436.786.644;<br>
+51° /1 Vlaamse Snelschaatsbond vzw, Hogepontstraat 20, 9050 Gentbrugge, met ondernemingsnummer 0454.098.867;<br>
 52° Vlaamse Snookerfederatie vzw, Zuiderlaan 13, bus 17, 9000 Gent, met ondernemingsnummer 0461.852.533;<br>
 53° Vlaamse Squashfederatie vzw, Vorselaarsebaan 62, 2200 Herentals, met ondernemingsnummer 0456.423.206;<br>
 54° Vlaamse Taekwondo Bond vzw, H. Van Veldekesingel 150, bus 73, 3500 Hasselt, met ondernemingsnummer 0425.982.329;<br>
