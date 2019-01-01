@@ -76,7 +76,10 @@ Door middel van een centraal beheersysteem centraliseert, verwerkt en verspreidt
 
 ### ART. 15.
 
-Met behoud van de toepassing van de in het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur bepaalde uitzonderingen op de openbaarheid van bestuursdocumenten, wijzen de bevoegde instantie en de andere diensten, instanties en ondernemingen die toegang hebben tot de in het centraal beheersysteem opgenomen gegevens, zelfs als ze die gegevens zelf hebben gegenereerd of ingevoerd, door derden gedane aanvragen tot openbaarmaking van informatie, met inbegrip van milieu-informatie, bovendien af als :<br />1° de aanvraag betrekking heeft op gegevens die aan de bevoegde instantie of andere diensten, instanties en ondernemingen werden verstrekt of doorgegeven op basis van dit decreet, zijn uitvoeringsbesluiten, scheepvaart- en havenreglementen of andere wetten, decreten of besluiten die desbetreffend een meldingsplicht opleggen;<br />2° de openbaarmaking economische, financiële of commerciële belangen zou kunnen schaden.<br /><br />
+Met behoud van de toepassing van de in titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018 bepaalde uitzonderingen op de openbaarheid van bestuursdocumenten, wijzen de bevoegde instantie en de andere diensten, instanties en ondernemingen die toegang hebben tot de in het centraal beheersysteem opgenomen gegevens, zelfs als ze die gegevens zelf hebben gegenereerd of ingevoerd, door derden gedane aanvragen tot openbaarmaking van informatie, met inbegrip van milieu-informatie, bovendien af als :<br>
+1° de aanvraag betrekking heeft op gegevens die aan de bevoegde instantie of andere diensten, instanties en ondernemingen werden verstrekt of doorgegeven op basis van dit decreet, zijn uitvoeringsbesluiten, scheepvaart- en havenreglementen of andere wetten, decreten of besluiten die desbetreffend een meldingsplicht opleggen;<br>
+2° de openbaarmaking economische, financiële of commerciële belangen zou kunnen schaden.<br>
+&nbsp;
 
 ## Afdeling III Begeleiding van vaartuigen in het VBS-werkingsgebied
 
