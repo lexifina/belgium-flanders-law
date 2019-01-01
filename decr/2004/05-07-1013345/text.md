@@ -30,7 +30,9 @@ De opdracht van de Raad als strategische adviesraad voor het beleidsveld Energie
 <br>
 § 5. Bij de Raad zijn de bijzondere overleginstanties, vermeld in hoofdstuk IV, afdeling 3, opgericht.<br>
 <br>
-§ 6. Bij de Raad zijn ook de Mobiliteitsraad van Vlaanderen, vermeld in hoofdstuk Vbis, de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid, vermeld in hoofdstuk Vter en de Strategische Adviesraad voor Landbouw en Visserij, vermeld in hoofdstuk Vquater, werkzaam als strategische adviesraad.
+§ 6. Bij de Raad zijn ook de Mobiliteitsraad van Vlaanderen, vermeld in hoofdstuk Vbis en de Strategische Adviesraad voor Landbouw en Visserij, vermeld in hoofdstuk Vquater, werkzaam als strategische adviesraad.<br>
+<br>
+§ 7. Bij de Raad is de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin opgericht.
 
 ## HOOFDSTUK III STATUUT, SAMENSTELLING EN WERKING VAN DE RAAD
 
@@ -48,7 +50,33 @@ Het lidmaatschap van de Raad is onverenigbaar met een mandaat in het Europees Pa
 
 ### ART. 7.
 
-§ 1. De Raad verkiest onder zijn leden een voorzitter en stelt uit zijn leden het dagelijks bestuur samen.<br /><br />Het dagelijks bestuur is samengesteld uit een gelijk aantal leden voorgedragen door de organisaties van de werkgevers, de middenstand en de landbouw, enerzijds, en door de organisaties van de werknemers, anderzijds, de voorzitter van de Raad die het dagelijks bestuur voorzit, meegerekend.<br /><br />§ 2. ...<br /><br />De Vlaamse regering stelt de presentiegelden en de vergoedingen van de leden van de strategische adviesraad vast.<br /><br />§ 3. De Raad stelt zijn reglement van orde op dat verplicht voorziet in:<br />1° de bevoegdheden van de voorzitter;<br />2° de bevoegdheden en de werkwijze van het dagelijks bestuur;<br />3° de wijze van bijeenroeping en beraadslaging;<br />4° de periodiciteit van de vergaderingen;<br />5° de wijze van besluitvorming van de Raad;<br />6° de bekendmaking van de handelingen;<br />6°bis de regeling inzake het personeel; <br />7° de voorwaarden waaronder de Raad een beroep kan doen op deskundigen, permanente of tijdelijke werkgroepen, overeenkomstig artikel 5, § 6;<br />8° de organisatie van de administratieve en materiële opvang en het verzekeren van het secretariaat van de in afdeling II van hoofdstuk IV genoemde opdrachten;<br />9° de organisatie van de administratieve en materiële opvang en het verzekeren van het secretariaat van het Vlaams Economisch en Sociaal Overlegcomité;<br />10° enige andere regeling die de werking van de Raad, alsmede de in diens schoot opgerichte commissies, werkgroepen of andere organismen, betreft.<br /><br />Het in het eerste lid bedoelde reglement is onderworpen aan de goedkeuring van de Vlaamse regering.<br /><br />§ 4. Onverminderd het bepaalde in artikel 16, § 4 en artikel 19, § 4 kan elk van de in afdeling 2 en afdeling 3 van hoofdstuk IV bedoelde commissies, werkgroepen of andere organismen een eigen reglement van orde inzake de organisatie en de werking daarvan vaststellen.<br /><br />Enig in het eerste lid bedoeld reglement van orde, opgesteld door de commissie, werkgroepen of andere organismen, vermeld in hoofdstuk IV, afdeling 2,  is onderworpen aan de goedkeuring van de Raad.
+§ 1. De Raad verkiest onder zijn leden een voorzitter en stelt uit zijn leden het dagelijks bestuur samen.<br>
+<br>
+Het dagelijks bestuur is samengesteld uit een gelijk aantal leden voorgedragen door de organisaties van de werkgevers, de middenstand en de landbouw, enerzijds, en door de organisaties van de werknemers, anderzijds, de voorzitter van de Raad die het dagelijks bestuur voorzit, meegerekend.<br>
+<br>
+§ 2. ...<br>
+<br>
+De Vlaamse regering stelt de presentiegelden en de vergoedingen van de leden van de strategische adviesraad vast.<br>
+<br>
+§ 3. De Raad stelt zijn reglement van orde op dat verplicht voorziet in:<br>
+1° de bevoegdheden van de voorzitter;<br>
+2° de bevoegdheden en de werkwijze van het dagelijks bestuur;<br>
+3° de wijze van bijeenroeping en beraadslaging;<br>
+4° de periodiciteit van de vergaderingen;<br>
+5° de wijze van besluitvorming van de Raad;<br>
+6° de bekendmaking van de handelingen;<br>
+6°bis de regeling inzake het personeel;<br>
+7° de voorwaarden waaronder de Raad een beroep kan doen op deskundigen, permanente of tijdelijke werkgroepen, overeenkomstig artikel 5, § 6;<br>
+8° de organisatie van de administratieve en materiële opvang en het verzekeren van het secretariaat van de in afdeling II van hoofdstuk IV genoemde opdrachten;<br>
+9° de organisatie van de administratieve en materiële opvang en het verzekeren van het secretariaat van het Vlaams Economisch en Sociaal Overlegcomité;<br>
+10° enige andere regeling die de werking van de Raad, alsmede de in diens schoot opgerichte commissies, werkgroepen of andere organismen, betreft.<br>
+11° de organisatie van de administratieve en materiële opvang en het verzekeren van het secretariaat van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin, dat werd opgericht bij het decreet van 29 juni 2018 tot oprichting van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin.<br>
+<br>
+Het in het eerste lid bedoelde reglement is onderworpen aan de goedkeuring van de Vlaamse regering.<br>
+<br>
+§ 4. Onverminderd het bepaalde in artikel 16, § 4 en artikel 19, § 4 kan elk van de in afdeling 2 en afdeling 3 van hoofdstuk IV bedoelde commissies, werkgroepen of andere organismen een eigen reglement van orde inzake de organisatie en de werking daarvan vaststellen.<br>
+<br>
+Enig in het eerste lid bedoeld reglement van orde, opgesteld door de commissie, werkgroepen of andere organismen, vermeld in hoofdstuk IV, afdeling 2, is onderworpen aan de goedkeuring van de Raad.
 
 ### ART. 8.
 
@@ -64,7 +92,9 @@ De Raad beschikt over een eigen secretariaat dat belast is met de administratiev
 <br>
 De Raad verzekert tevens het secretariaat van de bijzondere overleginstanties, vermeld in hoofdstuk IV, afdeling 3, en van de strategische adviesraden, vermeld in hoofdstuk Vbis en hoofdstuk Vter.<br>
 <br>
-De Raad zorgt tevens voor de nodige administratieve en materiële opvang en verzorgt het secretariaat van het overleg tussen de Vlaamse Regering en de sociale partners in het Vlaams Economisch en Sociaal Overlegcomité.
+De Raad zorgt tevens voor de nodige administratieve en materiële opvang en verzorgt het secretariaat van het overleg tussen de Vlaamse Regering en de sociale partners in het Vlaams Economisch en Sociaal Overlegcomité.<br>
+<br>
+De Raad zorgt voor de nodige administratieve en materiële opvang en verzorgt het secretariaat van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin.
 
 ### ART. 10bis.
 
@@ -106,7 +136,7 @@ Het Vlaams Parlement, de Vlaamse regering of het lid van de Vlaamse regering dat
 
 ### ART. 15bis.
 
-§ 1. De Raad bepaalt beroepscompetentieprofielen of competentieprofielen hetzij op eigen initiatief, hetzij op verzoek van de Vlaamse Regering, hetzij op verzoek van de sociale partners van een bedrijfstak of een samenhangend geheel van bedrijfstakken zoals door de Vlaamse Regering omschreven, hetzij op verzoek van een maatschappelijke sector zoals omschreven door de Vlaamse Regering.<br /><br />Een competentieprofiel kan alleen bepaald worden voor maatschappelijke rollen waarvoor geen beroepscompetentieprofiel bestaat of ontwikkeld zal worden.<br /><br />§ 2. De SERV garandeert bij de ontwikkeling van beroepscompetentieprofielen en competentieprofielen een paritaire vertegenwoordiging van de actoren uit de betrokken bedrijfstak, bedrijfstakken of maatschappelijke sectoren, en waarborgt de toepassing van Vlaamse, federale en internationale regelgeving over beroepsuitoefening.<br /><br />§ 3. Zoals bepaald in artikel 6, 3°, van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, werkt de Raad op verzoek van de Vlaamse Regering voor de beroepen, vermeld in artikel 6, 1°, van het voormelde decreet, de profielen uit.<br /><br />§ 4. De Raad ontwikkelt en adviseert de standaarden, vermeld in het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid, en zoals omschreven in het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid.
+...
 
 ## [AFDELING 3 BIJZONDERE OVERLEGINSTANTIES, OPGERICHT BIJ DE RAAD (ing. decr. 19 december 2008)]
 
@@ -138,7 +168,26 @@ Het Vlaams Parlement, de Vlaamse regering of het lid van de Vlaamse regering dat
 
 ### ART. 20.
 
-§ 1. Voor het gedeelte Algemeen Regeringsbeleid en gelijkekansen- en   integratiebeleid van het beleidsdomein Kanselarij en Bestuur, voor het   beleidsdomein Werk en Sociale Economie, voor het gedeelte Economie van het   beleidsdomein Economie, Wetenschap en Innovatie en voor het beleidsveld Energie,   geldt de Raad als strategische adviesraad zoals vermeld in artikel 2 van het   decreet van 18 juli 2003 tot regeling van strategische adviesraden.<BR><BR>§ 2.   In de hoedanigheid, vermeld in § l, vervult de Raad voor de genoemde   beleidsdomeinen de volgende opdrachten :<BR>1° uit eigen beweging of op verzoek   advies uitbrengen over de hoofdlijnen van het beleid;<BR>2° bijdragen tot het   vormen van een beleidsvisie;<BR>3° de maatschappelijke ontwikkelingen volgen en   interpreteren;<BR>4° uit eigen beweging of op verzoek advies uitbrengen over   voorontwerpen van decreet : van de Vlaamse Regering;<BR>5° uit eigen beweging of   op verzoek advies uitbrengen over voorstellen van decreet;<BR>6° uit eigen   beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de   Vlaamse Regering;<BR>7° reflecties leveren over de bij het Vlaams Parlement   ingediende beleidsnota's;<BR>8° uit eigen beweging of op verzoek advies   uitbrengen over ontwerpen van samenwerkingsakkoord die de Vlaamse Gemeenschap of   het Vlaams Gewest wil sluiten met de Staat of met andere gemeenschappen en   gewesten;<BR>9° uit eigen beweging of op verzoek advies uitbrengen over   beleidsvoornemens, beleidsplannen en regelgeving in voorbereiding op het niveau   van de Europese Unie, alsook over internationale verdragen in voorbereiding.   ».<BR><BR>§ 3. De Vlaamse Regering is verplicht om advies te vragen over :<BR>1°   de voorontwerpen van decreet, vermeld in § 2, 4°;<BR>2° de ontwerpen van besluit   van de Vlaamse Regering, vermeld in § 2, 6°, die van strategisch belang zijn.   Dat zijn ontwerpen van reglementair of organiek besluit die uitvoering geven aan   de inhoud van een decreet en waarvan de Vlaamse Regering beslist dat het   basisuitvoeringsbesluiten zijn.<BR><BR>§ 4. Alle adviezen die de Raad uitbrengt,   zijn openbaar.<BR><BR>§ 5. De opdrachten, vermeld in § 2, doen geen afbreuk aan   de andere taken, opdrachten en bevoegdheden van de Raad, vermeld in het   decreet.
+§ 1. Voor het gedeelte Algemeen Regeringsbeleid en gelijkekansen- en integratiebeleid van het beleidsdomein Kanselarij en Bestuur, voor het beleidsdomein Werk en Sociale Economie, voor het gedeelte Economie van het beleidsdomein Economie, Wetenschap en Innovatie en voor het beleidsveld Energie, geldt de Raad als strategische adviesraad zoals vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+§ 2. In de hoedanigheid, vermeld in § l, vervult de Raad voor de genoemde beleidsdomeinen de volgende opdrachten :<br>
+1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid;<br>
+2° bijdragen tot het vormen van een beleidsvisie;<br>
+3° de maatschappelijke ontwikkelingen volgen en interpreteren;<br>
+4° uit eigen beweging of op verzoek advies uitbrengen over voorontwerpen van decreet : van de Vlaamse Regering;<br>
+5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet;<br>
+6° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering;<br>
+7° reflecties leveren over de bij het Vlaams Parlement ingediende beleidsnota's;<br>
+8° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord die de Vlaamse Gemeenschap of het Vlaams Gewest wil sluiten met de Staat of met andere gemeenschappen en gewesten;<br>
+9° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en regelgeving in voorbereiding op het niveau van de Europese Unie, alsook over internationale verdragen in voorbereiding. ».<br>
+<br>
+§ 3. De Vlaamse Regering is verplicht om advies te vragen over :<br>
+1° de voorontwerpen van decreet, vermeld in § 2, 4°;<br>
+2° de ontwerpen van besluit van de Vlaamse Regering, vermeld in § 2, 6°, die van strategisch belang zijn. Dat zijn ontwerpen van reglementair of organiek besluit die uitvoering geven aan de inhoud van een decreet en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn.<br>
+<br>
+§ 4. Alle adviezen die de Raad uitbrengt, zijn openbaar.<br>
+<br>
+§ 5. De opdrachten, vermeld in § 2, doen geen afbreuk aan de andere taken, opdrachten en bevoegdheden van de Raad, vermeld in het decreet.
 
 ### ART. 21.
 
@@ -158,7 +207,7 @@ Bij de raad is de strategische adviesraad "Mobiliteitsraad van Vlaanderen", afge
 
 ### ART. 22ter.
 
-Bij de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid opgericht. Deze strategische adviesraad wordt geregeld door het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin.
+...
 
 ## [HOOFDSTUK Vquater. Strategische Adviesraad voor Landbouw en Visserij (ing. decr. 3 juli 2015, art. 6, I: 1 januari 2016)]
 
@@ -167,6 +216,10 @@ Bij de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheid
 Bij de Raad is de Strategische Adviesraad voor Landbouw en Visserij   opgericht. Die strategische adviesraad wordt geregeld door het decreet van 6   juli 2007 houdende de oprichting van de Strategische Adviesraad voor Landbouw en   Visserij.
 
 ## [HOOFDSTUK Vquinquies. Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin (ing. Decr. 29 juni 2018, art. 30, I: 1 januari 2019)]
+
+### ART 22quinquies.
+
+Bij de Raad is de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin opgericht. Deze raad wordt geregeld door het decreet van 29 juni 2018 tot oprichting van de Vlaamse Raad voor Welzijn, Volksgezondheid en Gezin.
 
 ## HOOFDSTUK VI OPHEFFINGS-, WIJZIGINGS- EN SLOTBEPALINGEN
 
