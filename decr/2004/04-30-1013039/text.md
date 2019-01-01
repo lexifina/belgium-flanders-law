@@ -8,13 +8,26 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br /><br />2° geestelijke gezondheidszorg: het aanbod van verantwoorde zorg aan personen met een psychische disfunctie met het oog op het herstel van stoornissen en het bereiken van een evenwicht met zichzelf en hun leefomgeving, met inbegrip van het aanleren of stimuleren van attitudes, vaardigheden en kennis die de maatschappelijke integratie en participatie bevorderen;<br /><br />3° integrale jeugdhulp: het aanbieden, op grond van een vraag of behoefte, van een samenhangend geheel van hulp aan de minderjarige of aan de minderjarige en zijn leefomgeving, om de ontplooiingskansen van de minderjarige te vrijwaren en zijn welzijn en gezondheid te verhogen;<br /><br />4° de ziekenhuiswetgeving: de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987 en alle andere regelgeving die op een algemene wijze de organisatie en de werking van ziekenhuizen regelt;<br /><br />5° psychiatrisch verzorgingstehuis zoals omschreven in het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de bijzondere erkenning van de psychiatrische verzorgingstehuizen;<br /><br />6° dagelijks bestuur: handelingen of verrichtingen die niet verder reiken dan de behoeften van de dagelijkse werking van het agentschap en de behoeften die geen tussenkomst van de raad van bestuur rechtvaardigen vanwege hun minder algemene impact of het hoogdringende karakter ervan;<br /><br />[7° agentschap: elk van de agentschappen, vermeld in artikel 3.  <span class="reference">(ing. decr. 31 maart 2006, art. 3, I: 1 januari 2007)</span> ]
+In dit decreet wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° geestelijke gezondheidszorg: het aanbod van verantwoorde zorg aan personen met een psychische disfunctie met het oog op het herstel van stoornissen en het bereiken van een evenwicht met zichzelf en hun leefomgeving, met inbegrip van het aanleren of stimuleren van attitudes, vaardigheden en kennis die de maatschappelijke integratie en participatie bevorderen;<br>
+3° integrale jeugdhulp: het aanbieden, op grond van een vraag of behoefte, van een samenhangend geheel van hulp aan de minderjarige of aan de minderjarige en zijn leefomgeving, om de ontplooiingskansen van de minderjarige te vrijwaren en zijn welzijn en gezondheid te verhogen;<br>
+4° de ziekenhuiswetgeving: de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987 en alle andere regelgeving die op een algemene wijze de organisatie en de werking van ziekenhuizen regelt;<br>
+5° psychiatrisch verzorgingstehuis zoals omschreven in het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de bijzondere erkenning van de psychiatrische verzorgingstehuizen;<br>
+6° dagelijks bestuur: handelingen of verrichtingen die niet verder reiken dan de behoeften van de dagelijkse werking van het agentschap en de behoeften die geen tussenkomst van de raad van bestuur rechtvaardigen vanwege hun minder algemene impact of het hoogdringende karakter ervan;<br>
+7° agentschap: elk van de agentschappen, vermeld in artikel 3.
 
 ## HOOFDSTUK II OPRICHTING
 
 ### ART. 3.
 
-[Er worden twee publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen met rechtspersoonlijkheid opgericht als vermeld in artikel 13 van het kaderdecreet. Die agentschappen dragen als naam Openbaar Psychiatrisch Zorgcentrum Geel respectievelijk Openbaar Psychiatrisch Zorgcentrum Rekem.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de agentschappen behoren.<br /><br />De Vlaamse Regering bepaalt de vestigingsplaats van de zetel van elk agentschap.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op de agentschappen.  <span class="reference">(verv. decr. 31 maart 2006, art. 4, I: 1januari 2007</span> ]<br />
+Er worden twee publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen met rechtspersoonlijkheid opgericht als vermeld in artikel III.7 van het Bestuursdecreet. Die agentschappen dragen als naam Openbaar Psychiatrisch Zorgcentrum Geel respectievelijk Openbaar Psychiatrisch Zorgcentrum Rekem.<br>
+<br>
+De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de agentschappen behoren.<br>
+<br>
+De Vlaamse Regering bepaalt de vestigingsplaats van de zetel van elk agentschap.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op de agentschappen.
 
 ## HOOFDSTUK III MISSIE EN TAKEN
 
@@ -32,17 +45,21 @@ De taak, bedoeld in artikel 5, omvat minstens:<br />1° het beheer van erkende b
 
 ### ART. 7.
 
-Naast de taken, vermeld in artikelen 5 en 6, kan het agentschap ook meewerken aan de uitvoering van het inclusieve beleid inzake geestelijke gezondheidszorg en integrale jeugdhulp.<br /><br />Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6 en 7. Het agentschap stelt zijn verworven kennis en expertise ter beschikking van de beleidsondersteuning [als vermeld in artikel 4, § 3, van het kaderdecreet.  <span class="reference">(verv. Decr. 31 maart 2006, art. 6, I: 1 januari 2007)</span> ] Het agentschap zorgt voor permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen inzake kennis en expertise.<br /><br />Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering te allen tijde specifieke taken aan het agentschap toewijzen.
+Naast de taken, vermeld in artikelen 5 en 6, kan het agentschap ook meewerken aan de uitvoering van het inclusieve beleid inzake geestelijke gezondheidszorg en integrale jeugdhulp.<br>
+<br>
+Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6 en 7. Het agentschap stelt zijn verworven kennis en expertise ter beschikking in het kader van de toepassing van artikel III.2, derde lid, van het Bestuursdecreet. Het agentschap zorgt voor permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
+<br>
+Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering te allen tijde specifieke taken aan het agentschap toewijzen.
 
 ### ART. 8.
 
-Voor de toepassing van artikel 12 van het kaderdecreet wordt onder taken van beleidsuitvoering verstaan die taken waarvan de uitvoering onderworpen is aan het vereiste van erkenning door de Vlaamse regering of die taken die overeenkomstig artikel 7, derde lid, van dit decreet aan het agentschap worden toegewezen.
+Voor de toepassing van artikel III.18 van het Bestuursdecreet wordt onder taken van beleidsuitvoering verstaan die taken waarvan de uitvoering onderworpen is aan het vereiste van erkenning door de Vlaamse regering of die taken die overeenkomstig artikel 7, derde lid, van dit decreet aan het agentschap worden toegewezen.
 
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
 ### ART. 9.
 
-Het agentschap wordt bestuurd door een raad van bestuur, samengesteld uit maximaal twaalf leden, met inbegrip van een voorzitter, een ondervoorzitter en onder voorbehoud van de toepassing van artikel 18, § 2, van het kaderdecreet.<br>
+Het agentschap wordt bestuurd door een raad van bestuur, samengesteld uit maximaal twaalf leden, met inbegrip van een voorzitter, een ondervoorzitter.<br>
 <br>
 De volgende personen maken in elk geval deel uit van de raad van bestuur:<br>
 1° personen met deskundigheid op het vlak van geestelijke gezondheidszorg;<br>
@@ -53,7 +70,7 @@ Van de raad van bestuur kunnen geen personen deel uitmaken die personeelslid zij
 <br>
 Het vrijwillige ontslag van een lid van de raad van bestuur moet aanvaard worden door de Vlaamse regering alvorens uitwerking te hebben.<br>
 <br>
-Met toepassing van artikel 18, § 1, tweede lid, van het kaderdecreet voorziet de Vlaamse regering binnen drie maanden in de vervanging van elk lid dat opgehouden heeft deel uit te maken van de raad van bestuur vóór de normale beëindiging van zijn mandaat.
+Met toepassing van artikel III.10, § 1, tweede lid, van het Bestuursdecreet voorziet de Vlaamse regering binnen drie maanden in de vervanging van elk lid dat opgehouden heeft deel uit te maken van de raad van bestuur vóór de normale beëindiging van zijn mandaat.
 
 ### ART. 10.
 
@@ -85,7 +102,21 @@ Het agentschap voert een economische en een analytische boekhouding conform bepa
 
 ### ART. 16.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende [de agentschappen, vermeld in artikel 3  <span class="reference">(verv. decr. 31 maart 2006, art. 9, I: 1 januari 2007)</span> ] coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te co÷rdineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Bestuursdecreet.<br>
+<br>
+De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende [de agentschappen, vermeld in artikel 3 (verv. decr. 31 maart 2006, art. 9, I: 1 januari 2007) ] coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te co÷rdineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
 
 ### ART. 16bis.
 
