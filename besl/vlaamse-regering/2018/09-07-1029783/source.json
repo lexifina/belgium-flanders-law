@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029783,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van het besluit van de Vlaamse Regering van 19 mei 2000 tot vaststelling van nadere regels voor de samenstelling, de organisatie en de werkwijze van de provinciale en gemeentelijke commissies voor ruimtelijke ordening, wat betreft de intergemeentelijke commissie voor ruimtelijke ordening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029783/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "4b30cfa04ea8c6ef22c8a55b62eb5926fee96d5cd8fd074e57802d2b854a155e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029783&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-09-07",
+  "gazette": "2018-10-04",
+  "numac": 2018014008,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
