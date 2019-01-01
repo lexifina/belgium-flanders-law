@@ -213,6 +213,27 @@ Per erkend woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar,   maxim
 
 ## [HOOFDSTUK III/1 Bijkomende erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 566, I: 1 januari 2019)]
 
+### ART 10/4.
+
+Een bijkomende erkenning kan verleend worden aan woonzorgcentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen opneemt.<br>
+<br>
+De bijkomende erkenning van een woonzorgcentrum kan betrekking hebben:<br>
+1° hetzij op de totaliteit van de woongelegenheden;<br>
+2° hetzij op een gedeelte ervan.<br>
+<br>
+Om een bijkomende erkenning als vermeld in het eerste lid te verkrijgen en te behouden, moet een woonzorgcentrum voldoen aan de voorwaarden, vermeld in hoofdstuk III/1 van bijlage XII.
+
+### ART 10/5.
+
+§ 1. Aan een dagverzorgingscentrum kan een bijkomende erkenning worden verleend:<br>
+1° hetzij voor de opvang van zorgafhankelijke personen die beantwoorden aan de afhankelijkheidscategorieën F, Fd of D, vermeld in artikel 426 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+2° hetzij voor de opvang van personen die lijden aan een ernstige ziekte, die beantwoorden aan de afhankelijkheidscategorie Fp, vermeld in artikel 427 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+§ 2. Een bijkomende erkenning als dagverzorgingscentrum voor zorgafhankelijke personen kan verleend worden aan dagverzorgingscentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen overdag opvangt, en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving als vermeld in bijlage IX.<br>
+§ 3. Een bijkomende erkenning als dagverzorgingscentrum voor personen die lijden aan een ernstige ziekte kan verleend worden aan dagverzorgingscentra die een verzorgingsstructuur aanbieden die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving als vermeld in bijlage XV.<br>
+§ 4. Om een bijkomende erkenning voor de opvang van zorgafhankelijke personen als vermeld in paragraaf 1, 1°, te verkrijgen en te behouden, moet een dagverzorgingscentrum voldoen aan de voorwaarden, vermeld in hoofdstuk III/1 van bijlage IX.<br>
+Om een bijkomende erkenning voor de opvang van personen die lijden aan een ernstige ziekte als vermeld in paragraaf 1, 2°, te verkrijgen en te behouden, moet een dagverzorgingscentrum voldoen aan de voorwaarden, vermeld in hoofdstuk 3/1 van bijlage XV.<br>
+§ 5. Het aantal erkende entiteiten van een dagverzorgingscentrum met een bijkomende erkenning wordt vermeld in de erkenningsbeslissing die ook preciseert of een bijkomende erkenning als een dagverzorgingscentrum voor zorgafhankelijke personen of een bijkomende erkenning als dagverzorgingscentrum voor personen die lijden aan een ernstige ziekte, wordt toegekend.
+
 ## [HOOFDSTUK III/2 Bijzondere erkenningsvoorwaarden (ing. BVR 15 maart 2019, art. 11, I: 13 april 2019)]
 
 ## HOOFDSTUK IV Subsidiëring
@@ -624,7 +645,8 @@ f) de zorg voor veiligheid en hygiëne in de woning;<br>
 25° DOP-uren : de uren gezinszorg die gedurende maximaal 3 maanden geboden worden aan een gebruiker die een ondersteuningsplan van een DOP heeft en waarvoor een extra subsidie wordt verkregen;<br>
 26° regionale dienst: een regionale dienst voor gezinszorg en aanvullende thuiszorg;<br>
 27° stagiair: een leerling, student of cursist die in het kader van een leerprogramma dat georganiseerd wordt door een onderwijsinstelling of een opleidingscentrum, arbeid verricht bij een dienst voor gezinszorg en aanvullende thuiszorg, in vergelijkbare omstandigheden als de personeelsleden van die dienst, om beroepservaring op te doen;<br>
-28° kraamzorg: de gezinszorg of aanvullende thuiszorg voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling.</p>
+28° kraamzorg: de gezinszorg of aanvullende thuiszorg voor de moeder, het kind en hun gezin, in de periode van een maand voor de vermoedelijke bevallingsdatum tot drie maanden na de bevalling;<br>
+29° regionale stad: een regionale stad als vermeld in de bijlage bij het Zorgregiodecreet of het tweetalige gebied Brussel-Hoofdstad.</p>
 
 ## HOOFDSTUK II Programmatie
 
@@ -784,11 +806,13 @@ Het jaarlijks extra aantal te subsidiëren uren gezinszorg bedraagt minstens 4 %
 <br>
 Met behoud van de toepassing van het eerste lid, legt de Vlaamse Regering elk jaar het totale aantal subsidiabele uren vast, waarvan maximaal 32.265 uren DOP-uren zijn.<br>
 <br>
-De minister bepaalt jaarlijks per erkende dienst voor gezinszorg en aanvullende thuiszorg het maximale aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het toekennen van het jaarlijkse extra urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften die vastgesteld worden per regionale stad als vermeld in de bijlage bij het Zorgregiodecreet. Het procentueel aandeel van de extra te subsidiëren uren gezinszorg, dat kan worden toegekend aan nieuwe initiatieven, mag niet meer bedragen dan de procentuele ruimte in de programmatie in het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de extra te subsidiëren uren gezinszorg worden toegekend.<br>
+De minister bepaalt jaarlijks per regionale stad en per erkende dienst voor gezinszorg en aanvullende thuiszorg het maximale aantal subsidiabele uren waarover de dienst beschikt voor het aanbieden van gezinszorg. Bij het toekennen van het jaarlijkse extra urencontingent houdt de minister onder andere rekening met een evenredige beschikbaarheid van uren in relatie tot de behoeften die vastgesteld worden per regionale stad. Het procentueel aandeel van de extra te subsidiëren uren gezinszorg, dat kan worden toegekend aan nieuwe initiatieven, mag niet meer bedragen dan de procentuele ruimte in de programmatie in het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin de extra te subsidiëren uren gezinszorg worden toegekend.<br>
 <br>
 De procentuele ruimte in de programmatie, vermeld in het derde lid, is het procentueel aandeel van de uren gezinszorg in het programmacijfer, vermeld in artikel 2, voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, die nog niet effectief gepresteerd zijn in hetzelfde jaar door de erkende diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 Om de effectief gepresteerde uren gezinszorg, vermeld in het vierde lid, te bepalen, worden de gegevens gebruikt die doorgestuurd werden naar Vesta. De effectief gepresteerde uren gezinszorg bevatten de uren die gepresteerd zijn in een dagverzorgingscentrum.<br>
+<br>
+Een erkende dienst mag de onbenutte subsidiabele uren gezinszorg van een bepaalde regionale stad aanwenden in een andere regionale stad.<br>
 <br>
 De minister bepaalt jaarlijks het aantal te erkennen nieuwe initiatieven. Diensten die erkend worden ter uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2018 tot vaststelling van de regels voor het verlenen van een erkennings- of omzettingskalender en tot wijziging van de regels betreffende de voorafgaande vergunning, worden als een nieuw initiatief beschouwd.<br>
 <br>
@@ -799,13 +823,37 @@ Aan een erkende dienst wordt in het eerste werkjaar van zijn erkenning een urenc
 
 ### ART. 9.
 
-...<br /><br />
+Een erkende dienst kan voor elke regionale stad waarin hij minstens 1539 uur gezinszorg effectief presteert, extra uren gezinszorg aanvragen bij het agentschap.<br>
+<br>
+De minister bepaalt de criteria voor de ontvankelijkheid van de aanvraag, vermeld in het eerste lid. Hij houdt daarbij rekening met:<br>
+1° de realisatie van het toegekende urencontingent gezinszorg van de dienst;<br>
+2° de mate waarin de dienst zijn werking richt naar kwetsbare doelgroepen. De kwetsbare doelgroepen worden vastgesteld aan de hand van de volgende parameters, waarbij de dienst minstens twee van de vier doelgroepen moet bereiken:<br>
+a) de behoeften van de gebruiker gezinszorg, die zijn vastgesteld op de wijze, vermeld in artikel 4, A, 1°, van deze bijlage;<br>
+b) de gebruikersbijdrage gezinszorg, berekend conform bijlage II van het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg;<br>
+c) de onregelmatige prestaties, vermeld in artikel 11, § 1, van deze bijlage;<br>
+d) de reden voor het opstarten van de gezinszorg, zoals geregistreerd in Vesta.<br>
+<br>
+Vanaf de toekenning van het extra urencontingent gezinszorg voor het werkingsjaar 2022 wordt de toetsing van de realisatie, vermeld in het tweede lid, 1°, uitgevoerd op het niveau van een regionale stad.<br>
+<br>
+De dienst kan extra uren gezinszorg aanvragen met het formulier dat het agentschap op zijn website ter beschikking stelt. De dienst moet de aanvraag vóór 1 oktober van het kalenderjaar dat voorafgaat aan het kalenderjaar waarin de minister het extra urencontingent gezinszorg toekent, aan het agentschap bezorgen.<br>
+<br>
+Een nieuw initiatief krijgt geen extra uren gezinszorg in het jaar dat volgt op het jaar van zijn erkenning.
+
+### ART 9/1.
+
+In het kader van zorg op maat kan een erkende dienst een aanvraag indienen om een deel van zijn maximale subsidiabele uren gezinszorg, die zijn toegewezen ter uitvoering van artikel 8, derde lid, om te zetten in vte's van logistiek personeel, of om een deel van zijn toegewezen vte's van logistiek personeel, die zijn toegewezen ter uitvoering van artikel 25, § 1, om te zetten in uren gezinszorg.<br>
+<br>
+Een omzetting van uren gezinszorg in vte's van logistiek personeel als vermeld in het eerste lid, kan op voorwaarde dat de dienst zijn urencontingent gezinszorg van het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft, voor minstens 95 % heeft gerealiseerd, zoals berekend door Vesta.<br>
+<br>
+Voor aanvragen vanaf het werkingsjaar 2022 wordt de toetsing van de realisatie, vermeld in het tweede lid, uitgevoerd op het niveau van een regionale stad. De minister bepaalt de nadere regels voor de berekening van de realisatie van het urencontingent. Hij houdt daarbij rekening met de prestaties gezinszorg van de dienst op het niveau van een regionale stad en het urencontingent gezinszorg dat aan de dienst toegewezen is voor die regionale stad.<br>
+<br>
+De aanvraag tot omzetting van uren gezinszorg of vte's van logistiek personeel, vermeld in het eerste lid, wordt ingediend op de wijze, vermeld in artikel 9, vierde lid, en is beperkt tot respectievelijk 4617 uur gezinszorg of 3 vte's van logistiek personeel.
 
 ### ART. 10.
 
 De subsidie bestaat uit :<br>
-1° een forfaitair bedrag van 23,8310 euro per gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend personeel en van het bevorderen van de deskundigheid van het verzorgend personeel;<br>
-2° een forfaitair bedrag van 36.885 euro per jaar en per 120 geholpen gebruikers, als subsidiëring van het begeleidend personeel;<br>
+1° een forfaitair bedrag van 23,8334 euro per gepresteerd uur en per uur bijscholing, als subsidiëring van het verzorgend personeel en van het bevorderen van de deskundigheid van het verzorgend personeel;<br>
+2° een forfaitair bedrag van 36.913 euro per jaar en per 120 geholpen gebruikers, als subsidiëring van het begeleidend personeel;<br>
 3° een forfaitair bedrag van 19.024 euro per jaar en per 75 VTE verzorgend personeel, als subsidiëring van het leidinggevend personeel;<br>
 4° een forfaitair bedrag van 26.441 euro per jaar en per 200 geholpen gebruikers als subsidiëring van de administratie- en coördinatiekosten.<br>
 <br>
@@ -821,7 +869,7 @@ Voor alle andere verplaatsingen dan de voormelde verplaatsingen, bijvoorbeeld he
 
 § 1. Iedere dienst verleent onregelmatige prestaties afhankelijk van de noodwendigheden. Onregelmatige prestaties zijn uren die binnen het toegekende urencontingent gepresteerd worden, hetzij op weekdagen tussen 20 uur en 7 uur, hetzij op zater-, zon- en feestdagen, met het oog op een continue hulp- en dienstverlening.<br>
 <br>
-§ 2. De subsidie, vermeld in artikel 10, 1°, wordt verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd met&nbsp;84,65 % voor uren die gepresteerd worden op een zon- of feestdag.<br>
+§ 2. De subsidie, vermeld in artikel 10, 1°, wordt verhoogd met 30 % voor uren die gepresteerd worden op een zaterdag en voor uren die gepresteerd worden op weekdagen tussen 20 uur en 7 uur. Ze wordt verhoogd met&nbsp;100 % voor uren die gepresteerd worden op een zon- of feestdag.<br>
 <br>
 Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 tot 24 uur) waarop de uren gepresteerd worden.<br>
 <br>
@@ -829,7 +877,7 @@ Het percentage van de verhoging wordt bepaald door de astronomische dag (van 0 t
 <br>
 Prestaties tussen 22 uur en 7 uur die korter zijn dan 8 uur worden, binnen het urencontingent, gelijkgesteld met een prestatie van 8 uur.<br>
 <br>
-§ 4. De verhogingen, vermeld in paragraaf 2, worden begrensd tot 3,8% van het toegekende urencontingent.<br>
+§ 4. De verhogingen, vermeld in paragraaf 2, worden begrensd tot 4,2% van het toegekende urencontingent.<br>
 <br>
 Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die het percentage, vermeld in het eerste lid, overschrijden, de verhogingen, vermeld in paragraaf 2, ontvangen voor de onregelmatige prestaties die het percentage, vermeld in het eerste lid, overschrijden, voor zover die grens op sectorniveau niet wordt overschreden. De beschikbare middelen worden verdeeld over de betrokken diensten in verhouding tot de onregelmatige prestaties boven het percentage, vermeld in het eerste lid.
 
@@ -851,7 +899,7 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp   jaa
 
 ### ART. 14.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van&nbsp;3.668.676,79 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van&nbsp;3.666.080,54 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -866,7 +914,7 @@ Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat be
 
 ### ART. 15.
 
-§ 1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 156.862,75 euro verdeeld tussen de erkende diensten voor gezinszorg en aanvullende thuiszorg en de erkende diensten voor logistieke hulp.<br>
+§ 1. Voor de vergoeding van verplaatsingen met de fiets of bromfiets in opdracht wordt een budget van 159.765,52 euro verdeeld tussen de erkende diensten voor gezinszorg en aanvullende thuiszorg en de erkende diensten voor logistieke hulp.<br>
 <br>
 Het deel van het budget, vermeld in het eerste lid, dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan personeel van gezinszorg is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent gezinszorg wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -889,11 +937,37 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3,
 
 ### ART. 15/1.
 
-§ 1. Voor elke kilometer die het verzorgend personeel, het logistieke   personeel of de doelgroepwerknemer voor de dienst voor gezinszorg en aanvullende   thuiszorg of voor de logistieke dienst, vermeld in bijlage II, heeft afgelegd   met een privéwagen, ontvangt de dienst 0,1275 euro.<BR><BR>Vanaf 2014 wordt het   bedrag, vermeld in het eerste lid, vervangen door 0,1471 euro.<BR><BR>Vanaf 2015   wordt het bedrag, vermeld in het eerste lid, vervangen door 0,1569   euro.<BR><BR>§ 2. Alleen de kilometers van verplaatsingen met de privéwagen, die   door de dienst vergoed worden, komen in aanmerking, met uitzondering van de   verplaatsingen in het kader van het verrichten van boodschappen voor de   gebruiker.<BR><BR>In paragraaf 1 wordt verstaan onder :<BR>1° verzorgend   personeel : het personeel dat gefinancierd wordt met middelen van artikel   10.<BR>2° logistiek personeel of de doelgroepwerknemer : het personeel dat aan   de erkende dienst voor gezinszorg en aanvullende thuiszorg wordt toegewezen met   toepassing van artikel 25, § 1, of aan de erkende dienst voor logistieke hulp   met toepassing van artikel 6, § 1, van bijlage II.<BR><BR>§ 3. De dienst bezorgt   jaarlijks aan het agentschap tegen uiterlijk 1 april het aantal kilometers van   het afgelopen jaar die in aanmerking komen conform paragraaf 2.<BR><BR>Het   bedrag, vermeld in paragraaf 1, wordt aan de diensten toegekend samen met hun   voorschot van het derde trimester.<BR><BR>Het bedrag, vermeld in paragraaf 1,   wordt geïndexeerd conform artikel 14, § 3, derde lid.
+§ 1. Voor elke kilometer die het verzorgend personeel, het logistieke personeel of de doelgroepwerknemer voor de dienst voor gezinszorg en aanvullende thuiszorg of voor de logistieke dienst, vermeld in bijlage II, heeft afgelegd met een privéwagen, ontvangt de dienst 0,1275 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 0,1471 euro.<br>
+<br>
+Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 0,1569 euro.<br>
+<br>
+§ 2. Alleen de kilometers van verplaatsingen met de privéwagen, die door de dienst vergoed worden, komen in aanmerking, met uitzondering van de verplaatsingen in het kader van het verrichten van boodschappen voor de gebruiker.<br>
+<br>
+In paragraaf 1 wordt verstaan onder :<br>
+1° verzorgend personeel : het personeel dat gefinancierd wordt met middelen van artikel 10.<br>
+2° logistiek personeel of de doelgroepwerknemer : het personeel dat aan de erkende dienst voor gezinszorg en aanvullende thuiszorg wordt toegewezen met toepassing van artikel 25, § 1, of aan de erkende dienst voor logistieke hulp met toepassing van artikel 6, § 1, van bijlage II.<br>
+<br>
+§ 3. De dienst bezorgt jaarlijks aan het agentschap tegen uiterlijk 1 april het aantal kilometers van het afgelopen jaar die in aanmerking komen conform paragraaf 2.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt aan de diensten toegekend samen met hun voorschot van het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde lid.<br>
+<br>
+§ 4. Voor de maatregel verplaatsingen met een privéwagen wordt ter uitvoering van VIA5 een extra budget van 147.058,82 euro boven op het budget, vermeld in paragraaf 1, verdeeld tussen de private diensten voor gezinszorg en aanvullende thuiszorg en de private diensten voor logistieke hulp.<br>
+<br>
+Het deel van het budget dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
+<br>
+Het budget, vermeld in het eerste lid, wordt verdeeld op basis van het aantal kilometers dat de dienst jaarlijks doorgeeft aan het agentschap conform paragraaf 3.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt aan de diensten toegekend, samen met hun voorschot voor het derde trimester.<br>
+<br>
+Het bedrag, vermeld in het eerste lid wordt geïndexeerd conform artikel 14, § 3, derde lid.
 
 ### ART. 15/2.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 6.376.560,14 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 7.523.896,77 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -905,7 +979,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 15/3.
 
-§ 1. Voor de maatregel managementondersteuning wordt een budget van 946.401,23 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+§ 1. Voor de maatregel managementondersteuning wordt een budget van 968.085,68 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Dat budget stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1022,7 +1096,7 @@ De voormelde koppeling aan het indexcijfer wordt evenwel berekend en toegepast o
 
 ### ART. 30/1.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 1.720.049,84 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 2.002.732,11 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
 <br>
@@ -1034,7 +1108,7 @@ Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 31.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.042.502,80 euro.<br>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.045.099,05 euro.<br>
 <br>
 § 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten, vermeld in paragraaf 1, op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
 <br>
@@ -1211,6 +1285,10 @@ De erkende diensten voor gezinszorg en aanvullende thuiszorg die uit een   regio
 ### ART 47.
 
 Een private dienst voor gezinszorg en aanvullende thuiszorg die op 1 oktober 2018 erkend is, wordt tot en met 31 december 2019 geacht te beantwoorden aan de voorwaarde, vermeld in artikel 4, B, 14°, ook al past hij de loon- en arbeidsvoorwaarden van het paritair comité 318.02 niet toe.
+
+### ART 47.
+
+In afwijking van artikel 9, tweede lid, 2°, bereikt de dienst bij de toekenning van het extra urencontingent gezinszorg voor het werkingsjaar 2019 minstens een van de vier kwetsbare doelgroepen, vermeld in artikel 9, tweede lid.
 
 ## BIJLAGE II Diensten voor logistieke hulp
 
@@ -1393,7 +1471,15 @@ Voor de maatregel werkdrukvermindering wordt een budget verdeeld tussen de   erk
 
 ### ART. 11/3.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 3185,68 euro   verdeeld tussen de erkende private diensten voor logistieke hulp.<BR><BR>Vanaf   2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 12.649,70   euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen   door 13.283,61 euro.<BR><BR>Vanaf 2015 wordt het bedrag, vermeld in het eerste   lid, vervangen door 6.155,82 euro.<BR><BR>§ 2. Het budget, vermeld in paragraaf   1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens   over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden   de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar   waarop het budget betrekking heeft.<BR><BR>§ 3. Het budget, vermeld in paragraaf   1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van   het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens   moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<BR><BR>Het   subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot   voor het derde trimester.<BR><BR>Het bedrag, vermeld in paragraaf 1, wordt   geïndexeerd conform artikel 11.
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 7199,60 euro verdeeld tussen de erkende private diensten voor logistieke hulp.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+<br>
+Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot voor het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 11.
 
 ### ART. 12.
 
@@ -1608,7 +1694,18 @@ In deze bijlage wordt verstaan onder :<br />1° dienst : een dienst maatschappel
 
 ### ART. 2.
 
-Het programma voor de diensten voor maatschappelijk werk van de ziekenfondsen bestaat uit programmacijfers voor het aantal personeelsleden per landsbond van ziekenfondsen. De programmacijfers worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad op basis van objectieve parameters als volgt per landsbond vastgelegd : <br />1° per 10 000 personen die potentieel in aanmerking komen voor een terugbetaling van geneeskundige verstrekkingen in het kader van de sociale maximumfactuur, hierna sociale MAF te noemen : 0,69 VTE;<br />2° per 10 000 personen die in het kader van de sociale MAF effectief een terugbetaling van geneeskundige verstrekkingen genieten : 3,08 VTE; <br />3° per 10 000 personen met minstens een score van 15 op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming, hulp aan bejaarden en hulp aan derden : 52,79 VTE;<br />4° per 10 000 invaliden : 4,68 VTE;<br />5° per 10 000 aangesloten leden : 0,034 VTE;<br />6° per 10 000 aangesloten leden, ouder dan 80 jaar : 3,61 VTE.<br /><br />Voor de berekening van de programmacijfers wordt uitgegaan van de beschikbare gegevens van het derde jaar dat aan het jaar van berekening voorafgaat.<br /><br />De minister bepaalt de wijze waarop het aantal geprogrammeerde VTE per landsbond verdeeld wordt over de erkende diensten maatschappelijk werk behorend tot eenzelfde landsbond. <br /><br />
+Het programma voor de diensten voor maatschappelijk werk van de ziekenfondsen bestaat uit programmacijfers voor het aantal personeelsleden per landsbond van ziekenfondsen. De programmacijfers worden voor het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad op basis van objectieve parameters als volgt per landsbond vastgelegd :<br>
+1° per 10 000 personen die potentieel in aanmerking komen voor een terugbetaling van geneeskundige verstrekkingen in het kader van de sociale maximumfactuur, hierna sociale MAF te noemen : 0,69 VTE;<br>
+2° per 10 000 personen die in het kader van de sociale MAF effectief een terugbetaling van geneeskundige verstrekkingen genieten : 3,08 VTE;<br>
+3° per 10 000 personen met minstens een score van 15 op de medisch-sociale schaal die wordt gebruikt voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming, het zorgbudget voor ouderen met een zorgnood en hulp aan derden : 52,79 VTE;<br>
+4° per 10 000 invaliden : 4,68 VTE;<br>
+5° per 10 000 aangesloten leden : 0,034 VTE;<br>
+6° per 10 000 aangesloten leden, ouder dan 80 jaar : 3,61 VTE.<br>
+<br>
+Voor de berekening van de programmacijfers wordt uitgegaan van de beschikbare gegevens van het derde jaar dat aan het jaar van berekening voorafgaat.<br>
+<br>
+De minister bepaalt de wijze waarop het aantal geprogrammeerde VTE per landsbond verdeeld wordt over de erkende diensten maatschappelijk werk behorend tot eenzelfde landsbond.<br>
+&nbsp;
 
 ## HOOFDSTUK III Specifieke erkenningsvoorwaarden
 
@@ -2151,7 +2248,18 @@ In het dagverzorgingscentrum of in de onmiddellijke nabijheid ervan moet ten min
 
 ### ART. 51.
 
-Een dagverzorgingscentrum kan worden erkend voor het verstrekken van zorg- en dienstverlening aan uitsluitend gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verleend, als het voldoet aan de specifieke voorwaarden van afdeling 1 tot en met 4 van dit hoofdstuk. Concreet houdt dat het volgende in :<br />1° het dagverzorgingscentrum wordt uitgebaat door een initiatiefnemer die ook een erkende dienst voor gezinszorg en aanvullende thuiszorg uitbaat;<br />2° de persoonsverzorging, de huishoudelijke hulp en de psychosociale ondersteuning voor de gebruikers in het dagverzorgingscentrum worden verricht door de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, conform de regels van bijlage I met uitzondering van artikel 4, A, 9°, van die bijlage;<br />3° een verzorgend personeelslid van de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, mag zorg- en dienstverlening als vermeld in punt 2° aan gemiddeld vier gebruikers per jaar in het dagverzorgingscentrum verstrekken, met een maximum van tegelijkertijd zes gebruikers per uur;<br />4° het dagverzorgingscentrum verstrekt alleen zorg- en dienstverlening aan gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verstrekt door een erkende dienst voor gezinszorg en aanvullende thuiszorg;<br />5° het dagverzorgingscentrum werkt samen met een thuiszorgvoorziening of een ouderenvoorziening, met het oog op continuïteit van zorg in het natuurlijke thuismilieu;<br />6° het dagverzorgingscentrum biedt uitsluitend zorg- en dienstverlening aan op een weekdag tussen 7 uur en 20 uur, die geen feestdag is;<br />7° in afwijking van artikel 11, 3°, artikel 12, derde lid, artikel 14, 24, 25, eerste lid, artikel 26, 27, 29 en artikel 32, 2°, 3° en 4°, factureert het dagverzorgingscentrum voor de andere zorg- en dienstverlening dan die het centrum aan de gebruiker verstrekt, een prijs per uur in plaats van een dagprijs aan de gebruiker. De minister kan de nadere regels bepalen;<br />8° het dagverzorgingscentrum realiseert een gemiddelde bezettingsgraad van maximaal tien;<br />9° in afwijking van artikel 38 ontwikkelt het dagverzorgingscentrum een vormings-, trainings- en opleidingsbeleid voor het personeel overeenkomstig artikel 4, B, 9° en 10°, van de bijlage I;<br />10° het dagverzorgingscentrum kan geen bijzondere erkenning verkrijgen als centrum voor dagverzorging als vermeld in het koninklijk besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels;<br />11° het dagverzorgingscentrum betaalt aan de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, voor de zorg- en dienstverlening, vermeld in punt 2°, een vergoeding conform de regels die de minister bepaalt.
+Een dagverzorgingscentrum kan worden erkend voor het verstrekken van zorg- en dienstverlening aan uitsluitend gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verleend, als het voldoet aan de specifieke voorwaarden van afdeling 1 tot en met 4 van dit hoofdstuk. Concreet houdt dat het volgende in :<br>
+1° het dagverzorgingscentrum wordt uitgebaat door een initiatiefnemer die ook een erkende dienst voor gezinszorg en aanvullende thuiszorg uitbaat;<br>
+2° de persoonsverzorging, de huishoudelijke hulp en de psychosociale ondersteuning voor de gebruikers in het dagverzorgingscentrum worden verricht door de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, conform de regels van bijlage I met uitzondering van artikel 4, A, 9°, van die bijlage;<br>
+3° een verzorgend personeelslid van de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, mag zorg- en dienstverlening als vermeld in punt 2° aan gemiddeld vier gebruikers per jaar in het dagverzorgingscentrum verstrekken, met een maximum van tegelijkertijd zes gebruikers per uur;<br>
+4° het dagverzorgingscentrum verstrekt alleen zorg- en dienstverlening aan gebruikers aan wie gezinszorg of aanvullende thuiszorg wordt verstrekt door een erkende dienst voor gezinszorg en aanvullende thuiszorg;<br>
+5° het dagverzorgingscentrum werkt samen met een thuiszorgvoorziening of een ouderenvoorziening, met het oog op continuïteit van zorg in het natuurlijke thuismilieu;<br>
+6° het dagverzorgingscentrum biedt uitsluitend zorg- en dienstverlening aan op een weekdag tussen 7 uur en 20 uur, die geen feestdag is;<br>
+7° in afwijking van artikel 11, 3°, artikel 12, derde lid, artikel 14, 24, 25, eerste lid, artikel 26, 27, 29 en artikel 32, 2°, 3° en 4°, factureert het dagverzorgingscentrum voor de andere zorg- en dienstverlening dan die het centrum aan de gebruiker verstrekt, een prijs per uur in plaats van een dagprijs aan de gebruiker. De minister kan de nadere regels bepalen;<br>
+8° het dagverzorgingscentrum realiseert een gemiddelde bezettingsgraad van maximaal tien;<br>
+9° in afwijking van artikel 38 ontwikkelt het dagverzorgingscentrum een vormings-, trainings- en opleidingsbeleid voor het personeel overeenkomstig artikel 4, B, 9° en 10°, van de bijlage I;<br>
+10° het dagverzorgingscentrum kan geen bijkomende erkenning verkrijgen als vermeld in artikel 10/5, § 1 van dit besluit;<br>
+11° het dagverzorgingscentrum betaalt aan de dienst voor gezinszorg en aanvullende thuiszorg, vermeld in punt 1°, voor de zorg- en dienstverlening, vermeld in punt 2°, een vergoeding conform de regels die de minister bepaalt.
 
 ## [Afdeling VI Specifieke erkenningsvoorwaarden voor dagverzorgingscentra die uitsluitend gebruikers met een chronische aandoening verzorgen (ing. BVR 16 mei 2014, art. 5, I: 1 juni 2014)]
 
@@ -2167,11 +2275,42 @@ Op een dagverzorgingscentrum dat erkend is met toepassing van artikel 51,   blij
 
 ## [Afdeling I Algemene erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 569, I: 1 januari 2019)]
 
+### ART 51/3.
+
+De dagverzorgingscentra met een bijkomende erkenning voor de opvang van zorgafhankelijke personen zijn bestemd voor personen die beantwoorden aan de afhankelijkheidscategorieën F, Fd of D, vermeld in artikel 426 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+
 ## [Afdeling II Functionele erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 569, I: 1 januari 2019)]
+
+### ART 51/4.
+
+Voor dagverzorgingscentra, vermeld in dit hoofdstuk, die zich in een woonzorgcentrum bevinden, moet een aparte eenheid gecreëerd worden.
 
 ## [Afdeling III Organisatorische erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 569, I: 1 januari 2019)]
 
+### ART 51/5.
+
+§ 1. Voor het personeel gelden de volgende erkenningsvoorwaarden per vijftien personen die verblijven in een dagverzorgingscentrum met een bijkomende erkenning voor de opvang van zorgafhankelijke personen:<br>
+1° 0,75 voltijds equivalent verpleegkundige;<br>
+2° 2,03 voltijds equivalenten eenheid personeel die de verpleegkundigen daadwerkelijk bijstaan in de zorgverstrekking, de afhankelijke personen helpen bij de handelingen van het dagelijks leven, het behoud van de zelfredzaamheid en het in stand houden van de woon- en leefkwaliteit;<br>
+3° 0,35 voltijds equivalent kinesitherapeut, ergotherapeut of logopedist, of een combinatie van twee of drie van deze kwalificaties met een totaal van 0,35 vte;<br>
+4° 0,63 voltijds equivalent die een functie met betrekking tot de reactivering van ouderen uitoefent en die over één van de volgende kwalificaties beschikt: graduaat, bachelor, licentiaat of master kinesitherapie; graduaat, bachelor; licentiaat of master logopedie; graduaat of bachelor ergotherapie, graduaat of bachelor arbeidstherapie; graduaat of bachelor readaptatiewetenschappen; graduaat of bachelor dieetleer; graduaat, bachelor, licentiaat of master in de ortho-pedagogie; graduaat, bachelor, post-graduaat of master psychomotoriek; licentiaat of master psychologie; graduaat of bachelor psychologisch assistent en gelijkgestelden; graduaat of bachelor sociaal werker, sociale gezondheidszorg, maatschappelijk verpleegkundige of "infirmière spécialisée en santé communautaire" graduaat of bachelor gezinswetenschappen; licentiaat of master gerontologie, graduaat of bachelor opvoeder.<br>
+<br>
+Het personeel, vermeld in het eerste lid, 2°, dient tenminste de kwalificatievereisten te bewijzen van: het brevet of het diploma secundair onderwijs, het studiegetuigschrift secundair onderwijs of het kwalificatiegetuigschrift of het getuigschrift van secundair onderwijs van: gezins- en sanitaire hulp, kinderverzorging, verpleegaspiranten, leefgroepwerking, gezins- en bejaardenhelpster, « aide familiale », bijzondere jeugdzorg, personenzorg, « assistant(e) en gériatrie », « éducateur », « moniteur de collectivité, auxiliaires polyvalentes des services à domicile et en collectivités » of « aide polyvalente de collectivités » of « zorgkundige ». Met verzorgingspersoneel worden gelijkgesteld de personen die geslaagd zijn voor een opleiding die is erkend door de bevoegde overheid van de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. Minstens één persoon die voldoet aan de voorwaarden van een van de punten, vermeld in paragraaf 1, dient permanent aanwezig te zijn om de opvang en verzorging van de personen te verzekeren.<br>
+<br>
+§ 3. Als het dagverzorgingscentrum met een bijkomende erkenning voor de opvang van zorgafhankelijke personen niet voldoet aan de erkenningsvoorwaarden voor het personeel, vermeld in paragraaf 1, voor een of meer personeelskwalificaties, kan een tekort aan een bepaalde kwalificatie gecompenseerd worden door een teveel aan personeel met een andere kwalificatie conform de regels, vermeld in het tweede lid. In ieder geval is die compensatie niet mogelijk als het gaat om een tekort op de erkenningsvoorwaarde met betrekking tot het personeel, vermeld in paragraaf 1, eerste lid, 3°.<br>
+<br>
+De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende regels:<br>
+1° een tekort aan personeel voor reactivering, vermeld in paragraaf 1, eerste lid, 4°, kan voor maximum 20% gecompenseerd worden door een teveel aan gegradueerde verpleegkundigen of bachelors in de verpleegkunde;<br>
+2° een tekort aan verpleegkundigen, vermeld in in paragraaf 1, eerste lid, 1°, kan voor maximum 20% gecompenseerd worden door een teveel aan personeel voor reactivering als vermeld in paragraaf 1, eerste lid, 4° ;<br>
+3° een tekort aan zorgkundigen als vermeld in paragraaf 1, eerste lid, 2°, kan onbeperkt gecompenseerd worden door een teveel aan verpleegkundigen als vermeld in paragraaf 1, eerste lid, 1°, of personeel voor reactivering als vermeld in paragraaf 1, eerste lid, 4°.
+
 ## [Afdeling IV Statistische gegevens (ing. BVR 30 november 2018, art. 569, I: 1 januari 2019)]
+
+### ART 51/6.
+
+Het dagverzorgingscentrum met een bijkomende erkenning voor de opvang van zorgafhankelijke personen moet aan het agentschap Zorg en Gezondheid de statistische gegevens meedelen die met het dagverzorgingscentrum verband houden, volgens de door de minister vastgestelde regels en binnen de door de minister bepaalde termijn.
 
 ## HOOFDSTUK IV Subsidiëring
 
@@ -2186,6 +2325,10 @@ Ongeacht de gerealiseerde gemiddelde bezettingsgraad kunnen dagverzorgingscentra
 ### ART. 53/1.
 
 In afwijking van artikel 52 komen dagverzorgingscentra als vermeld in artikel 51 die een gemiddelde bezettingsgraad van tien gebruikers realiseren, in aanmerking voor een subsidiebedrag van 23.000 euro per jaar. De gemiddelde bezettingsgraad is het totale aantal gefactureerde uren per kalenderjaar, gedeeld door 1500.<br /><br />Als die dagverzorgingscentra een gemiddelde bezettingsgraad van minder dan tien gebruikers maar van minimaal vier hebben, kunnen ze evenredig aan de gerealiseerde gemiddelde bezettingsgraad een subsidiebedrag ontvangen van 22.400 euro, 21.800 euro, 21.200 euro, 20.600 euro, 20.000 euro of 19.400 euro, naargelang ze een gemiddelde bezettingsgraad hebben van minstens 9, 8, 7, 6, 5 of 4.<br /><br />In afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in het tweede en derde lid, uitgedrukt tegen 100% op basis van de spilindex die van toepassing is op 1 januari 2012.<br /><br />De minister bepaalt de nadere subsidievoorwaarden en legt de overgangsbepalingen vast.
+
+### ART 53/2.
+
+De subsidiebedragen, vermeld in artikel 53/1, worden voor de dagverzorgingscentra, vermeld in artikel 51, met een statuut als vereniging zonder winstoogmerk verhoogd met 34,28 euro om de maatregel eindejaarspremie uit te voeren uit het vijfde Vlaams Intersectoraal Akkoord van 8 juni 2018 voor de social/non profitsectoren voor de periode 2018-2020.
 
 ## HOOFDSTUK V Overgangsbepalingen
 
@@ -2239,7 +2382,83 @@ De evaluatiecriteria voor de centra voor herstelverblijf zijn :<br />1° de geog
 
 ### ART. 5.
 
-Met behoud van de toepassing van artikel 4, 28, 29, 43, 50, 67, 70 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van centra voor herstelverblijf de onderstaande specifieke voorwaarden :<br /><br />A. Voorwaarden betreffende de hulp- en dienstverlening<br />1° elk centrum moet minstens 60 verblijfseenheden per inplantingsplaats hebben;<br />2° de behoeften van de gebruiker zijn bepalend voor het indiceren van herstelverblijf. De gebruiker mag geen behoefte meer hebben aan gespecialiseerde zorg of intensief medisch toezicht. Voor elke opname is er een aanvraag door de huisarts of de specialist;<br />3° het centrum voert een opnamebeleid dat gericht is op alle leeftijdsgroepen van gebruikers;<br />4° minstens 50 % van de opnamen van de gebruikers moeten worden gerealiseerd binnen 14 dagen na een ontslag uit het ziekenhuis;<br />5° de verblijfsduur in een centrum bedraagt maximaal dertig opeenvolgende dagen, eenmaal verlengbaar met een periode van maximaal dertig dagen. In geen geval kan een verblijf in het centrum meer dan zestig dagen per pathologie per kalenderjaar bedragen; <br />6° in de volgende situaties kan, samen met de gebruiker, ook diens begeleider in het centrum verblijven :<br />a) de begeleider heeft zelf zorgnoden;<br />b) de aanwezigheid van de begeleider is nodig voor het welzijn van de gebruiker;<br />c) de begeleider neemt een aantal ondersteunende zorgtaken op in de hoedanigheid van mantelzorger;<br />7° bij de opname van iedere gebruiker moet een individueel gebruikersdossier aangelegd worden. Dat dossier bevat de volgende gegevens : <br />a) de volledige identiteit van de gebruiker;<br />b) in voorkomend geval, naam, adres en telefoonnummer van de contactpersoon;<br />c) de naam, het adres en het telefoonnummer van de huisarts;<br />d) de anamnese;<br />e) het klinisch onderzoek bij de opname;<br />f) de omschrijving van de behoeften en een rapport over de gezondheidstoestand van de gebruiker;<br />g) het plan van verzorging, revalidatie en bijstand bij de dagelijkse levenshandelingen;<br />h) de diagnose;<br />i) de behandeling;<br />j) de klinische en de diagnostische evolutie;<br />k) de voorgeschreven geneesmiddelen, alsook de toediening ervan;<br />8° per gebruiker wordt een verbetertraject voorgesteld. Dat traject, dat als resultaat heeft dat de gebruiker naar zijn natuurlijk thuismilieu kan terugkeren, moet in samenspraak met de gebruiker en in voorkomend geval met zijn begeleider worden bepaald bij de aanvang van het verblijf en maakt deel uit van het gebruikersdossier. Bij verlenging van het verblijf moeten de doelstellingen worden bijgestuurd;<br />9° bij ontslag van de gebruiker uit het centrum wordt ten behoeve van de gebruiker en de huisarts informatie verleend over de nazorg.<br /><br />B. Voorwaarden voor de omkadering<br />1° het centrum voor herstelverblijf beschikt over het volgende medisch, verpleegkundig en paramedisch personeel : <br />a) een arts die steeds oproepbaar is;<br />b) verplegend en verzorgend personeel in de verhouding van 2,5 voltijdse functies voor 15 aanwezige gebruikers, van wie ten minste één verplegend personeelslid en waaronder een voltijdse hoofdverpleegkundige of, als het aantal verblijfseenheden meer dan 60 bedraagt, een voltijdse hoofdverpleegkundige per schijf van 60 verblijfseenheden;<br />c) per 30 aanwezige gebruikers, een voltijds equivalent kinesitherapeut, ergotherapeut of logopedist;<br />2° zowel overdag als 's nachts moet in het centrum voldoende en gekwalificeerd personeel als vermeld in punt 1°, b) aanwezig zijn om onmiddellijk elke oproep te kunnen beantwoorden;<br />3° tijdens de nacht moet per begonnen schijf van 60 verblijfseenheden één actieve nachtdienst worden georganiseerd;<br />4° voor de psychosociale ondersteuning van de gebruikers beschikt het centrum over :<br />a) 1,5 voltijdse equivalenten met minstens de kwalificatie van maatschappelijk werker of sociaal verpleegkundige, per 60 verblijfseenheden;<br />b) 0,75 voltijdse equivalenten die master in de psychologie, master in de pedagogie of bachelor in de psychologie zijn, of daarmee gelijkgesteld, per 60 verblijfseenheden;<br />5° de professionele medewerkers, tewerkgesteld in het centrum, volgen, gespreid over een periode van maximaal twee jaar, minstens 20 uur bijscholing over onderwerpen die relevant zijn voor de uitoefening van hun functie.<br /><br />C. Voorwaarden voor de werking<br />1° een centrum voert een boekhouding waarbij het centrum als apart activiteitencentrum wordt beschouwd. Het boekjaar vangt aan op 1 januari en eindigt op 31 december;<br />2° het financiële verslag wordt in het centrum ter beschikking gehouden. Het financiële verslag omvat de goedgekeurde jaarrekening en de resultatenrekening, uitgesplitst per activiteitencentrum. In een bijlage bij het verslag wordt uitgelegd hoe de ontvangsten en uitgaven verdeeld zijn over het centrum;<br />3° het centrum gaat op een systematische manier de tevredenheid van zijn gebruikers na en stuurt afhankelijk daarvan zijn werking bij. Minstens tweejaarlijks wordt een verantwoorde gebruikerstevredenheidsmeting uitgevoerd;<br />4° het centrum garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten. <br /><br />D. Voorwaarden voor de infrastructuur<br />1° het centrum beschikt over een voldoende aanbod aan eenpersoonskamers en tweepersoonskamers. Het aandeel van die tweepersoonskamers in het totale aantal kamers bedraagt minstens 15 %. Er zijn geen meerpersoonskamers;<br />2° elke eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen;<br />3° elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, met een toilet, een wastafel en een douche, lig- of zitbad;<br />4° elke tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28 m2, sanitair niet inbegrepen;<br />5° een tweepersoonskamer is bij voorrang bestemd voor het verblijf van een gebruiker samen met zijn begeleider;<br />6° elke kamer beschikt over een koelkast;<br />7° elke kamer beschikt over een telefoon en een tv die op de gewenste hoogte gezet kan worden; <br />8° de kamers en gemeenschappelijke ruimten moeten steeds zo verwarmd zijn dat de temperatuur tot minstens 22 °C gebracht kan worden;<br />9° het centrum ontwikkelt een hitteplan. Als de temperatuur oploopt, maar in elk geval als in het centrum een temperatuur van 29 °C bereikt wordt, treedt dat plan in werking;<br />10° aangepaste zonnewering moet, waar nodig, aangebracht worden;<br />11° elke ruimte beschikt over een oproepsysteem;<br />12° de noodoproepsystemen moeten kunnen worden geactiveerd vanaf het bed en vanaf de sanitaire cel;<br />13° de verlichting moet kunnen worden bediend vanaf het bed;<br />14° als de bewoners zich verplaatsen in het gebouw, moeten ze zich kunnen behelpen met leuningen en handgrepen. Ook in de sanitaire ruimten moeten leuningen en handgrepen aangebracht zijn;<br />15° de gangen zijn voldoende breed zodat twee rolwagens elkaar kunnen kruisen. In de gangen moeten de nodige rustmogelijkheden beschikbaar zijn;<br />16° verplaatsingen tussen verschillende verdiepingen moeten mogelijk zijn met een lift;<br />17° er moet een ruimte zijn waar medicijnen en dossiers op een veilige en discrete manier bewaard kunnen worden;<br />18° er moet een aparte ruimte zijn die uitgerust is met fitness- en kinetoestellen;<br />19° in het centrum is minimaal een ruimte voorzien waar de verzorgende en paramedische personeelsleden het nodige administratieve werk kunnen uitvoeren;<br />20° de verzorging en de verpleging moeten kunnen gebeuren met inachtneming van de privacy van de gebruiker;<br />21° het centrum voert een beleid ter preventie van infectieziekten. Bij vaststelling van een infectieziekte worden de nodige maatregelen getroffen. Het centrum stelt daarvoor een plan op;<br />22° het centrum neemt de nodige maatregelen om de veiligheid van de gebruiker, rekening houdend met zijn toestand, te optimaliseren;<br />23° het centrum beschikt over een dokterskabinet; <br />24° de maaltijden worden geserveerd in het restaurant. Kamerbediening is uitzonderlijk;<br />25° het centrum voldoet aan de toepasselijke brandveiligheidsreglementering.<br /><br />E. Voorwaarden voor de cliëntbijdrage<br />1° de verblijfsdagprijs omvat minstens het verblijf, de maaltijden, de psychosociale verzorging en het standaard verzorgingsmateriaal;<br />2° de verblijfsdagprijs en de tarieven voor overige kosten worden vooraf aan de gebruiker meegedeeld op een transparante wijze. Die tarieven hangen ook zichtbaar uit in het centrum; <br />3° voor personen met een beperkte financiële draagkracht wordt de cliëntbijdrage verlaagd. De voorwaarden daarvoor en de concrete berekeningswijze worden vooraf aan de gebruiker meegedeeld en zichtbaar uitgehangen in het centrum.
+Met behoud van de toepassing van artikel 4, 28, 29, 43, 50, 67, 70 en 72, tweede lid, van het woonzorgdecreet van 13 maart 2009, gelden voor de erkenning van centra voor herstelverblijf de onderstaande specifieke voorwaarden :<br>
+<br>
+A. Voorwaarden betreffende de hulp- en dienstverlening<br>
+1° elk centrum moet minstens 60 verblijfseenheden per inplantingsplaats hebben, tenzij het centrum een functionele eenheid vormt met een ziekenhuis of een woonzorgcentrum, dan moet het centrum minstens dertig verblijfseenheden per vestigingsplaats hebben;<br>
+2° de behoeften van de gebruiker zijn bepalend voor het indiceren van herstelverblijf. De gebruiker mag geen behoefte meer hebben aan gespecialiseerde zorg of intensief medisch toezicht. Voor elke opname is er een aanvraag door de huisarts of de specialist;<br>
+3° het centrum voert een opnamebeleid dat gericht is op alle leeftijdsgroepen van gebruikers;<br>
+4° minstens 50 % van de opnamen van de gebruikers moeten worden gerealiseerd binnen 14 dagen na een ontslag uit het ziekenhuis;<br>
+5° de gebruikers mogen maximaal zestig opeenvolgende dagen en, beschouwd over de periode van één kalenderjaar, in totaal maximaal negentig dagen in hetzelfde centrum opgenomen worden per pathologie. Om het maximale aantal verblijfsdagen te berekenen, wordt geen rekening gehouden met de dagen van onvoorziene afwezigheid. Elke afwijking van de maximale verblijfsduur moet gemotiveerd worden door het multidisciplinaire team dat de gebruiker verzorgt;<br>
+6° in de volgende situaties kan, samen met de gebruiker, ook diens begeleider in het centrum verblijven :<br>
+a) de begeleider heeft zelf zorgnoden;<br>
+b) de aanwezigheid van de begeleider is nodig voor het welzijn van de gebruiker;<br>
+c) de begeleider neemt een aantal ondersteunende zorgtaken op in de hoedanigheid van mantelzorger;<br>
+7° bij de opname van iedere gebruiker moet een individueel gebruikersdossier aangelegd worden. Dat dossier bevat de volgende gegevens :<br>
+a) de volledige identiteit van de gebruiker;<br>
+b) in voorkomend geval, naam, adres en telefoonnummer van de contactpersoon;<br>
+c) de naam, het adres en het telefoonnummer van de huisarts;<br>
+d) de anamnese;<br>
+e) het klinisch onderzoek bij de opname;<br>
+f) de omschrijving van de behoeften en een rapport over de gezondheidstoestand van de gebruiker;<br>
+g) het plan van verzorging, revalidatie en bijstand bij de dagelijkse levenshandelingen;<br>
+h) de diagnose;<br>
+i) de behandeling;<br>
+j) de klinische en de diagnostische evolutie;<br>
+k) de voorgeschreven geneesmiddelen, alsook de toediening ervan;<br>
+8° per gebruiker wordt een verbetertraject voorgesteld. Dat traject, dat als resultaat heeft dat de gebruiker naar zijn natuurlijk thuismilieu kan terugkeren, moet in samenspraak met de gebruiker en in voorkomend geval met zijn begeleider worden bepaald bij de aanvang van het verblijf en maakt deel uit van het gebruikersdossier. Bij verlenging van het verblijf moeten de doelstellingen worden bijgestuurd;<br>
+9° bij ontslag van de gebruiker uit het centrum wordt ten behoeve van de gebruiker en de huisarts informatie verleend over de nazorg.<br>
+<br>
+B. Voorwaarden voor de omkadering<br>
+1° het centrum voor herstelverblijf beschikt over het volgende medisch, verpleegkundig en paramedisch personeel :<br>
+a) een arts die steeds oproepbaar is;<br>
+b) verplegend en verzorgend personeel in de verhouding van 2,5 voltijdse functies voor 15 aanwezige gebruikers, van wie ten minste één verplegend personeelslid en waaronder een voltijdse hoofdverpleegkundige of, als het aantal verblijfseenheden meer dan 60 bedraagt, een voltijdse hoofdverpleegkundige per schijf van 60 verblijfseenheden;<br>
+c) per 30 aanwezige gebruikers, een voltijds equivalent kinesitherapeut, ergotherapeut of logopedist;<br>
+2° zowel overdag als 's nachts moet in het centrum voldoende en gekwalificeerd personeel als vermeld in punt 1°, b) aanwezig zijn om onmiddellijk elke oproep te kunnen beantwoorden;<br>
+3° tijdens de nacht moet per begonnen schijf van 60 verblijfseenheden één actieve nachtdienst worden georganiseerd. De verpleegkundige nachtpermanentie moet gewaarborgd zijn. Dat kan in eigen beheer of in medebeheer van een aanpalende erkende welzijns- of gezondheidsvoorziening;<br>
+4° voor de psychosociale ondersteuning van de gebruikers beschikt het centrum, per zestig verblijfseenheden, over een team dat samengesteld is uit personeelsleden die samen 2,25 vte vervullen en individueel over minstens een van de volgende kwalificaties beschikken : maatschappelijk werker, sociaal verpleegkundige, bachelor of master in de psychologie, master in de pedagogie of een kwalificatie die daarmee gelijkgesteld is;<br>
+5° de professionele medewerkers, tewerkgesteld in het centrum, volgen, gespreid over een periode van maximaal twee jaar, minstens 20 uur bijscholing over onderwerpen die relevant zijn voor de uitoefening van hun functie.<br>
+<br>
+C. Voorwaarden voor de werking<br>
+1° een centrum voert een boekhouding waarbij het centrum als apart activiteitencentrum wordt beschouwd. Het boekjaar vangt aan op 1 januari en eindigt op 31 december;<br>
+2° het financiële verslag wordt in het centrum ter beschikking gehouden. Het financiële verslag omvat de goedgekeurde jaarrekening en de resultatenrekening, uitgesplitst per activiteitencentrum. In een bijlage bij het verslag wordt uitgelegd hoe de ontvangsten en uitgaven verdeeld zijn over het centrum;<br>
+3° het centrum gaat op een systematische manier de tevredenheid van zijn gebruikers na en stuurt afhankelijk daarvan zijn werking bij. Minstens tweejaarlijks wordt een verantwoorde gebruikerstevredenheidsmeting uitgevoerd;<br>
+4° het centrum garandeert aan de gebruikers een klachtrecht en zorgt voor een adequate en objectieve behandeling van de klachten;<br>
+5° elk centrum participeert actief in de diverse structuren in het kader van eerstelijnszorg;<br>
+6° het centrum organiseert minstens één keer per jaar een overleg met de thuiszorgorganisaties en zorgverstrekkers die actief zijn in de zorgregio waar het zich bevindt, met als doel afspraken te maken over de continuïteit en kwaliteit van de zorg en ondersteuning;<br>
+7° het centrum heeft een functioneel samenwerkingsverband met een of meer ziekenhuizen die actief zijn in de zorgregio waar het zich bevindt. Minstens één keer per jaar organiseert het centrum een overleg met die ziekenhuizen met als doel afspraken te maken over de continuïteit en kwaliteit van de zorg en de ondersteuning.<br>
+<br>
+D. Voorwaarden voor de infrastructuur<br>
+1° het centrum beschikt over een voldoende aanbod aan eenpersoonskamers en tweepersoonskamers. Het aandeel van die tweepersoonskamers in het totale aantal kamers bedraagt minstens 10 %. Er zijn geen meerpersoonskamers. Bij opname van een zelfredzame partner of mantelzorger kan het centrum boven het aantal erkende verblijfseenheden die persoon tijdelijk huisvesten. De zelfredzame partner of mantelzorger kan alleen verblijven in een eenpersoonskamer of een tweepersoonskamer die voldoet aan de infrastructuurnormen, vermeld in punt 2° tot en met 8°;<br>
+2° elke eenpersoonskamer heeft een nettovloeroppervlakte van ten minste 16 m2, sanitair niet inbegrepen;<br>
+3° elke eenpersoonskamer beschikt over een aparte, ingerichte sanitaire cel, met een toilet, een wastafel en een douche, lig- of zitbad;<br>
+4° elke tweepersoonskamer heeft een nettovloeroppervlakte van ten minste 28 m2, sanitair niet inbegrepen;<br>
+5° een tweepersoonskamer is bij voorrang bestemd voor het verblijf van een gebruiker samen met zijn begeleider;<br>
+6° elke kamer beschikt over een koelkast;<br>
+7° elke kamer beschikt over een telefoon en een tv die op de gewenste hoogte gezet kan worden;<br>
+8° de kamers en gemeenschappelijke ruimten moeten steeds zo verwarmd zijn dat de temperatuur tot minstens 22 °C gebracht kan worden;<br>
+9° het centrum ontwikkelt een hitteplan. Als de temperatuur oploopt, maar in elk geval als in het centrum een temperatuur van 29 °C bereikt wordt, treedt dat plan in werking;<br>
+10° aangepaste zonnewering moet, waar nodig, aangebracht worden;<br>
+11° elke ruimte beschikt over een oproepsysteem;<br>
+12° de noodoproepsystemen moeten kunnen worden geactiveerd vanaf het bed en vanaf de sanitaire cel;<br>
+13° de verlichting moet kunnen worden bediend vanaf het bed;<br>
+14° als de bewoners zich verplaatsen in het gebouw, moeten ze zich kunnen behelpen met leuningen en handgrepen. Ook in de sanitaire ruimten moeten leuningen en handgrepen aangebracht zijn;<br>
+15° de gangen zijn voldoende breed zodat twee rolwagens elkaar kunnen kruisen. In de gangen moeten de nodige rustmogelijkheden beschikbaar zijn;<br>
+16° verplaatsingen tussen verschillende verdiepingen moeten mogelijk zijn met een lift;<br>
+17° er moet een ruimte zijn waar medicijnen en dossiers op een veilige en discrete manier bewaard kunnen worden;<br>
+18° er moet een aparte ruimte zijn die uitgerust is met fitness- en kinetoestellen;<br>
+19° in het centrum is minimaal een ruimte voorzien waar de verzorgende en paramedische personeelsleden het nodige administratieve werk kunnen uitvoeren;<br>
+20° de verzorging en de verpleging moeten kunnen gebeuren met inachtneming van de privacy van de gebruiker;<br>
+21° het centrum voert een beleid ter preventie van infectieziekten. Bij vaststelling van een infectieziekte worden de nodige maatregelen getroffen. Het centrum stelt daarvoor een plan op;<br>
+22°...;<br>
+23° ...;<br>
+24° ...;<br>
+25° het centrum voldoet aan de toepasselijke brandveiligheidsreglementering.<br>
+<br>
+E. Voorwaarden voor de cliëntbijdrage<br>
+1° de verblijfsdagprijs omvat minstens het verblijf, de maaltijden, de psychosociale verzorging en het standaard verzorgingsmateriaal;<br>
+2° de verblijfsdagprijs en de tarieven voor overige kosten worden vooraf aan de gebruiker meegedeeld op een transparante wijze. Die tarieven hangen ook zichtbaar uit in het centrum;<br>
+3° ....
 
 ## HOOFDSTUK IV Overgangsbepaling
 
@@ -2336,6 +2555,10 @@ Het gebouw van een centrum voldoet aan de volgende voorwaarden :<br />1° het ce
 ## HOOFDSTUK IV Subsidiëring
 
 ## [Afdeling I. Werkingssubsidies (ing. BVR 17 maart 2017, art. 4, I: 18 april 2017)]
+
+### ART 15/0.
+
+Deze afdeling is alleen van toepassing op erkende centra voor kortverblijf die worden uitgebaat in bestemde lokalen van erkende centra voor herstelverblijf die daarvoor bestemd zijn.
 
 ### ART 15/1.
 
@@ -2709,25 +2932,296 @@ Alle woonzorgcentra of delen van woonzorgcentra die op 1 januari 2009 erkend zij
 
 ## [Afdeling I Algemene bijkomende erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/1.
+
+De woongelegenheden met een bijkomende erkenning in een woonzorgcentrum zijn bestemd voor personen die beantwoorden aan de afhankelijkheidscategorieën B, C of Cd, vermeld in artikel 425 van het besluit van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
+
+### ART 48/2.
+
+De bijkomende erkenning moet minstens 25 woongelegenheden bedragen.
+
 ## [Afdeling II Specifieke bijkomende erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
 ## [Onderafdeling I Architectonische erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/3.
+
+Het gebouw of de gebouwen van de woonzorgcentra voldoen aan de volgende voorwaarden:<br>
+1° het woonzorgcentrum moet zodanig zijn ingeplant dat alle voorwaarden aanwezig zijn voor het psychisch en lichamelijk welzijn van de bewoners;<br>
+2° alle voorzorgsmaatregelen moeten getroffen worden om brandgevaar te weren, meer bepaald moeten de woonzorgcentra de reglementering inzake brandveiligheid voor woonzorgcentra toepassen;<br>
+3° in elk woonzorgcentrum moeten de volgende gemeenschappelijke ruimten voorzien zijn :<br>
+a) ten minste een eetzaal en een zitkamer, bij voorkeur van elkaar gescheiden, en zo gezellig en huiselijk mogelijk ingericht, die naargelang de grootte van het woonzorgcentrum, in voldoende aantal aanwezig zijn zodat het leefomgevingskarakter gewaarborgd is en naargelang het woonzorgcentrum in onderscheiden leefgroepen is georganiseerd, in voldoende mate aanwezig zijn, zodat de integratie in de normale leefomgeving gewaarborgd blijft;<br>
+b) ten minste een uitgeruste zaal voor de kinesitherapie- en ergotherapie- oefeningen en animatie in groep;<br>
+4° de bewoners moeten voor hun verplaatsingen in het gebouw geholpen worden door leuningen en handgrepen die eveneens moeten worden aangebracht in de sanitaire ruimte en in de gangen moeten er rustmogelijkheden zijn;<br>
+5° in alle voor de bewoner toegankelijke ruimten en gangen van het woonzorgcentrum moeten alle niveauverschillen zoals treden, trappen en andere hindernissen worden geweerd of, als dat niet mogelijk is, duidelijk gesignaliseerd en moet het gevaar om te vallen worden voorkomen;<br>
+6° alle voor de bewoners toegankelijke ruimten in het woonzorgcentrum moeten ruim genoeg zijn zodat rolstoelgebruikers er zich gemakkelijk kunnen verplaatsen;<br>
+7° er mogen niet meer dan twee woongelegenheden per kamer zijn en ten minste de helft van de opnamecapaciteit moet bestaan uit eenpersoonskamers;<br>
+8° alle kamers moeten een aparte toiletruimte hebben met ten minste een lavabo en een toilet;<br>
+9° de netto-oppervlakte van een persoonskamer moet ten minste 12 m2 bedragen, het sanitair niet meegerekend. Die oppervlakte wordt opgetrokken tot 18 m2 voor twee personen;<br>
+10° iedere kamer moet over warm en koud stromend water beschikken;<br>
+11° iedere kamer moet over voldoende kunstverlichting beschikken, die de bewoner vanuit zijn bed kan bedienen en die aangepast is aan de plaatselijke omstandigheden;<br>
+12° 's nachts moeten de kamers en de gangen zo verlicht zijn dat de bewoners zich veilig kunnen verplaatsen;<br>
+13° de kamers die toegankelijk zijn voor de bewoners moeten permanent zodanig verlicht zijn dat het comfort van de bewoners wordt verzekerd;<br>
+14° in alle normale meteorologische omstandigheden moet een minimale temperatuur van 22 ° C in de kamers kunnen bereikt worden:<br>
+a) in de woonzorgcentra waarvoor werkzaamheden van wederopbouw of van aanpassingswerken worden uitgevoerd en in de nieuwe gebouwen die erkend zijn vanaf 2015, moeten alle nuttige maatregelen genomen worden om de temperatuur, in normale meteorologische omstandigheden, onder 27 ° C te handhaven;<br>
+b) bij een hittegolf moet één van de leefruimten geklimatiseerd zijn en moet ze voldoende groot zijn om de bewoners te kunnen opvangen;<br>
+c) alle voor de bewoners toegankelijke lokalen moeten voorzien zijn van een intern of extern systeem dat de bewoners tegen de zonnestralen beschermt;<br>
+15° alle bewoners moeten zittend een ongehinderd zicht hebben op de buitenwereld;<br>
+16° er moeten voldoende sanitaire voorzieningen voor de bewoners zijn, die zich zo dicht mogelijk bij de kamers en in de onmiddellijke omgeving van de gemeenschappelijke leefruimten bevinden en waarvan er minstens één per in gebruik genomen verdieping ruim genoeg zijn om met een rolstoel binnen te rijden en de bewoner eventueel door een begeleider te laten bijstaan;<br>
+17° de toiletten dienen voorzien te worden van een lavabo;<br>
+18° het woonzorgcentrum waar de lokalen op een verdieping of verspreid over meerdere verdiepingen gelegen zijn, moet over ten minste één aangepaste lift beschikken die een bewoner samen met zijn begeleider kan vervoeren;<br>
+19° in alle ruimten die voor de bewoners toegankelijk zijn moet er een efficiënt en bereikbaar oproepsysteem zijn;<br>
+20° alle lokalen moeten adequaat worden verlucht;<br>
+21° het woonzorgcentrum moet ten minste beschikken over een verpleeg-, een verzorgings- en onderzoekslokaal, alsook over een lokaal voor de ontvangst van de familie van de bewoners;<br>
+22° in iedere kamer moet aansluiting op radio, televisie en telefoon mogelijk zijn.
+
 ## [Onderafdeling II Functionele erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
+
+### ART 48/4.
+
+De woonzorgcentra moeten voldoen aan de volgende functionele voorwaarden:<br>
+1° het woonzorgcentrum moet over de noodzakelijke middelen beschikken om een familiale sfeer, de verzorging, de bewaking, de activiteiten en de vrijetijdsbezigheden van de bewoners te waarborgen;<br>
+2° de kamers moeten per bewoner tenminste beschikken over een bed, een kast om persoonlijke zaken op te bergen, een aan de zorgbehoefte aangepaste zetel, een tafel en een stoel;<br>
+3° de bewoner moet in de kamer over persoonlijke bezittingen en meubilair kunnen beschikken;<br>
+4° alle bedden in de woongelegenheden met een bijkomende erkenning in het woonzorgcentrum moeten in de hoogte verstelbaar zijn en aangepast aan de noden van de bewoner.
+
+### ART 48/5.
+
+Het woonzorgcentrum moet beschikken over :<br>
+1° rolstoelen voor de bewoners die problemen hebben om zich autonoom te verplaatsen;<br>
+2° het vereiste materiaal om doorligwonden te voorkomen;<br>
+3° de mogelijkheid om ieder bed in een meerpersoonskamer tijdens de verzorging af te schermen;<br>
+4° minstens één aangepast bad: boven de dertig bewoners in een erkende woongelegenheid woonzorgcentrum met bijkomende erkenning is een bijkomend aangepast bad verplicht bij de overschrijding van de helft van elke nieuwe schijf van dertig bewoners in een erkende woongelegenheid woonzorgcentrum met bijkomende erkenning.
 
 ## [Onderafdeling III Organisatorische erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/6.
+
+Voor iedere bewoner wordt bij de opname een individueel dossier aangelegd dat in het woonzorgcentrum bewaard wordt en dat zijn administratief dossier en zijn verzorgingsdossier omvat.<br>
+<br>
+Het administratief dossier van de bewoner, vermeld in het eerste lid, bevat minstens de volgende gegevens:<br>
+1° de identiteit van de bewoner;<br>
+2° de inlichtingen over zijn sociale zekerheidssituatie;<br>
+3° de naam, het adres en het telefoonnummer van de contactpersoon en, in voorkomend geval, van de vertegenwoordiger van de bewoner;<br>
+4° de naam, het adres en het telefoonnummer van de behandelend arts, alsook de regeling die getroffen moet worden bij zijn afwezigheid;<br>
+5° de naam, het adres en het telefoonnummer van de apotheker, als de bewoner een beroep doet op een apotheker waarmee de instelling geen samenwerkingsovereenkomst heeft afgesloten.<br>
+<br>
+Het verzorgingsdossier van de bewoner, vermeld in het eerste lid, omvat minstens de volgende documenten :<br>
+1° het medisch dossier, opgemaakt door de behandelende arts;<br>
+2° de liaisonfiche met de noodzakelijke medische gegevens in geval van nood of van hospitalisatie;<br>
+3° het verpleegkundig, paramedisch, kinesitherapeutisch en psychosociaal dossier, dat onder meer de volgende gegevens bevat:<br>
+a) de anamnese en levensgeschiedenis van de bewoner;<br>
+b) het klinisch onderzoek bij de opname en tijdens het verblijf;<br>
+c) de diagnose;<br>
+d) het verzorgingsplan met inbegrip van de voorgeschreven medicatie, de vereiste zorgen, de bijstand bij de dagelijkse levenshandelingen en de eventuele fixatie- of afzonderingsmaatregelen;<br>
+e) de klinische en de diagnostische evolutie;<br>
+f) in voorkomend geval de kenbaar gemaakte wensen over de toekomstige zorgen, vermeld in artikel 48/24.
+
+### ART 48/7.
+
+Om het transport van een bewoner van een ziekenhuisdienst naar een woonzorgcentrum, en omgekeerd, zo goed mogelijk te organiseren, wordt er een schriftelijke procedure opgezet tussen de betrokken ziekenhuizen en het woonzorgcentrum, opdat ze onmiddellijk kunnen beschikken over alle inlichtingen die nodig zijn om de zorgcontinuïteit te verzekeren, in het bijzonder de liaisonfiche, vermeld in artikel 48/6, derde lid, 2°.
+
+### ART 48/8.
+
+De erkenningsvoorwaarde met betrekking tot het personeel wordt per dertig bewoners in een woongelegenheid woonzorgcentrum met een bijkomende erkenning, als volgt vastgesteld:<br>
+1° ten minste vijf voltijds equivalenten van de verpleegkundigen, waaronder een hoofdverpleegkundige. Boven de eerste dertig bewoners is een bijkomende hoofdverpleegkundige verplicht bij overschrijding van de helft van elke nieuwe schijf van dertig bewoners in een woongelegenheid woonzorgcentrum met een bijkomende erkenning;<br>
+2° ten minste vijf voltijds equivalenten zorgkundigen;<br>
+3° één voltijds equivalent kinesitherapeut, ergotherapeut of logopedist, met dien verstande dat de eerste twee disciplines in ieder geval voldoende vertegenwoordigd zijn in het woonzorgcentrum en dat ze hetzij in loondienst hetzij vastbenoemd zijn. Logopedie wordt aangeboden in functie van de behoeften van de bewoners;<br>
+4° 0,10 lid van het personeel voor reactivering dat een bekwaming heeft in palliatieve zorg, ter ondersteuning van de verzorging van de terminale patiënten en dat over een van de volgende kwalificaties beschikt : graduaat, licentiaat of master kinesitherapie; graduaat, bachelor, licentiaat of master logopedie; graduaat of bachelor ergotherapie; graduaat of bachelor arbeidstherapie; graduaat of bachelor readaptatiewetenschappen; graduaat of bachelor dieetleer; graduaat, bachelor, licentiaat of master orthopedagogie, graduaat, bachelor, postgraduaat of master psychomotoriek; licentiaat of master psychologie; graduaat of bachelor psychologisch assistent en gelijkgestelden; graduaat of bachelor sociaal werker,sociale gezondheidszorg, maatschappelijk verpleegkundige of "infirmière spécialisée en santé communautaire"; graduaat of bachelor gezinswetenschappen; licentiaat of master gerontologie; graduaat of bachelor opvoeder;<br>
+5° een voltijds equivalent verpleegkundige, naar rata van maximum één voltijds equivalent per dertig bewoners, mag, voor zover de permanentie, vermeld in artikel 48/9, 2°, wordt gerespecteerd, worden vervangen door een persoon die bij voorkeur één van de volgende kwalificaties heeft: graduaat, bachelor, licentiaat of master kinesitherapie; graduaat, bachelor, licentiaat of master logopedie; graduaat of bachelor ergotherapie; graduaat of bachelor arbeidstherapie; graduaat of bachelor readaptatiewetenschappen; graduaat of bachelor dieetleer; graduaat, bachelor, licentiaat of master orthopedagogie; graduaat, bachelor, postgraduaat of master psychomotoriek; licentiaat of master psychologie; graduaat of bachelor psychologisch assistent en gelijkstelden, graduaat of bachelor sociaal werker,sociale gezondheidszorg;maatschappelijke verpleegkundige of "infirmière spécialisée en santé communautaire"; graduaat of bachelor gezinswetenschappen; licentiaat of master gerontologie; graduaat of bachelor opvoeder of, bij gebrek eraan, door zorgkundigen waarvoor de minister de minimale vereiste opleiding bepaalt.
+
+### ART 48/9.
+
+Voor het personeel van de woonzorgcentra geldt het volgende:<br>
+1° een hoofdverpleegkundige moet de volgende taken vervullen :<br>
+a) de dagelijkse leiding over het verpleegkundig en zorgkundig personeel verzekeren;<br>
+b) de pluridisciplinaire werking van het verpleegkundig en paramedisch personeel, personeel voor reactivering, de kinesitherapeuten en de zorgkundigen coördineren;<br>
+c) waken over de actualisering van het verpleegkundig, paramedisch, kinesitherapeutisch en psychosociaal dossier van de bewoner;<br>
+d) de coördinerend en raadgevend arts bijstaan bij de uitoefening van zijn functie;<br>
+2° een verpleegkundige is zowel overdag als 's nachts aanwezig in het woonzorgcentrum;<br>
+3° de noden aan kinesitherapie, ergotherapie en logopedie, opgenomen in het zorgplan, worden ingevuld.
+
+### ART 48/10.
+
+§ 1. In elk woonzorgcentrum met bijkomende erkenning wijst de initiatiefnemer een coördinerend en raadgevend arts aan, die huisarts is, en die uiterlijk vier jaar na zijn aanwijzing houder is van een attest dat toegang verleent tot de functie van coördinerend en raadgevend arts. Dat attest kan worden verkregen nadat een opleidingscyclus van minstens 24 uur, die erkend is door het intern verzelfstandigd agentschap Zorg en Gezondheid, met vrucht afgerond is.<br>
+<br>
+In het eerste lid wordt verstaan onder het intern verzelfstandigd agentschap Zorg en Gezondheid: het agentschap, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap "Zorg en Gezondheid".<br>
+<br>
+De opleidingscyclus, vermeld in het eerste lid, behandelt de organisatie van een Vlaams woonzorgcentrum en de zorg binnen een Vlaams woonzorgcentrum, met verwijzing naar de regelgeving die van toepassing is op het woonzorgcentrum in kwestie. De organisatie die de opleidingscyclus aanbiedt, heeft minstens een samenwerkingsverband met een van de academische huisartsencentra van de Vlaamse universiteiten afgesloten. De minister kan bijkomende kwaliteitscriteria voor de opleidingscyclus bepalen, alsook de voorwaarden voor de Continue Professionele Educatie (CPE) die jaarlijks onderhouden moet worden.<br>
+<br>
+Die opleidingscyclus omvat minstens de volgende onderdelen :<br>
+1° de organisatie van en de regelgeving over woonzorgcentra, inclusief de kwaliteit van zorg;<br>
+2° de specificiteit van de geriatrische geneeskunde, inclusief palliatieve zorg, levenseindezorg en farmaceutische zorg;<br>
+3° het voorkomen van infecties en het beheer van de antibiotherapie;<br>
+4° de communicatietechnieken, inclusief de communicatie met bewoners met mentale of cognitieve beperkingen en de communicatie over de wensen en voorkeuren van de bewoner.<br>
+<br>
+De minister bepaalt de procedure voor het bekomen van de erkenning van de opleidingscyclus en de regels voor de evaluatie van de opleidingscyclus, vermeld in het derde lid, en kan de onderdelen in het vierde lid nader bepalen.<br>
+<br>
+Het toezicht op de opleidingscyclus, vermeld in het eerste lid, wordt uitgeoefend met inachtneming van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid waarbij de opleidingsinstantie wordt behandeld als een actor in de zorg.<br>
+<br>
+§ 2. In samenspraak met de hoofdverpleegkundige(n) staat de coördinerend en raadgevend arts in voor de volgende taken:<br>
+1° in relatie met het medische korps:<br>
+a) het organiseren, op geregelde tijdstippen, van zowel individuele als collectieve overlegvergaderingen met de behandelende artsen;<br>
+b) de coördinatie en organisatie van de continuïteit van de medische zorg;<br>
+c) de coördinatie van de samenstelling en het bijwerken van de dossiers van de bewoners die door de behandelende artsen worden bijgehouden;<br>
+d) de coördinatie van medische activiteiten bij ziektetoestanden die gevaar opleveren voor de bewoners of het personeel;<br>
+e) in overleg met de behandelende artsen, de coördinatie van het zorgbeleid, wat voor de geneesmiddelen ten minste het opstellen en het gebruik van een geneesmiddelenformularium omvat;<br>
+2° bijscholing en vorming: meewerken aan de organisatie van activiteiten voor bijscholing en vorming in het domein van de gezondheidszorg voor het personeel van het woonzorgcentrum, en voor de betrokken behandelende artsen.<br>
+<br>
+De minister kan de taken, vermeld in het eerste lid, 1°, nader bepalen en kan bepalen welke vormingsactiviteiten voor de bijscholing en vorming, vermeld in het eerste lid, 2°, in aanmerking komen.
+
+### ART 48/11.
+
+De vrije keuze van de bewoner van de behandelend arts en van het ziekenhuis als dat nodig is, moet worden nageleefd en mag op geen enkele manier worden beïnvloed.
+
+### ART 48/12.
+
+Het woonzorgcentrum met bijkomende erkenning beschikt over een algemeen reglement van de medische activiteit waarin de rechten en plichten worden beschreven van de behandelende artsen die er actief zijn. Dat reglement wordt overhandigd aan elke behandelend arts, die zich door het te tekenen ertoe verbindt om zo efficiënt mogelijk samen te werken aan de medische organisatie en de medische zorg van het woonzorgcentrum.<br>
+<br>
+Het algemeen reglement van de medische activiteit beschrijft minstens de volgende punten :<br>
+1° de verbintenis van de behandelende artsen om aan te sluiten bij een coherent medisch beleid binnen het woonzorgcentrum, onder andere met betrekking tot het voorschrijven van geneesmiddelen, het verlenen van kwaliteitsvolle zorg, het multidisciplinair overleg en het overleg met de coördinerend en raadgevend arts;<br>
+2° de normale openings- en bezoektijden behalve in noodgeval;<br>
+3° de contacten met familie;<br>
+4° overlegvergaderingen in het woonzorgcentrum;<br>
+5° het bijhouden van het medisch dossier van de bewoner;<br>
+6° het gebruik van het medisch-farmaceutisch formularium en onder andere het voorschrijven van de minst dure geneesmiddelen alsook het gebruik van elektronische voorschriften;<br>
+7° de facturatiemodaliteiten van de honoraria;<br>
+8° de informatiedoorstroming in geval van overdraagbare ziekten.
+
+### ART 48/13.
+
+De bedienaren van de eredienst en afgevaardigden van de Centrale Vrijzinnige Raad die door de bewoners gevraagd worden hebben ongehinderd toegang tot de inrichting. Ze vinden er voor het vervullen van hun taak de geschikte sfeer en faciliteiten. Volledige vrijheid van levensbeschouwing, godsdienst en politieke overtuiging wordt aan iedereen gewaarborgd.
+
 ## [Onderafdeling IV Voorwaarden in verband met het huishoudelijk reglement (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
+
+### ART 48/14.
+
+Ieder woonzorgcentrum met een bijkomende erkenning moet een huishoudelijk reglement opstellen. De personen die belast zijn met het toezicht op de woonzorgcentra, kunnen steeds inzage nemen van dat huishoudelijk reglement.<br>
+<br>
+Met betrekking tot het huishoudelijk reglement geldt het volgende:<br>
+1° bij zijn opname in het woonzorgcentrum ontvangt de bewoner of zijn vertegenwoordiger een door de directeur ondertekend en gedateerd exemplaar van het huishoudelijk reglement tegen een voor akkoord ondertekend ontvangstbewijs;<br>
+2° het huishoudelijk reglement bevat de naam van de directeur en het erkenningsnummer van het woonzorgcentrum;<br>
+3° het huishoudelijk reglement regelt de rechten en plichten van de bewoners en de initiatiefnemer met inachtname van de volgende regels :<br>
+a) respect voor het privé-leven van de bewoners;<br>
+b) de bewoners zo veel mogelijk vrijheid laten, op voorwaarde dat die verenigbaar is met het gemeenschapsleven;<br>
+c) de vrije keuze van de arts en diens toegang tot de instelling overeenkomstig de bepalingen van het huishoudelijk reglement met betrekking tot de medische activiteiten;<br>
+d) de vrije toegang van familie en vrienden, die in het bijzonder moet worden gewaarborgd in geval van stervensbegeleiding;<br>
+4° het huishoudelijk reglement waarborgt aan iedere bewoner de inachtname van zijn individuele rechten, met inbegrip van ideologische, filosofische en religieuze overtuigingen;<br>
+5° het huishoudelijk reglement bevat de naam van de persoon aan wie de bewoners, hun familie, hun vertegenwoordiger of de bezoekers hun opmerkingen, bezwaren en klachten kunnen meedelen;<br>
+6° het huishoudelijk reglement legt uit hoe de bewoner kan deelnemen aan het leven in het woonzorgcentrum, onder meer via de gebruikersraad, vermeld in artikel 48/15.
 
 ## [Onderafdeling V Inspraak en onderzoek van de suggesties en de klachten van de bewoners (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/15.
+
+In ieder woonzorgcentrum met een bijkomende erkenning wordt een gebruikersraad opgericht die minstens eens per trimester vergadert. Om de goede werking van die raad te verzekeren, krijgt die de ondersteuning van het personeel dat werkzaam is in het woonzorgcentrum.<br>
+<br>
+Met betrekking tot de gebruikersraad geldt het volgende:<br>
+1° de raad is samengesteld uit bewoners van het woonzorgcentrum en/of hun familieleden, maar de directeur of zijn vertegenwoordiger kan deelnemen aan de vergaderingen van de gebruikersraad;<br>
+2° de geactualiseerde nominatieve lijst van de leden van de gebruikersraad moet op een goed zichtbare plaats worden uitgehangen;<br>
+3° de raad kan advies uitbrengen, hetzij op eigen initiatief, hetzij op verzoek van de directeur, over alle aangelegenheden die de algemene werking van het woonzorgcentrum betreffen;<br>
+4° van de vergaderingen wordt een verslag opgemaakt dat ter inzage ligt van de bewoners, hun familieleden en vertegenwoordigers en dat waarvan de ambtenaren die belast zijn met het toezicht op de woonzorgcentra, altijd kunnen inkijken;<br>
+5° suggesties, bemerkingen of klachten kunnen door de bewoner, zijn vertegenwoordiger of zijn familie worden geacteerd in een register dat daarvoor bestemd is, waarna aan de indiener moet worden meegedeeld welk gevolg er aan zijn klacht is gegeven.<br>
+<br>
+Het register, vermeld in het tweede lid, 5°, moet een keer per drie maanden op eenvoudige aanvraag aan de bewonersraad worden voorgelegd.
+
 ## [Onderafdeling VI Overeenkomst tussen de initiatiefnemer en de bewoner (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
+
+### ART 48/16.
+
+De initiatiefnemer, vertegenwoordigd door de directeur, en de bewoner of zijn vertegenwoordiger tekenen een verstaanbare en leesbare overeenkomst in tweevoud. Die overeenkomst moet minstens de volgende punten regelen :<br>
+1° de algemene en bijzondere verblijfsvoorwaarden in het woonzorgcentrum;<br>
+2° de verblijfsprijs per dag, de daarin begrepen dienstverlening, een uitvoerige opsomming en beschrijving van alle eventuele supplementen en de prijs ervan, alsook de vermelding dat supplementen die niet in de overeenkomst staan, niet mogen worden aangerekend;<br>
+3° het bedrag van de eventueel te betalen waarborg, dat niet hoger mag zijn dan de maandelijkse verblijfsprijs, en de bestemming ervan;<br>
+4° de modaliteiten voor de opslag van de goederen en waarden die de bewoner aan de instelling toevertrouwt, de modaliteiten voor het beheer ervan, alsook het bewijs van de aanstelling van de persoon of personen die met dat beheer worden belast;<br>
+5° het nummer van de aan de bewoner toegewezen kamer, met vermelding van het maximum aantal bewoners dat in die kamer is toegestaan;<br>
+6° de regeling voor de opzegging van de overeenkomst;<br>
+7° de financiële lasten voor de bewoners in geval van afwezigheid of opname in het ziekenhuis.<br>
+<br>
+Het beheer van gelden of goederen van de bewoner, of het bewaren ervan, kan in geen enkel geval aan het woonzorgcentrum worden toevertrouwd, met uitzondering van het beheer van het zakgeld en de verrekening van kosten die rechtstreeks te maken hebben met het verblijf in het woonzorgcentrum.
 
 ## [Onderafdeling VII Boekhouding (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/17.
+
+Het woonzorgcentrum houdt voor elke bewoner een individuele uitgavenfiche bij. De bewoner of zijn vertegenwoordiger moet die fiche op elk ogenblik kunnen inkijken. In een uitvoerige maandelijkse factuur wordt het overzicht van de inkomsten en uitgaven opgesteld. Die factuur wordt samen met alle bewijsstukken overhandigd aan de bewoner of zijn vertegenwoordiger.<br>
+<br>
+De totale boekhouding van het woonzorgcentrum en van de individuele uitgavenfiche van de bewoners, alsook de bewijsstukken, moeten ter beschikking staan van de bevoegde inspectiediensten.<br>
+<br>
+Het woonzorgcentrum moet een aparte boekhouding hebben die gebaseerd op het algemeen rekeningenstelsel. Die boekhouding moet door een bedrijfsrevisor (of een externe onafhankelijke controle, zoals door de minister nader kan omschreven worden) worden nagezien.<br>
+<br>
+De minister kan nadere regels bepalen over de wijze waarop de woonzorgcentra de verplichtingen, vermeld in dit artikel, nakomen.
+
 ## [Onderafdeling VIII Statistische gegevens (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
 
+### ART 48/18.
+
+De woonzorgcentra met een bijkomende erkenning moeten het agentschap Zorg en Gezondheid op de hoogte brengen van de statistische gegevens die met het woonzorgcentrum verband houden, volgens de door de minister vastgestelde regels en binnen de door de minister bepaalde termijn.
+
 ## [Onderafdeling IX Kwaliteitsvoorwaarden (ing. BVR 30 november 2018, art. 571, I: 1 januari 2019)]
+
+### ART 48/19.
+
+Het woonzorgcentrum met een bijkomende erkenning biedt bij het vervullen van zijn opdracht een geëigende zorg- en dienstverlening aan elke bewoner. In dat kader moet het een kwaliteitsbeleid ontwikkelen dat erop gericht is systematisch de kwaliteit van de zorg- en dienstverlening, alsook van haar werking te bepalen, te plannen, te evalueren en te verbeteren. Dat beleid heeft minstens betrekking op :<br>
+1° de zorg- en dienstverstrekking waarin respect voor menselijke waardigheid, de persoonlijke levenssfeer, de ideologische, filosofische of godsdienstige overtuiging, het klachtenrecht, de informatie aan en de inspraak van de bewoner gewaarborgd zijn en waarbij rekening wordt gehouden met de sociale context van de bewoner;<br>
+2° de specifieke begeleiding van personen met dementie;<br>
+3° de doeltreffendheid en doelmatigheid van de aangeboden zorg- en dienstverlening en werking;<br>
+4° de continuïteit van de aangeboden zorg- en dienstverlening.
+
+### ART 48/20.
+
+Het woonzorgcentrum met een bijkomende erkenning houdt een registratie bij van minstensde volgende gegevens :<br>
+1° het aantal gevallen van doorligwonden;<br>
+2° het aantal nosocomiale infecties;<br>
+3° het aantal valincidenten;<br>
+4° het aantal incontinente personen;<br>
+5° de toepassing van fixatie- en isolatiemaatregelen.
+
+### ART 48/21.
+
+Het woonzorgcentrum met een bijkomende erkenning moet beschikken over schriftelijke procedures voor de handhygiëne en de afzondering van bewoners die lijden aan een infectie met besmettingsgevaar.<br>
+<br>
+Het woonzorgcentrum met een bijkomende erkenning moet ook beschikken over de producten ter ondersteuning van een goede handhygiëne en het nodige materiaal om de procedures, vermeld in het eerste lid, te kunnen toepassen.
+
+### ART 48/22.
+
+Het woonzorgcentrum met een bijkomende erkenning beschikt over schriftelijke procedures die moeten worden nageleefd bij de toepassing van een fixatie- of afzonderingsmaatregel. Die maatregelen kunnen slechts uitzonderlijk worden toegepast, enkel ter bescherming van de bewoner of andere bewoners en enkel bij een duidelijke medische indicatie.<br>
+<br>
+De maatregelen, vermeld in het eerste lid, worden alleen overwogen als er geen andere minder ingrijpende maatregelen voorhanden zijn om hetzelfde doel te bereiken en als de belangen van alle betrokken partijen zijn afgewogen.<br>
+<br>
+Elke beslissing over fixatie of afzondering wordt vermeld in het verzorgingsdossier van de bewoner. In het verzorgingsdossier wordt ook de aard en de duur van de maatregel opgetekend, alsook de motivatie van de beslissing.<br>
+<br>
+Als wordt afgeweken van de schriftelijke procedures, vermeld in het eerst lid, is een afzonderlijke motivatie nodig.
+
+### ART 48/23.
+
+Het woonzorgcentrum met een bijkomende erkenning moet een functionele binding hebben met een erkende geriatriedienst (kenletter G) of een erkende dienst voor behandeling en revalidatie bestemd voor patiënten met psychogeriatrische aandoeningen (kenletter Sp-psychogeriatrie). Die functionele binding wordt in een schriftelijke overeenkomst vastgelegd, die onder meer bepaalt dat de G- of Sp-dienst-psychogeriatrie en het woonzorgcentrum minstens twee vergaderingen per jaar houden. De geplande vergaderingen beogen zowel het overleg als de permanente opleiding voor het personeel van beide partners.<br>
+<br>
+De bewijzen van de concretisering van de schriftelijke overeenkomsten, vermeld in het eerste lid, moeten geleverd worden.
+
+### ART 48/24.
+
+Het woonzorgcentrum met een bijkomende erkenning nodigt de bewoners uit om in een open en ongedwongen sfeer hun eventuele wensen aanovergaande toekomstige zorgen en behandelingen kenbaar te maken. Op verzoek van de bewoner worden zijn wensen ook vermeld in het verzorgingsdossier, met dien verstande dat die op ieder moment herroepbaar zijn en dat dat de zorgverstrekker niet ontslaat van zijn plicht om altijd de actuele wil van de patiënt te achterhalen.
+
+### ART 48/25.
+
+Ter ondersteuning van de zorg met betrekking tot het levenseinde in het woonzorgcentrum met een bijkomende erkenning zijn de coördinerend en raadgevend arts en de hoofdverpleegkundige(n) belast met :<br>
+1° de ontwikkeling van een palliatieve zorgcultuur en de sensibilisering van het personeel voor de noodzaak daarvan;<br>
+2° het formuleren van adviezen over palliatieve zorg voor het verpleegkundig, zorgkundig, en paramedisch personeel, het personeel voor reactivering en de kinesitherapeuten;<br>
+3° het bijwerken van de kennis van de personeelsleden, vermeld in punt 2°, over palliatieve zorg;<br>
+4° de naleving van de wetgeving over euthanasie en palliatieve zorg, alsook de naleving van de wilsbeschikking van de bewoner over zijn levenseinde of zijn wilsverklaring inzake euthanasie.
+
+### ART 48/26.
+
+Het woonzorgcentrum met een bijkomende erkenning moet een functionele binding hebben met een Sp-dienst palliatieve verzorging als vermeld in rubriek IIIbis "Specifieke normen per specialisme", onderdeel B "Specifieke normen voor de Sp-dienst palliatieve verzorging", van de bijzondere normen die toepasselijk zijn op de gespecialiseerde dienst voor behandeling en revalidatie, kenletter Sp, gevoegd als bijlage bij het koninklijk besluit van 23 oktober 1964 tot bepaling van de normen die door de ziekenhuizen en hun diensten moeten worden nageleefd.
+
+### ART 48/27.
+
+Het woonzorgcentrum met een bijkomende erkenning moet meewerken aan het samenwerkingsverband inzake palliatieve zorg dat het geografisch gebied in kwestie bestrijkt en samenwerken met het regionale platform voor ziekenhuishygiëne van het gebied waarvan het deel uitmaakt.
+
+### ART 48/28.
+
+Elk woonzorgcentrum met een bijkomende erkenning moet een vormingspolitiek instellen, op maat van iedere discipline.
 
 ## [HOOFDSTUK III/2 Bijzondere erkenningsvoorwaarden (ing. BVR 15 maart 2019, art. 12, I: 13 april 2019)]
 
@@ -2827,9 +3321,9 @@ De aanvragen tot erkenning van verenigingen van gebruikers en mantelzorgers waar
 
 In deze bijlage wordt verstaan onder<br>
 1° gesco : de gesubsidieerde contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
-2° werkingsjaar :<br>
-in hoofdstuk I/1 : de referentieperiode, vermeld in artikel 1, 3°, van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, par. 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
-In hoofdstuk II en II/1 : het kalenderjaar.
+2° werkingsjaar:<br>
+a) in hoofdstuk I/1: referentieperiode, vermeld in artikel 1, 45°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+b) in hoofdstuk II en II/1: het kalenderjaar.
 
 ## [HOOFDSTUK I/1 (verv. BVR 8 januari 2016, art. 2, I: 1 januari 2016)] Subsidiëring van de animatiewerking
 
@@ -2847,7 +3341,7 @@ Om voor subsidiëring in aanmerking te komen, moet een erkend woonzorgcentrum al
 
 ### ART. 3.
 
-Een erkend woonzorgcentrum ontvangt 2,2318 % boven op het bedrag, vastgesteld met toepassing van van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, par. 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden, als tegemoetkoming voor de animatiewerking.
+Een erkend woonzorgcentrum, in voorkomend geval met het bijbehorende centrum voor kortverblijf, ontvangt een animatiesubsidie conform artikel 473, § 3, 1°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ### ART. 4.
 
@@ -2867,7 +3361,7 @@ Als jaarlijkse basis voor dat DAC-supplement gelden het subsidiebedrag en het aa
 <br>
 De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, § 1.<br>
 <br>
-De middelen die vrijkomen als gevolg van een vermindering als vermeld in het derde lid, worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het kader van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
+De middelen die vrijkomen als gevolg van een vermindering als vermeld in het derde lid, worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 § 2. De administrateur-generaal bepaalt jaarlijks het aantal voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, dat in aanmerking komt voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum.
 
@@ -2883,7 +3377,18 @@ Binnen de beschikbare begrotingskredieten kan de administrateur-generaal   volge
 
 ### ART. 7/2.
 
-§ 1. Aan de ouderenvoorzieningen, vermeld in artikel 7/1, wordt jaarlijks   een subsidie-enveloppe toegekend voor de tewerkgestelde personeelsleden met een   gewezen gescostatuut.<BR><BR>Als basis voor die subsidie-enveloppe geldt :<BR>1°   95 % van de gescopremie, toegekend voor het jaar 2014 met toepassing van het   besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het   stelsel van gesubsidieerde contractuelen;<BR>2° 95 % van de vermindering van de   sociale zekerheidsbijdrage voor het jaar 2014, toegekend conform artikel 9,   9bis, 14 en 28/11 van het koninklijk besluit van 16 mei 2003 tot uitvoering van   het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I),   betreffende de harmonisering en vereenvoudiging van de regelingen inzake   verminderingen van de sociale zekerheidsbijdragen;<BR>3° het aantal nog in   aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld   met een gewezen gescostatuut op 1 januari van het desbetreffende   werkingsjaar.<BR><BR>De subsidiebedragen per ouderenvoorziening worden   proportioneel verminderd bij definitieve vermindering van de arbeidsduur als   vermeld in artikel 10, § 3.<BR><BR>De middelen die vrijkomen als gevolg van een   vermindering als vermeld in artikel 10, § 3 worden ingezet voor de financiering   van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het   kader van het ministerieel besluit van 6 november 2003 tot vaststelling van het   bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in   artikel 37, § 12, van de wet betreffende de verplichte verzekering voor   geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de   rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<BR><BR>§ 2. De   administrateur-generaal bepaalt jaarlijks de ouderenvoorzieningen en, per   ouderenvoorziening, het aantal voltijdse equivalenten aan personeelsleden,   tewerkgesteld in een gewezen gescostatuut, die in aanmerking komen voor de   subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per   ouderenvoorziening.
+§ 1. Aan de ouderenvoorzieningen, vermeld in artikel 7/1, wordt jaarlijks een subsidie-enveloppe toegekend voor de tewerkgestelde personeelsleden met een gewezen gescostatuut.<br>
+<br>
+Als basis voor die subsidie-enveloppe geldt :<br>
+1° 95 % van de gescopremie, toegekend voor het jaar 2014 met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
+2° 95 % van de vermindering van de sociale zekerheidsbijdrage voor het jaar 2014, toegekend conform artikel 9, 9bis, 14 en 28/11 van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen;<br>
+3° het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut op 1 januari van het desbetreffende werkingsjaar.<br>
+<br>
+De subsidiebedragen per ouderenvoorziening worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, § 3.<br>
+<br>
+De middelen die vrijkomen als gevolg van een vermindering als vermeld in artikel 10, § 3 worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het kader van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
+<br>
+§ 2. De administrateur-generaal bepaalt jaarlijks de ouderenvoorzieningen en, per ouderenvoorziening, het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld in een gewezen gescostatuut, die in aanmerking komen voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per ouderenvoorziening.
 
 ### ART. 7/3.
 
@@ -2899,7 +3404,7 @@ Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van h
 
 § 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd na goedkeuring door het agentschap van de bewijsvoering, vermeld in artikel 7 en 7/3.<br>
 <br>
-§ 2. Als blijkt dat het woonzorgcentrum, in afwijking van artikel 2, 2°, gedurende het werkingsjaar in kwestie niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, kan de tegemoetkoming voor de animatiewerking, vermeld in artikel 3, proportioneel worden herrekend en kan het teveel aan tegemoetkoming, uitbetaald met toepassing van artikel 3, worden teruggevorderd.<br>
+§ 2. Als blijkt dat het woonzorgcentrum, in afwijking van artikel 2, 2°, gedurende het werkingsjaar in kwestie niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, wordt de animatiecoëfficiënt aangepast conform artikel 473, § 4, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 § 3. Als blijkt dat de ouderenvoorziening, vermeld in artikel 5 en 7/1, meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het verschil terug. Als ten tijde van de uitkering van de voorschotten, vermeld in artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet werd betaald, wordt dat bedrag in mindering gebracht van de uit te betalen voorschotten.<br>
 <br>
@@ -2907,7 +3412,7 @@ Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van h
 <br>
 § 5. De initiatiefnemer van de ouderenvoorziening, vermeld in artikel 5 en 7/1, wordt op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of van de terug te vorderen voorschotten.<br>
 <br>
-§ 6. In afwijking van artikel 14 van het besluit volgt de subsidiëring, vermeld in artikel 3, de indexregeling, zoals van toepassing op de tegemoetkomingen, vermeld in het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
+§ 6. In afwijking van artikel 14 van het besluit volgt de subsidiëring, vermeld in artikel 3, de indexregeling, zoals van toepassing op de tegemoetkomingen, vermeld in het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 In afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in artikel 6, § 1, tweede lid, en artikel 7/2, § 1, tweede lid, van dit besluit, uitgedrukt tegen 100% op basis van de spilindex die van toepassing is op 1 januari 2016.
 
@@ -3063,9 +3568,57 @@ De voorwaarden, vermeld in hoofdstuk 3, afdeling 4, onderafdeling 2, van bijlage
 
 ## [Afdeling 1 Algemene erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 577, I: 1 januari 2019)]
 
+### ART 21/1.
+
+De dagverzorgingscentra met een bijkomende erkenning voor personen die lijden aan een ernstige ziekte zijn bestemd voor personen die beantwoorden aan de afhankelijkheidscategorie Fp, vermeld in artikel 427 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
+
+### ART 21/2.
+
+Het centrum voor dagverzorging voor personen die lijden aan een ernstige ziekte biedt een ondersteuning voor:<br>
+1° de pijn- en symptoomcontrole bij psychisch of fysiek lijden ten gevolge van ziekteprogressie of gerelateerde behandelingen;<br>
+2° de aangepaste, complementaire zorg;<br>
+3° de revalidatie en in het bijzonder het aanleren van specifieke vaardigheden voor het dagelijkse leven.
+
 ## [Afdeling 2 Functionele erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 577, I: 1 januari 2019)]
 
+### ART 21/3.
+
+§ 1. Een bijkomende erkenning als dagverzorgingscentrum voor personen die lijden aan een ernstige ziekte wordt toegekend voor minstens vijf verblijfseenheden en maximum vijftien verblijfseenheden die gegroepeerd zijn in een afzonderlijke architecturale eenheid.<br>
+<br>
+§ 2. Het dagverzorgingscentrum voldoet aan de volgende functionele voorwaarden:<br>
+1° het centrum is minstens vijf dagen per week open voor een tenlasteneming van minstens zes uur per dag;<br>
+2° voor iedere persoon die verblijft in het dagverzorgingscentrum wordt een overlegd zorgplan opgemaakt;<br>
+3° het dagverzorgingscentrum organiseert een functionele samenwerking met:<br>
+a) een ziekenhuis dat beschikt over een Sp-dienst voor palliatieve zorg;<br>
+b) een ziekenhuis dat beschikt over een functie `gespecialiseerde spoedgevallenzorg' en een functie voor intensieve zorg;<br>
+c) het bevoegde samenwerkingsverband inzake palliatieve zorg en de begeleidingsequipe voor palliatieve thuiszorg;<br>
+d) een woonzorgcentrum;<br>
+4° het dagverzorgingscentrum werkt samen met de huisartsenkring(en) uit zijn werkingsgebied;<br>
+5° het dagverzorgingscentrum biedt een brugfunctie tussen de intra- en extramurale zorg met het oog op de continuïteit van de zorg.
+
 ## [Afdeling 3 Organisatorische erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 577, I: 1 januari 2019)]
+
+### ART 21/4.
+
+De medische omkadering bestaat uit een huisarts of een geneesheer-specialist met een bijzondere ervaring in de palliatieve zorg. Die arts is belast met de coördinatie van de medische activiteit van het dagverzorgingscentrum, de bilans bij opname, de zorgplannen en de voorschriften die noodzakelijk zijn voor de zorg in het kader van het dagverzorgingscentrum. Voor het uitoefenen van die medische coördinatiefunctie is die arts gedurende minstens vijf uren per week aanwezig in het dagverzorgingscentrum per vijftien gebruikers.<br>
+<br>
+Op verzoek van de verantwoordelijke verpleegkundige van het dagverzorgingscentrum kan er een beroep worden gedaan op de behandelend arts van de patiënt om de medische zorg te verstrekken.
+
+### ART 21/5.
+
+§ 1. De erkenningsvoorwaarde inzake personeel per vijftien personen die verblijven in het dagverzorgingscentrum met een bijkomende erkenning voor personen die lijden aan een ernstige ziekte, is de volgende :<br>
+1° 2,5 voltijds equivalent verpleegkundigen;<br>
+2° 2 voltijds equivalent zorgkundigen;<br>
+3° 1,5 voltijds equivalent personeel voor reactivering, vermeld in artikel 51/5, § 1, eerste lid, 4°, van bijlage IX, waarvan minstens 0,5 voltijds equivalent klinisch psycholoog.<br>
+<br>
+§ 2. Minstens één persoon die voldoet aan de voorwaarden, vermeld in paragraaf 1, dient permanent aanwezig te zijn om de opvang en verzorging van de personen te verzekeren.<br>
+<br>
+§ 3. Als het dagverzorgingscentrum niet voldoet aan de erkenningsvoorwaarden voor het personeel, vermeld in paragraaf 1 en 2, voor een of meer personeelskwalificaties, kan een tekort aan een bepaalde kwalificatie gecompenseerd worden door een teveel aan personeel met een andere kwalificatie conform de regels, vermeld in het tweede lid. In ieder geval is die compensatie niet mogelijk als het gaat om een tekort met betrekking tot de erkenningsvoorwaarde van 0,5 voltijds equivalent klinisch psycholoog, vermeld in paragraaf 1, 3°.<br>
+<br>
+De compensatie, vermeld in het eerste lid, wordt toegepast conform de volgende regels:<br>
+1° een tekort aan personeel voor reactivering, vermeld in paragraaf 1, 3°, kan voor maximum 20% gecompenseerd worden door een teveel aan gegradueerde verpleegkundigen of bachelors in de verpleegkunde;<br>
+2° een tekort aan verpleegkundigen als vermeld in paragraaf 1, 1°, kan voor maximum 20% gecompenseerd worden door een teveel aan personeel voor reactivering;<br>
+3° een tekort aan zorgkundigen als vermeld in paragraaf 1, 2°, kan onbeperkt gecompenseerd worden door een teveel aan verpleegkundigen, personeel voor reactivering of een combinatie van beiden.
 
 ## [HOOFDSTUK 4 Subsidiëring (ing. BVR 28 september 2012, art. 8)]
 
@@ -3296,7 +3849,7 @@ Een aanvraag die volgt op een oproep als vermeld in het tweede of vierde lid, is
 <br>
 De leidend ambtenaar van het VIPA beslist over de aanvragen. Hij kan met toepassing van artikel 9, eerste lid, de infrastructuursubsidies verlenen, weigeren of, als de begrotingskredieten ontoereikend zijn, de infrastructuursubsidies verlenen vanaf een later trimester. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij het VIPA.<br>
 <br>
-Als de ingebruikname in het goedgekeurde of uitgestelde trimester, vermeld in de beslissing genomen op basis van het zesde lid, vanwege omstandigheden buiten de wil van de initiatiefnemer om, niet kan worden gehaald, kan de leidend ambtenaar van het VIPA maximaal twee keer één jaar uitstel verlenen op het trimester, vermeld in de beslissing. De initiatiefnemer bezorgt daarover een omstandig gemotiveerd verzoek aan de leidend ambtenaar van het VIPA met een aangetekende brief, uiterlijk in het trimester dat voorafgaat aan het trimester, vermeld in de beslissing. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij het VIPA.<br>
+Als de ingebruikname in het goedgekeurde of uitgestelde trimester, vermeld in de beslissing genomen op basis van het zesde lid, vanwege omstandigheden buiten de wil van de initiatiefnemer om, niet kan worden gehaald, kan de leidend ambtenaar van het VIPA maximaal&nbsp;drie keer één jaar uitstel verlenen op het trimester, vermeld in de beslissing. De initiatiefnemer bezorgt daarover een omstandig gemotiveerd verzoek aan de leidend ambtenaar van het VIPA met een aangetekende brief, uiterlijk in het trimester, vermeld in de beslissing. In geval van een weigeringsbeslissing bevat de aangetekende zending ook een toelichting over de mogelijkheid, de voorwaarden en de procedure om een bezwaarschrift in te dienen bij het VIPA.<br>
 <br>
 Het bezwaarschrift, vermeld in het zesde of zevende lid, is ontvankelijk als het gemotiveerd is en het door de initiatiefnemer aangetekend of tegen ontvangstbewijs bij het VIPA wordt ingediend binnen dertig kalenderdagen na de ontvangst van de weigeringsbeslissing. De beslissing van de minister over het bezwaarschrift wordt binnen zestig kalenderdagen na de ontvangst van het bezwaarschrift aan de initiatiefnemer meegedeeld met een aangetekende zending.
 
@@ -3347,7 +3900,7 @@ S= 5 euro*(AGI n-1/AGI 2017)*GBG *aantal kalenderdagen van het subsidiejaar.<br>
 <br>
 In het eerste lid wordt verstaan onder:<br>
 1° referentieperiode: de periode die loopt van 1 juli van het tweede jaar dat voorafgaat aan het subsidiejaar tot en met 30 juni van het jaar dat voorafgaat aan het subsidiejaar;<br>
-2° gefactureerde referentiedagen: het totale aantal gefactureerde dagen in de referentieperiode, zoals meegedeeld in het kader van de tegemoetkoming, vermeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, wat betreft de rustoorden voor bejaarden en respectievelijk de centra voor kortverblijf;<br>
+2° gefactureerde referentiedagen: het totale aantal gefactureerde dagen in de referentieperiode, zoals meegedeeld in het kader van de tegemoetkoming voor zorg in een woonzorgcentrum of centrum voor kortverblijf, vermeld in artikel 145, 148 en 152 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 3° erkende referentiecapaciteit: het gemiddelde van het totale aantal erkende woongelegenheden op 30 juni van het tweede jaar dat voorafgaat aan het subsidiejaar en op 30 juni van het jaar dat voorafgaat aan het subsidiejaar;<br>
 4° ziekenhuisdagen: het totaal aantal dagen dat bewoners van een woonzorgcentrum in een ziekenhuis zijn opgenomen tijdens de referentieperiode.<br>
 <br>
