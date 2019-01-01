@@ -8,11 +8,32 @@ Dit decreet regelt gemeenschaps- en gewestaangelegenheden.<br /><br />
 
 ### ART. 2.
 
-<P>Voor de toepassing van dit decreet wordt verstaan onder :<BR>1° kaderdecreet   Bestuurlijk Beleid : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>2°   Codex Hoger Onderwijs van 11 oktober 2013 : de Codex Hoger Onderwijs van 11   oktober 2013, bekrachtigd bij het decreet van 20 december 2013;<BR>3°   VITO-decreet : het decreet van 23 januari 1991 betreffende de Vlaamse Instelling   voor Technologisch Onderzoek;<BR>4° universiteit : een universiteit in de   Vlaamse Gemeenschap, als vermeld in artikel II.2 van de Codex Hoger Onderwijs   van 11 oktober 2013;<BR>5° hogeschool : een hogeschool in de Vlaamse   Gemeenschap, als vermeld in artikel II.3 van de Codex Hoger Onderwijs van 11   oktober 2013;<BR>6° associatie : een vereniging zonder winstoogmerk als vermeld   in artikel II.8 van de Codex Hoger Onderwijs van 11 oktober 2013;<BR>7°   hogeronderwijsinstelling : een instelling voor hoger onderwijs als vermeld in   artikel II.1 of II.6 van de Codex Hoger Onderwijs van 11 oktober 2013;<BR>8°   instelling voor postinitieel onderwijs : een instelling van openbaar nut als   vermeld in artikel III.115 van de Codex Hoger Onderwijs of een instelling als   vermeld in artikel III.119 van de Codex hoger Onderwijs "Decretale bepalingen   betreffende het hoger onderwijs, gecodificeerd op 11 oktober 2013";<BR>9°   fundamenteel wetenschappelijk onderzoek : experimentele of theoretische   werkzaamheden die in de eerste plaats tot doel hebben om nieuwe kennis te   vergaren over de fundamenten die aan verschijnselen en waarneembare feiten ten   grondslag liggen zonder daarbij een specifieke toepassing of een specifiek   gebruik op het oog te hebben;<BR>10° strategisch basisonderzoek : kwalitatief   hoogwaardig generisch onderzoek, dat beoogt wetenschappelijke of technologische   capaciteit op te bouwen als basis voor economische en/of maatschappelijke   toepassingen die bij de aanvang van het onderzoek nog niet duidelijk zijn   gedefinieerd en alleen effectief kunnen worden ontwikkeld met   vervolgonderzoek;<BR>11° toegepast wetenschappelijk onderzoek : oorspronkelijk   onderzoek dat verricht wordt om nieuwe kennis te verkrijgen, in de eerste plaats   gericht op een specifiek praktisch doel of een specifieke praktische   doelstelling;<BR>12° innovatie : het geheel van activiteiten waarbij bestaande   of nieuwe kenniselementen op een creatieve wijze aangewend of gecombineerd   worden met het oog op de ontwikkeling of de verbetering van methodologieën,   processen, organisatiewijzen, producten of diensten, waarbij sociale,   economische, culturele, bestuurlijke, ruimtelijke of milieugebonden meerwaarden   gecreëerd of gewaarborgd worden;<BR>13° BOF : bijzonder onderzoeksfonds.<BR>14°   convenant: een overeenkomst tussen de Vlaamse Gemeenschap of het Vlaamse Gewest   en een instelling die gefinancierd wordt door de Vlaamse Gemeenschap of het   Vlaamse Gewest, die aanvullend op de toepasselijke regelgeving de rechten en   plichten tussen de partijen regelt;<BR>15° onderzoeksinfrastructuur: de   faciliteiten en bronnen die het verrichten van grensverleggend en strategisch   basisonderzoek bevorderen, daaronder onder meer begrepen wetenschappelijke   infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met   inbegrip van de digitale ontsluiting ervan;<BR>16° middelzware   onderzoeksinfrastructuur: de onderzoeksinfrastructuur waarvan de totale   financieringskosten ten minste 150.000 euro en ten hoogste 1.000.000 euro   bedragen die onder- en bovengrensbedragen kunnen worden aangepast door de   Vlaamse Regering;<BR>17° zware onderzoeksinfrastructuur: de   onderzoeksinfrastructuur waarvan de totale financieringskosten meer dan   1.000.000 euro bedragen dat ondergrensbedrag kan worden aangepast door de   Vlaamse Regering;<BR>18° interface-activiteiten: de bevordering van de   samenwerking tussen de associatie en het bedrijfsleven, de economische   valorisatie van het onderzoek dat de associatie uitvoert, of de oprichting van   spin-offbedrijven;<BR>19° steunpunt voor beleidsrelevant onderzoek: een entiteit   van één initiërende associatie, universiteit, hogeschool of instelling voor   postinitieel onderwijs in de Vlaamse Gemeenschap;<BR>20° onderzoekscentrum : een   organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt   83, van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij   bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag   met de interne markt verenigbaar worden   verklaard.<BR><BR>&nbsp;</P>
+<p>Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° Codex Hoger Onderwijs van 11 oktober 2013 : de Codex Hoger Onderwijs van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013;<br>
+3° VITO-decreet : het decreet van 23 januari 1991 betreffende de Vlaamse Instelling voor Technologisch Onderzoek;<br>
+4° universiteit : een universiteit in de Vlaamse Gemeenschap, als vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+5° hogeschool : een hogeschool in de Vlaamse Gemeenschap, als vermeld in artikel II.3 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+6° associatie : een vereniging zonder winstoogmerk als vermeld in artikel II.8 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+7° hogeronderwijsinstelling : een instelling voor hoger onderwijs als vermeld in artikel II.1 of II.6 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+8° instelling voor postinitieel onderwijs : een instelling van openbaar nut als vermeld in artikel III.115 van de Codex Hoger Onderwijs of een instelling als vermeld in artikel III.119 van de Codex hoger Onderwijs "Decretale bepalingen betreffende het hoger onderwijs, gecodificeerd op 11 oktober 2013";<br>
+9° fundamenteel wetenschappelijk onderzoek : experimentele of theoretische werkzaamheden die in de eerste plaats tot doel hebben om nieuwe kennis te vergaren over de fundamenten die aan verschijnselen en waarneembare feiten ten grondslag liggen zonder daarbij een specifieke toepassing of een specifiek gebruik op het oog te hebben;<br>
+10° strategisch basisonderzoek : kwalitatief hoogwaardig generisch onderzoek, dat beoogt wetenschappelijke of technologische capaciteit op te bouwen als basis voor economische en/of maatschappelijke toepassingen die bij de aanvang van het onderzoek nog niet duidelijk zijn gedefinieerd en alleen effectief kunnen worden ontwikkeld met vervolgonderzoek;<br>
+11° toegepast wetenschappelijk onderzoek : oorspronkelijk onderzoek dat verricht wordt om nieuwe kennis te verkrijgen, in de eerste plaats gericht op een specifiek praktisch doel of een specifieke praktische doelstelling;<br>
+12° innovatie : het geheel van activiteiten waarbij bestaande of nieuwe kenniselementen op een creatieve wijze aangewend of gecombineerd worden met het oog op de ontwikkeling of de verbetering van methodologieën, processen, organisatiewijzen, producten of diensten, waarbij sociale, economische, culturele, bestuurlijke, ruimtelijke of milieugebonden meerwaarden gecreëerd of gewaarborgd worden;<br>
+13° BOF : bijzonder onderzoeksfonds.<br>
+14° convenant: een overeenkomst tussen de Vlaamse Gemeenschap of het Vlaamse Gewest en een instelling die gefinancierd wordt door de Vlaamse Gemeenschap of het Vlaamse Gewest, die aanvullend op de toepasselijke regelgeving de rechten en plichten tussen de partijen regelt;<br>
+15° onderzoeksinfrastructuur: de faciliteiten en bronnen die het verrichten van grensverleggend en strategisch basisonderzoek bevorderen, daaronder onder meer begrepen wetenschappelijke infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met inbegrip van de digitale ontsluiting ervan;<br>
+16° middelzware onderzoeksinfrastructuur: de onderzoeksinfrastructuur waarvan de totale financieringskosten ten minste 150.000 euro en ten hoogste 1.000.000 euro bedragen die onder- en bovengrensbedragen kunnen worden aangepast door de Vlaamse Regering;<br>
+17° zware onderzoeksinfrastructuur: de onderzoeksinfrastructuur waarvan de totale financieringskosten meer dan 1.000.000 euro bedragen dat ondergrensbedrag kan worden aangepast door de Vlaamse Regering;<br>
+18° interface-activiteiten: de bevordering van de samenwerking tussen de associatie en het bedrijfsleven, de economische valorisatie van het onderzoek dat de associatie uitvoert, of de oprichting van spin-offbedrijven;<br>
+19° steunpunt voor beleidsrelevant onderzoek: een entiteit van één initiërende associatie, universiteit, hogeschool of instelling voor postinitieel onderwijs in de Vlaamse Gemeenschap;<br>
+20° onderzoekscentrum : een organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt 83, van verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.<br>
+&nbsp;</p>
 
 ### ART. 2/1.
 
-Om een meer evenwichtige participatie van mannen en vrouwen in de advies-   of bestuursorganen van de instellingen, opgenomen in dit decreet, te bevorderen,   zijn artikel 3 tot en met 7 van het decreet van 13 juli 2007 houdende   bevordering van een meer evenwichtige participatie van vrouwen en mannen in   advies- en bestuursorganen van de Vlaamse overheid van toepassing op alle   instellingen, vermeld in dit decreet.
+Om een meer evenwichtige participatie van mannen en vrouwen in de advies- of bestuursorganen van de instellingen, opgenomen in dit decreet, te bevorderen, zijn artikel III.44 tot en met III.47 van het Bestuursdecreet van toepassing op alle instellingen, vermeld in dit decreet.
 
 ### ART. 2/2.
 
@@ -142,7 +163,16 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van Flanders District 
 
 ### ART. 15.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om onder de voorwaarden vermeld   in dit decreet, deel te nemen aan de privaatrechtelijke stichting van openbaar   nut Fonds&nbsp;Wetenschappelijk Onderzoek-Vlaanderen, hierna FWO te noemen,   opgericht bij notariële akte van 21 juni 2005.<BR><BR>De statuten van het FWO,   alsook de wijzigingen die daarin worden aangebracht, moeten worden goedgekeurd   door de Vlaamse Regering.<BR><BR>§ 2. Het FWO wordt hierbij erkend als een   privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in   artikel 29 van het kaderdecreet Bestuurlijk Beleid.<BR><BR>Het kaderdecreet   Bestuurlijk Beleid is op het FWO van toepassing.<BR><BR>§ 3. De Vlaamse Regering   bepaalt tot welk homogeen beleidsdomein het FWO behoort.<BR><BR>
+§ 1. De Vlaamse Regering wordt gemachtigd om onder de voorwaarden vermeld in dit decreet, deel te nemen aan de privaatrechtelijke stichting van openbaar nut Fonds&nbsp;Wetenschappelijk Onderzoek-Vlaanderen, hierna FWO te noemen, opgericht bij notariële akte van 21 juni 2005.<br>
+<br>
+De statuten van het FWO, alsook de wijzigingen die daarin worden aangebracht, moeten worden goedgekeurd door de Vlaamse Regering.<br>
+<br>
+§ 2. Het FWO wordt hierbij erkend als een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.14 van het Bestuursdecreet.<br>
+<br>
+Het Bestuursdecreet is op het FWO van toepassing.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het FWO behoort.<br>
+&nbsp;
 
 ## Afdeling II [Subsidie (verv. decr. 25 april 2014, art. 17, I: 8 september 2014)]
 
@@ -193,7 +223,7 @@ De onafhankelijke bestuurders worden uit lijsten van twee kandidaten per vacant 
 <br>
 § 3. De raad van bestuur verkiest onder zijn leden een voorzitter, behorend tot de categorie, vermeld in § 1, eerste lid, 1° tot en met 5°, en een ondervoorzitter, behorend tot de categorie, vermeld in § 1, eerste lid, 7°.<br>
 <br>
-§ 4. Artikel 18, 19 en 20 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 zijn van toepassing op de raad van bestuur van het FWO.<br>
+§ 4.&nbsp;Artikel III.10, III.11 en III.37, § 2, van het Bestuursdecreet zijn van toepassing op de raad van bestuur van het FWO.<br>
 <br>
 § 5. De leidend ambtenaar van het Agentschap Innoveren en Ondernemen en de leidend ambtenaar van het Departement Economie, Wetenschap en Innovatie wonen de vergaderingen van de raad van bestuur van FWO bij met raadgevende stem.
 
@@ -201,7 +231,20 @@ De onafhankelijke bestuurders worden uit lijsten van twee kandidaten per vacant 
 
 ### ART. 20.
 
-<P>Tussen de Vlaamse Regering en het FWO wordt een samenwerkingsovereenkomst   gesloten als vermeld in artikel 31 van het kaderdecreet Bestuurlijk   Beleid.<BR><BR>De samenwerkingsovereenkomst bepaalt minimaal:<BR>1° de   modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<BR>2° de   strategische en operationele doelstellingen van de instelling;<BR>3° de regels   voor de meting en de opvolging ervan;<BR>4° de betalingsregeling voor de   jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<BR>5° de   financiële bepalingen over de aanwending van de subsidies en de   reservevorming;<BR>6° een rapporteringsmechanisme en een mechanisme dat bestemd   is voor de opvolging van de werking;<BR>7° de maatregelen in geval van   niet-naleving van de samenwerkingsovereenkomst;<BR>8° de gevallen waarin en de   wijze waarop de samenwerkingsovereenkomst tijdens de looptijd ervan kan worden   gewijzigd;<BR>9° de duur en de opzeggings- en verlengingsmogelijkheden van de   samenwerkingsovereenkomst;<BR>10° de vereisten waaraan de code van behoorlijk   bestuur van de instelling moet beantwoorden;<BR>11° de werking van de raad van   bestuur en de interne beheersstructuren.</P>
+<p>Tussen de Vlaamse Regering en het FWO wordt een samenwerkingsovereenkomst gesloten als vermeld in artikel III.16 van het Bestuursdecreet.<br>
+<br>
+De samenwerkingsovereenkomst bepaalt minimaal:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reservevorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van de samenwerkingsovereenkomst;<br>
+8° de gevallen waarin en de wijze waarop de samenwerkingsovereenkomst tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst;<br>
+10° de vereisten waaraan de code van behoorlijk bestuur van de instelling moet beantwoorden;<br>
+11° de werking van de raad van bestuur en de interne beheersstructuren.</p>
 
 ## Afdeling VI Toezicht
 
