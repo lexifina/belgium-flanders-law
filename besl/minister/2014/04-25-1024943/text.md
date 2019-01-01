@@ -17,7 +17,32 @@ Het bedrag van de forfaitaire bijdragen bedoeld in artikel 41 van het koninklijk
 
 ### ART. 2.
 
-Het identificatiecertificaat bevat plaats voor ten minste de volgende   gegevens :<BR>1° de gegevens van de hond :<BR>a) twee   identificatienummers;<BR>b) paspoortnummer;<BR>c) geboortedatum;<BR>d)   identificatiedatum;<BR>e) geslacht;<BR>f) ras;<BR>g) kleur en type van de   vacht;<BR>h) naam;<BR>2° de gegevens van de verantwoordelijke :<BR>a) naam en   voornaam;<BR>b) volledig adres;<BR>c) telefoonnummer;<BR>d) e-mailadres;<BR>e)   erkenningsnummer;<BR>3° de gegevens van de dierenarts :<BR>a) ordenummer;<BR>b)   naam en adres;<BR>c) handtekening;<BR>4° op de achterzijde van het origineel, de   gegevens van de overnemer :<BR>a) naam en voornaam;<BR>b) volledig adres;<BR>c)   telefoonnummer;<BR>d) e-mailadres;<BR>e) erkenningsnummer.
+Het identificatiecertificaat bevat plaats voor ten minste de volgende gegevens :<br>
+1° de gegevens van de hond :<br>
+a) twee identificatienummers;<br>
+b) paspoortnummer;<br>
+c) geboortedatum;<br>
+d) identificatiedatum;<br>
+e) geslacht;<br>
+f) ras;<br>
+g) kleur en type van de vacht;<br>
+h) naam;<br>
+2° de gegevens van de verantwoordelijke :<br>
+a) naam en voornaam;<br>
+b) volledig adres;<br>
+c) telefoonnummer;<br>
+d) e-mailadres;<br>
+e) het rijksregisternummer;<br>
+3° de gegevens van de dierenarts :<br>
+a) ordenummer;<br>
+b) naam en adres;<br>
+c) handtekening;<br>
+4° op de achterzijde van het origineel, de gegevens van de overnemer :<br>
+a) naam en voornaam;<br>
+b) volledig adres;<br>
+c) telefoonnummer;<br>
+d) e-mailadres;<br>
+e) het rijksregisternummer.
 
 ### ART. 3.
 
@@ -33,7 +58,12 @@ Elk identificatiecertificaat heeft een uniek nummer dat wordt herhaald op de ver
 
 ### ART. 5.
 
-<P>Het registratiecertificaat, vermeld in artikel 22 van het koninklijk besluit   van 25 april 2014 betreffende de identificatie en registratie van honden,   vermeldt de volgende gegevens:<BR>1° het opschrift "Registratie van een   hond";<BR>2° het identificatienummer van de hond;<BR>3° de naam en het adres van   de verantwoordelijke;<BR>4° het nummer van het paspoort, vermeld op het document   op basis waarvan de laatste registratie is gedaan.</P>
+<p>Het registratiecertificaat, vermeld in artikel 22 van het koninklijk besluit van 25 april 2014 betreffende de identificatie en registratie van honden, vermeldt de volgende gegevens:<br>
+1° het opschrift "Registratie van een hond";<br>
+2° het identificatienummer van de hond;<br>
+3° de naam en het adres van de verantwoordelijke;<br>
+4° het nummer van het paspoort, vermeld op het document op basis waarvan de laatste registratie is gedaan;<br>
+5° het ras.</p>
 
 ### ART. 6.
 
@@ -63,7 +93,22 @@ De kaart "Wijziging gegevens" biedt de mogelijkheid om volgende wijzigingen van 
 
 ### ART. 9.
 
-De fiche "Vervanging paspoort" bevat plaats voor ten minste de volgende   gegevens :<BR>1° gegevens van de hond :<BR>a) twee identificatienummers;<BR>b)   paspoortnummer;<BR>c) geboortedatum;<BR>d) identificatiedatum;<BR>2° gegevens   van de verantwoordelijke :<BR>a) naam en voornaam;<BR>b) volledig adres;<BR>c)   telefoonnummer;<BR>d) e-mailadres;<BR>e) erkenningsnummer;<BR>3° de gegevens van   de dierenarts :<BR>a) ordenummer;<BR>b) naam en adres;<BR>c)   handtekening.
+De fiche "Vervanging paspoort" bevat plaats voor ten minste de volgende gegevens :<br>
+1° gegevens van de hond :<br>
+a) twee identificatienummers;<br>
+b) paspoortnummer;<br>
+c) geboortedatum;<br>
+d) identificatiedatum;<br>
+2° gegevens van de verantwoordelijke :<br>
+a) naam en voornaam;<br>
+b) volledig adres;<br>
+c) telefoonnummer;<br>
+d) e-mailadres;<br>
+e) het rijksregisternummer;<br>
+3° de gegevens van de dierenarts :<br>
+a) ordenummer;<br>
+b) naam en adres;<br>
+c) handtekening.
 
 ### ART. 10.
 
@@ -73,7 +118,30 @@ Elke fiche "Vervanging paspoort" heeft een uniek nummer.
 
 ### ART. 11.
 
-De asielfiche bevat plaats voor ten minste de volgende gegevens :<BR>1° de   gegevens van de hond :<BR>a) twee identificatienummers;<BR>b)   paspoortnummer;<BR>c) geboortedatum;<BR>d) datum van binnenkomst in het   asiel;<BR>e) geslacht;<BR>f) ras;<BR>g) kleur en type van de vacht;<BR>h)   naam;<BR>2° de gegevens van de adoptant :<BR>a) naam en voornaam;<BR>b) volledig   adres;<BR>c) telefoonnummer;<BR>d) e-mailadres;<BR>3° de gegevens van de   dierenarts :<BR>a) ordenummer;<BR>b) naam en adres;<BR>c) handtekening;<BR>4° de   gegevens van het asiel :<BR>a) naam en adres van het asiel;<BR>b) het   erkenningsnummer;<BR>c) de naam van de verantwoordelijke van het   asiel.
+De asielfiche bevat plaats voor ten minste de volgende gegevens :<br>
+1° de gegevens van de hond :<br>
+a) twee identificatienummers;<br>
+b) paspoortnummer;<br>
+c) geboortedatum;<br>
+d) datum van binnenkomst in het asiel;<br>
+e) geslacht;<br>
+f) ras;<br>
+g) kleur en type van de vacht;<br>
+h) naam;<br>
+2° de gegevens van de adoptant :<br>
+a) naam en voornaam;<br>
+b) volledig adres;<br>
+c) telefoonnummer;<br>
+d) e-mailadres;<br>
+e) het rijksregisternummer<br>
+3° de gegevens van de dierenarts :<br>
+a) ordenummer;<br>
+b) naam en adres;<br>
+c) handtekening;<br>
+4° de gegevens van het asiel :<br>
+a) naam en adres van het asiel;<br>
+b) het erkenningsnummer;<br>
+c) de naam van de verantwoordelijke van het asiel.
 
 ## HOOFDSTUK VIII. Slotbepaling
 
