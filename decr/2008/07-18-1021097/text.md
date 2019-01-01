@@ -36,7 +36,7 @@ De Vlaamse Regering kan personen die onderworpen zijn aan de minimale kwalificat
 
 ### ART. 8.
 
-De Vlaamse Regering organiseert het toezicht op de naleving van de   bepalingen van dit hoofdstuk.<BR><BR>De personen, belast met het toezicht,   hebben het recht om het kantoor van elke persoon die beroepshalve activiteiten   van zorg- en bijstandsverlening verricht of over wie ernstige aanwijzingen   bestaan dat hij beroepshalve dergelijke activiteiten verricht, te bezoeken voor   zover dat kantoor geen deel uitmaakt van de woning van de betrokkene. Ze kunnen   ter plaatse zelf kennis nemen van alle stukken met betrekking tot de uitoefening   van die activiteiten.<BR><BR>De personen, belast met het toezicht, kunnen nadat   ze de gebruiker hebben geïnformeerd over het doel en de draagwijdte van het   bezoek en na schriftelijke toestemming van de gebruiker, de woning van de   gebruiker bezoeken om ter plaatse na te gaan of de zorg- en bijstandsverlening   die door een of meer personen beroepshalve wordt verstrekt, wordt verstrekt   conform de regels die bepaald zijn bij of ter uitvoering van dit   decreet.<BR><BR>Hun vaststellingen hebben bewijskracht tot het tegendeel bewezen   is.
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit hoofdstuk.
 
 ### ART. 9.
 
