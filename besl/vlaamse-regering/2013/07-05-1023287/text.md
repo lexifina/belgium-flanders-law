@@ -87,7 +87,9 @@ In de gevallen vermeld in het eerste lid wordt een buffervoorziening geplaatst o
 
 ### ART. 13.
 
-<P>Het vergunningverlenende bestuursorgaan kan bij de beoordeling van de   aanvraag in uitzonderlijke gevallen afwijkingen toestaan van de verplichtingen   van dit besluit als dat om specifieke redenen met betrekking tot de   mogelijkheden van hergebruik of plaatselijke terreinkenmerken verantwoord of   noodzakelijk is. <BR></P>  <P>Het vergunningverlenende bestuursorgaan houdt daarbij rekening met de   relevante bepalingen van het decreet van 18 juli 2003 betreffende het integraal   waterbeleid en de uitvoeringsbesluiten, in het bijzonder met de bepalingen van   artikel 8 van het decreet over de watertoets.<BR></P>
+<p>Het vergunningverlenende bestuursorgaan kan bij de beoordeling van de aanvraag in uitzonderlijke gevallen afwijkingen toestaan van de verplichtingen van dit besluit als dat om specifieke redenen met betrekking tot de mogelijkheden van hergebruik of plaatselijke terreinkenmerken verantwoord of noodzakelijk is.</p>
+
+<p>Het vergunningverlenende bestuursorgaan houdt daarbij rekening met de relevante bepalingen van titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 en de uitvoeringsbesluiten ervan, in het bijzonder met de bepalingen van artikel 1.3.1.1 van het voormelde decreet wat de zogenaamde watertoets betreft.</p>
 
 ## HOOFDSTUK 7 Slotbepalingen
 
