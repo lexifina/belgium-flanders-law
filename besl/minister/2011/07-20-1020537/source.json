@@ -2,16 +2,16 @@
   "codex_id": 1020537,
   "title": "Ministerieel besluit van 2011-07-20 tot bepaling van de standaard voor de titel van banketbakker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020537/VolledigDocument?datum=2011-07-06",
-  "source_sha256": "597b55ccdbd75c56857bcdec6d3742b317d32473df272f987808d6789af8a496",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020537/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "01c49f5ff2399df0d905579c297ed1e2b47f4ac44bd2d10b1a54fb4689adac52",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020537&param=informatie",
-  "as_of": "2011-07-06",
+  "as_of": "2019-01-01",
   "made": "2011-07-20",
   "gazette": "2011-08-17",
   "numac": 2011204030,
   "document_start": "2011-07-06",
   "document_end": "2018-12-31",
-  "in_force": "2011-07-06",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
