@@ -2,16 +2,16 @@
   "codex_id": 1018567,
   "title": "Decreet van 1988-11-30 tot instelling van het politiek verlof voor de personeelsleden van de openbare instellingen en publiekrechtelijke verenigingen die van de Vlaamse Gemeenschap afhangen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018567/VolledigDocument?datum=2006-11-30",
-  "source_sha256": "9bd5706548d39b66ab26733fd5fb884e332b3dc68a885bc044b39ee94888f488",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018567/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "9dd8ecd40aafcc1ca61dfe403cfacf1da82861f0ca6cd1f259035bdc9bde7cee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018567&param=informatie",
-  "as_of": "2006-11-30",
+  "as_of": "2019-01-01",
   "made": "1988-11-30",
   "gazette": "1988-12-24",
   "numac": 1988030102,
   "document_start": "1989-01-03",
   "document_end": null,
-  "in_force": "2006-11-30",
+  "in_force": "2019-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-11-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
