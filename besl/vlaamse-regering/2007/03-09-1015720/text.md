@@ -8,7 +8,9 @@ Gelet op artikel 20 van de bijzondere wet van 8 augustus 1980 tot hervorming der
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° strategische adviesraden : alle strategische adviesraden, zoals bedoeld in het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br />2° raadgevende comités : alle raadgevende comités bij intern verzelfstandigde agentschappen, zoals bedoeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br />
+In dit besluit wordt verstaan onder:<br>
+1° strategische adviesraad: een strategische adviesraad als vermeld in artikel III.93 van het bestuursdecreet van 7 december 2018;<br>
+2° raadgevend comité: een raadgevend comité als vermeld in artikel III.1, vierde lid, van het voormelde decreet.
 
 ## HOOFDSTUK II Vergoedingen voor strategische adviesraden
 
@@ -24,8 +26,8 @@ Het presentiegeld per vergadering wordt voor elke strategische adviesraad door d
 
 § 1. Als een vergadering wordt beschouwd :<br>
 1° een vergadering van de strategische adviesraad;<br>
-2° een gezamenlijke vergadering van twee of meer strategische adviesraden, in geval van gezamenlijke advisering, als vermeld in artikel 17 van het decreet tot regeling van strategische adviesraden;<br>
-3° een vergadering van een werkcommissie, als vermeld in artikel 11 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br>
+2° een gezamenlijke vergadering van twee of meer strategische adviesraden, in geval van gezamenlijke advisering, als vermeld in artikel III.104, § 1, van het bestuursdecreet van 7 december 2018;<br>
+3° een vergadering van een werkcommissie, als vermeld in artikel III.99 van het bestuursdecreet van 7 december 2018;<br>
 4° een vergadering van het vast bureau van de strategische adviesraad.<br>
 <br>
 § 2. Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.
