@@ -2,16 +2,16 @@
   "codex_id": 1030412,
   "title": "Besluit van de Vlaamse Regering van 2019-01-25 houdende aanpassing van de besluiten van de Vlaamse Regering aan de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030412/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "c819b4d44c14a23293ac07b62f7a23f0e88b8a84f1e24692d367520a89b6edf6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030412/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "dc06d0eb0c665d966aecf02e3d3b65747b034da6dcc429b767897067829b36a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030412&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-01-01",
   "made": "2019-01-25",
   "gazette": "2019-03-18",
   "numac": 2019040621,
   "document_start": "2018-05-25",
   "document_end": null,
-  "in_force": "2018-05-25",
-  "article_versions": 73,
-  "record_form": "consolidated version as in force on 2018-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 74,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

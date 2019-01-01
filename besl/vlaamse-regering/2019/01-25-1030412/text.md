@@ -526,6 +526,10 @@ In artikel 32, 2°, van het besluit van de Vlaamse Regering van 19 december 2014
 
 ## Afdeling 6. Wijziging van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling
 
+### ART 44.
+
+In artikel 74, 2°, van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling wordt de zinsnede "de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens" vervangen door de woorden "de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens".
+
 ## Afdeling 7. Wijziging van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten
 
 ### ART 45.
