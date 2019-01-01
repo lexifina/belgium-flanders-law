@@ -67,6 +67,26 @@ In artikel 146, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 25 ap
 <br>
 3° in het bestaande derde lid, dat het vierde lid wordt, worden de woorden "worden wijzigingen die betrekking hebben op de statuten of de aandeelhoudersstructuur" vervangen door de woorden "wordt de Vlaamse Regulator voor de Media op de hoogte gebracht van wijzigingen die betrekking hebben op de statuten of de aandeelhoudersstructuur en worden die".
 
+### ART 13.
+
+Artikel 157 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 157. § 1. De niet-lineaire televisieomroeporganisaties bieden in hun programma-catalogus minstens 30% Europese producties aan waarvan een aanzienlijk deel Nederlandstalige Europese producties zijn. De niet-lineaire televisieomroeporganisaties zorgen voor een prominente plaats van deze Europese producties in hun programmacatalogus.<br>
+<br>
+Het eerste lid is niet van toepassing op niet-lineaire televisieomroep-organisaties met een lage omzet of een klein publiek en is niet van toepassing op kleine en micro-ondernemingen. De Vlaamse Regering bepaalt de criteria van een lage omzet en van een klein publiek.<br>
+<br>
+De Vlaamse Regering kan voor de bepaling van een aanzienlijk deel Nederlandstalige Europese producties zoals bedoeld in het eerste lid quota opleggen.<br>
+<br>
+§ 2. De particuliere niet-lineaire televisieomroeporganisaties nemen deel aan de productie van Vlaamse audiovisuele werken, ofwel onder de vorm van een financiële bijdrage aan de productie of de coproductie van Vlaamse audiovisuele werken, ofwel onder de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds. Deze bijdrage wordt door het Vlaams Audiovisueel Fonds besteed aan Vlaamse, kwalitatieve onafhankelijke coproducties in reeksvorm.<br>
+<br>
+De Vlaamse Regering bepaalt de criteria, de voorwaarden en de procedures voor de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken, met inbegrip van de grondslag, het tarief of het bedrag en eventuele vrijstellingen of verminderingen van de financiële bijdrage.<br>
+<br>
+Het besluit van de Vlaamse Regering strekkende tot de uitvoering van het tweede lid, alsook ieder later besluit van de Vlaamse Regering strekkende tot de wijziging van datzelfde besluit, wordt van rechtswege opgeheven met terugwerkende kracht tot op de datum van de inwerkingtreding ervan als het niet binnen één maand na de goedkeuring door de Vlaamse Regering aan het Vlaams Parlement ter bekrachtiging wordt voorgelegd. Het besluit wordt bekrachtigd bij decreet binnen zes maanden na de goedkeuring ervan. Die periodes worden opgeschort tijdens het parlementaire reces en bij de ontbinding van het parlement.<br>
+<br>
+§ 3. De niet-lineaire televisieorganisaties bezorgen elk jaar voor 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop aan de bepalingen van de paragrafen 1 en 2 is voldaan. De Vlaamse Regulator voor de Media maakt die gegevens openbaar.<br>
+<br>
+§ 4. De bepalingen van paragrafen 2 en 3 zijn ook van toepassing op niet-lineaire televisieomroeporganisaties die onder de bevoegdheid vallen van een lidstaat van de Europese Unie en niet-lineaire televisiediensten aanbieden die gericht zijn op de Vlaamse Gemeenschap.".
+
 ### ART 14.
 
 In artikel 166/1 van hetzelfde decreet, ingevoegd bij het decreet van 21 februari 2014 en gewijzigd bij het decreet van 4 december 2015, worden de volgende wijzigingen aangebracht:<br>
