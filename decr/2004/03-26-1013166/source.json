@@ -2,16 +2,16 @@
   "codex_id": 1013166,
   "title": "Decreet van 2004-03-26 betreffende de openbaarheid van bestuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013166/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "cef6eab63b008056b230f05b719f01a3be43c9a319c4b7ec728b52d4956cbf87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013166/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "40dbc8c5ff17acecd200f1afa4ecb45a57c08e3afa067095f6a480fe0671be79",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013166&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-01-01",
   "made": "2004-03-26",
   "gazette": "2004-07-01",
   "numac": 2004036026,
   "document_start": "2004-07-01",
   "document_end": "2018-12-31",
-  "in_force": "2018-05-25",
+  "in_force": "2019-01-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
