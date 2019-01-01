@@ -2,16 +2,16 @@
   "codex_id": 1016731,
   "title": "Decreet van 2008-03-07 inzake bijzondere jeugdbijstand",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016731/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "26ee335e967f44c01a76ed3eadc733f301add848d14292d9484caafdae316967",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016731/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "02b303ab8ee365afdaab43655e08529630a82370c986df3ecc02223ec31934bc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016731&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2019-01-01",
   "made": "2008-03-07",
   "gazette": "2008-04-15",
   "numac": 2008201168,
   "document_start": "2009-03-02",
   "document_end": "2019-04-17",
-  "in_force": "2017-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 75,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

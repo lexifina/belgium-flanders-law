@@ -17,7 +17,7 @@ In dit decreet wordt verstaan onder :<br>
 6° Fonds : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54;<br>
 7° gemeenschapsinstellingen : voorzieningen als vermeld in artikel 47, die hoofdzakelijk residentiële opvang of hulpverlening in residentieel verband aanbieden;<br>
 8° jeugdbijstandsregeling : het geheel van de wetten betreffende de opgave van maatregelen voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-9° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+9° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 10° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar. Voor de toepassing van dit decreet wordt de persoon die de maximumleeftijden, bepaald in artikel 36, § 2, niet heeft bereikt, gelijkgesteld met een minderjarige;<br>
 11° ...<br>
 12° ...<br>
@@ -326,7 +326,11 @@ Buiten de gevallen waarin er een medische tegenaanwijzing bestaat, mogen   aan d
 
 ### ART. 54.
 
-Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel 10 van het kaderdecreet. Dat agentschap draagt als naam Fonds Jongerenwelzijn.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Fonds behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel 10, § 1, van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het Fonds, met uitzondering van artikelen 4, § 2, 1°, en 6, § 3.<br /><br />
+Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel III.4 van het Bestuursdecreet. Dat agentschap draagt als naam Fonds Jongerenwelzijn.<br>
+<br>
+De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Fonds behoort en kan een afwijking toestaan op het principe van de operationele autonomie, vermeld in artikel III.4, § 1, van het Bestuursdecreet.<br>
+<br>
+Artikel III.6 van het Bestuursdecreet is niet van toepassing.
 
 ## Onderafdeling II [... (opgeh. decr. 1 maart 2019, art. 28, I: 1 januari 2023)]
 
@@ -354,11 +358,12 @@ Het Fonds wordt beheerd door de Vlaamse Regering, middels een door haar op te ri
 
 ### ART. 60.
 
-De Vlaamse Regering regelt de werking van het Fonds. In afwijking van artikel 6, § 3, van het kaderdecreet belast ze een hoofd van een agentschap van het beleidsdomein, vermeld in artikel 54, § 2, met de algemene leiding, de werking en de vertegenwoordiging van het Fonds.<br /><br />
+De Vlaamse Regering regelt de werking van het Fonds. In afwijking van artikel III.6 van het Bestuursdecreet belast ze een hoofd van een agentschap van het beleidsdomein, vermeld in artikel 54, § 2, met de algemene leiding, de werking en de vertegenwoordiging van het Fonds.<br>
+&nbsp;
 
 ### ART. 61.
 
-De beheersovereenkomst, vermeld in artikel 8 van het kaderdecreet, vormt een onderdeel van de beheersovereenkomst van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, vermeld in artikel 59.<br /><br />
+...
 
 ## Onderafdeling IV [... (opgeh. decr. 1 maart 2019, art. 28, I: 1 januari 2023)]
 
