@@ -59,6 +59,154 @@ Artikel 5 is van overeenkomstige toepassing op de overdracht van risicogronden v
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 7.
+
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, toegevoegd bij het decreet van 22 december 2017, worden de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>LOVENDEGEM</td>
+			<td>137 553,31</td>
+			<td>0,1050 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>WAARSCHOOT</td>
+			<td>130 348,70</td>
+			<td>0,0995 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">3° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>ZOMERGEM</td>
+			<td>131 263,52</td>
+			<td>0,1002 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">4° tussen de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>LIERDE</td>
+			<td>113 568,68</td>
+			<td>0,0867 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">en de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>LILLE</td>
+			<td>173 520,02</td>
+			<td>0,1324 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt een rij ingevoegd, die luidt als volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>LIEVEGEM</td>
+			<td>399 165,53</td>
+			<td>0,3047 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### ART 8.
+
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, worden in de rubriek Provincie Oost-Vlaanderen de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Lovendegem</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Waarschoot</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">3° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Zomergem</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">4° tussen de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Kaprijke</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">en de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Lochristi</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt een rij ingevoegd, die luidt als volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Lievegem</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Inwerkingtreding
 
 ### ART 9.
