@@ -13,7 +13,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 § 2. Overeenkomstig artikel 41 van de gecoördineerde Grondwet zijn de provincies bevoegd voor de regeling van de provinciale belangen. Tot die provinciale belangen behoren met name :<br>
 1° de bovenlokale taakbehartiging. Een taakbehartiging is bovenlokaal als ze aangelegenheden van lokaal gemeentelijk belang overstijgt, voor zover ze streekgericht blijft en gericht is op realisaties binnen de grenzen van het grondgebied van de provincie;<br>
 2° ondersteunende taken op verzoek van andere overheden;<br>
-3° het nemen van initiatieven met het oog op gebiedsgerichte samenwerking tussen besturen in een regio, met inbegrip van samenwerkingsverbanden met of zonder rechtspersoonlijkheid, binnen de grenzen, vastgelegd door de Vlaamse Regering, zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br>
+3° het nemen van initiatieven met het oog op gebiedsgerichte samenwerking tussen besturen in een regio, met inbegrip van samenwerkingsverbanden met of zonder rechtspersoonlijkheid, binnen de grenzen, vastgelegd door de Vlaamse Regering, zonder afbreuk te doen aan de bepalingen van deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
 <br>
 Alleen als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.<br>
 <br>
@@ -437,7 +437,7 @@ De provincieraad neemt een deontologische code aan.
 § 2. De volgende bevoegdheden kunnen niet aan de deputatie worden toevertrouwd :<br>
 1° de aan de provincieraad toegewezen bevoegdheden, vermeld in titel II, hoofdstuk I, afdelingen I en II;<br>
 2° het vaststellen van provinciale reglementen andere dan over personeelsaangelegenheden&nbsp;en het bepalen van straffen op de overtreding van die reglementen;<br>
-3° het vaststellen van het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening;<br>
+3° het vaststellen van de beleidsrapporten, vermeld in artikel 141;<br>
 4° ...<br>
 5° het oprichten van en het toetreden tot rechtspersonen en het beslissen tot oprichting van, deelname aan of vertegenwoordiging in agentschappen,&nbsp;instellingen, verenigingen en ondernemingen;<br>
 6° het goedkeuren van beheersovereenkomsten en samenwerkingsovereenkomsten, als vermeld in artikelen 228 en 240;<br>
@@ -445,10 +445,10 @@ De provincieraad neemt een deontologische code aan.
 8° het goedkeuren van het algemene kader van het organisatiebeheersingssysteem,&nbsp;vermeld in artikel 96;<br>
 9° het vaststellen van wat onder het begrip 'dagelijks bestuur' moet worden verstaan;<br>
 10° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de provincieraad voorbehoudt;<br>
-11° het vaststellen van de wijze van gunning en het vaststellen van de voorwaarden van overheidsopdrachten, behalve als het gaat om één van de volgende opdrachten :<br>
-a) een opdracht die past binnen het begrip dagelijks bestuur als vermeld in punt 9°, waarvoor de deputatie bevoegd is;<br>
-b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br>
-12° het stellen van daden van beschikking met betrekking tot onroerende goederen, behoudens voor zover de verrichting nominatief in het vastgestelde budget is opgenomen of behoudens de bepaling van artikel 57, § 3, 8°, c);<br>
+11° het vaststellen van de plaatsingsprocedure en het vaststellen van de voorwaarden van overheidsopdrachten tenzij:<br>
+a) de opdracht past binnen het begrip dagelijks bestuur, vermeld in punt 9°, waarvoor de deputatie bevoegd is;<br>
+b) de raad de plaatsingsprocedure en het vaststellen van de voorwaarden voor die overheidsopdracht nominatief aan de deputatie heeft toevertrouwd;<br>
+12° de daden van beschikking over onroerende goederen, behalve die vermeld in artikel 57, § 3, 8°, c);<br>
 13° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br>
 14° het inrichten van adviesraden en overlegstructuren;<br>
 15° het vaststellen van de provinciebelastingen en het vaststellen van de machtiging tot het heffen van de retributies en de voorwaarden ervan;<br>
@@ -457,13 +457,15 @@ b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br>
 18° beslissingen overeenkomstig artikel 186;<br>
 19° ...<br>
 20° het aangaan van andere dadingen, dan dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben;<br>
-21° de bevoegdheden van de provincieraad, als vermeld in artikelen 153 en artikel 155, § 3;<br>
+21° de bevoegdheden van de provincieraad, vermeld in artikelen 155, 157, 158, 159 en 161;<br>
 22° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51;<br>
 23° het aanstellen en ontslaan van de leden van de raad van bestuur van een autonoom provinciebedrijf, de goedkeuring van de jaarrekening en het budget van een autonoom provinciebedrijf, de beslissing tot ontbinding en vereffening van een autonoom provinciebedrijf, en het aanstellen van de provinciale vertegenwoordigers in de algemene vergadering van een extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br>
 24° ...<br>
 25° ...;<br>
-26° het nemen van besluiten waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een langere periode;<br>
-27° de bevoegdheden van de provincieraad als vermeld in artikel 47bis.
+26° ...;<br>
+27° de bevoegdheden van de provincieraad als vermeld in artikel 47bis;<br>
+28° het vaststellen van subsidiereglementen en het toekennen van nominatieve subsidies;<br>
+29° het goedkeuren van het meerjarenplan en de aanpassingen ervan van een autonoom provinciebedrijf.
 
 ## HOOFDSTUK II De deputatie
 
@@ -613,27 +615,24 @@ Ze beslist over alle zaken die tot het dagelijks bestuur van de provincie behore
 1° de daden van beheer over de provinciale inrichtingen en eigendommen, binnen de door de provincieraad desgevallend vastgestelde algemene regels;<br>
 2° het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel, onverminderd de bevoegdheid van de provincieraad overeenkomstig artikel 43, § 2, 7°,&nbsp;en de gevallen waarin die bevoegdheid door of krachtens de wet of het decreet aan de provincieraad is opgedragen;<br>
 3° het financieel beheer, onverminderd de bevoegdheden van de provincieraad;<br>
-4° het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten;<br>
-5° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als het gaat om een opdracht die past binnen het begrip dagelijks bestuur vermeld in artikel 43, § 2, 9°;<br>
-6° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als de opdracht nominatief in het vastgestelde budget is opgenomen en de provincieraad de wijze van gunning en de voorwaarden niet zelf heeft vastgesteld;<br>
+4° het voeren van de plaatsingsprocedure, de gunning en de uitvoering van overheidsopdrachten;<br>
+5° de vaststelling van de plaatsingsprocedure en de voorwaarden van overheidsopdrachten als het gaat om een opdracht die past binnen het begrip dagelijks bestuur vermeld in artikel 43, § 2, 9°;<br>
+6° de vaststelling van de plaatsingsprocedure en de voorwaarden van overheidsopdrachten voor de opdrachten waarvoor de provincieraad dat nominatief aan de deputatie heeft toevertrouwd;<br>
 7° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de deputatie voorbehoudt;<br>
 8° het stellen van daden van beschikking :<br>
 a) met betrekking tot roerende goederen, met uitzondering van het aangaan van de dadingen;<br>
-b) met betrekking tot onroerende goederen, voor zover de verrichting nominatief in het vastgestelde budget is opgenomen, met uitzondering van het aangaan van de dadingen;<br>
+b) ...;<br>
 c) met betrekking tot verhuring, concessie, pacht, jacht- en visrechten van meer dan negen jaar, behoudens het vaststellen van de contractvoorwaarden waarvoor de provincieraad bevoegd blijft;<br>
 9° het vertegenwoordigen van de provincie in gerechtelijke en buitengerechtelijke gevallen en beslissingen over het in rechte optreden namens de provincie, met behoud van artikel 186;<br>
 10° het afsluiten van een afsprakennota als vermeld in artikel 84;<br>
-11° het nemen van besluiten :<br>
-a) voor het aangaan van leningen voor een periode langer dan één jaar;<br>
-b) waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een kortere of gelijke periode;<br>
-12° de vaste belegging van kapitalen voor een periode langer dan één jaar.<br>
+11° ...;<br>
+12° ....<br>
 <br>
 § 4. De deputatie is verantwoordelijk voor de zorg voor het provinciearchief waaronder de titels.<br>
 <br>
 § 4bis. De deputatie houdt een volledig en geactualiseerd overzicht bij van :<br>
 1° alle extern verzelfstandigde agentschappen van de provincie, hun statuten en hun overeenkomsten met de provincie;<br>
-2° alle verenigingen, stichtingen en vennootschappen waarin de provincie deelneemt;<br>
-3° alle intergemeentelijke samenwerkingsverbanden waarvan de provincie deel uitmaakt, hun statuten en hun overeenkomsten met de provincie.<br>
+2° alle verenigingen, stichtingen en vennootschappen waarin de provincie deelneemt.<br>
 <br>
 Minstens eenmaal per jaar wordt de provincieraad in kennis gesteld van dit geactualiseerd overzicht met een toelichting over alle wijzigingen aan deze overzichtslijst die zich sinds de vorige toelichting hebben voorgedaan<br>
 <br>
@@ -721,11 +720,11 @@ Diegene die een gedeputeerde vervangt, met toepassing van § 1, tweede of derde 
 <br>
 Als de grens vastgesteld in het eerste lid, wordt overschreden, wordt de som van de in het voorgaande lid vermelde vergoedingen, salarissen of presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard, verminderd tot het passende beloop. Onder vergoedingen, salarissen en presentiegelden die voortvloeien uit de uitoefening van een openbaar mandaat, een openbare functie of een openbaar ambt van politieke aard dienen te worden begrepen :<br>
 1° presentiegelden ontvangen als lid van de gemeenteraad, als lid van de raad voor maatschappelijk welzijn en als lid van de bestuursorganen van gemeentelijk extern verzelfstandigde agentschappen en hun filialen;<br>
-2° presentiegelden ontvangen als lid van bestuursorganen van een intergemeentelijk samenwerkingsverband als vermeld in het decreet houdende de intergemeentelijke samenwerking;<br>
+2° presentiegelden ontvangen als lid van bestuursorganen van een intergemeentelijk samenwerkingsverband als vermeld in deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 3° presentiegelden ontvangen als lid van bestuursorganen van sociale huisvestingsmaatschappijen als vermeld in het decreet houdende de Vlaamse Wooncode;<br>
-4° presentiegelden ontvangen als lid van bestuursorganen van de rechtspersonen als vermeld in artikel 195 van het Gemeentedecreet;<br>
+4° presentiegelden ontvangen als lid van bestuursorganen van de rechtspersonen als vermeld in artikel 386 van het decreet van 22 december 2017 over het lokaal bestuur;<br>
 5° presentiegelden ontvangen als lid van bestuursorganen van rechtspersonen als vermeld in artikel 188;<br>
-6° presentiegelden ontvangen als lid van bestuursorganen van rechtspersonen als bedoeld in titel VIII, hoofdstukken I, II en III, van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+6° presentiegelden ontvangen als lid van bestuursorganen van rechtspersonen als vermeld in deel 3, titel 4, hoofdstuk 2 tot en met 6, van het decreet van 22 december 2017 over het lokaal bestuur.<br>
 <br>
 § 5. Er wordt een uittredingsvergoeding toegekend aan de gedeputeerden die hun mandaat beëindigen. De Vlaamse Regering bepaalt de wijze van betaling, de toekenningsvoorwaarden en de duur van de uittredingsvergoeding binnen de hierna bepaalde grenzen :<br>
 - een maand uittredingsvergoeding per gepresteerd jaar, met een maximum van twaalf maanden;<br>
@@ -1249,7 +1248,7 @@ De Vlaamse Regering stelt de minimale voorwaarden vast voor de termijnen en de n
 
 ### ART. 133.
 
-De Beroepscommissie voor tuchtzaken, opgericht bij artikel 137 van het Gemeentedecreet, treedt ook op als beroepsinstantie voor tuchtsancties van provinciale besturen.
+De Beroepscommissie voor tuchtzaken, opgericht bij artikel 212 van het decreet van 22 december 2017 over het lokaal bestuur, treedt ook op als beroepsinstantie voor tuchtsancties van provinciale besturen.
 
 ### ART. 134.
 
@@ -1596,7 +1595,7 @@ Via de webtoepassing van de provincie wordt een lijst bekendgemaakt met de beslu
 2° de raden van bestuur van de autonome provinciebedrijven;<br>
 3° de deputatie.<br>
 <br>
-De lijst, vermeld in het eerste lid, bevat een beknopte omschrijving van de aangelegenheden die geregeld zijn in de besluiten. Er wordt geen informatie verspreid die valt onder de uitzonderingen, vermeld in het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.
+De lijst, vermeld in het eerste lid, bevat een beknopte omschrijving van de aangelegenheden die geregeld zijn in de besluiten. Er wordt geen informatie verspreid die valt onder de uitzonderingen, vermeld in titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018.
 
 ### ART 180bis.
 
@@ -1701,7 +1700,7 @@ De entiteit, vermeld in het eerste lid, is verantwoordelijk voor het beheer van 
 
 ### ART. 188.
 
-§ 1. Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen de provincies verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van provinciaal belang.<br>
+§ 1. Met behoud van toepassing van titel 3 van deel 3 van het decreet van 22 december 2017 over het lokaal bestuur, kunnen de provincies verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van provinciaal belang.<br>
 <br>
 Onder dezelfde voorwaarden kunnen de provincies een andere vennootschap in de zin van het Wetboek Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen indien die vennootschap uitsluitend&nbsp;de realisatie van lokale PPS-projecten als vermeld in het decreet van 18 juli 2013 betreffende publiek-private samenwerking als&nbsp;doelstelling heeft.<br>
 <br>
@@ -1989,7 +1988,7 @@ De bepalingen van deel 5, titel 1, hoofdstuk 1, van het Lokaal en Provinciaal Ki
 
 ### ART. 216.
 
-Het oprichtingsbesluit van een intern verzelfstandigd agentschap omvat minstens de volgende punten:<br /><br />1° een opsomming van de beleidsuitvoerende taken van provinciaal belang die aan het intern verzelfstandigd agentschap worden toevertrouwd;<br /><br />2° een beschrijving van de operationele autonomie die aan het hoofd van het agentschap wordt gedelegeerd. Deze autonomie kan betrekking hebben op:<br /><br />a) het vaststellen en wijzigen van de organisatiestructuur van het agentschap;<br /><br />b) de organisatie van de operationele processen met het oog op de realisatie van de afgesproken doelstellingen;<br /><br />c) de uitvoering van het personeelsbeleid;<br /><br />d) het aanwenden van de ter beschikking gestelde middelen voor de werking van het agentschap, de uitvoering van de doelstellingen en taken van het agentschap en het sluiten van contracten ter verwezenlijking van de opdrachten van het agentschap;<br /><br />e) de interne controle binnen het intern verzelfstandigd agentschap;<br /><br />f) specifieke delegaties naar gelang van de eigen aard van het intern verzelfstandigd agentschap.
+...
 
 ### ART. 217.
 
@@ -2066,7 +2065,23 @@ De statutenwijzigingen worden op dezelfde wijze als de oprichtingsbeslissing en 
 
 ### ART. 228.
 
-§ 1. Tussen de provincie en het autonoom provinciebedrijf wordt na   onderhandeling een beheersovereenkomst gesloten. Bij het onderhandelen over de   beheersovereenkomst wordt de provincie vertegenwoordigd door de deputatie en het   autonoom provinciebedrijf door de raad van bestuur.<BR><BR>De provincie en het   autonoom provinciebedrijf nemen de nodige initiatieven voor de openbaarheid van   de beheersovereenkomst, inclusief alle wijzigingen eraan. <BR><BR>§ 2. De   beheersovereenkomst regelt minstens de volgende aangelegenheden:<BR>1° de   concretisering van de wijze waarop het agentschap zijn taken moet vervullen en   van de doelstellingen ervan;<BR>2° de toekenning van middelen voor de eigen   werking en de uitvoering van de doelstellingen van het autonoom   provinciebedrijf;<BR>3° binnen de perken en overeenkomstig de   toekenningsvoorwaarden, bepaald door de Vlaamse Regering, het presentiegeld en   de andere vergoedingen die in het kader van de bestuurlijke werking van het   autonoom provinciebedrijf worden toegekend;<BR>4° de voorwaarden waaronder eigen   inkomsten of andere financieringen mogen worden verworven en aangewend;<BR>5° de   wijze waarop de tarieven voor de geleverde prestaties door de raad van bestuur   vastgesteld en berekend worden;<BR>6° de gedragsregels inzake dienstverlening   door het autonoom provinciebedrijf;<BR>7° de voorwaarden waaronder het autonoom   provinciebedrijf andere personen kan oprichten, erin kan deelnemen of zich erin   kan laten vertegenwoordigen;<BR>8° de informatieverstrekking door het autonoom   provinciebedrijf aan de provincie;<BR>9° ...<BR>10° de wijze waarop het autonoom   provinciebedrijf zal voorzien in een systeem van interne controle;<BR>11° de   maatregelen bij niet-naleving door een partij van haar verbintenissen uit hoofde   van de beheersovereenkomst en de bepalingen inzake beslechting van geschillen   die rijzen bij de uitvoering van de beheersovereenkomst;<BR>12° de   omstandigheden waarin en de wijze waarop de beheersovereenkomst kan worden   verlengd, gewijzigd, geschorst en ontbonden.<BR><BR>§ 3. Met behoud van de   mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de   beheersovereenkomst wordt die gesloten voor een periode die eindigt uiterlijk   zes maanden na de volledige vernieuwing van de provincieraad.<BR><BR>De   beheersovereenkomst en de uitvoering ervan worden jaarlijks geëvalueerd door de   provincieraad.<BR><BR>Als bij het verstrijken van de beheersovereenkomst geen   nieuwe beheersovereenkomst in werking is getreden, wordt de bestaande   overeenkomst van rechtswege verlengd.<BR><BR>Als geen nieuwe beheersovereenkomst   in werking is getreden binnen één jaar na de in het derde lid vermelde   verlenging, of als een beheersovereenkomst werd ontbonden of geschorst, kan de   provincieraad na overleg met het autonoom provinciebedrijf voorlopige regels   vaststellen inzake de in de beheersovereenkomst vermelde aangelegenheden. Die   voorlopige regels zullen als beheersovereenkomst gelden tot op het ogenblik dat   een nieuwe beheersovereenkomst in werking treedt.
+§ 1. Tussen de provincie en het autonoom provinciebedrijf wordt na onderhandeling een beheersovereenkomst gesloten. Bij het onderhandelen over de beheersovereenkomst wordt de provincie vertegenwoordigd door de deputatie en het autonoom provinciebedrijf door de raad van bestuur.<br>
+<br>
+De provincie en het autonoom provinciebedrijf nemen de nodige initiatieven voor de openbaarheid van de beheersovereenkomst, inclusief alle wijzigingen eraan.<br>
+<br>
+§ 2. Zolang het autonoom provinciebedrijf geen eigen regels heeft vastgesteld voor het aangaan van verbintenissen, de kredietbewaking, de wetmatigheidscontrole of de ondertekening van de girale betalingsorders, zijn artikel 158, 159, 161 en 163, § 1, tweede en derde lid, van toepassing op het autonoom provinciebedrijf. In dat geval zijn bovendien artikel 157, 160 en 163, § 1, eerste lid, en § 2, eerste lid, van toepassing op het autonoom provinciebedrijf, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+1° "de provincie" als "het autonoom provinciebedrijf";<br>
+2° "de provincieraad" als "de raad van bestuur";<br>
+3° "provinciegriffier" als "de gedelegeerd bestuurder" of, als het autonoom provinciebedrijf geen gedelegeerd bestuurder heeft, als "de voorzitter van de raad van bestuur";<br>
+4° "de deputatie" als "de raad van bestuur".<br>
+<br>
+§ 3. Met behoud van de mogelijkheid tot verlenging, wijziging, schorsing en ontbinding van de beheersovereenkomst wordt die gesloten voor een periode die eindigt uiterlijk zes maanden na de volledige vernieuwing van de provincieraad.<br>
+<br>
+De beheersovereenkomst en de uitvoering ervan worden jaarlijks geëvalueerd door de provincieraad.<br>
+<br>
+Als bij het verstrijken van de beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt de bestaande overeenkomst van rechtswege verlengd.<br>
+<br>
+Als geen nieuwe beheersovereenkomst in werking is getreden binnen één jaar na de in het derde lid vermelde verlenging, of als een beheersovereenkomst werd ontbonden of geschorst, kan de provincieraad na overleg met het autonoom provinciebedrijf voorlopige regels vaststellen inzake de in de beheersovereenkomst vermelde aangelegenheden. Die voorlopige regels zullen als beheersovereenkomst gelden tot op het ogenblik dat een nieuwe beheersovereenkomst in werking treedt.
 
 ### ART. 229.
 
@@ -2154,15 +2169,21 @@ Het autonoom provinciebedrijf maakt een meerjarenplan en een budget op   overeen
 
 ### ART. 236bis.
 
-§ 1. De controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen weer te geven in de jaarrekening van het autonoom provinciebedrijf wordt uitgeoefend door één of meer commissarissen. Dit zijn erkende bedrijfsrevisoren die benoemd worden door de provincieraad en die onderworpen zijn aan de wettelijke en reglementaire bepalingen die hun ambt en hun bevoegdheid regelen.<br /><br />§ 2. De raad van bestuur spreekt zich in de loop van het eerste semester van het financiële boekjaar dat volgt op het financiële boekjaar waarop de rekening betrekking heeft, uit over de vaststelling van de jaarrekening.<br /><br />Als de raad van bestuur bezwaren heeft tegen bepaalde verrichtingen, formuleert hij een advies over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Dat advies wordt als bijlage bij de jaarrekening gevoegd. Een afschrift van dat advies wordt bezorgd aan de betrokken actoren.<br /><br />Een afschrift van de overeenkomstig dit artikel vastgestelde jaarrekening wordt binnen twintig dagen bezorgd aan de provincieraad.<br /><br />§ 3. De provincieraad keurt de jaarrekening goed aan de hand van het verslag van de commissaris of commissarissen, vermeld in paragraaf 1, als ze juist en volledig is en een waar en getrouw beeld geeft van de financiële toestand van het autonoom provinciebedrijf.<br /><br />Als de provincieraad geen besluit verzonden heeft aan het autonoom provinciebedrijf binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening aan de provincieraad, wordt hij geacht de jaarrekening goed te keuren.<br /><br />§ 4. De raad van bestuur kan bij de Vlaamse Regering gemotiveerd beroep instellen tegen het besluit van de provincieraad tot niet-goedkeuring van de jaarrekening.<br /><br />Het beroep moet worden ingediend binnen een termijn van dertig dagen die ingaat op de derde dag die volgt op de verzending van het betwiste besluit. De Vlaamse Regering spreekt zich over het ingestelde beroep uit binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van het beroep. Als de Vlaamse Regering binnen die termijn geen beslissing heeft verzonden, wordt ze geacht in te stemmen met het besluit van de provincieraad.
+§ 1. De raad van bestuur spreekt zich uit over de vaststelling van de jaarrekening voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.<br>
+<br>
+§ 2. De provincieraad brengt advies uit bij de jaarrekening van het autonoom provinciebedrijf, tenzij de provincieraad ervoor gekozen heeft om alle leden van de provincieraad te benoemen als lid van de raad van bestuur.<br>
+<br>
+Als de provincieraad geen advies heeft verstuurd aan de toezichthoudende overheid binnen een termijn van vijftig dagen, die ingaat op de dag na de ontvangst van de jaarrekening door het provinciebestuur, wordt de provincieraad geacht een gunstig advies te hebben uitgebracht.<br>
+<br>
+§ 3. Als de Vlaamse Regering geen besluit heeft verzonden over de goedkeuring van de jaarrekening binnen een termijn van honderdvijftig dagen, wordt ze geacht de jaarrekening goed te keuren. Die termijn gaat in op de dag nadat de provincie de Vlaamse Regering op de hoogte gebracht heeft van de bekendmaking van de jaarrekening van het autonoom provinciebedrijf, met toepassing van artikel 180bis, eerste lid, en het autonoom provinciebedrijf de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd.
 
 ### ART. 236ter.
 
-§ 1. Als de provincieraad bij de goedkeuring bepaalde verrichtingen als onregelmatig heeft bestempeld, beslist hij over de aansprakelijkheid van de actoren die betrokken zijn bij de betwiste verrichtingen.<br /><br />Als de provincieraad zich niet uitgesproken heeft over de goedkeuring van de jaarrekening binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening aan de provincieraad, wordt hij geacht over de aansprakelijkheid van de verrichtingen waartegen de raad van bestuur bezwaren heeft geformuleerd, te hebben beslist overeenkomstig het advies van de raad van bestuur.<br /><br />§ 2. De betrokkenen worden onmiddellijk met een aangetekende brief op de hoogte gebracht van de beslissing van de provincieraad. In voorkomend geval wordt daarbij een aanmaning gevoegd om het vastgestelde bedrag in de kas van het autonoom provinciebedrijf te storten. Een afschrift van de beslissing van de provincieraad wordt onmiddellijk bezorgd aan het autonoom provinciebedrijf en aan de Vlaamse Regering.<br /><br />§ 3. Degenen die aansprakelijk worden gesteld en het autonoom provinciebedrijf kunnen beroep instellen bij de Vlaamse Regering tegen de beslissingen van de provincieraad, vermeld in paragraaf 1, binnen een termijn van zestig dagen die ingaat op de derde dag die volgt op de verzending van het betwiste besluit of, als de provincieraad geen besluit heeft verzonden, die ingaat op de derde dag die volgt op de dag van het verstrijken van de termijn vermeld in paragraaf 1, tweede lid. Dat beroep heeft schorsende werking. De Vlaamse Regering doet uitspraak over de aansprakelijkheid van de betrokkenen en bepaalt het bedrag dat hen ten laste wordt gelegd.<br /><br />Als de verwerping van bepaalde verrichtingen aanleiding heeft gegeven tot de definitieve afwijzing van bepaalde uitgaven, kan degene die beroep heeft ingesteld de personen die hij aansprakelijk of medeaansprakelijk acht, ter verantwoording roepen in het beroep bij de Vlaamse Regering. In dat geval doet de Vlaamse Regering mee uitspraak over de aansprakelijkheid van de ter verantwoording geroepen personen.<br /><br />De beslissing van de Vlaamse Regering is uitvoerbaar, zelfs als daartegen beroep is ingesteld bij de Raad van State. Die beslissing kan echter pas ten uitvoer worden gelegd na het verstrijken van de termijn voor het instellen van dat beroep.
+...
 
 ### ART. 236quater.
 
-Onmiddellijk na het bezorgen van het meerjarenplan, de aanpassing van het meerjarenplan, het budget of de jaarrekening aan de provincie bezorgt het autonoom provinciebedrijf de gegevens over het vastgestelde beleidsrapport in een digitaal bestand aan de Vlaamse Regering. De Vlaamse Regering bepaalt welke gegevens de besturen bezorgen en de wijze waarop deze gegevens elektronisch worden aangeleverd. Bij gebrek aan een vastgestelde jaarrekening op 30 juni van het jaar dat volgt op het financiële boekjaar in kwestie bezorgt het autonoom provinciebedrijf de gegevens over het ontwerp van de jaarrekening in een digitaal bestand aan de Vlaamse Regering.<br /><br />Dat door de provincieraad goedgekeurde beleidsrapport van het autonoom provinciebedrijf is pas uitvoerbaar als de Vlaamse Regering in het bezit is van de digitale rapporten. De Vlaamse Regering stuurt onmiddellijk een ontvangstmelding van de rapporten naar het autonoom provinciebedrijf.<br /><br />Artikel 174bis, § 2, is van overeenkomstige toepassing op de autonome provinciebedrijven.
+...
 
 ### ART. 237.
 
@@ -2311,7 +2332,7 @@ De kosten worden ingevorderd door de financieel beheerder op zicht van een daart
 
 ### ART. 254.
 
-In elke provincie en in elk autonoom provinciebedrijf wordt periodiek een audit uitgevoerd door Audit Vlaanderen als vermeld in artikel 34, § 1, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br>
+In elke provincie en in elk autonoom provinciebedrijf wordt periodiek een audit uitgevoerd door Audit Vlaanderen als vermeld in artikel III.115 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 Audit Vlaanderen bezorgt de verslagen van de audits aan de voorzitter van de provincieraad, die ze bezorgt aan de provincieraadsleden.
 
