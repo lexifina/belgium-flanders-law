@@ -12,28 +12,28 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 1° actoren in de zorg: de zorgverleners, de hulpverleners en de voorzieningen;<br>
 2° administratie: de administratie van de diensten van de Vlaamse Regering die bevoegd is voor het gezondheids- of welzijnsbeleid, met uitzondering van het Agentschap;<br>
 3° Agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigd Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg, opgericht bij artikel 27;<br>
-4° authentieke gegevensbron: een authentieke gegevensbron als vermeld in artikel 2, 2°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+4° authentieke gegevensbron: een authentieke gegevensbron als vermeld in artikel III.66 van het Bestuursdecreet;<br>
 5° ...<br>
 6° dienstenintegrator: een instantie als vermeld in artikel 2, 3°, van het decreet van 13 juli 2012 houdende de oprichting en organisatie van een Vlaamse dienstenintegrator;<br>
 7° gegevensdeling: het elektronisch delen, meedelen of uitwisselen van gegevens;<br>
 8° gezondheidsbeleid: het beleid met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
 9° hulpverlener: de natuurlijke persoon, met uitzondering van de zorgverlener, die op beroepsmatige basis zorg verstrekt;<br>
 10° ICT: informatie- en communicatietechnologie;<br>
-11° Kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+11° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 12° persoonsgegevens: iedere informatie betreffende een geïdentificeerde of identificeerbare natuurlijke persoon als vermeld in artikel 1, § 1, van de wet Verwerking Persoonsgegevens;<br>
 13° privacyregelgeving: het geheel van de geldende regelgeving ter bescherming van de persoonlijke levenssfeer;<br>
 14° ...<br>
 15° ...<br>
 16° toezichtcommissie: de Vlaamse Toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 17° verzorgingsinstellingen: de instellingen, vermeld in respectievelijk de wet op de ziekenhuizen, gecoördineerd op 10 juli 2008, en in artikel 22, 6°, 34, 12° en 21°, 63 en 65 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
-18° Vlaamse sociale bescherming: de rechten, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+18° Vlaamse sociale bescherming: de rechten waarop de zorggebruiker aanspraak maakt in het kader van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 19° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheids- of welzijnsbeleid instaat voor de organisatie of uitvoering van zorg of die instaat voor de toekenning van rechten, met inbegrip van de ziekenfondsen en de zorgkassen;<br>
 20° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
 21° wet Verwerking Persoonsgegevens: de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens;<br>
 22° ziekenfonds: de rechtspersoon, vermeld in de wet van 6 augustus 1990 betreffende de ziekenfondsen en de landsbonden van ziekenfondsen, erkend volgens artikel 26 van dezelfde wet, voor zover ze een activiteit verrichten in het kader van het gezondheids- of welzijnsbeleid;<br>
 23° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, waaronder hulp, dienstverlening, ondersteuning en Vlaamse sociale bescherming;<br>
 24° zorggebruiker: de patiënt, met name de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek;<br>
-25° zorgkas: een zorgkas die erkend is krachtens artikel 17 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming of de Vlaamse Zorgkas, vermeld in artikel 18 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+25° zorgkas: een zorgkas die erkend is krachtens artikel 20 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming of de Vlaamse Zorgkas, vermeld in artikel 21 van het voormelde decreet;<br>
 26° zorgverlener: de beoefenaar, vermeld in het koninklijk besluit nr. 78 van 10 november 1967 betreffende de uitoefening van de gezondheidszorgberoepen;<br>
 27° ....
 
@@ -114,7 +114,7 @@ Met behoud van de toepassing van artikel 16, § 4, van de wet Verwerking Persoon
 
 ### ART. 11.
 
-<p>§ 1. Iedere voorziening wijst, al dan niet onder zijn medewerkers, een veiligheidsconsulent aan, overeenkomstig artikel 8, § 2, en 10 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen. Iedere voorziening die ook een instantie is in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, kan deze veiligheidsconsulent pas aanstellen overeenkomstig artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer en zijn uitvoeringsbepalingen.<br>
+<p>§ 1. Iedere voorziening wijst, al dan niet onder zijn medewerkers, een veiligheidsconsulent aan, overeenkomstig artikel 8, § 2, en 10 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen. Iedere voorziening die ook een instantie is in de zin van artikel 2, 10°, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, kan deze veiligheidsconsulent pas aanstellen overeenkomstig artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische gegevensverkeer en zijn uitvoeringsbepalingen.<br>
 <br>
 § 2. Iedere voorziening stelt een veiligheidsbeleid op dat voortwerkt op het ontwerp van veiligheidsplan, overeenkomstig artikel 10 van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Dat veiligheidsbeleid wordt aangevuld met de wijze waarop de zorggebruiker geïnformeerd wordt over zijn rechten in het kader van dit decreet en de rol die de veiligheidsconsulent opneemt.</p>
 
@@ -272,11 +272,11 @@ De Vlaamse Regering kan de controle regelen op de verplichtingen die in dit hoof
 
 ### ART. 27.
 
-<p>Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel 13 van het Kaderdecreet. Het agentschap draagt als naam "Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg".</p>
+<p>Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als vermeld in artikel III.7 van het Bestuursdecreet. Het agentschap draagt als naam "Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg".</p>
 
 <p>De Vlaamse Regering bepaalt de vestigingsplaats van het Agentschap en bepaalt tot welk homogeen beleidsdomein het Agentschap behoort.</p>
 
-<p>De bepalingen van het Kaderdecreet zijn van toepassing op het Agentschap, met uitzondering van artikel 4, § 2, 1°.</p>
+<p>De bepalingen van het Bestuursdecreet zijn van toepassing op het Agentschap.</p>
 
 ## Afdeling 2 Missie, taken en bevoegdheden
 
@@ -319,14 +319,14 @@ e) twee vertegenwoordigers van de sociale partners;<br>
 f) vijf vertegenwoordigers van de ziekenfondsen en de zorgkassen;<br>
 2° vier onafhankelijke bestuurders met aantoonbare deskundigheid.</p>
 
-<p>Met behoud van de toepassing van artikel 21 van het Kaderdecreet moet de kandidaat aan de volgende voorwaarden voldoen om tot lid benoemd te kunnen worden en lid te kunnen blijven:<br>
+<p>Met behoud van de toepassing van artikel III.12 van het Bestuursdecreet moet de kandidaat aan de volgende voorwaarden voldoen om tot lid benoemd te kunnen worden en lid te kunnen blijven:<br>
 1° de burgerlijke en politieke rechten genieten;<br>
 2° geen lid zijn van de toezichtcommissie en de Gegevensbeschermingsautoriteit, vermeld in artikel 3 van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit;<br>
 3° niet betrokken zijn bij de productie van gecommercialiseerde ICT-software of -hardware.<br>
 <br>
 Aan de raad van bestuur kan een vertegenwoordiger van het eHealth-platform en van de Vlaamse Dienstenintegrator deelnemen. Deze vertegenwoordigers hebben een raadgevende stem.<br>
 <br>
-Op de raad van bestuur zijn de bepalingen van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector van toepassing, met uitzondering van artikel 4 van dat decreet.</p>
+Artikel III.40 van het Bestuursdecreet is niet van toepassing op de raad van bestuur.</p>
 
 ### ART. 33.
 
@@ -411,7 +411,7 @@ De regeringsafgevaardigde, aangesteld bij besluit van de Vlaamse Regering op voo
 
 ### ART. 41.
 
-<p>§ 1. De Vlaamse Regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Kaderdecreet.</p>
+<p>§ 1. De Vlaamse Regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.</p>
 
 <p>De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.</p>
 
