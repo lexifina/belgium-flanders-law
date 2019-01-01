@@ -2,16 +2,16 @@
   "codex_id": 1019184,
   "title": "Besluit van de Vlaamse Regering van 2010-05-21 betreffende bijzondere verplichtingen voor de stroomgebiedsdistricten ter uitvoering van titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid [, gecoördineerd op 15 juni 2018 (ing. BVR 26 april 2019, art. 90, I: 1 januari 2019)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019184/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "5be17a4a08080ab7ccfaef36826a8b9eb3f287eabfa4d3996370f4c50172a959",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019184/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "69aec8db1226b5da09177b5454a84f02f2bc1a37d30b82ec11cb814cb64d606c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019184&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2019-01-01",
   "made": "2010-05-21",
   "gazette": "2010-07-02",
   "numac": 2010035438,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

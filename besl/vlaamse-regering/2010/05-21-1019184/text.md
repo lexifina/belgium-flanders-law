@@ -12,17 +12,23 @@ Dit besluit voorziet in een gedeeltelijke omzetting van richtlijn 2000/60/EG van
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet van 18 juli 2003 : het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br />2° significante en aanhoudende stijgende trend : elke statistische en uit milieuoogpunt significante toename van de concentratie van een verontreinigende stof, groep verontreinigende stoffen of indicator van verontreiniging in het grondwater ten gevolge van menselijke activiteiten;<br />3° basislijnniveau : de gemiddelde waarde die ten minste is gemeten gedurende de referentiejaren 2007 en 2008 op grond van de overeenkomstig artikel 67 van het decreet van 18 juli 2003 vastgestelde monitoringprogramma's of, in geval van stoffen die na die referentiejaren zijn ontdekt, gedurende de eerste periode waarvoor een representatieve periode van monitoringgegevens bestaat.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° het decreet van 18 juli 2003 : het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+2° significante en aanhoudende stijgende trend : elke statistische en uit milieuoogpunt significante toename van de concentratie van een verontreinigende stof, groep verontreinigende stoffen of indicator van verontreiniging in het grondwater ten gevolge van menselijke activiteiten;<br>
+3° basislijnniveau : de gemiddelde waarde die ten minste is gemeten gedurende de referentiejaren 2007 en 2008 op grond van de overeenkomstig artikel&nbsp;1.7.5.1 van het decreet van 18 juli 2003 vastgestelde monitoringprogramma's of, in geval van stoffen die na die referentiejaren zijn ontdekt, gedurende de eerste periode waarvoor een representatieve periode van monitoringgegevens bestaat.<br>
+&nbsp;
 
 ## HOOFDSTUK II Bijzondere verplichtingen voor de stroomgebiedsdistricten : analyses en beoordelingen
 
 ### ART. 3.
 
-De ligging en de grenzen van de grondwaterlichamen, vermeld in artikel 60, 1°, b), van het decreet van 18 juli 2003, worden beschreven in de tabellen en weergegeven op de kaarten die als bijlage bij dit besluit zijn gevoegd.<br /><br />
+De ligging en de grenzen van de grondwaterlichamen, vermeld in artikel 1.7.3.1, § 1, eerste lid, 1°, b), van het decreet van 18 juli 2003, worden beschreven in de tabellen en weergegeven op de kaarten die als bijlage bij dit besluit zijn gevoegd.<br>
+&nbsp;
 
 ### ART. 4.
 
-Iedere significante en aanhoudende stijgende trend in de concentratie van verontreinigende stoffen, groepen verontreinigende stoffen of indicatoren van verontreiniging in grondwaterlichamen of groepen grondwaterlichamen, die als gevaar lopend zijn aangemerkt, moet worden omgekeerd en wordt vastgesteld in de stroomgebiedsbeheersplannen, waarbij rekening gehouden wordt met de monitoringprogramma's, vermeld in artikelen 67, 68 en 69 van het decreet van 18 juli 2003, en met de basislijnniveaus.<br /><br />
+Iedere significante en aanhoudende stijgende trend in de concentratie van verontreinigende stoffen, groepen verontreinigende stoffen of indicatoren van verontreiniging in grondwaterlichamen of groepen grondwaterlichamen, die als gevaar lopend zijn aangemerkt, moet worden omgekeerd en wordt vastgesteld in de stroomgebiedsbeheersplannen, waarbij rekening gehouden wordt met de monitoringprogramma's, vermeld in artikel 1.7.5.1, 1.7.5.2 en 1.7.5.3 van het decreet van 18 juli 2003, en met de basislijnniveaus.<br>
+&nbsp;
 
 ### ART. 5.
 
