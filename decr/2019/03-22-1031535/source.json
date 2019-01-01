@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031535,
+  "title": "Decreet van 2019-03-22 houdende instemming met het samenwerkingsakkoord van 31 december 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Franse Gemeenschapscommissie, de Gemeenschappelijke Gemeenschapscommissie, en de Duitstalige Gemeenschap betreffende de mobiliteitshulpmiddelen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031535/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "fef6d28d291d7c3968050ec9ec45c8bf58499719f045c73e0f53adb838eeaae3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031535&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2019-03-22",
+  "gazette": "2019-04-12",
+  "numac": 2019040812,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
