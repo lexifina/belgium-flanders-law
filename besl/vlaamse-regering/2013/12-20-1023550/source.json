@@ -2,16 +2,16 @@
   "codex_id": 1023550,
   "title": "Besluit van de Vlaamse Regering van 2013-12-20 betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra en tot wijziging van de regels betreffende de voorafgaande vergunning en de erkenning van die centra",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023550/VolledigDocument?datum=2017-10-21",
-  "source_sha256": "07874b1045d6454c1e92245ace709fb3bec09a63a75557d2e16a5ac50e154a1f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023550/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f670e0f4fb98092941ee8ccd569e6193a81cd8fac321aee2f990c2aa63ec585d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023550&param=informatie",
-  "as_of": "2017-10-21",
+  "as_of": "2019-01-01",
   "made": "2013-12-20",
   "gazette": "2014-01-13",
   "numac": 2014035032,
   "document_start": "2014-01-23",
   "document_end": "2018-12-31",
-  "in_force": "2017-10-21",
+  "in_force": "2019-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2017-10-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
