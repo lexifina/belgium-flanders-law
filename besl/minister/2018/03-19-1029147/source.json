@@ -2,16 +2,16 @@
   "codex_id": 1029147,
   "title": "Ministerieel besluit van 2018-03-19 tot wijziging van het ministerieel besluit van 14 december 2017 houdende tijdelijke aanvullende maatregelen voor het jaar 2018 tot het behoud van de visbestanden in zee",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029147/VolledigDocument?datum=2018-03-24",
-  "source_sha256": "6224af76c769448952bf3c6812e8d01c5e2b2e4b8d526eec552fc7eed6bfc9cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029147/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "9c7f2896fe19a9d019a242463807e63042805fa9ac51ed630eb9c99aafa50c85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029147&param=informatie",
-  "as_of": "2018-03-24",
+  "as_of": "2019-01-01",
   "made": "2018-03-19",
   "gazette": "2018-03-22",
   "numac": 2018011361,
   "document_start": "2018-03-24",
   "document_end": "2018-12-31",
-  "in_force": "2018-03-24",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
