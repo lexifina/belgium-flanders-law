@@ -44,10 +44,10 @@ In dit decreet wordt verstaan onder :<br>
 16° halftijds studietraject : een studietraject in het hoger onderwijs met een studieprogramma van dertig studiepunten;<br>
 16°/1 hoger onderwijs : een van volgende opleidingen :<br>
 a) een bacheloropleiding en een masteropleiding, als vermeld in artikel II.58 van de Codex Hoger Onderwijs;<br>
-b) een specifieke lerarenopleiding;<br>
+b) ...;<br>
 c) een voorbereidingsprogramma dat al dan niet gevolgd wordt in voorbereiding op het volgen van een voortgezette opleiding;<br>
 d) een schakelprogramma;<br>
-e) het hoger beroepsonderwijs, met uitzondering van de opleiding vermeld in artikel 4, § 3, derde lid, van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs;<br>
+e) het hoger beroepsonderwijs;<br>
 17° hoofdverblijfplaats : begrip zoals, bedoeld in artikel 3, eerste lid, 5°, van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
 18° kadastraal inkomen : het kadastraal inkomen overeenkomstig titel IX van het Wetboek van de Inkomstenbelastingen;<br>
 19° kadastraal inkomen vreemd gebruik : kadastraal inkomen van de onroerende goederen die noch als eigen hoofdverblijfplaats, noch voor eigen beroepsdoeleinden worden gebruikt;<br>
@@ -67,7 +67,7 @@ e) het hoger beroepsonderwijs, met uitzondering van de opleiding vermeld in arti
 32° schooldag : een kalenderdag waarop de leerling dient deel te nemen aan onderwijsactiviteiten, die zowel uit lessen als uit werkplekleren kunnen bestaan;<br>
 33° schooljaar : de periode die begint op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;<br>
 34° schooltoelage : financiële middelen, toegekend door de Vlaamse Gemeenschap, aan minvermogende leerlingen in het kleuteronderwijs en het leerplichtonderwijs;<br>
-35° specifieke lerarenopleiding : opleiding als vermeld in artikel 55octies van het structuurdecreet;<br>
+35° ...;<br>
 36° student : de persoon, ingeschreven in een onderwijsinstelling voor hoger onderwijs;<br>
 37° ...<br>
 38° studietoelage : financiële middelen, toegekend door de Vlaamse Gemeenschap, aan minvermogende studenten in het hoger onderwijs van de Vlaamse Gemeenschap;<br>
@@ -184,7 +184,17 @@ Voor het onderzoek of er een equivalente opleiding bestaat als vermeld in   arti
 
 ### ART. 20.
 
-§ 1. Om in aanmerking te komen voor een studietoelage, moet de student een   diplomacontract hebben gesloten met betrekking tot het volgen van een opleiding   die geaccrediteerd is, erkend is als nieuwe opleiding, of tijdelijk erkend is,   en die georganiseerd wordt door een ambtshalve geregistreerde   instelling.<BR><BR>De volgende opleidingen worden eveneens beschouwd als   opleidingen die vallen onder het toepassingsgebied van het eerste lid :<BR>1°   opleidingen die vallen onder het toepassingsgebied van artikel II.133, § 2, van   de Codex Hoger Onderwijs, voor de student binnen de normale opleidingsduur de   opleiding heeft voltooid;<BR>2° opleidingen die geaccrediteerd zijn, erkend zijn   als nieuwe opleiding, of die tijdelijk erkend zijn, en die vallen onder het   toepassingsgebied van artikel II.171 of II.172 van de Codex Hoger   Onderwijs.<BR><BR>§ 2. In afwijking van § 1, eerste lid, kan voor de volgende   opleidingen tevens een studietoelage verkregen worden :<BR>1° een   voorbereidingsprogramma;<BR>2° een schakelprogramma;<BR>3° een specifieke   lerarenopleiding.<BR><BR>
+§ 1. Om in aanmerking te komen voor een studietoelage, moet de student een diplomacontract hebben gesloten met betrekking tot het volgen van een opleiding die geaccrediteerd is, erkend is als nieuwe opleiding, of tijdelijk erkend is, en die georganiseerd wordt door een ambtshalve geregistreerde instelling.<br>
+<br>
+De volgende opleidingen worden eveneens beschouwd als opleidingen die vallen onder het toepassingsgebied van het eerste lid :<br>
+1° opleidingen die vallen onder het toepassingsgebied van artikel II.133, § 2, van de Codex Hoger Onderwijs, voor de student binnen de normale opleidingsduur de opleiding heeft voltooid;<br>
+2° opleidingen die geaccrediteerd zijn, erkend zijn als nieuwe opleiding, of die tijdelijk erkend zijn, en die vallen onder het toepassingsgebied van artikel II.171 of II.172 van de Codex Hoger Onderwijs.<br>
+<br>
+§ 2. In afwijking van § 1, eerste lid, kan voor de volgende opleidingen tevens een studietoelage verkregen worden :<br>
+1° een voorbereidingsprogramma;<br>
+2° een schakelprogramma;<br>
+3° ....<br>
+&nbsp;
 
 ### ART. 21.
 
