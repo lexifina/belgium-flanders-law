@@ -2,16 +2,16 @@
   "codex_id": 1016544,
   "title": "Besluit van de Vlaamse Regering van 2008-01-18 betreffende de aantekeningen in het register voor de bekendmaking van de reglementen en verordeningen van de gemeenteoverheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016544/VolledigDocument?datum=2008-02-08",
-  "source_sha256": "9218ecbf80a2260cea5bd25df0c75086b5ad063a3f83b6856686fc1c7ec89f42",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016544/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "f2932fdff78161ace517c5a3a0658586d0035480ad86bc2a1d027a6573d4413f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016544&param=informatie",
-  "as_of": "2008-02-08",
+  "as_of": "2019-01-01",
   "made": "2008-01-18",
   "gazette": "2008-01-29",
   "numac": 200835134,
   "document_start": "2008-02-08",
   "document_end": "2018-12-31",
-  "in_force": "2008-02-08",
+  "in_force": "2019-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2008-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
