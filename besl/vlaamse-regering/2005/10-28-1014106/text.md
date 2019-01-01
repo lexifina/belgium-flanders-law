@@ -18,7 +18,7 @@ De Vlaamse administratie die tot het beleidsdomein Omgeving behoort, zorgt ervoo
 
 ### ART. 3.
 
-De Vlaamse administratie maakt op elektronische wijze bekend waar overeenkomstig het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur de informatie betreffende de vergunningen die belangrijke gevolgen hebben voor het milieu, de milieubeleidsovereenkomsten, de milieueffectrapportages, de veiligheidsrapportages en andere risico-beoordelingen kan worden opgevraagd of gevonden.
+De Vlaamse administratie maakt op elektronische wijze bekend waar overeenkomstig titel II, hoofdstuk 3, van het bestuursdecreet van 7 december 2018 de informatie betreffende de vergunningen die belangrijke gevolgen hebben voor het milieu, de milieubeleidsovereenkomsten, de milieueffectrapportages, de veiligheidsrapportages en andere risico-beoordelingen kan worden opgevraagd of gevonden.
 
 ### ART. 4.
 
@@ -38,7 +38,7 @@ Bij een onmiddellijke bedreiging van de gezondheid van de mens of het milieu, di
 
 ### ART. 8.
 
-De Vlaamse administratie, behorend tot het beleidsdomein Omgeving, stelt jaarlijks een verslag op over de wijze waarop dit besluit is toegepast, met inbegrip van de beschikbaarheid van milieu-informatie op elektronische wijze en via elektronische gegevensbanken. Dat verslag vormt een geïntegreerd deel van het verslag, vermeld in artikel 33, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.
+...
 
 ### ART. 9.
 
