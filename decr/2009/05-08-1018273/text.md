@@ -534,7 +534,7 @@ De beroepsprocedure in geval van een advies conform artikel 39, § 5, 2°, b), v
 
 ### ART. 44.
 
-De doorlichtingsverslagen en de adviezen met betrekking tot de erkenning van de instelling zijn bestuursdocumenten die vallen onder de toepassing van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, met uitzondering van vrijwillig door de instelling ter beschikking gestelde documenten in het kader van :<br>
+De doorlichtingsverslagen en de adviezen met betrekking tot de erkenning van de instelling zijn bestuursdocumenten die vallen onder de toepassing van titel II, hoofdstuk 3, van het Bestuursdecreet van 7 december 2018, met uitzondering van vrijwillig door de instelling ter beschikking gestelde documenten in het kader van :<br>
 1° de resultaten van wetenschappelijke onderzoeken waaraan de instelling vrijwillig heeft deelgenomen;<br>
 2° de interne kwaliteitszorg;<br>
 3° de resultaten van voorbereidende en periodieke onderzoeken waaraan een instelling deelneemt met het oog op de interne of externe kwaliteitscontrole.
