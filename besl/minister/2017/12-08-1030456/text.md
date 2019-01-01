@@ -18,12 +18,12 @@ Besluit :
 
 ### ART 1.
 
-Het Vlaams Agentschap voor Personen met een Handicap neemt de dienstverlening, verstrekt door het centraal tolkenbureau conform de bepalingen van het besluit van de Vlaamse Regering van 15 januari 2016 houdende de vaststelling van overkoepelende regels voor het centraal tolkenbureau, voor de beleidsdomeinen Onderwijs en Welzijn, Volksgezondheid en Gezin ten laste voor maximaal 16.900 uren per jaar.
+...
 
 ### ART 2.
 
-Het ministerieel besluit van 19 januari 2016 betreffende de bepaling van het L-urencontingent voor het beleidsdomein Welzijn, Volksgezondheid en Gezin wordt opgeheven.
+...
 
 ### ART 3.
 
-Dit besluit heeft uitwerking met ingang op 1 december 2017.
+...
