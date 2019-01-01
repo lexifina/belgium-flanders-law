@@ -10,7 +10,8 @@ Artikel 50 van dit decreet regelt een gemeenschaps- en gewestaangelegenheid. Voo
 
 ### ART. 2.
 
-De Vlaamse Regering wordt gemachtigd tot het oprichten van een technische commissie voor de brandveiligheid in de voorzieningen die werkzaam zijn in het kader van de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover die aangelegenheden vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin, vastgesteld krachtens artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br /><br />
+De Vlaamse Regering wordt gemachtigd tot het oprichten van een technische commissie voor de brandveiligheid in de voorzieningen die werkzaam zijn in het kader van de persoonsgebonden aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, voor zover die aangelegenheden vallen onder het beleidsdomein Welzijn, Volksgezondheid en Gezin, vastgesteld krachtens artikel III.1 van het Bestuursdecreet van 7 december 2018.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -120,7 +121,16 @@ In artikel 1 van de wet van 10 juni 1952 betreffende de gezondheid en de veiligh
 
 ### ART. 27.
 
-Voor de toepassing van dit hoofdstuk wordt verstaan onder :<BR>1°   verzorgingsvoorziening : ziekenhuis, rust- en verzorgingstehuis, psychiatrisch   verzorgingstehuis, initiatief beschut wonen, samenwerkingsverband van   psychiatrische instellingen en diensten of een onderdeel van die   verzorgingsvoorzieningen;<BR>2° erkenningsnormen : erkenningsnormen en   erkenningsvereisten, ongeacht door welke bevoegde overheid ze zijn bepaald,   inclusief de regels die zijn vastgesteld bij of krachtens het decreet van 17   oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen;<BR>3° ziekenhuis : een ziekenhuis als vermeld in artikel   2 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987;<BR>4° rust-   en verzorgingstehuis : een rust- en verzorgingstehuis als vermeld in de   regelgeving ter uitvoering van artikel 5 van de wet van 27 juni 1978 tot   wijziging van de wetgeving op de ziekenhuizen en betreffende andere vormen van   verzorging;<BR>5° psychiatrisch verzorgingstehuis : een psychiatrisch   verzorgingstehuis als vermeld in de regelgeving ter uitvoering van artikel 5 van   de wet van 27 juni 1978 tot wijziging van de wetgeving op de ziekenhuizen en   betreffende andere vormen van verzorging;<BR>6° initiatief beschut wonen : een   initiatief beschut wonen als vermeld in de regelgeving ter uitvoering van   artikel 6 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987;<BR>7°   samenwerkingsverband van psychiatrische instellingen en diensten : een   samenwerkingsverband van psychiatrische instellingen en diensten als vermeld in   de regelgeving ter uitvoering van artikel 10 van de wet betreffende de   ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli   2008.<BR><BR>
+Voor de toepassing van dit hoofdstuk wordt verstaan onder :<br>
+1° verzorgingsvoorziening : ziekenhuis, revalidatieziekenhuis, woonzorgcentrum, psychiatrisch verzorgingstehuis, initiatief beschut wonen, samenwerkingsverband van psychiatrische instellingen en diensten of een onderdeel van die verzorgingsvoorzieningen;<br>
+2° erkenningsnormen : erkenningsnormen en erkenningsvereisten, ongeacht door welke bevoegde overheid ze zijn bepaald, inclusief de regels die zijn vastgesteld bij of krachtens het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen;<br>
+3° ziekenhuis : een ziekenhuis als vermeld in artikel 2 van de wet op de ziekenhuizen, gecoördineerd op 7 augustus 1987;<br>
+4° woonzorgcentrum met een bijkomende erkenning: een woonzorgcentrum met een bijkomende erkenning als vermeld in artikel 52/1 van het Woonzorgdecreet van 13 maart 2009;<br>
+5° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+6° initiatief beschut wonen : een initiatief beschut wonen als vermeld het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging;<br>
+7° samenwerkingsverband van psychiatrische instellingen en diensten : een samenwerkingsverband van psychiatrische instellingen en diensten als vermeld in de regelgeving ter uitvoering van artikel 10 van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<br>
+8° revalidatieziekenhuis: een zorgvoorziening voor gezondheidszorg als vermeld in artikel 5, § 1, I, eerste lid, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarin passende zorg wordt aangeboden aan patiënten van wie de gezondheidstoestand de opname of het verblijf vereisen, met als doel de gezondheidstoestand te herstellen of te verbeteren door de ziekte te bestrijden of de patiënt te revalideren.<br>
+&nbsp;
 
 ## Afdeling II Aanvullende programmatienormen en erkenningsnormen
 
@@ -130,13 +140,31 @@ Voor de aangelegenheden, vermeld in artikel 5, § 1, I, 1°, van de bijzondere w
 
 ### ART. 29.
 
-Voor de aangelegenheden, vermeld in artikel 5, § 1, I, 1°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, kan de Vlaamse Regering erkenningsnormen vaststellen, op voorwaarde dat ze rekening houdt met de aan de federale overheid voorbehouden bevoegdheid om erkenningsnormen vast te stellen als vermeld in artikel 5, § 1, I, 1°, f), van die bijzondere wet.<br /><br />
+Voor de aangelegenheden, vermeld in artikel 5, § 1, I, eerste lid, 1°, 3° en 4°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, kan de Vlaamse Regering erkenningsnormen vaststellen, op voorwaarde dat ze rekening houdt met de aan de federale overheid voorbehouden bevoegdheid om erkenningsnormen vast te stellen.<br>
+&nbsp;
 
 ## Afdeling III Procedures
 
 ### ART. 30.
 
-§ 1. De Vlaamse Regering bepaalt de procedure voor het verlenen, verlengen   en ontnemen van machtigingen en toelatingen, zoals een planningsvergunning, een   exploitatievergunning of een voorafgaande toelating, aan   verzorgingsvoorzieningen.<BR><BR>Ze bepaalt de duur van de machtigingen en   toelatingen en regelt het toezicht.<BR><BR>§ 2. De Vlaamse Regering bepaalt de   procedure voor de erkenning, de schorsing van de erkenning, de intrekking van de   erkenning en de sluiting van de verzorgingsvoorzieningen.<BR><BR>De Vlaamse   Regering bepaalt de duur van de erkenning.<BR><BR>De Vlaamse Regering regelt het   toezicht op de naleving van de erkenningsnormen door de   verzorgingsvoorzieningen.<BR><BR>§ 3. Met behoud van de toepassing van afdeling   IV, kan als een verzorgingsvoorziening niet meer voldoet aan de   erkenningsnormen, de erkenning worden ingetrokken of geschorst conform de   voorwaarden en de procedure, bepaald door de Vlaamse Regering. De Vlaamse   Regering bepaalt de duur van de schorsing en regelt de gevolgen van de schorsing   en de intrekking van de erkenning.<BR><BR>De intrekking van erkenning en de   weigering van erkenning hebben de sluiting van een verzorgingsvoorziening tot   gevolg. De Vlaamse Regering bepaalt de gevolgen van de sluiting.<BR><BR>Met   behoud van de toepassing van afdeling IV, kan de Vlaamse Regering de   onmiddellijke sluiting van een verzorgingsvoorziening bevelen, als er dringende   redenen zijn ter bescherming van de volksgezondheid. De Vlaamse Regering bepaalt   de procedure.<BR><BR>§ 4. De Vlaamse Regering bepaalt de procedure voor de   erkenning en de intrekking van de erkenning van centra voor dagverzorging als   vermeld in de regelgeving ter uitvoering van artikel 170 van de wet betreffende   de ziekenhuizen en andere verzorgingsinrichtingen, gecoordineerd op 10 juli   2008. Ze bepaalt de duur van de erkenning en regelt het   toezicht.<BR><BR>
+§ 1. De Vlaamse Regering bepaalt de procedure voor het verlenen, verlengen en ontnemen van machtigingen en toelatingen, zoals een planningsvergunning, een exploitatievergunning of een voorafgaande toelating, aan verzorgingsvoorzieningen.<br>
+<br>
+Ze bepaalt de duur van de machtigingen en toelatingen en regelt het toezicht.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de procedure voor de erkenning, de schorsing van de erkenning, de intrekking van de erkenning en de sluiting van de verzorgingsvoorzieningen.<br>
+<br>
+De Vlaamse Regering bepaalt de duur van de erkenning.<br>
+<br>
+De Vlaamse Regering regelt het toezicht op de naleving van de erkenningsnormen door de verzorgingsvoorzieningen.<br>
+<br>
+§ 3. Met behoud van de toepassing van afdeling IV, kan als een verzorgingsvoorziening niet meer voldoet aan de erkenningsnormen, de erkenning worden ingetrokken of geschorst conform de voorwaarden en de procedure, bepaald door de Vlaamse Regering. De Vlaamse Regering bepaalt de duur van de schorsing en regelt de gevolgen van de schorsing en de intrekking van de erkenning.<br>
+<br>
+De intrekking van erkenning en de weigering van erkenning hebben de sluiting van een verzorgingsvoorziening tot gevolg. De Vlaamse Regering bepaalt de gevolgen van de sluiting.<br>
+<br>
+Met behoud van de toepassing van afdeling IV, kan de Vlaamse Regering de onmiddellijke sluiting van een verzorgingsvoorziening bevelen, als er dringende redenen zijn ter bescherming van de volksgezondheid. De Vlaamse Regering bepaalt de procedure.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de procedure voor de erkenning en de intrekking van de erkenning van dagverzorgingscentra met een bijkomende erkenning als vermeld in artikel 52/2 van het Woonzorgdecreet van 13 maart 2009. Ze bepaalt de duur van de erkenning en regelt het toezicht.<br>
+&nbsp;
 
 ## Afdeling IV Maatregelen bij niet-naleving van erkenningsnormen
 
@@ -146,11 +174,14 @@ Zolang door de verzorgingsvoorziening niet verholpen is aan de vastgestelde inbr
 
 ### ART. 32.
 
-Als in het geval, vermeld in artikel 31, het nemen van maatregelen om redenen van veiligheid of gezondheid van de gebruiker niet uitgesteld kan worden, kan de persoon, belast met het toezicht, aan de verzorgingsvoorziening bepaalde maatregelen opleggen die maximaal zeven dagen gelden. Die maatregelen kunnen door de Vlaamse Regering worden verlengd, conform artikel 31.<br /><br />
+...
 
 ### ART. 33.
 
-De Vlaamse Regering bepaalt na overleg met de sector de voorwaarden en de procedure die gelden bij de toepassing van artikelen 31 en 32.<br /><br />De maatregelen, vermeld in artikelen 31 en 32, kunnen ook inhouden dat geen nieuwe gebruikers mogen worden opgenomen.<br /><br />
+De Vlaamse Regering bepaalt na overleg met de sector de voorwaarden en de procedure die gelden bij de toepassing van artikel 32.<br>
+<br>
+De maatregelen, vermeld in artikel 32, kunnen ook inhouden dat geen nieuwe gebruikers mogen worden opgenomen.<br>
+&nbsp;
 
 ## Afdeling V Maatregelen in geval van illegale exploitatie van een psychiatrisch verzorgingstehuis of een initiatief beschut wonen
 
@@ -233,6 +264,17 @@ Artikel 23 van het decreet van 18 mei 1999 betreffende de geestelijke gezondheid
 In artikel 8, § 1, van het decreet van 17 juli 2000 houdende de oprichting van een Vlaams Instituut voor Wetenschappelijk en Technologisch Aspectenonderzoek worden de woorden « de Vlaamse Gezondheidsraad » vervangen door de woorden « de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid ».<br /><br />
 
 ## HOOFDSTUK X Kind en Gezin
+
+### ART. 51.
+
+Artikel 24 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin wordt vervangen door wat volgt :<br>
+<br>
+« Artikel 24. Opdat een voorziening erkend of gesubsidieerd kan worden, moet het personeel in dienst van de voorziening, dat instaat voor de communicatie met de overheid of voor de dienstverlening, inclusief de contacten met kinderen en gezinnen, een geattesteerde kennis van het Nederlands hebben.<br>
+<br>
+Die kennis blijkt uit het studiebewijs van het genoten onderwijs.<br>
+<br>
+Als de persoon, vermeld in het eerste lid, geen studiebewijs kan voorleggen, zal zijn kennis van het Nederlands worden bewezen op een wijze die door de Vlaamse Regering wordt bepaald. ».<br>
+&nbsp;
 
 ## HOOFDSTUK XI Slotbepalingen
 
