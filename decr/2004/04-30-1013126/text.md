@@ -34,7 +34,7 @@ De Vlaamse regering richt een onafhankelijke commissie op, die belast is met de 
 
 ### ART. 7.
 
-De Vlaamse regering kan interne of externe organen of personen belasten met de controle op de naleving van de bepalingen van artikelen 5 en 6, en van de besluiten die krachtens die bepalingen zijn genomen.<br /><br />Elke dienst stelt aan de bevoegde controleorganen of -personen alle gegevens ter beschikking die voor de controle en het toezicht noodzakelijk zijn, en zij verleent hen toegang tot de dienst en alle gebruikte uitrusting met het oog op het uitvoeren van de controles.
+De Vlaamse regering kan interne of externe organen of personen belasten met de controle op de naleving van de bepalingen van artikelen 5 en 6, en van de besluiten die krachtens die bepalingen zijn genomen.
 
 ## HOOFDSTUK V STRAFBEPALINGEN
 
