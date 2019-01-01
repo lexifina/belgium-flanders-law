@@ -26,7 +26,8 @@ Met behoud van de op de onderscheiden types van rechtspersonen toepasselijke reg
 
 ### ART. 4.
 
-Het toeristisch samenwerkingsverband dient te voldoen aan de verplichting uit artikel 28, § 1, eerste lid, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur. Daartoe organiseert het jaarlijks een publieke zitting waar het evaluatieverslag en het werkprogramma met de begroting van het volgende boekjaar worden voorgesteld. Toerisme Vlaanderen wordt uitgenodigd op die zitting.<br /><br />
+Het toeristisch samenwerkingsverband dient te voldoen aan de verplichting, vermeld in artikel II.2 van het bestuursdecreet van 7 december 2018. Daartoe organiseert het jaarlijks een publieke zitting waar het evaluatieverslag en het werkprogramma met de begroting van het volgende boekjaar worden voorgesteld. Toerisme Vlaanderen wordt uitgenodigd op die zitting.<br>
+&nbsp;
 
 ## HOOFDSTUK V Toezicht en intrekking van de erkenning
 
