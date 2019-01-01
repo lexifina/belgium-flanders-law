@@ -46,9 +46,9 @@ In het beheersreglement zal ook worden bepaald op welke wijze en met behulp van 
 <br>
 § 2. ...<br>
 <br>
-§ 3. Audit Vlaanderen, vermeld in artikel 34 van het kaderdecreet van 18 juli 2003, evalueert de interne controlesystemen van Jobpunt Vlaanderen, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
+§ 3. Audit Vlaanderen, vermeld in artikel III.115 van het Bestuursdecreet van 7 december 2018, evalueert de organisatiebeheersing van Jobpunt Vlaanderen, gaat na of ze adequaat is en formuleert aanbevelingen om ze te verbeteren. Audit Vlaanderen voert daartoe organisatie- en procesaudits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
 <br>
-Audit Vlaanderen is ook bevoegd voor de uitvoering van forensische audits bij Jobpunt Vlaanderen. De vertrouwelijkheid van commerciële en industriële informatie, gewaarborgd volgens artikel 14, 3°, van het decreet van 26 maart 2004 inzake openbaarheid van bestuur, geldt onverkort.<br>
+Audit Vlaanderen is ook bevoegd voor de uitvoering van forensische audits bij Jobpunt Vlaanderen. De vertrouwelijkheid van commerciële en industriële informatie, gewaarborgd volgens artikel II.35, 3°, van het Bestuursdecreet van 7 december 2018, geldt onverkort.<br>
 <br>
 Om zijn bevoegdheid te kunnen uitoefenen, heeft Audit Vlaanderen toegang tot alle informatie en documenten van Jobpunt Vlaanderen, ongeacht de drager ervan, en tot alle gebouwen, ruimtes en installaties waar taken van Jobpunt Vlaanderen worden uitgevoerd. Audit Vlaanderen kan aan ieder personeelslid van Jobpunt Vlaanderen de inlichtingen vragen die voor de uitvoering van zijn opdrachten nodig worden geacht. Ieder personeelslid van Jobpunt Vlaanderen is ertoe gehouden zo snel mogelijk en zonder voorafgaande machtiging op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br>
 <br>
