@@ -2,16 +2,16 @@
   "codex_id": 1016011,
   "title": "Ministerieel besluit van 2007-07-03 tot bepaling van de standaard voor de titel van productieoperator voeding",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016011/VolledigDocument?datum=2007-07-31",
-  "source_sha256": "4b52a527fa26497229bd010a50ec54c989e7ab681419102d0911b90e2fc3b017",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016011/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "6cad418b66748a6baae0bb3d066ea20b2880b89f40ce8346b48b2d536890c7d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016011&param=informatie",
-  "as_of": "2007-07-31",
+  "as_of": "2019-01-01",
   "made": "2007-07-03",
   "gazette": "2007-07-31",
   "numac": 2007036174,
   "document_start": "2007-07-31",
   "document_end": "2018-12-31",
-  "in_force": "2007-07-31",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-07-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
