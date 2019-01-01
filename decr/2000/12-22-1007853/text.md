@@ -8,7 +8,25 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<BR>1° amateurkunsten: elke kunstvorm   die in het kader van het sociaal-culturele gebeuren aan iedere burger de kans   biedt om zich via kunstbeoefening en -beleving te ontplooien en zijn potentiële   creatieve vermogens te ontwikkelen op vrijwillige basis en zonder beroepsmatige   doeleinden;<BR>2° kunstdiscipline: een tak van de kunsten of een organisatorisch   samenhangend geheel van verwante kunsttakken, waarvan het hoofdbestanddeel   betrekking heeft op één van de volgende uitdrukkingsvormen:<BR>a) theater: alle   activiteiten op het vlak van de dramatische kunst;<BR>b) dans: alle activiteiten   op het vlak van de kunstvorm waarbij het bewegen van het menselijk lichaam de   belangrijkste uiting is;<BR>c) beeld en beeldende kunst: alle activiteiten op   het vlak van de kunsten waarbij het creëren van beelden of vormen de   belangrijkste uiting is, met als deeldisciplines:<BR>- beeld: alle activiteiten   op het vlak van film, fotografie, video en andere media;<BR>- beeldende kunst:   alle activiteiten op het vlak van schilderkunst, beeldhouwkunst en aanverwante   creatieve activiteiten;<BR>d) muziek: alle activiteiten op het vlak van de   muzikale kunsten met als deeldisciplines:<BR>- instrumentale muziek : alle   activiteiten op het vlak van de muzikale kunsten waarbij hoofdzakelijk gebruik   gemaakt wordt van instrumenten;<BR>- vocale muziek: alle activiteiten op het   vlak van de muzikale kunsten, hoofdzakelijk de menselijke stem;<BR>- lichte   muziek: alle activiteiten op het vlak van de muzikale kunsten, met betrekking   tot rock, pop, elektronische muziek, en aanverwante genres;<BR>- volksmuziek en   jazz: alle activiteiten op het vlak van de muzikale kunsten, gebaseerd op   traditionele muziek die kenmerkend is voor een bepaald volk, een bepaald   volksdeel of een bepaalde streek;<BR>e) letteren: alle activiteiten op het vlak   van de literaire kunsten;<BR>3° ...<BR>4° project: een activiteit op het vlak   van de amateurkunsten, die zowel in opzet of doelstelling als in tijd kan worden   afgebakend;<BR>5° landelijk karakter: ofwel activiteiten ontplooien in minstens   vier Vlaamse provincies ofwel een publieksbereik aantonen in minstens vier   Vlaamse provincies. Voor de toepassing van dit decreet wordt het tweetalige   gebied Brussel-Hoofdstad beschouwd als een Vlaamse provincie;<BR>6° forum : een   forum voor amateurkunsten;<BR>7° administratie: de afdeling in het ministerie   van de Vlaamse Gemeenschap die bevoegd is voor de amateurkunsten.
+In dit decreet wordt verstaan onder:<br>
+1° amateurkunsten: elke kunstvorm die in het kader van het sociaal-culturele gebeuren aan iedere burger de kans biedt om zich via kunstbeoefening en -beleving te ontplooien en zijn potentiële creatieve vermogens te ontwikkelen op vrijwillige basis en zonder beroepsmatige doeleinden;<br>
+2° kunstdiscipline: een tak van de kunsten of een organisatorisch samenhangend geheel van verwante kunsttakken, waarvan het hoofdbestanddeel betrekking heeft op één van de volgende uitdrukkingsvormen:<br>
+a) theater: alle activiteiten op het vlak van de dramatische kunst;<br>
+b) dans: alle activiteiten op het vlak van de kunstvorm waarbij het bewegen van het menselijk lichaam de belangrijkste uiting is;<br>
+c) beeld en beeldende kunst: alle activiteiten op het vlak van de kunsten waarbij het creëren van beelden of vormen de belangrijkste uiting is, met als deeldisciplines:<br>
+- beeld: alle activiteiten op het vlak van film, fotografie, video en andere media;<br>
+- beeldende kunst: alle activiteiten op het vlak van schilderkunst, beeldhouwkunst en aanverwante creatieve activiteiten;<br>
+d) muziek: alle activiteiten op het vlak van de muzikale kunsten met als deeldisciplines:<br>
+- instrumentale muziek : alle activiteiten op het vlak van de muzikale kunsten waarbij hoofdzakelijk gebruik gemaakt wordt van instrumenten;<br>
+- vocale muziek: alle activiteiten op het vlak van de muzikale kunsten, hoofdzakelijk de menselijke stem;<br>
+- lichte muziek: alle activiteiten op het vlak van de muzikale kunsten, met betrekking tot rock, pop, elektronische muziek, en aanverwante genres;<br>
+- volksmuziek en jazz: alle activiteiten op het vlak van de muzikale kunsten, gebaseerd op traditionele muziek die kenmerkend is voor een bepaald volk, een bepaald volksdeel of een bepaalde streek;<br>
+e) letteren: alle activiteiten op het vlak van de literaire kunsten;<br>
+3° ...<br>
+4° project: een activiteit op het vlak van de amateurkunsten, die zowel in opzet of doelstelling als in tijd kan worden afgebakend;<br>
+5° landelijk karakter: ofwel activiteiten ontplooien in minstens vier Vlaamse provincies ofwel een publieksbereik aantonen in minstens vier Vlaamse provincies. Voor de toepassing van dit decreet wordt het tweetalige gebied Brussel-Hoofdstad beschouwd als een Vlaamse provincie;<br>
+6°...;<br>
+7° administratie: de afdeling in het ministerie van de Vlaamse Gemeenschap die bevoegd is voor de amateurkunsten.
 
 ### ART. 3.
 
@@ -78,23 +96,11 @@ Gedurende de looptijd van elke beleidsperiode zal de administratie samen   met e
 
 ### ART. 13.
 
-De Vlaamse Regering subsidieert een forum voor amateurkunsten in de vorm   van een vereniging zonder winstoogmerk, die is opgericht door de erkende   organisaties voor amateurkunsten. Die organisatie heeft tot doel voor het   werkveld van de amateurkunsten de opdrachten van coördinatie, overleg en   samenwerking te vervullen door : <BR>1° het verzamelen en ontsluiten van kennis   over amateurkunsten;<BR>2° het stimuleren van vormen van coördinatie, overleg en   samenwerking tussen de door de Vlaamse overheid erkende organisaties uit de   sector van de amateurkunsten;<BR>3° het uitbouwen van een kwalitatieve   dienstverlening ten behoeve van de sector amateurkunsten;<BR>4° het ondersteunen   en begeleiden van samenwerkingsprojecten binnen de sector amateurkunsten en   aanverwante sectoren;<BR>5° de vertegenwoordiging van de sector amateurkunsten   en de behartiging van zijn belangen bij de bevoegde overheden, steunpunten en   beleidsinstanties;<BR>6° het bevorderen van de uitstraling van de sector;<BR>7°   het ontwikkelen van een diversiteitsbeleid binnen de sector.<BR><BR>Het forum   ondersteunt zowel de gesubsidieerde amateurkunstensector als de actieve   kunstbeoefenaars. <BR>
+...
 
 ### ART. 14.
 
-<p>§ 1. In de bestuursorganen van het forum zetelen afgevaardigden van de erkende disciplinaire amateurkunstenorganisaties. Minstens een derde van de leden van de bestuursorganen zijn onafhankelijke deskundigen.<br>
-<br>
-§ 2. Het forum ontvangt een jaarlijkse subsidie-enveloppe. De Vlaamse Regering stelt die enveloppe per beleidsperiode vast. De subsidie-enveloppe bevat de nodige middelen voor de ondersteuning van de jaarlijkse personeels- en werkingskosten van de organisatie.<br>
-<br>
-§ 3. Het forum legt per beleidsperiode een beleidsplan voor aan de Vlaamse Regering waarin de opdrachten, vermeld in artikel 13, worden geconcretiseerd. Dat beleidsplan bevat een financieel plan en een personeelsplan. De bepalingen van artikel 12, § 3 en § 4, zijn ook van toepassing op het forum.<br>
-<br>
-Het beleidsplan wordt vóór 31 januari van het eerste jaar van de beleidsperiode voorgelegd aan de administratie. De administratie keurt het beleidsplan goed voor 30 april van hetzelfde jaar.<br>
-<br>
-Het beleidsplan wordt jaarlijks geconcretiseerd in een voortgangsrapport. Dat voortgangsrapport wordt samen met het financieel verslag ingediend voor 15 maart van het jaar dat volgt op het werkingsjaar waarop het voortgangsrapport betrekking heeft.<br>
-<br>
-§ 4. Het forum houdt in zijn werking rekening met de principes van de integrale kwaliteitszorg. Jaarlijks vindt minstens één keer overleg plaats tussen het forum en de administratie.<br>
-<br>
-§ 5. De subsidie-enveloppe, vermeld in paragraaf 2, wordt gekoppeld aan het prijsindexcijfer zoals bepaald in artikel 12, § 2. De voorschottenregeling, vermeld in artikel 12, § 1, is eveneens van toepassing.</p>
+...
 
 ## HOOFDSTUK IV PROJECTSUBSIDIËRING
 
