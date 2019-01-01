@@ -8,13 +8,22 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<BR>1°   Kaderdecreet: het Kaderdecreet bestuurlijk beleid van 18 juli 2003;<BR>2°   Agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigde Agentschap   Plantentuin Meise;<BR>3° Samenwerkingsakkoord: het samenwerkingsakkoord van 17   mei 2013 tussen de Vlaamse en de Franse Gemeenschap betreffende het beheer en de   werking van de Nationale Plantentuin van België;<BR>4° wetenschappelijk   onderzoeker: de personeelsleden bedoeld in artikel 8, tweede lid, van het   Samenwerkingsakkoord; <BR>5° rechtspersoonlijkheid: het, in het koninklijk   besluit van 12 november 1997 waarbij de voorwaarden worden bepaald waaronder de   Nationale Plantentuin van België rechtspersoonlijkheid verkrijgt en tot   vastlegging van de financieringsvoorwaarden ervan, bedoeld vermogen verbonden   aan de Nationale Plantentuin van België, dat rechtspersoonlijkheid   bezit.<BR>
+Voor de toepassing van dit decreet wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuurdecreet van 7 december 2018;<br>
+2° Agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigde Agentschap Plantentuin Meise;<br>
+3° Samenwerkingsakkoord: het samenwerkingsakkoord van 17 mei 2013 tussen de Vlaamse en de Franse Gemeenschap betreffende het beheer en de werking van de Nationale Plantentuin van België;<br>
+4° wetenschappelijk onderzoeker: de personeelsleden bedoeld in artikel 8, tweede lid, van het Samenwerkingsakkoord;<br>
+5° rechtspersoonlijkheid: het, in het koninklijk besluit van 12 november 1997 waarbij de voorwaarden worden bepaald waaronder de Nationale Plantentuin van België rechtspersoonlijkheid verkrijgt en tot vastlegging van de financieringsvoorwaarden ervan, bedoeld vermogen verbonden aan de Nationale Plantentuin van België, dat rechtspersoonlijkheid bezit.
 
 ## HOOFDSTUK II Oprichting
 
 ### ART. 3.
 
-<P>Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap   met rechtspersoonlijkheid opgericht, zoals bedoeld in artikel 13 van het   Kaderdecreet. Dat agentschap draagt als naam Agentschap Plantentuin   Meise.<BR></P>  <P>De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Agentschap   behoort.<BR></P>  <P>Behoudens afwijkingen in dit decreet, zijn de bepalingen van het Kaderdecreet   op het Agentschap Plantentuin Meise van toepassing.<BR></P>
+<p>Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht, zoals bedoeld in artikel III.7 van het Bestuursdecreet. Dat agentschap draagt als naam Agentschap Plantentuin Meise.</p>
+
+<p>De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Agentschap behoort.</p>
+
+<p>Behoudens afwijkingen in dit decreet, zijn de bepalingen van het Bestuursdecreet op het Agentschap Plantentuin Meise van toepassing.</p>
 
 ## HOOFDSTUK III Missie, opdrachten en taken
 
@@ -40,15 +49,46 @@ De Vlaamse Regering wordt gemachtigd, in het raam van de missie,   opdrachten en
 
 ### ART. 8.
 
-<P>§ 1. Het Agentschap wordt bestuurd door een raad van bestuur die bestaat uit   negen leden.<BR></P>  <P>In afwijking van artikel 18, § 1, wat de aanduidingsbevoegdheid betreft, van   artikel 18, § 2, en, ten slotte, van artikel 18, § 3, tweede lid, van het   Kaderdecreet wordt de raad van bestuur als volgt samengesteld:<BR>1° vijf leden   worden aangeduid door de Vlaamse Regering;<BR>2° twee leden worden aangeduid   door de Franse Gemeenschapsregering;<BR>3° twee leden worden aangeduid door de   wetenschappelijke raad bedoeld in artikel 13.<BR></P>  <P>De voorzitter wordt verkozen door en onder de leden van de raad van   bestuur.<BR></P>  <P>§ 2. De leden van de raad van bestuur worden aangesteld voor een hernieuwbare   termijn van vijf jaar.<BR></P>  <P>Wanneer in de loop van de in het eerste lid bepaalde termijn een mandaat van   een lid van de raad van bestuur vrijkomt, stelt de in paragraaf 1 bedoelde   regering of de wetenschappelijke raad, al naargelang van het geval, een nieuwe   mandataris aan die het mandaat overneemt voor de nog resterende duur   ervan.<BR></P>  <P>In voorkomend geval wordt het mandaat van de zittende bestuurders ambtshalve   verlengd tot wanneer, al naargelang van het geval, de betrokken regering of de   wetenschappelijke raad bij het verstrijken van de overeenkomstig het eerste lid   bepaalde termijn, de betrokken leden van de raad van bestuur heeft   aangesteld.<BR></P>  <P>§ 3. Het hoofd van het Agentschap neemt deel aan de vergaderingen van de raad   van bestuur met raadgevende stem. Hij neemt het secretariaat van de raad van   bestuur waar.<BR></P>
+<p>§ 1. Het Agentschap wordt bestuurd door een raad van bestuur die bestaat uit negen leden.</p>
+
+<p>In afwijking van&nbsp;artikel III.10 van het Bestuursdecreet wordt de raad van bestuur als volgt samengesteld:<br>
+1° vijf leden worden aangeduid door de Vlaamse Regering;<br>
+2° twee leden worden aangeduid door de Franse Gemeenschapsregering;<br>
+3° twee leden worden aangeduid door de wetenschappelijke raad bedoeld in artikel 13.</p>
+
+<p>De voorzitter wordt verkozen door en onder de leden van de raad van bestuur.</p>
+
+<p>§ 2. De leden van de raad van bestuur worden aangesteld voor een hernieuwbare termijn van vijf jaar.</p>
+
+<p>Wanneer in de loop van de in het eerste lid bepaalde termijn een mandaat van een lid van de raad van bestuur vrijkomt, stelt de in paragraaf 1 bedoelde regering of de wetenschappelijke raad, al naargelang van het geval, een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende duur ervan.</p>
+
+<p>In voorkomend geval wordt het mandaat van de zittende bestuurders ambtshalve verlengd tot wanneer, al naargelang van het geval, de betrokken regering of de wetenschappelijke raad bij het verstrijken van de overeenkomstig het eerste lid bepaalde termijn, de betrokken leden van de raad van bestuur heeft aangesteld.</p>
+
+<p>§ 3. Het hoofd van het Agentschap neemt deel aan de vergaderingen van de raad van bestuur met raadgevende stem. Hij neemt het secretariaat van de raad van bestuur waar.</p>
 
 ### ART. 9.
 
-Zonder afbreuk te doen aan hetgeen is bepaald in artikel 21 van het   Kaderdecreet, is het mandaat van bestuurder van het Agentschap bovendien   onverenigbaar met het ambt van personeelslid van de Franse Gemeenschap dat   tewerkgesteld wordt op de site van het Agentschap.<BR>
+Zonder afbreuk te doen aan hetgeen is bepaald in artikel III.12 van het Bestuursdecreet, is het mandaat van bestuurder van het Agentschap bovendien onverenigbaar met het ambt van personeelslid van de Franse Gemeenschap dat tewerkgesteld wordt op de site van het Agentschap.
 
 ### ART. 10.
 
-<P>§ 1. De raad van bestuur geniet de volheid van bestuursbevoegdheid, met   uitzondering van de bevoegdheden die uitdrukkelijk bij dit decreet worden   toegewezen aan het hoofd van het Agentschap.<BR></P>  <P>De raad van bestuur is dan ook bevoegd om alle handelingen te verrichten die   nodig of dienstig zijn voor de verwezenlijking van de missie, opdrachten en   taken van het Agentschap.<BR></P>  <P>§ 2. Overeenkomstig artikel 5, § 3, van het Samenwerkingsakkoord worden   beslissingen met betrekking tot de administratieve en technische omkadering van   de wetenschappelijke onderzoekers bij bijzondere meerderheid van minstens zeven   stemmen op negen genomen.<BR></P>  <P>§ 3. Onverminderd de mogelijkheden die artikel 22, § 2, van het Kaderdecreet   biedt om bevoegdheden te delegeren aan het hoofd van het Agentschap, worden de   volgende aangelegenheden voorbehouden aan de raad van bestuur: <BR>1° het   sluiten van de beheersovereenkomst met de Vlaamse Regering;<BR>2° het   vaststellen van het jaarlijks ondernemingsplan als bedoeld in artikel 15, § 1,   4°, van het Kaderdecreet;<BR>3° het goedkeuren van het ontwerp van begroting,   jaarrekening en jaarverslag, evenals hun aanpassingen; <BR>4° het aangaan van   samenwerkingsovereenkomsten met andere instanties of het stellen van   deelnemingsdaden, vermeld in artikel 12 van het Kaderdecreet;<BR>5° de   goedkeuring van de rapportering aan de Vlaamse Regering over de uitvoering van   de beheersovereenkomst;<BR>6° het rapporteren over de uitvoering van de   begroting en over de boekhouding;<BR>7° het goedkeuren van reglementen;<BR>8°   het opmaken van het huishoudelijk reglement;<BR>9° het definitief aanvaarden van   schenkingen en het aanvaarden van legaten;<BR>10° beslissingen betreffende de   aangelegenheden vermeld in paragraaf 2.<BR></P>
+<p>§ 1. De raad van bestuur geniet de volheid van bestuursbevoegdheid, met uitzondering van de bevoegdheden die uitdrukkelijk bij dit decreet worden toegewezen aan het hoofd van het Agentschap.</p>
+
+<p>De raad van bestuur is dan ook bevoegd om alle handelingen te verrichten die nodig of dienstig zijn voor de verwezenlijking van de missie, opdrachten en taken van het Agentschap.</p>
+
+<p>§ 2. Overeenkomstig artikel 5, § 3, van het Samenwerkingsakkoord worden beslissingen met betrekking tot de administratieve en technische omkadering van de wetenschappelijke onderzoekers bij bijzondere meerderheid van minstens zeven stemmen op negen genomen.</p>
+
+<p>§ 3. Onverminderd de mogelijkheden die artikel III.9, § 2, van het Bestuursdecreet biedt om bevoegdheden te delegeren aan het hoofd van het Agentschap, worden de volgende aangelegenheden voorbehouden aan de raad van bestuur:<br>
+1° het sluiten van de beheersovereenkomst met de Vlaamse Regering;<br>
+2° het vaststellen van het jaarlijks ondernemingsplan;<br>
+3° het goedkeuren van het ontwerp van begroting, jaarrekening en jaarverslag, evenals hun aanpassingen;<br>
+4° het aangaan van samenwerkingsovereenkomsten met andere instanties of het stellen van deelnemingsdaden, vermeld in artikel III.18 van het Bestuursdecreet;<br>
+5° de goedkeuring van de rapportering aan de Vlaamse Regering over de uitvoering van de beheersovereenkomst;<br>
+6° het rapporteren over de uitvoering van de begroting en over de boekhouding;<br>
+7° het goedkeuren van reglementen;<br>
+8° het opmaken van het huishoudelijk reglement;<br>
+9° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br>
+10° beslissingen betreffende de aangelegenheden vermeld in paragraaf 2.</p>
 
 ### ART. 11.
 
@@ -127,7 +167,7 @@ In afwijking van de termijn van vijf jaar bedoeld in artikel 8, § 2,   eerste l
 
 ### ART. 27.
 
-In afwijking van artikel 16, § 1, van het Kaderdecreet zal de eerste   beheersovereenkomst worden afgesloten voor een termijn die eindigt uiterlijk   negen maanden na de beëdiging van de nieuwe Vlaamse Regering na algehele   vernieuwing van het Vlaams Parlement in 2019.<BR>
+De eerste beheersovereenkomst zal worden afgesloten voor een termijn die eindigt uiterlijk negen maanden na de beëdiging van de nieuwe Vlaamse Regering na algehele vernieuwing van het Vlaams Parlement in 2019.
 
 ## HOOFDSTUK VIII Inwerkingtreding
 
