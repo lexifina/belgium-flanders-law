@@ -69,6 +69,20 @@ Het bedrag, vermeld in paragraaf 1, wordt aan de diensten toegekend, samen met h
 <br>
 Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde lid.".
 
+### ART 5.
+
+Aan artikel 15/1 van bijlage I bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en gewijzigd bij de besluiten van de Vlaamse Regering van 13 december 2013 en 25 april 2014, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+<br>
+" § 4. Voor de maatregel verplaatsingen met een privéwagen wordt ter uitvoering van VIA5 een extra budget van 147.058,82 euro boven op het budget, vermeld in paragraaf 1, verdeeld tussen de private diensten voor gezinszorg en aanvullende thuiszorg en de private diensten voor logistieke hulp.<br>
+<br>
+Het deel van het budget dat in het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft, aan verzorgend personeel is toegekend, stijgt jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent wordt verhoogd voor het jaar waarop het budget betrekking heeft.<br>
+<br>
+Het budget, vermeld in het eerste lid, wordt verdeeld op basis van het aantal kilometers dat de dienst jaarlijks doorgeeft aan het agentschap conform paragraaf 3.<br>
+<br>
+Het bedrag, vermeld in het eerste lid, wordt aan de diensten toegekend, samen met hun voorschot voor het derde trimester.<br>
+<br>
+Het bedrag, vermeld in het eerste lid wordt geïndexeerd conform artikel 14, § 3, derde lid.".
+
 ## HOOFDSTUK 2. Wijzigingen van bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg
 
 ## HOOFDSTUK 3. Slotbepalingen
