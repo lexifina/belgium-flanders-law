@@ -1690,6 +1690,56 @@ Deze betrekkingen worden toegevoegd aan de mededeling van de vacante betrekkinge
 
 De prestaties die een personeelslid tot en met 31 augustus 2018 geleverd heeft in het mandaat van directeur in een CLB worden in aanmerking genomen voor de administratieve en geldelijke anciënniteit van het personeelslid.
 
+### ART 84viciessemel.
+
+Een vastbenoemde lector aan een centrum voor volwassenenonderwijs die op 1 september 2019 niet wil overgaan naar een hogeschool overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, deelt die beslissing uiterlijk op 1 januari 2019 aan de inrichtende macht van het centrum voor volwassenenonderwijs mee. In dat geval komt er op 1 september 2019 in toepassing van artikel 62, eerste lid, 6°, een einde aan de vaste benoeming van het betrokken personeelslid als lector bij het centrum voor volwassenenonderwijs.<br>
+<br>
+In afwijking van het eerste lid blijft een personeelslid dat geaffecteerd is aan een centrum voor volwassenenonderwijs, ingericht door een inrichtende macht van het gesubsidieerd officieel onderwijs, dat niet wil overgaan naar een vrije hogeschool personeelslid van de inrichtende macht van het centrum voor volwassenenonderwijs en wordt het op het ogenblik van de overdracht van de opleiding ter beschikking gesteld wegens ontstentenis van betrekking in het ambt van lector.<br>
+<br>
+In afwijking van het eerste lid blijft een personeelslid dat geaffecteerd is aan een centrum voor volwassenenonderwijs, ingericht door het gesubsidieerd vrij onderwijs, dat niet wil overgaan naar een publiekrechtelijke hogeschool overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, personeelslid van de inrichtende macht van het centrum voor volwassenenonderwijs en wordt het op het ogenblik van de overdracht van de opleiding ter beschikking gesteld wegens ontstentenis van betrekking in het ambt van lector.
+
+### ART 84viciesbis.
+
+De hierna volgende personeelsleden die op 31 december 2018 aangesteld zijn in een betrekking in een specifieke lerarenopleiding en na de stopzetting van die opleiding overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, naar een hogeschool overgaan, delen uiterlijk op 1 januari 2019 aan de raad van bestuur van het centrum voor volwassenenonderwijs mee of zij na de stopzetting van de specifieke lerarenopleiding aan de hogeschool of de universiteit willen werken die de financiering voor die opleiding overneemt :<br>
+1° de vastbenoemde lector, voor het deel van zijn opdracht waarvoor hij niet ter beschikking is gesteld wegens ontstentenis van betrekking;<br>
+2° de lector die tijdelijk aangesteld is voor doorlopende duur in een vacante betrekking.
+
+### ART 84viciester.
+
+§ 1. De bevoegde dienst van het Ministerie van Onderwijs en Vorming bezorgt ieder centrum voor volwassenenonderwijs dat een hbo5-opleiding of een specifieke lerarenopleiding aanbiedt, uiterlijk op 1 januari 2019 een nominatieve lijst van de volgende personeelsleden van het centrum :<br>
+1° de lectoren die aan de hbo5-opleiding verbonden zijn;<br>
+2° de lectoren die aan de specifieke lerarenopleiding verbonden zijn;<br>
+3° de leden van het bestuurs- en ondersteunend personeel.<br>
+<br>
+In afwijking van het eerste lid worden de personeelsleden met een terbeschikkingstelling voorafgaand aan het rustpensioen niet op de personeelslijst opgenomen.<br>
+<br>
+Er wordt voor elk van de in het eerste lid vermelde groepen een aparte personeelslijst opgemaakt. Voor de in het eerste lid, 1° en 2°, vermelde groepen worden twee deellijsten gemaakt, met name :<br>
+1° een deellijst voor de personeelsleden die overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013, overgenomen worden door een hogeschool;<br>
+2° een deellijst voor de personeelsleden die overeenkomstig de regeling, vermeld in artikel V.206/4 van de Codex Hoger Onderwijs van 11 oktober 2013, zonder openbare vacature en vergelijkende selectieprocedure door een hogeschool kunnen overgenomen worden. De vastbenoemde personeelsleden die ter beschikking gesteld zijn wegens ontstentenis van betrekking in het ambt van lector worden op de tweede deellijst opgenomen.<br>
+<br>
+§ 2. Een in paragraaf 1 vermelde lijst bevat de volgende gegevens :<br>
+1° de voor- en achternaam;<br>
+2° het stamboeknummer;<br>
+3° het ambt en de daaraan verbonden salarisschaal;<br>
+4° het statuut (vastbenoemd, terbeschikking gesteld wegens ontstentenis van betrekking, tijdelijk aangesteld voor doorlopende duur, tijdelijk aangesteld voor bepaalde duur);<br>
+5° de aanduiding `titularis' of `vervanger van een titularis';<br>
+6° de omvang van de opdracht in de opleiding op 31 december 2018;<br>
+7° de werkelijk uitgeoefende omvang van de betrekking op 31 december 2018 met vermelding van het eventuele verlofstelsel.
+
+### ART 84viciesquater.
+
+Ieder centrum voor volwassenenonderwijs verifieert de door het Ministerie van Onderwijs en Vorming bezorgde lijst. Het centrum stuurt de lijst voor 1 februari 2019 naar het Ministerie van Onderwijs en Vorming terug met de volgende vermeldingen :<br>
+1° rechtzettingen van administratieve onjuistheden van de bezorgde gegevens;<br>
+2° de vastbenoemde personeelsleden die niet naar een hogeschool willen overgaan overeenkomstig de regeling, vermeld in artikel V.206/1 van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+3° de dienstanciënniteit van de personeelsleden;<br>
+4° op de lijst met de vastbenoemde lectoren en lectoren met een tijdelijke aanstelling van doorlopende duur in een vacante betrekking aan een specifieke lerarenopleiding : de voorkeur van het personeelslid om over te gaan naar de hogeschool of de universiteit die de financiering van de specifieke lerarenopleiding overneemt.
+
+### ART 84viciesquinquies.
+
+De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een hbo5-opleiding aanbiedt en aan de hogeschool waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 1° en 3°, vermelde personeelsleden.<br>
+<br>
+De Vlaamse minister, bevoegd voor het onderwijs, bezorgt uiterlijk op 15 februari 2019 aan ieder centrum voor volwassenenonderwijs dat een specifieke lerarenopleiding aanbiedt en aan de hogeschool en universiteit waarmee het centrum een intentieverklaring over die opleiding afgesloten heeft, de geverifieerde en gecorrigeerde lijsten met de in artikel 84vicies ter, § 1, eerste lid, 2° en 3°, vermelde personeelsleden.
+
 ## TITEL III ANDERE BEPALINGEN
 
 ### ART. 85.
