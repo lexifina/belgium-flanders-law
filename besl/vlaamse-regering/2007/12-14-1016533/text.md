@@ -24,13 +24,15 @@ Dit besluit is van toepassing op de personeelsleden tewerkgesteld in de instelli
 <br>
 § 3. Het gemeenschapsonderwijs en de representatieve verenigingen van inrichtende machten enerzijds, en de representatieve vakorganisaties anderzijds, wijzen een gelijk aantal effectieve en plaatsvervangende leden van de kamers van het college van beroep aan.<br>
 <br>
-§ 4. De leden kunnen aanspraak maken op de reis- en dagvergoeding voor binnenlandse reizen overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
+§ 4. De leden ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
 <br>
 § 5. De effectieve voorzitters ontvangen een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
 <br>
 Als de effectieve voorzitter verhinderd is en diens functie waargenomen wordt door een plaatsvervangende voorzitter, wordt aan die laatste een vergoeding van 150 euro per zitting toegekend.<br>
 <br>
-De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.<br>
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+De voorzitters ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
 &nbsp;
 
 ### ART. 4.
@@ -39,7 +41,10 @@ De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer de
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het Onderwijs, wijst voor iedere kamer van het college van beroep een secretaris aan onder de ambtenaren van zijn diensten of instellingen. Elke secretaris neemt het secretariaat van een kamer van het college van beroep waar.<br /><br />De secretarissen ontvangen een vergoeding van 25 euro per zitting als die geheel of gedeeltelijk plaatsvindt buiten de normale diensttijd.<br /><br />
+De Vlaamse minister, bevoegd voor het Onderwijs, wijst voor iedere kamer van het college van beroep een secretaris aan onder de ambtenaren van zijn diensten of instellingen. Elke secretaris neemt het secretariaat van een kamer van het college van beroep waar.<br>
+<br>
+De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro als de zittingen geheel of gedeeltelijk plaatsvinden buiten de normale diensttijd.<br>
+&nbsp;
 
 ### ART. 6.
 

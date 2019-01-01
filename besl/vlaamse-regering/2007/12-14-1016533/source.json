@@ -2,16 +2,16 @@
   "codex_id": 1016533,
   "title": "Besluit van de Vlaamse Regering van 2007-12-14 betreffende de procedure in beroep na een evaluatie met eindconclusie « onvoldoende » en betreffende de werking van het college van beroep",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016533/VolledigDocument?datum=2017-01-01",
-  "source_sha256": "8b149504a5273142d1924f0f63f960bddac0a3020ac8cfc6cc4bad0e206b2660",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016533/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "31545c2e448870ee1ef0c32205a54838ad92b4eab95f48a7322f1881240e20bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016533&param=informatie",
-  "as_of": "2017-01-01",
+  "as_of": "2019-01-01",
   "made": "2007-12-14",
   "gazette": "2008-01-24",
   "numac": 2008035084,
   "document_start": "2008-01-01",
   "document_end": null,
-  "in_force": "2017-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2017-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
