@@ -22,7 +22,7 @@ De missie van het agentschap bestaat erin om, binnen het werkgebied, vastgesteld
 
 ### ART. 5.
 
-Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 6.
 
@@ -40,7 +40,7 @@ De minister stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.
 
 ### ART. 9.
 
-Overeenkomstig artikel 6, § 3, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 is het hoofd van het agentschap belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ### ART. 10.
 
@@ -56,7 +56,7 @@ Aan het hoofd van het agentschap worden de volgende delegaties verleend:<br /><b
 
 ### ART. 12.
 
-Onverminderd artikelen 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de voortgangscontrole van en het toezicht op het agentschap.
 
 ### ART. 13.
 
