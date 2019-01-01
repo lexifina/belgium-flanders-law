@@ -39,6 +39,7 @@ a) een aangetekende brief;<br>
 b) een afgifte tegen ontvangstbewijs;<br>
 c) elke andere door de Vlaamse Regering toegelaten betekeningswijze, waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 21° code van goede praktijk : geschreven en publiek toegankelijke regels met betrekking tot de uitvoering van en de rapportering over archeologisch vooronderzoek en archeologische opgravingen en met betrekking tot het gebruik van detectoren en de bij de betrokken beroepscategorieën algemeen aanvaarde regels van goed vakmanschap;<br>
+21° /1 cultuurgoederen: roerende goederen die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed aangetoond kan worden. Voor beschermde onroerende goederen in eigendom van privépersonen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan, of er moet voorheen voor het beheer ervan een premie verleend zijn, opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
 22° cultuurhistorisch landschap : een begrensde grondoppervlakte met een geringe dichtheid van bebouwing en een onderlinge samenhang waarvan de verschijningsvorm en de samenhang het resultaat zijn van natuurlijke processen en van maatschappelijke ontwikkelingen van algemeen belang wegens de erfgoedwaarde;<br>
 22° /1 datum van kennisgeving: tenzij een kennisgeving is gedaan met een beveiligde zending, worden ten aanzien van de geadresseerde de termijnen die beginnen te lopen vanaf een kennisgeving berekend:<br>
 a) als de kennisgeving is gedaan met een gewone brief: vanaf de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd werd, tenzij de geadresseerde het tegendeel bewijst;<br>
@@ -169,11 +170,36 @@ De Vlaamse Regering bepaalt de criteria voor het opnemen en schrappen van   een 
 
 ### ART. 4.1.3.
 
-<P>&nbsp;De Vlaamse Regering onderwerpt de vast te stellen inventaris aan een   openbaar onderzoek van zestig dagen dat minstens wordt aangekondigd door :<BR>1°   een bericht op te hangen in elke gemeente waar een onroerend goed gelegen is,   dat opgenomen is in de vast te stellen inventaris;<BR>2° een bericht op de   website van elke gemeente waar een onroerend goed gelegen is, dat opgenomen is   in de vast te stellen inventaris;<BR>3° een bericht in het Belgisch   Staatsblad;<BR>4° een bericht in ten minste drie dagbladen die in het Vlaamse   Gewest worden verspreid;<BR>5° een bericht op de website van het   agentschap.<BR></P>  <P>De berichten, vermeld in het eerste lid, vermelden minstens :<BR>1° het   voorwerp van het openbaar onderzoek;<BR>2° de begin- en einddatum van het   openbaar onderzoek;<BR>3° de plaats waar de inventaris ter inzage ligt of   geraadpleegd kan worden;<BR>4° de website waarop de inventaris te raadplegen   is;<BR>5° het adres waar opmerkingen en bezwaren over feitelijkheden dienen toe   te komen of kunnen worden afgegeven.<BR></P>  <P>Tijdens het openbaar onderzoek :<BR>1° ligt de inventaris, vermeld in het   eerste lid, ter inzage of is raadpleegbaar bij het agentschap;<BR>2° is de   inventaris te raadplegen op de website van het agentschap;<BR>3° kunnen   opmerkingen en bezwaren over feitelijkheden worden ingediend en afgegeven bij   het agentschap.<BR></P>  <P>De opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn,   vermeld in het bericht, aan het agentschap per beveiligde zending   bezorgd.<BR></P>  <P>Met opmerkingen en bezwaren die laattijdig aan het agentschap worden bezorgd,   moet geen rekening worden gehouden.<BR></P>  <P>De Vlaamse Regering wint over de inventaris en de opmerkingen en bezwaren   afkomstig van het openbaar onderzoek advies in bij de Vlaamse Commissie   Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van   dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als   deze termijn wordt overschreden, mag aan de adviesvereiste worden voorbijgegaan.   De termijn van dertig dagen kan door de Vlaamse Regering eenmalig worden   verlengd met dertig dagen op vraag van de Vlaamse Commissie Onroerend Erfgoed.   De Vlaamse Regering bepaalt de nadere regels voor de adviesprocedure.<BR></P>  <P>De Vlaamse Regering stelt na het advies van de Vlaamse Commissie Onroerend   Erfgoed de inventaris vast. De Vlaamse Regering kan de nadere regels voor de   vaststelling van de inventarissen en het openbaar onderzoek   bepalen.<BR></P>
+<p>&nbsp;De Vlaamse Regering onderwerpt de vast te stellen inventaris aan een openbaar onderzoek van zestig dagen dat minstens wordt aangekondigd door :<br>
+1° een bericht op te hangen in elke gemeente waar een onroerend goed gelegen is, dat opgenomen is in de vast te stellen inventaris;<br>
+2° een bericht op de website van elke gemeente waar een onroerend goed gelegen is, dat opgenomen is in de vast te stellen inventaris;<br>
+3° een bericht in het Belgisch Staatsblad;<br>
+4° een bericht in ten minste drie dagbladen die in het Vlaamse Gewest worden verspreid;<br>
+5° een bericht op de website van het agentschap.</p>
+
+<p>De berichten, vermeld in het eerste lid, vermelden minstens :<br>
+1° het voorwerp van het openbaar onderzoek;<br>
+2° de begin- en einddatum van het openbaar onderzoek;<br>
+3° de plaats waar de inventaris ter inzage ligt of geraadpleegd kan worden;<br>
+4° de website waarop de inventaris te raadplegen is;<br>
+5° het adres waar opmerkingen en bezwaren over feitelijkheden dienen toe te komen of kunnen worden afgegeven.</p>
+
+<p>Tijdens het openbaar onderzoek :<br>
+1° ligt de inventaris, vermeld in het eerste lid, ter inzage of is raadpleegbaar bij het agentschap;<br>
+2° is de inventaris te raadplegen op de website van het agentschap;<br>
+3° kunnen opmerkingen en bezwaren over feitelijkheden worden ingediend en afgegeven bij het agentschap.</p>
+
+<p>De opmerkingen en bezwaren worden uiterlijk de laatste dag van de termijn, vermeld in het bericht, aan het agentschap schrifttelijk bezorgd.</p>
+
+<p>Met opmerkingen en bezwaren die laattijdig aan het agentschap worden bezorgd, moet geen rekening worden gehouden.</p>
+
+<p>De Vlaamse Regering wint over de inventaris en de opmerkingen en bezwaren afkomstig van het openbaar onderzoek advies in bij de Vlaamse Commissie Onroerend Erfgoed. Dit advies wordt uitgebracht binnen een vervaltermijn van dertig dagen, ingaand de dag na deze van de ontvangst van de adviesvraag. Als deze termijn wordt overschreden, mag aan de adviesvereiste worden voorbijgegaan. De termijn van dertig dagen kan door de Vlaamse Regering eenmalig worden verlengd met dertig dagen op vraag van de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels voor de adviesprocedure.</p>
+
+<p>De Vlaamse Regering stelt na het advies van de Vlaamse Commissie Onroerend Erfgoed de inventaris vast. De Vlaamse Regering kan de nadere regels voor de vaststelling van de inventarissen en het openbaar onderzoek bepalen.</p>
 
 ### ART. 4.1.4.
 
-De Vlaamse Regering kan een vastgestelde inventaris actualiseren of er   onroerende goederen aan toevoegen of uit verwijderen. Voor de betrokken   onroerende goederen wordt een openbaar onderzoek georganiseerd onder de   voorwaarden en in de vorm vastgesteld in artikel 4.1.3.<BR>
+De Vlaamse Regering kan een vastgestelde inventaris actualiseren of er onroerende goederen aan toevoegen of uit verwijderen. Voor de betrokken onroerende goederen wordt een openbaar onderzoek georganiseerd onder de voorwaarden en in de vorm vastgesteld in artikel 4.1.3. Er wordt geen openbaar onderzoek georganiseerd om een onroerend goed te verwijderen dat volledig gesloopt of verdwenen is.
 
 ### ART. 4.1.5.
 
@@ -181,11 +207,16 @@ De ambtenaren die daarvoor aangewezen zijn door de Vlaamse Regering hebben   voo
 
 ### ART. 4.1.6.
 
-<P>De vastgestelde inventarissen bevatten over elk onroerend goed dat erin   opgenomen is minstens de volgende gegevens :<BR>1° een gegeorefereerd plan   waarop het onroerend goed nauwkeurig wordt aangeduid;<BR>2° de benaming van het   geïnventariseerde onroerend goed;<BR>3° een beschrijving op basis van de   erfgoedkenmerken.<BR></P>  <P>De Vlaamse Regering kan de gegevens die voor elk onroerend goed in een   vastgestelde inventaris moeten worden opgenomen nader omschrijven of   uitbreiden.<BR></P>
+<p>De vastgestelde inventarissen bevatten over elk onroerend goed dat erin opgenomen is minstens de volgende gegevens :<br>
+1° een&nbsp;plan waarop het onroerend goed nauwkeurig wordt aangeduid;<br>
+2° de benaming van het geïnventariseerde onroerend goed;<br>
+3° een beschrijving op basis van de erfgoedkenmerken.</p>
+
+<p>De Vlaamse Regering kan de gegevens die voor elk onroerend goed in een vastgestelde inventaris moeten worden opgenomen nader omschrijven of uitbreiden.</p>
 
 ### ART. 4.1.7.
 
-Alle onroerende goederen die opgenomen zijn in een vastgestelde inventaris   als vermeld in artikel 4.1.1 en alle beschermde onroerende goederen worden   gegeorefereerd op een publiek te raadplegen GIS-laag. De Vlaamse Regering kan de   nadere regels daarvoor bepalen.<BR>
+Alle onroerende goederen die opgenomen zijn in een vastgestelde inventaris als vermeld in artikel 4.1.1 en alle beschermde onroerende goederen worden op een publiek te raadplegen GIS-laag. De Vlaamse Regering kan de nadere regels daarvoor bepalen.
 
 ## [Afdeling 3 Procedure voor de vaststelling van een inventaris door een onroerenderfgoedgemeente (ing. decr. 10 juni 2022, art. 11, I: j januari 2023)]
 
@@ -205,7 +236,11 @@ Als voor de sloop van een onroerend goed opgenomen in de vastgestelde inventaris
 
 ### ART. 4.1.11.
 
-<P>Iedereen die voor eigen rekening of als tussenpersoon een geïnventariseerd   goed, overeenkomstig artikel 4.1.1, verkoopt, verhuurt voor meer dan negen jaar,   inbrengt in een vennootschap, een erfpacht of een opstalrecht overdraagt of op   andere wijze de eigendomsoverdracht met een vergeldend karakter van het goed   bewerkstelligt, vermeldt in de onderhandse of authentieke akte dat het onroerend   goed opgenomen is in een van de vastgestelde inventarissen, vermeld in artikel   4.1.1, en de rechtsgevolgen die aan de opname verbonden zijn door een verwijzing   naar hoofdstuk 4 van dit decreet in de akte op te nemen.<BR></P>  <P>Als de instrumenterend ambtenaar een onderhandse akte in een authentieke akte   dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van   het eerste lid, dan wijst hij de partijen bij de opmaak van de akte op het   eerste lid.<BR></P>  <P>De Vlaamse Regering kan de nadere regels voor de informatieplicht   bepalen.<BR></P>
+<p>Iedereen die voor eigen rekening of als tussenpersoon een geïnventariseerd goed, overeenkomstig artikel 4.1.1, verkoopt, verhuurt voor meer dan negen jaar, inbrengt in een vennootschap, een erfpacht of een opstalrecht vestigt of&nbsp;overdraagt of op andere wijze de eigendomsoverdracht met een vergeldend karakter van het goed bewerkstelligt, vermeldt in de onderhandse of authentieke akte dat het onroerend goed opgenomen is in een van de vastgestelde inventarissen, vermeld in artikel 4.1.1, en de rechtsgevolgen die aan de opname verbonden zijn door een verwijzing naar hoofdstuk 4 van dit decreet in de akte op te nemen.</p>
+
+<p>Als de instrumenterend ambtenaar een onderhandse akte in een authentieke akte dient op te nemen, waarbij de eerste niet beantwoordt aan de voorschriften van het eerste lid, dan wijst hij de partijen bij de opmaak van de akte op het eerste lid.</p>
+
+<p>De Vlaamse Regering kan de nadere regels voor de informatieplicht bepalen.</p>
 
 ## HOOFDSTUK 5 Archeologie
 
@@ -588,7 +623,25 @@ Aan de verplichtingen, vermeld in het eerste tot en met het derde lid, kan worde
 
 ### ART. 6.1.4.
 
-<P>§ 1. De Vlaamse Regering stelt het besluit tot voorlopige bescherming   vast.<BR></P>  <P>§ 2. Het besluit tot voorlopige bescherming bevat minstens de volgende   gegevens :<BR>1° in voorkomend geval de kadastrale gegevens van het perceel of   de percelen waarop de onroerende goederen zich bevinden;<BR>2° de vermelding of   het een bescherming van een archeologische site, monument, cultuurhistorisch   landschap of stads- of dorpsgezicht betreft met, in voorkomend geval, een   overgangszone;<BR>3° de benaming van het beschermde onroerend goed;<BR>4° een   beknopte wetenschappelijke beschrijving;<BR>5° de erfgoedwaarden;<BR>6° de   erfgoedelementen en de erfgoedkenmerken;<BR>7° de toekomstige   beheersdoelstellingen die de optimale verwezenlijking van de erfgoedwaarden   omschrijven die aanleiding gegeven hebben tot de bescherming;<BR>8° de   bijzondere voorschriften voor de instandhouding en het onderhoud;<BR>9° in   voorkomend geval de bijzondere voorschriften voor de instandhouding en het   onderhoud in de overgangszone.<BR></P>  <P>Bij elk besluit tot voorlopige bescherming worden de volgende bijlagen   gevoegd :<BR>1° een gegeorefereerd plan waarop het beschermde goed en, in   voorkomend geval, de overgangszone nauwkeurig worden afgelijnd en waarop de   plaats van aanplakking van het bericht over het openbaar onderzoek wordt   aangeduid;<BR>2° een fotoregistratie van de fysieke toestand van het beschermde   goed;<BR>3° in voorkomend geval een lijst met de cultuurgoederen die integrerend   deel uitmaken van het beschermde goed inzonderheid de bijhorende uitrusting en   de decoratieve elementen.<BR></P>  <P>De Vlaamse Regering kan de gegevens die in elk besluit tot voorlopige   bescherming of in de bijlage moeten worden opgenomen, nader omschrijven of   uitbreiden.<BR></P>
+<p>§ 1. De Vlaamse Regering stelt het besluit tot voorlopige bescherming vast.</p>
+
+<p>§ 2. Het besluit tot voorlopige bescherming bevat minstens de volgende gegevens :<br>
+1° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop de onroerende goederen zich bevinden;<br>
+2° de vermelding of het een bescherming van een archeologische site, monument, cultuurhistorisch landschap of stads- of dorpsgezicht betreft met, in voorkomend geval, een overgangszone;<br>
+3° de benaming van het beschermde onroerend goed;<br>
+4° een beknopte wetenschappelijke beschrijving;<br>
+5° de erfgoedwaarden;<br>
+6° de erfgoedelementen en de erfgoedkenmerken;<br>
+7° de toekomstige beheersdoelstellingen die de optimale verwezenlijking van de erfgoedwaarden omschrijven die aanleiding gegeven hebben tot de bescherming;<br>
+8° de bijzondere voorschriften voor de instandhouding en het onderhoud;<br>
+9° in voorkomend geval de bijzondere voorschriften voor de instandhouding en het onderhoud in de overgangszone.</p>
+
+<p>Bij elk besluit tot voorlopige bescherming worden de volgende bijlagen gevoegd :<br>
+1° een&nbsp;plan waarop het beschermde goed en, in voorkomend geval, de overgangszone nauwkeurig worden afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed inzonderheid de bijhorende uitrusting en de decoratieve elementen.</p>
+
+<p>De Vlaamse Regering kan de gegevens die in elk besluit tot voorlopige bescherming of in de bijlage moeten worden opgenomen, nader omschrijven of uitbreiden.</p>
 
 ### ART. 6.1.5.
 
@@ -820,7 +873,7 @@ De termijn van twee jaar, vermeld in het eerste lid, 2°, wordt geschorst in de 
 
 <p>Het agentschap stelt een databank van beschermd onroerend erfgoed digitaal beschikbaar. Deze databank bevat de voorlopige en definitieve erkennings-, rangschikkings- en beschermingsbesluiten en de wijzigings- en opheffingsbesluiten genomen bij toepassing van de wet van 7 augustus 1931 op het behoud van monumenten en landschappen, het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en hoofdstuk 6 van dit decreet.</p>
 
-<p>De entiteit die&nbsp;door de Vlaamse Regering belast is met de handhaving houdt een databank bij van elk proces-verbaal dat wordt opgemaakt voor inbreuken en misdrijven op dit decreet, het verdere gevolg dat aan die processen-verbaal wordt gegeven en de uitvoering van eventuele herstelmaatregelen. Deze databank en de inhoud ervan worden beschouwd als een bestuursdocument, vermeld in artikel 3, 4°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur. Onverminderd hoofdstuk II, afdeling IV, van voormeld decreet van 26 maart 2004 krijgen de personen, vermeld in artikel 6.4.8, eerste lid, op eerste verzoek onmiddellijk toegang tot de benodigde documenten uit deze databank.</p>
+<p>De entiteit die&nbsp;door de Vlaamse Regering belast is met de handhaving houdt een databank bij van elk proces-verbaal dat wordt opgemaakt voor inbreuken en misdrijven op dit decreet, het verdere gevolg dat aan die processen-verbaal wordt gegeven en de uitvoering van eventuele herstelmaatregelen. Deze databank en de inhoud ervan worden beschouwd als een bestuursdocument, vermeld in artikel I.4, 3°, van het Bestuursdecreet van 7 december 2018. Onverminderd titel II, hoofdstuk 3, afdeling 4, van het Bestuursdecreet van 7 december 2018 krijgen de personen, vermeld in artikel 6.4.8, eerste lid, op eerste verzoek onmiddellijk toegang tot de benodigde documenten uit deze databank.</p>
 
 <p>De Vlaamse Regering kan de nadere regels bepalen voor de op te nemen informatie in de databanken, vermeld in het eerste en tweede lid, voor de integratie van beide databanken en voor beveiligingsmaatregelen.</p>
 
@@ -1009,7 +1062,7 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 <p>De Vlaamse Regering kan binnen de perken van de daartoe op de begroting van de Vlaamse Gemeenschap beschikbare kredieten :<br>
 1° premies toekennen voor werkzaamheden aan of in beschermde goederen en in erfgoedlandschappen;<br>
 2° meerjarenpremieovereenkomsten sluiten voor grote en langdurige werken aan of in beschermd onroerend erfgoed en erfgoedlandschappen;<br>
-3° premies toekennen voor de opmaak van een beheersplan overeenkomstig artikel 8.1.1, § i;<br>
+3° ...<br>
 4° premies toekennen voor beheer van beschermd onroerend erfgoed en erfgoedlandschappen;<br>
 5° premies toekennen voor het beheer van onroerend erfgoed waarvoor een beheersplan is goedgekeurd overeenkomstig artikel 8.1.1;<br>
 6° premies toekennen voor maatregelen ten behoeve van de algemene landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend erfgoed;<br>
@@ -1019,7 +1072,9 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 
 ### ART. 10.2.2.
 
-<P>De premies van het Vlaamse Gewest voor werkzaamheden aan of in beschermd   bouwkundig erfgoed bedragen minstens :<BR>1° als de premienemer een natuurlijke   persoon of een privaatrechtelijke rechtspersoon is : 32,5 % van de voor subsidie   in aanmerking komende werkzaamheden;<BR>2° voor werkzaamheden aan gebouwen   toebehorend aan een gemeente of OCMW en aan gebouwen bestemd voor een erkende   eredienst : 80 % van de voor subsidie in aanmerking komende   werkzaamheden.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+De premies van het Vlaamse Gewest bedragen minstens 40% van de kostprijs van de voor financiële ondersteuning in aanmerking komende beheersmaatregelen, werkzaamheden of diensten aan of in beschermde goederen en erfgoedlandschappen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels hiervoor en bepaalt de gevallen waarin een verhoogd premiepercentage of een aanvullende premie kan toegekend worden.
 
 ### ART 10.2.3.
 
@@ -1062,6 +1117,14 @@ Er worden geen premies, subsidies of toelagen verleend aan ondernemingen die op 
 2° in moeilijkheden zijn als vermeld in artikel 2, 18, van de Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard;<br>
 3° een procedure op basis van Europees of nationaal recht hebben lopen waarbij toegekende steun wordt teruggevorderd.
 
+### ART 10.4.2.
+
+Er kan nooit aanspraak gemaakt worden op premies voor de uitvoering van werkzaamheden of diensten waartoe een aanvrager al gehouden is op grond van zijn deelname aan een misdrijf of inbreuk.<br>
+<br>
+Als er premies uitgekeerd zijn om schade te herstellen die het gevolg is van een misdrijf of inbreuk, kunnen ze teruggevorderd worden van diegenen die door hun deelname aan het misdrijf of de inbreuk die schade mee hebben veroorzaakt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels daarvoor.
+
 ## [Afdeling 5 Fiscale stimulansen (ing. Decr. 21 april 2017, art. 2, I: 14 mei 2017)]
 
 ### ART 10.5.1.
@@ -1076,7 +1139,7 @@ Het verschil tussen het verkooprecht, geheven met toepassing van artikel 2.9.4.2
 <br>
 De subsidie wordt geacht te zijn toegekend onder de voorwaarden, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet.<br>
 <br>
-Op straffe van verval van de subsidie bezorgen de verkrijgers uiterlijk zes maanden na het verstrijken van de termijn van vijf jaar, vermeld in artikel 2.9.4.2.10, § 2, 1°, van het voormelde decreet, de facturen en andere gegevens aan het agentschap waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet. Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.<br>
+Op straffe van verval van de subsidie bezorgen de verkrijgers binnen een termijn van 180 dagen, die ingaat op de dag na het verstrijken van de termijn van vijf jaar, vermeld in artikel 2.9.4.2.10, § 2, 1°, van het voormelde decreet, de facturen en andere gegevens aan het agentschap waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet. Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.<br>
 <br>
 Elke vervreemding onder de levenden van het beschermde monument, die plaatsvindt voordat de verkrijgers van de subsidie hebben voldaan aan de voorwaarden, vereist voor het behoud van de subsidie, vermeld in artikel 2.9.4.2.10, § 2, van het voormelde decreet, heeft tot gevolg dat de subsidie wordt teruggevorderd door het agentschap. Die vervreemding wordt door de instrumenterende ambtenaar gemeld aan het agentschap.<br>
 <br>
@@ -1129,10 +1192,10 @@ De in artikel 11.2.2, eerste lid 1° tot en met 8°, en artikel 11.2.2, eerste l
 
 ### ART. 11.2.4.
 
-<p>§ 1. De volgende handelingen of nalatigheden worden bestraft met een excluvieve bestuurlijke geldboete van maximaal 10.000 euro :<br>
+<p>§ 1. De volgende handelingen of nalatigheden worden bestraft met een exclusieve bestuurlijke geldboete van maximaal 10.000 euro :<br>
 1° het niet naleven van de informatieplichten, vermeld in artikel 4.1.11, 6.4.8, 6.4.9, 11.4.5, § 2, tweede en derde lid, en artikel 11.5.9, § 2;<br>
-2° a) het niet bezorgen door de aangestelde archeoloog van een archeologienota, als vermeld in artikel 5.4.8 en 5.4.12;<br>
-b) het niet bezorgen van een nota, als vermeld in artikel 5.4.16;<br>
+2° a) het niet&nbsp;melden door de aangestelde archeoloog van een archeologienota, als vermeld in artikel 5.4.8 en 5.4.12;<br>
+b) het niet melden van een nota, als vermeld in artikel 5.4.16;<br>
 c) het niet melden van de aanvang van een archeologisch vooronderzoek met ingreep in de bodem, als vermeld in artikel 5.4.14 en 5.5.4, eerste lid;<br>
 d) het niet tijdig bezorgen van een archeologierapport, als vermeld in artikel 5.4.20 en 5.5.4, tweede lid;<br>
 e) het niet tijdig bezorgen en publiceren van een eindverslag, als vermeld in artikel 5.4.21 en 5.5.4, derde lid;<br>
@@ -1290,7 +1353,38 @@ De ambtenaren, agenten of officieren van gerechtelijke politie, vermeld in   art
 
 ### ART. 11.5.7.
 
-<P>§ 1. De inspecteur Onroerend Erfgoed kan beslissen om bestuursdwang toe te   passen. Deze beslissing wordt op schrift gesteld. De schriftelijke beslissing   wordt een besluit genoemd.<BR></P>  <P>§ 2. De bestuurlijke maatregelen, genomen in het kader van bestuursdwang,   kunnen strekken tot :<BR>1° de voorlopige instandhoudingsmaatregelen, vermeld in   artikel 11.4.3, § 2; <BR>2° het feitelijke herstel in een originele goede staat   of de gehele of gedeeltelijke reconstructie, vermeld in artikel 11.4.1, § 2,   eerste lid.<BR></P>  <P>§ 3. Het besluit bevat minstens :<BR>1° de kadastrale omschrijving van het   onroerend goed dat het voorwerp is van de inbreuk en de identificatie van de   houders van zakelijke rechten op het goed;<BR>2° een vermelding van de   voorschriften die worden of werden geschonden;<BR>3° een overzicht van de   vaststellingen inzake de inbreuk of het misdrijf;<BR>4° een omschrijving van de   opgelegde bestuurlijke maatregelen;<BR>5° de vermelding dat tegen het besluit   houdende de bestuurlijke maatregelen in beroep kan worden gegaan, alsook een   omschrijving van de procedure om in beroep te gaan.<BR></P>  <P>Het besluit wordt betekend bij gerechtsdeurwaardersexploot of per beveiligde   zending aan de overtreder en aan de rechthebbenden op de zaak ten aanzien   waarvan bestuursdwang zal worden toegepast.<BR></P>  <P>Een afschrift van het besluit wordt aan de gemeente gezonden.<BR></P>  <P>§ 4. In het besluit wordt een termijn bepaald waarbinnen de overtreder en   belanghebbenden de tenuitvoerlegging kunnen voorkomen door zelf de bevolen   maatregelen uit te voeren. De uitvoeringstermijn kan zo nodig worden gefaseerd   per maatregel.<BR></P>  <P>De dag na de betekening neemt de termijn een aanvang.<BR></P>  <P>Als de vereiste spoed zich daartegen verzet, hoeft geen termijn te worden   verleend.<BR></P>  <P>§ 5. De inspecteur Onroerend Erfgoed kan het besluit uitvoerbaar verklaren   niettegenstaande het beroep, vermeld in artikel 11.5.8. Hij vermeldt in de   beslissing de redenen van hoogdringendheid die daartoe noodzaken.<BR></P>  <P>§ 6. Als de situatie dermate spoedeisend is dat de inspecteur Onroerend   Erfgoed de beslissing tot toepassing van bestuursdwang niet tevoren op schrift   kan stellen, zorgt hij alsnog zo spoedig mogelijk en op straffe van verval   uiterlijk binnen vijf werkdagen na het nemen van de beslissing voor de   opschriftstelling en de betekening van de beslissing tot toepassing van   bestuursdwang, met opgave van de redenen van hoogdringendheid die een   voorafgaande betekening onmogelijk maakten. De beslissing tot toepassing van   bestuursdwang is in dat geval altijd uitvoerbaar niettegenstaande het beroep,   vermeld in artikel 11.5.8.<BR></P>  <P>§ 7. Als hij een beroep bedoeld in artikel 11.5.8 kennelijk gegrond acht en   dit niet zal leiden tot belangrijke schade aan erfgoedwaarden, kan de voorzitter   van de rechtbank van eerste aanleg van het ambtsgebied waarin de bestuurlijke   maatregelen moeten worden uitgevoerd, op verzoek van de belanghebbende het   uitvoerbaar karakter van het besluit van de inspecteur Onroerend Erfgoed   opschorten.<BR></P>  <P>§ 8. Het besluit wordt binnen een termijn van twee maanden overgeschreven in   het hypotheekkantoor van het gebied waar het onroerend goed ligt. De beslissing,   vermeld in artikel 11.5.8, § 1, en de rechterlijke eindbeslissing, vermeld in   artikel 11.5.8, § 4, worden binnen een termijn van twee maanden nadat ze zijn   gewezen, ingeschreven op de kant van deze overschrijving op de wijze, vermeld in   artikel 84 van de Hypotheekwet van 16 december 1851.<BR></P>  <P>§ 9. De beslissing tot toepassing van bestuursdwang en elke andere beslissing   die in de zaak gewezen is, zijn tegenwerpelijk voor alle belanghebbenden, die de   gevolgen ervan moeten dragen.<BR></P>
+<p>§ 1. De inspecteur Onroerend Erfgoed kan beslissen om bestuursdwang toe te passen. Deze beslissing wordt op schrift gesteld. De schriftelijke beslissing wordt een besluit genoemd.</p>
+
+<p>§ 2. De bestuurlijke maatregelen, genomen in het kader van bestuursdwang, kunnen strekken tot :<br>
+1° de voorlopige instandhoudingsmaatregelen, vermeld in artikel 11.4.3, § 2;<br>
+2° het feitelijke herstel in een originele goede staat of de gehele of gedeeltelijke reconstructie, vermeld in artikel 11.4.1, § 2, eerste lid.</p>
+
+<p>§ 3. Het besluit bevat minstens :<br>
+1° de kadastrale omschrijving van het onroerend goed dat het voorwerp is van de inbreuk en de identificatie van de houders van zakelijke rechten op het goed;<br>
+2° een vermelding van de voorschriften die worden of werden geschonden;<br>
+3° een overzicht van de vaststellingen inzake de inbreuk of het misdrijf;<br>
+4° een omschrijving van de opgelegde bestuurlijke maatregelen;<br>
+5° de vermelding dat tegen het besluit houdende de bestuurlijke maatregelen in beroep kan worden gegaan, alsook een omschrijving van de procedure om in beroep te gaan.</p>
+
+<p>Het besluit wordt betekend bij gerechtsdeurwaardersexploot of per beveiligde zending aan de overtreder en aan de rechthebbenden op de zaak ten aanzien waarvan bestuursdwang zal worden toegepast.</p>
+
+<p>Een afschrift van het besluit wordt aan de gemeente gezonden.</p>
+
+<p>§ 4. In het besluit wordt een termijn bepaald waarbinnen de overtreder en belanghebbenden de tenuitvoerlegging kunnen voorkomen door zelf de bevolen maatregelen uit te voeren. De uitvoeringstermijn kan zo nodig worden gefaseerd per maatregel.</p>
+
+<p>De dag na de betekening neemt de termijn een aanvang.</p>
+
+<p>Als de vereiste spoed zich daartegen verzet, hoeft geen termijn te worden verleend.</p>
+
+<p>§ 5. De inspecteur Onroerend Erfgoed kan het besluit uitvoerbaar verklaren niettegenstaande het beroep, vermeld in artikel 11.5.8. Hij vermeldt in de beslissing de redenen van hoogdringendheid die daartoe noodzaken.</p>
+
+<p>§ 6. Als de situatie dermate spoedeisend is dat de inspecteur Onroerend Erfgoed de beslissing tot toepassing van bestuursdwang niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk en op straffe van verval uiterlijk binnen vijf werkdagen na het nemen van de beslissing voor de opschriftstelling en de betekening van de beslissing tot toepassing van bestuursdwang, met opgave van de redenen van hoogdringendheid die een voorafgaande betekening onmogelijk maakten. De beslissing tot toepassing van bestuursdwang is in dat geval altijd uitvoerbaar niettegenstaande het beroep, vermeld in artikel 11.5.8.</p>
+
+<p>§ 7. Als hij een beroep bedoeld in artikel 11.5.8 kennelijk gegrond acht en dit niet zal leiden tot belangrijke schade aan erfgoedwaarden, kan de voorzitter van de rechtbank van eerste aanleg van het ambtsgebied waarin de bestuurlijke maatregelen moeten worden uitgevoerd, op verzoek van de belanghebbende het uitvoerbaar karakter van het besluit van de inspecteur Onroerend Erfgoed opschorten.</p>
+
+<p>§ 8. Het besluit wordt binnen een termijn van zestig dagen overgeschreven in het hypotheekkantoor van het gebied waar het onroerend goed ligt. De beslissing, vermeld in artikel 11.5.8, § 1, en de rechterlijke eindbeslissing, vermeld in artikel 11.5.8, § 4, worden binnen een termijn van zesig dagen nadat ze zijn gewezen, ingeschreven op de kant van deze overschrijving op de wijze, vermeld in artikel 84 van de Hypotheekwet van 16 december 1851.</p>
+
+<p>§ 9. De beslissing tot toepassing van bestuursdwang en elke andere beslissing die in de zaak gewezen is, zijn tegenwerpelijk voor alle belanghebbenden, die de gevolgen ervan moeten dragen.</p>
 
 ### ART. 11.5.8.
 
@@ -1358,7 +1452,9 @@ De rechtbank van eerste aanleg of, als dat een andere rechtbank is, de   rechtba
 
 ### ART. 11.5.18.
 
-<P>De vordering tot betaling van verbeurde bedragen verjaart na verloop van zes   maanden na de dag waarop de bedragen zijn verbeurd.<BR></P>  <P>De verjaring wordt geschorst door faillissement en ieder ander wettelijk   beletsel voor invordering van de dwangsom.<BR></P>
+<p>De vordering tot betaling van verbeurde bedragen verjaart na verloop van 180 dagen na de dag waarop de bedragen zijn verbeurd.</p>
+
+<p>De verjaring wordt geschorst door faillissement en ieder ander wettelijk beletsel voor invordering van de dwangsom.</p>
 
 ## Afdeling 6 Minnelijke schikking
 
@@ -1372,7 +1468,7 @@ De inspecteur Onroerend Erfgoed kan met de overtreder, overtreders of   andere b
 
 <p>Mits schriftelijke toestemming van de&nbsp;ambtenaar, vermeld in het eerste lid, kan de akte verleden worden door de instrumenterend ambtenaar, vermeld in artikel 11.4.5, § 2, tweede lid. De akte maakt melding van deze toestemming.</p>
 
-<p>De akte wordt binnen een termijn van twee maanden overgeschreven in het hypotheekkantoor van het gebied waar het onroerend goed gelegen is.</p>
+<p>De akte wordt binnen een termijn van zestig dagen overgeschreven in het hypotheekkantoor van het gebied waar het onroerend goed gelegen is.</p>
 
 <p>De kosten voor de opmaak, registratie en overschrijving van de akte vallen ten laste van de personen met wie de minnelijke schikking werd aangegaan.</p>
 
@@ -1642,7 +1738,7 @@ De Vlaamse Regering wint voorafgaand aan de voorlopige omzetting advies in   bij
 5° een beschrijving van de impact op de beheersdoelstellingen, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud.</p>
 
 <p>Bij elk besluit tot omzetting worden de volgende bijlagen gevoegd :<br>
-1° een gegeorefereerd&nbsp;plan waarop het beschermde goed na omzetting nauwkeurig wordt afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+1° een&nbsp;plan waarop het beschermde goed na omzetting nauwkeurig wordt afgelijnd en waarop de plaats van aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
 2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
 3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed.</p>
 
@@ -1650,7 +1746,20 @@ De Vlaamse Regering wint voorafgaand aan de voorlopige omzetting advies in   bij
 
 ### ART. 12.3.6.
 
-<P>Het besluit tot definitieve omzetting bevat minstens de volgende gegevens   :<BR>1° het opschrift van het besluit dat omgezet wordt;<BR>2° de datum van   bekendmaking in het Belgisch Staatsblad van het besluit dat omgezet wordt;<BR>3°   in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop   het beschermde goed zich bevindt;<BR>4° de redenen van omzetting;<BR>5° een   beschrijving van de impact op de beheersdoelstellingen, een beschrijving van de   impact op de bijzondere voorschriften voor de instandhouding en het   onderhoud.<BR></P>  <P>Bij elk besluit tot definitieve omzetting worden de volgende bijlagen gevoegd   :<BR>1° een gegeorefereerd plan waarop het beschermde goed na omzetting   nauwkeurig wordt afgelijnd en waarop de plaats van de aanplakking van het   bericht over het openbaar onderzoek wordt aangeduid;<BR>2° een fotoregistratie   van de fysieke toestand van het beschermde goed;<BR>3° in voorkomend geval een   lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde   goed;<BR>4° een document waaruit de behandeling van de bezwaren blijkt.<BR></P>  <P>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve   omzetting of in de bijlagen zijn opgenomen nader omschrijven of   uitbreiden.<BR></P>
+<p>Het besluit tot definitieve omzetting bevat minstens de volgende gegevens :<br>
+1° het opschrift van het besluit dat omgezet wordt;<br>
+2° de datum van bekendmaking in het Belgisch Staatsblad van het besluit dat omgezet wordt;<br>
+3° in voorkomend geval de kadastrale gegevens van het perceel of de percelen waarop het beschermde goed zich bevindt;<br>
+4° de redenen van omzetting;<br>
+5° een beschrijving van de impact op de beheersdoelstellingen, een beschrijving van de impact op de bijzondere voorschriften voor de instandhouding en het onderhoud.</p>
+
+<p>Bij elk besluit tot definitieve omzetting worden de volgende bijlagen gevoegd :<br>
+1° een&nbsp;plan waarop het beschermde goed na omzetting nauwkeurig wordt afgelijnd en waarop de plaats van de aanplakking van het bericht over het openbaar onderzoek wordt aangeduid;<br>
+2° een fotoregistratie van de fysieke toestand van het beschermde goed;<br>
+3° in voorkomend geval een lijst met de cultuurgoederen die integrerend deel uitmaken van het beschermde goed;<br>
+4° een document waaruit de behandeling van de bezwaren blijkt.</p>
+
+<p>De Vlaamse Regering kan de gegevens die in elk besluit tot definitieve omzetting of in de bijlagen zijn opgenomen nader omschrijven of uitbreiden.</p>
 
 ### ART. 12.3.7.
 
