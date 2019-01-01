@@ -2,16 +2,16 @@
   "codex_id": 1027833,
   "title": "Decreet van 2016-12-23 houdende de totstandbrenging van De Werkvennootschap nv van publiek recht",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027833/VolledigDocument?datum=2017-02-17",
-  "source_sha256": "c5ac4a6f9134700045c89f6e9eeb89b15e0e44310f7b26a990dffc417a0f4f31",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027833/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "4e2842fe7968505398171e44cdabfccad43316ec21d7db295cd18ca7a18d93bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027833&param=informatie",
-  "as_of": "2017-02-17",
+  "as_of": "2019-01-01",
   "made": "2016-12-23",
   "gazette": "2017-02-07",
   "numac": 2017010446,
   "document_start": "2017-02-17",
   "document_end": null,
-  "in_force": "2017-02-17",
+  "in_force": "2019-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2017-02-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -12,7 +12,7 @@ Dit decreet regelt een gewestaangelegenheid.
 
 § 1. Op de datum van het besluit van de algemene vergadering, vermeld in paragraaf 2, eerste lid, wordt de naamloze vennootschap, opgericht door het Vlaamse Gewest en de ParticipatieMaatschappij Vlaanderen NV, met de naam `Via-Invest', zonder onderbreking van continuïteit van haar rechtspersoonlijkheid gewijzigd in een naamloze vennootschap van publiek recht, met de naam `De Werkvennootschap'.<br>
 <br>
-Vanaf de datum van het besluit van de algemene vergadering, vermeld in het eerste lid, wordt het statuut van De Werkvennootschap geregeld door de bepalingen van dit decreet, het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector en haar statuten, in die volgorde.<br>
+Vanaf de datum van het besluit van de algemene vergadering, vermeld in het eerste lid, wordt het statuut van De Werkvennootschap geregeld door de bepalingen van dit decreet, titel III, hoofdstuk 2, van het Bestuursdecreet van 7 december 2018 en haar statuten, in die volgorde.<br>
 <br>
 § 2. De raad van bestuur van Via-Invest stelt de aan dit decreet aangepaste statuten van De Werkvennootschap voor die aan de Vlaamse Regering ter goedkeuring worden voorgelegd en vervolgens door de algemene vergadering worden vastgesteld.<br>
 <br>
@@ -267,8 +267,8 @@ Als het orgaan bij het verstrijken van de termijn, vermeld in het eerste lid, ge
 
 ### ART 29.
 
-Voor al wat niet uitdrukkelijk anders is geregeld in dit decreet en in de relevante bepalingen van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector, is De Werkvennootschap onderworpen aan de bepalingen van het Wetboek van Vennootschappen die van toepassing zijn op de naamloze vennootschappen.<br>
+Voor al wat niet uitdrukkelijk anders is geregeld in dit decreet en in de relevante bepalingen van titel III, hoofdstuk 2, van het Bestuursdecreet van 7 december 2018, is De Werkvennootschap onderworpen aan de bepalingen van het Wetboek van Vennootschappen die van toepassing zijn op de naamloze vennootschappen.<br>
 <br>
-De Werkvennootschap valt niet onder het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br>
+De Werkvennootschap valt niet onder titel III, hoofdstuk 1, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 De Werkvennootschap is niet onderworpen aan de bepalingen over de continuïteit van de ondernemingen en het faillissement, en evenmin aan de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers.
