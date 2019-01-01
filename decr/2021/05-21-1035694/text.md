@@ -86,6 +86,14 @@ In artikel 3, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 22 maar
 3° in punt 21°, a) en b), worden de woorden "vijf maanden" vervangen door de zinsnede "149 dagen";<br>
 4° punt 24° wordt opgeheven.
 
+### ART 56.
+
+In artikel 18, tweede lid, 2° en 3°, van hetzelfde decreet wordt het bedrag "30.386,52 euro" vervangen door het bedrag "30.378,60 euro".
+
+### ART 57.
+
+In artikel 27, § 4, van hetzelfde decreet, ingevoegd bij het decreet van 22 maart 2019, wordt de zinsnede "paragraaf 3" vervangen door de zinsnede "paragraaf 2".
+
 ### ART 62.
 
 In artikel 52 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
