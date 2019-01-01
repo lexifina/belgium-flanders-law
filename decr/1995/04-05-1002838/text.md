@@ -194,7 +194,9 @@ Milieukwaliteitsnormen bepalen de maximaal toelaatbare hoeveelheden verontreinig
 
 ### ART. 2.2.2.
 
-Elk ontwerp van besluit houdende vaststelling of wijziging van milieukwaliteitsnormen wordt door de Vlaamse regering medegedeeld aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp.<br /><br />In zoverre dit vanwege door internationale verplichtingen opgelegde termijnen noodzakelijk is, kan de Vlaamse regering de in het vorige lid bepaalde adviestermijn inkorten, met inachtname van de minimumtermijn, bepaald in artikel 16, § 2, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden.
+Elk ontwerp van besluit houdende vaststelling of wijziging van milieukwaliteitsnormen wordt door de Vlaamse regering medegedeeld aan de Milieu- en Natuurraad van Vlaanderen, die een met redenen omkleed advies uitbrengt binnen een vervaltermijn van twee maanden na ontvangst van het ontwerp.<br>
+<br>
+In zoverre dit vanwege door internationale verplichtingen opgelegde termijnen noodzakelijk is, kan de Vlaamse regering de in het vorige lid bepaalde adviestermijn inkorten, met inachtname van de minimumtermijn, vermeld in artikel III.103, § 2, van het Bestuursdecreet van 7 december 2018.
 
 ### ART. 2.2.3.
 
@@ -584,7 +586,9 @@ Bij het onderzoek tot milieueffectrapportage, vermeld in artikel 4.2.3, § 2, 2�
 
 ### ART. 4.2.7.
 
-De documenten en beslissing, vermeld in artikel 4.2.6 worden door de administratie overeenkomstig hoofdstuk III van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur ter beschikking gesteld van het publiek.<br /><br />De Vlaamse Regering kan nadere regels vaststellen.
+De documenten en beslissing, vermeld in artikel 4.2.6 worden door de administratie overeenkomstig artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018 ter beschikking gesteld van het publiek.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen.
 
 ## [AFDELING 3 KENNISGEVING EN INHOUDSAFBAKENING VAN HET PLAN-MER]
 
@@ -623,7 +627,7 @@ De Vlaamse Regering kan bijkomende voorwaarden en modaliteiten bepalen waaraan d
 Indien de kennisgeving onvolledig is, kan de initiatiefnemer de kennisgeving aanvullen overeenkomstig de beslissing die de punten van onvolledigheid van de kennisgeving opsomt en deze terug aan de administratie overmaken op de wijze vermeld in artikel 4.2.8, § 1.<br>
 <br>
 § 3. De administratie legt de volledig verklaarde kennisgeving onverwijld en op de volgende wijzen ter beschikking van het publiek :<br>
-1° overeenkomstig het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+1° overeenkomstig artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018;<br>
 2° bij de initiatiefnemer;<br>
 3° via de internetsite van de administratie.<br>
 <br>
@@ -648,7 +652,7 @@ De Vlaamse Regering kan nadere regels aangaande de beslissing bepalen.<br>
 <br>
 § 7. De administratie deelt onverwijld haar beslissing mee aan de initiatiefnemer en de geraadpleegde administraties, instanties, autoriteiten van lidstaten, verdragspartijen en/of gewesten.<br>
 <br>
-De beslissing wordt overeenkomstig hoofdstuk III van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur ter beschikking gesteld van het publiek.
+De beslissing wordt overeenkomstig&nbsp;artikel II.2, II.3 en II.4 van het Bestuursdecreet van 7 december 2018 ter beschikking gesteld van het publiek.
 
 ## [AFDELING 4 HET OPSTELLEN VAN HET PLAN-MER]
 
@@ -848,9 +852,9 @@ Na ontvangst van de adviezen van de instanties, vermeld in het eerste lid, verle
 <br>
 § 5. De administratie maakt de aanmelding, vermeld in paragraaf 1, binnen de door de Vlaamse Regering bepaalde termijn bekend op haar website.<br>
 <br>
-Als de initiatiefnemer in de aanmelding een vraag stelde tot onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de administratie in haar beslissing een belangenafweging overeenkomstig artikel 15 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur. De administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
+Als de initiatiefnemer in de aanmelding een vraag stelde tot onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de administratie in haar beslissing een belangenafweging overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
 <br>
-Tegen de beslissing tot onttrekking aan bekendmaking staat beroep open overeenkomstig artikel 22 tot en met 27 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br>
+Tegen de beslissing tot onttrekking aan bekendmaking staat beroep open overeenkomstig artikel II.48 tot en met artikel II.51 van het Bestuursdecreet van 7 december 2018 .<br>
 <br>
 § 6. De Vlaamse Regering kan nadere regels vaststellen voor de aanmeldingsprocedure, de grens- en gewestgrensoverschrijdende procedure en de procedure van adviesverlening vanwege de adviesinstanties en de administratie.<br>
 <br>
@@ -909,11 +913,55 @@ Als er een advies wordt uitgebracht met toepassing van artikel 4.3.4, § 4, is h
 
 ### ART. 4.3.8.
 
-<P>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende   vergunningsprocedure of -procedures, bezorgt de initiatiefnemer het project-MER   aan de overheid die in eerste aanleg een beslissing zal nemen over de   vergunningsaanvraag voor het project.<BR><BR>De initiatiefnemer kan voorafgaand   aan het indienen van de vergunningsaanvraag bij de overheid, vermeld in het   eerste lid, aan de administratie vragen om overeenkomstig artikel 15 van het   decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, bepaalde   delen uit het project-MER aan het openbaar onderzoek binnen de   vergunningsprocedure te onttrekken. Hij voegt bij zijn vraag tevens het   voltooide project-MER toe en duidt over welke gegevens het gaat en op welke   gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt   een belangenafweging overeenkomstig het artikel 15 in kwestie. De administratie   kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken.   Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de   aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De   bijlage bij het project-MER wordt niet ter inzage gelegd van het publiek tijdens   de vergunningsprocedure.<BR><BR>De Vlaamse Regering kan nadere regels bepalen   voor de samenwerking en informatie-uitwisseling van de administratie met de   administraties betrokken in de vergunningsprocedure.<BR><BR>§ 2. Na raadpleging   van de adviesverlenende instanties, vermeld in het derde lid, en na afsluiting   van het openbaar onderzoek van de vergunningsprocedure, toetst de administratie   het project-MER inhoudelijk:<BR>1° aan de beslissing, vermeld in artikel 4.3.4,   § 3;<BR>2° in voorkomend geval aan het advies, vermeld in artikel 4.3.4, § 4,   tweede lid;<BR>3° aan de vereiste gegevens, vermeld in artikel 4.3.7;<BR>4° aan   de adviezen, opmerkingen en commentaren van de instanties en het publiek over   het project-MER, verstrekt naar aanleiding van het openbaar onderzoek;<BR>5° in   voorkomend geval aan de adviezen, opmerkingen en commentaren van de bevoegde   autoriteiten, vermeld in artikel 4.3.4, § 2, en het publiek over het   project-MER, verstrekt naar aanleiding van het openbaar onderzoek in   grensoverschrijdend verband.<BR><BR>Het resultaat van de toetsing wordt   opgenomen in het project-MER-verslag en leidt tot de goed- of afkeuring van het   project-MER.<BR><BR>De adviesverlenende instanties, vermeld in het eerste lid,   zijn de instanties die de Vlaamse Regering heeft aangewezen en die vermeld zijn   in de wetgeving van de desbetreffende vergunningsprocedure.<BR><BR>De Vlaamse   Regering kan nadere regels vaststellen voor de wijze van raadpleging van de   adviesverlenende instanties, vermeld in het eerste lid, en van de bevoegde   autoriteiten, vermeld in het eerste lid, 5°, door de administratie.<BR><BR>§ 3.   De administratie bezorgt haar beslissing over de goed- of afkeuring van het   project-MER:<BR>1° aan de initiatiefnemer;<BR>2° in voorkomend geval aan de   administraties, overheidsinstellingen en openbare besturen, vermeld in artikel   4.3.4, § 4, eerste lid;<BR>3° aan de adviesverlenende instanties, vermeld in   paragraaf 2, derde lid;<BR>4° in voorkomend geval aan de bevoegde autoriteiten,   vermeld in artikel 4.3.4, § 2;<BR>5° aan de overheid die in eerste aanleg een   beslissing over de vergunningsaanvraag voor het project zal nemen.<BR><BR>De   beslissing bevat ook een afschrift van het project-MER-verslag, vermeld in   paragraaf 2, tweede lid.<BR><BR>§ 4. De Vlaamse Regering kan nadere regels   vaststellen voor de goed- of afkeuring van het project-MER en voor de   bekendmaking ervan.</P>
+<p>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende vergunningsprocedure of -procedures, bezorgt de initiatiefnemer het project-MER aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
+<br>
+De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag bij de overheid, vermeld in het eerste lid, aan de administratie vragen om overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, bepaalde delen uit het project-MER aan het openbaar onderzoek binnen de vergunningsprocedure te onttrekken. Hij voegt bij zijn vraag tevens het voltooide project-MER toe en duidt over welke gegevens het gaat en op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt een belangenafweging overeenkomstig het het artikel II.36 in kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage bij het project-MER wordt niet ter inzage gelegd van het publiek tijdens de vergunningsprocedure.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de administratie met de administraties betrokken in de vergunningsprocedure.<br>
+<br>
+§ 2. Na raadpleging van de adviesverlenende instanties, vermeld in het derde lid, en na afsluiting van het openbaar onderzoek van de vergunningsprocedure, toetst de administratie het project-MER inhoudelijk:<br>
+1° aan de beslissing, vermeld in artikel 4.3.4, § 3;<br>
+2° in voorkomend geval aan het advies, vermeld in artikel 4.3.4, § 4, tweede lid;<br>
+3° aan de vereiste gegevens, vermeld in artikel 4.3.7;<br>
+4° aan de adviezen, opmerkingen en commentaren van de instanties en het publiek over het project-MER, verstrekt naar aanleiding van het openbaar onderzoek;<br>
+5° in voorkomend geval aan de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in artikel 4.3.4, § 2, en het publiek over het project-MER, verstrekt naar aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<br>
+<br>
+Het resultaat van de toetsing wordt opgenomen in het project-MER-verslag en leidt tot de goed- of afkeuring van het project-MER.<br>
+<br>
+De adviesverlenende instanties, vermeld in het eerste lid, zijn de instanties die de Vlaamse Regering heeft aangewezen en die vermeld zijn in de wetgeving van de desbetreffende vergunningsprocedure.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de wijze van raadpleging van de adviesverlenende instanties, vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het eerste lid, 5°, door de administratie.<br>
+<br>
+§ 3. De administratie bezorgt haar beslissing over de goed- of afkeuring van het project-MER:<br>
+1° aan de initiatiefnemer;<br>
+2° in voorkomend geval aan de administraties, overheidsinstellingen en openbare besturen, vermeld in artikel 4.3.4, § 4, eerste lid;<br>
+3° aan de adviesverlenende instanties, vermeld in paragraaf 2, derde lid;<br>
+4° in voorkomend geval aan de bevoegde autoriteiten, vermeld in artikel 4.3.4, § 2;<br>
+5° aan de overheid die in eerste aanleg een beslissing over de vergunningsaanvraag voor het project zal nemen.<br>
+<br>
+De beslissing bevat ook een afschrift van het project-MER-verslag, vermeld in paragraaf 2, tweede lid.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de goed- of afkeuring van het project-MER en voor de bekendmaking ervan.</p>
 
 ### ART. 4.3.9.
 
-§ 1. Vanaf de betekening van de beslissing, vermeld in artikel 4.3.8, § 3,   liggen het project-MER, het project-MER-verslag, vermeld in artikel 4.3.8, § 2,   tweede lid, en in voorkomend geval het advies, vermeld in artikel 4.3.4, § 4,   tweede lid, ter inzage bij de administratie.<BR><BR>§ 2. De initiatiefnemer kan   aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel 15   van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur,   gegevens in de in § 1 bedoelde stukken aan ter inzagelegging moet onttrekken.   Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het   voltooide project-MER aan de administratie bezorgt. Hij duidt in zijn vraag aan   over welke gegevens het gaat en op welke gronden de onttrekking aan de ter   inzagelegging moet gebeuren.<BR><BR>De administratie neemt een beslissing over   de vraag van de initiatiefnemer uiterlijk op het moment van de goed- of   afkeuring van het project-MER. Ze maakt een belangenafweging overeenkomstig het   bedoelde artikel. De administratie kan de bedoelde gegevens geheel of   gedeeltelijk aan ter inzagelegging onttrekken. Als ze beslist tot hele of   gedeeltelijke onttrekking aan de ter inzagelegging van de aangeduide gegevens,   moet ze de relevante gegevens opnemen in een bijlage. De bijlage wordt niet ter   inzage gelegd van het publiek.<BR><BR>§ 3. De Vlaamse regering kan nadere   regelen vaststellen inzake het gebruik van het project-MER bij de verdere   besluitvorming over het voorgenomen project en inzake de bekendmaking van het   definitieve besluit over het project.<BR><BR>§ 4. De Vlaamse regering kan nadere   regelen vaststellen betreffende de wijze waarop de bevoegde autoriteiten en de   burgers van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel   4.3.4, § 2, hun commentaar op het goedgekeurde project-MER en het voorgenomen   project kunnen meedelen, en betreffende de wijze waarop hierover overleg wordt   gepleegd.<BR><BR>Het definitieve vergunningsbesluit wordt opgestuurd aan de   bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of   gewesten, vermeld in artikel 4.3.4, § 2.<BR><BR>§ 5. De Vlaamse Regering kan   nadere regels vaststellen betreffende de wijze waarop de overheid die door de   bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld   in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een vergunningsaanvraag   die al dan niet een project-MER omvat, de administratie dan wel de betrokken   provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en   betreffende het in voorkomend geval te organiseren openbaar onderzoek.<BR><BR>De   Vlaamse Regering kan tevens nadere regels vaststellen betreffende het   verstrekken van een advies over de vergunningsaanvraag, vermeld in het eerste   lid, aan de bevoegde autoriteit van de lidstaten, verdragspartijen en/of   gewesten, vermeld in artikel 4.3.4, § 2.<BR><BR>De Vlaamse Regering kan ten   slotte nadere regels vaststellen betreffende de wijze waarop de overheid die   door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten,   vermeld in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een beslissing   over een vergunningsaanvraag die al dan niet een project-MER omvat, de   administratie dan wel de betrokken provincie waar de effecten zich kunnen   voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval ter   beschikking stellen van deze beslissing aan het publiek.
+§ 1. Vanaf de betekening van de beslissing, vermeld in artikel 4.3.8, § 3, liggen het project-MER, het project-MER-verslag, vermeld in artikel 4.3.8, § 2, tweede lid, en in voorkomend geval het advies, vermeld in artikel 4.3.4, § 4, tweede lid, ter inzage bij de administratie.<br>
+<br>
+§ 2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, gegevens in de in § 1 bedoelde stukken aan ter inzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide project-MER aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
+<br>
+De administratie neemt een beslissing over de vraag van de initiatiefnemer uiterlijk op het moment van de goed- of afkeuring van het project-MER. Ze maakt een belangenafweging overeenkomstig het bedoelde artikel. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan ter inzagelegging onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de ter inzagelegging van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage wordt niet ter inzage gelegd van het publiek.<br>
+<br>
+§ 3. De Vlaamse regering kan nadere regelen vaststellen inzake het gebruik van het project-MER bij de verdere besluitvorming over het voorgenomen project en inzake de bekendmaking van het definitieve besluit over het project.<br>
+<br>
+§ 4. De Vlaamse regering kan nadere regelen vaststellen betreffende de wijze waarop de bevoegde autoriteiten en de burgers van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, hun commentaar op het goedgekeurde project-MER en het voorgenomen project kunnen meedelen, en betreffende de wijze waarop hierover overleg wordt gepleegd.<br>
+<br>
+Het definitieve vergunningsbesluit wordt opgestuurd aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2.<br>
+<br>
+§ 5. De Vlaamse Regering kan nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een vergunningsaanvraag die al dan niet een project-MER omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval te organiseren openbaar onderzoek.<br>
+<br>
+De Vlaamse Regering kan tevens nadere regels vaststellen betreffende het verstrekken van een advies over de vergunningsaanvraag, vermeld in het eerste lid, aan de bevoegde autoriteit van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2.<br>
+<br>
+De Vlaamse Regering kan ten slotte nadere regels vaststellen betreffende de wijze waarop de overheid die door de bevoegde autoriteiten van de lidstaten, verdragspartijen en/of gewesten, vermeld in artikel 4.3.4, § 2, op de hoogte wordt gebracht van een beslissing over een vergunningsaanvraag die al dan niet een project-MER omvat, de administratie dan wel de betrokken provincie waar de effecten zich kunnen voordoen, hiervan op de hoogte brengt en betreffende het in voorkomend geval ter beschikking stellen van deze beslissing aan het publiek.
 
 ## [HOOFDSTUK IV VEILIGHEIDSRAPPORTAGE OVER RUIMTELIJKE UITVOERINGSPLANNEN (ing. decr. 18 december 2002, art. 4)]
 
@@ -991,7 +1039,56 @@ De Vlaamse regering kan nadere regelen vaststellen inzake de opmaak, het onderzo
 
 ### ART. 4.5.2.
 
-<P>§ 1. Voor de initiatiefnemer de vergunningsaanvraag indient, meldt hij aan de   administratie zijn voornemen om een OVR op te stellen.<BR><BR>Die aanmelding   bevat ten minste:<BR>1° een beschrijving van het project, met inbegrip van een   beknopte beschrijving van de overwogen alternatieven voor het project of voor   onderdelen ervan;<BR>2° de reden van de rapportageplicht van de   inrichting;<BR>3° de vergunningen die moeten worden aangevraagd en in voorkomend   geval de bestaande vergunningstoestand;<BR>4° een beschrijving van het   procesverloop, met in voorkomend geval een beschrijving van het   participatietraject;<BR>5° in voorkomend geval de gegevens die de administratie   nodig heeft voor het aanvangen van de grensoverschrijdende   informatie-uitwisseling, vermeld in paragraaf 2;<BR>6° de relevante gegevens   over de voorgestelde erkende deskundige, vermeld in artikel 4.5.5, in voorkomend   geval aangevuld met de lijst van deskundigen die de erkende deskundige zullen   bijstaan en de taakverdeling tussen de deskundigen;<BR>7° overeenkomstig de   vereisten van artikel 4.5.6 en van het v.r.-richtlijnenboek, een beschrijving   van de inhoudelijke aanpak, met inbegrip van de methodologie van het OVR;<BR>8°   in voorkomend geval een verzoek tot advies over de te verstrekken informatie,   vermeld in artikel 4.5.6;<BR>9° in voorkomend geval de gronden voor de vraag tot   onttrekking aan bekendmaking van de aanmelding of aangeduide delen   ervan.<BR><BR>De administratie kan aan de initiatiefnemer steeds vragen om   aanvullende informatie te verstrekken. De procedure kan pas worden voortgezet   nadat de administratie de door haar gevraagde informatie heeft   ontvangen.<BR><BR>De Vlaamse Regering kan nadere regels vaststellen voor de   informatie die in aanmelding opgenomen moet worden. Dit kan zowel gaan om   aanvullende informatie die niet wordt vermeld in het tweede lid als om een   verdere verduidelijking van de informatie vermeld in het tweede lid.<BR><BR>§ 2.   Als uit de aanmelding, vermeld in paragraaf 1, blijkt dat het project ten   gevolge van een zwaar ongeval betekenisvolle effecten kan hebben voor mens of   milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het   verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen   dat op 17 maart 1992 in Helsinki werd ondertekend, of in andere gewesten, of als   de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom   verzoeken, meldt de administratie het project aan de bevoegde autoriteiten van   de lidstaten, verdragspartijen of gewesten in kwestie, met de vraag of ze hun   commentaar aan de administratie kunnen meedelen. Die melding omvat ten minste de   volgende informatie:<BR>1° een afschrift van de aanmelding, vermeld in paragraaf   1;<BR>2° een beschrijving van de rapportageprocedure die op het voorgenomen   project van toepassing is;<BR>3° informatie over de vergunningsplicht waaraan   het voorgenomen project onderworpen is.<BR><BR>De administratie brengt de   initiatiefnemer ervan op de hoogte dat het project aan de bevoegde autoriteiten   van de lidstaten, verdragspartijen of gewesten in kwestie werd gemeld.<BR><BR>§   3. De administratie neemt een beslissing over de opstellers van het OVR, vermeld   in artikel 4.5.5, en deelt haar beslissing aan de initiatiefnemer mee binnen de   termijn en op de wijze die wordt bepaald door de Vlaamse Regering.<BR><BR>§ 4.   Als de aanmelding, vermeld in paragraaf 1, een verzoek tot advies als vermeld in   paragraaf 1, tweede lid, 8°, bevat, verleent de administratie een advies over de   informatie die de initiatiefnemer overeenkomstig artikel 4.5.6 moet   verstrekken.<BR><BR>§ 5. De administratie maakt de aanmelding, vermeld in   paragraaf 1, binnen de door de Vlaamse Regering bepaalde termijn bekend op haar   website.<BR><BR>Als de initiatiefnemer in de aanmelding een vraag stelde tot   onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de   administratie in haar beslissing een belangenafweging overeenkomstig artikel 15   van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur. De   administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan   bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan   bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan   bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet   bekendgemaakt.<BR><BR>Tegen de beslissing tot onttrekking aan bekendmaking staat   beroep open overeenkomstig artikel 22 tot en met 27 van het decreet van 26 maart   2004 betreffende de openbaarheid van bestuur.<BR><BR>§ 6. De Vlaamse Regering   kan nadere regels vaststellen voor de aanmeldingsprocedure, de grens- en   gewestgrensoverschrijdende procedure en de procedure van adviesverlening vanwege   de administratie.<BR><BR>§ 7. De initiatiefnemer kan voorafgaand aan het   indienen van de vergunningsaanvraag aan de administratie vragen dat het OVR   inhoudelijk op zijn kwaliteit wordt getoetst.<BR><BR>In de gevallen, vermeld in   het eerste lid, toetst de administratie het OVR inhoudelijk aan:<BR>1° de   beslissing, vermeld in paragraaf 3;<BR>2° de beschrijving van de inhoudelijke   aanpak van het OVR, vermeld in paragraaf 1, tweede lid, 7° ;<BR>3° in voorkomend   geval het advies, vermeld in paragraaf 4;<BR>4° de vereiste gegevens, vermeld in   artikel 4.5.6;<BR>5° in voorkomend geval de adviezen, opmerkingen en commentaren   van de bevoegde autoriteiten, vermeld in paragraaf 2.<BR><BR>Het resultaat van   de toetsing leidt tot de voorlopige goed- of afkeuring van het OVR.<BR><BR>De   administratie bezorgt haar beslissing over de voorlopige goed- of afkeuring van   het OVR binnen een door de Vlaamse Regering bepaalde termijn aan de   initiatiefnemer.<BR><BR>De Vlaamse Regering kan nadere regels vaststellen voor   de voorlopige goed- of afkeuring van het OVR en voor de bekendmaking   ervan.</P>
+<p>§ 1. Voor de initiatiefnemer de vergunningsaanvraag indient, meldt hij aan de administratie zijn voornemen om een OVR op te stellen.<br>
+<br>
+Die aanmelding bevat ten minste:<br>
+1° een beschrijving van het project, met inbegrip van een beknopte beschrijving van de overwogen alternatieven voor het project of voor onderdelen ervan;<br>
+2° de reden van de rapportageplicht van de inrichting;<br>
+3° de vergunningen die moeten worden aangevraagd en in voorkomend geval de bestaande vergunningstoestand;<br>
+4° een beschrijving van het procesverloop, met in voorkomend geval een beschrijving van het participatietraject;<br>
+5° in voorkomend geval de gegevens die de administratie nodig heeft voor het aanvangen van de grensoverschrijdende informatie-uitwisseling, vermeld in paragraaf 2;<br>
+6° de relevante gegevens over de voorgestelde erkende deskundige, vermeld in artikel 4.5.5, in voorkomend geval aangevuld met de lijst van deskundigen die de erkende deskundige zullen bijstaan en de taakverdeling tussen de deskundigen;<br>
+7° overeenkomstig de vereisten van artikel 4.5.6 en van het v.r.-richtlijnenboek, een beschrijving van de inhoudelijke aanpak, met inbegrip van de methodologie van het OVR;<br>
+8° in voorkomend geval een verzoek tot advies over de te verstrekken informatie, vermeld in artikel 4.5.6;<br>
+9° in voorkomend geval de gronden voor de vraag tot onttrekking aan bekendmaking van de aanmelding of aangeduide delen ervan.<br>
+<br>
+De administratie kan aan de initiatiefnemer steeds vragen om aanvullende informatie te verstrekken. De procedure kan pas worden voortgezet nadat de administratie de door haar gevraagde informatie heeft ontvangen.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de informatie die in aanmelding opgenomen moet worden. Dit kan zowel gaan om aanvullende informatie die niet wordt vermeld in het tweede lid als om een verdere verduidelijking van de informatie vermeld in het tweede lid.<br>
+<br>
+§ 2. Als uit de aanmelding, vermeld in paragraaf 1, blijkt dat het project ten gevolge van een zwaar ongeval betekenisvolle effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in verdragspartijen bij het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen dat op 17 maart 1992 in Helsinki werd ondertekend, of in andere gewesten, of als de bevoegde autoriteiten van die lidstaten, verdragspartijen of gewesten daarom verzoeken, meldt de administratie het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie, met de vraag of ze hun commentaar aan de administratie kunnen meedelen. Die melding omvat ten minste de volgende informatie:<br>
+1° een afschrift van de aanmelding, vermeld in paragraaf 1;<br>
+2° een beschrijving van de rapportageprocedure die op het voorgenomen project van toepassing is;<br>
+3° informatie over de vergunningsplicht waaraan het voorgenomen project onderworpen is.<br>
+<br>
+De administratie brengt de initiatiefnemer ervan op de hoogte dat het project aan de bevoegde autoriteiten van de lidstaten, verdragspartijen of gewesten in kwestie werd gemeld.<br>
+<br>
+§ 3. De administratie neemt een beslissing over de opstellers van het OVR, vermeld in artikel 4.5.5, en deelt haar beslissing aan de initiatiefnemer mee binnen de termijn en op de wijze die wordt bepaald door de Vlaamse Regering.<br>
+<br>
+§ 4. Als de aanmelding, vermeld in paragraaf 1, een verzoek tot advies als vermeld in paragraaf 1, tweede lid, 8°, bevat, verleent de administratie een advies over de informatie die de initiatiefnemer overeenkomstig artikel 4.5.6 moet verstrekken.<br>
+<br>
+§ 5. De administratie maakt de aanmelding, vermeld in paragraaf 1, binnen de door de Vlaamse Regering bepaalde termijn bekend op haar website.<br>
+<br>
+Als de initiatiefnemer in de aanmelding een vraag stelde tot onttrekking aan bekendmaking van de aanmelding of delen ervan, maakt de administratie in haar beslissing een belangenafweging overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018. De administratie kan de gegevens in kwestie geheel of gedeeltelijk onttrekken aan bekendmaking. Als ze beslist tot gehele of gedeeltelijke onttrekking aan bekendmaking van de aangeduide gegevens, moet ze de gegevens die aan bekendmaking worden onttrokken, opnemen in een bijlage. De bijlage wordt niet bekendgemaakt.<br>
+<br>
+Tegen de beslissing tot onttrekking aan bekendmaking staat beroep open overeenkomstig artikel II.48 tot en met artikel II.51 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+§ 6. De Vlaamse Regering kan nadere regels vaststellen voor de aanmeldingsprocedure, de grens- en gewestgrensoverschrijdende procedure en de procedure van adviesverlening vanwege de administratie.<br>
+<br>
+§ 7. De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag aan de administratie vragen dat het OVR inhoudelijk op zijn kwaliteit wordt getoetst.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, toetst de administratie het OVR inhoudelijk aan:<br>
+1° de beslissing, vermeld in paragraaf 3;<br>
+2° de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in paragraaf 1, tweede lid, 7° ;<br>
+3° in voorkomend geval het advies, vermeld in paragraaf 4;<br>
+4° de vereiste gegevens, vermeld in artikel 4.5.6;<br>
+5° in voorkomend geval de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in paragraaf 2.<br>
+<br>
+Het resultaat van de toetsing leidt tot de voorlopige goed- of afkeuring van het OVR.<br>
+<br>
+De administratie bezorgt haar beslissing over de voorlopige goed- of afkeuring van het OVR binnen een door de Vlaamse Regering bepaalde termijn aan de initiatiefnemer.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de voorlopige goed- of afkeuring van het OVR en voor de bekendmaking ervan.</p>
 
 ### ART. 4.5.3.
 
@@ -1045,13 +1142,38 @@ d) beschrijving van het interne noodplan, bedoeld in artikel 15 van het samenwer
 
 ### ART. 4.5.7.
 
-<P>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende   vergunningsprocedure, bezorgt de initiatiefnemer het OVR aan de overheid die in   eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het   project.<BR><BR>De initiatiefnemer kan voorafgaand aan het indienen van de   vergunningsaanvraag bij de overheid, vermeld in het eerste lid, aan de   administratie vragen om overeenkomstig artikel 15 van het decreet van 26 maart   2004 betreffende de openbaarheid van bestuur, bepaalde delen uit het OVR aan het   openbaar onderzoek binnen de vergunningsprocedure te onttrekken. Hij voegt bij   zijn vraag tevens het voltooide OVR toe en duidt over welke gegevens het gaat en   op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De   administratie maakt een belangenafweging overeenkomstig het artikel 15 in   kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de   openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking   aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens   opnemen in een bijlage. De bijlage bij het OVR wordt niet ter inzage gelegd van   het publiek tijdens de vergunningsprocedure.<BR><BR>De Vlaamse Regering kan   nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de   administratie met de administraties betrokken in de   vergunningsprocedure.<BR><BR>§ 2. Na raadpleging van de adviesverlenende   instanties en na afsluiting van het openbaar onderzoek van de   vergunningsprocedure, toetst de administratie het OVR inhoudelijk:<BR>1° aan de   beslissing, vermeld in artikel 4.5.2, § 3;<BR>2° aan de beschrijving van de   inhoudelijke aanpak van het OVR, vermeld in artikel 4.5.2, § 1, tweede lid, 7°   ;<BR>3° in voorkomend geval aan het advies, vermeld in artikel 4.5.2, § 4;<BR>4°   aan de vereiste gegevens, vermeld in artikel 4.5.6;<BR>5° aan de adviezen,   opmerkingen en commentaren van de instanties en het publiek over het OVR,   verstrekt naar aanleiding van het openbaar onderzoek;<BR>6° in voorkomend geval   aan de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten,   vermeld in artikel 4.5.2, § 2, en het publiek over het OVR, verstrekt naar   aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<BR><BR>Het   resultaat van de toetsing wordt opgenomen in het OVR-verslag en leidt tot de   goed- of afkeuring van het OVR.<BR><BR>De Vlaamse Regering kan nadere regels   vaststellen voor de wijze van raadpleging van de adviesverlenende instanties,   vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het   eerste lid, 5°, door de administratie.<BR><BR>§ 3. De administratie bezorgt haar   beslissing over de goed- of afkeuring van het OVR:<BR>1° aan de   initiatiefnemer;<BR>2° aan de administraties, overheidsinstellingen en openbare   besturen die de Vlaamse Regering heeft aangewezen;<BR>3° in voorkomend geval aan   de bevoegde autoriteiten, vermeld in artikel 4.5.2, § 2;<BR>4° aan de overheid   die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor   het project.<BR>De beslissing bevat ook een afschrift van het OVR-verslag,   vermeld in paragraaf 2, tweede lid.<BR><BR>§ 4. De Vlaamse Regering kan nadere   regels vaststellen voor de goed- of afkeuring van het OVR en de bekendmaking   ervan.</P>
+<p>§ 1. Op de wijze, vermeld in de wetgeving van de desbetreffende vergunningsprocedure, bezorgt de initiatiefnemer het OVR aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
+<br>
+De initiatiefnemer kan voorafgaand aan het indienen van de vergunningsaanvraag bij de overheid, vermeld in het eerste lid, aan de administratie vragen om overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, bepaalde delen uit het OVR aan het openbaar onderzoek binnen de vergunningsprocedure te onttrekken. Hij voegt bij zijn vraag tevens het voltooide OVR toe en duidt over welke gegevens het gaat en op welke gronden de onttrekking aan de openbaarheid moet gebeuren. De administratie maakt een belangenafweging overeenkomstig het artikel II.36 in kwestie. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan de openbaarheid onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de openbaarheid van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage bij het OVR wordt niet ter inzage gelegd van het publiek tijdens de vergunningsprocedure.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de samenwerking en informatie-uitwisseling van de administratie met de administraties betrokken in de vergunningsprocedure.<br>
+<br>
+§ 2. Na raadpleging van de adviesverlenende instanties en na afsluiting van het openbaar onderzoek van de vergunningsprocedure, toetst de administratie het OVR inhoudelijk:<br>
+1° aan de beslissing, vermeld in artikel 4.5.2, § 3;<br>
+2° aan de beschrijving van de inhoudelijke aanpak van het OVR, vermeld in artikel 4.5.2, § 1, tweede lid, 7° ;<br>
+3° in voorkomend geval aan het advies, vermeld in artikel 4.5.2, § 4;<br>
+4° aan de vereiste gegevens, vermeld in artikel 4.5.6;<br>
+5° aan de adviezen, opmerkingen en commentaren van de instanties en het publiek over het OVR, verstrekt naar aanleiding van het openbaar onderzoek;<br>
+6° in voorkomend geval aan de adviezen, opmerkingen en commentaren van de bevoegde autoriteiten, vermeld in artikel 4.5.2, § 2, en het publiek over het OVR, verstrekt naar aanleiding van het openbaar onderzoek in grensoverschrijdend verband.<br>
+<br>
+Het resultaat van de toetsing wordt opgenomen in het OVR-verslag en leidt tot de goed- of afkeuring van het OVR.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen voor de wijze van raadpleging van de adviesverlenende instanties, vermeld in het eerste lid, en van de bevoegde autoriteiten, vermeld in het eerste lid, 5°, door de administratie.<br>
+<br>
+§ 3. De administratie bezorgt haar beslissing over de goed- of afkeuring van het OVR:<br>
+1° aan de initiatiefnemer;<br>
+2° aan de administraties, overheidsinstellingen en openbare besturen die de Vlaamse Regering heeft aangewezen;<br>
+3° in voorkomend geval aan de bevoegde autoriteiten, vermeld in artikel 4.5.2, § 2;<br>
+4° aan de overheid die in eerste aanleg een beslissing zal nemen over de vergunningsaanvraag voor het project.<br>
+De beslissing bevat ook een afschrift van het OVR-verslag, vermeld in paragraaf 2, tweede lid.<br>
+<br>
+§ 4. De Vlaamse Regering kan nadere regels vaststellen voor de goed- of afkeuring van het OVR en de bekendmaking ervan.</p>
 
 ### ART. 4.5.8.
 
 § 1. Vanaf de betekening van de beslissing, vermeld in artikel 4.5.7, § 3, liggen het OVR, het OVR-verslag, vermeld in artikel 4.5.7, § 2, tweede lid, en in voorkomend geval het advies, vermeld in artikel 4.5.2, § 4, ter inzage bij de administratie.<br>
 <br>
-§ 2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel 15 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, gegevens in de in § 1 bedoelde stukken aan terinzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide OVR aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
+§ 2. De initiatiefnemer kan aan de administratie vragen om te onderzoeken of ze, overeenkomstig artikel II.36 van het Bestuursdecreet van 7 december 2018, gegevens in de in § 1 bedoelde stukken aan terinzagelegging moet onttrekken. Hij stelt zijn vraag aan de administratie uiterlijk op het moment dat hij het voltooide OVR aan de administratie bezorgt. Hij duidt in zijn vraag aan over welke gegevens het gaat en op welke gronden de onttrekking aan de ter inzagelegging moet gebeuren.<br>
 <br>
 De administratie neemt een beslissing over de vraag van de initiatiefnemer uiterlijk op het moment van de goed- of afkeuring van het OVR. Ze maakt een belangenafweging overeenkomstig het bedoelde artikel. De administratie kan de bedoelde gegevens geheel of gedeeltelijk aan ter inzagelegging onttrekken. Als ze beslist tot hele of gedeeltelijke onttrekking aan de ter inzagelegging van de aangeduide gegevens, moet ze de relevante gegevens opnemen in een bijlage. De bijlage wordt niet ter inzage gelegd van het publiek.<br>
 <br>
@@ -1574,7 +1696,15 @@ De inkomsten die voortvloeien uit de opbrengst van de administratieve   geldboet
 
 ### ART. 10.1.1.
 
-Voor de toepassing van deze titel wordt verstaan onder:<BR>1°   Kaderdecreet: kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>2°   Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam   beheer van materiaalkringlopen en afvalstoffen;<BR>3° samenwerkingsakkoord   verpakkingsafval: samenwerkingsakkoord van 30 mei 1996 betreffende de preventie   en het beheer van verpakkingsafval;<BR>4° Bodemsaneringsdecreet: decreet van 22   februari 1995 betreffende de bodemsanering;<BR>5° Oppervlaktewaterenwet: wet van   26 maart 1971 op de bescherming van de oppervlaktewateren tegen   verontreiniging;<BR>6° decreet integraal waterbeleid: het decreet van 18 juli   2003 betreffende het integraal waterbeleid;<BR>7° OVAM: Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>8° VMM: Vlaamse Milieumaatschappij
+Voor de toepassing van deze titel wordt verstaan onder:<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° Materialendecreet : het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br>
+3° samenwerkingsakkoord verpakkingsafval: samenwerkingsakkoord van 30 mei 1996 betreffende de preventie en het beheer van verpakkingsafval;<br>
+4° Bodemsaneringsdecreet: decreet van 22 februari 1995 betreffende de bodemsanering;<br>
+5° ...;<br>
+6° decreet integraal waterbeleid: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+7° OVAM: Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+8° VMM: Vlaamse Milieumaatschappij
 
 ## [HOOFDSTUK II DE VLAAMSE MILIEUMAATSCHAPPIJ
 
@@ -1582,17 +1712,19 @@ Voor de toepassing van deze titel wordt verstaan onder:<BR>1°   Kaderdecreet: k
 
 ### ART. 10.2.1.
 
-§ 1. Er wordt een intern verzelfstandigd agentschap met   rechtspersoonlijkheid opgericht zoals bedoeld in artikel 10 van het   Kaderdecreet. Dat agentschap heeft als naam Vlaamse Milieumaatschappij. Het is   de rechtsopvolger van de Vlaamse Milieumaatschappij, bedoeld in artikel 32bis, §   1, van de Oppervlaktewaterenwet.<BR><BR>§ 2. De Vlaamse regering bepaalt tot   welk homogeen beleidsdomein het agentschap behoort.  <span class="reference">(ing. decr. 7 mei 2004, art. 5, I: 1 april   2006)</span> ]
+§ 1. Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht zoals bedoeld in artikel III.4 tot en met III.6 van het Bestuursdecreet. Dat agentschap heeft als naam Vlaamse Milieumaatschappij. Het is de rechtsopvolger van de Vlaamse Milieumaatschappij, bedoeld in artikel 32bis, § 1, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, zoals gewijzigd door het decreet van 12 december 1990.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort. (ing. decr. 7 mei 2004, art. 5, I: 1 april 2006) ]
 
 ## [AFDELING 2 MISSIE, TAKEN EN BEVOEGDHEDEN (ing. decr. 7 mei 2004, art. 5)]
 
 ### ART. 10.2.2.
 
-De Vlaamse Milieumaatschappij heeft als missie bij te dragen tot de   realisatie van de doelstellingen van het milieubeleid, bedoeld in artikel 1.2.1,   § 1, door het voorkomen, beperken en ongedaan maken van schadelijke effecten   voor watersystemen, verontreiniging van de atmosfeer, en tot de realisatie van   de doelstellingen van het integraal waterbeleid, bedoeld in artikel 5 van het   decreet integraal waterbeleid.  <span class="reference">(ing. decr. 7 mei 2004, art. 5, I: 1 april 2006)</span> ]
+De Vlaamse Milieumaatschappij heeft als missie bij te dragen tot de realisatie van de doelstellingen van het milieubeleid, bedoeld in artikel 1.2.1, § 1, door het voorkomen, beperken en ongedaan maken van schadelijke effecten voor watersystemen, verontreiniging van de atmosfeer, en tot de realisatie van de doelstellingen van het integraal waterbeleid, bedoeld in artikel&nbsp;1.2.2. van het decreet integraal waterbeleid.
 
 ### ART. 10.2.3.
 
-§ 1. De Vlaamse Milieumaatschappij heeft als taak om bij te dragen tot het integraal waterbeleid, bedoeld in artikel 4 van het decreet integraal waterbeleid.<br>
+§ 1. De Vlaamse Milieumaatschappij heeft als taak om bij te dragen tot het integraal waterbeleid, bedoeld in artikel&nbsp;1.2.1. van het decreet integraal waterbeleid.<br>
 <br>
 De Vlaamse Milieumaatschappij vervult deze taak onder meer door:<br>
 1° het verzamelen, beoordelen en verwerken van gegevens en informatie door:<br>
@@ -1604,31 +1736,31 @@ e) het beoordelen van de hierboven bedoelde gegevens en informatie;<br>
 f) het verwerken van de hierboven bedoelde gegevens en informatie met het oog op het rapporteren en informeren hierover;<br>
 2° het opstellen en continu bijstellen van water- en vuilvrachtbalansen per stroomgebied en bekken;<br>
 3° de coördinatie en de organisatie van de planning van het integraal waterbeleid, in samenwerking binnen het beleidsdomein en onder coördinatie van de Vlaamse regering, door:<br>
-a) het verzorgen van het secretariaat en het ondersteunen van de planningscel van de Coördinatiecommissie Integraal Waterbeleid (CIW), bedoeld in artikel 25 van het decreet integraal waterbeleid, met het oog op:<br>
+a) het verzorgen van het secretariaat en het ondersteunen van de planningscel van de Coördinatiecommissie Integraal Waterbeleid (CIW), bedoeld in artikel&nbsp;1.5.2.2. van het decreet integraal waterbeleid, met het oog op:<br>
 b) het opmaken van de waterbeleidsnota;<br>
 c) het opmaken van de stroomgebiedbeheerplannen, inclusief de maatregelenprogramma's;<br>
 d) de organisatie van het openbaar onderzoek bij de stroomgebiedbeheerplannen;<br>
-e) het deelnemen aan de werkzaamheden van de bekkensecretariaten, vermeld in artikel 28 van het decreet betreffende het integraal waterbeleid, onder meer door de coördinatie van het opmaken van de stroomgebiedbeheerplannen, de bekkenvoortgangsrapporten en de wateruitvoeringsprogramma's;<br>
+e) het deelnemen aan de werkzaamheden van de bekkensecretariaten, vermeld in artikel&nbsp;1.5.3.3. van het decreet betreffende het integraal waterbeleid, onder meer door de coördinatie van het opmaken van de stroomgebiedbeheerplannen, de bekkenvoortgangsrapporten en de wateruitvoeringsprogramma's;<br>
 4° het verzorgen van de inbreng van het beleidsdomein in de planning van het integraal waterbeleid, in samenwerking binnen het beleidsdomein;<br>
 5°...;<br>
-6° het uitvoeren van de analyses en beoordelingen van de kenmerken van het stroomgebiedsdistrict, de effecten van de menselijke activiteiten op de toestand van het oppervlaktewater en het grondwater en van het watergebruik, bedoeld in artikel 60 van het decreet integraal waterbeleid;<br>
-7° het uitbrengen van het advies bij de watertoets, bedoeld in artikel 8, § 3, van het decreet integraal waterbeleid, voor die gevallen waarin de Vlaamse Milieumaatschappij door de Vlaamse regering is aangewezen als adviesverlenende instantie;<br>
+6° het uitvoeren van de analyses en beoordelingen van de kenmerken van het stroomgebiedsdistrict, de effecten van de menselijke activiteiten op de toestand van het oppervlaktewater en het grondwater en van het watergebruik, bedoeld in artikel&nbsp;1.7.3.1. van het decreet integraal waterbeleid;<br>
+7° het uitbrengen van het advies bij de watertoets, bedoeld in artikel&nbsp;1.3.1.1,§ 3, van het decreet integraal waterbeleid, voor die gevallen waarin de Vlaamse Milieumaatschappij door de Vlaamse regering is aangewezen als adviesverlenende instantie;<br>
 8° het opstellen, controleren en opvolgen van de investeringsprogramma's en de subsidiëringsprogramma's voor de zuivering van het afvalwater dat geloosd wordt in de openbare riolen en collectoren; de aansturing van de uitbouw van het gemeentelijke rioleringsnet met inbegrip van subsidiëring en het ecologisch en economisch toezicht op de uitbouw en het beheer van de zuiveringsinfrastructuur;<br>
-9° het beheren van het grondwater, met uitzondering van wat daarover is bepaald in artikel 31, § 2, derde lid, van het decreet integraal waterbeleid, en de voorstellen voor afbakening van waterwingebieden en beschermingszones;<br>
+9° het beheren van het grondwater en de voorstellen voor afbakening van waterwingebieden en beschermingszones;<br>
 10° met betrekking tot de onbevaarbare waterlopen:<br>
 a) de coördinatie van de uitvoering van de wet op de onbevaarbare waterlopen;<br>
 b) het bijhouden van de Vlaamse Hydrografische Atlas;<br>
 c) het beheren van onbevaarbare waterlopen van eerste categorie;<br>
 d) het beheren van de eigendommen van het Vlaamse Gewest van de niet-geklasseerde onbevaarbare waterlopen;<br>
-11° het bijdragen aan de normering en de karakterisering van de waterbodems, en het beheer van de waterbodems van de waterlopen van de eerste categorie, voor zover dat beheer overeenkomstig artikel 31, § 2, derde lid, van het decreet integraal waterbeleid niet wordt overgedragen aan het waterschap;<br>
+11° het bijdragen aan de normering en de karakterisering van de waterbodems, en het beheer van de waterbodems van de waterlopen van de eerste categorie;<br>
 12° het controleren en opvolgen van de werking van de polders en wateringen en de technische ondersteuning en subsidiëring van hun waterbeheer;<br>
 13° ...;<br>
 14° het bijdragen aan de beleidsvoorbereiding en het controleren en opvolgen van de ecologische aspecten van water bestemd voor menselijke aanwending;<br>
 15° het organiseren, controleren, opvolgen en ambtshalve optreden inzake de rattenbestrijding in het Vlaamse Gewest, het effectief bestrijden van ratten in of nabij oppervlaktewaterlichamen die onder de bevoegdheid vallen van het Vlaamse Gewest of in gebieden waarover een overeenkomst werd afgesloten;<br>
-16° het vestigen, innen en invorderen van de heffing op de waterverontreiniging, bedoeld in de Oppervlaktewaterenwet en de heffing op de winning van grondwater, bedoeld in het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
+16° het vestigen, innen en invorderen van de heffing waterverontreiniging en grondwater zoals vermeld in hoofdstuk II van titel IV van het decreet integraal waterbeleid;<br>
 17° het ontwikkelen van instrumenten en het uitwerken van maatregelen om de schadelijke effecten voor de watersystemen te voorkomen, te beperken of ongedaan te maken;<br>
 18° toezicht op de waterdistributiemaatschappijen met betrekking tot de doorrekening van de kosten verbonden aan de saneringsverplichting;<br>
-19° het op eenvoudig verzoek van de exploitanten van een openbaar waterdistributienetwerk, de in artikel 32septies, § 1, bedoelde vennootschap, de gemeenten, de gemeentebedrijven, de intercommunales, de intergemeentelijke samenwerkingsverbanden of de door de gemeente na publieke marktbevraging aangestelde entiteiten die door de gemeenten belast zijn met en instaan voor de aanleg, het aanpassen, het onderhoud of de exploitatie van gemeentelijke saneringsinfrastructuur, meedelen van gegevens waarover de Maatschappij beschikt van heffïngsplichtigen bedoeld in artikel 35quinquies en artikel 35septies van de Oppervlaktewaterenwet, voor zover die noodzakelijk zijn in het kader van de aanrekening van de bijdrage, zoals bedoeld in artikel 16bis, § 1, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en de vergoeding, zoals bedoeld in artikel 16quinquies, § 1, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending en artikel 32septies, § 4, van de Oppervlaktewaterenwet;<br>
+19° het op eenvoudig verzoek van de exploitanten van een openbaar waterdistributienetwerk, de Vennootschap bedoeld in artikel 2.6.1.1.1. van het decreet integraal waterbeleid, de gemeenten, de gemeentebedrijven, de intercommunales, de intergemeentelijke samenwerkingsverbanden of de door de gemeente na publieke marktbevraging aangestelde entiteiten die door de gemeente belast zijn met en instaan voor de aanleg, het aanpassen, het onderhoud of de exploitatie van gemeentelijke saneringsinfrastructuur, meedelen van gegevens waarover de VMM beschikt van heffingsplichtigen bedoeld in artikel 4.2.2.3.1 en artikel 4.2.2.5.1. van het decreet integraal waterbeleid, voor zover die noodzakelijk zijn in het kader van de aanrekening van de bijdrage, zoals bedoeld in artikel 4.3.1.1.1 van het decreet integraal waterbeleid, en de vergoeding, zoals bedoeld in artikel 4.3.2.1 en artikel 2.6.2.2, § 4, van het decreet integraal waterbeleid;<br>
 20° het opmaken van zoneringsplannen voor de sanering van het afvalwater. De zoneringsplannen maken een onderscheid tussen de gebieden met collectieve sanering en de gebieden met individuele sanering. In uitvoering van één of meerdere zoneringsplannen wordt een gebiedsdekkend uitvoeringsplan per zuiveringsgebied opgemaakt waarin de uitvoering en de timing van de projecten met betrekking tot respectievelijk de gemeentelijke en bovengemeentelijke saneringsverplichting geregeld zijn, evenals de noodzakelijke afstemming van de projecten. Deze zonerings- en uitvoeringsplannen worden bindend voor derden na goedkeuring door de Vlaamse Regering.<br>
 21° het ondersteunen van de uitbouw van grijswatercircuits ter bescherming van de kwetsbare watervoerende lagen door subsidiëring van grijswaterleveranciers.<br>
 <br>
@@ -1666,7 +1798,7 @@ e) het verwerken van de hierboven vermelde gegevens en informatie met het oog op
 8° opbrengsten uit de verkoop van eigen participaties;<br>
 9° de subsidies waarvoor de Vlaamse Milieumaatschappij als begunstigde in aanmerking komt;<br>
 10° terugvorderingen van ten onrechte gedane uitgaven;<br>
-11° vergoedingen voor prestaties aan derden, volgens de voorwaarden, bepaald in de beheersovereenkomst;<br>
+11° vergoedingen voor prestaties aan derden;<br>
 12° opbrengsten uit intellectuele rechten;<br>
 13° de inkomsten voortvloeiend uit :<br>
 a) ...;<br>
@@ -1698,7 +1830,9 @@ In afwijking van het eerste lid zijn de in paragraaf 1, 13° en 14°, genoemde o
 
 ### ART. 10.3.1.
 
-§ 1. Er wordt een intern verzelfstandigd agentschap met   rechtspersoonlijkheid opgericht als bedoeld in artikel 10 van het Kaderdecreet.   Dat agentschap heeft als naam Openbare Vlaamse Afvalstoffenmaatschappij. Het is   de rechtsopvolger van de Openbare Afvalstoffenmaatschappij voor het Vlaamse   Gewest, bedoeld in artikel 38 van Afvalstoffendecreet.<BR><BR>§ 2. De Vlaamse   regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.  <span class="reference">(ing. decr. 7 mei 2004,   art. 5, I:1 april 2006)</span> ]
+§ 1. Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel III.4 tot en met III.6 van het Bestuursdecreet. Dat agentschap heeft als naam Openbare Vlaamse Afvalstoffenmaatschappij. Het is de rechtsopvolger van de Openbare Afvalstoffenmaatschappij voor het Vlaamse Gewest, bedoeld in artikel 38 van Afvalstoffendecreet.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort. (ing. decr. 7 mei 2004, art. 5, I:1 april 2006) ]
 
 ## [AFDELING 2 MISSIE, TAKEN EN BEVOEGDHEDEN (ing. decr. 7 mei 2004, art. 5)]
 
@@ -1718,7 +1852,27 @@ De OVAM heeft als missie bij te dragen tot de realisatie van de doelstellingen v
 
 ### ART. 10.3.5.
 
-§ 1. De OVAM kan beschikken over de volgende ontvangsten:<BR>1°   dotaties;<BR>2° leningen;<BR>3° fiscale heffingen voor zover ze bij decreet   toegewezen zijn aan de OVAM;<BR>4° retributies voor zover ze bij decreet   toegewezen zijn aan de OVAM;<BR>5° ontvangsten voortvloeiend uit daden van   beheer of beschikking met betrekking tot eigen domeingoederen;<BR>6° prijzen,   schenkingen en legaten in contanten;<BR>7° inkomsten uit eigen participaties en   uit door de OVAM verstrekte leningen aan derden;<BR>8° opbrengsten uit de   verkoop van eigen participaties;<BR>9° de subsidies waarvoor de OVAM als   begunstigde in aanmerking komt;<BR>10° terugvorderingen van ten onrechte gedane   uitgaven;<BR>11° vergoedingen voor prestaties aan derden, volgens de   voorwaarden, bepaald in de beheersovereenkomst;<BR>12° opbrengsten uit   intellectuele rechten;<BR>13° inkomsten uit het op de markt brengen en verkopen   van producten, die door terugwinning en regeneratie verkregen zijn, en de   afvalstoffen die voor hergebruik geschikt zijn;<BR>14°teruggevorderde middelen   uit ambtshalve verwijdering van afvalstoffen en ambtshalve   bodemsanering.<BR><BR>§ 2. Tenzij anders is bepaald in een decreet worden de   ontvangsten, bedoeld in § 1 beschouwd als ontvangsten die bestemd zijn voor de   gezamenlijke uitgaven.<BR><BR>§ 3. De OVAM kan schenkingen of legaten   aanvaarden. Het hoofd van het agentschap beoordeelt vooraf de opportuniteit en   de risico's verbonden aan de aanvaarding.<BR><BR>§ 4. De OVAM kan de kennis die   ze heeft opgedaan bij de uitoefening van haar missie en taken te gelde maken in   binnen- en buitenland.  <span class="reference">(ing. decr. 7 mei 2004, art. 5, I: 1 april 2006)</span> ]
+§ 1. De OVAM kan beschikken over de volgende ontvangsten:<br>
+1° dotaties;<br>
+2° leningen;<br>
+3° fiscale heffingen voor zover ze bij decreet toegewezen zijn aan de OVAM;<br>
+4° retributies voor zover ze bij decreet toegewezen zijn aan de OVAM;<br>
+5° ontvangsten voortvloeiend uit daden van beheer of beschikking met betrekking tot eigen domeingoederen;<br>
+6° prijzen, schenkingen en legaten in contanten;<br>
+7° inkomsten uit eigen participaties en uit door de OVAM verstrekte leningen aan derden;<br>
+8° opbrengsten uit de verkoop van eigen participaties;<br>
+9° de subsidies waarvoor de OVAM als begunstigde in aanmerking komt;<br>
+10° terugvorderingen van ten onrechte gedane uitgaven;<br>
+11° vergoedingen voor prestaties aan derden;<br>
+12° opbrengsten uit intellectuele rechten;<br>
+13° inkomsten uit het op de markt brengen en verkopen van producten, die door terugwinning en regeneratie verkregen zijn, en de afvalstoffen die voor hergebruik geschikt zijn;<br>
+14°teruggevorderde middelen uit ambtshalve verwijdering van afvalstoffen en ambtshalve bodemsanering.<br>
+<br>
+§ 2. Tenzij anders is bepaald in een decreet worden de ontvangsten, bedoeld in § 1 beschouwd als ontvangsten die bestemd zijn voor de gezamenlijke uitgaven.<br>
+<br>
+§ 3. De OVAM kan schenkingen of legaten aanvaarden. Het hoofd van het agentschap beoordeelt vooraf de opportuniteit en de risico's verbonden aan de aanvaarding.<br>
+<br>
+§ 4. De OVAM kan de kennis die ze heeft opgedaan bij de uitoefening van haar missie en taken te gelde maken in binnen- en buitenland. (ing. decr. 7 mei 2004, art. 5, I: 1 april 2006) ]
 
 ## [HOOFDSTUK VI GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -1726,7 +1880,11 @@ De OVAM heeft als missie bij te dragen tot de realisatie van de doelstellingen v
 
 ### ART. 10.6.1.
 
-De bepalingen van het Kaderdecreet zijn van toepassing op de   agentschappen, bedoeld in deze titel.<BR><BR>De agentschappen, bedoeld in deze   titel, streven hun missie na en voeren hun taken uit om een bijdrage te leveren   aan de beleidsvoorbereiding, met inbegrip van de milieuplanning en de   regelgeving, of om het vastgestelde beleid uit te voeren. De   beleidsvoorbereiding en de beleidsuitvoering maken het voorwerp uit van de door   de Vlaamse regering en het departement aangestuurde beleids- en   beheerscyclus.<BR><BR>De Vlaamse regering kan nadere regelen vaststellen met   betrekking tot het bestuur en de werking van de agentschappen, bedoeld in deze   titel.  <span class="reference">(ing.   decr. 7 mei 2004, art. 5, I: 1 april 2006)</span> ]
+De bepalingen van het Bestuursdecreet zijn van toepassing op de agentschappen, bedoeld in deze titel.<br>
+<br>
+De agentschappen, bedoeld in deze titel, streven hun missie na en voeren hun taken uit om een bijdrage te leveren aan de beleidsvoorbereiding, met inbegrip van de milieuplanning en de regelgeving, of om het vastgestelde beleid uit te voeren. De beleidsvoorbereiding en de beleidsuitvoering maken het voorwerp uit van de door de Vlaamse regering en het departement aangestuurde beleids- en beheerscyclus.<br>
+<br>
+De Vlaamse regering kan nadere regelen vaststellen met betrekking tot het bestuur en de werking van de agentschappen, bedoeld in deze titel. (ing. decr. 7 mei 2004, art. 5, I: 1 april 2006) ]
 
 ## [AFDELING 2 RAADGEVEND COMITÉ (ing. decr. 7 mei 2004, art. 5)]
 
@@ -1754,13 +1912,13 @@ In dit decreet wordt verstaan onder ontwerpen van besluit van de Vlaamse regerin
 
 ### ART. 11.1.2.
 
-Er wordt een strategische adviesraad voor het milieubeleid ingesteld, zoals bedoeld in artikel 2 van het decreet tot regeling van strategische adviesraden van 18 juli 2003.<br>
+Er wordt een strategische adviesraad voor het milieubeleid ingesteld, zoals bedoeld in artikel III.93, eerste lid, van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 Deze Raad functioneert als de strategische adviesraad van het beleidsdomein Leefmilieu, Natuur en Energie.<br>
 <br>
 De strategische adviesraad heeft als naam Milieu- en Natuurraad van Vlaanderen, hierna de Minaraad te noemen. Hij heeft rechtspersoonlijkheid.<br>
 <br>
-De bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adviesraden zijn van toepassing op de Minaraad.
+De bepalingen van&nbsp;titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 zijn van toepassing op de Minaraad.
 
 ## [HOOFDSTUK II TAAKOMSCHRIJVING (ing. decr. 30 april 2004, art. 2)]
 
@@ -1847,7 +2005,7 @@ De leden van de MiNa-raad oefenen hun functie uit in volledige onafhankelijkheid
 
 Interne werking<br>
 <br>
-Inzake de werking van de MiNa-raad, is hoofdstuk IV van het decreet van 18 juli 2003 tot regeling van strategische adviesraden van toepassing.<br>
+Inzake de werking van de MiNa-raad, zijn artikel III.99 tot en met III.104 van het Bestuursdecreet van 7 december 2018 van toepassing.<br>
 <br>
 De raad regelt zijn werking in een huishoudelijk reglement dat ten minste de samenstelling, werking en bevoegdheden van het dagelijks bestuur bepaalt, alsook de bevoegdheden van de voorzitter en de directeur. De directeur maakt van rechtswege deel uit van het dagelijks bestuur. Noch het dagelijks bestuur, noch de voorzitter, noch de directeur kunnen worden belast met het vaststellen van een advies.
 
@@ -1907,7 +2065,46 @@ Samenwerking<br /><br />§ 1. De Minaraad kan, voor het onderzoeken van bijzonde
 
 ### ART. 15.1.1.
 
-Voor de toepassing van deze titel wordt verstaan onder :<br />1° milieuschade : schade aan beschermde soorten en natuurlijke habitats, schade aan water en bodemschade;<br />2° schade : een meetbare negatieve verandering in de natuurlijke rijkdommen of een meetbare aantasting van een ecosysteemfunctie, die direct of indirect optreedt;<br />3° natuurlijke rijkdommen : beschermde soorten en natuurlijke habitats, water en bodem;<br />4° functies en ecosysteemfuncties : de functies die de natuurlijke rijkdommen vervullen ten behoeve van andere natuurlijke rijkdommen of het publiek;<br />5° decreet Natuurbehoud : decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br />6° schade aan beschermde soorten en natuurlijke habitats : elke vorm van schade die aanmerkelijke negatieve effecten heeft op het bereiken of het handhaven van de gunstige staat van instandhouding van deze soorten of habitats. Deze effecten worden bepaald aan de hand van de criteria als vermeld in bijlage III. Deze schade omvat niet de vooraf vastgestelde negatieve effecten van handelingen van een exploitant waarvoor uitdrukkelijke toestemming werd gegeven in overeenstemming met de bepalingen van artikel 36ter, §§ 3, 4 en 5, of met de bepalingen die genomen zijn ter uitvoering van artikelen 51 en 56 van het decreet Natuurbehoud wat betreft de vogelsoorten in bijlage IV van het decreet Natuurbehoud en de niet in die bijlage genoemde en geregeld voorkomende trekvogels, en wat betreft de dier- en plantensoorten van bijlage III van het decreet Natuurbehoud;<br />7° beschermde soorten en natuurlijke habitats :<br />a) de vogelsoorten in bijlage IV van het decreet Natuurbehoud, de niet in bijlage IV genoemde en geregeld voorkomende trekvogels, de dier- en plantensoorten in bijlage II of III van het decreet Natuurbehoud;<br />b) de habitats van de vogelsoorten in bijlage IV van het decreet Natuurbehoud, de habitats van de niet in bijlage IV genoemde en geregeld voorkomende trekvogels, de habitats van de dier- en plantensoorten in bijlage II van het decreet Natuurbehoud, de habitats genoemd in bijlage I van het decreet Natuurbehoud en de voortplantings- en rustplaatsen van de soorten in bijlage III van het decreet Natuurbehoud;<br />c) de soorten en de habitats, niet vermeld in de bijlagen I, II, III en IV van het decreet Natuurbehoud, die door de Vlaamse Regering, op advies van de bevoegde instantie, zijn aangeduid voor de toepassing van deze titel;<br />8° staat van instandhouding van een natuurlijke habitat : de som van de invloeden die op de betrokken natuurlijke habitat en de daar voorkomende typische soorten inwerken en op lange termijn gevolgen kunnen hebben voor de natuurlijke verspreiding, de structuur en de functies van die habitat of op het voortbestaan op lange termijn van de betrokken typische soorten op het grondgebied van het Vlaamse Gewest of in het natuurlijke verspreidingsgebied van die habitat;<br />9° staat van instandhouding van een soort : de som van de invloeden die op de betrokken soort inwerken en op lange termijn gevolgen kunnen hebben voor de verspreiding en de grootte van de populaties van die soort op het grondgebied van het Vlaamse Gewest of in het natuurlijke verspreidingsgebied van die soort;<br />10° gunstige staat van instandhouding van een natuurlijke habitat : staat die zich voordoet wanneer aan de volgende voorwaarden is voldaan :<br />a) het natuurlijke verspreidingsgebied van de habitat en de oppervlakte van die habitat binnen dat gebied zijn stabiel of nemen toe;<br />b) de nodige specifieke structuur en functies voor behoud op lange termijn bestaan en zullen in de afzienbare toekomst vermoedelijk blijven bestaan;<br />c) de staat van instandhouding van de voor de habitat typische soorten is gunstig als vermeld in 11°;<br />11° gunstige staat van instandhouding van een soort : staat die zich voordoet wanneer aan de volgende voorwaarden is voldaan :<br />a) uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br />b) het natuurlijke verspreidingsgebied van die soort wordt niet kleiner of lijkt binnen afzienbare tijd niet kleiner te zullen worden;<br />c) er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br />12° decreet Integraal Waterbeleid : decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br />13° schade aan water : elke vorm van schade die een aanmerkelijke negatieve invloed heeft op de ecologische toestand, het ecologisch potentieel of de chemische toestand van het oppervlaktewater of de chemische of kwantitatieve toestand van het grondwater als vermeld in het decreet Integraal Waterbeleid, met uitzondering van de negatieve effecten waarop artikel 56 van het decreet Integraal Waterbeleid van toepassing is;<br />14° water : alle oppervlaktewater en grondwater waarop het decreet Integraal Waterbeleid van toepassing is;<br />15° Bodemdecreet : decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br />16° bodemschade : nieuwe bodemverontreiniging die de bodemsaneringnormen overschrijdt, conform de bepalingen van het Bodemdecreet; <br />17° exploitant : natuurlijke persoon of rechtspersoon die een beroepsactiviteit verricht of regelt, of aan wie doorslaggevende economische zeggenschap over het technisch functioneren van een dergelijke activiteit is overgedragen, met inbegrip van de houder van een vergunning of toelating voor het verrichten van een dergelijke activiteit of de persoon die een dergelijke activiteit laat registreren of er kennisgeving van doet;<br />18° beroepsactiviteit : een in het kader van een economische activiteit, een bedrijf of een onderneming verrichte activiteit, ongeacht het private, openbare, winstgevende of niet-winstgevende karakter daarvan;<br />19° maatregelen : preventieve maatregelen, inperkingsmaatregelen en herstelmaatregelen;<br />20° onmiddellijke dreiging van schade : een voldoende waarschijnlijkheid dat zich in de nabije toekomst milieuschade zal voordoen;<br />21° preventieve maatregelen : maatregelen naar aanleiding van een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan, teneinde die schade te voorkomen of tot een minimum te beperken;<br />22° inperkingsmaatregelen : maatregelen die erop gericht zijn de betrokken verontreinigende stoffen of enige andere schadefactoren onmiddellijk onder controle te houden, in te perken, te verwijderen of anderszins te beheersen, teneinde verdere milieuschade en negatieve effecten op de menselijke gezondheid of verdere aantasting van functies te beperken of te voorkomen;<br />23° herstelmaatregelen : maatregelen, met inbegrip van tussentijdse maatregelen, die gericht zijn op herstel, rehabilitatie of vervanging van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties, of op het verschaffen van een gelijkwaardig alternatief voor rijkdommen of functies, als vermeld in de artikelen 15.3.3 tot en met 15.3.11;<br />24° referentietoestand : de toestand waarin de natuurlijke rijkdommen of ecosysteemfuncties zich ten tijde van de schade zouden hebben bevonden indien zich geen milieuschade had voorgedaan, gereconstrueerd aan de hand van de best beschikbare informatie; <br />25° regeneratie : in geval van water, beschermde soorten en natuurlijke habitats de terugkeer van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties tot de referentietoestand; in geval van bodemschade het verdwijnen van een aanmerkelijk gevaar van een nadelig effect op de menselijke gezondheid, conform de bepalingen van het Bodemdecreet terzake. Regeneratie omvat eveneens natuurlijke regeneratie; <br />26° primaire herstelmaatregelen : maatregelen waardoor aangetaste natuurlijke rijkdommen of ecosysteemfuncties tot de referentietoestand worden teruggebracht of hersteld;<br />27° complementaire herstelmaatregelen : maatregelen met betrekking tot natuurlijke rijkdommen of ecosystemen ter compensatie van het feit dat primaire herstelmaatregelen niet tot volledig herstel van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties leiden. Zij hebben tot doel eenzelfde niveau van natuurlijke rijkdommen of ecosysteemfuncties te scheppen, zo nodig ook op een andere locatie, als het geval zou zijn wanneer de aangetaste locatie in haar referentietoestand hersteld zou zijn. Waar mogelijk en passend moet de andere locatie geografisch verbonden zijn met de aangetaste locatie, rekening houdend met de belangen van de getroffen populatie. Deze maatregelen zijn zodanig opgezet dat de extra natuurlijke rijkdommen of ecosysteemfuncties beantwoorden aan de tijdspreferenties en het tijdschema van de herstelmaatregelen;<br />28° compenserende herstelmaatregelen : maatregelen ter compensatie van tussentijdse verliezen van natuurlijke rijkdommen of ecosysteemfuncties die zich voordoen tussen het tijdstip waarop de schade ontstaat en het tijdstip waarop primaire herstelmaatregelen hun volledige uitwerking hebben bereikt. Deze compensatie houdt in dat op de aangetaste locatie of op een alternatieve locatie aan beschermde natuurlijke habitats en soorten of water aanvullende verbeteringen worden aangebracht. Deze maatregelen bestaan niet uit financiële compensatie voor het publiek. Deze maatregelen zijn zodanig opgezet dat de extra natuurlijke rijkdommen of ecosysteemfuncties beantwoorden aan de tijdspreferenties en het tijdschema van de herstelmaatregelen;<br />29° tussentijdse verliezen : verliezen die het gevolg zijn van het feit dat de aangetaste natuurlijke rijkdommen of functies van natuurlijke rijkdommen hun ecologische functies niet kunnen vervullen of geen functies kunnen vervullen voor andere natuurlijke rijkdommen of het publiek totdat de primaire of complementaire maatregelen hun uitwerking hebben bereikt. Deze maatregelen bestaan niet uit financiële compensatie voor het publiek;<br />30° kosten : de kosten die verantwoord zijn in het licht van de noodzaak een juiste en doeltreffende toepassing van deze titel te garanderen. Deze kosten omvatten ook de ramingskosten van milieuschade of de onmiddellijke dreiging dat dergelijke schade ontstaat en de kosten van alternatieve maatregelen, alsook de administratieve, juridische en handhavingkosten, de kosten van het vergaren van gegevens en andere algemene kosten, en de kosten in verband met monitoring en toezicht.
+Voor de toepassing van deze titel wordt verstaan onder :<br>
+1° milieuschade : schade aan beschermde soorten en natuurlijke habitats, schade aan water en bodemschade;<br>
+2° schade : een meetbare negatieve verandering in de natuurlijke rijkdommen of een meetbare aantasting van een ecosysteemfunctie, die direct of indirect optreedt;<br>
+3° natuurlijke rijkdommen : beschermde soorten en natuurlijke habitats, water en bodem;<br>
+4° functies en ecosysteemfuncties : de functies die de natuurlijke rijkdommen vervullen ten behoeve van andere natuurlijke rijkdommen of het publiek;<br>
+5° decreet Natuurbehoud : decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+6° schade aan beschermde soorten en natuurlijke habitats : elke vorm van schade die aanmerkelijke negatieve effecten heeft op het bereiken of het handhaven van de gunstige staat van instandhouding van deze soorten of habitats. Deze effecten worden bepaald aan de hand van de criteria als vermeld in bijlage III. Deze schade omvat niet de vooraf vastgestelde negatieve effecten van handelingen van een exploitant waarvoor uitdrukkelijke toestemming werd gegeven in overeenstemming met de bepalingen van artikel 36ter, §§ 3, 4 en 5, of met de bepalingen die genomen zijn ter uitvoering van artikelen 51 en 56 van het decreet Natuurbehoud wat betreft de vogelsoorten in bijlage IV van het decreet Natuurbehoud en de niet in die bijlage genoemde en geregeld voorkomende trekvogels, en wat betreft de dier- en plantensoorten van bijlage III van het decreet Natuurbehoud;<br>
+7° beschermde soorten en natuurlijke habitats :<br>
+a) de vogelsoorten in bijlage IV van het decreet Natuurbehoud, de niet in bijlage IV genoemde en geregeld voorkomende trekvogels, de dier- en plantensoorten in bijlage II of III van het decreet Natuurbehoud;<br>
+b) de habitats van de vogelsoorten in bijlage IV van het decreet Natuurbehoud, de habitats van de niet in bijlage IV genoemde en geregeld voorkomende trekvogels, de habitats van de dier- en plantensoorten in bijlage II van het decreet Natuurbehoud, de habitats genoemd in bijlage I van het decreet Natuurbehoud en de voortplantings- en rustplaatsen van de soorten in bijlage III van het decreet Natuurbehoud;<br>
+c) de soorten en de habitats, niet vermeld in de bijlagen I, II, III en IV van het decreet Natuurbehoud, die door de Vlaamse Regering, op advies van de bevoegde instantie, zijn aangeduid voor de toepassing van deze titel;<br>
+8° staat van instandhouding van een natuurlijke habitat : de som van de invloeden die op de betrokken natuurlijke habitat en de daar voorkomende typische soorten inwerken en op lange termijn gevolgen kunnen hebben voor de natuurlijke verspreiding, de structuur en de functies van die habitat of op het voortbestaan op lange termijn van de betrokken typische soorten op het grondgebied van het Vlaamse Gewest of in het natuurlijke verspreidingsgebied van die habitat;<br>
+9° staat van instandhouding van een soort : de som van de invloeden die op de betrokken soort inwerken en op lange termijn gevolgen kunnen hebben voor de verspreiding en de grootte van de populaties van die soort op het grondgebied van het Vlaamse Gewest of in het natuurlijke verspreidingsgebied van die soort;<br>
+10° gunstige staat van instandhouding van een natuurlijke habitat : staat die zich voordoet wanneer aan de volgende voorwaarden is voldaan :<br>
+a) het natuurlijke verspreidingsgebied van de habitat en de oppervlakte van die habitat binnen dat gebied zijn stabiel of nemen toe;<br>
+b) de nodige specifieke structuur en functies voor behoud op lange termijn bestaan en zullen in de afzienbare toekomst vermoedelijk blijven bestaan;<br>
+c) de staat van instandhouding van de voor de habitat typische soorten is gunstig als vermeld in 11°;<br>
+11° gunstige staat van instandhouding van een soort : staat die zich voordoet wanneer aan de volgende voorwaarden is voldaan :<br>
+a) uit populatiedynamische gegevens blijkt dat de betrokken soort nog altijd een levensvatbare component is van de habitat waarin de soort voorkomt en dat vermoedelijk op lange termijn zal blijven;<br>
+b) het natuurlijke verspreidingsgebied van die soort wordt niet kleiner of lijkt binnen afzienbare tijd niet kleiner te zullen worden;<br>
+c) er een voldoende grote habitat bestaat en waarschijnlijk zal blijven bestaan om de populaties van die soort op lange termijn in stand te houden;<br>
+12° decreet Integraal Waterbeleid : decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+13° schade aan water : elke vorm van schade die een aanmerkelijke negatieve invloed heeft op de ecologische toestand, het ecologisch potentieel of de chemische toestand van het oppervlaktewater of de chemische of kwantitatieve toestand van het grondwater als vermeld in het decreet Integraal Waterbeleid, met uitzondering van de negatieve effecten waarop artikel&nbsp;1.7.2.5.4. van het decreet Integraal Waterbeleid van toepassing is;<br>
+14° water : alle oppervlaktewater en grondwater waarop het decreet Integraal Waterbeleid van toepassing is;<br>
+15° Bodemdecreet : decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
+16° bodemschade : nieuwe bodemverontreiniging die de bodemsaneringnormen overschrijdt, conform de bepalingen van het Bodemdecreet;<br>
+17° exploitant : natuurlijke persoon of rechtspersoon die een beroepsactiviteit verricht of regelt, of aan wie doorslaggevende economische zeggenschap over het technisch functioneren van een dergelijke activiteit is overgedragen, met inbegrip van de houder van een vergunning of toelating voor het verrichten van een dergelijke activiteit of de persoon die een dergelijke activiteit laat registreren of er kennisgeving van doet;<br>
+18° beroepsactiviteit : een in het kader van een economische activiteit, een bedrijf of een onderneming verrichte activiteit, ongeacht het private, openbare, winstgevende of niet-winstgevende karakter daarvan;<br>
+19° maatregelen : preventieve maatregelen, inperkingsmaatregelen en herstelmaatregelen;<br>
+20° onmiddellijke dreiging van schade : een voldoende waarschijnlijkheid dat zich in de nabije toekomst milieuschade zal voordoen;<br>
+21° preventieve maatregelen : maatregelen naar aanleiding van een gebeurtenis, handeling of nalatigheid waardoor een onmiddellijke dreiging van milieuschade is ontstaan, teneinde die schade te voorkomen of tot een minimum te beperken;<br>
+22° inperkingsmaatregelen : maatregelen die erop gericht zijn de betrokken verontreinigende stoffen of enige andere schadefactoren onmiddellijk onder controle te houden, in te perken, te verwijderen of anderszins te beheersen, teneinde verdere milieuschade en negatieve effecten op de menselijke gezondheid of verdere aantasting van functies te beperken of te voorkomen;<br>
+23° herstelmaatregelen : maatregelen, met inbegrip van tussentijdse maatregelen, die gericht zijn op herstel, rehabilitatie of vervanging van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties, of op het verschaffen van een gelijkwaardig alternatief voor rijkdommen of functies, als vermeld in de artikelen 15.3.3 tot en met 15.3.11;<br>
+24° referentietoestand : de toestand waarin de natuurlijke rijkdommen of ecosysteemfuncties zich ten tijde van de schade zouden hebben bevonden indien zich geen milieuschade had voorgedaan, gereconstrueerd aan de hand van de best beschikbare informatie;<br>
+25° regeneratie : in geval van water, beschermde soorten en natuurlijke habitats de terugkeer van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties tot de referentietoestand; in geval van bodemschade het verdwijnen van een aanmerkelijk gevaar van een nadelig effect op de menselijke gezondheid, conform de bepalingen van het Bodemdecreet terzake. Regeneratie omvat eveneens natuurlijke regeneratie;<br>
+26° primaire herstelmaatregelen : maatregelen waardoor aangetaste natuurlijke rijkdommen of ecosysteemfuncties tot de referentietoestand worden teruggebracht of hersteld;<br>
+27° complementaire herstelmaatregelen : maatregelen met betrekking tot natuurlijke rijkdommen of ecosystemen ter compensatie van het feit dat primaire herstelmaatregelen niet tot volledig herstel van de aangetaste natuurlijke rijkdommen of ecosysteemfuncties leiden. Zij hebben tot doel eenzelfde niveau van natuurlijke rijkdommen of ecosysteemfuncties te scheppen, zo nodig ook op een andere locatie, als het geval zou zijn wanneer de aangetaste locatie in haar referentietoestand hersteld zou zijn. Waar mogelijk en passend moet de andere locatie geografisch verbonden zijn met de aangetaste locatie, rekening houdend met de belangen van de getroffen populatie. Deze maatregelen zijn zodanig opgezet dat de extra natuurlijke rijkdommen of ecosysteemfuncties beantwoorden aan de tijdspreferenties en het tijdschema van de herstelmaatregelen;<br>
+28° compenserende herstelmaatregelen : maatregelen ter compensatie van tussentijdse verliezen van natuurlijke rijkdommen of ecosysteemfuncties die zich voordoen tussen het tijdstip waarop de schade ontstaat en het tijdstip waarop primaire herstelmaatregelen hun volledige uitwerking hebben bereikt. Deze compensatie houdt in dat op de aangetaste locatie of op een alternatieve locatie aan beschermde natuurlijke habitats en soorten of water aanvullende verbeteringen worden aangebracht. Deze maatregelen bestaan niet uit financiële compensatie voor het publiek. Deze maatregelen zijn zodanig opgezet dat de extra natuurlijke rijkdommen of ecosysteemfuncties beantwoorden aan de tijdspreferenties en het tijdschema van de herstelmaatregelen;<br>
+29° tussentijdse verliezen : verliezen die het gevolg zijn van het feit dat de aangetaste natuurlijke rijkdommen of functies van natuurlijke rijkdommen hun ecologische functies niet kunnen vervullen of geen functies kunnen vervullen voor andere natuurlijke rijkdommen of het publiek totdat de primaire of complementaire maatregelen hun uitwerking hebben bereikt. Deze maatregelen bestaan niet uit financiële compensatie voor het publiek;<br>
+30° kosten : de kosten die verantwoord zijn in het licht van de noodzaak een juiste en doeltreffende toepassing van deze titel te garanderen. Deze kosten omvatten ook de ramingskosten van milieuschade of de onmiddellijke dreiging dat dergelijke schade ontstaat en de kosten van alternatieve maatregelen, alsook de administratieve, juridische en handhavingkosten, de kosten van het vergaren van gegevens en andere algemene kosten, en de kosten in verband met monitoring en toezicht.
 
 ## [AFDELING II TOEPASSINGSGEBIED (ing. decr. 21 december 2007, art. 2)]
 
@@ -2247,7 +2444,7 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 15° het Jachtdecreet van 24 juli 1991;<br>
 16° het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 17° het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen;<br>
-17°bis het decreet van 18 juli 2003 betreffende het integraal waterbeleid, wat betreft artikel 8, 10 tot en met 17 en artikel 62 en 70 van titel I;<br>
+17° bis het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, wat betreft artikel 1.3.1.1, artikel 1.3.2.2 tot en met 1.3.3.3.1, artikel 1.7.3.3, artikel 1.7.5.4, afdeling 2, van hoofdstuk VI van titel II en hoofdstuk 2 van titel III;<br>
 18° het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming;<br>
 19° het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen, met behoud van de toepassing van artikel 61, § 2, van dat decreet;<br>
 19°bis het decreet van 8 mei 2009 betreffende de diepe ondergrond;<br>
@@ -2403,7 +2600,7 @@ De Vlaamse Regering kan nadere regels vaststellen voor de organisatie en   de we
 ### ART. 16.3.1.
 
 § 1. De volgende personen kunnen toezichthouders zijn :<br>
-1° de personeelsleden van het departement en de agentschappen die behoren tot een van de beleidsdomeinen, vermeld in artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, die worden aangewezen door de Vlaamse Regering, hierna gewestelijke toezichthouders te noemen;<br>
+1° de personeelsleden van het departement en de agentschappen die behoren tot een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, die worden aangewezen door de Vlaamse Regering, hierna gewestelijke toezichthouders te noemen;<br>
 2° de personeelsleden van de provincie die worden aangewezen door de deputatie, hierna provinciale toezichthouders te noemen;<br>
 3° de personeelsleden van de gemeente die worden aangewezen door het college van burgemeester en schepenen, hierna gemeentelijke toezichthouders te noemen;<br>
 4° de personeelsleden van een intergemeentelijk samenwerkingsverband met rechtspersoonlijkheid die worden aangewezen door het bevoegde orgaan, hierna intergemeentelijke toezichthouders te noemen;<br>
@@ -3236,7 +3433,8 @@ Deze straffen gelden niet voor :<br>
 1° personen die opzettelijk opgelegde bestuurlijke maatregelen, bestuurlijke geldboeten, voordeelontnemingen, veiligheidsmaatregelen of door de rechter opgelegde maatregelen niet uitvoeren, betalen of negeren;<br>
 2° personen die opzettelijk de in artikel 16.3.10, 1°, 2°, 3°, 4°, en 5°, bedoelde toezichtrechten schenden;<br>
 2° /1 personen die opzettelijk niet meewerken aan een identiteitscontrole als vermeld in artikel 16.3.26bis en 16.5.11;<br>
-3° personen die de orde van de zittingen van het handhavingscollege verstoren, zoals blijkt uit het proces-verbaal van de zitting.
+3° personen die de orde van de zittingen van het handhavingscollege verstoren, zoals blijkt uit het proces-verbaal van de zitting;<br>
+4° personen die een bevel als vermeld in artikel 61, § 6, van het Mestdecreet van 22 december 2006, niet uitvoeren of negeren.
 
 ### ART. 16.6.2.
 
