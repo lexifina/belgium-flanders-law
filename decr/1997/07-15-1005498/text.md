@@ -140,7 +140,35 @@ Iedereen heeft recht op menswaardig wonen.<br /><br />Daartoe moet de beschikkin
 
 ### ART. 4.
 
-§ 1. Het Vlaamse woonbeleid schept, binnen de perken van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, de voorwaarden voor de verwezenlijking van het recht op menswaardig wonen door<br />1° huur- en koopwoningen beschikbaar te stellen tegen sociale voorwaarden;<br />2° de renovatie, verbetering of aanpassing van het woningbestand te bevorderen en zo nodig over te gaan tot vervanging ervan;<br />3° huisvestingsondersteuning te bieden aan woonbehoeftige gezinnen en alleenstaanden;<br />4° initiatieven te ontwikkelen om<br />a) de prijzen te beheersen van gronden, bestemd voor woningbouw, en van panden, bestemd voor bewoning;<br />b) groepen van woningen functioneel in te richten.<br />c) de woonsituatie te verbeteren van bewoners die gehuisvest zijn in een woonwagen.<br /><br />Het Vlaams woonbeleid heeft in het bijzonder aandacht voor de meest behoeftige gezinnen en alleenstaanden.<br /><br />§ 2. Het woonbeleid is gericht op :<br />1° de realisatie van optimale ontwikkelingskansen voor iedereen;<br />2° een optimale leefbaarheid van de wijken;<br />3° het bevorderen van de integratie van bewoners in de samenleving;<br />4° het bevorderen van gelijke kansen voor iedereen.<br /><br />§ 3. Ter uitvoering van de doelstellingen, bepaald in § 2, kan de Vlaamse Regering bij de concretisering van de haar bij andere bepalingen uit dit decreet toegestane delegaties, maatregelen nemen die gericht zijn op :<br />1° de kwaliteit van de woningen;<br />2° de kwaliteit van de woonomgeving;<br />3° het samenleven van de bewoners in de wijk;<br />4° de betaalbaarheid;<br />5° de participatie van de betrokken bewonersgroepen.<br /><br />Bij projecten van nieuwbouw of renovatie wordt gestreefd naar een vermenging van soorten woningen en woningtypes en naar een goede integratie van nieuwe projecten in de bestaande omgeving.<br /><br />§ 4. Het Vlaams woonbeleid moedigt bij de bouw, aanpassing, verbetering of renovatie van woningen, waarvoor krachtens de Vlaamse Wooncode subsidies of tegemoetkomingen worden verleend, het prijsbewuste gebruik van ecologisch verantwoorde bouwmaterialen en bouwwijzen aan.
+§ 1. Het Vlaamse woonbeleid schept, binnen de perken van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, de voorwaarden voor de verwezenlijking van het recht op menswaardig wonen door<br>
+1° huur- en koopwoningen beschikbaar te stellen tegen sociale voorwaarden;<br>
+2° de renovatie, verbetering of aanpassing van het woningbestand te bevorderen en zo nodig over te gaan tot vervanging ervan;<br>
+3° huisvestingsondersteuning te bieden aan woonbehoeftige gezinnen en alleenstaanden;<br>
+4° initiatieven te ontwikkelen om<br>
+a) de prijzen te beheersen van gronden, bestemd voor woningbouw, en van panden, bestemd voor bewoning;<br>
+b) groepen van woningen functioneel in te richten;<br>
+c) de woonsituatie te verbeteren van bewoners die gehuisvest zijn in een woonwagen.<br>
+5° een gerichte ondersteuning te bieden om een kwalitatief en betaalbaar aanbod aan huurwoningen te stimuleren op de private huurmarkt, waarbij een evenwicht wordt nagestreefd tussen de belangen van huurders en verhuurders.<br>
+<br>
+Het Vlaams woonbeleid heeft in het bijzonder aandacht voor de meest behoeftige gezinnen en alleenstaanden.<br>
+<br>
+§ 2. Het woonbeleid is gericht op :<br>
+1° de realisatie van optimale ontwikkelingskansen voor iedereen;<br>
+2° een optimale leefbaarheid van de wijken;<br>
+3° het bevorderen van de integratie van bewoners in de samenleving;<br>
+4° het bevorderen van gelijke kansen voor iedereen.<br>
+<br>
+§ 3. Ter uitvoering van de doelstellingen, bepaald in § 2, kan de Vlaamse Regering bij de concretisering van de haar bij andere bepalingen uit dit decreet toegestane delegaties, maatregelen nemen die gericht zijn op :<br>
+1° de kwaliteit van de woningen;<br>
+2° de kwaliteit van de woonomgeving;<br>
+3° het samenleven van de bewoners in de wijk;<br>
+4° de betaalbaarheid;<br>
+5° de participatie van de betrokken bewonersgroepen;<br>
+6° de woonzekerheid.<br>
+<br>
+Bij projecten van nieuwbouw of renovatie wordt gestreefd naar een vermenging van soorten woningen en woningtypes en naar een goede integratie van nieuwe projecten in de bestaande omgeving.<br>
+<br>
+§ 4. Het Vlaams woonbeleid moedigt bij de bouw, aanpassing, verbetering of renovatie van woningen, waarvoor krachtens de Vlaamse Wooncode subsidies of tegemoetkomingen worden verleend, het prijsbewuste gebruik van ecologisch verantwoorde bouwmaterialen en bouwwijzen aan.
 
 ## [HOOFDSTUK III LANGETERMIJNVISIE EN -DOELSTELLINGEN (ing. decr. 14 oktober 2016, art. 7, I: 23 december 2016)]
 
@@ -227,7 +255,7 @@ Het verzoek tot opheffing van het besluit waarbij een woning ongeschikt of   onb
 ### ART. 10.
 
 Het conformiteitsattest vervalt van rechtswege vanaf het ogenblik dat :<br>
-1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 3, § 3, van boek 3, titel 8, hoofdstuk 2, afdeling 2, van het Burgerlijk Wetboek;<br>
+1° aan de woning werkzaamheden uitgevoerd worden als vermeld in artikel 18 van het Vlaams Woninghuurdecreet;<br>
 2° de woning ongeschikt of onbewoonbaar verklaard wordt met toepassing van hoofdstuk III;<br>
 3° de woning onbewoonbaar verklaard wordt met toepassing van artikel 135 van de Nieuwe Gemeentewet;<br>
 4° er voor de woning een proces-verbaal als vermeld in artikel 20, § 2, opgesteld wordt;<br>
@@ -398,7 +426,50 @@ De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van e
 
 ### ART. 21.
 
-§ 1. Bij het agentschap Wonen-Vlaanderen wordt een strategische adviesraad   voor het beleidsveld Wonen ingesteld als vermeld in artikel 2 van het decreet   van 18 juli 2003 tot regeling van strategische adviesraden, hierna Vlaamse   Woonraad te noemen.<BR><BR>De Vlaamse Woonraad heeft geen   rechtspersoonlijkheid.<BR><BR>De bepalingen van het decreet van 18 juli 2003 tot   regeling van strategische adviesraden zijn van toepassing op de Vlaamse   Woonraad, tenzij in dit artikel anders is bepaald.<BR><BR>§ 2. De Vlaamse   Woonraad heeft de volgende opdrachten :<BR>1° uit eigen beweging of op verzoek   advies uitbrengen over de hoofdlijnen van het beleid inzake het wonen in het   algemeen en de sociale huisvesting in het bijzonder;<BR>2° bijdragen tot het   vormen van een beleidsvisie over het wonen;<BR>3° de maatschappelijke   ontwikkelingen op het vlak van het wonen en de sociale huisvesting volgen en   interpreteren;<BR>4° advies uitbrengen over voorontwerpen van decreet met   betrekking tot het woonbeleid;<BR>5° uit eigen beweging of op verzoek advies   uitbrengen over voorstellen van decreet en over ontwerpen van besluit van de   Vlaamse Regering met betrekking tot het woonbeleid;<BR>6° reflecteren over de   bij het Vlaams Parlement ingediende beleidsnota's en beleidsbrieven over het   woonbeleid;<BR>7° uit eigen beweging of op verzoek advies uitbrengen over   ontwerpen van samenwerkingsakkoord met betrekking tot het woonbeleid die het   Vlaamse Gewest wil sluiten met de staat of met andere gemeenschappen en   gewesten;<BR>8° uit eigen beweging of op verzoek advies uitbrengen over   beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving met   betrekking tot het woonbeleid op het niveau van de Europese Unie, alsook over in   voorbereiding zijnde internationale verdragen met betrekking tot het   woonbeleid.<BR><BR>De Vlaamse Regering is verplicht om advies te vragen over   :<BR>1° de voorontwerpen van decreet, vermeld in het eerste lid, 4°;<BR>2° de   ontwerpen van reglementair of organiek besluit van de Vlaamse Regering die   uitvoering geven aan de inhoud van een decreet met betrekking tot het woonbeleid   en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten   zijn.<BR>3° ...<BR><BR>De Vlaamse Regering kan de Vlaamse Woonraad machtigen   Vlaanderen te vertegenwoordigen in federale of internationale   adviesorganen.<BR><BR>§ 3. De Vlaamse Woonraad wordt samengesteld uit   vertegenwoordigers van het maatschappelijke middenveld die actief zijn in het   beleidsveld wonen, uit onafhankelijke deskundigen en uit vertegenwoordigers van   provincies, steden en gemeenten.<BR><BR>Namens het maatschappelijke middenveld   kunnen in de Vlaamse Woonraad vertegenwoordigers worden benoemd van :<BR>1°   sociale woonorganisaties en sociale kredietverstrekkers, met uitzondering van de   Vlaamse Maatschappij voor Sociaal Wonen;<BR>2° representatieve organisaties,   opgericht op particulier initiatief en zonder winstoogmerk, met zetel in het   Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, die als sociale   organisatie of beweging of als erkende beroepsvereniging de maatschappelijke   voorzieningen of de algemene en specifieke belangen van hun leden inzake wonen   ter harte nemen, die de bewoners, de eigenaars of bijzondere doelgroepen met   specifieke woonbehoeften vertegenwoordigen of die erkend zijn als   welzijnsorganisatie.<BR><BR>Alle organisaties die vertegenwoordigd zijn in de   Vlaamse Woonraad moeten hoofdzakelijk het grondgebied van het Vlaamse Gewest als   actieterrein hebben of een belang behartigen dat representatief is voor het   Vlaamse Gewest. De Vlaamse Regering kan aanvullende voorwaarden voor de   voordracht bepalen.<BR><BR>Als onafhankelijke deskundigen kunnen in de Vlaamse   Woonraad worden benoemd : academici, deskundigen op het vlak van wonen en   huisvesting of andere personen die op grond van hun ervaring, engagement of   deskundigheid, gezag verworven hebben wat betreft de verwezenlijking van de   doelstellingen, vermeld in dit decreet.<BR><BR>§ 4. De Vlaamse Woonraad bestaat   uit twintig leden, door de Vlaamse Regering benoemd voor een termijn van vier   jaar. Hiervan zijn er twaalf vertegenwoordigers van het maatschappelijke   middenveld, vijf onafhankelijke deskundigen, een vertegenwoordiger voor de   provincies en twee vertegenwoordigers voor de steden en gemeenten. <BR><BR>De   vertegenwoordigers van het maatschappelijke middenveld worden op dubbeltallen   voorgedragen door de in § 3, tweede lid, vermelde organisaties. De   vertegenwoordigers van de provincies en van de steden en gemeenten worden   respectievelijk voorgedragen door de Vereniging van Vlaamse Provincies en de   Vereniging van Vlaamse Steden en Gemeenten, namens de OCMW's en namens de steden   en gemeenten, eveneens op dubbeltallen.<BR><BR>De Vlaamse Regering nodigt de in   het tweede lid vermelde organisaties en verenigingen via een openbare oproep uit   tot de voordracht van kandidaat-leden voor de Vlaamse Woonraad. Voorzover   daarvan melding is gemaakt in de oproep kan ze plaatsvervangende leden benoemen   voor de vertegenwoordigers van het maatschappelijke middenveld, de provincies en   de steden en gemeenten.<BR><BR>De onafhankelijke deskundigen worden aangewezen   na een openbare oproep tot kandidaatstelling.<BR><BR>§ 5. De voorzitter van de   Vlaamse Woonraad is een van de onafhankelijke deskundigen. Hij wordt benoemd   door de Vlaamse Regering. De voorzitter vertegenwoordigt de raad in rechte,   onverminderd de mogelijkheid tot delegatie van die bevoegdheid.<BR><BR>§ 6. De   Vlaamse Woonraad kan te allen tijde vragen aan de leidend ambtenaren van het   departement en de intern of extern verzelfstandigde agentschappen van het   beleidsdomein waartoe het beleid inzake wonen behoort, om technische   toelichtingen te verschaffen over de aangelegenheden waarover hij advies moet of   wil uitbrengen.<BR>
+§ 1. Bij het agentschap Wonen-Vlaanderen wordt een strategische adviesraad voor het beleidsveld Wonen ingesteld als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018 , hierna Vlaamse Woonraad te noemen.<br>
+<br>
+De Vlaamse Woonraad heeft geen rechtspersoonlijkheid.<br>
+<br>
+De bepalingen van titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 zijn van toepassing op de Vlaamse Woonraad, tenzij in dit artikel anders is bepaald.<br>
+<br>
+§ 2. De Vlaamse Woonraad heeft de volgende opdrachten :<br>
+1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid inzake het wonen in het algemeen en de sociale huisvesting in het bijzonder;<br>
+2° bijdragen tot het vormen van een beleidsvisie over het wonen;<br>
+3° de maatschappelijke ontwikkelingen op het vlak van het wonen en de sociale huisvesting volgen en interpreteren;<br>
+4° advies uitbrengen over voorontwerpen van decreet met betrekking tot het woonbeleid;<br>
+5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet en over ontwerpen van besluit van de Vlaamse Regering met betrekking tot het woonbeleid;<br>
+6° reflecteren over de bij het Vlaams Parlement ingediende beleidsnota's en beleidsbrieven over het woonbeleid;<br>
+7° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord met betrekking tot het woonbeleid die het Vlaamse Gewest wil sluiten met de staat of met andere gemeenschappen en gewesten;<br>
+8° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving met betrekking tot het woonbeleid op het niveau van de Europese Unie, alsook over in voorbereiding zijnde internationale verdragen met betrekking tot het woonbeleid.<br>
+<br>
+De Vlaamse Regering is verplicht om advies te vragen over :<br>
+1° de voorontwerpen van decreet, vermeld in het eerste lid, 4°;<br>
+2° de ontwerpen van reglementair of organiek besluit van de Vlaamse Regering die uitvoering geven aan de inhoud van een decreet met betrekking tot het woonbeleid en waarvan de Vlaamse Regering beslist dat het basisuitvoeringsbesluiten zijn.<br>
+3° ...<br>
+<br>
+De Vlaamse Regering kan de Vlaamse Woonraad machtigen Vlaanderen te vertegenwoordigen in federale of internationale adviesorganen.<br>
+<br>
+§ 3. De Vlaamse Woonraad wordt samengesteld uit vertegenwoordigers van het maatschappelijke middenveld die actief zijn in het beleidsveld wonen, uit onafhankelijke deskundigen en uit vertegenwoordigers van provincies, steden en gemeenten.<br>
+<br>
+Namens het maatschappelijke middenveld kunnen in de Vlaamse Woonraad vertegenwoordigers worden benoemd van :<br>
+1° sociale woonorganisaties en sociale kredietverstrekkers, met uitzondering van de Vlaamse Maatschappij voor Sociaal Wonen;<br>
+2° representatieve organisaties, opgericht op particulier initiatief en zonder winstoogmerk, met zetel in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, die als sociale organisatie of beweging of als erkende beroepsvereniging de maatschappelijke voorzieningen of de algemene en specifieke belangen van hun leden inzake wonen ter harte nemen, die de bewoners, de eigenaars of bijzondere doelgroepen met specifieke woonbehoeften vertegenwoordigen of die erkend zijn als welzijnsorganisatie.<br>
+<br>
+Alle organisaties die vertegenwoordigd zijn in de Vlaamse Woonraad moeten hoofdzakelijk het grondgebied van het Vlaamse Gewest als actieterrein hebben of een belang behartigen dat representatief is voor het Vlaamse Gewest. De Vlaamse Regering kan aanvullende voorwaarden voor de voordracht bepalen.<br>
+<br>
+Als onafhankelijke deskundigen kunnen in de Vlaamse Woonraad worden benoemd : academici, deskundigen op het vlak van wonen en huisvesting of andere personen die op grond van hun ervaring, engagement of deskundigheid, gezag verworven hebben wat betreft de verwezenlijking van de doelstellingen, vermeld in dit decreet.<br>
+<br>
+§ 4. De Vlaamse Woonraad bestaat uit twintig leden, door de Vlaamse Regering benoemd voor een termijn van vier jaar. Hiervan zijn er twaalf vertegenwoordigers van het maatschappelijke middenveld, vijf onafhankelijke deskundigen, een vertegenwoordiger voor de provincies en twee vertegenwoordigers voor de steden en gemeenten.<br>
+<br>
+De vertegenwoordigers van het maatschappelijke middenveld worden op dubbeltallen voorgedragen door de in § 3, tweede lid, vermelde organisaties. De vertegenwoordigers van de provincies en van de steden en gemeenten worden respectievelijk voorgedragen door de Vereniging van Vlaamse Provincies en de Vereniging van Vlaamse Steden en Gemeenten, namens de OCMW's en namens de steden en gemeenten, eveneens op dubbeltallen.<br>
+<br>
+De Vlaamse Regering nodigt de in het tweede lid vermelde organisaties en verenigingen via een openbare oproep uit tot de voordracht van kandidaat-leden voor de Vlaamse Woonraad. Voorzover daarvan melding is gemaakt in de oproep kan ze plaatsvervangende leden benoemen voor de vertegenwoordigers van het maatschappelijke middenveld, de provincies en de steden en gemeenten.<br>
+<br>
+De onafhankelijke deskundigen worden aangewezen na een openbare oproep tot kandidaatstelling.<br>
+<br>
+§ 5. De voorzitter van de Vlaamse Woonraad is een van de onafhankelijke deskundigen. Hij wordt benoemd door de Vlaamse Regering. De voorzitter vertegenwoordigt de raad in rechte, onverminderd de mogelijkheid tot delegatie van die bevoegdheid.<br>
+<br>
+§ 6. De Vlaamse Woonraad kan te allen tijde vragen aan de leidend ambtenaren van het departement en de intern of extern verzelfstandigde agentschappen van het beleidsdomein waartoe het beleid inzake wonen behoort, om technische toelichtingen te verschaffen over de aangelegenheden waarover hij advies moet of wil uitbrengen.
 
 ## HOOFDSTUK II [DE PLANNING VAN HET VLAAMSE WOONBELEID (verv. decr. 19 maart 2004, art. 7)]
 
@@ -540,6 +611,7 @@ c) de verkoop van andere woningen en kavels dan sociale woningen en kavels met t
 6° de volgende verrichtingen van Vlabinvest apb:<br>
 a) de beslissingen tot beschikbaarstelling, inclusief bewijsstukken, voor verhuring, erfpacht of verkoop van woningen en kavels binnen een woonproject met sociaal karakter;<br>
 b) de beoordeling, inclusief bewijsstukken, van de kandidaat-huurders, -erfpachtnemers of -kopers door het beoordelingscomité.<br>
+7° de verrichtingen van de erkende verhuurdersoragnisaties, vermeld in artikel 77septies, die krachtens artikel 77octies worden gesubsidieerd.<br>
 <br>
 In het kader van de uitoefening van het toezicht heeft de toezichthouder het recht om plaatsbezoeken af te leggen en ter plaatse inzage te nemen in alle stukken en bescheiden.<br>
 <br>
@@ -584,7 +656,28 @@ Bij het opleggen van de administratieve geldboete mag er geen kennelijke wanverh
 
 ### ART. 30.
 
-§ 1. Een Vlaamse Maatschappij voor Sociaal Wonen, hierna VMSW te noemen, wordt opgericht als een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel 13 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, hierna het kaderdecreet te noemen.<br /><br />De VMSW heeft rechtspersoonlijkheid en zal, zonder haar burgerlijk karakter te verliezen, in de vorm van een naamloze vennootschap worden opgericht. De VMSW is de rechtsopvolger van de Vlaamse Huisvestingsmaatschappij, opgericht bij het decreet van 21 december 1988 houdende oprichting van de Vlaamse Huisvestingsmaatschappij.<br /><br />De bepalingen van het kaderdecreet met betrekking tot de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen, met uitzondering van artikel 18, § 2, en artikel 25 van het kaderdecreet, zijn van toepassing op de VMSW.<br /><br />De rechtspositie van de VMSW wordt geregeld door het kaderdecreet, dit decreet en haar statuten. De bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschappen zijn van toepassing op de VMSW voor alles wat niet geregeld is door het kaderdecreet, door dit decreet, door de wetten en decreten die voor het Vlaamse Gewest en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle en controle op subsidies invoeren, of door haar statuten, en dit voorzover die bepalingen met betrekking tot de naamloze vennootschappen niet in strijd zijn met voormelde decretale of wettelijke regelingen.<br /><br />Het Vlaamse Gewest, de provincies en de gemeenten die in het Vlaamse Gewest liggen kunnen inschrijven op het kapitaal van de VMSW. Alle aandelen zijn en blijven op naam.<br /><br />De statuten van de VMSW worden vastgesteld in een authentieke akte houdende omvorming van de Vlaamse Huisvestingsmaatschappij tot het extern verzelfstandigd agentschap Vlaamse Maatschappij voor Sociaal Wonen. De statuten worden ter goedkeuring aan de Vlaamse Regering voorgelegd. Ze kunnen alleen worden gewijzigd met goedkeuring van de Vlaamse Regering.<br /><br />§ 2. De VMSW wordt bestuurd door een raad van bestuur die verantwoordelijk is voor de strategische beheersbeslissingen en voor de controle op het dagelijks management. De raad van bestuur telt minimaal negen en maximaal dertien leden, waaronder een voorzitter en een ondervoorzitter. De Vlaamse Regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter en de ondervoorzitter en de overige leden van de raad.<br /><br />Alleen personen die beschikken over relevante deskundigheid bij de opdrachten en bevoegdheden van de VMSW, vermeld in artikelen 33 en 34, of die deskundig zijn op het vlak van financieel beheer of management kunnen tot lid van de raad van bestuur worden aangesteld.<br /><br />Met behoud van de toepassing van artikel 21 van het kaderdecreet is het mandaat van bestuurder onverenigbaar met het ambt van toezichthouder en met de hoedanigheid van voorzitter, bestuurder of titularis van een leidinggevende functie in een andere sociale woonorganisatie.<br /><br />§ 3. Het dagelijks bestuur van de VMSW wordt opgedragen aan de gedelegeerd bestuurder, die door de Vlaamse Regering wordt aangesteld. De gedelegeerd bestuurder vertegenwoordigt de VMSW ten overstaan van derden met betrekking tot alle verrichtingen die op het dagelijks bestuur betrekking hebben en ondertekent de overeenkomsten die door de VMSW worden aangegaan.<br /><br /><br />(§ 1, tweede lid van dit artikel treedt wat de rechtsopvolging van Vlabinvest en het Garantiefonds voor de Huisveting betreft, in werking op een door de Vlaamse Regering te bepalen datum)
+§ 1. Een Vlaamse Maatschappij voor Sociaal Wonen, hierna VMSW te noemen, wordt opgericht als een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.7, van het Bestuursdecreet van 7 december 2018, hierna het Bestuursdecreet te noemen.<br>
+<br>
+De VMSW heeft rechtspersoonlijkheid en zal, zonder haar burgerlijk karakter te verliezen, in de vorm van een naamloze vennootschap worden opgericht. De VMSW is de rechtsopvolger van de Vlaamse Huisvestingsmaatschappij, opgericht bij het decreet van 21 december 1988 houdende oprichting van de Vlaamse Huisvestingsmaatschappij.<br>
+<br>
+Artikel 25 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 is niet van toepassing op de VMSW.<br>
+<br>
+De rechtspositie van de VMSW wordt geregeld door het Bestuursdecreet, dit decreet en haar statuten. De bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschappen zijn van toepassing op de VMSW voor alles wat niet geregeld is door het Bestuursdecreet, door dit decreet, door de wetten en decreten die voor het Vlaamse Gewest en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle en controle op subsidies invoeren, of door haar statuten, en dit voorzover die bepalingen met betrekking tot de naamloze vennootschappen niet in strijd zijn met voormelde decretale of wettelijke regelingen.<br>
+<br>
+Het Vlaamse Gewest, de provincies en de gemeenten die in het Vlaamse Gewest liggen kunnen inschrijven op het kapitaal van de VMSW. Alle aandelen zijn en blijven op naam.<br>
+<br>
+De statuten van de VMSW worden vastgesteld in een authentieke akte houdende omvorming van de Vlaamse Huisvestingsmaatschappij tot het extern verzelfstandigd agentschap Vlaamse Maatschappij voor Sociaal Wonen. De statuten worden ter goedkeuring aan de Vlaamse Regering voorgelegd. Ze kunnen alleen worden gewijzigd met goedkeuring van de Vlaamse Regering.<br>
+<br>
+§ 2. De VMSW wordt bestuurd door een raad van bestuur die verantwoordelijk is voor de strategische beheersbeslissingen en voor de controle op het dagelijks management. De raad van bestuur telt minimaal negen en maximaal dertien leden, waaronder een voorzitter en een ondervoorzitter. De Vlaamse Regering bepaalt het aantal leden, benoemt en ontslaat de voorzitter en de ondervoorzitter en de overige leden van de raad.<br>
+<br>
+Alleen personen die beschikken over relevante deskundigheid bij de opdrachten en bevoegdheden van de VMSW, vermeld in artikelen 33 en 34, of die deskundig zijn op het vlak van financieel beheer of management kunnen tot lid van de raad van bestuur worden aangesteld.<br>
+<br>
+Met behoud van de toepassing van artikel III.12 van het Bestuursdecreet is het mandaat van bestuurder onverenigbaar met het ambt van toezichthouder en met de hoedanigheid van voorzitter, bestuurder of titularis van een leidinggevende functie in een andere sociale woonorganisatie.<br>
+<br>
+§ 3. Het dagelijks bestuur van de VMSW wordt opgedragen aan de gedelegeerd bestuurder, die door de Vlaamse Regering wordt aangesteld. De gedelegeerd bestuurder vertegenwoordigt de VMSW ten overstaan van derden met betrekking tot alle verrichtingen die op het dagelijks bestuur betrekking hebben en ondertekent de overeenkomsten die door de VMSW worden aangegaan.<br>
+<br>
+<br>
+(§ 1, tweede lid van dit artikel treedt wat de rechtsopvolging van Vlabinvest en het Garantiefonds voor de Huisveting betreft, in werking op een door de Vlaamse Regering te bepalen datum)
 
 ### ART. 31.
 
@@ -680,7 +773,7 @@ De VMSW kan haar administratieve gebouwen uit de hand verkopen, mits passende pu
 
 ### ART. 35.
 
-In de beheersovereenkomst tussen de Vlaamse Regering en de VMSW, vermeld in artikel 14 van het kaderdecreet, worden ook nadere regels bepaald voor de relatie en het onderlinge overleg tussen de VMSW en de andere sociale woonorganisaties.<br />
+In het ondernemingsplan, vermeld in artikel III.61 van het Bestuursdecreet, worden ook nadere regels bepaald voor de relatie en het onderlinge overleg tussen de VMSW en de andere sociale woonorganisaties.
 
 ### ART. 36.
 
@@ -875,7 +968,7 @@ Het VWF verbindt er zich toe om een gedeelte van de leningen of kredieten   in k
 
 ### ART. 55.
 
-Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van twee regeringsafgevaardigden die door de Vlaamse Regering worden benoemd met een bevoegdheid conform artikel 23 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.<br>
+Voor de naleving van de bepalingen van dit hoofdstuk staat het VWF onder het toezicht van twee regeringsafgevaardigden die door de Vlaamse Regering worden benoemd met een bevoegdheid conform artikel III.13 van het Bestuursdecreet.<br>
 <br>
 In het bijzonder zien de regeringsafgevaardigden erop toe dat het beleid van het VWF wordt afgestemd op en geïntegreerd in het Vlaamse woonbeleid. De regeringsafgevaardigden waken erover dat het VWF deelneemt aan het overleg, vermeld in artikel 28, telkens als het daarvoor wordt uitgenodigd.<br>
 <br>
@@ -1121,6 +1214,28 @@ De woningen die worden gefinancierd via een tussenkomst van het Garantiefonds vo
 
 ## [HOOFDSTUK IIIBIS SUBSIDIËRING VAN ERKENDE VERHUURDERSORGANISATIES (ing. decr. 9 november 2018, art. 69, I: 1 januari 2019)]
 
+### ART 77septies.
+
+§ 1. De Vlaamse Regering kan verhuurdersorganisaties erkennen waarvan de werking of een deelactiviteit wordt gesubsidieerd conform artikel 77octies.<br>
+<br>
+Om erkend te kunnen worden moet ten minste aan al de volgende voorwaarden voldaan zijn:<br>
+1° de verhuurdersorganisatie vertegenwoordigt private verhuurders of vastgoedmakelaars;<br>
+2° de verhuurdersorganisatie is werkzaam in het Vlaamse Gewest;<br>
+3° de verhuurdersorganisatie verbindt er zich toe de opdrachten uit te voeren die haar worden opgelegd door de Vlaamse Wooncode en de besluiten ter uitvoering ervan;<br>
+4° de verhuurdersorganisatie verbindt er zich toe het toezicht van de Vlaamse Regering te aanvaarden.<br>
+<br>
+De Vlaamse Regering stelt de procedure vast voor de erkenning en de intrekking van de erkenning. De Vlaamse Regering kan aanvullende voorwaarden opleggen om erkend te worden, onder meer wat representativiteit, schaalgrootte en regionale spreiding betreft.<br>
+<br>
+§ 2. De erkende verhuurdersorganisaties dragen bij tot het helpen realiseren van het recht op wonen voor iedereen en behartigen de belangen van de verhuurders of vastgoedmakelaars op de privéhuurwoningmarkt.<br>
+<br>
+De erkende verhuurdersorganisaties verstrekken op individuele of collectieve basis informatie en advies over alle aangelegenheden in verband met het verhuren van woningen. Ze kunnen juridische bijstand verlenen aan verhuurders.<br>
+<br>
+§ 3. De Vlaamse Regering kan de erkenning van een verhuurdersorganisatie intrekken.
+
+### ART 77octies.
+
+Binnen de perken van de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de voorwaarden die ze bepaalt, subsidies verlenen voor de werking of deelactiviteiten van de erkende verhuurdersorganisaties, vermeld in artikel 77septies, of voor projecten met een aanvullend en/of vernieuwend karakter, uitgevoerd door erkende verhuurdersorganisaties of door andere actoren. De subsidiëring ten laste van de uitgavenbegroting van het Vlaamse Gewest mag nooit meer bedragen dan 100 % van de totale kosten.
+
 ## HOOFDSTUK IV ANDERE STEUNMAATREGELEN
 
 ## AFDELING 1 SOCIALE LENINGEN EN WAARBORGEN
@@ -1162,6 +1277,14 @@ De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in 
 ### ART. 79.
 
 <P>§ 1. De Vlaamse regering stelt voor elk van de verrichtingen, vermeld in § 2,   de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een   bijzondere sociale lening kunnen aangaan bij de VMSW of bij het VWF. Ze bepaalt   onder meer&nbsp;de berekeningswijze van de sociale interestvoeten en de   voorwaarden voor de periodieke herziening van die interestvoet. De interestvoet   en de herziening ervan zijn gekoppeld aan het inkomen.<BR><BR>§ 2. De VMSW en   het VWF zijn ertoe gemachtigd om aan woonbehoeftige gezinnen en alleenstaanden   leningen als vermeld in paragraaf 1 toe te staan die bestemd zijn voor de   financiering van een of meer van de volgende verrichtingen : <BR>1° ...;<BR>2°   de aankoop of het behoud van een in het Vlaamse Gewest gelegen woning;<BR>3° de   renovatie, de verbetering of de aanpassing van een in het Vlaamse Gewest gelegen   woning;<BR>4° ... <BR><BR>De VMSW&nbsp; en het VWF kunnen in verhouding tot de   gezinsgrootte een extra interestvermindering toekennen die de Vlaamse regering   bepaalt.<BR><BR>§ 3. ...</P>  <P>§ 4. ...</P>
+
+### ART 79bis.
+
+De Vlaamse Regering stelt de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een renteloze huurwaarborglening kunnen aangaan en duidt een of meerdere instanties aan die instaan voor het verstrekken van die lening namens het Vlaamse Gewest.<br>
+<br>
+Binnen de kredieten die daarvoor op de begroting van het Vlaamse Gewest ingeschreven zijn, kan het Vlaamse Gewest een toelage verlenen aan de instantie of instanties, vermeld in het eerste lid, ter financiering van de distributie en beheer van de huurwaarborgleningen, vermeld in het eerste lid. De Vlaamse Regering stelt de toekenningsvoorwaarden van de voormelde toelage vast.<br>
+<br>
+Voor de aspecten die niet geregeld zijn in dit artikel of in de besluiten genomen ter uitvoering ervan, gelden de bepalingen van boek VII, titel 4, hoofdstuk 1 en 4, en titel 5, van het Wetboek van Economisch Recht.
 
 ### ART. 80.
 
@@ -1319,14 +1442,27 @@ De Vlaamse regering regelt de procedure voor het instellen en het behandelen van
 
 ### ART. 91.
 
-§ 1. De bepalingen van deze titel zijn van toepassing op de sociale   huurwoningen, met uitzondering van de woningen die :<BR>1° als serviceflats   beschikbaar worden gesteld in het kader van het VIaams Welzijnsbeleid;<BR>2°   gefinancierd zijn met middelen van Vlabinvest apb of gefinancierd werden met   middelen van het Investeringsfonds voor Grond- en Woonbeleid voor   Vlaams-Brabant, vermeld in artikel 16 van het decreet van 25 juni 1992 houdende   diverse bepalingen tot begeleiding van de begroting 1992; <BR>3° onder de   voorwaarden, gesteld door de Vlaamse Regering, worden verhuurd aan openbare   besturen, aan welzijnsorganisaties of aan organisaties die de Vlaamse Regering   daartoe erkent;<BR>4° worden verhuurd of ter beschikking worden gesteld aan de   categorieën van personen die de Vlaamse Regering bepaalt.<BR><BR>§ 2. De Vlaamse   Regering stelt de voorwaarden vast voor de verhuring van sociale huurwoningen,   met inachtneming van de bepalingen van deze titel. De Vlaamse Regering kan   specifieke voorwaarden vaststellen voor de woningen die worden verhuurd door   :<BR>1° de VMSW en de sociale huisvestingsmaatschappijen;<BR>2° het VWF, na   advies van het VWF;<BR>3° de gemeenten en intergemeentelijke   samenwerkingsverbanden, na advies van de Vereniging van Vlaamse Steden en   Gemeenten;<BR>4° de OCMW's en de OCMW-verenigingen, na advies van de Vereniging   van Vlaamse Steden en Gemeenten;<BR>5° de sociale verhuurkantoren.<BR><BR>§ 3.   Voor de aspecten die niet geregeld zijn in deze titel of in de besluiten die   genomen zijn ter uitvoering van deze titel, gelden de bepalingen van afdeling 1   en 2 van boek III, titel VIII, hoofdstuk II, van het Burgerlijk Wetboek, voor   zover ze niet afwijken van voormelde regelingen, noch in strijd zijn met de   geest ervan.
+§ 1. De bepalingen van deze titel zijn van toepassing op de sociale huurwoningen, met uitzondering van de woningen die :<br>
+1° als serviceflats beschikbaar worden gesteld in het kader van het VIaams Welzijnsbeleid;<br>
+2° gefinancierd zijn met middelen van Vlabinvest apb of gefinancierd werden met middelen van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant, vermeld in artikel 16 van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992;<br>
+3° onder de voorwaarden, gesteld door de Vlaamse Regering, worden verhuurd aan openbare besturen, aan welzijnsorganisaties of aan organisaties die de Vlaamse Regering daartoe erkent;<br>
+4° worden verhuurd of ter beschikking worden gesteld aan de categorieën van personen die de Vlaamse Regering bepaalt.<br>
+<br>
+§ 2. De Vlaamse Regering stelt de voorwaarden vast voor de verhuring van sociale huurwoningen, met inachtneming van de bepalingen van deze titel. De Vlaamse Regering kan specifieke voorwaarden vaststellen voor de woningen die worden verhuurd door :<br>
+1° de VMSW en de sociale huisvestingsmaatschappijen;<br>
+2° het VWF, na advies van het VWF;<br>
+3° de gemeenten en intergemeentelijke samenwerkingsverbanden, na advies van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+4° de OCMW's en de OCMW-verenigingen, na advies van de Vereniging van Vlaamse Steden en Gemeenten;<br>
+5° de sociale verhuurkantoren.<br>
+<br>
+§ 3. Voor de aspecten die niet geregeld zijn in deze titel of in de besluiten die genomen zijn ter uitvoering van deze titel, gelden de bepalingen van boek III, titel VIII, hoofdstuk II, afdeling I, van het Burgerlijk Wetboek en het Vlaams Woninghuurdecreet.
 
 ### ART. 92.
 
 § 1. Een sociale huurwoning wordt verhuurd op grond van een schriftelijke huurovereenkomst die ten minste de hierna vermelde gegevens en regelingen bevat :<br>
 1° de datum waarop de woning beschikbaar wordt gesteld en waarop de huurovereenkomst ingaat;<br>
 2° de identiteit van de huurder van de sociale huurwoning, alsmede van de inwonende minderjarige kinderen;<br>
-3° in afwijking van artikel 3 van afdeling II van boek III, titel VIII, hoofdstuk II, van het Burgerlijk Wetboek inzake huishuur, de duur van de huur en de mogelijkheid tot opzegging van de huurovereenkomst, alsook, onder de door de Vlaamse Regering te bepalen voorwaarden, de proefperiode van maximaal twee jaar. De proefperiode heeft als doel tijdens de duur van de proefperiode de huurder te evalueren, nauwgezet op te volgen en eventueel bij te sturen. Artikel 98, § 3, geldt onverkort tijdens de proefperiode;<br>
+3°&nbsp;de duur van de huur en de mogelijkheid tot opzegging van de huurovereenkomst, alsook, onder de door de Vlaamse Regering te bepalen voorwaarden, de proefperiode van maximaal twee jaar. De proefperiode heeft als doel tijdens de duur van de proefperiode de huurder te evalueren, nauwgezet op te volgen en eventueel bij te sturen. Artikel 98, § 3, geldt onverkort tijdens de proefperiode;<br>
 4° de verplichtingen van enerzijds de verhuurder en anderzijds de huurder van de sociale huurwoning;<br>
 5° de elementen voor de berekening van de bedragen die de huurder van de sociale huurwoning moet betalen, aan wie en de manier waarop die betaling plaatsvindt;<br>
 6° ...<br>
