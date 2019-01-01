@@ -245,7 +245,9 @@ Een tijdelijk personeelslid als vermeld in artikel 2, eerste lid, 2°, 3°, 4°,
 
 <span style="color: rgb(0, 0, 0);">Personeelsleden die hun arbeidsprestaties onderbreken, dienen bij het departement een aanvraag in om een onderbrekingsuitkering voor zorgkrediet te verkrijgen.</span><br>
 <br>
-<span style="color: rgb(0, 0, 0);">De aanvraag wordt ingediend met het papieren aanvraagformulier of, als dat door het departement ter beschikking wordt gesteld, met een elektronisch aanvraagformulier.</span><br>
+De aanvraag wordt ingediend met een elektronisch aanvraagformulier dat door het departement ter beschikking wordt gesteld.<br>
+<br>
+Indien het voor de werknemer onmogelijk is om gebruik te maken van een elektronisch aanvraagformulier, neemt het personeelslid of de werkgever contact op met het departement. Het departement zoekt in overleg met het personeelslid of de werkgever naar een passende oplossing om de aanvraag in te dienen.<br>
 &nbsp;
 
 ### ART 17.
