@@ -2,16 +2,16 @@
   "codex_id": 1031837,
   "title": "Besluit van de Vlaamse Regering van 2019-04-26 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de harmonisering van de arbeidsvoorwaarden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031837/VolledigDocument?datum=2018-04-01",
-  "source_sha256": "88f27e17444557c9ee3cb0952fc2ed75ff46d98ef1f4c31d9a390a36dcb350bf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031837/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c767292157b7e99ea41efa5599e558d45cc78ecdc0919fe5f0615a4630600325",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031837&param=informatie",
-  "as_of": "2018-04-01",
+  "as_of": "2019-01-01",
   "made": "2019-04-26",
   "gazette": "2019-06-26",
   "numac": 2019012962,
   "document_start": "2019-06-01",
   "document_end": null,
-  "in_force": "2018-04-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
