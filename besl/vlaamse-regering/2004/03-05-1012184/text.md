@@ -481,15 +481,82 @@ Bij het einde van zijn opdracht stelt de arrondissementscommissaris zich opnieuw
 
 ### ART. 81/2.
 
-Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde perken dienstvrijstelling verleend voor de uitoefening van de volgende politieke mandaten :<br />1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van een raad voor maatschappelijk welzijn van een gemeente, de voorzitter uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege uitgezonderd : twee dagen per maand;<br />2° provincieraadslid dat geen lid is van de deputatie : twee dagen per maand.
+Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde grenzen, twee dagen per maand dienstvrijstelling verleend voor de uitoefening van de volgende politieke mandaten:<br>
+1° gemeenteraadslid;<br>
+2° lid van de raad voor maatschappelijk welzijn, dat geen gemeenteraadslid is;<br>
+3° lid van het bijzonder comité voor de sociale dienst, dat geen gemeenteraadslid of lid van de raad voor maatschappelijk welzijn is;<br>
+4° lid van de districtsraad;<br>
+5° lid van de provincieraad.<br>
+<br>
+De dienstvrijstelling, vermeld in het eerste lid, is niet van toepassing als de arrondissementscommissaris naast een mandaat als vermeld in het eerste lid, ook één of meer van de volgende mandaten uitoefent:<br>
+1° burgemeester;<br>
+2° schepen;<br>
+3° districtsburgemeester;<br>
+4° districtsschepen;<br>
+5° voorzitter van het bijzonder comité voor de sociale dienst;<br>
+6° lid van het vast bureau van een openbaar centrum voor maatschappelijk welzijn dat een andere gemeente bedient dan de gemeente Voeren of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996;<br>
+7° voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996;<br>
+8° gedeputeerde.
 
 ### ART. 81/3.
 
-Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde perken facultatief politiek verlof toegekend voor de uitoefening van de volgende politieke mandaten :<br />1° gemeenteraadslid dat noch burgemeester noch schepen is, of lid van de raad voor maatschappelijk welzijn van een gemeente, de voorzitter en de leden van het vast bureau uitgezonderd, of lid van de districtsraad van een district, de voorzitter van het districtscollege en de leden van het districtscollege uitgezonderd :<br />a) tot 80.000 inwoners : twee dagen per maand;<br />b) meer dan 80.000 inwoners : vier dagen per maand;<br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente of van het districtscollege van een district :<br />a) tot 30.000 inwoners : vier dagen per maand;<br />b) van 30.001 tot 50.000 inwoners : een vierde van een voltijds ambt;<br />c) van 50.001 tot 80.000 inwoners : de helft van een voltijds ambt;<br />3° lid van het vast bureau van de raad voor maatschappelijk welzijn van een gemeente of van het districtscollege van een district :<br />a) tot 10.000 inwoners : twee dagen per maand;<br />b) van 10.001 tot 20.000 inwoners : drie dagen per maand;<br />c) met meer dan 20.000 inwoners : vijf dagen per maand;<br />4° burgemeester van een gemeente :<br />a) tot 30.000 inwoners : een vierde van een voltijds ambt;<br />b) van 30.001 tot 50.000 inwoners : de helft van een voltijds ambt;<br />5° provincieraadslid dat geen lid is van de deputatie : vier dagen per maand.
+Op aanvraag van de arrondissementscommissaris wordt binnen de hierna bepaalde grenzen, facultatief politiek verlof toegekend voor de uitoefening van de volgende politieke mandaten:<br>
+1° gemeenteraadslid, lid van de raad voor maatschappelijk welzijn dat geen lid is van de gemeenteraad, lid van het bijzonder comité voor de sociale dienst, dat geen gemeenteraadslid of lid van de raad voor maatschappelijk welzijn is of districtsraadslid:<br>
+a) in een gemeente of district tot en met 80.000 inwoners: twee dagen per maand;<br>
+b) in een gemeente of district van 80.001 of meer inwoners: vier dagen per maand;<br>
+2° schepen, voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996 of districtsburgemeester:<br>
+a) in een gemeente of district tot en met 30.000 inwoners: vier dagen per maand;<br>
+b) in een gemeente of district van 30.001 tot en met 50.000 inwoners: een vierde van een voltijds ambt;<br>
+c) in een gemeente of district van 50.001 tot en met 80.000 inwoners: de helft van een voltijds ambt;<br>
+3° districtsschepen:<br>
+a) in een district tot en met 10.000 inwoners: twee dagen per maand;<br>
+b) in een district van 10.001 tot en met 20.000 inwoners: drie dagen per maand;<br>
+c) in een district van 20.001 of meer inwoners: vijf dagen per maand;<br>
+4° burgemeester:<br>
+a) in een gemeente tot en met 30.000 inwoners: een vierde van een voltijds ambt;<br>
+b) in een gemeente van 30.001 tot en met 50.000 inwoners: de helft van een voltijds ambt;<br>
+5° provincieraadslid dat geen gedeputeerde is: vier dagen per maand.<br>
+<br>
+Het politiek verlof, vermeld in het eerste lid, 1°, wordt niet toegekend als de arrondissementscommissaris ook één of meer van de volgende mandaten uitoefent:<br>
+1° burgemeester;<br>
+2° schepen;<br>
+3° districtsburgemeester;<br>
+4° districtsschepen;<br>
+5° voorzitter van het bijzonder comité voor de sociale dienst;<br>
+6° lid van het vast bureau van een openbaar centrum voor maatschappelijk welzijn dat een andere gemeente bedient dan de gemeente Voeren of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996;<br>
+7° voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn dat de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996.
 
 ### ART. 81/4.
 
-De arrondissementscommissaris wordt binnen de hierna bepaalde perken met politiek verlof van ambtswege gezonden voor de uitoefening van de volgende politieke mandaten :<br />1° burgemeester van een gemeente of voorzitter van het districtscollege van een district :<br />a) tot 20.000 inwoners : drie dagen per maand;<br />b) van 20.001 tot 30.000 inwoners : een vierde van een voltijds ambt;<br />c) van 30.001 tot 50.000 inwoners : de helft van een voltijds ambt;<br />d) met meer dan 50.000 inwoners : voltijds.<br />2° schepen of voorzitter van de raad voor maatschappelijk welzijn van een gemeente of lid van het districtscollege van een district :<br />a) tot 20.000 inwoners : 2 dagen per maand;<br />b) van 20.001 inwoners tot 30.000 inwoners : vier dagen per maand;<br />c) van 30.001 tot 50.000 inwoners : een vierde van een voltijds ambt;<br />d) van 50.001 tot 80.000 inwoners : de helft van een voltijds ambt;<br />e) met meer dan 80.000 inwoners : voltijds.<br />3° lid van de deputatie van een provincieraad : voltijds;<br />4° lid van de Kamer van Volksvertegenwoordigers of van de Senaat : voltijds;<br />5° lid van het Brussels Hoofdstedelijk Parlement : voltijds;<br />6° lid van het Europees Parlement : voltijds;<br />7° lid van het Vlaams Parlement : voltijds;<br />8° lid van de Federale Regering : voltijds;<br />9° lid van de Brusselse Hoofdstedelijke Regering : voltijds;<br />10° gewestelijk staatssecretaris van het Brussels Hoofdstedelijk Gewest : voltijds;<br />11° lid van de Commissie van de Europese Unie : voltijds;<br />12° lid van de Vlaamse Regering : voltijds.<br /><br />In het geval, vermeld in het eerste lid, 1°, worden de voorzitters van het districtscollege van een district voor het politiek verlof van ambtswege gelijkgesteld met een burgemeester van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de burgemeester die zij ontvangen.<br /><br />In het geval vermeld in het eerste lid, 2°, worden de leden van het districtscollege van een district voor het politiek verlof van ambtswege gelijkgesteld met een schepen van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de schepenen die zij ontvangen.<br /><br />Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging.
+De arrondissementscommissaris wordt binnen de hierna bepaalde perken met politiek verlof van ambtswege gezonden voor de uitoefening van de volgende politieke mandaten :<br>
+1° burgemeester van een gemeente of districtsburgemeester:<br>
+a) tot 20.000 inwoners : drie dagen per maand;<br>
+b) van 20.001 tot 30.000 inwoners : een vierde van een voltijds ambt;<br>
+c) van 30.001 tot 50.000 inwoners : de helft van een voltijds ambt;<br>
+d) met meer dan 50.000 inwoners : voltijds.<br>
+2° schepen of districtsschepen:<br>
+a) tot 20.000 inwoners : 2 dagen per maand;<br>
+b) van 20.001 inwoners tot 30.000 inwoners : vier dagen per maand;<br>
+c) van 30.001 tot 50.000 inwoners : een vierde van een voltijds ambt;<br>
+d) van 50.001 tot 80.000 inwoners : de helft van een voltijds ambt;<br>
+e) met meer dan 80.000 inwoners : voltijds.<br>
+2° /1 voorzitter van de raad voor maatschappelijk welzijn van een openbaar centrum voor maatschappelijk welzijn die de gemeente Voeren bedient, of een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1996: de regeling voor schepen, vermeld in punt 2° is overeenkomstig van toepassing;<br>
+3° de gedeputeerde: voltijds;<br>
+4° lid van de Kamer van Volksvertegenwoordigers of van de Senaat : voltijds;<br>
+5° lid van het Brussels Hoofdstedelijk Parlement : voltijds;<br>
+6° lid van het Europees Parlement : voltijds;<br>
+7° lid van het Vlaams Parlement : voltijds;<br>
+8° lid van de Federale Regering : voltijds;<br>
+9° lid van de Brusselse Hoofdstedelijke Regering : voltijds;<br>
+10° staatssecretaris van het Brussels Hoofdstedelijk Gewest: voltijds;<br>
+11° lid van de Commissie van de Europese Unie : voltijds;<br>
+12° lid van de Vlaamse Regering : voltijds.<br>
+<br>
+In het geval, vermeld in het eerste lid, 1°, worden de districtsburgemeesters voor het politiek verlof van ambtswege gelijkgesteld met een burgemeester van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de burgemeester die zij ontvangen.<br>
+<br>
+In het geval vermeld in het eerste lid, 2°, worden de districtsschepenen voor het politiek verlof van ambtswege gelijkgesteld met een schepen van een gemeente waarbij de duur van het ambtshalve politiek verlof beperkt wordt tot het percentage van de vergoeding van de schepenen die zij ontvangen.<br>
+<br>
+Het politiek verlof van ambtswege vangt aan op de datum van de eedaflegging.
 
 ### ART. 81/5.
 
@@ -497,15 +564,27 @@ In afwijking van artikel 81/1 wordt de arrondissementscommissaris die zijn ambt 
 
 ### ART. 81/6.
 
-De arrondissementscommissaris die voor de uitoefening van een mandaat van burgemeester, schepen of voorzitter van een raad voor maatschappelijk welzijn of van het districtscollege van een district recht heeft op politiek verlof waarvan de duur niet de helft van een voltijds ambt overschrijdt, kan, op aanvraag, halftijds of voltijds politiek verlof krijgen.<br /><br />De arrondissementscommissaris die voor de uitoefening van een mandaat als vermeld in het eerste lid, recht heeft op halftijds politiek verlof, kan, op aanvraag, voltijds politiek verlof krijgen.<br /><br />Het politiek verlof dat met toepassing van het eerste en tweede lid wordt verkregen, wordt gelijkgesteld met politiek verlof van ambtswege voor de weerslag die het heeft op de administratieve en geldelijke toestand van de arrondissementscommissaris.
+De arrondissementscommissaris die voor de uitoefening van een mandaat van burgemeester, schepen of voorzitter van een raad voor maatschappelijk welzijn of een districtsburgemeester recht heeft op politiek verlof waarvan de duur niet de helft van een voltijds ambt overschrijdt, kan, op aanvraag, halftijds of voltijds politiek verlof krijgen.<br>
+<br>
+De arrondissementscommissaris die voor de uitoefening van een mandaat als vermeld in het eerste lid, recht heeft op halftijds politiek verlof, kan, op aanvraag, voltijds politiek verlof krijgen.<br>
+<br>
+Het politiek verlof dat met toepassing van het eerste en tweede lid wordt verkregen, wordt gelijkgesteld met politiek verlof van ambtswege voor de weerslag die het heeft op de administratieve en geldelijke toestand van de arrondissementscommissaris.
 
 ### ART. 81/7.
 
-De afwezigheden wegens facultatief politiek verlof en politiek verlof van ambtswege voor een politiek mandaat, als vermeld in artikel 81/3 en 81/4, eerste lid, 1°, 2° en 3°, worden gelijkgesteld met een periode van dienstactiviteit. De arrondissementscommissaris heeft evenwel geen recht op salaris.<br /><br />Het voltijds politiek verlof van ambtswege voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, wordt gelijkgesteld met een periode van non-activiteit.
+De afwezigheden wegens facultatief politiek verlof en politiek verlof van ambtswege voor een politiek mandaat, als vermeld in artikel 81/3 en 81/4, eerste lid, 1°, 2°, 2° /1 en 3°, worden gelijkgesteld met een periode van dienstactiviteit. De arrondissementscommissaris heeft evenwel geen recht op salaris.<br>
+<br>
+Het voltijds politiek verlof van ambtswege voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, wordt gelijkgesteld met een periode van non-activiteit.
 
 ### ART. 81/8.
 
-§ 1. Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/2, 81/3 en 81/4, eerste lid, 1°, 2° en 3°, eindigt uiterlijk op de laatste dag van de maand die volgt op de maand waarin het mandaat eindigt.<br /><br />Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, loopt tot zes maanden na de beëindiging van het mandaat.<br /><br />Vanaf dat ogenblik herkrijgt de betrokkene alle statutaire rechten.<br /><br />§ 2. De arrondissementscommissaris mag na wederindiensttreding zijn salaris niet cumuleren met een voordeel dat verbonden is aan de uitoefening van het afgelopen mandaat.
+§ 1. Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/2, 81/3 en 81/4, eerste lid, 1°, 2°, 2° /1 en 3°, eindigt uiterlijk op de laatste dag van de maand die volgt op de maand waarin het mandaat eindigt.<br>
+<br>
+Het politiek verlof voor een politiek mandaat als vermeld in artikel 81/4, eerste lid, 4° tot en met 12°, loopt tot zes maanden na de beëindiging van het mandaat.<br>
+<br>
+Vanaf dat ogenblik herkrijgt de betrokkene alle statutaire rechten.<br>
+<br>
+§ 2. De arrondissementscommissaris mag na wederindiensttreding zijn salaris niet cumuleren met een voordeel dat verbonden is aan de uitoefening van het afgelopen mandaat.
 
 ## [TITEL 7/2 GEBOORTEVERLOF (ing. BVR 28 juni 2019, art. 27, I: 4 oktober 2019)]
 
