@@ -2,16 +2,16 @@
   "codex_id": 1018506,
   "title": "Ministerieel besluit van 2009-09-14 tot bepaling van de standaard voor de titel van pijplasser",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018506/VolledigDocument?datum=2009-11-03",
-  "source_sha256": "7e5ef52ed6f3b226d0c964617713ca2a9d7f5cfdb683ce5ee85f0cb249a3937e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018506/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "ec06ae3d50aaa801c412f03b6284158bc68b09a35784bc707304a9740984af9d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018506&param=informatie",
-  "as_of": "2009-11-03",
+  "as_of": "2019-01-01",
   "made": "2009-09-14",
   "gazette": "2009-11-03",
   "numac": 2009204860,
   "document_start": "2009-11-03",
   "document_end": "2018-12-31",
-  "in_force": "2009-11-03",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
