@@ -23,7 +23,7 @@ In dit besluit wordt verstaan onder :<br>
 6° niet-overdekte constructies : constructies zonder bouwvolume waarvan de hoogte beperkt is tot 1,5 meter boven het maaiveld;<br>
 7° openbaar domein : de openbare wegen, de spoorwegen, de bevaarbare rivieren en de kanalen dienstig voor de scheepvaart of een ander gebruik van openbaar nut, de onbevaarbare waterlopen, met telkens hun aanhorigheden, de openbare parken en pleinen, de zeestranden en duinen;<br>
 8° open afsluiting : afsluiting in draad of draadgaas;<br>
-8° /1. overstromingsgevoelig gebied: gebied opgenomen in bijlage I van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+8° /1. overstromingsgevoelig gebied: gebied opgenomen in bijlage I van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in artikel 1.3.1.1 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 9° Ramsargebied : een gebied dat aangewezen is krachtens de overeenkomst inzake watergebieden die van internationale betekenis zijn, opgemaakt in Ramsar op 2 februari 1971;<br>
 10° schuilhok : een eenvoudige constructie, waarin een of meer weidedieren tijdelijk kunnen verblijven. Schuilhokken zijn geenszins uitgerust zoals stallen, die bestemd zijn om dieren permanent te huisvesten;<br>
 11° voorgevel : elke gevel gericht op de voorliggende weg, met uitzondering van garagewegen of voetwegen;<br>
@@ -56,8 +56,8 @@ Overeenkomstig artikel 4.2.3. van de Vlaamse Codex Ruimtelijke Ordening zijn de 
 
 De bepalingen van dit besluit zijn niet van toepassing op handelingen gelegen in:<br>
 1° een vijf meter brede strook, te rekenen vanaf de bovenste rand van het talud van ingedeelde onbevaarbare en bevaarbare waterlopen, alsook in de bedding van deze waterlopen;<br>
-2° de erfdienstbaarheidszone langs grachten van algemeen belang, opgelegd in toepassing van artikel 32quaterdecies, § 2, van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
-3° een afgebakende oeverzone als vermeld in artikel 3, § 2, 43bis° , van het decreet van 18 juli 2003 betreffende het integraal waterbeleid.<br>
+2° de erfdienstbaarheidszone langs grachten van algemeen belang, opgelegd in toepassing van artikel 3.4.1, § 2, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+3° een afgebakende oeverzone als vermeld in artikel 1.1.3., § 2, 46°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
 <br>
 De bepalingen van het eerste lid zijn niet van toepassing op handelingen, uitgevoerd door of in opdracht van de beheerder van de waterloop of gracht.
 
