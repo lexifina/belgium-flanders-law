@@ -2,16 +2,16 @@
   "codex_id": 1013061,
   "title": "Decreet van 2004-05-07 [tot omvorming van het intern verzelfstandigd agentschap met rechtspersoonlijkheid \"Agentschap voor Infrastructuur in het Onderwijs\" naar een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap \"Agentschap voor Infrastructuur in het Onderwijs\" (verv. decr. 16 november 2012, art. 2)]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013061/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "aeff76b0d43ac324696a3469457805050b77a6b3e6331d76878f9b940d3e2e4d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013061/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "13f63d7d09486b581a9e1c7769033b40534e2b7eab3885349f0b86e067f7f9db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013061&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2019-01-01",
   "made": "2004-05-07",
   "gazette": "2004-06-07",
   "numac": 2004035844,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

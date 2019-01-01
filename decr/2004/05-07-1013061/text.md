@@ -8,13 +8,23 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder : <BR>1° het   kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>2°   representatieve verenigingen van inrichtende machten : de representatieve   verenigingen van inrichtende machten, bedoeld in artikel 80 van het decreet van   2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;   <BR>3° ouderkoepelverenigingen : de ouderkoepelverenigingen zoals bedoeld in   artikel 2, 10°, van het decreet van 2 april 2004 betreffende participatie op   school en de Vlaamse Onderwijsraad; <BR>4° leerlingenkoepelverenigingen : de   leerlingenkoepelverenigingen zoals bedoeld in artikel 2, 6°, van het decreet van   2 april 2004 betreffende participatie op school en de Vlaamse   Onderwijsraad.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;<br>
+2° representatieve verenigingen van inrichtende machten : de representatieve verenigingen van inrichtende machten, bedoeld in artikel 80 van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br>
+3° ouderkoepelverenigingen : de ouderkoepelverenigingen zoals bedoeld in artikel 2, 10°, van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br>
+4° leerlingenkoepelverenigingen : de leerlingenkoepelverenigingen zoals bedoeld in artikel 2, 6°, van het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad.
 
 ## HOOFDSTUK II OPRICHTING
 
 ### ART. 3.
 
-<P>Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid   opgericht als bedoeld in artikel 10 van het kaderdecreet. Dit agentschap draagt   als naam "Agentschap voor Infrastructuur in het Onderwijs", afgekort:   "AGIOn".<BR><BR>Het krachtens het eerste lid opgerichte intern verzelfstandigd   agentschap met rechtspersoonlijkheid wordt zonder onderbreking van   rechtspersoonlijkheid omgevormd tot een publiekrechtelijk vormgegeven extern   verzelfstandigd agentschap als bedoeld in artikel 13 van het kaderdecreet, dat   de naam "Agentschap voor Infrastructuur in het Onderwijs" draagt.<BR><BR>De   Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap   behoort.<BR><BR>De bepalingen van het Kaderdecreet zijn van toepassing op het   agentschap.</P>
+<p>Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel III.4 van het Bestuursdecreet. Dit agentschap draagt als naam "Agentschap voor Infrastructuur in het Onderwijs", afgekort: "AGIOn".<br>
+<br>
+Het krachtens het eerste lid opgerichte intern verzelfstandigd agentschap met rechtspersoonlijkheid wordt zonder onderbreking van rechtspersoonlijkheid omgevormd tot een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als bedoeld in artikel III.7 van het Bestuursdecreet, dat de naam "Agentschap voor Infrastructuur in het Onderwijs" draagt.<br>
+<br>
+De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap.</p>
 
 ## HOOFDSTUK III MISSIE, TAKEN EN BEVOEGDHEDEN
 
@@ -34,7 +44,13 @@ Tot de kerntaken van AGIOn behoren:<BR>1° ...<BR>2°...;<BR>3° ...;<BR>4°   s
 
 ### ART. 6.
 
-<P>§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de   in artikel 5 bedoelde taken is AGIOn gerechtigd alle activiteiten te verrichten   die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van   voormelde missie en taken.<BR><BR>Het agentschap kan beleidsregels opstellen die   aangeven op welke wijze het agentschap de taken van artikel 5 zal   uitvoeren.<BR><BR>§ 2. De Vlaamse Regering kan nadere regels uitvaardigen   betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels   kunnen taken van het agentschap verder worden gepreciseerd en/of   geconcretiseerd.<BR><BR>§ 3. Als rechtspersoon is AGIOn algemeen rechts-,   handelings- en procesbekwaam, binnen de perken van zijn missie en takenstelling   zoals bedoeld in respectievelijk artikel 4 en artikel 5 en binnen de perken van   het kaderdecreet.</P>
+<p>§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is AGIOn gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en taken.<br>
+<br>
+Het agentschap kan beleidsregels opstellen die aangeven op welke wijze het agentschap de taken van artikel 5 zal uitvoeren.<br>
+<br>
+§ 2. De Vlaamse Regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
+<br>
+§ 3. Als rechtspersoon is AGIOn algemeen rechts-, handelings- en procesbekwaam, binnen de perken van zijn missie en takenstelling zoals bedoeld in respectievelijk artikel 4 en artikel 5 en binnen de perken van het Bestuursdecreet.</p>
 
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
@@ -44,11 +60,30 @@ Tot de kerntaken van AGIOn behoren:<BR>1° ...<BR>2°...;<BR>3° ...;<BR>4°   s
 
 ### ART. 8.
 
-<P>&nbsp;§ 1. De leden van de raad van bestuur worden aangesteld door de Vlaamse   Regering conform artikel 18, § 1, van het kaderdecreet en rekening houdend met   het bepaalde in artikel 7 en 9 van dit decreet.<BR><BR>§ 2. Met uitzondering van   de afgevaardigd bestuurder van AGIOn worden de in artikel 7 bedoelde leden van   de raad van bestuur door de Vlaamse Regering aangesteld uit lijsten van ten   minste twee kandidaten per te begeven mandaat, waarvan telkens een man en een   vrouw.<BR><BR>§ 3. De in de artikel 7, § 2, bedoelde leden van de raad van   bestuur kunnen te allen tijde door de Vlaamse Regering worden   ontslagen.<BR><BR>§ 4. De in artikel 7, § 1 en § 3, bedoelde leden van de raad   van bestuur kunnen door de Vlaamse Regering worden ontslagen na overleg met de   betrokken organisaties.<BR><BR>Het ontslag kan ook worden verzocht door de   organisaties op wier voordracht het betrokken lid is aangesteld. Na overleg met   de betrokken organisaties, willigt de Vlaamse Regering zulk gehandhaafd verzoek   in. </P>
+<p>§ 1. De leden van de raad van bestuur worden aangesteld door de Vlaamse Regering conform artikel III.10, § 1, van het Bestuursdecreet en rekening houdend met het bepaalde in artikel 7 en 9 van dit decreet.<br>
+<br>
+§ 2. Met uitzondering van de afgevaardigd bestuurder van AGIOn worden de in artikel 7 bedoelde leden van de raad van bestuur door de Vlaamse Regering aangesteld uit lijsten van ten minste twee kandidaten per te begeven mandaat, waarvan telkens een man en een vrouw.<br>
+<br>
+§ 3. De in de artikel 7, § 2, bedoelde leden van de raad van bestuur kunnen te allen tijde door de Vlaamse Regering worden ontslagen.<br>
+<br>
+§ 4. De in artikel 7, § 1 en § 3, bedoelde leden van de raad van bestuur kunnen door de Vlaamse Regering worden ontslagen na overleg met de betrokken organisaties.<br>
+<br>
+Het ontslag kan ook worden verzocht door de organisaties op wier voordracht het betrokken lid is aangesteld. Na overleg met de betrokken organisaties, willigt de Vlaamse Regering zulk gehandhaafd verzoek in.</p>
 
 ### ART. 8bis.
 
-§ 1. De raad van bestuur vormt een college en functioneert overeenkomstig   de regels die gelden voor beraadslagende organen. Onverminderd hetgeen is   bepaald in de artikelen 11, 12, en 13 geniet de raad van bestuur de volheid van   bestuursbevoegdheid, met uitzondering van het dagelijks bestuur en de   bevoegdheden die door dit decreet aan de afgevaardigd bestuurder en het college   van algemeen directeurs van de hogescholen zijn toegewezen.<BR><BR>De raad van   bestuur is in het kader van haar vermelde bestuursbevoegdheid bevoegd om alle   handelingen die nodig of dienstig zijn voor de verwezenlijking van de missie en   de taken van AGIOn te verrichten.<BR><BR>§ 2. Tot de voorbehouden bevoegdheden   van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk   geval : <BR>1° het sluiten, op voorstel van de afgevaardigd bestuurder, van de   beheersovereenkomst, bedoeld in artikel 14 van het kaderdecreet; <BR>2° het   opstellen, op voorstel van de afgevaardigd bestuurder, van het ontwerp van   begroting en van de rekeningen; <BR>3° het vaststellen, op voorstel van de   afgevaardigd bestuurder, van het jaarlijks ondernemingsplan, evenals een   operationeel plan op middellange en lange termijn als bedoeld in artikel 15, §   1, 4°, van het kaderdecreet; <BR>4° de goedkeuring van de rapportering aan de   Vlaamse Regering over de uitvoering van de beheersovereenkomst; <BR>5° het   rapporteren over de uitvoering van de begroting.<BR><BR>§ 3. De raad van bestuur   kiest onder de in artikel 7, § 1, bedoelde leden een voorzitter.
+§ 1. De raad van bestuur vormt een college en functioneert overeenkomstig de regels die gelden voor beraadslagende organen. Onverminderd hetgeen is bepaald in de artikelen 11, 12, en 13 geniet de raad van bestuur de volheid van bestuursbevoegdheid, met uitzondering van het dagelijks bestuur en de bevoegdheden die door dit decreet aan de afgevaardigd bestuurder en het college van algemeen directeurs van de hogescholen zijn toegewezen.<br>
+<br>
+De raad van bestuur is in het kader van haar vermelde bestuursbevoegdheid bevoegd om alle handelingen die nodig of dienstig zijn voor de verwezenlijking van de missie en de taken van AGIOn te verrichten.<br>
+<br>
+§ 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval :<br>
+1° ...;<br>
+2° het opstellen, op voorstel van de afgevaardigd bestuurder, van het ontwerp van begroting en van de rekeningen;<br>
+3° het vaststellen, op voorstel van de afgevaardigd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als bedoeld in artikel III.61 van het Bestuursdecreet;<br>
+4° de goedkeuring van de rapportering aan de Vlaamse Regering over de uitvoering van de beheersovereenkomst;<br>
+5° het rapporteren over de uitvoering van de begroting.<br>
+<br>
+§ 3. De raad van bestuur kiest onder de in artikel 7, § 1, bedoelde leden een voorzitter.
 
 ## HOOFDSTUK V FINANCIËLE MIDDELEN
 
