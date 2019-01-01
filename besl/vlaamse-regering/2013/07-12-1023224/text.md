@@ -97,7 +97,11 @@ In afwijking van artikel 2, § 1, eerste lid, is de Commissie, als ze met toepas
 <br>
 Voor de toepassing van het eerste lid gelden voor de samenstelling van de Commissie en voor de beraadslaging en de stemming door de Commissie de bepalingen van paragraaf 1, vierde lid. In afwijking van artikel 13, § 2, eerste lid, keurt de Commissie het verzoek of het advies met minstens negen stemmen goed.<br>
 <br>
-§ 3. Bezwaren over de erkenning van artsen-specialisten en huisartsen worden behandeld door de kamer voor artsen-specialisten en huisartsen. Bezwaren over de erkenning van tandartsen en tandartsen-specialisten worden behandeld door de kamer voor tandartsen en tandartsen-specialisten.</p>
+§ 3. Bezwaren over de erkenning van artsen-specialisten en huisartsen worden behandeld door de kamer voor artsen-specialisten en huisartsen. Bezwaren over de erkenning van tandartsen en tandartsen-specialisten worden behandeld door de kamer voor tandartsen en tandartsen-specialisten.<br>
+<br>
+§ 4. Voor de behandeling van bezwaren over het voornemen tot weigering van de erkenning van zorgkassen en bezwaren over het voornemen tot intrekking van de erkenning van zorgkassen zijn de kamer voor gezondheidsvoorzieningen en de kamer voor welzijnsvoorzieningen gezamenlijk bevoegd. In dat geval zijn artikel 9 tot en met 12, artikel 15, eerste lid, en artikel 16 tot en met 21 van overeenkomstige toepassing, met dien verstande dat:<br>
+1° de vergadering van de gezamenlijk bevoegde kamers wordt voorgezeten door een voorzitter of een ondervoorzitter van een van de gezamenlijk bevoegde kamers of hun plaatsvervanger;<br>
+2° de gezamenlijk bevoegde kamers alleen geldig kunnen beraadslagen en stemmen als minstens de voorzitter of de ondervoorzitter, of hun plaatsvervangers, en twee leden van elk van de kamers, of hun plaatsvervangers, aanwezig zijn.</p>
 
 ### ART. 9.
 
