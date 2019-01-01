@@ -36,7 +36,9 @@ De stroomgebiedbeheerplannen voor de planperiode 2016-2021 bestaan uit de volgen
 
 ### ART. 2.
 
-<P>Overeenkomstig   artikel 38 van het decreet van 18 juli 2003 betreffende het integraal   waterbeleid worden de door de Vlaamse Regering vastgestelde   stroomgebiedbeheerplannen bij uittreksel bekendgemaakt in het Belgisch   Staatsblad en door de Coördinatiecommissie Integraal Waterbeleid digitaal ter   beschikking gesteld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   definitieve herziene zoneringsplannen en de definitieve gebiedsdekkende   uitvoeringsplannen worden daarnaast ter inzage gelegd bij de respectieve   gemeenten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Overeenkomstig artikel&nbsp;1.6.2.6 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018 worden de door de Vlaamse Regering vastgestelde stroomgebiedbeheerplannen bij uittreksel bekendgemaakt in het Belgisch Staatsblad en door de Coördinatiecommissie Integraal Waterbeleid digitaal ter beschikking gesteld.</p>
+
+<p>De definitieve herziene zoneringsplannen en de definitieve gebiedsdekkende uitvoeringsplannen worden daarnaast ter inzage gelegd bij de respectieve gemeenten.</p>
 
 ### ART. 3.
 
