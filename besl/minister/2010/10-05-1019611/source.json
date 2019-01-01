@@ -2,16 +2,16 @@
   "codex_id": 1019611,
   "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van poetshulp",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019611/VolledigDocument?datum=2010-10-26",
-  "source_sha256": "cad09bd04773c7176d38529013c9db8da6d68768d2282b2ba3a23f90be848ff5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019611/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "24cbe0c1c2c124d818ba5d8ea9aff1da7b9080f4ad772f6ae86024e50194e770",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019611&param=informatie",
-  "as_of": "2010-10-26",
+  "as_of": "2019-01-01",
   "made": "2010-10-05",
   "gazette": "2010-10-26",
   "numac": 2010205350,
   "document_start": "2010-10-26",
   "document_end": "2018-12-31",
-  "in_force": "2010-10-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
