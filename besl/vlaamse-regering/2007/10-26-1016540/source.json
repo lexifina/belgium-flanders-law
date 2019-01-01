@@ -2,16 +2,16 @@
   "codex_id": 1016540,
   "title": "Besluit van de Vlaamse Regering van 2007-10-26 tot vaststelling van de uitzonderingsprocedure inzake een meer evenwichtige participatie van vrouwen en mannen in advies- en bestuursorganen van de Vlaamse overheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016540/VolledigDocument?datum=2008-01-25",
-  "source_sha256": "6502e58444f86afd8c2a927f41cee1fe95ee6adc5365d1affd960105af761b5c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016540/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "fd61287db064a4cddfb7c769a947d38bbb7cebc0f49cdaaf2fed62efdc7f34f1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016540&param=informatie",
-  "as_of": "2008-01-25",
+  "as_of": "2019-01-01",
   "made": "2007-10-26",
   "gazette": "2008-01-25",
   "numac": 2008035095,
   "document_start": "2008-01-25",
   "document_end": null,
-  "in_force": "2008-01-25",
+  "in_force": "2019-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2008-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
