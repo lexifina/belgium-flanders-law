@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030541,
+  "title": "Samenwerkingsakkoord van 2018-12-31 tussen de Vlaamse Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie betreffende het uniek loket voor de mobiliteitshulpmiddelen in het tweetalige gebied Brussel-Hoofdstad",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030541/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "fcb326a8aafb65eafecbd546cecf846fbd4c1bab630b12fc52cb7b5d07473059",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030541&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-31",
+  "gazette": "2019-04-11",
+  "numac": 2019011599,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
