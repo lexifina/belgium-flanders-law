@@ -2,16 +2,16 @@
   "codex_id": 1024958,
   "title": "Besluit van de Vlaamse Regering van 2015-01-16 tot vaststelling van de evaluatieprocedure voor regeringscommissarissen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024958/VolledigDocument?datum=2015-02-03",
-  "source_sha256": "ff9cfc14875ee139b158a7175160b536e12de555fbd4f4dd2573c0cc2c0b6496",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024958/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "366d5ed9940c671361ef87bbd11a3685558b36e00d1b03de78bdaea2e81f5004",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024958&param=informatie",
-  "as_of": "2015-02-03",
+  "as_of": "2019-01-01",
   "made": "2015-01-16",
   "gazette": "2015-02-03",
   "numac": 201535103,
   "document_start": "2015-02-03",
   "document_end": null,
-  "in_force": "2015-02-03",
+  "in_force": "2019-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -4,7 +4,9 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° regeringscommissaris: een   regeringscommissaris als vermeld in artikel 3, 2°, van het decreet van 22   november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke   sector;<BR>2° bevoegde minister: de minister, vermeld in artikel 17, eerste lid,   van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de   Vlaamse publieke sector.
+In dit besluit wordt verstaan onder:<br>
+1° Regeringscommissaris: een Regeringscommissaris als vermeld in artikel III.48, derde lid, van het bestuursdecreet van 7 december 2018;<br>
+2° bevoegde minister: de minister, vermeld in artikel III.56, eerste lid, van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK 2. Evaluatieprocedure
 
