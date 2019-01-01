@@ -11,7 +11,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houden
 In dit besluit wordt verstaan onder :<br>
 1° aankoop : de verwerving van een gebouw dat in aanmerking komt voor een integrale functionele bestemming als werkplaats;<br>
 2° aanvraagdossier : investeringsdossier zoals voorgelegd door de werkplaats voor het verkrijgen van een investeringssubsidie;<br>
-3° capaciteit : het aan de werkplaats toebedeelde aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers met een arbeidshandicap als bepaald bij het besluit van de Vlaamse Regering van 9 mei 2008 tot vaststelling van de programmatie van de door het Departement Werk en Sociale Economie erkende beschutte werkplaatsen;<br>
+3° capaciteit: het gedeelte binnen het globale contingent dat toegekend is aan de werkplaats met toepassing van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling en het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, dat bestaat uit de personen met een arbeidshandicap, vermeld in artikel 12, tweede lid, 1°, van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 4° nieuwbouw : een nieuwe bouwconstructie met een integrale functionele bestemming als werkplaats;<br>
 5° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
 6° uitbreiding : een nieuwe bouwconstructie die aan een bestaande constructie wordt toegevoegd met een integrale functionele bestemming als werkplaats;<br>
@@ -33,7 +33,7 @@ Om voor een investeringssubsidie in aanmerking te komen moeten de geplande infra
 
 ### ART. 4.
 
-De redelijke extra investeringskosten die de werkplaats maakt ten behoeve van de tewerkstelling van de werknemers met een arbeidshandicap, komen in aanmerking voor een investeringssubsidie.<br>
+De redelijke extra investeringskosten die de werkplaats maakt ten behoeve van de tewerkstelling van de personen met een arbeidshandicap, komen in aanmerking voor een investeringssubsidie.<br>
 <br>
 Maximaal 60 procent van de totale investeringskosten worden geacht redelijke extra investeringskosten te zijn.<br>
 <br>
@@ -54,7 +54,7 @@ De maximale investeringssubsidie bepaald met toepassing van artikel 4 en 5, word
 
 De investeringssubsidie wordt alleen toegekend als :<br>
 1° de nieuwbouw, aankoop of uitbreiding van de infrastructuur ten minste 350 vierkante meter bedraagt;<br>
-2° het aandeel van de werknemers met een arbeidshandicap dat werkzaam is in de nieuw aan te kopen, uit te breiden of te verbouwen infrastructuur met productiebestemming ten minste 50 procent omvat;<br>
+2° het aandeel van de personen met een arbeidshandicap dat werkzaam is in de nieuw aan te kopen, uit te breiden of te verbouwen infrastructuur met productiebestemming ten minste 50 procent omvat;<br>
 3° bij aanvang en tijdens de uitvoering van de werkzaamheden de werkplaats duidelijk publiek bekendmaakt dat de werkzaamheden medegefinancierd worden door de Vlaamse Overheid. Het Departement WSE kan hierover nadere bepalingen vaststellen;<br>
 4° de geplande infrastructuur minimaal tien vierkante meter per voorziene capaciteit omvat;<br>
 5° de werkplaats maximale inspanningen levert inzake duurzaam en ecologisch bouwen.<br>
@@ -82,7 +82,7 @@ Het aanvraagdossier wordt aangetekend verstuurd naar het Departement WSE.<br>
 <br>
 Het ontvankelijk aanvraagdossier bestaat uit :<br>
 1° een aanvraagformulier, waarvan het model wordt aangeleverd door het Departement WSE, met daarin :<br>
-a) een motivering van de investeringen, onder meer in het licht van een langetermijnvisie en met het oog op de tewerkstellingsperspectieven van de huidige en de potentiële werknemers met een arbeidshandicap;<br>
+a) een motivering van de investeringen, onder meer in het licht van een langetermijnvisie en met het oog op de tewerkstellingsperspectieven van de huidige en de potentiële personen met een arbeidshandicap;<br>
 b) een gedetailleerde kostenraming van de investeringen, alsook een sluitend financieel plan voor de financiering van de investeringen waarvoor de investeringssubsidie wordt aangevraagd;<br>
 2° de schriftelijke verbintenis dat de werkplaats de wetgeving inzake de overheidsopdrachten zal toepassen;<br>
 3° de notulen van de raad van bestuur van de werkplaats waaruit de beslissing tot uitvoering van de infrastructuurwerken waarvoor een subsidieaanvraag wordt aangevraagd, blijkt;<br>
