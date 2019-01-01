@@ -2,16 +2,16 @@
   "codex_id": 1021154,
   "title": "Ministerieel besluit van 2011-12-16 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021154/VolledigDocument?datum=2011-11-17",
-  "source_sha256": "f6ebecdb31b8617e5fcff632d83bd1ea595a58fe6172beb2f545f5ce8048a78d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021154/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "588cd9270249fe449c6dbba3d853387fc955b0cd35ef60d3a1e72e4b41369fab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021154&param=informatie",
-  "as_of": "2011-11-17",
+  "as_of": "2019-01-01",
   "made": "2011-12-16",
   "gazette": "2012-01-10",
   "numac": 2011206556,
   "document_start": "2011-11-17",
   "document_end": "2018-12-31",
-  "in_force": "2011-11-17",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2011-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

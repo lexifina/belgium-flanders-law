@@ -15,8 +15,8 @@ Besluit :<br>
 
 ### ART. 1.
 
-In uitvoering van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid worden de volgende organisaties als beoordelingsinstanties erkend : <br />1° Verbond der Vlaamse Tandartsen vzw, Vrijheidslaan 61, 1081 Koekelberg, als erkende beoordelingsinstantie voor een titel van tandartsassistent (m/v). <br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 17 november 2011.<br /><br />
+...
