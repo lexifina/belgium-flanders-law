@@ -582,27 +582,27 @@ Als er na de toekenning van de subsidie conform artikel 89/2 en 89/3 nog middele
 
 ### ART. 90.
 
-De organisator van opvanglocaties in het tweetalige gebied Brussel-Hoofdstad die een tegemoetkoming krijgt of kreeg voor een aantal voltijdsequivalenten van werknemers in het kader van het generatiepact kan een subsidie voor ex-generatiepact krijgen van Kind en Gezin. Voor de subsidie voor ex-generatiepact gelden de bepalingen, vermeld in artikel 91 tot en met 94.
+...
 
 ## [... (opgeh. BVR 6 oktober 2017, art. 7, I: 15 maart 2017)]
 
 ### ART. 91.
 
-De subsidie voor ex-generatiepact voor een organisator in het tweetalige gebied Brussel-Hoofdstad bedraagt per kalenderjaar 5874,57 euro per voltijdsequivalent van een laaggeschoolde jongere die in dienst is.
+...
 
 ### ART. 92.
 
-<P>De toegekende subsidie blijft behouden:<BR>1° zolang de daarvoor aangeworven   laaggeschoolde jongere werkt in de opvanglocatie met die subsidie;<BR>2° zolang   de daarvoor aangeworven laaggeschoolde jongere binnen zes maanden na zijn   vertrek vervangen wordt door een andere laaggeschoolde jongere;<BR>3° zolang de   daarvoor aangeworven laaggeschoolde jongere binnen zes maanden na de laatste dag   van het kwartaal in de loop waarvan de werknemer de leeftijd van dertig jaar   bereikt, vervangen wordt door een andere laaggeschoolde jongere.<BR></P>  <P>De subsidie wordt stopgezet als de organisator geen enkel extra opvangplaats   of dienstverlening, zodra de doelgroepwerknemer gekwalificeerd is, aanbiedt. Als   de organisator maar een deel van de extra opvangplaatsen of dienstverlening   aanbiedt, wordt de subsidie verhoudingsgewijs stopgezet. <BR></P>
+...
 
 ## [... (opgeh. BVR 6 oktober 2017, art. 9, I: 15 maart 2017)]
 
 ### ART. 93.
 
-De organisator zorgt voor tewerkstelling van laaggeschoolde jongeren als   vermeld in artikel 1, 1°, van het koninklijk besluit van 27 april 2007 houdende   de algemene uitvoeringsbepalingen van de maatregelen ten gunste van   tewerkstelling van jonderen in social profitsector voortspruitend uit de wet van   23 december 2005 betreffende het generatiepact.<BR>
+...
 
 ### ART. 94.
 
-<P>De laaggeschoolde jongeren worden ingezet voor extra opvangplaatsen of voor   dienstverlening. <BR></P>  <P>In het eerste lid wordt verstaan onder dienstverlening: een ondersteunende of   logistieke functie die in de opvanglocatie niet of onvoldoende is uitgebouwd. De   dienstverlening is een meerwaarde voor kinderen en   gezinnen.<BR></P>
+...
 
 ## HOOFDSTUK 11 Toezicht en handhaving
 
@@ -645,6 +645,14 @@ De organisator die de subsidie krijgt, dient te voldoen aan de voorwaarden, verm
 ### ART 100/2.
 
 Voor de organisatoren, vermeld in artikel 36, die op 1 januari 2017 nog opvangplaatsen hebben zonder een subsidie voor inkomenstarief buitenschoolse opvang, geldt een overgangsperiode tot en met 30 juni 2017. Tijdens die overgangsperiode kan de organisator de subsidie toegekend krijgen, op voorwaarde dat hij de bijbehorende voorwaarden toepast. Vanaf 1 juli 2017 is de organisator verplicht de voormelde subsidie en de bijbehorende voorwaarden toe te passen voor al zijn opvangplaatsen.
+
+### ART 100/3.
+
+Voor de organisatoren van opvanglocaties in het tweetalige gebied Brussel-Hoofdstad aan wie een subsidie voor ex-generatiepact van Kind en Gezin als vermeld in artikel 90 zoals het van toepassing was vóór 1 januari 2019, toegekend was, wordt die subsidie op 1 januari 2019 omgezet in een subsidie voor initiatief buitenschoolse opvang als vermeld in artikel 19 tot en met 31. Het subsidiebedrag na omzetting kan maximaal even hoog zijn als het bedrag van de subsidie voor ex-generatiepact waarvoor de organisator in aanmerking kwam.<br>
+<br>
+Kind en Gezin berekent per organisator hoeveel opvangplaatsen de organisator kan realiseren overeenkomstig het om te zetten subsidiebedrag, vermeld in het eerste lid. De organisator meldt aan Kind en Gezin of hij de omzetting van de subsidie en het berekende aantal opvangplaatsen wil en kan realiseren.<br>
+<br>
+Als er na de omzetting van de subsidie conform het eerste en tweede lid, nog middelen overblijven, kan de minister beslissen om die middelen toe te kennen aan de organisatoren, vermeld in het eerste lid. De minister kan daarvoor verdere voorwaarden of criteria bepalen.
 
 ## Afdeling 3 Inwerkingtredingsbepaling en uitvoeringsbepaling
 
