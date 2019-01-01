@@ -53,7 +53,8 @@ De kandidaten voor de deskundigen, vermeld in artikel 9, § 1, tweede lid, 7°, 
 
 ### ART. 7.
 
-De Vlaamse Regering benoemt alle leden en deskundigen overeenkomstig artikel 9, § 4, van het decreet, rekening houdend met de voorwaarden gesteld in artikel 7 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden, op een dergelijke wijze dat zij gezamenlijk de nodige expertise samenbrengen zodat de MORA met voldoende kennis van zaken haar opdrachten, vermeld in artikel 4 van het decreet, kan vervullen.<br /><br />
+De Vlaamse Regering benoemt alle leden en deskundigen overeenkomstig artikel 9, § 4, van het decreet, rekening houdend met de voorwaarden gesteld in artikel III.58 van het bestuursdecreet van 7 december 2018, op een dergelijke wijze dat zij gezamenlijk de nodige expertise samenbrengen zodat de MORA met voldoende kennis van zaken haar opdrachten, vermeld in artikel 4 van het decreet, kan vervullen.<br>
+&nbsp;
 
 ### ART. 8.
 

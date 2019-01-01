@@ -2,16 +2,16 @@
   "codex_id": 1015584,
   "title": "Besluit van de Vlaamse Regering van 2006-11-24 tot regeling van de werking van de Mobiliteitsraad van Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015584/VolledigDocument?datum=2007-03-11",
-  "source_sha256": "bcd3cff146f70d9fc937d40de2010243efdbe4c6e208b7a5e9568ad8edbdeafa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015584/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "138f2a92607fc299ddfbfd63081574ad92cd7edf46333eba5ff27f6c778b3470",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015584&param=informatie",
-  "as_of": "2007-03-11",
+  "as_of": "2019-01-01",
   "made": "2006-11-24",
   "gazette": "2007-03-01",
   "numac": 2007035314,
   "document_start": "2007-03-11",
   "document_end": "2019-04-13",
-  "in_force": "2007-03-11",
+  "in_force": "2019-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2007-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
