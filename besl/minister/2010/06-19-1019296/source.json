@@ -2,16 +2,16 @@
   "codex_id": 1019296,
   "title": "Ministerieel besluit van 2010-06-19 tot bepaling van de standaard voor de titel van spuiter",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019296/VolledigDocument?datum=2010-08-10",
-  "source_sha256": "5c706139e5ee8a2c7a18a2f5afe5be20426e7718a2dbb4ec50dbc497de05cfe6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019296/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "01e4f831d75e9f733479e8157613292da61ad18b0b6bc2b10a8639e96dcb854e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019296&param=informatie",
-  "as_of": "2010-08-10",
+  "as_of": "2019-01-01",
   "made": "2010-06-19",
   "gazette": "2010-08-10",
   "numac": 2010204194,
   "document_start": "2010-08-10",
   "document_end": "2018-12-31",
-  "in_force": "2010-08-10",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
