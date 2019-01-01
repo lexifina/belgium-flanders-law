@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030011,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-30 betreffende de invordering van niet-fiscale schuldvorderingen, de wijziging van diverse bepalingen van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 en de heffing op directe lijnen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030011/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "d1a16d8a196303c7583e65ec487b1a501c65eeb85afb5b3a44d3067cb2b10632",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030011&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-11-30",
+  "gazette": "2018-12-19",
+  "numac": 2018015282,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
