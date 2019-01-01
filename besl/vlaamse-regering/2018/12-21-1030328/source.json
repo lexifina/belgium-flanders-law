@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030328,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 tot wijziging van artikel 1 en 2 en de bijlagen van het besluit van de Vlaamse Regering van 10 maart 2006 houdende de vaststelling van de regels voor de scheiding tussen de gemeentelijke en bovengemeentelijke saneringsverplichting en de vaststelling van de zoneringsplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030328/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "d1bd77c3b39e071e36e89f6eedbf4585eee5a483929676a526a0781fa4532d40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030328&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-21",
+  "gazette": "2019-03-04",
+  "numac": 2019040384,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
