@@ -2,16 +2,16 @@
   "codex_id": 1026705,
   "title": "Besluit van de Vlaamse Regering van 2016-03-18 houdende de algemene werkingstoelage aan de exploitanten van een openbaar waterdistributienetwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026705/VolledigDocument?datum=2016-07-01",
-  "source_sha256": "36338f428678529471f88a978ebf4e405549f0f375f09cc36601ad42aa9d68cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026705/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "b73c5f58052362cd7db083fb0604994808f07d2f97598bbb63853eac198a19a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026705&param=informatie",
-  "as_of": "2016-07-01",
+  "as_of": "2019-01-01",
   "made": "2016-03-18",
   "gazette": "2016-04-13",
   "numac": 2016035662,
   "document_start": "2016-07-01",
   "document_end": null,
-  "in_force": "2016-07-01",
+  "in_force": "2019-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2016-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

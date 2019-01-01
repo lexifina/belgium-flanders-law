@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   exploitant : de exploitant van de openbare waterdistributienetwerken, vermeld in   artikel 2, 3°, van het decreet van 24 mei 2002 betreffende water bestemd voor   menselijke aanwending;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   economisch toezichthouder : de instantie, belast met het economische toezicht,   vermeld in artikel 10.2.3, § 1, tweede lid, 8°, van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   nv Aquafin : de naamloze vennootschap, vermeld in artikel 32septies, § 1, van de   wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen   verontreiniging.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder :<br>
+1° exploitant : de exploitant van de openbare waterdistributienetwerken, vermeld in artikel 2, 3°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
+2° economisch toezichthouder : de instantie, belast met het economische toezicht, vermeld in artikel 10.2.3, § 1, tweede lid, 8°, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+3° nv Aquafin : de naamloze vennootschap, vermeld in artikel 2.6.1.1.1, § 1, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.
 
 ### ART. 2.
 
