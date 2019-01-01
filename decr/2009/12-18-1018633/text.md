@@ -498,7 +498,7 @@ Bij het departement Financiën en Begroting wordt een fonds, het « Fonds Vastgo
 
 ### ART. 101.
 
-§ 1. In afwijking op de bepalingen van de domaniale wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen, is de Vlaamse Regering ertoe gemachtigd het eigendomsaandeel van 5,5 % in het Provinciehuis te Antwerpen, gelegen te Koningin Elisabethlei 22 te 2018 Antwerpen (percelen 10de afdeling sectie K nrs. 1589A8, 1589N9 en 1589P8), dat door de Belgische Staat overgedragen wordt aan het Vlaamse Gewest, kosteloos over te dragen aan de Provincie Antwerpen. De voorwaarden tot kosteloze overdracht worden bepaald door de Vlaamse Regering.<br /><br />§ 2. In afwijking op de bepalingen van de domaniale wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen, is de Vlaamse Regering ertoe gemachtigd het eigendomsaandeel van 8,57 % in het Provinciehuis te Antwerpen, gelegen te Koningin Elisabethlei 22 te 2018 Antwerpen (percelen 10de afdeling sectie K nrs. 1589A8, 1589N9 en 1589P8), eigendom van het Vlaamse Gewest, over te dragen aan de Provincie Antwerpen.<br /><br />
+...
 
 ## HOOFDSTUK IX Overdracht beheer researchpark Zellik
 
