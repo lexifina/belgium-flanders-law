@@ -8,7 +8,16 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 1.
 
-In dit besluit wordt verder verstaan onder :<BR>1° POM-decreet : het   decreet van 7 mei 2004 houdende vaststelling van het kader tot oprichting van de   provinciale ontwikkelingsmaatschappijen (POM);<BR>2°...;<BR>3° ...;<BR>4°   kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<BR>5° POM :   een provinciale ontwikkelingsmaatschappij als bedoeld in het POM-decreet;<BR>6°   GOM : een gewestelijke ontwikkelingsmaatschappij, dit is een publiekrechtelijke   instelling met rechtspersoonlijkheid bedoeld in het decreet van 12 juli 1990   houdende organisatie van de Gewestelijke Ontwikkelingsmaatschappijen en waarvan   de POM van de corresponderende provincie, met toepassing van van het POM-decreet, de rechtsopvolger ten algemene titel   is;<BR>7° corresponderende provincie : de provincie waarbinnen een GOM werkzaam   is, waarvan de rechtspersoonlijkheid, in overeenstemming met het bepaalde in    van het POM-decreet, zal worden verder   gezet in deze van een erkende POM, opgericht en erkend conform het bepaalde in   hetzelfde decreet;<BR>8° Minister : de Vlaamse minister bevoegd voor het   economisch beleid.<BR><BR>
+In dit besluit wordt verder verstaan onder :<br>
+1° POM-decreet : het decreet van 7 mei 2004 houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM);<br>
+2°...;<br>
+3° ...;<br>
+4° ...;<br>
+5° POM : een provinciale ontwikkelingsmaatschappij als bedoeld in het POM-decreet;<br>
+6° GOM : een gewestelijke ontwikkelingsmaatschappij, dit is een publiekrechtelijke instelling met rechtspersoonlijkheid bedoeld in het decreet van 12 juli 1990 houdende organisatie van de Gewestelijke Ontwikkelingsmaatschappijen en waarvan de POM van de corresponderende provincie, met toepassing van van het POM-decreet, de rechtsopvolger ten algemene titel is;<br>
+7° corresponderende provincie : de provincie waarbinnen een GOM werkzaam is, waarvan de rechtspersoonlijkheid, in overeenstemming met het bepaalde in van het POM-decreet, zal worden verder gezet in deze van een erkende POM, opgericht en erkend conform het bepaalde in hetzelfde decreet;<br>
+8° Minister : de Vlaamse minister bevoegd voor het economisch beleid.<br>
+&nbsp;
 
 ## TITEL II Nadere voorschriften met het oog op de vlotte overgang van de vermogensrechten van de GOM's
 
