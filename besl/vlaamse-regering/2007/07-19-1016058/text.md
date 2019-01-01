@@ -8,17 +8,49 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-§ 1. Binnen de kredieten die het Vlaams Agentschap voor Personen met een   Handicap, hierna agentschap te noemen, hiervoor op zijn begroting heeft   ingeschreven kan het agentschap, overeenkomstig de bepalingen van dit besluit,   organisaties erkennen en subsidiëren die de vrijetijdszorg voor personen met een   handicap ontwikkelen, begeleiden en bevorderen.<BR><BR>§ 2. Onder vrijetijdszorg   wordt verstaan :<BR>1° de persoonlijke begeleiding die op het domein van vrije   tijd wordt geboden aan individuele personen met een handicap of aan kleine   groepen van personen met een handicap;<BR>2°&nbsp; vrijetijdstrajectbegeleiding   als een vorm van procesbegeleiding die leidt tot een duurzame   vrijetijdsparticipatie van de persoon met een handicap;<BR>3° het sensibiliseren   van de reguliere vrijetijdssector en het organiseren van vorming voor die sector   op het vlak van de vrijetijdszorg voor personen met een handicap;<BR>4° het   verder uitbouwen van handicapspecifieke kennis en deskundigheid op het domein   van de vrijetijdszorg voor deze specifieke doelgroep en het ter beschikking   stellen van die kennis en deskundigheid binnen zowel het reguliere als het   doelgroepspecifieke vrijetijdsaanbod;<BR>5° het tijdelijk zelf organiseren van   vrijetijdsactiviteiten voor de groep van personen met een handicap voor wie het   beschikbare vrijetijdsaanbod binnen de reguliere vrijetijdssector niet   bereikbaar of toegankelijk is;<BR>6° het verzekeren van een structurele   samenwerking met de reguliere vrijetijdssector bij het systematisch nastreven   van een zo ruim mogelijk vrijetijdsaanbod voor de doelgroep in kwestie binnen de   reguliere vrijetijdssector.
+§ 1. Binnen de kredieten die het Vlaams Agentschap voor Personen met een Handicap, hierna agentschap te noemen, hiervoor op zijn begroting heeft ingeschreven kan het agentschap, overeenkomstig de bepalingen van dit besluit, organisaties erkennen en subsidiëren die de vrijetijdszorg voor personen met een handicap ontwikkelen, begeleiden en bevorderen.<br>
+<br>
+§ 2. In dit besluit wordt verstaan onder:<br>
+1° persoon met een handicap: de personen met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 houdende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap of personen met een vermoeden van zo een handicap;<br>
+2° vrijetijdszorg: de persoonlijke begeleiding die op het domein van vrije tijd wordt geboden aan individuele personen met een handicap of aan kleine groepen van personen met een handicap door zelf activiteiten te organiseren of die personen te begeleiden naar en in de reguliere vrijetijdssector.
 
 ## HOOFDSTUK II Erkenningsvoorwaarden
 
 ### ART. 2.
 
-Om erkend te worden en erkend te blijven moeten de organisaties, vermeld   in artikel 1, § 1, aan de onderstaande voorwaarden voldoen :<BR>1° zich richten   tot personen met een handicap zoals omschreven in artikel 2, 2°, van het decreet   van 7 mei 2004 houdende de oprichting van het intern verzelfstandigd agentschap   met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap of   zich richten tot personen met een vermoeden van handicap;<BR>2° zich prioritair   richten tot die personen met een handicap die in het thuismilieu verblijven, of   die autonoom wonen;<BR>3° beschikken over voldoende deskundigheid en ervaring in   de vrijetijdszorg voor personen met een handicap, als vermeld in punt 2°;<BR>4°   aanbieden van een ruime waaier aan activiteiten van vrijetijdszorg voor personen   met een handicap. Het gaat meer bepaald om een van de volgende soorten van   activiteiten :<BR>a) ofwel activiteiten die minstens 250 verschillende personen   met een handicap op jaarbasis bereiken;<BR>b) ofwel activiteiten die minstens   125 verschillende personen met een handicap op jaarbasis structureel en   meermaals bereiken;<BR>c) ofwel&nbsp;minstens 50   vrijetijdstrajectbegeleidingen;<BR>d) ofwel één of andere combinatie van a) en   c) onderling, of een combinatie van a), b) of c) met het sensibiliseren van de   reguliere vrijetijdssector en het organiseren van vorming voor die sector op het   vlak van de vrijetijdszorg voor personen met een handicap.<BR>Bij combinatie van   punt a) met c) of van punt b) met punt c) wordt het aantal te bereiken personen   met een handicap via groepsactiviteiten verminderd met 5 personen per   individuele vrijetijdsbegeleiding.<BR>Bij een combinatie van punt a) met het   sensibiliseren van de reguliere vrijetijdssector en het organiseren van vorming   voor die sector op het vlak van de vrijetijdszorg voor personen met een handicap   wordt het aantal te bereiken personen met een handicap via groepsactiviteiten op   jaarbasis verminderd met 10, per vormingssessie die wordt georganiseerd voor de   reguliere sector. De maximale aftrek bedraagt 50 personen op jaarbasis.<BR>Bij   een combinatie van punt b) met het sensibiliseren van de reguliere   vrijetijdssector en het organiseren van vorming voor die sector op het vlak van   de vrijetijdszorg voor personen met een handicap wordt het aantal te bereiken   personen met een handicap via groepsactiviteiten op jaarbasis verminderd met 5,   per vormingssessie die wordt georganiseerd voor de reguliere sector. De maximale   aftrek bedraagt 25 personen op jaarbasis.<BR>Bij een combinatie van punt c) met   het sensibiliseren van de reguliere vrijetijdssector en het organiseren van   vorming voor die sector op het vlak van de vrijetijdszorg voor personen met een   handicap wordt het aantal individueel te bereiken personen met een handicap   verminderd met 2 personen per vormingssessie, die wordt georganiseerd voor de   reguliere sector. De maximale aftrek bedraagt 10 personen op jaarbasis;<BR>5°   deelnemen aan het regionaal platform vrijetijdszorg dat per Vlaamse provincie   moet worden opgericht en dat bestaat uit de erkende vrijetijdszorgorganisaties   voor die provincie. Het regionaal platform vrijetijdszorg neemt de volgende   taken op zich :<BR>a) het vrijetijdsaanbod ten aanzien van de doelgroep personen   met een handicap, en de lacunes ter zake, in de provincie in kwestie in kaart   brengen;<BR>b) het vrijetijdsaanbod van de erkende vrijetijdszorgorganisaties in   een bepaalde provincie op structurele wijze afstemmen op het niet-erkende   specifieke vrijetijdsaanbod voor de doelgroep personen met een handicap, via   netwerking;<BR>c) beleidsadviezen formuleren over de verdere uitbouw van   vrijetijdszorg binnen de provincie in kwestie;<BR>d) de opgebouwde expertise,   kennis en doelgroepspecifieke deskundigheid inzake vrijetijdszorg ter   beschikking stellen van het niet-erkende specifieke vrijetijdsaanbod en van de   reguliere vrijetijdssector in die provincie;<BR>e) het vrijetijdsaanbod van de   erkende vrijetijdszorgorganisaties in een bepaalde provincie op structurele   wijze afstemmen op het beschikbare reguliere vrijetijdsaanbod met het oog op   optimale inclusie.<BR>De organisaties gaan met het agentschap een overeenkomst   aan waarin hun engagementen in het kader van de opdrachten van het regionaal   platform worden gespecificeerd. Na een periode van drie jaar wordt die   overeenkomst geëvalueerd en bijgestuurd;<BR>6° in hoofdzaak werken met   vrijwilligers die belast zijn met de vrijetijdszorg voor de personen met een   handicap;<BR>7° beschikken over een beroepskracht die een ondersteunende en   voorwaardenscheppende rol vervult ten opzichte van de bovengenoemde   vrijwilligers.
+Om erkend te worden en erkend te blijven moeten de organisaties, vermeld in artikel 1, § 1, aan de onderstaande voorwaarden voldoen :<br>
+1° zich richten tot personen met een handicap;<br>
+2° zich bij voorrang richten tot de personen die nog niet beschikken over een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in artikel 37 van het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget;<br>
+3° beschikken over voldoende deskundigheid en ervaring in de vrijetijdszorg voor personen met een handicap;<br>
+4° de volgende activiteiten met betrekking tot vrijetijdszorg voor personen met een handicap uitvoeren:<br>
+a) uitbouw van een eigen uniek vrijetijdsaanbod voor personen met een handicap voor wie het beschikbare vrijetijdsaanbod binnen de reguliere vrijetijdssector niet bereikbaar of toegankelijk is;<br>
+b) vrijetijdstrajectbemiddeling op maat voor personen met een handicap;<br>
+c) sensibilisering;<br>
+d) belangenbehartiging;<br>
+5° deelnemen aan het regionaal platform vrijetijdszorg dat per Vlaamse provincie moet worden opgericht en dat bestaat uit de erkende vrijetijdszorgorganisaties voor die provincie. Het regionaal platform vrijetijdszorg neemt de volgende taken op zich :<br>
+a) het vrijetijdsaanbod ten aanzien van de doelgroep personen met een handicap, en de lacunes ter zake, in de provincie in kwestie in kaart brengen;<br>
+b) het vrijetijdsaanbod van de erkende vrijetijdszorgorganisaties in een bepaalde provincie op structurele wijze afstemmen op het niet-erkende specifieke vrijetijdsaanbod voor de doelgroep personen met een handicap, via netwerking;<br>
+c) beleidsadviezen formuleren over de verdere uitbouw van vrijetijdszorg binnen de provincie in kwestie;<br>
+d) de opgebouwde expertise, kennis en doelgroepspecifieke deskundigheid inzake vrijetijdszorg ter beschikking stellen van het niet-erkende specifieke vrijetijdsaanbod en van de reguliere vrijetijdssector in die provincie;<br>
+e) het vrijetijdsaanbod van de erkende vrijetijdszorgorganisaties in een bepaalde provincie op structurele wijze afstemmen op het beschikbare reguliere vrijetijdsaanbod met het oog op optimale inclusie;<br>
+6° in hoofdzaak werken met vrijwilligers die belast zijn met de vrijetijdszorg voor de personen met een handicap;<br>
+7° beschikken over een beroepskracht die een ondersteunende en voorwaardenscheppende rol vervult ten opzichte van de bovengenoemde vrijwilligers;<br>
+8° handicapspecifieke kennis en deskundigheid op het domein van de vrijetijdszorg voor personen met een handicap verder uitbouwen en die kennis en deskundigheid ter beschikking stellen binnen zowel het reguliere als het vrijetijdsaanbod voor personen met een handicap;<br>
+9° een samenwerking uitbouwen met de reguliere vrijetijdssector bij het systematisch nastreven van een zo ruim mogelijk vrijetijdsaanbod voor de doelgroep in kwestie binnen de reguliere vrijetijdssector;<br>
+10° jaarlijks rapporteren aan het regionaal platform vrijetijdszorg, vermeld in punt 5°, over de verdeling van de geleverde prestaties over de verschillende soorten activiteiten, vermeld in punt 4°.<br>
+<br>
+In het eerste lid, 4°, wordt verstaan onder<br>
+1° belangenbehartiging: de individuele en collectieve belangen met betrekking tot het vrijetijdsaanbod voor personen met een handicap behartigen met als doel dat er bij de organisatie van het vrijetijdsaanbod door reguliere aanbieders en overheden rekening wordt gehouden met de individuele en collectieve belangen van personen met een handicap;<br>
+2° sensibilisering: sensibiliseren voor en organiseren van vorming voor de reguliere vrijetijdssector op het vlak van de vrijetijdszorg voor personen met een handicap;<br>
+3° vrijetijdstrajectbemiddeling op maat: de methodiek bij het verhelderen van de eigen behoeften en mogelijkheden van de individuele persoon met een handicap op het domein van vrije tijd, om die te leiden naar het reguliere of het doelgroepspecifieke vrijetijdsaanbod, op basis van de eigen mogelijkheden en wensen. De methodiek bestaat uit de volgende fasen die vervuld moeten zijn:<br>
+a) een aanmeldingsfase waarin de persoon zijn vrijetijdsvraag kenbaar maakt;<br>
+b) een vraagverduidelijkingsfase waarin de vraag onderzocht en geanalyseerd wordt;<br>
+c) een zoekfase waarin het geschikte en beschikbare vrijetijdsaanbod wordt opgesomd, teruggekoppeld en overlopen;<br>
+d) een bemiddelingsfase met als opzet de persoon te begeleiden naar vrijetijdsinitiatieven in het kader van een toeleiding.
 
 ### ART. 3.
 
-Een erkenning kan alleen toegekend worden aan instanties die opgericht zijn onder de vorm van een vereniging zonder winstoogmerk, aan geledingen van die instanties of aan samenwerkingsverbanden tussen die actoren.
+Een erkenning kan alleen toegekend worden aan instanties die opgericht zijn als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is de leden een vermogensvoordeel te bezorgen, aan geledingen van die instanties of aan samenwerkingsverbanden tussen die actoren.
 
 ### ART. 4.
 
@@ -28,7 +60,14 @@ Als een of meerdere erkenningsvoorwaarden, vermeld in dit hoofdstuk, niet worden
 
 ### ART. 5.
 
-§ 1. In het aanvraagdossier moet :<br />1° aangetoond worden dat aan de erkenningsvoorwaarden, vermeld in artikel 2, wordt voldaan;<br />2° gespecificeerd worden krachtens welke wettelijke, decretale, ordonnantiële of reglementaire bepalingen de aanvrager subsidies ontvangt van andere overheidsdiensten dan het agentschap;<br />3° vermeld worden voor welke Vlaamse provincie een aanvraag tot erkenning wordt ingediend.<br /><br />§ 2. Bij de aanvraag moet een beleidsplan met een bijbehorende begroting voor de erkenningsperiode in kwestie worden gevoegd. Het beleidsplan beschrijft de doelstellingen die de organisatie binnen de termijn van erkenning wil realiseren, en specificeert hoe de organisatie de vrijetijdszorg wil realiseren en hoe ze de aangevraagde subsidie daarvoor zal aanwenden.<br /><br />§ 3. Elke aanvraag tot erkenning houdt in dat de aanvrager de verbintenis aangaat om op eenvoudig verzoek van het agentschap, alle aanvullende gegevens te verstrekken die het nodig acht voor de beoordeling van de aanvraag.
+§ 1. In het aanvraagdossier moet :<br>
+1° aangetoond worden dat aan de erkenningsvoorwaarden, vermeld in artikel 2, wordt voldaan;<br>
+2° gespecificeerd worden krachtens welke wettelijke, decretale, ordonnantiële of reglementaire bepalingen de aanvrager subsidies ontvangt van andere overheidsdiensten dan het agentschap;<br>
+3° vermeld worden voor welke Vlaamse provincie een aanvraag tot erkenning wordt ingediend.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Elke aanvraag tot erkenning houdt in dat de aanvrager de verbintenis aangaat om op eenvoudig verzoek van het agentschap, alle aanvullende gegevens te verstrekken die het nodig acht voor de beoordeling van de aanvraag.
 
 ### ART. 6.
 
@@ -36,31 +75,90 @@ De aanvragen om erkenning worden ingediend bij het agentschap overeenkomstig de 
 
 ### ART. 7.
 
-§ 1. De erkenning wordt verleend voor een periode van zes jaar. Het agentschap zal daarvoor via een omzendbrief een publieke oproep doen waarin wordt opgeroepen tot het indienen van een aanvraagdossier.<br /><br />De leidend ambtenaar van het agentschap beslist over de ingediende erkenningsaanvragen op basis van de door het agentschap vastgestelde beoordelingscriteria.<br /><br />§ 2. De beslissing vermeldt de aanvangsdatum van de erkenning en de duur ervan.<br /><br />Bij gehele of gedeeltelijke weigering van de erkenning wordt de beslissing met redenen omkleed. De beslissing houdende erkenning of weigering wordt via een aangetekende brief betekend aan de aanvrager voor het einde van de maand die volgt op de maand van de beslissing.
+§ 1. Het agentschap onderzoekt de aanvraag en kan, als dat nodig is, bijkomende inlichtingen vragen of inwinnen.<br>
+<br>
+De beslissing tot erkenning of weigering van de erkenning wordt genomen binnen zes maanden na de dag waarop een geldige aanvraag is ingediend.<br>
+<br>
+De beslissing tot erkenning of weigering van erkenning wordt meegedeeld aan de aanvrager vóór het einde van de maand die volgt op de maand waarin de beslissing tot erkenning of weigering is genomen.<br>
+<br>
+Aan organisaties die op 1 januari 2019 nog niet erkend zijn, wordt een tijdelijke erkenning van minimaal een jaar en maximaal vijf jaar verleend.<br>
+<br>
+§ 2. De beslissing vermeldt de aanvangsdatum van de erkenning en de duur ervan.<br>
+<br>
+Bij gehele of gedeeltelijke weigering van de erkenning wordt de beslissing met redenen omkleed. De beslissing houdende erkenning of weigering wordt via een aangetekende brief betekend aan de aanvrager voor het einde van de maand die volgt op de maand van de beslissing.<br>
+<br>
+Tegen een beslissing tot weigering van de erkenning kan beroep worden aangetekend conform artikel 17 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap.
 
 ### ART. 8.
 
-Een aanvraag tot verlenging van een erkenning moet samen met een aanvraagdossier, samengesteld overeenkomstig artikel 5, § 1 en § 2, uiterlijk zes maanden voor het verstrijken van de lopende erkenningsperiode worden ingediend.<br /><br />De leidend ambtenaar van het agentschap beslist over de verlenging van de erkenning op basis van de door het agentschap vastgestelde beoordelingscriteria. Een verlenging van de erkenning wordt toegekend voor een periode van zes jaar. Artikel 7, § 2, is van overeenkomstige toepassing.
+Een aanvraag tot&nbsp;omzetting van de tijdelijke erkenning, vermeld in artikel 7, § 1, vierde lid, in een erkenning van onbepaalde duur, moet samen met een aanvraagdossier, samengesteld overeenkomstig artikel 5, § 1, uiterlijk zes maanden voor het verstrijken van de lopende erkenningsperiode worden ingediend.<br>
+<br>
+Een erkenning van onbepaalde duur wordt toegekend als voldaan is aan de voorwaarden, vermeld in artikel 5, § 1. Artikel 7, § 2, is van overeenkomstige toepassing.<br>
+<br>
+De organisaties die op 31 december 2018 erkend zijn als organisaties die de vrijetijdszorg voor personen met een handicap ontwikkelen, begeleiden en bevorderen, krijgen van rechtswege een erkenning van onbepaalde duur.
 
 ## HOOFDSTUK IV Programmatie
 
 ### ART. 9.
 
-§ 1. Bij de toekenning van de erkenningen wordt volgende spreiding in acht genomen :<br />1° in de provincie Antwerpen : maximaal vijf organisaties;<br />2° in de provincie Limburg : maximaal drie organisaties;<br />3° in de provincie Oost-Vlaanderen : maximaal vier organisaties;<br />4° in de provincie West-Vlaanderen : maximaal vier organisaties;<br />5° in de provincie Vlaams-Brabant en het Brusselse Hoofdstedelijke Gewest : maximaal vier organisaties, waarvan minstens één organisatie zich ook richt tot de Nederlandstalige inwoners van het Brusselse Hoofdstedelijke Gewest.<br /><br />§ 2. De organisaties, erkend voor een bepaalde provincie, moeten onderlinge afspraken maken zodat ze met hun activiteiten de hele provincie bereiken.
+...
 
 ## HOOFDSTUK V Subsidiëring
 
 ### ART. 10.
 
-<P>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis   50.676 euro bedragen.<BR><BR>Het subsidiebedrag, vermeld in het eerste lid,   wordt verhoogd met de volgende bedragen :<BR>1° voor het jaar 2008 met 505   euro;<BR>2° voor het jaar 2009 met 681 euro;<BR>3° voor het jaar 2010 met 859   euro. <BR><BR>§ 1/1. Aan de erkende organisaties kan jaarlijks een bijkomende   subsidie van 26.661,20 euro worden toegekend die uitsluitend kan worden   aangewend voor het aanbieden van vrijetijdstrajectbegeleiding die leidt tot een   duurzame inclusieve vrijetijdsbesteding, en voor het sensibiliseren van de   reguliere vrijetijdssector en het organiseren van vorming voor die sector op het   vlak van de vrijetijdszorg voor personen met een handicap. <BR><BR>Voor het   bedrag, vermeld in het eerste lid, moet elke erkende organisatie ten minste   dertig bijkomende vrijetijdstrajectbegeleidingen uitvoeren die leiden tot een   duurzame inclusieve vrijetijdsbesteding. De organisatie moet jaarlijks   schriftelijk het engagement aangaan om de dertig bijkomende begeleidingen te   realiseren. <BR><BR>Als er minder dan dertig bijkomende   vrijetijdstrajectbegeleidingen gerealiseerd worden, wordt de subsidie in   verhouding tot het aantal gepresteerde begeleidingen toegekend. <BR><BR>Voor   zover organisaties het engagement niet aangaan om de dertig bijkomende   vrijetijdstrajectbegeleidingen te realiseren, kan het Vlaams Agentschap voor   Personen met een Handicap de subsidies in verhouding tot het aantal te   realiseren bijkomende vrijetijdstrajectbegeleidingen toekennen aan andere   erkende organisaties. De gemiddelde bijkomende subsidie mag niet hoger zijn dan   26.661,20 euro per erkende organisatie. <BR><BR>In het eerste en tweede lid   wordt verstaan onder duurzame inclusieve vrijetijdsbesteding : lidmaatschap van   een organisatie die niet door het Vlaams Agentschap voor Personen met een   Handicap wordt gefinancierd of een structurele participatie aan activiteiten van   sportieve, artistieke of socio-culturele aard die door derden zijn   georganiseerd.<BR><BR>De bijkomende subsidie, vermeld in het eerste lid, die   wordt aangewend voor het aanbieden van bijkomende   vrijetijdstrajectbegeleidingen, kan uitsluitend worden besteed aan personen met   een handicap of met een vermoeden van handicap die niet voltijds verblijven in   een observatiecentrum, internaat, tehuis niet-werkenden of tehuis   werkenden.<BR><BR>§ 1/2. In afwijking van de bepalingen in paragraaf 1/1 moeten   voor de jaren 2012 en 2013 slechts dertig vrijetijdstrajectbegeleidingen   gerealiseerd worden over de twee jaren samen.<BR><BR>§ 2. Minimaal 70 % van het   subsidiebedrag, vermeld in § 1, wordt besteed aan de personeelskosten voor het   personeel, vermeld in artikel 2, 7°.<BR><BR>Maximaal 30 % van het   subsidiebedrag, vermeld in § 1, wordt besteed aan werkingskosten of kan   eventueel worden aangewend om occasionele externe medewerkers aan te trekken   voor het opzetten of begeleiden van activiteiten.<BR><BR>§ 3.&nbsp;De   subsidiebedragen, vermeld in paragraaf 1 en 1/1, zijn gekoppeld aan het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2   van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6   januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de   spilindex van toepassing op 1 januari 2002, conform de wet van 1 maart 1977   houdende inrichting van een stelsel waarbij sommige uitgaven in de   overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden   gekoppeld.<BR><BR>De subsidiebedragen worden telkens op 1 januari van het jaar   aangepast volgens de formule :<BR><BR>Subsidiebedrag x spilindex   1/01/jaar<BR>--------------------------------------------<BR>basisindex   1/01/2002</P>
+<p>§ 1. Aan de erkende organisaties worden subsidies verleend die op jaarbasis 77.337,20 euro bedragen.<br>
+<br>
+Het subsidiebedrag, vermeld in het eerste lid, wordt verhoogd met de volgende bedragen :<br>
+1° voor het jaar 2008 met 505 euro;<br>
+2° voor het jaar 2009 met 681 euro;<br>
+3° voor het jaar 2010 met 859 euro.<br>
+<br>
+Voor het bedrag, vermeld in het eerste lid, moet elke erkende organisatie op jaarbasis ten minste 400 prestaties in kader van de activiteiten, vermeld in artikel 2, eerste lid, 4°, a) tot en met c), bewijzen, waarvan minimaal 150 prestaties geleverd zijn voor 30 activiteiten als vermeld in artikel 2, 4°, b).<br>
+<br>
+De activiteit, vermeld in artikel 2, eerste lid, 4°, a), waarmee een persoon met een handicap eenmalig bereikt wordt, komt in aanmerking voor één prestatie.<br>
+<br>
+De activiteit, vermeld in artikel 2, eerste lid, 4°, a), waarmee dezelfde persoon met een handicap meermaals bereikt wordt, komt in aanmerking voor twee prestaties.<br>
+<br>
+De volgende prestaties komen in aanmerking voor vijf prestaties:<br>
+1° de activiteit, vermeld in artikel 2, eerste lid, 4°, b), waarvan de vier fasen aangetoond worden;<br>
+2° de activiteit, vermeld in artikel 2, eerste lid, 4°, c). Er kunnen maximaal tien vormingen op jaarbasis bewezen worden.<br>
+<br>
+Als de erkende organisatie op jaarbasis minder dan 380 prestaties kan bewijzen, wordt de verhouding van de niet-geleverde prestaties tot de te bewijzen prestaties, toegepast op de subsidie, vermeld in het eerste lid, in mindering gebracht van het saldo, vermeld in artikel 11, tweede lid, of, als dat saldo niet volstaat, in mindering gebracht van de voorschotten, vermeld in artikel 11, eerste lid, van het volgende werkingsjaar.<br>
+<br>
+De Vlaamse minister, bevoegd voor de bijstand aan personen, kan, binnen de kredieten die hiervoor op de begroting van het agentschap zijn ingeschreven, het subsidiebedrag, vermeld in het eerste lid, jaarlijks herzien naar aanleiding van begrotingsmaatregelen.<br>
+<br>
+§ 1/1. ...<br>
+<br>
+§ 1/2. ...<br>
+<br>
+§ 2. Minimaal 70 % van het subsidiebedrag, vermeld in § 1, wordt besteed aan de personeelskosten voor het personeel, vermeld in artikel 2, 7°.<br>
+<br>
+Maximaal 30 % van het subsidiebedrag, vermeld in § 1, wordt besteed aan werkingskosten of kan eventueel worden aangewend om occasionele externe medewerkers aan te trekken voor het opzetten of begeleiden van activiteiten.<br>
+<br>
+§ 3.&nbsp;Het subsidiebedrag, vermeld in paragraaf 1, eerste lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen. De basisindex is de spilindex van toepassing op 1 januari 2002, conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
+<br>
+Het subsidiebedrag, vermeld in paragraaf 1 eerste lid, worden telkens op 1 januari van het jaar aangepast volgens de formule :<br>
+<br>
+Subsidiebedrag x spilindex 1/01/jaar<br>
+--------------------------------------------<br>
+basisindex 1/01/2002<br>
+<br>
+Het subsidiebedrag, vermeld in paragraaf 1, tweede lid, is gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2006, conform de wet van 1 maart 1977 houdende de inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld.<br>
+<br>
+Het subsidiebedrag, vermeld in paragraaf 1, tweede lid, wordt telkens op 1 januari van het jaar aangepast met de volgende formule: (subsidiebedrag x spilindex januari 20..)/basisindex 1/01/2006.</p>
 
 ### ART. 11.
 
-<P>90 % van de subsidiebedragen, vermeld in de artikelen 10, § 1 en 10, § 1/1,   wordt uitbetaald in de loop van het werkingsjaar in kwestie. De uitbetaling   verloopt als volgt :<BR>1° 30 % voor het einde van de eerste maand van het   eerste kwartaal van het werkingsjaar in kwestie;<BR>2° 30 % voor het einde van   de eerste maand van het tweede kwartaal van het werkingsjaar in kwestie;<BR>3°   30 % voor het einde van de eerste maand van het derde kwartaal van het   werkingsjaar in kwestie.</P>  <P>Voor het jaar 2012 wordt 90 % van het subsidiebedrag, vermeld in artikel 10,   § 1/1, uitbetaald voor het einde van de laatste maand van het vierde kwartaal   van het jaar.</P>
+De voorschotten op de subsidies, vermeld in artikel 10, § 1, eerste en tweede lid, voor de organisaties, vermeld in artikel 1, § 1, worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis.<br>
+<br>
+Het saldo van de subsidies wordt verrekend in het jaar dat volgt op het werkingsjaar, na de goedkeuring van het inhoudelijk en financieel jaarverslag, vermeld in artikel 12.
 
 ### ART. 12.
 
-Het saldo van het subsidiebedrag wordt betaald in het jaar dat volgt op het werkingsjaar waarop het subsidiebedrag betrekking heeft na :<br />1° indiening van een financieel verslag dat wordt opgemaakt op de wijze die het agentschap heeft vastgesteld, waarin de besteding van de voor het afgelopen kalenderjaar ontvangen subsidies wordt aangetoond. De erkende organisatie moet hierbij een verklaring op erewoord voorleggen waarin wordt bevestigd dat de kosten die ter verantwoording van de besteding van de verleende subsidies worden aangetoond niet tevens aangewend worden ter staving van een eventuele aanspraak op subsidies bij een andere overheidsdienst dan het agentschap;<br />2° goedkeuring door de administratie van het agentschap van het voortgangsrapport dat vóór 31 maart van ieder jaar bij het agentschap wordt ingediend. Het rapport wordt opgemaakt op de wijze die de administratie van het agentschap heeft vastgesteld.
+Het inhoudelijk en financieel jaarverslag wordt uiterlijk ingediend op 30 juni van het jaar dat volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.<br>
+<br>
+De erkende organisatie legt in het financieel verslag, vermeld in het eerste lid, een verklaring op erewoord voor waarin ze bevestigt dat de kosten die ter verantwoording van de besteding van de verleende subsidies worden aangetoond, niet ook aangewend worden ter staving van een eventuele aanspraak op subsidies bij een andere overheidsdienst dan het agentschap.
 
 ### ART. 13.
 
@@ -68,7 +166,7 @@ Als zou blijken dat de personeels- en werkingskosten in het financieel verslag, 
 
 ### ART. 14.
 
-Elke erkende organisatie bouwt met het niet-uitgegeven deel van de verleende subsidies reserves op. De opgebouwde reserve moet worden besteed aan het ontwikkelen, begeleiden en bevorderen van de vrijetijdszorg voor personen met een handicap. Het agentschap kan het bedrag van de toegestane reserves beperken.
+Een erkende organisatie als vermeld in artikel 1, § 1, van dit besluit, kan reserves aanleggen conform artikel 5, § 3 en § 4, van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring, en die besteden conform artikel 7 en 8 van het voormelde besluit.
 
 ## HOOFDSTUK V Slotbepalingen
 
