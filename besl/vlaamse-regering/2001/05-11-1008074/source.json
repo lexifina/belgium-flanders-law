@@ -2,16 +2,16 @@
   "codex_id": 1008074,
   "title": "Besluit van de Vlaamse Regering van 2001-05-11 tot aanwijzing van de instellingen en administraties die adviseren over voorontwerpen van ruimtelijke uitvoeringsplannen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008074/VolledigDocument?datum=2017-04-01",
-  "source_sha256": "17e070a328aed1255853a48843ac92203dd98b7f9e0a8bae4df764e4e07ead59",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008074/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "35e0b78d2a0a55bb86eb81683ee2df97c0d9eee455e9b2c52f731728ee7b2064",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008074&param=informatie",
-  "as_of": "2017-04-01",
+  "as_of": "2019-01-01",
   "made": "2001-05-11",
   "gazette": "2001-07-17",
   "numac": 2001035674,
   "document_start": null,
   "document_end": null,
-  "in_force": "2017-04-01",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2017-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
