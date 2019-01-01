@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.
+...
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -66,7 +66,21 @@ In dit decreet wordt verstaan onder kaderdecreet: het kaderdecreet Bestuurlijk B
 
 ### ART. 14.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De bevoegdheid die hiertoe aan de Vlaamse regering is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende het Fonds alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, coördineren.Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te co÷rdineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat zij bij decreet is bekrachtigd.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.<br>
+<br>
+De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De bevoegdheid die hiertoe aan de Vlaamse regering is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende het Fonds alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, coördineren.Te dien einde kan zij:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te co÷rdineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat zij bij decreet is bekrachtigd.
 
 ## HOOFDSTUK VIII SLOTBEPALINGEN
 
