@@ -48,7 +48,28 @@ Overeenkomstig artikel 7, § 1, van het decreet van 8 mei 2009 realiseert   elk 
 
 ### ART. 7.
 
-<P>§ 1. Overeenkomstig artikel 7, § 1, van het decreet van 8 mei 2009 realiseert   elk centrum voor algemeen welzijnswerk een aanbod van onthaal. Het onthaal is   laagdrempelig. Het is een proces van vraagverheldering, waarbij samen met de   gebruiker de hulpvraag wordt ontrafeld, de problemen geïnventariseerd en   systematisch in kaart gebracht, om een beter inzicht te krijgen in de aard van   de problemen en alle oplossingsalternatieven te verkennen. Die vraagverheldering   is een antwoord op de hulpvraag of een stap naar directe hulp of begeleiding.   <BR></P>  <P>Voor elke vraag staat het centrum in voor : <BR>1° het beluisteren van de   vraag, op basis waarvan naadloos kan worden overgegaan tot   vraagverheldering;<BR>2° het ter beschikking stellen van algemene en concrete   informatie;<BR>3° als nodig, de verwijzing van de gebruiker naar verdere hulp-   en dienstverlening binnen of buiten het centrum;<BR>4° als nodig, ondersteunende   contacten.<BR></P>  <P>Aansluitend bij de vraagverheldering, vermeld in het tweede lid, 1°, heeft   het centrum een aanbod van directe hulp, met betrekking tot problemen als   vermeld in artikel 2, 1°, van het decreet van 8 mei 2009, in de vorm van één of   meer motiverende, ondersteunende en oplossingsgerichte contacten, die bestaan   uit : <BR>1° oriënterend advies verstrekken : de gebruiker informeren en   voorlichten, rekening houdend met zijn persoonlijke situatie en aangeven van   oplossingsperspectieven, keuzemogelijkheden en gedragsalternatieven, zodat de   gebruiker over meer kennis beschikt en daarmee een stevige basis heeft voor zijn   inzichten;<BR>2° sociaal-administratieve hulp verstrekken;<BR>3° de gebruiker   actief toeleiden naar andere diensten en basisvoorzieningen met het oog op   aangepaste hulp en het effectueren van basisrechten.<BR></P>  <P>Wanneer verdere begeleiding overwogen wordt, staat het centrum in voor :   <BR>1° psychosociale diagnostiek en, als nodig, het inwinnen van   gespecialiseerde diagnostiek; <BR>2° indicatiestelling van de passende   hulp;<BR>3° toewijzing van verdere begeleiding binnen het centrum door middel   van een instapgesprek en een instapprocedure;<BR>4° als nodig, verwijzing naar   een andere dienst.<BR></P>  <P>§ 2. Het aanbod, vermeld in paragraaf 1, wordt op een zodanige manier   georganiseerd dat het openstaat voor de brede bevolking. Het centrum voor   algemeen welzijnswerk bouwt het aanbod zodanig uit dat het daadwerkelijk   gebruikt wordt door : <BR>1° de meest kwetsbare groepen, vermeld in artikel   12;<BR>2° jongeren van 12 tot en met 25 jaar;<BR>3° slachtoffers en hun directe   sociale omgeving;<BR>4° gedetineerden en hun directe sociale omgeving.   </P>
+<p>§ 1. Overeenkomstig artikel 7, § 1, van het decreet van 8 mei 2009 heeft elk centrum voor algemeen welzijnswerk een aanbod van onthaal. Het onthaal is laagdrempelig. Het onthaal wordt georganiseerd in afstemming met de andere kernactoren binnen het samenwerkingsverband geïntegreerd breed onthaal en is erop gericht de functies en werkingsprincipes van het samenwerkingsverband te realiseren. Het onthaal is een proces waarbij de volgende functies worden vervuld:<br>
+1° proactieve acties opzetten: gezamenlijke acties opzetten waarbij het samenwerkingsverband zelf het initiatief neemt om contact te zoeken met kwetsbare personen met als doel ervoor te zorgen dat die personen rechten krijgen en zorg en ondersteuning ontvangen;<br>
+2° de hulpvraag beluisteren en verhelderen vanuit een breed generalistisch perspectief: samen met de gebruiker de hulpvraag contextualiseren, de problemen inventariseren en in kaart brengen om een beter zicht te krijgen op de aard van de problemen, de gebruiker inzicht geven in zijn situatie en alle oplossingsalternatieven verkennen;<br>
+3° rechten van de gebruikers verkennen en gebruikers proactief informeren over hun sociale grondrechten;<br>
+4° objectieve en transparante informatie verstrekken over het volledige aanbod van de lokale sociale hulp- en dienstverlening: individueel en op maat gepaste informatie verstrekken in het kader van de hulp- en dienstverlening;<br>
+5° oriënterend advies verstrekken: de gebruiker objectief en transparant informeren en voorlichten, rekening houdend met zijn persoonlijke situatie; oplossingsperspectieven, keuzemogelijkheden en gedragsalternatieven aanreiken, zodat de gebruiker over meer kennis beschikt en een weloverwogen keuze kan maken. Het aanbod wordt verhelderd, zodat samen met de gebruiker bepaald kan worden welk hulpaanbod aangewezen is voor de hulpvraag;<br>
+6° rechten van de gebruikers realiseren: gebruikers ondersteunen om hun sociale grondrechten maximaal te realiseren en waar nodig sociaal-administratieve hulp verstrekken;<br>
+7° neutraal naar de gepaste lokale sociale hulp- en dienstverlening doorverwijzen: gebruikers toeleiden naar de gepaste lokale sociale hulp- en dienstverlening van hun keuze;<br>
+8° het overzicht behouden op het hulpverleningstraject van de gebruiker, fungeren als terugvalbasis als de verdere hulp- en dienstverlening aan de gebruiker stopt, beschikbaar blijven voor verdere vragen van de gebruiker en bemiddelen tussen de gebruiker en andere lokale actoren bij onduidelijkheden of problemen;<br>
+9° drempels signaleren: drempels die de toegankelijkheid van lokale sociale hulp- en dienstverlening bedreigen en factoren die de onderbescherming versterken, signaleren aan de verschillende betrokken lokale actoren.</p>
+
+<p>In het eerste lid wordt verstaan onder:<br>
+1° samenwerkingsverband geïntegreerd breed onthaal: het samenwerkingsverband, vermeld in artikel 9, tweede lid, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
+2° sociale grondrechten: de rechten, vermeld in artikel 23 en 24, § 3, van de Grondwet;<br>
+3° lokale actoren: lokale actoren als vermeld in artikel 3, 5°, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid;<br>
+4° lokale sociale hulp- en dienstverlening: de lokale sociale hulp- en dienstverlening, vermeld in artikel 3, 6°, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid.</p>
+
+<p>§ 2. Het aanbod, vermeld in paragraaf 1, wordt op een zodanige manier georganiseerd dat het openstaat voor de brede bevolking. Het centrum voor algemeen welzijnswerk bouwt het aanbod zodanig uit dat het daadwerkelijk gebruikt wordt door :<br>
+1° de meest kwetsbare groepen, vermeld in artikel 12;<br>
+2° jongeren van 12 tot en met 25 jaar;<br>
+3° slachtoffers en hun directe sociale omgeving;<br>
+4° gedetineerden en hun directe sociale omgeving.</p>
 
 ### ART. 8.
 
@@ -138,11 +159,51 @@ Een erkenning van een centrum gaat in op 1 januari van het jaar dat volgt   op d
 
 ### ART. 23.
 
-Een centrum kan alleen worden erkend : <BR>1° als het daarvoor een   ontvankelijke aanvraag heeft ingediend; <BR>2° als het past in de programmatie,   vermeld in het decreet van 8 mei 2009, en artikel 29 van dit besluit; <BR>3° als   het voldoet aan de erkenningsvoorwaarden, vermeld in hoofdstuk II en artikel 17,   § 2 van het decreet van 8 mei 2009, en artikel 3 tot en met 21 van dit besluit,   die op het centrum van toepassing zijn.
+Een centrum kan alleen worden erkend :<br>
+1° als het daarvoor een ontvankelijke aanvraag heeft ingediend;<br>
+2° als het past in de programmatie, vermeld in het decreet van 8 mei 2009, en artikel 28 van dit besluit;<br>
+3° als het voldoet aan de erkenningsvoorwaarden, vermeld in hoofdstuk II en artikel 17, § 2 van het decreet van 8 mei 2009, en artikel 3 tot en met 21 van dit besluit, die op het centrum van toepassing zijn.
 
 ### ART. 24.
 
-<P>§ 1. Een erkenningsaanvraag is ontvankelijk als het centrum ze met een   aangetekende brief bij de administratie indient tussen 1 januari en 1 juli en   als ze een dossier bevat dat is samengesteld uit de organisatiegebonden   gegevens, vermeld in paragraaf 2, en een beleidsplan als vermeld in paragraaf 3.   <BR></P>  <P>§ 2. De organisatiegebonden gegevens betreffen : <BR>1° de formele gegevens   met betrekking tot de inrichtende macht, het bestuur en de directie van het   centrum; <BR>2° de benaming van het centrum.<BR></P>  <P>Als de gegevens, vermeld in het eerste lid, wijzigen, brengt het centrum de   administratie daarvan onmiddellijk op de hoogte. <BR></P>  <P>§ 3. Het beleidsplan omvat : <BR>1° de interne structuur, het organogram en   de visie op de organisatieontwikkeling van het centrum met het oog op een   geïntegreerde werking;<BR>2° de wijze waarop het centrum het hulp- en   dienstverleningsaanbod organiseert. Als meerdere centra actief zijn in eenzelfde   provincie, beschrijven die centra daarvoor gezamenlijke strategieën;<BR>3°   samenwerkingsverbanden van het centrum met andere actoren en de rol die het   centrum opneemt in zorgnetwerken.<BR></P>  <P>In het beleidsplan toont het centrum aan dat het een hulp- en   dienstverleningsaanbod realiseert, rekening houdend met de beschikbare middelen   en verantwoord vanuit een omgevingsanalyse die de welzijnsnoden en -behoeften   binnen zijn werkgebied aantoont.<BR></P>  <P>Wat de organisatie van het hulp- en dienstverleningsaanbod betreft, vermeldt   het centrum in het beleidsplan : <BR>1° de activiteiten, <BR>2° voor iedere   activiteit afzonderlijk, de vestigingsplaatsen en de openingstijden; <BR>3° het   aantal beroepskrachten, evenals de gegevens met betrekking tot de inschakeling   van de vrijwilligers;<BR>4° de wijze waarop de personeelsmiddelen aangewend   worden voor hulpverlening, ondersteunende diensten en management.<BR></P>  <P>In het beleidsplan wordt weergegeven : <BR>1° op welke wijze het centrum   invulling gegeven heeft aan de actieve betrokkenheid van medewerkers bij de   opmaak van dat plan;<BR>2° op welke wijze het centrum aandacht heeft voor een   deugdelijk beleid en bestuur, meer bepaald op welke wijze vorm gegeven wordt aan   een sociaal en professioneel management, aan de principes van 'corporate   governance', aan de relatie tussen management en bestuur en aan een zorgzaam   personeelsbeleid en een transparant financieel beleid, dit alles met toepassing   van de geldende code voor de socialprofit.<BR></P>  <P>De minister keurt het beleidsplan goed. De minister kan het centrum opdragen   een bijgestuurd beleidsplan ter goedkeuring in te dienen. <BR></P>  <P>§ 4. Als het centrum ingrijpende wijzigingen plant in het beleidsplan of   indien de minister wijzigingen in het beleidsplan vraagt, vermeld in paragraaf   3, dient het centrum ter goedkeuring bij de administratie een bijgestuurd   beleidsplan in, met vermelding van : <BR>1° een schets van de ondernomen stappen   om tot het plan voor de ingrijpende wijzigingen te komen;<BR>2° een beschrijving   van de ingrijpende wijziging;<BR>3° een inschatting van de mogelijke effecten,   in voorkomend geval op basis van een overleg met de centra uit de   provincie.<BR></P>  <P>De volgende situaties worden beschouwd als een ingrijpende wijziging als   vermeld in het eerste lid : <BR>1° de capaciteit van het in het beleidsplan   omschreven mobiel of ambulant aanbod aan hulp- en dienstverlening op het vlak   van onthaal en begeleiding wordt in een of meerdere kleinstedelijke zorgregio's   structureel verminderd met 1/3;<BR>2° de capaciteit van het in het beleidsplan   omschreven residentiële aanbod aan hulp- en dienstverlening wordt structureel   verminderd;<BR>3° methodologische of geografische wijzigingen in het aanbod   waardoor de engagementen van de Vlaamse overheid tegenover andere overheden in   het gedrang kunnen komen.<BR></P>  <P>De administratie evalueert jaarlijks de uitvoering van het beleidsplan op   basis van het inhoudelijke jaarverslag, vermeld in artikel 36, §   2.</P>
+<p>§ 1. Een erkenningsaanvraag is ontvankelijk als het centrum ze met een aangetekende brief bij de administratie indient tussen 1 januari en 1 juli en als ze een dossier bevat dat is samengesteld uit de organisatiegebonden gegevens, vermeld in paragraaf 2, en een beleidsplan als vermeld in paragraaf 3.</p>
+
+<p>§ 2. De organisatiegebonden gegevens betreffen :<br>
+1° de formele gegevens met betrekking tot de inrichtende macht, het bestuur en de directie van het centrum;<br>
+2° de benaming van het centrum.</p>
+
+<p>Als de gegevens, vermeld in het eerste lid, wijzigen, brengt het centrum de administratie daarvan onmiddellijk op de hoogte.</p>
+
+<p>§ 3. Het beleidsplan omvat :<br>
+1° de interne structuur, het organogram en de visie op de organisatieontwikkeling van het centrum met het oog op een geïntegreerde werking;<br>
+2° de wijze waarop het centrum het hulp- en dienstverleningsaanbod organiseert. Als meerdere centra actief zijn in eenzelfde provincie, beschrijven die centra daarvoor gezamenlijke strategieën;<br>
+3° samenwerkingsverbanden van het centrum met andere actoren en de rol die het centrum opneemt in zorgnetwerken.</p>
+
+<p>In het beleidsplan toont het centrum aan dat het een hulp- en dienstverleningsaanbod realiseert, rekening houdend met de beschikbare middelen en verantwoord vanuit een omgevingsanalyse die de welzijnsnoden en -behoeften binnen zijn werkgebied aantoont.</p>
+
+<p>Wat de organisatie van het hulp- en dienstverleningsaanbod betreft, vermeldt het centrum in het beleidsplan :<br>
+1° de activiteiten,<br>
+2° voor iedere activiteit afzonderlijk, de vestigingsplaatsen en de openingstijden;<br>
+3° het aantal beroepskrachten, evenals de gegevens met betrekking tot de inschakeling van de vrijwilligers;<br>
+4° de wijze waarop de personeelsmiddelen aangewend worden voor hulpverlening, ondersteunende diensten en management.</p>
+
+<p>In het beleidsplan wordt weergegeven :<br>
+1° op welke wijze het centrum invulling gegeven heeft aan de actieve betrokkenheid van medewerkers bij de opmaak van dat plan;<br>
+2° op welke wijze het centrum aandacht heeft voor een deugdelijk beleid en bestuur, meer bepaald op welke wijze vorm gegeven wordt aan een sociaal en professioneel management, aan de principes van 'corporate governance', aan de relatie tussen management en bestuur en aan een zorgzaam personeelsbeleid en een transparant financieel beleid, dit alles met toepassing van de geldende code voor de socialprofit.</p>
+
+<p>De secretaris-generaal keurt het beleidsplan goed. De secretaris-generaal kan het centrum opdragen een bijgestuurd beleidsplan ter goedkeuring in te dienen.</p>
+
+<p>§ 4. Als het centrum ingrijpende wijzigingen plant in het beleidsplan of indien de secretaris-generaal wijzigingen in het beleidsplan vraagt, vermeld in paragraaf 3, dient het centrum ter goedkeuring bij de administratie een bijgestuurd beleidsplan in, met vermelding van :<br>
+1° een schets van de ondernomen stappen om tot het plan voor de ingrijpende wijzigingen te komen;<br>
+2° een beschrijving van de ingrijpende wijziging;<br>
+3° een inschatting van de mogelijke effecten, in voorkomend geval op basis van een overleg met de centra uit de provincie.</p>
+
+<p>De volgende situaties worden beschouwd als een ingrijpende wijziging als vermeld in het eerste lid :<br>
+1° de capaciteit van het in het beleidsplan omschreven mobiel of ambulant aanbod aan hulp- en dienstverlening op het vlak van onthaal en begeleiding wordt in een of meerdere kleinstedelijke zorgregio's structureel verminderd met 1/3;<br>
+2° de capaciteit van het in het beleidsplan omschreven residentiële aanbod aan hulp- en dienstverlening wordt structureel verminderd;<br>
+3° methodologische of geografische wijzigingen in het aanbod waardoor de engagementen van de Vlaamse overheid tegenover andere overheden in het gedrang kunnen komen.</p>
+
+<p>De administratie evalueert jaarlijks de uitvoering van het beleidsplan op basis van het inhoudelijke jaarverslag, vermeld in artikel 36, § 2.</p>
 
 ### ART. 25.
 
@@ -160,7 +221,18 @@ Als de erkenning door de secretaris-generaal werd geweigerd omdat het   centrum 
 
 ### ART. 28.
 
-<P>Met behoud van de toepassing van artikel 17, § 2, van het decreet van 8 mei   2009 stelt de minister een programmatie van de centra voor teleonthaal en van de   centra voor algemeen welzijnswerk op voor het Nederlandse taalgebied, alsook   voor het tweetalige gebied Brussel-Hoofdstad. </P>  <P><BR>Voor de centra voor algemeen welzijnswerk wordt onder meer rekening   gehouden met regiokenmerken, met factoren inzake de maatschappelijke   kwetsbaarheid of het psychisch onwelzijn van de burgers, met factoren die de   lokale verankering waarborgen en met de voorwaarden voor het hulp- en   dienstverleningsaanbod. Voor het tweetalige gebied Brussel-Hoofdstad kan   rekening worden gehouden met bijzondere criteria.</P>
+<p>§ 1. Met behoud van de toepassing van artikel 17, § 2, van het decreet van 8 mei 2009 stelt de minister een programmatie van de centra voor teleonthaal en van de centra voor algemeen welzijnswerk op voor het Nederlandse taalgebied, alsook voor het tweetalige gebied Brussel-Hoofdstad.</p>
+
+<p><br>
+Voor de centra voor algemeen welzijnswerk wordt onder meer rekening gehouden met regiokenmerken, met factoren inzake de maatschappelijke kwetsbaarheid of het psychisch onwelzijn van de burgers, met factoren die de lokale verankering waarborgen en met de voorwaarden voor het hulp- en dienstverleningsaanbod. Voor het tweetalige gebied Brussel-Hoofdstad kan rekening worden gehouden met bijzondere criteria.<br>
+<br>
+§ 2. De programmatie van de centra voor algemeen welzijnswerk geldt niet voor de volgende opdrachten die een centrum voor algemeen welzijnswerk opneemt:<br>
+1° de specifieke intersectorale modules of programma's, waarin het centrum samen met een of meer voorzieningen uit andere sectoren vanuit een gemeenschappelijke vraagverheldering zorg op maat van de gebruiker aanbiedt;<br>
+2° de uniforme aansturing en coördinatie van de hulpverlening aan een specifieke doelgroep op operationeel en inhoudelijk vlak voor verschillende centra algemeen welzijnswerk in het Nederlandse taalgebied en het tweetalig gebied Brussel-Hoofdstad.<br>
+<br>
+De minister bepaalt de opdrachten waarvoor een centrum algemeen welzijnswerk overeenkomstig deze paragraaf buiten de programmatie is erkend, het werkgebied waarvoor die opdrachten gelden, en het bijbehorende minimale aantal voltijdsequivalenten.<br>
+<br>
+In het eerste lid, 1°, wordt verstaan onder sector: sector als vermeld in artikel 3, 10°, van het decreet van 9 februari 2018 betreffende het lokaal sociaal beleid.</p>
 
 ## HOOFSTUK 4. De subsidiëring van de centra
 
@@ -198,7 +270,15 @@ De subsidie-enveloppe wordt aan een erkend centrum toegekend op voorwaarde   dat
 
 ### ART. 36.
 
-<P>§ 1. Het centrum verantwoordt de aanwending van de subsidie-enveloppe tijdens   een kalenderjaar in een inhoudelijk en een financieel verslag, die ze vóór 1 mei   van het volgende kalenderjaar bij de administratie indient. <BR></P>  <P>§ 2. Het inhoudelijke verslag, vermeld in paragraaf 1, heeft de vorm van een   opvolgingsrapport. Daarin wordt beschreven op welke wijze het hulp- en   dienstverleningsaanbod zoals dat in het beleidsplan wordt omschreven, is   gerealiseerd of gewijzigd. Die beschrijving gebeurt onder meer aan de hand van   resultaatsgerichte indicatoren die betrekking hebben op de wijze waarop   uitvoering gegeven wordt aan artikel 4 tot en met 20. De minister stelt een   sjabloon ter beschikking op basis waarvan het centrum zijn resultaatsgerichte   indicatoren weergeeft.<BR></P>  <P>Het inhoudelijke jaarverslag bevat eveneens gerichte signalen naar de Vlaamse   overheid voor verdere beleidsvoering en -bijsturing. <BR></P>  <P>Samen met het inhoudelijke verslag dient het centrum de registratiegegevens   in, vermeld in artikel 18 van het decreet van 8 mei 2009. In overleg met de   sector van het algemeen welzijnswerk wordt bepaald welke registratiegegevens   worden bezorgd, de vorm waarin dit gebeurt en de wijze waarop de gegevens worden   gecodeerd.<BR></P>  <P>§ 3. Het financiële verslag, vermeld in paragraaf 1, moet alle documenten   bevatten, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13   januari 2006 betreffende de boekhouding en het financieel verslag voor de   voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn,   Volksgezondheid en Gezin.</P>
+<p>§ 1. Het centrum verantwoordt de aanwending van de subsidie-enveloppe tijdens een kalenderjaar in een inhoudelijk en een financieel verslag, die ze vóór 1 mei van het volgende kalenderjaar bij de administratie indient.</p>
+
+<p>§ 2. Het inhoudelijke verslag, vermeld in paragraaf 1, heeft de vorm van een opvolgingsrapport. Daarin wordt beschreven op welke wijze het hulp- en dienstverleningsaanbod zoals dat in het beleidsplan wordt omschreven, is gerealiseerd of gewijzigd. Die beschrijving gebeurt onder meer aan de hand van resultaatsgerichte indicatoren die betrekking hebben op de wijze waarop uitvoering gegeven wordt aan artikel 4 tot en met 20. De minister stelt een sjabloon ter beschikking op basis waarvan het centrum zijn resultaatsgerichte indicatoren weergeeft.</p>
+
+<p>Het inhoudelijke jaarverslag bevat eveneens gerichte signalen naar de Vlaamse overheid voor verdere beleidsvoering en -bijsturing en een beschrijving van de wijze waarop het centrum de opdrachten, vermeld in artikel 28, § 2, het afgelopen jaar heeft gerealiseerd.</p>
+
+<p>Samen met het inhoudelijke verslag dient het centrum de registratiegegevens in, vermeld in artikel 18 van het decreet van 8 mei 2009. In overleg met de sector van het algemeen welzijnswerk wordt bepaald welke registratiegegevens worden bezorgd, de vorm waarin dit gebeurt en de wijze waarop de gegevens worden gecodeerd.</p>
+
+<p>§ 3. Het financiële verslag, vermeld in paragraaf 1, moet alle documenten bevatten, vermeld in artikel 13 van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin.</p>
 
 ### ART. 37.
 
