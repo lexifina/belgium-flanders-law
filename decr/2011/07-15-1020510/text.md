@@ -8,7 +8,11 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder : <br />1° het Kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° het Energiedecreet : het decreet houdende algemene bepalingen betreffende het energiebeleid van 8 mei 2009;<br />3° het Vlaams Energiebedrijf : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap "NV Vlaams Energiebedrijf", dat overeenkomstig artikel 3 van dit decreet zal worden opgericht;<br />4° dochteronderneming : onderneming, ongeacht de rechtsvorm, die door het Vlaams Energiebedrijf betrokken wordt bij de uitoefening van haar beleidsuitvoerende taken overeenkomstig artikel 12 van het Kaderdecreet.
+In dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° het Energiedecreet : het decreet houdende algemene bepalingen betreffende het energiebeleid van 8 mei 2009;<br>
+3° het Vlaams Energiebedrijf : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap "NV Vlaams Energiebedrijf", dat overeenkomstig artikel 3 van dit decreet zal worden opgericht;<br>
+4° dochteronderneming : onderneming, ongeacht de rechtsvorm, die door het Vlaams Energiebedrijf betrokken wordt bij de uitoefening van haar beleidsuitvoerende taken overeenkomstig artikel III.18 van het Bestuursdecreet.
 
 ## HOOFDSTUK II. Machtiging tot oprichting van het Vlaams Energiebedrijf
 
@@ -16,7 +20,11 @@ In dit decreet wordt verstaan onder : <br />1° het Kaderdecreet : het kaderdecr
 
 ### ART. 3.
 
-De Vlaamse Regering wordt gemachtigd om namens het Vlaamse Gewest onder de voorwaarden bepaald in dit decreet, de naamloze vennootschap Vlaams Energiebedrijf op te richten, dan wel mee te werken aan de oprichting ervan. Het Vlaams Energiebedrijf is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als bedoeld in artikel 29 van het Kaderdecreet. Behoudens andersluidende bepalingen in dit decreet, zijn de bepalingen van het Kaderdecreet van toepassing op het Vlaams Energiebedrijf.<br /><br />De statuten van het Vlaams Energiebedrijf en elke wijziging daaraan, worden ter kennisgeving voorgelegd aan de Vlaamse Regering en meegedeeld aan het Vlaams Parlement.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Vlaams Energiebedrijf behoort.
+De Vlaamse Regering wordt gemachtigd om namens het Vlaamse Gewest onder de voorwaarden bepaald in dit decreet, de naamloze vennootschap Vlaams Energiebedrijf op te richten, dan wel mee te werken aan de oprichting ervan. Het Vlaams Energiebedrijf is een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als vermeld in artikel III.14 van het Bestuursdecreet. Behoudens andersluidende bepalingen in dit decreet, zijn de bepalingen van het Bestuursdecreet van toepassing op het Vlaams Energiebedrijf.<br>
+<br>
+De statuten van het Vlaams Energiebedrijf en elke wijziging daaraan, worden ter kennisgeving voorgelegd aan de Vlaamse Regering en meegedeeld aan het Vlaams Parlement.<br>
+<br>
+De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein het Vlaams Energiebedrijf behoort.
 
 ## Afdeling 2. Missie, taken en bevoegdheden
 
@@ -32,7 +40,9 @@ De Vlaamse Regering is gemachtigd om statutair personeel, gebouwen en infrastruc
 
 ### ART. 6.
 
-Tussen het Vlaams Energiebedrijf en de Vlaamse Regering wordt een samenwerkingsovereenkomst zoals bedoeld in artikel 31 van het Kaderdecreet gesloten.<br /><br />De samenwerkingovereenkomst bepaalt ten minste de krachtlijnen, omschrijving en aanpak van de uit te voeren taken, een coherent en gedetailleerd businessplan in verband met de uit te voeren taken, de informatie- en rapportageverplichtingen inzake de taken en de financiële situatie, de opmaak van een gedragscode inzake corporate governance, evenals, met inachtneming van hetgeen is bepaald in artikel 5, eerste lid, de voorwaarden en modaliteiten tot eventuele terbeschikkingstelling aan het Vlaams Energiebedrijf of haar dochterondernemingen van personeelsleden, infrastructuur of andere middelen, de nadere bepalingen betreffende het beheer en de werking van het Vlaams Energiebedrijf, evenals de duur, opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.
+Tussen het Vlaams Energiebedrijf en de Vlaamse Regering wordt een samenwerkingsovereenkomst zoals bedoeld in artikel III.16 van het Bestuursdecreet gesloten.<br>
+<br>
+De samenwerkingovereenkomst bepaalt ten minste de krachtlijnen, omschrijving en aanpak van de uit te voeren taken, een coherent en gedetailleerd businessplan in verband met de uit te voeren taken, de informatie- en rapportageverplichtingen inzake de taken en de financiële situatie, de opmaak van een gedragscode inzake corporate governance, evenals, met inachtneming van hetgeen is bepaald in artikel 5, eerste lid, de voorwaarden en modaliteiten tot eventuele terbeschikkingstelling aan het Vlaams Energiebedrijf of haar dochterondernemingen van personeelsleden, infrastructuur of andere middelen, de nadere bepalingen betreffende het beheer en de werking van het Vlaams Energiebedrijf, evenals de duur, opzeggings- en verlengingsmogelijkheden van de samenwerkingsovereenkomst.
 
 ## Afdeling 4. Aandeelhouderschap
 
