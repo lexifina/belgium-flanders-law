@@ -30,7 +30,9 @@ Het INBO ressorteert onder het hiërarchische gezag van de Vlaamse minister, bev
 
 ### ART. 6.
 
-De minister stuurt het INBO, inzonderheid via de beheersovereenkomst.<br /><br />Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+De minister stuurt het INBO, inzonderheid via het ondernemingsplan.<br>
+<br>
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 7.
 
@@ -40,7 +42,7 @@ Het hoofd van het INBO is belast met de algemene leiding, de werking en de verte
 
 ### ART. 8.
 
-Onverminderd artikel 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 met betrekking tot de informatieverstrekking, rapportering, interne controle en interne audit is de minister is verantwoordelijk voor de opvolging van en het toezicht op het INBO.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot de informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het INBO.
 
 ### ART. 9.
 
