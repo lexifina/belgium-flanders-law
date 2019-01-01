@@ -266,6 +266,18 @@ In afwijking van artikel 50 kan een dienst voor logistieke hulp alleen worden er
 
 In afwijking van artikel 48, tweede lid, kan de Vlaamse Regering dagverzorgingscentra erkennen die voor een door haar te bepalen categorie van gebruikers sommige van de activiteiten, vermeld in artikel 26, verrichten. In dat geval bepaalt de Vlaamse Regering de activiteiten die de dagverzorgingscentra minimaal moeten verrichten en kan ze voor die centra aangepaste erkenningsvoorwaarden vastleggen. Ze kan bepalen dat die dagverzorgingscentra hun activiteiten ook verrichten voor gebruikers die jonger zijn dan 65 jaar.
 
+### ART 52/1.
+
+Met behoud van de toepassing van artikel 48 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, volgens de door haar bepaalde normen en binnen de perken van de begrotingskredieten, een bijkomende erkenning verlenen aan woonzorgcentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen opneemt.<br>
+<br>
+Alle rust- en verzorgingstehuizen die voor 1 januari 2019 erkend zijn conform artikel 170 van de gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen worden van rechtswege beschouwd als woonzorgcentra met een bijkomende erkenning.
+
+### ART 52/2.
+
+Met behoud van de toepassing van artikel 48 en tot een datum die de Vlaamse Regering bepaalt, kan de Vlaamse Regering, volgens de door haar bepaalde normen en binnen de perken van de begrotingskredieten, een bijkomende erkenning verlenen aan dagverzorgingscentra die een verzorgingsstructuur aanbieden die zwaar afhankelijke zorgbehoevende personen overdag opvangt en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving en aan dagverzorgingscentra die een verzorgingsstructuur aanbieden die overdag personen opvangt die lijden aan een ernstige ziekte die aangepaste zorg vereist en die de noodzakelijke ondersteuning verschaft voor het behoud van die personen in hun thuisomgeving.<br>
+<br>
+Alle centra voor dagverzorging die voor 1 januari 2019 erkend zijn overeenkomstig artikel 170 van de gecoördineerde wet op de ziekenhuizen en andere verzorgingsinrichtingen, worden van rechtswege beschouwd als dagverzorgingscentra met een bijkomende erkenning.
+
 ### ART. 53.
 
 § 1. Een woonzorgcentrum, een dagverzorgingscentrum en een centrum voor kortverblijf mogen pas worden uitgebaat nadat de Vlaamse Regering ze heeft erkend.<br /><br />Het eerste lid geldt niet voor een woonzorgcentrum dat wordt uitgebaat door een natuurlijke persoon en dat bestemd is om maximaal drie gebruikers van 65 jaar of ouder te huisvesten.<br /><br />§ 2. De erkenning moet worden vermeld op alle officiële stukken die uitgaan van een voorziening waarvoor erkenning verplicht is met toepassing van § 1.
@@ -312,7 +324,15 @@ De ouderenvoorzieningen waarvoor voor de eerste maal een aanvraag tot erkenning 
 
 ### ART. 58.
 
-§ 1. Met behoud van de toepassing van paragraaf 2 bepaalt de Vlaamse   Regering de programmatie van de voorzieningen met uitzondering van de diensten   voor thuisverpleging en de groepen van assistentiewoningen, alsook de   programmatie van de woonzorgnetwerken en van de verenigingen. De programmatie   bepaalt, met het oog op een evenredige spreiding afhankelijk van de behoeften,   aan de hand van objectief meetbare criteria, de planning in de tijd en ruimte   van ofwel het maximale aantal voorzieningen, woonzorgnetwerken en verenigingen,   ofwel het maximale aantal plaatsen in voorzieningen, ofwel het maximale aantal   subsidiabele uren woonzorg die een voorziening mag aanbieden ofwel het maximale   aantal subsidiabele personeelsleden van een voorziening.<BR><BR>De Vlaamse   Regering stelt per type van voorziening en voor de woonzorgnetwerken en   verenigingen, de programmatie vast en kan zo nodig een werkgebied bepalen waar   de activiteiten hoofdzakelijk plaatsvinden. De Vlaamse Regering kan specifieke   regels bepalen voor de dagverzorgingscentra, vermeld in artikel 52.<BR><BR>De   Vlaamse Regering kan een programmatie als vermeld in het eerste lid bepalen voor   de groepen van assistentiewoningen.<BR><BR>§ 2. De Vlaamse Regering bepaalt aan   de hand van objectief meetbare criteria de programmatie voor de diensten   maatschappelijk werk van de ziekenfondsen zodat ofwel elk erkend ziekenfonds   ofwel elke erkende landsbond van ziekenfondsen een proportioneel aandeel in die   programmatie heeft.
+§ 1. Met behoud van de toepassing van paragraaf 2 bepaalt de Vlaamse Regering de programmatie van de voorzieningen met uitzondering van de diensten voor thuisverpleging en de groepen van assistentiewoningen, alsook de programmatie van de woonzorgnetwerken en van de verenigingen. De programmatie bepaalt, met het oog op een evenredige spreiding afhankelijk van de behoeften, aan de hand van objectief meetbare criteria, de planning in de tijd en ruimte van ofwel het maximale aantal voorzieningen, woonzorgnetwerken en verenigingen, ofwel het maximale aantal plaatsen in voorzieningen, ofwel het maximale aantal subsidiabele uren woonzorg die een voorziening mag aanbieden ofwel het maximale aantal subsidiabele personeelsleden van een voorziening.<br>
+<br>
+De Vlaamse Regering stelt per type van voorziening en voor de woonzorgnetwerken en verenigingen, de programmatie vast en kan zo nodig een werkgebied bepalen waar de activiteiten hoofdzakelijk plaatsvinden. De Vlaamse Regering kan specifieke regels bepalen voor de dagverzorgingscentra, vermeld in artikel 52.<br>
+<br>
+De Vlaamse Regering kan een programmatie als vermeld in het eerste lid bepalen voor de groepen van assistentiewoningen.<br>
+<br>
+De Vlaamse Regering kan een programmatie als vermeld in het eerste lid bepalen voor de vormen van huisvesting, verzorging en dienstverlening aan gebruikers, erkend met toepassing van artikel 49.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt aan de hand van objectief meetbare criteria de programmatie voor de diensten maatschappelijk werk van de ziekenfondsen zodat ofwel elk erkend ziekenfonds ofwel elke erkende landsbond van ziekenfondsen een proportioneel aandeel in die programmatie heeft.
 
 ### ART. 59.
 
@@ -325,6 +345,10 @@ De voorafgaande vergunning kan alleen worden verleend als het initiatief past in
 Het eerste en tweede lid zijn niet van toepassing op de groepen van assistentiewoningen zolang de Vlaamse Regering voor die voorzieningen geen programmatie heeft bepaald ter uitvoering van artikel 58, § 1, derde lid.<br>
 <br>
 Het eerste en tweede lid zijn van overeenkomstige toepassing voor een dienst maatschappelijk werk van het ziekenfonds, een lokaal dienstencentrum, een regionaal dienstencentrum en een centrum voor herstelverblijf, dat de initiatiefnemer wil laten erkennen.
+
+### ART 59/1.
+
+De Vlaamse Regering kan, op vraag van de initiatiefnemer, de voorafgaande vergunning van een thuiszorgvoorziening of een ouderenvoorziening geheel of gedeeltelijk omzetten in de erkenning of vergunning van een andere zorgvorm in het kader van het gezondheids- of welzijnsbeleid. De Vlaamse Regering stelt de procedure voor de omzetting vast en bepaalt de voorwaarden waaronder die plaatsvindt.
 
 ## Afdeling III. Subsidiëring
 
@@ -399,7 +423,9 @@ Een aan de Vlaamse Regering gerichte aanvraag voor een voorafgaande vergunning o
 
 ### ART. 66.
 
-§ 1. De aanmelding heeft tot gevolg dat de ambtenaren, vermeld in artikel 72, toegang hebben tot de gebouwen van de thuiszorgvoorzieningen of de gebouwen waarin ouderenzorg verstrekt wordt. <br /><br />Die ambtenaren zien erop toe dat de woonzorg wordt verstrekt met inachtneming van de persoonsrechten van de gebruikers. Meer bepaald gaan ze na of de lichamelijke, morele en psychische integriteit en de veiligheid van de gebruikers gewaarborgd wordt. Daarnaast zien ze erop toe dat de woonzorg verloopt op een verantwoorde en transparante wijze en tegen een redelijke prijs.<br /><br />§ 2. Inbreuken op de verplichtingen, vermeld in § 1, tweede lid, worden vastgesteld in een proces-verbaal dat bewijskracht heeft tot het tegenbewijs.<br /><br />Bij ernstige inbreuken op die verplichtingen kan de Vlaamse Regering de nodige maatregelen nemen om tot sluiting van de gebouwen, vermeld in § 1, eerste lid, over te gaan. De Vlaamse Regering regelt de procedure die de mogelijkheid bevat om een bezwaar in te dienen. Artikel 74, derde lid, is van overeenkomstige toepassing.
+§ 1.&nbsp;De ambtenaren, vermeld in artikel 72, zien erop toe dat de woonzorg in aangemelde thuiszorg- en ouderenzorgvoorzieningen&nbsp;wordt verstrekt met inachtneming van de persoonsrechten van de gebruikers. Meer bepaald gaan ze na of de lichamelijke, morele en psychische integriteit en de veiligheid van de gebruikers gewaarborgd wordt. Daarnaast zien ze erop toe dat de woonzorg verloopt op een verantwoorde en transparante wijze en tegen een redelijke prijs.<br>
+<br>
+§ 2. Bij ernstige inbreuken op&nbsp;de verplichtingen, vermeld in paragraaf 1, kan de Vlaamse Regering de nodige maatregelen nemen om tot sluiting van de thuiszorg- of ouderenzorgvoorziening over te gaan. De Vlaamse Regering regelt de procedure die de mogelijkheid bevat om een bezwaar in te dienen. Artikel 74, derde lid, is van overeenkomstige toepassing.
 
 ## HOOFDSTUK VI. Registratie
 
@@ -433,13 +459,15 @@ De persoonlijke bijdrage die de erkende thuiszorgvoorzieningen aan de gebruiker 
 
 ### ART. 72.
 
-De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en zijn uitvoeringsbesluiten.<br /><br />De ambtenaren die met het toezicht belast zijn, hebben het recht elke voorziening, vereniging of partnerorganisatie als vermeld in artikel 68, tweede lid, en elk woonzorgnetwerk te bezoeken. De voorzieningen, verenigingen, partnerorganisaties en zorgnetwerkcn stellen aan die ambtenaren alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die ambtenaren toe om ter plaatse de naleving van de bepalingen, vermeld in het eerste lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn.<br /><br />Van hun vaststellingen maken de ambtenaren, vermeld in het tweede lid, een verslag op. Het verslag heeft bewijskracht tot het tegenbewijs. Van het verslag wordt een afschrift gestuurd naar de voorziening, vereniging of partnerorganisatie, of naar het woonzorgnetwerk.
+De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en zijn uitvoeringsbesluiten.
 
 ## Afdeling II. Wijziging, schorsing en intrekking van de erkenning en sluiting
 
 ### ART. 73.
 
-De Vlaamse Regering kan, volgens de regels die ze bepaalt, de erkenning wijzigen, alsook de erkenning schorsen of intrekken als de erkende voorzieningen, woonzorgnetwerken of verenigingen de erkenningsvoorwaarden niet naleven. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.<br /><br />Bij onmiddellijk, reëel en ernstig gevaar voor de gezondheid en de veiligheid van de gebruikers van een voorziening kan de Vlaamse Regering, in afwachting van de intrekking van de erkenning, de onmiddellijke stopzetting van de uitbating van de voorziening bevelen en alle bewarende maatregelen nemen voor de bescherming van de gebruikers, na overleg met het gemeentebestuur en het openbaar centrum voor maatschappelijk welzijn van de gemeente waarin de voorziening gevestigd is. De Vlaamse Regering bepaalt de nadere regels om die stopzetting te bevelen en die maatregelen te nemen. <br /><br />De Vlaamse Regering vermindert de subsidie of ze vordert de subsidie terug volgens de regels die ze bepaalt, als die voorzieningen, woonzorgnetwerken of verenigingen de subsidievoorwaarden niet naleven.
+De Vlaamse Regering kan, volgens de regels die ze bepaalt, de erkenning wijzigen, alsook de erkenning schorsen of intrekken als de erkende voorzieningen, woonzorgnetwerken of verenigingen de erkenningsvoorwaarden niet naleven. Die regels bevatten de mogelijkheid om een bezwaar in te dienen.<br>
+<br>
+De Vlaamse Regering vermindert de subsidie of ze vordert de subsidie terug volgens de regels die ze bepaalt, als die voorzieningen, woonzorgnetwerken of verenigingen de subsidievoorwaarden niet naleven.
 
 ### ART. 74.
 
