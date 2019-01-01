@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029817,
+  "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot rangschikking van onbevaarbare waterlopen in eerste categorie op het grondgebied van de provincie Oost-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029817/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "ff8d9c6875e440c83c7e5f8d5247a86806243a683f276808641c26ce07c7e10c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029817&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-09-07",
+  "gazette": "2018-10-12",
+  "numac": 2018040708,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
