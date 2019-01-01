@@ -16,7 +16,7 @@ De Vlaamse Belastingdienst heeft tot taak :<BR>1° de inning en   invordering, m
 
 ### ART. 4.
 
-Overeenkomstig artikel 9, § 1, 1° van het kaderdecreet bestuurlijk beleid van 18 juli 2003, regelt de in artikel 7 bedoelde beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018 regelt het ondernemingsplan, vermeld in artikel 7 van dit besluit, de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 5.
 
@@ -30,7 +30,7 @@ De Vlaamse Belastingdienst ressorteert onder het hiërarchisch gezag van de Vlaa
 
 ### ART. 7.
 
-De minister stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.
+De minister stuurt het agentschap aan, inzonderheid via het ondernemingsplan.
 
 ### ART. 8.
 
@@ -50,7 +50,7 @@ Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en 
 
 ### ART. 11.
 
-Onverminderd de artikelen 9, 33 en 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.61, III.62, III.63, § 1, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 12.
 
