@@ -4,6 +4,18 @@
 
 ## HOOFDSTUK 2. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
+### ART 2.
+
+In artikel 1.1.0.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013, het laatst gewijzigd bij het decreet van 8 mei 2018, wordt in het tweede lid, 2°, in het zesde lid, 2°, en in het twaalfde lid, 1°, de zinsnede "het kind dat voldoet aan de voorwaarden, vermeld in artikel 47, artikel 56septies of artikel 63 van de Algemene Kinderbijslagwet, en de koninklijke besluiten, genomen ter uitvoering van die bepalingen" telkens vervangen door de zinsnede "een kind met een specifieke ondersteuningsbehoefte als vermeld in artikel 3, § 1, 39°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid".
+
+### ART 3.
+
+In artikel 2.1.5.0.1, § 1, 2°, van hetzelfde decreet, gewijzigd bij het decreet van 18 november 2016, wordt het woord "kinderbijslag" telkens vervangen door het woord "gezinsbijslag".
+
+### ART 4.
+
+In artikel 2.1.5.0.2, § 1, 4°, van hetzelfde decreet wordt het woord "kinderbijslag" telkens vervangen door het woord "gezinsbijslag".
+
 ### ART 14.
 
 In artikel 2.8.6.0.8, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2017, worden de woorden "derde en vierde lid" vervangen door de woorden "vierde en vijfde lid".
