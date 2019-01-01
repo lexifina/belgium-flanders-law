@@ -4,7 +4,12 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen Delegatiebesluit: het besluit van de Vlaamse regering van 10 oktober   2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden   van de intern verzelfstandigde agentschappen van de Vlaamse overheid;<BR>2° het   agentschap: het Agentschap&nbsp;Overheidspersoneel;<BR>3° de minister: de   Vlaamse minister bevoegd voor het algemeen beleid inzake personeel en   organisatieontwikkeling in de Vlaamse administratie;<BR>4° het lijnmanagement:   de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het   hiërarchisch en functioneel gezag over het personeel van hun entiteit   uitoefenen;<BR>5° diensten van de Vlaamse overheid: de entiteiten, de raden en   de instellingen die ressorteren onder het Vlaams personeelsstatuut van 13   januari 2006.
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het Algemeen Delegatiebesluit : het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen;<br>
+2° het agentschap: het Agentschap&nbsp;Overheidspersoneel;<br>
+3° de minister: de Vlaamse minister bevoegd voor het algemeen beleid inzake personeel en organisatieontwikkeling in de Vlaamse administratie;<br>
+4° het lijnmanagement: de hoofden van de organisatorische entiteiten binnen de Vlaamse overheid die het hiërarchisch en functioneel gezag over het personeel van hun entiteit uitoefenen;<br>
+5° diensten van de Vlaamse overheid: de entiteiten, de raden en de instellingen die ressorteren onder het Vlaams personeelsstatuut van 13 januari 2006.
 
 ## HOOFDSTUK II BENAMING, DOELSTELLINGEN EN TAKEN VAN HET AGENTSCHAP
 
@@ -22,7 +27,7 @@ Het agentschap heeft als missie het beleid inzake overheidspersoneel en   organi
 
 ### ART. 5.
 
-Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet bestuurlijk beleid   van 18 juli 2003, regelt het ondernemingsplan de concretisering van de   kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet   vervullen, met strategische en operationele doelstellingen, beschreven aan de   hand van meetbare criteria.
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018 regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 6.
 
@@ -40,7 +45,7 @@ De minister stuurt het agentschap aan, inzonderheid via het   ondernemingsplan.
 
 ### ART. 9.
 
-Overeenkomstig artikel 6, § 3, van het kaderdecreet bestuurlijk beleid van 18 juli 2003 is het hoofd van het agentschap belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
 
 ## HOOFDSTUK IV DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
@@ -56,7 +61,7 @@ Bij het gebruik van de delegaties gelden de algemene voorwaarden en beperkingen,
 
 ### ART. 12.
 
-Onverminderd de artikelen 9, 33 en 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 13.
 
