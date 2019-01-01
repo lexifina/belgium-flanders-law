@@ -64,7 +64,11 @@ Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   vol
 
 ### ART. 7.
 
-<P>Er wordt alleen steun verleend aan ondernemingen die voldoen aan de   regelgeving die van toepassing is in het Vlaamse Gewest. De onderneming moet aan   die regelgeving blijven voldoen tot vijf jaar na de beëindiging van de   ecologie-investeringen.<BR></P>  <P>De onderneming mag op de indieningsdatum van de steunaanvraag geen   achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid, geen   onderneming in moeilijkheden zijn als vermeld in artikel 2, punt 18, van de   algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees   of nationaal recht hebben lopen waarbij een toegekende steun wordt   teruggevorderd.</P>
+<p>Er wordt alleen steun verleend aan ondernemingen die voldoen aan de regelgeving die van toepassing is in het Vlaamse Gewest. De onderneming moet aan die regelgeving blijven voldoen tot vijf jaar na de beëindiging van de ecologie-investeringen.</p>
+
+<p>De onderneming mag op de indieningsdatum van de steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid en op de datum van de steuntoekenning geen onderneming in moeilijkheden zijn als vermeld in artikel 2, 18, van de algemene groepsvrijstellingsverordening, en geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd.<br>
+<br>
+In afwijking van het tweede lid geldt de voorwaarde over ondernemingen in moeilijkheden niet voor een starter als vermeld in artikel 22, 2, van de algemene groepsvrijstellingsverordening. Het maximale steunbedrag, vermeld in artikel 22, lid 3, c), en lid 5, van de voormelde verordening, wordt alleen toegepast als dat lager is dan de maximale steunintensiteit, vermeld in dit besluit en de uitvoeringsbesluiten ervan.</p>
 
 ### ART. 8.
 
@@ -226,11 +230,22 @@ Het vervolg van de procedure verloopt overeenkomstig artikel 24, 25, 2° en   3�
 
 ### ART. 37.
 
-De subsidie wordt aan de onderneming uitbetaald in drie schijven : <BR>1°   30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de   subsidie, op voorwaarde dat de onderneming de volgende twee voorwaarden vervult   : <BR>a) de onderneming vraagt de uitbetaling van de schijf aan;<BR>b) de   onderneming heeft de ecologie-investeringen voor 30% uitgevoerd;<BR>2° 30 % op   zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie, op   voorwaarde dat de onderneming de volgende twee voorwaarden vervult : <BR>a) de   onderneming vraagt de uitbetaling van de schijf aan;<BR>b) de onderneming heeft   de ecologie-investeringen voor 60 % uitgevoerd;<BR>3° 40 % op zijn vroegst   dertig dagen na de beslissing tot toekenning van de subsidie en na de   beëindiging van de ecologie-investeringen, op voorwaarde dat de onderneming de   volgende vier voorwaarden vervult : <BR>a) de onderneming vraagt de uitbetaling   van de schijf aan;<BR>b) de onderneming heeft de ecologie-investeringen volledig   uitgevoerd en de ecologie-investeringen worden in en door de onderneming   geëxploiteerd; <BR>c) de onderneming heeft geen achterstallige schulden bij de   Rijksdienst voor Sociale Zekerheid of in het kader van subsidiemaatregelen met   toepassing van het decreet van 16 maart 2012. Als er achterstallige schulden   zijn, wordt de uitbetaling opgeschort tot de onderneming het bewijs levert dat   die schulden werden aangezuiverd; <BR>d) de onderneming voldoet aan alle   voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de   uitvoeringsbesluiten.
+De subsidie wordt aan de onderneming uitbetaald in drie schijven :<br>
+1° 30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie, op voorwaarde dat de onderneming de volgende twee voorwaarden vervult :<br>
+a) de onderneming vraagt de uitbetaling van de schijf aan;<br>
+b) de onderneming heeft de ecologie-investeringen voor 30% uitgevoerd;<br>
+2° 30 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie, op voorwaarde dat de onderneming de volgende twee voorwaarden vervult :<br>
+a) de onderneming vraagt de uitbetaling van de schijf aan;<br>
+b) de onderneming heeft de ecologie-investeringen voor 60 % uitgevoerd;<br>
+3° 40 % op zijn vroegst dertig dagen na de beslissing tot toekenning van de subsidie en na de beëindiging van de ecologie-investeringen, op voorwaarde dat de onderneming de volgende vier voorwaarden vervult :<br>
+a) de onderneming vraagt de uitbetaling van de schijf aan;<br>
+b) de onderneming heeft de ecologie-investeringen volledig uitgevoerd en de ecologie-investeringen worden in en door de onderneming geëxploiteerd;<br>
+c) ...;<br>
+d) de onderneming voldoet aan alle voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de uitvoeringsbesluiten.
 
 ### ART. 37/1.
 
-Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op   basis van Europees of nationaal recht hebben lopen waarbij een toegekende steun   wordt teruggevorderd.
+Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd. Als er een procedure tot terugvordering loopt, wordt de uitbetaling van de subsidie opgeschort tot de onderneming het bewijs levert dat het terug te vorderen bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.
 
 ### ART. 38.
 
