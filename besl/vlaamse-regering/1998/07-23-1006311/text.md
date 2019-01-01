@@ -22,7 +22,7 @@ b) voor de toepassing van hoofdstuk V van dit besluit : de eigenaars, erfpachtho
 13° cultuurgewas: een gewas dat verbouwd wordt voor economische doeleinden inclusief braakgronden kaderend in het Europees Landbouwbeleid met uitzondering van het historisch permanent grasland en van bossen conform het bosdecreet;<br>
 14° ...<br>
 15° ...<br>
-16° gebruiker : de persoon die als eigenaar, vruchtgebruiker, erfpachter, opstalhouder of houder van een recht van gebruik of bewoning het onroerend goed exploiteert of die het onroerend goed huurt overeenkomstig Boek III, Titel VIII, Hoofdstuk II van het Burgerlijk Wetboek;<br>
+16° gebruiker : de persoon die als eigenaar, vruchtgebruiker, erfpachter, opstalhouder of houder van een recht van gebruik of bewoning het onroerend goed exploiteert of die het onroerend goed huurt overeenkomstig Boek III, Titel VIII, Hoofdstuk II van het Burgerlijk Wetboek of het Vlaams Woninghuurdecreet;<br>
 17° kavelruil : kavelruil uit kracht van wet, met inbegrip van herverkaveling, overeenkomstig artikel 47, § 2, 1°, van het decreet;<br>
 18° natuurinrichtingsmaatregelen andere dan kavelruil : de maatregelen bedoeld in artikel 47, § 2, 2°, 3°, 7°, 8°, en 11° van het decreet.<br>
 19° de Vlaamse Grondenbank : afdeling van de Vlaamse Landmaatschappij, opgericht volgens het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.<br>
