@@ -8,7 +8,12 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Dit besluit regelt voor instanties die geen deelnemer zijn aan   GDI-Vlaanderen met het oog op de vervulling van taken van algemeen belang de   toegang tot en het gebruik van geografische gegevensbronnen en geografische   diensten, vermeld in artikel 12, eerste lid, 1°, 2° en 4° en toegevoegd aan de   GDI. Het besluit regelt ook de vergoedingsregeling voor de publieke toegang tot   de GDI en het gebruik van de centrale e-commercedienst, vermeld in artikel 34, §   1 van het GDI-decreet van 20 februari 2009. <BR><BR>Instanties die geen   deelnemer zijn aan GDI-Vlaanderen omvatten : <BR>1° Belgische instanties als   vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende   openbaarheid van bestuur, behalve de Vlaamse instanties in de zin van artikel 4,   § 1 van het decreet;<BR>2° de instellingen en organen van de Europese   Unie;<BR>3° iedere natuurlijke persoon of rechtspersoon of een groepering ervan   die volgens het nationaal recht van een van de lidstaten openbare   bestuursfuncties uitoefent of adviserende bevoegdheid heeft.
+Dit besluit regelt voor instanties die geen deelnemer zijn aan GDI-Vlaanderen met het oog op de vervulling van taken van algemeen belang de toegang tot en het gebruik van geografische gegevensbronnen en geografische diensten, vermeld in artikel 12, eerste lid, 1°, 2° en 4° en toegevoegd aan de GDI. Het besluit regelt ook de vergoedingsregeling voor de publieke toegang tot de GDI en het gebruik van de centrale e-commercedienst, vermeld in artikel 34, § 1 van het GDI-decreet van 20 februari 2009.<br>
+<br>
+In dit besluit wordt verstaan onder instanties die geen deelnemer zijn aan GDI-Vlaanderen, afgekort instanties:<br>
+1° alle instanties als vermeld in artikel 3, 1°, b), van het GDI-decreet van 20 februari 2009;<br>
+2° de instellingen en organen van de Europese Unie;<br>
+3° iedere natuurlijke persoon of rechtspersoon of een groepering ervan die volgens het nationaal recht van een van de lidstaten openbare bestuursfuncties uitoefent of adviserende bevoegdheid heeft..
 
 ## HOOFDSTUK II. Verstrekking van toegang tot de geografische gegevens en diensten
 
@@ -28,7 +33,7 @@ De instantie is verplicht : <br />1° elk onrechtmatig gebruik van de geografisc
 
 ### ART. 5.
 
-Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door de instanties aan andere instanties of elke instantie, natuurlijke persoon, rechtspersoon of groepering ervan die geen deelnemer is aan de GDI-Vlaanderen kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder,na goedkeuring door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI, door de instanties aan derden kunnen bijkomende voorwaarden van beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder, na goedkeuring door het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018.
 
 ### ART. 6.
 
