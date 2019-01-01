@@ -30,7 +30,7 @@ Het Commissariaat-generaal voor de Bevordering van de Lichamelijke Opvoeding, de
 
 ### ART. 6.
 
-§ 1. Er wordt rechtspersoonlijkheid toegekend aan de Commissie, ingesteld door artikel 7 van het Verdrag gesloten tussen de Vlaamse Gemeenschap in het Koninkrijk België en het Koninkrijk der Nederlanden, inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn, ondertekend in Antwerpen op 17 januari 1995. De Commissie bezit rechtspersoonlijkheid om haar bevoegdheid en taken uit te oefenen, zoals vastgelegd in artikel 7 van het Verdrag.<br /><br />§ 2. De rechtspersoonlijkheid treedt in werking de dag van de bekendmaking van dit decreet in het Belgisch Staatsblad.<br /><br />§ 3. De Commissie ontvangt voor de kosten die voortvloeien uit haar werkzaamheden, een dotatie. Die dotatie komt ten laste van de begroting van de Vlaamse Gemeenschap.
+...
 
 ## HOOFDSTUK V WAARBORG VAN HET VLAAMSE GEWEST TEN AANZIEN VAN HET BESTAAND CONSORTIUMKREDIET VAN DE NV TUNNEL LIEFKENSHOEK
 
