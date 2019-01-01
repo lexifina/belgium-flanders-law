@@ -2,16 +2,16 @@
   "codex_id": 1011529,
   "title": "Decreet van 2003-07-18 tot regeling van strategische adviesraden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011529/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "ae03a995ca304f99c3af46dc483b0b58c777508196ba7dd37a824e68ea9016ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011529/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "78d102f8c9555331043aad0556959311d7e3240721a95ef505d9e193e48a3c59",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011529&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2019-01-01",
   "made": "2003-07-18",
   "gazette": "2003-08-22",
   "numac": 2003035929,
   "document_start": null,
   "document_end": "2018-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
