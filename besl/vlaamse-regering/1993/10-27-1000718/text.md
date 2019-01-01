@@ -37,19 +37,8 @@ d) 19.757,34 euro (premiebedrag op 1 januari1990 : 531.000 BEF of 13.163,15 euro
 13° werkervaringsovereenkomst: overeenkomst die tussen de minister en de werkgever wordt gesloten met het oog op de aanwerving van personen uit de risicogroepen op de arbeidsmarkt en langdurig werkloze jongeren als gesubsidieerde contractuelen in werkervaringsprojecten en met premies zoals bedoeld in artikel 7 van dit besluit;<br>
 14° opleidingsovereenkomst: overeenkomst die tussen de minister en de werkgever wordt gesloten met het oog op de aan-werving van gesubsidieerde contractuelen in opleidingsprojecten en met premies zoals bedoeld in artikel 8 van dit besluit;<br>
 15° bijzondere overeenkomst: overeenkomst die de minister sluit in toepassing van artikel 94, § 2 van de wet;<br>
-16° zeer moeilijk bemiddelbare werkzoekenden: de werkzoekenden die niet voldoen aan de voorwaarden zoals bepaald in artikel 1, § 2 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen en zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn die door een cumulatie van persoons- en omgevingsgebonden factoren, geen arbeidsplaats in het reguliere ar-beidscircuit kunnen verwerven of behouden maar die onder begeleiding in staat zijn tot het verrichten van arbeid op maat.<br>
-<br>
-Onder persoons- en omgevingsgebonden factoren wordt verstaan:<br>
-1° op de dag voor de indienstneming ingeschreven zijn bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als niet-werkende werkzoekende en tegelijkertijd voldoen aan volgende voorwaarden:<br>
-- fysieke of psychische of sociale beperkingen en moeilijkheden hebben;<br>
-- een begeleidingstraject volgen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of van een door deze Dienst erkende derde of Vlaamse openbare instelling waarmee deze Dienst een samenwerkingsovereenkomst heeft gesloten;<br>
-- op de dag voor de indienstneming ononderbroken gedurende een periode van minstens 5 jaar inactief zijn;<br>
-- geen hoger diploma, getuigschrift of brevet hebben behaald dan lager secundair onderwijs, buitengewoon hoger secundair onderwijs of hoger secundair beroepsonderwijs;<br>
-2° op de dag vóór de indienstneming werknemer zijn in een door de minister erkende sociale werkplaats;<br>
-<br>
-(De minister kan beslissen in te gaan op een gemotiveerde vraag tot afwijking van de voorwaarde vermeld in het punt 16°, 1°, vierde streepje van artikel 1. De minister kan periodes bepalen die met een periode van inactiviteit worden gelijkgesteld.)<br>
-<br>
-17° sociale werkplaats: voorziening erkend overeenkomstig de bepalingen van het decreet van 14 juli 1998 inzake sociale werkplaatsen, die tot doel heeft werkgelegenheid te verschaffen in een beschermde arbeidsomgeving door het opzetten van een bedrijfsactiviteit;<br>
+16°...<br>
+17° maatwerkbedrijf: de onderneming, vermeld in artikel 3, 5°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, voordien erkend als een sociale werkplaats, conform het decreet van 14 juli 1998 inzake sociale werkplaatsen, zoals van kracht voor de inwerkingtreding van het voormelde decreet van 12 juli 2013;<br>
 18° zeer langdurig werklozen: de werklozen die op de dag voor de indiensttreding zonder onderbreking minstens 24 maanden volledig vergoede werklozen zijn;<br>
 19° zeer langdurig werkzoekenden: de niet-werkende werkzoekenden die op de dag voor de indiensttreding minstens:<br>
 - 24 maanden als werkzoekende ingeschreven zijn bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsop-leiding;<br>
@@ -107,12 +96,12 @@ In toepassing van artikel 93, vierde lid van de wet wordt het toepassingsgebied,
 4. gerechtigden op financiële maatschappelijke hulp;<br>
 5. de werknemers van het Derde Arbeidscircuit;<br>
 6. de gesubsidieerde contractuelen;<br>
-7. de doelgroepwerknemers van een erkende sociale werkplaats zoals geregeld bij het decreet van 14 juli 1998 inzake sociale werkplaatsen;<br>
+7 de doelgroepwerknemers van het maatwerkbedrijf, vermeld in artikel 3, 2°, b), van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 8. de werknemers tewerkgesteld op basis van het besluit van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<br>
 9. de werknemers tewerkgesteld op basis van artikel 63 tot en met artikel 69 van het besluit van de Vlaamse regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en beroepsopleiding;<br>
 10. de herintreders;<br>
 11. de uitkeringsgerechtigde volledige werklozen die worden aangeworven als opleider in een opleidingsproject, zoals bepaald in artikel 8;<br>
-12. de niet-werkende werkzoekenden die worden aangeworven als erkend omkaderingspersoneelslid in een sociale werkplaats zoals erkend bij decreet van 14 juli 1998;<br>
+12 de niet-werkende werkzoekenden die worden aangeworven als werkvloerbegeleider als vermeld in artikel 46 van het besluit van de Vlaamse Regering van 17 februari 2017 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 13. de niet-werkende werkzoekenden of uitkeringsgerechtigd volledig werklozen die behoren tot de kansengroepen, die tewerkgesteld worden in een knelpuntberoep of die tewerkgesteld worden in een topsportproject.<br>
 <br>
 § 2. In toepassing van artikel 97, § 3 van de wet kan de minister de periodes bepalen die met de werkloosheidsduur van een uitkeringsgerechtigd volledig werkloze of met de periode van inschrijving als werkzoekende gelijkgesteld worden.
@@ -133,80 +122,11 @@ In toepassing van artikel 94 van de wet kan de minister een hoger premiebedrag v
 
 ### ART. 6bis.
 
-§ 1. In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14 juli 1998 inzake sociale werkplaatsen en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een persoonsgebonden, degressieve loonpremie op basis van het aantal door de minister erkende werknemers, die zeer moeilijk bemiddelbare werkzoekenden moeten zijn.<br>
+§ 1. Met toepassing van artikel 94 van de wet en binnen de perken van het begrotingskrediet kan een maatwerkbedrijf aanspraak maken op de loonpremie, vermeld in artikel 12 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, voor de werknemers, vermeld in artikel 3, § 1, 7°, van dit besluit.<br>
 <br>
-De persoonsgebonden, degressieve loonpremie bedraagt zowel voor jaar 1 als jaar 2 van de tewerkstelling 600.000 BEF op jaarbasis.<br>
+§ 1bis. ...<br>
 <br>
-Vanaf het derde jaar van tewerkstelling van de erkende werknemer bedraagt het jaarbedrag van de loonpremie 540.000 BEF.<br>
-<br>
-Voor de vaststelling van de loonpremie zoals bepaald in het tweede en het derde lid van dit artikel wordt rekening gehouden met de periode van tewerkstelling in het kader van het artikel 6bis van dit besluit zoals van kracht vóór de gelding van onderhavig wijzigingsbesluit.<br>
-<br>
-Bij de definitieve vervanging van een erkende werknemer start de persoonsgebonden, degressieve loonpremie bij jaar 1, in zoverre de sociale werkplaats aantoont dat de te vervangen werknemer tewerkgesteld wordt op de reguliere arbeidsmarkt, in een erkende sociale werkplaats, in het Derde Arbeidscircuit, volgens de bepalingen van dit besluit met uitzondering van een tewerkstelling in het kader van artikel 7bis of volgens de bepalingen van het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van gesubsidieerde contractuelen bij sommige plaatselijke besturen met uitzondering van een tewerkstelling in het kader van artikel 7bis.<br>
-<br>
-Deze regeling is eveneens van toepassing wanneer de uitdiensttreding van de erkende werknemer buiten de wil om van de sociale werkplaats gebeurt. Bij betwistingen beslist de minister. Het Departement WSE brengt ten aanzien van de minister hiertoe, na overleg met de trajectbegeleider, een advies uit.<br>
-<br>
-De loonpremie van de werknemer die met een vervangingscontract wordt tewerkgesteld ter vervanging van een erkende werknemer stemt overeen met het jaarbedrag dat door de titularis zou worden ontvangen.<br>
-<br>
-In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14 juli 1998 inzake sociale werkplaatsen en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen eveneens aanspraak maken op een persoonsgebonden, degressieve loonpremie voor de vervanger van een erkende werknemer, die in het kader van zijn individueel herinschakelingsproject tijdens de duur van zijn tewerkstelling een stage in het reguliere arbeidscircuit of een beroepsopleiding volgt onder de voorwaarden zoals bepaald in artikel 32 van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het terbeschikking stellen van werknemers ten behoeve van gebruikers.<br>
-<br>
-§ 1bis. Als aanvulling op de loonpremie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende werknemers, die zeer moeilijk bemiddelbare werkzoekenden moeten zijn, vermeld in § 1.<br>
-<br>
-Het bedrag van deze toelage bedraagt per voltijds equivalent erkende werknemer :<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td>
-			<p>2006</p>
-			</td>
-			<td style="border-color:windowtext windowtext windowtext currentColor">
-			<p>170,90 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2007</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>381,24 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2008</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>591,59 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2009</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>797,55 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>Vanaf 2010</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>1007,89 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-<br>
-<br>
-<br>
-§ 2. In toepassing van artikel 94 van de wet en van artikel 20 van het dereet van 14 juli 1998 inzake sociale werkplaatsen en binnen de perken van een begrotingskrediet kunnen erkende sociale werkplaatsen ook aanspraak maken op een omkaderingspremie à rato van één voltijds omkaderingspersoneelslid per 5 voltijdse equivalente erkende aangeworven werknemers.<br>
-<br>
-Het jaarbedrag van de omkaderingspremie wordt vastgesteld op 12.550 euro per voltijds equivalent omkaderingspersoneelslid.<br>
-<br>
-Voor de toepassing van het eerste lid wordt tijdens de in § 5 van dit artikel voorziene vervangingstermijnen de erkende werknemer nog geacht te zijn aangeworven.<br>
+§ 2. In toepassing van artikel 94 van de wet en binnen de perken van het begrotingskrediet kan een maatwerkbedrijf aanspraak maken op de omkaderingspremie voor het omkaderingspersoneelslid volgens de voorwaarden, vermeld in artikel 15, 16 en 17 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling en de uitvoeringsbesluiten van de bepalingen van het voormelde decreet.<br>
 <br>
 § 2bis. In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14 juli 1998 inzake sociale werkplaatsen en binnen de perken van een begrotingskrediet kunnen de erkende sociale werkplaatsen, aan wie minimaal 10 voltijds equivalente werknemers toegekend zijn, aanspraak maken op een omkaderingspremie à rato van één voltijds omkaderingspersoneelslid per 5 voltijds equivalente arbeidszorgmedewerkers die arbeidsmatige activiteiten uitvoeren in de sociale werkplaats.<br>
 <br>
@@ -229,110 +149,13 @@ Om aanspraak te kunnen maken op de omkaderingspremie zoals bepaald in het eerste
 <br>
 De minister kan de toekenning van de omkaderingspremie zoals bepaald in het eerste lid stopzetten, indien de voorwaarden zoals vermeld in deze paragraaf niet vervuld worden. Deze beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld. Onrechtmatig verkregen omkaderingspremies worden ingevorderd of ingehouden op de later aan de sociale werkplaats verschuldigde bedragen.<br>
 <br>
-§ 2ter. Als aanvulling op de omkaderingspremie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende omkaderingspersoneelsleden.<br>
+§ 2ter. Als aanvulling op de omkaderingspremie, vermeld in paragraaf 2bis, eerste lid, en binnen de perken van het begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende omkaderingspersoneelsleden, belast met de begeleiding van de arbeidszorgmedewerkers.<br>
 <br>
-Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingspersoneelslid :<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td>
-			<p>2006</p>
-			</td>
-			<td style="border-color:windowtext windowtext windowtext currentColor">
-			<p>139,18 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2007</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>305,75 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2008</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>472,31 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2009</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>637,36 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>Vanaf 2010</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>803,92 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+De toelage bedraagt 803,92 euro per voltijdsequivalent van een erkend omkaderingspersoneelslid.<br>
 <br>
+§ 2quater. In het kader van de managementondersteuning en binnen de perken van het begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende omkaderingspersoneelsleden, belast met de begeleiding van de arbeidszorg medewerkers.<br>
 <br>
-§ 2quater. In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende werknemers, vermeld in § 1, en omkaderingspersoneelsleden.<br>
-<br>
-Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende werknemer of omkaderingspersoneelslid :<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td>
-			<p>2006</p>
-			</td>
-			<td style="border-color:windowtext windowtext windowtext currentColor">
-			<p>40 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2007</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>80 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2008</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>120 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>2009</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>160 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-color:currentColor">
-			<p>Vanaf 2010</p>
-			</td>
-			<td style="border-color:currentColor">
-			<p>200 euro</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-<br>
-<br>
+Die managementsubsidie bedraagt 200 euro per voltijds equivalent van een erkend omkaderingspersoneelslid<br>
 <br>
 § 3. Het bedrag van de loonpremie en de omkaderingspremie evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand november 1998.<br>
 <br>
@@ -350,17 +173,7 @@ Het bedrag van de toelage voor de eindejaarspremie, vermeld in § 2ter, wordt bi
 <br>
 Het bedrag van de managementsubsidie wordt binnen het kader van de toegekende premie van de betrokken maand forfaitair vastgesteld op basis van de effectieve tewerkstelling met daarbij een geleverde arbeidsprestatie of gelijkgestelde arbeidsprestatie van de erkende werknemer of het omkaderingspersoneelslid.<br>
 <br>
-§ 5. De indienstneming van de erkende werknemer gebeurt binnen de zes maanden te rekenen vanaf de dag van de kennisgeving van de beslissing tot erkenning. Voor sociale werkplaatsen waar een aanwerving in fases aangewezen is, gaan de aanwervingstermijnen slechts in op de data vermeld in de erkenningsbeslissing.<br>
-<br>
-Met iedere uitbreiding van de erkenning gaat een nieuwe aanwervingstermijn in van zes maanden te rekenen vanaf de dag van de kennisgeving van de beslissing tot uitbreiding of wijziging.<br>
-<br>
-Met iedere wijziging van de erkenning gaat een nieuwe vervangingstermijn in van drie maanden voor de arbeidsplaatsen waarop de wijziging betrekking heeft te rekenen vanaf de dag van de kennisgeving van de beslissing tot wijziging.<br>
-<br>
-Een uitdienstgetreden erkende werknemer kan worden vervangen indien deze vervanging gebeurt binnen de drie maanden te rekenen vanaf de dag van de uitdiensttreding van de te vervangen werknemer.<br>
-<br>
-De minister kan een éénmalige verlenging van de vervangingstermijn van maximaal drie maanden toestaan indien de sociale werkplaats het bewijs levert dat het verstrijken van de vervangingstermijn zonder de indienstname van een werknemer buiten haar wil om is gebeurd.<br>
-<br>
-Na de termijn vermeld in de leden 1 tot en met 4 van deze paragraaf vervalt het recht op de toegekende loonpremie.<br>
+§ 5. ..<br>
 <br>
 § 6. De loonpremie kan in geen geval gecumuleerd worden met een andere tussenkomst in de loonkosten die bij decreet of besluit aan eenzelfde tewerkstelling wordt toegekend. De sociale werkplaats moet de minister onmiddellijk op de hoogte brengen, wanneer hij een andere tussenkomst in de loonkost van een werknemer ontvangt.
 
@@ -475,6 +288,10 @@ De gesubsidieerde contractuelen mogen afwezig zijn met behoud van hun loon om in
 ### ART. 31.
 
 De werkgever moet een vacant verklaarde voltijdse of deeltijdse dienstbetrekking in een overeenstem-mende functie bij voorrang laten innemen door een bij hem tewerkgestelde gesubsidieerde contractueel.
+
+### ART 31bis.
+
+De aanwerving van de werknemers, vermeld in artikel 3, § 1, 7°, is niet onderworpen aan de voorwaarden, vermeld in hoofdstuk IV, met uitzondering van artikel 19 en 30.
 
 ## HOOFDSTUK VI TOEZICHT EN NALEVING
 
