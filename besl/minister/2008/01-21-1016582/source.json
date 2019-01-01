@@ -2,16 +2,16 @@
   "codex_id": 1016582,
   "title": "Ministerieel besluit van 2008-01-21 tot bepaling van de standaard voor de titel van assistent-podiumtechnicus",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016582/VolledigDocument?datum=2008-02-07",
-  "source_sha256": "c04a6a0293f0908f310157ed05d6cb7fab021628c52f98e6647df24cf6446e69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016582/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "58e95cfc04e77cd30dd437eece04de91e543c434815ad2eec6b7107dfcae7091",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016582&param=informatie",
-  "as_of": "2008-02-07",
+  "as_of": "2019-01-01",
   "made": "2008-01-21",
   "gazette": "2008-02-07",
   "numac": 2008035159,
   "document_start": "2008-02-07",
   "document_end": "2018-12-31",
-  "in_force": "2008-02-07",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
