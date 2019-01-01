@@ -22,19 +22,19 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 74bis van het Gemeentedecreet van 15 juli 2005   brengt de gemeente de Vlaamse Regering binnen een termijn van twintig   kalenderdagen op de hoogte van de eedaflegging van een gemeenteraadslid, een   schepen, een voorzitter van de gemeenteraad, een waarnemend burgemeester of van   een burgemeester door middel van het elektronisch invullen van de gegevens,   vermeld in artikel 74bis van het Gemeentedecreet van 15 juli 2005, in een   mandatendatabank.
+...
 
 ### ART. 2.
 
-<P>Wanneer een gemeenteraadslid, een schepen, een voorzitter van de   gemeenteraad, een waarnemend burgemeester of een burgemeester afstand doet van   zijn ambt of mandaat, van zijn ambt of mandaat vervallen wordt verklaard, als   verhinderd wordt beschouwd, afgezet of geschorst is, ontslag genomen heeft of   overleden is, brengt de gemeente de Vlaamse Regering binnen een termijn van   twintig kalenderdagen op de hoogte van de einddatum van het ambt of mandaat door   middel van het elektronisch invullen van de mandatendatabank.<BR></P>  <P>De gemeente is er niet toe gehouden de Vlaamse Regering op de hoogte te   brengen van de gegevens, vermeld in artikel 74bis van het Gemeentedecreet van 15   juli 2005, van de personen die het ambt of mandaat gedurende een periode van   niet meer dan dertien weken waarnemen wegens een verhindering of   schorsing.</P>
+...
 
 ### ART. 3.
 
-Ter uitvoering van artikel 274, § 5, van het Gemeentedecreet van 15 juli   2005 brengt het district de Vlaamse Regering binnen een termijn van twintig   kalenderdagen op de hoogte van de eedaflegging van een districtsraadslid, een   lid van het districtscollege, een voorzitter van de districtsraad, of van een   voorzitter van het districtscollege door middel van het elektronisch invullen   van de gegevens, vermeld in artikel 74bis van het Gemeentedecreet van 15 juli   2005, in een mandatendatabank.
+...
 
 ### ART. 4.
 
-<P>Wanneer een districtsraadslid, een lid van het districtscollege, een   voorzitter van de districtsraad, een voorzitter van het districtscollege afstand   doet van zijn ambt of mandaat, van zijn ambt of mandaat vervallen wordt   verklaard, als verhinderd wordt beschouwd, afgezet of geschorst is, ontslag   genomen heeft of overleden is, brengt het district de Vlaamse Regering binnen   een termijn van twintig kalenderdagen op de hoogte van de einddatum van het ambt   of mandaat door middel van het elektronisch invullen van de   mandatendatabank.<BR></P>  <P>Het district is er niet toe gehouden de Vlaamse Regering op de hoogte te   brengen van de gegevens, vermeld in artikel 74bis van het Gemeentedecreet van 15   juli 2005, van de personen die het ambt of mandaat gedurende een periode van   niet meer dan dertien weken waarnemen wegens een verhindering of   schorsing.</P>
+...
 
 ### ART. 5.
 
@@ -46,20 +46,20 @@ Ter uitvoering van artikel 274, § 5, van het Gemeentedecreet van 15 juli   2005
 
 ### ART. 7.
 
-Ter uitvoering van artikel 73/1 van het decreet van 19 december 2008   betreffende de organisatie van de openbare centra voor maatschappelijk welzijn   brengt het openbaar centrum voor maatschappelijk welzijn de Vlaamse Regering   binnen een termijn van twintig kalenderdagen op de hoogte van de eedaflegging   van een O.C.M.W.-raadslid, een lid van het vast bureau, een ondervoorzitter van   de O.C.M.W.-raad of van een voorzitter van de O.C.M.W.-raad door middel van het   elektronisch invullen van de gegevens, vermeld in artikel 73/1 van het decreet   van 19 december 2008 betreffende de organisatie van de openbare centra voor   maatschappelijk welzijn, in een mandatendatabank.
+...
 
 ### ART. 8.
 
-<P>Wanneer een O.C.M.W.-raadslid, een lid van het vast bureau, een   ondervoorzitter of een voorzitter van de O.C.M.W.-raad afstand doet van zijn   ambt of mandaat, van zijn ambt of mandaat vervallen wordt verklaard, als   verhinderd wordt beschouwd, afgezet of geschorst is, ontslag genomen heeft of   overleden is, brengt het openbaar centrum voor maatschappelijk welzijn de   Vlaamse Regering binnen een termijn van twintig kalenderdagen op de hoogte van   de einddatum van het ambt of mandaat door middel van het elektronisch invullen   van de mandatendatabank.<BR></P>  <P>Het openbaar centrum voor maatschappelijk welzijn is er niet toe gehouden de   Vlaamse Regering op de hoogte te brengen van de gegevens, vermeld in artikel   73/1 van het decreet van 19 december 2008 betreffende de organisatie van de   openbare centra voor maatschappelijk welzijn, van de personen die het ambt of   mandaat gedurende een periode van niet meer dan dertien weken waarnemen wegens   een verhindering of schorsing.</P>
+...
 
 ### ART. 9.
 
-De uitbouw en het beheer van de mandatendatabank en de controle van de   gegevens, vermeld in deze databank, gebeuren door de Vlaamse minister, bevoegd   voor de binnenlandse aangelegenheden.
+...
 
 ### ART. 10.
 
-Dit besluit treedt in werking op 1 januari 2013.
+...
 
 ### ART. 11.
 
-De Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden, is   belast met de uitvoering van dit besluit.
+...
