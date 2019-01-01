@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031651,
+  "title": "Ministerieel besluit van 2019-03-22 betreffende de regels voor de erkenning en de subsidiëring van gezinsondersteunend aanbod ter preventie van vrouwelijke genitale verminking en gedwongen huwelijken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031651/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "5dfba33712af569e72ba5984f39662e9b9c65b0be5ebbe8987887ad7990e1b7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031651&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2019-03-22",
+  "gazette": "2019-05-08",
+  "numac": 2019012029,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
