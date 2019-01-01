@@ -187,7 +187,7 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen   voldoen
 
 <p>Kind en Gezin houdt daarbij rekening met de bepalingen van artikel 75.</p>
 
-<p>§ 2. Vanaf 2017 ontvangen erkende adoptiediensten, binnen het jaarlijks beschikbaar begrotingskrediet, jaarlijks een basissubsidie voor personeels- en werkingskosten van 230.000 euro.<br>
+<p>§ 2. De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 308.035,66&nbsp;euro.<br>
 <br>
 De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, vermeerderd met:<br>
 1° 3000 euro per voorlopig goedgekeurd kanaal, vermeld in artikel 9, § 1, gedurende de eerste drie jaar na goedkeuring door het Vlaams Centrum voor Adoptie, op voorwaarde dat bij herkomstlanden waar een accreditatie vereist is, die ook verkregen is;<br>
