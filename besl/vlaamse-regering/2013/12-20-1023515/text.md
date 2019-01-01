@@ -64,26 +64,33 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.1.6.0.1.
 
-<P>De aanvraag tot het verkrijgen van de vrijstelling van de onroerende   voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 1° en 2°, van de Vlaamse   Codex Fiscaliteit van 13 december 2013, wordt schriftelijk ingediend bij de   bevoegde entiteit van de Vlaamse administratie.<BR></P>  <P>Op de aanvraag tot terugbetaling worden de volgende gegevens vermeld: <BR>1°   naam van de belastingplichtige; <BR>2° adres van de belastingplichtige;<BR>3° de   ligging van het onroerend goed.<BR></P>  <P>De aanvraag, vermeld in het eerste en tweede lid, wordt door de   belastingschuldige ondertekend.</P>
+<p>De aanvraag tot het verkrijgen van de vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 1°, 2° en 3°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, wordt schriftelijk ingediend bij de bevoegde entiteit van de Vlaamse administratie.</p>
+
+<p>Op de aanvraag tot terugbetaling worden de volgende gegevens vermeld:<br>
+1° naam van de belastingplichtige;<br>
+2° adres van de belastingplichtige;<br>
+3° de ligging van het onroerend goed.</p>
+
+<p>De aanvraag, vermeld in het eerste en tweede lid, wordt door de belastingschuldige ondertekend.</p>
 
 ### ART. 2.1.6.0.2.
 
-De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de   vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste   lid, 1°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te   verkrijgen:<BR>1° een afschrift van de stedenbouwkundige vergunning of   omgevingsvergunning voor stedenbouwkundige handelingen;<BR>2° een afschrift van   de verbouwingsplannen, opgemaakt door de architect;<BR>3° een afschrift van het   proces-verbaal van voorlopige oplevering van de verbouwingswerkzaamheden,   opgemaakt tussen de bouwheer en de aannemer of architect.
+De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 1° en 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te verkrijgen:<br>
+1° een afschrift van de omgevingsvergunning voor stedenbouwkundige handelingen;<br>
+2° een afschrift van de verbouwingsplannen, opgemaakt door de architect;<br>
+3° een afschrift van het proces-verbaal van voorlopige oplevering van de verbouwingswerkzaamheden, opgemaakt tussen de bouwheer en de aannemer of architect;<br>
+4° een afschrift van de stedenbouwkundige verordening of het ruimtelijk uitvoeringsplan dat het kernwinkelgebied of het winkelarm gebied afbakent waarin het onroerend goed ligt.
 
 ### ART. 2.1.6.0.3.
 
-De aanvrager moet de volgende documenten bij zijn aanvraag voegen om de vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te verkrijgen:<br>
-1° een afschrift van de stedenbouwkundige vergunning of omgevingsvergunning voor de renovatiewerkzaamheden, vermeld in artikel 2.5.7.0.3 van de Vlaamse Codex Fiscaliteit van 13 december 2013;<br>
-2° een afschrift van het proces-verbaal van voorlopige oplevering van de renovatiewerkzaamheden, opgemaakt tussen de bouwheer en de aannemer of architect;<br>
-3° een attest waaruit blijkt dat het onroerend goed waarvoor de vrijstelling van de onroerende voorheffing wordt aangevraagd, vanaf ten vroegste 1 januari 2003&nbsp;uit het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, of uit de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het voormelde decreet is geschrapt.
+De aanvrager voegt de volgende documenten bij zijn aanvraag om de vrijstelling van de onroerende voorheffing, vermeld in artikel 2.1.6.0.2, eerste lid, 3°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, te verkrijgen:<br>
+1° een afschrift van de omgevingsvergunning of meldingsakte voor de sloopwerkzaamheden en de vervangbouw;<br>
+2° een afschrift van het proces-verbaal van voorlopige oplevering van de vervangbouw dat is opgemaakt tussen de bouwheer en de aannemer of architect;<br>
+3° een attest waaruit blijkt dat het onroerend goed waarvoor de vrijstelling van de onroerende voorheffing wordt aangevraagd, vanaf ten vroegste 1 januari 2018 is geschrapt uit een inventaris, vermeld in artikel 2.1.6.0.2, eerste lid, 3°, van de Vlaamse Codex Fiscaliteit van 13 december 2013.
 
 ### ART. 2.1.6.0.4.
 
-Als het onroerend goed waarvoor de vrijstelling kan worden toegekend, samen met een aanpalend onroerend goed wordt verbouwd tot één pand met één kadastraal inkomen, moet, in afwijking van artikel 2.1.6.0.2 en 2.1.6.0.3, de aanvraag in twee fasen worden ingediend:<br>
-1° in een eerste fase moeten de documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 1° en 2°, en artikel 2.1.6.0.3, 1°, worden voorgelegd zodra ze voorhanden zijn;<br>
-2° in een tweede fase moeten de documenten, vermeld in respectievelijk artikel 2.1.6.0.2, 3° en artikel 2.1.6.0.3, 2° en 3°, worden voorgelegd zodra kan worden aangetoond dat:<br>
-a) het onroerend goed in kwestie effectief wordt bewoond, met toepassing van artikel 2.1.6.0.2;<br>
-b) het onroerend goed in kwestie&nbsp;uit het register van verwaarloosde gebouwen en woningen, vermeld in artikel 25, § 1, van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996, of uit de inventaris van ongeschikte of onbewoonbare woningen, vermeld in artikel 26, § 1, van het voormelde decreet is geschrapt, met toepassing van artikel 2.1.6.0.3.
+...
 
 ## Afdeling 7. Wijze van heffing
 
@@ -127,7 +134,24 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.2.6.0.1.
 
-<P>Conform artikel 2.2.6.0.1, § 3, derde lid, van de Vlaamse Codex Fiscaliteit   van 13 december 2013 kunnen de vrijstellingen, vermeld in artikel 2.2.6.0.1, §   1, eerste lid, 13°, en artikel 2.2.6.0.1, § 2, 2°, van de Vlaamse Codex   Fiscaliteit van 13 december 2013, worden bewezen door het bijhouden van een   rittenblad.<BR></P>  <P>Voor het rittenblad, vermeld in het eerste lid, gelden de volgende   vormvoorschriften en verplichtingen:<BR>1° het rittenblad is een papieren   document dat op uitdrukkelijk verzoek door de bevoegde entiteit van de Vlaamse   administratie aan de belastingplichtige wordt afgeleverd. Het rittenblad wordt   door de bevoegde entiteit van de Vlaamse administratie voorzien van een   droogstempel en een geldigheidsperiode. Bij gebrek daaraan is het rittenblad   niet geldig en kan het niet dienen als bewijs van de vrijstelling;<BR>2° het   rittenblad bevat een tabel van dertig afzonderlijke vakken, genummerd van één   tot en met dertig. Voor de aanvang van elke ritdag vermeldt de   belastingplichtige in onuitwisbare inkt de datum van gebruik, voluit geschreven,   in het eerste openstaande vak. Het wijzigen, overschrijven, aanvullen of   schrappen van de ingeschreven datum en iedere handeling waardoor een vak voor   verschillende dagen kan worden gebruikt, maken dat vak ongeldig;<BR>3°   overeenkomstig artikel 2.2.6.0.1, § 3, derde lid, van de Vlaamse Codex   Fiscaliteit van 13 december 2013 moet het rittenblad zich steeds in het voertuig   bevinden. Bij controle moet de gebruiker het volledig ingevulde rittenblad   steeds kunnen voorleggen;<BR>4° de belastingplichtige die niet langer voldoet   aan de voorwaarden van de vrijstelling, vermeld in artikel 2.2.6.0.1, § 1,   eerste lid, 13°, en § 2, 2°, van de Vlaamse Codex Fiscaliteit van 13 december   2013, en zoals bepaald in dit besluit, moet zijn vrijstelling uitdrukkelijk   stopzetten bij de bevoegde entiteit van de Vlaamse administratie;<BR>5° het   rittenblad kan niet worden vervangen en er kan evenmin een duplicaat worden   afgeleverd. Bij verlies, vernietiging of diefstal is de belastingplichtige de   belasting verschuldigd vanaf het begin van het belastbaar tijdperk.<BR></P>  <P>Voor het rittenblad, vermeld in het eerste lid, gelden de volgende bepalingen   voor de aanvang en de geldigheidsduur:<BR>1° overeenkomstig artikel 2.2.6.0.1, §   3, vierde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 is de   geldigheidsduur van een rittenblad beperkt tot maximaal twaalf opeenvolgende   maanden, te rekenen vanaf de aanvangsdatum van het rittenblad. Als het   belastbaar tijdperk minder dan twaalf maanden bedraagt, wordt de geldigheidsduur   van het rittenblad overeenkomstig ingekort. Er kan maar één rittenblad verkregen   worden voor hetzelfde voertuig door dezelfde belastingplichtige binnen een   periode van twaalf maanden die volgt op de aanvangsdatum van het rittenblad.   Deze voorwaarde geldt ook als het voertuig onder een andere nummerplaat wordt   ingeschreven door dezelfde belastingplichtige binnen die periode van twaalf   maanden;<BR>2° overeenkomstig artikel 2.2.6.0.1, § 3, vijfde lid, van de Vlaamse   Codex Fiscaliteit van 13 december 2013 kan de belastingplichtige die zijn   aangifte of inschrijving stopzet en vervolgens opnieuw aangifte doet voor   hetzelfde voertuig binnen een periode van twaalf maanden na de aanvangsdatum van   het laatst geldige rittenblad, geen nieuw rittenblad aanvragen;<BR>3° de   belastingplichtige die in de loop van het belastbaar tijdperk het rittenblad   stopzet zonder zijn aangifte voor de verkeersbelasting gelijktijdig stop te   zetten, is de belasting verschuldigd vanaf het begin van het belastbaar   tijdperk;<BR>4° overeenkomstig artikel 2.2.6.0.1, § 3, vijfde lid, van de   Vlaamse Codex Fiscaliteit van 13 december 2013 kan de belastingplichtige die een   rittenblad aanvraagt dat wordt geweigerd wegens laattijdige aanvraag, voor de   periode van twaalf maanden die volgt op het begin van zijn lopende belastbaar   tijdperk waarvoor de aanvraag van een rittenblad werd geweigerd, geen nieuw   rittenblad aanvragen.<BR></P>  <P>In afwijking van het derde lid, 1°, kan voor de voertuigen, vermeld in   artikel 2.2.2.0.1, § 2, tweede lid, van de Vlaamse Codex Fiscaliteit van 13   december 2013 waarvoor het belastbaar tijdperk niet start op 1 januari maar in   de loop van het kalenderjaar, tijdens dat kalenderjaar een rittenblad worden   aangevraagd voor het daaropvolgende belastbaar tijdperk.<BR></P>  <P>Als een belastingplichtige het rittenblad, vermeld in het eerste lid,   verkeerd gebruikt of er misbruik van maakt en niet voldoet aan de in dit besluit   opgelegde vereisten, vervalt de vrijstelling voor het desbetreffende aanslagjaar   en is de belasting verschuldigd voor het belastbaar tijdperk waarvoor het   rittenblad werd aangevraagd.</P>
+<p>Conform artikel 2.2.6.0.1, § 3, derde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 kunnen de vrijstellingen, vermeld in artikel 2.2.6.0.1, § 1, eerste lid, 13°, en artikel 2.2.6.0.1, § 2, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013,&nbsp;&nbsp;voor de voertuigen die niet beschikken over een elektronische registratievoorziening als vermeld in artikel 3.3.1.0.13 van de Vlaamse Codex Fiscaliteit van 13 december 2013 en die maximaal dertig dagen op de openbare weg worden gebruikt, worden bewezen door het bijhouden van een rittenblad.</p>
+
+<p>Voor het rittenblad, vermeld in het eerste lid, gelden de volgende vormvoorschriften en verplichtingen:<br>
+1° het rittenblad is een papieren document dat op uitdrukkelijk verzoek door de bevoegde entiteit van de Vlaamse administratie aan de belastingplichtige wordt afgeleverd. Het rittenblad wordt door de bevoegde entiteit van de Vlaamse administratie voorzien van een droogstempel en een geldigheidsperiode. Bij gebrek daaraan is het rittenblad niet geldig en kan het niet dienen als bewijs van de vrijstelling;<br>
+2° het rittenblad bevat een tabel van dertig afzonderlijke vakken, genummerd van één tot en met dertig. Voor de aanvang van elke ritdag vermeldt de belastingplichtige in onuitwisbare inkt de datum van gebruik, voluit geschreven, in het eerste openstaande vak. Het wijzigen, overschrijven, aanvullen of schrappen van de ingeschreven datum en iedere handeling waardoor een vak voor verschillende dagen kan worden gebruikt, maken dat vak ongeldig;<br>
+3° overeenkomstig artikel 2.2.6.0.1, § 3, derde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 moet het rittenblad zich steeds in het voertuig bevinden. Bij controle moet de gebruiker het volledig ingevulde rittenblad steeds kunnen voorleggen;<br>
+4° de belastingplichtige die niet langer voldoet aan de voorwaarden van de vrijstelling, vermeld in artikel 2.2.6.0.1, § 1, eerste lid, 13°, en § 2, 2°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, en zoals bepaald in dit besluit, moet zijn vrijstelling uitdrukkelijk stopzetten bij de bevoegde entiteit van de Vlaamse administratie;<br>
+5° het rittenblad kan niet worden vervangen en er kan evenmin een duplicaat worden afgeleverd. Bij verlies, vernietiging of diefstal is de belastingplichtige de belasting verschuldigd vanaf het begin van het belastbaar tijdperk.</p>
+
+<p>Voor het rittenblad, vermeld in het eerste lid, gelden de volgende bepalingen voor de aanvang en de geldigheidsduur:<br>
+1° overeenkomstig artikel 2.2.6.0.1, § 3, vierde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 is de geldigheidsduur van een rittenblad beperkt tot maximaal twaalf opeenvolgende maanden, te rekenen vanaf de aanvangsdatum van het rittenblad. Als het belastbaar tijdperk minder dan twaalf maanden bedraagt, wordt de geldigheidsduur van het rittenblad overeenkomstig ingekort. Er kan maar één rittenblad verkregen worden voor hetzelfde voertuig door dezelfde belastingplichtige binnen een periode van twaalf maanden die volgt op de aanvangsdatum van het rittenblad. Deze voorwaarde geldt ook als het voertuig onder een andere nummerplaat wordt ingeschreven door dezelfde belastingplichtige binnen die periode van twaalf maanden;<br>
+2° overeenkomstig artikel 2.2.6.0.1, § 3, vijfde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 kan de belastingplichtige die zijn aangifte of inschrijving stopzet en vervolgens opnieuw aangifte doet voor hetzelfde voertuig binnen een periode van twaalf maanden na de aanvangsdatum van het laatst geldige rittenblad, geen nieuw rittenblad aanvragen;<br>
+3° de belastingplichtige die in de loop van het belastbaar tijdperk het rittenblad stopzet zonder zijn aangifte voor de verkeersbelasting gelijktijdig stop te zetten, is de belasting verschuldigd vanaf het begin van het belastbaar tijdperk;<br>
+4° overeenkomstig artikel 2.2.6.0.1, § 3, vijfde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 kan de belastingplichtige die een rittenblad aanvraagt dat wordt geweigerd wegens laattijdige aanvraag, voor de periode van twaalf maanden die volgt op het begin van zijn lopende belastbaar tijdperk waarvoor de aanvraag van een rittenblad werd geweigerd, geen nieuw rittenblad aanvragen.</p>
+
+<p>In afwijking van het derde lid, 1°, kan voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013 waarvoor het belastbaar tijdperk niet start op 1 januari maar in de loop van het kalenderjaar, tijdens dat kalenderjaar een rittenblad worden aangevraagd voor het daaropvolgende belastbaar tijdperk.</p>
+
+<p>Als een belastingplichtige het rittenblad, vermeld in het eerste lid, verkeerd gebruikt of er misbruik van maakt en niet voldoet aan de in dit besluit opgelegde vereisten, vervalt de vrijstelling voor het desbetreffende aanslagjaar en is de belasting verschuldigd voor het belastbaar tijdperk waarvoor het rittenblad werd aangevraagd.</p>
 
 ### ART. 2.2.6.0.2.
 
@@ -145,9 +169,15 @@ De belastingplichtige vermeldt de volgende gegevens op het formulier, vermeld in
 <br>
 Het formulier, vermeld in het eerste lid, wordt door de belastingplichtige ondertekend en wordt op straffe van verval ingediend bij de bevoegde entiteit van de Vlaamse administratie, op zijn vroegst de laatste dag van de belastbare periode en uiterlijk drie maanden na de laatste dag van de belastbare periode.<br>
 <br>
-In afwijking van het derde lid kan het formulier dat betrekking heeft op het aanslagjaar 2016 worden ingediend uiterlijk vier maanden na de laatste dag van de belastbare periode.<br>
-<br>
 § 2. De vrachtbrieven en de andere documenten waaruit blijkt dat er een overslagverrichting heeft plaatsgevonden, worden gedurende vijf jaar bijgehouden door de belastingplichtige en worden op verzoek van het bevoegde personeelslid overgemaakt.
+
+### ART 2.2.6.0.4.
+
+De voertuigen, vermeld in artikel 2.2.6.0.1, § 3, tweede lid, 1°, van de Vlaamse Codex Fiscaliteit van 13 december 2013, zijn de volgende:<br>
+1° kermis- of circuswagens die dienen voor het vervoer van kermis- of circusmateriaal of -dieren en de bijbehorende woonwagens, en die uiterlijk als dusdanig herkenbaar zijn;<br>
+2° opleidingsvoertuigen die ingeschreven zijn door een rijschool, het Sociaal Fonds voor Transport en Logistiek of een gewestelijke arbeidsbemiddelingsdienst en die uitsluitend gebruikt worden om te leren rijden;<br>
+3° terminaltrekkers die specifiek zijn uitgerust voor de handling van containers die worden gebruikt voor logistieke opdrachten in havengebieden en in distributie- en overslagcentra en die niet worden ingezet voor transport op de openbare weg;<br>
+4° marktwagens die op duurzame wijze zijn ingericht om als winkel te dienen en een toog of vaste kassa bevatten of worden gebruikt als toonzaal en de vrachtwagens en de trekkers die uitsluitend gebruikt worden in combinatie met een marktwagen.
 
 ## Afdeling 7. Wijze van heffing
 
@@ -465,7 +495,7 @@ In het geval, vermeld in artikel 3.6.0.0.6, § 6, eerste lid, 2°, van de   Vlaa
 
 ### ART. 2.9.4.0.2.
 
-De coëfficiënt, vermeld in artikel 2.9.4.2.8, § 1, van de Vlaamse Codex   Fiscaliteit van 13 december 2013, wordt vastgesteld op   driehonderdvijftig.
+...
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
@@ -477,13 +507,13 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.9.6.0.1.
 
-De coëfficiënt, vermeld in artikel 2.9.6.0.4 van de Vlaamse Codex   Fiscaliteit van 13 december 2013, wordt bepaald met toepassing van artikel   2.9.4.0.2.
+...
 
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
 ### ART. 2.9.7.0.1.
 
-De coëfficiënt, vermeld in artikel 2.9.7.0.2, tweede lid, van de Vlaamse   Codex Fiscaliteit van 13 december 2013, wordt bepaald met toepassing van artikel   2.9.4.0.2..
+...
 
 ## [HOOFDSTUK 10. Verdeelrecht (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
@@ -577,33 +607,89 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
 
+### ART 2.12.1.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
+
+### ART 2.12.2.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
 
+### ART 2.12.3.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 4. Tarieven (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
+
+### ART 2.12.4.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## [Afdeling 5. Verminderingen (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
 
+### ART 2.12.5.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
 
+### ART 2.12.6.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
+
+### ART 2.12.7.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## [HOOFDSTUK 13. Belasting op de automatische ontspanningstoestellen (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
 
+### ART 2.13.1.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
+
+### ART 2.13.2.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
 
+### ART 2.13.3.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 4. Tarieven (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
+
+### ART 2.13.4.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## [Afdeling 5. Verminderingen (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
 
+### ART 2.13.5.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
 
+### ART 2.13.6.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 14 december 2018, art. 2, I: 1 januari 2019)]
+
+### ART 2.13.7.0.1.
+
+<em>Voorbehouden voor toekomstig gebruik.</em>
 
 ## TITEL 3. Inning en invordering
 
@@ -722,6 +808,18 @@ De aangifte van nalatenschap, vermeld in artikel 3.3.1.0.5 of 3.3.1.0.6   van de
 ### ART. 3.3.1.0.4.
 
 De dienstverlener geeft, waar nodig, conform artikel 3.3.1.0.13, § 4,   derde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, instructies   aan de bestuurder van het voertuig waarbij die laatste een van de twee volgende   acties onderneemt :<BR>1° hij begeeft zich binnen drie uur na die instructie   naar een dienstverleningspunt naar keuze;<BR>2° hij verschaft opnieuw een   gegarandeerd betaalmiddel of laat het verschaffen door de houder van het   voertuig.
+
+### ART 3.3.1.0.5.
+
+De voorafgaande aangifte van spelen en weddenschappen, vermeld in artikel 3.3.1.0.14 van de Vlaamse Codex Fiscaliteit van 13 december 2013, en de aangifte, vermeld in artikel 3.3.1.0.15, van hetzelfde decreet, worden gedaan door middel van digitale formulieren die de bevoegde entiteit van de Vlaamse administratie ter beschikking stelt.<br>
+<br>
+De belastingplichtige dient de voorafgaande aangifte en de aangifte, vermeld in het eerste lid, behoorlijk ingevuld en ondertekend in bij de bevoegde entiteit van de Vlaamse administratie.
+
+### ART 3.3.1.0.6.
+
+De aangifte van een automatisch ontspanningstoestel, vermeld in artikel 3.3.1.0.16, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, de aangifte van een wijziging, vermeld in artikel 3.3.1.0.16, derde lid, van hetzelfde decreet, en de aanvraag van een teruggave, vermeld in artikel 3.4.7.0.7 van hetzelfde decreet, worden gedaan door middel van digitale formulieren die de bevoegde entiteit van de Vlaamse administratie ter beschikking stelt.<br>
+<br>
+De belastingplichtige dient de aangifte, de aangifte van wijziging en de aanvraag van een teruggave, vermeld in het eerste lid, behoorlijk ingevuld en ondertekend in bij de bevoegde entiteit van de Vlaamse administratie.
 
 ## Afdeling 2. Aanslagjaar en belastbaar tijdperk
 
@@ -1166,6 +1264,10 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 4. ... (opgeh. BVR 20 januari 2023, art. 6, I: 4 mei 2023)]
 
+### ART 3.12.4.0.1.
+
+Als de invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusdanig optreedt, geen aangifte tot rangschikking van een model van automatisch ontspanningstoestel als vermeld in artikel 3.12.4.0.1, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, indient bij de federale belastingdiensten, wordt de aangifte behoorlijk ingevuld en ondertekend ingediend bij de bevoegde entiteit van de Vlaamse administratie door middel van een formulier dat wordt uitgereikt door die entiteit.
+
 ## HOOFDSTUK 13. Onderzoek en controle
 
 ## Afdeling 1. Administratieve controle
@@ -1198,7 +1300,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.13.2.0.1.
 
-Onverminderd de bevoegdheden die toevertrouwd worden aan de andere   officieren of agenten van gerechtelijke politie en aan de leden van het   operationeel kader van de lokale en federale politie, aan ambtenaren van de   administratie der douane en accijnzen en de ambtenaren van het kadaster, zijn de   bevoegde personeelsleden gemachtigd om over het grondgebied van het Vlaamse   Gewest overtredingen op te sporen en om de processen-verbaal op te stellen   wegens schending van de Vlaamse Codex Fiscaliteit van 13 december 2013, alsook   om het ontdoken bedrag van de belasting, verhoogd met de administratieve   geldboete, onmiddellijk te innen.
+Onverminderd de bevoegdheden die toevertrouwd worden aan de andere officieren of agenten van gerechtelijke politie en aan de leden van het operationeel kader van de lokale en federale politie, aan ambtenaren van de administratie der douane en accijnzen en de ambtenaren van het kadaster, zijn de bevoegde personeelsleden gemachtigd om over het grondgebied van het Vlaamse Gewest overtredingen op te sporen en om de verslagen van vaststelling wegens schending van de Vlaamse Codex Fiscaliteit van 13 december 2013 of processen-verbaal wegens strafrechtelijke misdrijven op te stellen, alsook om het ontdoken bedrag van de belasting, verhoogd met de administratieve geldboete, onmiddellijk te innen.
 
 ### ART. 3.13.2.0.2.
 
@@ -1306,6 +1408,10 @@ De leidend ambtenaar van de bevoegde entiteit van de Vlaamse administratie   wor
 
 In titel I van het Koninklijk besluit van 8 juli 1970 houdende de algemene   verordening betreffende de met de inkomstenbelastingen gelijkgestelde   belastingen, zoals van toepassing op de verkeersbelasting op de autovoertuigen   en de belasting op de inverkeerstelling wat betreft het Vlaamse Gewest, het   laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 december 2010,   worden hoofdstuk I, dat bestaat uit artikel 1 tot en met 7, hoofdstuk II, dat   bestaat uit artikel 8, 10 en 11, hoofdstuk III, dat bestaat uit artikel 12, en   hoofdstuk IV, dat bestaat uit artikel 13, opgeheven.
 
+### ART 4.1.0.0.1/1.
+
+In titel I van het Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen, zoals van toepassing op de belasting op de spelen en weddenschappen en de belasting op de automatische ontspanningstoestellen wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 10 december 2010, worden hoofdstuk I, dat bestaat uit artikel 1 tot en met 7, hoofdstuk II, dat bestaat uit artikel 8, 10 en 11, hoofdstuk III, dat bestaat uit artikel 12, hoofdstuk IV, dat bestaat uit artikel 13, en hoofdstuk V, dat bestaat uit artikel 14, opgeheven.
+
 ### ART. 4.1.0.0.2.
 
 Artikel 14/1 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 10 december 2010, wordt opgeheven.
@@ -1313,6 +1419,10 @@ Artikel 14/1 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse R
 ### ART. 4.1.0.0.3.
 
 In titel II van hetzelfde besluit, het laatst gewijzigd bij het besluit   van de Vlaamse Regering van 7 december 2012, worden hoofdstuk I, dat bestaat uit   artikel 15 en 16, hoofdstuk II, dat bestaat uit artikel 17 tot en met 22,   hoofdstuk III, dat bestaat uit artikel 23 en 24, hoofdstuk IV, dat bestaat uit   artikel 25 en 26, en hoofdstuk VI, dat bestaat uit artikel 30,   opgeheven.
+
+### ART 4.1.0.0.3/1.
+
+In titel III van hetzelfde besluit, het laatst gewijzigd bij het decreet van 22 december 2006, worden, wat betreft het Vlaamse Gewest, hoofdstuk II, dat bestaat uit artikel 36 tot en met 38, hoofdstuk IV, dat bestaat uit artikel 51 en 52, en hoofdstuk V, dat bestaat uit artikel 53 tot en met 55, opgeheven.
 
 ### ART. 4.1.0.0.4.
 
@@ -1372,7 +1482,33 @@ Kruisverwijzingen naar de bepalingen die naar aanleiding van deze   codificatie 
 
 ### ART. 5.0.0.0.1.
 
-De volgende regelingen worden opgeheven :<BR>1° het Koninklijk besluit van   27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen   1992, zoals van toepassing op de onroerende voorheffing voor wat betreft het   Vlaamse Gewest, het laatst gewijzigd bij het besluit van de Vlaamse Regering van   15 maart 2013;<BR>2° het Koninklijk besluit van 9 januari 1995 ter uitvoering   van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de   heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens,   ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk   België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het   Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van   een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese   Gemeenschappen van 25 oktober 1993, gewijzigd bij de besluiten van de Vlaamse   Regering van 10 december 2010 en 7 december 2012;<BR>3° het Koninklijk besluit   van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van   27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten   voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te   Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het   Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg   en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet,   overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen   van 25 oktober 1993, gewijzigd bij het besluit van de Vlaamse Regering van 18   maart 2011;<BR>4° het besluit van de Vlaamse Regering van 18 juli 2003 tot   regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°,   van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de   onroerende voorheffing worden aangevraagd, gewijzigd bij het besluit van de   Vlaamse Regering van 23 juni 2006;<BR>5° het besluit van de Vlaamse Regering van   10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de   naleving van de wetten op de verkeersbelastingen en houdende wijziging van   diverse bepalingen;<BR>6° het besluit van de Vlaamse Regering van 23 juli 2010   houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de   gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op   materieel en outillage en op energiezuinige gebouwen, gewijzigd bij besluit van   de Vlaamse Regering van 15 maart 2013;<BR>7° het besluit van de Vlaamse Regering   van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete   inzake eurovignet;<BR>8° hoofdstuk I van het ministerieel besluit van 17 juli   1970 tot uitvoering van het Wetboek van de met de inkomstenbelastingen   gelijkgestelde belastingen;<BR>9° het ministerieel besluit van 9 januari 1995   ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag   inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware   vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van   het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland,   het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering   van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de   Europese Gemeenschappen van 25 oktober 1993, het laatst gewijzigd bij het   ministerieel besluit van 20 december 2002;<BR>10° het koninklijk besluit van 31   maart 1936 houdende algemeen reglement van de successierechten, het laatst   gewijzigd bij het koninklijk besluit van 13 juli 2001, voor wat betreft het   Vlaamse Gewest, met uitzondering van artikel 2, artikel 2bis, artikel 2ter,   artikel 4, artikel 7, artikel 8ter, artikel 8quater, artikel 13 en 14, bijlage   1, B, bijlage 2, bijlage 3 en bijlage 4;<BR>11° het koninklijk besluit van 11   januari 1940 betreffende de uitvoering van het Wetboek der registratie-,   hypotheek- en griffierechten, het laatst gewijzigd bij het besluit van de   Vlaamse Regering van 14 mei 2004, voor wat betreft het Vlaamse Gewest, met   uitzondering van artikel 1, artikel 9/1, artikel 12, artikel 13, artikel 14 en   artikel 15 en artikel 16 alsook van de bijlagen als die geen betrekking hebben   op de registratiebelasting;<BR>12° het koninklijk besluit van 18 juli 1972   betreffende de uitvoering der artikelen 117 en 120 van het Wetboek der   registratie-, hypotheek- en griffierechten, gewijzigd bij het koninklijk besluit   van 3 oktober 1985, voor wat betreft het Vlaamse Gewest, met uitzondering van   artikel 3;<BR>13° artikel 1 van het het koninklijk besluit van 13 november 1978   tot uitvoering van de wet van 27 april 1978 tot bevordering van de bilaterale en   multilaterale ruil van ongebouwde landeigendommen en bossen, gewijzigd bij het   koninklijk besluit van 13 december 1979, voor wat betreft het Vlaamse   Gewest;<BR>14° het koninklijk besluit van 26 november 1980 tot regeling van de   toepassingsmodaliteiten van artikel 48<SUP>2</SUP> van het Wetboek der   successierechten, voor wat betreft het Vlaamse Gewest;<BR>15° het koninklijk   besluit van 19 april 1999 tot vaststelling van de modaliteiten van de   aandeelhouderschapsovereenkomst bedoeld in artikel 140ter, 3°, van het Wetboek   der registratie, hypotheek- en griffierechten, voor wat betreft het Vlaamse   Gewest;<BR>16° het koninklijk besluit van 26 augustus 2003 houdende aanvullende   regels betreffende de inbetalinggeving van kunstwerken ter voldoening van de   successierechten, tot vaststelling van de nadere regels betreffende de betaling   en de teruggave van de schattingskosten bedoeld in artikel 83-3 van het Wetboek   der successierechten en in artikel 111, vijfde lid, van het Wetboek van de   inkomstenbelastingen 1992 en tot vaststelling van de datum van inwerkingtreding   van elk van de artikelen van de wet van 21 juni 2001 tot wijziging van de   gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot   wijziging van de regeling voor de afgifte van kunstwerken ter betaling van   successierechten, voor wat betreft het Vlaamse Gewest, met uitzondering van   artikel 2, § 3, artikel 22, artikel 23, artikel 24, artikel 31, artikel 32 en   met uitzondering van artikel 6, eerste lid, 4°, en artikel 8, tweede lid, voor   zover die artikelen betrekking hebben op de inkomstenbelastingen;<BR>17° het   besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel   55ter en 55quater van het Wetboek der successierechten, gewijzigd bij de   besluiten van de Vlaamse Regering van 23 juni 2006 en 14 juli 2006 en bij het   ministerieel besluit van 21 december 2006;<BR>18° het besluit van de Vlaamse   Regering van 9 november 2007 betreffende de vorm van het attest tot het   verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat   het voorwerp uitmaakt van een Brownfieldconvenant;<BR>19° het besluit van de   Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies   en 140sexies van het Wetboek der registratie-, hypotheek- en griffierechten en   de artikelen 60/4 en 60/5 van het Wetboek der successierechten;<BR>20° het   ministerieel besluit van 9 maart 2000 betreffende de formulieren voor aangifte   inzake successierechten, voor wat betreft het Vlaamse Gewest;<BR>21° het   ministerieel besluit van 30 januari 2004 houdende de werkwijze en de organisatie   van de bijzondere commissie, belast onder meer met de schatting van kunstwerken   voor de toepassing van sommige fiscale wetten voor wat betreft het Vlaamse   Gewest;<BR>22° het ministerieel besluit van 20 april 2006 tot benoeming van de   leden van de bijzondere commissie belast onder meer met de schatting van   kunstwerken voor de toepassing van sommige fiscale wetten;<BR>23° het   ministerieel besluit van 25 april 2006 tot benoeming van de leden van de   bijzondere commissie belast onder meer met de schatting van kunstwerken voor de   toepassing van sommige fiscale wetten;<BR>24° het ministerieel besluit van 5   oktober 2006 tot benoeming van de leden van de bijzondere commissie belast onder   meer met de schatting van kunstwerken voor de toepassing van sommige fiscale   wetten.
+De volgende regelingen worden opgeheven :<br>
+1° het Koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992, zoals van toepassing op de onroerende voorheffing voor wat betreft het Vlaamse Gewest, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 maart 2013;<br>
+2° het Koninklijk besluit van 9 januari 1995 ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, gewijzigd bij de besluiten van de Vlaamse Regering van 10 december 2010 en 7 december 2012;<br>
+3° het Koninklijk besluit van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, gewijzigd bij het besluit van de Vlaamse Regering van 18 maart 2011;<br>
+3° /1 het besluit van de Vlaamse Regering van 13 september 2002 tot bepaling van de nadere regels inzake teruggave van de belasting op de automatische ontspanningstoestellen;<br>
+4° het besluit van de Vlaamse Regering van 18 juli 2003 tot regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de onroerende voorheffing worden aangevraagd, gewijzigd bij het besluit van de Vlaamse Regering van 23 juni 2006;<br>
+5° het besluit van de Vlaamse Regering van 10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de naleving van de wetten op de verkeersbelastingen en houdende wijziging van diverse bepalingen;<br>
+6° het besluit van de Vlaamse Regering van 23 juli 2010 houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen, gewijzigd bij besluit van de Vlaamse Regering van 15 maart 2013;<br>
+7° het besluit van de Vlaamse Regering van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete inzake eurovignet;<br>
+8° hoofdstuk I van het ministerieel besluit van 17 juli 1970 tot uitvoering van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen;<br>
+8° /1 hoofdstuk II, afdeling 1, dat bestaat uit artikel 3 tot en met 5, en afdeling 3, dat bestaat uit artikel 7bis tot en met 7quinquies, van het ministerieel besluit van 17 juli 1970 tot uitvoering van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen, voor wat betreft het Vlaamse Gewest;<br>
+9° het ministerieel besluit van 9 januari 1995 ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993, het laatst gewijzigd bij het ministerieel besluit van 20 december 2002;<br>
+10° het koninklijk besluit van 31 maart 1936 houdende algemeen reglement van de successierechten, het laatst gewijzigd bij het koninklijk besluit van 13 juli 2001, voor wat betreft het Vlaamse Gewest, met uitzondering van artikel 2, artikel 2bis, artikel 2ter, artikel 4, artikel 7, artikel 8ter, artikel 8quater, artikel 13 en 14, bijlage 1, B, bijlage 2, bijlage 3 en bijlage 4;<br>
+11° het koninklijk besluit van 11 januari 1940 betreffende de uitvoering van het Wetboek der registratie-, hypotheek- en griffierechten, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 14 mei 2004, voor wat betreft het Vlaamse Gewest, met uitzondering van artikel 1, artikel 9/1, artikel 12, artikel 13, artikel 14 en artikel 15 en artikel 16 alsook van de bijlagen als die geen betrekking hebben op de registratiebelasting;<br>
+12° het koninklijk besluit van 18 juli 1972 betreffende de uitvoering der artikelen 117 en 120 van het Wetboek der registratie-, hypotheek- en griffierechten, gewijzigd bij het koninklijk besluit van 3 oktober 1985, voor wat betreft het Vlaamse Gewest, met uitzondering van artikel 3;<br>
+13° artikel 1 van het het koninklijk besluit van 13 november 1978 tot uitvoering van de wet van 27 april 1978 tot bevordering van de bilaterale en multilaterale ruil van ongebouwde landeigendommen en bossen, gewijzigd bij het koninklijk besluit van 13 december 1979, voor wat betreft het Vlaamse Gewest;<br>
+14° het koninklijk besluit van 26 november 1980 tot regeling van de toepassingsmodaliteiten van artikel 48<sup>2</sup> van het Wetboek der successierechten, voor wat betreft het Vlaamse Gewest;<br>
+15° het koninklijk besluit van 19 april 1999 tot vaststelling van de modaliteiten van de aandeelhouderschapsovereenkomst bedoeld in artikel 140ter, 3°, van het Wetboek der registratie, hypotheek- en griffierechten, voor wat betreft het Vlaamse Gewest;<br>
+16° het koninklijk besluit van 26 augustus 2003 houdende aanvullende regels betreffende de inbetalinggeving van kunstwerken ter voldoening van de successierechten, tot vaststelling van de nadere regels betreffende de betaling en de teruggave van de schattingskosten bedoeld in artikel 83-3 van het Wetboek der successierechten en in artikel 111, vijfde lid, van het Wetboek van de inkomstenbelastingen 1992 en tot vaststelling van de datum van inwerkingtreding van elk van de artikelen van de wet van 21 juni 2001 tot wijziging van de gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot wijziging van de regeling voor de afgifte van kunstwerken ter betaling van successierechten, voor wat betreft het Vlaamse Gewest, met uitzondering van artikel 2, § 3, artikel 22, artikel 23, artikel 24, artikel 31, artikel 32 en met uitzondering van artikel 6, eerste lid, 4°, en artikel 8, tweede lid, voor zover die artikelen betrekking hebben op de inkomstenbelastingen;<br>
+17° het besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel 55ter en 55quater van het Wetboek der successierechten, gewijzigd bij de besluiten van de Vlaamse Regering van 23 juni 2006 en 14 juli 2006 en bij het ministerieel besluit van 21 december 2006;<br>
+18° het besluit van de Vlaamse Regering van 9 november 2007 betreffende de vorm van het attest tot het verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant;<br>
+19° het besluit van de Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies en 140sexies van het Wetboek der registratie-, hypotheek- en griffierechten en de artikelen 60/4 en 60/5 van het Wetboek der successierechten;<br>
+20° het ministerieel besluit van 9 maart 2000 betreffende de formulieren voor aangifte inzake successierechten, voor wat betreft het Vlaamse Gewest;<br>
+21° het ministerieel besluit van 30 januari 2004 houdende de werkwijze en de organisatie van de bijzondere commissie, belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten voor wat betreft het Vlaamse Gewest;<br>
+22° het ministerieel besluit van 20 april 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten;<br>
+23° het ministerieel besluit van 25 april 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten;<br>
+24° het ministerieel besluit van 5 oktober 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten.
 
 ## TITEL 6. Citeertitel
 
@@ -1944,13 +2080,13 @@ Tabel 5 : Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkges
 	</tbody>
 </table>
 <br>
-Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
+Tabel 6: Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Bepaling KB/WIGB</td>
-			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>bepaling KB/WIGB</td>
+			<td>bepaling Besluit Vlaamse Codex Fiscaliteit</td>
 		</tr>
 		<tr>
 			<td>Art. 2</td>
@@ -2027,6 +2163,10 @@ Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening be
 		<tr>
 			<td>Art. 30</td>
 			<td>Art. 2.2.6.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 53</td>
+			<td>Art. 3.20.0.0.5</td>
 		</tr>
 	</tbody>
 </table>
@@ -3947,13 +4087,13 @@ Tabel 5 : Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkges
 	</tbody>
 </table>
 <br>
-Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
+Tabel 6: Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen KB/WIGB)<br>
 &nbsp;
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
-			<td>Bepaling KB/WIGB</td>
+			<td>bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>bepaling KB/WIGB</td>
 		</tr>
 		<tr>
 			<td>Art. 2.2.6.0.1</td>
@@ -4030,6 +4170,10 @@ Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening be
 		<tr>
 			<td>Art. 3.13.2.0.1</td>
 			<td>Art. 14/1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.5</td>
+			<td>Art. 53</td>
 		</tr>
 	</tbody>
 </table>
