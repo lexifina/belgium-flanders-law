@@ -6,7 +6,14 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1°agentschap : een agentschap als vermeld in artikel 3 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° Vlaams ministerie : een Vlaams ministerie als vermeld in artikel 3 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />3° strategische adviesraad : een strategische adviesraad als vermeld in artikel 3 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br />4° instelling : een Vlaamse openbare instelling;<br />5° gerechtigden : de personeelsleden en gepensioneerden;<br />6° begunstigden : de gerechtigden en hun gezinsleden.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1°agentschap : een agentschap als vermeld in artikel III.1 van het Bestuursdecreet van 7 december 2018;<br>
+2° Vlaams ministerie: een departement, een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid, de Dienst van de Bestuursrechtscolleges en de onderwijsinspectie met uitzondering van de leden van de inspectie;<br>
+3° strategische adviesraad : een strategische adviesraad als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018 ;<br>
+4° instelling : een Vlaamse openbare instelling;<br>
+5° gerechtigden : de personeelsleden en gepensioneerden;<br>
+6° begunstigden : de gerechtigden en hun gezinsleden.<br>
+&nbsp;
 
 ### ART. 3.
 

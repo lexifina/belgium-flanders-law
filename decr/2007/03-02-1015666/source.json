@@ -2,16 +2,16 @@
   "codex_id": 1015666,
   "title": "Decreet van 2007-03-02 betreffende de vereniging zonder winstoogmerk Sociale Dienst voor het Vlaams Overheidspersoneel",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015666/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "9583e8e01535f2a274c4151bbcc1c9b76a86f8094129e1c1c8cc9c270e75b846",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015666/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "25ff260044411761f604f8995b839918ef5ac6c5b42d491f02e273bcbcb0fe2b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015666&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2019-01-01",
   "made": "2007-03-02",
   "gazette": "2007-03-30",
   "numac": 2007035457,
   "document_start": "2007-03-09",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
