@@ -60,6 +60,84 @@ Artikel 5 is van overeenkomstige toepassing op de overdracht van risicogronden v
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 7.
+
+<span style="font-size:medium"><span style="color:#000000">&nbsp;In de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, toegevoegd bij het decreet van 22 december 2017, worden de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>SINT-AMANDS</td>
+			<td>122 521,09</td>
+			<td>0,0935%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>PUURS</td>
+			<td>307 673,91</td>
+			<td>0,2348%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt vervangen door wat volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>PUURS-SINT-AMANDS</td>
+			<td>430 195,00</td>
+			<td>0,3284%</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
+### ART 8.
+
+<span style="font-size:medium"><span style="color:#000000">In de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, worden in de rubriek Provincie Antwerpen de volgende wijzigingen aangebracht:</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">1° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Sint-Amands</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt opgeheven;</span></span><br>
+<span style="font-size:medium"><span style="color:#000000">2° de rij</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Puurs</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="font-size:medium"><span style="color:#000000">wordt vervangen door wat volgt:</span></span><br>
+&nbsp;
+<table style="-webkit-text-stroke-width:0px; border:undefined">
+	<tbody>
+		<tr>
+			<td>Puurs-Sint-Amands</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
+
 ## HOOFDSTUK 6 Inwerkingtreding
 
 ### ART 9.
