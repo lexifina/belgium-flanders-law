@@ -2,16 +2,16 @@
   "codex_id": 1016912,
   "title": "Ministerieel besluit van 2008-07-07 tot bepaling van de standaard voor de titel van mecanicien",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016912/VolledigDocument?datum=2008-07-22",
-  "source_sha256": "bb4d829e310819e17d66a880af92696ad35f49695969878894b5c173a4f799af",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016912/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "596c4764ba8e3d9bdb0f8db753259c703e48e7e45c1c8897bec3dd76f01c0811",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016912&param=informatie",
-  "as_of": "2008-07-22",
+  "as_of": "2019-01-01",
   "made": "2008-07-07",
   "gazette": "2008-07-22",
   "numac": 2008202547,
   "document_start": "2008-07-22",
   "document_end": "2018-12-31",
-  "in_force": "2008-07-22",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2008-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
