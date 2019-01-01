@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-§ 1. [Er wordt een fonds opgericht voor de aanwending van de courante ontvangsten gestort op het Rollend Fonds van de Participatiemaatschappij Vlaanderen.<br /><br />§ 2. Aan het Fonds voor de aanwending van de courante ontvangsten gestort op het Rollend Fonds van de Participatiemaatschappij Vlaanderen worden toegewezen alle ontvangsten die geboekt worden op de subrekening courante ontvangsten van het Rollend Fonds van de Participatiemaatschappij Vlaanderen.<br /><br />§ 3. De middelen van het Fonds voor de aanwending van de courante ontvangsten gestort op het Rollend fonds van de Participatiemaatschappij Vlaanderen dienen te worden aangewend voor uitgaven die ten laste van het Vlaamse Gewest vallen in verband met taken van de Participatiemaatschappij Vlaanderen (PMV), inzonderheid uitgaven uit hoofde van bijzondere opdrachten haar toevertrouwd krachtens artikel 10, § 4, van het decreet van 13 juli 1994 betreffende de herstructurering van de GIMV, GIMVINDUS, VMHH Mijnen en LIM en tot oprichting van het Limburgfonds en van de permanente werkgroep Limburg.  <span class="reference">(verv. decr. 22 december 1995, art. 73, I: 1 januari 1996)</span> ]
+...
 
 ### ART. 2.
 
