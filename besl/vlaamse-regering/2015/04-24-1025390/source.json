@@ -2,16 +2,16 @@
   "codex_id": 1025390,
   "title": "Besluit van de Vlaamse Regering van 2015-04-24 betreffende het maximale aantal te erkennen woongelegenheden voor woonzorgcentra en centra voor kortverblijf in het kader van de erkenningskalender",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025390/VolledigDocument?datum=2017-10-21",
-  "source_sha256": "d3d757dae50da7253512c6b3bbf4948e0012ae6decb2ec63ba25b6f709c39dba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025390/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8d45cda25be6da30c2be8d7f409dab98aeeab041ec2fa6c0d7cad483f66a8553",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025390&param=informatie",
-  "as_of": "2017-10-21",
+  "as_of": "2019-01-01",
   "made": "2015-04-24",
   "gazette": "2015-05-28",
   "numac": 2015035648,
   "document_start": "2015-06-07",
   "document_end": "2018-12-31",
-  "in_force": "2017-10-21",
+  "in_force": "2019-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2017-10-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
