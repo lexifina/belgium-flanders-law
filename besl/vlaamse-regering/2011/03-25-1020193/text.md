@@ -26,7 +26,7 @@ De CRAB-specificaties over het meedelen van adrescomponenten, vermeld in artikel
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, legt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de CRAB-specificaties, vermeld in artikelen 2 tot en met 4, nader vast.
+De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, legt, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, de CRAB-specificaties, vermeld in artikelen 2 tot en met 4, nader vast.
 
 ## HOOFDSTUK 3. De wijze waarop de gemeenten in relatie tot het agentschap hun opdrachten uitvoeren
 
@@ -44,7 +44,7 @@ De gemeente duidt binnen haar organisatie één of meerdere personen aan die gem
 
 ### ART. 9.
 
-Binnen het agentschap is er een meldingspunt als vermeld in artikel 3, 6°, van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer. Dat meldingspunt registreert meldingen van onnauwkeurige, onvolledige of onjuiste gegevens en geeft die meldingen voor onderzoek door aan het contactpunt van de gemeente in kwestie.
+Binnen het agentschap is er een meldingspunt als vermeld in artikel 3, eerste lid, 6°, van besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018. Dat meldingspunt registreert meldingen van onnauwkeurige, onvolledige of onjuiste gegevens en geeft die meldingen voor onderzoek door aan het contactpunt van de gemeente in kwestie.
 
 ### ART. 10.
 
@@ -58,7 +58,7 @@ Het Centraal Referentieadressenbestand wordt erkend vanaf 1 juni 2011 als authen
 
 ### ART. 12.
 
-Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen wordt aangewezen als beheersinstantie en staat in voor de taken vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen wordt aangewezen als beheersinstantie en staat in voor de taken vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van artikel III.66, III.67 en III.68 van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
