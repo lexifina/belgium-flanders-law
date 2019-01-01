@@ -59,6 +59,130 @@ Artikel 5 is van overeenkomstige toepassing op de overdracht van risicogronden v
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
 
+### ART 7.
+
+In de bijlage bij het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, toegevoegd bij het decreet van 22 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>OVERPELT</td>
+			<td>356 216,67</td>
+			<td>0,2719 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt opgeheven;<br>
+2° de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>NEERPELT</td>
+			<td>290 740,20</td>
+			<td>0,2219 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt opgeheven;<br>
+3° tussen de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>PEER</td>
+			<td>268 903,56</td>
+			<td>0,2053 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+en de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>PEPINGEN</td>
+			<td>107 531,36</td>
+			<td>0,0821 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt een rij ingevoegd, die luidt als volgt:<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>PELT</td>
+			<td>646 956,87</td>
+			<td>0,4938 %</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+".
+
+### ART 8.
+
+In de bijlage bij het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, vervangen bij het decreet van 30 juni 2017, worden in de rubriek Provincie Limburg de volgende wijzigingen aangebracht:<br>
+1° de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Neerpelt</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt opgeheven;<br>
+2° de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Overpelt</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt opgeheven.<br>
+3° tussen de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Peer</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+en de rij<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Tongeren</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+wordt een rij ingevoegd, die luidt als volgt:<br>
+&nbsp;
+<table>
+	<tbody>
+		<tr>
+			<td>Pelt</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+".
+
 ## HOOFDSTUK 6 Inwerkingtreding
 
 ### ART 9.
