@@ -2,16 +2,16 @@
   "codex_id": 1014101,
   "title": "Besluit van de Vlaamse Regering van 2005-09-23 tot uitvoering van het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014101/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "74a147ee1bfcc11536bb845a39eb0fc2e8f728ef7fe560d0bacdeeb1eb6dfbe6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014101/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "715f46c14d66c5db12d33b280ac5538c17f4d9c7d1a230bfbd2dc6a04817e50c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014101&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-01-01",
   "made": "2005-09-23",
   "gazette": "2005-11-30",
   "numac": 2005036475,
   "document_start": "2004-11-30",
   "document_end": "2018-12-31",
-  "in_force": "2018-05-25",
+  "in_force": "2019-01-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

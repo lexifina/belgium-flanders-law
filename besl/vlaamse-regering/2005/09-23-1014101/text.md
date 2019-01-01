@@ -4,57 +4,25 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br>
-1° de minister: de Vlaamse minister, bevoegd voor de beroepsomscholing en -bijscholing, de Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor de post- en parascolaire vorming;<br>
-2° het decreet: het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid;<br>
-3° deeltijds leerplichtige: elke leerling die ingeschreven is in een centrum voor deeltijds onderwijs, die deeltijdse vorming volgt of in de leertijd zit en daarbij in het bezit is van een positief advies van de instelling waar hij ingeschreven is waaruit blijkt dat de betrokkene over voldoende competenties beschikt om met een redelijke kans op slagen een beoordelingsprocedure voor de titel aan te vangen;<br>
-4° aanvrager: elk individu vanaf achttien jaar of elke deeltijds leerplichtige;<br>
-5° kansengroepen : personen die behoren tot een van de volgende groepen :<br>
-a) allochtoon :<br>
-1) personen met een sociaal-culturele herkomst van een ander land die legaal in België verblijven, die al dan niet Belg zijn geworden en die bovendien aan een van de volgende voorwaarden voldoen :<br>
-i) zij of hun ouders zijn in het kader van gastarbeid en volgmigratie naar ons land gekomen;<br>
-ii) ze hebben de status van ontvankelijk verklaarde asielzoeker of van vluchteling verkregen;<br>
-iii) ze hebben door regularisatie recht op verblijf in België verworven;<br>
-2) personen die geen burger van de Europese Economische Ruimte zijn of van wie minstens een van de ouders of twee van de grootouders geen burger van de Europese Unie zijn;<br>
-b) personen met een arbeidshandicap : mensen met een aantasting van hun mentale, psychische, lichamelijke of zintuiglijke mogelijkheden, voor wie het uitzicht op het verwerven en behouden van een arbeidsplaats en op vooruitgang op die plaats, langdurig en in belangrijke mate beperkt is of bedreigd wordt;<br>
-c) ervaren werknemers : werknemers als vermeld in artikel 2, 2°, van het decreet van 8 mei 2002 houdende evenredige participatie op de arbeidsmarkt, die ouder zijn dan 50 jaar en jonger dan 65 jaar;<br>
-d) kortgeschoolden : personen die aan een van de volgende voorwaarden voldoen :<br>
-1) ze zijn houder van ten hoogste een diploma van het lager secundair onderwijs;<br>
-2) ze zijn houder van een getuigschrift van een middenstandsopleiding;<br>
-3) ze zijn houder van een niet-erkend buitenlands diploma;<br>
-e) middengeschoolden : personen die houder zijn van ten hoogste een diploma van het hoger secundair onderwijs;<br>
-6° beoordelingsinstantie: een organisatie, gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, die zorgt voor de herkenning en de beoordeling van de competenties binnen de procedure tot het verkrijgen van een titel van beroepsbekwaamheid en die een aanvraag tot erkenning als beoordelingsinstantie indient;<br>
-7° erkende beoordelingsinstantie: een beoordelingsinstantie die overeenkomstig hoofdstuk VI is erkend;<br>
-8° de erkenningsinstantie: de organisatie die zorgt voor de erkenning van de competenties binnen de procedure tot het verkrijgen van een titel van beroepsbekwaamheid;<br>
-9° het Departement Werk en Sociale Economie : het Departement Werk en Sociale Economie van de Vlaamse overheid;<br>
-10° de onderwijsinspectie, zoals vermeld in het decreet betreffende de kwaliteit van onderwijs;<br>
-11° aanvrager die werknemer is: de aanvrager die tewerkgesteld is in de private of de publieke sector krachtens een arbeidsovereenkomst, of die, anders dan krachtens een arbeidsovereenkomst, arbeid verricht onder het gezag van een andere persoon;<br>
-12° aanvrager die zelfstandig is: de aanvrager die aangesloten is bij het Rijksinstituut voor de Sociale Verzekering van Zelfstandigen of bij een sociale verzekeringskas voor zelfstandigen;<br>
-13° niet-werkende werkzoekende: de aanvrager die als niet-werkende werkzoekende ingeschreven is bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de Brusselse Gewestelijke Dienst voor Arbeidsbemiddeling;<br>
-14° ...<br>
-15° talentenpas: een portfolio als vermeld in artikel 2, 6°, van het decreet, beperkt tot de competenties die in het licht van een bepaalde beroepsuitoefening van belang zijn;<br>
-16° succescriteria: criteria die kerncompetenties omzetten naar handelingen in een bepaalde beroepscontext zodat kan worden beoordeeld of de competenties worden beheerst;<br>
-17° het ESF-Agentschap : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap ESF-Agentschap Vlaanderen, vermeld in artikel 2, § 1, van het decreet van 8 november 2002 houdende de oprichting van de VZW ESF-Agentschap;<br>
-18° de regels van het Europees Sociaal Fonds : de subsidiabiliteitsregels, vermeld in Verordening (EG) nr. 1083/2006 van de Raad van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999, in Verordening (EG) nr. 1081/2006 van het Europees Parlement en de Raad van 5 juli 2006 betreffende het Europees Sociaal Fonds en tot intrekking van Verordening (EG) nr. 1784/1999 en in Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringsbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale Ontwikkeling.<br>
-19 ° de interdepartementale stuurgroep : de stuurgroep die bestaat uit personeelsleden van het Departement Werk en Sociale Economie, het Departement Onderwijs en Vorming en het Departement Cultuur, Jeugd en Media.
+...
 
 ## HOOFDSTUK II De aanvraagprocedure
 
 ### ART. 2.
 
-§ 1. Om op basis van zijn verworven competenties een titel van beroepsbekwaamheid te verwerven voor een beroep, vermeld in artikel 3, § 2, dient de aanvrager een aanvraag in bij een erkende beoordelingsinstantie aan de hand van een door die erkende beoordelingsinstantie ter beschikking gesteld aanvraagformulier.<br /><br />De beoordelingsinstantie bespreekt in een feedbackgesprek met de aanvrager het resultaat van de beoordeling, overeenkomstig artikel 7, 5°. De aanvrager die niet geslaagd is, ontvangt van de beoordelingsinstantie een brief met het resultaat van de beoordeling, een schriftelijk overzicht van de bewezen competenties en een advies als vermeld in artikel 7, 5°.<br /><br />De erkenningsinstantie, vermeld in artikel 16, bezorgt overeenkomstig artikel 16, 3°, aan de aanvrager die geslaagd is per brief de titel van beroepsbekwaamheid in kwestie.<br /><br />§ 2. ...<br /><br />§ 3. De aanvrager kan zijn bezwaren, vermeld in artikel 10, § 1, van het decreet, indienen bij de beroepscommissie, vermeld in artikel 17.
+...
 
 ## HOOFDSTUK III Bepaling van de beroepen en overeenkomstige titels
 
 ### ART. 3.
 
-§ 1. Jaarlijks verzoekt de minister de SERV om een advies met betrekking tot een selectie van beroepen met overeenkomstige titels, rekening houdend met maatschappelijke behoeften en evoluties, waarvoor de aanvrager in een beoordelingsprocedure kan stappen.<br /><br />Die adviesprocedure verloopt als volgt:<br /><br />1° de SERV brengt binnen een termijn van vier maanden na ontvangst van het verzoek van de minister advies uit over de selectie van bepaalde beroepen en de overeenkomstige titelbenaming;<br /><br />2° het door de SERV opgestelde advies bevat de volgende elementen:<br /><br />a) de argumentatie voor de selectie van de beroepen;<br /><br />b) de benaming van de titel;<br /><br />c) de verwijzing naar het overeenkomstige beroepsprofiel;<br /><br />d) de toekenning van een uniek volgnummer aan de titel.<br /><br />§ 2. De Vlaamse Regering bepaalt aan de hand van het advies van de SERV, vermeld in § 1, de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt met de overeenkomstige titels.
+...
 
 ## HOOFDSTUK IV Bepaling van standaard, succescriteria en richtlijnen voor de beoordeling
 
 ### ART. 4.
 
-§ 1. De SERV formuleert uiterlijk binnen een jaar na de bepaling van de   beroepen, vermeld in artikel 3, § 2, voor de titels van beroepsbekwaamheid, op   basis van de door de SERV uitgewerkte respectievelijke   beroepscompetentieprofielen en competentieprofielen, vermeld in artikel 6, 3°,   van het decreet, een advies aan de minister met betrekking tot de standaarden,   vermeld in artikel 2, 4°, van het decreet, aan de hand waarvan de competenties   zullen worden beoordeeld. Die standaarden worden aangevuld met succescriteria en   richtlijnen voor de beoordeling en een classificatie van de titel ter bepaling   van de hoogte van het subsidiebedrag. Die classificatie wordt omstandig   gemotiveerd overeenkomstig artikel 12, § 3. Iedere standaard krijgt hetzelfde   unieke volgnummer als de overeenkomstige titel.<BR><BR>§ 2. ...<BR><BR>§ 3. De   minister bepaalt voor iedere titel de standaard, de succescriteria, de   richtlijnen voor de beoordeling en de classificatie met de bijbehorende hoogte   van het subsidiebedrag op basis van het advies van de SERV, vermeld in paragraaf   1. Het Departement Werk en Sociale Economie bezorgt voor iedere titel de door de   minister vastgelegde standaard, succescriteria en richtlijnen voor beoordeling   aan het ESF-Agentschap en aan de interdepartementale   stuurgroep.<BR>
+...
 
 ## HOOFDSTUK V Procedure op basis waarvan het verband met betrekking tot de beroepsspecifieke competenties tussen enerzijds erkende studiebewijzen en competentiebewijzen en anderzijds titels van beroepsbekwaamheid eenduidig wordt vastgelegd
 
@@ -66,49 +34,49 @@ e) middengeschoolden : personen die houder zijn van ten hoogste een diploma van 
 
 ### ART. 6.
 
-§ 1. Om erkend te worden, moet de beoordelingsinstantie aan volgende   kwaliteitsvoorwaarden, vermeld in artikel 8 van het decreet, voldoen:<BR>1°   opgericht zijn in de vorm van een rechtspersoon;<BR>2° beschikken over een   organisatielabel als vermeld in artikel 6, § 3, van het besluit van de Vlaamse   Regering van 24 juli 2001 betreffende de voorwaarden en de procedure tot   toekenning, wijziging en intrekking van projectgebonden subsidies uit het   Europees Sociaal Fonds met betrekking tot doelstelling 3, zwaartepunten 1 en 2,   voor haar diensten, vermeld in artikel 5, of over een certificaat of een   erkenning in het kader van de opleidings- en begeleidingscheques voor   werknemers, vermeld in artikel 3, § 4, van het besluit van de Vlaamse Regering   van 18 juli 2003 betreffende de opleidings- en begeleidingscheques voor   werknemers, specifiek gericht op de dienstverlening, vermeld in artikel 7. Als   de beoordelingsinstantie een onderwijsinstelling is, is het voldoende dat ze   beschikt over een gunstig doorlichtingsverslag van Inspectie Onderwijs waaruit   blijkt dat ze in staat is om de dienstverlening, vermeld in artikel 7,   kwaliteitsvol uit te voeren. Als de beoordelingsinstantie een hoger   onderwijsinstelling is, is het voldoende de betreffende regelgeving inzake de   kwaliteitsborging over de erkenning van eerder verworven competenties en   kwalificaties als vermeld in het decreet van 30 april 2004 betreffende de   flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende   hogeronderwijsmaatregelen, na te leven om de dienstverlening, vermeld in artikel   7, kwaliteitsvol uit te voeren;<BR>3° uitdrukkelijk en onvoorwaardelijk akkoord   gaan om minstens eenmaal om de drie jaar zich te onderwerpen aan de   kwaliteitsaudits op organisatieniveau, door of op verzoek van het ESF-Agentschap   om te evalueren of de beoordelingsinstantie haar bedrijfsvoering kwaliteitsvol   opneemt<BR>4° een draaiboek van de beoordelingsprocedure en -methodologie   voorleggen waarin bij de beschrijving ervan de volgende zaken aan bod   komen:<BR>a) de duiding dat bij de analyse van de talentenpas of portfolio   rekening zal worden gehouden met de standaard en succescriteria, vermeld in   artikel 4, § 3, en de lijsten, vermeld in artikel 5, § 3;<BR>b) een schematisch   overzicht van de beoordelingsactiviteiten dat per kerncompetentievereiste uit de   standaard, vermeld in artikel 4, § 3, weergeeft hoe de beoordeling in   overeenstemming met de succescriteria en richtlijnen voor beoordeling, vermeld   in artikel 4, § 3 opgezet wordt;<BR>5° beschikken over een aantoonbare ervaring   van minstens een jaar inzake het ontwikkelen van instrumenten om competenties te   beoordelen;<BR>6° minstens een begeleider in dienst hebben die:<BR>a) al bewezen   kennis en effectieve ervaring van minstens een jaar heeft met betrekking tot het   oplijsten van competenties en het samenstellen van portfolio's. De minister kan   andere ervaring gelijkstellen met de voornoemde ervaring inzake het oplijsten   van competenties en samenstellen van portfolio's aan de hand van een curriculum   vitae waarin de relevante ervaring wordt bewezen;<BR>b) vertrouwd is met de   beroepsuitoefening die verbonden is aan de titels;<BR>c) voorafgaand aan de   dienstverlening een training heeft doorlopen die gericht is op de ontwikkeling   van de eigen deskundigheid met betrekking tot het vervullen van de   begeleidingsopdracht van de beoordelingsinstantie;<BR>d) geen   beoordelingsactiviteiten verstrekt;<BR>7° minstens twee beoordelaars in dienst   hebben die:<BR>a) al bewezen kennis en effectieve ervaring van minstens een jaar   hebben met betrekking tot het beoordelen van verworven competenties. De minister   kan andere ervaring gelijkstellen met de voornoemde ervaring inzake het   beoordelen van verworven competenties aan de hand van een curriculum vitae   waarin de relevante ervaring wordt bewezen;<BR>b) vertrouwd zijn met de   beroepsuitoefening die verbonden is aan de titels;<BR>c) voorafgaand aan de   dienstverlening inzake het beoordelen van competenties, een training hebben   doorlopen die gericht is op de ontwikkeling van de eigen deskundigheid met   betrekking tot het vervullen van de dienstverlening, vermeld in artikel 7;<BR>d)   geen begeleidingsactiviteiten verstrekt;<BR>8° de beoordelaars met minder dan   een jaar beroepservaring uitsluitend laten werken onder de rechtstreekse   supervisie van een meer ervaren beoordelaar die ook de eindverantwoordelijkheid   draagt voor het verloop van de beoordeling;<BR>9° voor alle begeleiders en   beoordelaars een vormingsplan hebben dat in samenspraak met hen is opgesteld en   dat gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot   het vervullen van de dienstverlening, vermeld in artikel 7;<BR>10° de   beoordelingsactiviteiten onafhankelijk en onpartijdig organiseren van de   begeleidingsactiviteiten en eventuele opleidings- en/of   onderwijsactiviteiten;<BR>11° de competenties van een aanvrager omwille van de   betrouwbaarheid door twee beoordelaars laten beoordelen;<BR>12° op een   objectieve, respectvolle en niet-discriminerende wijze handelen;<BR>13°   uitdrukkelijk en onvoorwaardelijk akkoord gaan om de bepalingen van de   gedragscode, gevoegd als bijlage bij dit besluit, na te leven;<BR>14° de   dienstverlening ter beschikking stellen van alle potentiële aanvragers voor de   beoordeling van hun verworven competenties;<BR>15° in alle faciliteiten voorzien   zodat de toegankelijkheid, de beschikbaarheid en de bereikbaarheid zijn   gegarandeerd en die aan alle potentiële aanvragers bekendmaken;<BR>16° een   inschatting voorleggen van haar potentieel van aanvragers voor de titel in   kwestie met een toelichting hoe en in welke mate de regionale spreiding wordt   gegarandeerd.<BR><BR>De minister kan nadere aanwijzingen geven over de wijze   waarop de voornoemde voorwaarden kunnen worden ingevuld.<BR><BR>§ 2. De   beoordelingsinstantie dient een aanvraagdossier tot erkenning bij het   ESF-agentschap in. Voor elke uitbreiding van titels waarvoor men als erkende   beoordelingsinstantie wil optreden, moet de instantie een nieuwe aanvraag   indienen waaruit blijkt dat de beoordelingsinstantie voldoet aan de voorwaarden   van artikel 6, § 1, 4°, 6°, 7°, 11°, en 16°, voor haar diensten met betrekking   tot die nieuwe titels.<BR><BR>§ 3. Het ESF-agentschap onderzoekt de volledigheid   van de aanvragen tot erkenning overeenkomstig de bepalingen van § 1 en §   2.<BR><BR>De aanvragen tot erkenning die door het ESF-agentschap volledig zijn   bevonden, worden voor inhoudelijk advies voorgelegd aan experts die vertrouwd   zijn met de titel in kwestie waarvoor een erkenning wordt aangevraagd. Die   experts worden afgevaardigd door het ESF-agentschap, de SERV, het Departement   Werk en Sociale Economie en het beleidsdomein Onderwijs en Vorming. De experts   van de vier voornoemde instanties bezorgen elk afzonderlijk een inhoudelijk   advies over de erkenningsaanvraag uiterlijk vijftien werkdagen na de ontvangst   van de door het ESF-agentschap volledig bevonden aanvraag. Als een advies niet   binnen de voornoemde termijn van vijftien werkdagen wordt verleend, wordt het   advies als gunstig ten aanzien van de aanvraag tot erkenning   beschouwd.<BR><BR>Het ESF-Agentschap bundelt de vier inhoudelijke adviezen en   bezorgt die samen met een synthese aan de minister. De minister beslist over de   aanvragen tot erkenning van de beoordelingsinstanties. De erkenning geldt voor   onbepaalde duur.<BR><BR>§ 4. Als de minister beslist om de beoordelingsinstantie   niet te erkennen, kan de beoordelingsinstantie in kwestie binnen een maand na de   beslissing van de minister de nodige aanpassingen aan het aanvraagdossier   doorvoeren en zal de minister in de maand na de ontvangst van de aanpassingen   een nieuwe beslissing nemen.
+...
 
 ### ART. 6bis.
 
-Een erkende beoordelingsinstantie kan bij de uitvoering van het project, een beroep doen op personen die geen werknemers zijn van de beoordelingsinstanties, op voorwaarde dat die personen aan de volgende voorwaarden voldoen :<br />1° het zijn natuurlijke personen;<br />2° ze beschikken over expertise met betrekking tot het beoordelen van competenties, namelijk :<br />(a) ze zijn vertrouwd met de beroepsuitoefening die verbonden is aan de titel van beroepsbekwaamheid;<br />(b) ze beschikken over bewezen kennis en effectieve ervaring van minstens een jaar met betrekking tot het beoordelen van verworven competenties. De minister kan nadere ervaring gelijkstellen met bovengenoemde ervaring in het beoordelen van verworven competenties aan de hand van een curriculum vitae waarin de relevante ervaring wordt bewezen. Bij minder dan een jaar ervaring dient de beoordelaar onder rechtstreekse supervisie van een meer ervaren beoordelaar te werken. De meer ervaren beoordelaar draagt in dat geval ook de eindverantwoordelijkheid voor het verloop van de beoordeling;<br />(c) ze hebben voor de dienstverlening inzake het beoordelen van competenties, een training gevolgd die gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de dienstverlening, vermeld in artikel 7;<br />3° ze oefenen alleen de taken uit, vermeld in artikel 7, 4°;<br />4° ze ontvangen voor de uitoefening van de taken, vermeld in artikel 7, 4°, maximaal 125 euro per uur van de beoordelingsinstantie, zonder dat de totaal uitgekeerde vergoeding voor de uitoefening van die taken meer mag bedragen dan dertig procent van de totale subsidie, vermeld in artikel 9 van dit besluit;<br />4° ze leveren zelf geen doelpubliek aan voor de beoordeling.
+...
 
 ### ART. 7.
 
-De erkende beoordelingsinstantie levert een kwaliteitsvolle dienstverlening door:<br />1° de beoordelingsprocedure en -methodologie, rekening houdend met validiteit en betrouwbaarheid, uit te werken, zoals beschreven in het draaiboek als onderdeel van het erkenningsdossier, vermeld in artikel 6, § 1, 4°, voor de titels waarvoor men als beoordelingsinstantie een erkenning heeft verkregen;<br />2° op verzoek van de aanvrager begeleiding te bieden bij het inventariseren van zijn competenties en/of bij het invullen en samenstellen van zijn talentenpas;<br />3° in geval van begeleiding als vermeld in 2°, een advies te formuleren over het instappen in de beoordeling van verworven competenties of over het volgen van een opleiding of loopbaandienstverlening of over het volgen van een trajectbegeleiding;<br />4° de verworven competenties van de aanvrager te beoordelen op basis van een analyse van de talentenpas of portfolio en/of op basis van beoordelingsactiviteiten volgens de uitgewerkte beoordelingsprocedure en -methodologie, vermeld in 1°. Die beoordeling wordt in een verslag als vermeld in 6° weergegeven;<br />5° het resultaat van de beoordeling en naar gelang het geval het advies tot het toekennen van de titel in kwestie of een advies over het volgen van een opleiding, het volgen van loopbaandienstverlening of het volgen van trajectbegeleiding met de aanvrager te formuleren en te bespreken. Voornoemd resultaat en advies worden daarna overeenkomstig artikel 2, § 1, tweede lid, aan de aanvrager bezorgd;<br />6° het advies tot het toekennen van de titel aan de erkenningsinstantie te verzenden. Dat advies bevat in ieder geval de identificatiegegevens van zowel de aanvrager als de beoordelingsinstantie, de titel waarvoor beoordeeld werd, een verslag van de beoordeling en de data van de beoordeling;<br />7° aan de interdepartementale stuurgroep gegevens te bezorgen die noodzakelijk zijn voor de monitoring, vermeld in artikel 18.<br />Die gegevens moeten anoniem zijn;<br />8° in voorkomend geval feedback te geven aan de SERV over de standaard, succescriteria en richtlijnen voor beoordeling.<br />9° het registreren van de begeleidings- en beoordelingsacties van de aanvragers door middel van een cliëntvolgsysteem.
+...
 
 ### ART. 8.
 
-§ 1. De minister kan de erkenning schorsen, de termijn van erkenning van onbepaalde duur naar bepaalde duur omzetten of de erkenning intrekken als werd vastgesteld dat:<br /><br />1° de beoordelingsinstantie de bepalingen van dit besluit niet naleeft;<br /><br />2° de zaakvoerder, exploitant of verantwoordelijke van de beoordelingsinstantie of zijn aangestelden of lasthebbers een onherroepelijke veroordeling hebben opgelopen wegens valsheid in geschrifte of wegens misdaden en wanbedrijven, bepaald in titel VII en IX van het Strafwetboek;<br /><br />3° de beoordelingsinstantie gedurende twee opeenvolgende jaren geen beoordeling overeenkomstig dit besluit heeft georganiseerd;<br /><br />4° de erkenning is verleend op basis van verklaringen die vals, onvolledig of onjuist worden bevonden;<br /><br />5° de beoordelingsinstantie de inlichtingen die ze ter uitvoering van de bepalingen van dit besluit moet leveren, willens en wetens vervalst;<br /><br />6° de beroepscommissie, vermeld in artikel 17, al meerdere malen bezwaren, ingediend tegen de erkende beoordelingsinstantie, terecht heeft bevonden.<br /><br />§ 2. Als de erkenning is ingetrokken omdat de beoordelingsinstantie niet meer voldoet aan de voorwaarden, vermeld in artikel 6, § 1, kan de beoordelingsinstantie in kwestie een nieuwe aanvraag tot erkenning indienen zodra ze opnieuw aan alle voorwaarden voldoet en in voorkomend geval ook het door het ESF-agentschap voorgestelde verbetervoorstel binnen de haar opgelegde termijn implementeert.<br /><br />In de andere gevallen waarbij de erkenning is ingetrokken, kan de beoordelingsinstantie in kwestie pas opnieuw een erkenning aanvragen een jaar na de intrekking van de erkenning.<br /><br />Als de erkenning is ingetrokken omdat bij de beoordelingsinstantie herhaaldelijk inbreuken, ernstige gebreken of onregelmatigheden werden vastgesteld, kan de minister bepalen dat de beoordelingsinstantie pas na drie jaar een nieuwe erkenning kan aanvragen.<br /><br />In de gevallen waarbij een erkenning omgezet is naar bepaalde duur, kan de beoordelingsinstantie in kwestie pas opnieuw een erkenning voor onbepaalde duur aanvragen een jaar nadat de erkenning is omgezet.
+...
 
 ## HOOFDSTUK VII Steunverlening aan de erkende beoordelingsinstanties
 
 ### ART. 9.
 
-Binnen de grenzen van de daartoe goedgekeurde begrotingskredieten kan een subsidie worden toegekend aan de erkende beoordelingsinstanties. Daartoe moet de erkende beoordelingsinstantie aan de volgende voorwaarden voldoen:<br /><br />1° een volledige kostprijsboekhouding voeren en een natuurlijk persoon of rechtspersoon aanstellen die verantwoordelijk is voor de financiële verrichtingen in verband met de dienstverlening van de beoordelingsinstantie, vermeld in artikel 7;<br /><br />2° minstens jaarlijks een werkingsverslag aan het ESF-agentschap voorleggen. Dat werkingsverslag bevat een inhoudelijk rapport van de werkzaamheden, zoals een gedetailleerde beschrijving van de uitgewerkte beoordelingsprocedure en -methodologie en de<br /><br />validiteit en betrouwbaarheid ervan, de uitvoering van het beoordelen van competenties, een rapportage van de resultaten van de beoordeling en een rapportage van de klachtenbehandeling. Het ESF-agentschap kan nadere instructies geven betreffende de concrete informatie die moet worden verstrekt;<br /><br />3° financiële rapportages opstellen, overeenkomstig de regels van het Europees Sociaal Fonds. De subsidiabele basis omvat alle kosten die toegestaan zijn volgens de regels van het Europees Sociaal Fonds. De financiële rapportage bevat:<br /><br />a) de uitgaven, gebaseerd op de bewijsstukken die op verzoek kunnen worden voorgelegd;<br /><br />b) een overzicht van subsidies die van andere openbare besturen werden ontvangen of worden verwacht;<br /><br />c) de instroom- en uitstroomgegevens met betrekking tot begeleiding of beoordeling.
+...
 
 ### ART. 10.
 
-§ 1. Aan de erkende beoordelingsinstanties wordt, met behoud van de toepassing van artikel 9, een subsidie verleend voorzover de aanvrager aan de volgende cumulatieve voorwaarden voldoet:<br />1° op eigen initiatief een verzoek tot het beoordelen van zijn competenties aan een erkende beoordelingsinstantie richten;<br />2° maximaal twee keer gedurende een jaar een begeleiding en beoordeling doorlopen per beroep;<br />3° voor de begeleiding, vermeld in artikel 7, 2° en 3°, geen vergoeding betalen;<br />4° voor de beoordeling van verworven competenties een vergoeding van maximaal 100 euro betalen. De aanvrager die werknemer is en tot de kansengroepen behoort, en de aanvrager die zelfstandig is, betaalt een vergoeding van maximaal 50 euro voor de beoordeling. De aanvrager die zelfstandig is en tot de kansengroepen behoort, betaalt een vergoeding van maximaal 25 euro voor de beoordeling. Voor niet-werkende werkzoekenden en deeltijds leerplichtigen is de dienstverlening inzake het beoordelen van competenties gratis. De aanvrager kan opleidings- en begeleidingscheques als vermeld in het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidings- en begeleidingscheques voor werknemers, aanwenden als voldaan is aan het voornoemde besluit;<br />5° de voor de begeleiding en beoordeling gedane vervoerskosten niet zelf betalen.<br /><br />§ 2. De aanvrager moet op het aanvraagformulier op erewoord verklaren dat hij voldoet aan alle voorwaarden, vermeld in § 1.
+...
 
 ### ART. 11.
 
-De subsidieaanvragen die aan artikelen 9 en 10 voldoen, worden door het ESF-agentschap beoordeeld.
+...
 
 ### ART. 12.
 
-§ 1. Om een kwaliteitsvolle dienstverlening uit te bouwen overeenkomstig artikel 6 en 7, alsook om de inhoudelijke uitwerking, promotie en sensibiliseringsactiviteiten en de administratieve voortgangscontrole ervan te realiseren, ontvangt de erkende beoordelingsinstantie een eenmalige opstartvergoeding ten bedrage van 15.000 euro, vermeerderd met een bedrag van 5.000 euro per extra titel waarvoor de erkende beoordelingsinstantie optreedt.<br /><br />§ 2. De erkende beoordelingsinstantie ontvangt per aanvrager maximaal een subsidie van 240 euro om begeleiding te bieden bij het reflecteren over zijn competenties of bij het invullen en samenstellen van zijn talentenpas als vermeld in artikel 7, 2°, met als resultaat een advies als vermeld in artikel 7, 3°, voorzover de aanvrager in kwestie niet over een portfolio uit loopbaandienstverlening, trajectbegeleiding of een inburgeringstraject beschikt.<br /><br />§ 3. De erkende beoordelingsinstantie ontvangt per aanvrager van wie de competenties door de erkende beoordelingsinstantie overeenkomstig artikel 7, 4°, 5° en 6°, worden beoordeeld een subsidie van 960 euro, 1.200 euro of 1.440 euro naar gelang van de titel waarvoor de aanvrager een beoordeling onderneemt.<br /><br />Het subsidiebedrag van 800 euro geldt voor titels waarvan de af te leggen proeven voor het beoordelen van de competenties volgens de standaard, succescriteria en richtlijnen voor beoordeling in kwestie gering materiaalgebruik, geen beroepsspecifieke of dure software en evenmin de inzet van een machinepark vereisen.<br /><br />Het subsidiebedrag van 1.000 euro geldt voor titels waarvan de af te leggen proeven voor het beoordelen van de competenties volgens de standaard, succescriteria en richtlijnen voor beoordeling in kwestie voornamelijk één of meer van het volgende vereisen:<br />1° materiaalgebruik;<br />2° de inzet van beroepsspecifieke software;<br />3° de inzet van beroepsspecifieke machines.<br /><br />Het subsidiebedrag van 1.200 euro geldt uitsluitend voor titels waarvan de af te leggen proeven voor het beoordelen van de competenties volgens de standaard, succescriteria en richtlijnen voor beoordeling in kwestie voornamelijk een of meer van het volgende vereisen:<br />1° het gebruik van veel of dure materialen;<br />2° de inzet van zeer beroepsspecifieke en dure software;<br />3° de inzet van zeer specifieke en dure machines;<br />4° een aanzienlijk langere duurtijd van de beoordelingsactiviteiten.<br /><br />De minister legt aan de hand van het advies van de SERV over de classificatie, vermeld in artikel 4, § 1, vast welk subsidiebedrag, namelijk 800 euro, 1.000 euro of 1.200 euro, geldt voor de beoordeling van de competenties van de titel in kwestie.<br /><br />§ 4. De subsidieerbare basis omvat alle kosten die zijn toegestaan volgens de regels van het Europees Sociaal Fonds. Indien de aanvrager een sectoraal opleidingsfonds is, is er geen verplichting tot een sectorale inbreng van twintig procent.
+...
 
 ### ART. 13.
 
-Jaarlijks kan op verzoek van de erkende beoordelingsinstantie een voorschot van één vijfde van de totale goedgekeurde subsidie worden uitbetaald overeenkomstig de regels van het Europees Sociaal Fonds. Het saldo van de toegekende subsidie wordt uitgekeerd overeenkomstig de regels van het Europees Sociaal Fonds.
+...
 
 ### ART. 14.
 
-De minister kan nadere administratieve voorwaarden en regels bepalen voor de steunverlening en de procedure tot het verkrijgen van subsidies. Het ESF-agentschap bezorgt alle gegevens die nodig zijn voor de monitoring, vermeld in artikel 18, aan de interdepartementale stuurgroep.
+...
 
 ### ART. 15.
 
-De subsidiedossiers met betrekking tot de dienstverlening van voor de schorsing of de intrekking van de erkenning, vermeld in artikel 8, die voldoen aan alle bepalingen van dit besluit, worden nog overeenkomstig dit besluit behandeld.
+...
 
 ### ART. 15bis.
 
@@ -118,218 +86,62 @@ De subsidiedossiers met betrekking tot de dienstverlening van voor de schorsing 
 
 ### ART. 16.
 
-Het Departement Werk en Sociale Economie wordt aangewezen als   erkenningsinstantie voor de erkenning van de competenties binnen de procedure   tot het verkrijgen van een titel van beroepsbekwaamheid.<BR><BR>Die   erkenningsinstantie heeft als opdracht:<BR>1° voor de titels van   beroepsbekwaamheid, vermeld in artikel 3, een format vastleggen die minstens de   naam van de titelhouder, het logo van het ministerie van de Vlaamse Gemeenschap,   de erkende beoordelingsinstantie, de datum en de competenties zoals vastgelegd   in de respectievelijke standaarden bevat;<BR>2° een format voor de talentenpas   vastleggen;<BR>3° op basis van het advies van de erkende beoordelingsinstantie,   vermeld in artikel 7, 6°, titels van beroepsbekwaamheid als vermeld in artikel   3, toekennen en uitreiken;<BR>4° ...<BR>5° de gegevens beheren, namelijk de   identificatiegegevens van de aanvragers en de beoordelaars en het resultaat van   de beoordeling;<BR>6° de gegevens, vermeld in 5°, op anonieme wijze aan de   interdepartementale stuurgroep bezorgen;<BR>7° op toegankelijke wijze een   databank installeren en beheren met informatie over de titels, standaarden,   succescriteria en richtlijnen voor de beoordeling, ...;<BR>8° potentiële   aanvragers sensibiliseren tot het verwerven van een titel van   beroepsbekwaamheid;<BR>9° belanghebbenden, zoals werkgevers en onderwijs- en   opleidingsinstellingen, sensibiliseren;<BR>10° jaarlijks een jaarverslag   opstellen over de verrichte activiteiten, dat aan de minister, de SERV en de   interdepartementale stuurgroep wordt bezorgd.
+...
 
 ## HOOFDSTUK IX De beroepscommissie
 
 ### ART. 17.
 
-§ 1. De beroepscommissie vergadert telkens als een bezwaar als vermeld in artikel 9, § 1, van het decreet wordt ingediend.<br /><br />De verzoekende partij richt haar bezwaar met een aangetekende brief aan de voorzitter van de beroepscommissie. In dat bezwaarschrift haalt de verzoeker alle nodige bewijzen en argumenten aan ter staving van het bezwaar.<br /><br />De voorzitter stelt een zittingsdag vast. De zitting moet plaatsvinden binnen een maand na de ontvangst van het bezwaar. Tijdens die zitting doet de beroepscommissie uitspraak over het ingediende bezwaar.<br /><br />§ 2. De uitnodigingen, ondertekend door de voorzitter, worden met een aangetekende brief uiterlijk tien werkdagen voor de zittingsdag naar alle leden van de beroepscommissie verstuurd. Ze bevatten de datum en plaats van de zitting, de agendapunten en alle documenten die betrekking hebben op de te behandelen punten.<br /><br />De uitnodigingen, ondertekend door de voorzitter, worden eveneens met een aangetekende brief uiterlijk tien werkdagen voor de zittingsdag naar de verzoeker in kwestie verstuurd en naar de instantie tegen wiens beslissing bezwaar werd ingediend, met vermelding van de datum en de plaats van de zitting en met de documenten die betrekking hebben op het te behandelen punt waarbij de verzoeker betrokken is.<br /><br />§ 3. De beroepscommissie geeft tijdens de zitting aan de verzoeker de kans om zijn standpunt uiteen te zetten. De verzoeker mag zich laten bijstaan of vertegenwoordigen door een derde. In geval van vertegenwoordiging door een derde moet een geschreven volmacht kunnen worden voorgelegd. Vervolgens krijgt de instantie tegen wiens beslissing bezwaar is ingediend eveneens de kans om haar standpunt uiteen te zetten.<br /><br />§ 4. De beroepscommissie beraadslaagt en stemt geldig als al haar leden regelmatig zijn opgeroepen en ten minste de helft ervan aanwezig is.<br /><br />De beroepscommissie beraadslaagt en stemt met gesloten deuren, na het horen van de standpunten van de verzoeker en van de instantie tegen wiens beslissing bezwaar is ingediend. De verzoeker en de instantie mogen de beraadslaging en stemming niet bijwonen.<br /><br />Er wordt gestemd met handopsteking. Stemming bij wijze van volmacht wordt niet aanvaard.<br /><br />De beslissingen worden getroffen bij meerderheid van de aanwezige leden. In geval van staking van stemmen is de stem van de voorzitter doorslaggevend.<br /><br />§ 5. De beroepscommissie neemt een gemotiveerde beslissing over de ontvankelijkheid en de gegrondheid van het bezwaar. <br /><br />Indien het bezwaar gegrond is, kan de beroepscommissie nooit zelf competenties beoordelen of erkennen of titels uitreiken.<br /><br />In het geval de verzoekende partij een bezwaar heeft omtrent zijn beoordeling of de adviezen, vermeld in artikel 2, kan de beroepscommissie onder meer bevelen dat de aanvrager recht heeft op een nieuwe beoordeling of een nieuw advies, vermeld in artikel 2, onder de door de beroepscommissie te stellen voorwaarden. Deze voorwaarden kunnen onder meer inhouden dat:<br />a) een nieuwe beoordeling afhankelijk wordt gemaakt van de organisatie van een nieuwe proef of een onderdeel daarvan. De beroepscommissie kan de termijn en de materiële voorwaarden bepalen waaronder die beoordeling moet gebeuren;<br />b) welbepaalde elementen bij de totstandkoming van de nieuwe beoordeling of het nieuwe advies niet worden betrokken;<br />c) welbepaalde elementen bij de totstandkoming van de nieuwe beoordeling of het nieuwe advies kennelijk in aanmerking moeten worden genomen.<br /><br />De beslissing wordt geformuleerd en goedgekeurd tijdens de zitting en wordt nadien in twee exemplaren door de voorzitter en een bijzitter ondertekend waarvan een exemplaar uiterlijk twee weken na de zitting waarop de zaak in beraad werd genomen, met een aangetekende brief wordt bezorgd aan de verzoeker en aan de instantie tegen wiens beslissing bezwaar werd ingediend.Elk lid van de beroepscommissie ontvangt een kopie van de beslissing en een origineel berust op het secretariaat.<br /><br />§ 6. Van elke vergadering van de beroepscommissie wordt een verslag opgesteld dat, na goedkeuring door alle aanwezige leden, door de voorzitter en een bijzitter in twee exemplaren wordt ondertekend. Elk lid ontvangt een kopie van het verslag en een origineel berust op het secretariaat.<br /><br />Het verslag bevat in ieder geval de namen van de aanwezige leden en de verontschuldigden, het standpunt van beide partijen, vermeld in § 3, en als de beslissing niet met eenparigheid van stemmen wordt genomen, de verschillende standpunten van de leden van de beroepscommissie.<br /><br />§ 7. Bij afwezigheid of verhindering van de voorzitter wordt die vervangen door een bijzitter.<br /><br />§ 8. Alle stukken, verslagen en beraadslagingen van de beroepscommissie zijn vertrouwelijk en worden op het secretariaat van de beroepscommissie gedurende vijf jaar bijgehouden. De beslissingen van de beroepscommissie zijn bindend voor beide partijen, vermeld in § 3.
+...
 
 ## HOOFDSTUK X Monitoring
 
 ### ART. 18.
 
-De interdepartementale stuurgroep zorgt voor het monitoren van de maatregel titel van beroepsbekwaamheid naar het succes en falen van welbepaalde titels, het aantal en profiel van aanvragers die al dan niet een volwaardig traject van begeleiding of beoordeling al dan niet succesvol doorlopen, het aantal en het profiel van de erkende beoordelingsinstanties, de beoordelingsprocedures en - methodologieën die ontwikkeld en toegepast worden, de tevredenheid over de dienstverlening en het aantal en de aard van de klachten van aanvragers zowel behandeld in de klachtenbehandeling van de erkende beoordelingsinstantie als in de beroepscommissie. De interdepartementale stuurgroep kan concrete instructies terzake bepalen.<br /><br />Jaarlijks wordt hierover een jaarverslag opgesteld dat aan de minister en aan de SERV wordt bezorgd.
+...
 
 ## HOOFDSTUK XI Wijzigings- en opheffingsbepalingen
 
 ### ART. 19.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 25 van het besluit van de Vlaamse Regering van 21 de organisatie van de<br /><br />arbeidsbemiddeling en de beroepsopleiding)
+...
 
 ### ART. 20.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 27 van hetzelfde besluit)
+...
 
 ### ART. 21.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 5 van het besluit van de Vlaamse Regering van 28 september 2001 tot vaststelling van de nadere voorwaarden en regels volgens welke subsidies worden verleend voor permanente vorming en opleiding voor werkenden en bedrijven, luik « hefboomkrediet - flankerend beleid)
+...
 
 ### ART. 22.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 9 van hetzelfde besluit)
+...
 
 ### ART. 23.
 
-(niet opgenomen)<br /><br />(Wijzigt artikel 4 van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de opleidings- en begeleidingscheques voor werknemers)
+...
 
 ### ART. 24.
 
-De lopende projecten die door de minister goedgekeurd zijn in het kader van artikel 5, § 2, 1°, b), van het besluit van de Vlaamse Regering van 28 september 2001 tot vaststelling van de nadere voorwaarden en regels volgens welke subsidies worden verleend voor permanente vorming en opleiding voor werkenden en bedrijven, luik « hefboomkrediet-flankerend beleid », worden overeenkomstig het voornoemde besluit verder behandeld totdat het project in kwestie is afgelopen of wordt stopgezet.
+...
 
 ## HOOFDSTUK XII Inwerkingtredingsbepaling
 
 ### ART. 25.
 
-Het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid treedt in werking op de dag van de bekendmaking van dit besluit in het Belgisch Staatsblad.
+...
 
 ### ART. 26.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 22 dat uitwerking heeft met ingang van 1 januari 2005.
+...
 
 ### ART. 27.
 
-De Vlaamse minister, bevoegd voor de beroepsomscholing en -bijscholing, de Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor de post- en parascolaire vorming, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
+...
 
 ## Bijlage
 
 ### Tekst
 
-Gedragscode voor het herkennen en beoordelen van competenties (besluit van de Vlaamse Regering betreffende het verwerven van een titel van beroepsbekwaamheid)<br>
-<br>
-In deze code gebruiken we meestal de mannelijke vorm 'hij' om te verwijzen naar een persoon. Die mannelijke vorm verwijst zowel naar mannen als vrouwen.<br>
-<br>
-Inleiding<br>
-<br>
-De gedragscode gebruikt de termen 'aanvrager' en 'beoordelaar' als volgt:<br>
-<br>
-- aanvrager: de persoon die het beoordelingsproces van zijn of haar verworven competenties instapt en doorloopt;<br>
-<br>
-- begeleider: zowel de persoon die binnen de beoordelingsinstantie begeleiding biedt bij het reflecteren over competenties en bij het invullen van de talentenpas, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt;<br>
-<br>
-- beoordelaar: zowel de persoon die zorgt voor de eigenlijke beoordeling, als de organisatie die de beoordeling van verworven competenties aanbiedt en waarbinnen die persoon werkt.<br>
-<br>
-Elke erkende beoordelingsinstantie biedt naast de beoordeling ook begeleiding bij het reflecteren over competenties en bij het invullen van de talentenpas. Hiervoor wordt een begeleider ingezet. Naast de beoordelaar moet ook de begeleider de gedragscode hanteren.<br>
-<br>
-1. De houding en de rol van de begeleider en de beoordelaar<br>
-<br>
-De beoordeling van competenties is doelgericht met als duidelijke doelstelling competenties beoordelen volgens een methode die voldoet aan alle gestelde criteria, op objectieve en neutrale (in het bijzonder gender- en cultuurneutrale) wijze, en een advies hierover aan de aanvrager verstrekken.<br>
-<br>
-De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Hij moet er aanhoudend over waken dat de vertrouwelijkheid van de verzamelde gegevens niet wordt geschaad.<br>
-De begeleider of beoordelaar is in geen geval opleider-instructeur geweest van de aanvrager.<br>
-<br>
-2. Het vereiste profiel van de begeleider en de beoordelaar<br>
-<br>
-De erkende beoordelingsinstantie streeft een dienstverlening na van een zo hoog mogelijke kwaliteit. De instantie garandeert dat de begeleiders en beoefenaars hun beroep uitoefenen op een deskundige en verantwoorde wijze, en ziet erop toe dat ze de eigen professionele competenties op peil houden en verder uitbouwen.<br>
-<br>
-Dat vereist in hoofde van de begeleiders of de beoordelaars de volgende kwalificaties:<br>
-<br>
-- de aanwezigheid van een degelijke vooropleiding en basiskwalificaties. De dienstverlener is terdege voorbereid om begeleiding bij herkenning of een beoordeling uit te voeren en een advies te formuleren. Elke begeleider of beoordelaar heeft een of meer professioneel relevante opleidingen met succes doorlopen en kan dat bewijzen met de nodige diploma's of certificaten, of hij kan aantonen dat hij beschikt over een gelijkgestelde professionele ervaring;<br>
-<br>
-- minimale aantoonbare beroepservaring in het beoordelen van competenties voor bepaalde titels. De beoordelaar met minder dan één jaar beroepservaring wordt geleid en gevolgd door een meer ervaren beoordelaar die ook de eindverantwoordelijkheid draagt voor het verloop van de beoordeling;<br>
-<br>
-- zelfkennis. De begeleider of beoordelaar erkent zijn professionele en persoonlijke beperkingen en doet indien nodig een beroep op professioneel advies en professionele ondersteuning. Hij hanteert enkel de methoden waarvoor hij de vereiste competenties heeft;<br>
-<br>
-- vormingsengagement. De beoordelingsinstantie ziet erop toe dat de begeleiders of beoordelaars voorafgaand aan de dienstverlening een passende training hebben doorlopen die gericht is op de ontwikkeling van de eigen deskundigheid met betrekking tot het vervullen van de begeleidings- of beoordelingsopdrachten van de beoordelingsinstantie.<br>
-<br>
-3. Informatie-uitwisseling bij de aanvang van de dienstverlening<br>
-<br>
-Transparantie van de dienstverlening. De beoordelingsinstantie zorgt ervoor dat elke aanvrager die gebruikmaakt van de dienstverlening van bij de start een duidelijk beeld heeft van de mogelijkheden en de beperkingen ervan.<br>
-<br>
-Bij de aanvang van de beoordeling zorgt de begeleider of beoordelaar ervoor dat de aanvrager een volledig begrip kan hebben van:<br>
-<br>
-- de doelstellingen van de beoordeling van competenties;<br>
-<br>
-- de standaarden op basis waarvan wordt beoordeeld, met inbegrip van de wegingsfactoren die desgevallend worden gehanteerd voor de verschillende kerncompetenties;<br>
-<br>
-- de diensten die geleverd worden door de beoordelingsinstantie en de planning ervan;<br>
-<br>
-- het bedrag dat de aanvrager moet betalen voor de dienstverlening;<br>
-<br>
-- de betalingswijze, de mogelijkheid en de voorwaarden om opleidingscheques voor werknemers te gebruiken;<br>
-<br>
-- de hoeveelheid tijd die de aanvrager zal moeten investeren om te kunnen komen tot een volwaardige beoordeling van zijn competenties;<br>
-<br>
-- de stappen van het beoordelingsproces zelf;<br>
-<br>
-- de methodieken die in het beoordelingsproces worden gebruikt;<br>
-<br>
-- het afrondingsmoment van de beoordeling, het beoordelingsadvies;<br>
-<br>
-- de deontologische regels die de begeleider of beoordelaar tijdens de dienstverlening moet volgen;<br>
-<br>
-- de klachtenmogelijkheid en de beroepsmogelijkheid over die dienstverlening.<br>
-De aanvrager krijgt er een mondelinge toelichting over.<br>
-<br>
-4. De beoordeling<br>
-<br>
-Bij de beoordeling worden de nodige garanties ingebouwd zodat recht wordt gedaan aan het volledige spectrum van competenties die iemand heeft verworven, in de mate dat ze relevant zijn voor het betreffende beroep:<br>
-<br>
-- zowel formele als in- en niet-formele competenties;<br>
-<br>
-- zowel competenties die in een Vlaamse context werden verworven als competenties die in andere regio's of in het buitenland werden verworven;<br>
-<br>
-- zowel competenties die via onderwijs, opleiding, beroepservaring werden verworven als competenties die werden verworven, bijvoorbeeld via het verenigingsleven of via vrijetijdsbeoefening (cfr. IAO-aanbeveling human resources 2004, art. 11).<br>
-<br>
-5. Het contact tussen de dienstverlener en de aanvrager tijdens de dienstverlening<br>
-<br>
-5.1 De eigen verantwoordelijkheid en de autonomie van de aanvrager<br>
-<br>
-Tijdens het beoordelingsproces respecteert de begeleider of beoordelaar de eigen verantwoordelijkheid en de autonomie van de aanvrager. Dat uit zich als volgt.<br>
-<br>
-- De aanvrager neemt vrijwillig deel aan de beoordeling van zijn competenties. De zelfbeschikking van de aanvrager komt tot uiting in het recht om de professionele relatie met de begeleider of beoordelaar al dan niet aan te gaan, voort te zetten of te beëindigen. De begeleider of beoordelaar laat de dienstverlening niet langer duren dan nodig is voor de aanvrager.<br>
-<br>
-- Elke aanvrager verbindt er zich toe de nodige informatie die de begeleider of beoordelaar nodig heeft om zijn professioneel handelen te waarborgen, te verstrekken.<br>
-<br>
-- De begeleider of beoordelaar legt een zekere terughoudendheid aan de dag. Hij dringt niet verder door in de persoonlijke levenssfeer van de aanvrager dan noodzakelijk is om de begeleiding of beoordeling te doen slagen.<br>
-<br>
-- De begeleider of beoordelaar neemt voldoende professionele afstand. Hij vermengt geen professionele en niet-professionele rollen om te vermijden dat hij niet in staat is een professionele afstand tot de aanvrager te bewaren waardoor de belangen van de aanvrager kunnen worden geschaad.<br>
-<br>
-- De begeleider of beoordelaar zal in het kader van de dienstverlening geen contacten leggen met derden (organisaties, natuurlijke personen, de werkgever) zonder de uitdrukkelijke toestemming van de aanvrager. De aanvrager kan die toestemming immers pas geven nadat het voor hem duidelijk is waarom dat contact met derden wordt gelegd en wat ervan wordt verwacht.<br>
-<br>
-De beoordelaar neemt de nodige voorzorgsmaatregelen met betrekking tot het voldoende verzekeren van eventuele ongevallen of schade, ongeacht die door de aanvrager werden berokkend tijdens zijn beoordeling.<br>
-<br>
-5.2. Onafhankelijke doorverwijzing<br>
-<br>
-De begeleider of beoordelaar zal zich bij doorverwijzingen (bijvoorbeeld naar opleiding, loopbaandienstverlening of arbeidsbemiddeling) op geen enkele wijze laten leiden door de belangen of behoeften van de eigen organisatie of van andere organisaties.<br>
-<br>
-5.3. Vertrouwelijkheid in de samenwerking<br>
-<br>
-De begeleider of beoordelaar gaat een vertrouwensrelatie aan met de aanvrager. Dat dwingt hem tot geheimhouding over alles wat hij verneemt door de uitoefening van de dienstverleningsfunctie. Dat betekent dat:<br>
-<br>
-- de begeleider of beoordelaar in overeenstemming met de regels en principes van de bescherming van de persoonlijke levenssfeer en de regels over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens moet handelen;<br>
-<br>
-- de begeleider of beoordelaar alle informatie van de aanvrager strikt vertrouwelijk moet behandelen en die onder geen beding mag doorgeven of meedelen aan derden, tenzij de aanvrager daar vooraf uitdrukkelijk toestemming voor gegeven heeft. Dat is enkel mogelijk als het voor de aanvrager duidelijk is waarom die informatie moet worden gegeven en nadat hij de desbetreffende informatie (rapport, dossier,...) heeft kunnen inkijken;<br>
-<br>
-- enkel de gegevens zullen worden geregistreerd die relevant zijn voor het onderbouwen van het advies en die noodzakelijk zijn voor de dienstdoelstellingen van de beoordelaar. Als de resultaten worden verwerkt, zal dat volstrekt anoniem verlopen;<br>
-<br>
-- de aanvrager altijd inzagerecht heeft in de gegevens die tijdens de beoordeling over hem werden verzameld;<br>
-<br>
-- na afloop van de dienstverlening de geheimhoudingsplicht van de begeleider of beoordelaar blijft bestaan;<br>
-<br>
-- alle verzamelde informatie (testresultaten, gespreksinhoud enzovoort) na afloop van de beoordeling aan de aanvrager wordt bezorgd.<br>
-<br>
-5.4. Uitzonderingen op de vertrouwelijkheid<br>
-<br>
-In de volgende gevallen wordt een uitzondering op de vertrouwelijkheid gemaakt:<br>
-<br>
-- gegevens, namelijk identificatiegegevens en beoordelingsadvies, die moeten worden meegedeeld aan de erkenningsinstantie zodat die de titel van beroepsbekwaamheid aan de aanvrager zou kunnen uitreiken;<br>
-<br>
-- gegevens die moeten worden geregistreerd voor en kunnen worden opgevraagd door de subsidiërende instantie. In dat geval bezorgt de begeleider of beoordelaar uitsluitend identificatiegegevens, trajectbeschrijvende data en het resultaat van de beoordeling aan de subsidiërende instantie;<br>
-<br>
-- een beperkte interne gegevensdoorstroming in de gesubsidieerde beoordelingsinstantie die noodzakelijk is voor een adequaat management van de dienstverlening;<br>
-<br>
-- gegevens die noodzakelijk zijn voor de monitoringsopdracht van de interdepartementale stuurgroep. De gegevens moeten anoniem zijn zodat het onmogelijk is om vast te stellen op welke persoon ze betrekking hebben.<br>
-<br>
-Alle andere informatie kan pas aan derden meegedeeld worden na expliciete voorafgaande toestemming van de aanvrager.<br>
-<br>
-5.5. Gelijke behandeling en non-discriminatie<br>
-<br>
-De instantie garandeert de naleving van de bepalingen van het decreet van 8 mei 2002 betreffende de evenredige participatie op de arbeidsmarkt en zijn uitvoeringsbesluiten.<br>
-<br>
-In het bijzonder garandeert de beoordelingsinstantie een gelijke behandeling en non-discriminatie tijdens de procedure van beoordeling van competenties, in het bijzonder:<br>
-<br>
-- door bij de uitwerking van de EVC-procedures garanties in te bouwen dat volwaardig rekening wordt gehouden met de competenties en kwalificaties die in het buitenland worden verworven (IAO-aanbeveling 2004, art. 12);<br>
-<br>
-- door het gebruik van methodieken en testmethoden die genderneutraal zijn (IAO-aanbeveling 2004, art 18, g) ;<br>
-<br>
-- door het gebruik van methodieken en testmethoden die de grootst mogelijke garanties inhouden dat ze niet onbewust tot discriminatie leiden van allochtonen;<br>
-<br>
-- door de methodieken en testmethoden zoveel als mogelijk toegankelijk te maken en te houden voor kortgeschoolden en/of laaggeletterden.<br>
-<br>
-5.6. Eigendom<br>
-<br>
-De instantie garandeert dat de resultaten van de beoordeling het eigendom zijn van het individu.<br>
-<br>
-5.7. Onpartijdigheid<br>
-<br>
-De instantie moet garanderen dat de beoordeling, in alle fasen, onpartijdig gebeurt.<br>
-<br>
-5.8. Handvest van de werkzoekende<br>
-<br>
-De instantie moet garanderen dat bij de dienstverlening naar werkzoekenden de bepalingen van het decreet van 30 april 2004 houdende het Handvest van de werkzoekende en zijn uitvoeringsbesluiten volledig worden nageleefd.<br>
-<br>
-6. Klachten<br>
-<br>
-Op het niveau van de beoordelingsinstantie is er een eerstelijnsbehandeling voor klachten over het niet-naleven van deze gedragscode voor de beoordeling van competenties, over een concrete al dan niet verrichte handeling of over de werking van de organisatie. De klacht wordt in ieder geval behandeld door een persoon die niet bij de feiten waarop de klacht betrekking heeft, betrokken is geweest. De persoon die de klacht behandelt, is verplicht het beroepsgeheim te respecteren en een strikte neutraliteit in acht te nemen. De beoordelingsinstantie stelt de klant bij de aanvang van de dienstverlening schriftelijk op de hoogte van die interne klachtenbehandeling.
+...
