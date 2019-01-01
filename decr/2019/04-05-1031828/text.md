@@ -8,6 +8,12 @@
 
 ## HOOFDSTUK 4. Wijzigingen van het decreet basisonderwijs van 25 februari 1997
 
+### ART 12.
+
+Aan artikel 44, § 4, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 26 januari 2018, wordt een zin toegevoegd, die luidt als volgt:<br>
+<br>
+"In afwijking van paragraaf 3 en 5 kan de regering de bestaande ontwikkelingsdoelen voor het buitengewoon basisonderwijs herordenen en technisch aanpassen.".
+
 ### ART 17.
 
 In artikel 78 van hetzelfde decreet, gewijzigd bij de decreten van 22 juni 2007, 4 juli 2008 en 6 juli 2012, wordt in paragraaf 1, 2°, punt g) opgeheven.
@@ -33,6 +39,22 @@ In hoofdstuk VII, afdeling 2, onderafdeling D, 3°, van hetzelfde decreet worden
 ### ART 21.
 
 In artikel 87 van hetzelfde decreet, gewijzigd bij het decreet van 4 juli 2008, wordt paragraaf 6 opgeheven.
+
+### ART 28.
+
+In artikel 168 van hetzelfde decreet, hersteld bij het decreet van 21 december 2012 en vervangen bij het decreet van 25 april 2014, wordt punt 6° vervangen door wat volgt:<br>
+<br>
+"6° ze bezorgt jaarlijks een verslag over de afgelopen subsidieperiode;".
+
+### ART 29.
+
+In artikel 169 van hetzelfde decreet, hersteld bij het decreet van 21 december 2012 en vervangen bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Vanaf het schooljaar 2015-2016 wordt aan de vzw een subsidie toegekend van maximaal 28.000 euro per 12 maanden voor het project de rijdende kleuterschool Vlaanderen. Vanaf 2019 wordt de subsidie toegekend op kalenderjaarbasis.";<br>
+2° paragraaf 2 wordt opgeheven;<br>
+3° in paragraaf 3 wordt de zinsnede "het prijsindexcijfer dat berekend wordt voor de toepassing van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen" vervangen door de woorden "de gezondheidsindex";<br>
+4° in paragraaf 5 wordt de tweede zin vervangen door wat volgt:<br>
+"De subsidie wordt de eerste keer toegekend voor de periode van 1 september 2015 tot en met 31 december 2020, vervolgens telkens voor een periode van vijf kalenderjaren. Het verlof wegens bijzondere opdracht wordt telkens toegekend voor een periode van vijf schooljaren.".
 
 ## HOOFDSTUK 5. Wijziging van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemingsvorming - Syntra Vlaanderen"
 
@@ -111,6 +133,12 @@ Artikel 356 van dezelfde codex wordt opgeheven.
 
 ## HOOFDSTUK 12. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 106.
+
+In artikel II.170, § 2, derde lid, van dezelfde codex, vervangen bij het decreet van 8 december 2017, wordt punt 1° vervangen door wat volgt:<br>
+<br>
+"1° indien van toepassing het studiegebied, een deel van het studiegebied of studiegebieden waarbinnen een opleiding wordt ondergebracht;".
+
 ### ART 109.
 
 In artikel II.210, § 1, van dezelfde codex, gewijzigd bij het decreet van 19 december 2014, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
@@ -124,6 +152,14 @@ In artikel II.261, § 4, van dezelfde codex wordt het woord "met" vervangen door
 ### ART 116.
 
 In artikel V.17/1, vierde lid, van dezelfde codex, ingevoegd bij het decreet van 15 juni 2018, wordt het woord "tweede" vervangen door het woord "derde".
+
+### ART 120.
+
+In artikel V.108, § 1, van dezelfde codex worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt tussen het woord "Een" en de woorden "benoemd personeelslid" de woorden "tijdelijk of" ingevoegd;<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"Een tijdelijk of benoemd personeelslid of personeelslid als bedoeld in artikel V.264, 2°, dat door ambtswijziging een andere aanstelling krijgt in de hogeschool, behoudt zijn aanstelling of benoeming of zijn overgangsrechten in zijn vorige ambt zolang het niet benoemd wordt in het andere ambt in die hogeschool.";<br>
+3° in het derde lid wordt tussen het woord "De" en de woorden "benoemde personeelsleden" de woorden "tijdelijke of" ingevoegd en worden tussen de woorden "waarin zij" en de woorden "benoemd zijn" de woorden "voor de ambtswijziging aangesteld of" ingevoegd.
 
 ### ART 121.
 
@@ -143,6 +179,18 @@ Aan dezelfde codex wordt een artikel V.111/1 toegevoegd, dat luidt als volgt:<br
 2° het personeelslid oefent naast de opdracht aan de hogeschool nog een andere bezoldigde activiteit of beroepsactiviteit uit;<br>
 3° de totale omvang van de opdrachten, vermeld in punt 1° en 2°, bedraagt meer dan 120 %;<br>
 4° er is geen verdere ambtshalve reductie van een aanstelling als lid van het onderwijzend personeel mogelijk.".
+
+### ART 124.
+
+In artikel V.116/1, eerste lid, 3°, van dezelfde codex, ingevoegd bij het decreet van 15 juni 2018 en vervangen bij het decreet van 21 december 2018, wordt de zinsnede ", OCMW-voorzitter" opgeheven.
+
+### ART 125.
+
+In artikel V.116/2 van dezelfde codex, ingevoegd bij het decreet van 15 juni 2018 en vervangen bij het decreet van 21 december 2018, worden de woorden "of van" vervangen door de zinsnede "van de gemeente Voeren of van een gemeente als vermeld in artikel 7 van de wetten op het gebruik van de talen in bestuurszaken, gecoördineerd op 18 juli 1966 of voorzitter van".
+
+### ART 126.
+
+Artikel V.140 van dezelfde codex wordt opgeheven.
 
 ### ART 127.
 
