@@ -9,10 +9,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 ### ART. 1.
 
 Voor de toepassing van dit besluit wordt verstaan onder :<br>
-1° de VMM : de Vlaamse Milieumaatschappij, vermeld in artikel 32bis van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging;<br>
-2° het IVA VMM : het intern verzelfstandigd agentschap Vlaamse Milieumaatschappij, vermeld in artikel X.2.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
-3° CIW : de Coördinatiecommissie Integraal Waterbeleid, vermeld in artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
-4° het bekkenbestuur : het bestuur, vermeld in artikelen 26 en 27 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+1° de VMM : de Vlaamse Milieumaatschappij, vermeld in artikel 10.2.1 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br>
+2° ...;<br>
+3° CIW : de Coördinatiecommissie Integraal Waterbeleid, vermeld in artikel 1.5.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018";<br>
+4° het bekkenbestuur : het bestuur, vermeld in artikel 1.5.3.1 en 1.5.3.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 5° de gemeente : het college van burgemeester en schepenen;<br>
 6° het zoneringsplan : het plan dat een onderscheid maakt tussen de gebieden met collectieve sanering en de gebieden met individuele sanering. In het centrale gebied werd reeds in collectieve sanering voorzien;<br>
 7° het uitvoeringsplan : het plan dat de uitvoering en de timing van de projecten regelt met betrekking tot de gemeentelijke en de bovengemeentelijke saneringsverplichting, evenals de noodzakelijke afstemming van de projecten;<br>
@@ -22,8 +22,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br>
 11° het collectief te optimaliseren buitengebied : het deel van het buitengebied waar, om de bestaande sanering van het afvalwater te optimaliseren, gekozen is voor collectieve inzameling en zuivering en waar die nog te realiseren is;<br>
 12° het individueel te optimaliseren buitengebied : het deel van het buitengebied waar, om de bestaande sanering van het afvalwater te optimaliseren, gekozen is voor individuele afvalwaterzuivering en waar voor de burger overeenkomstig het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne een individuele zuiveringsplicht geldt;<br>
 13° cluster : groep van percelen die op dezelfde wijze gesaneerd worden;<br>
-14° omslagwaarde : waarde die per gemeente is bepaald en die de minimaal ingezamelde of in te zamelen vuilvracht aangeeft voor er sprake kan zijn van een gewestelijke saneringsopdracht. De tabel met de omslagwaarde per gemeente is opgenomen in bijlage I, gevoegd bij dit besluit.<br>
-Voor de landelijke deelgemeenten van de gemeenten met een omslagwaarde die groter is dan of gelijk is aan 500 IE wordt de omslagwaarde bepaald op 100 IE. De lijst van landelijke deelgemeenten is opgenomen in bijlage II, gevoegd bij dit besluit;<br>
+14° omslagwaarde: de waarde bepaald ter uitvoering van artikel 2, § 2.;<br>
 15° overnamepunt : het punt waar, op basis van de zoneringsplannen, geoordeeld wordt dat de gemeentelijke saneringsopdracht eindigt en de bovengemeentelijke saneringsopdracht begint;<br>
 16° het decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, tot aanvulling ervan met een titel Agentschappen en tot wijziging van diverse andere wetten en decreten.<br>
 &nbsp;
@@ -34,7 +33,19 @@ Voor de landelijke deelgemeenten van de gemeenten met een omslagwaarde die grote
 
 ### ART. 2.
 
-In de zone, vermeld in artikel 1, 9°, wordt de scheiding tussen de gemeentelijke en de bovengemeentelijke saneringsverplichting bepaald op basis van de volgende principes :<br />1° de functie van de leiding is bepalend : inzameling is een gemeentelijke opdracht, transport een bovengemeentelijke opdracht;<br />2° de omslagwaarde, die gelijk is in geval van verder transport of lokale zuivering;<br />3° een aaneengesloten bovengemeentelijk netwerk wordt gerealiseerd. Dat houdt eveneens in dat de lokale inzameling die plaatsvindt op hetzelfde tracé een gemeentelijke opdracht blijft.<br /><br />
+§ 1. In de zone, vermeld in artikel 1, 9°, wordt de scheiding tussen de gemeentelijke en de bovengemeentelijke saneringsverplichting bepaald op basis van de volgende principes :<br>
+1° de functie van de leiding is bepalend : inzameling is een gemeentelijke opdracht, transport een bovengemeentelijke opdracht;<br>
+2° de omslagwaarde, die gelijk is in geval van verder transport of lokale zuivering;<br>
+3° een aaneengesloten bovengemeentelijk netwerk wordt gerealiseerd. Dat houdt eveneens in dat de lokale inzameling die plaatsvindt op hetzelfde tracé een gemeentelijke opdracht blijft.<br>
+<br>
+§ 2. De omslagwaarde is de waarde die per gemeente is bepaald en die de minimaal ingezamelde of in te zamelen vuilvracht aangeeft voor er sprake kan zijn van een gewestelijke opdracht. De tabel met de omslagwaarde per gemeente is opgenomen in bijlage I, die bij dit besluit is gevoegd.<br>
+<br>
+Voor de landelijke deelgemeenten van de gemeenten met een omslagwaarde die groter is dan of gelijk is aan 500 IE wordt de omslagwaarde bepaald op 100 IE. De lijst van landelijke deelgemeenten is opgenomen in bijlage II, die bij dit besluit is gevoegd. IE staat voor "Inwonerequivalent" en is gedefinieerd als de biologisch afbreekbare organische belasting met een biochemisch zuurstofverbruik gedurende vijf dagen bij 20° C (BZV520) van 60 g zuurstof.<br>
+<br>
+Bij een fusie van gemeenten vanaf 2019 wordt de hoogste omslagwaarde behouden. Voor de fusionerende gemeente waarvoor voor de datum van de fusie een lagere omslagwaarde is vastgesteld, wordt de lagere omslagwaarde voor het grondgebied van die fusionerende gemeente na de fusie behouden. De lijst van fusiegemeenten met de omslagwaarde voor het grondgebied van de fusionerende gemeente is opgenomen in bijlage III, die bij dit besluit is gevoegd.<br>
+<br>
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, kan bijlage I, II en III aanpassen naar aanleiding van de fusie van gemeenten.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -78,13 +89,24 @@ De VMM - vanaf de datum waarop het decreet van 7 mei 2004 in werking treedt het 
 
 ### ART. 10.
 
-§ 1. Na de ontvangst van het aangepaste ontwerp van zoneringsplan van de   gemeente beschikt de VMM over een termijn van zestig kalenderdagen om dit   aangepaste ontwerp van zoneringsplan te verwerken tot een voorstel van   definitief zoneringsplan dat ze samen met de ingediende opmerkingen naar   aanleiding van het openbaar onderzoek, en haar standpunt bezorgt aan de Vlaamse   minister, bevoegd voor het Leefmilieu en het Waterbeleid.<BR><BR>§ 2. De Vlaamse   minister, bevoegd voor het Leefmilieu en het Waterbeleid, gaat na of het   zoneringsplan beantwoordt aan de criteria, vermeld in artikel 8, § 1, en of het   afgestemd is op het zoneringsplan van de omliggende gemeenten. Hij brengt de   eventuele noodzakelijke wijzigingen aan en stelt binnen een termijn van zestig   kalenderdagen, na ontvangst van het dossier, het definitieve zoneringsplan vast   bij een met redenen omkleed besluit en vermeldt daarin in het algemeen wat hij   over de ingediende opmerkingen heeft overwogen.<BR><BR>§ 3. Het definitieve   zoneringsplan wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad en   ligt ter inzage bij de gemeente.<BR><BR>§ 4. Het definitieve zoneringsplan wordt   vervolgens om de zes jaar getoetst. Indien een herziening nodig is, dan gebeurt   dit gelijktijdig en conform de procedure voor de vaststelling van   stroomgebiedbeheerplannen als vermeld in de artikelen 36 en 37 van het decreet   van 18 juli 2003 betreffende het integraal waterbeleid. <BR><BR>De definitieve   zoneringsplannen blijven in ieder geval van kracht tot de herziene definitieve   zoneringsplannen in het stroomgebiedbeheerplan zijn opgenomen en   bekendgemaakt.<BR><BR>Jaarlijks kan een actualisering gebeuren van de   definitieve zoneringsplannen voor wat betreft de overgang van de zone "het   collectief te optimaliseren buitengebied" naar het "collectief geoptimaliseerd   buitengebied" zoals vermeld in artikel 8, § 3. Deze jaarlijkse actualisering   gebeurt in het wateruitvoeringsprogramma zoals vermeld in artikel 66bis van het   decreet van 18 juli 2003 betreffende het integraal   waterbeleid.<BR>
+§ 1. Na de ontvangst van het aangepaste ontwerp van zoneringsplan van de gemeente beschikt de VMM over een termijn van zestig kalenderdagen om dit aangepaste ontwerp van zoneringsplan te verwerken tot een voorstel van definitief zoneringsplan dat ze samen met de ingediende opmerkingen naar aanleiding van het openbaar onderzoek, en haar standpunt bezorgt aan de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid, gaat na of het zoneringsplan beantwoordt aan de criteria, vermeld in artikel 8, § 1, en of het afgestemd is op het zoneringsplan van de omliggende gemeenten. Hij brengt de eventuele noodzakelijke wijzigingen aan en stelt binnen een termijn van zestig kalenderdagen, na ontvangst van het dossier, het definitieve zoneringsplan vast bij een met redenen omkleed besluit en vermeldt daarin in het algemeen wat hij over de ingediende opmerkingen heeft overwogen.<br>
+<br>
+§ 3. Het definitieve zoneringsplan wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad en ligt ter inzage bij de gemeente.<br>
+<br>
+§ 4. Het definitieve zoneringsplan wordt vervolgens om de zes jaar getoetst. Indien een herziening nodig is, dan gebeurt dit gelijktijdig en conform de procedure voor de vaststelling van stroomgebiedbeheerplannen als vermeld in de artikel 1.6.2.4 en 1.6.2.5 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.<br>
+De definitieve zoneringsplannen blijven in ieder geval van kracht tot de herziene definitieve zoneringsplannen in het stroomgebiedbeheerplan zijn opgenomen en bekendgemaakt.<br>
+<br>
+Jaarlijks kan een actualisering gebeuren van de definitieve zoneringsplannen voor wat betreft de overgang van de zone "het collectief te optimaliseren buitengebied" naar het "collectief geoptimaliseerd buitengebied" zoals vermeld in artikel 8, § 3. Deze jaarlijkse actualisering gebeurt in het wateruitvoeringsprogramma zoals vermeld in artikel 1.7.4.4 van het voormelde decreet.
 
 ## HOOFDSTUK IV Het uitvoeringsplan
 
 ### ART. 11.
 
-Na de opmaak van het definitieve zoneringsplan zal de VMM een   uitvoeringsplan opmaken.<BR><BR>Het uitvoeringsplan maakt een onderdeel uit van   de stroomgebiedbeheerplannen. Het uitvoeringsplan wordt goedgekeurd conform de   procedure voor de vaststelling van de stroomgebiedbeheerplannen als vermeld in   de artikelen 36 en 37 van het decreet van 18 juli 2003 betreffende het integraal   waterbeleid.<BR>
+Na de opmaak van het definitieve zoneringsplan zal de VMM een uitvoeringsplan opmaken.<br>
+<br>
+Het uitvoeringsplan maakt een onderdeel uit van de stroomgebiedbeheerplannen. Het uitvoeringsplan wordt goedgekeurd conform de procedure voor de vaststelling van de stroomgebiedbeheerplannen als vermeld in de artikel 1.6.2.4 en 1.6.2.5 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018.
 
 ## HOOFDSTUK V Wijzigingen in het besluit van de Vlaamse Regering van 1 februari 2002 met betrekking tot de subsidiëring van de aanleg door de gemeenten, gemeentebedrijven, intercommunales of intergemeentelijke samenwerkingsverbanden van openbare rioleringen, andere dan prioritaire rioleringen, en van de bouw door de gemeenten van kleinschalige rioolwaterzuiveringsinstallaties
 
@@ -102,1291 +124,30 @@ De Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid, is belast m
 
 ### BIJLAGE 1.
 
-<p>Omslagwaarde per gemeente, vermeld in artikel 1, 14°</p>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Gemeentenaam</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>Omslagwaarde</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Aalst</p>
-
-			<p>Aalter</p>
-
-			<p>Aarschot</p>
-
-			<p>Aartselaar</p>
-
-			<p>Affligem</p>
-
-			<p>Alken</p>
-
-			<p>Alveringem</p>
-
-			<p>Antwerpen</p>
-
-			<p>Anzegem</p>
-
-			<p>Ardooie</p>
-
-			<p>Arendonk</p>
-
-			<p>As</p>
-
-			<p>Asse</p>
-
-			<p>Assenede</p>
-
-			<p>Avelgem</p>
-
-			<p>Baarle-Hertog</p>
-
-			<p>Balen</p>
-
-			<p>Beernem</p>
-
-			<p>Beerse</p>
-
-			<p>Beersel</p>
-
-			<p>Begijnendijk</p>
-
-			<p>Bekkevoort</p>
-
-			<p>Beringen</p>
-
-			<p>Berlaar</p>
-
-			<p>Berlare</p>
-
-			<p>Bertem</p>
-
-			<p>Bever</p>
-
-			<p>Beveren</p>
-
-			<p>Bierbeek</p>
-
-			<p>Bilzen</p>
-
-			<p>Blankenberge</p>
-
-			<p>Bocholt</p>
-
-			<p>Boechout</p>
-
-			<p>Bonheiden</p>
-
-			<p>Boom</p>
-
-			<p>Boortmeerbeek</p>
-
-			<p>Borgloon</p>
-
-			<p>Bornem</p>
-
-			<p>Borsbeek</p>
-
-			<p>Boutersem</p>
-
-			<p>Brakel</p>
-
-			<p>Brasschaat</p>
-
-			<p>Brecht</p>
-
-			<p>Bredene</p>
-
-			<p>Bree</p>
-
-			<p>Brugge</p>
-
-			<p>Buggenhout</p>
-
-			<p>Damme</p>
-
-			<p>Deerlijk</p>
-
-			<p>De Haan</p>
-
-			<p>Deinze</p>
-
-			<p>Denderleeuw</p>
-
-			<p>Dendermonde</p>
-
-			<p>Dentergem</p>
-
-			<p>De Panne</p>
-
-			<p>De Pinte</p>
-
-			<p>Dessel</p>
-
-			<p>Destelbergen</p>
-
-			<p>Diepenbeek</p>
-
-			<p>Diest</p>
-
-			<p>Diksmuide</p>
-
-			<p>Dilbeek</p>
-
-			<p>Dilsen-Stokkem</p>
-
-			<p>Drogenbos</p>
-
-			<p>Duffel</p>
-
-			<p>Edegem</p>
-
-			<p>Eeklo</p>
-
-			<p>Erpe-Mere</p>
-
-			<p>Essen</p>
-
-			<p>Evergem</p>
-
-			<p>Galmaarden</p>
-
-			<p>Gavere</p>
-
-			<p>Geel</p>
-
-			<p>Geetbets</p>
-
-			<p>Genk</p>
-
-			<p>Gent</p>
-
-			<p>Geraardsbergen</p>
-
-			<p>Gingelom</p>
-
-			<p>Gistel</p>
-
-			<p>Glabbeek</p>
-
-			<p>Gooik</p>
-
-			<p>Grimbergen</p>
-
-			<p>Grobbendonk</p>
-
-			<p>Haacht</p>
-
-			<p>Haaltert</p>
-
-			<p>Halen</p>
-
-			<p>Halle</p>
-
-			<p>Ham</p>
-
-			<p>Hamme</p>
-
-			<p>Hamont-Achel</p>
-
-			<p>Harelbeke</p>
-
-			<p>Hasselt</p>
-
-			<p>Hechtel-Eksel</p>
-
-			<p>Heers</p>
-
-			<p>Heist-op-den-Berg</p>
-
-			<p>Hemiksem</p>
-
-			<p>Herent</p>
-
-			<p>Herentals</p>
-
-			<p>Herenthout</p>
-
-			<p>Herk-de-Stad</p>
-
-			<p>Herne</p>
-
-			<p>Herselt</p>
-
-			<p>Herstappe</p>
-
-			<p>Herzele</p>
-
-			<p>Heusden-Zolder</p>
-
-			<p>Heuvelland</p>
-
-			<p>Hoegaarden</p>
-
-			<p>Hoeilaart</p>
-
-			<p>Hoeselt</p>
-
-			<p>Holsbeek</p>
-
-			<p>Hooglede</p>
-
-			<p>Hoogstraten</p>
-
-			<p>Horebeke</p>
-
-			<p>Houthalen-Helchteren</p>
-
-			<p>Houthulst</p>
-
-			<p>Hove</p>
-
-			<p>Huldenberg</p>
-
-			<p>Hulshout</p>
-
-			<p>Ichtegem</p>
-
-			<p>Ieper</p>
-
-			<p>Ingelmunster</p>
-
-			<p>Izegem</p>
-
-			<p>Jabbeke</p>
-
-			<p>Kalmthout</p>
-
-			<p>Kampenhout</p>
-
-			<p>Kapellen</p>
-
-			<p>Kapelle-op-den-Bos</p>
-
-			<p>Kaprijke</p>
-
-			<p>Kasterlee</p>
-
-			<p>Keerbergen</p>
-
-			<p>Kinrooi</p>
-
-			<p>Kluisbergen</p>
-
-			<p>Knesselare</p>
-
-			<p>Knokke-Heist</p>
-
-			<p>Koekelaere</p>
-
-			<p>Koksijde</p>
-
-			<p>Kontich</p>
-
-			<p>Kortemark</p>
-
-			<p>Kortenaken</p>
-
-			<p>Kortenberg</p>
-
-			<p>Kortessem</p>
-
-			<p>Kortrijk</p>
-
-			<p>Kraainem</p>
-
-			<p>Kruibeke</p>
-
-			<p>Kruishoutem</p>
-
-			<p>Kuurne</p>
-
-			<p>Laakdal</p>
-
-			<p>Laarne</p>
-
-			<p>Lanaken</p>
-
-			<p>Landen</p>
-
-			<p>Langemark-Poelkapelle</p>
-
-			<p>Lebbeke</p>
-
-			<p>Lede</p>
-
-			<p>Ledegem</p>
-
-			<p>Lendelede</p>
-
-			<p>Lennik</p>
-
-			<p>Leopoldsburg</p>
-
-			<p>Leuven</p>
-
-			<p>Lichtervelde</p>
-
-			<p>Liedekerke</p>
-
-			<p>Lier</p>
-
-			<p>Lierde</p>
-
-			<p>Lille</p>
-
-			<p>Linkebeek</p>
-
-			<p>Lint</p>
-
-			<p>Linter</p>
-
-			<p>Lochristi</p>
-
-			<p>Lokeren</p>
-
-			<p>Lommel</p>
-
-			<p>Londerzeel</p>
-
-			<p>Lo-Reninge</p>
-
-			<p>Lovendegem</p>
-
-			<p>Lubbeek</p>
-
-			<p>Lummen</p>
-
-			<p>Maarkedal</p>
-
-			<p>Maaseik</p>
-
-			<p>Maasmechelen</p>
-
-			<p>Machelen</p>
-
-			<p>Maldegem</p>
-
-			<p>Malle</p>
-
-			<p>Mechelen</p>
-
-			<p>Meerhout</p>
-
-			<p>Meeuwen-Gruitrode</p>
-
-			<p>Meise</p>
-
-			<p>Melle</p>
-
-			<p>Menen</p>
-
-			<p>Merchtem</p>
-
-			<p>Merelbeke</p>
-
-			<p>Merksplas</p>
-
-			<p>Mesen</p>
-
-			<p>Meulebeke</p>
-
-			<p>Middelkerke</p>
-
-			<p>Moerbeke</p>
-
-			<p>Mol</p>
-
-			<p>Moorslede</p>
-
-			<p>Mortsel</p>
-
-			<p>Nazareth</p>
-
-			<p>Neerpelt</p>
-
-			<p>Nevele</p>
-
-			<p>Niel</p>
-
-			<p>Nieuwerkerken</p>
-
-			<p>Nieuwpoort</p>
-
-			<p>Nijlen</p>
-
-			<p>Ninove</p>
-
-			<p>Olen</p>
-
-			<p>Oostende</p>
-
-			<p>Oosterzele</p>
-
-			<p>Oostkamp</p>
-
-			<p>Oostrozebeke</p>
-
-			<p>Opglabbeek</p>
-
-			<p>Opwijk</p>
-
-			<p>Oudenaarde</p>
-
-			<p>Oudenburg</p>
-
-			<p>Oud-Heverlee</p>
-
-			<p>Oud-Turnhout</p>
-
-			<p>Overijse</p>
-
-			<p>Overpelt</p>
-
-			<p>Peer</p>
-
-			<p>Pepingen</p>
-
-			<p>Pittem</p>
-
-			<p>Poperinge</p>
-
-			<p>Putte</p>
-
-			<p>Puurs</p>
-
-			<p>Ranst</p>
-
-			<p>Ravels</p>
-
-			<p>Retie</p>
-
-			<p>Riemst</p>
-
-			<p>Rijkevorsel</p>
-
-			<p>Roeselaere</p>
-
-			<p>Ronse</p>
-
-			<p>Roosdaal</p>
-
-			<p>Rotselaar</p>
-
-			<p>Ruiselede</p>
-
-			<p>Rumst</p>
-
-			<p>Schelle</p>
-
-			<p>Scherpenheuvel-Zichem</p>
-
-			<p>Schilde</p>
-
-			<p>Schoten</p>
-
-			<p>Sint-Amands</p>
-
-			<p>Sint-Genesius-Rode</p>
-
-			<p>Sint-Gillis-Waas</p>
-
-			<p>Sint-Katelijne-Waver</p>
-
-			<p>Sint-Laureins</p>
-
-			<p>Sint-Lievens-Houtem</p>
-
-			<p>Sint-Martens-Latem</p>
-
-			<p>Sint-Niklaas</p>
-
-			<p>Sint-Pieters-Leeuw</p>
-
-			<p>Sint-Truiden</p>
-
-			<p>Spiere-Helkijn</p>
-
-			<p>Stabroek</p>
-
-			<p>Staden</p>
-
-			<p>Steenokkerzeel</p>
-
-			<p>Stekene</p>
-
-			<p>Temse</p>
-
-			<p>Ternat</p>
-
-			<p>Tervuren</p>
-
-			<p>Tessenderlo</p>
-
-			<p>Tielt</p>
-
-			<p>Tielt-Winge</p>
-
-			<p>Tienen</p>
-
-			<p>Tongeren</p>
-
-			<p>Torhout</p>
-
-			<p>Tremelo</p>
-
-			<p>Turnhout</p>
-
-			<p>Veurne</p>
-
-			<p>Vilvoorde</p>
-
-			<p>Vleteren</p>
-
-			<p>Voeren</p>
-
-			<p>Vorselaar</p>
-
-			<p>Vosselaar</p>
-
-			<p>Waarschoot</p>
-
-			<p>Waasmunster</p>
-
-			<p>Wachtebeke</p>
-
-			<p>Waregem</p>
-
-			<p>Wellen</p>
-
-			<p>Wemmel</p>
-
-			<p>Wervik</p>
-
-			<p>Westerlo</p>
-
-			<p>Wetteren</p>
-
-			<p>Wevelgem</p>
-
-			<p>Wezembeek-Oppem</p>
-
-			<p>Wichelen</p>
-
-			<p>Wielsbeke</p>
-
-			<p>Wijnegem</p>
-
-			<p>Willebroek</p>
-
-			<p>Wingene</p>
-
-			<p>Wommelgem</p>
-
-			<p>Wortegem-Petegem</p>
-
-			<p>Wuustwezel</p>
-
-			<p>Zandhoven</p>
-
-			<p>Zaventem</p>
-
-			<p>Zedelgem</p>
-
-			<p>Zele</p>
-
-			<p>Zelzate</p>
-
-			<p>Zemst</p>
-
-			<p>Zingem</p>
-
-			<p>Zoersel</p>
-
-			<p>Zomergem</p>
-
-			<p>Zonhoven</p>
-
-			<p>Zonnebeke</p>
-
-			<p>Zottegem</p>
-
-			<p>Zoutleeuw</p>
-
-			<p>Zuienkerke</p>
-
-			<p>Zulte</p>
-
-			<p>Zutendaal</p>
-
-			<p>Zwalm</p>
-
-			<p>Zwevegem</p>
-
-			<p>Zwijndrecht</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>750</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>2000</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>400</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>400</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>1000</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>400</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>500</p>
-
-			<p>2000</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>500</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>500</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>750</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>750</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>500</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>500</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>500</p>
-
-			<p>300</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>200</p>
-
-			<p>300</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>200</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>100</p>
-
-			<p>200</p>
-
-			<p>100</p>
-
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/03/04_1.pdf#page=29">Bijlage 1</a>
 
 ## Bijlage II lijst van landelijke deelgemeenten, vermeld in [artikel 2, § 2 (verv. BVR 21 december 2018, art. 4, I: 1 januari 2019)]
 
 ### BIJLAGE 2.
 
-Lijst van landelijke deelgemeenten, vermeld in artikel 1, 14°<br>
+Lijst van landelijke deelgemeenten, vermeld in artikel 2, § 2<br>
 <br>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Gemeente</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Deelgemeente met omslagwaarde 100 IE</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Gent</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Afsnee</p>
 
 			<p>Desteldonk</p>
@@ -1397,44 +158,44 @@ Lijst van landelijke deelgemeenten, vermeld in artikel 1, 14°<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Brugge</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Dudzele</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Aalst</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Baardegem</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Mechelen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Heffen</p>
 
 			<p>Walem</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Kortrijk</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Kooigem</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Hasselt</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wimmertingen</p>
 
 			<p>Spalbeek</p>
@@ -1443,10 +204,10 @@ Lijst van landelijke deelgemeenten, vermeld in artikel 1, 14°<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Roeselare</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Oekene</p>
 			</td>
 		</tr>
@@ -1456,3 +217,7 @@ Lijst van landelijke deelgemeenten, vermeld in artikel 1, 14°<br>
 <p>&nbsp;</p>
 
 ## [Bijlage III lijst van fusiegemeenten met de omslagwaarde voor het grondgebied van de fusionerende gemeente als vermeld in artikel 2, § 2 (ing. BVR 21 december 2018, art. 5, I: 1 januari 2019)]
+
+### BIJLAGE 3
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/03/04_1.pdf#page=36">Bijlage III</a>
