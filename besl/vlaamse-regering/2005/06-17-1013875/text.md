@@ -35,7 +35,13 @@ De management- en projectleiderfuncties van N-niveau [en de functie voor algemee
 
 ### ART. 5.
 
-[§ 1.  <span class="reference">(ing. B.V.R. 9 september 2005, art. 2)</span> ] De functie van algemeen directeur, bedoeld in de artikelen 6, 10 en 22 van het Kaderdecreet bestuurlijk beleid [en in de departementen zoals bedoeld in artikel 3 van het kaderdecreet Bestuurlijk beleid  <span class="reference">(ing. B.V.R. 9 september 2005, art. 2, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006 )</span> ], is een functie die zich organiek en functioneel situeert tussen het N-niveau en het N-niveau -1.<br /><br />De algemeen directeur staat het hoofd van het agentschap [of van het departement  <span class="reference">(ing. B.V.R. 9 september 2005, art. 2, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006)</span> ]die is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap [of van het departement  <span class="reference">(ing. B.V.R. 9 september 2005, art. 2, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006 )</span> ] bij.<br /><br />[ ...  <span class="reference">(opgeh. B.V.R. 9 september 2005, art. 2, I :18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006 )</span> ]<br /><br />[§ 2. In de agentschappen wordt de functie van algemeen directeur voorzien in de organieke, instellingsspecifieke regeling of in het personeelsplan. De algemeen directeur maakt er desgevallend met raadgevende stem deel uit van de raad van bestuur.<br /><br />§ 3. In de departementen wordt de functie van algemeen directeur voorzien in de personeelsplannen.  <span class="reference">(ing. B.V.R. 9 september 2005, art. 2, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006 )</span> ]
+§ 1.&nbsp;De functie van algemeen directeur, vermeld in artikel III.6, eerste lid, en III.9, § 1, van het bestuursdecreet van 7 december 2018, en in artikel 1quater, § 2, van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, en in de departementen, is een functie die zich organiek en functioneel situeert tussen het N-niveau en het N-niveau -1.<br>
+<br>
+De algemeen directeur staat het hoofd van het agentschap of van het departement&nbsp;die is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap of van het departement&nbsp;bij.<br>
+<br>
+§ 2. In de agentschappen wordt de functie van algemeen directeur voorzien in de organieke, instellingsspecifieke regeling of in het personeelsplan. De algemeen directeur maakt er desgevallend met raadgevende stem deel uit van de raad van bestuur.<br>
+<br>
+§ 3. In de departementen wordt de functie van algemeen directeur voorzien in de personeelsplannen.
 
 ## HOOFDSTUK 2 DE SELECTIE VOOR DE MANAGEMENT- EN PROJECTLEIDERFUNCTIES VAN N-NIVEAU EN VOOR DE FUNCTIES VAN ALGEMEEN DIRECTEUR
 
@@ -77,7 +83,7 @@ Het vereiste profiel bevat:<br>
 
 ### ART. 12.
 
-§ 1. Wanneer in toepassing van de artikelen 8, 10, § 4, en 14 van het Kaderdecreet bestuurlijk beleid nog geen beheersovereenkomst is gesloten stelt het hoofd van het agentschap aan de opdrachtgever een beheersovereenkomst voor binnen 6 maanden na zijn aanstelling en voor een periode die eindigt uiterlijk negen maanden na de beëdiging van een nieuwe Vlaamse Regering na de algehele vernieuwing van het Vlaams Parlement.<br /><br />§ 2. Wanneer een hoofd van een agentschap wordt aangesteld en er reeds een beheersovereenkomst werd gesloten, aanvaardt het hoofd van het agentschap bij zijn aanstelling deze beheersovereenkomst voor de lopende periode, tenzij hijzelf of de opdrachtgever vraagt een nieuwe overeenkomst op te stellen.
+...
 
 ## HOOFDSTUK 5 DE ARBEIDSVOORWAARDEN
 
@@ -117,15 +123,15 @@ Wanneer de eindevaluatie bedoeld in artikel 15, § 2, niet resulteert in een ein
 
 ### ART. 19.
 
-<span class="reference">(verv. B.V.R. 9 september 2005, art. 8)</span> ] In uitvoering van artikel 39, §§ 2, 3 en 4, van het Kaderdecreet bestuurlijk beleid en met inachtneming van artikel 41 van datzelfde decreet, gebeurt, naar aanleiding van de eerste bezetting, de herplaatsing van de in §§ 2 en 3 van datzelfde artikel vermelde leidinggevenden, door de indienstnemende overheid na bemiddeling van Jobpunt Vlaanderen of zijn rechtsopvolger.<br /><br />Indien voor de toepassing van het eerste lid beroep gedaan wordt op een externe instantie, legt de Vlaamse minister, bevoegd voor Personeel en Organisatie de instantie die voorgedragen wordt door Jobpunt Vlaanderen ter bekrachtiging voor aan de Vlaamse Regering.<br /><br />Jobpunt Vlaanderen of zijn rechtsopvolger, legt bij wijze van voorstel aan de in dienstnemende overheid per functie een beperkte lijst van geschikte kandidaten voor met het oog op de toewijzing van de voormelde leidinggevenden aan een management- of projectleiderfunctie van N-niveau [of aan een functie van algemeen directeur.  <span class="reference">(verv. B.V.R. 9 september 2005, art. 8, I :18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006)</span> ] Dit voorstel wordt geformuleerd op basis van alle relevante informatie in functie van de functiebeschrijving en het competentieprofiel.
+...
 
 ### ART. 20.
 
-<span class="reference">(verv. B.V.R. 9 september 2005, art. 9)</span> ] In uitvoering van hetgeen is bepaald in artikel 40, 1°, van het Kaderdecreet bestuurlijk beleid biedt de Vlaamse Regering, na overleg met het betrokken personeelslid, aan het vast benoemde personeelslid van rang A4, A3 of A2L of het personeelslid dat in zulke rang benoemd is geweest en dat niet toegewezen wordt aan een management- of projectleiderfunctie van N-niveau [of aan een functie van algemeen directeur,  <span class="reference">(verv. B.V.R. 9 september 2005, art. 9, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006)</span> ] een gelijkwaardige en passende functie aan.<br /><br />Van het vorige lid kan worden afgeweken wanneer de betrokkene uitdrukkelijk verzoekt om in een lagere functie te worden geplaatst. In voorkomend geval kan voormelde herplaatsing niet lager zijn dan in een functie van het N-niveau -1.<br /><br />De betrokkenen vermeld in de vorige leden behouden in ieder geval de salarisschaal verbonden aan respectievelijk de rang A4, A3 of A2L. Zij behouden hun graad ten persoonlijke titel.
+...
 
 ### ART. 21.
 
-<span class="reference">(verv. B.V.R. 9 september 2005, art. 10)</span> ] Na toepassing van de maatregelen vermeld in de [artikelen 19 en 20  <span class="reference">(verv. B.V.R. 9 september 2005, art. 12, I : 18 november 2005. Zie B.V.R. 25 november 2005, B.S., 10 januari 2006)</span> ] en onverminderd de toepassing van artikel 41 van het Kaderdecreet bestuurlijk beleid, verklaart de in dienstnemende overheid de resterende management- en projectleiderfuncties van het N-niveau of de resterende functies van algemeen directeur vacant.
+...
 
 ### ART. 22.
 
