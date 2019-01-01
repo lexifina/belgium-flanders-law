@@ -2,16 +2,16 @@
   "codex_id": 1015652,
   "title": "Ministerieel besluit van 2007-03-05 tot bepaling van de standaard voor de titel van zelfstandige kapper",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015652/VolledigDocument?datum=2007-03-26",
-  "source_sha256": "1ba915ad32bee09e3f3bae11d7a2d53184c683a6e7ee206068e1fe48d2414512",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015652/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c8a562315cd1cbf7f8c458306452c16a505be431cfbcad911b07e2a1645205dd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015652&param=informatie",
-  "as_of": "2007-03-26",
+  "as_of": "2019-01-01",
   "made": "2007-03-05",
   "gazette": "2007-03-26",
   "numac": 2007035417,
   "document_start": "2007-03-26",
   "document_end": "2018-12-31",
-  "in_force": "2007-03-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
