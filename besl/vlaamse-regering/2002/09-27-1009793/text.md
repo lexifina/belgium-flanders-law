@@ -22,7 +22,9 @@ b) de inrichtende macht van een instelling voor deeltijds kunstonderwijs;<br>
 
 ### ART. 2.
 
-De minister stelt de leden en hun plaatsvervangers aan.<br /><br />De secretaris-generaal van het departement Onderwijs van het Ministerie van de Vlaamse Gemeenschap wijst een ambtenaar aan, die fungeert als secretaris van de Commissie.
+De minister stelt de leden en hun plaatsvervangers aan.<br>
+<br>
+De administrateur-generaal van het Agentschap voor Onderwijsdiensten wijst een ambtenaar aan, die fungeert als secretaris van de Commissie.
 
 ### ART. 3.
 
@@ -41,9 +43,13 @@ Bij het vroegtijdig beëindigen van het mandaat van effectief lid, voltooit de p
 
 De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 4.000 euro.<br>
 <br>
-De vergoeding wordt jaarlijks aangepast, rekening houdend met het indexcijfer der consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, en dit indexcijfer wordt voor 75 % toegepast.<br>
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
-De andere leden dan de voorzitter ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de regeling van de rechtspositie van toepassing op het personeel van het ministerie van de Vlaamse Gemeenschap.<br>
+De andere leden dan de voorzitter die deelnemen aan een zitting, ontvangen een forfaitaire vergoeding per zitting van 125 euro tegen 100 %, met een maximum van tien zittingen per jaar. Een lid kan afzien van deze vergoeding.<br>
+<br>
+De vergoeding volgt de evolutie van het gezondheidsindexcijfer overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het rijk worden gekoppeld, zoals gewijzigd door het koninklijk besluit nr. 178 van 30 december 1982 en onverminderd artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De vergoeding wordt gekoppeld aan de spilindex 138, 01.<br>
+<br>
+De voorzitter en de leden ontvangen een terugbetaling van de reis- en verblijfskosten overeenkomstig de geldende reglementering die van toepassing is op de personeelsleden van de Vlaamse overheid.<br>
 <br>
 De secretaris ontvangt een jaarlijkse forfaitaire vergoeding van 500 euro als de zittingen geheel of gedeeltelijk plaatsvinden buiten de normale diensttijd.
 
