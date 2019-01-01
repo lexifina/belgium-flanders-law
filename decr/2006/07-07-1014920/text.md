@@ -12,7 +12,12 @@ In dit decreet wordt verstaan onder :<br />1° mobiliteit : het aantal personen 
 
 ### ART. 3.
 
-Binnen de Sociaal-Economische Raad van Vlaanderen wordt er een strategische adviesraad Mobiliteitsraad van Vlaanderen, afgekort de MORA, opgericht, zoals bedoeld in artikel 3 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden.<br /><br />Hij heeft geen rechtspersoonlijkheid. De Vlaamse Regering bepaalt tot welk beleidsdomein de strategische adviesraad behoort.<br /><br />Onder voorbehoud van de toepassing van de bepalingen in dit decreet, zijn de bepalingen van het decreet van 18 juli 2003 tot regeling van strategische adviesraden van toepassing op de MORA.<br /><br />
+Binnen de Sociaal-Economische Raad van Vlaanderen wordt er een strategische adviesraad Mobiliteitsraad van Vlaanderen, afgekort de MORA, opgericht, als vermeld in artikel III.93 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+Hij heeft geen rechtspersoonlijkheid. De Vlaamse Regering bepaalt tot welk beleidsdomein de strategische adviesraad behoort.<br>
+<br>
+Onder voorbehoud van de toepassing van de bepalingen in dit decreet, zijn de bepalingen van titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 van toepassing op de MORA.<br>
+&nbsp;
 
 ## HOOFDSTUK II Taakomschrijving
 
