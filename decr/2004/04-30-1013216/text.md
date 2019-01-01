@@ -82,7 +82,13 @@ De Vlaamse regering kan, na advies van de SERV, de nadere regels bepalen voor de
 
 ### ART. 16.
 
-Elke intermediaire organisatie die niet onderworpen is aan de verplichting een klachtenvoorziening in te stellen krachtens het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen of die niet onderworpen is aan een klachtenprocedure, ingesteld krachtens artikel 21 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling, is verplicht een procedure in te stellen voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over haar handelingen en werking. Deze procedure voldoet minstens aan de bepalingen van artikel 5, eerste lid, en artikelen 6 tot 11 van het decreet van 1 juni 2001. Zij bepaalt op welke wijze gevolg wordt gegeven aan een klacht die gegrond wordt bevonden.<br /><br />Daarnaast heeft de werkzoekende die meent dat zijn rechten, zoals bepaald in dit decreet, worden geschonden, het recht hiertegen een klacht in te dienen bij een hiertoe door de Vlaamse regering gemachtigd orgaan, volgens de door de Vlaamse regering bepaalde klachtenprocedure.<br /><br />De Vlaamse regering kan, na advies van de SERV, voorzien in een beroepsprocedure tegen de bepaalde beslissingen die worden genomen door of in opdracht van publieke of door de overheid gesubsidieerde intermediaire organisaties.<br /><br />De intermediaire organisaties zijn ertoe gehouden de beslissing van de beroepsinstantie te respecteren.
+Elke intermediaire organisatie die niet onderworpen is aan de verplichting een klachtenvoorziening in te stellen krachtens&nbsp;titel II, hoofdstuk 5, van het Bestuursdecreet van 7 december 2018 of die niet onderworpen is aan een klachtenprocedure, ingesteld krachtens artikel 21 van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling, is verplicht een procedure in te stellen voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over haar handelingen en werking. Deze procedure voldoet minstens aan de bepalingen van artikel II.76, § 2, II.77, II.80, II.81, II.83 en II.86 van het Bestuursdecreet van 7 december 2018. Zij bepaalt op welke wijze gevolg wordt gegeven aan een klacht die gegrond wordt bevonden.<br>
+<br>
+Daarnaast heeft de werkzoekende die meent dat zijn rechten, zoals bepaald in dit decreet, worden geschonden, het recht hiertegen een klacht in te dienen bij een hiertoe door de Vlaamse regering gemachtigd orgaan, volgens de door de Vlaamse regering bepaalde klachtenprocedure.<br>
+<br>
+De Vlaamse regering kan, na advies van de SERV, voorzien in een beroepsprocedure tegen de bepaalde beslissingen die worden genomen door of in opdracht van publieke of door de overheid gesubsidieerde intermediaire organisaties.<br>
+<br>
+De intermediaire organisaties zijn ertoe gehouden de beslissing van de beroepsinstantie te respecteren.
 
 ## HOOFDSTUK IV TOEZICHT EN SANCTIES
 
