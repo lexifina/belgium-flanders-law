@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029288,
+  "title": "Besluit van de Vlaamse Regering van 2018-04-20 tot vaststelling van de wijze van communicatie tussen het lokaal bestuur, de indiener van de klacht en de toezichthoudende overheid in het kader van het bestuurlijk toezicht op het lokaal bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029288/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "760fe02e75151ab6549a61ff2ba73a6cb6b5c3af178f9d577a7f0a972d442d50",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029288&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-04-20",
+  "gazette": "2018-05-15",
+  "numac": 2018012003,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
