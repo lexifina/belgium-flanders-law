@@ -4064,7 +4064,7 @@ Bijlage III.<br>
 	</tbody>
 </table>
 <br>
-Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.
+Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden. * Het maximumgewicht van de partij mag worden verhoogd tot 25 ton als de leverancier daartoe door de bevoegde autoriteit gemachtigd is.
 
 ### BIJLAGE IV
 
