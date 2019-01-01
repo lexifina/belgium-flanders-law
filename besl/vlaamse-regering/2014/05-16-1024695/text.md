@@ -23,8 +23,9 @@ In dit besluit wordt verstaan onder:<br>
 5° beleidsprioriteiten: de beleidsdoelstellingen die de Vlaamse Regering formuleert en waarbij ze, al dan niet met een subsidieregeling, de lokale besturen aanmoedigt of verplicht om binnen de geformuleerde doelstellingen een eigen lokaal beleid te voeren;<br>
 6° bijwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die, door niet voorzienbare omstandigheden, tijdens de uitvoering van goedgekeurde werkzaamheden of beheersmaatregelen noodzakelijk blijken en niet vermeld zijn in de kostenraming op basis waarvan de erfgoedpremie werd toegekend;<br>
 7° Commissie: de Vlaamse Commissie Onroerend Erfgoed, vermeld in artikel 3.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-8° cultuurgoederen: roerende goederen, die omwille van hun erfgoedwaarde van algemeen belang zijn, waarvan het samen voorkomen met het gebouw een bijzondere waarde heeft en die ofwel ontworpen zijn voor of vervaardigd met het beschermd goed ofwel gerelateerd zijn aan de functie van het beschermd goed en waarvoor historische verbondenheid met het beschermd goed kan aangetoond worden. Voor beschermde onroerende goederen in eigendom van privé-personen of -rechtspersonen moeten de cultuurgoederen opgenomen zijn in een beschermingsbesluit of een goedgekeurd beheersplan of er moet voorheen voor het beheer ervan een premie verleend zijn opdat ze als cultuurgoederen beschouwd kunnen worden;<br>
+8° ...<br>
 9° discipline: een bepaald vakgebied, specialisme of beroep binnen de onroerenderfgoedsector;<br>
+9° /1 erfgoedgemeenschap: een gemeenschap die bestaat uit organisaties en personen die een bijzondere waarde hechten aan het onroerend erfgoed, en die dat onroerend erfgoed wil behouden en doorgeven aan de toekomstige generaties;<br>
 10° forfaitaire werkzaamheden: de werkzaamheden of diensten, opgenomen in een door de minister vastgestelde lijst, die op forfaitaire basis overeenkomstig de bedragen, vermeld in die lijst, in aanmerking komen voor de toekenning van een erfgoed- of onderzoekspremie;<br>
 10° /1 geïntegreerd beheersplan: een beheersplan waarin één gebiedsgerichte beheerplanning voor een onroerend erfgoed, voor erfgoedlandschappen, een natuurdomein of voor een ander terrein, beheerd ten behoeve van het natuurbehoud wordt vooropgesteld, en/of waarbij in geval van het overlappen van de verschillende beschermingsstatuten de verschillende beleidsdoelstellingen op elkaar worden afgestemd. Dat geïntegreerde beheersplan omvat steeds de verschillende beheerdoelstellingen en garandeert één afgestemde gebiedsgerichte visie binnen de geldende regelgeving;<br>
 11° gespecialiseerde werkzaamheden:<br>
@@ -49,10 +50,15 @@ b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monu
 15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
 16° ...;<br>
 16° /1 natuurdomein: een terrein als vermeld in artikel 2, punt 55°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+16° /2 onderhoudslogboek: een overzicht van de maatregelen die zijn genomen om onroerend erfgoed of erfgoedlandschappen in goede staat te behouden, te verbeteren of te ontwikkelen. Het onderhoudslogboek toont aan dat het consequent wordt beheerd, fysisch gezond blijft of gunstig evolueert. Het onderhoudslogboek:<br>
+a) bevat regelmatige toestandsrapporten;<br>
+b) interageert, in voorkomend geval, met de beheersdoelstellingen geformuleerd in een goedgekeurd beheersplan, en de richtlijnen, eenmalige en terugkerende maatregelen en werkzaamheden die met het oog daarop zijn voorzien;<br>
+c) is, als er geen goedgekeurd beheersplan voorhanden is, het referentiedocument en bevat altijd een toestandsrapport dat is opgemaakt aan het begin van de periode waarover wordt gerapporteerd, en een actueel toestandsrapport;<br>
+d) omvat, in het geval van open erfgoed, indicatoren die specifiek inspelen op de erkenningsvoorwaarden voor open erfgoed;<br>
 17° onderwijsgebouw: een onroerend goed dat op grond van zijn onderwijsbestemming vrijgesteld is van de onroerende voorheffing;<br>
 18° onroerenderfgoedactoren: de betrokkenen en belanghebbenden bij de zorg voor het onroerend erfgoed op het grondgebied van de gemeente;<br>
 19° ontwerper: de natuurlijke persoon of rechtspersoon die het ontwerp maakt van de werkzaamheden of diensten aan of in beschermde goederen of in erfgoedlandschappen, en ze begeleidt en controleert of het beheersplan opmaakt;<br>
-20° open erfgoed: een beschermd goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, dat op&nbsp;exemplarische wijze en op regelmatige basis opengesteld wordt met het doel het grote publiek op een actieve en sprekende manier inzicht te geven in de erfgoedwaarde van het goed, waarbij het integraal benaderd wordt, en waarvan de erkenning vermeld is in de beslissing waarbij het beheersplan werd goedgekeurd;<br>
+20° open erfgoed: een beschermd goed of een erfgoedlandschap, dat geheel of gedeeltelijk opengesteld wordt en als zodanig is erkend door het agentschap;<br>
 21° post: een gedetailleerde omschrijving per onderdeel van de te leveren goederen, diensten en te verrichten werkzaamheden;<br>
 22° premienemer: elkeen die opdrachtgever is van de beheersmaatregelen, werkzaamheden, diensten, voorafgaande onderzoeken of de opmaak van het beheersplan en die de kosten ervan draagt;<br>
 22° /1 premie voor buitensporige opgravingskosten: de premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
@@ -60,9 +66,10 @@ b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monu
 24° regulier onderhoud: de preventieve en periodieke onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed, die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem hebben;<br>
 24° /1 terrein beheerd ten behoeve van het natuurbehoud: een terrein dat beheerd wordt conform de bepalingen van hoofdstuk IIIbis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd volgens de bijzondere procedure, wordt vastgesteld;<br>
+25° /1 toestandsrapport: een rapport over de fysische staat van onroerend erfgoed of erfgoedlandschappen waaruit de vereiste beheersmaatregelen kunnen worden afgelezen. Een toestandsrapport kan evaluaties en beheersaanbevelingen bevatten. Het rapport wordt gestaafd met duidelijk beeldmateriaal;<br>
 26° uitvoerder: de natuurlijke persoon of rechtspersoon, die het beheer van of de werkzaamheden aan onroerend erfgoed en erfgoedlandschappen uitvoert;<br>
 27° voorafgaand onderzoek: elke vorm van voorbereidend onderzoek dat noodzakelijk is voor het kwaliteitsvolle beheer of de herwaardering van een beschermd goed of een erfgoedlandschap en waarvan verondersteld mag worden dat het buiten de gebruikelijke opdracht van een eventuele ontwerper valt, met inbegrip van de werkzaamheden die nodig zijn om dat onderzoek uit te voeren;<br>
-28° ZEN-erfgoed: beschermde onroerende goederen of onroerende goederen gelegen in een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, dat niet van dien aard is dat het economisch nut kan hebben, en dat uitdrukkelijk als dusdanig erkend is in de beslissing waarbij het beheersplan werd goedgekeurd.
+28° ZEN-erfgoed: beschermde onroerende goederen, erfgoedlandschappen of zelfstandige onderdelen ervan, die geen doorslaggevend economisch nut kunnen hebben of waarvan het beheer geen doorslaggevend economisch nut genereert.
 
 ## HOOFDSTUK 3 Instanties en actoren van het onroerenderfgoedbeleid
 
@@ -86,7 +93,7 @@ De Commissie bestaat uit:<BR>1° veertien leden met expertise in minstens   éé
 
 ### ART. 3.1.5.
 
-De Commissie legt binnen de drie maanden na de benoeming van haar leden   een voorstel van huishoudelijk reglement ter goedkeuring voor aan de   minister.<BR>
+De Commissie legt binnen een termijn van negentig dagen, die ingaat op de dag na de benoeming van haar leden een voorstel van huishoudelijk reglement ter goedkeuring voor aan de minister.
 
 ### ART. 3.1.6.
 
@@ -168,7 +175,7 @@ Uiterlijk op 31 juli van elk jaar rapporteert de erkende   onroerenderfgoedgemee
 
 ### ART. 3.2.10.
 
-Als de erkende onroerenderfgoedgemeente niet voldoet aan de   erkenningsvoorwaarden of aan de rapporteringsverplichtingen, als de rapportering   manifest onduidelijk is of als de gemeente onvoldoende aantoont dat ze de   vooropgestelde doelstellingen heeft nagestreefd, maakt de minister uiterlijk   drie maanden na de ontvangst van de rapportering of, bij gebrek aan rapportering   uiterlijk drie maanden na de uiterste indieningsdatum, per beveiligde zending   bezwaar bij de gemeente. De gemeente bezorgt, binnen twee maanden na de   ontvangst van het bezwaar aan de minister een aangepaste rapportering of een   motiverende nota met de redenen waarom bepaalde engagementen niet zijn   nagekomen.<BR>
+Als de erkende onroerenderfgoedgemeente niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen, als de rapportering manifest onduidelijk is of als de gemeente onvoldoende aantoont dat ze de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering of, bij gebrek aan rapportering&nbsp;binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum, per beveiligde zending bezwaar bij de gemeente. De gemeente bezorgt, binnen&nbsp;een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar aan de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.2.11.
 
@@ -176,15 +183,23 @@ Het agentschap kan op verzoek van de minister vragen aan een   visitatiecommissi
 
 ### ART. 3.2.12.
 
-<P>Het agentschap deelt de resultaten van de evaluatie mee aan de minister   binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de   bevindingen van de visitatiecommissie. De minister kan bij een negatieve   evaluatie de erkenning van de onroerenderfgoedgemeente schorsen voor een termijn   van maximaal honderdtwintig dagen. Het agentschap deelt die beslissing tot   schorsing per beveiligde zending mee aan de erkende onroerenderfgoedgemeente. De   erkende onroerenderfgoedgemeente beschikt vanaf de betekening van de beslissing   tot schorsing over een termijn van zestig dagen om de redenen voor de schorsing   van de erkenning te remediëren.<BR></P>  <P>Tijdens een periode van schorsing kan de erkende onroerenderfgoedgemeente   haar taken en bevoegdheden ter uitvoering van het Onroerenderfgoeddecreet van 12   juli 2013 en dit besluit verder uitvoeren en uitoefenen. De visitatiecommissie   heeft evenwel toegang tot het register met toelatingen, adviezen en meldingen,   vermeld in artikel 3.2.1, eerste lid, 5°.<BR></P>  <P>De geschorste onroerenderfgoedgemeente bezorgt binnen de bovenvermelde   termijn van zestig dagen per beveiligde zending een reactie aan het agentschap   waarin ze beschrijft welke acties ze heeft ondernomen of onverwijld zal   ondernemen ter remediëring.<BR></P>  <P>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen   aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot   opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de   acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als de   onroerenderfgoedgemeente geen schriftelijke reactie heeft bezorgd binnen de   gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking   van de erkenning.<BR></P>  <P>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor   de minister een voorstel op van de beslissing tot opheffing van de schorsing of   tot intrekking van de erkenning. De minister beslist uiterlijk binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van het   voorstel.<BR></P>
+<p>Het agentschap deelt de resultaten van de evaluatie mee aan de minister binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de bevindingen van de visitatiecommissie. De minister kan bij een negatieve evaluatie de erkenning van de onroerenderfgoedgemeente schorsen voor een termijn van maximaal honderdtwintig dagen. Het agentschap deelt die beslissing tot schorsing per beveiligde zending mee aan de erkende onroerenderfgoedgemeente. De erkende onroerenderfgoedgemeente beschikt over een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing om aan de redenen voor de schorsing van de erkenning te remediëren.</p>
+
+<p>Tijdens een periode van schorsing kan de erkende onroerenderfgoedgemeente haar taken en bevoegdheden ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit verder uitvoeren en uitoefenen. De visitatiecommissie heeft evenwel toegang tot het register met toelatingen, adviezen en meldingen, vermeld in artikel 3.2.1, eerste lid, 5°.</p>
+
+<p>De geschorste onroerenderfgoedgemeente bezorgt binnen de bovenvermelde termijn van zestig dagen schriftelijk een reactie aan het agentschap waarin ze beschrijft welke acties ze heeft ondernomen of onverwijld zal ondernemen ter remediëring.</p>
+
+<p>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als de onroerenderfgoedgemeente geen schriftelijke reactie heeft bezorgd binnen de gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking van de erkenning.</p>
+
+<p>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor de minister een voorstel op van de beslissing tot opheffing van de schorsing of tot intrekking van de erkenning. De minister beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel.</p>
 
 ### ART. 3.2.13.
 
-Als een erkende onroerenderfgoedgemeente zelf te kennen geeft dat ze niet   meer erkend wil zijn, formuleert het agentschap een definitief voorstel van   beslissing over de intrekking van de erkenning zonder dat de   onroerenderfgoedgemeente eerst wordt geschorst. De minister beslist uiterlijk   binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van   het voorstel van beslissing over het intrekken van de   erkenning.<BR>
+Als een erkende onroerenderfgoedgemeente zelf te kennen geeft dat ze niet meer erkend wil zijn, formuleert het agentschap een definitief voorstel van beslissing over de intrekking van de erkenning zonder dat de onroerenderfgoedgemeente eerst wordt geschorst. De minister beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel van beslissing over het intrekken van de erkenning.
 
 ### ART. 3.2.14.
 
-<p>Het agentschap brengt de gemeente per beveiligde zending onverwijld op de hoogte van de beslissing van de minister over het al dan niet intrekken van de erkenning of de opheffing van de schorsing. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;betekening van de beslissing aan de onroerenderfgoedgemeente.</p>
+<p>Het agentschap brengt de gemeente per beveiligde zending onverwijld op de hoogte van de beslissing van de minister over het al dan niet intrekken van de erkenning of de opheffing van de schorsing. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de onroerenderfgoedgemeente.</p>
 
 <p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.2.12 of 3.2.13, wordt de erkenning geacht niet te zijn ingetrokken en de schorsing te zijn opgeheven.</p>
 
@@ -200,11 +215,27 @@ Als een gemeente na de intrekking van haar erkenning opnieuw een aanvraag   tot 
 
 Als de erkenning van een onroerenderfgoedgemeente wordt ingetrokken,   behandelt de gemeente de ontvankelijke vergunnings- en toelatingsaanvragen die   voor de kennisgeving van de intrekking van de erkenning zijn ingediend,   overeenkomstig artikel 4.1.10 en 6.4.4, § 1, van het Onroerenderfgoeddecreet van   12 juli 2013.<BR>
 
+### ART 3.2.18.
+
+Als een erkende onroerenderfgoedgemeente fuseert met een of meer gemeenten, wordt de bestaande erkenning als onroerenderfgoedgemeente automatisch overgedragen naar de nieuw gevormde gemeente.<br>
+<br>
+Als de nieuwe gemeente haar erkenning als onroerenderfgoedgemeente wil behouden, neemt ze overeenkomstig artikel 3.2.2 in de nieuwe meerjarenplanning op hoe ze uitwerking zal geven aan de Vlaamse beleidsprioriteiten voor het onroerenderfgoedbeleid.<br>
+<br>
+Als de nieuwe gemeente haar erkenning als onroerenderfgoedgemeente niet wil behouden, vraagt ze een intrekking overeenkomstig artikel 3.2.13.
+
 ## Afdeling 3 Erkenning als intergemeentelijke onroerenderfgoeddienst
 
 ### ART. 3.3.1.
 
-Om een aanvraag tot erkenning als intergemeentelijke   onroerenderfgoeddienst te kunnen indienen moet het intergemeentelijk   samenwerkingsverband:<BR>1° opgericht zijn overeenkomstig het decreet van 6 juli   2001 houdende de intergemeentelijke samenwerking;<BR>2° bestaan uit minimaal   drie gemeenten die allen in het Vlaams Gewest liggen.<BR>
+Om een aanvraag tot erkenning als intergemeentelijke onroerenderfgoeddienst te kunnen indienen, moet het intergemeentelijk samenwerkingsverband:<br>
+1° opgericht zijn volgens het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking of het decreet van 22 december 2017 over het lokaal bestuur;<br>
+2° bestaan uit minimaal drie gemeenten die alle in het Vlaams Gewest liggen.<br>
+<br>
+Een gemeente kan slechts deel uitmaken van één erkende intergemeentelijke onroerenderfgoeddienst.<br>
+<br>
+In afwijking van het tweede lid, kan een gemeente op het moment van een aanvraag tot erkenning of een aanpassing vermeld in artikel 3.3.17 tijdelijk nog deel uitmaken van een andere erkende onroerenderfgoeddienst, op voorwaarde dat die gemeente in het zelfde jaar uit die andere erkende onroerenderfgoeddienst treedt. Die uittreding gebeurt via een vraag tot aanpassing vermeld in artikel 3.3.17 of via een kennisgeving vermeld in artikel 3.3.13 waarbij de intergemeentelijke onroerenderfgoeddienst verklaart dat hij niet meer wenst erkend te zijn.<br>
+<br>
+Binnen een intergemeentelijk samenwerkingsverband kan slechts één intergemeentelijke onroerenderfgoeddienst erkend worden.
 
 ### ART. 3.3.2.
 
@@ -212,7 +243,7 @@ Om een aanvraag tot erkenning als intergemeentelijke   onroerenderfgoeddienst te
 
 ### ART. 3.3.3.
 
-Het agentschap stelt op zijn website een modelformulier ter beschikking   waarmee een aanvraag tot erkenning van een intergemeentelijke   onroerenderfgoeddienst kan worden ingediend. Door het invullen van dat   modelformulier kan het intergemeentelijk samenwerkingsverband aantonen dat ze   aan alle erkenningsvoorwaarden voldoet. De aanvrager bezorgt het volledig   ingevulde formulier samen met de gevraagde bijlagen uiterlijk op 15 januari aan   het agentschap.<BR>
+Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee een aanvraag tot erkenning of aanpassing van de erkenning&nbsp;van een intergemeentelijke onroerenderfgoeddienst kan worden ingediend. Door het invullen van dat modelformulier kan het intergemeentelijk samenwerkingsverband aantonen dat het aan alle erkenningsvoorwaarden voldoet. De aanvrager bezorgt het volledig ingevulde formulier samen met de gevraagde bijlagen uiterlijk op 15 januari aan het agentschap.
 
 ### ART. 3.3.4.
 
@@ -224,7 +255,7 @@ Op basis van het advies van het agentschap beslist de minister over de   erkenni
 
 ### ART. 3.3.6.
 
-Uiterlijk op 30 april van het jaar van de aanvraag tot erkenning brengt de   minister het intergemeentelijk samenwerkingsverband per beveiligde zending op de   hoogte van het al dan niet aanvaarden van de   erkenningsaanvraag.<BR>
+Uiterlijk op 30 april van het jaar van de aanvraag tot erkenning brengt de minister het intergemeentelijk samenwerkingsverband&nbsp;schriftelijk op de hoogte van het al dan niet aanvaarden van de erkenningsaanvraag.
 
 ### ART. 3.3.7.
 
@@ -240,7 +271,7 @@ Uiterlijk op 31 juli van elk jaar, behalve in het jaar van de aanvraag tot   erk
 
 ### ART. 3.3.10.
 
-Als de intergemeentelijke onroerenderfgoeddienst niet voldoet aan de   erkenningsvoorwaarden of aan de rapporteringsverplichtingen of als de   rapportering manifest onduidelijk is of als de intergemeentelijke   onroerenderfgoeddienst onvoldoende aantoont dat hij de vooropgestelde   doelstellingen heeft nagestreefd, maakt de minister uiterlijk drie maanden na de   ontvangst van de rapportering of bij gebrek aan rapportering uiterlijk drie   maanden na de uiterste indieningsdatum, per beveiligde zending bezwaar bij de   intergemeentelijke onroerenderfgoeddienst. De intergemeentelijke   onroerenderfgoeddienst bezorgt, binnen twee maanden na de ontvangst van het   bezwaar, de minister een aangepaste rapportering of een motiverende nota met de   redenen waarom bepaalde engagementen niet zijn nagekomen.<BR>
+Als de intergemeentelijke onroerenderfgoeddienst niet voldoet aan de erkenningsvoorwaarden of aan de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als de intergemeentelijke onroerenderfgoeddienst onvoldoende aantoont dat hij de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering of bij gebrek aan rapportering binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum, per beveiligde zending bezwaar bij de intergemeentelijke onroerenderfgoeddienst. De intergemeentelijke onroerenderfgoeddienst bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar, de minister een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.3.11.
 
@@ -248,15 +279,23 @@ Het agentschap kan op verzoek van de minister vragen aan een   visitatiecommissi
 
 ### ART. 3.3.12.
 
-<P>Het agentschap deelt de resultaten van de evaluatie mee aan de minister   binnen een termijn van dertig dagen, die ingaat op de dag na de uitvoering van   de evaluatie. De minister kan in geval van een negatieve evaluatie de erkenning   van de intergemeentelijke onroerenderfgoeddienst schorsen voor een termijn van   maximaal honderdtwintig dagen. Het agentschap deelt die beslissing tot schorsing   per beveiligde zending mee aan de intergemeentelijke onroerenderfgoeddienst. De   intergemeentelijke onroerenderfgoeddienst heeft vanaf de betekening van de   beslissing tot schorsing een termijn van zestig dagen om de redenen voor de   schorsing van de erkenning te remediëren.<BR></P>  <P>De geschorste intergemeentelijke onroerenderfgoeddienst bezorgt binnen de   bovenvermelde termijn van zestig dagen per beveiligde zending een reactie aan   het agentschap waarin beschreven is welke acties hij heeft ondernomen of   onverwijld zal ondernemen ter remediëring.<BR></P>  <P>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen   aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot   opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de   acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als de   onroerenderfgoedgemeente geen schriftelijke reactie heeft bezorgd binnen de   gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking   van de erkenning.<BR></P>  <P>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor   de minister een voorstel op van de beslissing tot opheffing van de schorsing of   tot intrekking van de erkenning. De minister beslist uiterlijk binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van het   voorstel.<BR></P>
+<p>Het agentschap deelt de resultaten van de evaluatie mee aan de minister binnen een termijn van dertig dagen, die ingaat op de dag na de uitvoering van de evaluatie. De minister kan in geval van een negatieve evaluatie de erkenning van de intergemeentelijke onroerenderfgoeddienst schorsen voor een termijn van maximaal honderdtwintig dagen. Het agentschap deelt die beslissing tot schorsing per beveiligde zending mee aan de intergemeentelijke onroerenderfgoeddienst. De intergemeentelijke onroerenderfgoeddienst beschikt over een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing om aan de redenen voor de schorsing van de erkenning te remediëren.</p>
+
+<p>De geschorste intergemeentelijke onroerenderfgoeddienst bezorgt binnen de bovenvermelde termijn van zestig dagen schriftelijk een reactie aan het agentschap waarin beschreven is welke acties hij heeft ondernomen of onverwijld zal ondernemen ter remediëring.</p>
+
+<p>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als de onroerenderfgoedgemeente geen schriftelijke reactie heeft bezorgd binnen de gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking of aanpassing&nbsp;van de erkenning.</p>
+
+<p>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor de minister een voorstel op van de beslissing tot opheffing van de schorsing of tot intrekking of aanpassing van de erkenning. De minister beslist&nbsp;binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel.</p>
 
 ### ART. 3.3.13.
 
-Als een erkende intergemeentelijke onroerenderfgoeddienst zelf te kennen   geeft dat hij niet meer erkend wenst te zijn, formuleert het agentschap een   definitief voorstel van beslissing over de intrekking van de erkenning zonder   dat de intergemeentelijke onroerenderfgoeddienst eerst wordt geschorst. De   minister beslist uiterlijk binnen een termijn van dertig dagen, die ingaat op de   dag na de ontvangst van het voorstel van beslissing over het intrekken van de   erkenning.<BR>
+Als een erkende intergemeentelijke onroerenderfgoeddienst zelf te kennen geeft dat hij niet meer erkend wenst te zijn, formuleert het agentschap een definitief voorstel van beslissing over de intrekking van de erkenning zonder dat de intergemeentelijke onroerenderfgoeddienst eerst wordt geschorst. De minister beslist&nbsp;binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel van beslissing over het intrekken van de erkenning.
 
 ### ART. 3.3.14.
 
-<P>Het agentschap deelt de beslissing van de minister over de intrekking van de   erkenning of de opheffing van de schorsing onverwijld per beveiligde zending mee   aan de intergemeentelijke onroerenderfgoeddienst. De intrekking van de erkenning   of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de   betekening van de beslissing aan de intergemeentelijke   onroerenderfgoeddienst.<BR></P>  <P>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel   3.2.12 of 3.2.13, wordt de erkenning geacht niet te zijn ingetrokken en de   schorsing te zijn opgeheven.<BR></P>
+<p>Het agentschap deelt de beslissing van de minister over de intrekking of aanpassing&nbsp;van de erkenning of de opheffing van de schorsing onverwijld per beveiligde zending mee aan de intergemeentelijke onroerenderfgoeddienst. De intrekking of aanpassing van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan de intergemeentelijke onroerenderfgoeddienst.</p>
+
+<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.3.12 of 3.3.13, wordt de erkenning geacht niet te zijn ingetrokken of aangepast&nbsp;en de schorsing te zijn opgeheven.</p>
 
 ### ART. 3.3.15.
 
@@ -266,6 +305,14 @@ De intrekking van een erkenning als intergemeentelijke   onroerenderfgoeddienst 
 
 Om na de intrekking van de erkenning opnieuw een aanvraag tot erkenning in   te dienen, moet de intergemeentelijke onroerenderfgoeddienst de volledige   aanvraagprocedure opnieuw doorlopen.<BR>
 
+### ART 3.3.17.
+
+Als de samenstelling van een erkende intergemeentelijke onroerenderfgoeddienst wijzigt, vraagt de erkende intergemeentelijke onroerenderfgoeddienst een aanpassing van de erkenning aan.<br>
+<br>
+De aanvraag beschrijft de wijziging en toont aan hoe de intergemeentelijke onroerenderfgoeddienst door de wijziging blijft voldoen aan de voorwaarden, vermeld in artikel 3.3.1. en 3.3.2 door middel van een aanvulling van de aanvraag op basis waarvan de intergemeentelijke onroerenderfgoeddienst erkend werd. De procedure verloopt overeenkomstig de erkenningsprocedure, vermeld in artikel 3.3.3 tot en met 3.3.7.<br>
+<br>
+Als de intergemeentelijke onroerenderfgoeddienst door de wijziging niet meer voldoet aan de erkenningsvoorwaarden, wordt de erkenning ingetrokken overeenkomstig artikel 3.3.14 en 3.3.15.
+
 ## Afdeling 4 Erkenning als onroerenderfgoeddepot
 
 ### ART. 3.4.1.
@@ -274,7 +321,41 @@ Om een aanvraag tot erkenning als onroerenderfgoeddepot te kunnen   indienen, mo
 
 ### ART. 3.4.2.
 
-<P>Om erkend te worden als onroerenderfgoeddepot, dient een rechtspersoon een   aanvraag tot erkenning in bij het agentschap en hij toont daarbij aan dat hij   minstens aan de volgende erkenningsvoorwaarden voldoet:<BR>1° de organisatie   vervult een receptieve functie voor archeologische ensembles, archeologische   artefacten of onderdelen van beschermd onroerend erfgoed, afkomstig uit het   Vlaamse Gewest, die permanent of tijdelijk ex situ worden bewaard en ze beschikt   daarvoor over adequate middelen;<BR>Om dat te staven toont de organisatie aan   dat ze:<BR>a) beschikt over een aangepaste depotruimte voor langdurige opslag om   de collectie duurzaam te bewaren;<BR>b) werkt volgens de principes van   gescheiden opslag met gecontroleerde bewaaromstandigheden;<BR>c) beschikt over   een afzonderlijke transitruimte en een afzonderlijke raadpleegruimte;<BR>d)   beschikt over voldoende gekwalificeerd personeel, afhankelijk van de omvang van   de collectie en de aard van de instelling, om die receptieve functie te   vervullen. Ten minste een van de personeelsleden heeft het beheer van het depot   in zijn takenpakket en fungeert als aanspreekpunt voor de werking van het   onroerenderfgoeddepot.<BR>2° de organisatie schakelt zich in binnen het Vlaamse   en provinciale depotbeleid.<BR>Om dat te staven toont de organisatie aan   dat:<BR>a) haar depotprofiel is bepaald in overleg met de andere erkende   onroerenderfgoeddepots;<BR>b) afspraken zijn gemaakt over de uitoefening van de   receptieve functie voor onroerend erfgoed en de afstemming van de depotprofielen   met de andere erkende onroerenderfgoeddepots;<BR>c) haar kennis en expertise op   een actieve manier ter beschikking worden gesteld;<BR>3° de organisatie toont   een kwaliteitsvolle inhoudelijke werking aan.<BR>Om dat te staven toont de   organisatie aan dat ze beschikt over:<BR>a) een geschreven depotplan met daarin   minstens:<BR>1) een missie, visie en plan van aanpak over de receptieve functie   van het depot, het depotprofiel en de aanvaardingsvoorwaarden;<BR>2) een   registratieplan, een calamiteitenplan en een stopzettingsscenario;<BR>b) een   digitaal ontsloten systeem voor informatiebeheer, documentatie en registratie   waardoor het mogelijk wordt het onroerend erfgoed dat zich tijdelijk of   permanent ex situ bevindt te traceren;<BR>c) een globale beschrijving van de   aanwezige collectie op metaniveau en van de materiële toestand van de aanwezige   collectie op metaniveau, van de depotruimten en van de actieve en preventieve   maatregelen tot het behoud van de aanwezige collectie;<BR>d) een geschreven   kwaliteitshandboek waarin de principes van interne kwaliteitszorg worden   gehanteerd, dat een continu verbeteringsproces waarborgt, met verwijzing naar de   gehanteerde algemeen aanvaarde standaarden en deontologische regels, binnen een   jaar na de erkenning;<BR>e) een geschreven publieks- en onderzoeksbeleid:<BR>1)   waarin wordt aangegeven dat het onroerenderfgoeddepot minstens een dag per week,   al dan niet op afspraak, geopend is voor bezoekers;<BR>2) waarin de   bruikleenregels worden bepaald om stukken in bruikleen te geven en het zo   mogelijk te maken dat stukken worden tentoongesteld aan een breder   publiek;<BR>3) waarin wordt aangetoond op welke manier de stukken beschikbaar   worden gesteld voor wetenschappelijk onderzoek en hoe dat onderzoek wordt   gefaciliteerd;<BR>4° de organisatie voert een degelijk zakelijk beleid zodat er   voldoende garanties worden gegeven dat het onroerenderfgoeddepot in de toekomst   blijft bestaan.<BR>Om dat te staven toont de organisatie aan dat ze beschikt   over:<BR>a) een missie en doelstellingen die in overeenstemming zijn met de   erkenningsvoorwaarden;<BR>b) een organisatiestructuur waarbij er duidelijke   afspraken zijn over procedures en bevoegdheden en waarbij een interne controle   wordt georganiseerd;<BR>c) een degelijk personeelsbeleid dat is aangepast aan de   schaalgrootte van de organisatie, waarbij minstens ieder personeelslid beschikt   over een functiebeschrijving, periodiek wordt geëvalueerd en de mogelijkheid   krijgt om zich bij te scholen;<BR>d) een archiefsysteem voor het eigen archief   van de organisatie.<BR>In afwijking van het eerste lid, 3°, e), 1) kan een   langere sluitingsperiode gemotiveerd worden vanuit de omgang van de collectie of   in geval van een tijdelijke sluitingsperiode voor infrastructuurwerken.<BR></P>  <P>In het eerste lid wordt verstaan onder:<BR>1° depotprofiel: een omschrijving   van het werkingsgebied en de specialisatie(s) van het onroerenderfgoeddepot en   van de opdrachten die het onroerenderfgoeddepot wil en kan opnemen, waaruit   duidelijk blijkt voor welk onroerend erfgoed, dat zich definitief of tijdelijk   ex situ bevindt, het onroerenderfgoeddepot een receptieve functie kan   uitoefenen;<BR>2° kwaliteitshandboek: een verslag van het kwaliteitsbeleid van   een rechtspersoon waarin de rechtspersoon aangeeft op welke manier de kwaliteit   van de dienstverlening wordt geëvalueerd, bestendigd en   verbeterd.<BR></P>
+<p>Om erkend te worden en te blijven&nbsp;als onroerenderfgoeddepot, dient een rechtspersoon een aanvraag tot erkenning in bij het agentschap en hij toont daarbij aan dat hij minstens aan de volgende erkenningsvoorwaarden voldoet:<br>
+1° de organisatie vervult een receptieve functie voor archeologische ensembles, archeologische artefacten of onderdelen van beschermd onroerend erfgoed, afkomstig uit het Vlaamse Gewest, die permanent of tijdelijk ex situ worden bewaard en ze beschikt daarvoor over adequate middelen;<br>
+Om dat te staven toont de organisatie aan dat ze:<br>
+a) beschikt over een aangepaste depotruimte voor langdurige opslag om de collectie duurzaam te bewaren;<br>
+b) werkt volgens de principes van gescheiden opslag met gecontroleerde bewaaromstandigheden;<br>
+c) beschikt over een afzonderlijke transitruimte en een afzonderlijke raadpleegruimte;<br>
+d) beschikt over voldoende gekwalificeerd personeel, afhankelijk van de omvang van de collectie en de aard van de instelling, om die receptieve functie te vervullen. Ten minste een van de personeelsleden heeft het beheer van het depot in zijn takenpakket en fungeert als aanspreekpunt voor de werking van het onroerenderfgoeddepot.<br>
+2° de organisatie schakelt zich in binnen het Vlaamse en provinciale depotbeleid.<br>
+Om dat te staven toont de organisatie aan dat:<br>
+a) haar depotprofiel is bepaald in overleg met de andere erkende onroerenderfgoeddepots;<br>
+b) afspraken zijn gemaakt over de uitoefening van de receptieve functie voor onroerend erfgoed en de afstemming van de depotprofielen met de andere erkende onroerenderfgoeddepots;<br>
+c) haar kennis en expertise op een actieve manier ter beschikking worden gesteld;<br>
+3° de organisatie toont een kwaliteitsvolle inhoudelijke werking aan.<br>
+Om dat te staven toont de organisatie aan dat ze beschikt over:<br>
+a) een geschreven depotplan met daarin minstens:<br>
+1) een missie, visie en plan van aanpak over de receptieve functie van het depot, het depotprofiel en de aanvaardingsvoorwaarden;<br>
+2) een registratieplan, een calamiteitenplan en een stopzettingsscenario;<br>
+b) een digitaal ontsloten systeem voor informatiebeheer, documentatie en registratie waardoor het mogelijk wordt het onroerend erfgoed dat zich tijdelijk of permanent ex situ bevindt te traceren;<br>
+c) een globale beschrijving van de aanwezige collectie op metaniveau en van de materiële toestand van de aanwezige collectie op metaniveau, van de depotruimten en van de actieve en preventieve maatregelen tot het behoud van de aanwezige collectie;<br>
+d) een geschreven kwaliteitshandboek waarin de principes van interne kwaliteitszorg worden gehanteerd, dat een continu verbeteringsproces waarborgt, met verwijzing naar de gehanteerde algemeen aanvaarde standaarden en deontologische regels, binnen een jaar na de erkenning;<br>
+e) een geschreven publieks- en onderzoeksbeleid:<br>
+1) waarin wordt aangegeven dat het onroerenderfgoeddepot minstens een dag per week, al dan niet op afspraak, geopend is voor bezoekers;<br>
+2) waarin de bruikleenregels worden bepaald om stukken in bruikleen te geven en het zo mogelijk te maken dat stukken worden tentoongesteld aan een breder publiek;<br>
+3) waarin wordt aangetoond op welke manier de stukken beschikbaar worden gesteld voor wetenschappelijk onderzoek en hoe dat onderzoek wordt gefaciliteerd;<br>
+4° de organisatie voert een degelijk zakelijk beleid zodat er voldoende garanties worden gegeven dat het onroerenderfgoeddepot in de toekomst blijft bestaan.<br>
+Om dat te staven toont de organisatie aan dat ze beschikt over:<br>
+a) een missie en doelstellingen die in overeenstemming zijn met de erkenningsvoorwaarden;<br>
+b) een organisatiestructuur waarbij er duidelijke afspraken zijn over procedures en bevoegdheden en waarbij een interne controle wordt georganiseerd;<br>
+c) een degelijk personeelsbeleid dat is aangepast aan de schaalgrootte van de organisatie, waarbij minstens ieder personeelslid beschikt over een functiebeschrijving, periodiek wordt geëvalueerd en de mogelijkheid krijgt om zich bij te scholen;<br>
+d) een archiefsysteem voor het eigen archief van de organisatie.<br>
+In afwijking van het eerste lid, 3°, e), 1) kan een langere sluitingsperiode gemotiveerd worden vanuit de omgang van de collectie of in geval van een tijdelijke sluitingsperiode voor infrastructuurwerken.</p>
+
+<p>In het eerste lid wordt verstaan onder:<br>
+1° depotprofiel: een omschrijving van het werkingsgebied en de specialisatie(s) van het onroerenderfgoeddepot en van de opdrachten die het onroerenderfgoeddepot wil en kan opnemen, waaruit duidelijk blijkt voor welk onroerend erfgoed, dat zich definitief of tijdelijk ex situ bevindt, het onroerenderfgoeddepot een receptieve functie kan uitoefenen;<br>
+2° kwaliteitshandboek: een verslag van het kwaliteitsbeleid van een rechtspersoon waarin de rechtspersoon aangeeft op welke manier de kwaliteit van de dienstverlening wordt geëvalueerd, bestendigd en verbeterd.</p>
 
 ### ART. 3.4.3.
 
@@ -282,7 +363,9 @@ Het agentschap stelt op zijn website een modelformulier ter beschikking   waarme
 
 ### ART. 3.4.4.
 
-<P>Een aanvraag is ontvankelijk als ze tijdig is ingediend en voldoet aan de   vereisten, vermeld in artikel 3.4.1.<BR></P>  <P>Het agentschap meldt de aanvrager, per beveiligde zending, binnen een termijn   van vijftien dagen, die ingaat op de dag na de uiterlijke indieningsdatum, of de   aanvraag ontvankelijk is. Als de aanvraag niet ontvankelijk is, wordt de reden   daarvan meegedeeld. Als de aanvrager geen melding van ontvankelijkheid heeft   ontvangen, wordt de aanvraag geacht ontvankelijk te zijn.<BR></P>
+<p>Een aanvraag is ontvankelijk als ze tijdig is ingediend en voldoet aan de vereisten, vermeld in artikel 3.4.1.</p>
+
+<p>Het agentschap meldt de aanvrager, schriftelijk, binnen een termijn van vijftien dagen, die ingaat op de dag na de uiterlijke indieningsdatum, of de aanvraag ontvankelijk is. Als de aanvraag niet ontvankelijk is, wordt de reden daarvan meegedeeld.</p>
 
 ### ART. 3.4.5.
 
@@ -318,7 +401,7 @@ Uiterlijk op 1 oktober van elk jaar, behalve in het jaar van de aanvraag   tot e
 
 ### ART. 3.4.13.
 
-Als het onroerenderfgoeddepot niet voldoet aan de erkenningsvoorwaarden,   de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of   als het onroerenderfgoeddepot onvoldoende aantoont dat het de vooropgestelde   doelstellingen heeft nagestreefd, maakt de minister uiterlijk drie maanden na de   ontvangst van de rapportering, of bij gebrek aan rapportering, uiterlijk drie   maanden na de uiterste indieningsdatum per beveiligde zending bezwaar bij het   onroerenderfgoeddepot. Het onroerenderfgoeddepot bezorgt, binnen twee maanden na   de ontvangst van het bezwaar de minister een aangepaste rapportering, vermeld in   artikel 3.4.11, 3°, of een motiverende nota met de redenen waarom bepaalde   engagementen niet zijn nagekomen.<BR>
+Als het onroerenderfgoeddepot niet voldoet aan de erkenningsvoorwaarden, de rapporteringsverplichtingen of als de rapportering manifest onduidelijk is of als het onroerenderfgoeddepot onvoldoende aantoont dat het de vooropgestelde doelstellingen heeft nagestreefd, maakt de minister binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de rapportering, of bij gebrek aan rapportering, binnen een termijn van negentig dagen, die ingaat op de dag na de uiterste indieningsdatum per beveiligde zending bezwaar bij het onroerenderfgoeddepot. Het onroerenderfgoeddepot bezorgt, binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het bezwaar de minister een aangepaste rapportering, vermeld in artikel 3.4.11, 3°, of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.
 
 ### ART. 3.4.14.
 
@@ -326,15 +409,27 @@ Het agentschap kan op verzoek van de minister een erkend   onroerenderfgoeddepot
 
 ### ART. 3.4.15.
 
-<P>&nbsp;Het agentschap deelt de resultaten van de evaluatie binnen een termijn   van dertig dagen, die ingaat op de dag na de uitvoering van de evaluatie mee aan   de minister. De minister kan in geval van een negatieve evaluatie de erkenning   van het onroerenderfgoeddepot schorsen voor een termijn van maximaal   honderdtwintig dagen. Het agentschap deelt de beslissing tot schorsing per   beveiligde zending mee aan het onroerenderfgoeddepot. Het geschorste   onroerenderfgoeddepot heeft een termijn van zestig dagen, die ingaat op de dag   na de betekening van de beslissing tot schorsing, om de redenen voor de   schorsing van de erkenning te remediëren.<BR></P>  <P>Tijdens de schorsingsperiode kan het onroerenderfgoeddepot geen receptieve   functie meer opnemen voor het ontvangen van onroerend erfgoed dat zich door   omstandigheden ex situ bevindt. Er worden afspraken gemaakt met de andere   erkende onroerenderfgoeddepots om die receptieve functie tijdelijk te   ondervangen.<BR></P>  <P>Het geschorste onroerenderfgoeddepot bezorgt binnen de termijn van zestig   dagen, vermeld in het eerste lid, per beveiligde zending een reactie aan het   agentschap waarin het beschrijft welke acties het heeft ondernomen of onverwijld   zal ondernemen ter remediëring.<BR></P>  <P>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen   aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot   opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de   acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als het   onroerenderfgoeddepot geen schriftelijke reactie heeft bezorgd binnen de   gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking   van de erkenning.<BR></P>  <P>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor   de minister een voorstel op van de beslissing tot opheffing van de schorsing of   tot intrekking van de erkenning. De minister beslist uiterlijk binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van het   voorstel.<BR></P>
+<p>&nbsp;Het agentschap deelt de resultaten van de evaluatie binnen een termijn van dertig dagen, die ingaat op de dag na de uitvoering van de evaluatie mee aan de minister. De minister kan in geval van een negatieve evaluatie de erkenning van het onroerenderfgoeddepot schorsen voor een termijn van maximaal honderdtwintig dagen. Het agentschap deelt de beslissing tot schorsing per beveiligde zending mee aan het onroerenderfgoeddepot. Het geschorste onroerenderfgoeddepot beschikt over een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing om aan de redenen voor de schorsing van de erkenning te remediëren.</p>
+
+<p>Tijdens de schorsingsperiode kan het onroerenderfgoeddepot geen receptieve functie meer opnemen voor het ontvangen van onroerend erfgoed dat zich door omstandigheden ex situ bevindt. Er worden afspraken gemaakt met de andere erkende onroerenderfgoeddepots om die receptieve functie tijdelijk te ondervangen.</p>
+
+<p>Het geschorste onroerenderfgoeddepot bezorgt binnen de termijn van zestig dagen, vermeld in het eerste lid, schriftelijk een reactie aan het agentschap waarin het beschrijft welke acties het heeft ondernomen of onverwijld zal ondernemen ter remediëring.</p>
+
+<p>Als de visitatiecommissie van oordeel is dat de acties volstaan om te voldoen aan de erkenningsvoorwaarden, formuleert de visitatiecommissie een voorstel tot opheffing van de schorsing. Als de visitatiecommissie van oordeel is dat de acties niet volstaan om te voldoen aan de erkenningsvoorwaarden of als het onroerenderfgoeddepot geen schriftelijke reactie heeft bezorgd binnen de gestelde termijn, formuleert de visitatiecommissie een voorstel tot intrekking van de erkenning.</p>
+
+<p>Op basis van het voorstel van de visitatiecommissie maakt het agentschap voor de minister een voorstel op van de beslissing tot opheffing van de schorsing of tot intrekking van de erkenning. De minister beslist&nbsp;binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel.</p>
 
 ### ART. 3.4.16.
 
-Als een erkend onroerenderfgoeddepot ophoudt te bestaan of als een erkend   onroerenderfgoeddepot zelf te kennen geeft dat het niet meer erkend wil zijn,   kan het agentschap een voorstel van beslissing formuleren over de intrekking van   de erkenning zonder dat het onroerenderfgoeddepot eerst wordt geschorst. De   minister beslist uiterlijk binnen een termijn van dertig dagen, die ingaat op de   dag na de ontvangst van het voorstel van beslissing over de intrekking van de   erkenning.<BR>
+Als een erkend onroerenderfgoeddepot ophoudt te bestaan of als een erkend onroerenderfgoeddepot zelf te kennen geeft dat het niet meer erkend wil zijn, kan het agentschap een voorstel van beslissing formuleren over de intrekking van de erkenning zonder dat het onroerenderfgoeddepot eerst wordt geschorst. De minister beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het voorstel van beslissing over de intrekking van de erkenning.
 
 ### ART. 3.4.17.
 
-<P>Binnen een termijn van vijftien dagen, die ingaat op de dag na de beslissing   van de minister, deelt de administratie de beslissing tot intrekking van de   erkenning of opheffing van de schorsing, per beveiligde zending, mee aan het   onroerenderfgoeddepot. De intrekking van de erkenning of de opheffing van de   schorsing gaat in op de dag die volgt op de dag van de betekening van de   beslissing aan het onroerenderfgoeddepot.<BR></P>  <P>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel   3.4.15, vijfde lid of 3.4.16, neemt, wordt de erkenning geacht niet te zijn   ingetrokken en de schorsing te zijn opgeheven.<BR></P>  <P>De intrekking van de erkenning als onroerenderfgoeddepot wordt bij uittreksel   in het Belgisch Staatsblad gepubliceerd.<BR></P>
+<p>Binnen een termijn van vijftien dagen, die ingaat op de dag na de beslissing van de minister, deelt de administratie de beslissing tot intrekking van de erkenning of opheffing van de schorsing, per beveiligde zending, mee aan het onroerenderfgoeddepot. De intrekking van de erkenning of de opheffing van de schorsing gaat in op de dag die volgt op de dag van de&nbsp;kennisgeving van de beslissing aan het onroerenderfgoeddepot.</p>
+
+<p>Als de minister geen beslissing neemt binnen de termijn, vermeld in artikel 3.4.15, vijfde lid of 3.4.16,&nbsp;wordt de erkenning geacht niet te zijn ingetrokken en de schorsing te zijn opgeheven.</p>
+
+<p>De intrekking van de erkenning als onroerenderfgoeddepot wordt bij uittreksel in het Belgisch Staatsblad gepubliceerd.</p>
 
 ## Afdeling 5 Aanduiding als erkende archeoloog
 
@@ -352,7 +447,7 @@ Als een erkend onroerenderfgoeddepot ophoudt te bestaan of als een erkend   onro
 
 ### ART. 3.5.4.
 
-Het agentschap stelt op zijn website een modelformulier ter beschikking   waarmee een aanvraag tot aanduiding als erkende archeoloog kan worden ingediend.   Door dat modelformulier in te vullen, kan de aanvrager aantonen dat hij voldoet   aan alle erkenningsvoorwaarden. De aanvrager voegt bij zijn aanvraag het   volledig ingevuld modelformulier en de daarin gevraagde stavingsstukken, en hij   dient zijn aanvraag per beveiligde zending in bij het agentschap. Als de   stavingsstukken die in het modelformulier gevraagd worden, in een andere taal   dan het Nederlands zijn opgesteld, voegt hij een beëdigde vertaling ervan bij   het formulier.<BR>
+Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee een aanvraag tot aanduiding als erkende archeoloog kan worden ingediend. Door dat modelformulier in te vullen, kan de aanvrager aantonen dat hij voldoet aan alle erkenningsvoorwaarden. De aanvrager voegt bij zijn aanvraag het volledig ingevuld modelformulier en de daarin gevraagde stavingsstukken, en hij dient zijn aanvraag schriftelijk in bij het agentschap. Als de stavingsstukken die in het modelformulier gevraagd worden, in een andere taal dan het Nederlands zijn opgesteld, voegt hij een beëdigde vertaling ervan bij het formulier.
 
 ### ART. 3.5.5.
 
@@ -410,11 +505,17 @@ De aanduiding van een rechtspersoon als erkende metaaldetectorist is   alleen va
 
 ### ART. 3.6.3.
 
-<P>Het agentschap stelt op zijn website een modelformulier ter beschikking   waarmee een aanvraag tot aanduiding als erkende metaaldetectorist kan worden   ingediend. Door dat formulier in te vullen kan de aanvrager aantonen dat hij   voldoet aan alle erkenningsvoorwaarden.<BR></P>  <P>De aanvrager voegt bij zijn aanvraag het volledig ingevuld modelformulier en   de daarin gevraagde stavingstukken, en hij dient zijn aanvraag in per beveiligde   zending in bij het agentschap. Als de stavingsstukken die in het modelformulier   gevraagd worden, in een andere taal dan het Nederlands zijn opgesteld, voegt hij   een beëdigde vertaling ervan bij het formulier.<BR></P>
+<p>Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee een aanvraag tot aanduiding als erkende metaaldetectorist kan worden ingediend. Door dat formulier in te vullen kan de aanvrager aantonen dat hij voldoet aan alle erkenningsvoorwaarden.</p>
+
+<p>De aanvrager voegt bij zijn aanvraag het volledig ingevuld modelformulier en de daarin gevraagde stavingstukken, en hij dient zijn aanvraag schriftelijk in bij het agentschap. Als de stavingsstukken die in het modelformulier gevraagd worden, in een andere taal dan het Nederlands zijn opgesteld, voegt hij een beëdigde vertaling ervan bij het formulier.</p>
 
 ### ART. 3.6.4.
 
-<P>Het agentschap bezorgt de aanvrager per beveiligde zending en binnen een   termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de   aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is   en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt   binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van   het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het   dossier al dan niet ontvankelijk wordt verklaard.<BR></P>  <P>Als de aanvrager na het verstrijken van de termijn, vermeld in het eerste   lid, geen ontvankelijkheidsbewijs heeft ontvangen of geen verzoek tot aanvulling   van het dossier, wordt de aanvraag volledig en dus ontvankelijk geacht te   zijn.<BR></P>  <P>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een   termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag   over de aanvraag tot aanduiding als erkende metaaldetectorist. Die termijn kan   met dertig dagen worden verlengd als het agentschap het nodig acht het advies   van de Commissie in te winnen. Die verlenging moet binnen de eerste termijn van   zestig dagen, per beveiligde zending, aan de aanvrager worden gemeld.<BR></P>  <P>Het agentschap deelt zijn beslissing per beveiligde zending binnen een   termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de   aanvrager. Het agentschap bezorgt tegelijk met de beslissing tot aanduiding als   erkende metaaldetectorist, een legitimatiebewijs van erkende metaaldetectorist.   Als de aanvrager na het verstrijken van deze termijn geen beslissing van het   agentschap heeft ontvangen, wordt deze aanvraag tot aanduiding als erkende   metaaldetectorist geacht geweigerd te zijn.<BR></P>
+<p>Het agentschap bezorgt de aanvrager schriftelijk en binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de&nbsp;kennisgeving van het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het dossier al dan niet ontvankelijk wordt verklaard.</p>
+
+<p>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag over de aanvraag tot aanduiding als erkende metaaldetectorist. Die termijn kan met dertig dagen worden verlengd als het agentschap het nodig acht het advies van de Commissie in te winnen. Die verlenging moet binnen de eerste termijn van zestig dagen, schriftelijk, aan de aanvrager worden gemeld.</p>
+
+<p>Het agentschap deelt zijn beslissing schriftelijk binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager. Het agentschap bezorgt tegelijk met de beslissing tot aanduiding als erkende metaaldetectorist, een legitimatiebewijs van erkende metaaldetectorist. Als de aanvrager na het verstrijken van deze termijn geen beslissing van het agentschap heeft ontvangen, wordt deze aanvraag tot aanduiding als erkende metaaldetectorist geacht geweigerd te zijn.</p>
 
 ### ART. 3.6.5.
 
@@ -423,7 +524,7 @@ Een aanduiding als erkende metaaldetectorist is van onbepaalde duur, en   geldt 
 ### ART. 3.6.6.
 
 In het kader van de opvolging van de aanduiding als erkende metaaldetectorist moet de erkende metaaldetectorist:<br>
-1° alle wijzigingen die betrekking hebben op de erkenningsvoorwaarden, onverwijld&nbsp;per beveiligde zending&nbsp;melden aan het agentschap;<br>
+1° alle wijzigingen die betrekking hebben op de erkenningsvoorwaarden, onverwijld&nbsp;schriftelijk melden aan het agentschap;<br>
 2° bij het uitvoeren van veldwerk altijd een kopie van zijn legitimatiebewijs van erkende metaaldetectorist kunnen voorleggen;<br>
 3° veldwerk altijd uitvoeren overeenkomstig de bepalingen van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de code van goede praktijk;<br>
 4° alle archeologische artefacten en archeologische sites die hij vindt bij het gebruik van een metaaldetector onverwijld melden aan het agentschap met een meldingsformulier waarvan het model ter beschikking wordt gesteld op de website van het agentschap.
@@ -438,7 +539,15 @@ Het agentschap kan de aanduiding als erkende metaaldetectorist schorsen   voor e
 
 ### ART. 3.6.9.
 
-<P>Het agentschap bezorgt de gemotiveerde schorsingsbeslissing per beveiligde   zending aan de erkende metaaldetectorist. De schorsing treedt in werking op de   datum van de betekening.<BR></P>  <P>Vanaf de betekening mag de geschorste metaaldetectorist geen archeologische   artefacten en archeologische sites opsporen met behulp van een   metaaldetector.<BR></P>  <P>De geschorste metaaldetectorist bezorgt per beveiligde zending binnen een   termijn van zestig dagen, die ingaat op de dag na de betekening van de   schorsingsbeslissing een reactie waarin hij beschrijft welke acties hij heeft   ondernomen of onverwijld zal ondernemen ter remediëring of   verantwoording.<BR></P>  <P>Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van   de reactie beslist het agentschap tot opheffing van de schorsing of tot   intrekking van de erkenning. Als de geschorste metaaldetectorist geen reactie   heeft bezorgd binnen de gestelde termijn, trekt het agentschap de aanduiding als   erkende metaaldetectorist onverwijld in.<BR></P>  <P>Het agentschap deelt de beslissing per beveiligde zending binnen een termijn   van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager.   Vanaf deze betekening is de erkenning als metaaldetectorist ingetrokken. Als het   agentschap nalaat te beslissen of deze beslissing aan de aanvrager mee te delen   binnen de voorziene termijn, dan wordt de schorsing geacht opgeheven te   zijn.<BR></P>
+<p>Het agentschap bezorgt de gemotiveerde schorsingsbeslissing per beveiligde zending aan de erkende metaaldetectorist. De schorsing treedt in werking op de datum van de kennisgeving.</p>
+
+<p>Vanaf de&nbsp;kennisgeving mag de geschorste metaaldetectorist geen archeologische artefacten en archeologische sites opsporen met behulp van een metaaldetector.</p>
+
+<p>De geschorste metaaldetectorist bezorgt binnen een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de schorsingsbeslissing schriftelijk een reactie waarin hij beschrijft welke acties hij heeft ondernomen of onmiddellijk onderneemt ter remediëring of ter verantwoording.</p>
+
+<p>Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de reactie beslist het agentschap tot opheffing van de schorsing of tot intrekking van de erkenning. Als de geschorste metaaldetectorist geen reactie heeft bezorgd binnen de gestelde termijn, trekt het agentschap de aanduiding als erkende metaaldetectorist onverwijld in.</p>
+
+<p>Het agentschap deelt de beslissing per beveiligde zending binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager. Vanaf deze&nbsp;kennisgeving is de erkenning als metaaldetectorist ingetrokken. Als het agentschap nalaat te beslissen of deze beslissing aan de aanvrager mee te delen binnen de voorziene termijn, dan wordt de schorsing geacht opgeheven te zijn.</p>
 
 ### ART. 3.6.10.
 
@@ -450,7 +559,13 @@ De schorsing of intrekking van een aanduiding als erkende archeoloog   betekent 
 
 ### ART. 3.6.12.
 
-<P>Als het agentschap de aanduiding weigert of intrekt, kan de aanvrager of de   erkende metaaldetectorist een georganiseerd administratief beroep instellen bij   de minister.<BR></P>  <P>Het beroepschrift wordt per beveiligde zending ingediend binnen een termijn   van dertig dagen, die ingaat op dag na de kennisgeving van de beslissing van het   agentschap over de weigering van de erkenning of de intrekking ervan. Als de   aanvrager geen beslissing van het agentschap heeft ontvangen binnen de termijn   vermeld in artikel 3.6.4, vierde lid en de aanvraag dus geacht wordt geweigerd   te zijn, kan de aanvrager binnen een termijn van dertig dagen, die ingaat op de   dag na het verstrijken van de termijn een beroepschrift indienen per beveiligde   zending.<BR></P>  <P>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht   in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen   op hun verzoek schriftelijk of mondeling heeft gehoord.<BR></P>  <P>De minister neemt een beslissing over het beroep binnen een termijn van   zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Die   termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het   mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen   beslissing wordt genomen binnen de toepasselijke vervaltermijn, wordt het beroep   geacht te zijn afgewezen. De beslissing wordt per beveiligde zending onverwijld   bezorgd aan de indiener van het beroep.<BR></P>
+<p>Als het agentschap de aanduiding weigert of intrekt, kan de aanvrager of de erkende metaaldetectorist een georganiseerd administratief beroep instellen bij de minister.</p>
+
+<p>Het beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen, die ingaat op dag na de kennisgeving van de beslissing van het agentschap over de weigering van de erkenning of de intrekking ervan. Als de aanvrager geen beslissing van het agentschap heeft ontvangen binnen de termijn vermeld in artikel 3.6.4, derde lid en de aanvraag dus geacht wordt geweigerd te zijn, kan de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na het verstrijken van de termijn een beroepschrift&nbsp; schriftelijk indienen.</p>
+
+<p>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen op hun verzoek schriftelijk of mondeling heeft gehoord.</p>
+
+<p>De minister neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Die termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen beslissing wordt genomen binnen de toepasselijke vervaltermijn, wordt het beroep geacht te zijn afgewezen. De beslissing wordt per beveiligde zending onverwijld bezorgd aan de indiener van het beroep.</p>
 
 ## Afdeling 7 Kwaliteitslabel onroerenderfgoedondernemers
 
@@ -468,15 +583,19 @@ Om als onroerenderfgoedondernemer een kwaliteitslabel toegekend te krijgen   en 
 
 ### ART. 3.7.4.
 
-Het agentschap stelt op zijn website een modelformulier ter beschikking   waarmee een aanvraag tot toekenning van een kwaliteitslabel als   onroerenderfgoedondernemer kan worden ingediend. Door dat formulier in te vullen   kan de aanvrager aantonen dat hij voldoet aan alle toekenningsvoorwaarden. De   aanvrager voegt bij zijn aanvraag het volledig ingevulde modelformulier en de   daarin gevraagde stavingsstukken, en hij dient zijn aanvraag per beveiligde   zending in bij het agentschap. Als de stavingsstukken die in het modelformulier   gevraagd worden, in een andere taal dan het Nederlands zijn opgesteld, voegt hij   een beëdigde vertaling ervan bij het formulier.<BR>
+Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee een aanvraag tot toekenning van een kwaliteitslabel als onroerenderfgoedondernemer kan worden ingediend. Door dat formulier in te vullen kan de aanvrager aantonen dat hij voldoet aan alle toekenningsvoorwaarden. De aanvrager voegt bij zijn aanvraag het volledig ingevulde modelformulier en de daarin gevraagde stavingsstukken, en hij dient zijn aanvraag schriftelijk in bij het agentschap. Als de stavingsstukken die in het modelformulier gevraagd worden, in een andere taal dan het Nederlands zijn opgesteld, voegt hij een beëdigde vertaling ervan bij het formulier.
 
 ### ART. 3.7.5.
 
-<P>Het agentschap bezorgt de aanvrager per beveiligde zending en binnen een   termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de   aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is   en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt   binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van   het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het   dossier al dan niet ontvankelijk wordt verklaard.<BR></P>  <P>Als de aanvrager na het verstrijken van de termijn, vermeld in het eerste   lid, geen ontvankelijkheidsbewijs of geen verzoek tot aanvulling van het dossier   heeft ontvangen, wordt de aanvraag volledig en dus ontvankelijk geacht te   zijn.<BR></P>  <P>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een   termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag   over de aanvraag tot de toekenning van het kwaliteitslabel. Die termijn kan met   dertig dagen worden verlengd als het agentschap het nodig acht het advies van de   Commissie in te winnen. Die verlenging moet binnen de eerste termijn van zestig   dagen, per beveiligde zending aan de aanvrager worden gemeld.<BR></P>  <P>Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die   ingaat op de dag na de beslissing per beveiligde zending mee aan de aanvrager.   Het agentschap bezorgt tegelijk met de beslissing het kwaliteitslabel aan de   aanvrager. Als de aanvrager na het verstrijken van deze termijn geen beslissing   van het agentschap heeft ontvangen, wordt de aanvraag tot toekenning van het   kwaliteitslabel geacht geweigerd te zijn.<BR></P>
+<p>Het agentschap bezorgt de aanvrager schriftelijk en binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de&nbsp;kennisgeving van het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het dossier al dan niet ontvankelijk wordt verklaard.</p>
+
+<p>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag over de aanvraag tot de toekenning van het kwaliteitslabel. Die termijn kan met dertig dagen worden verlengd als het agentschap het nodig acht het advies van de Commissie in te winnen. Die verlenging moet binnen de eerste termijn van zestig dagen, schriftelijk aan de aanvrager worden gemeld.</p>
+
+<p>Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing schriftelijk mee aan de aanvrager. Het agentschap bezorgt tegelijk met de beslissing het kwaliteitslabel aan de aanvrager. Als de aanvrager na het verstrijken van deze termijn geen beslissing van het agentschap heeft ontvangen, wordt de aanvraag tot toekenning van het kwaliteitslabel geacht geweigerd te zijn.</p>
 
 ### ART. 3.7.6.
 
-Als de aanvrager al over een kwaliteitslabel als   onroerenderfgoedondernemer beschikt voor een of meer disciplines, maar voor   bijkomende disciplines een kwaliteitslabel wil verwerven, dient de aanvrager een   nieuwe aanvraag in voor deze bijkomende disciplines met vermelding van de   disciplines waarvoor hij al over een kwaliteitslabel beschikt. Als het   agentschap het kwaliteitslabel toekent voor die bijkomende disciplines, bezorgt   het agentschap per beveiligde zending een nieuw kwaliteitslabel, met vermelding   van alle disciplines, aan de onroerenderfgoedondernemer.<BR>
+Als de aanvrager al over een kwaliteitslabel als onroerenderfgoedondernemer beschikt voor een of meer disciplines, maar voor bijkomende disciplines een kwaliteitslabel wil verwerven, dient de aanvrager een nieuwe aanvraag in voor deze bijkomende disciplines met vermelding van de disciplines waarvoor hij al over een kwaliteitslabel beschikt. Als het agentschap het kwaliteitslabel toekent voor die bijkomende disciplines, bezorgt het agentschap schriftelijk een nieuw kwaliteitslabel, met vermelding van alle disciplines, aan de onroerenderfgoedondernemer.
 
 ### ART. 3.7.7.
 
@@ -496,7 +615,17 @@ Het agentschap kan na evaluatie de toekenning van een kwaliteitslabel   schorsen
 
 ### ART. 3.7.11.
 
-<P>Het agentschap bezorgt de gemotiveerde schorsingsbeslissing per beveiligde   zending aan de onroerenderfgoedondernemer. De schorsing treedt in werking vanaf   het moment van de betekening.<BR>Vanaf de betekening van de schorsing kan de   onroerenderfgoedondernemer het kwaliteitslabel in zijn geheel niet dragen. </P>  <P>Vanaf de betekening van de schorsing schrapt het agentschap de   onroerenderfgoedondernemer van de lijst die gepubliceerd is op de website van   het agentschap.<BR></P>  <P>De onroerenderfgoedondernemer bezorgt per beveiligde zending binnen de   termijn van zestig dagen, die ingaat op de dag na de betekening van de   schorsingsbeslissing een reactie waarin hij beschrijft welke acties hij heeft   ondernomen of onverwijld zal ondernemen ter remediëring of ter tegemoetkoming   aan de toekenningsvoorwaarden.<BR></P>  <P>Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van   de reactie beslist het agentschap tot opheffing van de schorsing of tot   intrekking. Als de onroerenderfgoedondernemer geen reactie heeft bezorgd binnen   de gestelde termijn, trekt het agentschap het kwaliteitslabel onverwijld   in.<BR></P>  <P>Het agentschap deelt, per beveiligde zending, zijn beslissing binnen een   termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de   onroerenderfgoedondernemer. Vanaf die betekening is het kwaliteitslabel   ingetrokken. Als het agentschap nalaat een beslissing te nemen of nalaat de   beslissing mee te delen binnen de voorziene termijn, wordt de schorsing geacht   opgeheven te zijn.<BR></P>
+<p>Het agentschap bezorgt de gemotiveerde schorsingsbeslissing per beveiligde zending aan de onroerenderfgoedondernemer. De schorsing treedt in werking vanaf het moment van de kennisgeving.<br>
+<br>
+Vanaf de&nbsp;kennisgeving van de schorsing kan de onroerenderfgoedondernemer het kwaliteitslabel in zijn geheel niet dragen.</p>
+
+<p>De onroerenderfgoedondernemer bezorgt binnen een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de schorsingsbeslissing schriftelijk een reactie waarin hij beschrijft welke acties hij heeft ondernomen of onmiddellijk onderneemt om te remediëren of tegemoet te komen aan de toekenningsvoorwaarden.</p>
+
+<p>De onroerenderfgoedondernemer bezorgt per beveiligde zending binnen de termijn van zestig dagen, die ingaat op de dag na de betekening van de schorsingsbeslissing een reactie waarin hij beschrijft welke acties hij heeft ondernomen of onverwijld zal ondernemen ter remediëring of ter tegemoetkoming aan de toekenningsvoorwaarden.</p>
+
+<p>Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, schriftelijk mee aan de onroerenderfgoedondernemer. De opheffing van de schorsing of de intrekking van het kwaliteitslabel is van kracht vanaf die kennisgeving. Als het agentschap nalaat een beslissing te nemen of nalaat de beslissing mee te delen binnen de vastgestelde termijn, wordt de schorsing geacht opgeheven te zijn.</p>
+
+<p>Het agentschap deelt, per beveiligde zending, zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de onroerenderfgoedondernemer. Vanaf die betekening is het kwaliteitslabel ingetrokken. Als het agentschap nalaat een beslissing te nemen of nalaat de beslissing mee te delen binnen de voorziene termijn, wordt de schorsing geacht opgeheven te zijn.</p>
 
 ### ART. 3.7.12.
 
@@ -504,7 +633,13 @@ Als de onroerenderfgoedondernemer zelf te kennen geeft dat hij geen   kwaliteits
 
 ### ART. 3.7.13.
 
-<P>Als het agentschap de toekenning van een kwaliteitslabel aan een   onroerenderfgoedondernemer weigert of intrekt, kan de onroerenderfgoedondernemer   een georganiseerd administratief beroep instellen bij de minister.<BR></P>  <P>Het beroepschrift wordt per beveiligde zending ingediend binnen een termijn   van dertig dagen die ingaat op de dag na de kennisgeving van de beslissing van   het agentschap over de weigering van de toekenning of de intrekking ervan. Als   de aanvrager geen beslissing van het agentschap heeft ontvangen binnen de   termijn vermeld in artikel 3.7.5, vierde lid en de aanvraag dus geacht wordt   geweigerd te zijn, kan de aanvrager binnen een termijn van honderdtwintig dagen,   die ingaat op de dag na de aanvraag tot toekenning per beveiligde zending een   beroepschrift indienen.<BR></P>  <P>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht   in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen   op hun verzoek schriftelijk of mondeling heeft gehoord.<BR></P>  <P>De minister neemt een beslissing over het beroep binnen een termijn van   zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Deze   termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het   mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen   beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt het beroep   geacht te zijn afgewezen. De beslissing wordt per beveiligde zending onverwijld   bezorgd aan de indiener van het beroep.<BR></P>
+<p>Als het agentschap de toekenning van een kwaliteitslabel aan een onroerenderfgoedondernemer weigert of intrekt, kan de onroerenderfgoedondernemer een georganiseerd administratief beroep instellen bij de minister.</p>
+
+<p>Het beroepschrift wordt per beveiligde zending ingediend binnen een termijn van dertig dagen die ingaat op de dag na de kennisgeving van de beslissing van het agentschap over de weigering van de toekenning of de intrekking ervan. Als de aanvrager geen beslissing van het agentschap heeft ontvangen binnen de termijn vermeld in artikel 3.7.5, derde lid en de aanvraag dus geacht wordt geweigerd te zijn, kan de aanvrager binnen een termijn van honderdtwintig dagen, die ingaat op de dag na de aanvraag tot toekenning schriftelijk een beroepschrift indienen.</p>
+
+<p>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen op hun verzoek schriftelijk of mondeling heeft gehoord.</p>
+
+<p>De minister neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Deze termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt het beroep geacht te zijn afgewezen. De beslissing wordt per beveiligde zending onverwijld bezorgd aan de indiener van het beroep.</p>
 
 ## HOOFDSTUK 4 Inventarissen
 
@@ -915,11 +1050,15 @@ De volgende handelingen aan als monument beschermde uurwerken kunnen niet   word
 
 ### ART. 6.3.1.
 
-<P>§ 1. Als voor de handelingen aan of in beschermde goederen een   omgevingsvergunning of een vergunning, toelating, machtiging, ontheffing of   afwijking overeenkomstig de VCRO, het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet   van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu   vereist is, wordt de aanvraag van een toelating ingediend conform de bepalingen   van artikel 6.4.4, § 2 en § 3, van het Onroerenderfgoeddecreet van 12 juli   2013.<BR><BR>§ 2. Als de handelingen aan of in beschermde goederen   overeenkomstig de bepalingen van de VCRO, het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 en het   decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk   milieu zijn vrijgesteld van vergunning, toelating of machtiging, wordt de   aanvraag van een toelating voor handelingen aan of in beschermde monumenten,   beschermde cultuurhistorische landschappen of beschermde archeologische sites   ingediend en behandeld volgens de procedure, vermeld in artikel 6.3.2 tot en met   6.3.11 van dit besluit.</P>
+Als voor de handelingen aan of in beschermde goederen een omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden, een omgevingsvergunning voor de exploitatie van een gedeelde inrichting of activiteit, een vergunning, toelating, machtiging, ontheffing of afwijking overeenkomstig de bepalingen van het Bosdecreet van 13 juni 1990, het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu of het decreet van 25 april 2014 betreffende de omgevingsvergunning vereist is, wordt de aanvraag van een toelating ingediend en behandeld volgens de procedure vermeld in artikel 6.4.4, § 2 en § 3, van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Als voor de handelingen aan of in beschermde goederen geen omgevingsvergunning, geen vergunning, geen toelating, geen machtiging, geen ontheffing of geen afwijking zoals vermeld in het eerste lid vereist is, wordt de aanvraag van een toelating voor handelingen aan of in beschermde monumenten, beschermde cultuurhistorische landschappen of beschermde archeologische sites ingediend en behandeld volgens de procedure vermeld in artikel 6.3.2 tot en met 6.3.11 van dit besluit.
 
 ### ART. 6.3.2.
 
-<p>De aanvraag van een toelating voor handelingen aan of in beschermde goederen waarvoor met toepassing van de VCRO, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu geen vergunning, toelating, machtiging, ontheffing of afwijking hoeft te worden aangevraagd, wordt per beveiligde zending ingediend bij het agentschap of, in voorkomend geval, bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt.</p>
+<p>De aanvraag van een toelating voor handelingen aan of in beschermde goederen zoals vermeld in artikel 6.3.1, tweede lid, wordt schriftelijk ingediend bij het agentschap of, in voorkomend geval, bij het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente waar het beschermde goed ligt.<br>
+<br>
+Als de aanvraag, vermeld in het eerste lid, betrekking heeft op handelingen aan of in beschermde goederen op percelen die op het grondgebied van verschillende gemeenten liggen, dient de aanvrager die in bij het agentschap.</p>
 
 <p>De aanvraag bestaat minstens uit de volgende elementen:<br>
 1° de contactgegevens van de aanvrager;<br>
@@ -931,7 +1070,9 @@ De volgende handelingen aan als monument beschermde uurwerken kunnen niet   word
 
 ### ART. 6.3.3.
 
-<P>Het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente   gaat na of voldaan is aan alle voorwaarden, vermeld in artikel 6.3.2, en of de   dossiergegevens een onderzoek ten gronde toelaten.<BR></P>  <P>Als de aanvraag onvolledig is, kan het agentschap of, in voorkomend geval, de   erkende onroerenderfgoedgemeente binnen een termijn van twintig dagen, die   ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager per   beveiligde zending vragen om de ontbrekende gegevens of documenten bij de   aanvraag te voegen, en de termijn bepalen waarbinnen dat moet   gebeuren.<BR></P>
+<p>Het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente gaat na of voldaan is aan alle voorwaarden, vermeld in artikel 6.3.2, en of de dossiergegevens een onderzoek ten gronde toelaten.</p>
+
+<p>Als de aanvraag onvolledig is, kan het agentschap of, in voorkomend geval, de erkende onroerenderfgoedgemeente binnen een termijn van twintig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk&nbsp;vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.</p>
 
 ### ART. 6.3.4.
 
@@ -943,7 +1084,10 @@ De volgende handelingen aan als monument beschermde uurwerken kunnen niet   word
 
 ### ART. 6.3.6.
 
-Het agentschap of, in voorkomend geval, het college van burgemeester en   schepenen van de erkende onroerenderfgoedgemeente maakt de beslissing binnen een   ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing   of de dag na het verstrijken van de termijn, vermeld in artikel 6.3.5, eerste   lid, als volgt bekend:<BR>1° het agentschap of, in voorkomend geval, het college   van burgemeester en schepenen van de erkende onroerenderfgoedgemeente bezorgt   per beveiligde zending een afschrift van de uitdrukkelijke beslissing of een   kennisgeving van de stilzwijgende beslissing aan de aanvrager;<BR>2° als het   gaat om een beslissing van het agentschap wordt een afschrift van die   uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing   gelijktijdig en schriftelijk aan de gemeente bezorgd, en wordt die beslissing   ingeschreven in het register van toelatingen en adviezen, vermeld in artikel   6.5.1;<BR>3° als het gaat om een beslissing van het college van burgemeester en   schepenen van de erkende onroerenderfgoedgemeente wordt die beslissing   ingeschreven in het register van toelatingen en adviezen, vermeld in artikel   6.5.1.<BR>
+Het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente maakt de beslissing binnen een ordetermijn van tien dagen, die ingaat op de dag na de datum van de beslissing of de dag na het verstrijken van de termijn, vermeld in artikel 6.3.5, eerste lid, als volgt bekend:<br>
+1° het agentschap of, in voorkomend geval, het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente brengt de aanvrager schriftelijk op de hoogte van de uitdrukkelijke of stilzwijgende beslissing tot toelating;<br>
+2° als het gaat om een beslissing van het agentschap wordt een afschrift van die uitdrukkelijke beslissing of een kennisgeving van de stilzwijgende beslissing gelijktijdig en schriftelijk aan de gemeente bezorgd, en wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1;<br>
+3° als het gaat om een beslissing van het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente wordt die beslissing ingeschreven in het register van toelatingen en adviezen, vermeld in artikel 6.5.1.
 
 ### ART. 6.3.7.
 
@@ -951,11 +1095,11 @@ Het agentschap of, in voorkomend geval, het college van burgemeester en   schepe
 
 ### ART. 6.3.8.
 
-De aanvrager mag alleen gebruik maken van de toelating, als hij niet   binnen een termijn van vijftien dagen, die ingaat op de dag na de dag van   aanplakking of op de dag na de dag waarop de laatste belanghebbende de   mededeling, vermeld in artikel 6.3.7, 2°, heeft ontvangen, op de hoogte is   gebracht van de instelling van een schorsend administratief beroep, als vermeld   in artikel 6.3.14.<BR>
+De aanvrager mag alleen gebruik maken van de toelating, als hij niet binnen een termijn van&nbsp;dertig dagen, die ingaat op de dag na de dag van aanplakking of op de dag na de dag waarop de laatste belanghebbende de mededeling, vermeld in artikel 6.3.7, 2°, heeft ontvangen, op de hoogte is gebracht van de instelling van een schorsend administratief beroep, als vermeld in artikel 6.3.14.
 
 ### ART. 6.3.9.
 
-Als dat opgenomen is in de voorwaarden van de toelating, meldt de   aanvrager de start en het einde van de uitvoering van de werken aan de   provinciale diensten van het agentschap of, in voorkomend geval, aan het college   van burgemeester en schepenen van de erkende onroerenderfgoedgemeente. De werken   worden uitgevoerd overeenkomstig de voorwaarden die bepaald zijn in de   toelating.<BR>
+Als dat opgenomen is in de voorwaarden van de toelating, meldt de aanvrager de start en het einde van de uitvoering van de werken aan de&nbsp;decentrale diensten van het agentschap of, in voorkomend geval, aan het college van burgemeester en schepenen van de erkende onroerenderfgoedgemeente. De werken worden uitgevoerd overeenkomstig de voorwaarden die bepaald zijn in de toelating.
 
 ### ART. 6.3.10.
 
@@ -963,11 +1107,13 @@ Een afschrift van de toelating of kennisgeving van de stilzwijgende   beslissing
 
 ### ART. 6.3.11.
 
-<P>De toelating vervalt als de werken twee jaar na het verlenen van de toelating   niet gestart zijn of gedurende meer dan drie opeenvolgende jaren onderbroken   worden. De termijn van twee jaar vangt aan op de dag na de datum van de   betekening van de beslissing vermeld in artikel 6.3.6, 1°.<BR></P>  <P>Als voor de werken een premie is aangevraagd, wordt de vervaltermijn   geschorst zolang de premie niet is toegekend.<BR></P>
+<p>De toelating vervalt als de werken twee jaar na het verlenen van de toelating niet gestart zijn of gedurende meer dan drie opeenvolgende jaren onderbroken worden. De termijn van twee jaar vangt aan op de dag na de datum van de&nbsp;kennisgeving van de beslissing vermeld in artikel 6.3.6, 1°.</p>
+
+<p>Als voor de werken een premie is aangevraagd, wordt de vervaltermijn geschorst zolang de premie niet is toegekend.</p>
 
 ### ART. 6.3.12.
 
-<p>Voor handelingen aan of in beschermde stads- of dorpsgezichten, zoals vermeld in artikel 6.2.5 of het beschermingsbesluit, wordt per beveiligde zending bij het college van burgemeester en schepenen een melding ingediend. Deze handelingen mogen worden aangevat vanaf de twintigste dag na de datum van de melding, behalve als het college van burgemeester en schepenen de aanmelder voordien per beveiligde zending op de hoogte brengt dat de aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van het beschermde stads- of dorpsgezicht te verstoren. In dat geval kunnen de handelingen slechts worden aangevat nadat het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente een toelating heeft verleend. De aanvraag van de toelating door de aanmelder en de behandeling ervan gebeurt overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
+<p>Voor handelingen aan of in beschermde stads- of dorpsgezichten, zoals vermeld in artikel 6.2.5 of het beschermingsbesluit, wordt schriftelijk bij het college van burgemeester en schepenen een melding ingediend. Deze handelingen mogen worden aangevat vanaf de twintigste dag na de datum van de melding, behalve als het college van burgemeester en schepenen de aanmelder voordien per beveiligde zending op de hoogte brengt dat de aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van het beschermde stads- of dorpsgezicht te verstoren. In dat geval kunnen de handelingen slechts worden aangevat nadat het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente een toelating heeft verleend. De aanvraag van de toelating door de aanmelder en de behandeling ervan gebeurt overeenkomstig artikel 6.3.2 tot en met 6.3.11.</p>
 
 <p>Het college van burgemeester en schepenen kan niet oordelen dat aangemelde handelingen van aard zijn om de wezenlijke eigenschappen van een beschermd stads- of dorpsgezicht te verstoren indien deze handelingen niet zichtbaar zijn vanaf een openbare weg of opgenomen in de daartoe opgestelde lijst van handelingen horende bij een overeenkomstig artikel 8.1.1 van het Onroerenderfgoeddecreet van 12 juli 2013 goedgekeurd beheersplan. De melding bestaat minstens uit:<br>
 1° een nauwkeurige beschrijving van de handelingen;<br>
@@ -989,15 +1135,25 @@ Voor de gehele of gedeeltelijke sloop, het optrekken, het plaatsen of het herbou
 
 ### ART. 6.3.14.
 
-Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een   termijn van&nbsp;vijftien dagen, ingaand:<BR>1° de dag na de datum waarop de   personen of instanties, vermeld in artikel 6.3.6 en 6.3.7, eerste lid, 2°, het   afschrift van de bestreden beslissing of de mededeling ontvangen;<BR>2° de dag   na de eerste dag van de aanplakking van de bestreden beslissing overeenkomstig   artikel 6.3.7, eerste lid, 1°, in de overige gevallen.<BR>
+Het beroep wordt op straffe van onontvankelijkheid ingesteld binnen een termijn van&nbsp;dertig dagen, ingaand:<br>
+1° de dag na de datum waarop de personen of instanties, vermeld in artikel 6.3.6 en 6.3.7, eerste lid, 2°, het afschrift van de bestreden beslissing of de mededeling ontvangen;<br>
+2° de dag na de eerste dag van de aanplakking van de bestreden beslissing overeenkomstig artikel 6.3.7, eerste lid, 1°, in de overige gevallen.
 
 ### ART. 6.3.15.
 
-Het beroep schorst de uitvoering van de bestreden beslissing tot de dag na   de datum van de betekening van de beslissing in beroep aan de   aanvrager.<BR>
+Het beroep schorst de uitvoering van de bestreden beslissing tot de dag na de datum van de&nbsp;kennisgeving van de beslissing in beroep aan de aanvrager.
 
 ### ART. 6.3.16.
 
-<P>Het beroep wordt op straffe van onontvankelijkheid per beveiligde zending   ingesteld bij de minister.<BR></P>  <P>Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met   vermelding van de datum en het referentienummer van de bestreden beslissing en   in voorkomend geval de datum van aanplakking.<BR></P>  <P>Het beroepschrift wordt gedagtekend en ondertekend door de indiener van het   beroep of door zijn raadsman. Als de woonplaatskeuze wordt gedaan bij de   raadsman van de indiener van het beroep, wordt dat ook in het beroepschrift   aangegeven.<BR></P>  <P>De indiener van het beroep kan bij het beroepschrift de stavingsstukken   voegen die hij nodig acht. De stavingsstukken worden door de indiener van het   beroep gebundeld en op een inventaris ingeschreven.<BR></P>
+<p>Het beroepschrift wordt schriftelijk ingediend bij de minister.<br>
+<br>
+Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift en bevat de volgende gegevens:<br>
+1° de datum en het referentienummer van de bestreden beslissing;<br>
+2° de datum van aanplakking of de datum van ontvangst van het afschrift van de bestreden beslissing of de mededeling zoals vermeld in artikel 6.3.14.</p>
+
+<p>Het beroepschrift wordt gedagtekend en ondertekend door de indiener van het beroep of door zijn raadsman. Als de woonplaatskeuze wordt gedaan bij de raadsman van de indiener van het beroep, wordt dat ook in het beroepschrift aangegeven.</p>
+
+<p>De indiener van het beroep kan bij het beroepschrift de stavingsstukken voegen die hij nodig acht. De stavingsstukken worden door de indiener van het beroep gebundeld en op een inventaris ingeschreven.</p>
 
 ### ART. 6.3.17.
 
@@ -1013,7 +1169,17 @@ Het beroep schorst de uitvoering van de bestreden beslissing tot de dag na   de 
 
 ### ART. 6.3.20.
 
-<P>De minister beslist over het beroep binnen een termijn van dertig dagen, die   ingaat op de dag na de betekening van het beroep.<BR></P>  <P>In het geval het advies van de Commissie wordt ingewonnen, wordt de termijn   in het eerste lid geschorst gedurende de termijn bepaald in artikel   6.3.19.<BR></P>  <P>Als geen beslissing is genomen binnen de termijn, vermeld in het eerste lid,   herleeft de beslissing die in eerste aanleg genomen is.<BR></P>  <P>De beslissing vermeldt de voorwaarden die van toepassing zijn.<BR></P>  <P>Als de toelating voor een bepaalde duur wordt verleend, vermeldt de   beslissing de duur van de toelating en de reden daarvoor.<BR></P>
+<p>De minister beslist over het beroep binnen een termijn van dertig dagen, die ingaat op de dag na de&nbsp;ontvangst van het beroep.</p>
+
+<p>In het geval het advies van de Commissie wordt ingewonnen, wordt de termijn in het eerste lid geschorst gedurende de termijn bepaald in artikel 6.3.19.<br>
+<br>
+In voorkomend geval, wordt de termijn vermeld in het eerste lid geschorst gedurende de termijn bepaald in artikel 6.3.18, tweede lid waarbinnen de beroepsindiener ontbrekende gegevens of documenten moet indienen.</p>
+
+<p>Als geen beslissing is genomen binnen de termijn, vermeld in het eerste lid, herleeft de beslissing die in eerste aanleg genomen is.</p>
+
+<p>De beslissing vermeldt de voorwaarden die van toepassing zijn.</p>
+
+<p>Als de toelating voor een bepaalde duur wordt verleend, vermeldt de beslissing de duur van de toelating en de reden daarvoor.</p>
 
 ### ART. 6.3.21.
 
@@ -1037,7 +1203,7 @@ Als dat opgenomen is in de voorwaarden van de toelating, meldt de   aanvrager de
 
 ### ART. 6.3.26.
 
-De toelating vervalt als de werken twee jaar na het verlenen van de   toelating niet gestart zijn of gedurende meer dan drie opeenvolgende jaren   onderbroken worden. De termijn van twee jaar vangt aan op de dag na de datum van   de betekening van de beslissing vermeld in artikel 6.3.21.<BR>
+De toelating vervalt als de werken twee jaar na het verlenen van de toelating niet gestart zijn of gedurende meer dan drie opeenvolgende jaren onderbroken worden. De termijn van twee jaar vangt aan op de dag na de datum van de&nbsp;kennisgeving van de beslissing vermeld in artikel 6.3.21.
 
 ## Onderafdeling 3 Beroepsprocedure vergunningsplichtige handelingen
 
@@ -1061,7 +1227,15 @@ De Commissie bezorgt het commissieadvies aan de betrokken   beroepsinstantie.<BR
 
 ### ART. 6.4.1.
 
-<P>De zakelijkrechthouder of gebruiker van een beschermd goed doet onverwijld en   per beveiligde zending melding van elk schadegeval en in voorkomend geval, van   de in nood getroffen maatregelen bij de provinciale diensten van het   agentschap.<BR></P>  <P>Een melding bestaat minstens uit de volgende elementen:<BR>1° een   beschrijving van het schadegeval;<BR>2° in voorkomend geval, een beschrijving   van de genomen consolidatie- en beveiligingsmaatregelen waaruit blijkt dat de   aangemelde handelingen tijdelijk en omkeerbaar zijn;<BR>3° de aanwijzing van de   precieze plaats van het schadegeval.</P>  <P><BR>Het agentschap stelt een modelformulier ter beschikking op zijn   website.<BR></P>
+<p>De zakelijkrechthouder of gebruiker van een beschermd goed doet onverwijld en schriftelijk melding van elk schadegeval en in voorkomend geval, van de in nood getroffen maatregelen bij de&nbsp;decentrale diensten van het agentschap.</p>
+
+<p>Een melding bestaat minstens uit de volgende elementen:<br>
+1° een beschrijving van het schadegeval;<br>
+2° in voorkomend geval, een beschrijving van de genomen consolidatie- en beveiligingsmaatregelen waaruit blijkt dat de aangemelde handelingen tijdelijk en omkeerbaar zijn;<br>
+3° de aanwijzing van de precieze plaats van het schadegeval.</p>
+
+<p><br>
+Het agentschap stelt een modelformulier ter beschikking op zijn website.</p>
 
 ## [Afdeling 5. Databank van toelatingen en adviezen (verv. BVR 2 september 2022, art. 44, I: 1 januari 2023)]
 
@@ -1099,7 +1273,7 @@ De publiciteit, zowel in digitale als papieren vorm, die verbonden is aan   de s
 
 ### ART. 7.1.1.
 
-De Vlaamse Regering kan per thema of gebied een onroerenderfgoedrichtplan   opstellen.<BR>
+De minister kan per thema of gebied een onroerenderfgoedrichtplan opstellen.
 
 ## HOOFDSTUK 8 Beheer van onroerend erfgoed
 
@@ -1109,7 +1283,9 @@ De Vlaamse Regering kan per thema of gebied een onroerenderfgoedrichtplan   opst
 
 ### ART. 8.1.1.
 
-<P>Voor onroerend erfgoed en erfgoedlandschappen of voor een deel ervan dat een   opzichzelfstaand geheel vormt, kan door of in opdracht van de   zakelijkrechthouder of de gebruiker een beheersplan opgemaakt worden.<BR></P>  <P>Een of meer zakelijkrechthouders of gebruikers kunnen een aanvraag tot opmaak   van een beheersplan laten indienen door een   gevolmachtigde.<BR></P>
+Een beheersplan kan een zelfstandig onderdeel van een onroerend erfgoed of erfgoedlandschap betreffen.<br>
+<br>
+Een of meer zakelijkrechthouders of gebruikers kunnen een beheersplan laten indienen door een gevolmachtigde.
 
 ## Onderafdeling 2 Aanvraag tot opmaak
 
@@ -1127,29 +1303,31 @@ De Vlaamse Regering kan per thema of gebied een onroerenderfgoedrichtplan   opst
 
 ### ART. 8.1.4.
 
-<p>§ 1. Het beheersplan moet een betekenisvolle meerwaarde voor het onroerend erfgoed of het erfgoedlandschap of voor een deel ervan dat een opzichzelfstaand geheel vormt, beogen en bevat ten minste de volgende elementen:<br>
-1° de identificatie en het kadasterplan met de afbakening van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt, waarvoor het beheersplan wordt opgesteld;<br>
-2° een historische nota, die op basis van geschreven of iconografische bronnen en van archeologische of natuurwetenschappelijke bevindingen of sporen een helder inzicht geeft in de totstandkoming en ontwikkeling van het onroerend erfgoed of erfgoedlandschap vanaf zijn ontstaan tot de huidige toestand;<br>
-3° een inventarisatie van de erfgoedelementen binnen de afbakening. De huidige toestand wordt geïllustreerd met recente plannen en foto's die een duidelijk beeld geven van het onroerend erfgoed of erfgoedlandschap, of van het deel ervan dat een opzichzelfstaand geheel vormt;<br>
-4° de situering en de beschrijving van de erfgoedwaarden en de juridische toestand van het onroerend erfgoed of het erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt, waarop het beheersplan betrekking heeft;<br>
-5° een onderbouwde visie op het beheer van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een opzichzelfstaand geheel vormt en de beheersdoelstellingen die eruit voortvloeien;<br>
+§ 1. Het beheersplan beoogt een betekenisvolle meerwaarde voor het onroerend erfgoed of het erfgoedlandschap of voor een zelfstandig onderdeel ervan en bevat ten minste de volgende elementen:<br>
+1° de identificatie en het kadasterplan met de afbakening van het onroerend erfgoed of erfgoedlandschap of het zelfstandig onderdeel ervan, waarvoor het beheersplan wordt opgesteld;<br>
+2° een historische nota, die op basis van geschreven of iconografische bronnen en van archeologische of natuurwetenschappelijke bevindingen of sporen een helder inzicht geeft in de totstandkoming en ontwikkeling van de afgebakende locatie tot de huidige toestand;<br>
+3° een inventarisatie van de erfgoedelementen binnen de afbakening en een toestandsrapport. De huidige toestand wordt geïllustreerd met recente plannen en foto's die een duidelijk beeld geven van de afgebakende locatie;<br>
+4° de situering en de beschrijving van de erfgoedwaarden en de juridische toestand van de afgebakende locatie, waarop het beheersplan betrekking heeft;<br>
+5° een onderbouwde visie, gebaseerd op de elementen vermeld in punt 1° tot en met 4°, op het beheer van de afgebakende locatie en de beheersdoelstellingen die eruit voortvloeien. Als de afgebakende locatie naast een beschermd stads- en dorpsgezicht, beschermd cultuurhistorisch landschap, erfgoedlandschap of een beschermde archeologische site ook afzonderlijk beschermde monumenten omvat en als het beheer daarvan impact heeft op het grotere beschermde geheel, dan moet het beheersplan ook een visie op het beheer van die beschermde monumenten bevatten ;<br>
 6° de opsomming en verantwoording van de concrete richtlijnen, eenmalige en terugkerende maatregelen en werkzaamheden die nodig zijn om de beoogde beheersdoelstellingen te bereiken;<br>
-7° een voorstel voor de manier en het tijdstip waarop de beoogde beheersdoelstellingen opgevolgd en geëvalueerd zullen worden;<br>
-8° in voorkomend geval een voorstel voor ZEN-erfgoed;<br>
-9° in voorkomend geval een voorstel van handelingen aan of in beschermde goederen die vrijgesteld zijn van toelating of melding;<br>
-10° als het beheersplan betrekking heeft op verschillende zakelijkrechthouders of gebruikers, een overzicht van hoe de participatie en communicatie over de opmaak van het beheersplan is verlopen.</p>
-
-<p>De visie op het beheer, de beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden moet in voorkomend geval in overeenstemming zijn met de geldende wet-, decreet- en regelgeving.<br>
+7° een voorstel over hoe gerapporteerd wordt over de uitvoering van de richtlijnen, de maatregelen en de werkzaamheden, vermeld in punt 6° en over de realisatie van de beheersdoelstellingen, vermeld in punt 5°. Het voorstel houdt rekening met de rapportageverplichting, vermeld in artikel 8.1.8;<br>
+8° in voorkomend geval een identificatie van het ZEN-erfgoed;<br>
+9° in voorkomend geval een opsomming van de handelingen aan of in beschermde goederen die vrijgesteld zijn van toelating of melding;<br>
+10° als het beheersplan betrekking heeft op verschillende zakelijkrechthouders of gebruikers, een overzicht van hoe de participatie en communicatie over de opmaak van het beheersplan is verlopen.<br>
 <br>
-§&nbsp;2. In voorkomend geval wordt in een afzonderlijk deel van het beheersplan aangetoond dat voldaan is aan de voorwaarden van open erfgoed, vermeld in artikel 8.4.1.<br>
+De visie op het beheer, de beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden is in voorkomend geval in overeenstemming met de geldende wet-, decreet- en regelgeving.<br>
 <br>
-Als het aangewezen is om af te wijken van de openstellingsvoorwaarden, vermeld in artikel 8.4.1, 5°, wordt in dat onderdeel van het beheersplan een motivatie daarvoor opgenomen.</p>
+§ 2. In voorkomend geval wordt in een afzonderlijk onderdeel van het beheersplan nader ingegaan op het concrete beheer en de optimalisatie van de locatie als open erfgoed overeenkomstig de voorwaarden vermeld in artikel 8.4.1. Als de locatie nog tot open erfgoed moet worden ontwikkeld, wordt dat afzonderlijk onderdeel uitgebreid met een duidelijk ontwikkelingstraject in functie van een erkenning als open erfgoed, waaruit blijkt dat na dat traject de locatie zal voldoen aan de erkenningsvoorwaarden vermeld in artikel 8.4.1.<br>
+<br>
+Het beheersplan vermeldt in voorkomend geval de ingrepen die worden voorzien voor de verbeterde inhoudelijke of fysieke ontsluiting van het goed.<br>
+<br>
+Als het aangewezen is om af te wijken van de openstellingsvoorwaarden, vermeld in artikel 11.2.11, § 1, 3°, wordt in dat onderdeel van het beheersplan een motivatie daarvoor opgenomen.
 
 ## Onderafdeling 5 Indiening
 
 ### ART. 8.1.5.
 
-Een beheersplan wordt in twee papieren exemplaren en digitaal ingediend bij het agentschap. Bij de indiening van het beheersplan worden de volgende gegevens of bijlagen gevoegd:<br>
+Een beheersplan wordt schriftelijk ingediend bij het agentschap. Bij de indiening van het beheersplan worden de volgende gegevens of bijlagen gevoegd:<br>
 1° de identificatiegegevens van de zakelijkrechthouder en, in voorkomend geval, van de gebruiker of de gevolmachtigde;<br>
 2° als het beheersplan wordt ingediend door een gevolmachtigde, een geschreven volmacht;<br>
 3° als het beheersplan wordt ingediend door een gebruiker, het schriftelijk akkoord van de zakelijkrechthouders
@@ -1158,57 +1336,103 @@ Een beheersplan wordt in twee papieren exemplaren en digitaal ingediend bij het 
 
 ### ART. 8.1.6.
 
-<p>§ 1. Als er binnen de afbakening vermeld in artikel 8.1.4, eerste lid, 1°, van dit besluit, zones voorkomen met habitats die beschermd zijn met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of gedeeltelijk ligt in het Vlaams Ecologisch Netwerk of een speciale beschermingszone met toepassing van hetzelfde decreet, vraagt het agentschap voorafgaand aan de beslissing over de goedkeuring van het beheersplan een advies aan het Agentschap voor Natuur en Bos over de voorgestelde beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden. Dat advies wordt verleend binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesaanvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.</p>
-
-<p>§ 2. Na onderzoek van het beheersplan beslist het agentschap binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van het beheersplan over de goedkeuring van het beheersplan. De beslissing wordt per beveiligde zending ter kennis gebracht van de aanvrager.</p>
-
-<p>Het agentschap kan in de beslissing tot goedkeuring voorwaarden opleggen voor de uitvoering en de opvolging van het beheersplan. Het agentschap kan in de beslissing tot goedkeuring het onroerend erfgoed of voor een deel ervan dat een opzichzelfstaand geheel vormt, erkennen als open erfgoed of als ZEN-erfgoed.</p>
-
-<p>Als het beheersplan een voorstel van werken die vrijgesteld zijn van melding of toelating, een voorstel van ZEN-erfgoed of een voorstel van open erfgoed bevat, wordt ook de beslissing daarover meegedeeld.</p>
-
-<p>Als het beheersplan onvolledig is bevonden, of het duurzame behoud en beheer van erfgoedwaarden onvoldoende garandeert, meldt het agentschap om welke redenen en in welke zin, het beheersplan moet worden aangepast om voor goedkeuring in aanmerking te komen.</p>
-
-<p>§ 3. Een aangepast beheersplan kan ingediend worden bij het agentschap binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de melding vermeld in paragraaf 2, vierde lid. Het aangepaste beheersplan moet tegemoet komen aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot de voorgestelde wijzigingen.</p>
-
-<p>Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, beslist het agentschap tot de goedkeuring van het beheersplan. Als het aangepaste beheersplan niet tegemoet komt aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid, of als er binnen de termijn van negentig dagen, vermeld in het eerste lid, geen aangepast beheersplan is ingediend, keurt het agentschap het beheersplan af. Het agentschap beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het aangepaste beheersplan.</p>
-
-<p>De beslissing tot goedkeuring of tot afkeuring wordt per beveiligde zending ter kennis gebracht van de aanvrager.</p>
-
-<p>§ 4. Het agentschap brengt ook de gemeente(s) of intergemeentelijke onroerenderfgoeddienst(en) op het grondgebied waarvan het onroerend erfgoed of erfgoedlandschap, of een deel ervan dat een opzichzelfstaande entiteit vormt, ligt, schriftelijk op de hoogte van de beslissing tot goedkeuring of tot afkeuring. Het agentschap brengt ook het Agentschap voor Natuur en Bos schriftelijk op de hoogte van die beslissing, als er advies is verleend.</p>
-
-<p>§ 5. Als het agentschap geen beslissing neemt binnen de daarvoor vastgelegde termijn, wordt het beheersplan geacht afgekeurd te zijn.</p>
-
-<p>§ 6. De goedkeuring van het beheersplan wordt bij uittreksel in het Belgisch Staatsblad bekendgemaakt.</p>
+§ 1. Als er binnen de afbakening, vermeld in artikel 8.1.4, § 1, eerste lid, 1°, zones voorkomen met habitats die beschermd zijn met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of gedeeltelijk ligt in het Vlaams Ecologisch Netwerk of een speciale beschermingszone met toepassing van het voormelde decreet, vraagt het agentschap voorafgaand aan de beslissing over de goedkeuring van het beheersplan een advies aan het Agentschap voor Natuur en Bos over de voorgestelde beheersdoelstellingen en de richtlijnen, de maatregelen en de werkzaamheden. Dat advies wordt verleend binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesaanvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 2. Het agentschap beslist over de goedkeuring van het beheersplan binnen een termijn van negentig dagen, die ingaat op de dag van ontvangst van het beheersplan. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.<br>
+<br>
+Het agentschap kan in de beslissing tot goedkeuring voorwaarden opleggen voor de uitvoering en de opvolging van het beheersplan. Het agentschap kan in de beslissing tot goedkeuring het onroerend erfgoed of een zelfstandig onderdeel ervan erkennen als ZEN-erfgoed.<br>
+<br>
+Als het beheersplan een opsomming bevat van werken die vrijgesteld zijn van een melding of een toelating, een identificatie van ZEN-erfgoed of een ontwikkelingstraject tot open erfgoed, wordt ook de beslissing daarover meegedeeld.<br>
+<br>
+Als het beheersplan onvolledig is bevonden, of het duurzame behoud en beheer van erfgoedwaarden onvoldoende garandeert, meldt het agentschap om welke redenen en in welke zin het beheersplan moet worden aangepast om voor goedkeuring in aanmerking te komen.<br>
+<br>
+§ 3. Een aangepast beheersplan kan ingediend worden bij het agentschap binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de melding vermeld in paragraaf 2, vierde lid. Het aangepaste beheersplan moet tegemoet komen aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid. Het beheersplan kan bovendien alleen worden aangepast met betrekking tot de voorgestelde wijzigingen.<br>
+<br>
+Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid, beslist het agentschap tot de goedkeuring van het beheersplan. Als het aangepaste beheersplan niet tegemoet komt aan de voorgestelde wijzigingen, vermeld in paragraaf 2, vierde lid, of als er binnen de termijn van negentig dagen, vermeld in het eerste lid, geen aangepast beheersplan is ingediend, keurt het agentschap het beheersplan af. Het agentschap beslist binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het aangepaste beheersplan.<br>
+<br>
+Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing tot goedkeuring of afkeuring. Het agentschap ontsluit het goedgekeurde beheersplan op zijn website.<br>
+<br>
+§ 4. Het agentschap brengt ook de gemeenten of intergemeentelijke onroerenderfgoeddiensten op het grondgebied waarvan het onroerend erfgoed of erfgoedlandschap, of het zelfstandig onderdeel ervan, ligt, schriftelijk op de hoogte van de beslissing tot goedkeuring of tot afkeuring. Het agentschap brengt ook het Agentschap voor Natuur en Bos schriftelijk op de hoogte van die beslissing, als er advies is verleend met toepassing van paragraaf 1.
 
 ## Onderafdeling 7 Geldigheidsduur
 
 ### ART. 8.1.7.
 
-Een goedgekeurd beheersplan heeft een geldigheidsduur van twintig   jaar.<BR>
+Een goedgekeurd beheersplan heeft een geldigheidsduur van&nbsp;24 jaar.
 
 ## Onderafdeling 8 Evaluatie en opvolging
 
 ### ART. 8.1.8.
 
-<P>§ 1. De zakelijkrechthouder, de gebruiker of zijn gevolmachtigde volgt de   uitvoering van het beheersplan op en maakt een verslag op voor het agentschap,   vermeld in artikel 8.1.4, eerste lid, 7°.<BR></P>  <P>§ 2. Als uit de evaluatie blijkt dat de beheersmaatregelen die zijn opgenomen   in het goedgekeurde beheersplan onvoldoende uitgevoerd zijn of niet geschikt   zijn om de beheersdoelstellingen te halen, neemt het agentschap een beslissing   daarover binnen een termijn van negentig dagen, die ingaat op de dag na de   ontvangst van het verslag.<BR></P>  <P>Het agentschap brengt deze beslissing per beveiligde zending ter kennis van   de zakelijkrechthouder, de gebruiker of zijn gevolmachtigde, met de vermelding,   om welke redenen en in welke zin, het beheer moet worden aangepast.<BR></P>  <P>Het agentschap brengt ook de gemeente(s) of intergemeentelijke   onroerenderfgoeddienst(en) op het grondgebied waarvan het onroerend erfgoed of   erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt, ligt,   schriftelijk op de hoogte van die beslissing.<BR></P>
+§ 1. De zakelijkrechthouder, de gebruiker of zijn gevolmachtigde volgt de uitvoering van het beheersplan op en rapporteert daarover om de zes jaar, te rekenen vanaf de datum van de goedkeuring van het beheersplan, schriftelijk aan het agentschap. Het rapport bevat minstens een onderhoudslogboek.<br>
+<br>
+§ 2. Het agentschap evalueert de uitvoering van het beheersplan op basis van het rapport, vermeld in paragraaf 1. Als uit de evaluatie blijkt dat de beheersmaatregelen die zijn opgenomen in het goedgekeurde beheersplan onvoldoende uitgevoerd zijn of niet geschikt zijn om de beheersdoelstellingen te halen, neemt het agentschap een beslissing daarover binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van het rapport. In de beslissing wordt vermeld om welke redenen en in welke zin het beheer moet worden aangepast.<br>
+<br>
+Het agentschap brengt de zakelijkrechthouder, de gebruiker of zijn gevolmachtigde schriftelijk op de hoogte van de beslissing.<br>
+<br>
+Het agentschap brengt ook de gemeenten of intergemeentelijke onroerenderfgoeddiensten op het grondgebied waarvan het onroerend erfgoed, erfgoedlandschap of een zelfstandig onderdeel daarvan ligt, schriftelijk op de hoogte van die beslissing.
 
 ## Onderafdeling 9 Aanpassingen
 
 ### ART. 8.1.9.
 
-<P>Een goedgekeurd beheersplan kan aangepast worden op gemotiveerd verzoek van   de zakelijkrechthouder, de gebruiker of de gevolmachtigde of na schriftelijk   verzoek van het agentschap aan de zakelijkrechthouder, de gebruiker of de   gevolmachtigde als de aanpassing van het goedgekeurde beheersplan wenselijk is   in het kader van een optimaler beheer van de erfgoedwaarden.<BR></P>  <P>De aanvraag tot aanpassing bevat de volgende elementen:<BR>1° de   identificatiegegevens van de zakelijkrechthouder, de gebruiker of de   gevolmachtigde. De gevolmachtigde voegt een geschreven volmacht bij de   aanvraag;<BR>2° de identificatie van het onroerend goed of erfgoedlandschap of   van het deel ervan dat een opzichzelfstaande entiteit vormt, waarvoor het   beheersplan moet worden aangepast;<BR>3° de afbakening op het kadasterplan van   het deel waarvoor het beheersplan moet worden aangepast;<BR>4° de motivering van   het verzoek tot aanpassing en een gecoördineerde versie van de aangepaste delen   van het goedgekeurde beheersplan met aanduiding van de aangepaste   gegevens.<BR></P>  <P>Als er binnen de afbakening, vermeld in artikel 8.1.9, 3°, zones voorkomen   met habitats die beschermd zijn met toepassing van het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu, of als het onroerend   erfgoed of erfgoedlandschap geheel of gedeeltelijk ligt in het Vlaams Ecologisch   Netwerk of een speciale beschermingszone in toepassing van voormeld decreet,   vraagt het agentschap voorafgaand aan de beslissing een advies aan het   Agentschap voor Natuur en Bos met betrekking tot de voorgestelde aanpassing. Dat   advies wordt verleend binnen een termijn van dertig dagen, die ingaat op de dag   na de ontvangst van de adviesaanvraag. Als deze termijn wordt overschreden, kan   aan de adviesvereiste worden voorbijgegaan.<BR></P>  <P>Het agentschap onderzoekt de aanvraag tot aanpassing en beslist binnen   negentig dagen, vanaf de dag na de ontvangst. De beslissing wordt door het   agentschap per beveiligde zending ter kennis gebracht van de aanvrager.<BR></P>  <P>Als het agentschap geen beslissing neemt binnen de daarvoor vastgelegde   termijn, wordt de aanpassing van het beheersplan geacht geweigerd te   zijn.<BR></P>  <P>Het agentschap kan in de beslissing tot goedkeuring ook voorwaarden opleggen   voor de uitvoering en de opvolging van het aangepaste beheersplan.<BR></P>  <P>De goedkeuring van de aanpassing van een beheersplan geldt voor de resterende   termijn van de oorspronkelijke looptijd van het   beheersplan.<BR></P>
+<p>Een goedgekeurd beheersplan kan aangepast worden op gemotiveerd verzoek van de zakelijkrechthouder, de gebruiker of de gevolmachtigde of na schriftelijk verzoek van het agentschap aan de zakelijkrechthouder, de gebruiker of de gevolmachtigde als de aanpassing van het goedgekeurde beheersplan wenselijk is in het kader van een optimaler beheer van de erfgoedwaarden.</p>
+
+<p>De aanvraag tot aanpassing bevat de volgende elementen:<br>
+1° de identificatiegegevens van de zakelijkrechthouder, de gebruiker of de gevolmachtigde. De gevolmachtigde voegt een geschreven volmacht bij de aanvraag;<br>
+2° de identificatie van het onroerend goed of erfgoedlandschap of het zelfstandige onderdeel ervan waarvoor het beheersplan moet worden aangepast;<br>
+3° de afbakening op het kadasterplan van het deel waarvoor het beheersplan moet worden aangepast;<br>
+4° de motivering van het verzoek tot aanpassing en een gecoördineerde versie van de aangepaste delen van het goedgekeurde beheersplan met aanduiding van de aangepaste gegevens.</p>
+
+<p>Als er binnen de afbakening, vermeld in artikel 8.1.9, 3°, zones voorkomen met habitats die beschermd zijn met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of als het onroerend erfgoed of erfgoedlandschap geheel of gedeeltelijk ligt in het Vlaams Ecologisch Netwerk of een speciale beschermingszone in toepassing van voormeld decreet, vraagt het agentschap voorafgaand aan de beslissing een advies aan het Agentschap voor Natuur en Bos met betrekking tot de voorgestelde aanpassing. Dat advies wordt verleend binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesaanvraag. Als deze termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.</p>
+
+<p>Het agentschap onderzoekt de aanvraag tot aanpassing en beslist binnen negentig dagen, vanaf de dag na de ontvangst. De beslissing wordt door het agentschap schriftelijk ter kennis gebracht van de aanvrager.</p>
+
+<p>Het agentschap kan in de beslissing tot goedkeuring ook voorwaarden opleggen voor de uitvoering en de opvolging van het aangepaste beheersplan.</p>
+
+<p>De goedkeuring van de aanpassing van een beheersplan geldt voor de resterende termijn van de oorspronkelijke looptijd van het beheersplan.</p>
 
 ## Onderafdeling 10 Beroepsprocedure
 
 ### ART. 8.1.10.
 
-<P>De zakelijkrechthouder, de gebruiker of de gevolmachtigde kan tegen de   beslissingen die genomen zijn met toepassing van dit hoofdstuk, een   georganiseerd administratief beroep instellen bij de minister.<BR><BR>Een   beroepschrift wordt per beveiligde zending ingediend binnen een termijn van   dertig dagen die ingaat op de dag na de kennisgeving van de beslissing of in   geval van een stilzwijgende beslissing na het verstrijken van de vastgelegde   beslissingstermijn, vanaf de dag die volgt op het verstrijken van die   termijn.<BR><BR>Het beroepschrift bestaat minstens uit een gemotiveerd   verzoekschrift met vermelding van de datum en het referentienummer van de   bestreden beslissing.<BR><BR>De minister kan bij de Commissie advies inwinnen   over het beroep. De Commissie beschikt over een termijn van dertig dagen, die   ingaat op de dag na de ontvangst van de adviesvraag, om over het beroep een   advies uit te brengen. Als er niet tijdig advies wordt verleend, wordt aan de   adviesvraag voorbijgegaan.<BR><BR>De minister neemt een beslissing over het   beroep binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst   van het beroepschrift. Als er geen beslissing wordt genomen binnen de   toepasselijke vervaltermijn, wordt het beroep geacht te zijn afgewezen. De   beslissing wordt onverwijld per beveiligde zending bezorgd aan de indiener van   het beroep.<BR></P>
+<p>De zakelijkrechthouder, de gebruiker of de gevolmachtigde kan tegen de beslissingen die genomen zijn met toepassing van dit hoofdstuk, een georganiseerd administratief beroep instellen bij de minister.<br>
+<br>
+Een beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen die ingaat op de dag na de kennisgeving van de beslissing. Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
+<br>
+De minister kan bij de Commissie advies inwinnen over het beroep. De Commissie beschikt over een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag, om over het beroep een advies uit te brengen. Als er niet tijdig advies wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
+<br>
+De minister neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. De beslissing wordt schriftelijk bezorgd aan de indiener van het beroep.</p>
 
 ## Afdeling 2 Beheerscommissies
 
 ### ART. 8.2.1.
 
-<P>§ 1. Elke zakelijkrechthouder, gebruiker of gevolmachtigde die betrokken is   bij het beheer van onroerend erfgoed en erfgoedlandschappen kan bij het   agentschap een aanvraag indienen tot oprichting van een   beheerscommissie.<BR></P>  <P>§ 2. De aanvraag tot oprichting van een beheerscommissie bevat minstens   volgende elementen:<BR>1° de identificatiegegevens van de zakelijkrechthouder,   de gebruiker of de gevolmachtigde;<BR>2° de identificatie van het onroerend   erfgoed, erfgoedlandschap of van het deel ervan dat een opzichzelfstaande   entiteit vormt waarvoor de beheerscommissie wordt opgericht;<BR>3° een voorstel   van samenstelling van de beheerscommissie;<BR>4° een voorstel van taken die de   beheerscommissie op zich wil nemen.<BR></P>  <P>§ 3. Een beheerscommissie heeft minstens een van de volgende taken:<BR>1°   structurering en organisatie van overleg tussen de verschillende   zakelijkrechthouders, gebruikers en beheerders van het onroerend erfgoed of   erfgoedlandschap in kwestie;<BR>2° adviesverlening en begeleiding bij de opmaak   van het beheersplan;<BR>3° adviesverlening, begeleiding bij het beheer en de   uitvoering van het beheersplan;<BR>4° opvolging en evaluatie van de   effectiviteit van de maatregelen die genomen zijn in het kader van het   beheersplan.<BR></P>  <P>§ 4. Het agentschap beslist binnen een termijn van negentig dagen die ingaat   op de dag na de aanvraag over het nut van de oprichting van een beheerscommissie   en deelt de beslissing daarover per beveiligde zending mee aan de aanvrager. Het   agentschap deelt, na overleg met de aanvrager, op dat moment ook mee welke   relevante, bijkomende partijen vertegenwoordigd moeten zijn in een   beheerscommissie, naast de partijen, vermeld in paragraaf 5.<BR></P>  <P>§ 5. De samenstelling van een beheerscommissie wordt bekrachtigd door het   agentschap en bestaat ten minste uit een evenredige vertegenwoordiging van de   zakelijkrechthouders of de gebruikers en een vertegenwoordiging van de   adviserende overheden. De voorzitter wordt gekozen onder de leden van de   beheerscommissie.<BR></P>  <P>§ 6. De beheerscommissie kan pas geldig de taken uitvoeren die bepaald zijn   in de goedgekeurde aanvraag tot oprichting, na de bekrachtiging van de   samenstelling, vermeld in paragraaf 5. Wijzigingen in de samenstelling van de   beheerscommissie moeten ook ter bekrachtiging aan het agentschap worden   voorgelegd.<BR></P>  <P>§ 7. De beheerscommissie vergadert ten minste één keer per jaar. Een   vergadering wordt ook georganiseerd als tenminste een derde van de leden daarom   verzoekt.<BR></P>  <P>Deskundigen of getuigen kunnen alleen aan een vergadering deelnemen na een   schriftelijke uitnodiging van de voorzitter.<BR></P>  <P>De beheerscommissie bezorgt de verslagen van de vergaderingen aan het   agentschap.<BR></P>
+<p>§ 1. Elke zakelijkrechthouder, gebruiker of gevolmachtigde die betrokken is bij het beheer van onroerend erfgoed en erfgoedlandschappen kan bij het agentschap een aanvraag indienen tot oprichting van een beheerscommissie.</p>
+
+<p>§ 2. De aanvraag tot oprichting van een beheerscommissie bevat minstens volgende elementen:<br>
+1° de identificatiegegevens van de zakelijkrechthouder, de gebruiker of de gevolmachtigde;<br>
+2° de identificatie van het onroerend erfgoed, erfgoedlandschap of het zelfstandig onderdeel ervan waarvoor de beheerscommissie wordt opgericht;<br>
+3° een voorstel van samenstelling van de beheerscommissie;<br>
+4° een voorstel van taken die de beheerscommissie op zich wil nemen.</p>
+
+<p>§ 3. Een beheerscommissie heeft minstens een van de volgende taken:<br>
+1° structurering en organisatie van overleg tussen de verschillende zakelijkrechthouders, gebruikers en beheerders van het onroerend erfgoed of erfgoedlandschap in kwestie;<br>
+2° adviesverlening en begeleiding bij de opmaak van het beheersplan;<br>
+3° adviesverlening, begeleiding bij het beheer en de uitvoering van het beheersplan;<br>
+4° opvolging en evaluatie van de effectiviteit van de maatregelen die genomen zijn in het kader van het beheersplan.</p>
+
+<p>§ 4. Het agentschap beslist binnen een termijn van negentig dagen die ingaat op de dag na de ontvangst van de aanvraag tot oprichting van een beheerscommissie en deelt de beslissing daarover schriftelijk mee aan de aanvrager. Het agentschap deelt, na overleg met de aanvrager, op dat moment ook mee welke relevante bijkomende partijen vertegenwoordigd moeten zijn in een beheerscommissie, naast de partijen, vermeld in paragraaf 5.</p>
+
+<p>§ 5. De samenstelling van een beheerscommissie wordt bekrachtigd door het agentschap en bestaat ten minste uit een evenredige vertegenwoordiging van de zakelijkrechthouders of de gebruikers en een vertegenwoordiging van de adviserende overheden. De voorzitter wordt gekozen onder de leden van de beheerscommissie.</p>
+
+<p>§ 6. De beheerscommissie kan pas geldig de taken uitvoeren die bepaald zijn in de goedgekeurde aanvraag tot oprichting, na de bekrachtiging van de samenstelling, vermeld in paragraaf 5. Wijzigingen in de samenstelling van de beheerscommissie moeten ook ter bekrachtiging aan het agentschap worden voorgelegd.</p>
+
+<p>§ 7. De beheerscommissie vergadert ten minste één keer per jaar. Een vergadering wordt ook georganiseerd als tenminste een derde van de leden daarom verzoekt.</p>
+
+<p>Deskundigen of getuigen kunnen alleen aan een vergadering deelnemen na een schriftelijke uitnodiging van de voorzitter.</p>
+
+<p>De beheerscommissie bezorgt de verslagen van de vergaderingen aan het agentschap.</p>
 
 ## [Afdeling 3 Geïntegreerde beheersplannen (verv. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
@@ -1216,7 +1440,7 @@ Een goedgekeurd beheersplan heeft een geldigheidsduur van twintig   jaar.<BR>
 
 ### ART 8.3.1.
 
-Als de zakelijkrechthouder of de gebruiker voor een onroerend erfgoed of een erfgoedlandschap of voor een deel ervan dat een opzichzelfstaand geheel vormt, tegelijkertijd of opeenvolgend een beheersplan onroerend erfgoed en een natuurbeheerplan met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu opstelt, dan worden de verwezenlijkingen van alle beheersdoelstellingen voor dat goed in 1 beheersplan geïntegreerd. Eén of meer zakelijkrechthouders of gebruikers kunnen een gevolmachtigde aanwijzen die een gezamenlijke aanvraag tot opmaak van een geïntegreerd beheersplan in hun plaats indient.<br>
+Als de zakelijkrechthouder of de gebruiker voor een onroerend erfgoed of een erfgoedlandschap of voor een zelfstandig onderdeel ervan, tegelijkertijd of opeenvolgend een beheersplan onroerend erfgoed en een natuurbeheerplan met toepassing van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu opstelt, dan worden de verwezenlijkingen van alle beheersdoelstellingen voor dat goed in 1 beheersplan geïntegreerd. Eén of meer zakelijkrechthouders of gebruikers kunnen een gevolmachtigde aanwijzen die een gezamenlijke aanvraag tot opmaak van een geïntegreerd beheersplan in hun plaats indient.<br>
 <br>
 Het Agentschap voor Natuur en Bos maakt het ontwerp van een geïntegreerd beheersplan voor een natuurdomein op.
 
@@ -1227,7 +1451,7 @@ Het Agentschap voor Natuur en Bos maakt het ontwerp van een geïntegreerd beheer
 Voor er gestart wordt met de opmaak van een geïntegreerd beheersplan, dient de zakelijkrechthouder, de gebruiker of de gevolmachtigde een verkenning in bij het agentschap of bij het Agentschap voor Natuur en Bos.<br>
 <br>
 De verkenning als vermeld in het eerste lid bevat, naast de elementen als vermeld in artikel 3, eerste lid, 1°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten, tevens de volgende elementen:<br>
-1° de identificatie en grafische afbakening van het onroerend erfgoed of erfgoedlandschap of van het deel ervan dat een op-zichzelf-staand geheel vormt, waarvoor het nodige beheersplan zal worden opgesteld;<br>
+1° de identificatie en grafische afbakening van het onroerend erfgoed of erfgoedlandschap of van het zelfstandig onderdeel ervan, waarvoor het nodige beheersplan zal worden opgesteld;<br>
 2° een oplijsting en een beschrijving van de erfgoedwaarde en erfgoedelementen;<br>
 3° een beknopte omschrijving van de visie op het beheer;<br>
 4° als het beheersplan betrekking heeft op verschillende zakelijkrechthouders of gebruikers, een voorstel over hoe de participatie in en communicatie over de opmaak van het beheersplan zal verlopen.
@@ -1236,17 +1460,17 @@ De verkenning als vermeld in het eerste lid bevat, naast de elementen als vermel
 
 ### ART 8.3.3.
 
-Het behandelende agentschap gaat na of de in artikel 8.3.2 vermelde verkenning volledig is, en verzendt binnen een termijn van dertig kalenderdagen na de indiening ervan met een beveiligde zending een ontvangstmelding met daarin een volledigheidsverklaring. Bij eventuele onvolkomenheden zendt het behandelende agentschap binnen een termijn van dertig kalenderdagen het dossier terug met opgave van de redenen van onvolledigheid. Het behandelend agentschap neemt de beslissing inzake de volledigheid op basis van de elementen vermeld in artikel 4, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten en op basis van de elementen in artikel 8.3.2.<br>
+Het behandelende agentschap gaat na of de in artikel 8.3.2 vermelde verkenning volledig is, en verzendt binnen een termijn van dertig dagen na de indiening ervan schriftelijk een ontvangstmelding met daarin een volledigheidsverklaring. Bij eventuele onvolkomenheden zendt het behandelende agentschap binnen een termijn van dertig kalenderdagen het dossier terug met opgave van de redenen van onvolledigheid. Het behandelend agentschap neemt de beslissing inzake de volledigheid op basis van de elementen vermeld in artikel 4, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten en op basis van de elementen in artikel 8.3.2.<br>
 <br>
 Het Agentschap voor Natuur en Bos beoordeelt de verkenning op basis van de overeenstemming van de keuze voor één van de vier types terreinen, vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997, met de bepalingen van artikel 16ter, § 2, artikel 16quater, artikel 16quinquies en artikel 16sexies van het decreet van 21 oktober 1997 en aan de hand van de natuurstreefbeelden, vermeld in bijlage 3 bij het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten, die voor het type in aanmerking komen.<br>
 <br>
-Binnen een termijn van zestig kalenderdagen na de volledigheidsverklaring, vermeld in het eerste lid, neemt het behandelend agentschap een beslissing over de verkenning. Het bezorgt die beslissing met een beveiligde zending aan de indiener.
+Binnen een termijn van zestig dagen die ingaat op de dag na de kennisgeving van de volledigheidsverklaring, vermeld in het eerste lid, neemt het behandelend agentschap een beslissing over de verkenning. Het bezorgt die beslissing schriftelijk aan de indiener.
 
 ## [Onderafdeling 4 Opmaak (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
 ### ART 8.3.4.
 
-Het geïntegreerd beheersplan bevat ten minste de elementen, als vermeld in artikel 8.1.4, § 1, eerste en tweede lid, alsook de delen vermeld in artikel 3, eerste lid, 2°, 3°, 4° en 5°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
+Het geïntegreerd beheersplan bevat ten minste de elementen, als vermeld in artikel 8.1.4,&nbsp;alsook de delen vermeld in artikel 3, eerste lid, 2°, 3°, 4° en 5°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
 <br>
 De visie op het beheer, de beheerdoelstellingen en de richtlijnen, maatregelen en werkzaamheden moet in voorkomend geval in overeenstemming zijn met de geldende regelgeving.
 
@@ -1256,15 +1480,15 @@ De visie op het beheer, de beheerdoelstellingen en de richtlijnen, maatregelen e
 
 Nadat het agentschap een gunstige beslissing heeft genomen over de verkenning, vermeld in artikel 8.3.2 van dit besluit, wordt het ontwerp van een geïntegreerd beheersplan, vermeld in artikel 8.3.4, ingediend bij het behandelende agentschap.<br>
 <br>
-Het ontwerp van een geïntegreerd beheersplan wordt in vier papieren exemplaren en één digitaal exemplaar ingediend bij het behandelende agentschap, voorzien van de gegevens of bijlagen vermeld in artikel 8.1.5.
+Het ontwerp van een geïntegreerd beheersplan wordt schriftelijk ingediend bij het behandelende agentschap, voorzien van de gegevens of bijlagen vermeld in artikel 8.1.5.
 
 ## [Onderafdeling 6 Goedkeuringsprocedure (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
 ### ART 8.3.6.
 
-§ 1. Binnen de dertig kalenderdagen nadat het ontwerp van het geïntegreerde beheersplan werd ingediend, stuurt het behandelende agentschap met een beveiligde zending een ontvangstmelding met daarin een volledigheidsverklaring aan de indiener. Ingeval er elementen, als vermeld in artikel 8.3.4, ontbreken, stuurt het behandelende agentschap met een beveiligde zending het ontwerp van geïntegreerd beheersplan terug, met opgave van de redenen van onvolledigheid.<br>
+§ 1. Binnen de dertig dagen nadat het ontwerp van het geïntegreerde beheersplan werd ingediend, stuurt het behandelende agentschap schriftelijk een ontvangstmelding met daarin een volledigheidsverklaring aan de indiener. Ingeval er elementen, als vermeld in artikel 8.3.4, ontbreken, stuurt het behandelende agentschap met een beveiligde zending het ontwerp van geïntegreerd beheersplan terug, met opgave van de redenen van onvolledigheid.<br>
 <br>
-§ 2. Als het ontwerp van geïntegreerd beheersplan betrekking heeft op een terrein van type twee, drie of vier als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, moet het ontwerp voor consultatie ter inzage gelegd worden bij het behandelende agentschap, bij de indiener of op een door de indiener en het behandelende agentschap gezamenlijk te bepalen plaats in de omgeving van het gebied in kwestie. De indiener zorgt voor de aankondiging van de consultatie over het ontwerp van het geïntegreerde beheersplan binnen een termijn van dertig kalenderdagen, die ingaat op de dag na de kennisgeving van de ontvangstmelding, vermeld in paragraaf 2. De aankondiging wordt bekend gemaakt op één van de volgende wijzen:<br>
+§ 2. Als het ontwerp van geïntegreerd beheersplan betrekking heeft op een terrein van type twee, drie of vier als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, moet het ontwerp voor consultatie ter inzage gelegd worden bij het behandelende agentschap, bij de indiener of op een door de indiener en het behandelende agentschap gezamenlijk te bepalen plaats in de omgeving van het gebied in kwestie. De indiener zorgt voor de aankondiging van de consultatie over het ontwerp van het geïntegreerde beheersplan binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving van de ontvangstmelding, vermeld in paragraaf 2. De aankondiging wordt bekend gemaakt op één van de volgende wijzen:<br>
 1° in minstens één regionale krant;<br>
 2° via de gemeentelijke informatiekanalen;<br>
 3° door middel van aanplakking op een duidelijk zichtbare wijze langs de toegangsweg of -wegen van het terrein in kwestie.<br>
@@ -1274,32 +1498,32 @@ De wijze van bekendmaking als vermeld in het eerste lid wordt nader bepaald in d
 In de aankondiging worden de volgende gegevens vermeld:<br>
 1° de ligging en, in voorkomend geval, de naam van het gebied waarop het ontwerp van geïntegreerd beheersplan betrekking heeft;<br>
 2° de plaats waar en de uren waarop het ontwerp van het geïntegreerde beheersplan kan worden ingezien;<br>
-3° de begin- en de einddatum van de consultatieperiode. Die periode moet dertig kalenderdagen duren;<br>
+3° de begin- en de einddatum van de consultatieperiode. Die periode moet dertig dagen duren;<br>
 4° de mededeling dat gedurende de periode, vermeld in punt 3°, opmerkingen en bezwaren aan het behandelende agentschap kunnen worden gericht .<br>
 <br>
 § 3. Na de kennisgeving van de volledigheidsverklaring, vermeld in artikel 8.3.6, § 1, legt het behandelende agentschap het ontwerp van natuurbeheerplan ter advies voor aan de instanties en in die gevallen als vermeld in artikel 6, § 3, 1°, 2° en 4°, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
 <br>
-De adviezen worden uitgebracht aan het behandelende agentschap binnen een termijn van dertig kalenderdagen, die ingaat de dag na de ontvangst van de adviesvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
+De adviezen worden uitgebracht aan het behandelende agentschap binnen een termijn van dertig dagen, die ingaat de dag na de ontvangst van de adviesvraag. Als die termijn wordt overschreden, kan aan de adviesvereiste worden voorbijgegaan.<br>
 <br>
-§ 4. Binnen zeven kalenderdagen na het verstrijken van de consultatieperiode, vermeld in paragraaf 2, en de termijn van dertig kalenderdagen, vermeld in paragraaf 3, tweede lid, bezorgt het behandelende agentschap een kopie van de ingediende opmerkingen en bezwaren en adviezen aan de indiener van het geïntegreerde beheersplan.<br>
+§ 4. Binnen zeven dagen na het verstrijken van de consultatieperiode, vermeld in paragraaf 2, en de termijn van dertig kalenderdagen, vermeld in paragraaf 3, tweede lid, bezorgt het behandelende agentschap een kopie van de ingediende opmerkingen en bezwaren en adviezen aan de indiener van het geïntegreerde beheersplan.<br>
 <br>
 De indiener past het ontwerp van het geïntegreerd beheersplan zo nodig aan en voegt er een verslag van de consultatie en adviesronde bij. Dat verslag omvat, naast het bewijs van de aankondiging van de consultatie, ook een vermelding van de manier waarop en de redenen waarom al dan niet rekening wordt gehouden met de ingediende opmerkingen, bezwaren en adviezen.<br>
 <br>
 Aan het ontwerp van het geïntegreerde beheersplan kan de indiener alleen aanpassingen aanbrengen die gebaseerd zijn op of voortvloeien uit de ingediende opmerkingen, bezwaren en adviezen. Het aangepaste ontwerp van het geïntegreerd beheersplan kan echter de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden.<br>
 <br>
-Het verslag van de consultatie- en adviesronde wordt samen met het definitieve ontwerp van het geïntegreerd beheersplan ingediend bij het behandelend agentschap binnen negentig kalenderdagen na ontvangst van de opmerkingen, de bezwaren en de adviezen, vermeld in het eerste lid.<br>
+Het verslag van de consultatie- en adviesronde wordt samen met het definitieve ontwerp van het geïntegreerd beheersplan ingediend bij het behandelend agentschap binnen negentig dagen na ontvangst van de opmerkingen, de bezwaren en de adviezen, vermeld in het eerste lid.<br>
 <br>
-§ 5. Het agentschap en het agentschap voor Natuur en Bos beslissen samen over de goedkeuring binnen een termijn van negentig kalenderdagen, die ingaat op de dag na ontvangst van het verslag van de consultatie- en adviesronde en het ontwerp van het geïntegreerd beheersplan. Het agentschap voor Natuur en Bos neemt de beslissing op basis van de elementen vermeld in artikel 7, § 1, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten. Als er geen beslissing wordt genomen binnen de daarvoor uitgetrokken termijn, wordt ervan uitgegaan dat het ontwerp van geïntegreerd beheersplan afgekeurd is.<br>
+§ 5. Het agentschap en het agentschap voor Natuur en Bos beslissen samen over de goedkeuring binnen een termijn van negentig dagen, die ingaat op de dag na ontvangst van het verslag van de consultatie- en adviesronde en het ontwerp van het geïntegreerd beheersplan. Het agentschap voor Natuur en Bos neemt de beslissing op basis van de elementen vermeld in artikel 7, § 1, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
 <br>
-§ 6. Het behandelende agentschap brengt de indiener met een beveiligde zending op de hoogte van de beslissing vermeld in paragraaf 5.<br>
+§ 6. Het behandelende agentschap brengt de indiener schriftelijk op de hoogte van de beslissing vermeld in paragraaf 5.<br>
 <br>
 § 7. In een beslissing tot goedkeuring kunnen voorwaarden opgelegd worden over de uitvoering en de opvolging van het geïntegreerde beheersplan.<br>
 <br>
-Als het geïntegreerd beheersplan niet wordt goedgekeurd, brengt het behandelende agentschap de indiener met een beveiligde zending op de hoogte van de gemotiveerde beslissing over de onderdelen van het ontwerp van geïntegreerd beheersplan die moeten worden gewijzigd.<br>
+Als het geïntegreerd beheersplan niet wordt goedgekeurd, brengt het behandelende agentschap de indiener schriftelijk op de hoogte van de gemotiveerde beslissing over de onderdelen van het ontwerp van geïntegreerd beheersplan die moeten worden gewijzigd.<br>
 <br>
-Een aangepast ontwerp van geïntegreerd beheersplan kan ingediend worden bij het behandelende agentschap binnen een termijn van negentig kalenderdagen, die ingaat de dag na ontvangst van de melding, vermeld in het tweede lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot de voorgestelde wijzigingen en kan de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden.<br>
+Een aangepast ontwerp van geïntegreerd beheersplan kan ingediend worden bij het behandelende agentschap binnen een termijn van negentig dagen, die ingaat de dag na de kennisgeving van de beslissing, vermeld in het tweede lid. Een aanpassing van het beheersplan kan bovendien alleen met betrekking tot de voorgestelde wijzigingen en kan de oppervlakte van het gebied waarop het betrekking heeft, niet uitbreiden.<br>
 <br>
-Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, dan beslissen het agentschap en het agentschap voor Natuur en Bos dat het beheersplan wordt goedgekeurd. Als het aangepaste beheersplan niet tegemoetkomt aan de voorgestelde wijzigingen, vermeld in paragraaf 7, tweede lid, of als er binnen de voormelde termijn van negentig kalenderdagen geen aangepast beheerplan is ingediend, brengt het behandelende agentschap de indiener met een beveiligde zending op de hoogte van de afkeuring. Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.<br>
+Als het aangepaste beheersplan tegemoetkomt aan de voorgestelde wijzigingen, dan beslissen het agentschap en het agentschap voor Natuur en Bos dat het beheersplan wordt goedgekeurd. Als het aangepaste beheersplan niet tegemoetkomt aan de voorgestelde wijzigingen, vermeld in paragraaf 7, tweede lid, of als er binnen de voormelde termijn van negentig dagen geen aangepast beheerplan is ingediend, brengt het behandelende agentschap de indiener schriftelijk op de hoogte van de afkeuring. Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.<br>
 <br>
 § 8. Als het geïntegreerd beheersplan een gebied betreft dat een natuurdomein omvat, of een gebied betreft met enerzijds natuurdomein en anderzijds één of meer openbare of private terreinen die beheerd worden ten behoeve van het natuurbehoud, dan is de goedkeuringsprocedure, vermeld in paragraaf 2 tot en met 7 van overeenkomstige toepassing, evenwel met dien verstande dat beslissingen genomen worden door het agentschap en de minister, bevoegd voor het natuurbehoud.
 
@@ -1313,15 +1537,15 @@ Het geïntegreerde beheersplan heeft een geldigheidsduur van vierentwintig jaar.
 
 ### ART 8.3.8.
 
-De zakelijkrechthouder, de gebruiker of hun gevolmachtigde is belast met de opvolging en bezorgt een verslag over de uitvoering van het geïntegreerde beheersplan aan het behandelende agentschap.<br>
+De zakelijkrechthouder, de gebruiker of hun gevolmachtigde volgt de uitvoering van het geïntegreerde beheersplan op en rapporteert daarover om de zes jaar aan het behandelende agentschap, te rekenen vanaf de datum van de goedkeuring van het geïntegreerde beheersplan. Het rapport bevat minstens een onderhoudslogboek.<br>
 <br>
-Te rekenen vanaf de datum van goedkeuring van het geïntegreerde beheersplan voor een terrein van type twee, type drie of type vier, als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, maakt het Agentschap voor Natuur en Bos om de zes jaar, op basis van het verslag, vermeld in het eerste lid, een evaluatie van de uitvoering van het geïntegreerde beheersplan.<br>
+Te rekenen vanaf de datum van de goedkeuring van het geïntegreerde beheersplan voor een terrein van type twee, type drie of type vier, als vermeld in artikel 16ter, § 1, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, evalueert het Agentschap voor Natuur en Bos de uitvoering van het geïntegreerde beheersplan om de zes jaar, op basis van het rapport, vermeld in het eerste lid.<br>
 <br>
-Als uit de evaluatie blijkt dat de beheersmaatregelen die in het goedgekeurde beheersplan zijn opgenomen, onvoldoende uitgevoerd werden of niet geschikt zijn om de beheerdoelstellingen te halen, nemen het agentschap en het Agentschap voor Natuur en Bos daarover samen een beslissing binnen zestig kalenderdagen, te rekenen vanaf de dag na de ontvangst van het verslag.<br>
+Als uit de evaluatie blijkt dat de beheersmaatregelen die in het goedgekeurde beheersplan zijn opgenomen, onvoldoende uitgevoerd zijn of niet geschikt zijn om de beheersdoelstellingen te halen, nemen het agentschap en het Agentschap voor Natuur en Bos daarover samen een beslissing binnen zestig dagen, te rekenen vanaf de dag na de ontvangst van het rapport.<br>
 <br>
-Het behandelende agentschap brengt de zakelijkrechthouder, de gebruiker of hun gevolmachtigde met een beveiligde zending op de hoogte van de beslissing, vermeld in het derde lid, met de vermelding van de redenen waarom en de manier waarop het beheer moet worden aangepast.<br>
+Het behandelende agentschap brengt de zakelijkrechthouder, de gebruiker of hun gevolmachtigde schriftelijk op de hoogte van de beslissing, vermeld in het derde lid, met de vermelding van de redenen waarom en de manier waarop het beheer moet worden aangepast.<br>
 <br>
-Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.
+Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroerend goed ligt en/of de intergemeentelijke onroerenderfgoeddienst of -diensten van die gemeente of gemeenten, op de hoogte van die beslissing.
 
 ## [Onderafdeling 9 Aanpassingen (ing. BVR 14 juli 2017, art. 52, I: 28 oktober 2017)]
 
@@ -1331,7 +1555,7 @@ Het behandelende agentschap brengt ook de gemeente of gemeenten waarin het onroe
 <br>
 § 2. Het agentschap of het Agentschap voor Natuur en Bos kunnen de zakelijkrechthouder, de gebruiker of de gevolmachtigde verzoeken om een aanvraag tot aanpassing van het geïntegreerde beheersplan in te dienen, als de aanpassing van het goedgekeurd beheersplan wenselijk is in het kader van een optimaler beheer van de erfgoedwaarden van het gebied of met toepassing van artikel 12, § 2, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten.<br>
 <br>
-De zakelijkrechthouder, de gebruiker of de gevolmachtigde dient binnen een termijn van 180 kalenderdagen na het verzoek, vermeld in het eerste lid, een aanvraag tot aanpassing in bij het behandelende agentschap. Artikel 7, § 3, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten is hierop van overeenkomstige toepassing.<br>
+De zakelijkrechthouder, de gebruiker of de gevolmachtigde dient binnen een termijn van 180 dagen na het verzoek, vermeld in het eerste lid, een aanvraag tot aanpassing in bij het behandelende agentschap. Artikel 7, § 3, vierde lid, van het besluit van de Vlaamse Regering van 14 juli 2017 betreffende de natuurbeheerplannen en de erkenning van natuurreservaten is hierop van overeenkomstige toepassing.<br>
 <br>
 § 3. De aanvraag tot aanpassing bevat de volgende elementen:<br>
 1° de identificatiegegevens van de zakelijkrechthouder, de gebruiker en/of de gevolmachtigde;<br>
@@ -1359,11 +1583,9 @@ De bepalingen met betrekking tot de opheffing en de overname van het beheer bij 
 
 De zakelijkrechthouder, de gebruiker of de gevolmachtigde kan tegen de beslissingen, genomen met toepassing van deze onderafdeling, een georganiseerd administratief beroep instellen bij de Vlaamse Regering.<br>
 <br>
-Een beroepschrift wordt met een beveiligde zending ingesteld binnen een termijn van dertig kalenderdagen, die ingaat op dag na de kennisgeving van de beslissing of, in geval van een stilzwijgende beslissing na het verstrijken van de uitgetrokken beslissingstermijn, vanaf de dag die volgt op het verstrijken van die termijn.<br>
+Een beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen, die ingaat op dag na de kennisgeving van de beslissing. Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
 <br>
-Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
-<br>
-De Vlaamse Regering kan bij de Commissie en bij de adviesinstantie, vermeld in artikel 16undecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, over het beroep advies inwinnen. De Commissie en de adviesinstantie beschikken over een termijn van dertig kalenderdagen, die ingaat op de dag na de ontvangst van de adviesvraag, om over het beroep een advies uit te brengen. Als het advies niet tijdig wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
+De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat de dag na de ontvangst van het beroepschrift. De beslissing wordt schriftelijk aan de indiener van het beroep bezorgd.<br>
 <br>
 De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig kalenderdagen, die ingaat de dag na de ontvangst van het beroepschrift. Als er geen beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt, er van uitgegaan dat het beroep afgewezen is. De beslissing wordt onverwijld met een beveiligde zending aan de indiener van het beroep bezorgd.
 
@@ -1371,11 +1593,35 @@ De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van 
 
 ### ART. 8.4.1.
 
-Een beschermd goed, een erfgoedlandschap, of een deel ervan dat een op   zichzelf staand geheel vormt, kan erkend worden als open erfgoed als het aan de   volgende voorwaarden voldoet:<BR>1° het goed wordt op een (inter)actieve en   sprekende manier ontsloten;<BR>2° de openstelling geeft de bezoeker inzicht in   de erfgoedwaarden, -kenmerken en -elementen van het goed in hun maatschappelijke   context;<BR>3° de openstelling richt zich op minstens twee verschillende   doelgroepen;<BR>4° de openstelling is exemplarisch voor Vlaanderen of een ruimer   gebied op de volgende vlakken:<BR>a) de ontsluiting van de erfgoedwaarden van   het goed;<BR>b) het gebruik van innovatieve ontsluitingstechnieken;<BR>c) het   beheer van de site;<BR>d) de publiekswerking en de publiciteit errond;<BR>5° het   goed wordt gedurende een periode van tien jaar minstens vijftig dagen en   driehonderd uur per jaar opengesteld. Die periode begint te lopen de dag na   ontvangst van het verzoek tot uitbetaling van het saldo van de erfgoedpremie die   op grond van de erkenning als open erfgoed is toegekend. In de beslissing   waarbij het beheersplan wordt goedgekeurd, kunnen afwijkende   openstellingsperiodes worden opgenomen;<BR>6° het goed is, in de mate dat de   verplichtingen van de bescherming dat toelaten, integraal toegankelijk voor   bezoekers. Daarvoor moet een advies over de toegankelijkheid gevraagd worden aan   de instantie die erkend is door de Vlaamse Regering;<BR>7° de openstelling mag   niet leiden tot verlies of beschadiging van erfgoedwaarden. Als dat nodig is,   wordt er in flankerende maatregelen voorzien om dat risico te vermijden of te   beperken, of om de negatieve gevolgen teniet te doen;<BR>8° het goed maakt deel   uit van een netwerk dat specifiek gericht is op   erfgoedontsluiting.
+Een beschermd goed, een erfgoedlandschap, of een representatief onderdeel ervan, kan erkend worden als open erfgoed als de locatie aan al de volgende voorwaarden voldoet:<br>
+1° de openstelling geeft de bezoeker inzicht in de erfgoedwaarden, -kenmerken en -elementen van het goed in hun maatschappelijke context;<br>
+2° de openstelling richt zich op minstens twee verschillende doelgroepen;<br>
+3° de openstelling is inspirerend voor Vlaanderen of een ruimer gebied op de volgende vlakken:<br>
+a) de manier waarop en de frequentie waarmee de locatie wordt opengesteld en de keuzes die daarbij worden gemaakt;<br>
+b) de wijze van beheer van de site, inclusief de publiekswerking;<br>
+c) de netwerking en complementariteit met andere sites die erkend zijn als open erfgoed;<br>
+4° het goed is, in de mate dat de verplichtingen van de bescherming dat toelaten, integraal toegankelijk voor bezoekers. Daarvoor wordt een advies over de toegankelijkheid gevraagd aan de instantie die erkend is door de Vlaamse Regering.
 
 ### ART. 8.4.2.
 
-Een goed wordt erkend als open erfgoed samen met de goedkeuring van een   beheersplan door het agentschap.<BR><BR>Daarvoor wordt in het ontwerp van het   beheersplan een afzonderlijk deel opgenomen, waarin aangetoond wordt dat voldaan   is aan de voorwaarden, vermeld in artikel 8.4.1.<BR><BR>Het agentschap kan over   de erkenning als open erfgoed het advies van de Commissie   inwinnen.
+§ 1. Het agentschap kan een onroerenderfgoedlocatie die voldoet aan de voorwaarden vermeld in artikel 8.4.1 op eigen initiatief of op vraag van de beheerder of de zakelijkrechthouder als open erfgoed erkennen.<br>
+<br>
+Een aanvraag tot erkenning als open erfgoed wordt ingediend bij het agentschap en bevat de volgende elementen:<br>
+1° een plan van de onroerenderfgoedlocatie, met een afbakening van het representatieve onderdeel ervan dat zal worden ontsloten;<br>
+2° een korte beschrijving van de locatie en een motivering waarom ze het ontsluiten waard is;<br>
+3° een beschrijving van de manier waarop de locatie wordt ontsloten, waarbij wordt aangetoond hoe wordt voldaan aan de erkenningsvoorwaarden, vermeld in artikel 8.4.1.<br>
+<br>
+Het agentschap stelt daarvoor een modelformulier ter beschikking op zijn website.<br>
+<br>
+Het agentschap gaat na of de aanvraag alle elementen vermeld in het tweede lid bevat. Als de aanvraag onvolledig is, kan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+<br>
+Het agentschap beslist over de erkenningsaanvraag binnen een termijn van negentig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ingediend. De aanvrager wordt hiervan schriftelijk op de hoogte gesteld.<br>
+<br>
+§ 2. De erkenning als open erfgoed geldt voor een periode van twaalf jaar, die ingaat op de dag na de erkenningsbeslissing. De erkenning wordt telkens stilzwijgend verlengd met eenzelfde periode, tenzij de beheerder of de zakelijkrechthouder voor het verstrijken van die periode van twaalf jaar, schriftelijk en gemotiveerd verzoekt de erkenning in te trekken.<br>
+<br>
+Het agentschap kan de erkenning als open erfgoed intrekken op basis van een gemotiveerd verzoek van de beheerder of zakelijkrechthouder vermeld in het eerste lid of als de locatie niet langer aan de erkenningsvoorwaarden voldoet. De beheerder en zakelijkrechthouder worden hiervan schriftelijk op de hoogte gesteld.<br>
+<br>
+§ 3. Als de beheerder in aanmerking wil komen voor een erfgoedpremie voor de ontwikkeling tot open erfgoed, moet in een beheersplan voor de locatie in een afzonderlijk onderdeel een duidelijk ontwikkeltraject tot open erfgoed worden opgenomen.
 
 ## HOOFDSTUK 9 Prijzen
 
@@ -1435,11 +1681,17 @@ De minister stelt een wedstrijdreglement vast om de kandidaat voor   deelname aa
 
 ### ART. 10.1.2.
 
-<P>De samenwerkingsovereenkomst heeft een looptijd van drie jaar of zes   jaar.<BR></P>  <P>De aanvrager dient de subsidieaanvraag per beveiligde zending in bij het   agentschap vanaf 1 januari tot uiterlijk 1 juli van het eerste of het vierde   jaar van de lokale beleidscyclus. In het eerste geval heeft de   samenwerkingsovereenkomst een looptijd van zes jaar. In het tweede geval heeft   de samenwerkingsovereenkomst een looptijd van drie jaar. De   samenwerkingsovereenkomst vangt aan op 1 januari van het jaar dat volgt op het   jaar waarin de subsidieaanvraag is goedgekeurd.<BR></P>
+<p>De samenwerkingsovereenkomst heeft een looptijd van drie jaar of zes jaar.</p>
+
+<p>De aanvrager dient de subsidieaanvraag schriftelijk in bij het agentschap vanaf 1 januari tot uiterlijk 1 juli van het eerste of het vierde jaar van de lokale beleidscyclus. In het eerste geval heeft de samenwerkingsovereenkomst een looptijd van zes jaar. In het tweede geval heeft de samenwerkingsovereenkomst een looptijd van drie jaar. De samenwerkingsovereenkomst vangt aan op 1 januari van het jaar dat volgt op het jaar waarin de subsidieaanvraag is goedgekeurd.</p>
 
 ### ART. 10.1.3.
 
-<P>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst   moet een intergemeentelijke onroerenderfgoeddienst erkend zijn overeenkomstig   artikel 3.3.5.<BR></P>  <P>Als de erkenning van een intergemeentelijke onroerenderfgoeddienst gedurende   de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig   artikel 3.3.12 of 3.3.13, heeft hij geen recht op een subsidie voor het jaar   waarin de erkenning wordt ingetrokken en is hij gehouden tot de onmiddellijke   terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar,   overeenkomstig artikel 13, 1°, van de wet van 16 mei 2003 tot vaststelling van   de algemene bepalingen die gelden voor de begrotingen, de controle op de   subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook   voor de organisatie van de controle door het Rekenhof.<BR></P>
+<p>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een intergemeentelijke onroerenderfgoeddienst erkend zijn overeenkomstig artikel 3.3.5.</p>
+
+<p>Als de erkenning van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.3.12 of 3.3.13, heeft hij geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is hij gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<br>
+Als de samenstelling van een intergemeentelijke onroerenderfgoeddienst gedurende de looptijd van de samenwerkingsovereenkomst gewijzigd wordt als vermeld in artikel 3.3.17, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.</p>
 
 ### ART. 10.1.4.
 
@@ -1451,7 +1703,11 @@ De aanvrager kan de subsidieaanvraag gelijktijdig indienen met de aanvraag   tot
 
 ### ART. 10.1.6.
 
-De subsidieaanvraag is ontvankelijk als ze tijdig wordt ingediend en   volledig is. Als het agentschap vaststelt dat de aanvraag niet alle vereiste   elementen, vermeld in artikel 10.1.5, bevat, brengt het de aanvrager binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van de   subsidieaanvraag per beveiligde zending op de hoogte van de ontbrekende   elementen. Als de aanvrager het dossier niet binnen een termijn van veertien   dagen, die ingaat op de dag na de betekening, aanvult, wordt de subsidieaanvraag   onontvankelijk verklaard. Het agentschap deelt die beslissing per beveiligde   zending mee aan de aanvrager.<BR>
+De subsidieaanvraag is ontvankelijk als ze tijdig wordt ingediend en volledig is.<br>
+<br>
+Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen, vermeld in artikel 10.1.5, eerste lid, bevat, brengt het de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag schriftelijk op de hoogte van de ontbrekende elementen.<br>
+<br>
+Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.
 
 ### ART. 10.1.7.
 
@@ -1479,11 +1735,21 @@ De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarl
 
 ### ART. 10.1.13.
 
-<P>Het agentschap voert driejaarlijks een evaluatie uit op de naleving van de   samenwerkingsoverkomst<BR>1° een tussentijdse evaluatie, tenzij de   samenwerkingsovereenkomst een looptijd van drie jaar heeft;<BR>2° een   eindevaluatie.<BR></P>  <P>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle   initiatieven nemen die het nodig acht.<BR></P>  <P>Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst   per beveiligde zending op de hoogte van de resultaten van de, in voorkomend   geval, tussentijdse evaluatie, vermeld in het eerste lid, 1°, en van de   eindevaluatie, vermeld in het eerste lid, 2°.<BR></P>  <P>Als er bij de tussentijdse evaluatie ernstige tekortkomingen worden   vastgesteld, kan de minister op voorstel van het agentschap beslissen om de   samenwerkingsovereenkomst vervroegd te beëindigen. Die beslissing heeft dezelfde   gevolgen als de beslissing over de intrekking van de   erkenning.<BR></P>
+<p>Het agentschap voert driejaarlijks een evaluatie uit op de naleving van de samenwerkingsoverkomst<br>
+1° een tussentijdse evaluatie, tenzij de samenwerkingsovereenkomst een looptijd van drie jaar heeft;<br>
+2° een eindevaluatie.</p>
+
+<p>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle initiatieven nemen die het nodig acht.</p>
+
+<p>Het agentschap brengt de erkende intergemeentelijke onroerenderfgoeddienst schriftelijk op de hoogte van de resultaten van de, in voorkomend geval, tussentijdse evaluatie, vermeld in het eerste lid, 1°, en van de eindevaluatie, vermeld in het eerste lid, 2°.</p>
+
+<p>Als er bij de tussentijdse evaluatie ernstige tekortkomingen worden vastgesteld, kan de minister op voorstel van het agentschap beslissen om de samenwerkingsovereenkomst vervroegd te beëindigen. Die beslissing heeft dezelfde gevolgen als de beslissing over de intrekking van de erkenning.</p>
 
 ### ART. 10.1.14.
 
-<P>Een erkende intergemeentelijke onroerenderfgoeddienst kan een gemotiveerde   aanvraag indienen om de samenwerkingsovereenkomst vervroegd te beëindigen. De   aanvraag wordt per beveiligde zending ingediend bij het agentschap.<BR></P>  <P>De minister neemt een beslissing over de aanvraag binnen een termijn van   zestig dagen, die ingaat op de dag nadat de aanvraag is ingediend. Als de   samenwerkingsovereenkomst vervroegd beëindigd wordt, loopt ze af op 31 december   van het lopende jaar.<BR></P>
+<p>Een erkende intergemeentelijke onroerenderfgoeddienst kan een gemotiveerde aanvraag indienen om de samenwerkingsovereenkomst vervroegd te beëindigen. De aanvraag wordt schriftelijk ingediend bij het agentschap.</p>
+
+<p>De minister neemt een beslissing over de aanvraag binnen een termijn van zestig dagen, die ingaat op de dag nadat de aanvraag is ingediend. Als de samenwerkingsovereenkomst vervroegd beëindigd wordt, loopt ze af op 31 december van het lopende jaar.</p>
 
 ## Onderafdeling 2 De subsidiëring van erkende onroerenderfgoeddepots in het kader van een samenwerkingsovereenkomst
 
@@ -1497,7 +1763,17 @@ De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarl
 
 ### ART. 10.1.17.
 
-<P>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst   moet een onroerenderfgoeddepot voldoen aan de volgende voorwaarden:<BR>1° het   depot is erkend overeenkomstig artikel 3.4.7;<BR>2° het depot vervult een   receptieve functie van gemeentegrensoverschrijdend belang;<BR>3° het depot   voldoet aan minstens een van de volgende voorwaarden:<BR>a) het depot beschikt   over een calamiteitennetwerk;<BR>b) het depot heeft een interdisciplinaire   werking;<BR>c) het depot heeft een specifieke thematische werking.<BR></P>  <P>Als de erkenning van een onroerenderfgoeddepot gedurende de looptijd van de   samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.4.15 of   3.4.16, heeft het geen recht op een subsidie voor het jaar waarin de erkenning   wordt ingetrokken en is het gehouden tot de onmiddellijke terugbetaling van de   reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, 1°,   van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die   gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding   van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle   door het Rekenhof.<BR></P>
+<p>Om gesubsidieerd te worden in het kader van een samenwerkingsovereenkomst moet een onroerenderfgoeddepot voldoen aan de volgende voorwaarden:<br>
+1° het depot is erkend overeenkomstig artikel 3.4.7;<br>
+2° het depot vervult een receptieve functie van gemeentegrensoverschrijdend belang;<br>
+3° het depot voldoet aan minstens een van de volgende voorwaarden:<br>
+a) het depot beschikt over een calamiteitennetwerk;<br>
+b) het depot heeft een interdisciplinaire werking;<br>
+c) het depot heeft een specifieke thematische werking.</p>
+
+<p>Als de erkenning van een onroerenderfgoeddepot gedurende de looptijd van de samenwerkingsovereenkomst is ingetrokken overeenkomstig artikel 3.4.15 of 3.4.16, heeft het geen recht op een subsidie voor het jaar waarin de erkenning wordt ingetrokken en is het gehouden tot de onmiddellijke terugbetaling van de reeds uitbetaalde subsidie van het lopende jaar, overeenkomstig artikel 13, 1°, van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br>
+<br>
+Als gedurende de looptijd van de samenwerkingsovereenkomst de receptieve functie van gemeentegrensoverschrijdend belang, vermeld in het eerste lid, 2°, vervalt door een fusie van de gemeente waar het erkende onroerenderfgoeddepot zich bevindt met een of meer gemeenten waarvoor het erkende onroerenderfgoeddepot een receptieve functie vervult, blijft de lopende samenwerkingsovereenkomst ongewijzigd gelden.</p>
 
 ### ART. 10.1.18.
 
@@ -1505,11 +1781,19 @@ De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarl
 
 ### ART. 10.1.19.
 
-<P>&nbsp;De subsidieaanvraag bevat minstens de volgende elementen:<BR>1° een   meerjarenbegroting waarin alle verwachte kosten en opbrengsten opgenomen   zijn;<BR>2° de nodige bewijsstukken waaruit blijkt dat voldaan is aan de   voorwaarden, vermeld in artikel 10.1.17.<BR></P>  <P>Het agentschap stelt hiervoor een modelformulier ter beschikking op zijn   website. Als de aanvrager gelijktijdig een erkenning als onroerenderfgoeddepot   en een subsidie aanvraagt, voegt hij de elementen, vermeld in het eerste lid,   bij het modelformulier, vermeld in artikel 3.4.3.<BR></P>
+<p>De subsidieaanvraag bevat minstens de volgende elementen:<br>
+1° een meerjarenbegroting waarin alle verwachte kosten en opbrengsten die betrekking hebben op de gesubsidieerde activiteiten opgenomen zijn;<br>
+2° de nodige bewijsstukken waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 10.1.17.</p>
+
+<p>Het agentschap stelt hiervoor een modelformulier ter beschikking op zijn website. Als de aanvrager gelijktijdig een erkenning als onroerenderfgoeddepot en een subsidie aanvraagt, voegt hij de elementen, vermeld in het eerste lid, bij het modelformulier, vermeld in artikel 3.4.3.</p>
 
 ### ART. 10.1.20.
 
-De subsidieaanvraag is ontvankelijk als ze tijdig wordt ingediend en   volledig is. Als het agentschap vaststelt dat de aanvraag niet alle vereiste   elementen, vermeld in artikel 10.1.17, bevat, brengt het de aanvrager binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van de   subsidieaanvraag per beveiligde zending op de hoogte van de ontbrekende   elementen. Als de aanvrager het dossier niet binnen een termijn van veertien   dagen, die ingaat op da dag na de betekening, aanvult, wordt de subsidieaanvraag   onontvankelijk verklaard. Het agentschap deelt die beslissing per beveiligde   zending mee aan de aanvrager.<BR>
+De subsidieaanvraag is ontvankelijk als ze tijdig wordt ingediend en volledig is.<br>
+<br>
+Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen, vermeld in artikel 10.1.19, eerste lid, bevat, brengt het de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag schriftelijk op de hoogte van de ontbrekende elementen.<br>
+<br>
+Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op da dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.
 
 ### ART. 10.1.21.
 
@@ -1525,7 +1809,14 @@ Het agentschap beoordeelt de ontvankelijke subsidieaanvraag van het   erkende on
 
 ### ART. 10.1.24.
 
-<P>De subsidie omvat zowel personeels- als werkingsmiddelen.<BR></P>  <P>De jaarlijkse basissubsidie bedraagt minstens 85.000 euro en wordt   vermeerderd met een bedrag dat is gekoppeld aan de volgende criteria:<BR>1° het   aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die   deel uitmaken van het gebied waar het onroerenderfgoeddepot zijn receptieve   diensten verleent op 31 december van het jaar dat voorafgaat aan het jaar waarin   de ontvankelijke subsidieaanvraag is goedgekeurd;<BR>2° de oppervlakte van het   gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<BR>3°   de grootte van de collectie.<BR></P>  <P>De minister stelt de eenheidsprijzen per criterium   vast.<BR></P>
+<p>De subsidie omvat zowel personeels- als werkingsmiddelen.</p>
+
+<p>De jaarlijkse basissubsidie bedraagt minstens 85.000 euro en wordt vermeerderd met een bedrag dat is gekoppeld aan de volgende criteria, met als referentiedatum 1 januari van het jaar waarin de ontvankelijke subsidieaanvraag is goedgekeurd:<br>
+1° het aantal inwoners, ingeschreven in het bevolkingsregister van de gemeenten die deel uitmaken van het gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<br>
+2° de oppervlakte van het gebied waar het onroerenderfgoeddepot zijn receptieve diensten verleent;<br>
+3° de grootte van de collectie.</p>
+
+<p>De minister stelt de eenheidsprijzen per criterium vast.</p>
 
 ### ART. 10.1.25.
 
@@ -1537,11 +1828,21 @@ De subsidie wordt gedurende de looptijd van de samenwerkingsovereenkomst   jaarl
 
 ### ART. 10.1.27.
 
-<P>Het agentschap evalueert driejaarlijks de naleving van de   samenwerkingsoverkomst op basis van:<BR>1° een tussentijdse evaluatie;<BR>2° een   eindevaluatie.<BR></P>  <P>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle   initiatieven nemen die het nodig acht.<BR></P>  <P>Het agentschap brengt het erkende onroerenderfgoeddepot per beveiligde   zending op de hoogte van de resultaten van de tussentijdse evaluatie, vermeld in   het eerste lid, 1°, en van de eindevaluatie, vermeld in het eerste lid,   2°.<BR></P>  <P>Als er bij de tussentijdse evaluatie ernstige tekortkomingen worden   vastgesteld, kan de minister op voorstel van het agentschap beslissen om de   samenwerkingsovereenkomst vervroegd te beëindigen. Die beslissing heeft dezelfde   gevolgen als de beslissing over de intrekking van de   erkenning.<BR></P>
+<p>Het agentschap evalueert driejaarlijks de naleving van de samenwerkingsoverkomst op basis van:<br>
+1° een tussentijdse evaluatie;<br>
+2° een eindevaluatie.</p>
+
+<p>Het agentschap kan voor de evaluatie, vermeld in het eerste lid, alle initiatieven nemen die het nodig acht.</p>
+
+<p>Het agentschap brengt het erkende onroerenderfgoeddepot schriftelijk op de hoogte van de resultaten van de tussentijdse evaluatie, vermeld in het eerste lid, 1°, en van de eindevaluatie, vermeld in het eerste lid, 2°.</p>
+
+<p>Als er bij de tussentijdse evaluatie ernstige tekortkomingen worden vastgesteld, kan de minister op voorstel van het agentschap beslissen om de samenwerkingsovereenkomst vervroegd te beëindigen. Die beslissing heeft dezelfde gevolgen als de beslissing over de intrekking van de erkenning.</p>
 
 ### ART. 10.1.28.
 
-<P>Een erkend onroerenderfgoeddepot kan een gemotiveerde aanvraag indienen om de   samenwerkingsovereenkomst vervroegd te beëindigen. De aanvraag wordt per   beveiligde zending ingediend bij het agentschap.<BR></P>  <P>De minister neemt een beslissing over de aanvraag binnen een termijn van   zestig dagen, die ingaat op de dag nadat de aanvraag is ingediend. Als de   samenwerkingsovereenkomst vervroegd beëindigd wordt, loopt ze af op 31 december   van het lopende jaar.<BR></P>
+<p>Een erkend onroerenderfgoeddepot kan een gemotiveerde aanvraag indienen om de samenwerkingsovereenkomst vervroegd te beëindigen. De aanvraag wordt schriftelijk ingediend bij het agentschap.</p>
+
+<p>De minister neemt een beslissing over de aanvraag binnen een termijn van zestig dagen, die ingaat op de dag nadat de aanvraag is ingediend. Als de samenwerkingsovereenkomst vervroegd beëindigd wordt, loopt ze af op 31 december van het lopende jaar.</p>
 
 ## [Onderafdeling 3. De subsidiëring van erkende onroerenderfgoedgemeenten in het kader van een samenwerkingsovereenkomst (ing. BVR 2 september 2022, art. 63, I: 1 januari 2023)]
 
@@ -1665,7 +1966,7 @@ In afwijking van het tweede lid bedraagt de projectsubsidie voor archeologisch s
 
 ### ART. 10.3.5.
 
-De minister stelt&nbsp;per projectoproep het subsidiepercentage en het maximumbedrag voor de projectsubsidie vast.
+De minister stelt per projectoproep voor de projectsubsidie het subsidiepercentage, het maximumbedrag en de maximale duurtijd van de projecten vast.
 
 ## Onderafdeling 3 De aanvraagprocedure
 
@@ -1681,7 +1982,28 @@ De minister stelt&nbsp;per projectoproep het subsidiepercentage en het maximumbe
 
 ### ART. 10.3.7.
 
-<P>Uiterlijk op 1 april wordt de aanvraag ingediend bij het agentschap met een   volledig ingevuld modelformulier, dat ter beschikking gesteld is op de website   van het agentschap.<BR></P>  <P>De aanvraag bevat minstens de volgende elementen:<BR>1° de naam en de   contactgegevens van de aanvrager;<BR>2° het rekeningnummer waarop de   projectsubsidie gestort kan worden;<BR>3° een inhoudelijke beschrijving van het   project, die minstens de volgende gegevens bevat:<BR>a) een omschrijving van de   uitgangssituatie;<BR>b) een omschrijving van een of meer doelgroepen;<BR>c) een   uitwerking van de doelstellingen en de visie van het project in functie van de   module waarin het project wordt ingediend en van de beoogde meerwaarde voor de   doelgroep(en);<BR>d) een omschrijving van de verschillende didactische of   onderzoeksmethodieken die gebruikt zullen worden in functie van de module;<BR>4°   een motivatie waaruit blijkt dat het project past in de module en aansluit bij   het thema dat aangegeven is in de projectoproep;<BR>5° een plan van aanpak, dat   minstens de volgende gegevens bevat:<BR>a) de totale uitvoeringstermijn van het   project;<BR>b) een stappenplan met timing en opgave van de verschillende fasen,   de beoogde tussentijdse resultaten en de mijlpalen van het project;<BR>c) de   uitvoerders van het project en de personen die erbij betrokken zijn in functie   van hun bijdrage in de verschillende fasen;<BR>6° een financieel plan, dat   minstens de volgende gegevens bevat:<BR>a) de hoofdlijnen van de begroting voor   het project;<BR>b) een raming van de benodigde personeels- en   werkingsmiddelen;<BR>c) de financieringswijze van alle kosten die inherent zijn   aan het project;<BR>d) de opgave van de reeds verkregen, de te verwachten of aan   te vragen subsidies die de aanvrager op grond van andere wetgeving of   reglementering dan dit besluit heeft verkregen of kan verkrijgen, en welke   andere actoren het project mee bekostigen.<BR></P>  <P>Het agentschap gaat na of de subsidieaanvraag alle elementen, vermeld in het   tweede lid, bevat. Als het agentschap vaststelt dat de aanvraag niet alle   vereiste elementen bevat, brengt het de aanvrager binnen een termijn van dertig   dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag per   beveiligde zending op de hoogte van de ontbrekende elementen. Als de aanvrager   het dossier niet binnen een termijn van veertien dagen, die ingaat op de dag na   de betekening, aanvult, wordt de subsidieaanvraag onontvankelijk verklaard. Het   agentschap deelt die beslissing per beveiligde zending mee aan de   aanvrager.<BR></P>
+<p>Uiterlijk op 1 april wordt de aanvraag ingediend bij het agentschap met een volledig ingevuld modelformulier, dat ter beschikking gesteld is op de website van het agentschap.</p>
+
+<p>De aanvraag bevat minstens de volgende elementen:<br>
+1° de naam en de contactgegevens van de aanvrager;<br>
+2° het rekeningnummer waarop de projectsubsidie gestort kan worden;<br>
+3° een inhoudelijke beschrijving van het project, die minstens de volgende gegevens bevat:<br>
+a) een omschrijving van de uitgangssituatie;<br>
+b) een omschrijving van een of meer doelgroepen;<br>
+c) een uitwerking van de doelstellingen en de visie van het project in functie van de module waarin het project wordt ingediend en van de beoogde meerwaarde voor de doelgroep(en);<br>
+d) een omschrijving van de verschillende didactische of onderzoeksmethodieken die gebruikt zullen worden in functie van de module;<br>
+4° een motivatie waaruit blijkt dat het project past in de module en aansluit bij het thema dat aangegeven is in de projectoproep;<br>
+5° een plan van aanpak, dat minstens de volgende gegevens bevat:<br>
+a) de totale uitvoeringstermijn van het project;<br>
+b) een stappenplan met timing en opgave van de verschillende fasen, de beoogde tussentijdse resultaten en de mijlpalen van het project;<br>
+c) de uitvoerders van het project en de personen die erbij betrokken zijn in functie van hun bijdrage in de verschillende fasen;<br>
+6° een financieel plan, dat minstens de volgende gegevens bevat:<br>
+a) de hoofdlijnen van de begroting voor het project;<br>
+b) een raming van de benodigde personeels- en werkingsmiddelen;<br>
+c) de financieringswijze van alle kosten die inherent zijn aan het project;<br>
+d) de opgave van de reeds verkregen, de te verwachten of aan te vragen subsidies die de aanvrager op grond van andere wetgeving of reglementering dan dit besluit heeft verkregen of kan verkrijgen, en welke andere actoren het project mee bekostigen.</p>
+
+<p>Het agentschap gaat na of de subsidieaanvraag alle elementen, vermeld in het tweede lid, bevat. Als het agentschap vaststelt dat de aanvraag niet alle vereiste elementen bevat, brengt het de aanvrager binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de subsidieaanvraag schriftelijk op de hoogte van de ontbrekende elementen. Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de subsidieaanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.</p>
 
 ## Onderafdeling 4 De beoordeling van de projectvoorstellen
 
@@ -1697,21 +2019,49 @@ De minister bepaalt de nadere regels over de aanwijzing, de werking en de organi
 
 ### ART. 10.3.10.
 
-<P>§ 1. Het agentschap legt de ontvankelijke subsidieaanvragen voor aan de jury   die een gemotiveerd advies erover formuleert.<BR></P>  <P>Het advies van de jury bevat de volgende elementen:<BR>1° een beknopte   evaluatie per project op basis van de beoordelingscriteria vermeld in artikel   10.3.8;<BR>2° een opdeling van de projecten in positief en negatief geadviseerde   projecten;<BR>3° een rangschikking van de positief geadviseerde   projecten.<BR></P>  <P>§ 2. Als de jury bijkomende informatie nodig acht, kan het agentschap die   informatie opvragen bij de aanvrager. De aanvrager stelt binnen de termijn van   minstens veertien dagen die het agentschap vastgesteld heeft, de aanvullende   stukken ter beschikking.<BR></P>  <P>§ 3. Het agentschap bezorgt het advies van de jury aan de minister.<BR></P>  <P>§ 4. Uiterlijk op 1 augustus beslist de minister over de toekenning van de   projectsubsidies en over eventuele specifieke voorwaarden. De projectsubsidies   worden toegekend in de volgorde van de rangschikking die aan de projecten wordt   gegeven.<BR></P>  <P>Het agentschap deelt de beslissing per beveiligde zending mee aan de   indieners van de projectvoorstellen. Aan de begunstigden wordt ook het maximale   bedrag van de projectsubsidie per project meegedeeld.<BR></P>
+<p>§ 1. Het agentschap legt de ontvankelijke subsidieaanvragen voor aan de jury die een gemotiveerd advies erover formuleert.</p>
+
+<p>Het advies van de jury bevat de volgende elementen:<br>
+1° een beknopte evaluatie per project op basis van de beoordelingscriteria vermeld in artikel 10.3.8;<br>
+2° een opdeling van de projecten in positief en negatief geadviseerde projecten;<br>
+3° een rangschikking van de positief geadviseerde projecten.</p>
+
+<p>§ 2. Als de jury bijkomende informatie nodig acht, kan het agentschap die informatie opvragen bij de aanvrager. De aanvrager stelt binnen de termijn van minstens veertien dagen die het agentschap vastgesteld heeft, de aanvullende stukken ter beschikking.</p>
+
+<p>§ 3. Het agentschap bezorgt het advies van de jury aan de minister.</p>
+
+<p>§ 4. Uiterlijk op 1 augustus beslist de minister over de toekenning van de projectsubsidies en over eventuele specifieke voorwaarden. De projectsubsidies worden toegekend in de volgorde van de rangschikking die aan de projecten wordt gegeven.</p>
+
+<p>Het agentschap deelt de beslissing schriftelijk mee aan de indieners van de projectvoorstellen. Aan de begunstigden wordt ook het maximale bedrag van de projectsubsidie per project meegedeeld.</p>
 
 ## Onderafdeling 5 Verantwoording van de aanwending van de subsidies en toezicht
 
 ### ART. 10.3.11.
 
-&nbsp;De begunstigde brengt het agentschap per beveiligde zending op de   hoogte van de start van het project en de mijlpalen van het project, zoals   aangegeven in het plan van aanpak.<BR>
+&nbsp;De begunstigde brengt het agentschap schriftelijk op de hoogte van de start van het project en de mijlpalen van het project, zoals aangegeven in het plan van aanpak.
 
 ### ART. 10.3.12.
 
-<P>Op gemotiveerd en schriftelijk verzoek van de begunstigde kan het agentschap   de maximale looptijd van het project eenmaal met maximaal één jaar   verlengen.<BR></P>  <P>De aanvraag tot verlenging wordt uiterlijk ingediend bij het agentschap drie   maanden voor de afloop van de uitvoeringstermijn die is vastgelegd in het plan   van aanpak.<BR></P>
+<p>Op gemotiveerd en schriftelijk verzoek van de begunstigde kan het agentschap de maximale looptijd van het project eenmaal met maximaal één jaar verlengen.</p>
+
+<p>De aanvraag tot verlenging wordt ingediend bij het agentschap minstens negentig dagen voor de afloop van de uitvoeringstermijn die is vastgelegd in het plan van aanpak.</p>
 
 ### ART. 10.3.13.
 
-<P>Uiterlijk zes maanden na de afloop van het project bezorgt de begunstigde een   inhoudelijk eindverslag aan het agentschap, dat minstens de volgende gegevens   bevat:<BR>1° een beschrijving van het verloop van het project;<BR>2° een   weergave van de beoogde en de bereikte resultaten van het project;<BR>3° een   beknopte beschrijving van de activiteiten in het kader van het project en de   prestaties die zijn geleverd.<BR></P>  <P>Bij het inhoudelijk eindverslag wordt een financieel eindrapport gevoegd, dat   minstens de volgende gegevens bevat:<BR>1° een gedetailleerde financiële   eindafrekening;<BR>2° een aanvraag tot uitbetaling van het saldo van de   projectsubsidie;<BR>3° een staat van de werkelijke inkomsten die betrekking   hebben op het project;<BR>4° een afrekening van de bedragen die ontvangen zijn   op grond van andere wetgeving of reglementering dan dit besluit.<BR></P>  <P>De minister bepaalt de nadere regels voor de verplichte vermeldingen in het   financiële eindrapport.<BR></P>  <P>De bewijsstukken van de gemaakte kosten kunnen op elk moment door het   agentschap worden opgevraagd.<BR></P>
+<p>Binnen een termijn van 180 dagen, die ingaat op de dag na de afloop van het project bezorgt de begunstigde een inhoudelijk eindverslag aan het agentschap, dat minstens de volgende gegevens bevat:<br>
+1° een beschrijving van het verloop van het project;<br>
+2° een weergave van de beoogde en de bereikte resultaten van het project;<br>
+3° een beknopte beschrijving van de activiteiten in het kader van het project en de prestaties die zijn geleverd.</p>
+
+<p>Bij het inhoudelijk eindverslag wordt een financieel eindrapport gevoegd, dat minstens de volgende gegevens bevat:<br>
+1° een gedetailleerde financiële eindafrekening;<br>
+2° een aanvraag tot uitbetaling van het saldo van de projectsubsidie;<br>
+3° een staat van de werkelijke inkomsten die betrekking hebben op het project;<br>
+4° een afrekening van de bedragen die ontvangen zijn op grond van andere wetgeving of reglementering dan dit besluit.</p>
+
+<p>De minister bepaalt de nadere regels voor de verplichte vermeldingen in het financiële eindrapport.</p>
+
+<p>De bewijsstukken van de gemaakte kosten kunnen op elk moment door het agentschap worden opgevraagd.</p>
 
 ### ART. 10.3.14.
 
@@ -1719,7 +2069,9 @@ De minister bepaalt de nadere regels over de aanwijzing, de werking en de organi
 
 ### ART. 10.3.15.
 
-<P>Als de begunstigde niet voldoet aan de rapporteringsverplichtingen, vermeld   in artikel 10.3.11 en 10.3.13 of als de rapportering manifest onduidelijk is, of   als de begunstigde onvoldoende aantoont dat hij de vooropgestelde doelstellingen   heeft nagestreefd, verzoekt het agentschap uiterlijk drie maanden na de   ontvangst van de documenten, vermeld in artikel 10.3.11 en 10.3.13 om een   aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde   engagementen niet zijn nagekomen.<BR></P>  <P>Als uit de aangepaste rapportering of uit de bijkomende motivering blijkt dat   de subsidie niet aangewend is voor het doel waarvoor ze is verleend, kan het   agentschap de verdere toegekende subsidies niet of slechts gedeeltelijk   uitbetalen en kan het agentschap de geheel of gedeeltelijk uitbetaalde subsidies   terugvorderen.<BR></P>
+<p>Als de begunstigde niet voldoet aan de rapporteringsverplichtingen, vermeld in artikel 10.3.11 en 10.3.13 of als de rapportering manifest onduidelijk is, of als de begunstigde onvoldoende aantoont dat hij de vooropgestelde doelstellingen heeft nagestreefd, verzoekt het agentschap&nbsp;binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst van de documenten, vermeld in artikel 10.3.11 en 10.3.13 om een aangepaste rapportering of een motiverende nota met de redenen waarom bepaalde engagementen niet zijn nagekomen.</p>
+
+<p>Als uit de aangepaste rapportering of uit de bijkomende motivering blijkt dat de subsidie niet aangewend is voor het doel waarvoor ze is verleend, kan het agentschap de verdere toegekende subsidies niet of slechts gedeeltelijk uitbetalen en kan het agentschap de geheel of gedeeltelijk uitbetaalde subsidies terugvorderen.</p>
 
 ### ART. 10.3.16.
 
@@ -1759,7 +2111,14 @@ In afwijking van het eerste lid kunnen wel premies worden toegekend voor beheers
 
 ### ART. 11.2.1.
 
-<P>Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap   beschikbare kredieten kan aan een premienemer een erfgoedpremie worden toegekend   voor beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor   het behoud of de herwaardering van erfgoedkenmerken en -elementen van een   beschermd goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand   geheel vormt, of in de overgangszone bij een beschermd goed.<BR></P>  <P>In het geval van een project dat ofwel beheersmaatregelen, werkzaamheden of   diensten aan goederen gelegen in beschermde stads- en dorpsgezichten, beschermde   cultuurhistorische landschappen, erfgoedlandschappen of beschermde   archeologische sites omvat, of waarbij verschillende gespecialiseerde   werkzaamheden gecombineerd worden, of waarvoor een meerjarenpremieovereenkomst   wordt aangevraagd, of dat beheersmaatregelen, werkzaamheden of diensten omvat   waarvoor een verhoogde erfgoedpremie van 60 % of 80 % wordt aangevraagd, wordt   een erfgoedpremie slechts toegekend als de beheersmaatregelen, werkzaamheden of   diensten die het voorwerp uitmaken van de erfgoedpremieaanvraag vermeld worden   in een goedgekeurd beheersplan.<BR></P>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan aan een premienemer een erfgoedpremie worden toegekend voor beheersmaatregelen, werkzaamheden of diensten die noodzakelijk zijn voor het behoud of de herwaardering van erfgoedkenmerken en -elementen van een beschermd goed, een erfgoedlandschap of in de overgangszone bij een beschermd goed.<br>
+<br>
+In de volgende gevallen moeten de beheersmaatregelen, de werkzaamheden of de diensten waarvoor een premie wordt aangevraagd vermeld zijn in een goedgekeurd beheersplan:<br>
+1° het project betreft goederen gelegen in beschermde stads- en dorpsgezichten, beschermde cultuurhistorische landschappen, erfgoedlandschappen of beschermde archeologische sites;<br>
+2° het project betreft UNESCO-werelderfgoed. Een door UNESCO goedgekeurd management plan voor de betrokken locatie geldt als goedgekeurd beheersplan;<br>
+3° het project betreft erkend open erfgoed of een ontwikkeling tot open erfgoed;<br>
+4° voor het project worden verschillende gespecialiseerde werkzaamheden gecombineerd;<br>
+5° voor het project wordt een meerjarenpremieovereenkomst aangevraagd.
 
 ### ART. 11.2.2.
 
@@ -1771,18 +2130,11 @@ Er kan voor cultuurgoederen alleen een erfgoedpremie worden toegekend voor   het
 
 ### ART. 11.2.4.
 
-<p>De volgende beheersmaatregelen, werkzaamheden of diensten komen niet in aanmerking voor een erfgoedpremie:<br>
-1° niet-erfgoedgebonden onderhoud;<br>
-2° comfort- en isolatiewerkzaamheden, beveiligingswerkzaamheden, of werkzaamheden of diensten die opgelegd zijn door andere regelgevingen, tenzij ze essentieel zijn voor het behoud van de erfgoedkenmerken en -elementen. Om in aanmerking te komen voor een erfgoedpremie voor energiebesparende maatregelen moet er voldaan worden aan de volgende voorwaarden:<br>
-a) de energiebesparende maatregelen worden vermeld in een energieaudit;<br>
-b) er worden specifieke technieken, materialen of toepassingen opgelegd in de toelating van het agentschap of van de erkende onroerenderfgoedgemeente, vermeld in artikel 6.4.4, § 1, eerste lid, van het Onroerenderfgoeddecreet van 12 juli 2013, of in het advies van het agentschap, vermeld in artikel 6.4.4, § 2, van voormeld decreet;<br>
-c) de specifieke technieken, materialen of toepassingen brengen een meerkost met zich mee;<br>
-3° het opnieuw aanbrengen van niet meer aanwezige waardevolle elementen, behalve als er voldoende materiële gegevens of iconografisch materiaal aanwezig zijn om een verantwoorde reconstructie mogelijk te maken en als de reconstructie vereist is om een storende lacune aan te vullen;<br>
-4° ontsluitingswerken, behalve als ze opgenomen zijn in een goedgekeurd beheersplan voor open erfgoed.</p>
-
-<p>In het eerste lid, 1°, wordt verstaan onder niet-erfgoedgebonden onderhoud: de preventieve en periodieke onderhoudswerken zonder impact op de erfgoedkenmerken of -elementen van het onroerend goed, die elke eigenaar of beheerder van een onroerend goed verondersteld wordt uit te voeren en die niet zijn opgenomen in de vastgestelde lijst met forfaitaire werkzaamheden.</p>
-
-<p>Een aanvrager kan nooit aanspraak maken op een erfgoedpremie voor de uitvoering van werkzaamheden of diensten waartoe hij al gehouden is op grond van zijn deelname aan een misdrijf of inbreuk als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013.</p>
+De volgende beheersmaatregelen, werkzaamheden of diensten komen enkel in aanmerking voor een erfgoedpremie onder de hieronder vermelde voorwaarden:<br>
+1° ingrepen in functie van regulier onderhoud, als ze zijn opgenomen in de vastgestelde lijst met forfaitaire werkzaamheden;<br>
+2° energiebesparende maatregelen ter uitvoering van aanbevelingen in een energieaudit, beveiligingswerkzaamheden en werkzaamheden of diensten die opgelegd zijn door andere regelgevingen, als in functie hiervan:<br>
+a) erfgoedkenmerken en -elementen moeten worden aangepast;<br>
+b) nieuwe elementen worden toegevoegd, er daarover randvoorwaarden worden gesteld in de toelating of in het advies, vermeld in artikel 6.4.4, § 1 en § 2, van het Onroerenderfgoeddecreet van 12 juli 2013 en die randvoorwaarden meerkosten veroorzaken. Die meerkosten komen integraal in aanmerking voor een premie. De meerkosten worden aangetoond door de aanvrager.
 
 ## Onderafdeling 2 Twee procedures voor het aanvragen van de erfgoedpremie
 
@@ -1814,28 +2166,41 @@ De erfgoedpremie bedraagt 40 % van de aanvaarde kostenraming, exclusief   btw.<B
 
 ### ART. 11.2.10.
 
-Een verhoogde erfgoedpremie van 60 % van de aanvaarde kostenraming,   exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of   diensten aan of in:<BR>1° ZEN-erfgoed;<BR>2°   onderwijsgebouwen.<BR>
+Een verhoogde erfgoedpremie van 60% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan of in:<br>
+1° beschermde monumenten die bestemd zijn voor een erkende eredienst. De verhoogde premie kan alleen worden toegekend als er een actueel kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met uitzondering van de kathedralen;<br>
+2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, welzijnsvereniging of een sociale huisvestingsmaatschappij, die een publieksfunctie hebben, tenzij ze in hoofdzaak een commerciële of andere bestemming hebben die economische opbrengsten genereert. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1° ;<br>
+3° onderwijsgebouwen;<br>
+4° als monument beschermde, maalvaardige en voor het publiek ontsloten molens;<br>
+5° ZEN-erfgoed als vermeld in een goedgekeurd beheersplan;<br>
+6° erkend open erfgoed of onroerend erfgoed dat ontwikkeld wordt tot open erfgoed volgens het ontwikkelingstraject in het beheersplan, vermeld in artikel 8.1.4.<br>
+<br>
+In het eerste lid, 2° wordt verstaan onder publieksfunctie: openstaan voor het publiek of bedoeld zijn voor gemeenschappelijk gebruik, ook al is de toegang beperkt tot een of meer welbepaalde categorieën van personen, met uitzondering van de zones die alleen toegankelijk zijn voor werknemers.
 
 ### ART. 11.2.11.
 
-<p>Een verhoogde erfgoedpremie van 80 % van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor het beheer van of voor werkzaamheden of diensten aan of in:<br>
-1° beschermde monumenten die bestemd zijn voor een erkende eredienst. De verhoogde premie kan alleen worden toegekend als er een actueel kerkenbeleidsplan bestaat voor de gebouwen van een erkende eredienst, met uitzondering van de kathedralen;<br>
-2° beschermde goederen die eigendom zijn van een gemeente, autonoom gemeentebedrijf, OCMW, OCMW-vereniging of een sociale huisvestingsmaatschappij. Als het gebouw bestemd is voor de eredienst, moet ook voldaan worden aan de voorwaarden, vermeld in punt 1°;<br>
-3° open erfgoed. De beheersmaatregelen, werkzaamheden of diensten moeten passen in de realisatie van de erkenning als open erfgoed, vermeld in artikel 8.4.1 en 8.4.2. De openstelling moet gerealiseerd worden conform het goedgekeurde beheersplan.<br>
+§ 1. Voor de verhoogde erfgoedpremie voor erkend of te ontwikkelen open erfgoed, vermeld in artikel 11.2.10, eerste lid, 6°, gelden de volgende bijkomende voorwaarden:<br>
+1° in het geval van onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, leidt de ontwikkeling ervan tot een erkenning binnen een termijn van zes jaar, die ingaat op de dag nadat een eerste verhoogde premieaanvraag voor dit goed werd ingediend;<br>
+2° de locatie blijft voldoen aan de erkenningsvoorwaarden voor open erfgoed, vermeld in artikel 8.4.1, gedurende een periode van twaalf jaar, die ingaat op de dag nadat een eerste verhoogde premieaanvraag voor dat goed is ingediend. In het geval van onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, gaat die termijn in vanaf het moment van de erkenning als open erfgoed;<br>
+3° gedurende de periode van twaalf jaar, vermeld in punt 2°, is de locatie minstens vijftig dagen en driehonderd uur per jaar opengesteld. In het geval van artikel 8.1.4, § 2, derde lid, gelden de afwijkende openstellingsvoorwaarden, vermeld in het goedgekeurde beheersplan;<br>
 <br>
-Een premienemer die een erfgoedpremie van 80% aanvraagt voor het behoud of de herwaardering van open erfgoed, gaat het engagement aan om gedurende minstens tien jaar die ingaat op de dag na de ontvangst van het verzoek tot uitbetaling van het saldo van de erfgoedpremie die met toepassing van het eerste lid, 3°, is toegekend, te voldoen aan de specifieke bepalingen over open erfgoed in het goedgekeurde beheersplan.<br>
+§ 2. In geval van overmacht en na gemotiveerd verzoek kan het agentschap afwijkingen toestaan op de termijnen vermeld in paragraaf 1, 1° en 2°.<br>
 <br>
-Als hij dat engagement naast zich neerlegt voor de termijn van tien jaar, vermeld in het derde lid, is verstreken, moet hij de helft van de toegekende erfgoedpremie terugbetalen, vermeerderd met de wettelijke intresten, verminderd met 10 % voor elk jaar dat volledig verstreken is, vanaf de datum waarop de uitbetaling van het saldo van de erfgoedpremie is aangevraagd.<br>
+§ 3. Als de locatie niet erkend wordt als open erfgoed binnen de termijn, vermeld in paragraaf 1, 1°, wordt het verschil tussen verhoogde en gewone premie, inclusief de al toegekende premies, verrekend bij de eindafrekening en betaalt de premienemer eventueel te veel toegekende bedragen, vermeerderd met de wettelijke intresten, terug. De wettelijke intresten beginnen te lopen vanaf de dag na het verstrijken van de termijn, vermeld in paragraaf 1, 1°.<br>
 <br>
-Als het saldo van de erfgoedpremie niet binnen redelijke termijnen kan worden opgevraagd door overmacht, kan het agentschap uitzonderlijk een andere startdatum van de periode van tien jaar bepalen. De premienemer richt daarvoor een gemotiveerd verzoek aan het agentschap dat in voorkomend geval gestaafd wordt met bewijsstukken. In dat verzoek doet de premienemer een redelijk en gemotiveerd voorstel voor de startdatum van de periode van tien jaar.<br>
-<br>
-In het geval van open erfgoed kan bijkomend een erfgoedpremie van 20 % worden toegekend voor beheersmaatregelen, werkzaamheden of diensten gericht op een verbeterde inhoudelijke of fysieke ontsluiting van het goed, op voorwaarde dat ze ook bijdragen aan het behoud of de herwaardering van erfgoedkenmerken en -elementen.<br>
-<br>
-In geval van onderwijsgebouwen, erkend als open erfgoed, komen beheersmaatregelen, werkzaamheden en diensten niet in aanmerking voor de verhoogde erfgoedpremie van 80%.</p>
+Als de locatie minder dan twaalf jaar voldoet aan de erkenningsvoorwaarden voor open erfgoed, vermeld in paragraaf 1, 2°, wordt het verschil tussen de verhoogde en de gewone premie, verminderd met 8% voor elk jaar dat volledig verstreken is, inclusief de al toegekende premies, verrekend bij de eindafrekening. De premienemer betaalt eventueel te veel toegekende bedragen, vermeerderd met de wettelijke intresten, terug. De wettelijke intresten beginnen te lopen vanaf het moment dat de locatie niet meer voldoet aan de erkenningsvoorwaarden.
 
 ### ART. 11.2.12.
 
-...
+§ 1. Een aanvullende premie van 10% van de aanvaarde kostenraming, exclusief btw, wordt toegekend als het goed, waarvoor de premie wordt aangevraagd, gedurende de periode van zes jaar voor de aanvraag en de periode tussen de aanvraag en de toekenning van de premie, aantoonbaar consequent en kwaliteitsvol is onderhouden.<br>
+<br>
+De premienemer voegt daarvoor bij de aanvraag een uittreksel van een onderhoudslogboek dat betrekking heeft op de periode van zes jaar die voorafgaat aan de aanvraag.<br>
+<br>
+§ 2. Een aanvullende premie van 10% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor beheersmaatregelen, werkzaamheden of diensten aan beschermde goederen of erfgoedlandschappen:<br>
+1° die uitgevoerd worden door of in opdracht van een stichting of vereniging met rechtspersoonlijkheid die het herstel en beheer van beschermde goederen of erfgoedlandschappen tot doel heeft;<br>
+2° waarvan minstens de helft van de gebouwde onroerende goederen in het beheer van die stichting of vereniging met rechtspersoonlijkheid beschermd is;<br>
+3° en waarbij het beheer over de onroerende goederen in kwestie voor een periode van minstens vijf jaar schriftelijk is toegewezen aan die stichting of vereniging met rechtspersoonlijkheid .<br>
+<br>
+§ 3. Een premie van 20% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor beheersmaatregelen, werkzaamheden of diensten die gericht zijn op een verbeterde inhoudelijke of fysieke ontsluiting van het erkende open erfgoed of het onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, op voorwaarde dat het gaat om ingrepen aan de locatie zelf en in de mate dat het eindproduct een fysiek en permanent karakter heeft.
 
 ### ART. 11.2.13.
 
@@ -1878,21 +2243,29 @@ De beheersmaatregelen, werkzaamheden of diensten waarvoor een   erfgoedpremie wo
 1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
 2° een motivering van de geplande beheersmaatregelen, werkzaamheden of diensten, met duidelijke verwijzing naar de relevante bepalingen van het goedgekeurde beheersplan of de motivatie waarom een beheersplan niet nodig is;<br>
 3° een beschrijving van de geplande beheersmaatregelen, werkzaamheden of diensten, aangevuld met een kostenraming of een gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
-4° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.</p>
+4° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.<br>
+5° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
+6° in het geval van artikel 11.2.12, § 2, de statuten van de stichting of de vereniging, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de stichting of vereniging.</p>
 
 <p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
 ### ART. 11.2.19.
 
-§ 1. De aanvraag van een erfgoedpremie volgens de standaardprocedure kan   gelijktijdig ingediend worden met de aanvraag van de toelating voor de   beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt   hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een   dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in   voorkomend geval, bij de erkende onroerenderfgoedgemeente.<BR><BR>§ 2. Als de   aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn,   vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de   vastlegging van de erfgoedpremie, vermeld in artikel 11.2.20, als toelating voor   de aangevraagde beheersmaatregelen, werkzaamheden, diensten of   handelingen.<BR><BR>§ 3. Als de aanvraag wordt ingediend bij de erkende   onroerenderfgoedgemeente, stuurt de onroerenderfgoedgemeente een kopie van de   aanvraag en de bijhorende stukken door naar het agentschap binnen een termijn   van vijf dagen, die ingaat de dag na de ontvangst ervan.<BR>
+§ 1. De aanvraag van een erfgoedpremie volgens de standaardprocedure kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+<br>
+§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de vastlegging van de erfgoedpremie, vermeld in artikel 11.2.20, als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+<br>
+§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen een termijn van vijf dagen, die ingaat de dag na de indiening ervan.
 
 ### ART. 11.2.20.
 
-<P>Het agentschap onderzoekt de aanvraag inhoudelijk en neemt een beslissing   binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst   ervan. In geval van akkoord wordt de erfgoedpremie vastgelegd waarna een kopie   van dit besluit per beveiligde zending aan de aanvrager wordt bezorgd.<BR></P>  <P>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de   standaardprocedure, onvolledig wordt bevonden of als de waarborgen voor een   vakkundige uitvoering onvoldoende worden geacht, wordt onverwijld per beveiligde   zending aan de aanvrager gemeld waarom de aanvraag wordt geweigerd, en in   voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om   voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die   opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.18 opnieuw worden   ingediend.<BR></P>
+<p>Het agentschap onderzoekt de aanvraag inhoudelijk en neemt een beslissing binnen een termijn van negentig dagen, die ingaat op de dag na de&nbsp;indiening ervan. In geval van akkoord wordt de erfgoedpremie vastgelegd waarna een kopie van dit besluit&nbsp;schriftelijk aan de aanvrager wordt bezorgd.</p>
+
+<p>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de standaardprocedure, onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt onverwijld schriftelijk aan de aanvrager gemeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.18 opnieuw worden ingediend.</p>
 
 ### ART. 11.2.21.
 
-&nbsp;De premienemer brengt het agentschap minstens vijftien dagen op   voorhand per beveiligde zending op de hoogte van de start van de werken en van   de vastgelegde uitvoeringstermijn.<BR>
+&nbsp;De premienemer brengt het agentschap minstens vijftien dagen op voorhand schriftelijk op de hoogte van de start van de werken en van de vastgelegde uitvoeringstermijn.
 
 ### ART. 11.2.22.
 
@@ -1902,7 +2275,11 @@ Een premienemer is verplicht om op de werf aan te geven dat een   erfgoedpremie 
 
 ### ART. 11.2.23.
 
-<P>Na afloop van de beheersmaatregelen, werkzaamheden of diensten bezorgt de   premienemer het agentschap een gedocumenteerd overzicht van de uitgevoerde   beheersmaatregelen, werkzaamheden of diensten en vraagt hij per beveiligde   zending de uitbetaling van de premie. De premienemer voegt bij de aanvraag in   voorkomend geval de nodige betalingsbewijzen die aantonen dat de   beheersmaatregelen, werkzaamheden of diensten die in aanmerking komen voor de   premie, volledig betaald zijn.<BR></P>  <P>Na controle van de ingediende stukken en van de uitgevoerde   beheersmaatregelen, werkzaamheden of diensten door het agentschap wordt de   erfgoedpremie uitbetaald.<BR></P>  <P>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of als de   uitgevoerde beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard,   wordt aan de premienemer per beveiligde zending gemeld waarom de uitbetaling   wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden   aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een   nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan   overeenkomstig het eerste lid opnieuw worden ingediend.<BR></P>
+<p>Na afloop van de beheersmaatregelen, werkzaamheden of diensten bezorgt de premienemer het agentschap een gedocumenteerd overzicht van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en vraagt hij&nbsp;schriftelijk de uitbetaling van de premie. De premienemer voegt bij de aanvraag in voorkomend geval de nodige betalingsbewijzen die aantonen dat de beheersmaatregelen, werkzaamheden of diensten die in aanmerking komen voor de premie, volledig betaald zijn.</p>
+
+<p>Na controle van de ingediende stukken en van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten door het agentschap wordt de erfgoedpremie uitbetaald.</p>
+
+<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of als de uitgevoerde beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard, wordt aan de premienemer schriftelijk gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
 
 ### ART. 11.2.24.
 
@@ -1914,7 +2291,9 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ### ART. 11.2.26.
 
-<P>Een premienemer wordt geacht afstand te doen van de erfgoedpremie als hij   niet, overeenkomstig artikel 11.2.25, verzoekt om de uitbetaling ervan binnen   een termijn van twee jaar, die ingaat op de dag na de beveiligde zending waarmee   het agentschap de voorgestelde beheersmaatregelen, werkzaamheden of diensten   goedkeurt.<BR></P>  <P>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de   termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de   premienemer vóór het verstrijken termijn, vermeld in het eerste lid, per   beveiligde zending, een gemotiveerd verzoek aan het   agentschap.<BR></P>
+<p>Een premienemer wordt geacht afstand te doen van de erfgoedpremie als hij niet, overeenkomstig artikel 11.2.25, verzoekt om de uitbetaling ervan binnen een termijn van twee jaar, die ingaat op de dag na de beslissing waarmee het agentschap de voorgestelde beheersmaatregelen, werkzaamheden of diensten goedkeurt.</p>
+
+<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken termijn, vermeld in het eerste lid, schriftelijk, een gemotiveerd verzoek aan het agentschap.</p>
 
 ## [Onderafdeling 10. De erfgoedpremie via oproep (verv. BVR 11 december 2020, art. 29, I: 15 december 2020)]
 
@@ -1924,7 +2303,7 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 <p>In uitzonderlijke omstandigheden kan een premienemer beheersmaatregelen, werkzaamheden of diensten uitvoeren vóór de toekenning van de premie zonder dat hij het recht op de premie verliest. Hij dient daartoe, nadat hij de bevestiging heeft ontvangen dat de beheersmaatregelen, werkzaamheden of diensten in aanmerking komen voor een erfgoedpremie, een gemotiveerde aanvraag in bij het agentschap. Daarin geeft hij onder meer aan waarom niet langer gewacht kan worden, en welke beheersmaatregelen, werkzaamheden of diensten voorafgaand aan de toekenning van de erfgoedpremie zullen worden uitgevoerd.</p>
 
-<p>Het agentschap onderzoekt de aanvraag en neemt een beslissing binnen een termijn van vijfenveertig dagen, die ingaat op de dag na de ontvangst ervan. Het agentschap deelt die beslissing per beveiligde zending onverwijld mee aan de aanvrager.</p>
+<p>Het agentschap onderzoekt de aanvraag en neemt een beslissing binnen een termijn van vijfenveertig dagen, die ingaat op de dag na de ontvangst ervan. Het agentschap deelt die beslissing&nbsp;schriftelijk onverwijld mee aan de aanvrager.</p>
 
 <p>Alleen als het agentschap instemt met het feit dat er beheersmaatregelen, werkzaamheden of diensten vóór de toekenning van de premie worden uitgevoerd, en als de premienemer zich beperkt tot de beheersmaatregelen, werkzaamheden of diensten die in de goedkeuring vermeld zijn, verliest hij het recht op de premie niet.</p>
 
@@ -1942,7 +2321,9 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 5° een gedetailleerde en volgens post geordende beschrijving van de beheersmaatregelen, werkzaamheden of diensten;<br>
 6° een kostenraming met uitsplitsing per post of de gedetailleerde verwijzing naar de door de minister vastgestelde lijst met forfaitaire werkzaamheden;<br>
 7° alle relevante documenten over de aanstelling van de ontwerper, of de motivatie waarom er geen ontwerper hoeft te worden aangesteld;<br>
-8° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.</p>
+8° bij beschermde monumenten die bestemd zijn voor een erkende eredienst: het kerkenbeleidsplan van de gemeente of regio in kwestie of de datum van goedkeuring van het kerkenbeleidsplan als dat al aan het agentschap is bezorgd.<br>
+9° in voorkomend geval, een uittreksel van het onderhoudslogboek, vermeld in artikel 11.2.12, § 1, tweede lid;<br>
+10° in het geval van artikel 11.2.12, § 2, de statuten van de vzw, een bewijs dat het beheer van het onroerend goed in kwestie schriftelijk eraan is toegewezen voor een periode van minstens vijf jaar en een overzicht van de onroerende goederen in het beheer van de vzw.</p>
 
 <p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
@@ -1950,15 +2331,21 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ### ART. 11.2.29.
 
-§ 1. De aanvraag van een erfgoedpremie volgens de bijzondere procedure kan   gelijktijdig ingediend worden met de aanvraag van de toelating voor de   beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt   hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een   dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in   voorkomend geval, bij de erkende onroerenderfgoedgemeente.<BR><BR>§ 2. Als de   aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn,   vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de   beslissing, vermeld in artikel 11.2.30, waarbij de premieaanvraag ontvankelijk   wordt verklaard als toelating voor de aangevraagde beheersmaatregelen,   werkzaamheden, diensten of handelingen.<BR><BR>§ 3. Als de aanvraag wordt   ingediend bij de erkende onroerenderfgoedgemeente, dan stuurt de   onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door   naar het agentschap binnen vijf dagen vanaf de dag na de   ontvangst.<BR>
+§ 1. De aanvraag van een erfgoedpremie volgens de bijzondere procedure kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+<br>
+§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de beslissing, vermeld in artikel 11.2.30, waarbij de premieaanvraag ontvankelijk wordt verklaard als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+<br>
+§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, dan stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen vijf dagen vanaf de dag na de indiening.
 
 ### ART. 11.2.30.
 
-<P>Het agentschap onderzoekt de aanvraag en neemt binnen negentig dagen, vanaf   de datum van de ontvangst ervan een beslissing. Het agentschap deelt deze   beslissing per beveiligde zending onverwijld mee aan de aanvrager.<BR></P>  <P>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de   bijzondere procedure, onvolledig wordt bevonden of als de waarborgen voor een   vakkundige uitvoering onvoldoende worden geacht, wordt in de beslissing vermeld   waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het   dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te   komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan   overeenkomstig artikel 11.2.28 opnieuw worden ingediend.<BR></P>
+<p>Het agentschap onderzoekt de aanvraag en neemt binnen negentig dagen, vanaf de datum van de&nbsp;indiening ervan een beslissing. Het agentschap deelt deze beslissing per beveiligde zending onverwijld mee aan de aanvrager.</p>
+
+<p>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de bijzondere procedure, onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt in de beslissing vermeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.28 opnieuw worden ingediend.</p>
 
 ### ART. 11.2.31.
 
-Als het agentschap zich inhoudelijk akkoord verklaart met de ingediende   aanvraag, kan de minister een erfgoedpremie toekennen. Het agentschap deelt die   beslissing per beveiligde zending onverwijld mee aan de   aanvrager.<BR>
+Als het agentschap zich inhoudelijk akkoord verklaart met de ingediende aanvraag, kan de minister een erfgoedpremie toekennen. Het agentschap deelt die beslissing schriftelijk onverwijld mee aan de aanvrager.
 
 ### ART. 11.2.32.
 
@@ -1966,11 +2353,11 @@ Op verzoek van de premienemer kan de toekenning van de erfgoedpremie   worden ui
 
 ### ART. 11.2.33.
 
-&nbsp;De premienemer stelt het agentschap minstens vijftien dagen op   voorhand per beveiligde zending op de hoogte van de start van de werken en van   de vastgelegde uitvoeringstermijn.<BR>
+&nbsp;De premienemer stelt het agentschap minstens vijftien dagen op voorhand schriftelijk op de hoogte van de start van de werken en van de vastgelegde uitvoeringstermijn.
 
 ### ART. 11.2.34.
 
-Na de ontvangst van de toekenning van de erfgoedpremie dient de premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als dat van toepassing is:<br>
+Na de kennisgeving van de toekenning van de erfgoedpremie dient de premienemer een gunningsdossier in bij het agentschap. Dat dossier omvat, als dat van toepassing is:<br>
 1° het bestek en de plannen waarop de inschrijvingen zijn gebaseerd, als de aanvraag, vermeld in artikel 11.2.28, is gewijzigd;<br>
 2° het toewijzingsbesluit, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit, vermeld in afdeling 5;<br>
 3° de stedenbouwkundige vergunning of een omgevingsvergunning voor stedenbouwkundige handelingen en het verslag van de brandweer.
@@ -1987,7 +2374,26 @@ De premienemer kan bij de start van de beheersmaatregelen, werkzaamheden   of di
 
 ### ART. 11.2.37.
 
-<P>Het saldo van de erfgoedpremie kan, op schriftelijk verzoek van de   premienemer, worden uitbetaald nadat hij het agentschap in het bezit heeft   gesteld van:<BR>1° een eindverslag dat, als dat van toepassing is, de volgende   documenten bevat:<BR>a) de werfverslagen;<BR>b) het proces-verbaal van de   oplevering, aangevuld met een evaluatief relaas van de wijze waarop de aannemers   de beheersmaatregelen, werkzaamheden of diensten hebben uitgevoerd;<BR>c) de   resultaten of verslagen van onderzoeken, analyses en controles, uitgevoerd   tijdens en na de werken;<BR>d) een vergelijkend fotografisch verslag;<BR>e) een   opgave van de ontwerper(s), de hoofdaannemer en de onderaannemers met vermelding   van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en   contactgegevens;<BR>f) de richtlijnen voor verder beheer en onderhoud met het   oog op de opgelegde toestandsrapporten;<BR>g) de as-builtattesten, vermeld in   artikel 4.2.7 van de Vlaamse Codex Ruimtelijke Ordening;<BR>h) een beknopte   toelichting bij de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en   de verwerkte materialen die niet in het premiedossier opgenomen waren;<BR>i)   productfiches van de aangewende materialen die niet in het premiedossier vermeld   waren;<BR>2° een afrekening, die volgens post gerelateerd is aan de   kostenraming;<BR>3° betalingsbewijzen die aantonen dat de beheersmaatregelen,   werkzaamheden of diensten die in aanmerking komen voor de erfgoedpremie volledig   betaald zijn.<BR></P>  <P>De minister kan de nadere regels voor de inhoud van de in te dienen   documenten bepalen.<BR></P>  <P>Na controle van de ingediende stukken en de uitgevoerde beheersmaatregelen,   werkzaamheden of diensten door het agentschap wordt de erfgoedpremie, in geval   van akkoord, uitbetaald.<BR></P>  <P>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of de uitgevoerde   beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard, wordt gemeld   waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend   geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking   te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen   tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden   ingediend.<BR></P>
+<p>Het saldo van de erfgoedpremie kan, op schriftelijk verzoek van de premienemer, worden uitbetaald nadat hij het agentschap in het bezit heeft gesteld van:<br>
+1° een eindverslag dat, als dat van toepassing is, de volgende documenten bevat:<br>
+a) de werfverslagen;<br>
+b) het proces-verbaal van de oplevering, aangevuld met een evaluatief relaas van de wijze waarop de aannemers de beheersmaatregelen, werkzaamheden of diensten hebben uitgevoerd;<br>
+c) de resultaten of verslagen van onderzoeken, analyses en controles, uitgevoerd tijdens en na de werken;<br>
+d) een vergelijkend fotografisch verslag;<br>
+e) een opgave van de ontwerper(s), de hoofdaannemer en de onderaannemers met vermelding van de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en contactgegevens;<br>
+f) de richtlijnen voor verder beheer en onderhoud met het oog op de opgelegde toestandsrapporten;<br>
+g) de as-builtattesten, vermeld in artikel 4.2.7 van de Vlaamse Codex Ruimtelijke Ordening;<br>
+h) een beknopte toelichting bij de uitgevoerde beheersmaatregelen, werkzaamheden of diensten en de verwerkte materialen die niet in het premiedossier opgenomen waren;<br>
+i) productfiches van de aangewende materialen die niet in het premiedossier vermeld waren;<br>
+2° een afrekening, die volgens post gerelateerd is aan de kostenraming;<br>
+3° betalingsbewijzen die aantonen dat de beheersmaatregelen, werkzaamheden of diensten die in aanmerking komen voor de erfgoedpremie volledig betaald zijn.<br>
+4° als een aanvullende premie van 10%, als vermeld in artikel 11.2.12, § 1, werd aangevraagd, een uittreksel van een onderhoudslogboek dat betrekking heeft op de periode tussen de aanvraag en de toekenning van de premie.</p>
+
+<p>De minister kan de nadere regels voor de inhoud van de in te dienen documenten bepalen.</p>
+
+<p>Na controle van de ingediende stukken en de uitgevoerde beheersmaatregelen, werkzaamheden of diensten door het agentschap wordt de erfgoedpremie, in geval van akkoord, uitbetaald.</p>
+
+<p>Als de aanvraag tot uitbetaling onvolledig wordt bevonden of de uitgevoerde beheersmaatregelen, werkzaamheden of diensten niet worden aanvaard, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om alsnog voor uitbetaling in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen en kan overeenkomstig het eerste lid opnieuw worden ingediend.</p>
 
 ### ART. 11.2.38.
 
@@ -1999,11 +2405,13 @@ De premienemer kan bij de start van de beheersmaatregelen, werkzaamheden   of di
 
 ### ART. 11.2.40.
 
-&nbsp;Te veel uitgekeerde bedragen moet de premienemer terugstorten binnen   een termijn van dertig dagen, die ingaat op de dag nadat hij daarvan per   beveiligde zending op de hoogte is gebracht door het   agentschap.<BR>
+&nbsp;Te veel uitgekeerde bedragen moet de premienemer terugstorten binnen een termijn van dertig dagen, die ingaat op de dag nadat hij daarvan schriftelijk op de hoogte is gebracht door het agentschap.
 
 ### ART. 11.2.41.
 
-<P>Een premienemer wordt geacht afstand te doen van de erfgoedpremie volgens de   bijzondere procedure als hij niet, overeenkomstig artikel 11.2.37, verzoekt om   de uitbetaling ervan binnen een termijn van vijf jaar, de dag na de datum van   het besluit van de leidend ambtenaar van het agentschap of zijn gemachtigde,   waarbij het bedrag van de erfgoedpremie wordt bevestigd of aangepast.<BR></P>  <P>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de   termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de   premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een   gemotiveerd verzoek aan het agentschap.<BR></P>
+<p>Een premienemer wordt geacht afstand te doen van de erfgoedpremie volgens de bijzondere procedure als hij niet, overeenkomstig artikel 11.2.37, verzoekt om de uitbetaling ervan binnen een termijn van vijf jaar, die ingaat op de dag na de datum van het besluit van de leidend ambtenaar van het agentschap of zijn gemachtigde, waarbij het bedrag van de erfgoedpremie wordt bevestigd of aangepast.</p>
+
+<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een gemotiveerd verzoek aan het agentschap.</p>
 
 ## Afdeling 3 Onderzoekspremie
 
@@ -2011,7 +2419,7 @@ De premienemer kan bij de start van de beheersmaatregelen, werkzaamheden   of di
 
 ### ART. 11.3.1.
 
-Binnen de perken van de daarvoor op de begroting van de Vlaamse   Gemeenschap beschikbare kredieten kan een onderzoekspremie worden toegekend   voor:<BR>1° de opmaak van een beheersplan voor&nbsp;onroerend erfgoed of voor   een beschermd goed, een erfgoedlandschap of een deel ervan dat een   opzichzelfstaand geheel vormt;<BR>2° de uitvoering van een noodzakelijk   voorafgaand onderzoek met betrekking tot een beschermd erfgoed of een   erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel   vormt.<BR>
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan een onderzoekspremie worden toegekend voor de uitvoering van een noodzakelijk voorafgaand onderzoek over een beschermd goed of een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt.
 
 ## Onderafdeling 2 Bedrag op basis waarvan de onderzoekspremie wordt berekend
 
@@ -2034,7 +2442,7 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 ### ART. 11.3.5.
 
 <p>Een premienemer kan in hetzelfde kalenderjaar voor hetzelfde beschermde goed, een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt in aanmerking komen voor hoogstens één onderzoekspremie binnen elk van de volgende categorieën:<br>
-1° de opmaak van een beheersplan;<br>
+1° ...<br>
 2° historisch en historisch-archivalisch, bouwtechnisch, materiaaltechnisch, of stabiliteitstechnisch voorafgaand onderzoek, of archeologisch vooronderzoek;<br>
 3° voorafgaand onderzoek naar de kwaliteit van houtige beplanting met erfgoedwaarde en de groeiplaats ervan, met inbegrip van de analyse van de impact van geplande ingrepen;<br>
 4° bestemmings- en herbestemmingsonderzoek;<br>
@@ -2060,15 +2468,33 @@ De beheersmaatregelen, werkzaamheden of diensten waarvoor een   onderzoekspremie
 
 ### ART. 11.3.8.
 
-<P>De premienemer dient de aanvraag van de onderzoekspremie in bij het   agentschap. Het aanvraagdossier bevat minstens volgende elementen:<BR>1° een   volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt   gesteld op de website van het agentschap;<BR>2° een gedetailleerde omschrijving   van de opdracht, overeenkomstig artikel 6.3.2, 2° ;<BR>3° als de aanvraag   betrekking heeft op de opmaak van een beheersplan, een beknopte omschrijving van   de visie op het beheer;<BR>4° een raming van de kostprijs;<BR>5° een voorstel   van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter   bevordering van de kwaliteit vermeld in afdeling 5;<BR>6° als de aanvraag   betrekking heeft op de opmaak van een beheersplan waarbij verschillende   zakelijkrechthouders of gebruikers betrokken zijn, een voorstel van de manier   waarop participatie en communicatie zullen verlopen.<BR></P>  <P>De minister kan de nadere regels voor de inhoud van het aanvraagdossier   bepalen.<BR></P>
+<p>De premienemer dient de aanvraag van de onderzoekspremie in bij het agentschap. Het aanvraagdossier bevat minstens volgende elementen:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een gedetailleerde omschrijving van de opdracht, overeenkomstig artikel 6.3.2, 2° ;<br>
+3° ...;<br>
+4° een raming van de kostprijs;<br>
+5° een voorstel van toewijzing van de opdracht, dat rekening houdt met de maatregelen ter bevordering van de kwaliteit vermeld in afdeling 5;<br>
+6° ...</p>
+
+<p>De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.</p>
 
 ### ART. 11.3.9.
 
-§ 1. De aanvraag van een onderzoekspremie kan gelijktijdig ingediend   worden met de aanvraag van de toelating voor de beheersmaatregelen,   werkzaamheden, diensten of handelingen waarvoor een onderzoekspremie wordt   aangevraagd. Het agentschap stelt hiervoor op de website een gecombineerd   aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt   ingediend bij het agentschap of, in voorkomend geval, bij de erkende   onroerenderfgoedgemeente.<BR><BR>§ 2. Als de aanvraag wordt ingediend bij het   agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste   lid, verlengd tot negentig dagen en geldt de vastlegging van de   onderzoekspremie, vermeld in artikel 11.3.10, als toelating voor de aangevraagde   beheersmaatregelen, werkzaamheden, diensten of handelingen.<BR><BR>§ 3. Als de   aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, stuurt de   onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door   naar het agentschap binnen een termijn vijf dagen, die ingaat de dag na de   ontvangst ervan.<BR>
+§ 1. De aanvraag van een onderzoekspremie kan gelijktijdig ingediend worden met de aanvraag van de toelating voor de beheersmaatregelen, werkzaamheden, diensten of handelingen waarvoor een onderzoekspremie wordt aangevraagd. Het agentschap stelt hiervoor op de website een gecombineerd aanvraagformulier ter beschikking. Een dergelijke gecombineerde aanvraag wordt ingediend bij het agentschap of, in voorkomend geval, bij de erkende onroerenderfgoedgemeente.<br>
+<br>
+§ 2. Als de aanvraag wordt ingediend bij het agentschap, dan wordt de behandelingstermijn, vermeld in artikel 6.3.5, eerste lid, verlengd tot negentig dagen en geldt de vastlegging van de onderzoekspremie, vermeld in artikel 11.3.10, als toelating voor de aangevraagde beheersmaatregelen, werkzaamheden, diensten of handelingen.<br>
+<br>
+§ 3. Als de aanvraag wordt ingediend bij de erkende onroerenderfgoedgemeente, stuurt de onroerenderfgoedgemeente een kopie van de aanvraag en de bijhorende stukken door naar het agentschap binnen een termijn vijf dagen, die ingaat de dag na de&nbsp;indiening ervan.
 
 ### ART. 11.3.10.
 
-<P>&nbsp;Het agentschap onderzoekt of de aanvraag in aanmerking komt voor een   onderzoekspremie, en neemt een beslissing binnen een termijn van negentig dagen,   die ingaat op de dag na de ontvangst van de aanvraag.<BR></P>  <P>In geval van akkoord wordt de onderzoekspremie vastgelegd, waarna een kopie   van dit besluit per beveiligde zending aan de aanvrager wordt bezorgd.<BR></P>  <P>Als de aanvraag betrekking heeft op de opmaak van een beheersplan deelt het   agentschap in de beslissing ook mee welke bijkomende elementen het beheersplan   zal moeten omvatten, naast de verplicht op te nemen elementen, vermeld in   hoofdstuk 8, afdeling 1.<BR></P>  <P>Als het dossier niet in aanmerking komt voor een onderzoekspremie, onvolledig   wordt bevonden of de waarborgen voor een vakkundige uitvoering onvoldoende   worden geacht, wordt onverwijld per beveiligde zending aan de aanvrager gemeld   waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het   dossier moet worden aangepast om voor goedkeuring in aanmerking te komen. Een   aangepaste aanvraag moet aan die opmerkingen tegemoetkomen, en kan   overeenkomstig artikel 11.3.8 opnieuw worden ingediend.<BR></P>  <P>In geval van een voorafgaand onderzoek brengt de premienemer het agentschap   minstens vijftien dagen voor de aanvang ervan per beveiligde zending op de   hoogte van de start en van de vastgelegde uitvoeringstermijn   ervan.<BR></P>
+<p>Het agentschap onderzoekt of de aanvraag in aanmerking komt voor een onderzoekspremie, en neemt een beslissing binnen een termijn van negentig dagen, die ingaat op de dag na de&nbsp;indiening van de aanvraag.</p>
+
+<p>In geval van akkoord wordt de onderzoekspremie vastgelegd, waarna een kopie van dit besluit schriftelijk aan de aanvrager wordt bezorgd.</p>
+
+<p>Als het dossier niet in aanmerking komt voor een onderzoekspremie, onvolledig wordt bevonden of de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt onverwijld schriftelijk aan de aanvrager gemeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen, en kan overeenkomstig artikel 11.3.8 opnieuw worden ingediend.</p>
+
+<p>In geval van een voorafgaand onderzoek brengt de premienemer het agentschap minstens vijftien dagen voor de aanvang ervan schriftelijk op de hoogte van de start en van de vastgelegde uitvoeringstermijn ervan.</p>
 
 ### ART. 11.3.11.
 
@@ -2078,7 +2504,11 @@ Een premienemer is verplicht bij het onroerend goed in kwestie en in alle   comm
 
 ### ART. 11.3.12.
 
-<P>De premienemer dient het beheersplan of het eindverslag van het voorafgaande   onderzoek na oplevering van de opdracht in bij het agentschap, en houdt daarbij   voor beheersplannen rekening met de desbetreffende voorschriften en   modaliteiten, en verzoekt schriftelijk om de uitbetaling van de   onderzoekspremie. Hij voegt ook de nodige betalingsbewijzen toe die aantonen dat   de werkzaamheden of diensten die in aanmerking komen voor de premie volledig   betaald zijn.<BR></P>  <P>Als het beheersplan wordt goedgekeurd, of als vastgesteld wordt dat het   voorafgaand onderzoek correct is uitgevoerd, gaat het agentschap over tot de   uitbetaling van de onderzoekspremie.<BR></P>  <P>Als de voorgelegde stukken onvolledig of onvoldoende worden bevonden, wordt   gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in   voorkomend geval kan worden aangepast of aangevuld om voor goedkeuring in   aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die   opmerkingen tegemoetkomen, en kan vervolgens opnieuw worden   ingediend.<BR></P>
+<p>De premienemer dient het beheersplan of het eindverslag van het voorafgaande onderzoek na oplevering van de opdracht in bij het agentschap en verzoekt schriftelijk om de uitbetaling van de onderzoekspremie. Hij voegt ook de nodige betalingsbewijzen toe die aantonen dat de werkzaamheden of diensten die in aanmerking komen voor de premie volledig betaald zijn.</p>
+
+<p>Als het beheersplan wordt goedgekeurd, of als vastgesteld wordt dat het voorafgaand onderzoek correct is uitgevoerd, gaat het agentschap over tot de uitbetaling van de onderzoekspremie.</p>
+
+<p>Als de voorgelegde stukken onvolledig of onvoldoende worden bevonden, wordt gemeld waarom de uitbetaling wordt geweigerd, en in welke zin het dossier in voorkomend geval kan worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een nieuwe aanvraag tot uitbetaling moet aan die opmerkingen tegemoetkomen, en kan vervolgens opnieuw worden ingediend.</p>
 
 ### ART. 11.3.13.
 
@@ -2086,17 +2516,19 @@ Bij de uitbetaling van de onderzoekspremie wordt alleen rekening gehouden   met 
 
 ### ART. 11.3.14.
 
-Te veel uitgekeerde bedragen moet de premienemer terugstorten binnen een   termijn van dertig dagen, die ingaat op de dag nadat hij daarvan per beveiligde   zending op de hoogte is gebracht door het agentschap.<BR>
+Te veel uitgekeerde bedragen moet de premienemer terugstorten binnen een termijn van dertig dagen, die ingaat op de dag nadat hij daarvan schriftelijk op de hoogte is gebracht door het agentschap.
 
 ### ART. 11.3.15.
 
-<P>Een premienemer wordt geacht afstand te doen van de onderzoekspremie als hij   niet, overeenkomstig artikel 11.3.12, verzoekt om de uitbetaling ervan binnen   twee jaar vanaf de dag die volgt op de beveiligde zending waarmee het agentschap   het voorstel tot opmaak van een beheersplan of tot uitvoering van voorafgaand   onderzoek goedkeurt.<BR></P>  <P>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de   termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de   premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een   gemotiveerd schriftelijk verzoek aan het agentschap.<BR></P>
+<p>Een premienemer wordt geacht afstand te doen van de onderzoekspremie als hij niet, overeenkomstig artikel 11.3.12, verzoekt om de uitbetaling ervan binnen twee jaar vanaf de dag die volgt op&nbsp;de kennisgeving van de beslissing waarmee het agentschap de uitvoering van voorafgaand onderzoek goedkeurt.</p>
+
+<p>In uitzonderlijke omstandigheden en na uitdrukkelijke toestemming kan de termijn, vermeld in het eerste lid, eenmalig verlengd worden. Daarvoor richt de premienemer vóór het verstrijken van de termijn, vermeld in het eerste lid, een gemotiveerd schriftelijk verzoek aan het agentschap.</p>
 
 ## [Onderafdeling 8 Ontsluiting van de onderzoeksresultaten (verv. BVR 14 december 2018, art. 135, I: 1 januari 2019)]
 
 ### ART. 11.3.16.
 
-Zowel de premienemer als het agentschap zorgt voor de ontsluiting van het   beheersplan of het eindverslag van het voorafgaand onderzoek.<BR>
+Het agentschap kan de eindverslagen van een onderzoek als vermeld in artikel 11.3.5, ontsluiten.
 
 ## Afdeling 4 Meerjarenpremieovereenkomsten voor grote of langdurige werkzaamheden aan of in beschermde goederen of erfgoedlandschappen
 
@@ -2140,11 +2572,13 @@ De financiële bijdrage van het Vlaamse Gewest in het kader van een   meerjarenp
 
 ### ART. 11.4.8.
 
-<P>Voor de premienemer start met de beheersmaatregelen, werkzaamheden of   diensten die aan een bepaalde fase verbonden zijn, dient hij een dossier in   overeenkomstig de voorwaarden, vermeld in de   meerjarenpremieovereenkomst.<BR></P>  <P>Als het dossier onvolledig wordt bevonden of als de waarborgen voor een   vakkundige uitvoering onvoldoende worden geacht, wordt per beveiligde zending   gemeld in welke zin het dossier moet worden aangepast of aangevuld om voor   goedkeuring in aanmerking te komen. Een nieuwe aanvraag moet aan die opmerkingen   tegemoetkomen.<BR></P>
+<p>Voor de premienemer start met de beheersmaatregelen, werkzaamheden of diensten die aan een bepaalde fase verbonden zijn, dient hij een dossier in overeenkomstig de voorwaarden, vermeld in de meerjarenpremieovereenkomst.</p>
+
+<p>Als het dossier onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt schriftelijk gemeld in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een nieuwe aanvraag moet aan die opmerkingen tegemoetkomen.</p>
 
 ### ART. 11.4.9.
 
-Als het agentschap akkoord gaat met het ingediende dossier, wordt dat per   beveiligde zending meegedeeld aan de premienemer. Het akkoord geldt als   toelating van het agentschap voor de werken.<BR>
+Als het agentschap akkoord gaat met het ingediende dossier, wordt dat schriftelijk meegedeeld aan de premienemer. Het akkoord geldt als toelating van het agentschap voor de werken.
 
 ### ART. 11.4.10.
 
@@ -2154,7 +2588,7 @@ De premienemer brengt het agentschap minstens vijftien dagen voor de   aanvang v
 
 ### ART. 11.4.11.
 
-De bijdrage van het Vlaamse Gewest voor een bepaalde fase kan als   voorschot aan de premienemer worden uitbetaald. De premienemer dient daarvoor in   de loop van het desbetreffende jaar en uiterlijk 1 september een schriftelijk   verzoek tot uitbetaling van de middelen die voor dat jaar vastgelegd zijn bij   het agentschap. Na de ontvangst van dat verzoek, en na het akkoord van het   agentschap, zal de bijdrage van het Vlaamse Gewest die voor de desbetreffende   fase is vastgelegd, integraal als voorschot uitbetaald worden.<BR>
+De bijdrage van het Vlaamse Gewest voor een bepaalde fase kan als voorschot aan de premienemer worden uitbetaald. De premienemer dient daarvoor voor 1 september van het desbetreffende jaar een schriftelijk verzoek tot uitbetaling van de middelen die voor dat jaar vastgelegd zijn bij het agentschap. Na de ontvangst van dat verzoek, en na het akkoord van het agentschap, zal de bijdrage van het Vlaamse Gewest die voor de desbetreffende fase is vastgelegd, integraal als voorschot uitbetaald worden.
 
 ### ART. 11.4.12.
 
@@ -2174,7 +2608,7 @@ De samenstelling van het einddossier wordt omschreven in de   meerjarenpremieove
 
 <p>De uiteindelijke bijdrage van het Vlaamse Gewest kan niet hoger liggen dan het bedrag dat bij de ondertekening van de meerjarenpremieovereenkomst werd overeengekomen.</p>
 
-<p>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit artikel, wordt een afrekening per beveiligde zending ter kennis gebracht van de premienemer.</p>
+<p>Als de bijdrage van het Vlaamse Gewest wordt aangepast overeenkomstig dit artikel, wordt een afrekening&nbsp;schriftelijk ter kennis gebracht van de premienemer.</p>
 
 ## Onderafdeling 8 Bijkomende erfgoedpremie
 
@@ -2204,7 +2638,7 @@ In de overeenkomst, die gesloten is tussen de premienemer en de uitvoerder   van
 
 ### ART. 11.6.1.
 
-&nbsp;Een premienemer die afwijkt van de voorwaarden van dit hoofdstuk   verliest, voor het gecontesteerde deel van de opdracht, het recht op de premie   die aan hem is toegekend, en is in voorkomend geval verplicht voor dat deel van   de opdracht alle reeds uitgekeerde bedragen, verhoogd met de wettelijke intrest,   terug te betalen. Het agentschap brengt de premienemer daarvan per beveiligde   zending op de hoogte.<BR>
+Een premienemer die afwijkt van de voorwaarden van dit hoofdstuk verliest, voor het gecontesteerde deel van de opdracht, het recht op de premie die aan hem is toegekend, en is in voorkomend geval verplicht voor dat deel van de opdracht alle reeds uitgekeerde bedragen, verhoogd met de wettelijke intrest, terug te betalen. Het agentschap brengt de premienemer daarvan schriftelijk op de hoogte.
 
 ### ART. 11.6.2.
 
@@ -2304,7 +2738,11 @@ De minister kan overeenkomstig de bepalingen van dit besluit en binnen de   perk
 
 ### ART. 11.8.8.
 
-De aanvraag is ontvankelijk als ze tijdig ingediend is en volledig is. In   geval van onvolledigheid brengt het agentschap de aanvrager met een beveiligde   zending op de hoogte van de ontbrekende elementen binnen een termijn van dertig   dagen, die ingaat op de dag na de ontvangst van de aanvraag. Als de aanvrager   het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de   dag na de ontvangst van het verzoek tot aanvulling, wordt de aanvraag   onontvankelijk verklaard. Het agentschap deelt die beslissing met een beveiligde   zending mee aan de aanvrager.
+De aanvraag is ontvankelijk als ze tijdig ingediend is en volledig is.<br>
+<br>
+In geval van onvolledigheid brengt het agentschap de aanvrager schriftelijk op de hoogte van de ontbrekende elementen binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de aanvraag.<br>
+<br>
+Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de aanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.
 
 ### ART. 11.8.9.
 
@@ -2312,11 +2750,24 @@ Vanaf het tweede werkingsjaar, brengt het agentschap na beoordeling van   het ja
 
 ### ART. 11.8.7.
 
-Een erkend archeologisch solidariteitsfonds kan daarvoor bij het   agentschap uiterlijk op 1 april van elk jaar met een beveiligde zending een   aanvraag indienen.<BR><BR>De aanvraag van een toelage bevat minstens de volgende   elementen:<BR>1° een identificatie van het erkende archeologisch   solidariteitsfonds;<BR>2° een lijst van de leden, aangesloten bij het   archeologisch solidariteitsfonds op 31 december van het jaar dat voorafgaat aan   het jaar waarin de aanvraag wordt ingediend;<BR>3° een begroting;<BR>4° vanaf   het tweede werkingsjaar van het erkend archeologisch solidariteitsfonds, een   jaarrapport van de werking van het archeologisch solidariteitsfonds van het   voorafgaande jaar.<BR><BR>Het jaarrapport, vermeld in het tweede lid, 4°, bevat   minstens de volgende elementen:<BR>1° een inhoudelijk verslag over de werking   van het erkend archeologisch solidariteitsfonds met inbegrip van een overzicht   van de gerealiseerde activiteiten van het fonds voor de begeleiding van de leden   bij de uitvoering van hoofdstuk 5 van het Onroerenderfgoeddecreet van 12 juli   2013;<BR>2° een financieel verslag dat minstens een overzicht geeft van de   ontvangen ledenbijdragen, de uitgekeerde vergoedingen aan de leden en de werking   van het archeologisch solidariteitsfonds;<BR>3° een verslag van de wijze waarop   het archeologisch solidariteitsfonds beantwoordt aan de bepalingen in de   overeenkomst, vermeld in artikel 11.8.1 van dit besluit.
+Een erkend archeologisch solidariteitsfonds kan daarvoor bij het agentschap uiterlijk op 1 april van elk jaar&nbsp;schriftelijk een aanvraag indienen.<br>
+<br>
+De aanvraag van een toelage bevat minstens de volgende elementen:<br>
+1° een identificatie van het erkende archeologisch solidariteitsfonds;<br>
+2° een lijst van de leden, aangesloten bij het archeologisch solidariteitsfonds op 31 december van het jaar dat voorafgaat aan het jaar waarin de aanvraag wordt ingediend;<br>
+3° een begroting;<br>
+4° vanaf het tweede werkingsjaar van het erkend archeologisch solidariteitsfonds, een jaarrapport van de werking van het archeologisch solidariteitsfonds van het voorafgaande jaar.<br>
+<br>
+Het jaarrapport, vermeld in het tweede lid, 4°, bevat minstens de volgende elementen:<br>
+1° een inhoudelijk verslag over de werking van het erkend archeologisch solidariteitsfonds met inbegrip van een overzicht van de gerealiseerde activiteiten van het fonds voor de begeleiding van de leden bij de uitvoering van hoofdstuk 5 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een financieel verslag dat minstens een overzicht geeft van de ontvangen ledenbijdragen, de uitgekeerde vergoedingen aan de leden en de werking van het archeologisch solidariteitsfonds;<br>
+3° een verslag van de wijze waarop het archeologisch solidariteitsfonds beantwoordt aan de bepalingen in de overeenkomst, vermeld in artikel 11.8.1 van dit besluit.
 
 ### ART. 11.8.10.
 
-Binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst   van de ontvankelijke aanvraag van een toelage, beslist de minister over de   toekenning en het bedrag van de toelage. Als er geen beslissing is genomen   binnen die termijn, wordt de aanvraag geacht te zijn geweigerd.<BR><BR>Een   afschrift van de beslissing wordt met een beveiligde zending bezorgd aan het   erkende archeologische solidariteitsfonds.
+Binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van de ontvankelijke aanvraag van een toelage, beslist de minister over de toekenning en het bedrag van de toelage. Als er geen beslissing is genomen binnen die termijn, wordt de aanvraag geacht te zijn geweigerd.<br>
+<br>
+Een afschrift van de beslissing wordt schriftelijk bezorgd aan het erkende archeologische solidariteitsfonds.
 
 ### ART. 11.8.11.
 
@@ -2324,7 +2775,58 @@ De toelage kan onder andere aangewend worden voor de werking van het   fonds.<BR
 
 ### ART. 11.8.12.
 
-De toelage wordt jaarlijks beschikbaar gesteld in de vorm van het volgende   voorschot en saldo:<BR>1° een voorschot van 70% van het bedrag wordt uitbetaald   uiterlijk op 1 augustus van het lopende werkingsjaar;<BR>2° een saldo van het   jaarlijkse bedrag wordt uitbetaald na de beoordeling van het jaarrapport,   vermeld in artikel 11.8.7, derde lid.<BR><BR>Het agentschap brengt het erkende   archeologische solidariteitsfonds met een beveiligde zending op de hoogte van de   resultaten van de beoordeling. Als er bij de beoordeling ernstige tekortkomingen   worden vastgesteld, wordt het saldo niet of gedeeltelijk   uitbetaald.
+De toelage wordt jaarlijks beschikbaar gesteld in de vorm van het volgende voorschot en saldo:<br>
+1° een voorschot van 70% van het bedrag wordt uitbetaald uiterlijk op 1 augustus van het lopende werkingsjaar;<br>
+2° een saldo van het jaarlijkse bedrag wordt uitbetaald na de beoordeling van het jaarrapport, vermeld in artikel 11.8.7, derde lid.<br>
+<br>
+Het agentschap brengt het erkende archeologische solidariteitsfonds schriftelijk op de hoogte van de resultaten van de beoordeling. Als er bij de beoordeling ernstige tekortkomingen worden vastgesteld, wordt het saldo niet of gedeeltelijk uitbetaald.
+
+## [Afdeling 9 Vermindering personenbelasting (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+
+## [Onderafdeling 1. Voorwaarden waaraan beheersmaatregelen, werkzaamheden en diensten moeten voldoen om in aanmerking te komen voor de belastingvermindering (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+
+### ART 11.9.1.
+
+De volgende uitgaven komen in aanmerking voor de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992:<br>
+1° de uitgaven voor beheersmaatregelen, werken of diensten die opgenomen zijn in een door de minister vastgestelde exhaustieve lijst met werkzaamheden;<br>
+2° de uitgaven voor beheersmaatregelen, werken of diensten die vermeld zijn in een goedgekeurd en op het ogenblik van de uitgaven geldig beheersplan;<br>
+3° de uitgaven voor noodzakelijk voorafgaand onderzoek in het kader van de beheersmaatregelen, werken of diensten, vermeld in punt 1° en 2°.<br>
+<br>
+De beheersmaatregelen, werkzaamheden of diensten, vermeld in het eerste lid, moeten conform de regelgeving over het onroerend erfgoed zijn uitgevoerd.
+
+## [Onderafdeling 2. Aanvragen en verlenen van het attest voor de belastingvermindering (ing. BVR 23 november 2018, art. 3, I: aanslagjaar 2019)]
+
+### ART 11.9.2.
+
+De belastingplichtige dient de attestaanvraag voor de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992, in bij het agentschap.<br>
+<br>
+Het aanvraagdossier bevat:<br>
+1° een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap;<br>
+2° een beschrijving van de uitgevoerde beheersmaatregelen, werken of diensten of van het voorafgaande onderzoek in het kader hiervan;<br>
+3° betalingsbewijzen die aantonen dat de uitgaven volledig betaald zijn;<br>
+4° een verklaring van de belastingplichtige dat de uitgaven, vermeld in artikel 11.9.1, voldoen aan de voorwaarden voor de toepassing van de belastingvermindering, vermeld in artikel 14536 van het Wetboek van de inkomstenbelastingen 1992.<br>
+<br>
+De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.
+
+### ART 11.9.3.
+
+De belastingplichtige dient de attestaanvraag in bij het agentschap vóór 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan.
+
+### ART 11.9.4.
+
+Het agentschap verleent per belastingplichtige één attest per jaar waarin uitgaven zijn gedaan.<br>
+<br>
+Als de belastingplichtige al een attest heeft gekregen, kan hij, in geval van gewijzigde omstandigheden, een wijziging van attest aanvragen bij het agentschap vóór 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan. Het gewijzigde attest vervangt het eerder verleende attest.
+
+### ART 11.9.5.
+
+Als niet voldaan is aan de voorwaarden voor het verkrijgen van een attest, ontvangt de aanvrager een weigering van het agentschap en, in voorkomend geval, opmerkingen over de wijze waarop de aanvraag moet worden aangepast om een attest te verkrijgen. Een aangepaste aanvraag komt tegemoet aan die opmerkingen en kan conform artikel 11.9.2 opnieuw worden ingediend.<br>
+<br>
+Als de aanvrager de weigering ontvangt na 15 januari van het jaar dat volgt op het jaar waarin de uitgaven, vermeld in artikel 11.9.1, zijn gedaan, wordt de nieuwe aanvraag opnieuw ingediend binnen vijftien dagen na de dag van de ontvangst van de weigering.
+
+### ART 11.9.6.
+
+Het agentschap bezorgt het attest aan de aanvrager.
 
 ## [Afdeling 10. Premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
@@ -2364,7 +2866,17 @@ De toelage wordt jaarlijks beschikbaar gesteld in de vorm van het volgende   voo
 
 ### ART. 12.1.2.
 
-<P>§ 1. Als zaken op grond van de bevoegdheid, vermeld in artikel 11.5.13 van   het Onroerenderfgoeddecreet van 12 juli 2013, worden meegevoerd en opgeslagen,   laat, al naar gelang het geval, de gerechtsdeurwaarder of de inspecteur   Onroerend Erfgoed daarvan een proces-verbaal opmaken, waarvan een afschrift   wordt verstrekt aan degene die de zaken onder zijn beheer had en, als dat een   andere persoon is en als die bekend is, aan de rechthebbende.<BR></P>  <P>§ 2. De inspecteur Onroerend Erfgoed draagt namens het Vlaamse Gewest zorg   voor de bewaring van de opgeslagen zaken en geeft die zaken terug aan de   rechthebbende. Hij is bevoegd de afgifte op te schorten tot de kosten, vermeld   in artikel 11.5.11 van het Onroerenderfgoeddecreet van 12 juli 2013, te   vermeerderen met de kosten van bewaring, zijn voldaan. Als geen van de   rechthebbenden als overtreder kan worden beschouwd, mag de afgifte evenwel   alleen afhankelijk worden gesteld van de betaling van de kosten van   bewaring.<BR></P>  <P>§ 3. Als de meegevoerde en opgeslagen zaken niet binnen drie maanden na de   meevoering worden opgeëist door de rechthebbende, is de inspecteur Onroerend   Erfgoed gerechtigd ze te verkopen of, als verkoop naar zijn oordeel niet   mogelijk is, de zaak om niet aan een derde in eigendom over te dragen of te   laten vernietigen. In de mate waarin de meegevoerde zaken goederen met een   erfgoedwaarde betreffen die in situ moeten worden bewaard, wordt dat naar   aanleiding van de eigendomsoverdracht bedongen.<BR></P>  <P>De inspecteur Onroerend Erfgoed heeft gelijke bevoegdheid, zelfs vóór het   verstrijken van de termijn van drie maanden, zodra de kosten van bewaring,   vermeerderd met de kosten die geraamd zijn voor de verkoop, de   eigendomsoverdracht om niet of de vernietiging, in verhouding tot de waarde van   de zaak onevenredig hoog worden.<BR></P>  <P>Verkoop, eigendomsoverdracht of vernietiging vindt evenwel niet plaats binnen   twee weken na de verstrekking van het afschrift, vermeld in paragraaf 1, tenzij   het gevaarlijke stoffen of eerder aan bederf onderhevige stoffen   betreft.<BR></P>  <P>§ 4. Gedurende één jaar na het tijdstip van verkoop heeft degene die op dat   tijdstip eigenaar was, recht op de opbrengst van de zaak onder aftrek van de   verschuldigde kosten, als vermeld in paragraaf 2. Na het verstrijken van die   termijn vervalt het eventuele batige saldo aan het Vlaamse   Gewest.<BR></P>
+<p>§ 1. Als zaken op grond van de bevoegdheid, vermeld in artikel 11.5.13 van het Onroerenderfgoeddecreet van 12 juli 2013, worden meegevoerd en opgeslagen, laat, al naar gelang het geval, de gerechtsdeurwaarder of de inspecteur Onroerend Erfgoed daarvan een proces-verbaal opmaken, waarvan een afschrift wordt verstrekt aan degene die de zaken onder zijn beheer had en, als dat een andere persoon is en als die bekend is, aan de rechthebbende.</p>
+
+<p>§ 2. De inspecteur Onroerend Erfgoed draagt namens het Vlaamse Gewest zorg voor de bewaring van de opgeslagen zaken en geeft die zaken terug aan de rechthebbende. Hij is bevoegd de afgifte op te schorten tot de kosten, vermeld in artikel 11.5.11 van het Onroerenderfgoeddecreet van 12 juli 2013, te vermeerderen met de kosten van bewaring, zijn voldaan. Als geen van de rechthebbenden als overtreder kan worden beschouwd, mag de afgifte evenwel alleen afhankelijk worden gesteld van de betaling van de kosten van bewaring.</p>
+
+<p>§ 3. Als de meegevoerde en opgeslagen zaken niet binnen een termijn van negentig dagen, die ingaat op de dag na de meevoering worden opgeëist door de rechthebbende, is de inspecteur Onroerend Erfgoed gerechtigd ze te verkopen of, als verkoop naar zijn oordeel niet mogelijk is, de zaak om niet aan een derde in eigendom over te dragen of te laten vernietigen. In de mate waarin de meegevoerde zaken goederen met een erfgoedwaarde betreffen die in situ moeten worden bewaard, wordt dat naar aanleiding van de eigendomsoverdracht bedongen.</p>
+
+<p>De inspecteur Onroerend Erfgoed heeft gelijke bevoegdheid, zelfs vóór het verstrijken van de termijn van negentig dagen, zodra de kosten van bewaring, vermeerderd met de kosten die geraamd zijn voor de verkoop, de eigendomsoverdracht om niet of de vernietiging, in verhouding tot de waarde van de zaak onevenredig hoog worden.</p>
+
+<p>Verkoop, eigendomsoverdracht of vernietiging vindt evenwel niet plaats binnen twee weken na de verstrekking van het afschrift, vermeld in paragraaf 1, tenzij het gevaarlijke stoffen of eerder aan bederf onderhevige stoffen betreft.</p>
+
+<p>§ 4. Gedurende één jaar na het tijdstip van verkoop heeft degene die op dat tijdstip eigenaar was, recht op de opbrengst van de zaak onder aftrek van de verschuldigde kosten, als vermeld in paragraaf 2. Na het verstrijken van die termijn vervalt het eventuele batige saldo aan het Vlaamse Gewest.</p>
 
 ### ART. 12.1.3.
 
