@@ -42,8 +42,8 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
-2° decreet van 27 april 2007 : het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie;<br>
+1° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018;<br>
+2° ...;<br>
 3° Informatie Vlaanderen : het agentschap, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
 4° minister : de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn.<br>
 &nbsp;
@@ -52,7 +52,7 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART 2.
 
-Als ingevolge artikel 7, eerste lid, van het decreet van 27 april 2007 een vergoeding wordt gevraagd voor fysieke terbeschikkingstelling van bestuursdocumenten voor hergebruik, daarin inbegrepen de terbeschikkingstelling van elektronische bestuursdocumenten op een materiële drager, blijft die vergoeding beperkt tot een of meer van de volgende marginale kosten :<br>
+Als ingevolge artikel II.59, eerste lid, van het bestuursdecreet van 7 december 2018 een vergoeding wordt gevraagd voor fysieke terbeschikkingstelling van bestuursdocumenten voor hergebruik, daarin inbegrepen de terbeschikkingstelling van elektronische bestuursdocumenten op een materiële drager, blijft die vergoeding beperkt tot een of meer van de volgende marginale kosten :<br>
 1° de infrastructuur : de kosten van de ontwikkeling, het softwareonderhoud, het hardwareonderhoud en de connectiviteit, beperkt tot wat noodzakelijk is om de bestuursdocumenten voor het hergebruik beschikbaar te stellen;<br>
 2° kopiëren : de kosten van de productie en de terbeschikkingstelling van een extra exemplaar van de bestuursdocumenten, inclusief de kosten van de materiële drager;<br>
 3° de behandeling : het verpakkingsmateriaal en de voorbereiding van de terbeschikkingstelling;<br>
@@ -67,7 +67,7 @@ In geval van terbeschikkingstelling van bestuursdocumenten voor hergebruik in ee
 
 ### ART 3.
 
-De totale vergoeding, vermeld in artikel 7, derde lid, van het decreet van 27 april 2007, wordt berekend op basis van de volgende criteria :<br>
+De totale vergoeding, vermeld in artikel II.59, derde lid, van het bestuursdecreet van 7 december 2018, wordt berekend op basis van de volgende criteria :<br>
 1° de kosten vallen onder een of meer van de volgende categorieën :<br>
 a) kosten in verband met het creëren van bestuursdocumenten :<br>
 1) het produceren : het genereren van bestuursdocumenten en metagegevens, de kwaliteitscontrole en het omzetten van de bestuursdocumenten naar een digitaal formaat;<br>
@@ -88,7 +88,7 @@ c) overheadkosten als die kosten een aantoonbaar rechtstreeks verband houden met
 
 ### ART 4.
 
-In het geval, vermeld in artikel 7, vierde lid, van het decreet van 27 april 2007, kunnen, met behoud van de toepassing van de categorieën, vermeld in artikel 3, 1°, ook de volgende categorieën van kosten in aanmerking komen :<br>
+In het geval, vermeld in artikel II.59, vierde lid, van het bestuursdecreet van 7 december 2018, kunnen, met behoud van de toepassing van de categorieën, vermeld in artikel 3, 1°, ook de volgende categorieën van kosten in aanmerking komen :<br>
 1° kosten voor het archiefbeheer : de kosten voor het bewaren van bestuursdocumenten;<br>
 2° kosten in verband met de rechtenvereffening : de tijd en de mankracht die wordt ingezet voor het identificeren van derden bij wie rechten berusten en het verkrijgen van de toestemming van die rechthebbenden.<br>
 <br>
@@ -97,9 +97,9 @@ Die kosten mogen door de instantie worden vermeerderd met een redelijk rendement
 
 ### ART 5.
 
-Het redelijke rendement op de investering, vermeld in artikel 7, derde lid, van het decreet van 27 april 2007, ligt niet meer dan vijf procent boven de referentie-interestvoet, vermeld in artikel 2, 4, van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties.<br>
+Het redelijke rendement op de investering, vermeld in artikel II.59, derde lid, van het bestuursdecreet van 7 december 2018, ligt niet meer dan vijf procent boven de referentie-interestvoet, vermeld in artikel 2, 4, van de wet van 2 augustus 2002 betreffende de bestrijding van de betalingsachterstand bij handelstransacties.<br>
 <br>
-Bij het berekenen van een redelijk rendement op de investering, vermeld in artikel 7, vierde lid, van het decreet van 27 april 2007, kunnen de bibliotheken, met inbegrip van bibliotheken van instellingen voor hoger onderwijs, musea en archieven, rekening houden met tarieven die de particuliere sector in rekening brengt voor het hergebruik van identieke of soortgelijke documenten.<br>
+Bij het berekenen van een redelijk rendement op de investering, vermeld in artikel II.59, vierde lid, van het voormelde decreet, kunnen de bibliotheken, met inbegrip van bibliotheken van instellingen voor hoger onderwijs, musea en archieven, rekening houden met tarieven die de particuliere sector in rekening brengt voor het hergebruik van identieke of soortgelijke documenten.<br>
 &nbsp;
 
 ### ART 6.
@@ -111,7 +111,7 @@ De minister kan, als dat nodig is, de berekening van de vergoeding, vermeld in a
 
 ### ART 7.
 
-In geval van hergebruik als vermeld in artikel 3, derde lid, van het decreet van 27 april 2007, hanteert de instantie een van de volgende modellicenties :<br>
+In geval van hergebruik als vermeld in artikel II.55, derde lid, van het bestuursdecreet van 7 december 2018, hanteert de instantie een van de volgende modellicenties :<br>
 1° de CC0-verklaring, opgenomen in bijlage 1, die bij dit besluit is gevoegd;<br>
 2° de modellicentie voor gratis hergebruik, opgenomen in bijlage 2, die bij dit besluit is gevoegd;<br>
 3° de modellicentie voor hergebruik tegen vergoeding, opgenomen in bijlage 3, die bij dit besluit is gevoegd.<br>
@@ -131,33 +131,33 @@ Na een wijziging van de modellicenties kunnen bestaande licentienemers de instan
 
 ### ART 10.
 
-De Vlaamse administratie publiceert de overzichtslijsten met de relevante metagegevens, vermeld in artikel 9 van het decreet van 27 april 2007, met betrekking tot de bestuursdocumenten die in een open en machinaal leesbaar formaat via elektronische weg voor hergebruik beschikbaar zijn, op de portaalsite overeenkomstig de richtlijnen die op de website van Informatie Vlaanderen worden gepubliceerd.<br>
+De overheidsinstanties, vermeld in art. II.53, § 1, van het bestuursdecreet van 7 december 2018, publiceren overzichtslijsten met de relevante metagegevens, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, met betrekking tot de bestuursdocumenten die in een open en machinaal leesbaar formaat via elektronische weg voor hergebruik beschikbaar zijn, op de portaalsite overeenkomstig de richtlijnen die op de website van Informatie Vlaanderen worden gepubliceerd.<br>
 <br>
 Die portaalsite staat ook ter beschikking van de andere instanties die de overzichtslijsten met de relevante metagegevens met betrekking tot hun bestuursdocumenten in een open en machinaal leesbaar formaat online toegankelijk willen maken.<br>
 &nbsp;
 
 ### ART 11.
 
-De prioriteiten met betrekking tot de belangrijkste bestuursdocumenten, vermeld in artikel 9 van het decreet van 27 april 2007, zijn bestuursdocumenten die betrekking hebben op geografie, milieu, mobiliteit, economie en statistiek. De minister kan, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de prioriteitenlijst van de belangrijkste documenten aanpassen.<br>
+De prioriteiten met betrekking tot de belangrijkste bestuursdocumenten, vermeld in artikel II.62 van het bestuursdecreet van 7 december 2018, zijn bestuursdocumenten die betrekking hebben op geografie, milieu, mobiliteit, economie en statistiek. De minister kan, na advies van het stuurorgaan Vlaams Informatie- en ICT-beleid, de prioriteitenlijst van de belangrijkste documenten aanpassen.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Evaluatie
 
 ### ART 12.
 
-Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert tweejaarlijks de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder die informatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel 7 van het decreet van 27 april 2007 met betrekking tot vergoedingen die de marginale kosten overstijgen. Dat evaluatieverslag wordt aan de Vlaamse Regering bezorgd.<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert driejaarlijks de beschikbaarheid van overheidsinformatie voor hergebruik, de voorwaarden waaronder die informatie beschikbaar wordt gesteld, de praktijk op het vlak van rechtsmiddelen en in het bijzonder de toepassing van artikel II.59 van het bestuursdecreet van 7 december 2018 met betrekking tot vergoedingen die de marginale kosten overstijgen. Dat evaluatieverslag wordt aan de Vlaamse Regering bezorgd.<br>
 &nbsp;
 
 ### ART 13.
 
-Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert tweejaarlijks in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, en met betrekking tot welke belangrijkste documenten als vermeld in artikel 11, de overzichtslijsten met de relevante metadata op de portaalsite worden gepubliceerd.<br>
+Het stuurorgaan Vlaams Informatie- en ICT-beleid evalueert&nbsp;in welke mate de instanties gebruikmaken van de portaalsite, vermeld in artikel 10, en met betrekking tot welke belangrijkste documenten als vermeld in artikel 11, de overzichtslijsten met de relevante metadata op de portaalsite worden gepubliceerd.<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Uitwisseling van bestuursdocumenten tussen instanties onderling
 
 ### ART 14.
 
-Uiterlijk binnen twintig werkdagen na ontvangst van het verzoek tot levering van bestuursdocumenten, vermeld in artikel 7/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, bezorgt de instantie die de gevraagde bestuursdocumenten in kwestie bezit, de gevraagde bestuursdocumenten aan de vragende instantie.<br>
+Uiterlijk binnen twintig werkdagen na ontvangst van het verzoek tot levering van bestuursdocumenten, vermeld in artikel III.72 van het bestuursdecreet van 7 december 2018, bezorgt de instantie die de gevraagde bestuursdocumenten in kwestie bezit, de gevraagde bestuursdocumenten aan de vragende instantie.<br>
 <br>
 Als de bestuursdocumenten niet binnen de leveringstermijn, vermeld in het eerste lid, kunnen worden bezorgd, wordt de vragende instantie daarvan op de hoogte gebracht en wordt de reden van de vertraging meegedeeld. Een andere leveringstermijn wordt in dat geval in onderlinge overeenkomst bepaald.<br>
 <br>
@@ -256,11 +256,11 @@ Bijlage 1. De CC0-verklaring, vermeld in artikel 7, 1°<br>
 &nbsp;<br>
 De CC0-verklaring<br>
 &nbsp;<br>
-De instantie mag overeenkomstig de voorwaarden van artikel 7 gebruikmaken van de Nederlandstalige tekst van de CC0-verklaring zoals die gepubliceerd is op de website van Creative Commons. Hieronder vindt u een samenvatting van de verklaring. De volledige en juridisch afdwingbare versie van de licentie is de versie CC0 1.0 Universeel die gepubliceerd is op de voornoemde website.<br>
+De overheidsinstantie mag overeenkomstig de voorwaarden van artikel 7 gebruikmaken van de Nederlandstalige tekst van de CC0-verklaring zoals die gepubliceerd is op de website van Creative Commons. Hieronder vindt u een samenvatting van de verklaring. De volledige en juridisch afdwingbare versie van de licentie is de versie CC0 1.0 Universeel die gepubliceerd is op de voornoemde website.<br>
 &nbsp;<br>
-“De instantie die een werk onder deze verklaring plaatst, heeft het werk in het publiek domein geplaatst door het wereldwijd afstand doen van al haar rechten op het werk onder het auteursrecht, met inbegrip van alle gerelateerde en naburige rechten, voor zover dat is toegestaan door de wet. U kunt het werk kopiëren, wijzigen, en openbaar maken, ook voor commerciële doeleinden, zonder dat u daarvoor toestemming moet vragen.<br>
+“De overheidsinstantie die een werk onder deze verklaring plaatst, heeft het werk in het publiek domein geplaatst door het wereldwijd afstand doen van al haar rechten op het werk onder het auteursrecht, met inbegrip van alle gerelateerde en naburige rechten, voor zover dat is toegestaan door de wet. U kunt het werk kopiëren, wijzigen, en openbaar maken, ook voor commerciële doeleinden, zonder dat u daarvoor toestemming moet vragen.<br>
 De octrooirechten of merkenrechten van enig persoon, of de rechten van andere personen op het werk of het gebruik ervan, zoals het recht op afbeelding of privacy worden op geen enkele manier aangetast door de CC0-verklaring.<br>
-Tenzij expliciet is aangegeven, geeft de instantie die dat werk onder een CC0-verklaring plaatst, geen enkele garantie over het werk, en wijst ze de aansprakelijkheid af voor elke schade door het hergebruik van het werk, voor zover dat rechtsgeldig is onder de toepasselijke wetgeving.<br>
+Tenzij expliciet is aangegeven, geeft de overheidsinstantie die dat werk onder een CC0-verklaring plaatst, geen enkele garantie over het werk, en wijst ze de aansprakelijkheid af voor elke schade door het hergebruik van het werk, voor zover dat rechtsgeldig is onder de toepasselijke wetgeving.<br>
 Als u het werk gebruikt of citeert, mag u niet de indruk wekken dat het werk door de rechthebbende wordt erkend of goedgekeurd.”
 
 ## BIJLAGE 2
@@ -275,13 +275,13 @@ Deze licentie omvat de voorwaarden voor het hergebruik van bestuursdocumenten di
 &nbsp;<br>
 Artikel 1. Interpretatie<br>
 &nbsp;<br>
-Tenzij anders vermeld wordt, hebben de woorden of termen die in deze licentie gebruikt worden, dezelfde betekenis als in het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie en zijn uitvoeringsbesluiten.<br>
+Tenzij anders vermeld wordt, hebben de woorden of termen die in deze licentie gebruikt worden, dezelfde betekenis als in titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018 en zijn uitvoeringsbesluiten.<br>
 &nbsp;<br>
 Artikel 2. Deﬁnities<br>
 &nbsp;<br>
 Product: het bestuursdocument dat onder deze licentie door de licentiegever aan de licentienemer ter beschikking wordt gesteld.<br>
 &nbsp;<br>
-Licentiegever: de instantie, vermeld in artikel 2 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen;<br>
+Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, of de milieu-instantie, vermeld in artikel I.3, 7°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen;<br>
 &nbsp;<br>
 Verstrekker: de natuurlijke persoon, rechtspersoon of groepering ervan aan wie door de licentiegever het recht werd verleend om het product te verspreiden en ter beschikking te stellen voor hergebruik;<br>
 &nbsp;<br>
@@ -315,7 +315,7 @@ De toegang tot, de verstrekking en het hergebruik van het product zijn gratis.<b
 &nbsp;<br>
 Artikel 7. Einde van de licentie<br>
 &nbsp;<br>
-De licentie geldt voor onbepaalde duur. Ze wordt van rechtswege beëindigd als de licentienemer de voorwaarden ervan niet naleeft, als het product niet langer in aanmerking komt voor hergebruik onder de voorwaarden van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, of als de licentie moet worden aangepast ten gevolge van een dwingende rechterlijke uitspraak.<br>
+De licentie geldt voor onbepaalde duur. Ze wordt van rechtswege beëindigd als de licentienemer de voorwaarden ervan niet naleeft, als het product niet langer in aanmerking komt voor hergebruik onder de voorwaarden van titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018, of als de licentie moet worden aangepast ten gevolge van een dwingende rechterlijke uitspraak.<br>
 &nbsp;<br>
 Artikel 8. Aansprakelijkheid<br>
 &nbsp;<br>
@@ -325,8 +325,7 @@ De licentiegever of de verstrekker levert het product in de staat waarin het zic
 &nbsp;<br>
 Artikel 9. Toepasselijk recht en beroepsprocedure<br>
 &nbsp;<br>
-Het Belgische recht is toepasselijk. Geschillen over de inhoud of de uitvoering van deze licentie moeten worden voorgelegd aan de Beroepsinstantie inzake Openbaarheid van Bestuur en Hergebruik van Overheidsinformatie, volgens de voorwaarden die zijn vastgelegd in het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br>
-&nbsp;<br>
+Het Belgische recht is toepasselijk. Geschillen over de inhoud of de uitvoering van deze licentie moeten worden voorgelegd aan de Beroepsinstantie inzake Openbaarheid van Bestuur en Hergebruik van Overheidsinformatie, volgens de voorwaarden die zijn vastgelegd in titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018.<br>
 Informatie over de licentie<br>
 &nbsp;<br>
 De licentie is op zo’n wijze ontworpen dat ze compatibel is met andere open licenties die een naamsvermelding als voorwaarde bevatten, zoals de Engelse Open Government Licence, de Franse Licence Ouverte, de Creative Commons Attribution licentie 3.0 of de Open Data Commons Attribution licentie 1.0.<br>
@@ -341,17 +340,17 @@ Bijlage 3. De modellicentie voor hergebruik tegen vergoeding, vermeld in artikel
 &nbsp;<br>
 De licentie voor hergebruik tegen vergoeding<br>
 &nbsp;<br>
-Deze licentie omvat de voorwaarden voor het hergebruik van bestuursdocumenten in het bezit van een instantie, die ter beschikking worden gesteld tegen vergoeding. Door het uitoefenen van de rechten, verleend in deze licentie, met betrekking tot het aangeboden bestuursdocument, aanvaardt de licentienemer de voorwaarden van deze licentie.<br>
+Deze licentie omvat de voorwaarden voor het hergebruik van bestuursdocumenten in het bezit van een overheidsinstantie, die ter beschikking worden gesteld tegen vergoeding. Door het uitoefenen van de rechten, verleend in deze licentie, met betrekking tot het aangeboden bestuursdocument, aanvaardt de licentienemer de voorwaarden van deze licentie.<br>
 &nbsp;<br>
 Artikel 1. Interpretatie<br>
 &nbsp;<br>
-Tenzij anders vermeld wordt, hebben de woorden of termen die in deze licentie gebruikt worden, dezelfde betekenis als in het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br>
+Tenzij anders vermeld wordt, hebben de woorden of termen die in deze licentie gebruikt worden, dezelfde betekenis als in titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018.<br>
 &nbsp;<br>
 Artikel 2. Deﬁnities<br>
 &nbsp;<br>
 Product: bestuursdocument dat onder deze licentie door de licentiegever aan de licentienemer ter beschikking wordt gesteld.<br>
 &nbsp;<br>
-Licentiegever: de instantie, vermeld in artikel 2 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen.<br>
+Licentiegever: de instantie van de Vlaamse overheid, vermeld in artikel I.3, 1°, van het bestuursdecreet van 7 december 2018, de instantie van de lokale overheden, vermeld in artikel I.3, 5°, van het voormelde decreet, de instelling met een publieke taak, vermeld in artikel I.3, 6°, van het voormelde decreet, of de milieu-instanties, vermeld in artikel I.3, 7°, van het voormelde decreet, die houder is van de nodige rechten op het product om hergebruik toe te staan en die de bevoegdheid heeft om het product onder deze licentie ter beschikking te stellen.<br>
 &nbsp;<br>
 Verstrekker: de natuurlijke persoon, rechtspersoon of groepering ervan aan wie door de licentiegever het recht werd verleend om het product te verspreiden en ter beschikking te stellen voor hergebruik;<br>
 &nbsp;<br>
@@ -385,7 +384,7 @@ De licentienemer betaalt de vergoeding voor de toegang tot, de verstrekking en h
 &nbsp;<br>
 Artikel 7. Einde van de licentie<br>
 &nbsp;<br>
-De licentie geldt voor onbepaalde duur. Ze wordt van rechtswege beëindigd als de licentienemer de voorwaarden ervan niet naleeft, als het product niet langer in aanmerking komt voor hergebruik onder de voorwaarden van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, of als de licentie moet worden aangepast ten gevolge van een dwingende rechterlijke uitspraak.<br>
+De licentie geldt voor onbepaalde duur. Ze wordt van rechtswege beëindigd als de licentienemer de voorwaarden ervan niet naleeft, als het product niet langer in aanmerking komt voor hergebruik onder de voorwaarden van titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018, of als de licentie moet worden aangepast ten gevolge van een dwingende rechterlijke uitspraak.<br>
 &nbsp;<br>
 Artikel 8. Aansprakelijkheid<br>
 &nbsp;<br>
@@ -395,9 +394,9 @@ De licentiegever of de verstrekker levert het product in de staat waarin het zic
 &nbsp;<br>
 Artikel 9. Toepasselijk recht en beroepsprocedure<br>
 &nbsp;<br>
-Het Belgische recht is toepasselijk. Geschillen over de inhoud of de uitvoering van deze licentie moeten worden voorgelegd aan de Beroepsinstantie inzake Openbaarheid van Bestuur en Hergebruik van Overheidsinformatie, volgens de voorwaarden die zijn vastgelegd in het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br>
-&nbsp;<br>
-&nbsp;<br>
+Het Belgische recht is toepasselijk. Geschillen over de inhoud of de uitvoering van deze licentie moeten worden voorgelegd aan de Beroepsinstantie inzake Openbaarheid van Bestuur en Hergebruik van Overheidsinformatie, volgens de voorwaarden die zijn vastgelegd in titel II, hoofdstuk 4, van het bestuursdecreet van 7 december 2018.<br>
+<br>
 Informatie over de licentie<br>
 &nbsp;<br>
-Dit is versie 1.0 van de modellicentie voor hergebruik tegen vergoeding.
+Dit is versie 1.0 van de modellicentie voor hergebruik tegen vergoeding.<br>
+&nbsp;
