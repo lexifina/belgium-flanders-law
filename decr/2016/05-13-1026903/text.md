@@ -47,6 +47,22 @@ In artikel 12 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<
 5° er wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
 " § 4. In wat volgt in dit decreet wordt met het begrip opdrachthoudende vereniging zowel de opdrachthoudende vereniging als de opdrachthoudende vereniging met private deelname bedoeld, tenzij anders bepaald.".
 
+### ART 5.
+
+In artikel 18, eerste lid, van hetzelfde decreet worden de woorden "en desgevallend van de provincieraadsleden van de aangesloten provincies op de griffie van het provinciehuis" opgeheven.
+
+### ART 6.
+
+In artikel 19 van hetzelfde decreet worden de woorden "en provincieraden" en de woorden "en provincies" opgeheven.
+
+### ART 7.
+
+In artikel 22 van hetzelfde decreet wordt het derde lid opgeheven.
+
+### ART 8.
+
+In artikel 25, derde lid, van hetzelfde decreet worden de woorden "en de provincies" en het woord "respectieve" opgeheven.
+
 ### ART 9.
 
 Artikel 29 van hetzelfde decreet wordt vervangen door wat volgt:<br>
@@ -65,6 +81,10 @@ In artikel 32, eerste lid, van hetzelfde decreet worden de volgende wijzigingen 
 
 In artikel 37, vijfde lid, van hetzelfde decreet worden de woorden "tegen boekwaarde" opgeheven.
 
+### ART 12.
+
+In artikel 41, tweede lid, van hetzelfde decreet wordt de zinsnede ", evenals in de provinciehuizen van de deelnemende provincies" opgeheven.
+
 ### ART 13.
 
 In artikel 44 van hetzelfde decreet, gewijzigd bij het decreet van 18 januari 2013, wordt het vijfde lid vervangen door wat volgt:<br>
@@ -78,6 +98,22 @@ In artikel 44 van hetzelfde decreet, gewijzigd bij het decreet van 18 januari 20
 Aan artikel 48 van hetzelfde decreet, gewijzigd bij het decreet van 22 december 2006, wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
 <br>
 "In afwijking van het eerste lid, bestaat er geen onverenigbaarheid tussen het mandaat van bestuurder van een opdrachthoudende vereniging met private deelname en de volgende functies of mandaten: een lid van een bestuurs- of controleorgaan in of een werknemer van een privaatrechtelijke persoon die deelnemer is van dezelfde opdrachthoudende vereniging met private deelname.".
+
+### ART 15.
+
+In artikel 52, eerste lid, van hetzelfde decreet worden de woorden "en van de provincieraadsleden op de griffie van de provinciehuizen van de aangesloten provincies" opgeheven.
+
+### ART 16.
+
+In artikel 53 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "en provincies" en de woorden "of van de provincieraad" opgeheven;<br>
+<br>
+2° in het tweede lid worden de woorden "en de provincies" opgeheven.
+
+### ART 17.
+
+In artikel 63 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt het tweede lid opgeheven.
 
 ### ART 18.
 
@@ -113,6 +149,14 @@ In artikel 81 van hetzelfde decreet wordt punt a vervangen door wat volgt:<br>
 "a. de wet van 22 december 1986 betreffende de intercommunales, met uitzondering van artikel 26;".
 
 ## HOOFDSTUK 3. Wijzigingen van het Provinciedecreet van 9 december 2005
+
+### ART 21.
+
+In artikel 39, § 1, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, worden de woorden "intergemeentelijke samenwerkingsverbanden en" opgeheven.
+
+### ART 22.
+
+In artikel 57, § 4bis, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt punt 3° opgeheven.
 
 ## HOOFDSTUK 4. Inwerkingtreding
 
