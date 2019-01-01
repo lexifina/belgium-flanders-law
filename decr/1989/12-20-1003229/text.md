@@ -195,7 +195,7 @@ In afwijking van artikel 3, § 1, a) van het decreet van 30 mei 1985, betreffend
 
 ### ART. 22.
 
-De bepalingen van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domein-goederen, gewijzigd bij de wetten van 2 juli 1969 en 6 juli 1989, zijn van overeenkomstige toepassing op de Vlaamse Gemeenschap en op het Vlaamse Gewest, met dien verstande dat de bevoegdheden toegewezen aan de Minister van Financiën worden uitgeoefend door de Vlaamse regering.<br /><br />Deze bepalingen zijn niet van toepassing op de eigendomsoverdracht van onroerende goederen tussen de Vlaamse Gemeenschap en het Vlaamse Gewest.<br /><br />De Vlaamse regering zal jaarlijks bij de bespreking van het ontwerp van decreet houdende de middelenbegroting aan het Vlaams Parlement verslag uitbrengen over de uitgevoerde eigendomsoverdrachten van onroerende goederen tussen de Vlaamse Gemeenschap en het Vlaamse Gewest.<br /><br />Artikel 1, derde lid, en artikel 2, tweede en derde lid, van de in het eerste lid bedoelde wet zijn niet van toepassing op het vervreemden van en het vestigen van zakelijke rechten op bestuursgebouwen van de Vlaamse Gemeenschap en/of het Vlaamse Gewest.
+...
 
 ## HOOFDSTUK VIII INWERKINGTREDING
 
