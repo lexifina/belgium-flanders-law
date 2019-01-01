@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Inleidende bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingen van het Onroerenderfgoeddecreet van 12 juli 2013
 
 ### ART 2.
@@ -21,6 +25,24 @@ b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, 
 3° er wordt een punt 28° /1 ingevoegd, dat luidt als volgt:<br>
 <br>
 "28° /1 ingreep in de bodem: elke wijziging van de eigenschappen van de ondergrond door de verwijdering of toevoeging van materie, de verhoging of verlaging van de grondwatertafel, of het samendrukken van de materialen waaruit de ondergrond bestaat. Voor de berekening van de totale oppervlakte van de ingreep in de bodem wordt rekening gehouden met de oppervlakte van de vergunningsplichtige werken of handelingen zoals opgenomen in de vergunningsaanvraag;".
+
+### ART 5.
+
+In artikel 4.1.3, vierde lid, van hetzelfde decreet worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk".
+
+### ART 6.
+
+Aan artikel 4.1.4 van hetzelfde decreet wordt de volgende zin toegevoegd:<br>
+<br>
+"Er wordt geen openbaar onderzoek georganiseerd om een onroerend goed te verwijderen dat volledig gesloopt of verdwenen is.".
+
+### ART 7.
+
+In artikel 4.1.6, eerste lid, 1°, artikel 4.1.7, artikel 6.1.4, § 2, tweede lid, 1°, artikel 12.3.5, tweede lid, 1°, en artikel 12.3.6, tweede lid, 1°, van hetzelfde decreet wordt het woord "gegeorefereerd" opgeheven.
+
+### ART 8.
+
+In artikel 4.1.11, eerste lid, van hetzelfde decreet worden tussen het woord "opstalrecht" en het woord "overdraagt" de woorden "vestigt of" ingevoegd.
 
 ### ART 37.
 
@@ -185,6 +207,32 @@ In artikel 6.4.9 van hetzelfde decreet worden de volgende wijzigingen aangebrach
 <br>
 2° in het tweede lid wordt de zin "De partijen kunnen geen vordering tot vernietiging inroepen als de inbreuk op de informatieplicht is rechtgezet bij de authentieke akteverlening en de informatiegerechtigde in de akte verzaakt aan de vordering tot nietigverklaring op basis van een inbreuk op de informatieplicht." opgeheven.
 
+### ART 55.
+
+In artikel 10.2.1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt punt 3° opgeheven.
+
+### ART 56.
+
+Artikel 10.2.2 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 10.2.2. De premies van het Vlaamse Gewest bedragen minstens 40% van de kostprijs van de voor financiële ondersteuning in aanmerking komende beheersmaatregelen, werkzaamheden of diensten aan of in beschermde goederen en erfgoedlandschappen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels hiervoor en bepaalt de gevallen waarin een verhoogd premiepercentage of een aanvullende premie kan toegekend worden.".
+
+### ART 57.
+
+In artikel 10.5.2, derde lid, van het hetzelfde decreet, ingevoegd bij het decreet van 21 april 2017, worden de woorden "uiterlijk zes maanden" vervangen door de zinsnede "binnen een termijn van 180 dagen, die ingaat op de dag".
+
+### ART 58.
+
+Aan hoofdstuk 10, afdeling 4, van hetzelfde decreet, ingevoegd bij decreet van 15 juli 2016, wordt een nieuw artikel 10.4.2 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 10.4.2. Er kan nooit aanspraak gemaakt worden op premies voor de uitvoering van werkzaamheden of diensten waartoe een aanvrager al gehouden is op grond van zijn deelname aan een misdrijf of inbreuk.<br>
+<br>
+Als er premies uitgekeerd zijn om schade te herstellen die het gevolg is van een misdrijf of inbreuk, kunnen ze teruggevorderd worden van diegenen die door hun deelname aan het misdrijf of de inbreuk die schade mee hebben veroorzaakt.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels daarvoor.".
+
 ### ART 59.
 
 In artikel 11.2.2, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 4 mei 2016, worden de volgende wijzigingen aangebracht:<br>
@@ -195,4 +243,38 @@ In artikel 11.2.2, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet 
 <br>
 "4° het uitvoeren van de handelingen, vermeld in artikel 5.1.3, zonder uitvoerbare toelating of in strijd met de code van goede praktijk, de voorwaarden of maatregelen van de toelating, de bekrachtigde archeologienota, de archeologienota waarvan akte is genomen, de bekrachtigde nota of de nota waarvan akte is genomen;".
 
+### ART 60.
+
+In artikel 11.2.4, § 1, eerste lid, van het hetzelfde decreet, gewijzigd bij de decreten van 4 mei 2016 en 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het woord "excluvieve" wordt vervangen door het woord "exclusieve";<br>
+<br>
+2° in punt 2°, a) en b), wordt het woord "bezorgen" vervangen door het woord "melden".
+
+### ART 61.
+
+In artikel 11.5.7, § 8, van hetzelfde decreet worden de woorden "twee maanden" telkens vervangen door de woorden "zestig dagen".
+
+### ART 62.
+
+In artikel 11.5.18, eerste lid, van hetzelfde decreet worden de woorden "zes maanden" vervangen door de zinsnede "180 dagen".
+
+### ART 63.
+
+In artikel 11.6.2, derde lid, van hetzelfde decreet worden de woorden "twee maanden" vervangen door de woorden "zestig dagen".
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 72.
+
+Als er voor de inwerkingtreding van artikel 37 tot en met 53 conform artikel 6.1.3 van het Onroerenderfgoeddecreet van 12 juli 2013 advies is gevraagd over een besluit tot voorlopige bescherming of als er voor de inwerkingtreding van dit decreet conform artikel 6.1.4 van het Onroerenderfgoeddecreet van 12 juli 2013 een besluit tot voorlopige bescherming is vastgesteld, wordt de beschermingsprocedure voortgezet conform de regels die golden voor de datum van de inwerkingtreding van dit decreet.
+
+### ART 73.
+
+Als er voor de inwerkingtreding van artikel 37 tot en met 53 conform artikel 6.2.4 van het Onroerenderfgoeddecreet van 12 juli 2013 advies is gevraagd over een voorlopige opheffing of wijziging, wordt de wijzigings- of opheffingsprocedure voortgezet conform de regels die golden voor de datum van de inwerkingtreding van dit decreet.
+
+### ART 74.
+
+Dit decreet, met uitzondering van artikel 2, 2°, artikel 37 tot en met 53, en artikel 59, 1°, treedt in werking op een door de Vlaamse Regering te bepalen datum.<br>
+<br>
+Artikel 2, 2°, artikel 37 tot en met 53, en artikel 59, 1°, treden in werking de tiende dag na de publicatie van dit decreet in het Belgisch Staatsblad.
