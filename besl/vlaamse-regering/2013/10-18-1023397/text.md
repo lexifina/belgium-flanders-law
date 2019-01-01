@@ -26,7 +26,14 @@ In dit besluit wordt verstaan onder :<BR>1° decreet Grond- en Pandenbeleid   : 
 
 ### ART. 2.
 
-<P>De sociale huisvestingsmaatschappijen verhuren hun bescheiden woonaanbod   volgens de voorwaarden, vermeld in :<BR>1° artikel 41, § 2, van de Vlaamse   Wooncode;<BR>2° het gemeentelijk reglement Bescheiden Wonen, vermeld in artikel   4.2.10 van het decreet Grond- en Pandenbeleid;<BR>3° dit besluit.<BR></P>  <P>Voor de aspecten die niet geregeld zijn in de regelingen, vermeld in het   eerste lid, gelden de bepalingen van boek III, titel VIII, hoofdstuk II,   afdeling 1 en 2, van het Burgerlijk Wetboek.<BR></P>  <P>Het maximumpercentage van 20 procent van het jaarlijks investeringsvolume van   een sociale huisvestingsmaatschappij, vermeld in artikel 41, § 2, van de Vlaamse   Wooncode, wordt berekend op basis van het rekenkundig gemiddelde van de   investeringsvolumes van de vijf jaren die voorafgaan aan het jaar waarin de   berekening gebeurt. Alle investeringsverrichtingen, vermeld in artikel 41 van de   Vlaamse Wooncode, worden in aanmerking genomen voor de berekening van het   jaarlijkse investeringsvolume.<BR></P>
+<p>De sociale huisvestingsmaatschappijen verhuren hun bescheiden woonaanbod volgens de voorwaarden, vermeld in :<br>
+1° artikel 41, § 2, van de Vlaamse Wooncode;<br>
+2° het gemeentelijk reglement Bescheiden Wonen, vermeld in artikel 4.2.10 van het decreet Grond- en Pandenbeleid;<br>
+3° dit besluit.</p>
+
+<p>Voor de aspecten die niet geregeld zijn in de regelingen, vermeld in het eerste lid, gelden de bepalingen van boek III, titel VIII, hoofdstuk II, afdeling 1, van het Burgerlijk Wetboek en het Vlaams Woninghuurdecreet.</p>
+
+<p>Het maximumpercentage van 20 procent van het jaarlijks investeringsvolume van een sociale huisvestingsmaatschappij, vermeld in artikel 41, § 2, van de Vlaamse Wooncode, wordt berekend op basis van het rekenkundig gemiddelde van de investeringsvolumes van de vijf jaren die voorafgaan aan het jaar waarin de berekening gebeurt. Alle investeringsverrichtingen, vermeld in artikel 41 van de Vlaamse Wooncode, worden in aanmerking genomen voor de berekening van het jaarlijkse investeringsvolume.</p>
 
 ## HOOFDSTUK 2 Inschrijvingsvoorwaarden
 
@@ -50,7 +57,13 @@ Op het ogenblik van de inschrijving deelt de sociale   huisvestingsmaatschappij 
 
 ### ART. 7.
 
-De kandidaat-huurder ontvangt een inschrijvingsbewijs, waarin het volgende   wordt vermeld :<BR>1° de inschrijvingsdatum;<BR>2° het   inschrijvingsnummer;<BR>3° de dagen en uren waarop de schriftelijke of digitale   versie van het register zonder persoonsgebonden gegevens ter inzage ligt;<BR>4°   het verhaalrecht, vermeld in artikel 16, en de melding van het klachtrecht dat   de kandidaat-huurder heeft met toepassing van het decreet van 1 juni 2001   houdende toekenning van een klachtrecht ten aanzien van   bestuursinstellingen;<BR>5° de gevallen waarin de sociale   huisvestingsmaatschappij overgaat tot schrapping uit het   inschrijvingsregister;<BR>6° de melding dat de kandidaat-huurder door zijn   inschrijving de toestemming geeft aan de sociale huisvestingsmaatschappij om bij   de bevoegde overheden en instellingen en bij de lokale besturen de noodzakelijke   verklaringen, attesten of gegevens over de voorwaarden en verplichtingen van dit   besluit te verkrijgen.<BR>
+De kandidaat-huurder ontvangt een inschrijvingsbewijs, waarin het volgende wordt vermeld :<br>
+1° de inschrijvingsdatum;<br>
+2° het inschrijvingsnummer;<br>
+3° de dagen en uren waarop de schriftelijke of digitale versie van het register zonder persoonsgebonden gegevens ter inzage ligt;<br>
+4° het verhaalrecht, vermeld in artikel 16, en de melding van het klachtrecht dat de kandidaat-huurder heeft met toepassing van titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018;<br>
+5° de gevallen waarin de sociale huisvestingsmaatschappij overgaat tot schrapping uit het inschrijvingsregister;<br>
+6° de melding dat de kandidaat-huurder door zijn inschrijving de toestemming geeft aan de sociale huisvestingsmaatschappij om bij de bevoegde overheden en instellingen en bij de lokale besturen de noodzakelijke verklaringen, attesten of gegevens over de voorwaarden en verplichtingen van dit besluit te verkrijgen.
 
 ### ART. 8.
 
