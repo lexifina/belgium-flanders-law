@@ -2,16 +2,16 @@
   "codex_id": 1017919,
   "title": "Ministerieel besluit van 2009-05-04 tot bepaling van de standaard voor de titel van helpdesk operator",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017919/VolledigDocument?datum=2009-05-27",
-  "source_sha256": "c18b6a587fefc8d5abf4a772122d01f769d967d7c4990dd58639dad9a176fdb5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017919/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "017dabbcf20857f68c496c074d235606ece700929d04d7d8276d1fac4d20977d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017919&param=informatie",
-  "as_of": "2009-05-27",
+  "as_of": "2019-01-01",
   "made": "2009-05-04",
   "gazette": "2009-05-27",
   "numac": 2009202241,
   "document_start": "2009-05-27",
   "document_end": "2018-12-31",
-  "in_force": "2009-05-27",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
