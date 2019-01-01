@@ -69,7 +69,8 @@ De Vlaamse Regering kan de nadere regels bepalen met betrekking tot de voorwaard
 
 ### ART. 8.
 
-AGIOn rapporteert aan de Vlaamse Regering in overeenstemming met zijn beheersovereenkomst conform artikel 9 van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br /><br />
+AGIOn rapporteert aan de Vlaamse Regering conform artikel III.61 en III.62 van het Bestuursdecreet van 7 december 2018.<br>
+&nbsp;
 
 ### ART. 9.
 
