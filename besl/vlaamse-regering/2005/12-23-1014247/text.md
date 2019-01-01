@@ -28,7 +28,9 @@ Het ANB ressorteert onder het hiërarchische gezag van de Vlaamse minister, bevo
 
 ### ART. 6.
 
-De minister stuurt het ANB, inzonderheid via de beheersovereenkomst.<br /><br />Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+De minister stuurt het ANB, inzonderheid via het ondernemingsplan.<br>
+<br>
+Overeenkomstig artikel III.61 van het bestuursdecreet van 7 december 2018 regelt het ondernemingsplan de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 7.
 
@@ -42,7 +44,7 @@ Bij het ANB wordt een algemeen directeur aangesteld.
 
 ### ART. 9.
 
-Onverminderd artikel 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 met betrekking tot de informatieverstrekking, rapportering, interne controle en interne audit is de minister is verantwoordelijk voor de opvolging van en het toezicht op het ANB.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot de informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het ANB.
 
 ### ART. 10.
 
