@@ -2,16 +2,16 @@
   "codex_id": 1029739,
   "title": "Besluit van de Vlaamse Regering van 2018-09-07 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de invoering van een steunregeling voor kleine en middelgrote windturbines",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029739/VolledigDocument?datum=2018-11-28",
-  "source_sha256": "a8c6b5b1816d749a29080cce4362f9092b639e670b13d86f9c2e4ac665956a24",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029739/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "aeb6561bfbae1f8b0cac52ef244ff33cf4dab2e67576cdbb372b77aa24e64614",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029739&param=informatie",
-  "as_of": "2018-11-28",
+  "as_of": "2019-01-01",
   "made": "2018-09-07",
   "gazette": "2018-09-18",
   "numac": 2018013749,
   "document_start": "3000-01-01",
   "document_end": null,
-  "in_force": "2018-11-28",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2018-11-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

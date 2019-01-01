@@ -28,6 +28,14 @@ In artikel 6.2/1.1, van het Energiebesluit van 19 november 2010, ingevoegd bij h
 <br>
 "Voor installaties die niet behoren tot de representatieve projectcategorieën vermeld in artikel 6.2/1.2, eerste lid, of in artikel 6.2/1.4, eerste lid, of tot de niet-representatieve projectcategorieën vermeld in artikel 6.2/1.7, § 1, eerste lid, is de maximale bandingfactor gelijk aan 0.".
 
+### ART 2.
+
+In artikel 6.2/1.2, eerste lid, 2°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en vervangen bij het besluit van de Vlaamse Regering van 15 december 2017, wordt punt a) vervangen door wat volgt :<br>
+<br>
+"a) nieuwe installaties met betrekking tot windenergie op land, met een bruto nominaal vermogen per turbine groter dan 300 kWe tot 3 MWe :<br>
+1) waarbij het project voorziet in burgerparticipatie;<br>
+2) andere projecten;".
+
 ### ART 3.
 
 Aan titel VII van hetzelfde besluit, het laatst gewijzigd bij besluit van de Vlaamse Regering van 9 maart 2018, wordt een hoofdstuk XI, dat bestaat uit artikel 7.11.1 tot en met 7.11.4, toegevoegd, dat luidt als volgt :<br>
@@ -204,3 +212,10 @@ De steungerechtigde meldt aan het Vlaams Energieagentschap onmiddellijk:<br>
 3° iedere wijziging van de natuurlijke persoon of rechtspersoon waaraan de steun toegekend moet worden.<br>
 <br>
 Bij elke melding van een wijziging, vermeld in het derde lid, 2°, legt de steungerechtigde een nieuw keuringsverslag voor als vermeld in paragraaf 1. Bij dergelijke wijzigingen kan het Vlaams Energieagentschap zijn beslissing tot toekenning van steun wijzigen.".
+
+### ART 4.
+
+In bijlage III/1 bij hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 21 december 2012 en het laatst gewijzigd bij het besluit van de Vlaamse Regering van 15 december 2017, wordt punt 3, 2°, a) vervangen door wat volgt :<br>
+<br>
+"2° a) cat. 4a : nieuwe installaties met betrekking tot windenergie op het land, met een bruto nominaal vermogen per turbine groter dan 300 kWe tot 3 MWe, waarbij het project voorziet in burgerparticipatie;<br>
+cat. 4b : nieuwe installaties met betrekking tot windenergie op het land, met een bruto nominaal vermogen per turbine groter dan 300 kWe tot 3 MWe die niet vallen onder cat. 4a;".
