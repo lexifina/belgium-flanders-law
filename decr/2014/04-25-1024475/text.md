@@ -22,7 +22,7 @@ In dit decreet wordt verstaan onder:<br>
 9° rechtstreeks toegankelijke zorg en ondersteuning: de zorg en ondersteuning zoals ambulante begeleiding, ambulante outreach, dagopvang, mobiele begeleiding, mobiele outreach en verblijf, die beperkt is in tijd, intensiteit en frequentie, zoals bepaald overeenkomstig artikel 8, 10° en 11°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, en waarvoor de persoon met een handicap geen aanvraag tot ondersteuning bij het agentschap moet indienen, of de rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 2, § 1, 46°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 10° toegangspoort: de toegangspoort, vermeld in artikel 2, § 1, 51°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 11° voucher: de vorm van financiering waarbij de persoon met een handicap beslist om de financiering van de niet-rechtstreeks toegankelijke zorg en ondersteuning of de bijstand bij de organisatie daarvan rechtstreeks tussen het agentschap en de vergunninghouder, gekozen door de persoon met een handicap, te laten verlopen;<br>
-12° Vlaamse sociale bescherming: de Vlaamse sociale bescherming, vermeld in artikel 4 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.
+12° Vlaamse sociale bescherming: de Vlaamse sociale bescherming, vermeld in artikel 5 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.
 
 ## HOOFDSTUK 3 Voorwerp
 
@@ -43,10 +43,10 @@ In dit decreet wordt verstaan onder:<br>
 <p>Een basisondersteuningsbudget wordt toegekend aan iedere persoon met een handicap die voldoet aan de volgende voorwaarden:<br>
 1° voldoen aan de voorwaarden, vermeld in artikel 20 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 2° een duidelijk vast te stellen behoefte aan zorg en ondersteuning hebben;<br>
-3° voldoen aan de voorwaarden voor het recht op tegemoetkoming, vermeld in of ter uitvoering van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
+3° voldoen aan de voorwaarden voor het recht op tegemoetkoming, vermeld in of ter uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 4° ...</p>
 
-<p>Het basisondersteuningsbudget is een tegemoetkoming als vermeld in artikel 2, 11°, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.</p>
+<p>Het basisondersteuningsbudget is een tegemoetkoming als vermeld in artikel 2, eerste lid, 30°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.</p>
 
 <p>Voor de toekenning van een basisondersteuningsbudget in de periode tot en met het begrotingsjaar 2020 kan de Vlaamse Regering aanvullende voorwaarden bepalen. Deze aanvullende voorwaarden moeten de geleidelijke toekenning van het basisbudget aan al diegenen die aan de voorwaarden, vermeld in het eerste lid, voldoen, mogelijk maken.</p>
 
@@ -63,8 +63,8 @@ In dit decreet wordt verstaan onder:<br>
 ### ART. 7.
 
 <p>In dit artikel wordt verstaan onder:<br>
-1° Agentschap voor Vlaamse Sociale Bescherming: het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 6 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
-2° zorgkas: een zorgkas als vermeld in artikel 15 of 18 van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
+1° Agentschap voor Vlaamse Sociale Bescherming: het Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+2° zorgkas: een zorgkas als vermeld in artikel 18 of artikel 21 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 3° algemene verordening gegevensbescherming : de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);</p>
 
 <p>Het agentschap, de toegangspoort, het Agentschap voor Vlaamse Sociale Bescherming en de zorgkassen registreren en verwerken persoonsgegevens en wisselen onder elkaar persoonsgegevens uit, inclusief de bijzondere categorieën van persoons-gegevens, vermeld in artikel 9, lid 1, van de algemene verordening gegevensbescherming, met zorg voor de bescherming van de persoonlijke levenssfeer van de persoon met een handicap. De registratie, verwerking en uitwisseling betreffen de persoonsgegevens die noodzakelijk zijn voor de verstrekking van het basisondersteuningsbudget. De voormelde instanties vragen, met toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens, de nodige machtigingen tot toegang tot en gebruik van persoonsgegevens, inclusief de bijzondere categorieën van persoons-gegevens, vermeld in artikel 9, lid 1, van de algemene verordening gegevensbescherming, uit externe gegevensbronnen.</p>
@@ -126,10 +126,6 @@ Via regionaal overleg voor zorgafstemming plegen het agentschap, de   vereniging
 ### ART. 20.
 
 <p>De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.</p>
-
-<p>De personeelsleden die met het toezicht belast zijn, hebben het recht de lokalen die gebruikt worden in het kader van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, te bezoeken. De aanvraag van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning bevat een toestemming van de aanvrager of, voor de minderjarige aanvrager, van zijn wettelijke vertegenwoordiger om in de lokalen die door de aanvrager gebruikt worden in het kader van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, met inbegrip van de door de aanvrager bewoonde lokalen, controlebezoeken te laten uitvoeren. De vergunninghouders, vermeld in artikel 12 en 14, en de aanvrager of, voor de minderjarige aanvrager, zijn wettelijke vertegenwoordiger stellen aan die personeelsleden alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die personeelsleden toe om ter plaatse de naleving van de bepalingen, vermeld in het eerste lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn. Deze bevoegdheden worden uitgeoefend met het oog op het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan. De personeelsleden die met het toezicht belast zijn, staan ervoor in dat de middelen die worden aanwend, passend en noodzakelijk zijn voor het toezicht op de naleving van de bepalingen van dit decreet en de uitvoeringsbesluiten ervan.</p>
-
-<p>Van hun vaststellingen maken de personeelsleden, vermeld in het tweede lid, een verslag op. Het verslag heeft bewijswaarde tot het tegenbewijs. Van het verslag wordt een afschrift gestuurd naar de betrokkene.</p>
 
 ## HOOFDSTUK 8 Wijzigingsbepalingen
 
