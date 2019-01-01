@@ -8,11 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 juli 2003 tot regeli
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 18 juli 2003 tot regeling van de strategische adviesraden;<br />2° het besluit van de Vlaamse Regering van 21 mei 1997 : het besluit van de Vlaamse Regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de Vlaamse openbare instellingen;<br />3° strategische adviesraad : de strategische adviesraad, vermeld in het decreet van 18 juli 2003 tot regeling van de strategische adviesraden;<br />4° de met de financiële controle en certificering belaste instantie : de diensten van het Vlaams Ministerie van Financiën en Begroting, die belast zijn met de opmaak en consolidatie van de algemene rekeningen.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° ...;<br>
+2° het besluit van de Vlaamse Regering van 21 mei 1997 : het besluit van de Vlaamse Regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de Vlaamse openbare instellingen;<br>
+3° strategische adviesraad : de strategische adviesraad, vermeld in artikel III.93 van het bestuursdecreet van 7 december 2018;<br>
+4° de met de financiële controle en certificering belaste instantie : de diensten van het Vlaams Ministerie van Financiën en Begroting, die belast zijn met de opmaak en consolidatie van de algemene rekeningen.
 
 ### ART. 2.
 
-De strategische adviesraad is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen, opgericht ingevolge het decreet Bestuurlijk Beleid van 18 juli 2003.<br />
+De strategische adviesraad is onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 3 februari 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen.
 
 ## HOOFDSTUK II. Begroting en boekhouding
 
@@ -26,7 +30,11 @@ Voor de begroting en boekhouding is het besluit van de Vlaamse Regering van 21 m
 
 ### ART. 4.
 
-Overeenkomstig artikel 14 van het decreet stelt de strategische adviesraad jaarlijks een begroting op van alle ontvangsten en alle uitgaven voor het volgende begrotingsjaar. Bij de opmaak van de begroting, alsmede bij elke wijziging ervan, volgt de strategische adviesraad de nadere regelen die vastgesteld zijn in de begrotingsinstructies voor de opmaak van de algemene uitgaven- en middelenbegroting.<br /><br />Het begrotingsvoorstel wordt als bijlage bij het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap gevoegd.<br /><br />Als de begroting niet is goedgekeurd op de eerste dag van het nieuwe begrotingsjaar, mogen dezelfde verrichtingen worden uitgevoerd naar rato van een twaalfde per maand vanaf 1 januari, als de verrichtingen die voor de vorige begroting werden toegestaan.<br />
+De strategische adviesraad stelt jaarlijks een begroting op van alle ontvangsten en alle uitgaven voor het volgende begrotingsjaar. Bij de opmaak van de begroting, alsmede bij elke wijziging ervan, volgt de strategische adviesraad de nadere regelen die vastgesteld zijn in de begrotingsinstructies voor de opmaak van de algemene uitgaven- en middelenbegroting.<br>
+<br>
+Het begrotingsvoorstel wordt als bijlage bij het ontwerp van decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap gevoegd.<br>
+<br>
+Als de begroting niet is goedgekeurd op de eerste dag van het nieuwe begrotingsjaar, mogen dezelfde verrichtingen worden uitgevoerd naar rato van een twaalfde per maand vanaf 1 januari, als de verrichtingen die voor de vorige begroting werden toegestaan.
 
 ### ART. 5.
 
@@ -36,7 +44,7 @@ Overdracht en overschrijding van de limitatieve kredieten uitgetrokken op de beg
 
 ### ART. 6.
 
-Overeenkomstig artikel 14 van het decreet stelt de strategische adviesraad ieder jaar de rekening van het vorige dienstjaar op.<br />
+De strategische adviesraad stelt ieder jaar de rekening van het vorige dienstjaar op.
 
 ### ART. 7.
 
