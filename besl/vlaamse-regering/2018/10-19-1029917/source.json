@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029917,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-19 tot opheffing van het koninklijk besluit van 21 december 1974 tot bepaling van de eisen tot uitoefening van de beroepswerkzaamheid van installateur-frigorist in de kleine en middelgrote handels- en ambachtsondernemingen en het koninklijk besluit van 29 januari 2007 betreffende de beroepsbekwaamheid voor de uitoefening van zelfstandige activiteiten van het bouwvak en van de elektrotechniek, alsook van de algemene aanneming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029917/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "d0c0f5339f57dcb4755b5f4c5420ddf19c1cebf0306b2e470b2d8df76db14d08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029917&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-10-19",
+  "gazette": "2018-11-23",
+  "numac": 2018014707,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
