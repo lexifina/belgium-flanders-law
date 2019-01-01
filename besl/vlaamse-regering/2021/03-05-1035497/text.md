@@ -37,6 +37,15 @@ DE VLAAMSE REGERING BESLUIT:
 
 ## HOOFDSTUK 7. Wijzigingen van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap
 
+### ART 30.
+
+In artikel 25 van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 2 wordt vervangen door wat volgt:<br>
+" § 2. De bijdrage mag niet meer bedragen dan het basisbedrag, verhoogd met de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte waarop de gebruiker recht heeft krachtens het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.<br>
+In afwijking van het eerste lid mag het bedrag voor de gebruiker die geboren is voor 1 januari 2019, niet hoger zijn dan de kinderbijslag, verhoogd met de leeftijdstoeslag en de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte waarop de gebruiker recht heeft krachtens het voormelde decreet van 27 april 2018.";<br>
+2° in paragraaf 3, tweede lid en derde lid, wordt de zinsnede "de gewone kinderbijslag, verhoogd met de bijslag voor leeftijd en handicap waarop die gebruiker recht heeft in de kinderbijslagregeling" vervangen door de zinsnede "de maximale bijdrage, vermeld in paragraaf 2";<br>
+3° in paragraaf 4 worden de woorden "de kinderbijslag waarop die gebruiker recht heeft in de kinderbijslagregeling" vervangen door de zinsnede "de maximale bijdrage, vermeld in paragraaf 2".
+
 ## HOOFDSTUK 8. Wijzigingen van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
 
 ## HOOFDSTUK 9. Wijzigingen van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten
