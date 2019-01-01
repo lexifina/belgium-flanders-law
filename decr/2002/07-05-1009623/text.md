@@ -213,7 +213,7 @@ De bepalingen, vermeld in artikel 6 tot en met 13 en artikel 15, zijn niet van t
 
 ### ART 19septies decies.
 
-Vanaf het begrotingsjaar 2018 worden aan de volgende gemeenten de volgende bedragen toegekend voor een totaal bedrag van 23.819.200 euro:<br>
+Vanaf het begrotingsjaar 2018 worden aan de volgende gemeenten de volgende bedragen toegekend:<br>
 1° Antwerpen: 12.578.500,00 euro;<br>
 2° Gent: 853.000,00 euro;<br>
 3° Hasselt: 4.953.000,00 euro;<br>
@@ -222,7 +222,9 @@ Vanaf het begrotingsjaar 2018 worden aan de volgende gemeenten de volgende bedra
 6° Moerbeke: 5700,00 euro;<br>
 7° Tongeren: 4.040.000,00 euro.<br>
 <br>
-De bedragen, vermeld in het eerste lid, worden vanaf het begrotingsjaar 2019 elk jaar aangepast met een evolutiepercentage. Dat percentage is gelijk aan de procentuele verhouding, berekend tot op een honderdste van de eenheid, tussen het gezondheidsindexcijfer van de maand maart van het jaar dat het begrotingsjaar voorafgaat met dat van de maand maart van het daaraan voorafgaande jaar.
+De bedragen die aan de gemeenten, vermeld in het eerste lid, worden toegekend,&nbsp;worden vanaf het begrotingsjaar 2019 elk jaar aangepast met een evolutiepercentage. Dat percentage is gelijk aan de procentuele verhouding, berekend tot op een honderdste van de eenheid, tussen het gezondheidsindexcijfer van de maand maart van het jaar dat het begrotingsjaar voorafgaat met dat van de maand maart van het daaraan voorafgaande jaar.<br>
+<br>
+Vanaf het begrotingsjaar 2019 wordt het bedrag voor de stad Kortrijk, vermeld in het eerste lid, na toepassing van het evolutiepercentage, vermeld in het tweede lid, verhoogd met 100.000 euro. Het evolutiepercentage, vermeld in het tweede lid, is vanaf het begrotingsjaar 2020 van toepassing op dit aanvullende bedrag.
 
 ### ART 19duodevicies.
 
@@ -282,8 +284,8 @@ Bijlage 1<br>
 		</tr>
 		<tr>
 			<td>AALTER</td>
-			<td>317.108,10</td>
-			<td>0,2420 %</td>
+			<td>439.748,57</td>
+			<td>0,3357 %</td>
 		</tr>
 		<tr>
 			<td>AARSCHOT</td>
@@ -537,8 +539,8 @@ Bijlage 1<br>
 		</tr>
 		<tr>
 			<td>DEINZE</td>
-			<td>554.897,89</td>
-			<td>0,4236 %</td>
+			<td>754.273,61</td>
+			<td>0,5757 %</td>
 		</tr>
 		<tr>
 			<td>DENDERLEEUW</td>
@@ -936,11 +938,6 @@ Bijlage 1<br>
 			<td>0,0869 %</td>
 		</tr>
 		<tr>
-			<td>KNESSELARE</td>
-			<td>122.640,47</td>
-			<td>0,0936 %</td>
-		</tr>
-		<tr>
 			<td>KNOKKE-HEIST</td>
 			<td>658.045,96</td>
 			<td>0,5023 %</td>
@@ -996,9 +993,9 @@ Bijlage 1<br>
 			<td>0,1832 %</td>
 		</tr>
 		<tr>
-			<td>KRUISHOUTEM</td>
-			<td>123.050,36</td>
-			<td>0,0939 %</td>
+			<td>KRUISEM</td>
+			<td>241.711,66</td>
+			<td>0,1845 %</td>
 		</tr>
 		<tr>
 			<td>KUURNE</td>
@@ -1086,6 +1083,11 @@ Bijlage 1<br>
 			<td>0,0867 %</td>
 		</tr>
 		<tr>
+			<td>LIEVEGEM</td>
+			<td>399.165,53</td>
+			<td>0,3047 %</td>
+		</tr>
+		<tr>
 			<td>LILLE</td>
 			<td>173.520,02</td>
 			<td>0,1324 %</td>
@@ -1129,11 +1131,6 @@ Bijlage 1<br>
 			<td>LO-RENINGE</td>
 			<td>14.406,56</td>
 			<td>0,0110 %</td>
-		</tr>
-		<tr>
-			<td>LOVENDEGEM</td>
-			<td>137.553,31</td>
-			<td>0,1050 %</td>
 		</tr>
 		<tr>
 			<td>LUBBEEK</td>
@@ -1184,11 +1181,6 @@ Bijlage 1<br>
 			<td>MEERHOUT</td>
 			<td>144.981,65</td>
 			<td>0,1107 %</td>
-		</tr>
-		<tr>
-			<td>MEEUWEN-GRUITRODE</td>
-			<td>218.960,27</td>
-			<td>0,1671 %</td>
 		</tr>
 		<tr>
 			<td>MEISE</td>
@@ -1261,16 +1253,6 @@ Bijlage 1<br>
 			<td>0,1626 %</td>
 		</tr>
 		<tr>
-			<td>NEERPELT</td>
-			<td>290.740,20</td>
-			<td>0,2219 %</td>
-		</tr>
-		<tr>
-			<td>NEVELE</td>
-			<td>199.375,72</td>
-			<td>0,1522 %</td>
-		</tr>
-		<tr>
 			<td>NIEL</td>
 			<td>136.258,34</td>
 			<td>0,1040 %</td>
@@ -1321,11 +1303,6 @@ Bijlage 1<br>
 			<td>0,0920 %</td>
 		</tr>
 		<tr>
-			<td>OPGLABBEEK</td>
-			<td>184.950,26</td>
-			<td>0,1412 %</td>
-		</tr>
-		<tr>
 			<td>OPWIJK</td>
 			<td>233.196,73</td>
 			<td>0,1780 %</td>
@@ -1339,6 +1316,11 @@ Bijlage 1<br>
 			<td>OUDENBURG</td>
 			<td>91.672,10</td>
 			<td>0,0700 %</td>
+		</tr>
+		<tr>
+			<td>OUDSBERGEN</td>
+			<td>403.910,53</td>
+			<td>0.3083 %</td>
 		</tr>
 		<tr>
 			<td>OUD-HEVERLEE</td>
@@ -1356,14 +1338,14 @@ Bijlage 1<br>
 			<td>0,4262 %</td>
 		</tr>
 		<tr>
-			<td>OVERPELT</td>
-			<td>356.216,67</td>
-			<td>0,2719 %</td>
-		</tr>
-		<tr>
 			<td>PEER</td>
 			<td>268.903,56</td>
 			<td>0,2053 %</td>
+		</tr>
+		<tr>
+			<td>PELT</td>
+			<td>646.956,87</td>
+			<td>0,4938 %</td>
 		</tr>
 		<tr>
 			<td>PEPINGEN</td>
@@ -1386,9 +1368,9 @@ Bijlage 1<br>
 			<td>0,1967 %</td>
 		</tr>
 		<tr>
-			<td>PUURS</td>
-			<td>307.673,91</td>
-			<td>0,2348 %</td>
+			<td>PUURS-SINT-AMANDS</td>
+			<td>430.195,00</td>
+			<td>0,3284 %</td>
 		</tr>
 		<tr>
 			<td>RANST</td>
@@ -1464,11 +1446,6 @@ Bijlage 1<br>
 			<td>SCHOTEN</td>
 			<td>625.232,97</td>
 			<td>0,4772 %</td>
-		</tr>
-		<tr>
-			<td>SINT-AMANDS</td>
-			<td>122.521,09</td>
-			<td>0,0935 %</td>
 		</tr>
 		<tr>
 			<td>SINT-GENESIUS-RODE</td>
@@ -1626,11 +1603,6 @@ Bijlage 1<br>
 			<td>0,1343 %</td>
 		</tr>
 		<tr>
-			<td>WAARSCHOOT</td>
-			<td>130.348,70</td>
-			<td>0,0995 %</td>
-		</tr>
-		<tr>
 			<td>WAASMUNSTER</td>
 			<td>217.259,42</td>
 			<td>0,1658 %</td>
@@ -1751,19 +1723,9 @@ Bijlage 1<br>
 			<td>0,3110 %</td>
 		</tr>
 		<tr>
-			<td>ZINGEM</td>
-			<td>118.661,30</td>
-			<td>0,0906 %</td>
-		</tr>
-		<tr>
 			<td>ZOERSEL</td>
 			<td>348.356,18</td>
 			<td>0,2659 %</td>
-		</tr>
-		<tr>
-			<td>ZOMERGEM</td>
-			<td>131.263,52</td>
-			<td>0,1002 %</td>
 		</tr>
 		<tr>
 			<td>ZONHOVEN</td>
