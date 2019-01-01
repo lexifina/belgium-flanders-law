@@ -2,16 +2,16 @@
   "codex_id": 1015878,
   "title": "Ministerieel besluit van 2007-06-07 betreffende de opleiding [energiedeskundige type C]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015878/VolledigDocument?datum=2018-02-24",
-  "source_sha256": "6c14a9223ad36ae86fd3db289f19bbe9b298505fc2d692049a53bd817e3610b9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015878/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "2a968e248adfd655de9fb516debcb7b2c5f9df11c7bb0b058df2a69bcd726ed9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015878&param=informatie",
-  "as_of": "2018-02-24",
+  "as_of": "2019-01-01",
   "made": "2007-06-07",
   "gazette": "2007-06-20",
   "numac": 2007035918,
   "document_start": "2007-06-20",
   "document_end": "2018-12-31",
-  "in_force": "2018-02-24",
+  "in_force": "2019-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2018-02-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
