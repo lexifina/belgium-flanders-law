@@ -76,7 +76,19 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 3.
 
-<P>§ 1. Integrale jeugdhulp heeft betrekking op jeugdhulpverlening die   aangeboden wordt met toepassing van de volgende regelgeving :<BR>1° het besluit   van de Vlaamse Regering van 24 juli 1997 tot regeling van de erkenning en de   subsidiëring van de centra voor integrale gezinszorg;<BR>2° het decreet van 1   december 1998 betreffende de centra voor leerlingenbegeleiding;<BR>3° het   decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<BR>4° het   decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd   agentschap met rechtspersoonlijkheid Kind en Gezin;<BR>5° het decreet van 7 mei   2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<BR>6°   het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<BR>7° het decreet   van 8 mei 2009 betreffende het algemeen welzijnswerk;<BR>8° het decreet van 29   juni 2012 houdende de organisatie van pleegzorg.<BR></P>  <P>Binnen de regelgeving, vermeld in het eerste lid, 1° tot en met 7°, bepaalt   de Vlaamse Regering welke jeugdhulpverlening onder het toepassingsgebied van de   integrale jeugdhulp valt.<BR></P>  <P>§ 2. De Vlaamse Regering kan het toepassingsgebied van de integrale jeugdhulp   uitbreiden naar jeugdhulpverlening die met toepassing van andere Vlaamse   regelgeving wordt aangeboden.</P>
+<p>§ 1. Integrale jeugdhulp heeft betrekking op jeugdhulpverlening die aangeboden wordt met toepassing van de volgende regelgeving :<br>
+1° het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
+2° het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+3° het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
+4° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+5° het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+6° het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+7° het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
+8° het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.</p>
+
+<p>Binnen de regelgeving, vermeld in het eerste lid, 1° tot en met 7°, bepaalt de Vlaamse Regering welke jeugdhulpverlening onder het toepassingsgebied van de integrale jeugdhulp valt.</p>
+
+<p>§ 2. De Vlaamse Regering kan het toepassingsgebied van de integrale jeugdhulp uitbreiden naar jeugdhulpverlening die met toepassing van andere Vlaamse regelgeving wordt aangeboden.</p>
 
 ### ART. 4.
 
@@ -294,6 +306,36 @@ Na een kennisgeving door het openbaar ministerie, door de minderjarige,   zijn o
 3° brengt de jeugdhulp de vertrouwenspersoon van de minderjarige systematisch op de hoogte en betrekt de jeugdhulp de vertrouwenspersoon erbij.</p>
 
 <p>De Vlaamse Regering bepaalt de nadere regels voor die opdrachten.</p>
+
+### ART 45/1.
+
+§ 1. De Vlaamse Regering kan een of meer privaatrechtelijke verenigingen met rechtspersoonlijkheid als cliëntenorganisatie erkennen. Voor een cliëntenorganisatie is het bij wet of bij decreet verboden haar leden een vermogensvoordeel te bezorgen.<br>
+<br>
+Om erkend te worden en te blijven als cliëntenorganisatie moet een vereniging bijdragen tot een participatieve jeugdhulpverlening en moet ze met het oog daarop de volgende opdrachten vervullen:<br>
+1° de vereniging actief bekendmaken bij de volgende twee categorieën van personen of bij een van beide categorieën van personen:<br>
+a) kinderen en jongeren die een beroep doen of gedaan hebben op jeugdhulpverlening, en jongeren die een beroep doen of gedaan hebben op de voortgezette jeugdhulpverlening, vermeld in artikel 18, § 3;<br>
+b) ouders en opvoedingsverantwoordelijken die een beroep doen of gedaan hebben op jeugdhulpverlening;<br>
+2° bijdragen aan de versterking van de positie in de jeugdhulpverlening van de categorieën van personen, vermeld in punt 1°, a), en/of 1°, b);<br>
+3° het regelmatig organiseren van contacten onder de categorieën van personen, vermeld in punt 1°, a), en/of 1°, b);<br>
+4° bijdragen aan de ontsluiting van de rechten en plichten van de categorieën van personen, vermeld in punt 1°, a), en/of 1°, b), en van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+5° publiekelijk rapporteren over de ervaringen van de categorieën van personen, vermeld in punt 1°, a), en/of 1°, b);<br>
+6° aanbevelingen formuleren met betrekking tot een participatieve jeugdhulp-verlening en de levenskwaliteit van de categorieën van personen, vermeld in punt 1°, a), en/of 1°, b);<br>
+7° laagdrempelige vorming aanbieden vanuit het cliëntperspectief en dat perspectief inbrengen in het brede maatschappelijke veld, in overleg- en adviesorganen, en in onderzoeksopdrachten van de Vlaamse overheid met betrekking tot jeugdhulpverlening;<br>
+8° mee het initiatief nemen tot de ontwikkeling van een onafhankelijk cliënten-forum en eraan meewerken.<br>
+<br>
+Een vereniging kan alleen als cliëntenorganisatie erkend worden en blijven als minstens een derde van de personen die in de bestuursorganen van de vereniging zitting hebben, ervaring hebben als cliënt in de jeugdhulp, en als de vereniging bovendien steunt op een directe betrokkenheid bij de werking van de vereniging van de categorieën van personen, vermeld in het tweede lid, 1°, a), en/of 1°, b).<br>
+<br>
+De Vlaamse Regering kan aanvullende erkenningsvoorwaarden bepalen.<br>
+<br>
+§ 2. De Vlaamse Regering kan een of meer erkende cliëntenorganisaties subsidiëren op basis van de subsidievoorwaarden die ze heeft vastgesteld.<br>
+<br>
+De subsidie wordt jaarlijks toegekend op basis van een beleidsplan van drie jaar van de cliëntenorganisatie.
+
+### ART 45/3.
+
+De toegangspoort, de sociale dienst en de jeugdhulpaanbieders stellen, op verzoek van een erkende cliëntenorganisatie, de informatie van die organisatie die voortvloeit uit haar opdrachten, vermeld in artikel 45/1, § 1, tweede lid, ter beschikking van de volgende twee categorieën van personen of van een van beide categorieën van personen:<br>
+1° de minderjarigen die een beroep doen op jeugdhulpverlening en de jongeren die een beroep doen op de voortgezette jeugdhulpverlening, vermeld in artikel 18, § 3;<br>
+2° de ouders en opvoedingsverantwoordelijken die een beroep doen op jeugdhulpverlening.
 
 ### ART. 46.
 
@@ -609,13 +651,9 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 ### ART. 78.
 
-<p>§ 1. De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en de uitvoeringsbesluiten ervan.</p>
-
-<p>De ambtenaren die met het toezicht belast zijn, hebben het recht elke jeugdhulpaanbieder of andere persoon of voorziening die jeugdhulpverlening aanbiedt, te bezoeken. De jeugdhulpaanbieders of andere personen of voorzieningen die jeugdhulpverlening aanbieden, stellen aan die ambtenaren alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die ambtenaren toe om ter plaatse de naleving van de bepalingen, vermeld in het eerste lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn.</p>
-
-<p>De ambtenaren, vermeld in het tweede lid, maken een verslag op van hun toezichtsbezoek. Als een kopie van het verslag naar de voorziening gestuurd is, hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.</p>
-
-<p>§ 2. Om de rechtsbescherming van kinderen en jongeren in de jeugdhulp te vrijwaren, organiseert de Vlaamse Regering het volgende met betrekking tot de toegangspoort, de gemandateerde voorzieningen en de sociale dienst gerechtelijke jeugdhulp:<br>
+<p>§ 1. De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 2. Om de rechtsbescherming van kinderen en jongeren in de jeugdhulp te vrijwaren, organiseert de Vlaamse Regering het volgende met betrekking tot de toegangspoort, de gemandateerde voorzieningen en de sociale dienst gerechtelijke jeugdhulp:<br>
 1° een extern toezicht, naast het toezicht als bedoeld in paragraaf 1;<br>
 2° de klachtenbehandeling voor kinderen en jongeren, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van kinderen en jongeren.<br>
 <br>
