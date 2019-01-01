@@ -175,7 +175,7 @@ De   Vlaamse Regering kan, na gemotiveerd advies van het Vlaams Centrum voor Ado
 
 <p>§ 1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de naleving van de bepalingen van dit decreet. Het Steunpunt Adoptie, de diensten voor maatschappelijk onderzoek en de dienst voor binnenlandse adoptie verlenen hun medewerking aan de uitoefening van het toezicht.</p>
 
-<p>§ 2. Het toezicht ter plaatse gebeurt door de personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en wachtlijsten.</p>
+<p>§ 2. ...</p>
 
 <p>§ 3. De Vlaamse Regering kan boekhoudkundige regels vastleggen.</p>
 
