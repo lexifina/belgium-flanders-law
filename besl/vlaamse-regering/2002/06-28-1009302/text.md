@@ -3,15 +3,15 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° wet van 26 maart 1971: de wet van 26 maart 1971 op de bescherming van oppervlaktewateren tegen verontreiniging;<br>
+1° het decreet: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° Compendium voor de monsterneming, meting en analyse van water, afgekort WAC: de bundel met methoden voor het nemen van monsters en het uitvoeren van metingen en analyses, die Europese, internationale, andere genormeerde of in opdracht van de Vlaamse overheid door het referentielaboratorium van het Vlaamse Gewest gevalideerde methoden omvatten, die goedgekeurd zijn bij ministerieel besluit en bij uittreksel bekendgemaakt zijn in het Belgisch Staatsblad.
 
 ### ART. 2.
 
-§ 1. Voor de berekeningsmethode die aangegeven wordt in artikel 35quinquies, § 1, van de wet van 26 maart 1971, moeten de gegevens met betrekking tot het geloosde afvalwater als volgt worden bepaald:<br>
+§ 1. Voor de berekeningsmethode die aangegeven wordt in artikel 4.2.2.3.1 van het decreet, moeten de gegevens met betrekking tot het geloosde afvalwater als volgt worden bepaald:<br>
 1° het in liter uitgedrukte volume van het afvalwater Qd, geloosd in een etmaal tijdens de maand met grootste bedrijvigheid van het jaar dat voorafgaat aan het heffingsjaar, wordt als volgt bepaald:<br>
 a) op basis van meting met behulp van een meetschot, meetgoot of andere debietmeetapparatuur, geïnstalleerd door de heffingsplichtige conform de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit;<br>
-b) ingeval geen meting zoals bedoeld in a) heeft plaatsgevonden in het jaar dat voorafgaat aan het beschouwde heffingsjaar, op basis van het jaarvolume geloosd afvalwater dat bedoeld wordt in artikel 35quinquies, § 1, van de wet van 26 maart 1971, en dat door de heffingsplichtige aangegeven moeten worden:<br>
+b) ingeval geen meting zoals bedoeld in a) heeft plaatsgevonden in het jaar dat voorafgaat aan het beschouwde heffingsjaar, op basis van het jaarvolume geloosd afvalwater dat bedoeld wordt in artikel 4.2.2.3.1 van het decreet, en dat door de heffingsplichtige aangegeven moeten worden:<br>
 Qd = Qj x 1000/W<br>
 <br>
 waarin:<br>
@@ -31,7 +31,7 @@ c) het gehalte aan zware metalen wordt bepaald na ontsluiting van het watermonst
 d) wanneer in eenzelfde jaar meerdere monsternemingen werden uitgevoerd, moet voor elk van de in deze paragraaf beschouwde parameters het rekenkundig gemiddelde van de verschillende bemonsteringsresultaten in aanmerking genomen worden.<br>
 5° als de leidend ambtenaar van de Vlaamse Milieumaatschappij of de door hem gedelegeerde ambtenaar de tijdgebonden monsterneming, vermeld in punt 3°, b), en 4°, b), niet als deskundig aanvaardt, brengt hij de heffingsplichtige daarvan op de hoogte uiterlijk binnen twee maanden na de dag waarop de Maatschappij de meet- en monsteringsresultaten van de monsterneming ontvangt. Na het verstrijken van die termijn wordt de tijdgebonden monsterneming geacht als deskundig te zijn aanvaard.<br>
 <br>
-§ 2. Overeenkomstig artikel 35quinquies, § 4, van de wet van 26 maart 1971, moet elke heffingsplichtige die de toepassing vraagt van de berekeningsmethode bedoeld in artikel 35quinquies, § 1, van de wet van 26 maart 1971 zelf zorgen voor de nodige meet- en bemonsteringsresultaten.
+§ 2. Overeenkomstig artikel 4.2.2.3.3 van het decreet , moet elke heffingsplichtige die de toepassing vraagt van de berekeningsmethode bedoeld in artikel 4.2.2.3.1 van het decreet zelf zorgen voor de nodige meet- en bemonsteringsresultaten.
 
 ### ART. 3.
 
@@ -75,7 +75,7 @@ Alle werkzaamheden die noodzakelijk zijn ter uitvoering van artikel 2, § 1, 1°
 
 ### ART. 5.
 
-§ 1. Behoudens de andersluidende bepalingen in het laatste lid van deze paragraaf is de heffingsplichtige voor de toepassing van artikel 35sexies, § 1 van de wet van 26 maart 1971 onderworpen aan dezelfde verplichtingen als voorzien in artikel 2 en artikel 3 van dit besluit voor de bemonstering en analyse van het geloosde afvalwater.<br>
+§ 1. Behoudens de andersluidende bepalingen in het laatste lid van deze paragraaf is de heffingsplichtige voor de toepassing van artikel 4.2.2.4.1, § 1 van het decreet onderworpen aan dezelfde verplichtingen als voorzien in artikel 2 en artikel 3 van dit besluit voor de bemonstering en analyse van het geloosde afvalwater.<br>
 <br>
 De gegevens met betrekking tot het gebruikte oppervlaktewater moeten per etmaal volledig zijn voor de componenten N1°, N2° en N3°, moeten slaan op de monstername tijdens de maand van de grootste bedrijvigheid en moeten gelijktijdig met de meet- en bemonsteringscampagne van het geloosde afvalwater genomen worden.<br>
 <br>
@@ -93,7 +93,7 @@ De debietmeting, de monsterneming en de analyses die in opdracht van de heffings
 
 ### ART. 7.
 
-§ 1. Voorzover de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit geen beperking vermeldt voor de maximumhoeveelheid koelwater in aantal kubieke meter per jaar, wordt de hoeveelheid koelwater, bedoeld in artikel 35quinquies, § 1, en in artikel 35septies van de wet van 26 maart 1971 als volgt berekend:<br>
+§ 1. Voorzover de lozingsvergunning of omgevingsvergunning voor de exploitatie van de ingedeelde inrichting of activiteit geen beperking vermeldt voor de maximumhoeveelheid koelwater in aantal kubieke meter per jaar, wordt de hoeveelheid koelwater, bedoeld in artikel 4.2.2.3.1 van het decreet, en in artikel 4.2.2.5.1 van het decreet als volgt berekend:<br>
 k = Qk x W<br>
 waarin:<br>
 k: de hoeveelheid koelwater in kubieke meter per jaar;<br>
@@ -106,17 +106,17 @@ Deze debieten moeten gemeten zijn met behulp van meetapparatuur die geïnstallee
 
 ### ART. 8.
 
-&nbsp;§ 1. De aangifte, vermeld in artikel 35octies, § 1, van de wet van 26 maart 1971, wordt elektronisch ingediend via een internetloket dat de Vlaamse Milieumaatschappij ter beschikking stelt. Als de aangifte ingevuld en bezorgd is overeenkomstig de richtlijnen in het elektronische platform, heeft ze voor de toepassing van hoofdstuk IIIbis van de wet van 26 maart 1971 en de uitvoeringsbesluiten ervan dezelfde rechtskracht als een ondertekende aangifte op papier.<br>
+&nbsp;§ 1. De aangifte, vermeld in artikel 4.2.2.3.1 van het decreet, wordt elektronisch ingediend via een internetloket dat de Vlaamse Milieumaatschappij ter beschikking stelt. Als de aangifte ingevuld en bezorgd is overeenkomstig de richtlijnen in het elektronische platform, heeft ze voor de toepassing van hoofdstuk IIIbis van de wet van 26 maart 1971 en de uitvoeringsbesluiten ervan dezelfde rechtskracht als een ondertekende aangifte op papier.<br>
 <br>
-In de elektronische aangifte, vermeld in het eerste lid, worden de identificatiegegevens van de meet- en bemonsteringscampagnes van het afvalwater dat geloosd is in het jaar dat voorafgaat aan het heffingsjaar, opgegeven op straffe van verval van het recht een beroep te kunnen doen op de berekeningsmethode, vermeld in artikel 35quinquies van de voormelde wet. Door de identificatiegegevens op te geven worden de overeenstemmende meet- en bemonsteringsgegevens geacht deel uit te maken van de aangifte.<br>
+In de elektronische aangifte, vermeld in het eerste lid, worden de identificatiegegevens van de meet- en bemonsteringscampagnes van het afvalwater dat geloosd is in het jaar dat voorafgaat aan het heffingsjaar, opgegeven op straffe van verval van het recht een beroep te kunnen doen op de berekeningsmethode, vermeld in artikel 4.2.2.3.1 van het decreet. Door de identificatiegegevens op te geven worden de overeenstemmende meet- en bemonsteringsgegevens geacht deel uit te maken van de aangifte.<br>
 <br>
-§ 2. De in artikel 35octies, § 2, van de wet van 26 maart 1971 bedoelde melding moet gebeuren door middel van een formulier, waarvan het model is vastgesteld in bijlage 2, gevoegd bij dit besluit.<br>
+§ 2. De in artikel 4.2.2.3.1 van het decreet bedoelde melding moet gebeuren door middel van een formulier, waarvan het model is vastgesteld in bijlage 2, gevoegd bij dit besluit.<br>
 <br>
-&nbsp;§ 3. De eis tot het in mindering brengen van de vuilvracht van het gebruikte oppervlaktewater N0, vermeld in artikel 35sexies, § 3, van de wet van 26 maart 1971, wordt samen ingediend met de aangifte, vermeld in paragraaf 1.<br>
+&nbsp;§ 3. De eis tot het in mindering brengen van de vuilvracht van het gebruikte oppervlaktewater N0, vermeld in artikel 4.2.2.4.3 van het decreet, wordt samen ingediend met de aangifte, vermeld in paragraaf 1.<br>
 <br>
 In de aangifte, vermeld in paragraaf 1, worden de identificatiegegevens van de meet- en bemonsteringscampagnes van het afvalwater dat geloosd is in het jaar dat voorafgaat aan het heffingsjaar, alsook van het gebruikte oppervlaktewater opgegeven op straffe van verval van het recht om de vuilvracht van het gebruikte oppervlaktewater in mindering te brengen. Door de identificatiegegevens op te geven worden de overeenstemmende meet- en bemonsteringsgegevens geacht deel uit te maken van de aangifte.<br>
 <br>
-§ 4. De opgepompte en gewonnen hoeveelheid grondwater die niet bestemd is voor de openbare drinkwatervoorziening, waarop conform artikel 28ter van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer een heffing verschuldigd is, wordt opgegeven met de aangifte, vermeld in paragraaf 1.<br>
+§ 4. De opgepompte en gewonnen hoeveelheid grondwater die niet bestemd is voor de openbare drinkwatervoorziening, waarop conform artikelen 4.2.1.2.1 en 4.2.1.2.2 van het decreet een heffing verschuldigd is, wordt opgegeven met de aangifte, vermeld in paragraaf 1.<br>
 <br>
 De aangifte, vermeld in het eerste lid, wordt voor de toepassing van hoofdstuk IVbis van het voormelde decreet en de uitvoeringsbesluiten ervan gelijkgesteld met een ondertekende aangifte op papier.<br>
 <br>
@@ -124,15 +124,15 @@ De aangifte, vermeld in het eerste lid, wordt voor de toepassing van hoofdstuk I
 
 ### ART. 9.
 
-§ 1. Onverminderd de in de wet van 26 maart 1971 en de in §§ 2 en 3 van dit artikel voorbehouden bevoegdheden, wijst het afdelingshoofd Heffingen van de Vlaamse Milieumaatschappij de ambtenaren aan die voor rekening van het fonds voor preventie en sanering inzake leefmilieu en natuur belast zijn met de vestiging, de inning en de invordering van de heffing op de waterverontreiniging bedoeld in artikel 35bis, § 1, van de wet van 26 maart 1971. Deze ambtenaren zijn tevens bevoegd voor controle en onderzoek in verband met de toepassing van de heffing bedoeld in artikel 35novies, § 1, van de wet van 26 maart 1971.<br>
+§ 1. Onverminderd de in de wet van 26 maart 1971 en de in §§ 2 en 3 van dit artikel voorbehouden bevoegdheden, wijst het afdelingshoofd Heffingen van de Vlaamse Milieumaatschappij de ambtenaren aan die voor rekening van het fonds voor preventie en sanering inzake leefmilieu en natuur belast zijn met de vestiging, de inning en de invordering van de heffing op de waterverontreiniging bedoeld in 5.4.1.2., § 1, van het decreet. Deze ambtenaren zijn tevens bevoegd voor controle en onderzoek in verband met de toepassing van de heffing bedoeld in artikel 5.4.1.2, § 1 van het decreet.<br>
 <br>
 Als erom verzocht wordt, maken de in deze paragraaf bedoelde ambtenaren zich bij de uitoefening van hun ambt tegenover derden bekend door een legitimatiekaart als bedoeld in het besluit van de Vlaamse Regering van 10 juli 2008 betreffende de legitimatiekaarten van de personeelsleden van de diensten van de Vlaamse overheid die belast zijn met inspectie- of controlebevoegdheden.<br>
 <br>
-§ 2. De leidend ambtenaar van de Vlaamse Milieumaatschappij is bevoegd om een gedeeltelijke of gehele vrijstelling van nalatigheidsintresten te verlenen conform artikel 35sexiesdecies van de wet van 26 maart 1971. Hij kan deze bevoegdheden delegeren aan een ambtenaar van niveau A van de Vlaamse Milieumaatschappij.<br>
+§ 2. De leidend ambtenaar van de Vlaamse Milieumaatschappij is bevoegd om een gedeeltelijke of gehele vrijstelling van nalatigheidsintresten te verlenen conform artikel 4.2.4.7 van het decreet. Hij kan deze bevoegdheden delegeren aan een ambtenaar van niveau A van de Vlaamse Milieumaatschappij.<br>
 <br>
 § 3. De leidend ambtenaar van de Vlaamse Milieumaatschappij is gemachtigd om:<br>
-1° de kohieren, bedoeld in artikel 35terdecies, § 5, van de wet van 26 maart 1971, uitvoerbaar te verklaren;<br>
-2° de hypothecaire inschrijving te vragen, bedoeld in artikel 35septiesdecies, § 3, van de wet van 26 maart 1971.
+1° de kohieren, bedoeld in artikel 4.2.4.5 van het decreet, uitvoerbaar te verklaren;<br>
+2° de hypothecaire inschrijving te vragen, bedoeld in artikel 4.2.4.8 van het decreet.
 
 ### ART. 10.
 
