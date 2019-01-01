@@ -39,7 +39,7 @@ c) producties die geen Europese producties zijn als vermeld in a), maar die verv
 15° jongere : een persoon vanaf twaalf jaar tot onder de leeftijd van zestien jaar;<br>
 15° /1 journaal : een programma bestaande uit nieuwsberichten waarin de algemene actualiteit van de dag wordt behandeld;<br>
 16° kabelomroepnetwerk : elektronisch communicatienetwerk waardoor signalen van radio-omroep en televisie al dan niet in gecodeerde vorm via elk soort van draad aan derden worden doorgegeven;<br>
-17° kaderdecreet van 18 juli 2003 : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+17° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 18° kind : een persoon onder de leeftijd van twaalf jaar;<br>
 19° kinderprogramma : een programma dat zich voornamelijk richt tot kinderen, wat onder meer kan blijken uit de inhoud, het tijdstip van uitzenden, de vormgeving, de presentatie en de wijze van aankondiging;<br>
 20° lineaire radiodienst : een lineaire auditieve omroepdienst, dat is een door een omroeporganisatie aangeboden omroepdienst voor het gelijktijdig beluisteren van auditieve programma's op basis van een programmaschema;<br>
@@ -291,9 +291,9 @@ Het Rekenhof is belast met de controle van de rekeningen van de VRT die voor 31 
 
 ### ART. 33.
 
-§ 1. Audit Vlaanderen, vermeld in artikel 34 van het kaderdecreet van 18 juli 2003, evalueert de interne controlesystemen van de VRT, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
+§ 1. Audit Vlaanderen, vermeld in artikel III.115 van het Bestuursdecreet, evalueert de interne controlesystemen van de VRT, gaat na of ze adequaat zijn en formuleert aanbevelingen tot verbetering ervan. Ze voert daartoe financiële audits, overeenstemmingsaudits en operationele audits uit en is gemachtigd alle bedrijfsprocessen en activiteiten te onderzoeken.<br>
 <br>
-Audit Vlaanderen is ook bevoegd voor de uitvoering van forensische audits bij de VRT. De vertrouwelijkheid van commerciële en industriële informatie, gewaarborgd volgens artikel 14, 3°, van het decreet van 26 maart 2004 inzake openbaarheid van bestuur, geldt onverkort.<br>
+Audit Vlaanderen is ook bevoegd voor de uitvoering van forensische audits bij de VRT. De vertrouwelijkheid van commerciële en industriële informatie, gewaarborgd volgens artikel II.35, 3°, van het Bestuursdecreet, geldt onverkort.<br>
 <br>
 § 2. Om zijn bevoegdheid te kunnen uitoefenen, heeft Audit Vlaanderen toegang tot alle informatie en documenten van de VRT, ongeacht de drager ervan, en tot alle gebouwen, ruimtes en installaties waar taken van de VRT worden uitgevoerd. Audit Vlaanderen kan aan ieder personeelslid van de VRT de inlichtingen vragen die voor de uitvoering van zijn opdrachten nodig worden geacht. Ieder personeelslid van de VRT is ertoe gehouden zo snel mogelijk en zonder voorafgaande machtiging op een volledige wijze te antwoorden en alle relevante informatie en documenten te verstrekken.<br>
 <br>
@@ -1014,7 +1014,23 @@ De televisieomroeporganisatie van de Vlaamse Gemeenschap en de particuliere line
 
 ### ART. 157.
 
-De niet-lineaire televisieomroeporganisaties promoten, voor zover dat haalbaar is en met passende middelen gebeurt, de vervaardiging van en de toegang tot Europese producties. Een dergelijke promotie kan onder meer betrekking hebben op een financiële bijdrage van de niet-lineaire televisieomroeporganisaties aan de vervaardiging van en de verwerving van rechten op Europese producties, of op het aandeel en/of de prominente aanwezigheid van Europese producties in de door de niet-lineaire televisiedienst aangeboden programmacatalogus.<br /><br />Een aanzienlijk deel van de promotiemiddelen, vermeld in het eerste lid, moet worden besteed aan Nederlandstalige Europese producties.<br /><br />De Vlaamse Regering kan de mogelijke middelen en maatregelen, vermeld in het eerste lid, vastleggen.
+§ 1. De niet-lineaire televisieomroeporganisaties bieden in hun programma-catalogus minstens 30% Europese producties aan waarvan een aanzienlijk deel Nederlandstalige Europese producties zijn. De niet-lineaire televisieomroeporganisaties zorgen voor een prominente plaats van deze Europese producties in hun programmacatalogus.<br>
+<br>
+Het eerste lid is niet van toepassing op niet-lineaire televisieomroep-organisaties met een lage omzet of een klein publiek en is niet van toepassing op kleine en micro-ondernemingen. De Vlaamse Regering bepaalt de criteria van een lage omzet en van een klein publiek.<br>
+<br>
+De Vlaamse Regering kan voor de bepaling van een aanzienlijk deel Nederlandstalige Europese producties zoals bedoeld in het eerste lid quota opleggen.<br>
+<br>
+§ 2. De particuliere niet-lineaire televisieomroeporganisaties nemen deel aan de productie van Vlaamse audiovisuele werken, ofwel onder de vorm van een financiële bijdrage aan de productie of de coproductie van Vlaamse audiovisuele werken, ofwel onder de vorm van een gelijkwaardige financiële bijdrage aan het Vlaams Audiovisueel Fonds vzw, opgericht bij het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds. Deze bijdrage wordt door het Vlaams Audiovisueel Fonds besteed aan Vlaamse, kwalitatieve onafhankelijke coproducties in reeksvorm.<br>
+<br>
+De particuliere niet-lineaire televisieomroeporganisaties die deelnemen aan de productie van Vlaamse audiovisuele werken onder de vorm van een financiële bijdrage aan het Vlaams Audiovisueel Fonds, kunnen rechten verwerven met betrekking tot producties die gerealiseerd worden met die financiële bijdrage. De Vlaamse Regering bepaalt hiervoor de nadere voorwaarden en procedures.<br>
+<br>
+De Vlaamse Regering bepaalt de criteria, de voorwaarden en de procedures voor de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken, met inbegrip van de grondslag, het tarief of het bedrag en eventuele vrijstellingen of verminderingen van de financiële bijdrage.<br>
+<br>
+Het besluit van de Vlaamse Regering strekkende tot de uitvoering van het tweede lid, alsook ieder later besluit van de Vlaamse Regering strekkende tot de wijziging van datzelfde besluit, wordt van rechtswege opgeheven met terugwerkende kracht tot op de datum van de inwerkingtreding ervan als het niet binnen één maand na de goedkeuring door de Vlaamse Regering aan het Vlaams Parlement ter bekrachtiging wordt voorgelegd. Het besluit wordt bekrachtigd bij decreet binnen zes maanden na de goedkeuring ervan. Die periodes worden opgeschort tijdens het parlementaire reces en bij de ontbinding van het parlement.<br>
+<br>
+§ 3. De niet-lineaire televisieorganisaties bezorgen elk jaar voor 31 maart aan de Vlaamse Regulator voor de Media een verslag over de wijze waarop aan de bepalingen van de paragrafen 1 en 2 is voldaan. De Vlaamse Regulator voor de Media maakt die gegevens openbaar.<br>
+<br>
+§ 4. De bepalingen van paragrafen 2 en 3 zijn ook van toepassing op niet-lineaire televisieomroeporganisaties die&nbsp;gevestigd zijn in&nbsp;een lidstaat van de Europese Unie en niet-lineaire televisiediensten aanbieden die gericht zijn op het Nederlandse taalgebied.
 
 ## HOOFDSTUK II. Particuliere lineaire televisiediensten
 
@@ -1446,11 +1462,59 @@ De Vlaamse Regering kan voorwaarden opleggen aan omroeporganisaties en dienstenv
 
 ### ART. 215.
 
-§ 1. De Vlaamse Regulator voor de Media is een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid als vermeld in artikel 13 van het kaderdecreet van 18 juli 2003.<br /><br />De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de Vlaamse Regulator voor de Media behoort.<br /><br />De zetel van de Vlaamse Regulator voor de Media is gevestigd in Brussel.<br /><br />De bepalingen van het kaderdecreet van 18 juli 2003 zijn van toepassing op het agentschap, met uitzondering van artikelen 17, 18, § 2, en artikel 22, § 2, van het kaderdecreet van 18 juli 2003.<br /><br />§ 2. Binnen de Vlaamse Regulator voor de Media bestaan twee kamers :<br />1° een algemene kamer;<br />2° een kamer voor onpartijdigheid en bescherming van minderjarigen.
+§ 1. De Vlaamse Regulator voor de Media is een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid als vermeld in artikel III.7 van het Bestuursdecreet.<br>
+<br>
+De Vlaamse Regering bepaalt tot welk homogeen beleidsdomein de Vlaamse Regulator voor de Media behoort.<br>
+<br>
+De zetel van de Vlaamse Regulator voor de Media is gevestigd in Brussel.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap, met uitzondering van artikel III.9, § 2. Artikel III.13 van het Bestuursdecreet is niet van toepassing op de algemene kamer en de kamer voor onpartijdigheid en bescherming van minderjarigen van de VRM.<br>
+<br>
+§ 2. Binnen de Vlaamse Regulator voor de Media bestaan twee kamers :<br>
+1° een algemene kamer;<br>
+2° een kamer voor onpartijdigheid en bescherming van minderjarigen.
 
 ### ART. 216.
 
-§ 1. De algemene kamer is samengesteld uit vijf leden : twee magistraten,   onder wie de voorzitter, en drie mediadeskundigen.<BR><BR>Personen kunnen   aangesteld worden tot lid van de algemene kamer als ze aan de volgende   voorwaarden voldoen :<BR>1° wat de magistraten betreft : ten minste vijf jaar   het ambt van magistraat in de rechtbanken en hoven of bij de Raad van State   hebben bekleed;<BR>2° wat de mediadeskundigen betreft : ten minste vijf jaar een   wetenschappelijk ambt of onderwijsambt aan een Vlaamse universiteit of aan een   Vlaamse instelling voor hoger onderwijs van het lange type hebben bekleed, of   ten minste vijf jaar beroepservaring in de media hebben.<BR><BR>Om als   voorzitter van de algemene kamer te worden aangesteld, moeten personen ten   minste vijf jaar het ambt van magistraat in de hoven en rechtbanken of bij de   Raad van State hebben bekleed.<BR><BR>Met behoud van de toepassing van de   onverenigbaarheden, vermeld in artikel 21, § 1, van het kaderdecreet van 18 juli   2003, die van toepassing zijn op alle leden van de Vlaamse Regulator voor de   Media, mag een lid van de algemene kamer beroepshalve geen binding hebben met   een media-, advertentie- of reclamebedrijf of -instelling, of met een verdeler   van omroepsignalen, noch economische belangen hebben in die bedrijven of   instellingen.<BR><BR>§ 2. De kamer voor onpartijdigheid en bescherming van   minderjarigen is samengesteld uit negen leden, onder wie de voorzitter, waarvan   vier leden beroepsjournalist zijn.<BR><BR>Personen kunnen aangesteld worden tot   lid van de kamer voor onpartijdigheid en bescherming van minderjarigen als ze   aan de volgende voorwaarden voldoen :<BR>1° ten minste vijf jaar het ambt van   magistraat in de rechtbanken en hoven of bij de Raad van State hebben   bekleed;<BR>2° ten minste vijf jaar een wetenschappelijk ambt of onderwijsambt   aan een Vlaamse universiteit of aan een Vlaamse instelling voor het hoger   onderwijs van het lange type hebben bekleed;<BR>3° ten minste vijf jaar ervaring   hebben als beroepsjournalist.<BR><BR>§ 3. De kamer voor onpartijdigheid en   bescherming van minderjarigen wordt voor de behandeling van klachten over de   toepassing van artikel 42, 44, 45, 72, 5°, en artikel 180, § 6 uitgebreid met de   volgende leden :<BR>1° twee deskundigen met minstens vijf jaar beroepservaring   in de domeinen kinderpsychologie, kinderpsychiatrie of pedagogie;<BR>2° twee   deskundigen vanuit hun betrokkenheid bij de belangen van gezinnen en   kinderen.<BR><BR>Met behoud van de toepassing van de onverenigbaarheden, vermeld   in artikel 21, § 1, van het kaderdecreet van 18 juli 2003, die van toepassing   zijn op alle leden van de Vlaamse Regulator voor de Media, mag een lid van de   kamer voor onpartijdigheid en bescherming van minderjarigen, met uitzondering   van de beroepsjournalisten, geen binding hebben met een media-, advertentie- of   reclamebedrijf of -instelling. De beroepsjournalisten die lid zijn van de kamer   voor onpartijdigheid en bescherming van minderjarigen mogen geen functie of   bestuursmandaat uitoefenen in een omroep, of een bestuursmandaat uitoefenen in   een media-, advertentie- of reclamebedrijf of -instelling.<BR><BR>§ 4. De leden   van de kamers van de Vlaamse Regulator voor de Media worden aangesteld bij   besluit van de Vlaamse Regering voor een hernieuwbare termijn van vijf   jaar.<BR><BR>De Vlaamse Regering gaat over tot vervanging van een lid van een   kamer als dat lid :<BR>1° fysiek of mentaal ongeschikt is;<BR>2° ontslag neemt   of moet nemen ten gevolge van een onverenigbaarheid;<BR>3° vraagt om zijn   mandaat te beëindigen met toepassing van § 5, eerste lid;<BR>4° ontslagen is van   ambtswege met toepassing van § 5, tweede lid;<BR>5° afgezet is met toepassing   van artikel 217.<BR><BR>De voorzitter en de ondervoorzitter van beide kamers   worden aangesteld bij besluit van de Vlaamse Regering.<BR><BR>De Vlaamse   Regering bepaalt het bedrag van de vergoedingen dat aan de leden van de kamers   van de Vlaamse Regulator voor de Media moet worden toegekend. Ze bepaalt hun   vergoedingen voor reis- en verblijfskosten.<BR><BR>§ 5. Als de voorzitter,   ondervoorzitter of een lid van een kamer vraagt om zijn mandaat te beëindigen,   is, mits de Vlaamse Regering akkoord gaat, een opzegging van zes maanden   vereist. Die termijn kan in onderling akkoord verkort worden.<BR><BR>De   voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, nadat   dat lid negen opeenvolgende keren afwezig is geweest.
+§ 1. De algemene kamer is samengesteld uit vijf leden : twee magistraten, onder wie de voorzitter, en drie mediadeskundigen.<br>
+<br>
+Personen kunnen aangesteld worden tot lid van de algemene kamer als ze aan de volgende voorwaarden voldoen :<br>
+1° wat de magistraten betreft : ten minste vijf jaar het ambt van magistraat in de rechtbanken en hoven of bij de Raad van State hebben bekleed;<br>
+2° wat de mediadeskundigen betreft : ten minste vijf jaar een wetenschappelijk ambt of onderwijsambt aan een Vlaamse universiteit of aan een Vlaamse instelling voor hoger onderwijs van het lange type hebben bekleed, of ten minste vijf jaar beroepservaring in de media hebben.<br>
+<br>
+Om als voorzitter van de algemene kamer te worden aangesteld, moeten personen ten minste vijf jaar het ambt van magistraat in de hoven en rechtbanken of bij de Raad van State hebben bekleed.<br>
+<br>
+Met behoud van de toepassing van de onverenigbaarheden, vermeld in artikel III.12, § 1, van het Bestuursdecreet, die van toepassing zijn op alle leden van de Vlaamse Regulator voor de Media, mag een lid van de algemene kamer beroepshalve geen binding hebben met een media-, advertentie- of reclamebedrijf of -instelling, of met een verdeler van omroepsignalen, noch economische belangen hebben in die bedrijven of instellingen.<br>
+<br>
+§ 2. De kamer voor onpartijdigheid en bescherming van minderjarigen is samengesteld uit negen leden, onder wie de voorzitter, waarvan vier leden beroepsjournalist zijn.<br>
+<br>
+Personen kunnen aangesteld worden tot lid van de kamer voor onpartijdigheid en bescherming van minderjarigen als ze aan de volgende voorwaarden voldoen :<br>
+1° ten minste vijf jaar het ambt van magistraat in de rechtbanken en hoven of bij de Raad van State hebben bekleed;<br>
+2° ten minste vijf jaar een wetenschappelijk ambt of onderwijsambt aan een Vlaamse universiteit of aan een Vlaamse instelling voor het hoger onderwijs van het lange type hebben bekleed;<br>
+3° ten minste vijf jaar ervaring hebben als beroepsjournalist.<br>
+<br>
+§ 3. De kamer voor onpartijdigheid en bescherming van minderjarigen wordt voor de behandeling van klachten over de toepassing van artikel 42, 44, 45, 72, 5°, en artikel 180, § 6 uitgebreid met de volgende leden :<br>
+1° twee deskundigen met minstens vijf jaar beroepservaring in de domeinen kinderpsychologie, kinderpsychiatrie of pedagogie;<br>
+2° twee deskundigen vanuit hun betrokkenheid bij de belangen van gezinnen en kinderen.<br>
+<br>
+Met behoud van de toepassing van de onverenigbaarheden, vermeld in artikel III.12, § 1, van het Bestuursdecreet, die van toepassing zijn op alle leden van de Vlaamse Regulator voor de Media, mag een lid van de kamer voor onpartijdigheid en bescherming van minderjarigen, met uitzondering van de beroepsjournalisten, geen binding hebben met een media-, advertentie- of reclamebedrijf of -instelling. De beroepsjournalisten die lid zijn van de kamer voor onpartijdigheid en bescherming van minderjarigen mogen geen functie of bestuursmandaat uitoefenen in een omroep, of een bestuursmandaat uitoefenen in een media-, advertentie- of reclamebedrijf of -instelling.<br>
+<br>
+§ 4. De leden van de kamers van de Vlaamse Regulator voor de Media worden aangesteld bij besluit van de Vlaamse Regering voor een hernieuwbare termijn van vijf jaar.<br>
+<br>
+De Vlaamse Regering gaat over tot vervanging van een lid van een kamer als dat lid :<br>
+1° fysiek of mentaal ongeschikt is;<br>
+2° ontslag neemt of moet nemen ten gevolge van een onverenigbaarheid;<br>
+3° vraagt om zijn mandaat te beëindigen met toepassing van § 5, eerste lid;<br>
+4° ontslagen is van ambtswege met toepassing van § 5, tweede lid;<br>
+5° afgezet is met toepassing van artikel 217.<br>
+<br>
+De voorzitter en de ondervoorzitter van beide kamers worden aangesteld bij besluit van de Vlaamse Regering.<br>
+<br>
+De Vlaamse Regering bepaalt het bedrag van de vergoedingen dat aan de leden van de kamers van de Vlaamse Regulator voor de Media moet worden toegekend. Ze bepaalt hun vergoedingen voor reis- en verblijfskosten.<br>
+<br>
+§ 5. Als de voorzitter, ondervoorzitter of een lid van een kamer vraagt om zijn mandaat te beëindigen, is, mits de Vlaamse Regering akkoord gaat, een opzegging van zes maanden vereist. Die termijn kan in onderling akkoord verkort worden.<br>
+<br>
+De voorzitter van een kamer stelt het ontslag van ambtswege van een lid vast, nadat dat lid negen opeenvolgende keren afwezig is geweest.
 
 ### ART. 217.
 
@@ -1491,7 +1555,7 @@ De kamer voor onpartijdigheid en bescherming van minderjarigen doet daarbij voll
 <br>
 § 4. Een afschrift van elke beslissing van de Vlaamse Regulator voor de Media wordt aan de minister bezorgd.<br>
 <br>
-§ 5. De Vlaamse Regulator voor de Media stelt met toepassing van artikel 15, § 1, 5°, a), van het kaderdecreet van 18 juli 2003 jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
+§ 5. De Vlaamse Regulator voor de Media stelt&nbsp;jaarlijks voor de Vlaamse Regering en het Vlaams Parlement een activiteitenverslag op dat, voor 31 maart van het daaropvolgende kalenderjaar, wordt voorgelegd.<br>
 <br>
 § 6. In het kader van deel IV en deel V werkt de Vlaamse Regulator voor de Media, als dat noodzakelijk is, samen met de bevoegde regulerende instanties voor radio-omroep en voor telecommunicatie van de gemeenschappen, de federale overheid en de andere lidstaten van de Europese Gemeenschap, met de Belgische mededingingsautoriteiten en met de regulerende en toezichthoudende instanties in de overige economische sectoren in België.<br>
 <br>
@@ -1529,7 +1593,16 @@ De raad van bestuur en zijn voorzitter worden aangesteld door de Vlaamse Regerin
 
 ### ART. 226.
 
-Met behoud van de toepassing van artikel 22, § 2, van het kaderdecreet van 18 juli 2003, is de raad van bestuur bevoegd om alle handelingen te verrichten die nodig of dienstig zijn voor de verwezenlijking van het doel van het agentschap. De raad van bestuur heeft evenwel geen enkele bevoegdheid met betrekking tot de beslissingen die genomen worden ter uitvoering van artikel 217, § 2 en § 3, en artikel 218, § 2 en § 3.<br /><br />De raad van bestuur heeft inzonderheid de volgende opdrachten en bevoegdheden :<br />1° de beheersovereenkomst met de minister sluiten;<br />2° de rapportering over de uitvoering van de beheersovereenkomst goedkeuren;<br />3° de begroting opmaken;<br />4° de begrotingskredieten herverdelen;<br />5° de algemene rekening opmaken;<br />6° over de uitvoering van de begroting rapporteren;<br />7° het jaarlijkse activiteitenverslag opmaken, vermeld in artikel 15, § 1, 5°, a), van het kaderdecreet van 18 juli 2003.
+De raad van bestuur is bevoegd om alle handelingen te verrichten die nodig of dienstig zijn voor de verwezenlijking van het doel van het agentschap. De raad van bestuur heeft evenwel geen enkele bevoegdheid met betrekking tot de beslissingen die genomen worden ter uitvoering van artikel 217, § 2 en § 3, en artikel 218, § 2 en § 3.<br>
+<br>
+De raad van bestuur heeft inzonderheid de volgende opdrachten en bevoegdheden :<br>
+1° de beheersovereenkomst met de minister sluiten;<br>
+2° de rapportering over de uitvoering van de beheersovereenkomst goedkeuren;<br>
+3° de begroting opmaken;<br>
+4° de begrotingskredieten herverdelen;<br>
+5° de algemene rekening opmaken;<br>
+6° over de uitvoering van de begroting rapporteren;<br>
+7° het jaarlijkse activiteitenverslag opmaken.
 
 ### ART. 227.
 
@@ -1566,7 +1639,9 @@ Als de administratieve geldboete niet wordt betaald, vaardigt de entiteit die do
 
 ### ART. 231.
 
-Tussen de Vlaamse Regering en de Vlaamse Regulator voor de Media wordt een beheersovereenkomst gesloten volgens de bepalingen van artikelen 14, 15 en 16 van het kaderdecreet.<br /><br />De beheersovereenkomst regelt de wijze van samenwerking met andere entiteiten binnen de Vlaamse administratie en andere overheden.
+Tussen de Vlaamse Regering en de Vlaamse Regulator voor de Media wordt een beheersovereenkomst gesloten.<br>
+<br>
+De beheersovereenkomst regelt de wijze van samenwerking met andere entiteiten binnen de Vlaamse administratie en andere overheden.
 
 ## TITEL VI. FINANCIËLE BEPALINGEN EN PERSONEEL
 
