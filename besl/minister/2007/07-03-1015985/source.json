@@ -2,16 +2,16 @@
   "codex_id": 1015985,
   "title": "Ministerieel besluit van 2007-07-03 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015985/VolledigDocument?datum=2007-07-24",
-  "source_sha256": "f84f453a4e0617bf0d0f5a6170e10810bf5d626ca86ba5a8937676238339c07f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015985/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "8e4c8a5ff7e5ee0a8ef57c495b4e21e929479e74f07557cc765ef1cc206e086f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015985&param=informatie",
-  "as_of": "2007-07-24",
+  "as_of": "2019-01-01",
   "made": "2007-07-03",
   "gazette": "2007-07-24",
   "numac": 2007036176,
   "document_start": "2007-07-24",
   "document_end": "2018-12-31",
-  "in_force": "2007-07-24",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
