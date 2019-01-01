@@ -2,16 +2,16 @@
   "codex_id": 1019266,
   "title": "Ministerieel besluit van 2010-07-13 tot bepaling van de standaard voor de titel van administratief commercieel medewerker binnendienst",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019266/VolledigDocument?datum=2010-08-03",
-  "source_sha256": "7e5c5913df868b1390791e9f4f6630f1684beba8ce72e7d45190cae244703241",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019266/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "297dad90e03f174d579a02c929da1ad869a6404b143215c089e9f99e5682a239",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019266&param=informatie",
-  "as_of": "2010-08-03",
+  "as_of": "2019-01-01",
   "made": "2010-07-13",
   "gazette": "2010-08-03",
   "numac": 2010203951,
   "document_start": "2010-08-03",
   "document_end": "2018-12-31",
-  "in_force": "2010-08-03",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
