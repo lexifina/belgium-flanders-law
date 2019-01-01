@@ -71,7 +71,34 @@ De Vlaamse Regering bepaalt na consultatie van de sociale partners en na advies 
 
 ### ART. 13.
 
-De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn binnen de sectoren muziek en podiumkunsten, worden met ingang van 2005 toegevoegd aan de subsidies die de betrokken organisaties ontvangen op basis van de desbetreffende decreten. Die middelen kunnen enkel worden aangewend voor tewerkstelling.
+De middelen, aangevuld met indexering, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn voor de organisaties, vermeld in bijlage 1, die bij dit decreet is gevoegd, worden vanaf het werkingsjaar 2022 overgeheveld naar de begrotingsartikelen bestemd voor het Kunstendecreet van 13 december 2013 en overeenkomstig de bepalingen van dat decreet toegekend en verantwoord.<br>
+<br>
+In de werkingsjaren 2019, 2020 en 2021 gelden voor de organisaties, vermeld in bijlage 1, de volgende overgangsmaatregelen:<br>
+1° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, worden toegevoegd aan de subsidies die zij voor het geheel van hun werking ontvangen op basis van het Kunstendecreet van 13 december 2013. In afwijking van de artikelen 5 en 6, is de maximale hoogte van die middelen per organisatie vastgelegd zoals vermeld in bijlage 1, die bij dit decreet is gevoegd. Deze middelen worden geïndexeerd met als basis het werkingsjaar 2017;<br>
+2° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, kunnen enkel aangewend worden voor de betaling van de loonkosten van een personeelslid tewerkgesteld op een geregulariseerde DAC-arbeidsplaats binnen de organisatie;<br>
+3° om de aanvullende subsidie voor tewerkstelling voor het betrokken werkingsjaar te kunnen behouden, moet de organisatie gedurende het volledige werkingsjaar de toegekende voltijdse equivalenten (VTE) tewerkgesteld hebben. De voltijdse equivalenten per organisatie zijn vermeld in bijlage 1, die bij dit decreet is gevoegd;<br>
+4° het toezicht op de verantwoording van deze aanvullende subsidie voor tewerkstelling binnen de organisatie gebeurt samen met het toezicht dat geregeld wordt in het Kunstendecreet van 13 december 2013 voor het geheel van haar werking voor dat jaar. De organisatie verleent haar volle medewerking aan de uitoefening van dit toezicht en bezorgt op eenvoudig verzoek van de toezichthouder, alle stukken die betrekking hebben op de verantwoording van de aanvullende subsidie voor tewerkstelling.<br>
+<br>
+De middelen, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn voor Poëziecentrum vzw, zijnde 164.792,57 euro, aangevuld met indexering, worden vanaf het werkingsjaar 2021 overgeheveld naar de dotatie van het Vlaams Fonds voor de Letteren, opgericht bij het decreet van 30 maart 1999.<br>
+<br>
+In de werkingsjaren 2019 en 2020 gelden voor Poëziecentrum vzw de volgende overgangsmaatregelen:<br>
+1° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, worden toegevoegd aan de subsidies die het voor het geheel van zijn werking ontvangt op basis van het decreet van 30 maart 1999 houdende oprichting van een Vlaams Fonds voor de Letteren. In afwijking van de artikelen 5 en 6, is de maximale hoogte van die middelen vastgelegd op 164.792,54 euro (basis werkingsjaar 2017). Deze middelen worden geïndexeerd met als basis het werkingsjaar 2017;<br>
+2° de middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, kunnen enkel aangewend worden voor de betaling van de loonkosten van een personeelslid tewerkgesteld op een geregulariseerde DAC-arbeidsplaats binnen de organisatie;<br>
+3° om de aanvullende subsidie voor tewerkstelling voor het betrokken werkingsjaar te kunnen behouden, moet de organisatie gedurende het volledige werkingsjaar de toegekende voltijdse equivalenten (VTE) tewerkgesteld hebben, zijnde 2,98 VTE;<br>
+4° de Vlaamse Regering bepaalt in het besluit tot toekenning van de subsidie de nadere voorwaarden voor het toezicht op de verantwoording van deze aanvullende subsidie voor tewerkstelling binnen de organisatie. De organisatie verleent haar volle medewerking aan de uitoefening van dit toezicht en bezorgt op eenvoudig verzoek van de toezichthouder, alle stukken die betrekking hebben op de verantwoording van de aanvullende subsidie voor tewerkstelling
+
+### ART 13/1.
+
+De middelen, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn voor de organisaties, vermeld in bijlage 2, die bij dit decreet is gevoegd, worden vanaf het werkingsjaar 2022 overgeheveld naar de begrotingsartikelen bestemd voor het Kunstendecreet van 13 december 2013 en overeenkomstig de bepalingen van dat decreet toegekend en verantwoord.<br>
+<br>
+Voor de werkingsjaren 2019, 2020 en 2021 gelden de volgende overgangsmaatregelen:<br>
+1° bij de beëindiging van de arbeidsovereenkomst vanaf 1 juni 2019 van een of meer geregulariseerde DAC-werknemers, zoals door ontslag door de werkgever of door de werknemer, door pensionering of door overlijden, verliezen de organisaties, bedoeld in het eerste lid, definitief het recht op de middelen, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn;<br>
+2° de berekening van de aanvullende subsidie voor tewerkstelling voor het betrokken werkingsjaar gebeurt op basis van de werkelijke tewerkstelling van de werknemers in de geregulariseerde DAC-projecten, de verplichte loonkosten inclusief indexeringen. Het maximaal toegestane aantal tewerkgestelde DAC'ers is vermeld in bijlage 2, die bij dit decreet is gevoegd;<br>
+3° de middelen, die voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, kunnen enkel aangewend worden voor de betaling van de loonkosten van een personeelslid tewerkgesteld op een geregulariseerde DAC-arbeidsplaats binnen de organisatie.<br>
+<br>
+Bij ontslag van een geregulariseerde DAC-werknemer door een organisatie als bedoeld in het eerste lid, wordt de volledige opzegperiode, te berekenen vanaf 1 juni 2019, gesubsidieerd indien de organisatie de DAC-werknemer uiterlijk voor 1 juni 2019 in opzeg plaatst. Indien de organisatie de geregulariseerde DAC-werknemer vanaf 1 juni 2019 in opzeg plaatst, stopt de DAC-subsidiëring ten laatste op 31 december 2021.<br>
+<br>
+De middelen, die in de werkingsjaren 2019, 2020 en 2021, voor de aanvullende subsidie voor tewerkstelling beschikbaar zijn, en vrijkomen ingevolge de maatregelen, vermeld in het tweede en derde lid, worden aangewend voor het Kunstendecreet van 13 december 2013.
 
 ## AFDELING 2 SPECIFIEKE BEPALINGEN VOOR DE AANVULLENDE TEWERKSTELLING VOOR [... (opgeh. decr. 22 december 2017, art. 12, I: 1 januari 2020)] CULTUURBELEID
 
@@ -124,3 +151,223 @@ De concrete regelen die in aanmerking moeten worden genomen,worden bepaald per m
 ### ART. 18.
 
 De Vlaamse regering bepaalt de datum waarop dit decreet in werking treedt.<br /><br />(Het decreet treedt in werking op 1 september 2005. Zie B.V.R. 14 oktober 2005, art. 5, B.S., 25 november 2005)
+
+### BIJLAGE 1
+
+Bijlage 1 bij het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Organisatie</td>
+			<td>Ondernemingsnummer</td>
+			<td>Verplicht te behouden VTE per werkingsjaar 2019-2020-2021 (basis 2017)</td>
+			<td>Subsidie per werkingsjaar 2019-2020-2021 in euro (basis 2017)</td>
+		</tr>
+		<tr>
+			<td>Ancienne Belgique vzw</td>
+			<td>430973770</td>
+			<td>6,00</td>
+			<td>192.556,90</td>
+		</tr>
+		<tr>
+			<td>B-Classic Festival van Vlaanderen vzw</td>
+			<td>410775895</td>
+			<td>1,00</td>
+			<td>45.550,11</td>
+		</tr>
+		<tr>
+			<td>Cultuur Animatiecentrum Beursschouwburg vzw</td>
+			<td>414042520</td>
+			<td>1,00</td>
+			<td>30.439,76</td>
+		</tr>
+		<tr>
+			<td>De Casino vzw</td>
+			<td>455955725</td>
+			<td>5,00</td>
+			<td>155.244,04</td>
+		</tr>
+		<tr>
+			<td>Democrazy vzw</td>
+			<td>422076791</td>
+			<td>3,50</td>
+			<td>89.291,92</td>
+		</tr>
+		<tr>
+			<td>N9/Driewerf Hoera vzw</td>
+			<td>419303977</td>
+			<td>7,50</td>
+			<td>210.866,06</td>
+		</tr>
+		<tr>
+			<td>Het Gevolg vzw</td>
+			<td>431113134</td>
+			<td>2,50</td>
+			<td>63.790,43</td>
+		</tr>
+		<tr>
+			<td>KAAP vzw (voorheen vzw De Werf)</td>
+			<td>432510033</td>
+			<td>2,00</td>
+			<td>63.545,96</td>
+		</tr>
+		<tr>
+			<td>Monty vzw</td>
+			<td>425676679</td>
+			<td>3,00</td>
+			<td>80.214,79</td>
+		</tr>
+		<tr>
+			<td>Musica vzw</td>
+			<td>418205602</td>
+			<td>2,00</td>
+			<td>61.908,22</td>
+		</tr>
+		<tr>
+			<td>VictoriaNieuwpoort vzw (CAMPO VZW)</td>
+			<td>424376582</td>
+			<td>4,00</td>
+			<td>124.444,82</td>
+		</tr>
+		<tr>
+			<td>NTGent Stichting van Openbare Nut</td>
+			<td>410353154</td>
+			<td>9,00</td>
+			<td>235.188,20</td>
+		</tr>
+		<tr>
+			<td>Sfinks Animatie vzw</td>
+			<td>423240692</td>
+			<td>4,00</td>
+			<td>153.225,69</td>
+		</tr>
+		<tr>
+			<td>Speelteater-Kopergietery vzw</td>
+			<td>450696840</td>
+			<td>3,00</td>
+			<td>88.755,52</td>
+		</tr>
+		<tr>
+			<td>STUK Kunstencentrum vzw</td>
+			<td>411973450</td>
+			<td>2,50</td>
+			<td>73.053,72</td>
+		</tr>
+		<tr>
+			<td>'t Arsenaal vzw - Mechels Miniatuur Teater</td>
+			<td>406580745</td>
+			<td>11,14</td>
+			<td>260.988,10</td>
+		</tr>
+		<tr>
+			<td>Theater Malpertuis vzw</td>
+			<td>412857041</td>
+			<td>2,50</td>
+			<td>70.434,68</td>
+		</tr>
+		<tr>
+			<td>Victoria vzw</td>
+			<td>415522660</td>
+			<td>3,00</td>
+			<td>95.348,11</td>
+		</tr>
+		<tr>
+			<td>Toneelproducties De Tijd vzw</td>
+			<td>432954748</td>
+			<td>2,90</td>
+			<td>101.304,48</td>
+		</tr>
+		<tr>
+			<td>Vereniging voor Culturele Informatie en Actueel Prentenkabinet in Limburg vzw (CIAP vzw)</td>
+			<td>415920855</td>
+			<td>1,00</td>
+			<td>46.875,36</td>
+		</tr>
+		<tr>
+			<td>WP Zimmer vzw</td>
+			<td>428652502</td>
+			<td>1,00</td>
+			<td>29.543,01</td>
+		</tr>
+	</tbody>
+</table>
+
+### BIJLAGE 2
+
+Bijlage 2 bij het decreet van 7 mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele sector.<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Organisatie</td>
+			<td>Ondernemingsnummer</td>
+			<td>maximaal toegestane aantal voltijds tewerkgestelde DAC'ers</td>
+			<td>Raming DAC-subsidie 2018 (in euro)</td>
+		</tr>
+		<tr>
+			<td>ARIOSO PRODUCTIES</td>
+			<td>423573660</td>
+			<td>1 VTE</td>
+			<td>41.868,45</td>
+		</tr>
+		<tr>
+			<td>Centrum voor Muziekinstrumentenbouw</td>
+			<td>418719702</td>
+			<td>3 VTE</td>
+			<td>188.553,60</td>
+		</tr>
+		<tr>
+			<td>De Waaier</td>
+			<td>428963791</td>
+			<td>1 VTE</td>
+			<td>52.135,65</td>
+		</tr>
+		<tr>
+			<td>Fakkelteater</td>
+			<td>407723365</td>
+			<td>4 VTE</td>
+			<td>178.604,45</td>
+		</tr>
+		<tr>
+			<td>Noordteater</td>
+			<td>415365480</td>
+			<td>2 VTE</td>
+			<td>70.277,00</td>
+		</tr>
+		<tr>
+			<td>Sint-Lukasgalerie Brussel</td>
+			<td>421418379</td>
+			<td>4 VTE</td>
+			<td>253.908,60</td>
+		</tr>
+		<tr>
+			<td>Paljas Producties</td>
+			<td>424087760</td>
+			<td>3 VTE</td>
+			<td>132.937,50</td>
+		</tr>
+		<tr>
+			<td>Straat- en Bewegingstheater TEATER EXCES</td>
+			<td>415944215</td>
+			<td>3 VTE</td>
+			<td>127.961,00</td>
+		</tr>
+		<tr>
+			<td>THEATRE TINNENPOT KUNSTENCENTRUM VZW</td>
+			<td>851882110</td>
+			<td>4.50 VTE</td>
+			<td>167.267,90</td>
+		</tr>
+		<tr>
+			<td>Jeugd en Muziek Brussel</td>
+			<td>413383316</td>
+			<td>1 VTE</td>
+			<td>36.811,36</td>
+		</tr>
+		<tr>
+			<td>Stichting Logos</td>
+		</tr>
+	</tbody>
+</table>
