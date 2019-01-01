@@ -406,6 +406,34 @@ Aan artikel 11, derde lid, van het decreet van 17 juni 2016 houdende de normen v
 
 ## Onderafdeling 16 Wijzigingen van het decreet van 22 december 2017 over het lokaal bestuur
 
+### ART 50.
+
+Aan artikel 29, § 1, eerste lid, van het decreet van 22 december 2017 over het lokaal bestuur wordt de zinsnede ", onder voorbehoud van de toepassing van artikel 12, lid 5, en artikel 15, lid 3, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)" toegevoegd.<br>
+&nbsp;
+
+### ART 51.
+
+Aan artikel 75 van hetzelfde decreet wordt de zinsnede ", onder voorbehoud van de toepassing van artikel 12, lid 5, en 15, lid 3, van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)" toegevoegd.
+
+### ART 52.
+
+&nbsp;In artikel 223 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br>
+1° aan het derde lid wordt de volgende zin toegevoegd :<br>
+"Met toepassing van artikel 23, lid 1, i), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) heeft de persoon, op wie de rapportering betrekking heeft, geen toegang tot die verklaringen, behalve met toestemming van degene die de onregelmatigheid heeft gerapporteerd.";<br>
+2° er worden een vierde tot en met een negende lid toegevoegd, die luiden als volgt :<br>
+"Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kan Audit Vlaanderen beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan wordt aan de voorwaarden, vermeld in het vijfde tot en met het negende lid.<br>
+<br>
+De mogelijkheid, vermeld in het vierde lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van Audit Vlaanderen, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+Audit Vlaanderen moet de beslissing, vermeld in het vierde lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het vierde lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag Audit Vlaanderen op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan Audit Vlaanderen heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het vierde lid, tijdens de periode, vermeld in het vijfde lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijst Audit Vlaanderen hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.".<br>
+&nbsp;
+
 ## Afdeling 2 Wijzigingen van de regelgeving van het beleidsdomein Financiën en Begroting
 
 ## Onderafdeling 1 Wijzigingen van het decreet van 21 juni 2013 betreffende de administratieve samenwerking op het gebied van belastingen
@@ -778,6 +806,24 @@ In artikel 32, tweede lid, van hetzelfde decreet, wordt punt 2° vervangen door 
 &nbsp;
 
 ## Onderafdeling 5 Wijzigingen van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid
+
+### ART 92.
+
+In artikel 5 van het decreet van 19 januari 2018 houdende het overheidstoezicht in het kader van het gezondheids- en welzijnsbeleid worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 2 wordt het tweede lid opgeheven;<br>
+2° er wordt een paragraaf 2/1 ingevoegd, die luidt als volgt :<br>
+" § 2/1. Met toepassing van artikel 23, lid 1, e) en h), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de inspecteurs beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon als voldaan wordt aan de voorwaarden, vermeld in het tweede tot en met het zesde lid.<br>
+<br>
+De mogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de voormelde inspecteurs, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De voormelde inspecteurs moeten de beslissing, vermeld in het eerste lid, in voorkomend geval rechtvaardigen op verzoek van de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de voormelde inspecteurs op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de inspecteurs heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de voormelde inspecteurs hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.".<br>
+&nbsp;
 
 ## Afdeling 7 Wijzigingen van de regelgeving van het beleidsdomein Welzijn, Volksgezondheid en Gezin, wat betreft het agentschap Zorg en Gezondheid
 

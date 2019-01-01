@@ -2,16 +2,16 @@
   "codex_id": 1029470,
   "title": "Decreet van 2018-06-08 houdende de aanpassing van de decreten aan de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029470/VolledigDocument?datum=2018-12-03",
-  "source_sha256": "c35eac4f74a33ea00d95958bc7a822ef273441a3d1225b2479641b7b0a3ab67c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029470/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "e9a3703570d97caa736c2bc00c6359570a8489e2d26099bc4c40a961fa78e8ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029470&param=informatie",
-  "as_of": "2018-12-03",
+  "as_of": "2019-01-01",
   "made": "2018-06-08",
   "gazette": "2018-06-26",
   "numac": 2018012874,
   "document_start": "2018-05-25",
   "document_end": null,
-  "in_force": "2018-12-03",
-  "article_versions": 161,
-  "record_form": "consolidated version as in force on 2018-12-03; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 165,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
