@@ -8,7 +8,13 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, zoals bedoeld in artikel 2 van het decreet van 20 maart 1984 houdende de oprichting van de Vlaamse Dienst voor Arbeidsbemiddeling en artikel 2 van het decreet van 20 maart 1984 houdende uitbreiding van bevoegdheden van de Vlaamse Dienst voor Arbeidsbemiddeling;<br /><br />2° T-Groep: de naamloze vennootschap die overeenkomstig artikel 3 van dit decreet kan worden opgericht;<br /><br />3° Werkholding: de naamloze vennootschap met sociaal oogmerk die overeenkomstig artikel 7 van dit decreet kan worden opgericht;<br /><br />4° Minister: de Vlaamse minister die de Tewerkstelling onder zijn bevoegdheid heeft;<br /><br />5° het Wetboek van vennootschappen: de wet van 7 mei 1999 houdende het Wetboek van vennootschappen;<br /><br />[6° het kaderdecreet: het kaderdecreet bestuurlijk beleid van 18 juli 2003.  <span class="reference">(ing. decr. 19 maart 2004, art. 2, I: 1 april 2006. Zie B.V.R. 31 maart 2006, B.S., 12 mei 2006)</span> ]
+In dit decreet wordt verstaan onder:<br>
+1° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, zoals bedoeld in artikel 2 van het decreet van 20 maart 1984 houdende de oprichting van de Vlaamse Dienst voor Arbeidsbemiddeling en artikel 2 van het decreet van 20 maart 1984 houdende uitbreiding van bevoegdheden van de Vlaamse Dienst voor Arbeidsbemiddeling;<br>
+2° T-Groep: de naamloze vennootschap die overeenkomstig artikel 3 van dit decreet kan worden opgericht;<br>
+3° Werkholding: de naamloze vennootschap met sociaal oogmerk die overeenkomstig artikel 7 van dit decreet kan worden opgericht;<br>
+4° Minister: de Vlaamse minister die de Tewerkstelling onder zijn bevoegdheid heeft;<br>
+5° het Wetboek van vennootschappen: de wet van 7 mei 1999 houdende het Wetboek van vennootschappen;<br>
+6° ...
 
 ## HOOFDSTUK II T-GROEP
 
