@@ -35,7 +35,14 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de VDAB : de 
 
 ### ART. 4.
 
-Voor elke niet-werkende werkzoekende wordt een maximale inspanning geleverd in functie van passend werk in het normaal economisch circuit.<br /><br />De VDAB is, in samenspraak met de GTB, verantwoordelijk voor het organiseren van overleg op regionaal niveau over het bereik van niet-werkende werkzoekenden met een arbeidshandicap en voor het maken van afspraken over het aanbod aan niet-werkende werkzoekenden met een arbeidshandicap op vlak van trajectbepaling, trajectbegeleiding en trajectuitvoering, zowel kwantitatief als kwalitatief.<br /><br />De niet-werkende werkzoekenden die een beroep doen op een GTB, een GA of een GOB, hebben de rechten vermeld in het decreet van 30 april 2004 houdende het Handvest van de Werkzoekende. Werkzoekenden die menen in deze rechten te zijn geschaad, kunnen klacht indienen op basis van het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen.<br /><br />De niet-werkende werkzoekenden die een beroep doen op een GOB, hebben recht op dezelfde voordelen als vermeld in de artikelen 95, § 1 en 101 van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br /><br />
+Voor elke niet-werkende werkzoekende wordt een maximale inspanning geleverd in functie van passend werk in het normaal economisch circuit.<br>
+<br>
+De VDAB is, in samenspraak met de GTB, verantwoordelijk voor het organiseren van overleg op regionaal niveau over het bereik van niet-werkende werkzoekenden met een arbeidshandicap en voor het maken van afspraken over het aanbod aan niet-werkende werkzoekenden met een arbeidshandicap op vlak van trajectbepaling, trajectbegeleiding en trajectuitvoering, zowel kwantitatief als kwalitatief.<br>
+<br>
+De niet-werkende werkzoekenden die een beroep doen op een GTB, een GA of een GOB, hebben de rechten vermeld in het decreet van 30 april 2004 houdende het Handvest van de Werkzoekende. Werkzoekenden die menen in deze rechten te zijn geschaad, kunnen klacht indienen op basis van titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018.<br>
+<br>
+De niet-werkende werkzoekenden die een beroep doen op een GOB, hebben recht op dezelfde voordelen als vermeld in de artikelen 95, § 1 en 101 van het besluit van de Vlaamse Regering van 21 december 1988 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
+&nbsp;
 
 ### ART. 5.
 
