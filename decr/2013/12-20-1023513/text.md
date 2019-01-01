@@ -130,7 +130,7 @@ In artikel 12, § 1, derde lid, van hetzelfde decreet, gewijzigd bij de   decret
 
 ### ART. 22.
 
-In afwijking van de bepalingen van de domaniale wet van 31 mei 1923   betreffende de vervreemding van onroerende domeingoederen, het laatst gewijzigd   bij de wet van 27 december 2006 en van overeenkomstige toepassing verklaard op   de Vlaamse Gemeenschap en het Vlaamse Gewest bij artikel 22 van het decreet van   20 december 1989 houdende bepalingen tot uitvoering van de begroting van de   Vlaamse Gemeenschap, is de Vlaamse Regering ertoe gemachtigd het perceel gelegen   te Oostende, 2de afdeling, sectie D, nummer 72/A/3 met een oppervlakte volgens   meting van 20 are 7 centiare en het perceel gelegen te Oostende, 2de afdeling,   sectie D, zonder nummer met een oppervlakte volgens meting van 46 are 34   centiare te verkopen aan de NMBS.
+...
 
 ## HOOFDSTUK 11 Energie
 
