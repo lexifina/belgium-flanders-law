@@ -70,7 +70,7 @@ Bij de definitieve sluiting van het Brownfieldconvenant spreekt de Vlaamse Reger
 <br>
 § 5. Een definitief gesloten Brownfieldconvenant is te allen tijde raadpleegbaar op het gemeentehuis van de gemeenten waarbinnen het betrokken Brownfieldproject wordt georganiseerd.<br>
 <br>
-De convenantspartijen die bestuursinstanties zijn in de zin van artikel 3, 1°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, maken afspraken omtrent de wijze waarop zij met betrekking tot het Brownfieldconvenant gezamenlijk zullen voldoen aan de verplichtingen op het vlak van de actieve openbaarheid van bestuur.<br>
+De convenantspartijen die behoren tot de Vlaamse overheid of de lokale overheden of die instellingen met een publieke taak of milieu-instanties zijn in de zin van artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018, maken afspraken omtrent de wijze waarop zij met betrekking tot het Brownfieldconvenant gezamenlijk zullen voldoen aan hun verplichtingen op het vlak van overheidscommunicatie ingevolge artikel II.2 van het Bestuursdecreet van 7 december 2018.<br>
 <br>
 § 6. De Vlaamse Regering kan nadere regelen vastleggen omtrent het verloop van de in dit artikel bedoelde procedure.
 
