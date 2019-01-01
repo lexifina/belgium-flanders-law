@@ -2,16 +2,16 @@
   "codex_id": 1019615,
   "title": "Ministerieel besluit van 2010-10-05 tot bepaling van de standaard voor de titel van GIS-specialist",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019615/VolledigDocument?datum=2010-10-26",
-  "source_sha256": "5e365243b76f02e4b65b5f059845a229030b01eec48fd188ddebae81389368fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019615/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "0db7b5d3aa64bd02a81b2be383d26b596d60eb2c621a339bdcdcecc9d33e0857",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019615&param=informatie",
-  "as_of": "2010-10-26",
+  "as_of": "2019-01-01",
   "made": "2010-10-05",
   "gazette": "2010-10-26",
   "numac": 2010205354,
   "document_start": "2010-10-26",
   "document_end": "2018-12-31",
-  "in_force": "2010-10-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-10-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
