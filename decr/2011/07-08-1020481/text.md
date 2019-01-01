@@ -8,7 +8,17 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder :<BR>1°   Algemenebepalingenwet : de wet van 16 mei 2003 tot vaststelling van de algemene   bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor   de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie   van de controle door het Rekenhof;<BR>2° vorderingen : vastgestelde rechten ten   bate als vermeld in artikel 4, eerste lid, 1°, van de   Algemenebepalingenwet;<BR>3° vastleggingskrediet : krediet tot beloop waarvan   bedragen tijdens het begrotingsjaar kunnen worden vastgelegd als vermeld in   artikel 4, eerste lid, 2°, a), van de Algemenebepalingenwet;<BR>4°   vereffeningskrediet : krediet tot beloop waarvan bedragen tijdens het   begrotingsjaar kunnen worden vereffend als vermeld in artikel 4, eerste lid, 2°,   b), van de Algemenebepalingenwet;<BR>5° kaderdecreet : het kaderdecreet   Bestuurlijk Beleid van 18 juli 2003;<BR>6° programma : een verzameling van   kredieten die betrekking hebben op dezelfde doelstelling;<BR>7° programma voor   beleidskrediet : een programma dat betrekking heeft op de kredieten voor de   externe werking van de Vlaamse overheid;<BR>8° apparaatsprogramma : een   specifiek programma dat betrekking heeft op de interne werking van de Vlaamse   overheid. Dat programma kan personeels-, werkings- en investeringskredieten   omvatten;<BR>9° Vlaamse overheid : het geheel van de overheden, vermeld in   artikel 4, § 1;<BR>10° adviescommissie: de Vlaamse Adviescommissie   Boekhoudkundige Normen.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° Algemenebepalingenwet : de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof;<br>
+2° vorderingen : vastgestelde rechten ten bate als vermeld in artikel 4, eerste lid, 1°, van de Algemenebepalingenwet;<br>
+3° vastleggingskrediet : krediet tot beloop waarvan bedragen tijdens het begrotingsjaar kunnen worden vastgelegd als vermeld in artikel 4, eerste lid, 2°, a), van de Algemenebepalingenwet;<br>
+4° vereffeningskrediet : krediet tot beloop waarvan bedragen tijdens het begrotingsjaar kunnen worden vereffend als vermeld in artikel 4, eerste lid, 2°, b), van de Algemenebepalingenwet;<br>
+5° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+6° programma : een verzameling van kredieten die betrekking hebben op dezelfde doelstelling;<br>
+7° programma voor beleidskrediet : een programma dat betrekking heeft op de kredieten voor de externe werking van de Vlaamse overheid;<br>
+8° apparaatsprogramma : een specifiek programma dat betrekking heeft op de interne werking van de Vlaamse overheid. Dat programma kan personeels-, werkings- en investeringskredieten omvatten;<br>
+9° Vlaamse overheid : het geheel van de overheden, vermeld in artikel 4, § 1;<br>
+10° adviescommissie: de Vlaamse Adviescommissie Boekhoudkundige Normen.
 
 ### ART. 3.
 
@@ -55,6 +65,7 @@ b) extern verzelfstandigde agentschappen naar publiek recht:<br>
 17) Vlaamse Vervoermaatschappij - De Lijn;<br>
 18) Waterwegen en Zeekanaal NV;<br>
 19) Agentschap Plantentuin Meise;<br>
+&nbsp;- Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid.<br>
 <br>
 c) Vlaamse openbare instellingen van het type A:<br>
 1) Fonds Flankerend Economisch Beleid - Hermes;<br>
@@ -136,7 +147,15 @@ Met de jaarlijkse begroting en de aanpassingen hieraan : 1° worden de ontvangst
 
 ### ART. 11.
 
-§ 1. De jaarlijkse begroting wordt onderverdeeld overeenkomstig de homogene beleidsdomeinen, vermeld in artikel 2 van het kaderdecreet en de daarmee samengaande organisatievorm, vermeld in artikel 3 van het kaderdecreet.<br /><br />§ 2. Per organisatievorm wordt in de jaarlijkse begroting een apparaatsprogramma voorzien en in een of meer programma's voor de beleidskredieten.<br /><br />§ 3. Als verschillende organisatievormen betrokken zijn bij de beleidsuitvoering van een programma, wordt voor ieder programma een samenvattende tabel opgesteld waarbij de bedragen per organisatievorm worden opgeteld.<br /><br />De begroting wordt goedgekeurd op het niveau van het totaal van de programmatabel over de grenzen van de organisatievorm heen.<br /><br />§ 4. De begrotingen van de diensten met afzonderlijk beheer maken deel uit van de begroting en worden achteraan toegevoegd. Er wordt een eenduidig verband gelegd tussen de ontvangsten en de uitgavenkredieten van de begrotingen van de diensten met afzonderlijk beheer enerzijds en de beleidsdomeinen, de organisatievormen en de in § 2 bedoelde programma's anderzijds.
+§ 1. De jaarlijkse begroting wordt onderverdeeld overeenkomstig de homogene beleidsdomeinen, vermeld in&nbsp;artikel III.1, eerste lid, van het Bestuursdecreet&nbsp;en de daarmee samengaande organisatievorm, vermeld in artikel III.1, tweede lid, van het Bestuurdecreet.<br>
+<br>
+§ 2. Per organisatievorm wordt in de jaarlijkse begroting een apparaatsprogramma voorzien en in een of meer programma's voor de beleidskredieten.<br>
+<br>
+§ 3. Als verschillende organisatievormen betrokken zijn bij de beleidsuitvoering van een programma, wordt voor ieder programma een samenvattende tabel opgesteld waarbij de bedragen per organisatievorm worden opgeteld.<br>
+<br>
+De begroting wordt goedgekeurd op het niveau van het totaal van de programmatabel over de grenzen van de organisatievorm heen.<br>
+<br>
+§ 4. De begrotingen van de diensten met afzonderlijk beheer maken deel uit van de begroting en worden achteraan toegevoegd. Er wordt een eenduidig verband gelegd tussen de ontvangsten en de uitgavenkredieten van de begrotingen van de diensten met afzonderlijk beheer enerzijds en de beleidsdomeinen, de organisatievormen en de in § 2 bedoelde programma's anderzijds.
 
 ### ART. 12.
 
@@ -258,7 +277,12 @@ De Vlaamse Regering houdt toezicht op de uitvoering van de begroting.<br /><br /
 
 ### ART. 34.
 
-De financiële afhandeling van dossiers is onderworpen aan de interne controle, vermeld in artikel 33 van het kaderdecreet.<br /><br />Bij de inrichting van de processen voor de financiële afhandeling van dossiers wordt ten minste een functiescheiding ingesteld tussen :<br />1° de inhoudelijke afhandeling van het dossier;<br />2° de thesauriële afhandeling. Die omvat uitsluitend het in opdracht uitvoeren van inningen en betalingen;<br />3° de boekhoudkundige verwerking.
+De financiële afhandeling van dossiers is onderworpen aan de organisatiebeheersing, vermeld in artikel III.114 van het Bestuursdecreet.<br>
+<br>
+Bij de inrichting van de processen voor de financiële afhandeling van dossiers wordt ten minste een functiescheiding ingesteld tussen :<br>
+1° de inhoudelijke afhandeling van het dossier;<br>
+2° de thesauriële afhandeling. Die omvat uitsluitend het in opdracht uitvoeren van inningen en betalingen;<br>
+3° de boekhoudkundige verwerking.
 
 ### ART. 35.
 
