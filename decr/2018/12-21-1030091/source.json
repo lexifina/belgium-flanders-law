@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030091,
+  "title": "Decreet van 2018-12-21 houdende wijziging van het decreet basisonderwijs van 25 februari 1997 en de Codex Secundair Onderwijs van 17 december 2010, wat de termijnen van de aanmeldingsprocedure betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030091/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "a620d941f4872493b62400de0ba148eab8320d9e5aaab3773046a53d47814ec1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030091&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-12-21",
+  "gazette": "2019-01-11",
+  "numac": 2019010023,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
