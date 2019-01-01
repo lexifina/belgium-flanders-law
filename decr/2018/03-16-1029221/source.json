@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029221,
+  "title": "Decreet van 2018-03-16 tot wijziging en optimalisatie van diverse bepalingen van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029221/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c69fb29d209cfe60e199e85ad7d84e918b0fb84aa8032b5dad8e882fc6094b9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029221&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2018-03-16",
+  "gazette": "2018-04-11",
+  "numac": 2018011669,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
