@@ -129,6 +129,20 @@ De   bijstandsorganisaties hebben een collectieve opdracht, zowel voor de   budg
 
 <P>Binnen   de perken van de daarvoor op de begroting vastgelegde kredieten, kent het   agentschap aan vergunde bijstandsorganisaties een jaarlijkse basissubsidie toe   om de collectieve opdracht, vermeld in artikel 10, uit te voeren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   basissubsidie bedraagt minimaal 40.000 euro. Voor bijstandsorganisaties die   volgens de rapportering, vermeld in artikel 14, meer dan vijfhonderd leden   tellen bedraagt de basissubsidie 90.000 euro. Voor bijstandsorganisaties die   volgens de rapportering, vermeld in artikel 10, minder dan vijfhonderd leden   tellen, wordt de basissubsidie berekend volgens de formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Aantal   leden gedeeld door vijfhonderd vermenigvuldigd met 90.000 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Per   aangesloten budgethouder, zoals vastgesteld in de rapportering, vermeld in   artikel 14, kent het agentschap een subsidie van 170 euro toe.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   subsidies, vermeld in het tweede en derde lid, worden jaarlijks voor 1 april van   het kalenderjaar waarop ze betrekking hebben, uitbetaald.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
 
+### ART 16/1.
+
+Het gedeelte van de toegekende subsidies, vermeld in artikel 16, vijfde lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de bijstandsorganisatie niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
+
 ### ART. 17.
 
 &nbsp;De bedragen, vermeld in artikel 16,   worden vanaf 1 januari 2016 jaarlijks aangepast, rekening houdend met het   indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk   besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1999 tot   vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens   de formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">(basisbedrag   x G-index december 20..)/G-index december 2015
