@@ -72,7 +72,11 @@ Het beslissingscomité bij het Hermesfonds kan beslissen de steun niet toe   te 
 
 ### ART. 14.
 
-Het beslissingscomité bij het Hermesfonds zal bij zijn besluitvorming   inzake steuntoekenning de volgende beoordelingsdimensies in zijn overweging   meenemen:<BR>1° de wetenschappelijk-technologische kwaliteit van het   projectvoorstel, bedoeld in artikel 15;<BR>2° het valorisatiepotentieel van het   projectvoorstel: de gebruiksmogelijkheden van de resultaten voor de beoogde   doelgroep van land- en tuinbouwbedrijven, bedoeld in artikel 16.<BR><BR>Het   beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn   opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de   Vlaamse Regering, zoals die blijken uit afspraken tussen het Agentschap   Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het beleidsdomein   economie, wetenschap en innovatie, conform de modaliteiten die zijn opgenomen in   het kaderdecreet bestuurlijk beleid van 18 juli 2003, of concrete verzoeken van   de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om   initiatieven te ontwikkelen voor een specifiek actieprogramma van de Vlaamse   Regering.
+Het beslissingscomité bij het Hermesfonds zal bij zijn besluitvorming inzake steuntoekenning de volgende beoordelingsdimensies in zijn overweging meenemen:<br>
+1° de wetenschappelijk-technologische kwaliteit van het projectvoorstel, bedoeld in artikel 15;<br>
+2° het valorisatiepotentieel van het projectvoorstel: de gebruiksmogelijkheden van de resultaten voor de beoogde doelgroep van land- en tuinbouwbedrijven, bedoeld in artikel 16.<br>
+<br>
+Het beslissingscomité bij het Hermesfonds zal bij de nadere invulling van zijn opdracht ook rekening houden met de algemene en specifieke beleidslijnen van de Vlaamse Regering, zoals die blijken uit afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het beleidsdomein economie, wetenschap en innovatie,&nbsp; of concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek actieprogramma van de Vlaamse Regering.
 
 ### ART. 15.
 
