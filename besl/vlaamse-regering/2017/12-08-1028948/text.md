@@ -73,6 +73,20 @@ Het agentschap subsidieert de werkingsmiddelen, vermeld in artikel 9, eerste lid
 <br>
 Op verzoek van het agentschap bewijst de voorziening, vermeld in artikel 10, het resultaat van het overleg met het collectieve overlegorgaan of de collectieve inspraak en het schriftelijk akkoord met de werknemersvertegenwoordiging.
 
+### ART 8/1.
+
+Het gedeelte van de werkingstoelagen, vermeld in artikel 8, tweede lid, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de voorziening, vermeld in artikel 2, niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
+
 ### ART 9.
 
 Een voorziening als vermeld in artikel 2, kan maximaal 3% van de personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen een bedrag per punt.<br>
