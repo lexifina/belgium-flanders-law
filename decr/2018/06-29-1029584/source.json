@@ -2,16 +2,16 @@
   "codex_id": 1029584,
   "title": "Decreet van 2018-06-29 houdende wijziging van het Kunstendecreet van 13 december 2013",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029584/VolledigDocument?datum=2018-08-11",
-  "source_sha256": "dd399510556bd8ead772529abc6f29ac0dae858e351c57f8fad9cb588141e970",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029584/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "c1fbc9a6981838404efc73786a731438bd8963d3436f855bc885995bdaf2cf0e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029584&param=informatie",
-  "as_of": "2018-08-11",
+  "as_of": "2019-01-01",
   "made": "2018-06-29",
   "gazette": "2018-08-01",
   "numac": 2018013097,
   "document_start": "2019-01-01",
   "document_end": null,
-  "in_force": "2018-08-11",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2018-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
