@@ -9,10 +9,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 juli 2008 betreffend
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° het decreet van 18 juli 2008 : het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+1° ...;<br>
 2° de toezichtcommissie : de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10 van het decreet van 18 juli 2008;<br>
-3° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
-4° de beheersinstantie : de instantie, vermeld in artikel 4, § 1, van het decreet van 18 juli 2008;<br>
+3° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018;<br>
+4° de beheersinstantie : de instantie, vermeld in artikel III.67 van het bestuursdecreet van 7 december 2018;<br>
 5° de minister : de Vlaamse minister, bevoegd voor het reguleringsmanagement, de administratieve vereenvoudiging en het e-government, en de Vlaamse minister, bevoegd voor het algemeen beleid inzake informatie- en communicatietechnologie.<br>
 6° ...;<br>
 7° ...;<br>
@@ -32,7 +32,8 @@ De gegevensbron wordt als authentieke gegevensbron erkend als ze voldoende garan
 2° de bruikbaarheid van de gegevensbron, in het bijzonder de ontsluitbaarheid, de beschikbaarheid &nbsp;en de openbaarheid;<br>
 3°&nbsp;het adequate beheer van de gegevensbron, in het bijzonder de aanwezigheid van een inzage- en terugmeldfaciliteit;<br>
 4° de veiligheid van de gegevensbron op fysiek, technisch en organisatorisch niveau, in het bijzonder de opspoorbaarheid van de wijzigingen in de gegevens en de bewaring van de historiek van de toegang tot de gegevens;<br>
-5° de financiering van de gegevensbron, in het bijzonder de financiering van de kosten ingevolge de specifieke dienstverlening die een authentieke gegevensbron aan andere instanties moet leveren.<br>
+5° de financiering van de gegevensbron, in het bijzonder de financiering van de kosten ingevolge de specifieke dienstverlening die een authentieke gegevensbron aan andere instanties moet leveren;<br>
+6° de interoperabiliteit van de gegevensbron, in het bijzonder de semantische en technische interoperabiliteit.<br>
 <br>
 Het&nbsp;stuurorgaan Vlaams Informatie- en ICT-beleid bepaalt in welke mate de gegevensbron in kwestie aan de bovenvermelde garanties moet voldoen.<br>
 <br>
@@ -51,7 +52,7 @@ Per gegevensbron die in aanmerking komt om als een authentieke gegevensbron of a
 3° het opzetten van de gepaste organisatorische structuren om de gegevens te verwerken in de gegevensbron;<br>
 4° het invoeren van de gepaste processen om de gegevens te verwerken in de gegevensbron;<br>
 5° het opzetten van de juiste infrastructuur om de gegevens te verwerken in de gegevensbron;<br>
-6° het aanwijzen van een meldingspunt dat meldingen van onnauwkeurige, onvolledige of onjuiste gegevens, vermeld in artikel 6, § 2, laatste lid, van het decreet van 18 juli 2008, registreert en onderzoekt. Indien uit dat onderzoek blijkt dat de melding gegrond is, wordt het gegeven in kwestie verbeterd of aangevuld. Het meldingspunt bezorgt aan degene die een onnauwkeurig, onvolledig of onjuist gegeven heeft gemeld, het resultaat van het onderzoek.<br>
+6° het aanwijzen van een meldingspunt dat meldingen van onnauwkeurige, onvolledige of onjuiste gegevens als vermeld in artikel III.73 van het bestuursdecreet van 7 december 2018, registreert en onderzoekt. Indien uit dat onderzoek blijkt dat de melding gegrond is, wordt het gegeven in kwestie verbeterd of aangevuld. Het meldingspunt bezorgt aan degene die een onnauwkeurig, onvolledig of onjuist gegeven heeft gemeld, het resultaat van het onderzoek.<br>
 <br>
 De beheersinstantie kan een of meer van de bovenvermelde taken uitbesteden. De eventuele uitbesteding gebeurt op verzoek, onder controle en verantwoordelijkheid van de beheersinstantie. De onderaannemer moet zich er formeel toe verbinden artikel 28, lid 3, van de algemene verordening gegevensbescherming en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens te respecteren en neemt daartoe de nodige maatregelen die hij meedeelt aan de beheersinstantie waarvoor hij als onderaannemer optreedt.<br>
 &nbsp;
@@ -64,7 +65,11 @@ Bij ernstige aanwijzingen dat een gegevensbron die door de Vlaamse Regering als 
 
 ### ART. 5.
 
-De entiteiten van de Vlaamse administratie raadplegen de gegevens in de volgende authentieke gegevensbronnen die door een externe overheid worden beheerd :<br />1° de in het Rijksregister opgenomen gegevens, vermeld in artikel 3 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br />2° de gegevens, opgenomen in de gegevensbanken van de Kruispuntbank en in de sociale gegevensbanken, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br />3° de in de Kruispuntbank van Ondernemingen opgenomen gegevens, vermeld in artikel 4 van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen.<br /><br />
+De overheidsinstanties, vermeld in artikel III.65, § 2, van het bestuursdecreet van 7 december 2018, raadplegen de gegevens in de volgende authentieke gegevensbronnen die door een externe overheid worden beheerd :<br>
+1° de in het Rijksregister opgenomen gegevens, vermeld in artikel 3 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van de natuurlijke personen;<br>
+2° de gegevens, opgenomen in de gegevensbanken van de Kruispuntbank en in de sociale gegevensbanken, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+3° de in de Kruispuntbank van Ondernemingen opgenomen gegevens, vermeld in artikel 4 van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichting van erkende ondernemingsloketten en houdende diverse bepalingen.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Aanwijzing van entiteiten om tussenbeide te komen bij de mededeling uit authentieke gegevensbronnen of om een ondersteunend gebruikers- en toegangsbeheer te verwezenlijken
 
