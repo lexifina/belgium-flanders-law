@@ -104,7 +104,9 @@ Het   Steunpunt Adoptie bezorgt jaarlijks, uiterlijk op 31 maart, een jaarversla
 
 ### ART. 20.
 
-<P>Het   Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de   begrotingskredieten, een subsidie van 504.071,93 euro voor personeels- en   werkingskosten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door Kind   en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 22 tot en   met 26.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van 504.733,09&nbsp;euro voor personeels- en werkingskosten.</p>
+
+<p>Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 22 tot en met 26.</p>
 
 ### ART. 21.
 
