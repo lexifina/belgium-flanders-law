@@ -2,16 +2,16 @@
   "codex_id": 1023538,
   "title": "Decreet van 2013-11-22 betreffende deugdelijk bestuur in de Vlaamse publieke sector",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023538/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "a3c921d1b6d37612bd3be7972bd1d1091319b5786d55c252d86cd936e2583e44",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023538/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "23110ce002f732a671b731dbbd9fffac76f922b9c60476ce84f65ea7b07e0c27",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023538&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-01-01",
   "made": "2013-11-22",
   "gazette": "2014-01-09",
   "numac": 2013206879,
   "document_start": "2014-01-19",
   "document_end": "2018-12-31",
-  "in_force": "2018-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
