@@ -9,7 +9,7 @@ Dit decreet regelt een gewestaangelegenheid.
 ### ART. 2.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
-1° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 2° het Wetboek van vennootschappen : de wet van 7 mei 1999 houdende het Wetboek van vennootschappen;<br>
 3° de vennootschap: het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap, bedoeld in artikel 3, § 1;<br>
 4° watergebonden gronden: gronden die aan de vennootschap in eigendom toebehoren, waarop de vennootschap een erfpacht-, opstal- of enig ander zakelijk recht heeft of die aan de vennootschap in concessie, in beheer of in huur worden gegeven;<br>
@@ -22,7 +22,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 
 ### ART. 3.
 
-§ 1. De openbare instelling met rechtspersoonlijkheid "Dienst der Scheepvaart", bedoeld in artikel 1 van de wet van 17 mei 1976 tot oprichting van de Dienst voor de Scheepvaart en een "Office de la Navigation", zal volgens de bepalingen van dit decreet worden omgezet in een in artikel 13 van het kaderdecreet bedoeld publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, naamloze vennootschap van publiek recht, met als benaming De Vlaamse Waterweg nv. Het betreft een orgaan met een van het Vlaamse Gewest onderscheiden rechtspersoonlijkheid.<br>
+§ 1. De openbare instelling met rechtspersoonlijkheid "Dienst der Scheepvaart", bedoeld in artikel 1 van de wet van 17 mei 1976 tot oprichting van de Dienst voor de Scheepvaart en een "Office de la Navigation", zal volgens de bepalingen van dit decreet worden omgezet in een in artikel III.7 van het Bestuursdecreet bedoeld publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, naamloze vennootschap van publiek recht, met als benaming De Vlaamse Waterweg nv. Het betreft een orgaan met een van het Vlaamse Gewest onderscheiden rechtspersoonlijkheid.<br>
 <br>
 De omzetting, bedoeld in het eerste lid, gebeurt zonder enige onderbreking van de continuïteit van de rechtspersoonlijkheid.<br>
 <br>
@@ -259,7 +259,7 @@ De raad van bestuur kan de verstrekking van bijzondere diensten al dan niet door
 
 ### ART. 21.
 
-De vennootschap is onderworpen aan dit decreet, aan het kaderdecreet en aan de statuten bedoeld in artikel 3, § 2. Zonder aan het voorgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap van toepassing op de vennootschap voor alles wat niet door dit decreet, het kaderdecreet en door de statuten van de vennootschap is bepaald.<br>
+De vennootschap is onderworpen aan dit decreet, aan het Bestuursdecreet en aan de statuten bedoeld in artikel 3, § 2. Zonder aan het voorgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap van toepassing op de vennootschap voor alles wat niet door dit decreet, het Bestuursdecreet en door de statuten van de vennootschap is bepaald.<br>
 <br>
 De bepalingen van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de faillissementswet van 8 augustus 1997 zijn evenwel niet toepasselijk op de vennootschap, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers.
 
@@ -366,11 +366,11 @@ De Vlaamse regering duidt, onder de leden van de raad van bestuur, een voorzitte
 
 ### ART. 33.
 
-Onverminderd de toepassing van artikel 20 van het kaderdecreet, zijn de bestuurders hetzij jegens de vennootschap, hetzij jegens derden hoofdelijk aansprakelijk voor alle schade die het gevolg is van een overtreding van de statuten van de vennootschap.
+Onverminderd de toepassing van artikel III.11 van het Bestuursdecreet, zijn de bestuurders hetzij jegens de vennootschap, hetzij jegens derden hoofdelijk aansprakelijk voor alle schade die het gevolg is van een overtreding van de statuten van de vennootschap.
 
 ### ART. 34.
 
-Onverminderd de onverenigbaarheden vermeld in artikel 21, § 1, van het kaderdecreet, is het mandaat van bestuurder onverenigbaar met het mandaat of de functie van:<br>
+Onverminderd de onverenigbaarheden vermeld in artikel III.12 van het Bestuursdecreet, is het mandaat van bestuurder onverenigbaar met het mandaat of de functie van:<br>
 1° lid van de Europese Commissie;<br>
 2° lid van de rechterlijke macht; lid van de staatsraad of assessor in de Raad van State of lid van het auditoraat van de Raad van State; rechter of referendaris van het Arbitragehof;<br>
 3° de commissaris revisor.
@@ -462,7 +462,7 @@ De boekhouding van de vennootschap wordt gevoerd volgens de wetgeving op de boek
 
 ### ART. 43.
 
-Zonder afbreuk te doen aan de bepalingen in het kaderdecreet inzake toezicht en informatieverstrekking, wordt de jaarrekening van de vennootschap met het volledige jaarverslag van de raad van bestuur binnen veertien dagen na de goedkeuring door de algemene vergadering meegedeeld aan de Vlaamse regering en aan de regeringsafgevaardigden, samen met het volledig verslag, opgesteld door de commissaris revisor.
+Zonder afbreuk te doen aan de bepalingen in het Bestuursdecreet&nbsp;van 7 december 2018 inzake toezicht en informatieverstrekking, wordt de jaarrekening van de vennootschap met het volledige jaarverslag van de raad van bestuur binnen veertien dagen na de goedkeuring door de algemene vergadering meegedeeld aan de Vlaamse regering en aan de regeringsafgevaardigden, samen met het volledig verslag, opgesteld door de commissaris revisor.
 
 ## HOOFDSTUK VIII ALGEMEEN ADMINISTRATIEF TOEZICHT
 
