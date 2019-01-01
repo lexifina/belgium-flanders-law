@@ -146,7 +146,7 @@ Instemming wordt betuigd met het protocol van 29 maart 2000 tussen de Federale r
 
 ### ART. 23.
 
-In afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende domeingoederen en van toepassing verklaard op het Vlaams Gewest bij artikel 22 van het decreet van 20 december 1989 houdende bepalingen tot uitvoering van de begroting van de Vlaamse Gemeenschap, kan de Vlaamse regering het bij Koninklijk Besluit van 21 maart 1974 als monument beschermd Koninklijk Paleis, Meir 50, Antwerpen, gekadastreerd 3de afdeling, sectie C, nr. 1321 (23 a ca) onderhands in erfpacht geven aan de Stichting Vlaams Erfgoed voor een jaarlijks canon van 1 000 Belgische frank.
+...
 
 ### ART. 24.
 
