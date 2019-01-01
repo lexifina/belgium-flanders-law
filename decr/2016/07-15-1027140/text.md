@@ -122,6 +122,14 @@ In artikel 76, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 20 maa
 
 ## Onderafdeling 3. Geïntegreerde diensten voor thuisverzorging
 
+### ART 32.
+
+In artikel 170, § 1, eerste lid, van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen wordt de zinsnede "geïntegreerde diensten voor thuisverzorging," opgeheven.
+
+### ART 33.
+
+Artikel 36terdecies van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, ingevoegd bij de wet van 22 december 2008 en gewijzigd bij de wet van 10 december 2009, wordt opgeheven.
+
 ## Afdeling 4. Erkenning van gezondheidszorgberoepen
 
 ## Onderafdeling 1. Bezwaar inzake de erkenning van gezondheidszorgberoepen
@@ -549,13 +557,7 @@ De Vlaamse Regering kan, in het kader van de opdrachten die de justitiehuizen of
 
 ### ART 107.
 
-De personeelsleden van de diensten van de Vlaamse overheid die door de Vlaamse Regering belast zijn met het toezicht op de naleving van de regelgeving in het kader van het gezondheids- en welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, hebben het recht om voor de uitoefening van die toezichtsopdracht inzage te vorderen van alle noodzakelijke documenten en informatiedragers, met inbegrip van documenten en informatiedragers die persoonsgegevens, waaronder gezondheidsgegevens, bevatten.<br>
-De inzage wordt in eerste instantie toegestaan voor anonieme gegevens, in de mate dat die beschikbaar en actueel zijn. Voor zover dat nodig is voor de uitoefening van de toezichtsopdracht, kunnen de personeelsleden, vermeld in het eerste lid, inzage vorderen in persoonsgegevens, mits daarvoor ingeval het om gezondheidsgegevens gaat een principiële machtiging is verleend door het sectoraal comité overeenkomstig artikel 42, § 2, 3°, van de wet van 13 december 2006 houdende diverse bepalingen betreffende gezondheid.<br>
-In dit artikel wordt verstaan onder:<br>
-1° anonieme gegevens: gegevens die niet met een geïdentificeerd of identificeerbaar persoon in verband kunnen worden gebracht en derhalve geen persoonsgegevens zijn;<br>
-2° gezondheidsbeleid: het beleid met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
-3° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
-4° sectoraal comité: de afdeling Gezondheid van het Sectoraal Comité van de Sociale zekerheid en van de Gezondheid, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 37, § 1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid.
+...
 
 ## HOOFDSTUK 15. Accreditatie van voorzieningen in het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
@@ -569,7 +571,7 @@ In dit artikel wordt verstaan onder:<br>
 5° ...<br>
 6° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheids- of welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, belast is met of belast wil zijn met de organisatie of uitvoering van zorg of die belast is met of belast wil zijn met de toekenning van rechten, met inbegrip van de ziekenfondsen en de zorgkassen;<br>
 7° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
-8° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, waaronder hulp, dienstverlening, ondersteuning, Vlaamse sociale bescherming en zorgverzekering;<br>
+8° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, waaronder hulp, dienstverlening, ondersteuning en Vlaamse sociale bescherming;<br>
 9° zorggebruiker: de patiënt, met name de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek.<br>
 <br>
 § 2. Met behoud van de toepassing van&nbsp; de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en van de regelgeving betreffende het beroepsgeheim, kan het een accreditatie-instelling die in het raam van de accreditatie van een voorziening onderzoek voert, worden toegestaan om voor dat onderzoek in de gebouwen van de voorziening inzage te hebben in persoonsgegevens van zorggebruikers, met inbegrip van gegevens over gezondheid als vermeld in artikel 4, 15), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), en daarvan kopie te nemen, op voorwaarde dat dit voor dat onderzoek noodzakelijk is omdat inzage in anonieme gegevens niet volstaat en, als het om gegevens over gezondheid gaat, met toepassing van de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.
