@@ -18,7 +18,7 @@ In dit decreet wordt verstaan onder LEZ: een lage-emissiezone   als vermeld in a
 
 ### ART. 5.
 
-<p>Met het oog op het toezicht op de LEZ-reglementering door de gemeente worden de relevante gegevens in een databank verzameld. De door de Vlaamse Regering gemachtigde dienst beheert die databank overeenkomstig het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.</p>
+<p>Met het oog op het toezicht op de LEZ-reglementering door de gemeente worden de relevante gegevens in een databank verzameld. De door de Vlaamse Regering gemachtigde dienst beheert die databank overeenkomstig titel III, hoofdstuk 3, afdeling 3, van het Bestuursdecreet van 7 december 2018.</p>
 
 <p>Die gemachtigde dienst vraagt daarvoor digitaal bij de bevoegde instanties, zoals de instantie die belast is met de inschrijving van de voertuigen en de lokale besturen die een LEZ op hun grondgebied invoeren, de noodzakelijke gegevens over de voertuigen op.</p>
 
