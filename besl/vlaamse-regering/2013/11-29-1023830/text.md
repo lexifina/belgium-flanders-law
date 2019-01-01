@@ -20,7 +20,7 @@
 
 ### ART. 4.
 
-<p>In oorlogstijd en in omstandigheden die daarmee gelijkgesteld zijn krachtens artikel 7 van de wet van 12 mei 1927 op de militaire opeisingen of tijdens de bezetting van het grondgebied door de vijand, kan de minister de noodzaak van de verhindering van de toegang tot de gegevens en de gegevensbronnen bij de VDI of van de gehele of gedeeltelijke vernietiging van de gegevensbronnen, ter bespreking voorleggen aan het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.</p>
+<p>In oorlogstijd en in omstandigheden die daarmee gelijkgesteld zijn krachtens artikel 7 van de wet van 12 mei 1927 op de militaire opeisingen of tijdens de bezetting van het grondgebied door de vijand, kan de minister de noodzaak van de verhindering van de toegang tot de gegevens en de gegevensbronnen bij de VDI of van de gehele of gedeeltelijke vernietiging van de gegevensbronnen, ter bespreking voorleggen aan het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018.</p>
 
 <p>De minister kan daartoe overgaan op eigen initiatief of op verzoek van de persoon die belast is met het dagelijks bestuur van de VDI.</p>
 
