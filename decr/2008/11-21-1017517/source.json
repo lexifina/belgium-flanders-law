@@ -2,16 +2,16 @@
   "codex_id": 1017517,
   "title": "Decreet van 2008-11-21 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2008",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017517/VolledigDocument?datum=2009-04-04",
-  "source_sha256": "fdfdcb700519f302c90c9c7bbdb47a5969c597ed0d2c9f52e5de9b8ed5151d1b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017517/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "013cbc49e40463af114cffc9090474e50184864ec2a6eb67e7d0442d47224f6c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017517&param=informatie",
-  "as_of": "2009-04-04",
+  "as_of": "2019-01-01",
   "made": "2008-11-21",
   "gazette": "2009-01-27",
   "numac": 2009035037,
   "document_start": "2009-01-27",
   "document_end": null,
-  "in_force": "2009-04-04",
+  "in_force": "2019-01-01",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2009-04-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
