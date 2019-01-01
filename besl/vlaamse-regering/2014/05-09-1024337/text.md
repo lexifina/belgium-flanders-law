@@ -15,11 +15,11 @@
 4° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 5° elektronische handtekening: een geavanceerde elektronische handtekening met gekwalificeerd certificaat als vermeld in artikel 2, 2° en 4°, van de wet van 9 juli 2001 houdende vaststelling van bepaalde regels in verband met het juridisch kader voor de elektronische handtekening,de elektronisch aangetekende zending en certificatiediensten;<br>
 6° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-6° /1 nieuwe gemeente: het lokaal bestuur van de nieuwe gemeente, vermeld in artikel 5, 5°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
-6° /2 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn;<br>
+6° /1 nieuwe gemeente: het lokaal bestuur van de nieuwe gemeente, vermeld in artikel 343, 2°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
+6° /2 OCMW: het openbaar centrum voor maatschappelijk welzijn, vermeld in het decreet van 22 december 2017 over het lokaal bestuur;<br>
 7° opvangvorm: het soort kinderopvang dat de organisator aanbiedt, zijnde de groepsopvang, vermeld in artikel 4, 2°, van het decreet van 20 april 2012, of de gezinsopvang, vermeld in artikel 4, 1°, van het decreet van 20 april 2012;<br>
-7° /1 samengevoegde gemeenten: het lokaal bestuur van de samengevoegde gemeenten, vermeld in artikel 5, 4°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
-7° /2 samenvoegingsdecreet: het samenvoegingsdecreet, vermeld in artikel 5, 1°, van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016;<br>
+7° /1 samengevoegde gemeenten: het lokaal bestuur van de samengevoegde gemeenten, vermeld in artikel 343, 4°, van het decreet van 22 december 2017 over het lokaal bestuur;<br>
+7° /2 ...<br>
 8° subsidie: een of meer van de subsidies, vermeld in artikel 1, 1°, 14°, 14° /1, 16°, 17°, 17° /1 en 18°, van het Subsidiebesluit van 22 november 2013;<br>
 9° technische commissie: de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin;<br>
 10° verslag over de infrastructuur: een verslag over de infrastructuur als vermeld in artikel 3 van het Vergunningsbesluit van 22 november 2013;<br>
@@ -850,7 +850,7 @@ Kind en Gezin stopt met de tussenkomst als uitbetalingsinstelling in de volgende
 
 ### ART 112/7.
 
-Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van kinderopvang is, samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, zet Kind en Gezin de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
+Als gemeenten waarvan het lokaal bestuur of het OCMW een organisator van kinderopvang is, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, zet Kind en Gezin de vergunningen, de subsidiebeloftes en de subsidietoekenningen van de samengevoegde gemeenten automatisch stop. Kind en Gezin kent dan nieuwe vergunningen, subsidiebeloftes en subsidietoekenningen met hetzelfde voorwerp als vóór de samenvoeging toe aan de nieuwe gemeente of het nieuwe OCMW.<br>
 <br>
 Kind en Gezin telt de subsidieerbare kinderopvangplaatsen groepsopvang of gezinsopvang van de samengevoegde gemeenten die vóór de samenvoeging tot verschillende subsidiegroepen groepsopvang of gezinsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang of gezinsopvang behoren, samen.<br>
 <br>
@@ -860,7 +860,7 @@ Kind en Gezin bezorgt de nieuwe gemeente en het OCMW automatisch de nieuwe vergu
 
 ### ART 112/8.
 
-Als gemeenten samengevoegd worden op basis van het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016, past Kind en Gezin de gegevens van de vergunningen, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan. Kind en Gezin kent dan een nieuwe vergunning, nieuwe subsidiebelofte of subsidietoekenning toe met hetzelfde voorwerp als vóór de samenvoeging als de kinderopvanglocatie van een organisator tot een andere subsidiegroep behoort na de samenvoeging van de gemeenten.<br>
+Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, past Kind en Gezin de gegevens van de vergunningen, de subsidiebeloftes en de subsidietoekenningen van alle organisatoren in de samengevoegde gemeenten automatisch aan. Kind en Gezin kent dan een nieuwe vergunning, nieuwe subsidiebelofte of subsidietoekenning toe met hetzelfde voorwerp als vóór de samenvoeging als de kinderopvanglocatie van een organisator tot een andere subsidiegroep behoort na de samenvoeging van de gemeenten.<br>
 <br>
 Kind en Gezin telt de subsidieerbare kinderopvangplaatsen groepsopvang samen van een organisator die vóór de samenvoeging van gemeenten kinderopvanglocaties groepsopvang had die tot verschillende subsidiegroepen groepsopvang behoorden, en door de samenvoeging van de gemeenten tot dezelfde subsidiegroep groepsopvang behoren.<br>
 <br>
