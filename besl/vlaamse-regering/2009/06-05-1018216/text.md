@@ -104,7 +104,7 @@ De voortgang van de realisatie van de activiteiten wordt bij partnerorganisaties
 
 ### ART. 21.
 
-Het agentschap wordt belast met het toezicht op partnerorganisaties en op   organisaties met terreinwerking waarmee een beheersovereenkomst is gesloten. Om   dat toezicht uit te oefenen, kan het agentschap : <BR>1° een overleg organiseren   als vermeld in artikel 20;<BR>2° gebruikmaken van de gegevens uit dat overleg en   uit de jaarverslagen;<BR>3° alle aanvullende gegevens die daarvoor nodig zijn,   vragen aan de partnerorganisatie of de organisatie met terreinwerking;<BR>4°   gebruikmaken van gegevens over de partnerorganisatie of de organisaties met   terreinwerking die worden aangeleverd door derden;<BR>5° bij partnerorganisaties   en organisaties met terreinwerking waarmee een beheersovereenkomst is gesloten,   een onderzoek verrichten of laten verrichten door Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein. Het inspectieverslag wordt gevoegd bij het   dossier dat door het agentschap wordt aangelegd, en het inspectieverslag wordt   aan de partnerorganisatie of de organisatie met terreinwerking in kwestie   bezorgd.
+Het agentschap wordt belast met het toezicht op partnerorganisaties en op organisaties met terreinwerking waarmee een beheersovereenkomst is gesloten.
 
 ## HOOFDSTUK IV Slotbepalingen
 
