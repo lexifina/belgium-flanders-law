@@ -2,16 +2,16 @@
   "codex_id": 1000101,
   "title": "Besluit van de Vlaamse Regering van 1993-12-22 houdende oprichting van een [cultuur- en congrescentrum] van de Vlaamse Gemeenschap in Bilzen, genaamd \"Landcommanderij Alden Biesen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000101/VolledigDocument?datum=2018-03-01",
-  "source_sha256": "3853d94cff49903cb75748daabc1fbb525283a3602646737db774403ea90b58e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000101/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "fc6610aabf092e6c4e46559c965b853664095e99f4a35237ceb5c95f907f5bff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000101&param=informatie",
-  "as_of": "2018-03-01",
+  "as_of": "2019-01-01",
   "made": "1993-12-22",
   "gazette": "1994-04-06",
   "numac": 0,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-03-01",
+  "in_force": "2019-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2018-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

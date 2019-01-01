@@ -14,7 +14,7 @@ Er wordt een personeelsformatie vastgelegd als buitendienst van het&nbsp;Departe
 
 ### ART. 4.
 
-§ 1. De Vlaamse Regering richt een bestuurscommissie op, op voordracht van de Vlaamse minister, bevoegd voor de culturele aangelegenheden. Die bestuurscommissie wordt samengesteld conform artikel 9, b), van de wet van 16 juli 1973, waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt. De bestuurscommissie bestaat uit tien leden die deskundig zijn om de opdracht, vermeld in artikel 5 van dit besluit, te realiseren.<br>
+§ 1. De Vlaamse Regering richt een bestuurscommissie op, op voordracht van de Vlaamse minister, bevoegd voor de culturele aangelegenheden. Die bestuurscommissie wordt samengesteld conform artikel 9, b), van de wet van 16 juli 1973, waarbij de bescherming van de ideologische en filosofische strekkingen gewaarborgd wordt. De bestuurscommissie bestaat uit&nbsp;elf leden die deskundig zijn om de opdracht, vermeld in artikel 5 van dit besluit, te realiseren.<br>
 <br>
 § 2. De bestuurscommissie is als volgt samengesteld:<br>
 1° als vertegenwoordigers van de betrokken overheden:<br>
@@ -23,6 +23,8 @@ b) één vertegenwoordiger van de stad Bilzen;<br>
 c) één vertegenwoordiger van het agentschap Toerisme Vlaanderen;<br>
 d) één vertegenwoordiger van het Agentschap voor Natuur en Bos;<br>
 e) één vertegenwoordiger van het agentschap Facilitair Bedrijf;<br>
+f) één vertegenwoordiger van de provincie Limburg;<br>
+<br>
 2° als vertegenwoordigers van de gebruikers:<br>
 a) één vertegenwoordiger van de uitbater van het hotel in Alden Biesen;<br>
 b) één vertegenwoordiger van Musica vzw;<br>
