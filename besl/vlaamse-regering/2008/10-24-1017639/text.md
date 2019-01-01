@@ -40,11 +40,27 @@ Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de r
 
 ### ART. 8.
 
-Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening, vermeld in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen, moet het agentschap klachten, geuit ten aanzien van de voorzieningen die het erkend heeft, opnemen en behandelen.<br /><br />
+Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening, vermeld in titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018, moet het agentschap klachten, geuit ten aanzien van de voorzieningen die het erkend heeft, opnemen en behandelen.<br>
+&nbsp;
 
 ### ART. 9.
 
-§ 1. Voor de invulling van de taken, vermeld in artikelen 4 en 5, vervult het agentschap zijn beleidsuitvoerende taken ten aanzien van de doelgroep in samenhang met :<br />1° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn, volksgezondheid en gezin;<br />2° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid.<br /><br />§ 2. Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 4 en 5.<br /><br />Het agentschap stelt kennis en expertise die het verworven heeft, ter beschikking van de beleidsondersteuning.<br /><br />Het agentschap zorgt voor de permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen op het terrein van kennis en expertise.<br /><br />§ 3. Het agentschap registreert en verwerkt alle gegevens, verzameld in het kader van zijn opdracht, die noodzakelijk zijn om :<br />1° de taken, vermeld in artikelen 4 en 5, uit te voeren;<br />2° de beleidsgerichte input, vermeld in artikel 4, § 3, van het kaderdecreet te leveren.<br /><br />De minister bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van de persoonsgegevens.<br /><br />
+§ 1. Voor de invulling van de taken, vermeld in artikelen 4 en 5, vervult het agentschap zijn beleidsuitvoerende taken ten aanzien van de doelgroep in samenhang met :<br>
+1° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn, volksgezondheid en gezin;<br>
+2° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid.<br>
+<br>
+§ 2. Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 4 en 5.<br>
+<br>
+Het agentschap stelt kennis en expertise die het verworven heeft, ter beschikking van de beleidsondersteuning.<br>
+<br>
+Het agentschap zorgt voor de permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen op het terrein van kennis en expertise.<br>
+<br>
+§ 3. Het agentschap registreert en verwerkt alle gegevens, verzameld in het kader van zijn opdracht, die noodzakelijk zijn om :<br>
+1° de taken, vermeld in artikelen 4 en 5, uit te voeren;<br>
+2° de beleidsgerichte input, vermeld in artikel III.2, derde lid, van het bestuursdecreet van 7 december 2018, te leveren.<br>
+<br>
+De minister bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van de persoonsgegevens.<br>
+&nbsp;
 
 ### ART. 10.
 
@@ -86,7 +102,7 @@ Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en 
 
 ### ART. 18.
 
-Onverminderd artikel 9, 33 en 34 van het kaderdecreet met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.<br /><br />
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 19.
 
