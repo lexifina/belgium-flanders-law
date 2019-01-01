@@ -2,16 +2,16 @@
   "codex_id": 1018092,
   "title": "Decreet van 2009-05-08 houdende algemene bepalingen betreffende het energiebeleid [citeeropschrift: \"het Energiedecreet\"]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018092/VolledigDocument?datum=2018-12-24",
-  "source_sha256": "0363cb84cdffd11b680e733d1c766f574f18ccb7419a227e5bfae6baeea44f3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018092/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "137f2b9d58e542467e436e33825cda3ef5a1c5f768042c8d87aa1274c5387d44",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018092&param=informatie",
-  "as_of": "2018-12-24",
+  "as_of": "2019-01-01",
   "made": "2009-05-08",
   "gazette": "2009-07-07",
   "numac": 2009035580,
   "document_start": "2011-01-01",
   "document_end": null,
-  "in_force": "2018-12-24",
-  "article_versions": 263,
-  "record_form": "consolidated version as in force on 2018-12-24; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-01",
+  "article_versions": 272,
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

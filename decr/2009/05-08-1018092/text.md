@@ -137,7 +137,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 71° internationale luchtvaartbunkers : de hoeveelheid energie die geleverd wordt aan vliegtuigen die op buitenlandse luchthavens vliegen;<br>
 72° internationale scheepvaartbunkers : de hoeveelheid energie die geleverd wordt aan schepen die op buitenlandse havens varen;<br>
 72/1° K-peilvolume : elke eenheid van aaneengesloten lokalen die in hetzelfde gebouw gelegen zijn, die het voorwerp zijn van werken van dezelfde aard en die moeten voldoen aan dezelfde K-peileis;<br>
-73° kaderdecreet Bestuurlijk Beleid : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+73° ...<br>
 74° karakteristiek jaarlijks primair energieverbruik : het conventioneel bepaalde jaarlijkse energieverbruik van een gebouw, uitgedrukt in primaire energie-equivalenten;<br>
 74° /1 klantengroep: iedere groep van distributienetgebruikers die elektriciteit, aardgas of biogas injecteren en/of afnemen van het distributienet en die zich kenmerkt door het type netwerk waarop de netgebruiker is aangesloten, het type aansluiting waarover die netgebruiker beschikt, de automatische compensatie van afgenomen en geïnjecteerde elektriciteit, het jaarverbruik, het type meetinstallatie, het toegangsvermogen, het piekvermogen of door het feit of die netgebruiker al dan niet elektriciteit of biogas injecteert op het netwerk waarop die netgebruiker is aangesloten, met dien verstande dat één netgebruiker volgens zijn toegangspunten tot verschillende klantengroepen kan behoren;<br>
 75° kleine onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br>
@@ -179,9 +179,12 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 91° neteigenaar : eigenaar van een net;<br>
 91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet;<br>
 92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen van mede-eigenaars, kerkfabrieken, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br>
+92° /1/1 nieuwe groenestroominstallatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk elektriciteit uit hernieuwbare energiebronnen opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een groenestroominstallatie;<br>
+92° /1/2 nieuwe productie-installatie: een nieuwe groenestroominstallatie of een nieuwe warmte-krachtinstallatie;<br>
 92° /2 nieuwe projecten : projecten met startdatum na de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
 a) 31 juli;<br>
 b) ...;<br>
+92° /2/1 nieuwe warmtekracht-installatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk in één proces thermische warmte en elektrische of mechanische energie opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een warmtekracht-installatie;<br>
 92° /3 noodgroep: generatoren die uitsluitend tot bedoeling hebben om kritische belasting te voeden bij netuitval, en die verder enkel netgekoppeld worden om te testen of om een aanzienlijk of systematisch onevenwicht in de Belgische regelzone op te vangen zoals onder de tertiaire reserve omschreven in het koninklijk besluit van 19 december 2002 houdende een technisch reglement voor het beheer van het transmissienet van elektriciteit en de toegang ertoe;<br>
 92°/4 ombudsdienst voor energie : de ombudsdienst, vermeld in artikel 27 van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 93° ondernemingen : elke natuurlijke persoon die koopman is of een zelfstandig beroep uitoefent, de vennootschappen die de rechtsvorm van een handelsvennootschap hebben aangenomen, de Europese economische samenwerkingsverbanden en de economische samenwerkingsverbanden die beschikken over een exploitatiezetel in het Vlaamse Gewest of die zich ertoe verbinden in het Vlaamse Gewest een exploitatiezetel te vestigen;<br>
@@ -622,7 +625,13 @@ b) de resultatenrekening, opgesteld op basis van de kosten en de opbrengsten van
 
 ### ART. 4.1.1.
 
-De VREG wijst, voor een geografisch afgebakend gebied, een rechtspersoon aan die belast is met het beheer van het elektriciteits- of aardgasdistributienet in dat gebied.<br /><br />Als het distributienet in kwestie geheel of gedeeltelijk eigendom is van een gemeente of groep van gemeenten, doet de VREG de aanwijzing op voorstel van die gemeente of groep van gemeenten. De VREG kan alleen afwijken van dit voorstel, als de voorgestelde netbeheerder niet voldoet aan de voorwaarden, vastgesteld ter uitvoering van artikel 4.1.4, § 1, 1°.
+De VREG wijst, voor een aaneensluitend geografisch afgebakend gebied, een rechtspersoon aan die belast is met het beheer van het elektriciteits- en het aardgasdistributienet in dat gebied.<br>
+<br>
+In afwijking van het eerste lid wordt voor de beoordeling of een netbeheerder over een geografisch aaneensluitend afgebakend gebied beschikt echter geen rekening gehouden met het grondgebied van de gemeente Voeren en het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied.<br>
+<br>
+In afwijking van het eerste lid kan de VREG, voor het grondgebied van de gemeente Baarle-Hertog dat volledig omgeven is door Nederlands grondgebied en als daarvoor een technische of financiële noodzaak bestaat, een verschillende elektriciteitsdistributienetbeheerder en aardgasdistributienetbeheerder aanstellen.<br>
+<br>
+Als het distributienet in kwestie geheel of gedeeltelijk eigendom is van een gemeente of groep van gemeenten, doet de VREG de aanwijzing op voorstel van die gemeente of groep van gemeenten. De VREG kan alleen afwijken van dit voorstel, als de voorgestelde netbeheerder niet voldoet aan de voorwaarden, vastgesteld ter uitvoering van artikel 4.1.4, § 1, 1°.
 
 ### ART. 4.1.2.
 
@@ -634,7 +643,22 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 
 ### ART. 4.1.4.
 
-§ 1. De Vlaamse Regering bepaalt, op advies van de VREG :<br />1° de voorwaarden waaraan een kandidaat-netbeheerder moet voldoen om te kunnen worden aangewezen als netbeheerder en waaraan een netbeheerder moet blijven voldoen om aangewezen te blijven als netbeheerder;<br />2° de voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder;<br />3° de procedure die nageleefd moet worden bij de aanwijzing van een netbeheerder, evenals bij de wijziging en de beëindiging van een aanwijzing van een netbeheerder.<br /><br />§ 2. De voorwaarden, vermeld in § 1, 1°, hebben in ieder geval betrekking op :<br />1° de technische, organisatorische en financiële capaciteit van de (kandidaat-)netbeheerder;<br />2° de professionele betrouwbaarheid van de (kandidaat-)netbeheerder;<br />3° het exploitatie- of gebruiksrecht van de (kandidaat-)netbeheerder over het distributienet in kwestie;<br />4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br /><br />§ 3. De voorwaarden, vermeld in § 2, 4°, hebben onder meer betrekking op de activiteiten van de netbeheerder, de deelneming van andere ondernemingen in de netbeheerder, de deelneming van de netbeheerder in andere ondernemingen, de verhouding van de netbeheerder tot derden, het bestuursorgaan van de netbeheerder, het orgaan dat belast is met de dagelijkse leiding van de netbeheerder en de personeelsleden van de netbeheerder.<br /><br />§ 4. De voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder, vermeld in § 1, 2°, bepalen onder meer dat de aanwijzing van de netbeheerder eindigt bij faillissement, ontbinding of fusie en dat de VREG de aanwijzing van een netbeheerder kan herroepen, op voorwaarde dat die werd gehoord of naar behoren werd opgeroepen, bij :<br />1° een significante wijziging in het aandeelhouderschap van de netbeheerder of de werkmaatschappij waarop de netbeheerder een beroep doet, die de onafhankelijkheid van het beheer van het net in kwestie in gevaar zou kunnen brengen;<br />2° een grove tekortkoming van de netbeheerder of de werkmaatschappij waarop hij een beroep doet, met betrekking tot de verplichtingen krachtens dit decreet of de uitvoeringsbepalingen ervan.
+§ 1. De Vlaamse Regering bepaalt, op advies van de VREG :<br>
+1° de voorwaarden waaraan een kandidaat-netbeheerder moet voldoen om te kunnen worden aangewezen als netbeheerder en waaraan een netbeheerder moet blijven voldoen om aangewezen te blijven als netbeheerder inclusief het beschikken over een door de VREG gecontroleerd ondernemingsplan;<br>
+2° de voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder;<br>
+3° de procedure die nageleefd moet worden bij de aanwijzing van een netbeheerder, evenals bij de wijziging en de beëindiging van een aanwijzing van een netbeheerder.<br>
+<br>
+§ 2. De voorwaarden, vermeld in § 1, 1°, hebben in ieder geval betrekking op :<br>
+1° de technische, organisatorische en financiële capaciteit van de (kandidaat-)netbeheerder;<br>
+2° de professionele betrouwbaarheid van de (kandidaat-)netbeheerder;<br>
+3° het exploitatie- of gebruiksrecht van de (kandidaat-)netbeheerder over het distributienet in kwestie;<br>
+4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br>
+<br>
+§ 3. De voorwaarden, vermeld in § 2, 4°, hebben onder meer betrekking op de activiteiten van de netbeheerder, de deelneming van andere ondernemingen in de netbeheerder, de deelneming van de netbeheerder in andere ondernemingen, de verhouding van de netbeheerder tot derden, het bestuursorgaan van de netbeheerder, het orgaan dat belast is met de dagelijkse leiding van de netbeheerder en de personeelsleden van de netbeheerder.<br>
+<br>
+§ 4. De voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder, vermeld in § 1, 2°, bepalen onder meer dat de aanwijzing van de netbeheerder eindigt bij faillissement, ontbinding of fusie en dat de VREG de aanwijzing van een netbeheerder kan herroepen, op voorwaarde dat die werd gehoord of naar behoren werd opgeroepen, bij :<br>
+1° een significante wijziging in het aandeelhouderschap van de netbeheerder of de werkmaatschappij waarop de netbeheerder een beroep doet, die de onafhankelijkheid van het beheer van het net in kwestie in gevaar zou kunnen brengen;<br>
+2° een grove tekortkoming van de netbeheerder of de werkmaatschappij waarop hij een beroep doet, met betrekking tot de verplichtingen krachtens dit decreet of de uitvoeringsbepalingen ervan.
 
 ## Afdeling II. Werkmaatschappij
 
@@ -642,13 +666,31 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 
 Als een distributienetbeheerder voor de exploitatie van het distributienet en de uitvoering van openbaredienstverplichtingen een beroep wil doen op een werkmaatschappij, moet voorafgaandelijk toestemming verkregen worden van de VREG.<br>
 <br>
-De distributienetbeheerder kan op elk moment slechts beroep doen op één werkmaatschappij gedurende de door de distributienetbeheerder bepaalde en door de VREG aanvaarde periode. Die periode is niet langer dan de duur van de aanwijzing van de distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.<br>
+De distributienetbeheerders kunnen op elk moment maar op één gezamenlijke werkmaatschappij een beroep doen gedurende een door de VREG aanvaarde periode. Die periode is voor iedere afzonderlijke distributienetbeheerder niet langer dan de duur van de aanwijzing van die distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.<br>
 <br>
 De Vlaamse Regering bepaalt, na advies van de VREG, de nadere voorwaarden waaraan de distributienetbeheerder en de werkmaatschappij waarop ze een beroep wil doen, moeten voldoen. Die voorwaarden hebben in ieder geval betrekking op de voorwaarden, vermeld in artikel 4.1.4, § 2, en de (mede)zeggenschap van de distributienetbeheerder over de werkmaatschappij.<br>
 <br>
-De VREG geeft haar toestemming, zoals vermeld in het eerste lid, als zij van mening is dat de werkmaatschappij voldoet aan de voorwaarden die opgelegd zijn ter uitvoering van het vorige lid en aan de voorwaarden, vermeld in de artikelen 4.1.7 en 4.1.8.<br>
+De VREG geeft haar toestemming, zoals vermeld in het eerste lid, als zij van mening is dat de werkmaatschappij voldoet aan de voorwaarden die opgelegd zijn ter uitvoering van het vorige lid en aan de voorwaarden, vermeld in de artikelen 4.1.7 tot en met artikel 4.1.8/1.<br>
 <br>
-De Vlaamse Regering bepaalt de termijn waarbinnen de toestemming van de VREG moet worden gevraagd en de procedure voor het onderzoek en het verlenen van de toestemming.
+De Vlaamse Regering bepaalt de termijn waarbinnen de toestemming van de VREG moet worden gevraagd en de procedure voor het onderzoek en het verlenen van de toestemming.<br>
+<br>
+De VREG kan haar toestemming, vermeld in het eerste lid, intrekken wanneer zij van oordeel is dat niet langer voldaan is aan de voorwaarden ter uitvoering van het derde lid of aan de voorwaarden, vermeld in artikel 4.1.7 tot en met 4.1.8/1.
+
+### ART 4.1.5/1.
+
+De raad van bestuur van de werkmaatschappij telt maximaal twintig leden, waarbij elke deelnemende distributienetbeheerder ten minste één vertegenwoordiger heeft.<br>
+<br>
+Het mandaat van lid van de raad van bestuur, vermeld in het eerste lid, is onverenigbaar met:<br>
+1° het lidmaatschap van de wetgevende kamers, het Europees Parlement, de gemeenschaps- en gewestparlementen, de Vergadering van de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad, de Vlaamse Gemeenschapscommissie of de Franse Gemeenschapscommissie;<br>
+2° de functie of het ambt van minister, staatssecretaris, of het lidmaatschap van een gewest- of gemeenschapsregering.<br>
+<br>
+Om een meer evenwichtige participatie van mannen en vrouwen te bevorderen mag ten hoogste twee derde van de leden van de raad van bestuur, vermeld in het eerste lid, van hetzelfde geslacht zijn.<br>
+<br>
+Telkens als er door een voordrachtprocedure één of meer mandaten vacant zijn in de raad van bestuur, vermeld in het eerste lid, en de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting, vermeld in het derde lid, wordt de voordrachtprocedure hernomen.
+
+### ART 4.1.5/2.
+
+De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van het managementcomité van de werkmaatschappij mag niet meer bedragen dan de jaarlijkse bezoldiging van de minister-president van de Vlaamse Regering. Hoofdstuk 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector is op die functies van overeenkomstige toepassing.
 
 ## Afdeling III. Activiteiten van de netbeheerders
 
@@ -1069,7 +1111,29 @@ Iedere afnemer heeft de volgende rechten :<br />1° het recht om van elektricite
 
 ### ART. 4.5.1.
 
-De aanleg van directe lijnen of leidingen op de eigen site om elektriciteit of aardgas te leveren, is toegelaten.<br /><br />De aanleg van een directe lijn of leiding die de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe advies van de betrokken netbeheerder inwint.<br /><br />De VREG houdt hierbij rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br /><br />Als de aanleg van een directe lijn of directe leiding de eigen site overschrijdt en daardoor het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van de directe lijn of leiding pas worden aangevat als de toelating van de VREG, vermeld in het tweede lid, verworven is.
+§ 1. De aanleg en het beheer van een directe lijn of een directe leiding die de grenzen van de eigen site niet overschrijdt om elektriciteit of aardgas te leveren, is altijd toegelaten.<br>
+<br>
+De beheerder van de directe lijn of directe leiding, vermeld in het eerste lid, meldt elektronisch binnen de dertig dagen volgende op de ingebruikname dat die directe lijn of directe leiding in gebruik werd genomen en de ligging ervan:<br>
+1° aan de VREG wanneer het eilandwerking betreft. De VREG stelt daarvoor een meldingsformulier ter beschikking op zijn website;<br>
+2° aan de netbeheerder op wiens net de afnemer van die directe lijn is aangesloten. De netbeheerder stelt daarvoor een meldingsformulier ter beschikking op zijn website. De netbeheerder stelt de ontvangen gegevens op eerste vraag ter beschikking aan de VREG.<br>
+<br>
+§ 2. De aanleg en het beheer van een directe lijn of een directe leiding die de grenzen van de eigen site overschrijdt om elektriciteit of aardgas te leveren, is alleen toegestaan na een voorafgaande toelating van de VREG. De VREG stelt daarvoor een aanvraagformulier ter beschikking op zijn website. De Vlaamse Regering kan voorwaarden vastleggen waaraan een directe lijn of directe leiding die de grenzen van de eigen site overschrijdt moet voldoen om te worden toegelaten.<br>
+<br>
+De VREG beslist over de toelating binnen een termijn van zestig dagen nadat hij een aanvraag heeft ontvangen. De VREG wint in het kader van een aanvraag tot het verkrijgen van de toelating het advies in van de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is. Deze adviestermijn bedraagt vijftien dagen.<br>
+<br>
+De VREG kan een aanvraag als vermeld in het eerste lid alleen weigeren in een van de hierna volgende gevallen:<br>
+1° de installaties die achter verschillende toegangspunten liggen worden met elkaar verbonden;<br>
+2° de rechten van afnemers worden niet gewaarborgd;<br>
+3° er is niet voldaan aan de voorwaarden, vermeld in het eerste lid, die de Vlaamse Regering vastgesteld heeft;<br>
+4° de veiligheid van het net van de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding is gelegen, komt aantoonbaar in het gedrang.<br>
+<br>
+Onverminderd het derde lid houdt de VREG bij het beoordelen van een aanvraag als vermeld in het eerste lid met betrekking tot bestaande productie-installaties die voor 1 januari 2019 reeds zijn aangesloten op een net en die vanaf 1 januari 2019 hun aansluiting willen wijzigen om een directe lijn of directe leiding aan te leggen, bijkomend rekening met de risico's inzake inefficiëntie en de impact op de distributienettarieven.<br>
+<br>
+De VREG brengt de aanvrager van de toelating en de netbeheerder in wiens geografisch gebied de directe lijn of directe leiding gelegen is, op de hoogte van zijn beslissing.<br>
+<br>
+De VREG publiceert op zijn website een actuele lijst van de directe lijnen en de directe leidingen, waarvoor conform deze paragraaf een toelating is verleend, alsook van de beheerders van die directe lijnen en directe leidingen.<br>
+<br>
+§ 3. Als de aanleg van een directe lijn of een directe leiding de eigen site overschrijdt en als het openbaar domein daarbij wordt doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De beheerder van de directe lijn of de directe leiding kan de procedure pas starten als hij de toelating van de VREG, vermeld in paragraaf 2, gekregen heeft.
 
 ### ART. 4.5.2.
 
@@ -1079,7 +1143,17 @@ De taken van de beheerder van een directe lijn of leiding omvatten onder meer :<
 
 ### ART. 4.6.1.
 
-§ 1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de VREG.<br /><br />§ 2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe het advies van de betrokken netbeheerder inwint.<br /><br />De VREG hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en houdt ook rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br /><br />De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de criteria van artikel 1.1.3, 56°/2, is voldaan.<br /><br />Als door de aanleg van een gesloten distributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br /><br />§ 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating.
+§ 1. De aanleg en het beheer van een gesloten distributienet op eigen site is toegelaten na voorafgaande melding aan de VREG.<br>
+<br>
+§ 2. De aanleg van een gesloten distributienet dat de grenzen van de eigen site overschrijdt, is toegestaan na een voorafgaande toelating, verleend door de VREG, die hiertoe het advies van de betrokken netbeheerder inwint. De adviestermijn voor de betrokken netbeheerder bedraagt vijftien dagen. De VREG beslist over de toelating binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de VREG oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de VREG aan de aanvrager mee dat de termijn van zestig dagen verlengd wordt tot een termijn van negentig dagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel. Bij gebrek aan beslissing binnen de voormelde termijn, wordt de toelating geacht stilzwijgend te zijn verleend.<br>
+<br>
+De VREG hanteert hierbij de criteria zoals vermeld in artikel 1.1.3, 56°/2, en houdt ook rekening met de risico's inzake inefficiëntie, de risico's inzake veiligheid, de impact op de nettarieven, de waarborg van de rechten van afnemers, de eventuele weigering van aansluiting op het net door de betrokken netbeheerder of een gebrek aan aanbod tot aansluiting of toegang op het net tegen redelijke economische of technische voorwaarden.<br>
+<br>
+De VREG kan de toelating opheffen zodra wordt vastgesteld dat niet meer aan de criteria van artikel 1.1.3, 56°/2, is voldaan.<br>
+<br>
+Als door de aanleg van een gesloten distributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het gesloten distributienet pas worden aangevat als de toelating van de VREG, vermeld in het eerste lid, verworven is.<br>
+<br>
+§ 3. De VREG kan de nadere modaliteiten vastleggen voor de melding, de toekenning en de opheffing van de toelating, onverminderd wat bepaald is in paragraaf 2, eerste lid.
 
 ### ART. 4.6.2.
 
@@ -1121,7 +1195,15 @@ Iedere beheerder van een gesloten distributienet past voor de aansluiting,   het
 
 ### ART. 4.7.1.
 
-§ 1. De aanleg en het beheer van een privédistributienet is principieel verboden.<br /><br />§ 2. In afwijking van paragraaf 1 is de aanleg en het beheer van volgende privédistributienetten toegelaten :<br />1° privédistributienetten waarbij de distributie van elektriciteit of aardgas een inherent en ondergeschikt karakter heeft ten opzichte van het geheel van diensten die door de beheerder van het privédistributienet aan de achterliggende afnemer worden geleverd, zoals bij garageverhuur, bij verhuur van een studentenkamer, een verblijfplaats in een recreatie- of vakantiepark, een kamer in een rusthuis, de terbeschikkingstelling van een standplaats bij markten, evenementen en kermissen;<br />2° laadpunten voor voertuigen.<br /><br />Een privédistributienet kan een openbare weg, waterloop, treinspoor of ander openbaar domein alleen kruisen als hiertoe toestemming van de distributienetbeheerder verkregen is.<br /><br />Als door de aanleg van een privédistributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het privédistributienet pas worden aangevat als de toelating van de distributienetbeheerder, vermeld in het tweede lid, verworven is.
+§ 1. De aanleg en het beheer van een privédistributienet is principieel verboden.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is de aanleg en het beheer van volgende privédistributienetten toegelaten :<br>
+1° privédistributienetten waarbij de distributie van elektriciteit of aardgas een inherent en ondergeschikt karakter heeft ten opzichte van het geheel van diensten die door de beheerder van het privédistributienet aan de achterliggende afnemer worden geleverd, zoals bij garageverhuur, bij verhuur van een studentenkamer, een verblijfplaats in een recreatie- of vakantiepark, een kamer in een rusthuis, de terbeschikkingstelling van een standplaats bij markten, evenementen en kermissen;<br>
+2° laadpunten voor voertuigen.<br>
+<br>
+Een privédistributienet kan een openbare weg, waterloop, treinspoor of ander openbaar domein alleen kruisen als hiertoe toestemming van de distributienetbeheerder verkregen is. De netbeheerder beslist over de toestemming binnen een termijn van zestig dagen na ontvangst van de aanvraag. Als de netbeheerder oordeelt dat de toetsing van de aanvraag aan de voorwaarden uit dit hoofdstuk moeilijk tijdig uit te voeren is, dan deelt de netbeheerder aan de aanvrager mee dat de termijn van zestig kalenderdagen verlengd wordt tot een termijn van negentig kalenderdagen. De verlengingsbeslissing vermeldt de reden of de redenen voor het uitstel.<br>
+<br>
+Als door de aanleg van een privédistributienet het openbaar domein moet worden doorkruist, zijn de procedure en de voorwaarden, vermeld in artikel 4.1.27 en artikel 4.1.28, van overeenkomstige toepassing. De procedure kan door de beheerder van het privédistributienet pas worden aangevat als de toelating van de distributienetbeheerder, vermeld in het tweede lid, verworven is.
 
 ### ART. 4.7.2.
 
@@ -1345,7 +1427,7 @@ Op basis van de onrendabele toppen berekent het Vlaams Energieagentschap telkens
 <br>
 De bandingfactoren die van toepassing zijn worden zowel voor nieuwe als voor lopende projecten aangepast als de geactualiseerde bandingfactor meer dan 2 % afwijkt van de bandingfactor die van toepassing is.<br>
 <br>
-De geactualiseerde bandingsfactoren voor lopende projecten zijn één maand na de actualisering van toepassing.<br>
+De geactualiseerde bandingsfactoren voor lopende projecten&nbsp;en voor nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar zijn één maand na de actualisering van toepassing.<br>
 <br>
 Het Vlaams Energieagentschap deelt minstens een keer per jaar en dit in elk geval voor 30 juni het rapport met de berekening van de onrendabele toppen en overeenstemmende bandingfactoren voor de representatieve en niet-representatieve projectcategorieën, bedoeld in het tweede lid mee aan de Vlaamse Regering en aan de minister.<br>
 <br>
@@ -1358,14 +1440,16 @@ Voor relevante technologieën en projecten die buiten de vastgestelde representa
 § 3. Voor het Vlaams Energieagentschap een rapport aan de Vlaamse Regering en aan de minister bezorgt, organiseert het een stakeholderoverleg. De Vlaamse Regering kan de nadere regels bepalen voor het voorwerp en de methode van dit stakeholderoverleg, en voor de deelnemers eraan.<br>
 <br>
 § 4. De Vlaamse Regering bepaalt de methodiek voor de berekening van de onrendabele top en houdt daarbij minstens rekening met de volgende parameters :<br>
-1° de geraamde investeringskosten in het geval van nieuwe projecten, de investeringskosten gebruikt bij de bepaling van de oorspronkelijke onrendabele top voor lopende projecten tijdens de afschrijvingsperiode, en de vervangingsinvesteringskosten voor lopende projecten na de afschrijvingsperiode;<br>
+1° de geraamde investeringskosten in het geval van nieuwe projecten, de investeringskosten gebruikt bij de bepaling van de oorspronkelijke onrendabele top voor lopende projecten en nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar&nbsp;tijdens de afschrijvingsperiode, en de vervangingsinvesteringskosten voor lopende projecten na de afschrijvingsperiode;<br>
 2° de afschrijvingsperiode;<br>
 3° de brandstofkosten;<br>
 4° de elektriciteitsprijs.<br>
 <br>
 In afwijking van het eerste lid, 1°, wordt voor installaties voor de productie van groene stroom met startdatum voor 1 januari 2013 ook rekening gehouden met het nog niet afgeschreven gedeelte van de oorspronkelijke investeringskosten of van latere extra investeringen, voor zover die voldoen aan de voorwaarden, vermeld in artikel 7.1.1, § 1, vierde lid. Tenzij anders door de Vlaamse Regering bepaald, wordt dit wat betreft het nog niet afgeschreven gedeelte van de oorspronkelijke investeringskosten berekend aan de hand van het oorspronkelijke afschrijvingsritme dat gehanteerd werd bij de indienstname van de betrokken installatie.<br>
 <br>
-Voor lopende projecten voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top tijdens de afschrijvingsperiode bedoeld in artikel 7.1.1, § 2 of § 3, of in artikel 7.1.2, § 2 of § 3, niet geactualiseerd wanneer in de methodiek voor een projectcategorie brandstofkosten, vermeld in het eerste lid, 3°, van toepassing kunnen zijn. De onrendabele top voor de productie van groene stroom in een installatie met een startdatum voor 1 januari 2013, vermeld in artikel 7.1.1, § 1, wordt niet geactualiseerd.&nbsp;Voor alle andere lopende projecten voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top enkel geactualiseerd afhankelijk van de elektriciteitsprijs.<br>
+Voor lopende projecten en nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top tijdens de afschrijvingsperiode bedoeld in artikel 7.1.1, § 2 of § 3, of in artikel 7.1.2, § 2 of § 3, niet geactualiseerd wanneer in de methodiek voor een projectcategorie brandstofkosten, vermeld in het eerste lid, 3°, van toepassing kunnen zijn. De onrendabele top voor de productie van groene stroom in een installatie met een startdatum voor 1 januari 2013, vermeld in artikel 7.1.1, § 1, wordt niet geactualiseerd.&nbsp;Voor alle andere lopende projecten en nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar voor de productie van groene stroom of voor warmte-krachtkoppeling wordt de onrendabele top enkel geactualiseerd afhankelijk van de elektriciteitsprijs.<br>
+<br>
+In afwijking van het derde lid wordt voor alle lopende projecten en nieuwe projecten met een startdatum vanaf 1 augustus tot en met 31 december van het lopende kalenderjaar voor de productie van groene stroom of voor warmtekracht koppeling de onrendabele top tijdens de afschrijvingsperiode, vermeld in artikel 7.1.1, § 2 of § 3, of in artikel 7.1.2, § 2 of § 3, wel geactualiseerd op basis van de tarieven van de vennootschapsbelasting.<br>
 <br>
 De Vlaamse Regering kan in het kader van de berekeningsmethodiek van de onrendabele top maximumwaarden opleggen voor de parameters, vermeld in het eerste lid, of voor de bandingfactoren.<br>
 <br>
@@ -2738,7 +2822,7 @@ De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de procedure
 
 ### ART. 14.2.1.
 
-<P>De inkomsten die voortvloeien uit de opbrengst van de heffingen, vermeld in   deze titel, worden rechtstreeks toegewezen aan het Energiefonds, vermeld in   artikel 3.2.1.</P>
+...
 
 ## Afdeling II. Inning van de heffing op de afnamepunten van elektriciteit door de toegangshouders
 
@@ -2786,9 +2870,76 @@ Als het totaal bedrag van de niet-invorderbare schuldvorderingen lager is dan he
 
 ## [Afdeling I. Belastbare materie en tarief van de heffing op de exploitatie van een directe lijn in het Vlaamse Gewest (ing. decr. 16 november 2018, art. 6, I: 1 januari 2019)]
 
+### ART 14.3.1.
+
+Er wordt een heffing ingesteld op de exploitatie van een toegelaten directe lijn die de grenzen van de eigen site overschrijdt, vermeld in artikel 4.5.1, § 2, en die gelegen is in het Vlaamse Gewest.<br>
+<br>
+De heffing wordt berekend op een hoeveelheid elektrische stroom uitgedrukt in megawattuur, die gelijk is aan de hoeveelheid stroom die jaarlijks in de directe lijn wordt geïnjecteerd.<br>
+<br>
+De beheerder van de directe lijn, vermeld in het eerste lid, die voor de toepassing van dit hoofdstuk de heffingsplichtige is, is de heffing verschuldigd.
+
+### ART 14.3.2.
+
+Het tarief van de heffing, vermeld in artikel 14.3.1, bedraagt:<br>
+1° voor een directe lijn die de grenzen van de eigen site overschrijdt en waar de afnemer aangesloten is op laagspanning: 53,83 euro per geïnjecteerd megawattuur;<br>
+2° voor een directe lijn die de grenzen van de eigen site overschrijdt en waar de afnemer aangesloten is op middenspanning: 5,95 euro per geïnjecteerd megawattuur;<br>
+3° voor een directe lijn die de grenzen van de eigen site overschrijdt en waar de afnemer aangesloten is op hoogspanning of in eilandwerking is: 0,36 euro per geïnjecteerd megawattuur.<br>
+<br>
+Indien de afnemer, vermeld in het eerste lid, op diens eigen site echter aangesloten is op meerdere spanningsniveaus, dan wordt het tarief gehanteerd dat behoort tot het hoogste spanningsniveau waarop deze is aangesloten.
+
+### ART 14.3.3.
+
+§ 1. De heffing, vermeld in dit hoofdstuk, wordt van rechtswege met ingang van heffingsjaar 2020 jaarlijks op 1 januari geïndexeerd door het tarief, vermeld in artikel 14.3.2, te vermenigvuldigen met het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen, dat per 1 januari van toepassing is, en te delen door het gewogen gemiddelde van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen dat op 31 december 2018 van toepassing was. De VREG stelt daarvoor de nodige gegevens ter beschikking aan de Vlaamse Belastingdienst.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt het tarief voor een directe lijn die de grenzen van de eigen site overschrijdt en waar de afnemer aangesloten is op hoogspanning of in eilandwerking is als vermeld in artikel 14.3.2, 3°, geïndexeerd aan de hand van het gewogen gemiddelde van het gedeelte van het elektriciteitsdistributienettarief per kilowattuur voor afname dat is toegewezen voor de financiering van de openbaredienstverplichtingen dat van toepassing is op zij die rechtstreeks aangesloten zijn op de transformatoren tussen het hoogspanningsnet en het middenspanningsnet.<br>
+<br>
+§ 3. Het gewogen gemiddelde, vermeld in paragraaf 1 en 2, wordt berekend door de optelsom van de getallen die bekomen worden door het van toepassing zijnde standaardtarief voor openbaredienstverplichtingen per netbeheerder te vermenigvuldigen met het aantal afnamepunten waarop dit tarief op de betreffende datum van toepassing is, te delen door het totale aantal afnamepunten in het Vlaamse Gewest die op de betreffende datum zijn aangesloten op het betrokken spanningsniveau.
+
 ## [Afdeling II. Inning en invordering van de heffing op de exploitatie van een directe lijn in het Vlaamse Gewest (ing. decr. 16 november 2018, art. 10, I: 1 januari 2019)]
 
+### ART 14.3.4.
+
+De elektriciteitsdistributienetbeheerder in wiens geografisch gebied de directe lijn, vermeld in artikel 14.3.1, gelegen is, meet de elektriciteit die op jaarbasis in de directe lijn geïnjecteerd wordt. De Vlaamse Regering kan nadere regels bepalen aangaande hoe die elektriciteit wordt gemeten.<br>
+<br>
+De elektriciteitsdistributienetbeheerder, vermeld in het eerste lid, zorgt ervoor dat voor een nieuwe toegelaten directe lijn als vermeld in artikel 4.5.1, § 2, in gebruik wordt genomen, ze wordt uitgerust met een meter die toelaat de elektriciteit die in de directe lijn geïnjecteerd wordt te meten als vermeld in dit hoofdstuk. De VREG bezorgt de elektriciteitsdistributienetbeheerders de nodige informatie om die installatie mogelijk te maken. De kost van deze meter en de plaatsing ervan is ten laste van de beheerder van de directe lijn.<br>
+<br>
+De elektriciteitsdistributienetbeheerders, vermeld in het eerste lid, melden voor 1 februari van het jaar dat volgt op het heffingsjaar aan de Vlaamse Belastingdienst voor elke directe lijn die in hun gebied ligt als vermeld in artikel 14.3.1, de hoeveelheid elektriciteit die gedurende het vorige kalenderjaar in die lijn werd geïnjecteerd.
+
+### ART 14.3.5.
+
+§ 1. Vóór 1 april van het jaar dat volgt op het heffingsjaar, wordt de heffing in het kohier ingeschreven en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor heeft aangewezen.<br>
+<br>
+De kohieren bevatten op straffe van nietigheid:<br>
+1° de naam van de heffingsplichtige;<br>
+2° de verwijzing naar dit decreet;<br>
+3° het heffingsjaar;<br>
+4° de berekening en het bedrag van de verschuldigde heffing;<br>
+5° de datum van uitvoerbaarverklaring;<br>
+6° de handtekening van de ambtenaar die ermee belast is het kohier uitvoerbaar te verklaren.<br>
+<br>
+Ter uitvoering van het kohier worden de aanslagbiljetten naar de heffingsplichtigen gestuurd. Deze aanslagbiljetten bevatten:<br>
+1° de verzendingsdatum;<br>
+2° de datum van uitvoerbaarverklaring van het kohier;<br>
+3° het kohierartikel;<br>
+4° het heffingsjaar;<br>
+5° de grondslag van de belasting;<br>
+6° het te betalen bedrag en de berekeningswijze ervan;<br>
+7° de uiterste betaaldatum;<br>
+8° de termijn waarin de belastingschuldige bezwaar kan indienen, de benaming en het adres van de entiteit van de Vlaamse administratie die bevoegd is om het bezwaar te ontvangen, en de formaliteiten die daarbij moeten worden nageleefd.<br>
+<br>
+De heffingsplichtige moet de heffing betalen binnen twee maanden nadat het aanslagbiljet is verzonden.<br>
+<br>
+§ 2. Binnen een termijn van drie maanden nadat het aanslagbiljet is verzonden, kan de heffingsplichtige beroep aantekenen bij de Vlaamse Belastingdienst. Dat beroep vermeldt, op straffe van nietigheid, de naam van de heffingsplichtige, het kohiernummer, het heffingsjaar en de motieven van het beroep. De Vlaamse Regering bepaalt de nadere modaliteiten van dat administratief beroep.<br>
+<br>
+De beslissing wordt schriftelijk meegedeeld en ze vermeldt de wijze waarop ertegen in rechte kan worden getreden. De beslissing is onherroepelijk als er geen vordering bij de rechtbank van eerste aanleg is ingesteld binnen de termijn, vermeld in artikel 1385undecies van het Gerechtelijk Wetboek.<br>
+<br>
+§ 3. Als er door deze titel niet van wordt van afgeweken, zijn op deze heffing de bepalingen van titel III van de Vlaamse Codex Fiscaliteit van 13 december 2013 van overeenkomstige toepassing.
+
 ## [HOOFDSTUK IV. INKOMSTEN UIT DE ENERGIEHEFFINGEN (ing. decr. 16 november 2018, art. 13, I: 1 januari 2019)]
+
+### ART 14.4.1.
+
+De inkomsten die voortvloeien uit de opbrengst van de heffingen, vermeld in deze titel, worden rechtstreeks toegewezen aan het Energiefonds, vermeld in artikel 3.2.1.
 
 ## [TITEL XIV/1. EXPERIMENTREGELGEVING EN REGELLUWE ZONES VOOR ENERGIE (ing. decr. 16 november 2018, art. 54, I: 24 december 2018)]
 
@@ -2909,6 +3060,10 @@ Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 e
 ### ART 15.3.5/17.
 
 De werkmaatschappij past tegen uiterlijk 1 april 2019 de statuten en de samenstelling van haar raad van bestuur aan de voorwaarden, vermeld in artikel 4.1.5/1, aan. Als de werkmaatschappij de statuten of de samenstelling van de raad van bestuur niet aanpast, dan kan de VREG de toestemming, vermeld in artikel 4.1.5, eerste lid, intrekken.
+
+### ART 15.3.5/18.
+
+De distributienetbeheerders hebben tot en met 1 januari 2021 de tijd om te voldoen aan de voorwaarden, vermeld in artikel 4.1.1, eerste lid, waarbij eventueel onderling gebieden kunnen worden uitgewisseld. De VREG doet, conform de door de Vlaamse Regering volgens artikel 4.1.4 vastgestelde procedure, waar nodig een nieuwe aanwijzing als distributienetbeheerder, of wijzigt de bestaande aanwijzing als distributienetbeheerder.
 
 ### ART 15.3.5/19.
 
@@ -3347,11 +3502,11 @@ waarin:<br>
 SPFaangifte de in de EPB-aangifte vermelde waarde van de SPF i;<br>
 SPFeis de minimaal vereiste waarde van de SPF;<br>
 Ainst, heat, net, aangifte de in de EPB-aangifte vermelde netto vloeroppervlakte die bediend wordt door de verwarmingsinstallatie, uitgedrukt in m². Dit is de som van de vloeroppervlaktes in m² van alle ruimtes waarin minstens één warmte afgifte-element of inblaasmond van warme lucht aangesloten is op de betreffende verwarmingsinstallatie.<br>
-1.7.3. Directe elektrische verwarming<br>
-Als in de EPB-aangifte opgegeven is dat niet voldaan is aan de eis betreffende het maximaal toegestaan elektrische vermogen van direct elektrische verwarming, wordt de overeenkomstige afwijking op het vlak van het elektrische vermogen, uitgedrukt in W, als volgt bepaald:<br>
+1.7.3. Directe&nbsp;verwarming<br>
+Als in de EPB-aangifte opgegeven is dat niet voldaan is aan de eis betreffende het maximaal toegestaan&nbsp;vermogen van directe&nbsp;verwarming, wordt de overeenkomstige afwijking op het vlak van het&nbsp; vermogen, uitgedrukt in W, als volgt bepaald:<br>
 (Wtot, aangifte/Af, gross, aangifte - 15 W/m²) Af, gross, aangifte<br>
 waarin:<br>
-Wtot, aangifte de in de EPB-aangifte vermelde waarde van het totale afgiftevermogen van de elektrische verwarmingstoestellen, uitgedrukt in W;<br>
+Wtot, aangifte de in de EPB-aangifte vermelde waarde van het totale afgiftevermogen van de&nbsp;verwarmingstoestellen, uitgedrukt in W;<br>
 Af, gross, aangifte de in de EPB-aangifte vermelde brutovloeroppervlakte in m².<br>
 1.7.4. Elektrische doorstroomtoestellen en boilers<br>
 Als in de EPB-aangifte opgegeven is dat niet voldaan is aan de eis betreffende het maximaal toegestaan elektrische vermogen van elektrische warmwaterproductietoestellen, wordt de overeenkomstige afwijking op het vlak van het elektrische vermogen, uitgedrukt in W, als volgt bepaald:<br>
@@ -3814,12 +3969,12 @@ Als bij controle de vastgestelde waarde van de SPF kleiner blijkt dan in de EPB-
 SPF<sub>aangifte de in de EPB-aangifte vermelde waarde van de SPF;</sub><br>
 SPF<sub>vaststelling de bij controle vastgestelde waarde van de SPF;</sub><br>
 A<sub>inst, heat, net, vaststelling de bij controle vastgestelde waarde van de netto vloeroppervlakte die bediend wordt door de verwarmingsinstallatie, uitgedrukt in m². Dit is de som van de vloeroppervlaktes in m² van alle ruimtes waarin minstens één warmte afgifte-element of inblaasmond van warme lucht aangesloten is op de betreffende verwarmingsinstallatie.<br>
-2.7.3. Directe elektrische verwarming<br>
-Als bij controle de vastgestelde waarde van het elektrische vermogen van de direct elektrische verwarming groter blijkt dan in de EPB-aangifte is vermeld, wordt de overeenkomstige afwijking op het vlak van het elektrische vermogen, uitgedrukt in W, als volgt bepaald:</sub><br>
+2.7.3. Directe verwarming<br>
+Als bij controle de vastgestelde waarde van het&nbsp;vermogen van de directe&nbsp;verwarming groter blijkt dan in de EPB-aangifte is vermeld, wordt de overeenkomstige afwijking op het vlak van het&nbsp;vermogen, uitgedrukt in W, als volgt bepaald:</sub><br>
 W <sub>tot, vaststelling</sub> – W <sub>tot, aangifte</sub><br>
 <sub>waarin:</sub><br>
-W <sub>tot, vaststelling</sub> <sub>de bij controle vastgestelde waarde van het totale afgiftevermogen van de elektrische verwarmingstoestellen, uitgedrukt in W;</sub><br>
-W <sub>tot, aangifte </sub><sub>de in de EPB-aangifte vermelde waarde van het totale afgiftevermogen van de elektrische verwarmingstoestellen, uitgedrukt in W.<br>
+W <sub>tot, vaststelling</sub> <sub>de bij controle vastgestelde waarde van het totale afgiftevermogen van de&nbsp;verwarmingstoestellen, uitgedrukt in W;</sub><br>
+W <sub>tot, aangifte </sub><sub>de in de EPB-aangifte vermelde waarde van het totale afgiftevermogen van de&nbsp;verwarmingstoestellen, uitgedrukt in W.<br>
 2.7.4. Elektrische doorstroomtoestellen en boilers<br>
 Als bij controle de vastgestelde waarde van het elektrische vermogen van de elektrische warmwaterproductietoestellen groter blijkt dan in de EPB-aangifte is vermeld, wordt de overeenkomstige afwijking op het vlak van het elektrische vermogen, uitgedrukt in W, als volgt bepaald:</sub><br>
 P<sub>el, vaststelling</sub> – P<sub>el, aangifte</sub><br>
@@ -3974,7 +4129,7 @@ Bij het berekenen van de afwijkingen worden volgende afrondingen toegepast:<br>
 
 			<p>- Het ventilatiedebiet V (m<sup>3</sup>/h), wordt afgerond op drie cijfers na de komma.<br>
 			- De jaarlijkse netto-energiebehoefte voor verwarming Q (kWh/m².jaar) wordt afgerond tot op twee cijfers na de komma.<br>
-			- Het S-peil (kWh/m²) wordt afgerond tot op twee cijfers na de komma.</p>
+			- Het S-peil (kWh/m²) is een geheel getal.</p>
 			</td>
 		</tr>
 	</tbody>
