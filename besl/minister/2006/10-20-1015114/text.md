@@ -17,44 +17,23 @@ Besluit :<br>
 
 ### ART. 1.
 
-De vergunningverlenende overheid zendt maandelijks elektronisch naar het Vlaams Energieagentschap een overzicht van de aanvragen tot het verkrijgen van een stedenbouwkundige vergunning of van een omgevingsvergunning voor stedenbouwkundige handelingen&nbsp;die vergund, geweigerd, vernietigd of geschorst werden. De gemeente zendt tevens elektronisch een overzicht betreffende de meldingsplichtige handelingen die bij de gemeente in die betreffende periode werden aangemeld.<br>
-<br>
-Het overzicht bevat per aanvraag of melding de volgende gegevens :<br>
-1° de gemeente waar het perceel gelegen is;<br>
-2° het energieprestatiedossiernummer;<br>
-3° de aard en het onderwerp van de werkzaamheden;<br>
-4° de ligging;<br>
-5° de gegevens van de aanvrager(s) of van de meldingsplichtige(n);<br>
-6° de datum van de aanvraag van de vergunning of van de melding;<br>
-7° de beslissingen betreffende de vergunning, weigering, schorsing en vernietiging door de bevoegde instantie en de bijhorende data van het dossier;<br>
-8° de vaststelling door de gemeente dat de aangemelde meldingsplichtige handelingen toch vergunningsplichtig zouden zijn;<br>
-9° de toepasselijkheid van de EPB-eisen en de aanwezigheid van de haalbaarheidsstudie;<br>
-10° de betrokkenheid van een architect;<br>
-11° het type van de dossiersamenstelling;<br>
-12° de startdatum/data en einddatum/data van de werkzaamheden;<br>
-13° ....
+...
 
 ### ART. 2.
 
-Bij het verlenen van de vergunning bezorgt de vergunningverlenende overheid de houder van de omgevingsvergunning voor stedenbouwkundige handelingen het toegekende energieprestatiedossiernummer. Bij de aktename van de melding bezorgt het bevoegd bestuur de meldingsplichtige(n) het toegekende energieprestatiedossiernummer.<br>
-<br>
-Het energieprestatiedossiernummer wordt als volgt opgemaakt :<br>
-1° Voor gemeenten : 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente - G - intern dossiernummer van de gemeente of nummer van het vergunningenregister'.<br>
-1° /1 Voor de provincies: 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van de provincie';<br>
-2° Voor Omgeving: 'energieprestatiedossiernummer = NIS-code van de hoofdgemeente waar het bouwproject gelegen is - A - intern dossiernummer van Omgeving'.<br>
-&nbsp;
+...
 
 ### ART. 3.
 
-Het overzicht, vermeld in artikel 1, wordt uiterlijk de vijftiende dag van de maand verstuurd via de website van de energieprestatiedatabank van het Vlaams Energieagentschap en bevat de informatie van de kalendermaand die aan het verzenden vooraf gaat.<br /><br />De verzending gebeurt elektronisch onder xml-formaat. Het Vlaams Energieagentschap legt technische richtlijnen vast met specificaties waaraan het elektronisch databestand moet voldoen.<br /><br />De vergunningverlenende overheden die niet beschikken over een elektronisch dataopvolgingssysteem waarmee men automatisch het xml-overzicht kan genereren, dienen contact op te nemen met het Vlaams Energieagentschap dat voor hen een alternatieve toepassing ter beschikking zal stellen waarbij per vergunning of per aanvraag de vergunningverlenende overheid een webformulier kan invullen op de energieprestatiedatabank. <br /><br />
+...
 
 ### ART. 4.
 
-De vergunningverlenende overheid volgt de doorgestuurde xml-bestanden op via de webtoepassing van de energieprestatiedatabank. Wanneer een bestand nog vormelijke of inhoudelijke fouten bevat, verstuurt de vergunningverlenende overheid de informatie opnieuw tot de inhoud correct is en het volledige bericht als ontvankelijk wordt beschouwd. <br /><br />
+...
 
 ### ART. 5.
 
-Voor bouwprojecten waarvoor een startverklaring werd ingediend, kan de bevoegde vergunningverlenende overheid, de gegevens over de startdatum van de werkzaamheden in de energieprestatiedatabank consulteren.<br /><br />
+...
 
 ## HOOFDSTUK II Overgangs- en slotbepalingen
 
@@ -64,4 +43,4 @@ Voor bouwprojecten waarvoor een startverklaring werd ingediend, kan de bevoegde 
 
 ### ART. 7.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
