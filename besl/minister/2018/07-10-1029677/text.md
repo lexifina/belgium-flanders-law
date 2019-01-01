@@ -20,31 +20,24 @@ Besluit :
 
 ### ART 1.
 
-Dit besluit is van toepassing op het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.
+...
 
 ### ART 2.
 
-In dit besluit wordt verstaan onder:<br>
-1° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
-2° administrateur-generaal: het personeelslid dat belast is met de leiding van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
-3° VUTG: Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid.
+...
 
 ### ART 3.
 
-De administrateur-generaal is gemachtigd om:<br>
-1° contractuele handelingen te stellen die het VUTG binden;<br>
-2° ten aanzien van de publieke en private partners van het VUTG de nodige samenwerkingsovereenkomsten te sluiten of handelingen stellen in voorbereiding op de uitbetaling van de toelagen in het kader van het gezinsbeleid overeenkomstig het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
-3° personeel aan te werven in naam van het VUTG;<br>
-4° elke andere handeling te verrichten die de administrateur-generaal nodig acht om het VUTG operationeel te maken en de uitbetaling te kunnen garanderen op 1 januari 2019.
+...
 
 ### ART 4.
 
-De administrateur-generaal kan, wat de machtigingen betreft vermeld in artikel 3, subdelegatie verlenen aan het afdelingshoofd binnen het agentschap Kind en Gezin, dat optreedt als transitiemanager overeenkomstig de conceptnota kinderbijslag, op 31 juli 2016 door de Vlaamse Regering goedgekeurd.
+...
 
 ### ART 5.
 
-Over het gebruik van de bevoegdheid, vermeld in artikel 3, wordt maandelijks gerapporteerd aan de minister.
+...
 
 ### ART 6.
 
-Dit besluit treedt in werking op 1 juni 2018 en treedt buiten werking op de datum van aanstelling van de gedelegeerd bestuurder van het VUTG overeenkomstig artikel 9, eerste lid van het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind, en Gezin en uiterlijk op 1 januari 2019.
+...
