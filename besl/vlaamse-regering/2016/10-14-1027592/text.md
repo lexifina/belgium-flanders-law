@@ -27,7 +27,7 @@ Besluit :<br>
 
 Er wordt bij het Departement Economie, Wetenschap en Innovatie een adviesraad opgericht, de Vlaamse Adviesraad voor Innoveren en Ondernemen te noemen afgekort VARIO.<br>
 <br>
-De VARIO is een adviesraad als vermeld in artikel 3, derde lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br>
+De VARIO is een adviesraad als vermeld in artikel III.1, derde lid, van het bestuursdecreet van 7 december 2018.<br>
 &nbsp;
 
 ## HOOFDSTUK 2 Taken en bevoegdheden

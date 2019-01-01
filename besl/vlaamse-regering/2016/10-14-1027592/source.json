@@ -2,16 +2,16 @@
   "codex_id": 1027592,
   "title": "Besluit van de Vlaamse Regering van 2016-10-14 houdende het oprichten van de Vlaamse Adviesraad voor Innoveren en Ondernemen (VARIO)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027592/VolledigDocument?datum=2018-02-19",
-  "source_sha256": "5d563e2128b674747e3a488b130508d2a0b2a4fa835fb75d1eac20bcbd4da24c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027592/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "6f1fdda762eb45020e18c947b2703e35e1928f942429b9f885f010f52acae0f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027592&param=informatie",
-  "as_of": "2018-02-19",
+  "as_of": "2019-01-01",
   "made": "2016-10-14",
   "gazette": "2016-11-24",
   "numac": 2016036541,
   "document_start": "2016-12-04",
   "document_end": null,
-  "in_force": "2018-02-19",
+  "in_force": "2019-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2018-02-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
