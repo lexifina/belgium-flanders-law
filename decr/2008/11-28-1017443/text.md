@@ -6,7 +6,11 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder : <br />1° diensten van de Vlaamse overheid : <br />a) de departementen, de intern verzelfstandigde agentschappen en de extern verzelfstandigde agentschappen, vermeld in artikel 3 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />b) de secretariaten van de strategische adviesraden, vermeld in artikel 12 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br />2° een beleidsdomein : een homogeen beleidsdomein als vermeld in artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° diensten van de Vlaamse overheid :<br>
+a) de departementen, de intern verzelfstandigde agentschappen en de extern verzelfstandigde agentschappen, vermeld in artikel III.1 van het Bestuursdecreet van 7 december 2018;<br>
+b) de secretariaten van de strategische adviesraden, vermeld in artikel III.100 van het Bestuursdecreet van 7 december 2018;<br>
+2° een beleidsdomein : een homogeen beleidsdomein als vermeld in artikel III.1 van het Bestuursdecreet van 7 december 2018.
 
 ### ART. 3.
 
