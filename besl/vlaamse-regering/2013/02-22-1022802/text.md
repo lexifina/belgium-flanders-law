@@ -82,6 +82,23 @@ Op verzoek van het agentschap bewijst de voorziening het resultaat van het overl
 <br>
 Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, rekening houdend met de gezondheidsindex, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, volgens de formule : (basisbedrag x index december 20../index december 2017).</p>
 
+### ART 9/1.
+
+In dit artikel wordt verstaan onder een vrijwilliger: een vrijwilliger als vermeld in artikel 3, 2°, van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers.<br>
+<br>
+De voorziening mag maximaal 7 % van de zorggebonden personeelspunten waarvoor ze is erkend, omzetten in werkingsmiddelen tegen het bedrag per punt, vermeld in artikel 9, § 3, tweede lid, om vrijwilligers te vergoeden die op een structurele wijze zijn ingeschakeld in de individuele begeleiding van personen met een handicap, en die hen op regelmatige basis psychosociale en praktische ondersteuning bieden.<br>
+<br>
+Het agentschap subsidieert de werkingsmiddelen, vermeld in het tweede lid, als aan al de volgende voorwaarden is voldaan:<br>
+1° er is voor de werkingsmiddelen, vermeld in het tweede lid, voldaan aan de voorwaarden, vermeld in artikel 9, § 3, vierde en vijfde lid, van dit besluit;<br>
+2° elke vrijwilliger wordt ingezet voor de ondersteuning van een persoon met een handicap, vermeld in het tweede lid;<br>
+3° er is een vrijwilligersovereenkomst gesloten tussen de voorziening en de vrijwilliger over de ondersteuning van een persoon met een handicap, vermeld in het tweede lid;<br>
+4° er is een vrijwilligersvergoeding betaald conform hoofdstuk VII van de wet van 3 juli 2005 betreffende de rechten van vrijwilligers;<br>
+5° de voorziening bezorgt het agentschap de navolgende gegevens over de inzet van de vrijwilligers, op de wijze die het agentschap bepaalt:<br>
+a) de voornaam- en achternaam van de vrijwilligers die zijn ingezet voor de ondersteuning, vermeld in het tweede lid;<br>
+b) de voor- en achternaam van de personen met een handicap die door een vrijwilliger zijn ondersteund;<br>
+c) de vrijwilligersvergoedingen die aan iedere vrijwilliger zijn betaald;<br>
+6° het agentschap kan de vrijwilligersovereenkomsten en andere bewijsstukken over de inzet en de vergoeding van de vrijwilligers opvragen bij de voorziening.
+
 ### ART. 10.
 
 <p>De voorschotten op de subsidies worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.</p>
@@ -89,6 +106,20 @@ Het bedrag, vermeld in het tweede lid, wordt jaarlijks op 1 januari aangepast, r
 <p>Het financieel verslag wordt uiterlijk ingediend op 30 juni van het jaar dat volgt op het werkingsjaar. Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.</p>
 
 <p>Het saldo van de subsidies wordt verrekend na de goedkeuring van het financieel verslag, binnen achttien maanden die volgen op de datum, vermeld in het tweede lid.</p>
+
+### ART 10/1.
+
+Het gedeelte van de toegekende subsidie, vermeld in artikel 9, § 1, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als de voorziening, vermeld in artikel 2, niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
 
 ## Afdeling 3 Toepassingsvoorwaarden
 
@@ -117,7 +148,9 @@ In voorkomend geval wordt het aantal nachten woonondersteuning, dat voor de toep
 
 <p>De persoon met een handicap kan ambulante begeleiding, mobiele begeleiding, dagopvang, verblijf en groepsbegeleiding combineren tot maximaal acht personeelspunten per persoon per kalenderjaar.<br>
 <br>
-Voor de berekening van het maximum aantal personeelspunten per persoon per kalenderjaar, als vermeld in het eerste lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per nacht verblijf.</p>
+Als de voorziening een beroep doet op een vrijwilliger voor de ondersteuning van een persoon met een handicap conform artikel 9/1, kan die persoon in afwijking van het eerste lid ambulante begeleiding, mobiele begeleiding, dagopvang, verblijf en groepsbegeleiding combineren tot maximaal zeven personeelspunten per persoon per kalenderjaar.<br>
+<br>
+Voor de berekening van het maximum aantal personeelspunten per persoon per kalenderjaar, als vermeld in het eerste of het tweede&nbsp;lid, wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6, per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per nacht verblijf.</p>
 
 ### ART. 14.
 
