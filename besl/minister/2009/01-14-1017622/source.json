@@ -2,16 +2,16 @@
   "codex_id": 1017622,
   "title": "Ministerieel besluit van 2009-01-14 tot bepaling van de standaard voor de titel van residentieel elektrotechnisch installateur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017622/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "a474b894db887cb8e51934a1ccd9e2618c0e5fe7f539a9b79d7ed533263aaccb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017622/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "87d83ff1e37a7f86f82c180e4deb098de33fd8b7357746b5e4bb21093f14445a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017622&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2019-01-01",
   "made": "2009-01-14",
   "gazette": "2009-02-24",
   "numac": 2009200512,
   "document_start": "2009-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
