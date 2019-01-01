@@ -15,7 +15,9 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder rust- en   verzorgingstehuis: een instelling die conform artikel 2 van het koninklijk   besluit van 21 september 2004 houdende vaststelling van de normen voor de   bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor   dagverzorging of als centrum voor niet aangeboren hersenletsels, beschikt over   een bijzondere erkenning als rust- en verzorgingstehuis.
+In dit besluit wordt verstaan onder:<br>
+1° rust- en verzorgingstehuis: een instelling die conform artikel 2 van het koninklijk besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels zoals van toepassing op 31 december 2018, beschikt over een bijzondere erkenning als rust- en verzorgingstehuis;<br>
+2° woonzorgcentrum met een bijkomende erkenning: woonzorgcentrum als vermeld in artikel 52/1, tweede lid, van het Woonzorgdecreet van 13 maart 2009.
 
 ### ART. 2.
 
@@ -23,7 +25,9 @@ Het maximale aantal te erkennen bedden met een bijzondere erkenning als rust- en
 <br>
 Het maximale aantal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 januari 2017 vastgelegd op 45.923 bedden.<br>
 <br>
-Het maximaal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 april 2018 vastgelegd op 47.773 bedden.
+Het maximaal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 april 2018 vastgelegd op 47.773 bedden.<br>
+<br>
+Het maximaal te erkennen woongelegenheden erkend als woonzorgcentrum met een bijkomende erkenning wordt met ingang van 1 januari 2019 vastgelegd op 47.773 woongelegenheden.
 
 ### ART. 3.
 
@@ -35,7 +39,9 @@ De bepaling van artikel 2, 1ste lid heeft uitwerking met ingang van 1 januari 20
 <br>
 De bepaling van artikel 2, 2de lid heeft uitwerking met ingang van 1 januari 2017.<br>
 <br>
-Artikel 2, derde lid, heeft uitwerking met ingang van 1 april 2018.
+Artikel 2, derde lid, heeft uitwerking met ingang van 1 april 2018 en treedt buiten werking op 1 januari 2019.<br>
+<br>
+Artikel 2, vierde lid, treedt in werking op 1 januari 2019.
 
 ### ART. 5.
 
