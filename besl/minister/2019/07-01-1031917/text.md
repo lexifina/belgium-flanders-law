@@ -34,6 +34,10 @@ Overwegende dat om die reden dit besluit dringend in werking moet treden,<br>
 <br>
 Besluit :
 
+### ART 1.
+
+In artikel 2 van het ministerieel besluit van 24 januari 2011 tot uitvoering van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, gewijzigd bij het ministerieel besluit van 24 december 2013, wordt de zinsnede "en artikel 24, 3°, c)," opgeheven.
+
 ### ART 2.
 
 In hetzelfde besluit, het laatst gewijzigd bij het ministerieel besluit van 24 januari 2019, wordt een artikel 15/1 ingevoegd, dat luidt als volgt:<br>
@@ -44,8 +48,27 @@ In hetzelfde besluit, het laatst gewijzigd bij het ministerieel besluit van 24 j
 
 Artikel 1/1 van het ministerieel besluit van 20 december 2012 tot uitvoering van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, ingevoegd bij het ministerieel besluit van 7 maart 2016, wordt vernummerd tot artikel 2/1.
 
+### ART 4.
+
+In artikel 3 van hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 december 2013, wordt de zinsnede "en artikel 37, 3°, c)," opgeheven.
+
 ### ART 5.
 
 In hoofdstuk 1/1 van het ministerieel besluit van 1 oktober 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest, ingevoegd bij het ministerieel besluit van 7 maart 2016, wordt een artikel 1/2 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 1/2. Ter uitvoering van artikel 5, tweede lid, van het besluit van de Vlaamse Regering van 19 juli 2013 wordt verstaan onder achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid: achterstallige schulden van 3.000 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.".
+
+### ART 6.
+
+In artikel 3 van hetzelfde besluit wordt het tweede lid opgeheven.
+
+### ART 7.
+
+Op de subsidieaanvragen die zijn ingediend vóór de inwerkingtreding van dit besluit, zijn artikel 2 van het ministerieel besluit van 24 januari 2011 tot uitvoering van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, artikel 3 van het ministerieel besluit van 20 december 2012 tot uitvoering van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest en artikel 3 van het ministerieel besluit van 1 oktober 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest, zoals ze golden vóór de inwerkingtreding van dit besluit, van toepassing.
+
+### ART 8.
+
+Dit besluit heeft uitwerking met ingang van 1 januari 2019, met uitzondering van:<br>
+1° artikel 2, dat uitwerking heeft op 1 februari 2011;<br>
+1° artikel 3, dat uitwerking heeft op 1 april 2016;<br>
+2° artikel 5, dat uitwerking heeft op 1 januari 2014.
