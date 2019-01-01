@@ -17,7 +17,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° CIW : Coördinatiecommissie Integraal Waterbeleid, opgericht bij artikel 25 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+1° CIW : Coördinatiecommissie Integraal Waterbeleid, opgericht bij artikel 1.5.2.2 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° definitieve aanduiding : de definitieve aanduiding van een of meer watergevoelige openruimtegebieden;<br>
 3° plan-MER : een milieueffectrapport over een voorgenomen aanduiding als watergevoelig openruimtegebied;<br>
 4° VCRO : de Vlaamse Codex Ruimtelijke Ordening;<br>
