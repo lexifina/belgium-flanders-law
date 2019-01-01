@@ -251,7 +251,7 @@ Het beslissingscomité bij het Hermesfonds bepaalt binnen de perken van de begro
 <br>
 § 5. De Vlaamse Regering machtigt de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, om de nodige afspraken te maken met het beslissingscomité bij het Hermesfonds voor de nadere invulling van de opdracht.<br>
 <br>
-Het beslissingscomité bij het Hermesfonds houdt bij de nadere invulling van zijn opdracht, ook rekening met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, conform de modaliteiten die opgenomen zijn in het kaderdecreet bestuurlijk beleid van 18 juli 2003, of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
+Het beslissingscomité bij het Hermesfonds houdt bij de nadere invulling van zijn opdracht, ook rekening met de algemene en specifieke beleidslijnen van de Vlaamse Regering, vermeld in de afspraken tussen het Agentschap Innoveren en Ondernemen en de Vlaamse minister, bevoegd voor het technologisch innovatiebeleid, of met de concrete verzoeken van de Vlaamse Regering aan het beslissingscomité bij het Hermesfonds om initiatieven te ontwikkelen voor een specifiek programma of voor een specifiek accent binnen de algemene bedrijfssteun.<br>
 <br>
 In het tweede lid wordt verstaan onder Agentschap Innoveren en Ondernemen: het agentschap opgericht bij het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Innoveren en Ondernemen.
 
