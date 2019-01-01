@@ -8,7 +8,13 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br /><br />1° LRM: de naamloze vennootschap Limburgse Reconversiemaatschappij opgericht bij notariële akte van 1 februari 1994, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 24 februari 1994 onder het nummer 940224-318, met inbegrip van alle latere wijzigingen van de statuten;<br /><br />2° PMV: de naamloze vennootschap Participatiemaatschappij Vlaanderen opgericht bij notariële akte van 31 juli 1995, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 25 augustus 1995 onder het nummer 950825-236, met inbegrip van alle latere wijzigingen van de statuten;<br /><br />3° VPM: de naamloze vennootschap Vlaamse Participatiemaatschappij opgericht bij notariële akte van 4 november 1997, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 22 november 1997 onder het nummer 971122-226, met inbegrip van alle latere wijzigingen van de statuten;<br /><br />4° GIMV: de naamloze vennootschap Gimv opgericht bij notariële akte van 25 februari 1980, gepubliceerd in het Belgisch Staatsblad van 12 maart 1980 onder het nummer N573-2, met inbegrip van alle latere wijzigingen van de statuten;<br /><br />5° de investeringsmaatschappijen: de vennootschappen LRM, PMV en VPM;<br /><br />6° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003.
+In dit decreet wordt verstaan onder:<br>
+1° LRM: de naamloze vennootschap Limburgse Reconversiemaatschappij opgericht bij notariële akte van 1 februari 1994, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 24 februari 1994 onder het nummer 940224-318, met inbegrip van alle latere wijzigingen van de statuten;<br>
+2° PMV: de naamloze vennootschap Participatiemaatschappij Vlaanderen opgericht bij notariële akte van 31 juli 1995, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 25 augustus 1995 onder het nummer 950825-236, met inbegrip van alle latere wijzigingen van de statuten;<br>
+3° VPM: de naamloze vennootschap Vlaamse Participatiemaatschappij opgericht bij notariële akte van 4 november 1997, bij uittreksel gepubliceerd in het Belgisch Staatsblad van 22 november 1997 onder het nummer 971122-226, met inbegrip van alle latere wijzigingen van de statuten;<br>
+4° GIMV: de naamloze vennootschap Gimv opgericht bij notariële akte van 25 februari 1980, gepubliceerd in het Belgisch Staatsblad van 12 maart 1980 onder het nummer N573-2, met inbegrip van alle latere wijzigingen van de statuten;<br>
+5° de investeringsmaatschappijen: de vennootschappen LRM, PMV en VPM;<br>
+6° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 .
 
 ## HOOFDSTUK II DEELNEMINGSMACHTIGING EN KWALIFICATIE VAN DE INVESTERINGSMAATSCHAPPIJEN
 
@@ -20,9 +26,9 @@ Het deelnemen in elk van de investeringsmaatschappijen als bedoeld in het eerste
 <br>
 § 2. ...<br>
 <br>
-§ 3. De investeringsmaatschappijen zijn privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen als bedoeld in artikel 29 van het kaderdecreet.<br>
+§ 3. De investeringsmaatschappijen zijn privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen als bedoeld in artikel III.14 van het Bestuursdecreet.<br>
 <br>
-De bepalingen van het kaderdecreet zijn van toepassing op de investeringsmaatschappijen.<br>
+De bepalingen van het Bestuurrsdecreet zijn van toepassing op de investeringsmaatschappijen.<br>
 <br>
 § 4. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein elk der investeringsmaatschappijen behoort.<br>
 <br>
@@ -37,7 +43,7 @@ De bepalingen van het kaderdecreet zijn van toepassing op de investeringsmaatsch
 § 1. De missie en de taken van LRM als privaatrechtelijk vormgegeven extern verzelfstandigd agentschap zijn begrepen in de vermeldingen van paragraaf 2 die in het maatschappelijk doel van LRM zullen worden weergegeven.<br>
 <br>
 § 2. Het maatschappelijk doel van LRM wordt als volgt bepaald en als dusdanig weergegeven in de vennootschapsstatuten van LRM:<br>
-1° onverminderd het bepaalde in artikel 12 van het kaderdecreet, het zelf of samen met anderen deelnemen met kapitaal in en het verstrekken van kapitaalsubstituten, onder meer in de vorm van leningen aan bestaande of nog op te richten ondernemingen, verenigingen, samenwerkingsverbanden en andere juridische entiteiten, al dan niet bekleed met rechtspersoonlijkheid, die bijdragen tot de economische ontwikkeling of de tewerkstelling van de provincie Limburg;<br>
+1°&nbsp;het zelf of samen met anderen deelnemen met kapitaal in en het verstrekken van kapitaalsubstituten, onder meer in de vorm van leningen aan bestaande of nog op te richten ondernemingen, verenigingen, samenwerkingsverbanden en andere juridische entiteiten, al dan niet bekleed met rechtspersoonlijkheid, die bijdragen tot de economische ontwikkeling of de tewerkstelling van de provincie Limburg;<br>
 2° het uitvoeren van de bijzondere opdrachten van de Vlaamse regering waarvan de uitvoeringsmodaliteiten, de verantwoordelijkheden, de kostendekking en de vergoeding geregeld worden in afzonderlijke overeenkomsten met het Vlaamse Gewest.<br>
 <br>
 In de vennootschapsstatuten van LRM zal tevens worden bepaald dat de vennootschap alle activiteiten kan verrichten die, rechtstreeks of onrechtstreeks, bijdragen tot de verwezenlijking van haar maatschappelijk doel.
@@ -53,7 +59,7 @@ In de vennootschapsstatuten van LRM zal tevens worden bepaald dat de vennootscha
 § 1. De missie en de taken van PMV als privaatrechtelijk vormgegeven extern verzelfstandigd agentschap zijn begrepen in de vermeldingen van paragraaf 2 die in het maatschappelijk doel van PMV zullen worden weergegeven.<br>
 <br>
 § 2. Het maatschappelijk doel van PMV wordt als volgt bepaald en als dusdanig weergegeven in de vennootschapsstatuten van PMV:<br>
-1° onverminderd het bepaalde in artikel 12 van het kaderdecreet, het zelf of samen met anderen oprichten en deelnemen aan, alsmede het houden en verwerven van een participatie in vennootschappen, verenigingen, samenwerkingsverbanden en andere juridische entiteiten, al dan niet bekleed met rechtspersoonlijkheid, zulks met het oog op de verwezenlijking van het economisch overheidsinitiatief en de tenuitvoerlegging van de economische politiek van het Vlaamse Gewest;<br>
+1°&nbsp;het zelf of samen met anderen oprichten en deelnemen aan, alsmede het houden en verwerven van een participatie in vennootschappen, verenigingen, samenwerkingsverbanden en andere juridische entiteiten, al dan niet bekleed met rechtspersoonlijkheid, zulks met het oog op de verwezenlijking van het economisch overheidsinitiatief en de tenuitvoerlegging van de economische politiek van het Vlaamse Gewest;<br>
 2° als realisator van het Vlaamse economisch overheidsinitiatief, het initiëren, opstarten of uitbouwen van initiatieven en projecten ter stimulering van een duurzaam economisch klimaat in Vlaanderen;<br>
 3° het initiëren, opstarten of uitbouwen van initiatieven en projecten met het oog op de realisatie van publiek-private samenwerking en zulks in alle bevoegdheidsdomeinen;<br>
 4° het uitvoeren van de bijzondere opdrachten van de Vlaamse regering waarvan de uitvoeringsmodaliteiten, de verantwoordelijkheden, de kostendekking en de vergoeding geregeld worden in afzonderlijke overeenkomsten met het Vlaamse Gewest.<br>
@@ -71,8 +77,8 @@ In de vennootschapsstatuten van PMV zal tevens worden bepaald dat de vennootscha
 § 1. De missie en de taken van VPM als privaatrechtelijk vormgegeven extern verzelfstandigd agentschap zijn begrepen in de vermeldingen van paragraaf 2 die in het maatschappelijk doel van VPM zullen worden weergegeven.<br>
 <br>
 § 2. Het maatschappelijk doel van VPM wordt als volgt bepaald en als dusdanig weergegeven in de vennootschapsstatuten van VPM:<br>
-1° onverminderd het bepaalde in artikel 12 van het kaderdecreet, het zelf of samen met anderen oprichten en deelnemen aan, alsmede het houden en verwerven van een participatie in Vlaamse investeringsmaatschappijen en in de naamloze vennootschap GIMV, hiermee verbonden vennootschappen en diens rechtsopvolgers;<br>
-2° met het oog op de verwezenlijking van voormeld doel, het bij wijze van inschrijving, inbreng, fusie, samenwerking, financiële tussenkomst of anderszins verwerven van een belang of deelneming in, of het anderszins verstrekken van financiële middelen aan de naamloze vennootschap GIMV en/of alle bestaande of nog op te richten Vlaamse inves-teringsmaatschappijen;<br>
+1°&nbsp;het zelf of samen met anderen oprichten en deelnemen aan, alsmede het houden en verwerven van een participatie in Vlaamse investeringsmaatschappijen, hiermee verbonden vennootschappen en diens rechtsopvolgers;<br>
+2° met het oog op de verwezenlijking van voormeld doel, het bij wijze van inschrijving, inbreng, fusie, samenwerking, financiële tussenkomst of anderszins verwerven van een belang of deelneming in, of het anderszins verstrekken van financiële middelen aan alle bestaande of nog op te richten Vlaamse investeringsmaatschappijen;<br>
 3° het beheren van de voormelde participaties, het valoriseren en te gelde maken ervan, alsook, onder meer, het rechtstreeks of onrechtstreeks deelnemen aan het bestuur, de directie, de controle en vereffening van de vennootschappen waarin VPM een belang of deelneming heeft;<br>
 4° het verrichten van alle hoegenaamde handels-, nijverheids-, financiële, roerende en onroerende verrichtingen die rechtstreeks of onrechtstreeks in verband staan met voormelde doelstellingen of die van aard zijn deze te begunstigen.<br>
 <br>
@@ -86,7 +92,9 @@ In de vennootschapsstatuten van VPM zal tevens worden bepaald dat de vennootscha
 
 ### ART. 7.
 
-Binnen een termijn van vier maanden na de datum van bekendmaking van dit decreet in het Belgisch Staatsblad, wordt tussen, enerzijds, elk van de investeringsmaatschappijen en, anderzijds, het Vlaamse Gewest, een samenwerkingsovereenkomst als bedoeld in artikel 31 van het kaderdecreet gesloten, onder de opschortende voorwaarde van inwerkingtreding van het onderhavige decreet.<br /><br />De samenwerkingsovereenkomst bepaalt onder meer de operationele doelstellingen, de informatie- en rapportageplicht inzake de taken en financiële situatie, op basis van vooraf vastgestelde beleids- en beheersrelevante indicatoren de specifieke controle, de duur, de opzeggings- en verlengingsmogelijkheden van de overeenkomst.
+Binnen een termijn van vier maanden na de datum van bekendmaking van dit decreet in het Belgisch Staatsblad, wordt tussen, enerzijds, elk van de investeringsmaatschappijen en, anderzijds, het Vlaamse Gewest, een samenwerkingsovereenkomst als bedoeld in artikel III.16 van het Bestuursdecreet gesloten, onder de opschortende voorwaarde van inwerkingtreding van het onderhavige decreet.<br>
+<br>
+De samenwerkingsovereenkomst bepaalt onder meer de operationele doelstellingen, de informatie- en rapportageplicht inzake de taken en financiële situatie, op basis van vooraf vastgestelde beleids- en beheersrelevante indicatoren de specifieke controle, de duur, de opzeggings- en verlengingsmogelijkheden van de overeenkomst.
 
 ## HOOFDSTUK IVbis CORPORATE GOVERNANCE
 
@@ -110,7 +118,23 @@ De Vlaamse Regering gaat slechts over tot het sluiten van een samenwerkingsovere
 
 ### ART. 8.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de investeringsmaatschappijen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de investeringsmaatschappijen, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br /><br />4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen naar de vorm aanpassen.<br /><br />De coördinatie treedt pas in werking nadat zij bij decreet is bekrachtigd.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de investeringsmaatschappijen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Bestuursdecreet.<br>
+<br>
+De besluiten die krachtens deze paragraaf worden vastgesteld houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de investeringsmaatschappijen, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br>
+<br>
+4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen naar de vorm aanpassen.<br>
+<br>
+De coördinatie treedt pas in werking nadat zij bij decreet is bekrachtigd.
 
 ## HOOFDSTUK VI OPHEFFINGSBEPALING
 
