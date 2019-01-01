@@ -23,7 +23,8 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° minister:   de V
 14° het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, alleen wat betreft de toepassing van artikel 42;<br>
 15° besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie;<br>
 16° het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
-17° het decreet van 17 februari 2017 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw.
+17° het decreet van 17 februari 2017 houdende regeling tot erkenning en subsidiëring van een Vlaamse organisatie ter ondersteuning van welzijnsbevordering en samenlevingsopbouw;<br>
+18° het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, met uitzondering van de revalidatieziekenhuizen en de psychiatrische verzorgingstehuizen.
 
 ### ART. 3.
 
