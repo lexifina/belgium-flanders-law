@@ -2,16 +2,16 @@
   "codex_id": 1029400,
   "title": "Ministerieel besluit van 2018-05-30 tot vaststelling van de lijst met aandoeningen en voorgaande feiten van personen met een indicatie van een arbeidshandicap en de lijst met multidisciplinaire informatie, bepaald in artikel 4, tweede lid, 1° en 2°, van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029400/VolledigDocument?datum=2018-06-22",
-  "source_sha256": "cd724f7d65556ee508fadda8c2519e556f863bfe68470d44dbc4a471abc0c44e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029400/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "5d4700b1c5f213452f8ed0fd571126a761928e08ab1a9b47aa57084f0610ec9f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029400&param=informatie",
-  "as_of": "2018-06-22",
+  "as_of": "2019-01-01",
   "made": "2018-05-30",
   "gazette": "2018-06-12",
   "numac": 2018012538,
   "document_start": "2018-06-22",
   "document_end": "2018-12-31",
-  "in_force": "2018-06-22",
+  "in_force": "2019-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2018-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
