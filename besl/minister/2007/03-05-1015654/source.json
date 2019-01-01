@@ -2,16 +2,16 @@
   "codex_id": 1015654,
   "title": "Ministerieel besluit van 2007-03-05 tot bepaling van de standaard voor de titel van keukenmedewerker",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015654/VolledigDocument?datum=2007-03-26",
-  "source_sha256": "9d8463cb237eb5968563bc27c40c230c25cc8d1ebe1adb4883a5a4df89e4acc0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015654/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "b0725e3c15e075119bbb1ed3d354fe3c580c7dee5de5854701da1c80f8854342",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015654&param=informatie",
-  "as_of": "2007-03-26",
+  "as_of": "2019-01-01",
   "made": "2007-03-05",
   "gazette": "2007-03-26",
   "numac": 2007035413,
   "document_start": "2007-03-26",
   "document_end": "2018-12-31",
-  "in_force": "2007-03-26",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2007-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
