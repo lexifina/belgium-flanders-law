@@ -2,16 +2,16 @@
   "codex_id": 1026142,
   "title": "Besluit van de Vlaamse Regering van 2015-11-13 betreffende de omzetting van voorafgaande vergunningen of erkenningen voor centra voor kortverblijf of woonzorgcentra en tot wijziging van de regelgeving betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026142/VolledigDocument?datum=2015-12-10",
-  "source_sha256": "5ca45dc06d578d097e13e2ab71841c91766191cd1b3f68d046d561d53368e5ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026142/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "02ba528c4216835c58003d6359a262f9c4b2c233d0bc913f0b68cef46a2766f0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026142&param=informatie",
-  "as_of": "2015-12-10",
+  "as_of": "2019-01-01",
   "made": "2015-11-13",
   "gazette": "2015-11-30",
   "numac": 2015036491,
   "document_start": "2015-12-10",
   "document_end": "2018-12-31",
-  "in_force": "2015-12-10",
+  "in_force": "2019-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2015-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
