@@ -2,16 +2,16 @@
   "codex_id": 1027138,
   "title": "Decreet van 2016-06-24 houdende de regels voor de vrijwillige samenvoeging van gemeenten en tot wijziging van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds, van het Gemeentedecreet van 15 juli 2005, van het Provinciedecreet van 9 december 2005 en van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 [citeeropschrift: \"het decreet Vrijwillige Samenvoeging van Gemeenten van 24 juni 2016\"]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027138/VolledigDocument?datum=2016-08-29",
-  "source_sha256": "590533ffc907940ba360d988b099f40892c716ef0542763337ffd642a6528fda",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027138/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "74136c9b721a9dc921edfd2dd6d3ba502fbfaf10f4ec26df2c36df74203baaf0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027138&param=informatie",
-  "as_of": "2016-08-29",
+  "as_of": "2019-01-01",
   "made": "2016-06-24",
   "gazette": "2016-08-19",
   "numac": 2016036168,
   "document_start": "2016-08-29",
   "document_end": "2018-12-31",
-  "in_force": "2016-08-29",
+  "in_force": "2019-01-01",
   "article_versions": 68,
-  "record_form": "consolidated version as in force on 2016-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
