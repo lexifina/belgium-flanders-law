@@ -8,6 +8,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## HOOFDSTUK II. Wijziging van het Provinciedecreet van 9 december 2005
 
+### ART 2.
+
+In artikel 2, § 2, eerste lid, 3°, van het Provinciedecreet van 9 december 2005, vervangen bij het decreet van 29 juni 2012, wordt de zinsnede "het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking" vervangen door de zinsnede "de bepalingen van deel 3, titel 3, van het decreet van 22 december 2017 over het lokaal bestuur".
+
 ### ART 3.
 
 In artikel 7 van hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006, 30 april 2009 en 29 juni 2012, worden de volgende wijzigingen aangebracht:<br>
@@ -208,6 +212,16 @@ In artikel 51 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009
 
 Artikel 55 van hetzelfde decreet wordt vervangen door wat volgt:<br>
 "Art. 55. De deputatie neemt bij de aanvang van de zittingsperiode een huishoudelijk reglement aan waarin ze nadere regels vaststelt over haar werking.".
+
+### ART 32.
+
+In artikel 57, § 3, van hetzelfde decreet, vervangen bij het decreet van 30 april 2009 en gewijzigd bij de decreten van 29 juni 2012 en 3 juni 2016, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 4° wordt het woord "gunningsprocedure" vervangen door het woord "plaatsingsprocedure";<br>
+2° in punt 5° worden de woorden "wijze van gunning" vervangen door het woord "plaatsingsprocedure";<br>
+3° in punt 6° worden de woorden "wijze van gunning" vervangen door het woord "plaatsingsprocedure" en worden de woorden "als de opdracht nominatief in het vastgestelde budget is opgenomen en de provincieraad de wijze van gunning en de voorwaarden niet zelf heeft vastgesteld" vervangen door de woorden "voor de opdrachten waarvoor de provincieraad dat nominatief aan de deputatie heeft toevertrouwd";<br>
+4° punt 8°, b), wordt opgeheven;<br>
+5° punt 11° wordt opgeheven;<br>
+6° punt 12° wordt opgeheven.
 
 ### ART 33.
 
@@ -1221,6 +1235,10 @@ Tegen de uitspraken van de Raad voor Verkiezingsbetwistingen kan binnen een term
 In hetzelfde decreet wordt aan afdeling V, toegevoegd bij artikel 183, een artikel 214sexies toegevoegd, dat luidt als volgt:<br>
 "Art. 214sexies. De bepalingen van deel 5, titel 1, hoofdstuk 1, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, met uitzondering van artikel 234, zijn van toepassing op de provinciale volksraadpleging, met dien verstande dat "kiezer" en "kiezers" altijd worden gelezen als "deelnemer" en "deelnemers", "verkiezing", "verkiezingen" en "kiesverrichtingen" worden gelezen als "volksraadpleging" en "kiescollege" wordt gelezen als "college".".
 
+### ART 187.
+
+In hetzelfde decreet wordt hoofdstuk I van titel VII, dat bestaat uit artikel 215 tot en met 218, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, opgeheven.
+
 ### ART 188.
 
 In artikel 219, § 3, van hetzelfde decreet, wordt punt 3° vervangen door wat volgt:<br>
@@ -1256,6 +1274,15 @@ In artikel 227 van hetzelfde decreet worden de volgende wijzigingen aangebracht:
 1° het tweede lid wordt opgeheven;<br>
 2° het bestaande derde lid, dat het tweede lid wordt, wordt vervangen door wat volgt:<br>
 "De statutenwijzigingen worden op dezelfde wijze als de oprichtingsbeslissing en de statuten bekendgemaakt. Een volledig gecoördineerde tekst van de statuten wordt gepubliceerd via een webtoepassing van de provincie.".
+
+### ART 194.
+
+In artikel 228 van hetzelfde decreet, gewijzigd bij het decreet van 29 juni 2012, wordt paragraaf 2 vervangen door wat volgt:<br>
+" § 2. Zolang het autonoom provinciebedrijf geen eigen regels heeft vastgesteld voor het aangaan van verbintenissen, de kredietbewaking, de wetmatigheidscontrole of de ondertekening van de girale betalingsorders, zijn artikel 158, 159, 161 en 163, § 1, tweede en derde lid, van toepassing op het autonoom provinciebedrijf. In dat geval zijn bovendien artikel 157, 160 en 163, § 1, eerste lid, en § 2, eerste lid, van toepassing op het autonoom provinciebedrijf, met dien verstande dat de volgende woorden worden gelezen als volgt:<br>
+1° "de provincie" als "het autonoom provinciebedrijf";<br>
+2° "de provincieraad" als "de raad van bestuur";<br>
+3° "provinciegriffier" als "de gedelegeerd bestuurder" of, als het autonoom provinciebedrijf geen gedelegeerd bestuurder heeft, als "de voorzitter van de raad van bestuur";<br>
+4° "de deputatie" als "de raad van bestuur".".
 
 ### ART 195.
 
@@ -1300,6 +1327,25 @@ In artikel 236 van hetzelfde decreet, gewijzigd bij de decreten van 30 april 200
 2° in het derde lid worden de woorden "het budget" vervangen door de woorden "de aanpassingen ervan";<br>
 3° een vijfde lid wordt toegevoegd, dat luidt als volgt:<br>
 "De ramingen voor de exploitatie, de investeringen en de financiering in het eerste jaar van de financiële nota van het meerjarenplan omvatten ook de kredieten voor dat boekjaar.".
+
+### ART 201.
+
+Artikel 236bis van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt vervangen door wat volgt:<br>
+"Art. 236bis. § 1. De raad van bestuur spreekt zich uit over de vaststelling van de jaarrekening voor 30 juni van het boekjaar dat volgt op het boekjaar waarop de rekening betrekking heeft.<br>
+<br>
+§ 2. De provincieraad brengt advies uit bij de jaarrekening van het autonoom provinciebedrijf, tenzij de provincieraad ervoor gekozen heeft om alle leden van de provincieraad te benoemen als lid van de raad van bestuur.<br>
+<br>
+Als de provincieraad geen advies heeft verstuurd aan de toezichthoudende overheid binnen een termijn van vijftig dagen, die ingaat op de dag na de ontvangst van de jaarrekening door het provinciebestuur, wordt de provincieraad geacht een gunstig advies te hebben uitgebracht.<br>
+<br>
+§ 3. Als de Vlaamse Regering geen besluit heeft verzonden over de goedkeuring van de jaarrekening binnen een termijn van honderdvijftig dagen, wordt ze geacht de jaarrekening goed te keuren. Die termijn gaat in op de dag nadat de provincie de Vlaamse Regering op de hoogte gebracht heeft van de bekendmaking van de jaarrekening van het autonoom provinciebedrijf, met toepassing van artikel 180bis, eerste lid, en het autonoom provinciebedrijf de digitale rapportering erover aan de Vlaamse Regering heeft bezorgd.".
+
+### ART 202.
+
+Artikel 236ter van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt opgeheven.
+
+### ART 203.
+
+Artikel 236quater van hetzelfde decreet, ingevoegd bij het decreet van 29 juni 2012, wordt opgeheven.
 
 ### ART 204.
 
