@@ -4,7 +4,18 @@
 
 ### ART. 1.
 
-§ 1. Ten aanzien van het academisch personeel kan het universiteitsbestuur de volgende tuchtstraffen uitspreken:<br /><br />1° schriftelijke berisping;<br /><br />2° gehele of gedeeltelijke schorsing van het dienstverband voor bepaalde tijd met gehele of gedeeltelijke in houding van het salaris;<br /><br />3° terugzetting in graad;<br /><br />4° ontslag.<br /><br />§ 2. Onverminderd de regels rond het opleggen van tuchtstraffen kan het universiteitsbestuur een lid van het academisch personeel schorsen in het belang van de dienst als een strafrechtelijke vervolging tegen het betreffende lid is ingesteld of als het belang van de universiteit dit vordert.<br /><br />§ 3. Het universiteitsbestuur bepaalt de gronden die kunnen leiden tot een tuchtstraf. Het universiteitsbestuur stelt de tuchtrechtelijke procedure vast. Deze procedure moet ten minste voorzien in een voorafgaandelijke schriftelijke mededeling van de bezwarende gronden, in een voorafgaandelijke hoorplicht en in een mogelijkheid tot beroep. De tuchtregeling mag geen afbreuk doen aan de academische vrijheid.<br /><br />§ 4. Tevens bepaalt het universiteitsbestuur de voorwaarden waaronder eerder uitgesproken tuchtstraffen uit het personeelsdossier kunnen worden geschrapt.
+§ 1. Ten aanzien van het academisch personeel kan het universiteitsbestuur de volgende tuchtstraffen uitspreken:<br>
+1° schriftelijke berisping;<br>
+2° gehele of gedeeltelijke schorsing van het dienstverband voor bepaalde tijd met gehele of gedeeltelijke in houding van het salaris;<br>
+3° terugzetting in graad;<br>
+4° ontslag;<br>
+5° afzetting.<br>
+<br>
+§ 2. Onverminderd de regels rond het opleggen van tuchtstraffen kan het universiteitsbestuur een lid van het academisch personeel schorsen in het belang van de dienst als een strafrechtelijke vervolging tegen het betreffende lid is ingesteld of als het belang van de universiteit dit vordert.<br>
+<br>
+§ 3. Het universiteitsbestuur bepaalt de gronden die kunnen leiden tot een tuchtstraf. Het universiteitsbestuur stelt de tuchtrechtelijke procedure vast. Deze procedure moet ten minste voorzien in een voorafgaandelijke schriftelijke mededeling van de bezwarende gronden, in een voorafgaandelijke hoorplicht en in een mogelijkheid tot beroep. De tuchtregeling mag geen afbreuk doen aan de academische vrijheid.<br>
+<br>
+§ 4. Tevens bepaalt het universiteitsbestuur de voorwaarden waaronder eerder uitgesproken tuchtstraffen uit het personeelsdossier kunnen worden geschrapt.
 
 ## AFDELING 2 DE ADMINISTRATIEVE STANDEN
 
@@ -65,9 +76,11 @@ De volgende omstandigheden geven aanleiding tot ambts- of mandaatsbeëindiging:<
 2° het bereiken van de pensioengerechtigde leeftijd;<br>
 3° verstrijken van de mandaatsperiode zonder verlenging of omdat geen verlenging toegelaten is;<br>
 4° bij het ontbreken van een gunstige beoordeling van een academisch personeelslid in tijdelijk dienstverband voor een duur van ten hoogste drie jaar met uitzicht op een vaste benoeming als vermeld in artikel V.28, derde lid, van de Codex Hoger Onderwijs van 11 oktober 2013 en van een docent in het tenure trackstelsel na afloop van de aanstellingstermijn vermeld in artikel V.29 van voormelde codex;<br>
-5° het ontslag bij wege van tuchtstraf.<br>
+5° het ontslag of de afzetting bij wege van tuchtstraf.<br>
 6° beëindiging wegens afwezigheid door ziekte van meer dan 666 werkdagen wanneer de definitieve ongeschiktheid werd vastgesteld door de administratieve gezondheidsdienst op voorstel van het controle orgaan ingesteld krachtens artikel 4;<br>
-7° beëindiging wegens afwezigheid door ziekte van meer dan 222 werkdagen vanaf de dag dat de betrokkene de leeftijd van 60 jaar heeft bereikt.<br>
+7° beëindiging wegens afwezigheid door ziekte van meer dan&nbsp;365 kalenderdagen vanaf de dag dat de betrokkene de leeftijd van 63 jaar heeft bereikt;<br>
+8° de beëindiging na een voortdurende onverenigbaarheid als vermeld in artikel V.17/1, derde lid, van de Codex Hoger Onderwijs van 11 oktober 2013;<br>
+9° het ontslag na evaluatie als vermeld in artikel V.46 van de Codex Hoger Onderwijs van 11 oktober 2013.<br>
 <br>
 De vanaf 1 januari 1994 geregistreerde dagen afwezigheid door ziekte worden meegerekend bij de vaststelling van het totaal aantal ziektedagen.
 
