@@ -9,7 +9,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 ### ART. 2.
 
 In dit decreet wordt verstaan onder:<br>
-1° het kaderdecreet: het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;;<br>
 2° kinderopvang: kinderopvang van baby's en peuters en de buitenschoolse opvang van kinderen in al zijn vormen;<br>
 3° preventieve gezinsondersteuning : het geheel van maatregelen en aanbod dat gericht is op het bevorderen van het welbevinden van alle gezinnen met kinderen, en aanstaande ouders met inbegrip van de ondersteuning op het vlak van opvoeding en preventieve gezondheidszorg;<br>
 4° gezin: primaire leefvormen of samenlevingsvormen waarin meerdere personen min of meer duurzame relaties onderhouden;<br>
@@ -21,7 +21,15 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART. 3.
 
-Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10 van het kaderdecreet.<br /><br />Dit agentschap draagt als naam Kind en Gezin, hierna het agentschap genoemd.<br /><br />De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br /><br />De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op het agentschap.
+Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel III.4 van het Bestuursdecreet.<br>
+<br>
+Dit agentschap draagt als naam Kind en Gezin, hierna het agentschap genoemd.<br>
+<br>
+De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
+<br>
+De Vlaamse regering bepaalt de vestigingsplaats van het agentschap.<br>
+<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op het agentschap.
 
 ## HOOFDSTUK III MISSIE EN TAKEN
 
@@ -76,7 +84,7 @@ Met het oog op hulp- en zorgverlening bij kindermishandeling erkent en   subsidi
 
 ### ART. 9.
 
-Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen moet het agentschap klachten tegen partners en door hen geregistreerde voorzieningen opnemen en behandelen.
+Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in titel II, hoofdstuk 5, van het Bestuursdecreet moet het agentschap klachten tegen partners en door hen geregistreerde voorzieningen opnemen en behandelen.
 
 ### ART. 10.
 
@@ -86,15 +94,15 @@ Het agentschap voert de taken, vermeld in artikel 5, 6, 7, 7/1 en 8, voorzover h
 <br>
 Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6, 7, 7/1 en 8.<br>
 <br>
-Het agentschap zal de verworven kennis en expertise ter beschikking stellen van de beleidsondersteuning als bedoeld in artikel 4, § 1, van het kaderdecreet.<br>
+Het agentschap zal de verworven kennis en expertise ter beschikking stellen in het kader van de toepassing van artikel III.2, derde lid, van het Bestuursdecreet.<br>
 <br>
 Het agentschap zal haar dienstverlening permanent optimaliseren en vernieuwen op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
 <br>
-In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, moeten beantwoorden aan de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
+In het kader van zijn missie als vermeld in artikel 4, § 1, en zijn kerntaken als vermeld in artikel 5, kan het agentschap de persoonsgegevens verwerken van alle toekomstige ouders en van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, § 1, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, moeten beantwoorden aan de regelgeving inzake de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens die van toepassing is bij de mededeling van persoonsgegevens, zoals ze in voorkomend geval op federaal of Vlaams niveau verder is of wordt gespecificeerd.<br>
 <br>
 Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens met betrekking tot zijn cliënteel, die noodzakelijk zijn om:<br>
 1° de taken, bedoeld in artikelen 5, 6, 7, 7/1 en 8 uit te voeren;<br>
-2° de beleidsgerichte input als bedoeld in artikel 4, § 3, van het kaderdecreet te leveren.<br>
+2° de beleidsgerichte input als bedoeld in&nbsp;artikel III.2, derde lid, van het Bestuursdecreet te leveren.<br>
 <br>
 De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.
 
@@ -108,23 +116,31 @@ De Vlaamse regering kan binnen het kader van de taak van het agentschap, vermeld
 
 ### ART. 13.
 
-§ 1. Het agentschap kan voor het realiseren van zijn doelstellingen, al of   niet binnen het kader van de regels, vermeld in artikel 12, alle mogelijke   activiteiten van welke aard ook ontwikkelen, opzetten en realiseren.<BR><BR>§ 2.   Inzake kinderopvang behelst dit onder meer het uitreiken van vergunningen,   attesteren, erkennen, subsidiëren of financieren, dossierbeheer, vorming en   onderzoek, met uitsluiting van het zelf verlenen van kinderopvang, de inspectie   van voorzieningen voor kinderopvang en het subsidiëren of financieren van   infrastructuur van voorzieningen voor kinderopvang.<BR><BR>§ 3. Inzake   preventieve gezinsondersteuning behelst dit onder meer erkennen, subsidiëren of   financieren, dossierbeheer, afsluiten van overeenkomsten, huisbezoeken, bezoeken   van de bevallen moeders in de kraaminrichting (kraambezoeken), consulten en   pedagogische spreekuren, met uitsluiting van de inspectie van erkende   voorzieningen en het subsidiëren of financieren van infrastructuur van erkende   voorzieningen.<BR><BR>§ 4. De Vlaamse Regering organiseert het toezicht op de   naleving van de bepalingen van dit decreet en zijn   uitvoeringsbesluiten.<BR><BR>De ambtenaren die met het toezicht belast zijn,   hebben het recht de lokalen van de voorzieningen, die bestemd zijn voor   activiteiten die door Kind en Gezin worden erkend of gesubsidieerd of die met   die erkende of gesubsidieerde activiteiten in verband staan, te bezoeken. De   voorzieningen stellen aan die ambtenaren alle gegevens ter beschikking die voor   het toezicht noodzakelijk zijn. Ze staan die ambtenaren toe om ter plaatse de   naleving van de bepalingen, vermeld in het eerste lid, te verifiëren en alle   stappen te ondernemen die daarvoor nodig zijn.<BR><BR>Van hun vaststellingen   maken de ambtenaren, vermeld in het tweede lid, een verslag op. Het verslag   heeft bewijswaarde tot het tegenbewijs. Van het verslag wordt een afschrift   gestuurd naar de voorziening.
+§ 1. Het agentschap kan voor het realiseren van zijn doelstellingen, al of niet binnen het kader van de regels, vermeld in artikel 12, alle mogelijke activiteiten van welke aard ook ontwikkelen, opzetten en realiseren.<br>
+<br>
+§ 2. Inzake kinderopvang behelst dit onder meer het uitreiken van vergunningen, attesteren, erkennen, subsidiëren of financieren, dossierbeheer, vorming en onderzoek, met uitsluiting van het zelf verlenen van kinderopvang, de inspectie van voorzieningen voor kinderopvang en het subsidiëren of financieren van infrastructuur van voorzieningen voor kinderopvang.<br>
+<br>
+§ 3. Inzake preventieve gezinsondersteuning behelst dit onder meer erkennen, subsidiëren of financieren, dossierbeheer, afsluiten van overeenkomsten, huisbezoeken, bezoeken van de bevallen moeders in de kraaminrichting (kraambezoeken), consulten en pedagogische spreekuren, met uitsluiting van de inspectie van erkende voorzieningen en het subsidiëren of financieren van infrastructuur van erkende voorzieningen.<br>
+<br>
+§ 4. De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen van dit decreet en zijn uitvoeringsbesluiten.
 
 ## HOOFDSTUK IV [... (opgeh. decr. 19 januari 2018, art. 21, I: 1 januari 2019)]
 
 ### ART. 14.
 
-Behalve als het ouders of verwanten tot en met de vierde graad betreft, is iedereen die op bestendige wijze en al dan niet tegen betaling, kinderen opvangt die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan, verplicht dat aan het agentschap mee te delen. De Vlaamse regering bepaalt wat onder opvang op bestendige wijze wordt verstaan.<br /><br />Deze mededeling heeft tot gevolg dat de door de Vlaamse regering aangewezen inspectiediensten tijdens de opvangmomenten toegang hebben tot alle plaatsen of ruimten die voor de opvang bestemd zijn of ermee in verband staan.<br /><br />De Vlaamse regering bepaalt de voorwaarden van de verplichting tot mededeling en van de toegang. De Vlaamse regering legt vast wie van de meldingsplicht wordt vrijgesteld op basis van een erkenning binnen de voor de opvangcapaciteit in kwestie geldende regelgeving.
+...
 
 ### ART. 15.
 
-Aan elke persoon die niet door de Vlaamse Regering van de meldingsplicht is vrijgesteld en die op bestendige wijze kinderen opvangt die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan, zonder dat aan het agentschap mee te delen, of aan elke persoon die de toegang, vermeld in artikel 14, tweede lid, weigert, kan een bestuurlijke geldboete worden opgelegd van 500 euro.<br /><br />De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat Kind en Gezin het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete, waarbij de organisator zich mag laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br /><br />De betrokkene kan op straffe van verval van het recht tot het instellen van het beroep binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd, tegen die beslissing bij de Raad van State beroep aantekenen met een verzoekschrift. Dat beroep schorst de uitvoering van de beslissing.<br /><br />Als de betrokkene weigert de bestuurlijke geldboete te betalen, wordt ze bij dwangbevel ingevorderd. Een dwangbevel wordt betekend bij deurwaardersexploot met bevel tot betaling.<br /><br />De vordering tot voldoening van de bestuurlijke geldboete verjaart na verloop van vijf jaar, te rekenen vanaf de datum van de beslissing, vermeld in het tweede lid, of, in geval van beroep, vanaf de datum van de in kracht van gewijsde gegane rechterlijke beslissing. De verjaring wordt gestuit op de wijze en onder de voorwaarden, bepaald in artikel 2244 en volgende van het Burgerlijk Wetboek.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen van de bestuurlijke geldboete.
+...
 
 ## HOOFDSTUK V BESTUUR EN WERKING
 
 ### ART. 16.
 
-De Vlaamse regering regelt de werking van het agentschap voor zover deze regeling geen afbreuk doet aan de in het kaderdecreet of in voorliggend oprichtingsdecreet vastgelegde beslissings- en beleidsstructuur.<br /><br />Het hoofd van het agentschap wordt bijgestaan door een algemeen directeur.
+De Vlaamse regering regelt de werking van het agentschap voor zover deze regeling geen afbreuk doet aan de in het Bestuursdecreet of in voorliggend oprichtingsdecreet vastgelegde beslissings- en beleidsstructuur.<br>
+<br>
+Het hoofd van het agentschap wordt bijgestaan door een algemeen directeur.
 
 ### ART. 17.
 
@@ -184,13 +200,33 @@ Het agentschap wordt gemachtigd om een reservefonds aan te leggen. In de begroti
 
 ### ART. 23.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De bevoegdheid die hiertoe aan de Vlaamse regering, is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende Kind en Gezin coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br /><br />De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Bestuursdecreet.<br>
+<br>
+De besluiten die hiertoe worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De bevoegdheid die hiertoe aan de Vlaamse regering, is opgedragen, vervalt negen maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering kan de bepalingen van de decreten betreffende Kind en Gezin coördineren, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie. Te dien einde kan zij:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven, zonder te raken aan de erin neergelegde beginselen.<br>
+<br>
+De coördinatie treedt pas in werking nadat ze bij decreet is bekrachtigd.
 
 ## HOOFDSTUK IX TAALREGELING
 
 ### ART. 24.
 
-Opdat een voorziening erkend of gesubsidieerd kan worden, dient al het personeel in dienst van de voorziening een grondige kennis van het Nederlands te hebben.<br /><br />Deze kennis blijkt uit het diploma of studiegetuigschrift van het genoten onderwijs.<br /><br />Als de in het eerste lid bedoelde persoon geen diploma of getuigschrift kan voorleggen, zal zijn grondige kennis van het Nederlands worden bewezen door een examen als bedoeld in artikel 53 van de bij koninklijk besluit van 18 juli 1966 gecoördineerde wetten op het gebruik van de talen in bestuurszaken.<br /><br />De bepaling, vermeld in het eerste lid, is niet van toepassing op kinderopvang, vermeld in het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters.
+Opdat een voorziening erkend of gesubsidieerd kan worden, moet het personeel in dienst van de voorziening, dat instaat voor de communicatie met de overheid of voor de dienstverlening, inclusief de contacten met kinderen en gezinnen, een geattesteerde kennis van het Nederlands hebben.<br>
+<br>
+Die kennis blijkt uit het studiebewijs van het genoten onderwijs.<br>
+<br>
+Als de persoon, vermeld in het eerste lid, geen studiebewijs kan voorleggen, zal zijn kennis van het Nederlands worden bewezen op een wijze die door de Vlaamse Regering wordt bepaald.<br>
+<br>
+De bepaling, vermeld in het eerste lid, is niet van toepassing op kinderopvang, vermeld in het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters.
 
 ### ART. 25.
 
