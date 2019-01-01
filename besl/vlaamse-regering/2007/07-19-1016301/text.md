@@ -12,11 +12,11 @@ Er wordt een beroepsinstantie opgericht inzake openbaarheid van bestuur en herge
 
 ### ART. 2.
 
-§ 1. De afdeling openbaarheid van bestuur, die de beroepsinstantie zal uitmaken, vermeld in artikel 22 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
+§ 1. De afdeling openbaarheid van bestuur, die de beroepsinstantie zal uitmaken, vermeld in artikel III.90 van het bestuursdecreet van 7 december 2018, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
 <br>
 De leden en hun plaatsvervangers hebben minstens twee jaar nuttige juridische ervaring opgedaan.<br>
 <br>
-§ 2. De afdeling hergebruik van overheidsinformatie, die de beroepsinstantie zal uitmaken, vermeld in artikel 15 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
+§ 2. De afdeling hergebruik van overheidsinformatie, die de beroepsinstantie zal uitmaken, vermeld in artikel III.90 van het bestuursdecreet van 7 december 2018, is samengesteld uit vier leden onder wie een voorzitter. Elk lid heeft een plaatsvervanger.<br>
 <br>
 De leden en hun plaatsvervangers hebben minstens twee jaar nuttige economische, technische&nbsp;of juridische ervaring opgedaan.<br>
 &nbsp;
@@ -29,7 +29,7 @@ De leden en hun plaatsvervangers hebben minstens twee jaar nuttige economische, 
 3° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br>
 4° een lid en zijn plaatsvervanger worden benoemd door de Vlaamse minister, bevoegd voor de Ruimtelijke Ordening.<br>
 <br>
-§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangewezen door de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn, op voordracht van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, en na mededeling aan de Vlaamse Regering.<br>
+§ 2. De leden van de afdeling hergebruik van overheidsinformatie, onder wie de voorzitter, worden aangewezen door de Vlaamse minister, bevoegd voor de informatiemaatschappij, het structureren, opslaan, uitwisselen en ontsluiten van informatie en de infolijn, op voordracht van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, en na mededeling aan de Vlaamse Regering.<br>
 <br>
 § 3. De leden en hun plaatsvervangers worden door de benoemende minister&nbsp;aangeduid voor een telkens verlengbare termijn van vijf jaar.<br>
 &nbsp;
@@ -56,7 +56,9 @@ Als een lid verhinderd of afwezig is, wordt het lid vervangen door zijn plaatsve
 
 ### ART. 7.
 
-De afdeling openbaarheid van bestuur oefent haar opdracht als beroepsinstantie uit overeenkomstig de bepalingen van artikelen 23 tot en met 27 van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur.<br /><br />De afdeling hergebruik van overheidsinformatie oefent haar opdracht uit overeenkomstig de bepalingen van artikelen 15 tot en met 21 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br /><br />
+De afdeling openbaarheid van bestuur oefent haar opdracht als beroepsinstantie uit conform artikel II.48 tot en met II.51 van het bestuursdecreet van 7 december 2018.<br>
+<br>
+De afdeling hergebruik van overheidsinformatie oefent haar opdracht uit conform artikel II.69 tot en met II.73 van het bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK III Werking
 
@@ -85,7 +87,9 @@ De vergaderingen van de afdelingen van de beroepsinstantie zijn niet openbaar. O
 
 ### ART. 12.
 
-De beslissingen van de afdeling openbaarheid van bestuur van de beroepsinstantie zijn met redenen omkleed en worden genomen binnen de termijnen, vermeld in artikel 24, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur. De beslissingen van die afdeling zijn openbaar.<br /><br />De beslissingen van de afdeling hergebruik van overheidsinformatie van de beroepsinstantie zijn met redenen omkleed en worden genomen binnen de termijnen, vermeld in artikel 17 van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie. De beslissingen van die afdeling zijn openbaar.<br /><br />
+De beslissingen van de afdeling openbaarheid van bestuur van de beroepsinstantie zijn met redenen omkleed en worden genomen binnen de termijnen, vermeld in artikel II.50, § 1, van het bestuursdecreet van 7 december 2018. De beslissingen van die afdeling zijn openbaar.<br>
+<br>
+De beslissingen van de afdeling hergebruik van overheidsinformatie van de beroepsinstantie zijn met redenen omkleed en worden genomen binnen de termijnen, vermeld in artikel II.71 van het bestuursdecreet van 7 december 2018. De beslissingen van die afdeling zijn openbaar.
 
 ### ART. 13.
 
