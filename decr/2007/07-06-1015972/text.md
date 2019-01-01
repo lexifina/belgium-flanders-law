@@ -8,17 +8,45 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° decreet van 18 juli 2003: het   decreet van 18 juli 2003 tot regeling van strategische adviesraden;<BR>2° de   strategische adviesraad : de Strategische Adviesraad voor Landbouw en   Visserij;<BR>3° SERV: de Sociaal-Economische Raad van   Vlaanderen.<BR><BR>
+In dit decreet wordt verstaan onder :<br>
+1° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
+2° de strategische adviesraad : de Strategische Adviesraad voor Landbouw en Visserij;<br>
+3° SERV: de Sociaal-Economische Raad van Vlaanderen.<br>
+&nbsp;
 
 ### ART. 3.
 
-<P>Bij de SERV wordt de strategische adviesraad opgericht. De strategische   adviesraad behoort tot het beleidsdomein Landbouw en Visserij.<BR><BR>De   strategische adviesraad heeft geen rechtspersoonlijkheid.<BR><BR>De bepalingen   van het decreet van 18 juli 2003 zijn van toepassing op de strategische   adviesraad, tenzij in dit decreet anders wordt bepaald.</P>
+<p>Bij de SERV wordt de strategische adviesraad opgericht. De strategische adviesraad behoort tot het beleidsdomein Landbouw en Visserij.<br>
+<br>
+De strategische adviesraad heeft geen rechtspersoonlijkheid.<br>
+<br>
+De bepalingen van titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet zijn van toepassing op de strategische adviesraad, tenzij in dit decreet anders wordt bepaald.</p>
 
 ## HOOFDSTUK II Taakomschrijving
 
 ### ART. 4.
 
-§ 1. De strategische adviesraad heeft de volgende opdrachten :<BR>1° uit   eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het   beleid met betrekking tot alle economische, ecologische, sociale en   maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het   plattelandsbeleid;<BR>2° bijdragen tot het vormen van een beleidsvisie over alle   economische, ecologische, sociale en maatschappelijke aspecten van het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<BR>3° de   ontwikkelingen op het vlak van alle economische, ecologische, sociale en   maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij en het   plattelandsbeleid volgen en interpreteren;<BR>4° advies uitbrengen over   voorontwerpen van decreet met betrekking tot alle economische, ecologische,   sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en   het plattelandsbeleid, en over voorontwerpen van decreet die uitgaan van andere   beleidsdomeinen met een belangrijke impact op het landbouw-, tuinbouw-,   visserij- en het plattelandsbeleid;<BR>5° uit eigen beweging of op verzoek   advies uitbrengen over voorstellen van decreet met betrekking tot alle   economische, ecologische, sociale en maatschappelijke aspecten van het   landbouw-, tuinbouw-, visserij- en plattelandsbeleid, en over voorstellen van   decreet, opgesteld met betrekking tot materies die horen tot andere   beleidsdomeinen met een belangrijke impact op het landbouw-, tuinbouw-,   visserij- en het plattelandsbeleid;<BR>6° uit eigen beweging of op verzoek   advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering met   betrekking tot alle economische, ecologische, sociale en maatschappelijke   aspecten van het landbouw-, tuinbouw-, visserij- en plattelandsbeleid, en over   ontwerpen van besluit van de Vlaamse Regering, opgesteld met betrekking tot   materies die horen tot andere beleidsdomeinen met een belangrijke impact op het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<BR>7° reflecteren over   de bij het Vlaams Parlement ingediende beleidsnota's met betrekking tot   economische, ecologische, sociale en maatschappelijke aspecten van het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid, en over ingediende   beleidsnota's van andere beleidsdomeinen met een belangrijke invloed op het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<BR>8° uit eigen   beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord   die de Vlaamse Gemeenschap of het Vlaamse Gewest wil sluiten met de staat of met   andere gemeenschappen en gewesten;<BR>9° uit eigen beweging of op verzoek advies   uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde   regelgeving op het niveau van de Europese Unie, alsook over in voorbereiding   zijnde internationale verdragen.<BR><BR>§ 2. De Vlaamse Regering is verplicht om   advies te vragen over :<BR>1° de voorontwerpen van decreet met betrekking tot   alle economische, ecologische, sociale en maatschappelijke aspecten van het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<BR>2° de ontwerpen van   besluit van de Vlaamse Regering die van strategisch belang zijn met betrekking   tot alle economische, ecologische, sociale en maatschappelijke aspecten van het   landbouw-, tuinbouw-, visserij- en het plattelandsbeleid.<BR><BR>§ 3.   Overeenkomstig artikel 4, § 3, van het decreet van 18 juli 2003 geeft de Vlaamse   Regering duiding en toelichting aan de strategische adviesraad over haar   beslissing over de in § 2 bedoelde adviezen.<BR><BR>§ 4. De strategische   adviesraad kan, uit eigen beweging of op verzoek van de functioneel bevoegde   Vlaamse minister, advies uitbrengen over ontwerpen van regelgeving die van   strategisch belang zijn betreffende de aspecten, vermeld in § 1, die uitgaan van   de federale overheid, van collega-ministers die bevoegd zijn voor andere   beleidsdomeinen of van de Europese Unie.<BR><BR>§ 5. De sociale en   maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en   plattelandsbeleid kunnen betrekking hebben op de plattelandsontwikkeling, het   imago van de landbouw, de landbouwvorming zoals naschoolse vorming, de   landbouwvoorlichting of -vulgarisatie en het   landbouwonderzoek.<BR><BR>
+§ 1. De strategische adviesraad heeft de volgende opdrachten :<br>
+1° uit eigen beweging of op verzoek advies uitbrengen over de hoofdlijnen van het beleid met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+2° bijdragen tot het vormen van een beleidsvisie over alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+3° de ontwikkelingen op het vlak van alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij en het plattelandsbeleid volgen en interpreteren;<br>
+4° advies uitbrengen over voorontwerpen van decreet met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid, en over voorontwerpen van decreet die uitgaan van andere beleidsdomeinen met een belangrijke impact op het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+5° uit eigen beweging of op verzoek advies uitbrengen over voorstellen van decreet met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en plattelandsbeleid, en over voorstellen van decreet, opgesteld met betrekking tot materies die horen tot andere beleidsdomeinen met een belangrijke impact op het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+6° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van besluit van de Vlaamse Regering met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en plattelandsbeleid, en over ontwerpen van besluit van de Vlaamse Regering, opgesteld met betrekking tot materies die horen tot andere beleidsdomeinen met een belangrijke impact op het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+7° reflecteren over de bij het Vlaams Parlement ingediende beleidsnota's met betrekking tot economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid, en over ingediende beleidsnota's van andere beleidsdomeinen met een belangrijke invloed op het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+8° uit eigen beweging of op verzoek advies uitbrengen over ontwerpen van samenwerkingsakkoord die de Vlaamse Gemeenschap of het Vlaamse Gewest wil sluiten met de staat of met andere gemeenschappen en gewesten;<br>
+9° uit eigen beweging of op verzoek advies uitbrengen over beleidsvoornemens, beleidsplannen en in voorbereiding zijnde regelgeving op het niveau van de Europese Unie, alsook over in voorbereiding zijnde internationale verdragen.<br>
+<br>
+§ 2. De Vlaamse Regering is verplicht om advies te vragen over :<br>
+1° de voorontwerpen van decreet met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid;<br>
+2° de ontwerpen van besluit van de Vlaamse Regering die van strategisch belang zijn met betrekking tot alle economische, ecologische, sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en het plattelandsbeleid.<br>
+<br>
+§ 3. Overeenkomstig artikel III.94, § 3, van het Bestuursdecreet geeft de Vlaamse Regering duiding en toelichting aan de strategische adviesraad over haar beslissing over de in § 2 bedoelde adviezen.<br>
+<br>
+§ 4. De strategische adviesraad kan, uit eigen beweging of op verzoek van de functioneel bevoegde Vlaamse minister, advies uitbrengen over ontwerpen van regelgeving die van strategisch belang zijn betreffende de aspecten, vermeld in § 1, die uitgaan van de federale overheid, van collega-ministers die bevoegd zijn voor andere beleidsdomeinen of van de Europese Unie.<br>
+<br>
+§ 5. De sociale en maatschappelijke aspecten van het landbouw-, tuinbouw-, visserij- en plattelandsbeleid kunnen betrekking hebben op de plattelandsontwikkeling, het imago van de landbouw, de landbouwvorming zoals naschoolse vorming, de landbouwvoorlichting of -vulgarisatie en het landbouwonderzoek.<br>
+&nbsp;
 
 ## HOOFDSTUK III Samenstelling en organisatie
 
@@ -28,13 +56,26 @@ In dit decreet wordt verstaan onder :<BR>1° decreet van 18 juli 2003: het   dec
 
 ### ART. 6.
 
-De strategische adviesraad bestaat uit twintig leden, die de Vlaamse   Regering overeenkomstig artikel 6, § 1, van het decreet van 18 juli 2003 benoemt   voor een termijn van vier jaar.<BR><BR>De Vlaamse Regering stelt vast of er   plaatsvervangende leden moeten worden benoemd.<BR><BR>Een technische   werkcommissie Visserij zal de strategische adviesraad ondersteunen voor het   visserijbeleid. Daarnaast kan de strategische adviesraad andere technische   werkcommissies oprichten. De Vlaamse Regering bepaalt de samenstelling en de   werking van deze technische werkcommissies.<BR><BR>De voorzitter van de   strategische adviesraad wordt door de Vlaamse Regering   benoemd.<BR><BR>
+De strategische adviesraad bestaat uit twintig leden, die de Vlaamse Regering overeenkomstig artikel III.96, § 1, van het Bestuursdecreet benoemt voor een termijn van vier jaar.<br>
+<br>
+De Vlaamse Regering stelt vast of er plaatsvervangende leden moeten worden benoemd.<br>
+<br>
+Een technische werkcommissie Visserij zal de strategische adviesraad ondersteunen voor het visserijbeleid. Daarnaast kan de strategische adviesraad andere technische werkcommissies oprichten. De Vlaamse Regering bepaalt de samenstelling en de werking van deze technische werkcommissies.<br>
+<br>
+De voorzitter van de strategische adviesraad wordt door de Vlaamse Regering benoemd.<br>
+&nbsp;
 
 ## [HOOFDSTUK IV Werking (verv. decr. 3 juli 2015, art. 12, I: 1 januari 2016)]
 
 ### ART. 7.
 
-§ 1. In afwijking van artikel 12 van het decreet van 18 juli 2003 stelt de   SERV een secretariaat ter beschikking van de strategische adviesraad. Het   secretariaat wordt samengesteld uit leden van het SERV-personeel die door de   leidend ambtenaren van de SERV zijn aangewezen. Het secretariaat is   verantwoordelijk voor de inhoudelijke en administratieve ondersteuning. De SERV   zorgt ook voor de huisvesting en de logistieke ondersteuning van de strategische   adviesraad.<BR><BR>Het secretariaat wordt, onder gezag van de voorzitter van de   strategische adviesraad, geleid door een secretaris die door de leidend   ambtenaren van de SERV wordt aangewezen onder de leden van het   secretariaat.<BR><BR>De Vlaamse Regering bepaalt de minimale omvang en   samenstelling van het secretariaat dat verantwoordelijk is voor de inhoudelijke   ondersteuning van de strategische adviesraad.<BR><BR>§ 2. De technische   werkcommissies worden bijgestaan door het secretariaat, vermeld in paragraaf   1.
+§ 1. In afwijking van artikel III.100 van het Bestuursdecreet stelt de SERV een secretariaat ter beschikking van de strategische adviesraad. Het secretariaat wordt samengesteld uit leden van het SERV-personeel die door de leidend ambtenaren van de SERV zijn aangewezen. Het secretariaat is verantwoordelijk voor de inhoudelijke en administratieve ondersteuning. De SERV zorgt ook voor de huisvesting en de logistieke ondersteuning van de strategische adviesraad.<br>
+<br>
+Het secretariaat wordt, onder gezag van de voorzitter van de strategische adviesraad, geleid door een secretaris die door de leidend ambtenaren van de SERV wordt aangewezen onder de leden van het secretariaat.<br>
+<br>
+De Vlaamse Regering bepaalt de minimale omvang en samenstelling van het secretariaat dat verantwoordelijk is voor de inhoudelijke ondersteuning van de strategische adviesraad.<br>
+<br>
+§ 2. De technische werkcommissies worden bijgestaan door het secretariaat, vermeld in paragraaf 1.
 
 ## HOOFDSTUK V Landbouw- en visserijrapport
 
