@@ -1179,9 +1179,19 @@ Artikel 1/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Rege
 
 Artikel 2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 19 december 2014, wordt opgeheven.
 
+### ART 148.
+
+In artikel 8, paragraaf 2, eerste lid, van hetzelfde besluit, wordt punt 1° vervangen door wat volgt:<br>
+<br>
+"1° uitbater van vastgoeddiensten: een vastgoedmakelaar als vermeld in artikel 1, 4°, van de wet van 11 februari 2013 houdende organisatie van het beroep van vastgoedmakelaar, die is ingeschreven op het tableau van vastgoedmakelaars of de lijst van stagiairs, vermeld in artikel 3, eerste lid, van de voormelde wet, alsook de natuurlijke persoon en de rechtspersoon of de groep van natuurlijke personen of rechtspersonen uit wiens activiteitencode in de Kruispuntbank van Ondernemingen van de FOD Economie, K.M.O., Middenstand en Energie, blijkt dat ze vastgoedactiviteiten uitoefenen, hoewel ze niet ingeschreven zijn op het voormelde tableau;".
+
 ### ART 149.
 
 In artikel 21, § 2, eerste lid, van hetzelfde besluit, wordt de zinsnede "45 van uitvoeringsverordening (EU) nr. 809/2014' vervangen door de zinsnede "9 van gedelegeerde verordening (EU) nr. 639/2014".
+
+### ART 150.
+
+In artikel 41, eerste lid, van hetzelfde besluit, wordt de zinsnede "25 %" vervangen door de zinsnede" 50 %".
 
 ## HOOFDSTUK 25. Wijzigingen van het besluit van de Vlaamse Regering van 19 december 2014 betreffende steun aan de investeringen en aan de overname in de landbouw
 
