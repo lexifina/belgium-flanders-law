@@ -10,7 +10,25 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-§ 1. De Vlaamse Gemeenschap draagt jaarlijks bij in de financiering van de   werking van de Vlaamse autonome hogeschool Hogere Zeevaartschool.<BR><BR>De   werkingsuitkering draagt bij in de dekking van de gewone uitgaven voor   onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de   financiering van investeringen, de afbetaling van leningen en voor de   administratie van de instelling, met inbegrip van de roerende   uitrustingen.<BR><BR>§ 2. Het bedrag van de werkingsuitkering bestemd voor de   Hogere Zeevaartschool wordt vastgesteld op 4.279.000,00 euro (prijsniveau 2010).   Dit bedrag is samengesteld uit :<BR>1° een onderwijssokkel van 200.000,00   euro;<BR>2° een variabel onderwijsdeel van 4.079.000,00 euro.<BR><BR>Het bedrag,   bestemd voor de uitbetaling van de verhoging van het vakantiegeld ter uitvoering   van CAO II hoger onderwijs, wordt toegevoegd aan het bedrag van de   werkingsuitkering. <BR><BR>§ 3. De bedragen vermeld in § 2 van dit artikel   worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks   geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, § 9,   van de Codex Hoger Onderwijs.<BR><BR>De indexering vermeld in het eerste lid   wordt in het begrotingsjaar 2010 niet toegepast.<BR><BR>Voor de begrotingsjaren   2012, 2013 en 2015&nbsp;worden de bedragen vermeld in paragraaf 2 van dit   artikel binnen de perken van de begroting van de Vlaamse Gemeenschap geïndexeerd   aan de hand van de indexeringsformule vermeld in artikel III.5, § 9, tweede lid,   van de Codex Hoger Onderwijs.<BR><BR>§ 4. Aan het bedrag, vermeld in § 2, 2°,   wordt vanaf het begrotingsjaar 2017 een bedrag van 33.480 euro   toegevoegd.
+§ 1. De Vlaamse Gemeenschap draagt jaarlijks bij in de financiering van de werking van de Vlaamse autonome hogeschool Hogere Zeevaartschool.<br>
+<br>
+De werkingsuitkering draagt bij in de dekking van de gewone uitgaven voor onderwijs, onderzoek, maatschappelijke en wetenschappelijke dienstverlening, de financiering van investeringen, de afbetaling van leningen en voor de administratie van de instelling, met inbegrip van de roerende uitrustingen.<br>
+<br>
+§ 2. Het bedrag van de werkingsuitkering bestemd voor de Hogere Zeevaartschool wordt vastgesteld op 4.279.000,00 euro (prijsniveau 2010). Dit bedrag is samengesteld uit :<br>
+1° een onderwijssokkel van 200.000,00 euro;<br>
+2° een variabel onderwijsdeel van 4.079.000,00 euro.<br>
+<br>
+Het bedrag, bestemd voor de uitbetaling van de verhoging van het vakantiegeld ter uitvoering van CAO II hoger onderwijs, wordt toegevoegd aan het bedrag van de werkingsuitkering.<br>
+<br>
+§ 3. De bedragen vermeld in § 2 van dit artikel worden binnen de perken van de begroting van de Vlaamse Gemeenschap jaarlijks geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, § 9, van de Codex Hoger Onderwijs.<br>
+<br>
+De indexering vermeld in het eerste lid wordt in het begrotingsjaar 2010 niet toegepast.<br>
+<br>
+Voor de begrotingsjaren 2012, 2013 en 2015&nbsp;worden de bedragen vermeld in paragraaf 2 van dit artikel binnen de perken van de begroting van de Vlaamse Gemeenschap geïndexeerd aan de hand van de indexeringsformule vermeld in artikel III.5, § 9, tweede lid, van de Codex Hoger Onderwijs.<br>
+<br>
+§ 4. Aan het bedrag, vermeld in § 2, 2°, wordt vanaf het begrotingsjaar 2017 een bedrag van 33.480 euro toegevoegd.<br>
+<br>
+§ 5. Het bedrag van de werkingsuitkering, berekend overeenkomstig de bepalingen van dit artikel, wordt verhoogd overeenkomstig het procentueel aandeel van de Hogere Zeevaartschool conform de bepalingen in artikel III.24 van de Codex Hoger Onderwijs.
 
 ### ART. 3.
 
