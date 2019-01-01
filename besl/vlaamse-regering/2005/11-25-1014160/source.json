@@ -2,16 +2,16 @@
   "codex_id": 1014160,
   "title": "Besluit van de Vlaamse Regering van 2005-11-25 tot bepaling van de beroepen waarvoor een titel van beroepsbekwaamheid kan worden uitgereikt",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014160/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b30d3ec3d5c1f9416b378d8ca053c61ec08e5bbbda6171021947b1e84f91af44",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014160/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "e92eb2e3714d6ae227c653b61755a857f08d2a1e490534ece9e23d65d20892cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014160&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "2005-11-25",
   "gazette": "2005-12-29",
   "numac": 2005036637,
   "document_start": "2005-12-29",
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
