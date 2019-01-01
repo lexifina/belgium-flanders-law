@@ -17,7 +17,11 @@ werkjaar: een periode van 1 januari tot en met 31 december.
 
 ### ART. 3.
 
-§ 1. Het bedrag per plaats is, voor het werkjaar 2002, 3.000 euro op jaarbasis.<br /><br />§ 2. Het bedrag per plaats wordt vanaf het werkjaar 2003 als volgt berekend:<br /><br />Totaal bedrag voorzien voor subsidie voor "onderwijs aan zieke kinderen - instellingen met onderwijsbehoeften" (Pr 31.2 BA 33.01) gedeeld door het aantal plaatsen zoals bedoeld in artikel 4 van dit besluit.
+§ 1. Het bedrag per plaats is, voor het werkjaar 2002, 3.000 euro op jaarbasis.<br>
+<br>
+§ 2. Het bedrag per plaats wordt vanaf het werkjaar 2003 als volgt berekend:<br>
+<br>
+Totaal bedrag voorzien voor subsidie aan diensten met onderwijsbehoeften gedeeld door het aantal plaatsen zoals bedoeld in artikel 4 van dit besluit.
 
 ### ART. 4.
 
