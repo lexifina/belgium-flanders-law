@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028437,
+  "title": "Decreet van 2017-07-07 houdende wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat de toegelaten methodes voor het slachten van dieren betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028437/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "99adde339e4d9d5deac118f7a8ed6398413a209d998674f050958eb3c39b051d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028437&param=informatie",
+  "as_of": "2019-01-01",
+  "made": "2017-07-07",
+  "gazette": "2017-07-18",
+  "numac": 2017030639,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2019-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
