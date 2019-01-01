@@ -10,7 +10,11 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   Algemeen D
 
 ### ART. 2.
 
-Binnen het Vlaamse ministerie Kanselarij en Bestuur wordt een intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de   benaming "Agentschap Binnenlands Bestuur".<BR><BR>Het agentschap wordt opgericht   voor de beleidsondersteuning en de uitvoering van het beleid inzake de   binnenlandse aangelegenheden, met inbegrip van de coördinatie van het beleid met   betrekking tot Brussel-Hoofdstad en met betrekking tot de Vlaamse Rand rond   Brussel, van het stedenbeleid, van het integratie- en inburgeringsbeleid en voor   de beleidsondersteuning, vermeld in artikel 4 van het kaderdecreet bestuurlijk   beleid van 18 juli 2003.<BR><BR>Het agentschap behoort tot het beleidsdomein   Kanselarij en Bestuur.
+Binnen het Vlaamse ministerie Kanselarij en Bestuur wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap Binnenlands Bestuur".<br>
+<br>
+Het agentschap wordt opgericht voor de beleidsondersteuning en de uitvoering van het beleid inzake de binnenlandse aangelegenheden, met inbegrip van de coördinatie van het beleid met betrekking tot Brussel-Hoofdstad en met betrekking tot de Vlaamse Rand rond Brussel, van het stedenbeleid, van het integratie- en inburgeringsbeleid en voor de beleidsondersteuning conform artikel III.2 van het bestuursdecreet van 7 december 2018.<br>
+<br>
+Het agentschap behoort tot het beleidsdomein Kanselarij en Bestuur.
 
 ### ART. 3.
 
@@ -22,7 +26,7 @@ Het agentschap heeft onder meer tot taak het uitvoeren van een   samenhangend be
 
 ### ART. 5.
 
-Overeenkomstig artikel 9, § 1, 1° van het kaderdecreet bestuurlijk beleid   van 18 juli 2003, regelt het ondernemingsplan de concretisering van de   kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet   vervullen, met strategische en operationele doelstellingen, beschreven aan de   hand van meetbare criteria.
+Naast de inhoud, vermeld in artikel III.61 van het bestuursdecreet van 7 december 2018, regelt het ondernemingsplan ook de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
 
 ### ART. 6.
 
@@ -60,7 +64,7 @@ Bij het gebruik van de delegaties gelden de algemene voorwaarden en beperkingen,
 
 ### ART. 13.
 
-Onverminderd de artikelen 9, 33 en 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot de planning van en de rapportering over de algemene werking, de organisatiebeheersing en de interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 14.
 
