@@ -10,31 +10,23 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 Voor de toepassing van dit decreet wordt verstaan onder :<br>
 1° het elektronische bestuurlijke gegevensverkeer : het verkeer van gegevens binnen en tussen overheidsdiensten op elektronische wijze;<br>
-2° authentieke gegevensbron : een op elektronische wijze bijgehouden verzameling van gegevens die als de meest volledige, kwalitatief hoogstaande door de Vlaamse Regering is erkend, en die nuttig of noodzakelijk is in het kader van het elektronische bestuurlijke gegevensverkeer;<br>
-3° gebruiker : iedere natuurlijke persoon of rechtspersoon, met inbegrip van ondernemingen, instellingen, verenigingen en alle onderdelen van de overheid zelf, die in contact met de overheid staat in het kader van het elektronische bestuurlijke gegevensverkeer;<br>
+2° ...<br>
+3° ...<br>
 4° algemene verordening gegevensbescherming : de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 5° ...<br>
 6° verwerken : de verwerking, vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming;<br>
 7° mededeling : een of meer bewerkingen als vermeld in artikel 4, 2), van de algemene verordening gegevensbescherming, die slaan op het verstrekken van gegevens door middel van doorzending, het verspreiden, en het op welke andere wijze ook ter beschikking stellen van gegevens, voor zover dat op systematische en georganiseerde wijze gebeurt. De mededeling aan de personen op wie de gegevens betrekking hebben, aan hun wettelijke vertegenwoordigers, alsook aan degenen die door hen uitdrukkelijk werden gemachtigd om de gegevens te verwerken wordt niet als mededeling in de betekenis van dit decreet beschouwd;<br>
 8° ...<br>
-9° entiteiten van de Vlaamse administratie :<br>
-- de Vlaamse departementen en de intern en extern verzelfstandigde agentschappen, vermeld in artikel 3, eerste en tweede lid, van het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
-- de strategische adviesraden, vermeld in artikel 2, 1°, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br>
-- de Vlaamse Radio- en Televisieomroep;<br>
-- de administratieve diensten van de Raad van het Gemeenschapsonderwijs, vermeld in artikel 66 van het bijzonder decreet van 14 juli 1998 betreffende het gemeenschapsonderwijs;<br>
-- de Vlaamse Maatschappij voor Watervoorziening, vermeld in artikel 2 van het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening;<br>
-- UZ Gent;<br>
-- de VITO, vermeld in artikel 2 van het decreet van 23 januari 1991 betreffende de Vlaamse Instelling voor Technologisch Onderzoek;<br>
-- het IWT-Vlaanderen, vermeld in artikel 2 van 23 januari 1991 betreffende de oprichting van een Instituut voor de aanmoediging van innovatie door Wetenschap en Technologie in Vlaanderen;<br>
-10° instantie : de instantie, vermeld in artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
-11° externe overheid : een overheid die tot het internationale of federale niveau behoort, een andere gemeenschap of een ander gewest, en de daarvan afhangende instellingen of rechtspersonen, alsmede de privaatrechtelijke rechtspersonen die belast zijn met taken of opdrachten van algemeen belang;<br>
-12° metagegevens : documentatie die beschrijft wat de inhoud en de frequentie van actualisering van de authentieke gegevensbron zijn, en op welke technische wijze die bron benaderd en ontsloten kan worden;<br>
-13° testgegevens : een in omvang beperkte kopie van de authentieke gegevensbron met technisch dezelfde kenmerken als de authentieke gegevensbron, maar die uit anonieme, geanonimiseerde of fictieve gegevens bestaat;<br>
+9° ...<br>
+10° instantie: een instantie van de Vlaamse overheid als vermeld in artikel I.3, 1°, van het Bestuursdecreet van, een instantie van een lokale overheid als vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, een instelling met een publieke taak als vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018 of een milieu-instantie als vermeld in artikel I.3, 7°, van het Bestuursdecreet van 7 december 2018 ;<br>
+11° externe overheid: een instantie van een externe overheid als vermeld in artikel I.3, 8°, van het Bestuursdecreet van 7 december 2018 ;<br>
+12° ...<br>
+13° ...<br>
 14° persoonsgegevens : de persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
-15° elektronische formulieren : elektronische documenten en digitale toepassingen waarin gegevens in voorgestructureerde antwoordruimten online worden ingevuld en met eventuele bijlagen aan de entiteiten van de Vlaamse administratie of de provinciale en lokale besturen via de aangeboden of aangewezen toepassing digitaal worden bezorgd met het oog op de toepassing van Vlaamse regelgeving;<br>
-16° papieren formulieren : papieren documenten waarin gegevens in voorgestructureerde antwoordruimten handmatig worden ingevuld en met eventuele bijlagen aan de Vlaamse overheid worden bezorgd met het oog op de toepassing van regelgeving;<br>
-17° afnemersforum : een forum dat bestaat uit afnemers van een authentieke gegevensbron in kwestie;<br>
-18° provinciale en lokale besturen : een provincie, een gemeente, een OCMW, een door hen opgericht verzelfstandigd agentschap of een vereniging waaraan zij deelnemen met toepassing van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking of van de organieke wet van 8 juli 1976 betreffende de Openbare Centra voor Maatschappelijk Welzijn of een bestuur van een erkende eredienst.
+15° ...<br>
+16° ...<br>
+17° ...<br>
+18° ...
 
 ## [HOOFDSTUK II. Oprichting van gegevensbronnen met basisgegevens (ing. Decr. 23 juni 2023, art. 3, I: 21 augustus 2023)]
 
@@ -42,23 +34,13 @@ Voor de toepassing van dit decreet wordt verstaan onder :<br>
 
 ### ART. 3.
 
-De entiteiten van de Vlaamse administratie moeten de gegevens die ze nodig hebben om het elektronische bestuurlijke gegevensverkeer uit te bouwen, bij authentieke gegevensbronnen opvragen.<br /><br />Alleen als het om technische of juridische redenen niet mogelijk is een gegeven op te vragen bij een authentieke gegevensbron of als er geen authentieke gegevensbron bestaat, vragen de entiteiten van de Vlaamse administratie gegevens bij de gebruiker op.<br /><br />De gebruiker bij wie een entiteit van de Vlaamse administratie een gegeven opvraagt, kan overeenkomstig het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen een klacht indienen met vermelding dat het gevraagde gegeven overeenkomstig § 1 bij een authentieke gegevensbron moet worden opgevraagd, zonder dat hij op basis van die klacht kan weigeren het gevraagde gegeven te verschaffen. Het klachtrecht kan worden uitgeoefend vanaf het ogenblik dat de Vlaamse Regering, ter uitvoering van artikel 4, §§ 1 en 2, de authentieke gegevensbronnen heeft aangewezen.
+...
 
 ## [Afdeling II. Oprichting van een gegevensbron met gegevens van verenigingen (ing. Decr. 23 juni 2023, art. 6, I: 21 augustus 2023)]
 
 ### ART. 4.
 
-§ 1. De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, aanduiden welke gegevensbronnen zullen worden erkend als authentieke gegevensbronnen. De Vlaamse Regering bepaalt de wijze waarop de aanpassingen die noodzakelijk zijn om te evolueren naar een authentieke gegevensbron, worden gefinancierd.<br>
-<br>
-§ 1/1. De Vlaamse Regering wijst de authentieke gegevensbronnen aan en bepaalt volgens de door haar bepaalde procedure welke instanties authentieke gegevensbronnen beheren. Die instanties zijn verantwoordelijk voor de instandhouding, de terbeschikkingstelling, de veiligheid, de toegang en het gebruik van de authentieke gegevensbron en van de gegevens van die authentieke gegevensbron in kwestie en kunnen daartoe gegevens bij de gebruiker opvragen.<br>
-<br>
-Om het elektronische bestuurlijke gegevensverkeer uit te bouwen, kan de Vlaamse Regering bepalen onder welke voorwaarden en op welke wijze die gegevens worden verwerkt.<br>
-<br>
-§ 2. De Vlaamse Regering stelt vast welke authentieke gegevensbronnen die door een externe overheid worden beheerd, door de entiteiten van de Vlaamse administratie moeten worden geraadpleegd om het elektronische bestuurlijke gegevensverkeer uit te bouwen. De Vlaamse Regering sluit met de externe overheden de nodige akkoorden zodat de gegevens die in die authentieke gegevensbronnen opgenomen zijn, kunnen worden gebruikt.<br>
-<br>
-§ 3. ...<br>
-<br>
-§ 4. ...
+...
 
 ## [Afdeling III. Oprichting van een gegevensbron met rekeningnummers (ing. Decr. 23 juni 2023, art. 12, I: 21 augustus 2023)]
 
@@ -70,30 +52,19 @@ Om het elektronische bestuurlijke gegevensverkeer uit te bouwen, kan de Vlaamse 
 
 ### ART. 6.
 
-§ 1. De instanties zijn in ieder geval verplicht :<br>
-1° persoonsgegevens te verwerken overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
-2° bij iedere nieuwe toepassing van het elektronische bestuurlijke gegevensverkeer vooraf adequate technische en organisatorische maatregelen in te bouwen voor de naleving van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
-3° op elk moment te waken over de kwaliteit en de veiligheid van gegevens en alle maatregelen te treffen om een perfecte bewaring van persoonsgegevens te garanderen;<br>
-4° ...<br>
-5° ...<br>
-<br>
-§ 2. De elektronische mededeling van gegevens uit authentieke gegevensbronnen als vermeld in artikel 4, § 1, aan andere instanties is kosteloos.<br>
-<br>
-De Vlaamse Regering kan regels bepalen voor het aanrekenen van kosten voor de elektronische mededeling van die gegevens aan externe overheden.<br>
-<br>
-Als de ontvanger van de gegevens vaststelt dat de gegevens onnauwkeurig, onvolledig of onjuist zijn, is hij verplicht dat onmiddellijk te melden aan de instantie die de authentieke gegevensbron in kwestie beheert. De Vlaamse Regering kan de regels voor die melding bepalen.
+...
 
 ### ART. 7.
 
-§ 1. De instanties die authentieke gegevensbronnen beheren overeenkomstig artikel 4, § 1, of de entiteiten, vermeld in artikel 4, § 3, stellen de metagegevens van de authentieke gegevensbronnen kosteloos en publiekelijk open, zonder evenwel inbreuk te plegen op de intellectuele rechten en de confidentialiteitsverplichtingen die met die gegevensbronnen samenhangen, en zonder informatie bekend te maken die ongeoorloofde toegang of ongeoorloofd gebruik van de gegevensbronnen mogelijk maakt of de integriteit ervan in gevaar brengt.<br /><br />Ze kunnen testgegevens ter beschikking stellen overeenkomstig het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie.<br /><br />§ 2. Om te verhinderen dat misbruik wordt gemaakt van de metagegevens of de testgegevens, kan de Vlaamse Regering nadere bepalingen uitvaardigen over de registratie van de raadpleging van de metagegevens en het gebruik van de testgegevens.
+...
 
 ### ART. 7/1.
 
-De bestuursdocumenten, vatbaar voor hergebruik als vermeld in artikel 3   van het decreet van 27 april 2007 betreffende het hergebruik van   overheidsinformatie, worden tussen instanties kosteloos uitgewisseld met het oog   op de vervulling van hun publieke taak. Op eenvoudig verzoek van een instantie   bezorgt de instantie die de gevraagde bestuursdocumenten in kwestie bezit de   betreffende bestuursdocumenten aan de vragende instantie, en dit voor zover   mogelijk en passend, in een open en machinaal leesbaar formaat.<BR><BR>De   Vlaamse Regering bepaalt nadere regels voor de bezorging van bestuursdocumenten,   vermeld in het eerste lid. De Vlaamse Regering kan regels bepalen voor het   aanrekenen van kosten voor de bezorging van bestuursdocumenten aan externe   overheden met het oog op de vervulling van hun publieke taak.
+...
 
 ### ART. 7/2.
 
-Als de ontvangende instantie vaststelt dat de gegevens in de ontvangen   bestuursdocumenten onnauwkeurig, onvolledig of onjuist zijn, is ze verplicht dat   onmiddellijk te melden aan de instantie die de bestuursdocumenten in kwestie   beheert. De Vlaamse Regering kan de regels voor die melding   bepalen.
+...
 
 ## HOOFDSTUK III. [De bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens (verv. Decr. 8 juni 2018, art. 14, I: 29 maart 2019)]
 
@@ -233,11 +204,11 @@ De Vlaamse Regering duidt onder de leden een voorzitter aan.<br>
 
 ### ART. 13.
 
-De Vlaamse Regering kan decretale bepalingen aanpassen om de erin opgelegde verplichting om een bepaald formulier te gebruiken af te schaffen of om het model van een formulier af te schaffen en te vervangen door een opsomming van de gegevens die aan de bevoegde overheid moeten worden bezorgd met het oog op de toepassing van de regeling in kwestie.
+...
 
 ### ART. 14.
 
-De Vlaamse overheid kan voor de toepassing van de regelgeving waarvoor ze bevoegd is, elektronische formulieren ter beschikking stellen.<br /><br />Die elektronische formulieren worden gelijkgesteld met papieren formulieren die hetzelfde opschrift dragen en die ingevuld, gevalideerd en bezorgd worden overeenkomstig de voorwaarden die de Vlaamse Regering bepaalt.
+...
 
 ## HOOFDSTUK V. Wijzigingsbepalingen
 
