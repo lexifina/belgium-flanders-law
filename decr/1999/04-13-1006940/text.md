@@ -16,7 +16,7 @@ De Vlaamse regering wordt gemachtigd om onder de voorwaarden bepaald in dit decr
 
 <p>§ 1. De statuten van de vereniging en de wijzigingen ervan worden door de Vlaamse Regering meegedeeld aan het Vlaams Parlement.<br>
 <br>
-De leden van de raad van bestuur van de vereniging worden voor een termijn van drie jaar benoemd door de algemene vergadering, op voordracht van de Vlaamse Regering of, wat betreft de onafhankelijke bestuurders, op voordracht van de raad van bestuur conform artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector. Een bestuurder kan maximaal drie opeenvolgende termijnen vervullen.<br>
+De leden van de raad van bestuur van de vereniging worden voor een termijn van drie jaar benoemd door de algemene vergadering, op voordracht van de Vlaamse Regering of, wat betreft de onafhankelijke bestuurders, op voordracht van de raad van bestuur conform artikel III.41 van het Bestuursdecreet van 7 december 2018. Een bestuurder kan maximaal drie opeenvolgende termijnen vervullen.<br>
 <br>
 In de raad van bestuur is generieke deskundigheid op het terrein van de audiovisuele sector vertegenwoordigd, alsook deskundigheid op juridisch, financieel, cultureel en artistiek gebied.<br>
 <br>
