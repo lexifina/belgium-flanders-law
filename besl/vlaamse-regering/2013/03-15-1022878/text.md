@@ -35,7 +35,7 @@ d) speelplaatsen, speelterreinen, sportterreinen, schoolterreinen en terreinen v
 2° oppervlaktewater: water, vermeld in artikel 3, § 2, 3°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
 3° talud: talud vermeld in artikel 3, § 2, 42°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
 4° verhard terrein: grondoppervlak dat op een of andere wijze bedekt is met een verharding, al dan niet waterdoorlatend;<br>
-5° zorgverstrekkende instelling: instelling zoals een ziekenhuis, rust- en verzorgingstehuis of een psychiatrisch verzorgingstehuis.</p>
+5° zorgverstrekkende instelling: een instelling zoals een ziekenhuis, een woonzorgcentrum met een bijkomende erkenning of een psychiatrisch verzorgingstehuis.</p>
 
 ### ART 3/1.
 
