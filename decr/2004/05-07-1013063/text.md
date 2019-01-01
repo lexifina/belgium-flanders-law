@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° het decreet van 8 mei 2002: het decreet houdende evenredige participatie op de arbeidsmarkt van 8 mei 2002;<br>
-2° het kaderdecreet: het Kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+2° Bestuursdecreet: het Bestuursdecreet van 7 december 2018 ;;<br>
 3° universele dienstverlening : het geheel van basisdiensten en -voorzieningen inzake werk, opleiding en loopbaanontwikkeling, die gratis door de VDAB worden gewaarborgd. Die basisdiensten en -voorzieningen omvatten voor werkzoekenden ten minste de inschrijving en herinschrijving, de bekendmaking van vacatures, het verstrekken van informatie over werk, opleiding en loopbaanontwikkeling, de beroepskeuzevoorlichting, de beroepsvoorkeur-, geschiktheids- en kennistesten, de kosteloze arbeidsbemiddeling, de trajectbepaling en de trajectverwijzing, en voor de werkgevers, de registratie van vacatures, de steun bij de omschrijving van vacatures, het verstrekken van informatie over werk en opleiding, de toeleiding van werkzoekenden en het accountmanagement, en voor elk individu het aanbod van een elektronisch platform waarop elk individu informatie over zijn competenties kan beheren in functie van de loopbaan en perspectieven op de arbeidsmarkt. De Vlaamse Regering bepaalt de nadere inhoud van de universele dienstverlening;<br>
 4° geïntegreerde dienstverlening: het geheel van afgestemde dienstverlening die door de partijen die diensten aanbieden in de werkwinkels wordt aangeboden en die, wat de dienstverlening aangeboden door de VDAB betreft, in elk geval de universele dienstverlening omvat;<br>
 5° dienstenwerkgelegenheid: de werkgelegenheid die bijdraagt tot het vervullen van nog niet ingevulde maatschappelijke behoeften die betrekking kunnen hebben op zowel individuele, gezinsgebonden als collectieve aangelegenheden;<br>
@@ -18,7 +18,7 @@ In dit decreet wordt verstaan onder:<br>
 7° arbeidsbemiddeling: de activiteiten die erop gericht zijn werkzoekenden en werknemers bij te staan bij het zoeken van een nieuwe tewerkstelling of werkgevers bij het zoeken van werkzoekenden of werknemers;<br>
 8° traject: een geplande, efficiënte en flexibele aaneenschakeling van verschillende stappen in een logische volgorde met als doel de kansen op duurzame werkgelegenheid te verhogen;<br>
 9° statuut van de werkzoekende: het geheel van de bepalingen inzake de rechten en plichten van de werkzoekende;<br>
-10° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren en die ingeschreven is bij de VDAB;<br>
+10° doelgroepwerknemer : de persoon, vermeld in artikel 3, 3°, van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling;<br>
 11° verplicht ingeschreven werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het verkrijgen van een werkloosheidsuitkering of een inschakelingsuitkering.<br>
 12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft;<br>
 13° leefloongerechtigde: iedere persoon die recht heeft op een leefloon als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, of die recht heeft op financiële maatschappelijke steun, equivalent aan het leefloon, vermeld in artikel 60, § 3, van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, met uitzondering van de personen voor wie tewerkstelling niet haalbaar is om gezondheids- of billijkheidsredenen.
@@ -27,13 +27,13 @@ In dit decreet wordt verstaan onder:<br>
 
 ### ART. 3.
 
-§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid zoals bedoeld in artikel 13 van het kaderdecreet opgericht.<br>
+§ 1. Er wordt een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid zoals bedoeld in artikel III.7 van het Bestuursdecreet opgericht.<br>
 <br>
 Het in het eerste lid bedoelde agentschap draagt als naam "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsoplei-ding", afgekort: "VDAB".<br>
 <br>
 Alle officiële akten, officiële aankondigingen of andere officiële stukken, uitgaande van het agentschap, vermelden de benaming van het agentschap, met onmiddellijk daarvoor of daarna, deze leesbaar en voluit geschreven woorden: "publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met rechtspersoonlijkheid".<br>
 <br>
-De bepalingen van het kaderdecreet zijn van toepassing op de VDAB.<br>
+De bepalingen van het Bestuursdecreet zijn van toepassing op de VDAB.<br>
 <br>
 § 2. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein het agentschap behoort.<br>
 <br>
@@ -104,12 +104,10 @@ e) het toekennen van tegemoetkomingen voor stages, met inbegrip van stage-uitker
 <br>
 4° taken inzake de evenredige participatie op de arbeidsmarkt in het algemeen: het bijdragen tot de tenuitvoerlegging van het Vlaams werkgelegenheidsbeleid als bedoeld in artikel 2, 12°, van het decreet van 8 mei 2002 en zulks op een dermate wijze dat gestreefd wordt naar de verwezenlijking van de doelstellingen die in artikel 5 van het decreet van 8 mei 2002 zijn vooropgesteld;<br>
 <br>
-5° taken inzake de integratie van personen met een arbeidshandicap in het bijzonder:<br>
-a) het toekennen van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap.<br>
-<br>
-De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de persoon met een arbeidshandicap moet voldoen.<br>
-b) het verzorgen van de trajectbegeleiding, de beroepsoriëntering, de beroepsopleiding en het verlenen van de toegang tot de gesubsidieerde tewerkstelling in de beschutte werkplaatsen;<br>
-c) het erkennen en subsidiëren van organisaties die instaan voor het verzorgen van de trajectbegeleiding, de beroepsoriëntering en de beroepsopleiding;<br>
+5° taken voor de integratie van&nbsp;personen met een arbeidshandicap en doelgroepwerknemers in het bijzonder :<br>
+a) de toekenning van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap en doelgroepwerknemers. De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de personen met een arbeidshandicap en doelgroepwerknemers moeten voldoen;<br>
+b) de verzorging van de trajectbegeleiding, de beroepsoriëntering, de competentieontwikkeling en de verlening van toegang tot de gesubsidieerde tewerkstelling in de maatwerkbedrijven en de maatwerkafdelingen;<br>
+c) de erkenning en subsidiëring van organisaties die instaan voor het verzorgen van de trajectbegeleiding, de beroepsoriëntering en de competentieontwikkeling;<br>
 <br>
 6° taak inzake het statuut van de werkzoekende:<br>
 a) het maken van afspraken met elke verplicht ingeschreven werkzoekende die in de trajectbegeleiding wordt opgenomen;<br>
@@ -143,7 +141,24 @@ De in het tweede lid bedoelde mogelijkheid geldt niet voor de taken van universe
 
 ### ART. 6.
 
-§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is de VDAB gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br /><br />§ 2. Als rechtspersoon is de VDAB algemeen rechts-, handelings- en procesbekwaam, zulks binnen de perken van zijn missie en takenstelling als bedoeld in respectievelijk de artikelen 4 en 5 en binnen de perken van het kaderdecreet.<br /><br />Onverminderd het bepaalde in het kaderdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Kaderdecreet en in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die de VDAB verbindt:<br /><br />1° rekening houdende met het bepaalde in artikel 5, § 4, het bepalen en opleggen van een vergoeding voor de dienstverlening van VDAB, de universele dienstverlening uitgezonderd;<br /><br />2° het sluiten van samenwerkingsovereenkomsten met één of meer van de hierna vermelde instellingen of personen, indien zulks nodig is voor de vervulling van zijn missie en taakstelling:<br /><br />a) binnenlandse, buitenlandse of supra- of internationale overheidsinstellingen werkzaam binnen een soortgelijke bevoegdheidssfeer als de VDAB;<br /><br />b) de entiteit binnen de Vlaamse overheid die instaat voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen en/of binnenlandse, buitenlandse of supra- of internationale organisaties werkzaam binnen een soortgelijke bevoegdheidssfeer;<br /><br />c) lokale overheden;<br /><br />d) binnenlandse en/of buitenlandse ondernemingen;<br /><br />e) binnenlandse en/of buitenlandse middelbare scholen, hogescholen, universiteiten en instellingen voor het volwassenenonderwijs;<br /><br />f) in de schoot van de bedrijfssectoren opgerichte opleidings- en tewerkstellingsinitiatieven;<br /><br />g) binnenlandse of buitenlandse arbeidsmarktactoren;<br /><br />h) andere instellingen of personen dan vermeld onder 2°, a) tot g), van dit lid;<br /><br />3° het lid worden en zijn van inter- of supranationale organisaties, instellingen of organismen, al dan niet bekleed met rechtspersoonlijkheid, in de mate dat een dergelijk lidmaatschap bij- draagt tot de verwezenlijking van de missie en de taken van het agentschap.<br /><br />§ 3. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken kan de Vlaamse regering de in de §§ 1 en 2 bedoelde bevoegdheden nader preciseren en/of nader concretiseren.
+§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is de VDAB gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br>
+<br>
+§ 2. Als rechtspersoon is de VDAB algemeen rechts-, handelings- en procesbekwaam, zulks binnen de perken van zijn missie en takenstelling als bedoeld in respectievelijk de artikelen 4 en 5 en binnen de perken van het Bestuursdecreet.<br>
+<br>
+Onverminderd het bepaalde in het Bestuursdecreet, in dit decreet, in andere decreten en in hun uitvoeringsbesluiten, beschikt de VDAB, met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken, tevens over de hierna vermelde bijzondere bevoegdheden die de VDAB uitoefent in overeenstemming met het bepaalde in het Bestuursdecreet en in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die de VDAB verbindt:<br>
+1° rekening houdende met het bepaalde in artikel 5, § 4, het bepalen en opleggen van een vergoeding voor de dienstverlening van VDAB, de universele dienstverlening uitgezonderd;<br>
+2° het sluiten van samenwerkingsovereenkomsten met één of meer van de hierna vermelde instellingen of personen, indien zulks nodig is voor de vervulling van zijn missie en taakstelling:<br>
+a) binnenlandse, buitenlandse of supra- of internationale overheidsinstellingen werkzaam binnen een soortgelijke bevoegdheidssfeer als de VDAB;<br>
+b) de entiteit binnen de Vlaamse overheid die instaat voor de vorming van zelfstandigen en kleine en middelgrote ondernemingen en/of binnenlandse, buitenlandse of supra- of internationale organisaties werkzaam binnen een soortgelijke bevoegdheidssfeer;<br>
+c) lokale overheden;<br>
+d) binnenlandse en/of buitenlandse ondernemingen;<br>
+e) binnenlandse en/of buitenlandse middelbare scholen, hogescholen, universiteiten en instellingen voor het volwassenenonderwijs;<br>
+f) in de schoot van de bedrijfssectoren opgerichte opleidings- en tewerkstellingsinitiatieven;<br>
+g) binnenlandse of buitenlandse arbeidsmarktactoren;<br>
+h) andere instellingen of personen dan vermeld onder 2°, a) tot g), van dit lid;<br>
+3° het lid worden en zijn van inter- of supranationale organisaties, instellingen of organismen, al dan niet bekleed met rechtspersoonlijkheid, in de mate dat een dergelijk lidmaatschap bijdraagt tot de verwezenlijking van de missie en de taken van het agentschap.<br>
+<br>
+§ 3. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken kan de Vlaamse regering de in de §§ 1 en 2 bedoelde bevoegdheden nader preciseren en/of nader concretiseren.
 
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
@@ -160,7 +175,7 @@ De in het tweede lid bedoelde mogelijkheid geldt niet voor de taken van universe
 
 ### ART. 8.
 
-De leden van de raad van bestuur worden aangesteld door de Vlaamse regering conform artikel 18, § 1, van het kaderdecreet en rekening houdend met het bepaalde in artikelen 7, 9 en 14, tweede lid, van dit decreet.
+De leden van de raad van bestuur worden aangesteld door de Vlaamse regering conform artikel III.10 van het Bestuursdecreet en rekening houdend met het bepaalde in artikelen 7, 9 en 14, tweede lid, van dit decreet.
 
 ### ART. 9.
 
@@ -176,7 +191,21 @@ De in artikel 7, § 1, 2°, bedoelde leden van de raad van bestuur kunnen door d
 
 ### ART. 12.
 
-§ 1. De raad van bestuur vormt een college en functioneert overeenkomstig de regels die gelden voor beraadslagende organen.<br /><br />Onverminderd hetgeen is bepaald in de artikelen 14 en 15, geniet de raad van bestuur de volheid van bestuursbevoegdheid, met uitzondering van het dagelijks bestuur.<br /><br />De raad van bestuur is bevoegd om alle handelingen die nodig of dienstig zijn voor de verwezenlijking van de missie en de taken van de VDAB te verrichten.<br /><br />§ 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval:<br /><br />1° het sluiten van de beheersovereenkomst, bedoeld in artikel 14 van het Kaderdecreet;<br /><br />2° het opstellen van het ontwerp van begroting en van de rekeningen;<br /><br />3° het vaststellen, op voorstel van de gedelegeerd bestuurder, van het jaarlijks ondernemingsplan, evenals een operationeel plan op middellange en lange termijn als bedoeld in artikel 15, § 1, 4°, van het Kaderdecreet;<br /><br />4° het bepalen van de regels op grond waarvan de VDAB samenwerkingsovereenkomsten met private arbeidsmarktactoren kan sluiten;<br /><br />5° het beslissen over de deelname van de VDAB aan de oprichting van of de deelname in, alsmede het bestuur of de leiding en de financiering van publiek- of privaatrechtelijke rechtspersonen;<br /><br />6° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van de beheersovereenkomst;<br /><br />7° het rapporteren over de uitvoering van de begroting;<br /><br />8° het vaststellen van de vergoedingen bedoeld in artikel 5, § 4, tweede lid.
+§ 1. De raad van bestuur vormt een college en functioneert overeenkomstig de regels die gelden voor beraadslagende organen.<br>
+<br>
+Onverminderd hetgeen is bepaald in de artikelen 14 en 15, geniet de raad van bestuur de volheid van bestuursbevoegdheid, met uitzondering van het dagelijks bestuur.<br>
+<br>
+De raad van bestuur is bevoegd om alle handelingen die nodig of dienstig zijn voor de verwezenlijking van de missie en de taken van de VDAB te verrichten.<br>
+<br>
+§ 2. Tot de voorbehouden bevoegdheden van de raad van bestuur waarvoor geen delegatie mogelijk is, behoren in elk geval:<br>
+1° het vaststellen van het ondernemingsplan conform artikel III.61 van het Bestuursdecreet;<br>
+2° het opstellen van het ontwerp van begroting en van de rekeningen;<br>
+3° ...;<br>
+4° het bepalen van de regels op grond waarvan de VDAB samenwerkingsovereenkomsten met private arbeidsmarktactoren kan sluiten;<br>
+5° het beslissen over de deelname van de VDAB aan de oprichting van of de deelname in, alsmede het bestuur of de leiding en de financiering van publiek- of privaatrechtelijke rechtspersonen;<br>
+6° de goedkeuring van de rapportering aan de Vlaamse regering over de uitvoering van de beheersovereenkomst;<br>
+7° het rapporteren over de uitvoering van de begroting;<br>
+8° het vaststellen van de vergoedingen bedoeld in artikel 5, § 4, tweede lid.
 
 ## AFDELING 2 BIJZONDERE COMMISSIES OF COMITÉS
 
@@ -388,7 +417,23 @@ De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de nad
 
 ### ART. 24.
 
-§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de missie, taken en bevoegdheden van VDAB te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het kaderdecreet.<br /><br />De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br /><br />De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br /><br />§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de VDAB, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br /><br />1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br /><br />2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br /><br />3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br /><br />4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen, naar de vorm aanpassen.<br /><br />De coördinatie treedt pas in werking nadat zij bekrachtigd is door het Vlaams Parlement.
+§ 1. De Vlaamse regering wordt ermee belast de bestaande wets- en decreetsbepalingen betreffende de missie, taken en bevoegdheden van VDAB te wijzigen, aan te vullen, te vervangen of op te heffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet en van het Bestuursdecreet.<br>
+<br>
+De besluiten die krachtens deze paragraaf worden vastgesteld, houden op uitwerking te hebben indien zij niet bij decreet zijn bekrachtigd binnen de 9 maanden na de datum van hun inwerkingtreding. De bekrachtiging werkt terug tot deze laatste datum.<br>
+<br>
+De in deze paragraaf aan de Vlaamse regering opgedragen bevoegdheid vervalt 9 maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens deze paragraaf zijn vastgesteld en zijn bekrachtigd alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.<br>
+<br>
+§ 2. De Vlaamse regering wordt ermee belast de bepalingen van de wetten en decreten betreffende de VDAB, alsook de bepalingen die daarin uitdrukkelijk of stilzwijgend wijzigingen hebben aangebracht tot het tijdstip van de coördinatie, te coördineren. Te dien einde kan de regering:<br>
+<br>
+1° de te coördineren bepalingen anders inrichten, inzonderheid opnieuw ordenen en vernummeren;<br>
+<br>
+2° de verwijzingen in de te coördineren bepalingen dienovereenkomstig vernummeren;<br>
+<br>
+3° de te coördineren bepalingen met het oog op onderlinge overeenstemming en eenheid van terminologie herschrijven zonder te raken aan de erin neergelegde beginselen;<br>
+<br>
+4° de verwijzingen naar de in de coördinatie opgenomen bepalingen die in andere niet in de coördinatie opgenomen bepalingen voorkomen, naar de vorm aanpassen.<br>
+<br>
+De coördinatie treedt pas in werking nadat zij bekrachtigd is door het Vlaams Parlement.
 
 ## HOOFDSTUK IX SLOTBEPALINGEN
 
