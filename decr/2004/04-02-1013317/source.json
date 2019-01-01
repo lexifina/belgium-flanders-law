@@ -2,16 +2,16 @@
   "codex_id": 1013317,
   "title": "Decreet van 2004-04-02 betreffende participatie op school en de Vlaamse Onderwijsraad",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013317/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "12b9ecfd97995680fe7348939adefa2a480f8a6a6a72fb096e2fa301a9c623e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013317/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "311c1d63a5dfe42dd12e6826bef1b39f77283a386ecc6742163e80a10a3092c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013317&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-01-01",
   "made": "2004-04-02",
   "gazette": "2004-08-06",
   "numac": 2004036255,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-09-01",
+  "in_force": "2019-01-01",
   "article_versions": 100,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

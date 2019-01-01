@@ -417,7 +417,14 @@ De regering bepaalt de personeelsformatie van het expertisecentrum.<br /><br />D
 
 ### ART. 67.
 
-§ 1. De VLOR is een strategische adviesraad met rechtspersoonlijkheid in de zin van het decreet van 18 juli 2003 tot regeling van de strategische adviesraden.<br /><br />Hij oefent zijn taken uit bij het beleidsdomein Onderwijs en Vorming van het ministerie van de Vlaamse Gemeenschap.<br /><br />§ 2. De oprichting, taakomschrijving, samenstelling, organisatie en werking van de VLOR evenals de programmering en verslaggeving ervan, wordt geregeld door en krachtens de bepalingen van dit decreet en door artikel 7, 9 tot en met 12, 14,15, 16, § 1, 17 en 19, van het decreet van 18 juli 2003 tot regeling van de strategische adviesraden. In dit laatste artikel moet het begrip jaar als « schooljaar » gelezen worden.<br /><br />§ 3. De VLOR treedt volledig in de rechten en plichten ten aanzien van de op de vooravond van de inwerkingtreding van deze titel bestaande Vlaamse Onderwijsraad.<br /><br />
+§ 1. De VLOR is een strategische adviesraad met rechtspersoonlijkheid in de zin van artikel III.93 van het Bestuursdecreet van 7 december 2018.<br>
+<br>
+Hij oefent zijn taken uit bij het beleidsdomein Onderwijs en Vorming van het ministerie van de Vlaamse Gemeenschap.<br>
+<br>
+§ 2. De oprichting, taakomschrijving, samenstelling, organisatie en werking van de Vlor evenals de programmering en verslaggeving ervan, wordt geregeld door en krachtens de bepalingen van dit decreet en door titel III, hoofdstuk 3, afdeling 7, van het Bestuursdecreet van 7 december 2018 tenzij in dit decreet anders wordt bepaald. Voor de toepassing van artikel III.106 van het Bestuursdecreet van 7 december 2018 wordt het begrip "jaarlijks" gelezen als "elk schooljaar".<br>
+<br>
+§ 3. De VLOR treedt volledig in de rechten en plichten ten aanzien van de op de vooravond van de inwerkingtreding van deze titel bestaande Vlaamse Onderwijsraad.<br>
+&nbsp;
 
 ## HOOFDSTUK II ORGANEN
 
@@ -516,7 +523,10 @@ De aanduiding van de afgevaardigden gebeurt als volgt:<BR>1° de Vlaamse   Hoges
 
 ### ART. 84.
 
-Een mandaat in een raad is onverenigbaar met:<br /><br />1° de in artikel 8, tweede lid, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden bedoelde man-daten, ambten en hoedanigheden, met uitzondering van het ambt van personeelslid van het gemeenschapsonderwijs;<br /><br />2° de hoedanigheid van algemeen voorzitter;<br /><br />3° de hoedanigheid van personeelslid van de onderwijsinspectie van de Vlaamse Gemeenschap.
+Een mandaat in een raad is onverenigbaar met:<br>
+1° de in artikel III.97, tweede lid, van het Bestuursdecreet van 7 december 2018 bedoelde mandaten, ambten en hoedanigheden, met uitzondering van het ambt van personeelslid van het gemeenschapsonderwijs;<br>
+2° de hoedanigheid van algemeen voorzitter;<br>
+3° de hoedanigheid van personeelslid van de onderwijsinspectie van de Vlaamse Gemeenschap.
 
 ## ONDERAFDELING 4 DUUR VAN HET MANDAAT
 
