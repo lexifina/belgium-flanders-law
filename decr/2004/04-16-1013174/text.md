@@ -16,7 +16,7 @@ Voor de toepassing van dit decreet wordt begrepen onder:<br>
 3° Grootschalig Referentie Bestand, hierna 'GRB' genoemd: het databanksysteem waarin de grootschalige referentiegegevens over het grondgebied van het Vlaamse Gewest worden opgenomen, bijgehouden en toegankelijk gemaakt;<br>
 4° het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
 5° ...;<br>
-6° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid;<br>
+6° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het Bestuursdecreet van 7 december 2018 ;<br>
 7° netbeheerder van een fysiek leidingnet: netbeheerder bedoeld in artikel 21, 1°, van een of meerdere leidingnetten bedoeld in artikel 21,2° tot en met 5°, voor zover die leidingnetten aanwezig zijn op het grondgebied van het Vlaamse Gewest;<br>
 8° derden : natuurlijke personen of rechtspersonen die geen netbeheerder van een fysiek leidingnet zijn en niet de hoedanigheid hebben van het Vlaamse Gewest, de Vlaamse Gemeenschap, een intern verzelfstandigd agentschap met rechtspersoonlijkheid, een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap, een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, een Vlaamse openbare instelling, een provincie en een gemeente.
 
@@ -136,7 +136,12 @@ Het Vlaamse Gewest, de Vlaamse Gemeenschap, de intern verzelfstandigde agentscha
 
 ### ART. 18.
 
-De aanmaak, de bijhouding en het beheer van het GRB worden gefinancierd door:<br />1° een jaarlijkse dotatie van het Vlaamse Gewest aan het Agentschap;<br />2° de opbrengst van de vergoedingen bedoeld in afdeling II van dit hoofdstuk die krachtens artikel 20 toekomen aan het Vlaamse Gewest;<br />3° de opbrengst van de heffingen bedoeld in afdeling III van dit hoofdstuk.<br /><br />De in 2° en 3° van het vorige lid vermelde opbrengsten worden integraal toegewezen aan het Agentschap en door haar uitsluitend aangewend voor deze financiering.
+De aanmaak, de bijhouding en het beheer van het GRB worden gefinancierd door:<br>
+1° een jaarlijkse dotatie van het Vlaamse Gewest aan het Agentschap;<br>
+2° de opbrengst van de vergoedingen bedoeld in afdeling II van dit hoofdstuk die krachtens artikel 20 toekomen aan het Vlaamse Gewest;<br>
+3° de opbrengst van de heffingen bedoeld in afdeling III van dit hoofdstuk.<br>
+<br>
+De in 2° en 3° van het vorige lid vermelde opbrengsten worden integraal toegewezen aan het&nbsp;Eigen Vermogen Informatie Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Agentschap voor Geografische Informatie Vlaanderen en de oprichting van het Eigen Vermogen Informatie Vlaanderen en uitsluitend aangewend voor deze financiering.
 
 ### ART. 19.
 
