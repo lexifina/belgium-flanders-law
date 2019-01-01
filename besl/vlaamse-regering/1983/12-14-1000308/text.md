@@ -79,7 +79,7 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 - de Gezins- en Welzijnsraad en de in zijn schoot opgerichte vaste commissies en werkgroepen;<br>
 - de deskundige commissie bedoeld in artikel 4, tweede lid, van het decreet van 15 juli 1997 houdende instelling van het kindeffectrapport en de toetsing van het regeringsbeleid aan de naleving van de rechten van het kind;<br>
 - de adviescommissie interlandelijke adoptie;&nbsp;<br>
-- de bezwaarcommissie, vermeld in artikel 130 van het besluit van de Vlaamse Regering van 14 oktober 2016 houdende de uitvoering van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming.<br>
+- de administratieve beroepscommissie, vermeld in artikel 144 van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming.<br>
 <br>
 5. Gezondheidszorg:<br>
 - Vlaamse Gezondheidsraad;<br>
