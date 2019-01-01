@@ -2,16 +2,16 @@
   "codex_id": 1006298,
   "title": "Decreet van 1998-07-14 inzake sociale werkplaatsen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006298/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "65e4b59165f9472ab6bae08ce68f8565ee7b54d51bcd3c28dacb5ef53a28bd90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006298/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "0e28fe3e02abcc0b63fec3481d1703436f16bfc5d91363a632918075fdeee1cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006298&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-01-01",
   "made": "1998-07-14",
   "gazette": "1998-09-02",
   "numac": 1998035982,
   "document_start": null,
   "document_end": "2018-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2019-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
