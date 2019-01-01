@@ -56,6 +56,20 @@ De bestuurders van die vereniging worden voorgedragen in gezamenlijk overleg tus
 
 De Vlaamse Regering wordt gemachtigd om toe te treden tot een vereniging zonder winstoogmerk met als doel vorm en inhoud te geven aan de Vlaams-Nederlandse culturele samenwerking, ter uitvoering van het verdrag inzake de samenwerking op het gebied van cultuur, onderwijs, wetenschappen en welzijn tussen het Koninkrijk der Nederlanden en de Vlaamse Gemeenschap in het Koninkrijk België, ondertekend in Antwerpen op 17 januari 1995.
 
+### ART 5/1.
+
+De Vlaamse Regering kent binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten een jaarlijkse subsidie toe aan de vereniging, vermeld in artikel 5 voor en op voorwaarde van het vervullen van de in dat artikel vermelde doelstelling. Die subsidie bestaat uit een subsidie van een kern van personeelsleden, een jaarlijkse basistoelage voor de werking en een subsidie op grond van werkelijk gepresteerde activiteiten.<br>
+<br>
+Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, wordt het subsidiebedrag, vermeld in het eerste lid, jaarlijks gekoppeld aan het prijs-indexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen. Voor het gedeelte werkingskosten van de subsidie, vermeld in het eerste lid, wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt.<br>
+<br>
+De subsidie, vermeld in het eerste lid, wordt als volgt beschikbaar gesteld:<br>
+1° voor het eerste en tweede tertiaal een voorschot van 35 % van het subsidiebedrag dat voor dat jaar toegekend wordt, en voor het derde tertiaal een voorschot van 25 % van het subsidiebedrag dat voor dat jaar toegekend wordt;<br>
+2° een saldo van maximaal 5 % van het subsidiebedrag dat voor dat jaar toegekend wordt. Het saldo wordt uitbetaald in de loop van het jaar dat volgt op het gesubsidieerde jaar nadat de administratie vaststelt dat de vereniging de in artikel 5 vermelde doelstelling heeft verwezenlijkt en de administratie de financiële afrekening en het jaarverslag van het voorbije gesubsidieerde jaar goedgekeurd heeft.<br>
+<br>
+Met de subsidie, vermeld in het eerste lid, kan een reserve worden aangelegd conform het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle ervan, en de controle door het Rekenhof.<br>
+<br>
+De Vlaamse Regering sluit, samen met het Koninkrijk der Nederlanden, met de voormelde vereniging een beheersovereenkomst af voor een duur van maximum vijf jaar. Die beheersovereenkomst bevat de concrete uitwerking, op praktisch vlak, van de bij dit hoofdstuk vastgestelde regels, zoals de missie, de invulling van de kerntaken en de strategische en operationele doelstellingen en de modaliteiten voor de werking en de evaluatie.
+
 ### ART 6.
 
 De Vlaamse Regering wordt gemachtigd om toe te treden tot een vereniging zonder winstoogmerk met als doel de organisatie mogelijk te maken van culturele evenementen en congresactiviteiten in een zo ruim mogelijke betekenis en die daartoe een concertgebouw te Brugge heeft opgericht.
