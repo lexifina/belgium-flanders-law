@@ -15,7 +15,7 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 § 1. De definities, opgenomen in artikel 1.1.2, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, zijn van toepassing op dit decreet, tenzij uitdrukkelijk anders bepaald.<br>
 <br>
 § 2. Voor de toepassing van dit decreet wordt verstaan onder :<br>
-1° het kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+1° het Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 2° ...;<br>
 3° het decreet natuurbehoud : het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 4° de wetgeving inzake ruilverkaveling van landeigendommen : de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet, de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne, de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
@@ -28,7 +28,43 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 
 ### ART. 2.
 
-§ 1. Een Vlaamse Landmaatschappij, afgekort: "VLM" en hierna het   agentschap te noemen, wordt opgericht als een publiekrechtelijk vormgegeven   extern verzelfstandigd agentschap als bedoeld in artikel 13 van het   kaderdecreet.<BR><BR>§ 2. Het agentschap zal, zonder zijn burgerlijk karakter te   verliezen, in de vorm van een naamloze vennootschap worden opgericht.<BR><BR>Het   agentschap heeft rechtspersoonlijkheid. De rechtspositie van het agentschap   wordt geregeld in die volgorde door het kaderdecreet, dit decreet en door zijn   statuten. Zonder aan het voorafgaande afbreuk te doen, zijn de bepalingen van   het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap op   het agentschap toepasselijk voor alles wat niet door het kaderdecreet, dit   decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder   ressorterende instellingen een regeling inzake begroting, boekhouding,   organisatie van de controle, en controle op subsidies invoeren, en door de   statuten van het agentschap is bepaald en slechts in die mate dat het Wetboek   van vennootschappen niet in strijd is met deze bepalingen. <BR><BR>De bepalingen   van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de   faillissementswet van 8 augustus 1997 zijn evenwel niet op het agentschap   toepasselijk, evenmin als de rechtsregels die betrekking hebben op een toestand   van algemene samenloop van schuldeisers en de rechtsregels in het Wetboek van   vennootschappen die verplichten de rechtsvorm uitdrukkelijk te vermelden in alle   stukken die uitgaan van het agentschap. <BR><BR>Het Vlaamse Gewest, de   provincies en de gemeenten, gelegen in het Vlaamse Gewest kunnen inschrijven op   het kapitaal van de Maatschappij door ondeelbare aandelen in geld. <BR><BR>Alle   aandelen zijn en blijven op naam.<BR><BR>Het rechtstreekse belang van het   Vlaamse Gewest als aandeelhouder in het maatschappelijk kapitaal van het   agentschap moet in totaal steeds meer dan 50 % bedragen. De aandelen waarop het   Vlaamse Gewest inschrijft en die waarop het later mocht inschrijven, zijn   onvervreemdbaar, met uitzondering van het gedeelte van de aandelen dat vier   vijfde van het totale kapitaal overschrijdt.<BR><BR>De aandelen waarop de   provincies en de gemeenten inschrijven, kunnen, zelfs als ze slechts ten bedrage   van 25 % werden afbetaald, alleen afgestaan worden aan provincies en gemeenten   en na machtiging van de raad van bestuur van het agentschap en van de Vlaamse   regering.<BR><BR>Het maatschappelijk kapitaal kan bij beslissing van de algemene   vergadering worden verhoogd door inschrijvingen van ondeelbare aandelen in geld.   Alleen het Vlaamse Gewest, de provincies en de gemeenten, gelegen in het Vlaamse   Gewest, mogen op deze kapitaalsverhoging inschrijven. In geen geval kan een   kapitaalsverhoging ertoe leiden dat het Vlaamse Gewest als aandeelhouder niet   langer, rechtstreeks, meer dan 50 % van het kapitaal van het agentschap   bezit.<BR><BR>Elke nieuwe inschrijving moet telkens vastgesteld worden door een   authentieke akte, die gepaard gaat met een storting in speciën van ten minste   één vierde op ieder aandeel.<BR><BR>Het niet-afbetaalde bedrag van iedere   inschrijving moet worden gestort op de data, vastgesteld door de raad van   bestuur, na waarschuwing drie maanden van tevoren met een aangetekende brief. De   afgifte van de brief op de post geldt als betekening, te rekenen vanaf de   volgende dag.<BR><BR>De aandeelhouders worden ertoe gemachtigd hun inschrijving   geheel of gedeeltelijk vooruit te betalen.<BR><BR>Iedere laattijdige storting   brengt, van rechtswege en zonder ingebrekestelling, interest op tegen de   wettelijke rentevoet, ten bate van het agentschap, vanaf het verstrijken van   voormelde termijn van drie maanden.<BR><BR>De aandeelhouders zijn slechts   gebonden door verliezen ten belope van het bedrag van hun aandelen. <BR><BR>§ 3.   De statuten van het agentschap worden, na goedkeuring door de Vlaamse Regering,   vastgesteld in een notariële akte houdende oprichting van de Vlaamse   Landmaatschappij. De statuten kunnen slecht worden gewijzigd mits goedkeuring   door de Vlaamse Regering.<BR><BR>§ 4. De roerende goederen van de afdeling   Ondersteunend Centrum GIS-Vlaanderen, afdeling van de Vlaamse Landmaatschappij,   opgericht bij decreet van 21 december 1988 houdende oprichting van de Vlaamse   Landmaatschappij, worden kosteloos en in de staat waarin ze zich bevinden   overgedragen aan het agentschap Informatie Vlaanderen, vermeld in artikel 2 van   het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van   het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van   diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de   regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan   het agentschap Informatie Vlaanderen en de vaststelling van de werking, het   beheer en de boekhouding van het Eigen Vermogen Informatie   Vlaanderen.<BR><BR>Voor de overdracht, vermeld in het eerste lid, wordt een   inventaris van alle roerende goederen, met inbegrip van de rechten en   verplichtingen opgemaakt in gezamenlijk overleg tussen de leidinggevende   personeelsleden van de VLM en het agentschap Informatie Vlaanderen, die   opgenomen wordt in de jaarrekening.<BR><BR>Het agentschap Informatie Vlaanderen   treedt in de rechten en verplichtingen van de VLM, met inbegrip van de rechten   en verplichtingen die voortvloeien uit gerechtelijke procedures.<BR><BR>De   beschikbare middelen van de VLM die verbonden zijn aan de rechten en   verplichtingen, vermeld in het derde lid, worden overgedragen aan het agentschap   Informatie Vlaanderen op basis van de afgesloten rekening.
+§ 1. Een Vlaamse Landmaatschappij, afgekort: "VLM" en hierna het agentschap te noemen, wordt opgericht als een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap als vermeld in artikel III.7 van het Bestuursdecreet.<br>
+<br>
+§ 2. Het agentschap zal, zonder zijn burgerlijk karakter te verliezen, in de vorm van een naamloze vennootschap worden opgericht.<br>
+<br>
+Het agentschap heeft rechtspersoonlijkheid. De rechtspositie van het agentschap wordt geregeld in die volgorde door het Bestuursdecreet, dit decreet en door zijn statuten. Zonder aan het voorafgaande afbreuk te doen, zijn de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap op het agentschap toepasselijk voor alles wat niet door het Bestuursdecreet, dit decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle, en controle op subsidies invoeren, en door de statuten van het agentschap is bepaald en slechts in die mate dat het Wetboek van vennootschappen niet in strijd is met deze bepalingen.<br>
+<br>
+De bepalingen van de wet van 17 juli 1997 betreffende het gerechtelijk akkoord en de faillissementswet van 8 augustus 1997 zijn evenwel niet op het agentschap toepasselijk, evenmin als de rechtsregels die betrekking hebben op een toestand van algemene samenloop van schuldeisers en de rechtsregels in het Wetboek van vennootschappen die verplichten de rechtsvorm uitdrukkelijk te vermelden in alle stukken die uitgaan van het agentschap.<br>
+<br>
+Het Vlaamse Gewest, de provincies en de gemeenten, gelegen in het Vlaamse Gewest kunnen inschrijven op het kapitaal van de Maatschappij door ondeelbare aandelen in geld.<br>
+<br>
+Alle aandelen zijn en blijven op naam.<br>
+<br>
+Het rechtstreekse belang van het Vlaamse Gewest als aandeelhouder in het maatschappelijk kapitaal van het agentschap moet in totaal steeds meer dan 50 % bedragen. De aandelen waarop het Vlaamse Gewest inschrijft en die waarop het later mocht inschrijven, zijn onvervreemdbaar, met uitzondering van het gedeelte van de aandelen dat vier vijfde van het totale kapitaal overschrijdt.<br>
+<br>
+De aandelen waarop de provincies en de gemeenten inschrijven, kunnen, zelfs als ze slechts ten bedrage van 25 % werden afbetaald, alleen afgestaan worden aan provincies en gemeenten en na machtiging van de raad van bestuur van het agentschap en van de Vlaamse regering.<br>
+<br>
+Het maatschappelijk kapitaal kan bij beslissing van de algemene vergadering worden verhoogd door inschrijvingen van ondeelbare aandelen in geld. Alleen het Vlaamse Gewest, de provincies en de gemeenten, gelegen in het Vlaamse Gewest, mogen op deze kapitaalsverhoging inschrijven. In geen geval kan een kapitaalsverhoging ertoe leiden dat het Vlaamse Gewest als aandeelhouder niet langer, rechtstreeks, meer dan 50 % van het kapitaal van het agentschap bezit.<br>
+<br>
+Elke nieuwe inschrijving moet telkens vastgesteld worden door een authentieke akte, die gepaard gaat met een storting in speciën van ten minste één vierde op ieder aandeel.<br>
+<br>
+Het niet-afbetaalde bedrag van iedere inschrijving moet worden gestort op de data, vastgesteld door de raad van bestuur, na waarschuwing drie maanden van tevoren met een aangetekende brief. De afgifte van de brief op de post geldt als betekening, te rekenen vanaf de volgende dag.<br>
+<br>
+De aandeelhouders worden ertoe gemachtigd hun inschrijving geheel of gedeeltelijk vooruit te betalen.<br>
+<br>
+Iedere laattijdige storting brengt, van rechtswege en zonder ingebrekestelling, interest op tegen de wettelijke rentevoet, ten bate van het agentschap, vanaf het verstrijken van voormelde termijn van drie maanden.<br>
+<br>
+De aandeelhouders zijn slechts gebonden door verliezen ten belope van het bedrag van hun aandelen.<br>
+<br>
+§ 3. De statuten van het agentschap worden, na goedkeuring door de Vlaamse Regering, vastgesteld in een notariële akte houdende oprichting van de Vlaamse Landmaatschappij. De statuten kunnen slecht worden gewijzigd mits goedkeuring door de Vlaamse Regering.<br>
+<br>
+§ 4. De roerende goederen van de afdeling Ondersteunend Centrum GIS-Vlaanderen, afdeling van de Vlaamse Landmaatschappij, opgericht bij decreet van 21 december 1988 houdende oprichting van de Vlaamse Landmaatschappij, worden kosteloos en in de staat waarin ze zich bevinden overgedragen aan het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.<br>
+<br>
+Voor de overdracht, vermeld in het eerste lid, wordt een inventaris van alle roerende goederen, met inbegrip van de rechten en verplichtingen opgemaakt in gezamenlijk overleg tussen de leidinggevende personeelsleden van de VLM en het agentschap Informatie Vlaanderen, die opgenomen wordt in de jaarrekening.<br>
+<br>
+Het agentschap Informatie Vlaanderen treedt in de rechten en verplichtingen van de VLM, met inbegrip van de rechten en verplichtingen die voortvloeien uit gerechtelijke procedures.<br>
+<br>
+De beschikbare middelen van de VLM die verbonden zijn aan de rechten en verplichtingen, vermeld in het derde lid, worden overgedragen aan het agentschap Informatie Vlaanderen op basis van de afgesloten rekening.
 
 ### ART. 3.
 
@@ -203,13 +239,13 @@ Het agentschap is verantwoordelijk voor de verwerking van de informatie, vermeld
 
 ### ART. 15.
 
-[De organen van het agentschap zijn :<br>
+De organen van het agentschap zijn :<br>
 1° de algemene vergadering van aandeelhouders;<br>
 2° de raad van bestuur;<br>
 3° de gedelegeerd bestuurder van het agentschap, belast met het dagelijks bestuur;<br>
 4° de algemeen directeur die de gedelegeerd bestuurder van het agentschap bijstaat bij de uitoefening van het dagelijks bestuur.<br>
 <br>
-Onverminderd de bepalingen van het kaderdecreet, dit decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle, en controle op subsidies invoeren en van de statuten, wordt de werking van deze organen aanvullend door het Wetboek van vennootschappen geregeld. (verv. decr. 7 mei 2004, art. 23, I: 1 april 2006) ]
+Onverminderd de bepalingen van het Bestuursdecreet, dit decreet, de wetten en decreten die voor de Vlaamse Gemeenschap en de eronder ressorterende instellingen een regeling inzake begroting, boekhouding, organisatie van de controle, en controle op subsidies invoeren en van de statuten, wordt de werking van deze organen aanvullend door het Wetboek van vennootschappen geregeld.
 
 ## [AFDELING 2 ALGEMENE VERGADERING VOOR AANDEELHOUDERS (ing. decr. 7 mei 2004, art. 24)]
 
@@ -227,7 +263,7 @@ De statuten van het agentschap bepalen de nadere regels in verband met het statu
 
 ### ART. 17.
 
-§ 1. Onverminderd artikel 17 van het kaderdecreet wordt het agentschap bestuurd door een raad van bestuur. De gedelegeerd bestuurder van het agentschap en de algemeen directeur wonen de vergadering van de raad van bestuur bij met raadgevende stem.<br>
+§ 1. Onverminderd artikel III.8 van het Bestuursdecreet wordt het agentschap bestuurd door een raad van bestuur. De gedelegeerd bestuurder van het agentschap en de algemeen directeur wonen de vergadering van de raad van bestuur bij met raadgevende stem.<br>
 <br>
 De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoerige macht bekleed. Zo regelt hij onder meer wat volgt :<br>
 1° ...<br>
@@ -247,8 +283,8 @@ De raad van bestuur is, voor het bestuur van het agentschap, met de meest uitvoe
 <br>
 § 2. De raad van bestuur kan de volgende bevoegdheden in geen geval delegeren :<br>
 1° ...;<br>
-2° het vaststellen van het ondernemingsplan overeenkomstig artikel 5/1, § 1, tweede lid, van het kaderdecreet;<br>
-3° het vaststellen van het jaarrapport over de uitvoering van het ondernemingsplan overeenkomstig artikel 5/1 van het kaderdecreet;<br>
+2° het vaststellen van het ondernemingsplan overeenkomstig artikel III.61, § 1, tweede lid, van het Bestuursdecreet;<br>
+3° het vaststellen van het jaarrapport over de uitvoering van het ondernemingsplan overeenkomstig artikel III.62 van het Bestuursdecreet;<br>
 4° de opmaak van het ontwerp van begroting;<br>
 5° de opmaak van het ontwerp van aanpassing van de begroting;<br>
 6° de opmaak van de algemene rekening;<br>
@@ -285,7 +321,7 @@ Alleen de bestuurders die beschikken over de voor het agentschap relevante desku
 
 ### ART. 18ter.
 
-De voorwaarden en de procedure voor de uitvoering van de opdrachten van openbare dienst worden overeenkomstig artikel 5/1, § 1, tweede lid, van het kaderdecreet door de raad van bestuur in een jaarlijks ondernemingsplan vastgesteld, in samenspraak met de Vlaamse Regering, alsook in een jaarrapport over de uitvoering van het ondernemingsplan.
+De voorwaarden en de procedure voor de uitvoering van de opdrachten van openbare dienst worden overeenkomstig artikel III.61 en III.62 van het Bestuursdecreet door de raad van bestuur in een jaarlijks ondernemingsplan vastgesteld, in samenspraak met de Vlaamse Regering, alsook in een jaarrapport over de uitvoering van het ondernemingsplan.
 
 ## HOOFDSTUK X FINANCIËLE BEPALINGEN
 
