@@ -14,7 +14,7 @@ Dit besluit regelt de toegang tot en het gebruik van geografische   gegevensbron
 
 ### ART. 2.
 
-De eigenaar, beheerder of verstrekker van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI kan, in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid, de deelnemer verplichten tot registratie. In dit geval behandelt de eigenaar, beheerder of verstrekker deze registratie binnen één werkdag na de aanvraag van de deelnemer, en zorgt hij ervoor dat de deelnemer de geografische diensten toegevoegd aan de GDI kan gebruiken binnen twee werkdagen na de aanvraag.<br>
+De eigenaar, beheerder of verstrekker van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI kan, in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018, de deelnemer verplichten tot registratie. In dit geval behandelt de eigenaar, beheerder of verstrekker deze registratie binnen één werkdag na de aanvraag van de deelnemer, en zorgt hij ervoor dat de deelnemer de geografische diensten toegevoegd aan de GDI kan gebruiken binnen twee werkdagen na de aanvraag.<br>
 <br>
 De levering van geografische gegevensbronnen toegevoegd aan de GDI die niet via geografische diensten verloopt, zal gebeuren binnen de vijf werkdagen na het verzoek tot levering. Indien dit niet mogelijk is, moet de deelnemer hiervan op de hoogte worden gebracht en moet de reden van de vertraging worden meegedeeld. Een andere leveringstermijn wordt in onderlinge overeenkomst bepaald.
 
@@ -30,7 +30,7 @@ De deelnemer is verplicht : <br />1° elk onrechtmatig gebruik van de geografisc
 
 ### ART. 5.
 
-Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI door de deelnemers aan andere deelnemers of elke instantie, natuurlijke persoon, rechtspersoon of groepering ervan die geen deelnemer is aan de GDI-Vlaanderen kunnen bijkomende voorwaarden met beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder, in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+Voor de kennisgeving van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI door de deelnemers aan andere deelnemers of elke instantie, natuurlijke persoon, rechtspersoon of groepering ervan die geen deelnemer is aan de GDI-Vlaanderen kunnen bijkomende voorwaarden met beperkte en technische draagwijdte worden opgelegd door de eigenaar of beheerder, in overleg met het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018.
 
 ### ART. 6.
 
