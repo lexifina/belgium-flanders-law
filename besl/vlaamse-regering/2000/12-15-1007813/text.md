@@ -81,9 +81,9 @@ Als de budgethouder het bestaan van overmacht aantoont kan&nbsp;het team Jeugdhu
 <br>
 De budgethouder opent een aparte rekening waarop de PAB-budgetten gestort worden en waarvan alle uitgaven met betrekking tot het PAB worden gedaan. Die rekening mag alleen gebruikt worden voor PAB-gerelateerde verrichtingen.<br>
 <br>
-§ 7. Met ingang van de eerste dag van de vierde maand van een aaneengesloten voltijds verblijf in een rust- en verzorgingstehuis wordt de toekenning van het PAB opgeschort.<br>
+§ 7. Met ingang van de eerste dag van de vierde maand van een aaneengesloten voltijds verblijf in een woonzorgcentrum met een bijkomende erkenning wordt de toekenning van het PAB opgeschort.<br>
 <br>
-De budgethouder deelt de opname in een rust- en verzorgingstehuis mee aan het agentschap voor het einde van de eerste maand van het verblijf in het rust- en verzorgingstehuis.<br>
+De budgethouder deelt de opname in een woonzorgcentrum met een bijkomende erkenning mee aan het agentschap voor het einde van de eerste maand van het verblijf in het woonzorgcentrum met een bijkomende erkenning.<br>
 <br>
 § 8. Bij overlijden van de budgethouder ten behoeve van wie de assistentie werd ingekocht, kan maximaal een vierde van het maximumbedrag, vermeld in paragraaf 1, besteed worden aan verbrekingsvergoedingen ten voordele van de persoonlijke assistenten. Als aan de hand van kostenstaten bewezen wordt dat het maximumbedrag, vermeld in paragraaf 1, niet volstaat, kan het agentschap maximaal een vierde van dat maximumbedrag extra toekennen om de verbrekingsvergoedingen te betalen. Alleen bewijsbare kosten kunnen ten laste genomen worden.<br>
 <br>
@@ -166,9 +166,9 @@ Eveneens in afwijking van het eerste lid is de combinatie van het PAB met de bij
 <br>
 Onverminderd de bepalingen van § 3 is combinatie mogelijk van het PAB met&nbsp;ziekenhuizen, revalidatiecentra en voorzieningen inzake welzijn, tewerkstelling, beroepsopleiding of vrijetijdsbesteding die door de federale, communautaire of regionale overheden gesubsidieerd worden mogelijk. De combinatie van het PAB met residentiële en semi-residentiële voorzieningen die door de federale, communautaire of regionale overheden worden gesubsidieerd is evenwel alleen mogelijk voor zover het voorzieningen betreft die een soortgelijke ondersteuning bieden als de voorzieningen, vermeld in het tweede of vierde lid.<br>
 <br>
-Als de combinatie een kortverblijf binnen een woonzorgcentrum of een rust- en verzorgingstehuis betreft, wordt het PAB verminderd met het gemiddelde bedrag van de kosten van kortdurende woon- of dagondersteuning van een FAM.<br>
+Als de combinatie een kortverblijf binnen&nbsp;een woonzorgcentrum, met of zonder bijkomende erkenning betreft, wordt het PAB verminderd met het gemiddelde bedrag van de kosten van kortdurende woon- of dagondersteuning van een FAM.<br>
 <br>
-Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd woonzorgcentrum of een rust- en verzorgingstehuis betreft, worden de bewezen kosten verminderd met de eigen bijdrage, in rekening gebracht als personeelskost, vermeld in paragraaf 1.
+Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd&nbsp;woonzorgcentrum zonder bijkomende erkenning of een woonzorgcentrum met een bijkomende erkenning betreft, worden de bewezen kosten verminderd met de eigen bijdrage, in rekening gebracht als personeelskost, vermeld in paragraaf 1.
 
 ### ART. 11.
 
@@ -252,7 +252,7 @@ Het subsidiebedrag, vermeld in het eerste lid, wordt vanaf 1 januari 2008 jaarli
 
 ### ART. 19.
 
-De personeelsleden van het bevoegde agentschap controleren ter plaatse, zonder evenwel afbreuk te doen aan de onschendbaarheid van de woning, of op stukken de bepalingen van dit besluit worden nageleefd. De personen met een handicap aan wie een PAB werd toegekend, verlenen hun medewerking aan de uitoefening van het toezicht. Ze bezorgen aan de ambtenaren die voor het uitoefenen van het toezicht zijn aangewezen, de stukken die met de persoonlijke assistentie verband houden, als die daarom verzoeken.
+De personeelsleden van het bevoegde agentschap controleren&nbsp;of de bepalingen van dit besluit worden nageleefd.
 
 ### ART. 19bis.
 
