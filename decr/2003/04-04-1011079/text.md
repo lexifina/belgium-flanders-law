@@ -290,22 +290,22 @@ Een herverdeling krijgt toepassing in het tweede kalenderjaar na de beslissing v
 
 ### ART. 47bis.
 
-De Vlaamse Regering neemt een gedeelte van de jaarlijkse bijdragen ten laste waartoe de erkende en gesubsidieerde organisaties voor sociaal-cultureel volwassenenwerk die lid zijn van de federatie van organisaties voor volksontwikkelingswerk, hierna de FOV te noemen, krachtens de statuten van die federatie verplicht zijn.<br>
+De Vlaamse Regering neemt een gedeelte van de jaarlijkse bijdragen ten laste waartoe de erkende en gesubsidieerde organisaties voor sociaal-cultureel volwassenenwerk die lid zijn van de federatie van organisaties voor volksontwikkelingswerk, hierna De Federatie te noemen, krachtens de statuten van die federatie verplicht zijn.<br>
 <br>
-De Vlaamse Regering is hiertoe verplicht als de FOV aan de volgende voorwaarden voldoet en blijft voldoen :<br>
+De Vlaamse Regering is hiertoe verplicht als De Federatie aan de volgende voorwaarden voldoet en blijft voldoen :<br>
 1° opgericht zijn in de vorm van een vereniging zonder winstgevend doel overeenkomstig de wet van 27 juni 1921, waarbij aan de verenigingen zonder winstgevend doel en aan de instellingen van openbaar nut rechtspersoonlijkheid wordt verleend;<br>
 2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
 3° volgens haar statuten tot doel hebben :<br>
 a) de gemeenschappelijke belangen van de aangesloten organisaties te behartigen;<br>
-b) de leden te informeren over de werking van de FOV;<br>
+b) de leden te informeren over de werking van De Federatie;<br>
 c) op te treden als vertegenwoordiger van alle aangesloten leden naar de overheid en waar daarom gevraagd wordt;<br>
 4° meer dan de helft van alle erkende en gesubsidieerde organisaties voor sociaal-cultureel volwassenenwerk tot lid hebben, die samen meer dan de helft ontvangen van alle subsidie-enveloppen die door de Vlaamse Regering worden toegekend aan erkende en gesubsidieerde organisaties voor sociaal-cultureel volwassenenwerk;<br>
-5° met het steunpunt voor het sociaal-cultureel volwassenenwerk een samenwerkingsovereenkomst gesloten hebben waarin de FOV en dit steunpunt hun onderlinge samenwerking regelen om te komen tot een optimale uitvoering van die opdrachten van de FOV en van het steunpunt die met elkaar samenhangen;<br>
+5° ...;<br>
 6° de collectieve arbeidsovereenkomsten voor het sociaal-cultureel werk naleven.<br>
 <br>
-De subsidie-enveloppe aan de FOV bedraagt minimaal 0,7 procent van de som van de subsidie-enveloppen die de Vlaamse Regering aan de erkende en gesubsidieerde organisaties voor sociaal-cultureel volwassenenwerk, die lid zijn van de FOV, jaarlijks toekent.<br>
+De Federatie ontvangt vanaf het werkingsjaar 2019 jaarlijks een subsidie-enveloppe van 372.813 euro. Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, wordt deze subsidie-enveloppe jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen. Voor het gedeelte werkingskosten van de subsidie-enveloppe wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt.<br>
 <br>
-De Vlaamse Regering bepaalt op welke wijze en wanneer de FOV haar activiteitenplanning en haar begroting moet meedelen aan de Vlaamse Gemeenschap.<br>
+De Vlaamse Regering bepaalt op welke wijze en wanneer De Federatie haar activiteitenplanning en haar begroting moet meedelen aan de Vlaamse Gemeenschap.<br>
 <br>
 De uitvoering van de bepalingen van dit artikel gebeurt binnen de grenzen van de beschikbare begrotingskredieten.<br>
 <br>
