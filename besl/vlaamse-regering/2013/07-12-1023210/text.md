@@ -34,7 +34,18 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<BR>1° beheersovereenkomst : de   overeenkomst tussen de Vlaamse Regering en Syntra Vlaanderen, vermeld in artikel   14 tot en met 16 van het kaderdecreet bestuurlijk beleid van 18 juli 2003, en   artikel 23 van het decreet van 7 mei 2004;<BR>2° besluit van 31 juli 1991 : het   besluit van de Vlaamse Regering van 31 juli 1991 tot bepaling van de   werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd en in   de ondernemerschapstrajecten;<BR>3° besluit van 13 februari 2009 : het besluit   van de Vlaamse Regering van 13 februari 2009 betreffende de leertijd, vermeld in   het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven   extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming -   Syntra Vlaanderen;<BR>4° besluit van 14 september 2012 : het besluit van de   Vlaamse Regering van 14 september 2012 betreffende de ondernemerschapstrajecten,   vermeld in artikel 26, § 1, 2°, en artikel 31 van het decreet van 7 mei 2004 tot   oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap « Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen   »;<BR>5° decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van   het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaams   Agentschap voor Ondernemersvorming - Syntra Vlaanderen »;<BR>6°   directeur-afgevaardigd-bestuurder : de directeur die de dagelijkse leiding van   een centrum uitoefent en die tegelijkertijd afgevaardigd-bestuurder is;<BR>7°   jaarplan :de concrete, operationele en jaarlijkse vertaling van het   organisatieplan, opgemaakt door een centrum en goedgekeurd door de raad van   bestuur, op het gebied van opleiding, vorming en begeleiding, met inbegrip van   innovatie, productontwikkeling en investeringen;<BR>8° minister : de Vlaamse   minister, bevoegd voor de professionele vorming;<BR>9° organisatieplan : de   strategische uitwerking, opgemaakt door een centrum en goedgekeurd door de raad   van bestuur, gedurende de looptijd van de beheersovereenkomst, van de   programmatie van de vorming van ondernemers, hun medewerkers en alle   ondernemende jongeren en volwassenen die hun professionele competenties willen   ontwikkelen of versterken, vermeld in artikel 6, § 2, 3°, van het decreet van 7   mei 2004;<BR>10° raad van bestuur : de raad van bestuur van Syntra Vlaanderen,   vermeld in artikel 7 tot en met 12 van het decreet van 7 mei 2004;<BR>11° Syntra   Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap   Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij   artikel 3 van het decreet van 7 mei 2004.<BR>
+&nbsp;In dit besluit wordt verstaan onder :<br>
+1° het ondernemingsplan: het ondernemingsplan, vermeld in artikel III.61 van het bestuursdecreet van 7 december 2018;<br>
+2° besluit van 31 juli 1991 : het besluit van de Vlaamse Regering van 31 juli 1991 tot bepaling van de werkvoorwaarden en de geldelijke regeling van de lesgevers in de leertijd en in de ondernemerschapstrajecten;<br>
+3° besluit van 13 februari 2009 : het besluit van de Vlaamse Regering van 13 februari 2009 betreffende de leertijd, vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+4° besluit van 14 september 2012 : het besluit van de Vlaamse Regering van 14 september 2012 betreffende de ondernemerschapstrajecten, vermeld in artikel 26, § 1, 2°, en artikel 31 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen »;<br>
+5° decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen »;<br>
+6° directeur-afgevaardigd-bestuurder : de directeur die de dagelijkse leiding van een centrum uitoefent en die tegelijkertijd afgevaardigd-bestuurder is;<br>
+7° jaarplan :de concrete, operationele en jaarlijkse vertaling van het organisatieplan, opgemaakt door een centrum en goedgekeurd door de raad van bestuur, op het gebied van opleiding, vorming en begeleiding, met inbegrip van innovatie, productontwikkeling en investeringen;<br>
+8° minister : de Vlaamse minister, bevoegd voor de professionele vorming;<br>
+9° organisatieplan : de strategische uitwerking, opgemaakt door een centrum en goedgekeurd door de raad van bestuur, gedurende de looptijd van het ondernemingsplan, van de programmatie van de vorming van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen of versterken, vermeld in artikel 6, § 2, 3°, van het decreet van 7 mei 2004;<br>
+10° raad van bestuur : de raad van bestuur van Syntra Vlaanderen, vermeld in artikel 7 tot en met 12 van het decreet van 7 mei 2004;<br>
+11° Syntra Vlaanderen : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, opgericht bij artikel 3 van het decreet van 7 mei 2004.
 
 ## HOOFDSTUK 2 Erkenning van een centrum
 
@@ -127,7 +138,7 @@ Met behoud van de toepassing van artikel 17, § 1, en artikel 42, telt een   cen
 
 ### ART. 21.
 
-<p>§ 1. Het organisatieplan, vermeld in artikel 6, § 2, 3°, van het decreet van 7 mei 2004, is een meerjarenplan, opgemaakt door een centrum, dat voor de duur en de inhoud afgestemd is op de beheersovereenkomst van Syntra Vlaanderen, en dat de volgende beleidsmatige doelstellingen programmeert :<br>
+<p>§ 1. Het organisatieplan, vermeld in artikel 6, § 2, 3°, van het decreet van 7 mei 2004, is een meerjarenplan, opgemaakt door een centrum, dat voor de duur en de inhoud afgestemd is op het ondernemingsplan van Syntra Vlaanderen, en dat de volgende beleidsmatige doelstellingen programmeert :<br>
 1° een toetsing van de geplande opleidingen aan de missie, de visie en de strategische doelstellingen van Syntra Vlaanderen;<br>
 2° een visie op en strategie van het opleidingsaanbod, gepland in de leertijd en de ondernemerschapstrajecten;<br>
 3° een visie op en strategie van de geplande activiteiten voor de pedagogische organisatie en coördinatie, vermeld in artikel 6, § 6, van het besluit van 31 juli 1991;<br>
@@ -140,7 +151,7 @@ Met behoud van de toepassing van artikel 17, § 1, en artikel 42, telt een   cen
 
 <p>Het organisatieplan, vermeld in het eerste lid, wordt goedgekeurd door de raad van bestuur. De raad van bestuur houdt daarbij rekening met :<br>
 1° de criteria, vermeld in het eerste lid;<br>
-2° de conformiteit met de beheersovereenkomst en de daaruit volgende samenwerkingsovereenkomst tussen Syntra Vlaanderen en het centrum.</p>
+2° de conformiteit met het ondernemingsplan en de daaruit volgende samenwerkingsovereenkomst tussen Syntra Vlaanderen en het centrum.</p>
 
 <p>§ 2. Met toepassing van een model, vastgelegd door Syntra Vlaanderen, uiterlijk op 15 januari van het jaar in kwestie, dient het centrum jaarlijks, uiterlijk op 15 mei, een jaarplan voor het komende cursusjaar in bij Syntra Vlaanderen. Met het oog op het tweede semester van hetzelfde cursusjaar kan een aanvullend jaarplan ingediend worden op uiterlijk 15 december.</p>
 
@@ -225,7 +236,9 @@ De raad van bestuur bezorgt zijn adviezen, vermeld in het tweede lid, 2°, d), e
 
 ### ART. 27.
 
-<P>Aan het centrum dat zijn maatschappelijke zetel heeft in het tweetalige   gebied Brussel-Hoofdstad wordt een basisfinanciering toegekend. Die   basisfinanciering bedraagt 800.000 euro.<BR></P>  <P>Naargelang de groei van cursisten, vermeld in artikel 28, waarvan de   praktische modaliteiten bepaald worden in de beheersovereenkomst, kan de   basisfinanciering dalen tot 700.000 euro.<BR></P>
+<p>Aan het centrum dat zijn maatschappelijke zetel heeft in het tweetalige gebied Brussel-Hoofdstad wordt een basisfinanciering toegekend. Die basisfinanciering bedraagt 800.000 euro.</p>
+
+<p>Naargelang de groei van cursisten, vermeld in artikel 28, waarvan de praktische modaliteiten bepaald worden in het ondernemingsplan, kan de basisfinanciering dalen tot 700.000 euro.</p>
 
 ### ART. 28.
 
@@ -421,7 +434,9 @@ De beraadslagingen en de beslissingen van de raad van bestuur worden   opgenomen
 
 ### ART. 23.
 
-<P>De raad van bestuur benoemt een directeur-afgevaardigd-bestuurder die moet   voldoen aan de voorwaarden, gesteld door het voormelde besluit van de Vlaamse   Regering van 14 december 2001. De raad van bestuur stelt hem de middelen ter   beschikking die nodig zijn om de beslissingen van de raad van bestuur uit te   voeren, het dagelijks bestuur van het centrum waar te nemen en de   beheersovereenkomst, gesloten met Syntra Vlaanderen, uit te voeren.<BR></P>  <P>De directeur-afgevaardigd-bestuurder woont alle vergaderingen bij als   stemgerechtigd lid. Hij is belast met het uitvoeren van de beslissingen van de   raad en staat in, binnen de gegeven opdracht en onder de verantwoordelijkheid   van de raad, voor het dagelijks bestuur van het centrum.<BR></P>
+<p>De raad van bestuur benoemt een directeur-afgevaardigd-bestuurder die moet voldoen aan de voorwaarden, gesteld door het voormelde besluit van de Vlaamse Regering van 14 december 2001. De raad van bestuur stelt hem de middelen ter beschikking die nodig zijn om de beslissingen van de raad van bestuur uit te voeren, het dagelijks bestuur van het centrum waar te nemen en het ondernemingsplan, gesloten met Syntra Vlaanderen, uit te voeren.</p>
+
+<p>De directeur-afgevaardigd-bestuurder woont alle vergaderingen bij als stemgerechtigd lid. Hij is belast met het uitvoeren van de beslissingen van de raad en staat in, binnen de gegeven opdracht en onder de verantwoordelijkheid van de raad, voor het dagelijks bestuur van het centrum.</p>
 
 ### ART. 24.
 
