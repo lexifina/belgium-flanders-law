@@ -381,7 +381,7 @@ De leden van de raad van bestuur, benoemd krachtens het decreet van 2 april 2004
 
 ### ART 51.
 
-De Vlaamse Regering kan de bestaande decreets- en verordeningsbepalingen waarin de werking van nv De Scheepvaart en Waterwegen en Zeekanaal NV nader is geregeld, wijzigen, aanvullen, vervangen of opheffen om ze in overeenstemming te brengen met de bepalingen van dit decreet en het kaderdecreet bestuurlijk beleid van 18 juli 2003.<br>
+De Vlaamse Regering kan de bestaande decreets- en verordeningsbepalingen waarin de werking van nv De Scheepvaart en Waterwegen en Zeekanaal NV nader is geregeld, wijzigen, aanvullen, vervangen of opheffen om ze in overeenstemming te brengen met de bepalingen van dit decreet en het Bestuursdecreet van 7 december 2018.<br>
 <br>
 De besluiten die krachtens het eerste lid worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen twaalf maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.<br>
 <br>

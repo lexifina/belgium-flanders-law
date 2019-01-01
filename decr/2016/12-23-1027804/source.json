@@ -2,16 +2,16 @@
   "codex_id": 1027804,
   "title": "Decreet van 2016-12-23 houdende diverse maatregelen inzake de herstructurering van Waterwegen en Zeekanaal NV van publiek recht en nv De Scheepvaart van publiek recht",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027804/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "129be565d97a39a197352724352685895c7a11499a9e8dda3d370a253f040b47",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027804/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "554afa7f1b484338f2b0d0069facfe99811c7168743855394aaeb8edbbe9f17e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027804&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-01-01",
   "made": "2016-12-23",
   "gazette": "2017-01-31",
   "numac": 2017010169,
   "document_start": "2017-02-10",
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2019-01-01",
   "article_versions": 52,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
