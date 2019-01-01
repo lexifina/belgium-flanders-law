@@ -176,7 +176,7 @@
 
 ### ART 15.
 
-<span style="color: rgb(0, 0, 0);">§ 1. De Vlaamse Regering wijst onder de personeelsleden van het departement en de agentschappen die behoren tot de een van de beleidsdomeinen, vermeld in artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, toezichthouders aan die toezien op de naleving van de vergunningsplicht voor kleinhandelsactiviteiten en van de voorwaarden van de verstrekte omgevingsvergunningen voor kleinhandelsactiviteiten. Zij worden gewestelijke toezichthouders genoemd.</span><br>
+<span style="color: rgb(0, 0, 0);">§ 1. De Vlaamse Regering wijst onder de personeelsleden van het departement en de agentschappen die behoren tot de een van de beleidsdomeinen, vermeld in artikel III.1, eerste lid, van het Bestuursdecreet van 7 december 2018, toezichthouders aan die toezien op de naleving van de vergunningsplicht voor kleinhandelsactiviteiten en van de voorwaarden van de verstrekte omgevingsvergunningen voor kleinhandelsactiviteiten. Zij worden gewestelijke toezichthouders genoemd.</span><br>
 <br>
 <span style="color: rgb(0, 0, 0);">Personeelsleden van een politiezone die worden aangewezen door het bevoegde orgaan, kunnen eveneens toezichthouder zijn. Zij worden toezichthouders van politiezones genoemd. Zij kunnen enkel toezicht uitoefenen in de gemeenten die behoren tot de politiezone.</span><br>
 <br>
@@ -204,8 +204,7 @@ Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot 
 <br>
 Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mogen de personeelsleden, vermeld in paragraaf 1, op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval de onderzoeksrechter aan de personeelsleden, vermeld in paragraaf 1, heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.<br>
 <br>
-Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de personeelsleden, vermeld in paragraaf 1, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.</span><br>
-&nbsp;
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verwijzen de personeelsleden, vermeld in paragraaf 1, hem door naar de bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming. De bevoegde toezichthoudende autoriteit op het vlak van gegevensbescherming deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht.</span>
 
 ## Afdeling 2 Raadgeving en aanmaning
 
