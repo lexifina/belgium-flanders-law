@@ -63,7 +63,11 @@ Het agentschap berekent de subsidies voor de personeelskosten van een werkingsja
 
 ### ART 5.
 
-De subsidie-eenheid bezorgt jaarlijks, uiterlijk op 30 juni, het subsidiedossier voor de afrekening van de personeelssubsidies van het voorafgaande werkingsjaar.
+De subsidie-eenheid bezorgt jaarlijks, uiterlijk op 30 juni, het subsidiedossier voor de afrekening van de personeelssubsidies van het voorafgaande werkingsjaar.<br>
+<br>
+In het subsidiedossier geeft de subsidie-eenheid een overzicht van het volledige personeelsbestand dat gesubsidieerd werd met overheidsmiddelen, inclusief de personeelsleden die niet gesubsidieerd werden met toepassing van dit besluit, en dat gedurende het werkingsjaar werd ingezet. Daarbij wordt ook een overzicht gegeven van elke vorm van subsidiëring door de federale of de Vlaamse overheid of door de Europese Unie die de subsidie-eenheid voor het personeelsbestand ontvangen heeft.<br>
+<br>
+Het agentschap bepaalt de vorm van het overzicht, vermeld in het tweede lid.
 
 ### ART 6.
 
@@ -79,13 +83,19 @@ Het agentschap bepaalt het maximale aantal personeelspunten van een subsidie-een
 9° de personeelspunten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
 10° de personeelspunten, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
 11° de personeelspunten, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits;<br>
-12° de personeelspunten, vermeld in artikel 10, § 1, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood.<br>
+12° de personeelspunten, vermeld in artikel 10, § 1, van het besluit van de Vlaamse Regering van 28 september 2018 over de zorg en ondersteuning voor personen met een niet-aangeboren hersenletsel of tetraplegie ten gevolge van een hoge dwarslaesie met de hoogste zorg- en ondersteuningsnood;<br>
+12° de personeelspunten, die conform artikel 12 van het besluit van de Vlaamse Regering van 14 december 2018 over de zorg en ondersteuning voor geïnterneerde personen met een handicap door vergunde zorgaanbieders, gesubsidieerd kunnen worden.<br>
 <br>
 Het totale aantal zorggebonden personeelspunten, vermeld in het eerste lid, 8°, wordt per vergunde zorgaanbieder verminderd met een aantal zorggebonden personeelspunten. De tabel 4, opgenomen in de bijlage, die bij dit besluit is gevoegd, bepaalt per vergunde zorgaanbieder het aantal zorggebonden personeelspunten dat in mindering gebracht wordt.<br>
 <br>
 Voor het jaar 2018 wordt de helft van het aantal zorggebonden personeelspunten, vermeld in de voormelde tabel 4, in mindering gebracht.<br>
 <br>
-Het verminderde aantal zorggebonden personeelspunten, vermeld in het tweede en het derde lid, vormt de basis voor de berekening van het aantal extra personeelspunten, vermeld in het eerste lid, 8°.
+Het verminderde aantal zorggebonden personeelspunten, vermeld in het tweede en het derde lid, vormt de basis voor de berekening van het aantal extra personeelspunten, vermeld in het eerste lid, 8°.<br>
+<br>
+Het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossier, vermeld in artikel 5 van dit besluit, wil omzetten in werkingsmiddelen, wordt op volgende wijze bepaald:<br>
+1° het agentschap bepaalt voor de subsidie-eenheid het aantal personeelspunten dat per element, vermeld in het eerste lid, maximaal kan worden omgezet en maakt daarvan het totaal. Voor die berekening zijn het tweede tot en met het vierde lid niet van toepassing;<br>
+2° van het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossier, vermeld in artikel 5 van dit besluit, wil omzetten in werkingsmiddelen, zet het agentschap 40% van het maximale aantal personeelspunten van de subsidie-eenheid dat kan worden omgezet met toepassing van artikel 3, § 3, tweede lid, en § 5, van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, om in werkingsmiddelen;<br>
+3° het agentschap verdeelt het totale aantal personeelspunten dat een subsidie-eenheid in het subsidiedossier, vermeld in artikel 5 van dit besluit, wil omzetten in werkingsmiddelen, verminderd met het aantal omgezette personeelspunten conform punt 2°, over de elementen, vermeld in het eerste lid, naar rato van het aandeel van elk element in het totaal, vermeld in punt 1°.
 
 ### ART 7.
 
@@ -205,6 +215,20 @@ Als een personeelslid als vermeld in het eerste lid, afwezig is door een andere 
 § 2. Voor de subsidiëring van de personeelspunten die betrekking hebben op de contractuele personeelsleden die de provincie Oost-Vlaanderen heeft overgeheveld naar het MFC, vzw Wagenschot, als gevolg van de vernieuwde taakstelling van de provincies, vermeld in artikel 2 van het decreet van 18 november 2016 houdende de vernieuwde taakstelling en gewijzigde financiering van de provincies, wordt in voorkomend geval rekening gehouden met de afspraken die zijn vastgelegd in het protocol over de overname van MFC Heynsdaele door vzw Wagenschot - personeelsaspecten Bepalingen waarover het overleg en de onderhandeling werden beëindigd op de vergadering van het Hoog Overlegcomité en het Bijzonder Onderhandelingscomité van 18 april 2017.<br>
 <br>
 § 3. Het agentschap draagt aan het Departement Welzijn, Volksgezondheid en Gezin, dat instaat voor de betaling van de personeelsleden, vermeld in paragraaf 1, eerste lid, de middelen over die nodig zijn voor de betaling van de werkelijke loonkosten van de personeelsleden, vermeld in paragraaf 1, eerste lid, conform het Vlaams personeelsstatuut van 13 januari 2006.
+
+### ART 20/3.
+
+Het gedeelte van de toegekende subsidies, vermeld in artikel 20/1, dat de verantwoorde kosten overschrijdt, mag worden aangewend voor de aanleg van reserves tot maximaal 20 % van het subsidiebedrag, met uitzondering van het sociaal passief.<br>
+<br>
+De totale gecumuleerde reserves, met uitzondering van het sociaal passief, kunnen maximaal 50 % van het subsidiebedrag van het laatst gesubsidieerde werkingsjaar bedragen.<br>
+<br>
+Het sociaal passief, vermeld in het eerste en tweede lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br>
+<br>
+Als het maximum, vermeld in het eerste en tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het agentschap na motivering beslist dat er van de maximumpercentages kan worden afgeweken.<br>
+<br>
+Als een subsidie-eenheid niet verder wordt gesubsidieerd, wordt het gecumuleerde bedrag van de reserves aan het agentschap teruggestort.<br>
+<br>
+In afwijking van het vijfde lid hoeven de reserves die aangelegd zijn voor het sociaal passief, na expliciete goedkeuring door het agentschap, niet aan het agentschap te worden teruggestort.
 
 ### ART 20/4.
 
