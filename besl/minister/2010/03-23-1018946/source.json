@@ -2,16 +2,16 @@
   "codex_id": 1018946,
   "title": "Ministerieel besluit van 2010-03-23 tot bepaling van de standaard voor de titel van internetontwikkelaar",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018946/VolledigDocument?datum=2010-04-22",
-  "source_sha256": "1112cfe1af3a37b452e580c451c48ade55fece1c8c318ed5ea30a547c9481f0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018946/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "62e958f885e75a14cf468457fe4c6e41a772ae8fefb4f4fd885c5073536f48b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018946&param=informatie",
-  "as_of": "2010-04-22",
+  "as_of": "2019-01-01",
   "made": "2010-03-23",
   "gazette": "2010-04-22",
   "numac": 2010202086,
   "document_start": "2010-04-22",
   "document_end": "2018-12-31",
-  "in_force": "2010-04-22",
+  "in_force": "2019-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
