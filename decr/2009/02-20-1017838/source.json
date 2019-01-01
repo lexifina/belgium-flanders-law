@@ -2,16 +2,16 @@
   "codex_id": 1017838,
   "title": "Decreet van 2009-02-20 betreffende de Geografische Data-Infrastructuur Vlaanderen (citeeropschrift: \"GDI-decreet\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017838/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "a02c88892a66118599d0304d271adaf30514949cdffd04b361eb2511b3fadeee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017838/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "86c61108840851cf0978ad7103fc09a71af9e8e1baba362ba7f819e2ddb4240c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017838&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-01-01",
   "made": "2009-02-20",
   "gazette": "2009-04-28",
   "numac": 2009035346,
   "document_start": "2010-10-17",
   "document_end": null,
-  "in_force": "2018-05-25",
+  "in_force": "2019-01-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }

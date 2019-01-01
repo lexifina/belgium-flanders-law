@@ -15,7 +15,12 @@ Dit decreet doet op geen enkele wijze afbreuk aan de regelgeving over de bescher
 ### ART. 3.
 
 In dit decreet wordt verstaan onder :<br>
-1° instantie : een instantie als vermeld in artikel 3, 3°, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+1° instantie:<br>
+a) een deelnemer aan GDI-Vlaanderen;<br>
+b) een andere instantie binnen België die:<br>
+1) een regering of een andere bestuurlijke overheid is, met inbegrip van openbare adviesorganen, op federaal, regionaal of lokaal niveau;<br>
+2) een natuurlijke persoon of rechtspersoon is die openbare bestuursfuncties uitoefent, met inbegrip van specifieke taken, activiteiten of diensten met betrekking tot milieu;<br>
+3) een natuurlijke persoon of rechtspersoon is die onder toezicht van een orgaan of persoon als vermeld onder punt 1) of 2), belast is met openbare verantwoordelijkheden of functies, of openbare diensten op milieu-gebied verleent;<br>
 2° derde partij : een natuurlijke persoon, een rechtspersoon of een groepering ervan die geen instantie is :<br>
 3° geografische gegevens : elektronische gegevens die direct of indirect verwijzen naar een specifieke locatie of een specifiek geografisch gebied;<br>
 4° geografisch object : een abstracte voorstelling van een reëel verschijnsel in relatie tot een specifieke locatie of een specifiek geografisch gebied;<br>
@@ -23,7 +28,7 @@ In dit decreet wordt verstaan onder :<br>
 6° geografische diensten : de bewerking van de geografische gegevens die zich in geografische gegevensbronnen bevinden of de verwerking van de aanverwante metagegevens door middel van een computertoepassing;<br>
 7° metagegevens : informatie waarin geografische gegevensbronnen en geografische diensten worden beschreven en die het mogelijk maakt die gegevens te zoeken, te inventariseren en te gebruiken;<br>
 8° Geografische Data-Infrastructuur, hierna GDI te noemen : een logisch geheel van metagegevens, geografische gegevensbronnen en geografische diensten, technische specificaties en standaarden en de overeenkomsten betreffende de uitwisseling, de toegang en het gebruik ervan, met de daarbij behorende netwerkdiensten en technologieën, technische specificaties en standaarden, en de in overeenstemming met dit decreet ingestelde, beheerde of beschikbaar gemaakte mechanismen, processen en procedures en monitoring ervan;<br>
-9° deelnemer aan GDI-Vlaanderen : iedere instantie in de zin van artikel 4, § 1, van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur;<br>
+9° deelnemer aan GDI-Vlaanderen: een instantie van de Vlaamse overheid als vermeld in artikel I.3, 1°, van het Bestuursdecreet van 7 december 2018, een instantie van een lokale overheid als vermeld in artikel I.3, 5°, van het Bestuursdecreet van 7 december 2018, een instelling met een publieke taak als vermeld in artikel I.3, 6°, van het Bestuursdecreet van 7 december 2018 of een milieu-instantie als vermeld in artikel I.3, 7°, van het Bestuursdecreet van 7 december 2018;<br>
 10° interoperabiliteit : de mogelijkheid dat, zonder terugkerende handmatige verrichtingen, geografische gegevensbronnen zodanig worden gecombineerd en geografische diensten zodanig op elkaar inwerken dat het verkregen resultaat coherent is en de meerwaarde van de geografische gegevensbronnen en geografische diensten wordt verhoogd;<br>
 11° minister : de Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur;<br>
 12° agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen;<br>
@@ -35,7 +40,7 @@ In dit decreet wordt verstaan onder :<br>
 18° raadpleegdienst : een geografische dienst die het minstens mogelijk maakt raadpleegbare geografische gegevensbronnen weer te geven en te bevragen;<br>
 19° overdrachtdienst : een geografische dienst die het mogelijk maakt om geografische gegevensbronnen geheel of gedeeltelijk te downloaden en uploaden en, als dat praktisch mogelijk is, ze rechtstreeks ter beschikking te hebben;<br>
 20° verwerkingsdienst : een geografische dienst die het mogelijk maakt om geografische gegevensbronnen te transformeren om tot interoperabiliteit te komen;<br>
-21° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel 3 van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+21° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74. van het Bestuursdecreet van 7 december 2018.
 
 ## HOOFDSTUK II. Het samenwerkingsverband GDI-Vlaanderen
 
