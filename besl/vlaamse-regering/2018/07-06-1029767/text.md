@@ -201,6 +201,12 @@ In artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Re
 
 ## HOOFDSTUK III. Wijziging van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen
 
+### ART 21.
+
+Aan artikel 31, § 3, 3°, van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, gewijzigd bij het besluit van de Vlaamse Regering van 17 juni 2016, wordt de volgende zin toegevoegd:<br>
+<br>
+"Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt dat forfaitaire bedrag beperkt tot 100.000 euro.".
+
 ## HOOFDSTUK IV. Wijzigingen van het besluit van de Vlaamse Regering van 18 juli 2008 tot regeling van de algemene leiding, de werking, het beheer en de vertegenwoordiging van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
 
 ### ART 22.
@@ -632,6 +638,10 @@ c) een gebouw dat vastgesteld is in de inventaris van het bouwkundig erfgoed als
 In artikel 13, eerste lid, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 10 november 2011, wordt de zinsnede "een grootstad of centrumstad als vermeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds" vervangen door de zinsnede "een van de centrumsteden, vermeld in artikel 19ter decies van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds".
 
 ## HOOFDSTUK X. Wijziging van het besluit van de Vlaamse Regering van 17 juni 2016 betreffende de subsidiëring van de uitrusting en apparatuur van de medisch-technische diensten van de ziekenhuizen en tot wijziging van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wat de financiering van de lasten van de voormelde uitrusting en apparatuur betreft
+
+### ART 65.
+
+In artikel 4, eerste lid, van het besluit van de Vlaamse Regering van 17 juni 2016 betreffende de subsidiëring van de uitrusting en apparatuur van de medisch-technische diensten van de ziekenhuizen en tot wijziging van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wat de financiering van de lasten van de voormelde uitrusting en apparatuur betreft, gewijzigd bij het besluit van de Vlaamse Regering van 17 juni 2016, wordt tussen de woorden "geïnstalleerd is" en de woorden "De subsidie" de zin "Voor het tweede toestel in universitaire ziekenhuizen, dat dient voor translationeel onderzoek en opleiding, wordt die jaarlijkse forfaitaire subsidie beperkt tot 100.000 euro." ingevoegd.
 
 ## HOOFDSTUK XI. Wijzigingen van het besluit van de Vlaamse Regering van 14 juli 2017 houdende de procedureregels voor de subsidiëring van infrastructuur van ziekenhuizen
 
