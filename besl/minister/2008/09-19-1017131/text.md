@@ -18,14 +18,14 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° groepswoningbouw : bouwproject waarbij de wooneenheden in het kader van hetzelfde lastenboek door dezelfde bouwheer werden gebouwd.
+...
 
 ## HOOFDSTUK II Hergebruik van gegevens
 
 ### ART. 2.
 
-§ 1. Gegevens met betrekking tot de samenstelling van de gebouwschil of de installaties die voor een bepaalde wooneenheid werden verzameld, kunnen door de energiedeskundige type A worden hergebruikt, voor : <br />1° wooneenheden gelegen in hetzelfde gebouw;<br />2° wooneenheden die integraal deel uitmaken van dezelfde groepswoningbouw.<br /><br />Het hergebruik van de gegevens, vermeld in het eerste lid, is enkel toegelaten op voorwaarde dat ondubbelzinnig kan worden aangetoond dat de betreffende wooneenheden een identieke samenstelling van de gebouwschil hebben of over identieke installaties beschikken. <br /><br />§ 2. Gegevens met betrekking tot de bepaling van de verliesoppervlakte van de schildelen, het beschermde volume en de bruikbare vloeroppervlakte die voor een bepaalde wooneenheid werden verzameld, kunnen worden hergebruikt voor de wooneenheden, vermeld in § 1, eerste lid, op voorwaarde dat ondubbelzinnig kan worden aangetoond dat deze over een gelijksoortige geometrie, oppervlaktes, inclusief openingen, begrenzingen en gebouwindeling beschikken. <br /><br />Als slechts een bepaald schildeel een gelijksoortige geometrie en oppervlaktes heeft, inclusief openingen, dan kunnen de gegevens van dit schildeel worden hergebruikt.
+...
 
 ### ART. 3.
 
-Het hergebruik van de gegevens, vermeld in artikel 2, is enkel toegelaten als de wooneenheden geen latere aanpassingen of verbouwingen hebben ondergaan die betrekking hebben op de gebouwschil, de installaties of het volume van de wooneenheid.
+...
