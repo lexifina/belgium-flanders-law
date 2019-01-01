@@ -492,6 +492,38 @@ In geval van een wijziging van de oorspronkelijke subsidiebeslissing zoals   ver
 
 ## [Hoofdstuk 3. Gevolgen van de vrijwillige samenvoeging van gemeenten (ing. BVR 21 december 2018, art. 2, I: 1 januari 2019)]
 
+### ART 94/1.
+
+Als gemeenten waarvan de lokale besturen actor zijn in samenwerkingsverbanden met een verschillend werkingsgebied, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, kan het agentschap, op verzoek van de betrokken samenwerkingsverbanden, de werkingsgebieden van de betrokken samenwerkingsverbanden laten fuseren in een van de volgende gevallen:<br>
+1° als alle betrokken samenwerkingsverbanden erkend zijn conform artikel 5 van dit besluit;<br>
+2° als alle betrokken samenwerkingsverbanden erkend zijn conform artikel 5 van dit besluit en gesubsidieerd zijn conform artikel 12 van dit besluit.<br>
+<br>
+Het agentschap zet de erkenning en, in voorkomend geval, de subsidiëring van alle betrokken samenwerkingsverbanden stop en kent een nieuwe erkenning en subsidiëring met hetzelfde voorwerp als vóór de samenvoeging van de gemeenten toe aan het nieuwe samenwerkingsverband.<br>
+<br>
+De procedures die lopen met toepassing van artikel 64 tot en met 80 voor een van de betrokken samenwerkingsverbanden, kunnen voortgezet worden voor het nieuwe samenwerkingsverband.<br>
+<br>
+Het agentschap bezorgt het nieuwe samenwerkingsverband de nieuwe erkenning.
+
+### ART 94/2.
+
+Als gemeenten waarin het lokaal bestuur de vertegenwoordiger is van het samenwerkingsverband, dat de vorm heeft van een feitelijke vereniging als vermeld in artikel 17, samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, past het agentschap automatisch de gegevens van de vertegenwoordiger aan die voortvloeien uit de samenvoeging tot de nieuwe gemeente.<br>
+<br>
+Het agentschap brengt de organisator elektronisch op de hoogte van de aanpassingen.
+
+### ART 94/3.
+
+Als gemeenten waarin het lokaal bestuur de organisator is van een aanbodsvorm samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, zet het agentschap automatisch de erkenning en subsidiëring van de samengevoegde gemeenten stop en kent het automatisch een nieuwe erkenning en subsidiëring met hetzelfde voorwerp als vóór de samenvoeging toe aan het nieuwe lokaal bestuur.<br>
+<br>
+De procedures die lopen met toepassing van artikel 64 tot en met 80 voor het lokaal bestuur van de samengevoegde gemeenten, kunnen voortgezet worden voor het nieuwe lokaal bestuur.<br>
+<br>
+Het agentschap bezorgt het nieuwe lokaal bestuur automatisch de nieuwe erkenning.
+
+### ART 94/4.
+
+Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, vult het agentschap de gegevens van de erkenningen van alle organisatoren van een aanbodsvorm in de samengevoegde gemeenten automatisch aan met de gegevens die voortvloeien uit de samenvoeging tot de nieuwe gemeente.<br>
+<br>
+Het agentschap brengt de organisator elektronisch op de hoogte van de aanpassingen.
+
 ## Titel 6. Slotbepalingen
 
 ## Hoofdstuk 1. Erkenning
