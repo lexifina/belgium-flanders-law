@@ -10,7 +10,10 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder : <br />1° het kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />2° cleantech : elke technologie die gericht is op producten, diensten of processen die toegevoegde waarde genereert door het gebruik van niet-hernieuwbare hulpbronnen te vermijden of zoveel als mogelijk te beperken of die de afvalstromen bij het voortbrengen ervan beduidend vermindert;<br />3° transitiemanagement : initiëren, stimuleren en organiseren van de maatschappelijke en beleidsmatige processen die noodzakelijk worden geacht voor de overgang naar een duurzame samenleving.
+Voor de toepassing van dit decreet wordt verstaan onder :<br>
+1° ...<br>
+2° cleantech : elke technologie die gericht is op producten, diensten of processen die toegevoegde waarde genereert door het gebruik van niet-hernieuwbare hulpbronnen te vermijden of zoveel als mogelijk te beperken of die de afvalstromen bij het voortbrengen ervan beduidend vermindert;<br>
+3° transitiemanagement : initiëren, stimuleren en organiseren van de maatschappelijke en beleidsmatige processen die noodzakelijk worden geacht voor de overgang naar een duurzame samenleving.
 
 ## HOOFDSTUK 3. Oprichting en doel
 

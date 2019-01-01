@@ -2,16 +2,16 @@
   "codex_id": 1020946,
   "title": "Decreet van 2011-10-14 houdende de machtiging tot oprichting van de vzw I-Cleantech Vlaanderen - innovatie in Cleantech",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020946/VolledigDocument?datum=2011-12-03",
-  "source_sha256": "1af66497f918090c6652ef600321a033c112450d1254e26d4333964bf65f297a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020946/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "2af515abbc5b9d65358ef09720e5c36d3d9baa88c1ca11780bfbacccef466651",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020946&param=informatie",
-  "as_of": "2011-12-03",
+  "as_of": "2019-01-01",
   "made": "2011-10-14",
   "gazette": "2011-11-23",
   "numac": 2011205608,
   "document_start": "2011-12-03",
   "document_end": "2019-04-17",
-  "in_force": "2011-12-03",
+  "in_force": "2019-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2011-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
