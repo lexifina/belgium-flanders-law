@@ -64,7 +64,8 @@ Het saldo maakt deel uit van de middelen van het volgend jaar en kan dienen ter 
 
 ### ART. 12.
 
-Het EV ILVO is onderworpen aan de bepalingen van het besluit van 3 februari 2006, gewijzigd bij het besluit van 23 juni 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen opgericht ingevolge het decreet bestuurlijk beleid van 18 juli 2003.<br /><br />
+Het EV ILVO is onderworpen aan de bepalingen van het besluit van 3 februari 2006, gewijzigd bij het besluit van 23 juni 2006 houdende de modaliteiten tot invoering van het centraal kasbeheer voor de Vlaamse verzelfstandigde agentschappen.<br>
+&nbsp;
 
 ### ART. 13.
 
