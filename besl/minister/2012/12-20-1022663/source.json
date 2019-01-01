@@ -2,16 +2,16 @@
   "codex_id": 1022663,
   "title": "Ministerieel besluit van 2012-12-20 tot uitvoering van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022663/VolledigDocument?datum=2016-04-01",
-  "source_sha256": "e8c7d491c0e615e2516ed6a40fd99b17af55140bfabc508f3fd134af8a929d8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022663/VolledigDocument?datum=2019-01-01",
+  "source_sha256": "1812dd8893ff7f74440d4d9c1ebcd68e76db2e7958a010bd1b078a4ba7cc6106",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022663&param=informatie",
-  "as_of": "2016-04-01",
+  "as_of": "2019-01-01",
   "made": "2012-12-20",
   "gazette": "2013-01-23",
   "numac": 2013035013,
   "document_start": "2012-12-20",
   "document_end": "2024-06-30",
-  "in_force": "2016-04-01",
+  "in_force": "2019-01-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
 }
