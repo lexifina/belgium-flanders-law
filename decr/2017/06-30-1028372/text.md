@@ -354,64 +354,6 @@ Aan artikel 196quater van het decreet van 15 juni 2007 betreffende het volwassen
 
 ## HOOFDSTUK 9 Werk en Sociale Economie
 
-### ART 27.
-
-Het artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006, opgeheven bij het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, wordt opnieuw opgenomen in de volgende lezing:<br>
-"Art. 79. § 1. De personen met een arbeidshandicap die wegens de aard of de ernst van hun arbeidshandicap niet of nog niet in het normale economische arbeidscircuit beroepsactiviteiten kunnen uitoefenen, kunnen, hetzij voltijds, hetzij deeltijds, in beschutte werkplaatsen worden tewerkgesteld, die worden erkend en gesubsidieerd door het Departement Werk en Sociale Economie.<br>
-<br>
-De Vlaamse Regering bepaalt de criteria en de procedure aan de hand waarvan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding bepaalt of een persoon al dan niet een arbeidshandicap heeft en voldoet aan de hierboven gestelde voorwaarden.<br>
-<br>
-De in de beschutte werkplaatsen tewerkgestelde personen met een arbeidshandicap worden aangeworven krachtens een arbeidsovereenkomst voor arbeiders of voor bedienden.<br>
-<br>
-De beschutte werkplaats kan aan de personen met een arbeidshandicap, die zich onmogelijk of moeilijk kunnen verplaatsen, huisarbeid verschaffen. In dit geval worden zij aangeworven krachtens een arbeidsovereenkomst voor huisarbeiders.<br>
-<br>
-§ 2. Het bouwen, het inrichten en oprichten, het in gebruik nemen van, het exploiteren en het wijzigen van de opnamecapaciteit van een door het Departement Werk en Sociale Economie subsidiabele beschutte werkplaats is onderworpen aan een voorafgaande vergunning verleend door het Departement Werk en Sociale Economie in het kader van de door de Vlaamse Regering vastgestelde programmatie.<br>
-<br>
-De Vlaamse Regering bepaalt de modaliteiten van deze vergunningsplicht.<br>
-<br>
-In geval de vergunning wordt geweigerd kan de aanvrager tegen deze beslissing beroep aantekenen bij de regering op de wijze door deze bepaald.<br>
-<br>
-§ 3. De Vlaamse Regering bepaalt de voorwaarden inzake erkenning van de beschutte werkplaatsen en de nadere regels inzake de indiening en behandeling van de aanvraag tot erkenning en inzake het verlenen, weigeren, schorsen en intrekken van deze erkenning. In geval de erkenning wordt geweigerd, geschorst of ingetrokken, kan de aanvrager tegen de beslissing beroep aantekenen bij de regering op de wijze door deze bepaald.<br>
-<br>
-Deze voorwaarden van erkenning hebben ten minste betrekking op:<br>
-1° het onthaalbeleid en de begeleiding van de werknemers met een arbeidshandicap;<br>
-2° de vrijheid van de in de werkplaats tewerkgestelde personen en de eerbiediging van hun ideologische, filosofische of godsdienstige overtuiging;<br>
-3° de veiligheid en gezondheid van de werknemers met een arbeidshandicap, en de arbeidsrechtelijke verhoudingen;<br>
-4° de materiële infrastructuur;<br>
-5° de inspraak van de personen met een arbeidshandicap of van hun wettelijke vertegenwoordigers;<br>
-6° het beheer, de boekhouding en de verslaggeving van de werkplaats;<br>
-7° het onderzoek en het behandelen van de klachten van de werknemers;<br>
-8° de kwaliteit van de sociale begeleiding van de werknemers;<br>
-9° het beheer van gelden en goederen van de werknemers met een arbeidshandicap.<br>
-<br>
-De erkenning kan niet worden verleend wanneer de beschutte werkplaats niet past in het kader van de programmatie die door de Vlaamse Regering is vastgesteld. Om erkend te worden moet de voorziening opgericht zijn door een vereniging zonder winstoogmerk, of door een ondergeschikt bestuur zoals een provincie, een gemeente, een intercommunale van gemeenten, een openbaar centrum voor maatschappelijk welzijn of een vereniging, bedoeld bij artikel 118 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn, of door een publiekrechtelijke rechtspersoon of een instelling van openbaar nut.<br>
-<br>
-Indien voormelde rechtspersoon ook andere voorzieningen organiseert dan beschutte tewerkstelling moet de inhoudelijke en administratieve autonomie van de beschutte werkplaats gewaarborgd zijn.<br>
-<br>
-§ 4. De Vlaamse Regering bepaalt de voorwaarden, de criteria, de modaliteiten en het bedrag van de subsidies, die aan de beschutte werkplaatsen worden verleend met het oog op de tewerkstelling van werknemers met een arbeidshandicap.<br>
-<br>
-§ 5. Het Departement Werk en Sociale Economie kan binnen de perken van de hiervoor op de begroting van het Vlaams ministerie van Werk en Sociale Economie ingeschreven middelen tegemoetkomen in de financiering van de aankoop, bouw en verbouwingswerken alsook in de kosten van uitrusting en apparatuur van de door hem erkende beschutte werkplaatsen die in het kader van de programmatie ter zake hiervoor in aanmerking komen.<br>
-<br>
-De Vlaamse Regering bepaalt de procedureregels, de bouwtechnische normen en de maximumbedragen inzake het verlenen van deze tegemoetkomingen.<br>
-<br>
-§ 6. De sociaalrechtelijke inspecteurs, vermeld in het decreet van 30 april 2004 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn, oefenen controle en toezicht uit op de naleving van deze bepalingen.<br>
-<br>
-§ 7. Onverminderd de toepassing van de in het Strafwetboek gestelde straffen, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 500 euro of met één van die straffen alleen degene die, zonder voorafgaande vergunning als vermeld in paragraaf 2, een door het Departement Werk en Sociale Economie subsidieerbare beschutte werkplaats bouwt, wie deze opricht, in gebruik neemt, exploiteert of de opnamecapaciteit ervan wijzigt en die het toezicht verhindert zoals voorzien in paragraaf 6.".
-
-### ART 28.
-
-§ 1. De Vlaamse Regering erkent de sociale werkplaatsen die tot doel hebben werkgelegenheid te verschaffen aan zeer moeilijk bemiddelbare werkzoekenden die door een cumulatie van persoons- en omgevingsgebonden factoren, geen arbeidsplaats in het reguliere arbeidscircuit kunnen verwerven of behouden maar die onder begeleiding in staat zijn tot het verrichten van arbeid op maat, hierna doelgroepwerknemers te noemen.<br>
-<br>
-De Vlaamse Regering bepaalt wat dient te worden verstaan onder persoons- en omgevingsgebonden factoren.<br>
-<br>
-§ 2. De Vlaamse Regering bepaalt de voorwaarden wat betreft:<br>
-1° de erkenning van de sociale werkplaatsen, met inbegrip van schorsing en intrekking van de erkenning;<br>
-2° de toeleiding en trajectbegeleiding van de doelgroepwerknemers;<br>
-3° de subsidiëring en omkadering van de doelgroepwerknemers;<br>
-4° de evaluatie van de erkenning van de sociale werkplaatsen.<br>
-<br>
-§ 3. Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan geschiedt overeenkomstig de bepalingen van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.
-
 ## HOOFDSTUK 10 Inwerkingtreding
 
 ### ART 29.
