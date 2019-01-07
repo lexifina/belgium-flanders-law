@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
 ### ART 2.
@@ -16,9 +20,43 @@ In artikel 2.1.5.0.1, § 1, 2°, van hetzelfde decreet, gewijzigd bij het decree
 
 In artikel 2.1.5.0.2, § 1, 4°, van hetzelfde decreet wordt het woord "kinderbijslag" telkens vervangen door het woord "gezinsbijslag".
 
+### ART 5.
+
+In artikel 2.1.5.0.6 van hetzelfde decreet, vervangen bij het decreet van 18 november 2016, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan 2,5% van het kadastraal inkomen.".
+
+### ART 6.
+
+In artikel 2.3.2.0.1, § 2, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen het woord "echtgenoten" en het woord "of" worden de woorden "of wettelijke samenwonenden" ingevoegd;<br>
+<br>
+2° tussen het woord "echtscheiding" en de zinsnede ", op voorwaarde" worden de woorden "of ex-wettelijk samenwonenden door de beëindiging van de wettelijke samenwoning" ingevoegd.
+
+### ART 7.
+
+In artikel 2.7.1.0.2, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de zinsnede ", § 3 en § 4," wordt opgeheven;<br>
+<br>
+2° de zinsnede "conform paragraaf 5" wordt vervangen door de zinsnede "conform paragraaf 6".
+
+### ART 8.
+
+In artikel 2.7.3.2.4, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, worden de woorden "de registers van de hypotheekbewaarders" vervangen door de woorden "de registers van de hypothecaire openbaarmaking of in de registers van het Belgisch Scheepsregister".
+
 ### ART 14.
 
 In artikel 2.8.6.0.8, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2017, worden de woorden "derde en vierde lid" vervangen door de woorden "vierde en vijfde lid".
+
+### ART 15.
+
+In artikel 2.8.6.0.9 van hetzelfde decreet, ingevoegd bij het decreet van 6 juli 2018, worden in het vierde lid de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 1° worden de woorden "op de betrokken categorie goederen" opgeheven;<br>
+<br>
+2° in punt 3° worden de woorden "in de betrokken categorie" opgeheven.
 
 ### ART 18.
 
@@ -85,20 +123,210 @@ Aan artikel 2.9.5.0.5 van hetzelfde decreet, ingevoegd bij het decreet van 18 me
 <br>
 2° in het derde lid worden de woorden "de verkoopovereenkomst" vervangen door de woorden "de verkrijging".
 
+### ART 26.
+
+In artikel 2.11.4.0.3 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt tussen de woorden "door een landbouwvoorrecht" en de zinsnede ", wordt onderworpen aan" de zinsnede ", die aan het recht, vermeld in artikel 88 van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, zijn onderworpen," ingevoegd.
+
+### ART 27.
+
+In artikel 2.11.6.0.1 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt tussen de zinsnede "vermeld in artikel 2.11.3.0.1" en de zinsnede ", wordt toegestaan" de zinsnede "of in artikel 87 van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten" ingevoegd.
+
+### ART 28.
+
+In artikel 3.1.0.0.1, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 25 maart 2016, wordt de zin "Voornoemde bepalingen blijven wel van toepassing op de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing zodra deze ingekohierd worden." opgeheven.
+
+### ART 29.
+
+In artikel 3.2.2.0.1 van hetzelfde decreet, gewijzigd bij het decreet van 3 juli 2015, wordt het derde lid opgeheven.
+
+### ART 30.
+
+Artikel 3.3.1.0.3 van hetzelfde decreet wordt opgeheven.
+
+### ART 31.
+
+In artikel 3.3.1.0.8, § 1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij de decreten van 17 juli 2015, 8 december 2017, 22 december 2017 en 6 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 14°, b), 3), wordt tussen de zinsnede "van andere bij naam te noemen medeaandeelhouders," en de woorden "en anderzijds" de zinsnede "alsook met het percentage van de stemrechten dat zij vertegenwoordigen," ingevoegd;<br>
+<br>
+2° punt 16° wordt vervangen door wat volgt:<br>
+"16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt.".
+
+### ART 32.
+
+In artikel 3.3.2.0.1 van hetzelfde decreet, gewijzigd bij de decreten van 19 december 2014, 3 juli 2015 en 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt punt 5° opgeheven;<br>
+<br>
+2° in het tweede lid wordt punt 4° opgeheven.
+
+### ART 33.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt aan afdeling 3 van titel 3, een artikel 3.3.3.0.3 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.3.3.0.3. § 1. Als wordt vastgesteld dat de aangegeven waarde van de aangegeven goederen voor de berekening van de erfbelasting te laag is, wordt de belastingplichtige schriftelijk in kennis gesteld van de intentie van de bevoegde entiteit van de Vlaamse administratie om aanvullende rechten en de belastingverhoging, vermeld in artikel 3.18.0.0.8, eerste lid, te vestigen. Die kennisgeving gebeurt binnen de 2 jaar na het indienen van de aangifte, vermeld in artikel 3.3.1.0.5 en 3.3.1.0.6.<br>
+<br>
+Als wordt vastgesteld dat de waarde die aangegeven is of de prijs die opgegeven is voor de berekening van de registratiebelasting te laag is, wordt de belastingplichtige schriftelijk in kennis gesteld van de intentie van de bevoegde entiteit van de Vlaamse administratie om aanvullende rechten en de belastingverhoging, vermeld in artikel 3.18.0.0.13, te vestigen. Die kennisgeving gebeurt binnen de 2 jaar vanaf de dag van de registratie van de akte die of het geschrift dat aanleiding geeft tot de heffing van de registratiebelasting.<br>
+<br>
+§ 2. De kennisgevingen, vermeld in paragraaf 1, vermelden de redenen die de intentie van de bevoegde entiteit van de Vlaamse administratie rechtvaardigen.<br>
+<br>
+§ 3. De toepassing van paragraaf 1 heeft geen invloed op de aanslagtermijnen, vermeld in artikel 3.3.3.0.1, § 4/1 en § 4/2.".
+
+### ART 34.
+
+Artikel 3.4.2.0.2 van hetzelfde decreet wordt opgeheven.
+
 ### ART 35.
 
 In artikel 3.4.2.0.5, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 8 december 2017 en gewijzigd bij het decreet van 18 mei 2018, wordt de zinsnede "vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, artikel 2.9.4.2.12, § 1, derde lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 7," vervangen door de zinsnede "vermeld in artikel 2.9.4.2.3, tweede lid, artikel 2.9.4.2.11, § 2, tweede lid, of § 3, tweede lid, artikel 2.9.4.2.12, § 1, tweede lid, of § 2, tweede lid, artikel 2.9.4.2.13, § 1, tweede lid, artikel 2.9.4.2.14, § 5, tweede lid, of § 7,".
+
+### ART 37.
+
+Artikel 3.4.7.0.5 van hetzelfde decreet wordt opgeheven.
+
+### ART 38.
+
+In artikel 3.4.8.0.1 van hetzelfde decreet wordt paragraaf 2 opgeheven.
+
+### ART 39.
+
+In artikel 3.6.0.0.6 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij de decreten van 3 juli 2015, 17 juli 2015, 21 april 2017 en 18 mei 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 2 wordt tussen het eerste lid en het tweede lid een lid ingevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid is de ontheffing beperkt tot drie vijfde van het wettelijk aandeel van de wederverkoper in het verkooprecht dat is betaald bij de verkrijging van het onroerend goed met toepassing van artikel 2.9.4.1.1, als de wederverkoper een onroerend goed wederverkoopt dat hij gedeeltelijk heeft verkregen bij een verdeling of een afstand die gelijkstaat met verdeling. De persoon door wie een deel van het onroerend goed aan de wederverkoper is afgestaan bij een verdeling of een afstand die gelijkstaat met verdeling, kan ook ontheffing vragen van drie vijfde van zijn wettelijk aandeel in het verkooprecht dat is betaald bij de verkrijging van het onroerend goed met toepassing van artikel 2.9.4.1.1.";<br>
+<br>
+2° in paragraaf 2/1 wordt de zinsnede "artikel 2.9.4.2.11, § 1," telkens vervangen door de zinsnede "artikel 2.9.4.2.11, § 1, artikel 2.9.4.2.12 en artikel 2.9.4.2.14,";<br>
+<br>
+3° in paragraaf 2/1 worden tussen de woorden "de woning" en de woorden "die de toepassing" de woorden "of bouwgrond" ingevoegd.
+
+### ART 40.
+
+In artikel 3.10.3.1.1, § 2, tweede lid, van hetzelfde decreet, gewijzigd bij de decreten van 3 juli 2015, 25 maart 2016 en 23 december 2016, wordt de zinsnede ", het eurovignet" opgeheven.
+
+### ART 41.
+
+In artikel 3.10.3.1.2 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt de zinsnede "De met erfstelling bezwaarde erfgenaam die de aangifte, vermeld in artikel 3.3.1.0.6, eerste lid, 5°, niet indient, en de personen die zijn veroordeeld als daders of medeplichtigen van misdrijven als vermeld in artikel 3.15.3.0.1 en artikel 3.15.3.0.2, zijn" vervangen door de zinsnede "De met erfstelling bezwaarde erfgenaam die de aangifte in het geval, vermeld in artikel 3.3.1.0.6, eerste lid, 5°, niet indient, is".
 
 ### ART 42.
 
 In artikel 3.10.5.3.3, derde lid, van hetzelfde decreet wordt de zinsnede "19 van de Faillissementswet van 8 augustus 1997" vervangen door de zinsnede "XX.113 van het Wetboek van Economisch Recht".
 
+### ART 43.
+
+In artikel 3.10.5.3.6 van hetzelfde decreet wordt de zinsnede ", tegenover de hypotheekbewaarder," opgeheven.
+
+### ART 44.
+
+In artikel 3.12.1.0.9, eerste lid, van hetzelfde decreet worden de woorden "in de registers van een hypotheekbewaarder" vervangen door de woorden "in de registers van de hypothecaire openbaarmaking of in de registers van het Belgisch Scheepsregister".
+
 ### ART 45.
 
 In artikel 3.12.1.0.14, § 4, van hetzelfde decreet wordt de zinsnede "60 van de wet van 31 januari 2009 betreffende de continuïteit van de ondernemingen" vervangen door de zinsnede "XX.85 van het Wetboek van Economisch Recht".
 
+### ART 47.
+
+Aan titel 3, hoofdstuk 12, van hetzelfde decreet, gewijzigd bij de decreten van 19 december 2014 en 8 december 2017, wordt een afdeling 4 toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 4. Verplichtingen in het kader van de burgerlijke vordering".
+
+### ART 48.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt aan afdeling 4, toegevoegd bij artikel 47, een artikel 3.12.4.0.1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.12.4.0.1. De bepalingen van deze codex doen geen afbreuk aan het recht van het Vlaamse Gewest om het herstel van de schade te vorderen die kan bestaan uit de niet-betaling van de belastingen en toebehoren, door een burgerlijkepartijstelling of door een aansprakelijkheidsvordering.".
+
+### ART 49.
+
+In artikel 3.13.2.0.4, § 1, van hetzelfde decreet, vervangen bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° tussen het woord "de" en het woord "kilometerheffing" worden de woorden "administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de" ingevoegd;<br>
+<br>
+2° de woorden "niet-betaalde belasting en de boete samen met de interesten en kosten" worden vervangen door de woorden "niet-betaalde belastingen en toebehoren die voor het gecontroleerde voertuig verschuldigd zijn";<br>
+<br>
+3° tussen het woord "overtreding" en het woord "betalen" wordt het woord "dadelijk" ingevoegd;<br>
+<br>
+4° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"Als het gecontroleerde voertuig ingeschreven staat op naam van de bestuurder of op naam van zijn echtgenoot, wettelijk samenwonende partner of kind, betaalt de bestuurder alle openstaande belastingen en toebehoren inzake de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de administratieve geldboetes kilometerheffing, die de houder van de nummerplaat verschuldigd is op het ogenblik dat de overtreding wordt vastgesteld, dadelijk aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.".
+
+### ART 50.
+
+In artikel 3.14.3.0.1, eerste lid, van hetzelfde decreet worden de woorden "de toepassing of de invordering" vervangen door de zinsnede "de vestiging, de inning of de invordering".
+
+### ART 51.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 6 juli 2018, wordt een artikel 3.14.3.0.3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.14.3.0.3. Elke daad van onderzoek of van vervolging als vermeld in artikel 22 van de Voorafgaande Titel van het Wetboek van Strafvordering, betreffende de misdrijven, vermeld in artikel 3.15.3.0.1 tot en met 3.15.3.0.4 van deze codex, schorst de verjaring van de belastingen die erop betrekking hebben.<br>
+<br>
+De schorsing begint bij het opstarten van de strafvordering, en eindigt op een van de volgende momenten:<br>
+1° als de strafrechtelijke vervolging wordt gestaakt;<br>
+2° als de strafvordering vervalt;<br>
+3° als het vonnis of arrest in kracht van gewijsde is gegaan voor de misdrijven, vermeld in het eerste lid.".
+
+### ART 52.
+
+In artikel 3.15.3.0.9 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan het eerste lid worden de woorden "en de nalatigheidsintresten verschuldigd door de belastingplichtige" toegevoegd;<br>
+<br>
+2° tussen het eerste en het tweede lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"De personen die beschuldigd zijn als daders of als medeplichtigen van misdrijven als vermeld in artikel 3.15.3.0.1 tot en met 3.15.3.0.4, zijn ook hoofdelijk gehouden tot betaling van de ontdoken belasting en de nalatigheidsinteresten, vermeld in het eerste lid, als de bestanddelen van de misdrijven bewezen verklaard zijn, en als ze genieten van:<br>
+1° een opschorting van de uitspraak van de veroordeling of een uitstel van de tenuitvoerlegging van de straffen als vermeld in hoofdstuk III en hoofdstuk IV van de wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie;<br>
+2° een veroordeling bij eenvoudige schuldigverklaring als vermeld in artikel 21ter van de Voorafgaande Titel van het Wetboek van Strafvordering;<br>
+3° de procedure van voorafgaande erkenning van schuld, vermeld in artikel 216 van het Wetboek van Strafvordering;<br>
+4° de verjaring van de strafvordering.";<br>
+<br>
+3° in het bestaande tweede lid, dat het derde lid wordt, worden de woorden "hun gemachtigden of bedrijfsleiders" vervangen door de zinsnede "aangestelden of hun bestuurders, zaakvoerders of vereffenaars, in het kader van de uitoefening van hun functie, in rechte of in feite,".
+
+### ART 53.
+
+In artikel 3.18.0.0.1, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij de decreten van 17 juli 2015 en 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de zinsnede "eerste lid," wordt opgeheven;<br>
+<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"De administratieve geldboeten, vermeld in paragraaf 4/1, worden ingevorderd conform de bepalingen van titel 3, met uitzondering van artikel 3.1.0.0.1, eerste en tweede lid, en de bepalingen die louter betrekking hebben op een andere belasting als vermeld in titel 2 dan de kilometerheffing.".
+
+### ART 54.
+
+Artikel 3.18.0.0.2 van hetzelfde decreet, gewijzigd bij de decreten van 17 juli 2015 en 23 december 2016, wordt opgeheven.
+
+### ART 55.
+
+In artikel 3.18.0.0.11, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij de decreten van 3 juli 2015, 17 juli 2015, en 18 mei 2018 wordt punt 7/4° vervangen door wat volgt:<br>
+<br>
+"7° /4 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.13, § 1, vervalt bij gebrek aan tijdige verhuring als vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 1°, of bij gebrek aan tijdige indiening van de bewijsstukken, vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 2°, of bij vroegtijdige beëindiging van de huurovereenkomst of bij gebrek aan tijdige kennisgeving hiervan als vermeld in artikel 2.9.4.2.13, § 4;"
+
+### ART 56.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 6 juli 2018, worden de volgende artikelen opgeheven:<br>
+<br>
+1° artikel 5.0.0.0.12, ingevoegd bij het decreet van 18 december 2015;<br>
+<br>
+2° artikel 5.0.0.0.13, ingevoegd bij het decreet van 16 oktober 2015.
+
 ## HOOFDSTUK 3. Wijziging van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013
+
+### ART 57.
+
+Artikel 3.4.8.0.1 van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 wordt opgeheven.
 
 ## HOOFDSTUK 4. Wijziging van het Wetboek van de Inkomstenbelastingen 1992
 
 ## HOOFDSTUK 5. Slotbepalingen
+
+### ART 59.
+
+Artikel 2, artikel 3 en artikel 4 treden in werking op 1 januari 2019.<br>
+<br>
+Artikel 9 tot en met 13, 16, 17, 24, 25, 31, 1°, en 46 treden in werking op een door de Vlaamse Regering vast te stellen datum.<br>
+<br>
+Artikel 14 heeft uitwerking met ingang van 9 juni 2018.<br>
+<br>
+Artikel 18 tot en met 23, artikel 35 en artikel 39, 2° en 3°, zijn van toepassing op verkoopovereenkomsten afgesloten vanaf 1 juni 2018.<br>
+<br>
+Artikel 36 treedt in werking op 1 januari 2021.<br>
+<br>
+Artikel 42 en 45 hebben uitwerking op insolventieprocedures geopend vanaf 1 mei 2018.<br>
+<br>
+Artikel 58 treedt in werking vanaf aanslagjaar 2020.

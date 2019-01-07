@@ -2,16 +2,16 @@
   "codex_id": 1030047,
   "title": "Decreet van 2018-12-21 houdende diverse fiscale bepalingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030047/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "39fe4b7a5f4df41585a22465f3e7597d8d799de742f482bd1381eea43a32d96d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030047/VolledigDocument?datum=2019-01-07",
+  "source_sha256": "5a1104515412aa8f94f1eb11e850a24dd00d40650f9203e6fed87c436f1b45e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030047&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-01-07",
   "made": "2018-12-21",
   "gazette": "2018-12-28",
   "numac": 2018015648,
   "document_start": "2019-01-07",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-07",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2019-01-07; future article versions excluded; article text as the API gives it"
 }
