@@ -2,16 +2,16 @@
   "codex_id": 1023515,
   "title": "Besluit van de Vlaamse Regering van 2013-12-20 houdende de uitvoering van de Vlaamse Codex Fiscaliteit van 13 december 2013 (citeeropschrift: \"Besluit Vlaamse Codex Fiscaliteit van 20 december 2013\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023515/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "96fd143ad412178f220ea2b5454cdef881dec6d414518b40e166c8a76c203863",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023515/VolledigDocument?datum=2019-01-07",
+  "source_sha256": "42d9ccbf90c0b34fc69cbda0dd6e7de469c4e5bcede8ec9db3a6e012e5c02849",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023515&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-01-07",
   "made": "2013-12-20",
   "gazette": "2013-12-31",
   "numac": 2013036202,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2019-01-07",
   "article_versions": 242,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-07; future article versions excluded; article text as the API gives it"
 }

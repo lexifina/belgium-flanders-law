@@ -921,7 +921,7 @@ Betalingen van belastingen en toebehoren hebben uitwerking:<BR>1° voor   storti
 
 ### ART. 3.4.8.0.1.
 
-Als een belastingschuldige met toepassing van artikel 3.4.8.0.1, § 2, van   de Vlaamse Codex Fiscaliteit van 13 december 2013, verzoekt om gespreide   betaling van het eurovignet, moet het bevoegde personeelslid bij de schrapping   van de nummerplaat, bij een wijziging van de fiscale parameters van het voertuig   (aantal assen, emissienorm van de motor) of bij de vervanging van het voertuig,   op verzoek van de belastingschuldige, respectievelijk terugbetalen of aanrekenen   volgens de volgende formule: B = [Euv' - (Euv x n/360)] - 25 euro,   waarbij:<BR>1° B = het totaal bedrag van de teruggave of van het aan te rekenen   bedrag;<BR>2° Euv' = het bedrag van het eurovignet dat al voor het voertuig werd   betaald in het kader van de gespreide betaling;<BR>3° Euv = het jaarbedrag dat   voor het voertuig verschuldigd is;<BR>4° n = de aangevangen volledige dagen van   de belastbare periode, waarbij iedere maand wordt beschouwd als een geheel van   dertig dagen. Dat cijfer moet steeds afgerond worden op het hogere veelvoud van   30;<BR>5° 25 euro = het wettelijk vastgestelde bedrag van de   administratiekosten.<BR>
+...
 
 ## HOOFDSTUK 5. Bezwaar
 
