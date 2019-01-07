@@ -396,10 +396,7 @@ Als de grens van 745 euro, vermeld in artikel 2.1.5.0.1, § 1, 1°, wordt   over
 
 ### ART. 2.1.5.0.6.
 
-Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan :<br>
-1° 2,5 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 1, van toepassing is;<br>
-2° 1,6 % van het kadastraal inkomen als het tarief, vermeld in artikel 2.1.4.0.1, § 2, van toepassing is;<br>
-3° 2,5 % van het kadastraal inkomen vermenigvuldigd met de coëfficiënt, vermeld in artikel 2.1.4.0.1, § 3, tweede lid, als het tarief, vermeld in artikel 2.1.4.0.1, § 3, van toepassing is.<br>
+Voor de onbebouwde onroerende goederen in het Vlaams Ecologisch Netwerk, vermeld in artikel 17 van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, wordt aan de belastingplichtige een belastingkrediet toegekend dat gelijk is aan 2,5% van het kadastraal inkomen.<br>
 <br>
 Het belastingkrediet, vermeld in het eerste lid, kan nooit meer bedragen dan de onroerende voorheffing, na toepassing van vrijstellingen en verminderingen.<br>
 <br>
@@ -1680,7 +1677,15 @@ Overeenkomstig artikel 94 van het federale Wetboek van 23 november 1965   van de
 
 ### ART. 2.3.2.0.1.
 
-<P>§ 1. De belastingplichtige is degene die vermeld is, naargelang het geval, op   het inschrijvingsbewijs of op de vlaggenbrief op het ogenblik van de eerste   inverkeerstelling op de openbare weg van het wegvoertuig of op het ogenblik van   een eerste gebruik van een luchtvaartuig of van een boot door de vermelde   natuurlijke persoon of rechtspersoon.<BR></P>  <P>De wegvoertuigen worden geacht in het verkeer te zijn gesteld als ze   ingeschreven zijn of moeten zijn in het repertorium van het Directoraat-generaal   Mobiliteit en Verkeersveiligheid.<BR></P>  <P>De luchtvaartuigen worden geacht in België te zijn gebruikt als ze   ingeschreven zijn of moeten zijn door het Directoraat-generaal   Luchtvaart.<BR></P>  <P>De boten worden geacht in België te zijn gebruikt als daarvoor een   vlaggenbrief is uitgereikt of moet zijn uitgereikt door de Federale   Overheidsdienst Mobiliteit.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 is de belasting niet verschuldigd voor een   wegvoertuig of een luchtvaartuig dat wordt ingeschreven, of voor een boot   waarvoor een vlaggenbrief wordt uitgereikt naar aanleiding van een overdracht   tussen echtgenoten of een overdracht tussen uit de echt gescheiden personen   ingevolge de echtscheiding, op voorwaarde dat de overdrager voor hetzelfde   wegvoertuig, hetzelfde luchtvaartuig of dezelfde boot de belasting al heeft   betaald.<BR></P>
+<p>§ 1. De belastingplichtige is degene die vermeld is, naargelang het geval, op het inschrijvingsbewijs of op de vlaggenbrief op het ogenblik van de eerste inverkeerstelling op de openbare weg van het wegvoertuig of op het ogenblik van een eerste gebruik van een luchtvaartuig of van een boot door de vermelde natuurlijke persoon of rechtspersoon.</p>
+
+<p>De wegvoertuigen worden geacht in het verkeer te zijn gesteld als ze ingeschreven zijn of moeten zijn in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid.</p>
+
+<p>De luchtvaartuigen worden geacht in België te zijn gebruikt als ze ingeschreven zijn of moeten zijn door het Directoraat-generaal Luchtvaart.</p>
+
+<p>De boten worden geacht in België te zijn gebruikt als daarvoor een vlaggenbrief is uitgereikt of moet zijn uitgereikt door de Federale Overheidsdienst Mobiliteit.</p>
+
+<p>§ 2. In afwijking van paragraaf 1 is de belasting niet verschuldigd voor een wegvoertuig of een luchtvaartuig dat wordt ingeschreven, of voor een boot waarvoor een vlaggenbrief wordt uitgereikt naar aanleiding van een overdracht tussen echtgenoten of wettelijke samenwonenden of een overdracht tussen uit de echt gescheiden personen ingevolge de echtscheiding of ex-wettelijk samenwonenden door de beëindiging van de wettelijke samenwoning, op voorwaarde dat de overdrager voor hetzelfde wegvoertuig, hetzelfde luchtvaartuig of dezelfde boot de belasting al heeft betaald.</p>
 
 ## Afdeling 3 Belastbare grondslag
 
@@ -2550,7 +2555,7 @@ Overeenkomstig artikel 3, 4°, van de bijzondere wet van 16 januari 1989   betre
 
 De erfbelasting is verschuldigd ongeacht of de verkrijging gebeurt ingevolge wettelijke devolutie, uiterste wilsbeschikking of contractuele erfstelling.<br>
 <br>
-Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 858bis, § 3 en § 4, van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende aan het vruchtgebruik heeft verzaakt conform paragraaf 5 van het voormelde artikel.
+Naast het geval, vermeld in het eerste lid, is de erfbelasting ook verschuldigd op een verkrijging van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek, tenzij de langstlevende echtgenoot of wettelijk samenwonende aan het vruchtgebruik heeft verzaakt conform paragraaf&nbsp;6 van het voormelde artikel.
 
 ### ART. 2.7.1.0.3.
 
@@ -2647,7 +2652,11 @@ Als een erfgenaam, legataris of begiftigde het vruchtgebruik of de blote   eigen
 
 ### ART. 2.7.3.2.4.
 
-Met behoud van de toepassing van artikel 2.7.3.2.1 bestaat er voor de   heffing van de erfbelasting, alsook van de belastingverhogingen, tot bewijs van   het tegendeel, een wettelijk vermoeden van eigendom in de volgende gevallen   :<BR>1° voor onroerende goederen : als ze voor de onroerende voorheffing zijn   ingekohierd op naam van de erflater en die daarvoor een betaling heeft   gedaan;<BR>2° voor hypothecaire renten en schuldvorderingen : als ze op naam van   de erflater in de registers van de hypotheekbewaarders zijn ingeschreven;<BR>3°   voor de schuldvorderingen op de Belgische Staat : als ze op naam van de erflater   in het Grootboek van de Staatsschuld zijn opgenomen;<BR>4° voor obligaties,   aandelen of andere schuldvorderingen op provincies, gemeenten, openbare   instellingen en stichtingen van openbaar nut van het Rijk : als ze op naam van   de erflater in hun registers en rekeningen ingeschreven zijn.
+Met behoud van de toepassing van artikel 2.7.3.2.1 bestaat er voor de heffing van de erfbelasting, alsook van de belastingverhogingen, tot bewijs van het tegendeel, een wettelijk vermoeden van eigendom in de volgende gevallen :<br>
+1° voor onroerende goederen : als ze voor de onroerende voorheffing zijn ingekohierd op naam van de erflater en die daarvoor een betaling heeft gedaan;<br>
+2° voor hypothecaire renten en schuldvorderingen : als ze op naam van de erflater in&nbsp;de registers van de hypothecaire openbaarmaking of in de registers van het Belgisch Scheepsregister zijn ingeschreven;<br>
+3° voor de schuldvorderingen op de Belgische Staat : als ze op naam van de erflater in het Grootboek van de Staatsschuld zijn opgenomen;<br>
+4° voor obligaties, aandelen of andere schuldvorderingen op provincies, gemeenten, openbare instellingen en stichtingen van openbaar nut van het Rijk : als ze op naam van de erflater in hun registers en rekeningen ingeschreven zijn.
 
 ### ART. 2.7.3.2.5.
 
@@ -3430,9 +3439,9 @@ In voorkomend geval wordt het bedrag van de vrijstelling, vermeld in het eerste 
 Het bedrag van de vrijstelling, vermeld in het eerste lid, kan nooit hoger zijn dan het bedrag van de erfbelasting dat geheven werd op de overdracht aan de schenker. Als de schenker meer dan één schenking doet zoals vermeld in het eerste lid, wordt het maximumbedrag van de vrijstelling beoordeeld voor alle schenkingen samen.<br>
 <br>
 In voorkomend geval wordt het bedrag van de erfbelasting, vermeld in het derde lid, beperkt met toepassing van de volgende formule: X = a x b/c, waarbij de parameters als volgt worden gedefinieerd:<br>
-1° a = het bedrag van de erfbelasting berekend in hoofde van de schenker op de betrokken categorie goederen;<br>
+1° a = het bedrag van de erfbelasting berekend in hoofde van de schenker;<br>
 2° b = het gedeelte van de schenking dat overeenstemt met de met erfbelasting belaste brutowaarde;<br>
-3° c = de brutowaarde van de met erfbelasting belaste goederen in de betrokken categorie.<br>
+3° c = de brutowaarde van de met erfbelasting belaste goederen.<br>
 <br>
 Het bedrag van de erfbelasting, vermeld in het derde lid, dat geheven werd op de overdracht aan de schenker is het bedrag dat op regelmatige wijze in hoofde van deze persoon werd geheven op zicht van de aangifte die werd ingediend bij toepassing van artikel 3.3.1.0.5.<br>
 <br>
@@ -3976,7 +3985,7 @@ De belasting, vermeld in artikel 2.11.4.0.1, is van toepassing, zelfs als   de h
 
 ### ART. 2.11.4.0.3.
 
-De vestiging van een hypotheek op een onroerend goed tot zekerheid van een   schuld die gewaarborgd is door een hypotheek op een schip dat niet naar zijn   aard voor het zeevervoer bestemd is, door de verpanding van een handelszaak of   door een landbouwvoorrecht, wordt onderworpen aan een verlaagd tarief van 0,50   %.
+De vestiging van een hypotheek op een onroerend goed tot zekerheid van een schuld die gewaarborgd is door een hypotheek op een schip dat niet naar zijn aard voor het zeevervoer bestemd is, door de verpanding van een handelszaak of door een landbouwvoorrecht, die aan het recht, vermeld in artikel 88 van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, zijn onderworpen, wordt onderworpen aan een verlaagd tarief van 0,50 %.
 
 ### ART. 2.11.4.0.4.
 
@@ -3992,7 +4001,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.11.6.0.1.
 
-Er wordt een vrijstelling van het recht op hypotheekvestiging verleend   voor elke vestiging van een hypotheek die na de heffing van de belasting,   vermeld in artikel 2.11.3.0.1, wordt toegestaan tot zekerheid van dezelfde   schuldvordering voor hetzelfde gewaarborgde bedrag.
+Er wordt een vrijstelling van het recht op hypotheekvestiging verleend voor elke vestiging van een hypotheek die na de heffing van de belasting, vermeld in artikel 2.11.3.0.1 of in artikel 87 van het federale Wetboek van Registratie-, Hypotheek- en Griffierechten, wordt toegestaan tot zekerheid van dezelfde schuldvordering voor hetzelfde gewaarborgde bedrag.
 
 ### ART. 2.11.6.0.2.
 
@@ -4305,7 +4314,23 @@ Met uitzondering van afdeling 5 en afdeling 6, is dit hoofdstuk niet van toepass
 
 ### ART. 3.1.0.0.1.
 
-<P>De bepalingen van titel 3 zijn, behalve bij afwijkende bijzondere bepalingen,   van toepassing op alle belastingen, vermeld in titel 2, alsook op het   eurovignet.<BR><BR>In afwijking van het eerste lid, zijn de volgende bepalingen   van deze titel niet van toepassing op de kilometerheffing:<BR>- hoofdstuk   2;<BR>- hoofdstuk 3, met uitzondering van artikel 3.3.1.0.11, 3.3.1.0.13,   3.3.2.0.1, eerste lid, 10°, en tweede lid, 6°, en 3.3.3.0.1, § 2, tweede   lid;<BR>- hoofdstuk 4;<BR>- hoofdstuk 5 met uitzondering van artikel   3.5.3.0.2;<BR>- hoofdstuk 6;<BR>- hoofdstuk 7;<BR>- hoofdstuk 10, met   uitzondering van artikel 3.10.3.1.1, § 2, tweede lid, en artikel 3.10.4.5.1,   tweede en derde lid;<BR>- hoofdstuk 12.<BR>Voornoemde bepalingen blijven wel van   toepassing op de administratieve geldboetes die worden opgelegd ingevolge   overtredingen van de regelgeving inzake de kilometerheffing zodra deze   ingekohierd worden.<BR><BR></P>  <P>De Vlaamse Regering kan :<BR>1° de wijze regelen waarop men moet handelen   voor de aangiften, de opmaak en de kennisgeving van de kohieren, de betalingen,   de bewijzen van betaling en de inning en invordering van de verschuldigde   bedragen;<BR>2° het tarief van de vervolgingskosten regelen.<BR></P>  <P>Als een vordering voor het gerecht, zelfs gedeeltelijk, maatregelen tot   voorwerp heeft die ertoe strekken de invordering te verwezenlijken of te   waarborgen van de belastingen en toebehoren, hebben de cassatietermijn alsook de   voorziening in cassatie schorsende kracht.<BR></P>
+<p>De bepalingen van titel 3 zijn, behalve bij afwijkende bijzondere bepalingen, van toepassing op alle belastingen, vermeld in titel 2, alsook op het eurovignet.<br>
+<br>
+In afwijking van het eerste lid, zijn de volgende bepalingen van deze titel niet van toepassing op de kilometerheffing:<br>
+- hoofdstuk 2;<br>
+- hoofdstuk 3, met uitzondering van artikel 3.3.1.0.11, 3.3.1.0.13, 3.3.2.0.1, eerste lid, 10°, en tweede lid, 6°, en 3.3.3.0.1, § 2, tweede lid;<br>
+- hoofdstuk 4;<br>
+- hoofdstuk 5 met uitzondering van artikel 3.5.3.0.2;<br>
+- hoofdstuk 6;<br>
+- hoofdstuk 7;<br>
+- hoofdstuk 10, met uitzondering van artikel 3.10.3.1.1, § 2, tweede lid, en artikel 3.10.4.5.1, tweede en derde lid;<br>
+- hoofdstuk 12.<br>
+<br>
+De Vlaamse Regering kan :<br>
+1° de wijze regelen waarop men moet handelen voor de aangiften, de opmaak en de kennisgeving van de kohieren, de betalingen, de bewijzen van betaling en de inning en invordering van de verschuldigde bedragen;<br>
+2° het tarief van de vervolgingskosten regelen.</p>
+
+<p>Als een vordering voor het gerecht, zelfs gedeeltelijk, maatregelen tot voorwerp heeft die ertoe strekken de invordering te verwezenlijken of te waarborgen van de belastingen en toebehoren, hebben de cassatietermijn alsook de voorziening in cassatie schorsende kracht.</p>
 
 ### ART. 3.1.0.0.2.
 
@@ -4381,7 +4406,11 @@ Een aanslag heeft betrekking op de onroerende goederen die gelegen zijn in eenze
 
 ### ART. 3.2.2.0.1.
 
-<P>Van de belastingschuldigen mag alleen een som worden gevorderd krachtens een   uitvoerbaar verklaard kohier dat de inningstitel vormt. Dat geldt zowel voor de   belastingen zelf, als voor de eventuele administratieve geldboeten en   belastingverhogingen, als voor de eventuele opcentiemen of de opdeciem voor de   provincies, de agglomeraties en de gemeenten.<BR></P>  <P>De kohieren worden opgemaakt en uitvoerbaar verklaard door het bevoegde   personeelslid.<BR></P>  <P>Het eurovignet kan door de bevoegde entiteit van de Vlaamse administratie   worden geïnd zonder toepassing van het eerste lid.<BR><BR>De boetes die worden   opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing   kunnen door de bevoegde entiteit van de Vlaamse administratie worden geïnd   zonder toepassing van het eerste lid.</P>
+<p>Van de belastingschuldigen mag alleen een som worden gevorderd krachtens een uitvoerbaar verklaard kohier dat de inningstitel vormt. Dat geldt zowel voor de belastingen zelf, als voor de eventuele administratieve geldboeten en belastingverhogingen, als voor de eventuele opcentiemen of de opdeciem voor de provincies, de agglomeraties en de gemeenten.</p>
+
+<p>De kohieren worden opgemaakt en uitvoerbaar verklaard door het bevoegde personeelslid.<br>
+<br>
+De boetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing kunnen door de bevoegde entiteit van de Vlaamse administratie worden geïnd zonder toepassing van het eerste lid.</p>
 
 ## Afdeling 3 Overledenen en onverdeeldheden
 
@@ -4415,7 +4444,7 @@ De Vlaamse Regering bepaalt de regels voor de berekening van de   belastingen en
 
 ### ART. 3.3.1.0.3.
 
-<P>Met toepassing van titel 2, hoofdstuk 4, moet de belastingplichtige, vooraf   bij het bevoegde personeelslid een aangifte onderschrijven die alle gegevens   bevat die nodig zijn om de belasting te berekenen en om de belastbare periode   vast te stellen.<BR></P>  <P>Als de belastingplichtige niet uit eigen beweging het eurovignet betaalt,   geen aangifte onderschrijft of op de aangifte onjuiste gegevens over het   voertuig vermeldt, vestigt het bevoegde personeelslid het eurovignet op grond   van de gegevens waarover hij beschikt, behoudens het recht om bezwaar in te   dienen.<BR></P>  <P>Het aldus vastgestelde bedrag van het eurovignet wordt verhoogd met een   administratieve boete conform artikel 3.18.0.0.2.<BR></P>  <P>Bij gebrek aan andersluidende kennisgeving is de aangifte die voor een jaar   is ingediend, of de gevestigde ambtshalve aanslag geldig voor de volgende   jaren.<BR></P>
+...
 
 ### ART. 3.3.1.0.4.
 
@@ -4506,7 +4535,7 @@ i) de vrijstelling, vermeld in artikel 2.7.6.0.4;<br>
 j) de vrijstelling, vermeld in artikel 2.7.4.1.1, § 2, derde lid;<br>
 k) de vrijstelling, vermeld in artikel 2.7.6.0.5. In voorkomend geval moeten de verzoekers in de aangifte verklaren dat ze kennis hebben van het bepaalde in artikel 16septiesdecies, eerste lid, 1°, en het tweede tot en met het vierde lid van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. In voorkomend geval wordt hetzij een afschrift van de beslissing tot goedkeuring van het natuurbeheerplan, vermeld in artikel 16octies, § 1, eerste lid, 5°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, hetzij een afschrift van de overeenkomst, vermeld in artikel 2.7.6.0.5, § 2, tweede lid, gevoegd bij de aangifte;<br>
 15° in voorkomend geval de erfovereenkomst, vermeld in artikel 1100/7 van het Burgerlijk Wetboek. In dat geval wordt een kopie van die notariële erfovereenkomst bij de aangifte gevoegd;<br>
-16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis, § 3 en § 4, van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd;<br>
+16° in voorkomend geval de verkrijgingen van vruchtgebruik met toepassing van artikel 858bis van het Burgerlijk Wetboek. In dat geval wordt een kopie van de akte van schenking bij de aangifte gevoegd. In geval van verzaking aan het vruchtgebruik op een ander tijdstip wordt het stuk gevoegd waaruit die verzaking blijkt;<br>
 17° in voorkomend geval welke schenkingen, levensverzekeringen en legaten aan inbreng of inkorting zijn onderworpen en in bevestigend geval op welke wijze de inbreng of inkorting gebeurt.<br>
 <br>
 Als het successierecht verschuldigd is, bevat de aangifte bovendien de uitdrukkelijke vermelding van het adres en de datum en duur van de vestiging van de verschillende fiscale woonplaatsen die de erflater of de afwezige gehad heeft in de periode van vijf jaar voorafgaand aan zijn overlijden of aan het tijdstip waarop het laatste bericht van de afwezige werd ontvangen.<br>
@@ -4672,7 +4701,7 @@ De aangifteplicht die is bepaald in dit artikel geldt niet voor de opstelling va
 2° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, eerste lid, elk tijdperk van twaalf achtereenvolgende maanden. Het aanslagjaar is het jaar waarin dat tijdperk een aanvang neemt;<br>
 3° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, tweede lid, de eerste keer het tijdperk dat gelijk is aan het aantal maanden dat begrepen is tussen de eerste dag van de maand waarin het voertuig in de loop van een burgerlijk jaar in gebruik is genomen op de openbare weg, en 31 december van hetzelfde jaar. Vervolgens wordt het aanslagjaar gevormd door een tijdperk van twaalf maanden dat aanvangt op 1 januari van elk volgend kalenderjaar, en het is het jaar waarin de voormelde tijdperken een aanvang nemen;<br>
 4° de belasting op de inverkeerstelling het jaar waarin de belasting verschuldigd is. Het begint op de eerste dag van de maand waarin de belasting verschuldigd is;<br>
-5° het eurovignet het jaar waarin de belasting verschuldigd is. Het begint op de dag waarop het voertuig, naargelang het geval, op het wegennet, aangeduid door de Koning, of op de openbare weg rijdt;<br>
+5° ...;<br>
 6° de heffing ongeschikte en onbewoonbare woningen het jaar waarin de belasting verschuldigd is met toepassing van artikel 2.5.7.0.1;<br>
 7° de leegstandsheffing bedrijfsruimten het kalenderjaar dat volgt op elke derde opeenvolgende registratie in de inventaris, waarin de belasting kan worden ingevoerd;<br>
 8° de erfbelasting : het jaar waarin het overlijden plaatsvindt of, in geval van een gebeurtenis als vermeld in artikel 3.3.1.0.6, het jaar waarin de nieuwe aangiftetermijn start;<br>
@@ -4689,7 +4718,7 @@ Het belastbare tijdperk is voor :<br>
 1° de toepassing van de onroerende voorheffing gelijk aan het aanslagjaar;<br>
 2° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, eerste lid, gelijk aan elke periode van twaalf achtereenvolgende maanden, waarvan de eerste ingaat de eerste dag van de maand waarin het voertuig in het repertorium van het Directoraat-generaal Mobiliteit en Verkeersveiligheid is ingeschreven of moet worden ingeschreven;<br>
 3° de verkeersbelasting voor de voertuigen, vermeld in artikel 2.2.2.0.1, § 2, tweede lid, voor de eerste keer gelijk aan het aantal maanden dat begrepen is tussen de eerste dag van de maand waarin het voertuig in de loop van een burgerlijk jaar in gebruik is genomen op de openbare weg, en 31 december van hetzelfde jaar. Vervolgens is het gelijk aan elke periode van twaalf maanden die aanvangt op 1 januari van elk volgend kalenderjaar;<br>
-4° het eurovignet voor de voertuigen die in België ingeschreven zijn of ingeschreven moeten zijn, gelijk aan de opeenvolgende tijdvakken van twaalf achtereenvolgende maanden, waarvan het eerste tijdvak ingaat op de dag waarop het voertuig, vermeld in artikel 2.4.1.0.1, op de openbare weg rijdt;<br>
+4° ...;<br>
 5° de heffing ongeschikte en onbewoonbare woningen gelijk aan de opeenvolgende periodes van twaalf maanden die volgen op de inventarisatiedatum, vermeld in artikel 24, 6°, van het decreet van 22 december 1995;<br>
 6° de kilometerheffing gelijk aan de kalenderdag waarop de kilometers worden afgelegd op de niet-geconcedeerde weg;<br>
 7° de belasting op de spelen en weddenschappen gelijk aan het aanslagjaar;<br>
@@ -4736,6 +4765,16 @@ De termijnen uit het eerste, tweede en derde lid worden met vier jaar verlengd i
 
 <P>De belasting en de opcentiemen mogen worden geheven, zelfs nadat de termijn,   vermeld in artikel 3.3.3.0.1, § 1, is verstreken, als bewijskrachtige gegevens   uitwijzen dat de belastingplichtige nagelaten heeft aangifte te doen met   toepassing van artikel 473 van het federale WIB 92.<BR></P>  <P>In het geval, vermeld in het eerste lid, moeten de belasting en de   opcentiemen worden geheven binnen twaalf maanden vanaf de datum waarop de   inbreuk, vermeld in het eerste lid, is vastgesteld.<BR></P>
 
+### ART 3.3.3.0.3.
+
+§ 1. Als wordt vastgesteld dat de aangegeven waarde van de aangegeven goederen voor de berekening van de erfbelasting te laag is, wordt de belastingplichtige schriftelijk in kennis gesteld van de intentie van de bevoegde entiteit van de Vlaamse administratie om aanvullende rechten en de belastingverhoging, vermeld in artikel 3.18.0.0.8, eerste lid, te vestigen. Die kennisgeving gebeurt binnen de 2 jaar na het indienen van de aangifte, vermeld in artikel 3.3.1.0.5 en 3.3.1.0.6.<br>
+<br>
+Als wordt vastgesteld dat de waarde die aangegeven is of de prijs die opgegeven is voor de berekening van de registratiebelasting te laag is, wordt de belastingplichtige schriftelijk in kennis gesteld van de intentie van de bevoegde entiteit van de Vlaamse administratie om aanvullende rechten en de belastingverhoging, vermeld in artikel 3.18.0.0.13, te vestigen. Die kennisgeving gebeurt binnen de 2 jaar vanaf de dag van de registratie van de akte die of het geschrift dat aanleiding geeft tot de heffing van de registratiebelasting.<br>
+<br>
+§ 2. De kennisgevingen, vermeld in paragraaf 1, vermelden de redenen die de intentie van de bevoegde entiteit van de Vlaamse administratie rechtvaardigen.<br>
+<br>
+§ 3. De toepassing van paragraaf 1 heeft geen invloed op de aanslagtermijnen, vermeld in artikel 3.3.3.0.1, § 4/1 en § 4/2.
+
 ## Afdeling 4 Aanslagbiljet
 
 ### ART. 3.3.4.0.1.
@@ -4770,7 +4809,7 @@ In het geval, vermeld in artikel 3.3.5.0.1, tweede lid, waarbij het aanslagbilje
 
 ### ART. 3.4.2.0.2.
 
-In afwijking van artikel 3.4.2.0.1 moet het eurovignet uit eigen beweging   bij het bevoegde personeelslid worden betaald vóór het begin van ieder   belastbaar tijdperk.<BR>
+...
 
 ### ART. 3.4.2.0.3.
 
@@ -4834,7 +4873,7 @@ Als een voertuig in de loop van een aanslagjaar wordt afgevoerd van het   repert
 
 ### ART. 3.4.7.0.5.
 
-<P>§ 1. Voor de voertuigen, vermeld in artikel 2.4.7.0.1, tweede lid, wordt op   aanvraag van de belastingschuldige een evenredige teruggave van het eurovignet   verleend voor de periodes van inactiviteit van het voertuig tijdens de   belastbare periode.<BR></P>  <P>Het bedrag, vermeld in het eerste lid, is gelijk aan een of twee twaalfde van   het jaarbedrag naargelang de periodes van inactiviteit respectievelijk minstens   dertig of zestig dagen bedragen. Het terug te geven bedrag wordt verminderd met   een bedrag van vijfentwintig euro voor administratiekosten.<BR></P>  <P>De aanvraag, vermeld in het eerste lid, moet worden ingediend bij het   bevoegde personeelslid op zijn vroegst de laatste dag van de belastbare periode   en uiterlijk drie maanden na de laatste dag van de belastbare periode op straffe   van verval.<BR></P>  <P>De Vlaamse Regering bepaalt de wijze waarop de inactiviteit van het voertuig,   vermeld in het eerste lid, moet worden bewezen bij de aanvraag tot gedeeltelijke   teruggave van het jaarbedrag dat verschuldigd is voor het eurovignet.<BR></P>  <P>§ 2. Als voor het eurovignet een van de verdragsluitende partijen beslist om   de belasting van het gebruiksrecht te beëindigen en een tolheffing in te voeren,   waardoor het gemeenschappelijke belastbare grondgebied inzake het gebruiksrecht   wordt gewijzigd, kunnen de voertuigen, vermeld in artikel 2.4.7.0.1, tweede lid,   een evenredige teruggave van het eurovignet verkrijgen voor de periodes van   gebruik tijdens de belastbare periode van het wegennet waarop dat tolgeld   geheven wordt.<BR></P>  <P>De aanvraag, vermeld in het eerste lid, moet worden ingediend bij het   bevoegde personeelslid op zijn vroegst de laatste dag van de belastbare periode   en uiterlijk drie maanden na de laatste dag van de belastbare periode op straffe   van verval.<BR></P>  <P>Het bedrag, vermeld in het eerste lid, is gelijk aan een of twee twaalfde van   het jaarbedrag naargelang de periodes van gebruik van het voormelde wegennet   waarop tolgeld wordt geheven, respectievelijk minstens dertig of zestig dagen   bedragen.<BR></P>  <P>Het terug te geven bedrag wordt verminderd met een bedrag van vijfentwintig   euro voor administratiekosten als die maatregel niet cumulatief wordt toegepast   met de maatregel, vermeld in paragraaf 1.<BR></P>
+...
 
 ### ART. 3.4.7.0.6.
 
@@ -4850,7 +4889,13 @@ De aanvraag, vermeld in het eerste lid, wordt ingediend bij het bevoegde persone
 
 ### ART. 3.4.8.0.1.
 
-<P>§ 1. De belastingschuldige kan verzoeken om spreiding van betaling van de   belastingen en toebehoren.<BR></P>  <P>Het verzoek tot spreiding van betaling, vermeld in het eerste lid, moet   worden gemotiveerd en moet bewijskrachtige elementen bevatten met betrekking tot   de financiële toestand van de verzoeker.<BR></P>  <P>Het bevoegde personeelslid kan het verzoek inwilligen.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 geldt voor het eurovignet de volgende   regeling : de belastingschuldigen die er telkens schriftelijk en gemotiveerd om   verzoeken vóór de aanvang van het belastbare tijdperk, mogen het jaarbedrag van   de belasting betalen in vier stortingen per achtereenvolgende periode van drie   opeenvolgende maanden.<BR></P>  <P>Voor de eerste drie stortingen wordt het verschuldigde bedrag berekend tegen   het tarief, vermeld in artikel 2.4.4.0.1, tweede lid. De vierde storting is   gelijk aan het verschil tussen het bedrag dat al betaald is voor het belastbare   tijdperk, en het tarief, vermeld in artikel 2.4.4.0.1, eerste lid.<BR></P>  <P>De Vlaamse Regering bepaalt de toepassingsvoorwaarden van deze paragraaf in   geval van schrapping, wijziging of vervanging van het belastbare   voertuig.<BR></P>
+<p>§ 1. De belastingschuldige kan verzoeken om spreiding van betaling van de belastingen en toebehoren.</p>
+
+<p>Het verzoek tot spreiding van betaling, vermeld in het eerste lid, moet worden gemotiveerd en moet bewijskrachtige elementen bevatten met betrekking tot de financiële toestand van de verzoeker.</p>
+
+<p>Het bevoegde personeelslid kan het verzoek inwilligen.</p>
+
+<p>§ 2. ...</p>
 
 ## Hoofdstuk 5 Bezwaar
 
@@ -4995,6 +5040,8 @@ Het recht op ontheffing vervalt bij elke vervreemding onder de levenden van het 
 <br>
 § 2. Wat de registratiebelasting betreft, verleent het bevoegde personeelslid ook ontheffing van de registratiebelasting op voorwaarde dat een verzoek is ingediend binnen een termijn van vijf jaar vanaf 1 januari van het jaar waarin het recht tot teruggave is ontstaan, waarin wordt aangetoond dat een onroerend goed dat door de verkoper of zijn rechtsvoorgangers is verkregen bij een akte waarop het verkooprecht met toepassing van artikel 2.9.4.1.1 is voldaan, wordt wederverkocht. De ontheffing ten voordele van de wederverkoper beperkt zich in dat geval tot drie vijfde van het verkooprecht dat geheven is.<br>
 <br>
+In afwijking van het eerste lid is de ontheffing beperkt tot drie vijfde van het wettelijk aandeel van de wederverkoper in het verkooprecht dat is betaald bij de verkrijging van het onroerend goed met toepassing van artikel 2.9.4.1.1, als de wederverkoper een onroerend goed wederverkoopt dat hij gedeeltelijk heeft verkregen bij een verdeling of een afstand die gelijkstaat met verdeling. De persoon door wie een deel van het onroerend goed aan de wederverkoper is afgestaan bij een verdeling of een afstand die gelijkstaat met verdeling, kan ook ontheffing vragen van drie vijfde van zijn wettelijk aandeel in het verkooprecht dat is betaald bij de verkrijging van het onroerend goed met toepassing van artikel 2.9.4.1.1.<br>
+<br>
 De wederverkoop, vermeld in het eerste lid, moet bij authentieke akte vastgesteld zijn binnen twee jaar na de datum van de authentieke akte van verkrijging.<br>
 <br>
 Als de verkrijging of de wederverkoop heeft plaatsgevonden onder een opschortende voorwaarde, wordt de termijn van wederverkoop berekend op basis van de datum waarop die voorwaarde is vervuld.<br>
@@ -5121,7 +5168,7 @@ Het bevoegde personeelslid moet een herinneringsbrief sturen ten minste   één 
 
 <p>§ 2. De onroerende voorheffing die wordt ingekohierd op naam van verschillende natuurlijke personen of rechtspersonen kan, behalve in geval van andersluidende wetsbepalingen, slechts ten laste van elk van hen worden ingevorderd voor het gedeelte dat verband houdt met hun aandeel in het onroerend goed. Het kohier is uitvoerbaar tegen elk van hen in de mate dat de aanslag ten laste van die natuurlijke personen of rechtspersonen kan worden ingevorderd op grond van het gemeen recht of op grond van de bepalingen van deze codex.</p>
 
-<p>De verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet, de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing, de leegstandsheffing bedrijfsruimten, de&nbsp;heffing ongeschikte en onbewoonbare woningen, de heffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, de belasting op de spelen en weddenschappen of de belasting op de automatische ontspanningstoestellen,, die ingekohierd is op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende bepalingen in deze codex, ten laste van elk van hen worden ingevorderd. De belastingschuldigen zijn hoofdelijk gehouden tot betaling van de belasting.<br>
+<p>De verkeersbelasting, de belasting op de inverkeerstelling, de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing, de leegstandsheffing bedrijfsruimten, de&nbsp;heffing ongeschikte en onbewoonbare woningen, de heffing, vermeld in titel II, hoofdstuk VI, afdeling 2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, de belasting op de spelen en weddenschappen of de belasting op de automatische ontspanningstoestellen,, die ingekohierd is op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende bepalingen in deze codex, ten laste van elk van hen worden ingevorderd. De belastingschuldigen zijn hoofdelijk gehouden tot betaling van de belasting.<br>
 <br>
 De registratiebelasting, die wordt ingekohierd op naam van verschillende natuurlijke personen of rechtspersonen, kan, behalve in geval van andersluidende wetsbepalingen, alleen ten laste van elk van hen worden ingevorderd voor het gedeelte dat verband houdt met hun aandeel in het goed dat het voorwerp uitmaakt van de overeenkomst. Het kohier is uitvoerbaar tegen elk van hen in de mate dat de aanslag ten laste van die natuurlijke of rechtspersonen kan worden ingevorderd op grond van het gemeen recht of op grond van de bepalingen van deze codex.</p>
 
@@ -5129,7 +5176,7 @@ De registratiebelasting, die wordt ingekohierd op naam van verschillende natuurl
 
 ### ART. 3.10.3.1.2.
 
-De met erfstelling bezwaarde erfgenaam die de aangifte, vermeld in artikel   3.3.1.0.6, eerste lid, 5°, niet indient, en de personen die zijn veroordeeld als   daders of medeplichtigen van misdrijven als vermeld in artikel 3.15.3.0.1 en   artikel 3.15.3.0.2, zijn inzake de erfbelasting met de belastingschuldige   hoofdelijk gehouden tot de betaling van de belastingen en toebehoren, die door   de inbreuk ontdoken werden, en, in voorkomend geval, van de   nalatigheidsinteresten en van de administratieve geldboetes en de   belastingverhogingen.
+De met erfstelling bezwaarde erfgenaam die de aangifte in het geval, vermeld in artikel 3.3.1.0.6, eerste lid, 5°, niet indient, is&nbsp;inzake de erfbelasting met de belastingschuldige hoofdelijk gehouden tot de betaling van de belastingen en toebehoren, die door de inbreuk ontdoken werden, en, in voorkomend geval, van de nalatigheidsinteresten en van de administratieve geldboetes en de belastingverhogingen.
 
 ### ART. 3.10.3.1.3.
 
@@ -5330,7 +5377,7 @@ Met behoud van de toepassing van artikel 87 van de Hypotheekwet van 16   decembe
 
 ### ART. 3.10.5.3.6.
 
-&nbsp;Het bevoegde personeelslid verleent handlichting in de   administratieve vorm zonder dat hij, tegenover de hypotheekbewaarder, ertoe   gehouden is verantwoording van de betaling van de verschuldigde sommen te   verstrekken.<BR>
+&nbsp;Het bevoegde personeelslid verleent handlichting in de administratieve vorm zonder dat hij ertoe gehouden is verantwoording van de betaling van de verschuldigde sommen te verstrekken.
 
 ### ART. 3.10.5.3.7.
 
@@ -5416,7 +5463,9 @@ Artikel 3.12.1.0.1 tot en met 3.12.1.0.6 zijn van toepassing op elke   persoon d
 
 ### ART. 3.12.1.0.9.
 
-<P>Geen akte die in het buitenland verleden is en de vervreemding of de   hypothecaire aanwending van een onroerend goed, een schip of een vaartuig tot   voorwerp heeft, wordt in België tot overschrijving of inschrijving in de   registers van een hypotheekbewaarder toegelaten, als er niet een attest bij   gevoegd is van het bevoegde personeelslid in het ambtsgebied van wie het   onroerend goed ligt en, in voorkomend geval, van het bevoegde personeelslid in   het ambtsgebied van wie de betrokkene zijn woonplaats of zijn hoofdinrichting   heeft.<BR></P>  <P>Het attest, vermeld in het eerste lid, geeft er blijk van dat de eigenaar of   de vruchtgebruiker geen belastingen schuldig is of dat de wettelijke hypotheek   die de verschuldigde belastingen waarborgt, ingeschreven   is.<BR></P>
+<p>Geen akte die in het buitenland verleden is en de vervreemding of de hypothecaire aanwending van een onroerend goed, een schip of een vaartuig tot voorwerp heeft, wordt in België tot overschrijving of inschrijving in de registers van de hypothecaire openbaarmaking of in de registers van het Belgisch Scheepsregister toegelaten, als er niet een attest bij gevoegd is van het bevoegde personeelslid in het ambtsgebied van wie het onroerend goed ligt en, in voorkomend geval, van het bevoegde personeelslid in het ambtsgebied van wie de betrokkene zijn woonplaats of zijn hoofdinrichting heeft.</p>
+
+<p>Het attest, vermeld in het eerste lid, geeft er blijk van dat de eigenaar of de vruchtgebruiker geen belastingen schuldig is of dat de wettelijke hypotheek die de verschuldigde belastingen waarborgt, ingeschreven is.</p>
 
 ### ART. 3.12.1.0.10.
 
@@ -5609,6 +5658,10 @@ Als de invoerder, de fabrikant of al wie rechtstreeks of onrechtstreeks als dusd
 
 ## [Afdeling [5 (verv. decr. 20 november 2020, art. 8)][. Verplichtingen in het kader van de burgerlijke vordering (ing. Decr. 21 december 2018, art. 47, I: 7 januari 2019)]
 
+### ART 3.12.5.0.1.
+
+De bepalingen van deze codex doen geen afbreuk aan het recht van het Vlaamse Gewest om het herstel van de schade te vorderen die kan bestaan uit de niet-betaling van de belastingen en toebehoren, door een burgerlijkepartijstelling of door een aansprakelijkheidsvordering.
+
 ## Hoofdstuk 13 Onderzoek en controle
 
 ## Afdeling 1 Administratieve controle
@@ -5741,9 +5794,11 @@ Met behoud van de bevoegdheden die toevertrouwd worden aan de andere   officiere
 
 ### ART. 3.13.2.0.4.
 
-<p>§ 1. Als de niet-betaling van de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de kilometerheffing wordt vastgesteld op de openbare weg, moet de bestuurder van het voertuig dat aan een van die belastingen onderhevig is, de niet-betaalde belasting en de boete samen met de interesten en kosten op het ogenblik van de vaststelling van de overtreding betalen aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.</p>
-
-<p>§ 2. In geval van niet-betaling van de sommen, vermeld in paragraaf 1, op het ogenblik van de vaststelling van de overtreding, wordt het voertuig door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, aangehaald tot de verschuldigde sommen betaald zijn.</p>
+<p>§ 1. Als de niet-betaling van de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de administratieve geldboetes die worden opgelegd ingevolge overtredingen van de regelgeving inzake de kilometerheffing wordt vastgesteld op de openbare weg, moet de bestuurder van het voertuig dat aan een van die belastingen onderhevig is, de niet-betaalde belastingen en toebehoren die voor het gecontroleerde voertuig verschuldigd zijn op het ogenblik van de vaststelling van de overtreding dadelijk&nbsp;betalen aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.<br>
+<br>
+Als het gecontroleerde voertuig ingeschreven staat op naam van de bestuurder of op naam van zijn echtgenoot, wettelijk samenwonende partner of kind, betaalt de bestuurder alle openstaande belastingen en toebehoren inzake de verkeersbelasting, de belasting op de inverkeerstelling, het eurovignet of de administratieve geldboetes kilometerheffing, die de houder van de nummerplaat verschuldigd is op het ogenblik dat de overtreding wordt vastgesteld, dadelijk aan het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3.<br>
+<br>
+§ 2. In geval van niet-betaling van de sommen, vermeld in paragraaf 1, op het ogenblik van de vaststelling van de overtreding, wordt het voertuig door het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, aangehaald tot de verschuldigde sommen betaald zijn.</p>
 
 <p>Het bevoegde personeelslid, vermeld in artikel 3.13.2.0.3, stelt in het geval, vermeld in het eerste lid, een verslag van vaststelling van aanhaling op.</p>
 
@@ -5799,11 +5854,22 @@ De termijn, vermeld in artikel 3.14.1.0.1, kan worden gestuit op de wijze,   ver
 
 ### ART. 3.14.3.0.1.
 
-<P>Elk rechtsgeding met betrekking tot de toepassing of de invordering van de   belastingen, vermeld in deze codex, dat wordt ingesteld door het Vlaamse Gewest,   door de schuldenaar van de belastingen of door iedere andere persoon die   gehouden is tot de betaling van de schuld met toepassing van deze codex, van de   besluiten die genomen zijn ter uitvoering ervan, of van het gemeen recht,   schorst de verjaring.<BR></P>  <P>Het bezwaar en de aanvraag tot ontheffing, vermeld in artikel   3.6.0.0.1,&nbsp;artikel 3.6.0.0.4 en artikel 3.6.0.0.6, schorsen de verjaring   ook.<BR></P>
+<p>Elk rechtsgeding met betrekking tot de vestiging, de inning of de invordering van de belastingen, vermeld in deze codex, dat wordt ingesteld door het Vlaamse Gewest, door de schuldenaar van de belastingen of door iedere andere persoon die gehouden is tot de betaling van de schuld met toepassing van deze codex, van de besluiten die genomen zijn ter uitvoering ervan, of van het gemeen recht, schorst de verjaring.</p>
+
+<p>Het bezwaar en de aanvraag tot ontheffing, vermeld in artikel 3.6.0.0.1,&nbsp;artikel 3.6.0.0.4 en artikel 3.6.0.0.6, schorsen de verjaring ook.</p>
 
 ### ART. 3.14.3.0.2.
 
 <P>In het geval, vermeld in artikel 3.14.3.0.1, eerste lid, vangt de schorsing   aan met de inleidende vordering en eindigt als de rechterlijke beslissing in   kracht van gewijsde is gegaan.<BR></P>  <P>In het geval, vermeld in artikel 3.14.3.0.1, tweede lid, vangt de schorsing   aan met het verzoek waarbij het administratief beroep wordt ingeleid. Ze eindigt   :<BR>1° als de belastingplichtige een rechtsvordering heeft ingesteld, op de dag   dat de rechterlijke beslissing in kracht van gewijsde is gegaan;<BR>2° in de   andere gevallen, na verloop van de termijn die voor de belastingplichtige   openstaat om een beroep in te stellen tegen de administratieve   beslissing.<BR></P>
+
+### ART 3.14.3.0.3.
+
+Elke daad van onderzoek of van vervolging als vermeld in artikel 22 van de Voorafgaande Titel van het Wetboek van Strafvordering, betreffende de misdrijven, vermeld in artikel 3.15.3.0.1 tot en met 3.15.3.0.4 van deze codex, schorst de verjaring van de belastingen die erop betrekking hebben.<br>
+<br>
+De schorsing begint bij het opstarten van de strafvordering, en eindigt op een van de volgende momenten:<br>
+1° als de strafrechtelijke vervolging wordt gestaakt;<br>
+2° als de strafvordering vervalt;<br>
+3° als het vonnis of arrest in kracht van gewijsde is gegaan voor de misdrijven, vermeld in het eerste lid.
 
 ## Hoofdstuk 15 Strafrechtelijke vervolging
 
@@ -5859,7 +5925,15 @@ De wet van 5 maart 1952 betreffende de opdecimes op de strafrechterlijke   geldb
 
 ### ART. 3.15.3.0.9.
 
-<P>Personen die als daders of als medeplichtigen van misdrijven als vermeld in   artikel 3.15.3.0.1 tot en met 3.15.3.0.4, zijn veroordeeld, zijn hoofdelijk   gehouden tot betaling van de ontdoken belasting.</P>  <P>De natuurlijke personen of de rechtspersonen zijn burgerlijk en hoofdelijk   aansprakelijk voor de geldboeten en kosten die het gevolg zijn van de   veroordelingen die met toepassing van artikel 3.15.3.0.1 tot en met 3.15.3.0.7   tegen hun gemachtigden of bedrijfsleiders zijn uitgesproken.</P>
+<p>Personen die als daders of als medeplichtigen van misdrijven als vermeld in artikel 3.15.3.0.1 tot en met 3.15.3.0.4, zijn veroordeeld, zijn hoofdelijk gehouden tot betaling van de ontdoken belasting en de nalatigheidsintresten verschuldigd door de belastingplichtige.<br>
+<br>
+De personen die beschuldigd zijn als daders of als medeplichtigen van misdrijven als vermeld in artikel 3.15.3.0.1 tot en met 3.15.3.0.4, zijn ook hoofdelijk gehouden tot betaling van de ontdoken belasting en de nalatigheidsinteresten, vermeld in het eerste lid, als de bestanddelen van de misdrijven bewezen verklaard zijn, en als ze genieten van:<br>
+1° een opschorting van de uitspraak van de veroordeling of een uitstel van de tenuitvoerlegging van de straffen als vermeld in hoofdstuk III en hoofdstuk IV van de wet van 29 juni 1964 betreffende de opschorting, het uitstel en de probatie;<br>
+2° een veroordeling bij eenvoudige schuldigverklaring als vermeld in artikel 21ter van de Voorafgaande Titel van het Wetboek van Strafvordering;<br>
+3° de procedure van voorafgaande erkenning van schuld, vermeld in artikel 216 van het Wetboek van Strafvordering;<br>
+4° de verjaring van de strafvordering.</p>
+
+<p>De natuurlijke personen of de rechtspersonen zijn burgerlijk en hoofdelijk aansprakelijk voor de geldboeten en kosten die het gevolg zijn van de veroordelingen die met toepassing van artikel 3.15.3.0.1 tot en met 3.15.3.0.7 tegen aangestelden of hun bestuurders, zaakvoerders of vereffenaars, in het kader van de uitoefening van hun functie, in rechte of in feite, zijn uitgesproken.</p>
 
 ### ART. 3.15.3.0.10.
 
@@ -6036,11 +6110,13 @@ Het bevoegde personeelslid kan de administratieve geldboete, vermeld in het vier
 <br>
 Het bevoegde personeelslid kan de administratieve geldboetes, vermeld in het vierde lid, voor hetzelfde type van overtreding begaan binnen een beperkte tijdspanne verminderen als de belastingplichtige te goeder trouw handelde.<br>
 <br>
-§ 5. De administratieve geldboeten, vermeld in paragraaf 1 tot en met paragraaf 4, eerste lid, worden ingevorderd volgens de regels die van toepassing zijn op de overeenstemmende belasting.</p>
+§ 5. De administratieve geldboeten, vermeld in paragraaf 1 tot en met paragraaf 4,&nbsp;worden ingevorderd volgens de regels die van toepassing zijn op de overeenstemmende belasting.<br>
+<br>
+De administratieve geldboeten, vermeld in paragraaf 4/1, worden ingevorderd conform de bepalingen van titel 3, met uitzondering van artikel 3.1.0.0.1, eerste en tweede lid, en de bepalingen die louter betrekking hebben op een andere belasting als vermeld in titel 2 dan de kilometerheffing.</p>
 
 ### ART. 3.18.0.0.2.
 
-<p>In geval van overtreding van de bepalingen van het eurovignet, alsook van de ter uitvoering ervan genomen besluiten, wordt het ontdoken bedrag van de belasting verhoogd volgens een schaal, zoals vastgesteld door de Vlaamse Regering. Die verhoging mag niet meer dan drie keer het bedrag van de ontdoken belasting en niet minder dan 250 euro bedragen.</p>
+...
 
 ### ART. 3.18.0.0.3.
 
@@ -6088,7 +6164,7 @@ Een belastingverhoging van 20 % van de registratiebelasting, respectievelijk van
 7° /1 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.11, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.11, § 2, eerste lid, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.11, § 3, 1°;<br>
 7° /2 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, vervalt bij gebrek aan tijdige uitvoering van de renovatie, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 1°, of bij gebrek aan naleving van de voorwaarde, vermeld in artikel 2.9.4.2.12, § 1, eerste lid, 2° ;<br>
 7° /3 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.12, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.12, § 2, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.12, § 2, 1° ;<br>
-7° /4 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.13, § 1, vervalt bij gebrek aan tijdige verhuring als vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 1°, of bij gebrek aan tijdige indiening van de bewijsstukken, vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 2° ;<br>
+7° /4 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.13, § 1, vervalt bij gebrek aan tijdige verhuring als vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 1°, of bij gebrek aan tijdige indiening van de bewijsstukken, vermeld in artikel 2.9.4.2.13, § 1, eerste lid, 2°, of bij vroegtijdige beëindiging van de huurovereenkomst of bij gebrek aan tijdige kennisgeving hiervan als vermeld in artikel 2.9.4.2.13, § 4;<br>
 7° /5 de verkrijger, als het verlaagd tarief, vermeld in artikel 2.9.4.2.14, § 1, vervalt bij gebrek aan inschrijving binnen de termijn, vermeld in artikel 2.9.4.2.11, § 2, eerste lid, 2° ;<br>
 7° /6 de verkrijger, als het verlaagde tarief, vermeld in artikel 2.9.4.2.14, § 1, vervalt bij gebrek aan vervreemding van de woning of de bouwgrond en waarmee voor de toepassing van artikel 2.9.4.2.11, § 2, eerste lid, 1°, geen rekening is gehouden binnen de termijn, vermeld in artikel 2.9.4.2.14, § 5, 1° ;<br>
 8° de persoon die een beroepsverklaring heeft ondertekend, als hij bij het verstrijken van een termijn van vijf jaar na die verklaring niet bij machte is om door een reeks wederverkopen te laten blijken dat hij het aangegeven beroep werkelijk uitoefent, zoals voorgeschreven door artikel 2.9.4.2.4, § 4;<br>
@@ -6350,11 +6426,11 @@ De belastingen, vermeld in artikel 3, eerste lid, 4° en 6° tot en met 8°,   v
 
 ### ART. 5.0.0.0.12.
 
-<P>Op aanvraag van de belastingschuldige wordt voor de voertuigen die in België   ingeschreven zijn of ingeschreven moeten zijn en waarvan de aangiftes, vermeld   in artikel 3.3.1.0.3, voor 1 november 2015 werden onderschreven of   overeenkomstig artikel 3.3.1.0.3, vierde lid, werden verlengd, een evenredige   teruggave van het eurovignet verleend voor de resterende dagen van de belastbare   periode van het eurovignet die betrekking hebben op de periode vanaf 1 april   2016.<BR><BR>Voor de berekening van het terug te betalen bedrag wordt toepassing   gemaakt van de volgende formule:<BR>JV x r/365 dagen,<BR>waarbij:<BR>1° JV = het   toepasselijke tarief van een eurovignet met een geldigheidsduur van een jaar als   vermeld in artikel 2.4.4.0.1;<BR>2° r = het resterend aantal dagen waarvoor al   betaald werd, te rekenen vanaf 1 april 2016 tot het einde van de geldigheidsduur   van het eurovignet.<BR><BR>Artikel 3.4.7.0.4 is niet van toepassing.<BR><BR>Op   straffe van verval gebeurt de aanvraag, vermeld in het eerste lid, ten vroegste   op 1 januari 2016 en uiterlijk op 1 mei 2016.</P>
+...
 
 ### ART. 5.0.0.0.13.
 
-§ 1. In afwijking van artikel 2.4.7.0.2, is voor de aangiftes, vermeld in   artikel 3.3.1.0.3, die betrekking hebben op voertuigen die in België   ingeschreven zijn of ingeschreven moeten zijn en die vanaf 1 november 2015 zijn   onderschreven of overeenkomstig artikel 3.3.1.0.3, vierde lid, werden verlengd,   het eurovignet slechts verschuldigd voor het aantal termijnen van een maand,   begonnen voor 1 april 2016.<BR><BR>Om het verschuldigde bedrag te berekenen,   wordt de volgende formule toegepast :<BR>JV/12 x M,<BR>waarbij :<BR>1° JV = het   toepasselijke tarief van een eurovignet met een geldigheidsduur van een jaar als   vermeld in artikel 2.4.4.0.1;<BR>2° M = het aantal termijnen van een maand die   begonnen zijn voor 1 april 2016.<BR><BR>§ 2. Het bevoegde personeelslid verleent   een evenredige teruggave van het overeenkomstig paragraaf 1 betaalde eurovignet   dat betrekking heeft op de periode vanaf 1 april 2016.<BR><BR>Voor de berekening   van het terug te betalen bedrag wordt de volgende formule toegepast :<BR>JV x   r/365 dagen,<BR>waarbij :<BR>1° JV = het toepasselijke tarief van een eurovignet   met een geldigheidsduur van een jaar als vermeld in artikel 2.4.4.0.1;<BR>2° r =   het resterende aantal dagen waarvoor al betaald werd, te rekenen vanaf 1 april   2016.<BR><BR>Artikel 3.4.7.0.4 is niet van toepassing.
+...
 
 ### ART 5.1.0.0.14.
 
