@@ -73,7 +73,11 @@ Hij draagt de titel "Vlaams minister van Werk, Economie, Innovatie en Sport".<br
 <br>
 Zij draagt de titel "Vlaams minister van Omgeving, Natuur en Landbouw".<br>
 <br>
-§ 10. ...</p>
+§ 10. Mevrouw Lydia Peeters, is bevoegd voor:<br>
+1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
+2° het beleidsveld energie.<br>
+<br>
+Zij draagt de titel "Vlaams minister van Begroting, Financiën en Energie".</p>
 
 ### ART. 3.
 
@@ -208,7 +212,10 @@ s) het Vlaams Landbouwinvesteringsfonds;<br>
 t) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
 u) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;<br>
 <br>
-10° ...
+10° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
+a) de Vlaamse Belastingdienst;<br>
+b) het Vlaams Fonds voor de Lastendelging;<br>
+c) het Vlaams Energieagentschap;
 
 ### ART. 4.
 
