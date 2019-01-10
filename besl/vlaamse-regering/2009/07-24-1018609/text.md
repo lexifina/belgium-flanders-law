@@ -633,7 +633,7 @@ f) de zorg voor veiligheid en hygiëne in de woning;<br>
 13° doelgroepwerknemer : de persoon die schoonmaakhulp, karweihulp en oppashulp uitvoert in het kader van de lokale diensteneconomie;<br>
 14° omkaderingspersoneel: de personen die belast zijn met de begeleiding van de doelgroepwerknemer met toepassing van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 15° wijkwerking : het overleg van een groep personeelsleden van een dienst voor gezinszorg en aanvullende thuiszorg, die onder supervisie van een begeleidend personeelslid staat en verantwoordelijk is voor de hulp- en dienstverlening in een bepaald gebied. Dat overleg gebeurt met het oog op het verlenen van een gebruikersgerichte, doelmatige, doeltreffende, continue en maatschappelijk verantwoorde hulp- en dienstverlening;<br>
-16° VVDG : de Vereniging van de Diensten voor Gezinszorg van de Vlaamse Gemeenschap;<br>
+16° VVDG: Zorggezind, de koepelorganisatie van de erkende diensten voor gezinszorg van de Vlaamse Gemeenschap;<br>
 17° VVSG : de Vereniging van Vlaamse Steden en Gemeenten;<br>
 18° VTE : voltijds equivalent;<br>
 19° Vesta: het systeem van elektronische gegevensuitwisseling waarvan elke dienst voor gezinszorg en aanvullende thuiszorg moet gebruikmaken om de gegevens over zijn personeel en zijn gebruikers, die nodig zijn om de subsidies te berekenen en om operationele en beleidsinformatie te genereren, aan het agentschap te bezorgen;<br>
