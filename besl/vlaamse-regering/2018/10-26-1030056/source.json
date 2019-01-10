@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030056,
+  "title": "Besluit van de Vlaamse Regering van 2018-10-26 houdende gedeeltelijke herverdeling van de provisie CB0-1CB-B-2-AB -PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030056/VolledigDocument?datum=2019-01-10",
+  "source_sha256": "22719bbcf1dd5783e4bfc2e9b54a16f26577c74e85363d213b9f55f4c81312af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030056&param=informatie",
+  "as_of": "2019-01-10",
+  "made": "2018-10-26",
+  "gazette": "2018-12-31",
+  "numac": 2018015386,
+  "document_start": "2019-01-10",
+  "document_end": null,
+  "in_force": "2019-01-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
