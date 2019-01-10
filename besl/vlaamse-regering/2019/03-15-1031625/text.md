@@ -26,6 +26,11 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
+### ART 1.
+
+In artikel 1 van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 september 2018, wordt punt 16° vervangen door wat volgt:<br>
+"16° VVDG: Zorggezind, de koepelorganisatie van de erkende diensten voor gezinszorg van de Vlaamse Gemeenschap;".
+
 ### ART 2.
 
 In artikel 10 van bijlage I bij hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 21 december 2012, 25 april 2014 en 26 februari 2016,<br>
