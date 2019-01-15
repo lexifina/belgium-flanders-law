@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029966,
+  "title": "Ministerieel besluit van 2018-11-23 tot uitvoering van artikel 153/1 van het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029966/VolledigDocument?datum=2019-01-15",
+  "source_sha256": "ccf2c42d1677775e132b5bef828d1d9b5b2f875ddd114bd11d684704656f72c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029966&param=informatie",
+  "as_of": "2019-01-15",
+  "made": "2018-11-23",
+  "gazette": "2018-12-07",
+  "numac": 2018015082,
+  "document_start": "2019-01-15",
+  "document_end": null,
+  "in_force": "2019-01-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-01-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
