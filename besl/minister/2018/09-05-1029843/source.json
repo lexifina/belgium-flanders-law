@@ -2,16 +2,16 @@
   "codex_id": 1029843,
   "title": "Ministerieel besluit van 2018-09-05 tot wijziging van diverse formulieren behorend bij het omgevingsvergunningenbesluit",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029843/VolledigDocument?datum=2018-10-20",
-  "source_sha256": "38cba08b520edc256924bdfbdeb74013a43d08ea7e81e2e6b8471f2d6f91ac5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029843/VolledigDocument?datum=2019-01-15",
+  "source_sha256": "44eafe0efaec041234b8ec58fb7678d05bb73e27f20c810680b6f08d8173aac2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029843&param=informatie",
-  "as_of": "2018-10-20",
+  "as_of": "2019-01-15",
   "made": "2018-09-05",
   "gazette": "2018-10-19",
   "numac": 2018014315,
   "document_start": "2018-10-20",
   "document_end": null,
-  "in_force": "2018-10-20",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2018-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-01-15",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2019-01-15; future article versions excluded; article text as the API gives it"
 }

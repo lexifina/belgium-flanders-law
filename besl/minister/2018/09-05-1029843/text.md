@@ -12,9 +12,19 @@ Besluit :
 
 In bijlage 1 bij het besluit van de Vlaamse Regering van 27 november 2015 tot uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning, vervangen bij het besluit van de Vlaamse Regering van 9 maart 2018, worden de onderdelen 2, 7, 8 en 12 vervangen door de onderdelen 2, 7, 8 en 12, zoals opgenomen in bijlage 1 gevoegd bij dit besluit.
 
+### ART 2.
+
+In bijlage 1 bij hetzelfde besluit van de Vlaamse Regering, vervangen bij het besluit van de Vlaamse Regering van 9 maart 2018, wordt het onderdeel 6 vervangen door het onderdeel 6, zoals opgenomen in bijlage 1 gevoegd bij dit besluit.
+
 ### ART 3.
 
 In bijlage 2 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017 en het besluit van de Vlaamse Regering van 9 maart 2018, wordt het addendum B30 vervangen door het addendum B30, zoals opgenomen in bijlage 2, gevoegd bij dit besluit.
+
+### ART 4.
+
+In bijlage 2 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 16 januari 2017 en gewijzigd bij het ministerieel besluit van 7 juni 2017 en het besluit van de Vlaamse Regering van 9 maart 2018, worden de volgende wijzigingen aangebracht :<br>
+1° de addenda C6, E3, R53 worden vervangen door de addenda met dezelfde letter-nummercombinatie, zoals opgenomen in bijlage 2, gevoegd bij dit besluit;<br>
+2° het addendum D5, zoals opgenomen in bijlage 2, gevoegd bij dit besluit, wordt ingevoegd.
 
 ### ART 5.
 
