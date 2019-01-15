@@ -2,16 +2,16 @@
   "codex_id": 1028790,
   "title": "Ministerieel besluit van 2017-10-19 betreffende de aanwijzing van personeelsleden belast met de opsporing en de vaststelling van de overtredingen van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028790/VolledigDocument?datum=2017-10-19",
-  "source_sha256": "4c3bca3c25a9b6b53cf9838b4dde881b4ec5130ced89aed8f7e85476ac8d0783",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028790/VolledigDocument?datum=2019-01-15",
+  "source_sha256": "4a1287b2e3169a391b745e6212afea819a0aaa9648bbd6884360389df1f2d9c1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028790&param=informatie",
-  "as_of": "2017-10-19",
+  "as_of": "2019-01-15",
   "made": "2017-10-19",
   "gazette": "2017-12-06",
   "numac": 2017040892,
   "document_start": "2017-10-19",
   "document_end": "2019-01-14",
-  "in_force": "2017-10-19",
+  "in_force": "2019-01-15",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2017-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-15; future article versions excluded; article text as the API gives it"
 }

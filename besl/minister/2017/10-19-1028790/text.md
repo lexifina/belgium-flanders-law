@@ -14,29 +14,16 @@ Besluit :
 
 ### ART 1.
 
-De volgende statutaire en contractuele personeelsleden van de subentiteit bevoegd voor het dierenwelzijn van het Departement Omgeving van de Vlaamse overheid worden overeenkomstig artikel 34, § 1, eerste lid, tweede streepje van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren aangewezen voor het opsporen en het vaststellen van de overtredingen van voormelde wet en van haar uitvoeringsbesluiten:<br>
-1° Tsang Tsey Chow<br>
-2° Els Goossens<br>
-3° Eveline Roose<br>
-4° Inge Van den Bossche<br>
-5° Wendy Vandensteen<br>
-6° Elke Vleugels.
+...
 
 ### ART 2.
 
-De volgende statutaire en contractuele personeelsleden van de subentiteit bevoegd voor het dierenwelzijn van het Departement Omgeving van de Vlaamse overheid worden overeenkomstig artikel 34, § 1, eerste lid, derde streepje van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren aangewezen voor het opsporen en het vaststellen van de overtredingen van voormelde wet en van haar uitvoeringsbesluiten:<br>
-1° Anneleen Bulens<br>
-2° Lies De Meulenaere<br>
-3° Mathy De Preter<br>
-4° Marjan Docx<br>
-5° Griet Ducheyne<br>
-6° Joeri Larivière<br>
-7° Inge Stoop.
+...
 
 ### ART 3.
 
-Een afschrift van dit besluit wordt aan de betrokken personeelsleden overgemaakt.
+...
 
 ### ART 4.
 
-Dit besluit treedt in werking op de datum van ondertekening.
+...
