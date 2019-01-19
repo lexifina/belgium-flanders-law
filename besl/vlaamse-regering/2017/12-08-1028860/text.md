@@ -449,9 +449,41 @@ De notulen van de algemene vergadering worden ondertekend door de voorzitter, de
 
 ## Afdeling 1 De opmaak van de begroting
 
+### ART 35.
+
+Overeenkomstig de bepalingen van het rekendecreet stelt de raad van bestuur jaarlijks een begroting op alsook de jaarlijkse evaluatie(s) en de aanpassingen van de begroting aan de gewijzigde omstandigheden en aan de gewijzigde betoelagingen.<br>
+<br>
+De raad van bestuur legt de ontwerpen van begroting voor aan de Vlaamse Regering binnen de vastgelegde termijn. De begroting van het agentschap wordt telkens goedgekeurd door de raad van bestuur en ter goedkeuring voorgelegd aan de Vlaamse Regering.
+
 ## Afdeling 2 Het voeren van de boekhouding
 
+### ART 36.
+
+Het agentschap voert een economische boekhouding met een analytische component, op basis waarvan de begrotingsopvolging en -rapportering permanent kunnen worden verzekerd.
+
+### ART 37.
+
+De boekhouding en de jaarrekening geven een getrouw beeld van het vermogen, de financiële positie en het resultaat van het agentschap.<br>
+<br>
+Het boekjaar loopt telkens van 1 januari tot en met 31 december.<br>
+<br>
+In de boekhouding worden alle verrichtingen opgenomen die een impact hebben op de bezittingen, vorderingen, schulden en verplichtingen, van welke aard ook.<br>
+<br>
+De boekhouding wordt gevoerd volgens de principes van de dubbele boekhouding.<br>
+<br>
+Met behoud van de toepassing van het rekendecreet voert het agentschap een boekhouding overeenkomstig de op het agentschap toepasselijke bepalingen inzake de boekhouding van de ondernemingen.
+
 ## Afdeling 3 Het opmaken van de jaarrekening en de rapportering
+
+### ART 38.
+
+De raad van bestuur stelt de jaarrekening op van het agentschap, bezorgt deze aan de Vlaamse Regering en rapporteert hierover overeenkomstig de bepalingen van het rekendecreet.
+
+### ART 39.
+
+Onverminderd de opmaak van de jaarrekening overeenkomstig artikel 38 stelt de raad van bestuur elk jaar een jaarrekening op overeenkomstig de bepalingen van het Wetboek van vennootschappen met betrekking tot de naamloze vennootschap. Die jaarrekening bestaat uit de balans, de resultatenrekening en de toelichting, en vormt een geheel.<br>
+<br>
+Deze jaarrekening wordt binnen een termijn van zes maanden na de afsluitingsdatum van het boekjaar door de raad van bestuur ter goedkeuring voorgelegd aan de algemene vergadering en vervolgens neergelegd overeenkomstig de bepalingen van het Wetboek van Vennootschappen.
 
 ## Afdeling 4 Bestemming van het boekhoudkundig resultaat
 
