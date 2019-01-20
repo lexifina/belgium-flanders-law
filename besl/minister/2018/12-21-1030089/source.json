@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030089,
+  "title": "Ministerieel besluit van 2018-12-21 houdende een oproep tot indiening van steunaanvragen als vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 april 2015 betreffende steun voor innovaties in de landbouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030089/VolledigDocument?datum=2019-01-20",
+  "source_sha256": "d237759a227fa5db918c27e6736afa399bfd2e107993de9a566013240ec9b4b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030089&param=informatie",
+  "as_of": "2019-01-20",
+  "made": "2018-12-21",
+  "gazette": "2019-01-10",
+  "numac": 2019040010,
+  "document_start": "2019-01-20",
+  "document_end": null,
+  "in_force": "2019-01-20",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-01-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
