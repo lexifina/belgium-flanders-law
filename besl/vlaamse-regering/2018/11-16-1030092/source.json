@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030092,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-16 tot ontwikkeling van de onderwijskwalificatie graduaat in de HVAC-systemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030092/VolledigDocument?datum=2019-01-21",
+  "source_sha256": "b657554d22a63562c0a9c545c6cc938416970e3c3ce4f6366d9e48dd48446288",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030092&param=informatie",
+  "as_of": "2019-01-21",
+  "made": "2018-11-16",
+  "gazette": "2019-01-11",
+  "numac": 2018015553,
+  "document_start": "2019-01-21",
+  "document_end": null,
+  "in_force": "2019-01-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
