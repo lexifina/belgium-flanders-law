@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030093,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-16 tot ontwikkeling van de onderwijskwalificatie graduaat in de verkeerskunde en de mobiliteit",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030093/VolledigDocument?datum=2019-01-21",
+  "source_sha256": "4370b7dd25398010918c9a306aafc6142053968a3f309a4ec3379a97ba3b872e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030093&param=informatie",
+  "as_of": "2019-01-21",
+  "made": "2018-11-16",
+  "gazette": "2019-01-11",
+  "numac": 2018015594,
+  "document_start": "2019-01-21",
+  "document_end": null,
+  "in_force": "2019-01-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
