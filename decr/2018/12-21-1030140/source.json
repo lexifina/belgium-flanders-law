@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030140,
+  "title": "Decreet van 2018-12-21 houdende instemming met het samenwerkingsakkoord van 30 mei 2018 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, van de richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming en van de richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030140/VolledigDocument?datum=2019-01-24",
+  "source_sha256": "aee081e3d04cf82a9a4d57f8a5612306a84ee666748a814ad1f8153613498114",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030140&param=informatie",
+  "as_of": "2019-01-24",
+  "made": "2018-12-21",
+  "gazette": "2019-01-24",
+  "numac": 2019030026,
+  "document_start": "2019-01-24",
+  "document_end": null,
+  "in_force": "2019-01-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
