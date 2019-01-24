@@ -2,16 +2,16 @@
   "codex_id": 1026494,
   "title": "Ministerieel besluit van 2016-02-02 Erkenning van kredietinstellingen ter uitvoering van artikel 7 betreffende de taken, het beheer en de werkwijze van het Vlaams Landbouwinvesteringsfonds en tot opheffing van het ministerieel besluit van 30 september 2005 tot erkenning van kredietinstellingen voor het toekennen van kredieten die in aanmerking komen voor steun van het Vlaams Landbouwinvesteringsfonds",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026494/VolledigDocument?datum=2016-02-29",
-  "source_sha256": "238541e718d0f75e079bfb59044d793a98ef75495212ece6c25e684cac7a636c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026494/VolledigDocument?datum=2019-01-24",
+  "source_sha256": "dd1f7a217fcc83924634cd40fbf1a798e607ba081fb690401c3683e3a08f41c7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026494&param=informatie",
-  "as_of": "2016-02-29",
+  "as_of": "2019-01-24",
   "made": "2016-02-02",
   "gazette": "2016-02-19",
   "numac": 2016200768,
   "document_start": "2016-02-29",
   "document_end": "2019-01-23",
-  "in_force": "2016-02-29",
+  "in_force": "2019-01-24",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2016-02-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-01-24; future article versions excluded; article text as the API gives it"
 }
