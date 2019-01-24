@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030098,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-16 tot ontwikkeling van de onderwijskwalificatie graduaat in de werkvoorbereiding hout",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030098/VolledigDocument?datum=2019-01-24",
+  "source_sha256": "f73389b79bc35718934f6917e075f0f42b56e05e2420e06cca5ef7fb550eabc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030098&param=informatie",
+  "as_of": "2019-01-24",
+  "made": "2018-11-16",
+  "gazette": "2019-01-14",
+  "numac": 2018040753,
+  "document_start": "2019-01-24",
+  "document_end": null,
+  "in_force": "2019-01-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
