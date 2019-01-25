@@ -9,9 +9,9 @@
 ### ART. 1.
 
 &nbsp;In dit besluit wordt verstaan onder:<br>
-1° Vlaamse Raad voor Dierenwelzijn, afgekort Raad: de Raad voor dierenwelzijn, vermeld in artikel 31 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
+1° Vlaamse Raad voor Dierenwelzijn, afgekort Raad: de Vlaamse Raad voor dierenwelzijn, vermeld in artikel 31 van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren;<br>
 2° minister: de Vlaamse minister, bevoegd voor het dierenwelzijn;<br>
-3° dienst: de dienst die bevoegd is voor het dierenwelzijn van het Departement Omgeving.
+3° dienst: de Dienst.
 
 ## HOOFDSTUK 2 Samenstelling, benoeming, ontslag en vergoeding
 
