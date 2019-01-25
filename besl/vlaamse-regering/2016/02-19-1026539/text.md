@@ -8,7 +8,9 @@ De   Vlaamse Regering,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   dienst: de overheidsdienst die belast is met het dierenwelzijn;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   verordening: verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009   inzake de bescherming van dieren bij het doden.
+In dit besluit wordt verstaan onder:<br>
+1° ...;<br>
+2° verordening: verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden.
 
 ### ART. 2.
 
