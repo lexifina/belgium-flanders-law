@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030107,
+  "title": "Ministerieel besluit van 2018-11-20 tot wijziging van het ministerieel besluit van 20 maart 2017 houdende de samenstelling van de begeleidingscommissie in uitvoering van het besluit van de Vlaamse Regering van 30 september 2016 betreffende het Pendelfonds",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030107/VolledigDocument?datum=2019-01-25",
+  "source_sha256": "df0e0175b7bf87db4b9839f0419b5d2df26ebe962e5e2c11cb6af65a2ef5b099",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030107&param=informatie",
+  "as_of": "2019-01-25",
+  "made": "2018-11-20",
+  "gazette": "2019-01-15",
+  "numac": 0,
+  "document_start": "2019-01-25",
+  "document_end": null,
+  "in_force": "2019-01-25",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
