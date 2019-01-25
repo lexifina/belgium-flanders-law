@@ -1473,21 +1473,55 @@ Dit besluit voorziet in de gedeeltelijke omzetting van de Vogelrichtlijn en de H
 
 ### ART. 3.
 
-§ 1. Dit besluit is van toepassing op :<br />1° inheemse soorten;<br />2° uitheemse vogelsoorten die van nature in het wild voorkomen op het Europese grondgebied van de Europese Unie, of andere uitheemse soorten dan vogels, die zijn opgenomen in bijlage IV van de Habitatrichtlijn of in bijlage II van het verdrag van Bern;<br />3° overige uitheemse soorten, voor de introductie van specimens van die soorten in het wild of de toepassing van beheerregelingen met betrekking tot in het wild voorkomende populaties ervan.<br /><br />§ 2. In afwijking van § 1 is dit besluit niet van toepassing op :<br />1° gedomesticeerde soorten, rassen of variëteiten. Dat zijn soorten, of rassen of variëteiten van een soort, die het resultaat zijn van menselijke domesticatieprocessen en die zich door middel van uiterlijke kenmerken onderscheiden van soorten, of rassen of variëteiten van soorten, die van nature in het wild voorkomen;<br />2° de genetisch gewijzigde organismen, vermeld in artikel 2, 2° van het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewuste introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organismen of van producten die er bevatten;<br />3° de diersoorten die onder het jachtwild vallen, vermeld in artikel 3 van het Jachtdecreet, behalve voor aspecten die niet geregeld worden in de regelgeving op het vlak van de jacht;<br />4° de diersoorten die vallen onder de wet van 1 juli 1954 op de riviervisserij, behalve voor aspecten die niet geregeld worden in de regelgeving op het vlak van de riviervisserij;<br />5° de dier- en plantensoorten die vallen onder het koninklijk besluit van 19 november 1987 betreffende de bestrijding van voor planten en voor plantaardige producten schadelijke organismen;<br />6° de uitheemse soorten, voor de in-, uit- en doorvoer, vermeld in artikel 6, § 1, III, 2°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br /><br />Als de soorten, vermeld in het eerste lid, 3° en 4°, zijn opgenomen in bijlage 1, die bij dit besluit is gevoegd, wordt er categorie 4 bij aangekruist.<br /><br />
+§ 1. Dit besluit is van toepassing op :<br>
+1° inheemse soorten;<br>
+2° uitheemse vogelsoorten die van nature in het wild voorkomen op het Europese grondgebied van de Europese Unie, of andere uitheemse soorten dan vogels, die zijn opgenomen in bijlage IV van de Habitatrichtlijn of in bijlage II van het verdrag van Bern;<br>
+3° overige uitheemse soorten, voor de introductie van specimens van die soorten in het wild of de toepassing van&nbsp;maatregelen met betrekking tot in het wild voorkomende populaties ervan.<br>
+4° invasieve uitheemse soorten die voorkomen op de lijst van voor de Europese Unie zorgwekkende invasieve uitheemse soorten vermeld in artikel 4, lid 1, van verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten. In het geval dat een soort onder zowel punt 3° als punt 4° valt, gelden bij voorrang de bepalingen van hoofdstuk 4/1, afdeling 1;<br>
+5° voor het Vlaamse Gewest zorgwekkende invasieve uitheemse soorten.<br>
+<br>
+§ 2. In afwijking van § 1 is dit besluit niet van toepassing op :<br>
+1° gedomesticeerde soorten, rassen of variëteiten. Dat zijn soorten, of rassen of variëteiten van een soort, die het resultaat zijn van menselijke domesticatieprocessen en die zich door middel van uiterlijke kenmerken onderscheiden van soorten, of rassen of variëteiten van soorten, die van nature in het wild voorkomen;<br>
+2° de genetisch gewijzigde organismen, vermeld in artikel 2, 2° van het koninklijk besluit van 21 februari 2005 tot reglementering van de doelbewuste introductie in het leefmilieu evenals van het in de handel brengen van genetisch gemodificeerde organismen of van producten die er bevatten;<br>
+3° de diersoorten die onder het jachtwild vallen, vermeld in artikel 3 van het Jachtdecreet, behalve voor aspecten die niet geregeld worden in de regelgeving op het vlak van de jacht;<br>
+4° de diersoorten die vallen onder de wet van 1 juli 1954 op de riviervisserij, behalve voor aspecten die niet geregeld worden in de regelgeving op het vlak van de riviervisserij;<br>
+5° de dier- en plantensoorten die vallen onder het koninklijk besluit van 19 november 1987 betreffende de bestrijding van voor planten en voor plantaardige producten schadelijke organismen;<br>
+6° de uitheemse soorten, voor de in-, uit- en doorvoer, vermeld in artikel 6, § 1, III, 2°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+<br>
+Als de soorten, vermeld in het eerste lid, 3° en 4°, zijn opgenomen in bijlage 1, die bij dit besluit is gevoegd, wordt er categorie 4 bij aangekruist.<br>
+<br>
+Deze paragraaf geldt niet voor de soorten vermeld in paragraaf 1, 4°, behoudens voor de soorten, vermeld in het eerste lid, 6°.<br>
+<br>
+<br>
+&nbsp;
 
 ### ART. 4.
 
-Als dat noodzakelijk is vanwege wijzigingen van de verplichtingen die voortvloeien uit de Vogelrichtlijn, de Habitatrichtlijn, het verdrag van Bern of andere voor de soortenbescherming relevante internationale verdragen, met inbegrip van Europese richtlijnen, draagt de minister zonder uitstel aanpassingen voor betreffende de bijlagen 1, 2 of 3, met het oog op vaststelling ervan door de Vlaamse Regering.<br /><br />
+Als dat noodzakelijk is vanwege wijzigingen van de verplichtingen die voortvloeien uit de Vogelrichtlijn, de Habitatrichtlijn, het verdrag van Bern of andere voor de soortenbescherming relevante internationale verdragen, met inbegrip van Europese richtlijnen, draagt de minister zonder uitstel aanpassingen voor betreffende de bijlagen 1, 2, 3&nbsp;of 3/1, met het oog op vaststelling ervan door de Vlaamse Regering.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Inventarisatie en registratie
 
 ### ART. 5.
 
-Het instituut coördineert de inventarisatie van de soorten die onder het toepassingsgebied vallen van dit besluit, met het oog op :<br />1° het toezicht op de staat van instandhouding van inheemse soorten;<br />2° de opmaak van rode lijsten betreffende inheemse soorten, waarbij die soorten worden ingedeeld in onder meer de klassen « uitgestorven », « met uitsterven bedreigd », « bedreigd », « kwetsbaar » en « zeldzaam »;<br />3° het opvolgen van de toestand van invasieve soorten en potentieel invasieve soorten.<br /><br />Rode lijsten worden door of onder coördinatie van het instituut opgemaakt, waarna ze door de minister worden vastgesteld. <br /><br />Bestaande rode lijsten moeten ten minste om de tien jaar worden geëvalueerd, met het oog op een eventuele aanpassing aan de veranderde staat van instandhouding van de soorten die er in zijn opgenomen. Aanpassingen worden doorgevoerd op voordracht van het instituut, waarna de aangepaste rode lijst opnieuw door de minister wordt vastgesteld. <br /><br />De termijn van tien jaar is een termijn van orde. <br /><br />
+Het instituut coördineert de inventarisatie van de soorten die onder het toepassingsgebied vallen van dit besluit, met het oog op :<br>
+1° het toezicht op de staat van instandhouding van inheemse soorten;<br>
+2° de opmaak van rode lijsten betreffende inheemse soorten, waarbij die soorten worden ingedeeld in onder meer de klassen : "uitgestorven", "ernstig bedreigd", "bedreigd", "kwetsbaar" en "bijna in gevaar".<br>
+3° het opvolgen van de toestand van invasieve soorten en potentieel invasieve soorten.<br>
+<br>
+Rode lijsten worden door of onder coördinatie van het instituut opgemaakt, waarna ze door de minister worden vastgesteld.<br>
+<br>
+Bestaande rode lijsten moeten ten minste om de tien jaar worden geëvalueerd, met het oog op een eventuele aanpassing aan de veranderde staat van instandhouding van de soorten die er in zijn opgenomen. Aanpassingen worden doorgevoerd op voordracht van het instituut, waarna de aangepaste rode lijst opnieuw door de minister wordt vastgesteld.<br>
+<br>
+De termijn van tien jaar is een termijn van orde.<br>
+&nbsp;
 
 ### ART. 6.
 
-Het agentschap registreert de toevallige vangst of doding van soorten waarbij categorie 3 is aangekruist in bijlage 1. <br /><br />Het agentschap registreert de afwijkingen die toegestaan worden op basis van artikel 20 tot en met 23, evenals de meldingen die worden gedaan op grond van bijlage 3.<br /><br />
+Het agentschap registreert de toevallige vangst of doding van soorten waarbij categorie 3 is aangekruist in bijlage 1.<br>
+<br>
+Het agentschap registreert de afwijkingen die toegestaan worden op basis van artikel 20 tot en met 23, evenals de aanvragen en de gemotiveerde beslissingen over afwijkingen van de verbodsbepalingen vermeld in de artikelen 10, 12 of 16.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -1505,9 +1539,10 @@ Een overzicht en synthese van de op grond van dit hoofdstuk verkregen informatie
 
 De beschermde soorten zijn de soorten waarbij categorie 1, 2 of 3 is aangekruist in bijlage 1.<br>
 <br>
-Tot de beschermde soorten worden eveneens de andere soorten gerekend dan de soorten die als dusdanig zijn opgenomen in voormelde bijlage, als het gaat om van nature op het Europese grondgebied van de lidstaten van de Europese Unie in het wild voorkomende vogelsoorten zoals bedoeld in artikel 1 van de Vogelrichtlijn, om andere uitheemse soorten dan vogels, die zijn opgenomen in bijlage IV van de Habitatrichtlijn, of om andere uitheemse soorten dan vogels, die zijn opgenomen in bijlage II van het verdrag van Bern.<br>
+Tot de beschermde soorten worden eveneens de andere soorten gerekend dan de soorten die als dusdanig zijn opgenomen in voormelde bijlage, als het gaat om van nature op het Europese grondgebied van de lidstaten van de Europese Unie in het wild voorkomende vogelsoorten zoals bedoeld in artikel 1 van de Vogelrichtlijn, om andere soorten dan vogels, die zijn opgenomen in bijlage IV van de Habitatrichtlijn, of om andere soorten dan vogels, die zijn opgenomen in bijlage II van het verdrag van Bern.<br>
 <br>
-De beschermingsbepalingen van dit hoofdstuk die van toepassing zijn op specimens van de beschermde soorten, gelden ongeacht de levensfase waarin die specimens zich bevinden.
+De beschermingsbepalingen van dit hoofdstuk die van toepassing zijn op specimens van de beschermde soorten, gelden ongeacht de levensfase waarin die specimens zich bevinden.<br>
+&nbsp;
 
 ## Afdeling 2 Verbodsbepalingen
 
@@ -1556,17 +1591,23 @@ Het is verboden om specimens van soorten die onder het toepassingsgebied vallen 
 ### ART. 18.
 
 De verbodsbepaling van artikel 17 geldt niet ten aanzien van :<br>
-1° specimens van plantensoorten die gezaaid, geplant, geteeld of anderszins ingezet worden in het kader van wettige bosbouw-, landbouw- of tuinbouwactiviteiten of in het kader van tuin- of parkbeheer;<br>
-2° specimens van inheemse soorten die worden gebruikt met het oog op bestuiving, op biologische bestrijding of geïntegreerde bestrijding;<br>
+1° specimens van plantensoorten die gezaaid, geplant, geteeld of anderszins ingezet worden in het kader van&nbsp;bosbouw-, landbouw- of tuinbouwactiviteiten of in het kader van tuin-, park- of landschapsbeheer;<br>
+2° specimens van soorten die in landbouwkundige of industriële toepassingen door professionelen of particulieren worden gebruikt met het oog op bestuiving, op biologische bestrijding of geïntegreerde bestrijding;<br>
 3° specimens van vissoorten die gepoot worden in vijvers, visputten of andere afgesloten viswateren, waarbij de vissen die er leven zich, als gevolg van permanente, natuurlijke of van kunstmatige hindernissen, niet vrij kunnen bewegen tussen deze wateren en openbare wateren.<br>
 <br>
-Wie gebruik maakt van de uitzonderingsmogelijkheden van dit artikel neemt alle redelijke voorzorgsmaatregelen om te voorkomen dat de geïntroduceerde specimens zich kunnen verspreiden of verbreiden in het wild.
+Voor uitheemse soorten, is de vrijstelling, vermeld in het eerste lid, 2°, alleen van toepassing op soorten die voorkomen op een lijst die wordt vastgesteld door de Vlaamse minister bevoegd voor leefmilieu, in samenspraak met de Vlaamse minister bevoegd voor het landbouwbeleid. De hiervoor vermelde lijst wordt voor advies voorgelegd aan het instituut en het Instituut voor Landbouw en Visserijonderzoek. Op de lijst kunnen enkel soorten voorkomen waarvoor een voorafgaand impactonderzoek aantoont dat er geen risico bestaat dat ze ongunstige gevolgen kunnen hebben voor de in het Vlaamse Gewest voorkomende natuurlijke habitats in hun natuurlijke verspreidingsgebied of voor de inheemse dier- of plantensoorten. Tijdens het onderzoek, vermeld in het eerste lid, vinden het overleg en de informatie-uitwisseling plaats, vermeld in artikel 3 van beschikking M (83) 27 van het Comité van Ministers van de Benelux Economische Unie van 17 oktober 1983. Er wordt ook overleg gepleegd met de Europese Commissie als de aanvraag betrekking heeft op vogelsoorten die niet van nature in het wild leven op het grondgebied van de lidstaten van de Europese Unie.<br>
+<br>
+Wie gebruik maakt van de uitzonderingsmogelijkheden van dit artikel neemt alle redelijke voorzorgsmaatregelen om te voorkomen dat de geïntroduceerde specimens zich kunnen verspreiden of verbreiden in het wild.<br>
+&nbsp;
 
 ## Onderafdeling 6 Afwijkingsmogelijkheden
 
 ### ART. 19.
 
-Het agentschap kan, op basis van een aanvraag, specifieke handelingen toestaan die afwijken van de verbodsbepalingen, vermeld in onderafdeling 1 tot en met 5, onder de voorwaarden, vermeld in deze onderafdeling.<br /><br />Bovendien kunnen handelingen die afwijken van de in artikel 10 geformuleerde verbodsbepalingen betreffende doding of vangst van beschermde soorten, of van het vervoersverbod van artikel 12, uitgevoerd worden op basis van een melding, indien deze handelingen specimens betreffen van soorten vermeld in bijlage 3, onder de daar vermelde voorwaarden.<br /><br />
+Het agentschap kan, op basis van een aanvraag, specifieke handelingen toestaan die afwijken van de verbodsbepalingen, vermeld in onderafdeling 1 tot en met 5, onder de voorwaarden, vermeld in deze onderafdeling.<br>
+<br>
+Bovendien kunnen handelingen die afwijken van de in artikel 10 vermelde verbodsbepalingen betreffende doding of vangst van beschermde soorten, het in artikel 12 vermelde vervoersverbod of de in artikel 16 vermelde verbodsbepalingen betreffende middelen, installaties en methoden voor het doden of vangen van dieren, uitgevoerd worden op basis van een gemotiveerde beslissing over afwijkingen van de verbodsbepalingen, indien deze handelingen specimens betreffen van soorten vermeld in bijlage 3, onder de daar vermelde voorwaarden.<br>
+&nbsp;
 
 ### ART. 20.
 
@@ -1574,36 +1615,84 @@ Het agentschap kan, op basis van een aanvraag, specifieke handelingen toestaan d
 
 ### ART. 21.
 
-§ 1. Specifieke afwijkingen van het in onderafdeling 5 vermelde verbod tot introductie kunnen, met betrekking tot inheemse soorten, alleen verleend worden in het kader van een soortenbeschermingsprogramma, zoals vermeld in artikel 26, derde lid.<br /><br />§ 2. Voor de introductie van uitheemse soorten kunnen er specifieke afwijkingen verleend worden ten aanzien van het verbod tot introductie in het wild, vermeld in onderafdeling 5, op voorwaarde dat er, op basis van een voorafgaand impactonderzoek, wordt aangetoond dat er geen kans bestaat op ongunstige gevolgen voor de in het Vlaamse Gewest voorkomende natuurlijke habitats in hun natuurlijke verspreidingsgebied of voor de diersoorten of plantensoorten die van nature in het wild voorkomen in het Vlaamse Gewest.<br /><br />Tijdens het onderzoek, vermeld in het eerste lid, vinden het overleg en de informatie-uitwisseling plaats, vermeld in artikel 3 van beschikking M (83) 27 van het Comité van Ministers van de Benelux Economische Unie van 17 oktober 1983. Er wordt ook overleg gepleegd met de Europese Commissie als de aanvraag betrekking heeft op vogelsoorten die niet van nature in het wild leven op het grondgebied van de lidstaten van de Europese Unie.<br /><br />
+§ 1. Specifieke afwijkingen van het verbod tot introductie, vermeld in onderafdeling 5, kunnen, met betrekking tot inheemse soorten, alleen verleend worden in één van de volgende gevallen:<br>
+1° in het kader van een soortenbeschermingsprogramma als vermeld in artikel 26, derde lid;<br>
+2° in het kader van een specifieke afwijking met het oog op translocatie.<br>
+<br>
+In het eerste lid, 2°, wordt verstaan onder translocatie: de opzettelijke en overwogen verplaatsing van een of meer specimens van een soort binnen zijn actueel verspreidingsareaal. De translocatie moet voldoen aan de bepalingen, vermeld in artikel 20.<br>
+<br>
+In geval van een translocatie, vermeld in het eerste lid, 2°, moeten de volgende aspecten mee in overweging genomen worden:<br>
+1° de geschiktheid van de biotoop;<br>
+2° het tijdstip van vangst en vrijlating;<br>
+3° het risico op de verspreiding van ziekten bij in het wild levende dieren vermeld in het Wildedierenziektendecreet van 28 maart 2014;<br>
+4° de genetische impact;<br>
+5° het lokale maatschappelijke draagvlak;<br>
+6° de overlevingskans van de betrokken specimens voor en na de translocatie;<br>
+7° de mogelijke impact van de verplaatste populatie op de omgeving;<br>
+8° de duurzaamheid van de ingreep.<br>
+<br>
+In het geval van een translocatie gelden de volgende voorwaarden:<br>
+1° er wordt een advies ingewonnen bij het instituut;<br>
+2° specimens die gevangen en verplaatst worden, ondergaan een gezondheidscheck en worden zo veel mogelijk voorzien van een markering;<br>
+3° er is een voorafgaande schriftelijke toestemming van de eigenaar en, in voorkomend geval, de gebruiker of gebruikers, van het terrein waar de dieren worden vrijgelaten;<br>
+4° een translocatie is in voorkomend geval verenigbaar met een goedgekeurd natuurbeheerplan van type drie of type vier als vermeld in artikel 16ter van het decreet van 21 oktober 1997;<br>
+5° een translocatie is in voorkomend geval verenigbaar met een goedgekeurd soortbeschermingsprogramma voor de betrokken soort.<br>
+<br>
+§ 2. Voor de introductie van uitheemse soorten kunnen er specifieke afwijkingen verleend worden ten aanzien van het verbod tot introductie in het wild, vermeld in onderafdeling 5, op voorwaarde dat er, op basis van een voorafgaand impactonderzoek, wordt aangetoond dat er geen kans bestaat op ongunstige gevolgen voor de in het Vlaamse Gewest voorkomende natuurlijke habitats in hun natuurlijke verspreidingsgebied of voor de diersoorten of plantensoorten die van nature in het wild voorkomen in het Vlaamse Gewest.<br>
+<br>
+Tijdens het onderzoek, vermeld in het eerste lid, vinden het overleg en de informatie-uitwisseling plaats, vermeld in artikel 3 van beschikking M (83) 27 van het Comité van Ministers van de Benelux Economische Unie van 17 oktober 1983. Er wordt ook overleg gepleegd met de Europese Commissie als de aanvraag betrekking heeft op vogelsoorten die niet van nature in het wild leven op het grondgebied van de lidstaten van de Europese Unie.<br>
+&nbsp;
 
 ### ART. 22.
 
-§ 1. De aanvragen met betrekking tot de in artikel 20 en 21 vermelde specifieke afwijkingen worden naar het agentschap gestuurd met een aangetekende brief. <br /><br />Het agentschap neemt de nodige organisatorische maatregelen door een standaardaanvraagprocedure in te stellen.<br /><br />§ 2. Het agentschap moet een gemotiveerde beslissing nemen over aanvragen tot afwijking binnen de volgende termijn, te rekenen vanaf de ontvangstdatum van de aangetekende brief :<br />1° binnen een termijn van vijf werkdagen voor aanvragen tot afwijking als vermeld in artikel 20, § 1, 1°, 3° of 4°, op voorwaarde dat er sprake is van gemotiveerde hoogdringendheid. Deze termijn kan bij gemotiveerde beslissing eenmaal met vijf werkdagen worden verlengd;<br />2° binnen een termijn van twintig werkdagen voor andere aanvragen tot afwijking op grond van artikel 20 dan die, welke zijn vermeld in 1°. Deze termijn kan bij gemotiveerde beslissing eenmaal met twintig werkdagen worden verlengd;<br />3° binnen een termijn van drie maanden, voor de aanvragen tot afwijking, vermeld in artikel 21, § 2. Die termijn kan bij gemotiveerde beslissing eenmaal verlengd worden, voor ten hoogste nog eens drie maanden.<br /><br />§ 3. Een beslissing die een afwijking toestaat bevat de volgende onderdelen :<br />1° de beschermde soorten waarvoor op grond van artikel 20 mag worden afgeweken van beschermingsbepalingen, dan wel de uitheemse soorten waarvoor op grond van artikel 21 mag worden afgeweken van het verbod op introductie;<br />2° de personen die de afwijking mogen doorvoeren;<br />3° de middelen, installaties of methoden die mogen worden gebruikt om de afwijking door te voeren;<br />4° de omstandigheden van tijd en plaats waaronder de afwijking mag plaatsvinden;<br />5° in voorkomend geval, de voorwaarden en de lasten waaronder de afwijking mag worden doorgevoerd, in relatie tot de reden waarvoor de afwijking wordt toegestaan;<br />6° de controles die zullen worden uitgevoerd.<br /><br />§ 4. Het agentschap betekent de beslissing aan de aanvrager.<br /><br />§ 5. Tegen een weigering tot het verlenen van een afwijking, kan er binnen een termijn van dertig kalenderdagen beroep worden ingesteld bij de minister. De minister neemt een beslissing binnen een termijn van twee maanden.<br /><br />
+§ 1. De aanvragen voor de specifieke afwijkingen, vermeld in artikel 20 en 21, worden naar het agentschap gestuurd met een elektronisch formulier via het e-loket op de website van het agentschap of met een papieren formulier, dat aangetekend wordt verstuurd. Het model van beide formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+§ 2. Het agentschap moet een gemotiveerde beslissing nemen over aanvragen tot afwijking binnen de volgende termijn, te rekenen vanaf de ontvangstdatum van de aangetekende brief :<br>
+1° binnen een termijn van vijf werkdagen voor aanvragen tot afwijking als vermeld in artikel 20, § 1, 1°, 3° of 4°, op voorwaarde dat er sprake is van gemotiveerde hoogdringendheid. Deze termijn kan bij gemotiveerde beslissing eenmaal met vijf werkdagen worden verlengd;<br>
+2° binnen een termijn van twintig werkdagen voor andere aanvragen tot afwijking op grond van artikel 20 dan die, welke zijn vermeld in 1°. Deze termijn kan bij gemotiveerde beslissing eenmaal met twintig werkdagen worden verlengd;<br>
+3° binnen een termijn van drie maanden, voor de aanvragen tot afwijking, vermeld in artikel 21, § 2. Die termijn kan bij gemotiveerde beslissing eenmaal verlengd worden, voor ten hoogste nog eens drie maanden.<br>
+<br>
+§ 3. Een beslissing die een afwijking toestaat bevat de volgende onderdelen :<br>
+1° de beschermde soorten waarvoor op grond van artikel 20 mag worden afgeweken van beschermingsbepalingen, dan wel de uitheemse soorten waarvoor op grond van artikel 21 mag worden afgeweken van het verbod op introductie;<br>
+2° de personen die de afwijking mogen doorvoeren;<br>
+3° de middelen, installaties of methoden die mogen worden gebruikt om de afwijking door te voeren;<br>
+4° de omstandigheden van tijd en plaats waaronder de afwijking mag plaatsvinden;<br>
+5° in voorkomend geval, de voorwaarden en de lasten waaronder de afwijking mag worden doorgevoerd, in relatie tot de reden waarvoor de afwijking wordt toegestaan;<br>
+6° de controles die zullen worden uitgevoerd.<br>
+<br>
+§ 4. Het agentschap betekent de beslissing aan de aanvrager.<br>
+<br>
+§ 5. Tegen een weigering tot het verlenen van een afwijking, kan er binnen een termijn van dertig kalenderdagen beroep worden ingesteld bij de minister. De minister neemt een beslissing binnen een termijn van twee maanden.<br>
+&nbsp;
 
 ### ART. 23.
 
 Bepaalde vergunningen, ontheffingen of plannen kunnen eveneens specifieke afwijkingen bevatten als vermeld in artikel 20 of 21, als aan de drie volgende voorwaarden is voldaan :<br>
 1° op voorwaarde dat het beoordelingskader, opgelegd in artikel 20 of 21, in acht wordt genomen;<br>
 2° op voorwaarde dat de bedoelde vergunningen, ontheffingen of plannen de elementen bevatten die vermeld zijn in artikel 22, § 3;<br>
-3° op voorwaarde dat er, in voorkomend geval, rekening wordt gehouden met het advies van het agentschap.<br>
+3° op voorwaarde dat het advies van het agentschap wordt ingewonnen en met zijn advies wordt rekening gehouden.<br>
 <br>
 Onder vergunningen, ontheffingen en plannen wordt verstaan :<br>
 1° een natuurvergunning, verleend op grond van artikel 13, § 3, van het decreet van 21 oktober 1997, voor een handeling, werk of gebruikswijziging, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking;<br>
 2° een ontheffing, verleend op grond van artikel 25, § 3 van het decreet van 21 oktober 1997, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in in de individuele ontheffing;<br>
 3° een beheerplan van een erkend of een Vlaams natuurreservaat, vastgesteld op grond van in artikel 34 van het decreet van 21 oktober 1997, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 4° een projectuitvoeringsplan van een natuurinrichtingsproject, vastgesteld op grond van artikel 47 van het decreet van 21 oktober 1997, voor de in dat plan opgenomen acties en maatregelen waarvoor er tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en de lasten, vermeld in het plan;<br>
-5° een natuurrichtplan, vastgesteld op grond van artikel 48 tot en met 50 van het decreet van 21 oktober 1997, voor de activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
+5° ...;<br>
 6° een beheerplan van een erkend bosreservaat, vastgesteld op grond van in artikel 25 van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 7° een bosbeheerplan, vastgesteld op grond van artikel 43, § 1 tot en met § 3, van het Bosdecreet, voor specifieke activiteiten die uitdrukkelijk in dat plan zijn opgenomen, waarvoor tevens een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in het plan;<br>
 8° een omgevingsvergunning, verleend met toepassing van artikel 6, eerste lid, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, voor een project of voor een verandering van een project waarvoor ook een afwijking krachtens de bepalingen van dit besluit nodig is, in voorkomend geval onder de voorwaarden en lasten, vermeld in de vergunning of afwijking.<br>
 9° ...<br>
+10° een faunabeheerplan, verleend conform artikel 44 van het Jachtadministratiebesluit van 25 april 2014;<br>
+11° een beheersplan, verleend conform artikel 8.1.6 van het Onroerenderfgoedbesluit van 16 mei 2014;<br>
 &nbsp;
 
 ## Afdeling 3 Soortenbehoud
 
 ### ART. 24.
 
-Boven op het beschermende statuut dat voortvloeit uit de verbodsbepalingen van afdeling 2, kan de minister, voor de beschermde soorten zoals gedefinieerd in artikel 9, indien deze zijn opgenomen in de klassen « uitgestorven », « met uitsterven bedreigd », « bedreigd » of « kwetsbaar » van een rode lijst als vermeld in artikel 5, soortenbehoudsmaatregelen nemen of soortenbeschermingsprogramma's vaststellen om :<br />1° een goede staat van instandhouding te bereiken van die soorten of groepen van soorten, in voorkomend geval op grond van de in dat verband vastgestelde instandhoudingsdoelstellingen;<br />2° te verzekeren dat het bij toeval vangen of doden van de soorten, waarbij categorie 3 aangekruist is in voormelde bijlage 1, geen significant ongunstige weerslag heeft op de staat van instandhouding van soorten in kwestie.<br /><br />Er kunnen, in uitvoering van deze afdeling, nooit meer dan 50 initiatieven tegelijk lopende zijn.<br /><br />
+Boven op het beschermende statuut dat voortvloeit uit de verbodsbepalingen van afdeling 2, kan de minister, voor soorten die beschermd zijn als vermeld in artikel 9 of voor soorten die opgenomen zijn in de klassen "uitgestorven", "ernstig bedreigd", "bedreigd", "kwetsbaar" en "bijna in gevaar" van een rode lijst als vermeld in artikel 5, soortenbehoudsmaatregelen nemen of soortenbeschermingsprogramma's vaststellen om :<br>
+1° een goede staat van instandhouding te bereiken van die soorten of groepen van soorten, in voorkomend geval op grond van de in dat verband vastgestelde instandhoudingsdoelstellingen;<br>
+2° te verzekeren dat het bij toeval vangen of doden van de soorten, waarbij categorie 3 aangekruist is in voormelde bijlage 1, geen significant ongunstige weerslag heeft op de staat van instandhouding van soorten in kwestie.
 
 ### ART. 25.
 
@@ -1611,7 +1700,26 @@ De soortenbehoudsmaatregelen voor bepaalde soorten of groepen van soorten, verme
 
 ### ART. 26.
 
-Een soortenbeschermingsprogramma wordt opgemaakt op basis van een rapport dat ten minste de volgende onderdelen bevat :<br />1° een synthese van de kennis over de soort of soorten in kwestie, waarbij aandacht wordt besteed aan het voorkomen, de beschermingsstatus en de ecologische vereisten van de soort;<br />2° de concrete doelstellingen voor het bereiken of behouden van een gunstige staat van instandhouding van de soort of soorten in kwestie in het Vlaamse Gewest, in voorkomend geval op grond van de in dat verband vastgestelde instandhoudingsdoelstellingen;<br />3° de bedreigingen voor de gunstige staat van instandhouding van de soort of soorten in kwestie;<br />4° de mogelijkheden om de gunstige staat van instandhouding van de soort of soorten in kwestie te bereiken;<br />5° een beschrijving van de actoren die te maken hebben met de soort of soorten in kwestie en die invloed kunnen hebben op de staat van instandhouding van de soort of soorten in kwestie;<br />6° een beschrijving van de concrete maatregelen die kunnen worden ondernomen om bij te dragen tot een gunstige staat van instandhouding van de soort of soorten in kwestie in het Vlaamse Gewest;<br />7° een verslag van het overleg dat gevoerd is met de actoren, vemeld in 5°, over de maatregelen, vermeld in 6°;<br />8° een voorstel van begroting, planning en prioritering van de acties en maatregelen;<br />9° een beschrijving van de vast te leggen voortgangscontrole en evaluatie van het programma, met inbegrip van monitoring, met het oog op een eventuele bijsturing van de maatregelen;<br />10° een sensibilisatie- of communicatiestrategie. <br /><br />Als het soortenbeschermingsprogramma afwijkingen bevat van de verbodsbepalingen vermeld in afdeling 2, onderafdeling 1 tot en met 4, moet bij de opmaak van het rapport vermeld in het eerste lid, het beoordelingskader, vermeld in artikel 20, in acht wordt worden genomen.<br /><br />Als het soortenbeschermingsprogramma met betrekking tot inheemse soorten afwijkingen bevat van de in afdeling 2, onderafdeling 5, vermelde verbodsbepalingen betreffende het introduceren in het wild, dan moeten bij de opmaak van het rapport, vermeld in het eerste lid, de volgende aanvullende elementen opgenomen worden :<br />1° een effectinschatting, waaruit, onder meer op basis van ervaringen in andere lidstaten van de Europese Unie en elders, blijkt dat het toestaan van die afwijking een doeltreffende bijdrage kan leveren aan het herstel van de gunstige staat van instandhouding van de soort in kwestie;<br />2° een evaluatie van de potentieel geschikte leefgebieden;<br />3° een bepaling van het geschikte genetische profiel;<br />4° de vaststelling dat er gesteund kan worden op geschikte kweek- en uitzetprogramma's.<br /><br />
+Een soortenbeschermingsprogramma wordt opgemaakt op basis van een rapport dat ten minste de volgende onderdelen bevat :<br>
+1° een synthese van de kennis over de soort of soorten in kwestie, waarbij aandacht wordt besteed aan het voorkomen, de beschermingsstatus en de ecologische vereisten van de soort;<br>
+2° de concrete doelstellingen voor het bereiken of behouden van een gunstige staat van instandhouding van de soort of soorten in kwestie in het Vlaamse Gewest, in voorkomend geval op grond van de in dat verband vastgestelde instandhoudingsdoelstellingen;<br>
+3° de bedreigingen voor de gunstige staat van instandhouding van de soort of soorten in kwestie;<br>
+4° de mogelijkheden om de gunstige staat van instandhouding van de soort of soorten in kwestie te bereiken;<br>
+5° een beschrijving van de actoren die te maken hebben met de soort of soorten in kwestie en die invloed kunnen hebben op de staat van instandhouding van de soort of soorten in kwestie;<br>
+6° een beschrijving van de concrete maatregelen die kunnen worden ondernomen om bij te dragen tot een gunstige staat van instandhouding van de soort of soorten in kwestie in het Vlaamse Gewest;<br>
+7° een verslag van het overleg dat gevoerd is met de actoren, vermeld in 5°, over de maatregelen, vermeld in 6°;<br>
+8° een voorstel van begroting, planning en prioritering van de acties en maatregelen;<br>
+9° een beschrijving van de vast te leggen voortgangscontrole en evaluatie van het programma, met inbegrip van monitoring, met het oog op een eventuele bijsturing van de maatregelen;<br>
+10° een sensibilisatie- of communicatiestrategie.<br>
+<br>
+Als het soortenbeschermingsprogramma afwijkingen bevat van de verbodsbepalingen vermeld in afdeling 2, onderafdeling 1 tot en met 4, moet bij de opmaak van het rapport vermeld in het eerste lid, het beoordelingskader, vermeld in artikel 20, in acht wordt worden genomen.<br>
+<br>
+Als het soortenbeschermingsprogramma met betrekking tot inheemse soorten afwijkingen bevat van de in afdeling 2, onderafdeling 5, vermelde verbodsbepalingen betreffende het introduceren in het wild, dan moeten bij de opmaak van het rapport, vermeld in het eerste lid, de volgende aanvullende elementen opgenomen worden :<br>
+1° een effectinschatting, waaruit, onder meer op basis van ervaringen in andere lidstaten van de Europese Unie en elders, blijkt dat het toestaan van die afwijking een doeltreffende bijdrage kan leveren aan het herstel van de gunstige staat van instandhouding van de soort in kwestie;<br>
+2° een evaluatie van de potentieel geschikte leefgebieden;<br>
+3° een bepaling van het geschikte genetische profiel;<br>
+4° de vaststelling dat er gesteund kan worden op geschikte kweek- en uitzetprogramma's.<br>
+&nbsp;
 
 ### ART. 27.
 
@@ -1621,15 +1729,59 @@ Een soortenbeschermingsprogramma wordt opgemaakt op basis van een rapport dat te
 
 ### ART. 28.
 
-§ 1. Een ontwerpbeheerregeling voor een bepaalde soort of voor een bepaalde groep van soorten wordt, op initiatief van de minister, opgemaakt door of in opdracht van het agentschap. <br /><br />Als een beheerregeling opgemaakt wordt met het oog op het voorkomen of herstellen van hinder, risico of schade aan landbouwgewassen of landbouwactiviteiten, dan kan ook de Vlaamse minister bevoegd voor het landbouwbeleid het initiatief nemen in dit verband. <br /><br />§ 2. Een beheerregeling kan, binnen de perken van de daartoe vastgestelde begrotingsmiddelen, de volgende maatregelen bevatten :<br />1° het uitvoeren van sensibiliseringsacties, daarbij inbegrepen het uitbrengen van codes van goede praktijk;<br />2° het verrichten, het laten verrichten of het opleggen van specifieke beheers- of bestrijdingsacties;<br />3° het sluiten van overeenkomsten met provinciale of lokale overheden of met rechtsonderhorigen, organisaties of verenigingen, met het oog op het opzetten van regionale of plaatselijke beheer- of bestrijdingsacties;<br />4° als het gaat over invasieve soorten, het beperken of verbieden van het onder zich hebben, het vervoeren, het verhandelen of het ruilen, te koop of in ruil aanbieden van specimens of eieren van de soorten in kwestie.<br /><br />§ 3. De minister stelt de beheerregeling vast, na advies dienaangaande van de Strategische Adviesraad Minaraad. <br /><br />Als een ontwerpbeheerregeling opgemaakt wordt met het oog op het voorkomen of herstellen van hinder, risico of schade aan landbouwgewassen of landbouwactiviteiten, dan wordt er ook advies gevraagd aan de Strategische Adviesraad voor Landbouw en Visserij. Deze beheerregeling wordt vastgesteld door de minister, samen met de Vlaamse minister bevoegd voor het landbouwbeleid.<br /><br />Een vastgestelde beheerregeling wordt steeds meegedeeld aan de Vlaamse Regering.<br /><br />§ 4. Indien de ontwerpbeheerregeling voorstellen bevat van acties die een afwijking inhouden van de verbodsbepalingen uit hoofdstuk 3, Afdeling 2, dan worden deze afwijkingen verleend hetzij op grond van het bepaalde in artikel 20 tot en met 23, hetzij door een wijziging of aanvulling van bijlage 3 bij dit besluit. <br /><br />In dat laatste geval wordt de beheerregeling vastgesteld door de Vlaamse Regering. <br /><br />
+§ 1. Een beheerregeling voor een bepaalde soort of voor een bepaalde groep van soorten wordt, op initiatief van de minister, opgemaakt door of in opdracht van het agentschap.<br>
+<br>
+Als een beheerregeling opgemaakt wordt met het oog op het voorkomen of herstellen van hinder, risico of schade aan landbouwgewassen of landbouwactiviteiten, dan kan ook de Vlaamse minister bevoegd voor het landbouwbeleid het initiatief nemen in dit verband.<br>
+<br>
+§ 2. Een beheerregeling kan, binnen de perken van de daartoe vastgestelde begrotingsmiddelen, de volgende maatregelen bevatten :<br>
+1° het uitvoeren van sensibiliseringsacties, daarbij inbegrepen het uitbrengen van codes van goede praktijk;<br>
+2° het verrichten, het laten verrichten of het opleggen van specifieke beheer- of bestrijdingsacties;<br>
+3° het sluiten van overeenkomsten met provinciale of lokale overheden of met rechtsonderhorigen, organisaties of verenigingen, met het oog op het opzetten van regionale of plaatselijke beheer- of bestrijdingsacties;<br>
+4° als het gaat over invasieve soorten, het beperken of verbieden van het onder zich hebben, het vervoeren, het verhandelen of het ruilen, te koop of in ruil aanbieden van specimens of eieren van de soorten in kwestie, het kweken, het toestaan zich voort te planten, te worden gekweekt of geteeld..<br>
+<br>
+§ 3. De minister stelt de beheerregeling vast, na advies dienaangaande van de Strategische Adviesraad Minaraad.<br>
+<br>
+Als een beheerregeling opgemaakt wordt met het oog op het voorkomen of herstellen van hinder, risico of schade aan landbouwgewassen of landbouwactiviteiten, dan wordt er ook advies gevraagd aan de Strategische Adviesraad voor Landbouw en Visserij. Deze beheerregeling wordt vastgesteld door de minister, samen met de Vlaamse minister bevoegd voor het landbouwbeleid.<br>
+<br>
+Als een beheerregeling opgemaakt wordt waarin maatregelen worden opgenomen zoals vermeld in paragraaf 2, 4°, moeten die maatregelen in overeenstemming zijn met het principe van het vrij verkeer van goederen, zoals vastgesteld in het Verdrag betreffende de Werking van de Europese Unie. Over deze beheerregeling wordt advies gevraagd aan de Sociaal-Economische Raad van Vlaanderen en de Strategische adviesraad Landbouw en Visserij. Deze beheerregeling wordt vastgesteld door de minister, samen met de Vlaamse ministers, bevoegd voor landbouw en economie.<br>
+<br>
+Een vastgestelde beheerregeling wordt steeds meegedeeld aan de Vlaamse Regering.<br>
+<br>
+§ 4. Als de beheerregeling voorstellen bevat van acties die een afwijking inhouden van de verbodsbepalingen uit hoofdstuk 3, afdeling 2, dan worden die afwijkingen in de beheerregeling verleend op grond van de bepalingen, vermeld in artikel 20 tot en met 23.<br>
+&nbsp;
 
 ### ART. 29.
 
-Een ontwerpbeheerregeling bevat altijd de volgende onderdelen :<br />1° de soorten waarop de beheerregeling van toepassing zal zijn;<br />2° de personen of de categorieën van personen die de beheermaatregelen zullen uitoefenen;<br />3° de beheermaatregelen die zullen mogen of moeten worden uitgevoerd, en de middelen of methoden die daarbij zullen mogen of moeten worden gebruikt; <br />4° de te verlenen afwijkingen van de beschermingsbepalingen van hoofdstuk 3, afdeling 2, die met het oog op die beheermaatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen aan bijlage 3 van het besluit;<br />5° de omstandigheden van tijd en plaats waaronder de beheermaatregelen zullen mogen worden uitgevoerd;<br />6° in voorkomend geval, de voorwaarden en lasten waaronder de beheermaatregelen zullen mogen worden uitgevoerd;<br />7° de controles die zullen worden uitgevoerd;<br />8° een sensibilisatie- of communicatiestrategie.<br /><br />
+Een beheerregeling bevat altijd de volgende onderdelen :<br>
+1° de soorten waarop de beheerregeling van toepassing zal zijn;<br>
+2° de personen of de categorieën van personen die de maatregelen zullen uitoefenen;<br>
+3° de maatregelen die zullen mogen of moeten worden uitgevoerd, en de middelen of methoden die daarbij zullen mogen of moeten worden gebruikt;<br>
+4° in voorkomend geval de te verlenen afwijkingen van de beschermingsbepalingen van hoofdstuk 3, afdeling 2, die met het oog op die maatregelen worden toegestaan, of de door te voeren aanvullingen en wijzigingen aan bijlage 3 van het besluit;<br>
+5° de omstandigheden van tijd en plaats waaronder de maatregelen zullen mogen worden uitgevoerd;<br>
+6° in voorkomend geval, de voorwaarden en lasten waaronder de maatregelen zullen mogen worden uitgevoerd;<br>
+7° de controles die zullen worden uitgevoerd;<br>
+8° een sensibilisatie- of communicatiestrategie.<br>
+&nbsp;
 
 ### ART. 30.
 
-§ 1. Een ontwerpbeheerregeling gaat vergezeld van een motiveringsnota waarin aangetoond wordt dat de maatregelen van een beheerregeling niet disproportioneel zijn en geen significant ongunstige impact hebben op de biodiversiteit of op de staat van instandhouding van andere inheemse soorten.<br /><br />§ 2. Wanneer de ontwerpbeheerregeling beschermde soorten betreft, moet er aangetoond worden dat :<br />1° er geen andere bevredigende oplossing bestaat;<br />2° het aannemelijk is dat de maatregelen effectief bijdragen tot een oplossing met het oog op de redenen waarvoor de maatregelen worden genomen;<br />3° de maatregelen geen afbreuk doen aan het streefdoel om de populaties van de soort in kwestie in een gunstige staat van instandhouding te laten voortbestaan.<br /><br />§ 3. Wanneer de ontwerpbeheerregeling beschermde soorten betreft, waarbij categorie 2 of 3 van bijlage 1 is aangekruist, dan moet er bovendien worden aangetoond dat deze beheerregeling wordt vastgesteld om één of meerdere van de volgende redenen :<br />1° in het belang van de volksgezondheid of de openbare veiligheid;<br />2° in het belang van de veiligheid van het luchtverkeer;<br />3° ter voorkoming van belangrijke schade aan gewassen, vee, bossen, visserij, wateren en andere goederen in eigendom of gebruik;<br />4° ter bescherming van de wilde fauna of flora, of voor de instandhouding van de natuurlijke habitats.<br /><br />De mogelijkheid tot afwijking ter voorkoming van belangrijke schade aan andere goederen in eigendom of gebruik, als vermeld in 3°, geldt niet voor vogelsoorten.<br /><br />§ 4. Voor de uitheemse soorten, voor de niet-beschermde inheemse soorten of voor de beschermde soorten waarbij categorie 1 van bijlage 1 is aangekruist, kan er een beheerregeling worden vastgesteld met het oog op het tegengaan van de negatieve ecologische of economische impact die de soorten of de groep van soorten kunnen hebben, of vanwege hun feitelijk of potentieel invasieve karakter.<br /><br />
+§ 1. Een beheerregeling gaat vergezeld van een motiveringsnota waarin aangetoond wordt dat de maatregelen van een beheerregeling niet disproportioneel zijn en geen significant ongunstige impact hebben op de biodiversiteit of op de staat van instandhouding van&nbsp;inheemse soorten.<br>
+<br>
+§ 2. Wanneer de beheerregeling beschermde soorten betreft, moet er aangetoond worden dat :<br>
+1° er geen andere bevredigende oplossing bestaat;<br>
+2° het aannemelijk is dat de maatregelen effectief bijdragen tot een oplossing met het oog op de redenen waarvoor de maatregelen worden genomen;<br>
+3° de maatregelen geen afbreuk doen aan het streefdoel om de populaties van de soort in kwestie in een gunstige staat van instandhouding te laten voortbestaan.<br>
+<br>
+§ 3. Wanneer de beheerregeling beschermde soorten betreft, waarbij categorie 2 of 3 van bijlage 1 is aangekruist, dan moet er bovendien worden aangetoond dat deze beheerregeling wordt vastgesteld om één of meerdere van de volgende redenen :<br>
+1° in het belang van de volksgezondheid of de openbare veiligheid;<br>
+2° in het belang van de veiligheid van het luchtverkeer;<br>
+3° ter voorkoming van belangrijke schade aan gewassen, vee, bossen, visserij, wateren en andere goederen in eigendom of gebruik;<br>
+4° ter bescherming van de wilde fauna of flora, of voor de instandhouding van de natuurlijke habitats.<br>
+<br>
+De mogelijkheid tot afwijking ter voorkoming van belangrijke schade aan andere goederen in eigendom of gebruik, als vermeld in 3°, geldt niet voor vogelsoorten.<br>
+<br>
+§ 4. Voor de uitheemse soorten, voor de niet-beschermde inheemse soorten of voor de beschermde soorten waarbij categorie 1 van bijlage 1 is aangekruist, kan er een beheerregeling worden vastgesteld met het oog op het tegengaan van de negatieve ecologische of economische impact die de soorten of de groep van soorten kunnen hebben, of vanwege hun feitelijk of potentieel invasieve karakter.<br>
+&nbsp;
 
 ### ART. 31.
 
@@ -1638,6 +1790,104 @@ Een beheerregeling is geldig voor een periode van maximaal vijf jaar. Zij kan ve
 ## [HOOFDSTUK 4/1. Aanpak van uitheemse soorten (ing. BVR 25 januari 2019, art. 17, I: 25 januari 2019)]
 
 ## [ Afdeling 1 Aanpak van voor de Unie zorgwekkende invasieve uitheemse soorten conform verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (ing. BVR 25 januari 2019, art. 17, I: 25 januari 2019)]
+
+### ART 31/1.
+
+In deze afdeling wordt verstaan onder:<br>
+1° voor de Unie zorgwekkende invasieve uitheemse soort: een invasieve uitheemse soort waarvan de negatieve effecten zodanig zijn dat overeenkomstig artikel 4, lid 3 van verordening 1143/2014 van het Europees parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten, gezamenlijk optreden op het niveau van de Unie vereist is;<br>
+2° specimens die in een gesloten omgeving worden gehouden: specimens die worden gehouden in een omgeving die voldoet aan de volgende voorwaarden:<br>
+a) de specimens zijn fysiek geïsoleerd en kunnen niet ontsnappen, zich verspreiden of door onbevoegden worden verwijderd uit de omgeving waar ze worden gehouden;<br>
+b) schoonmaak-, afvalbeheer- en onderhoudsprotocollen waarborgen dat er geen specimens of reproduceerbare onderdelen kunnen ontsnappen, zich verspreiden of door onbevoegden kunnen worden verwijderd;<br>
+c) de specimens worden zodanig uit de omgeving verwijderd, afgevoerd, vernietigd of op humane wijze gedood, dat verspreiding of voortplanting buiten de omgeving waar ze gehouden worden onmogelijk is.<br>
+<br>
+Onverminderd het eerste lid gelden in dit hoofdstuk de definities, vermeld in artikel 3 van verordening 1143/2014 van het Europees parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten.
+
+### ART 31/2.
+
+Ten aanzien van specimens van voor de Unie zorgwekkende invasieve uitheemse soorten zijn de volgende handelingen verboden:<br>
+1° het onder zich houden, ook in een gesloten omgeving;<br>
+2° het kweken, ook in een gesloten omgeving;<br>
+3° het vervoeren, behalve om in het kader van de uitroeiing van de specimens naar voorzieningen te worden vervoerd;<br>
+4° het in de handel brengen;<br>
+5° het gebruiken of uitwisselen;<br>
+6° het toestaan om zich voort te planten, te kweken of te telen, ook in een gesloten omgeving;<br>
+7° het vrijlaten in het milieu.
+
+### ART 31/3.
+
+Het agentschap kan specifieke afwijkingen verlenen van de verboden handelingen, vermeld in artikel 31/2, 1°, 2°, 3°, 5° en 6°, in functie van onderzoek of ex situ bewaring en in functie van productie van producten die afkomstig zijn van voor de Unie zorgwekkende invasieve uitheemse soorten en het daaropvolgend geneeskundig gebruik van deze producten als deze producten onvermijdelijk zijn om de menselijke gezondheid te bevorderen. Er dient steeds aan de volgende voorwaarden voldaan te zijn:<br>
+1° de voor de Unie zorgwekkende invasieve uitheemse soorten worden gehouden en behandeld in een gesloten omgeving;<br>
+2° de activiteit waarvoor een afwijking wordt gevraagd, wordt uitgevoerd door personeel met aantoonbare ervaring met de voor de Unie zorgwekkende invasieve uitheemse soorten of nauw verwante soorten;<br>
+3° het vervoer naar en van de gesloten omgeving vindt plaats onder in de afwijking vastgelegde omstandigheden die de ontsnapping van de invasieve uitheemse soorten onmogelijk maken;<br>
+4° als de voor de Unie zorgwekkende invasieve uitheemse soorten dieren zijn, worden ze gemarkeerd, of waar nodig op een andere doeltreffende wijze geïdentificeerd, met behulp van methoden die geen vermijdbare pijn, spanning of lijden veroorzaken;<br>
+5° het risico op ontsnapping, verspreiding of verwijdering wordt op doeltreffende wijze beheerst, rekening houdend met de identiteit, de biologie en de verspreidingsvormen van de soort, de activiteit en de beoogde gesloten omgeving, de interactie met het milieu en andere relevante factoren;<br>
+6° de aanvrager van een afwijking stelt een continu surveillancesysteem en een noodplan met inbegrip van een uitroeiingsplan op, voor het geval dat specimens ontsnappen of zich verspreiden. De aanvrager legt het noodplan aan het agentschap ter goedkeuring voor. Als zich een ontsnapping of verspreiding voordoet, voert de aanvrager het noodplan onmiddellijk uit en brengt hij het agentschap hiervan meteen op de hoogte.<br>
+<br>
+Bij een afwijkingsaanvraag verstrekt de aanvrager alle noodzakelijke stukken om het agentschap in staat te stellen te beoordelen of aan de voorwaarden vermeld in het eerste lid is voldaan.<br>
+<br>
+De afwijking wordt beperkt tot het aantal invasieve specimens dat de capaciteit van de gesloten omgeving niet overschrijdt.<br>
+<br>
+De verleende afwijkingen worden publiekelijk bekend gemaakt op de website van het agentschap waarbij minstens de volgende aspecten worden vermeld:<br>
+1° de wetenschappelijke en gebruikelijke naam van de soort waarvoor de afwijking werd verleend;<br>
+2° het aantal of volume van het specimen waarvoor de afwijking is verleend;<br>
+3° het doel waarvoor de afwijking is verleend;<br>
+4° de gecombineerde nomenclatuurcodes conform verordening 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijke douanetarief
+
+### ART 31/4.
+
+In uitzonderlijke gevallen van dwingend algemeen belang, onder andere van sociale of economische aard, kan het agentschap afwijkingen verlenen en toestaan om andere activiteiten te verrichten dan de activiteiten vermeld in artikel 31/3, eerste lid. Een dergelijke afwijking is onderworpen aan de procedure vermeld in artikel 9 van de verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten alsook aan de voorwaarden, vermeld in artikel 31/3, eerste lid.<br>
+<br>
+Een afwijkingsaanvraag als vermeld in het eerste lid bevat de volgende elementen:<br>
+1° de gegevens van de instelling of groep van instellingen die de afwijking aanvraagt, met inbegrip van hun naam en adres;<br>
+2° de wetenschappelijke en gebruikelijke namen van de voor de Unie zorgwekkende invasieve uitheemse soorten waarvoor een toelating wordt aangevraagd;<br>
+3° de gecombineerde nomenclatuurcodes conform verordening 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief<br>
+4° het aantal of het volume van de betrokken specimens;<br>
+5° de redenen voor de gevraagde afwijking;<br>
+6° een beoordeling van het risico op ontsnapping of verspreiding uit de voorzieningen waar de voor de Unie zorgwekkende invasieve uitheemse soort in gesloten omgeving zal worden gehouden en behandeld, inclusief een gedetailleerde omschrijving van de vastgelegde maatregelen om ontsnapping of verspreiding uit deze voorzieningen onmogelijk te maken, alsook van de maatregelen die genomen worden om ontsnappingen uit te sluiten bij een eventueel noodzakelijk vervoer van de soort;<br>
+7° een beschrijving van het vastgelegde surveillancesysteem en van het noodplan dat wordt opgezet om een mogelijke ontsnapping of verspreiding aan te pakken, indien nodig met inbegrip van een uitroeiingsplan;<br>
+8° een beschrijving van de relevante nationale wetgeving die van toepassing is op de instelling of op de groep van instellingen.
+
+### ART 31/5.
+
+§ 1. In afwijking van artikel 31/2, 4°, kan het agentschap door middel van een afwijking het commerciële gebruik van reeds gevestigde invasieve uitheemse soorten, als dat strikt gemotiveerd wordt, tijdelijk toestaan als onderdeel van de beheermaatregelen die zijn gericht op de uitroeiing, populatiebeheersing of indamming ervan, op voorwaarde dat alle passende controles aanwezig zijn om verdere verspreiding te vermijden.<br>
+<br>
+§ 2. In afwijking van artikel 31/2, 1° en 3°, kan het agentschap afwijking verlenen aan eigenaren van gezelschapsdieren die niet worden gehouden voor commerciële doeleinden en die behoren tot de voor de Unie zorgwekkende invasieve uitheemse soorten, om die dieren te houden tot de natuurlijke dood ervan, op voorwaarde dat ontegensprekelijk kan worden aangetoond dat voldaan is aan de volgende voorwaarden:<br>
+1° de dieren werden al gehouden voor ze werden opgenomen in de Unielijst;<br>
+2° de dieren worden in een gesloten omgeving gehouden en de eigenaar neemt alle passende maatregelen om voortplanting of ontsnapping onmogelijk te maken.<br>
+<br>
+De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden aangetoond dat er voldaan is aan de voorwaarden vermeld in het eerste lid. Nadat die regels zijn vastgesteld worden ze meegedeeld aan de Vlaamse Regering.
+
+### ART 31/6.
+
+Overeenkomstig artikel 32 van Verordening 1143/2014 mogen de houders van een commerciële voorraad specimens van invasieve uitheemse soorten die zijn verworven voor ze werden opgenomen in de lijst van voor de Unie zorgwekkende invasieve uitheemse soorten, vermeld in artikel 3, § 1, 4°, levende specimens of reproduceerbare delen van die soorten tot maximaal twee jaar na het opnemen van de soort op die lijst houden en vervoeren voor verkoop of overdracht aan een instelling die zich bezig houdt met onderzoek of bewaring ex situ, of voor geneeskundige activiteiten als vermeld in artikel 31/3, als de specimens in een gesloten omgeving gehouden en vervoerd worden en alle passende maatregelen zijn genomen om voortplanting of ontsnapping te voorkomen, of mogen die specimens slachten of op humane wijze doden ter uitputting van de voorraad.<br>
+<br>
+De houders, vermeld in het eerste lid, mogen hun voorraad levende specimens verkopen of overdragen aan niet-commerciële gebruikers tot één jaar nadat de soorten zijn opgenomen in de lijst van voor de Unie zorgwekkende invasieve uitheemse soorten, op voorwaarde dat de specimens in een gesloten omgeving gehouden en vervoerd worden, en alle passende maatregelen zijn genomen om voortplanting of ontsnapping onmogelijk te maken.
+
+### ART 31/7.
+
+§ 1. De aanvragen van de afwijkingen vermeld in deze afdeling worden naar het agentschap gestuurd met een papieren formulier, dat aangetekend wordt verstuurd of met een elektronisch formulier via het e-loket op de website van het agentschap. Het model van de formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+Het agentschap neemt een gemotiveerde beslissing over de aanvragen binnen een termijn van drie maanden. Die termijn kan bij gemotiveerde beslissing eenmaal verlengd worden voor ten hoogste drie maanden.<br>
+<br>
+Een beslissing die een afwijking toestaat bevat de volgende onderdelen:<br>
+1° de soorten waarvoor met toepassing van artikel 31/3, 31/4 of 31/5 mag worden afgeweken van de verbodsbepalingen, vermeld in artikel 31/2;<br>
+2° de personen of instellingen waaraan de afwijking wordt toegekend;<br>
+3° de middelen, installaties of methoden die mogen worden gebruikt in het kader van de afwijking;<br>
+4° de omstandigheden, de tijd en plaats waaronder de afwijking mag plaatsvinden;<br>
+5° in voorkomend geval, de voorwaarden en de lasten waaronder de afwijking mag worden doorgevoerd, in relatie tot de reden waarvoor de afwijking wordt toegestaan;<br>
+6° de controles die zullen worden uitgevoerd.<br>
+<br>
+§ 2. Het agentschap betekent de beslissing aan de aanvrager.<br>
+<br>
+§ 3. Tegen een weigering tot het verlenen van een afwijking kan er binnen een termijn van dertig kalenderdagen beroep worden ingesteld bij de minister. De minister neemt een beslissing binnen een termijn van twee maanden.<br>
+<br>
+§ 4. De afwijkingen, vermeld in artikel 31/3, 31/4 en 31/5 moeten op elk moment bij de soort gevoegd zijn zolang die soort zich op het grondgebied van de Unie bevindt.
+
+### ART 31/8.
+
+&nbsp;Met behoud van artikel 31/2 tot en met 31/7, kunnen in het wild voorkomende voor de Unie zorgwekkende invasieve uitheemse soorten op de volgende wijzen worden aangepakt:<br>
+1° door de opmaak van een beheerregeling conform de bepalingen van hoofdstuk 4;<br>
+2° door bestrijding conform bijlage 3/1.
 
 ### ART 31/9.
 
@@ -1650,7 +1900,19 @@ Voor de aanpak van prioritaire introductieroutes, vermeld in artikel 13 van de v
 
 ## [Afdeling 2 Aanpak van voor het Vlaamse Gewest zorgwekkende invasieve uitheemse soorten conform verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten (ing. BVR 25 januari 2019, art. 17, I: 25 januari 2019)]
 
+### ART 31/10.
+
+Op voorstel van de minister stelt de Vlaamse Regering een lijst van voor het Vlaamse Gewest zorgwekkende invasieve uitheemse soorten vast als vermeld in artikel 12 van verordening 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve.<br>
+<br>
+Het van toepassing verklaren van de bepalingen van afdeling 1 van dit hoofdstuk op de soorten van de in het eerste lid vermelde lijst kan een deel uitmaken van het voorstel van de minister.
+
 ## [Afdeling 3 Aanpak van overige uitheemse soorten (ing. BVR 25 januari 2019, art. 17, I: 25 januari 2019)]
+
+### ART 31/11.
+
+In het wild voorkomende uitheemse soorten die niet vallen onder afdeling 1 en 2, van dit hoofdstuk, kunnen aangepakt worden op een van de volgende wijzen:<br>
+1° door de opmaak van een beheerregeling conform de bepalingen van hoofdstuk 4;<br>
+2° door bestrijding conform bijlage 3/1.
 
 ## HOOFDSTUK 5 Werking van opvangcentra voor wilde dieren
 
@@ -1670,11 +1932,25 @@ De beheerder zorgt ervoor dat de werkzaamheden in het centrum verlopen in overee
 
 ### ART. 35.
 
-§ 1. Erkende opvangcentra mogen voor het vangen, het tijdelijk onder zich houden, het doden, het vervoeren of het opnieuw vrijlaten van specimens van beschermde diersoorten afwijken van de volgende bepalingen, op voorwaarde dat het gekwetste of hulpbehoevende dieren betreft waarvoor er geen andere bevredigende oplossing bestaat :<br />1° artikel 10, 12 en 17. De afwijkingsmogelijkheid van artikel 12 heeft betrekking op het verbod om specimens van beschermde soorten onder zich te hebben of te vervoeren;<br />2° artikel 19, 23, 26 en 29 van het Jachtdecreet.<br /><br />De afwijking moet worden uitgevoerd volgens de werkingsvoorwaarden, opgenomen in bijlage 4.<br /><br />§ 2. Dieren kunnen gevangen of vervoerd worden van en naar het opvangcentrum door medewerkers van het opvangcentrum of door derden na voorafgaande melding aan het opvangcentrum waar de dieren zullen worden heen gebracht. De medewerkers moeten in het bezit zijn van een identificatiebewijs dat uitgereikt is door het opvangcentrum.<br /><br />Dat identificatiebewijs is persoonlijk en op naam, en het is opgemaakt volgens het model, opgenomen in bijlage 5.<br /><br />Het erkende opvangcentrum houdt een register bij van de uitgereikte identificatiebewijzen en bezorgt jaarlijks voor 31 maart een afschrift van dat register aan het agentschap.<br /><br />§ 3. Opgevangen dieren mogen vervoerd worden van of naar een geschikte bestemming binnen of buiten het Vlaamse Gewest, indien er, op de oorspronkelijke locatie waar de dieren zijn opgevangen, geen geschikte of onvoldoende opvangmogelijkheid bestaat om de dieren te verzorgen, of indien er in de nabijheid van het opvangcentrum geen geschikte biotoop in het natuurlijke verspreidingsgebied beschikbaar is om de dieren, na revalidatie, terug vrij te laten. <br /><br />
+§ 1. Erkende opvangcentra mogen voor het vangen, het tijdelijk onder zich houden, het doden, het vervoeren of het opnieuw vrijlaten van specimens van beschermde diersoorten afwijken van de volgende bepalingen, op voorwaarde dat het gekwetste of hulpbehoevende dieren betreft waarvoor er geen andere bevredigende oplossing bestaat :<br>
+1° artikel 10, 12, 16&nbsp;en 17. De afwijkingsmogelijkheid van artikel 12 heeft betrekking op het verbod om specimens van beschermde soorten onder zich te hebben of te vervoeren;<br>
+2° artikel 19, 23, 26 en 29 van het Jachtdecreet.<br>
+<br>
+De afwijking moet worden uitgevoerd volgens de werkingsvoorwaarden, opgenomen in bijlage 4.<br>
+<br>
+§ 2. Dieren kunnen gevangen of vervoerd worden van en naar het opvangcentrum door medewerkers van het opvangcentrum of door derden na voorafgaande melding aan het opvangcentrum waar de dieren zullen worden heen gebracht. De medewerkers moeten in het bezit zijn van een identificatiebewijs dat uitgereikt is door het opvangcentrum.<br>
+<br>
+Dat identificatiebewijs is persoonlijk en op naam, en het is opgemaakt volgens het model, opgenomen in bijlage 5.<br>
+<br>
+Het erkende opvangcentrum houdt een register bij van de uitgereikte identificatiebewijzen en bezorgt jaarlijks voor 31 maart een afschrift van dat register aan het agentschap.<br>
+<br>
+§ 3. Opgevangen dieren mogen vervoerd worden van of naar een geschikte bestemming binnen of buiten het Vlaamse Gewest, indien er, op de oorspronkelijke locatie waar de dieren zijn opgevangen, geen geschikte of onvoldoende opvangmogelijkheid bestaat om de dieren te verzorgen, of indien er in de nabijheid van het opvangcentrum geen geschikte biotoop in het natuurlijke verspreidingsgebied beschikbaar is om de dieren, na revalidatie, terug vrij te laten.<br>
+&nbsp;
 
 ### ART. 36.
 
-Dieren die voor verzorging en revalidatie zijn opgenomen in een erkend opvangcentrum, moeten opnieuw worden vrijgelaten in het wild of moeten worden geplaatst, conform de voorwaarden opgenomen in bijlage 4, D.<br /><br />
+Dieren die voor verzorging en revalidatie zijn opgenomen in een erkend opvangcentrum, moeten opnieuw worden vrijgelaten in het wild of moeten worden geplaatst of gedood, conform de voorwaarden opgenomen in bijlage 4, D.<br>
+&nbsp;
 
 ## Afdeling 2 Subsidiëring van erkende opvangcentra voor wilde dieren
 
@@ -1684,11 +1960,38 @@ Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies ve
 
 ### ART. 38.
 
-§ 1. Elk erkend opvangcentrum kan aanspraak maken op een jaarlijkse werkingssubsidie van 4500 euro.<br /><br />§ 2. De jaarlijkse werkingssubsidie kan verhoogd worden met 2000 euro per jaar als het opvangcentrum minimaal 300 betalende leden heeft en een publicatieblad uitgeeft dat minstens vier keer per jaar verschijnt.<br /><br />De jaarlijkse werkingssubsidie kan tevens verhoogd worden met 2000 euro per jaar als het opvangcentrum een educatieve, sensibiliserende en informatieve werking aanbiedt aan schoolklassen en andere groepen, waarbij het ten minste twintig groepen van tenminste vijftien personen ontvangt per jaar, en als het opvangcentrum eenmaal per jaar een open dag voor het grote publiek organiseert.<br /><br />§ 3. De bedragen worden jaarlijks geïndexeerd volgens de onderstaande formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex.<br />(bedrag x nieuw indexcijfer)<br />indexcijfer van datum 1 juni 2004<br /><br />
+§ 1. Elk erkend opvangcentrum kan aanspraak maken op een jaarlijkse werkingssubsidie van 4500 euro.<br>
+<br>
+§ 2. De jaarlijkse werkingssubsidie kan verhoogd worden met 2000 euro als het opvangcentrum in het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft, voldoet aan de volgende voorwaarden:<br>
+1° het opvangcentrum heeft minimaal driehonderd betalende leden;<br>
+2° het opvangcentrum geeft een publicatieblad uit dat minstens vier keer is verschenen.<br>
+<br>
+De jaarlijkse werkingssubsidie kan ook verhoogd worden met 2000 euro als het opvangcentrum in het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de aanvraag betrekking heeft, voldoet aan de volgende voorwaarden:<br>
+1° het opvangcentrum biedt een educatieve, sensibiliserende en informatieve werking aan voor schoolklassen en andere groepen, waarbij ten minste twintig groepen van tenminste vijftien personen ontvangen worden;<br>
+2° het opvangcentrum organiseert eenmaal per jaar een open dag voor het grote publiek.<br>
+<br>
+§ 3. De bedragen worden jaarlijks geïndexeerd volgens de onderstaande formule, waarbij het indexcijfer gebaseerd wordt op de gezondheidsindex.<br>
+(bedrag x nieuw indexcijfer)<br>
+indexcijfer van datum 1 juni 2004<br>
+&nbsp;
 
 ### ART. 39.
 
-§ 1. Het erkende opvangcentrum kan een subsidie aanvragen voor de personeelskosten die verbonden zijn aan het inrichten en het functioneren van het opvangcentrum, ten bedrage van de loonkosten van een halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen van de halftijdse betrekking een voltijdse betrekking maakt, kan het een subsidie aanvragen voor de personeelskosten van een tweede, aanvullende halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen een tweede voltijdse betrekking creëert, kan het een subsidie aanvragen voor de personeelskosten van een derde halftijdse medewerker.<br /><br />De subsidie, vermeld in het eerste lid, wordt bepaald conform de salarisschaal van een administratieve medewerker van het Vlaamse Gewest.<br /><br />§ 2. Het opvangcentrum dat wil gebruikmaken van de subsidie, vermeld in § 1, moet voldoen aan de volgende voorwaarden :<br />1° het opvangcentrum is minstens vijf jaar actief in de opvang, verzorging en revalidatie van hulpbehoevende wilde dieren;<br />2° het opvangcentrum heeft een totale voor de opvangactiviteiten relevante oppervlakte van minimaal 500 m2, waarbij de minimuminhoud van alle opvang- en revalidatiekooien 500 m3; bedraagt;<br />3° het opvangcentrum beschikt minstens over de volgende accommodatievoorzieningen :<br />a) onthaal;<br />b) verzorgingsruimte;<br />c) kantoorruimte;<br />d) ruimte voor intensieve verzorging;<br />4° het opvangcentrum heeft een netwerk van ten minste dertig vrijwillige medewerkers uitgebouwd;<br />5° het opvangcentrum vangt jaarlijks minstens zeshonderd wilde dieren op. <br /><br />
+§ 1. Het erkende opvangcentrum kan een subsidie aanvragen voor de personeelskosten die verbonden zijn aan het inrichten en het functioneren van het opvangcentrum, ten bedrage van de loonkosten van een halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen van de halftijdse betrekking een voltijdse betrekking maakt, kan het een subsidie aanvragen voor de personeelskosten van een tweede, aanvullende halftijdse medewerker. Als het opvangcentrum door de inbreng van eigen middelen een tweede voltijdse betrekking creëert, kan het een subsidie aanvragen voor de personeelskosten van een derde halftijdse medewerker.<br>
+<br>
+De subsidie, vermeld in het eerste lid, wordt bepaald conform de salarisschaal van een administratieve medewerker van het Vlaamse Gewest.<br>
+<br>
+§ 2. Het opvangcentrum dat wil gebruikmaken van de subsidie, vermeld in § 1, moet voldoen aan de volgende voorwaarden :<br>
+1° het opvangcentrum is minstens vijf jaar actief in de opvang, verzorging en revalidatie van hulpbehoevende wilde dieren;<br>
+2° het opvangcentrum heeft een totale voor de opvangactiviteiten relevante oppervlakte van minimaal 500 m2, waarbij de minimuminhoud van alle opvang- en revalidatiekooien 500 m3; bedraagt;<br>
+3° het opvangcentrum beschikt minstens over de volgende accommodatievoorzieningen :<br>
+a) onthaal;<br>
+b) verzorgingsruimte;<br>
+c) kantoorruimte;<br>
+d) ruimte voor intensieve verzorging;<br>
+4° het opvangcentrum heeft een netwerk van ten minste dertig vrijwillige medewerkers uitgebouwd;<br>
+5° het opvangcentrum vangt jaarlijks minstens zeshonderd inheemse wilde dieren op.<br>
+&nbsp;
 
 ### ART. 40.
 
@@ -1696,7 +1999,7 @@ Binnen de perken van de begrotingskredieten kan de Vlaamse Regering subsidies ve
 <br>
 § 2. De aanvraag bevat :<br>
 1° het bewijs van erkenning;<br>
-2° de nodige bewijsstukken voor de toetsing van de accommodatie;<br>
+2° de nodige bewijsstukken om te kunnen toetsen of men in aanmerking komt voor de verschillende onderdelen van de subsidies vermeld in artikel 38 en 39;<br>
 3° bij een eerste aanvraag van de subsidie : de nodige bewijsstukken waaruit de jaren van activiteit blijken;<br>
 4° een jaarplanning, inzonderheid voor de publicatie van het periodieke publicatieblad en voor de educatieve, sensibiliserende en informatieve werking;<br>
 5° een begroting van de werkingskosten en eventueel van de personeelskosten;<br>
@@ -1720,7 +2023,19 @@ De subsidie wordt als volgt uitbetaald :<br>
 
 ### ART. 41.
 
-§ 1. Houders van specimens van beschermde vogelsoorten kunnen voor die specimens de verboden handelingen stellen, vermeld in artikel 10 en 12, als aan een van de volgende voorwaarden is voldaan :<br />1° het gaat om specimens die in het Vlaamse Gewest in gevangenschap zijn geboren en gekweekt. Dat wordt aangetoond met een gesloten pootring die voldoet aan de bepalingen van artikel 42, 43 en 44;<br />2° het gaat om specimens die afkomstig zijn uit een ander Belgisch gewest of uit een andere lidstaat van de Europese Unie en die er op een legale wijze onder zich werden gehouden. Dat wordt aangetoond met een van de onderstaande merkingsmethoden :<br />a) een gesloten pootring die voldoet aan de relevante regelgeving van een ander Belgisch gewest of een lidstaat van de Europese Unie en die aantoonbaar rechtmatig is afgegeven;<br />b) een ander rechtmatig afgegeven merkteken dan een gesloten pootring, dat voldoet aan de relevante regelgeving van een ander Belgisch gewest of een lidstaat van de Europese Unie en dat aantoonbaar rechtmatig is afgegeven.<br /><br />Die vrijstelling, als vermeld in het eerste lid, geldt niet voor het verbod inzake het vervoer of de verhandeling van de eieren van die vogelsoorten.<br /><br />§ 2. Met behoud van de afwijkingsregeling, vermeld in § 1, kunnen houders van specimens van de vink, Fringilla coelebs, voor die specimens die geringd zijn met een open pootring die werd aangebracht conform de geldende regelgeving op het moment van het aanbrengen, tot en met 31 december 2015 de verboden handelingen stellen, vermeld in artikel 12.<br /><br />
+§ 1. Houders van specimens van beschermde vogelsoorten kunnen voor die specimens de verboden handelingen stellen, vermeld in artikel 10 en 12, als aan een van de volgende voorwaarden is voldaan :<br>
+1° het gaat om specimens die in het Vlaamse Gewest in gevangenschap zijn geboren en gekweekt. Dat wordt aangetoond met een gesloten pootring die voldoet aan de bepalingen van artikel 42, 43 en 44;<br>
+2° het gaat om specimens die afkomstig zijn uit een ander Belgisch gewest of uit een andere lidstaat van de Europese Unie en die er op een legale wijze onder zich werden gehouden. Dat wordt aangetoond met een van de onderstaande merkingsmethoden :<br>
+a) een gesloten pootring die voldoet aan de relevante regelgeving van een ander Belgisch gewest of een lidstaat van de Europese Unie en die aantoonbaar rechtmatig is afgegeven;<br>
+b) een ander rechtmatig afgegeven merkteken dan een gesloten pootring, dat voldoet aan de relevante regelgeving van een ander Belgisch gewest of een lidstaat van de Europese Unie en dat aantoonbaar rechtmatig is afgegeven.<br>
+3° het gaat om specimens van fazant of patrijs die door professionele kwekers worden gekweekt en gehouden met het oog op consumptiedoeleinden;<br>
+<br>
+De minister kan nadere regels vaststellen voor de wijze waarop kan worden aangetoond dat er voldaan is aan de voorwaarden vermeld in het eerste lid, 2°. Nadat die regels zijn vastgesteld, worden ze meegedeeld aan de Vlaamse Regering.<br>
+<br>
+Die vrijstelling, als vermeld in het eerste lid, geldt niet voor het verbod inzake het vervoer of de verhandeling van de eieren van die vogelsoorten.<br>
+<br>
+§ 2. Met behoud van de afwijkingsregeling, vermeld in § 1, kunnen houders van specimens van de vink, Fringilla coelebs, voor die specimens die geringd zijn met een open pootring die werd aangebracht conform de geldende regelgeving op het moment van het aanbrengen, tot en met 31 december 2015 de verboden handelingen stellen, vermeld in artikel 12.<br>
+&nbsp;
 
 ### ART. 42.
 
@@ -1728,7 +2043,15 @@ De gesloten pootring vermeld in artikel 41, § 1, 1° moet voldoen aan de volgen
 
 ### ART. 43.
 
-De gesloten pootring, vermeld in artikel 41, § 1, mag alleen worden afgeleverd door een vogelhoudersvereniging die erkend is volgens de bepalingen van artikel 45.<br /><br />Een erkende vogelhoudersvereniging, als vermeld in het eerste lid, mag alleen gesloten pootringen afleveren als voldaan is aan de volgende voorwaarden : <br />1° de aanvraag tot het verkrijgen van ringen, die gericht is aan een vereniging, bevat een ondertekende clausule waarin de aanvrager verklaart de voorbije vijf jaar geen veroordeling te hebben opgelopen wegens overtredingen van de regelgeving inzake het houden van vogels in gevangenschap, waarbij er een verbod opgelegd werd tot het houden in gevangenschap van specimens van beschermde vogelsoorten;<br />2° de aanvraag tot het verkrijgen van een hoeveelheid ringen, die gericht is aan een vereniging, bevat een ondertekende clausule waarin de aanvrager verklaart ook werkelijk een vergelijkbare hoeveelheid specimens in gevangenschap te kweken die behoren tot soorten waarvoor die gesloten pootringen vereist zijn.<br /><br />De verenigingen wijzen een aanvraag tot het verkrijgen van pootringen geheel of gedeeltelijk af als redelijkerwijze vermoed kan worden dat de aanvrager in strijd zal handelen met de bepalingen van dit besluit of als de aanvrager een overmatig aantal pootringen aanvraagt. Ze melden dat aan het agentschap.<br /><br />
+De gesloten pootring, vermeld in artikel 41, § 1, mag alleen worden afgeleverd door een vogelhoudersvereniging die erkend is volgens de bepalingen van artikel 45.<br>
+<br>
+Een erkende vogelhoudersvereniging, als vermeld in het eerste lid, mag alleen gesloten pootringen afleveren als voldaan is aan de volgende voorwaarden :<br>
+1° de aanvraag tot het verkrijgen van ringen, die gericht is aan een vereniging, bevat een ondertekende clausule waarin de aanvrager verklaart de voorbije vijf jaar geen veroordeling of geen bestuurlijke geldboete te hebben opgelopen wegens overtredingen van de regelgeving inzake het houden van vogels in gevangenschap;<br>
+2° de aanvraag tot het verkrijgen van een hoeveelheid ringen, die gericht is aan een vereniging, bevat een ondertekende clausule waarin de aanvrager verklaart ook werkelijk een vergelijkbare hoeveelheid specimens in gevangenschap te kweken die behoren tot soorten waarvoor die gesloten pootringen vereist zijn.<br>
+3° de aanvraag tot het verkrijgen van een hoeveelheid ringen, die gericht is aan een vereniging, bevat het adres van de locatie waar de vogels waarvoor de ringen worden aangevraagd worden gehouden, alsook het adres van de woonplaats van de aanvrager.<br>
+<br>
+De verenigingen wijzen een aanvraag tot het verkrijgen van pootringen geheel of gedeeltelijk af als redelijkerwijze vermoed kan worden dat de aanvrager in strijd zal handelen met de bepalingen van dit besluit of als de aanvrager een overmatig aantal pootringen aanvraagt. Ze melden dat onverwijld aan het agentschap.<br>
+&nbsp;
 
 ### ART. 44.
 
@@ -1744,23 +2067,48 @@ De gesloten pootringen, vermeld in artikel 41, § 1, zijn persoonlijk. Ze mogen 
 
 ### ART. 47.
 
-Ten aanzien van erkende vogelhoudersverenigingen gelden de volgende administratieve verplichtingen :<br />1° ze houden een gegevensbestand bij van de door hen verstrekte gesloten pootringen. Daarin is ten minste de volgende informatie opgenomen : het aantal afgeleverde ringen per verschillend ringtype, de datum van afgifte, de namen en adressen van de personen aan wie de ringen zijn afgeleverd;<br />2° ze sturen elk jaar, uiterlijk op 30 april, per provincie, de volgende gegevens naar de provinciale hoofden van het agentschap :<br />a) een lijst met vermelding van het aantal verstrekte gesloten pootringen, evenals de namen en adressen van de vogelhouders die bij de vereniging gesloten pootringen hebben besteld. Die lijst heeft betrekking op de periode van 1 januari tot en met 31 december van het voorafgaande kalenderjaar;<br />b) een overzicht met vermelding van naam, adres en lidnummer van hun leden die specimens onder zich hebben van vogelsoorten die voorkomen op een daartoe door de minister bepaalde lijst, als vermeld in artikel 46, § 1.<br /><br />
+Ten aanzien van erkende vogelhoudersverenigingen gelden de volgende administratieve verplichtingen :<br>
+1° ze houden een gegevensbestand bij van de door hen verstrekte gesloten pootringen, vermeld in artikel 43, eerste lid. Daarin is ten minste de volgende informatie opgenomen : het aantal afgeleverde ringen per verschillend ringtype, de datum van afgifte, de namen en adressen van de personen aan wie de ringen zijn afgeleverd;<br>
+2° ze sturen elk jaar, uiterlijk op 30 april, per provincie, de volgende gegevens naar de provinciale hoofden van het agentschap :<br>
+a) een lijst met vermelding van het aantal verstrekte gesloten pootringen, evenals de namen en adressen van de vogelhouders die bij de vereniging gesloten pootringen hebben besteld. Die lijst heeft betrekking op de periode van 1 januari tot en met 31 december van het voorafgaande kalenderjaar;<br>
+b) een overzicht met vermelding van naam, adres en lidnummer van hun leden die specimens onder zich hebben van vogelsoorten die voorkomen op een daartoe door de minister bepaalde lijst, als vermeld in artikel 46, § 1.<br>
+&nbsp;
 
 ### ART. 48.
 
-Ten aanzien van individuele vogelhouders en vogelhandelaars die specimens onder zich hebben van vogelsoorten die voorkomen op een door de minister bepaalde lijst, als vermeld in artikel 46, § 1, gelden de volgende administratieve verplichtingen :<br />1° ze houden een overzichtslijst bij voor elk kalenderjaar waarin ze specimens van die soorten onder zich hebben, met de volgende gegevens :<br />a) een overzicht van de specimens van die soorten die ze onder zich hebben;<br />b) als specimens werden aangekocht of op een andere wijze werden verworven : de datum van verwerving en bij wie die specimens werden verworven;<br />c) als specimens werden verkocht of op een andere wijze werden afgestaan : de datum van afstand en aan wie die specimens zijn afgestaan;<br />2° ze sluiten die overzichtslijst jaarlijks af op 31 december van het kalenderjaar waarop de lijst betrekking heeft, en vervolgens delen ze mee dat ze voor dat jaar een dergelijke lijst afgesloten hebben aan :<br />a) de erkende vogelhoudersvereniging waarvan ze lid zijn, uiterlijk op 28 februari.<br />b) het provinciale hoofd van het agentschap voor Natuur en Bos, uiterlijk op 30 april, als ze geen lid zijn van een erkende vogelhoudersvereniging.<br />3° ze houden die overzichtslijsten tot vijf jaar na het afsluiten ervan in hun bezit, met het oog op controle door de personen die belast zijn met het toezicht op dit besluit.<br /><br />
+Ten aanzien van individuele vogelhouders en vogelhandelaars die specimens onder zich hebben van vogelsoorten die voorkomen op een door de minister bepaalde lijst, als vermeld in artikel 46, § 1, gelden de volgende administratieve verplichtingen :<br>
+1° ze houden een overzichtslijst bij voor elk kalenderjaar waarin ze specimens van die soorten onder zich hebben, met de volgende gegevens :<br>
+a) een overzicht van de specimens van die soorten die ze onder zich hebben;<br>
+b) als specimens werden aangekocht of op een andere wijze werden verworven : de datum van verwerving en bij wie die specimens werden verworven;<br>
+c) als specimens werden verkocht of op een andere wijze werden afgestaan : de datum van afstand en aan wie die specimens zijn afgestaan;<br>
+2° ze sluiten die overzichtslijst jaarlijks af op 31 december van het kalenderjaar waarop de lijst betrekking heeft, en vervolgens delen ze mee dat ze voor dat jaar een dergelijke lijst afgesloten hebben aan :<br>
+a) de erkende vogelhoudersvereniging waarvan ze lid zijn, uiterlijk op 28 februari.<br>
+b) het provinciale hoofd van het agentschap voor Natuur en Bos, uiterlijk op 30 april, als ze geen lid zijn van een erkende vogelhoudersvereniging.<br>
+3° ze houden die overzichtslijsten tot vijf jaar na het afsluiten ervan in hun bezit, met het oog op controle door de personen die belast zijn met het toezicht op dit besluit.<br>
+<br>
+De minister stelt een model vast van de overzichtslijst vermeld in het eerste lid.
 
 ## Afdeling 2 Het houden van andere beschermde soorten dan vogels in gevangenschap
 
 ### ART. 49.
 
-Houders van specimens van andere beschermde diersoorten dan vogels kunnen de verboden handelingen, vermeld in artikel 10 en 12, stellen, op voorwaarde dat ontegensprekelijk kan worden aangetoond dat is voldaan aan één van de volgende voorwaarden :<br />1° de specimens zijn in gevangenschap geboren of gekweekt;<br />2° de specimens waren al legaal uit het wild onttrokken voor de inwerkingtreding van de Habitatrichtlijn, namelijk op 10 juni 1994; <br />3° de specimens zijn afkomstig uit een ander Belgisch Gewest of uit een andere lidstaat van de Europese Unie, waar zij op een legale wijze onder zich werden gehouden. <br /><br />De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden aangetoond dat er voldaan is aan de in het eerste lid vermelde voorwaarden. Nadat die regels zijn vastgesteld, worden ze meegedeeld aan de Vlaamse Regering.<br /><br />
+Houders van specimens van andere beschermde diersoorten dan vogels kunnen de verboden handelingen, vermeld in artikel 10 en 12, stellen, op voorwaarde dat ontegensprekelijk kan worden aangetoond dat is voldaan aan één van de volgende voorwaarden :<br>
+1° de specimens zijn in gevangenschap geboren of gekweekt;<br>
+2° de specimens waren al legaal uit het wild onttrokken voor de inwerkingtreding van de Habitatrichtlijn, namelijk op 10 juni 1994;<br>
+3° de specimens zijn afkomstig uit een ander Belgisch Gewest of uit een andere lidstaat van de Europese Unie, waar zij op een legale wijze onder zich werden gehouden.<br>
+4° het gaat om specimens van boommarter, bunzing, hermelijn of wezel die al legaal onder zich werden gehouden voor de inwerkingtreding van het aankruisen van die soorten in categorie 1 van bijlage 1.<br>
+<br>
+De minister kan nadere regels vaststellen betreffende de wijze waarop kan worden aangetoond dat er voldaan is aan de in het eerste lid vermelde voorwaarden. Nadat die regels zijn vastgesteld, worden ze meegedeeld aan de Vlaamse Regering.<br>
+&nbsp;
 
 ## HOOFDSTUK 7 Toezicht
 
 ### ART. 50.
 
-§ 1. De beheerders van erkende opvangcentra, de vogelhouders, de vogelhandelaars en de erkende vogelhoudersverenigingen zijn ertoe verplicht het toezicht te aanvaarden van de personen die zijn belast met het toezicht op dit besluit. <br /><br />De beheerders van erkende opvangcentra, de vogelhouders en de vogelhandelaars zijn er bovendien toe verplicht alle maatregelen te nemen om het toezicht te vergemakkelijken. Dat kan onder meer het vangen van de specimens in de kooi of in de volière voor de controle inhouden.<br /><br />§ 2. Het agentschap kan alle nodige onderzoeken verrichten om te bepalen of een in gevangenschap gehouden specimen van een beschermde soort wel degelijk van kweek afkomstig is. Als uit het onderzoek blijkt dat een specimen niet van kweek afkomstig is, vallen de kosten van het onderzoek ten laste van de degene die het specimen onder zich heeft.<br /><br />
+§ 1. ...<br>
+<br>
+§ 2. Het agentschap kan alle nodige onderzoeken verrichten om te bepalen of een in gevangenschap gehouden specimen van een beschermde soort wel degelijk van kweek afkomstig is. Als uit het onderzoek blijkt dat een specimen niet van kweek afkomstig is, vallen de kosten van het onderzoek ten laste van de degene die het specimen onder zich heeft.<br>
+&nbsp;
 
 ### ART. 51.
 
@@ -1806,12283 +2154,5212 @@ De Vlaamse minister, bevoegd voor Openbare werken, Energie, Leefmilieu en Natuur
 
 ### BIJLAGE 1
 
-wetenschappelijke naamDeze bijlage bevat vijf categorieën, die worden weergegeven door middel van kolommen achter de namen van de, op de Nederlandstalige benamingalfabetisch gerangschikte, soorten.<br>
+Bijlage 1. Soorten waarop de beschermingsbepalingen van dit besluit van toepassing zijn en categorisering van die soorten<br>
 <br>
-Voor de vogelsoorten zijn alleen de soorten opgenomen die :<br>
-- regelmatig voorkomen in het Vlaamse Gewest of waarvan al minimaal twintig aanvaarde gevallen zijn vastgesteld op het moment dat dit besluit in werking is getreden;<br>
-- niet regelmatig voorkomen in het Vlaamse Gewest, maar wel behoren tot categorie 5.<br>
+Deze bijlage bevat vijf categorieën, die worden weergegeven door middel van kolommen achter de namen van de, op de Nederlandstalige benaming alfabetisch gerangschikte, soorten.<br>
 <br>
-Voor de groepen van soorten, die in deze bijlage zijn aangegeven met de term « alle soorten » : de bepalingen van het besluit zijn alleen van toepassing op de inheemse soorten van die groepen van soorten.<br>
+Voor de vogelsoorten zijn alleen de soorten opgenomen die:<br>
+1° regelmatig voorkomen in het Vlaamse Gewest of waarvan al minimaal twintig aanvaarde gevallen zijn vastgesteld op het moment dat dit besluit in werking is getreden;<br>
+2° niet regelmatig voorkomen in het Vlaamse Gewest, maar wel behoren tot categorie 5.<br>
+<br>
+Voor de groepen van soorten, die in deze bijlage zijn aangegeven met de term "alle soorten": de bepalingen van het besluit zijn alleen van toepassing op de inheemse soorten van die groepen van soorten.<br>
 <br>
 Let wel, behalve de soorten opgenomen in deze bijlage zijn ook de soorten beschermd die worden vermeld in artikel 9, tweede lid van het besluit.<br>
-Categorie 1 : soorten waarop de basisbeschermingsbepalingen van het besluit van toepassing zijn. Van die beschermingsbepalingen kan worden afgeweken onder de voorwaarden van artikel 20, § 1, § 2 en § 4. Bovendien gelden voor die soorten de aan planologische bestemming verbonden vrijstellingen, vermeld in artikel 11 en 15.<br>
-Categorie 2 : soorten waarop de basisbeschermingsbepalingen van toepassing zijn. Van die beschermingsbepalingen kan er worden afgeweken onder de voorwaarden van artikel 20, § 1, § 3 en § 4.<br>
-Categorie 3 : soorten die zijn opgenomen in bijlage IV van de Habitatrichtlijn, en die regelmatig voorkomen in het Vlaamse Gewest. Als gevolg van hun aanwezigheid op de vermelde bijlage van de Habitatrichtlijn genieten die soorten van de strengste beschermingsregeling. Van de beschermingsregeling ten aanzien van deze soorten kan worden afgeweken onder de voorwaarden van artikel 20, § 1 en § 4.<br>
-Alle soorten vermeld in categorie 1, 2 en 3 komen in aanmerking voor maatregelen en programma's van soortenbehoud, zoals beschreven in hoofdstuk 3, afdeling 3, op voorwaarde dat ze als uitgestorven, met uitsterven bedreigd, bedreigd, kwetsbaar of zeldzaam zijn opgenomen in een rode lijst conform artikel 5.<br>
-Categorie 4 : soorten als vermeld in artikel 3, § 2, 3° en 4°, waarop dit besluit alleen van toepassing is als het gaat over aspecten die niet geregeld worden in de jacht- of visserijregelgeving.<br>
-Categorie 5 : soorten die in aanmerking komen voor vervoer als vermeld in artikel 13, 2°.
-<table border="1" cellpadding="0">
+<br>
+Categorie 1: soorten waarop de basisbeschermingsbepalingen van het besluit van toepassing zijn. Van die beschermingsbepalingen kan worden afgeweken onder de voorwaarden van artikel 20, § 1, § 2 en § 4. Bovendien gelden voor die soorten de aan planologische bestemming verbonden vrijstellingen, vermeld in artikel 11 en 15.<br>
+<br>
+Categorie 2: soorten waarop de basisbeschermingsbepalingen van toepassing zijn. Van die beschermingsbepalingen kan er worden afgeweken onder de voorwaarden van artikel 20, § 1, § 3 en § 4.<br>
+<br>
+Categorie 3: soorten die zijn opgenomen in bijlage IV van de Habitatrichtlijn, en die voorkomen of kunnen voorkomen in het Vlaamse Gewest. Als gevolg van hun aanwezigheid op de vermelde bijlage van de Habitatrichtlijn genieten die soorten van de strengste beschermingsregeling. Van de beschermingsregeling ten aanzien van deze soorten kan worden afgeweken onder de voorwaarden van artikel 20, § 1 en § 4.<br>
+<br>
+Categorie 4: soorten als vermeld in artikel 3, § 2, 3° en 4°, waarop dit besluit alleen van toepassing is als het gaat over aspecten die niet geregeld worden in de jacht- of visserijregelgeving.<br>
+<br>
+Categorie 5: soorten die in aanmerking komen voor vervoer als vermeld in artikel 13, 2°.<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>wetenschappelijke naam<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>Nederlandse naam</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>1</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>2</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>3</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>4</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>5</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>DIERSOORTEN</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>GEWERVELDEN</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p><strong>&nbsp;</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>MAMMALIA</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ZOOGDIEREN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis mystacinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>baardvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis bechsteinii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bechsteins vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Castor fiber</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Martes martes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boommarter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sorex araneus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bosspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Nyctalus leisleri</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bosvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis brandtii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Brandts vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mustela putorius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bunzing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dama dama</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>damhert</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Meles meles</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>das</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pipistrellus pipistrellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dwergvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cervus elaphus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>edelhert</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis nattereri</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>franjestaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sorex minutus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewone dwergspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Plecotus auritus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewone grootoorvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phoca vitulina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewone zeehond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Plecotus austriacus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grijze grootoorvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Halichoerus grypus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grijze zeehond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Apodemus flavicollis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote bosmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rhinolophus ferrumequinum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote hoefijzerneus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lepus europaeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>haas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cricetus cricetus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hamster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Muscardinus avellanarius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hazelmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mustela erminea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hermelijn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Crocidura russula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>huisspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis emarginatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ingekorven vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pipistrellus pygmaeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine dwergvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oryctolagus cuniculus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>konijn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eptesicus serotinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>laatvlieger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lynx lynx</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lynx</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis dasycneme</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>meervleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ovis musimon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>moeflon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Barbastrella barbastrellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>mopsvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lutra lutra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>otter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Capreolus capreolus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ree</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sciurus vulgaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode eekhoorn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Nyctalus noctula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rosse vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pipistrellus nathusii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ruige dwergvleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Martes foina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steenmarter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sorex coronatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tweekleurige bosspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vespertilio murinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tweekleurige vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis myotis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vale vleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Crocidura leucodon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>veldspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vulpes vulpes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cetacea spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>walvisachtigen B alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Neomys fodiens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterspitsmuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Myotis daubentonii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>watervleermuis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erinaceus europaeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>West-Europese egel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mustela nivalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wezel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sus scrofa</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wild zwijn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Felis silvestris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wilde kat</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>AVES</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>VOGELS</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phalacrocorax carbo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>aalscholver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alca torda</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Apus melba</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alpengierzwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Coccothraustes coccothraustes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>appelvink</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Panurus biarmicus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>baardmannetje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alectoris barbara</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Barbarijse patrijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis flammea synklepton</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>barmsijs soortencomplex</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus torquatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>beflijster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tadorna tadorna</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bergeend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus bonelli</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bergfluiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Merops apiaster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bijeneter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus inornatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bladkoning</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Luscinia svecica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwborst</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Circus cyaneus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwe kiekendief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ardea cinerea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwe reiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hirundo rustica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boerenzwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lymnocryptes minimus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bokje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Charadrius hiaticula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bontbekplevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris alpina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bonte strandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ficedula hypoleuca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bonte vliegenvanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sitta europaea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boomklever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Certhia brachydactyla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boomkruiper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lullula arborea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boomleeuwerik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus trivialis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boompieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Falco subbuteo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boomvalk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acrocephalus palustris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bosrietzanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa glareola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bosruiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Strix aluco</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bosuil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sylvia curruca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>braamsluiper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Branta leucopsis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>brandgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Limicola falcinellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>breedbekstrandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bucephala clangula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>brilduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus fuscatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bruine boszanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Circus aeruginosus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bruine kiekendief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Remiz pendulinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>buidelmees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Buteo buteo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>buizerd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Branta canadensis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Canadese gans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cettia cetti</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cetti's zanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza cirlus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>cirlgors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tachybaptus ruficollis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dodaars</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna dougallii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dougalls stern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Jynx torquilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>draaihals</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rissa tridactyla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>drieteenmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris alba</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>drieteenstrandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus campestris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>duinpieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anser erythropus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dwerggans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza pusilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dwerggors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus minutus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dwergmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna albifrons</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dwergstern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Somateria mollissima</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>eidereend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pica pica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ekster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Serinus serinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Europese kanarie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phasianus colchicus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fazant</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus trochilus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fitis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus sibilatrix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fluiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis flavirostris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>frater</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Podiceps cristatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fuut</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Garrulus glandarius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gaai</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza citrinella</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>geelgors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus michahellis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>geelpootmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phoenicurus phoenicurus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gekraagde roodstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Motacilla flava</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gele kwikstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Podiceps nigricollis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>geoorde fuut</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris melanotos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gestreepte strandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Apus apus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gierzwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus palustris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>glanskop</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Regulus regulus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>goudhaantje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pluvialis apricaria</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>goudplevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pyrrhula pyrrhula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>goudvink</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sylvia communis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grasmus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus pratensis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>graspieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cisticola juncidis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>graszanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phalaropus lobatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe franjepoot</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anser anser</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe gans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Miliaria calandra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe gors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Circus pygargus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe kiekendief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lanius collurio</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe klauwier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Puffinus griseus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe pijlstormvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Muscicapa striata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grauwe vliegenvanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Burhinus oedicnemus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>griel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza cia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grijze gors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Picus viridis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>groene specht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis chloris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>groenling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa nebularia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>groenpootruiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dendrocopos major</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote bonte specht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus hyperboreus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote burgemeester</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Motacilla cinerea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote gele kwikstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Catharacta skua</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote jager</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acrocephalus arundinaceus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote karekiet</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Loxia pityopsittacus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote kruisbek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus viscivorus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote lijster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus marinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote mantelmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus richardi</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote pieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna sandvicensis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote stern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Otis tarda</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote trap</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mergus merganser</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote zaagbek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Melanitta fusca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote zee-eend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Casmerodius albus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote zilverreiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Limosa limosa</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grutto</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Accipiter gentilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>havik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Prunella modularis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>heggenmus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Columba oenas</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>holenduif</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Upupa epops</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hop</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Columba palumbus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>houtduif</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Scolopax rusticola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>houtsnip</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Passer domesticus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>huismus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Delichon urbica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>huiszwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gavia immer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ijsduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Clangula hyemalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ijseend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calcarius lapponicus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ijsgors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alcedo atthis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ijsvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Morus bassanus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Jan-van-gent</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris canutus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kanoet</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Corvus monedula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kauw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fringilla montifringilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>keep</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Philomachus pugnax</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kemphaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tyto alba</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kerkuil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vanellus vanellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kievit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lanius excubitor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>klapekster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Porzana parva</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>klein waterhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alle alle</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine alk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dendrocopos minor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine bonte specht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus glaucoides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine burgemeester</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Stercorarius parasiticus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine jager</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acrocephalus scirpaceus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine karekiet</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus fuscus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine mantelmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Charadrius dubius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine plevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anser brachyrhynchus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine rietgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris minuta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine strandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tetrax tetrax</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine trap</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ficedula parva</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine vliegenvanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Egretta garzetta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine zilverreiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cygnus columbianus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine zwaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Porzana pusilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleinst waterhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Stercorarius longicaudus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleinste jager</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Recurvirostra avosetta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kluut</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis cannabina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kneu</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cygnus olor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>knobbelzwaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cuculus canorus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koekoek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bulbulcus ibis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koereiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus ridibundus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kokmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anser albifrons</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kolgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus major</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koolmees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus iliacus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koperwiek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tetrao tetrix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>korhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calandrella brachydactyla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kortteenleeuwerik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Corvus corone</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kraai</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Grus grus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kraanvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas strepera</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>krakeend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus pilaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kramsvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris ferruginea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>krombekstrandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Netta rufina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>krooneend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Loxia curvirostra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kruisbek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calonectris diomedea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Kuhls pijlstormvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phalacrocorax aristotelis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kuifaalscholver</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Podiceps auritus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kuifduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aythya fuligula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kuifeend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Galerida cristata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kuifleeuwerik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus cristatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kuifmees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Nycticorax nycticorax</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kwak</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Coturnix coturnix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kwartel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Crex crex</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kwartelkoning</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gelochelidon nilotica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lachstern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Platalea leucorodia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lepelaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus montanus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>matkop</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fulica atra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>meerkoet</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus merula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>merel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dendrocopos medius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>middelste bonte specht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Stercorarius pomarinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>middelste jager</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mergus serrator</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>middelste zaagbek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lagopus lagopus s.l.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>moerassneeuwhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eudromias morinellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>morinelplevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Luscinia megarhynchos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>nachtegaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Caprimulgus europaeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>nachtzwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Mergus albellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>nonnetje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Luscinia luscinia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>noordse nachtegaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Puffinus puffinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>noordse pijlstormvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna paradisaea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>noordse stern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fulmarus glacialis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>noordse stormvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Nucifraga caryocatactes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>notenkraker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bubo bubo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>oehoe</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Actitis hypoleucos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>oeverloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus petrosus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>oeverpieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Riparia riparia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>oeverzwaluw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ciconia ciconia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ooievaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hippolais polyglotta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Orpheusspotvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza hortulana</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ortolaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Saxicola rubetra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>paapje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris maritima</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>paarse strandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus proregulus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pallas' boszanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fratercula arctica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>papegaaiduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gavia arctica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>parelduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Perdix perdix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>patrijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bombycilla garrulus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pestvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas acuta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pijlstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus caeruleus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pimpelmees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa stagnatilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>poelruiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gallinago media</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>poelsnip</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus cachinnans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pontische meeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Porzana porzana</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>porseleinhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ardea purpurea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>purperreiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis carduelis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>putter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ardeola ralloides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ralreiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Asio otus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ransuil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Numenius phaeopus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>regenwulp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna caspia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>reuzenstern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anser fabalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rietgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Emberiza schoeniclus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rietgors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acrocephalus schoenobaenus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rietzanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Passer montanus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ringmus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alectoris rufa</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode patrijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Milvus milvus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode wouw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Corvus frugilegus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Botaurus stellaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roerdomp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erithacus rubecula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodborst</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Saxicola torquata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodborsttapuit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Podiceps grisegena</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodhalsfuut</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Branta ruficollis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodhalsgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gavia stellata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodkeelduiker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus cervinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodkeelpieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lanius senator</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodkopklauwier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carpodacus erythrinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodmus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Falco vespertinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roodpootvalk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phalaropus fulicarius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rosse franjepoot</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Limosa lapponica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rosse grutto</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Branta bernicla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rotgans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sturnus roseus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>roze spreeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Buteo lagopus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ruigpootbuizerd</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Coracias garrulus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>scharrelaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Haematopus ostralegus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>scholekster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carduelis spinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>sijs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Circaetus gallicus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>slangenarend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Falco peregrinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>slechtvalk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas clypeata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>slobeend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Falco columbarius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>smelleken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas penelope</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>smient</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Plectrophenax nivalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>sneeuwgors</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Locustella luscinioides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>snor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Accipiter nisus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>sperwer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sylvia nisoria</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>sperwergrasmus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hippolais icterina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>spotvogel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sturnus vulgaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>spreeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Locustella naevia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>sprinkhaanzanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aegithalos caudatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>staartmees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Arenaria interpres</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steenloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Athene noctua</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steenuil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Himantopus himantopus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steltkluut</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Circus macrourus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>steppenkiekendief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus canus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>stormmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hydrobates pelagicus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>stormvogeltje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eremophila alpestris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>strandleeuwerik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Charadrius alexandrinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>strandplevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aythya ferina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tafeleend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Certhia familiaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>taigaboomkruiper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oenanthe oenanthe</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tapuit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calidris temminckii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Temmincks strandloper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phylloscopus collybita</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tjiftjaf</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aythya marila</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>toppereend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Falco tinnunculus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>torenvalk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Streptopelia turtur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tortelduif</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sylvia borin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tuinfluiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa totanus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tureluur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Streptopelia decaocto</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turkse tortel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oceanodroma leucorhoa</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vaal stormvogeltje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gyps fulvus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vale gier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alauda arvensis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>veldleeuwerik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Asio flammeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>velduil</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fringilla coelebs</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vink</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pandion haliaetus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>visarend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sterna hirundo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>visdief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus sabini</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vorkstaartmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Regulus ignicapillus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vuurgoudhaantje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gallinula chloropus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterhoen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anthus spinoletta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterpieper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rallus aquaticus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterral</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acrocephalus paludicola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterrietzanger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gallinago gallinago</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>watersnip</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cinclus cinclus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterspreeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pernis apivorus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wespendief</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oriolus oriolus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wielewaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas platyrhynchos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wilde eend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cygnus cygnus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wilde zwaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Troglodytes troglodytes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>winterkoning</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas crecca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wintertaling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Loxia leucoptera</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witbandkruisbek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa ochropus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witgatje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Aythya nyroca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witoogeend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Motacilla alba</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witte kwikstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Chlidonias leucopterus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witvleugelstern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Chlidonias hybridus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witwangstern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ixobrychus minutus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>woudaapje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Numenius arquata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wulp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Turdus philomelos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zanglijster</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Haliaeetus albicilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zeearend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Uria aalge</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zeekoet</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus argentatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zilvermeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pluvialis squatarola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zilverplevier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anas querquedula</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zomertaling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Plegadis falcinellus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte ibis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parus ater</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte mees</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ciconia nigra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte ooievaar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Phoenicurus ochruros</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte roodstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tringa erythropus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte ruiter</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dryocopus martius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte specht</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Chlidonias niger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte stern</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Milvus migrans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte wouw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Melanitta nigra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwarte zee-eend</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sylvia atricapilla</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwartkop</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Larus melanocephalus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zwartkopmeeuw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>REPTILIA</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>REPTIELEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vipera berus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>adder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Coronella austriaca</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gladde slang</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anguis fragilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>hazelworm</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Zootoca vivipara</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>levendbarende hagedis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Podarcis muralis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>muurhagedis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Natrix natrix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ringslang</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>AMPHIBIA</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>AMFIBIE"N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ichthyosaura alpestris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alpenwatersalamander</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pelophylax kl. esculenta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bastaardkikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hyla arborea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boomkikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rana temporaria</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bruine kikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bufo bufo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewone pad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bombina variegata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>geelbuikvuurpad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rana arvalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>heikikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Triturus cristatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kamsalamander</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lissotriton vulgaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine watersalamander</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pelobates fuscus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>knoflookpad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pelophylax ridibundus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>meerkikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pelophylax lessonae</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>poelkikker</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bufo calamita</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rugstreeppad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lissotriton helveticus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vinpootsalamander</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alytes obstretricans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vroedmeesterpad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Salamandra salamandra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vuursalamander</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>PISCES</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>VISSEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Acipenser sturio</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Atlantische steur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Salmo salar</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Atlantische zalm</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cottus rhenanus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>beekdonderpad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lampetra planeri</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>beekprik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rhodeus sericeus amarus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bittervoorn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Alosa fallax</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fint</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Misgurnus fossilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote modderkruiper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cobitis taenia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine modderkruiper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cottus perifretum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rivierdonderpad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lampetra fluviatilis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rivierprik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Petromyzon marinus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zeeprik</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;ONGEWERVELDEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Abax carinatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Agonum ericeti</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Agonum gracilipes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Amara brunnea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anisodactylus nemorivagus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anisodactylus poeciloides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anisodactylus signatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bembidion ephippium</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bembidion litorale</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bembidion monticola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Blethisa multipunctata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Brachinus crepitans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Bradycellus csikii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calathus ambiguous</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calosoma sycophanta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carabus cancellatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cicindela germanica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cicindela sylvatica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Harpalus flavescens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Harpalus honestus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Harpalus neglectus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Harpalus quadripunctatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Harpalus rupicola</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lebia cruxminor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leistus piceus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oxythyrea funesta</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Perileptus areolatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pogonus littoralis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pogonus luridipennis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pterostichus kugelanni</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Pterostichus longicollis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Zabrus tenebrioides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Oedipoda caerulescens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwvleugelsprinkhaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leptidea sinapis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>boswitje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erynnis tages</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bruin dikkopje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lycaena tityrus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>bruine vuurvlinder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Typhoeus typhoeus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>driehoornmestkever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Polyphylla fullo</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>duin- of julikever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Odontaeus armiger</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>eenhoornmestkever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ophiogomphus cecilia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gaffellibel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dolomedes fimibriatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gerande oeverspin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Maculinea alcon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gentiaanblauwtje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leucorrhinia pectoralis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gevlekte witsnuitlibel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Atypus affinis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gewone mijnspin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cetonia aurata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gouden tor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tettigonia viridissima</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>grote groene sabelsprinkhaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Osmoderma eremita</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>juchtleerkever</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Argynnis paphia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>keizersmantel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Polyommatus semiargus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>klaverblauwtje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Issoria lathonia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine parelmoervlinder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Protaetia cuprea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koperkleurige gouden tor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Prionus coriarius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lederboktor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Odonata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>libellen : alle soorten met uitzondering van die welke specifiek in deze bijlage worden vermeld</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Coccinelidae</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lieveheersbeestjes : alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Carabus s.l. spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>schalebijters : alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vertigo angustior</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>nauwe korfslak</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Hydrophilus piceus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pikzwarte of spinnende watertor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Maculinea teleius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>pimpernelblauwtje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Anisus vorticulus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>platte schijfhoorn</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calosoma spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>poppenrovers B alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Donacia en Plateumaris spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>riettorretjes B alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gomphus flavipes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rivierrombout</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Formica rufa s.l.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode bosmier s.l. (kale bosmier, behaarde bosmier en zwartrugbosmier)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gomphocerripus rufus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rosse sprinkhaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Callimorpha quadripunctaria</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Spaanse vlag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Proserpinus proserpina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>teunisbloempijlstaart</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Argiope bruennichi</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>tijgerspin of wespspin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Melitaea cinxia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>veldparelmoervlinder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lucanus cervus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>vliegend hert</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dytiscus en Cybister spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterroofkevers B alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Argyroneta aquatica</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterspin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Helix pomatia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>wijngaardslak</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cicindela spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zandloopkevers B alle soorten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Vertigo moulinsiana</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zeggenkorfslak</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Stenobothrus lineatus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zoemertje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eriogaster catax</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zuidelijke woldrager of bosrandspinner</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;PLANTENSOORTEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Nymphaeaceae</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten waterlelies</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Orchidaceae</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten orchideeën : alle soorten met uitzondering van die welke specifiek op soortnaam in deze bijlage worden vermeld</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Rosa spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten rozen, behalve bosroos Rosa arvensis en hondsroos Rosa canina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sphagnum spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten veenmossen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lycopodiaceae</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten wolfsklauwachtigen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Salicornia spp</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>alle soorten zeekraal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Eryngium maritimum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>blauwe zeedistel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Actaea spicata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Christoffelkruid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erica tetralix</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>dopheide</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Sparganium angustifolium</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>drijvende egelskop</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Luronium natans</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>drijvende waterweegbree</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Centaurium erythraea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>echt duizendguldenkruid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Armeria maritima</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Engels gras</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Centaurium pulchellum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>fraai duizendguldenkruid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Drepanocladus vernicosus</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>geel schorpioenmos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Halimione pedunculata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>gesteelde zoutmelde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Erica cinerea</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rode dopheide</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Liparis loeselii</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>groenknolorchis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Althaea officinalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>heemst</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dianthus deltoides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>heideanjer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Juniperus communis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>jeneverbes</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Drosera intermedia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kleine zonnedauw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Gentiana pneumonanthe</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>klokjesgentiaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Osmunda regalis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>koningsvaren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Stratiotes aloides</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>krabbenscheer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Apium repens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>kruipend moerasscherm</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Limonium vulgare</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lamsoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leucojum vernum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>lenteklokje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Parnassia palustris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>parnassia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Daphne mezereum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>peperboompje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Drosera rotundifolia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>ronde zonnedauw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calla palustris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>slangenwortel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Tamus communis</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>spekwortel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Primula vulgaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>stengelloze sleutelbloem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Centaurium littorale</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>strandduizendguldenkruid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Menyanthes trifoliata</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterdrieblad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Lobelia dortmanna</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>waterlobelia</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Ranunculus platanifolius</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>witte boterbloem</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Calystegia soldanella</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zeewinde</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Leucojum aestivum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>zomerklokje</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;KORSTMOSSEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Cladonia spp. Subgen. Cladina</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>rendiermossen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>X</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;ZWAMMEN</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
+			<td>wetenschappelijke naam</td>
+			<td>Nederlandse naam</td>
+			<td>1</td>
+			<td>2</td>
+			<td>3</td>
+			<td>4</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;DIERSOORTEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;GEWERVELDEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>MAMMALIA</td>
+			<td>ZOOGDIEREN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis mystacinus</td>
+			<td>baardvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis bechsteinii</td>
+			<td>Bechsteins vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Castor fiber</td>
+			<td>bever</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Martes martes</td>
+			<td>boommarter</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sorex araneus</td>
+			<td>bosspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nyctalus leisleri</td>
+			<td>bosvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis brandtii</td>
+			<td>Brandts vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mustela putorius</td>
+			<td>bunzing</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dama dama</td>
+			<td>damhert</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Meles meles</td>
+			<td>das</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pipistrellus pipistrellus</td>
+			<td>dwergvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cervus elaphus</td>
+			<td>edelhert</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Eliomys quercinus</td>
+			<td>eikelmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis nattereri</td>
+			<td>franjestaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sorex minutus</td>
+			<td>gewone dwergspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plecotus auritus</td>
+			<td>gewone grootoorvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phoca vitulina</td>
+			<td>gewone zeehond</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plecotus austriacus</td>
+			<td>grijze grootoorvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Halichoerus grypus</td>
+			<td>grijze zeehond</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Apodemus flavicollis</td>
+			<td>grote bosmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rhinolophus ferrumequinum</td>
+			<td>grote hoefijzerneus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lepus europaeus</td>
+			<td>haas</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cricetus cricetus</td>
+			<td>hamster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Muscardinus avellanarius</td>
+			<td>hazelmuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mustela erminea</td>
+			<td>hermelijn</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Crocidura russula</td>
+			<td>huisspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis emarginatus</td>
+			<td>ingekorven vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pipistrellus pygmaeus</td>
+			<td>kleine dwergvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oryctolagus cuniculus</td>
+			<td>konijn</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Eptesicus serotinus</td>
+			<td>laatvlieger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lynx lynx</td>
+			<td>lynx</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis dasycneme</td>
+			<td>meervleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ovis musimon</td>
+			<td>moeflon</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Barbastrella barbastrellus</td>
+			<td>mopsvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lutra lutra</td>
+			<td>otter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Capreolus capreolus</td>
+			<td>ree</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sciurus vulgaris</td>
+			<td>rode eekhoorn</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nyctalus noctula</td>
+			<td>rosse vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pipistrellus nathusii</td>
+			<td>ruige dwergvleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Martes foina</td>
+			<td>steenmarter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sorex coronatus</td>
+			<td>tweekleurige bosspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vespertilio murinus</td>
+			<td>tweekleurige vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis myotis</td>
+			<td>vale vleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Crocidura leucodon</td>
+			<td>veldspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vulpes vulpes</td>
+			<td>vos</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cetacea spp</td>
+			<td>walvisachtigen - alle soorten</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Neomys fodiens</td>
+			<td>waterspitsmuis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Myotis daubentonii</td>
+			<td>watervleermuis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Erinaceus europaeus</td>
+			<td>West-Europese egel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mustela nivalis</td>
+			<td>wezel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sus scrofa</td>
+			<td>wild zwijn</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Felis silvestris</td>
+			<td>wilde kat</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Canis lupus lupus</td>
+			<td>Europese wolf</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>AVES</td>
+			<td>VOGELS</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phalacrocorax carbo</td>
+			<td>aalscholver</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alca torda</td>
+			<td>alk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Apus melba</td>
+			<td>Alpengierzwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Coccothraustes coccothraustes</td>
+			<td>appelvink</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Panurus biarmicus</td>
+			<td>baardmannetje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alectoris barbara</td>
+			<td>Barbarijse patrijs</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>Carduelis flammea synklepton</td>
+			<td>barmsijs soortencomplex</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus torquatus</td>
+			<td>beflijster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tadorna tadorna</td>
+			<td>bergeend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus bonelli</td>
+			<td>bergfluiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Merops apiaster</td>
+			<td>bijeneter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus inornatus</td>
+			<td>bladkoning</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Luscinia svecica</td>
+			<td>blauwborst</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Circus cyaneus</td>
+			<td>blauwe kiekendief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ardea cinerea</td>
+			<td>blauwe reiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hirundo rustica</td>
+			<td>boerenzwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lymnocryptes minimus</td>
+			<td>bokje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Charadrius hiaticula</td>
+			<td>bontbekplevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris alpina</td>
+			<td>bonte strandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ficedula hypoleuca</td>
+			<td>bonte vliegenvanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sitta europaea</td>
+			<td>boomklever</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Certhia brachydactyla</td>
+			<td>boomkruiper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lullula arborea</td>
+			<td>boomleeuwerik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus trivialis</td>
+			<td>boompieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Falco subbuteo</td>
+			<td>boomvalk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acrocephalus palustris</td>
+			<td>bosrietzanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa glareola</td>
+			<td>bosruiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Strix aluco</td>
+			<td>bosuil</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sylvia curruca</td>
+			<td>braamsluiper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Branta leucopsis</td>
+			<td>brandgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Limicola falcinellus</td>
+			<td>breedbekstrandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bucephala clangula</td>
+			<td>brilduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus fuscatus</td>
+			<td>bruine boszanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Circus aeruginosus</td>
+			<td>bruine kiekendief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Remiz pendulinus</td>
+			<td>buidelmees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Buteo buteo</td>
+			<td>buizerd</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Branta canadensis</td>
+			<td>Canadese gans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cettia cetti</td>
+			<td>Cetti's zanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza cirlus</td>
+			<td>cirlgors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tachybaptus ruficollis</td>
+			<td>dodaars</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna dougallii</td>
+			<td>Dougalls stern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Jynx torquilla</td>
+			<td>draaihals</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rissa tridactyla</td>
+			<td>drieteenmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris alba</td>
+			<td>drieteenstrandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus campestris</td>
+			<td>duinpieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anser erythropus</td>
+			<td>dwerggans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza pusilla</td>
+			<td>dwerggors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus minutus</td>
+			<td>dwergmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna albifrons</td>
+			<td>dwergstern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Somateria mollissima</td>
+			<td>eidereend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pica pica</td>
+			<td>ekster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Serinus serinus</td>
+			<td>Europese kanarie</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phasianus colchicus</td>
+			<td>fazant</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus trochilus</td>
+			<td>fitis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus sibilatrix</td>
+			<td>fluiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carduelis flavirostris</td>
+			<td>frater</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Podiceps cristatus</td>
+			<td>fuut</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Garrulus glandarius</td>
+			<td>gaai</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza citrinella</td>
+			<td>geelgors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus michahellis</td>
+			<td>geelpootmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phoenicurus phoenicurus</td>
+			<td>gekraagde roodstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Motacilla flava</td>
+			<td>gele kwikstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Podiceps nigricollis</td>
+			<td>geoorde fuut</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris melanotos</td>
+			<td>gestreepte strandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Apus apus</td>
+			<td>gierzwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus palustris</td>
+			<td>glanskop</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Regulus regulus</td>
+			<td>goudhaantje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pluvialis apricaria</td>
+			<td>goudplevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pyrrhula pyrrhula</td>
+			<td>goudvink</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sylvia communis</td>
+			<td>grasmus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus pratensis</td>
+			<td>graspieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cisticola juncidis</td>
+			<td>graszanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phalaropus lobatus</td>
+			<td>grauwe franjepoot</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anser anser</td>
+			<td>grauwe gans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Miliaria calandra</td>
+			<td>grauwe gors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Circus pygargus</td>
+			<td>grauwe kiekendief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lanius collurio</td>
+			<td>grauwe klauwier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Puffinus griseus</td>
+			<td>grauwe pijlstormvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Muscicapa striata</td>
+			<td>grauwe vliegenvanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Burhinus oedicnemus</td>
+			<td>griel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza cia</td>
+			<td>grijze gors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Picus viridis</td>
+			<td>groene specht</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carduelis chloris</td>
+			<td>groenling</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa nebularia</td>
+			<td>groenpootruiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dendrocopos major</td>
+			<td>grote bonte specht</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus hyperboreus</td>
+			<td>grote burgemeester</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Motacilla cinerea</td>
+			<td>grote gele kwikstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Catharacta skua</td>
+			<td>grote jager</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acrocephalus arundinaceus</td>
+			<td>grote karekiet</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Loxia pityopsittacus</td>
+			<td>grote kruisbek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus viscivorus</td>
+			<td>grote lijster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus marinus</td>
+			<td>grote mantelmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus richardi</td>
+			<td>grote pieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna sandvicensis</td>
+			<td>grote stern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Otis tarda</td>
+			<td>grote trap</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mergus merganser</td>
+			<td>grote zaagbek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Melanitta fusca</td>
+			<td>grote zee-eend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Casmerodius albus</td>
+			<td>grote zilverreiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Limosa limosa</td>
+			<td>grutto</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Accipiter gentilis</td>
+			<td>havik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Prunella modularis</td>
+			<td>heggenmus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Columba oenas</td>
+			<td>holenduif</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Upupa epops</td>
+			<td>hop</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Columba palumbus</td>
+			<td>houtduif</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Scolopax rusticola</td>
+			<td>houtsnip</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Passer domesticus</td>
+			<td>huismus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Delichon urbica</td>
+			<td>huiszwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gavia immer</td>
+			<td>ijsduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Clangula hyemalis</td>
+			<td>ijseend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calcarius lapponicus</td>
+			<td>ijsgors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alcedo atthis</td>
+			<td>ijsvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Morus bassanus</td>
+			<td>Jan-van-gent</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris canutus</td>
+			<td>kanoet</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Corvus monedula</td>
+			<td>kauw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Fringilla montifringilla</td>
+			<td>keep</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Philomachus pugnax</td>
+			<td>kemphaan</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tyto alba</td>
+			<td>kerkuil</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vanellus vanellus</td>
+			<td>kievit</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lanius excubitor</td>
+			<td>klapekster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Porzana parva</td>
+			<td>klein waterhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alle alle</td>
+			<td>kleine alk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dendrocopos minor</td>
+			<td>kleine bonte specht</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus glaucoides</td>
+			<td>kleine burgemeester</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Stercorarius parasiticus</td>
+			<td>kleine jager</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acrocephalus scirpaceus</td>
+			<td>kleine karekiet</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus fuscus</td>
+			<td>kleine mantelmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Charadrius dubius</td>
+			<td>kleine plevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anser brachyrhynchus</td>
+			<td>kleine rietgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris minuta</td>
+			<td>kleine strandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tetrax tetrax</td>
+			<td>kleine trap</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ficedula parva</td>
+			<td>kleine vliegenvanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Egretta garzetta</td>
+			<td>kleine zilverreiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cygnus columbianus</td>
+			<td>kleine zwaan</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Porzana pusilla</td>
+			<td>kleinst waterhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Stercorarius longicaudus</td>
+			<td>kleinste jager</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Recurvirostra avosetta</td>
+			<td>kluut</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carduelis cannabina</td>
+			<td>kneu</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cygnus olor</td>
+			<td>knobbelzwaan</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cuculus canorus</td>
+			<td>koekoek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bulbulcus ibis</td>
+			<td>koereiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus ridibundus</td>
+			<td>kokmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anser albifrons</td>
+			<td>kolgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus major</td>
+			<td>koolmees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus iliacus</td>
+			<td>koperwiek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tetrao tetrix</td>
+			<td>korhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calandrella brachydactyla</td>
+			<td>kortteenleeuwerik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Corvus corone</td>
+			<td>kraai</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Grus grus</td>
+			<td>kraanvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas strepera</td>
+			<td>krakeend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus pilaris</td>
+			<td>kramsvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris ferruginea</td>
+			<td>krombekstrandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Netta rufina</td>
+			<td>krooneend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Loxia curvirostra</td>
+			<td>kruisbek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calonectris diomedea</td>
+			<td>Kuhls pijlstormvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phalacrocorax aristotelis</td>
+			<td>kuifaalscholver</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Podiceps auritus</td>
+			<td>kuifduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Aythya fuligula</td>
+			<td>kuifeend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Galerida cristata</td>
+			<td>kuifleeuwerik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus cristatus</td>
+			<td>kuifmees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nycticorax nycticorax</td>
+			<td>kwak</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Coturnix coturnix</td>
+			<td>kwartel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Crex crex</td>
+			<td>kwartelkoning</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gelochelidon nilotica</td>
+			<td>lachstern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Platalea leucorodia</td>
+			<td>lepelaar</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus montanus</td>
+			<td>matkop</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Fulica atra</td>
+			<td>meerkoet</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus merula</td>
+			<td>merel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dendrocopos medius</td>
+			<td>middelste bonte specht</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Stercorarius pomarinus</td>
+			<td>middelste jager</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mergus serrator</td>
+			<td>middelste zaagbek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lagopus lagopus s.l.</td>
+			<td>moerassneeuwhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>Eudromias morinellus</td>
+			<td>morinelplevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Luscinia megarhynchos</td>
+			<td>nachtegaal</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Caprimulgus europaeus</td>
+			<td>nachtzwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Mergus albellus</td>
+			<td>nonnetje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Luscinia luscinia</td>
+			<td>noordse nachtegaal</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Puffinus puffinus</td>
+			<td>noordse pijlstormvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna paradisaea</td>
+			<td>noordse stern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Fulmarus glacialis</td>
+			<td>noordse stormvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nucifraga caryocatactes</td>
+			<td>notenkraker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bubo bubo</td>
+			<td>oehoe</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Actitis hypoleucos</td>
+			<td>oeverloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus petrosus</td>
+			<td>oeverpieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Riparia riparia</td>
+			<td>oeverzwaluw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ciconia ciconia</td>
+			<td>ooievaar</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hippolais polyglotta</td>
+			<td>Orpheusspotvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza hortulana</td>
+			<td>ortolaan</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Saxicola rubetra</td>
+			<td>paapje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris maritima</td>
+			<td>paarse strandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus proregulus</td>
+			<td>Pallas' boszanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Fratercula arctica</td>
+			<td>papegaaiduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gavia arctica</td>
+			<td>parelduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Perdix perdix</td>
+			<td>patrijs</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bombycilla garrulus</td>
+			<td>pestvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas acuta</td>
+			<td>pijlstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus caeruleus</td>
+			<td>pimpelmees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa stagnatilis</td>
+			<td>poelruiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gallinago media</td>
+			<td>poelsnip</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus cachinnans</td>
+			<td>Pontische meeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Porzana porzana</td>
+			<td>porseleinhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ardea purpurea</td>
+			<td>purperreiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carduelis carduelis</td>
+			<td>putter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ardeola ralloides</td>
+			<td>ralreiger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Asio otus</td>
+			<td>ransuil</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Numenius phaeopus</td>
+			<td>regenwulp</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna caspia</td>
+			<td>reuzenstern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anser fabalis</td>
+			<td>rietgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Emberiza schoeniclus</td>
+			<td>rietgors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acrocephalus schoenobaenus</td>
+			<td>rietzanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Passer montanus</td>
+			<td>ringmus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alectoris rufa</td>
+			<td>rode patrijs</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>Milvus milvus</td>
+			<td>rode wouw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Corvus frugilegus</td>
+			<td>roek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Botaurus stellaris</td>
+			<td>roerdomp</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Erithacus rubecula</td>
+			<td>roodborst</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Saxicola torquata</td>
+			<td>roodborsttapuit</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Podiceps grisegena</td>
+			<td>roodhalsfuut</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Branta ruficollis</td>
+			<td>roodhalsgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gavia stellata</td>
+			<td>roodkeelduiker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus cervinus</td>
+			<td>roodkeelpieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lanius senator</td>
+			<td>roodkopklauwier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carpodacus erythrinus</td>
+			<td>roodmus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Falco vespertinus</td>
+			<td>roodpootvalk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phalaropus fulicarius</td>
+			<td>rosse franjepoot</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Limosa lapponica</td>
+			<td>rosse grutto</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Branta bernicla</td>
+			<td>rotgans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sturnus roseus</td>
+			<td>roze spreeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Buteo lagopus</td>
+			<td>ruigpootbuizerd</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Coracias garrulus</td>
+			<td>scharrelaar</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Haematopus ostralegus</td>
+			<td>scholekster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carduelis spinus</td>
+			<td>sijs</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Circaetus gallicus</td>
+			<td>slangenarend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Falco peregrinus</td>
+			<td>slechtvalk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas clypeata</td>
+			<td>slobeend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Falco columbarius</td>
+			<td>smelleken</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas penelope</td>
+			<td>smient</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plectrophenax nivalis</td>
+			<td>sneeuwgors</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Locustella luscinioides</td>
+			<td>snor</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Accipiter nisus</td>
+			<td>sperwer</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sylvia nisoria</td>
+			<td>sperwergrasmus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hippolais icterina</td>
+			<td>spotvogel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sturnus vulgaris</td>
+			<td>spreeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Locustella naevia</td>
+			<td>sprinkhaanzanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Aegithalos caudatus</td>
+			<td>staartmees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Arenaria interpres</td>
+			<td>steenloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Athene noctua</td>
+			<td>steenuil</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Himantopus himantopus</td>
+			<td>steltkluut</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Circus macrourus</td>
+			<td>steppenkiekendief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus canus</td>
+			<td>stormmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hydrobates pelagicus</td>
+			<td>stormvogeltje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Eremophila alpestris</td>
+			<td>strandleeuwerik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Charadrius alexandrinus</td>
+			<td>strandplevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Aythya ferina</td>
+			<td>tafeleend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Certhia familiaris</td>
+			<td>taigaboomkruiper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oenanthe oenanthe</td>
+			<td>tapuit</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calidris temminckii</td>
+			<td>Temmincks strandloper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phylloscopus collybita</td>
+			<td>tjiftjaf</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Aythya marila</td>
+			<td>toppereend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Falco tinnunculus</td>
+			<td>torenvalk</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Streptopelia turtur</td>
+			<td>tortelduif</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sylvia borin</td>
+			<td>tuinfluiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa totanus</td>
+			<td>tureluur</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Streptopelia decaocto</td>
+			<td>Turkse tortel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oceanodroma leucorhoa</td>
+			<td>vaal stormvogeltje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gyps fulvus</td>
+			<td>vale gier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alauda arvensis</td>
+			<td>veldleeuwerik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Asio flammeus</td>
+			<td>velduil</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Fringilla coelebs</td>
+			<td>vink</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pandion haliaetus</td>
+			<td>visarend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sterna hirundo</td>
+			<td>visdief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus sabini</td>
+			<td>vorkstaartmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Regulus ignicapillus</td>
+			<td>vuurgoudhaantje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gallinula chloropus</td>
+			<td>waterhoen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anthus spinoletta</td>
+			<td>waterpieper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rallus aquaticus</td>
+			<td>waterral</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acrocephalus paludicola</td>
+			<td>waterrietzanger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gallinago gallinago</td>
+			<td>watersnip</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cinclus cinclus</td>
+			<td>waterspreeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pernis apivorus</td>
+			<td>wespendief</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oriolus oriolus</td>
+			<td>wielewaal</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas platyrhynchos</td>
+			<td>wilde eend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cygnus cygnus</td>
+			<td>wilde zwaan</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Troglodytes troglodytes</td>
+			<td>winterkoning</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas crecca</td>
+			<td>wintertaling</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Loxia leucoptera</td>
+			<td>witbandkruisbek</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa ochropus</td>
+			<td>witgatje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Aythya nyroca</td>
+			<td>witoogeend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Motacilla alba</td>
+			<td>witte kwikstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Chlidonias leucopterus</td>
+			<td>witvleugelstern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Chlidonias hybridus</td>
+			<td>witwangstern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ixobrychus minutus</td>
+			<td>woudaapje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Numenius arquata</td>
+			<td>wulp</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Turdus philomelos</td>
+			<td>zanglijster</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Haliaeetus albicilla</td>
+			<td>zeearend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Uria aalge</td>
+			<td>zeekoet</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus argentatus</td>
+			<td>zilvermeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pluvialis squatarola</td>
+			<td>zilverplevier</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anas querquedula</td>
+			<td>zomertaling</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plegadis falcinellus</td>
+			<td>zwarte ibis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parus ater</td>
+			<td>zwarte mees</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ciconia nigra</td>
+			<td>zwarte ooievaar</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Phoenicurus ochruros</td>
+			<td>zwarte roodstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tringa erythropus</td>
+			<td>zwarte ruiter</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dryocopus martius</td>
+			<td>zwarte specht</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Chlidonias niger</td>
+			<td>zwarte stern</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Milvus migrans</td>
+			<td>zwarte wouw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Melanitta nigra</td>
+			<td>zwarte zee-eend</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sylvia atricapilla</td>
+			<td>zwartkop</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Larus melanocephalus</td>
+			<td>zwartkopmeeuw</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>REPTILIA</td>
+			<td>REPTIELEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vipera berus</td>
+			<td>adder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Coronella austriaca</td>
+			<td>gladde slang</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anguis fragilis</td>
+			<td>hazelworm</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Zootoca vivipara</td>
+			<td>levendbarende hagedis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Podarcis muralis</td>
+			<td>muurhagedis</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Natrix natrix</td>
+			<td>ringslang</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>AMPHIBIA</td>
+			<td>AMFIBIE"N</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ichthyosaura alpestris</td>
+			<td>alpenwatersalamander</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pelophylax kl. esculenta</td>
+			<td>bastaardkikker</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hyla arborea</td>
+			<td>boomkikker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rana temporaria</td>
+			<td>bruine kikker</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bufo bufo</td>
+			<td>gewone pad</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bombina variegata</td>
+			<td>geelbuikvuurpad</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rana arvalis</td>
+			<td>heikikker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Triturus cristatus</td>
+			<td>kamsalamander</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lissotriton vulgaris</td>
+			<td>kleine watersalamander</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pelobates fuscus</td>
+			<td>knoflookpad</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pelophylax ridibundus</td>
+			<td>meerkikker</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pelophylax lessonae</td>
+			<td>poelkikker</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bufo calamita</td>
+			<td>rugstreeppad</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lissotriton helveticus</td>
+			<td>vinpootsalamander</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alytes obstretricans</td>
+			<td>vroedmeesterpad</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Salamandra salamandra</td>
+			<td>vuursalamander</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>PISCES</td>
+			<td>VISSEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Acipenser sturio</td>
+			<td>Atlantische steur</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Salmo salar</td>
+			<td>Atlantische zalm</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cottus rhenanus</td>
+			<td>beekdonderpad</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lampetra planeri</td>
+			<td>beekprik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rhodeus sericeus amarus</td>
+			<td>bittervoorn</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Alosa fallax</td>
+			<td>fint</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Misgurnus fossilis</td>
+			<td>grote modderkruiper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cobitis taenia</td>
+			<td>kleine modderkruiper</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cottus perifretum</td>
+			<td>rivierdonderpad</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lampetra fluviatilis</td>
+			<td>rivierprik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Petromyzon marinus</td>
+			<td>zeeprik</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ONGEWERVELDEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Abax carinatus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Agonum ericeti</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Agonum gracilipes</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Amara brunnea</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anisodactylus nemorivagus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anisodactylus poeciloides</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anisodactylus signatus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bembidion ephippium</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bembidion litorale</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bembidion monticola</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Blethisa multipunctata</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brachinus crepitans</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Bradycellus csikii</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calathus ambiguous</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calosoma sycophanta</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carabus cancellatus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cicindela germanica</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cicindela sylvatica</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Harpalus flavescens</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Harpalus honestus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Harpalus neglectus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Harpalus quadripunctatus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Harpalus rupicola</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lebia cruxminor</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Leistus piceus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oxythyrea funesta</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Perileptus areolatus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pogonus littoralis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pogonus luridipennis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pterostichus kugelanni</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pterostichus longicollis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Zabrus tenebrioides</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pyrgus malvae</td>
+			<td>aardbeivlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lasiommata megera</td>
+			<td>argusvlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Oedipoda caerulescens</td>
+			<td>blauwvleugelsprinkhaan</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Leptidea sinapis</td>
+			<td>boswitje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Erynnis tages</td>
+			<td>bruin dikkopje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Satyrium ilicis</td>
+			<td>Bruine eikenpage</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lycaena tityrus</td>
+			<td>bruine vuurvlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Typhoeus typhoeus</td>
+			<td>driehoornmestkever</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Polyphylla fullo</td>
+			<td>duin- of julikever</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Odontaeus armiger</td>
+			<td>eenhoornmestkever</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ophiogomphus cecilia</td>
+			<td>gaffellibel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Thymelicus sylvestris</td>
+			<td>geelsprietdikkopje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dolomedes fimibriatus</td>
+			<td>gerande oeverspin</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Maculinea alcon</td>
+			<td>gentiaanblauwtje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Leucorrhinia pectoralis</td>
+			<td>gevlekte witsnuitlibel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Atypus affinis</td>
+			<td>gewone mijnspin</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cetonia aurata</td>
+			<td>gouden tor</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tettigonia viridissima</td>
+			<td>grote groene sabelsprinkhaan</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Osmoderma eremita</td>
+			<td>juchtleerkever</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Callophrys rubi</td>
+			<td>groentje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nymphalis polychloros</td>
+			<td>grote vos</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Apatura iris</td>
+			<td>grote weerschijnvlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Plebejus argus</td>
+			<td>heideblauwtje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hipparchia semele</td>
+			<td>heivlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Satyrium w-album</td>
+			<td>iepenpage</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Argynnis paphia</td>
+			<td>keizersmantel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Polyommatus semiargus</td>
+			<td>klaverblauwtje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Issoria lathonia</td>
+			<td>kleine parelmoervlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Protaetia cuprea</td>
+			<td>koperkleurige gouden tor</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Prionus coriarius</td>
+			<td>lederboktor</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hesperia comma</td>
+			<td>kommavlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Odonata</td>
+			<td>libellen: alle soorten met uitzondering van die welke specifiek in deze bijlage worden vermeld</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Coccinelidae</td>
+			<td>lieveheersbeestjes: alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Carabus s.l. spp</td>
+			<td>schalebijters: alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vertigo angustior</td>
+			<td>nauwe korfslak</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Hydrophilus piceus</td>
+			<td>pikzwarte of spinnende watertor</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Maculinea teleius</td>
+			<td>pimpernelblauwtje</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Anisus vorticulus</td>
+			<td>platte schijfhoorn</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calosoma spp</td>
+			<td>poppenrovers - alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Donacia en Plateumaris spp</td>
+			<td>riettorretjes - alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gomphus flavipes</td>
+			<td>rivierrombout</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Formica rufa s.l.</td>
+			<td>rode bosmier s.l. (kale bosmier, behaarde bosmier en zwartrugbosmier)</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gomphocerripus rufus</td>
+			<td>rosse sprinkhaan</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nymphalis antiopa</td>
+			<td>rouwmantel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Callimorpha quadripunctaria</td>
+			<td>Spaanse vlag</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Proserpinus proserpina</td>
+			<td>teunisbloempijlstaart</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Argiope bruennichi</td>
+			<td>tijgerspin of wespspin</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Melitaea cinxia</td>
+			<td>veldparelmoervlinder</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lucanus cervus</td>
+			<td>vliegend hert</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dytiscus en Cybister spp</td>
+			<td>waterroofkevers - alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Argyroneta aquatica</td>
+			<td>waterspin</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Helix pomatia</td>
+			<td>wijngaardslak</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cicindela spp</td>
+			<td>zandloopkevers - alle soorten</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Vertigo moulinsiana</td>
+			<td>zeggenkorfslak</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Stenobothrus lineatus</td>
+			<td>zoemertje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Eriogaster catax</td>
+			<td>zuidelijke woldrager of bosrandspinner</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Thymelicus lineola</td>
+			<td>zwartsprietdikkopje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;PLANTENSOORTEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Nymphaeaceae</td>
+			<td>alle soorten waterlelies</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Orchidaceae</td>
+			<td>alle soorten orchideeën: alle soorten met uitzondering van die welke specifiek op soortnaam in deze bijlage worden vermeld</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Rosa spp</td>
+			<td>alle soorten rozen, behalve bosroos Rosa arvensis en hondsroos Rosa canina</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sphagnum spp</td>
+			<td>alle soorten veenmossen</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lycopodiaceae</td>
+			<td>alle soorten wolfsklauwachtigen</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Salicornia spp</td>
+			<td>alle soorten zeekraal</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Eryngium maritimum</td>
+			<td>blauwe zeedistel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Actaea spicata</td>
+			<td>Christoffelkruid</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Erica tetralix</td>
+			<td>dopheide</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Sparganium angustifolium</td>
+			<td>drijvende egelskop</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Luronium natans</td>
+			<td>drijvende waterweegbree</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Centaurium erythraea</td>
+			<td>echt duizendguldenkruid</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Armeria maritima</td>
+			<td>Engels gras</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Centaurium pulchellum</td>
+			<td>fraai duizendguldenkruid</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Drepanocladus vernicosus</td>
+			<td>geel schorpioenmos</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Halimione pedunculata</td>
+			<td>gesteelde zoutmelde</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Erica cinerea</td>
+			<td>rode dopheide</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Liparis loeselii</td>
+			<td>groenknolorchis</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Althaea officinalis</td>
+			<td>heemst</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Dianthus deltoides</td>
+			<td>heideanjer</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Juniperus communis</td>
+			<td>jeneverbes</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Drosera intermedia</td>
+			<td>kleine zonnedauw</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Gentiana pneumonanthe</td>
+			<td>klokjesgentiaan</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Osmunda regalis</td>
+			<td>koningsvaren</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Stratiotes aloides</td>
+			<td>krabbenscheer</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Apium repens</td>
+			<td>kruipend moerasscherm</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Limonium vulgare</td>
+			<td>lamsoor</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Leucojum vernum</td>
+			<td>lenteklokje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Parnassia palustris</td>
+			<td>parnassia</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Daphne mezereum</td>
+			<td>peperboompje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Drosera rotundifolia</td>
+			<td>ronde zonnedauw</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calla palustris</td>
+			<td>slangenwortel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tamus communis</td>
+			<td>spekwortel</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Primula vulgaris</td>
+			<td>stengelloze sleutelbloem</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Centaurium littorale</td>
+			<td>strandduizendguldenkruid</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Menyanthes trifoliata</td>
+			<td>waterdrieblad</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Lobelia dortmanna</td>
+			<td>waterlobelia</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Ranunculus platanifolius</td>
+			<td>witte boterbloem</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Calystegia soldanella</td>
+			<td>zeewinde</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Leucojum aestivum</td>
+			<td>zomerklokje</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;KORSTMOSSEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Cladonia spp. Subgen. Cladina</td>
+			<td>rendiermossen</td>
+			<td>X</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;ZWAMMEN</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 ## Bijlage 2 Verboden middelen, installaties en methoden voor het doden of vangen van dieren in het kader van dit besluit
 
 ### BIJLAGE 2
 
-A. Middelen, installaties en methoden waarvan het gebruik verboden is conform artikel 16, § 1 van het besluit :<br />1° strikken en stroppen;<br />2° lijm;<br />3° haken;<br />4° blindgemaakte of verminkte levende dieren die als lokdieren worden gebruikt;<br />5° alle akoestische hulpmiddelen;<br />6° elektrische en elektronische apparaten waarmee dieren kunnen worden gedood of bewusteloos kunnen worden gemaakt;<br />7° kunstmatige lichtbronnen;<br />8° spiegels en andere verblindende voorwerpen;<br />9° apparaten om vangstplaatsen te verlichten;<br />10° zoekers met een elektronische beeldversterker en beeldomkeerder om te schieten in het donker;<br />11° explosieven;<br />12° netten die qua werking of gebruik niet voldoende selectief zijn;<br />13° vallen die qua werking of gebruik niet voldoende selectief zijn;<br />14° kruisbogen en katapulten;<br />15° vergif en giftig of verdovend lokaas;<br />16° uitgassen, uitroken of onder water zetten;<br />17° vuurwapens en munitie die niet vallen onder het bepaalde in artikel 2 van het besluit van de Vlaamse Executieve van 28 oktober 1987 betreffende het gebruik van vuurwapens en munitie bij de jacht in het Vlaamse Gewest.<br />B. Vervoermiddelen waarvan het gebruik verboden is conform artikel 16, § 2 :<br />1° luchtvaartuigen;<br />2° motorvoertuigen;<br />3° vaartuigen die met een snelheid van meer dan vijf kilometer per uur worden aangedreven.<br />C. Middelen waarvan het onder zich hebben verboden is conform artikel 16, § 3 :<br />1° vogelvangstnetten : netten die opgespannen een oppervlakte hebben van meer dan 1 m2, een maaswijdte hebben tussen 11 en 29 mm, gemeten over het garen van knoop tot knoop, vervaardigd zijn uit synthetische, kunstmatige of natuurlijke vezels en waarvan het garen is samengesteld uit 2 tot 8 getorste of geweven draden;<br />2° mistnetten : netten in banen, aan het stuk of in bepaalde vorm vervaardigd, van garens in synthetische of van kunstmatige vezels met een totale dikte van minder dan 150 deniers (16,2 mg per meter) en waarvan de maaswijdte gemeten over het garen, van knoop tot knoop, kleiner is dan 35 mm;<br />3° vogelvangkooien en -klemmen : allerlei types van kooien, klemmen en vallen, van welk formaat ook, die geschikt zijn voor de vangst van vogels, met uitzondering van de vallen die worden toegelaten conform bijlage 3 van het besluit.<br /><br />
+A. Middelen, installaties en methoden waarvan het gebruik verboden is conform artikel 16, § 1, met uitzondering van de middelen die toegestaan zijn conform bijlage 3 en bijlage 3/1:<br>
+1° strikken en stroppen;<br>
+2° lijm;<br>
+3° haken;<br>
+4° levende dieren die als lokdier worden gebruikt. Een lokdier is een specimen van een dier dat kan dienen als een middel om te lokken, hetzij van dezelfde soort als het specimen, hetzij van een andere soort;<br>
+5° alle akoestische hulpmiddelen;<br>
+6° elektrische en elektronische apparaten waarmee dieren kunnen worden gedood of bewusteloos kunnen worden gemaakt;<br>
+7° kunstmatige lichtbronnen;<br>
+8° spiegels en andere verblindende voorwerpen;<br>
+9° apparaten om vangstplaatsen te verlichten;<br>
+10° zoekers met een elektronische beeldversterker en beeldomkeerder om te schieten in het donker;<br>
+11° explosieven;<br>
+12° netten die qua werking of gebruik niet voldoende selectief zijn;<br>
+13° vallen die qua werking of gebruik niet voldoende selectief zijn;<br>
+14° kruisbogen en katapulten;<br>
+15° vergif en giftig of verdovend lokaas;<br>
+16° uitgassen, uitroken of onder water zetten;<br>
+17° andere vuurwapens en munitie dan de vuurwapens en munitie, vermeld in artikel 9 en 10 van het besluit van het Jachtvoorwaardenbesluit.<br>
+<br>
+B. Vervoermiddelen waarvan het gebruik verboden is conform artikel 16, § 2 :<br>
+1° luchtvaartuigen;<br>
+2° motorvoertuigen;<br>
+3° vaartuigen die met een snelheid van meer dan vijf kilometer per uur worden aangedreven.<br>
+<br>
+C. Middelen waarvan het onder zich hebben verboden is conform artikel 16, § 3 :<br>
+1° vogelvangstnetten : netten die opgespannen een oppervlakte hebben van meer dan 1 m2, een maaswijdte hebben tussen 11 en 29 mm, gemeten over het garen van knoop tot knoop, vervaardigd zijn uit synthetische, kunstmatige of natuurlijke vezels en waarvan het garen is samengesteld uit 2 tot 8 getorste of geweven draden;<br>
+2° mistnetten : netten in banen, aan het stuk of in bepaalde vorm vervaardigd, van garens in synthetische of van kunstmatige vezels met een totale dikte van minder dan 150 deniers (16,2 mg per meter) en waarvan de maaswijdte gemeten over het garen, van knoop tot knoop, kleiner is dan 35 mm;<br>
+3° vogelvangkooien en -klemmen : allerlei types van kooien, klemmen en vallen, van welk formaat ook, die geschikt zijn voor de vangst van vogels, met uitzondering van de vallen die worden toegelaten conform bijlage 3&nbsp;en bijlage 3/1.<br>
+&nbsp;
 
 ## Bijlage 3 [Afwijkingen van de verbodsbepalingen vermeld in artikel 10, 12 of 16 (verv. BVR 25 januari 2019, art. 31, I: 25 januari 2019)]
 
 ### BIJLAGE 3
 
-Voor volgende problemen en binnen de vermelde perioden wordt er toegelaten dat er, in afwijking van artikel 10, overgegaan kan worden tot doding, vangst of verstoring van individuele specimens van de bij de gestelde problemen opgesomde, beschermde soorten, indien er althans geen andere bevredigende oplossing bestaat voor het vermelde probleem :<br />1° om de veiligheid van het luchtverkeer te garanderen, binnen de grenzen van militaire vliegvelden in Melsbroek, Goetsenhoven, Koksijde en Peer (Kleine Brogel), van het militaire schietterrein Houthalen-Helchteren en van de openbare vliegvelden van Antwerpen-Deurne, Kortrijk-Wevelgem, Oostende en Zaventem, en dit het hele jaar door :<br />- Spreeuw (Sturnus vulgaris);<br />- Zwarte kraai (Corvus corone corone);<br />- Kokmeeuw (Larus ridibundus);<br />- Zilvermeeuw (Larus argentatus).<br />2° om belangrijke schade aan professioneel geteelde gewassen te voorkomen, het hele jaar door :<br />- Zwarte kraai (Corvus corone corone);<br />- Ekster (Pica pica);<br />- Kauw (Corvus monedula).<br />Met professioneel geteelde gewassen wordt bedoeld, gewassen op percelen die geregistreerd zijn op basis van het decreet van 22 december 2006 houdende een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid. <br />3° om belangrijke schade aan de professionele fruitteelt te voorkomen, en dit in de periode van 1 mei tot en met 31 oktober :<br />- Spreeuw (Sturnus vulgaris);<br />- Ekster (Pica pica);<br />- Gaai (Garrulus glandarius). <br />4° Ter bescherming van fauna, het hele jaar door, voor zover in bossen en op akkers en weilanden :<br />- Zwarte kraai (Corvus corone corone);<br />- Ekster (Pica pica).<br />De op grond van deze bijlage uitgevoerde bestrijdingsactiviteiten zijn enkel toegelaten ten aanzien van de volgroeide individuen van deze soorten en tussen het officiële uur van zonsopgang en het officiële uur van zonsondergang.<br />De op grond van deze bijlage uitgevoerde bestrijdingsactiviteiten kunnen enkel worden uitgevoerd met behulp van de volgende middelen : <br />1° vuurwapens en munitie die voldoen aan de bepalingen van het Jachtdecreet en zijn uitvoeringsbesluiten. Wat betreft de munitie moet het meer bepaald gaan om hagelpatronen waarvan de maximale korrelgrootte van de hagel dezelfde is als de maximale korrelgrootte toegelaten voor de jacht op klein wild en waterwild. Het gebruik van vuurwapens is enkel toegelaten aan personen die in het bezit zijn van een geldig jachtverlof. Het schieten met vuurwapens in nesten is verboden; <br />2° roofvogels die in bezit worden gehouden conform de bepalingen van het besluit; <br />3° trechtervallen, waarvan de wanden bestaan uit draden waartussen een cirkel kan worden getrokken met een straal van minimaal 2 cm. Deze vallen mogen enkel gebruikt worden onder de volgende voorwaarden : <br />a) voor de bestrijding van zwarte kraai en ekster;<br />b) in bossen mogen deze vallen enkel vangklaar worden opgesteld in de periode van 16 februari tot en met 10 juli;<br />c) op akkers en weilanden mogen deze vallen enkel vangklaar worden opgesteld in de periode van 16 februari tot en met 15 oktober; <br />d) de vallen mogen geen vlees of slachtafval bevatten als lokaas;<br />e) de vallen moeten dagelijks worden nagezien en alle andere vogels dan zwarte kraaien en eksters moeten dadelijk ter plekke worden in vrijheid gesteld.<br />4° Larssen-kooien, zijnde kleine, gemakkelijk verplaatsbare kooien die bestaan uit twee of meer compartimenten, met één of meerdere neervallende kleppen, waarbij geen andere dieren meer gevangen kunnen worden na het neervallen van de klep. Deze kooien mogen enkel gebruikt worden onder de volgende voorwaarden. <br />a) voor de bestrijding van ekster; <br />b) de kooien mogen geen vlees of slachtafval bevatten als lokaas;<br />c) de kooien moeten dagelijks worden nagezien, en alle gevangen dieren andere dan eksters moeten dadelijk ter plekke worden in vrijheid gesteld. <br />De bestrijding mag worden uitgevoerd door één van de volgende personen : <br />1° de eigenaar van het terrein waar de bestrijding plaatsvindt; <br />2° de huurder van het terrein waar de bestrijding plaatsvindt;<br />3° de exploitant of grondgebruiker van het terrein waar de bestrijding plaatsvindt. <br />De bestrijding mag tevens worden uitgevoerd door de volgende personen, op voorwaarde van een schriftelijke toestemming van de eigenaar, de verhuurder of de exploitant of grondgebruiker : <br />1° de houders van het jachtrecht van het terrein waar de bestrijding plaatsvindt;<br />2° de bijzondere veldwachters zoals bedoeld in het Veldwetboek van 7 oktober 1886;<br />3° de houders van een geldig jachtverlof. <br />De bestrijding mag worden uitgevoerd na melding van de intentie tot bestrijding aan de burgemeester van de gemeente waar de bestrijding zal plaatsvinden en aan het provinciale hoofd van het agentschap. Deze melding moet voldoen aan de volgende modaliteiten : <br />1° de melding moet gebeuren per brief of per fax; <br />2° uit de melding moet duidelijk blijken dat is voldaan aan de voorwaarden van deze bijlage, inzonderheid inzake het zonder bevredigend resultaat toegepast hebben van andere mogelijke oplossingen en inzake de voorgenomen bestrijdingsmiddelen en -wijzen;<br />3° indien men niet de eigenaar of de grondgebruiker is van het terrein waar men wil bestrijden moet een schriftelijke toestemming van de eigenaar aan de aanvraag worden toegevoegd; <br />4° de melding moet plaatsvinden minstens 24 uur vooraleer de bestrijding zal aanvangen; <br />5° de melding kan betrekking hebben op afzonderlijke bestrijdingsactiviteiten of op een bestrijdingskalender. De duur van de gemelde bestrijding kan echter maximaal een jaar bedragen;<br />6° de melding moet vergezeld zijn van een kaart op een schaal van 1 : 10.000, waarop de locatie waar de bestrijding zal plaatsvinden precies moet worden aangeduid. De bestrijding moet plaatsvinden op een locatie die voor de ambtenaren bevoegd met het toezicht op het besluit betreedbaar is zonder toestemming tot huiszoeking of huiszoekingsbevel;<br />7° zij moet gebeuren door middel van een standaardmeldingsformulier, ter beschikking gesteld door het agentschap; <br />8° het agentschap zal nagaan of de voorwaarden om tot bestrijding te mogen overgaan vervuld zijn.<br /><br />Zowel de burgemeester als het provinciaal hoofd van het agentschap kunnen de bestrijding, zo nodig en bij gemotiveerde beslissing, ten allen tijde verbieden of beperken. <br /><br />Na afloop van een afzonderlijke bestrijdingsactiviteit, ofwel na afloop van de uitvoering van een aangemelde bestrijdingskalender, moet aan het provinciale hoofd van het agentschap worden gemeld hoeveel exemplaren werden gedood, door middel van een standaard-meldingsformulier, ter beschikking gesteld door het agentschap. <br /><br />De dieren die het voorwerp zijn van bestrijding moeten worden gedood conform de regelgeving die geldig is inzake dierenwelzijn. De kadavers moeten worden opgeruimd conform de regelgeving die geldig is inzake de verwerking van dierlijk afval. <br /><br />In afwijking van artikel 12 is het toegelaten om individuen van de soorten in kwestie te vervoeren in de periode waarin de bestrijding is toegelaten, voor zover het gaat om individuen die het voorwerp zijn geweest van bestrijding in overeenstemming met deze bijlage. Het is verboden de individuen die het voorwerp zijn geweest van bestrijding te kopen of te verkopen. <br /><br />De particulieren die tot de bestrijding van voormelde vogels overgaan door middel van vuurwapens, moeten een verzekering voor burgerlijke aansprakelijkheid hebben afgesloten waarvan de waarborg tenminste de bedragen dekt die vermeld zijn in artikel 3, 1° van het koninklijk besluit van 15 juli 1963 tot instelling van de verplichte aansprakelijkheidsverzekering voor het bekomen van een jachtverlof of een jachtvergunning.<br /><br />
+Bijlage 3. Afwijkingen van de verbodsbepalingen vermeld in artikel 10, 12 of 16<br>
+<br>
+3.1 Bestrijdbare soorten en voorwaarden<br>
+<br>
+De volgende soorten zijn bestrijdbaar volgens de vermelde redenen en in de vermelde periode:<br>
+1° om belangrijke schade aan professioneel geteelde gewassen te voorkomen kan de bestrijding van zwarte kraai (Corvus corone corone), ekster (Pica pica) en kauw (Corvus monedula) gedurende het hele jaar worden uitgeoefend. De bestrijding van overzomerende brandganzen (Branta leucopsis) kan worden uitgeoefend in de periode van 1 mei tot en met 30 september;<br>
+2° om belangrijke schade aan professionele fruitteelt te voorkomen, kan de bestrijding van spreeuw (Sturnus vulgaris) worden uitgeoefend in de periode van 15 mei tot en met 31 augustus en van gaai (Garrulus glandarius) in de periode van 1 juli tot en met 31 oktober;<br>
+3° om de wilde fauna en flora te beschermen, of de natuurlijke habitats in stand te houden, kan bestrijding van zwarte kraai (Corvus corone corone) en ekster (Pica pica) gedurende het hele jaar worden uitgeoefend. De bestrijding van overzomerende brandganzen (Branta leucopsis) kan worden uitgeoefend in de periode van 1 mei tot en met 30 september.<br>
+<br>
+De bestrijding van brandgans, spreeuw en gaai, vermeld in het eerste lid, kan alleen worden uitgeoefend binnen een perimeter van 150 meter rondom het perceel waarvoor de bestrijding wordt gemeld.<br>
+<br>
+Onder professioneel geteelde gewassen vermeld in het eerste lid wordt verstaan gewassen op percelen die geregistreerd zijn op basis van het decreet van 22 december 2006 houdende een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid.<br>
+<br>
+De bestrijding als vermeld in deze bijlage kan alleen worden uitgevoerd op voorwaarde dat er geen andere bevredigende oplossing bestaat. De voorwaarde dat er geen andere bevredigende oplossing mag bestaan, wordt beoordeeld aan de hand van de vraag of alle maatregelen zijn genomen die redelijkerwijs mogen worden verwacht om de belangen, vermeld in punt 1°, 2° en 3°, te vrijwaren. De minister kan een code van goede praktijk vaststellen waarin maatregelen zijn opgenomen die redelijkerwijs te verwachten zijn, als maatregelen die niet redelijkerwijs te verwachten zijn.<br>
+<br>
+De bestrijdingsactiviteiten die op grond van deze bijlage uitgevoerd worden, zijn alleen toegestaan ten aanzien van de volgroeide individuen van deze soorten, behalve voor de bestrijding van brandgans via de afvangst met inloopkooien.<br>
+<br>
+3.2 De uitvoering van de bestrijding in de tijd<br>
+<br>
+Het gebruik van vuurwapens en munitie is enkel tussen de officiële zonsopgang en de officiële zonsondergang toegestaan. Het schieten met vuurwapens in nesten is verboden.<br>
+<br>
+3.3 Middelen waarmee de bestrijding kan worden uitgevoerd<br>
+<br>
+De bestrijdingsactiviteiten die op grond van deze bijlage uitgevoerd worden, kunnen alleen worden uitgevoerd met de volgende middelen:<br>
+1° de vuurwapens en de munitie vermeld in artikel 9 en 10 van het Jachtvoorwaardenbesluit van 25 april 2014;<br>
+2° roofvogels die in bezit worden gehouden conform de bepalingen van het besluit;<br>
+3° trechtervallen: vallen waarvan de wanden bestaan uit draden waartussen een cirkel kan worden getrokken met een straal van minimaal 2 cm;<br>
+4° Larsen-kooien: kleine, gemakkelijk verplaatsbare kooien die bestaan uit twee of meer compartimenten, met een of meer neervallende kleppen, waarbij geen andere dieren gevangen kunnen worden na het neervallen van de klep;<br>
+5° inloopkooien: alleen te gebruiken voor brandganzen;<br>
+6° akoestische hulpmiddelen, voor zover ze gericht zijn op de soort die wordt bestreden;<br>
+7° dode lokdieren van dezelfde soort als waarvoor bestrijding gemeld is;<br>
+8° kunstmatige lokdieren.<br>
+<br>
+Trechtervallen en Larsen-kooien, vermeld in het eerste lid, 3° en 4°, mogen alleen vangklaar worden opgesteld in de periode 16 februari tot en met 15 oktober.<br>
+<br>
+Voor de bestrijding van spreeuw is alleen het gebruik van de middelen, vermeld in het eerste lid, 1° en 2°, toegestaan.<br>
+<br>
+Voor de bestrijding van brandgans is alleen het gebruik van het middel, vermeld in het eerste lid, 5°, toegestaan.<br>
+<br>
+Het gebruik van vuurwapens, vermeld in het eerste lid, 1°, is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof overeenkomstig de Vlaamse jachtregelgeving.<br>
+<br>
+Voor de in het eerste lid, 2°, 3° en 4°, vermelde vallen en kooien gelden de volgend gebruiksvoorwaarden:<br>
+1° de vallen of kooien bevatten geen vlees of slachtafval als lokaas;<br>
+2° voor elke trechterval en elke Larsen-kooi die toegelaten wordt conform de procedure in deel 3.5, mag de aanvrager maximaal twee levende lokdieren in zijn bezit hebben, gebruiken en vervoeren van de soort die hij volgens de aanvraag beoogt te bestrijden. De levende lokdieren hoeven niet te voldoen aan de bepalingen van artikel 41, § 1, van dit besluit. De lokdieren moeten voedsel, water en beschutting ter beschikking hebben;<br>
+3° de vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld;<br>
+4° de vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan. Daarnaast wordt ook de volgende tekst op het plaatje vermeld: "Deze val is geplaatst conform de uitvoeringsmodaliteiten van het Soortenbesluit van 15 mei 2009, bijlage 3";<br>
+<br>
+3.4 Personen die de bestrijding kunnen uitvoeren<br>
+<br>
+De bestrijding mag worden uitgevoerd door de eigenaar, de huurder, de exploitant, de grondgebruiker of grondgebruikers of de bijzondere veldwachter van het terrein waar de bestrijding plaatsvindt.<br>
+<br>
+De bestrijding mag tevens worden uitgevoerd door een derde op voorwaarde van een schriftelijke toestemming van de eigenaar, de verhuurder of de exploitant of grondgebruiker of grondgebruikers.<br>
+<br>
+Een organisator of uitvoerder van bestrijding besteedt bij de uitoefening van de bestrijding bijzondere aandacht aan de veiligheid van de activiteit en aan de verenigbaarheid ervan met activiteiten van andere gebruikers van het buitengebied.<br>
+<br>
+3.5 Aanvraagprocedure<br>
+<br>
+De bestrijding wordt aan het agentschap bezorgd met een papieren of elektronisch aanvraagformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+Het aanvraagformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+1° met een aangetekende brief;<br>
+2° met een e-mail;<br>
+3° via elektronische indiening.<br>
+<br>
+Het agentschap gaat na of de voorwaarden vervuld zijn om tot bestrijding over te gaan en neemt binnen de twee werkdagen na ontvangst van de aanvraag een gemotiveerde beslissing. De gemotiveerde beslissing wordt onverwijld aan de aanvrager bezorgd. Bij ontstentenis van een gemotiveerde beslissing wordt de aanvraag geacht geweigerd te zijn.<br>
+<br>
+De aanvraag moet voldoen aan de volgende voorwaarden:<br>
+1° uit de aanvraag blijkt duidelijk dat is voldaan aan de voorwaarden van deze bijlage, vooral wat betreft het zonder bevredigend resultaat toegepast hebben van andere mogelijke oplossingen en wat betreft de voorgenomen bestrijdingsmiddelen en -wijzen;<br>
+2° als de aanvrager niet de eigenaar of de grondgebruiker of één van de grondgebruikers is van het terrein waar hij wil bestrijden, bevestigt de aanvrager dat hij in het bezit is van een schriftelijke toestemming van de eigenaar;<br>
+3° de bestrijding neemt pas een aanvang na ontvangst van de gemotiveerde gunstige beslissing van het agentschap;<br>
+4° de duur van de aangevraagde bestrijding loopt maximaal tot het einde van het kalenderjaar waarop de aanvraag betrekking heeft;<br>
+5° bij de aanvraag is een kaart gevoegd waarop de locatie waar de bestrijding zal plaatsvinden, precies wordt weergegeven. De kaart heeft een schaal van 1:10.000 of 1:25.000. Een kaart dient niet toegevoegd te worden wanneer de bestrijding plaatsvindt op een jachtterrein zoals gedefinieerd in artikel 1 van het Jachtadministratiebesluit van 25 april 2014. In dat geval worden in de aanvraag de nummers van de betrokken jachtterreinen uit het goedgekeurde jachtplan opgenomen en in voorkomend geval, het aantal gebruikte vallen of kooien. De bestrijding vindt plaats op locaties of in gebieden die voor de ambtenaren, bevoegd met het toezicht op dit besluit, betreedbaar zijn zonder dat er een toestemming tot huiszoeking of huiszoekingsbevel nodig is;<br>
+6° de aanvraag bevat een omschrijving van het type schade als vermeld in onderdeel 3.1, alsook de vermoedelijke omvang van de schade die de aanvrager wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
+7° de aanvraag bevat desgevallend het aantal trechtervallen, Larsen-kooien of inloopkooien dat men voor de bestrijding zal inzetten;<br>
+8° voor onafhankelijke jachtrechthouders en erkende wildbeheereenheden kan de aanvraag gedaan worden via het faunabeheerplan.<br>
+<br>
+3.6 Mogelijkheid tot beperken of verbieden<br>
+<br>
+Het agentschap is gemachtigd toezicht uit te oefenen op de aangevraagde bestrijding. Het agentschap kan met een gemotiveerde beslissing op elk moment de bestrijding beperken of verbieden.<br>
+<br>
+3.7 Rapportage na bestrijding<br>
+<br>
+Uiterlijk voor 1 april van elk jaar wordt aan het agentschap gerapporteerd over de dieren die in het afgelopen kalenderjaar op grond van de bepalingen van deze bijlage zijn gedood. Die rapportage heeft betrekking op de aantallen van de dieren die gedood zijn.<br>
+<br>
+De rapportering wordt gedaan met een papieren of elektronisch rapporteringsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+Het rapporteringsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen:<br>
+1° met een aangetekende brief;<br>
+2° met een e-mail;<br>
+3° via elektronische indiening.<br>
+<br>
+Voor onafhankelijke jachtrechthouders en erkende wildbeheereenheden kan gerapporteerd worden via het wildrapport.<br>
+<br>
+3.8 Link met aspecten van dierenwelzijn en de verwerking van kadavers<br>
+<br>
+De dieren die het voorwerp zijn van bestrijding worden op een diervriendelijke manier gedood. Gedode specimens die niet voor consumptie worden genuttigd, dienen op een milieuhygiënisch verantwoorde manier te worden verwerkt.<br>
+<br>
+3.9 Vervoer van specimens die het onderwerp zijn geweest van bestrijding<br>
+<br>
+In afwijking van artikel 12 is het toegestaan om specimens van de soorten in kwestie te vervoeren in de periode waarin de bestrijding is toegestaan tot en met de tiende dag volgend op het aflopen van de bestrijdingsperiode, als het gaat om specimens die het voorwerp zijn geweest van bestrijding in overeenstemming met deze bijlage. Het is verboden de specimens die het voorwerp zijn geweest van bestrijding te kopen of te verkopen.<br>
+<br>
+3.10 Verzekering voor burgerlijke aansprakelijkheid<br>
+<br>
+De personen die in het kader van deze bijlage overgaan tot bestrijding met vuurwapens, moeten een verzekering voor burgerlijke aansprakelijkheid hebben afgesloten. De waarborg van die verzekering moet ten minste de bedragen dekken die vermeld zijn in artikel 19 van het Jachtadministratiebesluit van 25 april 2014.
 
 ## [Bijlage 3/1 Bestrijding van in het wild voorkomende uitheemse soorten (ing. BVR 25 januari 2019, art. 32, I: 25 januari 2019)]
+
+### BIJLAGE 3/1.
+
+Bijlage 3/1: Bestrijding van in het wild voorkomende uitheemse soorten<br>
+<br>
+3/1.1 De verschillende mogelijkheden van bestrijding<br>
+<br>
+Als specimens van in het wild voorkomende uitheemse soorten worden gedood of gevangen moet rekening worden gehouden met de in deze bijlage opgenomen voorwaarden.<br>
+<br>
+3/1.2 De uitvoering van de bestrijding in de tijd<br>
+<br>
+De bestrijdingsactiviteiten die op grond van deze bijlage uitgevoerd worden zijn gedurende het hele jaar toegestaan, zowel overdag als `s nachts, rekening houdend met een minimale verstoring van inheemse flora en fauna. Het gebruik van vuurwapens, luchtdrukwapens en gasdrukwapens is enkel toegestaan tussen één uur voor de officiële zonsopgang en één uur na de officiële zonsondergang.<br>
+<br>
+3/1.3 Beperkingen ten aanzien van de middelen waarmee de bestrijding kan worden uitgevoerd<br>
+<br>
+Ten aanzien van de middelen waarmee bestrijdingsactiviteiten ten aanzien van in het wild voorkomende uitheemse soorten uitgevoerd worden, gelden de volgende beperkingen:<br>
+1° voor de uitvoering van bestrijding mogen de volgende verboden middelen vermeld in bijlage 2.A worden gebruikt:<br>
+a) levende uitheemse lokdieren. De lokdieren moeten voedsel, water en beschutting ter beschikking hebben;<br>
+b) alle akoestische hulpmiddelen;<br>
+c) apparaten om vangstplaatsen te verlichten;<br>
+d) kunstmatige lichtbronnen.<br>
+2° op het vlak van het gebruik van wapens en munitie zijn toegelaten:<br>
+a) de vuurwapens en de munitie vermeld in artikel 9 en 10 van het Jachtvoorwaardenbesluit van 25 april 2014;<br>
+b) de luchtdruk- en gasdrukwapens waarbij gebruik gemaakt wordt van kogelpatronen voor getrokken loop met een diameter van minimaal 4,5 mm en een minimale trefenergie van 17 J op 35 m van de loopmond.<br>
+Het gebruik van vuur-, luchtdruk- en gaswapens is alleen toegestaan voor personen die in het bezit zijn van een geldig jachtverlof. Het gebruik van vuurwapens is alleen toegestaan voor de bestrijding van uitheemse zoogdieren, vogels, amfibieën en reptielen;<br>
+3° akoestische lokmiddelen zijn alleen toegestaan indien ze gericht zijn op de uitheemse soort die wordt bestreden;<br>
+4° alleen roofvogels die in bezit worden gehouden conform de bepalingen van het besluit zijn toegestaan;<br>
+5° het gebruik van netten, levende-vangkooien of vallen is alleen toegestaan onder de volgende voorwaarden:<br>
+a) de netten, vallen en kooien worden dagelijks gecontroleerd en alle andere gevangen dieren dan de soorten waarvoor het gebruik van vallen is toegestaan, worden dadelijk ter plekke in vrijheid gesteld;<br>
+b) de gevangen specimens van uitheemse soorten worden onmiddellijk gedood of afgevoerd;<br>
+c) de netten, vallen en kooien worden geïdentificeerd met een weersbestendig plaatje waarop de naam van de te bestrijden soort, het telefoonnummer van het agentschap alsook, in voorkomend geval, het jachtverlofnummer van de plaatser van de val leesbaar vermeld staan;<br>
+6° het gebruik van vangmiddelen die binnen 24 uur na het opstellen tot de dood van het gevangen specimen leiden, is alleen toegestaan indien ze qua werking of gebruik voldoende selectief zijn.<br>
+<br>
+3/1.4 Afwijkingen<br>
+<br>
+Specifieke afwijkingen van de tijdsbeperking, vermeld in 3/1.2, en de beperkingen ten aanzien van de middelen, vermeld in 3/1.3, kunnen worden toegestaan als geen andere bevredigende oplossing bestaat.<br>
+<br>
+De aanvragen van de specifieke afwijkingen worden naar het agentschap gestuurd met een aangetekend papieren formulier of met een elektronisch formulier. Het model van de formulieren wordt ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+Het agentschap moet een gemotiveerde beslissing nemen over aanvragen van afwijking binnen de volgende termijn vanaf de ontvangstdatum van het aangetekend papieren formulier of het elektronische formulier:<br>
+1° binnen een termijn van vijf werkdagen, op voorwaarde dat er sprake is van gemotiveerde hoogdringendheid. Deze termijn kan bij gemotiveerde beslissing eenmaal met vijf werkdagen worden verlengd;<br>
+2° binnen een termijn van twintig werkdagen voor andere aanvragen. Deze termijn kan bij gemotiveerde beslissing eenmaal met twintig werkdagen worden verlengd;<br>
+<br>
+Een beslissing die een afwijking toestaat bevat de volgende onderdelen:<br>
+1° de uitheemse soorten waarop de afwijking betrekking heeft;<br>
+2° de personen die de afwijking mogen doorvoeren;<br>
+3° de middelen, installaties of methoden die mogen worden gebruikt om de afwijking door te voeren;<br>
+4° de omstandigheden van tijd en plaats waaronder de afwijking mag plaatsvinden;<br>
+5° in voorkomend geval, de voorwaarden en de lasten waaronder de afwijking mag worden doorgevoerd, in relatie tot de reden waarvoor de afwijking wordt toegestaan;<br>
+6° de controles die zullen worden uitgevoerd.<br>
+<br>
+Het agentschap betekent de beslissing aan de aanvrager.<br>
+<br>
+Tegen een weigering tot het verlenen van een afwijking kan er binnen een termijn van dertig kalenderdagen beroep worden ingesteld bij de minister. De minister neemt een beslissing binnen een termijn van twee maanden<br>
+<br>
+3/1.5 Personen die de bestrijding kunnen uitvoeren<br>
+<br>
+De bestrijding mag worden uitgevoerd door de eigenaar, de huurder, de exploitant of de grondgebruiker of grondgebruikers van het terrein waar de bestrijding plaatsvindt.<br>
+<br>
+De bestrijding mag tevens worden uitgevoerd door een derde op voorwaarde van een schriftelijke toestemming van de eigenaar, de verhuurder of de exploitant of grondgebruiker of grondgebruikers.<br>
+<br>
+Een organisator of uitvoerder van bestrijding besteedt bij de uitvoering van de bestrijding bijzondere aandacht aan de veiligheid van de activiteit en aan de verenigbaarheid ervan met activiteiten van andere gebruikers van het buitengebied.<br>
+<br>
+3/1.6 Link met aspecten van dierenwelzijn en de verwerking van kadavers<br>
+<br>
+De dieren die het voorwerp zijn van bestrijding, worden op een diervriendelijke manier gedood. Gedode specimens die niet voor consumptie worden genuttigd, dienen op een milieuhygiënisch verantwoorde manier te worden verwerkt.<br>
+<br>
+3/1.7 Verzekering voor burgerlijke aansprakelijkheid<br>
+<br>
+De personen die in het kader van deze bijlage overgaan tot bestrijding met vuurwapens, luchtdrukwapens of gasdrukwapens moeten een verzekering voor burgerlijke aansprakelijkheid hebben afgesloten. De waarborg van die verzekering moet ten minste de bedragen dekken die vermeld zijn in artikel 19 van het Jachtadministratiebesluit van 25 april 2014.
 
 ## Bijlage 4 Werkingsvoorwaarden voor een opvangcentrum voor wilde dieren dat is erkend volgens de voorwaarden van dit besluit
 
 ### BIJLAGE 4
 
-De werkingsvoorwaarden, vermeld in artikel 33 en 35, waaraan een erkend opvangcentrum voor vogels en wilde dieren moet voldoen, zijn :<br />A. Voorwaarden voor de dagelijkse functionering van het opvangcentrum :<br />1° het opvangcentrum bouwt een netwerk uit van betrouwbare medewerkers dat fungeert als ophaaldienst van hulpbehoevende dieren;<br />2° het opvangcentrum beschikt over een telefoon en eventueel een antwoordapparaat of mobiele telefoon waarnaar de oproepen kunnen worden doorgeschakeld om een continue permanentie te garanderen;<br />3° het opvangcentrum laat zich op aantoonbare wijze bijstaan door minstens één competente dierenarts;<br />4° het opvangcentrum laat geen publiek toe in de verzorgings- en revalidatieruimten, behalve als de accommodatie geschikt is om publiek toe te laten zonder dat de revaliderende dieren worden gestoord en als het bezoek plaatsvindt onder deskundige begeleiding;<br />5° het opvangcentrum zorgt voor een goede, hygiënische huisvesting, voldoende ruimte en bewegingsvrijheid voor de te revalideren dieren, in overeenstemming met hun fysiologische en ethologische behoeften;<br />6° het opvangcentrum streeft ernaar bekendheid te verwerven bij de lokale overheden, de plaatselijke ambtenaren van het agentschap, de politie, de natuur- en dierenbeschermingsorganisaties, dierenartsen, pers en publiek;<br />7° het opvangcentrum onderhoudt omwille van zijn educatieve en sensibiliserende taak, contacten met de personen die een hulpbehoevend dier melden of zelf binnenbrengen. Er moet naar worden gestreefd dat die personen een bedankje ontvangen en op de hoogte gebracht worden van het resultaat na de behandeling van het binnengebrachte dier. Voor bijzondere soorten kan het opvangcentrum ernaar streven die personen uit te nodigen als het dier wordt vrijgelaten;<br />8° het opvangcentrum ondersteunt de overheid, inzonderheid bij de opvang van hulpbehoevende wilde dieren in het kader van de uitvoering en de handhaving van het besluit.<br />B. Voorwaarden in verband met het vangen van dieren zoals bedoeld in artikel 35 van het besluit : <br />1° het vangen kan alleen plaatsvinden :<br />a) om gekwetste of hulpbehoevende wilde dieren te helpen;<br />b) om in gevangenschap gehouden dieren te kunnen controleren en identificeren, ter ondersteuning en op verzoek van personen die belast zijn met het toezicht op dit besluit;<br />2° de dieren mogen alleen gevangen worden met behulp van netten of vangkooien. Indien de situatie het vereist mogen er verdovingswapens worden gebruikt, met inachtneming van daarvoor geldende regelgeving; <br />3° de dieren die worden gevangen, dienen te worden vervoerd naar een geschikte plaats om hen vrij te laten, of, indien nodig, naar een erkend opvangcentrum voor verdere verzorging.<br />C. Voorwaarden voor het omgaan met wilde dieren die voor verzorging in het opvangcentrum terechtkomen :<br />1° het opvangcentrum is verplicht alle hulpbehoevende dieren te aanvaarden die behoren tot soorten die van nature in het wild voorkomen op het Europese grondgebied van de lidstaten van de Europese Unie. <br />2° de opgevangen dieren mogen niet worden verhandeld. Ze mogen alleen aan het publiek worden getoond in het kader van de informatieve en educatieve werking van het opvangcentrum, als hun toestand dat toelaat;<br />3° het opvangcentrum euthanaseert alle onherstelbaar verminkte dieren die hun plaats in de natuur niet meer kunnen innemen, zo snel mogelijk nadat de diagnose is gesteld;<br />4° maximaal twee gehandicapte individuen van een bepaalde diersoort kunnen gehouden worden als therapeutische hulp bij de revalidatie van nieuw binnengebrachte dieren van dezelfde soort. Ze mogen niet worden geplaatst bij particulieren, verenigingen, commerciële instellingen of zoos;<br />5° dieren die dood worden binnengebracht of die sterven in het opvangcentrum, worden ofwel vernietigd, ofwel verzonden naar een wetenschappelijke, diergeneeskundige of andere onderzoeksinstelling waar het kadaver aan een autopsie zal worden onderworpen om de eventuele doodsoorzaak te achterhalen, ofwel worden ze voor educatieve of wetenschappelijke activiteiten ter beschikking gesteld aan onderwijsinstellingen, aan educatieve centra die beheerd worden door instanties die duidelijk educatieve activiteiten met de soorten in kwestie tot doel hebben, of aan openbare onderzoeksorganen;<br />6° het opvangcentrum bezorgt elke met het oog op wetenschappelijk onderzoek aangebrachte ring van geringde dode vogels (inclusief vindplaats, datum, doodsoorzaak) aan het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Belgisch Ringwerk, Vautierstraat 29, 1000 Brussel;<br />7° het is verboden kweekprojecten te starten, moedwillig of ongewild, met dieren die in revalidatie in het centrum verblijven;<br />8° het opvangcentrum houdt een register bij waarin de volgende gegevens worden opgenomen :<br />a) de binnengebrachte dieren, met vermelding van de datum waarop ze zijn binnengebracht;<br />b) de weer vrijgelaten dieren, met vermelding van de datum en de plaats van vrijlating;<br />9° elk opvangcentrum bezorgt jaarlijks voor 31 maart een overzicht van de gedurende het voorafgaande kalenderjaar binnengebrachte dieren aan het agentschap. Uit dat overzicht moet blijken hoeveel dieren werden binnengebracht, om welke reden ze werden binnengebracht en of en hoe ze het opvangcentrum hebben verlaten.<br />D. Voorwaarden voor het terug vrijlaten of het plaatsen van dieren die voor verzorging en revalidatie zijn opgenomen in een opvangcentrum :<br />1° dieren die behoren tot een inheemse soort moeten, van zodra hun conditie het toelaat en op een daartoe geschikt tijdstip, worden vrijgelaten in het wild; <br />2° de vrijlating van de opgevangen inheemse dieren dient te gebeuren in een voor de betrokken soort geschikte biotoop. Indien de plaats waaraan het dier werd aangetroffen voor opname in het opvangcentrum voldoet aan deze voorwaarde, wordt het dier daar terug vrijgelaten, indien dat praktisch mogelijk is;<br />3° er moet steeds een voorafgaande toestemming zijn van de eigenaar en, in voorkomend geval, de gebruiker, op wiens terrein de dieren worden vrijgelaten; <br />4° dieren moeten in beginsel worden vrijgelaten in rustige omstandigheden, zonder publiek. In afwijking hiervan mogen, in het kader van openbare activiteiten georganiseerd door of in samenwerking met het opvangcentrum, en die gericht zijn op educatieve doeleinden, maximaal 20 dieren per activiteit worden vrijgelaten; <br />5° vogels die weer worden vrijgelaten, worden op het moment van de vrijlating geringd door een erkende wetenschappelijke ringer die verbonden is aan het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Belgisch Ringwerk, Vautierstraat 29, 1000 Brussel. Andere dieren dan vogels worden eventueel, in voorkomend geval, gemerkt. Wat betreft het merken van zoogdieren die behoren tot het jachtwild zoals bedoeld in artikel 3, § 2, 3° van het besluit wordt contact opgenomen met het instituut;<br />6° dieren die behoren tot een uitheemse soort of tot een gedomesticeerde soort, of inheemse dieren afkomstig van een inbeslagname die hun plaats in de natuur niet meer kunnen innemen, mogen niet in het wild worden vrijgelaten. Deze dieren moeten worden geplaatst op een daartoe geschikte locatie;<br />7° Uit gevangenschap ontsnapte specimens, die in overeenstemming met de bepalingen van dit besluit onder zich gehouden werden, en die als zodanig te identificeren zijn, moeten, wanneer ze in een opvangcentrum worden binnengebracht, zo snel mogelijk aan de eigenaar worden terugbezorgd.<br /><br />
+De werkingsvoorwaarden, vermeld in artikel 33 en 35, waaraan een erkend opvangcentrum voor vogels en wilde dieren moet voldoen, zijn :<br>
+A. Voorwaarden voor de dagelijkse functionering van het opvangcentrum :<br>
+1° het opvangcentrum bouwt een netwerk uit van betrouwbare medewerkers dat fungeert als ophaaldienst van hulpbehoevende dieren;<br>
+2° het opvangcentrum beschikt over een telefoon en eventueel een antwoordapparaat of mobiele telefoon waarnaar de oproepen kunnen worden doorgeschakeld om een continue permanentie te garanderen;<br>
+3° het opvangcentrum laat zich op aantoonbare wijze bijstaan door minstens één competente dierenarts;<br>
+4° het opvangcentrum laat geen publiek toe in de verzorgings- en revalidatieruimten, behalve als de accommodatie geschikt is om publiek toe te laten zonder dat de revaliderende dieren worden gestoord en als het bezoek plaatsvindt onder deskundige begeleiding;<br>
+5° het opvangcentrum zorgt voor een goede, hygiënische huisvesting, voldoende ruimte en bewegingsvrijheid voor de te revalideren dieren, in overeenstemming met hun fysiologische en ethologische behoeften;<br>
+6° het opvangcentrum streeft ernaar bekendheid te verwerven bij de lokale overheden, de plaatselijke ambtenaren van het agentschap, de politie, de natuur- en dierenbeschermingsorganisaties, dierenartsen, pers en publiek;<br>
+7° het opvangcentrum onderhoudt omwille van zijn educatieve en sensibiliserende taak, contacten met de personen die een hulpbehoevend dier melden of zelf binnenbrengen. Er moet naar worden gestreefd dat die personen een bedankje ontvangen en op de hoogte gebracht worden van het resultaat na de behandeling van het binnengebrachte dier. Voor bijzondere soorten kan het opvangcentrum ernaar streven die personen uit te nodigen als het dier wordt vrijgelaten;<br>
+8° het opvangcentrum ondersteunt de overheid, inzonderheid bij de opvang van hulpbehoevende wilde dieren in het kader van de uitvoering en de handhaving van het besluit.<br>
+B. Voorwaarden in verband met het vangen van dieren zoals bedoeld in artikel 35 van het besluit :<br>
+1° het vangen kan alleen plaatsvinden :<br>
+a) om gekwetste of hulpbehoevende wilde dieren te helpen;<br>
+b) om in gevangenschap gehouden dieren te kunnen controleren en identificeren, ter ondersteuning en op verzoek van personen die belast zijn met het toezicht op dit besluit;<br>
+2° de dieren mogen alleen gevangen worden met behulp van netten of vangkooien. Indien de situatie het vereist mogen er verdovingswapens worden gebruikt, met inachtneming van daarvoor geldende regelgeving;<br>
+3° de dieren die worden gevangen, dienen te worden vervoerd naar een geschikte plaats om hen vrij te laten, of, indien nodig, naar een erkend opvangcentrum voor verdere verzorging of, als het invasieve uitheemse soorten, vermeld in artikel 3, § 1, eerste lid, 4°, betreft, naar een voorziening met het oog op het euthanaseren ervan.<br>
+C. Voorwaarden voor het omgaan met wilde dieren die voor verzorging in het opvangcentrum terechtkomen :<br>
+1° het opvangcentrum is verplicht alle hulpbehoevende dieren te aanvaarden die behoren tot soorten die van nature in het wild voorkomen op het Europese grondgebied van de lidstaten van de Europese Unie.<br>
+2° de opgevangen dieren mogen niet worden verhandeld. Ze mogen alleen aan het publiek worden getoond in het kader van de informatieve en educatieve werking van het opvangcentrum, als hun toestand dat toelaat;<br>
+3° het opvangcentrum euthanaseert alle onherstelbaar verminkte dieren die hun plaats in de natuur niet meer kunnen innemen, zo snel mogelijk nadat de diagnose is gesteld;<br>
+4° maximaal twee gehandicapte individuen van een bepaalde diersoort kunnen gehouden worden als therapeutische hulp bij de revalidatie van nieuw binnengebrachte dieren van dezelfde soort. Ze mogen niet worden geplaatst bij particulieren, verenigingen, commerciële instellingen of zoos;<br>
+5° dieren die dood worden binnengebracht of die sterven in het opvangcentrum, worden ofwel vernietigd, ofwel verzonden naar een wetenschappelijke, diergeneeskundige of andere onderzoeksinstelling waar het kadaver aan een autopsie zal worden onderworpen om de eventuele doodsoorzaak te achterhalen, ofwel worden ze voor educatieve of wetenschappelijke activiteiten ter beschikking gesteld aan onderwijsinstellingen, aan educatieve centra die beheerd worden door instanties die duidelijk educatieve activiteiten met de soorten in kwestie tot doel hebben, of aan openbare onderzoeksorganen;<br>
+6° het opvangcentrum bezorgt elke met het oog op wetenschappelijk onderzoek aangebrachte ring van geringde dode vogels (inclusief vindplaats, datum, doodsoorzaak) aan het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Belgisch Ringwerk, Vautierstraat 29, 1000 Brussel;<br>
+7° het is verboden kweekprojecten te starten, moedwillig of ongewild, met dieren die in revalidatie in het centrum verblijven;<br>
+8° het opvangcentrum houdt een register bij waarin de volgende gegevens worden opgenomen :<br>
+a) de binnengebrachte dieren, met vermelding van de datum waarop ze zijn binnengebracht;<br>
+b) de weer vrijgelaten dieren, met vermelding van de datum en de plaats van vrijlating;<br>
+9° elk opvangcentrum bezorgt jaarlijks voor 31 maart een overzicht van de gedurende het voorafgaande kalenderjaar binnengebrachte dieren aan het agentschap. Uit dat overzicht moet blijken hoeveel dieren werden binnengebracht, om welke reden ze werden binnengebracht en of en hoe ze het opvangcentrum hebben verlaten.<br>
+D. Voorwaarden voor het terug vrijlaten of het plaatsen van dieren die voor verzorging en revalidatie zijn opgenomen in een opvangcentrum :<br>
+1° dieren die behoren tot een inheemse soort moeten, van zodra hun conditie het toelaat en op een daartoe geschikt tijdstip, worden vrijgelaten in het wild;<br>
+2° de vrijlating van de opgevangen inheemse dieren dient te gebeuren op de locatie waar het dier werd aangetroffen voor zijn opname in het opvangcentrum. Indien het niet mogelijk is om het dier op dezelfde locatie terug vrij te laten, dient de alternatieve uitzettingslocatie voorafgaand aan het agentschap gemeld te worden. Een opvangcentrum kan bij het agentschap een voorstel indienen van één of meer uitzettingslocaties. Het agentschap organiseert en coördineert vervolgens een overleg met het opvangcentrum in kwestie en vertegenwoordigers uit de natuursector, de jachtsector en de landbouwsector. Op basis van het resultaat van dat overleg doet het agentschap een voorstel tot vaststelling van één of meer uitzettingslocaties voor het betrokken opvangcentrum aan de minister, die beslist;<br>
+3° er moet steeds een voorafgaande toestemming zijn van de eigenaar en, in voorkomend geval, de gebruiker, op wiens terrein de dieren worden vrijgelaten;<br>
+4° dieren moeten in beginsel worden vrijgelaten in rustige omstandigheden, zonder publiek. In afwijking hiervan mogen, in het kader van openbare activiteiten georganiseerd door of in samenwerking met het opvangcentrum, en die gericht zijn op educatieve doeleinden, maximaal 20 dieren per activiteit worden vrijgelaten;<br>
+5° vogels die weer worden vrijgelaten, worden op het moment van de vrijlating geringd door een erkende wetenschappelijke ringer die verbonden is aan het Koninklijk Belgisch Instituut voor Natuurwetenschappen (KBIN), Belgisch Ringwerk, Vautierstraat 29, 1000 Brussel. Andere dieren dan vogels worden eventueel, in voorkomend geval, gemerkt. Wat betreft het merken van zoogdieren die behoren tot het jachtwild zoals bedoeld in artikel 3, § 2, 3° van het besluit wordt contact opgenomen met het instituut;<br>
+6° dieren die behoren tot een uitheemse soort of tot een gedomesticeerde soort, of inheemse dieren afkomstig van een inbeslagname die hun plaats in de natuur niet meer kunnen innemen, mogen niet in het wild worden vrijgelaten. Deze dieren moeten worden geplaatst op een daartoe geschikte locatie; Dieren die behoren tot een invasieve uitheemse soort als vermeld in artikel 3, § 1, eerste lid, 4°, moeten worden overgebracht naar een voorziening met het oog op het euthanaseren ervan;<br>
+7° Uit gevangenschap ontsnapte specimens, die in overeenstemming met de bepalingen van dit besluit onder zich gehouden werden, en die als zodanig te identificeren zijn, moeten, wanneer ze in een opvangcentrum worden binnengebracht, zo snel mogelijk aan de eigenaar worden terugbezorgd.<br>
+&nbsp;
 
 ## Bijlage 5 Model van identificatiebewijs voor medewerkers van een opvangcentrum dat is erkend volgens de voorwaarden van dit besluit
 
