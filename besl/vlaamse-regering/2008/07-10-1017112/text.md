@@ -9,7 +9,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs op de volgende wijze vastgelegd in de volgende bijlagen die bij dit besluit zijn gevoegd:<br>
 1° bijlage XLI tot en met XLVI voor het studiegebied bakkerij;<br>
 2° bijlage XXXVII en bijlage XXXVIII voor het studiegebied drankenkennis;<br>
-3° bijlage XIX tot en met XXXVI, bijlage XXXIX en bijlage XL voor het studiegebied horeca;<br>
+3° bijlage XIX tot en met XXXVI, bijlage XXXIX en bijlage LV tot en met LVIII;<br>
 4° bijlage XLVII tot en met LIV voor het studiegebied slagerij.<br>
 <br>
 Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
@@ -212,7 +212,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XL
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_6.pdf#page=60">Bijlage   XL</A></P>
+...
 
 ### BIJLAGE XLI
 
@@ -271,3 +271,19 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE LIV.
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=88">Bijlage LIV</a>
+
+### BIJLAGE LV
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=135">Bijlage LV</a>
+
+### BIJLAGE LVI
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=146">Bijlage LVI</a>
+
+### BIJLAGE LVII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=162">Bijlage LVII</a>
+
+### BIJLAGE LVIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=171">Bijlage LVIII</a>
