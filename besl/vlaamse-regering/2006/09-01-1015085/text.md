@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs vastgelegd in bijlage I tot en met XI, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het secundair volwassenenonderwijs vastgelegd in bijlage I tot en met VI en bijlage VIII tot en met XIII, die bij dit besluit zijn gevoegd.
 
 ### ART. 2.
 
@@ -55,7 +55,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=206">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=206</a>
+...
 
 ### BIJLAGE VIII
 
@@ -72,3 +72,11 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE XI
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=303">http://www.ejustice.just.fgov.be/mopdf/2017/10/05_1.pdf#page=303</a>
+
+### BIJLAGE XII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=38">Bijlage XII</a>
+
+### BIJLAGE XIII
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/05/23_1.pdf#page=60">Bijlage XIII</a>
