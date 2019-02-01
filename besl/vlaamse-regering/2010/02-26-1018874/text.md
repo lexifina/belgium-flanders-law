@@ -62,7 +62,7 @@ e) 23 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende stu
 f) 24 lestijden van 50 minuten als het ambt wordt uitgeoefend in de volgende studiegebieden:<br>
 1) Afwerking bouw<br>
 2) Ambachtelijke accessoires, als het gaat om de opleidingen Accessoires, Breien, Briljanteerder, Diamantbewerker, Diamantsnijder, Edelsteenzetter, Goudsmid, Juweelhersteller, Kruiswerker, Marokijnbewerker, Mode en Interieur, Mode en Textielverkoop, Modist, Schoenhersteller, Schoenmaker- Ontwerper, Uurwerkmaker en Zilversmid;<br>
-3) Ambachtelijk erfgoed, als het gaat om de opleidingen Hoefsmid, Siersmid en Vakman Houtsnijwerk;<br>
+3) Ambachtelijk erfgoed, als het gaat om de opleidingen Bekapper, Hoefsmid, Siersmid en Vakman Houtsnijwerk;<br>
 4) Bakkerij;<br>
 5) Drankenkennis;<br>
 6) Horeca;<br>
