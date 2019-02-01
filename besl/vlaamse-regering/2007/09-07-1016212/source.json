@@ -2,16 +2,16 @@
   "codex_id": 1016212,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 houdende de uitvoering van het decreet van 22 december 2000 betreffende de amateurkunsten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016212/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "8531824d634a4e97a9abe7ac610b06f61aadd7d0cc277af329a8f296a15e163b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016212/VolledigDocument?datum=2019-02-01",
+  "source_sha256": "6646da209e0bc0b240731e58c5f0d20ea43f6a816ba92ccb4bf3ec4864ab4208",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016212&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2019-02-01",
   "made": "2007-09-07",
   "gazette": "2007-10-05",
   "numac": 2007036673,
   "document_start": "2007-10-05",
   "document_end": "2024-12-31",
-  "in_force": "2015-04-01",
-  "article_versions": 20,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-02-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2019-02-01; future article versions excluded; article text as the API gives it"
 }

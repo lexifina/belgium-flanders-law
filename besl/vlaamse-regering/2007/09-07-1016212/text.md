@@ -60,35 +60,120 @@ Een projectaanvraag bevat per kalenderjaar een begroting en een activiteitensche
 
 ### ART. 11.
 
-Een vereniging met rechtspersoonlijkheid of een vereniging die aangesloten is bij een erkende organisatie voor amateurkunsten, gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, voor zover het gaat om verenigingen of instellingen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap, die activiteiten ontplooit op het terrein van de amateurkunsten, kan een aanvraag indienen tot het verkrijgen van een subsidie voor een internationaal cultureel project. Voor de tegemoetkomingen in de buitenlandse reizen, vermeld in artikel 16, kunnen ook individuele amateurkunstenaars een aanvraag indienen.<br /><br />Minstens tien procent van de projectmiddelen voor internationale culturele projecten wordt voorbehouden voor interculturele projecten of voor projecten, die ingediend zijn door groepen met een etnisch-cultureel diverse achtergrond.<br />
+Amateurkunstenorganisaties of -groepen kunnen een aanvraag van een subsidie voor een internationaal cultureel project indienen. Voor de internationale reistoelagen, vermeld in artikel 16, kunnen ook individuele amateurkunstenaars een aanvraag indienen.<br>
+<br>
+De administratie onderzoekt of de aanvrager voldoet aan elk van de volgende ontvankelijkheidsvoorwaarden:<br>
+1° het projectdossier is op tijd ingediend;<br>
+2° de aanvrager beschikt over rechtspersoonlijkheid met een niet-commercieel karakter, met uitzondering van de aanvragen van internationale reistoelagen als vermeld in artikel 16, die ook individuele amateurkunstenaars als natuurlijk persoon kunnen aanvragen;<br>
+3° de aanvrager is gevestigd in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+4° de aanvrager gaat ermee akkoord om op verzoek in de gevraagde vorm alle nuttige en noodzakelijke gegevens over de werking te verstrekken;<br>
+5° het projectdossier is in het Nederlands opgesteld.
 
 ## [Afdeling 2. Internationale culturele projecten in Vlaanderen georganiseerd (verv. BVR 21 december 2018, art. 1, I: 1 februari 2019)]
 
 ### ART. 12.
 
-§ 1. Om in aanmerking te komen voor de subsidiëring van internationale culturele projecten in de amateurkunstensector moeten de projecten tot een van de volgende categorieën behoren :<br />1° een internationaal evenement dat in het Nederlandse taalgebied wordt georganiseerd, waar een publiek platform wordt geboden aan kwalitatief hoogstaande binnen- en buitenlandse amateurkunstengroepen en amateurkunstenaars uit meer dan drie landen;<br />2° een internationaal congres, in het Nederlandse taalgebied georganiseerd, met een ruime omkadering en rond specifieke thema's op het terrein van de amateurkunsten;<br />3° een internationaal evenement in het Nederlandse taalgebied met deelnemers uit meer dan drie landen waaraan Vlaamse amateurkunstgroepen of amateurkunstenaars deelnemen en waarbij de inhoud en de methodiek vanwege het experimentele, vernieuwende of interdisciplinaire karakter een waardevolle bijdrage betekenen op het vlak van ervaringsuitwisseling.<br /><br />§ 2. Paragraaf 1 geldt eveneens voor internationale culturele projecten die doorgaan in het tweetalige gebied Brussel-Hoofdstad, voor zover het gaat om verenigingen of instellingen die wegens hun activiteiten moeten worden beschouwd uitsluitend te behoren tot de Vlaamse Gemeenschap.<br />
+Het internationale culturele project vindt plaats in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad.
 
 ### ART. 13.
 
-De aanvraag voor projecten moet bij de administratie worden ingediend uiterlijk op 1 oktober van het jaar dat voorafgaat aan het jaar waarin het internationale project plaatsvindt.<br />
+De subsidieaanvraag voor projecten wordt uiterlijk ingediend bij de administratie op 1 oktober van het jaar dat voorafgaat aan het jaar waarin het internationale project plaatsvindt.
 
 ### ART. 14.
 
-Het ingediende dossier bevat minstens :<br />1° een precieze omschrijving van het project, waarbij melding wordt gemaakt van de inhoud en vormgeving, de deelnemers, de concrete planning, de locaties en de eventuele partners. Daarbij moet duidelijk worden aangetoond dat het gaat om amateurkunstenaars;<br />2° een overzicht van de programmering van het project, waarin aangetoond wordt welke inbreng de deelnemende Vlaamse amateurkunstengroep of amateurkunstenaar heeft;<br />3° een overzicht van de voorbije programmering en activiteiten van de amateurkunstengroep of de amateurkunstenaar, waaruit blijkt dat de inbreng op het internationale project een meerwaarde kan betekenen voor de deelnemende landen en de deelnemers;<br />4° een omstandige toelichting over het publieksbereik, over de wijze waarop de media en pers zullen worden betrokken bij het project, en over de uitstraling van het project voor Vlaanderen;<br />5° een uitgewerkte begroting, waarin duidelijk moet worden aangetoond welke de verwachte inkomsten en uitgaven zijn, met aandacht voor de eigen inbreng van de aanvragende vereniging en de andere partners. Er moet duidelijk vermeld worden welk bedrag aan subsidies er wordt gevraagd. Uit de begroting moet blijken dat de aangevraagde subsidie noodzakelijk is om het project te kunnen realiseren. De subsidie kan nooit meer bedragen dan 75 % van de effectieve uitgaven.<br />
+Het projectdossier omvat:<br>
+1° een beschrijving van het project, inclusief een plan van aanpak. Daarbij wordt duidelijk aangetoond dat het gaat om een internationaal cultureel project binnen het amateurkunstenveld;<br>
+2° een projectbegroting in evenwicht, waarin duidelijk wordt aangetoond wat de verwachte inkomsten en uitgaven zijn, met aandacht voor de eigen inbreng van de aanvrager en de andere partners. Er wordt duidelijk vermeld welk subsidiebedrag er wordt gevraagd. Uit de begroting blijkt dat de aangevraagde subsidie noodzakelijk is om het project te kunnen realiseren.
 
 ### ART. 15.
 
-§ 1. De bevoegde adviescommissie die is aangesteld door de minister geeft advies over de subsidieaanvragen. Bij de advisering over de ingediende projecten zal de adviescommissie rekening houden met de volgende elementen :<br />1° de mogelijkheden die aan de bevolking in Vlaanderen worden geboden om in contact te komen en kennis te maken met buitenlandse cultuuruitingen;<br />2° de bevordering van internationale samenwerkingsverbanden, uitwisseling en expertisevorming;<br />3° de kansen die aan amateurkunstengroepen geboden worden om hun artistieke kwaliteit te meten met die van andere nationaliteiten;<br />4° de internationale dimensie die op een kwalitatieve manier in het project aanwezig moet zijn;<br />5° de internationale uitstraling die de locatie en de deelname van andere partners aan het gebeuren geven;<br />6° de indiening van een goed gemotiveerd en gedocumenteerd dossier.<br /><br />§ 2. De administratie legt aan de minister voor beslissing een voorstel van subsidiëring voor, rekening houdend met het advies van de adviescommissie. De minister deelt voor 31 december zijn beslissing mee.
+De bevoegde adviescommissie die is aangesteld door de minister, geeft advies over de subsidieaanvragen. Bij de advisering over de ingediende projecten houdt de adviescommissie rekening met de volgende kwaliteitscriteria:<br>
+1° de profilering en positionering van het project binnen het amateurkunstenveld;<br>
+2° de artistieke of educatieve kwaliteit van het project;<br>
+3° de internationale dimensie of uitstraling van het project;<br>
+4° het bereik van een breed en divers publiek;<br>
+5° de samenwerking met partnerorganisaties en stakeholders;<br>
+6° het zakelijk beheer, waarbij getoetst wordt of de inhoudelijke planning spoort met de zakelijke planning en of de begroting en timing haalbaar en realistisch zijn.<br>
+<br>
+Op basis van het advies van de adviescommissie formuleert de administratie een ontwerp van beslissing en legt dat ontwerp voor aan de minister. De minister deelt voor 31 december van het jaar dat voorafgaat aan het jaar waarin het internationale project plaatsvindt zijn beslissing mee.
 
 ## [Afdeling 3. Internationale reistoelagen (ing. BVR 21 december 2018, art. 1, I: 1 februari 2019)]
 
 ### ART. 16.
 
-§ 1. Naast de subsidiëring van internationale projecten in het binnenland   bestaat eveneens de mogelijkheid om een financiële tegemoetkoming aan te vragen   in de reiskosten van sommige internationale projecten in het buitenland,   namelijk bij :<BR>1° deelname door Vlaamse amateurkunstengroepen en   amateurkunstenaars, met een behoorlijk artistiek niveau, aan een internationale   wedstrijd met een grote internationale uitstraling, waarbij er deelnemers zijn   uit minstens drie landen;<BR>2° deelname door Vlaamse amateurkunstengroepen en   amateurkunstenaars, met een behoorlijk artistiek niveau, aan een festival of een   tentoonstelling&nbsp;met een grote internationale uitstraling, waarbij er   deelnemers zijn uit minstens drie landen;<BR>3° het uitsturen van een Vlaamse   dirigent, regisseur, choreograaf, docent, deskundige, of een Vlaams jurylid naar   internationale activiteiten met als bedoeling een bijdrage of meerwaarde te   bieden voor de deelnemers van een activiteit in het buitenland;<BR>4° de   deelname van Vlaamse amateurkunstenaars of amateurkunstengroepen aan   buitenlandse cursussen of workshops met deelnemers uit minstens drie landen met   als bedoeling bijscholing en kwaliteitsverhoging van de eigen kennis of   werking.<BR><BR>§ 2. De tegemoetkomingen in de reiskosten voor die projecten   bedragen maximaal 75 % van de totale reiskosten met een maximum van duizend euro   voor individuele deelnemers en een maximum van vijfduizend euro voor   amateurkunstengroepen.<BR><BR>Bij projecten waarvoor een hogere tegemoetkoming   aangevraagd wordt, kan de bevoegde minister een afwijking toestaan, na advies   van de adviescommissie. De termijnen voor het indienen van die projecten zijn   vermeld in § 4. <BR><BR>De subsidiabele reiskosten zijn beperkt tot de   internationale vervoerkosten naar het buitenland en terug. Vervoerkosten in het   betreffende land zelf worden niet aanvaard.<BR><BR>§ 3. De indiendata voor   aanvragen van tegemoetkomingen in buitenlandse reiskosten worden door de   minister bepaald in overleg met de sector.<BR><BR>§ 4. Bij projecten waarvoor   een hogere tegemoetkoming aangevraagd wordt dan de bedragen, vermeld in § 2,   gelden de volgende indiendata :<BR>1° voor projecten die plaatsvinden in de   eerste helft van het jaar : vóór 1 oktober van het voorgaande jaar;<BR>2° voor   projecten die plaatsvinden in de tweede helft van het jaar : vóór 1 mei van het   lopende jaar.<BR><BR>§ 5. Op basis van een voorstel van de administratie beslist   de minister over de subsidiëring van de aanvraag.<BR>
+§ 1.Vlaamse amateurkunstengroepen en amateurkunstenaars kunnen een internationale reistoelage aanvragen om deel te nemen aan een internationaal project met internationale uitstraling.<br>
+<br>
+§ 2. De subsidiabele reiskosten zijn beperkt tot de internationale vervoerskosten naar het buitenland en terug. Vervoerkosten in het land zelf worden niet aanvaard.
+
+### ART 16/1.
+
+De aanvraag van een internationale reistoelage wordt voor de volgende projecten uiterlijk op de volgende data ingediend bij de administratie:<br>
+1° voor projecten die plaatsvinden in de periode januari tot en met april: vóór 15 oktober van het voorgaande jaar;<br>
+2° voor projecten die plaatsvinden in de periode mei tot en met augustus: vóór 15 februari van het lopende jaar;<br>
+3° voor projecten die plaatsvinden in de periode september tot en met december: vóór 15 juni van het lopende jaar.
+
+### ART 16/2.
+
+De aanvraag van een internationale reistoelage omvat:<br>
+1° een beschrijving van het buitenlandse project. Daarbij wordt duidelijk aangetoond dat het gaat om een project binnen het amateurkunstenveld;<br>
+2° een deelnemerslijst;<br>
+3° een projectbegroting in evenwicht, waarbij duidelijk wordt aangetoond welk subsidiebedrag gevraagd wordt;<br>
+4° offertes van de vervoerskosten.
+
+### ART 16/3.
+
+De subsidieaanvraag wordt getoetst aan de volgende kwaliteitscriteria:<br>
+1° het belang van deelname aan het project voor de aanvrager of de bijdrage die de deelname biedt aan de internationale uitstraling van de Vlaamse amateurkunsten;<br>
+2° de internationale uitstraling van het buitenlandse project;<br>
+3° de mogelijkheden tot ontmoeting en uitwisseling met andere deelnemers, experten en professionele kunstenaars;<br>
+4° de keuze van het vervoermiddel, met aandacht voor de ecologische voetafdruk;<br>
+5° de haalbaarheid en concrete uitwerking van de subsidieaanvraag op het vlak van financiering, timing en praktische organisatie van de deelname.<br>
+<br>
+Op voorstel van de administratie beslist de minister over de subsidiëring van de aanvraag. Voor projecten die ingediend zijn vóór 15 oktober, deelt de minister zijn beslissing mee voor 30 november van datzelfde jaar. Voor projecten die ingediend zijn vóór 15 februari, deelt de minister zijn beslissing mee voor 31 maart van datzelfde jaar. Voor projecten die ingediend zijn vóór 15 juni, deelt de minister zijn beslissing mee voor 31 juli van datzelfde jaar.
 
 ## [Afdeling 4. Cofinanciering voor internationale projecten (ing. BVR 21 december 2018, art. 1, I: 1 februari 2019)]
 
+### ART 16/4.
+
+Er kan een projectsubsidie toegekend worden voor cofinanciering die een internationale instantie of organisatie vereist heeft om een internationaal project uit te voeren. De projectsubsidiëring kan toegekend worden voor een periode die gelijk is aan de looptijd van het project.
+
+### ART 16/5.
+
+De aanvraag van cofinanciering voor een project kan worden ingediend bij de administratie uiterlijk vier maanden voor het project start.
+
+### ART 16/6.
+
+Het projectdossier omvat:<br>
+1° een beschrijving van het project, inclusief een plan van aanpak. Daarbij wordt duidelijk aangetoond dat het gaat om een project binnen het amateurkunstenveld;<br>
+2° een beschrijving van de meerwaarde van het project voor de deelnemende amateurkunstenaars of doelgroepen;<br>
+3° een projectbegroting, waarin duidelijk wordt aangetoond wat de verwachte inkomsten en uitgaven zijn, met aandacht voor de eigen inbreng van de aanvrager en de andere partners. Er wordt duidelijk vermeld welk subsidiebedrag er wordt gevraagd. Uit de begroting blijkt dat de aangevraagde subsidie noodzakelijk is om het project te kunnen realiseren.
+
+### ART 16/7.
+
+De bevoegde adviescommissie die is aangesteld door de minister, geeft advies over de subsidieaanvragen. Bij de advisering over de ingediende projecten houdt de adviescommissie rekening met de volgende kwaliteitscriteria:<br>
+1° de meerwaarde van het project voor amateurkunstenaars in Vlaanderen;<br>
+2° de meerwaarde van het internationale samenwerkingsverband voor het project;<br>
+3° de rol van de internationale partners in het project en de rol van de aanvrager gevestigd in het Nederlandse taalgebied of het tweetalige gebied Brussel-Hoofdstad;<br>
+4° de mate waarin de aanvrager zelf bijdraagt tot de vereiste cofinanciering of de mate waarin andere partners daartoe bijdragen;<br>
+5° de financiering die de internationale instantie of organisatie ter beschikking stelt;<br>
+6° de beoordeling door de internationale instantie of organisatie, als dat van toepassing is;<br>
+7° de haalbaarheid en concrete uitwerking van de subsidieaanvraag op het vlak van financiering, timing en praktische organisatie. De noodzaak van een projectsubsidie wordt aangetoond in de begroting, rekening houdend met de eigen ontvangsten uit het project.<br>
+<br>
+Op basis van het advies van de adviescommissie formuleert de administratie een ontwerp van beslissing en legt dat ontwerp voor aan de minister.<br>
+<br>
+De minister neemt een beslissing met het oog op en onder voorbehoud van de definitieve goedkeuring van het project door de internationale instantie of organisatie die de cofinanciering vereist. Als de internationale instantie of organisatie die de cofinanciering vereist, de subsidiëring van het project tussentijds stopzet of vermindert, wordt de projectsubsidie ook tussentijds stopgezet of evenredig verminderd.
+
+### ART 16/8.
+
+Een projectsubsidie voor cofinanciering van een internationaal project bedraagt maximaal de helft van de gevraagde cofinanciering door de internationale instantie of organisatie, met een maximum van 10.000 euro per jaar.<br>
+<br>
+Een projectsubsidie voor een internationaal project dat cofinanciering vereist, wordt beschikbaar gesteld in afstemming met de internationale instantie of organisatie die de cofinanciering vereist. Een volgend voorschot of het saldo kan beschikbaar gesteld worden op basis van een evaluatie door die internationale instantie of organisatie.
+
 ## [Afdeling 5. Overgangsbepaling (ing. BVR 21 december 2018, art. 1, I: 1 februari 2019)]
+
+### ART 16/9.
+
+Voor de internationale reistoelagen, vermeld in artikel 16, die worden toegekend in 2019, kunnen ook feitelijke verenigingen een aanvraag indienen.
 
 ## TITEL V. Slotbepalingen
 
