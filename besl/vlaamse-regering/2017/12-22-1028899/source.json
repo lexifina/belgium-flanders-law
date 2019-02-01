@@ -2,16 +2,16 @@
   "codex_id": 1028899,
   "title": "Besluit van de Vlaamse Regering van 2017-12-22 tot goedkeuring van de maximumtarieven van de Vlaamse Vervoermaatschappij - De Lijn en de categorieën van personen die in aanmerking komen voor gratis vervoer",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028899/VolledigDocument?datum=2018-02-01",
-  "source_sha256": "5a40c4faa859be0017255483e31406f27a2e3c6f3d8df092a2e0589da2cdd64d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028899/VolledigDocument?datum=2019-02-01",
+  "source_sha256": "faefb184d5366d369133896ab4f1edb058dc7cedea93d8ddcaf6208615483bc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028899&param=informatie",
-  "as_of": "2018-02-01",
+  "as_of": "2019-02-01",
   "made": "2017-12-22",
   "gazette": "2018-01-19",
   "numac": 2018030064,
   "document_start": "2018-02-01",
   "document_end": "2019-01-31",
-  "in_force": "2018-02-01",
+  "in_force": "2019-02-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2018-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-02-01; future article versions excluded; article text as the API gives it"
 }
