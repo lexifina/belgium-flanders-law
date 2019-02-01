@@ -2,16 +2,16 @@
   "codex_id": 1026080,
   "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een bestaande woning of bij de realisatie van een nieuwe woning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026080/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "3d556b788685c666726cddce701db0f171cbf784fa95a33b6e38705969f61c09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026080/VolledigDocument?datum=2019-02-01",
+  "source_sha256": "ec166ca975376bf1d0269bb87a23961381b7f443ed22e64d87a4cb2ca9ed8a2a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026080&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-02-01",
   "made": "2015-10-30",
   "gazette": "2015-11-12",
   "numac": 2015036337,
   "document_start": "2015-12-01",
   "document_end": "2019-01-31",
-  "in_force": "2018-05-25",
+  "in_force": "2019-02-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-02-01; future article versions excluded; article text as the API gives it"
 }
