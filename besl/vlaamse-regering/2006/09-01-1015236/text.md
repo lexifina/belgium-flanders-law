@@ -144,7 +144,167 @@ B. De hieronder in de linkerkolom vermelde module ambtshalve geconcordeerd naar 
 		</tr>
 	</tbody>
 </table>
-"
+"<br>
+<br>
+* Bij BVR van 15 februari 2019 wordt met ingang van 1 februari 2019 aan bijlage V een punt 16° toegevoegd dat luidt als volgt:<br>
+<br>
+"16° Met ingang van 1 februari 2019 wordt:<br>
+a) de opleiding Hoefsmid ambtshalve geconcordeerd naar de opleiding Bekapper;<br>
+b) de module Lpg-installaties ambtshalve geconcordeerd naar de module Lpg;<br>
+c) de module, vermeld in de volgende linkerkolom ambtshalve geconcordeerd naar de opleiding, vermeld in de volgende rechterkolom:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>module</td>
+			<td>opleiding</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 1</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 1</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 1</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 2</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 2</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-diagnose 2</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 1</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 1</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 1</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 2</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 2</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Auto-elektriciteit en motormanagement 2</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Demontage montage</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Demontage montage</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Demontage montage</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 1</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 1</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 1</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 2</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 2</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Klein onderhoud - bandenmontage 2</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Lichte motoren 1</td>
+			<td>Mecanicien tuin-, park- en bosmachines</td>
+		</tr>
+		<tr>
+			<td>Lichte motoren 2</td>
+			<td>Mecanicien tuin-, park- en bosmachines</td>
+		</tr>
+		<tr>
+			<td>Lichte motoren 3</td>
+			<td>Mecanicien tuin-, park- en bosmachines</td>
+		</tr>
+		<tr>
+			<td>Motoren 1</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Motoren 1</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Motoren 1</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Motoren 2</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Motoren 2</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Motoren 2</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 1</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 1</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 1</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 2</td>
+			<td>Bandenmonteur</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 2</td>
+			<td>Onderhoudsmecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+		<tr>
+			<td>Voertuigen 2</td>
+			<td>Polyvalent mecanicien personenwagens en lichte bedrijfsvoertuigen</td>
+		</tr>
+	</tbody>
+</table>
 
 ## BIJLAGE VI
 
