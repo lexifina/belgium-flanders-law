@@ -18,6 +18,10 @@ Besluit :
 
 Het Centrum voor Volwassenenonderwijs Vrij Technisch Instituut Brugge, Boeveriestraat 73 in 8000 Brugge, verkrijgt tijdelijke onderwijsbevoegdheid in de vestigingsplaats Brugge voor het studiegebied land- en tuinbouw voor het schooljaar 2018-2019.
 
+### ART 1/1.
+
+Het GO! Centrum voor Volwassenenonderwijs 3 Hofsteden Kortrijk-Menen-Tielt, Minister De Taeyelaan 13 in 8500 Kortrijk, verkrijgt tijdelijke onderwijsbevoegdheid in de vestigingsplaats Wevelgem voor de studiegebieden Afwerking bouw en Mechanica-elektriciteit voor het schooljaar 2018-2019.
+
 ### ART 2.
 
 Dit besluit treedt in werking op 1 september 2018.
