@@ -66,18 +66,18 @@ Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 <br>
 Hij draagt de titel "Vlaams minister van Werk, Economie, Innovatie en Sport".<br>
 <br>
-§ 9. Mevrouw Joke Schauvliege is bevoegd voor:<br>
+§ 9. Mevrouw Lydia Peeters, is bevoegd voor:<br>
+1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
+2° het beleidsveld energie.<br>
+<br>
+Zij draagt de titel "Vlaams minister van Begroting, Financiën en Energie".<br>
+<br>
+§ 10. De heer Koen Van den Heuvel is bevoegd voor:<br>
 1° het beleidsdomein landbouw en visserij, vermeld in artikel 12 van het organisatiebesluit;<br>
 2° het beleidsveld leefmilieu en natuur, met inbegrip van de natuurlijke rijkdommen en het plattelandsbeleid;<br>
 3° het beleidsveld ruimtelijke ordening.<br>
 <br>
-Zij draagt de titel "Vlaams minister van Omgeving, Natuur en Landbouw".<br>
-<br>
-§ 10. Mevrouw Lydia Peeters, is bevoegd voor:<br>
-1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
-2° het beleidsveld energie.<br>
-<br>
-Zij draagt de titel "Vlaams minister van Begroting, Financiën en Energie".</p>
+Hij draagt de titel "Vlaams minister van Omgeving, Natuur en Landbouw".</p>
 
 ### ART. 3.
 
@@ -189,33 +189,32 @@ p) het ESF-Agentschap;<br>
 q) Sport Vlaanderen;<br>
 r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
 <br>
-9° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
-a) ...;<br>
-b) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
-c) het Rubiconfonds;<br>
-d) het Agentschap voor Natuur en Bos;<br>
-e) het Instituut voor Natuur- en Bosonderzoek;<br>
-f) de Vlaamse Milieumaatschappij;<br>
-g) de Openbare Vlaamse Afvalstoffenmaatschappij;<br>
-h) de Vlaamse Landmaatschappij;<br>
-i) de Milieu- en Natuurraad van Vlaanderen;<br>
-j) de Vlaamse Milieuholding;<br>
-k) de Vlaamse Maatschappij voor Watervoorziening ("De Watergroep");<br>
-l) het Ondersteunend Centrum van het Agentschap voor Natuur en Bos;<br>
-m) het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek;<br>
-n) het Grindfonds;<br>
-o) het Agentschap voor Landbouw en Visserij;<br>
-p) het Instituut voor Landbouw- en Visserijonderzoek;<br>
-q) het Vlaams Centrum voor Agro- en Visserijmarketing;<br>
-r) de Strategische Adviesraad voor Landbouw en Visserij;<br>
-s) het Vlaams Landbouwinvesteringsfonds;<br>
-t) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
-u) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;<br>
-<br>
-10° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
+9° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
 a) de Vlaamse Belastingdienst;<br>
 b) het Vlaams Fonds voor de Lastendelging;<br>
-c) het Vlaams Energieagentschap;
+c) het Vlaams Energieagentschap;<br>
+<br>
+10° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
+a) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
+b) het Rubiconfonds;<br>
+c) het Agentschap voor Natuur en Bos;<br>
+d) het Instituut voor Natuur- en Bosonderzoek;<br>
+e) de Vlaamse Milieumaatschappij;<br>
+f) de Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+g) de Vlaamse Landmaatschappij;<br>
+h) de Milieu- en Natuurraad van Vlaanderen;<br>
+i) de Vlaamse Milieuholding;<br>
+j) de Vlaamse Maatschappij voor Watervoorziening ("De Watergroep");<br>
+k) het Ondersteunend Centrum van het Agentschap voor Natuur en Bos;<br>
+l) het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek;<br>
+m) het Grindfonds;<br>
+n) het Agentschap voor Landbouw en Visserij;<br>
+o) het Instituut voor Landbouw- en Visserijonderzoek;<br>
+p) het Vlaams Centrum voor Agro- en Visserijmarketing;<br>
+q) de Strategische Adviesraad voor Landbouw en Visserij;<br>
+r) het Vlaams Landbouwinvesteringsfonds;<br>
+s) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
+t) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;
 
 ### ART. 4.
 
