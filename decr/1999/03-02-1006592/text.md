@@ -243,7 +243,7 @@ Het havenbedrijf stelt periodiek, minstens om de vijf jaar, een   ondernemingspl
 
 ### ART. 24.
 
-De Vlaamse Havencommissie adviseert de Vlaamse regering over het Vlaams Havenbeleid. De Vlaamse regering kan te allen tijde de bevoegdheid, de samenstelling en de werking ervan nader bepalen.<br /><br />Inzake het Vlaamse havenbeleid brengt de Vlaamse Havencommissie, op eigen initiatief, aanbevelingen gericht tot de Vlaamse regering en het Vlaams Parlement uit. Binnen dezelfde bevoegdheidssfeer neemt de Vlaamse Havencommissie, op verzoek van de Vlaamse regering of het Vlaams Parlement, standpunten die worden meegedeeld aan de Vlaamse regering en het Vlaams Parlement in.<br />
+...
 
 ### ART. 25.
 
@@ -279,7 +279,13 @@ De Vlaamse Regering wordt ertoe gemachtigd binnen de perken van de begroting toe
 
 ### ART. 30.
 
-§ 1. De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting subsidies toe te kennen aan de havenbedrijven voor investeringen in de haveninterne basisinfrastructuur en de uitrustingsinfrastructuur met inbegrip van de vervanging van technisch en economisch achterhaalde constructies, of deze investeringen mede te financieren.<br /><br />§ 2. Bij de aanvraag tot subsidiëring of medefinanciering moet het havenbedrijf een technische en sociaal-economische verantwoording voegen die minstens de afstemming op de marktontwikkeling en het Vlaams havenbeleid dient te omvatten. Tevens dienen de te verwachten gevolgen op het vlak van mobiliteit, ruimtelijke ordening en het leefmilieu te worden verantwoord. De Vlaamse regering bepaalt de nadere regels met inbegrip van de termijnen, omtrent de procedure van indiening en beoordeling van de verstrekte verantwoordingsgegevens ter ondersteuning van de aanvraag tot subsidiëring of medefinanciering.<br /><br />§ 3. De financiële tegemoetkomingen vermeld in § 1 dienen principieel goedgekeurd te zijn voordat de gunningsprocedure begonnen wordt. De Vlaamse regering bepaalt boven welk bedrag een verantwoordingsdossier bedoeld in § 2 een advies van de Vlaamse Havencommissie dient te bevatten.<br /><br />§ 4. De Vlaamse regering wordt gemachtigd de in § 1 vermelde financiële tegemoetkomingen geheel of gedeeltelijk terug te vorderen, volgens een door haar nader te bepalen methode indien de feitelijke ontwikkelingen van het investeringsproject wezenlijk blijken te verschillen van het daarvoor ingediende verantwoordingsdossier en voorzover dit aan het havenbedrijf kan worden toegerekend.
+§ 1. De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting subsidies toe te kennen aan de havenbedrijven voor investeringen in de haveninterne basisinfrastructuur en de uitrustingsinfrastructuur met inbegrip van de vervanging van technisch en economisch achterhaalde constructies, of deze investeringen mede te financieren.<br>
+<br>
+§ 2. Bij de aanvraag tot subsidiëring of medefinanciering moet het havenbedrijf een technische en sociaal-economische verantwoording voegen die minstens de afstemming op de marktontwikkeling en het Vlaams havenbeleid dient te omvatten. Tevens dienen de te verwachten gevolgen op het vlak van mobiliteit, ruimtelijke ordening en het leefmilieu te worden verantwoord. De Vlaamse regering bepaalt de nadere regels met inbegrip van de termijnen, omtrent de procedure van indiening en beoordeling van de verstrekte verantwoordingsgegevens ter ondersteuning van de aanvraag tot subsidiëring of medefinanciering.<br>
+<br>
+§ 3. De financiële tegemoetkomingen vermeld in § 1 dienen principieel goedgekeurd te zijn voordat de gunningsprocedure begonnen wordt.<br>
+<br>
+§ 4. De Vlaamse regering wordt gemachtigd de in § 1 vermelde financiële tegemoetkomingen geheel of gedeeltelijk terug te vorderen, volgens een door haar nader te bepalen methode indien de feitelijke ontwikkelingen van het investeringsproject wezenlijk blijken te verschillen van het daarvoor ingediende verantwoordingsdossier en voorzover dit aan het havenbedrijf kan worden toegerekend.
 
 ### ART. 31.
 
