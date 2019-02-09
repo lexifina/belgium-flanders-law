@@ -2451,7 +2451,8 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 19° ter : het decreet van 25 april 2014 betreffende de omgevingsvergunning voor zover het projecten betreft bedoeld in artikel 5, 1°, c, en 2°, b.<br>
 20° ...;<br>
 21° het decreet van 8 februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest;<br>
-22° het decreet van 28 maart 2014 betreffende de preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren.<br>
+22° het decreet van 28 maart 2014 betreffende de preventie, surveillance en bestrijding van ziekten bij in het wild levende dieren;<br>
+23° het decreet van 21 december 2018 houdende de luchtkwaliteit in het binnenmilieu van voertuigen.<br>
 <br>
 In afwijking van het eerste lid zijn de hoofdstukken III, IV, V, Vbis, VI en VII van deze titel pas van toepassing op de in het eerste lid sub 2°, 3°, 4°, 7°, 11°, 14°, 15°, 16°, 17° en 19° vermelde wetten en decreten, met inbegrip van hun respectieve uitvoeringsbesluiten, op het ogenblik dat de Vlaamse Regering dit bepaalt.<br>
 <br>
