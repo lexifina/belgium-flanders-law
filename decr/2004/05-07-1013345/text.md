@@ -150,13 +150,13 @@ Het Vlaams Parlement, de Vlaamse regering of het lid van de Vlaamse regering dat
 
 ### ART. 17.
 
-§ 1. Bij de Raad is een commissie opgericht die de Vlaamse Regering adviseert bij de voorbereiding van het havenbeleid, hierna te noemen de Vlaamse Havencommissie.<br /><br />§ 2. De Vlaamse Havencommissie is onderworpen aan het bepaalde in artikel 24 en artikel 30, § 3, van het decreet van 2 maart 1999 houdende het beleid en het beheer van de zeehavens.
+...
 
 ## [ONDERAFDELING 3 VLAAMSE LUCHTHAVENCOMMISSIE (ver. decr. 19 december 2008)]
 
 ### ART. 18.
 
-§ 1. Bij de Raad is een commissie opgericht die de Vlaamse Regering adviseert bij de voorbereiding van het luchthavenbeleid, hierna te noemen de Vlaamse Luchthavencommissie.<br /><br />§ 2. De Vlaamse Luchthavencommissie hanteert een geïntegreerde benadering van het luchtvaart- en luchthavenbeleid, waarbij sociaal-economische. ruimtelijke, mobiliteits- en milieueffecten tegelijkertijd worden afgewogen.<br /><br />§ 3. De Vlaamse Luchthavencommissie kan op eigen initiatief of op vraag van de Vlaamse Regering studies en aanbevelingen richten aan de Vlaamse Regering.<br /><br />§ 4. De Vlaamse Regering bepaalt nadere regels met betrekking de bevoegdheid, de samenstelling en de werking van de Vlaamse Luchthavencommissie.
+...
 
 ## [ONDERAFDELING 4 COMMISSIE DIVERSITEIT (verv. decr. 19 december 2008)]
 
