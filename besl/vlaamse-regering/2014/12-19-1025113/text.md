@@ -322,7 +322,7 @@ De   dienstverlener kan de vergoeding in het kader van de doorstroomtrajecten ni
 <p>§ 1. De lokale diensteneconomieonderneming die conform het artikel 3, § 1, van het decreet van 22 december 2006 houdende de lokale diensteneconomie, een erkenning geniet als lokale diensteneconomie-initiatief, wordt vrijgesteld van de aanmeldingsplicht, vermeld in artikel 35 van dit besluit, en verkrijgt op automatische wijze het label lokale diensteneconomieonderneming op de datum van de inwerkingtreding van dit besluit.</p>
 
 <p>§ 2. De lokale diensteneconomieonderneming waaraan het label werd toegekend met toepassing van paragraaf 1, moet:<br>
-1° uiterlijk op 1 januari 2019 voldoen aan de organisatievoorwaarden, vermeld in artikel 2;<br>
+1° uiterlijk op 1 januari 2021 voldoen aan de organisatievoorwaarden, vermeld in artikel 2;<br>
 2° uiterlijk op 1 januari 2018 voldoen aan de kwaliteitsvoorwaarden, vermeld in artikel 5;<br>
 3° uiterlijk op 30 juli 2017 haar eerste duurzaamheidsverslag, vermeld in artikel 6, dat betrekking heeft op het kalenderjaar 2016, bezorgen aan het departement;<br>
 4° op de uiterste datum, die de minister nader bepaalt, haar eerste zelfevaluatie, vermeld in artikel 7, uitvoeren;<br>
