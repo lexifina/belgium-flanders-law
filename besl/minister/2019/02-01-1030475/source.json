@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030475,
+  "title": "Ministerieel besluit van 2019-02-01 tot bepaling van de standaard voor de titel van kinderbegeleider schoolgaande kinderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030475/VolledigDocument?datum=2019-02-11",
+  "source_sha256": "f5d275a40d28f83529f7db947d069c7668c9539346da843e6da37f1e4d628b6b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030475&param=informatie",
+  "as_of": "2019-02-11",
+  "made": "2019-02-01",
+  "gazette": "2019-03-27",
+  "numac": 2019040674,
+  "document_start": "2019-02-11",
+  "document_end": null,
+  "in_force": "2019-02-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-02-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
