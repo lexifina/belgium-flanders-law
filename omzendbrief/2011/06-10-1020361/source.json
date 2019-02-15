@@ -2,16 +2,16 @@
   "codex_id": 1020361,
   "title": "Omzendbrief van 2011-06-10 BB 2011/01 - Coördinatie van de onderrichtingen over de gemeentefiscaliteit",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020361/VolledigDocument?datum=2011-07-14",
-  "source_sha256": "3892db5daa10b96b3a391f3e769e79e280924b8bf690724d0ef9754d445166aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020361/VolledigDocument?datum=2019-02-15",
+  "source_sha256": "bd0e2e4fe965a590d2e3107596027cb06a028cb82d6c8e418966a7619c8420e6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020361&param=informatie",
-  "as_of": "2011-07-14",
+  "as_of": "2019-02-15",
   "made": "2011-06-10",
   "gazette": "2011-07-04",
   "numac": 2011035491,
   "document_start": "2011-07-14",
   "document_end": "2019-02-14",
-  "in_force": "2011-07-14",
+  "in_force": "2019-02-15",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-02-15; future article versions excluded; article text as the API gives it"
 }
