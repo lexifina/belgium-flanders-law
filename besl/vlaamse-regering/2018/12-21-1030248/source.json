@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030248,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 houdende de herverdeling van begrotingsartikel MB0-1MHX2OB-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030248/VolledigDocument?datum=2019-02-21",
+  "source_sha256": "aa050d560c452b721d3eb193d7ccd245100049aba8a0fbc85c022405dd7d2fda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030248&param=informatie",
+  "as_of": "2019-02-21",
+  "made": "2018-12-21",
+  "gazette": "2019-02-11",
+  "numac": 2019040164,
+  "document_start": "2019-02-21",
+  "document_end": null,
+  "in_force": "2019-02-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
