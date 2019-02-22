@@ -68,3 +68,7 @@ In artikel 59, § 2, tweede lid, van hetzelfde besluit, ingevoegd bij het beslui
 &nbsp;In artikel 65 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 4 april 2014, worden de volgende wijzigingen aangebracht:<br>
 1° in het eerste lid wordt in punt 1° het bedrag "19,55 euro" vervangen door het bedrag "20,77 euro";<br>
 2° het tweede lid wordt opgeheven.
+
+### ART 10.
+
+Het besluit van de Vlaamse Regering van 14 december 2018 tot toekenning van een eenmalige subsidie in 2018 voor de informatisering in het kader van de kinderopvangtoeslag wordt opgeheven.
