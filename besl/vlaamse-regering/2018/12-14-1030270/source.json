@@ -2,16 +2,16 @@
   "codex_id": 1030270,
   "title": "Besluit van de Vlaamse Regering van 2018-12-14 tot toekenning van een eenmalige subsidie in 2018 voor de informatisering in het kader van de kinderopvangtoeslag",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030270/VolledigDocument?datum=2018-11-23",
-  "source_sha256": "61b5d88342eb321714821864427c30e6d0ff3b211a23fd756bfd3342af24f0f0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030270/VolledigDocument?datum=2019-02-22",
+  "source_sha256": "ccce086be0c3d8aaa48378eb584dc25450ae9de2db8d6f9e94359c94dde709ac",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030270&param=informatie",
-  "as_of": "2018-11-23",
+  "as_of": "2019-02-22",
   "made": "2018-12-14",
   "gazette": "2019-02-15",
   "numac": 2019040216,
   "document_start": "2018-11-23",
   "document_end": "2019-02-21",
-  "in_force": "2018-11-23",
+  "in_force": "2019-02-22",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2018-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-02-22; future article versions excluded; article text as the API gives it"
 }
