@@ -14,6 +14,22 @@ Gelet op het besluit van de Vlaamse Regering van 11 januari 2019 tot instelling 
 <br>
 Besluit :
 
+### ART 1.
+
+In dit besluit wordt verstaan onder premiebesluit: het besluit van de Vlaamse Regering van 11 januari 2019 tot instelling van een tegemoetkoming in de kosten voor de vervanging van oude en vervuilende individuele verwarmingssystemen op vaste brandstoffen in particuliere wooneenheden.
+
+### ART 2.
+
+Als modelformulier voor de aanvraag van een premie, vermeld in artikel 6 van het premiebesluit, geldt hetgeen ter beschikking wordt gesteld op de website <a href="http://www.omgevingvlaanderen.be/premie-huishoudelijke-verwarming">www.omgevingvlaanderen.be/premie-huishoudelijke-verwarming</a>. Het modelformulier bevat tenminste de inhoud, vermeld in bijlage 1 bij dit besluit.
+
+### ART 3.
+
+De aanvraag van een premie kan ook online ingediend worden via de web-toepassing die kan teruggevonden worden op <a href="http://www.omgevingvlaanderen.be/premie-huishoudelijke-verwarming">www.omgevingvlaanderen.be/premie-huishoudelijke-verwarming</a>. De web-toepassing bevat tenminste de inhoud, vermeld in bijlage 1 bij dit besluit.
+
+### ART 4.
+
+Dit besluit treedt in werking op 22 februari 2019.
+
 ### BIJLAGE
 
 Bijlage 1 - minimale inhoud vervat in modelformulier vermeld in artikel 2 en web-toepassing vermeld in artikel 3<br>
