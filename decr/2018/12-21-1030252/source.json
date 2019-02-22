@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030252,
+  "title": "Decreet van 2018-12-21 tot opheffing van artikel 3 van het decreet van 28 maart 2014 houdende instelling van het Ereteken van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030252/VolledigDocument?datum=2019-02-22",
+  "source_sha256": "8ae05264e00332dd9d3ddf05ae196d49704b2a1ff2c295402a82448c26dbac47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030252&param=informatie",
+  "as_of": "2019-02-22",
+  "made": "2018-12-21",
+  "gazette": "2019-02-12",
+  "numac": 2019040107,
+  "document_start": "2019-02-22",
+  "document_end": null,
+  "in_force": "2019-02-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
