@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030253,
+  "title": "Decreet van 2019-01-25 houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en het Koninkrijk Marokko, ondertekend te Brussel op 18 februari 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030253/VolledigDocument?datum=2019-02-22",
+  "source_sha256": "e43e0d3ac61d7aab099a4ed550c8f86cf7530768e59f9c9819ea9ef08446ce06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030253&param=informatie",
+  "as_of": "2019-02-22",
+  "made": "2019-01-25",
+  "gazette": "2019-02-12",
+  "numac": 2019040207,
+  "document_start": "2019-02-22",
+  "document_end": null,
+  "in_force": "2019-02-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
