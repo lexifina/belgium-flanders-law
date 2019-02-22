@@ -10,11 +10,21 @@
 
 ### ART. 2.
 
-De   Vlaamse Regering legt jaarlijks voor 30 juni de lijst vast van de personen aan   wie het Ereteken van de Vlaamse Gemeenschap zal worden toegekend, in elk van   beide rangen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+De Vlaamse Regering legt jaarlijks voor 30 juni de lijst vast van de personen aan wie het Ereteken van de Vlaamse Gemeenschap zal worden toegekend.
 
 ### ART. 3.
 
-<P>Bij   de uitreikingsplechtigheid ontvangen de gehonoreerde personen:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   een onderscheidingsteken, waarvan het model vastgelegd wordt door de   minister-president van de Vlaamse Regering;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   een oorkonde, waarvan het model vastgelegd wordt door de minister-president van   de Vlaamse Regering.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   gehonoreerde personen worden opgenomen in een officieel ledenboek dat de   volgende gegevens bevat:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de voornamen en de familienaam van de gehonoreerde persoon;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de geboorteplaats en -datum;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de toegekende onderscheiding: Groot Ereteken of Ereteken;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de datum van de toekenning van het Ereteken van de Vlaamse   Gemeenschap.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   ledenboek wordt gepubliceerd op de website www.vlaanderen.be.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Bij de uitreikingsplechtigheid ontvangen de gehonoreerde personen:<br>
+1° een onderscheidingsteken, waarvan het model vastgelegd wordt door de minister-president van de Vlaamse Regering;<br>
+2° een oorkonde, waarvan het model vastgelegd wordt door de minister-president van de Vlaamse Regering.</p>
+
+<p>De gehonoreerde personen worden opgenomen in een officieel ledenboek dat de volgende gegevens bevat:<br>
+1° de voornamen en de familienaam van de gehonoreerde persoon;<br>
+2° de geboorteplaats en -datum;<br>
+3° ...;<br>
+4° de datum van de toekenning van het Ereteken van de Vlaamse Gemeenschap.</p>
+
+<p>Het ledenboek wordt gepubliceerd op de website www.vlaanderen.be.</p>
 
 ### ART. 4.
 
