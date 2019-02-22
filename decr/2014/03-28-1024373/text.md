@@ -10,7 +10,7 @@
 
 ### ART. 3.
 
-Het Ereteken van de Vlaamse Gemeenschap bestaat uit twee rangen, in de   volgende stijgende hiërarchische volgorde:<BR>1° Ereteken;<BR>2° Groot   Ereteken.<BR>
+...
 
 ### ART. 4.
 
