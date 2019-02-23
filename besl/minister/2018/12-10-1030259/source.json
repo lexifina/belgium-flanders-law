@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030259,
+  "title": "Ministerieel besluit van 2018-12-10 houdende wijziging van het ministerieel besluit van 1 juni 2016 houdende bepalingen in het kader van de tariefregulering van de integrale drinkwaterfactuur, wat betreft bepaalde procedurele aspecten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030259/VolledigDocument?datum=2019-02-23",
+  "source_sha256": "279898bdb3d8b154349563edecf64ddfeca1b5ab2f0f53b14fb7b5b618fbec22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030259&param=informatie",
+  "as_of": "2019-02-23",
+  "made": "2018-12-10",
+  "gazette": "2019-02-13",
+  "numac": 2019010691,
+  "document_start": "2019-02-23",
+  "document_end": null,
+  "in_force": "2019-02-23",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2019-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
