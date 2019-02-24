@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030265,
+  "title": "Ministerieel besluit van 2018-12-04 houdende vaststelling van de maatregelen en de modaliteiten tot uitvoering van het natuurinrichtingsproject Schuddebeurze en houdende ontheffing van verbodsbepalingen die gelden in het Vlaams Ecologisch Netwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030265/VolledigDocument?datum=2019-02-24",
+  "source_sha256": "2e33a5854bfc5e641067e8bc6e1a684a1ef9964f0ff9d25896f011fdc2a404d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030265&param=informatie",
+  "as_of": "2019-02-24",
+  "made": "2018-12-04",
+  "gazette": "2019-02-14",
+  "numac": 2019040255,
+  "document_start": "2019-02-24",
+  "document_end": null,
+  "in_force": "2019-02-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
