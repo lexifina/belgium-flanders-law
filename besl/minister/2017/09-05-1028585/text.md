@@ -104,7 +104,8 @@ Bij de opmaak van de meerjarenplanning en de kortetermijnplanning houdt de beoor
 
 In dit artikel wordt verstaan onder een verrichting:<br>
 1° de nieuwbouw en de verwerving van één of meerdere goede woningen;<br>
-2° de investering in de renovatie, de verbetering of de aanpassing van verworven bebouwde onroerende goederen.<br>
+2° de investering in de renovatie, de verbetering of de aanpassing van verworven bebouwde onroerende goederen;<br>
+3° de vervangingsbouw van verworven bebouwde onroerende goederen.<br>
 <br>
 Bij de beslissing over de opname van een verrichting in de meerjarenplanning en de kortetermijnplanning houdt de beoordelingscommissie, respectievelijk de VMSW achtereenvolgens rekening met:<br>
 1° voorrang voor de verrichtingen die deel uitmaken van een CBO-oproep;<br>
@@ -112,7 +113,7 @@ Bij de beslissing over de opname van een verrichting in de meerjarenplanning en 
 
 ### ART 8.
 
-§ 1. In dit artikel wordt verstaan onder verrichting: de investering in de renovatie, de verbetering of de aanpassing van eigen sociale huurwoningen en vervangingsbouw van sociale huurwoningen.<br>
+§ 1. In dit artikel wordt verstaan onder verrichting: de investering in de renovatie, de verbetering of de aanpassing van eigen sociale huurwoningen en vervangingsbouw van eigen sociale huurwoningen.<br>
 <br>
 § 2. Bij de beslissing over de opname van een verrichting in de meerjarenplanning houdt de beoordelingscommissie rekening met de chronologische volgorde volgens de datum waarop de verrichting principieel vatbaar is voor opname in de meerjarenplanning.<br>
 <br>
