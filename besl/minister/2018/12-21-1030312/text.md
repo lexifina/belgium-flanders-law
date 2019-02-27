@@ -30,6 +30,28 @@ De verenigingen zonder winstoogmerk volgen de verdere opdeling zoals voorzien in
 <br>
 De OCMW-verenigingen, welzijnsverenigingen of SVK's opgericht in de schoot van een gemeente of OCMW, volgen de verdere opdeling zoals voorzien in bijlage 2.
 
+### ART 2.
+
+Het boekjaar van het sociaal verhuurkantoor loopt van 1 januari tot en met 31 december. Het sociaal verhuurkantoor sluit haar boekjaar af op het einde van elke kalenderjaar.
+
+### ART 3.
+
+Inzake de vorderingen die geregistreerd worden als dubieuze vorderingen, worden in voorkomend geval waardeverminderingen geboekt ten bedrage van het gedeelte van deze vorderingen waarover onzekerheid bestaat aangaande de betaling ervan. Het sociaal verhuurkantoor houdt de bewijsstukken ter beschikking waaruit blijkt dat alles in het werk werd gesteld om de betaling te bekomen en waarmee de toegepaste waardevermindering wordt verantwoord.<br>
+<br>
+Op vorderingen op een vertrokken huurder die op balansdatum minimaal zes maanden geen huurder meer is, wordt een waardevermindering van 100 % toegepast. Het sociaal verhuurkantoor kan het percentage van de waardevermindering aanpassen als het concrete elementen heeft die een lagere waardevermindering verantwoorden.
+
 ### ART 4.
 
 Het ministerieel besluit van 5 juli 2013 tot uitvoering van artikel 16, 1e lid van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren wordt opgeheven.
+
+### ART 5.
+
+Dit besluit treedt in werking op de dag van de bekendmaking in het Belgisch Staatsblad, met uitzondering van artikel 1 en 4 dat in werking treedt op 1 januari 2019.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=92">Bijlage 1</a>
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/02/27_1.pdf#page=99">Bijlage 2</a>
