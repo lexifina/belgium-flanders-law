@@ -27,7 +27,9 @@ Het maximale aantal te erkennen bedden met een bijzondere erkenning als rust- en
 <br>
 Het maximaal te erkennen bedden met een bijzondere erkenning als rust- en verzorgingstehuis wordt met ingang van 1 april 2018 vastgelegd op 47.773 bedden.<br>
 <br>
-Het maximaal te erkennen woongelegenheden erkend als woonzorgcentrum met een bijkomende erkenning wordt met ingang van 1 januari 2019 vastgelegd op 47.773 woongelegenheden.
+Het maximaal te erkennen woongelegenheden erkend als woonzorgcentrum met een bijkomende erkenning wordt met ingang van 1 januari 2019 vastgelegd op 47.773 woongelegenheden.<br>
+<br>
+Het maximaal te erkennen woongelegenheden erkend als woonzorgcentrum met een bijkomende erkenning wordt met ingang van 1 juli 2019 vastgelegd op 50.711 woongelegenheden.
 
 ### ART. 3.
 
@@ -41,7 +43,9 @@ De bepaling van artikel 2, 2de lid heeft uitwerking met ingang van 1 januari 201
 <br>
 Artikel 2, derde lid, heeft uitwerking met ingang van 1 april 2018 en treedt buiten werking op 1 januari 2019.<br>
 <br>
-Artikel 2, vierde lid, treedt in werking op 1 januari 2019.
+Artikel 2, vierde lid, treedt in werking op 1 januari 2019.<br>
+<br>
+Artikel 2, vijfde lid, heeft uitwerking met ingang van 28 februari 2019.
 
 ### ART. 5.
 
