@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030365,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-01 tot wijziging van het besluit van de Vlaamse Regering van 15 april 2016 houdende de toekenning en de erkenning van bijkomende en vrijgekomen woongelegenheden met een bijkomende erkenning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030365/VolledigDocument?datum=2019-02-28",
+  "source_sha256": "4b9a3cc232afc2becc93930b2830326a17fcb9ec704fa720f17d5b43830a53ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030365&param=informatie",
+  "as_of": "2019-02-28",
+  "made": "2019-03-01",
+  "gazette": "2019-03-08",
+  "numac": 2019011123,
+  "document_start": "2019-02-28",
+  "document_end": null,
+  "in_force": "2019-02-28",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
