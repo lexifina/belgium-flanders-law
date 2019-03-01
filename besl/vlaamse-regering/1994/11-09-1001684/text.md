@@ -11,11 +11,13 @@ Dit besluit is van toepassing op :<br>
 
 ### ART. 2.
 
-§ 1. De in artikel 1 bedoelde personeelsleden hebben op hun aanvraag recht op een opvangverlof wanneer zij een kind beneden tien jaar in hun gezin opnemen met het oog op adoptie of pleegvoogdij.<br>
+§ 1. De personeelsleden, vermeld in artikel 1, hebben op hun aanvraag recht op een opvangverlof als zij een minderjarig kind in hun gezin opnemen met het oog op adoptie of pleegvoogdij. Het personeelslid, vermeld in artikel 1, dat in het kader van een langdurige pleegzorg een kind in zijn gezin onthaalt, met het oog op de zorg voor dit kind, heeft ook recht op opvangverlof.<br>
 <br>
-De tijdelijk aangestelde personeelsleden hebben enkel recht op dit opvangverlof voor zover het geheel of gedeeltelijk valt binnen de periode van hun aanstelling.<br>
+Langdurige pleegzorg is pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.<br>
 <br>
-Alleen het personeelslid dat adopteert, kan aanspraak maken op het opvangverlof.<br>
+De tijdelijk aangestelde personeelsleden hebben alleen recht op dit opvangverlof als het geheel of gedeeltelijk valt binnen de periode van hun aanstelling.<br>
+<br>
+Alleen het personeelslid dat adopteert of pleegvoogdij opneemt of langdurige pleegzorg uitoefent, kan aanspraak maken op het opvangverlof..<br>
 <br>
 § 2. Het opvangverlof wordt toegekend door:<br>
 1° de inrichtende macht of het schoolbestuur voor de personeelsleden, vermeld in artikel 1, 1°, en 2° ;<br>
@@ -25,11 +27,29 @@ Alleen het personeelslid dat adopteert, kan aanspraak maken op het opvangverlof.
 
 ### ART. 3.
 
-Het opvangverlof bedraagt:<br />- ten hoogste zes weken indien het opgenomen kind de leeftijd van drie jaar nog niet heeft bereikt bij de aanvang van dit verlof;<br />- ten hoogste vier weken indien het opgenomen kind de leeftijd van drie jaar reeds bereikt heeft bij de aanvang van dit verlof.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind minder-valide is en aan de voorwaarden voldoet om kinderbijslag te genieten overeenkomstig artikel 47 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders of artikel 26 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van de zelfstandigen.<br /><br />Als het personeelslid een omstandigheidsverlof als vermeld in artikel 2, § 1, 2° van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, opneemt of opgenomen heeft, wordt dat omstandigheidsverlof in mindering gebracht van het opvangverlof.
+Het opvangverlof bedraagt een aaneengesloten periode van ten hoogste zeven weken voor verloven die ingaan op of na 1 maart 2019.<br>
+<br>
+Vanaf 1 januari 2021 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste acht weken.<br>
+<br>
+Vanaf 1 januari 2023 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste negen weken.<br>
+<br>
+Vanaf 1 januari 2025 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste tien weken.<br>
+<br>
+Vanaf 1 januari 2027 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste elf weken.<br>
+<br>
+De eerste zes weken opvangverlof worden toegekend per ouder. De bijkomende weken opvangverlof worden verdeeld tussen beide ouders als beide ouders adopteren of de pleegvoogdij opnemen of langdurige pleegzorg uitoefenen.<br>
+<br>
+De ingangsdatum van het opvangverlof geeft aan welke duur van toepassing is..<br>
+<br>
+De maximumduur van het opvangverlof wordt verdubbeld wanneer het kind getroffen is door een lichamelijke of geestelijke ongeschiktheid van ten minste 66% of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler 1 van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of die tot gevolg heeft dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de gezinsbijslag.<br>
+<br>
+Als het personeelslid een omstandigheidsverlof als vermeld in artikel 2, § 1, 2° van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende het omstandigheidsverlof, het verlof wegens overmacht, het onbezoldigd ouderschapsverlof en het geboorteverlof in geval van overlijden of hospitalisatie van de moeder voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding en tot wijziging van het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties, gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding, opneemt of opgenomen heeft, wordt dat omstandigheidsverlof in mindering gebracht van het opvangverlof.
 
 ### ART. 4.
 
-Het opvangverlof wordt gelijkgesteld met een periode van dienstactiviteit. Tijdens het opvangverlof heeft het personeelslid recht op wedde of weddetoelage en op verhoging tot een hogere wedde of weddetoelage.<br /><br />Het opvangverlof wordt niet in aanmerking genomen om de duur van de proeftijd te berekenen.
+Het opvangverlof wordt gelijkgesteld met een periode van dienstactiviteit. Tijdens het opvangverlof heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.<br>
+<br>
+Het opvangverlof wordt niet in aanmerking genomen om de duur van de proeftijd te berekenen.
 
 ### ART. 5.
 
@@ -43,7 +63,7 @@ Indien echter bij de terugkeer blijkt dat geen adoptie heeft plaatsgehad, dan wo
 
 ### ART. 6.
 
-Wanneer meer dan één kind op dezelfde datum in het gezin wordt opgenomen, wordt het opvangverlof tot één periode beperkt.
+De maximumduur van het opvangverlof wordt met twee weken per ouder verlengd bij gelijktijdige adoptie, pleegvoogdij of langdurige pleegzorg van meerdere minderjarige kinderen.
 
 ### ART. 6/1.
 
@@ -56,6 +76,25 @@ De personeelsleden die het verplichte voorbereidingsprogramma volgen met het oog
 ### ART 7/1.
 
 De perioden van opvangverlof met het oog op adoptie of pleegvoogdij, die door de personeelsleden van de centra voor basiseducatie opgenomen zijn vóór 1 januari 2018, worden in mindering gebracht van het contingent, vermeld in artikel 3.
+
+### ART 7/2.
+
+Een personeelslid, vermeld in artikel 1, dat officieel als pleegouder is aangesteld door een rechtbank, een door de gemeenschap erkende dienst voor pleegzorg, de diensten van de "l'Aide à la Jeunesse" of het Comité Bijzondere Jeugdbijstand, heeft recht op pleegzorgverlof. Het personeelslid levert aan de hand van een formele aanstellingsbeslissing het bewijs dat het pleegouder is.<br>
+<br>
+Het pleegzorgverlof kan worden toegekend voor een van de volgende gebeurtenissen:<br>
+1° zittingen bijwonen bij de gerechtelijke en administratieve autoriteiten die bevoegd zijn voor het pleeggezin;<br>
+2° contacten hebben met de natuurlijke ouders of met andere personen die belangrijk zijn voor het pleegkind of de pleeggast;<br>
+3° contacten hebben met de dienst voor pleegzorg.<br>
+<br>
+In afwijking van het tweede lid, kan het pleegzorgverlof ook voor andere situaties toegekend worden als aan al de volgende voorwaarden voldaan is:<br>
+1° de bevoegde plaatsingsdienst levert een attest af dat verduidelijkt waarom het pleegzorgverlof noodzakelijk is;<br>
+2° de afwezigheid wordt niet gedekt door het uitzonderlijk verlof wegens overmacht, vermeld in artikel 3.
+
+### ART 7/3.
+
+Het pleegzorgverlof bedraagt ten hoogste zes dagen per kalenderjaar. Als twee personeelsleden uit hetzelfde pleeggezin allebei zijn aangesteld als pleegouder, kan maar een van hen van het pleegzorgverlof opnemen.<br>
+<br>
+Het pleegzorgverlof wordt gelijkgesteld met een periode van dienstactiviteit. Tijdens het pleegzorgverlof heeft het personeelslid recht op salaris of salaristoelage en op verhoging tot een hoger salaris of een hogere salaristoelage.
 
 ### ART. 8.
 
