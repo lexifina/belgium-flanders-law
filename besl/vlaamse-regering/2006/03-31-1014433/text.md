@@ -82,11 +82,33 @@ Aan het personeelslid, vermeld in artikel 1, kan uitzonderlijk verlof toegestaan
 
 ### ART. 8/2.
 
-Een personeelslid, vermeld in artikel 1, heeft recht op een opvangverlof als het een kind jonger dan tien jaar in het gezin opneemt met het oog op adoptie of pleegvoogdij op grond van titel VIII of titel X, hoofdstuk IIbis van het Burgerlijk Wetboek. <br /><br />Alleen het personeelslid dat adopteert of pleegvoogdij opneemt, heeft recht op het opvangverlof. Tijdelijke personeelsleden hebben recht op het opvangverlof voor als het verlof geheel of gedeeltelijk binnen de periode van de aanstelling valt.<br /><br />Het opvangverlof wordt toegekend door het hogeschoolbestuur op verzoek van het personeelslid.
+Een personeelslid, vermeld in artikel 1, heeft recht op een opvangverlof als het een minderjarig kind in het gezin opneemt met het oog op adoptie of pleegvoogdij op grond van titel VIII of titel X, hoofdstuk IIbis van het Burgerlijk Wetboek. Het personeelslid, vermeld in artikel 1, dat in het kader van een langdurige pleegzorg een kind in zijn gezin onthaalt, met het oog op de zorg voor dit kind, heeft ook recht op opvangverlof.<br>
+<br>
+Langdurige pleegzorg is pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.<br>
+<br>
+Alleen het personeelslid dat adopteert of pleegvoogdij opneemt of langdurige pleegzorg uitoefent, heeft recht op het opvangverlof. Tijdelijke personeelsleden hebben recht op het opvangverlof voor als het verlof geheel of gedeeltelijk binnen de periode van de aanstelling valt.<br>
+<br>
+Het opvangverlof wordt toegekend door het hogeschoolbestuur op verzoek van het personeelslid.
 
 ### ART. 8/3.
 
-Het opvangverlof bedraagt : <br />1° ten hoogste zes weken als het opgenomen kind bij het begin van het verlof nog niet de leeftijd van drie jaar bereikt heeft;<br />2° ten hoogste vier weken als het opgenomen kind bij het begin van het verlof de leeftijd van drie jaar bereikt heeft.µ<br /><br />De maximumduur van het opvangverlof wordt verdubbeld als het opgenomen kind mindervalide is en aan de wettelijke voorwaarden voldoet om kinderbijslag te genieten.<br /><br />Wanneer het personeelslid een geboorteverlof, vermeld in artikel 8, § 1, 2°, opneemt of opgenomen heeft, wordt dit verlof in mindering gebracht van het opvangverlof.
+Het opvangverlof bedraagt een aaneengesloten periode van ten hoogste zeven weken voor verloven die ingaan op of na 1 maart 2019.<br>
+<br>
+Vanaf 1 januari 2021 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste acht weken.<br>
+<br>
+Vanaf 1 januari 2023 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste negen weken.<br>
+<br>
+Vanaf 1 januari 2025 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste tien weken.<br>
+<br>
+Vanaf 1 januari 2027 bedraagt het opvangverlof een aaneengesloten periode van ten hoogste elf weken.<br>
+<br>
+De eerste zes weken opvangverlof worden toegekend per ouder. De bijkomende weken opvangverlof worden verdeeld tussen beide ouders als beide ouders adopteren of de pleegvoogdij opnemen of langdurige pleegzorg uitoefenen.<br>
+<br>
+De ingangsdatum van het opvangverlof geeft aan welke duur van toepassing is.<br>
+<br>
+De maximumduur van het opvangverlof wordt verdubbeld wanneer het kind getroffen is door een lichamelijke of geestelijke ongeschiktheid van ten minste 66% of een aandoening heeft die tot gevolg heeft dat ten minste 4 punten toegekend worden in pijler 1 van de medisch-sociale schaal in de zin van de regelgeving betreffende de kinderbijslag of die tot gevolg heeft dat ten minste 9 punten toegekend worden in alle drie de pijlers samen van de medisch-sociale schaal in de zin van de regelgeving betreffende de gezinsbijslag.<br>
+<br>
+Wanneer het personeelslid een geboorteverlof, vermeld in artikel 8, § 1, 2°, opneemt of opgenomen heeft, wordt dit verlof in mindering gebracht van het opvangverlof.
 
 ### ART. 8/4.
 
@@ -100,11 +122,17 @@ Als de procedure voor de intrafamiliale adoptie niet in een adoptie resulteert, 
 
 ### ART. 8/5.
 
-Als meer dan een kind op dezelfde datum in het gezin wordt opgenomen, wordt het opvangverlof beperkt tot één periode zoals bepaald in artikel 8/3, 1° of 2°.
+De maximumduur van het opvangverlof wordt met twee weken per ouder verlengd bij gelijktijdige adoptie, pleegvoogdij of langdurige pleegzorg van meerdere minderjarige kinderen.
 
 ### ART. 8/6.
 
 Het opvangverlof wordt gelijkgesteld met een periode van dienstactiviteit. Het betrokken personeelslid wordt gedurende die periode bezoldigd.
+
+### ART 8/6/1.
+
+De personeelsleden die het verplichte voorbereidingsprogramma volgen met het oog op adoptie, hebben recht op dienstvrijstelling om afwezig te zijn voor de nodige duur om het voorbereidingsprogramma te volgen. Na afloop staven zij hun aanwezigheid met een bewijs van deelname bij het hogeschoolbestuur.<br>
+<br>
+De dienstvrijstelling wordt gelijkgesteld met dienstactiviteit. De periode van dienstvrijstelling wordt bezoldigd
 
 ## [HOOFDSTUK III/3 Pleegzorgverlof (ing. BVR 9 september 2011, art. 5)]
 
