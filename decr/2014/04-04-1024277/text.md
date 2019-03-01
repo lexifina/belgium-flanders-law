@@ -94,6 +94,14 @@ Elke natuurlijke persoon of rechtspersoon die het GIPOD gebruikt conform   artik
 
 ## Afdeling 2 [Verplichting om een werk in te geven (verv. Decr. 17 december 2021, art. 8, I: 1 januari 2022)]
 
+### ART. 9.
+
+<p>§ 1. Elke andere geplande inname, die ernstige hinder zal veroorzaken, wordt, door de gemeente, of door de natuurlijke persoon of rechtspersoon die de gemeente heeft aangewezen, ingegeven in het GIPOD, tenzij de gemeente daar onmogelijk kennis van kan hebben. De Vlaamse Regering bepaalt de termijnen waarbinnen de gegevens in het GIPOD moeten worden ingegeven.</p>
+
+<p>De Vlaamse Regering kan de verplichting tot ingave uitbreiden naar andere wegbeheerders en rechtspersonen voor de andere geplande innames waarvan de gemeente onmogelijk kennis kan hebben.</p>
+
+<p>§ 2. Bij een andere geplande inname wordt in het GIPOD, rekening houdend met de informatie die op dat moment beschikbaar is, minstens een duidelijke beschrijving ingegeven van de inname, alsook van de zone waarbinnen de inname zich situeert. Die informatie wordt zo nauwkeurig mogelijk ingetekend op basis van het GRB.</p>
+
 ## [Afdeling 3. Verplichting om een evenement in te geven (ing. Decr. 17 december 2021, art. 10, I: 1 januari 2022)]
 
 ## [HOOFDSTUK 4/1 Verplichting om een niet-geplande inname van de openbare weg in te geven (ing. Decr. 17 december 2021, art. 12, I: 1 januari 2022)]
@@ -113,6 +121,16 @@ Om synergieaanvragen van andere initiatiefnemers te kunnen ontvangen en   beantw
 <P>§ 1. Voor elke werkopdracht van categorie 1 geeft de initiatiefnemer in het   GIPOD een synergieaanvraag in, uiterlijk twee maanden voor de geplande aanvang   van de werkopdracht.<BR></P>  <P>§ 2. De initiatiefnemer is vrijgesteld van de verplichting, vermeld in   paragraaf 1, in een van de twee volgende gevallen:<BR>1° de werkopdracht wordt   opgegeven in antwoord op een synergieaanvraag die voor een andere werkopdracht   werd aangemaakt;<BR>2° voor de werkopdracht heeft uiterlijk zes maanden voor de   geplande aanvang van de werkzaamheden een coördinatievergadering plaatsgehad.   Die vergadering wordt georganiseerd door de initiatiefnemer met als doel   werkzaamheden in de zone van de werkopdracht op elkaar af te stemmen. De   initiatiefnemer nodigt daarvoor ten minste de wegbeheerders, de maatschappijen   voor geregeld vervoer en de beheerders van kabels en leidingen uit, voor zover   de synergie-interessezone van deze partijen overlapt met de zone van de   werkopdracht.<BR></P>  <P>§ 3. De initiatiefnemer die de synergieaanvraag ingeeft in het GIPOD, bepaalt   in die aanvraag de termijn waarbinnen de andere initiatiefnemers dienen te   antwoorden.<BR></P>  <P>Als de ontvanger van de synergieaanvraag binnen de antwoordtermijn die in de   synergieaanvraag is opgegeven, geen antwoord heeft verstrekt, geldt dat als een   negatief antwoord vanwege die ontvanger.<BR></P>  <P>Als een of meer ontvangers de synergieaanvraag binnen de opgegeven   antwoordtermijn positief beantwoorden, met opgave van een werkopdracht, wordt   een synergie in het GIPOD ingegeven. De synergie wordt ingegeven door de   initiatiefnemer van de synergieaanvraag of, in onderling overleg, door een   ontvanger van de synergieaanvraag.<BR></P>  <P>De Vlaamse Regering bepaalt de termijnen waarbinnen de synergie in het GIPOD   moet worden ingegeven.<BR></P>
 
 ## HOOFDSTUK 6 Verplichting tot het ingeven van een omleiding
+
+### ART. 12.
+
+<p>Als een omleiding wordt ingesteld voor een werkopdracht of een andere geplande inname, wordt die in het GIPOD ingegeven.</p>
+
+<p>De Vlaamse Regering bepaalt:<br>
+1° de informatie die minstens moet worden ingegeven bij de omleiding;<br>
+2° de procedure die de verschillende betrokken actoren moeten volgen bij het ingeven van een omleiding in het GIPOD;<br>
+3° de verantwoordelijkheden voor de betrokken actoren bij de ingave en het beheer van informatie over de omleiding in het GIPOD;<br>
+4° de uiterlijke termijnen waarbinnen de omleidingen in het GIPOD moeten zijn ingegeven.</p>
 
 ## HOOFDSTUK 7 Verplichting tot aanpassing van de informatie in het GIPOD
 
