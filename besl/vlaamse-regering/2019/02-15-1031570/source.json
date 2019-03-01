@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031570,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-15 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques, wat betreft de geldigheidsduur van de dienstencheque",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031570/VolledigDocument?datum=2019-03-01",
+  "source_sha256": "5fc6bcae7ebc10054d5e960963d8292cb122fdd0bf0f6dfe34bd57202597b7e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031570&param=informatie",
+  "as_of": "2019-03-01",
+  "made": "2019-02-15",
+  "gazette": "2019-04-18",
+  "numac": 2019011726,
+  "document_start": "2019-03-01",
+  "document_end": null,
+  "in_force": "2019-03-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
