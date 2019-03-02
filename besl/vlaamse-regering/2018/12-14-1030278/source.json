@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030278,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-14 houdende wijziging van het Jachtadministratiebesluit van 25 april 2014, wat betreft de invoering van nadere regels over het Jachtfonds",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030278/VolledigDocument?datum=2019-03-02",
+  "source_sha256": "588fe25230a9f67bb9c0dbca6317fa938325087c122a4ee810fd2b9da018742b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030278&param=informatie",
+  "as_of": "2019-03-02",
+  "made": "2018-12-14",
+  "gazette": "2019-02-20",
+  "numac": 2019040250,
+  "document_start": "2019-03-02",
+  "document_end": null,
+  "in_force": "2019-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
