@@ -8,7 +8,21 @@ De Vlaamse Regering,<BR>Gelet op de bijzondere wet van 8 augustus 1980 tot   her
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° minister: de Vlaamse minister,   bevoegd voor de landinrichting en het natuurbehoud;<BR>2°   arrondissementscommissaris: de persoon, vermeld in titel II, hoofdstuk IV, van   het Provinciedecreet van 9 december 2005, die door de gouverneur is aangewezen   als verantwoordelijke voor de aspecten in verband met de jacht;<BR>3°   agentschap: het Agentschap voor Natuur en Bos opgericht bij het besluit van de   Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid van 23 december 2005;<BR>4° instituut: het Instituut voor   Natuur- en Bosonderzoek opgericht bij het besluit van de Vlaamse Regering tot   oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek van 23 december   2005; <BR>5° jachtrecht: het recht, vermeld in artikel 7 van het Jachtdecreet   van 24 juli 1991;<BR>6° jachtrechthouder: de persoon die het jachtrecht   heeft;<BR>7° jachtseizoen: de periode van 1 juli tot en met 30 juni van het   daaropvolgende kalenderjaar;<BR>8° jachtterrein: een aaneengesloten terrein, dat   uit een of meer percelen bestaat waarop eenzelfde jachtrechthouder of een groep   van jachtrechthouders het jachtrecht heeft;<BR>9° jachtplan: het plan waarop een   jachtterrein wordt aangeduid;<BR>10° WBE: een wildbeheereenheid, dat is een   samenwerkingsverband tussen jachtrechthouders als vermeld in artikel 12 van het   Jachtdecreet van 24 juli 1991;<BR>11° WBE-werkingsgebied: het ruimtelijk   begrensde gebied waarbinnen de jachtterreinen liggen die tot de WBE   behoren;<BR>12° onafhankelijke jachtrechthouder: een jachtrechthouder die niet   bij een erkende WBE is aangesloten;<BR>13° duurzaam wildbeheer: het wildbeheer   dat gericht is op de instandhouding en de verbetering van de kwaliteit van de   leefgebieden van de soorten jachtwild, op het beheer van de populaties van het   jachtwild en op het voorkomen en inperken van maatschappelijk onaanvaardbare   schade door jachtwild, als onderdeel van een breder faunabeheer.   <BR>
+In dit besluit wordt verstaan onder:<br>
+1° minister: de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud;<br>
+2° arrondissementscommissaris: de persoon, vermeld in titel II, hoofdstuk IV, van het Provinciedecreet van 9 december 2005, die door de gouverneur is aangewezen als verantwoordelijke voor de aspecten in verband met de jacht;<br>
+3° agentschap: het Agentschap voor Natuur en Bos opgericht bij het besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid van 23 december 2005;<br>
+4° instituut: het Instituut voor Natuur- en Bosonderzoek opgericht bij het besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek van 23 december 2005;<br>
+5° jachtrecht: het recht, vermeld in artikel 7 van het Jachtdecreet van 24 juli 1991;<br>
+6° jachtrechthouder: de persoon die het jachtrecht heeft;<br>
+7° jachtseizoen: de periode van 1 juli tot en met 30 juni van het daaropvolgende kalenderjaar;<br>
+8° jachtterrein: een aaneengesloten terrein, dat uit een of meer percelen bestaat waarop eenzelfde jachtrechthouder of een groep van jachtrechthouders het jachtrecht heeft;<br>
+9° jachtplan: het plan waarop een jachtterrein wordt aangeduid;<br>
+10° WBE: een wildbeheereenheid, dat is een samenwerkingsverband tussen jachtrechthouders als vermeld in artikel 12 van het Jachtdecreet van 24 juli 1991;<br>
+11° WBE-werkingsgebied: het ruimtelijk begrensde gebied waarbinnen de jachtterreinen liggen die tot de WBE behoren;<br>
+12° onafhankelijke jachtrechthouder: een jachtrechthouder die niet bij een erkende WBE is aangesloten;<br>
+13° duurzaam wildbeheer: het wildbeheer dat gericht is op de instandhouding en de verbetering van de kwaliteit van de leefgebieden van de soorten jachtwild, op het beheer van de populaties van het jachtwild en op het voorkomen en inperken van maatschappelijk onaanvaardbare schade door jachtwild, als onderdeel van een breder faunabeheer;<br>
+14° Centraal Comité: het Centraal Comité van het Jachtfonds, vermeld in artikel 32/3, 3°, van het Jachtdecreet van 24 juli 1991.
 
 ### ART. 2.
 
@@ -295,6 +309,68 @@ Eventuele geschillen over het verloop van het jachtexamen worden met een   aange
 <P>§ 1. Een kandidaat die geslaagd is voor het theoretische en/of het praktische   gedeelte van het jachtexamen ontvangt daarvan telkens een getuigschrift.   <BR></P>  <P>Een getuigschrift wordt ondertekend door de voorzitter en de secretaris van   de jachtexamencommissie. <BR></P>  <P>Een kandidaat die niet geslaagd is voor het volledige praktisch gedeelte,   maar wel voor één of twee vakken, ontvangt een vrijstellingsattest voor de   vakken waarvoor hij geslaagd is.<SUP></SUP> <BR></P>  <P>§ 2. Een kandidaat die niet geslaagd is voor het theoretische en/of het   praktische gedeelte, kan beroep aantekenen tegen de beslissing van de   jachtexamencommissie. Dat beroep wordt met een aangetekende brief aan het   agentschap gestuurd, binnen de periode van veertien dagen die volgt op de dag   waarop de beslissing van de jachtexamencommissie met een aangetekende brief werd   verzonden. Alvorens een beslissing te nemen vraagt het agentschap advies aan de   jachtexamencommissie.<BR></P>  <P>§ 3. Een getuigschrift als vermeld in paragraaf 1 vervalt in de volgende   gevallen:<BR>1° als de titularis veroordeeld is wegens een overtreding van de   jachtregelgeving. Deze regel is niet van toepassing als de rechter in voorkomend   geval vrijstelling voor een nieuw jachtexamen heeft verleend;<BR>2° als de   titularis al meer dan tien jaar geen jachtverlof of jachtvergunning meer heeft   verkregen in België, Nederland of het Groothertogdom Luxemburg vanaf de laatste   geldigheidsdatum van het laatste uitgereikte jachtverlof of de laatst   uitgereikte jachtvergunning. Op verzoek van de arrondissementscommissaris levert   de titularis het bewijs dat hij zich niet in die toestand bevindt. Dat bewijs   kan worden geleverd met alle rechtsmiddelen, met uitzondering van een   eedaflegging of een bekentenis.</P>
 
 ## [HOOFDSTUK 5/1. Het Jachtfonds (ing. BVR 14 december 2018, art. 2, I: 2 maart 2019)]
+
+### ART 59/1.
+
+Het agentschap staat in voor het beheer van het Jachtfonds. Het agentschap voert daarbij de volgende taken uit:<br>
+1° het organiseert de vergaderingen van het Centraal Comité;<br>
+2° het raamt de jaarlijkse totale inkomsten en uitgaven van het Jachtfonds, voor 1 mei van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de inkomsten en uitgaven betrekking hebben;<br>
+3° het maakt de begroting van het Jachtfonds op in overleg met het Centraal Comité, voor 1 november van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, en bezorgt de begroting aan de minister. De begroting omvat een beschrijving van alle uitgaven van het Jachtfonds voor het volgende kalenderjaar, verdeeld over de doelstellingen, vermeld in artikel 32/1 van het Jachtdecreet van 24 juli 1991;<br>
+4° het maakt de jaarrekening van het Jachtfonds op, voor 1 mei van het kalenderjaar dat volgt op het kalenderjaar waarop de jaarrekening betrekking heeft, en bezorgt de jaarrekening aan het Centraal Comité. De jaarrekening omvat een beschrijving van alle uitgaven van het Jachtfonds in het voorbije kalenderjaar, verdeeld over de doelstellingen, vermeld in artikel 32/1 van het voormelde decreet;<br>
+5° het voert de boekhouding van het Jachtfonds. Daartoe behoort de inboeking van de inkomsten en het verrichten van de vastleggingen en de uitgaven.
+
+### ART 59/2.
+
+§ 1. Het agentschap vult de doelstellingen in, vermeld in artikel 32/1, 5°, a) tot en met e), van het Jachtdecreet van 24 juli 1991. Het agentschap kan daarvoor jaarlijks, binnen de perken van de jaarlijks goedgekeurde begroting, beschikken over maximaal 335.000 euro uit het Jachtfonds.<br>
+<br>
+Het agentschap vult de doelstelling in, vermeld in artikel 32/1, 5°, e) en 8°, van het voormelde decreet. Het agentschap kan daarvoor jaarlijks, binnen de perken van de jaarlijks goedgekeurde begroting, beschikken over maximaal 160.000 euro uit het Jachtfonds.<br>
+<br>
+§ 2. Voor de invulling, de ondersteuning en de uitvoering van de doelstellingen, vermeld in artikel 32/1, 1°, 2°, 3°, 4°, 5°, d) en e), 6° en 8°, van het Jachtdecreet van 24 juli 1991, kan de Hubertus Vereniging Vlaanderen vzw jaarlijks, binnen de perken van de jaarlijks goedgekeurde begroting, beschikken over een algemene werkingssubsidie van maximaal 300.000 euro uit het Jachtfonds.<br>
+<br>
+De minister bepaalt de taken die de Hubertus Vereniging Vlaanderen vzw moet uitvoeren met de subsidie, vermeld in het eerste lid. De nader te bepalen taken moeten:<br>
+1° betrekking hebben op duidelijk beschreven, praktische activiteiten, die onmiskenbaar verbonden zijn met één of meer van de doelstellingen, vermeld in artikel 32/1, 1°, 2°, 3°, 4°, 5°, d) en e), 6° en 8°, van het Jachtdecreet van 24 juli 1991;<br>
+2° aan elk van de doelstellingen, vermeld in artikel 32/1, 1°, 2°, 3°, 4°, 5°, d) en e), 6° en 8°, van het Jachtdecreet van 24 juli 1991, minstens één taak in hoofdzaak verbinden, zodanig dat alle doelstellingen in acht genomen worden bij het vaststellen van de taken;<br>
+3° complementair zijn aan de taken van het agentschap en desgevallend de taken van het agentschap ondersteunen;<br>
+4° het behoud van natuur en biodiversiteit bevorderen.<br>
+<br>
+De subsidieaanvraag moet bij het agentschap worden ingediend in de maand december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de subsidie betrekking heeft.<br>
+<br>
+Het agentschap gaat na of de ingediende subsidieaanvraag overeenstemt met de invulling en de uitvoering van de doelstellingen, vermeld in artikel 32/1, 1°, 2°, 3°, 4° en 5°, d) en e), 6° en 8°, van het Jachtdecreet van 24 juli 1991, en brengt daarover een advies uit aan de minister.<br>
+<br>
+De minister neemt binnen dertig dagen na de ontvangst van het advies van het agentschap een beslissing over de subsidieaanvraag. De minister bepaalt daarbij de modaliteiten van de uitbetaling en rapportering.<br>
+<br>
+§ 3. Het Centraal Comité besteedt het resterende bedrag van de geraamde inkomsten uit het Jachtfonds ten opzichte van de bedragen, vermeld in paragraaf 1 en 2, aan projecten die de doelstellingen invullen, vermeld in artikel 32/1, 1°, 2°, 3°, 4°, 5, e), 6°, 7° en 8°, van het Jachtdecreet van 24 juli 1991.
+
+### ART 59/3.
+
+Voor 1 december van het kalenderjaar dat voorafgaat aan het kalenderjaar waarop de begroting betrekking heeft, keurt de minister de begroting goed die het agentschap bezorgt.
+
+### ART 59/4.
+
+§ 1. Het Centraal Comité is samengesteld uit de volgende leden, die door de minister worden benoemd:<br>
+1° drie personeelsleden van het agentschap, waarvan een personeelslid fungeert als voorzitter;<br>
+2° een personeelslid van het Departement Landbouw en Visserij;<br>
+3° een personeelslid van het beleidsdomein Financiën en Begroting;<br>
+4° een personeelslid van het instituut;<br>
+5° vijf vertegenwoordigers van de jachtsector.<br>
+<br>
+De minister benoemt een plaatsvervanger voor elk van de leden, vermeld in het eerste lid.<br>
+<br>
+§ 2. De leden, vermeld in paragraaf 1, eerste lid, 1°, 2°, 3° en 4°, en hun plaatsvervangers worden voorgedragen door de leidende ambtenaren van de betrokken entiteiten.<br>
+<br>
+De leden, vermeld in paragraaf 1, eerste lid, 5°, en hun plaatsvervangers worden voorgedragen door de representatieve verenigingen in de Vlaamse jachtsector.<br>
+<br>
+De duur van het mandaat van de leden en hun plaatsvervangers, vermeld in paragraaf 1, eerste en tweede lid, is vier jaar. Het mandaat is verlengbaar. Als er voor het einde van een mandaat van een lid een vacature openstaat, neemt de plaatsvervanger dat mandaat over en wordt een nieuwe plaatsvervanger voorgedragen overeenkomstig de bepalingen in 62, eerste en tweede lid.<br>
+<br>
+§ 3. Het agentschap wijst voor het Centraal Comité een of meer niet-stemgerechtigde secretarissen aan, die onder meer de notulen van de vergaderingen van het Centraal Comité opstellen en de reis- en verblijfkosten van de leden van het Centraal Comité afhandelen.<br>
+<br>
+§ 4. De leden van het Centraal Comité worden niet vergoed. De leden van het Centraal Comité die niet tot de diensten van de Vlaamse overheid behoren, hebben wel recht op een vergoeding van de reis- en verblijfskosten, conform de bepalingen die gelden voor de personeelsleden van de diensten van de Vlaamse overheid.<br>
+<br>
+§ 5. Het Centraal Comité vergadert geldig als de meerderheid van de leden of hun plaatsvervangers aanwezig is.<br>
+<br>
+Het Centraal Comité beslist bij gewone meerderheid. Bij een staking van stemmen is de stem van de voorzitter beslissend.<br>
+<br>
+Het Centraal Comité voert zijn werkzaamheden uit overeenkomstig een huishoudelijk reglement dat wordt vastgesteld door het hoofd van het agentschap. Dat reglement bepaalt onder meer de dagelijkse werking van het Centraal Comité, het aantal vergaderingen van het Centraal Comité per jaar en het tijdstip ervan. Het kan aan bepaalde leden specifieke taken toekennen ter voorbereiding van de vergaderingen.
 
 ## HOOFDSTUK 6. Bijzondere bepalingen
 
