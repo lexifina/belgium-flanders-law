@@ -131,3 +131,13 @@ De studieomvang van de opleiding, vermeld in het eerste lid, bedraagt honderdtac
 	</tbody>
 </table>
 <span style="font-size:medium"><span style="color:#000000"><span style="font-family:&quot;Times New Roman&quot;">".</span></span></span>
+
+### ART 3.
+
+Artikel 1 heeft uitwerking vanaf het academiejaar 2010-2011.<br>
+<br>
+Artikel 2 heeft uitwerking vanaf het academiejaar 2018-2019.
+
+### ART 4.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.

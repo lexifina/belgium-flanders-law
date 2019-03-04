@@ -2,16 +2,16 @@
   "codex_id": 1030285,
   "title": "Besluit van de Vlaamse Regering van 2018-12-21 houdende wijzigingen van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030285/VolledigDocument?datum=2018-09-01",
-  "source_sha256": "d46bf7986c91d5b7e898d0274fb149e6bad24ab7d07704593b248e5d544bfbcd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030285/VolledigDocument?datum=2019-03-04",
+  "source_sha256": "ed594c4e830146909143c040700ae02e0b2aa2cc1db7e96f5494e2e3216ab719",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030285&param=informatie",
-  "as_of": "2018-09-01",
+  "as_of": "2019-03-04",
   "made": "2018-12-21",
   "gazette": "2019-02-22",
   "numac": 2019040314,
   "document_start": "2019-03-04",
   "document_end": null,
-  "in_force": "2018-09-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2018-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-03-04",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-03-04; future article versions excluded; article text as the API gives it"
 }
