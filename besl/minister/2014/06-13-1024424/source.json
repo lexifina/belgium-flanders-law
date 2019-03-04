@@ -2,16 +2,16 @@
   "codex_id": 1024424,
   "title": "Ministerieel besluit van 2014-06-13 tot instelling van het natuurinrichtingsproject De Liereman",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024424/VolledigDocument?datum=2014-08-28",
-  "source_sha256": "86a549ec7d030d8d896ff25c8f32e131780c6a0f49f0cc6b2fe346c198102d84",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024424/VolledigDocument?datum=2019-03-04",
+  "source_sha256": "10bfb7028f25f09e406b89e2b82c04d4ff00045c9d291bf2866cd880e33d8f30",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024424&param=informatie",
-  "as_of": "2014-08-28",
+  "as_of": "2019-03-04",
   "made": "2014-06-13",
   "gazette": "2014-08-18",
   "numac": 2014035920,
   "document_start": "2014-08-28",
   "document_end": null,
-  "in_force": "2014-08-28",
+  "in_force": "2019-03-04",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2014-08-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-03-04; future article versions excluded; article text as the API gives it"
 }

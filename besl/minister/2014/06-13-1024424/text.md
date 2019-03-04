@@ -6,7 +6,16 @@
 
 ### ART. 1.
 
-Er wordt een natuurinrichtingsproject De Liereman ingesteld en afgebakend   zoals opgenomen in de bijlage die bij dit besluit is gevoegd, gelegen binnen de   volgende kadastrale secties:<BR>1° Ravels, 1° Afdeling, Sectie A;<BR>2° Ravels,   1° Afdeling, Sectie C;<BR>3° Ravels, 1° Afdeling, Sectie D;<BR>4° Ravels, 1°   Afdeling, Sectie E;<BR>5° Oud-Turnhout, 1° Afdeling, Sectie C<BR>7°   Oud-Turnhout, 1° Afdeling, Sectie E;<BR>8° Oud-Turnhout, 2° Afdeling, Sectie   F;<BR>9° Arendonk, 2° Afdeling, Sectie D.<BR>
+Er wordt een natuurinrichtingsproject De Liereman ingesteld en afgebakend zoals opgenomen in de bijlage die bij dit besluit is gevoegd, gelegen binnen de volgende kadastrale secties:<br>
+1° Ravels, 1° Afdeling, Sectie A;<br>
+2° Ravels, 1° Afdeling, Sectie C;<br>
+3° Ravels, 1° Afdeling, Sectie D;<br>
+4° Ravels, 1° Afdeling, Sectie E;<br>
+5° Oud-Turnhout, 1° Afdeling, Sectie C<br>
+7° Oud-Turnhout, 1° Afdeling, Sectie E;<br>
+8° Oud-Turnhout, 2° Afdeling, Sectie F;<br>
+9° Arendonk, 2° Afdeling, Sectie D;<br>
+10° Oud-Turnhout, 1° Afdeling, Sectie D.
 
 ### ART. 2.
 
