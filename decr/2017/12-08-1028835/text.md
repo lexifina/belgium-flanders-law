@@ -1095,6 +1095,75 @@ De beslissing wordt bij uittreksel gepubliceerd in het Belgisch Staatsblad.<br>
 § 2. Paragraaf 1, derde lid, is van overeenkomstige toepassing op de rooilijnen, vastgelegd voor reservatiestroken die geheel of gedeeltelijk worden opgeheven door een plan van aanleg of een ruimtelijk uitvoeringsplan.".<br>
 &nbsp;
 
+### ART 101.
+
+In dezelfde codex, het laatst gewijzigd bij het decreet van 3 februari 2017, wordt een artikel 7.4.4/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 7.4.4/1. § 1. Op initiatief van het college van burgemeester en schepenen en na advies van de gemeentelijke stedenbouwkundige ambtenaar of de gemeentelijke omgevingsambtenaar kunnen de stedenbouwkundige voorschriften van algemene en bijzondere plannen van aanleg worden herzien of opgeheven wat betreft:<br>
+1° de perceelsafmetingen;<br>
+2° de afmetingen en de inplanting van constructies;<br>
+3° de dakvorm en de gebruikte materialen;<br>
+4° de maximaal mogelijke vloerterreinindex;<br>
+5° het aantal bouwlagen;<br>
+6° de voortuinstroken, de tuinzones met inbegrip van tuinconstructies, de binnenplaatsen, de afsluitingen, de buitenaanleg rond gebouwen met inbegrip van verhardingen, de bouwvrije stroken en de bufferstroken;<br>
+7° het aantal toegelaten woongelegenheden of bedrijfseenheden per kavel;<br>
+8° de toegelaten functies in bebouwbare zones of van bebouwde onroerende goederen;<br>
+9° de parkeergelegenheden.<br>
+<br>
+De herziening of opheffing kan, voor het gebied waarop ze betrekking heeft, niet tot gevolg hebben dat de oppervlakte aan openbare groen- of recreatievoorzieningen kleiner wordt.<br>
+<br>
+De herziening of opheffing kan geen afwijking van de stedenbouwkundige voorschriften van het gewestplan voor het gebied in kwestie tot gevolg hebben.<br>
+<br>
+De herziening of opheffing kan niet worden toegepast voor stedenbouwkundige voorschriften die afwijken van de stedenbouwkundige voorschriften van het gewestplan voor het gebied in kwestie.<br>
+<br>
+De herziening of opheffing strookt met de opties van, al naargelang het geval, het gemeentelijk ruimtelijk structuurplan of het gemeentelijk beleidsplan ruimte.<br>
+<br>
+Het advies van de gemeentelijke stedenbouwkundige ambtenaar of de gemeentelijke omgevingsambtenaar geeft aan welke projecten, soorten projecten, functies of activiteiten in overeenstemming zijn met een goede ruimtelijke ordening voor het plangebied, maar verhinderd worden door de bestaande stedenbouwkundige voorschriften van het plan. Het advies staaft de conformiteit van de voorgenomen herziening of opheffing met de opties van het gemeentelijk ruimtelijk structuurplan of het gemeentelijk beleidsplan ruimte, en toont aan hoe de voorgenomen herziening of opheffing van stedenbouwkundige voorschriften bijdraagt aan een kwalitatieve verhoging van het ruimtelijk rendement op plaatsen waar die rendementsverhoging verantwoord is, of aan ingrepen gericht op energiebesparing.<br>
+<br>
+De herziening of opheffing neemt de vorm aan van tekstuele wijzigingen en, zo nodig, een grafisch plan.<br>
+<br>
+§ 2. De procedure, vermeld in dit artikel, is ook van toepassing voor de herziening of opheffing van stedenbouwkundige voorschriften van gemeentelijke ruimtelijke uitvoeringsplannen, met uitsluiting van voorschriften over de toegelaten functies.<br>
+<br>
+De inhoudelijke beperkingen, vermeld in paragraaf 1, eerste en tweede lid, zijn voor het overige van overeenkomstige toepassing.<br>
+<br>
+§ 3. De herziening of de opheffing, vermeld in paragraaf 1 en 2, is onderworpen aan een openbaar onderzoek, met inachtneming van de volgende regelingen:<br>
+1° het openbaar onderzoek duurt dertig dagen;<br>
+2° iedere belanghebbende kan gedurende die termijn schriftelijk of digitaal opmerkingen en bezwaren indienen.<br>
+<br>
+De Vlaamse Regering bepaalt de minimale organisatorische en procedurele vereisten bij de organisatie van een openbaar onderzoek, vermeld in het eerste lid.<br>
+<br>
+§ 4. De gemeente wint het voorafgaande advies in van de deputatie, het departement en de instanties die aangewezen zijn door de Vlaamse Regering.<br>
+<br>
+De adviezen worden uitgebracht binnen een vervaltermijn van dertig dagen die ingaat op de dag na deze van de ontvangst van de adviesvraag. Als er geen advies is verleend binnen die termijn, mag aan de adviesvereiste worden voorbijgegaan.<br>
+<br>
+§ 5. Het openbaar onderzoek, vermeld in paragraaf 3, en de adviesverlening, vermeld in paragraaf 4, kunnen geheel of gedeeltelijk samenvallen.<br>
+<br>
+§ 6. De gemeenteraad beslist tot herziening of opheffing van de voorschriften binnen een vervaltermijn van 180 dagen na het einde van het openbaar onderzoek, vermeld in paragraaf 3, dan wel het einde van de adviesperiode, vermeld in paragraaf 4, waarbij gerekend wordt vanaf de meest recente datum.<br>
+<br>
+§ 7. Het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften wordt onmiddellijk met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt en aan het departement.<br>
+<br>
+§ 8. De Vlaamse Regering en de deputatie beschikken over een termijn van vijfenveertig dagen die ingaat de dag na de betekening, vermeld in paragraaf 7 of 10, tweede lid, om de uitvoering van het besluit van de gemeenteraad tot herziening of opheffing te schorsen. Een schorsing kan niet gedeeltelijk zijn. De Vlaamse Regering kan binnen de voormelde termijn het besluit van de gemeenteraad ook geheel of gedeeltelijk vernietigen. Een afschrift van het schorsing- of vernietigingsbesluit wordt binnen een ordetermijn van tien dagen met een beveiligde zending bezorgd aan het college van burgemeester en schepenen.<br>
+<br>
+Binnen de ordetermijn, vermeld in het eerste lid, bezorgt de Vlaamse Regering een afschrift van het schorsings- of vernietigingsbesluit aan de deputatie. Als de deputatie een schorsingsbesluit neemt, bezorgt ze daarvan binnen de voormelde ordetermijn een afschrift aan het departement.<br>
+<br>
+§ 9. Het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften van het algemeen of bijzonder plan van aanleg of gemeentelijk ruimtelijk uitvoeringsplan, conform dit artikel, kan alleen worden geschorst of vernietigd omwille van de redenen, vermeld in artikel 2.2.23, § 2.<br>
+<br>
+§ 10. In geval van schorsing beschikt de gemeenteraad over een termijn van negentig dagen die ingaat de dag na de verzending van het schorsingsbesluit aan het college van burgemeester en schepenen, om een nieuw besluit tot herziening of opheffing te nemen. In dat nieuwe besluit kunnen ten opzichte van het geschorste besluit alleen wijzigingen worden aangebracht die gebaseerd zijn op of voortvloeien uit het schorsingsbesluit.<br>
+<br>
+Het nieuwe besluit tot herziening of opheffing wordt onmiddellijk met een beveiligde zending bezorgd aan de deputatie van de provincie waarin de gemeente ligt, en aan het departement.<br>
+<br>
+Als de gemeenteraad binnen de voormelde termijn van negentig dagen geen nieuw besluit tot herziening of opheffing neemt, vervalt het geschorste gemeenteraadsbesluit.<br>
+<br>
+Als het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften niet tijdig is geschorst of vernietigd, wordt de gemeenteraadsbeslissing tot herziening of opheffing bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+Het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften treedt in werking veertien dagen na de bekendmaking van dit besluit bij uittreksel in het Belgisch Staatsblad.<br>
+<br>
+Het besluit van de gemeenteraad tot herziening of opheffing van de voorschriften wordt op dezelfde manier als een gewone planwijziging opgenomen in het plannenregister, vermeld in artikel 5.1.1.<br>
+<br>
+§ 11. De regeling in verband met planschade, vermeld in artikel 2.6.1 tot en met 2.6.3, is van overeenkomstige toepassing op gemeenteraadsbesluiten tot herziening of opheffing van voorschriften.<br>
+<br>
+§ 12. De Vlaamse Regering kan nadere procedurele regels bepalen voor de toepassing van dit artikel.".<br>
+&nbsp;
+
 ### ART 102.
 
 &nbsp;In artikel 7.6.2, § 1, derde lid, van dezelfde codex, het laatst gewijzigd bij het decreet van 4 april 2014, wordt punt 2° opgeheven.<br>
