@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030295,
+  "title": "Ministerieel besluit van 2019-01-31 tot wijziging van de samenstelling van de natuurinrichtingsprojectcomités van de natuurinrichtingsprojecten Zwarte Beek, Blankaart, Zoerselbos, Biscopveld, Berlare Broek-Donkmeer, De Liereman, Vrieselhof en Torfbroek en tot wijziging van de samenstelling van de natuurinrichtingsprojectcommissies van de natuurinrichtingsprojecten Zwarte Beek, De Blankaart en De Liereman en tot naamswijziging van de administratieve zetel",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030295/VolledigDocument?datum=2019-03-07",
+  "source_sha256": "61f1c87a322ff1de7b88c215081dd2e128a588a61994bc10b35fbc22f3d1c8c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030295&param=informatie",
+  "as_of": "2019-03-07",
+  "made": "2019-01-31",
+  "gazette": "2019-02-25",
+  "numac": 2019040343,
+  "document_start": "2019-03-07",
+  "document_end": null,
+  "in_force": "2019-03-07",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2019-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
