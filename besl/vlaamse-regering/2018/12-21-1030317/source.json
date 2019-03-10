@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030317,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-21 waarbij de overvloedige regenval die heeft plaatsgevonden van 21 mei 2018 tot 10 juni 2018 op het grondgebied van het Vlaamse Gewest als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van deze ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030317/VolledigDocument?datum=2019-03-10",
+  "source_sha256": "1dc2840ff68795b91e560c6997e169f728f7c884c4e31c7e9b503d7b32b081df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030317&param=informatie",
+  "as_of": "2019-03-10",
+  "made": "2018-12-21",
+  "gazette": "2019-02-28",
+  "numac": 2019040476,
+  "document_start": "2019-03-10",
+  "document_end": null,
+  "in_force": "2019-03-10",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
