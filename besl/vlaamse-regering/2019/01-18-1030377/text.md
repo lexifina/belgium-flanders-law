@@ -30,6 +30,14 @@ Aan artikel 5 van het besluit van de Vlaamse Regering van 24 juni 2016 over de b
 <br>
 "Het budget dat besteed wordt aan dagondersteuning als vermeld in artikel 4, 1°, b), van dit besluit, of begeleid werken als vermeld in artikel 9/1 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap, kan niet gecombineerd worden met de arbeidsmatige activiteiten, vermeld in artikel 44 van het besluit van de Vlaamse Regering van 2 februari 2018 houdende de uitvoering van het decreet van 25 april 2014 houdende de werk- en zorgtrajecten, wat betreft de activeringstrajecten en de arbeidsmatige activiteiten.".
 
+### ART 2.
+
+Aan artikel 13 van hetzelfde besluit worden een derde en een vierde lid toegevoegd, die luiden als volgt:<br>
+<br>
+"Met uitzondering van de budgetten die het agentschap met terugwerkende kracht ter beschikking stelt, registreert de vergunde zorgaanbieder de voucher in de webapplicatie, die het agentschap ter beschikking stelt, uiterlijk op de aanvangsdatum van de overeenkomst. Met uitzondering van de budgetten die het agentschap met terugwerkende kracht ter beschikking stelt, komt een voucher pas voor subsidiëring in aanmerking vanaf de datum dat hij in de webapplicatie geregistreerd is.<br>
+<br>
+De vergunde zorgaanbieder registreert de beëindiging van de voucher in de webapplicatie, die het agentschap ter beschikking stelt, uiterlijk op de einddatum van de overeenkomst. Als de beëindiging van de voucher niet tijdig geregistreerd is, worden de laatste drie maanden niet in aanmerking genomen voor de subsidiëring.".
+
 ### ART 3.
 
 Aan artikel 5 van het besluit van de Vlaamse Regering van 12 mei 2017 houdende de methodiek voor de berekening van de subsidies voor personeelskosten worden een tweede en een derde lid toegevoegd, die luiden als volgt:<br>
