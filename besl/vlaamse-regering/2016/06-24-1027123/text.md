@@ -213,7 +213,11 @@ Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de identificatiegegevens van de vergunde zorgaanbieder;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de duur van de overeenkomst;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de ondersteuningsfuncties die zullen geboden worden met aanduiding van de frequentie;</span><br>
-<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° het aantal zorggebonden punten dat op jaarbasis nodig is om de overeenkomst uit te voeren.</span>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° het aantal zorggebonden punten dat op jaarbasis nodig is om de overeenkomst uit te voeren.<br>
+<br>
+Met uitzondering van de budgetten die het agentschap met terugwerkende kracht ter beschikking stelt, registreert de vergunde zorgaanbieder de voucher in de webapplicatie, die het agentschap ter beschikking stelt, uiterlijk op de aanvangsdatum van de overeenkomst. Met uitzondering van de budgetten die het agentschap met terugwerkende kracht ter beschikking stelt, komt een voucher pas voor subsidiëring in aanmerking vanaf de datum dat hij in de webapplicatie geregistreerd is.<br>
+<br>
+De vergunde zorgaanbieder registreert de beëindiging van de voucher in de webapplicatie, die het agentschap ter beschikking stelt, uiterlijk op de einddatum van de overeenkomst. Als de beëindiging van de voucher niet tijdig geregistreerd is, worden de laatste drie maanden niet in aanmerking genomen voor de subsidiëring.</span>
 
 ### ART 14.
 
