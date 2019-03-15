@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030343,
+  "title": "Ministerieel besluit van 2018-12-17 tot toekennen van een ontheffing van de toepassing van de tariefregulering van de integrale drinkwaterfactuur ten aanzien van Brabant Water NV en tot vastlegging van de afspraken waaronder de ontheffing wordt toegestaan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030343/VolledigDocument?datum=2019-03-15",
+  "source_sha256": "123bf054e1818f91c1ea13194ff0ec91197fbbc83ced60801f57d81f6a5db61a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030343&param=informatie",
+  "as_of": "2019-03-15",
+  "made": "2018-12-17",
+  "gazette": "2019-03-05",
+  "numac": 2019011074,
+  "document_start": "2019-03-15",
+  "document_end": null,
+  "in_force": "2019-03-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
