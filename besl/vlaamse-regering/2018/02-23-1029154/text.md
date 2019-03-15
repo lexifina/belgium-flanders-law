@@ -35,8 +35,8 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE
 
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>Lijst van de bacheloropleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is, als vermeld in artikel 1</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+<span style="font-size:medium"><span style="color:#000000"><span>Lijst van de bacheloropleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is, als vermeld in artikel 1</span></span></span>
+<table style="letter-spacing:normal; text-transform:none; width:1000px">
 	<tbody>
 		<tr>
 			<td>Bacheloropleidingen - Graad en kwalificatie van de graad</td>
@@ -82,21 +82,49 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			(voor inschrijvingen vanaf academiejaar 2018-2019)</td>
 		</tr>
 		<tr>
-			<td>bachelor in het onderwijs: lager onderwijs</td>
+			<td>educatieve bachelor in het lager onderwijs</td>
 			<td>lerarenopleiding lager onderwijs</td>
-			<td>15 maart 2018<br>
-			(voor inschrijvingen vanaf academiejaar 2018-2019)</td>
+			<td>15 maart 2019<br>
+			(voor inschrijvingen vanaf academiejaar 2019-2020)</td>
 		</tr>
 		<tr>
-			<td>bachelor in het onderwijs: kleuteronderwijs<br>
-			bachelor in het onderwijs: secundair onderwijs</td>
+			<td>educatieve bachelor in het kleuteronderwijs<br>
+			educatieve bachelor in het secundair onderwijs</td>
 			<td>lerarenopleiding kleuteronderwijs<br>
 			of<br>
 			lerarenopleiding lager onderwijs<br>
 			of<br>
 			lerarenopleiding secundair onderwijs</td>
-			<td>15 maart 2018<br>
-			(voor inschrijvingen vanaf academiejaar 2018-2019)</td>
+			<td>15 maart 2019<br>
+			(voor inschrijvingen vanaf academiejaar 2019-2020)</td>
+		</tr>
+		<tr>
+			<td>bachelor of Science in de diergeneeskunde</td>
+			<td>diergeneeskunde<br>
+			of<br>
+			ingenieurswetenschappen<br>
+			of<br>
+			ingenieurswetenschappen: architectuur<br>
+			of<br>
+			wiskunde, informatica, fysica<br>
+			of bio-ingenieurswetenschappen<br>
+			of<br>
+			chemie, biologie, biochemie, biotechnologie, geologie en geografie<br>
+			of<br>
+			farmaceutische wetenschappen<br>
+			of<br>
+			(toegepaste) economische wetenschappen<br>
+			of<br>
+			toegepaste economische wetenschappen: handelsingenieur (in de beleidsinformatica)<br>
+			of<br>
+			handelswetenschappen<br>
+			of<br>
+			industriële wetenschappen<br>
+			of<br>
+			biomedische wetenschappen<br>
+			of<br>
+			logopedische en audiologische wetenschappen</td>
+			<td>15 maart 2019 (voor inschrijvingen vanaf academiejaar 2019-2020)</td>
 		</tr>
 	</tbody>
 </table>
