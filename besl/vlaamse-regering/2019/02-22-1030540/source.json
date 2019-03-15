@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030540,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-22 houdende wijziging van de bijlage bij het besluit van de Vlaamse Regering van 23 februari 2018 tot vastlegging van de lijst van de bacheloropleidingen waarvoor deelname aan een niet-bindende toelatingsproef een voorwaarde voor inschrijving is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030540/VolledigDocument?datum=2019-03-15",
+  "source_sha256": "5e06e8c1152d036cbc41e94e0147bd5b63e26ed3787fdeea4e69b4cc75a1cb30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030540&param=informatie",
+  "as_of": "2019-03-15",
+  "made": "2019-02-22",
+  "gazette": "2019-04-11",
+  "numac": 2019030359,
+  "document_start": "2019-03-15",
+  "document_end": null,
+  "in_force": "2019-03-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
