@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030364,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot wijziging van artikel 2 en artikel 5 van het besluit van de Vlaamse Regering van 12 december 2008 betreffende bevolkingsonderzoek in het kader van ziektepreventie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030364/VolledigDocument?datum=2019-03-18",
+  "source_sha256": "e5923720740577950791cb4cbe34df051e817dd4ba997f46b9fdc9d93c0812bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030364&param=informatie",
+  "as_of": "2019-03-18",
+  "made": "2019-01-25",
+  "gazette": "2019-03-08",
+  "numac": 2019040448,
+  "document_start": "2019-03-18",
+  "document_end": null,
+  "in_force": "2019-03-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
