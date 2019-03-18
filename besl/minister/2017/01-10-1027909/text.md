@@ -36,7 +36,8 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
-12° Paul Van Snick.<br>
+12° Paul Van Snick;<br>
+13° Mark Schaerlaekens.<br>
 &nbsp;
 
 ### ART 3.
@@ -53,7 +54,8 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
-12° Paul Van Snick.<br>
+12° Paul Van Snick;<br>
+13° Mark Schaerlaekens.<br>
 &nbsp;
 
 ### ART 4.
