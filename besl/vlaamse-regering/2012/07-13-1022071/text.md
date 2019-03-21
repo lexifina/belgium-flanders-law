@@ -25,26 +25,26 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder DAB : de Dienst met Afzonderlijk Beheer Digitale Drukkerij.<br /><br />
+...
 
 ## HOOFDSTUK 2 De begroting
 
 ### ART. 2.
 
-De ramingen van de ontvangsten hebben betrekking op : <br />1° het over te dragen saldo; <br />2° de dotatie;<br />3° de eigen ontvangsten van de DAB gedurende het begrotingsjaar in kwestie.<br /><br />
+...
 
 ### ART. 3.
 
-Op de begroting van een bepaald jaar worden de volgende bedragen aangerekend : <br />1° op het vastleggingskrediet : het bedrag van de verbintenissen, aangegaan tijdens het begrotingsjaar; <br />2° op het vereffeningskrediet : de sommen, vereffend gedurende het begrotingsjaar. <br /><br />
+...
 
 ## HOOFDSTUK 3 Beheer
 
 ### ART. 4.
 
-§ 1. In dit artikel wordt verstaan onder : <BR>1° eenvoudige uitvoering :   het treffen van alle maatregelen en beslissingen voor de verwezenlijking van de   opdracht binnen de perken van de aanneming, met uitzondering van de maatregelen   en beslissingen die een beoordeling van de gunnende overheid vereisen;<BR>2°   gedelegeerde : de gedelegeerd beheerder.<BR><BR>§ 2. De beheerder is bevoegd om   bestekken voor werken, leveringen of diensten of de bescheiden die ze vervangen,   goed te keuren, de wijze te kiezen waarop de opdrachten worden gegund,   opdrachten voor de aanneming van werken, leveringen of diensten te gunnen en te   zorgen voor de uitvoering ervan. <BR><BR>De beheerder zorgt bovendien voor de   eenvoudige uitvoering van de opdrachten voor de aanneming van werken, leveringen   of diensten die in het kader van het functioneren van de DAB zijn gegund door de   Vlaamse Regering of het bevoegde lid ervan. <BR><BR>§ 3. De gedelegeerde is   bevoegd om alle vastleggings- en betalingsdocumenten te tekenen binnen de perken   van de geopende kredieten. De gedelegeerde zorgt bovendien voor de eenvoudige   uitvoering van de opdrachten voor de aanneming van werken, leveringen of   diensten die in het kader van het functioneren van de DAB zijn gegund door de   Vlaamse Regering of het bevoegde lid ervan. <BR><BR>§ 4. De   administrateur-generaal van het agentschap Facilitair Bedrijf wordt aangesteld   als beheerder van de DAB. Het afdelingshoofd van de afdeling Centrale   Dienstverlening is de gedelegeerde. <BR><BR>
+...
 
 ## HOOFDSTUK 4 Slotbepalingen
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het algemeen beleid inzake de facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse administratie, en de Vlaamse minister, bevoegd voor de financiën en de begrotingen, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
+...
