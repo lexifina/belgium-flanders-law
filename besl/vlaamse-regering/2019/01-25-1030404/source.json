@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030404,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot ontwikkeling van de onderwijskwalificatie graduaat in de politiekunde en tot wijziging van het besluit van de Vlaamse Regering van 27 april 2018 tot erkenning van de beroepskwalificatie inspecteur politie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030404/VolledigDocument?datum=2019-03-24",
+  "source_sha256": "7a72321c57cea321bd03b9948c1736bb9e8b5e69f036ad267df240cfb09b68a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030404&param=informatie",
+  "as_of": "2019-03-24",
+  "made": "2019-01-25",
+  "gazette": "2019-03-14",
+  "numac": 2019011113,
+  "document_start": "2019-03-24",
+  "document_end": null,
+  "in_force": "2019-03-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
