@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030402,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-18 tot wijziging van artikel 8 en 9 van het besluit van de Vlaamse Regering van 9 december 2016 houdende de uitvoering van het decreet van 4 april 2014 houdende de uitwisseling van informatie over een inname van het openbaar domein in het Vlaamse Gewest en van het decreet van 10 november 2017 inzake maatregelen ter verlaging van de kosten voor de aanleg van elektronische communicatienetwerken met hoge snelheid en tot wijziging van diverse decreten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030402/VolledigDocument?datum=2019-03-24",
+  "source_sha256": "bf0a7a85fe1184f77d2cedfaf5e1d2a72bce5c209c12cf149a1f071092b58df7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030402&param=informatie",
+  "as_of": "2019-03-24",
+  "made": "2019-01-18",
+  "gazette": "2019-03-14",
+  "numac": 2019040628,
+  "document_start": "2019-03-24",
+  "document_end": null,
+  "in_force": "2019-03-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
