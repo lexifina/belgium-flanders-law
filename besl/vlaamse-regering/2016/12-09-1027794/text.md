@@ -78,12 +78,12 @@ Aan artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffend
 
 ### ART 8.
 
-Artikel 8, § 1, tweede en derde lid, artikel 8, § 2, 3°, artikel 9 en artikel 12 van het GIPOD-decreet van 4 april 2014 treden in werking op 1 maart 2019.<br>
+Artikel 8, § 1, tweede en derde lid, artikel 8, § 2, 3°, artikel 9 en artikel 12 van het GIPOD-decreet van 4 april 2014 treden in werking op 1 juni 2021.<br>
 &nbsp;
 
 ### ART 9.
 
-Dit besluit treedt in werking op 1 januari 2017 met uitzondering van artikel 1, 2 en 4, die in werking treden op 1 maart 2019.
+Dit besluit treedt in werking op 1 januari 2017 met uitzondering van artikel 1, 2 en 4, die in werking treden op 1 juni 2021.
 
 ### ART 10.
 
