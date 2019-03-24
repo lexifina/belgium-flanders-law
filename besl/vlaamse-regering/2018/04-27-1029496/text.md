@@ -14,6 +14,10 @@ Besluit :
 
 De beroepskwalificatie van inspecteur politie, ingeschaald op niveau 5 van de Vlaamse kwalificatiestructuur, waarvan de beschrijving is opgenomen in de bijlage die bij dit besluit is gevoegd, wordt erkend.
 
+### ART 1/1.
+
+Alleen politiescholen die door de federale overheid ingericht zijn en de erkende politiescholen, vermeld in artikel 142bis, § 1, van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus, zijn gemachtigd om de beroepskwalificatie `inspecteur politie' uit te reiken.
+
 ### ART 2.
 
 De Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.
