@@ -8,11 +8,15 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° besluit van de Vlaamse   Regering van 20 december 2013 : het besluit van de Vlaamse Regering van 20   december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de   diversificatie naar zorgboerderijactiviteiten;<BR>2° e-loket : het e-loket,   vermeld in het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling   van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen   voor landbouwers en tot toepassing van de randvoorwaarden.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° besluit van de Vlaamse Regering van 20 december 2013 : het besluit van de Vlaamse Regering van 20 december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de diversificatie naar zorgboerderijactiviteiten;<br>
+2° e-loket : het e-loket, vermeld in het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.
 
 ### ART. 2.
 
-<P>De elektronische ondertekening, vermeld in dit besluit, wordt uitgevoerd   conform de bepalingen, vermeld in artikel 5septies van het besluit van de   Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling   en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot   toepassing van de randvoorwaarden.<BR></P>  <P>De land- of tuinbouwer kan een volmacht geven aan een andere persoon of aan   een organisatie, met uitzondering van de voorziening waarmee hij de   zorgboerderijovereenkomst sluit, zodat die persoon of organisatie als   volmachthouder in naam van de land- of tuinbouwer toegang krijgt tot het e-loket   voor het verrichten van activiteiten in het e-loket met betrekking tot   zorgboerderijactiviteiten.<BR></P>
+<p>De elektronische ondertekening, vermeld in dit besluit, wordt uitgevoerd conform de bepalingen, vermeld in artikel 68 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.</p>
+
+<p>De land- of tuinbouwer kan een volmacht geven aan een andere persoon of aan een organisatie, met uitzondering van de voorziening waarmee hij de zorgboerderijovereenkomst sluit, zodat die persoon of organisatie als volmachthouder in naam van de land- of tuinbouwer toegang krijgt tot het e-loket voor het verrichten van activiteiten in het e-loket met betrekking tot zorgboerderijactiviteiten.</p>
 
 ## HOOFDSTUK 2 Zorgboerderijovereenkomst
 
@@ -44,7 +48,7 @@ De bevoegde entiteit bepaalt het bruto bedrijfsresultaat van het land- of   tuin
 
 ### ART. 9.
 
-De bevoegde entiteit&nbsp;onderzoekt de inkomensvoorwaarden, vermeld in   artikel 5, eerste lid, 3°, van het besluit van de Vlaamse Regering van 20   december 2013, op basis van het meest recente aanslagbiljet van de belastingen.   De land- of tuinbouwer dient jaarlijks het aanslagbiljet van de belastingen in   via het e-loket, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt   van de bevoegde overheid.<BR>
+De bevoegde entiteit&nbsp;onderzoekt de inkomensvoorwaarden, vermeld in artikel 5, eerste lid, 3°, van het besluit van de Vlaamse Regering van 20 december 2013, op basis van het meest recente aanslagbiljet van de belastingen. De bevoegde entiteit kan vragen dat de land- of tuinbouwer het aanslagbiljet van de belastingen jaarlijks indient via het e-loket, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt van de bevoegde overheid.
 
 ### ART. 10.
 
@@ -58,7 +62,13 @@ De land- of tuinbouwer meldt elke wijziging die gevolgen heeft voor de   subsidi
 
 ### ART. 12.
 
-<P>De land- of tuinbouwer voert de registratie, vermeld in artikel 17 van het   besluit van de Vlaamse Regering van 20 december 2013, in via het   e-loket.<BR></P>  <P>Na afloop van de overeenkomst of bij het einde van een kwartaal bevestigt de   land- of tuinbouwer de registraties via het e-loket met een elektronische   handtekening. De elektronische handtekening bij de bevestiging van de   registratie geldt als subsidieaanvraag.<BR></P>  <P>Bij de subsidieaanvraag verklaart de land- of tuinbouwer op erewoord dat hij   voldoet aan de voorwaarden, vermeld in verordening (EG) nr. 1998/2006 van de   Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en   88 van het Verdrag op de-minimissteun.<BR></P>  <P>De voorziening bevestigt de ingediende registraties uit de subsidieaanvraag   met een elektronische handtekening.<BR></P>
+<p>De land- of tuinbouwer voert de registratie, vermeld in artikel 17 van het besluit van de Vlaamse Regering van 20 december 2013, in via het e-loket.</p>
+
+<p>Na afloop van de overeenkomst of bij het einde van een kwartaal bevestigt de land- of tuinbouwer de registraties via het e-loket met een elektronische handtekening. De elektronische handtekening bij de bevestiging van de registratie geldt als subsidieaanvraag.</p>
+
+<p>Bij de subsidieaanvraag verklaart de land- of tuinbouwer op erewoord dat hij voldoet aan de voorwaarden, vermeld in verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013 betreffende de toepassing van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie op de-minimissteun, gepubliceerd in het Publicatieblad van de Europese Unie (L 352) van 24 december 2013.</p>
+
+<p>De voorziening bevestigt de ingediende registraties uit de subsidieaanvraag met een elektronische handtekening.</p>
 
 ## HOOFDSTUK 5 Slotbepaling
 
