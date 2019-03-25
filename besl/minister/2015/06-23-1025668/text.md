@@ -55,30 +55,15 @@
 
 ### ART. 2.
 
-De verzamelaanvraag bevat :<br>
-1° de activering van betalingsrechten conform artikel 27 van het besluit van 24 oktober 2014;<br>
-2° de aangifte van alle landbouwareaal, vermeld in artikel 4, lid 1, e), van verordening (EU) nr. 1307/2013;<br>
-3° de aangifte van&nbsp;de vergroeningselementen, vermeld in hoofdstuk 3, afdeling 3, van het besluit van 24 oktober 2014, die de landbouwer wil gebruiken in het kader van de vergroeningspremie en om te voldoen aan de verplichting van het ecologisch aandachtsgebied;<br>
-4° de aangifte van percelen in het kader van het Mestdecreet van 22 december 2006;<br>
-5° de aangifte van niet-landbouwareaal ter uitvoering van het Mestdecreet van 22 december 2006;<br>
-6° de aanvraag voor de jonge landbouwersbetaling, vermeld in hoofdstuk 3, afdeling 4, van het besluit van 24 oktober 2014;<br>
-7° ...<br>
-8° de betalingsaanvraag voor agromilieuverbintenissen en beheerovereenkomsten, vermeld in artikel 12, § 3, tweede lid, van het besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van subsidies voor de uitvoering van agromilieu- en klimaatmaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020;<br>
-9° de betalingsaanvraag of de aangifte van percelen waarvoor een beheerovereenkomst gesloten is;<br>
-10° de aanvraag voor nieuwe verbintenissen en de betalingsaanvraag voor de hectaresteun voor biologische productiemethode, vermeld in artikel 6, eerste en vierde lid, van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
-11° de aangifte van percelen voor biocertificering en de percelen die al gecertificeerd zijn;<br>
-12° de betalingsaanvraag voor inkomenscompensatie en onderhoudssubsidie voor bebossing van landbouwgronden, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 14 november 2008 betreffende de subsidiëring van de bebossing van landbouwgronden ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);<br>
-13° de betalingsaanvraag voor de aanplantsubisidie voor boslandbouwsystemen, vermeld in artikel 5, § 3, tweede lid, van het besluit van de Vlaamse Regering van 30 juli 2014 betreffende het verlenen van subsidies voor de aanplant van boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2014-2020;<br>
-14° de aangifte van de teelten waarvoor steun wordt aangevraagd in het kader van het doel, vermeld in artikel 33, lid 1, e), van verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad;<br>
-15° de aangifte van percelen waarop dieren geplaatst zijn, in het kader van diergebonden steunmaatregelen;<br>
-16° de aangifte en de aanvraag van een teelttoestemming voor hennep, vermeld in artikel 21 van het besluit van 24 oktober 2014;<br>
-17° de aangifte van niet-productieve investeringen, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 2 oktober 2015 betreffende steun aan niet-productieve investeringen en aan de ontwikkeling van kleine landbouwbedrijven;<br>
-18° een aanvraag van nieuwe betalingsrechten of van een verhoging van betalingsrechten uit de reserve als vermeld in artikel 33, § 3, tweede lid, van het besluit van 24 oktober 2014;<br>
-19° de facultatieve aangifte van boslandbouwsystemen met het oog op de vrijstelling van de vergunningsplicht, vermeld in artikel 8, § 2, van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu.
+...
 
 ### ART. 3.
 
-<P>Een   landbouwer die een handeling als vermeld in artikel 2 van dit besluit, wil   stellen, vult de verzamelaanvraag naar behoren in met alle informatie die   daarvoor vereist is, en dient ze in met het elektronische formulier dat de   bevoegde entiteit via het e-loket ter beschikking stelt. Hij ondertekent de   verzamelaanvraag op de wijze, vermeld in artikel 68 van het besluit van 24   oktober 2014. De landbouwers die niet beschikken over de nodige   informaticamiddelen om de verzamelaanvraag elektronisch in te dienen, kunnen   voor de elektronische aangifte mandaat geven aan derden of een beroep doen op de   infrastructuur die de bevoegde entiteit ter beschikking stelt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   landbouwer ontvangt ter voorbereiding van zijn aangifte een voorbereidingsblad,   dat als bijlage 2 bij dit besluit is gevoegd en dat gepersonaliseerd is op basis   van de gegevens waarover de bevoegde entiteit beschikt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   personen die niet beschikken over een e-ID of die niet de mogelijkheid hebben om   te beschikken over een andere aanmeldings- en authenticatiemogelijkheid die   ondersteund wordt door FedICT, mogen in afwijking van het eerste lid de aanvraag   indienen met het papieren formulier dat de bevoegde entiteit ter beschikking   stelt. Dat formulier wordt volledig ingevuld en ondertekend ingediend bij de   bevoegde entiteit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een landbouwer die een handeling als vermeld in artikel 4, § 1 van het besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, wil stellen, vult de verzamelaanvraag naar behoren in met alle informatie die daarvoor vereist is, en dient ze in met het elektronische formulier dat de bevoegde entiteit via het e-loket ter beschikking stelt. Hij ondertekent de verzamelaanvraag op de wijze, vermeld in artikel 68 van het besluit van 24 oktober 2014. De landbouwers die niet beschikken over de nodige informaticamiddelen om de verzamelaanvraag elektronisch in te dienen, kunnen voor de elektronische aangifte mandaat geven aan derden of een beroep doen op de infrastructuur die de bevoegde entiteit ter beschikking stelt.</p>
+
+<p>De landbouwer ontvangt ter voorbereiding van zijn aangifte een voorbereidingsblad, dat als bijlage 2 bij dit besluit is gevoegd en dat gepersonaliseerd is op basis van de gegevens waarover de bevoegde entiteit beschikt.</p>
+
+<p>De personen die niet beschikken over een e-ID of die niet de mogelijkheid hebben om te beschikken over een andere aanmeldings- en authenticatiemogelijkheid die ondersteund wordt door FedICT, mogen in afwijking van het eerste lid de aanvraag indienen met het papieren formulier dat de bevoegde entiteit ter beschikking stelt. Dat formulier wordt volledig ingevuld en ondertekend ingediend bij de bevoegde entiteit.</p>
 
 ### ART. 4.
 
@@ -90,14 +75,14 @@ Als   er geen wijzigingen zijn ten opzichte van het voorgaande jaar, kan een   l
 
 ### ART. 6.
 
-<p>De landbouwer geeft in de verzamelaanvraag aan of zijn onderneming of de rechtspersonen waarmee die onderneming verbonden is door een relatie van volledige zeggenschap of een meerderheidsbelang, activiteiten uitvoeren als vermeld in artikel 8 van het besluit van 24 oktober 2014.".<br>
+<p>De landbouwer geeft in de verzamelaanvraag aan of zijn onderneming of de rechtspersonen waarmee die onderneming verbonden is door een relatie van volledige zeggenschap of een meerderheidsbelang, activiteiten uitvoeren als vermeld in artikel 8 van het besluit van 24 oktober 2014.<br>
 <br>
 Als een landbouwer door de bevoegde entiteit niet als actieve landbouwer als vermeld in artikel 8 van het besluit van 24 oktober 2014, wordt beschouwd, brengt de bevoegde entiteit de landbouwer in kwestie daarvan op de hoogte. Een aanduiding in de verzamelaanvraag die ter beschikking wordt gesteld van een individuele landbouwer, geldt als kennisgeving van de beslissing dat de landbouwer in kwestie niet als actief wordt beschouwd en wordt gelijkgesteld met een betekening met een brief.<br>
 <br>
 Het tegenbewijs, vermeld in artikel 8, § 1, van het besluit van 24 oktober 2014, wordt uiterlijk op de uiterste indieningsdatum van de verzamelaanvraag ingediend en kan geleverd worden op de volgende wijze :<br>
 1° de landbouwer in kwestie toont aan dat zijn rechtstreekse betalingen in het meest recente fiscale jaar waarvoor de informatie beschikbaar is, ten minste 5% bedroegen van zijn inkomsten uit niet-landbouwactiviteiten, conform artikel 9, lid 2, a), van verordening (EU) nr. 1307/2013 en artikel 11 en 12 van verordening (EU) nr. 639/2014;<br>
 2° de landbouwer in kwestie toont conform artikel 9, lid 2, b), van verordening (EU) nr. 1307/2013 aan dat zijn landbouwactiviteit niet onaanzienlijk is. Daarvoor toont hij conform artikel 13 van verordening (EU) nr. 639/2014 aan dat hij een derde van zijn totale inkomen uit landbouwactiviteiten gehaald heeft in het meest recente fiscale jaar waarvoor de informatie beschikbaar is;<br>
-3° de landbouwer in kwestie toont conform artikel 9, lid 2, c), van verordening (EU) nr. 1307/2013 en artikel 13, lid 3, van verordening (EU) nr. 639/2014 aan dat zijn voornaamste bedrijfsdoel of -activiteit bestaat uit een landbouwactiviteit.<br>
+3° ...<br>
 <br>
 Als de kennisgeving van de beslissing dat een landbouwer niet wordt beschouwd als actieve landbouwer, minder dan dertig dagen voor de uiterste indieningsdatum van de verzamelaanvraag of, in voorkomend geval, na de uiterste indieningsdatum wordt gegeven, wordt, in afwijking van het derde lid, de termijn om het tegenbewijs te leveren, verlengd tot uiterlijk dertig dagen na de kennisgeving.<br>
 <br>
