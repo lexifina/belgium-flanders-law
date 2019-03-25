@@ -36,13 +36,13 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART 3.
 
-Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit besluit onder de bevoegdheid van de bevoegde entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die onder zijn hiërarchisch gezag staan, tot op het meest functionele niveau.
+...
 
 ### ART 4.
 
-Teeltmateriaal dat officieel als prebasismateriaal, basismateriaal of gecertificeerd materiaal is gecertificeerd, alsook fruitgewassen die officieel als gecertificeerd materiaal zijn gecertificeerd, mogen alleen in de handel worden gebracht als ze aan de voorschriften voor het etiketteren, plomberen en verpakken, vermeld in artikel 5 en 7 voldoen. De leverancier gebruikt een begeleidend document, als vermeld in artikel 6, ter aanvulling van het etiket.<br>
+Teeltmateriaal dat officieel als prebasismateriaal, basismateriaal of gecertificeerd materiaal is gecertificeerd, alsook fruitgewassen die officieel als gecertificeerd materiaal zijn gecertificeerd, mogen alleen in de handel worden gebracht als ze aan de voorschriften voor het etiketteren, plomberen en verpakken, vermeld in artikel 5 en 7 voldoen. De leverancier gebruikt in voorkomend geval een begeleidend document, als vermeld in artikel 6, ter aanvulling van het etiket.<br>
 <br>
-Teeltmateriaal en fruitgewassen die als CAC-materiaal - Conformitas Agraria Communitatis - zijn gekwalificeerd, mogen alleen in de handel worden gebracht als ze aan de voorschriften voor het document van de leverancier, vermeld in artikel 6, voldoen.
+Teeltmateriaal en fruitgewassen die als CAC-materiaal - Conformitas Agraria Communitatis - zijn gekwalificeerd, mogen alleen in de handel worden gebracht als ze aan de voorschriften voor het document van de leverancier, vermeld in artikel 8, voldoen.
 
 ### ART 5.
 
