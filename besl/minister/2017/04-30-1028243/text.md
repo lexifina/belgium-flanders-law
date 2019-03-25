@@ -74,7 +74,10 @@ Dit besluit treedt in werking op 1 mei 2017.
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=236">http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=236</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=236">http://www.ejustice.just.fgov.be/mopdf/2017/05/19_2.pdf#page=236</a><br>
+<br>
+* In bijlage 2 wordt met ingang van 25 maart 2019 bij artikel 55 van het MB van 19 februari 2019, BS 15 maart 2019, de volgende wijziging aangebracht:<br>
+de zin " De ontleding mag niet meer dan twee maanden geleden uitgevoerd zijn." wordt vervangen door de zin: "Het resultaat van de ontleding mag niet ouder zijn dan zes maanden.".
 
 ### BIJLAGE 3
 
