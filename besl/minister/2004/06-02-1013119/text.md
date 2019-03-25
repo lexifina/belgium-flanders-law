@@ -25,388 +25,388 @@ Het technisch controlereglement is verplicht van toepassing op het bosbouwkundig
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Botanische benaming</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Nederlandstalige benaming</p>
 
 			<p>(enkel indicatieve waarde):</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>1° Abies alba Mill.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gewone zilverspar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>2° Abies cephalonica Loud.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>3° Abies grandies Lindl.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Reuzezilverspar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>4° Abies pinsapo Boiss.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>5° Acer platanoides L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Noorse esdoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>6° Acer pseudoplatanus L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gewone esdoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>7° Alnus glutinosa Gaertn.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zwarte els</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>8° Alnus incana Moench.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Grauwe els</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>9° Betula pendula Roth.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Ruwe berk, zilverberk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>10° Betula pubescens Ehrh.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zachte zilverberk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>11° Carpinus betulus L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Haagbeuk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>12° Castanea sativa Mill.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Tamme kastanje</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>13° Cedrus atlantica Carr.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Atlasceder, Atlantische ceder</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>14° Cedrus libani A. Richard</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Libanonceder</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>15° Fagus sylvatica L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Beuk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>16° Fraxinus angustifolia Vahl.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Smalbladige es</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>17° Fraxinus excelsior L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>18° Larix decidua Mill.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gewone es</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>19° Larix x eurolepis Henry</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Europese lork</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>20° Larix kaempferi Carr.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Hybride lork</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>21° Larix sibirica Ledeb.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Goudlork, Japanse lork</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>22° Picea abies Karst.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Siberische lork</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>23° Picea sitchensis Carr.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Fijnspar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>24° Pinus brutia Ten.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Sitka spar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>25° Pinus canariensis C. Smith</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Canarische den</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>26° Pinus cembra L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Arve, alpenden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>27° Pinus contorta Loud.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Draaiden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>28° Pinus halepensis Mill.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Aleppoden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>29° Pinus leucodermis Antoine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Bosnische den</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>30° Pinus nigra Arnold</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zwarte den</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>31° Pinus pinaster Ait.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zeeden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>32° Pinus pinea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Parasolden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>33° Pinus radiata D. Don</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Montereyden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>34° Pinus sylvestris L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Grove den, gewone den</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>35° populus spp. En kunstmatige hybriden van die soorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Populier</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>36° Prunus avium L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zoete kers, boskers</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>37° Pseudotsuga menziesii Franco</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Douglasspar, groene Douglas</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>38° Quercus cerris L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Moseik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>39° Quercus ilex L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Steeneik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>40° Quercus petraea Liebl.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wintereik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>41° Quercus pubescens Willd.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Donzige eik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>42° Quercus robur L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zomereik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>43° Quercus rubra L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Amerikaanse eik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>44° Quercus suber L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Kurkeik</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>45° Robinia pseudoacacia L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Robinia, valse acacia</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>46° Tilia cordata Mill.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Winterlinde, kleinbladige linde</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>47° Tilia platyphyllos Scop.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Zomerlinde, grootbladige linde</p>
 			</td>
 		</tr>
@@ -424,284 +424,284 @@ Het technisch controlereglement is verplicht van toepassing op het bosbouwkundig
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Botanische benaming</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Nederlandstalige benaming</p>
 
 			<p>(enkel indicatieve waarde):</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>1° Acer campestre L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Spaanse aak, veldesdoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>2° Cornus sanguinea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Rode kornoelje</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>3° Corylus avellana L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Hazelaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>4° Crataegus monogyna Jacquin</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Eénstijlige meidoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>5° Crataegus Laevigata (Poiret) DC</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Tweestijlige meidoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>6° Euonymus europaeus L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wilde kardinaalsmuts</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>7° Hippophae rhamnoides L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Duindoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>8° Ilex aquifolium L.&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Hulst</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>9° Juniperus communis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Jeneverbes</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>10° Ligustrum vulgare L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wilde liguster</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>11° Malus sylvestris Miller</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wilde appel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>12° Mespilus germanica L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Mispel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>13° Myrica gale L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wilde gagel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>14° Prunus padus L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Vogelkers</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>15° Prunus spinosa L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Sleedoorn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>16° Rosa canina L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Hondsroos</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>17° rosa arvensis Hudson</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Bosroos, akkerroos</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>18° rosa rubiginosa L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Egelantier</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>19° Rhamnus frangula</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Sporkehout</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>20° Salix alba L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Schietwilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>21° Salix aurita L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Geoorde wilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>22° Salix caprea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Boswilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>23° Salix cinerea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Grauwe wilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>24° Salix fragilis L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Kraakwilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>25° Salix purpurea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Bittere wilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>26° Salix repens L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Kruipwilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>27° Salix x rubens Schrank</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Bindwilg, gele bindwilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>28° Salix triandra L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Amandelwilg</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>29° Sambucus nigra L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gewone vlier</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>30° Sorbus aucuparia L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Wilde lijsterbes</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>31° Ulmus glabra Hudson</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Ruwe iep (olm)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>32° Ulmus laevis Pallas</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Fladderiep, steeliep</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>33° Ulmus minor Miller</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gladde iep</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>34° Viburnum populus L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Gelderse roos</p>
 			</td>
 		</tr>
@@ -841,129 +841,129 @@ Onderstaande tabel geeft een overzicht van de categorieën waaronder teeltmateri
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:368.5pt">
+			<td colspan="4" style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:368.5pt">
 			<p>Categorie bosbouwkundig teeltmateriaal</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Type uitgangsmateriaal</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Van bekende origine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Geselecteerd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>Gekeurd</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>Getest</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Zaadbron</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Bestand</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Zaadtuin</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Ouderplanten van familie(s)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Kloon</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Mengsel van klone</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>X</p>
 			</td>
 		</tr>
@@ -1205,15 +1205,15 @@ zaden per kilogram (*);<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>NAALDBOMEN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Hoeveelheid (in gram)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Abies alba Mill.</p>
 
 			<p>Abies cephalonica Loud.</p>
@@ -1262,7 +1262,7 @@ zaden per kilogram (*);<br>
 
 			<p>Pseudotsuga menziesii Franco</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>1.200</p>
 
 			<p>1.800</p>
@@ -1313,15 +1313,15 @@ zaden per kilogram (*);<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>LOOFBOMEN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Acer platanoides L.</p>
 
 			<p>Acer pseudoplatanus L.</p>
@@ -1368,7 +1368,7 @@ zaden per kilogram (*);<br>
 
 			<p>Tilia platyphyllos Scop.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>3.500</p>
 
 			<p>3.000</p>
@@ -1496,8 +1496,6 @@ Met de bedoeling kruiscontroles te kunnen uitvoeren ontvangt de entiteit informa
 1.6.7 Bijzondere identificatie en bijzondere documenten<br>
 <br>
 Wanneer een basiscertificaat wordt uitgereikt kan de partij waarop de keuringsverrichting betrekking heeft, door de entiteit op een voor haar geschikte manier geïdentificeerd worden.<br>
-<br>
-Indien voor de douane een bijzonder document vereist is dient dit tijdig aan de entiteit aangevraagd te worden.<br>
 <br>
 HOOFDSTUK 2<br>
 <br>
@@ -1676,79 +1674,79 @@ vii) ze mogen geen buitensporige stamkromming vertonen.<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; vertical-align:top; width:153.5pt">
 			<p>Klasse</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>Minimum-doorsnee op halve hoogte (mm)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>Minimum-hoogte (m)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>Niet-mediterrane gebieden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>N1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>1,5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>N2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>3,0</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>Mediterrane gebieden</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>S1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>3,0</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:153.5pt">
 			<p>S2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:153.55pt">
 			<p>4,0</p>
 			</td>
 		</tr>
@@ -1784,186 +1782,186 @@ b) Grootte van de planten<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; vertical-align:top; width:92.1pt">
 			<p>Soort</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Maximumleeftijd (jaar)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Minimumhoogte (cm)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>Maximumhoogte (cm)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>Minimumdoorsnee van de wortelhals (mm)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Pinus halepensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>8</p>
 
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>25</p>
 
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>2</p>
 
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Pinus leucodermis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>8</p>
 
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>25</p>
 
 			<p>35</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>2</p>
 
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Pinus nigra</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>8</p>
 
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>15</p>
 
 			<p>20</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>2</p>
 
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Pinus pinaster</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>7</p>
 
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>30</p>
 
 			<p>45</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>2</p>
 
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Pinus pinea</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>10</p>
 
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>30</p>
 
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>3</p>
 
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Quercus ilex</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>8</p>
 
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>30</p>
 
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>2</p>
 
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:92.1pt">
 			<p>Quercus suber</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.1pt">
 			<p>13</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>60</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:92.15pt">
 			<p>3</p>
 			</td>
 		</tr>
@@ -1981,20 +1979,20 @@ b) Grootte van de planten<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; vertical-align:top; width:230.3pt">
 			<p>Soort</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Minimuminhoud van de container (cm<sup>3</sup>)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; vertical-align:top; width:230.3pt">
 			<p>Pinus pinaster</p>
 
 			<p>Andere soorten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; vertical-align:top; width:230.3pt">
 			<p>120</p>
 
 			<p>200</p>

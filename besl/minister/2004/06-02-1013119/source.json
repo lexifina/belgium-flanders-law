@@ -2,16 +2,16 @@
   "codex_id": 1013119,
   "title": "Ministerieel besluit van 2004-06-02 tot vaststelling van een technisch controlereglement betreffende het bosbouwkundig teeltmateriaal",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013119/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "668fa5bd47f432f45fbca3f32765a4be9d5e1c7d32f344fa3546975b9c1fd3ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013119/VolledigDocument?datum=2019-03-25",
+  "source_sha256": "bb063d186fb311e2d6ae88eccd63a72d9764c5b71a72c923d115a4663484ad26",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013119&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2019-03-25",
   "made": "2004-06-02",
   "gazette": "2004-06-17",
   "numac": 0,
   "document_start": "2004-06-17",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2019-03-25",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-03-25; future article versions excluded; article text as the API gives it"
 }
