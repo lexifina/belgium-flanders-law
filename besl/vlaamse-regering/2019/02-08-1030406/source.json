@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030406,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-08 tot wijziging van diverse bepalingen van het besluit van 15 juli 2002 betreffende de verscherpte loodsplicht voor vaartuigen in de Belgische territoriale zee en vaarwateren onder de bevoegdheid van het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030406/VolledigDocument?datum=2019-03-25",
+  "source_sha256": "9371a105966375308e25055f3bbc2c4f0d8072c7908689c0b12f4da48161d306",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030406&param=informatie",
+  "as_of": "2019-03-25",
+  "made": "2019-02-08",
+  "gazette": "2019-03-15",
+  "numac": 2019040614,
+  "document_start": "2019-03-25",
+  "document_end": null,
+  "in_force": "2019-03-25",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2019-03-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
