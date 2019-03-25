@@ -316,9 +316,11 @@ Voor de raadpleging van de tabel, zie beeld&nbsp;</p>
 <p>Door de inschrijving machtigt de inschrijver de procesverantwoordelijke om aan de kwekers, de instandhouders of mandatarissen, op hun verzoek, over in Vlaanderen beschermde rassen de volgende gegevens te melden:<br>
 - de identiteit van de inschrijver;<br>
 - de ter keuring aangeboden en bij de veldkeuring aanvaarde oppervlakten;<br>
-- de hoeveelheden officieel goedgekeurde pootaardappelen in elke categorie en klasse.</p>
-
-<p>De overdracht van teelten of van hun opbrengsten die niet aan de keuring zijn onttrokken, brengt ook de overdracht van die toestemming mee.</p>
+- de hoeveelheden officieel goedgekeurde pootaardappelen in elke categorie en klasse.<br>
+<br>
+Als een inschrijver een teeltinschrijving doet in het kader van een contract met een contractant, worden de naam en het adres van die contractant bij de inschrijving gemeld en machtigt de inschrijver door de inschrijving de contractant met wie hij het contract heeft gesloten, om inzage te krijgen in de resultaten van veld- en partijkeuringen en analyses van de teelten die onder dat contract ingeschreven zijn.<br>
+<br>
+De overdracht van teelten of van hun opbrengsten die niet aan de keuring zijn onttrokken, brengt ook de overdracht van die toestemming mee.</p>
 
 <p>3.1.3. Oorsprong van de partijen pootaardappelen die als uitgangsmateriaal worden gebruikt</p>
 
@@ -914,13 +916,13 @@ X = geen onderzoek<br>
 			<td>PVY %</td>
 			<td>2,2</td>
 			<td>6,7</td>
-			<td>8,7</td>
+			<td>8,8</td>
 		</tr>
 		<tr>
 			<td>TOTAAL %</td>
 			<td>2,2</td>
 			<td>6,7</td>
-			<td>8,7</td>
+			<td>8,8</td>
 		</tr>
 	</tbody>
 </table>
@@ -930,7 +932,7 @@ X = geen onderzoek</p>
 
 <p>5.4. Beroepsmogelijkheden<br>
 <br>
-Als de inschrijver de resultaten van de virologische test betwist, kan hij maar één keer beroep aantekenen. Hij vraagt daarvoor binnen vijf werkdagen na de datum van de bekendmaking door de bevoegde entiteit schriftelijk een nieuwe analyse aan bij de sectorverantwoordelijke. Voor de nieuwe analyse neemt de keurmeester nieuwe monsters als de partij duidelijk geïdentificeerd is als vermeld in punt 6.1. De testen moeten uitgevoerd worden in een officieel laboratorium als vermeld in 1.1.6.<br>
+Als de inschrijver de resultaten van de virologische test betwist, kan hij maar één keer beroep aantekenen. Hij vraagt daarvoor binnen vijf werkdagen na de datum van de bekendmaking door de bevoegde entiteit schriftelijk een nieuwe analyse aan bij de sectorverantwoordelijke. Voor de nieuwe analyse neemt de keurmeester nieuwe monsters als de partij duidelijk geïdentificeerd is als vermeld in punt 6.1. De testen moeten uitgevoerd worden in een officieel laboratorium als vermeld in 1.1.6. of in een officieel laboratorium erkend door de bevoegde keuringsdienst van een andere Europese lidstaat.<br>
 <br>
 Bij een nieuwe analyse voor beroep kunnen de testen beperkt blijven tot het kenmerk dat aan de basis ligt van het ongunstige resultaat als er geen interactie mogelijk is met de andere kenmerken en op voorwaarde dat de oorspronkelijke analyse heeft aangetoond dat de andere virussen niet aanwezig zijn.<br>
 <br>
