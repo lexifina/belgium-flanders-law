@@ -18,7 +18,11 @@ Besluit :
 
 ### ART. 1.
 
-Met behoud van de toepassing van de definities, vermeld in het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten, wordt in dit besluit verstaan onder:<br />1°besluit van de Vlaamse Regering van 12 december 2008: besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten;<br />2° marktdeelnemersnummer: het unieke nummer van de marktdeelnemer dat toegekend is door het controleorgaan, dat voorafgegaan wordt door de eerste letter van het controleorgaan of de betreffende afdeling van het controleorgaan;<br />3° GN-code: code van de gecombineerde nomenclatuur, vermeld in verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief;<br />4° de databank: de databank, vermeld in artikel 48 van verordening 889/2008. Voor Vlaanderen is dat het Vlaamse onderdeel van www.organicXseeds.be.
+Met behoud van de toepassing van de definities, vermeld in het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten, wordt in dit besluit verstaan onder:<br>
+1°besluit van de Vlaamse Regering van 12 december 2008: besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten;<br>
+2° marktdeelnemersnummer: het unieke nummer van de marktdeelnemer dat toegekend is door het controleorgaan, dat voorafgegaan wordt door de eerste letter van het controleorgaan of de betreffende afdeling van het controleorgaan;<br>
+3° GN-code: code van de gecombineerde nomenclatuur, vermeld in verordening (EEG) nr. 2658/87 van de Raad van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief;<br>
+4° de databank: de databank, vermeld in artikel 48 van verordening 889/2008.
 
 ## TITEL II. Door de controleorganen aan te leveren cijfergegevens
 
@@ -110,19 +114,35 @@ Het controleorgaan levert de gegevens, vermeld in artikel 5, § 1, 2°, en   in 
 
 ### ART. 17.
 
-De aanvraag, vermeld in artikel 7, § 3, van het besluit van de Vlaamse Regering van 12 december 2008, moet gedateerd en ondertekend worden en moet minstens de volgende gegevens bevatten:<br />1° het ondernemingsnummer;<br />2° de bedrijfsnaam;<br />3° het adres van de maatschappelijke zetel en, indien verschillend, het adres van het verkooppunt;<br />4° de naam, het telefoonnummer en eventueel het e-mailadres van de bedrijfsverantwoordelijke;<br />5° de verkoopsactiviteit waarvoor een vrijstelling wordt gevraagd:<br />a) verkoop van voorverpakte biologische producten;<br />b) verkoop van niet-voorverpakte biologische producten, waarvan de totale aankoopwaarde tijdens het vorige kalenderjaar minder dan 5000 euro bedraagt;<br />c) verkoop van zowel voorverpakte als niet-voorverpakte biologische producten, waarbij de totale aankoopwaarde van de niet-voorverpakte biologische producten tijdens het vorige kalenderjaar minder dan 5000 euro bedraagt;<br />6° de producten die verkocht worden:<br />a) onverwerkte landbouwproducten;<br />b) diervoeder;<br />c) verwerkte landbouwproducten voor gebruik als levensmiddel;<br />d) vegetatief teeltmateriaal en zaaizaad;<br />e) andere producten.<br /><br />Een model van bekendmaking is beschikbaar op de website van de Vlaamse overheid: http://www.vlaanderen.be/landbouw.<br /><br />De aanvraag kan elektronisch ingediend worden via de website, vermeld in het tweede lid.
+...
 
 ## TITEL IV. [... (opgeh. MB 19 februari 2019, art. 9, I: 25 maart 2019)]
 
 ### ART. 18.
 
-§ 1. De melding, vermeld in artikel 11 van het besluit van de Vlaamse   Regering van 12 december 2008, moet gedagtekend en ondertekend worden en moet   minstens de volgende gegevens bevatten:<BR>1° het ondernemingsnummer van het   bedrijf;<BR>2° de bedrijfsnaam;<BR>3° het marktdeelnemersnummer;<BR>4° het   bedrijfsadres;<BR>5° de voor- en achternaam, het telefoonnummer en eventueel het   e-mailadres van de bedrijfsverantwoordelijke; <BR>6° de naam van het   controleorgaan van de invoerder; <BR>7° de regeling waaronder de ingevoerde   producten vallen: <BR>a) invoer van overeenstemmende producten als vermeld in   artikel 32 van verordening 834/2007;<BR>b) invoer van gelijkwaardige producten   als vermeld in artikel 33, 2, van verordening 834/2007;<BR>c) invoer van   gelijkwaardige producten als vermeld in artikel 33, 3, van verordening   834/2007;<BR>d) invoer van gelijkwaardige producten als vermeld in artikel 19,   1, van verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008   houdende bepalingen ter uitvoering van verordening (EG) nr. 834/2007 van de Raad   wat de regeling voor de invoer van biologische producten uit derde landen   betreft;<BR>8° de naam, de GN-code, de hoeveelheid en het derde land van   herkomst van de producten;<BR>9° het referentienummer van de zending ingevoerde   producten;<BR>10° de vermoedelijke datum van aankomst of inklaring van de   zending; <BR>11° de naam van het controleorgaan van de exporteur uit het derde   land;<BR>12° de bedrijfsnaam en het adres van de eerste ontvanger van de   producten.<BR><BR>Een model van melding is beschikbaar op de website van de   Vlaamse overheid : http://www.vlaanderen.be/landbouw.<BR><BR>De melding kan   elektronisch ingediend worden via de website, vermeld in het tweede   lid.<BR><BR>§ 2. Nadat de gegevens, vermeld in paragraaf 1, aan de bevoegde   entiteit zijn bezorgd, krijgt het bedrijf vermeld in paragraaf 1, eerste lid,   een bewijs van melding van de bevoegde entiteit. Dat bewijs van melding moet de   producten vergezellen bij de inklaring. Een kopie van het bewijs van melding   wordt door de bevoegde entiteit bezorgd aan het controleorgaan, vermeld in   paragraaf 1, eerste lid, 6°.
+...
 
 ## TITEL V. Criteria voor het bepalen van de vergoedingen
 
 ### ART. 19.
 
-§ 1. Bij het nemen van de beslissing, vermeld in artikel 9, § 2, van het   besluit van de Vlaamse Regering van 12 december 2008 zal rekening gehouden   worden met de volgende criteria:<BR>1° er zijn tarieven voor alle   marktdeelnemers, vermeld in artikel 1, 8° tot en met 18°, van het besluit van de   Vlaamse Regering van 12 december 2008;<BR>2° uit de tariefstelling is duidelijk   af te leiden dat er voldaan is aan de voorwaarden, vermeld in artikel 9, § 2,   derde lid, van het besluit van de Vlaamse Regering van 12 december 2008;<BR>3°   de tarieven zijn voldoende gedifferentieerd naar de omvang en de complexiteit   van de controles. Daarvoor heeft het controleorgaan duidelijk beschreven hoe het   de begrippen omvang en complexiteit definieert; <BR>4° met toepassing van de   bepalingen, vermeld in 3°, staan de tarieven in relatie met te controleren   oppervlaktes, aantallen, hoeveelheden of activiteiten;<BR>5° de voorgestelde   tarieven liggen in de lijn van de tarieven van de andere controleorganen, erkend   conform artikel 12 van het besluit van de Vlaamse Regering van 12 december   2008.<BR><BR>§ 2. Met toepassing van artikel 9, § 2, van het besluit van de   Vlaamse Regering van 12 december 2008 wint de minister advies in bij de volgende   organisaties:<BR>1° Algemeen Boerensyndicaat;<BR>2° BioForum Vlaanderen   vzw;<BR>3° Boerenbond;<BR>4° Certibel;<BR>5° Fedis;<BR>6° Unizo;<BR>7° Vlaams   Agrarisch Centrum.<BR><BR>De minister belast de bevoegde entiteit met het   inwinnen van het advies. De organisaties worden per aangetekende brief verzocht   hun advies te verlenen. De bevoegde entiteit stelt de termijn vast waarin het   advies verleend moet worden. Die termijn moet minstens twintig kalenderdagen   bedragen. Het advies moet gebaseerd zijn op de criteria, vermeld in paragraaf 1.   Het verlenen van advies is facultatief.
+§ 1. Bij het nemen van de beslissing, vermeld in artikel 9, § 2, van het besluit van de Vlaamse Regering van 12 december 2008 zal rekening gehouden worden met de volgende criteria:<br>
+1° er zijn tarieven voor alle marktdeelnemers, vermeld in artikel 1, 8° tot en met 18°, van het besluit van de Vlaamse Regering van 12 december 2008;<br>
+2° uit de tariefstelling is duidelijk af te leiden dat er voldaan is aan de voorwaarden, vermeld in artikel 9, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 december 2008;<br>
+3° de tarieven zijn voldoende gedifferentieerd naar de omvang en de complexiteit van de controles. Daarvoor heeft het controleorgaan duidelijk beschreven hoe het de begrippen omvang en complexiteit definieert;<br>
+4° met toepassing van de bepalingen, vermeld in 3°, staan de tarieven in relatie met te controleren oppervlaktes, aantallen, hoeveelheden of activiteiten;<br>
+5° ...<br>
+<br>
+§ 2. Met toepassing van artikel 9, § 2, van het besluit van de Vlaamse Regering van 12 december 2008 wint de minister advies in bij de volgende organisaties:<br>
+1° Algemeen Boerensyndicaat;<br>
+2° BioForum Vlaanderen vzw;<br>
+3° Boerenbond;<br>
+4° Certibel;<br>
+5° Comeos vzw;<br>
+6° Unizo;<br>
+7° Vlaams Agrarisch Centrum.<br>
+<br>
+De minister belast de bevoegde entiteit met het inwinnen van het advies. De organisaties worden per&nbsp;brief verzocht hun advies te verlenen. De bevoegde entiteit stelt de termijn vast waarin het advies verleend moet worden. Die termijn moet minstens twintig kalenderdagen bedragen. Het advies moet gebaseerd zijn op de criteria, vermeld in paragraaf 1. Het verlenen van advies is facultatief.
 
 ## TITEL VI. Vitaminen bij herkauwers
 
