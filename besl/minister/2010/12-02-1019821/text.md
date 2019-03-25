@@ -16,7 +16,17 @@ In dit besluit wordt verstaan onder :<BR>1° instandhouding in situ : de   insta
 
 ### ART. 3.
 
-§ 1. Met betrekking tot de soorten, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 16 december 2005, worden in dit besluit bepaalde afwijkingen betreffende de instandhouding in situ en het duurzame gebruik van plantaardige genetische hulpbronnen door teelt en in de handel brengen vastgesteld :<br />1°) voor toelating voor opname in de rassenlijst van groentegewassen, vermeld in het besluit van de Vlaamse Regering van 26 september 2008, van instandhoudingsrassen;<br />2°) voor toelating van opname in de onder a) vermelde rassenlijst van voor teelt onder bijzondere omstandigheden ontwikkelde rassen;<br />3°) voor het in de handel brengen van zaaizaad van instandhoudingsrassen, en van voor teelt onder bijzondere omstandigheden ontwikkelde rassen.<br /><br />§ 2. Tenzij het in dit besluit anders wordt bepaald, zijn het besluit, vermeld in paragraaf 1, en het besluit van de Vlaamse Regering van 26 september 2008 van toepassing.<br /><br />§ 3. Dit besluit doet geen afbreuk aan de federale fytosanitaire bevoegdheden, vermeld in het koninklijk besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen.<br /><br />§ 4. De minister erkent organisaties die vertrouwd zijn met plantaardige genetische hulpbronnen, op voorstel van de bevoegde instantie voor plantaardige genetische hulpbronnen. Onderwijsinstellingen, onderzoeksinstellingen of organisaties die technische kennis of ervaring hebben aangaande instandhoudingsrassen of voor teelt onder bijzondere omstandigheden ontwikkelde rassen, komen in aanmerking voor erkenning.<br /><br />
+§ 1. Met betrekking tot de soorten, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 16 december 2005, worden in dit besluit bepaalde afwijkingen betreffende de instandhouding in situ en het duurzame gebruik van plantaardige genetische hulpbronnen door teelt en in de handel brengen vastgesteld :<br>
+1°) voor toelating voor opname in de rassenlijst van groentegewassen, vermeld in het besluit van de Vlaamse Regering van 26 september 2008, van instandhoudingsrassen;<br>
+2°) voor toelating van opname in de&nbsp;in punt 1°&nbsp;vermelde rassenlijst van voor teelt onder bijzondere omstandigheden ontwikkelde rassen;<br>
+3°) voor het in de handel brengen van zaaizaad van instandhoudingsrassen, en van voor teelt onder bijzondere omstandigheden ontwikkelde rassen.<br>
+<br>
+§ 2. Tenzij het in dit besluit anders wordt bepaald, zijn het besluit, vermeld in paragraaf 1, en het besluit van de Vlaamse Regering van 26 september 2008 van toepassing.<br>
+<br>
+§ 3. Dit besluit doet geen afbreuk aan de federale fytosanitaire bevoegdheden, vermeld in het koninklijk besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en plantaardige producten schadelijke organismen.<br>
+<br>
+§ 4. De minister erkent organisaties die vertrouwd zijn met plantaardige genetische hulpbronnen, op voorstel van de bevoegde instantie voor plantaardige genetische hulpbronnen. Onderwijsinstellingen, onderzoeksinstellingen of organisaties die technische kennis of ervaring hebben aangaande instandhoudingsrassen of voor teelt onder bijzondere omstandigheden ontwikkelde rassen, komen in aanmerking voor erkenning.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Instandhoudingsrassen
 
@@ -120,7 +130,12 @@ Een voor teelt onder bijzondere omstandigheden ontwikkeld ras wordt niet toegela
 
 ### ART. 26.
 
-§ 1. In afwijking van artikel 3 van het besluit van de Vlaamse Regering van 16 december 2005 voor de industrie wordt het zaad van een voor teelt onder bijzondere omstandigheden ontwikkeld ras gecontroleerd als standaardzaad van een voor teelt onder bijzondere omstandigheden ontwikkeld ras als het voldoet aan de voorwaarden, vermeld in paragrafen 2 en 3 van dit artikel.<br /><br />§ 2. Het zaad voldoet aan de voorwaarden voor het in de handel brengen van standaardzaad die zijn vermeld in het besluit van de Vlaamse Regering van 16 december 2005,- met uitzondering van de voorschriften betreffende de minimale raszuiverheid.<br /><br />§ 3. Het zaad is voldoende raszuiver.<br /><br />
+§ 1. In afwijking van artikel 3 van het besluit van de Vlaamse Regering van 16 december 2005&nbsp;wordt het zaad van een voor teelt onder bijzondere omstandigheden ontwikkeld ras gecontroleerd als standaardzaad van een voor teelt onder bijzondere omstandigheden ontwikkeld ras als het voldoet aan de voorwaarden, vermeld in paragrafen 2 en 3 van dit artikel.<br>
+<br>
+§ 2. Het zaad voldoet aan de voorwaarden voor het in de handel brengen van standaardzaad die zijn vermeld in het besluit van de Vlaamse Regering van 16 december 2005,- met uitzondering van de voorschriften betreffende de minimale raszuiverheid.<br>
+<br>
+§ 3. Het zaad is voldoende raszuiver.<br>
+&nbsp;
 
 ### ART. 27.
 
@@ -162,20 +177,20 @@ Dit besluit treedt in werking op 31 december 2010.<br /><br />
 
 ### BIJLAGE 1
 
-Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instandhoudingsrassen als vermeld in artikel 15<br>
+Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instandhoudingsrassen als vermeld in artikel 16<br>
 &nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Botanische benaming</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Maximumaantal hectare per lidstaat voor de teelt van groente per instandhoudingsras</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Allium cepa L. - Cepa-groep<br>
 			Brassica oleracea L.<br>
 			Brassica rapa L.<br>
@@ -191,12 +206,12 @@ Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instand
 			Pisum sativum L. (partim)<br>
 			Vicia faba L. (partim)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Allium cepa L. - Aggregatum-groep<br>
 			Allium porrum L.<br>
 			Allium sativum L.<br>
@@ -208,12 +223,12 @@ Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instand
 			Solanum melongena L.<br>
 			Spinacia oleracea L.</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Allium fistulosum L.<br>
 			Allium schoenoprasum L.<br>
 			Anthriscus cerefolium (L.) Hoffm.<br>
@@ -228,7 +243,7 @@ Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instand
 			Valerianella locusta (L.) Laterr.<br>
 			Zea mays L. (partim)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>10</p>
 			</td>
 		</tr>
