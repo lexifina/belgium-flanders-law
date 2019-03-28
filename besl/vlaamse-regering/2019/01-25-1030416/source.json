@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030416,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 houdende indeling bij de gemeentewegen van de gewestwegen Hof te Walle, Wallemolenstraat en Doorniksesteenweg (lengte 470 meter) op het grondgebied van de stad Kortrijk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030416/VolledigDocument?datum=2019-03-28",
+  "source_sha256": "f9b2fd33ce05ef0e42f44a26a6f032c10a1c00470ef04619af0fe397313923e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030416&param=informatie",
+  "as_of": "2019-03-28",
+  "made": "2019-01-25",
+  "gazette": "2019-03-18",
+  "numac": 2019011112,
+  "document_start": "2019-03-28",
+  "document_end": null,
+  "in_force": "2019-03-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
