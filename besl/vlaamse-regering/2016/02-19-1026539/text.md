@@ -28,7 +28,31 @@ Overeenkomstig artikel 7, lid 3, van de verordening worden   pelsdieren gedood i
 
 ### ART. 5.
 
-<P>§ 1. Het getuigschrift van vakbekwaamheid wordt verkregen door   een opleiding over het slachten of doden van dieren te volgen en door te slagen   voor een onafhankelijk examen als vermeld in artikel 21, lid 1, b), van de   verordening.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De opleiding wordt verzorgd door een functionaris voor het dierenwelzijn als   vermeld in artikel 8, of door een andere persoon die aantoonbare expertise heeft   in het domein van dierenwelzijn bij het slachten en doden, op basis van een   cursus die de dienst heeft goedgekeurd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Het examen wordt afgenomen door een opleidingsinstituut of vindt plaats onder   toezicht van een officiële dierenarts en bestaat uit ten minste vijftien vragen   per diersoort waarvoor de kandidaat examen wil afleggen. De vragen komen uit een   lijst die de dienst heeft goedgekeurd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   officiële dierenarts: de dierenarts die door de bevoegde overheid aangesteld is   om de dierenwelzijnscontroles in de slachthuizen uit te voeren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   opleidingsinstituut: een publieke of private instelling die opleidingen aanbiedt   en die opgericht, gesubsidieerd of erkend is door de bevoegde overheid om   opleidingen te verstrekken.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   te slagen voor het examen, behaalt de kandidaat ten minste 60% van de   punten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   de kandidaat niet geslaagd is voor het examen, wacht hij ten minste een week   voor hij opnieuw examen kan afleggen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. De organisator van het examen, vermeld in paragraaf 1, levert de   getuigschriften van vakbekwaamheid af, of stuurt de lijst van geslaagde personen   door naar de dienst, waarna de dienst de getuigschriften aflevert.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   5. De getuigschriften van vakbekwaamheid worden opgesteld overeenkomstig het   modelformulier, opgenomen in bijlage 1, die bij dit besluit is   gevoegd.</P>
+<p>§ 1. Het getuigschrift van vakbekwaamheid wordt verkregen door een opleiding over het slachten of doden van dieren te volgen en door te slagen voor een onafhankelijk examen als vermeld in artikel 21, lid 1, b), van de verordening.</p>
+
+<p>§ 2. De opleiding wordt verzorgd door een functionaris voor het dierenwelzijn als vermeld in artikel 7, of door een andere persoon die aantoonbare expertise heeft in het domein van dierenwelzijn bij het slachten en doden, op basis van een cursus die de dienst heeft goedgekeurd. Overeenkomstig artikel 21, lid 1, b) van de verordening behandelt de opleiding alle onderwerpen, vermeld in bijlage IV van de verordening, die relevant zijn voor de taken van het personeelslid.</p>
+
+<p>§ 3. Het examen wordt afgenomen door een opleidingsinstituut of vindt plaats onder toezicht van een officiële dierenarts en bestaat uit ten minste vijftien vragen per diersoort waarvoor de kandidaat examen wil afleggen. De vragen komen uit een lijst die de dienst heeft goedgekeurd.</p>
+
+<p>In het eerste lid wordt verstaan onder:<br>
+1° officiële dierenarts: de dierenarts die door de bevoegde overheid aangesteld is om de dierenwelzijnscontroles in de slachthuizen uit te voeren;<br>
+2° opleidingsinstituut: een publieke of private instelling die opleidingen aanbiedt en die opgericht, gesubsidieerd of erkend is door de bevoegde overheid om opleidingen te verstrekken.</p>
+
+<p>Om te slagen voor het examen, behaalt de kandidaat ten minste 60% van de punten.</p>
+
+<p>Als de kandidaat niet geslaagd is voor het examen, wacht hij ten minste een week voor hij opnieuw examen kan afleggen.</p>
+
+<p>§ 4. De organisator van het examen, vermeld in paragraaf 1, levert de getuigschriften van vakbekwaamheid af, of stuurt de lijst van geslaagde personen door naar de dienst, waarna de dienst de getuigschriften aflevert.</p>
+
+<p>§ 5. De getuigschriften van vakbekwaamheid worden opgesteld overeenkomstig het modelformulier, opgenomen in bijlage 1, die bij dit besluit is gevoegd.</p>
+
+### ART 5/1.
+
+De bedrijfsexploitant van het slachthuis ziet erop toe dat elk personeelslid dat met levende dieren omgaat ten minste driejaarlijks een herhalingsopleiding volgt.<br>
+<br>
+De herhalingsopleiding wordt gegeven door een functionaris voor het dierenwelzijn als vermeld in artikel 7, of door een andere persoon die een aantoonbare expertise heeft op het vlak van dierenwelzijn bij het slachten en doden. Ze behandelt alle onderwerpen, vermeld in bijlage IV van de verordening, die relevant zijn voor de taken van de personeelsleden in kwestie.<br>
+<br>
+De bedrijfsexploitant bewaart de inhoud van de herhalingsopleidingen en de getekende aanwezigheidslijsten gedurende ten minste vier jaar. Hij bezorgt die documenten op verzoek aan de dienst.
 
 ### ART. 6.
 
@@ -38,11 +62,45 @@ Overeenkomstig artikel 21, lid 5, van de verordening kunnen   beginnende persone
 
 ### ART. 7.
 
-De   functionaris voor het dierenwelzijn die overeenkomstig artikel 17 van de   verordening moet worden aangewezen voor de erin vermelde slachthuizen, is   geslaagd voor het examen dat volgt op een opleiding tot functionaris voor het   dierenwelzijn, georganiseerd door een universiteit of   hogeschool.
+§ 1. De dienst levert het getuigschrift van vakbekwaamheid als bedoeld in artikel 17, lid 4, van de verordening af aan personen die :<br>
+1° overeenkomstig artikel 21, lid 6, van de verordening, onverminderd een besluit van een rechterlijke autoriteit of een bevoegde autoriteit tot instelling van een verbod op het behandelen van dieren, een schriftelijke verklaring overleggen die bevestigt dat ze zich in de drie jaar voorafgaand aan de datum van de aanvraag niet schuldig hebben gemaakt aan ernstige overtredingen van de communautaire wetgeving inzake de bescherming van dieren en/of de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, en de uitvoeringsbesluiten ervan;<br>
+2° overeenkomstig de artikelen 17, lid 4, en 21, lid 1, van de verordening, geslaagd zijn voor een examen na het volgen van een opleiding tot functionaris voor het dierenwelzijn. De opleiding wordt georganiseerd door een universiteit, een hogeschool of een andere organisatie die aantoonbare expertise heeft op het vlak van dierenwelzijn bij het slachten en doden en die goedgekeurd is door de dienst. De opleiding behandelt ten minste de onderwerpen, vermeld in bijlage IV van de verordening, aangevuld met de regelgeving over het dierenwelzijn bij het slachten en doden en de recente wetenschappelijke inzichten over het dierenwelzijn bij het slachten en doden.<br>
+<br>
+§ 2. Het getuigschrift van vakbekwaamheid als functionaris voor het dierenwelzijn is vijf jaar geldig.<br>
+<br>
+§ 3. Getuigschriften van vakbekwaamheid als functionaris voor het dierenwelzijn die zijn uitgereikt voor de dag van de inwerkingtreding van het besluit van de Vlaamse Regering van 8 februari 2019 tot wijziging van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bescherming van dieren bij het slachten of doden, wat betreft de opleiding van het slachthuispersoneel en de functionaris voor het dierenwelzijn en de onafhankelijkheid van de functionaris voor het dierenwelzijn, zijn geldig tot vijf jaar na de dag van inwerkingtreding van hetzelfde besluit.<br>
+<br>
+§ 4. Als de functionaris voor het dierenwelzijn voor 1 januari 2015 geslaagd is voor een examen dat heeft geleid tot een getuigschrift van vakbekwaamheid, wordt de geldigheidsduur van het getuigschrift van vakbekwaamheid, in afwijking van paragraaf 3, beperkt tot twee jaar na de dag van de inwerkingtreding van het besluit van de Vlaamse Regering van 8 februari 2019 tot wijziging van het besluit van de Vlaamse Regering van 19 februari 2016 betreffende de bescherming van dieren bij het slachten of doden, wat betreft de opleiding van het slachthuispersoneel en de functionaris voor het dierenwelzijn en de onafhankelijkheid van de functionaris voor het dierenwelzijn.<br>
+<br>
+§ 5. De functionaris voor het dierenwelzijn volgt gedurende ten minste zes uur herhalingsopleidingen voordat de geldigheidstermijn van het getuigschrift van vakbekwaamheid, vermeld in paragraaf 2, is verstreken. De herhalingsopleidingen worden georganiseerd door een universiteit, een hogeschool of een andere organisatie die aantoonbare expertise heeft op het vlak van dierenwelzijn bij het slachten en doden en die goedgekeurd is door de dienst. De herhalingsopleiding behandelt ten minste de onderwerpen, vermeld in bijlage IV van de verordening, aangevuld met de regelgeving over het dierenwelzijn bij het slachten en doden en de recente wetenschappelijke inzichten over het dierenwelzijn bij het slachten en doden.<br>
+<br>
+De functionaris voor het dierenwelzijn bezorgt het aanwezigheidsattest van de gevolgde herhalingsopleidingen aan de dienst voordat de geldigheidstermijn, vermeld in paragraaf 2, is verstreken. Na de ontvangst van de aanwezigheidsattesten verlengt de dienst de geldigheidsduur van het getuigschrift van vakbekwaamheid met vijf jaar.
+
+### ART 7/1.
+
+Als de functionaris voor het dierenwelzijn ernstige overtredingen begaat tegenover de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren en de uitvoeringsbesluiten ervan, of als hij geen gepaste maatregelen neemt als zich ernstige dierenwelzijnsproblemen voordoen in het slachthuis, kan de dienst het getuigschrift van vakbekwaamheid, vermeld in artikel 7 van dit besluit, schorsen of intrekken.<br>
+<br>
+De functionaris voor het dierenwelzijn wordt met een aangetekende brief op de hoogte gebracht van de intentie om zijn getuigschrift van vakbekwaamheid te schorsen of in te trekken. Hij kan binnen vijftien dagen vanaf de dag van de ontvangst van de voormelde brief zijn opmerkingen aan de dienst bezorgen. Als die termijn is verstreken, neemt de dienst de definitieve beslissing over het schorsen of intrekken van het getuigschrift van vakbekwaamheid.
+
+### ART 7/2.
+
+In de slachthuizen die conform artikel 17 van de verordening een functionaris voor het dierenwelzijn moeten benoemen, is de functionaris voor het dierenwelzijn op jaarbasis tijdens ten minste de helft van de uren dat er dieren geslacht worden in het slachthuis aanwezig.<br>
+<br>
+De standaardwerkwijzen en de instructies aan het personeel vermelden duidelijk hoe de functionaris voor het dierenwelzijn kan worden gecontacteerd als hij niet aanwezig is op de slachtvloer op het ogenblik dat er dieren geslacht worden.
+
+### ART 7/3.
+
+Bij de uitvoering van zijn opdrachten handelt de functionaris voor het dierenwelzijn in volledige onafhankelijkheid. Hij heeft toegang tot alle gegevens en lokalen van het slachthuis die relevant zijn voor zijn opdracht.<br>
+<br>
+De belangrijkste opdracht van de functionaris voor het dierenwelzijn is het bewaken van het dierenwelzijn. Als de bedrijfsexploitant van het slachthuis nalaat om de nodige maatregelen te nemen om het dierenwelzijn te beschermen, meldt de functionaris voor het dierenwelzijn dat per schriftelijke of elektronische zending aan de dienst en brengt hij de bedrijfsexploitant ervan op de hoogte dat hij een melding heeft ingediend. In de periode tussen de melding en het afsluiten van het dossier door de dienst, kan de functionaris voor het dierenwelzijn niet ontslagen of vervangen worden, tenzij met een zeer grondige motivering.
 
 ### ART 7/4.
 
 De bedrijfsexploitant bezorgt de naam en de contactgegevens van de functionaris voor het dierenwelzijn binnen veertien dagen na de dag van zijn aanstelling aan de dienst.
+
+### ART 7/5.
+
+De functionaris voor het dierenwelzijn bezorgt de dienst zesmaandelijks een kopie van het register van de maatregelen die zijn genomen om het dierenwelzijn te verbeteren. De dienst kan die frequentie verhogen of verlagen naargelang de inspectieresultaten voor het slachthuis.
 
 ## HOOFDSTUK 4. Indeling, bouw en uitrusting van slachthuizen
 
