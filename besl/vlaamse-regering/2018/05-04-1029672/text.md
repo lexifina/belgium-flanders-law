@@ -1550,7 +1550,7 @@ In afwijking van het eerste lid neemt de minister voor aanvragen tot onderwijsbe
 <br>
 De indeling van opties en muziekinstrumenten in clusters, vermeld in het eerste lid, is opgenomen in bijlage 4, die bij dit besluit is gevoegd.<br>
 <br>
-In afwijking van het eerste lid dient het schoolbestuur aanvragen voor onderwijsbevoegdheid voor het schooljaar 2018-2019 in voor 1 mei 2018.<br>
+In afwijking van het eerste lid dient het schoolbestuur aanvragen voor onderwijsbevoegdheid voor de cluster graffiti/street art of het muziekinstrument banjo die ingaan op 1 september 2019 uiterlijk op 30 april 2019 in.<br>
 <br>
 § 2. Met behoud van de toepassing van de eerste paragraaf motiveert het schoolbestuur van een academie dat conform artikel 130 van het decreet van 9 maart 2018 onderwijsbevoegdheid voor een unieke optie, een cluster van unieke opties, wil verkrijgen, hoe de vraag tot onderwijsbevoegdheid aansluit op het lokale of regionale immaterieel of materieel cultureel erfgoed of aansluit bij de lokale amateurkunstbeoefening. Een unieke optie kan door maximaal vijf academies per provincie worden georganiseerd tenzij de minister een afwijking verleent vanwege het lokale immaterieel of materieel cultureel erfgoed of de aansluiting bij de lokale amateurkunstbeoefening. Het tweetalige gebied Brussel-Hoofdstad wordt voor deze bepaling beschouwd als een provincie.<br>
 <br>
