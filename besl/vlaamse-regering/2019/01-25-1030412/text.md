@@ -236,6 +236,11 @@ In artikel VIII 10, § 1 bis, van het Vlaams personeelsstatuut van 13 januari 20
 
 ## Afdeling 5. Wijzigingen van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer
 
+### ART 6.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende de uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, gewijzigd bij de besluiten van de Vlaamse regering van 29 november 2013 en 2 juni 2017, wordt punt 2° vervangen door wat volgt :<br>
+"2° de toezichtcommissie : de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008;".
+
 ### ART 7.
 
 In artikel 3, tweede lid, van hetzelfde besluit, wordt de zinsnede "de bepalingen van artikel 16, § 1, 1°, van de privacywet, het decreet van 18 juli 2008 en zijn uitvoeringsbesluiten" vervangen door de zinsnede "artikel 28, lid 3, van de algemene verordening gegevensbescherming en de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens".
