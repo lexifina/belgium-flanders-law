@@ -528,7 +528,7 @@ Dit decreet wordt aangehaald als : « het Antidopingdecreet van 25 mei 2012 ».<
 
 De regering kan de maatregelen nemen, met inbegrip van de opheffing, aanvulling, wijziging of vervanging van de decretale bepalingen, die nodig zijn om de omzetting te verzekeren van de verplichte bepalingen die voortvloeien uit de internationale conventie tegen het dopinggebruik in de sport, gesloten in Parijs op 19 oktober 2005 door de Algemene Conferentie van de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur.<br>
 <br>
-De in het vorige lid bedoelde maatregelen die decretale bepalingen opheffen, aanvullen, wijzigen of vervangen en betrekking hebben op&nbsp;de verwerking van persoonsgegevens of op administratieve sancties met een strafrechtelijk karakter, moeten voor advies voorgelegd worden aan de Commissie voor de bescherming van de persoonlijke levenssfeer en binnen een termijn van zes maanden na hun inwerkingtreding worden bekrachtigd bij decreet, bij gebreke waarvan ze ophouden uitwerking te hebben.<br>
+De in het vorige lid bedoelde maatregelen die decretale bepalingen opheffen, aanvullen, wijzigen of vervangen en betrekking hebben op&nbsp;de verwerking van persoonsgegevens of op administratieve sancties met een strafrechtelijk karakter, moeten voor advies voorgelegd worden aan&nbsp;de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en binnen een termijn van zes maanden na hun inwerkingtreding worden bekrachtigd bij decreet, bij gebreke waarvan ze ophouden uitwerking te hebben.<br>
 &nbsp;
 
 ### ART. 73.

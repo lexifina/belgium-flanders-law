@@ -2,16 +2,16 @@
   "codex_id": 1021920,
   "title": "Decreet van 2012-05-25 betreffende de preventie en bestrijding van doping in de sport (citeeropschrift: \"het Antidopingdecreet van 25 mei 2012\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021920/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "963ddf0b99930c8eba4734942ca5095a925bcf8ce9cfed801729b8477d18201b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021920/VolledigDocument?datum=2019-03-29",
+  "source_sha256": "ec7c5c7380f6eaaa5fef5d8c40f06d38e3795f926b7e117770c9f2d46b6c2031",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021920&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-03-29",
   "made": "2012-05-25",
   "gazette": "2012-07-12",
   "numac": 2012035749,
   "document_start": "2012-11-14",
   "document_end": null,
-  "in_force": "2018-05-25",
+  "in_force": "2019-03-29",
   "article_versions": 80,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-03-29; future article versions excluded; article text as the API gives it"
 }
