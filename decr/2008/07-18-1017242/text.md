@@ -113,27 +113,7 @@ De veiligheidsconsulenten die door de instanties werden aangewezen conform artik
 
 ### ART. 10.
 
-§ 1. Er wordt een Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer opgericht, die bestaat uit&nbsp;drie leden en&nbsp;drie plaatsvervangende leden. Hun mandaat duurt vijf jaar en is hernieuwbaar. Die drie leden zijn respectievelijk een jurist, een informaticus en een persoon die beroepservaring kan voorleggen in het beheer van persoonsgegevens.<br>
-<br>
-Binnen de toezichtcommissie kan het Vlaams Parlement kamers oprichten voor specifieke materies.<br>
-<br>
-§ 2. De Vlaamse toezichtcommissie verzoekt de Commissie voor de bescherming van de persoonlijke levenssfeer, vermeld in artikel 114, § 1, tweede lid, van de wet van 3 december 2017 tot oprichting van de Gegevensbeschermingsautoriteit, een lid af te vaardigen om iedere beraadslaging van de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer als waarnemer bij te wonen.<br>
-<br>
-§ 3. De plaatsvervanger vervangt het lid van wie hij de plaatsvervanger is, als dit niet aan de besluitvorming van de toezichtcommissie kan deelnemen wegens een belangenconflict, of in afwachting van zijn vervanging.<br>
-<br>
-Als het mandaat van een lid van de toezichtcommissie een einde neemt voor de vastgestelde datum, voorziet het Vlaams Parlement binnen zes maanden in de vervanging ervan.<br>
-<br>
-Het nieuwe lid voleindigt het mandaat van zijn voorganger.<br>
-<br>
-§ 4. Om tot lid of plaatsvervangend lid aangewezen te kunnen worden en het te kunnen blijven, moet de kandidaat aan de volgende voorwaarden voldoen :<br>
-1° de burgerlijke en politieke rechten genieten;<br>
-2° geen lid zijn van het Europees Parlement, de Senaat, de Kamer van Volksvertegenwoordigers, het Vlaams Parlement of een andere gemeenschaps- of gewestraad;<br>
-3° niet onder het hiërarchische gezag staan van het Vlaams Parlement;<br>
-4° alle waarborgen bieden met het oog op hun onafhankelijke uitoefening van hun opdracht.<br>
-<br>
-§ 5. Het Vlaams Parlement regelt de procedure voor de oproep of de uitnodiging tot kandidaatstelling en voor de kandidaatstelling voor een benoeming als lid of plaatsvervangend lid.<br>
-<br>
-§ 6. De leden van de toezichtcommissie zijn evenwaardig en hebben dezelfde bevoegdheden. Binnen de perken van haar bevoegdheid is de toezichtcommissie volledig onafhankelijk en neutraal en kan zij van geen enkele overheid instructies of bevelen ontvangen. De leden van de toezichtcommissie kunnen niet van hun mandaat worden ontheven voor meningen die ze uiten of daden die ze stellen in het kader van hun functie in de toezichtcommissie.
+...
 
 ### ART 10/1.
 
@@ -168,17 +148,146 @@ De Vlaamse Regering duidt onder de leden een voorzitter aan.<br>
 8° ten minste vijf jaar nuttige beroepservaring hebben op juridisch, administratief of informaticatechnisch gebied;<br>
 9° tijdens de duur van zijn mandaat overeenkomstig artikel 52, lid 3, van de algemene verordening gegevensbescherming, geen handelingen verrichten die onverenigbaar zijn met zijn taken.
 
+### ART 10/2.
+
+§ 1. De leden van de Vlaamse toezichtcommissie kunnen maximaal twee, al dan niet aaneensluitende, mandaten uitoefenen. De mandaten worden niet van rechtswege verlengd. De Vlaamse Regering start ten laatste zes maanden voor het verstrijken van de mandaten de aanstellingsprocedure.<br>
+<br>
+Als het mandaat van een lid een einde neemt voor de vastgestelde datum, start de Vlaamse Regering zo spoedig mogelijk de selectieprocedure met het oog op de aanstelling van een nieuw lid. Het nieuwe lid voleindigt het mandaat van zijn voorganger.<br>
+<br>
+§ 2. Binnen de perken van haar bevoegdheid is de Vlaamse toezichtcommissie volledig onafhankelijk en neutraal en kan de Vlaamse toezichtcommissie, noch haar leden, noch haar personeelsleden, instructies of bevelen van het Vlaams Parlement of van een andere publieke of particuliere entiteit noch op directe noch op indirecte wijze vragen of ontvangen, zoals bepaald in artikel 52, lid 2, van de algemene verordening gegevensbescherming. De Vlaamse toezichtcommissie oefent haar taken en bevoegdheden op onpartijdige, objectieve en transparante wijze uit.<br>
+<br>
+Het mandaat van de leden van de Vlaamse toezichtcommissie kan niet worden beëindigd wegens meningen of daden, gesteld in de normale uitoefeningen van zijn ambt.<br>
+<br>
+§ 3. Het mandaat van het lid van de Vlaamse toezichtcommissie eindigt van rechtswege wanneer hij definitief arbeidsongeschikt wordt verklaard.<br>
+<br>
+De Vlaamse Regering beëindigt het mandaat van het lid van de Vlaamse toezichtcommissie :<br>
+1° op verzoek van het lid;<br>
+2° wanneer het lid niet langer aan de voorwaarden, vermeld in artikel 7, voldoet.<br>
+<br>
+De Vlaamse Regering kan het mandaat van het lid van de Vlaamse toezichtcommissie beëindigen :<br>
+1° wanneer het lid de leeftijd van 67 jaar bereikt;<br>
+2° indien het lid op ernstige wijze is tekortgeschoten in de uitoefening van zijn taak.<br>
+<br>
+§ 4. Vooraleer een beslissing te nemen over de beëindiging van het mandaat, vermeld in paragraaf 3, derde lid, 2°, wordt de betrokkene gehoord over de aangevoerde redenen.<br>
+<br>
+Voorafgaandelijk aan de hoorzitting stelt de Vlaamse Regering een dossier samen dat alle stukken bevat die betrekking hebben op de aangevoerde redenen.<br>
+<br>
+Ten minste vijf dagen voor de hoorzitting wordt de betrokkene opgeroepen bij aangetekende zending met ten minste opgave van :<br>
+1° de aangevoerde ernstige redenen;<br>
+2° het feit dat de opheffing van het mandaat wordt overwogen;<br>
+3° plaats, dag en uur van de hoorzitting;<br>
+4° het recht van de betrokkene zich te laten bijstaan door een persoon naar keuze;<br>
+5° de plaats waar en de termijn waarbinnen het dossier kan worden ingezien;<br>
+6° het recht om getuigen te doen oproepen.<br>
+<br>
+Vanaf de oproeping tot en met de dag voor de hoorzitting kunnen de betrokkene en de persoon die hem bijstaat het dossier inzien.<br>
+<br>
+Van de hoorzitting wordt een verslag opgesteld.<br>
+<br>
+§ 5. Het is de leden verboden aanwezig te zijn bij een beraadslaging of besluit over dossiers waarbij zij een persoonlijk of rechtstreeks belang hebben.<br>
+<br>
+Alvorens hun mandaat aan te vatten, vullen zij een verklaring in dat er geen belangenconflicten zijn en ondertekenen zij deze. Die verklaring wordt tijdens de duur van hun mandaat bij het secretariaat van de Vlaamse toezichtcommissie bewaard.<br>
+<br>
+§ 6. Behoudens wettelijke uitzonderingen zijn de leden en de personeelsleden van de Vlaamse toezichtcommissie tijdens en na de uitoefening van hun respectieve mandaat, statuut en overeenkomst verplicht het vertrouwelijke karakter te bewaren van de feiten, handelingen of inlichtingen waarvan zij uit hoofde van hun functie kennis hebben gehad.<br>
+<br>
+§ 7. De Vlaamse toezichtcommissie kan protocollen inzake de vertrouwelijkheidsplicht sluiten met derde instanties teneinde de uitwisseling van gegevens noodzakelijk voor de uitoefening van haar taken en bevoegdheden te waarborgen.
+
+### ART 10/3.
+
+&nbsp;§ 1. De voorzitter van de Vlaamse toezichtcommissie geeft leiding aan de werkzaamheden van de Vlaamse toezichtcommissie.<br>
+<br>
+De Vlaamse toezichtcommissie stelt een huishoudelijk reglement vast dat in ieder geval nadere regels over het financiële beheer en de administratieve organisatie alsmede over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de verschillende taken en bevoegdheden, vermeld in artikel 57 en 58 van de algemene verordening gegevensbescherming.<br>
+<br>
+Het huishoudelijk reglement wordt ter goedkeuring voorgelegd aan de Vlaamse Regering en na goedkeuring bekendgemaakt in het Belgisch Staatsblad en op de website van de Vlaamse toezichtcommissie.<br>
+<br>
+§ 2. De Vlaamse toezichtcommissie beschikt over personeel dat ter beschikking wordt gesteld door de diensten van de Vlaamse Regering die bevoegd zijn voor het elektronische bestuurlijke gegevensverkeer. De door de voornoemde diensten aan de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10, ter beschikking gestelde statutaire en contractuele personeelsleden worden op de datum van de opheffing van de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer overgedragen naar de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens minstens met behoud van hun hoedanigheid en rechten, hun anciënniteit, hun loon, vergoedingen en toelagen en andere voordelen die hen overeenkomstig de regelgeving of arbeidsovereenkomst werden verleend.<br>
+<br>
+§ 3. De personeelsleden van de Vlaamse toezichtcommissie staan onder de leiding en het gezag van de voorzitter van de Vlaamse toezichtcommissie.<br>
+<br>
+§ 4. De personeelsleden van de Vlaamse toezichtcommissie zijn onderworpen aan de rechtspositieregeling die van toepassing is op de personeelsleden van de diensten van de Vlaamse Regering.<br>
+<br>
+§ 5. De plaatsvervangende voorzitter en de vaste of plaatsvervangende leden hebben recht op presentiegeld voor een bedrag van 294,55 euro (indexcijfer 1,67374). Dat bedrag is gekoppeld aan de evolutie van het indexcijfer van de consumptieprijzen. De voorzitter heeft recht op anderhalve maal het presentiegeld. Alle leden hebben recht op de vergoedingen voor reis- en verblijfskosten overeenkomstig de bepalingen die van toepassing zijn op het personeel van de ministeries.<br>
+<br>
+§ 6. De Vlaamse toezichtcommissie is onderworpen aan de bepalingen zoals opgenomen in titel 3, met uitzondering van artikel 48 en 49, titel 4 en 6, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+De Vlaamse toezichtcommissie voegt bij haar jaarlijks begrotingsvoorstel een werkplan.<br>
+<br>
+§ 7. Overeenkomstig artikel 59 van de algemene verordening gegevensbescherming wordt door de Vlaamse toezichtcommissie een activiteitenverslag opgesteld en bezorgd aan de Vlaamse Regering, de Europese Commissie, het Europees Comité voor gegevensbescherming en de federale Gegevensbeschermingsautoriteit.<br>
+<br>
+Het verslag wordt bekendgemaakt op de website van de Vlaamse toezichtcommissie.<br>
+<br>
+§ 8. De voorzitter van de Vlaamse toezichtcommissie of in voorkomend geval een van de andere leden van de Vlaamse toezichtcommissie kan al dan niet op eigen verzoek te allen tijde door de Vlaamse Regering worden gehoord.
+
+### ART 10/4.
+
+§ 1. De Vlaamse toezichtcommissie verstrekt, hetzij uit eigen beweging, hetzij op verzoek van het Vlaams Parlement of de Vlaamse Regering adviezen omtrent elke aangelegenheid met betrekking tot de verwerkingen van persoonsgegevens.<br>
+<br>
+De Vlaamse toezichtcommissie brengt haar advies uit binnen een termijn van dertig dagen nadat alle daartoe noodzakelijke gegevens aan de Vlaamse toezichtcommissie zijn medegedeeld. In speciaal gemotiveerde dringende gevallen kan de termijn worden teruggebracht tot vijftien dagen.<br>
+<br>
+De adviezen van de Vlaamse toezichtcommissie zijn schriftelijk en met redenen omkleed. Ze worden aan de betreffende instantie meegedeeld.<br>
+<br>
+§ 2. De adviezen en de aanbevelingen omtrent aangelegenheden met betrekking tot de verwerkingen van persoonsgegevens worden op de website van de Vlaamse toezichtcommissie bekendgemaakt. In haar adviezen en aanbevelingen houdt de Vlaamse toezichtcommissie rekening met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen.<br>
+<br>
+§ 3. Overeenkomstig artikel 35, lid 4, van de algemene verordening gegevensbescherming stelt de Vlaamse toezichtcommissie een lijst op van het soort verwerkingen waarvoor een gegevensbeschermingseffectbeoordeling door de instanties verplicht is, en maakt deze openbaar op haar website.
+
+### ART 10/5.
+
+Wanneer de betrokkene, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming, in het kader van een onderzoek dat betrekking heeft op hem of haar overeenkomstig de specifieke decretale bepalingen ter uitvoering van artikel 23, lid 1, e) en h), van de voormelde verordening, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verricht de Vlaamse toezichtcommissie de nodige verificaties en onderzoekt in het bijzonder of correct met toepassing van de voormelde verordeningsbepaling is beslist de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens.<br>
+<br>
+De Vlaamse toezichtcommissie wendt zich daartoe tot de betreffende instantie, en in het geval het dossier inmiddels door de instantie aan het Openbaar Ministerie of de onderzoeksrechter werd bezorgd, wendt de Vlaamse toezichtcommissie zich eveneens tot het Openbaar Ministerie of de onderzoeksrechter om de nodige verificaties te verrichten.<br>
+<br>
+De Vlaamse toezichtcommissie deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht. In voorkomend geval gelast de Vlaamse toezichtcommissie de betreffende instantie de verzoeken van de betrokkene tot uitoefening van zijn rechten uit hoofde van de algemene verordening gegevensbescherming in te willigen overeenkomstig artikel 58, lid 2, c), van de algemene verordening gegevensbescherming.
+
+### ART 10/6.
+
+§ 1. De Vlaamse toezichtcommissie kan een of meer van haar leden belasten met de uitvoering van een onderzoek ter plaatse. Deze personen beschikken over de onderzoeksbevoegdheden, vermeld in artikel 58, lid 1, van de algemene verordening gegevensbescherming.<br>
+<br>
+§ 2. De Vlaamse toezichtcommissie heeft, zonder voorafgaande aankondiging, bij dag en bij nacht toegang tot de terreinen, constructies, gebouwen en lokalen, daaronder begrepen alle uitrustingen, informatiedragers, informaticasystemen en middelen voor gegevensverwerking.<br>
+<br>
+Wanneer het betreden van deze locaties de kenmerken van een huiszoeking draagt, mag het alleen worden uitgevoerd op voorwaarde dat de bewoner zijn voorafgaande, schriftelijke toestemming heeft verleend of de politierechter daarvoor een machtiging heeft verstrekt.<br>
+<br>
+Op vraag van de bewoner, toont de Vlaamse toezichtcommissie die wenst over te gaan tot visitatie, onmiddellijk de daartoe verleende machtiging.<br>
+<br>
+§ 3. De instanties zijn in ieder geval verplicht de Vlaamse toezichtcommissie te ondersteunen bij de vervulling van haar opdrachten, informatie te verstrekken en inzage in alle dossiers en informaticasystemen te verschaffen telkens als de Vlaamse toezichtcommissie daarom vraagt.<br>
+<br>
+§ 4. De Vlaamse toezichtcommissie heeft het recht :<br>
+1° de identiteit op te nemen en de te identificeren personen daartoe staande te houden;<br>
+2° de voorlegging van identiteitsdocumenten te vorderen;<br>
+3° voor zover de identiteit niet kan worden vastgesteld overeenkomstig punt 1° of 2° de identiteit te achterhalen met andere middelen.<br>
+<br>
+De documenten worden onmiddellijk na de verificatie van de identiteit aan de betrokkene teruggegeven.<br>
+<br>
+§ 5. Bij de uitoefening van hun onderzoeksopdrachten tonen de leden van de Vlaamse toezichtcommissie, belast met controle en inspectiebevoegdheden, hun legitimatiekaart. De Vlaamse toezichtcommissie beslist over het model van legitimatiekaart.<br>
+<br>
+§ 6. Hij die weigert zijn medewerking te verlenen aan de uitoefening van de onderzoeksbevoegdheden, vermeld in paragraaf 1 tot en met paragraaf 4, wordt gestraft met een gevangenisstraf van zes maanden tot een jaar en met een geldboete van zesentwintig euro tot twintigduizend euro of met een van die straffen alleen.
+
+### ART 10/7.
+
+§ 1. De Vlaamse toezichtcommissie neemt de corrigerende maatregelen overeenkomstig artikel 58, lid 2, van de algemene verordening gegevensbescherming. Bij het overwegen van een corrigerende maatregel, houdt de Vlaamse toezichtcommissie rekening met het informatieveiligheidsbeleid en met de stand van de techniek, de uitvoeringskosten, alsook met de aard, de omvang, de context en de verwerkingsdoeleinden en de qua waarschijnlijkheid en ernst uiteenlopende risico's voor de rechten en vrijheden van personen.<br>
+<br>
+Indien de Vlaamse toezichtcommissie van oordeel is dat er voldoende elementen zijn om een van die corrigerende maatregelen op te leggen, brengt ze de betreffende instantie daarvan op de hoogte en nodigt ze haar in voorkomend geval uit om binnen een termijn van tien werkdagen schriftelijk haar recht van verdediging uit te oefenen.<br>
+<br>
+Indien de Vlaamse toezichtcommissie, na kennisname van het tijdig bezorgde schriftelijk verweer, nog steeds van oordeel is dat de persoonlijke levenssfeer wordt geschonden, legt ze de gepaste corrigerende maatregel op.<br>
+<br>
+Een voorafgaande uitnodiging om het recht van verdediging uit te oefenen, is niet vereist wanneer dat de voorgenomen maatregel ondoelmatig zou maken of indien iedere verdere vertraging of ieder verder uitstel in ernstige mate de bescherming van de persoonlijke levenssfeer schendt.<br>
+<br>
+§ 2. De Vlaamse toezichtcommissie kan geen administratieve geldboete overeenkomstig artikel 83, lid 1 en 2, van de algemene verordening gegevensbescherming opleggen voor de inbreuken, vermeld in artikel 83, lid 4, 5 en 6, van de algemene verordening gegevensbescherming.<br>
+<br>
+§ 3. De Vlaamse toezichtcommissie is bevoegd inbreuken op de algemene verordening gegevensbescherming ter kennis te brengen van de gerechtelijke autoriteiten en, waar passend, daartegen een rechtsvordering in te stellen of anderszins in rechte op te treden teneinde de bepalingen van de algemene verordening gegevensbescherming te doen naleven.<br>
+<br>
+De Vlaamse toezichtcommissie wordt in en buiten rechte vertegenwoordigd door de voorzitter en de andere leden, dan wel door een van hen.<br>
+<br>
+De Vlaamse toezichtcommissie werkt samen met andere toezichtcommissies en de Europese Commissie overeenkomstig hoofdstuk VII van de algemene verordening gegevensbescherming.<br>
+<br>
+§ 4. De Vlaamse toezichtcommissie organiseert een klachtenprocedure overeenkomstig de voorschriften van artikel 57, lid 1, f), en artikel 57, lid 2, van de algemene verordening gegevensbescherming. De Vlaamse toezichtcommissie bepaalt bij huishoudelijk reglement de nadere voorwaarden van deze klachtenprocedure.
+
 ### ART. 11.
 
-§ 1. De toezichtcommissie brengt jaarlijks bij het Vlaams Parlement schriftelijk verslag uit over de vervulling van haar opdrachten gedurende het voorbije jaar, met inbegrip van aanbevelingen voor de toepassing van dit decreet. Het verslag van de toezichtcommissie wordt door het Vlaams Parlement openbaar gemaakt. De voorzitter van de toezichtcommissie kan al dan niet op eigen verzoek op elk moment door het Vlaams Parlement worden gehoord.<br>
-<br>
-§ 2. De toezichtcommissie stelt haar huishoudelijk reglement vast en deelt het ter bekrachtiging mee aan het Vlaams Parlement. Dat huishoudelijk reglement bepaalt uitdrukkelijk dat bij een staking van stemmen in de toezichtcommissie de stem van de voorzitter beslissend is.<br>
-<br>
-§ 3. ...
+...
 
 ### ART. 12.
 
-§ 1. De toezichtcommissie beschikt over een secretariaat, waarvan het personeel ter beschikking wordt gesteld door de diensten van de Vlaamse overheid die bevoegd zijn voor het elektronische bestuurlijke gegevensverkeer. De voorzitter van de toezichtcommissie duidt de personeelsleden van de toezichtcommissie aan. De personeelsleden van de toezichtcommissie staan onder de leiding en het gezag van de voorzitter van de toezichtcommissie. <br /><br />§ 2. De plaatsvervangende voorzitter en de vaste of plaatsvervangende leden hebben recht op presentiegeld voor een bedrag van 223,18 euro (indexcijfer 1,2682). Dat bedrag is gekoppeld aan de evolutie van het indexcijfer van de consumptieprijzen.<br /><br />De voorzitter heeft recht op anderhalve maal het presentiegeld.<br /><br />Alle leden hebben recht op de vergoedingen voor reis- en verblijfskosten overeenkomstig de bepalingen die van toepassing zijn op het personeel van de ministeries.<br /><br />§ 3. ...
+...
 
 ### ART. 12/1.
 
@@ -300,7 +409,7 @@ Hoofdstuk VI, bestaande uit artikelen 55 tot en met 69, en artikel 88 van het de
 
 ### ART. 32.
 
-De opdrachten van de toezichtcommissie of van een of meer kamers van de toezichtcommissie kunnen ter uitvoering van een samenwerkingsakkoord, gesloten tussen de federale overheid, de gemeenschappen en de gewesten, worden overgedragen aan een gemeenschappelijk sectoraal comité als vermeld in artikel 31bis van de privacywet, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer.<br /><br />De Vlaamse Regering bepaalt dan op welk ogenblik de taken en de bevoegdheden van de toezichtcommissie of van een of meer kamers van de toezichtcommissie worden overgedragen aan het gemeenschappelijk sectoraal comité, vermeld in het eerste lid.
+...
 
 ### ART. 33.
 
