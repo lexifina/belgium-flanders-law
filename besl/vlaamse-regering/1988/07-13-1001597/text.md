@@ -19,6 +19,7 @@ Categorie II:<br>
 - de vzw Vlaams Audiovisueel Fonds;<br>
 - het Vlaams Fonds voor de Letteren, afgekort VFL;<br>
 - de Vlaamse Onderwijsraad;<br>
+- de vzw Koninklijk Museum voor Schone Kunsten Antwerpen.<br>
 Categorie III:<br>
 - de onderlinge verzekeringsvereniging VRT-Pensioenfonds;<br>
 - de vzw Kunsthuis Opera Vlaanderen Ballet Vlaanderen;<br>
