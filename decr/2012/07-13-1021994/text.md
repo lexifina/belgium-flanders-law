@@ -10,7 +10,7 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 In dit decreet wordt verstaan onder :<br>
 1° authentieke gegevensbron : een authentieke gegevensbron als vermeld in artikel III.66, § 1, van het Bestuursdecreet van 7 december 2018;<br>
-2° de Vlaamse toezichtcommissie : de Vlaamse toezichtcommissie, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+2° de Vlaamse toezichtcommissie : de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 3° dienstenintegrator : een instantie die bij of krachtens een wet, een decreet of een ordonnantie belast is, binnen een bepaald overheidsniveau of in een bepaalde sector, met een taak van algemeen belang, en meer bepaald met de organisatie van elektronische gegevensuitwisseling over instanties heen en met de geintegreerde ontsluiting van gegevens;<br>
 4° externe overheid : een overheid die tot het internationale of federale niveau behoort, een andere gemeenschap of een ander gewest, en de daarvan afhangende instellingen of rechtspersonen, alsook de privaatrechtelijke rechtspersonen die belast zijn met taken of opdrachten van algemeen belang;<br>
 5° het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten : het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de veiligheidsconsulenten, vermeld in artikel 9 van het decreet van 18 juli 2008;<br>
@@ -118,7 +118,7 @@ Verzoeken tot aanpassing van onnauwkeurige, onvolledige of onjuiste gegevens kun
 <br>
 § 2. Elke persoon heeft het recht om te weten welke instanties en externe overheden, gedurende de laatste zes maanden persoonsgegevens over hem via de VDI hebben geraadpleegd of bijgewerkt, met uitzondering van de bestuurlijke en gerechtelijke instanties die belast zijn met de opsporing en bestraffmg van misdrijven, van de Veiligheid van de Staat en de Algemene Dienst Inlichting en Veiligheid van de Krijgsmacht, alsook met behoud van de mogelijkheid van de instanties en de externe overheden om met toepassing van artikel 23, lid 1, e) en h), van de algemene verordening gegevensbescherming de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon overeenkomstig de specifieke decretale bepalingen ter uitvoering van de voormelde verordeningsbepaling.<br>
 <br>
-De VDI voorziet daartoe in de gepaste middelen overeenkomstig de voorwaarden en regels, bepaald door de Vlaamse toezichtcommissie.<br>
+De VDI voorziet daartoe in de gepaste middelen overeenkomstig de voorwaarden en regels,&nbsp;geadviseerd door de Vlaamse toezichtcommissie.<br>
 <br>
 § 3. Als dat nodig is kan de VDI, in overleg met de betrokken instanties en externe overheden, een kopie maken van de gegevens die hij als tussenpersoon verwerkt, met de loutere bedoeling de latere terbeschikkingstelling van die gegevens efficiënter te doen verlopen, op voorwaarde dat de VDI :<br>
 1° de gegevens niet wijzigt;<br>
