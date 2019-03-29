@@ -38,6 +38,10 @@ Bepalingen
 
 ## HOOFDSTUK 1. Wetswijzigingen
 
+### ART 1.
+
+Dit hoofdstuk beoogt de omzetting in de regelgeving betreffende de kinderbijslag van de Richtlijn 2009/50/EG van de Raad van 25 mei 2009 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen met het oog op een hooggekwalificeerde baan, van de Richtlijn 2014/66/EU van het Europees Parlement en de Raad van 15 mei 2014 betreffende de voorwaarden voor toegang en verblijf van onderdanen van derde landen in het kader van een overplaatsing binnen een onderneming en van de Richtlijn (EU) 2016/801 van het Europees Parlement en de Raad van 11 mei 2016 betreffende de voorwaarden voor toegang en verblijf van derdelanders met het oog op onderzoek, studie, stages, vrijwilligerswerk, scholierenuitwisseling, educatieve projecten of au-pairactiviteiten.
+
 ### ART 2.
 
 Artikel 56sexies, § 1, tweede lid, van de algemene kinderbijslagwet van 19 december 1939 (AKBW), laatst gewijzigd bij de wet van 4 april 2014 en het samenwerkingsakkoord van 17 juni 2016 wordt aangevuld met de bepaling onder 7°, 8° en 9°, luidende:<br>
