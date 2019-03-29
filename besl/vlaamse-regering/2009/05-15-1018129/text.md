@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 18 juli 2008 betreffend
 
 In dit besluit wordt verstaan onder :<br>
 1° ...;<br>
-2° de toezichtcommissie : de Vlaamse toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, vermeld in artikel 10 van het decreet van 18 juli 2008;<br>
+2° de toezichtcommissie : de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1 van het decreet van 18 juli 2008;<br>
 3° stuurorgaan Vlaams Informatie- en ICT-beleid: het stuurorgaan Vlaams Informatie- en ICT-beleid, vermeld in artikel III.74 van het bestuursdecreet van 7 december 2018;<br>
 4° de beheersinstantie : de instantie, vermeld in artikel III.67 van het bestuursdecreet van 7 december 2018;<br>
 5° de minister : de Vlaamse minister, bevoegd voor het reguleringsmanagement, de administratieve vereenvoudiging en het e-government, en de Vlaamse minister, bevoegd voor het algemeen beleid inzake informatie- en communicatietechnologie.<br>
