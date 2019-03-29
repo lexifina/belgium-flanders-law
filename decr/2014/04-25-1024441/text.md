@@ -24,7 +24,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br>
 13° privacyregelgeving: het geheel van de geldende regelgeving ter bescherming van de persoonlijke levenssfeer;<br>
 14° ...<br>
 15° ...<br>
-16° toezichtcommissie: de Vlaamse Toezichtcommissie voor het elektronische bestuurlijke gegevensverkeer, opgericht bij artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+16° de Vlaamse toezichtcommissie : de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens, vermeld in artikel 10/1, § 1, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
 17° verzorgingsinstellingen: de instellingen, vermeld in respectievelijk de wet op de ziekenhuizen, gecoördineerd op 10 juli 2008, en in artikel 22, 6°, 34, 12° en 21°, 63 en 65 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994;<br>
 18° Vlaamse sociale bescherming: de rechten waarop de zorggebruiker aanspraak maakt in het kader van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 19° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheids- of welzijnsbeleid instaat voor de organisatie of uitvoering van zorg of die instaat voor de toekenning van rechten, met inbegrip van de ziekenfondsen en de zorgkassen;<br>
@@ -160,9 +160,9 @@ Met behoud van de toepassing van andersluidende regelgeving, hebben de gegevens 
 
 ### ART. 16.
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier, vermeld in artikel 4 worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de toezichtcommissie, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier, vermeld in artikel 4 worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de&nbsp;toezichtcommissie, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het individuele dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
 
 <p>Het Agentschap kan aanpassingen aan de procedures voor het gegevensbeheer door de administratie voorstellen aan de Vlaamse Regering om het individuele dossier te verrijken met aanvullende gegevens van administratieve aard.</p>
 
@@ -182,13 +182,13 @@ Met behoud van de toepassing van andersluidende regelgeving, hebben de gegevens 
 1° op elektronische, uniforme en gestandaardiseerde wijze uit het individueel dossier of uit een ander dossier opgelegd krachtens een wet, decreet of ordonnantie betreffende een individuele zorggebruiker worden overgenomen;<br>
 2° noodzakelijk zijn om in het kader van de gegevensdeling de efficiëntie, de effectiviteit en de kwaliteit van de zorg voor de zorggebruiker te maximaliseren.</p>
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de toezichtcommissie, nadere regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, met het oog op de invoer en het gebruik van eenduidige gegevens in het netwerk om een continue en kwaliteitsvolle uitvoering van de zorg te bewerkstelligen.</p>
 
-<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming&nbsp;op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
+<p>De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de de toezichtcommissie, ook regels uitvaardigen over de inhoud en de vorm van de gegevens die in het elektronisch deelbaar dossier worden opgenomen, om zorggebruikers rechten te laten genieten die voortvloeien uit de regelgeving over de Vlaamse sociale bescherming&nbsp;op een zodanige wijze dat ze zo weinig mogelijk administratieve lasten veroorzaken voor de rechthebbende zorggebruiker en voor de actoren in de zorg.</p>
 
 <p>Het Agentschap kan aanpassingen aan de procedures voor het gegevensbeheer door de administratie voorstellen aan de Vlaamse Regering om het elektronisch deelbaar dossier te verrijken met aanvullende gegevens van administratieve aard.</p>
 
-<p>§ 3. De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, bepalen dat het elektronisch deelbaar dossier moet worden aangevuld met een onderdeel dat bestemd is voor de invoer van gegevens door de zorggebruiker. Dat onderdeel kan worden geraadpleegd door zorgverleners en hulpverleners, die al dan niet verbonden zijn aan een voorziening, rekening houdend met het gebruikers- en toegangsbeheer, vermeld in artikel 25, 2°, en het verwijzingsrepertorium, vermeld in artikel 25, 3°.</p>
+<p>§ 3. De Vlaamse Regering kan, na positief advies van het Agentschap en na advies van de toezichtcommissie, bepalen dat het elektronisch deelbaar dossier moet worden aangevuld met een onderdeel dat bestemd is voor de invoer van gegevens door de zorggebruiker. Dat onderdeel kan worden geraadpleegd door zorgverleners en hulpverleners, die al dan niet verbonden zijn aan een voorziening, rekening houdend met het gebruikers- en toegangsbeheer, vermeld in artikel 25, 2°, en het verwijzingsrepertorium, vermeld in artikel 25, 3°.</p>
 
 ### ART. 18.
 
@@ -210,11 +210,11 @@ Voor de regels betreffende de rechten van de zorggebruiker inzake toegang, inzag
 
 <p>De zorgverlener of hulpverlener brengt de zorggebruiker ervan op de hoogte dat er een individueel dossier en een elektronisch deelbaar dossier over hem wordt bijgehouden, overeenkomstig artikel 4 en 17.</p>
 
-<p>De Vlaamse Regering kan na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer verdere regels met betrekking tot het eerste lid uitwerken.</p>
+<p>De Vlaamse Regering kan na advies van de toezichtcommissie verdere regels met betrekking tot het eerste lid uitwerken.</p>
 
 ### ART. 22.
 
-<p>§ 1. Voor de toegang van actoren in de zorg tot het elektronisch deelbare dossier van de zorggebruiker is de schriftelijke toestemming van de zorggebruiker vereist. Die toestemming kan schriftelijk worden ingetrokken. De inhoud van de toestemming van de zorggebruiker blijft ongewijzigd doorheen de tijd als de toestemming niet wordt gewijzigd. De toestemming kan ook elektronisch worden gegeven of ingetrokken, indien deze elektronische toestemming dezelfde waarborgen biedt als een schriftelijke toestemming. Deze elektronische toestemming kan enkel worden toegepast na positief advies van de Commissie voor de bescherming van de persoonlijke levenssfeer.</p>
+<p>§ 1. Voor de toegang van actoren in de zorg tot het elektronisch deelbare dossier van de zorggebruiker is de schriftelijke toestemming van de zorggebruiker vereist. Die toestemming kan schriftelijk worden ingetrokken. De inhoud van de toestemming van de zorggebruiker blijft ongewijzigd doorheen de tijd als de toestemming niet wordt gewijzigd. De toestemming kan ook elektronisch worden gegeven of ingetrokken, indien deze elektronische toestemming dezelfde waarborgen biedt als een schriftelijke toestemming. Deze elektronische toestemming kan enkel worden toegepast na positief advies van de toezichtcommissie.</p>
 
 <p>De schriftelijke of elektronische toestemming, vermeld in het eerste lid, moet voldoen aan de voorwaarden van artikel 1, § 8, van de wet Verwerking Persoonsgegevens.</p>
 
@@ -230,7 +230,7 @@ Voor de regels betreffende de rechten van de zorggebruiker inzake toegang, inzag
 
 <p>§ 4. De zorggebruiker wordt actief geïnformeerd over zijn rechten in het kader van dit decreet.</p>
 
-<p>§ 5. De Vlaamse Regering werkt, na positief advies van het Agentschap en na advies van de Commissie voor de bescherming van de persoonlijke levenssfeer, de verdere regels met betrekking tot paragraaf 1 en 4 uit. De Vlaamse Regering kan, na positief advies van het Agentschap, een gedifferentieerde toestemming met betrekking tot individuele actoren in de zorg of categorieën van actoren in de zorg uitwerken.</p>
+<p>§ 5. De Vlaamse Regering werkt, na positief advies van het Agentschap en na advies van de toezichtcommissie, de verdere regels met betrekking tot paragraaf 1 en 4 uit. De Vlaamse Regering kan, na positief advies van het Agentschap, een gedifferentieerde toestemming met betrekking tot individuele actoren in de zorg of categorieën van actoren in de zorg uitwerken.</p>
 
 ### ART. 23.
 
