@@ -2,16 +2,16 @@
   "codex_id": 1020814,
   "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot oprichting van het Samenwerkingsplatform Eerstelijnsgezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020814/VolledigDocument?datum=2011-10-15",
-  "source_sha256": "242c75383152ce52e3877db309eb7b5e5af446f0c9addbc51a4a8e4c55768821",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020814/VolledigDocument?datum=2019-03-29",
+  "source_sha256": "56b81970fb2190d74d5c0c38a0135ef596044a5386c36ff10834b0fd9ba68b2a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020814&param=informatie",
-  "as_of": "2011-10-15",
+  "as_of": "2019-03-29",
   "made": "2011-09-09",
   "gazette": "2011-10-05",
   "numac": 2011204876,
   "document_start": "2011-10-15",
   "document_end": "2019-03-28",
-  "in_force": "2011-10-15",
+  "in_force": "2019-03-29",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2011-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-03-29; future article versions excluded; article text as the API gives it"
 }
