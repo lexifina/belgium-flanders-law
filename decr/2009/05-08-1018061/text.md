@@ -68,7 +68,7 @@ In het CRAB worden adressen opgenomen van de hiernavolgende types van adresseerb
 3° perceel : perceel als vermeld in artikel 5, 3°, van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB);<br>
 4° kadastraal perceel : kadastraal perceel als vermeld in artikel 1, derde streepje, van het koninklijk besluit van 20 september 2002 tot vaststelling van de vergeldingen en de nadere regels voor de afgifte van kadastrale uittreksels en inlichtingen.<br>
 <br>
-Het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;kan, op voorstel van het agentschap, aanvullende types van adresseerbare objecten vaststellen waarvoor adressen in het CRAB worden opgenomen. Hij legt die, na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, ter goedkeuring voor aan de Vlaamse Regering.
+Het stuurorgaan Vlaams Informatie- en ICT-beleid&nbsp;kan, op voorstel van het agentschap, aanvullende types van adresseerbare objecten vaststellen waarvoor adressen in het CRAB worden opgenomen. Hij legt die, na advies van de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, ter goedkeuring voor aan de Vlaamse Regering.
 
 ## Afdeling III. CRAB-specificaties
 
@@ -94,7 +94,7 @@ De progressieve aanmaak en bijhouding van het CRAB wordt opgenomen in het GDI-ui
 
 De gemeenten treden op als initiator voor de adrescomponenten straatnaam, huisnummer en subadres.<br>
 <br>
-De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid en na advies van de toezichtcommissie in toepassing van artikel 11, § 1, eerste lid, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, aanvullende types van adrescomponenten vastleggen waarvoor de gemeenten als initiator optreden.
+De Vlaamse Regering kan, op voorstel van het stuurorgaan Vlaams Informatie- en ICT-beleid en na advies van de de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, aanvullende types van adrescomponenten vastleggen waarvoor de gemeenten als initiator optreden.
 
 ### ART. 11.
 
