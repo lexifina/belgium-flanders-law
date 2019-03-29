@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030428,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-01 houdende indeling bij de gemeentewegen van de ventweg N34 Dokter Eduard Moreauxlaan (lengte: 1.860 meter), op het grondgebied van de stad Oostende",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030428/VolledigDocument?datum=2019-03-29",
+  "source_sha256": "f822ae13015eead95ddf2e928d0c2ca2a479fb80c60a442b5b6a45c4c9a0bd8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030428&param=informatie",
+  "as_of": "2019-03-29",
+  "made": "2019-02-01",
+  "gazette": "2019-03-19",
+  "numac": 2019040684,
+  "document_start": "2019-03-29",
+  "document_end": null,
+  "in_force": "2019-03-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
