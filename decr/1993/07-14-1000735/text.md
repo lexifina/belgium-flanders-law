@@ -4,157 +4,150 @@
 
 ### ART. 1.
 
-Dit decreet regelt een aangelegenheid als bedoeld in artikel 107quater van de Grondwet.<br /><br />(Lees: artikel 39 van de gecoördineerde Grondwet)
+Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
 Voor de toepassing van dit decreet en zijn uitvoeringsbesluiten wordt verstaan onder:<br>
 1° fonds: het fonds dat uitsluitend dient voor de regeling van de grindwinning, ook grindfonds genoemd;<br>
-2° IML: Intercommunale Maatschappij voor de ruimtelijke ontwikkeling in Limburg;<br>
+2° Sociaal Fonds: fonds voor bestaanszekerheid dat werkzaam is in het 102.06 Paritair Subcomité voor het bedrijf der grind- en zandgroeven welke in openlucht geëxploiteerd worden in de provincies Antwerpen, West-Vlaanderen, Oost-Vlaanderen en Limburg met uitzondering van de witzandexploitaties;<br>
 3° het departement: het Departement Omgeving;<br>
 4° POM : Provinciale Ontwikkelingsmaatschappij Limburg, publiekrechtelijke instelling die opgericht is met toepassing van het decreet van 7 mei 2004, houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM) en erkend door de Vlaamse Regering met toepassing van artikel 3 van het voormelde decreet;<br>
 5° grind: de fractie van het afbraakmateriaal van vast gesteente in diluviale gronden en op de bodem van rivieren die niet door de het departement, aanvaarde zeef met een maaswijdte van 4 mm gaat. Fracties die de 4 mm overlappen worden eveneens als grind beschouwd;<br>
-6° breekzand: de fractie van gebroken grind die door een aanvaarde zeef met een maaswijdte van 4 mm gaat en waarvan het wasslib, enkel in het geval dat de fractie gewassen wordt, niet in rekening wordt gebracht;<br>
+6° ...;<br>
 7° berggrind: grind dat gewonnen wordt op het Plateau van de Kempen;<br>
 8° valleigrind: grind dat gewonnen wordt in de alluviale vlakte van de Maas, inclusief de terrassen tot aan de steilrand van het Plateau van de Kempen;<br>
 9° grindwinning: de ontgronding van natuurlijke grondstoffen waarvan het percentage grind op kalenderjaarbasis tenminste 20 % bedraagt;<br>
 10° grindwinning als nevenproduktie: elke grindwinning waarvan het percentage grind op kalenderjaarbasis minder dan 50 % en meer dan 20 % bedraagt;<br>
-11° nieuwe grindwinningsgebieden: gebieden die bij de goedkeuring van het decreet nog niet als ontginningsgebieden in de ruimste betekenis op de goedgekeurde gewestplannen zijn aangeduid en die in toepassing van artikel 17, § 2, als reservegebieden, effectieve grindwinningsgebieden en uitbreidingsgebieden worden aangeduid;<br>
-12° ecologische impactstudie: een rapport dat een beschrijving bevat van de ecologische uitgangssituatie van een gebied, een beschrijving van de ingreep, een analyse van de effecten op de deelaspecten van het milieu en een beoordeling van deze effecten met bijzondere aandacht voor de ecohydrologische aspecten;<br>
+11° grindheffing: de heffing die de houders van vergunningen met toepassing van dit decreet hebben betaald voor de exploitatie van grind in een grindwinning en die werd berekend op het gewonnen tonnage grind;<br>
+12° productiequotum: het maximale tonnage aan grindwinning dat de Vlaamse Regering op grond van dit decreet en met het oog op de afbouw van de grindwinning in de provincie Limburg tweejaarlijks heeft vastgesteld en verdeeld onder de houders van de vergunning voor de exploitatie van een grindwinning;<br>
 13° structuurvisie: een plan dat de belangrijkste beleidsdoeleinden en beleidsmaatregelen aangeeft voor de verschillende ruimtebehoevende activiteiten en ruimtelijke relaties in een bepaald gebied. Het vormt de basis voor de concrete plannen van de ruimtelijke ordening. Het omvat een richtplan, een structuurkader en een actieplan;<br>
 14° afwerken: het uitvoeren van grondwerken met het oog op de realisatie van het nabestemmingsplan en het naleven van de voorwaarden met betrekking tot het reliëf, zoals bepaald in de milieu- en stedebouwkundige vergunning;<br>
 15° uitrusten: het uitvoeren van de infrastructuur- en de inrichtingswerken na het afwerken, met inbegrip van alle maatregelen ter realisatie van de nabestemming;<br>
-16° grindwinning bij infrastructuurwerken : de bedoelde of onbedoelde grindwinning die optreedt bij werken aan of het aanleggen van infrastructuur van openbaar nut die zelf niet de exploitatie van grind tot doel hebben;<br>
+16° grindwinning bij infrastructuurwerken : de bedoelde of onbedoelde grindwinning die optreedt bij werken aan of het aanleggen van infrastructuur van&nbsp;algemeen belang&nbsp;die zelf niet de exploitatie van grind tot doel hebben;<br>
 17° projectgrindwinning : de grindwinning die gepaard gaat met de realisatie van een maatschappelijk project van groot openbaar belang dat op zichzelf niet gericht is op het winnen van grind;<br>
-18° project : een geheel van activiteiten houdende de uitvoering van werken, de totstandbrenging en in voorkomend geval de exploitatie van installaties, werkzaamheden of andere ingrepen in het milieu, dat maatschappelijk van groot openbaar belang is, dat op zichzelf niet gericht is op het winnen van grind maar waarvan de projectgrindwinning een substantieel onderdeel is en te realiseren is in een gemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3;<br>
+18° project : een geheel van activiteiten houdende de uitvoering van werken, de totstandbrenging en in voorkomend geval de exploitatie van installaties, werkzaamheden of andere ingrepen in het milieu, dat maatschappelijk van groot openbaar belang is, dat op zichzelf niet gericht is op het winnen van grind maar waarvan de projectgrindwinning een substantieel onderdeel is en te realiseren is in een gemeente die voorkomt op de lijst, vastgesteld conform artikel 5, § 4;<br>
 19° projectcomité : het projectgrindwinningscomité zoals omschreven in artikel 20sexies.
 
 ## HOOFDSTUK II HET GRINDFONDS
 
 ### ART. 3.
 
-§ 1. Er wordt een grindfonds opgericht, hierna te noemen het fonds.   <BR><BR>§ 2. Het grindfonds heeft rechtspersoonlijkheid. Het wordt opgericht als   een instelling van categorie A in de zin van de wet van 16 maart 1954   betreffende de controle op sommige instellingen van openbaar nut. De bepalingen   van die wet zijn op het fonds van toepassing voor zover er in dit decreet niet   wordt van afgeweken.<BR><BR>§ 3. De middelen voor het fonds zijn:<BR>1° de   opbrengsten van de in artikel 15 bedoelde grindheffing;<BR>2° de interesten op   de overeenkomstig 1° aan het fonds toegewezen middelen, en de administratieve   geldboeten en verhogingen die opgelegd worden krachtens artikel 23bis, § 2;   <BR>3° in voorkomend geval, de waarborgen die krachtens artikel 15bis werden   opgelegd aan de houders van een krachtens artikel 16 toegewezen productiequotum   alsmede, in voorkomend geval, de interesten op deze waarborgen. <BR><BR>§ 4. Het   fonds neemt voor zijn rekening de uitgaven die voortvloeien uit:<BR>1° de   maatregelen met betrekking tot de grindwinning die in het kader van dit decreet   worden getroffen door de Vlaamse regering of het grindcomité en de subcomités,   bedoeld in artikel 4;<BR>2° de schadevergoedingen die voortvloeien uit de   maatregelen met betrekking tot de grindwinning genomen in het kader van dit   decreet en, in voorkomend geval, nadat de bevoegde gerechtelijke instanties   hierover een in kracht van gewijsde gedane uitspraak hebben gedaan<BR>3° de   financiering van sociaal-economische en ecologische hefboomprojecten in de   grindgebieden;<BR>4° de financiering van wetenschappelijke projecten met het oog   op de versterking van het sociaal-economisch weefsel in Limburg;<BR>5° de   financiering van een reconversieproject in de landbouw;<BR>6° de financiering   van de administratieve en technische ondersteuning van het   projectgrindwinningscomité, vermeld in artikel 20sexies;<BR>7° de overdracht van   een deel van de middelen van het fonds naar de algemene middelen van het Vlaamse   Gewest in het begrotingsjaar 2013.<BR><BR>§ 5. De Vlaamse regering beheert het   fonds en stelt de nodige diensten, uitrusting, installaties en personeelsleden   van haar diensten ter beschikking van het fonds. Bij het beheer van het fonds   houdt de regering rekening met de adviezen van het grindcomité bedoeld in de   artikelen 5 en 9. De regering kan van dit advies slechts bij gemotiveerd besluit   afwijken.<BR><BR>§ 6. De Vlaamse regering stelt jaarlijks een verslag op over de   werking en het beheer van het fonds. Het verslag wordt aan het Vlaams Parlement   meegedeeld.
+§ 1. Er wordt een grindfonds opgericht, hierna te noemen het fonds.<br>
+<br>
+§ 2. Het grindfonds heeft rechtspersoonlijkheid. Het wordt opgericht als een instelling van categorie A in de zin van de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut. De bepalingen van die wet zijn op het fonds van toepassing voor zover er in dit decreet niet wordt van afgeweken.<br>
+<br>
+§ 3. De middelen van het fonds bestaan uit:<br>
+1° de opbrengsten van de grindheffing die is opgelegd aan de houders van een vergunning voor de exploitatie van een grindwinning;<br>
+2° de waarborgen die de houders van de vergunningen voor de exploitatie van een grindwinning hebben gesteld om de afwerking van het grindwinningsgebied te garanderen, voor zover die waarborgen met toepassing van dit decreet aan het grindcomité toegewezen zijn;<br>
+3° de administratieve geldboeten en verhogingen die worden opgelegd ingeval de bepalingen van dit decreet niet worden nageleefd;<br>
+4° de intresten op de middelen die op basis van punt 1°, 2° en 3° aan het fonds zijn toegewezen.<br>
+<br>
+§ 4. Het fonds neemt voor zijn rekening de uitgaven die voortvloeien uit:<br>
+1° de maatregelen die de Vlaamse Regering of het grindcomité op grond van dit decreet neemt met betrekking tot de grindwinning of de afwerking van de grindwinningsgebieden;<br>
+2° de schadevergoedingen die voortvloeien uit de maatregelen met betrekking tot de grindwinning genomen in het kader van dit decreet en, in voorkomend geval, nadat de bevoegde gerechtelijke instanties hierover een in kracht van gewijsde gedane uitspraak hebben gedaan<br>
+3° de financiering van sociaal-economische en ecologische hefboomprojecten in de grindgebieden tot een totaal historisch maximumbedrag van 2.505.000 euro;<br>
+4° de financiering van wetenschappelijke projecten met het oog op de versterking van het sociaal-economisch weefsel in Limburg tot een totaal historisch maximumbedrag van 4.200.000 euro;<br>
+5° de financiering van een reconversieproject in de landbouw tot een totaal historisch maximumbedrag van 1.200.000 euro;<br>
+6° de financiering van de administratieve en technische ondersteuning van het projectgrindwinningscomité, vermeld in artikel 20sexies voor een maximumbedrag van 60.000 euro per jaar en tot de uitputting van de middelen van het Grindfonds;<br>
+7° de beslissingen waarvoor bij dit decreet de betaling ten laste van het fonds wordt gelegd.<br>
+<br>
+§ 5. De Vlaamse regering beheert het fonds en stelt de nodige diensten, uitrusting, installaties en personeelsleden van haar diensten ter beschikking van het fonds. Bij het beheer van het fonds houdt de regering rekening met de adviezen van het grindcomité bedoeld in artikel 7. De regering kan van dit advies slechts bij gemotiveerd besluit afwijken.<br>
+<br>
+§ 6. De Vlaamse regering stelt jaarlijks een verslag op over de werking en het beheer van het fonds. Het verslag wordt aan het Vlaams Parlement meegedeeld.<br>
+<br>
+§ 7. De aanvragen voor de financiering van de uitgaven, vermeld in paragraaf 4, 3° tot en met 6°, worden door de Vlaamse Regering goedgekeurd binnen de begrotingskredieten die daartoe in de begroting van het Grindfonds zijn bestemd, tot de aangegeven maxima.
 
 ## [AFDELING 1 HET GRINDCOMITÉ (verv. decr. 1 maart 2019, art. 5, I: 29 maart 2019)]
 
 ### ART. 4.
 
-Binnen het grindfonds wordt een grindcomité opgericht.<br /><br />Binnen het grindcomité worden 3 subcomités opgericht:<br /><br />- het herstructureringscomité;<br /><br />- het sociaal comité;<br /><br />- het onderzoekscomité.<br /><br />Het grindcomité en de subcomités bezitten rechtspersoonlijkheid.
+Binnen het grindfonds wordt een grindcomité opgericht.<br>
+<br>
+Het grindcomité bezit rechtspersoonlijkheid.
 
 ### ART. 5.
 
-<P>Met ingang van 1 januari 2013 worden alle bestaande en nieuwe middelen van   het grindfonds voor de werkingsterreinen van de in artikel 4 bedoelde   grindcomités samengevoegd.<BR><BR>De uitgaven voor het uitrusten van de   grindwinningsgebieden via maatregelen die in het kader van dit decreet worden   getroffen door het herstructureringscomité bedragen maximaal 15.100.000 euro,   vermeerderd met een bedrag van 6.850.000 euro dat in drie gelijke delen wordt   verdeeld over de valleigrindgebieden in de gemeenten Kinrooi, Maaseik en   Dilsen-Stokkem, en vermeerderd met een bedrag van 500.000 euro dat nog door het   herstructureringscomité moet worden verdeeld over de berggrindgebieden in de   gemeenten Dilsen-Stokkem, Maasmechelen en As.<BR><BR>Aanvragen voor de   financiering van de uitgaven, vermeld in artikel 3, § 4, 3°, 4° en 5 worden   goedgekeurd door de Vlaamse Regering binnen de daartoe in de begroting van het   grindfonds bestemde begrotingskredieten en voor een maximumbedrag van   respectievelijk 2.505.000 euro, 4.200.000 euro en 1.200.000   euro.<BR><BR>Aanvragen voor de financiering van de uitgaven, vermeld in artikel   3, § 4, 6°, worden goedgekeurd door de Vlaamse Regering binnen de daartoe in de   begroting van het grindfonds bestemde begrotingskredieten en voor een   maximumbedrag van 60.000 euro per jaar en tot de uitputting van de middelen van   het grindfonds.</P>
+§ 1. Het grindcomité bestaat uit de volgende leden:<br>
+1° twee vertegenwoordigers, aangewezen door de deputatie van de provincie Limburg. Het gaat om de leden van de deputatie die bevoegd zijn voor de ruimtelijke ordening en het leefmilieu of de natuur, of hun afgevaardigden;<br>
+2° de burgemeester van elke grindgemeente die voorkomt op de lijst, vastgesteld conform artikel 5, § 4, of zijn afgevaardigde;<br>
+3° twee leden, aangewezen door de vzw Belbag als representatieve organisatie voor de exploitanten van een grindwinning;<br>
+4° twee leden, aangewezen door de representatieve landbouworganisaties die vertegenwoordigd zijn in de Sociaal-Economische Raad van Vlaanderen;<br>
+5° twee leden, aangewezen door representatieve verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen.<br>
+<br>
+Een ambtenaar van het departement woont de vergaderingen van het grindcomité bij als raadgever.<br>
+<br>
+§ 2. Het comité wijst onder haar leden een voorzitter aan.<br>
+<br>
+§ 3. Het mandaat van de leden van het grindcomité is onbezoldigd. Het comité regelt zelf de wijze waarop de leden worden vergoed voor de kosten die ze in het kader van hun opdracht hebben gemaakt. Die vergoedingen zijn ten laste van het Grindfonds.<br>
+<br>
+§ 4. De Vlaamse Regering stelt een lijst vast van de gemeenten die aangewezen worden als grindgemeente. Het gaat om de gemeenten in de provincie Limburg die op hun grondgebied een grindwinning hebben als vermeld in artikel 2, 9°, ongeacht of die actief is op het ogenblik van de inwerkingtreding van dit decreet.
 
 ## AFDELING 2 [TOEZICHT OP DE WERKING VAN HET GRINDCOMITÉ (verv. decr. 6 juli 2001, art. 6)][... (opgeh. decr. 1 maart 2019, art. 8, I: 29 maart 2019)]
 
 ### ART. 6.
 
-De beslissingen van het grindcomité en de drie subcomités bedoeld in artikel 4 worden bij aangetekend schrijven ter goedkeuring voorgelegd aan de Vlaamse regering. De Vlaamse regering bepaalt de nadere regelen en modaliteiten.<br /><br />De beslissingen van de subcomités dienen vergezeld te zijn van het in artikel 9, 3°, vermelde advies van het grindcomité. De in het volgende lid vermelde termijn gaat bij de beslissingen van de subcomités in vanaf de kennisgeving van het advies van het grindcomité.<br /><br />Wanneer de Vlaamse regering binnen veertig kalenderdagen, volgend op de ontvangst van de beslissing, aan het betrokken comité geen kennis heeft gegeven van haar beslissing, wordt de Vlaamse regering geacht haar goedkeuring te hebben verleend. Bij een met redenen omkleed aangetekend schrijven, gericht aan het grindcomité en, in voorkomend geval, het subcomité, kan de Vlaamse regering de voormelde termijn éénmalig verlengen met een periode van 40 kalenderdagen. <br /><br />De Vlaamse regering kan de in de artikelen 9, 10, 11 en 12, bedoelde maatregelen nemen ter aanvulling van de maatregelen genomen door het betrokken comité of in de plaats van het betrokken comité, indien dit comité geen beslissing neemt ten aanzien van een haar door de Vlaamse regering voorgelegde aangelegenheid binnen een termijn van drie maanden.<br /><br />Het grindcomité brengt jaarlijks verslag uit bij de Vlaamse regering betreffende zijn werkzaamheden en de werkzaamheden van de subcomités, alsook telkenmale de regering daarom verzoekt. Het jaarverslag wordt tevens meegedeeld aan het Vlaams Parlement, de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen.<br /><br />De in dit decreet bepaalde opdrachten van het grindcomité en de subcomités doen geen afbreuk aan de bevoegdheden van andere instellingen of personen van publiek recht.
+De beslissingen van het grindcomité&nbsp;worden bij aangetekend schrijven ter goedkeuring voorgelegd aan de Vlaamse regering. De Vlaamse regering bepaalt de nadere regelen en modaliteiten.<br>
+<br>
+Wanneer de Vlaamse regering binnen veertig kalenderdagen, volgend op de ontvangst van de beslissing, aan het grindcomité geen kennis heeft gegeven van haar beslissing, wordt de Vlaamse regering geacht haar goedkeuring te hebben verleend. Bij een met redenen omkleed aangetekend schrijven, gericht aan het grindcomité, kan de Vlaamse regering de voormelde termijn éénmalig verlengen met een periode van 40 kalenderdagen.<br>
+<br>
+De Vlaamse regering kan de in artikel 7, bedoelde maatregelen nemen ter aanvulling van de maatregelen genomen door het grindcomité of in de plaats van het grindcomité, indien dit comité geen beslissing neemt ten aanzien van een haar door de Vlaamse regering voorgelegde aangelegenheid binnen een termijn van drie maanden.<br>
+<br>
+Het grindcomité brengt jaarlijks verslag uit bij de Vlaamse regering betreffende zijn werkzaamheden, alsook telkenmale de regering daarom verzoekt. Het jaarverslag wordt tevens meegedeeld aan het Vlaams Parlement, de Sociaal-Economische Raad van Vlaanderen en de Milieu- en Natuurraad van Vlaanderen.<br>
+<br>
+De in dit decreet bepaalde opdrachten van het grindcomité doen geen afbreuk aan de bevoegdheden van andere instellingen of personen van publiek recht.
 
 ## [AFDELING 3 DE OPDRACHT VAN HET GRINDCOMITÉ (verv. decr. 1 maart 2019, art. 10, I: 29 maart 2019)]
 
 ### ART. 7.
 
-§ 1. De voorzitters en de gewone leden van het grindcomité en van de   subcomités worden door de Vlaamse regering benoemd.<BR><BR>De regering kan op   elk ogenblik een einde maken aan het mandaat van een voorzitter. Het   lidmaatschap van een gewoon lid neemt van rechtswege een einde op de datum   waarop de vereniging, organisatie of rechtspersoon die dit lid heeft   voorgedragen aan de Vlaamse regering meldt dat het betrokken lid niet langer   haar of zijn vertegenwoordiger is en een nieuw kandidaat-lid   voordraagt.<BR><BR>§ 2. Het mandaat van de voorzitter en de leden van het   grindcomité en de subcomités is onbezoldigd. De Vlaamse regering regelt de wijze   waarop de leden worden vergoed voor de door hen gemaakte kosten, binnen de door   haar vastgestelde grenzen. Deze vergoedingen zijn ten laste van het   grindfonds.<BR><BR>§ 3. De Vlaamse regering stelt een lijst vast van de   gemeenten die aangewezen worden als grindgemeente. Het betreft de gemeenten, in   de provincie Limburg op wier grondgebied zich een grindwinning bevindt, zoals   bedoeld in artikel 2, 9°, al dan niet actief op het ogenblik van de   inwerkingtreding van dit decreet.
+De opdracht van het grindcomité bestaat erin:<br>
+1° advies te verstrekken over het beheer van het Grindfonds;<br>
+2° te zorgen voor het uitrusten van de afgewerkte grindwinningsgebieden in het kader van de structuurvisie die blijkt uit het beleidsplan, met inbegrip van het herstel en de ontwikkeling van de natuur en het natuurlijk milieu van de voormelde gebieden en de aanpalende omgeving. De uitgaven voor het uitrusten van de grindwinningsgebieden via maatregelen die het grindcomité in het kader van dit decreet neemt, bedragen maximaal 15.100.000 euro. Dat bedrag wordt door het grindcomité vermeerderd met 6.850.000 euro, dat in drie gelijke delen wordt verdeeld over de valleigrindgebieden in de gemeenten Kinrooi, Maaseik en Dilsen-Stokkem, en met 500.000 euro, dat wordt verdeeld over de berggrindgebieden in de gemeenten Dilsen-Stokkem, Maasmechelen en As;<br>
+3° toezicht te houden op de naleving van de productiequota;<br>
+4° in voorkomend geval, het gebied te laten afwerken na de ontgrinding;<br>
+5° toezicht te houden op het afwerken en uitrusten van de grindwinningsgebieden;<br>
+6° de structuurvisie op te maken, te actualiseren en af te stemmen op de vigerende regelgeving.
 
 ## [AFDELING 4 DE UITVOERING VAN DE BESLISSINGEN VAN HET GRINDCOMITÉ (verv. decr. 1 maart 2019, art. 12, I: 29 maart 2019)]
 
 ### ART. 8.
 
-§ 1. Het grindcomité heeft een voorzitter en een aantal gewone leden. Het aantal gewone leden wordt aangepast indien een gemeente het statuut van grindgemeente krijgt of verliest.<br>
+Voor de materiële voorbereiding of de uitvoering van zijn beslissingen kan het grindcomité een beroep doen op derden. Het kan ook deeltaken bij overeenkomst toevertrouwen aan derden.<br>
 <br>
-Indien zij geen deel uitmaken van het grindcomité, wonen de voorzitters van de subcomités de vergadering bij met raadgevende stem.<br>
+Het grindcomité doet daarvoor bij voorkeur een beroep op de POM of op de provincie Limburg.<br>
 <br>
-§ 2. De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het grindcomité als volgt aan:<br>
-1° één lid wordt benoemd uit kandidaten voorgedragen door de POM;<br>
-2° één lid wordt benoemd uit kandidaten voorgedragen door de IML;<br>
-3° twee leden worden benoemd uit kandidaten voorgedragen door de werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
-4° twee leden worden benoemd uit kandidaten voorgedragen door de werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
-5° één lid wordt benoemd uit kandidaten voorgedragen door de landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
-6° één lid wordt voor elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenten;<br>
-7° één lid wordt benoemd uit kandidaten voorgedragen door verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen.<br>
+De derden waarop het grindcomité een beroep doet, worden voor hun kosten vergoed. Die vergoedingen zijn ten laste van het Grindfonds.<br>
 <br>
-Deze leden hebben stemrecht.<br>
-<br>
-§ 3. Een vertegenwoordiger van elk van de gemeenten waarin zich een reservegebied zoals bedoeld in artikel 17, § 2, bevindt, woont de vergaderingen van het grindcomité bij met raadgevende stem, voor zover deze gemeenten niet vertegenwoordigd zijn overeenkomstig § 2, 6°.<br>
-<br>
-§ 4. Als vertegenwoordigers van de betrokken gemeenten komen enkel gemeenteraadsleden in aanmerking. Zij worden voorgedragen door de gemeenteraad.<br>
-<br>
-§ 5. De volgende personen worden aangewezen als leden met raadgevende stem :<br>
-1° twee vertegenwoordigers van het departement van wie een deskundig op het vlak van milieu en een op het vlak van ruimtelijke ordening;<br>
-2° één vertegenwoordiger van de Vlaamse Landmaatschappij;<br>
-3° één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek.
+De overeenkomsten met derden worden goedgekeurd door de Vlaamse Regering.
 
 ### ART. 9.
 
-Het grindcomité heeft tot opdracht:<BR>1° het adviseren over het beheer   van het grindfonds;<BR>2° de coördinatie van de activiteiten van de   subcomités;<BR>3° het verlenen van advies aan de Vlaamse regering bij de   beslissingen van de subcomités en bij de beoordeling van de overmacht, zoals   bepaald in artikel 16, § 1;<BR>4° het toezicht op de naleving van de   produktiequota zoals bedoeld in artikel 16, § 1;<BR>5° het adviseren over de   financiering van de herstructurering, sociale begeleiding en het onderzoek zoals   bedoeld in de artikelen 10, 11 en 12, op voorstel van de subcomités, binnen de   marges zoals bepaald in artikel 5. Het grindcomité mag deze financiering   weigeren of afwijken van de voorstellen van de subcomités, mits de weigering of   afwijking met redenen wordt omkleed en een tweederde meerderheid van de leden   daarmee akkoord gaat. De afwijking mag de marges zoals bepaald in artikel 5,   niet overschrijden. Voor de materies van het sociaal comité geldt deze   afwijkingsmogelijkheid bovendien enkel voor de aangelegenheden die niet geregeld   werden door een collectieve arbeidsovereenkomst;<BR>6° de ontwikkeling en   voortdurende actualisering van een globaal en coherent beleidsplan ter   verwezenlijking van de in hoofdstuk III bepaalde doelstellingen;<BR>7° het   adviseren aan de POM over de voorwaarden voor de aankoop of onteigening van   gronden of voor het verwerven van een ontginningsrecht met betrekking tot deze   gronden, zoals bepaald in artikel 17, § 3, en artikel 18, 3°;<BR>8° het sluiten   van een samenwerkingsprotocol met de IML, dat voorziet in de coördinatie van de   maatregelen die werden genomen krachtens het bepaalde in artikel 10, vijfde lid,   2°, en de initiatieven van de IML, wat de provincie Limburg betreft. Deze   overeenkomst wordt ter goedkeuring voorgelegd aan de Vlaamse regering;<BR>9° het   nemen van een beslissing aangaande de verdeling van wegens overmacht niet   gebruikte gedeelten van productiequota, zoals bedoeld in artikel 16, §   1.<BR><BR>Met ingang van 1 januari 2013 oefent het grindcomité bovendien alle   taken van het onderzoekscomité uit en treedt het in alle rechten en plichten   ervan.
+...
 
 ## AFDELING 5 [... (opgeh. decr. 1 maart 2019, art. 15, I: 29 maart 2019)]
 
 ### ART. 10.
 
-Het herstructureringscomité heeft een voorzitter en een aantal gewone leden.<br>
-<br>
-De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het herstructureringscomité als volgt aan:<br>
-1° één vertegenwoordiger van elk van de grindgemeenten benoemd uit kandidaten voorgedragen door de betrokken gemeenteraden;<br>
-2° één vertegenwoordiger van de IML;<br>
-3° één vertegenwoordiger van de landbouworganisaties zoals bedoeld in artikel 8, § 2, 5°;<br>
-4° twee vertegenwoordigers van de milieu- en natuurverenigingen zoals bedoeld in artikel 8, § 2, 7°.<br>
-<br>
-Deze leden hebben stemrecht.<br>
-<br>
-Als leden met raadgevende stem worden aangewezen:<br>
-1° drie vertegenwoordigers van het departement, van wie een deskundig op het vlak van ruimtelijke ordening, een op het vlak van milieu in het algemeen en een op het vlak van natuurlijke rijkdommen;<br>
-2° één vertegenwoordiger van de Vlaamse Landmaatschappij;<br>
-3° één vertegenwoordiger van het Instituut voor Natuur- en Bosonderzoek;<br>
-4° twee vertegenwoordigers van de werkgevers in de ontgrindingsondernemingen;<br>
-5° twee vertegenwoordigers van de werknemers in de ontgrindingsondernemingen;<br>
-6° ...;<br>
-7° ...;<br>
-8° één vertegenwoordiger van de V.Z.W. Toerisme Limburg.<br>
-<br>
-De Vlaamse minister wijst op voordracht van de V.Z.W. Toerisme Limburg de vertegenwoordiger van de V.Z.W. Toerisme Limburg aan in het herstructureringscomité.<br>
-<br>
-Het herstructureringscomité heeft tot opdracht:<br>
-1° het opmaken, actualiseren en afstemmen op de vigerende regelgeving van de structuurvisie;<br>
-2° het laten uitrusten van de afgewerkte grindwinningsgebieden in het kader van de structuurvisie, die blijkt uit het in artikel 9, 6°, bedoelde beleidsplan, met inbegrip van het herstel en de ontwikkeling van de natuur en het natuurlijk milieu van de voormelde gebieden en de aanpalende omgeving;<br>
-3° het adviseren van de nabestemmingsplannen in de vergunning voor de exploitatie van grind voor de nieuwe ontginningsgebieden aan de vergunningsverlenende overheid;<br>
-4° in voorkomend geval, het laten afwerken na ontgrinding;<br>
-5° het toezicht houden op het afwerken en uitrusten van de grindwinningsgebieden.
+...
 
 ## AFDELING 6 [... (opgeh. decr. 1 maart 2019, art. 16, I: 29 maart 2019)]
 
 ### ART. 11.
 
-Het sociaal comité is samengesteld uit zeven leden: de voorzitter en zes gewone leden.<br /><br />De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het sociaal comité aan uit kandidaten op paritaire basis voorgedragen door de organisaties vertegenwoordigd in het paritair subcomité voor het bedrijf der grind- en zandgroeven die in open lucht worden gexploiteerd in de provincies Antwerpen, West-Vlaanderen, Oost-Vlaanderen, Limburg, en Vlaams-Brabant. [ <span class="reference">(verv. decr. 6 juli 2001, art. 10, I: 11 augustus 2001)</span> ]<br /><br />Een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding woont de vergaderingen bij met raadgevende stem.<br /><br />Het sociaal comité neemt, in het kader van het in artikel 9, 6°, bedoelde beleidsplan, de sociale begeleidingsmaatregelen bij de omschakeling van de grindwinningsgebieden.
+...
 
 ## AFDELING 7 [... (opgeh. decr. 1 maart 2019, art. 17, I: 29 maart 2019)]
 
 ### ART. 12.
 
-Het onderzoekscomité is samengesteld uit tien leden: de voorzitter en negen gewone leden.<br>
-<br>
-De Vlaamse regering benoemt de voorzitter en wijst de gewone leden van het grindonderzoekscomité aan als volgt:<br>
-1° twee leden worden benoemd uit kandidaten voorgedragen door publieke rechtspersonen, verenigingen of inrichtingen die rechtstreeks betrokken zijn bij de aanwending van grind en grindproducten en als zodanig worden aangewezen door de Vlaamse regering;<br>
-2° twee leden worden benoemd uit kandidaten voorgedragen door publieke rechtspersonen die rechtstreeks betrokken zijn bij het wetenschappelijk onderzoek en als zodanig worden aangewezen door de Vlaamse regering;<br>
-3° twee leden worden benoemd uit kandidaten op paritaire basis voorgedragen door de organisaties vertegenwoordigd in het artikel 11, tweede lid, bedoeld paritair subcomité;<br>
-4° twee leden worden benoemd uit kandidaten voorgedragen door verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen;<br>
-5° één lid wordt benoemd uit kandidaten voorgedragen door het Wetenschappelijk en Technisch Centrum voor het Bouwbedrijf.<br>
-<br>
-Deze leden hebben stemrecht.<br>
-<br>
-Als lid met raadgevende stem wordt aangeduid:<br>
-- één vertegenwoordiger van het departement.<br>
-<br>
-Het onderzoekscomité stelt onderzoeksprogramma's vast voor de ontwikkeling van grindsubstituten alsmede projecten tot ondersteuning van de commercialisering en het gebruik van zulke substituten.<br>
-<br>
-Met ingang van 1 januari 2013 wordt het onderzoekscomité ontbonden. Vanaf die datum treedt het grindcomité op als rechtsopvolger van het onderzoekscomité en neemt het alle taken, rechten en plichten ervan over.
+...
 
 ## AFDELING 8 [... (opgeh. decr. 1 maart 2019, art. 18, I: 29 maart 2019)]
 
 ### ART. 13.
 
-§ 1. Met behoud van toepassing van paragraaf 2 doen het grindcomité en de   subcomités een beroep op de POM of de provincie Limburg voor de materiële   voorbereiding en uitvoering van hun beslissingen.<BR><BR>De POM en de provincie   Limburg worden voor hun werkingskosten vergoed. Deze vergoedingen zijn ten laste   van het grindfonds.<BR><BR>§ 2. Het grindcomité kan bij overeenkomst een aantal   deeltaken toevertrouwen aan de personen of verenigingen of publieke   rechtspersonen die het aanwijst.<BR><BR>§ 3. De in § 1 en § 2 bedoelde   overeenkomst wordt ter goedkeuring voorgelegd aan de Vlaamse   regering.
+...
 
 ## HOOFDSTUK III MAATREGELEN BETREFFENDE DE GRINDWINNING
 
@@ -164,103 +157,53 @@ Met ingang van 1 januari 2013 wordt het onderzoekscomité ontbonden. Vanaf die d
 
 ### ART. 14bis.
 
-Voor de door de Vlaamse Regering aangewezen werken aan of aanleg van   infrastructuur van openbaar nut, kan de Vlaamse Regering de winning van grind   toestaan op de percelen waarop de infrastructuurwerken worden   uitgevoerd.<BR><BR>De grindwinning moet beperkt blijven tot de ontgraving die   noodzakelijk is voor de volledige realisatie op de percelen van het aangewezen   infrastructuurwerk, met inbegrip van de berging van de ontgraven   gronden.<BR><BR>De toestemming wordt verleend aan de houder van de   omgevingsvergunning.<BR><BR>De artikelen 3 tot 13, 15 tot 22 en 23bis, zijn niet   van toepassing op de grindwinning bij infrastructuurwerken.
+Bij het aanleggen van of bij het uitvoeren van werkzaamheden aan infrastructuurwerken van algemeen belang als vermeld in artikel 2, 1°, 2°, 3° en 6°, van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening, waarvoor een bestuurlijke overheid optreedt als initiatiefnemer, kan de Vlaamse Regering de grindwinning toestaan aan de houder van de omgevingsvergunning.<br>
+<br>
+De grindwinning bij infrastructuurwerken blijft beperkt tot de projectzone waarop het infrastructuurwerk wordt gerealiseerd. De projectzone omvat de kadastrale percelen waarop het eigenlijke infrastructuurwerk wordt gerealiseerd, met inbegrip van de definitieve bergingszone van de ontgraven gronden.<br>
+<br>
+In het besluit dat de Vlaamse Regering daartoe uitvaardigt, bakent ze, op voorstel van het departement, de projectzone af.<br>
+<br>
+Artikel 3 tot en met 8 en artikel 20bis tot en met 20septies zijn niet van toepassing op de grindwinning bij de infrastructuurwerken van algemeen belang, vermeld in het eerste lid.
 
 ### ART. 15.
 
-§ 1. De houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning, met inbegrip van de hoeveelheden grind in het kader van zuinig ruimtegebruik en de uitvoering van het principe van optimale ontginning, zoals bepaald in artikel 14, § 1, zijn, vanaf een door de Vlaamse Regering te bepalen datum, onderworpen aan een grindheffing. De grindheffing is verschuldigd voor de grindwinning die plaatsvindt voor 1 januari 2018.<br>
-<br>
-De heffing wordt halfjaarlijks betaald.<br>
-<br>
-§ 2. De grindheffing wordt berekend op het gewonnen tonnage grind inclusief geproduceerd breekzand dat tijdens een periode van 6 maanden werd afgevoerd. De heffingsplichtigen doen, in de loop van de maanden januari en juli, bij de met de inning belast diensten aangifte van de gegevens nodig voor het berekenen van de heffing die verschuldigd is over de voorgaande periode van zes maanden.<br>
-<br>
-§ 3. De Vlaamse regering regelt nader de aangifte en de aangiftetermijnen voor de grindheffing, alsmede de betaling en betalingstermijnen.<br>
-<br>
-§ 3bis. Er kan overgegaan worden tot een heffing van ambtswege in de gevallen waarin de heffingsplichtige nagelaten heeft:<br>
-1° ofwel een aangifte in te dienen binnen de door de Vlaamse regering bepaalde termijn;<br>
-2° ofwel de vormgebreken waarmee de aangifte is aangetast, te verhelpen binnen de termijn die de Vlaamse regering hem hiervoor toekent;<br>
-3° ofwel de gevraagde inlichtingen te verstrekken of de bescheiden voor te leggen binnen de vastgestelde termijn;<br>
-4° ofwel zich te schikken naar de wettelijk voorgeschreven verplichtingen inzake het houden, het uitreiken, het bewaren of het ter inzage voorleggen van boeken, stukken of registers.<br>
-<br>
-Er kan tevens tot een heffing van ambtswege worden overgegaan:<br>
-1° wanneer de berekeningselementen van de heffing niet of onjuist werden ingeschreven in de aangifte;<br>
-2° in de gevallen zoals vermeld in artikel 24, 3°. De heffing wordt in deze gevallen opgelegd voor het gedeelte dat onwettig werd geëxploiteerd.<br>
-<br>
-Er wordt in elk geval een heffing van ambtswege opgelegd aan de houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning, waarvoor proces-verbaal werd opgemaakt ingevolge ontduiking van artikel 15. De heffing op de ontdoken hoeveelheid grind is verschuldigd vanaf de kennisgeving van een afschrift van het proces-verbaal aan de overtreder.<br>
-<br>
-De heffing van ambtswege wordt opgelegd door de krachtens artikel 23bis, § 3, aangewezen ambtenaar en dit tot beloop van de heffing die vermoedelijk is verschuldigd. Zij wordt vastgesteld op basis van gegevens die kunnen bewezen worden door geschrift, getuigen en vermoedens. In voorkomend geval wordt zij vastgesteld op basis van de gegevens van het proces-verbaal.<br>
-<br>
-De Vlaamse regering regelt terzake de modaliteiten, de mogelijkheid voor de heffingsplichtige om zijn bezwaar tegen de heffing naar voren te brengen, de betaling en de betalingstermijnen.<br>
-<br>
-In elk geval ligt de bewijslast van het juiste bedrag van de verschuldigde heffing bij de heffingsplichtige.<br>
-<br>
-§ 4. De grindheffing wordt vastgesteld op een bedrag gelijk aan het produkt van de in § 5 bedoelde heffingscoëfficiënt en 0,42 euro per ton gewonnen valleigrind, inclusief breekzand, en 0,29 euro per ton gewonnen berggrind, inclusief breekzand.<br>
-<br>
-Een interest van 1 procent per maand is van rechtswege verschuldigd wanneer de heffing niet is betaald binnen de overeenkomstig § 3 vast te stellen termijn. De interest wordt om de maand berekend over het totaal van de verschuldigde heffing, afgerond op het duizendtal naar beneden.<br>
-<br>
-§ 5. De heffingscoëfficiënt bedraagt minimaal 1 en wordt vanaf 1996 elk jaar aangepast aan de evolutie van het indexcijfer der consumptieprijzen.<br>
-<br>
-De heffingscoëfficiënt voor het begrotingsjaar 1995 bedraagt 1,1141.<br>
-<br>
-De heffingscoëfficiënt wordt jaarlijks aangepast in het kader van de afbouw van de grindwinning.<br>
-<br>
-De voor een begrotingsjaar toepasselijke heffingscoëfficiënt wordt bij besluit van de Vlaamse regering bekendgemaakt in het Belgisch Staatsblad vóór 1 januari van het betrokken begrotingsjaar.<br>
-<br>
-§ 6. De vordering tot betaling van de heffing en van de interesten verjaart door verloop van 5 jaar, te rekenen van de dag waarop zij is ontstaan. De verjaring wordt gestuit op de wijze en onder de voorwaarden bepaald bij artikelen 2244 en volgende van het Burgerlijk Wetboek.<br>
-<br>
-§ 7. Betwistingen inzake de betaling en betalingstermijnen van heffingen, verhogingen en/of administratieve geldboeten die voor het inleiden van een rechtsgeding ontstaan, worden geregeld door de Vlaamse regering. De Vlaamse regering werkt hiervoor nadere regels uit.<br>
-<br>
-§ 8. Bij gebreke van betaling van de heffing en van de interesten, wordt door de met de invordering belaste ambtenaar een dwangbevel uitgevaardigd. Dit dwangbevel wordt geviseerd en uitvoerbaar verklaard door de daartoe door de Vlaamse regering aangewezen ambtenaar.<br>
-<br>
-De kennisgeving van het dwangbevel gebeurt per ter post aangetekende brief. De afgifte van het stuk ter post geldt als kennisgeving vanaf de daarop volgende dag.<br>
-<br>
-De in het tweede lid bedoelde kennisgeving:<br>
-1° stuit de verjaring van de vordering tot voldoening van de heffingen, en van de interesten;<br>
-2° maakt het mogelijk inschrijving te nemen van de wettelijke hypotheek;<br>
-3° stelt de heffingsplichtige in staat verzet aan te tekenen tegen de tenuitvoerlegging van het dwangbevel;<br>
-4° doet de moratoire interesten lopen tegen de rentevoet in burgerlijke zaken en met inachtneming van de terzake geldende regelen.<br>
-<br>
-§ 9. Tot zekerheid van de voldoening van de heffing, de interesten en de kosten, heeft het Vlaamse Gewest een algemeen voorrecht op alle roerende goederen van de heffingsplichtige, met uitzondering van schepen en vaartuigen, en een wettelijke hypotheek op al zijn voor hypotheek vatbare en in België gelegen goederen, met inbegrip van de in België teboekgestelde schepen en vaartuigen.<br>
-<br>
-De rang van de wettelijke hypotheek wordt bepaald door de dagtekening van de inschrijving die genomen wordt krachtens het uitgevaardigde en uitvoerbaar verklaarde dwangbevel, waarvan overeenkomstig § 8 aan de heffingsplichtige kennisgeving is gedaan.<br>
-<br>
-Het voorrecht neem rang in onmiddellijk na de voorrechten die vermeld zijn in de artikelen 19 en 20 van de wet van 16 december 1851 en artikel 23 van boek II van het Wetboek van Koophandel.<br>
-<br>
-De hypotheek wordt ingeschreven op verzoek van een daartoe door de Vlaamse regering gemachtigde ambtenaar. De inschrijving heeft plaats, niettegenstaande verzet, betwisting of beroep, op voorlegging van een afschrift van het dwangbevel dat eensluidend werd verklaard door die ambtenaar en dat melding maakt van de kennisgeving ervan.<br>
-<br>
-§ 10. Artikel 447, tweede lid, van boek III van het Wetboek van Koophandel met betrekking tot het faillissement, de bankbreuk en het uitstel van betaling, is niet van toepassing op de wettelijke hypotheek inzake de verschuldigde heffing waarvoor een dwangbevel werd uitgevaardigd waarvan kennisgeving of betekening aan de heffingsschuldige is gedaan voor het vonnis van faillietverklaring.<br>
-<br>
-§ 11. Onder voorbehoud van wat bepaald is in § 7 en § 8 geschiedt de tenuitvoerlegging van het dwangbevel met inachtneming van de bepalingen van het vijfde deel, titel III van het Gerechtelijk Wetboek inzake gedwongen tenuitvoerlegging.
+...
 
 ### ART. 15bis.
 
-De Vlaamse regering stelt de nadere regels vast ter vervanging van een gedeelte van de grindhef-fing door een waarborgsysteem, waarbij aan volgende voorwaarden dient voldaan te worden:<br /><br />1° het waarborgsysteem wordt opgelegd voor alle grindwinningsactiviteiten in de grindwinningsgebieden en heeft enkel betrekking op het afwerken na ontgrinding;<br /><br />2° het grindcomité en de subcomités stellen een gedetailleerde begroting op betreffende hun totale verwachte uitgaven;<br /><br />3° de grindheffingen die voorafgaand aan de invoering van het waarborgsysteem werden geïnd, dienen gedeeltelijk bestemd te worden als waarborg voor het afwerken na ontgrinding;<br /><br />4° het waarborgsysteem dient éénvormig te zijn voor alle houders van een krachtens artikel 16 toegewezen productiequotum en dient het solidariteitsprincipe te beklemtonen;<br /><br />5° het waarborgsysteem dient voldoende zekerheid te bieden om het afwerken na ontgrinding door de houders van een krachtens artikel 16 toegewezen productiequotum effectief te waarborgen;<br /><br />6° de waarborg kan enkel worden vrijgegeven in de mate dat het afwerken is gebeurd conform het nabestemmingsplan of, in voorkomend geval, de nabestemmingsplannen;<br /><br />7° het grindcomité legt aan de Vlaamse regering, op basis van de in 2° opgestelde begrotingen, voorafgaandelijk een voorstel voor aangaande de hoogte van de grindheffing, aangaande het waarborgsysteem en aangaande de gedeeltelijke bestemming van de grindheffingen zoals bepaald in 3°.<br /><br />De Vlaamse regering wint voorafgaandelijk aan de uitvoering van dit artikel het advies in van de MINA-Raad en de SERV.<br /><br />De Vlaamse regering kan de uitvoeringsmodaliteiten aangaande het waarborgsysteem toevertrouwen aan het herstructureringscomité. [ <span class="reference">(ing. decr. 6 juli 2001, art. 13, I: 30 september 2002, zie B.V.R. 27 september 2002, B.S., 1 november 2002)</span> ]
+...
 
 ### ART. 16.
 
-§ 1. Om de 2 jaar bepaalt de Vlaamse regering het totaal produktiequotum voor grindwinning teneinde een planmatige en geleidelijke afbouw van de grindwinningssector te verwezenlijken. [...  <span class="reference">(geschr. decr. 15 juli 2005, art. 4, I: 26 augustus 2005)</span> ]<br /><br />De Vlaamse regering verdeelt het tweejaarlijks productiequotum voor de periode vanaf 1996 onder de houders van de nodige vergunningen voor de exploitatie van een grindwinning, volgens een gefixeerde verdeelsleutel die gebaseerd dient te worden op de verdeelsleutels die werden toegekend voor de periode 1994-1995, rekening houdende met de situatie van diegenen die op dat moment geen quotum bezaten. [ <span class="reference">(verv. decr. 6 juli 2001, art. 14, I: 11 augustus 2001)</span> ]<br /><br />In afwijking kan er een beperkt deel van het tweejaarlijks produktiequotum worden toegewezen aan bedrijven die op 1 januari 1991 eigenaar waren of een ontginningsrecht hadden op gronden die toen gelegen waren in een ontginningsgebied dat voor grindwinning in aanmerking kwam. Een dergelijke afwijking kan slechts onder de volgende voorwaarden worden toegestaan:<br /><br />- dat er binnen de zes maanden na de eerste bekendmaking van de produktiequota in het Belgisch Staatsblad een aanvraag tot het verkrijgen van een deel van de tweejaarlijkse produktiequota bij de Vlaamse minister bevoegd voor de natuurlijke rijkdommen wordt ingediend;<br /><br />- dat de beoordeling zal gebeuren op grond van de ervaring in de grindwinning en de financiële en technische capaciteiten van het bedrijf;<br /><br />- dat het toegewezen deel van het produktiequotum de aanwezige grindhoeveelheden binnen bovenvermelde gronden niet overstijgt;<br /><br />- dat het eigendoms- en/of ontginningsrecht officieel geregistreerd is of zijn;<br /><br />- dat het bedrijf bij de goedkeuring van het decreet over geen vergunde grindwinning met recht op een produktiequotum beschikt.<br /><br />Ingeval een houder meer dan één vergunning voor de exploitatie van grind bezit, wordt het quotum per afzonderlijk grindwinningsgebied berekend en toegekend.<br /><br />De houder van een vergunning voor de exploitatie van grind in een grindwinningsgebied kan het niet-gebruikte deel van een productiequotum bij het einde van de tweejaarlijkse periode enkel in geval van overmacht overdragen op de volgende jaren. Hij wordt daartoe gehoord door het Grindcomité, dat vervolgens beslist over de nog toegelaten productieperiode na 2005. [ <span class="reference">(verv. decr. 15 juli 2005, art. 4, I: 26 augustus 2005)</span> ]<br /><br />De Vlaamse regering beslist, op gemotiveerd advies van het grindcomité, welke niet gebruikte gedeelten van een productiequotum onder het begrip overmacht vallen.<br /><br />De beslissing wordt ter kennis gebracht van de betrokken houder van de nodige vergunningen voor de exploitatie van grind en van het grindcomité.<br /><br />Het grindcomité beslist, na de betrokken houder van de nodige vergunningen voor de exploitatie van grind te hebben gehoord, over de verdeling van het wegens overmacht niet gebruikte gedeelte van de quota over de resterende tweejaarlijkse periodes en brengt deze beslissing ter kennis van de betrokken houder en van de Vlaamse regering. [ <span class="reference">(ing. decr. 6 juli 2001, art. 14, I: 11 augustus 2001)</span> ]<br /><br />De Vlaamse regering zal bij het vaststellen van de produktiequota een onderscheid maken tussen vallei- en berggrind.<br /><br />§ 2. De in § 1 bedoelde produktiequota worden bekendgemaakt in het Belgisch Staatsblad vóór 1 december voorafgaand aan de tweejaarlijkse periode waarop zij betrekking hebben. De produktiequota voor de eerste tweejaarlijkse periode worden bekendgemaakt uiterlijk één maand na de bekendmaking van dit decreet.<br /><br />De productiequota, bekendgemaakt overeenkomstig het vorige lid, worden automatisch vermeerderd met de quota, toegewezen overeenkomstig § 1, voorlaatste lid. [ <span class="reference">(ing. decr. 6 juli 2001, art. 14, I: 11 augustus 2001)</span> ]<br /><br />§ 3. Een houder van de nodige vergunningen voor de exploitatie van grind kan het hem toegewezen produktiequotum geheel of ten dele overgedragen aan een andere houder. Dergelijke overdracht wordt op straffe van nietigheid, binnen de vijf werkdagen vanaf de overdracht, aangemeld bij het grindcomité.<br /><br />De Vlaamse regering regelt de nadere modaliteiten en voorwaarden aangaande de overdracht of samenvoeging van productiequota. [ <span class="reference">(ing. decr. 6 juli 2001, art. 14, I: 11 augustus 2001)</span> ]<br /><br />§ 4. De Vlaamse regering kan bij overschrijding van het toegewezen produktiequotum of bij het niet nakomen van de verplichtingen in het kader van het waarborgsysteem [ <span class="reference">(verv. decr. 6 juli 2001, art. 14, I: 11 augustus 2001)</span> ] de vergunning voor de exploitatie van grind schorsen voor de periode die zij vaststelt en, ingeval het produktiequotum met meer dan 20 procent wordt overschreden, de vergunning voor de exploitatie van grind definitief intrekken of het produktiequotum voor de vol-gende tweejaarlijkse periode halveren. In ieder geval wordt de gedurende twee kalenderjaren teveel gewonnen hoeveelheid grind in mindering gebracht van het produktiequotum voor de volgende tweejaarlijkse periode.
+...
 
 ### ART. 17.
 
-§ 1. De Vlaamse regering neemt het initiatief tot wijziging van de betrokken gewestplannen. Zij laat een ecologische impactstudie, inclusief eco-hydrologische aspecten, maken ter bepaling van de ecologisch waardevolle zones. Daarnaast wordt een studie gemaakt ter bepaling van de grindreserves waarvan de exploitatie economische en milieutechnisch kan worden verantwoord. De kosten van de studie vallen ten laste van het grindfonds.<br /><br />§ 2. De reservegebieden, de effectieve grindwinningsgebieden en de uitbreidingsgebieden worden door de overeenkomstig § 1 gewijzigde gewestplannen aangeduid evenals hun nabestemming rekening houdend met de structuurvisie bedoeld in artikel 10.<br /><br />De effectieve grindwinningsgebieden zijn de gebieden waar op de datum van het vaststellen van het betrokken ontwerp van gewestplan vergunde grindwinning plaatsvindt of mag plaatsvinden.<br /><br />Vergunningen voor de winning van grind worden aangevraagd volgens de bestaande wetten, decreten en besluiten.<br /><br />Een vergunning voor de exploitatie van grind met betrekking tot een uitbreidingsgebied kan slechts worden verleend indien het effectieve grindwinningsgebied, waarvan het de uitbreiding vormt, is uitgeput.<br /><br />In de vergunningen voor exploitatie van grind en de stedebouwkundige vergunningen wordt de precieze nabestemming van de ontginningsgebieden opgenomen, zoals vastgesteld in het kader van de structuurvisie, vermeld in artikel 10, en in het gewestplan. <br /><br />§ 3. De POM verwerft, op bindend advies van het grindcomité, ofwel de eigendom bij aankoop of onteigening, ofwel het ontginningsrecht via een overeenkomst met de eigenaar, van de aangeduide grindwinningsgebieden die zich in de provincie Limburg bevinden.
+...
 
 ### ART. 18.
 
-Vergunningen voor de exploitatie van grind voor nieuwe grindwinningsgebieden kunnen slechts worden verleend nadat:<br />1° het betrokken gewestplan is gewijzigd overeenkomstig artikel 17;<br />2° het betrokken gebied op het gewijzigd gewestplan is aangeduid hetzij als effectief grindwinningsgebied hetzij als uitbreidingsgebied;<br />3° wat de provincie Limburg betreft, de POM de eigendom of het ontginningsrecht heeft verworven van het betrokken gebied en met de exploitant een concessie-overeenkomst heeft gesloten.<br /><br />De in het eerste lid, 3°, bedoelde concessie-overeenkomst neemt van rechtswege een einde bij het verstrijken of het intrekken van de vergunning voor de exploitatie van grind.
+...
 
 ### ART. 19.
 
-Het tijdstip waarop de voorschriften inzake effectieve ontginningsgebieden en uitbreiding van ontgin-ningsgebieden van kracht worden in de reservegebieden wordt bepaald bij besluit van de Vlaamse regering. De Vlaamse regering wint ter zake voorafgaand het advies in van het grindcomité.
+...
 
 ### ART. 20.
 
-§ 1. Aan de houders van een in toepassing van artikel 16 toegewezen produktiequotum wordt een trek-kingsrecht verleend op de gebieden die overeenkomstig artikel 19 worden ondergebracht bij de effectieve grind-winningsgebieden of uitbreidingsgebieden, rekening houdend met hun toegewezen produktiequotum. Het trekkingsrecht van elke houder wordt door de Vlaamse regering bekendgemaakt. Het is overdraagbaar.<br /><br />Op straffe van nietigheid wordt deze overdracht gemeld aan het grindcomité binnen 5 werkdagen na de overdracht.<br /><br />Indien een houder meer dan één vergunning voor de exploitatie van grind bezit, wordt het trekkingsrecht per afzonderlijk grindwinningsgebied berekend en toegekend.<br /><br />§ 2. De Vlaamse regering regelt de uitoefening van de trekkingsrechten en de toewijzing van nieuwe grindwin-ningsgebieden binnen de reservezones aan de houders van vergunningen voor de exploitatie van grind die hun trek-kingsrecht hebben uitgeoefend.<br /><br />§ 3. De uitoefening van een trekkingsrecht ontslaat de houder ervan niet van de verplichting de nodige vergunningen voor de exploitatie van grind te verkrijgen voor de betrokken gebieden binnen de reservegebieden.
+...
 
 ## [HOOFDSTUK IIIbis DE MAATREGELEN BETREFFENDE DE PROJECTGRINDWINNING (ing. Decr. 3 april 2009)]
 
 ### ART. 20bis.
 
-De Vlaamse Regering kan de grindwinning toestaan op de percelen waar   maatschappelijke projecten van groot openbaar belang worden   gerealiseerd.<BR><BR>Daartoe verleent de Vlaamse Regering aan de houder van de   omgevingsvergunning voor de werken, vermeld in het maatschappelijk project of   aan een kandidaat-exploitant tot grindwinning, een vergunning tot   projectgrindwinning. <BR><BR>De uitvoerbaarheid van en de voorwaarden voor de   projectgrindwinning worden in de vergunning bepaald in overeenstemming met het   project zoals vastgelegd in het projectcomité en goedgekeurd door de Vlaamse   Regering volgens de bepalingen van artikel 20sexies.<BR><BR>De artikelen 3 tot   7, § 2, de artikelen 8 tot 13, 14bis tot 20, 21, 22 en 23bis, zijn niet van   toepassing op de projectgrindwinning.
+De Vlaamse Regering kan de grindwinning toestaan op de percelen waar maatschappelijke projecten van groot openbaar belang worden gerealiseerd.<br>
+<br>
+Daartoe verleent de Vlaamse Regering aan de houder van de omgevingsvergunning voor de werken, vermeld in het maatschappelijk project of aan een kandidaat-exploitant tot grindwinning, een vergunning tot projectgrindwinning.<br>
+<br>
+De uitvoerbaarheid van en de voorwaarden voor de projectgrindwinning worden in de vergunning bepaald in overeenstemming met het project zoals vastgelegd in het projectcomité en goedgekeurd door de Vlaamse Regering volgens de bepalingen van artikel 20sexies.<br>
+<br>
+Artikel 3 tot en met 8, artikel 9 en artikel 14bis zijn niet van toepassing op de projectgrindwinning.
 
 ### ART. 20ter.
 
@@ -272,7 +215,24 @@ Voor de projectgrindwinningen gelden in elk geval de volgende voorwaarden : <br 
 
 ### ART. 20quinquies.
 
-De exploitant van een vergunde projectgrindwinning en de houder van de vergunning, vermeld in artikel 20bis, staan hoofdelijk in voor en dragen de kosten van het afwerken en het uitrusten van de percelen in de projectgrindwinning met het oog op de realisatie van het maatschappelijk project van groot openbaar belang.<br /><br />De exploitant, de vergunninghouder of een vereniging waarvan hij lid is, stelt tot zekerheid van de afwerking en de uitrusting, bij overeenkomst met het projectcomité, een financiële waarborg die voldoet aan de volgende voorwaarden : <br />1° voor het afsluiten van de overeenkomst stelt het projectcomité een gedetailleerde begroting op voor alle verwachte uitgaven voor afwerking en uitrusting. Daarbij wordt uitgegaan van de uitrustings- en afwerkingskosten in geval van aanbesteding door het projectcomité, met inbegrip van de toepasselijke btw, vermeerderd met 17 % risico- en coördinatiekosten;<br />2° de overeenkomst moet voldoende zekerheid bieden om het afwerken en het uitrusten na de ontgrinding door de exploitant, de vergunninghouder of de vereniging, daadwerkelijk te waarborgen;<br />3° de exploitant, de vergunninghouder of de vereniging stelt een onherroepelijke bankwaarborg die, ingeval de exploitant of de vereniging de verbintenissen tot afwerking en uitrusting niet of slechts gedeeltelijk nakomt, op eerste verzoek kan worden aangesproken; het maximaal te waarborgen bedrag van de bankwaarborg wordt vastgesteld op grond van de door het projectcomité opgestelde begroting van de kosten voor de afwerking en de uitrusting;<br />4° het bedrag van de bankwaarborg wordt halfjaarlijks aangepast aan de vordering van de werken, wat inhoudt dat het wordt verhoogd naarmate meer en meer wordt ontgonnen en verminderd naarmate de uitrusting en afwerking vorderen;<br />5° de waarborg kan enkel worden vrijgegeven in de mate dat de afwerking en de uitrusting de realisatie van het project toelaten. Dat wordt vastgesteld in een uitdrukkelijke en definitieve aanvaarding door het projectcomité. Bij vaststelling van niet-conforme afwerking en/of uitrusting of bij uitblijven van conforme afwerking en/of uitrusting moet de waarborg vervallen aan het projectcomité. De overeenkomst zal de wijze en de procedure bepalen waarop de conformiteit van de afwerking en uitrusting wordt vastgesteld.
+De exploitant van een vergunde projectgrindwinning en de houder van de vergunning, vermeld in artikel 20bis, zijn hoofdelijk gehouden voor het afwerken en uitrusten van de percelen in de projectgrindwinning met het oog op de realisatie van het maatschappelijk project van groot openbaar belang, en dragen de kosten daarvan.<br>
+<br>
+De exploitant, de vergunninghouder of een vereniging waarvan hij lid is, stelt tot zekerheid van die afwerking en uitrusting in een overeenkomst met het project-comité een financiële waarborg van 5 procent van alle verwachte uitgaven voor de afwerking en uitrusting van het te ontginnen gebied.<br>
+<br>
+Die waarborg voldoet aan de onderstaande voorwaarden:<br>
+1° de exploitant, de vergunninghouder of een vereniging waarvan hij lid is, legt vóór de start van de ontginning aan het projectcomité een gedetailleerde begroting voor van alle verwachte uitgaven voor afwerking en uitrusting;<br>
+2° de exploitant, de vergunninghouder of de vereniging stelt een onherroepelijke bankwaarborg van 5 procent van alle verwachte uitgaven voor de afwerking en uitrusting zoals die werden begroot;<br>
+3° de uitvoering van de projectgrindwinningsvergunning wordt geschorst tot het projectcomité de begroting heeft goedgekeurd en de waarborg volledig gesteld is;<br>
+4° de waarborg kan alleen definitief en volledig worden vrijgegeven op het ogenblik dat het te ontginnen gebied volledig en conform afgewerkt en uitgerust is. Dat wordt vastgesteld in een uitdrukkelijke en definitieve aanvaarding door het projectcomité. De overeenkomst, vermeld in het tweede lid, bepaalt de wijze en de procedure waarop de volledigheid en conformiteit van de afwerking en uitrusting worden vastgesteld;<br>
+5° als de projectgrindwinning voor het te ontginnen gebied en de bijbehorende uitrusting en afwerking in fases wordt uitgevoerd, stelt het projectcomité de conformiteit van de afwerking en uitrusting per fase vast. De fases worden vastgesteld in de overeenkomst, vermeld in het tweede lid. De volledige en conforme uitrusting en afwerking van een fase worden vastgesteld door het projectcomité, maar die vaststelling leidt niet tot de vrijgave van enig deel van de waarborg;<br>
+6° als wordt vastgesteld dat de afwerking en/of uitrusting niet conform is, of als een conforme afwerking en/of uitrusting uitblijft, hetzij van een fase, hetzij van het volledig te ontginnen gebied, vervalt de waarborg en wordt ze toegewezen aan het projectcomité voor het bedrag dat in de begroting is vastgesteld om de afwerking en/of uitrusting volledig en conform te voltooien;<br>
+7° het projectcomité kan de gestelde bankwaarborg op een eerste verzoek aanspreken.<br>
+<br>
+Als de waarborg niet toereikend is, vult de exploitant, de vergunninghouder of de vereniging waarvan hij lid is, het tekort aan op grond van de aansprakelijkheid, vermeld in het eerste lid, en betaalt hij dat tekort uit aan het projectcomité.<br>
+<br>
+Na het vervallen van de waarborg is het de taak van het projectcomité om de afwerking en uitrusting volledig en conform te voltooien voor de fase of het ontgonnen gebied in kwestie.<br>
+<br>
+Als een bedrag van de waarborg voor een fase is vervallen en aan het projectcomité is toegewezen, en de grindwinning voor andere fases wordt voortgezet, dan vult de exploitant, de vergunninghouder of een vereniging waarvan hij lid is de financiële waarborg binnen drie maanden weer aan tot 5 procent van alle verwachte uitgaven voor de afwerking en uitrusting van het te ontginnen gebied. De bepalingen van het derde lid zijn in dat geval integraal van toepassing.
 
 ### ART. 20sexies.
 
@@ -286,17 +246,17 @@ De exploitant van een vergunde projectgrindwinning en de houder van de vergunnin
 De oprichting van dit comité en het instellen van zijn bevoegdheden doen geen afbreuk aan de bevoegdheid van andere overheden om projecten uit te werken.<br>
 <br>
 Het projectcomité bestaat uit :<br>
-1° twee vertegenwoordigers, aangewezen door de bestendige deputatie van de provincie Limburg, het betreft de leden van de deputatie, bevoegd voor Ruimtelijke Ordening en Leefmilieu/Natuur of hun afgevaardigden;<br>
-2° de burgemeester van elke grindgemeente die voorkomt op de lijst, vastgesteld conform artikel 7, § 3, of hun afgevaardigde;<br>
+1° twee vertegenwoordigers, aangewezen door de&nbsp; deputatie van de provincie Limburg, het betreft de leden van de deputatie, bevoegd voor Ruimtelijke Ordening en Leefmilieu/Natuur of hun afgevaardigden;<br>
+2° de burgemeester van elke grindgemeente die voorkomt op de lijst, vastgesteld conform artikel 5, § 4, of hun afgevaardigde;<br>
 3° twee leden, aangewezen door de VZW Belbag als representatieve organisatie voor de exploitanten van grindwinning;<br>
 4° twee leden, aangewezen door de representatieve landbouworganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
 5° twee leden, aangewezen door representatieve verenigingen die uitsluitend de bescherming van het leefmilieu en de natuur als doel hebben en vertegenwoordigd zijn in de Milieu- en Natuurraad van Vlaanderen;<br>
 <br>
-Een ambtenaar van het departement, woont de vergaderingen van het projectgrindwinningscomité bij als waarnemer.<br>
+Een ambtenaar van het departement, woont de vergaderingen van het projectgrindwinningscomité bij als raadgever.<br>
 <br>
 Het projectgrindwinningscomité heeft rechtspersoonlijkheid.<br>
 <br>
-Het comité zorgt zelf voor de financiering van zijn werking, het noodzakelijke personeel en de noodzakelijke uitrusting.<br>
+Het comité zorgt zelf voor de financiering van zijn werking, het noodzakelijke personeel en de noodzakelijke uitrusting. Het comité kan daarvoor een beroep doen op de diensten of de personeelsleden die de Vlaamse Regering als ondersteuning ter beschikking van het comité stelt, of op de diensten of de personeelsleden die de POM of de provincie Limburg aan het comité ter beschikking stelt.<br>
 <br>
 Het mandaat van de leden van het projectgrindwinningscomité is onbezoldigd. Het comité regelt zelf de wijze waarop de leden worden vergoed voor de door hen gemaakte kosten. Deze vergoedingen zijn ten laste van het projectgrindwinningscomité.<br>
 <br>
@@ -329,11 +289,11 @@ Op voorstel van het projectcomité legt de Vlaamse Regering de regels vast betre
 
 ### ART. 21.
 
-§ 1. De Vlaamse regering regelt de bekendmaking van de beslissingen die krachtens dit decreet worden genomen.<br /><br />§ 2. Tegen elke beslissing van het grindcomité of een subcomité die genomen wordt krachtens dit decreet kan beroep worden ingediend bij de Vlaamse regering. De Vlaamse regering doet uitspraak binnen een termijn van drie maanden na ontvangst van het beroepsschrift.<br /><br />§ 3. Het in § 2 bedoelde beroep kan worden ingediend door:<br /><br />1° de aanvrager of houder van een vergunning;<br /><br />2° elke natuurlijke persoon en elke rechtspersoon die tengevolge van de betrokken grindwinning rechtstreeks hinder kan ondervinden, alsook elke rechtspersoon die zich de bescherming van het leefmilieu dat door deze hinder kan worden getroffen, tot doel heeft gesteld.<br /><br />§ 4. Het in § 2 bedoelde beroep wordt, op straffe van verval, ingediend bij aangetekend schrijven gericht tot de Voorzitter van de Vlaamse regering binnen een termijn van dertig dagen na bekendmaking van de bestreden beslissing.<br /><br />De in § 3, 1° en 2°, bedoelde partijen kunnen op eigen verzoek of op verzoek van de regering gehoord worden.<br /><br />De vastgestelde termijn van 3 maand kan bij gemotiveerd besluit door de regering met 30 dagen worden verlengd.<br /><br />Indien binnen de gestelde termijn geen beslissing wordt genomen, wordt het beroep geacht verworpen te zijn.<br /><br />De beroep aantekenende partijen worden schriftelijk op de hoogte gebracht van de beslissing van de regering.<br /><br />§ 5. Het indienen van een beroep schorst de bestreden beslissing niet.
+...
 
 ### ART. 22.
 
-De houders van een vergunning voor de exploitatie van grind kunnen, zonder schadevergoeding, een einde maken aan de betaling van de bijdragen aan de IML, die door de regering als vervangen door de grindheffing worden aangemerkt.<br /><br />De bepalingen in de overeenkomst tussen de GOM en de Limburgse Berggrind Uitbating betreffende de verpachting van de Mechelse Hede, inzake de financiële verplichtingen voor de herstructurering, komen te vervallen.<br /><br />Voor de grondwinningen die als nevenproduktie van de winning van andere natuurlijke grondstoffen optreden, zoals gedefinieerd onder artikel 2, 10°, kan de Vlaamse regering vrijstelling van heffing verlenen voor wat het gedeelte voor de herstructurering betreft zoals bepaald in artikel 5. Dit houdt in dat het grindcomité niet meer instaat voor de herstructurering van de betrokken ontginningsgebieden en de bestaande verplichtingen van kracht blijven.<br /><br />[De Vlaamse regering kan voor alle werken die niet de exploitatie van grind tot doel hebben en waarbij grind als grondstof wordt gewonnen en waarvoor de uitvoerder niet beschikt over een vergunning voor de exploitatie van grind en die worden uitgevoerd vooraleer een einde gemaakt wordt aan elke activiteit van grindwinning in de provincie Limburg, zoals bepaald in artikel 14, een grindheffing opleggen overeenkomstig de bepalingen van artikel 15, onder door de Vlaamse regering nader te bepalen modaliteiten.  <span class="reference">(ing. decr. 6 juli 2001, art. 17, I: 11 augustus 2001)</span> ]
+...
 
 ### ART. 23.
 
@@ -371,12 +331,15 @@ Zij hebben bij dag en nacht toegang tot alle instellingen of inrichtingen - woon
 
 ### ART. 23bis.
 
-§ 1. Bij niet-aangifte, het te laat indienen of in geval van onvolledige of onjuiste aangifte, kunnen de op het niet aangegeven productiegedeelte, zoals bepaald in artikel 15, § 2, verschuldigde heffingen vermeerderd worden met een verhoging die wordt bepaald naargelang de ernst van de overtreding, op 10 % tot 100 % van het niet aangegeven productiegedeelte.<br /><br />§ 2. De houders van de nodige vergunningen voor de exploitatie van grind in een grindwinning, waarvoor proces-verbaal werd opgemaakt wegens ontduiking van artikel 15, kan per inbreuk een administratieve geldboete worden opgelegd van 1 000 euro tot 10 000 euro. De heffing op de ontdoken hoeveelheid grind wordt ambtshalve opgelegd overeenkomstig het bepaalde in artikel 15, § 3bis<br /><br />.<br /><br />De administratieve geldboete is in alle gevallen alleen van toepassing op de betrokken houder van de nodige vergunningen voor de exploitatie van grind in een grindwinning.<br /><br />Indien binnen de drie jaar, te rekenen vanaf de datum van het proces-verbaal, een nieuwe overtreding wordt vastgesteld, worden de in het eerste lid genoemde bedragen verdubbeld.<br /><br />Deze paragraaf is niet van toepassing op de inbreuken zoals bepaald in artikel 24, 3°.<br /><br />§ 3. De daartoe door de Vlaamse regering aangewezen ambtenaar beslist in de in dit artikel vermelde gevallen, nadat de betrokkene de mogelijkheid geboden werd zijn verweermiddelen naar voren te brengen, of er een verhoging of administratieve geldboete moet worden opgelegd.<br /><br />De Vlaamse regering regelt de nadere modaliteiten en de termijnen aangaande de in het vorige lid vermelde verweermogelijkheid.<br /><br />Indien de bevoegde ambtenaar beslist een verhoging of administratieve geldboete op te leggen, vermeldt zijn beslissing het bedrag, is het met redenen omkleed en vermeldt het tevens de tekst van artikel 15, § 8, eerste lid, en de termijn waarbinnen het bedrag dient betaald te worden.<br /><br />De in het vorige lid vermelde beslissing wordt bij een ter post aangetekend schrijven aan de betrokkene en, in voorkomend geval, de eigenaar van de gronden ter kennis gegeven.<br /><br />De betaling van de verhoging of de administratieve geldboete maakt een einde aan de administratieve vordering.<br /><br />§ 4. Artikel 15, §§ 8 tot 11 zijn van overeenkomstige toepassing op dit artikel.<br /><br />§ 5. De beslissing om een verhoging of administratieve geldboete op te leggen kan niet meer genomen worden na verloop van twee jaar.<br /><br />De in het eerste lid vermelde verjaringstermijn neemt een aanvang vanaf:<br /><br />1° de datum waarop de betreffende aangifte verplicht ingediend moest zijn in de gevallen zoals voorzien in § 1;<br /><br />2° de datum van de kennisgeving van een afschrift van het proces-verbaal aan de overtreder in de gevallen zoals voorzien in § 2.<br /><br />§ 6. De daden van onderzoek, met inbegrip van de in § 3 aan de betrokkene geboden mogelijkheid om zijn verweermiddelen naar voren te brengen, stuiten de loop ervan. Met die daden begint een nieuwe termijn van gelijke duur te lopen.  <span class="reference">(ing. decr. 6 juli 2001, art. 19, I: 11 augustus 2001)</span> ]
+...
 
 ### ART. 24.
 
-Met gevangenisstraf van acht dagen tot één jaar en met een geldboete van honderd frank tot hon-derdduizend frank of met een van die straffen alleen, wordt gestraft:<br /><br />1° hij die het hem krachtens artikel 16, § 1, toegewezen produktiequotum overschrijdt;<br /><br />2° hij die het bij dit decreet geregelde toezicht verhindert;<br /><br />3° hij die [in de provincie Limburg onwettig grind exploiteert.  <span class="reference">(verv. decr. 6 juli 2001, art. 20, I: 11 augustus 2001)</span> ]
+Met gevangenisstraf van acht dagen tot één jaar en met een geldboete van honderd frank tot honderdduizend frank of met een van die straffen alleen, wordt gestraft:<br>
+1° hij die het hem toegewezen produktiequotum overschrijdt;<br>
+2° hij die het bij dit decreet geregelde toezicht verhindert;<br>
+3° hij die [in de provincie Limburg onwettig grind exploiteert.
 
 ### ART. 25.
 
-Het eerste lid van artikel 18 treedt in werking zes maanden na de bekendmaking van dit decreet.
+...

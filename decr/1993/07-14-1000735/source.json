@@ -2,16 +2,16 @@
   "codex_id": 1000735,
   "title": "Decreet van 1993-07-14 tot oprichting van het Grindfonds en tot regeling van de grindwinning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000735/VolledigDocument?datum=2018-01-01",
-  "source_sha256": "909b69fa25dcc00c11f40c7ba55c492c7969cd4a193d7e2dea93526f458c8174",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000735/VolledigDocument?datum=2019-03-29",
+  "source_sha256": "24f0eca75d29a5cbf8994aa9e71d73de19753d1cc7301ae750a620a354200832",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000735&param=informatie",
-  "as_of": "2018-01-01",
+  "as_of": "2019-03-29",
   "made": "1993-07-14",
   "gazette": "1993-10-14",
   "numac": 1993036122,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-01-01",
+  "in_force": "2019-03-29",
   "article_versions": 34,
-  "record_form": "consolidated version as in force on 2018-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-03-29; future article versions excluded; article text as the API gives it"
 }
