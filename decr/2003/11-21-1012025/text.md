@@ -347,9 +347,9 @@ De gemeentelijke en provinciale overheden, met uitzondering van de gemeenten van
 
 ### ART. 45.
 
-§ 1. De Vlaamse regering bepaalt, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, de procedure van melding, de inhoud en de vorm van de melding, alsook de wijze van verwerking van de melding.<br>
+§ 1. De Vlaamse regering bepaalt, na advies van de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de procedure van melding, de inhoud en de vorm van de melding, alsook de wijze van verwerking van de melding.<br>
 <br>
-In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op de uitvoering van artikel 44, § 2, bepaalt de Vlaamse regering, na advies van een kamer van de toezichtcommissie als vermeld in artikel 10 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, die specifiek toeziet op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens die de gezondheid betreffen, de omstandigheden waarin, de identiteit moet worden meegedeeld.<br>
+In principe is de melding, bedoeld in het eerste lid, naamloos. Met het oog op de uitvoering van artikel 44, § 2, bepaalt de Vlaamse regering, na advies van de Vlaamse toezichtcommissie, vermeld in artikel 10/1 van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, de omstandigheden waarin, de identiteit moet worden meegedeeld.<br>
 <br>
 § 2. De gemelde gegevens worden aangewend met het oog op het nemen van initiatieven, als bedoeld in artikel 44, § 2, en in het bijzonder met het oog op het nemen van de maatregelen, als bedoeld in artikel 44, § 3, 2°.<br>
 <br>
