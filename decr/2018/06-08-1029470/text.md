@@ -321,6 +321,16 @@ De adviezen van de Vlaamse toezichtcommissie zijn schriftelijk en met redenen om
 § 3. Overeenkomstig artikel 35, lid 4, van de algemene verordening gegevensbescherming stelt de Vlaamse toezichtcommissie een lijst op van het soort verwerkingen waarvoor een gegevensbeschermingseffectbeoordeling door de instanties verplicht is, en maakt deze openbaar op haar website.".<br>
 &nbsp;
 
+### ART 24.
+
+In hetzelfde decreet wordt een artikel 10/5 ingevoegd, dat luidt als volgt :<br>
+"Art. 10/5. Wanneer de betrokkene, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming, in het kader van een onderzoek dat betrekking heeft op hem of haar overeenkomstig de specifieke decretale bepalingen ter uitvoering van artikel 23, lid 1, e) en h), van de voormelde verordening, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, verricht de Vlaamse toezichtcommissie de nodige verificaties en onderzoekt in het bijzonder of correct met toepassing van de voormelde verordeningsbepaling is beslist de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerking van persoonsgegevens.<br>
+<br>
+De Vlaamse toezichtcommissie wendt zich daartoe tot de betreffende instantie, en in het geval het dossier inmiddels door de instantie aan het Openbaar Ministerie of de onderzoeksrechter werd bezorgd, wendt de Vlaamse toezichtcommissie zich eveneens tot het Openbaar Ministerie of de onderzoeksrechter om de nodige verificaties te verrichten.<br>
+<br>
+De Vlaamse toezichtcommissie deelt uitsluitend aan de betrokkene mee dat de nodige verificaties zijn verricht. In voorkomend geval gelast de Vlaamse toezichtcommissie de betreffende instantie de verzoeken van de betrokkene tot uitoefening van zijn rechten uit hoofde van de algemene verordening gegevensbescherming in te willigen overeenkomstig artikel 58, lid 2, c), van de algemene verordening gegevensbescherming.".<br>
+&nbsp;
+
 ### ART 25.
 
 In hetzelfde decreet wordt een artikel 10/6 ingevoegd, dat luidt als volgt :<br>
