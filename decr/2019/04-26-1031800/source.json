@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031800,
+  "title": "Decreet van 2019-04-26 houdende diverse bepalingen inzake omgeving, natuur en landbouw",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031800/VolledigDocument?datum=2019-03-31",
+  "source_sha256": "8a04f0d77f10a72f622e8fd6f24d202f8725d3323435a4adb68c4f14f3744abf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031800&param=informatie",
+  "as_of": "2019-03-31",
+  "made": "2019-04-26",
+  "gazette": "2019-06-19",
+  "numac": 2019013160,
+  "document_start": "2019-06-29",
+  "document_end": null,
+  "in_force": "2019-03-31",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2019-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
