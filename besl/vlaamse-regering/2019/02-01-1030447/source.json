@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030447,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-01 houdende indeling bij de gemeentewegen van de ventweg N34 Dokter Eduard Moreauxlaan (lengte: 49 meter) op het grondgebied van de gemeente Bredene",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030447/VolledigDocument?datum=2019-03-31",
+  "source_sha256": "7c8963700820c7cacac9affe0b58280f8760948d036fc546082f4f260016adc4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030447&param=informatie",
+  "as_of": "2019-03-31",
+  "made": "2019-02-01",
+  "gazette": "2019-03-21",
+  "numac": 2019040683,
+  "document_start": "2019-03-31",
+  "document_end": null,
+  "in_force": "2019-03-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
