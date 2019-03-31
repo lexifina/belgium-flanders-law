@@ -86,6 +86,10 @@ In artikel 3, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 22 maar
 3° in punt 21°, a) en b), worden de woorden "vijf maanden" vervangen door de zinsnede "149 dagen";<br>
 4° punt 24° wordt opgeheven.
 
+### ART 54.
+
+In artikel 9, § 2, van hetzelfde decreet wordt de zinsnede "artikel 80bis" vervangen door de zinsnede "artikel 58, § 1, en artikel 59".
+
 ### ART 56.
 
 In artikel 18, tweede lid, 2° en 3°, van hetzelfde decreet wordt het bedrag "30.386,52 euro" vervangen door het bedrag "30.378,60 euro".
