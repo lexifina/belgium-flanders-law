@@ -225,7 +225,7 @@ De begunstigde kan het startbedrag geboorte aanvragen na minstens vijf maanden z
 <br>
 Het startbedrag wordt op zijn vroegst uitbetaald aan de begunstigde of begunstigden twee maanden vóór de vermoedelijke geboortedatum van het rechtgevende kind dat is opgenomen in het getuigschrift, vermeld in het tweede lid, op voorwaarde dat de zwangere persoon op het ogenblik van de voorafbetaling voldoet aan de voorwaarden, vermeld in artikel 8, § 1, eerste lid, 1°.<br>
 <br>
-§ 2. Ook een kind voor wie een akte van aangifte van levenloos kind overeenkomstig artikel 80bis van het Burgerlijk Wetboek is opgesteld door de ambtenaar van de burgerlijke stand, geeft recht op het startbedrag geboorte.
+§ 2. Ook een kind voor wie een akte van aangifte van levenloos kind overeenkomstig&nbsp;artikel 58, § 1, en artikel 59 van het Burgerlijk Wetboek is opgesteld door de ambtenaar van de burgerlijke stand, geeft recht op het startbedrag geboorte.
 
 ### ART 10.
 
