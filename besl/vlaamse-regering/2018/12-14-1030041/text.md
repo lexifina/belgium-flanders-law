@@ -873,7 +873,7 @@ In afwijking van artikel 11.2.1, tweede lid van het Onroerenderfgoedbesluit van 
 
 De volgende regelgevende teksten treden in werking op 1 januari 2019:<br>
 1° het decreet van 13 juli 2018 houdende de wijziging van het Onroerenderfgoeddecreet van 12 juli 2013 naar aanleiding van de ex-post evaluatie, met uitzondering van artikel 2, 2° en 3°, artikel 3 en 4, artikel 9 tot en met 36, artikel 37 tot en met 53, artikel 54, artikel 59, 1° en 2°, en artikel 64 tot en met 71;<br>
-2° dit besluit, met uitzondering van artikel 1, 3°, 6° en 7°, artikel 3 en 4, artikel 11, artikel 14, artikel 20, artikel 22 en 23, artikel 27 tot en met 41, artikel 49 tot en met 62, artikel 94, artikel 96 tot en met 99, artikel 101, artikel 104 en 105, artikel 107, artikel 118, artikel 129, artikel 138 tot en met 140, artikel 143, artikel 145, artikel 146, artikel 150 en 151 en artikel 158.
+2° dit besluit, met uitzondering van artikel 1, 3°, 6° en 7°, artikel 3 en 4, artikel 11, artikel 14, artikel 20, artikel 22 en 23, artikel 27 tot en met 41, artikel 49 tot en met 62, artikel 94, artikel 96 tot en met 99, artikel 101, artikel 104 en 105, artikel 107, artikel 118, artikel 129, artikel 138 tot en met 140,&nbsp;artikel 145, artikel 146, artikel 150 en 151 en artikel 158.
 
 ### ART 160.
 
@@ -881,7 +881,7 @@ Artikel 2, 3°, artikel 3 en 4, artikel 9 tot en met 36, artikel 54, artikel 59,
 
 ### ART 161.
 
-Artikel 1, 3°, 6° en 7°, artikel 27 tot en met 41, artikel 49 tot en met 62, artikel 118, artikel 129, artikel 138 tot en met 140, artikel 143, artikel 145, artikel 146, artikel 150, en artikel 151 en 158 van dit besluit treden in werking op 1 april 2019.
+Artikel 1, 3°, 6° en 7°, artikel 27 tot en met 41, artikel 49 tot en met 62, artikel 118, artikel 129, artikel 138 tot en met 140,&nbsp;artikel 145, artikel 146, artikel 150, en artikel 151 en 158 van dit besluit treden in werking op 1 april 2019.
 
 ### ART 162.
 
