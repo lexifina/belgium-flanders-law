@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030449,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-01 houdende indeling bij de gemeentewegen van de gewestweg N357-Hoogstraat-Wielsbekestraat (tussen kilometerpunt 15,511 en 16,708) op het grondgebied van de gemeente Oostrozebeke",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030449/VolledigDocument?datum=2019-03-31",
+  "source_sha256": "0a480bcf70319194925b5c0db17622013ff02978c8ba4a3db81a235bcafbeaae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030449&param=informatie",
+  "as_of": "2019-03-31",
+  "made": "2019-02-01",
+  "gazette": "2019-03-21",
+  "numac": 2019040686,
+  "document_start": "2019-03-31",
+  "document_end": null,
+  "in_force": "2019-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
