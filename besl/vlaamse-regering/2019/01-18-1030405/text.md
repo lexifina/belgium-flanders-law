@@ -21,4 +21,4 @@ De Vlaamse minister, bevoegd voor de culturele aangelegenheden, is bevoegd voor 
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2019/03/14_1.pdf#page=51">Bijlage</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2019/06/27_1.pdf#page=174">Vaste beoordelaars beoordelingscommissies Kunstendecreet</a>
