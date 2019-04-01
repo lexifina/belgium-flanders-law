@@ -2,16 +2,16 @@
   "codex_id": 1030019,
   "title": "Besluit van de Vlaamse Regering van 2018-09-14 tot wijziging van de regelgeving betreffende het landbouw- en visserijbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030019/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "53cdb808e993a689796e28c2282d7cffdececd012f7aa07467a2aaec13979a1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030019/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "fd694281e8d5ada5756debf2cf3d8fde69e91b1995a9edba15e26f036c0af6d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030019&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-04-01",
   "made": "2018-09-14",
   "gazette": "2018-12-20",
   "numac": 2018015336,
   "document_start": "2018-12-30",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 193,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-04-01",
+  "article_versions": 198,
+  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
 }

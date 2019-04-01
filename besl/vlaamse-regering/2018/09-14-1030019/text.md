@@ -974,6 +974,50 @@ Artikel 71 en 72 wordt opgeheven.
 
 Artikel 1/1 van het besluit van de Vlaamse Regering van 8 november 2013 houdende de subsidiëring van bedrijfsadvisering in de biologische landbouw, ingevoegd bij het besluit van de Vlaamse Regering van 19 december 2014, wordt opgeheven.
 
+### ART 116.
+
+In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "gedateerd en" worden opgeheven;<br>
+<br>
+2° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De minister kan nadere regels bepalen over de inhoud van het contract, vermeld in het eerste lid, de te volgen procedure, en de wijze van ondertekening, afsluiting en indiening van het contract.".
+
+### ART 117.
+
+In artikel 7 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het eerste lid en het vijfde tot en met het zevende lid worden opgeheven;<br>
+<br>
+2° het bestaande achtste lid, dat het vierde lid wordt, wordt vervangen door wat volgt:<br>
+<br>
+"De minister kan de wijze waarop de kennisgeving, vermeld in dit artikel, moet gebeuren, bepalen.".
+
+### ART 118.
+
+In artikel 8 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt het woord "ondertekende" opgeheven;<br>
+<br>
+2° in het derde lid worden tussen het woord "subsidie" en het woord "bepalen" de woorden "en de wijze waarop de aanvraag ingediend moet worden" ingevoegd;<br>
+<br>
+3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"Uiterlijk na de datum van het laatste bedrijfsbezoek in het kader van de bedrijfsadvisering bezorgt de erkende adviesdienst het schriftelijk verslag of de schriftelijke verslagen van de geleverde bedrijfsadvisering aan de betrokken landbouwer, kandidaat-biologische landbouwer of land- en tuinbouwschool.".
+
+### ART 119.
+
+In artikel 9 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "op een evaluatieformulier" opgeheven;<br>
+<br>
+2° in het eerste lid wordt het woord "elementen" vervangen door het woord "advieselementen";<br>
+<br>
+3° in het eerste lid wordt de zin "Dit wordt gedateerd en ondertekend door de landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool en bezorgd aan de bevoegde entiteit." opgeheven;<br>
+<br>
+4° in het tweede lid worden tussen het woord "evaluatie" en het woord "bepalen" de woorden "en de wijze waarop de evaluatie ingediend moet worden" ingevoegd.
+
 ### ART 120.
 
 Artikel 10 van hetzelfde besluit wordt vervangen door wat volgt:<br>
@@ -1088,6 +1132,10 @@ Aan artikel 35 van hetzelfde besluit wordt een vierde lid toegevoegd, dat luidt 
 ### ART 134.
 
 In artikel 36 van hetzelfde besluit wordt het derde lid opgeheven.
+
+### ART 135.
+
+In artikel 36 van hetzelfde besluit wordt het vierde lid opgeheven.
 
 ### ART 136.
 
