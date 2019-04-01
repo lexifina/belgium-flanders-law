@@ -12,7 +12,24 @@ Dit decreet voorziet in de omzetting van de Richtlijn 2006/123/EG van het Europe
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder :<br />1° private arbeidsbemiddeling : het geheel van diensten uitgeoefend door een tussenpersoon die gericht zijn op :<br />a) het bijstaan van werknemers bij het zoeken van een nieuwe tewerkstelling;<br />b) het bijstaan van werkgevers bij het zoeken naar geschikte werknemers;<br />c) het in dienst nemen van werknemers om hen ter beschikking te stellen met het oog op de uitvoering van een tijdelijke arbeid zoals bepaald bij of krachtens de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers; <br />2° werknemer : de natuurlijke persoon die een beroepsactiviteit uitoefent of wil uitoefenen onder het gezag van een werkgever. Met werknemer worden zowel werkzoekende als zelfstandige gelijkgesteld;<br />3° bureau : de rechtspersoon of natuurlijke persoon die, onder welke naam of vorm ook, diensten verricht, als vermeld in punt 1°;<br />4° uitzendactiviteiten : het geheel van diensten als vermeld in punt 1°, c); <br />5° uitzendbureau : het bureau dat uitzendactiviteiten verricht;<br />6° SERV : de Sociaal-Economische Raad van Vlaanderen;<br />7° adviescommissie : de adviescommissie voor uitzendactiviteiten, vermeld in artikel 20;<br />8° administratie : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005;<br />9° lidstaat van vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied waarvan het bureau van de dienstverrichter is gevestigd;<br />10° betaalde sportbeoefenaars : personen die de verplichting aangaan om zich - tegen loon - voor te bereiden op of deel te nemen aan een sportcompetitie of -exhibitie onder het gezag van een ander persoon evenals de personen die de oefeningen tijdens de voorbereiding leiden;<br />11° schouwspelartiesten : dramatische, lyrische, choreografische en variétéartiesten, musici, orkestleiders, balletmeesters en aanvullingsartiesten die tegen betaling optreden tijdens voorstellingen, repetities, auditieve of visuele opnames.<br /><br />
+In dit decreet wordt verstaan onder :<br>
+1° private arbeidsbemiddeling : het geheel van diensten uitgeoefend door een tussenpersoon die gericht zijn op :<br>
+a) het bijstaan van werknemers bij het zoeken van een nieuwe tewerkstelling;<br>
+b) het bijstaan van werkgevers bij het zoeken naar geschikte werknemers;<br>
+c) het in dienst nemen van werknemers om hen ter beschikking te stellen met het oog op de uitvoering van een tijdelijke arbeid zoals bepaald bij of krachtens de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het ter beschikking stellen van werknemers ten behoeve van gebruikers;<br>
+2° werknemer : de natuurlijke persoon die een beroepsactiviteit uitoefent of wil uitoefenen onder het gezag van een werkgever. Met werknemer worden zowel werkzoekende als zelfstandige gelijkgesteld;<br>
+3° bureau : de rechtspersoon of natuurlijke persoon die, onder welke naam of vorm ook, diensten verricht, als vermeld in punt 1°;<br>
+4° uitzendactiviteiten : het geheel van diensten als vermeld in punt 1°, c);<br>
+5° uitzendbureau : het bureau dat uitzendactiviteiten verricht;<br>
+6° SERV : de Sociaal-Economische Raad van Vlaanderen;<br>
+7° adviescommissie: de adviescommissie voor uitzendactiviteiten en activiteiten voor sportmakelaars, vermeld in artikel 20/13;<br>
+8° administratie: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+9° lidstaat van vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied waarvan het bureau van de dienstverrichter is gevestigd;<br>
+10° betaalde sportbeoefenaars : personen die de verplichting aangaan om zich - tegen loon - voor te bereiden op of deel te nemen aan een sportcompetitie of -exhibitie onder het gezag van een ander persoon evenals de personen die de oefeningen tijdens de voorbereiding leiden;<br>
+11° schouwspelartiesten : dramatische, lyrische, choreografische en variétéartiesten, musici, orkestleiders, balletmeesters en aanvullingsartiesten die tegen betaling optreden tijdens voorstellingen, repetities, auditieve of visuele opnames.<br>
+12° sportmakelaar: het bureau dat diensten van private arbeidsbemiddeling verricht voor potentiële betaalde sportbeoefenaars of voor rekening van werkgevers met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars;<br>
+13° visser: eender wie die in welke hoedanigheid ook is tewerkgesteld of aangeworven of een beroepsactiviteit uitoefent aan boord van een vissersschip, met inbegrip van de personen die aan boord werken in ruil voor een aandeel in de vangst, maar met uitsluiting van de loodsen, de bemanningen van marineschepen, de overige permanent in overheidsdienst werkende personen, de met werkzaamheden aan boord van vissersschepen belaste aan wal werkende personeelsleden en de visserijwaarnemers.<br>
+&nbsp;
 
 ### ART. 4.
 
@@ -33,7 +50,7 @@ d) onderworpen aan een exploitatieverbod met bedrijfssluiting, of aan een beroep
 e) ontheven van hun burgerrechten en politieke rechten;<br>
 4° het bureau voldoet aan de sociale en fiscale wettelijke verplichtingen;<br>
 5° het bureau oefent geen diensten uit waarvan het weet of behoorde te weten dat die leiden tot een tewerkstelling die strijdig is met de openbare orde of die een inbreuk inhouden op de sociale en fiscale wetgeving;<br>
-6° het bureau oefent geen diensten uit die verboden zijn krachtens Verdrag nr. 9 op de arbeidsbemiddeling van de zeelieden, aangenomen op 10 juli 1920 door de Algemene Conferentie van de Internationale Arbeidsorganisatie, en goedgekeurd bij de wet van 6 september 1924;<br>
+6° het bureau oefent geen diensten uit die conform het verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006, verboden zijn;<br>
 7° het bureau behandelt de werknemer op een objectieve, respectvolle en niet-discriminerende wijze;<br>
 8° het bureau eerbiedigt de persoonlijke levenssfeer van de werknemer en van de werkgever en verwerkt hun persoonsgegevens overeenkomstig de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens;<br>
 9° het bureau vraagt of ontvangt onder geen beding enige vergoeding van de werknemer. De Vlaamse Regering kan een afwijking toestaan voor bepaalde categorieën van werknemers en voor welbepaalde diensten, met uitsluiting van uitzendactiviteiten, na het advies van de SERV, en op voorwaarde dat dit in het belang van de werknemer is;<br>
@@ -54,6 +71,7 @@ e) ontheven van hun burgerrechten en politieke rechten;<br>
 24° het bureau is ertoe gehouden een document waarin de rechten en verplichtingen van de werknemer en de werkgever worden bepaald, te overhandigen aan de gegadigden of in extenso aan te plakken in de voor het publiek toegankelijke lokalen van het bureau op de plaats waar hij het best kan worden gelezen.<br>
 De inhoud van die tekst wordt bepaald door de Vlaamse Regering, na het advies van de SERV;<br>
 25° als de private arbeidsbemiddeling bestaat uit de bekendmaking van werkaanbiedingen door middel van de geschreven, de auditieve of de visuele media, wordt de tekst waarin de rechten en verplichtingen van de werknemer en van de werkgever worden bepaald aan hen kenbaar gemaakt volgens de voorwaarden bepaald door de Vlaamse Regering, na het advies van de SERV.<br>
+26° het bureau maakt geen gebruik van middelen, mechanismen of lijsten om vissers te verhinderen werk te vinden.<br>
 &nbsp;
 
 ### ART. 6.
@@ -110,7 +128,8 @@ Als het uitzendbureau niet langer aan de erkenningsvoorwaarden voldoet, kan de V
 
 ### ART. 17.
 
-De voorzitter van de adviescommissie kan de feiten die wijzen op de   niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit   hoofde van zijn opdracht kennis krijgt, melden aan de Afdeling Toezicht en   Handhaving van het Departement Werk en Sociale Economie.<BR><BR>
+De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie.<br>
+&nbsp;
 
 ### ART. 18.
 
@@ -170,7 +189,23 @@ Het toezicht en de controle op de uitvoering van dit decreet en de uitvoeringsbe
 
 ### ART. 23.
 
-Met behoud van de toepassing van artikelen 269 tot 274 van het Strafwetboek worden gestraft met een geldboete van 50 euro tot 500 euro :<br />1° iedere persoon, zijn lasthebbers of aangestelden, die een bureau exploiteren via een rechtspersoon die niet regelmatig werd opgericht volgens de regels van de lidstaat van vestiging;<br />2° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die verboden zijn krachtens Verdrag nr. 9 op de arbeidsbemiddeling van de zeelieden aangenomen op 10 juli 1920 door de Algemene Conferentie van de Internationale Arbeidsorganisatie en goedgekeurd bij de wet van 6 september 1924;<br />3° het uitzendbureau, zijn lasthebbers of aangestelden die diensten verrichten die verband houden met een staking, uitsluiting of een schorsing van een arbeidsovereenkomst als vermeld in artikel 50 en 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br />4° het bureau, zijn lasthebbers of aangestelden die weigeren inzage te verlenen aan de opdrachtgever en de werknemer betreffende de over hen opgeslagen gegevens, of hen na beëindiging van de opdracht weigeren een afschrift van hun dossier te bezorgen;<br />5° het bureau, zijn lasthebbers of aangestelden die de opdrachtgever en de werknemer onjuiste, onvolledige of niet-tijdige informatie verstrekken over de bemiddelingsdiensten of over de aard van de tewerkstelling;<br />6° het bureau, zijn lasthebbers of aangestelden die de gedragscode, vermeld in artikel 5, 15°, overtreden;<br />7° het bureau, zijn lasthebbers of aangestelden die als voorwaarde stellen dat de personen voor wie het bureau bemiddeld heeft, het bureau bij iedere nieuwe bemiddeling zal laten optreden;<br />8° het bureau, zijn lasthebbers of aangestelden die een schadevergoeding vragen van werknemers die een bemiddelingsprocedure vroegtijdig stopzetten of die niet ingaan op een vacature waarvoor zij zich kandidaat hebben gesteld;<br />9° het bureau, zijn lasthebbers of aangestelden die op verzoek van een sollicitant die onderworpen is aan de werklozencontrole én die aan een selectieprocedure deelneemt, geen attest overhandigen waarop de datum en het uur van het bezoek wordt vermeld;<br />10° het uitzendbureau, zijn lasthebbers of aangestelden die in hun lokalen uitzendactiviteiten laten verrichten door uitzendbureaus of door lasthebbers of aangestelden van uitzendbureaus die niet over een erkenning beschikken of van wie de erkenning werd ingetrokken of geschrapt;<br />11° het uitzendbureau, zijn lasthebbers of aangestelden die bij exclusiviteit personen ter beschikking te stellen van één gebruikende onderneming;<br />12° het uitzendbureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële uitzendkrachten kan misleiden;<br />13° het uitzendbureau, zijn lasthebbers of aangestelden die in personeelsadvertenties niet duidelijk vermelden dat ze de aanwerving van uitzendkrachten beogen, of die geen correcte, volledige en objectieve informatie geven;<br />14° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning.<br /><br />
+Met behoud van de toepassing van artikelen 269 tot 274 van het Strafwetboek worden gestraft met een geldboete van 50 euro tot 500 euro :<br>
+1° iedere persoon, zijn lasthebbers of aangestelden, die een bureau exploiteren via een rechtspersoon die niet regelmatig werd opgericht volgens de regels van de lidstaat van vestiging;<br>
+2° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die conform het verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006, verboden zijn;<br>
+3° het uitzendbureau, zijn lasthebbers of aangestelden die diensten verrichten die verband houden met een staking, uitsluiting of een schorsing van een arbeidsovereenkomst als vermeld in artikel 50 en 51 van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;<br>
+4° het bureau, zijn lasthebbers of aangestelden die weigeren inzage te verlenen aan de opdrachtgever en de werknemer betreffende de over hen opgeslagen gegevens, of hen na beëindiging van de opdracht weigeren een afschrift van hun dossier te bezorgen;<br>
+5° het bureau, zijn lasthebbers of aangestelden die de opdrachtgever en de werknemer onjuiste, onvolledige of niet-tijdige informatie verstrekken over de bemiddelingsdiensten of over de aard van de tewerkstelling;<br>
+6° het bureau, zijn lasthebbers of aangestelden die de gedragscode, vermeld in artikel 5, 15°, overtreden;<br>
+7° het bureau, zijn lasthebbers of aangestelden die als voorwaarde stellen dat de personen voor wie het bureau bemiddeld heeft, het bureau bij iedere nieuwe bemiddeling zal laten optreden;<br>
+8° het bureau, zijn lasthebbers of aangestelden die een schadevergoeding vragen van werknemers die een bemiddelingsprocedure vroegtijdig stopzetten of die niet ingaan op een vacature waarvoor zij zich kandidaat hebben gesteld;<br>
+9° het bureau, zijn lasthebbers of aangestelden die op verzoek van een sollicitant die onderworpen is aan de werklozencontrole én die aan een selectieprocedure deelneemt, geen attest overhandigen waarop de datum en het uur van het bezoek wordt vermeld;<br>
+10° het uitzendbureau, zijn lasthebbers of aangestelden die in hun lokalen uitzendactiviteiten laten verrichten door uitzendbureaus of door lasthebbers of aangestelden van uitzendbureaus die niet over een erkenning beschikken of van wie de erkenning werd ingetrokken of geschrapt;<br>
+11° het uitzendbureau, zijn lasthebbers of aangestelden die bij exclusiviteit personen ter beschikking te stellen van één gebruikende onderneming;<br>
+12° het uitzendbureau, zijn lasthebbers of aangestelden die publiciteit voeren die potentiële uitzendkrachten kan misleiden;<br>
+13° het uitzendbureau, zijn lasthebbers of aangestelden die in personeelsadvertenties niet duidelijk vermelden dat ze de aanwerving van uitzendkrachten beogen, of die geen correcte, volledige en objectieve informatie geven;<br>
+14° de gebruiker die een beroep doet op een uitzendbureau dat niet beschikt over een regelmatige erkenning.<br>
+15° het bureau dat gebruikmaakt van middelen, mechanismen of lijsten om vissers te verhinderen werk te vinden.<br>
+&nbsp;
 
 ### ART. 24.
 
