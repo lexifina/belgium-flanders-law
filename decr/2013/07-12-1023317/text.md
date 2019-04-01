@@ -50,6 +50,7 @@ b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, 
 26° erfgoedwaarde : de archeologische, architecturale, artistieke, culturele, esthetische, historische, industrieel-archeologische, technische waarde, ruimtelijk-structurerende, sociale, stedenbouwkundige, volkskundige of wetenschappelijke waarde waaraan onroerende goederen en de cultuurgoederen die er integrerend deel van uitmaken hun huidige of toekomstige maatschappelijke betekenis ontlenen;<br>
 27° gebruiker : de natuurlijke persoon of rechtspersoon die houder is van een zakelijk of persoonlijk recht, met uitsluiting van de eigenaar, blote eigenaar, erfpachthouder, opstalhouder of leasinggever;<br>
 28° handelingen : werkzaamheden, wijzigingen of activiteiten met gevolgen voor erfgoedwaarden;<br>
+28° /1 ingreep in de bodem: elke wijziging van de eigenschappen van de ondergrond door de verwijdering of toevoeging van materie, de verhoging of verlaging van de grondwatertafel, of het samendrukken van de materialen waaruit de ondergrond bestaat. Voor de berekening van de totale oppervlakte van de ingreep in de bodem wordt rekening gehouden met de oppervlakte van de vergunningsplichtige werken of handelingen zoals opgenomen in de vergunningsaanvraag;<br>
 29° inspecteur Onroerend Erfgoed : de ambtenaar die belast is met de hem door dit decreet toegewezen handhavingstaken, aangesteld door de leidend ambtenaar van de entiteit die door de Vlaamse Regering belast is met de handhaving van de regelgeving inzake onroerend erfgoed op het grondgebied van het Vlaamse Gewest of een gedeelte ervan;<br>
 30° intergemeentelijke onroerenderfgoeddienst : een intergemeentelijke dienst die ter uitvoering van dit decreet met betrekking tot het onroerend erfgoed beleidsuitvoerende taken opneemt;<br>
 31° inventaris : een oplijsting van onroerende goederen en gehelen van onroerende goederen met erfgoedwaarde;<br>
@@ -122,13 +123,18 @@ Het depot van het agentschap is van rechtswege erkend als   onroerenderfgoeddepo
 
 ### ART. 3.5.1.
 
-<P>De Vlaamse Regering kan een natuurlijke persoon of rechtspersoon aanduiden   als erkende archeoloog.<BR></P>  <P>De Vlaamse Regering bepaalt :<BR>1° de erkenningsvoorwaarden;<BR>2° de nadere   regels voor de erkenning en de duur, de schorsing en de intrekking ervan en de   administratieve beroepsprocedure.<BR></P>
+<p>De Vlaamse Regering kan een natuurlijke persoon of rechtspersoon aanduiden als erkende archeoloog.</p>
+
+<p>De Vlaamse Regering bepaalt:<br>
+1° de erkenningstypes;<br>
+2° de erkenningsvoorwaarden;<br>
+3° de nadere regels voor de erkenning en de duur, de schorsing en de intrekking ervan en de administratieve beroepsprocedure.</p>
 
 ### ART. 3.5.2.
 
 Het agentschap is van rechtswege aangeduid als een erkend archeoloog.<br>
 <br>
-Een archeoloog in dienst van een gemeente of van een erkende intergemeentelijke onroerenderfgoeddienst is van rechtswege aangeduid als een erkend archeoloog op voorwaarde dat het college van burgemeester en schepenen van de gemeente of gemeenten in kwestie bevestigt dat de archeoloog archeologisch onderzoek verricht en voldoet aan de erkenningsvoorwaarden, vastgesteld door de Vlaamse Regering krachtens artikel 3.5.1, tweede lid. Die bevestiging wordt aan het agentschap bezorgd. De aanduiding als erkend archeoloog geldt zolang de archeoloog in dienst blijft van de gemeente of van de erkende intergemeentelijke onroerenderfgoeddienst in kwestie.
+De Vlaamse Regering bepaalt het erkenningstype van het agentschap.
 
 ### ART. 3.5.3.
 
@@ -262,7 +268,7 @@ Het is verboden zonder erkenning als metaaldetectorist of in afwijking van   de 
 
 ### ART. 5.1.3.
 
-Het is verboden zonder toelating van het agentschap of in voorkomend geval van de erkende onroerenderfgoedgemeente&nbsp;en zonder melding aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente een archeologisch vooronderzoek met ingreep in de bodem, een archeologische opgraving of graafwerken uit te voeren met de bedoeling archeologische sites op te sporen en vrij te leggen of archeologische artefacten uit hun originele context te verwijderen.
+Het is verboden zonder toelating van het agentschap of in voorkomend geval van de erkende onroerenderfgoedgemeente&nbsp;een archeologisch vooronderzoek met ingreep in de bodem, een archeologische opgraving of graafwerken uit te voeren met de bedoeling archeologische sites op te sporen en vrij te leggen of archeologische artefacten uit hun originele context te verwijderen.
 
 ## Onderafdeling 4 Toevalsvondsten
 
@@ -320,29 +326,31 @@ De Vlaamse Regering stelt een code van goede praktijk vast voor de   uitvoering 
 
 ### ART. 5.4.1.
 
-Voorafgaand aan het verkrijgen van een omgevingsvergunning voor stedenbouwkundige handelingen moet een archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en bekrachtigd worden in volgende situaties:<br>
+Voorafgaand aan het&nbsp;aanvragen van een omgevingsvergunning voor stedenbouwkundige handelingen moet een archeologienota zoals vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en&nbsp;gemeld worden in volgende situaties:<br>
 1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
-2° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 100 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m² of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
-3° aanvragen waarbij de totale oppervlakte van de ingreep in de bodem 1000 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m² of meer bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones.<br>
+2° aanvragen waarbij de totale oppervlakte van de vergunningsplichtige&nbsp;ingreep in de bodem 100 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m² of meer bedraagt en waarbij de betrokken percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
+3° aanvragen waarbij de totale oppervlakte van de vergunningsplichtige ingreep in de bodem 1000 m² of meer beslaat en de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m² of meer bedraagt en waarbij de percelen volledig gelegen zijn buiten archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones.<br>
 <br>
 Voor de toepassing van dit artikel op terreinen zonder kadastraal nummer geldt de totale oppervlakte van de hele werf van het te vergunnen werk.<br>
 <br>
 De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen wordt van die verplichting vrijgesteld:<br>
 1° indien de aanvraag volledig betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering;<br>
-2° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden binnen een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones, waarbij de oppervlakte van de ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 100 m² beslaat;<br>
-3° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden buiten een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones en buiten een voorlopig of definitief beschermde archeologische site, waarbij de oppervlakte van de ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 1000 m² beslaat, wanneer de lijninfrastructuur waarvoor de omgevingsvergunning wordt aangevraagd meer dan 1000 meter bedraagt;<br>
-4° indien de aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de totale oppervlakte van de ingreep in de bodem minder dan 5000 m² beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde inventaris van archeologische zones en buiten beschermde archeologische sites;<br>
-5° indien de handelingen louter betrekking hebben op verbouwingswerken of vernieuwbouw, zonder bijkomende ingreep in de bodem;<br>
-6° indien de handelingen louter betrekking hebben op de regularisatie van vergunningsplichtige projecten, overeenkomstig artikel 81 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en alle ingrepen in de bodem al zijn uitgevoerd;<br>
+2° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden binnen een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones, waarbij de oppervlakte van de vergunningsplichtige ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 100 m² beslaat;<br>
+3° indien de aanvraag betrekking heeft op werkzaamheden aan bestaande lijninfrastructuur en haar aanhorigheden buiten een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones en buiten een voorlopig of definitief beschermde archeologische site, waarbij de oppervlakte van de vergunningsplichtige&nbsp;ingreep in de bodem buiten het gabarit van de bestaande lijninfrastructuur en haar aanhorigheden minder dan 1000 m² beslaat, wanneer de lijninfrastructuur waarvoor de omgevingsvergunning wordt aangevraagd meer dan 1000 meter bedraagt;<br>
+4° indien de aanvrager een natuurlijke persoon of privaatrechtelijke rechtspersoon is, de totale oppervlakte van de vergunningsplichtige ingreep in de bodem minder dan 5000 m² beslaat, en de betrokken percelen volledig gelegen zijn buiten woongebied of recreatiegebied en buiten archeologische zones opgenomen in de vastgestelde inventaris van archeologische zones en buiten beschermde archeologische sites;<br>
+5° indien de handelingen louter betrekking hebben op verbouwingswerken of vernieuwbouw, zonder bijkomende vergunningsplichtige ingreep in de bodem;<br>
+6° indien de handelingen louter betrekking hebben op de regularisatie van vergunningsplichtige projecten, overeenkomstig artikel 81 van het decreet van 25 april 2014 betreffende de omgevingsvergunning en alle vergunningsplichtige ingrepen in de bodem al zijn uitgevoerd;<br>
 7° indien de stedenbouwkundige aanvraag kadert in verbeterd bodembeheer en uitsluitend betrekking heeft op een reliëfwijziging in agrarisch gebied, niet gelegen in een archeologische zone zoals opgenomen in de vastgestelde inventaris van archeologische zones of een voorlopig of definitief beschermde archeologische site, als gevolg van een afgraving van teelaarde tot 40 cm en de latere toevoeging met dezelfde teelaarde.<br>
+8° indien de aanvraag betrekking heeft op werkzaamheden binnen het gabarit van bestaande lijninfrastructuur en haar aanhorigheden;<br>
+9° indien de aanvraag geheel betrekking heeft op percelen binnen het grondgebied van een erkende onroerenderfgoedgemeente waarvoor de gemeenteraad in een gemeentelijk reglement een vrijstelling heeft voorzien en de aanvraag geen betrekking heeft op beschermde goederen of op percelen die geheel of gedeeltelijk gelegen zijn in een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones. De vrijstellingen in het gemeentelijk reglement zijn gebaseerd op onderzoek naar de archeologische situatie in de betrokken gemeente door een erkende archeoloog in dienst van de erkende onroerenderfgoedgemeente en hebben betrekking op percelen met een oppervlakte van 5000 m² of minder.<br>
 <br>
 De Vlaamse Regering kan de nadere regels voor deze vrijstellingen bepalen.<br>
 <br>
-De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen kan een al bekrachtigde archeologienota indienen als de aanvraag betrekking heeft op hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werkzaamheden die in de bekrachtigde archeologienota zijn omschreven. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet daarover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling, moet de bekrachtigde nota zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
+De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen kan een archeologienota waarvan al akte is genomen indienen als de aanvraag betrekking heeft op hetzelfde perceel of dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de vergunningsplichtige&nbsp;werkzaamheden die in de&nbsp;archeologienota waarvan akte is genomen&nbsp;zijn omschreven. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet daarover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling, moet de nota waarvan akte is genomen zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
 
 ### ART. 5.4.2.
 
-Voorafgaand aan het verkrijgen van een omgevingsvergunning voor het verkavelen van gronden moet een archeologienota als vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en bekrachtigd worden in volgende situaties:<br>
+Voorafgaand aan het&nbsp;aanvragen&nbsp;van een omgevingsvergunning voor het verkavelen van gronden moet een archeologienota als vermeld in artikel 5.4.8 en artikel 5.4.12 opgesteld en&nbsp;gemeld worden in volgende situaties:<br>
 1° aanvragen met betrekking tot percelen die gelegen zijn in een voorlopig of definitief beschermde archeologische site;<br>
 2° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 300 m² of meer bedraagt en waarbij de betrokken kadastrale percelen geheel of gedeeltelijk gelegen zijn in archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones;<br>
 3° aanvragen waarbij de totale oppervlakte van de kadastrale percelen waarop de vergunning betrekking heeft 3000 m² of meer bedraagt en waarbij de betrokken kadastrale percelen helemaal buiten de archeologische zones, opgenomen in de vastgestelde inventaris van archeologische zones, liggen.<br>
@@ -353,91 +361,93 @@ Voor de toepassing van het eerste lid, 2° en 3°, dient enkel rekening gehouden
 <br>
 De aanvrager van een omgevingsvergunning voor het verkavelen van gronden wordt van die verplichting vrijgesteld indien de aanvraag betrekking heeft op een gebied waar geen archeologisch erfgoed te verwachten valt, zoals vastgesteld door de Vlaamse Regering.<br>
 <br>
-Bij de aanvraag voor het bijstellen van een omgevingsvergunning voor het verkavelen van gronden overeenkomstig artikel 85 en 86 van het decreet van 25 april 2014 betreffende de omgevingsvergunning moet geen bekrachtigde archeologienota worden toegevoegd, voor zover dit niet gepaard gaat met bijkomende ingrepen in de bodem.<br>
+Bij de aanvraag voor het bijstellen van een omgevingsvergunning voor het verkavelen van gronden overeenkomstig artikel 85 en 86 van het decreet van 25 april 2014 betreffende de omgevingsvergunning moet geen gemelde archeologienota worden toegevoegd, voor zover dit niet gepaard gaat met bijkomende ingrepen in de bodem.<br>
 <br>
-De aanvrager van een omgevingsvergunning voor het verkavelen van gronden kan een reeds bekrachtigde archeologienota indienen, als de aanvraag betrekking heeft op dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de bekrachtigde archeologienota. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet hierover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling moet de bekrachtigde nota zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
+De aanvrager van een omgevingsvergunning voor het verkavelen van gronden kan een archeologienota waarvan al akte is genomen indienen, als de aanvraag betrekking heeft op dezelfde percelen en als de ingreep in de bodem van de te vergunnen werken overeenkomt met de ingreep in de bodem van de werken omschreven in de&nbsp;archeologienota waarvan akte is genomen. Als er in de archeologienota een archeologische opgraving werd opgelegd, moet deze zijn uitgevoerd en moet hierover een archeologierapport aan het agentschap zijn bezorgd. In het geval dat er gebruik is gemaakt van onderafdeling 7 van deze afdeling moet de&nbsp;nota waarvan akte is genomen&nbsp;zijn uitgevoerd. Als er in de nota een archeologische opgraving wordt opgelegd, moet daarover een archeologierapport aan het agentschap zijn bezorgd.
 
 ### ART. 5.4.3.
 
-De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen met ingreep in de bodem of van een omgevingsvergunning voor het verkavelen van gronden stelt een erkend archeoloog aan om de in artikelen 5.4.1 en 5.4.2 vermelde bekrachtigde archeologienota te verkrijgen.<br>
+De aanvrager van een omgevingsvergunning voor stedenbouwkundige handelingen met ingreep in de bodem of van een omgevingsvergunning voor het verkavelen van gronden stelt een erkend archeoloog aan in de gevallen, vermeld in artikel 5.4.1 en 5.4.2 om een archeologienota waarvan akte is genomen te verkrijgen.<br>
 <br>
-De bekrachtigde archeologienota of de archeologienota die is ingediend ter bekrachtiging wordt toegevoegd bij de aanvraag van omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden.<br>
+De archeologienota waarvan akte is genomen of de gemelde archeologienota&nbsp;wordt toegevoegd bij de aanvraag van omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden.<br>
 <br>
-Als bij de aanvraag een archeologienota is toegevoegd die ter bekrachtiging is ingediend, bezorgt de aanvrager de bekrachtigde archeologienota aan de vergunningverlenende overheid voor het verstrijken van de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
+Als bij de aanvraag een gemelde archeologienota is toegevoegd, bezorgt de aanvrager de archeologienota waarvan akte is genomen aan de vergunningverlenende overheid voor het verstrijken van de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.
 
 ## Onderafdeling 2 Verplichting vergunningsverlener
 
 ### ART. 5.4.4.
 
-De verlener van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en&nbsp;artikel 5.4.2, vierde en vijfde lid, het naleven van de bekrachtigde archeologienota en van dit decreet op als voorwaarde in de vergunning. De werken in de bekrachtigde archeologienota overeenkomstig artikel 5.4.8 en in de bekrachtigde nota overeenkomstig artikel 5.4.16 worden geacht te zijn vergund.<br>
+De verlener van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden neemt, behoudens in de gevallen omschreven in artikel 5.4.1, derde lid, en&nbsp;artikel 5.4.2, vierde en vijfde lid, het naleven van de&nbsp; archeologienota waarvan akte is&nbsp;genomen&nbsp;en van dit decreet op als voorwaarde in de vergunning. De werken in de archeologienota waarvan akte is&nbsp;genomen&nbsp;overeenkomstig artikel 5.4.9 en in de&nbsp;nota waarvan akte is genomen&nbsp;overeenkomstig artikel 5.4.17 worden geacht te zijn vergund.<br>
 <br>
-Een afschrift van de stedenbouwkundige vergunning of verkavelingsvergunning of van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden waarin het naleven van de bekrachtigde archeologienota als voorwaarde wordt opgenomen, wordt door de vergunningverlener binnen een ordetermijn van tien dagen en per beveiligde zending bezorgd aan het agentschap.<br>
+Een afschrift van de stedenbouwkundige vergunning of verkavelingsvergunning of van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden waarin het naleven van de&nbsp;archeologienota waarvan akte is genomen&nbsp;als voorwaarde wordt opgenomen, wordt door de vergunningverlener binnen een ordetermijn van tien dagen en schriftelijk bezorgd aan het agentschap.<br>
 <br>
-De verlener in eerste of laatste administratieve aanleg van de omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2, waarbij een archeologienota toegevoegd is die ter bekrachtiging ingediend is, maar een beslissing nemen binnen de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning als de bekrachtigde archeologienota bezorgd is door de vergunningsaanvrager voorafgaand aan het verlenen van de vergunning.
+De verlener in eerste of laatste administratieve aanleg van de omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van dit decreet, waarbij een gemelde archeologienota toegevoegd is, alleen maar een beslissing nemen binnen de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, als de aktename van de gemelde archeologienota bezorgd is door de vergunningsaanvrager voorafgaand aan het verlenen van de vergunning.
 
 ## Onderafdeling 3 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem
 
 ### ART. 5.4.5.
 
-Als het onmogelijk of juridisch, economisch of maatschappelijk onwenselijk is om voorafgaand aan het aanvragen van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden een archeologisch vooronderzoek met ingreep in de bodem uit te voeren, dient de erkende archeoloog de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem bij het agentschap of in voorkomend geval bij de erkende onroerenderfgoedgemeente&nbsp;in als te bekrachtigen archeologienota overeenkomstig onderafdeling 7 en volgt verder de procedure omschreven in die onderafdeling.<br>
+Als het onmogelijk of juridisch, economisch of maatschappelijk onwenselijk is om voorafgaand aan het aanvragen van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden een archeologisch vooronderzoek met ingreep in de bodem uit te voeren, meldt de erkende archeoloog de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem bij het agentschap of in voorkomend geval bij de erkende onroerenderfgoedgemeente&nbsp;in&nbsp;de vorm van een&nbsp;archeologienota overeenkomstig onderafdeling 7 en volgt verder de procedure omschreven in die onderafdeling.<br>
 <br>
-Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap.
+Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de archeologienota aan het agentschap.
 
 ### ART. 5.4.6.
 
-<p>§ 1. De door de initiatiefnemer aangestelde erkende archeoloog meldt per beveiligde zending aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente het voornemen om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren.<br>
+§ 1. De door de initiatiefnemer aangestelde erkende archeoloog vraagt via het digitale platform dat het agentschap daarvoor beschikbaar stelt, aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente een toelating om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren.<br>
 <br>
-Als het archeologisch vooronderzoek met ingreep in de bodem betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog het voornemen tot het uitvoeren ervan bij het agentschap.</p>
-
-<p>De melding bevat minstens de volgende gegevens :<br>
+Als het archeologisch vooronderzoek met ingreep in de bodem betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, vraagt de erkende archeoloog een toelating tot het uitvoeren ervan aan het agentschap.<br>
+<br>
+De aanvraag tot toelating bevat minstens de volgende gegevens:<br>
 1° de naam en het adres van de initiatiefnemer;<br>
 2° het erkenningsnummer van de erkende archeoloog;<br>
 3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
 4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
 5° de aanleiding voor het archeologisch vooronderzoek;<br>
-6° de voorgestelde uitvoeringswijze.</p>
-
-<p>De Vlaamse Regering kan de in de melding op te nemen gegevens nader omschrijven of uitbreiden.</p>
-
-<p>Het archeologisch vooronderzoek met ingreep in de bodem mag slechts worden aangevat na het verstrijken van de termijn, vermeld in paragraaf 2.</p>
-
-<p>§ 2. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan het archeologisch vooronderzoek met ingreep in de bodem weigeren of er voorwaarden aan koppelen en meldt dit in voorkomend geval binnen vijftien dagen na ontvangst van de melding aan de door de initiatiefnemer aangestelde erkende archeoloog.</p>
-
-<p>§ 3. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+6° de voorgestelde uitvoeringswijze.<br>
+<br>
+De Vlaamse Regering kan de in de aanvraag tot toelating op te nemen gegevens nader omschrijven of uitbreiden.<br>
+<br>
+§ 2. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente neemt een beslissing over de aanvraag tot toelating binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend. Als die termijn wordt overschreden, wordt de toelating geacht goedgekeurd te zijn. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de beslissing per beveiligde zending aan de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. De beslissing vermeldt de voorwaarden die van toepassing zijn.<br>
+<br>
+§ 3. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.
 
 ### ART. 5.4.7.
 
-Het archeologisch vooronderzoek met ingreep in de bodem moet worden   uitgevoerd overeenkomstig de voorgestelde uitvoeringswijze in de melding, de   eventuele voorwaarden van het agentschap of de erkende onroerenderfgoedgemeente   en de code van goede praktijk.<BR>
+Het archeologisch vooronderzoek met ingreep in de bodem moet worden uitgevoerd overeenkomstig de voorgestelde uitvoeringswijze in de aanvraag tot toelating, de eventuele voorwaarden van het agentschap of de erkende onroerenderfgoedgemeente en de code van goede praktijk.
 
 ## Onderafdeling 4 [Verplichtingen aangestelde erkende archeoloog - Melding archeologienota (verv. Decr. 13 juli 2018, art. 17, I: 1 april 2019)]
 
 ### ART. 5.4.8.
 
-<p>Na het beëindigen van het archeologisch vooronderzoek bezorgt de door de initiatiefnemer gemachtigde archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente&nbsp;per beveiligde zending. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap. Die archeologienota bevat minstens de volgende gegevens :<br>
-1° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
+Na het beëindigen van het archeologisch vooronderzoek meldt de door de initiatiefnemer gemachtigde archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente via het digitale platform dat het agentschap daarvoor beschikbaar stelt. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de archeologienota aan het agentschap.<br>
+<br>
+Die archeologienota bevat minstens de volgende gegevens:<br>
+1° een plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
 2° de resultaten van het archeologisch vooronderzoek;<br>
 3° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
 4° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
 5° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
-6° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek en de archeologische opgraving.</p>
-
-<p>De archeologienota kan :<br>
+6° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek en de archeologische opgraving.<br>
+<br>
+De archeologienota kan:<br>
 1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
-2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.</p>
-
-<p>De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.</p>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.<br>
+<br>
+De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.
 
 ## Onderafdeling 5 [Verplichtingen aangestelde erkende archeoloog - Aktename archeologienota (verv. Decr. 13 juli 2018, art. 19, I: 1 april 2019)]
 
 ### ART. 5.4.9.
 
-<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de archeologienota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota of koppelt er voorwaarden aan. Het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
-
-<p>Als het agentschap of de erkende onroerenderfgoedgemeente de archeologienota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
-
-<p>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor de in de archeologienota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikelen 5.4.1 en 5.4.2, overeenstemmen met de werken zoals omschreven in de bekrachtigde archeologienota. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
-
-<p>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de bekrachtigde archeologienota ten aanzien van alle belanghebbenden.</p>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde archeologienota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde archeologienota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de archeologienota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor de in de archeologienota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.1 en 5.4.2, overeenstemmen met de werken zoals omschreven in de archeologienota waarvan akte is genomen. De Vlaamse Regering kan de nadere regels daarvoor bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de archeologienota waarvan akte is genomen ten aanzien van alle belanghebbenden.
 
 ## Onderafdeling 6 [Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen (verv. Decr. 13 juli 2018, art. 21, I: 1 april 2019)]
 
@@ -447,64 +457,72 @@ Het archeologisch vooronderzoek met ingreep in de bodem moet worden   uitgevoerd
 
 ### ART. 5.4.11.
 
-De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de bekrachtigde archeologienota en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
+De archeologische opgraving, die beperkt is tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de aktename en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
 
 ## Onderafdeling 7 Procedure bij de onmogelijkheid of de onwenselijkheid om voorafgaand aan het aanvragen van de vergunning een archeologisch vooronderzoek met ingreep in de bodem uit te voeren
 
 ### ART. 5.4.12.
 
-In het geval dat er alleen een archeologisch vooronderzoek zonder ingreep in de bodem plaatsvond omdat een archeologisch vooronderzoek met ingreep in de bodem onmogelijk of juridisch, economisch of maatschappelijk onwenselijk was voorafgaand aan het aanvragen van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden bezorgt de door de initiatiefnemer aangestelde erkende archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente&nbsp;per beveiligde zending. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de archeologienota in bij het agentschap. Die archeologienota bevat minstens de volgende gegevens :<br>
+In het geval dat er alleen een archeologisch vooronderzoek zonder ingreep in de bodem plaatsvond omdat een archeologisch vooronderzoek met ingreep in de bodem onmogelijk of juridisch, economisch of maatschappelijk onwenselijk was voorafgaand aan het aanvragen van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden, meldt de door de initiatiefnemer aangestelde erkende archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente via het digitale platform dat het agentschap daarvoor beschikbaar stelt. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de archeologienota bij het agentschap.<br>
+<br>
+Die archeologienota bevat minstens de volgende gegevens:<br>
 1° de naam en het adres van de initiatiefnemer;<br>
 2° het erkenningsnummer van de erkende archeoloog;<br>
 3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
 4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
 5° de redenen en motivering waarom het vooronderzoek voor het indienen van de vergunning beperkt wordt tot een vooronderzoek zonder ingreep in de bodem;<br>
 6° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
-7° een gegeorefereerd plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeuring worden afgelijnd;<br>
+7° een plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeuring worden afgelijnd;<br>
 8° de voorgestelde uitvoeringswijze van het archeologisch vooronderzoek met ingreep in de bodem.<br>
 <br>
 De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.
 
 ### ART. 5.4.13.
 
-<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de archeologienota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota of koppelt er voorwaarden aan. Het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de archeologienota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
-
-<p>Als het agentschap of de erkende onroerenderfgoedgemeente de archeologienota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
-
-<p>In voorkomend geval geldt de bekrachtigde archeologienota als toelating voor het archeologisch vooronderzoek met ingreep in de bodem. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde archeologienota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde archeologienota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de archeologienota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor het archeologisch vooronderzoek met ingreep in de bodem. De Vlaamse Regering kan de nadere regels daarvoor bepalen.
 
 ### ART. 5.4.14.
 
-&nbsp;De erkende archeoloog aangesteld door de initiatiefnemer, meldt de   aanvang van het archeologisch vooronderzoek met ingreep in de bodem, opgenomen   in de bekrachtigde archeologienota zoals omschreven in artikel 5.4.12 aan het   agentschap en in voorkomend geval aan de erkende onroerenderfgoedgemeente. De   Vlaamse Regering kan de nadere regels daarvoor bepalen.<BR>
+De erkende archeoloog aangesteld door de initiatiefnemer, meldt de aanvang van het archeologisch vooronderzoek met ingreep in de bodem, opgenomen in de archeologienota waarvan akte is genomen, aan het agentschap en in voorkomend geval aan de erkende onroerenderfgoedgemeente. De Vlaamse Regering kan de nadere regels daarvoor bepalen.
 
 ### ART. 5.4.15.
 
-Het archeologisch vooronderzoek met ingreep in de bodem moet worden uitgevoerd overeenkomstig de uitvoeringswijze in de bekrachtigde archeologienota, de eventuele voorwaarden van het&nbsp;agentschap of de erkende onroerenderfgoedgemeente en de code van goede praktijk.
+Het archeologisch vooronderzoek met ingreep in de bodem moet worden uitgevoerd overeenkomstig de uitvoeringswijze in de archeologienota waarvan akte is genomen, de eventuele voorwaarden van het agentschap of de erkende onroerenderfgoedgemeente in de aktename en de code van goede praktijk.
 
 ### ART. 5.4.16.
 
-<p>Na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem bezorgt de erkende archeoloog een nota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente. Als de nota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, dient de erkende archeoloog de nota in bij het agentschap.&nbsp;Die nota bevat minstens de volgende gegevens :<br>
+Na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem meldt de erkende archeoloog een nota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente. Als de nota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de nota aan het agentschap.<br>
+<br>
+Die nota bevat minstens de volgende gegevens:<br>
 1° de resultaten van het archeologisch vooronderzoek met ingreep in de bodem;<br>
 2° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
 3° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
 4° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
-5° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgraving.</p>
-
-<p>De nota kan :<br>
+5° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgraving.<br>
+<br>
+De nota kan:<br>
 1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
-2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.</p>
-
-<p>De Vlaamse Regering kan de in de nota op te nemen gegevens nader omschrijven of uitbreiden.</p>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.<br>
+<br>
+De Vlaamse Regering kan de in de nota op te nemen gegevens nader omschrijven of uitbreiden.
 
 ### ART. 5.4.17.
 
-<p>Binnen een vervaltermijn van eenentwintig dagen na de ontvangst van de nota bekrachtigt of weigert het&nbsp;agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de nota of koppelt er voorwaarden aan. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de gemotiveerde beslissing per beveiligde zending aan de initiatiefnemer en de erkende archeoloog. Als deze termijn wordt overschreden, wordt de nota geacht bekrachtigd te zijn. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
-
-<p>Als het agentschap of de erkende onroerenderfgoedgemeente de nota bekrachtigt, weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
-
-<p>In voorkomend geval geldt de bekrachtigde nota als toelating voor de in de nota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.3, overeenstemmen met de werken zoals omschreven in de bekrachtigde nota. De Vlaamse Regering kan de nadere regels daarvoor bepalen.</p>
-
-<p>De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de bekrachtigde nota ten aanzien van alle belanghebbenden.</p>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde nota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde nota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de nota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor de in de nota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.3, overeenstemmen met de werken zoals omschreven in de nota waarvan akte is genomen. De Vlaamse Regering kan de nadere regels daarvoor bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de nota waarvan akte is genomen ten aanzien van alle belanghebbenden.
 
 ### ART. 5.4.18.
 
@@ -512,13 +530,15 @@ De erkende archeoloog meldt de aanvang van de archeologische opgraving aan   het
 
 ### ART. 5.4.19.
 
-De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de bekrachtigde nota en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
+De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de aktename en de code van goede praktijk.<br>
+<br>
+Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.
 
 ## Onderafdeling 8 Verplichtingen aangestelde erkende archeoloog - Archeologierapport
 
 ### ART. 5.4.20.
 
-De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van de opgraving een archeologierapport aan het agentschap per beveiligde zending. Het agentschap stelt het archeologierapport in voorkomend geval ter beschikking van de erkende onroerenderfgoedgemeente. Dat archeologierapport omvat minstens de volgende gegevens :<br>
+De erkende archeoloog bezorgt binnen zestig dagen na het beëindigen van de opgraving een archeologierapport aan het agentschap via het digitale platform dat het agentschap daarvoor beschikbaar stelt. Het agentschap stelt het archeologierapport in voorkomend geval ter beschikking van de erkende onroerenderfgoedgemeente. Dat archeologierapport omvat minstens de volgende gegevens :<br>
 1° een beknopte beschrijving van de uitgevoerde werken en de resultaten;<br>
 2° een beschrijving van de verdere aanpak;<br>
 3° een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble als dat de voorstellen die erover geformuleerd zijn in de archeologienota, wijzigt of aanvult.
@@ -527,24 +547,32 @@ De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van de opgr
 
 ### ART. 5.4.21.
 
-<P>De erkende archeoloog bezorgt binnen twee jaar na het beëindigen van de   archeologische opgraving per beveiligde zending een eindverslag aan het   agentschap overeenkomstig de code van goede praktijk, vermeld in artikel   5.3.1.<BR></P>  <P>De erkende archeoloog publiceert het eindverslag. De Vlaamse Regering bepaalt   de nadere regels daarvoor.<BR></P>  <P>De eindverslagen van de archeologische opgravingen worden digitaal ontsloten.   De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>
+<p>De erkende archeoloog bezorgt binnen twee jaar na het beëindigen van de archeologische opgraving via het digitale platform dat het agentschap daarvoor beschikbaar stelt, een eindverslag aan het agentschap overeenkomstig de code van goede praktijk, vermeld in artikel 5.3.1.</p>
+
+<p>De erkende archeoloog publiceert het eindverslag. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>De eindverslagen van de archeologische opgravingen worden digitaal ontsloten. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ## [Onderafdeling 10 (ing. Decr. 15 juli 2016, art. 24, I: 1 januari 2017)] [Databank van toelatingen en meldingen voor archeologisch vooronderzoek met ingreep in de bodem, archeologienota's en nota's (verv. Decr. 13 juli 2018, art. 32, I: 1 april 2019)]
 
 ### ART 5.4.22.
 
-Het agentschap stelt een databank van meldingen van vooronderzoek met ingreep in de bodem, archeologienota's en nota's digitaal beschikbaar. Die databank bevat:<br>
-1° de meldingen van een archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 1, en artikel 5.4.14, en de beslissing die daarover is genomen in eerste administratieve aanleg, vermeld in artikel 5.4.6, § 2;<br>
+Het agentschap stelt een databank van toelatingen en meldingen van vooronderzoek met ingreep in de bodem, archeologienota's en nota's digitaal beschikbaar. Die databank bevat:<br>
+1° de aanvragen tot toelating van een archeologisch vooronderzoek met ingreep in de bodem als vermeld in artikel 5.4.6, § 1, en de beslissing die daarover is genomen in eerste administratieve aanleg, vermeld in artikel 5.4.6, § 2;<br>
 2° de archeologienota's, vermeld in artikel 5.4.8, eerste lid, en artikel 5.4.12, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.9, eerste lid, en artikel 5.4.13, eerste lid;<br>
 3° de nota's, vermeld in artikel 5.4.16, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.17, eerste lid;<br>
-4° de in beroep genomen beslissingen over de meldingen van archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 3;<br>
-5° de in beroep genomen beslissingen over de archeologienota's, vermeld in artikel 5.4.9, tweede lid, en artikel 5.4.13, tweede lid;<br>
-6° de in beroep genomen beslissingen over de nota's, vermeld in artikel 5.4.17, tweede lid;<br>
-7° de adviezen van de Vlaamse Commissie Onroerend Erfgoed over de in beroep genomen beslissingen over de meldingen van archeologisch vooronderzoek met ingreep in de bodem, de archeologienota's en de nota's, vermeld in artikel 5.4.6, § 3, artikel 5.4.9, tweede lid, artikel 5.4.13, tweede lid, en artikel 5.4.17, tweede lid.<br>
+4° de in beroep genomen beslissingen over de aanvragen tot toelating van archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 3;<br>
+5° de in beroep genomen beslissingen over de archeologienota's, vermeld in artikel 5.4.9, derde lid, en artikel 5.4.13, derde lid;<br>
+6° de in beroep genomen beslissingen over de nota's, vermeld in artikel 5.4.17, derde lid;<br>
+7° de adviezen van de Vlaamse Commissie Onroerend Erfgoed over de in beroep genomen beslissingen over de aanvragen tot toelating van archeologisch vooronderzoek met ingreep in de bodem, de archeologienota's en de nota's, vermeld in artikel 5.4.6, § 3, artikel 5.4.9, derde lid, artikel 5.4.13, derde lid, en artikel 5.4.17, derde lid.<br>
 <br>
 De Vlaamse Regering kan de nadere regels over de vorm van de databank en de toegang ertoe bepalen.
 
 ## [Onderafdeling 11 Digitaal platform voor archeologie (ing. Decr. 13 juli 2008, art. 34, I: 1 april 2019)]
+
+### ART 5.4.23.
+
+Als het digitale platform, vermeld in de artikelen 5.4.6, 5.4.8, 5.4.12, 5.4.20, 5.4.21 en 5.5.4 omwille van technische redenen onbeschikbaar is, kan de erkende archeoloog of het agentschap indienen of verzenden per beveiligde zending.
 
 ## Afdeling 5 Archeologisch onderzoek met het oog op wetenschappelijke vraagstellingen
 
@@ -577,7 +605,17 @@ De erkende archeoloog sluit met de zakelijkrechthouders van de betrokken onroere
 
 ### ART. 5.5.4.
 
-<P>De erkende archeoloog meldt aan het agentschap de aanvang van het   archeologisch vooronderzoek met ingreep in de bodem en de archeologische   opgraving met het oog op wetenschappelijke vraagstellingen. De Vlaamse Regering   kan daarvoor de nadere regels bepalen.<BR></P>  <P>De erkende archeoloog bezorgt binnen twee maanden na het beëindigen van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving een archeologierapport aan het agentschap per beveiligde zending. Dit   archeologierapport omvat minstens :<BR>1° een beknopte beschrijving van de   uitgevoerde werken en de resultaten;<BR>2° een beschrijving van de verdere   aanpak.<BR></P>  <P>De erkende archeoloog bezorgt binnen twee jaar na het beëindigen van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving een eindverslag aan het agentschap per beveiligde zending   overeenkomstig de vastgestelde code van goede praktijk.<BR></P>  <P>De erkende archeoloog publiceert het eindverslag. De Vlaamse Regering bepaalt   de nadere regels daarvoor.<BR></P>  <P>De eindverslagen van het archeologisch vooronderzoek met ingreep in de bodem   en de archeologische opgravingen met het oog op wetenschappelijke   vraagstellingen worden digitaal ontsloten. De Vlaamse Regering bepaalt de nadere   regels daarvoor.<BR></P>
+<p>De erkende archeoloog meldt aan het agentschap de aanvang van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgraving met het oog op wetenschappelijke vraagstellingen. De Vlaamse Regering kan daarvoor de nadere regels bepalen.</p>
+
+<p>De erkende archeoloog bezorgt binnen zestig dagen na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem of de archeologische opgraving een archeologierapport aan het agentschap via het digitale platform dat het agentschap daarvoor ter beschikking stelt. Dit archeologierapport omvat minstens :<br>
+1° een beknopte beschrijving van de uitgevoerde werken en de resultaten;<br>
+2° een beschrijving van de verdere aanpak.</p>
+
+<p>De erkende archeoloog bezorgt binnen twee jaar na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem of de archeologische opgraving een eindverslag aan het agentschap via het digitale platform dat het agentschap daarvoor ter beschikking stelt overeenkomstig de vastgestelde code van goede praktijk.</p>
+
+<p>De erkende archeoloog publiceert het eindverslag. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>De eindverslagen van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgravingen met het oog op wetenschappelijke vraagstellingen worden digitaal ontsloten. De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
 ## Afdeling 6 Evaluatie
 
@@ -1066,7 +1104,8 @@ De onroerenderfgoedrichtplannen zijn de sectorale voorstellen voor   inrichtings
 4° premies toekennen voor beheer van beschermd onroerend erfgoed en erfgoedlandschappen;<br>
 5° premies toekennen voor het beheer van onroerend erfgoed waarvoor een beheersplan is goedgekeurd overeenkomstig artikel 8.1.1;<br>
 6° premies toekennen voor maatregelen ten behoeve van de algemene landschapszorg, opgenomen in een goedgekeurd actieprogramma onroerend erfgoed;<br>
-7° premies toekennen bij een buitensporige directe kost van de verplicht uit te voeren archeologische opgraving zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota.</p>
+7° premies toekennen voor archeologisch vooronderzoek met ingreep in de bodem bij vergunningsplichtige ingrepen in de bodem;<br>
+8° premies toekennen bij een buitensporige directe kost van de verplicht uit te voeren archeologische opgraving zoals opgenomen in de archeologienota of de nota waarvan akte is genomen.</p>
 
 <p>De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
 
@@ -1173,7 +1212,7 @@ De in artikel 11.2.2, eerste lid 1° tot en met 8°, en artikel 11.2.2, eerste l
 1° het slopen van een in de vastgestelde inventaris bouwkundig erfgoed opgenomen onroerend goed zonder over de daartoe vereiste uitvoerbare stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen te beschikken;<br>
 2° het niet naleven van de bijzondere voorschriften voor de instandhouding en het onderhoud van een voorlopige of definitieve bescherming of het niet naleven van de verplichtingen, vermeld in artikel 6.1.4, § 2, eerste lid, 8° en 9°, artikel 6.1.14, eerste lid, 8° en 9°, artikel 6.2.5, eerste lid, 7° en 8°, en artikel 6.2.6, eerste lid, 7°;<br>
 3° het uitvoeren van overeenkomstig artikel 6.4.4, 6.4.5 of 6.4.7 aan een toelating, stedenbouwkundige vergunning, verkavelingsvergunning, milieuvergunning, omgevingsvergunning, machtiging, ontheffing of afwijking onderworpen handeling zonder of in strijd met de toelating, stedenbouwkundige vergunning, verkavelingsvergunning, milieuvergunning, omgevingsvergunning, machtiging, ontheffing of afwijking;<br>
-4° het uitvoeren van de handelingen, vermeld in artikel 5.1.3, zonder uitvoerbare toelating of melding, of in strijd met de code van goede praktijk,&nbsp;de voorwaarden of maatregelen van de toelating, de melding, de bekrachtigde archeologienota of de bekrachtigde nota;<br>
+4° het uitvoeren van de handelingen, vermeld in artikel 5.1.3, zonder uitvoerbare toelating of in strijd met de code van goede praktijk, de voorwaarden of maatregelen van de toelating, de bekrachtigde archeologienota, de archeologienota waarvan akte is genomen, de bekrachtigde nota of de nota waarvan akte is genomen;<br>
 5° het niet aangeven van een toevalsvondst overeenkomstig de bepalingen van artikel 5.1.4 of het niet naleven van de verplichtingen bepaald in dit artikel;<br>
 6° het niet naleven van het actiefbehoudsbeginsel, vermeld in artikel 5.2.1, 6.4.1 en 6.4.2;<br>
 7° het niet naleven van het passiefbehoudsbeginsel, vermeld in artikel 5.1.1 en 6.4.3;<br>
@@ -1844,6 +1883,14 @@ Artikel 4.1.11 en 6.4.9 zijn pas van toepassing op de onderhandse en   authentie
 De bestaande reglementaire bepalingen die onder het toepassingsgebied van   dit decreet vallen en niet zonder voorwerp noch in tegenstrijd zijn met dit   decreet, blijven van kracht totdat ze worden gewijzigd, opgeheven of vervangen   door besluiten genomen ter uitvoering van dit decreet.<BR>
 
 ## [Onderafdeling 11 Bekrachtiging van de archeologienota of nota en de melding van het voornemen van een archeologisch vooronderzoek met ingreep in de bodem (ing. Decr. 13 juli 2018, art. 64, I: 1 april 2019)]
+
+### ART 12.3.21.
+
+De bekrachtiging van een archeologienota of een nota overeenkomstig de bepalingen die golden voor de datum van de inwerkingtreding van dit artikel, wordt gelijkgesteld met een aktename van een gemelde archeologienota of nota.
+
+### ART 12.3.22.
+
+De melding van het voornemen om een archeologisch onderzoek met ingreep in de bodem uit te voeren, gemeld overeenkomstig de bepalingen die golden voor de datum van de inwerkingtreding van dit artikel, en waarbij die melding niet werd geweigerd door het agentschap of in voorkomend geval de onroerenderfgoedgemeente, wordt gelijkgesteld met een toelating om een archeologisch vooronderzoek uit te voeren met ingreep in de bodem.
 
 ## Afdeling 4 Inwerkingtreding
 
