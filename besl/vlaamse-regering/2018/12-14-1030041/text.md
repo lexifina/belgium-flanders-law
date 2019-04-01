@@ -201,6 +201,184 @@ In artikel 3.4.17 van hetzelfde besluit worden de volgende wijzigingen aangebrac
 <br>
 2° in het tweede lid wordt de zinsnede "neemt, wordt" vervangen door het woord "wordt".
 
+### ART 27.
+
+Artikel 3.5.1 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.1 Archeologen kunnen aangeduid worden als:<br>
+1° een erkende archeoloog type 1: een natuurlijk persoon of rechtspersoon die voldoet aan de voorwaarden, vermeld in artikel 3.5.2 en artikel 3.5.3 en die bevoegd is voor het uitvoeren van archeologisch vooronderzoek of archeologische opgravingen;<br>
+2° een erkende archeoloog type 2: een natuurlijk persoon of rechtspersoon die voldoet aan de voorwaarden, vermeld in artikel 3.5.2/1 en artikel 3.5.3/1 en die bevoegd is voor het uitvoeren van archeologisch vooronderzoek zonder ingreep in de bodem."
+
+### ART 28.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt een artikel 3.5.1/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.5.1/1. Een aanvraag tot aanduiding als erkende archeoloog is ontvankelijk als de aanvrager een overzicht indient van alle verslagen die hij moet indienen overeenkomstig artikel 14, § 1, 4°, van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium, nadat aan hem een vergunning is verleend als vermeld in artikel 6 van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium. In het overzicht motiveert de aanvrager, in voorkomend geval, waarom hij bepaalde verslagen nog niet heeft ingediend.".
+
+### ART 29.
+
+Artikel 3.5.2 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.2. Om aangeduid te worden als erkende archeoloog type 1 dient een natuurlijk persoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan al de volgende erkenningsvoorwaarden:<br>
+1° houder zijn van een van de volgende diploma's en dat staven door een duidelijke kopie ervan in te dienen of houder zijn van gelijkwaardige getuigschriften door een EVC-procedure waarbij een daarvoor bevoegde instelling de verworven competenties van een individu formeel heeft bevestigd:<br>
+a) licentiaat of master in de Geschiedenis met specialisatie "in de Oudste tijden";<br>
+b) licentiaat of master in de "Kunstgeschiedenis en Oudheidkunde" met specialisatie in de archeologie;<br>
+c) licentiaat of master in de "Kunstwetenschappen en Archeologie" met specialisatie in de archeologie;<br>
+d) licentiaat of master in de Archeologie;<br>
+e) een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of richtlijn of internationale overeenkomst is erkend als gelijkwaardig met een van de diploma's, vermeld in punt a) tot en met d), en dat staven door een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
+2° een opleiding hebben genoten over opgravingstechnieken en -methoden;<br>
+3° op het moment van de aanvraag beschikken over een archeologische opgravingservaring van minimaal een jaar gedurende de tien jaar die voorafgaan aan de datum van de aanvraag tot aanduiding;<br>
+4° beschikken over de geschikte infrastructuur en faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op te slaan;<br>
+5° de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister als vermeld in artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+6° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+7° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk;<br>
+8° de code van goede praktijk onderschrijven en een opleiding gevolgd hebben die daarover georganiseerd is door het agentschap.".
+
+### ART 30.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt een artikel 3.5.2/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.5.2/1. Om aangeduid te worden als erkende archeoloog type 2 dient een natuurlijk persoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan de<br>
+volgende erkenningsvoorwaarden:<br>
+1° houder zijn van een van de volgende diploma's en dat staven door een duidelijke kopie ervan in te dienen of houder zijn van gelijkwaardige getuigschriften door een EVC-procedure waarbij een daarvoor bevoegde instelling de verworven competenties van een individu formeel heeft bevestigd:<br>
+a) licentiaat of master in de Geschiedenis met specialisatie "in de Oudste tijden";<br>
+b) licentiaat of master in de "Kunstgeschiedenis en Oudheidkunde" met specialisatie in de archeologie;<br>
+c) licentiaat of master in de "Kunstwetenschappen en Archeologie" met specialisatie in de archeologie;<br>
+d) licentiaat of master in de Archeologie;<br>
+e) een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of richtlijn of internationale overeenkomst is erkend als gelijkwaardig met een van de diploma's, vermeld in punt a) tot en met d), en dat staven door een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
+2° een opleiding hebben genoten over opgravingstechnieken en -methoden;<br>
+3° de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister als vermeld in artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+4° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+5° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk;<br>
+6° de code van goede praktijk onderschrijven en een opleiding gevolgd hebben die daarover georganiseerd is door het agentschap."
+
+### ART 31.
+
+Artikel 3.5.3 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.3. Om aangeduid te worden als erkende archeoloog type 1 dient een rechtspersoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan de volgende erkenningsvoorwaarden:<br>
+1° opgericht zijn in overeenstemming met de wetgeving van het land waarin hij gevestigd is;<br>
+2° als de persoon een handelaar is, ingeschreven zijn in het handels- of beroepsregister van het land waar hij gevestigd is;<br>
+3° het kwalitatieve onderzoek van het archeologisch erfgoed en de rapportage daarover als een van zijn doelstellingen hebben;<br>
+4° minstens beschikken over één erkende archeoloog type 1, zoals vermeld in artikel 3.5.2 van dit besluit die kan bewijzen dat hij beschikt over een opgravingservaring van minstens drie jaar gedurende de tien jaar die voorafgaan aan de datum van de aanvraag tot aanduiding als erkende archeoloog;<br>
+5° beschikken over de geschikte infrastructuur en faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op te slaan;<br>
+6° voor de bestuurders en de personen die de rechtspersoon kunnen verbinden: de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister overeenkomstig artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+7° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+8° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk.<br>
+<br>
+Universiteiten die de diploma's, vermeld in artikel 3.5.2, 1° van dit besluit, uitreiken, worden van rechtswege aangeduid als een erkende archeoloog type 1 voor het uitvoeren van archeologisch onderzoek met het oog op wetenschappelijke vraagstellingen zoals vermeld in hoofdstuk 5, afdeling 5 van het Onroerenderfgoeddecreet van 12 juli 2013 en van archeologisch onderzoek bij vergunningsplichtige ingrepen in de bodem aan of in beschermde archeologische sites, zoals vermeld in hoofdstuk 5, afdeling 4 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Het agentschap is van rechtswege aangeduid als erkende archeoloog type 1."
+
+### ART 32.
+
+Aan hoofdstuk 3, afdeling 5, van hetzelfde besluit, wordt een artikel 3.5.3/1 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.5.3/1. Om aangeduid te worden als erkende archeoloog type 2 dient een rechtspersoon een aanvraag tot aanduiding in bij het agentschap en toont daarbij aan dat hij minstens voldoet aan de volgende erkenningsvoorwaarden:<br>
+1° opgericht zijn in overeenstemming met de wetgeving van het land waarin hij gevestigd is;<br>
+2° als de persoon een handelaar is, ingeschreven zijn in het handels- of beroepsregister van het land waar hij gevestigd is;<br>
+3° het kwalitatieve onderzoek van het archeologisch erfgoed en de rapportage daarover als een van zijn doelstellingen hebben;<br>
+4° minstens beschikken over één erkende archeoloog, als vermeld in artikel 3.5.2 of 3.5.2/1 van dit besluit;<br>
+5° voor de bestuurders en de personen die de rechtspersoon kunnen verbinden: de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister overeenkomstig artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+6° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+7° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk.".
+
+### ART 33.
+
+In artikel 3.5.5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste en derde lid worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk";<br>
+<br>
+2° in het eerste lid worden de woorden "ontvangst van het verzoek" vervangen door de woorden "kennisgeving van het verzoek";<br>
+<br>
+3° het tweede lid wordt opgeheven;<br>
+<br>
+4° in het bestaande vierde lid, dat het derde lid wordt, wordt de zin "Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager per beveiligde zending." vervangen door de zin "Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, schriftelijk mee aan de aanvrager.".
+
+### ART 34.
+
+Artikel 3.5.7 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.7. Een aanduiding als erkende archeoloog type 1 en 2 is van onbepaalde duur en geldt zolang voldaan wordt aan de toepasselijke erkenningsvoorwaarden, vermeld in artikel 3.5.2, 3.5.2/1, 3.5.3 of 3.5.3/1 en aan de opvolgingsvoorwaarden, vermeld in artikel 3.5.7/1."
+
+### ART 35.
+
+Artikel 3.5.7/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.7/1. In het kader van de opvolging van de aanduiding als erkende archeoloog moet de erkende archeoloog:<br>
+1° wijzigingen die betrekking hebben op de erkenningsvoorwaarden, onmiddellijk schriftelijk melden aan het agentschap;<br>
+2° bij de uitvoering van veldwerk een kopie van zijn legitimatiebewijs van erkende archeoloog kunnen voorleggen;<br>
+3° archeologisch onderzoek uitvoeren overeenkomstig de bepalingen van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de code van goede praktijk;<br>
+4° minstens 1 maal per twee jaar een bijscholing gevolgd hebben over de code van goede praktijk, die georganiseerd wordt door het agentschap,;<br>
+5° bij zijn archeologisch onderzoek voldoende toezicht houden op de aspecten van het onderzoek die hij niet zelf uitvoert;<br>
+6° als het een natuurlijk persoon is die aangeduid is als erkende archeoloog type 1, blijven beschikken over een archeologische opgravingservaring van minimaal een jaar gedurende de afgelopen tien jaar;<br>
+7° als het een rechtspersoon is die aangeduid is als erkende archeoloog type 1, blijven beschikken over minstens één erkende archeoloog type 1 die beschikt over een opgravingservaring van minstens drie jaar gedurende de afgelopen tien jaar.".
+
+### ART 36.
+
+Aan hoofdstuk 3, afdeling 5 van hetzelfde besluit, wordt een artikel 3.5.7/2 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 3.5.7/2. Een erkende archeoloog type 1 kan het agentschap schriftelijk verzoeken om zijn erkenning aan te passen naar een aanduiding als erkende archeoloog type 2. Het agentschap bevestigt deze wijziging schriftelijk aan de erkende archeoloog binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het verzoek. De erkende archeoloog kan vanaf de dag van de kennisgeving van de schriftelijke bevestiging alleen nog de activiteiten uitvoeren van een erkende archeoloog type 2.".
+
+### ART 37.
+
+Artikel 3.5.8 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.8. Het agentschap kan op verzoek van de minister, op verzoek van de Commissie of op eigen initiatief een erkende archeoloog evalueren. De evaluatie heeft betrekking op de erkenningsvoorwaarden, de opvolgingsvoorwaarden en de kwaliteit van het archeologisch onderzoek door de erkende archeoloog.<br>
+<br>
+Het agentschap kan voor de evaluatie het advies van de Commissie inwinnen.<br>
+<br>
+Het agentschap kan voor de evaluatie alle documenten opvragen die betrekking hebben op de erkenningsvoorwaarden, de opvolgingsvoorwaarden en het onderzoek door de erkende archeoloog, of kan de erkende archeoloog vragen om een toelichting te komen geven, of kan de erkende archeoloog bezoeken om de infrastructuur en de faciliteiten om de vondsten te bewaren te controleren.".
+
+### ART 38.
+
+Artikel 3.5.9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.9. Het agentschap kan na evaluatie een erkende archeoloog schorsen in elk van de volgende gevallen:<br>
+1° de erkende archeoloog leeft het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk niet na;<br>
+2° de erkende archeoloog houdt onvoldoende toezicht op het archeologisch onderzoek;<br>
+3° de erkende archeoloog voldoet niet meer aan de erkenningsvoorwaarden;<br>
+4° de erkende archeoloog is bij een vonnis of een arrest veroordeeld voor een misdrijf dat door de aard ervan zijn beroepsethiek als erkende archeoloog aantast;<br>
+5° de erkende archeoloog leeft de voorwaarden voor de opvolging van de aanduiding niet na.<br>
+<br>
+De schorsingstermijn is 120 dagen en kan door het agentschap ingekort of verlengd worden met maximaal 120 dagen.<br>
+<br>
+Tijdens een periode van schorsing kan de erkende archeoloog zijn taken ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit verder uitvoeren, op voorwaarde dat hij acties voorstelt en uitvoert ter remediëring of ter tegemoetkoming aan de erkenningsvoorwaarden en de voorwaarden voor opvolging van de aanduiding.".
+
+### ART 39.
+
+Artikel 3.5.10 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 3.5.10. § 1. Het agentschap bezorgt de schorsingsbeslissing per beveiligde zending aan de erkende archeoloog. De schorsing treedt in werking vanaf de dag van de kennisgeving.<br>
+<br>
+De geschorste archeoloog bezorgt binnen een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing, schriftelijk een reactie waarin hij beschrijft welke acties hij heeft ondernomen of onmiddellijk onderneemt om te remediëren of tegemoet te komen aan de erkennings- of opvolgingsvoorwaarden. Het agentschap hoort de erkende archeoloog op zijn verzoek.<br>
+<br>
+§ 2. Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de reactie beslist het agentschap om de schorsing op te heffen of te verlengen, of om de aanduiding als erkende archeoloog in te trekken.<br>
+<br>
+Als het agentschap van oordeel is dat de ondernomen acties volstaan om te voldoen aan de erkenningsvoorwaarden en de voorwaarden voor opvolging van de aanduiding, heft het de schorsing op. Als het agentschap van oordeel is dat bijkomende tijd nodig is om de voorgestelde acties uit te voeren, verlengt het agentschap de schorsing overeenkomstig artikel 3.5.9, tweede lid. Het agentschap kan de erkende archeoloog daarbij tijdelijk verbieden om nieuwe opdrachten in uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit aan te nemen. Als het agentschap van oordeel is dat de ondernomen of voorgestelde acties niet volstaan om te voldoen aan de erkenningsvoorwaarden en de voormelde voorwaarden voor opvolging van de aanduiding, trekt het agentschap de aanduiding als erkende archeoloog in. Als de geschorste archeoloog geen reactie heeft bezorgd binnen de termijn bepaald in paragraaf 1, tweede lid, trekt het agentschap de aanduiding als erkende archeoloog onmiddellijk in.<br>
+<br>
+Het agentschap deelt de beslissing per beveiligde zending binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager. Als het agentschap nalaat een beslissing te nemen of nalaat de beslissing aan de aanvrager mee te delen binnen de vastgestelde termijn, wordt de schorsing geacht opgeheven te zijn.<br>
+<br>
+§ 3. Als het agentschap de schorsing heeft verlengd, dan voert het na afloop van die termijn een evaluatie uit overeenkomstig artikel 3.5.8. Als het agentschap vaststelt dat de erkende archeoloog de voorgestelde acties ter remediëring of ter tegemoetkoming aan de erkenningsvoorwaarden of opvolgingsvoorwaarden niet heeft uitgevoerd, kan het de aanduiding als erkende archeoloog intrekken.<br>
+<br>
+Het agentschap deelt de beslissing per beveiligde zending binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager.<br>
+<br>
+§ 4. Als het agentschap beslist om de aanduiding als erkende archeoloog in te trekken, gaat die intrekking in op de dag van de kennisgeving van de beslissing waarmee de aanduiding als erkende archeoloog wordt ingetrokken.".
+
+### ART 40.
+
+In artikel 3.5.12 van hetzelfde besluit wordt het woord "vijf" vervangen door het woord "tien".
+
+### ART 41.
+
+In artikel 3.5.14, tweede lid, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "per beveiligde zending ingediend" worden vervangen door de woorden "schriftelijk ingediend";<br>
+<br>
+2° in het tweede lid wordt het woord "vierde" vervangen door het woord "derde";<br>
+<br>
+3° de woorden "een beroepschrift indienen per beveiligde zending" worden vervangen door de woorden "schriftelijk een beroepschrift indienen".
+
 ### ART 42.
 
 In artikel 3.6.3, tweede lid, van hetzelfde besluit worden de woorden "in per beveiligde zending" vervangen door het woord "schriftelijk".
@@ -259,6 +437,97 @@ In artikel 3.7.11 van hetzelfde besluit worden de volgende wijzigingen aangebrac
 ### ART 48.
 
 In artikel 3.7.13, tweede lid, wordt het woord "vierde" vervangen door het woord "derde".
+
+### ART 49.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt het opschrift van onderafdeling 1 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 1. Gebieden waar geen archeologisch erfgoed te verwachten valt en vrijstellingen door erkende onroerenderfgoedgemeenten".
+
+### ART 50.
+
+In artikel 5.4.1, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015 wordt het woord "gegeorefereerd" telkens opgeheven.
+
+### ART 51.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt een artikel 5.4.1/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 5.4.1/1. De erkende onroerenderfgoedgemeente kan in een gemeentelijk reglement in vrijstellingen voorzien zoals vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013. Dat gemeentelijk reglement motiveert op basis van waarnemingen en wetenschappelijke argumenten welke percelen vrijgesteld worden omdat ze met hoge waarschijnlijkheid geen archeologische waarde hebben. Het gemeentelijk reglement bevat ook een plan waarop die percelen nauwkeurig worden aangeduid.<br>
+<br>
+De erkende onroerenderfgoedgemeente bezorgt aan het agentschap na de goedkeuring door de gemeenteraad:<br>
+1° het gemeentelijk reglement, vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een geactualiseerde GIS-laag met een nauwkeurige aanduiding van alle vrijgestelde percelen binnen haar grondgebied.<br>
+<br>
+Het agentschap maakt de geactualiseerde GIS-laag publiek toegankelijk op zijn website.<br>
+<br>
+De gemeentelijke vrijstellingen gelden zodra ze publiek toegankelijk gemaakt zijn op een GIS-laag op de website van het agentschap.".
+
+### ART 52.
+
+Artikel 5.4.3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.3. De aanvraag tot toelating bevat, naast de gegevens vermeld in artikel 5.4.6, § 1, derde lid, van het Onroerenderfgoeddecreet van 12 juli 2013, de volgende bijkomende gegevens:<br>
+1° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+2° de doelstellingen en de te beantwoorden onderzoeksvragen van het vooronderzoek met ingreep in de bodem;<br>
+3° de plannen, kaarten en foto's die noodzakelijk zijn voor een goed begrip van de aanvraag tot toelating.".
+
+### ART 53.
+
+Artikel 5.4.7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.7. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geen akte neemt van de archeologienota of er voorwaarden aan koppelt, kan de initiatiefnemer, de door hem daarvoor aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.".
+
+### ART 54.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt het opschrift van onderafdeling 4 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 4. Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen".
+
+### ART 55.
+
+Artikel 5.4.10 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015 en gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.10. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geen akte neemt van de nota of er voorwaarden aan koppelt, kan de initiatiefnemer, de door hem aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.".
+
+### ART 56.
+
+In artikel 5.4.11 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt de zin "Als de ingreep in de bodem van de vergunde werken afwijkt van de ingreep in de bodem van de werken, omschreven in de bekrachtigde archeologienota, geldt de bekrachtigde archeologienota niet als toelating voor de maatregelen die erin omschreven zijn." vervangen door de zin "Als de ingreep in de bodem van de vergunde werken afwijkt van de ingreep in de bodem van de werken, omschreven in de archeologienota waarvan akte is genomen, geldt de aktename niet als toelating voor de maatregelen die erin omschreven zijn.".
+
+### ART 57.
+
+In artikel 5.4.13 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015 en vervangen bij het besluit van de Vlaamse Regering van 16 december 2016, worden de volgende wijzingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "die ze bekrachtigt" vervangen door de woorden "waar ze akte van neemt";<br>
+<br>
+2° in het tweede lid worden de woorden "die het bekrachtigt" vervangen door de woorden "waar het akte van neemt";<br>
+<br>
+3° in het derde lid worden de woorden "de bekrachtigde archeologienota of nota" vervangen door de woorden "de archeologienota of nota waarvan akte is genomen".
+
+### ART 58.
+
+In artikel 5.4.14 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, worden de woorden "binnen zes maanden nadat hij het bezorgd heeft" vervangen door de zinsnede "binnen een termijn van 180 dagen, die ingaat op de dag na de bezorging van het eindverslag".
+
+### ART 59.
+
+In artikel 5.5.2 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt de zinsnede ", schriftelijk en met een beveiligde zending aan het agentschap" vervangen door de woorden "via het digitale platform dat het agentschap daarvoor beschikbaar stelt".
+
+### ART 60.
+
+In artikel 5.5.3, derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt de zin "Het agentschap bezorgt de gemotiveerde beslissing of de kennisgeving van de stilzwijgende beslissing met een beveiligde zending aan de erkende archeoloog." vervangen door de zin "Het agentschap bezorgt de gemotiveerde beslissing of de kennisgeving van de stilzwijgende beslissing met een beveiligde zending aan de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform.".
+
+### ART 61.
+
+In artikel 5.5.7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, worden de woorden "binnen zes maanden nadat hij het bezorgd heeft" vervangen door de zinsnede "binnen een termijn van 180 dagen, die ingaat op de dag na de bezorging van het eindverslag".
+
+### ART 62.
+
+In artikel 5.6.1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Het beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving van de beslissing van het agentschap of, in voorkomend geval, van de erkende onroerenderfgoedgemeente over:<br>
+1° het weigeren van een toelating voor archeologisch vooronderzoek met ingreep in de bodem of het koppelen van voorwaarden daaraan;<br>
+2° het niet akte nemen van de archeologienota of het koppelen van voorwaarden daaraan;<br>
+3° het niet akte nemen van de nota of het koppelen van voorwaarden daaraan;<br>
+4° het weigeren van een toelating voor een archeologisch vooronderzoek met ingreep in de bodem of een archeologische opgraving met het oog op wetenschappelijke vraagstellingen of het koppelen van voorwaarden daaraan.".
 
 ### ART 63.
 
@@ -680,6 +949,12 @@ De premienemer voegt daarvoor bij de aanvraag een uittreksel van een onderhoudsl
 <br>
 § 3. Een premie van 20% van de aanvaarde kostenraming, exclusief btw, wordt toegekend voor beheersmaatregelen, werkzaamheden of diensten die gericht zijn op een verbeterde inhoudelijke of fysieke ontsluiting van het erkende open erfgoed of het onroerend erfgoed dat ontwikkeld wordt tot open erfgoed, op voorwaarde dat het gaat om ingrepen aan de locatie zelf en in de mate dat het eindproduct een fysiek en permanent karakter heeft.".
 
+### ART 118.
+
+In artikel 11.2.13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 december 2015 en 16 december 2016, wordt het derde lid vervangen door wat volgt:<br>
+<br>
+"Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.".
+
 ### ART 119.
 
 In artikel 11.2.18, eerste lid, van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 december 2015 en 16 december 2016, wordt een punt 5° en 6° toegevoegd, die luiden als volgt:<br>
@@ -738,6 +1013,12 @@ Artikel 11.3.1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 <br>
 "Art. 11.3.1. Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan een onderzoekspremie worden toegekend voor de uitvoering van een noodzakelijk voorafgaand onderzoek over een beschermd goed of een erfgoedlandschap, of een deel ervan dat een opzichzelfstaand geheel vormt.".
 
+### ART 129.
+
+In artikel 11.3.4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 4 december 2015, wordt het derde lid vervangen door wat volgt:<br>
+<br>
+"Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.".
+
 ### ART 130.
 
 In artikel 11.3.5, eerste lid van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 4 december 2015 en 16 december 2016, wordt punt 1° opgeheven.
@@ -780,6 +1061,34 @@ Artikel 11.3.16 van hetzelfde besluit wordt vervangen door wat volgt:<br>
 
 In artikel 11.4.11 van hetzelfde besluit wordt de zinsnede "in de loop van het desbetreffende jaar en uiterlijk 1 september" vervangen door de zinsnede "voor 1 september van het desbetreffende jaar".
 
+### ART 138.
+
+In artikel 11.7.3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het tweede lid, 1° worden de woorden "bekrachtigde archeologienota of de bekrachtigde nota" vervangen door de woorden "archeologienota of nota waarvan akte genomen is";<br>
+<br>
+2° het derde lid wordt opgeheven.
+
+### ART 139.
+
+Artikel 11.7.4 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015 en gewijzigd bij de besluiten van de Vlaamse Regering van 16 december 2016 en 15 september 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 11.7.4. De premie voor buitensporige opgravingskosten wordt berekend door de variabelen die overeenstemmen met de aangetroffen toestand, toe te passen op de forfaitaire basiskosten, verminderd met een franchise, en dat bedrag te vermenigvuldigen met 80%.<br>
+<br>
+De minister stelt de forfaitaire basiskosten, de variabelen en de franchise vast. Voor de berekening van de premie voor buitensporige opgravingskosten zijn de forfaitaire basiskosten, de variabelen en de franchise van toepassing die golden op het moment van de aanvang van de archeologische opgraving.<br>
+<br>
+In dit artikel wordt verstaan onder franchise: de niet-betoelaagbare eerste schijf van de kosten van de verplicht uit te voeren archeologische opgraving.".
+
+### ART 140.
+
+Artikel 11.7.9, ingevoegd bij besluit van de Vlaamse Regering van 4 december 2015, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 11.7.9. Het agentschap gaat na of de aanvraag voldoet aan artikel 11.7.7. Als de aanvraag onvolledig is, kan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+<br>
+Het agentschap beslist over de aanvraag binnen een termijn van negentig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ontvangen. De aanvrager wordt hiervan schriftelijk op de hoogte gesteld.<br>
+<br>
+In geval van akkoord wordt de premie voor buitensporige opgravingskosten vastgelegd, waarna een afschrift van dit besluit schriftelijk aan de aanvrager wordt bezorgd en het agentschap overgaat tot de uitbetaling van de premie."
+
 ### ART 141.
 
 In artikel 11.8.7, eerste lid, artikel 11.8.10, tweede lid, en artikel 11.8.12, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 4 december 2015, worden de woorden "met een beveiligde zending" vervangen door het woord "schriftelijk".
@@ -794,6 +1103,10 @@ In geval van onvolledigheid brengt het agentschap de aanvrager schriftelijk op d
 <br>
 Als de aanvrager het dossier niet aanvult binnen een termijn van veertien dagen, die ingaat op de dag na de kennisgeving van het verzoek tot aanvulling, wordt de aanvraag onontvankelijk verklaard. Het agentschap brengt de aanvrager schriftelijk op de hoogte van de beslissing.".
 
+### ART 143.
+
+...
+
 ### ART 144.
 
 In artikel 12.1.2, § 3, van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -802,7 +1115,27 @@ In artikel 12.1.2, § 3, van hetzelfde besluit worden de volgende wijzigingen aa
 <br>
 2° in het tweede lid worden de woorden "drie maanden" vervangen door de woorden "negentig dagen".
 
+### ART 145.
+
+Aan hoofdstuk 13, afdeling 3, van hetzelfde besluit wordt een artikel 13.3.20 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 13.3.20. De aanduidingen als erkende archeoloog voor de inwerkingtreding van dit artikel worden gelijkgesteld met een aanduiding als een erkende archeoloog type 1 zoals vermeld in artikel 3.5.2 en 3.5.3 van dit besluit.<br>
+<br>
+Die erkende archeologen moeten de opleiding vermeld in artikel 3.5.2, 8° van dit besluit volgen binnen de twee jaar na inwerkingtreding van dit artikel om te blijven voldoen aan de erkenningsvoorwaarden.".
+
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is
+
+### ART 146.
+
+In artikel 11.3. van het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van stedenbouwkundige handelingen waarvoor geen omgevingsvergunning nodig is, gewijzigd bij de besluiten van de Vlaamse Regering van 27 november 2015 en 4 december 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 1° wordt het woord "gemeld" vervangen door de woorden "waarvoor een toelating is verkregen";<br>
+<br>
+2° in punt 2° worden de woorden "waarvoor een archeologienota bekrachtigd is" vervangen door de woorden "opgenomen in een archeologienota waarvan akte is genomen";<br>
+<br>
+3° in punt 4° worden de woorden "waarvoor een archeologienota is bekrachtigd" vervangen door de woorden "opgenomen in een archeologienota waarvan akte is genomen";<br>
+<br>
+4° in punt 5° worden de woorden "waarvoor een archeologienota is bekrachtigd" vervangen door de woorden "opgenomen in een archeologienota waarvan akte is genomen";
 
 ## HOOFDSTUK 3. Wijzigingen van het Varenderfgoedbesluit van 27 november 2015
 
@@ -843,6 +1176,16 @@ In artikel 31, § 2, van hetzelfde besluit worden de volgende wijzigingen aangeb
 
 ## Afdeling 1. Overgangsbepalingen
 
+### ART 150.
+
+Aanvragen tot aanduiding als erkende archeoloog, ingediend voor de inwerkingtreding van dit artikel, worden als aanvragen tot aanduiding als erkende archeoloog type 1 beschouwd en moeten voldoen aan de erkenningsvoorwaarden bepaald in artikel 3.5.2 en 3.5.3 van het Onroerenderfgoedbesluit van 16 mei 2014, met uitzondering van de opleidingsvereiste vermeld in artikel 3.5.2, 8° van datzelfde besluit.<br>
+<br>
+In het geval van een aanduiding als erkende archeoloog type 1 volgens het eerste lid, moet de betrokken archeoloog binnen de twee jaar na inwerkingtreding van dit besluit de opleiding vermeld in artikel 3.5.2, 8°, van het besluit vermeld in het eerste lid volgen om te blijven voldoen aan de erkenningsvoorwaarden.
+
+### ART 151.
+
+Procedures tot schorsing van erkende archeologen, opgestart voor de inwerkingtreding van dit artikel, worden verder uitgevoerd conform de regels die golden voorafgaand aan die datum.
+
 ### ART 152.
 
 Ontvankelijke aanvragen tot goedkeuring van een beheersplan of een geïntegreerd beheersplan vermeld in artikel 8.1.1 en 8.3.1 van het Onroerenderfgoedbesluit van 16 mei 2014, ingediend voor de inwerkingtreding van dit artikel, worden behandeld conform de regels die golden voorafgaand aan die datum. De geldigheidsduur van een goedgekeurd beheersplan bedraagt in elk geval 24 jaar.
@@ -866,6 +1209,12 @@ Als een aanvullende premie van 10% zoals vermeld in artikel 11.2.12, § 1 van he
 ### ART 157.
 
 In afwijking van artikel 11.2.1, tweede lid van het Onroerenderfgoedbesluit van 16 mei 2014, moeten de beheersmaatregelen, werkzaamheden of diensten aan UNESCO-werelderfgoed, zoals vermeld in punt 2° van dat lid, pas vanaf 1 januari 2022 opgenomen zijn in een goedgekeurd beheersplan.
+
+### ART 158.
+
+Archeologisch vooronderzoek met ingreep in de bodem komt enkel in aanmerking voor de premie vermeld in artikel 11.9.2 van het Onroerenderfgoedbesluit van 16 mei 2014 als:<br>
+1° de melding en aktename van de archeologienota die volgt op dat vooronderzoek met ingreep in de bodem gebeurde na de inwerkingtreding van dit artikel;<br>
+2° in het geval toepassing werd gemaakt van de procedure vermeld in artikel 5.4.12 tot en met 5.4.19 van het Onroerenderfgoeddecreet van 12 juli 2013, de melding en aktename van de nota die volgt op dat vooronderzoek met ingreep in de bodem gebeurde na de inwerkingtreding van dit artikel.
 
 ## Afdeling 2. Inwerkingtreding
 
