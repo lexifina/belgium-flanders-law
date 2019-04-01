@@ -231,7 +231,7 @@ Een stof die of een voorwerp dat het resultaat is van een productieproces dat ni
 
 ### ART. 38.
 
-Uitgegraven bodem wordt niet beschouwd als een afvalstof indien gebruikt overeenkomstig de voorwaarden voor het gebruik van uitgegraven bodem, vermeld in het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming en de uitvoeringsbesluiten ervan.<br /><br />
+Bodemmaterialen, als vermeld in artikel 2, 33°, van het Bodemdecreet van 27 oktober 2006, worden niet beschouwd als afvalstoffen als zij gebruikt worden overeenkomstig de bepalingen voor het gebruik en de traceerbaarheid van bodemmaterialen, vermeld in het Bodemdecreet van 27 oktober 2006 en de uitvoeringsbesluiten ervan.
 
 ### ART. 39.
 
