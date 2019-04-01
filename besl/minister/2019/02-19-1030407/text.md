@@ -181,6 +181,18 @@ In bijlage 1 bij hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Reg
 
 ## HOOFDSTUK 6. Wijzigingen van het ministerieel besluit van 22 november 2013 betreffende de voorwaarden tot het subsidiëren van bedrijfsadvisering in de biologische landbouw
 
+### ART 18.
+
+Artikel 1 van het ministerieel besluit van 22 november 2013 betreffende de voorwaarden tot het subsidiëren van bedrijfsadvisering in de biologische landbouw wordt vervangen door wat volgt:<br>
+"Artikel 1. In dit besluit wordt verstaan onder:<br>
+1° besluit van de Vlaamse Regering van 8 november 2013: het besluit van de Vlaamse Regering van 8 november 2013 houdende de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+2° e-loket: het e-loket, vermeld in artikel 1, punt 8° van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.".
+
+### ART 19.
+
+In hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 februari 2015, wordt een artikel 2/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 2/1. De elektronische ondertekening, vermeld in artikel 17/1, tweede lid van dit besluit, wordt uitgevoerd conform artikel 68 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.".
+
 ### ART 20.
 
 In artikel 5 van hetzelfde besluit wordt punt 9° opgeheven.
@@ -189,10 +201,18 @@ In artikel 5 van hetzelfde besluit wordt punt 9° opgeheven.
 
 In artikel 7 van hetzelfde besluit worden punt 1° en punt 2° opgeheven.
 
+### ART 22.
+
+In artikel 9 van hetzelfde besluit wordt het tweede lid opgeheven.
+
 ### ART 23.
 
 In artikel 11 van hetzelfde besluit wordt punt 7° vervangen door wat volgt:<br>
 "7° bedrijfseconomie, kostprijsberekening en bedrijfseconomische berekening;".
+
+### ART 24.
+
+In artikel 11 van hetzelfde besluit wordt het tweede lid opgeheven.
 
 ### ART 25.
 
@@ -204,6 +224,10 @@ In artikel 14 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 3° er wordt een punt 11° toegevoegd, dat luidt als volgt:<br>
 "11° bedrijfsmanagement.".
 
+### ART 26.
+
+In artikel 14 van hetzelfde besluit wordt het tweede lid opgeheven.
+
 ### ART 27.
 
 In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
@@ -214,11 +238,40 @@ In artikel 16 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<
 3° aan het eerste lid wordt een punt 11° toegevoegd, dat luidt als volgt:<br>
 "11° bedrijfsmanagement.".
 
+### ART 28.
+
+In artikel 16 van hetzelfde besluit wordt het tweede lid opgeheven.
+
 ### ART 29.
 
 In hetzelfde besluit, gewijzigd bij het ministerieel besluit van 24 februari 2015, wordt een hoofdstuk 7/1, dat bestaat uit artikel 16/1, ingevoegd, dat luidt als volgt:<br>
 "Hoofdstuk 7/1. Subsidiebedragen<br>
 Art. 16/1. Conform artikel 22 van verordening (EU) nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieën steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, bedraagt de subsidie voor bedrijfsadvisering in de biologische landbouw maximaal 1500 euro per advies.".
+
+### ART 30.
+
+In artikel 17 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid worden de woorden "via het e-loket" toegevoegd;<br>
+2° het tweede lid wordt opgeheven.
+
+### ART 31.
+
+In hoofdstuk 9 van hetzelfde besluit worden een artikel 17/1 en 17/2 ingevoegd, die luiden als volgt:<br>
+"Art. 17/1. Het contract, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 8 november 2013, is elektronisch beschikbaar via het e-loket.<br>
+Het contract wordt door de landbouwer, de kandidaat-biologische landbouwer of de land- en tuinbouwschool en de erkende adviesdienst elektronisch ingevuld en ondertekend via het e-loket.<br>
+Art. 17/2. De plaats en het tijdstip van de bedrijfsbezoeken en de annulering van een bedrijfsbezoek worden gemeld via het e-loket.".
+
+### ART 32.
+
+In artikel 18 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 2° vervangen door wat volgt:<br>
+"2° een kopie van het biobedrijfsplan, het omschakelingsadvies, het startersadvies of het bedrijfsadvies;";<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+"De uitbetalingsaanvraag en de documenten worden ingediend via het e-loket.".
+
+### ART 33.
+
+Artikel 20 van hetzelfde besluit wordt opgeheven.
 
 ## HOOFDSTUK 7. Wijzigingen van het ministerieel besluit van 20 december 2013 tot uitvoering van artikel 11, 12, 15, 16, 17 en 18 van het besluit van de Vlaamse Regering van 20 december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de diversificatie naar zorgboerderijactiviteiten
 
