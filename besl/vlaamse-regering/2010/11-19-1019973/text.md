@@ -96,7 +96,7 @@ f) voor de aanvragen tot erkenning,&nbsp;vermeld in artikel 6, 7°, a) : de afde
 67° koelwagen: een motorvoertuig met een gewicht van meer dan 3,5 ton dat primair bestemd en gebouwd is om goederen te vervoeren en dat met een koeleenheid is uitgerust;<br>
 68° koelaanhangwagen: een voertuig dat bestemd en gebouwd is om door een vrachtwagen of een trekker te worden gesleept, primair om goederen te vervoeren en dat met een koeleenheid is uitgerust.<br>
 <br>
-§ 2. Voor de toepassing van artikel 25/1 en 25/2 wordt verstaan onder beschikken over : ofwel zelf beschikken over, ofwel op continue basis ter beschikking hebben via :<br>
+§ 2. Voor de toepassing van&nbsp;artikel 25/1, 25/2 en 53/3, § 1, 10° wordt verstaan onder beschikken over : ofwel zelf beschikken over, ofwel op continue basis ter beschikking hebben via :<br>
 1° een werknemer die zich via arbeidsovereenkomst ertoe verbindt om tegen loon en onder het gezag van de bodemsaneringsdeskundige arbeid te verrichten;<br>
 2° een zelfstandige op voorwaarde dat hij zijn dienstverlening met betrekking tot die kennis of ervaring maximaal aan drie bodemsaneringsdeskundigen ter beschikking stelt.
 
@@ -129,7 +129,7 @@ d) MER-deskundige : deskundige voor het opstellen van milieueffectrapporten als 
 7) geluid en trillingen : geluid en trillingen;<br>
 8) klimaat;<br>
 9) landschap, bouwkundig erfgoed en archeologie : landschap, bouwkundig erfgoed en archeologie;<br>
-e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;;<br>
+e) VR-deskundige : deskundige voor het opstellen van omgevings- en ruimtelijke veiligheidsrapporten als vermeld in titel IV van het decreet Milieubeleid;<br>
 f) airco-energiedeskundige : deskundige voor het uitvoeren van keuringen aan airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW als vermeld in artikel 5.16.3.3, § 3, eerste lid, 4°, artikel 5bis.15.5.4.5.4, § 6, eerste lid, of artikel 5bis.19.8.4.8.4, § 6, eerste lid, van titel II van het VLAREM;<br>
 2° technici :<br>
 a) technicus vloeibare brandstof als vermeld in artikel 2 van het besluit inzake het onderhoud en nazicht van centrale stooktoestellen;<br>
@@ -169,7 +169,7 @@ b) laboratorium in de discipline lucht voor het nemen van monsters en het uitvoe
 c) laboratorium in de discipline bodem, deeldomein bodembescherming, voor het nemen van monsters en het uitvoeren van metingen en analyses in het kader van de bodembescherming,&nbsp;vermeld in artikel 59, § 1 en artikel 60, § 4, van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid voor het pakket, vermeld in bijlage 3, 3°, die bij dit besluit is gevoegd.<br>
 d) laboratorium in de discipline bodem, deeldomein bemesting, de discipline mest en de discipline diervoeder, voor het nemen van monsters en het uitvoeren van analyses op bodem, meststoffen en diervoeders in het kader van het Mestdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 4°, die bij dit besluit is gevoegd;<br>
 e) laboratorium in de discipline afvalstoffen en andere materialen voor het nemen van monsters en het uitvoeren van metingen, beproevingen en analyses ter uitvoering van&nbsp;titel I, II en III van het VLAREM en het Materialendecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 5°, die bij dit besluit is gevoegd;<br>
-f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodems in het kader van bodemonderzoek ter uitvoering van het Bodemdecreet en de uitvoeringsbesluiten ervan, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
+f) laboratorium in de discipline bodem, deeldomein bodemsanering, voor het uitvoeren van analyses op bodem ter uitvoering van het Bodemdecreet en het VLAREBO en de toepassing van die analyses ter uitvoering van titel II en III van het VLAREM, voor een of meer van de pakketten, vermeld in bijlage 3, 6°, die bij dit besluit is gevoegd;<br>
 6° bodemsaneringsdeskundigen : bodemsaneringsdeskundigen als vermeld in het Bodemdecreet, van type 1 of type 2 :<br>
 Een bodemsaneringsdeskundige van type 1 kan de volgende taken uitvoeren in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan :<br>
 a) het leiden van de uitvoering van een oriënterend bodemonderzoek;<br>
@@ -1332,20 +1332,36 @@ Voor alle monsternemingen die uitgevoerd worden in het kader van het voormelde b
 3° deelt op eenvoudig verzoek onmiddellijk aan de afdeling, bevoegd voor bodembeheer, mee waar veldwerk in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan wordt gepland in de periode die is aangegeven in het verzoek van de afdeling, bevoegd voor bodembeheer;<br>
 4° voert de taken, vermeld in artikel 6, 6°, uit in overeenstemming met de standaardprocedures of de codes van goede praktijk, vermeld in het Bodemdecreet en de uitvoeringsbesluiten ervan;<br>
 5° houdt een klachtenregister bij dat ter inzage ligt voor de toezichthoudende overheid;<br>
-6° beschikt zelf over een model voor risicoanalyse van bodemverontreiniging dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer;<br>
-7° stelt jaarlijks een jaarverslag op dat minstens de volgende elementen bevat :<br>
-a) een overzicht van de personen die beschikken over de vereiste kennis en beroepservaring;<br>
-b) een evaluatie van de genomen acties voor de kwaliteitsborging, de opleiding van het personeel en de inhoud van het klachtenregister;<br>
-8° houdt een kwaliteitshandboek bij;<br>
+6° beschikt zelf over een model voor risicoanalyse van bodemverontreiniging dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer, als het om een bodemsaneringsdeskundige van type 2 gaat;<br>
+7° ...<br>
+8° beschikt over een kwaliteitshandboek, en past de inhoud ervan toe bij de uitvoering van taken in het kader van het Bodemdecreet en de uitvoeringsbesluiten ervan. Het kwaliteitshandboek wordt opgesteld conform een code van goede praktijk;<br>
 9° schoolt zich of de personen die bij hem in dienst zijn, permanent bij wat betreft het milieucompartiment bodem, inclusief milieutechnologie en milieuwetgeving in verband met bodem, door cursussen, seminaries, studiedagen en dergelijke te volgen. De duur van de bijscholing van de bodemsaneringsdeskundige per kalenderjaar is als volgt :<br>
 a) in geval van een bodemsaneringsdeskundige van type 1 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2. Als er meer dan twee personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 15 uur bedraagt;<br>
 b) in geval van een bodemsaneringsdeskundige van type 2 : de duur van de bijscholing bedraagt minstens 7,5 uur per persoon die voor de bodemsaneringsdeskundige beschikt over een handtekeningsbevoegdheid module 1 of 2, met een minimum van 20 uur als de totale duur van de bijscholing. Als er meer dan acht personen beschikken over de voormelde handtekeningsbevoegdheid voor de bodemsaneringsdeskundige, is voldaan aan de bijscholingsvereiste als de totale duur van de bijscholing minstens 60 uur bedraagt.<br>
+10° beschikt over :<br>
+a) als het gaat om een bodemsaneringsdeskundige van type 1 : minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, eerste lid;<br>
+b) als het gaat om een bodemsaneringsdeskundige van type 2 : minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, tweede lid;<br>
+11° zorgt ervoor dat het personeel dat de werken in het kader van de erkenning uitvoert, over het meest geschikte materiaal beschikt dat in goede staat is, voldoet aan alle reglementaire eisen en dat noodzakelijk is voor de uitvoering van de bemonstering van het vaste deel van de aarde en van het grondwater;<br>
+12° zorgt ervoor dat het personeel dat het veldwerk in het kader van de erkenning uitvoert, opgeleid is om monsters te nemen en veldmetingen uit te voeren;<br>
+13° voert de auditverplichtingen, opgelegd bij of krachtens artikel 8bis van het Bodemdecreet, uit.<br>
 <br>
 § 2. De erkende bodemsaneringsdeskundige van type 2 beschikt bovendien over een mathematisch grondwatermodel dat aanvaard wordt door de afdeling, bevoegd voor bodembeheer.
 
 ### ART. 53/4.
 
-§ 1. De verslagen en rapporten die worden opgesteld in het kader van de   taken van de bodemsaneringsdeskundige van type 1, vermeld in artikel 6, 6°,   worden ondertekend door de bodemsaneringsdeskundige of door minstens één persoon   die bij hem in dienst is die beschikt over de individuele   handtekeningsbevoegdheid, vermeld in § 2, eerste lid, van dit artikel.<BR><BR>De   verslagen, rapporten en projecten die worden opgesteld in het kader van de taken   van de bodemsaneringsdeskundige van type 2, met uitzondering van de taken van de   bodemsaneringsdeskundige van type 1, vermeld in artikel 6, 6°, worden   ondertekend door minstens één persoon die bij de bodemsaneringsdeskundige in   dienst is en die beschikt over de individuele handtekeningsbevoegdheid, vermeld   in § 2, tweede lid, van dit artikel.<BR><BR>§ 2. Het afdelingshoofd van de   afdeling, bevoegd voor bodembeheer, verleent op aanvraag de bevoegdheid om   verslagen en rapporten van de bodemsaneringsdeskundige te ondertekenen aan de   personen die in het bezit zijn van een getuigschrift van de aanvullende vorming   voor bodemsaneringsdeskundigen, module 1.<BR><BR>Het afdelingshoofd van de   afdeling, bevoegd voor bodembeheer, verleent op aanvraag de bevoegdheid om   verslagen, rapporten en projecten te ondertekenen aan de personen die in het   bezit zijn van een getuigschrift van de aanvullende vorming voor   bodemsaneringsdeskundigen, module 2.<BR><BR>§ 3. Naar aanleiding van de   vaststelling van een ernstige fout of van herhaalde fouten in de verslagen,   rapporten of projecten van de erkende bodemsaneringsdeskundige, opgesteld in het   kader van de taken, vermeld in artikel 6, 6°, kan het afdelingshoofd van de   afdeling, bevoegd voor bodembeheer, de persoon met de individuele   handtekeningsbevoegdheid, vermeld in paragraaf 2, die de verslagen, rapporten of   projecten heeft ondertekend, de verplichting opleggen om binnen een termijn van   één jaar, te rekenen vanaf de datum van die beslissing, deel te nemen aan het   examen van de aanvullende vorming voor de overeenstemmende module, vermeld in   bijlage 17, die bij dit besluit is gevoegd.<BR><BR>Als die persoon niet slaagt   voor dat examen of binnen die termijn niet deelneemt aan dat examen, vervalt van   rechtswege de individuele handtekeningsbevoegdheid, vermeld in paragraaf 2, die   aan hem toegekend is.<BR><BR>De afdeling, bevoegd voor bodembeheer, betekent de   beslissing aan de bodemsaneringsdeskundige en aan de houder van de individuele   handtekeningsbevoegdheid, per adres van de   bodemsaneringsdeskundige.
+§ 1. De verslagen en rapporten, opgesteld in het kader van de taken van de bodemsaneringsdeskundige van type 1, worden ondertekend door minstens één persoon als vermeld in artikel 53/3, § 1, 10°, a).<br>
+<br>
+De verslagen en rapporten, opgesteld in het kader van de taken van de bodemsaneringsdeskundige van type 2, worden ondertekend door minstens één persoon als vermeld in artikel 53/3, § 1, 10°, b).<br>
+<br>
+§ 2. Het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, verleent op aanvraag de bevoegdheid om verslagen en rapporten van de bodemsaneringsdeskundige te ondertekenen aan de personen die in het bezit zijn van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 1.<br>
+<br>
+Het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, verleent op aanvraag de bevoegdheid om verslagen, rapporten en projecten te ondertekenen aan de personen die in het bezit zijn van een getuigschrift van de aanvullende vorming voor bodemsaneringsdeskundigen, module 2.<br>
+<br>
+§ 3. Naar aanleiding van de vaststelling van een ernstige fout of van herhaalde fouten in de verslagen, rapporten of projecten van de erkende bodemsaneringsdeskundige, opgesteld in het kader van de taken, vermeld in artikel 6, 6°, kan het afdelingshoofd van de afdeling, bevoegd voor bodembeheer, de persoon met de individuele handtekeningsbevoegdheid, vermeld in paragraaf 2, die de verslagen, rapporten of projecten heeft ondertekend, de verplichting opleggen om binnen een termijn van één jaar, te rekenen vanaf de datum van die beslissing, deel te nemen aan het examen van de aanvullende vorming voor de overeenstemmende module, vermeld in bijlage 17, die bij dit besluit is gevoegd.<br>
+<br>
+Als die persoon niet slaagt voor dat examen of binnen die termijn niet deelneemt aan dat examen, vervalt van rechtswege de individuele handtekeningsbevoegdheid, vermeld in paragraaf 2, die aan hem toegekend is.<br>
+<br>
+De afdeling, bevoegd voor bodembeheer, betekent de beslissing aan de bodemsaneringsdeskundige en aan de houder van de individuele handtekeningsbevoegdheid, per adres van de bodemsaneringsdeskundige.
 
 ### ART. 53/5.
 
@@ -1524,6 +1540,10 @@ Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzo
 Met behoud van de toepassing van hoofdstuk 9 en 13 van dit besluit zijn de bijzondere erkenningsvoorwaarden, vermeld in artikel 18, § 1, 3°, of § 2, 3°, niet van toepassing voor milieucoördinatoren die erkend zijn op basis van een aanvraag die is ingediend voor 1 januari 2000, en die opnieuw een erkenning willen verkrijgen nadat hun erkenning van rechtswege is vervallen.<br>
 <br>
 § 3. In afwijking van paragraaf 2 tot en met 2/1 vervalt de erkenning niet van rechtswege als de bevoegde afdeling beslist, op basis van de door de erkende persoon voor te leggen bewijzen, dat hij om redenen van overmacht niet in staat was de bijscholing te volgen of de proef af te leggen. Als de bevoegde afdeling tot die beslissing komt, zal ze de erkende persoon een nieuwe termijn opleggen waarbinnen die de bijscholing moet volgen of met gunstig gevolg de proef moet afleggen, opdat zijn erkenning niet van rechtswege zou vervallen.<br>
+<br>
+§ 3/1. De erkenning van een bodemsaneringsdeskundige als vermeld in artikel 6, 6°, vervalt van rechtswege in de volgende gevallen :<br>
+1° als het gaat om een bodemsaneringsdeskundige van type 1 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, eerste lid;<br>
+2° als het gaat om een bodemsaneringsdeskundige van type 2 : hij beschikt gedurende een periode van negentig opeenvolgende dagen niet over minstens één persoon met een individuele handtekeningsbevoegdheid als vermeld in artikel 53/4, § 2, tweede lid.<br>
 <br>
 § 4. De bevoegde&nbsp;afdeling brengt de persoon op de hoogte van het verval van rechtswege van zijn erkenning.</p>
 
@@ -2594,9 +2614,7 @@ De overgangscursussen van het tweede niveau naar het eerste niveau zijn zo opgev
 
 ### BIJLAGE 3
 
-<p style="text-align: justify;">Bijlage 3. Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit besluit</p>
-
-<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;">Lijst met pakketten voor de laboratoria, vermeld in artikel 6, 5°, van dit besluit</p>
 
 <p style="text-align: justify;"><u>1° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, a):</u></p>
 
@@ -3145,259 +3163,162 @@ L.20 monsterneming en analyse van trichlooramine in zwembadlucht"</p>
 
 <p style="text-align: justify;">c) bepaling van ruw eiwit.</p>
 
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;"><u>5° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e):</u></p>
-
-<p style="text-align: justify;">MA monsternemingen van afvalstoffen en andere materialen en monstervoorbehandeling ter plaatse</p>
-
-<p style="text-align: justify;">MA.1 specie<br>
-MA.1.1 specie in situ<br>
-MA.1.2 specie ex situ</p>
-
-<p style="text-align: justify;">MA.2 gebruik als meststoflbodemverbeterend middel</p>
-
-<p style="text-align: justify;">MA.3 gebruik als bouwstof-vaste stoffen</p>
-
-<p style="text-align: justify;">MA.4 verbranden</p>
-
-<p style="text-align: justify;">MA.5 storten</p>
-
-<p style="text-align: justify;">MA.6 eindproducten bij de verwerking van dierlijke bijproducten</p>
-
-<p style="text-align: justify;">MA.7 asbest</p>
-
-<p style="text-align: justify;">MA. 7 .1 asbest in hopen</p>
-
-<p style="text-align: justify;">MA.7.2 asbest in lagen</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.2 gebruik als meststof/bodemverbeterend middel</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.2.1 gebruik als meststof/bodemverbeterend middel - anorganische parameters:</p>
-
-<p style="text-align: justify;">zuurtegraad, droogrest/vocht, organische stof, totale stikstof, difosforpentoxide, nitraatstikstof en ammoniakale stikstof, geleidbaarheid</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie):</p>
-
-<p style="text-align: justify;">arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.2.2 gebruik als meststof/bodemverbeterend middel - organische parameters:</p>
-
-<p style="text-align: justify;">BTEXS: benzeen, tolueen, ethylbenzeen, som xylenen en styreen</p>
-
-<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
-
-<p style="text-align: justify;">chloorkoolwaterstoffen: monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen, 1,2-dichloorethaan, dichloormethaan, trichloormethaan, trich looretheen, tetrachloormethaan, tetrach looretheen, vinylchloride, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, 1, 1-dichloorethaan, cis+trans-1,2-dichlooretheen</p>
-
-<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen</p>
-
-<p style="text-align: justify;">minerale olie</p>
-
-<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.2.3 gebruik als meststof/bodemverbeterend middel - specifieke parameters:</p>
-
-<p style="text-align: justify;">steentjes, groter dan 5 mm</p>
-
-<p style="text-align: justify;">graad van verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm</p>
-
-<p style="text-align: justify;">kiem krachtige zaden</p>
-
-<p style="text-align: justify;">fytotoxiciteit</p>
-
-<p style="text-align: justify;">rijpheidsgraad</p>
-
-<p style="text-align: justify;">stabiliteit met gesloten respirometer</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.3 gebruik als bouwstof</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.3.1 gebruik als niet-vormgegeven bouwstof (inclusief matrix waterbodem):</p>
-
-<p style="text-align: justify;">droog rest</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie en uitloogbare fractie via de kolomtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
-
-<p style="text-align: justify;">BTEXS: benzeen, tolueen, ethylbenzeen, som xylenen en styreen</p>
-
-<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
-
-<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-</p>
-
-<p style="text-align: justify;">cd)pyreen</p>
-
-<p style="text-align: justify;">minerale olie</p>
-
-<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.3.2 gebruik als vormgegeven bouwstof:</p>
-
-<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket A.3.1.</p>
-
-<p style="text-align: justify;">metalen (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest): arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink</p>
-
-<p style="text-align: justify;">pH, sulfaat, chloriden en calcium (via uitloging in de maximale beschikbaarheidstest en in de standtest)</p>
-
-<p style="text-align: justify;">geleidbaarheid (via uitloging in de standtest)</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.4 verbranden:</p>
-
-<p style="text-align: justify;">droogrest, vlampunt, gloeiverlies, totaal organische koolstof (TOC), calorische waarde, pentachloorfenol (PCP), benzo(a)pyreen, chloriden, fluoriden, zwavel, extraheerbare organohalogeenverbindingen (EOX)</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie): cadmium, thallium, kwik, antimoon, arseen, lood, chroom, kobalt, koper, mangaan, nikkel, vanadium en tin</p>
-
-<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.5 storten (inclusief matrix waterbodem)</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.5.1 storten - algemene parameters:</p>
-
-<p style="text-align: justify;">droogrest, minerale olie met GC-FID, extraheerbare apolaire koolwaterstoffen met IR, gloeiverlies, totaal organische koolstof (TOC), totaal oplosmiddelen (aspecifiek), totaal extraheerbare organohalogeenverbindingen (EOX), steekvastheid (afschuifspanning)</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie): arseen, thallium, kwik, cadmium, beryllium, barium, lood, chroom, koper, nikkel, zink, molybdeen, antimoon en seleen</p>
-
-<p style="text-align: justify;">vrije cyaniden</p>
-
-<p style="text-align: justify;">fluoriden</p>
-
-<p style="text-align: justify;">1-stapsschudproef met bepaling in eluaat van: pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen, fluoride, cyanide (totaal), ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenolindex</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">A.5.2 storten - specifieke organische parameters:<br>
-monocyclische aromatische koolwaterstoffen (BTEXS): benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
-polycyclische aromatische koolwaterstoffen (PAK): naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
-polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">A.5.3 storten - vezelvrijstelling van asbest</p>
-
-<p style="text-align: justify;">A.6 microbiologische bepalingen op de eindproducten bij de verwerking van dierlijke bijproducten:<br>
+<p style="text-align: justify;"><u>5° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, e) :</u><br>
+<br>
+MA. monsternemingen van afvalstoffen en andere materialen en monstervoorbehandeling ter plaatse<br>
+MA.2 gebruik als meststof/bodemverbeterend middel<br>
+MA.3 gebruik als bouwstof - vaste stoffen<br>
+MA.4 verbranden<br>
+MA.5 storten<br>
+MA.6 eindproducten bij de verwerking van dierlijke bijproducten<br>
+MA.7 asbest<br>
+MA.7.1 asbest in hopen<br>
+MA.7.2 asbest in lagen<br>
+A.2 gebruik als meststof/bodemverbeterend middel<br>
+A.2.1 gebruik als meststof/bodemverbeterend middel - anorganische parameters :<br>
+zuurtegraad, droogrest/vocht, organische stof, totale stikstof, difosforpentoxide, nitraatstikstof en ammoniakale stikstof, geleidbaarheid<br>
+metalen (totaalconcentratie) :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
+A.2.2 gebruik als meststof/bodemverbeterend middel - organische parameters :<br>
+BTEXS : benzeen, tolueen, ethylbenzeen, som xylenen en styreen<br>
+alkanen : hexaan, heptaan en octaan<br>
+chloorkoolwaterstoffen :<br>
+monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen, 1,2-dichloorethaan, dichloormethaan, trichloormethaan, trichlooretheen, tetrachloormethaan, tetrachlooretheen, vinylchloride, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, 1, 1-dichloorethaan, cis+trans-1,2-dichlooretheen<br>
+polycyclische aromatische koolwaterstoffen (PAK) : naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
+minerale olie<br>
+polychloorbifenylen (PCB) :<br>
+PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+A.2.3 gebruik als meststof/bodemverbeterend middel - specifieke parameters :<br>
+steentjes, groter dan 5 mm<br>
+graad van verontreiniging (glas, metaal, kunststoffen) groter dan 2 mm<br>
+kiem krachtige zaden<br>
+fytotoxiciteit<br>
+rijpheidsgraad<br>
+stabiliteit met gesloten respirometer<br>
+A.3 gebruik als bouwstof<br>
+A.3.1 gebruik als niet-vormgegeven bouwstof :<br>
+droogrest<br>
+metalen (totaalconcentratie en uitloogbare fractie via de kolomtest) :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
+BTEXS : benzeen, tolueen, ethylbenzeen, som xylenen en styreen<br>
+alkanen : hexaan, heptaan en octaan<br>
+polycyclische aromatische koolwaterstoffen (PAK) :naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
+minerale olie<br>
+polychloorbifenylen (PCB) : PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+A.3.2 gebruik als vormgegeven bouwstof :<br>
+Dit pakket is een uitbreiding van het volledige pakket A.3.1.<br>
+metalen (uitloogbare fractie met maximale beschikbaarheidstest en via de standtest) : arseen, cadmium, chroom, koper, kwik, lood, nikkel en zink<br>
+pH, sulfaat, chloriden en calcium (via uitloging in de maximale beschikbaarheidstest en in de standtest)<br>
+geleidbaarheid (via uitloging in de standtest)<br>
+A.3.3 fysische verontreinigingen :<br>
+vlottende verontreinigingen, niet-vlottende verontreinigingen en glas<br>
+A.4 verbranden<br>
+droogrest, vlampunt, gloeiverlies, totaal organische koolstof (TOC), calorische waarde, pentachloorfenol (PCP), benzo(a)pyreen, chloriden, fluoriden, zwavel, extraheerbare organohalogeenverbindingen (EOX)<br>
+metalen (totaalconcentratie) : cadmium, thallium, kwik, antimoon, arseen, lood, chroom, kobalt, koper, mangaan, nikkel, vanadium en tin<br>
+polychloorbifenylen (PCB) : PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+A.5 storten<br>
+A.5.1 storten - algemene parameters :<br>
+droogrest, minerale olie met GC-FID, extraheerbare apolaire koolwaterstoffen met IR, gloeiverlies, totaal organische koolstof (TOC), totaal oplosmiddelen (aspecifiek), totaal extraheerbare organohalogeenverbindingen (EOX), steekvastheid (afschuifspanning)<br>
+metalen (totaalconcentratie) : arseen, thallium, kwik, cadmium, beryllium, barium, lood, chroom, koper, nikkel, zink, molybdeen, antimoon en seleen<br>
+vrije cyaniden<br>
+fluoriden<br>
+1-stapsschudproef met bepaling in eluaat van : pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen, fluoride, cyanide (totaal), ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenolindex<br>
+A.5.2 storten - specifieke organische parameters :<br>
+monocyclische aromatische koolwaterstoffen (BTEXS) :benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
+polycyclische aromatische koolwaterstoffen (PAK) :naftaleen, benzo(a)pyreen, fenantreen, fluoranteen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(ghi)peryleen, indeno(1,2,3-cd)pyreen<br>
+polychloorbifenylen (PCB) : PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+A.6 microbiologische bepalingen op de eindproducten bij de verwerking van dierlijke bijproducten :<br>
 Salmonella<br>
 Enterobacteriaceae<br>
-Clostridium perfringens</p>
-
-<p style="text-align: justify;">A.7 asbest</p>
-
-<p style="text-align: justify;"><u>6° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, f):</u></p>
-
-<p style="text-align: justify;">B.1 bodem - vaste deel</p>
-
-<p style="text-align: justify;">klei</p>
-
-<p style="text-align: justify;">organisch materiaal</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink</p>
-
-<p style="text-align: justify;">cyaniden: vrije cyaniden, niet-chlooroxideerbare cyaniden</p>
-
-<p style="text-align: justify;">monocyclische aromatische koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</p>
-
-<p style="text-align: justify;">alkanen: hexaan, heptaan en octaan</p>
-
-<p style="text-align: justify;">chloorkoolwaterstoffen: dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1, 1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen</p>
-
-<p style="text-align: justify;">chloorfenolen: 2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol</p>
-
-<p style="text-align: justify;">methyltertiairbutylether</p>
-
-<p style="text-align: justify;">minerale olie</p>
-
-<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
-
-<p style="text-align: justify;">pH (KCI)</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">B.2 uitgegraven bodem</p>
-
-<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.1.</p>
-
-<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">stenen</p>
-
-<p style="text-align: justify;">bodemvreemde materialen</p>
-
-<p style="text-align: justify;">schudtest met bepaling in eluaat van: arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink, pH en geleidbaarheid</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">B.3 waterbodem als bodem</p>
-
-<p style="text-align: justify;">B.3.1 gebruik als bodem</p>
-
-<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.1.</p>
-
-<p style="text-align: justify;">droogrest</p>
-
-<p style="text-align: justify;">TOC</p>
-
-<p style="text-align: justify;">minerale olie</p>
-
-<p style="text-align: justify;">organochloorpesticiden (OCP): aldrin, dieldrin, chloordaan (a en y- isomeer), DDT, ODE, DDD, hexachloorcyclohexaan (a-, 13- en y- isomeer), endosulfan (a, 13 en sulfaat)</p>
-
-<p style="text-align: justify;">polychloorbifenylen (PCB): PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180</p>
-
-<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
-
-<p style="text-align: justify;">B.3.2 monostortplaats</p>
-
-<p style="text-align: justify;">Dit pakket is een uitbreiding van het volledige pakket B.3.1.</p>
-
-<p style="text-align: justify;">extraheerbare apolaire koolwaterstoffen met IR</p>
-
-<p style="text-align: justify;">gloeiverlies</p>
-
-<p style="text-align: justify;">totaal oplosmiddelen (aspecifiek)</p>
-
-<p style="text-align: justify;">totaal extraheerbare organohalogeenverbindingen (EOX)</p>
-
-<p style="text-align: justify;">steekvastheid (afschuifspanning)</p>
-
-<p style="text-align: justify;">1-stapsschudproef (CMA/2/ll/A12) met bepaling in eluaat van: pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink, molybdeen, antimoon, seleen , fluoride, cyanide , ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TOS), opgeloste organische koolstof (DOC), fenol index</p>
-
-<p style="text-align: justify;">&nbsp;</p>
-
-<p style="text-align: justify;">G1 grondwater</p>
-
-<p style="text-align: justify;">metalen (totaalconcentratie): arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink</p>
-
-<p style="text-align: justify;">chroom VI</p>
-
-<p style="text-align: justify;">cyaniden: totaal cyaniden</p>
-
-<p style="text-align: justify;">monocyclische aromatische koolwaterstoffen: benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen</p>
-
-<p style="text-align: justify;">chloorkoolwaterstoffen: dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1, 1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1, 1, 1-trichloorethaan, 1, 1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen</p>
-
-<p style="text-align: justify;">chloorfenolen: 2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol</p>
-
-<p style="text-align: justify;">methyltertiairbutylether</p>
-
-<p style="text-align: justify;">minerale olie</p>
-
-<p style="text-align: justify;">polycyclische aromatische koolwaterstoffen (PAK): naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen</p>
-
-<p style="text-align: justify;">organochloorpesticiden (OCP): aldrin, dieldrin, chloordaan (cis+trans), DDT, DOE, DDD, hexachloorcyclohexaan (α-,β- en γ-isomeer), endosulfan (α, β en sulfaat)</p>
+Clostridium perfringens<br>
+A.7 asbest<br>
+<br>
+<u>6° lijst met pakketten voor een laboratorium als vermeld in artikel 6, 5°, f) :</u><br>
+<br>
+B.1 bodem - vast deel<br>
+klei<br>
+organisch materiaal (TOC)<br>
+metalen (totaalconcentratie) :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink<br>
+cyaniden :<br>
+vrije cyaniden, niet-chlooroxideerbare cyaniden<br>
+monocyclische aromatische koolwaterstoffen :<br>
+benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
+1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen<br>
+alkanen :<br>
+hexaan, heptaan en octaan<br>
+chloorkoolwaterstoffen :<br>
+dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1,1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1,1,1-trichloorethaan, 1,1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen<br>
+chloorfenolen :<br>
+2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol<br>
+methyltertiairbutylether<br>
+minerale olie<br>
+polycyclische aromatische koolwaterstoffen (PAK) :<br>
+naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
+pH (KCl)<br>
+B.4 asbest in bodem<br>
+Dit pakket is geen uitbreidingspakket.<br>
+B.5 waterbodem<br>
+droogrest<br>
+klei<br>
+organisch materiaal (TOC)<br>
+metalen (totaalconcentratie) :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink<br>
+cyaniden :<br>
+vrije cyaniden, niet-chlooroxideerbare cyaniden<br>
+monocyclische aromatische koolwaterstoffen :<br>
+benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
+alkanen :<br>
+hexaan, heptaan en octaan<br>
+minerale olie<br>
+organochloorpesticiden (OCP) :<br>
+aldrin, dieldrin, chloordaan ( en - isomeer), DDT, DDE, DDD, hexachloorcyclohexaan (, - en - isomeer), endosulfan (,  en sulfaat)<br>
+polychloorbifenylen (PCB) :<br>
+PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+polycyclische aromatische koolwaterstoffen (PAK) :<br>
+naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
+pH (KCl)<br>
+B.6 gebruik van bodemmaterialen<br>
+Dit pakket is een uitbreiding van het volledige pakket B.1 of het volledige pakket B.5.<br>
+polychloorbifenylen (PCB) :<br>
+PCB 28, PCB 52, PCB 101, PCB 118, PCB 138, PCB 153, PCB 180<br>
+stenen<br>
+bodemvreemde materialen<br>
+schudtest met bepaling in eluaat van :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink, pH en geleidbaarheid<br>
+B.7 storten van bodemmaterialen<br>
+Dit pakket is een uitbreiding van het volledige pakket B.1 of het volledige pakket B.5.<br>
+extraheerbare apolaire koolwaterstoffen met IR<br>
+gloeiverlies<br>
+totaal oplosmiddelen (aspecifiek)<br>
+totaal extraheerbare organohalogeenverbindingen (EOX)<br>
+steekvastheid (afschuifspanning)<br>
+1-stapsschudproef (CMA/2/II/A12) met bepaling in eluaat van :<br>
+pH, arseen, barium, lood, cadmium, chroom totaal, chroom VI, koper, nikkel, kwik, zink,<br>
+molybdeen, antimoon, seleen, fluoride, cyanide, ammonium, nitriet, chloride, sulfaat, totaal opgeloste vaste stoffen (TDS), opgeloste organische koolstof (DOC), fenolindex<br>
+G.1 grondwater<br>
+metalen (totaalconcentratie) :<br>
+arseen, cadmium, chroom, koper, kwik, lood, nikkel, zink<br>
+chroom VI<br>
+cyaniden :<br>
+totaal cyaniden<br>
+monocyclische aromatische koolwaterstoffen :<br>
+benzeen, tolueen, ethylbenzeen, som xylenen, styreen<br>
+1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, 1,3,5-trimethylbenzeen<br>
+chloorkoolwaterstoffen :<br>
+dichloormethaan, trichloormethaan, tetrachloormethaan, vinylchloride, 1,1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1,1,1-trichloorethaan, 1,1,2-trichloorethaan, trichlooretheen, tetrachlooretheen, monochloorbenzeen, 1,2-dichloorbenzeen, 1,3-dichloorbenzeen, 1,4-dichloorbenzeen, som trichloorbenzenen, som tetrachloorbenzenen, pentachloorbenzeen en hexachloorbenzeen<br>
+chloorfenolen :<br>
+2-chloorfenol, 2,4-dichloorfenol, 2,4,5-trichloorfenol, 2,4,6-trichloorfenol, 2,3,4,6-tetrachloorfenol, pentachloorfenol<br>
+methyltertiairbutylether<br>
+minerale olie<br>
+polycyclische aromatische koolwaterstoffen (PAK) :<br>
+naftaleen, acenaftyleen, acenafteen, fluoreen, fenantreen, antraceen, fluoranteen, pyreen, benzo(a)antraceen, chryseen, benzo(b)fluoranteen, benzo(k)fluoranteen, benzo(a)pyreen, indeno(1,2,3-cd)pyreen, dibenzo(a,h)antraceen, benzo(ghi)peryleen<br>
+organochloorpesticiden (OCP) :<br>
+aldrin, dieldrin, chloordaan (cis+trans), DDT, DDE, DDD, hexachloorcyclohexaan (, - en -isomeer), endosulfan (,  en sulfaat)<br>
+BL.1 omgevingslucht in het kader van bodemverontreiniging<br>
+VOC-VOCl :<br>
+benzeen, tolueen, ethylbenzeen, som xylenen, styreen, 1,2,3-trimethylbenzeen, 1,2,4-trimethylbenzeen, dichloormethaan, trichloormethaan, tetrachloormethaan, 1,1-dichloorethaan, 1,2-dichloorethaan, cis+trans-1,2-dichlooretheen, 1,1,1-trichloorethaan, 1,1,2-trichloorethaan, trichlooretheen, tetrachlooretheen<br>
+vinylchloride</p>
 
 ## BIJLAGE 4 [Erkenning milieudeskundigen houders voor gassen of gevaarlijke stoffen - (deel)domeinen (verv. BVR 16 mei 2014, art. 625, I: 4 oktober 2014)]
 
