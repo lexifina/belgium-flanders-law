@@ -216,8 +216,8 @@ In uitvoering van de herstelplannen, gebeuren de aanlandingen van die vissoorten
 ### ART 7.
 
 § 1. De volgende minimum instandhoudingsreferentiegroottes zijn van toepassing vanaf 1 januari 2019:<br>
-1° voor tarbot: 32 cm lengte;<br>
-2° voor griet: 32 cm lengte;<br>
+1° voor tarbot:&nbsp;27 cm lengte;<br>
+2° voor griet:&nbsp;27 cm lengte;<br>
 3° voor tongschar: 25 cm lengte;<br>
 4° voor bot: 25 cm lengte;<br>
 5° voor poon: 20 cm lengte;<br>
@@ -247,8 +247,6 @@ In afwijking van het eerste lid, punt 10, is de aanvoerlengte van 25 cm voor ton
 ### ART 8.
 
 Voor de visserij op tong in de ICES-gebieden II en IV, VIId, VIIe, VIIf, g, VIIh, j, k, en VIIIa, b, wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in respectievelijk artikel 9, punt a en b van het teruggooiplan Noordzee, artikel 8, punt c en d van het teruggooiplan noordwestelijke wateren en artikel 6, alinea 1, punt b van het teruggooiplan zuidwestelijke wateren.<br>
-<br>
-Voor de visserij op tarbot in de ICES-gebieden II en IV wordt gebruik gemaakt van de de-minimisvoorwaarden beschreven in respectievelijk artikel 9 van het teruggooiplan Noordzee.<br>
 <br>
 Voor de visserij op kabeljauw en wijting met vistuig TR2 in het ICES-gebieden IV en de visserij op Noorse kreeft in de ICES-gebieden II, IV, kan worden gebruik gemaakt van de de-minimisvoorwaarden beschreven in het teruggooiplan voor de Noordzee.<br>
 <br>
@@ -412,7 +410,33 @@ Van 1 januari 2019 tot en met 31 oktober 2019 is het in het ICES-gebied VIId voo
 
 ### ART 21.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b, is verboden in de periode van 1 januari 2019 tot en met 31 december 2019.
+§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIIIa, b, is verboden in de periode van 1 januari 2019 tot en met 31 december 2019.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 is het vanaf 1 juni 2019 om 00.00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2019" vermeld worden, toegestaan om in de ICES-gebieden VIIIa en b aanwezig te zijn.<br>
+<br>
+Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten de eigenaars van vissersvaartuigen vóór 10 april 2019 via een aangetekende brief of per e-mail een aanvraag tot de dienst richten.<br>
+<br>
+Ingeval de vangstrechten van de ingeschreven vaartuigen 18.000 kW in significante mate overtreft, zal er een loting plaatsvinden.<br>
+<br>
+§ 3. Vanaf 1 juni 2019 tot en met 30 september 2019 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 18 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 10 april 2019 genomen.<br>
+<br>
+De hoeveelheid vermeld in vorig lid kan door de dienst Zeevisserij van het departement Landbouw en Visserij worden herzien.<br>
+<br>
+§ 4. Indien de Belgische vaartuigen vanaf 30 maart 2019 geen toegang tot de wateren van het Verenigd Koninkrijk meer zouden hebben, dan is het vanaf 1 juni 2019 tot en met 30 september 2019 verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. In dit geval kan het aantal ingeschreven vaartuigen op de lijst "Visvergunningen Golf van Gascogne 2019" toenemen tot aan de grens van 26.583 kW vangstrechten.<br>
+<br>
+De bepalingen in artikel 21 kunnen in voorkomend geval worden herzien.<br>
+<br>
+§ 5. Ingeval de hoeveelheden tong, vermeld in § 3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2020.<br>
+<br>
+§ 6. De vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne 2019" voorkomen, krijgen voor de periode 1 juli 2019 tot 31 oktober 2019 geen toegang tot de zones VIIa en VIIf, g. Ingeval de toe te kennen hoeveelheden tong VIIa en VIIf, g voor deze tweede toewijsperiode minder dan respectievelijk 8 kg per kW in VIIf, g en 5000 kg in VIIa bedragen, kan het saldo gekort worden op de toe te kennen hoeveelheden tong VIIa, VIIe, en VIIf, g in de periode 1 november 2019 tot 31 december 2019. Vaartuigen die een voorafname van 5000 kg tong VIIa van de tweede toewijsperiode voor wetenschappelijk onderzoek hebben gekregen kunnen deze inleveren op de toegekende hoeveelheid tong VIIe 2019.<br>
+<br>
+§ 7. Het is verboden gemengde visreizen te maken waarbij tijdens dezelfde visreis naast ICES-gebieden VIIIa en b ook gevist wordt in andere ICES-gebieden.<br>
+<br>
+§ 8. Voor de vissersvaartuigen die de bepalingen van § 1 of § 2 niet naleven, wordt het aantal dagen, vermeld in artikel 12, verminderd met 10.<br>
+<br>
+Bovendien zullen de vissersvaartuigen niet aanwezig mogen zijn in de ICES-gebieden VIIIa en b gedurende het jaar 2020.<br>
+<br>
+§ 9. Het de minimisquotum voor tong in de ICES-gebieden VIIIa en b wordt vastgelegd op 16.000 kg tong. De drempelwaarde bedoeld in artikel 8 wordt voor de tongvisserij in de ICES-gebieden VIIIa en b vastgelegd op maximaal 8% van de reeds in de visreis gerealiseerde tongvangst in het gebied in kwestie.
 
 ## Afdeling 2. Toewijzing van vangstmogelijkheden per zeereis
 
@@ -484,9 +508,9 @@ In de periode van 1 januari 2019 tot en met 31 december 2019 is het voor een vis
 <br>
 In de periode van 1 januari 2019 tot en met 31&nbsp;januari 2019 is het in de ICES-gebieden VIIf, g, voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 100 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 februari 2019 tot en met 31 december 2019 is het in de ICES-gebieden VIIf, g, voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 120 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 februari 2019 tot en met 31 december 2019 is het in de ICES-gebieden VIIf, g, voor een vissersvaartuig van het KVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 februari 2019 tot en met 31 december 2019 is het in de ICES-gebieden VIIf, g, voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 240 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 februari 2019 tot en met 31 december 2019 is het in de ICES-gebieden VIIf, g, voor een vissersvaartuig van het GVS verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 3. In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden VIII voor een vissersvaartuig verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die gelijk is aan 50 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.
 
@@ -568,9 +592,9 @@ Het totale makreelquotum in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-
 <br>
 § 3. In de periode van 1 januari 2019 tot en met 31 december 2019 is het voor een vissersvaartuig verboden bij de heekvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis.<br>
 <br>
-§ 4. In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 200 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+§ 4. In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
-In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
+In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het GVS verboden bij de vangsten van tongschar en witje per zeereis een hoeveelheid te overschrijden die gelijk is aan 1000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
 § 5. In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, zijnde Noordzee en Schelde-estuarium, voor een vissersvaartuig van het KVS verboden bij de wijtingvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
@@ -610,7 +634,7 @@ De beperkingen, vermeld in het eerste lid, zijn niet van toepassing zolang geen 
 <br>
 § 11. De de-minimis voor Noorse kreeft in de ICES-gebieden II, IV, bedraagt 20 ton.<br>
 <br>
-§ 12. De de-minimis voor tarbot in de ICES-gebieden II, IV, bedraagt 30 ton.<br>
+§ 12. ...<br>
 <br>
 § 13. In de periode van 1 januari 2019 tot en met 31 december 2019 is het in de ICES-gebieden II, IV, voor een vissersvaartuig van het KVS verboden bij de tarbot- en grietvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 150 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in die ICES-gebieden.<br>
 <br>
