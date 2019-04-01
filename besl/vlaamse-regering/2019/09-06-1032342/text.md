@@ -32,6 +32,10 @@ Artikel I 5 § 4, eerste lid, van het Vlaams personeelsstatuut van 13 januari 20
 2° er wordt een punt 3° toegevoegd dat luidt als volgt:<br>
 "3° personen van wie de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding beslist dat zij recht hebben op collectief maatwerk of een Vlaamse ondersteuningspremie (VOP) voor een duur van vijf jaar.".
 
+### ART 9.
+
+Aan artikel V 12bis, § 2, eerste lid, 3°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 12 januari 2018, worden de woorden "of eigen speed pedelec." toegevoegd.
+
 ### ART 15.
 
 In hetzelfde besluit worden een artikel VI 164 en VI 165 ingevoegd, die luiden als volgt:<br>
@@ -63,6 +67,15 @@ Aan artikel VII 45, § 2, van hetzelfde besluit, ingevoegd bij het besluit van d
 </table>
 <span style="font-size:medium"><span style="color:#000000">".</span></span>
 
+### ART 19.
+
+In artikel VII 80, § 1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, en laatst gewijzigd bij het besluit van de Vlaamse Regering van 27 januari 2017, wordt in de tabel het woord "fiets" vervangen door de woorden "fiets en speed pedelec".
+
+### ART 24.
+
+Aan artikel VII 100bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 mei 2009, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De in het eerste lid vermelde vergoeding wordt eveneens toegekend aan het personeelslid dat voor hetzelfde traject een fietsvergoeding ontvangt overeenkomstig artikel VII 102.".
+
 ### ART 25.
 
 Artikel VII 102, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten van de Vlaamse Regering van 29 mei 2009, 8 juni 2012 en 1 februari 2013, wordt vervangen door wat volgt:<br>
@@ -82,6 +95,66 @@ Artikel VII 102, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 ### ART 30.
 
 In artikel VII 199, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017, wordt tussen de woorden "van de brutojaarwedde" en het woord "ontving" de zinsnede "(verhoogd met de haard- of standplaatstoelage)" ingevoegd.
+
+### ART 31.
+
+In artikel X 10 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 16 maart 2007, 23 mei 2008, 29 mei 2009 en 15 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in het vierde lid wordt punt 6° vervangen door wat volgt:<br>
+"6° pleegzorgverlof en pleegouderverlof";<br>
+2° aan het vijfde lid worden de woorden "en pleegouderverlof" toegevoegd.
+
+### ART 32.
+
+In deel X van hetzelfde besluit wordt het opschrift van titel 3, vervangen door wat volgt:<br>
+<br>
+"Titel 3. Moederschapsrust, opvangverlof, pleegzorgverlof en pleegouderverlof".
+
+### ART 33.
+
+In artikel X 16 van hetzelfde besluit, worden de volgende wijzigingen aangebracht:<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"Het opvangverlof bedraagt zes weken per personeelslid. De zes weken opvangverlof worden op de volgende wijze opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf 1 januari 2021;<br>
+3° met drie weken vanaf 1 januari 2023;<br>
+4° met vier weken vanaf 1 januari 2025;<br>
+5° met vijf weken vanaf 1 januari 2027.<br>
+Indien beide ouders het kind adopteren dan worden de bijkomende weken onderling verdeeld.";<br>
+2° tussen het derde en vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"De maximumduur van het opvangverlof wordt met twee weken per personeelslid verlengd bij de gelijktijdige adoptie van meerdere minderjarige kinderen.";<br>
+3° tussen het bestaande vierde en het bestaande vijfde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+"In het kader van een interlandelijke adoptie kan het opvangverlof ook de periode bestrijken die voorafgaat aan de daadwerkelijke opvang van het geadopteerde kind in België, als die voorafgaande periode niet meer bedraagt dan vier weken en ze wordt besteed aan de voorbereiding van de daadwerkelijke opvang van het kind.";<br>
+4° er wordt een achtste lid toegevoegd, dat luidt als volgt:<br>
+"Het opvangverlof wordt aan het contractuele personeel toegekend als het contractuele personeelslid niet gebruikmaakt van de regeling voor het adoptieverlof, vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.".
+
+### ART 34.
+
+In deel X, titel III, van hetzelfde besluit wordt het opschrift van hoofdstuk 3, vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk 3. Pleegzorgverlof en pleegouderverlof".
+
+### ART 35.
+
+In artikel X 16bis van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt de zin `Het pleegzorgverlof wordt gelijkgesteld met dienstactiviteit" opgeheven;<br>
+2° tussen het eerste en het tweede lid worden zes leden ingevoegd, die luiden als volgt:<br>
+"In geval van langdurige pleegzorg heeft het personeelslid dat in het kader van een langdurige pleegzorg een kind in zijn gezin opvangt, voor de zorg voor dat kind, een eenmalig recht op pleegouderverlof gedurende een aaneengesloten periode van maximaal zes weken.<br>
+Het pleegouderverlof van zes weken wordt als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf uiterlijk 1 januari 2021;<br>
+3° met drie weken vanaf uiterlijk 1 januari 2023;<br>
+4° met vier weken vanaf uiterlijk 1 januari 2025;<br>
+5° met vijf weken vanaf uiterlijk 1 januari 2027.<br>
+Als beide ouders zijn aangesteld als pleegouder, dan worden de bijkomende weken onderling verdeeld.<br>
+De maximumduur van het pleegouderverlof wordt verdubbeld als het kind dat in het gezin opgenomen wordt, een handicap heeft.<br>
+De maximumduur van het pleegouderverlof wordt met twee weken per personeelslid verlengd als meerdere pleegkinderen tegelijkertijd langdurig in het gezin worden opgenomen.<br>
+In het zesde lid wordt verstaan onder langdurige pleegzorg: de pleegzorg waarvan bij het begin duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.";<br>
+3° het bestaande derde lid, dat het negende lid wordt, wordt vervangen door wat volgt:<br>
+"Het pleegzorgverlof en pleegouderverlof worden aan de ambtenaar op overeenkomstige wijze toegekend als aan het contractueel personeelslid op grond van de arbeidsovereenkomstenwet.".<br>
+4° er worden een tiende, elfde en twaalfde lid toegevoegd, die luiden als volgt:<br>
+"Het pleegzorgverlof en pleegouderverlof worden met dienstactiviteit gelijkgesteld.<br>
+Tijdens het pleegzorgverlof heeft een statutair personeelslid recht op 82% van het brutoloon en ontvangt het contractueel personeelslid geen salaris.<br>
+Tijdens de eerste drie dagen van het pleegouderverlof hebben het statutair en contractueel personeelslid recht op een doorbetaling van het salaris. Vanaf de vierde dag heeft een statutair personeelslid recht op 82% van het brutosalaris en ontvangt een contractueel personeelslid geen salaris.".
 
 ### ART 37.
 
