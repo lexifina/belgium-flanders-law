@@ -31,7 +31,9 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br>
 9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br>
 10° afnamepunt : punt waar elektriciteit of aardgas van het net wordt afgenomen en verbruikt;<br>
+10° /1 afnamepunt voor thermische energie: punt waar thermische energie van het warmte- of koudenet wordt afgenomen en verbruikt;<br>
 11° afnemer : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt om te voorzien in zijn eigen behoeftes;<br>
+11° /1 afnemer van thermische energie: elke natuurlijke persoon of rechtspersoon die thermische energie afneemt om te voorzien in zijn eigen behoeftes;<br>
 12° afsluiten : het buiten dienst stellen van de aansluiting of het ontzeggen van de toegang tot het net door de aansluiting af te koppelen van de installaties van de afnemer;<br>
 12/1° aggregator: dienstenverrichter die meerdere capaciteiten voor afname, consumptie, productie of injectie combineert om in georganiseerde energiemarkten te verkopen of te veilen;<br>
 13° allocatie : toewijzing van energiehoeveelheden aan de verschillende marktpartijen;<br>
@@ -63,7 +65,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 28° distributie : de activiteit die erin bestaat elektriciteit via elektrische lijnen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, of aardgas via plaatselijke aardgasleidingen te brengen tot bij afnemers, de levering zelf niet inbegrepen;<br>
 29° distributienet : elektriciteitsdistributienet of aardgasdistributienet;<br>
 30° distributienetbeheerder : elektriciteitsdistributienetbeheerder of aardgasdistributienetbeheerder;<br>
-30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar,&nbsp;erfpachter, opstalhouder of concessiehouder;<br>
+30°/1 eigen site : het kadastrale perceel of de aansluitende kadastrale percelen van dezelfde natuurlijke persoon of rechtspersoon als eigenaar, erfpachter, opstalhouder of concessiehouder;<br>
 30/2° eilandwerking : de situatie waarin, met uitzondering van mobiele installaties,een productie-installatie in normale werking niet gekoppeld is aan :<br>
 a) het elektriciteitsdistributienet of daaraan gekoppelde gesloten distributienetten;<br>
 b) het plaatselijk vervoernet van elektriciteit of daaraan gekoppelde gesloten distributienetten;<br>
@@ -80,10 +82,10 @@ c) het transmissienet;<br>
 39/1° energiedienst: het fysieke voordeel, nut of welzijn dat wordt bereikt met een combinatie van energie met energie-efficiënte technologie of actie, die de bewerkingen, het onderhoud en de controle kan omvatten die nodig zijn voor de levering van de dienst, welke wordt geleverd op basis van een overeenkomst en welke onder normale omstandigheden heeft aangetoond te leiden tot een controleerbare en meetbare of een schatbare verbetering van de energie-efficiëntie of tot controleerbare en meetbare of schatbare primaire energiebesparingen;<br>
 40° energiedrager : kolen en afgeleide producten, petroleumproducten, gas, elektriciteit, hernieuwbare energiebronnen, warmte en nucleaire warmte;<br>
 40° /1 energiefraude: elke onrechtmatige actie van eenieder, zowel actief als passief, die gepaard gaat met het verkrijgen van een onrechtmatig voordeel. Daaronder wordt minstens verstaan:<br>
-a) handelingen uitvoeren op het distributienet of op het plaatselijke vervoernet van elektriciteit zonder daartoe gemachtigd te zijn;<br>
+a) handelingen uitvoeren op een warmte- of koudenet of op het distributienet of op het plaatselijke vervoernet van elektriciteit zonder daartoe gemachtigd te zijn;<br>
 b) de aansluiting of meetinstallatie manipuleren;<br>
 c) meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement niet uitvoeren;<br>
-d) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van contract- of aansluitingsaanvragen bij de leverancier, toegangshouder of netbeheerder;<br>
+d) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van contract- of aansluitingsaanvragen bij de leverancier, warmte- of koudeleverancier,&nbsp;toegangshouder of netbeheerder, de warmte- of koudenetbeheerder;<br>
 e) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van de aanvraag van groenestroomcertificaten of warmte-krachtcertificaten of van de rapportering van meetgegevens die aanleiding geven tot het toekennen van groenestroomcertificaten of warmte-krachtcertificaten;<br>
 f) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van subsidie- of premieaanvragen in uitvoering van dit decreet of zijn uitvoeringsbesluiten;<br>
 g) informatie bezorgen die niet consistent of in overeenstemming met de werkelijkheid is in het kader van meldingsverplichtingen die voortvloeien uit de toepassing van dit decreet, de uitvoeringsbesluiten ervan, het aansluitingsreglement, het aansluitingscontract of het technisch reglement;<br>
@@ -128,16 +130,19 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br>
 66° /1 hoogspanning: een nominaal spanningsniveau van 30 kilovolt of hoger;<br>
 67° huishoudelijke afnemer : elke natuurlijke persoon aangesloten op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1 000 volt of minder, die elektriciteit of aardgas afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit respectievelijk aardgas op het afnamepunt in kwestie werd gesloten door een onderneming, als vermeld in artikel I.4, 1°, van het Wetboek van Economisch Recht;<br>
+67° /1 huishoudelijke afnemer van thermische energie: elke natuurlijke persoon die thermische energie afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn;<br>
 67° /2 huishoudelijke netgebruiker : een huishoudelijke afnemer of een natuurlijke persoon die aangesloten is op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1000 volt of minder, die elektriciteit opwekt, biogas produceert of aardgas wint om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn;<br>
 68° hulpkrediet : een krediet dat ter beschikking wordt gesteld van een huishoudelijke afnemer, zodra het op de budgetmeter voor elektriciteit of op de budgetmeter voor aardgas opgeladen bedrag opgebruikt is;<br>
 68°/1 hydrothermische energie : energie die in de vorm van warmte in het oppervlaktewater is opgeslagen;<br>
 68° /2 ingrijpende wijziging: wijziging van een warmte-krachtinstallatie, waarvan de motor ouder is dan tien jaar en/of waarvan de turbine ouder is dan vijftien jaar, en waarbij minstens de motor of de turbine vervangen wordt door een nog niet gebruikte motor of turbine. Indien een warmte-krachtinstallatie uit meerdere motoren of turbines bestaat, dan moeten alle motoren en turbines ouder zijn dan respectievelijk tien of vijftien jaar en moeten alle motoren en turbines vervangen worden door een nog niet gebruikte motor of turbine;<br>
 69° injecteren : het inbrengen van elektriciteit of aardgas in een distributienet of het plaatselijk vervoernet van elektriciteit, vanuit een net of door een producent;<br>
+69° /1 injecteren van thermische energie: het inbrengen van thermische energie in een warmte- of koudenet vanuit een warmte- of koudenet of door een producent van thermische energie;<br>
 70° injectiepunt : punt waar elektriciteit of aardgas in het net wordt geïnjecteerd;<br>
+70° /1 injectiepunt van thermische energie: punt waar thermische energie in een warmte- of koudenet wordt geïnjecteerd;<br>
 71° internationale luchtvaartbunkers : de hoeveelheid energie die geleverd wordt aan vliegtuigen die op buitenlandse luchthavens vliegen;<br>
 72° internationale scheepvaartbunkers : de hoeveelheid energie die geleverd wordt aan schepen die op buitenlandse havens varen;<br>
 72/1° K-peilvolume : elke eenheid van aaneengesloten lokalen die in hetzelfde gebouw gelegen zijn, die het voorwerp zijn van werken van dezelfde aard en die moeten voldoen aan dezelfde K-peileis;<br>
-73° ...<br>
+73° ...;<br>
 74° karakteristiek jaarlijks primair energieverbruik : het conventioneel bepaalde jaarlijkse energieverbruik van een gebouw, uitgedrukt in primaire energie-equivalenten;<br>
 74° /1 klantengroep: iedere groep van distributienetgebruikers die elektriciteit, aardgas of biogas injecteren en/of afnemen van het distributienet en die zich kenmerkt door het type netwerk waarop de netgebruiker is aangesloten, het type aansluiting waarover die netgebruiker beschikt, de automatische compensatie van afgenomen en geïnjecteerde elektriciteit, het jaarverbruik, het type meetinstallatie, het toegangsvermogen, het piekvermogen of door het feit of die netgebruiker al dan niet elektriciteit of biogas injecteert op het netwerk waarop die netgebruiker is aangesloten, met dien verstande dat één netgebruiker volgens zijn toegangspunten tot verschillende klantengroepen kan behoren;<br>
 75° kleine onderneming : ondernemingen die cumulatief aan de volgende voorwaarden voldoen :<br>
@@ -156,7 +161,7 @@ en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-baten
 79° lokale adviescommissie : commissie als vermeld in artikel 7 van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water;<br>
 79° /1 lopende projecten : projecten met startdatum tot en met de eerstvolgende hieronder genoemde van toepassing zijnde datum :<br>
 a) 31 juli;<br>
-b) ..;<br>
+b) ...;<br>
 80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br>
 81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, leverancier, tussenpersoon, bevrachter of evenwichtsverantwoordelijke;<br>
 82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br>
@@ -228,7 +233,8 @@ b) decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensv
 113/1/1° SPF: de seizoensprestatiefactor van een warmtepomp;<br>
 113/1/1° stadsverwarming of -koeling: de distributie van thermische energie in de vorm van stoom, warm water of gekoelde vloeistoffen vanuit een centrale productie-installatie via een netwerk dat verbonden is met meerdere gebouwen of locaties, voor het verwarmen of koelen van ruimten of processen;<br>
 113° /2 startdatum : voor wat betreft projecten die niet over een omgevingsvergunning dienen te beschikken, de datum van indienstneming van de installatie;<br>
-voor wat betreft projecten die over een omgevingsvergunning dienen te beschikken : de datum waarop een aanvraag voor de toekenning van certificaten voor het project is ingediend, of de datum waarop het project beschikt over de vereiste omgevingsvergunning, indien deze laatste datum een latere datum is. Deze startdatum blijft voor installaties op basis van zonne-energie met een maximaal AC-vermogen van de omvormer(s) kleiner of gelijk aan 10 MW geldig gedurende twaalf maanden, voor installaties op basis van zonne-energie met een maximaal AC-vermogen van de omvormer(s) groter dan 10 MW gedurende vijftien maanden, voor warmte-krachtinstallaties met een elektrisch vermogen groter dan 25 MW gedurende 48 maanden en voor andere installaties gedurende 36 maanden na de aanvraag. Een project kan maar een nieuwe startdatum krijgen voor zover aan de volgende voorwaarden is voldaan :<br>
+voor wat betreft projecten die over een omgevingsvergunning dienen te beschikken : de datum waarop een aanvraag voor de toekenning van certificaten voor het project is ingediend, of de datum waarop het project beschikt over de vereiste omgevingsvergunning, indien deze laatste datum een latere datum is. Deze startdatum blijft voor installaties op basis van zonne-energie met een maximaal AC-vermogen van de omvormer(s) kleiner of gelijk aan 10 MW geldig gedurende twaalf maanden, voor installaties op basis van zonne-energie met een maximaal AC-vermogen van de omvormer(s) groter dan 10 MW gedurende vijftien maanden, voor warmte-krachtinstallaties met een elektrisch vermogen groter dan 25 MW gedurende 48 maanden en voor andere installaties gedurende 36 maanden na de aanvraag.<br>
+Een project kan maar een nieuwe startdatum krijgen voor zover aan de volgende voorwaarden is voldaan :<br>
 a) de installatie is nog niet in gebruik genomen gedurende de geldigheidsduur van de startdatum en op voorwaarde dat de nieuwe aanvraag gebeurt in hetzelfde kalenderjaar als het jaar van de indienstname;<br>
 b) zij beschikt nog steeds over een omgevingsvergunning;<br>
 c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden en voor andere installaties minstens 36 maanden verstreken sinds de vorige aanvraag voor de toekenning van certificaten werd ingediend;<br>
@@ -243,12 +249,17 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 117° technisch reglement distributie elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het elektriciteitsdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br>
 118° technisch reglement distributie gas : de technische en operationele regels die verbonden zijn aan het beheer van het aardgasdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br>
 119° technisch reglement plaatselijk vervoer van elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het plaatselijk vervoernet van elektriciteit, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br>
+119° /1 technisch reglement - warmte- of koudenetten: de technische en operationele regels die verbonden zijn aan het beheer van een warmte- of koudenet, inclusief de regels voor aansluiting, meting en toegang;<br>
+119° /2 thermische energie: energie in de vorm van warmte of koude;<br>
 120° titularis van een toegangspunt : natuurlijke persoon of rechtspersoon die in het toegangsregister bekend staat als afnemer of producent op het toegangspunt in kwestie;<br>
 120°/1 toegang tot het net : de mogelijkheid tot injectie of afname van actieve energie op één of meer toegangspunten, met inbegrip van het gebruik van het net en de aansluitingsinstallaties die door de beheerder van het betrokken net worden beheerd, en van diens ondersteunende diensten;<br>
+120° /2 toegang tot het warmte- of koudenet: de mogelijkheid tot injectie of afname van thermische energie op een of meer toegangspunten voor thermische energie, met inbegrip van het gebruik van het warmte- of koudenet en de aansluitingsinstallaties die door de beheerder van het warmte- of koudenet in kwestie worden beheerd, en van zijn ondersteunende diensten;<br>
 121° toegangshouder : natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een netbeheerder, beheerder van het transmissienet of beheerder van het vervoersnet met betrekking tot de toegang tot diens net op een bepaald toegangspunt;<br>
+121° /1 toegangshouder voor thermische energie: natuurlijke persoon of rechtspersoon die een contract heeft gesloten met een warmte- of koudenetbeheerder voor de toegang tot zijn warmte- of koudenet op een bepaald toegangspunt voor thermische energie;<br>
 122° toegangspunt : afnamepunt of injectiepunt;<br>
+122° /1 toegangspunt voor thermische energie: afnamepunt voor thermische energie of injectiepunt voor thermische energie;<br>
 123° toegangsregister : register met alle toegangspunten van een bepaald net, dat opgesteld en beheerd wordt door de betrokken netbeheerder, beheerder van het transmissienet of beheerder van het vervoernet, en waarin onder meer voor ieder toegangspunt de titularis van het toegangspunt en de toegangshouder worden vermeld;<br>
-124° ...<br>
+124° toegangsregister voor het warmte- of koudenet: register met alle toegangspunten voor thermische energie van een bepaald warmte- of koudenet, dat opgesteld en beheerd wordt door de betrokken warmte- of koudenetbeheerder, waarin onder meer voor ieder toegangspunt voor thermische energie de titularis van het toegangspunt voor thermische energie en de toegangshouder voor thermische energie worden vermeld;<br>
 125° transmissienet : het transmissienet, vermeld in artikel 2, 7°, van de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 126° tussenpersoon : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas koopt met het oog op de doorverkoop aan een andere tussenpersoon of leverancier;<br>
 126/1° uitbating volgens de regels van de kunst : een uitbating overeenkomstig het « goede-huisvader »-beginsel en waarbij bovendien het potentieel aan energie-opwekking of energie-besparing ten aanzien van het vermogen van de installatie niet significant wordt onderbenut voor langdurige periodes door de expliciete of impliciete wil van de exploitant en/of eigenaar, en waarbij louter contractuele en/of commerciële overwegingen niet kunnen gelden als verschoning voor een langdurige onderbenutting van het potentieel van deze installatie. Kortdurende onderbenutting met het oog op een betere afstemming van elektriciteitsproductie en marktvraag of met het oog op een ondersteuning van het netbeheer beantwoordt wel aan het « goede-huisvader »-beginsel;<br>
@@ -267,6 +278,12 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 131/3° vraagzijdebeheer: een algemene of geïntegreerde aanpak die erop gericht is de omvang en de timing van het elektriciteitsverbruik te beïnvloeden teneinde het primaire energieverbruik en piekbelastingen te verminderen door voorrang te geven aan investeringen in energie-efficiëntiebevorderende maatregelen of andere maatregelen, zoals onderbreekbare leveringscontracten, in plaats van aan investeringen om de productiecapaciteit te verhogen, indien de eerstgenoemde maatregelen de doelmatigste en meest economische optie vormen, mede gelet op het positieve milieueffect van een lager energieverbruik en de daarmee verband houdende aspecten met betrekking tot de voorzieningszekerheid en de distributiekosten;<br>
 132° VREG : autonome dienst met rechtspersoonlijkheid, die overeenkomstig artikel 3.1.1 wordt opgericht;<br>
 133° wanbetaling : de niet-betaling of onvolledige betaling van minstens één elektriciteits- of aardgasfactuur;<br>
+133° /1 warmte- of koudeleverancier: elke natuurlijke persoon of rechtspersoon die aan afnemers thermische energie via een warmte- of koudenet verkoopt;<br>
+133° /2 warmte- of koudenet: geheel van onderling verbonden leidingen en de daarmee verbonden hulpmiddelen die noodzakelijk zijn voor stadsverwarming of -koeling, met uitsluiting van netwerken op een industriële site;<br>
+133° /3 warmte- of koudenetbeheerder: de beheerder van een warmte- of koudenet;<br>
+133° /4 warmte- of koudeneteigenaar: de eigenaar van een warmte- of koudenet;<br>
+133° /5 warmte- of koudenetgebruiker: een natuurlijke persoon of rechtspersoon die warmte injecteert op of afneemt van een warmte- of koudenet;<br>
+133° /6 warmte- of koudeproducent: iedere natuurlijke persoon of rechtspersoon die thermische energie opwekt voor een warmte- of koudenet;<br>
 134° warmtedoorgangscoëfficiënt (of U-waarde) : de warmtedoorgang door een constructieonderdeel per eenheid van oppervlakte, eenheid van tijd en eenheid van temperatuurverschil tussen de omgevingen aan beide zijden van het deel, zoals die gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 135° warmtekrachtcertificaat : uniek, verhandelbaar, elektronisch en overdraagbaar immaterieel goed dat aantoont dat een bepaalde productie-installatie in een bepaalde periode een hoeveelheid primaire energiebesparing heeft gerealiseerd door gebruik te maken van kwalitatieve warmtekrachtkoppeling ten opzichte van een moderne referentiecentrale en een moderne referentieketel;<br>
 136° warmtekrachtinstallatie : installatie die in één proces thermische warmte en elektrische of mechanische energie opwekt;<br>
@@ -281,8 +298,8 @@ b) voor warmte-krachtbesparing is dit de netto warmte-krachtbesparing over een b
 
 ### ART. 2.1.1.
 
-In het kader van de totstandbrenging en de werking van een goed werkende elektriciteits- en gasmarkt en rekening houdend met de noodzaak om het milieu in stand te houden en te verbeteren, is het Vlaamse energiebeleid erop gericht :<br>
-1° de werking van de Vlaamse elektriciteits- en gasmarkt te waarborgen;<br>
+In het kader van de totstandbrenging en de werking van een goed werkende elektriciteits- en gasmarkt en de goede werking van warmte- of koudenetten en rekening houdend met de noodzaak om het milieu in stand te houden en te verbeteren, is het Vlaamse energiebeleid erop gericht :<br>
+1° de werking van de Vlaamse elektriciteits- en gasmarkt en de goede werking van warmte- of koudenetten te waarborgen;<br>
 2° de continuïteit van de energievoorziening in het Vlaamse Gewest te waarborgen;<br>
 3° energie-efficiëntie, energiebesparing en de ontwikkeling van nieuwe en duurzame energie te stimuleren;<br>
 4° de interconnectie van energienetwerken te bevorderen.<br>
@@ -319,7 +336,7 @@ De VREG oefent zijn taken en bevoegdheden op onpartijdige en transparante wijze 
 
 ### ART. 3.1.2.
 
-De VREG heeft als missie de regulering van, de controle op en de bevordering van de transparantie van de elektriciteits- en gasmarkt in het Vlaamse Gewest.
+De VREG heeft als missie de regulering van, de controle op en de bevordering van de transparantie van de elektriciteits- en gasmarkt, de levering van warmte en koude en de uitbating van warmte- of koudenetten &nbsp;in het Vlaamse Gewest.
 
 ### ART. 3.1.3.
 
@@ -332,10 +349,18 @@ d) het toezicht houden op de kwaliteit van de dienstverlening van de elektricite
 e) het toezicht houden op de zekerheid en betrouwbaarheid van de distributie netten en het plaatselijk vervoersnet van elektriciteit, alsook de kwaliteit van de dienstverlening van de netbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de beheerders van de netten nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
 f) het toezicht houden op de uitvoering van regels betreffende de taken en verantwoordelijkheden van de distributienetbeheerders, leveranciers, afnemers en andere marktpartijen die actief zijn in het Vlaamse Gewest;<br>
 g) het toezicht houden op de vrije toegang voor de afnemer tot zijn verbruiksgegevens;<br>
+h) het toezicht en de controle op de naleving van de bepalingen van titel IV/1 van dit decreet, alsook van de bijbehorende uitvoeringsbepalingen;<br>
+i) het toezicht en de controle op de naleving van een eventueel technisch reglement voor warmte- of koudenetten;<br>
+j) het toezicht op de kwaliteit van de dienstverlening van de warmte- of koudeleveranciers, inclusief hun systemen van vooruitbetaling en de klachten van huishoudelijke afnemers van thermische energie;<br>
+k) het toezicht op de zekerheid en betrouwbaarheid van de warmte- of koudenetten, alsook op de kwaliteit van de dienstverlening van de warmte- of koudenetbeheerders, onder meer bij de uitvoering van herstellingen en onderhoud en op het vlak van de tijd die de warmte- of koudenetbeheerders nodig hebben om aansluitingen en herstellingen uit te voeren;<br>
+l) het toezicht op de uitvoering van regels voor de taken en verantwoordelijkheden van de koude- of warmtenetbeheerders, de warmte- of koudeleveranciers, de warmte- of koudeafnemers en andere marktpartijen inzake stadsverwarming of -koeling, die actief zijn in het Vlaamse Gewest;<br>
+m) het toezicht op de vrije toegang voor de warmte- of koudeafnemer tot zijn verbruiksgegevens;<br>
 2° regulerende taken: de regulering van toegang tot en de werking van de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor elektriciteit en aardgas of overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet;<br>
 3° taken in verband met bemiddeling en beslechting van geschillen :<br>
 a) het bemiddelen in geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
 b) het beslechten van geschillen met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet, vermeld in de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet en haar uitvoeringsbepalingen;<br>
+c) het bemiddelen in geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
+d) het beslechten van geschillen tegen een warmte- of koudenetbeheerder met betrekking tot zijn verplichtingen, vermeld in titel IV/1 en VI van dit decreet en in de uitvoeringsbepalingen ervan;<br>
 4° informerende taken :<br>
 a) het informeren van de marktactoren en de afnemers van elektriciteit en aardgas over de werking van de elektriciteits- en aardgasmarkt;<br>
 b) het informeren van de afnemers van elektriciteit en aardgas over de prijzen en voorwaarden die de leveranciers hanteren, met inbegrip van het aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
@@ -347,10 +372,15 @@ e) het jaarlijks voor&nbsp;15 mei&nbsp;per leverancier in het Vlaamse Gewest pub
 1) van het aantal certificaten waarover een leverancier beschikt;<br>
 2) van het aantal certificaten dat gedurende de laatste inleveringsperiode werd ingeleverd voor de certificatenverplichtingen, vermeld in respectievelijk artikel 7.1.10 en artikel 7.1.11;<br>
 f) het jaarlijks voor&nbsp;15 mei&nbsp;publiceren van een rapport over de door elke leverancier gemaakte en doorgerekende kosten om te voldoen aan de verplichting, vermeld in artikel 7.1.10 en 7.1.11, waarbij de VREG per elektriciteitsleverancier de gewogen gemiddelde kost per certificaat, berekend volgens punt d) voor de vorige inleveringsperiode, vergelijkt met de doorgerekende kost per certificaat voor die inleveringsperiode, zoals door de elektriciteitsleverancier gerapporteerd in het kader van de V-test voor het gemiddelde huishoudelijke klantenprofiel;<br>
+g) het informeren van de marktactoren en de warmte- of koudeafnemers over de werking van de warmte- of koudenetten;<br>
+h) het informeren van de warmte- of koudeafnemers over de prijzen en voorwaarden die de warmte- of koudeleveranciers hanteren, met inbegrip van het eventueel aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
+i) het opstellen en publiceren van statistieken en gegevens over de werking van de warmte- of koudenetten;<br>
 j) het jaarlijks voor 15 mei publiceren van een in samenwerking met de federale energieregulator, en eventueel de andere gewestelijke energieregulatoren, opgestelde studie rond de verschillende componenten van de energiekost die minstens een benchmark met de buurlanden bevat.<br>
 5° adviserende taken :<br>
 a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
-b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering.<br>
+b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
+c) het op verzoek of op eigen initiatief verlenen van adviezen over de werking van de warmte- of koudenetten aan de minister of de Vlaamse Regering;<br>
+d) het uitvoeren van studies of onderzoeken betreffende de werking van de warmte- of koudenetten, op eigen initiatief of op verzoek van de minister of de Vlaamse Regering.<br>
 <br>
 De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opdrachten die met haar missie en taken verband houden.
 
@@ -360,7 +390,7 @@ De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opd
 <br>
 § 2. De VREG beschikt over de hierna vermelde bevoegdheden, die hij uitoefent in overeenstemming met de bepalingen in dit decreet, de uitvoeringsbepalingen, en het ondernemingsplan dat hem verbindt:<br>
 1° het aangaan van overeenkomsten met derden;<br>
-2° het opleggen van administratieve sancties wegens overtreding van de bepalingen van titels IV, V, VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
+2° het opleggen van administratieve sancties wegens overtreding van de bepalingen van titels IV, IV/1, V en VI, en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
 3° de aanwijzing, de wijziging en beëindiging van de aanwijzing van de netbeheerders;<br>
 4° het toekennen aan een distributienetbeheerder van de toestemming om een beroep te doen op een werkmaatschappij;<br>
 5° de toekenning van leveringsvergunningen, de wijziging en de opheffing ervan;<br>
@@ -370,7 +400,10 @@ De VREG kan door&nbsp;het Vlaams Parlement&nbsp;worden belast met bijzondere opd
 9° het uitvoeren van onderzoeken naar de werking van de elektriciteits- en gasmarkt in het Vlaamse Gewest;<br>
 10° het opleggen van noodzakelijke en evenredige maatregelen om de daadwerkelijke mededinging te bevorderen en de goede werking van de Vlaamse elektriciteits- en gasmarkt te waarborgen;<br>
 11° de samenwerking en uitwisseling van gegevens met de regulatoren en instanties die werken binnen de Vlaamse, Belgische en Europese elektriciteits- en gasmarkt, voor zover de bepalingen van artikel 3.1.12 worden nageleefd;<br>
-12° het goedkeuren van distributienettarieven voor elektriciteit en aardgas en het vaststellen van de berekeningsmethodes hiervoor, volgens transparante criteria of het nemen van overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet.
+12° het goedkeuren van distributienettarieven voor elektriciteit en aardgas en het vaststellen van de berekeningsmethodes hiervoor, volgens transparante criteria of het nemen van overgangsmaatregelen hierover, overeenkomstig de bepalingen van dit decreet;<br>
+13° het opstellen van een technisch reglement - warmte- of koudenetten indien noodzakelijk;<br>
+14° het uitvoeren van onderzoeken naar de werking van de warmte- of koudenetten in het Vlaamse Gewest;<br>
+15° het opleggen van noodzakelijke en evenredige maatregelen om de goede werking van de Vlaamse warmte- of koudenetten te waarborgen.
 
 ### ART. 3.1.4/1.
 
@@ -378,11 +411,11 @@ Bij de uitoefening van haar taken en bevoegdheden neemt de VREG alle   redelijke
 
 ### ART. 3.1.4/2.
 
-Partijen die een klacht hebben met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet uit hoofde van de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter bemiddeling voorleggen aan de VREG. De VREG stelt de bemiddelingsprocedure vast.
+Partijen die een klacht hebben met betrekking tot de verplichtingen van een &nbsp;netbeheerder, warmte- of koudenetbeheerder of beheerder van een gesloten distributienet&nbsp; uit hoofde van de titels IV, IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter bemiddeling voorleggen aan de VREG. De VREG stelt de bemiddelingsprocedure vast.
 
 ### ART. 3.1.4/3.
 
-Partijen die een klacht hebben met betrekking tot de verplichtingen van een netbeheerder of beheerder van een gesloten distributienet uit hoofde van de titels IV, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter beslechting voorleggen aan de VREG. Enkel geschillen waarin reeds een bemiddelingspoging door de VREG of de ombudsdienst voor energie is geweest, kunnen worden voorgelegd ter beslechting, tenzij in geval van hoogdringendheid en behoudens andersluidende bepaling.<br>
+Partijen die een klacht hebben met betrekking tot de verplichtingen van een netbeheerder&nbsp;, warmte- of koudenetbeheerder of beheerder van een gesloten distributienet&nbsp;uit hoofde van de titels IV, IV/1, V, VI en de hoofdstukken I tot en met IV van titel VII van dit decreet of haar uitvoeringsbepalingen, kunnen het geschil schriftelijk ter beslechting voorleggen aan de VREG. Enkel geschillen waarin reeds een bemiddelingspoging door de VREG of de ombudsdienst voor energie is geweest, kunnen worden voorgelegd ter beslechting, tenzij in geval van hoogdringendheid en behoudens andersluidende bepaling.<br>
 <br>
 De VREG beslecht het geschil met een gemotiveerde, bindende beslissing binnen twee maanden na ontvangst van de klacht. Deze periode kan met twee maanden worden verlengd als de VREG aanvullende informatie vraagt. Een nieuwe verlenging van deze termijn is mogelijk voor zover de klager daarmee akkoord gaat.<br>
 <br>
@@ -421,8 +454,8 @@ De algemeen directeur van de VREG woont de raad van bestuur bij met raadgevende 
 ### ART. 3.1.7.
 
 § 1. Het mandaat van bestuurder van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br>
-2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier;<br>
+2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, vermeld in punt 1°,&nbsp; of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
 3° het lidmaatschap van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
 4° de functie of het ambt van minister, staatssecretaris, het lidmaatschap van een gewest- of gemeenschapsregering, het lidmaatschap van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, het lidmaatschap van de bestendige deputatie van de provincieraden en het lidmaatschap van het college van burgemeester en schepenen van een gemeente;<br>
 5° een functie in de VREG;<br>
@@ -518,8 +551,8 @@ De bestuurders, de algemeen directeur en de personeelsleden van de VREG zijn geb
 ### ART. 3.1.12/1.
 
 Het uitoefenen van een Functie als algemeen directeur of personeelslid van de VREG is onverenigbaar met :<br>
-1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke;<br>
-2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
+1° iedere functie of activiteit, al dan niet bezoldigd, ten dienste van een neteigenaar, een netbeheerder, een producent die geen zelfopwekker is, een aardgasinvoerder, de beheerder van het transmissienet, de beheerder van het vervoersnet, een werkmaatschappij, een leverancier, een bevrachter of een evenwichtsverantwoordelijke of van een warmte- of koudeneteigenaar, een warmte- of koudenetbeheerder, een warmteproducent die geen zelfopwekker is of een warmte- of koudeleverancier;<br>
+2° het bezit van aandelen, of andere met aandelen gelijk te stellen waardepapieren, uitgegeven door een neteigenaar of marktpartij,&nbsp;vermeld in punt 1°, of het bezit van financiële instrumenten die het mogelijk maken om dergelijke aandelen of waardepapieren te verwerven of over te dragen, of die aanleiding geven tot een betaling in contanten die hoofdzakelijk afhankelijk is van de evolutie van de waarde van dergelijke aandelen of waardepapieren;<br>
 3° het lid zijn van de wetgevende kamers, het Europees Parlement en de gemeenschaps- en gewestraden;<br>
 4° de functie of het ambt van minister, staatssecretaris, lid van gewest- of gemeenschapsregering, lid van het kabinet van een lid van de Federale Regering of van een gemeenschaps- of gewestregering, lid van de bestendige deputatie van de provincieraden en lid van het college van burgemeester en schepenen van een gemeente;<br>
 5° een functie in een departement of een ander agentschap van de federale of gewestelijke overheid.
@@ -1227,33 +1260,220 @@ De beheerder van een privédistributienet heeft geen openbare dienstverplichting
 
 ## [Afdeling I. Activiteiten van de warmte- of koudenetbeheerders (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.1.1.
+
+Het beheer van een warmte- of koudenet omvat onder meer de volgende taken:<br>
+1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt warmte- of koudenet, met inachtneming van het milieu en de energie-efficiëntie van het warmte- of koudenet, en het instaan voor de nodige ondersteunende diensten ervoor;<br>
+2° het aanhouden van voldoende capaciteit om de warmte- of koudebehoefte te dekken van de warmte- of koudeafnemers die aangesloten zijn op zijn warmte- of koudenet;<br>
+3° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn warmte- of koudenet en de bijbehorende installaties;<br>
+4° het herstellen van onderbrekingen en storingen bij de toevoer van warmte of koude via zijn net;<br>
+5° het opstellen, het bewaren en ter beschikking stellen van de plannen van zijn warmte- of koudenet;<br>
+6° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn warmte- of koudenet en het verzwaren van de aansluitingen op zijn warmte- of koudenet;<br>
+7° het verlenen van toegang tot zijn warmte- of koudenet;<br>
+8° het beheren van het toegangsregister van zijn warmte- of koudenet;<br>
+9° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn warmte- of koudenet;<br>
+10° het aflezen van de meters en tellers op de toegangspunten op zijn warmte- of koudenet, de bepaling van de injectie en de afname van de warmte- of koudeproducenten en van de warmte- of koudeafnemers die aangesloten zijn op zijn warmte- of koudenet, en de verwerking en de bewaring van die gegevens;<br>
+11° het verstrekken van de nodige meetgegevens en andere gegevens aan de warmteproducenten, de warmte- of koudeleveranciers, de warmte- of koudeafnemers en de VREG;<br>
+12° het actief detecteren en vaststellen van alle vormen van energiefraude, en het nemen van maatregelen om energiefraude te vermijden.<br>
+<br>
+De Vlaamse Regering kan nadere regels uitvaardigen voor de taken, vermeld in het eerste lid. Die regels kunnen de taken van de warmte- of koudenetbeheerders verder preciseren en concretiseren.
+
 ## [Afdeling II. Aansluiting op een warmte- of koudenet (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.1.2.
+
+Iedere warmte- of koudenetbeheerder maakt de geldende tarieven en voorwaarden bekend voor de aansluiting op zijn warmte- of koudenet.
 
 ## [Afdeling III. Toegang tot een warmte- of koudenet (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.1.3.
+
+Als de warmte- of koudenetbeheerder niet optreedt als leverancier van thermische energie, maakt hij de geldende tarieven bekend en de voorwaarden waaronder de toegangshouder voor thermische energie toegang tot het warmte- of koudenet kan verkrijgen.
+
 ## [Afdeling IV. Openbaredienstverplichtingen, opgelegd aan de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.1.4.
+
+De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan warmte- of koudeafnemers en aanvragers van een aansluiting op hun warmte- of koudenet.<br>
+<br>
+Die openbaredienstverplichtingen kunnen onder meer betrekking hebben op:<br>
+1° de informatieverlening en het eventuele voorafgaande overleg bij een onderbreking van de toevoer van thermische energie voor de aanleg, het onderhoud en de herstelling van het net;<br>
+2° de karakteristieken van de geleverde thermische energie;<br>
+3° de termijnen waarin aanvragen voor nieuwe aansluitingen en aanpassingen van aansluitingen behandeld en uitgevoerd worden;<br>
+4° de termijnen waarin klachten en vragen van warmte- of koudeafnemers behandeld worden;<br>
+5° de facturatie aan warmte- of koudeafnemers;<br>
+6° de informatieverlening aan warmte- of koudeafnemers en aanvragers van een aansluiting op het warmte- of koudenet;<br>
+7° de behandeling van klachten van warmte- of koudeafnemers en aanvragers van een aansluiting op het warmte- of koudenet.
+
+### ART 4/1.1.5.
+
+De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplichtingen opleggen met betrekking tot hun dienstverlening aan de warmte- of koudeleveranciers die toegang hebben tot hun warmte- of koudenet, of aan de personen die de warmte- of koudeleveranciers aangesteld hebben.<br>
+<br>
+De openbaredienstverplichtingen kunnen onder meer betrekking hebben op de termijnen waarin de meetgegevens en de aansluitingsgegevens van de klanten van de warmte- of koudeleverancier door de warmte- of koudenetbeheerder worden bezorgd aan de warmte- of koudeleveranciers of aan de personen die de warmte- of koudeleveranciers aangesteld hebben.
+
+### ART 4/1.1.6.
+
+De Vlaamse Regering kan de netbeheerders extra openbaredienstverplichtingen opleggen, naast de openbaredienstverplichtingen van dit decreet, met betrekking tot:<br>
+1° hun investeringen in het warmte- of koudenet;<br>
+2° de procedure die de warmte- of koudenetbeheerders moeten volgen bij wanbetaling door de warmte- of koudeafnemer;<br>
+3° het nemen van maatregelen van sociale aard.<br>
+<br>
+De gemeenten en de Openbare Centra voor Maatschappelijk Welzijn verlenen hun medewerking aan de warmte- of koudenetbeheerders bij de uitvoering van de openbaredienstverplichtingen die hun opgelegd zijn volgens dit decreet of de uitvoeringsbepalingen ervan. De Vlaamse Regering bepaalt de vorm waarin die medewerking zal bestaan.
 
 ## [Afdeling V. Prerogatieven van de warmte- of koudenetbeheerders (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
 ## [Onderafdeling I. Erfdienstbaarheden ten voordele van de netbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.1.7.
+
+§ 1. De warmte- of koudenetbeheerders hebben als erfdienstbaarheid het recht:<br>
+1° boomtakken af te hakken die te dicht bij de bovengrondse leidingen van een warmte- of koudenet komen en die schade aan de leiding kunnen veroorzaken;<br>
+2° wortels in te korten die te dicht bij ondergrondse leidingen van een warmte- of koudenet komen en die schade aan de leiding kunnen veroorzaken.<br>
+<br>
+§ 2. In afwijking van paragraaf 1, 1° en 2°, kan de warmte- of koudenetbeheerder ook overgaan tot het rooien van de aanwezige bomen en beplantingen als om veiligheidsredenen het recht, vermeld in paragraaf 1, 1° en 2°, niet volstaat.<br>
+<br>
+§ 3. De Vlaamse Regering kan voor elk geval afzonderlijk bepalen of het voor de warmte- of koudenetbeheerder van algemeen nut is om leidingen van een warmte- of koudenet aan te leggen boven of onder private onbebouwde gronden en welke voorwaarden daarbij gelden.<br>
+<br>
+De warmte- of koudenetbeheerder heeft in dat geval het recht de leidingen van een warmte- of koudenet aan te leggen boven of onder die gronden, voor het toezicht daarop te zorgen en de noodzakelijke onderhouds- en herstellingswerken uit te voeren.<br>
+<br>
+§ 4. De aangelegde leidingen en de bijbehorende uitrustingen blijven eigendom van de warmte- of koudenetbeheerder. Hij is ertoe gemachtigd alle nodige instandhoudingswerken daarvoor uit te voeren.<br>
+<br>
+§ 5. Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, wordt het recht wortels in te korten of boomtakken af te hakken, vermeld in paragraaf 1, 1° en 2°, en het recht om te rooien, vermeld in paragraaf 2, afhankelijk gesteld van de expliciete weigering van de eigenaar of, in voorkomend geval, van de domeinbeheerder, pachter, huurder of een andere houder van een zakelijk recht op het bewuste onroerend goed om zelf binnen een redelijke termijn te kappen, in te korten of te rooien, of van het feit dat hij gedurende een maand het verzoek van de warmte- of koudenetbeheerder zonder gevolg heeft gelaten. In die gevallen kan de warmte- of koudenetbeheerder overgaan tot inkorten, afhakken of rooien op kosten van de eigenaar. Als de warmte- of koudenetbeheerder overgaat tot afhakken, inkorten of rooien wegens hoogdringendheid, is dat voor rekening van de netbeheerder zelf.<br>
+<br>
+Behalve in hoogdringende gevallen waarbij de veiligheid imminent in het gedrang komt, mogen de werken, vermeld in paragraaf 1 tot en met 3, door de warmte- of koudenetbeheerder pas worden aangevangen na de rechtstreekse voorafgaande kennisgeving met een aangetekende brief aan de belanghebbende eigenaars, huurders, pachters, domeinbeheerder en iedere andere houder van een zakelijk recht op het bewuste onroerend goed. Die kennisgeving vindt minstens twee maanden voor de geplande start van de werken plaats.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de te volgen procedure bij de uitvoering van die rechten.
+
+### ART 4/1.1.8.
+
+§ 1. Als de aanwezige bomen en beplantingen gerooid worden, als vermeld in artikel 4/1.1.7, § 2, is de warmte- of koudenetbeheerder een eenmalige vergoeding verschuldigd aan de eigenaar als vergoeding voor de gerooide bomen en beplantingen en voor de eventuele minwaarde van het onroerend goed.<br>
+<br>
+§ 2. De Vlaamse Regering kan nadere regels vastleggen voor de procedure om de hoogte van de vergoeding te bepalen.<br>
+<br>
+§ 3. Als partijen niet tot een minnelijke overeenkomst komen, wordt het geschil voorgelegd aan de vrederechter.
+
+### ART 4/1.1.9.
+
+De uitoefening door de warmte- of koudenetbeheerder van het recht, vermeld in artikel 4/1.1.7, kan de eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed niet hinderen in zijn recht van omheinen, afbreken, verbouwen, herstellen of bouwen.<br>
+<br>
+Als de eigenaar, pachter, domeinbeheerder of houder van een zakelijk recht een dergelijk recht als vermeld in het eerste lid, wil uitoefenen, moet de warmte- of koudenetbeheerder de ondergrondse leidingen en de bovengrondse leidingen die geplaatst zijn op de onbebouwde grond, wegnemen, verplaatsen of aanpassen als ze de uitvoering van de rechten, vermeld in het eerste lid, hinderen. De eigenaar, pachter, domeinbeheerder of de houder van een zakelijk recht op het bewuste onroerend goed bezorgt de betrokken warmte- of koudenetbeheerder dat verzoek minstens zes maanden voor de geplande start van de werken.<br>
+<br>
+De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de warmte- of koudenetbeheerder in kwestie.<br>
+<br>
+De betrokken warmte- of koudenetbeheerder kan die kosten terugvorderen van respectievelijk de eigenaar, pachter, domeinbeheerder of van de houder van een zakelijk recht als die nog niet gestart is met de werken binnen een termijn van drie jaar na het verzoek tot wegneming, verplaatsing of aanpassing.
+
 ## [Onderafdeling II. Onteigeningen door de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.1.10.
+
+§ 1. Warmte- of koudenetbeheerders die daartoe gemachtigd zijn door de Vlaamse Regering, kunnen overeenkomstig de reglementering over de onteigening ten algemenen nutte in eigen naam en voor eigen rekening onroerende goederen onteigenen die voor de rechtstreekse verwezenlijking van hun doel nodig zijn, met uitzondering van het gewestelijk openbaar domein.<br>
+<br>
+De onteigeningen, vermeld in het eerste lid, zullen worden gevorderd met toepassing van de gemeenrechtelijke onteigeningsprocedure of van de rechtspleging in urgente omstandigheden.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kan de Vlaamse Regering aan de warmte- of koudenetbeheerder op het gewestelijk openbaar domein domeintoelatingen, vergunningen voor privatief gebruik of domeinconcessies verlenen via het gelasten van de door haar of bij decreet aangestelde domeinbeheerder.
+
+## [Onderafdeling III. Recht op toegang van de warmte- of koudenetbeheerder tot alle installaties waarvan hij het eigendoms- of gebruiksrecht heeft en die zich bevinden in de inrichting van de netgebruiker (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.1.11.
+
+De warmte- of koudenetbeheerder heeft recht op toegang tot de ruimtes waar de warmtewisselaar en de installatie voor de registratie van geleverde thermische energie zijn opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor werken aan de aansluiting, de plaatsing, de inschakeling, de controle of de meteropname van de warmtewisselaar en van de installatie voor de registratie van geleverde thermische energie.<br>
+<br>
+De netgebruiker verschaft de warmte- of koudenetbeheerder onmiddellijk toegang op eenvoudig mondeling verzoek na een behoorlijke legitimatie.
 
 ## [Onderafdeling IV. Gebruik van persoonlijke gegevens door de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.1.12.
+
+De warmte- of koudenetbeheerders kunnen voor de unieke identificatie van warmte- of koudenetgebruikers het ondernemingsnummer, het rijksregisternummer of het vreemdelingennummer opvragen en gebruiken.
+
 ## [Afdeling VI. Gebruik van het openbaar domein (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)][of de gemeentewegen (ing. Decr. 18 maart 2022, art. 18, I: 9 april 2022)] [door de warmte- of koudenetbeheerder (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.1.13.
+
+§ 1. De warmte- of koudenetbeheerder heeft het recht het openbaar domein te gebruiken voor de aanleg en het onderhoud van leidingen boven of onder het openbaar domein en de bijbehorende uitrustingen als hij over een voorafgaande domeintoelating van de domeinbeheerder beschikt. Daarbij gelden de voorwaarden die de domeinbeheerder nuttig acht bij de verlening van de domeintoelating.<br>
+<br>
+§ 2. In afwijking van de procedure, vermeld in paragraaf 1, wordt, als voor de geplande werkzaamheden, vermeld in paragraaf 1, zowel een domeintoelating als een stedenbouwkundige vergunning nodig is, de aanvraag van een domeintoelating samengevoegd met de aanvraag van een stedenbouwkundige vergunning. Beide aanvragen worden samen ingediend bij het vergunningverlenende bestuursorgaan.<br>
+<br>
+Het vergunningverlenende bestuursorgaan verzoekt binnen tien dagen na de ontvangst van de aanvraag elke domeinbeheerder op het openbaar domein van wie het geplande traject loopt of de werkzaamheden gepland zijn, om een domeintoelating als vermeld in paragraaf 1, te verlenen of af te wijzen. De domeinbeheerders op wie het verzoek betrekking heeft, brengen het vergunningverlenende bestuursorgaan op de hoogte van hun beslissing en ze houden daarbij rekening met de volgende regelingen:<br>
+1° als de vergunningsaanvraag onderworpen is aan een openbaar onderzoek als vermeld in de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wordt het vergunningverlenende bestuursorgaan op de hoogte gebracht van de beslissing binnen een termijn van dertig dagen, die ingaat op de dag nadat het openbaar onderzoek is afgesloten;<br>
+2° in alle andere gevallen wordt het vergunningverlenende bestuursorgaan op de hoogte gebracht van de beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het verzoek. Die termijn kan door de domeinbeheerder eenmalig gemotiveerd worden verlengd met vijftien dagen.<br>
+<br>
+Als de domeinbeheerder binnen de termijn, vermeld in het tweede lid, geen beslissing neemt, wordt de aanvraag van de domeintoelating geacht te zijn toegestaan.<br>
+<br>
+Het vergunningverlenende bestuursorgaan brengt de aanvrager op de hoogte van de beslissingen over het verlenen van de domeintoelatingen en de stedenbouwkundige vergunning met een aangetekende brief of met een andere beveiligde zending als vermeld in artikel 1.1.2, 3°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere regels bepalen voor de na te leven voorwaarden, de dossiersamenstelling en de te volgen procedure.
+
+### ART 4/1.1.14.
+
+De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden van de domeintoelating toevoegen of aanpassen of de warmte- of koudenetbeheerder verplichten de ondergrondse of bovengrondse leidingen en de steunen die geplaatst zijn op het openbaar domein, weg te nemen, te verplaatsen of aan te passen. De betrokken warmte- of koudenetbeheerder geeft daar uitvoering aan binnen een redelijke termijn na de ontvangst van het verzoek daarom.<br>
+<br>
+De kosten voor het wegnemen, verplaatsen of aanpassen zijn ten laste van de betrokken warmte- of koudenetbeheerder.
 
 ## [HOOFDSTUK II. Technische voorschriften voor het beheer van warmte- of koudenetten (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
 ## [Afdeling I. Technische reglementen (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.2.1.
+
+§ 1. De VREG kan, na voorafgaand stakeholdersoverleg, een ontwerp van technisch reglement opstellen voor het beheer van warmte- of koudenetten. Dat ontwerp van reglement wordt ter consultatie aan de marktpartijen voorgelegd.<br>
+<br>
+§ 2. Het technisch reglement, vermeld in paragraaf 1, kan voor het beheer van, de toegang tot en de aansluiting op het net onder meer de volgende bepalingen bevatten:<br>
+1° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het beheer van het warmte- of koudenet, vermeld in artikel 4/1.1.1;<br>
+2° de verplichtingen die opgelegd zijn aan warmte- of koudeproducenten, warmte- of koudeleveranciers, warmte- of koudeafnemers, aanvragers van toegang tot het warmte- of koudenet en aanvragers van een aansluiting op het warmte- of koudenet, om de warmte- of koudenetbeheerder in staat te stellen zijn warmte- of koudenet zo kwaliteitsvol mogelijk te beheren, inclusief de vereisten die opgelegd zijn aan iedere warmte- of koudeleverancier in het Vlaamse Gewest;<br>
+3° de regels voor de uitwisseling van gegevens tussen de warmte- of koudebeheerders, de warmte- of koudeproducenten, de warmte- of koudeleveranciers, en de warmte- of koudeafnemers;<br>
+4° de regels die opgelegd zijn aan warmte- of koudeleveranciers en warmte- of koudenetbeheerders bij klantenwissels, verhuizing, bewoning naar een nieuwe of verzegelde woning, verzegeling, afsluiting, de beëindiging van een leveringscontract, de opname en rechtzetting van meterstanden en de allocatie en reconciliatie, inclusief de financiële verrekeningen;<br>
+5° de eventuele technische uitvoeringsregels bij openbaredienstverplichtingen die opgelegd zijn aan warmte- of koudeleveranciers of warmte- of koudenetbeheerders op grond van dit decreet;<br>
+6° de informatieverplichtingen of de voorafgaande goedkeuring door de VREG van de operationele regels, de algemene voorwaarden, de typeovereenkomsten, de formulieren en de procedures die gebruikt worden door de warmte- of koudenetbeheerder ten aanzien van warmte- of koudeleveranciers en warmte- of koudeafnemers;<br>
+7° de prioriteit die in voorkomend geval moet worden gegeven aan kwalitatieve warmte-krachtinstallaties en aan productie-installaties van groene warmte;<br>
+8° de verplichting voor de warmte- of koudenetbeheerders om informatie te verstrekken aan de VREG over de beoordeling die ze uitvoeren van het potentieel voor energie-efficiëntie van hun netinfrastructuur, in het bijzonder wat betreft vervoer van thermische energie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren.<br>
+<br>
+§ 3. Het technisch reglement, vermeld in paragraaf 1, is onderworpen aan de goedkeuring van de Vlaamse Regering. In voorkomend geval wordt de beslissing tot niet-goedkeuring onverwijld meegedeeld aan de VREG, die, rekening houdend met de opmerkingen van de Vlaamse Regering, de gevraagde aanpassingen verricht. Daarna wordt het technisch reglement opnieuw ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+<br>
+De technische reglementen treden pas in werking na de bekendmaking ervan in het Belgisch Staatsblad.
+
 ## [Afdeling II. Verwarming en koeling of warmwatervoorziening van een gebouw door een warmte- of koudenet of door een centrale bron die verschillende gebouwen of verschillende verbruikers binnen één gebouw bedient (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.2.2.
+
+§ 1. Als de verwarming, de koeling of de warmwatervoorziening van een gebouw geleverd wordt door een warmte- of koudenet of door een centrale bron die verschillende gebouwen bedient, wordt een warmtemeter of een warmwatermeter geïnstalleerd bij de warmtewisselaar of het leveringspunt. De Vlaamse Regering kan de voorwaarden en de nadere regels bepalen voor de verwarming, de koeling of de warmwatervoorziening van een gebouw door een warmte- of koudenet of door een centrale bron die verschillende gebouwen bedient.<br>
+<br>
+§ 2. De Vlaamse Regering kan de voorwaarden bepalen waaraan de koude- of warmtenetbeheerder of de beheerder van een centrale bron, die verschillende gebouwen of verschillende verbruikers binnen één gebouw bedient, moet voldoen om een dergelijk warmte- of koudenet of een bron te mogen uitbaten.<br>
+<br>
+§ 3. De warmte- of koudenetbeheerder of de beheerder van een centrale bron die verschillende gebouwen of verschillende verbruikers binnen één gebouw bedient, zorgt ervoor dat in appartementsgebouwen en multifunctionele gebouwen met een centrale verwarmings- of koelingsbron of met levering vanuit zijn warmte- of koudenet of zijn centrale bron individuele verbruiksmeters geïnstalleerd worden om het warmte- of koelingsverbruik of het warmwaterverbruik voor iedere eenheid te meten.<br>
+<br>
+De Vlaamse Regering kan uitzonderingen bepalen voor de gevallen waarin het technisch niet haalbaar of niet kostenefficiënt is om een dergelijke meter te installeren. De Vlaamse Regering bepaalt aan welke voorwaarden de meters moeten voldoen. De partijen die via dit decreet en de uitvoeringsbesluiten ervan toegang krijgen tot de gegevens van de meters, zorgen ervoor dat de dataveiligheid op elk moment gegarandeerd wordt en dat voldaan wordt aan de de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
+<br>
+De Vlaamse Regering kan nadere regels bepalen voor de transparante en accurate berekening van het individuele verbruik en voor de verdeling van de kosten van het thermische of warmwaterverbruik voor:<br>
+1° warm water voor huishoudelijk gebruik;<br>
+2° warmte uit de installatie van het gebouw voor de verwarming van de gemeenschappelijke ruimten;<br>
+3° de verwarming van de appartementen.
 
 ## [HOOFDSTUK III. De levering van thermische energie via een warmte- of koudenet (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
 ## [Afdeling I. De levering van thermische energie via een warmte- of koudenet (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
 
+### ART 4/1.3.1.
+
+De leverancier van thermische energie via een warmte- of koudenet voert onder meer de volgende taken uit:<br>
+1° de levering van thermische energie;<br>
+2° de facturatie voor de levering van thermische energie en voor het gebruik van het warmte- of koudenet;<br>
+3° het garanderen van het evenwicht tussen de injectie van thermische energie door de warmteproducenten met wie hij een overeenkomst heeft gesloten, en de warmte- of koudeafname van zijn afnemers van thermische energie;<br>
+3° informatieverlening;<br>
+4° de behandeling van de klachten van zijn klanten;<br>
+5° het nemen van maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.<br>
+<br>
+De Vlaamse Regering kan nadere regels uitvaardigen voor de taken, vermeld in het eerste lid. In die regels kunnen de taken van de leveranciers van thermische energie verder worden gepreciseerd en geconcretiseerd.
+
 ## [Afdeling II. Openbaredienstverplichtingen, opgelegd aan de warmte- of koudeleveranciers (ing. decr. 10 maart 2017, art. 14, I: 1 april 2019)]
+
+### ART 4/1.3.2.
+
+De Vlaamse Regering kan iedere leverancier die thermische energie levert aan warmte- of koudeafnemers in het Vlaamse Gewest via een warmte- of koudenet, openbaredienstverplichtingen opleggen voor:<br>
+1° de facturatie van het verbruik van thermische energie;<br>
+2° informatieverlening;<br>
+3° de behandeling van klachten van zijn klanten;<br>
+4° het nemen van maatregelen van sociale aard, zoals beschermingsmaatregelen bij wanbetaling en opzegging van het leveringscontract.
 
 ## [TITEL V. HET VOORKOMEN, DETECTEREN EN VASTSTELLEN VAN ENERGIEFRAUDE (ing. decr. 24 februari 2017, art. 8, I: 22 maart 2017)]
 
@@ -1267,29 +1487,35 @@ De distributienetbeheerders stellen jaarlijks een rapport op over het afgelopen 
 
 Onverminderd de bepalingen van artikel 6.1.2 kan de netbeheerder de toevoer van elektriciteit of aardgas afsluiten met het oog op een regularisatie van het net, de aansluiting of van de meetinstallatie door de netgebruiker als er energiefraude door de netgebruiker als vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g), wordt vastgesteld, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald.<br>
 <br>
-De kosten die de netbeheerder heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g), ongedaan te maken, de kosten van de afsluiting, bedoeld in voorgaand lid, de regularisatie van de aansluiting of van de meetinstallatie, de heraansluiting, de kosten voor het onrechtmatig verkregen voordeel en de interesten zijn ten laste van de betreffende netgebruiker.<br>
+Met behoud van de toepassing van de bepalingen van artikel 6.2.2 kan de warmte- of koudenetbeheerder de toevoer van thermische energie afsluiten met het oog op een regularisatie van de aansluiting of van de meetinstallatie door de warmte- of koudenetgebruiker als er energiefraude door de warmte- of koudenetgebruiker als vermeld in artikel 1.1.3, 40° /1, a), b), c) en d), wordt vastgesteld.<br>
+<br>
+De kosten die de netbeheerder en de warmte- of koudenetbeheerders heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g), ongedaan te maken, de kosten van de afsluiting, bedoeld in voorgaand lid, de regularisatie van de aansluiting of van de meetinstallatie, de heraansluiting, de kosten voor het onrechtmatig verkregen voordeel en de interesten zijn ten laste van de betreffende netgebruiker, warmte- of koudenetgebruiker.<br>
 <br>
 De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
 
 ### ART 5.1.3.
 
-Onverminderd de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, onderneemt de netbeheerder of beheerder van het transmissienet met toepassing van dit hoofdstuk voor de uitbetaling van groenestroomcertificaten, warmtekrachtkoppelingscertificaten, vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet de volgende handelingen:<br>
+§ 1. Onverminderd de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, onderneemt de netbeheerder of beheerder van het transmissienet met toepassing van dit hoofdstuk voor de uitbetaling van groenestroomcertificaten, warmtekrachtkoppelingscertificaten, vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet de volgende handelingen:<br>
 1° als een vermoeden bestaat dat er energiefraude als vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet wordt gepleegd, wordt de uitbetaling tijdelijk opgeschort totdat vastgesteld is of er al dan niet energiefraude is gepleegd;<br>
 2° als vaststaat dat er energiefraude als vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, wordt gepleegd of is gepleegd, wordt de uitbetaling definitief stopgezet en wordt de steun teruggevorderd die onterecht is uitgekeerd.<br>
 <br>
 De kosten die de netbeheerder of beheerder van het transmissienet heeft gemaakt om de energiefraude, vermeld in artikel 1.1.3, 40° /1, e) of f), van dit decreet, ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering en de intresten zijn ten laste van de betreffende netgebruiker. De netbeheerder of zijn gemandateerde zal deze kosten rechtstreeks invorderen bij de netgebruiker.<br>
 <br>
-De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.
+De Vlaamse Regering kan, na advies van de VREG, richtlijnen uitvaardigen voor de wijze waarop de hoeveelheid onrechtmatig verkregen voordeel kan worden berekend.<br>
+<br>
+§ 2. Met behoud van de toepassing van de bepalingen van de wet van 7 juni 1994 tot wijziging van het koninklijk besluit van 31 mei 1933 betreffende de verklaring te doen in verband met subsidies, vergoedingen en toelagen van elke aard, die geheel of gedeeltelijk ten laste van de Staat zijn, kan de warmte- of koudenetbeheerder de uitbetaling van vergoedingen en premies die zijn ingesteld ter uitvoering van titel VII en VIII van dit decreet, opschorten, stopzetten of terugvorderen als er energiefraude als vermeld in artikel 1.1.3, 40° /1, f), wordt vastgesteld.<br>
+<br>
+De kosten die de warmte- of koudenetbeheerder heeft verricht om de energiefraude, vermeld in artikel 1.1.3, 40° /1, f), ongedaan te maken, en de kosten van de opschorting, stopzetting of terugvordering en de interesten zijn ten laste van de betreffende warmte- of koudenetgebruiker. De warmte- of koudenetbeheerder of zijn gemandateerde zal deze kosten rechtstreeks invorderen bij de warmte- of koudenetgebruiker.
 
 ### ART 5.1.4.
 
-De netbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
+De netbeheerders en de warmte- of koudenetbeheerders mogen de gegevens waarover ze voor de uitoefening van hun taken, vermeld in artikel 4.1.6 of artikel 4/1.1.1, beschikken, of de gegevens die voor hen hiertoe toegankelijk zijn of worden gemaakt door het Vlaams Energieagentschap, de VREG, de toegangshouders en leveranciers of gegevens uit het Rijksregister, de Kruispuntbank Sociale Zekerheid of de Kruispuntbank voor de Ondernemingen, gebruiken om energiefraude te detecteren en vast te stellen via technieken als datamining of profilering.<br>
 <br>
-De netbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
+De netbeheerders en de warmte- of koudenetbeheerders die gebruikmaken van technieken als datamining of profilering om energiefraude te detecteren en vast te stellen hanteren proportionele en relevante criteria, die periodiek kunnen variëren, en die ervoor zorgen dat de te verwerken persoonsgegevens zo beperkt mogelijk maar tegelijk relevant zijn om fraudetypologieën te detecteren. De Vlaamse Regering kan nadere regels uitvaardigen met betrekking tot de te hanteren criteria.<br>
 <br>
-Elke partij die data aanlevert hiervoor blijft verantwoordelijk voor de waarachtigheid en nauwkeurigheid van de betreffende data. De netbeheerders zijn verantwoordelijk voor de waarachtigheid en nauwkeurigheid van het gebruik van de gegevens voor het detecteren en vaststellen van energiefraude. Zij stellen hierover een intern rapport op, volgen de risico's van de techniek van datamining continu op, waken over hun zorgvuldigheidsplicht om kwaliteitsvolle analyses van persoonsgegevens te verrichten, evalueren continu de gebruikte dataminingmethode en passen ze indien nodig aan.<br>
+Elke partij die data aanlevert hiervoor blijft verantwoordelijk voor de waarachtigheid en nauwkeurigheid van de betreffende data. De netbeheerders en de warmte- of koudenetbeheerders zijn verantwoordelijk voor de waarachtigheid en nauwkeurigheid van het gebruik van de gegevens voor het detecteren en vaststellen van energiefraude. Zij stellen hierover een intern rapport op, volgen de risico's van de techniek van datamining continu op, waken over hun zorgvuldigheidsplicht om kwaliteitsvolle analyses van persoonsgegevens te verrichten, evalueren continu de gebruikte dataminingmethode en passen ze indien nodig aan.<br>
 <br>
-De Vlaamse Regering vaardigt nadere regels uit met betrekking tot het gebruik van de gegevens die voortkomen uit technieken als datamining of profilering, om de transparantie ten aanzien van de natuurlijke personen van wie persoonsgegevens worden verwerkt te garanderen en misbruik van deze gegevens zoveel mogelijk te voorkomen. Minstens bevatten deze regels richtlijnen op vlak van de verantwoordelijkheid van de verschillende leveranciers van data en van de netbeheerders inzake dataverwerking, op vlak van de aard van deze verwerking, de categorieën verwerkte gegevens en de bewaring van de gegevens.
+De Vlaamse Regering vaardigt nadere regels uit met betrekking tot het gebruik van de gegevens die voortkomen uit technieken als datamining of profilering, om de transparantie ten aanzien van de natuurlijke personen van wie persoonsgegevens worden verwerkt te garanderen en misbruik van deze gegevens zoveel mogelijk te voorkomen. Minstens bevatten deze regels richtlijnen op vlak van de verantwoordelijkheid van de verschillende leveranciers van data en van de netbeheerders en de warmte- of koudenetbeheerders inzake dataverwerking, op vlak van de aard van deze verwerking, de categorieën verwerkte gegevens en de bewaring van de gegevens.
 
 ## TITEL VI. SOCIALE ENERGIEMAATREGELEN VOOR HUISHOUDELIJKE AFNEMERS
 
@@ -1332,6 +1558,43 @@ In afwijking van de vorige leden vallen de kosten die verbonden zijn aan de hera
 Alle kosten die verbonden zijn aan het opzeggen van het leveringscontract van een wanbetaler door een leverancier, vallen ten laste van de leverancier.
 
 ## [HOOFDSTUK II. Sociale energiemaatregelen voor huishoudelijke afnemers van thermische energie (ing. decr. 10 maart 2017, art. 19, I: 1 april 2019)]
+
+### ART 6.2.1.
+
+Behalve in de gevallen, vermeld in artikel 6.2.2, heeft iedere huishoudelijke afnemer van thermische energie via een warmte- of koudenet recht op een ononderbroken toevoer van thermische energie.<br>
+<br>
+De kosten voor de levering van thermische energie zijn altijd ten laste van de huishoudelijke afnemer van thermische energie.
+
+### ART 6.2.2.
+
+§ 1. De warmte- of koudenetbeheerder kan de toevoer van thermische energie alleen in de volgende gevallen afsluiten:<br>
+1° bij een onmiddellijke bedreiging van de veiligheid, zolang die toestand duurt;<br>
+2° bij een leegstaande woning, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+3° bij fraude van de huishoudelijke afnemer van thermische energie, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+4° als de huishoudelijke afnemer van thermische energie geen wanbetaler is en weigert om een leveringscontract te sluiten, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+5° als de huishoudelijke afnemer van thermische energie weigert om aan de warmte- of koudenetbeheerder toegang te verlenen tot de ruimte waarin de warmtewisselaar en de installatie voor de registratie van geleverde thermische energie zijn opgesteld, waarover hij het eigendoms- of gebruiksrecht heeft, voor de plaatsing, de inschakeling, de controle of de meteropname van de warmtewisselaar en de installatie voor de registratie van geleverde thermische energie;<br>
+6° als de huishoudelijke afnemer van thermische energie weigert om een afbetalingsplan te sluiten of als hij het gesloten afbetalingsplan niet naleeft, onder de voorwaarden die door de Vlaamse Regering worden bepaald, en na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
+7° als het leveringscontract van de huishoudelijke afnemer van thermische energie is opgezegd om een andere reden dan wanbetaling en als de huishoudelijke afnemer van thermische energie binnen een periode die door de Vlaamse Regering wordt vastgelegd, geen leveringscontract heeft gesloten, tenzij de betreffende afnemer van thermische energie kan aantonen dat hij geen leveringscontract heeft kunnen sluiten.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, 5°, 6° en 7°, is de afsluiting pas mogelijk na een advies van de lokale adviescommissie.<br>
+<br>
+In de gevallen, vermeld in het eerste lid, 5°, 6° en 7°, kan de Vlaamse Regering de afsluiting van de toevoer van thermische energie in bepaalde periodes beperken of verbieden.<br>
+<br>
+De warmte- of koudenetbeheerder kan alleen in het voordeel van de huishoudelijke afnemer van thermische energie afwijken van het advies van de lokale adviescommissie.<br>
+<br>
+§ 2. In het geval, vermeld in paragraaf 1, eerste lid, 1°, zijn alle kosten die verbonden zijn aan de afsluiting of heraansluiting van de huishoudelijke afnemer van thermische energie, ten laste van de warmte- of koudenetbeheerder, tenzij de warmte- of koudenetbeheerder kan aantonen dat de oorzaak van de onveiligheid toegeschreven kan worden aan de huishoudelijke afnemer van thermische energie of aan de eigenaar van de woning.<br>
+<br>
+In de gevallen, vermeld in paragraaf 1, eerste lid, 2°, zijn alle kosten die verbonden zijn aan de afsluiting en de heraansluiting van de woning, ten laste van de eigenaar van de woning.<br>
+<br>
+In de gevallen, vermeld in paragraaf 1, eerste lid, 3°, 4°, 5°, 6° en 7°, zijn alle kosten die verbonden zijn aan de afsluiting en de heraansluiting van de huishoudelijke afnemer van thermische energie, ten laste van die huishoudelijke afnemer.<br>
+<br>
+In afwijking van de vorige leden zijn de kosten die verbonden zijn aan de heraansluiting, altijd ten laste van de warmte- of koudenetbeheerder als blijkt dat de huishoudelijke afnemer van thermische energie ten onrechte is afgesloten.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de voorwaarden voor een heraansluiting en de termijnen waarin de heraansluiting van de toevoer van thermische energie wordt uitgevoerd.
+
+### ART 6.2.3.
+
+Alle kosten die verbonden zijn aan de opzegging van het leveringscontract van een wanbetaler door een warmte- of koudeleverancier, zijn ten laste van de warmte- of koudeleverancier.
 
 ## TITEL VII. MILIEUVRIENDELIJKE ENERGIEPRODUCTIE EN RATIONEEL ENERGIEGEBRUIK
 
@@ -1804,6 +2067,10 @@ De Vlaamse Regering kan, na advies van de VREG, de netbeheerders openbaredienstv
 <br>
 In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaatschappij echter in het kader van de uitvoering van de hun op grond van dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die daarvoor door de Vlaamse Regering zijn aangewezen.
 
+### ART 7.5.2.
+
+De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplichtingen opleggen voor programma's ter bevordering van rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen voor rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmte-krachtinstallaties of installaties voor de productie van groene warmte.
+
 ## HOOFDSTUK VI. Verplichtingen van de brandstofleveranciers ter stimulering van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen
 
 ### ART. 7.6.1.
@@ -1824,20 +2091,11 @@ In afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn werkmaa
 
 § 1. De Vlaamse Regering kan aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen verplichtingen opleggen om hen aan te zetten hun energiegebruik te rationaliseren en gebruik te maken van hernieuwbare energietechnologieën.<br /><br />§ 2. De verplichtingen, vermeld in § 1, omvatten :<br />1° het opzetten van een energieboekhouding;<br />2° het uitvoeren van rendabele investeringen, die al dan niet ter kennis worden gebracht door een energieplan of een energiestudie;<br />3° het periodiek dan wel eenmalig laten opmaken van een energieplan en/of een energiestudie door een energiedeskundige.<br /><br />De Vlaamse Regering kan voor een of meer van de voorgaande verplichtingen vrijstelling verlenen en/of de periodiciteit bepalen.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de rendabele investeringen. De Vlaamse Regering evalueert om de vier jaar en voor het eerst in 2012 de definitie van rendabele investeringen, zoals bepaald in artikel 1.1.3, 111°. De Vlaamse Regering wordt gemachtigd om na evaluatie een nieuwe interne rentevoet na belastingen vast te leggen.<br /><br />§ 4. De Vlaamse Regering kan een instantie aanduiden die de energieplannen en de energiestudies conform moet verklaren.<br /><br />§ 5. De energiedeskundige stelt de energieplannen en de energiestudies ter beschikking van de bedrijfsleiding en, in voorkomend geval, ten behoeve van de ondernemingsraad en het comité voor veiligheid, gezondheid en verfraaiing van de werkplaatsen of bij ontstentenis van die organen, de vakbondsafvaardiging.<br /><br />§ 6. De Vlaamse Regering bepaalt de concrete opmaak, de inhoud en, in voorkomend geval, de conformverklaring van de energieplannen en energiestudies.<br /><br />§ 7. Ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst met de Vlaamse Regering sluiten, moeten minstens voldoen aan de verplichtingen, vermeld in § 1, die gelden op het moment van het sluiten van de energiebeleidsovereenkomst.<br /><br />Als de Vlaamse Regering op basis van § 1 verplichtingen oplegt, zijn die verplichtingen voor ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten, niet strenger dan de overeenkomstige bepalingen, opgenomen in de energiebeleidsovereenkomst en van die aard dat ze niet voor extra lasten zorgen ten opzichte van de overeenkomstige bepalingen in de energiebeleidsovereenkomst, behalve om te voldoen aan internationale of Europese verplichtingen, steeds rekening houdend met het engagement van het Vlaamse Gewest in de energiebeleidsovereenkomsten. In die gevallen pleegt de Vlaamse Regering vooraf overleg met de andere partijen van de energiebeleidsovereenkomst.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de te volgen overlegprocedure.<br /><br />§ 8. In afwijking van de vorige paragraaf kan de Vlaamse Regering verplichtingen, als vermeld in § 1, opleggen aan ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die de bepalingen van de gesloten energiebeleidsovereenkomst niet naleven.<br /><br />§ 9. De Vlaamse Regering kan de tegemoetkomingen, vermeld in titel VIII van dit decreet beperken tot de ondernemingen, niet-commerciële instellingen en publiekrechtelijke rechtspersonen die een energiebeleidsovereenkomst hebben gesloten.
 
+## [HOOFDSTUK VIII. ... (opgeh. decr. 10 maart 2017, art. 23, I: te bepalen door de Vlaamse Regering)]
+
 ### ART. 7.8.1.
 
-§ 1. Ingeval de verwarming, de koeling of de warmwatervoorziening van een gebouw geleverd wordt door een stadsverwarmingsnet of door een centrale bron die verschillende gebouwen bedient, wordt een warmtemeter of een warmwatermeter geïnstalleerd bij de warmtewisselaar of het leveringspunt. De Vlaamse Regering kan voorwaarden en nadere regels bepalen aangaande de verwarming, de koeling of de warmwatervoorziening van een gebouw door een stadsverwarmingsnet of door een centrale bron die verschillende gebouwen bedient.<br>
-<br>
-§ 2. De Vlaamse Regering kan de voorwaarden bepalen waaraan de beheerder van een stadsverwarmingsnet of centrale bron moet voldoen om een dergelijk net of bron te mogen uitbaten.<br>
-<br>
-§ 3. De beheerder van een stadsverwarmingsnet of van een centrale bron die verschillende gebouwen of verbruikers bedient, zorgt er voor dat tegen uiterlijk 31 december 2016 in appartementengebouwen en multifunctionele gebouwen met een centrale verwarmings/koelingsbron of met levering vanuit diens stadsverwarmingsnet of diens centrale bron, individuele verbruiksmeters geïnstalleerd worden om het warmte- of koelingsverbruik of warmwaterverbruik voor iedere eenheid te meten.<br>
-<br>
-De Vlaamse Regering kan uitzonderingen bepalen voor die gevallen waar het niet technisch haalbaar of niet kostenefficiënt is om een dergelijke meter te installeren. De Vlaamse Regering bepaalt aan welke voorwaarden deze meters moeten voldoen. De partijen die via dit decreet en zijn uitvoeringsbesluiten toegang krijgen tot de gegevens uit deze meters zorgen ervoor dat te allen tijde de dataveiligheid gegarandeerd wordt en voldaan wordt aan de de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
-<br>
-De Vlaamse Regering kan nadere regels bepalen betreffende de transparante en accurate berekening van het individuele verbruik en voor de verdeling van de kosten van het thermische of warmwaterverbruik voor:<br>
-1° warm water voor huishoudelijk gebruik;<br>
-2° warmte uit de installatie van het gebouw voor de verwarming van de gemeenschappelijke ruimten;<br>
-3° voor het verwarmen van appartementen.
+...
 
 ## [HOOFDSTUK IX. De openbare centra voor maatschappelijk welzijn als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen (ing. decr. 26 april 2019, art. 3, I: 26 mei 2019)]
 
@@ -2271,7 +2529,11 @@ De energiebalans bevat de volgende gegevens :<br />1° globaal :<br />a) het pri
 
 ### ART. 12.2.1.
 
-De Vlaamse Regering kan verplichtingen opleggen aan elke beheerder van een distributienet, transmissienet, aardgasdistributienet en vervoersnet, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het Vlaams Energieagentschap accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br />1° de afname en het verbruik van energie door objectief omschreven categorieën van afnemers en het verbruiksprofiel van die afnemers;<br />2° de kenmerken van energie-opwekkingsinstallaties en de hoeveelheid verwerkte en opgewekte energie in die installaties.<br /><br />De Vlaamse Regering bepaalt de categorie-indeling, de rapporteringstermijn en -wijze van de gegevens.
+De Vlaamse Regering kan verplichtingen opleggen aan elke&nbsp;beheerder van een warmte- of koudenet, beheerder van een distributienet, transmissienet, aardgasdistributienet en vervoersnet, elke energieleverancier en elke exploitant van een energie-opwekkingsinstallatie, om het Vlaams Energieagentschap accurate, volledige en consistente mededeling te doen van noodzakelijke gegevens voor het opmaken van het energierapport en voor de onderbouwing van het Vlaamse beleid inzake rationeel energiegebruik, hernieuwbare energiebronnen en klimaatverandering en voor het sociale energiebeleid. De Vlaamse Regering legt de eisen vast inzake accuraatheid, volledigheid en consistentie. De te verstrekken gegevens hebben minstens betrekking op :<br>
+1° de afname en het verbruik van energie door objectief omschreven categorieën van afnemers van elektriciteit, aardgas, thermische energie en andere energiebronnen en het verbruiksprofiel van die afnemers;<br>
+2° de kenmerken van energie-opwekkingsinstallaties en de hoeveelheid verwerkte en opgewekte energie in die installaties.<br>
+<br>
+De Vlaamse Regering bepaalt de categorie-indeling, de rapporteringstermijn en -wijze van de gegevens.
 
 ### ART. 12.2.2.
 
@@ -2333,15 +2595,15 @@ Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, v
 
 ### ART. 13.1.2.
 
-§ 1. De VREG kan aan een marktpartij&nbsp; of de ondernemingen waarin de netbeheerders of de werkmaatschappij rechtstreeks of onrechtstreeks participeren,of de aangestelden, bestuurders, managers en personeelsleden van die marktpartij de gegevens en inlichtingen vragen die nodig zijn voor de uitvoering van haar taken en bevoegdheden, vermeld in de artikelen 3.1.3 en 3.1.4.<br>
+§ 1. De VREG kan aan een marktpartij, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier, of aan hun aangestelden, bestuurders, managers en personeelsleden de gegevens en inlichtingen vragen die nodig zijn voor de uitvoering van zijn taken en bevoegdheden, vermeld in artikel 3.1.3 en 3.1.4.<br>
 <br>
-§ 2. De personeelsleden van de VREG zijn bevoegd om toezicht uit te oefenen op de naleving van titels IV,&nbsp;VI en hoofdstuk II tot en met IV van titel VII van dit decreet en de uitvoeringsbepalingen ervan en de niet-naleving hiervan vast te stellen in een proces-verbaal.<br>
+§ 2. De personeelsleden van de VREG zijn bevoegd om toezicht uit te oefenen op de naleving van titels IV, IV/1, V, VI en hoofdstuk II tot en met IV van titel VII van dit decreet en de uitvoeringsbepalingen ervan en de niet-naleving hiervan vast te stellen in een proces-verbaal.<br>
 <br>
-Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de VREG bij iedere marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of rechtstreeks of onrechtstreeks participeren, de aangestelden, bestuurders, managers en personeelsleden van die marktpartij, ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
-1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner&nbsp;of een daartoe gemachtigd persoon gekregen;<br>
+Bij het uitvoeren van hun toezichttaak kunnen de genoemde personeelsleden van de VREG bij iedere marktpartij&nbsp;&nbsp;warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier ter plaatse inzage vorderen en een kosteloze kopie maken en meenemen van alle daarvoor noodzakelijke zakelijke documenten en andere zakelijke informatiedragers. Zij kunnen zich daarbij laten bijstaan door personen die zij daartoe hebben aangewezen op grond van hun deskundigheid. Om alle nodige vaststellingen te verrichten, hebben de genoemde personeelsleden toegang tot de terreinen en de gebouwen. Tot gebouwen hebben ze echter alleen toegang als ze aan een van de volgende voorwaarden voldoen :<br>
+1° ze hebben de voorafgaande en schriftelijke toestemming van de bewoner of een daartoe gemachtigd persoon gekregen;<br>
 2° ze werden ertoe voorafgaandelijk en schriftelijk gemachtigd door de politierechter.<br>
 <br>
-§ 3. De marktpartij&nbsp;of de ondernemingen waarin de netbeheerders of rechtstreeks of onrechtstreeks participeren, de aangestelden, bestuurders, managers en personeelsleden van die marktpartij, aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken op grond van § 1, of toegang te verlenen aan de personeelsleden van de VREG op grond van § 2, is verplicht om binnen de door de VREG gestelde termijn alle medewerking te verlenen.<br>
+§ 3. De marktpartij, warmte- of koudeneteigenaar, warmte- of koudenetbeheerder, warmteproducent die geen zelfopwekker is, of warmte- of koudeleverancier&nbsp;aan wie een vraag is gericht om gegevens en inlichtingen te verstrekken op grond van § 1, of toegang te verlenen aan de personeelsleden van de VREG op grond van § 2, is verplicht om binnen de door de VREG gestelde termijn alle medewerking te verlenen.<br>
 <br>
 Gegevens of inlichtingen die in het kader van § 1 en § 2 worden verkregen, gebruikt de VREG alleen voor de uitoefening van haar taken en bevoegdheden, vermeld in de artikelen 3.1.3 en 3.1.4.
 
@@ -2419,7 +2681,7 @@ Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen 3.1.12 , 4
 
 ### ART. 13.3.1.
 
-§ 1. Tenzij dit decreet in een specifieke procedure voorziet, kan de VREG elke natuurlijke persoon of rechtspersoon schriftelijk in gebreke stellen bij niet-naleving van de bepalingen van titels IV, V, VI, hoofdstuk I tot en met IV van titel VII en artikel 13.1.2, van dit decreet en de bijbehorende uitvoeringsbesluiten, met inbegrip van de technische reglementen.<br>
+§ 1. Tenzij dit decreet in een specifieke procedure voorziet, kan de VREG elke natuurlijke persoon of rechtspersoon schriftelijk in gebreke stellen bij niet-naleving van de bepalingen van&nbsp;titel IV, IV/1, V, VI hoofdstuk I tot en met IV van titel VII en artikel 13.1.2, van dit decreet en de bijbehorende uitvoeringsbesluiten, met inbegrip van de technische reglementen en het technisch reglement warmte- of koudenetten.<br>
 <br>
 § 2. De VREG kan de persoon die in gebreke werd gesteld overeenkomstig § 1 en werd gehoord of daartoe naar behoren werd opgeroepen, een van de administratieve geldboetes, vermeld in artikel 13.3.2. tot en met 13.3.4, opleggen. De VREG zorgt ervoor dat er in deze gevallen geen kennelijke wanverhouding bestaat tussen de feiten die aan de administratieve boete ten grondslag ligt en de administratieve boete die op grond van die feiten wordt opgelegd.<br>
 <br>
@@ -2455,11 +2717,15 @@ Tenzij dit decreet in een specifieke administratieve sanctie voorziet, kan de VR
 
 ### ART. 13.3.3.
 
-De VREG legt de netbeheerder voor een overtreding van de openbare dienstverplichtingen, opgelegd op basis van artikelen 4.1.22, 2° tot en met 4°, en 4.3.2, 4°, een administratieve geldboete op die niet minder dan 1.000 euro bedraagt en niet meer bedraagt dan 1 % van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
+De VREG legt de netbeheerder of de warmte- of koudenetbeheerder voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.1.22, 2° tot en met 4°, en artikel 4/1.1.6, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
 
 ### ART. 13.3.4.
 
-De VREG legt de netbeheerder bij het niet-naleven van de termijnen voor het heraansluiten van de elektriciteits- of aardgastoevoer en het herinschakelen van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1.000 euro per kalenderdag die de termijn, vermeld in artikel 6.1.2, § 3, overschrijdt, tenzij de netbeheerder kan aantonen dat de oorzaak van het overschrijden van de termijn niet aan hem te wijten is.
+De VREG legt de netbeheerder of de warmte- of koudenetbeheerder bij het niet-naleven van de termijnen voor de heraansluiting van de elektriciteits- of aardgastoevoer, voor de toevoer van thermische energie en voor de herinschakeling van de stroombegrenzer in de budgetmeter een administratieve geldboete op van 1000 euro per kalenderdag die de termijn, vermeld in artikel 6.1.2, § 3, of artikel 6.2.2, § 3, overschrijdt, tenzij de netbeheerder of de koude- of warmtenetbeheerder kan aantonen dat de oorzaak van de overschrijding van de termijn niet aan hem te wijten is.
+
+### ART 13.3.4/1.
+
+De VREG legt de leverancier of de warmte- of koudeleverancier voor een overtreding van de openbaredienstverplichtingen, opgelegd op basis van artikel 4.3.2, 4°, of artikel 4/1.3.2, 4°, een administratieve geldboete op die niet minder bedraagt dan 1000 euro en niet meer dan 1% van de omzet die de betrokken overtreder heeft gerealiseerd op de Vlaamse energiemarkt tijdens het afgelopen jaar.
 
 ## Afdeling IV. Procedure en administratieve geldboete bij niet-naleving van de bepalingen inzake groenestroomcertificaten, warmtekrachtcertificaten en groenewarmtecertificaten
 
