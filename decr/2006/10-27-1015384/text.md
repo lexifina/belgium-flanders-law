@@ -74,7 +74,13 @@ c) het uitvoeren van een eindevaluatieonderzoek;<br>
 29° code van goede praktijk : door de OVAM aanvaarde en voor het publiek toegankelijke geschreven regels met betrekking tot de activiteiten en maatregelen vermeld in dit decreet;<br>
 30° bodemsaneringsdeskundige : onafhankelijke deskundige erkend met toepassing van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.<br>
 31° ...;<br>
-32° vermengde bodemverontreiniging: de bodemverontreiniging waarvoor verschillende personen als saneringsplichtige werden aangewezen, en waarbij niet exact kan worden bepaald voor welk deel van de bodemverontreiniging elke plichtige saneringsplichtig is, of waarbij dat wel kan worden bepaald, maar het niet mogelijk is om door het gebruik van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, voor elk deel van de bodemverontreiniging een afzonderlijk beschrijvend bodemonderzoek of een afzonderlijke bodemsanering uit te voeren.
+32° vermengde bodemverontreiniging: de bodemverontreiniging waarvoor verschillende personen als saneringsplichtige werden aangewezen, en waarbij niet exact kan worden bepaald voor welk deel van de bodemverontreiniging elke plichtige saneringsplichtig is, of waarbij dat wel kan worden bepaald, maar het niet mogelijk is om door het gebruik van de beste beschikbare technieken die geen overmatig hoge kosten met zich meebrengen, voor elk deel van de bodemverontreiniging een afzonderlijk beschrijvend bodemonderzoek of een afzonderlijke bodemsanering uit te voeren;<br>
+33° bodemmaterialen: uitgegraven bodem, baggerspecie, ruimingsspecie, grondbrij en bentonietslib;<br>
+34° uitgegraven bodem: bodemmateriaal dat afkomstig is van de uitgraving van de bodem;<br>
+35° baggerspecie: bodemmateriaal dat afkomstig is van het verdiepen, verbreden of onderhouden van bevaarbare waterlopen die behoren tot het openbare hydrografische net, of van de aanleg van nieuwe waterinfrastructuur, met inbegrip van kanalen, havens en dokken;<br>
+36° ruimingsspecie: bodemmateriaal dat afkomstig is van het verdiepen, verbreden of onderhouden van oppervlaktewateren als vermeld in het decreet van 18 juli 2003 betreffende het integraal waterbeleid en geen baggerspecie is;<br>
+37° grondbrij: bodemmateriaal dat afkomstig is van het triëren en het wassen van gewassen uit de volle grond;<br>
+38° bentonietslib: mengsel van uitgegraven bodem en bentoniet dat afkomstig is van toepassingen bij grond- en putboringen en grondwerken.
 
 ## HOOFDSTUK II Doelstellingen
 
@@ -86,7 +92,15 @@ c) het uitvoeren van een eindevaluatieonderzoek;<br>
 
 ### ART. 4.
 
-§ 1. Behoudens andersluidende bepaling gaan de termijnen, vermeld in dit decreet, in :<br />1° in geval van kennisgeving bij een ter post aangetekende brief met ontvangstbewijs, op de eerste dag die volgt op de dag waarop de brief aangeboden werd op de woonplaats, dan wel op de maatschappelijke of administratieve zetel van de geadresseerde;<br />2° in geval van kennisgeving bij aangetekende brief of bij gewone brief, op de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd werd, tenzij de geadresseerde het tegendeel bewijst;<br />3° in geval van afgifte tegen ontvangstbewijs, op de dag na de datum van het ontvangstbewijs.<br /><br />De termijnen verstrijken om middernacht van de laatste dag. Als de laatste dag een zaterdag, zondag of wettelijke feestdag is, verloopt de termijn de eerstvolgende werkdag.<br /><br />§ 2. De Vlaamse Regering kan bepalen dat een kennisgeving ook op elektronische wijze kan gebeuren. Zij bepaalt in dat geval de nadere modaliteiten.<br /><br />
+§ 1. Behoudens andersluidende bepaling gaan de termijnen, vermeld in dit decreet, in :<br>
+1° in geval van kennisgeving bij een ter post aangetekende brief met ontvangstbewijs, op de eerste dag die volgt op de dag waarop de brief aangeboden werd op de woonplaats, dan wel op de maatschappelijke of administratieve zetel van de geadresseerde;<br>
+2° in geval van kennisgeving bij aangetekende brief of bij gewone brief, op de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd werd, tenzij de geadresseerde het tegendeel bewijst;<br>
+3° in geval van afgifte tegen ontvangstbewijs, op de dag na de datum van het ontvangstbewijs.<br>
+<br>
+De termijnen verstrijken om middernacht van de laatste dag. Als de laatste dag een zaterdag, zondag of wettelijke feestdag is, verloopt de termijn de eerstvolgende werkdag.<br>
+<br>
+§ 2. De kennisgevingen, meldingen, verzendingen en procedures in het kader van dit decreet en zijn uitvoeringsbesluiten, bepaald door de Vlaamse Regering, kunnen digitaal gebeuren of verlopen conform de regels die de Vlaamse Regering vaststelt.<br>
+&nbsp;
 
 ## TITEL III Bodemsanering
 
@@ -1203,23 +1217,37 @@ De bepalingen van hoofdstuk V en hoofdstuk VI zijn van overeenkomstige   toepass
 
 ### ART. 136.
 
-De bepalingen van dit hoofdstuk regelen het gebruik van uitgegraven bodem. De bepalingen van dit hoofdstuk gelden ook voor gereinigde uitgegraven bodem en uitgegraven bodem waarop een fysische scheiding wordt toegepast.<br /><br />
+De bepalingen van dit hoofdstuk regelen het gebruik en de traceerbaarheid van bodemmaterialen, gereinigde bodemmaterialen en bodemmaterialen waarop een fysische scheiding wordt toegepast.
 
 ### ART. 137.
 
-De bepalingen van dit hoofdstuk zijn niet van toepassing op het gebruik van primaire oppervlaktedelfstoffen, als vermeld in het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen, op delfstoffen die in grindwinningsgebieden volgens het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grindwinning ontgonnen worden en op ingevoerde minerale delfstoffen die als geologische afzetting in hun natuurlijke staat ontgonnen worden.<br /><br />
+De bepalingen van dit hoofdstuk zijn niet van toepassing op:<br>
+1° primaire oppervlaktedelfstoffen als vermeld in het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen;<br>
+2° delfstoffen die in grindwinningsgebieden volgens het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grondwinning ontgonnen worden;<br>
+3° ingevoerde minerale delfstoffen die als geologische afzetting in hun natuurlijke staat ontgonnen worden;<br>
+4° bagger- en ruimingsspecie die wordt teruggestort in de waterloop waaruit ze afkomstig is als vermeld in rubriek 2.3.7, b), van de indelingslijst, vermeld in artikel 5.5.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.
 
 ## Afdeling II Algemene bepalingen
 
 ### ART. 138.
 
-§ 1. Om de verspreiding van bodemverontreiniging te beheersen en het   duurzame gebruik van uitgegraven bodem te bevorderen stelt de Vlaamse Regering   nadere regelen vast betreffende de voorwaarden voor het gebruik van uitgegraven   bodem, de procedure voor het traceren van uitgegraven bodem en de taken die een   bodembeheerorganisatie, tussentijdse opslagplaats en grondreinigingscentrum als   vermeld in artikel 139 hierbij vervult.<BR><BR>§ 2. De Vlaamse Regering kan het   gebruik van uitgegraven bodem afhankelijk maken van het opstellen van een   technisch verslag. De Vlaamse Regering stelt nadere regelen vast met betrekking   tot de inhoud van het technisch verslag.<BR><BR>Een technisch verslag wordt   opgesteld onder leiding van een bodemsaneringsdeskundige conform de   standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de   OVAM. Bij ontstentenis van dergelijke standaardprocedure wordt het technisch   verslag opgesteld volgens een code van goede praktijk.<BR><BR>
+§ 1. Om de verspreiding van bodemverontreiniging te beheersen en het duurzame gebruik van bodemmaterialen te bevorderen stelt de Vlaamse Regering nadere regelen vast betreffende de voorwaarden voor het gebruik van bodemmaterialen, de procedure voor het traceren van bodemmaterialen en de taken die een bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum en inrichting voor de opslag en behandeling van bagger- en ruimingsspecie als vermeld in artikel 139 hierbij vervult.<br>
+<br>
+§ 2. De Vlaamse Regering kan het gebruik van bodemmaterialen afhankelijk maken van het opstellen van een technisch verslag. De Vlaamse Regering stelt nadere regelen vast met betrekking tot de inhoud van het technisch verslag.<br>
+<br>
+Een technisch verslag wordt opgesteld onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij ontstentenis van dergelijke standaardprocedure wordt het technisch verslag opgesteld volgens een code van goede praktijk.<br>
+&nbsp;
 
 ## [Afdeling III. - Erkenning als bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum of inrichting voor de opslag en behandeling van bagger- en ruimingsspecie (verv. decr. 8 december 2017, art. 49, I: 1 april 2019)]
 
 ### ART. 139.
 
-§ 1. De Vlaamse Regering is bevoegd om een rechtspersoon te erkennen als bodembeheerorganisatie, tussentijdse opslagplaats of grondreinigingscentrum voor het uitvoeren van de taken, vastgesteld door de Vlaamse Regering krachtens de bepalingen van artikel 138, § 1.<br /><br />§ 2. De Vlaamse Regering bepaalt de voorwaarden en de procedure tot erkenning, schorsing en opheffing van de erkenning als bodembeheerorganisatie, tussentijdse opslagplaats of grondreinigingscentrum, evenals de voorwaarden voor het gebruik van de erkenning.<br /><br />§ 3. De Vlaamse Regering kan bepalen in welke gevallen de OVAM de taken van een erkende bodembeheerorganisatie kan overnemen. De Vlaamse Regering kan ook nadere regelen vaststellen betreffende de procedure en de voorwaarden tot overname van de taken door de OVAM.<br /><br />
+§ 1. De Vlaamse Regering is bevoegd om een rechtspersoon te erkennen als bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum of inrichting voor de opslag en behandeling van bagger- en ruimingsspecie voor het uitvoeren van de taken met betrekking tot de procedure voor het traceren van bodemmaterialen, vastgesteld door de Vlaamse Regering krachtens de bepalingen van artikel 138, § 1.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de voorwaarden en de procedure tot erkenning, schorsing en opheffing van de erkenning als bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum of inrichting voor de opslag en behandeling van bagger- en ruimingsspecie, evenals de voorwaarden voor het gebruik van de erkenning.<br>
+<br>
+§ 3. De Vlaamse Regering kan bepalen in welke gevallen de OVAM de taken van een erkende bodembeheerorganisatie kan overnemen. De Vlaamse Regering kan ook nadere regelen vaststellen betreffende de procedure en de voorwaarden tot overname van de taken door de OVAM.<br>
+&nbsp;
 
 ## HOOFDSTUK XIV Sites
 
