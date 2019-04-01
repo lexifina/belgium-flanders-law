@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031617,
+  "title": "Ministerieel besluit van 2019-04-01 tot wijziging van artikel 1 van het ministerieel besluit van 12 januari 2015 tot aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031617/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "22374e85237dc22ce2dac5a487dac9075fea93bd39b503b0e531e55953ef449e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031617&param=informatie",
+  "as_of": "2019-04-01",
+  "made": "2019-04-01",
+  "gazette": "2019-04-25",
+  "numac": 2019030354,
+  "document_start": "2019-04-01",
+  "document_end": null,
+  "in_force": "2019-04-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
