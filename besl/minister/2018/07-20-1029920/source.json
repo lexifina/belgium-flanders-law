@@ -2,16 +2,16 @@
   "codex_id": 1029920,
   "title": "Ministerieel besluit van 2018-07-20 tot vaststelling van de code van goede praktijk voor de uitvoering van en rapportering over archeologisch vooronderzoek en archeologische opgravingen en het gebruik van metaaldetectoren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029920/VolledigDocument?datum=2018-10-01",
-  "source_sha256": "16bff1a10e1971b0db14ad2b994f52848ea17f34731ce63e1662b7e3ea0deb35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029920/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "e8a2f044a7319aab8f3e9f0370e7bc9eee3a7ab9ab8c368a79c915677a207670",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029920&param=informatie",
-  "as_of": "2018-10-01",
+  "as_of": "2019-04-01",
   "made": "2018-07-20",
   "gazette": "2018-11-26",
   "numac": 2018014734,
   "document_start": "2018-10-01",
   "document_end": "2019-03-31",
-  "in_force": "2018-10-01",
+  "in_force": "2019-04-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2018-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
 }
