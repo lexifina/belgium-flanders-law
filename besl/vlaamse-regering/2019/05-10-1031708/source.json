@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031708,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-10 tot wijziging van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013, wat betreft de aanvraag tot bindende schatting van onroerende goederen in een nalatenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031708/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "80a818ad574d9108658997ace8f3fd190a52e4efba9cc710000f8d449e5838b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031708&param=informatie",
+  "as_of": "2019-04-01",
+  "made": "2019-05-10",
+  "gazette": "2019-05-20",
+  "numac": 2019015227,
+  "document_start": "2019-04-01",
+  "document_end": null,
+  "in_force": "2019-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
