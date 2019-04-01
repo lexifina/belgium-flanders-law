@@ -1845,6 +1845,11 @@ In artikel 4, § 4, eerste lid, van het Mestdecreet van 22 december 2006, ingevo
 
 ## Onderafdeling 7 Wijzigingen van het Energiedecreet van 8 mei 2009
 
+### ART 180.
+
+In artikel 4/1.2.2, § 3, tweede lid, van het Energiedecreet van 8 mei 2009, ingevoegd bij het decreet van 10 maart 2017, wordt het woord "privacywetgeving" vervangen door de woorden "de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens".<br>
+&nbsp;
+
 ### ART 181.
 
 &nbsp;In artikel 7.8.1, § 3, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 14 maart 2014, wordt het woord "privacywetgeving" vervangen door de woorden "regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens".
