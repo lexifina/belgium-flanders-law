@@ -90,6 +90,10 @@ Het bedrag, vermeld in het eerste lid wordt geïndexeerd conform artikel 14, § 
 
 ## HOOFDSTUK 2. Wijzigingen van bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg
 
+### ART 6.
+
+In bijlage II bij het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 13 mei 2016, wordt de zin "De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 30 % voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 67 % voor de uren gezinszorg die verleend worden op zon- en feestdagen." vervangen door de zin "De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 30% voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 100% voor de uren gezinszorg die verleend worden op zon- en feestdagen.".
+
 ## HOOFDSTUK 3. Slotbepalingen
 
 ### ART 7.
