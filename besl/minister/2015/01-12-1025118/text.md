@@ -61,7 +61,12 @@
 52° Gertjan Droeshout;<br>
 53° Hilke Elsen;<br>
 54° Claire De Winter;<br>
-56° Koen Baert;</p>
+56° Koen Baert;<br>
+57° Jos Vanheer;<br>
+58° Gert Vanhengel;<br>
+59° Rita Snijders;<br>
+60° Henri Roseleth;<br>
+61° Ward Schoenmaekers.</p>
 
 ### ART. 2.
 
