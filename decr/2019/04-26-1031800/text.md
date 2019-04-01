@@ -42,6 +42,18 @@
 
 ## HOOFDSTUK 21. Wijzigingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning
 
+### ART 145.
+
+&nbsp;In artikel 101, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij de decreten van 8 december 2017 en 13 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "artikel 5.4.8" wordt vervangen door de zinsnede "artikel 5.4.9";<br>
+2° de zinsnede "artikel 5.4.16" wordt vervangen door de zinsnede "artikel 5.4.17".
+
+### ART 146.
+
+In artikel 103, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 18 december 2015 en gewijzigd bij het decreet van 13 juli 2018, worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede "artikel 5.4.8" wordt vervangen door de zinsnede "artikel 5.4.9";<br>
+2° de zinsnede "artikel 5.4.16" wordt vervangen door de zinsnede "artikel 5.4.17".
+
 ## HOOFDSTUK 22. Wijziging van het decreet van 9 mei 2014 tot wijziging van de regelgeving inzake natuur en bos
 
 ## HOOFDSTUK 23. Wijziging van het decreet van 13 juli 2018 houdende de wijziging van het Onroerenderfgoeddecreet van 12 juli 2013 naar aanleiding van de ex-postevaluatie
