@@ -2,16 +2,16 @@
   "codex_id": 1016797,
   "title": "Ministerieel besluit van 2008-05-09 houdende vaststelling van de lijst van bouwkundig bodemgebruik van uitgegraven bodem en van de lijst van vormvaste toepassingen van uitgegraven bodem",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016797/VolledigDocument?datum=2008-06-01",
-  "source_sha256": "2ba2cc86f0c8e50ae3278d1cb61ae74ce6a41f5f6f0dc0cd7d0fa10274d7c088",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016797/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "2f363af02553acd38d04cd276c23cd37f64995e34a60dbe79a6376de5be38557",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016797&param=informatie",
-  "as_of": "2008-06-01",
+  "as_of": "2019-04-01",
   "made": "2008-05-09",
   "gazette": "2008-05-29",
   "numac": 2008201758,
   "document_start": "2008-06-01",
   "document_end": "2019-03-31",
-  "in_force": "2008-06-01",
+  "in_force": "2019-04-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2008-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
 }
