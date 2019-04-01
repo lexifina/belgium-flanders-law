@@ -45,6 +45,8 @@ a) beheersmaatregelen, werkzaamheden of diensten aan:<br>
 13) cultuurgoederen;<br>
 b) beveiligingswerken tegen diefstal, brand en blikseminslag van beschermde monumenten en de cultuurgoederen die er integrerend deel van uitmaken;<br>
 12° kostenraming: een lijst met posten van de beoogde maatregelen, werkzaamheden en diensten, met aanduiding van de benodigde hoeveelheden en hun vermoedelijke kostprijs, al dan niet gebaseerd op de goedgekeurde lijst met forfaitaire werkzaamheden;<br>
+12° /1 kleinschalige onderneming: een onderneming waar minder dan tien personen werken, uitgezonderd seizoensarbeiders en piekarbeiders, en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
+12° /2 kleinschalige vereniging: een vereniging waar minder dan tien personen werken en waarvan de omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie wordt aangevraagd, niet meer dan vijf miljoen euro bedraagt;<br>
 13° lokale beleidscyclus: de beleidscyclus van zes jaar die gekoppeld is aan de lokale bestuursperiode en die begint in het tweede jaar dat volgt op de lokale verkiezingen en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
 14° meerwerken: de bijkomende werkzaamheden, beheersmaatregelen of diensten die de vermoedelijke hoeveelheden die in de aanvaarde kostenraming worden vermeld, overschrijden;<br>
 15° minister: de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
@@ -61,8 +63,8 @@ d) omvat, in het geval van open erfgoed, indicatoren die specifiek inspelen op d
 20° open erfgoed: een beschermd goed of een erfgoedlandschap, dat geheel of gedeeltelijk opengesteld wordt en als zodanig is erkend door het agentschap;<br>
 21° post: een gedetailleerde omschrijving per onderdeel van de te leveren goederen, diensten en te verrichten werkzaamheden;<br>
 22° premienemer: elkeen die opdrachtgever is van de beheersmaatregelen, werkzaamheden, diensten, voorafgaande onderzoeken of de opmaak van het beheersplan en die de kosten ervan draagt;<br>
-22° /1 premie voor buitensporige opgravingskosten: de premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de bekrachtigde archeologienota of de bekrachtigde nota ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
-23° ...;<br>
+22° /1 premie voor buitensporige opgravingskosten: een premie ter financiering van de buitensporige directe kosten van de verplichte en al uitgevoerde archeologische opgraving, zoals opgenomen in de archeologienota of de nota waarvan akte is genomen ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+23° premie voor archeologisch vooronderzoek met ingreep in de bodem: een premie ter financiering van verplicht uitgevoerd archeologisch vooronderzoek met ingreep in de bodem bij vergunningsplichtige ingrepen in de bodem zoals opgenomen in de toelating of in de archeologienota waarvan akte is genomen ter uitvoering van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
 24° regulier onderhoud: de preventieve en periodieke onderhoudswerken, gericht op het duurzaam in goede staat houden van een goed, die geen vervanging of wijziging van materiaal en uitvoeringstechniek impliceren en die geen negatieve impact op de erfgoedwaarde en geen impact op de bodem hebben;<br>
 24° /1 terrein beheerd ten behoeve van het natuurbehoud: een terrein dat beheerd wordt conform de bepalingen van hoofdstuk IIIbis van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 25° toekenning: de officiële kennisgeving aan de premienemer van het ministerieel besluit waarbij het bedrag van de erfgoedpremie, aangevraagd volgens de bijzondere procedure, wordt vastgesteld;<br>
@@ -435,15 +437,72 @@ Als een erkend onroerenderfgoeddepot ophoudt te bestaan of als een erkend onroer
 
 ### ART. 3.5.1.
 
-<P>Een aanvraag tot aanduiding als erkende archeoloog is ontvankelijk als de   aanvrager een overzicht indient van alle verslagen die hij moet indienen   overeenkomstig artikel 14, § 1, 4°, van het besluit van de Vlaamse Regering van   20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de   bescherming van het archeologisch patrimonium nadat aan hem een vergunning is   verleend als vermeld in artikel 6 van het decreet van 30 juni 1993 houdende   bescherming van het archeologisch patrimonium. In het overzicht motiveert de   aanvrager, in voorkomend geval, waarom hij bepaalde verslagen nog niet heeft   ingediend.</P>
+Archeologen kunnen aangeduid worden als:<br>
+1° een erkende archeoloog type 1: een natuurlijk persoon of rechtspersoon die voldoet aan de voorwaarden, vermeld in artikel 3.5.2 en artikel 3.5.3 en die bevoegd is voor het uitvoeren van archeologisch vooronderzoek of archeologische opgravingen;<br>
+2° een erkende archeoloog type 2: een natuurlijk persoon of rechtspersoon die voldoet aan de voorwaarden, vermeld in artikel 3.5.2/1 en artikel 3.5.3/1 en die bevoegd is voor het uitvoeren van archeologisch vooronderzoek zonder ingreep in de bodem.
+
+### ART 3.5.1/1.
+
+Een aanvraag tot aanduiding als erkende archeoloog is ontvankelijk als de aanvrager een overzicht indient van alle verslagen die hij moet indienen overeenkomstig artikel 14, § 1, 4°, van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium, nadat aan hem een vergunning is verleend als vermeld in artikel 6 van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium. In het overzicht motiveert de aanvrager, in voorkomend geval, waarom hij bepaalde verslagen nog niet heeft ingediend.
 
 ### ART. 3.5.2.
 
-<P>Om aangeduid te worden als erkende archeoloog moet een natuurlijk persoon een   aanvraag tot aanduiding indienen bij het agentschap en daarbij aantonen dat hij   minstens voldoet aan de volgende erkenningsvoorwaarden:<BR>1° houder zijn van   een van de volgende diploma's en dat staven door een duidelijke kopie ervan in   te dienen of houder zijn van gelijkwaardige getuigschriften door een   EVC-procedure waarbij een daarvoor bevoegde instelling de verworven competenties   van een individu formeel heeft bevestigd:<BR>a) licentiaat of master in de   Geschiedenis met specialisatie "in de Oudste tijden";<BR>b) licentiaat of master   in de "Kunstgeschiedenis en Oudheidkunde" met specialisatie in de   archeologie;<BR>c) licentiaat of master in de "Kunstwetenschappen en   Archeologie" met specialisatie in de archeologie;<BR>d) licentiaat of master in   de Archeologie;<BR>e) een diploma of getuigschrift dat bij of krachtens een wet,   decreet, Europese verordening of richtlijn of internationale overeenkomst als   gelijkwaardig met een van de diploma's vermeld in punt a) tot en met d) is   erkend en dat staven door een gelijkwaardigheidserkenning van een buitenlands   diploma of getuigschrift in Vlaanderen;<BR>2° een opleiding hebben genoten over   opgravingstechnieken en -methoden;<BR>3° beschikken over een archeologische   opgravingservaring van minimaal een jaar gedurende de vijf jaar die voorafgaan   aan de datum van de aanvraag tot aanduiding;<BR>4° beschikken over de geschikte   infrastructuur en faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op   te slaan;<BR>5° de laatste vijf jaar niet bij definitieve gerechtelijke of   bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk   of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van   monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende   bescherming van het archeologisch patrimonium,<BR>het decreet van 16 april 1996   betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit   besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan   de hand van een uittreksel uit het strafregister als vermeld in artikel 595 van   het Wetboek van Strafvordering en een verklaring op erewoord;<BR>6° niet in   staat van faillissement verkeren of een gerechtelijk akkoord verkregen hebben,   dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke   procedure die geldt in het land waar hij gevestigd is;<BR>7° niet geschorst zijn   of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een   erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli   2013, dit besluit of de code van goede praktijk.<BR></P>  <P>Een archeoloog in dienst van een gemeente, op datum van inwerkingtreding van   dit besluit, wordt, onverminderd de bepalingen uit artikel 3.5.8 tot en met   3.5.14, van rechtswege aangeduid als een erkend archeoloog op voorwaarde dat het   college van burgemeester en schepenen van de betrokken gemeente bevestigt dat de   archeoloog voldoet aan alle voorwaarden, vermeld in het eerste lid. De   bevestiging van het college van burgemeester en schepenen wordt bezorgd aan het   agentschap. De aanduiding als een erkend archeoloog geldt zolang de archeoloog   in dienst blijft van de betrokken gemeente.<BR></P>
+Om aangeduid te worden als erkende archeoloog type 1 dient een natuurlijk persoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan al de volgende erkenningsvoorwaarden:<br>
+1° houder zijn van een van de volgende diploma's en dat staven door een duidelijke kopie ervan in te dienen of houder zijn van gelijkwaardige getuigschriften door een EVC-procedure waarbij een daarvoor bevoegde instelling de verworven competenties van een individu formeel heeft bevestigd:<br>
+a) licentiaat of master in de Geschiedenis met specialisatie "in de Oudste tijden";<br>
+b) licentiaat of master in de "Kunstgeschiedenis en Oudheidkunde" met specialisatie in de archeologie;<br>
+c) licentiaat of master in de "Kunstwetenschappen en Archeologie" met specialisatie in de archeologie;<br>
+d) licentiaat of master in de Archeologie;<br>
+e) een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of richtlijn of internationale overeenkomst is erkend als gelijkwaardig met een van de diploma's, vermeld in punt a) tot en met d), en dat staven door een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
+2° een opleiding hebben genoten over opgravingstechnieken en -methoden;<br>
+3° op het moment van de aanvraag beschikken over een archeologische opgravingservaring van minimaal een jaar gedurende de tien jaar die voorafgaan aan de datum van de aanvraag tot aanduiding;<br>
+4° beschikken over de geschikte infrastructuur en faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op te slaan;<br>
+5° de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister als vermeld in artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+6° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+7° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk;<br>
+8° de code van goede praktijk onderschrijven en een opleiding gevolgd hebben die daarover georganiseerd is door het agentschap.
+
+### ART 3.5.2/1.
+
+Om aangeduid te worden als erkende archeoloog type 2 dient een natuurlijk persoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan de volgende erkenningsvoorwaarden:<br>
+1° houder zijn van een van de volgende diploma's en dat staven door een duidelijke kopie ervan in te dienen of houder zijn van gelijkwaardige getuigschriften door een EVC-procedure waarbij een daarvoor bevoegde instelling de verworven competenties van een individu formeel heeft bevestigd:<br>
+a) licentiaat of master in de Geschiedenis met specialisatie "in de Oudste tijden";<br>
+b) licentiaat of master in de "Kunstgeschiedenis en Oudheidkunde" met specialisatie in de archeologie;<br>
+c) licentiaat of master in de "Kunstwetenschappen en Archeologie" met specialisatie in de archeologie;<br>
+d) licentiaat of master in de Archeologie;<br>
+e) een diploma of getuigschrift dat bij of krachtens een wet, decreet, Europese verordening of richtlijn of internationale overeenkomst is erkend als gelijkwaardig met een van de diploma's, vermeld in punt a) tot en met d), en dat staven door een gelijkwaardigheidserkenning van een buitenlands diploma of getuigschrift in Vlaanderen;<br>
+2° een opleiding hebben genoten over opgravingstechnieken en -methoden;<br>
+3° de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg en het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister als vermeld in artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+4° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+5° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk;<br>
+6° de code van goede praktijk onderschrijven en een opleiding gevolgd hebben die daarover georganiseerd is door het agentschap.
 
 ### ART. 3.5.3.
 
-<P>Om aangeduid te worden als erkende archeoloog moet een rechtspersoon een   aanvraag tot aanduiding indienen bij het agentschap en daarbij aantonen dat hij   minstens voldoet aan de volgende erkenningsvoorwaarden:<BR>1° opgericht zijn in   overeenstemming met de wetgeving van het land waarin hij gevestigd is;<BR>2° als   de persoon een handelaar is, ingeschreven zijn in het handels- of   beroepsregister van het land waar hij gevestigd is;<BR>3° het kwalitatieve   onderzoek van het archeologisch erfgoed en de rapportage daarover als een van   zijn doelstellingen hebben;<BR>4° minstens beschikken over één erkende   archeoloog die kan bewijzen dat hij voldoet aan de erkenningsvoorwaarden,   vermeld in artikel 3.5.2, 1° en 2° en die beschikt over een opgravingservaring   van minstens drie jaar gedurende de tien jaar die voorafgaan aan de datum van de   aanvraag tot aanduiding;<BR>5° beschikken over de geschikte infrastructuur en   faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op te slaan;<BR>6°   voor de bestuurders en de personen die de rechtspersoon kunnen verbinden: de   laatste vijf jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing   schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als   vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads-   en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het   archeologisch patrimonium, het decreet van 16 april 1996 betreffende de   landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of   erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand   van een uittreksel uit het strafregister overeenkomstig artikel 595 van het   Wetboek van Strafvordering en een verklaring op erewoord;<BR>7° niet in staat   van faillissement verkeren of een gerechtelijk akkoord verkregen hebben, dan wel   in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure   die geldt in het land waar hij gevestigd is;<BR>8° niet geschorst zijn of in het   laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning   wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit   besluit of de code van goede praktijk.<BR><BR>Universiteiten die de diploma's,   vermeld in artikel 3.5.2, 1°, uitreiken, worden van rechtswege aangeduid als een   erkend archeoloog voor het uitvoeren van archeologisch onderzoek met het oog op   wetenschappelijke vraagstellingen zoals vermeld in hoofdstuk 5, afdeling 5 van   het Onroerenderfgoeddecreet van 12 juli 2013. Deze van rechtswege aanduiding als   erkend archeoloog geldt niet voor archeologisch onderzoek bij   vergunningsplichtige ingrepen in de bodem zoals vermeld in hoofdstuk 5, afdeling   4 van het Onroerenderfgoeddecreet van 12 juli 2013.<BR></P>
+Om aangeduid te worden als erkende archeoloog type 1 dient een rechtspersoon een aanvraag in bij het agentschap. Hij toont daarbij aan dat hij voldoet aan de volgende erkenningsvoorwaarden:<br>
+1° opgericht zijn in overeenstemming met de wetgeving van het land waarin hij gevestigd is;<br>
+2° als de persoon een handelaar is, ingeschreven zijn in het handels- of beroepsregister van het land waar hij gevestigd is;<br>
+3° het kwalitatieve onderzoek van het archeologisch erfgoed en de rapportage daarover als een van zijn doelstellingen hebben;<br>
+4° minstens beschikken over één erkende archeoloog type 1, zoals vermeld in artikel 3.5.2 van dit besluit die kan bewijzen dat hij beschikt over een opgravingservaring van minstens drie jaar gedurende de tien jaar die voorafgaan aan de datum van de aanvraag tot aanduiding als erkende archeoloog;<br>
+5° beschikken over de geschikte infrastructuur en faciliteiten om vondsten tijdelijk te bewaren en tijdelijk op te slaan;<br>
+6° voor de bestuurders en de personen die de rechtspersoon kunnen verbinden: de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister overeenkomstig artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+7° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+8° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk.<br>
+<br>
+Universiteiten die de diploma's, vermeld in artikel 3.5.2, 1° van dit besluit, uitreiken, worden van rechtswege aangeduid als een erkende archeoloog type 1 voor het uitvoeren van archeologisch onderzoek met het oog op wetenschappelijke vraagstellingen zoals vermeld in hoofdstuk 5, afdeling 5 van het Onroerenderfgoeddecreet van 12 juli 2013 en van archeologisch onderzoek bij vergunningsplichtige ingrepen in de bodem aan of in beschermde archeologische sites, zoals vermeld in hoofdstuk 5, afdeling 4 van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Het agentschap is van rechtswege aangeduid als erkende archeoloog type 1.
+
+### ART 3.5.3/1.
+
+Om aangeduid te worden als erkende archeoloog type 2 dient een rechtspersoon een aanvraag tot aanduiding in bij het agentschap en toont daarbij aan dat hij minstens voldoet aan de volgende erkenningsvoorwaarden:<br>
+1° opgericht zijn in overeenstemming met de wetgeving van het land waarin hij gevestigd is;<br>
+2° als de persoon een handelaar is, ingeschreven zijn in het handels- of beroepsregister van het land waar hij gevestigd is;<br>
+3° het kwalitatieve onderzoek van het archeologisch erfgoed en de rapportage daarover als een van zijn doelstellingen hebben;<br>
+4° minstens beschikken over één erkende archeoloog, als vermeld in artikel 3.5.2 of 3.5.2/1 van dit besluit;<br>
+5° voor de bestuurders en de personen die de rechtspersoon kunnen verbinden: de laatste drie jaar niet bij definitieve gerechtelijke of bestuurlijke beslissing schuldig zijn bevonden aan een deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie, te staven aan de hand van een uittreksel uit het strafregister overeenkomstig artikel 595 van het Wetboek van Strafvordering en een verklaring op erewoord;<br>
+6° niet in staat van faillissement verkeren of een gerechtelijke reorganisatie verkregen hebben, dan wel in een soortgelijke toestand verkeren als gevolg van een soortgelijke procedure die geldt in het land waar hij gevestigd is;<br>
+7° niet geschorst zijn of in het laatste jaar het voorwerp hebben uitgemaakt van een intrekking van een erkenning wegens het niet naleven van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk.
 
 ### ART. 3.5.4.
 
@@ -451,7 +510,11 @@ Het agentschap stelt op zijn website een modelformulier ter beschikking waarmee 
 
 ### ART. 3.5.5.
 
-<P>Het agentschap bezorgt de aanvrager per beveiligde zending en binnen een   termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de   aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is   en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt   binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van   het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het   dossier al dan niet ontvankelijk wordt verklaard.<BR></P>  <P>Als de aanvrager na het verstrijken van de termijn, vermeld in het eerste   lid, geen ontvankelijkheidsbewijs of geen verzoek tot aanvulling van het dossier   heeft ontvangen, wordt de aanvraag volledig en dus ontvankelijk geacht te   zijn.<BR></P>  <P>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een   termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag,   over de aanvraag tot aanduiding als erkende archeoloog. Deze termijn kan met   dertig dagen worden verlengd als het agentschap het nodig acht het advies van de   Commissie in te winnen. Deze verlenging moet binnen de eerste termijn van zestig   dagen, per beveiligde zending aan de aanvrager worden gemeld.<BR></P>  <P>Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die   ingaat op de dag na de beslissing, mee aan de aanvrager per beveiligde zending.   Het agentschap bezorgt tegelijk met de beslissing tot aanduiding als erkende   archeoloog een legitimatiebewijs van erkende archeoloog. Als de aanvrager na het   verstrijken van deze termijn geen beslissing van het agentschap heeft ontvangen,   wordt de aanvraag tot aanduiding als erkende archeoloog geacht geweigerd te   zijn.<BR></P>
+<p>Het agentschap bezorgt de aanvrager schriftelijk en binnen een termijn van vijftien dagen, die ingaat op de dag na de ontvangst van de aanvraag, een ontvankelijkheidsbewijs of deelt mee dat de aanvraag onvolledig is en met welke stukken de aanvraag moet worden aangevuld. De aanvrager bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de&nbsp;kennisgeving van het verzoek tot aanvulling de aanvullende stukken aan het agentschap, waarna het dossier al dan niet ontvankelijk wordt verklaard.</p>
+
+<p>Het agentschap onderzoekt de ontvankelijke aanvraag en beslist binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van de aanvraag, over de aanvraag tot aanduiding als erkende archeoloog. Deze termijn kan met dertig dagen worden verlengd als het agentschap het nodig acht het advies van de Commissie in te winnen. Deze verlenging moet binnen de eerste termijn van zestig dagen, schriftelijk aan de aanvrager worden gemeld.</p>
+
+<p>Het agentschap deelt zijn beslissing binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, schriftelijk mee aan de aanvrager.&nbsp;Het agentschap bezorgt tegelijk met de beslissing tot aanduiding als erkende archeoloog een legitimatiebewijs van erkende archeoloog. Als de aanvrager na het verstrijken van deze termijn geen beslissing van het agentschap heeft ontvangen, wordt de aanvraag tot aanduiding als erkende archeoloog geacht geweigerd te zijn.</p>
 
 ### ART. 3.5.6.
 
@@ -459,23 +522,61 @@ De aanduiding als erkende archeoloog wordt bij uittreksel in het Belgisch   Staa
 
 ### ART. 3.5.7.
 
-Een aanduiding als erkende archeoloog is van onbepaalde duur en geldt   zolang aan de erkenningsvoorwaarden, vermeld in artikel 3.5.2 of 3.5.3 voldaan   wordt.<BR>
+Een aanduiding als erkende archeoloog type 1 en 2 is van onbepaalde duur en geldt zolang voldaan wordt aan de toepasselijke erkenningsvoorwaarden, vermeld in artikel 3.5.2, 3.5.2/1, 3.5.3 of 3.5.3/1 en aan de opvolgingsvoorwaarden, vermeld in artikel 3.5.7/1.
 
 ### ART. 3.5.7/1.
 
-In het kader van de opvolging van de aanduiding als erkende archeoloog   moet de erkende archeoloog:<BR>1° alle wijzigingen die betrekking hebben op de   erkenningsvoorwaarden, onverwijld met een beveiligde zending melden aan het   agentschap;<BR>2° bij de uitvoering van veldwerk altijd een kopie van zijn   legitimatiebewijs van erkende archeoloog kunnen voorleggen;<BR>3° archeologisch   onderzoek altijd uitvoeren overeenkomstig de bepalingen van het   Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de code van goede   praktijk;<BR>4° als het een natuurlijk persoon is, blijven beschikken over een   archeologische opgravingservaring van minimaal een jaar gedurende vijf   jaar;<BR>5° als het een rechtspersoon is, blijven beschikken over minstens één   erkende archeoloog die beschikt over een opgravingservaring van minstens drie   jaar gedurende tien jaar.
+&nbsp;In het kader van de opvolging van de aanduiding als erkende archeoloog moet de erkende archeoloog:<br>
+1° wijzigingen die betrekking hebben op de erkenningsvoorwaarden, onmiddellijk schriftelijk melden aan het agentschap;<br>
+2° bij de uitvoering van veldwerk een kopie van zijn legitimatiebewijs van erkende archeoloog kunnen voorleggen;<br>
+3° archeologisch onderzoek uitvoeren overeenkomstig de bepalingen van het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de code van goede praktijk;<br>
+4° minstens 1 maal per twee jaar een bijscholing gevolgd hebben over de code van goede praktijk, die georganiseerd wordt door het agentschap,;<br>
+5° bij zijn archeologisch onderzoek voldoende toezicht houden op de aspecten van het onderzoek die hij niet zelf uitvoert;<br>
+6° als het een natuurlijk persoon is die aangeduid is als erkende archeoloog type 1, blijven beschikken over een archeologische opgravingservaring van minimaal een jaar gedurende de afgelopen tien jaar;<br>
+7° als het een rechtspersoon is die aangeduid is als erkende archeoloog type 1, blijven beschikken over minstens één erkende archeoloog type 1 die beschikt over een opgravingservaring van minstens drie jaar gedurende de afgelopen tien jaar.
+
+### ART 3.5.7/2.
+
+Een erkende archeoloog type 1 kan het agentschap schriftelijk verzoeken om zijn erkenning aan te passen naar een aanduiding als erkende archeoloog type 2. Het agentschap bevestigt deze wijziging schriftelijk aan de erkende archeoloog binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van het verzoek. De erkende archeoloog kan vanaf de dag van de kennisgeving van de schriftelijke bevestiging alleen nog de activiteiten uitvoeren van een erkende archeoloog type 2.
 
 ### ART. 3.5.8.
 
-&nbsp;Het agentschap kan op verzoek van de minister, op verzoek van de   Commissie of op eigen initiatief een erkende archeoloog evalueren. Het   agentschap kan daarbij het advies van de Commissie inwinnen. Het agentschap kan   alle documenten opvragen die betrekking hebben op de erkenningsvoorwaarden, kan   de erkende archeoloog vragen om een toelichting te komen geven, of kan de   erkende archeoloog bezoeken met het oog op de controle van de infrastructuur en   van de faciliteiten om de vondsten te bewaren.<BR>
+Het agentschap kan op verzoek van de minister, op verzoek van de Commissie of op eigen initiatief een erkende archeoloog evalueren. De evaluatie heeft betrekking op de erkenningsvoorwaarden, de opvolgingsvoorwaarden en de kwaliteit van het archeologisch onderzoek door de erkende archeoloog.<br>
+<br>
+Het agentschap kan voor de evaluatie het advies van de Commissie inwinnen.<br>
+<br>
+Het agentschap kan voor de evaluatie alle documenten opvragen die betrekking hebben op de erkenningsvoorwaarden, de opvolgingsvoorwaarden en het onderzoek door de erkende archeoloog, of kan de erkende archeoloog vragen om een toelichting te komen geven, of kan de erkende archeoloog bezoeken om de infrastructuur en de faciliteiten om de vondsten te bewaren te controleren.
 
 ### ART. 3.5.9.
 
-Het agentschap kan na evaluatie een erkende archeoloog schorsen voor een   termijn van maximaal honderdtwintig dagen als hij:<BR>1° het   Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede   praktijk niet naleeft;<BR>2° of onvoldoende toezicht houdt op het veldwerk of op   de correcte registratie;<BR>3° of niet meer voldoet aan de   erkenningsvoorwaarden;<BR>4° of bij een vonnis of arrest veroordeeld is voor een   misdrijf dat door de aard ervan zijn beroepsethiek als erkende archeoloog   aantast;<BR>5° of de voorwaarden voor de opvolging van de aanduiding niet   naleeft.<BR>
+Het agentschap kan na evaluatie een erkende archeoloog schorsen in elk van de volgende gevallen:<br>
+1° de erkende archeoloog leeft het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of de code van goede praktijk niet na;<br>
+2° de erkende archeoloog houdt onvoldoende toezicht op het archeologisch onderzoek;<br>
+3° de erkende archeoloog voldoet niet meer aan de erkenningsvoorwaarden;<br>
+4° de erkende archeoloog is bij een vonnis of een arrest veroordeeld voor een misdrijf dat door de aard ervan zijn beroepsethiek als erkende archeoloog aantast;<br>
+5° de erkende archeoloog leeft de voorwaarden voor de opvolging van de aanduiding niet na.<br>
+<br>
+De schorsingstermijn is 120 dagen en kan door het agentschap ingekort of verlengd worden met maximaal 120 dagen.<br>
+<br>
+Tijdens een periode van schorsing kan de erkende archeoloog zijn taken ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit verder uitvoeren, op voorwaarde dat hij acties voorstelt en uitvoert ter remediëring of ter tegemoetkoming aan de erkenningsvoorwaarden en de voorwaarden voor opvolging van de aanduiding.
 
 ### ART. 3.5.10.
 
-<P>Het agentschap bezorgt de schorsingsbeslissing per beveiligde zending aan de   erkende archeoloog. De schorsing treedt in werking vanaf het moment van de   betekening. De schorsing van de aanduiding als erkende archeoloog wordt bij   uittreksel in het Belgisch Staatsblad gepubliceerd.<BR></P>  <P>De geschorste archeoloog bezorgt binnen de termijn van zestig dagen, die   ingaat op de dag na de betekening van de beslissing tot schorsing per beveiligde   zending een reactie waarin hij beschrijft welke acties hij heeft ondernomen of   onverwijld zal ondernemen ter remediëring of ter tegemoetkoming aan de   erkenningsvoorwaarden.<BR></P>  <P>Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van   de reactie beslist het agentschap tot opheffing van de schorsing of tot   intrekking van de aanduiding als erkende archeoloog. Als de geschorste   archeoloog geen reactie heeft bezorgd binnen de gestelde termijn, trekt het   agentschap de aanduiding als erkende archeoloog onverwijld in.<BR></P>  <P>Het agentschap deelt de beslissing per beveiligde zending binnen een termijn   van dertig dagen, die ingaat de dag na de beslissing, mee aan de aanvrager.   Vanaf die betekening is de erkenning als archeoloog ingetrokken. Als het   agentschap nalaat een beslissing te nemen of nalaat de beslissing aan de   aanvrager mee te delen binnen de voorziene termijn, wordt de schorsing geacht   opgeheven te zijn.<BR></P>
+§ 1. Het agentschap bezorgt de schorsingsbeslissing per beveiligde zending aan de erkende archeoloog. De schorsing treedt in werking vanaf de dag van de kennisgeving.<br>
+<br>
+De geschorste archeoloog bezorgt binnen een termijn van zestig dagen, die ingaat op de dag na de kennisgeving van de beslissing tot schorsing, schriftelijk een reactie waarin hij beschrijft welke acties hij heeft ondernomen of onmiddellijk onderneemt om te remediëren of tegemoet te komen aan de erkennings- of opvolgingsvoorwaarden. Het agentschap hoort de erkende archeoloog op zijn verzoek.<br>
+<br>
+§ 2. Binnen een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de reactie beslist het agentschap om de schorsing op te heffen of te verlengen, of om de aanduiding als erkende archeoloog in te trekken.<br>
+<br>
+Als het agentschap van oordeel is dat de ondernomen acties volstaan om te voldoen aan de erkenningsvoorwaarden en de voorwaarden voor opvolging van de aanduiding, heft het de schorsing op. Als het agentschap van oordeel is dat bijkomende tijd nodig is om de voorgestelde acties uit te voeren, verlengt het agentschap de schorsing overeenkomstig artikel 3.5.9, tweede lid. Het agentschap kan de erkende archeoloog daarbij tijdelijk verbieden om nieuwe opdrachten in uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013 en dit besluit aan te nemen. Als het agentschap van oordeel is dat de ondernomen of voorgestelde acties niet volstaan om te voldoen aan de erkenningsvoorwaarden en de voormelde voorwaarden voor opvolging van de aanduiding, trekt het agentschap de aanduiding als erkende archeoloog in. Als de geschorste archeoloog geen reactie heeft bezorgd binnen de termijn bepaald in paragraaf 1, tweede lid, trekt het agentschap de aanduiding als erkende archeoloog onmiddellijk in.<br>
+<br>
+Het agentschap deelt de beslissing per beveiligde zending binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager. Als het agentschap nalaat een beslissing te nemen of nalaat de beslissing aan de aanvrager mee te delen binnen de vastgestelde termijn, wordt de schorsing geacht opgeheven te zijn.<br>
+<br>
+§ 3. Als het agentschap de schorsing heeft verlengd, dan voert het na afloop van die termijn een evaluatie uit overeenkomstig artikel 3.5.8. Als het agentschap vaststelt dat de erkende archeoloog de voorgestelde acties ter remediëring of ter tegemoetkoming aan de erkenningsvoorwaarden of opvolgingsvoorwaarden niet heeft uitgevoerd, kan het de aanduiding als erkende archeoloog intrekken.<br>
+<br>
+Het agentschap deelt de beslissing per beveiligde zending binnen een termijn van dertig dagen, die ingaat op de dag na de beslissing, mee aan de aanvrager.<br>
+<br>
+§ 4. Als het agentschap beslist om de aanduiding als erkende archeoloog in te trekken, gaat die intrekking in op de dag van de kennisgeving van de beslissing waarmee de aanduiding als erkende archeoloog wordt ingetrokken.
 
 ### ART. 3.5.11.
 
@@ -483,7 +584,7 @@ Als een erkende archeoloog zelf te kennen geeft dat hij niet meer   aangeduid wi
 
 ### ART. 3.5.12.
 
-De aanduiding als erkende archeoloog vervalt als het agentschap vaststelt   dat de erkende archeoloog gedurende vijf opeenvolgende jaren geen activiteiten   meer heeft verricht ter uitvoering van het Onroerenderfgoeddecreet van 12 juli   2013. Het agentschap deelt die intrekking van de erkenning per beveiligde   zending mee aan de aanvrager.<BR>
+De aanduiding als erkende archeoloog vervalt als het agentschap vaststelt dat de erkende archeoloog gedurende tien opeenvolgende jaren geen activiteiten meer heeft verricht ter uitvoering van het Onroerenderfgoeddecreet van 12 juli 2013. Het agentschap deelt die intrekking van de erkenning per beveiligde zending mee aan de aanvrager.
 
 ### ART. 3.5.13.
 
@@ -491,7 +592,13 @@ De intrekking van de aanduiding als erkende archeoloog wordt bij   uittreksel in
 
 ### ART. 3.5.14.
 
-<P>Als het agentschap de aanduiding weigert of intrekt, kan de aanvrager of de   erkende archeoloog een georganiseerd administratief beroep instellen bij de   minister.<BR></P>  <P>Het beroepschrift wordt per beveiligde zending ingediend binnen een termijn   van dertig dagen die ingaat op de dag na de kennisgeving van de beslissing van   het agentschap over de weigering van de erkenning of de intrekking ervan. Als de   aanvrager geen beslissing van het agentschap heeft ontvangen binnen de termijn   vermeld in artikel 3.5.5, vierde lid en de aanvraag dus geacht wordt geweigerd   te zijn, kan hij binnen een termijn van dertig dagen, die ingaat op de dag na   het verstrijken van die termijn, een beroepschrift indienen per beveiligde   zending.<BR></P>  <P>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht   in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen   op hun verzoek schriftelijk of mondeling heeft gehoord.<BR></P>  <P>De minister neemt een beslissing over het beroep binnen een termijn van   zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Die   termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het   mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen   beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt het beroep   geacht te zijn afgewezen. De beslissing wordt onverwijld bezorgd aan de indiener   van het beroep per beveiligde zending.<BR></P>
+<p>Als het agentschap de aanduiding weigert of intrekt, kan de aanvrager of de erkende archeoloog een georganiseerd administratief beroep instellen bij de minister.</p>
+
+<p>Het beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen die ingaat op de dag na de kennisgeving van de beslissing van het agentschap over de weigering van de erkenning of de intrekking ervan. Als de aanvrager geen beslissing van het agentschap heeft ontvangen binnen de termijn vermeld in artikel 3.5.5, derde lid en de aanvraag dus geacht wordt geweigerd te zijn, kan hij binnen een termijn van dertig dagen, die ingaat op de dag na het verstrijken van die termijn, schriftelijk een beroepschrift indienen.</p>
+
+<p>De minister neemt zijn beslissing over het ingestelde beroep na een verplicht in te winnen advies van de Commissie en nadat de Commissie de betrokken partijen op hun verzoek schriftelijk of mondeling heeft gehoord.</p>
+
+<p>De minister neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat op de dag na de ontvangst van het beroepschrift. Die termijn wordt verlengd met zestig dagen als toepassing wordt gemaakt van het mondelinge of schriftelijke hoorrecht, vermeld in het derde lid. Als geen beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt het beroep geacht te zijn afgewezen. De beslissing wordt onverwijld bezorgd aan de indiener van het beroep per beveiligde zending.</p>
 
 ## Afdeling 6 Aanduiding als erkende metaaldetectorist
 
@@ -735,11 +842,23 @@ De minister stelt een code van goede praktijk vast voor de uitvoering van   en d
 
 ### ART. 5.4.1.
 
-De gebieden waar geen archeologisch erfgoed te verwachten valt, worden vastgesteld als een gegeorefereerd plan waarop die gebieden nauwkeurig worden aangeduid. Dat gegeorefereerd plan wordt publiek toegankelijk gemaakt op een GIS-laag op een website van het agentschap.<br>
+De gebieden waar geen archeologisch erfgoed te verwachten valt, worden vastgesteld als een&nbsp;plan waarop die gebieden nauwkeurig worden aangeduid. Dat&nbsp;plan wordt publiek toegankelijk gemaakt op een GIS-laag op een website van het agentschap.<br>
 <br>
 Over de vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt wordt zesmaandelijks gerapporteerd aan de Vlaamse Regering.<br>
 <br>
 In het eerste en tweede lid wordt verstaan onder gebieden waar geen archeologisch erfgoed te verwachten valt: de gebieden waar op basis van waarnemingen en wetenschappelijke argumenten onderbouwd kan worden dat ze met hoge waarschijnlijkheid geen archeologische waarde hebben.
+
+### ART 5.4.1/1.
+
+De erkende onroerenderfgoedgemeente kan in een gemeentelijk reglement in vrijstellingen voorzien zoals vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013. Dat gemeentelijk reglement motiveert op basis van waarnemingen en wetenschappelijke argumenten welke percelen vrijgesteld worden omdat ze met hoge waarschijnlijkheid geen archeologische waarde hebben. Het gemeentelijk reglement bevat ook een plan waarop die percelen nauwkeurig worden aangeduid.<br>
+<br>
+De erkende onroerenderfgoedgemeente bezorgt aan het agentschap na de goedkeuring door de gemeenteraad:<br>
+1° het gemeentelijk reglement, vermeld in artikel 5.4.1, derde lid, 9°, van het Onroerenderfgoeddecreet van 12 juli 2013;<br>
+2° een geactualiseerde GIS-laag met een nauwkeurige aanduiding van alle vrijgestelde percelen binnen haar grondgebied.<br>
+<br>
+Het agentschap maakt de geactualiseerde GIS-laag publiek toegankelijk op zijn website.<br>
+<br>
+De gemeentelijke vrijstellingen gelden zodra ze publiek toegankelijk gemaakt zijn op een GIS-laag op de website van het agentschap.
 
 ## [Onderafdeling 2 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
@@ -749,7 +868,10 @@ Na vooronderzoek zonder ingreep in de bodem moet geen vooronderzoek met   ingree
 
 ### ART. 5.4.3.
 
-De melding van het voornemen om een archeologisch vooronderzoek met   ingreep in de bodem uit te voeren bevat, naast de gegevens, vermeld in artikel   5.4.6, § 1, tweede lid, van het Onroerenderfgoeddecreet van 12 juli 2013,   minstens de volgende bijkomende gegevens:<BR>1° de resultaten van het   archeologisch vooronderzoek zonder ingreep in de bodem;<BR>2° de doelstellingen   en de te beantwoorden onderzoeksvragen van het vooronderzoek met ingreep in de   bodem;<BR>3° de plannen, kaarten en foto's die noodzakelijk zijn voor een goed   begrip van de melding.
+De aanvraag tot toelating bevat, naast de gegevens vermeld in artikel 5.4.6, § 1, derde lid, van het Onroerenderfgoeddecreet van 12 juli 2013, de volgende bijkomende gegevens:<br>
+1° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+2° de doelstellingen en de te beantwoorden onderzoeksvragen van het vooronderzoek met ingreep in de bodem;<br>
+3° de plannen, kaarten en foto's die noodzakelijk zijn voor een goed begrip van de aanvraag tot toelating.
 
 ### ART. 5.4.4.
 
@@ -791,7 +913,7 @@ b) het adres of de maatschappelijke zetel;<br>
 
 ### ART. 5.4.7.
 
-Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente de archeologienota weigert of er voorwaarden aan koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
+Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte neemt van de archeologienota, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door hem daarvoor aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 4. Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen (verv. BVR 14 december 2018, art. 54, I: 1 april 2019)]
 
@@ -821,13 +943,13 @@ b) het adres of de maatschappelijke zetel;<br>
 
 ### ART. 5.4.10.
 
-Als het agentschap&nbsp;of in voorkomend geval de erkende onroerenderfgoedgemeente de nota weigert of er voorwaarden aan koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
+Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte neemt van de nota, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door hem aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de minister volgens de procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 6 Verplichtingen vergunningsverlener - Afwijkende vergunde werken (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
 ### ART. 5.4.11.
 
-Als de ingreep in de bodem van de vergunde werken afwijkt van de ingreep   in de bodem van de werken, omschreven in de bekrachtigde archeologienota, geldt   de bekrachtigde archeologienota niet als toelating voor de maatregelen die erin   omschreven zijn. In voorkomend geval geldt de procedure overeenkomstig artikel   5.4.16 tot en met artikel 5.4.21 van het Onroerenderfgoeddecreet van 12 juli   2013.
+Als de ingreep in de bodem van de vergunde werken afwijkt van de ingreep in de bodem van de werken, omschreven in de archeologienota waarvan akte is genomen, geldt de aktename niet als toelating voor de maatregelen die erin omschreven zijn.&nbsp;In voorkomend geval geldt de procedure overeenkomstig artikel 5.4.16 tot en met artikel 5.4.21 van het Onroerenderfgoeddecreet van 12 juli 2013.
 
 ## [Onderafdeling 7 Verplichtingen aangestelde erkende archeoloog - Melding aanvang archeologische opgraving (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
@@ -839,17 +961,17 @@ De melding van de aanvang van de archeologische opgraving, vermeld in   artikel 
 
 ### ART. 5.4.13.
 
-De erkende onroerenderfgoedgemeente bezorgt de archeologienota's en nota's die ze bekrachtigt aan het agentschap en in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst waar ze deel van uitmaakt.<br>
+De erkende onroerenderfgoedgemeente bezorgt de archeologienota's en nota's waar ze akte van neemt aan het agentschap en in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst waar ze deel van uitmaakt.<br>
 <br>
-Het agentschap bezorgt de archeologienota's en nota's die het bekrachtigt in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst.<br>
+Het agentschap bezorgt de archeologienota's en nota's waar het akte van neemt in voorkomend geval aan de erkende intergemeentelijke onroerenderfgoeddienst.<br>
 <br>
-Als de archeologienota of de nota betrekking heeft op percelen die op het grondgebied van verschillende gemeenten liggen, bezorgt het agentschap de bekrachtigde archeologienota of nota aan de erkende onroerenderfgoedgemeente.<br>
+Als de archeologienota of de nota betrekking heeft op percelen die op het grondgebied van verschillende gemeenten liggen, bezorgt het agentschap de&nbsp;archeologienota of nota waarvan akte is genomen&nbsp;aan de erkende onroerenderfgoedgemeente.<br>
 <br>
 Het agentschap stelt de resultaten van het archeologisch vooronderzoek publiek beschikbaar op zijn website.
 
 ### ART. 5.4.14.
 
-De erkende archeoloog publiceert het eindverslag, vermeld in artikel   5.4.21 van het Onroerenderfgoeddecreet van 12 juli 2013, binnen zes maanden   nadat hij het bezorgd heeft aan het agentschap. Het eindverslag dat de erkende   archeoloog publiceert, is identiek aan het eindverslag dat hij aan het   agentschap heeft bezorgd, met uitzondering van de privacy- en bedrijfsgevoelige   informatie.
+De erkende archeoloog publiceert het eindverslag, vermeld in artikel 5.4.21 van het Onroerenderfgoeddecreet van 12 juli 2013,&nbsp;binnen een termijn van 180 dagen, die ingaat op de dag na de bezorging van het eindverslag aan het agentschap. Het eindverslag dat de erkende archeoloog publiceert, is identiek aan het eindverslag dat hij aan het agentschap heeft bezorgd, met uitzondering van de privacy- en bedrijfsgevoelige informatie.
 
 ### ART. 5.4.15.
 
@@ -863,11 +985,17 @@ De aanvraag tot toelating om een archeologisch vooronderzoek met ingreep   in de
 
 ### ART. 5.5.2.
 
-De erkende archeoloog bezorgt de aanvraag tot toelating om een   archeologisch vooronderzoek met ingreep in de bodem of een archeologische   opgraving met het oog op wetenschappelijke vraagstellingen uit te voeren,   schriftelijk en met een beveiligde zending aan het agentschap.
+De erkende archeoloog bezorgt de aanvraag tot toelating om een archeologisch vooronderzoek met ingreep in de bodem of een archeologische opgraving met het oog op wetenschappelijke vraagstellingen uit te voeren via het digitale platform dat het agentschap daarvoor beschikbaar stelt.
 
 ### ART. 5.5.3.
 
-Het agentschap neemt een beslissing over de aanvraag tot toelating binnen   een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag   is ingediend.<BR><BR>Als geen beslissing is genomen binnen de termijn, vermeld   in het eerste lid, wordt de toelating geacht te zijn goedgekeurd.<BR><BR>Het   agentschap bezorgt de gemotiveerde beslissing of de kennisgeving van de   stilzwijgende beslissing met een beveiligde zending aan de erkende archeoloog.   De gemotiveerde beslissing vermeldt de voorwaarden die van toepassing   zijn.<BR><BR>De toelating wordt verleend voor een termijn van maximaal twee   jaar, die ingaat op de dag na de datum van de beslissing of het verstrijken van   de termijn, vermeld in het eerste lid. Een afschrift van de toelating of de   kennisgeving van de stilzwijgende beslissing is tijdens de uitvoering van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving ter beschikking op het terrein in kwestie.
+Het agentschap neemt een beslissing over de aanvraag tot toelating binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend.<br>
+<br>
+Als geen beslissing is genomen binnen de termijn, vermeld in het eerste lid, wordt de toelating geacht te zijn goedgekeurd.<br>
+<br>
+Het agentschap bezorgt de gemotiveerde beslissing of de kennisgeving van de stilzwijgende beslissing met een beveiligde zending aan de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform.&nbsp;De gemotiveerde beslissing vermeldt de voorwaarden die van toepassing zijn.<br>
+<br>
+De toelating wordt verleend voor een termijn van maximaal twee jaar, die ingaat op de dag na de datum van de beslissing of het verstrijken van de termijn, vermeld in het eerste lid. Een afschrift van de toelating of de kennisgeving van de stilzwijgende beslissing is tijdens de uitvoering van het archeologisch vooronderzoek met ingreep in de bodem of de archeologische opgraving ter beschikking op het terrein in kwestie.
 
 ### ART. 5.5.4.
 
@@ -883,7 +1011,7 @@ De melding van de aanvang van het archeologisch vooronderzoek met ingreep   in d
 
 ### ART. 5.5.7.
 
-De erkende archeoloog publiceert het eindverslag, vermeld in artikel   5.5.4, derde en vierde lid, van het Onroerenderfgoeddecreet van 12 juli 2013,   binnen zes maanden nadat hij het bezorgd heeft aan het agentschap. Het   eindverslag dat de erkende archeoloog publiceert, is identiek aan het   eindverslag dat hij aan het agentschap heeft bezorgd, met uitzondering van de   privacy- en bedrijfsgevoelige informatie.
+De erkende archeoloog publiceert het eindverslag, vermeld in artikel 5.5.4, derde en vierde lid, van het Onroerenderfgoeddecreet van 12 juli 2013, binnen een termijn van 180 dagen, die ingaat op de dag na de bezorging van het eindverslag aan het agentschap. Het eindverslag dat de erkende archeoloog publiceert, is identiek aan het eindverslag dat hij aan het agentschap heeft bezorgd, met uitzondering van de privacy- en bedrijfsgevoelige informatie.
 
 ### ART. 5.5.8.
 
@@ -893,7 +1021,17 @@ Het agentschap ontsluit de eindverslagen digitaal op zijn   website.
 
 ### ART. 5.6.1.
 
-Het beroepschrift wordt met een beveiligde zending ingediend binnen een   termijn van dertig dagen, die ingaat op de dag na de kennisgeving van de   beslissing van het agentschap of, in voorkomend geval, van de erkende   onroerenderfgoedgemeente over:<BR>1° de weigering van het archeologisch   vooronderzoek met ingreep in de bodem of het koppelen van voorwaarden   daaraan;<BR>2° de weigering van de bekrachtiging van de archeologienota of het   koppelen van voorwaarden daaraan;<BR>3° de weigering van de bekrachtiging van de   nota of het koppelen van voorwaarden daaraan;<BR>4° de weigering van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving met het oog op wetenschappelijke vraagstellingen of het koppelen van   voorwaarden daaraan.<BR><BR>Het beroepschrift bestaat minstens uit een   gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer   van de bestreden beslissing.<BR><BR>Het beroepschrift wordt gedagtekend en   ondertekend door de indiener van het beroep of door zijn raadsman. Als de   woonplaatskeuze wordt gedaan bij de raadsman van de indiener van het beroep,   wordt dat ook in het beroepschrift aangegeven.<BR><BR>De indiener van het beroep   kan bij het beroepschrift de bewijsstukken voegen die hij nodig acht. De   bewijsstukken worden door de indiener van het beroep gebundeld en op een   inventaris ingeschreven.
+Het beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen, die ingaat op de dag na de kennisgeving van de beslissing van het agentschap of, in voorkomend geval, van de erkende onroerenderfgoedgemeente over:<br>
+1° het weigeren van een toelating voor archeologisch vooronderzoek met ingreep in de bodem of het koppelen van voorwaarden daaraan;<br>
+2° het akte nemen van de archeologienota, het niet akte nemen daarvan of het koppelen van voorwaarden daaraan;<br>
+3° het akte nemen van de nota, het niet akte nemen daarvan of het koppelen van voorwaarden daaraan;<br>
+4° het weigeren van een toelating voor een archeologisch vooronderzoek met ingreep in de bodem of een archeologische opgraving met het oog op wetenschappelijke vraagstellingen of het koppelen van voorwaarden daaraan.<br>
+<br>
+Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
+<br>
+Het beroepschrift wordt gedagtekend en ondertekend door de indiener van het beroep of door zijn raadsman. Als de woonplaatskeuze wordt gedaan bij de raadsman van de indiener van het beroep, wordt dat ook in het beroepschrift aangegeven.<br>
+<br>
+De indiener van het beroep kan bij het beroepschrift de bewijsstukken voegen die hij nodig acht. De bewijsstukken worden door de indiener van het beroep gebundeld en op een inventaris ingeschreven.
 
 ### ART. 5.6.2.
 
@@ -1585,9 +1723,9 @@ De zakelijkrechthouder, de gebruiker of de gevolmachtigde kan tegen de beslissin
 <br>
 Een beroepschrift wordt schriftelijk ingediend binnen een termijn van dertig dagen, die ingaat op dag na de kennisgeving van de beslissing. Het beroepschrift bestaat minstens uit een gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer van de bestreden beslissing.<br>
 <br>
-De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat de dag na de ontvangst van het beroepschrift. De beslissing wordt schriftelijk aan de indiener van het beroep bezorgd.<br>
+De Vlaamse Regering kan bij de Commissie en bij de adviesinstantie, vermeld in artikel 16undecies, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, over het beroep advies inwinnen. De Commissie en de adviesinstantie beschikken over een termijn van dertig dagen, die ingaat op de dag na de ontvangst van de adviesvraag, om over het beroep een advies uit te brengen. Als het advies niet tijdig wordt verleend, wordt aan de adviesvraag voorbijgegaan.<br>
 <br>
-De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig kalenderdagen, die ingaat de dag na de ontvangst van het beroepschrift. Als er geen beslissing wordt genomen binnen de toepasselijke vervaltermijn wordt, er van uitgegaan dat het beroep afgewezen is. De beslissing wordt onverwijld met een beveiligde zending aan de indiener van het beroep bezorgd.
+De Vlaamse Regering neemt een beslissing over het beroep binnen een termijn van zestig dagen, die ingaat de dag na de ontvangst van het beroepschrift. De beslissing wordt schriftelijk aan de indiener van het beroep bezorgd..
 
 ## [Afdeling 4 Open Erfgoed (ing. BVR. 4 december 2015, art. 25, I: 1 januari 2016)]
 
@@ -2208,7 +2346,7 @@ De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd worden m
 <br>
 Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de erfgoedpremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100% overschrijden, zal de premie verminderd worden tot de gezamenlijke overheidsbijdrage gelijk is aan 100% van de totale en aangetoonde kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld mee aan de aanvrager.<br>
 <br>
-Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologische opgraving aan of in eenzelfde beschermd goed is uitgesloten.
+Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.
 
 ## Onderafdeling 6 Aantal aanvragen voor een erfgoedpremie per kalenderjaar
 
@@ -2339,7 +2477,7 @@ Bij de uitbetaling van de erfgoedpremie volgens de standaardprocedure   wordt al
 
 ### ART. 11.2.30.
 
-<p>Het agentschap onderzoekt de aanvraag en neemt binnen negentig dagen, vanaf de datum van de&nbsp;indiening ervan een beslissing. Het agentschap deelt deze beslissing per beveiligde zending onverwijld mee aan de aanvrager.</p>
+<p>Het agentschap onderzoekt de aanvraag en neemt binnen negentig dagen, vanaf de datum van de&nbsp;indiening ervan een beslissing. Het agentschap deelt deze beslissing schriftelijk onverwijld mee aan de aanvrager.</p>
 
 <p>Als het dossier niet in aanmerking komt voor een erfgoedpremie volgens de bijzondere procedure, onvolledig wordt bevonden of als de waarborgen voor een vakkundige uitvoering onvoldoende worden geacht, wordt in de beslissing vermeld waarom de aanvraag wordt geweigerd, en in voorkomend geval in welke zin het dossier moet worden aangepast of aangevuld om voor goedkeuring in aanmerking te komen. Een aangepaste aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel 11.2.28 opnieuw worden ingediend.</p>
 
@@ -2435,7 +2573,11 @@ De onderzoekspremie wordt berekend op basis van de aanvaarde kostenraming.   Er 
 
 ### ART. 11.3.4.
 
-<P>De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd   worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met   inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan   de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen,   werkzaamheden en diensten.<BR></P>  <P>Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij   het verzoek tot uitbetaling van het saldo van de onderzoekspremie een volledig   overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke   overheidsbijdragen 100 % overschrijden, zal de premie verminderd worden tot de   gezamenlijke overheidsbijdrage gelijk is aan 100 % van de totale en aangetoonde   kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld   mee aan de aanvrager.<BR><BR>Een cumulatie van een erfgoedpremie aangevraagd   volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de   bijzondere procedure, een onderzoekspremie of een premie voor buitensporige   opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit   te voeren archeologische opgraving aan of in eenzelfde beschermd goed is   uitgesloten.<BR></P>
+<p>De beheersmaatregelen, werkzaamheden en diensten mogen ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de totale en aangetoonde kostprijs van de uitgevoerde beheersmaatregelen, werkzaamheden en diensten.</p>
+
+<p>Als andere overheidsbijdragen aangevraagd worden, voegt de premienemer bij het verzoek tot uitbetaling van het saldo van de onderzoekspremie een volledig overzicht van die andere overheidsbijdragen. Als blijkt dat de gezamenlijke overheidsbijdragen 100 % overschrijden, zal de premie verminderd worden tot de gezamenlijke overheidsbijdrage gelijk is aan 100 % van de totale en aangetoonde kostprijs. Het agentschap deelt de beslissing om daartoe over te gaan onverwijld mee aan de aanvrager.<br>
+<br>
+Een cumulatie van een erfgoedpremie aangevraagd volgens de standaardprocedure, een erfgoedpremie aangevraagd volgens de bijzondere procedure, een onderzoekspremie, een premie voor archeologisch vooronderzoek met ingreep in de bodem of een premie voor buitensporige opgravingskosten voor eenzelfde beheersmaatregel, werk, dienst of verplicht uit te voeren archeologisch onderzoek aan of in eenzelfde beschermd goed is uitgesloten.</p>
 
 ## Onderafdeling 4 Aantal aanvragen voor een onderzoekspremie per kalenderjaar
 
@@ -2660,21 +2802,21 @@ Binnen de perken van de daarvoor op de begroting van de Vlaamse   Gemeenschap be
 
 ### ART. 11.7.3.
 
-Een premie voor buitensporige opgravingskosten kan worden toegekend voor   archeologische opgravingen bij projecten die vallen onder het toepassingsgebied   van artikel 5.4.1 van het Onroerenderfgoeddecreet van natuurlijke personen en   van kleinschalige ondernemingen of kleinschalige verenigingen.<BR><BR>Om in   aanmerking te komen voor een premie voor buitensporige opgravingskosten:<BR>1°   moet de archeologische opgraving uitgevoerd zijn overeenkomstig het   Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de omschrijving in de   bekrachtigde archeologienota of de bekrachtigde nota;<BR>2° mogen de premienemer   en de natuurlijke persoon, kleinschalige onderneming of kleinschalige   vereniging, vermeld in het eerste lid, de laatste tien jaar bij definitieve   gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan   deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart   1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van   30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet   van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van   12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese   Unie.<BR><BR>In het eerste en tweede lid wordt verstaan onder:<BR>1°   kleinschalige onderneming: een onderneming waar minder dan tien personen werken,   uitgezonderd seizoensarbeid en piekarbeid, en waarvan de omzet of het jaarlijkse   balanstotaal in het boekjaar dat voorafgaat aan het boekjaar waarin de premie   wordt aangevraagd, niet meer dan 5 miljoen euro bedraagt;<BR>2° kleinschalige   vereniging: een vereniging waar minder dan tien personen werken en waarvan de   omzet of het jaarlijkse balanstotaal in het boekjaar dat voorafgaat aan het   boekjaar waarin de premie wordt aangevraagd, niet meer dan 5 miljoen euro   bedraagt.
+Een premie voor buitensporige opgravingskosten kan worden toegekend voor archeologische opgravingen bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van natuurlijke personen en van kleinschalige ondernemingen of kleinschalige verenigingen.<br>
+<br>
+Om in aanmerking te komen voor een premie voor buitensporige opgravingskosten:<br>
+1° moet de archeologische opgraving uitgevoerd zijn overeenkomstig het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit en de omschrijving in de archeologienota of nota waarvan akte genomen is;<br>
+2° mogen de premienemer en de natuurlijke persoon, kleinschalige onderneming of kleinschalige vereniging, vermeld in het eerste lid, de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
 
 ## [Onderafdeling 3 Bedrag van de premie voor buitensporige opgravingskosten (ing. BVR 4 december 2015, art. 42, I: 1 januari 2016)]
 
 ### ART. 11.7.4.
 
-§ 1. De premie voor buitensporige opgravingskosten wordt berekend door de variabelen die overeenstemmen met de aangetroffen toestand, toe te passen op de forfaitaire basiskosten, verminderd met een franchise, en dat bedrag te vermenigvuldigen met 40%.<br>
+De premie voor buitensporige opgravingskosten wordt berekend door de variabelen die overeenstemmen met de aangetroffen toestand, toe te passen op de forfaitaire basiskosten, verminderd met een franchise, en dat bedrag te vermenigvuldigen met 80%.<br>
 <br>
 De minister stelt de forfaitaire basiskosten, de variabelen en de franchise vast. Voor de berekening van de premie voor buitensporige opgravingskosten zijn de forfaitaire basiskosten, de variabelen en de franchise van toepassing die golden op het moment van de aanvang van de archeologische opgraving.<br>
 <br>
-In deze paragraaf wordt verstaan onder franchise: de niet-betoelaagbare eerste schijf van de kosten van de verplicht uit te voeren archeologische opgraving.<br>
-<br>
-§ 2. ...<br>
-<br>
-§ 3. ...
+In dit artikel wordt verstaan onder franchise: de niet-betoelaagbare eerste schijf van de kosten van de verplicht uit te voeren archeologische opgraving.
 
 ### ART. 11.7.5.
 
@@ -2700,7 +2842,11 @@ De premie voor buitensporige opgravingskosten kan aangevraagd worden vanaf   de 
 
 ### ART. 11.7.9.
 
-Het agentschap onderzoekt de aanvraag inhoudelijk en neemt een beslissing   binnen een termijn van negentig dagen, die ingaat op de dag na de ontvangst   ervan.<BR><BR>In geval van akkoord wordt de premie voor buitensporige   opgravingskosten vastgelegd, waarna een afschrift van dit besluit met een   beveiligde zending aan de aanvrager wordt bezorgd en het agentschap overgaat tot   de uitbetaling van de premie.<BR><BR>Als de aanvraag onvolledig is of niet   voldoet aan de voorwaarden, vermeld in deze afdeling, wordt aan de premienemer   met een beveiligde zending gemeld waarom de aanvraag wordt geweigerd, en in   welke zin het dossier, in voorkomend geval, kan worden aangepast of aangevuld om   alsnog voor toekenning en uitbetaling in aanmerking te komen. Een nieuwe   aanvraag moet aan die opmerkingen tegemoetkomen en kan overeenkomstig artikel   11.7.7 opnieuw worden ingediend.
+Het agentschap gaat na of de aanvraag voldoet aan artikel 11.7.7. Als de aanvraag onvolledig is, kan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+<br>
+Het agentschap beslist over de aanvraag binnen een termijn van negentig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ontvangen. De aanvrager wordt hiervan schriftelijk op de hoogte gesteld.<br>
+<br>
+In geval van akkoord wordt de premie voor buitensporige opgravingskosten vastgelegd, waarna een afschrift van dit besluit schriftelijk aan de aanvrager wordt bezorgd en het agentschap overgaat tot de uitbetaling van de premie.
 
 ### ART. 11.7.10.
 
@@ -2832,15 +2978,82 @@ Het agentschap bezorgt het attest aan de aanvrager.
 
 ## [Onderafdeling 1. Archeologisch vooronderzoek waarvoor geen premie voor archeologisch vooronderzoek met ingreep in de bodem wordt toegekend (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
+### ART 11.10.1.
+
+Er wordt geen premie voor archeologisch vooronderzoek met ingreep in de bodem toegekend voor :<br>
+1° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013 en waarbij een overeenkomst werd gesloten tot eigendomsovergang van een te bouwen, of in aanbouw zijnd huis of appartement, mits het huis of het appartement tot huisvesting of tot beroepsdoeleinden en huisvesting is bestemd en de koper of de opdrachtgever volgens de overeenkomst verplicht is vóór de voltooiing van het gebouw een of meer stortingen te doen;<br>
+2° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, van opdrachtgevers of verkrijgers wier werkzaamheid erin bestaat gebouwen op te richten, te laten oprichten of te verwerven, al dan niet om ze onder bezwarende titel te vervreemden;<br>
+3° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, waarbij de opdrachtgevers op regelmatige basis optreden als opdrachtgevers van een bouwproject;<br>
+4° archeologische vooronderzoeken met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet, van opdrachtgevers die beschouwd kunnen worden als onderdeel van een groep of een sector die op regelmatige basis optreedt als opdrachtgever van projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het voormelde decreet;<br>
+5° archeologische vooronderzoeken met ingreep in de bodem waarvoor al een erfgoedpremie of onderzoekspremie is toegekend.<br>
+<br>
+In het eerste lid, 3° en 4°, wordt verstaan onder op regelmatige basis optreden als opdrachtgever van een project dat valt onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013 : de opdrachtgevers die in de drie jaar die voorafgaan aan de aanvraag van een premie voor archeologisch vooronderzoek met ingreep in de bodem, minstens één handeling aangevat hebben die valt onder het toepassingsgebied van artikel 5.4.1 en 5.4.2 van het voormelde decreet.
+
 ## [Onderafdeling 2. Archeologisch vooronderzoek waarvoor een premie voor archeologisch vooronderzoek met ingreep in de bodem kan worden aangevraagd (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
+
+### ART 11.10.2.
+
+Binnen de perken van de daarvoor op de begroting van de Vlaamse Gemeenschap beschikbare kredieten kan een premie voor archeologisch vooronderzoek met ingreep in de bodem worden toegekend.
+
+### ART 11.10.3.
+
+Een premie voor archeologisch vooronderzoek met ingreep in de bodem kan worden toegekend voor archeologisch vooronderzoek met ingreep in de bodem bij projecten die vallen onder het toepassingsgebied van artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli 2013, van natuurlijke personen en van kleinschalige ondernemingen of kleinschalige verenigingen.<br>
+<br>
+Om in aanmerking te komen voor een premie voor archeologisch vooronderzoek met ingreep in de bodem :<br>
+1° moet het archeologisch vooronderzoek met ingreep in de bodem uitgevoerd zijn overeenkomstig het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit, de omschrijving in de toelating of de archeologienota waarvan akte is genomen;<br>
+2° mogen de premienemer en de natuurlijke persoon, kleinschalige onderneming of kleinschalige vereniging, vermeld in het eerste lid, de laatste tien jaar bij definitieve gerechtelijke of bestuurlijke beslissing niet schuldig bevonden zijn aan deelname aan een inbreuk of een misdrijf als vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, het decreet van 16 april 1996 betreffende de landschapszorg, het Onroerenderfgoeddecreet van 12 juli 2013, dit besluit of erfgoedwetgeving van een lidstaat van de Europese Unie.
 
 ## [Onderafdeling 3. Bedrag van de premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
+### ART 11.10.4.
+
+De premie voor archeologisch vooronderzoek met ingreep in de bodem wordt berekend door de variabelen die overeenstemmen met het uitgevoerde vooronderzoek met ingreep in de bodem, toe te passen op de forfaitaire basiskosten, en dat bedrag te vermenigvuldigen met 80%.<br>
+<br>
+De minister stelt de forfaitaire basiskosten en de variabelen vast. Voor de berekening van de premie voor archeologisch onderzoek met ingreep in de bodem zijn de forfaitaire basiskosten en de variabelen van toepassing die golden op het moment van de aanvang van het archeologisch vooronderzoek met ingreep in de bodem.
+
+### ART 11.10.5.
+
+Het archeologisch vooronderzoek met ingreep in de bodem mag ook gefinancierd worden met andere overheidsbijdragen. De gezamenlijke overheidsbijdragen, met inbegrip van eventuele Europese middelen, kunnen evenwel niet meer bedragen dan de toepassing van de variabelen die overeenstemmen met het uitgevoerde vooronderzoek met ingreep in de bodem op de forfaitaire basiskosten, zoals vastgesteld door de minister.
+
 ## [Onderafdeling 4. Aantal premies voor archeologisch onderzoek met ingreep in de bodem per verplicht uit te voeren onderzoek (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
+
+### ART 11.10.6.
+
+In het kader van een verplicht uit te voeren archeologisch vooronderzoek met ingreep in de bodem kan hoogstens één premie voor archeologisch vooronderzoek met ingreep in de bodem toegekend worden.<br>
+<br>
+In het eerste lid wordt verstaan onder verplicht uit te voeren archeologisch vooronderzoek met ingreep in de bodem : alle methodes van archeologisch vooronderzoek met ingreep in de bodem die de erkende archeoloog overeenkomstig de code van goede praktijk moet uitvoeren om de archeologienota en, in voorkomend geval, de nota op te maken.
 
 ## [Onderafdeling 5. Aanvragen van een premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
 
+### ART 11.10.7.
+
+Een premienemer dient de aanvraag van een premie voor archeologisch vooronderzoek met ingreep in de bodem in bij het agentschap.<br>
+<br>
+Het aanvraagdossier bevat een volledig ingevuld en ondertekend aanvraagformulier dat ter beschikking wordt gesteld op de website van het agentschap.<br>
+<br>
+De minister kan de nadere regels voor de inhoud van het aanvraagdossier bepalen.
+
+### ART 11.10.8.
+
+De premie voor archeologisch vooronderzoek met ingreep in de bodem kan aangevraagd worden vanaf de aktename van de archeologienota tot 120 dagen erna.<br>
+<br>
+Als de archeologienota uitgesteld archeologisch vooronderzoek met ingreep in de bodem als maatregel bevat omdat toepassing is gemaakt van de procedure, vermeld in artikel 5.4.12 tot en met 5.4.19 van het Onroerenderfgoeddecreet van 12 juli 2013, kan de premie pas aangevraagd worden vanaf de aktename van de nota die volgt op de uitvoering van dat uitgestelde vooronderzoek met ingreep in de bodem, tot 120 dagen erna.
+
 ## [Onderafdeling 6. Vastlegging en uitbetaling van de premie voor archeologisch vooronderzoek met ingreep in de bodem (ing. BVR 15 maart 2019, art. 6, I: 1 april 2019)]
+
+### ART 11.10.9.
+
+Het agentschap gaat na of de aanvraag voldoet aan artikel 11.10.7. Als de aanvraag onvolledig is, kan het agentschap binnen een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend, de aanvrager schriftelijk vragen om de ontbrekende gegevens of documenten bij de aanvraag te voegen, en de termijn bepalen waarbinnen dat moet gebeuren.<br>
+<br>
+Het agentschap beslist over de aanvraag binnen een termijn van negentig dagen, die ingaat op de dag na de dag waarop de volledige aanvraag is ontvangen. De aanvrager wordt hiervan schriftelijk op de hoogte gesteld.<br>
+<br>
+In geval van akkoord wordt de premie voor archeologisch vooronderzoek vastgelegd, waarna een afschrift van dit besluit schriftelijk aan de aanvrager wordt bezorgd en het agentschap overgaat tot de uitbetaling van de premie.
+
+### ART 11.10.10.
+
+De vastlegging of de uitbetaling van een aangevraagde premie voor archeologisch vooronderzoek met ingreep in de bodem zal worden opgeschort als de premienemer tijdens het archeologisch vooronderzoek met ingreep in de bodem of na afloop ervan beschuldigd wordt van deelname aan een inbreuk of een misdrijf als vermeld in artikel 11.2.2 en 11.2.4, § 1, van het Onroerenderfgoeddecreet van 12 juli 2013.<br>
+<br>
+Het recht op een premie voor archeologisch vooronderzoek met ingreep in de bodem vervalt definitief als de premienemer bij definitieve gerechtelijke of bestuurlijke beslissing schuldig bevonden wordt aan een deelname aan de inbreuk of het misdrijf, vermeld in het eerste lid. Ten onrechte uitgekeerde bedragen zullen in dat geval ook teruggevorderd worden.
 
 ## [Afdeling 11. Premie voor archeologisch onderzoek van menselijke inhumatieresten (ing. BVR 2 september 2022, art. 78, I: 1 januari 2023)]
 
@@ -3245,6 +3458,12 @@ Aanvragen van schadevergoedingen die voortvloeien uit de toepassing van   artike
 ### ART. 13.3.19.
 
 De aanvragen voor metaaldetectie die overeenkomstig artikel 19 van het   besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet   van 30 juni 1993 houdende bescherming van archeologisch patrimonium ingediend   zijn vóór de inwerkingtreding van artikel 5.1.2 van het Onroerenderfgoeddecreet   van 12 juli 2013 worden behandeld overeenkomstig de regels die golden   voorafgaand aan die datum. De beslissingen worden bekendgemaakt, uitgevoerd en   bestreden overeenkomstig de regels die golden voorafgaand aan die   datum.
+
+### ART 13.3.20.
+
+De aanduidingen als erkende archeoloog voor de inwerkingtreding van dit artikel worden gelijkgesteld met een aanduiding als een erkende archeoloog type 1 zoals vermeld in artikel 3.5.2 en 3.5.3 van dit besluit.<br>
+<br>
+Die erkende archeologen moeten de opleiding vermeld in artikel 3.5.2, 8° van dit besluit volgen binnen de twee jaar na inwerkingtreding van dit artikel om te blijven voldoen aan de erkenningsvoorwaarden.
 
 ## Afdeling 4 Inwerkingtreding
 
