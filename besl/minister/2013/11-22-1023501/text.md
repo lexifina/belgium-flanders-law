@@ -24,11 +24,17 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder het besluit van de Vlaamse Regering   van 8 november 2013: het besluit van de Vlaamse Regering van 8 november 2013   houdende de subsidiëring van bedrijfsadvisering in de biologische   landbouw.
+In dit besluit wordt verstaan onder:<br>
+1° besluit van de Vlaamse Regering van 8 november 2013: het besluit van de Vlaamse Regering van 8 november 2013 houdende de subsidiëring van bedrijfsadvisering in de biologische landbouw;<br>
+2° e-loket: het e-loket, vermeld in artikel 1, punt 8° van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.
 
 ### ART. 2.
 
 <P>De bevoegde entiteit wordt gemachtigd om de beslissingen te nemen over de   toekenning van de subsidies voor bedrijfsadvisering in de biologische   landbouw.</P>
+
+### ART 2/1.
+
+De elektronische ondertekening, vermeld in artikel 17/1, tweede lid van dit besluit, wordt uitgevoerd conform artikel 68 van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid.
 
 ## HOOFDSTUK 2. Erkenning van adviesdiensten voor bedrijfsadvisering in de biologische landbouw
 
@@ -77,7 +83,14 @@ Bij de aanvang van het omschakelingsadvies moet de erkende adviesdienst   duidel
 
 ### ART. 9.
 
-<P>Het omschakelingsadvies moet minimaal drie van de volgende elementen   bevatten:<BR>1° noodzakelijke stappen bij omschakeling;<BR>2° te verwachte   bedrijfsvoering;<BR>3° beschrijving arbeidsbehoefte;<BR>4° eerste   bedrijfseconomische berekening;<BR>5° steunmaatregelen;<BR>6° huidige   regelgeving;<BR>7° afzetmogelijkheden.</P>  <P>&nbsp;<BR>De bevoegde entiteit stelt een modelcontract omschakelingsadvies   ter beschikking op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+<p>Het omschakelingsadvies moet minimaal drie van de volgende elementen bevatten:<br>
+1° noodzakelijke stappen bij omschakeling;<br>
+2° te verwachte bedrijfsvoering;<br>
+3° beschrijving arbeidsbehoefte;<br>
+4° eerste bedrijfseconomische berekening;<br>
+5° steunmaatregelen;<br>
+6° huidige regelgeving;<br>
+7° afzetmogelijkheden.</p>
 
 ## HOOFDSTUK 5. Inhoud biobedrijfsplan
 
@@ -98,8 +111,6 @@ Bij de aanvang van de opmaak van een biobedrijfsplan moet de erkende   adviesdie
 8° nodige investeringen;<br>
 9° steunmaatregelen;<br>
 10° afzetmogelijkheden.</p>
-
-<p>De bevoegde entiteit stelt een modelcontract biobedrijfsplan ter beschikking op de website van de Vlaamse overheid: <a href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</a>.</p>
 
 ### ART. 12.
 
@@ -126,9 +137,6 @@ Bij de aanvang van het startersadvies moet de erkende adviesdienst   duidelijk m
 10° bodembeheer;<br>
 11° bedrijfsmanagement.</p>
 
-<p><br>
-De bevoegde entiteit stelt een modelcontract startersadvies ter beschikking op de website van de Vlaamse overheid: <a href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</a></p>
-
 ## HOOFDSTUK 7. Inhoud bedrijfsadvies
 
 ### ART. 15.
@@ -150,8 +158,6 @@ Bij de aanvang van het bedrijfsadvies moet de erkende adviesdienst   duidelijk m
 10° bodembeheer;<br>
 11° bedrijfsmanagement.</p>
 
-<p>De bevoegde entiteit stelt een modelcontract bedrijfsadvies ter beschikking op de website van de Vlaamse overheid: <a href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</a></p>
-
 ## [HOOFDSTUK 7/1. Subsidiebedragen (ing. MB 19 februari 2019, art. 29, I: 25 maart 2019)]
 
 ### ART 16/1.
@@ -162,13 +168,32 @@ Conform artikel 22 van verordening (EU) nr. 702/2014 van de Commissie van 25 jun
 
 ### ART. 17.
 
-<P>De evaluatie, vermeld in artikel 9 van het besluit van de Vlaamse Regering   van 8 november 2013, moet uiterlijk veertien werkdagen na het laatste   bedrijfsbezoek ingediend worden.</P>  <P><BR>De bevoegde entiteit stelt een evaluatieformulier ter beschikking op de   website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+<p>De evaluatie, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 8 november 2013, moet uiterlijk veertien werkdagen na het laatste bedrijfsbezoek ingediend worden via het e-loket.</p>
 
 ## HOOFDSTUK 9. Administratieve procedure
 
+### ART 17/1.
+
+Het contract, vermeld in artikel 5 van het besluit van de Vlaamse Regering van 8 november 2013, is elektronisch beschikbaar via het e-loket.<br>
+<br>
+Het contract wordt door de landbouwer, de kandidaat-biologische landbouwer of de land- en tuinbouwschool en de erkende adviesdienst elektronisch ingevuld en ondertekend via het e-loket.
+
+### ART 17/2.
+
+De plaats en het tijdstip van de bedrijfsbezoeken en de annulering van een bedrijfsbezoek worden gemeld via het e-loket.
+
 ### ART. 18.
 
-<P>De uitbetalingsaanvraag, vermeld in artikel 8 van het besluit van de Vlaamse   Regering van 8 november 2013, moet uiterlijk zes maanden na het laatste   bedrijfsbezoek ingediend worden en moet minstens de volgende gegevens   bevatten:<BR>1° naam erkende adviesdienst;<BR>2° adviesprijs per type   uitgevoerde bedrijfsadvisering;<BR>3° subsidiebedrag per type uitgevoerde   bedrijfsadvisering;<BR>4° totaal bedrag adviesprijzen;<BR>5° totaal   subsidiebedrag.<BR></P>  <P>Aan die uitbetalingsaanvraag moeten minstens de volgende documenten worden   toegevoegd:<BR>1° een kopie van de factuur. De facturen bevatten ten minste de   volgende gegevens:<BR>a) in welk kader de bedrijfsadvisering uitgevoerd   werd;<BR>b) de totale advieskosten met een opsplitsing van het percentage van de   inbreng van de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool en het percentage van de subsidie;<BR>c) de bedrijfsadviseur of   bedrijfsadviseurs;<BR>d) de adviesperiode en de data van de adviezen;<BR>2° het   biobedrijfsplan. <BR></P>  <P>De bevoegde entiteit stelt een model van uitbetalingsaanvraag ter beschikking   op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+<p>De uitbetalingsaanvraag, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 november 2013, moet uiterlijk zes maanden na het laatste bedrijfsbezoek ingediend worden en moet minstens de volgende gegevens bevatten:<br>
+1° naam erkende adviesdienst;<br>
+2° een kopie van het biobedrijfsplan, het omschakelingsadvies, het startersadvies of het bedrijfsadvies;<br>
+3° subsidiebedrag per type uitgevoerde bedrijfsadvisering;<br>
+4° totaal bedrag adviesprijzen;<br>
+5° totaal subsidiebedrag.</p>
+
+<p>De uitbetalingsaanvraag en de documenten worden ingediend via het e-loket.</p>
+
+<p>De bevoegde entiteit stelt een model van uitbetalingsaanvraag ter beschikking op de website van de Vlaamse overheid: <a href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</a></p>
 
 ### ART. 19.
 
@@ -176,7 +201,7 @@ Na de administratieve, inhoudelijke en steekproefsgewijze controles wordt   de s
 
 ### ART. 20.
 
-De bevoegde entiteit bezorgt alle biologische landbouwers jaarlijks een   overzicht van de nog beschikbare subsidiebedragen voor de   bedrijfsadvisering.
+...
 
 ## HOOFDSTUK 10. Slotbepalingen
 
