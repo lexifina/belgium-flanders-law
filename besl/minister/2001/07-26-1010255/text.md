@@ -206,7 +206,7 @@ Het al dan niet toestaan van een afwijking op de norm van 20 % door de bevoegde 
 STAP 5 :<br>
 Op de vastgestelde bijdrage (stap 1 tot en met 4) kunnen door de diensten voor gezinszorg en aanvullende thuiszorg facultatieve toeslagen worden toegepast in het kader van het verlenen van hulp- en dienstverlening op onregelmatige uren.<br>
 <br>
-De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 30 % voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 67 % voor de uren gezinszorg die verleend worden op zon- en feestdagen.<br>
+De diensten verhogen de vastgestelde bijdrage in dat geval met een toeslag van 30% voor de uren gezinszorg die verleend worden op weekdagen tussen 20 uur en 7 uur en op zaterdagen, en met een toeslag van 100% voor de uren gezinszorg die verleend worden op zon- en feestdagen.<br>
 <br>
 De diensten voor gezinszorg en aanvullende thuiszorg die de toeslag voor onregelmatige prestaties toepassen, passen deze toe voor alle gebruikers. De dienst voor gezinszorg en aanvullende thuiszorg kan niet per individuele gebruiker beslissen of de toeslag al dan niet aangerekend wordt.<br>
 <br>

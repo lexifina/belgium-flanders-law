@@ -2,16 +2,16 @@
   "codex_id": 1010255,
   "title": "Ministerieel besluit van 2001-07-26 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010255/VolledigDocument?datum=2016-09-01",
-  "source_sha256": "0947c7a4e0373d692bc5fc930296da256837f7bad9881420b66b87608de6dd0a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010255/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "1b5c79d1a917132df423581502ad8dec34ca4424630b17f979904280060b22ab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010255&param=informatie",
-  "as_of": "2016-09-01",
+  "as_of": "2019-04-01",
   "made": "2001-07-26",
   "gazette": "2002-12-12",
   "numac": 2002036498,
   "document_start": null,
   "document_end": null,
-  "in_force": "2016-09-01",
+  "in_force": "2019-04-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
 }
