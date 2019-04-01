@@ -351,7 +351,7 @@ Als een openbaar onderzoek wordt georganiseerd over de gewijzigde vergunningsaan
 
 <p>In afwijking van het eerste lid, worden de termijnen, vermeld in paragraaf 1, als termijnen van orde beschouwd als de vergunningsaanvraag het gevolg is van een wijziging of aanvulling van de indelingslijst waardoor een milieueffectrapport of een omgevingsveiligheidsrapport moet worden opgesteld of een passende beoordeling moet worden uitgevoerd. In voorkomend geval mag de exploitatie worden voortgezet tot een definitieve beslissing wordt genomen over de vergunningsaanvraag.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 33.
 
@@ -452,13 +452,13 @@ Wijzigingen aan de vergunningsaanvraag kunnen worden toegestaan als voldaan is a
 
 ### ART. 46.
 
-<p>§ 1.De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van zestig dagen.</p>
+<p>§ 1. De bevoegde overheid, vermeld in artikel 15, neemt een beslissing over een vergunningsaanvraag binnen een termijn van zestig dagen.</p>
 
 <p>De termijn gaat altijd in op de dag na de datum dat de vergunningsaanvraag ontvankelijk en volledig wordt verklaard of, bij ontstentenis van een beslissing daarover, de dertigste dag na de datum waarop de aanvraag is ingediend hetzij na de ontvangst van de ontbrekende gegevens of documenten.</p>
 
 <p>§ 2. Als geen beslissing is genomen binnen de vastgestelde termijn, wordt de omgevingsvergunning geacht te zijn geweigerd.<br>
 <br>
-§ 3. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1, dan moet de omgevingsvergunning worden geweigerd.</p>
+§ 3. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de&nbsp;archeologienota waarvan akte is genomen is bezorgd. Als er geen archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 47.
 
@@ -622,7 +622,7 @@ Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval ver
 <br>
 § 4. Artikel 33 en 34 zijn van overeenkomstige toepassing op de beslissing.<br>
 <br>
-§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een archeologienota die is ingediend ter bekrachtiging werd toegevoegd bij de aanvraag, maar een beslissing nemen als de bekrachtigde archeologienota is bezorgd. Als er geen bekrachtigde archeologienota is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
+§ 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
 
 ### ART. 67.
 
@@ -938,7 +938,7 @@ De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de 
 
 De termijnen van twee, drie of vijf jaar, vermeld in artikel 99,&nbsp;in voorkomend geval verlengd conform artikel 99, § 1 worden geschorst zolang een beroep tot vernietiging van de omgevingsvergunning aanhangig is bij de Raad voor Vergunningsbetwistingen, overeenkomstig hoofdstuk 9 behoudens indien de vergunde handelingen in strijd zijn met een vóór de definitieve uitspraak van de Raad van kracht geworden ruimtelijk uitvoeringsplan. In dat laatste geval blijft het eventuele recht op planschadevergoeding desalniettemin behouden.<br>
 <br>
-De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1,&nbsp;worden geschorst tijdens het uitvoeren van de archeologische opgraving, omschreven in de bekrachtigde archeologienota overeenkomstig artikel 5.4.8 van het Onroerenderfgoeddecreet van 12 juli 2013 en in de bekrachtigde nota overeenkomstig artikel 5.4.16 van het Onroerenderfgoeddecreet van 12 juli 2013, met een maximumtermijn van een jaar vanaf de aanvangsdatum van de archeologische opgraving.<br>
+De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1,&nbsp;worden geschorst tijdens het uitvoeren van de archeologische opgraving, omschreven in de&nbsp;archeologienota waarvan akte is genomen overeenkomstig artikel 5.4.9 van het Onroerenderfgoeddecreet van 12 juli 2013 en in de&nbsp;nota waarvan akte is genomen overeenkomstig artikel 5.4.17 van het Onroerenderfgoeddecreet van 12 juli 2013, met een maximumtermijn van een jaar vanaf de aanvangsdatum van de archeologische opgraving.<br>
 <br>
 De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend geval verlengd conform artikel 99, § 1, worden geschorst tijdens het uitvoeren van de bodemsaneringswerken van een bodemsaneringsproject waarvoor de OVAM overeenkomstig artikel 50, § 1, van het Bodemdecreet van 27 oktober 2006 een conformiteitsattest heeft afgeleverd, met een maximumtermijn van drie jaar vanaf de aanvangsdatum van de bodemsaneringswerken.<br>
 <br>
@@ -952,7 +952,13 @@ De termijnen van twee, drie of vijf jaar, vermeld in artikel 99, in voorkomend g
 
 ### ART. 103.
 
-De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102,   worden geschorst zolang een beroep tot vernietiging van de omgevingsvergunning   aanhangig is bij de Raad voor Vergunningsbetwistingen, overeenkomstig hoofdstuk   9, behoudens als de verkaveling in strijd is met een vóór de datum van de   definitieve uitspraak van de Raad van kracht geworden ruimtelijk   uitvoeringsplan. In dat laatste geval blijft het eventuele recht op   planschadevergoeding desalniettemin behouden.<BR><BR>De termijnen van vijf, tien   of vijftien jaar, vermeld in artikel 102, worden geschorst tijdens het uitvoeren   van de archeologische opgraving, omschreven in de bekrachtigde archeologienota   overeenkomstig artikel 5.4.8 van het Onroerenderfgoeddecreet van 12 juli 2013 en   in de bekrachtigde nota overeenkomstig artikel 5.4.16 van het   Onroerenderfgoeddecreet van 12 juli 2013, met een maximumtermijn van een jaar   vanaf de aanvangsdatum van de archeologische opgraving.<BR><BR>De termijnen van   vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst tijdens   het uitvoeren van de bodemsaneringswerken van een bodemsaneringsproject waarvoor   de OVAM overeenkomstig artikel 50, § 1, van het Bodemdecreet van 27 oktober 2006   een conformiteitsattest heeft afgeleverd, met een maximumtermijn van drie jaar   vanaf de aanvangsdatum van de bodemsaneringswerken.<BR><BR>De termijnen van   vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst zolang een   bekrachtigd stakingsbevel, zoals vermeld in titel VI, niet wordt ingetrokken,   hetzij niet wordt opgeheven bij een in kracht van gewijsde gegane beslissing. De   schorsing eindigt van rechtswege wanneer geen opheffing van het stakingsbevel   wordt gevorderd of geen intrekking wordt gedaan binnen een termijn van twee jaar   vanaf de bekrachtiging van het stakingsbevel.<BR>
+De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst zolang een beroep tot vernietiging van de omgevingsvergunning aanhangig is bij de Raad voor Vergunningsbetwistingen, overeenkomstig hoofdstuk 9, behoudens als de verkaveling in strijd is met een vóór de datum van de definitieve uitspraak van de Raad van kracht geworden ruimtelijk uitvoeringsplan. In dat laatste geval blijft het eventuele recht op planschadevergoeding desalniettemin behouden.<br>
+<br>
+De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst tijdens het uitvoeren van de archeologische opgraving, omschreven in de&nbsp;archeologienota waarvan akte is genomen overeenkomstig artikel 5.4.9 van het Onroerenderfgoeddecreet van 12 juli 2013 en in de&nbsp;nota waarvan akte is genomen overeenkomstig artikel 5.4.17 van het Onroerenderfgoeddecreet van 12 juli 2013, met een maximumtermijn van een jaar vanaf de aanvangsdatum van de archeologische opgraving.<br>
+<br>
+De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst tijdens het uitvoeren van de bodemsaneringswerken van een bodemsaneringsproject waarvoor de OVAM overeenkomstig artikel 50, § 1, van het Bodemdecreet van 27 oktober 2006 een conformiteitsattest heeft afgeleverd, met een maximumtermijn van drie jaar vanaf de aanvangsdatum van de bodemsaneringswerken.<br>
+<br>
+De termijnen van vijf, tien of vijftien jaar, vermeld in artikel 102, worden geschorst zolang een bekrachtigd stakingsbevel, zoals vermeld in titel VI, niet wordt ingetrokken, hetzij niet wordt opgeheven bij een in kracht van gewijsde gegane beslissing. De schorsing eindigt van rechtswege wanneer geen opheffing van het stakingsbevel wordt gevorderd of geen intrekking wordt gedaan binnen een termijn van twee jaar vanaf de bekrachtiging van het stakingsbevel.
 
 ## Afdeling 3 Afstand van de omgevingsvergunning voor het verkavelen van gronden
 
