@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030454,
+  "title": "Ministerieel besluit van 2019-02-04 houdende de vastlegging van de middelen voor de subsidiëring van de aankoop van personenalarmtoestellen in 2019",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030454/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "6c1b8da44ec80cbc78c8d93aca768a1ce3d5a69808795cac07bd0738aacbc58e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030454&param=informatie",
+  "as_of": "2019-04-01",
+  "made": "2019-02-04",
+  "gazette": "2019-03-22",
+  "numac": 2019040681,
+  "document_start": "2019-04-01",
+  "document_end": null,
+  "in_force": "2019-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
