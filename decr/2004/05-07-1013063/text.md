@@ -104,8 +104,8 @@ e) het toekennen van tegemoetkomingen voor stages, met inbegrip van stage-uitker
 <br>
 4° taken inzake de evenredige participatie op de arbeidsmarkt in het algemeen: het bijdragen tot de tenuitvoerlegging van het Vlaams werkgelegenheidsbeleid als bedoeld in artikel 2, 12°, van het decreet van 8 mei 2002 en zulks op een dermate wijze dat gestreefd wordt naar de verwezenlijking van de doelstellingen die in artikel 5 van het decreet van 8 mei 2002 zijn vooropgesteld;<br>
 <br>
-5° taken voor de integratie van&nbsp;personen met een arbeidshandicap en doelgroepwerknemers in het bijzonder :<br>
-a) de toekenning van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap en doelgroepwerknemers. De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de personen met een arbeidshandicap en doelgroepwerknemers moeten voldoen;<br>
+5° taken voor de integratie vanpersonen met een arbeidshandicap en doelgroepwerknemers in het bijzonder :<br>
+a) de toekenning van tegemoetkomingen ter ondersteuning van de inschakeling op de arbeidsmarkt van de personen met een arbeidshandicap en doelgroepwerknemers. De Vlaamse Regering bepaalt de aard van de tegemoetkomingen, de procedure die wordt gehanteerd en de bijkomende voorwaarden waaraan de&nbsp;personen met een arbeidshandicap en doelgroepwerknemers moeten voldoen;<br>
 b) de verzorging van de trajectbegeleiding, de beroepsoriëntering, de competentieontwikkeling en de verlening van toegang tot de gesubsidieerde tewerkstelling in de maatwerkbedrijven en de maatwerkafdelingen;<br>
 c) de erkenning en subsidiëring van organisaties die instaan voor het verzorgen van de trajectbegeleiding, de beroepsoriëntering en de competentieontwikkeling;<br>
 <br>
@@ -128,6 +128,13 @@ d) ze verrichten geen beroepsarbeid of zelfstandige activiteit.<br>
 De Vlaamse Regering bepaalt, na advies van de raad van bestuur, wat onder passend aanbod en diploma of getuigschrift moet worden verstaan.<br>
 <br>
 10° de VDAB is bevoegd voor de controle op de openbare centra voor maatschappelijk welzijn wat betreft de toekenning en aanwending van toelagen voor tewerkstelling in het kader van artikel 57quater, 60, § 7, en 61 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn. De VDAB is ook bevoegd om de ten onrechte toegekende toelagen terug te vorderen van de openbare centra voor maatschappelijk welzijn.<br>
+<br>
+11° taken met betrekking tot de terugbetaling van de outplacementkosten aan werkgevers in herstructurering.<br>
+De Vlaamse Regering bepaalt na advies van de raad van bestuur van de VDAB de volgende aspecten van die terugbetaling:<br>
+a) de situaties waarin de kosten terugbetaald kunnen worden;<br>
+b) de voorwaarden om voor een terugbetaling in aanmerking te komen;<br>
+c) de hoogte van de bedragen van de terugbetaling;<br>
+d) de wijze waarop de aanvraag tot terugbetaling ingediend wordt en de formaliteiten waaraan ze moet voldoen.<br>
 <br>
 § 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en/of geconcretiseerd.<br>
 <br>
@@ -308,6 +315,7 @@ Het elektronische platform heeft in het bijzonder tot doel :<br>
 2° elk individu ondersteuning te bieden bij de competentieontwikkeling in functie van de loopbaan;<br>
 3° herkenning en erkenning van competenties door werkgevers en overheden te bevorderen in functie van de loopbaan en perspectieven op de arbeidsmarkt;<br>
 4° ondersteuning te bieden aan de VDAB bij de uitvoering van zijn taken van universele dienstverlening.<br>
+5° te fungeren als een communicatiekanaal voor elektronische communicatie als vermeld in afdeling 4 van dit hoofdstuk.<br>
 <br>
 Elke werkzoekende heeft ook recht op een basisdossier, waarin de VDAB de gegevens die relevant zijn voor de dienstverlening, uit het persoonlijke bestand kan overnemen.
 
