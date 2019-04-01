@@ -26,6 +26,21 @@ b) als de kennisgeving is gebeurd per e-mail: vanaf de datum van de verzending, 
 <br>
 "28° /1 ingreep in de bodem: elke wijziging van de eigenschappen van de ondergrond door de verwijdering of toevoeging van materie, de verhoging of verlaging van de grondwatertafel, of het samendrukken van de materialen waaruit de ondergrond bestaat. Voor de berekening van de totale oppervlakte van de ingreep in de bodem wordt rekening gehouden met de oppervlakte van de vergunningsplichtige werken of handelingen zoals opgenomen in de vergunningsaanvraag;".
 
+### ART 3.
+
+In artikel 3.5.1 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De Vlaamse Regering bepaalt:<br>
+1° de erkenningstypes;<br>
+2° de erkenningsvoorwaarden;<br>
+3° de nadere regels voor de erkenning en de duur, de schorsing en de intrekking ervan en de administratieve beroepsprocedure.".
+
+### ART 4.
+
+In artikel 3.5.2 van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2017, wordt het tweede lid vervangen door wat volgt:<br>
+<br>
+"De Vlaamse Regering bepaalt het erkenningstype van het agentschap.".
+
 ### ART 5.
 
 In artikel 4.1.3, vierde lid, van hetzelfde decreet worden de woorden "per beveiligde zending" vervangen door het woord "schriftelijk".
@@ -43,6 +58,296 @@ In artikel 4.1.6, eerste lid, 1°, artikel 4.1.7, artikel 6.1.4, § 2, tweede li
 ### ART 8.
 
 In artikel 4.1.11, eerste lid, van hetzelfde decreet worden tussen het woord "opstalrecht" en het woord "overdraagt" de woorden "vestigt of" ingevoegd.
+
+### ART 9.
+
+In artikel 5.1.3 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de woorden "en zonder melding aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente" opgeheven.
+
+### ART 10.
+
+In artikel 5.4.1 van hetzelfde decreet, vervangen bij het decreet van 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid, inleidende zin, wordt het woord "verkrijgen" vervangen door het woord "aanvragen" en wordt het woord "bekrachtigd" vervangen door het woord "gemeld";<br>
+<br>
+2° in het eerste lid, 2°, wordt tussen de woorden "oppervlakte van de" en het woord "ingreep", het woord "vergunningsplichtige" ingevoegd;<br>
+<br>
+3° in het eerste lid, 3°, wordt tussen de woorden "oppervlakte van de" en het woord "ingreep", het woord "vergunningsplichtige" ingevoegd;<br>
+<br>
+4° in het derde lid, 2°, 3° en 4°, wordt telkens tussen de woorden "oppervlakte van de" en het woord "ingreep", het woord "vergunningsplichtige" ingevoegd;<br>
+<br>
+5° in het derde lid, 5°, wordt tussen het woord "bijkomende" en het woord "ingreep", het woord "vergunningsplichtige" ingevoegd;<br>
+<br>
+6° in het derde lid, 6°, wordt tussen het woord "alle" en het woord "ingrepen", het woord "vergunningsplichtige" ingevoegd;<br>
+<br>
+7° aan het derde lid worden een punt 8° en een punt 9° toegevoegd, die luiden als volgt:<br>
+<br>
+"8° indien de aanvraag betrekking heeft op werkzaamheden binnen het gabarit van bestaande lijninfrastructuur en haar aanhorigheden;<br>
+9° indien de aanvraag geheel betrekking heeft op percelen binnen het grondgebied van een erkende onroerenderfgoedgemeente waarvoor de gemeenteraad in een gemeentelijk reglement een vrijstelling heeft voorzien en de aanvraag geen betrekking heeft op beschermde goederen of op percelen die geheel of gedeeltelijk gelegen zijn in een archeologische zone, opgenomen in de vastgestelde inventaris van archeologische zones. De vrijstellingen in het gemeentelijk reglement zijn gebaseerd op onderzoek naar de archeologische situatie in de betrokken gemeente door een erkende archeoloog in dienst van de erkende onroerenderfgoedgemeente en hebben betrekking op percelen met een oppervlakte van 5000 m² of minder.";<br>
+<br>
+8° in het vijfde lid worden de woorden "al bekrachtigde archeologienota" vervangen door de woorden "archeologienota waarvan al akte is genomen", worden de woorden "in de bekrachtigde archeologienota" vervangen door de woorden "in de archeologienota waarvan akte is genomen", worden de woorden "bekrachtigde nota" vervangen door de woorden "nota waarvan akte is genomen" en wordt tussen de woorden "ingreep in de bodem van de" en het woord "werkzaamheden", het woord "vergunningsplichtige" ingevoegd.
+
+### ART 11.
+
+In artikel 5.4.2 van hetzelfde decreet, vervangen bij het decreet van 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid, inleidende zin, wordt het woord "verkrijgen" vervangen door het woord "aanvragen" en wordt het woord "bekrachtigd" vervangen door het woord "gemeld";<br>
+<br>
+2° in het vijfde lid wordt het woord "bekrachtigde" vervangen door het woord "gemelde";<br>
+<br>
+3° in het zesde lid worden de woorden "reeds bekrachtigde archeologienota" vervangen door de woorden "archeologienota waarvan al akte is genomen", worden de woorden "in de bekrachtigde archeologienota" vervangen door de woorden "in de archeologienota waarvan akte is genomen" en worden de woorden "bekrachtigde nota" vervangen door de woorden "nota waarvan akte is genomen".
+
+### ART 12.
+
+In artikel 5.4.3 van hetzelfde decreet, vervangen bij het decreet van 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt de zinsnede "om de in artikelen 5.4.1 en 5.4.2 vermelde bekrachtigde archeologienota te verkrijgen" vervangen door de zinsnede "in de gevallen, vermeld in artikel 5.4.1 en 5.4.2 om een archeologienota waarvan akte is genomen te verkrijgen";<br>
+<br>
+2° in het tweede lid worden de woorden "De bekrachtigde archeologienota of de archeologienota die is ingediend ter bekrachtiging" vervangen door de woorden "De archeologienota waarvan akte is genomen of de gemelde archeologienota";<br>
+<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+<br>
+"Als bij de aanvraag een gemelde archeologienota is toegevoegd, bezorgt de aanvrager de archeologienota waarvan akte is genomen aan de vergunningverlenende overheid voor het verstrijken van de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning.".
+
+### ART 13.
+
+In artikel 5.4.4 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 15 juli 2016 en 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "bekrachtigde archeologienota" telkens vervangen door de woorden "archeologienota waarvan akte is genomen", wordt de zinsnede "artikel 5.4.8" vervangen door de zinsnede "artikel 5.4.9", wordt de zinsnede "artikel 5.4.16" vervangen door de zinsnede "artikel 5.4.17" en worden de woorden "bekrachtigde nota" vervangen door de woorden "nota waarvan akte is genomen";<br>
+<br>
+2° in het tweede lid worden de woorden "bekrachtigde archeologienota" vervangen door de woorden "archeologienota waarvan akte is genomen" en worden de woorden "per beveiligde zending" vervangen door de woorden "schriftelijk";<br>
+<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+<br>
+"De verlener in eerste of laatste administratieve aanleg van de omgevingsvergunning voor stedenbouwkundige handelingen of de omgevingsvergunning voor het verkavelen van gronden kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van dit decreet, waarbij een gemelde archeologienota toegevoegd is, alleen maar een beslissing nemen binnen de vervaltermijnen, vermeld in artikel 32, § 1, § 2 en § 3, artikel 46, § 1, en artikel 66, § 1, § 2, § 2/1 en § 3, van het decreet van 25 april 2014 betreffende de omgevingsvergunning, als de aktename van de gemelde archeologienota bezorgd is door de vergunningsaanvrager voorafgaand aan het verlenen van de vergunning.".
+
+### ART 14.
+
+In artikel 5.4.5 van hetzelfde decreet, gewijzigd bij de decreten van 24 april 2014 en 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid wordt het woord "dient" vervangen door het woord "meldt" en worden de woorden "als te bekrachtigen" vervangen door de woorden "de vorm van een";<br>
+<br>
+2° in het tweede lid worden de woorden "dient de erkende archeoloog de archeologienota in bij het agentschap" vervangen door de woorden "meldt de erkende archeoloog de archeologienota aan het agentschap".
+
+### ART 15.
+
+Artikel 5.4.6 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.6. § 1. De door de initiatiefnemer aangestelde erkende archeoloog vraagt via het digitale platform dat het agentschap daarvoor beschikbaar stelt, aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente een toelating om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren.<br>
+<br>
+Als het archeologisch vooronderzoek met ingreep in de bodem betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, vraagt de erkende archeoloog een toelating tot het uitvoeren ervan aan het agentschap.<br>
+<br>
+De aanvraag tot toelating bevat minstens de volgende gegevens:<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
+5° de aanleiding voor het archeologisch vooronderzoek;<br>
+6° de voorgestelde uitvoeringswijze.<br>
+<br>
+De Vlaamse Regering kan de in de aanvraag tot toelating op te nemen gegevens nader omschrijven of uitbreiden.<br>
+<br>
+§ 2. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente neemt een beslissing over de aanvraag tot toelating binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de aanvraag is ingediend. Als die termijn wordt overschreden, wordt de toelating geacht goedgekeurd te zijn. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt de beslissing per beveiligde zending aan de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. De beslissing vermeldt de voorwaarden die van toepassing zijn.<br>
+<br>
+§ 3. Als het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem weigert of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.".
+
+### ART 16.
+
+In artikel 5.4.7 van hetzelfde decreet wordt het woord "melding" vervangen door de woorden "aanvraag tot toelating".
+
+### ART 17.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt het opschrift van onderafdeling 4 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 4. Verplichtingen aangestelde erkende archeoloog - Melding archeologienota".
+
+### ART 18.
+
+Artikel 5.4.8 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.8. Na het beëindigen van het archeologisch vooronderzoek meldt de door de initiatiefnemer gemachtigde archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente via het digitale platform dat het agentschap daarvoor beschikbaar stelt. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de archeologienota aan het agentschap.<br>
+<br>
+Die archeologienota bevat minstens de volgende gegevens:<br>
+1° een plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig worden afgelijnd;<br>
+2° de resultaten van het archeologisch vooronderzoek;<br>
+3° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
+4° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
+5° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
+6° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek en de archeologische opgraving.<br>
+<br>
+De archeologienota kan:<br>
+1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.<br>
+<br>
+De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.".
+
+### ART 19.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt het opschrift van onderafdeling 5 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 5. Verplichtingen aangestelde erkende archeoloog - Aktename archeologienota".
+
+### ART 20.
+
+Artikel 5.4.9 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.9. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde archeologienota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde archeologienota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de archeologienota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor de in de archeologienota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.1 en 5.4.2, overeenstemmen met de werken zoals omschreven in de archeologienota waarvan akte is genomen. De Vlaamse Regering kan de nadere regels daarvoor bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de archeologienota waarvan akte is genomen ten aanzien van alle belanghebbenden.".
+
+### ART 21.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt het opschrift van onderafdeling 6 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 6. Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen".
+
+### ART 22.
+
+Artikel 5.4.11 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.11. De archeologische opgraving, die beperkt is tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de aktename en de code van goede praktijk. Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.".
+
+### ART 23.
+
+Artikel 5.4.12 van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014 en 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.12. In het geval dat er alleen een archeologisch vooronderzoek zonder ingreep in de bodem plaatsvond omdat een archeologisch vooronderzoek met ingreep in de bodem onmogelijk of juridisch, economisch of maatschappelijk onwenselijk was voorafgaand aan het aanvragen van de omgevingsvergunning voor stedenbouwkundige handelingen of voor het verkavelen van gronden, meldt de door de initiatiefnemer aangestelde erkende archeoloog een archeologienota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente via het digitale platform dat het agentschap daarvoor beschikbaar stelt. Als de archeologienota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de archeologienota bij het agentschap.<br>
+<br>
+Die archeologienota bevat minstens de volgende gegevens:<br>
+1° de naam en het adres van de initiatiefnemer;<br>
+2° het erkenningsnummer van de erkende archeoloog;<br>
+3° de woonplaats of maatschappelijke zetel van de erkende archeoloog;<br>
+4° de locatie van het archeologisch vooronderzoek met in voorkomend geval de kadastrale gegevens van de betrokken percelen;<br>
+5° de redenen en motivering waarom het vooronderzoek voor het indienen van de vergunning beperkt wordt tot een vooronderzoek zonder ingreep in de bodem;<br>
+6° de resultaten van het archeologisch vooronderzoek zonder ingreep in de bodem;<br>
+7° een plan waarop de betrokken percelen, de precieze plaats van het archeologisch vooronderzoek en de geplande werken nauwkeuring worden afgelijnd;<br>
+8° de voorgestelde uitvoeringswijze van het archeologisch vooronderzoek met ingreep in de bodem.<br>
+<br>
+De Vlaamse Regering kan de in de archeologienota op te nemen gegevens nader omschrijven of uitbreiden.".
+
+### ART 24.
+
+Artikel 5.4.13 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.13. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde archeologienota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde archeologienota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de archeologienota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor het archeologisch vooronderzoek met ingreep in de bodem. De Vlaamse Regering kan de nadere regels daarvoor bepalen.".
+
+### ART 25.
+
+Artikel 5.4.14 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.14. De erkende archeoloog aangesteld door de initiatiefnemer, meldt de aanvang van het archeologisch vooronderzoek met ingreep in de bodem, opgenomen in de archeologienota waarvan akte is genomen, aan het agentschap en in voorkomend geval aan de erkende onroerenderfgoedgemeente. De Vlaamse Regering kan de nadere regels daarvoor bepalen.".
+
+### ART 26.
+
+Artikel 5.4.15 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.15. Het archeologisch vooronderzoek met ingreep in de bodem moet worden uitgevoerd overeenkomstig de uitvoeringswijze in de archeologienota waarvan akte is genomen, de eventuele voorwaarden van het agentschap of de erkende onroerenderfgoedgemeente in de aktename en de code van goede praktijk.".
+
+### ART 27.
+
+Artikel 5.4.16 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.16. Na het beëindigen van het archeologisch vooronderzoek met ingreep in de bodem meldt de erkende archeoloog een nota aan het agentschap of in voorkomend geval aan de erkende onroerenderfgoedgemeente. Als de nota betrekking heeft op percelen die op het grondgebied van meerdere gemeenten liggen, meldt de erkende archeoloog de nota aan het agentschap.<br>
+<br>
+Die nota bevat minstens de volgende gegevens:<br>
+1° de resultaten van het archeologisch vooronderzoek met ingreep in de bodem;<br>
+2° een gemotiveerd advies over het al dan niet moeten nemen van maatregelen met in voorkomend geval een programma hierover;<br>
+3° in voorkomend geval de noodzakelijke competenties die de uitvoerders van de voorgestelde maatregelen moeten bezitten;<br>
+4° in voorkomend geval een kostenraming en de geschatte duur van de voorgestelde maatregelen;<br>
+5° in voorkomend geval een gemotiveerd voorstel over het bewaren of deponeren van het archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek met ingreep in de bodem en de archeologische opgraving.<br>
+<br>
+De nota kan:<br>
+1° voorzien in een fasering van de in voorkomend geval uit te voeren archeologische opgravingen;<br>
+2° voorzien dat delen van de kadastrale percelen waar de ingreep in de bodem is gepland van archeologische opgraving worden vrijgesteld.<br>
+<br>
+De Vlaamse Regering kan de in de nota op te nemen gegevens nader omschrijven of uitbreiden.".
+
+### ART 28.
+
+Artikel 5.4.17 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.17. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente gaat na of de gemelde nota in overeenstemming is met de code van goede praktijk, vermeld in artikel 5.3.1. In bevestigend geval neemt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente akte van de melding. Als het voorgestelde programma van maatregelen in de gemelde nota geen adequate omgang met het archeologisch erfgoed garandeert of geen nuttige kenniswinst oplevert, neemt het agentschap of de erkende onroerenderfgoedgemeente geen akte van de melding.<br>
+<br>
+Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente bezorgt binnen een termijn van vijftien dagen, die ingaat op de dag na de dag waarop de melding is ingediend, de meldingsakte per beveiligde zending aan de initiatiefnemer en de erkende archeoloog of stelt die digitaal ter beschikking via het daarvoor voorziene digitale platform. Het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente kan in de meldingsakte voorwaarden opleggen. Als de termijn van vijftien dagen wordt overschreden, wordt het agentschap of in voorkomend geval de erkende onroerenderfgoedgemeente geacht akte te hebben genomen van de archeologienota. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Als het agentschap of de erkende onroerenderfgoedgemeente van de nota akte neemt, er geen akte van neemt of er voorwaarden aan koppelt, kan de initiatiefnemer, de door de initiatiefnemer aangestelde erkende archeoloog of het agentschap een georganiseerd administratief beroep instellen bij de Vlaamse Regering. De Vlaamse Regering kan over het beroepschrift advies inwinnen bij de Vlaamse Commissie Onroerend Erfgoed. De Vlaamse Regering bepaalt de nadere regels daarvoor.<br>
+<br>
+In voorkomend geval geldt de aktename als toelating voor de in de nota omschreven archeologische opgraving in de mate dat de vergunde werken, vermeld in artikel 5.4.3, overeenstemmen met de werken zoals omschreven in de nota waarvan akte is genomen. De Vlaamse Regering kan de nadere regels daarvoor bepalen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels over het verspreiden van de informatie uit de nota waarvan akte is genomen ten aanzien van alle belanghebbenden.".
+
+### ART 29.
+
+Artikel 5.4.19 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.19. De archeologische opgraving, beperkt tot de zone die daadwerkelijk verstoord wordt door de geplande ingreep in de bodem, moet worden uitgevoerd overeenkomstig de voorwaarden van de aktename en de code van goede praktijk.<br>
+<br>
+Bij verkavelingsdossiers heeft de opgraving in voorkomend geval betrekking op de volledige zone die voor ontwikkeling in aanmerking komt en op het volledige projectgebied.".
+
+### ART 30.
+
+In artikel 5.4.20 van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "twee maanden" worden vervangen door de woorden "zestig dagen";<br>
+<br>
+2° de woorden "per beveiligde zending" worden vervangen door de woorden "via het digitale platform dat het agentschap daarvoor beschikbaar stelt".
+
+### ART 31.
+
+In artikel 5.4.21, eerste lid, van hetzelfde decreet worden de woorden "per beveiligde zending" vervangen door de zinsnede "via het digitale platform dat het agentschap daarvoor beschikbaar stelt,".
+
+### ART 32.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde besluit, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt het opschrift van onderafdeling 10 vervangen door wat volgt:<br>
+<br>
+"Onderafdeling 10. Databank van toelatingen en meldingen voor archeologisch vooronderzoek met ingreep in de bodem, archeologienota's en nota's".
+
+### ART 33.
+
+Artikel 5.4.22 van hetzelfde decreet, ingevoegd bij het decreet van 15 juli 2016, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5.4.22. Het agentschap stelt een databank van toelatingen en meldingen van vooronderzoek met ingreep in de bodem, archeologienota's en nota's digitaal beschikbaar. Die databank bevat:<br>
+1° de aanvragen tot toelating van een archeologisch vooronderzoek met ingreep in de bodem als vermeld in artikel 5.4.6, § 1, en de beslissing die daarover is genomen in eerste administratieve aanleg, vermeld in artikel 5.4.6, § 2;<br>
+2° de archeologienota's, vermeld in artikel 5.4.8, eerste lid, en artikel 5.4.12, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.9, eerste lid, en artikel 5.4.13, eerste lid;<br>
+3° de nota's, vermeld in artikel 5.4.16, eerste lid, en de beslissingen die daarover zijn genomen in eerste administratieve aanleg, vermeld in artikel 5.4.17, eerste lid;<br>
+4° de in beroep genomen beslissingen over de aanvragen tot toelating van archeologisch vooronderzoek met ingreep in de bodem, vermeld in artikel 5.4.6, § 3;<br>
+5° de in beroep genomen beslissingen over de archeologienota's, vermeld in artikel 5.4.9, derde lid, en artikel 5.4.13, derde lid;<br>
+6° de in beroep genomen beslissingen over de nota's, vermeld in artikel 5.4.17, derde lid;<br>
+7° de adviezen van de Vlaamse Commissie Onroerend Erfgoed over de in beroep genomen beslissingen over de aanvragen tot toelating van archeologisch vooronderzoek met ingreep in de bodem, de archeologienota's en de nota's, vermeld in artikel 5.4.6, § 3, artikel 5.4.9, derde lid, artikel 5.4.13, derde lid, en artikel 5.4.17, derde lid.<br>
+<br>
+De Vlaamse Regering kan de nadere regels over de vorm van de databank en de toegang ertoe bepalen.".
+
+### ART 34.
+
+Aan hoofdstuk 5, afdeling 4, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt een onderafdeling 11 toegevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 11. Digitaal platform voor archeologie".
+
+### ART 35.
+
+In hoofdstuk 5, afdeling 4, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 7 juli 2017, wordt aan onderafdeling 11, toegevoegd bij artikel 34, een artikel 5.4.23 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 5.4.23. Als het digitale platform, vermeld in de artikelen 5.4.6, 5.4.8, 5.4.12, 5.4.20, 5.4.21 en 5.5.4 omwille van technische redenen onbeschikbaar is, kan de erkende archeoloog of het agentschap indienen of verzenden per beveiligde zending.".
+
+### ART 36.
+
+In artikel 5.5.4 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het tweede lid worden de woorden "twee maanden" vervangen door de woorden "zestig dagen";<br>
+<br>
+2° in het tweede en het derde lid worden de woorden "per beveiligde zending" vervangen door de woorden "via het digitale platform dat het agentschap daarvoor ter beschikking stelt".
 
 ### ART 37.
 
@@ -207,6 +512,18 @@ In artikel 6.4.9 van hetzelfde decreet worden de volgende wijzigingen aangebrach
 <br>
 2° in het tweede lid wordt de zin "De partijen kunnen geen vordering tot vernietiging inroepen als de inbreuk op de informatieplicht is rechtgezet bij de authentieke akteverlening en de informatiegerechtigde in de akte verzaakt aan de vordering tot nietigverklaring op basis van een inbreuk op de informatieplicht." opgeheven.
 
+### ART 54.
+
+In artikel 10.2.1, eerste lid, van het hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, worden de volgende wijzingen aangebracht:<br>
+<br>
+1° punt 7° wordt vervangen door wat volgt:<br>
+<br>
+"7° premies toekennen voor archeologisch vooronderzoek met ingreep in de bodem bij vergunningsplichtige ingrepen in de bodem;";<br>
+<br>
+2° er wordt een punt 8° toegevoegd, dat luidt als volgt:<br>
+<br>
+"8° premies toekennen bij een buitensporige directe kost van de verplicht uit te voeren archeologische opgraving zoals opgenomen in de archeologienota of de nota waarvan akte is genomen.".
+
 ### ART 55.
 
 In artikel 10.2.1, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 15 juli 2016, wordt punt 3° opgeheven.
@@ -263,7 +580,53 @@ In artikel 11.5.18, eerste lid, van hetzelfde decreet worden de woorden "zes maa
 
 In artikel 11.6.2, derde lid, van hetzelfde decreet worden de woorden "twee maanden" vervangen door de woorden "zestig dagen".
 
+### ART 64.
+
+Aan hoofdstuk 12, afdeling 3, van hetzelfde decreet, gewijzigd bij de decreten van 25 april 2014, 3 juli 2015 en 15 juli 2016, wordt een onderafdeling 11 toegevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 11. Bekrachtiging van de archeologienota of nota en de melding van het voornemen van een archeologisch vooronderzoek met ingreep in de bodem".
+
+### ART 65.
+
+In hoofdstuk 12, afdeling 3, van hetzelfde decreet, gewijzigd bij de decreten van 3 juli 2015 en 15 juli 2016, wordt aan onderafdeling 11, toegevoegd bij artikel 64, een artikel 12.3.21 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 12.3.21. De bekrachtiging van een archeologienota of een nota overeenkomstig de bepalingen die golden voor de datum van de inwerkingtreding van dit artikel, wordt gelijkgesteld met een aktename van een gemelde archeologienota of nota.".
+
+### ART 66.
+
+In hoofdstuk 12, afdeling 3, van hetzelfde decreet wordt aan dezelfde onderafdeling 11, een artikel 12.3.22 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 12.3.22. De melding van het voornemen om een archeologisch onderzoek met ingreep in de bodem uit te voeren, gemeld overeenkomstig de bepalingen die golden voor de datum van de inwerkingtreding van dit artikel, en waarbij die melding niet werd geweigerd door het agentschap of in voorkomend geval de onroerenderfgoedgemeente, wordt gelijkgesteld met een toelating om een archeologisch vooronderzoek uit te voeren met ingreep in de bodem.".
+
+### ART 67.
+
+In artikel 32, § 5, artikel 46, § 3, en artikel 66 van het decreet van 25 april 2014 betreffende de omgevingsvergunning worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "archeologienota die is ingediend ter bekrachtiging" worden vervangen door de woorden "gemelde archeologienota";<br>
+<br>
+2° de woorden "bekrachtigde archeologienota" worden telkens vervangen door de woorden "archeologienota waarvan akte is genomen".
+
+### ART 68.
+
+In artikel 101, tweede lid, en artikel 103, tweede lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "bekrachtigde archeologienota" worden vervangen door de woorden "archeologienota waarvan akte is genomen";<br>
+<br>
+2° de woorden "bekrachtigde nota" worden vervangen door de woorden "nota waarvan akte is genomen".
+
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 69.
+
+De aanvragen van een omgevingsvergunning voor stedenbouwkundige handelingen en van een omgevingsvergunning voor het verkavelen van gronden die werden ingediend voor de datum van de inwerkingtreding van dit decreet en waarbij conform artikel 5.4.1 of 5.4.2 een archeologienota opgesteld moet worden, worden behandeld conform de regels die golden voor de datum van de inwerkingtreding van dit decreet.
+
+### ART 70.
+
+De meldingen van het voornemen om een archeologisch vooronderzoek met ingreep in de bodem uit te voeren die werden ingediend voor de datum van de inwerkingtreding van dit decreet, worden behandeld conform de regels die golden voor de datum van de inwerkingtreding van dit decreet.
+
+### ART 71.
+
+Archeologienota's of nota's die ter bekrachtiging werden ingediend voor de datum van de inwerkingtreding van dit decreet, worden behandeld conform de regels die golden voor de datum van de inwerkingtreding van dit decreet.
 
 ### ART 72.
 
