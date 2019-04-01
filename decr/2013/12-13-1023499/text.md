@@ -4563,6 +4563,16 @@ b) de koopwaren;<br>
 <br>
 Het eerste lid geldt niet voor kunstwerken als een of meer van die werken als betaling van de erfbelasting wordt aangeboden met toepassing van artikel 3.4.3.0.2.
 
+### ART. 3.3.1.0.9.
+
+De erfgenamen, algemene legatarissen en begiftigden en al wie gehouden is tot het indienen van een aangifte van nalatenschap, kunnen vóór de aangifte en uiterlijk vóór het verstrijken van de aangiftetermijn, vermeld in artikel 3.3.1.0.5, § 2, en 3.3.1.0.6, aan de bevoegde entiteit van de Vlaamse administratie een schatting vragen van het geheel of een deel van de onroerende goederen die zich in België bevinden en die voor hun verkoopwaarde moeten of kunnen worden aangegeven. De aanvragers kunnen bij hun aanvraag en bij het eventuele plaatsbezoek, vermeld in het derde lid, elementen aandragen die nuttig zijn voor die schatting.<br>
+<br>
+De bevoegde entiteit van de Vlaamse administratie bevestigt de ontvangst van de aanvraag binnen vijftien kalenderdagen.<br>
+<br>
+Als de bevoegde entiteit van de Vlaamse administratie een plaatsbezoek noodzakelijk acht, worden de aanvragers ingelicht over de datum en het uur waarop dat plaatsbezoek zal plaatsvinden.<br>
+<br>
+Het gemotiveerde resultaat van de schatting wordt schriftelijk ter kennis gebracht van de aanvragers. De schatting is bindend voor de bevoegde entiteit van de Vlaamse administratie en zal bijgevolg gebruikt worden voor de berekening van de erfbelasting.
+
 ### ART 3.3.1.0.9/1.
 
 § 1. De erfgenamen, algemene legatarissen en begiftigden en iedereen die ertoe gehouden is een aangifte van nalatenschap in te dienen, kunnen een schatter-expert aanstellen om een schatting te maken van het geheel of een deel van de onroerende goederen die zich in België bevinden en die voor hun verkoopwaarde moeten of kunnen worden aangegeven.<br>
