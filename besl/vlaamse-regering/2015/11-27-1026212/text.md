@@ -11,36 +11,29 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° basisaanbod :<br>
-a) voor een vergunde groepsopvang met een subsidie voor inkomenstarief : het aanbod, vermeld in artikel 20 van het Subsidiebesluit van 22 november 2013;<br>
-b) voor een erkende groepsopvang met een subsidie voor initiatief buitenschoolse opvang : het aanbod, vermeld in artikel 23 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+1° ...;<br>
 2° BND-project : een project buitenschoolse opvang van een buurt- en nabijheidsdienst dat geselecteerd is door de toenmalige raad van bestuur van Kind en Gezin op 26 mei 2004, en dat op basis daarvan in aanmerking kwam voor een subsidie tot en met 31 december 2007;<br>
 3° buitenschoolse opvang : de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet basisonderwijs van 25 februari 1997, gaan;<br>
-4° coördinatiepunt : een voorziening die erkend wordt door Kind en Gezin als coördinatiepunt om informatie te verstrekken over flexibele en occasionele opvang;<br>
+4° ...;<br>
 5° Departement WSE : het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
 6° doelgroepwerknemer : een werknemer werkzaam in een lokale diensteneconomieonderneming met vestiging op het grondgebied van het Vlaamse Gewest, vermeld in artikel 6 van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 7° erkende buitenschoolse groepsopvang : de buitenschoolse groepsopvang waarvoor de organisator een erkenning heeft van Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-8° flexibele openingstijden : een openingstijd van minstens 30 minuten voor 7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of, voor groepsopvang, op een of meer dagen boven op het minimumaantal openingsdagen voor een basisaanbod;<br>
-9° flexibele opvang : de buitenschoolse opvang of kinderopvang op flexibele openingstijden;<br>
+8° ...;<br>
+9° flexibele opvang : de buitenschoolse opvang op flexibele openingstijden als vermeld in artikel 1, 7°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 10° flexibele opvangpool : een organisator die door Kind en Gezin erkend wordt als flexibele opvangpool om doelgroepwerknemers in te zetten voor flexibele en occasionele opvang;<br>
-11° gemandateerde voorziening : een organisator die erkend wordt door Kind en Gezin als aanspreekpunt voor gezinnen om informatie te verstrekken over flexibele en occasionele opvang en voor het beheer van de flexibele opvangpool;<br>
+11° ...;<br>
 12° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 13° kinderopvang : de kinderopvang, vermeld in artikel 2, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
-14° kinderopvanglocatie : een kinderopvanglocatie als vermeld in artikel 2, eerste lid, 3°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
-15° lokale dienst : een lokale dienst voor buurtgerichte buitenschoolse opvang die erkend wordt door Kind en Gezin, om een toegankelijke en laagdrempelige buitenschoolse opvang te realiseren voor schoolgaande kinderen waarbij de participatie van kwetsbare gezinnen en een sterke lokale inbedding centraal staan;<br>
-16° occasionele opvang : de buitenschoolse opvang of kinderopvang van een kind gedurende een periode van maximaal zes maanden, ongeacht de intensiteit van het gebruik, om een van de volgende redenen :<br>
-a) de ouder werkt niet en start met een opleiding;<br>
-b) de ouder werkt niet en vindt plots werk;<br>
-c) de ouder neemt deel aan een sollicitatiegesprek;<br>
-d) er is een acute crisissituatie in het gezin;<br>
-e) er is behoefte aan draaglastvermindering gedurende een korte periode;<br>
-f) om sociale of pedagogische redenen zijn opvang en begeleiding buiten het eigen gezin gedurende de dag wenselijk;<br>
+14° ...;<br>
+15° lokale dienst : een lokale dienst voor buurtgerichte buitenschoolse opvang die een toestemming heeft van Kind en Gezin, om een toegankelijke en laagdrempelige buitenschoolse opvang te realiseren voor schoolgaande kinderen waarbij de participatie van kwetsbare gezinnen en een sterke lokale inbedding centraal staan;<br>
+16° occasionele opvang: de occasionele buitenschoolse opvang als vermeld in artikel 1, 14°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 17° opvang aan huis : de buitenschoolse opvang of kinderopvang die uitgevoerd wordt door de personeelsleden van een gemandateerde voorziening of een flexibele opvangpool in de gezinswoning van het kind;<br>
 18° opvanglocatie : de vestigingsplaats waar buitenschoolse opvang georganiseerd wordt;<br>
 19° plussubsidie : een subsidie als vermeld in artikel 1, 14°, van het Subsidiebesluit van 22 november 2013;<br>
 20° SERV : de Sociaal-Economische Raad van Vlaanderen, opgericht bij het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen;<br>
-21° subsidie voor inkomenstarief : een subsidie als vermeld in artikel 1, 17°, van het Subsidiebesluit van 22 november 2013;<br>
+21° subsidie voor dringende kinderopvang: een subsidie als vermeld in artikel 1, 14° /2, van het Subsidiebesluit van 22 november 2013;<br>
 22° subsidie voor initiatief buitenschoolse opvang : een subsidie als vermeld in artikel 19 tot en met 31 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+22° /1 subsidie voor ruimere openingsmomenten: een subsidie als vermeld in artikel 1, 17° /1, b), van het Subsidiebesluit van 22 november 2013;<br>
 23° VDAB : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 24° vergunde groepsopvang : de groepsopvang waarvoor de organisator een vergunning heeft van Kind en Gezin met toepassing van het Vergunningsbesluit van 22 november 2013;<br>
 25° zorggebied : een verzorgingsgebied als vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
@@ -48,7 +41,16 @@ f) om sociale of pedagogische redenen zijn opvang en begeleiding buiten het eige
 
 ### ART. 2.
 
-Kind   en Gezin en het Departement WSE kunnen binnen het begrotingskrediet een subsidie   toekennen aan een organisator volgens de voorwaarden, vermeld in dit besluit,   voor de realisatie van de volgende specifieke dienstverlening :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de coördinatie van flexibele en occasionele opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de competentieversterkende tewerkstelling en kwaliteitsvolle begeleiding van de   doelgroepwerknemers, zoals bepaald in het decreet van 22 november 2013   betreffende de lokale diensteneconomie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de laagdrempelige en buurtgerichte buitenschoolse opvang.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Kind en Gezin en het Departement WSE kunnen binnen het begrotingskrediet een subsidie toekennen aan een organisator volgens de voorwaarden, vermeld in dit besluit, voor de realisatie van de volgende specifieke dienstverlening :<br>
+1° een flexibele opvangpool buitenschoolse opvang;<br>
+2° de competentieversterkende tewerkstelling en kwaliteitsvolle begeleiding van de doelgroepwerknemers, zoals bepaald in het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+3° de laagdrempelige en buurtgerichte buitenschoolse opvang.
+
+### ART 2/1.
+
+Het Departement WSE kent de vergoeding toe conform hoofdstuk 7 van het decreet van 22 november 2013 betreffende de lokale diensteneconomie, en hoofdstuk 7 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie.<br>
+<br>
+Aan de lokalediensteneconomieondernemingen waaraan een label is toegekend conform artikel 63, § 1, van het voormelde besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie, wordt een tijdelijke vergoeding toegekend conform artikel 66 van het voormelde besluit.
 
 ## HOOFDSTUK 2 Besluit 2012/21/EU
 
@@ -72,7 +74,13 @@ De   organisator kan op de volgende wijze reserves opbouwen met de subsidies die
 
 ### ART. 7.
 
-<P>De   bedragen van de door Kind en Gezin toegekende subsidies, vermeld in dit besluit,   worden aangepast aan de evolutie van de levensduurte met toepassing van de wet   van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in   de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk   worden gekoppeld. De aanpassing gebeurt telkens twee maanden nadat het   viermaandelijks voortschrijdend gemiddelde van de gezondheidsindex een bepaalde   drempelwaarde overschrijdt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bedragen van de door het Departement WSE toegekende subsidies, vermeld in dit   besluit, worden aangepast volgens het gezondheidsindexcijfer, conform artikel 54   van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van   het decreet van 22 november 2013 betreffende de lokale   diensteneconomie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De bedragen van de subsidies, vermeld in dit besluit, worden aangepast aan de afgevlakte gezondheidsindex.</p>
+
+<p>Overeenkomstig artikel 89, eerste lid, 28° en 58°, van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt verstaan onder afgevlakte gezondheidsindex: het prijsindexcijfer, vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen, dat wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit.<br>
+<br>
+De toepassing van het eerste lid mag niet leiden tot een nominale vermindering van de subsidies, vermeld in het eerste lid.<br>
+<br>
+De aanpassing, vermeld in het eerste lid, gebeurt telkens twee maanden nadat de afgevlakte gezondheidsindex een bepaalde drempelwaarde overschrijdt.</p>
 
 ## HOOFDSTUK 4 Betalingsregeling
 
@@ -86,7 +94,7 @@ De   organisator kan op de volgende wijze reserves opbouwen met de subsidies die
 
 ### ART. 10.
 
-<P>Het   Departement WSE kent de vergoeding toe overeenkomstig hoofdstuk 7 van het   decreet van 22 november 2013 betreffende de lokale diensteneconomie, en   hoofdstuk 7 van het besluit van de Vlaamse Regering van 19 december 2014 tot   uitvoering van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Aan   de lokale diensteneconomieondernemingen waaraan een label is toegekend   overeenkomstig artikel 63, eerste lid, van het besluit van de Vlaamse Regering   van 19 december 2014 tot uitvoering van het decreet van 22 november 2013   betreffende de lokale diensteneconomie, wordt een tijdelijke vergoeding   toegekend overeenkomstig artikel 66 van het voormelde besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+...
 
 ## [Titel 2 Flexibele opvangpool buitenschoolse opvang (verv. BVR 14 december 2018, art. 6, I: 1 april 2019)]
 
@@ -94,27 +102,30 @@ De   organisator kan op de volgende wijze reserves opbouwen met de subsidies die
 
 ### ART. 11.
 
-Een   organisator van vergunde groepsopvang met een subsidie voor inkomenstarief of   van erkende groepsopvang met een subsidie voor initiatief buitenschoolse opvang   kan een of meer erkenningen krijgen als gemandateerde voorziening,   coördinatiepunt of flexibele opvangpool volgens de bepalingen, vermeld in dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Een organisator van erkende groepsopvang met een subsidie voor initiatief buitenschoolse opvang kan een erkenning krijgen als flexibele opvangpool conform de bepalingen, vermeld in dit besluit.
 
 ### ART. 12.
 
-<P>Aan   de erkenning als gemandateerde voorziening is de toekenning van een pool van   doelgroepwerknemers, een coördinatiefunctie en een bijbehorende subsidie   verbonden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Aan   de erkenning als coördinatiepunt is de toekenning van een coördinatiefunctie en   een bijbehorende subsidie verbonden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Aan   de erkenning als flexibele opvangpool is de toekenning van een pool van   doelgroepwerknemers en een bijbehorende subsidie verbonden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Aan de erkenning als flexibele opvangpool is de toekenning van een pool van doelgroepwerknemers en een bijbehorende subsidie verbonden.</p>
 
 ### ART. 13.
 
-Voor   Vlaanderen kan er per zorggebied maximaal één organisator erkend worden als   gemandateerde voorziening of als coördinatiepunt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 14.
 
-&nbsp;De erkenning als gemandateerde   voorziening, coördinatiepunt en flexibele opvangpool is in Vlaanderen gekoppeld   aan één zorggebied.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;De erkenning als&nbsp;flexibele opvangpool is in Vlaanderen gekoppeld aan één zorggebied.
 
 ### ART. 15.
 
-<P>Een   organisator komt alleen in aanmerking voor een erkenning als gemandateerde   voorziening of als flexibele opvangpool als hij aan een van de volgende   voorwaarden voldoet. De organisator :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   heeft minstens 75 erkende buitenschoolse opvangplaatsen met een subsidie voor   initiatief buitenschoolse opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   heeft minstens 75 vergunde kinderopvangplaatsen groepsopvang met een subsidie   voor inkomenstarief;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   kan aantonen dat hij voldoende competentie en ervaring heeft om een flexibele   opvangpool op te richten overeenkomstig de bepalingen, vermeld in dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Een   organisator komt alleen in aanmerking voor een erkenning als coördinatiepunt als   hij aan een van de volgende voorwaarden voldoet. De organisator :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   heeft minstens 75 erkende buitenschoolse opvangplaatsen met een subsidie voor   initiatief buitenschoolse opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   heeft minstens 75 vergunde kinderopvangplaatsen met een subsidie voor   inkomenstarief;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   toont aan dat hij voldoende competentie en ervaring heeft om een coördinatiepunt   op te richten overeenkomstig de bepalingen, vermeld in dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een organisator komt alleen in aanmerking voor een erkenning als&nbsp;flexibele opvangpool als hij aan een van de volgende voorwaarden voldoet. De organisator :<br>
+1° heeft minstens 75 erkende buitenschoolse opvangplaatsen met een subsidie voor initiatief buitenschoolse opvang;<br>
+2°...;<br>
+3° kan aantonen dat hij voldoende competentie en ervaring heeft om een flexibele opvangpool op te richten overeenkomstig de bepalingen, vermeld in dit besluit.</p>
 
 ### ART. 16.
 
-Een   organisator komt alleen in aanmerking voor een erkenning als gemandateerde   voorziening, coördinatiepunt of flexibele opvangpool voor een zorggebied als hij   minstens één kinderopvanglocatie of opvanglocatie heeft in dat zorggebied of in   een aangrenzend zorggebied.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Een organisator komt alleen in aanmerking voor een erkenning als&nbsp; flexibele opvangpool voor een zorggebied als hij minstens één opvanglocatie heeft in dat zorggebied of in een aangrenzend zorggebied.
 
 ### ART. 17.
 
@@ -126,7 +137,7 @@ Een   organisator kan een erkenning hebben voor verschillende zorggebieden. De  
 
 ### ART. 18.
 
-Om   een erkenning als gemandateerde voorziening te krijgen en te behouden, zorgt de   organisator ervoor dat de gemandateerde voorziening voldoet aan de voorwaarden,   vermeld in artikel 19 tot en met 34.
+...
 
 ## Afdeling 2 [... (opgeh. BVR 14 december 2018, art. 13, I: 1 april 2019)]
 
@@ -134,21 +145,21 @@ Om   een erkenning als gemandateerde voorziening te krijgen en te behouden, zorg
 
 ### ART. 19.
 
-<P>Om   een erkenning als coördinatiepunt te krijgen en te behouden, zorgt de   organisator ervoor dat het coördinatiepunt voldoet aan de voorwaarden, vermeld   in artikel 20 tot en met 22 van dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Naast   de voorwaarde, vermeld in het eerste lid, voldoet het coördinatiepunt aan de   voorwaarden, vermeld in het decreet van 22 november 2013 betreffende de lokale   diensteneconomie en in het besluit van de Vlaamse Regering van 19 december 2014   tot uitvoering van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+...
 
 ### ART. 20.
 
-Het   coördinatiepunt zorgt ervoor dat het binnen het gebied waarvoor het erkend is   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   bijdraagt tot de afstemming van vraag en aanbod van alle vormen van flexibele en   occasionele opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een toegankelijk en bereikbaar aanspreekpunt is voor de gezinnen die flexibele   of occasionele opvang zoeken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de gezinnen die flexibele of occasionele opvang zoeken :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   op de hoogte brengt van het aanbod in zijn gebied;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   informeert over alle mogelijke opvangvormen en samen met het gezin zoekt naar de   meest haalbare en wenselijke opvang. Daarbij houdt het coördinatiepunt altijd   rekening met het belang en de draagkracht van het betrokken kind;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   het initiatief neemt om het opvangaanbod te kennen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   het coördinatiepunt bekendmaakt bij de gezinnen, organisatoren en   toeleiders.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## Onderafdeling 2 [... (opgeh. BVR 14 december 2018, art. 13, I: 1 april 2019)]
 
 ### ART. 21.
 
-&nbsp;Het coördinatiepunt in Vlaanderen   beschikt minstens over een kwart voltijdse equivalente   coördinatiefunctie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 22.
 
-De   coördinator beschikt minstens over een kwalificatiebewijs van een met vrucht   voltooide opleiding in een richting van het hoger, niet-universitair onderwijs   van één cyclus, of van het hoger onderwijs voor sociale promotie van het korte   type. Gelijkwaardige kwalificatiebewijzen uit de Franse Gemeenschap, de   Duitstalige Gemeenschap en uit lidstaten van de Europese Unie of andere staten   waarmee een overeenkomst bestaat inzake de erkenning van beroepskwalificaties,   komen eveneens in aanmerking.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ## Afdeling 3 Flexibele opvangpool
 
@@ -170,7 +181,9 @@ De   mogelijkheid tot flexibele of occasionele opvang mag niet alleen gelden voo
 
 ### ART. 26.
 
-<P>De   flexibele opvangpool kan, al dan niet aansluitend op een opvangperiode in de   eigen of in een andere opvanglocatie of kinderopvanglocatie, opvang aan huis   aanbieden in de woning van het kind en begeleidt eventueel met het oog daarop   ook de kinderen op weg van en naar huis.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   opvang aan huis vindt plaats in het gebied waarvoor de flexibele opvangpool   erkend is, tenzij de opvang die aan de opvang aan huis voorafgaat, in het eigen   gebied plaatsvindt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De flexibele opvangpool kan, al dan niet aansluitend op een opvangperiode in de eigen of in een andere opvanglocatie, opvang aan huis aanbieden in de woning van het kind en begeleidt eventueel met het oog daarop ook de kinderen op weg van en naar huis.</p>
+
+<p>De opvang aan huis vindt plaats in het gebied waarvoor de flexibele opvangpool erkend is, tenzij de opvang die aan de opvang aan huis voorafgaat, in het eigen gebied plaatsvindt.</p>
 
 ### ART. 27.
 
@@ -178,7 +191,7 @@ De   flexibele opvangpool zorgt ervoor dat de verzekeringen burgerlijke   aanspr
 
 ### ART. 28.
 
-Opvang   aan huis vult de bestaande collectieve buitenschoolse opvang of kinderopvang   aan.
+Opvang aan huis vult de bestaande collectieve buitenschoolse opvang aan.
 
 ## Onderafdeling 3 Prijs die het gezin betaalt
 
@@ -190,7 +203,7 @@ Voor   de prijs die het gezin betaalt voor de occasionele of flexibele opvang di
 
 ### ART. 30.
 
-&nbsp;De flexibele opvangpool kan de   doelgroepwerknemers in zijn eigen opvanglocaties of kinderopvanglocaties   inzetten.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;De flexibele opvangpool kan de doelgroepwerknemers in zijn eigen opvanglocaties&nbsp;inzetten.
 
 ### ART. 31.
 
@@ -198,33 +211,39 @@ De   flexibele opvangpool begeleidt de doelgroepwerknemers en ondersteunt hen bi
 
 ### ART. 32.
 
-<P>De   flexibele opvangpool in Vlaanderen levert zo veel mogelijk inspanningen om   werknemers uit kansengroepen aan te werven en hen gelijkwaardige kansen te   bieden in de opvanglocaties of kinderopvanglocaties.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de opleidingstrajecten geldt de volgende voorwaarde : de flexibele opvangpool   werkt begeleidings- en opleidingstrajecten uit voor zijn   doelgroepwerknemers.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De flexibele opvangpool in Vlaanderen levert zo veel mogelijk inspanningen om werknemers uit kansengroepen aan te werven en hen gelijkwaardige kansen te bieden in de opvanglocaties.</p>
+
+<p>Voor de opleidingstrajecten geldt de volgende voorwaarde : de flexibele opvangpool werkt begeleidings- en opleidingstrajecten uit voor zijn doelgroepwerknemers.</p>
 
 ### ART. 33.
 
-De   doelgroepwerknemer legt bij de start van zijn tewerkstelling en op verzoek van   de organisator of van Kind en Gezin tijdens zijn tewerkstelling een uittreksel   uit het strafregister, model 596.2 Sv voor, waaruit blijkt dat de persoon van   onberispelijk gedrag is om met kinderen om te gaan. Als de doelgroepwerknemer   niet in België gedomicilieerd is, legt hij een gelijkwaardig attest voor, dat is   uitgereikt door de bevoegde buitenlandse instantie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De organisator heeft voor de doelgroepwerknemer een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de doelgroepwerknemer niet in België gedomicilieerd is, legt hij een gelijkwaardig attest voor, dat is uitgereikt door een bevoegde buitenlandse instantie.<br>
+<br>
+Het uittreksel, vermeld in het eerste lid, is bij de start van de tewerkstelling van de doelgroepwerknemer maximaal drie maanden oud. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
+<br>
+De organisator zorgt ervoor dat de doelgroepwerknemer een aanvulling op het uittreksel, vermeld in het eerste lid, onmiddellijk doorgeeft aan de organisator.
 
 ### ART. 34.
 
-&nbsp;De doelgroepwerknemer legt bij de start   van zijn tewerkstelling een attest van medische geschiktheid als vermeld in   artikel 43, § 1, eerste lid, 3°, van het Vergunningsbesluit van 22 november   2013, voor in geval van kinderopvang, of een attest van medische geschiktheid   als vermeld in artikel 38, § 1, eerste lid, 3°, van het Kwaliteitsbesluit   Buitenschoolse Opvang van 16 mei 2014.
+...
 
 ## HOOFDSTUK 3 Bedrag van de subsidie
 
 ### ART. 35.
 
-Binnen   het begrotingskrediet hebben de gemandateerde voorziening en de flexibele   opvangpool die in Vlaanderen gelokaliseerd zijn, per voltijds equivalent van een   tewerkgestelde doelgroepwerknemer recht op een maximale loonpremie, verstrekt   door Kind en Gezin. De maximale loonpremie van Kind en Gezin bedraagt voor een   gemandateerde voorziening of flexibele opvangpool 6.630,59   euro.
+Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool die in Vlaanderen gelokaliseerd is, per voltijds equivalent van een tewerkgestelde doelgroepwerknemer recht op een maximale loonpremie, verstrekt door Kind en Gezin. De maximale loonpremie van Kind en Gezin bedraagt voor&nbsp;de flexibele opvangpool 6.630,59 euro.
 
 ### ART. 36.
 
-Binnen   het begrotingskrediet hebben de gemandateerde voorziening en de flexibele   opvangpool voor elk voltijds equivalent tewerkgestelde doelgroepwerknemer recht   op een werkingssubsidie van 1445,67 euro op jaarbasis, toegekend door Kind en   Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool voor elk voltijds equivalent tewerkgestelde doelgroepwerknemer recht op een werkingssubsidie van 1445,67 euro op jaarbasis, toegekend door Kind en Gezin.
 
 ### ART 36/1.
 
-De gemandateerde voorziening en de flexibele opvangpool, gelokaliseerd in Vlaanderen, hebben, binnen de perken van het begrotingskrediet, recht op een aanvullende omkaderingspremie van 1187,51 euro op jaarbasis, toegekend door Kind en Gezin.
+De&nbsp;flexibele opvangpool, gelokaliseerd in Vlaanderen, heeft, binnen de perken van het begrotingskrediet, recht op een aanvullende omkaderingspremie van 1187,51 euro op jaarbasis, toegekend door Kind en Gezin.
 
 ### ART. 37.
 
-<P>&nbsp;Het Departement WSE kent een vergoeding   toe overeenkomstig hoofdstuk 7 van het decreet van 22 november 2013 betreffende   de lokale diensteneconomie, en hoofdstuk 7 van het besluit van de Vlaamse   Regering van 19 december 2014 tot uitvoering van het decreet van 22 november   2013 betreffende de lokale diensteneconomie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de lokale diensteneconomieondernemingen waaraan een label is toegekend conform   artikel 63, 61, eerste lid, van het besluit van de Vlaamse Regering tot   uitvoering van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie, wordt bij wijze van overgangsmaatregel voorzien in een   tijdelijke vergoedingsregeling, conform artikel 66 van het besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het Departement WSE kent een vergoeding als vermeld in artikel 2/1 toe.</p>
 
 ### ART. 38.
 
@@ -232,7 +251,7 @@ De gemandateerde voorziening en de flexibele opvangpool, gelokaliseerd in Vlaand
 
 ### ART. 39.
 
-Een   gemandateerde voorziening en een coördinatiepunt in Vlaanderen hebben, binnen   het begrotingskrediet, recht op een subsidie voor de coördinatiefunctie. Die   subsidie, verstrekt door Kind en Gezin, bedraagt 11.792,03   euro.
+...
 
 ## Titel 3 Lokale dienst buurtgerichte buitenschoolse opvang
 
@@ -262,7 +281,7 @@ Naast   de bepalingen, vermeld in artikel 41, voldoet de organisator die een lok
 
 ### ART. 44.
 
-De   organisator krijgt voor het aanbod in een lokale dienst geen subsidies van het   Fonds voor Collectieve Uitrustingen en Diensten, ingesteld bij de Rijksdienst   voor Kinderbijslag van Werknemers, vermeld in artikel 107 van de samengeordende   wetten van 19 december 1939 betreffende de kinderbijslag voor loonarbeiders,   afgekort FCUD.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 45.
 
@@ -308,7 +327,16 @@ De   organisator realiseert een toegankelijke buitenschoolse opvang die laagdrem
 
 ### ART. 54.
 
-<P>De   organisator :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   bouwt een buurtgerichte buitenschoolse opvang uit die toegankelijk is voor   kwetsbare gezinnen die ondervertegenwoordigd zijn in de buitenschoolse   opvang;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   heeft een specifieke werking die het gebruik van buitenschoolse opvang door   kwetsbare gezinnen bevordert, en staat open voor vragen naar occasionele opvang   als vermeld in artikel 1, 14°, van het Kwaliteitsbesluit Buitenschoolse Opvang   van 16 mei 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   gebruikt een methodiek om de participatie van kinderen, gezinnen, personeel en   actoren in de buurt bij de werking systematisch en intensief te   realiseren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   levert inspanningen om vanuit kansengroepen kinderbegeleiders of   doelgroepmedewerkers in de functie van kinderbegeleider aan te werven en om hen   gelijkwaardige kansen te bieden in de organisatie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   participeert in het Lokaal Overleg Kinderopvang van de gemeente waar hij   gevestigd is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid, 4°, wordt verstaan onder doelgroep : kwetsbare gezinnen die   ondervertegenwoordigd zijn in de buurt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid, 5°, wordt verstaan onder Lokaal Overleg Kinderopvang : de   gemeentelijke adviesraad voor het lokaal beleid kinderopvang, vermeld in artikel   1, 4°, van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het   lokaal beleid kinderopvang.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De organisator :<br>
+1° bouwt een buurtgerichte buitenschoolse opvang uit die toegankelijk is voor kwetsbare gezinnen die ondervertegenwoordigd zijn in de buitenschoolse opvang;<br>
+2° heeft een specifieke werking die het gebruik van buitenschoolse opvang door kwetsbare gezinnen bevordert, en staat open voor vragen naar occasionele opvang als vermeld in artikel 1, 14°, van het&nbsp;Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+3° gebruikt een methodiek om de participatie van kinderen, gezinnen, personeel en actoren in de buurt bij de werking systematisch en intensief te realiseren;<br>
+4° levert inspanningen om vanuit kansengroepen kinderbegeleiders of doelgroepmedewerkers in de functie van kinderbegeleider aan te werven en om hen gelijkwaardige kansen te bieden in de organisatie;<br>
+5° participeert in het Lokaal Overleg Kinderopvang van de gemeente waar hij gevestigd is.</p>
+
+<p>In het eerste lid, 4°, wordt verstaan onder doelgroep : kwetsbare gezinnen die ondervertegenwoordigd zijn in de buurt.</p>
+
+<p>In het eerste lid, 5°, wordt verstaan onder Lokaal Overleg Kinderopvang : de gemeentelijke adviesraad voor het lokaal beleid kinderopvang, vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 24 mei 2013 houdende het lokaal beleid kinderopvang.</p>
 
 ### ART. 55.
 
@@ -330,7 +358,13 @@ De   organisator voldoet aan de volgende voorwaarden voor de personen die werkza
 
 ### ART. 58.
 
-<P>De   lokale dienst heeft de volgende documenten over de verantwoordelijke :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   een uittreksel uit het strafregister, model 596.2 Sv, waaruit blijkt dat de   persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de   verantwoordelijke niet in België gedomicilieerd is, heeft de lokale dienst een   gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse   instantie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een attest van medische geschiktheid als vermeld in artikel 33, § 1, eerste lid,   3°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een kwalificatiebewijs, vastgesteld door de Vlaamse minister, bevoegd voor de   bijstand aan personen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   documenten, vermeld in het eerste lid, 1° en 2°, worden om de drie jaar   hernieuwd, tenzij er een gegronde indicatie is en de organisator of Kind en   Gezin gemotiveerd verzoekt om sneller een nieuw document te geven. Als er voor   het uittreksel uit het strafregister, model 596.2 Sv, vermeld in het eerste lid,   1°, een aanvulling is, moet die aanvulling onmiddellijk wordt   doorgegeven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+De lokale dienst heeft de volgende documenten over de verantwoordelijke:<br>
+1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de verantwoordelijke niet in België gedomicilieerd is, heeft de lokale dienst een gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse instantie;<br>
+2° een kwalificatiebewijs, vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+<br>
+Het uittreksel, vermeld in het eerste lid, 1°, is bij de aanvraag van de toestemming, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere opvanglocatie van de organisator. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
+<br>
+De organisator zorgt ervoor dat de verantwoordelijke een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.
 
 ## Onderafdeling 3 De kinderbegeleider
 
@@ -340,7 +374,18 @@ De   organisator voldoet aan de volgende voorwaarden voor de personen die werkza
 
 ### ART. 60.
 
-<P>De   organisator heeft de volgende documenten over de kinderbegeleider :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   een identiteitsbewijs, waarop alleen de naam en de geboortedatum zichtbaar zijn   en waaruit blijkt dat de kinderbegeleider minimaal achttien jaar oud   is;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een uittreksel uit het strafregister, model 596.2 Sv, waaruit blijkt dat de   persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de   kinderbegeleider niet in België gedomicilieerd is, heeft de organisator een   gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse   instantie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een attest van medische geschiktheid als vermeld in artikel 38, § 1, eerste lid,   3°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   een attest van kennis van levensreddend handelen bij kinderen, vastgesteld door   de Vlaamse minister, bevoegd voor de bijstand aan personen, die de leerinhouden   en de uitreikende instanties zal bepalen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   een kwalificatiebewijs, vastgesteld door de Vlaamse minister, bevoegd voor de   bijstand aan personen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   documenten, vermeld in het eerste lid, 2°, 3° en 4°, worden om de drie jaar   hernieuwd, tenzij er een gegronde indicatie is en de organisator of Kind en   Gezin gemotiveerd verzoekt om sneller een nieuw document te geven. Als er voor   het uittreksel uit het strafregister, model 596.2 Sv, vermeld in het eerste lid,   2°, een aanvulling is, moet die aanvulling onmiddellijk wordt   doorgegeven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+De kinderbegeleider is minstens achttien jaar oud. De organisator heeft de volgende documenten over de kinderbegeleider:<br>
+1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de kinderbegeleider niet in België gedomicilieerd is, heeft de organisator een gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse instantie;<br>
+2° een attest van kennis van levensreddend handelen bij kinderen, vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen, die de leerinhouden en de uitreikende instanties zal bepalen;<br>
+3° een kwalificatiebewijs, vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+<br>
+Het document, vermeld in het eerste lid, 1°, is bij de aanvraag van de toestemming, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de kinderbegeleider al werkt als kinderbegeleider in een andere opvanglocatie van de organisator. Als de kinderbegeleider stage loopt, dateert het uittreksel van het lopende schooljaar.<br>
+<br>
+Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+<br>
+De organisator zorgt ervoor dat de kinderbegeleider een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.<br>
+<br>
+De kinderbegeleider heeft het document, vermeld in het eerste lid, 2°, uiterlijk zes maanden na de start van de tewerkstelling.
 
 ## Onderafdeling 4 De doelgroepwerknemers
 
@@ -350,7 +395,17 @@ De   organisator voldoet aan de volgende voorwaarden voor de personen die werkza
 
 ### ART. 62.
 
-<P>De   organisator heeft de volgende documenten over de doelgroepwerknemer :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   een uittreksel uit het strafregister, model 596.2 Sv, waaruit blijkt dat de   persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de   doelgroepwerknemer niet in België gedomicilieerd is, heeft de organisator een   gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse   instantie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een attest van medische geschiktheid als vermeld in artikel 33, § 1, eerste lid,   3°, van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een attest van kennis van levensreddend handelen bij kinderen, vastgesteld door   de Vlaamse minister, bevoegd voor de bijstand aan personen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   documenten, vermeld in het eerste lid, worden om de drie jaar hernieuwd, tenzij   er een gegronde indicatie is en de organisator of Kind en Gezin gemotiveerd   verzoekt om sneller een nieuw document te geven. Als er voor het uittreksel uit   het strafregister, model 2, vermeld in het eerste lid, 1°, een aanvulling is,   moet die aanvulling onmiddellijk wordt doorgegeven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+De organisator heeft de volgende documenten over de doelgroepwerknemer:<br>
+1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de doelgroepwerknemer niet in België gedomicilieerd is, heeft de organisator een gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse instantie;<br>
+2° een attest van kennis van levensreddend handelen bij kinderen, vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
+<br>
+Het document, vermeld in het eerste lid, 1°, is bij de start van de tewerkstelling maximaal drie maanden oud.<br>
+<br>
+Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+<br>
+De organisator zorgt ervoor dat de doelgroepwerknemer een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.<br>
+<br>
+De doelgroepwerknemer heeft het document, vermeld in het eerste lid, 2°, uiterlijk zes maanden na de start van de tewerkstelling.
 
 ## HOOFDSTUK 3 Bedrag van de subsidie
 
@@ -364,7 +419,7 @@ De   organisator voldoet aan de volgende voorwaarden voor de personen die werkza
 
 ### ART. 65.
 
-<P>Het   Departement Werk en Sociale Economie kent een vergoeding toe overeenkomstig   hoofdstuk 7 van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie, en hoofdstuk 7 van het besluit van de Vlaamse Regering van 19   december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de   lokale diensteneconomie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de lokale diensteneconomieondernemingen, waaraan een label is toegekend conform   artikel 63, 61, eerste lid, van het besluit van de Vlaamse Regering tot   uitvoering van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie, wordt bij wijze van overgangsmaatregel voorzien in een   tijdelijke vergoedingsregeling, conform artikel 66 van het besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+Het Departement WSE kent een vergoeding als vermeld in artikel 2/1 toe.
 
 ### ART. 66.
 
@@ -386,9 +441,13 @@ De   organisator van een vergunde groepsopvang met plussubsidie, die een label h
 
 ### ART. 69.
 
-De   organisator met een vergunning voor groepsopvang met een plussubsidie als   vermeld in artikel 1, 14°, van het Subsidiebesluit van 22 november 2013,   ontvangt de subsidie, vermeld in artikel 65 van dit   besluit.
+De organisator met een vergunning voor groepsopvang met een plussubsidie als vermeld in artikel 1, 14°, van het Subsidiebesluit van 22 november 2013, ontvangt de subsidie, vermeld in artikel&nbsp;2/1 van dit besluit.
 
 ## [Titel 4/1 Vergunde groepsopvang met een subsidie voor dringende kinderopvang of voor ruimere openingsmomenten (ing. BVR 14 december 2018, art. 34, I: 1 april 2019)]
+
+### ART 69/1.
+
+De organisator van een vergunde groepsopvang met subsidie voor dringende kinderopvang of voor ruimere openingsmomenten, die een label heeft als lokale diensteneconomie, komt in aanmerking voor een vergoeding als vermeld in artikel 2/1, van het Departement WSE voor de competentieversterkende inschakeling en de kwaliteitsvolle begeleiding van doelgroepwerknemers als hij voldoet aan de voorwaarden, vermeld in artikel 61 en 62.
 
 ## Titel 5 Toezicht en opheffing van de erkenning of toestemming
 
@@ -396,13 +455,23 @@ De   organisator met een vergunning voor groepsopvang met een plussubsidie als  
 
 ### ART. 70.
 
-<P>Kind   en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht   op de naleving van de regelgeving wordt op stukken uitgevoerd. De gemandateerde   voorziening, het coördinatiepunt, de flexibele opvangpool of de lokale dienst   verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of stukken over   de werking.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   toezicht ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken uitgevoerd. De flexibele opvangpool of de lokale dienst verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of stukken over de werking.</p>
+
+<p>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van Zorginspectie.</p>
 
 ## [HOOFDSTUK 2 Opheffing van de erkenning als flexibele opvangpool en stopzetting van de subsidie (verv. BVR 14 december 2018, art. 36, I: 1 april 2019)]
 
 ### ART. 71.
 
-<P>&nbsp;Kind en Gezin kan de erkenning en de   bijbehorende subsidie op elk moment geheel of gedeeltelijk en definitief of   tijdelijk opheffen of schorsen als :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de werking als gemandateerde voorziening, coördinatiepunt of flexibele   opvangpool niet is opgestart binnen drie maanden na de in de aanvraag vermelde   startdatum of als de opdrachten van de gemandateerde voorziening, het   coördinatiepunt of de flexibele opvangpool, vermeld in artikel 18 tot en met   artikel 34, gedurende minstens een maand onderbroken worden, tenzij de   organisator als gemandateerde voorziening of flexibele opvangpool buiten zijn   wil om geen doelgroepwerknemers kan begeleiden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   wordt vastgesteld dat niet langer voldaan is aan de voorwaarden, vermeld in   artikel 6 tot en met 16;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het Departement WSE daarom verzoekt voor gemandateerde voorzieningen en   flexibele opvangpools in Vlaanderen, om redenen die rechtstreeks verband houden   met de tewerkstelling of begeleiding van doelgroepwerknemers.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse minister, bevoegd voor de sociale economie, kan op basis van het verslag   van de sociaalrechtelijke inspecteurs van het Departement WSE en het advies van   het Departement WSE beslissen dat de vergoeding wordt stopgezet, of dat de   erkenning wordt opgeheven of geschorst als het erkende initiatief lokale   diensteneconomie :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de verbintenissen, vermeld in het decreet van 22 november 2013 betreffende de   lokale diensteneconomie en het besluit van de Vlaamse Regering van 19 december   2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie, niet naleeft;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de subsidie niet daadwerkelijk aanwendt voor de competentieversterkende   inschakeling en de kwaliteitsvolle begeleiding, vermeld in hoofdstuk IV van het   besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het   decreet van 22 november 2013 betreffende de lokale diensteneconomie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   zware of herhaalde overtredingen van de regels van de arbeidswetgeving en van de   sociale wetgeving heeft gepleegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Kind en Gezin kan de erkenning en de bijbehorende subsidie op elk moment geheel of gedeeltelijk en definitief of tijdelijk opheffen of schorsen als :<br>
+1° de werking als flexibele opvangpool niet is opgestart binnen drie maanden na de in de aanvraag vermelde startdatum of als de opdrachten van de flexibele opvangpool, vermeld in artikel 23 tot en met 33, gedurende minstens een maand onderbroken worden, tenzij de organisator als flexibele opvangpool buiten zijn wil om geen doelgroepwerknemers kan begeleiden;<br>
+2° wordt vastgesteld dat niet langer voldaan is aan de voorwaarden, vermeld in artikel 6 tot en met 16;<br>
+3° het Departement WSE daarom verzoekt voor&nbsp;flexibele opvangpools in Vlaanderen, om redenen die rechtstreeks verband houden met de tewerkstelling of begeleiding van doelgroepwerknemers.</p>
+
+<p>De Vlaamse minister, bevoegd voor de sociale economie, kan op basis van het verslag van de sociaalrechtelijke inspecteurs van het Departement WSE en het advies van het Departement WSE beslissen dat de vergoeding wordt stopgezet, of dat de erkenning wordt opgeheven of geschorst als het erkende initiatief lokale diensteneconomie :<br>
+1° de verbintenissen, vermeld in het decreet van 22 november 2013 betreffende de lokale diensteneconomie en het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie, niet naleeft;<br>
+2° de subsidie niet daadwerkelijk aanwendt voor de competentieversterkende inschakeling en de kwaliteitsvolle begeleiding, vermeld in hoofdstuk IV van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
+3° zware of herhaalde overtredingen van de regels van de arbeidswetgeving en van de sociale wetgeving heeft gepleegd.</p>
 
 ## HOOFDSTUK 3 Opheffing van toestemming als lokale dienst en stopzetting van de subsidie
 
@@ -414,7 +483,7 @@ De   organisator met een vergunning voor groepsopvang met een plussubsidie als  
 
 ### ART. 73.
 
-Het   Departement WSE kan de subsidie, vermeld in artikel 69, op elk moment geheel of   gedeeltelijk stopzetten om redenen die rechtstreeks verband houden met de   tewerkstelling of begeleiding van doelgroepwerknemers.
+Het Departement WSE kan de eigen subsidie, vermeld in artikel 69 en 69/1, op elk moment geheel of gedeeltelijk stopzetten om redenen die rechtstreeks verband houden met de tewerkstelling of begeleiding van doelgroepwerknemers.
 
 ## Titel 6 Beroeps- en bezwaarprocedure
 
@@ -422,7 +491,9 @@ Het   Departement WSE kan de subsidie, vermeld in artikel 69, op elk moment gehe
 
 ### ART. 74.
 
-<P>De   organisator met een erkenning als gemandateerde voorziening, coördinatiepunt of   flexibele opvangpool in Vlaanderen, kan bezwaar aantekenen bij Kind en Gezin   tegen de opheffing van de erkenning, tenzij de erkenning opgeheven is met   toepassing van artikel 71, eerste lid, 3°.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   organisator kan beroep aantekenen bij de Vlaamse minister, bevoegd voor de   sociale economie, tegen de opheffing van de erkenning met toepassing van artikel   71, eerste lid, 3°.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De organisator met een erkenning als&nbsp;flexibele opvangpool in Vlaanderen, kan bezwaar aantekenen bij Kind en Gezin tegen de opheffing van de erkenning, tenzij de erkenning opgeheven is met toepassing van artikel 71, eerste lid, 3°.</p>
+
+<p>De organisator kan beroep aantekenen bij de Vlaamse minister, bevoegd voor de sociale economie, tegen de opheffing van de erkenning met toepassing van artikel 71, eerste lid, 3°.</p>
 
 ### ART. 75.
 

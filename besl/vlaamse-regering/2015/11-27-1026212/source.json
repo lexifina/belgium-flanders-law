@@ -2,16 +2,16 @@
   "codex_id": 1026212,
   "title": "Besluit van de Vlaamse Regering van 2015-11-27 houdende de voorwaarden voor de erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning groepsopvang en een plussubsidie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026212/VolledigDocument?datum=2017-07-01",
-  "source_sha256": "11c14dad1e363e78bd9e6660fd513a8be1f35e7ba48adaa86f83096afb85546f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026212/VolledigDocument?datum=2019-04-01",
+  "source_sha256": "ac8b6a8cbb1557af059e53c26aeb743b92812f99690b15e378512eab4a97f12e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026212&param=informatie",
-  "as_of": "2017-07-01",
+  "as_of": "2019-04-01",
   "made": "2015-11-27",
   "gazette": "2015-12-15",
   "numac": 2015036523,
   "document_start": "2015-01-01",
   "document_end": "2021-12-31",
-  "in_force": "2017-07-01",
-  "article_versions": 88,
-  "record_form": "consolidated version as in force on 2017-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-04-01",
+  "article_versions": 90,
+  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
 }
