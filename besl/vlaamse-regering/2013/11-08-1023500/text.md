@@ -54,7 +54,9 @@ De landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool 
 
 ### ART. 5.
 
-Om in aanmerking te komen voor subsidiëring sluit de erkende   bedrijfsadviseur met de betrokken landbouwer, kandidaat-biologische landbouwer   of land- en tuinbouwschool een contract voor de gewenste bedrijfsadvisering. Dit   contract moet gedateerd en ondertekend worden door de erkende bedrijfsadviseur   en de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool.
+Om in aanmerking te komen voor subsidiëring sluit de erkende bedrijfsadviseur met de betrokken landbouwer, kandidaat-biologische landbouwer of land- en tuinbouwschool een contract voor de gewenste bedrijfsadvisering. Dit contract moet ondertekend worden door de erkende bedrijfsadviseur en de landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool.<br>
+<br>
+De minister kan nadere regels bepalen over de inhoud van het contract, vermeld in het eerste lid, de te volgen procedure, en de wijze van ondertekening, afsluiting en indiening van het contract.
 
 ### ART. 6.
 
@@ -62,15 +64,29 @@ De hoogte van het contractbedrag en de aangevraagde subsidie voor een   bedrijfs
 
 ### ART. 7.
 
-<P>De erkende adviesdienst bezorgt een kopie van het contract aan de bevoegde   entiteit binnen veertien werkdagen na de ondertekening van het contract. De   postdatum geldt als indieningsdatum. Het contract kan digitaal naar de bevoegde   entiteit doorgestuurd worden. De ontvangstdatum van de e-mail geldt als   indieningsdatum. <BR></P>  <P>De bevoegde entiteit wordt ten minste twee werkdagen op voorhand in kennis   gesteld van de plaats en het tijdstip van de bedrijfsbezoeken waarvoor een   subsidie wordt aangevraagd. <BR></P>  <P>In uitzonderlijke omstandigheden en wegens gegronde redenen kan de bevoegde   entiteit toestemming verlenen om af te wijken van de termijn van twee   werkdagen.<BR></P>  <P>Als een bedrijfsbezoek niet kan plaatsvinden, wordt dit aan de bevoegde   entiteit doorgegeven voor het oorspronkelijke bedrijfsbezoek plaatsvindt.   <BR></P>  <P>De bevoegde entiteit kijkt na welk subsidiebedrag er nog beschikbaar is voor   de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool.<BR></P>  <P>De bevoegde entiteit informeert de landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool over het beschikbare subsidiebedrag dat   ter beschikking staat voor de bedrijfsadvisering binnen veertien werkdagen na   ontvangst van het contract.<BR></P>  <P>De bevoegde entiteit informeert de erkende adviesdienst of het aangevraagde   subsidiebedrag voor dat contract al dan niet beschikbaar is voor de betrokken   landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool,   binnen veertien werkdagen na ontvangst van het contract.<BR></P>  <P>De minister kan nadere regels inzake inhoud van het contract en de te volgen   procedure bepalen. </P>
+<p>De bevoegde entiteit wordt ten minste twee werkdagen op voorhand in kennis gesteld van de plaats en het tijdstip van de bedrijfsbezoeken waarvoor een subsidie wordt aangevraagd.</p>
+
+<p>In uitzonderlijke omstandigheden en wegens gegronde redenen kan de bevoegde entiteit toestemming verlenen om af te wijken van de termijn van twee werkdagen.</p>
+
+<p>Als een bedrijfsbezoek niet kan plaatsvinden, wordt dit aan de bevoegde entiteit doorgegeven voor het oorspronkelijke bedrijfsbezoek plaatsvindt.</p>
+
+<p>De minister kan de wijze waarop de kennisgeving, vermeld in dit artikel, moet gebeuren, bepalen.</p>
 
 ### ART. 8.
 
-<P>Na de datum van het laatste bedrijfsbezoek in het kader van de   bedrijfsadvisering dient de erkende adviesdienst een ondertekende   uitbetalingsaanvraag in bij de bevoegde entiteit.<BR></P>  <P>De minister bepaalt de gegevens die de uitbetalingsaanvraag moet bevatten en   de documenten die toegevoegd moeten worden.<BR></P>  <P>De minister kan nadere voorwaarden en modaliteiten voor het aanvragen en het   uitbetalen van de subsidie bepalen.</P>
+<p>Na de datum van het laatste bedrijfsbezoek in het kader van de bedrijfsadvisering dient de erkende adviesdienst een uitbetalingsaanvraag in bij de bevoegde entiteit.</p>
+
+<p>De minister bepaalt de gegevens die de uitbetalingsaanvraag moet bevatten en de documenten die toegevoegd moeten worden.</p>
+
+<p>De minister kan nadere voorwaarden en modaliteiten voor het aanvragen en het uitbetalen van de subsidie en de wijze waarop de aanvraag ingediend moet worden&nbsp;bepalen.<br>
+<br>
+Uiterlijk na de datum van het laatste bedrijfsbezoek in het kader van de bedrijfsadvisering bezorgt de erkende adviesdienst het schriftelijk verslag of de schriftelijke verslagen van de geleverde bedrijfsadvisering aan de betrokken landbouwer, kandidaat-biologische landbouwer of land- en tuinbouwschool.</p>
 
 ### ART. 9.
 
-<P>Na het laatste bedrijfsbezoek wordt door de landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool op een evaluatieformulier aangegeven   welke van de vooropgestelde elementen wel degelijk naar wens en in voldoende   mate aan bod kwamen. Dit wordt gedateerd en ondertekend door de landbouwer,   kandidaat-biologische landbouwer of de land- en tuinbouwschool en bezorgd aan de   bevoegde entiteit.<BR></P>  <P>De minister kan nadere voorwaarden en modaliteiten voor de evaluatie   bepalen.</P>
+<p>Na het laatste bedrijfsbezoek wordt door de landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool aangegeven welke van de vooropgestelde advieselementen wel degelijk naar wens en in voldoende mate aan bod kwamen.</p>
+
+<p>De minister kan nadere voorwaarden en modaliteiten voor de evaluatie en de wijze waarop de evaluatie ingediend moet worden&nbsp;bepalen.</p>
 
 ### ART. 10.
 
@@ -267,8 +283,6 @@ De minister kan maximale subsidiebedragen per bedrijfsadvies bepalen.</p>
 <p>Overeenkomstig artikel 11 en 12 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, heeft de bevoegde entiteit voor de uitoefening van haar controleopdracht het recht om tijdens de bedrijfsbezoeken in het kader van de gesubsidieerde bedrijfsadvisering aanwezig te zijn en de nodige vaststellingen te doen betreffende de inhoud en het verloop van de bedrijfsadvisering. De bevoegde entiteit kan bij de landbouwer, kandidaat biologische landbouwer of de land- en tuinbouwschool informeren naar het verloop en het resultaat van de bedrijfsadvisering.</p>
 
 <p>Op vraag van de bevoegde entiteit moet de erkende adviesdienst de bevoegde entiteit bij controle begeleiden. De erkende adviesdienst moet alle documenten en inlichtingen, noodzakelijk voor de controle, verstrekken.</p>
-
-<p>De erkende adviesdienst moet de adviezen ter beschikking houden van de bevoegde entiteit. De bevoegde entiteit kan op elk moment de adviezen opvragen bij de erkende adviesdienst. De erkende adviesdienst moet die binnen veertien werkdagen digitaal aan de bevoegde entiteit bezorgen.</p>
 
 ### ART 36/1.
 
