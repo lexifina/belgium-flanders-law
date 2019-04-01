@@ -22,6 +22,12 @@ In artikel 2 van het decreet van 27 oktober 2006 betreffende de bodemsanering en
 37° grondbrij: bodemmateriaal dat afkomstig is van het triëren en het wassen van gewassen uit de volle grond;<br>
 38° bentonietslib: mengsel van uitgegraven bodem en bentoniet dat afkomstig is van toepassingen bij grond- en putboringen en grondwerken.".
 
+### ART 3.
+
+In artikel 4 van hetzelfde decreet wordt paragraaf 2 vervangen door wat volgt:<br>
+<br>
+" § 2. De kennisgevingen, meldingen, verzendingen en procedures in het kader van dit decreet en zijn uitvoeringsbesluiten, bepaald door de Vlaamse Regering, kunnen digitaal gebeuren of verlopen conform de regels die de Vlaamse Regering vaststelt.".
+
 ### ART 4.
 
 In titel III van hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt het opschrift van hoofdstuk II vervangen door wat volgt:<br>
@@ -299,6 +305,50 @@ In artikel 115, eerste lid, van hetzelfde decreet, gewijzigd bij de decreten van
 
 In titel III van hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, worden in het opschrift van hoofdstuk XI de woorden "en vereffening" opgeheven.
 
+### ART 45.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 23 december 2016, wordt het opschrift van hoofdstuk XIII vervangen door wat volgt:<br>
+<br>
+"Hoofdstuk XIII. - Het gebruik en de traceerbaarheid van bodemmaterialen".
+
+### ART 46.
+
+Artikel 136 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 136. De bepalingen van dit hoofdstuk regelen het gebruik en de traceerbaarheid van bodemmaterialen, gereinigde bodemmaterialen en bodemmaterialen waarop een fysische scheiding wordt toegepast.".
+
+### ART 47.
+
+Artikel 137 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 137. De bepalingen van dit hoofdstuk zijn niet van toepassing op:<br>
+1° primaire oppervlaktedelfstoffen als vermeld in het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen;<br>
+2° delfstoffen die in grindwinningsgebieden volgens het decreet van 14 juli 1993 tot oprichting van het Grindfonds en tot regeling van de grondwinning ontgonnen worden;<br>
+3° ingevoerde minerale delfstoffen die als geologische afzetting in hun natuurlijke staat ontgonnen worden;<br>
+4° bagger- en ruimingsspecie die wordt teruggestort in de waterloop waaruit ze afkomstig is als vermeld in rubriek 2.3.7, b), van de indelingslijst, vermeld in artikel 5.5.1, § 1, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid.".
+
+### ART 48.
+
+In artikel 138 van hetzelfde decreet, gewijzigd bij het decreet van 28 maart 2014, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "uitgegraven bodem" worden telkens vervangen door het woord "bodemmaterialen";<br>
+<br>
+2° de woorden "tussentijdse opslagplaats en grondreinigingscentrum" worden vervangen door de zinsnede "tussentijdse opslagplaats, grondreinigingscentrum en inrichting voor de opslag en behandeling van bagger- en ruimingsspecie".
+
+### ART 49.
+
+In hoofdstuk XIII van hetzelfde decreet, het laatst gewijzigd bij het decreet van 18 december 2015, wordt het opschrift van afdeling III vervangen door wat volgt:<br>
+<br>
+"Afdeling III. - Erkenning als bodembeheerorganisatie, tussentijdse opslagplaats, grondreinigingscentrum of inrichting voor de opslag en behandeling van bagger- en ruimingsspecie".
+
+### ART 50.
+
+In artikel 139 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "tussentijdse opslagplaats of grondreinigingscentrum" worden telkens vervangen door de zinsnede "tussentijdse opslagplaats, grondreinigingscentrum of inrichting voor de opslag en behandeling van bagger- en ruimingsspecie'';<br>
+<br>
+2° in paragraaf 1 worden tussen de woorden "voor het uitvoeren van de taken" en de zinsnede ", vastgesteld door de Vlaamse Regering krachtens de bepalingen van artikel 138, § 1." de woorden "met betrekking tot de procedure voor het traceren van bodemmaterialen" ingevoegd.
+
 ### ART 51.
 
 In artikel 142 van hetzelfde decreet, vervangen bij het decreet van 28 maart 2014, worden de volgende wijzigingen aangebracht:<br>
@@ -346,6 +396,12 @@ In artikel 161 van hetzelfde decreet, gewijzigd bij de decreten van 21 december 
 3° in paragraaf 5 wordt de zinsnede "uitvoering van een oriënterend bodemonderzoek, site-onderzoek, beschrijvend bodemonderzoek, bodemsanering of andere maatregelen, vermeld in hoofdstuk VI" vervangen door de woorden "uitvoering krachtens de bepalingen van dit decreet".
 
 ## HOOFDSTUK 3. Wijziging van het Materialendecreet van 23 december 2011
+
+### ART 57.
+
+Artikel 38 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen wordt vervangen door wat volgt:<br>
+<br>
+"Art. 38. Bodemmaterialen, als vermeld in artikel 2, 33°, van het Bodemdecreet van 27 oktober 2006, worden niet beschouwd als afvalstoffen als zij gebruikt worden overeenkomstig de bepalingen voor het gebruik en de traceerbaarheid van bodemmaterialen, vermeld in het Bodemdecreet van 27 oktober 2006 en de uitvoeringsbesluiten ervan.".
 
 ## HOOFDSTUK 4. Wijzigingen van het VLAREBO-besluit van 14 december 2007
 
