@@ -28,170 +28,24 @@ Besluit :
 
 ### ART 1.
 
-Voor particuliere regionale en landelijke radio-omroeporganisaties wordt een frequentieplan, vermeld in bijlage I die bij dit besluit is gevoegd, vastgesteld.
+...
 
 ### ART 2.
 
-Aan de regionale en landelijke radio-omroeporganisaties worden de frequenties, vermeld in bijlage II die bij dit besluit is gevoegd, ter beschikking gesteld.
+...
 
 ### ART 3.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2018.
+...
 
 ### ART 4.
 
-De Vlaamse minister, bevoegd voor het mediabeleid, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td colspan="3">Lijst van Vlaamse frequenties voor particuliere radio</td>
-		</tr>
-		<tr>
-			<td>Lokaliteit</td>
-			<td>Freq<br>
-			(MHz)</td>
-			<td>Vermogen<br>
-			(watt)</td>
-		</tr>
-		<tr>
-			<td>Antwerpen</td>
-			<td>99,2</td>
-			<td>12.589</td>
-		</tr>
-		<tr>
-			<td>Bree</td>
-			<td>103,0</td>
-			<td>1995</td>
-		</tr>
-		<tr>
-			<td>Brussegem</td>
-			<td>95,6</td>
-			<td>631</td>
-		</tr>
-		<tr>
-			<td>Brussel</td>
-			<td>103,4</td>
-			<td>31.623</td>
-		</tr>
-		<tr>
-			<td>Heuvelland</td>
-			<td>93,2</td>
-			<td>316</td>
-		</tr>
-		<tr>
-			<td>Schoten</td>
-			<td>102,9</td>
-			<td>125.892</td>
-		</tr>
-		<tr>
-			<td>Tongeren</td>
-			<td>94,8</td>
-			<td>1000</td>
-		</tr>
-	</tbody>
-</table>
+...
 
 ### BIJLAGE
 
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td colspan="3">Frequentiepakket landelijk net 1</td>
-		</tr>
-		<tr>
-			<td>Lokaliteit</td>
-			<td>Freq<br>
-			(MHz)</td>
-			<td>Vermogen<br>
-			(watt)</td>
-		</tr>
-		<tr>
-			<td>BRUSSEGEM</td>
-			<td>95,6</td>
-			<td>631</td>
-		</tr>
-		<tr>
-			<td>BRUSSEL</td>
-			<td>103,4</td>
-			<td>31.623</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td colspan="3">Frequentiepakket landelijk net 2</td>
-		</tr>
-		<tr>
-			<td>Lokaliteit</td>
-			<td>Freq<br>
-			(MHz)</td>
-			<td>Vermogen<br>
-			(watt)</td>
-		</tr>
-		<tr>
-			<td>ANTWERPEN</td>
-			<td>99,2</td>
-			<td>12.589</td>
-		</tr>
-		<tr>
-			<td>HEUVELLAND (WIJTSCHATE)</td>
-			<td>93,2</td>
-			<td>316</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td colspan="3">Frequentiepakket regionaal net Antwerpen</td>
-		</tr>
-		<tr>
-			<td>Lokaliteit</td>
-			<td>Freq<br>
-			(MHz)</td>
-			<td>Vermogen<br>
-			(watt)</td>
-		</tr>
-		<tr>
-			<td>SCHOTEN</td>
-			<td>102,9</td>
-			<td>125.892</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td colspan="3">Frequentiepakket regionaal net Limburg</td>
-		</tr>
-		<tr>
-			<td>Lokaliteit</td>
-			<td>Freq<br>
-			(MHz)</td>
-			<td>Vermogen<br>
-			(watt)</td>
-		</tr>
-		<tr>
-			<td>BREE</td>
-			<td>103,0</td>
-			<td>1995</td>
-		</tr>
-		<tr>
-			<td>TONGEREN</td>
-			<td>94,8</td>
-			<td>1000</td>
-		</tr>
-	</tbody>
-</table>
+...
