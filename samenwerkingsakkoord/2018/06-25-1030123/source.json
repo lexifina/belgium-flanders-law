@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030123,
+  "title": "Samenwerkingsakkoord van 2018-06-25 tussen de Federale Staat, de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de culturele bescherming van het boek",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030123/VolledigDocument?datum=2019-04-05",
+  "source_sha256": "28bc2682ac556496c65ac5dcbc1469d0b7464721389b8f9e995c14976ad44f56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030123&param=informatie",
+  "as_of": "2019-04-05",
+  "made": "2018-06-25",
+  "gazette": "0001-01-01",
+  "numac": 0,
+  "document_start": "2019-04-05",
+  "document_end": null,
+  "in_force": "2019-04-05",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2019-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
