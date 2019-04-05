@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030467,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-08 tot ontwikkeling van de onderwijskwalificatie graduaat in de hernieuwbare energiesystemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030467/VolledigDocument?datum=2019-04-05",
+  "source_sha256": "a3f2d5b2d4749aa0a1d7e9f99731349ac8a106d47078e65a511feb9c8b150f74",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030467&param=informatie",
+  "as_of": "2019-04-05",
+  "made": "2019-02-08",
+  "gazette": "2019-03-26",
+  "numac": 2019040769,
+  "document_start": "2019-04-05",
+  "document_end": null,
+  "in_force": "2019-04-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
