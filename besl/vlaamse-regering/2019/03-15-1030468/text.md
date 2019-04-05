@@ -121,3 +121,12 @@ Artikel 143 van het besluit van de Vlaamse Regering van 14 december 2018 houdend
 ### ART 8.
 
 In artikel 159, 2°, en artikel 161 van hetzelfde besluit wordt de zinsnede "artikel 143," opgeheven.
+
+### ART 9.
+
+Artikel 1 tot en met 6 treden in werking op 1 april 2019.<br>
+Artikel 7 en 8 treden in werking op 31 maart 2019.
+
+### ART 10.
+
+De Vlaamse minister, bevoegd voor het onroerend erfgoed, is belast met de uitvoering van dit besluit.

@@ -2,16 +2,16 @@
   "codex_id": 1030468,
   "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot wijziging van het Onroerenderfgoedbesluit van 16 mei 2014 met het oog op technische aanpassingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030468/VolledigDocument?datum=2019-04-01",
-  "source_sha256": "1aafb8ee05e9c28ab9fe0191412c42a716f79d5d03258cb8869ccaac0defc554",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030468/VolledigDocument?datum=2019-04-05",
+  "source_sha256": "9989cf935efd19828b30756170c8030bbb155638014cd69e058ac9d150dc82cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030468&param=informatie",
-  "as_of": "2019-04-01",
+  "as_of": "2019-04-05",
   "made": "2019-03-15",
   "gazette": "2019-03-26",
   "numac": 2019040806,
   "document_start": "2019-04-05",
   "document_end": null,
-  "in_force": "2019-04-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-04-05",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-04-05; future article versions excluded; article text as the API gives it"
 }
