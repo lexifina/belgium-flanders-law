@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029391,
+  "title": "Decreet van 2018-05-18 betreffende het niet-dringend liggend ziekenvervoer",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029391/VolledigDocument?datum=2019-04-06",
+  "source_sha256": "0741e37de0507ef6002e93d9d91d6f9b45ce61d9e0ebd8a2cb1ba5137b5b1e49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029391&param=informatie",
+  "as_of": "2019-04-06",
+  "made": "2018-05-18",
+  "gazette": "2018-06-11",
+  "numac": 2018012399,
+  "document_start": "2019-04-06",
+  "document_end": null,
+  "in_force": "2019-04-06",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
