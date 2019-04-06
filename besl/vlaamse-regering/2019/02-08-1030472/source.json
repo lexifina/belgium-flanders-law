@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030472,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-08 houdende de uitvoering van artikel 6, 7, 8 en 12 van het decreet van 18 mei 2018 betreffende het niet-dringend liggend ziekenvervoer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030472/VolledigDocument?datum=2019-04-06",
+  "source_sha256": "59486dda257b39024dabbce30c2d7a7f48764edd2972a99e160bb0d2e5e34df8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030472&param=informatie",
+  "as_of": "2019-04-06",
+  "made": "2019-02-08",
+  "gazette": "2019-03-27",
+  "numac": 2019040785,
+  "document_start": "2019-04-06",
+  "document_end": null,
+  "in_force": "2019-04-06",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2019-04-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
