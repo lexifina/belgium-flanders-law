@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030479,
+  "title": "Decreet van 2019-03-01 houdende instemming met het samenwerkingsakkoord van 25 juli 2018 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering en financiering van de bodemsanering van tankstations en gasolietanks voor verwarmingsdoeleinden en tot wijziging van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030479/VolledigDocument?datum=2019-04-07",
+  "source_sha256": "fb451ba0896258a33bcf7d9c4460dcb49cac7e706d3bd981e2476a1d04718da1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030479&param=informatie",
+  "as_of": "2019-04-07",
+  "made": "2019-03-01",
+  "gazette": "2019-03-28",
+  "numac": 2019030259,
+  "document_start": "2019-04-07",
+  "document_end": null,
+  "in_force": "2019-04-07",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2019-04-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
