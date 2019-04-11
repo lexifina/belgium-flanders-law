@@ -16,7 +16,8 @@
 9° team Indicatiestelling: het team, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 10° team Jeugdhulpregie: het team, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 11° Intersectorale Regionale Prioriteitencommissie: het orgaan, vermeld in artikel 26, § 1, 5°, en in artikel 26, derde lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-12° toegangspoort: het orgaan, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.<br>
+12° toegangspoort: het orgaan, vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+13° multifunctioneel centrum: een multifunctioneel centrum als vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap.<br>
 <br>
 § 2. Binnen de kredieten die het agentschap hiervoor op zijn begroting heeft uitgetrokken, kan de toegangspoort voor minderjarigen en voor meerderjarigen die een voortzetting van de jeugdhulpverlening hebben gevraagd als vermeld in artikel 18, § 3 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, overeenkomstig de bepalingen van dit besluit aan de personen met een handicap een persoonlijk assistentiebudget toekennen.
 
@@ -34,7 +35,14 @@
 
 ### ART. 4.
 
-Het team Jeugdhulpregie kan alleen een persoonlijke-assistentiebudget toekennen aan minderjarigen en meerderjarigen die een voortzetting van de jeugdhulpverlening hebben gevraagd als vermeld in artikel 18, § 3 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp als de Intersectorale Regionale Prioriteitencommissie een prioriteit heeft toegekend aan de vraag om toekenning van een persoonlijk assistentiebudget.
+Het team Jeugdhulpregie kan alleen een persoonlijke-assistentiebudget toekennen aan minderjarigen en meerderjarigen die een voortzetting van de jeugdhulpverlening hebben gevraagd als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, en die behoren tot een van de volgende doelgroepen:<br>
+1° ze hebben een prioriteit toegekend gekregen door de Intersectorale Regionale Prioriteitencommissie conform artikel 38 en 39 van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
+2° ze wachten al langer dan twee jaar op een persoonlijke-assistentiebudget;<br>
+3° ze wachten op een persoonlijke-assistentiebudget en verblijven in een multifunctioneel centrum.<br>
+<br>
+Het persoonlijke-assistentiebudget voor de doelgroepen, vermeld in het eerste lid, 2° en 3°, wordt toegekend in chronologische volgorde.<br>
+<br>
+In het eerste lid, 3°, wordt verstaan onder verblijf: een verblijf met overnachting, met inbegrip van opvang en ondersteuning gedurende de ochtend- en avonduren, dat wordt ingezet op beslissing van de intersectorale toegangspoort
 
 ### ART. 5.
 
@@ -168,7 +176,9 @@ Onverminderd de bepalingen van § 3 is combinatie mogelijk van het PAB met&nbsp;
 <br>
 Als de combinatie een kortverblijf binnen&nbsp;een woonzorgcentrum, met of zonder bijkomende erkenning betreft, wordt het PAB verminderd met het gemiddelde bedrag van de kosten van kortdurende woon- of dagondersteuning van een FAM.<br>
 <br>
-Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd&nbsp;woonzorgcentrum zonder bijkomende erkenning of een woonzorgcentrum met een bijkomende erkenning betreft, worden de bewezen kosten verminderd met de eigen bijdrage, in rekening gebracht als personeelskost, vermeld in paragraaf 1.
+Als de combinatie een kortverblijf in een niet door de overheid gesubsidieerd&nbsp;woonzorgcentrum zonder bijkomende erkenning of een woonzorgcentrum met een bijkomende erkenning betreft, worden de bewezen kosten verminderd met de eigen bijdrage, in rekening gebracht als personeelskost, vermeld in paragraaf 1.<br>
+<br>
+De combinatie van het PAB met een typemodule binnen de pleegzorg als vermeld in hoofdstuk 2, afdeling 1, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg is mogelijk, evenwel zonder dat de activiteiten van de assistent overlappen met de bijstand verleend binnen de pleegzorg.
 
 ### ART. 11.
 
