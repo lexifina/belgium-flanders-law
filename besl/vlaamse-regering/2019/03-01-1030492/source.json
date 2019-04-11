@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030492,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-01 tot wijziging van artikel 3 en 5 en de bijlage van het koninklijk besluit van 24 maart 1997 betreffende de inning en de consignatie van een som bij het vaststellen van sommige overtredingen inzake het vervoer over de weg van gevaarlijke goederen, met uitzondering van ontplofbare en radioactieve stoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030492/VolledigDocument?datum=2019-04-11",
+  "source_sha256": "548b78ed951eabf897342b8904f67ea3db62aebf17f185589a3d7ee89343b0c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030492&param=informatie",
+  "as_of": "2019-04-11",
+  "made": "2019-03-01",
+  "gazette": "2019-04-01",
+  "numac": 2019011418,
+  "document_start": "2019-04-11",
+  "document_end": null,
+  "in_force": "2019-04-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-04-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
