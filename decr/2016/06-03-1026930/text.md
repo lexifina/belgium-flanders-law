@@ -257,6 +257,11 @@
 <span style="color: rgb(0, 0, 0);">In artikel 92 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt het vierde lid opgeheven.</span><br>
 &nbsp;
 
+### ART 37.
+
+<span style="color: rgb(0, 0, 0);">In titel III van hetzelfde decreet, gewijzigd bij de decreten van 30 april 2009 en 29 juni 2012, wordt hoofdstuk II, dat bestaat uit artikel 99, opgeheven.</span><br>
+&nbsp;
+
 ### ART 38.
 
 <span style="color: rgb(0, 0, 0);">In artikel 100 van hetzelfde decreet worden de volgende wijzigingen aangebracht:</span><br>
