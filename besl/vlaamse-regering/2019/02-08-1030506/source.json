@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030506,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-08 tot bepaling van de inwerkingtreding van artikel 37 van het decreet van 3 juni 2016 tot wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030506/VolledigDocument?datum=2019-04-13",
+  "source_sha256": "aa71d2deef3bfb694364557d5a2272ab719487c64830034c64bf3c3a7d3f3037",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030506&param=informatie",
+  "as_of": "2019-04-13",
+  "made": "2019-02-08",
+  "gazette": "2019-04-03",
+  "numac": 2019011347,
+  "document_start": "2019-04-13",
+  "document_end": null,
+  "in_force": "2019-04-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-04-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
