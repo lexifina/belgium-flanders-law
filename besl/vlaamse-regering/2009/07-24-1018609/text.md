@@ -236,6 +236,16 @@ Om een bijkomende erkenning voor de opvang van personen die lijden aan een ernst
 
 ## [HOOFDSTUK III/2 Bijzondere erkenningsvoorwaarden (ing. BVR 15 maart 2019, art. 11, I: 13 april 2019)]
 
+### ART 10/6.
+
+Een bijzondere erkenning kan verleend worden aan woonzorgcentra met een bijkomende erkenning die een verzorgingsstructuur aanbieden die aan personen met jongdementie zorg en ondersteuning verleent.<br>
+<br>
+De bijzondere erkenning, vermeld in het eerste lid, kan betrekking hebben op een van de volgende elementen:<br>
+1° alle woongelegenheden;<br>
+2° een gedeelte van de woongelegenheden.<br>
+<br>
+Om een bijzondere erkenning als vermeld in het eerste lid, te krijgen en te behouden, moet een woonzorgcentrum met een bijkomende erkenning voldoen aan de voorwaarden, vermeld in hoofdstuk III/2 van bijlage XII, die bij dit besluit is gevoegd.
+
 ## HOOFDSTUK IV Subsidiëring
 
 ## Afdeling I Algemene bepalingen
@@ -3227,9 +3237,64 @@ Elk woonzorgcentrum met een bijkomende erkenning moet een vormingspolitiek inste
 
 ## [Afdeling 1 Definities (ing. BVR 15 maart 2019, art. 12, I: 13 april 2019)]
 
+### ART 48/29.
+
+In dit hoofdstuk wordt verstaan onder:<br>
+1° bijzondere erkenning: een bijzondere erkenning voor de zorg en ondersteuning van personen met jongdementie;<br>
+2° dementie: een aandoening waarbij meerdere stoornissen in het cognitieve functioneren samen optreden en de impact op het denken, de stemming en het gedrag zo ernstig is dat de persoon in zijn algemeen dagelijks functioneren wordt beperkt;<br>
+3° diagnostisch bilan: een interdisciplinair onderzoek onder leiding van een neuroloog, geriater of psychiater, met evaluatie van het cognitieve functioneren van een persoon met vermoeden van beginnende dementie;<br>
+4° jongdementie: dementie die vastgesteld is aan de hand van een diagnostisch bilan, voor de leeftijd van 65 jaar.
+
 ## [Afdeling 2 Programmatie (ing. BVR 15 maart 2019, art. 12, I: 13 april 2019)]
 
+### ART 48/30.
+
+De programmatie voor woonzorgcentra met een bijkomende erkenning die een bijzondere erkenning voor personen met jongdementie hebben, wordt per provincie bepaald op één woongelegenheid per 15.000 inwoners in de leeftijdsgroep 30 tot 64 jaar.<br>
+<br>
+De minister kan nadere regels bepalen die een spreiding van deze woongelegenheden binnen de provincie waarborgen.
+
 ## [Afdeling 3. Specifieke bijzondere erkenningsvoorwaarden (ing. BVR 15 maart 2019, art. 12, I: 13 april 2019)]
+
+### ART 48/31.
+
+Een woonzorgcentrum met een bijkomende erkenning kan voor ten minste vijf en maximaal twaalf woongelegenheden een bijzondere erkenning voor personen met jongdementie krijgen als aan al de volgende voorwaarden voldaan is:<br>
+1° de woongelegenheden vormen een afzonderlijk architectonisch geheel ten opzichte van de overige woongelegenheden waarover het woonzorgcentrum met een bijkomende erkenning beschikt;<br>
+2° de woongelegenheden voldoen aan de erkenningsvoorwaarden voor een woonzorgcentrum met een bijkomende erkenning, behalve als dat anders bepaald is in dit hoofdstuk;<br>
+3° de woongelegenheden voldoen aan de bijkomende voorwaarden, vermeld in hoofdstuk III/1;<br>
+4° de woongelegenheden passen in de programmatie, vermeld in artikel 48/30;<br>
+5° het woonzorgcentrum met een bijkomende erkenning werkt op het moment van de aanvraag samen met een erkend expertisecentrum voor dementie.
+
+### ART 48/32.
+
+Een woonzorgcentrum met een bijkomende erkenning dat een bijzondere erkenning heeft, heeft de volgende opdrachten:<br>
+1° op een kleinschalige wijze het groepswonen van de gebruikers realiseren;<br>
+2° integrale zorg en ondersteuning bieden aan de gebruiker;<br>
+3° de gezinssituatie van de gebruiker intensief begeleiden in samenwerking met de welzijns- en gezondheidsactoren die voor de specifieke situatie van de gebruiker relevant zijn.
+
+### ART 48/33.
+
+Een gebruiker komt in aanmerking voor opname in een woonzorgcentrum met een bijkomende erkenning dat een bijzondere erkenning heeft, als hij voldoet aan al de volgende voorwaarden:<br>
+1° hij lijdt aan jongdementie;<br>
+2° hij is gerangschikt in de afhankelijkheidscategorie Cd of B, vermeld in artikel 425, tweede lid, 3° en 5°, van het besluit van de Vlaamse Regering van 30 november 2018 houdende de uitvoering van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+3° hij heeft nood aan intensieve interdisciplinaire zorg en ondersteuning.
+
+### ART 48/34.
+
+Het woonzorgcentrum met een bijkomende erkenning dat een bijzondere erkenning heeft, stelt samen met de gebruiker of zijn vertegenwoordiger, zijn mantelzorgers en, als dat van toepassing is, de welzijns- en gezondheidsactoren die voor gebruiker relevant zijn, een begeleidingsplan op voor de gezinsleden van de gebruiker.
+
+### ART 48/35.
+
+Het woonzorgcentrum met een bijkomende erkenning dat een bijzondere erkenning heeft, organiseert op een gestructureerde wijze regelmatig overleg en persoonlijk contact tussen de gebruiker of zijn vertegenwoordiger, zijn mantelzorgers en het interdisciplinaire team. Van dat overleg wordt een verslag gemaakt.<br>
+<br>
+De gebruiker of zijn vertegenwoordiger, zijn mantelzorgers en het interdisciplinaire team beslissen samen over de zorg- en ondersteuningsdoelstellingen.<br>
+<br>
+De gebruiker of zijn vertegenwoordiger krijgt inzage en inspraak in zijn verzorgingsdossier.
+
+### ART 48/36.
+
+Boven op de voltijdsequivalenten die vereist zijn in een woonzorgcentrum met een bijkomende erkenning, beschikt het woonzorgcentrum met een bijzondere erkenning per tien gebruikers over 0,5 voltijdsequivalenten van bijkomende personeelsleden die voldoen aan al de volgende voorwaarden:<br>
+1° ze beschikken over een kwalificatie als maatschappelijk werker, sociaal verpleegkundige, orthopedagoog of master in de psychologie, of een daarmee gelijkgestelde kwalificatie;<br>
+2° ze beschikken over het getuigschrift referentiepersoon dementie.
 
 ## HOOFDSTUK IV Subsidiëring
 
