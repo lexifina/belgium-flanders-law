@@ -978,7 +978,7 @@ Voor het personeel van de provincie, ingezet in een of meer provinciale onderwij
 
 ### ART. 99.
 
-De provincieraad stelt de personeelsformatie vast. De personeelsformatie bevat de opsomming van het aantal en de soorten betrekkingen, met uitzondering van de betrekkingen in contractueel dienstverband ter uitvoering van de werkgelegenheidsmaatregelen van de hogere overheden.<br /><br />De personeelsformatie maakt in voorkomend geval een duidelijk onderscheid tussen het personeel dat in de provinciale diensten tewerkgesteld is enerzijds, en het kabinets- en fractiepersoneel, vermeld in artikel 100, § 3, anderzijds.<br /><br />Voor de gevallen, vermeld in artikel 100, § 2, 1°, kan de aanstellende overheid aanwerven buiten de personeelsformatie.
+...
 
 ## HOOFDSTUK III De rechtspositie van het personeel
 
