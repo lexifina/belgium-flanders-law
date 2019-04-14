@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030511,
+  "title": "Decreet van 2019-03-15 houdende diverse wijzigingsbepalingen betreffende het decreet betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en het decreet betreffende de integrale jeugdhulp",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030511/VolledigDocument?datum=2019-04-14",
+  "source_sha256": "13562b8c89e19f9f8e813a745d284436f0b541ed9475caa67c645e8d96d62b4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030511&param=informatie",
+  "as_of": "2019-04-14",
+  "made": "2019-03-15",
+  "gazette": "2019-04-04",
+  "numac": 2019011450,
+  "document_start": "2019-04-14",
+  "document_end": null,
+  "in_force": "2019-04-14",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2019-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
