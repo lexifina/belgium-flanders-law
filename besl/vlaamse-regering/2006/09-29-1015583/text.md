@@ -23,12 +23,12 @@ Besluit :<br>
 
 ### ART. 1.
 
-Het secretariaat van de MORA is samengesteld uit minstens vijf personeelsleden van niveau A.<br /><br />
+...
 
 ### ART. 2.
 
-Het decreet van 7 juli 2006 houdende de oprichting van de Mobiliteitsraad van Vlaanderen treedt in werking op 1 oktober 2006, met uitzondering van artikel 19, dat in werking treedt op de dag dat het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen in werking treedt.<br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor de Openbare Werken, en de Vlaamse minister, bevoegd voor het Mobiliteitsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br /><br />
+...
