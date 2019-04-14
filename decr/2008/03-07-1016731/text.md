@@ -39,7 +39,7 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 3.
 
-De bijzondere jeugdbijstand heeft tot doel overeenkomstig de bepalingen   van dit decreet :<BR>1° hulp en bijstand te organiseren of te verlenen ten   behoeve van minderjarigen die zich in een problematische opvoedingssituatie   bevinden of die een als misdrijf omschreven feit hebben gepleegd en eventueel   van de personen die over hen het ouderlijk gezag uitoefenen of hen onder hun   bewaring hebben;<BR>2° voorzieningen en projecten te organiseren, te erkennen of   te subsidiëren met het oog op de hulp- en bijstandsverlening, vermeld in   1°;<BR>3° initiatieven op te zetten, te bevorderen, te ondersteunen of te   coördineren om problematische opvoedingssituaties te voorkomen of te   bestrijden;<BR>4° een beleid te voeren, gericht op de realisatie van de   doeleinden, vermeld in 1° tot en met 3°.
+...
 
 ### ART. 4.
 
@@ -61,7 +61,7 @@ De bijzondere jeugdbijstand heeft tot doel overeenkomstig de bepalingen   van di
 
 ### ART. 7.
 
-Elke persoon die, in welke hoedanigheid ook, zijn medewerking verleent aan de toepassing van dit decreet zorgt voor de geheimhouding van de feiten die hem in de uitoefening van zijn opdracht worden toevertrouwd en die hiermee verband houden.<br /><br />Elke overtreding van dit artikel wordt gestraft met gevangenisstraf van acht dagen tot zes maanden en met een geldboete van honderd euro tot vijfhonderd euro.<br /><br />
+...
 
 ### ART. 8.
 
@@ -277,46 +277,33 @@ De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, bel
 
 ### ART. 48.
 
-§ 1. Iedere natuurlijke persoon of rechtspersoon die zich voorneemt doorgaans minderjarigen op te nemen of te begeleiden in het raam van dit decreet, moet daartoe door de Vlaamse Regering worden erkend.<br>
-<br>
-§ 2. De Vlaamse Regering stelt per categorie van voorzieningen de algemene erkenningsvoorwaarden vast. Die voorwaarden kunnen betrekking hebben op :<br>
-1° de personele en materiële infrastructuur;<br>
-2° het opleidingsniveau en de aanvullende vorming van het personeel;<br>
-3° de verzorging, het onderwijs, de beroepsopleiding en het opvoedingsregime van de minderjarigen;<br>
-4° het pedagogische concept en programma;<br>
-5° de door haar bepaalde programmatie inzake de voorzieningen.<br>
-<br>
-&nbsp;§ 3. De voorzieningen kunnen voor een onbepaalde duur erkend worden. De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar..<br>
-&nbsp;
+...
 
 ### ART. 49.
 
-De Vlaamse Regering beslist over de erkenningsaanvragen. De Vlaamse Regering stelt de erkenningsprocedure vast.<br>
-<br>
-Elk erkenningsdossier bevat, behoudens de vereiste administratieve inlichtingen, het pedagogische concept en programma, een verslag van het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 65 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, in wiens werkgebied de aanvrager is gevestigd.<br>
-&nbsp;
+...
 
 ### ART. 50.
 
-Als een erkende voorziening niet meer aan de erkenningsvoorwaarden voldoet, kan een aanmaning volgen van de Vlaamse Regering om zich, naar gelang van het geval, binnen een termijn van acht dagen tot zes maanden aan die voorwaarden te conformeren.<br /><br />Als de voorwaarden niet vervuld worden, ondanks de termijn van respijt, kan de Vlaamse Regering de erkenning intrekken.<br /><br />
+...
 
 ### ART. 51.
 
-De Vlaamse Regering laat de voorzieningen, vermeld in artikel 48, § 1, en de organisaties, vermeld in artikel 52/1, inspecteren door personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
+...
 
 ### ART. 52.
 
-De Vlaamse Regering bepaalt de subsidies aan de erkende voorzieningen, de projecten en de gelijkgestelde voorzieningen.<br /><br />De subsidiëringsnormen worden, overeenkomstig de door haar vastgestelde procedure, door de Vlaamse Regering vastgesteld.<br /><br />
+...
 
 ### ART. 52/1.
 
-Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering   organisaties erkennen en subsidiëren die voor specifieke categorieën van   minderjarigen de hulp- en dienstverlening ondersteunen die door de toegangspoort   en het ondersteuningscentrum wordt verstrekt.
+...
 
 ## Afdeling III Preventieve vaccinaties
 
 ### ART. 53.
 
-Buiten de gevallen waarin er een medische tegenaanwijzing bestaat, mogen   aan de minderjarigen die in een gemeenschapsinstelling of door bemiddeling van   een erkende voorziening geplaatst zijn overeenkomstig de bepalingen van de   jeugdbijstandsregeling preventieve vaccinaties en inentingen worden toegediend   overeenkomstig de regels die door de Vlaamse Regering worden   bepaald.<BR><BR>
+...
 
 ## HOOFDSTUK VI Financiering
 
