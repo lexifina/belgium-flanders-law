@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030514,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-29 tot regeling van de werking van de Mobiliteitsraad van Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030514/VolledigDocument?datum=2019-04-14",
+  "source_sha256": "ebfe687f4cf06b23d0f1285b729e4dccb8a3563ae00f2278901684abb876df14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030514&param=informatie",
+  "as_of": "2019-04-14",
+  "made": "2019-03-29",
+  "gazette": "2019-04-04",
+  "numac": 2019011534,
+  "document_start": "2019-04-14",
+  "document_end": null,
+  "in_force": "2019-04-14",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2019-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
