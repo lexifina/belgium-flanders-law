@@ -36,9 +36,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 3.
 
-§ 1. Onverminderd de wetgeving betreffende de rechten van de patiënt en behoudens afwijkingen waarin dit decreet voorziet, regelt dit decreet de rechten van minderjarigen ten aanzien van de jeugdhulpaanbieders, de toegangspoort en het ondersteuningscentrum Jeugdzorg.<br>
+§ 1. Onverminderd de wetgeving betreffende de rechten van de patiënt en behoudens afwijkingen waarin dit decreet voorziet, regelt dit decreet de rechten van minderjarigen in alle contacten met de jeugdhulp, de diensten die op grond van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht door de gemeenschap worden georganiseerd of beantwoorden aan de door de gemeenschap gestelde voorwaarden, de gemeenschapsinstelling en de sociale dienst voor gerechtelijke jeugdhulpverlening.<br>
 <br>
-Het is van toepassing vanaf het eerste contact dat een minderjarige heeft met een jeugdhulpaanbieder, de toegangspoort of het ondersteuningscentrum Jeugdzorg, ongeacht op welke wijze en door wie dit contact geïnitieerd wordt.<br>
+Artikel 8 tot en met 10 zijn niet van toepassing wanneer dit decreet toegepast wordt binnen het kader van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht.<br>
+<br>
+Het is van toepassing vanaf het eerste contact, ongeacht op welke wijze en door wie dit contact geïnitieerd wordt.<br>
+<br>
+§ 1/1. De rechten, vermeld in dit decreet, zijn van toepassing op meerderjarigen ten aanzien van wie jeugdhulpverlening wordt georganiseerd en meerderjarigen ten aanzien van wie een reactie loopt in het kader van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, met uitzondering van artikel 4, artikel 11, § 2, artikel 22, § 2, 3°, en § 5, en artikel 24, § 2.<br>
 <br>
 § 2. Dit decreet doet geen afbreuk aan wettelijke, decretale of reglementaire bepalingen, die aan minderjarigen ruimere rechten toekennen, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de uitzonderingen die met toepassing van deze laatste regelgeving in dit decreet voorzien zijn.
 
@@ -82,7 +86,11 @@ Als buitengerechtelijke jeugdhulp die past bij de jeugdhulpvraag of jeugdhulpbeh
 
 ### ART. 10.
 
-§ 1. Bij buitengerechtelijke jeugdhulp heeft de minderjarige te allen tijde het recht de interventie van een bepaalde jeugdhulpverlener te weigeren, voorzover de opdracht en de organisatie van de jeugdhulpvoorziening dat toelaten. De weigering mag de jeugdhulpverlening van de jeugdhulpvoorziening aan de minderjarige niet in het gedrang brengen.<br /><br />Op verzoek van de minderjarige wordt de weigering, bedoeld in het vorige lid, schriftelijk vastgelegd en toegevoegd aan het dossier van de minderjarige. De minderjarige heeft het recht om een schriftelijke motivering van die weigering aan zijn dossier te laten toevoegen.<br /><br />§ 2. De bepalingen van § 1 zijn van overeenkomstige toepassing op de toegangspoort en de trajectbegeleiding.
+§ 1. Bij buitengerechtelijke jeugdhulp heeft de minderjarige te allen tijde het recht de interventie van een bepaalde jeugdhulpverlener te weigeren, voorzover de opdracht en de organisatie van de jeugdhulpvoorziening dat toelaten. De weigering mag de jeugdhulpverlening van de jeugdhulpvoorziening aan de minderjarige niet in het gedrang brengen.<br>
+<br>
+Op verzoek van de minderjarige wordt de weigering, bedoeld in het vorige lid, schriftelijk vastgelegd en toegevoegd aan het dossier van de minderjarige. De minderjarige heeft het recht om een schriftelijke motivering van die weigering aan zijn dossier te laten toevoegen.<br>
+<br>
+§ 2. De bepalingen van § 1 zijn van overeenkomstige toepassing op de toegangspoort en het ondersteuningscentrum jeugdzorg.
 
 ## AFDELING 4 RECHT OP INFORMATIE EN DUIDELIJKE COMMUNICATIE
 
@@ -134,7 +142,7 @@ De jeugdhulpvoorzieningen beschikken over een regeling met betrekking tot de ins
 
 ### ART. 20.
 
-De minderjarige heeft recht op een dossier dat door de jeugdhulpvoorziening, de toegangspoort en het ondersteuningscentrum Jeugdzorg zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
+De minderjarige heeft recht op een dossier dat&nbsp;zorgvuldig wordt bijgehouden en veilig wordt bewaard.<br>
 <br>
 Het opstellen, het bewaren en het gebruik van het dossier zijn onderworpen aan de verplichtingen die voortvloeien uit de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens, aan de verplichtingen die voortvloeien uit de regelgeving van de sectoren en aan de supplementaire of specifieke verplichtingen, bepaald in deze Afdeling. Als deze verplichtingen onderling tegenstrijdig zijn, hebben de verplichtingen die voor de minderjarige het gunstigst zijn, voorrang, met behoud van de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens en de uitzonderingen die daar in voorkomend geval op bepaald zijn.
 
@@ -156,6 +164,8 @@ Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbe
 De minderjarige heeft recht op toelichting bij de gegevens waartoe hij toegang heeft.<br>
 <br>
 Met toepassing van artikel 23, lid 1, i), van de voormelde verordening wordt, in afwijking van artikel 12, lid 3, van de voormelde verordening, uiterlijk binnen vijftien dagen na ontvangst van het verzoek gevolg verleend aan het recht op toegang en toelichting.<br>
+<br>
+Met behoud van de toepassing van het vierde lid wordt voor gegevens die bij de toegangspoort en de gemandateerde voorzieningen worden bewaard, het recht op toegang uiterlijk verleend op het ogenblik waarop de toegangspoort of de gemandateerde voorziening een beslissing neemt. Voor gegevens die bij de sociale dienst worden bewaard, wordt het recht op toegang uiterlijk verleend op het ogenblik van de eerste beschikking van de jeugdrechter of het eerste vonnis van de jeugdrechtbank.<br>
 <br>
 § 3. De toegang tot de gegevens wordt verstrekt door inzage.<br>
 <br>
@@ -201,7 +211,17 @@ De minderjarige kan zich uitdrukkelijk en gemotiveerd verzetten tegen de toegang
 
 ### ART. 24.
 
-§ 1. De minderjarige heeft het recht om zich in alle contacten met de   jeugdhulpaanbieders, de toegangspoort en het ondersteuningscentrum Jeugdzorg en   in de uitoefening van zijn rechten, opgesomd in dit decreet, te laten bijstaan   door een persoon die aan de volgende voorwaarden voldoet:<BR>1° meerderjarig   zijn;<BR>2° niet rechtstreeks betrokken zijn bij de jeugdhulpverlening,   georganiseerd ten behoeve van de minderjarige;<BR>3° op ondubbelzinnige wijze   door de minderjarige aangewezen zijn;<BR>4° beschikken over een uittreksel uit   het strafregister dat een model 2 omvat.<BR><BR>De persoon die de minderjarige   bijstaat, legitimeert zich bij elk optreden in die hoedanigheid.<BR><BR>§ 2. Als   de minderjarige niet in staat is om zelf een persoon als bedoeld in § 1, aan te   wijzen en als de minderjarige en zijn ouders tegenstrijdige belangen hebben, kan   de jeugdhulpvoorziening of de toegangspoort voor hem een persoon aanwijzen die   beantwoordt aan de bepalingen van § 1, eerste lid, 1° en 2°. De Vlaamse regering   bepaalt de nadere regels voor de aanwijzing van die persoon. Het tweede lid van   § 1 is op die persoon van toepassing.<BR><BR>Het voorgaande lid is van   overeenkomstige toepassing als de minderjarige en zijn   opvoedingsverantwoordelijke tegenstrijdige belangen hebben en niemand het   ouderlijk gezag over de minderjarige uitoefent.
+§ 1. De minderjarige heeft het recht om zich in alle contacten&nbsp;en in de uitoefening van zijn rechten, opgesomd in dit decreet, te laten bijstaan door een persoon die aan de volgende voorwaarden voldoet:<br>
+1° meerderjarig zijn;<br>
+2° niet rechtstreeks betrokken zijn bij de jeugdhulpverlening, georganiseerd ten behoeve van de minderjarige;<br>
+3° op ondubbelzinnige wijze door de minderjarige aangewezen zijn;<br>
+4° beschikken over een uittreksel uit het strafregister dat een model 2 omvat.<br>
+<br>
+De persoon die de minderjarige bijstaat, legitimeert zich bij elk optreden in die hoedanigheid.<br>
+<br>
+§ 2. Als de minderjarige niet in staat is om zelf een persoon als bedoeld in § 1, aan te wijzen en als de minderjarige en zijn ouders tegenstrijdige belangen hebben, kan de jeugdhulpvoorziening of de toegangspoort voor hem een persoon aanwijzen die beantwoordt aan de bepalingen van § 1, eerste lid, 1° en 2°. De Vlaamse regering bepaalt de nadere regels voor de aanwijzing van die persoon. Het tweede lid van § 1 is op die persoon van toepassing.<br>
+<br>
+Het voorgaande lid is van overeenkomstige toepassing als de minderjarige en zijn opvoedingsverantwoordelijke tegenstrijdige belangen hebben en niemand het ouderlijk gezag over de minderjarige uitoefent.
 
 ## AFDELING 9 RECHT OP PRIVACY
 
