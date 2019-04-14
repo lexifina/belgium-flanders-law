@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030512,
+  "title": "Decreet van 2019-03-15 houdende instemming met het samenwerkingsakkoord van 21 december 2018 tussen de Vlaamse Gemeenschap en de Duitstalige Gemeenschap betreffende het gebruik van de FM-frequentie Brussegem 95.2 MHz",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030512/VolledigDocument?datum=2019-04-14",
+  "source_sha256": "9214b22d9a24e5a10ad549f59992879a5b79f620053226905675a81e36d928b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030512&param=informatie",
+  "as_of": "2019-04-14",
+  "made": "2019-03-15",
+  "gazette": "2019-04-04",
+  "numac": 2019011444,
+  "document_start": "2019-04-14",
+  "document_end": null,
+  "in_force": "2019-04-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
