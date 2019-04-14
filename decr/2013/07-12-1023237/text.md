@@ -23,7 +23,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 11° Departement Welzijn, Volksgezondheid en Gezin : het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
 12° diagnostiek : het proces van de verzameling en ordening van de beschikbare relevante gegevens vanuit de hulpvraag;<br>
 13° dienstverlener : hulp-, zorg- en dienstverleners die professioneel betrokken zijn bij het welzijn van minderjarigen;<br>
-14° erkende voorziening van de bijzondere jeugdbijstand : een voorziening die erkend is met toepassing van hoofdstuk V, afdeling II, van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+14° erkende voorziening van de bijzondere jeugdbijstand : een voorziening die erkend is met toepassing van hoofdstuk 14/1;<br>
 15° flexibiliteit : de herzienbaarheid van de aangeboden jeugdhulpverlening in functie van de wenselijkheid en van wat als ondersteunend wordt ervaren door de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken;<br>
 15° /2 geanonimiseerde gegevens : gegevens die geen betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon of die betrekking hebben op persoonsgegevens die zodanig anoniem zijn gemaakt dat de betrokkene niet of niet meer identificeerbaar is;<br>
 15° /3 gecodeerde persoonsgegevens : de persoonsgegevens die alleen met een code in verband kunnen worden gebracht met een geïdentificeerde of identificeerbare persoon;<br>
@@ -47,8 +47,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 32° kindermishandeling : elke vorm van lichamelijk, psychisch of seksueel geweld waar van een minderjarige het slachtoffer is, actief door het schadelijke optreden of passief door een ernstige nalatigheid van zijn ouders of van iedere andere persoon ten opzichte van wie de minderjarige in een relatie van afhankelijkheid staat;<br>
 33° leefomgeving : de natuurlijke personen, met uitzondering van de ouders en de opvoedingsverantwoordelijken, die bij de minderjarige inwonen of met de minderjarige een familiale of bijzondere affectieve band hebben, onder wie de natuurlijke personen die in de buurt van de minderjarige wonen of met wie de minderjarige geregeld contact heeft, onder meer bij het naar school gaan of tijdens de vrijetijdsbesteding;<br>
 34° maatschappelijke noodzaak : de kwalificatie die na het onderzoek, vermeld in artikel 34, door de gemandateerde voorziening aan een verontrustende situatie wordt gegeven en die de noodzaak vastlegt om jeugdhulpverlening in te schakelen;<br>
-35° Managementcomité : het Managementcomité Integrale Jeugdhulp, vermeld in artikel 61;<br>
-36° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar;<br>
+35° ...;<br>
+36° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar of van wie vermoed wordt dat hij jonger dan achttien jaar is ;<br>
 37° mobiel : de hulp wordt niet in de voorziening maar elders aangeboden (thuis, op school enzovoort);<br>
 38° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening op basis van de hulpvraag, aangeboden door een jeugdhulpaanbieder, gebaseerd op één typemodule, die afzonderlijk, gelijktijdig of consecutief en op een manier waarbij de flexibiliteit met andere eenheden van jeugdhulpverlening gewaarborgd is, kan worden aangeboden;<br>
 39° netwerk : een functioneel samenwerkingsverband van jeugdhulpaanbieders dat afspraken over een integrale uitbouw van de hulpverlening vastlegt in een samenwerkingsprotocol;<br>
@@ -59,18 +59,31 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 44° persoonsvolgende financiering : het instrument voor de eigen sturing van de hulp door de persoon met een handicap, dat de persoon volgt en waarmee hij op afdoende wijze zorg en assistentie voor zichzelf kan betrekken. Deze financieringswijze wordt opgedeeld in een systeem van persoonsvolgende vouchers en in een systeem van cash budgetten, waarbij de persoon met een handicap kan overstappen van het ene systeem op het andere en terug;<br>
 45° pleeggezin : het gezin van de pleegzorger;<br>
 46° pleegzorger : een meerderjarige natuurlijke persoon die één of meer pleegkinderen en/of pleeggasten in het eigen gezin opvangt;<br>
+46° /1 projecten: een tijdelijk initiatief dat wordt ingezet om in te spelen op maatschappelijke, inhoudelijke of andere evoluties en dat desgevallend wordt ingezet bovenop de opdracht waarvoor voorzieningen erkend zijn;<br>
 47° rechtstreeks toegankelijke jeugdhulpverlening : de modules van jeugdhulpverlening voor de toegangspoort die volgens het onderscheid, vermeld in artikel 14 en 15, behoren tot de rechtstreeks toegankelijke jeugdhulpverlening en waartoe minderjarigen, ouders en, in voorkomend geval, opvoedingsverantwoordelijken toegang nebben, zonder dat ze daarvoor een jeugdhulpverleningsbeslissing als vermeld in artikel 26, § 1, eerste lid, 3°, nodig hebben;<br>
 48° regio : een regio integrale jeugdhulp als vermeld in artikel 64;<br>
 49° residentieel : de hulp wordt in de voorziening aangeboden en de cliënt overnacht in de voorziening;<br>
 50° sector : een domein dat geregeld wordt door een regelgeving als vermeld in artikel 3, § 1, eerste lid, 1° tot en met 7°, of toepasselijk verklaard wordt krachtens artikel 3, § 2;<br>
-51° sociale dienst : de Sociale Dienst voor Gerechtelijke Jeugdhulpverlening, vermeld in artikel 56;<br>
+51° sociale dienst : de Sociale Dienst Jeugdrechtbank, vermeld in artikel 56;<br>
 52° toegangspoort : een orgaan als vermeld in artikel 17;<br>
 53° typemodule : een afgelijnde eenheid van jeugdhulpverlening, gebaseerd op één functie of op een specifiek omschreven kernproces van hulpverlening, die deel uitmaakt van een intersectoraal opgemaakte set van typemodules en die tot doel heeft de kernopdrachten van de sectoren in dezelfde taal te formuleren en op elkaar af te stemmen;<br>
 54° verontrustende situatie : een situatie die de ontwikkeling van een minderjarige bedreigt doordat zijn psychische, fysieke of seksuele integriteit of die van een of meer leden van zijn gezin wordt aangetast of doordat zijn affectieve, morele, intellectuele of sociale ontplooiingskansen in het gedrang komen, waardoor het aanbieden van jeugdhulpverlening maatschappelijk noodzakelijk kan zijn;<br>
 55° vertrouwenscentrum kindermishandeling : een centrum als vermeld in artikel 42;<br>
+55° /1 voorzieningen: de initiatieven die hulp- of dienstverlening aan minderjarigen en gezinnen aanbieden;<br>
 56° vrijwillige jeugdhulpverlening : rechtstreeks of niet rechtstreeks toegankelijke jeugdhulpverlening die berust op een vrijwillige medewerking van de betrokken partijen en die geen gerechtelijke jeugdhulpverlening is.</p>
 
 <p>§ 2. Bij verwijzing naar personen wordt in dit decreet de mannelijke vorm gebruikt.</p>
+
+### ART 2/1.
+
+De ouder van de minderjarige en, in voorkomend geval, de opvoedingsverantwoordelijke hebben het recht om zich in alle contacten met de jeugdhulp en met de sociale dienst, te laten bijstaan door een persoon die aan de volgende voorwaarden voldoet :<br>
+1° meerderjarig zijn;<br>
+2° niet rechtstreeks betrokken zijn bij de jeugdhulpverlening die voor de minderjarige georganiseerd wordt;<br>
+3° op ondubbelzinnige wijze door de ouder en, in voorkomend geval, de opvoedingsverantwoordelijke aangewezen zijn;<br>
+4° beschikken over een uittreksel uit het strafregister dat een model 2 als vermeld in artikel 596, tweede lid, Wetboek van Strafvordering, omvat;<br>
+5° verschillen van de vertrouwenspersoon van de minderjarige, vermeld in artikel 24 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp.<br>
+<br>
+De vertrouwenspersoon die de ouder en, in voorkomend geval, de opvoedingsverantwoordelijke bijstaat, legitimeert zich bij elk optreden in die hoedanigheid.
 
 ## HOOFDSTUK 2. Toepassingsgebied van de integrale jeugdhulp
 
@@ -82,7 +95,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 3° het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
 4° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 5° het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
-6° het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+6° artikel 40, § 2, 1°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 7° het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
 8° het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.</p>
 
@@ -100,7 +113,13 @@ De Vlaamse Regering kan, voor het aanleveren van relevante gegevens over   de mi
 
 ### ART. 5.
 
-<P>Integrale jeugdhulp biedt aan minderjarigen, hun ouders en, in voorkomend   geval, hun opvoedingsverantwoordelijken en de betrokken personen uit hun   leefomgeving die daar behoefte aan hebben, hulp en zorg op maat die met een   grote mate aan flexibiliteit aan de hulpvraag proberen te beantwoorden. Ze doet   dat door een gemeenschappelijke analyse van de hulpvraag en in een   sectoroverschrijdende samenwerking tussen jeugd-hulpaanbieders en intersectorale   afstemming van het jeugdhulpaanbod. Het jeugdhulpaanbod kan herzien worden in   functie van wat als efficiënt, effectief en ondersteunend ervaren wordt door de   minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken.<BR></P>  <P>Ze omvat zowel de rechtstreeks toegankelijke als de niet rechtstreeks   toegankelijke jeugdhulp, waarmee de personen tot wie ze zich richt, instemmen,   als gerechtelijke jeugdhulp.<BR></P>  <P>De integrale jeugdhulp respecteert op elk moment de bepalingen van het   Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november   1989 en geëxpliciteerd in het decreet van 7 mei 2004 betreffende de   rechtspositie van minderjarigen in de integrale jeugdhulp. De jeugdhulp houdt op   elk moment rekening met de godsdienstige, de ideologische en de wijsgerige   overtuiging van de minderjarige, zijn ouders of   opvoedingsverantwoordelijken.</P>
+<p>Integrale jeugdhulp biedt aan minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken personen uit hun leefomgeving die daar behoefte aan hebben, hulp en zorg op maat die met een grote mate aan flexibiliteit aan de hulpvraag proberen te beantwoorden. Ze doet dat door een gemeenschappelijke analyse van de hulpvraag en in een sectoroverschrijdende samenwerking tussen jeugd-hulpaanbieders en intersectorale afstemming van het jeugdhulpaanbod. Het jeugdhulpaanbod kan herzien worden in functie van wat als efficiënt, effectief en ondersteunend ervaren wordt door de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken.</p>
+
+<p>Ze omvat zowel de rechtstreeks toegankelijke als de niet rechtstreeks toegankelijke jeugdhulp, waarmee de personen tot wie ze zich richt, instemmen, als gerechtelijke jeugdhulp.<br>
+<br>
+Er worden voorzieningen en projecten georganiseerd, erkend of gesubsidieerd voor de jeugdhulpverlening aan minderjarigen die zich in een verontrustende situatie bevinden of die een jeugddelict hebben gepleegd, en eventueel van hun ouders, hun opvoedingsverantwoordelijken of personen uit hun leefomgeving</p>
+
+<p>De integrale jeugdhulp respecteert op elk moment de bepalingen van het Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989 en geëxpliciteerd in het decreet van 7 mei 2004 betreffende de rechtspositie van minderjarigen in de integrale jeugdhulp. De jeugdhulp houdt op elk moment rekening met de godsdienstige, de ideologische en de wijsgerige overtuiging van de minderjarige, zijn ouders of opvoedingsverantwoordelijken.</p>
 
 ## Afdeling 2. Principes
 
@@ -168,7 +187,21 @@ De Vlaamse Regering kan voor bepaalde specifieke doelgroepen of   problematieken
 
 ### ART. 18.
 
-<P>§ 1. De toegangspoort ontvangt de aanvragen voor niet rechtstreeks   toegankelijke jeugdhulpverlening die aangeboden wordt ter uitvoering van de   regelgeving, vermeld in artikel 3, met uitzondering van aanvragen met betrekking   tot het aanbod van de gemeenschapsinstellingen, en oefent de taken   indicatiestelling en jeugdhulpregie uit volgens de bepalingen van onderafdeling   2 en 3.<BR></P>  <P>§ 2. Voor de aanvragen tot tenlasteneming van individuele materiële bijstand   voor de sociale integratie van personen met een handicap als vermeld in artikel   6, 2°, en artikel 8, 3°, van het decreet van 7 mei 2004 tot oprichting van het   intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap   voor Personen met een Handicap, beperkt de opdracht van de toegangspoort zich   tot het ontvangen van de aanvraag ervan.<BR></P>  <P>De Vlaamse Regering regelt de samenwerking tussen de toegangspoort en het   intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap   voor Personen met een Handicap voor de afhandeling van de aanvragen, vermeld in   het eerste lid.<BR></P>  <P>§ 3. De toegangspoort kan voor personen vanaf achttien jaar en tot maximaal   vijfentwintig jaar beslissen over de voortzetting van jeugdhulpverlening die   vóór de leeftijd van achttien jaar is aangevraagd, conform de regels die de   Vlaamse Regering bepaalt.<BR></P>  <P>§ 4. De toegangspoort beheert de beschikbare capaciteit van de niet   rechtstreeks toegankelijke modules. Ze streeft naar een maximale benutting van   de beschikbare capaciteit in functie van de hulpvragen en neemt het wachtbeheer   op zich.<BR></P>  <P>De toegangspoort gaat in overleg met de jeugdhulpaanbieders van de regio in   functie van de regie van jeugdhulpverlening. Dat overleg kan niet geweigerd   worden door de jeugdhulpaanbieders. De jeugdhulpaanbieders geven de vrijgekomen   plaatsen door aan de toegangspoort.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels daarvoor.<BR></P>  <P>De Vlaamse Regering kan bepalen op welke wijze de toegangspoort ook zicht   houdt op het beschikbare aanbod rechtstreeks toegankelijke   modules.</P>
+<p>§ 1. De toegangspoort ontvangt de aanvragen voor niet rechtstreeks toegankelijke jeugdhulpverlening die aangeboden wordt ter uitvoering van de regelgeving, vermeld in artikel 3, met uitzondering van aanvragen met betrekking tot het aanbod van de gemeenschapsinstellingen, en oefent de taken indicatiestelling en jeugdhulpregie uit volgens de bepalingen van onderafdeling 2 en 3.</p>
+
+<p>§ 2. Voor de aanvragen tot tenlasteneming van individuele materiële bijstand voor de sociale integratie van personen met een handicap als vermeld in artikel 6, 2°, en artikel 8, 3°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, beperkt de opdracht van de toegangspoort zich tot het ontvangen van de aanvraag ervan.</p>
+
+<p>De Vlaamse Regering regelt de samenwerking tussen de toegangspoort en het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap voor de afhandeling van de aanvragen, vermeld in het eerste lid.</p>
+
+<p>§ 3. De toegangspoort kan voor personen tot maximaal vijfentwintig jaar beslissen over de jeugdhulpverlening conform de regels die de Vlaamse Regering bepaalt.</p>
+
+<p>§ 4. De toegangspoort beheert de beschikbare capaciteit van de niet rechtstreeks toegankelijke modules. Ze streeft naar een maximale benutting van de beschikbare capaciteit in functie van de hulpvragen en neemt het wachtbeheer op zich.</p>
+
+<p>De toegangspoort gaat in overleg met de jeugdhulpaanbieders van de regio in functie van de regie van jeugdhulpverlening. Dat overleg kan niet geweigerd worden door de jeugdhulpaanbieders. De jeugdhulpaanbieders geven de vrijgekomen plaatsen door aan de toegangspoort.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels daarvoor.</p>
+
+<p>De Vlaamse Regering kan bepalen op welke wijze de toegangspoort ook zicht houdt op het beschikbare aanbod rechtstreeks toegankelijke modules.</p>
 
 ### ART. 19.
 
@@ -204,7 +237,32 @@ Zowel voor diagnostiek als voor indicatiestelling wordt gebruikgemaakt van   ins
 
 ### ART. 26.
 
-<P>§ 1. Voor de jeugdhulpregie heeft het team Jeugdhulpregie de volgende   opdrachten :<BR>1° het indicatiestellingsverslag, vermeld in artikel 21, eerste   lid, 2°, of het verzoek van de jeugdrechter om niet rechtstreeks toegankelijke   jeugdhulpverlening, vermeld in artikel 55, omzetten in een of meer modules niet   rechtstreeks toegankelijke jeugdhulpverlening in een persoonsvolgende   financiering of in een combinatie van beide die het mogelijk maakt om de   geïndiceerde jeugdhulpverlening te realiseren, en de minderjarige inschrijven op   de intersectorale registratielijst;<BR>2° met het oog op de uitvoering van de   geïndiceerde jeugdhulpverlening, samen met de minderjarige, zijn ouders en, in   voorkomend geval, zijn opvoedingsverantwoordelijken, de betrokken personen uit   zijn leefomgeving en de persoon of voorziening die de minderjarige heeft   aangemeld bij de toegangspoort, onderhandelen met jeugdhulpaanbieders en andere   personen en voorzieningen die jeugdhulpverlening aanbieden;<BR>3° ofwel de   overeengekomen modules, vermeld in punt 1°, vastleggen in een   jeugdhulpverleningsbeslissing en die bezorgen aan de persoon of voorziening die   de minderjarige heeft aangemeld bij de toegangspoort, aan de minderjarige, zijn   ouders of opvoedingsverantwoordelijken, en aan de betrokken jeugdhulpaanbieders,   ofwel de persoonsvolgende financiering, vermeld in punt 1°, vastleggen in een   jeugdhulpverleningsbeslissing en die bezorgen aan de minderjarige, zijn ouders   of opvoedingsverantwoordelijken, of een combinatie van beide vastleggen in een   jeugdhulpverleningsbeslissing en die bezorgen aan de minderjarige, zijn ouders   of opvoedingsverantwoordelijken;<BR>4° als de modules, vermeld in punt 1°, of   een deel ervan, niet onmiddellijk beschikbaar zijn, en, in voorkomend geval, op   basis van een prioritering van de hulpvraag, een jeugdhulpverleningsvoorstel   opmaken en dat bezorgen aan de persoon of voorziening die de minderjarige heeft   aangemeld bij de toegangspoort, aan de minderjarige, zijn ouders of   opvoedingsverantwoordelijken en aan de betrokken jeugdhulpaanbieders en de   andere betrokken personen en voorzieningen die jeugdhulpverlening   aanbieden;<BR>5° als de modules, vermeld in punt 1°, of een deel ervan, niet   kunnen worden uitgevoerd en de opdracht, vermeld in het eerste lid, 4°,   beëindigd is, het dossier bezorgen aan de Intersectorale Regionale   Prioriteitencommissie;<BR>6° voor dossiers met de hoogste prioriteit de   jeugdhulpaanbieders de opdracht geven om binnen de beschikbare capaciteit een of   meer modules niet rechtstreeks toegankelijke jeugdhulpverlening uit te   voeren.<BR></P>  <P>Voor het verzoek van de jeugdrechter, vermeld in het eerste lid, 1 °, wordt   nagegaan welke niet rechtstreeks toegankelijke jeugdhulpverlening uitvoering kan   geven aan de door de jeugdrechter voorgestelde maatregel.<BR></P>  <P>Als het indicatiestellingsverslag, vermeld in het eerste lid, 1°,   jeugdhulpverlening indiceert die wordt aangeboden met toepassing van de   regelgeving, vermeld in artikel 3, § 1, eerste lid, 5°, en het dossier in   aanmerking komt voor een persoonsvolgende financiering, bezorgt het team   Jeugdhulpregie het dossier onmiddellijk aan de Intersectorale Regionale   Prioriteitencommissie die in voorkomend geval overgaat tot een prioritering van   het dossier. De minderjarige, zijn ouders of, in voorkomend geval, zijn   opvoedingsverantwoordelijken die de regie voeren, beslissen verder over de   persoonsvolgende financiering en zorgen voor de regie ervan.<BR></P>  <P>De opdracht, vermeld in het eerste lid, 2°, wordt door het team   Jeugdhulpregie alleen uitgevoerd als geen jeugdhulpaanbieders worden gezocht of   kunnen worden gevonden door :<BR>1° de minderjarige, zijn ouders en, in   voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit   zijn leefomgeving;<BR>2° een jeugdhulpaanbieder of een andere persoon of   voorziening die jeugdhulpverlening aanbiedt, ongeacht of die persoon of   voorziening de minderjarige heeft aangemeld bij de toegangspoort.<BR></P>  <P>Dossiers met de hoogste prioriteit, vermeld in het eerste lid, 6°, zijn   dossiers :<BR>1° die een prioritair toe te wijzen hulpvraag zijn geworden omdat   het verregaande overleg, vermeld in het eerste lid, 5°, niet resulteert in een   uitvoering van de geïndiceerde jeugdhulpverlening;<BR>2° waarvoor het   indicatiestellingsverslag, vermeld in het eerste lid, 1°, jeugdhulpverlening   indiceert die wordt aangeboden met toepassing van de regelgeving, vermeld in   artikel 3, § 1, eerste lid, 5°, en waarbij de betrokken minderjarige in een   noodsituatie verkeert;<BR>3° die de jeugdrechter met toepassing van artikel 55   heeft laten inschrijven op de intersectorale registratielijst met het oog op de   uitvoering van een maatregel die hij heft bevolen met toepassing van artikel   53.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de jeugdhulpregie, de   jeugdhulpverleningsbeslissing, het jeugdhulpverleningsvoorstel en de   persoonsvolgende financiering. De Vlaamse Regering bepaalt ook de minimale   inhoudelijke en procesmatige criteria voor de prioritering van dossiers door het   team Jeugdhulpregie en door de Intersectorale Regionale Prioriteitencommissie,   de maximale termijn voor de uitvoering van de opdrachten, vermeld in het eerste   lid, 3°, 4°, 5° en 6°, de nadere regels voor de erkenning van een situatie als   een noodsituatie, vermeld in het vierde lid, 2°, en de nadere samenstelling en   de opdrachten van de Intersectorale Regionale Prioriteitencommissie.<BR></P>  <P>§ 2. Voor iedere indicatiestelling wordt binnen de beschikbare capaciteit de   geïndiceerde jeugdhulpverlening gerealiseerd met inzet en verregaand overleg van   de relevante jeugdhulpaanbieders. Als in de jeugdhulpverleningsbeslissing   tegelijkertijd modules zijn opgenomen die worden aangeboden door verschillende   jeugdhulpaanbieders, wijst de jeugdhulpverleningsbeslissing, na overleg met de   betrokken jeugdhulpaanbieders, de jeugdhulpaanbieder aan die zal zorgen voor de   coördinatie van de jeugdhulpverlening.<BR></P>  <P>§ 3. Jeugdhulpaanbieders die niet rechtstreeks toegankelijke modules   aanbieden, verlenen desgevraagd aan het team Jeugdhulpregie hun volle   medewerking voor de realisatie van de geïndiceerde jeugdhulpverlening. Als een   jeugdhulpaanbieder niet overgaat tot uitvoering van de jeugdhulpverlening, wordt   dat ten overstaan van het team Jeugdhulpregie en de minderjarige, zijn ouders   of, in voorkomend geval, zijn opvoedingsverantwoordelijken gemotiveerd.   Jeugdhulpaanbieders kunnen in geen geval de uitvoering van de jeugdhulpverlening   weigeren als het team Jeugdhulpregie, met toepassing van paragraaf 1, eerste   lid, 6°, hen de opdracht heeft gegeven om modules uit te voeren voor een dossier   met de hoogste prioriteit.</P>
+<p>§ 1. Voor de jeugdhulpregie heeft het team Jeugdhulpregie de volgende opdrachten :<br>
+1° het indicatiestellingsverslag, vermeld in artikel 21, eerste lid, 2°, of het verzoek van de jeugdrechter om niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 55, omzetten in een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening in een persoonsvolgende financiering of in een combinatie van beide die het mogelijk maakt om de geïndiceerde jeugdhulpverlening te realiseren, en de minderjarige inschrijven op de intersectorale registratielijst;<br>
+2° met het oog op de uitvoering van de geïndiceerde jeugdhulpverlening, samen met de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken, de betrokken personen uit zijn leefomgeving en de persoon of voorziening die de minderjarige heeft aangemeld bij de toegangspoort, onderhandelen met jeugdhulpaanbieders en andere personen en voorzieningen die jeugdhulpverlening aanbieden;<br>
+3° ofwel de overeengekomen modules, vermeld in punt 1°, vastleggen in een jeugdhulpverleningsbeslissing en die bezorgen aan de persoon of voorziening die de minderjarige heeft aangemeld bij de toegangspoort, aan de minderjarige, zijn ouders of opvoedingsverantwoordelijken, en aan de betrokken jeugdhulpaanbieders, ofwel de persoonsvolgende financiering, vermeld in punt 1°, vastleggen in een jeugdhulpverleningsbeslissing en die bezorgen aan de minderjarige, zijn ouders of opvoedingsverantwoordelijken, of een combinatie van beide vastleggen in een jeugdhulpverleningsbeslissing en die bezorgen aan de minderjarige, zijn ouders of opvoedingsverantwoordelijken;<br>
+4° als de modules, vermeld in punt 1°, of een deel ervan, niet onmiddellijk beschikbaar zijn, en, in voorkomend geval, op basis van een prioritering van de hulpvraag, een jeugdhulpverleningsvoorstel opmaken en dat bezorgen aan de persoon of voorziening die de minderjarige heeft aangemeld bij de toegangspoort, aan de minderjarige, zijn ouders of opvoedingsverantwoordelijken en aan de betrokken jeugdhulpaanbieders en de andere betrokken personen en voorzieningen die jeugdhulpverlening aanbieden;<br>
+5° als de modules, vermeld in punt 1°, of een deel ervan, niet kunnen worden uitgevoerd en de opdracht, vermeld in het eerste lid, 4°, beëindigd is, het dossier bezorgen aan de Intersectorale Regionale Prioriteitencommissie;<br>
+6° voor dossiers met de hoogste prioriteit de jeugdhulpaanbieders de opdracht geven om binnen de beschikbare capaciteit een of meer modules niet rechtstreeks toegankelijke jeugdhulpverlening uit te voeren.</p>
+
+<p>Voor het verzoek van de jeugdrechter, vermeld in het eerste lid, 1 °, wordt nagegaan welke niet rechtstreeks toegankelijke jeugdhulpverlening uitvoering kan geven aan de door de jeugdrechter voorgestelde maatregel.</p>
+
+<p>Als het indicatiestellingsverslag, vermeld in het eerste lid, 1°, jeugdhulpverlening indiceert die wordt aangeboden met toepassing van de regelgeving, vermeld in artikel 3, § 1, eerste lid, 5°, en het dossier in aanmerking komt voor een persoonsvolgende financiering, bezorgt het team Jeugdhulpregie het dossier onmiddellijk aan de Intersectorale Regionale Prioriteitencommissie die in voorkomend geval overgaat tot een prioritering van het dossier. De minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken die de regie voeren, beslissen verder over de persoonsvolgende financiering en zorgen voor de regie ervan.</p>
+
+<p>De opdracht, vermeld in het eerste lid, 2°, wordt door het team Jeugdhulpregie alleen uitgevoerd als geen jeugdhulpaanbieders worden gezocht of kunnen worden gevonden door :<br>
+1° de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving;<br>
+2° een jeugdhulpaanbieder of een andere persoon of voorziening die jeugdhulpverlening aanbiedt, ongeacht of die persoon of voorziening de minderjarige heeft aangemeld bij de toegangspoort.</p>
+
+<p>Dossiers met de hoogste prioriteit, vermeld in het eerste lid, 6°, zijn dossiers :<br>
+1° die een prioritair toe te wijzen hulpvraag zijn geworden omdat het verregaande overleg, vermeld in het eerste lid, 2°, niet resulteert in een uitvoering van de geïndiceerde jeugdhulpverlening;<br>
+2° waarvoor het indicatiestellingsverslag, vermeld in het eerste lid, 1°, jeugdhulpverlening indiceert die wordt aangeboden met toepassing van de regelgeving, vermeld in artikel 3, § 1, eerste lid, 5°, en waarbij de betrokken minderjarige in een noodsituatie verkeert;<br>
+3° die de jeugdrechter met toepassing van artikel 55 heeft laten inschrijven op de intersectorale registratielijst met het oog op de uitvoering van een maatregel die hij heft bevolen met toepassing van artikel 53.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de jeugdhulpregie, de jeugdhulpverleningsbeslissing, het jeugdhulpverleningsvoorstel en de persoonsvolgende financiering. De Vlaamse Regering bepaalt ook de minimale inhoudelijke en procesmatige criteria voor de prioritering van dossiers door het team Jeugdhulpregie en door de Intersectorale Regionale Prioriteitencommissie, de maximale termijn voor de uitvoering van de opdrachten, vermeld in het eerste lid, 3°, 4°, 5° en 6°, de nadere regels voor de erkenning van een situatie als een noodsituatie, vermeld in het vierde lid, 2°, en de nadere samenstelling en de opdrachten van de Intersectorale Regionale Prioriteitencommissie.</p>
+
+<p>§ 2. Voor iedere indicatiestelling wordt binnen de beschikbare capaciteit de geïndiceerde jeugdhulpverlening gerealiseerd met inzet en verregaand overleg van de relevante jeugdhulpaanbieders. Als in de jeugdhulpverleningsbeslissing tegelijkertijd modules zijn opgenomen die worden aangeboden door verschillende jeugdhulpaanbieders, wijst de jeugdhulpverleningsbeslissing, na overleg met de betrokken jeugdhulpaanbieders, de jeugdhulpaanbieder aan die zal zorgen voor de coördinatie van de jeugdhulpverlening.</p>
+
+<p>§ 3. Jeugdhulpaanbieders die niet rechtstreeks toegankelijke modules aanbieden, verlenen desgevraagd aan het team Jeugdhulpregie hun volle medewerking voor de realisatie van de geïndiceerde jeugdhulpverlening. Als een jeugdhulpaanbieder niet overgaat tot uitvoering van de jeugdhulpverlening, wordt dat ten overstaan van het team Jeugdhulpregie en de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken gemotiveerd. Jeugdhulpaanbieders kunnen in geen geval de uitvoering van de jeugdhulpverlening weigeren als het team Jeugdhulpregie, met toepassing van paragraaf 1, eerste lid, 6°, hen de opdracht heeft gegeven om modules uit te voeren voor een dossier met de hoogste prioriteit.</p>
 
 ### ART. 27.
 
@@ -214,7 +272,15 @@ Als na de voltooiing van de jeugdhulpregie conform artikel 26 de duur van   de m
 
 ### ART. 28.
 
-<P>De minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving   kunnen van de toegangspoort een versnelde indicatiestelling en toewijzing   krijgen in urgente situaties waarbij :<BR>1° er een tekort is aan aangeleverde   diagnostiek;<BR>2° er vraag is naar een overname, voor een beperkte periode, van   een minderjarige door een jeugdhulpaanbieder die modules aanbiedt die   vergelijkbaar zijn met de modules van diegene die modules uitvoert voor de   minderjarige;<BR>3° jeugdhulpverlening geïndiceerd is vanuit het hulpprogramma   crisis;<BR>4° er nood is aan de financiering van specifieke acties voor de   versterking van de draagkracht van de minderjarige, zijn ouders en, in   voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit   zijn leefomgeving.<BR></P>  <P>Die specifieke acties kunnen, met inachtneming van de bepalingen in artikel 6   van dit decreet, genomen worden als tijdelijke ondersteuning om te voorkomen dat   meer ingrijpende jeugdhulpverlening nodig is en bestaan uit hulp en zorg die   buiten het toepassingsgebied, vermeld in artikel 3, § 1, vallen.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de versnelde   indicatiestelling en toewijzing en voor de financiering van specifieke   acties.</P>
+<p>De minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving kunnen van de toegangspoort een versnelde indicatiestelling en toewijzing krijgen in&nbsp;situaties waarbij :<br>
+1° er een tekort is aan aangeleverde diagnostiek;<br>
+2° er vraag is naar een overname, voor een beperkte periode, van een minderjarige door een jeugdhulpaanbieder die modules aanbiedt die vergelijkbaar zijn met de modules van diegene die modules uitvoert voor de minderjarige;<br>
+3° jeugdhulpverlening geïndiceerd is vanuit het hulpprogramma crisis;<br>
+4° er nood is aan de financiering van specifieke acties voor de versterking van de draagkracht van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving.</p>
+
+<p>Die specifieke acties kunnen, met inachtneming van de bepalingen in artikel 6 van dit decreet, genomen worden als tijdelijke ondersteuning om te voorkomen dat meer ingrijpende jeugdhulpverlening nodig is en bestaan uit hulp en zorg die buiten het toepassingsgebied, vermeld in artikel 3, § 1, vallen.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de versnelde indicatiestelling en toewijzing en voor de financiering van specifieke acties.</p>
 
 ## Afdeling 4. Rechtstreekse toegang tot de toegangspoort
 
@@ -246,7 +312,13 @@ Als na de voltooiing van de jeugdhulpregie conform artikel 26 de duur van   de m
 
 ### ART. 33.
 
-<P>§ 1. Er wordt een ondersteuningscentrum Jeugdzorg opgericht. Het   ondersteuningscentrum vervult minstens de volgende opdrachten :<BR>1° op hun   verzoek consult verlenen aan jeugdhulpaanbieders en andere personen en   voorzieningen die jeugdhulpverlening aanbieden in verontrustende situaties waar   er een vermoeden is dat het aanbieden van jeugdhulpverlening maatschappelijk   noodzakelijk is;<BR>2° bij een aanmelding door jeugdhulpaanbieders of door   andere personen en voorzieningen die jeugdhulpverlening aanbieden of na een   kennisgeving door het openbaar ministerie, door de minderjarige, zijn ouders of,   in voorkomend geval, zijn opvoedingsverantwoordelijken, zijn vertrouwenspersoon   of door een dienstverlener, verontrustende situaties onderzoeken en opvolgen als   vermeld in artikel 34, 35, 36, 37, 38 en 41;<BR>3° aan de magistraten die belast   zijn met jeugdzaken, de waarborg verlenen dat daadwerkelijk jeugdhulpverlening   wordt verleend in verontrustende situaties aan minderjarigen, hun ouders en, in   voorkomend geval, hun opvoedingsverantwoordelijken, in het belang van de   minderjarige;<BR>4° bij een verontrustende situatie de minderjarige   doorverwijzen naar het openbaar ministerie in de gevallen, vermeld in artikel   39.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de   samenstelling, de werking en de vestigingsplaats van het ondersteuningscentrum,   de intervisie en supervisie van de personeelsleden van het   ondersteuningscentrum, alsook de wijze waarop zijn werking en de kwaliteit van   zijn dienstverlening worden geëvalueerd.</P>
+<p>§ 1. Er wordt een ondersteuningscentrum Jeugdzorg opgericht. Het ondersteuningscentrum vervult minstens de volgende opdrachten :<br>
+1° op hun verzoek consult verlenen aan jeugdhulpaanbieders en andere personen en voorzieningen die jeugdhulpverlening aanbieden in verontrustende situaties waar er een vermoeden is dat het aanbieden van jeugdhulpverlening maatschappelijk noodzakelijk is;<br>
+2° bij een aanmelding door jeugdhulpaanbieders of door andere personen en voorzieningen die jeugdhulpverlening aanbieden of na een kennisgeving door het openbaar ministerie, door de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken, zijn vertrouwenspersoon of door een dienstverlener, verontrustende situaties onderzoeken en opvolgen als vermeld in artikel 34, 35, 36, 37, 38 en 41;<br>
+3° aan de magistraten die belast zijn met jeugdzaken, de waarborg verlenen dat daadwerkelijk jeugdhulpverlening wordt verleend in bij het ondersteuningscentrum jeugdzorg aangemelde&nbsp;verontrustende situaties aan minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken, in het belang van de minderjarige;<br>
+4° bij een verontrustende situatie de minderjarige doorverwijzen naar het openbaar ministerie in de gevallen, vermeld in artikel 39.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de samenstelling, de werking en de vestigingsplaats van het ondersteuningscentrum, de intervisie en supervisie van de personeelsleden van het ondersteuningscentrum, alsook de wijze waarop zijn werking en de kwaliteit van zijn dienstverlening worden geëvalueerd.</p>
 
 ### ART. 34.
 
@@ -270,7 +342,11 @@ Op basis van de evaluatie, vermeld in artikel 37 :<BR>1° kan de opvolging,   ve
 
 ### ART. 39.
 
-<P>In de volgende gevallen verwijst het ondersteuningscentrum de minderjarige   door naar het openbaar ministerie :<BR>1° als volgens de beslissing, vermeld in   artikel 34, jeugdhulpverlening maatschappelijk noodzakelijk is, maar de   minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving geen   gepaste jeugdhulpverlening vrijwillig aanvaarden;<BR>2° als de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de   betrokken personen uit zijn leefomgeving weigeren mee te werken aan het   onderzoek naar de maatschappelijke noodzaak.<BR></P>  <P>Een doorverwijzing wordt voorafgegaan door een uitnodiging van het   ondersteuningscentrum voor een tegensprekelijk debat met de personen, vermeld in   het eerste lid, 1° en 2° </P>
+<p>In de volgende gevallen verwijst het ondersteuningscentrum de minderjarige door naar het openbaar ministerie :<br>
+1° als volgens de beslissing, vermeld in artikel 34, jeugdhulpverlening maatschappelijk noodzakelijk is, maar de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving geen gepaste jeugdhulpverlening vrijwillig aanvaarden;<br>
+2° als de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving weigeren mee te werken aan het onderzoek naar de maatschappelijke noodzaak.</p>
+
+<p>Een doorverwijzing wordt voorafgegaan door een uitnodiging van het ondersteuningscentrum voor een gesprek tussen de personen, vermeld in het eerste lid, 1° en 2°, de begeleidende consulent en de teamverantwoordelijke. Tijdens dat gesprek worden de minimale verwachtingen nogmaals besproken en wordt erop ingegaan hoe die bereikt kunnen worden. Het gesprek wordt al dan niet afgesloten met het akkoord van de personen, vermeld in het eerste lid, 1° en 2°, met de minimale verwachtingen. Als er op het einde van het gesprek een akkoord is bereikt, wordt een engagementsverklaring opgemaakt en ondertekend door de personen, vermeld in het eerste lid, 1° en 2°.</p>
 
 ### ART. 40.
 
@@ -284,7 +360,19 @@ Na een kennisgeving door het openbaar ministerie, door de minderjarige,   zijn o
 
 ### ART. 42.
 
-<P>§ 1. Met het oog op hulp- en zorgverlening bij kindermishandeling zijn er zes   vertrouwenscentra kindermishandeling actief in het Nederlandse taalgebied en het   tweetalige gebied Brussel-Hoofdstad, overeenkomstig artikel 8/1 van hoofdstuk   III van het decreet van 30 april 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.<BR></P>  <P>De vertrouwenscentra kindermishandeling vervullen minstens de volgende   opdrachten :<BR>1° het onderzoeken van meldingen van kindermishandeling en   vermoedens van kindermishandeling op verzoek van om het even welke persoon of   instelling;<BR>2° het verstrekken van gepaste jeugdhulpverlening aan   minderjarige slachtoffers van kindermishandeling en hun gezin;<BR>3° op hun   verzoek consult verlenen aan jeugdhulpaanbieders en andere personen en   voorzieningen die jeugdhulpverlening aanbieden in verontrustende situaties waar   er een vermoeden is dat het aanbieden van jeugdhulpverlening maatschappelijk   noodzakelijk is;<BR>4° bij een aanmelding door jeugdhulpaanbieders of door   andere personen en voorzieningen die jeugdhulpverlening aanbieden of na een   kennisgeving door het openbaar ministerie, door de minderjarige, zijn ouders of,   in voorkomend geval, zijn opvoedingsverantwoordelijken, zijn vertrouwenspersoon   of door een dienstverlener, verontrustende situaties onderzoeken en   opvolgen;<BR>5° aan de magistraten die belast zijn met jeugdzaken, de waarborg   verlenen dat daadwerkelijk onderzoek en jeugdhulpverlening wordt verleend in   verontrustende situaties aan minderjarigen, hun ouders en, in voorkomend geval,   hun opvoedingsverantwoordelijken, in het belang van de minderjarige;<BR>6° bij   een verontrustende situatie de minderjarige doorverwijzen naar het openbaar   ministerie.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt de nadere regels voor de opdrachten en de   werking van de vertrouwenscentra kindermishandeling, alsook de voorwaarden en de   procedure voor de erkenning en subsidiëring van de vertrouwenscentra   kindermishandeling. De Vlaamse Regering kan bijkomende opdrachten toekennen aan   de vertrouwenscentra kindermishandeling.<BR></P>  <P>§ 3. Artikel 34 tot en met 41 zijn van overeenkomstige toepassing op de   vertrouwenscentra kindermishandeling bij de uitvoering van hun opdrachten,   vermeld in paragraaf 1, tweede lid, 4° en 6°, van dit artikel.</P>
+<p>§ 1. Met het oog op hulp- en zorgverlening bij kindermishandeling zijn er zes vertrouwenscentra kindermishandeling actief in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, overeenkomstig artikel 8/1 van hoofdstuk III van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.</p>
+
+<p>De vertrouwenscentra kindermishandeling vervullen minstens de volgende opdrachten :<br>
+1° het onderzoeken van meldingen van kindermishandeling en vermoedens van kindermishandeling op verzoek van om het even welke persoon of instelling;<br>
+2° het verstrekken van gepaste jeugdhulpverlening aan minderjarige slachtoffers van kindermishandeling en hun gezin;<br>
+3° op hun verzoek consult verlenen aan jeugdhulpaanbieders en andere personen en voorzieningen die jeugdhulpverlening aanbieden in verontrustende situaties waar er een vermoeden is dat het aanbieden van jeugdhulpverlening maatschappelijk noodzakelijk is;<br>
+4° bij een aanmelding door jeugdhulpaanbieders of door andere personen en voorzieningen die jeugdhulpverlening aanbieden of na een kennisgeving door het openbaar ministerie, door de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken, zijn vertrouwenspersoon of door een dienstverlener, verontrustende situaties onderzoeken en opvolgen;<br>
+5° aan de magistraten die belast zijn met jeugdzaken, de waarborg verlenen dat daadwerkelijk onderzoek en jeugdhulpverlening wordt verleend in bij het vertrouwenscentrum kindermishandeling aangemelde verontrustende situaties aan minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken, in het belang van de minderjarige;<br>
+6° bij een verontrustende situatie de minderjarige doorverwijzen naar het openbaar ministerie.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt de nadere regels voor de opdrachten en de werking van de vertrouwenscentra kindermishandeling, alsook de voorwaarden en de procedure voor de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling. De Vlaamse Regering kan bijkomende opdrachten toekennen aan de vertrouwenscentra kindermishandeling.</p>
+
+<p>§ 3. Artikel 34 tot en met 41 zijn van overeenkomstige toepassing op de vertrouwenscentra kindermishandeling bij de uitvoering van hun opdrachten, vermeld in paragraaf 1, tweede lid, 4° en 6°, van dit artikel.</p>
 
 ### ART. 43.
 
@@ -294,7 +382,21 @@ Na een kennisgeving door het openbaar ministerie, door de minderjarige,   zijn o
 
 ### ART. 44.
 
-<P>§ 1. De jeugdhulp organiseert in elke regio voor minderjarigen, hun ouders   en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken   personen uit hun leefomgeving in een crisissituatie een permanent subsidiair   aanbod crisisjeugdhulpverlening. Daarop kan alleen een beroep worden gedaan door   jeugdhulpaanbieders, andere personen en voorzieningen die jeugdhulpverlening   aanbieden, dienstverleners en jeugdmagistraten als cumulatief de volgende   voorwaarden zijn vervuld :<BR>1° ze worden geconfronteerd met een   crisissituatie;<BR>2° ze schatten in dat ze zelf of met een doorverwijzing in de   jeugdhulpverlening niet tijdig tot een gepaste oplossing kunnen komen.<BR></P>  <P>Uitzonderlijk kan er ook rechtstreeks een beroep gedaan worden op het   permanent subsidiair aanbod crisisjeugdhulpverlening door de minderjarige, zijn   ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken of zijn   vertrouwenspersoon wanneer zij geconfronteerd worden met een crisissituatie en   ze zelf op het ogenblik van de crisissituatie niet in de mogelijkheid zijn om   zich hiervoor te wenden tot een jeugdhulpaanbieder, een andere persoon of   voorziening die jeugdhulpverlening aanbiedt of een dienstverlener.<BR></P>  <P>§ 2. Om het subsidiaire aanbod crisisjeugdhulpverlening te realiseren, werken   de jeugdhulpaanbieders vanuit een gezamenlijke verantwoordelijkheid samen aan de   uitbouw van een hulpprogramma crisisjeugdhulpverlening, dat bestaat uit :<BR>1°   een centraal permanent crisismeldpunt : een team van jeugdhulpaanbieders dat een   eerste neutrale toetsing doet van de aangemelde crisissituaties en dat consult   kan aanbieden aan de personen die een crisissituatie aanmelden als vermeld in   paragraaf 1;<BR>2° ambulante of mobiele crisisinterventie : een aanbod van   onmiddellijke en kortdurende stressverlagende interventies;<BR>3° ambulante of   mobiele crisisbegeleiding : een begeleidingsaanbod aan huis of in een   voorziening die jeugdhulpverlening aanbiedt;<BR>4° crisisopvang : een aanbod van   verblijf in een voorziening die jeugdhulpverlening aanbiedt.<BR></P>  <P>§ 3. De jeugdhulp verbetert de bekendmaking en de bereikbaarheid van het   hulpprogramma crisisjeugdhulpverlening.<BR></P>  <P>§ 4. De Vlaamse Regering bepaalt de nadere regels voor de erkenning van de   hulpprogramma's crisisjeugdhulpverlening en voor de organisatie van de   crisisjeugdhulpverlening.</P>
+<p>§ 1. De jeugdhulp organiseert in elke regio voor minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken personen uit hun leefomgeving in een crisissituatie een permanent subsidiair aanbod crisisjeugdhulpverlening. Daarop kan alleen een beroep worden gedaan door jeugdhulpaanbieders, andere personen en voorzieningen die jeugdhulpverlening aanbieden, dienstverleners en jeugdmagistraten als cumulatief de volgende voorwaarden zijn vervuld :<br>
+1° ze worden geconfronteerd met een crisissituatie;<br>
+2° ze schatten in dat ze zelf of met een doorverwijzing in de jeugdhulpverlening niet tijdig tot een gepaste oplossing kunnen komen.</p>
+
+<p>Uitzonderlijk kan er ook rechtstreeks een beroep gedaan worden op het permanent subsidiair aanbod crisisjeugdhulpverlening door de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken of zijn vertrouwenspersoon wanneer zij geconfronteerd worden met een crisissituatie en ze zelf op het ogenblik van de crisissituatie niet in de mogelijkheid zijn om zich hiervoor te wenden tot een jeugdhulpaanbieder, een andere persoon of voorziening die jeugdhulpverlening aanbiedt of een dienstverlener.</p>
+
+<p>§ 2. Om het subsidiaire aanbod crisisjeugdhulpverlening te realiseren, werken de jeugdhulpaanbieders vanuit een gezamenlijke verantwoordelijkheid samen aan de uitbouw van een hulpprogramma crisisjeugdhulpverlening, dat bestaat uit :<br>
+1° een centraal permanent crisismeldpunt : een team van jeugdhulpaanbieders dat een eerste neutrale toetsing doet van de aangemelde crisissituaties en dat consult kan aanbieden aan de personen die een crisissituatie aanmelden;<br>
+2° ambulante of mobiele crisisinterventie : een aanbod van onmiddellijke en kortdurende stressverlagende interventies;<br>
+3° ambulante of mobiele crisisbegeleiding : een begeleidingsaanbod aan huis of in een voorziening die jeugdhulpverlening aanbiedt;<br>
+4° crisisopvang : een aanbod van verblijf in een voorziening die jeugdhulpverlening aanbiedt.</p>
+
+<p>§ 3. De jeugdhulp verbetert de bekendmaking en de bereikbaarheid van het hulpprogramma crisisjeugdhulpverlening.</p>
+
+<p>§ 4. De Vlaamse Regering bepaalt de nadere regels voor de erkenning van de hulpprogramma's crisisjeugdhulpverlening en voor de organisatie van de crisisjeugdhulpverlening.</p>
 
 ## HOOFDSTUK 10. Een participatieve jeugdhulpverlening
 
@@ -396,15 +498,26 @@ c) het verlenen van vrijwillige jeugdhulpverlening is niet meteen mogelijk.
 
 ### ART. 49.
 
-Met behoud van de toepassing van de besluiten die ter uitvoering van   artikel 48, § 2, van het decreet van 7 maart 2008 inzake bijzondere   jeugdbijstand genomen zijn voor de bezoeken, de briefwisseling, de   opvoedingsregeling en het pedagogische concept en programma van de erkende   voorzieningen van de bijzondere jeugdbijstand, kunnen de jeugdrechtbank en de   jeugdrechter voor de minderjarigen de aanvullende voorwaarden bepalen die   verbonden zijn aan de maatregelen die overeenkomstig artikel 48, § 1, eerste   lid, 2° tot en met 13°, van dit decreet worden genomen. Die aanvullende   voorwaarden kunnen alleen een concretisering van de maatregel   inhouden.
+Met behoud van de toepassing van de besluiten die ter uitvoering van artikel 78/1, § 2 genomen zijn voor de bezoeken, de briefwisseling, de opvoedingsregeling en het pedagogische concept en programma van de erkende voorzieningen van de bijzondere jeugdbijstand, kunnen de jeugdrechtbank en de jeugdrechter voor de minderjarigen de aanvullende voorwaarden bepalen die verbonden zijn aan de maatregelen die overeenkomstig artikel 48, § 1, eerste lid, 2° tot en met 14°, van dit decreet worden genomen. Die aanvullende voorwaarden kunnen alleen een concretisering van de maatregel inhouden.
 
 ### ART. 50.
 
-<P>De jeugdrechtbank en de jeugdrechter belasten :<BR>1° een jeugdhulpaanbieder   of, in voorkomend geval, de sociale dienst met de gezinsbegeleiding, vermeld in   artikel 48, § 1, eerste lid, 3° ;<BR>2° een jeugdhulpaanbieder met de   organisatie van de maatregelen, vermeld in artikel 48, § 1, eerste lid, 4° tot   en met 9°, en 11° tot en met 13°, en met de begeleiding van de   betrokkenen;<BR>3° een erkende dienst voor pleegzorg met de begeleiding van de   kandidaat-pleegzorger of pleegzorger, aan wie overeenkomstig artikel 48, § 1,   10°, de minderjarige werd toevertrouwd.<BR></P>  <P>De Vlaamse Regering bepaalt voor elk van de maatregelen, vermeld in artikel   48, § 1, eerste lid, 3° tot en met 9°, en 11° tot en met 13°, welke   jeugdhulpaanbieders in aanmerking komen om de opdracht, vermeld in het eerste   lid, uit te voeren. De Vlaamse Regering kan voor de toepassing van het eerste   lid andere personen en voorzieningen die jeugdhulpverlening aanbieden,   gelijkstellen met een jeugdhulpaanbieder.</P>
+<p>De jeugdrechtbank en de jeugdrechter belasten :<br>
+1° een jeugdhulpaanbieder of, in voorkomend geval, de sociale dienst met de gezinsbegeleiding, vermeld in artikel 48, § 1, eerste lid, 4° ;<br>
+2° een jeugdhulpaanbieder met de organisatie van de maatregelen, vermeld in artikel 48, § 1, eerste lid, 3° en 5° tot en met 14°, met uitzondering van pleegzorg, vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, en met de begeleiding van de betrokkenen;<br>
+3° een erkende dienst voor pleegzorg met de begeleiding van de kandidaat-pleegzorger of pleegzorger, aan wie overeenkomstig artikel 48, § 1, 9°, de minderjarige werd toevertrouwd.</p>
+
+<p>De Vlaamse Regering bepaalt voor elk van de maatregelen, vermeld in artikel 48, § 1, eerste lid, 3° tot en met 14°, met uitzondering van pleegzorg, vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, welke jeugdhulpaanbieders in aanmerking komen om de opdracht, vermeld in het eerste lid, uit te voeren. De Vlaamse Regering kan voor de toepassing van het eerste lid andere personen en voorzieningen die jeugdhulpverlening aanbieden, gelijkstellen met een jeugdhulpaanbieder.</p>
 
 ### ART. 51.
 
-<P>De maatregelen, vermeld in artikel 48, § 1, eerste lid, kunnen zowel tijdens   de voorbereidende rechtspleging als tijdens en na de rechtspleging over de grond   van de zaak worden genomen. Ze kunnen door de jeugdrechter op elk moment worden   ingetrokken of op verzoek van de minderjarige, zijn wettelijke   vertegenwoordiger, de sociale dienst of het openbaar ministerie worden vervangen   door een andere maatregel die in dat artikel is bepaald.<BR></P>  <P>De maatregelen, vermeld in artikel 48, § 1, eerste lid, 2°, 3°, 5° tot en met   7°, 10° 13°, eindigen na het verstrijken van de maximumtermijn, tenzij ze worden   verlengd, telkens voor een termijn die de gestelde maximumperiode niet mag   overschrijden. De maatregelen, vermeld in artikel 48, § 1, eerste lid, 8°, 9° en   12°, kunnen slechts eenmaal worden verlengd.<BR></P>  <P>Al de maatregelen die tijdens de voorbereidende rechtspleging worden genomen,   zijn samen beperkt tot zes maanden. Als een maatregel die na de rechtspleging   over de grond van de zaak is genomen, door een andere maatregel wordt vervangen,   eindigt die op de dag waarop de vervangen maatregel een einde zou hebben   genomen.<BR></P>  <P>De voorbereidende rechtspleging, vermeld in het eerste en derde lid, is de   fase van de rechtspleging voor de jeugdrechter, die loopt vanaf de vordering van   het openbaar ministerie en die voorafgaat aan het vonnis van de jeugdrechtbank   tot het opleggen van een maatregel ten gronde.</P>
+<p>De maatregelen, vermeld in artikel 48, § 1, eerste lid, kunnen zowel tijdens de voorbereidende rechtspleging als tijdens en na de rechtspleging over de grond van de zaak worden genomen. Ze kunnen door de jeugdrechter op elk moment worden ingetrokken of op verzoek van de minderjarige, zijn wettelijke vertegenwoordiger, de sociale dienst of het openbaar ministerie worden vervangen door een andere maatregel die in dat artikel is bepaald.</p>
+
+<p>De maatregelen, vermeld in artikel 48, § 1, eerste lid, 2°, 4°, 5° tot en met 7°, 9°, doelend op pleegzorg als vermeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg en 12°, eindigen na het verstrijken van de maximumtermijn, tenzij ze worden verlengd, telkens voor een termijn die de gestelde maximumperiode niet mag overschrijden. De maatregelen, vermeld in artikel 48, § 1, eerste lid, 6° en 14°, kunnen slechts eenmaal worden verlengd.</p>
+
+<p>Al de maatregelen die tijdens de voorbereidende rechtspleging worden genomen, zijn samen beperkt tot zes maanden. Als een maatregel die na de rechtspleging over de grond van de zaak is genomen, door een andere maatregel wordt vervangen, eindigt die op de dag waarop de vervangen maatregel een einde zou hebben genomen.</p>
+
+<p>De voorbereidende rechtspleging, vermeld in het eerste en derde lid, is de fase van de rechtspleging voor de jeugdrechter, die loopt vanaf de vordering van het openbaar ministerie en die voorafgaat aan het vonnis van de jeugdrechtbank tot het opleggen van een maatregel ten gronde.</p>
 
 ### ART. 52.
 
@@ -414,7 +527,9 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van   artikel 4
 
 ### ART. 53.
 
-<P>De jeugdrechter kan, na een vordering als vermeld in artikel 47, 2°, een van   de maatregelen nemen, vermeld in artikel 48, § 1, eerste lid, 3° tot en met 13°.   <BR></P>  <P>Artikel 48, § 1, tweede lid, artikel 49, 50, 51 en 52, zijn van   overeenkomstige toepassing.</P>
+<p>De jeugdrechter kan, na een vordering als vermeld in artikel 47, 2°, een van de maatregelen nemen, vermeld in artikel 48, § 1, eerste lid, 3° tot en met 13°.</p>
+
+<p>Artikel 48, § 2, tweede lid, artikel 49, 50, 51 en 52, zijn van overeenkomstige toepassing.</p>
 
 ### ART. 54.
 
@@ -435,7 +550,13 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van   artikel 4
 
 ### ART. 56.
 
-<P>In elk gerechtelijk arrondissement wordt een Sociale Dienst voor   Gerechtelijke Jeugdhulpverlening opgericht. De sociale dienst bestaat uit   consulenten en vervult in samenwerking met de overheden, vermeld in artikel 57,   de opdrachten die eraan zijn toevertrouwd, op de wijze die de Vlaamse Regering   bepaalt.<BR></P>  <P>Aan de sociale dienst kunnen vrijwillige consulenten worden toegevoegd. De   Vlaamse Regering kan nadere regels uitvaardigen voor hun aanstellingsvoorwaarden   en opdrachten.<BR></P>  <P>De hoedanigheid van consulent en van vrijwillig consulent is onverenigbaar   met de hoedanigheid van personeelslid, lid van de algemene vergadering of lid   van de raad van bestuur van een jeugdhulpaanbieder.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de   samenstelling, de werking van de sociale diensten, de intervisie en supervisie   van de personeelsleden van de sociale diensten, alsook de wijze waarop hun   werking en de kwaliteit van hun dienstverlening worden   geëvalueerd.</P>
+<p>In elk gerechtelijk arrondissement wordt een Sociale Dienst Jeugdrechtbank opgericht. De sociale dienst bestaat uit consulenten en vervult in samenwerking met de overheden, vermeld in artikel 57, de opdrachten die eraan zijn toevertrouwd, op de wijze die de Vlaamse Regering bepaalt.</p>
+
+<p>Aan de sociale dienst kunnen vrijwillige consulenten worden toegevoegd. De Vlaamse Regering kan nadere regels uitvaardigen voor hun aanstellingsvoorwaarden en opdrachten.</p>
+
+<p>De hoedanigheid van consulent en van vrijwillig consulent is onverenigbaar met de hoedanigheid van personeelslid, lid van de algemene vergadering of lid van de raad van bestuur van een jeugdhulpaanbieder.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere regels voor de organisatie, de samenstelling, de werking van de sociale diensten, de intervisie en supervisie van de personeelsleden van de sociale diensten, alsook de wijze waarop hun werking en de kwaliteit van hun dienstverlening worden geëvalueerd.</p>
 
 ### ART. 57.
 
@@ -457,15 +578,15 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van   artikel 4
 
 ### ART. 61.
 
-<P>Er wordt een Managementcomité Integrale Jeugdhulp opgericht.<BR></P>  <P>Het Managementcomité stuurt de uitvoering door de jeugdhulp van de   doelstellingen, vermeld in artikel 8, aan en gaat systematisch over tot een   intersectorale toetsing van sectorale plannen voor uitbreiding of herschikking   van het aanbod en de opmaak van een advies voor de Vlaamse Regering met   betrekking tot de sectorale ontwikkelingen vanuit het oogpunt van de   intersectorale gevolgen ervan.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels voor de intersectorale   toetsing.</P>
+...
 
 ### ART. 62.
 
-Het Managementcomité bewaakt de autonome werking van de toegangspoort,   vermeld in artikel 17. Voor overleg en beslissingen daarover wordt het   Managementcomité uitgebreid met :<BR>1° een vertegenwoordiger van   minderjarigen;<BR>2° een vertegenwoordiger van ouders;<BR>3° twee   vertegenwoordigers van de jeugdhulpaanbieders.
+...
 
 ### ART. 63.
 
-<P>Het Managementcomité bestaat uit de leidinggevende personeelsleden van de   administratieve diensten, bevoegd voor de betrokken sectoren.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere samenstelling en de werking van het   Managementcomité en benoemt de voorzitter.</P>
+...
 
 ## Afdeling 3. Het Intersectoraal Regionaal Overleg Jeugdhulp
 
@@ -479,7 +600,21 @@ De Vlaamse Regering bakent de regio's integrale jeugdhulp   af.
 
 ### ART. 66.
 
-<P>Een Intersectoraal Regionaal Overleg Jeugdhulp is minimaal samengesteld uit   :<BR>1° een vertegenwoordiger van minderjarigen;<BR>2° een vertegenwoordiger van   ouders;<BR>3° een vertegenwoordiger van etnisch-culturele minderheden;<BR>4° een   vertegenwoordiger van mensen in armoede;<BR>5° een vertegenwoordiger van mensen   met een handicap;<BR>6° per sector een vertegenwoordiger van de   jeugdhulpaanbieders van de regio, voorgedragen door de representatieve   organisaties van het jeugdhulpaanbod;<BR>7° een vertegenwoordiger van de   toegangspoort in de regio;<BR>8° een vertegenwoordiger van de gemandateerde   voorzieningen in de regio;<BR>9° een vertegenwoordiger van de Vlaamse   Gemeenschap;<BR>10° een vertegenwoordiger van de provinciale overheid of van de   Vlaamse Gemeenschapscommissie voor de regio Brussel.<BR></P>  <P>De Vlaamse Regering regelt de nadere samenstelling en de werking van het   Intersectoraal Regionaal Overleg Jeugdhulp.<BR></P>  <P>Voor de toepassing van het eerste lid, 6°, wordt het bevoegdheidsdomein dat   geregeld wordt bij het besluit, vermeld in artikel 3, § 1, eerste lid, 1°, niet   als een sector beschouwd.</P>
+<p>Een Intersectoraal Regionaal Overleg Jeugdhulp is minimaal samengesteld uit :<br>
+1° een vertegenwoordiger van minderjarigen;<br>
+2° een vertegenwoordiger van ouders;<br>
+3° een vertegenwoordiger van etnisch-culturele minderheden;<br>
+4° een vertegenwoordiger van mensen in armoede;<br>
+5° een vertegenwoordiger van mensen met een handicap;<br>
+6° per sector een vertegenwoordiger van de jeugdhulpaanbieders van de regio, voorgedragen door de representatieve organisaties van het jeugdhulpaanbod;<br>
+7° een vertegenwoordiger van de toegangspoort in de regio;<br>
+8° een vertegenwoordiger van de gemandateerde voorzieningen in de regio;<br>
+9° ...;<br>
+10° een vertegenwoordiger van de Vlaamse Gemeenschapscommissie voor de regio Brussel.</p>
+
+<p>De Vlaamse Regering regelt de nadere samenstelling en de werking van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
+
+<p>Voor de toepassing van het eerste lid, 6°, wordt het bevoegdheidsdomein dat geregeld wordt bij het besluit, vermeld in artikel 3, § 1, eerste lid, 1°, niet als een sector beschouwd.</p>
 
 ## Afdeling 4. Financiële middelen
 
@@ -487,7 +622,7 @@ De Vlaamse Regering bakent de regio's integrale jeugdhulp   af.
 
 <p>Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering middelen toekennen voor de implementatie van de doelstellingen, vermeld in artikel 8. De Vlaamse Regering bepaalt de voorwaarden om in aanmerking te komen voor subsidiëring, het subsidiebedrag en de procedure voor de subsidiëring. Ze bepaalt op welke wijze het gebruik van de subsidie verantwoord wordt.</p>
 
-<p>Voor de dossiers, vermeld in artikel 26, § 1, eerste lid, 6°, kan het team Jeugdhulpregie of het hoofd van het agentschap Jongerenwelzijn subsidies toekennen voor een aanvullend geïndividualiseerd hulpaanbod aan de minderjarige volgens de regels die de Vlaamse Regering bepaalt. Die subsidies kunnen, volgens de regels die de Vlaamse Regering bepaalt, ook worden toegekend aan een of meer organisaties met het kwaliteitslabel "intersectoraal zorgnetwerk", die worden aangewezen na een oproep en die meerdere minderjarigen kunnen begeleiden.</p>
+<p>Voor de dossiers, vermeld in artikel 26, § 1, eerste lid, 6° of voor dossiers waarin de continuïteit van het lopende niet rechtstreeks toegankelijke hulpverleningstraject ernstig bedreigd is, kan het team Jeugdhulpregie of het hoofd van het agentschap Jongerenwelzijn subsidies toekennen voor een aanvullend geïndividualiseerd hulpaanbod aan de minderjarige volgens de regels die de Vlaamse Regering bepaalt. Die subsidies kunnen, volgens de regels die de Vlaamse Regering bepaalt, ook worden toegekend aan een of meer organisaties met het kwaliteitslabel "intersectoraal zorgnetwerk", die worden aangewezen na een oproep en die meerdere minderjarigen kunnen begeleiden.</p>
 
 ### ART. 68.
 
@@ -537,7 +672,7 @@ Het elektronisch dossier bevat de volgende gegevens :<br>
 
 <p>§ 3. De verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, is :<br>
 1° het hoofd van het agentschap Jongerenwelzijn, voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten van de toegangspoort, vermeld in artikel 18 van dit decreet, de opdrachten van de Sociale Diensten voor Gerechtelijke Jeugdhulpverlening, vermeld in artikel 56 van dit decreet en de opdrachten van het ondersteuningscentrum Jeugdzorg, vermeld in artikel 33 van dit decreet;<br>
-2° het hoofd van het agentschap Kind en Gezin, voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten van de vertrouwenscentra kindermishandeling.</p>
+2° het vertrouwenscentrum kindermishandeling, voor de verwerking van persoonsgegevens met het oog op de uitvoering van zijn opdrachten, vermeld in artikel 42, § 1.</p>
 
 <p>§ 4. Voor de uitvoering van dit decreet worden de volgende instanties aangewezen als dienstenintegrator :<br>
 1° het eHealth-platform, opgericht bij de wet van 21 augustus 2008 houdende oprichting en organisatie van het eHealth-platform, met betrekking tot de gegevensdeling in functie van de verstrekte jeugdhulpverlening, met uitzondering van de gegevens vermeld in punt 2°, a) en b);<br>
@@ -605,13 +740,13 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 <p>§ 2. Met toepassing van artikel 23, lid 1, i), van de algemene verordening gegevensbescherming wordt, in afwijking van artikel 12, lid 3, van de voormelde verordening, aan het recht op toegang uiterlijk binnen vijftien dagen na ontvangst van het verzoek gevolg verleend.</p>
 
-<p>Met behoud van de toepassing van het eerste lid wordt voor gegevens die bij de toegangspoort en de gemandateerde voorzieningen worden bewaard, het recht op toegang verleend uiterlijk op het ogenblik waarop de toegangspoort of de gemandateerde voorziening een beslissing neemt. Voor gegevens die bij de sociale dienst worden bewaard, wordt het recht op toegang verleend uiterlijk op het ogenblik van het eerste vonnis van de jeugdrechter.</p>
+<p>Met behoud van de toepassing van het eerste lid wordt voor gegevens die bij de toegangspoort en de gemandateerde voorzieningen worden bewaard, het recht op toegang verleend uiterlijk op het ogenblik waarop de toegangspoort of de gemandateerde voorziening een beslissing neemt. Voor gegevens die bij de sociale dienst worden bewaard, wordt het recht op toegang verleend uiterlijk op het ogenblik van de eerste beschikking van de jeugdrechter of het eerste vonnis van de jeugdrechtbank.</p>
 
 <p>§ 3. De toegang tot de gegevens wordt verstrekt door inzage.</p>
 
 <p>Als bepaalde gegevens ook een derde betreffen en volledige inzage in die gegevens door de betrokkene afbreuk zou doen aan het recht van de derde op bescherming van zijn persoonlijke levenssfeer, wordt de toegang tot die gegevens verstrekt via gedeeltelijke inzage, een gesprek of een rapportage.</p>
 
-<p>Iedereen kan bij de uitoefening van het toegangsrecht naar eigen keuze worden bijgestaan door een door het beroepsgeheim gebonden persoon en, wat de minderjarige betreft, door een personeelslid van de instelling waar de minderjarige onderwijs volgt, op voorwaarde dat die persoon niet rechtstreeks betrokken is bij de jeugdhulpverlening, georganiseerd voor de minderjarige.</p>
+<p>Iedereen kan bij de uitoefening van het toegangsrecht naar eigen keuze worden bijgestaan door een door het beroepsgeheim gebonden persoon, en, wat de ouders van de minderjarige en de opvoedingsverantwoordelijke betreft, door de vertrouwenspersoon, vermeld in artikel 2/1, en, wat de minderjarige betreft, door de vertrouwenspersoon, vermeld in artikel 24 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp.</p>
 
 <p>Als met toepassing van paragraaf 1, tweede lid, de bescherming van de vertrouwelijkheid niet opweegt tegen de bescherming van het recht op toegang, kan de dossierhouder de toegang tot de gegevens in kwestie verstrekken via gedeeltelijke inzage, een gesprek of een rapportage.</p>
 
@@ -653,13 +788,76 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 <p>§ 1. De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en de uitvoeringsbesluiten ervan.<br>
 <br>
-§ 2. Om de rechtsbescherming van kinderen en jongeren in de jeugdhulp te vrijwaren, organiseert de Vlaamse Regering het volgende met betrekking tot de toegangspoort, de gemandateerde voorzieningen en de sociale dienst gerechtelijke jeugdhulp:<br>
+§ 2. Om de rechtsbescherming van kinderen en jongeren in de jeugdhulp te vrijwaren, organiseert de Vlaamse Regering het volgende met betrekking tot de toegangspoort, de gemandateerde voorzieningen en de sociale dienst:<br>
 1° een extern toezicht, naast het toezicht als bedoeld in paragraaf 1;<br>
 2° de klachtenbehandeling voor kinderen en jongeren, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van kinderen en jongeren.<br>
 <br>
-§ 3. In afwijking van de paragrafen 1 en 2, werkt de zorginspectie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding betreft.</p>
+§ 3. In afwijking van de paragrafen 1 en 2, werkt de zorginspectie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding of een organisatie voor naadloze flexibele trajecten&nbsp;betreft.</p>
 
 ## [HOOFDSTUK 14/1. Private voorzieningen (ing. decr. 15 maart 2019, art. 37, I: 14 april 2019)]
+
+### ART 78/1.
+
+§ 1. Iedere rechtspersoon die zich voorneemt minderjarigen op te nemen of te begeleiden in het kader van dit decreet, moet daarvoor door de Vlaamse Regering worden erkend.<br>
+<br>
+Iedere rechtspersoon die zich voorneemt minderjarigen op te nemen of te begeleiden binnen een beveiligd verblijf in het kader van dit decreet, moet daarvoor door de Vlaamse Regering worden erkend.<br>
+<br>
+§ 2. De Vlaamse Regering stelt de erkenningsvoorwaarden vast voor de rechts-personen, vermeld in paragraaf 1. Die voorwaarden kunnen betrekking hebben op :<br>
+1° de personele en materiële infrastructuur;<br>
+2° het opleidingsniveau en de aanvullende vorming van het personeel;<br>
+3° de verzorging, het onderwijs en de beroepsopleiding van de minderjarigen en de opvoedingsregeling die voor hen geldt;<br>
+4° het pedagogische concept en programma;<br>
+5° de door haar bepaalde programmatie voor de voorzieningen.<br>
+<br>
+De Vlaamse Regering voorziet in een procedure tot intrekking van de erkenning, wanneer de erkenningsvoorwaarden voorzien in paragraaf 2 niet worden nageleefd.<br>
+<br>
+§ 3. De voorzieningen verwerken in het kader van de erkenningsvoorwaarde, vermeld in paragraaf 2, 1°, de gegevens over de gezondheid, vermeld in artikel 4, 15), en gerechtelijke als vermeld in artikel 10 van de algemene verordening gegevensbescherming van de personeelsleden, de vrijwilligers en de andere personen die in de voorziening verblijven.<br>
+<br>
+Het betreft minstens een uittreksel uit het strafregister en een medisch attest.<br>
+<br>
+§ 4. De voorzieningen worden voor een onbepaalde duur erkend.<br>
+<br>
+De projecten kunnen worden erkend voor een hernieuwbare erkenningstermijn van maximaal vijf jaar.
+
+### ART 78/2.
+
+De Vlaamse Regering beslist over de erkenningsaanvragen. De Vlaamse Regering stelt de erkenningsprocedure vast.<br>
+<br>
+Het erkenningsdossier dat de administratie aanlegt, bevat de vereiste administratieve inlichtingen, de erkenningsaanvraag, een verslag van het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 65, in het werkgebied waarvan de aanvrager is gevestigd.
+
+### ART 78/3.
+
+Als een erkende voorziening niet meer aan de erkenningsvoorwaarden voldoet, kan een aanmaning van de Vlaamse Regering volgen om zich, naargelang van het geval, binnen een termijn van acht dagen tot zes maanden aan die voorwaarden te conformeren.<br>
+<br>
+Als de voorwaarden niet vervuld worden binnen de termijn, vermeld in het eerste lid, kan de Vlaamse Regering de erkenning intrekken.
+
+### ART 78/4.
+
+De Vlaamse Regering bepaalt de subsidies en de aard van de subsidies, die aan de erkende voorzieningen, de projecten en de gelijkgestelde voorzieningen, rekening houdend met de doelgroep en het soort aanbod, kunnen worden toegekend.<br>
+<br>
+De subsidiëringsnormen worden, overeenkomstig de door haar vastgestelde procedure, door de Vlaamse Regering vastgesteld.
+
+### ART 78/5.
+
+Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering organisaties erkennen en subsidiëren, rekening houdend met de groep en het soort aanbod, die voor specifieke categorieën van minderjarigen de hulp- en dienstverlening ondersteunen die de toegangspoort en het ondersteuningscentrum verstrekken.
+
+### ART 78/6.
+
+Buiten de gevallen waarin er een medische tegenaanwijzing bestaat, mogen aan de minderjarigen die in een gemeenschapsinstelling of in een erkende voorziening geplaatst zijn overeenkomstig de bepalingen van dit decreet of van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, preventieve vaccinaties en inentingen worden toegediend conform de regels die de Vlaamse Regering bepaalt.
+
+### ART 78/7.
+
+§ 1. De Vlaamse Regering vaardigt algemeen geldende regels uit betreffende de bijdrage van de minderjarigen en van de onderhoudsplichtige personen in de onderhouds-, opvoedings- en behandelingskosten van de minderjarigen, evenals betreffende de bestemming van het loon dat wordt toegekend aan de minderjarigen die werden geplaatst met toepassing van dit decreet.<br>
+<br>
+De toegangspoort, de jeugdrechter of jeugdrechtbank bepaalt overeenkomstig deze regels de bijdrage van de minderjarige en van de onderhoudsplichtige personen, evenals de bestemming die aan het loon zal worden gegeven. Met betrekking tot de beslissing van de toegangspoort hebben de betrokkenen het recht zich bij verzoekschrift tot de jeugdrechtbank te wenden.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt welke voorzieningen een bijdrage kunnen vragen van de onderhoudsplichtige personen voor de onderhouds-, opvoedings- en behandelingskosten van minderjarigen en welke voorzieningen een bijdrage kunnen vragen van de ouders of aanstaande ouders voor de kosten die verband houden met het verblijf van de ouders of aanstaande ouders. De Vlaamse Regering bepaalt de nadere modaliteiten voor de bijdragen die de voorzieningen kunnen vorderen.
+
+### ART 78/8.
+
+Als voor de minderjarigen die werden geplaatst overeenkomstig dit decreet of het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht, geldsommen op een spaar- of depositoboekje worden ingeschreven, worden die sommen ingeschreven op een boekje dat op hun naam wordt geopend bij een kredietinstelling. De Vlaamse Regering kan daarvoor de nadere regels bepalen.<br>
+<br>
+Tijdens de minderjarigheid kunnen de bedragen van het loon die op een spaar- of depositoboekje bij een kredietinstelling werden ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van de toegangspoort, de jeugdrechter of jeugdrechtbank.
 
 ## [Afdeling 2. Centra voor Kinderzorg en Gezinsondersteuning (ing. Decr. 1 maart 2019, art. 23, I: 18 april 2019)]
 
