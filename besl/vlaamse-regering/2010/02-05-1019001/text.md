@@ -16,7 +16,21 @@ In dit besluit wordt verstaan onder : <br />1° het decreet van 8 mei 2009 : het
 
 ### ART. 2.
 
-§ 1. Onder beroepservaring als vermeld in artikel 46 van het decreet van 8 mei 2009, wordt verstaan : de ervaring die opgedaan is binnen onderwijs in een van de onderwijsniveaus, vermeld in artikel 46, § 2 van het decreet van 8 mei 2009, in de basiseducatie of in de centra voor leerlingenbegeleiding. <br /><br />§ 2. De beroepservaring is relevant als die in de laatste tien jaar voor de tijdelijke aanstelling, de toelating tot de proeftijd of de vaste benoeming bij de inspectie minstens twee jaar effectief gepresteerde diensten omvat.<br /><br />De in aanmerking komende diensten worden berekend per dag en geteld van datum tot datum. <br /><br />Gedurende een kalenderjaar kan een ervaring van maximaal 360 dagen worden verworven. De jaarlijkse vakantie, de weekends en de feestdagen worden als effectieve diensten beschouwd. Het aantal dagen, gepresteerd in een betrekking met onvolledige prestaties die niet de helft bedragen van het aantal uren dat vereist is voor een betrekking met volledige prestaties, telt voor de helft mee. <br /><br />De beroepservaring in verschillende ambten binnen hetzelfde niveau kan worden samengeteld. <br /><br />Het resultaat van de berekeningen moet minstens 600 dagen bedragen om als relevante beroepservaring te kunnen worden beschouwd.<br /><br />§ 3. De diensten die gepresteerd zijn in het ambt van directeur, komen voor de berekening van relevante beroepservaring alleen in aanmerking in het niveau waartoe de instelling behoort.<br /><br />§ 4. Een personeelslid kan over relevante beroepservaring beschikken in een of meer van de niveaus, vermeld in artikel 46, § 2 van het decreet van 8 mei 2009.
+§ 1. Onder beroepservaring als vermeld in artikel 46 van het decreet van 8 mei 2009, wordt verstaan : de ervaring die opgedaan is binnen onderwijs in een van de onderwijsniveaus, vermeld in artikel 46, § 2 van het decreet van 8 mei 2009, in de basiseducatie of in de centra voor leerlingenbegeleiding.<br>
+<br>
+§ 2. De beroepservaring is relevant als die in de laatste tien jaar voor de tijdelijke aanstelling of de vaste benoeming bij de inspectie minstens twee jaar effectief gepresteerde diensten omvat.<br>
+<br>
+De in aanmerking komende diensten worden berekend per dag en geteld van datum tot datum.<br>
+<br>
+Gedurende een kalenderjaar kan een ervaring van maximaal 360 dagen worden verworven. De jaarlijkse vakantie, de weekends en de feestdagen worden als effectieve diensten beschouwd. Het aantal dagen, gepresteerd in een betrekking met onvolledige prestaties die niet de helft bedragen van het aantal uren dat vereist is voor een betrekking met volledige prestaties, telt voor de helft mee.<br>
+<br>
+De beroepservaring in verschillende ambten binnen hetzelfde niveau kan worden samengeteld.<br>
+<br>
+Het resultaat van de berekeningen moet minstens 600 dagen bedragen om als relevante beroepservaring te kunnen worden beschouwd.<br>
+<br>
+§ 3. De diensten die gepresteerd zijn in het ambt van directeur, komen voor de berekening van relevante beroepservaring alleen in aanmerking in het niveau waartoe de instelling behoort.<br>
+<br>
+§ 4. Een personeelslid kan over relevante beroepservaring beschikken in een of meer van de niveaus, vermeld in artikel 46, § 2 van het decreet van 8 mei 2009.
 
 ## HOOFDSTUK II. Aanwervingsvoorwaarden
 
@@ -28,123 +42,274 @@ In dit besluit wordt verstaan onder : <br />1° het decreet van 8 mei 2009 : het
 
 ### ART. 4.
 
-De oproep voor de test van de generieke competenties wordt, overeenkomstig   artikel 64, § 1 van het decreet van 8 mei 2009, door Jobpunt Vlaanderen of zijn   rechtsopvolger bekendgemaakt en wordt eveneens gelijktijdig in de geëigende   media bekendgemaakt. Die bekendmaking vermeldt naast de inhoudelijke en   vormvereisten, vermeld in artikel 64, § 1 van voormeld decreet, ook het algemeen   functieprofiel van inspecteur.<BR><BR>De kandidaturen voor de test van de   generieke competenties moeten schriftelijk of elektronisch verzonden worden naar   het adres, vermeld in de vacature, dit binnen de vastgestelde termijn. Die   termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking door   Jobpunt Vlaanderen of zijn rechtsopvolger.
+Een vacature voor het ambt van inspecteur wordt ten minste bekend gemaakt:<br>
+1° in het Belgisch Staatsblad;<br>
+2° op de website van de onderwijsinspectie;<br>
+3° op de website van VDAB;<br>
+4° via de geëigende communicatiekanalen van het Departement Onderwijs.<br>
+<br>
+De vacature voor het ambt van inspecteur bevat ten minste de aanwervingsvoorwaarden, vermeld in artikel 49 van het decreet van 8 mei 2009, en de specifieke toelatingsvoorwaarden, vermeld in artikel 63, § 4, van het voormelde decreet, alsook de wijze van solliciteren.
 
 ### ART. 5.
 
-Het competentieportfolio, vermeld in artikel 64, § 2 van het decreet van 8 mei 2009, inventariseert de competenties en kwalificaties die de kandidaat-inspecteur bezit en bevat alle elementen waarmee de kandidaat zijn onderwijskundige inzichten heeft uitgebreid en verdiept. Het betreft competenties die zowel binnen als buiten het onderwijs verworven zijn.
+De kandidaat bezorgt het digitaal ingevulde sollicitatieformulier uiterlijk op de uiterste sollicitatiedatum, vermeld in artikel 8, eerste lid, en op de wijze, vermeld in de vacature.<br>
+<br>
+Het sollicitatieformulier staat op de website van de onderwijsinspectie.<br>
+<br>
+Het sollicitatieformulier bevat al de volgende gegevens van de kandidaat:<br>
+1° de persoonsgegevens;<br>
+2° de gevolgde opleidingen;<br>
+3° de relevante werkervaringen;<br>
+4° het competentieportfolio dat de competenties en kwalificaties van de kandidaat inventariseert en alle elementen bevat waarmee de kandidaat zijn onderwijskundige inzichten heeft uitgebreid en verdiept. Het betreft competenties die zowel binnen als buiten het onderwijs verworven zijn.
 
 ### ART. 6.
 
-<P>...</P>
+De diploma's, getuigschriften, ervaringsbewijzen of toegangsbewijzen, vermeld in artikel 49 van het decreet van 8 mei 2009, geven toegang tot de wervingsprocedure voor het ambt van inspecteur.
 
 ### ART. 7.
 
-De generieke competenties voor het ambt van inspecteur zijn : <br />1° kritische en synthetische vaardigheden : kunnen afwegen van de geanalyseerde informatie en op grond daarvan een synthese/oordeel kunnen formuleren en creatieve oplossingen kunnen voorstellen met zicht op de consequenties. Blijk kunnen geven van een veelzijdige genuanceerde kijk met oog voor kritieke factoren en activiteiten;<br />2° analytisch en probleemoplossend denken : een probleem kunnen duiden in zijn verband en het kunnen bekijken vanuit verschillende invalshoeken. Op een efficiënte wijze op zoek kunnen gaan naar aanvullende relevante informatie; <br />3° assertiviteit : kunnen opkomen voor de eigen mening met respect voor anderen, zelfs als er vanuit de omgeving druk wordt uitgeoefend om dit niet te doen;<br />4° goede mondelinge en schriftelijke vaardigheden : zich duidelijk kunnen uitdrukken zodat het publiek tot wie de informatie gericht is, deze info begrijpt en vlot kunnen zijn in interactie. Een heldere en motiverende schrijfstijl kunnen hanteren die past bij de boodschap en de doelgroep;<br />5° aanpassingsvermogen : voortdurend kunnen verbeteren van het eigen functioneren en actief kunnen meewerken aan het verbeteren van de uitvoering van de taken. Zich vertrouwd kunnen maken met nieuwe materies die relevant zijn voor de eigen taak. Nieuwe richtlijnen, kennis, informatie kunnen toepassen in de praktijk;<br />6° samenwerken : de samenwerking binnen het korps en de entiteit kunnen stimuleren en kunnen bijdragen aan een gezamenlijk resultaat op niveau van het team;<br />7° organisatietalent : planmatig en doeltreffend kunnen werken.
+De aanwervingsvoorwaarden zijn uiterlijk vervuld op het ogenblik van de kandidaatstelling voor de selectieproef, vermeld in artikel 11.
 
 ### ART. 8.
 
-Jobpunt Vlaanderen, of zijn rechtsopvolger, brengt de kandidaten   schriftelijk of elektronisch op de hoogte van de resultaten van de test van de   generieke competenties binnen dertig kalenderdagen na de test van de generieke   competenties.
+Er is een periode van ten minste twintig dagen tussen de datum waarop de vacature bekendgemaakt wordt in het Belgisch Staatsblad en de uiterste sollicitatiedatum.<br>
+<br>
+De kandidaturen die na de uiterste sollicitatiedatum, vermeld in het eerste lid, binnenkomen of sollicitatieformulieren die niet digitaal zijn ingevuld als vermeld in artikel 5, worden niet in aanmerking genomen.
 
 ### ART. 9.
 
-Conform artikel 65, § 1 van het decreet van 8 mei 2009, ontvangen alle   kandidaten uit de algemene wervingsreserve bij een vacature een schriftelijke of   elektronische oproep, om deel te nemen aan de tweede fase van de selectie.   <BR><BR>De kandidaturen voor de tweede fase van de selectieprocedure moeten   schriftelijk of elektronisch verzonden worden binnen een termijn van ten minste   twintig kalenderdagen na de schriftelijke oproep.
+Na de toepassing van de werkwijze, vermeld in artikel 65 van het decreet van 8 mei 2009, bezorgt de onderwijsinspectie de kandidaat een bevestigingsmail waarin wordt vermeld dat de elektronische sollicitatie is ontvangen en dat de kandidaat al dan niet voldoet aan de aanwervingsvoorwaarden.<br>
+<br>
+De sollicitatieformulieren van de kandidaten die voldoen aan de aanwervingsvoorwaarden worden voorgelegd aan de commissie, vermeld in artikel 10, § 2.
 
 ### ART. 10.
 
-De tweede fase bestaat uit een interview en eventueel een bijkomende test.   De resultaten van de bijkomende test sluiten deelnemers die geen 50% halen uit   van verdere deelname aan de selectieprocedure. Het interview bestaat uit een   onderhoud, waaruit moet blijken of de kandidaat voldoet aan het concrete   functieprofiel. <BR><BR>De kandidaat stelt tijdens het interview zijn   competentieportfolio voor.
+§ 1. De informatie in het sollicitatieformulier wordt door de delegatie van de selectiecommissie, vermeld in artikel 13, met een eliminerend mandaat gescreend op de specifieke toelatingsvoorwaarden, die, in toepassing van artikel 63, § 4 van het decreet van 8 mei 2009, opgenomen zijn in het specifieke selectiereglement, opgesteld door de inspecteur-generaal en de betrokken coördinerend inspecteur.<br>
+<br>
+Zoals bepaald in artikel 63, § 4, van het decreet van 8 mei 2009 concretiseert het specifiek selectiereglement de specifieke verwachtingen en bevat ten minste :<br>
+1° welke diploma's, getuigschriften, ervaringsbewijzen of toegangsbewijzen toegang verlenen tot de selectieprocedure;<br>
+2° de aard en het aantal van de specifieke testen;<br>
+3° de criteria op basis waarvan wordt beoordeeld of de kandidaat geschikt is en geslaagd is;<br>
+4° de samenstelling en de werking van de selectiecommissies, die voor de helft bestaan uit personen uit de organisatie en de helft uit personen extern aan de organisatie.<br>
+<br>
+§ 2. De delegatie van de selectiecommissie die de screening uitvoert bestaat uit:<br>
+1° de inspecteur-generaal of zijn gemachtigde, die hij aanwijst onder de coördinerend inspecteurs;<br>
+2° één lid van de onderwijsinspectie, aangewezen door de voorzitter;<br>
+3° twee leden die extern zijn aan de inspectie en die aangewezen worden door de voorzitter.<br>
+<br>
+De inspecteur-generaal of zijn gemachtigde is de voorzitter van de delegatie van de selectiecommissie.<br>
+<br>
+De voorzitter voegt aan de delegatie van de selectiecommissie een secretaris toe die belast is met de algemene organisatie.<br>
+<br>
+§ 3. De delegatie van de selectiecommissie beraadslaagt geldig als ten minste twee derde van de leden aanwezig is.<br>
+<br>
+§ 4. Na de screening krijgt de kandidaat een mail waarin ofwel bevestigd wordt dat hij kan deelnemen aan de selectieproef, vermeld in artikel 11, ofwel gemeld wordt dat de kandidatuur niet ontvankelijk is op basis van de specifieke toelatingsvoorwaarden.<br>
+<br>
+De kandidaten die mogen deelnemen aan de selectieproef, worden met een mail op de hoogte gebracht van de modaliteiten van de selectieproef.
 
 ### ART. 11.
 
-De selectiecommissie, vermeld in artikel 65, § 3 van het decreet van 8 mei 2009, wordt als volgt samengesteld : <br />1° de inspecteur-generaal of zijn gemachtigde die hij aanduidt onder de coördinerend inspecteurs;<br />2° drie leden van de onderwijsinspectie, aangewezen door de voorzitter;<br />3° drie leden die extern zijn aan de inspectie, aangewezen door de voorzitter.<br /><br />De inspecteur-generaal of zijn gemachtigde is de voorzitter van de commissie.
+De selectieproef voor het ambt van inspecteur bestaat uit een interview bij de selectiecommissie, vermeld in artikel 13, eventueel vooraf gegaan door een eliminerende test als vermeld in artikel 12.<br>
+<br>
+De kandidaat stelt tijdens het interview zijn competentieportfolio voor en wordt ondervraagd door de leden van de selectiecommissie, vermeld in artikel 13, onder meer over de inhoud van het competentieportfolio.<br>
+<br>
+Uit het interview moet blijken in welke mate de kandidaat beantwoordt aan de selectiecriteria, vermeld in artikel 14/2.
 
 ### ART. 12.
 
-De selectiecommissie beraadslaagt geldig als ten minste twee derde van de leden aanwezig is. De samenstelling van de selectiecommissie is bij de beraadslaging dezelfde als tijdens het afnemen van het interview.
+De selectiecommissie, vermeld in artikel 13 kan beslissen om voorafgaand aan het interview een eliminerende test te organiseren.<br>
+<br>
+De eliminerende test toetst een aantal van de selectiecriteria, vermeld in artikel 14/2.
 
 ### ART. 13.
 
-Een persoon die de echtgenoot, een bloed- of aanverwant tot en met de   vierde graad&nbsp;is of een relationele band heeft met een kandidaat mag geen   deel uitmaken van de selectiecommissie.
+§ 1. De selectiecommissie bestaat uit:<br>
+1° de inspecteur-generaal of zijn gemachtigde, die hij aanwijst onder de coördinerend inspecteurs;<br>
+2° twee leden van de onderwijsinspectie, die aangewezen worden door de voorzitter, onder wie een inspecteur en een coördinerend inspecteur met affiniteit met het te werven profiel;<br>
+3° drie leden die extern zijn aan de inspectie en die aangewezen worden door de voorzitter.<br>
+<br>
+§ 2. De inspecteur-generaal of zijn gemachtigde is de voorzitter van de commissie.<br>
+<br>
+De voorzitter voegt aan de selectiecommissie een secretaris toe die belast is met de algemene organisatie.<br>
+<br>
+§ 3. De selectiecommissie beraadslaagt geldig als ten minste twee derde van de leden aanwezig is. De samenstelling van de selectiecommissie is bij de beraadslaging dezelfde als tijdens het interview.<br>
+<br>
+§ 4. De volgende personen mogen geen deel uitmaken van de selectiecommissie:<br>
+1° de echtgenoot van de kandidaat;<br>
+2° een bloed- of aanverwant van de kandidaat tot en met de vierde graad;<br>
+3° personen die een relationele band hebben met een kandidaat.
 
 ### ART. 13/1.
 
-Om te slagen voor de selectieproef die toegang geeft tot het ambt van   inspecteur, moet de kandidaat geslaagd zijn voor de test van de generieke   competenties, en ten minste 60 procent behalen tijdens de tweede fase van de   selectie, vermeld in artikel 63, § 1, 2° van het decreet van 8 mei 2009. Als de   tweede fase van de selectie bestaat uit zowel een interview als een bijkomende   test, moet op elk onderdeel ten minste 50 procent worden behaald.
+...
 
 ### ART. 14.
 
-De selectiecommissie stelt met een aangetekende brief de kandidaten in kennis van de resultaten van de tweede fase van de selectieprocedure binnen dertig kalenderdagen na de beraadslaging, vermeld in artikel 12. Deze brief vermeldt eveneens de rangschikking van de kandidaat.
+De selectiecommissie, vermeld in artikel 13, stelt haar werkingsreglement op, dat kenbaar gemaakt wordt aan de kandidaten.
+
+### ART 14/1.
+
+De selectiecommissie, vermeld in artikel 13, kan beslissen om aanvullende externe testen te organiseren om bepaalde competenties, vermeld in artikel 14/2, bijkomend te laten testen.<br>
+<br>
+Indien hiertoe beslist wordt, worden alle kandidaten aan die aanvullende externe testen onderworpen.<br>
+<br>
+De resultaten van de testen, vermeld in het eerste lid, vormen een element voor de deliberatie van de kandidaten en in voorkomend geval voor de uitbouw van de aanvangsbegeleiding.
+
+### ART 14/2.
+
+De volgende criteria worden door de selectiecommissie, vermeld in artikel 13, gebruikt om te bepalen of een kandidaat geschikt is:<br>
+1° de visie op en het inzicht in de functie;<br>
+2° de motivatie en de verwachtingen;<br>
+3° de beheersing van de generieke en de specifieke competenties of het leervermogen om ze te verwerven;<br>
+4° de inzetbaarheid in de functie en de organisatie.
+
+### ART 14/3.
+
+De leden van de selectiecommissie, vermeld in artikel 13, beoordelen elk van de overblijvende kandidaten na de eventuele voorafgaande test waarvan sprake in artikel 12, op de vier criteria bepaald in artikel 14/2.<br>
+<br>
+Het gewicht van de respectievelijke criteria wordt bepaald in het werkingsreglement bedoeld in artikel 14.<br>
+<br>
+Er wordt voor alle overblijvende kandidaten een globale beoordeling gemaakt die de som is van de beoordelingen van alle leden van de selectiecommissie.<br>
+<br>
+De selectiecommissie rangschikt de geslaagde kandidaten naar gelang de behaalde beoordeling.
+
+### ART 14/4.
+
+De geslaagde kandidaten worden voor vier jaar opgenomen in een wervingsreserve.
 
 ## [HOOFDSTUK III/1. ... (opgeh. BVR 5 april 2019, art. 3, I: 15 april 2019)]
 
 ### ART. 14/1.
 
-De profielgerichte oproep voor de test van de specifieke en de generieke   competenties, vermeld artikel 65/1, § 1 van het decreet van 8 mei 2009, wordt   door Jobpunt Vlaanderen of zijn rechtsopvolger bekendgemaakt en eveneens   gelijktijdig in de geëigende media gepubliceerd. Die bekendmaking vermeldt naast   de inhoudelijke vereisten en de vormvereisten, ook het concrete functieprofiel   van inspecteur waarvoor geworven wordt.<BR><BR>De kandidaturen voor de   profielgerichte oproep moeten schriftelijk of elektronisch verzonden worden naar   het adres vermeld in de vacature, dit binnen de vastgestelde termijn. Die   termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking door   Jobpunt Vlaanderen of zijn rechtsopvolger. De kandidatuur bevat het ingevulde   sollicitatieformulier en een portfolio.
+...
 
 ### ART. 14/2.
 
-In afwijking van artikel 9, eerste lid, van dit besluit, kunnen kandidaten   die al deel uitmaken van de algemene wervingsreserve zich ook kandidaat stellen   voor een profielgerichte oproep, maar ze ontvangen daarvoor geen schriftelijke   of elektronische oproep. Ze moeten deelnemen aan de eerste en aan de tweede   fase, vermeld in artikel 65/1, § 2, 1° en 2° van het decreet van 8 mei 2009. Ze   zijn vrijgesteld van de test van de generieke competenties.
+...
 
 ### ART. 14/3.
 
-Het portfolio, vermeld in artikel 65/1, § 2, 1° van het decreet van 8 mei   2009, inventariseert de competenties en kwalificaties die de   kandidaat-inspecteur bezit en bevat alle elementen waarmee de kandidaat zijn   onderwijskundige inzichten heeft uitgebreid en verdiept. Het betreft   competenties die zowel binnen als buiten het onderwijs verworven zijn. Het   portfolio vermeldt bijkomend de specifieke competenties en kwalificaties die   vereist zijn voor het profiel waarvoor geworven wordt.
+...
 
 ### ART. 14/4.
 
-§ 1. Om te slagen voor de profielgerichte selectieproef moet de kandidaat   geslaagd zijn voor de drie fases van de selectieprocedure, vermeld in artikel   65/1, § 2 van het decreet van 8 mei 2009.<BR><BR>§ 2. Als het portfolio dat de   kandidaat indient, een positieve beoordeling krijgt van de screeningscommissie,   vermeld in artikel 65/1, § 3 van het decreet van 8 mei 2009, is de kandidaat   geslaagd voor de eerste fase van de selectieprocedure. <BR><BR>Alleen de   kandidaten van wie het portfolio positief is beoordeeld, kunnen deelnemen aan   het vervolg van de selectieprocedure.<BR><BR>Na afloop van de eerste fase,   brengt de screeningscommissie, vermeld in artikel 65/1, § 3, eerste lid, van het   decreet van 8 mei 2009, de kandidaten schriftelijk of elektronisch op de hoogte   van haar beslissing binnen dertig kalenderdagen nadat het portfolio ingediend   moest worden.<BR><BR>De kandidaten die geslaagd zijn voor de eerste fase van de   selectieprocedure ontvangen een schriftelijke of elektronische uitnodiging om   deel te nemen aan de tweede fase van de selectieprocedure.<BR><BR>§ 3. Om te   slagen voor de tweede fase van de selectieprocedure, moet de kandidaat ten   minste 60 procent behalen op het interview, vermeld in artikel 65/1, § 2, 2° van   het decreet van 8 mei 2009. Als de tweede fase van de selectie zowel uit een   interview als uit een bijkomende test bestaat, moet de kandidaat op elk   onderdeel ten minste 50 procent behalen. Alleen de kandidaten die geslaagd zijn   voor de tweede fase, kunnen deelnemen aan het vervolg van de selectieprocedure.   Voor het verloop van het interview zijn artikel 10 tot en met 13 van dit besluit   van toepassing. De commissie stelt een rangschikking op van de geslaagde   kandidaten. <BR><BR>Na afloop van de tweede fase, brengt de selectiecommissie,   vermeld in artikel 65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de   kandidaten binnen dertig kalenderdagen schriftelijk of elektronisch op de hoogte   van de resultaten van de tweede fase van de selectieprocedure. De kandidaten die   slagen voor de tweede fase van de selectieprocedure ontvangen een uitnodiging om   deel te nemen aan de derde fase van de selectieprocedure. <BR><BR>§ 4. Om te   slagen voor de derde fase van de selectieprocedure, moet de kandidaat geslaagd   zijn voor de test van de generieke competenties. De generieke competenties voor   het ambt van inspecteur zijn de competenties, vermeld in artikel 7 van dit   besluit.<BR><BR>Na afloop van de derde fase, brengt de selectiecommissie,   vermeld in artikel 65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de   kandidaten schriftelijk of elektronisch op de hoogte van de resultaten van de   derde fase van de selectieprocedure binnen dertig kalenderdagen na afloop van de   test van de generieke competenties. Die schriftelijke melding bevat ook de   uiteindelijke rangschikking van de kandidaat. <BR><BR>De rangschikking is   dezelfde als de rangschikking die is vastgelegd op het einde van de tweede fase   van de selectieprocedure, maar bevat alleen de kandidaten die ook geslaagd zijn   voor de test van de generieke competenties.
+...
 
 ## [HOOFDSTUK IV. ... (opgeh. BVR 5 april 2019, art. 3, I: 15 april 2019)]
 
 ### ART. 15.
 
-Het evaluatieverslag, vermeld in artikel 72 van het decreet van 8 mei 2009, moet worden meegedeeld aan de belanghebbende, conform de bepalingen van artikel 114, § 2, tweede lid van het decreet van 8 mei 2009, binnen twintig kalenderdagen na het evaluatiegesprek en in ieder geval voor het einde van de proeftijd. Indien het evaluatieverslag niet binnen die termijn aan het personeelslid wordt meegedeeld, wordt het evaluatieverslag geacht het voorstel tot benoeming in vast verband te bevatten. <br /><br />Het evaluatieverslag wordt bij het persoonlijk dossier van het betrokken personeelslid gevoegd.
+...
 
 ### ART. 16.
 
-Het personeelslid tegen wie een gemotiveerd voorstel tot ontslag wordt geformuleerd, kan binnen zeven kalenderdagen met een aangetekende brief een bezwaarschrift indienen bij de raad van beroep. <br /><br />Het gemotiveerd voorstel moet de beroepsmogelijkheden vermelden.<br /><br />Op hetzelfde ogenblik dat het personeelslid het bezwaarschrift indient, stuurt hij een kopie daarvan naar zijn evaluatoren. <br /><br />De procedure, vermeld in artikel 42 tot en met artikel 54, wordt gevolgd.
+...
 
 ## [HOOFDSTUK V. Toegang tot het ambt van coördinerend inspecteur en inspecteur-generaal (verv. BVR 5 april 2019, art. 4, I: 15 april 2019)]
 
 ### ART. 17.
 
-Voor de berekening van de dienstanciënniteit, vermeld in artikel 79 van het decreet van 8 mei 2009, komen alleen de diensten in aanmerking die door het personeelslid werden gepresteerd als lid van de inspectie. <br /><br />Bij de berekening van de duur van de dienstanciënniteit, vermeld in artikel 79 van het decreet van 8 mei 2009, zijn de bepalingen van artikel 3 van toepassing.
+Voor de berekening van de dienstanciënniteit, vermeld in artikel 79 van het decreet van 8 mei 2009, komen alleen de diensten in aanmerking die het personeelslid heeft gepresteerd als lid van de inspectie.<br>
+<br>
+Bij de berekening van de duur van de dienstanciënniteit, vermeld in artikel 79 van het voormelde decreet, zijn de bepalingen van artikel 3 van dit besluit van toepassing.
 
 ## [Afdeling 2. Generiek selectiereglement voor het ambt van coördinerend inspecteur (ing. BVR 5 april 2019, art. 4, I: 15 april 2019)]
 
 ### ART. 18.
 
-De oproep voor de test van de generieke competenties voor het ambt van coördinerend inspecteur wordt, overeenkomstig artikel 81, § 1 van het decreet van 8 mei 2009, in het Belgisch Staatsblad bekendgemaakt en wordt eveneens gelijktijdig via de geëigende media, te raadplegen door alle inspecteurs, bekendgemaakt. <br /><br />Als er tijdens een eerste selectieprocedure geen kandidaat is of geen geschikte kandidaat is gevonden, wordt een nieuwe oproep in het Belgisch Staatsblad en gelijktijdig in de geëigende media en per omzendbrief bekendgemaakt. De bekendmaking vermeldt de voorwaarden waaraan de kandidaten moeten voldoen, alsook de vormvereisten en de termijn die voor het indienen van de kandidaturen opgelegd zijn.<br /><br />De kandidaturen moeten als aangetekende brief verzonden worden, naar het adres, vermeld in de oproep, binnen de vastgestelde termijn. Die termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking, vermeld in het eerste lid, of na de bekendmaking in het Belgisch Staatsblad.
+Een vacature voor het ambt van coördinerend inspecteur wordt bij externe werving, zoals bedoeld in artikel 79, § 2, tweede alinea van het decreet van 8 mei 2009, ten minste bekendgemaakt:<br>
+1° in het Belgisch Staatsblad;<br>
+2° op de website van de onderwijsinspectie;<br>
+3° op de website van VDAB;<br>
+4° via de geëigende communicatiekanalen van het Departement Onderwijs.<br>
+<br>
+De vacature voor het ambt van coördinerend inspecteur bevat ten minste de aanwervingsvoorwaarden, vermeld in artikel 79 van het decreet van 8 mei 2009, en de specifieke toelatingsvoorwaarden, vermeld in artikel 63, § 4, van het voormelde decreet, alsook de wijze van solliciteren.
 
 ### ART. 19.
 
-De generieke competenties voor het ambt van coördinerend inspecteur zijn : <br />1° toekomstgericht en kritisch denken : een visie en strategie kunnen ontwikkelen op basis van de analyse van de omgevingsfactoren en een creatieve benadering van nieuwe evoluties. Dit impliceert eveneens de bekwaamheid om beleids- en ontwikkelingsplannen te kunnen uitwerken;<br />2° beslissingsvermogen : problemen kunnen onderkennen en op een creatieve wijze oplossingen kunnen definiëren en laten uitvoeren;<br />3° organisatietalent : kunnen plannen en coördineren van taken om de beoogde doelstellingen te bereiken;<br />4° teamleiderschap : richting en sturing kunnen geven aan het korps en de medewerkers, om hen te motiveren en te enthousiasmeren voor de zending van de inspectie en om een goede collegiale verstandhouding tot stand te brengen;<br />5° resultaatgerichtheid : over de wil en de gedrevenheid beschikken om vooropgestelde doelen te behalen, zelfs zonder moeilijke en/of tegenvallende omstandigheden;<br />6° bezieling : vanuit de eigen overtuiging anderen kunnen enthousiasmeren en aanmoedigen zodat zij zich spontaan inzetten;<br />7° overtuigingskracht : anderen kunnen beïnvloeden en achter een idee kunnen krijgen;<br />8° relatiebekwaamheid : contacten kunnen leggen en onderhouden;<br />9° flexibiliteit : rekening kunnen houden met wijzigende omstandigheden en het gedrag en de aanpak daarop kunnen afstemmen.
+De kandidaat bezorgt uiterlijk op de uiterste sollicitatiedatum, vermeld in artikel 22, eerste lid, het digitaal ingevulde sollicitatieformulier op de wijze, vermeld in de vacature.<br>
+<br>
+Het sollicitatieformulier staat op de website van de onderwijsinspectie.<br>
+<br>
+Het sollicitatieformulier bevat al de volgende gegevens van de kandidaat:<br>
+1° de persoonsgegevens;<br>
+2° de gevolgde opleidingen;<br>
+3° de relevante werkervaringen;<br>
+4° het competentieportfolio dat de competenties en kwalificaties van de kandidaat inventariseert.
 
 ### ART. 20.
 
-De oproep voor de test van de generieke competenties voor het ambt van inspecteur-generaal wordt in het Belgisch Staatsblad en gelijktijdig in de geëigende media en per omzendbrief bekendgemaakt. De bekendmaking vermeldt de voorwaarden waaraan de kandidaten moeten voldoen, alsook de vormvereisten en de termijn die voor het indienen van de kandidaturen opgelegd zijn. <br /><br />De kandidaturen moeten als aangetekende brief verzonden worden, naar het adres, vermeld in de oproep, binnen de vastgestelde termijn. Die termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking in het Belgisch Staatblad.
+De diploma's, getuigschriften, ervaringsbewijzen of toegangsbewijzen, vermeld in artikel 49 van het decreet van 8 mei 2009, geven toegang tot de selectieprocedure voor het ambt van coördinerend inspecteur.
 
 ### ART. 21.
 
-De generieke competenties voor het ambt van inspecteur-generaal zijn : <br />1° voortdurend verbeteren : voortdurend kunnen verbeteren van het eigen functioneren en van de werking van het korps en van de entiteit, door de bereidheid om te leren en mee te groeien met veranderingen;<br />2° samenwerken : met het oog op het algemeen belang een bijdrage kunnen leveren aan een gezamenlijk resultaat op het niveau van het korps, de entiteit of de organisatie, ook als dat niet onmiddellijk van persoonlijk belang is;<br />3° klantgerichtheid : met het oog op het dienen van het algemene belang, de legitieme behoeften van verschillende soorten (interne en externe) klanten kunnen onderkennen en er adequaat op kunnen reageren;<br />4° betrouwbaarheid : kunnen handelen vanuit de codes van integriteit, zorgvuldigheid, objectiviteit, gelijke behandeling, correctheid en transparantie uitgaande van de basisregels, sociale en ethische normen (diversiteit, milieuzorg...) Afspraken kunnen nakomen en zijn verantwoordelijkheid kunnen opnemen;<br />5° 360° inlevingsvermogen : het vermogen om uitgesproken en onuitgesproken informatie te kunnen oppikken en adequaat daarop te kunnen reageren ten aanzien van medewerkers, collega's, scholen, hiërarchie...;<br />6° oordeelsvorming : kunnen meningen uiten en zicht hebben op de consequenties ervan, op basis van een afweging v an relevante criteria;<br />7° beslissingsvermogen : zich op onderbouwde wijze eenduidig kunnen uitspreken over welk standpunt wordt ingenomen of welke actie wordt ondernomen;<br />8° richting geven : kunnen aansturen, ontwikkelen en motiveren van medewerkers zodat ze hun doelstellingen en die van het korps en van de entiteit op een correcte manier kunnen realiseren, zowel individueel als in teamverband.
+De aanwervingsvoorwaarden zijn uiterlijk vervuld op het ogenblik van de kandidaatstelling voor de selectieproeven, vermeld in artikel 24.
 
 ### ART. 22.
 
-Het competentieportfolio, vermeld in artikel 81, § 2 van het decreet van 8 mei 2009, inventariseert de competenties en kwalificaties die de kandidaat bezit. Het betreft competenties die zowel binnen onderwijs of de inspectie als daarbuiten verworven zijn.
+Er is een periode van ten minste twintig dagen tussen de datum waarop de vacature bekendgemaakt wordt in het Belgisch Staatsblad en de uiterste sollicitatiedatum.<br>
+<br>
+De kandidaturen die na de uiterste sollicitatiedatum, vermeld in het eerste lid, binnenkomen of sollicitatieformulieren die niet digitaal zijn ingevuld als vermeld in artikel 19, worden niet in aanmerking genomen.
 
 ### ART. 23.
 
-Alle kandidaten uit de algemene wervingsreserve ontvangen bij een vacature een oproep met een aangetekende brief om deel te nemen aan de tweede fase van de selectie. <br /><br />De kandidaturen voor de tweede fase van de selectieprocedure moeten als aangetekende brief verzonden worden binnen een termijn van ten minste twintig kalenderdagen na de schriftelijke oproep.
+Na de toepassing van de werkwijze, vermeld in artikel 65 van het decreet van 8 mei 2009, bezorgt de onderwijsinspectie de kandidaat een bevestigingsmail waarin wordt vermeld dat de elektronische sollicitatie is ontvangen en dat de kandidaat al dan niet voldoet aan de aanwervingsvoorwaarden.<br>
+<br>
+De sollicitatieformulieren van de kandidaten die voldoen aan de aanwervingsvoorwaarden, worden voorgelegd aan de selectiecommissie, vermeld in artikel 25.
 
 ### ART. 24.
 
-§ 1. De selectiecommissie, vermeld in artikel 82, § 3 van het decreet van   8 mei 2009, bestaat uit : <BR>1° voor de toegang tot het ambt van coördinerend   inspecteur : <BR>a) de inspecteur-generaal; <BR>b) vier leden die extern zijn   aan de inspectie, aangewezen door de voorzitter.<BR>De inspecteur-generaal is de   voorzitter van de commissie. <BR>2° voor de toegang tot het ambt van   inspecteur-generaal : <BR>a) de administrateur-generaal van het Agentschap voor   Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<BR>b)   één administrateur-generaal of secretaris-generaal van het beleidsdomein   Onderwijs en Vorming, aangewezen door de voorzitter;<BR>c) drie leden die extern   zijn aan de inspectie, aangewezen door de voorzitter.<BR><BR>De   administrateur-generaal van het Agentschap voor Hoger Onderwijs,   Volwassenenonderwijs, Kwalificaties en Studietoelagen is de voorzitter van de   commissie.<BR><BR>§ 2. De selectiecommissie, vermeld in paragraaf 1, onderzoekt   in welke mate de kandidaten voldoen aan het vereiste competentieprofiel. Ze   hoort de kandidaten en bevraagt hen op basis van de ingediende beleidsnota over   de prioriteiten die zij willen leggen in het ambt waarvoor zij kandideren en   neemt die elementen mee in aanmerking bij haar beoordeling. <BR><BR>§ 3. De   selectiecommissie stelt de kandidaten in kennis van de resultaten van het   interview met een aangetekende brief binnen dertig kalenderdagen na de   beraadslaging, vermeld in artikel 25. Deze brief vermeldt eveneens de   rangschikking van de kandidaat.
+De testen voor de selectie in het ambt van coördinerend inspecteur zijn:<br>
+1° het opstellen van een beleidsnota waarbij de kandidaat de prioriteiten voorstelt die hij wil leggen in het ambt waarvoor hij kandideert;<br>
+2° een externe test. De resultaten van die externe test vormen een element voor de deliberatie van de kandidaten en in voorkomend geval voor de uitbouw van de aanvangsbegeleiding;<br>
+3° een interview bij de selectiecommissie, vermeld in artikel 25. Het interview bestaat uit een gesprek waaruit blijkt of de kandidaat voldoet aan de selectiecriteria, vermeld in artikel 26/1.<br>
+<br>
+De kandidaat stelt tijdens het interview zijn competentieportfolio en zijn beleidsnota voor en wordt door de leden van de selectiecommissie, vermeld in artikel 25, ondervraagd over onder meer de inhoud van het competentieportfolio en de beleidsnota.<br>
+<br>
+De commissie kan op basis van het aantal kandidaten beslissen om een voorafgaande, bijkomende eliminerende proef te organiseren. De eliminerende proef toetst een aantal van de selectiecriteria, vermeld in artikel 26/1.
 
 ### ART. 25.
 
-De selectiecommissie, vermeld in artikel 24, beraadslaagt geldig als ten minste twee derde van de leden aanwezig is. De samenstelling van de selectiecommissie is bij de beraadslaging dezelfde als tijdens het afnemen van het interview.
+§ 1. De selectiecommissie bestaat uit:<br>
+1° de inspecteur-generaal of zijn gemachtigde;<br>
+2° vier leden die extern zijn aan de inspectie en die aangewezen worden door de voorzitter.<br>
+<br>
+§ 2. De inspecteur-generaal of zijn gemachtigde is de voorzitter van de commissie.<br>
+<br>
+De voorzitter voegt aan de selectiecommissie een secretaris toe die belast is met de algemene organisatie.<br>
+<br>
+§ 3. De selectiecommissie beraadslaagt geldig als ten minste twee derde van de leden aanwezig is. De samenstelling van de selectiecommissie is bij de beraadslaging dezelfde als tijdens het interview.<br>
+<br>
+§ 4. De volgende personen mogen geen deel uitmaken van de selectiecommissie:<br>
+1° de echtgenoot van de kandidaat;<br>
+2° een bloed- of aanverwant van de kandidaat tot en met de vierde graad;<br>
+3° personen die een relationele band hebben met een kandidaat.
 
 ### ART. 26.
 
-Een persoon die de echtgenoot of een bloed- of aanverwant tot en met de vierde graad is of een relationele band heeft met een kandidaat mag geen deel uitmaken van de selectiecommissie.
+De selectiecommissie, vermeld in artikel 25, stelt haar werkingsreglement op, dat kenbaar gemaakt wordt aan de kandidaten.
+
+### ART 26/1.
+
+De volgende criteria worden door de selectiecommissie, vermeld in artikel 25, gebruikt om te bepalen of een kandidaat geschikt is en geslaagd is:<br>
+1° de visie op en het inzicht in de functie;<br>
+2° de motivatie en de verwachtingen;<br>
+3° de beheersing van de generieke en de specifieke competenties, of het leervermogen om ze te verwerven;<br>
+4° de inzetbaarheid in de functie en de organisatie.
+
+### ART 26/2.
+
+De leden van de selectiecommissie, vermeld in artikel 25, beoordelen elk van de kandidaten op de vier criteria bepaald in artikel 26/1.<br>
+<br>
+Het gewicht van de respectievelijke criteria wordt bepaald in het werkingsreglement bedoeld in artikel 26.<br>
+<br>
+Er wordt voor alle kandidaten een globale beoordeling gemaakt die de som is van de beoordelingen van alle leden van de selectiecommissie.<br>
+<br>
+De selectiecommissie rangschikt de geslaagde kandidaten naar gelang de behaalde beoordeling.
+
+### ART 26/3.
+
+De geslaagde kandidaten worden voor vier jaar opgenomen in een wervingsreserve.
 
 ## HOOFDSTUK VI. De preventieve schorsing
 
@@ -218,7 +383,20 @@ De raad van beroep stelt een werkingsreglement op.
 
 ### ART. 42.
 
-§ 1. Een personeelslid kan per aangetekende brief beroep instellen bij de raad van beroep, naargelang van het geval, binnen : <br />1° zeven kalenderdagen na de ontvangst van het gemotiveerde voorstel tot ontslag na de proeftijd;<br />2° vijf kalenderdagen na de ontvangst van het ontslag om dringende redenen;<br />3° twintig kalenderdagen na de ontvangst van het evaluatieverslag met eindconclusie "onvoldoende";<br />4° twintig kalenderdagen vanaf de dag waarop het voorstel tot tuchtstraf ter visering wordt voorgelegd;<br />5° twintig kalenderdagen na de schriftelijke mededeling van de preventieve schorsing. <br /><br />Het beroep moet, met uitzondering van punt 1° en 2°, op straffe van niet-ontvankelijkheid gemotiveerd zijn.<br /><br />§ 2. Als de aangetekende brief waarbij het voorstel tot tuchtstraf, de evaluatie met eindconclusie onvoldoende, het voorstel tot ontslag na de beëindiging van de proeftijd, de preventieve schorsing of het ontslag om dringende redenen aan het personeelslid wordt bekendgemaakt de beroepsmogelijkheden niet vermeldt, begint de beroepstermijn niet te lopen.<br /><br />§ 3. Na het verstrijken van de beroepstermijnen, voorzien in paragraaf 1, wordt de evaluatie met eindconclusie onvoldoende, het ontslag na de beëindiging van de proeftijd, de preventieve schorsing of het ontslag om dringende redenen definitief.<br /><br />Na het verstrijken van de beroepstermijn, voorzien in paragraaf 1, eerste lid, 4° wordt het dossier voor beslissing voorgelegd aan de Vlaamse Regering, die bevoegd is om de tuchtstraf definitief uit te spreken. De tuchtstraf is in dit geval definitief op het moment dat de Vlaamse Regering de definitieve beslissing neemt over de tuchtstraf.
+§ 1. Een personeelslid kan per aangetekende brief beroep instellen bij de raad van beroep, naargelang van het geval, binnen :<br>
+1° ...;<br>
+2° vijf kalenderdagen na de ontvangst van het ontslag om dringende redenen;<br>
+3° twintig kalenderdagen na de ontvangst van het evaluatieverslag met eindconclusie "onvoldoende";<br>
+4° twintig kalenderdagen vanaf de dag waarop het voorstel tot tuchtstraf ter visering wordt voorgelegd;<br>
+5° twintig kalenderdagen na de schriftelijke mededeling van de preventieve schorsing.<br>
+<br>
+Het beroep moet, met uitzondering van punt 1° en 2°, op straffe van niet-ontvankelijkheid gemotiveerd zijn.<br>
+<br>
+§ 2. Als de aangetekende brief waarbij het voorstel tot tuchtstraf, de evaluatie met eindconclusie onvoldoende, het voorstel tot ontslag na de beëindiging van de proeftijd, de preventieve schorsing of het ontslag om dringende redenen aan het personeelslid wordt bekendgemaakt de beroepsmogelijkheden niet vermeldt, begint de beroepstermijn niet te lopen.<br>
+<br>
+§ 3. Na het verstrijken van de beroepstermijnen, voorzien in paragraaf 1, wordt de evaluatie met eindconclusie onvoldoende, het ontslag na de beëindiging van de proeftijd, de preventieve schorsing of het ontslag om dringende redenen definitief.<br>
+<br>
+Na het verstrijken van de beroepstermijn, voorzien in paragraaf 1, eerste lid, 4° wordt het dossier voor beslissing voorgelegd aan de Vlaamse Regering, die bevoegd is om de tuchtstraf definitief uit te spreken. De tuchtstraf is in dit geval definitief op het moment dat de Vlaamse Regering de definitieve beslissing neemt over de tuchtstraf.
 
 ### ART. 43.
 
@@ -320,13 +498,31 @@ De salarisschalen, vermeld in artikel 61, worden vastgesteld bij het besluit van
 
 ### ART. 64.
 
-§ 1. De inspecteurs van wie het ambtsgebied gelijk is aan   standplaatsgebied-west of -oost, hebben recht op een forfaitaire vergoeding om   de reis- en verblijfkosten te dekken die verbonden zijn aan de uitoefening van   hun ambt. Die vergoeding wordt vastgesteld op 2.503,27 euro per jaar. <BR><BR>De   inspecteurs van wie het ambtsgebied gelijk is aan standplaatsgebied-west en   -oost, hebben recht op een forfaitaire vergoeding om de reis- en verblijfkosten   te dekken die verbonden zijn aan de uitoefening van hun ambt. Die vergoeding   wordt vastgesteld op 3.188,36 euro per jaar. <BR><BR>Het ambtsgebied is het   gebied waar inspectieopdrachten worden uitgevoerd en dat vastgesteld wordt door   de inspecteur-generaal;<BR><BR>Het standplaatsgebied-west : het Brussels   Hoofdstedelijk Gewest, de provincie West-Vlaanderen, de provincie   Oost-Vlaanderen, het arrondissement Antwerpen;<BR><BR>Het standplaatsgebied-oost   : het Brussels Hoofdstedelijk Gewest, de provincie Vlaams-Brabant, de provincie   Limburg, het arrondissement Mechelen en het arrondissement Turnhout.<BR><BR>De   inspecteurs met als standplaats het adres van het Agentschap voor Hoger   Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen hebben recht op   de terugbetaling van het woon-werkverkeer onder de voorwaarden die gelden voor   de ambtenaren van de Vlaamse overheid. Ze hebben eveneens recht op een reis-,   maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen   overeenkomstig de geldende regeling voor de ambtenaren van de Vlaamse overheid.   <BR><BR>§ 2. De bedragen, vermeld in paragraaf 1 volgen de evolutie van het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2   van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6   januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij   de wet van 30 maart 1994. Het bedrag wordt aan het spilindexcijfer 138.01   gekoppeld. <BR><BR>§ 3. De forfaitaire vergoedingen, vermeld in paragraaf 1,   worden in maandelijkse schijven uitbetaald. De vergoedingen worden met 1/12   ingehouden voor elke onderbreking van de ambtsuitoefening gedurende een periode   van dertig aaneensluitende kalenderdagen. <BR><BR>§ 4. De inspecteur die op   basis van bewijsstukken kan aantonen dat de reële reis- en verblijfkosten die   hij heeft gemaakt in de uitoefening van zijn ambt meer dan 5 % hoger zijn dan de   forfaitaire vergoeding waarop hij recht heeft op jaarbasis, krijgt het verschil   tussen de reële kosten en de forfaitaire vergoeding uitbetaald. Hij dient   hiervoor een gedetailleerde onkostenstaat in ten laatste in de maand februari   die volgt op het jaar waarop de uitgaven betrekking hebben. Onkostenstaten die   na deze termijn nog worden ingediend zijn onontvankelijk. De reële uitgaven voor   reis- en verblijfskosten worden slechts terugbetaald tot het beloop van de   maximale bedragen die gelden voor de ambtenaren van de Vlaamse overheid voor   binnenlandse dienstreizen. <BR><BR>De betaling van het verschil tussen de reële   kosten en de forfaitaire vergoeding gebeurt binnen twee maanden nadat de   inspecteur de gedetailleerde onkostenstaat heeft ingediend.
+§ 1. De inspecteurs van wie het ambtsgebied gelijk is aan standplaatsgebied-west of -oost, hebben recht op een forfaitaire vergoeding om de reis- en verblijfkosten te dekken die verbonden zijn aan de uitoefening van hun ambt. Die vergoeding wordt vastgesteld op 2.503,27 euro per jaar.<br>
+<br>
+De inspecteurs van wie het ambtsgebied gelijk is aan standplaatsgebied-west en -oost, hebben recht op een forfaitaire vergoeding om de reis- en verblijfkosten te dekken die verbonden zijn aan de uitoefening van hun ambt. Die vergoeding wordt vastgesteld op 3.188,36 euro per jaar. Deze forfaitaire vergoeding geldt ook voor de coördinerend inspecteurs en de inspecteur-generaal.<br>
+<br>
+Het ambtsgebied is het gebied waar inspectieopdrachten worden uitgevoerd en dat vastgesteld wordt door de inspecteur-generaal;<br>
+<br>
+Het standplaatsgebied-west : het Brussels Hoofdstedelijk Gewest, de provincie West-Vlaanderen, de provincie Oost-Vlaanderen, het arrondissement Antwerpen;<br>
+<br>
+Het standplaatsgebied-oost : het Brussels Hoofdstedelijk Gewest, de provincie Vlaams-Brabant, de provincie Limburg, het arrondissement Mechelen en het arrondissement Turnhout.<br>
+<br>
+§ 2. De bedragen, vermeld in paragraaf 1 volgen de evolutie van het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994. Het bedrag wordt aan het spilindexcijfer 138.01 gekoppeld.<br>
+<br>
+§ 3. De forfaitaire vergoedingen, vermeld in paragraaf 1, worden in maandelijkse schijven uitbetaald. De vergoedingen worden met 1/12 ingehouden voor elke onderbreking van de ambtsuitoefening gedurende een periode van dertig aaneensluitende kalenderdagen.<br>
+<br>
+§ 4. De inspecteur die op basis van bewijsstukken kan aantonen dat de reële reis- en verblijfkosten die hij heeft gemaakt in de uitoefening van zijn ambt&nbsp; hoger zijn dan de forfaitaire vergoeding waarop hij recht heeft op jaarbasis, krijgt het verschil tussen de reële kosten en de forfaitaire vergoeding uitbetaald. Hij dient hiervoor een gedetailleerde onkostenstaat in ten laatste in de maand februari die volgt op het jaar waarop de uitgaven betrekking hebben. Onkostenstaten die na deze termijn nog worden ingediend zijn onontvankelijk. De reële uitgaven voor reis- en verblijfskosten worden slechts terugbetaald tot het beloop van de maximale bedragen die gelden voor de ambtenaren van de Vlaamse overheid voor binnenlandse dienstreizen.<br>
+<br>
+De betaling van het verschil tussen de reële kosten en de forfaitaire vergoeding gebeurt binnen twee maanden nadat de inspecteur de gedetailleerde onkostenstaat heeft ingediend.
 
 ## [... (opgeh. BVR 5 april 2019, art. 8, I: 15 april 2019)]
 
 ### ART. 65.
 
-De coördinerend inspecteurs en de inspecteur-generaal hebben recht op de terugbetaling van het woon-werkverkeer onder de voorwaarden die gelden voor de ambtenaren van de Vlaamse overheid. <br /><br />De coördinerend inspecteurs en de inspecteur-generaal hebben recht op een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen overeenkomstig de geldende regeling voor de ambtenaren van de Vlaamse overheid.
+Inspecteurs en coördinerend inspecteurs die hun opdracht uitsluitend uitvoeren op het adres van de onderwijsinspectie, kunnen in plaats van de van toepassing zijnde forfaitaire vergoeding voor reis- en verblijfskosten, vermeld in artikel 64, § 1, kiezen voor de terugbetaling van het woon-werkverkeer en een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen conform de geldende regeling voor de ambtenaren van de Vlaamse overheid.<br>
+<br>
+De inspecteur-generaal die zijn opdracht uitsluitend uitvoert op het adres van de onderwijsinspectie, kan in plaats van de forfaitaire vergoeding voor reis- en verblijfkosten, vermeld in artikel 64, § 1, tweede alinea kiezen voor de terugbetaling van het woon-werkverkeer conform artikel V 12bis van het Vlaams personeelsstatuut van 13 januari 2006 en een reis-, maaltijd- en hotelvergoeding voor binnenlandse en buitenlandse dienstreizen conform de geldende regeling voor de ambtenaren van de Vlaamse overheid.
 
 ## Afdeling III. ICT-vergoeding
 
