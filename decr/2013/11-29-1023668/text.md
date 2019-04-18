@@ -10,11 +10,12 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 In dit decreet wordt verstaan onder :<br>
 1° actor : elke natuurlijke persoon of rechtspersoon die preventieve gezinsondersteuning organiseert of aanbiedt;<br>
+1° /1 agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° gebruikers : alle natuurlijke personen of rechtspersonen die gebruikmaken van het aanbod van de preventieve gezinsondersteuning, waaronder zowel aanstaande ouders, gezinnen met kinderen, als actoren;<br>
 3° gezin : primaire leefvormen of samenlevingsvormen, waarin meerdere personen min of meer duurzame relaties onderhouden;<br>
 4° jongere : persoon tussen 15 en 24 jaar;<br>
 5° kind : de persoon vermeld in artikel 1 van het Internationaal Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989;<br>
-6° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+6° ...<br>
 7° lokaal bestuur : het gemeentebestuur en het bestuur van het Openbaar Centrum voor Maatschappelijk Welzijn en, voor wat het tweetalige gebied Brussel-Hoofdstad betreft, de Vlaamse Gemeenschapscommissie;<br>
 8° opvoedingsondersteuning : de laagdrempelige, gelaagde ondersteuning van opvoedingsverantwoordelijken bij de opvoeding van kinderen en jongeren;<br>
 9° preventieve gezinsondersteuning : het geheel van maatregelen en aanbod dat gericht is op het bevorderen van het welbevinden van alle gezinnen met kinderen en jongeren, en aanstaande ouders met inbegrip van de ondersteuning op het vlak van opvoeding en preventieve gezondheidszorg;<br>
@@ -54,7 +55,15 @@ De preventieve gezinsondersteuning richt zich tot gezinnen met kinderen en   jon
 
 ### ART. 8.
 
-<P>Een Huis van het Kind brengt een divers aanbod op het vlak van preventieve   gezinsondersteuning bijeen. Minimaal gaat het om aanbod op het vlak van   preventieve gezondheidszorg en opvoedingsondersteuning, alsook om activiteiten   die tot doel hebben om ontmoeting en de sociale cohesie te bevorderen.<BR></P>  <P>Het aanbod uit elk van de drie pijlers, vermeld in het eerste lid, kan onder   verschillende vormen aangeboden worden. Naast de preventieve medische consulten,   erkend en gesubsidieerd door Kind en Gezin en de consulten uitgevoerd door de   regioteamleden van Kind en Gezin, gaat het onder meer om : <BR>1° het inzetten   op ontmoeting;<BR>2° het aanbieden van groepswerk;<BR>3° het voorzien in   laagdrempelige individuele ondersteuning;<BR>4° het organiseren van een onthaal-   en informatiepunt.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud en   de organisatie, de voorwaarden en de procedure voor de erkenning en subsidiëring   van aanbod in het domein van de preventieve gezinsondersteuning, en dit binnen   het kader van de beschikbaar gestelde begrotingskredieten.<BR></P>
+<p>Een Huis van het Kind brengt een divers aanbod op het vlak van preventieve gezinsondersteuning bijeen. Minimaal gaat het om aanbod op het vlak van preventieve gezondheidszorg en opvoedingsondersteuning, alsook om activiteiten die tot doel hebben om ontmoeting en de sociale cohesie te bevorderen.</p>
+
+<p>Het aanbod uit elk van de drie pijlers, vermeld in het eerste lid, kan onder verschillende vormen aangeboden worden. Naast de preventieve medische consulten, erkend en gesubsidieerd door het agentschap&nbsp;en de consulten uitgevoerd door de regioteamleden van het agentschap, gaat het onder meer om :<br>
+1° het inzetten op ontmoeting;<br>
+2° het aanbieden van groepswerk;<br>
+3° het voorzien in laagdrempelige individuele ondersteuning;<br>
+4° het organiseren van een onthaal- en informatiepunt.</p>
+
+<p>De Vlaamse Regering kan nadere regels bepalen met betrekking tot de inhoud en de organisatie, de voorwaarden en de procedure voor de erkenning en subsidiëring van aanbod in het domein van de preventieve gezinsondersteuning, en dit binnen het kader van de beschikbaar gestelde begrotingskredieten.</p>
 
 ### ART. 9.
 
@@ -74,7 +83,29 @@ De preventieve gezinsondersteuning richt zich tot gezinnen met kinderen en   jon
 
 ### ART. 12.
 
-<P>§ 1. Elk Huis van het Kind omvat minimaal volgend aanbod dat met een zekere   regelmaat wordt aangeboden : <BR>1° preventieve medische consulten erkend of   gesubsidieerd door Kind en Gezin;<BR>2° consulten uitgevoerd door de   regioteamleden van Kind en Gezin;<BR>3° minimaal twee andere verschillende   vormen van aanbod als vermeld in artikel 8, tweede lid, met inbegrip van het   aanbod, vermeld in paragraaf 2 van dit artikel;<BR>4° actieve doorverwijzing van   gebruikers naar aanbod, vermeld in artikel 5.<BR></P>  <P>Een Huis van het Kind maakt zijn aanbod bekend op het Lokaal Overleg   Kinderopvang vermeld in artikel 13, tweede lid, van het decreet van 20 april   2012 houdende de organisatie van kinderopvang van baby's en peuters. Het Huis   van het Kind stemt daarbij af op welke wijze informatie met betrekking tot het   aanbod zal doorstromen naar de gebruikers van kinderopvang en hoe samenwerking   met kinderopvanginitiatieven vorm krijgt.<BR></P>  <P>De Vlaamse Regering legt hiertoe de nadere voorwaarden vast.<BR></P>  <P>Een Huis van het Kind maakt zijn aanbod bekend op het Intersectoraal   Regionaal Overleg Jeugdhulp vermeld in artikel 65 van het decreet van 12 juli   2013 betreffende de integrale jeugdhulp. Het Huis van het Kind stemt daarbij af   op welke wijze informatie met betrekking tot het aanbod zal doorstromen naar de   jeugdhulpaanbieders en de gebruikers binnen de integrale jeugdhulp.<BR></P>  <P>De Vlaamse Regering legt hiertoe de nadere voorwaarden vast.<BR></P>  <P>§ 2. Alle aanbod dat door Kind en Gezin erkend of gesubsidieerd wordt ter   uitvoering van artikel 7 en 13, § 3, van het decreet van 30 april 2004 tot   oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid   Kind en Gezin, en de voorzieningen, vermeld in artikel 24, die een   kwaliteitslabel ontvangen of gesubsidieerd worden door Kind en Gezin en wiens   werkingsgebied gevat wordt door het werkingsgebied van het Huis van het Kind,   moet verplicht aansluiten.<BR></P>  <P>§ 3. De actoren die aanbod samenbrengen in een Huis van het Kind stellen hun   samenwerkingsverband open ten aanzien van andere actoren op het vlak van de   preventieve gezinsondersteuning die willen aansluiten bij het Huis van het   Kind.<BR></P>  <P>De Vlaamse Regering kan bijkomende regels bepalen inzake de toetreding van   actoren tot en de inbreng van aanbod in een Huis van het Kind met het oog op de   bewaking van de doelstellingen, vermeld in artikel 5 en 6.<BR></P>  <P>§ 4. De actoren die aanbod samenbrengen in een Huis van het Kind ondernemen   concrete acties om de doelstellingen, vermeld in artikel 10 en 11, te   realiseren.<BR></P>  <P>§ 5. Het samenwerkingsverband sluit zo veel mogelijk aan bij de wijze waarop   door de lokale besturen vormgegeven wordt aan het lokaal sociaal beleid. Bij de   netwerkvorming wordt maximaal flexibel ingespeeld op de lokale realiteit. De   Vlaamse Regering kan hierover nadere regels bepalen.<BR></P>
+<p>§ 1. Elk Huis van het Kind omvat minimaal volgend aanbod dat met een zekere regelmaat wordt aangeboden :<br>
+1° preventieve medische consulten erkend of gesubsidieerd door het agentschap;<br>
+2° consulten uitgevoerd door de regioteamleden van het agentschap;<br>
+3° minimaal twee andere verschillende vormen van aanbod als vermeld in artikel 8, tweede lid, met inbegrip van het aanbod, vermeld in paragraaf 2 van dit artikel;<br>
+4° actieve doorverwijzing van gebruikers naar aanbod, vermeld in artikel 5.</p>
+
+<p>Een Huis van het Kind maakt zijn aanbod bekend op het Lokaal Overleg Kinderopvang vermeld in artikel 13, tweede lid, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters. Het Huis van het Kind stemt daarbij af op welke wijze informatie met betrekking tot het aanbod zal doorstromen naar de gebruikers van kinderopvang en hoe samenwerking met kinderopvanginitiatieven vorm krijgt.</p>
+
+<p>De Vlaamse Regering legt hiertoe de nadere voorwaarden vast.</p>
+
+<p>Een Huis van het Kind maakt zijn aanbod bekend op het Intersectoraal Regionaal Overleg Jeugdhulp vermeld in artikel 65 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp. Het Huis van het Kind stemt daarbij af op welke wijze informatie met betrekking tot het aanbod zal doorstromen naar de jeugdhulpaanbieders en de gebruikers binnen de integrale jeugdhulp.</p>
+
+<p>De Vlaamse Regering legt hiertoe de nadere voorwaarden vast.</p>
+
+<p>§ 2. Het hele aanbod dat door het agentschap erkend of gesubsidieerd wordt ter uitvoering van artikel 5, § 2, 2°, a), artikel 5, § 1, 1°, b), artikel 7 en artikel 13, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, en de voorzieningen, vermeld in artikel 24 van dit decreet, die een kwaliteitslabel ontvangen of gesubsidieerd worden door het agentschap en waarvan het wer- kingsgebied binnen het werkingsgebied van het Huis van het Kind valt, is verplicht om aan te sluiten.</p>
+
+<p>§ 3. De actoren die aanbod samenbrengen in een Huis van het Kind stellen hun samenwerkingsverband open ten aanzien van andere actoren op het vlak van de preventieve gezinsondersteuning die willen aansluiten bij het Huis van het Kind.</p>
+
+<p>De Vlaamse Regering kan bijkomende regels bepalen inzake de toetreding van actoren tot en de inbreng van aanbod in een Huis van het Kind met het oog op de bewaking van de doelstellingen, vermeld in artikel 5 en 6.</p>
+
+<p>§ 4. De actoren die aanbod samenbrengen in een Huis van het Kind ondernemen concrete acties om de doelstellingen, vermeld in artikel 10 en 11, te realiseren.</p>
+
+<p>§ 5. Het samenwerkingsverband sluit zo veel mogelijk aan bij de wijze waarop door de lokale besturen vormgegeven wordt aan het lokaal sociaal beleid. Bij de netwerkvorming wordt maximaal flexibel ingespeeld op de lokale realiteit. De Vlaamse Regering kan hierover nadere regels bepalen.</p>
 
 ### ART. 13.
 
@@ -110,7 +141,7 @@ f) voorziet in middelen voor onder andere coördinatie en kwaliteitsbevordering 
 
 ### ART. 15.
 
-Het Vlaams Expertisecentrum voor Opvoedingsondersteuning, EXPOO, is   ingericht binnen Kind en Gezin.<BR>
+Het Vlaams Expertisecentrum voor Opvoedingsondersteuning, EXPOO, is ingericht binnen het agentschap.
 
 ### ART. 16.
 
@@ -130,9 +161,9 @@ Het Vlaams Expertisecentrum voor Opvoedingsondersteuning kan lokale   samenwerki
 
 ### ART. 19.
 
-<p>Met het oog op ofwel wetenschappelijk of statistisch onderzoek, inzonderheid met het oog op de beleidsvoorbereiding, beleidsevaluatie en -programmatie, ofwel met het oog op de handhaving van de erkennings- en subsidievoorwaarden, vermeld in dit decreet, en zijn uitvoeringsbesluiten, kan Kind en Gezin van elke actor binnen het Huis van het Kind gegevens opvragen, inclusief persoonsgegevens.</p>
+<p>Met het oog op ofwel wetenschappelijk of statistisch onderzoek, inzonderheid met het oog op de beleidsvoorbereiding, beleidsevaluatie en -programmatie, ofwel met het oog op de handhaving van de erkennings- en subsidievoorwaarden, vermeld in dit decreet, en zijn uitvoeringsbesluiten, kan het agentschap&nbsp;van elke actor binnen het Huis van het Kind gegevens opvragen, inclusief persoonsgegevens.</p>
 
-<p>Kind en Gezin is de&nbsp;verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming van de opgevraagde persoonsgegevens, vermeld in het eerste lid, en bepaalt welke categorieën van gegevens verwerkt worden en desgevallend de vorm waarin.</p>
+<p>Het agentschap&nbsp;is de&nbsp;verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming van de opgevraagde persoonsgegevens, vermeld in het eerste lid, en bepaalt welke categorieën van gegevens verwerkt worden en desgevallend de vorm waarin.</p>
 
 ## Hoofdstuk 6 Toezicht
 

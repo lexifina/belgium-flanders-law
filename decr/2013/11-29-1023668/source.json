@@ -2,16 +2,16 @@
   "codex_id": 1023668,
   "title": "Decreet van 2013-11-29 houdende de organisatie van preventieve gezinsondersteuning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023668/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "650d441211b1bd863a02eb164fcb620040c933102d2af0fc268e5a644412324d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023668/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "fb2aa8c0b4821b5a9d8ab55b9854a8e08e75d5bc23ea91bfc4d3671601d8523f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023668&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-04-18",
   "made": "2013-11-29",
   "gazette": "2014-01-29",
   "numac": 2014200198,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2019-04-18",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }
