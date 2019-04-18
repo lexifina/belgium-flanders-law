@@ -8,7 +8,13 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° agentschap: het intern   verzelfstandigd agentschap Jongerenwelzijn, opgericht bij artikel 2 van het   besluit van de Vlaamse Regering van 24 oktober 2008 tot uitvoering van het   decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en het kaderdecreet   Bestuurlijk Beleid van 18 juli 2003;<BR>2° decreet van 17 oktober 2003: het   decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en   welzijnsvoorzieningen van 17 oktober 2003;<BR>3° erkende voorzieningen: de   voorzieningen die erkend zijn conform de bepalingen van dit besluit;<BR>4°   inrichtende macht: een rechtspersoon zonder winstoogmerk onder de   verantwoordelijkheid waarvan een erkende voorziening functioneert;<BR>5°   minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<BR>6°   ondersteuningsteam: het team van interculturele bemiddelaars ter ondersteuning   van de hulp- en dienstverlening aan minderjarigen en hun context, waarbij   elementen van interculturele of levensbeschouwelijke diversiteit een rol   spelen.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+2° decreet van 17 oktober 2003: het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen van 17 oktober 2003;<br>
+3° erkende voorzieningen: de voorzieningen die erkend zijn conform de bepalingen van dit besluit;<br>
+4° inrichtende macht: een rechtspersoon zonder winstoogmerk onder de verantwoordelijkheid waarvan een erkende voorziening functioneert;<br>
+5° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+6° ondersteuningsteam: het team van interculturele bemiddelaars ter ondersteuning van de hulp- en dienstverlening aan minderjarigen en hun context, waarbij elementen van interculturele of levensbeschouwelijke diversiteit een rol spelen.
 
 ## HOOFDSTUK 2 De ondersteuningsteams
 
