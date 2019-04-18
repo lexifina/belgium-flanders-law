@@ -31,7 +31,8 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° buitenschoolse opvang: de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet basisonderwijs van 25 februari 1997, gaan, met uitzondering van:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 buitenschoolse opvang: de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet basisonderwijs van 25 februari 1997, gaan, met uitzondering van:<br>
 a) het verstrekken van onderwijs;<br>
 b) de activiteiten van internaten;<br>
 c) de activiteiten van jeugdwerk en van sportdiensten;<br>
@@ -160,11 +161,19 @@ Als er aan de opgevangen kinderen voeding en drank wordt aangeboden,   moeten di
 
 ### ART. 16.
 
-<P>&nbsp;In dit artikel wordt verstaan onder crisis: een acute noodsituatie   waarbij de fysieke of psychische integriteit van een kind tijdens de   buitenschoolse opvang in gevaar is en waarbij acuut hulp vereist is.<BR></P>  <P>De organisator heeft een crisisprocedure en meldt elke crisis zo snel   mogelijk aan Kind en Gezin. <BR></P>  <P>De crisisprocedure legt de opeenvolgende stappen en de manier van   communiceren vast die gevolgd moeten worden in geval van crisis. Er is daarbij   minstens één persoon aangewezen op wie een beroep kan worden gedaan.   <BR></P>
+<p>&nbsp;In dit artikel wordt verstaan onder crisis: een acute noodsituatie waarbij de fysieke of psychische integriteit van een kind tijdens de buitenschoolse opvang in gevaar is en waarbij acuut hulp vereist is.</p>
+
+<p>De organisator heeft een crisisprocedure en meldt elke crisis zo snel mogelijk aan het agentschap.</p>
+
+<p>De crisisprocedure legt de opeenvolgende stappen en de manier van communiceren vast die gevolgd moeten worden in geval van crisis. Er is daarbij minstens één persoon aangewezen op wie een beroep kan worden gedaan.</p>
 
 ### ART. 17.
 
-<P>In dit artikel wordt verstaan onder grensoverschrijdend gedrag: een situatie   waarin een kind in relatie tot een persoon die aanwezig is tijdens de   buitenschoolse opvang, slachtoffer is of dreigt te worden van bedreigingen of   geweld.<BR></P>  <P>De organisator heeft een procedure grensoverschrijdend gedrag en meldt elke   situatie van grensoverschrijdend gedrag zo snel mogelijk aan Kind en Gezin.   <BR></P>  <P>De procedure grensoverschrijdend gedrag legt vast hoe grensoverschrijdend   gedrag gedetecteerd wordt, hoe er gepast op gereageerd kan worden en hoe aan   preventie kan worden gedaan.<BR></P>
+<p>In dit artikel wordt verstaan onder grensoverschrijdend gedrag: een situatie waarin een kind in relatie tot een persoon die aanwezig is tijdens de buitenschoolse opvang, slachtoffer is of dreigt te worden van bedreigingen of geweld.</p>
+
+<p>De organisator heeft een procedure grensoverschrijdend gedrag en meldt elke situatie van grensoverschrijdend gedrag zo snel mogelijk aan het agentschap.</p>
+
+<p>De procedure grensoverschrijdend gedrag legt vast hoe grensoverschrijdend gedrag gedetecteerd wordt, hoe er gepast op gereageerd kan worden en hoe aan preventie kan worden gedaan.</p>
 
 ## Onderafdeling 6 Verzekering
 
@@ -216,7 +225,7 @@ De organisator zorgt voor betrokkenheid en participatie van de gezinnen door:<br
 1° elk gezin de mogelijkheid te geven de werking en tevredenheid te evalueren in de periode dat hun kind opgevangen wordt;<br>
 2° regelmatig overleg te plegen en te communiceren met het gezin, minimaal over de pedagogische aanpak en omgang met het kind en als er problemen zijn met het kind;<br>
 3° de kinderen te betrekken bij het opstellen of wijzigen van leefregels, het inrichten van de ruimte, het organiseren van de activiteiten, het reilen en zeilen van de opvang;<br>
-4° de beslissing over de erkenning of het attest van toezicht en, op verzoek van Kind en Gezin, de eventuele schriftelijke aanmaningen, en een beslissing tot schorsing of opheffing van de erkenning of het attest van toezicht kenbaar te maken aan het gezin, aansluitend op de ontvangst ervan;<br>
+4° de beslissing over de erkenning of het attest van toezicht en, op verzoek van het agentschap, de eventuele schriftelijke aanmaningen, en een beslissing tot schorsing of opheffing van de erkenning of het attest van toezicht kenbaar te maken aan het gezin, aansluitend op de ontvangst ervan;<br>
 5° het gezin toegang te geven tot alle ruimtes waar het kind wordt opgevangen.
 
 ## Onderafdeling 4 Huishoudelijk reglement en schriftelijke overeenkomst
@@ -231,7 +240,7 @@ De organisator zorgt voor betrokkenheid en participatie van de gezinnen door:<br
 1° informatie over:<br>
 a) de organisator van de opvanglocatie, waaronder de naam, het adres, het e-mailadres, het telefoonnummer, de rechtsvorm;<br>
 b) de opvanglocatie, waaronder de naam, het adres, het e-mailadres, het telefoonnummer, de openingsdagen, de openingsuren en de sluitingsdagen, alsook de contactgegevens van de opvanglocatie in noodgevallen;<br>
-c) Kind en Gezin, waaronder het adres, het e-mailadres en het telefoonnummer;<br>
+c) het agentschap, waaronder het adres, het e-mailadres en het telefoonnummer;<br>
 2° het beleid op het vlak van:<br>
 a) de aangeboden buitenschoolse opvang en de belangrijkste kenmerken ervan;<br>
 b) de prijs voor de buitenschoolse opvang, waaronder wat die prijs omvat, hoe die prijs bepaald wordt, of er een prijs gevraagd wordt voor het laattijdig afhalen van het kind of voor de afwezigheid van het kind of voor maaltijden;<br>
@@ -244,7 +253,7 @@ h) de veiligheid en begeleiding bij eventuele verplaatsingen;<br>
 i) de afwezigheid van een kind;<br>
 3° het recht van het gezin:<br>
 a) op toegang tot alle ruimtes waar het kind wordt opgevangen;<br>
-b) om klachten te uiten, bij voorkeur eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 50, en bij Kind en Gezin via de Klachtendienst van Kind en Gezin. Het adres, e-mailadres en het telefoonnummer van de Klachtendienst van Kind en Gezin worden daarbij vermeld;<br>
+b) om klachten te uiten, bij voorkeur eerst bij de organisator via de procedure voor klachtenbehandeling, vermeld in artikel 50, en bij het agentschap via de Klachtendienst van het agentschap. Het adres, e-mailadres en het telefoonnummer van de Klachtendienst van het agentschap worden daarbij vermeld;<br>
 c) op een fiscaal attest voor de verleende opvangprestatie;<br>
 d) op respect voor de privacy en de bescherming van natuurlijke personen bij de verwerking van hun gegevens, meer bepaald met betrekking tot de verwerking van persoonsgegevens als vermeld in verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG (algemene verordening gegevensbescherming). Daarbij zijn de volgende bepalingen opgenomen:<br>
 1) een bepaling over kennisgeving, meer bepaald dat de persoonsgegevens van de kinderen en de gezinnen alleen gebruikt worden in het kader van buitenschoolse opvang, en dat die gegevens op elk moment kunnen worden ingekeken en verbeterd door de betrokkenen, en dat die gegevens na de buitenschoolse opvang worden vernietigd;<br>
@@ -275,7 +284,13 @@ De organisator heeft, met het oog op de veiligheid van de kinderen, voor elk opg
 
 ### ART. 29.
 
-De inlichtingenfiche, vermeld in artikel 28, kan alleen, en op elk moment,   geraadpleegd worden door:<BR>1° de organisator, in geval van aantoonbare   noodzakelijkheid;<BR>2° de verantwoordelijke;<BR>3° elke kinderbegeleider, voor   elk kind dat hij begeleidt;<BR>4° de toezichthouders;<BR>5° Kind en Gezin;<BR>6°   de gezinnen, voor hun eigen kind.<BR>
+De inlichtingenfiche, vermeld in artikel 28, kan alleen, en op elk moment, geraadpleegd worden door:<br>
+1° de organisator, in geval van aantoonbare noodzakelijkheid;<br>
+2° de verantwoordelijke;<br>
+3° elke kinderbegeleider, voor elk kind dat hij begeleidt;<br>
+4° de toezichthouders;<br>
+5° het agentschap;<br>
+6° de gezinnen, voor hun eigen kind.
 
 ### ART. 30.
 
@@ -296,10 +311,10 @@ De organisator met een attest van toezicht voor vakantieopvang voldoet   alleen 
 ### ART. 32.
 
 <p>De organisator heeft:<br>
-1° een verantwoordelijke. De verantwoordelijke staat in voor het dagelijks regelen van de kwaliteitsvolle werking van de opvanglocatie. De verantwoordelijke stuurt de werking aan en treedt op als aanspreekpersoon voor de toezichthouders, Kind en Gezin en de gezinnen. De verantwoordelijke is daarvoor effectief beschikbaar;<br>
-2° een persoon werkzaam in de opvanglocatie die bij afwezigheid van de verantwoordelijke op de opvanglocatie aanspreekpersoon is voor de toezichthouders, Kind en Gezin en de gezinnen.</p>
+1° een verantwoordelijke. De verantwoordelijke staat in voor het dagelijks regelen van de kwaliteitsvolle werking van de opvanglocatie. De verantwoordelijke stuurt de werking aan en treedt op als aanspreekpersoon voor de toezichthouders, het agentschap en de gezinnen. De verantwoordelijke is daarvoor effectief beschikbaar;<br>
+2° een persoon werkzaam in de opvanglocatie die bij afwezigheid van de verantwoordelijke op de opvanglocatie aanspreekpersoon is voor de toezichthouders, het agentschap en de gezinnen.</p>
 
-<p>Als de verantwoordelijke wijzigt, deelt de organisator dat onmiddellijk elektronisch of met de post mee aan Kind en Gezin en bezorgt hij het document, vermeld in artikel 33, § 1, eerste lid, 1°.</p>
+<p>Als de verantwoordelijke wijzigt, deelt de organisator dat onmiddellijk elektronisch of met de post mee aan het agentschap en bezorgt hij het document, vermeld in artikel 33, § 1, eerste lid, 1°.</p>
 
 ### ART. 33.
 
@@ -307,14 +322,14 @@ De organisator met een attest van toezicht voor vakantieopvang voldoet   alleen 
 1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest, uitgereikt door een bevoegde buitenlandse instantie, voor wie niet in België gedomicilieerd is, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan;<br>
 2° een van de volgende attesten van medische geschiktheid, waaruit blijkt dat de persoon geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen:<br>
 a) een attest A van medische geschiktheid, opgemaakt door de verantwoordelijke, volgens het model dat door de minister wordt vastgesteld;<br>
-b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en Kind en Gezin gemotiveerd erom verzoekt;<br>
+b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
 c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, vermeld in punt a) en b), vervangen;<br>
 3° een attest van actieve kennis van het Nederlands als bedoeld in artikel 24 van het decreet van 30 april 2004, waaruit blijkt dat het behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren het ERK-niveau B2 is, en voor lezen en schrijven het ERK-niveau B1 is, dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn;<br>
 4° een attest van kennis van levensreddend handelen bij kinderen, dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn en wat de leerinhouden zijn.<br>
 <br>
 Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van het attest van toezicht of de erkenning, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere opvanglocatie van de organisator. Het document, vermeld in het eerste lid, 4°, wordt om de drie jaar hernieuwd.<br>
 <br>
-Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt door de verantwoordelijke aan de organisator.<br>
 <br>
@@ -348,13 +363,13 @@ Op een opvanglocatie voor groepsopvang met een erkenning, mag tijdens de   schoo
 1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of een gelijkwaardig attest, uitgereikt door een bevoegde buitenlandse instantie, voor wie niet in België gedomicilieerd is, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan;<br>
 2° een van de volgende attesten van medische geschiktheid, waaruit blijkt dat de persoon geen fysieke en psychische beperking of aandoening heeft die de opgevangen kinderen in gevaar kan brengen, meer bepaald:<br>
 a) een attest A van medische geschiktheid, opgemaakt door de kinderbegeleider, volgens het model dat door de minister wordt vastgesteld;<br>
-b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en Kind en Gezin gemotiveerd erom verzoekt;<br>
+b) een attest B van medische geschiktheid, opgemaakt door een huisarts, volgens het model dat door de minister wordt vastgesteld, als blijkt uit het attest, vermeld in punt a), dat de betrokkene in onderzoek of behandeling is voor een bepaalde fysieke of psychische beperking of aandoening, of als er een gegronde indicatie is en het agentschap gemotiveerd erom verzoekt;<br>
 c) een attest, opgemaakt door een arbeidsgeneesheer. Dat attest kan het attest, vermeld in punt a) en b), vervangen;<br>
 3° een attest van kennis van levensreddend handelen bij kinderen, dat door de minister wordt vastgesteld, die bepaalt wie de uitreikende instanties zijn en wat de leerinhouden zijn.<br>
 <br>
 Het document, vermeld in het eerste lid, 1° en 2°, is bij de aanvraag van het attest van toezicht of de erkenning, of bij de start van de tewerkstelling maximaal drie maanden oud. Als de kinderbegeleider stage loopt, dateert het document uit het lopende schooljaar. Het document, vermeld in het eerste lid, 3°, wordt om de drie jaar hernieuwd.<br>
 <br>
-Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgegeven wordt door de kinderbegeleider aan de organisator.<br>
 <br>
@@ -453,30 +468,30 @@ De organisator met een attest van toezicht voor vakantieopvang voldoet   alleen 
 
 ### ART. 52.
 
-<p>De organisator bezorgt de volgende gegevens aan Kind en Gezin volgens de administratieve richtlijnen van Kind en Gezin:<br>
+<p>De organisator bezorgt de volgende gegevens aan het agentschap volgens de administratieve richtlijnen van het agentschap:<br>
 1° de exacte startdatum van de opvanglocatie;<br>
-2° één keer per jaar gedurende een maand die Kind en Gezin bepaalt, de gegevens over het aantal unieke kinderen die dagelijks gebruikmaken van de buitenschoolse opvang per opvanglocatie;<br>
+2° één keer per jaar gedurende een maand die het agentschap bepaalt, de gegevens over het aantal unieke kinderen die dagelijks gebruikmaken van de buitenschoolse opvang per opvanglocatie;<br>
 3° als het aanbod in de opvanglocatie wijzigt, de wijziging in het aanbod;<br>
 4° of er buitenschoolse opvang 's nachts is, dit is tussen 20 uur en 6 uur;<br>
 5° het aantal opgevangen kinderen op basis van de unieke identificatiegegevens van het kind.</p>
 
-<p>De organisator met een attest van toezicht of van gezinsopvang met een erkenning, bezorgt bovenop de gegevens, vermeld in het eerste lid, de volgende gegevens aan Kind en Gezin volgens de administratieve richtlijnen van Kind en Gezin:<br>
+<p>De organisator met een attest van toezicht of van gezinsopvang met een erkenning, bezorgt bovenop de gegevens, vermeld in het eerste lid, de volgende gegevens aan het agentschap volgens de administratieve richtlijnen van het agentschap:<br>
 1° jaarlijks de volgende gegevens over de verantwoordelijke en de kinderbegeleider:<br>
 a) het aantal kinderbegeleiders werkzaam in de opvanglocatie, op basis van het rijksregisternummer of vreemdelingennummer van de kinderbegeleider;<br>
 b) het aantal verantwoordelijken werkzaam voor de organisator, op basis van het rijksregisternummer of vreemdelingennummer van de verantwoordelijke;<br>
 c) de geboortedatum, het geslacht, de functie, het werkregime, het sociaal statuut, de kennis van de Nederlandse taal en de kwalificaties van elke persoon, vermeld in punt a) en b);<br>
-2° de gegevens in het kader van ad-hocbevragingen door Kind en Gezin over de werking, de personen werkzaam in de opvanglocatie, het gebruik van de buitenschoolse opvang en de ontvangen subsidies.</p>
+2° de gegevens in het kader van ad-hocbevragingen door het agentschap over de werking, de personen werkzaam in de opvanglocatie, het gebruik van de buitenschoolse opvang en de ontvangen subsidies.</p>
 
-<p>De organisator van groepsopvang met een erkenning bezorgt bovenop de gegevens, vermeld in het eerste lid, de volgende gegevens aan Kind en Gezin volgens de administratieve richtlijnen van Kind en Gezin:<br>
+<p>De organisator van groepsopvang met een erkenning bezorgt bovenop de gegevens, vermeld in het eerste lid, de volgende gegevens aan het agentschap volgens de administratieve richtlijnen van het agentschap:<br>
 1° jaarlijks de volgende gegevens over alle personen werkzaam in de opvanglocatie:<br>
 a) het aantal personen werkzaam in de opvanglocatie, op basis van het rijksregisternummer of vreemdelingennummer van die personen;<br>
 b) de geboortedatum, het geslacht, de functie, het werkregime, het sociaal statuut van elke persoon, vermeld in punt a);<br>
 c) voor de kinderbegeleider en de verantwoordelijke: de kennis van de Nederlandse taal en de kwalificaties;<br>
-2° de gegevens in het kader van ad-hocbevragingen door Kind en Gezin over de werking, de personen werkzaam in de opvanglocatie, het gebruik van de buitenschoolse opvang en de ontvangen subsidies.</p>
+2° de gegevens in het kader van ad-hocbevragingen door het agentschap over de werking, de personen werkzaam in de opvanglocatie, het gebruik van de buitenschoolse opvang en de ontvangen subsidies.</p>
 
-<p>De organisator bezorgt de gegevens, vermeld in het eerste, tweede lid en derde lid, aan Kind en Gezin met het oog op beleidsdoeleinden, zoals het in kaart brengen van het gebruik van en het aanbod aan buitenschoolse opvang, en het in kaart brengen van de personen werkzaam in de buitenschoolse opvang, met het oog op de opvolging van de erkenning of het attest van toezicht of met het oog op handhaving.</p>
+<p>De organisator bezorgt de gegevens, vermeld in het eerste, tweede lid en derde lid, aan het agentschap met het oog op beleidsdoeleinden, zoals het in kaart brengen van het gebruik van en het aanbod aan buitenschoolse opvang, en het in kaart brengen van de personen werkzaam in de buitenschoolse opvang, met het oog op de opvolging van de erkenning of het attest van toezicht of met het oog op handhaving.</p>
 
-<p>De organisator bezorgt op verzoek van Kind en Gezin, in het kader van handhaving van dit besluit, de adresgegevens van de contracthouders elektronisch aan Kind en Gezin.</p>
+<p>De organisator bezorgt op verzoek van het agentschap, in het kader van handhaving van dit besluit, de adresgegevens van de contracthouders elektronisch aan het agentschap.</p>
 
 ## Onderafdeling 2 Samenwerking met het lokaal bestuur
 
@@ -492,31 +507,40 @@ De erkenning moet bovendien stroken met de beleidsdoelstellingen voor   buitensc
 
 ### ART. 55.
 
-De organisator met een attest van toezicht voor vakantieopvang voldoet   alleen aan de voorwaarden over de samenwerking met Kind en Gezin, vermeld in   artikel 52, eerste lid en tweede lid, 2°. <BR>
+De organisator met een attest van toezicht voor vakantieopvang voldoet alleen aan de voorwaarden over de samenwerking met het agentschap, vermeld in artikel 52, eerste lid en tweede lid, 2°.
 
 ### ART. 56.
 
-De organisator met een attest van toezicht voor vakantieopvang geeft op   verzoek van Kind en Gezin en volgens de administratieve richtlijnen van Kind en   Gezin minstens één keer per jaar en hoogstens na elke schoolvakantie gegevens   over de vakantieopvang door. Kind en Gezin stelt daarvoor een of meer   formulieren ter beschikking waarin de volgende gegevens worden gevraagd:<BR>1°   de gegevens over de opgevangen kinderen;<BR>2° de gegevens van de   kinderbegeleiders en de verantwoordelijke, inbegrepen de leeftijd en de   kwalificatiebewijzen;<BR>3° de gegevens over het gebruik van de   vakantieopvang.<BR>
+De organisator met een attest van toezicht voor vakantieopvang geeft op verzoek van het agentschap en volgens de administratieve richtlijnen van het agentschap minstens één keer per jaar en hoogstens na elke schoolvakantie gegevens over de vakantieopvang door. Het agentschap stelt daarvoor een of meer formulieren ter beschikking waarin de volgende gegevens worden gevraagd:<br>
+1° de gegevens over de opgevangen kinderen;<br>
+2° de gegevens van de kinderbegeleiders en de verantwoordelijke, inbegrepen de leeftijd en de kwalificatiebewijzen;<br>
+3° de gegevens over het gebruik van de vakantieopvang.
 
 ## Titel 3 Afwijkingsbepalingen
 
 ### ART. 57.
 
-Op aanvraag van een organisator kan Kind en Gezin de volgende afwijkingen   toekennen:<BR>1° een afwijking van de voorwaarden over de infrastructuur,   vermeld in artikel 9 en 10;<BR>2° een afwijking van de   brandveiligheidsvoorschriften, vermeld in artikel 12. Kind en Gezin neemt een   beslissing na advies van de technische commissie voor de brandveiligheid,   vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting   van een technische commissie voor de brandveiligheid in de voorzieningen van   Welzijn, Volksgezondheid en Gezin.<BR>
+Op aanvraag van een organisator kan het agentschap de volgende afwijkingen toekennen:<br>
+1° een afwijking van de voorwaarden over de infrastructuur, vermeld in artikel 9 en 10;<br>
+2° een afwijking van de brandveiligheidsvoorschriften, vermeld in artikel 12. Het agentschap neemt een beslissing na advies van de technische commissie voor de brandveiligheid, vermeld in het besluit van de Vlaamse Regering van 5 juni 2009 tot oprichting van een technische commissie voor de brandveiligheid in de voorzieningen van Welzijn, Volksgezondheid en Gezin.
 
 ## Titel 4 Toezicht en handhaving
 
 ### ART. 58.
 
-<P>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het   toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De   organisator verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of   stukken over de werking. <BR></P>  <P>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein.<BR></P>
+<p>Het agentschap ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De organisator verstrekt daarvoor de door het agentschap gevraagde inlichtingen of stukken over de werking.</p>
+
+<p>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.</p>
 
 ### ART. 59.
 
-Als wordt vastgesteld dat een organisator de bepalingen, vermeld in dit   besluit, niet naleeft, wordt de organisator schriftelijk aangemaand door Kind en   Gezin. Die aanmaning vermeldt een termijn waarin de organisator moet voldoen aan   de niet-nageleefde bepalingen en kan specifiek voorwaarden bevatten om te   voldoen aan de niet-nageleefde bepalingen.<BR>
+Als wordt vastgesteld dat een organisator de bepalingen, vermeld in dit besluit, niet naleeft, wordt de organisator schriftelijk aangemaand door het agentschap. Die aanmaning vermeldt een termijn waarin de organisator moet voldoen aan de niet-nageleefde bepalingen en kan specifiek voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.
 
 ### ART. 60.
 
-Kind en Gezin kan het attest van toezicht of de erkenning wijzigen,   schorsen of opheffen als de organisator:<BR>1° de bepalingen, vermeld in dit   besluit, niet naleeft;<BR>2° het toezicht verhindert.<BR>
+Het agentschap kan het attest van toezicht of de erkenning wijzigen, schorsen of opheffen als de organisator:<br>
+1° de bepalingen, vermeld in dit besluit, niet naleeft;<br>
+2° het toezicht verhindert.
 
 ## Titel 5 Slotbepalingen
 
@@ -524,7 +548,9 @@ Kind en Gezin kan het attest van toezicht of de erkenning wijzigen,   schorsen o
 
 ### ART. 61.
 
-De volgende regelingen worden opgeheven:<BR>1° het besluit van de Vlaamse   Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en   subsidiëring van initiatieven voor buitenschoolse opvang, het laatst gewijzigd   bij het besluit van de Vlaamse Regering van 21 oktober 2011;<BR>2° het besluit   van de Vlaamse Regering van 27 april 2012 houdende de voorwaarden voor een   attest van toezicht van Kind en Gezin voor vakantieopvang van kleuters en lagere   schoolkinderen.<BR>
+De volgende regelingen worden opgeheven:<br>
+1° het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van initiatieven voor buitenschoolse opvang, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 21 oktober 2011;<br>
+2° het besluit van de Vlaamse Regering van 27 april 2012 houdende de voorwaarden voor een attest van toezicht van het agentschap voor vakantieopvang van kleuters en lagere schoolkinderen.
 
 ## HOOFDSTUK 2 Overgangsbepalingen
 
@@ -532,7 +558,7 @@ De volgende regelingen worden opgeheven:<BR>1° het besluit van de Vlaamse   Reg
 
 ### ART. 62.
 
-Voor de opvanglocaties die op de datum van de inwerkingtreding van dit   besluit een erkenning, een toestemming of een attest van toezicht hebben van   Kind en Gezin voor buitenschoolse opvang, worden die erkenning en toestemming   automatisch omgezet naar een erkenning, toegekend aan de organisator en wordt   het attest van toezicht automatisch omgezet in een attest van toezicht,   toegekend aan de organisator, voor een bepaalde opvanglocatie. De omzetting   heeft betrekking op hetzelfde aantal opvangplaatsen.<BR>
+Voor de opvanglocaties die op de datum van de inwerkingtreding van dit besluit een erkenning, een toestemming of een attest van toezicht hebben van het agentschap voor buitenschoolse opvang, worden die erkenning en toestemming automatisch omgezet naar een erkenning, toegekend aan de organisator en wordt het attest van toezicht automatisch omgezet in een attest van toezicht, toegekend aan de organisator, voor een bepaalde opvanglocatie. De omzetting heeft betrekking op hetzelfde aantal opvangplaatsen.
 
 ### ART. 63.
 
