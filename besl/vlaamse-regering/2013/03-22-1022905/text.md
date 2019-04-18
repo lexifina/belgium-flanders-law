@@ -9,7 +9,8 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° decreet van 20 januari 2012 : het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 decreet van 20 januari 2012 : het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
 2° kanaal : de adoptiesamenwerking in het herkomstland, dit omvat zowel de natuurlijke en rechtspersonen waarmee samengewerkt wordt als de procedure volgens dewelke gewerkt zal worden;<br>
 3° kandidaat-adoptant : de persoon die of het koppel dat een kind wil adopteren;<br>
 4° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
@@ -151,7 +152,7 @@ De zelfstandige adoptant bezorgt de Vlaamse adoptieambtenaar, binnen vier   maan
 
 ### ART. 30.
 
-Kind en Gezin erkent&nbsp;maximaal drie&nbsp;adoptiediensten, overeenkomstig artikel 16 van het decreet van 20 januari 2012, voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 8.
+Het agentschap erkent&nbsp;maximaal drie&nbsp;adoptiediensten, overeenkomstig artikel 16 van het decreet van 20 januari 2012, voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 8.
 
 ### ART. 31.
 
@@ -183,9 +184,9 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen   voldoen
 
 ### ART. 37.
 
-<p>§ 1. Binnen de marge van de begrotingskredieten bepaalt Kind en Gezin de verdeling van de beschikbare middelen over de krachtens dit besluit erkende adoptiediensten.</p>
+<p>§ 1. Binnen de marge van de begrotingskredieten bepaalt het agentschap de verdeling van de beschikbare middelen over de krachtens dit besluit erkende adoptiediensten.</p>
 
-<p>Kind en Gezin houdt daarbij rekening met de bepalingen van artikel 75.</p>
+<p>Het agentschap houdt daarbij rekening met de bepalingen van artikel 75.</p>
 
 <p>§ 2. De erkende adoptiediensten ontvangen binnen het beschikbare begrotingskrediet jaarlijks een basissubsidie voor personeels- en werkingskosten van 308.035,66&nbsp;euro.<br>
 <br>
@@ -194,15 +195,22 @@ De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, verm
 2° 6000 euro per herkomstland waarin een kanaal geopend is als vermeld in artikel 11 en waarmee een lopende samenwerking bestaat. Er is een lopende samenwerking als de adoptiedienst in de afgelopen drie jaar een kind heeft geplaatst bij kandidaat-adoptanten;<br>
 3° het subsidiebedrag, vermeld in punt 1°, vervalt als het voorlopig goedgekeurde kanaal geopend wordt als vermeld in artikel 11..</p>
 
-<p>§ 3. De adoptiedienst die een subsidie bekomt, behoudt zijn recht op subsidie zolang hij erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 39 tot en met 45.</p>
+<p>§ 3. De adoptiedienst die een subsidie bekomt, behoudt zijn recht op subsidie zolang hij erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 39 tot en met 45.</p>
 
 ### ART. 38.
 
-De verdeling van bijkomende middelen gebeurt door Kind en Gezin op basis   van volgende parameters : <BR>1° elke erkende adoptiedienst ontvangt de   bedragen, als vermeld in artikel 37, § 1, tweede lid;<BR>2° als aan punt 1°   voldaan wordt, ontvangt elke erkende adoptiedienst die nog geen subsidie   ontvangen heeft, een basissubsidie, als vermeld in artikel 37, § 1, eerste   lid;<BR>3° als er onvoldoende middelen zijn om aan elke erkende adoptiedienst,   de bedragen als vermeld in punt 1° of 2° toe te kennen, worden de bijkomende   middelen gelijk verdeeld over de erkende adoptiediensten zonder   subsidie.<BR>
+De verdeling van bijkomende middelen gebeurt door het agentschap op basis van volgende parameters :<br>
+1° elke erkende adoptiedienst ontvangt de bedragen, als vermeld in artikel 37, § 1, tweede lid;<br>
+2° als aan punt 1° voldaan wordt, ontvangt elke erkende adoptiedienst die nog geen subsidie ontvangen heeft, een basissubsidie, als vermeld in artikel 37, § 1, eerste lid;<br>
+3° als er onvoldoende middelen zijn om aan elke erkende adoptiedienst, de bedragen als vermeld in punt 1° of 2° toe te kennen, worden de bijkomende middelen gelijk verdeeld over de erkende adoptiediensten zonder subsidie.
 
 ### ART. 39.
 
-<P>§ 1. Per kwartaal en uiterlijk op het einde van de eerste maand van het   kwartaal in kwestie keert Kind en Gezin aan de adoptiedienst een voorschot uit.   Het bedrag van dat voorschot bedraagt een vierde van 90 % van de   jaarsubsidie.<BR></P>  <P>Het saldo van 10 % van de jaarsubsidie en de bijkomende bedragen, vermeld in   artikel 37, § 1, tweede lid, worden uitbetaald in de loop van het daaropvolgende   jaar.<BR></P>  <P>§ 2. Als de adoptiedienst ertoe aangemaand wordt om de tekorten weg te werken   als vermeld in artikel 59 en 60, kan de uitbetaling van de subsidie geheel of   gedeeltelijk opgeschort worden.<BR></P>
+<p>§ 1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert het agentschap aan de adoptiedienst een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90 % van de jaarsubsidie.</p>
+
+<p>Het saldo van 10 % van de jaarsubsidie en de bijkomende bedragen, vermeld in artikel 37, § 1, tweede lid, worden uitbetaald in de loop van het daaropvolgende jaar.</p>
+
+<p>§ 2. Als de adoptiedienst ertoe aangemaand wordt om de tekorten weg te werken als vermeld in artikel 59 en 60, kan de uitbetaling van de subsidie geheel of gedeeltelijk opgeschort worden.</p>
 
 ## Onderafdeling 2 Subsidievoorschriften
 
@@ -234,7 +242,11 @@ Onder personeelskosten worden verstaan :<br>
 
 ### ART. 44.
 
-<P>Als de reële personeelsuitgaven en werkingskosten van de adoptiedienst in een   boekjaar minder bedragen dan de som van de subsidie die krachtens dit besluit   toegekend is en de bijdragen van de adoptanten dan worden met dat overschot   reserves opgebouwd. Die reserves mogen alleen aangewend worden voor dezelfde   doeleinden en onder dezelfde voorwaarden als de subsidie.<BR></P>  <P>Als de gecumuleerde reserves 50 % van de jaarsubsidie van de adoptiedienst   overschrijden, wordt het bedrag in meer aan Kind en Gezin teruggestort.   Jaarlijks kan er maximaal 20 % van de jaarsubsidie als reserve worden opgebouwd.   Als de opgebouwde reserves dat percentage overschrijden, wordt het bedrag in   meer teruggestort aan Kind en Gezin.<BR></P>  <P>Als de adoptiedienst zijn werking vrijwillig stopzet of zijn erkenning   verliest, worden de reserves die overblijven na aftrek van ontslagpremies en van   kosten, goedgekeurd door Kind en Gezin en de Inspectie van Financiën, integraal   teruggestort.<BR></P>
+<p>Als de reële personeelsuitgaven en werkingskosten van de adoptiedienst in een boekjaar minder bedragen dan de som van de subsidie die krachtens dit besluit toegekend is en de bijdragen van de adoptanten dan worden met dat overschot reserves opgebouwd. Die reserves mogen alleen aangewend worden voor dezelfde doeleinden en onder dezelfde voorwaarden als de subsidie.</p>
+
+<p>Als de gecumuleerde reserves 50 % van de jaarsubsidie van de adoptiedienst overschrijden, wordt het bedrag in meer aan het agentschap teruggestort. Jaarlijks kan er maximaal 20 % van de jaarsubsidie als reserve worden opgebouwd. Als de opgebouwde reserves dat percentage overschrijden, wordt het bedrag in meer teruggestort aan het agentschap.</p>
+
+<p>Als de adoptiedienst zijn werking vrijwillig stopzet of zijn erkenning verliest, worden de reserves die overblijven na aftrek van ontslagpremies en van kosten, goedgekeurd door het agentschap en de Inspectie van Financiën, integraal teruggestort.</p>
 
 ### ART. 45.
 
@@ -244,7 +256,12 @@ Het is de adoptiedienst niet toegestaan om te beleggen in effecten,   fondsen of
 
 ### ART. 46.
 
-<P>Kind en Gezin erkent trefgroepen voor een hernieuwbare periode van vijf jaar,   volgens de procedures, vermeld in hoofdstuk 8.<BR></P>  <P>Om erkend te worden voldoet de trefgroep aan de voorwaarden, vermeld in   artikel 22 van het decreet van 20 januari 2012 en aan de volgende voorwaarden   :<BR>1° ondersteuning en belangenbehartiging van adoptanten of geadopteerden als   voornaamste activiteit hebben en op dat vlak een regelmatige werking   aantonen;<BR>2° een ledenbestand van minimaal dertig adoptanten of geadopteerden   hebben;<BR>3° openstaan voor alle adoptanten of   geadopteerden.<BR></P>
+<p>Het agentschap erkent trefgroepen voor een hernieuwbare periode van vijf jaar, volgens de procedures, vermeld in hoofdstuk 8.</p>
+
+<p>Om erkend te worden voldoet de trefgroep aan de voorwaarden, vermeld in artikel 22 van het decreet van 20 januari 2012 en aan de volgende voorwaarden :<br>
+1° ondersteuning en belangenbehartiging van adoptanten of geadopteerden als voornaamste activiteit hebben en op dat vlak een regelmatige werking aantonen;<br>
+2° een ledenbestand van minimaal dertig adoptanten of geadopteerden hebben;<br>
+3° openstaan voor alle adoptanten of geadopteerden.</p>
 
 ### ART. 47.
 
@@ -254,7 +271,9 @@ Om erkend te blijven of opnieuw erkend te worden, moet de trefgroep   :<BR>1° v
 
 ### ART. 48.
 
-<P>Kind en Gezin ziet toe op de naleving van de bepalingen in dit besluit en   controleert de correcte besteding van de toegekende subsidies, zowel op stukken   als ter plaatse.<BR></P>  <P>De adoptiediensten en de trefgroepen verlenen hun medewerking aan de   uitoefening van het toezicht.<BR></P>
+<p>Het agentschap ziet toe op de naleving van de bepalingen in dit besluit en controleert de correcte besteding van de toegekende subsidies, zowel op stukken als ter plaatse.</p>
+
+<p>De adoptiediensten en de trefgroepen verlenen hun medewerking aan de uitoefening van het toezicht.</p>
 
 ### ART. 49.
 
@@ -262,7 +281,18 @@ Om erkend te blijven of opnieuw erkend te worden, moet de trefgroep   :<BR>1° v
 
 ### ART. 50.
 
-<P>§ 1. De controle op stukken wordt jaarlijks uitgevoerd door Kind en   Gezin.<BR></P>  <P>§ 2. Voor de controle op stukken bezorgt de adoptiedienst jaarlijks :<BR>1°   uiterlijk op 30 juni een financieel verslag aan Kind en Gezin. Dat verslag wordt   opgesteld volgens de richtlijnen van Kind en Gezin. Het bevat :<BR>a) een   resultatenrekening van het voorbije boekjaar;<BR>b) een balans van het voorbije   boekjaar;<BR>c) een begroting voor het lopende boekjaar;<BR>2° het jaarverslag,   vermeld in artikel 35.<BR></P>  <P>De adoptiedienst legt, op verzoek van Kind en Gezin, alle relevante   verantwoordingsstukken, voor de ontvangen subsidie, voor.<BR></P>  <P>§ 3. Voor de controle op stukken bezorgt de trefgroep jaarlijks het   jaarverslag, vermeld in artikel 47.<BR></P>
+<p>§ 1. De controle op stukken wordt jaarlijks uitgevoerd door het agentschap.</p>
+
+<p>§ 2. Voor de controle op stukken bezorgt de adoptiedienst jaarlijks :<br>
+1° uiterlijk op 30 juni een financieel verslag aan het agentschap. Dat verslag wordt opgesteld volgens de richtlijnen van het agentschap. Het bevat :<br>
+a) een resultatenrekening van het voorbije boekjaar;<br>
+b) een balans van het voorbije boekjaar;<br>
+c) een begroting voor het lopende boekjaar;<br>
+2° het jaarverslag, vermeld in artikel 35.</p>
+
+<p>De adoptiedienst legt, op verzoek van het agentschap, alle relevante verantwoordingsstukken, voor de ontvangen subsidie, voor.</p>
+
+<p>§ 3. Voor de controle op stukken bezorgt de trefgroep jaarlijks het jaarverslag, vermeld in artikel 47.</p>
 
 ### ART. 51.
 
@@ -274,33 +304,37 @@ Alle bewijsstukken, waaronder de bewijsstukken die de uitgaven staven   waarvoor
 
 ### ART. 52.
 
-<p>§ 1. Een voorziening kan op elk moment een aanvraag tot erkenning als adoptiedienst of als trefgroep indienen bij Kind en Gezin. Die aanvraag moet met een aangetekende brief of tegen ontvangstbevestiging ingediend worden bij Kind en Gezin.<br>
+<p>§ 1. Een voorziening kan op elk moment een aanvraag tot erkenning als adoptiedienst of als trefgroep indienen bij het agentschap. Die aanvraag moet met een aangetekende brief of tegen ontvangstbevestiging ingediend worden bij het agentschap.<br>
 <br>
-De aanvraag tot erkenning als adoptiedienst, opgesteld volgens de sjabloon die Kind en Gezin heeft opgesteld, bevat minstens :<br>
+De aanvraag tot erkenning als adoptiedienst, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
 1° de contactgegevens, identiteit en statuten van de aanvrager;<br>
 2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden voldaan is;<br>
 3° de motivering van de aanvraag;<br>
 4° een beleidsplan met strategische en operationele doelstellingen voor de duur van de erkenning;<br>
 5° een verbintenis waarin de voorziening verklaart dat ze binnen een termijn van één jaar aan de erkenningsvoorschriften van dit besluit zal voldoen.</p>
 
-<p>§ 2. Een aanvraag tot erkenning als trefgroep, opgesteld volgens de sjabloon die Kind en Gezin heeft opgesteld, bevat minstens :<br>
+<p>§ 2. Een aanvraag tot erkenning als trefgroep, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
 1° de contactgegevens, identiteit en statuten van de aanvrager;<br>
 2° de motivering van de aanvraag;<br>
 3° alle stukken waaruit blijkt dat aan de erkenningsvoorwaarden is voldaan.</p>
 
 ### ART. 53.
 
-<P>Kind en Gezin onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig   kalenderdagen na de ontvangst van de aanvraag brengt Kind en Gezin de aanvrager   met een aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet   ontvankelijk is.<BR></P>  <P>Kind en Gezin behandelt de ontvankelijke aanvraag binnen een termijn van drie   maanden na de ontvangst ervan. De postdatum geldt daarbij als   bewijs.<BR></P>
+<p>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig kalenderdagen na de ontvangst van de aanvraag brengt het agentschap de aanvrager met een aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet ontvankelijk is.</p>
+
+<p>Het agentschap behandelt de ontvankelijke aanvraag binnen een termijn van drie maanden na de ontvangst ervan. De postdatum geldt daarbij als bewijs.</p>
 
 ### ART. 54.
 
-<P>Kind en Gezin kan aanvullende informatie vragen aan de aanvrager van een   ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn   geschorst.<BR></P>  <P>De aanvrager bezorgt de gevraagde aanvullende informatie aan Kind en Gezin   binnen vijftien kalenderdagen. Zo niet neemt Kind en Gezin een beslissing zonder   aanvullende informatie.<BR></P>
+<p>Het agentschap kan aanvullende informatie vragen aan de aanvrager van een ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>De aanvrager bezorgt de gevraagde aanvullende informatie aan het agentschap binnen vijftien kalenderdagen. Zo niet neemt het agentschap een beslissing zonder aanvullende informatie.</p>
 
 ### ART. 55.
 
-<p>Kind en Gezin neemt op basis van de programmatie, vermeld in artikel 30 en de gegevens, vermeld in artikel 52, een gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering van de erkenning.</p>
+<p>Het agentschap neemt op basis van de programmatie, vermeld in artikel 30 en de gegevens, vermeld in artikel 52, een gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering van de erkenning.</p>
 
-<p>Kind en Gezin brengt de aanvrager met een aangetekende brief op de hoogte van de voorgenomen beslissing. Die kennisgeving vermeldt minstens :<br>
+<p>Het agentschap brengt de aanvrager met een aangetekende brief op de hoogte van de voorgenomen beslissing. Die kennisgeving vermeldt minstens :<br>
 1° de identiteit en contactgegevens van de aanvrager;<br>
 2° de voorgenomen beslissing;<br>
 3° de motivering van de voorgenomen beslissing;<br>
@@ -314,7 +348,17 @@ Als geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in   artikel 
 
 ### ART. 57.
 
-<P>§ 1. De aanvraag tot hernieuwing van de erkenning wordt uiterlijk zes maanden   voor het verstrijken van de erkenning ingediend bij Kind en Gezin met een   aangetekende brief of tegen ontvangstbevestiging.<BR></P>  <P>§ 2. De aanvraag tot hernieuwing van de erkenning als adoptiedienst,   opgesteld volgens de sjabloon die Kind en Gezin heeft opgesteld, bevat minstens   :<BR>1° de contactgegevens, de identiteit en de statuten van de aanvrager;<BR>2°   een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en   -voorschriften van dit besluit voldaan is;<BR>3° een evaluatie van het   beleidsplan, vermeld in artikel 52, § 1, tweede lid, 4° ;<BR>4° een beleidsplan   met strategische en operationele doelstellingen voor de nieuwe   erkenningsperiode.<BR></P>  <P>De aanvraag tot hernieuwing van de erkenning als trefgroep, opgesteld volgens   de sjabloon die Kind en Gezin heeft opgesteld, bevat minstens :<BR>1° de   contactgegevens, de identiteit en de statuten van de aanvrager;<BR>2° een   staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en   -voorschriften van dit besluit voldaan is.<BR></P>
+<p>§ 1. De aanvraag tot hernieuwing van de erkenning wordt uiterlijk zes maanden voor het verstrijken van de erkenning ingediend bij het agentschap met een aangetekende brief of tegen ontvangstbevestiging.</p>
+
+<p>§ 2. De aanvraag tot hernieuwing van de erkenning als adoptiedienst, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
+1° de contactgegevens, de identiteit en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en -voorschriften van dit besluit voldaan is;<br>
+3° een evaluatie van het beleidsplan, vermeld in artikel 52, § 1, tweede lid, 4° ;<br>
+4° een beleidsplan met strategische en operationele doelstellingen voor de nieuwe erkenningsperiode.</p>
+
+<p>De aanvraag tot hernieuwing van de erkenning als trefgroep, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
+1° de contactgegevens, de identiteit en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en -voorschriften van dit besluit voldaan is.</p>
 
 ### ART. 58.
 
@@ -324,7 +368,9 @@ De procedure verloopt verder volgens de bepalingen, vermeld in artikel 53   tot 
 
 ### ART. 59.
 
-<P>Kind en Gezin moet voor het nemen van een voorgenomen beslissing tot   intrekking of schorsing van de erkenning een aanmaning sturen. Tenzij zich een   situatie voordoet die wanneer ze blijft duren, essentiële belangen van de   betrokkenen inzake gezondheid, veiligheid of welzijn zouden kunnen aantasten. In   dat geval kan onmiddellijk tot intrekking of schorsing van de erkenning worden   overgegaan.<BR></P>  <P>De aanmaning wordt verstuurd met een aangetekende zending of bij   deurwaardersexploot.<BR></P>
+<p>Het agentschap moet voor het nemen van een voorgenomen beslissing tot intrekking of schorsing van de erkenning een aanmaning sturen. Tenzij zich een situatie voordoet die wanneer ze blijft duren, essentiële belangen van de betrokkenen inzake gezondheid, veiligheid of welzijn zouden kunnen aantasten. In dat geval kan onmiddellijk tot intrekking of schorsing van de erkenning worden overgegaan.</p>
+
+<p>De aanmaning wordt verstuurd met een aangetekende zending of bij deurwaardersexploot.</p>
 
 ### ART. 60.
 
@@ -332,7 +378,9 @@ De aanmaning, vermeld in artikel 59, vermeldt :<BR>1° de identiteit en de   con
 
 ### ART. 61.
 
-<P>Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt   Kind en Gezin een voorgenomen beslissing tot intrekking of schorsing van de   erkenning.<BR></P>  <P>Kind en Gezin betekent de voorgenomen beslissing met een aangetekende zending   of bij deurwaardersexploot binnen drie maanden na afloop van de opgegeven   termijn in de aanmaning.<BR></P>
+<p>Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt het agentschap een voorgenomen beslissing tot intrekking of schorsing van de erkenning.</p>
+
+<p>Het agentschap betekent de voorgenomen beslissing met een aangetekende zending of bij deurwaardersexploot binnen drie maanden na afloop van de opgegeven termijn in de aanmaning.</p>
 
 ### ART. 62.
 
@@ -346,14 +394,16 @@ Als geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in   artikel 
 
 ### ART. 64.
 
-Er kan bij Kind en Gezin bezwaar aangetekend worden tegen de voorgenomen beslissing tot :<br>
+Er kan bij het agentschap bezwaar aangetekend worden tegen de voorgenomen beslissing tot :<br>
 1° weigering van de erkenningsaanvraag;<br>
 2° intrekking of schorsing van de erkenning;<br>
 3° weigering van de hernieuwing van de erkenning.
 
 ### ART. 65.
 
-<P>Het gemotiveerde bezwaarschrift moet, op straffe van niet-ontvankelijkheid,   ingediend worden uiterlijk dertig kalenderdagen, vanaf de datum van de   betekening van een voorgenomen beslissing als vermeld in artikel 64. De   postdatum geldt daarbij als bewijs.<BR></P>  <P>Het bezwaarschrift moet met een aangetekende brief of door afgifte van een   brief tegen ontvangstmelding aan Kind en Gezin worden   bezorgd.<BR></P>
+<p>Het gemotiveerde bezwaarschrift moet, op straffe van niet-ontvankelijkheid, ingediend worden uiterlijk dertig kalenderdagen, vanaf de datum van de betekening van een voorgenomen beslissing als vermeld in artikel 64. De postdatum geldt daarbij als bewijs.</p>
+
+<p>Het bezwaarschrift moet met een aangetekende brief of door afgifte van een brief tegen ontvangstmelding aan het agentschap worden bezorgd.</p>
 
 ### ART. 66.
 
@@ -361,7 +411,7 @@ Het bezwaarschrift bevat op straffe van niet-ontvankelijkheid de volgende   elem
 
 ### ART. 67.
 
-Kind en Gezin onderzoekt de ontvankelijkheid van het bezwaarschrift.   Binnen vijftien kalenderdagen na de ontvangst brengt Kind en Gezin de indiener   met een aangetekende brief ervan op de hoogte of zijn bezwaarschrift al of niet   ontvankelijk is.<BR>
+Het agentschap onderzoekt de ontvankelijkheid van het bezwaarschrift. Binnen vijftien kalenderdagen na de ontvangst brengt het agentschap de indiener met een aangetekende brief ervan op de hoogte of zijn bezwaarschrift al of niet ontvankelijk is.
 
 ### ART. 68.
 
@@ -412,7 +462,11 @@ Het besluit van de Vlaamse Regering van 6 juli 2007 betreffende de   trefgroepen
 
 ### ART. 75.
 
-<P>§ 1. De erkenning van de adoptiediensten, die bij de inwerkingtreding van dit   besluit erkend zijn, loopt af op 30 juni 2013. De diensten ontvangen voor de   periode van 1 januari 2013 tot en met 30 juni 2013 een subsidie-enveloppe voor   personeels- en werkingskosten van 50.000 euro.<BR></P>  <P>Een aanvraag tot erkenning, als vermeld in artikel 52, § 1, die begint te   lopen op 1 juli 2013 wordt uiterlijk op 30 april 2013 bezorgd aan Kind en Gezin   met een aangetekende brief of tegen ontvangstmelding. Kind en Gezin onderzoekt   de aanvragen volgens de procedure, vermeld in artikel 53 tot en met 56, tegen   ten laatste 30 juni 2013.<BR></P>  <P>§ 2. De adoptiediensten die bij de inwerkingtreding van dit besluit erkend   zijn en een nieuwe erkenning verkrijgen krachtens dit besluit, behouden hun   recht op subsidie. Zij ontvangen voor de periode van 1 juli 2013 tot 31 december   2013 een subsidie-enveloppe voor personeels- en werkingskosten van 50.000 euro.   Dit bedrag wordt vermeerderd met de bedragen, vermeld in artikel 37, § 2, tweede   lid, die zullen worden uitbetaald bij de afrekening van het saldo, als vermeld   in artikel 38, § 1.<BR></P>
+<p>§ 1. De erkenning van de adoptiediensten, die bij de inwerkingtreding van dit besluit erkend zijn, loopt af op 30 juni 2013. De diensten ontvangen voor de periode van 1 januari 2013 tot en met 30 juni 2013 een subsidie-enveloppe voor personeels- en werkingskosten van 50.000 euro.</p>
+
+<p>Een aanvraag tot erkenning, als vermeld in artikel 52, § 1, die begint te lopen op 1 juli 2013 wordt uiterlijk op 30 april 2013 bezorgd aan het agentschap met een aangetekende brief of tegen ontvangstmelding. Het agentschap onderzoekt de aanvragen volgens de procedure, vermeld in artikel 53 tot en met 56, tegen ten laatste 30 juni 2013.</p>
+
+<p>§ 2. De adoptiediensten die bij de inwerkingtreding van dit besluit erkend zijn en een nieuwe erkenning verkrijgen krachtens dit besluit, behouden hun recht op subsidie. Zij ontvangen voor de periode van 1 juli 2013 tot 31 december 2013 een subsidie-enveloppe voor personeels- en werkingskosten van 50.000 euro. Dit bedrag wordt vermeerderd met de bedragen, vermeld in artikel 37, § 2, tweede lid, die zullen worden uitbetaald bij de afrekening van het saldo, als vermeld in artikel 38, § 1.</p>
 
 ### ART. 76.
 
