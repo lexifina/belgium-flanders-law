@@ -1,0 +1,251 @@
+# Decreet van 2019-03-01 tot ontbinding van het Fonds Jongerenwelzijn en tot wijziging van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin en het decreet van 12 juli 2013 betreffende de integrale jeugdhulp
+
+## HOOFDSTUK 1. Algemene bepaling
+
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
+## HOOFDSTUK 2. Ontbinding van het Fonds Jongerenwelzijn
+
+### ART 2.
+
+Het Fonds Jongerenwelzijn, vermeld in artikel 54 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, wordt ontbonden.
+
+### ART 3.
+
+De ontbinding van het Fonds Jongerenwelzijn is een ontbinding zonder vereffening waarbij het hele vermogen van het Fonds Jongerenwelzijn, alsook het geheel van zijn taken, activiteiten, rechten en verplichtingen, wordt overgedragen aan het agentschap Opgroeien regie, waaronder de op die datum uitstaande verbintenissen ten laste van het programma GE, begrotingsartikels GB0-1GED2MX-IS en GB0-1GED5MX-IS van de algemene uitgavenbegroting van de Vlaamse Gemeenschap. Dat gebeurt onder de nadere voorwaarden en volgens de procedure die de Vlaamse Regering bepaalt. Daarbij wordt de continuīteit gewaarborgd.
+
+### ART 4.
+
+De overdrachten, vermeld in artikel 3, vinden plaats op de datum die de Vlaamse Regering vaststelt.<br>
+<br>
+De Vlaamse Regering bepaalt op welke wijze die overdrachten tegenstelbaar worden aan derden.
+
+## HOOFDSTUK 3. Wijzigingen van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin
+
+### ART 5.
+
+In het opschrift van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin worden de woorden "Kind en Gezin" vervangen door de woorden "Opgroeien regie".
+
+### ART 6.
+
+In artikel 2 van hetzelfde decreet, gewijzigd bij de decreten van 20 april 2012, 29 november 2013 en 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 5° wordt de zinsnede "elke organisatievorm die de ondersteuning organiseert en/of verleent" vervangen door de zinsnede "elke organisatievorm die dienstverlening, hulpverlening of ondersteuning organiseert of verleent aan kinderen, jongeren en gezinnen";<br>
+<br>
+2° punt 6° wordt vervangen door wat volgt:<br>
+"6° gezinsbeleid: het gezinsbeleid als vermeld in artikel 3, § 1, 18°, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid";<br>
+<br>
+3° er worden een punt 8° tot en met 11° toegevoegd, die luiden als volgt:<br>
+"8° jeugd- en gezinsbeleid: het jeugdbeleid, vermeld in artikel 5, § 1, II, 6°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, en het gezinsbeleid, vermeld in punt 6° ;<br>
+9° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+10° het agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, vermeld in artikel 1, 1°, van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+11° jongere: een persoon tot en met de leeftijd van vijfentwintig jaar.".
+
+### ART 7.
+
+In artikel 3, tweede lid, van hetzelfde decreet worden de woorden "Kind en Gezin" vervangen door de woorden "Opgroeien regie".
+
+### ART 8.
+
+Artikel 4 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+<br>
+"Art. 4. § 1. Het agentschap heeft als missie om, samen met zijn partners, door een geīntegreerd jeugd- en gezinsbeleid, voor alle kinderen en jongeren, waar en hoe ze ook geboren zijn of opgroeien, zoveel mogelijk kansen te creëren en om een continuüm aan zorg, hulp en ondersteuning aan te bieden.<br>
+<br>
+§ 2. Het agentschap oefent zijn taken uit voor de volgende personen:<br>
+1° kinderen en jongeren, aanstaande ouders en gezinnen;<br>
+2° adoptiekinderen, afstandsouders en de personen en gezinnen die een kind willen adopteren;<br>
+3° de personen en gezinnen die een pleegkind of pleeggast in hun gezin willen opnemen;<br>
+4° de personen tot de leeftijd van vijfentwintig jaar voor wie de maatschappelijke integratie en participatie in het gedrang is gekomen of dreigt te komen door een problematische leefsituatie of door andere maatschappelijk niet aanvaardbare situaties;<br>
+5° de pleeggasten en pleegkinderen, vermeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+6° personen die onderworpen zijn aan de maatregelen en de sancties, respectievelijk vermeld in artikel 20, § 2, eerste lid, en artikel 29, § 2, eerste lid, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+7° de personen tot en met eenentwintig jaar, met een mogelijkheid tot verlenging tot en met vijfentwintig jaar, met een handicap of met een vermoeden van handicap;<br>
+8° de ouders, de opvoedingsverantwoordelijken en de natuurlijke personen die inwonen bij de personen, vermeld in punt 4°, 5°, 6° en 7°, of met die personen een affectieve band hebben, of in de buurt wonen of die geregeld contact hebben met hen, onder meer bij het schoolgaan, in de werksituatie of tijdens de vrijetijdsbesteding.<br>
+<br>
+§ 3. Bij het uitvoeren van zijn missie stelt het agentschap de volgende uitgangspunten centraal:<br>
+1° respect voor de rechten van het kind en de jongere en zijn gezin of opvoedingsverantwoordelijken;<br>
+2° respect voor diversiteit;<br>
+3° de optimale ontwikkeling van het kind en de jongere;<br>
+4° de verantwoordelijkheid en de mogelijkheden van de jongere en zijn ouders of opvoedingsverantwoordelijken;<br>
+5° het behoud of het herstel van de maatschappelijke integratie van het kind, de jongere en zijn gezin of opvoedingsverantwoordelijken, en hun participatie aan de samenleving.<br>
+<br>
+Het agentschap eerbiedigt bij zijn optreden de ideologische, filosofische en godsdienstige overtuiging van de personen tot wie het zich richt.<br>
+<br>
+Het agentschap geeft mee uitvoering aan het VN-verdrag inzake de rechten van personen met een handicap, aangenomen in New York op 13 december 2006, en respecteert op elk moment de rechten van personen met een handicap die daarin geconcretiseerd zijn.".
+
+### ART 9.
+
+Artikel 5 van hetzelfde decreet, gewijzigd bij het decreet van 7 juli 2017, wordt vervangen door wat volgt:<br>
+<br>
+"Art. 5. § 1. De kerntaken van het agentschap zijn:<br>
+1° de regie en strategie voor de domeinen:<br>
+a) de kinderopvang;<br>
+b) de preventieve gezinsondersteuning;<br>
+c) de toelagen in het kader van het gezinsbeleid;<br>
+d) de binnenlandse en interlandelijke adoptie;<br>
+e) de pleegzorg;<br>
+f) de integrale jeugdhulp;<br>
+g) de jeugddelinquentie;<br>
+h) het aanbod voor ondersteuning van jongeren met een handicap of een vermoeden van handicap in de typemodule diagnostiek of de typemodule GES+ in de multifunctionele centra, vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap, en het aanbod georganiseerd door de centra voor ontwikkelingsstoornissen, vermeld in hoofdstuk 2 van het besluit van de Vlaamse Regering van 16 juni 1998 tot regeling van de erkenning en de subsidiëring van de centra voor ontwikkelingsstoornissen;<br>
+2° de financiering van de personen, vermeld in artikel 4, § 2, beheren en de voorzieningen subsidiëren, met uitzondering van de financiering van de persoonsvolgende financiering voor personen met een handicap, vermeld in artikel 3 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
+<br>
+Het beheren van de financiering van de personen en de subsidiëring aan de voorzieningen, vermeld in paragraaf 1, 2°, omvat de volgende taken:<br>
+1° de financiële lasten van de zorgtaken voor de groep, vermeld in artikel 4, § 2, op zich nemen;<br>
+2° de gezinsbijslagen en toelagen met betrekking tot het gezinsbeleid ontvangen en de bijdragen van personen ten aanzien van wie hulp wordt georganiseerd, innen;<br>
+3° de financiële lasten ten gevolge van de toepassing van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht en het decreet van 29 juni 2012 houdende de organisatie van pleegzorg opnemen. In die financiële lasten zijn de wedden, de voorschotten daarop en de vergoedingen of uitkeringen die een toebehoren van de wedden vormen of ermee gelijkstaan, van het personeel van de diensten van de Vlaamse Regering niet inbegrepen.<br>
+<br>
+§ 2. Naast de kerntaken, vermeld in paragraaf 1, voert het agentschap ook de volgende taken uit voor de in paragraaf 1, 1°, a) tot en met h), vermelde domeinen:<br>
+1° het voeren van een geīntegreerd jeugd- en gezinsbeleid, dat de volgende taken omvat:<br>
+a) beleid voorbereiden en ontwikkelen;<br>
+b) beleid implementeren, coördineren en integreren;<br>
+c) het beleid monitoren, evalueren en uitvoeren via eigen personeel en via samenwerkingsverbanden met partners;<br>
+d) wetenschappelijk onderzoek voeren en ondersteunen;<br>
+e) een programmatie op basis van wetenschappelijk verantwoorde criteria opstellen;<br>
+f) informatie- en communicatiesystemen opzetten;<br>
+g) de dienstverlening maximaal integreren;<br>
+h) de erkennings-, vergunnings- en subsidiëringsprocessen maximaal afstemmen;<br>
+i) de sectorale regelgeving evalueren;<br>
+j) een kwaliteitsbeleid ontwikkelen en opvolgen;<br>
+k) rechtsgedingen voeren voor het agentschap Opgroeien, als eiser, verweerder of tussenkomende partij, voor de hoven en rechtbanken, de administratieve rechtscolleges en het Rekenhof, met uitzondering van de rechtsgedingen voor het Grondwettelijk Hof en de internationale hoven;<br>
+2° het voeren van een geīntegreerd voorzieningenbeleid, dat de volgende taken omvat:<br>
+a) voorzieningen, diensten, samenwerkingsverbanden en organisatoren stimuleren, toelaten, programmeren, erkennen, vergunnen, toekennen van een kwaliteitslabel, subsidiëren en handhaven en projecten subsidiëren;<br>
+b) de kwaliteit van de erkende en vergunde voorzieningen, diensten, samenwerkingsverbanden en organisatoren opvolgen en bevorderen.".
+
+### ART 10.
+
+In artikel 6, § 1, van hetzelfde decreet, vervangen bij het decreet van 20 april 2012, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° de woorden "de regie van" worden opgeheven;<br>
+<br>
+2° punt 1°, 2°, 3° en 4° worden opgeheven.
+
+### ART 11.
+
+In artikel 7, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 29 november 2013, worden de woorden "van de eigen personeelsleden" opgeheven.
+
+### ART 12.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juni 2018, wordt een artikel 7/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7/2. De taak van de ondersteuning van de kinderen en jongeren met een handicap, vermeld in artikel 5, § 1, 1°, h), omvat in elk geval de volgende taken:<br>
+1° de criteria voor de afbakening van de doelgroep van jongeren met een handicap specificeren, de indicatiestelling en de toewijzing organiseren;<br>
+2° jongeren met een handicap toeleiden naar niet rechtstreeks toegankelijke zorg en ondersteuning waarbij de kloof tussen de ondersteuning die geboden kan worden door zelfzorg, mantelzorg, het sociaal netwerk en reguliere zorg, en de ondersteuningsnood van de persoon met een handicap determinerend is;<br>
+3° op operationeel niveau programmeren, voorzieningen vergunnen, erkennen, en subsidiëren en administratieve sancties opleggen aan voorzieningen die belast zijn met de ondersteuning van jongeren met een handicap.".
+
+### ART 13.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juni 2018, wordt een artikel 7/3 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 7/3. De taak inzake binnenlandse en interlandelijke adoptie omvat naast de kerntaken, vermeld in artikel 5, in elk geval:<br>
+1° optreden als Centrale Autoriteit inzake interlandelijke adoptie als vermeld in artikel 360-1, 3°, van het Burgerlijk Wetboek en het verdrag inzake de internationale samenwerking en de bescherming van kinderen op het gebied van de interlandelijke adoptie aangenomen in Den Haag op 29 mei 1993;<br>
+2° het ontwikkelen en uitvoeren van een geīntegreerd beleid inzake adoptie met inbegrip van een gericht beleid voor de adoptie van kinderen met `special needs' en afstamming;<br>
+3° ontvangen en registreren van de aanmeldingen voor de adoptieprocedure, het verstrekken van informatie aan de kandidaat-adoptant, het begeleiden van de kandidaat-adoptant doorheen de administratieve en juridische procedure, het toezien op het correcte verloop van de procedure, het bewaren van en inzage verlenen in adoptiedossiers;<br>
+4° faciliteren van en toezicht houden op de samenwerking met herkomstlanden in het kader van interlandelijke adoptie.".
+
+### ART 14.
+
+In artikel 8 van hetzelfde decreet, gewijzigd bij de decreten van 22 december 2006 en 29 juni 2012, wordt paragraaf 1 opgeheven.
+
+### ART 15.
+
+Artikel 8/1 van hetzelfde decreet, ingevoegd bij het decreet van 12 juli 2013, wordt opgeheven.
+
+### ART 16.
+
+In artikel 10 van hetzelfde decreet, gewijzigd bij de decreten van 15 juli 2016, 7 juli 2017 en 8 juni 2018, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste, tweede en zesde lid wordt de zinsnede "5, 6, 7, 7/1 en 8" vervangen door de zinsnede "5, 6, 7, 7/1, 7/2, 7/3 en 8";<br>
+<br>
+2° in het eerste lid wordt de zinsnede "voorzover het om beleidsuitvoerende taken gaat," opgeheven;<br>
+<br>
+3° in het zesde lid worden de woorden "zijn cliënteel" vervangen door de zinsnede "de personen, vermeld in artikel 4, § 2".
+
+### ART 17.
+
+In artikel 12 van hetzelfde decreet wordt de zinsnede "vermeld in artikelen 5, 6, 7 en 8" vervangen door de zinsnede "vermeld in artikel 5, 6, 7, 7/1, 7/2, 7/3 en 8,".
+
+### ART 18.
+
+In artikel 16, tweede lid, van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2006, worden tussen het woord "wordt" en het woord "bijgestaan" de woorden "zowel in het agentschap als in het agentschap Opgroeien" ingevoegd.
+
+### ART 19.
+
+In artikel 19, eerste lid, 1°, van hetzelfde decreet wordt tussen de woorden "de kinderen" en de woorden "en de gezinnen" de zinsnede ", de jongeren" ingevoegd.
+
+### ART 20.
+
+In artikel 20 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden tussen het woord "kan" en het woord "beschikken" de woorden "voor zichzelf en voor het agentschap Opgroeien" ingevoegd;<br>
+<br>
+2° in het eerste lid, 9°, wordt de zinsnede ", in het bijzonder de bijdragen van ouders of derden in de kostprijs van diensten" opgeheven;<br>
+<br>
+3° aan het eerste lid worden een punt 12° tot en met 16° toegevoegd, die luiden als volgt:<br>
+"12° het eventuele saldo op het einde van het voorgaande begrotingsjaar;<br>
+13° de bijdragen van personen ten aanzien van wie hulp wordt georganiseerd of van onderhoudsplichtige personen;<br>
+14° de geīnde kinderbijslagen en de ontvangsten die voortvloeien uit tussenkomsten in de geneeskundige zorgen;<br>
+15° huurgelden voor de gronden of gebouwen waarvan de lasten van het eigenaarsonderhoud zijn toevertrouwd aan het agentschap, alsook de volledige opbrengst uit de verkoop van die gronden of gebouwen;<br>
+16° bestuurlijke geldboeten.";<br>
+<br>
+4° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Voor een persoon als vermeld in artikel 4, § 2, 4°, 6° en 7°, kan het agentschap, onder de voorwaarden die de Vlaamse Regering bepaalt, tegemoetkomen in de kosten van geneeskundige verzorging als vermeld in het eerste lid, 14°, in afwachting dat die kosten daadwerkelijk worden vergoed volgens de regelgeving betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen. Het agentschap treedt, voor het bedrag van die vergoeding, in de rechten en rechtsvorderingen van die persoon of zijn rechthebbende tegen het ziekenfonds dat de vergoeding verschuldigd is. Als de tegemoetkoming wordt verleend met een subsidie aan een erkende of gelijkgestelde voorziening waaraan de persoon is toevertrouwd, vordert die voorziening namens het agentschap de vergoeding van het ziekenfonds.".
+
+### ART 21.
+
+In artikel 22 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het tweede lid, 1° en 2°, wordt de zinsnede "bedoeld in artikelen 5, 6, 7 en 8, § 1," vervangen door de zinsnede "vermeld in artikel 5, 6, 7, 7/1, 7/2 en 7/3" en wordt de zinsnede "artikel 8, § 2," vervangen door de zinsnede "artikel 8";<br>
+<br>
+2° aan het tweede lid wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
+"3° voor de toekomstige en onvoorziene uitgaven van het agentschap en het agentschap Opgroeien.";<br>
+<br>
+3° in het derde lid worden de woorden "Het spijzen" vervangen door de woorden "De financiering".
+
+## HOOFDSTUK 4. Wijzigingen van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp
+
+### ART 22.
+
+In artikel 42, § 1, eerste lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp wordt de zinsnede ", overeenkomstig artikel 8/1 van hoofdstuk III van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin" opgeheven.
+
+### ART 23.
+
+Aan hoofdstuk 14/1 van hetzelfde decreet, ingevoegd bij het decreet van 15 maart 2019 houdende diverse wijzigingsbepalingen betreffende het decreet betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp en het decreet betreffende de integrale jeugdhulp, wordt een afdeling 2 toegevoegd, die luidt als volgt:<br>
+<br>
+"Afdeling 2. Centra voor Kinderzorg en Gezinsondersteuning".
+
+### ART 24.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 8 juni 2018, wordt aan afdeling 2, ingevoegd bij artikel 23, een artikel 78/7 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 78/7. In het kader van crisisopvang van jonge kinderen en bij verstoorde opvoedingssituaties kan de Vlaamse Regering centra voor kinderzorg en gezinsondersteuning erkennen en subsidiëren.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opdrachten en de werking van de centra voor kinderzorg en gezinsondersteuning, alsook de voorwaarden en de procedure voor de erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning. De Vlaamse Regering kan bijkomende opdrachten toekennen aan de centra voor kinderzorg en gezinsondersteuning in het kader van de integrale jeugdhulp.".
+
+## HOOFDSTUK 5. Wijziging van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters
+
+### ART 25.
+
+In artikel 18 van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, het laatst gewijzigd bij het decreet van 19 januari 2018, wordt een tweede lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"Bij dringende noodzakelijkheid kan die aanmaning achterwege gelaten worden en worden onmiddellijk bestuurlijke maatregelen genomen zoals vermeld in afdeling 3.".
+
+## HOOFDSTUK 6. Slotbepalingen
+
+### ART 26.
+
+De Vlaamse Regering kan de bestaande decreetsbepalingen waarin de werking van het agentschap en het agentschap Opgroeien nader is geregeld, wijzigen, aanvullen, vervangen of opheffen, om ze in overeenstemming te brengen met de bepalingen van dit decreet.<br>
+<br>
+De besluiten die krachtens het eerste lid worden vastgesteld, houden op uitwerking te hebben als ze niet bij decreet zijn bekrachtigd binnen negen maanden na de datum van de inwerkingtreding ervan. De bekrachtiging werkt terug tot die laatste datum.<br>
+<br>
+De bevoegdheid, vermeld in het eerste lid, vervalt twaalf maanden na de inwerkingtreding van dit decreet. Na die datum kunnen de besluiten die krachtens dit artikel zijn vastgesteld en zijn bekrachtigd, alleen bij een decreet worden gewijzigd, aangevuld, vervangen of opgeheven.
+
+### ART 27.
+
+§ 1. De titularis van de functie van algemeen directeur van het agentschap Kind en Gezin, zoals vermeld in artikel 16 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, zoals van kracht voor de inwerkingtreding van dit decreet, krijgt bij de inwerkingtreding van dit decreet van ambtswege een nieuw mandaat in de functie van algemeen directeur in het agentschap Opgroeien regie.<br>
+<br>
+§ 2. De titularis van de functie van administrateur-generaal van het agentschap Kind en Gezin, zoals vermeld in artikel 16 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, zoals van kracht voor de inwerkingtreding van dit decreet, krijgt bij de inwerkingtreding van dit decreet van ambtswege een nieuw mandaat in de functie van administrateur-generaal in het agentschap Opgroeien regie.
+
+### ART 28.
+
+Het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, het laatst gewijzigd bij het decreet van 7 december 2018, wordt opgeheven op de datum van de inwerkingtreding van dit decreet, met uitzondering van hoofdstuk V, afdeling I, die bestaat uit artikel 47 en 47/1, die worden opgeheven op 1 september 2019, en hoofdstuk VI, afdeling I, die bestaat uit artikel 54 tot en met 65, die worden opgeheven op een datum die de Vlaamse Regering bepaalt.
