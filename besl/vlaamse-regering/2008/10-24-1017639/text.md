@@ -8,7 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op de Bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° administrateur-generaal : het personeelslid dat belast is met de leiding van het agentschap en het Fonds.<br />2° agentschap : het intern verzelfstandigd agentschap Jongerenwelzijn, vermeld in artikel 59 van het decreet;<br />3° bemiddelingscommissie : de bemiddelingscommissie voor bijzondere jeugdbijstand, vermeld in artikel 26 van het decreet;<br />4° betrokken partijen : de minderjarige, de personen die het ouderlijk gezag uitoefenen over de minderjarige of de minderjarige onder hun bewaring hebben en degenen die in het raam van de jeugdbijstandsregeling eveneens bij de hulpverlening zijn betrokken;<br />5° bureau : Bureau voor Bijzondere Jeugdbijstand, vermeld in artikel 16, § 1, van het decreet;<br />6° comité : het Comité voor Bijzondere Jeugdzorg, vermeld in artikel 12 van het decreet;<br />7° consulenten : personeelsleden van het agentschap, vermeld in artikel 21, § 1, van het decreet;<br />8° decreet : het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br />9° erkende voorzieningen : voorzieningen die met toepassing van artikel 49 van het decreet zijn erkend door de Vlaamse Gemeenschap;<br />10° Fonds : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54 van het decreet;<br />11° gelijkgestelde voorzieningen : voorzieningen, gelijkgesteld met erkende voorzieningen voor wat betreft de toelating om minderjarigen op te nemen;<br />12° handelingsplan : het handelingsplan, vermeld in artikel 46, eerste lid van het decreet;<br />13° jeugdbijstandsregeling : het decreet en het geheel van de wetten betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd, vermeld in punt 27°;<br />14° kaderdecreet : het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br />15° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar. Voor de toepassing van dit besluit wordt de persoon die de maximumleeftijden, vermeld in artikel 36, § 2, van het decreet niet heeft bereikt, gelijkgesteld met een minderjarige;<br />16° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br />17° preventiecel : de Preventiecel, vermeld in artikel 18 van het decreet van 7 maart 2008;<br />18° problematische opvoedingssituatie : een toestand waarin de fysieke integriteit, de affectieve, morele, intellectuele of sociale ontplooiingskansen van minderjarigen in het gedrang komen door bijzondere gebeurtenissen, door relationele conflicten of door de omstandigheden waarin zij leven;<br />19° regio : het grondgebied van een provincie. Het grondgebied van de provincie Vlaams-Brabant en het grondgebied van het Brusselse Hoofdstedelijke Gewest vormen samen één regio;<br />20° regioverantwoordelijke : een directeur (A2) van het agentschap die belast is met het operationele management van een regio;<br />21° secretaris : het personeelslid van het agentschap dat de leiding heeft van het secretariaat van de bemiddelingscommissie;<br />22° sociale diensten : de sociale dienst voor vrijwillige jeugdbijstand en de sociale dienst voor gerechtelijke jeugdbijstand;<br />23° sociale dienst voor gerechtelijke jeugdbijstand : de sociale dienst voor gerechtelijke jeugdbijstand, vermeld in artikel 44 van het decreet;<br />24° sociale dienst voor vrijwillige jeugdbijstand : de sociale dienst voor vrijwillige jeugdbijstand, vermeld in artikel 20 van het decreet<br />25° teamverantwoordelijke : de persoon, vermeld in artikel 21, § 3, van het decreet;<br />26° voorzieningen : initiatieven die hulp- of dienstverlening aanbieden aan minderjarigen en gezinnen;<br />27° wet betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd : een wet die een aangelegenheid regelt, vermeld in artikel 5, § 1, II, 6°, d, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+2° agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, vermeld in artikel 2, 8° van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+3° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+4° voorziening: elke organisatievorm die dienstverlening, hulpverlening of ondersteuning organiseert of verleent aan kinderen, jongeren en gezinnen.
 
 ## BOEK II INTERN VERZELFSTANDIGD AGENTSCHAP JONGERENWELZIJN
 
@@ -16,47 +20,67 @@ In dit besluit wordt verstaan onder :<br />1° administrateur-generaal : het per
 
 ### ART. 2.
 
-In het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Jongerenwelzijn opgericht. Het agentschap wordt opgericht voor de uitvoering van het beleid inzake welzijn en volksgezondheid.<br /><br />Het agentschap behoort tot het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br /><br />
+In het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien opgericht.<br>
+<br>
+Het agentschap behoort tot het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br>
+&nbsp;
 
 ### ART. 3.
 
-Het agentschap heeft als missie om samen met zijn partners, op grond van   een behoefte of een vraag, een continuum van zorg aan te bieden aan de doelgroep   om zo de ontplooiingskansen van de doelgroep te vrijwaren.<BR><BR>De doelgroep   van de activiteiten van het agentschap wordt gevormd door :<BR>1° jeugd voor wie   de maatschappelijke integratie en participatie in het gedrang is of dreigt te   komen door een problematische leefsituatie, door een verschillende leefcultuur   of door andere, maatschappelijk niet aanvaardbare situaties; Met jeugd wordt   bedoeld, kinderen en jongeren tot de leeftijd van 25 jaar;<BR>2° personen die   worden onderworpen aan maatregelen als vermeld in de federale wetten houdende   maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit   hebben gepleegd;<BR>2°/1 de pleeggasten en pleegkinderen, vermeld in artikel 2,   8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van   pleegzorg;<BR>3° de ouders, de opvoedingsverantwoordelijken en de natuurlijke   personen die bij de personen, vermeld in punt 1°, 2° en 2°/1, inwonen of die met   die personen een affectieve band hebben, of die in de buurt ervan wonen of die   er geregeld contact mee hebben, onder meer bij het schoolgaan, in de   werksituatie of tijdens de vrijetijdsbesteding.<BR><BR>Bij het uitvoeren van   zijn missie stelt het agentschap de volgende uitgangspunten centraal :<BR>1°   respect tonen voor de rechten van de doelgroep en van de personen die deel   uitmaken van de doelgroep;<BR>2° maximaal een beroep doen op de eigen   verantwoordelijkheid en de mogelijkheden van de doelgroep en van de personen die   deel uitmaken van de doelgroep;<BR>3° zich richten op het behoud of het herstel   van de maatschappelijke integratie van de personen die deel uitmaken van de   doelgroep en hun participatie aan de samenleving.<BR><BR>Het agentschap en de   aangestuurde voorzieningen eerbiedigen bij hun optreden de ideologische,   filosofische en godsdienstige overtuiging van de personen waartoe ze zich   richten.<BR><BR>
+Het agentschap heeft als missie om uitvoering te geven aan het beleid dat uitgewerkt wordt door het agentschap Opgroeien regie.<br>
+<br>
+Bij het uitvoeren van zijn missie stelt het agentschap de volgende uitgangspunten centraal:<br>
+1° respect voor de rechten van het kind en de jongere en zijn ouders of opvoedingsverantwoordelijken;<br>
+2° respect voor diversiteit;<br>
+3° de optimale ontwikkeling van het kind en de jongere;<br>
+4° de verantwoordelijkheid en de mogelijkheden van de jongere en zijn ouders of opvoedingsverantwoordelijke;<br>
+5° het behoud of het herstel van de maatschappelijke integratie van het kind, de jongere en zijn ouders of opvoedingsverantwoordelijken, en hun participatie aan de samenleving.<br>
+<br>
+Het agentschap eerbiedigt bij zijn optreden de ideologische, filosofische en godsdienstige overtuiging van de personen tot wie het zich richt.<br>
+<br>
+Het agentschap geeft mee uitvoering aan het VN-verdrag inzake de rechten van personen met een handicap, aangenomen in New York op 13 december 2006 en respecteert op elk moment de rechten van personen met een handicap die daarin geconcretiseerd zijn.
 
 ### ART. 4.
 
-De kerntaken van het agentschap omvatten :<BR>1° het organiseren van een   kwaliteitsvolle hulpverlening aan de doelgroep;<BR>2° het uitvoeren en   coördineren van taken met toepassing van het beleid betreffende de integrale   jeugdhulp, als vermeld in het decreet van 7 mei 2004 betreffende de integrale   jeugdhulp;<BR>3° het uitvoeren van een beleid ten aanzien van   jeugddelinquentie;<BR>4° het uitvoeren van het preventiebeleid om te voorkomen   dat de doelgroep in een problematische leefsituatie terechtkomt;<BR>5° het   beheren van het Fonds;<BR>6° het uitvoeren en coördineren van taken met   toepassing van het beleid betreffende de pleegzorg, vermeld in het decreet van   29 juni 2012 houdende de organisatie van pleegzorg.<BR><BR>
+De kerntaak van het agentschap is om het beleid uit te voeren met betrekking tot de domeinen, vermeld in artikel 5, § 1, 1°, e), f) en g), van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie. Daartoe behoren de volgende taken:<br>
+1° een kwaliteitsvolle hulpverlening organiseren voor de personen, vermeld in artikel 4, § 2, 3°, 4°, 5°, 6°, 7° en 8°, van het voormelde decreet van 30 april 2004;<br>
+2° de taken uitvoeren en coördineren met toepassing van het beleid betreffende de integrale jeugdhulp, vermeld in het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+3° het beleid rond jeugddelinquentie uitvoeren, waaronder de organisatie en het beheer van de gemeenschapsinstellingen;<br>
+4° de pleegzorg organiseren met toepassing van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.
 
 ### ART. 5.
 
-De taken, vermeld in artikel 4, omvatten in elk geval :<br />1° het uitvoeren van taken met toepassing van het decreet;<br />2° het organiseren en het beheren van de gemeenschapsinstellingen;<br />3° het uitvoeren van opdrachten inzake opvang, oriëntatie, observatie en begeleiding van personen tot de leeftijd van maximaal 20 jaar, bepaald in een federale wet houdende opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br />4° het organiseren van de hulpverlening in de door de federale overheid georganiseerde gesloten centra voor opvang van minderjarigen die een als misdrijf omschreven feit hebben gepleegd;<br />5° de programmatie, de erkenning en de subsidiëring van voorzieningen en van de pleegzorg, en de subsidiëring van projecten.<br /><br />
+...
 
 ### ART. 6.
 
-Overeenkomstig artikel 9, § 1, 1°, van het kaderdecreet regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.<br /><br />
+Er wordt, samen met het agentschap Opgroeien regie, één ondernemingsplan opgemaakt.
 
 ### ART. 7.
 
-Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de rechtspersoon Vlaamse Gemeenschap. Bij het uitoefenen van de taak, vermeld in artikel 4, 5°, treedt het agentschap op namens het Fonds.<br /><br />
+Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de rechtspersoon Vlaamse Gemeenschap.<br>
+<br>
+Met betrekking tot het voeren van rechtsgedingen wordt het agentschap vertegenwoordigd door het agentschap Opgroeien regie.
 
 ### ART. 8.
 
-Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening, vermeld in titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018, moet het agentschap klachten, geuit ten aanzien van de voorzieningen die het erkend heeft, opnemen en behandelen.<br>
+Onverminderd de behandeling van klachten met betrekking tot de eigen werking en dienstverlening, vermeld in titel II, hoofdstuk 5, van het bestuursdecreet van 7 december 2018, moet het agentschap klachten, die worden geuit over de uitvoering van de taken, vermeld in artikel 4, door het agentschap, opnemen en behandelen.<br>
 &nbsp;
 
 ### ART. 9.
 
-§ 1. Voor de invulling van de taken, vermeld in artikelen 4 en 5, vervult het agentschap zijn beleidsuitvoerende taken ten aanzien van de doelgroep in samenhang met :<br>
+§ 1. Voor de invulling van de taken, vermeld in artikel 4, vervult het agentschap zijn beleidsuitvoerende taken ten aanzien van de doelgroep in samenhang met :<br>
 1° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn, volksgezondheid en gezin;<br>
 2° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid.<br>
 <br>
-§ 2. Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 4 en 5.<br>
+§ 2. Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikel 4.<br>
 <br>
 Het agentschap stelt kennis en expertise die het verworven heeft, ter beschikking van de beleidsondersteuning.<br>
 <br>
 Het agentschap zorgt voor de permanente optimalisering en vernieuwing van zijn dienstverlening op basis van actuele ontwikkelingen op het terrein van kennis en expertise.<br>
 <br>
 § 3. Het agentschap registreert en verwerkt alle gegevens, verzameld in het kader van zijn opdracht, die noodzakelijk zijn om :<br>
-1° de taken, vermeld in artikelen 4 en 5, uit te voeren;<br>
+1° de taken, vermeld in artikel 4, uit te voeren;<br>
 2° de beleidsgerichte input, vermeld in artikel III.2, derde lid, van het bestuursdecreet van 7 december 2018, te leveren.<br>
 <br>
 De minister bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van de persoonsgegevens.<br>
@@ -64,11 +88,11 @@ De minister bepaalt de nadere regels met betrekking tot de gegevensregistratie e
 
 ### ART. 10.
 
-Het agentschap werkt voor de realisatie van zijn missie en taken samen en sluit samenwerkingsovereenkomsten met instanties, instellingen, diensten en verenigingen die op het vlak van de toegewezen taak actief zijn.<br /><br />
+Het agentschap werkt voor de realisatie van zijn missie en taken samen met instanties, instellingen, diensten en verenigingen die actief zijn op het vlak van de toegewezen taak en sluiten er samenwerkingsovereenkomsten mee.
 
 ### ART. 11.
 
-Het agentschap is verplicht alle noodzakelijke gegevens ter beschikking te   stellen van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein. Tussen het   agentschap en het voormelde departement wordt een samenwerkingsovereenkomst   gesloten. De minister bepaalt de nadere regels met betrekking tot die   samenwerkingsovereenkomst.<BR><BR>
+...
 
 ## TITEL II Aansturing en leiding van het agentschap
 
@@ -78,31 +102,66 @@ Het agentschap ressorteert onder het hiërarchisch gezag van de minister.<br /><
 
 ### ART. 13.
 
-De minister stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.<br /><br />
+...
 
 ### ART. 14.
 
-Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.<br /><br />Het hoofd van het agentschap wordt bijgestaan door een algemeen directeur.<br /><br />
+De administrateur-generaal van het agentschap Opgroeien regie is het hoofd van het agentschap.<br>
+<br>
+Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.<br>
+<br>
+Het hoofd van het agentschap wordt bijgestaan door een algemeen directeur.<br>
+&nbsp;
 
 ## TITEL III Delegatie van beslissingsbevoegdheden
 
 ### ART. 15.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid   voor de aangelegenheden die zijn vastgesteld het Besluit van de Vlaamse Regering   van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden   aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse   overheid.<BR><BR>Met betrekking tot de aangelegenheden, vermeld in het eerste   lid, wordt aan het hoofd van het agentschap een aanvullende delegatie verleend   voor het toekennen van gereglementeerde subsidies waarvoor de reglementering   geen vast recht instelt voor de mogelijke begunstigden.<BR><BR>De algemene   delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle-   en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het   eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt   tot de taken die niet uitgeoefend worden door Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 11 van dit   besluit.<BR><BR>
+Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld het Besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.<br>
+<br>
+Met betrekking tot de aangelegenheden, vermeld in het eerste lid, wordt aan het hoofd van het agentschap een aanvullende delegatie verleend voor het toekennen van gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt voor de mogelijke begunstigden.<br>
+<br>
+De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 16, 6°, van het besluit, vermeld in het eerste lid, wordt, ter uitvoering van artikel 17 van voormelde besluit, beperkt tot de taken die niet uitgeoefend worden door Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin.<br>
+&nbsp;
 
 ### ART. 16.
 
-Naast de delegaties betreffende de aangelegenheden, vermeld in artikel 14, worden aan het hoofd van het agentschap de volgende specifieke delegaties verleend :<br />1° het beheren van het Fonds;<br />2° het beslissen tot toevoeging van vrijwillige consulenten aan :<br />a) de sociale diensten voor vrijwillige jeugdbijstand, overeenkomstig artikel 65;<br />b) de sociale diensten voor gerechtelijke jeugdbijstand, overeenkomstig artikel 116;<br />3° het nemen van beslissingen als vermeld in artikel 42, § 3, en artikel 55, § 1, tweede lid, van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand;<br />4° het verlenen van niet-gereglementeerde subsidies die niet nominatim in de begroting zijn ingeschreven, tot een maximum bedrag van 150.000 euro;<br />5° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br />6° binnen de perken van de bepalingen van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, het spreiden van de terugbetalingstermijnen van vorderingen over maximaal 60 maanden;<br />7° in afwachting van de wettelijke annulatie, de invordering van vorderingen voor een bedrag van ten hoogste 7.450 euro per dossier, op te schorten als de inning of de terugvordering ervan strijdig is met een goed financieel beheer. Die vorderingen hebben betrekking op :<br />a) de terugvordering van ten onrechte betaalde subsidies;<br />b) de terugvordering van kinderbijslagen of van vergoedingen die een gedeelte van de kinderbijslagen vervangen;<br />c) de inning van bijdragen van personen ten aanzien van wie hulp wordt georganiseerd of van de onderhoudsplichtige personen.<br /><br />
+Naast de delegaties betreffende de aangelegenheden, vermeld in artikel 14, worden aan het hoofd van het agentschap de volgende specifieke delegaties verleend :<br>
+1° ...;<br>
+2° het beslissen tot toevoeging van vrijwillige consulenten aan :<br>
+a) het ondersteuningscentrum, vermeld in artikel 33 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+b) de sociale dienst, vermeld in artikel 56 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+3° het nemen van beslissingen als vermeld in artikel 42, § 3, en artikel 55, § 1, tweede lid, van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand;<br>
+4° het verlenen van niet-gereglementeerde subsidies die niet nominatim in de begroting zijn ingeschreven, tot een maximum bedrag van 150.000 euro;<br>
+5° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br>
+6° binnen de perken van de bepalingen van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, het spreiden van de terugbetalingstermijnen van vorderingen over maximaal 60 maanden;<br>
+7° in afwachting van de wettelijke annulatie, de invordering van vorderingen voor een bedrag van ten hoogste 7.450 euro per dossier, op te schorten als de inning of de terugvordering ervan strijdig is met een goed financieel beheer. Die vorderingen hebben betrekking op :<br>
+a) de terugvordering van ten onrechte betaalde subsidies;<br>
+b) de terugvordering van kinderbijslagen of van vergoedingen die een gedeelte van de kinderbijslagen vervangen;<br>
+c) de inning van bijdragen van personen ten aanzien van wie hulp wordt georganiseerd of van de onderhoudsplichtige personen.<br>
+&nbsp;
 
 ### ART. 17.
 
-Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het Besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.<br /><br />Daarnaast gelden nog de volgende bepalingen voor het gebruik van de delegaties :<br />1° wat betreft de delegatie inzake de beslissingen, vermeld in artikel 16, 3°, kunnen voor de bevoegdheden, vermeld in artikel 42, § 3, van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, geen subdelegaties worden toegekend;<br />2° wat betreft de delegatie inzake de invordering, vermeld in artikel 16, 7°, dient het hoofd van het agentschap :<br />a) eerst met een gewone brief de betrokkene aan te manen tot betaling;<br />b) met een aangetekende brief de betrokkene een tweede maal aan te manen tot betaling;<br />c) vervolgens naar de financiële toestand van de betrokkene te vragen om eventueel zijn onvermogen om te betalen vast te stellen;<br />d) ten slotte aan de betrokkene voor te stellen een afbetalingsplan als vermeld in artikel 16, 6°, te volgen.<br /><br />Als de kosten van de invorderingsprocedure kennelijk de verwachte baten zouden overschrijden of als de betrokkene niet te bereiken is of in de onmogelijkheid verkeert zijn wil te kennen te geven, mag het hoofd van het agentschap bij gemotiveerde beslissing geheel of gedeeltelijk afzien van de invorderingsprocedure, vermeld in het tweede lid, 2°.<br /><br />
+Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, vermeld in het Besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.<br>
+<br>
+Daarnaast gelden nog de volgende bepalingen voor het gebruik van de delegaties :<br>
+1° wat betreft de delegatie inzake de beslissingen, vermeld in artikel 16, 3°, kunnen voor de bevoegdheden, vermeld in artikel 42, § 3, van het Besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, geen subdelegaties worden toegekend;<br>
+2° wat betreft de delegatie inzake de invordering, vermeld in artikel 16, 7°, dient het hoofd van het agentschap :<br>
+a) eerst met een gewone brief de betrokkene aan te manen tot betaling;<br>
+b) met een aangetekende brief de betrokkene een tweede maal aan te manen tot betaling;<br>
+c) vervolgens naar de financiële toestand van de betrokkene te vragen om eventueel zijn onvermogen om te betalen vast te stellen;<br>
+d) ten slotte aan de betrokkene voor te stellen een afbetalingsplan als vermeld in artikel 16, 6°, te volgen.<br>
+<br>
+Als de kosten van de invorderingsprocedure kennelijk de verwachte baten zouden overschrijden of als de betrokkene niet te bereiken is of in de onmogelijkheid verkeert zijn wil te kennen te geven, mag het hoofd van het agentschap bij gemotiveerde beslissing geheel of gedeeltelijk afzien van de invorderingsprocedure, vermeld in het tweede lid, 2°.<br>
+&nbsp;
 
 ## TITEL IV Controle, opvolging en toezicht
 
 ### ART. 18.
 
-Met behoud van de toepassing van artikel III.61, III.62, III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot informatieverstrekking, rapportering, organisatiebeheersing en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Met behoud van de toepassing van artikel III.114 en III.115 van het bestuursdecreet van 7 december 2018, met betrekking tot&nbsp;interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.<br>
+&nbsp;
 
 ### ART. 19.
 
@@ -112,7 +171,7 @@ De minister kan, in het kader van de opvolging en de uitoefening van het toezich
 
 ### ART. 20.
 
-Bij het agentschap wordt een raadgevend comité opgericht, dat advies verstrekt op verzoek van het hoofd van het agentschap. Het raadgevend comité verstrekt tevens op eigen initiatief advies over alle aangelegenheden die van belang zijn voor de taken van het agentschap.<br /><br />
+...
 
 ## BOEK III GEMEENSCHAPSINSTELLINGEN
 
