@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030155,
+  "title": "Besluit van de Vlaamse Regering van 2018-11-30 tot wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 tot uitvoering van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand en het kaderdecreet bestuurlijk beleid van 18 juli 2003",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030155/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "ea9f2f350b3feed34db1f6dbe6e870dff9984916cbc6b4f19659702373a1a4cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030155&param=informatie",
+  "as_of": "2019-04-18",
+  "made": "2018-11-30",
+  "gazette": "2019-01-28",
+  "numac": 2019010417,
+  "document_start": "2019-04-18",
+  "document_end": null,
+  "in_force": "2019-04-18",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2019-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
