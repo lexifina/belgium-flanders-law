@@ -75,7 +75,7 @@ De minister kan namens de Vlaamse Regering bevolkingsonderzoek organiseren   of 
 Bij het uitvoeren van bevolkingsonderzoek namens de Vlaamse Regering worden al de volgende randvoorwaarden vervuld:<br>
 1° het bevolkingsonderzoek wordt uitgevoerd door een of meer partnerorganisaties, organisaties met terreinwerking, andere organisaties die daarvoor gesubsidieerd worden of daarvoor aangewezen zijn door de minister of door individuele zorgaanbieders, of door een combinatie van die organisaties of individuele zorgaanbieders;<br>
 2° de uitvoerders, vermeld in punt 1°, werken mee aan de registratie van het bevolkingsonderzoek voor de voortgangscontrole, de kwaliteitsbewaking en de evaluatie ervan;<br>
-3° de minister richt voor het bevolkingsonderzoek een Vlaamse werkgroep op als vermeld in artikel 3, 2°, b), van het besluit van 14 november 2008. Als het gaat om een bevolkingsonderzoek dat uitgevoerd wordt door de consultatiebureaus van Kind en gezin en de Centra voor Leerlingenbegeleiding, is die oprichting facultatief;<br>
+3° de minister richt voor het bevolkingsonderzoek een Vlaamse werkgroep op als vermeld in artikel 3, 2°, b), van het besluit van 14 november 2008. Als het gaat om een bevolkingsonderzoek dat uitgevoerd wordt door de consultatiebureaus van Opgroeien regie en de Centra voor Leerlingenbegeleiding, is die oprichting facultatief;<br>
 4° om de deelname aan bevolkingsonderzoek te laten plaatsvinden op basis van een geïnformeerde keuze, nemen de uitvoerders, vermeld in punt 1°, de volgende maatregelen:<br>
 a) ze delen vooraf mee aan de personen die deel uitmaken van de doelgroep van de screening of hun vertegenwoordigers dat het bevolkingsonderzoek niet verplicht is;<br>
 b) ze informeren de personen die deel uitmaken van de doelgroep van de screening of hun vertegenwoordigers vooraf over het doel van het bevolkingsonderzoek, de voor- en nadelen van het bevolkingsonderzoek, de werkwijze van het bevolkingsonderzoek en de verwerking van de persoonsgegevens in het kader van het bevolkingsonderzoek;<br>
@@ -90,7 +90,9 @@ Een bevolkingsonderzoek dat georganiseerd wordt om te onderzoeken of een bestaan
 
 ### ART. 6.
 
-De volgende bevolkingsonderzoeken namens de Vlaamse Regering hoeven niet te voldoen aan de bepalingen, vermeld in artikel 5, en worden, voor zover ze al lopende zijn bij de inwerkingtreding van dit besluit, geacht te voldoen aan de voorwaarden, vermeld in artikel 4 :<br />1° bevolkingsonderzoek dat plaats vindt ter uitvoering van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />2° bevolkingsonderzoek dat plaats vindt ter uitvoering van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.
+De volgende bevolkingsonderzoeken namens de Vlaamse Regering hoeven niet te voldoen aan de bepalingen, vermeld in artikel 5, en worden, voor zover ze al lopende zijn bij de inwerkingtreding van dit besluit, geacht te voldoen aan de voorwaarden, vermeld in artikel 4 :<br>
+1° bevolkingsonderzoek dat plaats vindt ter uitvoering van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
+2° bevolkingsonderzoek dat plaats vindt ter uitvoering van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.
 
 ## HOOFDSTUK IV. Bevolkingsonderzoek waarvoor een toestemming vereist is
 

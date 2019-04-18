@@ -2,16 +2,16 @@
   "codex_id": 1017595,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 betreffende bevolkingsonderzoek in het kader van ziektepreventie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017595/VolledigDocument?datum=2019-03-18",
-  "source_sha256": "ad7226ac6d0c5f2abe865ecd5d3c8badd9e31a71b682b21af87602bd98e946b2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017595/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "25d8a48489ee11e3c7968a85d996db1b677e6aa1723004360505f07bd35463d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017595&param=informatie",
-  "as_of": "2019-03-18",
+  "as_of": "2019-04-18",
   "made": "2008-12-12",
   "gazette": "2009-02-19",
   "numac": 2009035085,
   "document_start": "2009-03-01",
   "document_end": null,
-  "in_force": "2019-03-18",
+  "in_force": "2019-04-18",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2019-03-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }
