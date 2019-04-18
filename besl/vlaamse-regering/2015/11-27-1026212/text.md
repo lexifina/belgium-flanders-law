@@ -17,15 +17,15 @@ In dit besluit wordt verstaan onder :<br>
 4° ...;<br>
 5° Departement WSE : het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
 6° doelgroepwerknemer : een werknemer werkzaam in een lokale diensteneconomieonderneming met vestiging op het grondgebied van het Vlaamse Gewest, vermeld in artikel 6 van het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
-7° erkende buitenschoolse groepsopvang : de buitenschoolse groepsopvang waarvoor de organisator een erkenning heeft van Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+7° erkende buitenschoolse groepsopvang : de buitenschoolse groepsopvang waarvoor de organisator een erkenning heeft van het agentschap met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 8° ...;<br>
 9° flexibele opvang : de buitenschoolse opvang op flexibele openingstijden als vermeld in artikel 1, 7°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
-10° flexibele opvangpool : een organisator die door Kind en Gezin erkend wordt als flexibele opvangpool om doelgroepwerknemers in te zetten voor flexibele en occasionele opvang;<br>
+10° flexibele opvangpool : een organisator die door het agentschap erkend wordt als flexibele opvangpool om doelgroepwerknemers in te zetten voor flexibele en occasionele opvang;<br>
 11° ...;<br>
-12° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+12° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
 13° kinderopvang : de kinderopvang, vermeld in artikel 2, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 14° ...;<br>
-15° lokale dienst : een lokale dienst voor buurtgerichte buitenschoolse opvang die een toestemming heeft van Kind en Gezin, om een toegankelijke en laagdrempelige buitenschoolse opvang te realiseren voor schoolgaande kinderen waarbij de participatie van kwetsbare gezinnen en een sterke lokale inbedding centraal staan;<br>
+15° lokale dienst : een lokale dienst voor buurtgerichte buitenschoolse opvang die een toestemming heeft van het agentschap, om een toegankelijke en laagdrempelige buitenschoolse opvang te realiseren voor schoolgaande kinderen waarbij de participatie van kwetsbare gezinnen en een sterke lokale inbedding centraal staan;<br>
 16° occasionele opvang: de occasionele buitenschoolse opvang als vermeld in artikel 1, 14°, van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 17° opvang aan huis : de buitenschoolse opvang of kinderopvang die uitgevoerd wordt door de personeelsleden van een gemandateerde voorziening of een flexibele opvangpool in de gezinswoning van het kind;<br>
 18° opvanglocatie : de vestigingsplaats waar buitenschoolse opvang georganiseerd wordt;<br>
@@ -35,13 +35,13 @@ In dit besluit wordt verstaan onder :<br>
 22° subsidie voor initiatief buitenschoolse opvang : een subsidie als vermeld in artikel 19 tot en met 31 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 22° /1 subsidie voor ruimere openingsmomenten: een subsidie als vermeld in artikel 1, 17° /1, b), van het Subsidiebesluit van 22 november 2013;<br>
 23° VDAB : het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
-24° vergunde groepsopvang : de groepsopvang waarvoor de organisator een vergunning heeft van Kind en Gezin met toepassing van het Vergunningsbesluit van 22 november 2013;<br>
+24° vergunde groepsopvang : de groepsopvang waarvoor de organisator een vergunning heeft van het agentschap met toepassing van het Vergunningsbesluit van 22 november 2013;<br>
 25° zorggebied : een verzorgingsgebied als vermeld in het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding";<br>
 26° Zorginspectie : Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ### ART. 2.
 
-Kind en Gezin en het Departement WSE kunnen binnen het begrotingskrediet een subsidie toekennen aan een organisator volgens de voorwaarden, vermeld in dit besluit, voor de realisatie van de volgende specifieke dienstverlening :<br>
+Het agentschap en het Departement WSE kunnen binnen het begrotingskrediet een subsidie toekennen aan een organisator volgens de voorwaarden, vermeld in dit besluit, voor de realisatie van de volgende specifieke dienstverlening :<br>
 1° een flexibele opvangpool buitenschoolse opvang;<br>
 2° de competentieversterkende tewerkstelling en kwaliteitsvolle begeleiding van de doelgroepwerknemers, zoals bepaald in het decreet van 22 november 2013 betreffende de lokale diensteneconomie;<br>
 3° de laagdrempelige en buurtgerichte buitenschoolse opvang.
@@ -56,19 +56,27 @@ Aan de lokalediensteneconomieondernemingen waaraan een label is toegekend confor
 
 ### ART. 3.
 
-De   subsidies die Kind en Gezin toekent, worden toegekend met inachtneming van het   besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de   toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking   van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare   dienst, verleend aan bepaalde met het beheer van diensten van algemeen   economisch belang belaste ondernemingen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De subsidies die het agentschap toekent, worden toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.
 
 ### ART. 4.
 
-<P>Zolang   de organisator voldoet aan de voorwaarden voor de realisatie van specifieke   dienstverlening als vermeld in dit besluit, gelden de subsidies die toegekend   worden door Kind en Gezin voor minder dan tien jaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin en de toezichthouders voeren op regelmatige basis controles uit die   gericht zijn op de naleving van de bepalingen van dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van specifieke dienstverlening als vermeld in dit besluit, gelden de subsidies die toegekend worden door het agentschap voor minder dan tien jaar.</p>
+
+<p>Het agentschap en de toezichthouders voeren op regelmatige basis controles uit die gericht zijn op de naleving van de bepalingen van dit besluit.</p>
 
 ### ART. 5.
 
-<P>De   organisator maakt jaarlijks een begroting op met een overzicht van de   voorzienbare inkomsten en de geraamde uitgaven voor de specifieke   dienstverlening die van toepassing is, vermeld in dit besluit, wat betreft de   subsidies die toegekend worden door Kind en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   organisator hanteert een boekhouding die inkomsten en uitgaven die verband   houden met de specifieke dienstverlening, vermeld in dit besluit, voor de   toerekening van de kosten en inkomsten transparant afzondert.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De organisator maakt jaarlijks een begroting op met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven voor de specifieke dienstverlening die van toepassing is, vermeld in dit besluit, wat betreft de subsidies die toegekend worden door het agentschap.</p>
+
+<p>De organisator hanteert een boekhouding die inkomsten en uitgaven die verband houden met de specifieke dienstverlening, vermeld in dit besluit, voor de toerekening van de kosten en inkomsten transparant afzondert.</p>
 
 ### ART. 6.
 
-De   organisator kan op de volgende wijze reserves opbouwen met de subsidies die Kind   en Gezin toekent :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de reserves worden aangewend om de specifieke dienstverlening, vermeld in dit   besluit, te kunnen realiseren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   maximaal 20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als   reserve overgedragen worden naar het volgende kalenderjaar;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld   in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt   2° ;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het   overschreden bedrag teruggestort aan Kind en Gezin, tenzij de organisator een   aanwendingsplan of aanzuiveringsplan heeft.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De organisator kan op de volgende wijze reserves opbouwen met de subsidies die het agentschap toekent :<br>
+1° de reserves worden aangewend om de specifieke dienstverlening, vermeld in dit besluit, te kunnen realiseren;<br>
+2° maximaal 20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
+3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij de organisator een aanwendingsplan of aanzuiveringsplan heeft.
 
 ## HOOFDSTUK 3 Index
 
@@ -86,7 +94,9 @@ De aanpassing, vermeld in het eerste lid, gebeurt telkens twee maanden nadat de 
 
 ### ART. 8.
 
-<P>De   door Kind en Gezin toegekende subsidies worden betaald met voorschotten per   kwartaal die maximaal 80% bedragen van het geraamde bedrag dat verschuldigd zal   zijn. De saldoafrekening vindt plaats uiterlijk op 1 april van het kalenderjaar   nadat de voorschotten zijn betaald, op voorwaarde dat de organisator de nodige   stukken heeft voorgelegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   voorschot, vermeld in het eerste lid, wordt verhoudingsgewijs teruggevorderd als   de organisator zijn activiteiten staakt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De door het agentschap toegekende subsidies worden betaald met voorschotten per kwartaal die maximaal 80% bedragen van het geraamde bedrag dat verschuldigd zal zijn. De saldoafrekening vindt plaats uiterlijk op 1 april van het kalenderjaar nadat de voorschotten zijn betaald, op voorwaarde dat de organisator de nodige stukken heeft voorgelegd.</p>
+
+<p>Het voorschot, vermeld in het eerste lid, wordt verhoudingsgewijs teruggevorderd als de organisator zijn activiteiten staakt.</p>
 
 ### ART. 9.
 
@@ -219,7 +229,7 @@ De   flexibele opvangpool begeleidt de doelgroepwerknemers en ondersteunt hen bi
 
 De organisator heeft voor de doelgroepwerknemer een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de doelgroepwerknemer niet in België gedomicilieerd is, legt hij een gelijkwaardig attest voor, dat is uitgereikt door een bevoegde buitenlandse instantie.<br>
 <br>
-Het uittreksel, vermeld in het eerste lid, is bij de start van de tewerkstelling van de doelgroepwerknemer maximaal drie maanden oud. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
+Het uittreksel, vermeld in het eerste lid, is bij de start van de tewerkstelling van de doelgroepwerknemer maximaal drie maanden oud. Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat de doelgroepwerknemer een aanvulling op het uittreksel, vermeld in het eerste lid, onmiddellijk doorgeeft aan de organisator.
 
@@ -231,15 +241,15 @@ De organisator zorgt ervoor dat de doelgroepwerknemer een aanvulling op het uitt
 
 ### ART. 35.
 
-Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool die in Vlaanderen gelokaliseerd is, per voltijds equivalent van een tewerkgestelde doelgroepwerknemer recht op een maximale loonpremie, verstrekt door Kind en Gezin. De maximale loonpremie van Kind en Gezin bedraagt voor&nbsp;de flexibele opvangpool 6.630,59 euro.
+Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool die in Vlaanderen gelokaliseerd is, per voltijds equivalent van een tewerkgestelde doelgroepwerknemer recht op een maximale loonpremie, verstrekt door het agentschap. De maximale loonpremie van het agentschap bedraagt voor&nbsp;de flexibele opvangpool 6.630,59 euro.
 
 ### ART. 36.
 
-Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool voor elk voltijds equivalent tewerkgestelde doelgroepwerknemer recht op een werkingssubsidie van 1445,67 euro op jaarbasis, toegekend door Kind en Gezin.
+Binnen het begrotingskrediet&nbsp;heeft de flexibele opvangpool voor elk voltijds equivalent tewerkgestelde doelgroepwerknemer recht op een werkingssubsidie van 1445,67 euro op jaarbasis, toegekend door het agentschap.
 
 ### ART 36/1.
 
-De&nbsp;flexibele opvangpool, gelokaliseerd in Vlaanderen, heeft, binnen de perken van het begrotingskrediet, recht op een aanvullende omkaderingspremie van 1187,51 euro op jaarbasis, toegekend door Kind en Gezin.
+De&nbsp;flexibele opvangpool, gelokaliseerd in Vlaanderen, heeft, binnen de perken van het begrotingskrediet, recht op een aanvullende omkaderingspremie van 1187,51 euro op jaarbasis, toegekend door het agentschap.
 
 ### ART. 37.
 
@@ -259,7 +269,9 @@ De&nbsp;flexibele opvangpool, gelokaliseerd in Vlaanderen, heeft, binnen de perk
 
 ### ART. 40.
 
-<P>Een   organisator van erkende buitenschoolse groepsopvang met een subsidie voor   initiatief buitenschoolse opvang kan een toestemming en een bijbehorende   subsidie krijgen en behouden voor een lokale dienst als vermeld in dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Organisatoren   van BND-projecten kunnen alleen een toestemming en een bijbehorende subsidiëring   krijgen en behouden voor een lokale dienst voor de BND-projecten waarvoor ze tot   en met 31 december 2007 een subsidie kregen van Kind en Gezin of voor de   projecten lokale diensteneconomie waarvoor ze tot en met 31 december 2007 een   subsidie kregen van het Departement WSE, aangezien er geen nieuwe subsidies meer   zullen worden toegekend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een organisator van erkende buitenschoolse groepsopvang met een subsidie voor initiatief buitenschoolse opvang kan een toestemming en een bijbehorende subsidie krijgen en behouden voor een lokale dienst als vermeld in dit besluit.</p>
+
+<p>Organisatoren van BND-projecten kunnen alleen een toestemming en een bijbehorende subsidiëring krijgen en behouden voor een lokale dienst voor de BND-projecten waarvoor ze tot en met 31 december 2007 een subsidie kregen van het agentschap of voor de projecten lokale diensteneconomie waarvoor ze tot en met 31 december 2007 een subsidie kregen van het Departement WSE, aangezien er geen nieuwe subsidies meer zullen worden toegekend.</p>
 
 ## HOOFDSTUK 2 Voorwaarden
 
@@ -344,7 +356,7 @@ Voor   de prijs die het gezin betaalt, voldoet de organisator aan de volgende   
 
 ### ART. 56.
 
-De   organisator registreert de activiteiten en de bereikte doelgroep volgens de   administratieve richtlijnen van Kind en Gezin en verstrekt de door Kind en Gezin   opgevraagde informatie daarover.
+De organisator registreert de activiteiten en de bereikte doelgroep volgens de administratieve richtlijnen van het agentschap en verstrekt de door het agentschap opgevraagde informatie daarover.
 
 ## Afdeling 3 Personen, werkzaam in de lokale dienst
 
@@ -362,7 +374,7 @@ De lokale dienst heeft de volgende documenten over de verantwoordelijke:<br>
 1° een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, waaruit blijkt dat de persoon van onberispelijk gedrag is om met kinderen om te gaan. Als de verantwoordelijke niet in België gedomicilieerd is, heeft de lokale dienst een gelijkwaardig attest, dat is uitgereikt door de bevoegde buitenlandse instantie;<br>
 2° een kwalificatiebewijs, vastgesteld door de Vlaamse minister, bevoegd voor de bijstand aan personen.<br>
 <br>
-Het uittreksel, vermeld in het eerste lid, 1°, is bij de aanvraag van de toestemming, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere opvanglocatie van de organisator. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
+Het uittreksel, vermeld in het eerste lid, 1°, is bij de aanvraag van de toestemming, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de verantwoordelijke al werkt als verantwoordelijke in een andere opvanglocatie van de organisator. Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip het uittreksel te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat de verantwoordelijke een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.
 
@@ -381,7 +393,7 @@ De kinderbegeleider is minstens achttien jaar oud. De organisator heeft de volge
 <br>
 Het document, vermeld in het eerste lid, 1°, is bij de aanvraag van de toestemming, of bij de start van de tewerkstelling maximaal drie maanden oud, tenzij de kinderbegeleider al werkt als kinderbegeleider in een andere opvanglocatie van de organisator. Als de kinderbegeleider stage loopt, dateert het uittreksel van het lopende schooljaar.<br>
 <br>
-Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat de kinderbegeleider een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.<br>
 <br>
@@ -401,7 +413,7 @@ De organisator heeft de volgende documenten over de doelgroepwerknemer:<br>
 <br>
 Het document, vermeld in het eerste lid, 1°, is bij de start van de tewerkstelling maximaal drie maanden oud.<br>
 <br>
-Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan Kind en Gezin gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
+Het document, vermeld in het eerste lid, 2°, wordt om de drie jaar hernieuwd. Als daar een gegronde indicatie voor is, kan het agentschap gemotiveerd verzoeken om op een bepaald tijdstip een document te vernieuwen.<br>
 <br>
 De organisator zorgt ervoor dat de doelgroepwerknemer een aanvulling op het uittreksel, vermeld in het eerste lid, 1°, onmiddellijk doorgeeft aan de organisator.<br>
 <br>
@@ -411,11 +423,15 @@ De doelgroepwerknemer heeft het document, vermeld in het eerste lid, 2°, uiterl
 
 ### ART. 63.
 
-<P>De   subsidie, toegekend door Kind en Gezin, bedraagt per plaats op jaarbasis   7.077,15 euro.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bedrag, vermeld in het eerste lid, geldt voor een basisaanbod gedurende minstens   tweehonderd openingsdagen en een openingsduur van minstens negen uur op   vakantiedagen, minstens vijf uur op woensdagmiddag en minstens twee uur op een   schooldag. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima   voldaan is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De subsidie, toegekend door het agentschap, bedraagt per plaats op jaarbasis 7.077,15 euro.</p>
+
+<p>Het bedrag, vermeld in het eerste lid, geldt voor een basisaanbod gedurende minstens tweehonderd openingsdagen en een openingsduur van minstens negen uur op vakantiedagen, minstens vijf uur op woensdagmiddag en minstens twee uur op een schooldag. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.</p>
 
 ### ART. 64.
 
-<P>De   organisator kan boven op het bedrag van de subsidie, vermeld in artikel 63, een   aanvullende subsidie krijgen van Kind en Gezin voor een deel van de loonkosten   van doelgroepwerknemers die een functie van kinderbegeleider opnemen. Die   aanvullende subsidie bedraagt maximaal 17.234,59 euro per lokale dienst als de   lokale dienst twee voltijdsequivalenten van doelgroepwerknemers tewerkstelt. Dat   bedrag wordt verhoudingsgewijs verlaagd als er minder doelgroepwerknemers worden   tewerkgesteld.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   tegemoetkoming voor de anciënniteitsontwikkeling bij de doelgroepwerknemers, kan   de aanvullende subsidie, vermeld in het eerste lid, verhoogd worden met een   aanvullend bedrag, op voorwaarde dat daarvoor bijkredieten ter beschikking   gesteld worden. De Vlaamse minister, bevoegd voor de bijstand aan personen,   bepaalt het percentage van de verhoging, dat afhangt van de bijkredieten die ter   beschikking gesteld worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De organisator kan boven op het bedrag van de subsidie, vermeld in artikel 63, een aanvullende subsidie krijgen van het agentschap voor een deel van de loonkosten van doelgroepwerknemers die een functie van kinderbegeleider opnemen. Die aanvullende subsidie bedraagt maximaal 17.234,59 euro per lokale dienst als de lokale dienst twee voltijdsequivalenten van doelgroepwerknemers tewerkstelt. Dat bedrag wordt verhoudingsgewijs verlaagd als er minder doelgroepwerknemers worden tewerkgesteld.</p>
+
+<p>Als tegemoetkoming voor de anciënniteitsontwikkeling bij de doelgroepwerknemers, kan de aanvullende subsidie, vermeld in het eerste lid, verhoogd worden met een aanvullend bedrag, op voorwaarde dat daarvoor bijkredieten ter beschikking gesteld worden. De Vlaamse minister, bevoegd voor de bijstand aan personen, bepaalt het percentage van de verhoging, dat afhangt van de bijkredieten die ter beschikking gesteld worden.</p>
 
 ### ART. 65.
 
@@ -423,7 +439,9 @@ Het Departement WSE kent een vergoeding als vermeld in artikel 2/1 toe.
 
 ### ART. 66.
 
-<P>De   lokale dienst in het tweetalige gebied Brussel-Hoofdstad kan boven op het bedrag   van de subsidie, vermeld in artikel 63, en het bedrag van de aanvullende   subsidie, vermeld in artikel 64, een omkaderingspremie krijgen van Kind en Gezin   van maximaal 13.545,20 euro op jaarbasis. Daarvoor neemt de lokale dienst   minimaal één doelgroepwerknemer in de functie kinderbegeleider in   dienst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   omkaderingspremie, vermeld in het eerste lid, wordt aantoonbaar ingezet om de   begeleidingstrajecten en opleidingstrajecten voor de doelgroepwerknemers te   ontwikkelen en te organiseren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De lokale dienst in het tweetalige gebied Brussel-Hoofdstad kan boven op het bedrag van de subsidie, vermeld in artikel 63, en het bedrag van de aanvullende subsidie, vermeld in artikel 64, een omkaderingspremie krijgen van het agentschap van maximaal 13.545,20 euro op jaarbasis. Daarvoor neemt de lokale dienst minimaal één doelgroepwerknemer in de functie kinderbegeleider in dienst.</p>
+
+<p>De omkaderingspremie, vermeld in het eerste lid, wordt aantoonbaar ingezet om de begeleidingstrajecten en opleidingstrajecten voor de doelgroepwerknemers te ontwikkelen en te organiseren.</p>
 
 ### ART. 67.
 
@@ -455,7 +473,7 @@ De organisator van een vergunde groepsopvang met subsidie voor dringende kindero
 
 ### ART. 70.
 
-<p>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken uitgevoerd. De flexibele opvangpool of de lokale dienst verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of stukken over de werking.</p>
+<p>Het agentschap ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken uitgevoerd. De flexibele opvangpool of de lokale dienst verstrekt daarvoor de door het agentschap gevraagde inlichtingen of stukken over de werking.</p>
 
 <p>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van Zorginspectie.</p>
 
@@ -463,7 +481,7 @@ De organisator van een vergunde groepsopvang met subsidie voor dringende kindero
 
 ### ART. 71.
 
-<p>Kind en Gezin kan de erkenning en de bijbehorende subsidie op elk moment geheel of gedeeltelijk en definitief of tijdelijk opheffen of schorsen als :<br>
+<p>Het agentschap kan de erkenning en de bijbehorende subsidie op elk moment geheel of gedeeltelijk en definitief of tijdelijk opheffen of schorsen als :<br>
 1° de werking als flexibele opvangpool niet is opgestart binnen drie maanden na de in de aanvraag vermelde startdatum of als de opdrachten van de flexibele opvangpool, vermeld in artikel 23 tot en met 33, gedurende minstens een maand onderbroken worden, tenzij de organisator als flexibele opvangpool buiten zijn wil om geen doelgroepwerknemers kan begeleiden;<br>
 2° wordt vastgesteld dat niet langer voldaan is aan de voorwaarden, vermeld in artikel 6 tot en met 16;<br>
 3° het Departement WSE daarom verzoekt voor&nbsp;flexibele opvangpools in Vlaanderen, om redenen die rechtstreeks verband houden met de tewerkstelling of begeleiding van doelgroepwerknemers.</p>
@@ -477,7 +495,12 @@ De organisator van een vergunde groepsopvang met subsidie voor dringende kindero
 
 ### ART. 72.
 
-<P>De   toestemming en de bijbehorende subsidie kunnen op elk moment geheel of   gedeeltelijk worden opgeheven door Kind en Gezin als :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   vastgesteld wordt dat niet langer voldaan wordt aan de voorwaarden, vermeld in   artikel 41 tot en met 62;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   vastgesteld wordt dat de psychische of fysieke integriteit van de opgevangen   kinderen niet langer gegarandeerd kan worden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het Departement WSE daarom verzoekt om redenen die rechtstreeks verband houden   met de tewerkstelling of begeleiding van doelgroepwerknemers.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   een lokale dienst in het tweetalige gebied Brussel-Hoofdstad is de bepaling,   vermeld in het eerste lid, 3°, niet van toepassing.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De toestemming en de bijbehorende subsidie kunnen op elk moment geheel of gedeeltelijk worden opgeheven door het agentschap als :<br>
+1° vastgesteld wordt dat niet langer voldaan wordt aan de voorwaarden, vermeld in artikel 41 tot en met 62;<br>
+2° vastgesteld wordt dat de psychische of fysieke integriteit van de opgevangen kinderen niet langer gegarandeerd kan worden;<br>
+3° het Departement WSE daarom verzoekt om redenen die rechtstreeks verband houden met de tewerkstelling of begeleiding van doelgroepwerknemers.</p>
+
+<p>Voor een lokale dienst in het tweetalige gebied Brussel-Hoofdstad is de bepaling, vermeld in het eerste lid, 3°, niet van toepassing.</p>
 
 ## HOOFDSTUK 4 Stopzetting van de subsidie voor vergunde groepsopvang
 
@@ -491,35 +514,50 @@ Het Departement WSE kan de eigen subsidie, vermeld in artikel 69 en 69/1, op elk
 
 ### ART. 74.
 
-<p>De organisator met een erkenning als&nbsp;flexibele opvangpool in Vlaanderen, kan bezwaar aantekenen bij Kind en Gezin tegen de opheffing van de erkenning, tenzij de erkenning opgeheven is met toepassing van artikel 71, eerste lid, 3°.</p>
+<p>De organisator met een erkenning als&nbsp;flexibele opvangpool in Vlaanderen, kan bezwaar aantekenen bij het agentschap tegen de opheffing van de erkenning, tenzij de erkenning opgeheven is met toepassing van artikel 71, eerste lid, 3°.</p>
 
 <p>De organisator kan beroep aantekenen bij de Vlaamse minister, bevoegd voor de sociale economie, tegen de opheffing van de erkenning met toepassing van artikel 71, eerste lid, 3°.</p>
 
 ### ART. 75.
 
-<P>De   organisator dient uiterlijk dertig dagen na de kennisname van de beslissing,   vermeld in artikel 71, eerste lid, 1° en 2°, met een aangetekende brief bezwaar   in op het adres van de hoofdzetel van Kind en Gezin als het gaat om een van de   bezwaren, vermeld in artikel 74, eerste lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bezwaarschrift bevat minstens :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de naam en het adres van de organisator;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de ontvangstdatum van de betwiste beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een uitvoerige motivering;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de datum van de instelling van het bezwaar;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   de naam en de handtekening van de voorzitter van de organisator.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Bezwaren   die niet voldoen aan de voorwaarden, vermeld in het eerste en het tweede lid,   zijn niet ontvankelijk.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De organisator dient uiterlijk dertig dagen na de kennisname van de beslissing, vermeld in artikel 71, eerste lid, 1° en 2°, met een aangetekende brief bezwaar in op het adres van de hoofdzetel van het agentschap als het gaat om een van de bezwaren, vermeld in artikel 74, eerste lid.</p>
+
+<p>Het bezwaarschrift bevat minstens :<br>
+1° de naam en het adres van de organisator;<br>
+2° de ontvangstdatum van de betwiste beslissing;<br>
+3° een uitvoerige motivering;<br>
+4° de datum van de instelling van het bezwaar;<br>
+5° de naam en de handtekening van de voorzitter van de organisator.</p>
+
+<p>Bezwaren die niet voldoen aan de voorwaarden, vermeld in het eerste en het tweede lid, zijn niet ontvankelijk.</p>
 
 ### ART. 76.
 
-Kind   en Gezin beslist over de ontvankelijkheid van het bezwaar en brengt de   organisator daarvan met een aangetekende brief op de hoogte binnen eenentwintig   dagen na de ontvangst van het bezwaar.
+Het agentschap beslist over de ontvankelijkheid van het bezwaar en brengt de organisator daarvan met een aangetekende brief op de hoogte binnen eenentwintig dagen na de ontvangst van het bezwaar.
 
 ### ART. 77.
 
-&nbsp;Het bezwaar schorst de uitvoering van   de beslissing, behalve als een ernstig gevaar voor de opgevangen kinderen, de   gezinnen, het personeel of de onmiddellijke omgeving dreigt. Kind en Gezin   beslist in dat geval over het opschortende karakter van het bezwaar en brengt de   organisator daarvan met een aangetekende brief op de hoogte, binnen vijftien   dagen na de ontvangst van het bezwaar.
+&nbsp;Het bezwaar schorst de uitvoering van de beslissing, behalve als een ernstig gevaar voor de opgevangen kinderen, de gezinnen, het personeel of de onmiddellijke omgeving dreigt. Het agentschap beslist in dat geval over het opschortende karakter van het bezwaar en brengt de organisator daarvan met een aangetekende brief op de hoogte, binnen vijftien dagen na de ontvangst van het bezwaar.
 
 ### ART. 78.
 
-<P>Kind   en Gezin bezorgt, binnen vijftien dagen na de ontvangst ervan, het ontvankelijke   bezwaarschrift samen met het volledige administratieve dossier en eventuele   verweermiddelen aan de Adviescommissie voor Voorzieningen van Welzijn,   Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in het decreet van   7 december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.   Kind en Gezin bezorgt tegelijkertijd een kopie van het bezwaar aan de Vlaamse   minister, bevoegd voor de bijstand aan personen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Als   het beroep wordt ingesteld op basis van artikel 71, 3°, bezorgt Kind en Gezin,   in afwijking van het eerste lid, het beroep aan het Departement WSE binnen   vijftien dagen na de ontvangst van het ontvankelijke   beroepschrift.</P>
+<p>Het agentschap bezorgt, binnen vijftien dagen na de ontvangst ervan, het ontvankelijke bezwaarschrift samen met het volledige administratieve dossier en eventuele verweermiddelen aan de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, vermeld in het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers. Het agentschap bezorgt tegelijkertijd een kopie van het bezwaar aan de Vlaamse minister, bevoegd voor de bijstand aan personen.</p>
+
+<p>Als het beroep wordt ingesteld op basis van artikel 71, 3°, bezorgt het agentschap, in afwijking van het eerste lid, het beroep aan het Departement WSE binnen vijftien dagen na de ontvangst van het ontvankelijke beroepschrift.</p>
 
 ### ART. 79.
 
-<P>Het   bezwaar, vermeld in artikel 78, eerste lid, van dit besluit, wordt behandeld   volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk 3 van   het decreet van 7 december 2007 houdende oprichting van de Strategische   Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   beroep, vermeld in artikel 78, tweede lid, van dit besluit, wordt behandeld   volgens de bepalingen, vermeld in artikel 84, eerste en tweede lid, van dit   besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin deelt de definitieve beslissing uiterlijk eenentwintig dagen nadat de   Vlaamse minister, bevoegd voor de bijstand aan personen, of de leidend ambtenaar   van Kind en Gezin zijn beslissing heeft genomen, met een aangetekende brief mee   aan de indiener van het bezwaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het bezwaar, vermeld in artikel 78, eerste lid, van dit besluit, wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk 3 van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</p>
+
+<p>Het beroep, vermeld in artikel 78, tweede lid, van dit besluit, wordt behandeld volgens de bepalingen, vermeld in artikel 84, eerste en tweede lid, van dit besluit.</p>
+
+<p>Het agentschap deelt de definitieve beslissing uiterlijk eenentwintig dagen nadat de Vlaamse minister, bevoegd voor de bijstand aan personen, of de leidend ambtenaar van het agentschap zijn beslissing heeft genomen, met een aangetekende brief mee aan de indiener van het bezwaar.</p>
 
 ## HOOFDSTUK 2 Lokale dienst
 
 ### ART. 80.
 
-&nbsp;De organisator kan bezwaar aantekenen   bij Kind en Gezin tegen de opheffing van de toestemming en de bijbehorende   subsidie, met toepassing van artikel 72, eerste lid, 1° tot en met 3°, of   artikel 73.
+&nbsp;De organisator kan bezwaar aantekenen bij het agentschap tegen de opheffing van de toestemming en de bijbehorende subsidie, met toepassing van artikel 72, eerste lid, 1° tot en met 3°, of artikel 73.
 
 ### ART. 81.
 
@@ -527,15 +565,21 @@ Het   ingediende bezwaar schorst de beslissing niet.
 
 ### ART. 82.
 
-<P>Als   het bezwaar wordt ingesteld tegen de opheffing in de gevallen, vermeld in   artikel 72, eerste lid, 1° of 2°, of artikel 73, van dit besluit, wordt dat   bezwaar behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering   van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin bezorgt, binnen vijftien dagen na de ontvangst ervan, het ontvankelijke   bezwaarschrift samen met het volledige administratieve dossier en eventuele   verweermiddelen aan de Adviescommissie, vermeld in het eerste lid. Kind en Gezin   bezorgt tegelijkertijd een kopie van het bezwaar aan de Vlaamse minister,   bevoegd voor de bijstand aan personen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Als het bezwaar wordt ingesteld tegen de opheffing in de gevallen, vermeld in artikel 72, eerste lid, 1° of 2°, of artikel 73, van dit besluit, wordt dat bezwaar behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</p>
+
+<p>Het agentschap bezorgt, binnen vijftien dagen na de ontvangst ervan, het ontvankelijke bezwaarschrift samen met het volledige administratieve dossier en eventuele verweermiddelen aan de Adviescommissie, vermeld in het eerste lid. Het agentschap bezorgt tegelijkertijd een kopie van het bezwaar aan de Vlaamse minister, bevoegd voor de bijstand aan personen.</p>
 
 ### ART. 83.
 
-Als   het beroep wordt ingesteld tegen de intrekking in het geval, vermeld in artikel   72, eerste lid, 3°, en artikel 73, bezorgt Kind en Gezin het beroep aan de   Vlaamse minister, bevoegd voor de sociale economie.
+Als het beroep wordt ingesteld tegen de intrekking in het geval, vermeld in artikel 72, eerste lid, 3°, en artikel 73, bezorgt het agentschap het beroep aan de Vlaamse minister, bevoegd voor de sociale economie.
 
 ### ART. 84.
 
-<P>Het   Departement WSE verstrekt binnen veertig dagen na de ontvangst van het beroep,   vermeld in artikel 83, een met redenen omkleed advies aan de Vlaamse minister,   bevoegd voor de sociale economie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse minister, bevoegd voor de sociale economie, deelt binnen zestig dagen na   de ontvangst van het advies van het Departement WSE zijn beslissing mee aan Kind   en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin brengt de indiener van het beroep, uiterlijk eenentwintig dagen na de   ontvangst van de beslissing, met een aangetekende brief op de hoogte van de   beslissing van de Vlaamse minister, bevoegd voor de sociale   economie.</P>
+<p>Het Departement WSE verstrekt binnen veertig dagen na de ontvangst van het beroep, vermeld in artikel 83, een met redenen omkleed advies aan de Vlaamse minister, bevoegd voor de sociale economie.</p>
+
+<p>De Vlaamse minister, bevoegd voor de sociale economie, deelt binnen zestig dagen na de ontvangst van het advies van het Departement WSE zijn beslissing mee aan het agentschap.</p>
+
+<p>Het agentschap brengt de indiener van het beroep, uiterlijk eenentwintig dagen na de ontvangst van de beslissing, met een aangetekende brief op de hoogte van de beslissing van de Vlaamse minister, bevoegd voor de sociale economie.</p>
 
 ## Titel 7 Slotbepalingen
 
