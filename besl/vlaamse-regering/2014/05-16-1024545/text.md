@@ -27,8 +27,9 @@
 ### ART. 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° afzonderlijke binnenruimte: een ruimte waar de organisator exclusief buitenschoolse opvang realiseert en die gescheiden is door wanden van vloer tot plafond van een of meer andere ruimtes gelegen op dezelfde locatie waarvoor de organisator een vergunning heeft. De organisator zorgt daarbij voor een gescheiden werking;<br>
-2° attest van toezicht: een attest van toezicht voor buitenschoolse gezinsopvang of groepsopvang, met uitzondering van het attest van toezicht voor vakantieopvang, toegekend door Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.<br>
+1°/1 afzonderlijke binnenruimte: een ruimte waar de organisator exclusief buitenschoolse opvang realiseert en die gescheiden is door wanden van vloer tot plafond van een of meer andere ruimtes gelegen op dezelfde locatie waarvoor de organisator een vergunning heeft. De organisator zorgt daarbij voor een gescheiden werking;<br>
+2° attest van toezicht: een attest van toezicht voor buitenschoolse gezinsopvang of groepsopvang, met uitzondering van het attest van toezicht voor vakantieopvang, toegekend door het agentschap met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 3° buitenschoolse opvang: de opvang van kinderen die naar de basisschool, vermeld in artikel 3, 6°, van het decreet van 25 februari 1997 betreffende het basisonderwijs, gaan, met uitzondering van:<br>
 a) het verstrekken van onderwijs;<br>
 b) de activiteiten van internaten;<br>
@@ -37,20 +38,20 @@ d) jeugdhulp, zoals gedefinieerd in artikel 2, 5°, van het decreet van 7 mei 20
 e) het bieden van exclusieve zorg aan kinderen met een handicap;<br>
 f) het bieden van gezondheidszorg aan kinderen;<br>
 g) het passen op kinderen van klanten of bezoekers;<br>
-4° dienst voor onthaalouders: de voorziening die vóór 1 april 2014 erkend was door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders;<br>
+4° dienst voor onthaalouders: de voorziening die vóór 1 april 2014 erkend was door het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders;<br>
 5° equivalentvolle plaats: een opvangplaats uitgedrukt in een equivalent aan volle plaatsen voor het geheel van alle opvanglocaties van een organisator met een subsidie voor initiatief buitenschoolse opvang waarvoor de organisator die subsidie ontvangt. Een volle plaats is een opvangplaats die op alle volgende tijdstippen wordt ingezet en waarbij de volgende verdeelsleutel wordt gebruikt voor verhoudingsgewijze vermindering als de opvangplaats op een beperkt aantal tijdstippen wordt ingezet:<br>
 a) vóór schooltijd: 12,54%;<br>
 b) na schooltijd: 25,08%;<br>
 c) op woensdagnamiddag: 14,11%;<br>
 d) op schoolvrije dagen: 3,72%;<br>
 e) gedurende een of meer schoolvakanties: 44,55%;<br>
-6° erkenning: een erkenning voor buitenschoolse gezinsopvang of groepsovpang, toegekend door Kind en Gezin met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
+6° erkenning: een erkenning voor buitenschoolse gezinsopvang of groepsovpang, toegekend door het agentschap met toepassing van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 7° flexibele openingstijden: een openingstijd minstens 30 minuten voor 7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of, voor groepsopvang, op een of meerdere dagen boven op de vereiste minimale openingsdagen;<br>
-8° gesubsidieerde opvangplaats: een opvangplaats waarvoor Kind en Gezin een subsidie betaalt aan de organisator;<br>
+8° gesubsidieerde opvangplaats: een opvangplaats waarvoor het agentschap een subsidie betaalt aan de organisator;<br>
 9° gezinsopvang: de opvang buiten de gezinswoning van het kind voor maximaal acht tegelijk aanwezige kinderen;<br>
 10° groepsopvang: de opvang buiten de gezinswoning van het kind met minimaal negen tegelijk aanwezige kinderen;<br>
 11° kinderbegeleider: de persoon die door de organisator is aangewezen om de kinderen op te voeden, bij te dragen tot hun ontwikkeling en hen te verzorgen;<br>
-12° kinderdagverblijf: de voorziening die voor 1 april 20014 erkend was door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, met uitzondering van de buitenschoolse opvang in aparte lokalen;<br>
+12° kinderdagverblijf: de voorziening die voor 1 april 20014 erkend was door het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, met uitzondering van de buitenschoolse opvang in aparte lokalen;<br>
 13° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
 14° occasionele opvang: de opvang van een kind gedurende een periode van maximaal zes maanden ongeacht de intensiteit van het gebruik, voor een van de volgende redenen:<br>
 a) de ouder werkt niet en start met een opleiding;<br>
@@ -63,16 +64,16 @@ f) voor het kind is om sociale of pedagogische motieven gedurende de dag opvang 
 16° opvangprestatie: de aanwezigheid van een kind dat naar de basisschool gaat per opvangmoment per opvanglocatie;<br>
 17° organisator: de natuurlijke persoon of de rechtspersoon die buitenschoolse opvang organiseert;<br>
 18° subsidie voor inclusieve buitenschoolse opvang: de subsidie voor de realisatie van opdrachten in het kader van inclusieve buitenschoolse opvang van kinderen met een specifieke zorgbehoefte. Binnen die subsidie zijn er drie vormen te onderscheiden:<br>
-a) subsidie voor individuele inclusieve buitenschoolse opvang: de subsidie voor de realisatie van inclusieve buitenschoolse opvang van een individueel kind met een specifieke zorgbehoefte voor wie Kind en Gezin een specifieke toekenning van bepaalde duur deed;<br>
+a) subsidie voor individuele inclusieve buitenschoolse opvang: de subsidie voor de realisatie van inclusieve buitenschoolse opvang van een individueel kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur deed;<br>
 b) subsidie voor structurele inclusieve buitenschoolse opvang: de subsidie voor de realisatie van de structurele uitbouw van inclusieve buitenschoolse opvang binnen een opvanglocatie;<br>
 c) subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve buitenschoolse opvang, de verspreiding van expertise en sensibiliseren inzake inclusieve buitenschoolse opvang, in samenwerking met andere actoren die instaan voor inclusie,;<br>
-19° subsidieerbare opvangplaats: een opvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van Kind en Gezin beschikt;<br>
+19° subsidieerbare opvangplaats: een opvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van het agentschap beschikt;<br>
 20° urenpakket: een gesubsidieerd pakket dat de organisator moet inzetten voor opvang op flexibele openingstijden;<br>
 21° verantwoordelijke: de persoon die instaat voor het dagelijks regelen van de kwaliteitsvolle werking van de opvanglocatie;<br>
-22° vergunning: een vergunning voor gezinsopvang of groepsopvang, toegekend door Kind en Gezin met toepassing van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+22° vergunning: een vergunning voor gezinsopvang of groepsopvang, toegekend door het agentschap met toepassing van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 22° /1 werknemer in het kader van het generatiepact: een werknemer voor wie een organisator aanspraak kan maken op een tegemoetkoming conform het koninklijk besluit van 27 april 2007 houdende de algemene uitvoeringsbepalingen van de maatregelen ten gunste van tewerkstelling van jongeren in social profitsector voortspruitend uit de wet van 23 december 2005 betreffende het generatiepact;<br>
-23° zelfstandig kinderdagverblijf: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen;<br>
-24° zelfstandige onthaalouder: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door Kind en Gezin op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen.
+23° zelfstandig kinderdagverblijf: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door het agentschap op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen;<br>
+24° zelfstandige onthaalouder: de voorziening aan wie voor 1 april 2014 een subsidie werd toegekend door het agentschap op basis van het besluit van de Vlaamse Regering van 30 april 2009 houdende de regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen.
 
 ### ART. 2.
 
@@ -80,7 +81,9 @@ c) subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren va
 
 ### ART. 3.
 
-<P>Kind en Gezin kan aan een organisator met een erkenning, een attest van   toezicht of een vergunning subsidies toekennen voor de realisatie van specifieke   dienstverlening voor buitenschoolse gezinsopvang of groepsopvang, vermeld in dit   besluit.<BR></P>  <P>De subsidies kunnen alleen binnen de perken van het daarvoor vastgelegde   budget worden toegekend.<BR></P>
+<p>Het agentschap kan aan een organisator met een erkenning, een attest van toezicht of een vergunning subsidies toekennen voor de realisatie van specifieke dienstverlening voor buitenschoolse gezinsopvang of groepsopvang, vermeld in dit besluit.</p>
+
+<p>De subsidies kunnen alleen binnen de perken van het daarvoor vastgelegde budget worden toegekend.</p>
 
 ## Afdeling 2 Besluit 2012/21/EU
 
@@ -90,7 +93,9 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU   van 
 
 ### ART. 5.
 
-<P>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van   specifieke dienstverlening als vermeld in dit besluit, geldt de subsidie voor   een duur van tien jaar vanaf de eerste subsidieerbare opvangplaats. <BR></P>  <P>Kind en Gezin en de toezichthouders voeren op regelmatige basis, uiterlijk om   de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen   van dit besluit.<BR></P>
+<p>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van specifieke dienstverlening als vermeld in dit besluit, geldt de subsidie voor een duur van tien jaar vanaf de eerste subsidieerbare opvangplaats.</p>
+
+<p>Het agentschap en de toezichthouders voeren op regelmatige basis, uiterlijk om de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen van dit besluit.</p>
 
 ### ART. 6.
 
@@ -98,7 +103,13 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU   van 
 
 ### ART. 7.
 
-<P>De organisator kan op de volgende wijze reserves opbouwen met de subsidies,   vermeld in dit besluit:<BR>1° de reserves worden aangewend om de specifieke   dienstverlening, vermeld in dit besluit, te kunnen realiseren;<BR>2° maximaal   20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve   overgedragen worden naar het volgende kalenderjaar;<BR>3° de gecumuleerde   reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is   maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ; <BR>4° als   het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het   overschreden bedrag teruggestort aan Kind en Gezin, tenzij de organisator een   aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria,   waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse   overheid.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer de criteria waaraan het   aanwendingsplan of aanzuiveringsplan moet voldoen.<BR></P>
+<p>De organisator kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit:<br>
+1° de reserves worden aangewend om de specifieke dienstverlening, vermeld in dit besluit, te kunnen realiseren;<br>
+2° maximaal 20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
+3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij de organisator een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer de criteria waaraan het aanwendingsplan of aanzuiveringsplan moet voldoen.</p>
 
 ## Afdeling 3 Voorbehoud
 
@@ -122,11 +133,15 @@ Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsinde
 
 ### ART. 10.
 
-<P>De subsidies worden betaald met voorschotten per kwartaal en een   saldoafrekening uiterlijk op 1 april van het kalenderjaar volgend op het   kalenderjaar in kwestie. Als de gegevens die de basis vormen voor de berekening   van de subsidies, fout zijn, kan er een rechtzetting komen.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer welke gegevens de   organisator aan Kind en Gezin moet bezorgen. <BR></P>
+<p>De subsidies worden betaald met voorschotten per kwartaal en een saldoafrekening uiterlijk op 1 april van het kalenderjaar volgend op het kalenderjaar in kwestie. Als de gegevens die de basis vormen voor de berekening van de subsidies, fout zijn, kan er een rechtzetting komen.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer welke gegevens de organisator aan het agentschap moet bezorgen.</p>
 
 ### ART. 11.
 
-<P>De organisator bezorgt gegevens aan Kind en Gezin volgens de administratieve   richtlijnen van Kind en Gezin met het oog op de beleidsdoeleinden, zoals het in   kaart brengen van het gebruik van en van het aanbod aan buitenschoolse opvang   die een subsidie krijgt van Kind en Gezin, in het kader van de opvolging van de   subsidie of in het kader van handhaving.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer welke gegevens de   organisator aan Kind en Gezin moet bezorgen.<BR></P>
+<p>De organisator bezorgt gegevens aan het agentschap volgens de administratieve richtlijnen van het agentschap met het oog op de beleidsdoeleinden, zoals het in kaart brengen van het gebruik van en van het aanbod aan buitenschoolse opvang die een subsidie krijgt van het agentschap, in het kader van de opvolging van de subsidie of in het kader van handhaving.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer welke gegevens de organisator aan het agentschap moet bezorgen.</p>
 
 ## HOOFDSTUK 2 Subsidie voor basisaanbod buitenschoolse opvang
 
@@ -522,7 +537,16 @@ De organisator zorgt ervoor dat er voor kinderen met een specifieke   zorgbehoef
 
 ### ART. 85.
 
-<P>De organisator zorgt voor:<BR>1° het realiseren van een proactief   opnamebeleid om kinderen met een specifieke zorgbehoefte een opvangplaats te   geven in een of meer eigen kinderopvanglocaties, in samenwerking met andere   organisatoren, met instanties die werken met gezinnen met een kind met een   specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de   zorgregio;<BR>2° het realiseren van inclusieve kinderopvang in een of meer eigen   kinderopvanglocaties, waarbij wordt samengewerkt met een netwerk van beschikbare   instellingen of zorgverleners met een specifieke expertise in verband met   kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan   voor samenwerking, of met belangenverenigingen van gezinnen als   ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 87,   gerealiseerd worden;<BR>3° het uitbouwen en verspreiden van expertise tot de   realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in   samenwerking met door Kind en Gezin erkende pedagogische   ondersteuningsorganisaties en met het lokaal overleg kinderopvang, met   specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere   organisatoren kinderopvang bij de realisatie van inclusieve kinderopvang. Het   doel daarbij is dat minstens zeven kinderopvanglocaties minstens één kind met   een specifieke zorgbehoefte opvangen;<BR>4° het mee uitvoeren van lokale en   provinciale doelstellingen op het vlak van inclusie, zoals opgenomen in de   meerjarenplanning van het lokaal of provinciaal bestuur, in samenwerking met het   lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die   instaan voor de begeleiding van personen met een handicap of voor het beleid   daarrond;<BR>5° het sensibiliseren van organisatoren van kinderopvang en   partners binnen de zorgregio voor de realisatie van inclusieve   kinderopvang;<BR>6° het informeren van en voorzien in inspraak voor gezinnen en   belanghebbenden, bij de opdrachten, vermeld in punt 1° tot en met 4° ;<BR>7° een   aangepaste personeelsinzet voor de realisatie van de opdrachten, vermeld in punt   1° tot en met 6°. <BR></P>  <P>De kinderopvanglocaties, vermeld in het eerste lid, 3°, liggen binnen de   zorgregio van de organisator en zijn van andere organisatoren. Voor een   organisator van gezinsopvang geldt daarbij dat de eigen kinderbegeleiders niet   meegeteld kunnen worden voor het aantal te begeleiden   kinderopvanglocaties.<BR></P>
+<p>De organisator zorgt voor:<br>
+1° het realiseren van een proactief opnamebeleid om kinderen met een specifieke zorgbehoefte een opvangplaats te geven in een of meer eigen kinderopvanglocaties, in samenwerking met andere organisatoren, met instanties die werken met gezinnen met een kind met een specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de zorgregio;<br>
+2° het realiseren van inclusieve kinderopvang in een of meer eigen kinderopvanglocaties, waarbij wordt samengewerkt met een netwerk van beschikbare instellingen of zorgverleners met een specifieke expertise in verband met kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan voor samenwerking, of met belangenverenigingen van gezinnen als ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 87, gerealiseerd worden;<br>
+3° het uitbouwen en verspreiden van expertise tot de realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in samenwerking met door het agentschap erkende pedagogische ondersteuningsorganisaties en met het lokaal overleg kinderopvang, met specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere organisatoren kinderopvang bij de realisatie van inclusieve kinderopvang. Het doel daarbij is dat minstens zeven kinderopvanglocaties minstens één kind met een specifieke zorgbehoefte opvangen;<br>
+4° het mee uitvoeren van lokale en provinciale doelstellingen op het vlak van inclusie, zoals opgenomen in de meerjarenplanning van het lokaal of provinciaal bestuur, in samenwerking met het lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die instaan voor de begeleiding van personen met een handicap of voor het beleid daarrond;<br>
+5° het sensibiliseren van organisatoren van kinderopvang en partners binnen de zorgregio voor de realisatie van inclusieve kinderopvang;<br>
+6° het informeren van en voorzien in inspraak voor gezinnen en belanghebbenden, bij de opdrachten, vermeld in punt 1° tot en met 4° ;<br>
+7° een aangepaste personeelsinzet voor de realisatie van de opdrachten, vermeld in punt 1° tot en met 6°.</p>
+
+<p>De kinderopvanglocaties, vermeld in het eerste lid, 3°, liggen binnen de zorgregio van de organisator en zijn van andere organisatoren. Voor een organisator van gezinsopvang geldt daarbij dat de eigen kinderbegeleiders niet meegeteld kunnen worden voor het aantal te begeleiden kinderopvanglocaties.</p>
 
 ### ART. 86.
 
@@ -538,7 +562,7 @@ Het aantal kinderen met een specifieke zorgbehoefte bedraagt maximaal een   derd
 
 ### ART. 89.
 
-De organisator neemt actief deel aan het begeleidingstraject voor de   uitbouw van de Centra voor inclusieve kinderopvang dat Kind en Gezin in   samenwerking met het Vlaams Agentschap voor Personen met een Handicap   organiseert.<BR>
+De organisator neemt actief deel aan het begeleidingstraject voor de uitbouw van de Centra voor inclusieve kinderopvang dat het agentschap in samenwerking met het Vlaams Agentschap voor Personen met een Handicap organiseert.
 
 ## [HOOFDSTUK 10 Subsidie voor ex-generatiepact (verv. BVR 6 oktober 2017, art. 2, I: 15 maart 2017)]
 
@@ -546,7 +570,7 @@ De organisator neemt actief deel aan het begeleidingstraject voor de   uitbouw v
 
 ### ART 89/1.
 
-Een organisator van opvanglocaties in het Nederlandse taalgebied die een tegemoetkoming krijgt of kreeg voor een aantal voltijdsequivalenten van werknemers in het kader van het generatiepact, kan een subsidie voor ex-generatiepact krijgen van Kind en Gezin, conform artikel 89/2 tot en met 89/5.<br>
+Een organisator van opvanglocaties in het Nederlandse taalgebied die een tegemoetkoming krijgt of kreeg voor een aantal voltijdsequivalenten van werknemers in het kader van het generatiepact, kan een subsidie voor ex-generatiepact krijgen van het agentschap, conform artikel 89/2 tot en met 89/5.<br>
 <br>
 De subsidie voor ex-generatiepact kan op zijn vroegst worden toegekend vanaf het moment dat een werknemer geen tegemoetkoming meer krijgt in het kader van het generatiepact.<br>
 <br>
@@ -608,15 +632,19 @@ Als er na de toekenning van de subsidie conform artikel 89/2 en 89/3 nog middele
 
 ### ART. 95.
 
-<P>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het   toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De   organisator verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of   stukken over de werking. <BR></P>  <P>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein.</P>
+<p>Het agentschap ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De organisator verstrekt daarvoor de door het agentschap gevraagde inlichtingen of stukken over de werking.</p>
+
+<p>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.</p>
 
 ### ART. 96.
 
-Als wordt vastgesteld dat een organisator de bepalingen, vermeld in dit   besluit, niet naleeft, wordt de organisator schriftelijk aangemaand door Kind en   Gezin. Die aanmaning vermeldt een termijn waarin de organisator moet voldoen aan   de niet-nageleefde bepalingen, en kan specifiek voorwaarden bevatten om te   voldoen aan de niet-nageleefde bepalingen.<BR>
+Als wordt vastgesteld dat een organisator de bepalingen, vermeld in dit besluit, niet naleeft, wordt de organisator schriftelijk aangemaand door het agentschap. Die aanmaning vermeldt een termijn waarin de organisator moet voldoen aan de niet-nageleefde bepalingen, en kan specifiek voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.
 
 ### ART. 97.
 
-Met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof, kan Kind   en Gezin de subsidie verminderen, schorsen of stopzetten als de   organisator:<BR>1° de bepalingen, vermeld in dit besluit, niet naleeft;<BR>2°   het toezicht verhindert.<BR>
+Met behoud van de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, kan het agentschap de subsidie verminderen, schorsen of stopzetten als de organisator:<br>
+1° de bepalingen, vermeld in dit besluit, niet naleeft;<br>
+2° het toezicht verhindert.
 
 ## HOOFDSTUK 12 Slotbepalingen
 
@@ -630,7 +658,7 @@ Het besluit van de Vlaamse Regering van 2 april 2010 houdende subsidiëring   va
 
 ### ART. 99.
 
-Voor de opvanglocaties die met toepassing van de regelgeving die van   kracht is op de datum van inwerkingtreding van dit besluit, een subsidie voor   buitenschoolse opvang ontvangen van Kind en Gezin, wordt die subsidie   automatisch omgezet in de subsidies die ermee overeenstemmen, vermeld in dit   besluit, toegekend aan de organisator. De omzetting heeft betrekking op   hetzelfde aantal gesubsidieerde opvangplaatsen.<BR>
+Voor de opvanglocaties die met toepassing van de regelgeving die van kracht is op de datum van inwerkingtreding van dit besluit, een subsidie voor buitenschoolse opvang ontvangen van het agentschap, wordt die subsidie automatisch omgezet in de subsidies die ermee overeenstemmen, vermeld in dit besluit, toegekend aan de organisator. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde opvangplaatsen.
 
 ### ART. 100.
 
