@@ -10,13 +10,14 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<br>
-1° basissubsidie : de subsidie voor de realisatie van een basisaanbod met een werking, vermeld in artikel 7 van het decreet van 20 april 2012;<br>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 basissubsidie : de subsidie voor de realisatie van een basisaanbod met een werking, vermeld in artikel 7 van het decreet van 20 april 2012;<br>
 2° contracthouder : de persoon uit het gezin waarmee de organisator een schriftelijke overeenkomst voor kinderopvang heeft;<br>
 3° decreet van 20 april 2012 : het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
-3° /1 ...;<br>
+3° /1 flexibele openingstijden: een openingstijd van minstens 30 minuten voor 7 uur, minstens 30 minuten na 18 uur, op een weekenddag, op een feestdag, of, voor groepsopvang, op een of meer dagen boven op de 220 openingsdagen die minimaal vereist zijn voor een basissubsidie;<br>
 3° /2 formeel document: hetzij een inkomensbewijs, hetzij een formele bevestiging van het inkomen door een instantie of de organisator die voorzien is van een datum en een handtekening;<br>
-4° gesubsidieerde kinderopvangplaats : een kinderopvangplaats waarvoor Kind en Gezin een subsidie betaalt aan de organisator;<br>
+4° gesubsidieerde kinderopvangplaats : een kinderopvangplaats waarvoor het agentschap een subsidie betaalt aan de organisator;<br>
 5° gezin : een of meer personen in het thuismilieu van het opgevangen kind die de verantwoordelijkheid voor dat kind dragen;<br>
 6° inclusieve kinderopvang : de kinderopvang van een kind met een specifieke zorgbehoefte samen met kinderen zonder specifieke zorgbehoefte;<br>
 7° inkomen : het gezamenlijk belastbaar inkomen voor de aftrekbare bestedingen;<br>
@@ -31,7 +32,7 @@ b) wat de financiële situatie betreft, een inkomen hebben dat lager is dan een 
 c) wat de gezinssamenstelling betreft, alleenstaand zijn, meer bepaald niet gehuwd zijn of geen domicilie hebben met een persoon van wie het inkomen in aanmerking komt voor de bepaling van het inkomenstarief;<br>
 d) wat de gezondheid en zorgsituatie betreft, beantwoorden aan minstens een van de volgende drie kenmerken :<br>
 1) een gezinslid met een handicap hebben, waaronder wordt verstaan : voor volwassenen, de handicap vermeld in artikel 135, eerste lid, 1°, van het Wetboek van de Inkomstenbelastingen, en voor minderjarigen, het in aanmerking komen voor verhoogde kinderbijslag;<br>
-2) een gezinslid hebben dat gebruik maakt van een of meer van de pijlers van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, 1° en 3°, van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
+2) een gezinslid hebben dat gebruik maakt van de Vlaamse sociale bescherming, vermeld in artikel 4, eerste lid, van het decreet van 24 juni 2016 houdende de Vlaamse sociale bescherming;<br>
 3) in de context van hulpverlening aan het gezin of van inburgering van het gezin, is het voor de kinderen om sociale of pedagogische redenen wenselijk dat ze overdag opgevangen worden in de kinderopvang;<br>
 e) wat het opleidingsniveau betreft, geen diploma secundair onderwijs hebben;<br>
 11° minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
@@ -39,18 +40,18 @@ e) wat het opleidingsniveau betreft, geen diploma secundair onderwijs hebben;<br
 13° opgevangen kind : een kind voor wie er minstens één kinderopvangprestatie is;<br>
 14° plussubsidie : de subsidie voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen en voor de realisatie van toegang voor die gezinnen, vermeld in artikel 9 van het decreet van 20 april 2012;<br>
 14° /1 subsidie voor Centrum inclusieve kinderopvang: de subsidie voor het voeren van een proactief opnamebeleid, de realisatie van inclusieve kinderopvang, de verspreiding van expertise en sensibiliseren inzake inclusieve kinderopvang, in samenwerking met andere actoren die instaan voor inclusie, aan een organisator met minstens 22 gesubsidieerde kinderopvangplaatsen met een subsidie voor inkomenstarief binnen die zorgregio;<br>
-14° /2 subsidie voor dringende kinderopvang: de subsidie voor de realisatie van een specifieke opdracht als vermeld in artikel 10, 3°, van het decreet van 20 april 2012, meer bepaald de organisatie van kinderopvang op heel korte termijn en in afwachting van doorstroming van het kind naar de reguliere kinderopvang, als dat nodig is;<br>
 15° subsidie voor inclusieve kinderopvang : de subsidie voor de realisatie van opdrachten in het kader van inclusieve kinderopvang van kinderen met een specifieke zorgbehoefte, vermeld in artikel 10, 2°, van het decreet van 20 april 2012;<br>
-16° subsidie voor individuele inclusieve kinderopvang : de subsidie voor de realisatie van inclusieve kinderopvang van een individueel kind met een specifieke zorgbehoefte voor wie Kind en Gezin een specifieke toekenning van bepaalde duur deed;<br>
+16° subsidie voor individuele inclusieve kinderopvang : de subsidie voor de realisatie van inclusieve kinderopvang van een individueel kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur deed;<br>
 17° subsidie voor inkomenstarief : de subsidie voor de realisatie van kinderopvang waarvoor de gezinnen een prijs betalen op basis van het inkomen, en voor de realisatie van toegang tot de kinderopvang voor bepaalde gezinnen, vermeld in artikel 8 van het decreet van 20 april 2012;<br>
-17° /1 subsidie voor kinderopvang met flexibele openingstijden: de subsidie voor de realisatie van kinderopvang op flexibele openingstijden, vermeld in artikel 10, 1°, van het decreet van 20 april 2012. Binnen die subsidie zijn de volgende vormen te onderscheiden:<br>
-a) subsidie flexibele gezinsopvang: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor gezinsopvang;<br>
-b) subsidie voor ruimere openingsmomenten: de subsidie voor kinderopvang op atypische openingsmomenten in een kinderopvanglocatie voor groepsopvang;<br>
+17° /1 subsidie voor kinderopvang met flexibele openingstijden: de subsidie voor de realisatie van kinderopvang op flexibele openingstijden, vermeld in artikel 10, 1°, van het decreet van 20 april 2012. Binnen die subsidie zijn er drie vormen te onderscheiden;<br>
+a) subsidie flexibele gezinsopvang: de subsidie voor kinderopvang op flexibele openingstijden in een kinderopvanglocatie voor gezinsopvang;<br>
+b) subsidie flexibele groepsopvang: de subsidie voor kinderopvang op flexibele openingstijden in een kinderopvanglocatie voor groepsopvang;<br>
+c) subsidie flexibele urenpakketten groepsopvang: de subsidie voor kinderopvangprestaties op flexibele openingstijden, voor een door Kind en Gezin toegekend aantal urenpakketten;<br>
 18° subsidie voor structurele inclusieve kinderopvang : de subsidie voor de realisatie van de structurele uitbouw van inclusieve kinderopvang binnen een kinderopvanglocatie;<br>
-19° subsidieerbare kinderopvangplaats : een kinderopvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van Kind en Gezin beschikt;<br>
+19° subsidieerbare kinderopvangplaats : een kinderopvangplaats waarvoor de organisator over een beslissing tot toekenning van een subsidie van het agentschap beschikt;<br>
 20° subsidiegroep : een groep van kinderopvanglocaties van hetzij gezinsopvang, hetzij groepsopvang, van dezelfde organisator binnen een geografisch afgebakend gebied. Voor gezinsopvang is dat gebied de zorgregio. Voor groepsopvang is dat gebied de gemeente, met uitzondering van het tweetalige gebied Brussel Hoofdstad waar dit gebied de zorgregio is;<br>
 21° 's nachts : tussen 20 uur en 6 uur;<br>
-22° ...
+22° urenpakket: een gesubsidieerd pakket dat de organisator moet inzetten voor kinderopvang op flexibele openingstijden.
 
 ### ART. 1/1.
 
@@ -60,11 +61,15 @@ Dit besluit wordt aangehaald als: Subsidiebesluit van 22 november   2013.
 
 ### ART. 2.
 
-<P>Kind en Gezin kan aan de organisator subsidies toekennen voor de realisatie   van specifieke dienstverlening, vermeld in dit besluit.<BR></P>  <P>De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van   de Commissie van 20 december 2011 betreffende de toepassing van artikel 106,   tweede lid, van het Verdrag betreffende de werking van de Europese Unie op   staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan   bepaalde met het beheer van diensten van algemeen economisch belang belaste   ondernemingen.<BR></P>
+<p>Het agentschap kan aan de organisator subsidies toekennen voor de realisatie van specifieke dienstverlening, vermeld in dit besluit.</p>
+
+<p>De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU van de Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen.</p>
 
 ### ART. 3.
 
-<P>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van   specifieke dienstverlening, vermeld in dit besluit, geldt de subsidie voor een   duur van tien jaar vanaf de eerste subsidieerbare kinderopvangplaats binnen de   subsidiegroep.<BR></P>  <P>Kind en Gezin en de toezichthouders voeren op regelmatige basis, uiterlijk om   de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen   van dit besluit.<BR></P>
+<p>Zolang de organisator voldoet aan de voorwaarden voor de realisatie van specifieke dienstverlening, vermeld in dit besluit, geldt de subsidie voor een duur van tien jaar vanaf de eerste subsidieerbare kinderopvangplaats binnen de subsidiegroep.</p>
+
+<p>Het agentschap en de toezichthouders voeren op regelmatige basis, uiterlijk om de drie jaar, controles uit die gericht zijn op de naleving van de bepalingen van dit besluit.</p>
 
 ### ART. 4.
 
@@ -72,7 +77,13 @@ Dit besluit wordt aangehaald als: Subsidiebesluit van 22 november   2013.
 
 ### ART. 5.
 
-<P>De organisator kan op de volgende wijze reserves opbouwen met de subsidies,   vermeld in dit besluit :<BR>1° de reserves worden aangewend om de specifieke   dienstverlening, vermeld in dit besluit, te kunnen realiseren;<BR>2° maximaal   20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve   overgedragen worden naar het volgende kalenderjaar;<BR>3° de gecumuleerde   reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is   maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<BR>4° als   het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het   overschreden bedrag teruggestort aan Kind en Gezin, tenzij de organisator een   aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria,   waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse   overheid.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer de criteria waaraan het   aanwendingsplan of aanzuiveringsplan moet voldoen.<BR></P>
+<p>De organisator kan op de volgende wijze reserves opbouwen met de subsidies, vermeld in dit besluit :<br>
+1° de reserves worden aangewend om de specifieke dienstverlening, vermeld in dit besluit, te kunnen realiseren;<br>
+2° maximaal 20% van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
+3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij de organisator een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer de criteria waaraan het aanwendingsplan of aanzuiveringsplan moet voldoen.</p>
 
 ## [HOOFDSTUK 3 Subsidiegroepen, trappensysteem en de wijze van toekenning (verv. BVR 4 april 2014, art. 16, I: 1 april 2014)]
 
@@ -126,11 +137,13 @@ b) als de organisator de gegevens die de basis vormen voor de berekening van het
 <br>
 Als de gegevens die de basis vormen voor de berekening van de subsidies, fout zijn, kan er een rechtzetting komen.<br>
 <br>
-De minister bepaalt de nadere regels, onder meer de gegevens die de organisator aan Kind en Gezin moet bezorgen en de manier waarop de voorschotten en het saldo worden berekend.
+De minister bepaalt de nadere regels, onder meer de gegevens die de organisator aan het agentschap moet bezorgen en de manier waarop de voorschotten en het saldo worden berekend.
 
 ### ART. 10.
 
-<P>De organisator bezorgt gegevens elektronisch aan Kind en Gezin volgens de   administratieve richtlijnen van Kind en Gezin, en dit met het oog op   beleidsdoeleinden zoals het in kaart brengen van het gebruik en van het aanbod   aan kinderopvang die een subsidie krijgt van Kind en Gezin en in het kader van   de opvolging van de subsidie of in het kader van handhaving.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer welke gegevens de   organisator aan Kind en Gezin moet bezorgen.<BR></P>
+<p>De organisator bezorgt gegevens elektronisch aan het agentschap volgens de administratieve richtlijnen van het agentschap, en dit met het oog op beleidsdoeleinden zoals het in kaart brengen van het gebruik en van het aanbod aan kinderopvang die een subsidie krijgt van het agentschap en in het kader van de opvolging van de subsidie of in het kader van handhaving.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer welke gegevens de organisator aan het agentschap moet bezorgen.</p>
 
 ## [HOOFDSTUK 6 Integriteit en geschiktheid (ing. BVR 11 december 2015, art. 30, I: 13 februari 2016)]
 
@@ -271,7 +284,7 @@ De organisator met meer dan achttien subsidieerbare plaatsen op het niveau   van
 
 ### ART 27/1.
 
-Kind en Gezin kan bij wijze van experiment beslissen om aan de organisator toe te laten om in afwijking van artikel 27 niet voor alle kinderopvangplaatsen op zijn kinderopvanglocatie te werken volgens het systeem inkomenstarief, vermeld in artikel 28 tot en met 36. De afwijking geldt voor de bijkomende kinderopvangplaatsen boven op de bestaande subsidieerbare kinderopvangplaatsen.<br>
+Het agentschap kan bij wijze van experiment beslissen om aan de organisator toe te laten om in afwijking van artikel 27 niet voor alle kinderopvangplaatsen op zijn kinderopvanglocatie te werken volgens het systeem inkomenstarief, vermeld in artikel 28 tot en met 36. De afwijking geldt voor de bijkomende kinderopvangplaatsen boven op de bestaande subsidieerbare kinderopvangplaatsen.<br>
 <br>
 In het kader van een algemene oproep tot experiment via UnieKO, het Vlaams Welzijnsverbond, SOM, VVSG, VoorZet, 't OpZet en Unizo worden maximaal tien kinderopvanglocaties van tien verschillende organisatoren toegelaten tot het experiment, vermeld in het eerste lid, waarbij ernaar gestreefd wordt om de volgende types kinderopvanglocatie aan bod te laten komen:<br>
 1° kinderopvanglocaties waarvan de organisator groepsopvang maar één kinderopvanglocatie in de gemeente in kwestie heeft of de organisator gezinsopvang maar één kinderopvanglocatie in de zorgregio in kwestie heeft;<br>
@@ -280,13 +293,13 @@ In het kader van een algemene oproep tot experiment via UnieKO, het Vlaams Welzi
 4° kinderopvanglocaties die voor de inwerkingtreding van het decreet van 20 april 2012 een erkenning hadden van Kind en Gezin;<br>
 5° kinderopvanglocaties die ook op de plaatsen met vrije prijs het systeem van inkomenstarief toepassen.<br>
 <br>
-Kind en Gezin geeft een score aan elke aanvraag op basis van de volgende criteria:<br>
+Het agentschap geeft een score aan elke aanvraag op basis van de volgende criteria:<br>
 1° de organisator heeft een plan om binnen het experiment een mix van kinderen uit gezinnen met diverse socio-economische en culturele achtergronden, te realiseren;<br>
 2° de organisator heeft een strategie om met de gezinnen te communiceren over het experiment, onder meer over het hanteren van de verschillende prijssystemen;<br>
 3° de organisator heeft een strategie om met andere organisatoren van kinderopvang in de buurt, het lokaal bestuur en het Lokaal Overleg Kinderopvang te communiceren over de aanpak van het experiment;<br>
 4° de organisator heeft een duidelijk zicht op de te verwachten evolutie in zijn financiële toestand door het deelnemen aan het experiment.<br>
 <br>
-Kind en Gezin geeft op de criteria, vermeld in het derde lid, de volgende scores:<br>
+Het agentschap geeft op de criteria, vermeld in het derde lid, de volgende scores:<br>
 1° nul punten als het antwoord op de vraag naast de kwestie of niet beargumenteerd is;<br>
 2° twee punten als het antwoord op de vraag erg vaag en onvoldoende beargumenteerd is;<br>
 3° vier punten als het antwoord op de vraag volstaat, maar slechts net voldoende beargumenteerd is;<br>
@@ -296,7 +309,7 @@ Een aanvraag die op een of meerdere van de criteria nul punten scoort of een aan
 <br>
 Als er meer dan twee aanvragers zijn voor één van de types kinderopvanglocaties, vermeld in het tweede lid, komen de aanvragen met de hoogste score in aanmerking.<br>
 <br>
-Als een kandidaat bij de twee hoogste scores tot verschillende categorieën behoort of als er een ex aequo bij de twee hoogste scores is, dan streeft Kind en Gezin naar een zo divers mogelijke staalkaart. Daarbij worden de volgende criteria gebruikt:<br>
+Als een kandidaat bij de twee hoogste scores tot verschillende categorieën behoort of als er een ex aequo bij de twee hoogste scores is, dan streeft het agentschap naar een zo divers mogelijke staalkaart. Daarbij worden de volgende criteria gebruikt:<br>
 1° de grootte van de opvanglocatie;<br>
 2° de verhouding van de opvangplaatsen met inkomenstarief en de opvangplaatsen met vrije prijs binnen de opvanglocatie;<br>
 3° de nood aan opvang in de regio op basis van het aantal beschikbare opvangplaatsen ten opzichte van het aantal kinderen uit de doelgroep;<br>
@@ -363,7 +376,7 @@ In afwijking van artikel 28 kan de organisator ervoor kiezen dat er niet   betaa
 
 <p>De contracthouder heeft een attest inkomenstarief nodig opdat het kind van de contracthouder opgevangen kan worden door een organisator die werkt met het systeem inkomenstarief.<br>
 <br>
-De contracthouder vraagt een attest inkomenstarief via het online instrument op de website van Kind en Gezin met gebruik van zijn Belgische elektronische identiteitskaart of Belgische elektronische vreemdelingenkaart. Via dat online instrument wordt er voor de contracthouder een inkomenstarief of een individueel verminderd inkomenstarief berekend of bepaald op basis van het inkomen van de contracthouder en, als deze er is, van de inwonende persoon. Het attest inkomenstarief vermeldt minstens dat inkomenstarief, een startdatum en een einddatum.<br>
+De contracthouder vraagt een attest inkomenstarief via het online instrument op de website van het agentschap met gebruik van zijn Belgische elektronische identiteitskaart of Belgische elektronische vreemdelingenkaart. Via dat online instrument wordt er voor de contracthouder een inkomenstarief of een individueel verminderd inkomenstarief berekend of bepaald op basis van het inkomen van de contracthouder en, als deze er is, van de inwonende persoon. Het attest inkomenstarief vermeldt minstens dat inkomenstarief, een startdatum en een einddatum.<br>
 <br>
 De contracthouder vraagt een attest inkomenstarief aan op de volgende momenten:<br>
 1° binnen de twee maanden die voorafgaan aan de maand waarin de kinderopvang start, tenzij in geval van dringende start van de kinderopvang uiterlijk 30 kalenderdagen na de start van de kinderopvang;<br>
@@ -377,9 +390,9 @@ De contracthouder kan een attest inkomenstarief aanvragen in de volgende gevalle
 3° als de contracthouder die een maximumtarief betaalt omdat hij zijn inkomen niet bekend wilde maken als vermeld in artikel 32/1, nu wel zijn inkomen bekend wil maken;<br>
 4° als de contracthouder die een maximumtarief betaalt als vermeld in artikel 36, derde lid, een nieuw attest inkomenstarief wil, en ten vroegste na verloop van zes maanden in het geval van de toepassing van artikel 36, derde lid, 2°.<br>
 <br>
-De contracthouder krijgt het attest inkomenstarief op de momenten na aanvraag toegekend, alsook automatisch na indexatie. De contracthouder geeft het attest inkomenstarief van Kind en Gezin door aan de organisator na elke toekenning van een attest inkomenstarief, tenzij de organisator bepaalt dat de contracthouder hem het attest niet hoeft te geven.<br>
+De contracthouder krijgt het attest inkomenstarief op de momenten na aanvraag toegekend, alsook automatisch na indexatie. De contracthouder geeft het attest inkomenstarief van het agentschap door aan de organisator na elke toekenning van een attest inkomenstarief, tenzij de organisator bepaalt dat de contracthouder hem het attest niet hoeft te geven.<br>
 <br>
-De organisator informeert en ondersteunt de contracthouder bij de correcte toepassing van het online instrument als dat nodig is. Als het voor de contracthouder onmogelijk is om het online instrument te gebruiken, neemt de organisator de toepassing op zich. De organisator en het OCMW krijgen toegang tot het online instrument via een specifieke module en volgens de administratieve richtlijnen van Kind en Gezin.&nbsp;De organisator en het OCMW baseren zich bij de toepassing op de gegevens die de contracthouder hen bezorgt.<br>
+De organisator informeert en ondersteunt de contracthouder bij de correcte toepassing van het online instrument als dat nodig is. Als het voor de contracthouder onmogelijk is om het online instrument te gebruiken, neemt de organisator de toepassing op zich. De organisator en het OCMW krijgen toegang tot het online instrument via een specifieke module en volgens de administratieve richtlijnen van het agentschap.&nbsp;De organisator en het OCMW baseren zich bij de toepassing op de gegevens die de contracthouder hen bezorgt.<br>
 <br>
 De minister bepaalt de nadere regels met betrekking tot de startdatum en de einddatum op het attest inkomenstarief.</p>
 
@@ -453,7 +466,7 @@ Een individueel verminderd inkomenstarief wordt toegekend voor één jaar, tenzi
 
 De contracthouder met een attest inkomenstarief kan het OCMW verzoeken om een nieuw inkomenstarief te bepalen. Als blijkt dat het voor de contracthouder financieel onmogelijk is om het laatst berekende inkomenstarief, het laatst bepaalde individueel verminderd inkomenstarief of het maximumtarief dat bepaald is ten gevolge van de situatie, vermeld in artikel 36, derde lid, 2°, te betalen, bepaalt het OCMW een individueel verminderd inkomenstarief.<br>
 <br>
-Het OCMW geeft het bedrag van het individueel verminderd inkomenstarief elektronisch door aan Kind en Gezin. Het OCMW kan beslissen dat het bedrag wordt toegepast met terugwerkende kracht tot maximaal zes maanden, te rekenen vanaf de eerste dag van de maand waarin het OCMW beslist. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt, tenzij er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief moet aanvragen als vermeld in artikel 32, derde lid.<br>
+Het OCMW geeft het bedrag van het individueel verminderd inkomenstarief elektronisch door aan het agentschap. Het OCMW kan beslissen dat het bedrag wordt toegepast met terugwerkende kracht tot maximaal zes maanden, te rekenen vanaf de eerste dag van de maand waarin het OCMW beslist. Een individueel verminderd inkomenstarief wordt toegekend voor minstens één jaar, waarbij de einddatum telkens de laatste dag van het kwartaal is waarin het attest inkomenstarief een jaar geldigheid bereikt, tenzij er eerder een moment is waarop de contracthouder een nieuw attest inkomenstarief moet aanvragen als vermeld in artikel 32, derde lid.<br>
 <br>
 Als de contracthouder in het tweetalige gebied Brussel-Hoofdstad woont, neemt de organisator de rol van het OCMW op zich als het OCMW die rol niet opneemt. De organisator is in dat geval gebonden aan de bepalingen, vermeld in dit artikel, die gelden voor het OCMW.<br>
 <br>
@@ -463,29 +476,31 @@ De minister bepaalt de nadere regels, onder meer de bedragen van de individueel 
 
 ### ART. 35.
 
-<P>De organisator staat in voor de facturatie en de inning van het   inkomenstarief, berekend of individueel verminderd als vermeld in artikel 32 tot   en met 34, ten opzichte van de contracthouder. Kind en Gezin informeert de   organisator over het inkomenstarief van de contracthouders die gebruik maken van   zijn kinderopvanglocatie.<BR></P>  <P>De minister bepaalt de nadere regels.<BR></P>
+<p>De organisator staat in voor de facturatie en de inning van het inkomenstarief, berekend of individueel verminderd als vermeld in artikel 32 tot en met 34, ten opzichte van de contracthouder. Het agentschap informeert de organisator over het inkomenstarief van de contracthouders die gebruik maken van zijn kinderopvanglocatie.</p>
+
+<p>De minister bepaalt de nadere regels.</p>
 
 ## [Onderafdeling 5 Bewaren van documenten en maatregelen (verv. BVR 24 april 2015, art. 11, I: 1 mei 2015)]
 
 ### ART. 36.
 
-<p>De contracthouder houdt de documenten die de toepassing, vermeld in artikel 33, 34 en 34/1, aantonen gedurende vijf jaar ter beschikking. De contracthouder legt de documenten voor op vraag van Kind en Gezin. De organisator informeert en ondersteunt de contracthouder daarbij als dat nodig is. Kind en Gezin kan, in het kader van steekproeven, de documenten die de toepassing, vermeld in artikel 33, 34 en 34/1, aantonen, opvragen bij de bevoegde overheid.<br>
+<p>De contracthouder houdt de documenten die de toepassing, vermeld in artikel 33, 34 en 34/1, aantonen gedurende vijf jaar ter beschikking. De contracthouder legt de documenten voor op vraag van het agentschap. De organisator informeert en ondersteunt de contracthouder daarbij als dat nodig is. Het agentschap kan, in het kader van steekproeven, de documenten die de toepassing, vermeld in artikel 33, 34 en 34/1, aantonen, opvragen bij de bevoegde overheid.<br>
 <br>
-Overeenkomstig artikel 8, § 3, derde lid, van het decreet van 20 april 2012 kan Kind en Gezin maatregelen nemen ten aanzien van de gezinnen die niet de correcte gegevens verstrekken, nodig voor de berekening van de prijs van de kinderopvang, of die een wijziging van die gegevens niet meedelen. Die maatregelen bestaan uit de bepaling van het juiste inkomenstarief voor de toekomst en uit het bepalen van een schadevergoeding ten laste van de contracthouder voor het verleden. Kind en Gezin zal het juiste inkomenstarief bepalen op basis van de beschikbare informatie en het attest inkomenstarief bezorgen aan de contracthouder. De schadevergoeding bedraagt het dubbele van het juiste inkomenstarief dat bepaald werd door Kind en Gezin, per kinderopvangprestatie die in het opvangplan werd opgenomen.<br>
+Overeenkomstig artikel 8, § 3, derde lid, van het decreet van 20 april 2012 kan het agentschap maatregelen nemen ten aanzien van de gezinnen die niet de correcte gegevens verstrekken, nodig voor de berekening van de prijs van de kinderopvang, of die een wijziging van die gegevens niet meedelen. Die maatregelen bestaan uit de bepaling van het juiste inkomenstarief voor de toekomst en uit het bepalen van een schadevergoeding ten laste van de contracthouder voor het verleden. Het agentschap zal het juiste inkomenstarief bepalen op basis van de beschikbare informatie en het attest inkomenstarief bezorgen aan de contracthouder. De schadevergoeding bedraagt het dubbele van het juiste inkomenstarief dat bepaald werd door het agentschap, per kinderopvangprestatie die in het opvangplan werd opgenomen.<br>
 <br>
 In de volgende situaties kan er een attest inkomenstarief met maximumtarief opgemaakt worden:<br>
-1° door de organisator of Kind en Gezin: als het attest inkomenstarief van de contracthouder niet meer geldig is en de contracthouder nalaat een nieuw attest inkomenstarief aan te vragen;<br>
-2° door Kind en Gezin: als de contracthouder geen correcte gegevens doorgeeft die nodig zijn voor de berekening van het inkomenstarief. In dat geval heeft het attest inkomenstarief met maximumtarief altijd een geldigheidsduur van zes maanden.<br>
+1° door de organisator of het agentschap: als het attest inkomenstarief van de contracthouder niet meer geldig is en de contracthouder nalaat een nieuw attest inkomenstarief aan te vragen;<br>
+2° door het agentschap: als de contracthouder geen correcte gegevens doorgeeft die nodig zijn voor de berekening van het inkomenstarief. In dat geval heeft het attest inkomenstarief met maximumtarief altijd een geldigheidsduur van zes maanden.<br>
 <br>
 De organisator waarschuwt de contracthouder vooraf over de situaties, vermeld in derde lid, 1° en 2°.</p>
 
 ### ART. 36/1.
 
-Na het toekennen van het attest inkomenstarief kan de contracthouder fouten op zijn attest inkomenstarief melden aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin.<br>
+Na het toekennen van het attest inkomenstarief kan de contracthouder fouten op zijn attest inkomenstarief melden aan het agentschap, volgens de administratieve richtlijnen van het agentschap.<br>
 <br>
-Kind en Gezin doet een rechtzetting als er effectief een fout was bij de berekening op basis waarvan het attest inkomenstarief werd toegekend, in welk geval de contracthouder het nieuwe attest inkomenstarief bezorgt aan de organisator. Een rechtzetting kan alleen voor een huidig geldend attest inkomenstarief verkregen worden, tenzij het huidig geldende attest inkomenstarief een indexatie betreft, in welk geval het voorafgaande attest inkomenstarief kan worden rechtgezet.<br>
+Het agentschap doet een rechtzetting als er effectief een fout was bij de berekening op basis waarvan het attest inkomenstarief werd toegekend, in welk geval de contracthouder het nieuwe attest inkomenstarief bezorgt aan de organisator. Een rechtzetting kan alleen voor een huidig geldend attest inkomenstarief verkregen worden, tenzij het huidig geldende attest inkomenstarief een indexatie betreft, in welk geval het voorafgaande attest inkomenstarief kan worden rechtgezet.<br>
 <br>
-Kind en Gezin doet geen rechtzetting voor het verleden, tenzij:<br>
+Het agentschap doet geen rechtzetting voor het verleden, tenzij:<br>
 1° het een rechtzetting betreft waarbij de startdatum van het eerst toegekende attest inkomenstarief met maximum een maand vervroegd wordt doordat de kinderopvang eerder start;<br>
 2° op schriftelijk gemotiveerd verzoek van de organisator voor fouten in het systeem of voor fouten naar aanleiding van verkeerde input van de contracthouder, of in geval van de toepassing van artikel 34/1, van verkeerde input van het OCMW of de organisator.<br>
 <br>
@@ -699,7 +714,16 @@ De subsidie voor Centrum inclusieve kinderopvang bedraagt 32.845 euro per   kale
 
 ### ART. 50/2.
 
-De organisator zorgt voor:<BR>1° het realiseren van een proactief   opnamebeleid om kinderen met een specifieke zorgbehoefte een kinderopvangplaats   te geven in een of meer eigen kinderopvanglocaties, in samenwerking met andere   organisatoren, met instanties die werken met gezinnen met een kind met een   specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de   zorgregio;<BR>2° het realiseren van inclusieve kinderopvang in een of meer eigen   kinderopvanglocaties, waarbij wordt samengewerkt met een netwerk van beschikbare   instellingen of zorgverleners met een specifieke expertise in verband met   kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan   voor samenwerking, of met belangenverenigingen van gezinnen als   ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 50/4,   gerealiseerd worden;<BR>3° het uitbouwen en verspreiden van expertise tot de   realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in   samenwerking met door Kind en Gezin erkende pedagogische   ondersteuningsorganisaties en met het lokaal overleg kinderopvang, met   specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere   organisatoren kinderopvang bij de realisatie van inclusieve kinderopvang. Het   doel daarbij is dat minstens zeven kinderopvanglocaties minstens één kind met   een specifieke zorgbehoefte opvangen;<BR>4° het mee uitvoeren van lokale en   provinciale doelstellingen op het vlak van inclusie, zoals opgenomen in de   meerjarenplanning van het lokaal of provinciaal bestuur, in samenwerking met het   lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die   instaan voor de begeleiding van personen met een handicap of voor het beleid   daarrond;<BR>5° het sensibiliseren van organisatoren van kinderopvang en   partners binnen de zorgregio voor de realisatie van inclusieve   kinderopvang;<BR>6° het informeren van en voorzien in inspraak voor gezinnen en   belanghebbenden, bij de opdrachten, vermeld in punt 1° tot en met 4° ;<BR>7° een   aangepaste personeelsinzet voor de realisatie van de opdrachten, vermeld in punt   1° tot en met 6°.<BR><BR>De kinderopvanglocaties, vermeld in het eerste lid, 3°,   liggen binnen de zorgregio van de organisator en zijn van andere organisatoren.   Voor een organisator van gezinsopvang geldt daarbij dat de eigen   kinderbegeleiders niet meegeteld kunnen worden voor het aantal te begeleiden   kinderopvanglocaties.
+De organisator zorgt voor:<br>
+1° het realiseren van een proactief opnamebeleid om kinderen met een specifieke zorgbehoefte een kinderopvangplaats te geven in een of meer eigen kinderopvanglocaties, in samenwerking met andere organisatoren, met instanties die werken met gezinnen met een kind met een specifieke zorgbehoefte en met de lokale loketten kinderopvang uit de zorgregio;<br>
+2° het realiseren van inclusieve kinderopvang in een of meer eigen kinderopvanglocaties, waarbij wordt samengewerkt met een netwerk van beschikbare instellingen of zorgverleners met een specifieke expertise in verband met kinderen met een specifieke zorgbehoefte, waarop een beroep kan worden gedaan voor samenwerking, of met belangenverenigingen van gezinnen als ervaringsdeskundigen, zodat minstens de opdrachten, vermeld in artikel 50/4, gerealiseerd worden;<br>
+3° het uitbouwen en verspreiden van expertise tot de realisatie van inclusieve kinderopvang binnen de volledige zorgregio, in samenwerking met door het agentschap erkende pedagogische ondersteuningsorganisaties en met het lokaal overleg kinderopvang, met specifieke aandacht voor begeleidingstrajecten ter ondersteuning van andere organisatoren kinderopvang bij de realisatie van inclusieve kinderopvang. Het doel daarbij is dat minstens zeven kinderopvanglocaties minstens één kind met een specifieke zorgbehoefte opvangen;<br>
+4° het mee uitvoeren van lokale en provinciale doelstellingen op het vlak van inclusie, zoals opgenomen in de meerjarenplanning van het lokaal of provinciaal bestuur, in samenwerking met het lokaal bestuur en met andere actoren die actief zijn in de zorgregio en die instaan voor de begeleiding van personen met een handicap of voor het beleid daarrond;<br>
+5° het sensibiliseren van organisatoren van kinderopvang en partners binnen de zorgregio voor de realisatie van inclusieve kinderopvang;<br>
+6° het informeren van en voorzien in inspraak voor gezinnen en belanghebbenden, bij de opdrachten, vermeld in punt 1° tot en met 4° ;<br>
+7° een aangepaste personeelsinzet voor de realisatie van de opdrachten, vermeld in punt 1° tot en met 6°.<br>
+<br>
+De kinderopvanglocaties, vermeld in het eerste lid, 3°, liggen binnen de zorgregio van de organisator en zijn van andere organisatoren. Voor een organisator van gezinsopvang geldt daarbij dat de eigen kinderbegeleiders niet meegeteld kunnen worden voor het aantal te begeleiden kinderopvanglocaties.
 
 ### ART. 50/3.
 
@@ -711,7 +735,7 @@ De organisator realiseert binnen de zorgregio waarin hij een toekenning   heeft 
 
 ### ART. 50/5.
 
-De organisator neemt actief deel aan het begeleidingstraject voor de   uitbouw van de Centra voor inclusieve kinderopvang dat Kind en Gezin in   samenwerking met het Vlaams Agentschap voor Personen met een Handicap   organiseert.
+De organisator neemt actief deel aan het begeleidingstraject voor de uitbouw van de Centra voor inclusieve kinderopvang dat het agentschap in samenwerking met het Vlaams Agentschap voor Personen met een Handicap organiseert.
 
 ## TITEL 6 Wijzigingsbepaling
 
@@ -733,33 +757,41 @@ De volgende regelingen worden opgeheven :<BR>1° het besluit van de Vlaamse   Re
 
 ### ART. 53.
 
-Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het   decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis van   het besluit, vermeld in artikel 52, 3°, meer bepaald de financiële ondersteuning   van zelfstandige opvangvoorzieningen, wordt die subsidie omgezet in een   basissubsidie. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde   kinderopvangplaatsen.<BR>
+Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit, vermeld in artikel 52, 3°, meer bepaald de financiële ondersteuning van zelfstandige opvangvoorzieningen, wordt die subsidie omgezet in een basissubsidie. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde kinderopvangplaatsen.
 
 ### ART. 54.
 
-<P>Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het   decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis van   het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden   inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor   onthaalouders, en op basis van het besluit, vermeld in artikel 52, 4°, meer   bepaald de subsidie voor het basisaanbod bij kinderdagverblijven en diensten   voor onthaalouders, de subsidie voor occasionele plaatsen en de subsidie voor   inkomensgerelateerde opvang, wordt die subsidie omgezet in een basissubsidie en   een subsidie voor inkomenstarief. De omzetting heeft betrekking op hetzelfde   aantal gesubsidieerde kinderopvangplaatsen.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer hoe de omzetting bij   diensten voor onthaalouders in subsidiegroepen zal gebeuren. Daarbij zullen de   subsidieerbare kinderopvangplaatsen bij samenwerkende onthaalouders met een   vergunning groepsopvang gebundeld worden in een afzonderlijke subsidiegroep van   de organisator per zorgregio, naast de subsidiegroepen voor gezinsopvang en de   subsidiegroepen voor groepsopvang. De voorwaarden, vermeld in artikel 14 en 20,   gelden op het niveau van de subsidiegroep.<BR></P>
+<p>Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, en op basis van het besluit, vermeld in artikel 52, 4°, meer bepaald de subsidie voor het basisaanbod bij kinderdagverblijven en diensten voor onthaalouders, de subsidie voor occasionele plaatsen en de subsidie voor inkomensgerelateerde opvang, wordt die subsidie omgezet in een basissubsidie en een subsidie voor inkomenstarief. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde kinderopvangplaatsen.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer hoe de omzetting bij diensten voor onthaalouders in subsidiegroepen zal gebeuren. Daarbij zullen de subsidieerbare kinderopvangplaatsen bij samenwerkende onthaalouders met een vergunning groepsopvang gebundeld worden in een afzonderlijke subsidiegroep van de organisator per zorgregio, naast de subsidiegroepen voor gezinsopvang en de subsidiegroepen voor groepsopvang. De voorwaarden, vermeld in artikel 14 en 20, gelden op het niveau van de subsidiegroep.</p>
 
 ### ART. 55.
 
-Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het   decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis van   het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor   toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang,   wordt die subsidie omgezet in een basissubsidie, een subsidie voor   inkomenstarief en een plussubsidie. De omzetting heeft betrekking op hetzelfde   aantal gesubsidieerde kinderopvangplaatsen.<BR>
+Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang, wordt die subsidie omgezet in een basissubsidie, een subsidie voor inkomenstarief en een plussubsidie. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde kinderopvangplaatsen.
 
 ### ART. 56.
 
-Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het   decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis van   het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden   inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor   onthaalouders, en op basis van het besluit van de Vlaamse Regering van 9 mei   2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale   diensten buurtgerichte kinderopvang, en op basis van het besluit, vermeld in   artikel 52, 3°, meer bepaald de financiële ondersteuning voor inclusieve   kinderopvang, wordt die subsidie omgezet in de subsidie voor inclusieve   kinderopvang, naargelang van het geval in de subsidie voor individuele   inclusieve kinderopvang, de subsidie voor structurele inclusieve kinderopvang of   de subsidie voor Centrum inclusieve kinderopvang. De omzetting voor de   structurele inclusieve kinderopvang heeft betrekking op hetzelfde aantal   gesubsidieerde kinderopvangplaatsen.<BR>
+Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, en op basis van het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang, en op basis van het besluit, vermeld in artikel 52, 3°, meer bepaald de financiële ondersteuning voor inclusieve kinderopvang, wordt die subsidie omgezet in de subsidie voor inclusieve kinderopvang, naargelang van het geval in de subsidie voor individuele inclusieve kinderopvang, de subsidie voor structurele inclusieve kinderopvang of de subsidie voor Centrum inclusieve kinderopvang. De omzetting voor de structurele inclusieve kinderopvang heeft betrekking op hetzelfde aantal gesubsidieerde kinderopvangplaatsen.
 
 ### ART. 56/1.
 
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van   het decreet van 20 april 2012 een subsidie van Kind en Gezin ontvangen op basis   van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de   voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten   voor onthaalouders, en op basis van het besluit, vermeld in artikel 52, 3°, meer   bepaald de subsidie voor flexibele urenpakketten, de subsidie voor   ploegplaatsen, de subsidie voor flexibele opvang aan diensten voor onthaalouders   en aan aangesloten onthaalouders en de financiële ondersteuning flexibele   opvang, wordt die subsidie omgezet in, naargelang het geval, de subsidie   flexibele urenpakketten groepsopvang, de subsidie flexibele groepsopvang en de   subsidie flexibele gezinsopvang. De subsidie voor ploegplaatsen wordt daarbij   omgezet in de subsidie flexibele urenpakketten groepsopvang voor hetzelfde   subsidieniveau. De omzetting heeft betrekking op hetzelfde aantal urenpakketten   of hetzelfde aantal gesubsidieerde kinderopvangplaatsen.<BR><BR>De subsidie voor   flexibele gezinsopvang geldt ook voor samenwerkende onthaalouders verbonden aan   een dienst voor onthaalouders.<BR><BR>Onthaalouders die inkomensgerelateerd   werkten voor de inwerkingtreding van het decreet van 20 april 2012 kunnen de   subsidie flexibele gezinsopvang krijgen op aanvraag volgens de richtlijnen van   Kind en Gezin. Deze subsidie gaat ten vroegste in het kwartaal volgend op de   aanvraag.<BR>
+Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een subsidie van het agentschap ontvangen op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, en op basis van het besluit, vermeld in artikel 52, 3°, meer bepaald de subsidie voor flexibele urenpakketten, de subsidie voor ploegplaatsen, de subsidie voor flexibele opvang aan diensten voor onthaalouders en aan aangesloten onthaalouders en de financiële ondersteuning flexibele opvang, wordt die subsidie omgezet in, naargelang het geval, de subsidie flexibele urenpakketten groepsopvang, de subsidie flexibele groepsopvang en de subsidie flexibele gezinsopvang. De subsidie voor ploegplaatsen wordt daarbij omgezet in de subsidie flexibele urenpakketten groepsopvang voor hetzelfde subsidieniveau. De omzetting heeft betrekking op hetzelfde aantal urenpakketten of hetzelfde aantal gesubsidieerde kinderopvangplaatsen.<br>
+<br>
+De subsidie voor flexibele gezinsopvang geldt ook voor samenwerkende onthaalouders verbonden aan een dienst voor onthaalouders.<br>
+<br>
+Onthaalouders die inkomensgerelateerd werkten voor de inwerkingtreding van het decreet van 20 april 2012 kunnen de subsidie flexibele gezinsopvang krijgen op aanvraag volgens de richtlijnen van het agentschap. Deze subsidie gaat ten vroegste in het kwartaal volgend op de aanvraag.
 
 ### ART. 56/2.
 
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van   het decreet van 20 april 2012 een erkenning of een attest van toezicht van Kind   en Gezin hebben en een bijkomende projectsubsidie ontvangen van Kind en Gezin   met het oog op het opbouwen van expertise inzake werken met kansarmen, wordt die   projectsubsidie omgezet in een basissubsidie, een subsidie voor inkomenstarief   en een plussubsidie. De omzetting heeft betrekking op hetzelfde aantal   gesubsidieerde kinderopvangplaatsen of op een aantal gesubsidieerde   kinderopvangplaatsen dat gelijkstaat aan het niveau van de   projectsubsidie.<BR><BR>Voor de kinderopvanglocaties die op de datum van de   inwerkingtreding van het decreet van 20 april 2012 een attest van toezicht van   Kind en Gezin hebben en een bijkomende projectsubsidie ontvangen van Kind en   Gezin met het oog op het opbouwen van expertise inzake kinderopvang van kinderen   met een specifieke zorgbehoefte, wordt die projectsubsidie omgezet in een   subsidie voor structurele inclusieve kinderopvang. De omzetting heeft betrekking   op een aantal gesubsidieerde kinderopvangplaatsen dat gelijkstaat aan het niveau   van de projectsubsidie.
+Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een erkenning of een attest van toezicht van het agentschap hebben en een bijkomende projectsubsidie ontvangen van het agentschap met het oog op het opbouwen van expertise inzake werken met kansarmen, wordt die projectsubsidie omgezet in een basissubsidie, een subsidie voor inkomenstarief en een plussubsidie. De omzetting heeft betrekking op hetzelfde aantal gesubsidieerde kinderopvangplaatsen of op een aantal gesubsidieerde kinderopvangplaatsen dat gelijkstaat aan het niveau van de projectsubsidie.<br>
+<br>
+Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een attest van toezicht van het agentschap hebben en een bijkomende projectsubsidie ontvangen van het agentschap met het oog op het opbouwen van expertise inzake kinderopvang van kinderen met een specifieke zorgbehoefte, wordt die projectsubsidie omgezet in een subsidie voor structurele inclusieve kinderopvang. De omzetting heeft betrekking op een aantal gesubsidieerde kinderopvangplaatsen dat gelijkstaat aan het niveau van de projectsubsidie.
 
 ### ART 56/3.
 
-Voor de organisator die voor zijn kinderopvanglocatie groepsopvang op 31 december 2016 een subsidie ontvangt op basis van het besluit van de Vlaamse Regering van 6 februari 2015 houdende de regeling van de toekenning van subsidies aan de organisatoren van kinderopvang, buitenschoolse opvang en adoptiebemiddeling die personeelsleden te werk stellen in een gewezen DAC-statuut, wordt die subsidie in onderling akkoord tussen Kind en Gezin en de organisator omgezet in een basissubsidie als vermeld in artikel 12 tot en met 16, een subsidie voor inkomenstarief als vermeld in artikel 18 tot en met 36/1 en artikel 59, van dit besluit, of in een plussubsidie als vermeld in artikel 37 tot en met 40 van dit besluit, of in een subsidie voor flexibele urenpakketten groepsopvang als vermeld in artikel 40/7 tot en met 40/10 van dit besluit, of in een combinatie van de voormelde subsidievormen. Het subsidiebedrag na omzetting kan maximaal even hoog zijn als het subsidiebedrag dat de organisator ontving op basis van het voormelde besluit van de Vlaamse Regering van 6 februari 2015.<br>
+Voor de organisator die voor zijn kinderopvanglocatie groepsopvang op 31 december 2016 een subsidie ontvangt op basis van het besluit van de Vlaamse Regering van 6 februari 2015 houdende de regeling van de toekenning van subsidies aan de organisatoren van kinderopvang, buitenschoolse opvang en adoptiebemiddeling die personeelsleden te werk stellen in een gewezen DAC-statuut, wordt die subsidie in onderling akkoord tussen het agentschap en de organisator omgezet in een basissubsidie als vermeld in artikel 12 tot en met 16, een subsidie voor inkomenstarief als vermeld in artikel 18 tot en met 36/1 en artikel 59, van dit besluit, of in een plussubsidie als vermeld in artikel 37 tot en met 40 van dit besluit, of in een subsidie voor flexibele urenpakketten groepsopvang als vermeld in artikel 40/7 tot en met 40/10 van dit besluit, of in een combinatie van de voormelde subsidievormen. Het subsidiebedrag na omzetting kan maximaal even hoog zijn als het subsidiebedrag dat de organisator ontving op basis van het voormelde besluit van de Vlaamse Regering van 6 februari 2015.<br>
 <br>
-In afwijking van het eerste lid heeft de organisator die de werking van zijn kinderopvanglocatie kan verderzetten zonder over de subsidie op basis van het besluit van de Vlaamse Regering van 6 februari 2015, vermeld in het eerste lid, te beschikken, geen recht op de omzetting, vermeld in het eerste lid. Deze beoordeling gebeurt in onderling akkoord tussen Kind en Gezin en de organisator, op basis van de volgende parameters:<br>
+In afwijking van het eerste lid heeft de organisator die de werking van zijn kinderopvanglocatie kan verderzetten zonder over de subsidie op basis van het besluit van de Vlaamse Regering van 6 februari 2015, vermeld in het eerste lid, te beschikken, geen recht op de omzetting, vermeld in het eerste lid. Deze beoordeling gebeurt in onderling akkoord tussen het agentschap en de organisator, op basis van de volgende parameters:<br>
 1° de noodzaak aan personeel dat gesubsidieerd wordt met DAC-subsidie voor de opvang van de kinderen, het betreft meer bepaald de kinderbegeleiders die nodig zijn om het opgelegde aantal kinderbegeleiders te hebben in verhouding tot het aantal opgevangen kinderen;<br>
 2° de omvang van de fractie van de DAC-subsidie ten opzichte van de globale subsidie en de mogelijke impact van het wegvallen van die fractie op de globale middelen van de organisator.<br>
 <br>
@@ -820,11 +852,15 @@ Binnen de overgangsperiode van zes jaar en voor de bedragen, vermeld in het eers
 
 ### ART. 61.
 
-<P>Voor de kinderopvanglocaties die vroeger inkomensgerelateerd werkten op basis   van het besluit, vermeld in 52, 4°, geldt een overgangsperiode van zes jaar   vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 om te   voldoen aan :<BR>1° de voorwaarde over de rechtspersoonlijkheid met sociaal   oogmerk, vermeld in artikel 24;<BR>2° de voorwaarden over de boekhouding en het   financieel verslag, vermeld in artikel 26.<BR></P>  <P>Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het   decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis van   het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden   inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor   onthaalouders, en op basis van het besluit, vermeld in artikel 52, 1°, 3°, en   4°, geldt een overgangsperiode van drie jaar voor de organisator van   gezinsopvang en&nbsp;twee jaar voor de organisator van groepsopvang, om te   voldoen aan de voorwaarde over de actieve kennis van de Nederlandse taal voor de   kinderbegeleider, vermeld in artikel 15.<BR></P>
+<p>Voor de kinderopvanglocaties die vroeger inkomensgerelateerd werkten op basis van het besluit, vermeld in 52, 4°, geldt een overgangsperiode van zes jaar vanaf de datum van inwerkingtreding van het decreet van 20 april 2012 om te voldoen aan :<br>
+1° de voorwaarde over de rechtspersoonlijkheid met sociaal oogmerk, vermeld in artikel 24;<br>
+2° de voorwaarden over de boekhouding en het financieel verslag, vermeld in artikel 26.</p>
+
+<p>Voor de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders, en op basis van het besluit, vermeld in artikel 52, 1°, 3°, en 4°, geldt een overgangsperiode van drie jaar voor de organisator van gezinsopvang en&nbsp;twee jaar voor de organisator van groepsopvang, om te voldoen aan de voorwaarde over de actieve kennis van de Nederlandse taal voor de kinderbegeleider, vermeld in artikel 15.</p>
 
 ### ART. 61/1.
 
-Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van   het decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op basis   van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de   voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten   voor onthaalouders en op basis van het besluit, vermeld in artikel 52, 4°, geldt   een overgangsperiode van één jaar om te voldoen aan de voorwaarden over het   betalen voor gereserveerde kinderopvangdagen, vermeld in artikel 28 en 29, op   voorwaarde dat er in tussentijd geen ander nieuw systeem wordt   ingevoerd.
+Voor de kinderopvanglocaties die op de datum van de inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders en op basis van het besluit, vermeld in artikel 52, 4°, geldt een overgangsperiode van één jaar om te voldoen aan de voorwaarden over het betalen voor gereserveerde kinderopvangdagen, vermeld in artikel 28 en 29, op voorwaarde dat er in tussentijd geen ander nieuw systeem wordt ingevoerd.
 
 ## Afdeling 4 Andere overgangsbepalingen
 
@@ -838,7 +874,7 @@ In afwijking van artikel 33, eerste lid, 3°, wordt het inkomenstarief   bereken
 
 ### ART. 62.
 
-In afwijking van artikel 20 zorgen de kinderopvanglocaties die vroeger   aangesloten onthaalouders waren en de kinderopvanglocaties die   vroeger&nbsp;inkomensgerelateerd werkten op basis van het besluit, vermeld in   artikel 52, 4°, en de kinderopvanglocaties die op de datum van inwerkingtreding   van het decreet van 20 april 2012 een subsidie ontvangen van Kind en Gezin op   basis van het besluit van de Vlaamse Regering van 9 mei 2008 houdende de   voorwaarden voor toestemming voor en subsidiëring van lokale diensten   buurtgerichte kinderopvang, in 2014, 2015&nbsp;en 2016 voor een ononderbroken   openingsduur van minstens negen uur tussen 6 en 20 uur.<BR>
+In afwijking van artikel 20 zorgen de kinderopvanglocaties die vroeger aangesloten onthaalouders waren en de kinderopvanglocaties die vroeger&nbsp;inkomensgerelateerd werkten op basis van het besluit, vermeld in artikel 52, 4°, en de kinderopvanglocaties die op de datum van inwerkingtreding van het decreet van 20 april 2012 een subsidie ontvangen van het agentschap op basis van het besluit van de Vlaamse Regering van 9 mei 2008 houdende de voorwaarden voor toestemming voor en subsidiëring van lokale diensten buurtgerichte kinderopvang, in 2014, 2015&nbsp;en 2016 voor een ononderbroken openingsduur van minstens negen uur tussen 6 en 20 uur.
 
 ### ART. 63.
 
@@ -853,13 +889,13 @@ In afwijking van artikel 21 heeft de organisator een bezetting :<BR>1° van   70
 Zolang de kinderbegeleider werkt volgens het sociaal statuut van de aangesloten onthaalouders, betaalt de organisator aan de kinderbegeleider:<br>
 1° een kostenvergoeding van 20,77 euro per kinderopvangprestatie die vijf tot elf uur duurt, 60% van dat bedrag per kinderopvangprestatie die minder dan vijf uur duurt, en 160% van dat bedrag per kinderopvangprestatie die elf uur of meer duurt, of per kinderopvangprestatie 's nachts;<br>
 2° de subsidie flexibele gezinsopvang, vermeld in artikel 40/1, eerste lid, 1° ;<br>
-3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie Kind en Gezin een specifieke toekenning van bepaalde duur heeft verleend.
+3° de subsidie voor individuele inclusieve kinderopvang, vermeld in artikel 41, per kinderopvangprestatie van een kind met een specifieke zorgbehoefte voor wie het agentschap een specifieke toekenning van bepaalde duur heeft verleend.
 
 ## HOOFDSTUK 3 Subsidies van andere overheidsinstanties
 
 ### ART. 66.
 
-Indien een organisator voldoet aan de voorwaarden voor een bepaalde   subsidie, vermeld in dit besluit, en van een andere overheidsinstantie dan van   Kind en Gezin subsidie krijgt volgens de bepalingen van dit besluit, dan kan   Kind en Gezin instaan voor het toezicht op het naleven van deze   voorwaarden.<BR>
+Indien een organisator voldoet aan de voorwaarden voor een bepaalde subsidie, vermeld in dit besluit, en van een andere overheidsinstantie dan van het agentschap subsidie krijgt volgens de bepalingen van dit besluit, dan kan het agentschap instaan voor het toezicht op het naleven van deze voorwaarden.
 
 ## HOOFDSTUK 4 Inwerkingtredingsbepaling en uitvoeringsbepaling
 
