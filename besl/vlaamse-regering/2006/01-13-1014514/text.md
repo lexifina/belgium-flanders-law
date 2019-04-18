@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° minister:   de V
 3° het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br>
 4° het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, met uitzondering van afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en gemeenschappelijke interne diensten voor preventie en bescherming op het werk;<br>
 5° het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders;<br>
-6° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, alleen wat betreft de toepassing van artikel 8, § 1, en 12;<br>
+6° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, alleen wat betreft de toepassing van artikel 8, § 1, en 12;<br>
 7° het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 8° het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
 9° het Woonzorgdecreet van 13 maart 2009, met uitzondering van de diensten voor thuisverpleging;<br>
