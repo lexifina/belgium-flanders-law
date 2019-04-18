@@ -38,13 +38,13 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder :<br>
-1° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
 2° organisatoren : organisatoren of kandidaat-organisatoren van kinderopvang.<br>
 &nbsp;
 
 ### ART 2.
 
-&nbsp;Kind en Gezin kent een subsidie toe aan het ondersteuningsnetwerk kinderopvang, dat de vorm aanneemt van een rechtspersoon zonder winstoogmerk, en als uitsluitende opdracht heeft de opdrachten, vermeld in artikel 3, 4 en 5, te realiseren.
+Het agentschap kent een subsidie toe aan het ondersteuningsnetwerk kinderopvang, dat de vorm aanneemt van een rechtspersoon zonder winstoogmerk, en als uitsluitende opdracht heeft de opdrachten, vermeld in artikel 3, 4 en 5, te realiseren.
 
 ## HOOFDSTUK 2 Opdrachten
 
@@ -61,7 +61,7 @@ b) veiligheid en gezondheid;<br>
 c) omgang met kinderen en gezinnen;<br>
 d) medewerkers;<br>
 e) organisatorisch management;<br>
-f) samenwerking met Kind en Gezin, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners;<br>
+f) samenwerking met het agentschap, het lokaal bestuur, het lokaal loket kinderopvang en andere lokale partners;<br>
 g) opnamebeleid, met bijzondere aandacht voor kwetsbare gezinnen;<br>
 h) inclusieve opvang van kinderen met een specifieke zorgbehoefte;<br>
 i) flexibele opvang.<br>
@@ -77,7 +77,7 @@ De ondersteuning, vermeld in artikel 3, wordt gegeven in de vorm van :<br>
 
 ### ART 5.
 
-Het ondersteuningsnetwerk kinderopvang sluit een samenwerkingsovereenkomst met Kind en Gezin. Die overeenkomst bevat de volgende elementen :<br>
+Het ondersteuningsnetwerk kinderopvang sluit een samenwerkingsovereenkomst met het agentschap. Die overeenkomst bevat de volgende elementen :<br>
 1° de prioriteiten voor de opdrachten, vermeld in artikel 3 en 4, op het vlak van inhoud, budget en doelgroep;<br>
 2° de inhoudelijke planning, de budgettaire planning en de evaluatie van de opdrachten, vermeld in artikel 3 en 4;<br>
 3° de mogelijke prijs die aan de organisatoren gevraagd kan worden voor de ondersteuning;<br>
@@ -105,9 +105,9 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 Zolang het ondersteuningsnetwerk kinderopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3, 4 en 5, geldt de subsidie voor een duur van drie jaar.<br>
 <br>
-Als Kind en Gezin de werking positief evalueert, wordt de subsidie telkens automatisch verlengd door Kind en Gezin voor drie jaar.<br>
+Als het agentschap de werking positief evalueert, wordt de subsidie telkens automatisch verlengd door het agentschap voor drie jaar.<br>
 <br>
-Kind en Gezin betrekt de organisatoren of hun vertegenwoordigers bij de evaluatie, vermeld in het tweede lid.<br>
+Het agentschap betrekt de organisatoren of hun vertegenwoordigers bij de evaluatie, vermeld in het tweede lid.<br>
 &nbsp;
 
 ### ART 9.
@@ -116,7 +116,7 @@ Het ondersteuningsnetwerk kinderopvang kan op de volgende wijze reserves opbouwe
 1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3, 4 en 5, te realiseren;<br>
 2° maximaal 20% van het subsidiebedrag kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
 3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50% van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
-4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan Kind en Gezin, tenzij het ondersteuningsnetwerk kinderopvang een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.<br>
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij het ondersteuningsnetwerk kinderopvang een aanwendingsplan of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.<br>
 &nbsp;
 
 ### ART 10.
@@ -140,12 +140,12 @@ De subsidie wordt betaald met voorschotten per kwartaal en een saldoafrekening.<
 <br>
 De voorschotten bedragen telkens 20% van het bedrag, vermeld in artikel 6, en worden de eerste maand van elk kwartaal betaald. Het saldo wordt betaald uiterlijk op 1 april van het jaar dat volgt op het betreffende kalenderjaar.<br>
 <br>
-In afwijking van het eerste en het tweede lid kan Kind en Gezin, bij ernstige problemen bij het ondersteuningsnetwerk kinderopvang, en minstens als er een risico is op plotse stopzetting van de opdrachten, vermeld in artikel 3, 4 en 5, of bij vermoeden van fraude door het ondersteuningsnetwerk kinderopvang, beslissen om specifieke maatregelen te nemen voor de betaling van de voorschotten en de saldoafrekening, zoals het niet betalen of het verminderen van het bedrag van een voorschot.<br>
+In afwijking van het eerste en het tweede lid kan het agentschap, bij ernstige problemen bij het ondersteuningsnetwerk kinderopvang, en minstens als er een risico is op plotse stopzetting van de opdrachten, vermeld in artikel 3, 4 en 5, of bij vermoeden van fraude door het ondersteuningsnetwerk kinderopvang, beslissen om specifieke maatregelen te nemen voor de betaling van de voorschotten en de saldoafrekening, zoals het niet betalen of het verminderen van het bedrag van een voorschot.<br>
 &nbsp;
 
 ### ART 13.
 
-De subsidie wordt aangerekend op de begroting van Kind en Gezin.<br>
+De subsidie wordt aangerekend op de begroting van het agentschap.<br>
 <br>
 De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgavenbegroting van de Vlaamse overheid.<br>
 &nbsp;
@@ -154,9 +154,9 @@ De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgave
 
 ### ART 14.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit.<br>
+Het agentschap ziet toe op de naleving van de bepalingen van dit besluit.<br>
 <br>
-Kind en Gezin beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
+Het agentschap beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
 &nbsp;
 
 ## HOOFDSTUK 5 Wijzigingsbepalingen
