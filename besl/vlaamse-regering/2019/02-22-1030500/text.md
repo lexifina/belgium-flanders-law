@@ -23,12 +23,13 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° organisator die onder de private sector valt: een organisator die geen lokaal bestuur of overheidsinstantie is;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.<br>
+1°/1 organisator die onder de private sector valt: een organisator die geen lokaal bestuur of overheidsinstantie is;<br>
 2° organisator die onder de publieke sector valt: een organisator die een lokaal bestuur of overheidsinstantie is, vertegenwoordigd door de vakverenigingen van de openbare sector.
 
 ### ART 2.
 
-Kind en Gezin kan conform de bepalingen van dit besluit een subsidie toekennen aan organisatoren met een vergunning voor gezinsopvang zoals bedoeld in het decreet van 20 april 2012, die met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders werken.
+Het agentschap kan conform de bepalingen van dit besluit een subsidie toekennen aan organisatoren met een vergunning voor gezinsopvang zoals bedoeld in het decreet van 20 april 2012, die met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders werken.
 
 ### ART 3.
 
@@ -52,7 +53,7 @@ De bedragen, vermeld in het artikel 4 van dit besluit, worden aangepast aan de a
 
 ### ART 6.
 
-De subsidie wordt betaald met voorschotten van 80% per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan Kind en Gezin beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
+De subsidie wordt betaald met voorschotten van 80% per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
 
 ### ART 7.
 
@@ -89,13 +90,13 @@ c) kinderbegeleiders die bereid zijn om mee te werken aan de evaluatie, vermeld 
 
 ### ART 12.
 
-De organisator meldt aan Kind en Gezin de effectieve vermindering van het toegekende contingent voltijdsequivalenten, uiterlijk drie maanden na de eerste dag van de maand nadat de verminderde invulling van het toegekende contingent voltijdsequivalent zich heeft voorgedaan.
+De organisator meldt aan&nbsp;het agentschap de effectieve vermindering van het toegekende contingent voltijdsequivalenten, uiterlijk drie maanden na de eerste dag van de maand nadat de verminderde invulling van het toegekende contingent voltijdsequivalent zich heeft voorgedaan.
 
 ## [HOOFDSTUK 5. Oproep, aanvraag en toekenning van de subsidie (verv. BVR 14 januari 2022, art. 4, I: 12 april 2022)]
 
 ### ART 13.
 
-De aanvraag van de subsidie, vermeld in dit besluit, wordt uiterlijk op 31 januari 2019 ingediend bij Kind en Gezin, met een aanvraagformulier dat Kind en Gezin ter beschikking stelt.<br>
+De aanvraag van de subsidie, vermeld in dit besluit, wordt uiterlijk op 31 januari 2019 ingediend bij het agentschap, met een aanvraagformulier dat&nbsp;het agentschap ter beschikking stelt.<br>
 <br>
 Het aanvraagformulier, vermeld in het eerste lid, bevat de volgende gegevens:<br>
 1° de naam, de rechtsvorm, het adres en het ondernemingsnummer van de organisator;<br>
@@ -108,17 +109,17 @@ In afwijking van het eerste en tweede lid dient de organisator geen aanvraag in 
 
 ### ART 14.
 
-Naast het aanvraagformulier, vermeld in artikel 13, bezorgt de organisator de volgende documenten aan Kind en Gezin:<br>
+Naast het aanvraagformulier, vermeld in artikel 13, bezorgt de organisator de volgende documenten aan het agentschap:<br>
 1° voor de organisator die onder de private sector valt: een bewijs dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam van de organisator;<br>
 2° voor de organisator die onder de publieke sector valt: een bewijs waaruit blijkt dat de beslissing tot deelname aan het vernieuwende project, vermeld in dit besluit, genomen is door het bevoegde orgaan.
 
 ### ART 15.
 
-Kind en Gezin beslist uiterlijk op 31 maart 2019 over de toekenning van de subsidie.<br>
+Het agentschap&nbsp;beslist uiterlijk op 31 maart 2019 over de toekenning van de subsidie.<br>
 <br>
 De aanvraag is ontvankelijk als ze voldoet aan al de volgende criteria:<br>
 1° de aanvraag werd tijdig ingediend, meer bepaald uiterlijk op 31 januari 2019;<br>
-2° het aanvraagformulier dat Kind en Gezin ter beschikking stelt op haar website, is ingevuld;<br>
+2° het aanvraagformulier dat&nbsp;het agentschap ter beschikking stelt op haar website, is ingevuld;<br>
 3° de aanvraag is naar het e-mailadres gestuurd dat vermeld wordt op het aanvraagformulier;<br>
 4° de aanvraag werd ingediend door een organisator die werkt als organisator gezinsopvang met kinderbegeleiders in het sociaal statuut van de aangesloten onthaalouders.<br>
 <br>
@@ -129,9 +130,9 @@ De aanvraag wordt uitgesloten als aan een of meer van de volgende criteria is vo
 <br>
 Bij de beoordeling van de aanvragen geldt het volgende voorrangscriterium: de aanvragen waarbij de organisator aangeeft bereid te zijn om minstens vijf voltijdsequivalenten tewerk te stellen, hebben voorrang.<br>
 <br>
-Kind en Gezin beoordeelt de gegrondheid van de aanvragen op basis van de som van de volgende scores:<br>
-1° de score van Kind en Gezin op een maximum van 3 punten voor de behaalde bezetting in 2017;<br>
-2° de score van Kind en Gezin op een maximum van 3 punten voor de plaats-onthaalouderratio.<br>
+Het agentschap&nbsp;beoordeelt de gegrondheid van de aanvragen op basis van de som van de volgende scores:<br>
+1° de score van&nbsp;het agentschap op een maximum van 3 punten voor de behaalde bezetting in 2017;<br>
+2° de score van&nbsp;het agentschap op een maximum van 3 punten voor de plaats-onthaalouderratio.<br>
 <br>
 De aanvragen die voldoen aan het voorrangscriterium, vermeld in het vierde lid, worden eerst behandeld. Binnen die groep worden de aanvragen gerangschikt op basis van de score, vermeld in het vijfde lid. De aanvragen met de hoogste score komen bovenaan in de rangschikking. Binnen de groep van aanvragen die niet voldoen aan het voormelde voorrangscriterium wordt dezelfde wijze van rangschikking toegepast. De toekenningen van de subsidie gebeuren in volgorde van voormelde werkwijze en rekening houdend met het beschikbare budget.
 
@@ -139,18 +140,18 @@ De aanvragen die voldoen aan het voorrangscriterium, vermeld in het vierde lid, 
 
 ### ART 16.
 
-Kind en Gezin evalueert minstens de volgende elementen van het vernieuwende project:<br>
+Het agentschap&nbsp;evalueert minstens de volgende elementen van het vernieuwende project:<br>
 1° de impact op de organisatoren en de kinderbegeleiders;<br>
 2° de impact op de dienstverlening aan de gezinnen;<br>
 3° de kostprijs voor de overheid.<br>
 <br>
-Kind en Gezin werkt het evaluatiekader verder uit, in overleg met de sociale partners.
+Het agentschap&nbsp;werkt het evaluatiekader verder uit, in overleg met de sociale partners.
 
 ## HOOFDSTUK 7. Toezicht
 
 ### ART 17.
 
-Kind en Gezin beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
+Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
 
 ## HOOFDSTUK 8. Slotbepalingen
 
