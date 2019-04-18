@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031711,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot wijziging van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, het besluit van de Vlaamse Regering van 19 juli 2007 houdende samenstelling en werking van de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin, het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien en het besluit van de Vlaamse Regering van 21 oktober 2016 betreffende het raadgevend comité van het Vlaams Centrum voor Adoptie en de Vlaamse adoptieambtenaar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031711/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "9eb45d25b946c5ed01b8c3b19659f054919d95a1e22ffd9d69e3a7a776492074",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031711&param=informatie",
+  "as_of": "2019-04-18",
+  "made": "2019-04-05",
+  "gazette": "2019-05-21",
+  "numac": 2019012342,
+  "document_start": "2019-04-18",
+  "document_end": null,
+  "in_force": "2019-04-18",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2019-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
