@@ -39,49 +39,33 @@ De Vlaamse adoptieambtenaar heeft naast de taken, vermeld in artikel 22, § 1, v
 
 ### ART 4.
 
-Het raadgevend comité bestaat uit achttien leden:<br>
-1° vier vertegenwoordigers van de adoptieouders en geadopteerden;<br>
-2° vier vertegenwoordigers van de voorzieningen die werkzaam zijn op de taakgebieden van het Vlaams Centrum voor Adoptie;<br>
-3° een vertegenwoordiger van de werknemers van de voorzieningen, vermeld in punt 2° ;<br>
-4° zes onafhankelijke deskundigen;<br>
-5° de kinderrechtencommissaris;<br>
-6° een afstandsouder;<br>
-7° een afgevaardigde van de unie van Nederlandstalige jeugdmagistraten.<br>
-<br>
-De leden, vermeld in het eerste lid, 1° tot en met 3°, hebben een plaatsvervanger. Ze worden benoemd op voordracht van de representatieve middenveldorganisaties, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat wordt voorgedragen.<br>
-<br>
-Het lid, vermeld in het eerste lid, 7°, heeft een plaatsvervanger.
+...
 
 ### ART 5.
 
-De Vlaamse Regering wijst onder de leden van het raadgevend comité een voorzitter en hoogstens twee ondervoorzitters aan.<br>
-&nbsp;
+...
 
 ### ART 6.
 
-De leden van het raadgevend comité worden door de Vlaamse Regering ontslagen op eigen verzoek; op verzoek van de organisaties, vermeld in artikel 4, tweede lid, voor zover het gaat om leden die op hun voordracht benoemd zijn; of om ernstige redenen.<br>
-<br>
-Ontslagen leden worden voor de resterende duur van hun mandaat vervangen door hun plaatsvervanger.
+...
 
 ### ART 7.
 
-De leden van het raadgevend comité ontvangen voor hun werkzaamheden een presentiegeld van 87,63 euro per vergadering. Aan de voorzitter wordt een presentiegeld van 131,46 euro toegekend.<br>
-<br>
-Het presentiegeld wordt toegekend bij elke effectieve aanwezigheid op een vergadering met een maximum van zes vergaderingen per jaar. Als vergadering wordt beschouwd: een vergadering van het raadgevend comité. Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.
+...
 
 ### ART 8.
 
-De voorzitter van het raadgevend comité krijgt een vaste vergoeding van 876,38 euro per jaar.
+...
 
 ### ART 9.
 
-De presentiegelden en de vergoedingen, vermeld in artikel 7 en 8, worden per jaar uitbetaald.
+...
 
 ## HOOFDSTUK 4. Slotbepalingen
 
 ### ART 10.
 
-De presentiegelden en vergoedingen, vermeld in artikel 7 en 8, worden jaarlijks gekoppeld aan de afgevlakte gezondheidsindex, berekend en toegepast conform artikel 2 tot en met 2quater van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De bedragen zijn vastgesteld op basis van de afgevlakte gezondheidsindex van december 2015 met basisjaar 2013.
+...
 
 ### ART 11.
 

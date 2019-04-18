@@ -2,16 +2,16 @@
   "codex_id": 1027607,
   "title": "Besluit van de Vlaamse Regering van 2016-10-21 betreffende het raadgevend comité van het Vlaams Centrum voor Adoptie en de Vlaamse adoptieambtenaar",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027607/VolledigDocument?datum=2016-12-12",
-  "source_sha256": "ad5789a2f29d7a12b6c134cbb15e4d2a57c4e218d4ad114fd3de1d3b5b5d8063",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027607/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "ef121781fa3ace9165c982481be5277f494c597f7b6a987f89a1be2b3f0700c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027607&param=informatie",
-  "as_of": "2016-12-12",
+  "as_of": "2019-04-18",
   "made": "2016-10-21",
   "gazette": "2016-12-02",
   "numac": 2016036561,
   "document_start": "2016-12-12",
   "document_end": null,
-  "in_force": "2016-12-12",
+  "in_force": "2019-04-18",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2016-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }
