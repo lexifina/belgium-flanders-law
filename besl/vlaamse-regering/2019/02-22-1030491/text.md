@@ -28,18 +28,18 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° gesubsidieerde kinderopvangplaats: een kinderopvangplaats die gesubsidieerd is met een subsidie voor inkomenstarief voor gezinsopvang als vermeld in artikel 17 of artikel 59, § 1, van het Subsidiebesluit van 22 november 2013;<br>
-2° Kind en Gezin: het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+2° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.<br>
 3° niet-gekwalificeerde kinderbegeleider: een kinderbegeleider die nog geen kwalificatie als vermeld in artikel 43, § 2, eerste lid, 4°, a), van het Vergunningsbesluit van 22 november 2013, heeft;<br>
 4° organisator: een organisator van gezinsopvang of van groepsopvang als vermeld in artikel 59, § 1, van het Subsidiebesluit van 22 november 2013.
 
 ### ART 2.
 
-Kind en Gezin kent een subsidie toe aan pools gezinsopvang die elk minstens 1500 gesubsidieerde kinderopvangplaatsen ondersteunen en de vorm aannemen van een rechtspersoon zonder winstoogmerk om de opdrachten, vermeld in artikel 3 en 4, te realiseren.<br>
+Het agentschap&nbsp;kent een subsidie toe aan pools gezinsopvang die elk minstens 1500 gesubsidieerde kinderopvangplaatsen ondersteunen en de vorm aannemen van een rechtspersoon zonder winstoogmerk om de opdrachten, vermeld in artikel 3 en 4, te realiseren.<br>
 <br>
 De pool gezinsopvang:<br>
 1° biedt de ondersteuning met betrekking tot de opdrachten vermeld in artikel 3 en 4, in principe kosteloos aan;<br>
 2° treedt neutraal op, onder andere door de rol van pool gezinsopvang en de rol van organisator die hij eventueel opneemt, te scheiden en zorgt ervoor dat er geen dubbele subsidiëring is voor de opdrachten die in het verlengde liggen van de opdrachten, vermeld in artikel 3 en 4;<br>
-3° meldt jaarlijks uiterlijk op 31 december van het subsidiejaar aan Kind en Gezin welke organisatoren hij ondersteunt.
+3° meldt jaarlijks uiterlijk op 31 december van het subsidiejaar aan&nbsp;het agentschap welke organisatoren hij ondersteunt.
 
 ## HOOFDSTUK 2. Opdrachten
 
@@ -77,19 +77,19 @@ De ondersteuning wordt onderling afgestemd tussen de pools gezinsopvang met als 
 1° de uitwisseling van instrumenten en methodieken;<br>
 2° de volledige afdekking van de doelgroep, met inbegrip van de organisatoren waarbij de kinderbegeleider tegelijk ook de verantwoordelijke is.<br>
 <br>
-De pools gezinsopvang geven de volgende gegevens periodiek door aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin:<br>
+De pools gezinsopvang geven de volgende gegevens periodiek door aan het agentschap, volgens de administratieve richtlijnen van het agentschap:<br>
 1° het aantal kinderbegeleiders dat ondersteund wordt door de mentoren;<br>
 2° het aantal kinderbegeleiders dat gekwalificeerd is na de ondersteuning;<br>
 3° het aantal ingezette mentoren en hun kwalificatie.
 
 ### ART 5.
 
-De pool gezinsopvang sluit een samenwerkingsovereenkomst met Kind en Gezin, die de volgende elementen bevat:<br>
+De pool gezinsopvang sluit een samenwerkingsovereenkomst met het agentschap, die de volgende elementen bevat:<br>
 1° voor de opdrachten, vermeld in artikel 3 en 4: een inhoudelijk en budgettair meerjarenplan per pool gezinsopvang;<br>
 2° voor de opdracht, vermeld in artikel 4: een gezamenlijk meerjarenplan over de wijze waarop de niet-gekwalificeerde kinderbegeleiders tussen de pools gezinsopvang verdeeld zullen worden;<br>
 3° de modaliteiten van de rapportering, de opvolging, de actualisering en de evaluatie van de elementen, vermeld in het meerjarenplan.<br>
 <br>
-De budgettaire planning en de rapportering aan Kind en Gezin over de elementen, vermeld in het eerste lid, bevatten respectievelijk een begroting, met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven, en een gescheiden boekhouding die de inkomsten en de uitgaven transparant afzondert. Daarbij geldt telkens de volgende globale verdeelsleutel:<br>
+De budgettaire planning en de rapportering aan&nbsp;het agentschap over de elementen, vermeld in het eerste lid, bevatten respectievelijk een begroting, met een overzicht van de voorzienbare inkomsten en de geraamde uitgaven, en een gescheiden boekhouding die de inkomsten en de uitgaven transparant afzondert. Daarbij geldt telkens de volgende globale verdeelsleutel:<br>
 1° 40 % van het budget wordt besteed aan de opdracht, vermeld in artikel 3;<br>
 2° 60 % van het budget wordt besteed aan de opdracht, vermeld in artikel 4.
 
@@ -107,7 +107,7 @@ De subsidie wordt toegekend met inachtneming van het besluit 2012/21/EU van de C
 
 De subsidie geldt voor een duur van vijf jaar, op voorwaarde dat:<br>
 1° de pool gezinsopvang voldoet aan de voorwaarden voor de realisatie van de opdrachten, vermeld in artikel 3 en 4, en specifiek ook aan de voorwaarden, vermeld in artikel 2, tweede lid;<br>
-2° Kind en Gezin de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.
+2°&nbsp;het agentschap de werking positief evalueert, uiterlijk na drie jaar. De organisatoren of hun vertegenwoordigers worden betrokken bij die tussentijdse evaluatie.
 
 ### ART 9.
 
@@ -115,7 +115,7 @@ De pool gezinsopvang kan op de volgende wijze reserves opbouwen met de subsidies
 1° de reserves worden aangewend om de opdrachten, vermeld in artikel 3 en 4, te realiseren;<br>
 2° maximaal 20 % van het subsidiebedrag kan als reserve overgedragen worden naar het volgende kalenderjaar;<br>
 3° de gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in punt 2°, is maximaal 50 % van de jaarlijkse subsidiebedragen, vermeld in punt 2° ;<br>
-4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan Kind en Gezin, tenzij de pool gezinsopvang een aanwendings- of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.
+4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt het overschreden bedrag teruggestort aan het agentschap, tenzij de pool gezinsopvang een aanwendings- of aanzuiveringsplan heeft dat voldoet aan een aantal criteria, waaronder de goedkeuring van de Inspectie van Financiën van de Vlaamse overheid.
 
 ### ART 10.
 
@@ -129,11 +129,11 @@ Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsinde
 
 ### ART 11.
 
-De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan Kind en Gezin beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
+De subsidie wordt betaald met een voorschot van 80 % per kwartaal, behalve in geval van een vermoeden van ernstige problemen, en minstens als er een risico is op plotse stopzetting van de opdrachten of bij een vermoeden van fraude. In dat geval kan&nbsp;het agentschap beslissen om geen voorschot of een lager voorschot te betalen. Het saldo wordt afgerekend uiterlijk op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie, behalve als de opdrachten niet meer worden opgenomen. In dat geval wordt het saldo afgerekend in het kwartaal dat volgt op de stopzetting van de opdrachten.
 
 ### ART 12.
 
-De subsidie wordt aangerekend op de begroting van Kind en Gezin.<br>
+De subsidie wordt aangerekend op de begroting van het agentschap.<br>
 <br>
 De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgavenbegroting van de Vlaamse overheid.
 
@@ -141,24 +141,24 @@ De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgave
 
 ### ART 13.
 
-De pool gezinsopvang vraagt de subsidie elektronisch aan voor 28 februari 2019, volgens de administratieve richtlijnen van Kind en Gezin. De aanvraag bevat de volgende gegevens:<br>
+De pool gezinsopvang vraagt de subsidie elektronisch aan voor 28 februari 2019, volgens de administratieve richtlijnen van het agentschap. De aanvraag bevat de volgende gegevens:<br>
 1° de gegevens over de organisator van de pool gezinsopvang: de naam, de rechtsvorm, het adres en het ondernemingsnummer;<br>
-2° de gegevens over de contactpersoon voor Kind en Gezin en voor de organisatoren: de voor- en achternaam, het telefoonnummer, het adres en het e-mailadres;<br>
+2° de gegevens over de contactpersoon voor het agentschap en voor de organisatoren: de voor- en achternaam, het telefoonnummer, het adres en het e-mailadres;<br>
 3° het rekeningnummer, de rekeninghouder en de contactgegevens van de organisator van de pool gezinsopvang;<br>
 4° een overzicht van de organisatoren met gesubsidieerde kinderopvangplaatsen die de pool gezinsopvang ondersteunt;<br>
 5° de datum van de ondertekening en de handtekening van de persoon die gemachtigd is om te handelen in naam van de pool gezinsopvang.
 
 ### ART 14.
 
-Kind en Gezin neemt uiterlijk op 31 maart 2019 een beslissing tot toekenning of weigering van de subsidie, waarbij de subsidie geldt met ingang van 1 januari 2019.
+Het agentschap&nbsp;neemt uiterlijk op 31 maart 2019 een beslissing tot toekenning of weigering van de subsidie, waarbij de subsidie geldt met ingang van 1 januari 2019.
 
 ## HOOFDSTUK 5. Toezicht en handhaving
 
 ### ART 15.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit.<br>
+Het agentschap&nbsp;ziet toe op de naleving van de bepalingen van dit besluit.<br>
 <br>
-Kind en Gezin beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
+Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
 
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
