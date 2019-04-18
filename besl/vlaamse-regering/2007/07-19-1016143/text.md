@@ -10,11 +10,11 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 In dit besluit wordt verstaan onder :<br>
 1° raadgevende comités : de raadgevende comités bij de intern verzelfstandigde agentschappen van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
-2° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+2° agentschap Opgroeien regie: het agentschap, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° VAPH : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 4° Agentschap voor Vlaamse Sociale Bescherming : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Agentschap voor Vlaamse Sociale Bescherming, vermeld in artikel 9 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming;<br>
 5° Zorg en Gezondheid : het intern verzelfstandigd agentschap Zorg en Gezondheid;<br>
-6° Jongerenwelzijn : het intern verzelfstandigd agentschap Jongerenwelzijn;<br>
+6° ...;<br>
 7° minister : de Vlaamse minister bevoegd voor de Bijstand aan Personen en voor het Gezondheidsbeleid.<br>
 &nbsp;
 
@@ -37,11 +37,26 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 3° zes vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
 4° zes onafhankelijke deskundigen.<br>
 <br>
-§ 3. Het raadgevend comité van Kind en Gezin bestaat uit 20 leden, waarvan :<br>
-1° vier vertegenwoordigers van de gebruikers van de door het betrokken agentschap georganiseerde ondersteuning;<br>
-2° vier vertegenwoordigers van de voorzieningen, die actief zijn op het werkterrein van het betrokken agentschap;<br>
-3° vier vertegenwoordigers van de werknemers van de voorzieningen, vermeld in 2°;<br>
-4° acht onafhankelijke deskundigen.<br>
+§ 3. Het raadgevend comité van het agentschap Opgroeien regie bestaat uit de volgende dertig leden:<br>
+1° acht vertegenwoordigers van de gebruikers van de ondersteuning en dienstverlening die wordt georganiseerd door het agentschap en door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
+2° acht vertegenwoordigers van de voorzieningen die actief zijn op het terrein van het agentschap en van de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
+3° drie vertegenwoordigers van de werknemers van de voorzieningen, vermeld in punt 2° ;<br>
+4° drie vertegenwoordigers van de werkgevers van de voorzieningen, vermeld in punt 2° ;<br>
+5° twee afgevaardigden namens de jeugdmagistratuur;<br>
+6° zes onafhankelijke deskundigen.<br>
+<br>
+Bij het raadgevend comité van het agentschap Opgroeien regie worden de volgende twee kamers opgericht:<br>
+1° een kamer kinderopvang en preventieve gezinsondersteuning, die bestaat uit de volgende twintig leden:<br>
+a) twee vertegenwoordigers van de gebruikers van de ondersteuning en dienstverlening die het agentschap organiseert op het terrein van kinderopvang of preventieve gezinsondersteuning;<br>
+b) zes vertegenwoordigers van de voorzieningen die actief zijn op het terrein van kinderopvang of preventieve gezinsondersteuning;<br>
+c) drie vertegenwoordigers van de werknemers van de voorzieningen, vermeld in punt b);<br>
+d) drie vertegenwoordigers van de werkgevers van de voorzieningen, vermeld in punt b);<br>
+e) zes onafhankelijke deskundigen;<br>
+2° een kamer adoptie, die bestaat uit de volgende twaalf leden:<br>
+a) drie vertegenwoordigers van de adoptieouders en geadopteerden;<br>
+b) drie vertegenwoordigers van de voorzieningen die werkzaam zijn op het taakgebied van het Vlaams Centrum voor Adoptie;<br>
+c) drie vertegenwoordigers van de werknemers van de voorzieningen, vermeld in punt b);<br>
+d) drie onafhankelijke deskundigen.<br>
 <br>
 § 4. Overeenkomstig artikel 17 van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming bestaat het raadgevend comité van het Agentschap voor Vlaamse Sociale Bescherming uit 32 leden, waarvan :<br>
 1° acht vertegenwoordigers van de cliënten, de patiënten en de mantelzorgers;<br>
@@ -50,11 +65,7 @@ De voorzitter, vermeld in artikel 5, wordt aangewezen onder de deskundigen, verm
 4° zes vertegenwoordigers van de voorzieningen en de zorgverstrekkers;<br>
 5° zes onafhankelijke deskundigen met een bijzondere bekwaamheid op het vlak van sociale bescherming.<br>
 <br>
-§ 5 Het raadgevend comité van Jongerenwelzijn bestaat uit 24 leden, waarvan :<br>
-1° zeven vertegenwoordigers van de gebruikers van de ondersteuning, georganiseerd door de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
-2° acht vertegenwoordigers van de voorzieningen die actief zijn op het terrein van de departementen en agentschappen die betrokken zijn bij de integrale jeugdhulp;<br>
-3° drie vertegenwoordigers van de werknemers van de voorzieningen vermeld in punt 2° ;<br>
-4° zes onafhankelijke deskundigen.
+§ 5 ...
 
 ### ART. 3.
 
@@ -63,7 +74,7 @@ De leden worden door de Vlaamse Regering voor een periode van vier jaar benoemd,
 
 ### ART. 4.
 
-De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°.<br>
+De minister nodigt organisaties en geledingen uit om kandidaten voor te dragen voor de mandaten vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
 <br>
 Hij houdt hierbij rekening met de maatschappelijke relevantie en de belangrijkheid van deze organisaties en geledingen evenals met de verscheidenheid ervan.<br>
 &nbsp;
@@ -75,12 +86,12 @@ De minister wijst onder de leden van de raadgevende comités een voorzitter en h
 
 ### ART. 6.
 
-De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3° , § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°.<br>
+De voordragende organisaties en geledingen duiden een plaatsvervanger aan voor de vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°,§ 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4°.<br>
 &nbsp;
 
 ### ART. 7.
 
-De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, 1° tot en met 3°, § 4, 1° tot en met 4°, en § 5, 1° tot en met 3°, worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
+De vertegenwoordigers, vermeld in artikel 2, § 1, eerste lid, 1° tot en met 4°, § 2, 1° tot en met 3°, § 3, eerste lid, 1° tot en met 5°, tweede lid, 1°, a) tot en met d), tweede lid, 2° a) tot en met c) en § 4, 1° tot en met 4° worden voorgedragen op lijsten, waarbij voor elke vertegenwoordiger één mannelijke en één vrouwelijke kandidaat worden voorgedragen.<br>
 <br>
 Telkens als in een raadgevend comité één of meerdere mandaten ten gevolge van een voordrachtprocedure vacant zijn, moeten per mandaat, één man en één vrouw worden voorgedragen.<br>
 &nbsp;
@@ -103,6 +114,14 @@ Het lidmaatschap van een raadgevend comité is onverenigbaar met :<br>
 ### ART. 10.
 
 Elk raadgevend comité stelt binnen de drie maanden na de samenstelling, een huishoudelijk reglement op, volgens het model in bijlage. Het huishoudelijk reglement wordt ter goedkeuring aan de Vlaamse Regering voorgelegd.<br /><br />
+
+### ART 10/1.
+
+Het raadgevend comité van het agentschap Opgroeien regie geeft advies over aangelegenheden met betrekking tot de beleidsdomeinen die behoren tot de bevoegdheid van het agentschap met het oog op de realisatie van een geïntegreerd jeugd- en gezinsbeleid.<br>
+<br>
+Bij het raadgevend comité van het agentschap Opgroeien regie worden de volgende twee kamers opgericht:<br>
+1° een kamer kinderopvang en preventieve gezinsondersteuning, bevoegd om sectorale adviezen te verlenen over de beleidsdomeinen kinderopvang en preventieve gezinsondersteuning;<br>
+2° een kamer adoptie, bevoegd om sectorale adviezen te verlenen over het beleidsdomein adoptie.
 
 ## HOOFDSTUK IV Slotbepalingen
 
