@@ -10,12 +10,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 In dit decreet wordt verstaan onder:<br>
 1° agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid dat optreedt als enige publieke uitbetalingsactor;<br>
+1° /1 agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° begunstigde: de natuurlijke persoon of de rechtspersoon aan wie toelagen in het kader van het gezinsbeleid betaald worden;<br>
 3° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
 4° ...<br>
 5° gezinsbeleid: het gezinsbeleid met inbegrip van alle vormen van hulp en bijstand aan gezinnen en kinderen, vermeld in artikel 5, § 1, II, 1°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, en het beleid inzake de gezinsbijslagen, vermeld in artikel 5, § 1, IV, van de voormelde wet;<br>
 6° Huizen van het Kind: de Huizen van het Kind, vermeld in hoofdstuk 3 van het decreet van 29 november 2013 houdende de organisatie van de preventieve gezinsondersteuning;<br>
-7° Kind en Gezin: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+7° ...<br>
 8° private uitbetalingsactor: een private rechtspersoon, vergund met het oog op de uitbetaling van toelagen in het kader van het gezinsbeleid;<br>
 9° toelagen in het kader van het gezinsbeleid: de toelagen die de overheid uitbetaalt aan gezinnen in het kader van de gezinsbijslagen, of elke andere toelage die de overheid rechtstreeks toekent ter ondersteuning van de kosten voor de opvoeding van kinderen of andere doelstellingen in het kader van het gezinsbeleid;<br>
 10° uitbetalingsactoren: het agentschap en de private uitbetalingsactoren.
@@ -62,11 +63,11 @@ De Vlaamse Regering kan nadere regels bepalen voor de aangelegenheden, vermeld i
 
 Met het oog op de uitvoering van de missie, vermeld in artikel 4, en de taken, vermeld in artikel 5, is het agentschap gerechtigd alle activiteiten te verrichten die bijdragen tot de verwezenlijking van de voormelde missie en taken.<br>
 <br>
-Om de taken, vermeld in artikel 5, te realiseren, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met Kind en Gezin en met de Huizen van het Kind.<br>
+Om de taken, vermeld in artikel 5, te realiseren, werkt het agentschap samen met instanties, diensten en verenigingen die op het vlak van de voormelde taken actief zijn, in het bijzonder met&nbsp;het agentschap Opgroeien regie en met de Huizen van het Kind.<br>
 <br>
 Het agentschap organiseert samen met de private uitbetalingsactoren een goed uitgewerkte loketfunctie, zowel fysiek via de Huizen van het Kind, als via digitale weg. Het agentschap zorgt er in overleg met de private uitbetalingsactoren voor dat de fysieke loketten voldoende geografisch verspreid en vlot bereikbaar zijn.<br>
 <br>
-Het agentschap zal de verworven kennis en expertise ter beschikking stellen van Kind en Gezin.<br>
+Het agentschap zal de verworven kennis en expertise ter beschikking stellen van het agentschap Opgroeien regie.<br>
 <br>
 Het agentschap optimaliseert en vernieuwt zijn activiteiten permanent op basis van actuele ontwikkelingen op het vlak van kennis en expertise.
 
@@ -87,7 +88,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de gegevensregistratie en verw
 § 1. Het agentschap wordt bestuurd door een raad van bestuur die is samengesteld uit:<br>
 1° negen bestuurders, aangesteld door de Vlaamse Regering;<br>
 2° één bestuurder voor elke vergunde private uitbetalingsactor;<br>
-3° één waarnemend lid, aangewezen door Kind en Gezin;<br>
+3° één waarnemend lid, aangewezen door het agentschap Opgroeien regie;<br>
 4° de gedelegeerd bestuurder, vermeld in artikel 9.<br>
 <br>
 § 2. Overeenkomstig&nbsp;artikel III.40, eerste lid, van het Bestuursdecreet is minimaal een derde van het aantal stemgerechtigde leden van de raad van bestuur een onafhankelijke bestuurder.<br>
@@ -138,7 +139,7 @@ Het agentschap voert een transparante boekhouding waarbij een efficiënte bested
 
 ### ART 13.
 
-Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, houdt, op verzoek van Kind en Gezin, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor.
+Zorginspectie als vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, houdt, op verzoek van het agentschap Opgroeien regie, toezicht op de besteding van de beleidskredieten door de publieke uitbetalingsactor.
 
 ## Afdeling 3 Audit
 
@@ -166,7 +167,7 @@ Het auditcharter verduidelijkt de aspecten in verband met de doelstellingen, de 
 
 ### ART 16.
 
-Het agentschap rapporteert aan Kind en Gezin over elke audit.
+Het agentschap rapporteert aan&nbsp;het agentschap Opgroeien regie over elke audit.
 
 ### ART 17.
 
@@ -192,7 +193,7 @@ De klachten- en bemiddelingsdienst bemiddelt tussen een uitbetalingsactor en een
 
 ### ART 21.
 
-&nbsp;Het agentschap rapporteert jaarlijks over de klachten over uitbetalingsactoren en de bemiddeling tussen uitbetalingsactoren en begunstigden aan Kind en Gezin binnen de termijn en volgens de vormvereisten die de Vlaamse Regering bepaalt.
+Het agentschap rapporteert jaarlijks over de klachten over uitbetalingsactoren en de bemiddeling tussen uitbetalingsactoren en begunstigden aan&nbsp;het agentschap Opgroeien regie binnen de termijn en volgens de vormvereisten die de Vlaamse Regering bepaalt.
 
 ## Afdeling 5 Sociale inspectie- en begeleidingsdienst
 
@@ -237,13 +238,13 @@ De Vlaamse Regering kan aan het agentschap roerende en onroerende goederen ter b
 
 ### ART 26.
 
-§ 1. Kind en Gezin kan maximaal vier private uitbetalingsactoren vergunnen conform de voorwaarden, vermeld in dit hoofdstuk.<br>
+§ 1. Het agentschap Opgroeien regie kan maximaal vier private uitbetalingsactoren vergunnen conform de voorwaarden, vermeld in dit hoofdstuk.<br>
 <br>
 Een vergunde private uitbetalingsactor maakt deel uit van de raad van bestuur van het agentschap.<br>
 <br>
 Een vergunning geldt voor onbepaalde duur.<br>
 <br>
-§ 2. Na vier jaar werking van de private uitbetalingsactoren zal Kind en Gezin de organisatie van de uitbetaling van toelagen in het kader van het gezinsbeleid evalueren.<br>
+§ 2. Na vier jaar werking van de private uitbetalingsactoren zal&nbsp;het agentschap Opgroeien regie de organisatie van de uitbetaling van toelagen in het kader van het gezinsbeleid evalueren.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels betreffende de procedure voor de evaluatie vermeld in het eerste lid, die minstens betrekking hebben op de volgende criteria:<br>
 1° de kostenefficiëntie van de werking;<br>
@@ -262,7 +263,7 @@ Om een vergunning te krijgen en te behouden, voldoet een private uitbetalingsact
 3° de private uitbetalingsactor neemt alleen taken op voor activiteiten in het kader van het gezinsbeleid en heeft geen activiteiten als ziekenfonds in het kader van het gezondheidsbeleid, als vakbond in het kader van werkloosheid of als zorgkas binnen de Vlaamse Sociale Bescherming;<br>
 4° de private uitbetalingsactor koppelt geen voordelen aan de aansluiting van een begunstigde, vermeld in artikel 28, 11° ;<br>
 5° de private uitbetalingsactor maakt aannemelijk dat hij binnen zes maanden nadat hij de vergunning heeft verkregen, ten minste 120.000 kinddossiers in actief beheer zal hebben;<br>
-6° de private uitbetalingsactor heeft na die eerste termijn van zes maanden gedurende elke twee opeenvolgende kalenderjaren een gemiddelde van ten minste 120.000 kinddossiers in actief beheer, waarbij het gemiddelde berekend wordt op het einde van de tweejaarlijkse periode, op basis van de kwartaalgegevens, vermeld in het kadaster, beheerd door Kind en Gezin;<br>
+6° de private uitbetalingsactor heeft na die eerste termijn van zes maanden gedurende elke twee opeenvolgende kalenderjaren een gemiddelde van ten minste 120.000 kinddossiers in actief beheer, waarbij het gemiddelde berekend wordt op het einde van de tweejaarlijkse periode, op basis van de kwartaalgegevens, vermeld in het kadaster, beheerd door het agentschap Opgroeien regie;<br>
 7° de private uitbetalingsactor neemt in de statuten de volgende bepalingen op:<br>
 a) een formulering van het maatschappelijk doel in overeenstemming met de bepalingen van dit decreet;<br>
 b) de verplichting om bij stopzetting van de activiteiten voor de uitbetaling van toelagen in het kader van het gezinsbeleid de middelen en de reserves conform de bepalingen van dit decreet en de uitvoeringsbesluiten te besteden of terug te storten aan de bevoegde overheid;<br>
@@ -300,9 +301,9 @@ b) reserves die aangelegd zijn voor een meerjarige verbintenis, gesloten door de
 Een private uitbetalingsactor vervult minstens de volgende opdrachten:<br>
 1° toelagen in het kader van het gezinsbeleid stipt, correct, continu en, waar mogelijk, automatisch uitbetalen aan de aangesloten gezinnen, waarbij gebruikgemaakt wordt van de gemeenschappelijke betaalmotor, vermeld in artikel 5, eerste lid, 8°, met inachtneming van de regelgeving betreffende deze toelagen en de onderrichtingen van het agentschap;<br>
 2° het recht op toelagen in het kader van het gezinsbeleid van de dossiers onder zijn beheer proactief onderzoeken op basis van de gegevens die beschikbaar zijn via de elektronische gegevensstromen, met het oog op automatische rechtentoekenning waar mogelijk en het informeren van begunstigden en potentieel begunstigden van hun recht op toelagen in het kader van het gezinsbeleid;<br>
-3° samenwerken met andere instanties, diensten en verenigingen die op het vlak van de toegewezen opdrachten actief zijn, in het bijzonder Kind en Gezin, het agentschap en de Huizen van het Kind;<br>
+3° samenwerken met andere instanties, diensten en verenigingen die op het vlak van de toegewezen opdrachten actief zijn, in het bijzonder het agentschap Opgroeien regie, het agentschap en de Huizen van het Kind;<br>
 4° in samenwerking met het agentschap de loketfunctie vervullen, vermeld in artikel 6, derde lid;<br>
-5° de gegevens die betrekking hebben op activiteiten in het kader van het gezinsbeleid en de werking van de rechtspersoon, registreren en verwerken, en die gegevens ter beschikking stellen van Kind en Gezin en het agentschap in de vorm en binnen de termijnen die de Vlaamse Regering vaststelt;<br>
+5° de gegevens die betrekking hebben op activiteiten in het kader van het gezinsbeleid en de werking van de rechtspersoon, registreren en verwerken, en die gegevens ter beschikking stellen van&nbsp;het agentschap Opgroeien regie en het agentschap in de vorm en binnen de termijnen die de Vlaamse Regering vaststelt;<br>
 6° waarborgen dat de persoonsgegevens geregistreerd en verwerkt worden met inachtneming van de regelgeving betreffende de bescherming van de persoonlijke levenssfeer;<br>
 7° een&nbsp;analytische boekhouding opmaken, waarbij een efficiënte besteding van de overheidsmiddelen wordt aangetoond en verantwoord, en waarbij in een strikte scheiding wordt voorzien tussen, enerzijds, de middelen, inclusief de reserves, die vastgelegd zijn voor de uitbetaling van toelagen in het kader van het gezinsbeleid, en, anderzijds, de middelen die vastgelegd zijn voor de werking;<br>
 8° reserves aanleggen, beheren en aanwenden conform artikel 27, 14° en 15°. De Vlaamse Regering bepaalt de nadere regels betreffende de reservevorming;<br>
@@ -313,7 +314,7 @@ Een private uitbetalingsactor vervult minstens de volgende opdrachten:<br>
 
 ### ART 29.
 
-Kind en Gezin verleent een vergunning aan de private uitbetalingsactoren conform de vergunningsvoorwaarden, vermeld in artikel 27 en 28.<br>
+Het agentschap Opgroeien regie&nbsp;verleent een vergunning aan de private uitbetalingsactoren conform de vergunningsvoorwaarden, vermeld in artikel 27 en 28.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de aanvraagprocedure voor een vergunning.<br>
 <br>
@@ -329,7 +330,7 @@ De Vlaamse Regering bepaalt de nadere regels voor de te volgen procedure bij de 
 
 ### ART 30/1.
 
-Een private uitbetalingsactor ontvangt jaarlijks een subsidie van Kind en Gezin om de toelagen in het kader van het gezinsbeleid te kunnen uitbetalen overeenkomstig de regelgeving betreffende de uitbetaling van toelagen in het kader van het gezinsbeleid. Die subsidie dient louter om de bedragen te dekken die uitbetaald moeten worden aan de begunstigden van toelagen in het kader van het gezinsbeleid.<br>
+Een private uitbetalingsactor ontvangt jaarlijks een subsidie van&nbsp;het agentschap Opgroeien regie om de toelagen in het kader van het gezinsbeleid te kunnen uitbetalen overeenkomstig de regelgeving betreffende de uitbetaling van toelagen in het kader van het gezinsbeleid. Die subsidie dient louter om de bedragen te dekken die uitbetaald moeten worden aan de begunstigden van toelagen in het kader van het gezinsbeleid.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere voorwaarden voor de vaststelling en de toekenning van de subsidies, vermeld in het eerste lid.
 
