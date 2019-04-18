@@ -11,7 +11,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 ### ART. 2.
 
 In dit decreet wordt verstaan onder :<br>
-1° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° kinderopvang : kinderopvang van baby's en peuters, namelijk het beroepsmatig en tegen betaling opvoeden, bijdragen aan de ontwikkeling en verzorgen van baby's en peuters tot ze naar de kleuterschool, vermeld in artikel 3, 26°, van het decreet basisonderwijs van 25 februari 1997, gaan;<br>
 3° kinderopvanglocatie : een vestigingsplaats waar kinderopvang georganiseerd wordt;<br>
 4° organisator : de natuurlijke persoon of de rechtspersoon die kinderopvang organiseert;<br>
@@ -21,7 +21,7 @@ In dit decreet wordt verstaan onder :<br>
 8° werkingsvoorwaarde : de voorwaarde waaraan een organisator van een vergunde kinderopvanglocatie moet voldoen om de vergunning te behouden;<br>
 9° lokaal bestuur : het gemeentebestuur en het bestuur van het openbaar centrum voor maatschappelijk welzijn. Voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad worden de opdrachten van het lokaal bestuur opgenomen door de Vlaamse Gemeenschapscommissie;<br>
 10° lokaal loket kinderopvang : neutraal informatie- en ondersteuningspunt voor gezinnen met een vraag naar kinderopvang, in de vorm van een netwerk van actoren die relevant zijn voor kinderopvang;<br>
-11° toezichthouder : de organisatie die één of meerdere toezichtperso(o)n(en) aanwijst om ter plaatse te laten vaststellen of de organisator de bepalingen van dit decreet en de uitvoeringsbesluiten ervan naleeft, om Kind en Gezin daarover te adviseren;<br>
+11° toezichthouder : de organisatie die één of meerdere toezichtperso(o)n(en) aanwijst om ter plaatse te laten vaststellen of de organisator de bepalingen van dit decreet en de uitvoeringsbesluiten ervan naleeft, om het agentschap daarover te adviseren;<br>
 12° private toezichtpersoon : het personeelslid van de private toezichthouder dat toezicht houdt;<br>
 13° Zorginspectie : Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
 14° tegelijk aanwezige kinderen : alle baby's, peuters en kinderen die naar de basisschool gaan, en wat de kinderen die deel uitmaken van het gezin van de kinderbegeleider gezinsopvang betreft tot het einde van de kleuterschool, die gelijktijdig in de kinderopvanglocatie aanwezig zijn;<br>
@@ -48,18 +48,18 @@ De Vlaamse Gemeenschap beoogt met kinderopvang een dienstverlening aan gezinnen 
 
 ### ART. 4.
 
-Een organisator moet over een of meer van de volgende vergunningen van Kind en Gezin beschikken om kinderopvang te kunnen organiseren :<br>
+Een organisator moet over een of meer van de volgende vergunningen van het agentschap&nbsp;beschikken om kinderopvang te kunnen organiseren :<br>
 1° vergunning voor gezinsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht tegelijk aanwezige kinderen;<br>
 2° vergunning voor groepsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, en er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br>
 3° vergunning voor opvang aan huis, als de organisator van kinderopvang uitsluitend kinderen in hun eigen gezinswoning opvangt.<br>
 <br>
-Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij Kind en Gezin.<br>
+Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij het agentschap.<br>
 <br>
-Een vergunning wordt toegekend door Kind en Gezin als uit passend onderzoek door een toezichthouder of door Kind en Gezin, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+Een vergunning wordt toegekend door&nbsp;het agentschap als uit passend onderzoek door een toezichthouder of door het agentschap, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
 <br>
 Als de organisator voldoet aan de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan, geldt een vergunning voor onbepaalde duur, met behoud van de toepassing van artikel 19.<br>
 <br>
-De organisator meldt tijdig de tijdelijke of definitieve stopzetting van de kinderopvang of elke wijziging die gevolgen heeft voor de vergunning aan Kind en Gezin en aan de gezinnen van de op te vangen kinderen.<br>
+De organisator meldt tijdig de tijdelijke of definitieve stopzetting van de kinderopvang of elke wijziging die gevolgen heeft voor de vergunning aan&nbsp;het agentschap en aan de gezinnen van de op te vangen kinderen.<br>
 <br>
 De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning en&nbsp;de wijziging van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen, evenals de procedure om een sanctie op te leggen als een stopzetting of een wijziging die gevolgen heeft voor de vergunning, niet of niet tijdig wordt gemeld.
 
@@ -88,14 +88,14 @@ Als de gegevens, vermeld in het eerste en het tweede lid, die op de uitgereikte 
 a) het respecteren van de fysieke en de psychische integriteit van elk kind;<br>
 b) het niet discrimineren van kinderen en gezinnen. Er mogen geen voorwerpen of tekenen aanwezig zijn die blijk geven van discriminatie of die racistisch, xenofoob of onwettig zijn, als de aanwezige voorwerpen of tekenen een nadelige invloed op de kinderen kunnen hebben;<br>
 c) het pedagogische beleid en de pedagogische ondersteuning met het oog op het stimuleren van de ontwikkeling van elk kind op lichamelijk, cognitief, sociaal-emotioneel, communicatief, creatief en moreel vlak, en met het oog op het waarborgen van het welbevinden en de betrokkenheid van elk kind;<br>
-d) de betrokkenheid en de participatie van de gezinnen, met inbegrip van de periodieke evaluatie van de tevredenheid van de gezinnen en de communicatie met de gezinnen, en met inbegrip van de informatie van Kind en Gezin over de vergunning;<br>
+d) de betrokkenheid en de participatie van de gezinnen, met inbegrip van de periodieke evaluatie van de tevredenheid van de gezinnen en de communicatie met de gezinnen, en met inbegrip van de informatie van&nbsp;het agentschap over de vergunning;<br>
 e) het huishoudelijk reglement en de schriftelijke overeenkomst met de gezinnen;<br>
 4° de personen werkzaam in de kinderopvanglocatie, minstens met betrekking tot :<br>
 a) de verantwoordelijke, zoals zijn kwalificatie, te volgen vorming en zijn actieve kennis van de Nederlandse taal;<br>
 b) de kinderbegeleider, zoals zijn kwalificatie, te volgen vorming, het aantal kinderbegeleiders in verhouding tot het aantal tegelijk aanwezige kinderen en voor minstens één van de kinderbegeleiders de actieve kennis van de Nederlandse taal;<br>
 c) de persoon die in afwezigheid van de verantwoordelijke de taak van de verantwoordelijke als aanspreekpersoon overneemt, zoals zijn actieve kennis van de Nederlandse taal;<br>
 5° het organisatorische management van de kinderopvanglocatie, minstens de verantwoordelijkheidstoedeling, de leefgroepindeling, de financiële werking, het kwaliteitsbeleid en de klachtenbehandeling;<br>
-6° de samenwerking met Kind en Gezin, het lokaal loket kinderopvang en het lokaal bestuur.<br>
+6° de samenwerking met het agentschap, het lokaal loket kinderopvang en het lokaal bestuur.<br>
 <br>
 § 2. Wat de vergunning voor gezinsopvang en voor opvang aan huis betreft, gaat de organisator, in aanvulling op de voorwaarden, vermeld in paragraaf 1, de draagkracht van de kinderbegeleider na. Onder draagkracht wordt verstaan: de bekwaamheid om aan kinderopvang te doen, rekening houdend met de fysieke en psychische conditie van de kinderbegeleider en met het geheel van ondersteunende en belastende factoren in de context van de kinderbegeleider, zoals gezinssituatie, sociaal netwerk en infrastructuur.<br>
 <br>
@@ -121,11 +121,13 @@ De Vlaamse Regering bepaalt de nadere regels, minstens het model en de geldighei
 
 ### ART. 7.
 
-De organisator met een vergunning voor gezinsopvang of een vergunning voor   groepsopvang kan een basissubsidie ontvangen van Kind en Gezin.<BR><BR>De   Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder   minstens de voorwaarden voor de actieve taalkennis van het Nederlands voor de   kinderbegeleiders [... zie arrest 97/2014 van het Grondwettelijk Hof van 30 juni   2014].
+De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan een basissubsidie ontvangen van het agentschap.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de basissubsidie, waaronder minstens de voorwaarden voor de actieve taalkennis van het Nederlands voor de kinderbegeleiders [... zie arrest 97/2014 van het Grondwettelijk Hof van 30 juni 2014].
 
 ### ART. 8.
 
-§ 1. De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van Kind en Gezin voor de realisatie van kinderopvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
+§ 1. De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 7, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvang waarvoor de gezinnen betalen op basis van het inkomen, en voor de realisatie van de toegang tot de kinderopvang voor gezinnen die beantwoorden aan kenmerken die bij voorrang betrekking hebben op :<br>
 1° de werksituatie, met minstens het kenmerk dat kinderopvang noodzakelijk is om toegang te hebben tot de arbeidsmarkt of om een beroepsgerichte opleiding in het kader hiervan te kunnen volgen, en verder :<br>
 2° de financiële situatie;<br>
 3° de gezinssamenstelling:<br>
@@ -151,19 +153,32 @@ b) een attest van niveaubepaling uitgevoerd door een Huis van het Nederlands dat
 <br>
 De Vlaamse Regering kan de Openbare Centra voor Maatschappelijk Welzijn ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. Voor gezinnen die een beroep doen op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, die moet worden geacht wegens zijn organisatie uitsluitend te behoren tot de Vlaamse Gemeenschap, en voor wie het Openbaar Centrum voor Maatschappelijk Welzijn geen beslissing neemt, kan de Vlaamse Regering de organisator ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. De Vlaamse Regering bepaalt de nadere regels, meer bepaald in welke gevallen het Openbaar Centrum voor Maatschappelijk Welzijn of de organisator, in geval een beroep gedaan wordt op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, een beslissing kan nemen en waarover.<br>
 <br>
-Kind en Gezin kan maatregelen nemen ten aanzien van de gezinnen die niet de correcte gegevens verstrekken, nodig voor de berekening van de prijs van de kinderopvang, of die een wijziging van die gegevens niet meedelen. Die maatregelen bestaan uit de bepaling van het juiste inkomenstarief voor de toekomst en uit het bepalen van een schadevergoeding ten laste van de contracthouder voor het verleden. De Vlaamse Regering bepaalt daarvoor de nadere regels, meer bepaald hoe dit juiste inkomenstarief gefactureerd zal worden ten aanzien van de contracthouder en hoeveel de schadevergoeding bedraagt. Kind en Gezin kan beslissen af te zien van deze schadevergoeding in geval van overmacht, goede trouw of indien sprake van behartenswaardige gevallen.
+Het agentschap&nbsp;kan maatregelen nemen ten aanzien van de gezinnen die niet de correcte gegevens verstrekken, nodig voor de berekening van de prijs van de kinderopvang, of die een wijziging van die gegevens niet meedelen. Die maatregelen bestaan uit de bepaling van het juiste inkomenstarief voor de toekomst en uit het bepalen van een schadevergoeding ten laste van de contracthouder voor het verleden. De Vlaamse Regering bepaalt daarvoor de nadere regels, meer bepaald hoe dit juiste inkomenstarief gefactureerd zal worden ten aanzien van de contracthouder en hoeveel de schadevergoeding bedraagt. Het agentschap&nbsp;kan beslissen af te zien van deze schadevergoeding in geval van overmacht, goede trouw of indien sprake van behartenswaardige gevallen.
 
 ### ART. 9.
 
-De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 8, een subsidie ontvangen van Kind en Gezin voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen, waaronder de bestrijding van armoede in gezinnen, en voor de realisatie van toegang voor die gezinnen. Kwetsbare gezinnen zijn gezinnen die minstens beantwoorden aan verschillende van de hieronder vermelde basiscriteria :<br />1° de werksituatie;<br />2° de financiële situatie;<br />3° de gezinssamenstelling;<br />4° de gezondheid en de zorgsituatie;<br />5° het opleidingsniveau.<br /><br />De Vlaamse Regering bepaalt de opdrachten en de regels, die minstens inhouden welke groepen bij voorrang toegang hebben tot kinderopvang met de subsidie, en dat de organisatoren van kinderopvang met de subsidie onderling en met het lokaal loket kinderopvang samenwerken met het oog op een opnamebeleid dat afgestemd is op kwetsbare gezinnen en tevens de basiscriteria, vermeld in het eerste lid, en de wijze waarop ze formeel worden vastgesteld.
+De organisator met een vergunning voor gezinsopvang of een vergunning voor groepsopvang kan bovenop de subsidie, vermeld in artikel 8, een subsidie ontvangen van&nbsp;het agentschap voor de realisatie van kinderopvangopdrachten ter ondersteuning van kwetsbare gezinnen, waaronder de bestrijding van armoede in gezinnen, en voor de realisatie van toegang voor die gezinnen. Kwetsbare gezinnen zijn gezinnen die minstens beantwoorden aan verschillende van de hieronder vermelde basiscriteria :<br>
+1° de werksituatie;<br>
+2° de financiële situatie;<br>
+3° de gezinssamenstelling;<br>
+4° de gezondheid en de zorgsituatie;<br>
+5° het opleidingsniveau.<br>
+<br>
+De Vlaamse Regering bepaalt de opdrachten en de regels, die minstens inhouden welke groepen bij voorrang toegang hebben tot kinderopvang met de subsidie, en dat de organisatoren van kinderopvang met de subsidie onderling en met het lokaal loket kinderopvang samenwerken met het oog op een opnamebeleid dat afgestemd is op kwetsbare gezinnen en tevens de basiscriteria, vermeld in het eerste lid, en de wijze waarop ze formeel worden vastgesteld.
 
 ### ART. 10.
 
-De organisator met een vergunning voor gezinsopvang of met een vergunning voor groepsopvang kan bovenop de subsidies, vermeld in artikel 7, 8 en 9, een subsidie ontvangen van Kind en Gezin voor :<br />1° de organisatie van kinderopvang met flexibele openingstijden;<br />2° de organisatie van inclusieve kinderopvang voor kinderen met een specifieke zorgbehoefte;<br />3° de ondersteuning van specifieke opdrachten;<br />4° de eenmalige ondersteuning van andere opdrachten.
+De organisator met een vergunning voor gezinsopvang of met een vergunning voor groepsopvang kan bovenop de subsidies, vermeld in artikel 7, 8 en 9, een subsidie ontvangen van&nbsp; het agentschap voor :<br>
+1° de organisatie van kinderopvang met flexibele openingstijden;<br>
+2° de organisatie van inclusieve kinderopvang voor kinderen met een specifieke zorgbehoefte;<br>
+3° de ondersteuning van specifieke opdrachten;<br>
+4° de eenmalige ondersteuning van andere opdrachten.
 
 ### ART. 11.
 
-Kind en Gezin kan een subsidie toekennen aan :<br />1° de initiatiefnemer of de structuur die de organisatie van het lokaal loket kinderopvang op zich neemt voor de opdrachten, vermeld in artikel 13;<br />2° de organisator met een vergunning voor opvang aan huis.
+Het agentschap&nbsp;kan een subsidie toekennen aan :<br>
+1° de initiatiefnemer of de structuur die de organisatie van het lokaal loket kinderopvang op zich neemt voor de opdrachten, vermeld in artikel 13;<br>
+2° de organisator met een vergunning voor opvang aan huis.
 
 ### ART. 12.
 
@@ -185,9 +200,9 @@ Binnen een gemeente is er één lokaal loket kinderopvang met de volgende opdrac
 1° de registratie van de vragen naar kinderopvang en van de voorkeur van gezinnen voor kinderopvangplaatsen coördineren, zodat een gezin maar één vraag hoeft te stellen over beschikbare opvangplaatsen;<br>
 2° gezinnen binnen een redelijke termijn informeren over beschikbare kinderopvangplaatsen en hen zo nodig in contact brengen met de kinderopvanglocaties, met aandacht voor maatschappelijk kwetsbare gezinnen;<br>
 3° samenwerken met alle kinderopvanglocaties binnen het werkingsgebied, met instanties die werken met gezinnen die kinderopvangvragen kunnen hebben, en met andere lokale loketten kinderopvang in functie van de opdrachten, vermeld in punt 1° en 2° ;<br>
-4° het lokaal bestuur of de lokale besturen, de organisatoren van kinderopvang en Kind en Gezin informeren over de vragen naar kinderopvangplaatsen.<br>
+4° het lokaal bestuur of de lokale besturen, de organisatoren van kinderopvang en&nbsp;het agentschap informeren over de vragen naar kinderopvangplaatsen.<br>
 <br>
-Het lokaal loket kinderopvang krijgt gestalte doordat binnen het Lokaal Overleg Kinderopvang, dit is de gemeentelijke adviesraad inzake kinderopvang, ter uitvoering van artikel 6, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, een initiatiefnemer wordt aangewezen of een structuur wordt gecreëerd om het lokaal loket kinderopvang te organiseren. Elke lokale actor die relevant is voor kinderopvang, kan de organisatie op zich nemen. Als er geen initiatiefnemer wordt aangewezen of als er geen structuur wordt gecreëerd en een operationeel werkend lokaal loket kinderopvang ontbreekt, neemt het lokaal bestuur de organisatie ervan op zich.<br>
+Het lokaal loket kinderopvang krijgt gestalte doordat binnen het Lokaal Overleg Kinderopvang, dit is de gemeentelijke adviesraad inzake kinderopvang, ter uitvoering van artikel 6, § 3, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, een initiatiefnemer wordt aangewezen of een structuur wordt gecreëerd om het lokaal loket kinderopvang te organiseren. Elke lokale actor die relevant is voor kinderopvang, kan de organisatie op zich nemen. Als er geen initiatiefnemer wordt aangewezen of als er geen structuur wordt gecreëerd en een operationeel werkend lokaal loket kinderopvang ontbreekt, neemt het lokaal bestuur de organisatie ervan op zich.<br>
 <br>
 Het lokaal loket kinderopvang kan betrekking hebben op verschillende gemeenten binnen de grenzen van de zorgregio.<br>
 <br>
@@ -197,7 +212,7 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 14.
 
-De Vlaamse Regering kan nadere regels bepalen om vernieuwende projecten inzake kinderopvang die niet onder de toepassing van de bepalingen in dit decreet vallen, te organiseren en te laten subsidiëren door Kind en Gezin.
+De Vlaamse Regering kan nadere regels bepalen om vernieuwende projecten inzake kinderopvang die niet onder de toepassing van de bepalingen in dit decreet vallen, te organiseren en te laten subsidiëren door het agentschap.
 
 ## HOOFDSTUK 6. Handhaving
 
@@ -213,11 +228,11 @@ De Vlaamse Regering kan toezichthouders aanwijzen naast Zorginspectie. Dit gebeu
 3° de voorafgaande machtiging door de Vlaamse Regering;<br>
 4° de controle op de private toezichthouder;<br>
 5° de prijs die voor het toezicht gevraagd wordt, en wie die prijs betaalt;<br>
-6° de verhouding met Zorginspectie en met Kind en Gezin.<br>
+6° de verhouding met Zorginspectie en met het agentschap.<br>
 <br>
 Bij de uitoefening van zijn toezichtopdracht draagt de private toezichtpersoon een legitimatiebewijs bij zich dat hij, op verzoek, meteen voorlegt. De Vlaamse Regering bepaalt de nadere inhoud en het model van het legitimatiebewijs en bepaalt ook welk bestuursorgaan het legitimatiebewijs uitreikt.<br>
 <br>
-Kind en Gezin oefent toezicht uit op stukken.
+Het agentschap oefent toezicht uit op stukken.
 
 ## Onderafdeling 2. Toezichtrechten
 
@@ -242,9 +257,9 @@ De private toezichtpersoon maakt een verslag op van zijn toezichtbezoek en stelt
 <br>
 De organisator heeft het recht om binnen een termijn van veertien kalenderdagen na de schriftelijke kennisgeving schriftelijke opmerkingen over de inhoud van het verslag aan de private toezichthouder over te maken.<br>
 <br>
-De private toezichthouder voegt de eventuele schriftelijke opmerkingen van de organisator bij het verslag van vaststelling dat hij aan Kind en Gezin bezorgt.<br>
+De private toezichthouder voegt de eventuele schriftelijke opmerkingen van de organisator bij het verslag van vaststelling dat hij aan het agentschap bezorgt.<br>
 <br>
-Op basis van het ontvangen verslag van vaststelling van de private toezichthouder onderneemt Kind en Gezin zo nodig verdere stappen volgens de bepalingen, vermeld in artikel 18 tot en met 22. Kind en Gezin stelt de organisator daarvan in kennis.<br>
+Op basis van het ontvangen verslag van vaststelling van de private toezichthouder onderneemt het agentschap zo nodig verdere stappen volgens de bepalingen, vermeld in artikel 18 tot en met 22. Het agentschap stelt de organisator daarvan in kennis.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels.
 
@@ -252,7 +267,9 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 18.
 
-Als wordt vastgesteld dat een organisator de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, of het door of krachtens dit decreet geregelde toezicht verhindert, wordt de organisator schriftelijk aangemaand door Kind en Gezin. Die aanmaning vermeldt een termijn waarbinnen de organisator moet voldoen aan de niet-nageleefde bepalingen&nbsp;of aan de vereisten betreffende het toezicht en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.<br>
+Als wordt vastgesteld dat een organisator de bepalingen van dit decreet of de uitvoeringsbesluiten ervan niet naleeft, of het door of krachtens dit decreet geregelde toezicht verhindert, wordt de organisator schriftelijk aangemaand door het agentschap. Die aanmaning vermeldt een termijn waarbinnen de organisator moet voldoen aan de niet-nageleefde bepalingen&nbsp;of aan de vereisten betreffende het toezicht en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen.<br>
+<br>
+Bij dringende noodzakelijkheid kan die aanmaning achterwege gelaten worden en worden onmiddellijk bestuurlijke maatregelen genomen zoals vermeld in afdeling 3.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels.
 
@@ -260,7 +277,7 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 19.
 
-Kind en Gezin kan de vergunning wijzigen, schorsen of opheffen als de organisator :<br>
+Het agentschap kan de vergunning wijzigen, schorsen of opheffen als de organisator :<br>
 1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
 2° ...<br>
 <br>
@@ -272,21 +289,21 @@ De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevat
 
 ### ART. 20.
 
-Kind en Gezin kan de subsidie verminderen, schorsen of stopzetten als de organisator:<br>
+Het agentschap kan de subsidie verminderen, schorsen of stopzetten als de organisator:<br>
 1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
 2° het door of krachtens dit decreet geregelde toezicht verhindert.<br>
 <br>
-Kind en Gezin beslist tot terugvordering van de subsidie overeenkomstig artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
+Het agentschap beslist tot terugvordering van de subsidie overeenkomstig artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels, die minstens de mogelijkheid bevatten om een bezwaar in te dienen.
 
 ### ART. 21.
 
-Als de kinderopvanglocatie georganiseerd wordt zonder een vergunning van Kind en Gezin als vermeld in artikel 4, of als de vergunning wordt opgeheven, geeft Kind en Gezin een sluitingsbevel aan de organisator met vermelding van de datum waarop de sluiting ingaat. In geval van een imminent en ernstig gevaar voor de gezondheid of veiligheid van de kinderen kan de sluiting onmiddellijk worden opgelegd.<br>
+Als de kinderopvanglocatie georganiseerd wordt zonder een vergunning van het agentschap&nbsp;als vermeld in artikel 4, of als de vergunning wordt opgeheven, geeft het agentschap een sluitingsbevel aan de organisator met vermelding van de datum waarop de sluiting ingaat. In geval van een imminent en ernstig gevaar voor de gezondheid of veiligheid van de kinderen kan de sluiting onmiddellijk worden opgelegd.<br>
 <br>
-Als de uitoefening van de kinderopvang opgeschort moet worden of als een kinderopvanglocatie moet sluiten, licht Kind en Gezin zo spoedig mogelijk de burgemeester van de gemeente van de kinderopvanglocatie daarover in.<br>
+Als de uitoefening van de kinderopvang opgeschort moet worden of als een kinderopvanglocatie moet sluiten, licht het agentschap zo spoedig mogelijk de burgemeester van de gemeente van de kinderopvanglocatie daarover in.<br>
 <br>
-De burgemeester gaat na of de opschorting of het sluitingsbevel wordt nageleefd. Als dat niet het geval is, gaat de burgemeester over tot sluiting van de kinderopvanglocatie. Die maatregel wordt op kosten en op risico van de organisator uitgevoerd. De burgemeester informeert Kind en Gezin over zijn vaststellingen.<br>
+De burgemeester gaat na of de opschorting of het sluitingsbevel wordt nageleefd. Als dat niet het geval is, gaat de burgemeester over tot sluiting van de kinderopvanglocatie. Die maatregel wordt op kosten en op risico van de organisator uitgevoerd. De burgemeester informeert het agentschap&nbsp;over zijn vaststellingen.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels.
 
@@ -294,12 +311,12 @@ De Vlaamse Regering bepaalt de nadere regels.
 
 ### ART. 22.
 
-Kind en Gezin kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br>
+Het agentschap kan een bestuurlijke geldboete van 100 tot 100.000 euro opleggen als de organisator :<br>
 1° het door of krachtens dit decreet geregelde toezicht door de private toezichthouder verhindert;<br>
 2° kinderopvang organiseert zonder vergunning als vermeld in artikel 4;<br>
 3° de bepalingen van dit decreet en de uitvoeringsbesluiten ervan niet naleeft.<br>
 <br>
-De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat Kind en Gezin het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
+De bestuurlijke geldboete kan worden opgelegd binnen een termijn van zes maanden, te rekenen vanaf de dag dat het agentschap het verslag van vaststelling van de toezichthouder ontvangt, en op voorwaarde dat de betrokken organisator de kans heeft gehad om gehoord te worden over de vermeende inbreuk en over de hoogte van de geldboete. De organisator mag zich daarbij laten bijstaan of vertegenwoordigen door een advocaat of een derde. Als een bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing het bedrag, de wijze waarop en de termijn waarin die moet worden betaald. De kennisgeving van de beslissing aan de betrokkene vermeldt de wijze waarop en de termijn waarbinnen beroep ingesteld kan worden tegen de beslissing.<br>
 <br>
 De betrokkene kan, op straffe van verval van het recht tot het instellen van het beroep, binnen een termijn van een maand vanaf de kennisgeving van de beslissing waarbij hem een bestuurlijke geldboete wordt opgelegd tegen die beslissing beroep aantekenen met een verzoekschrift bij de Raad van State. Dat beroep schorst de uitvoering van de beslissing.<br>
 <br>
@@ -311,13 +328,15 @@ De Vlaamse Regering bepaalt de nadere regels voor het opleggen en het betalen va
 
 ### ART. 23.
 
-Kind en Gezin beheert het budget dat voortkomt uit de bestuurlijke geldboeten, vermeld in dit decreet en de uitvoeringsbesluiten ervan, en besteedt het ten voordele van de kinderopvangsector.<br /><br />De Vlaamse Regering bepaalt de nadere regels.
+Het agentschap beheert het budget dat voortkomt uit de bestuurlijke geldboeten, vermeld in dit decreet en de uitvoeringsbesluiten ervan, en besteedt het ten voordele van de kinderopvangsector.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels.
 
 ## HOOFDSTUK 7. Gegevensverzameling en -verwerking
 
 ### ART. 24.
 
-Kind en Gezin verwerkt in uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
+Het agentschap verwerkt in uitvoering van dit decreet en de uitvoeringsbesluiten ervan minstens de volgende soorten persoonsgegevens :<br>
 1° van het kind en van het gezin van het kind :<br>
 a) de gegevens over gezondheid, vermeld in artikel 4, 15), van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), van het kind in het kader van de handhaving van de vergunnings- en subsidievoorwaarden en in het kader van de beleidsvoorbereiding en -evaluatie;<br>
 b) identificatiegegevens in het kader van de handhaving van de vergunnings- en subsidievoorwaarden, de aanwezigheidsregistratie, het kenbaar maken van genomen maatregelen met betrekking tot de vergunning of subsidiëring, en de facturatie;<br>
