@@ -43,7 +43,7 @@ Als het aantal ontvankelijke aanvragen tot een vergunning het maximale programma
 
 ### ART 3.
 
-&nbsp;Kind en Gezin doet de oproep tot indiening van een vergunningsaanvraag. De termijn waarbinnen de aanvragen ingediend moeten worden bedraagt 30 dagen vanaf de oproep. De oproep wordt gepubliceerd op de website van Kind en Gezin.<br>
+Het agentschap Opgroeien regie doet de oproep tot indiening van een vergunningsaanvraag. De termijn waarbinnen de aanvragen ingediend moeten worden bedraagt 30 dagen vanaf de oproep. De oproep wordt gepubliceerd op de website van het agentschap Opgroeien regie.<br>
 De oproep bevat:<br>
 1° een toelichting over de gewone vergunningsprocedure en de vergelijkende procedure;<br>
 2° informatie over het beslissingskader dat in de vergelijkende procedure toegepast zal worden voor het vaststellen van de rangorde tussen de aanvragers;<br>
@@ -54,7 +54,7 @@ De oproep bevat:<br>
 
 ### ART 4.
 
-Een vergunningsaanvraag is ontvankelijk als ze binnen de indieningstermijn die in de oproep is vermeld, met een aangetekende brief, door afgifte tegen ontvangstbewijs of op digitale wijze, ingediend wordt bij Kind en Gezin en als ze een dossier bevat dat is samengesteld uit de volgende gegevens en stukken:<br>
+Een vergunningsaanvraag is ontvankelijk als ze binnen de indieningstermijn die in de oproep is vermeld, met een aangetekende brief, door afgifte tegen ontvangstbewijs of op digitale wijze, ingediend wordt bij het agentschap Opgroeien regie en als ze een dossier bevat dat is samengesteld uit de volgende gegevens en stukken:<br>
 1° de identificatiegegevens van de private rechtspersoon;<br>
 2° de identiteitsgegevens van het bestuur en de directie van de aanvrager;<br>
 3° de voor- en achternaam, het telefoonnummer, het e-mailadres van de contactpersoon van de aanvrager, inclusief het machtigingsbewijs om een vergunningsaanvraag in te dienen;<br>
@@ -75,22 +75,22 @@ Een vergunningsaanvraag is ontvankelijk als ze binnen de indieningstermijn die i
 
 ### ART 5.
 
-§ 1. Kind en Gezin bezorgt na ontvangst van de aanvraag een ontvangstmelding. Binnen vijftien dagen na de ontvangst van de aanvraag deelt Kind en Gezin aan de aanvrager mee of de aanvraag ontvankelijk is.<br>
+§ 1. Het agentschap Opgroeien regie bezorgt na ontvangst van de aanvraag een ontvangstmelding. Binnen vijftien dagen na de ontvangst van de aanvraag deelt het agentschap Opgroeien regie aan de aanvrager mee of de aanvraag ontvankelijk is.<br>
 <br>
-Als de aanvraag niet ontvankelijk is omdat een of meer gegevens of stukken als vermeld in artikel 4, ontbreken, vraagt Kind en Gezin de ontbrekende gegevens of stukken op. De termijn voor de indiening van de gegevens of stukken bedraagt 15 dagen. Tijdens deze periode wordt de beslissingstermijn geschorst. Als er binnen deze termijn geen gegevens of stukken, met een aangetekende zending of op digitale wijze aan Kind en Gezin worden bezorgd, is de aanvraag onontvankelijk.<br>
+Als de aanvraag niet ontvankelijk is omdat een of meer gegevens of stukken als vermeld in artikel 4, ontbreken, vraagt het agentschap Opgroeien regie de ontbrekende gegevens of stukken op. De termijn voor de indiening van de gegevens of stukken bedraagt 15 dagen. Tijdens deze periode wordt de beslissingstermijn geschorst. Als er binnen deze termijn geen gegevens of stukken, met een aangetekende zending of op digitale wijze aan het agentschap Opgroeien regie worden bezorgd, is de aanvraag onontvankelijk.<br>
 <br>
-§ 2. Als de vergelijkende procedure wordt toegepast en Kind en Gezin aan een of meer aanvragers de termijn toekent voor de indiening van de ontbrekende gegevens of stukken, vermeld in paragraaf 1, tweede lid, wordt de beslissingstermijn voor al de vergunningsaanvragen verlengd met die termijn. Die verlenging wordt aan al de aanvragers bekendgemaakt met een aangetekende zending of op digitale wijze.<br>
+§ 2. Als de vergelijkende procedure wordt toegepast en het agentschap Opgroeien regie aan een of meer aanvragers de termijn toekent voor de indiening van de ontbrekende gegevens of stukken, vermeld in paragraaf 1, tweede lid, wordt de beslissingstermijn voor al de vergunningsaanvragen verlengd met die termijn. Die verlenging wordt aan al de aanvragers bekendgemaakt met een aangetekende zending of op digitale wijze.<br>
 &nbsp;
 
 ### ART 6.
 
-§ 1. Kind en Gezin onderzoekt de gegrondheid van de aanvraag door de aanvraag te toetsen aan de vergunningsvoorwaarden, vermeld in artikel 27 en 28 van het decreet van 7 juli 2017, en maakt de rangschikking van de aanvragers op als de vergelijkende procedure wordt toegepast.<br>
+§ 1. Het agentschap Opgroeien regie onderzoekt de gegrondheid van de aanvraag door de aanvraag te toetsen aan de vergunningsvoorwaarden, vermeld in artikel 27 en 28 van het decreet van 7 juli 2017, en maakt de rangschikking van de aanvragers op als de vergelijkende procedure wordt toegepast.<br>
 <br>
 § 2. Binnen dertig dagen nadat aan de aanvrager meegedeeld werd dat de aanvraag ontvankelijk is, wordt de beslissing van de administrateur-generaal om de vergunning te verlenen of het voornemen van de administrateur-generaal om de vergunning te weigeren, betekend. De betekening wordt gedaan met een aangetekende brief of op digitale wijze, waarbij de mogelijkheid en de voorwaarden worden vermeld om een bezwaarschrift in te dienen.<br>
 <br>
 Als de vergelijkende procedure van toepassing is, wordt, in afwijking van het eerste lid, gelijktijdig voor alle vergunningsaanvragen het voornemen van de administrateur-generaal tot toekenning of tot weigering van een vergunning aan de aanvrager binnen dertig dagen na de laatste ontvankelijkheidsverklaring met een aangetekende brief of op digitale wijze betekend.<br>
 <br>
-In deze paragraaf wordt verstaan onder administrateur-generaal: het personeelslid dat belast is met de leiding van Kind en Gezin.<br>
+In deze paragraaf wordt verstaan onder administrateur-generaal: het personeelslid dat belast is met de leiding van het agentschap Opgroeien regie.<br>
 &nbsp;
 
 ### ART 7.
@@ -101,7 +101,7 @@ In deze paragraaf wordt verstaan onder administrateur-generaal: het personeelsli
 <br>
 § 2. Tegen een voornemen tot weigering van de vergunning kan de aanvrager bezwaar indienen.<br>
 <br>
-Het bezwaar is ontvankelijk als het gemotiveerd is en uiterlijk vijftien dagen na de ontvangst van het voornemen met een aangetekende brief of door afgifte tegen ontvangstbewijs volgens de richtlijnen van Kind en Gezin wordt ingediend. De indiener van het bezwaar kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
+Het bezwaar is ontvankelijk als het gemotiveerd is en uiterlijk vijftien dagen na de ontvangst van het voornemen met een aangetekende brief of door afgifte tegen ontvangstbewijs volgens de richtlijnen van het agentschap Opgroeien regie wordt ingediend. De indiener van het bezwaar kan daarin uitdrukkelijk vragen om te worden gehoord.<br>
 <br>
 Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007.<br>
 <br>
@@ -128,14 +128,14 @@ Vanaf de kennisgeving, vermeld in het eerste lid, mag de private uitbetalingsact
 ### ART 9.
 
 Na de ontvangst van de kennisgeving tot stopzetting van de activiteiten, vermeld in artikel 8, voldoet het agentschap aan al de volgende voorwaarden:<br>
-1° het agentschap bezorgt de voormelde kennisgeving en het administratief dossier van de stopzetting onmiddellijk aan Kind en Gezin met het oog op de opheffing van de vergunning;<br>
+1° het agentschap bezorgt de voormelde kennisgeving en het administratief dossier van de stopzetting onmiddellijk aan het agentschap Opgroeien regie met het oog op de opheffing van de vergunning;<br>
 2° het agentschap legt alle passende maatregelen op tot vrijwaring van de rechten van de aangesloten begunstigden en tot verzekering van de continuïteit van de uitbetaling van de toelagen in het kader van het gezinsbeleid;<br>
 3° het agentschap bepaalt de wijze waarop en de termijn waarbinnen de gegevens die noodzakelijk zijn voor de overname van de activiteiten aan het agentschap ter beschikking gesteld zullen worden, vermeld in artikel 28, 10°, van het decreet van 7 juli 2017.<br>
 &nbsp;
 
 ### ART 10.
 
-Na ontvangst van de kennisgeving en het administratief dossier, vermeld in artikel 9, 1°, betekent Kind en Gezin de beslissing tot opheffing van de vergunning aan de private uitbetalingsactor binnen vijftien dagen met een aangetekende brief of op digitale wijze. De beslissing waarbij de vergunning van een private uitbetalingsactor wordt opgeheven, vermeldt de datum waarop de opheffing ingaat. Ze wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+Na ontvangst van de kennisgeving en het administratief dossier, vermeld in artikel 9, 1°, betekent het agentschap Opgroeien regie de beslissing tot opheffing van de vergunning aan de private uitbetalingsactor binnen vijftien dagen met een aangetekende brief of op digitale wijze. De beslissing waarbij de vergunning van een private uitbetalingsactor wordt opgeheven, vermeldt de datum waarop de opheffing ingaat. Ze wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
 &nbsp;
 
 ### ART 11.

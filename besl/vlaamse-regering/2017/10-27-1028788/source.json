@@ -2,16 +2,16 @@
   "codex_id": 1028788,
   "title": "Besluit van de Vlaamse Regering van 2017-10-27 tot vaststelling van de procedure tot toekenning of weigering van de vergunning als private uitbetalingsactor voor de uitbetaling van toelagen in het kader van het gezinsbeleid en de procedure bij vrijwillige stopzetting van activiteiten door een vergunde private uitbetalingsactor",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028788/VolledigDocument?datum=2017-11-01",
-  "source_sha256": "630b5b2a3d5072972ec7afa95d762dc91f55ec49d7e5e037f84dc69800029c90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028788/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "6ed20821aa3f2f4cb6ff81be03a25ff050664220b1f3d81278e3e204588180d5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028788&param=informatie",
-  "as_of": "2017-11-01",
+  "as_of": "2019-04-18",
   "made": "2017-10-27",
   "gazette": "2017-12-04",
   "numac": 2017031668,
   "document_start": "2017-11-01",
   "document_end": null,
-  "in_force": "2017-11-01",
+  "in_force": "2019-04-18",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2017-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }
