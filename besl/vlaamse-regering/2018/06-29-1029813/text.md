@@ -222,11 +222,11 @@ Binnen twee werkdagen nadat hij de wraking heeft ontvangen, deelt het gewraakte 
 
 ### ART 21.
 
-Binnen drie werkdagen na het antwoord van het lid dat weigert in de wraking te berusten, of bij gebrek aan een antwoord binnen die termijn stuurt de secretaris de akte van wraking en de verklaring van het lid, als er een is, naar de leidend ambtenaar van Kind en Gezin.<br>
+Binnen drie werkdagen na het antwoord van het lid dat weigert in de wraking te berusten, of bij gebrek aan een antwoord binnen die termijn stuurt de secretaris de akte van wraking en de verklaring van het lid, als er een is, naar de leidend ambtenaar van het agentschap Opgroeien regie.<br>
 <br>
-De leidend ambtenaar van Kind en Gezin doet binnen acht werkdagen definitief uitspraak over de wraking.<br>
+De leidend ambtenaar van het agentschap Opgroeien regie doet binnen acht werkdagen definitief uitspraak over de wraking.<br>
 <br>
-Als de wrakende partij van de wrakingsgronden geen schriftelijk bewijs of geen begin van bewijs levert, kan de leidend ambtenaar van Kind en Gezin de wraking verwerpen op eenvoudige verklaring van het lid.<br>
+Als de wrakende partij van de wrakingsgronden geen schriftelijk bewijs of geen begin van bewijs levert, kan de leidend ambtenaar van het agentschap Opgroeien regie de wraking verwerpen op eenvoudige verklaring van het lid.<br>
 <br>
 Als het gewraakte lid de feiten waarop zijn wraking gegrond is, erkent of als de feiten bewezen worden, krijgt hij het bevel zich van de zaak te onthouden.<br>
 <br>
