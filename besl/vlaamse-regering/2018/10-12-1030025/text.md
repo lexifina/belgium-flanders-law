@@ -18,7 +18,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° consultaanbod: een aanbod van geijkte momenten waarop preventief medisch, psychosociaal of pedagogisch consult of begeleiding uitgevoerd wordt door een consultatiebureauarts en een verpleegkundige, die een medewerker is van het agentschap, aan aanstaande ouders en kinderen tussen nul en drie jaar of tot schoolgaande leeftijd en hun gezin;<br>
 3° consultatiebureau: de voorziening waar het preventief of prenataal consultaanbod wordt verstrekt aan aanstaande ouders en kinderen tussen nul en drie jaar of tot schoolgaande leeftijd en hun gezin;<br>
 4° consultatiebureauarts: een arts die conform artikel 65 een erkenning als consultatiebureauarts heeft;<br>
@@ -638,7 +638,7 @@ Een arts moet aan al de volgende voorwaarden voldoen om als consultatiebureauart
 
 ### ART 67.
 
-Als de arts zijn geattesteerde kennis van het Nederlands niet door middel van een studiebewijs van het genoten onderwijs kan aantonen, overeenkomstig artikel 24 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, dient hij zijn kennis van het Nederlands te bewijzen door het voorleggen van een attest van actieve kennis van het Nederlands waaruit blijkt dat het behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren en voor het lezen en schrijven het ERK-niveau C1 is.<br>
+Als de arts zijn geattesteerde kennis van het Nederlands niet door middel van een studiebewijs van het genoten onderwijs kan aantonen, overeenkomstig artikel 24 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dient hij zijn kennis van het Nederlands te bewijzen door het voorleggen van een attest van actieve kennis van het Nederlands waaruit blijkt dat het behaalde taalvaardigheidsniveau voor luisteren en gesprekken voeren en voor het lezen en schrijven het ERK-niveau C1 is.<br>
 <br>
 De minister bepaalt wie de uitreikende instanties van het attest zijn of de voorwaarden waaraan de instanties moeten voldoen.
 
