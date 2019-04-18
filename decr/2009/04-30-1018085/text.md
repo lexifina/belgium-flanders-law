@@ -39,6 +39,25 @@ Om een meer evenwichtige participatie van mannen en vrouwen in de advies- of bes
 
 Alle instellingen, vermeld in dit decreet, schrijven zich in in het   beleidsplan, vermeld in artikel 63/14.
 
+### ART 2/3.
+
+In dit artikel wordt verstaan onder:<br>
+1° instelling: de universiteiten, hogescholen en de instellingen vermeld in dit decreet;<br>
+2° Flanders Research Information Space, afgekort FRIS: de informatieruimte waarin onderzoeksinformatie kan doorstromen op een transparante en geautomatiseerde manier, en kan worden uitgewisseld en ontsloten op een open en herbruikbare manier;<br>
+3° onderzoeksinformatie: informatie over elke wetenschappelijke activiteit die tot doel heeft wetenschappelijke kennis te ontwikkelen (fundamenteel onderzoek), wetenschappelijke of technologische capaciteit uit te bouwen (strategisch basis-onderzoek), kennis toepasbaar te maken (toepassingsgericht onderzoek) en ze toe te passen (ontwikkeling), over de medewerkers betrokken bij het onderzoek, over de (disseminatie van de) resultaten van deze wetenschappelijke activiteiten, samen met de onderlinge samenhang tussen deze informatie.<br>
+<br>
+Er wordt een overzicht bijgehouden en publiek gemaakt van onderzoeksinformatie uit onderzoek dat gefinancierd is met publieke middelen om de volgende doelstellingen te bereiken:<br>
+1° de bevordering van innovatie;<br>
+2° effectievere en efficiëntere beleidsvoering;<br>
+3° administratieve vereenvoudiging;<br>
+4° transparantie voor de burger.<br>
+<br>
+Alle instellingen die beschikken over onderzoeksinformatie over publiek gefinancierd onderzoek, leveren die onderzoeksinformatie aan FRIS om de doelstellingen, vermeld in het tweede lid, te bereiken.<br>
+<br>
+Een deel van de overeenkomstig lid 3 aan te leveren onderzoeksinformatie zal persoonsgegevens bevatten die beschermd zijn door de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens. Deze persoonsgegevens zullen enkel verwerkt worden voor het bereiken van de doelstellingen, vermeld in het tweede lid, en enkel opgevraagd en verwerkt worden indien noodzakelijk voor het bereiken van deze doelstellingen.<br>
+<br>
+De Vlaamse Regering sluit met de instellingen een overeenkomst af die nadere afspraken vastlegt voor de aanlevering van die onderzoeksinformatie.
+
 ## TITEL II AGENTSCHAPPEN [... (geschr. Decr. 15 maart 2019, art. 9, I: 18 april 2019)] VAN HET WETENSCHAPS- EN INNOVATIEBELEID
 
 ## HOOFDSTUK I Agentschap voor Innovatie door Wetenschap en Technologie
@@ -155,7 +174,9 @@ De Vlaamse Regering sluit een vijfjaarlijks convenant met Flanders District of C
 <br>
 Het convenant bepaalt dat de statuten van de vzw worden voorgelegd aan de Vlaamse Regering.<br>
 <br>
-De Vlaamse Regering ziet erop toe dat de algemene werking van Flanders District of Creativity vzw, voor het lopende convenant verstreken is, geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen die vastgelegd zijn in het convenant. De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.
+De Vlaamse Regering ziet erop toe dat de algemene werking van Flanders District of Creativity vzw, voor het lopende convenant verstreken is, geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen die vastgelegd zijn in het convenant. De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.<br>
+<br>
+De raad van bestuur van Flanders District of Creativity vzw bestaat uit maximaal twaalf leden. De statuten waarborgen de voordracht van de leden van de raad van bestuur door de Vlaamse Regering.
 
 ## HOOFDSTUK II [Fonds Wetenschappelijk Onderzoek - Vlaanderen (verv. decr. 25 april 2014, art. 15, I: 8 september 2014)]
 
@@ -188,7 +209,56 @@ Jaarlijks worden in de algemene uitgavenbegroting voor wat betreft het FWO   beh
 
 ### ART. 18.
 
-§ 1. Het FWO realiseert zijn missie door de middelen die de Vlaamse   Regering verstrekt, aan te wenden voor de volgende taken :<BR>1° het steunen van   individuele onderzoekers aan universiteiten met doctoraatsbeurzen van bepaalde   duur en werkingsmiddelen;<BR>2° het steunen van individuele onderzoekers aan   universiteiten en hogeronderwijsinstellingen die door de Codex Hoger Onderwijs   van 11 oktober 2013 zijn belast met wetenschappelijk onderzoek, met   postdoctorale mandaten van bepaalde duur en werkingsmiddelen;<BR>3° het steunen   van onderzoeksploegen met onderzoeksprojecten en net|Upwerkingsmiddelen;<BR>4°   het bevorderen van mobiliteit, internationale contacten en   samenwerkingsverbanden;<BR>5° het aantrekken van excellente onderzoekers die   actief zijn in het buitenland;<BR>6° het verlenen van wetenschappelijke   prijzen;<BR>7° de subsidiëring van middelzware en zware   onderzoeksinfrastructuur, met inbegrip van cofinanciering in geval van europese   en internationale investerings|Upprogramma's;<BR>8° het beheer en de   cofinanciering van de technische installatie en de technische exploitatie van   TIER1-computerinfrastructuur aan een universiteit;<BR>9° de cofinanciering van   TIER2-computerinfrastructuur in universiteiten of asso|Upciaties.<BR><BR>§ 2. De   Vlaamse Regering kan het FWO belasten met bijzondere opdrachten. Die moeten   passen in de missie van het FWO.<BR><BR>§ 3. De Vlaamse Regering bepaalt per   steunprogramma de voorwaarden waaraan steun, verleend door het FWO, moet   voldoen. De voormelde voorwaarden kunnen onder andere betrekking hebben op   :<BR>1° de essentiële selectie- en beoordelingscriteria, die ten minste de   wetenschappe|Uplijke kwaliteit en relevantie van de geselecteerde projecten en   de haalbaarheid ervan borgen;<BR>2° het steunbedrag, of het steunpercentage en   het maximale steunbedrag, rekening houdend met de subsidiabele kosten;<BR>3° de   wijze waarop het aantal ondersteunde projecten wordt beperkt om redenen van   doelmatigheid;<BR>4° de wijze waarop oproepen aan de kandidaten worden   georganiseerd;<BR>5° de duur van de ondersteuning en de eventuele   verlengingsmogelijkheden om objectieve redenen;<BR>6° de modaliteiten waaronder   de steun wordt verleend;<BR>7° de precieze omschrijving van de categorie van   aanvragers die in het steunprogramma een aanvraag mag indienen.<BR><BR>De   Vlaamse Regering bepaalt, op voorstel van het FWO, de wijze waarop de aanvrager   van wie de steunaanvraag geweigerd is, een verzoek tot herziening van de   beslissing kan indienen op basis van objectiveerbare elementen die op kennelijk   onredelijke wijze aan de steunweigering ten grondslag lagen.<BR><BR>§ 4. Het FWO   verleent de financiële steun op grond van oproepen aan de kandidaten. De   oproepen zijn generiek of thematisch, onder de voorwaarden, bepaald door de   Vlaamse Regering.<BR><BR>De raad van bestuur van het FWO neemt de beslissing   over de toewijzing en de begroting van de steun op grond van het advies en de   eventuele aanbevelingen van de bevoegde beoordelingcommissie. De raad van   bestuur respecteert daarbij de door de beoordelingscommissies opgestelde   rangschikkingen.<BR><BR>Rekening houdend met de eigenheid van de verschillende   missieonderdelen, vermeld in artikel 17, en na advies van de raad van bestuur   van het FWO kan de Vlaamse Regering richtlijnen vastleggen waaraan de selectie   van experten en de samenstelling van beoordelingscommissies moeten   voldoen.<BR><BR>§ 5. Voor onderzoeksprojecten voor strategisch basisonderzoek   houdt de Vlaamse Regering bij het bepalen van de voorwaarden, vermeld in   paragraaf 3, eerste lid, 1°, ten minste rekening met de volgende   beoordelingsdimensies :<BR>1° de wetenschappelijke kwaliteit van het   projectvoorstel;<BR>2° de utiliteitsperspectieven van het projectvoorstel,   zijnde de gebruiksmogelijkheden van de resultaten op langere termijn en na   vervolgonderzoek door economische, maatschappelijke of   overheidsactoren.<BR><BR>De projectaanvragen voor onderzoeksprojecten voor   strategisch basisonderzoek worden gerangschikt op basis van een gelijk gewicht   aan de scores op de wetenschappelijke kwaliteit van het projectvoorstel en de   utilisatieperspectieven en van de nodige diversiteit inzake toepassingsdomeinen   bij gelijkwaardige scores. Op basis van de budgettaire mogelijkheden worden de   hoogst gerangschikte projectvoorstellen gesteund. Van het principe dat de hoogst   gerangschikte projectvoorstellen gesteund worden, kan desgevallend in beperkte   mate afgeweken worden als hierdoor meer projecten kunnen worden   gesteund.<BR><BR>§ 6. Voor doctoraatsbeurzen voor strategisch basisonderzoek   houdt de Vlaamse Regering bij het bepalen van de voorwaarden, vermeld in   paragraaf 3, eerste lid, 1°, ten minste rekening met de volgende   beoordelingsdimensies :<BR>1° de wetenschappelijke vakkennis van de   kandidaat-bursaal en zijn potentiële bekwaamheid tot het zelfstandig uitvoeren   van doctoraatsonderzoek;<BR>2° de wetenschappelijke kwaliteit en relevantie van   het onderzoeksproject, en de realiseerbaarheid ervan binnen een periode van vier   jaar;<BR>3° de strategische aard van het onderzoeksproject met betrekking tot   het potentieel voor economische en/of maatschappelijke toepasbaarheid van de   resultaten op termijn.<BR><BR>De projectaanvragen voor doctoraatsbeurzen voor   strategisch basisonderzoek worden gerangschikt op basis van een vóór de oproep   vastgelegd gewicht aan de scores op de kwaliteit van het projectvoorstel, de   economische finaliteit en de kwaliteit van de kandidaat en van de nodige   diversiteit inzake toepassingsdomeinen bij gelijkwaardige scores. Op basis van   de budgettaire mogelijkheden worden de hoogst gerangschikte projectvoorstellen   gesteund.<BR><BR>§ 7. De raad van bestuur steunt bij zijn beslissing over het   steunen van investeringsinitiatieven voor zware onderzoeksinfrastructuur op het   advies van experten die de wetenschappelijke kwaliteit van de aanvragen   evalueren, en die vervolgens voor de aanvragen die excellent bevonden zijn,   nagaan of de opgemaakte investeringsplannen voldoende realistisch en objectief   zijn. De raad van bestuur kan daarvoor een of meer expertencolleges   aanwijzen.<BR><BR>§ 8. Het bedrag dat jaarlijks beschikbaar is voor middelzware   onderzoeksinfrastructuur, wordt over de associaties verdeeld met toepassing van   een verdeelsleutel die door de Vlaamse Regering wordt vastgesteld op basis van   het gewogen gemiddelde van de verdeelsleutel, bepaald met toepassing van artikel   63/1, § 5, en de verdeelsleutel, bepaald met toepassing van artikel 57, § 4. De   raad van bestuur steunt bij zijn beslissing over het steunen van   investeringsinitiatieven voor middelzware onderzoeksinfrastructuur op het advies   van het betrokken associatiebestuur.<BR><BR>§ 9. Het bedrag dat jaarlijks   beschikbaar wordt gemaakt voor de aanschaf en inzet van   onderzoeksinfrastructuur, is voor 60 tot 70 procent bestemd voor de subsidiëring   van middelzware onderzoeksinfrastructuur en voor 30 tot 40 procent voor de   financiering van zware onderzoeksinfrastructuur.<BR><BR>De Vlaamse Regering kan   jaarlijks beslissen om van het interval, vermeld in het eerste lid, af te wijken   op grond van objectief vastgestelde noodwendigheden.
+§ 1. Het FWO realiseert zijn missie door de middelen die de Vlaamse Regering verstrekt, aan te wenden voor de volgende taken :<br>
+1° het steunen van individuele onderzoekers aan universiteiten met doctoraatsbeurzen van bepaalde duur en werkingsmiddelen;<br>
+2° het steunen van individuele onderzoekers aan universiteiten en hogeronderwijsinstellingen die door de Codex Hoger Onderwijs van 11 oktober 2013 zijn belast met wetenschappelijk onderzoek, met postdoctorale mandaten van bepaalde duur en werkingsmiddelen;<br>
+3° het steunen van onderzoeksploegen met onderzoeksprojecten en net|Upwerkingsmiddelen;<br>
+4° het bevorderen van mobiliteit, internationale contacten en samenwerkingsverbanden;<br>
+5° het aantrekken van excellente onderzoekers die actief zijn in het buitenland;<br>
+6° het verlenen van wetenschappelijke prijzen;<br>
+7° de subsidiëring van middelzware en zware onderzoeksinfrastructuur, met inbegrip van cofinanciering in geval van europese en internationale investerings|Upprogramma's;<br>
+8° het beheer en de cofinanciering van de technische installatie en de technische exploitatie van TIER1-computerinfrastructuur aan een universiteit;<br>
+9° de cofinanciering van TIER2-computerinfrastructuur in universiteiten of asso|Upciaties.<br>
+<br>
+§ 2. De Vlaamse Regering kan het FWO belasten met bijzondere opdrachten. Die moeten passen in de missie van het FWO.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt per steunprogramma de voorwaarden waaraan steun, verleend door het FWO, moet voldoen. De voormelde voorwaarden kunnen onder andere betrekking hebben op :<br>
+1° de essentiële selectie- en beoordelingscriteria, die ten minste de wetenschappe|Uplijke kwaliteit en relevantie van de geselecteerde projecten en de haalbaarheid ervan borgen;<br>
+2° het steunbedrag, of het steunpercentage en het maximale steunbedrag, rekening houdend met de subsidiabele kosten;<br>
+3° de wijze waarop het aantal ondersteunde projecten wordt beperkt om redenen van doelmatigheid;<br>
+4° de wijze waarop oproepen aan de kandidaten worden georganiseerd;<br>
+5° de duur van de ondersteuning en de eventuele verlengingsmogelijkheden om objectieve redenen;<br>
+6° de modaliteiten waaronder de steun wordt verleend;<br>
+7° de precieze omschrijving van de categorie van aanvragers die in het steunprogramma een aanvraag mag indienen.<br>
+<br>
+De Vlaamse Regering bepaalt, op voorstel van het FWO, de wijze waarop de aanvrager van wie de steunaanvraag geweigerd is, een verzoek tot herziening van de beslissing kan indienen op basis van objectiveerbare elementen die op kennelijk onredelijke wijze aan de steunweigering ten grondslag lagen.<br>
+<br>
+§ 4. Het FWO verleent de financiële steun op grond van oproepen aan de kandidaten. De oproepen zijn generiek of thematisch, onder de voorwaarden, bepaald door de Vlaamse Regering.<br>
+<br>
+De raad van bestuur van het FWO neemt de beslissing over de toewijzing en de begroting van de steun op grond van het advies en de eventuele aanbevelingen van de bevoegde beoordelingcommissie. De raad van bestuur respecteert daarbij de door de beoordelingscommissies opgestelde rangschikkingen.<br>
+<br>
+Rekening houdend met de eigenheid van de verschillende missieonderdelen, vermeld in artikel 17, en na advies van de raad van bestuur van het FWO kan de Vlaamse Regering richtlijnen vastleggen waaraan de selectie van experten en de samenstelling van beoordelingscommissies moeten voldoen.<br>
+<br>
+§ 5. Voor onderzoeksprojecten voor strategisch basisonderzoek houdt de Vlaamse Regering bij het bepalen van de voorwaarden, vermeld in paragraaf 3, eerste lid, 1°, ten minste rekening met de volgende beoordelingsdimensies :<br>
+1° de wetenschappelijke kwaliteit van het projectvoorstel;<br>
+2° de utiliteitsperspectieven van het projectvoorstel, zijnde de gebruiksmogelijkheden van de resultaten op langere termijn en na vervolgonderzoek door economische, maatschappelijke of overheidsactoren.<br>
+<br>
+De projectaanvragen voor onderzoeksprojecten voor strategisch basisonderzoek worden gerangschikt op basis van een gelijk gewicht aan de scores op de wetenschappelijke kwaliteit van het projectvoorstel en de utilisatieperspectieven en van de nodige diversiteit inzake toepassingsdomeinen bij gelijkwaardige scores. Op basis van de budgettaire mogelijkheden worden de hoogst gerangschikte projectvoorstellen gesteund. Van het principe dat de hoogst gerangschikte projectvoorstellen gesteund worden, kan desgevallend in beperkte mate afgeweken worden als hierdoor meer projecten kunnen worden gesteund.<br>
+<br>
+§ 6. Voor doctoraatsbeurzen voor strategisch basisonderzoek houdt de Vlaamse Regering bij het bepalen van de voorwaarden, vermeld in paragraaf 3, eerste lid, 1°, ten minste rekening met de volgende beoordelingsdimensies :<br>
+1° de wetenschappelijke vakkennis van de kandidaat-bursaal en zijn potentiële bekwaamheid tot het zelfstandig uitvoeren van doctoraatsonderzoek;<br>
+2° de wetenschappelijke kwaliteit en relevantie van het onderzoeksproject, en de realiseerbaarheid ervan binnen een periode van vier jaar;<br>
+3° de strategische aard van het onderzoeksproject met betrekking tot het potentieel voor economische en/of maatschappelijke toepasbaarheid van de resultaten op termijn.<br>
+<br>
+De projectaanvragen voor doctoraatsbeurzen voor strategisch basisonderzoek worden gerangschikt op basis van een vóór de oproep vastgelegd gewicht aan de scores op de kwaliteit van het projectvoorstel, de economische finaliteit en de kwaliteit van de kandidaat en van de nodige diversiteit inzake toepassingsdomeinen bij gelijkwaardige scores. Op basis van de budgettaire mogelijkheden worden de hoogst gerangschikte projectvoorstellen gesteund.<br>
+<br>
+§ 7. De raad van bestuur steunt bij zijn beslissing over het steunen van investeringsinitiatieven voor zware onderzoeksinfrastructuur op het advies van experten die de wetenschappelijke kwaliteit van de aanvragen evalueren, en die vervolgens voor de aanvragen die excellent bevonden zijn, nagaan of de opgemaakte investeringsplannen voldoende realistisch en objectief zijn. De raad van bestuur kan daarvoor een of meer expertencolleges aanwijzen.<br>
+<br>
+§ 8. Het bedrag dat jaarlijks beschikbaar is voor middelzware onderzoeksinfrastructuur, wordt over de universtiteitenverdeeld met toepassing van een verdeelsleutel die door de Vlaamse Regering wordt vastgesteld op basis van het gewogen gemiddelde van de verdeelsleutel, bepaald met toepassing van artikel 63/1, § 5, en de verdeelsleutel, bepaald met toepassing van artikel 57, § 4. De raad van bestuur steunt bij zijn beslissing over het steunen van investeringsinitiatieven voor middelzware onderzoeksinfrastructuur op het advies van het bestuur van de betrokken universiteit.<br>
+<br>
+§ 9. Het bedrag dat jaarlijks beschikbaar wordt gemaakt voor de aanschaf en inzet van onderzoeksinfrastructuur, is voor 60 tot 70 procent bestemd voor de subsidiëring van middelzware onderzoeksinfrastructuur en voor 30 tot 40 procent voor de financiering van zware onderzoeksinfrastructuur.<br>
+<br>
+De Vlaamse Regering kan jaarlijks beslissen om van het interval, vermeld in het eerste lid, af te wijken op grond van objectief vastgestelde noodwendigheden.
 
 ### ART. 18/1.
 
@@ -370,7 +440,15 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van het FWO vijfjaarli
 
 ### ART. 29.
 
-De Vlaamse Regering is onder de voorwaarden, vermeld in dit hoofdstuk,   gemachtigd om deel te nemen aan de strategische onderzoekscentra.<BR><BR>Een   strategisch onderzoekscentrum is één van de hiernavolgende organisaties :<BR>1°   de naamloze vennootschap Vlaamse Instelling voor Technologisch Onderzoek,   opgericht bij de notariële akte van 12 juni 1991, waarvan het maatschappelijk   doel gericht is op het verrichten van strategisch basisonderzoek in de domeinen   energie, leefmilieu, materialen en aardobservatie met het oog op het stimuleren   van duurzame ontwikkeling en het versterken van het economische en   maatschappelijke weefsel in Vlaanderen;<BR>2° de vereniging zonder winstoogmerk   iMinds, opgericht bij de notariële akte van 26 juli 2004, waarvan het   maatschappelijk doel gericht is op het opleiden van hoogcompetent menselijk   kapitaal en het verrichten van strategisch basisonderzoek ten dienste van   bedrijven en overheden, waarbij alle technologische, juridische en sociale   aspecten die de ontwikkeling en de exploitatie van breedbanddiensten   ondersteunen en faciliteren, aan bod komen;<BR>3° de vereniging zonder   winstoogmerk Interuniversitair Micro-elektronicacentrum, opgericht bij de   notariële akte van 16 januari 1984, waarvan het maatschappelijk doel gericht is   op het verrichten van strategisch onderzoek op het gebied van micro-elektronica,   nanotechnologie, ontwerpmethodes en technologieën voor ICT-systemen;<BR>4° de   vereniging zonder winstoogmerk Vlaams Interuniversitair Instituut voor   Biotechnologie, opgericht bij de notariële akte van 6 juli 1995, waarvan het   maatschappelijk doel gericht is op het verrichten van biomoleculair strategisch   basisonderzoek in de levenswetenschappen, met als oogmerk het verhogen van de   kennis van de levensprocessen en -systemen en het vertalen van die kennis in   economische groei en wetenschappelijke vooruitgang.<BR><BR>De Vlaamse Regering   kan bijkomende verenigingen zonder winstoogmerk, stichtingen of vennootschappen   met sociaal oogmerk als strategisch onderzoekscentrum erkennen.
+De Vlaamse Regering is onder de voorwaarden, vermeld in dit hoofdstuk, gemachtigd om deel te nemen aan de strategische onderzoekscentra.<br>
+<br>
+Een strategisch onderzoekscentrum is één van de hiernavolgende organisaties :<br>
+1° de naamloze vennootschap Vlaamse Instelling voor Technologisch Onderzoek, opgericht bij de notariële akte van 12 juni 1991, waarvan het maatschappelijk doel gericht is op het verrichten van strategisch basisonderzoek in de domeinen energie, leefmilieu, materialen en aardobservatie met het oog op het stimuleren van duurzame ontwikkeling en het versterken van het economische en maatschappelijke weefsel in Vlaanderen;<br>
+2° de vereniging zonder winstoogmerk Flanders Make, ontstaan door integrale statutenwijziging op de buitengewone algemene vergadering van Flanders Mechatronics Technology Centre vzw van 8 mei 2014, waarvan het maatschappelijk doel is gericht op de langetermijnversterking van de internationale competitiviteitspositie van de Vlaamse maakindustrie door het uitvoeren van industriegedreven, precompetitief, excellent, strategisch en toegepast onderzoek met het oog op valorisatie, in de domeinen mechatronica, productontwikkelingsmethodes en geavanceerde productietechnologieën;<br>
+3° de vereniging zonder winstoogmerk Interuniversitair Micro-elektronicacentrum, opgericht bij de notariële akte van 16 januari 1984, waarvan het maatschappelijk doel gericht is op het verrichten van strategisch onderzoek op het gebied van micro-elektronica, nanotechnologie, ontwerpmethodes en technologieën voor ICT-systemen;<br>
+4° de vereniging zonder winstoogmerk Vlaams Interuniversitair Instituut voor Biotechnologie, opgericht bij de notariële akte van 6 juli 1995, waarvan het maatschappelijk doel gericht is op het verrichten van biomoleculair strategisch basisonderzoek in de levenswetenschappen, met als oogmerk het verhogen van de kennis van de levensprocessen en -systemen en het vertalen van die kennis in economische groei en wetenschappelijke vooruitgang.<br>
+<br>
+De Vlaamse Regering kan bijkomende verenigingen zonder winstoogmerk, stichtingen of vennootschappen met sociaal oogmerk als strategisch onderzoekscentrum erkennen.
 
 ### ART. 30.
 
@@ -378,7 +456,8 @@ Een strategisch onderzoekscentrum beantwoordt aan de volgende vereisten :<br />1
 
 ### ART. 31.
 
-De statuten van het iMinds, het Interuniversitair Micro-elektronicacentrum   en het Vlaams Interuniversitair Instituut voor Biotechnologie, waarborgen dat   hun raad van bestuur ten minste bestaat uit vertegenwoordigers van de   universiteiten, van de Vlaamse Regering en van het   bedrijfsleven.<BR><BR>
+De statuten van&nbsp;het Interuniversitair Micro-elektronicacentrum en het Vlaams Interuniversitair Instituut voor Biotechnologie waarborgen dat hun raad van bestuur ten minste bestaat uit vertegenwoordigers van de universiteiten, van de Vlaamse Regering en van het bedrijfsleven.<br>
+&nbsp;
 
 ## Afdeling II [Financiering en convenant (verv. decr. 25 april 2014, art. 48, I: 8 september 2014)]
 
@@ -478,41 +557,83 @@ De VITO brengt haar statuten in overeenstemming met de bepalingen in artikelen 3
 
 ### ART. 52/1.
 
-De Vlaamse Regering is onder de voorwaarden, vermeld in dit hoofdstuk,   gemachtigd om deel te nemen aan de strategische innovatieplatformen, naast de   strategische onderzoekscentra.<BR><BR>De Vlaamse Regering kan verenigingen   zonder winstoogmerk, stichtingen of vennootschappen met sociaal oogmerk als   strategisch innovatieplatform erkennen.
+...
 
 ### ART. 52/2.
 
-§ 1. De initiatieven, bedoeld in artikel 52/1, zijn expliciet   vraaggedreven, maar ook strategisch van aard, en koppelen een duidelijke vraag   vanuit het bedrijfsleven en de industrie aan een solide wetenschappelijke en   technologische onderbouw. Een initiatief, bedoeld in artikel 52/1, beantwoordt   aan de volgende vereisten:<BR>1° het gevoerde strategische onderzoek bouwt voort   op wetenschappelijk onderzoek waarvan verwacht wordt dat de wetenschappelijke   excellentie in internationale vergelijkingen op middellange termijn objectief   aantoonbaar zal zijn;<BR>2° het initiatief, bedoeld in artikel 52/1, beschikt   over een kritische massa en bouwt deze op middellange termijn uit tot op een   substantieel niveau;<BR>3° de activiteiten van het strategisch innovatieplatform   passen in het wetenschaps- en innovatiebeleid, bepaald door de Vlaamse   Regering;<BR>4° er wordt zowel strategisch basisonderzoek als toegepast   onderzoek gevoerd, en het onderzoek bezit een belangrijk valorisatiepotentieel,   zodat het innovatieplatform ondersteuning kan bieden aan bestaande of nieuwe   bedrijfsactiviteiten.<BR><BR>§ 2. Bij aanvang van een initiatief, bedoeld in   artikel 52/1, dient aangetoond te worden dat de initiatiefnemers over voldoende   ervaring beschikken op vlak van toegepast onderzoek.
+...
 
 ### ART. 52/3.
 
-De statuten van het initiatief, bedoeld in artikel 52/1, waarborgen dat de   raad van bestuur ten minste bestaat uit vertegenwoordigers van de associaties,   van de Vlaamse Regering en voor de helft plus één uit vertegenwoordigers van het   bedrijfsleven.
+...
 
 ## [Afdeling II. (ing. decr. 25 april 2014, art. 57, I: 8 september 2014)] [... (opgeh. Decr. 15 maart 2019, art. 14, I: 18 april 2019)]
 
 ### ART. 52/4.
 
-De Vlaamse Regering stelt binnen de beschikbare begrotingskredieten een   jaarlijkse subsidie ter beschikking van de initiatieven, bedoeld in artikel   52/1.
+...
 
 ### ART. 52/5.
 
-De Vlaamse Regering sluit met de initiatieven, bedoeld in artikel 52/1,   een meerjarig convenant, waarin de wederzijdse rechten en plichten in het kader   van de toelage of subsidie, vermeld in artikel 52/4, zijn opgenomen.<BR><BR>Het   convenant beschrijft ten minste:<BR>1° de modaliteiten waaronder de Vlaamse   Regering de subsidies verleent;<BR>2° de strategische en operationele   doelstellingen van de instelling;<BR>3° de regels voor de meting en de opvolging   ervan;<BR>4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse   Gewest of de Vlaamse Gemeenschap;<BR>5° de financiële bepalingen over de   aanwending van de subsidies en de reservevorming;<BR>6° een   rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van   de werking;<BR>7° de maatregelen in geval van niet-naleving van het   convenant;<BR>8° de gevallen waarin en de wijze waarop het convenant tijdens de   looptijd ervan kan worden gewijzigd;<BR>9° de duur en de opzeggings- en   verlengingsmogelijkheden van het convenant.
+...
 
 ## [Afdeling III. (ing. decr. 25 april 2014, art. 60, I: 8 september 2014)] [... (opgeh. Decr. 15 maart 2019, art. 14, I: 18 april 2019)]
 
 ### ART. 52/6.
 
-§ 1. De Vlaamse Regering kan bij een initiatief, bedoeld in artikel 52/1,   maximaal twee regeringsafgevaardigden aanstellen. Eén regeringsafgevaardigde   wordt aangesteld op voordracht van de Vlaamse minister, bevoegd voor het   wetenschappelijk onderzoek en het technologisch innovatiebeleid, en één   regeringsafgevaardigde wordt aangesteld op voordracht van de Vlaamse minister,   bevoegd voor de financiën en de begroting.<BR><BR>De regeringsafgevaardigde die   aangesteld is op voordracht van de Vlaamse minister, bevoegd voor het   wetenschappelijk onderzoek en het technologisch innovatiebeleid, houdt toezicht   op de overeenstemming van de aanwending van de verstrekte subsidie met het   recht, de statuten van het initiatief, bedoeld in artikel 52/1, het convenant en   de beginselen inzake behoorlijk bestuur. De regeringsafgevaardigde die   aangesteld is op voordracht van de Vlaamse minister, bevoegd voor de financiën   en de begroting, oefent dezelfde toezichtfunctie uit als de   regeringsafgevaardigde die aangesteld is op voordracht van de bevoegde minister,   inzake de beslissingen met een budgettaire of financiële weerslag.<BR><BR>De   regeringsafgevaardigde brengt verslag uit bij de minister die hem heeft   voorgedragen voor aanstelling door de Vlaamse Regering.<BR><BR>§ 2. De   regeringsafgevaardigde heeft met raadgevende stem zitting in de raad van bestuur   en in de bestuursorganen die ingesteld zijn door de raad van bestuur, in   voorkomend geval met inbegrip van het ingestelde auditcomité. Hij wordt   uitgenodigd op alle vergaderingen van die bestuursorganen en wordt op dezelfde   manier als de leden ervan tijdig op de hoogte gebracht van de dagorde en alle   bijbehorende documenten.<BR><BR>Hij is gemachtigd om zich alle documenten en   inlichtingen over het bestuur van het initiatief, bedoeld in artikel 52/1, die   hij nodig acht voor de uitoefening van zijn mandaat, te laten   verstrekken.<BR><BR>Het initiatief, bedoeld in artikel 52/1, stelt de menselijke   en materiële middelen die nodig zijn voor de uitoefening van zijn mandaat, ter   beschikking van de regeringsafgevaardigde.<BR><BR>§ 3. De regeringsafgevaardigde   kan bij de bevoegde minister binnen een termijn van vier werkdagen een   gemotiveerd beroep instellen tegen elke beslissing die hij strijdig acht met het   algemeen belang, de wetten, decreten, ordonnanties en reglementaire besluiten,   met het organiek statuut van het initiatief, bedoeld in artikel 52/1, of met het   convenant. Het beroep is opschortend.<BR><BR>Die termijn gaat in op de dag van   de vergadering waarop de beslissing genomen is, als de regeringsafgevaardigde   daarop regelmatig uitgenodigd is, en, als dat niet het geval is, de dag waarop   hij er kennis van heeft gekregen.<BR><BR>§ 4. Als de minister bij wie het beroep   is ingesteld, binnen een termijn van tien werkdagen die ingaat op dezelfde dag   als de termijn, vermeld in paragraaf 3, de nietigverklaring niet heeft   uitgesproken, wordt de beslissing definitief.<BR><BR>§ 5. De nietigverklaring   van de beslissing wordt door de minister aan het bestuursorgaan in kwestie   betekend.<BR><BR>§ 6. Als de naleving van de wetten, decreten, ordonnanties en   reglementaire besluiten, het organiek statuut van het initiatief, bedoeld in   artikel 52/1, of het convenant dat vereisen, kan de minister of de   regeringsafgevaardigde het bevoegde bestuursorgaan verplichten om, binnen de   door hem gestelde termijn, te beraadslagen over elke aangelegenheid die hij   bepaalt.<BR><BR>§ 7. De Vlaamse Regering kan de regeling over de deontologie en   onverenigbaarheden van de regeringsafgevaardigde bepalen en stelt zijn   vergoeding vast.<BR><BR>§ 8. De kosten die verbonden zijn aan de uitoefening van   het ambt van regeringsafgevaardigde, zijn ten laste van de initiatieven, bedoeld   in artikel 52/1.<BR><BR>De Vlaamse Regering bepaalt de rechtspositionele   voorwaarden waaronder de regeringsafgevaardigden worden   aangesteld.
+...
 
 ## [Afdeling IV. (ing. decr. 25 april 2014, art. 62, I: 8 september 2014)] [... (opgeh. Decr. 15 maart 2019, art. 14, I: 18 april 2019)]
 
 ### ART. 52/7.
 
-De Vlaamse Regering ziet erop toe dat de algemene werking van de   initiatieven, bedoeld in artikel 52/1, vóór het verstrijken van het lopende   convenant geëvalueerd wordt aan de hand van de strategische en operationele   doelstellingen en indicatoren die vastgelegd zijn in het convenant.<BR><BR>De   voorwaarden voor een nieuw convenant worden onder meer bepaald door de   resultaten van de evaluatie.
+...
 
 ## HOOFDSTUK II Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten
 
 ## [Afdeling I. Organisatie, bestuur en werking (ing. Decr. 15 maart 2019, art. 15, I: 18 april 2019)]
+
+### ART 52/8.
+
+De Vlaamse Regering is ertoe gemachtigd deel te nemen in de Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten, die opgericht is met als doel wetenschap en kunsten en de uitstraling ervan in Vlaanderen te bevorderen.<br>
+<br>
+De Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten geniet rechtspersoonlijkheid.
+
+### ART 52/9.
+
+De Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten regelt haar bestuur en interne werking in haar statuten en huishoudelijk reglement.<br>
+<br>
+Wijzigingen aan de statuten worden ter goedkeuring voorgelegd aan de Vlaamse Regering.<br>
+<br>
+Wijzigingen aan de statuten en het huishoudelijk reglement worden bekendgemaakt in het Belgisch Staatsblad.
+
+### ART 52/10.
+
+De Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten heeft gewone leden, ereleden en buitenlandse leden en is ingedeeld in een aantal klassen die elk bevoegd zijn voor verschillende wetenschappen en kunsten of groepen hiervan.<br>
+<br>
+Gewone leden en buitenlandse leden worden door een van de klassen verkozen wegens hun belangrijke bijdrage op het gebied van wetenschap of kunsten. Zij worden door de Academie voor benoeming voorgedragen aan de Vlaamse Regering.<br>
+<br>
+Om tot gewoon lid te worden verkozen, moet men zijn woonplaats in België hebben en het Nederlands beheersen. Om tot buitenlands lid te worden verkozen, moet men zijn woonplaats in het buitenland hebben.<br>
+<br>
+Gewone leden worden op hun verzoek tot erelid benoemd door de raad van bestuur, na gunstig advies van de klasse waartoe zij behoren. De benoeming tot erelid wordt ter kennis gebracht van de Vlaamse Regering.
+
+### ART 52/11.
+
+De Koninklijke Vlaamse Academie van België voor Wetenschappen en Kunsten wordt bestuurd door een algemene vergadering, raad van bestuur, bureau, voorzitter, vast secretaris en klassenbestuurders. Buitenlandse leden maken geen deel uit van de algemene vergadering.<br>
+<br>
+De algemene vergadering stelt de statuten en het huishoudelijk reglement vast, verkiest de voorzitter en vast secretaris onder de gewone leden van de Academie en kan leden uit hun functie ontslaan wegens ernstige tekortkomingen.<br>
+<br>
+De raad van bestuur bestaat minstens uit de voorzitter, de vast secretaris, de klassenbestuurders, en een vertegenwoordiger van de leden van elke klasse. De raad van bestuur bepaalt het beleid van de Academie, beheert haar vermogen en stelt de begroting en de jaarrekeningen vast.<br>
+<br>
+Het Bureau voert de beslissingen uit van de algemene vergadering en van de raad van bestuur en staat in voor het dagelijks bestuur van de academie.<br>
+<br>
+De voorzitter zit de algemene vergadering, de raad van bestuur en het Bureau voor.<br>
+<br>
+De vast secretaris coördineert de werking van de Academie, leidt haar administratie en personeel en staat in voor de inkomsten en uitgaven en voor de financiële rapportering.<br>
+<br>
+De werking van de klassen wordt geleid door een klassenbestuurder en een klassenbestuur, verkozen door en uit de leden van de klasse. Bestuursmandaten in de academie zijn tijdelijk.<br>
+<br>
+De Academie wordt ten aanzien van derden en in rechte vertegenwoordigd door de raad van bestuur of door de voorzitter en de vast secretaris, gezamenlijk optredend.
 
 ## [Afdeling I/1. (verv. Decr. 15 maart 2019, art. 15, I: 18 april 2019)] [Subsidie en convenant (ing. decr. 25 april 2014, art. 64, I: 8 september 2014)]
 
@@ -544,7 +665,7 @@ De Vlaamse Regering ziet erop toe dat de algemene werking van de   Koninklijke V
 
 ### ART. 56.
 
-De raad van bestuur bestaat uit maximaal 12 leden. De statuten waarborgen de voordracht van de leden van de raad van bestuur door de Vlaamse Regering.
+...
 
 ## [Afdeling IV. Evaluatie (ing. decr. 25 arpril 2014, art. 72, I: 8 september 2014)]
 
@@ -558,7 +679,34 @@ De raad van bestuur bestaat uit maximaal 12 leden. De statuten waarborgen de voo
 
 ### ART. 56/1.
 
-<P>§ 1. De Vlaamse Regering is ertoe gemachtigd om deel te nemen in de   vereniging zonder winstoogmerk Vlaams Instituut voor de Zee, opgericht bij de   notariële akte van 2 april 1999.<BR><BR>De doelstellingen van het Vlaams   Instituut voor de Zee zijn de volgende:<BR>1° optreden als internationaal   aanspreekpunt;<BR>2° de rol vervullen van coördinatieplatform voor   zeewetenschappelijk onderzoek: informatie en ondersteuning verlenen voor de   coördinatie van onderzoek, zowel regionaal als internationaal;<BR>3° optreden   als Vlaams Marien Datacentrum;<BR>4° logistieke ondersteuning en sensibilisering   rond zeewetenschappelijke activiteiten bij verschillende doelgroepen   coördineren;<BR>5° ondersteuning bieden bij de Vlaams-Nederlandse samenwerking   inzake zeewetenschappelijk onderzoek, en die samenwerking coördineren.<BR><BR>§   2. Het Vlaams Instituut voor de Zee en de Vlaamse Regering sluiten een meerjarig   convenant waarin ten minste de volgende elementen zijn opgenomen:<BR>1° de   modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<BR>2° de   strategische en operationele doelstellingen van de instelling;<BR>3° de regels   voor de meting en de opvolging ervan;<BR>4° de betalingsregeling voor de   jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<BR>5° de   financiële bepalingen over de aanwending van de subsidies en de   reservevorming;<BR>6° een rapporteringsmechanisme en een mechanisme dat bestemd   is voor de opvolging van de werking;<BR>7° de maatregelen in geval van   niet-naleving van het convenant;<BR>8° de gevallen waarin en de wijze waarop het   convenant tijdens de looptijd ervan kan worden gewijzigd;<BR>9° de duur en de   opzeggings- en verlengingsmogelijkheden van het convenant.<BR><BR>§ 3. De   statuten van het Vlaams Instituut voor de Zee waarborgen dat de raad van bestuur   ervan ten minste bestaat uit een meerderheid van vertegenwoordigers van de   Vlaamse Regering.<BR><BR>§ 4. De Vlaamse Regering stelt binnen de beschikbare   begrotingskredieten een jaarlijkse subsidie ter beschikking van het Vlaams   Instituut voor de Zee.</P>
+<p>§ 1. De Vlaamse Regering is ertoe gemachtigd om deel te nemen in de vereniging zonder winstoogmerk Vlaams Instituut voor de Zee, opgericht bij de notariële akte van 2 april 1999.<br>
+<br>
+De missie van het Vlaams Instituut voor de Zee is het versterken van de mariene kennisopbouw en de excellentie van het marien onderzoek in Vlaanderen.<br>
+<br>
+Het Vlaams Instituut voor de Zee heeft de volgende doelstellingen:<br>
+1° innovatief en multidisciplinair marien onderzoek initiëren, ondersteunen, bevorderen en uitvoeren;<br>
+2° de nationale en internationale uitstraling van het Vlaams marien onderzoek bevorderen;<br>
+3° fungeren als nationaal en internationaal aanspreekpunt op het gebied van het marien onderzoek;<br>
+4° de oceaangeletterdheid in Vlaanderen en de visibiliteit van het marien onderzoek bij het grote publiek bevorderen;<br>
+5° wetenschappelijke data, informatie, kennis en inzichten op maat aanreiken aan de Vlaamse mariene onderzoeksgemeenschap, de maritieme bedrijven en de beleidsverantwoordelijken op het vlak van mariene aangelegenheden;<br>
+6° grote mariene onderzoeksinfrastructuur, inclusief onderzoeksvaartuigen, een marien station en het Vlaams marien datacentrum, inzetten en beheren.<br>
+<br>
+De Vlaamse Regering is gemachtigd bijkomende regels te bepalen voor de terbeschikkingstelling van grote mariene onderzoeksinfrastructuur, inclusief onderzoeksvaartuigen, aan derden.<br>
+<br>
+§ 2. Het Vlaams Instituut voor de Zee en de Vlaamse Regering sluiten een meerjarig convenant waarin ten minste de volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reservevorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant.<br>
+<br>
+§ 3. De statuten van het Vlaams Instituut voor de Zee waarborgen dat de raad van bestuur ervan ten minste bestaat uit een meerderheid van vertegenwoordigers van de Vlaamse Regering.<br>
+<br>
+§ 4. De Vlaamse Regering stelt binnen de beschikbare begrotingskredieten een jaarlijkse subsidie ter beschikking van het Vlaams Instituut voor de Zee.</p>
 
 ## [Afdeling II. Evaluatie (ing. decr. 25 arpril 2014, art. 76, I: 8 september 2014)]
 
@@ -567,6 +715,23 @@ De raad van bestuur bestaat uit maximaal 12 leden. De statuten waarborgen de voo
 De Vlaamse Regering ziet erop toe dat de algemene werking van het Vlaams   Instituut voor de Zee, vóór het verstrijken van het lopende convenant,   geëvalueerd wordt aan de hand van de strategische en operationele doelstellingen   en indicatoren die vastgelegd zijn in het convenant.<BR><BR>De voorwaarden voor   een nieuw convenant worden onder meer bepaald door de resultaten van de   evaluatie.
 
 ## [HOOFDSTUK V. Vzw Koninklijke Maatschappij voor Dierkunde van Antwerpen (ing. Decr. 15 maart 2019, art. 22, I: 18 april 2019)]
+
+### ART 56/1/2.
+
+Voor de middelen die worden toegekend aan de vzw Koninklijke Maatschappij voor Dierkunde van Antwerpen, afgekort vzw KMDA, conform artikel 3, § 1, c, van het decreet van 30 mei 1985 betreffende de subsidiëring van de vzw Koninklijke Maatschappij voor Dierkunde van Antwerpen voor wetenschappelijk onderzoek, sluiten de Vlaamse Regering en vzw KMDA een vijfjarige convenant af waarin ten minste de volgende elementen zijn opgenomen:<br>
+1° de modaliteiten waaronder de Vlaamse Regering de subsidies verleent;<br>
+2° de strategische en operationele doelstellingen van de instelling;<br>
+3° de regels voor de meting en de opvolging ervan;<br>
+4° de betalingsregeling voor de jaarlijkse subsidie van het Vlaamse Gewest of de Vlaamse Gemeenschap;<br>
+5° de financiële bepalingen over de aanwending van de subsidies en de reservevorming;<br>
+6° een rapporteringsmechanisme en een mechanisme dat bestemd is voor de opvolging van de werking;<br>
+7° de maatregelen in geval van niet-naleving van het convenant;<br>
+8° de gevallen waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden gewijzigd;<br>
+9° de duur en de opzeggings- en verlengingsmogelijkheden van het convenant.<br>
+<br>
+De Vlaamse Regering ziet erop toe dat de activiteiten die de vzw KMDA uitvoert met de middelen, vermeld in het eerste lid, vóór het verstrijken van het lopende convenant geëvalueerd worden aan de hand van de strategische en operationele doelstellingen en indicatoren die vastgelegd zijn in het convenant.<br>
+<br>
+De voorwaarden voor een nieuw convenant worden onder meer bepaald door de resultaten van de evaluatie.
 
 ## [HOOFDSTUK VI. EnergyVille (ing. Decr. 25 maart 2022, art. 18, I: 9 juni 2022)]
 
