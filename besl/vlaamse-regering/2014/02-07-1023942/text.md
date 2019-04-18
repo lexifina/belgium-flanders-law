@@ -6,15 +6,21 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° decreet van 21 juni 2013: het   decreet van 21 juni 2013 houdende diverse bepalingen betreffende het   beleidsdomein Welzijn, Volksgezondheid en Gezin;<BR>2° centrum: het   Kwaliteitscentrum voor Diagnostiek, als bedoeld in artikel 11 van het decreet   van 21 juni 2013;<BR>3° minister: de Vlaamse minister, bevoegd voor de bijstand   aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<BR>4°   departement: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 1 van het besluit van de Vlaamse regering van 31 maart 2006 betreffende   het Departement Welzijn, Volksgezondheid en Gezin, betreffende de   inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein;<BR>5° agentschap   Jongerenwelzijn: het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid, vermeld in artikel 2 van het besluit van de Vlaamse   Regering van 24 oktober 2008 tot uitvoering van het decreet van 7 maart 2008   inzake bijzondere jeugdbijstand en het kaderdecreet Bestuurlijk Beleid van 18   juli 2003.<BR>6° diagnostiek: het geheel van tussenliggende deelprocessen, als   vermeld in artikel 10, 1°, 2° en 3°, van het decreet van 21 juni   2013.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° decreet van 21 juni 2013: het decreet van 21 juni 2013 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+2° centrum: het Kwaliteitscentrum voor Diagnostiek, als bedoeld in artikel 11 van het decreet van 21 juni 2013;<br>
+3° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br>
+4° departement: het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1 van het besluit van de Vlaamse regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+5° agentschap: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien, dat is opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+6° diagnostiek: het geheel van tussenliggende deelprocessen, als vermeld in artikel 10, 1°, 2° en 3°, van het decreet van 21 juni 2013.
 
 ### ART. 2.
 
-De opdrachten, vermeld in artikel 12, eerste lid, 3° en 4°, van het   decreet van 21 juni 2013, worden door het centrum uitgevoerd op verzoek van de   minister, het departement of het agentschap Jongerenwelzijn.<BR>
+De opdrachten, vermeld in artikel 12, eerste lid, 3° en 4°, van het decreet van 21 juni 2013, worden door het centrum uitgevoerd op verzoek van de minister, het departement of het agentschap.
 
 ### ART. 3.
 
-Het centrum rapporteert en formuleert adviezen als vermeld in artikel 12,   eerste lid, 9°, van het decreet van 21 juni 2013, aan de minister, het   departement of het agentschap Jongerenwelzijn.<BR>
+Het centrum rapporteert en formuleert adviezen als vermeld in artikel 12, eerste lid, 9°, van het decreet van 21 juni 2013, aan de minister, het departement of het agentschap.
 
 ### ART. 4.
 
