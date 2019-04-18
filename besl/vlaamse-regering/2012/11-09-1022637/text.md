@@ -28,7 +28,17 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<BR>1° de minister : het lid   van de Vlaamse Regering, bevoegd voor de bijstand aan personen;<BR>2° Kind en   Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30   april 2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Kind en Gezin;<BR>3° Zorginspectie: Zorginspectie van het   Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde   lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het   Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding   van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein;<BR>4° het CKG : het centrum voor kinderzorg en   gezinsondersteuning, zoals omschreven in artikel 2;<BR>5° typemodule : een door   de minister duidelijk omschreven en afgelijnde eenheid van jeugdhulpverlening,   gebaseerd op één enkele functie. Een functie is daarbij een specifiek omschreven   kernproces van hulpverlening;<BR>6° module : een duidelijk afgelijnde eenheid   van jeugdhulpverlening gebaseerd op één enkele typemodule die afzonderlijk,   gelijktijdig of consecutief met andere eenheden kan worden aangeboden;<BR>7°   werkingsgebied : het gebied waarbinnen een CKG begeleidingen aan huis aanbiedt   en zijn ambulante trainingen bekend maakt;<BR>8° vestigingsplaats : elk adres   waarop een CKG ambulante of residentiële opvang organiseert;<BR>9° programmatie   : het in kaart brengen van de behoefte aan bepaalde typemodules per   zorgregio.<BR>10° organiserend bestuur : de publieke of private niet-commerciële   rechtspersoon die een Centrum voor Kinderzorg en Gezinsondersteuning opricht of   organiseert<BR>
+&nbsp;In dit besluit wordt verstaan onder :<br>
+1° de minister : het lid van de Vlaamse Regering, bevoegd voor de bijstand aan personen;<br>
+2° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+3° Zorginspectie: Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+4° het CKG : het centrum voor kinderzorg en gezinsondersteuning, zoals omschreven in artikel 2;<br>
+5° typemodule : een door de minister duidelijk omschreven en afgelijnde eenheid van jeugdhulpverlening, gebaseerd op één enkele functie. Een functie is daarbij een specifiek omschreven kernproces van hulpverlening;<br>
+6° module : een duidelijk afgelijnde eenheid van jeugdhulpverlening gebaseerd op één enkele typemodule die afzonderlijk, gelijktijdig of consecutief met andere eenheden kan worden aangeboden;<br>
+7° werkingsgebied : het gebied waarbinnen een CKG begeleidingen aan huis aanbiedt en zijn ambulante trainingen bekend maakt;<br>
+8° vestigingsplaats : elk adres waarop een CKG ambulante of residentiële opvang organiseert;<br>
+9° programmatie : het in kaart brengen van de behoefte aan bepaalde typemodules per zorgregio.<br>
+10° organiserend bestuur : de publieke of private niet-commerciële rechtspersoon die een Centrum voor Kinderzorg en Gezinsondersteuning opricht of organiseert
 
 ### ART. 2.
 
@@ -36,11 +46,15 @@
 
 ### ART. 3.
 
-<P>De naam CKG is voorbehouden aan de voorziening die erkend is krachtens dit   besluit.<BR></P>  <P>Een voorziening kan een aanbod als omschreven in artikel 2 aanbieden zonder   gebruik te maken van de naam CKG. In dat geval is er geen erkenning van Kind en   Gezin. De bepalingen van dit besluit zijn dan ook niet op dit aanbod van   toepassing.<BR></P>
+<p>De naam CKG is voorbehouden aan de voorziening die erkend is krachtens dit besluit.</p>
+
+<p>Een voorziening kan een aanbod als omschreven in artikel 2 aanbieden zonder gebruik te maken van de naam CKG. In dat geval is er geen erkenning van het agentschap. De bepalingen van dit besluit zijn dan ook niet op dit aanbod van toepassing.</p>
 
 ### ART. 4.
 
-<P>§ 1. Kind en Gezin maakt in overleg met het werkveld een programmatie op. §   2. De programmatie wordt opgemaakt afhankelijk van de afstemming tussen vraag en   aanbod en de geografische spreiding van het hulpverleningsaanbod van de CKG 's.   De minister legt de nadere criteria vast.<BR></P>  <P>Kind en Gezin neemt beslissingen over de verhuizing van gesubsidieerde   typemodules en de verdeling van bijkomende middelen in overeenstemming met de   programmatie, zoals bepaald in artikel 60 en verder.<BR></P>
+<p>§ 1. Het agentschap maakt in overleg met het werkveld een programmatie op. § 2. De programmatie wordt opgemaakt afhankelijk van de afstemming tussen vraag en aanbod en de geografische spreiding van het hulpverleningsaanbod van de CKG 's. De minister legt de nadere criteria vast.</p>
+
+<p>Het agentschap neemt beslissingen over de verhuizing van gesubsidieerde typemodules en de verdeling van bijkomende middelen in overeenstemming met de programmatie, zoals bepaald in artikel 60 en verder.</p>
 
 ## HOOFDSTUK 2 Erkenningsvoorwaarden
 
@@ -50,11 +64,15 @@ Het CKG moet voldoen aan de bepalingen van dit hoofdstuk om erkend te   kunnen w
 
 ### ART. 6.
 
-Het CKG beschikt over een gevarieerd en gemoduleerd hulpverleningsaanbod.   Het CKG kiest modules binnen typemodules die Kind en Gezin heeft   goedgekeurd.<BR>
+Het CKG beschikt over een gevarieerd en gemoduleerd hulpverleningsaanbod. Het CKG kiest modules binnen typemodules die&nbsp;het agentschap heeft goedgekeurd.
 
 ### ART. 7.
 
-<P>§ 1. Het CKG biedt minimaal vier verschillende modules aan die passen binnen   de typemodules uit de mobiele en ambulante werkvorm. Het CKG kiest minimaal één   typemodule uit elke werkvorm. Hiervan kan in functie van de regionale behoeftes   afgeweken worden mits voorafgaande goedkeuring door Kind en Gezin.<BR></P>  <P>Het CKG biedt crisisopvang en kort residentiële opvang aan. Het CKG kan die   modules zelf aanbieden of een beroep doen op een andere erkende voorziening. In   het laatste geval moet het CKG aantonen dat het een gegarandeerd aanbod ter   beschikking heeft.<BR></P>  <P>§ 2. Alle aangeboden modules zijn beschreven en wetenschappelijk onderbouwd.   Dat betekent dat er minimaal verwezen moet worden naar literatuur waaruit blijkt   dat de methodiek theoretisch onderbouwd is. Het gaat om een theorie die zowel   praktijkervaringen als wetenschappelijke bevindingen   integreert.<BR></P>
+<p>§ 1. Het CKG biedt minimaal vier verschillende modules aan die passen binnen de typemodules uit de mobiele en ambulante werkvorm. Het CKG kiest minimaal één typemodule uit elke werkvorm. Hiervan kan in functie van de regionale behoeftes afgeweken worden mits voorafgaande goedkeuring door het agentschap.</p>
+
+<p>Het CKG biedt crisisopvang en kort residentiële opvang aan. Het CKG kan die modules zelf aanbieden of een beroep doen op een andere erkende voorziening. In het laatste geval moet het CKG aantonen dat het een gegarandeerd aanbod ter beschikking heeft.</p>
+
+<p>§ 2. Alle aangeboden modules zijn beschreven en wetenschappelijk onderbouwd. Dat betekent dat er minimaal verwezen moet worden naar literatuur waaruit blijkt dat de methodiek theoretisch onderbouwd is. Het gaat om een theorie die zowel praktijkervaringen als wetenschappelijke bevindingen integreert.</p>
 
 ### ART. 8.
 
@@ -104,11 +122,17 @@ Het na elkaar inzetten of combineren van modules is mogelijk als er een   welove
 
 ### ART. 18.
 
-<P>Het CKG registreert alle aanwezigheden en begeleidingen en bezorgt die   geanonimiseerde gegevens jaarlijks aan Kind en Gezin.<BR></P>  <P>Het CKG rapporteert over alle elementen van zijn werking en zijn   kwaliteitsbeleid aan Kind en Gezin. Die rapportage gebeurt minstens om de vijf   jaar. Kind en Gezin zal daarvoor, in overleg met het werkveld, nadere   richtlijnen opstellen.<BR></P>
+<p>Het CKG registreert alle aanwezigheden en begeleidingen en bezorgt die geanonimiseerde gegevens jaarlijks aan het agentschap.</p>
+
+<p>Het CKG rapporteert over alle elementen van zijn werking en zijn kwaliteitsbeleid aan het agentschap. Die rapportage gebeurt minstens om de vijf jaar. Het agentschap zal daarvoor, in overleg met het werkveld, nadere richtlijnen opstellen.</p>
 
 ### ART. 19.
 
-<P>§ 1. Het CKG is verplicht om de volgende situaties, voor zover dit mogelijk   is in geanonimiseerde vorm, te melden aan Kind en Gezin via de sjablonen die ter   beschikking worden gesteld :<BR>1° grensoverschrijdend gedrag ten aanzien van   gebruikers;<BR>2° gevaarsituaties.<BR></P>  <P>§ 2. Het CKG reageert op de situaties, vermeld in paragraaf 1, op een gepaste   manier zodat de veiligheid en integriteit van de kinderen gegarandeerd kan   worden.<BR></P>
+<p>§ 1. Het CKG is verplicht om de volgende situaties, voor zover dit mogelijk is in geanonimiseerde vorm, te melden aan het agentschap via de sjablonen die ter beschikking worden gesteld :<br>
+1° grensoverschrijdend gedrag ten aanzien van gebruikers;<br>
+2° gevaarsituaties.</p>
+
+<p>§ 2. Het CKG reageert op de situaties, vermeld in paragraaf 1, op een gepaste manier zodat de veiligheid en integriteit van de kinderen gegarandeerd kan worden.</p>
 
 ### ART. 20.
 
@@ -118,7 +142,9 @@ Het CKG bewaakt dat zijn medewerkers van goed zedelijk gedrag zijn en   vraagt d
 
 ### ART. 21.
 
-<P>Kind en Gezin controleert jaarlijks of het CKG elke module uitvoert conform   de parameters voor frequentie, intensiteit en duur.<BR></P>  <P>Kind en Gezin werkt daarvoor, in overleg met het werkveld, nadere richtlijnen   uit.<BR></P>
+<p>Het agentschap controleert jaarlijks of het CKG elke module uitvoert conform de parameters voor frequentie, intensiteit en duur.</p>
+
+<p>Het agentschap werkt daarvoor, in overleg met het werkveld, nadere richtlijnen uit.</p>
 
 ### ART. 22.
 
@@ -128,19 +154,25 @@ Het CKG bewaakt dat zijn medewerkers van goed zedelijk gedrag zijn en   vraagt d
 
 ### ART. 23.
 
-<P>Kind en Gezin evalueert minstens om de vijf jaar de werking van elk CKG. Die   evaluatie kan op elk moment worden uitgevoerd.<BR></P>  <P>De evaluatie gebeurt minstens op basis van de rapportage van het CKG, vermeld   in artikel 18, tweede lid, en op basis van de bevindingen van   Zorginspectie.<BR></P>
+<p>Het agentschap evalueert minstens om de vijf jaar de werking van elk CKG. Die evaluatie kan op elk moment worden uitgevoerd.</p>
+
+<p>De evaluatie gebeurt minstens op basis van de rapportage van het CKG, vermeld in artikel 18, tweede lid, en op basis van de bevindingen van Zorginspectie.</p>
 
 ### ART. 24.
 
-Kind en Gezin bespreekt het resultaat van de evaluatie, vermeld in artikel   23, met het betrokken CKG. Kind en Gezin kan tijdens dat gesprek doelstellingen   opleggen aan het CKG. Het CKG behaalt die doelstellingen binnen de termijn die   Kind en Gezin oplegt.<BR>
+Het agentschap bespreekt het resultaat van de evaluatie, vermeld in artikel 23, met het betrokken CKG. Het agentschap kan tijdens dat gesprek doelstellingen opleggen aan het CKG. Het CKG behaalt die doelstellingen binnen de termijn die het agentschap oplegt.
 
 ### ART. 25.
 
-Als een CKG niet aan de bepalingen van dit besluit voldoet of de   doelstellingen uit artikel 24 niet behaalt, kan Kind en Gezin het CKG aanmanen   om de tekorten weg te werken, volgens de procedure vermeld in artikel 36 en   volgende.<BR>
+Als een CKG niet aan de bepalingen van dit besluit voldoet of de doelstellingen uit artikel 24 niet behaalt, kan het agentschap het CKG aanmanen om de tekorten weg te werken, volgens de procedure vermeld in artikel 36 en volgende.
 
 ### ART. 26.
 
-<P>Kind en Gezin kan de werking van een CKG onmiddellijk schorsen als de   gezondheid en veiligheid van de begeleide kinderen niet gegarandeerd kan   worden.<BR></P>  <P>Kind en Gezin hoort zo snel mogelijk en uiterlijk binnen 15 werkdagen het   betrokken CKG en neemt op basis hiervan een definitieve beslissing met   betrekking tot het behoud of de opheffing van de erkenning. Tegen deze   beslissing staat geen beroepsprocedure open.<BR></P>  <P>Kind en Gezin betekent de definitieve beslissing tot behoud of opheffing van   de erkenning aan het CKG door middel van een aangetekende zending of bij   deurwaardersexploot.<BR></P>
+<p>Het agentschap kan de werking van een CKG onmiddellijk schorsen als de gezondheid en veiligheid van de begeleide kinderen niet gegarandeerd kan worden.</p>
+
+<p>Het agentschap hoort zo snel mogelijk en uiterlijk binnen 15 werkdagen het betrokken CKG en neemt op basis hiervan een definitieve beslissing met betrekking tot het behoud of de opheffing van de erkenning. Tegen deze beslissing staat geen beroepsprocedure open.</p>
+
+<p>Het agentschap betekent de definitieve beslissing tot behoud of opheffing van de erkenning aan het CKG door middel van een aangetekende zending of bij deurwaardersexploot.</p>
 
 ## [Afdeling 4 Kwaliteitsbeleid (ing. BVR 17 mei 2019, art. 2, I: 23 augustus 2019)]
 
@@ -150,7 +182,9 @@ Als een CKG niet aan de bepalingen van dit besluit voldoet of de   doelstellinge
 
 ### ART. 27.
 
-<P>Kind en Gezin erkent, in het kader van dit besluit, één CKG per organiserend   bestuur.<BR></P>  <P>De erkenning geldt voor onbepaalde duur.<BR></P>
+<p>Het agentschap erkent, in het kader van dit besluit, één CKG per organiserend bestuur.</p>
+
+<p>De erkenning geldt voor onbepaalde duur.</p>
 
 ### ART. 28.
 
@@ -158,29 +192,44 @@ Bij de toekenning van een erkenning worden de modules, die aangeboden   worden, 
 
 ### ART. 29.
 
-Een CKG kan jaarlijks kiezen welke modules worden aangeboden. Kind en   Gezin keurt deze keuze goed op basis van volgende criteria :<BR>1° de   infrastructuur van het CKG is geschikt om de gekozen modules aan te   bieden;<BR>2° gekozen modules die door Kind en Gezin gesubsidieerd worden,   moeten binnen de programmatie vallen;<BR>3° de keuze werd afgestemd met lokale;   regionale en provinciale sectorale en intersectorale   samenwerkingsverbanden.<BR>
+Een CKG kan jaarlijks kiezen welke modules worden aangeboden. Het agentschap keurt deze keuze goed op basis van volgende criteria :<br>
+1° de infrastructuur van het CKG is geschikt om de gekozen modules aan te bieden;<br>
+2° gekozen modules die door het agentschap gesubsidieerd worden, moeten binnen de programmatie vallen;<br>
+3° de keuze werd afgestemd met lokale; regionale en provinciale sectorale en intersectorale samenwerkingsverbanden.
 
 ## Afdeling 2 Erkenningsprocedure
 
 ### ART. 30.
 
-Een voorziening kan op elk moment een aanvraag tot erkenning indienen bij   Kind en Gezin. Die aanvraag moet met aangetekende zending of door afgifte tegen   ontvangstbewijs aan Kind en Gezin worden bezorgd.<BR>
+Een voorziening kan op elk moment een aanvraag tot erkenning indienen bij Kind en Gezin. Die aanvraag moet met aangetekende zending of door afgifte tegen ontvangstbewijs aan het agentschap worden bezorgd.
 
 ### ART. 31.
 
-De aanvraag, opgesteld volgens de sjabloon die Kind en Gezin heeft   opgesteld, bevat minstens :<BR>1° de contactgegevens, identiteit en statuten van   de aanvrager;<BR>2° een staving van de aanvraag waaruit blijkt dat aan de   erkenningsvoorwaarden van dit besluit voldaan is;<BR>3° de motivering van de   aanvraag waaruit de opportuniteit van het initiatief blijkt, onder meer gestaafd   met sociologisch-demografische gegevens;<BR>4° een verbintenis waarin de   voorziening verklaart binnen een termijn van één jaar aan de   erkenningsvoorschriften van dit besluit te zullen voldoen.<BR>
+De aanvraag, opgesteld volgens de sjabloon die het agentschap heeft opgesteld, bevat minstens :<br>
+1° de contactgegevens, identiteit en statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden van dit besluit voldaan is;<br>
+3° de motivering van de aanvraag waaruit de opportuniteit van het initiatief blijkt, onder meer gestaafd met sociologisch-demografische gegevens;<br>
+4° een verbintenis waarin de voorziening verklaart binnen een termijn van één jaar aan de erkenningsvoorschriften van dit besluit te zullen voldoen.
 
 ### ART. 32.
 
-<P>Kind en Gezin onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig   kalenderdagen na ontvangst van de aanvraag brengt Kind en Gezin de aanvrager met   aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet ontvankelijk   is.<BR></P>  <P>Kind en Gezin behandelt de ontvankelijke aanvraag binnen een termijn van drie   maanden na ontvangst. De postdatum geldt daarbij als   bewijs.<BR></P>
+<p>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig kalenderdagen na ontvangst van de aanvraag brengt het agentschap de aanvrager met aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet ontvankelijk is.</p>
+
+<p>Het agentschap behandelt de ontvankelijke aanvraag binnen een termijn van drie maanden na ontvangst. De postdatum geldt daarbij als bewijs.</p>
 
 ### ART. 33.
 
-<P>&nbsp;Kind en Gezin kan aanvullende informatie vragen aan de aanvrager van   een ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn   geschorst.<BR></P>  <P>Het CKG bezorgt de gevraagde aanvullende informatie aan Kind en Gezin binnen   vijftien kalenderdagen, zo niet neemt Kind en Gezin een beslissing zonder   aanvullende informatie.<BR></P>
+<p>Het agentschap&nbsp; kan aanvullende informatie vragen aan de aanvrager van een ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>Het CKG bezorgt de gevraagde aanvullende informatie aan het agentschap binnen vijftien kalenderdagen, zo niet neemt het agentschap een beslissing zonder aanvullende informatie.</p>
 
 ### ART. 34.
 
-Kind en Gezin stelt de aanvrager met een aangetekende brief van de   voorgenomen beslissing op de hoogte. Die kennisgeving vermeldt minimaal :<BR>1°   de identiteit en contactgegevens van de aanvrager;<BR>2° de voorgenomen   beslissing;<BR>3° de motivering van de voorgenomen beslissing;<BR>4° de   beroepsprocedure.<BR>
+Het agentschap stelt de aanvrager met een aangetekende brief van de voorgenomen beslissing op de hoogte. Die kennisgeving vermeldt minimaal :<br>
+1° de identiteit en contactgegevens van de aanvrager;<br>
+2° de voorgenomen beslissing;<br>
+3° de motivering van de voorgenomen beslissing;<br>
+4° de beroepsprocedure.
 
 ### ART. 35.
 
@@ -190,7 +239,9 @@ Als geen beroepsschrift wordt ingediend binnen de termijn vermeld in   artikel 4
 
 ### ART. 36.
 
-<P>Kind en Gezin moet voor het nemen van een voorgenomen beslissing tot   opheffing van de erkenning het CKG ertoe aanmanen om de tekorten weg te werken,   onverminderd de bepaling van artikel 26 van dit besluit.<BR></P>  <P>De aanmaning gebeurt door middel van een aangetekende zending of bij   deurwaardersexploot.<BR></P>
+<p>Het agentschap moet voor het nemen van een voorgenomen beslissing tot opheffing van de erkenning het CKG ertoe aanmanen om de tekorten weg te werken, onverminderd de bepaling van artikel 26 van dit besluit.</p>
+
+<p>De aanmaning gebeurt door middel van een aangetekende zending of bij deurwaardersexploot.</p>
 
 ### ART. 37.
 
@@ -198,7 +249,9 @@ De aanmaning vermeldt :<BR>1° de identiteit en contactgegevens van het   CKG;<B
 
 ### ART. 38.
 
-<P>Als het CKG de tekorten binnen de vooropgestelde termijn niet weggewerkt   heeft, neemt Kind en Gezin een voorgenomen beslissing tot opheffing van de   erkenning.<BR></P>  <P>Kind en Gezin betekent de voorgenomen beslissing door middel van een   aangetekende zending of bij deurwaardersexploot binnen de drie maanden na afloop   van de opgegeven termijn in de aanmaning.<BR></P>
+<p>Als het CKG de tekorten binnen de vooropgestelde termijn niet weggewerkt heeft, neemt het agentschap een voorgenomen beslissing tot opheffing van de erkenning.</p>
+
+<p>Het agentschap betekent de voorgenomen beslissing door middel van een aangetekende zending of bij deurwaardersexploot binnen de drie maanden na afloop van de opgegeven termijn in de aanmaning.</p>
 
 ### ART. 39.
 
@@ -212,27 +265,44 @@ Als geen beroepschrift wordt ingediend binnen de termijn vermeld in   artikel 49
 
 ### ART. 41.
 
-Het CKG heeft de voorafgaande toestemming van Kind en Gezin nodig als   :<BR>1° de residentiële of ambulante opvang van vestigingsplaats verandert of de   vestigingsplaats verbouwd wordt;<BR>2° het werkingsgebied bij ambulante   trainingen of mobiele begeleidingen verandert en die verandering implicaties   heeft op de programmatie in de zorgregio.<BR>
+Het CKG heeft de voorafgaande toestemming van het agentschap nodig als :<br>
+1° de residentiële of ambulante opvang van vestigingsplaats verandert of de vestigingsplaats verbouwd wordt;<br>
+2° het werkingsgebied bij ambulante trainingen of mobiele begeleidingen verandert en die verandering implicaties heeft op de programmatie in de zorgregio.
 
 ### ART. 42.
 
-<P>Het CKG bezorgt Kind en Gezin zo snel mogelijk en uiterlijk drie maanden voor   de verhuizing of de verbouwing :<BR>1° de gegevens met betrekking tot de nieuwe   vestigingsplaats of het nieuwe werkingsgebied;<BR>2° een voldoende   gedetailleerde tekening van de lokalen met minimaal de afmeting, bestemming,   indeling en oppervlakte van de verschillende ruimtes als de vestigingsplaats   wijzigt;<BR>3° de datum waarop de veranderingen in werking zouden treden;<BR>4°   de motivering van de aanvraag.<BR></P>  <P>In geval van overmacht kan van de termijn worden   afgeweken.<BR></P>
+<p>Het CKG bezorgt het agentschap zo snel mogelijk en uiterlijk drie maanden voor de verhuizing of de verbouwing :<br>
+1° de gegevens met betrekking tot de nieuwe vestigingsplaats of het nieuwe werkingsgebied;<br>
+2° een voldoende gedetailleerde tekening van de lokalen met minimaal de afmeting, bestemming, indeling en oppervlakte van de verschillende ruimtes als de vestigingsplaats wijzigt;<br>
+3° de datum waarop de veranderingen in werking zouden treden;<br>
+4° de motivering van de aanvraag.</p>
+
+<p>In geval van overmacht kan van de termijn worden afgeweken.</p>
 
 ### ART. 43.
 
-Bij een wijziging of verbouwing van vestigingsplaats geeft Kind en Gezin   onmiddellijk de opdracht aan Zorginspectie om de lokalen te bezoeken en ter   plaatse te controleren of ze voldoen aan de minimumvoorschriften voor   infrastructuur per typemodule. Zorginspectie gaat eveneens na of de richtlijnen   van Kind en Gezin gevolgd worden.<BR>
+Bij een wijziging of verbouwing van vestigingsplaats geeft het agentschap onmiddellijk de opdracht aan Zorginspectie om de lokalen te bezoeken en ter plaatse te controleren of ze voldoen aan de minimumvoorschriften voor infrastructuur per typemodule. Zorginspectie gaat eveneens na of de richtlijnen van het agentschap gevolgd worden.
 
 ### ART. 44.
 
-<P>Kind en Gezin kan aanvullende informatie vragen bij de aanvrager. Tijdens die   periode wordt de beslissingstermijn geschorst.<BR></P>  <P>Het CKG bezorgt de gevraagde aanvullende informatie aan Kind en Gezin binnen   vijftien kalenderdagen, zo niet neemt Kind en Gezin een beslissing zonder   aanvullende informatie.<BR></P>
+<p>Het agentschap kan aanvullende informatie vragen bij de aanvrager. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>Het CKG bezorgt de gevraagde aanvullende informatie aan het agentschap binnen vijftien kalenderdagen, zo niet neemt het agentschap een beslissing zonder aanvullende informatie.</p>
 
 ### ART. 45.
 
-<P>Kind en Gezin neemt een voorgenomen beslissing op basis van de programmatie   en, als de vestigingsplaats wijzigt, ook op basis van het verslag van   Zorginspectie.<BR></P>  <P>De voorgenomen beslissing vermeldt :<BR>1° de identiteit en de   contactgegevens van het CKG;<BR>2° de motivering voor de voorgenomen   beslissing;<BR>3° de beroepsprocedure.<BR></P>
+<p>Het agentschap neemt een voorgenomen beslissing op basis van de programmatie en, als de vestigingsplaats wijzigt, ook op basis van het verslag van Zorginspectie.</p>
+
+<p>De voorgenomen beslissing vermeldt :<br>
+1° de identiteit en de contactgegevens van het CKG;<br>
+2° de motivering voor de voorgenomen beslissing;<br>
+3° de beroepsprocedure.</p>
 
 ### ART. 46.
 
-<P>Kind en Gezin betekent de voorgenomen beslissing door middel van een   aangetekende zending of bij deurwaardersexploot binnen een termijn van drie   maanden na ontvangst. De postdatum geldt daarbij als bewijs.<BR></P>  <P>Als Kind en Gezin geen beslissing neemt binnen die termijn, wordt de aanvraag   geacht toegekend te zijn.<BR></P>
+<p>Het agentschap betekent de voorgenomen beslissing door middel van een aangetekende zending of bij deurwaardersexploot binnen een termijn van drie maanden na ontvangst. De postdatum geldt daarbij als bewijs.</p>
+
+<p>Als het agentschap geen beslissing neemt binnen die termijn, wordt de aanvraag geacht toegekend te zijn.</p>
 
 ### ART. 47.
 
@@ -244,17 +314,23 @@ Als geen beroepsschrift wordt ingediend binnen de termijn vermeld in   artikel 4
 
 Als gemeenten samengevoegd worden op basis van het decreet van 22 december 2017 over het lokaal bestuur, vult het agentschap de gegevens van de erkenning van het CKG in de samengevoegde gemeenten automatisch aan met de gegevens die voortvloeien uit de samenvoeging tot de nieuwe gemeente.<br>
 <br>
-Kind en Gezin brengt het CKG elektronisch op de hoogte van de aanpassingen.
+Het agentschap brengt het CKG elektronisch op de hoogte van de aanpassingen.
 
 ## Afdeling 5 Beroepsprocedure
 
 ### ART. 48.
 
-Een CKG kan bij Kind en Gezin beroep aantekenen tegen de voorgenomen   beslissing tot :<BR>1° weigering van de erkenningsaanvraag;<BR>2° weigering van   de subsidieaanvraag;<BR>3° opheffing van de erkenning;<BR>4° weigering van de   wijziging van de vestigingsplaats of het werkingsgebied.<BR>
+Een CKG kan bij het agentschap beroep aantekenen tegen de voorgenomen beslissing tot :<br>
+1° weigering van de erkenningsaanvraag;<br>
+2° weigering van de subsidieaanvraag;<br>
+3° opheffing van de erkenning;<br>
+4° weigering van de wijziging van de vestigingsplaats of het werkingsgebied.
 
 ### ART. 49.
 
-<P>Een CKG heeft op straffe van niet-ontvankelijkheid uiterlijk dertig   kalenderdagen, te rekenen vanaf de datum van de betekening van een voorgenomen   beslissing als vermeld in artikel 48, de tijd om een gemotiveerd beroepschrift   in te dienen. De postdatum geldt daarbij als bewijs.<BR></P>  <P>Dat beroepschrift moet met een aangetekende brief of door afgifte tegen   ontvangstmelding aan Kind en Gezin worden bezorgd.<BR></P>
+<p>Een CKG heeft op straffe van niet-ontvankelijkheid uiterlijk dertig kalenderdagen, te rekenen vanaf de datum van de betekening van een voorgenomen beslissing als vermeld in artikel 48, de tijd om een gemotiveerd beroepschrift in te dienen. De postdatum geldt daarbij als bewijs.</p>
+
+<p>Dat beroepschrift moet met een aangetekende brief of door afgifte tegen ontvangstmelding aan het agentschap worden bezorgd.</p>
 
 ### ART. 50.
 
@@ -262,7 +338,7 @@ Het beroepschrift bevat op straffe van niet-ontvankelijkheid de volgende   eleme
 
 ### ART. 51.
 
-Kind en Gezin onderzoekt de ontvankelijkheid van het beroepschrift. Binnen   vijftien kalenderdagen na ontvangst brengt Kind en Gezin de indiener met een   aangetekende brief ervan op de hoogte of zijn beroepschrift al of niet   ontvankelijk is.<BR>
+Het agentschap onderzoekt de ontvankelijkheid van het beroepschrift. Binnen vijftien kalenderdagen na ontvangst brengt het agentschap de indiener met een aangetekende brief ervan op de hoogte of zijn beroepschrift al of niet ontvankelijk is.
 
 ### ART. 52.
 
@@ -274,7 +350,10 @@ Kind en Gezin onderzoekt de ontvankelijkheid van het beroepschrift. Binnen   vij
 
 ### ART. 53.
 
-<P>§ 1. Binnen de marge van de begrotingskredieten bepaalt Kind en Gezin de   verdeling van de beschikbare middelen over de CKG's met het oog op de uitvoering   van de programmatie.<BR>Kind en Gezin houdt daarbij rekening met de bepalingen   van artikel 80.<BR></P>  <P>§ 2. De verdeling van bijkomende middelen gebeurt op basis van de procedure,   vermeld in artikel 60 en volgende.<BR></P>
+<p>§ 1. Binnen de marge van de begrotingskredieten bepaalt het agentschap de verdeling van de beschikbare middelen over de CKG's met het oog op de uitvoering van de programmatie.<br>
+Het agentschap houdt daarbij rekening met de bepalingen van artikel 80.</p>
+
+<p>§ 2. De verdeling van bijkomende middelen gebeurt op basis van de procedure, vermeld in artikel 60 en volgende.</p>
 
 ### ART. 54.
 
@@ -290,7 +369,9 @@ Alle subsidies die worden toegekend door of krachtens dit besluit, alsook   de w
 
 ### ART. 57.
 
-<P>Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal   in kwestie keert Kind en Gezin aan elk CKG een voorschot uit. Het bedrag van dat   voorschot wordt berekend op een vierde van 90 % van de jaarlijkse   subsidie-enveloppe.<BR></P>  <P>Het saldo wordt uitbetaald bij aanvang van het tweede semester van het   volgende jaar. Kind en Gezin stelt het bedrag van het saldo vast, rekening   houdend met de bepalingen van artikel 74.<BR></P>
+<p>Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert het agentschap aan elk CKG een voorschot uit. Het bedrag van dat voorschot wordt berekend op een vierde van 90 % van de jaarlijkse subsidie-enveloppe.</p>
+
+<p>Het saldo wordt uitbetaald bij aanvang van het tweede semester van het volgende jaar. Het agentschap stelt het bedrag van het saldo vast, rekening houdend met de bepalingen van artikel 74.</p>
 
 ### ART. 58.
 
@@ -304,23 +385,47 @@ De voorzieningen die ter uitvoering van dit besluit een erkenning hebben   verkr
 
 ### ART. 60.
 
-<P>§ 1.Kind en Gezin neemt, op basis van de programmatie, de beslissing om   bijkomende typemodules in een welbepaalde regio te subsidiëren.<BR></P>  <P>Kind en Gezin maakt de beslissing daarover schriftelijk bekend aan alle   erkende CKG's en aan alle aanbieders van een soortgelijk inhoudelijk aanbod   binnen die regio.<BR></P>  <P>§ 2. De geïnteresseerde CKG's kunnen zich daarna binnen een door Kind en   Gezin bepaalde termijn kandidaat stellen. De aanvraag moet met een aangetekende   brief of door afgifte tegen ontvangstmelding bezorgd worden aan Kind en Gezin.   Ze vermeldt op straffe van niet-ontvankelijkheid minstens de volgende gegevens   volgens de sjabloon die Kind en Gezin opstelt :<BR>1° de identiteit van de   aanvragers;<BR>2° de typemodules die worden aangevraagd en in voorkomend geval   de vestigingsplaats of het werkingsgebied;<BR>3° een voldoende gedetailleerde   tekening van de lokalen, met minimaal de afmeting, bestemming, indeling en   oppervlakte van de verschillende ruimtes bij het aanbieden van ambulante of   residentiële opvang;<BR>4° de datum van de aanvraag;<BR>5° de handtekening van   de aanvrager;<BR>6° de motivering van de aanvraag op basis van inhoudelijke   criteria;<BR>7° de staving van de aanvraag, waaruit blijkt dat aan de   subsidievoorwaarden van dit besluit is voldaan.<BR></P>
+<p>§ 1.Het agentschap neemt, op basis van de programmatie, de beslissing om bijkomende typemodules in een welbepaalde regio te subsidiëren.</p>
+
+<p>Het agentschap maakt de beslissing daarover schriftelijk bekend aan alle erkende CKG's en aan alle aanbieders van een soortgelijk inhoudelijk aanbod binnen die regio.</p>
+
+<p>§ 2. De geïnteresseerde CKG's kunnen zich daarna binnen een door het agentschap bepaalde termijn kandidaat stellen. De aanvraag moet met een aangetekende brief of door afgifte tegen ontvangstmelding bezorgd worden aan het agentschap. Ze vermeldt op straffe van niet-ontvankelijkheid minstens de volgende gegevens volgens de sjabloon die het agentschap opstelt :<br>
+1° de identiteit van de aanvragers;<br>
+2° de typemodules die worden aangevraagd en in voorkomend geval de vestigingsplaats of het werkingsgebied;<br>
+3° een voldoende gedetailleerde tekening van de lokalen, met minimaal de afmeting, bestemming, indeling en oppervlakte van de verschillende ruimtes bij het aanbieden van ambulante of residentiële opvang;<br>
+4° de datum van de aanvraag;<br>
+5° de handtekening van de aanvrager;<br>
+6° de motivering van de aanvraag op basis van inhoudelijke criteria;<br>
+7° de staving van de aanvraag, waaruit blijkt dat aan de subsidievoorwaarden van dit besluit is voldaan.</p>
 
 ### ART. 61.
 
-Kind en Gezin onderzoekt de ontvankelijkheid van de aanvraag. Binnen   dertig kalenderdagen na ontvangst van de aanvraag brengt Kind en Gezin de   aanvrager met een aangetekende brief ervan op de hoogte of zijn aanvraag al dan   niet ontvankelijk is.<BR>
+Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig kalenderdagen na ontvangst van de aanvraag brengt het agentschap de aanvrager met een aangetekende brief ervan op de hoogte of zijn aanvraag al dan niet ontvankelijk is.
 
 ### ART. 62.
 
-<P>Kind en Gezin kan aanvullende informatie vragen bij de aanvrager van een   ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn   geschorst.<BR></P>  <P>Het CKG bezorgt de gevraagde informatie aan Kind en Gezin binnen vijftien   kalenderdagen, zo niet neemt Kind en Gezin een beslissing zonder aanvullende   informatie.<BR></P>
+<p>Het agentschap kan aanvullende informatie vragen bij de aanvrager van een ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>Het CKG bezorgt de gevraagde informatie aan het agentschap binnen vijftien kalenderdagen, zo niet neemt het agentschap een beslissing zonder aanvullende informatie.</p>
 
 ### ART. 63.
 
-<P>§ 1. Kind en Gezin neemt over alle ontvankelijke aanvragen een gemotiveerd   voornemen tot het toekennen van de subsidies of een gemotiveerd voornemen tot   het niet toekennen van de subsidies binnen een termijn van drie maanden na   ontvangst van de aanvragen. De postdatum geldt daarbij als bewijs.<BR></P>  <P>§ 2. Als verschillende CKG's een ontvankelijke aanvraag indienen, wordt op   basis van de volgende criteria beslist aan wie het voornemen tot toekenning van   de subsidie wordt toegewezen :<BR>1° de aangevraagde modules passen binnen de   programmatie;<BR>2° het CKG is erkend of voldoet aan de voorwaarden om erkend te   worden;<BR>3° er zijn geen tegenindicaties in het dossier van het CKG.<BR></P>  <P>Als alle aanvragen voldoen aan punt 1° tot en met 3°, wordt de beslissing   genomen op basis van artikel 60, 6°. <BR></P>
+<p>§ 1. Het agentschap neemt over alle ontvankelijke aanvragen een gemotiveerd voornemen tot het toekennen van de subsidies of een gemotiveerd voornemen tot het niet toekennen van de subsidies binnen een termijn van drie maanden na ontvangst van de aanvragen. De postdatum geldt daarbij als bewijs.</p>
+
+<p>§ 2. Als verschillende CKG's een ontvankelijke aanvraag indienen, wordt op basis van de volgende criteria beslist aan wie het voornemen tot toekenning van de subsidie wordt toegewezen :<br>
+1° de aangevraagde modules passen binnen de programmatie;<br>
+2° het CKG is erkend of voldoet aan de voorwaarden om erkend te worden;<br>
+3° er zijn geen tegenindicaties in het dossier van het CKG.</p>
+
+<p>Als alle aanvragen voldoen aan punt 1° tot en met 3°, wordt de beslissing genomen op basis van artikel 60, 6°.</p>
 
 ### ART. 64.
 
-Kind en Gezin brengt de aanvragers met een aangetekende brief van de   voorgenomen beslissing op de hoogte. Die kennisgeving vermeldt :<BR>1° de   identiteit en contactgegevens van de aanvrager;<BR>2° de voorgenomen   beslissing;<BR>3° de motivering van de voorgenomen beslissing;<BR>4° de   beroepsprocedure.<BR>
+Het agentschap brengt de aanvragers met een aangetekende brief van de voorgenomen beslissing op de hoogte. Die kennisgeving vermeldt :<br>
+1° de identiteit en contactgegevens van de aanvrager;<br>
+2° de voorgenomen beslissing;<br>
+3° de motivering van de voorgenomen beslissing;<br>
+4° de beroepsprocedure.
 
 ### ART. 65.
 
@@ -346,7 +451,7 @@ Een CKG ontvangt jaarlijks een subsidie-enveloppe, als het voldoet aan de   bepa
 
 ### ART. 70.
 
-Ieder gesubsidieerd CKG bezorgt jaarlijks voor 1 juli een   activiteitenverslag aan Kind en Gezin. Dit verslag wordt opgesteld volgens de   richtlijnen van Kind en Gezin. Het bevat onder meer de volledige jaarrekening   van het organiserend bestuur van het voorgaande boekjaar met een uitgesplitste   resultatenrekening waarbij de kosten en de opbrengsten die werden gerealiseerd   door het CKG, apart zichtbaar zijn.<BR>
+Ieder gesubsidieerd CKG bezorgt jaarlijks voor 1 juli een activiteitenverslag aan het agentschap. Dit verslag wordt opgesteld volgens de richtlijnen van het agentschap. Het bevat onder meer de volledige jaarrekening van het organiserend bestuur van het voorgaande boekjaar met een uitgesplitste resultatenrekening waarbij de kosten en de opbrengsten die werden gerealiseerd door het CKG, apart zichtbaar zijn.
 
 ### ART. 71.
 
@@ -354,7 +459,11 @@ Het organiserend bestuur van het CKG houdt een boekhouding bij volgens de   toep
 
 ### ART. 72.
 
-<P>Wanneer de kosten die een CKG realiseert in een boekjaar, lager liggen dan de   subsidies van Kind en Gezin - waarop het CKG voor dat boekjaar recht heeft- en   de effectief ontvangen ouderbijdragen, dan wordt met dat overschot een   afzonderlijke reserve Kind en Gezin in de boekhouding aangelegd. Met de   afzonderlijke reserve Kind en Gezin mogen enkel tekorten van volgende boekjaren   aangezuiverd worden, die gevormd zijn doordat de kosten voor de CKG-werking   hoger liggen dan de opbrengsten.<BR></P>  <P>Wanneer de reserve Kind en Gezin, opgebouwd sedert de datum waarop dit   besluit in voege treedt, de jaarsubsidie van het CKG overschrijdt, dan wordt het   bedrag in meer aan Kind en Gezin teruggestort.<BR></P>  <P>Als het CKG zijn erkenning verliest, wordt de reserve Kind en Gezin die op   die manier werd opgebouwd en die na aftrek van ontslagpremies en kosten   overblijven, integraal teruggestort.<BR></P>
+<p>Wanneer de kosten die een CKG realiseert in een boekjaar, lager liggen dan de subsidies van het agentschap - waarop het CKG voor dat boekjaar recht heeft- en de effectief ontvangen ouderbijdragen, dan wordt met dat overschot een afzonderlijke reserve Kind en Gezin in de boekhouding aangelegd. Met de afzonderlijke reserve Kind en Gezin mogen enkel tekorten van volgende boekjaren aangezuiverd worden, die gevormd zijn doordat de kosten voor de CKG-werking hoger liggen dan de opbrengsten.</p>
+
+<p>Wanneer de reserve Kind en Gezin, opgebouwd sedert de datum waarop dit besluit in voege treedt, de jaarsubsidie van het CKG overschrijdt, dan wordt het bedrag in meer aan het agentschap teruggestort.</p>
+
+<p>Als het CKG zijn erkenning verliest, wordt de reserve Kind en Gezin die op die manier werd opgebouwd en die na aftrek van ontslagpremies en kosten overblijven, integraal teruggestort.</p>
 
 ### ART. 73.
 
@@ -368,7 +477,13 @@ Het is het CKG niet toegestaan te beleggen in effecten, fondsen of andere   waar
 
 ### ART. 75.
 
-<P>§ 1. Onverminderd de toepassing van artikel 13 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof, kan Kind   en Gezin bij de uitbetaling van het saldo, vermeld in artikel 57, een deel van   de subsidies van het voorbije jaar terugvorderen als : <BR>1° een CKG twee   opeenvolgende jaren of in een periode van vijf jaar minimum twee jaar minder dan   het percentage van de gemiddelde bezetting en de gemiddelde aanwezigheid,   vermeld in het Ministerieel besluit betreffende het aanbod, beschreven in   typemodules, van de centra voor kinderzorg en gezinsondersteuning, behaalt bij   modules van residentiële en/of ambulante opvang;<BR>2° een CKG twee   opeenvolgende jaren of in een periode van vijf jaar minimum twee jaar minder dan   de minimale inzetbare hoeveelheid van de mobiele modules of ambulante   begeleidingen behaalt;<BR></P>  <P>§ 2. In het geval van § 1, 1° en 2° bestaat de terugvordering uit een   percentage op de totale subsidie-enveloppe. Dat percentage bedraagt maximaal het   percentage dat de te weinig uitgevoerde of deels uitgevoerde modules in de   enveloppe vertegenwoordigt.<BR></P>  <P>De terugvordering gebeurt enkel voor zover het CKG de tekorten niet heeft   opgevangen door in andere modules meer dan de minimale inzetbare hoeveelheid of   het percentage van de gemiddelde bezetting en de gemiddelde aanwezigheid te   behalen.<BR></P>
+<p>§ 1. Onverminderd de toepassing van artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, kan het agentschap bij de uitbetaling van het saldo, vermeld in artikel 57, een deel van de subsidies van het voorbije jaar terugvorderen als :<br>
+1° een CKG twee opeenvolgende jaren of in een periode van vijf jaar minimum twee jaar minder dan het percentage van de gemiddelde bezetting en de gemiddelde aanwezigheid, vermeld in het Ministerieel besluit betreffende het aanbod, beschreven in typemodules, van de centra voor kinderzorg en gezinsondersteuning, behaalt bij modules van residentiële en/of ambulante opvang;<br>
+2° een CKG twee opeenvolgende jaren of in een periode van vijf jaar minimum twee jaar minder dan de minimale inzetbare hoeveelheid van de mobiele modules of ambulante begeleidingen behaalt;</p>
+
+<p>§ 2. In het geval van § 1, 1° en 2° bestaat de terugvordering uit een percentage op de totale subsidie-enveloppe. Dat percentage bedraagt maximaal het percentage dat de te weinig uitgevoerde of deels uitgevoerde modules in de enveloppe vertegenwoordigt.</p>
+
+<p>De terugvordering gebeurt enkel voor zover het CKG de tekorten niet heeft opgevangen door in andere modules meer dan de minimale inzetbare hoeveelheid of het percentage van de gemiddelde bezetting en de gemiddelde aanwezigheid te behalen.</p>
 
 ### ART. 76.
 
@@ -386,7 +501,11 @@ Het besluit van de Vlaamse Regering van 1 maart 2002 betreffende de   erkenning 
 
 ### ART. 79.
 
-<P>§ 1. De organiserende besturen van de CKG's die bij de inwerkingtreding van   dit besluit al erkend zijn, krijgen een voorlopige erkenning.<BR></P>  <P>De voorlopige erkenning wordt omgezet in een definitieve erkenning zodra ze   aan de voorwaarden van dit besluit en van het Ministerieel besluit betreffende   het aanbod, beschreven in typemodules, van de centra voor kinderzorg en   gezinsondersteuning voldoen. De CKG's krijgen daarvoor maximaal drie jaar de   tijd.<BR></P>  <P>§ 2. Tijdens de overgangsperiode en voor zover er nog geen programmatie werd   uitgewerkt, zijn wijzigingen in de residentiële capaciteit, waardoor deze daalt   beneden de werkelijk aangeboden capaciteit bij inwerkingtreding van het besluit,   mogelijk voor zover dit werd afgestemd met de regionale noden en behoeften. Kind   en Gezin neemt hierover een beslissing na afstemming met het agentschap   Jongerenwelzijn.<BR></P>
+<p>§ 1. De organiserende besturen van de CKG's die bij de inwerkingtreding van dit besluit al erkend zijn, krijgen een voorlopige erkenning.</p>
+
+<p>De voorlopige erkenning wordt omgezet in een definitieve erkenning zodra ze aan de voorwaarden van dit besluit en van het Ministerieel besluit betreffende het aanbod, beschreven in typemodules, van de centra voor kinderzorg en gezinsondersteuning voldoen. De CKG's krijgen daarvoor maximaal drie jaar de tijd.</p>
+
+<p>§ 2. Tijdens de overgangsperiode en voor zover er nog geen programmatie werd uitgewerkt, zijn wijzigingen in de residentiële capaciteit, waardoor deze daalt beneden de werkelijk aangeboden capaciteit bij inwerkingtreding van het besluit, mogelijk voor zover dit werd afgestemd met de regionale noden en behoeften. Het agentschap neemt hierover een beslissing na afstemming met het agentschap Jongerenwelzijn.</p>
 
 ### ART. 80.
 
