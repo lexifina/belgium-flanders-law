@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031564,
+  "title": "Decreet van 2019-03-29 tot wijziging van diverse bepalingen van het decreet van 16 januari 2004 op de begraafplaatsen en de lijkbezorging",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031564/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "378b379050ce6fa9ec1c3413a8e4f6ac07d98327934b087b4b0ea40e467248ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031564&param=informatie",
+  "as_of": "2019-04-18",
+  "made": "2019-03-29",
+  "gazette": "2019-04-17",
+  "numac": 2019011725,
+  "document_start": "2019-04-18",
+  "document_end": null,
+  "in_force": "2019-04-18",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
