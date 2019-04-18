@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030522,
+  "title": "Decreet van 2019-03-15 houdende wijziging van diverse decreten met betrekking tot het economisch, wetenschaps- en innovatiebeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030522/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "80dacf03958765b46b3eec220e589f055e4a1bb4782d5209841accc2d3e336c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030522&param=informatie",
+  "as_of": "2019-04-18",
+  "made": "2019-03-15",
+  "gazette": "2019-04-08",
+  "numac": 2019011509,
+  "document_start": "2019-04-18",
+  "document_end": null,
+  "in_force": "2019-04-18",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2019-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
