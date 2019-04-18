@@ -2,16 +2,16 @@
   "codex_id": 1035694,
   "title": "Decreet van 2021-05-21 tot wijziging van diverse decreten over welzijn, volksgezondheid en gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035694/VolledigDocument?datum=2019-03-31",
-  "source_sha256": "d50d2ef66fed933411e6e55240f12db61482b901159afc64d84c71c36e42aaeb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1035694/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "2636d18a302eeb633fcd13bd51f9a16cdafd4f839f5d165dd8983ae988eb3cec",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1035694&param=informatie",
-  "as_of": "2019-03-31",
+  "as_of": "2019-04-18",
   "made": "2021-05-21",
   "gazette": "2021-06-18",
   "numac": 2021031619,
   "document_start": "2021-06-28",
   "document_end": null,
-  "in_force": "2019-03-31",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2019-03-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-04-18",
+  "article_versions": 65,
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }
