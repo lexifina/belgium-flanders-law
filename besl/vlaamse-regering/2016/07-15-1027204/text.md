@@ -22,7 +22,8 @@ Besluit :<br>
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° bijzonder reglement: het bijzonder reglement van 2 september 1997 tot vaststelling van de wijze waarop het Fonds voor Collectieve Uitrustingen en Diensten de opbrengst van de ontvangen bijdragen toewijst aan de toekenning van subsidies voor projecten voor de opvang van kinderen van 2,5 tot 12 jaar en sommige projecten voor de opvang van kinderen van 0 tot 3 jaar;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 bijzonder reglement: het bijzonder reglement van 2 september 1997 tot vaststelling van de wijze waarop het Fonds voor Collectieve Uitrustingen en Diensten de opbrengst van de ontvangen bijdragen toewijst aan de toekenning van subsidies voor projecten voor de opvang van kinderen van 2,5 tot 12 jaar en sommige projecten voor de opvang van kinderen van 0 tot 3 jaar;<br>
 2° erkenning voor buitenschoolse groepsopvang : een buitenschoolse opvanglocatie voor groepsopvang met een erkenning op basis van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014;<br>
 3° koninklijk besluit van 19 augustus 1997: het koninklijk besluit van 19 augustus 1997 tot vaststelling van de wijze waarop het Fonds voor collectieve uitrustingen en diensten de opbrengst van de ontvangen bijdragen toewijst aan de toekenning van subsidies voor projecten voor de opvang van kinderen van 2,5 tot 12 jaar en sommige projecten voor de opvang van kinderen van 0 tot 3 jaar;<br>
 4° project FCUD: een organisator van buitenschoolse opvang en opvang zieke kinderen, die in 2014 gesubsidieerd is met toepassing van het koninklijk besluit van 19 augustus 1997 en het bijzonder reglement;<br>
@@ -34,13 +35,13 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-Kind en Gezin kent met ingang van 1 januari 2016 een subsidie toe:<br>
+Het agentschap kent met ingang van 1 januari 2016 een subsidie toe:<br>
 1° aan een project FCUD;<br>
 2° voor hetzelfde bedrag als in 2014 is uitbetaald door het Federaal Agentschap voor de Kinderbijslag conform het koninklijk besluit 19 augustus 1997 en het bijzonder reglement;<br>
 3° conform de volgende voorwaarden:<br>
 a) de voorwaarden, vermeld in het koninklijk besluit 19 augustus 1997 en het bijzonder reglement;<br>
 b) het project FCUD heeft minstens 80% bezetting per kalenderjaar. Voor de berekening van de bezetting geldt het aantal aanwezigheidsdagen als basis;<br>
-c) het project FCUD bezorgt de aanwezigheidsdagen, de inkomsten, de uitgaven en het bewijs van effectieve tewerkstelling van de personeelsleden met het vroegere FCUD-statuut aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin.<br>
+c) het project FCUD bezorgt de aanwezigheidsdagen, de inkomsten, de uitgaven en het bewijs van effectieve tewerkstelling van de personeelsleden met het vroegere FCUD-statuut aan het agentschap, volgens de administratieve richtlijnen van Kind en Gezin.<br>
 <br>
 Voor een project FCUD dat als enige opvangactiviteit buitenschoolse opvang heeft, geldt de voorwaarde, vermeld in het eerste lid, 3°, niet, maar geldt als voorwaarde dat de subsidie, vermeld in het eerste lid, 2°, ingezet wordt op een opvanglocatie met een erkenning voor buitenschoolse groepsopvang en die voldoet aan de voorwaarden voor een subsidie voor initiatief buitenschoolse opvang.<br>
 <br>
@@ -51,7 +52,7 @@ Voor een project FCUD dat als enige activiteit regionale coördinatie van buiten
 
 ### ART 3.
 
-Kind en Gezin kent met ingang vanaf 1 januari 2016 een subsidie toe:<br>
+Het agentschap kent met ingang vanaf 1 januari 2016 een subsidie toe:<br>
 1° aan een project gesco;<br>
 2° op basis van:<br>
 a) de gescopremie, toegekend voor het jaar 2014 met toepassing van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
@@ -59,7 +60,7 @@ b) de vermindering van de socialezekerheidsbijdrage voor het jaar 2014, toegeken
 c) het totale gemiddelde aantal voltijdsequivalenten van personeelsleden met een gewezen gescostatuut op 31 december 2014;<br>
 3° conform de volgende voorwaarden:<br>
 a) het project gesco behoudt het aantal voltijdsequivalenten, vermeld in punt 2°, c), per kalenderjaar;<br>
-b) het project gesco bezorgt het bewijs van effectieve tewerkstelling van het aantal voltijdsequivalenten, vermeld in punt 2°, c), aan Kind en Gezin, volgens de administratieve richtlijnen van Kind en Gezin.<br>
+b) het project gesco bezorgt het bewijs van effectieve tewerkstelling van het aantal voltijdsequivalenten, vermeld in punt 2°, c), aan het agentschap, volgens de administratieve richtlijnen van het agentschap.<br>
 <br>
 De elementen, vermeld in het eerste lid, 2°, a) tot en met c), kunnen toegekend worden op voorwaarde dat de nodige gegevens daarvoor bezorgd zijn en dat het project geregulariseerd is conform het besluit van de Vlaamse Regering van 18 december 2015 tot regularisatie en uitdoving van arbeidsplaatsen van gesubsidieerde contractuelen die zijn tewerkgesteld met een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen, en artikel 1, 13°, van het besluit van de Vlaamse Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen.<br>
 <br>
@@ -96,7 +97,7 @@ In het geval een andere organisator en een organisator van een project FCUD of e
 
 ### ART 8.
 
-Kind en Gezin beslist om de subsidie terug te vorderen overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof. Kind en Gezin kan beslissen om de subsidie te schorsen of stop te zetten als de voorwaarden niet worden nageleefd.<br>
+Het agentschap beslist om de subsidie terug te vorderen overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof. Het agentschap kan beslissen om de subsidie te schorsen of stop te zetten als de voorwaarden niet worden nageleefd.<br>
 <br>
 De subsidie voor een project FCUD wordt verminderd als de organisator geen 80% bezetting haalt. Voor de voormelde vermindering zijn het koninklijk besluit van 19 augustus 1997 en het bijzonder reglement van toepassing.<br>
 <br>
