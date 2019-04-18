@@ -21,7 +21,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
 3° dienstverlener: een dienstverlener als vermeld in artikel 2, § 1, 13°, van het decreet van 12 juli 2013;<br>
 4° kindermishandeling: kindermishandeling als vermeld in artikel 2, § 1, 32°, van het decreet van 12 juli 2013;<br>
