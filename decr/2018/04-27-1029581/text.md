@@ -21,10 +21,12 @@ Nadat de bevoegdheid van de Vlaamse Gemeenschap werd vastgesteld op basis van he
 2° adoptie: de gewone of de volle adoptie, vermeld in boek I, titel VIII, van het Burgerlijk Wetboek;<br>
 3° afgevlakte gezondheidsindex: het indexmechanisme, zoals gedefinieerd in artikel 2, § 2, eerste lid, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, dat wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit;<br>
 4° agentschap: het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, opgericht bij het decreet van 7 juli 2017;<br>
+4° /1 agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004;<br>
 5° Algemene kinderbijslagwet: de Algemene kinderbijslagwet van 19 december 1939, zoals die gold op 31 december 2018;<br>
 6° bankrekening: een rekening bij een kredietinstelling, zoals gedefinieerd in artikel 1, § 3, eerste lid, van de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen en beursvennootschappen, waarvan één begunstigde titularis is of beide begunstigden co-titularis zijn;<br>
 7° basisonderwijs: kleuteronderwijs en lager onderwijs als vermeld in het decreet basisonderwijs van 25 februari 1997;<br>
 8° bijslagtrekkende: de natuurlijke of rechtspersoon aan wie de bijslagen in het kader van de kinderbijslagreglementering worden uitbetaald;<br>
+8° /1 decreet van 30 april 2004: het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 9° decreet van 8 juni 2007: het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap, zoals tot op heden gewijzigd;<br>
 10° decreet van 7 juli 2017: het decreet van 7 juli 2017 tot oprichting van een publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid, tot vaststelling van vergunningsnormen voor private uitbetalingsactoren en tot wijziging van het decreet van 30 april 2004 betreffende de oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
 11° erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs: een erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor gewoon of buitengewoon basisonderwijs als vermeld in hoofdstuk VII van het decreet basisonderwijs van 25 februari 1997;<br>
@@ -49,7 +51,7 @@ c) de leerling die in het buitenland een opleiding volgt;<br>
 d) de gehuwde, zelfstandige of alleenstaande leerling;<br>
 22° kleuteronderwijs: het kleuteronderwijs, vermeld in het decreet basisonderwijs van 25 februari 1997;<br>
 23° kleutertoeslagen: toeslagen om de deelname aan het kleuteronderwijs te stimuleren;<br>
-24° Kind en Gezin: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+24° ...<br>
 25° kinderbijslag: de maandelijkse kinderbijslag, vermeld in artikel 40 van de Algemene kinderbijslagwet;<br>
 26° kinderbijslagreglementering: het geheel van de regelingen inzake de gezinsbijslagen, vastgesteld door of krachtens de Algemene kinderbijslagwet of de wet van 20 juli 1971 tot instelling van gewaarborgde gezinsbijslag, alsook alle uitvoeringsbesluiten ervan;<br>
 27° kinderbijslag voor wezen: de verhoogde kinderbijslag voor wezen, vermeld in artikel 56bis, § 1, en artikel 50bis van de Algemene kinderbijslagwet en artikel 8, § 1, 2°, van het koninklijk besluit van 25 oktober 1971 tot uitvoering van de wet van 20 juli 1971 tot instelling van de gewaarborgde gezinsbijslag, en de gewone wezenbijslag, vermeld in artikel 56bis, § 2, van de Algemene kinderbijslagwet;<br>
@@ -128,7 +130,7 @@ Voor de toepassing van dit artikel worden toelagen met hetzelfde doel die toegek
 
 ### ART 7.
 
-§ 1. Kind en Gezin, de geschillencommissie, het agentschap, de uitbetalingsactoren, de organisatoren kinderopvang en het Vlaams Ministerie van Onderwijs en Vorming verwerken alle noodzakelijke persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid en gerechtelijke gegevens, over de rechtgevende kinderen en de rechthebbende kinderen, leerlingen en studenten, de bijslagtrekkenden of de begunstigden en hun gezin om hun taken in het kader van dit decreet, het decreet van 7 juli 2017 en het decreet van 30 juni 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin te kunnen uitvoeren.<br>
+§ 1. Het agentschap Opgroeien regie, de geschillencommissie, het agentschap, de uitbetalingsactoren, de organisatoren kinderopvang en het Vlaams Ministerie van Onderwijs en Vorming verwerken alle noodzakelijke persoonsgegevens, waaronder persoonsgegevens over de gezondheid en gerechtelijke gegevens, over de rechtgevende en de rechthebbende kinderen, leerlingen en studenten, de bijslagtrekkenden of de begunstigden en hun gezin, om hun taken uit te voeren in het kader van dit decreet, het decreet van 7 juli 2017 en het decreet van 30 april 2004.<br>
 <br>
 § 2. Het agentschap en de uitbetalingsactoren verwerken met het oog op de vaststelling van het recht op toelagen in het kader van het gezinsbeleid, de berekening en de toekenning van de toelagen in het kader van het gezinsbeleid de volgende categorieën van persoonsgegevens:<br>
 1° identificatiegegevens;<br>
@@ -149,11 +151,11 @@ Het agentschap en de uitbetalingsactoren zijn, elk wat hen betreft, verwerkingsv
 <br>
 Het agentschap is verwerkingsverantwoordelijke voor de persoonsgegevens die ze in het kader van het toezicht en de handhaving verwerkt.<br>
 <br>
-§ 4. Kind en Gezin verwerkt de in de tweede paragraaf vermelde categorieën persoonsgegevens in het kader van zijn opdracht, vermeld in artikel 7/1, 4°, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.<br>
+§ 4. Het agentschap Opgroeien regie verwerkt de categorieën van persoonsgegevens, vermeld in paragraaf 2, in het kader van zijn opdracht, vermeld in artikel 7/1, eerste lid, 4°, van het decreet van 30 april 2004.<br>
 <br>
-Kind en Gezin verwerkt identificatiegegevens met het oog op het beheren van het kadaster van toelagen in het kader van het gezinsbeleid, vermeld in artikel 7/1, 5°, van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.<br>
+Het agentschap Opgroeien regie verwerkt identificatiegegevens met het oog op het beheer van het kadaster van toelagen in het kader van het gezinsbeleid, vermeld in artikel 7/1, eerste lid, 5°, van het decreet van 30 april 2004.<br>
 <br>
-Kind en Gezin is de verwerkingsverantwoordelijke voor bovenstaande verwerkingen.<br>
+Het agentschap Opgroeien regie is de verwerkingsverantwoordelijke voor de verwerkingen, vermeld in het eerste en tweede lid.<br>
 <br>
 § 5. De geschillencommissie verwerkt de in de tweede paragraaf vermelde categorieën persoonsgegevens met het oog op de behandeling van de beroepen die bij haar worden ingesteld overeenkomstig artikel 104 van dit decreet.<br>
 <br>
@@ -167,9 +169,9 @@ Kind en Gezin is de verwerkingsverantwoordelijke voor de verwerking van persoons
 <br>
 § 9. Informatiegegevens verkregen in het kader van de toepassing van dit decreet en van het decreet van 7 juli 2017, waaronder ook persoonsgegevens als vermeld in paragraaf 2, verkregen bij een authentieke bron, en toegevoegd aan het elektronisch dossier, hebben bewijskracht tot bewijs van het tegendeel. De Vlaamse Regering bepaalt de voorwaarden en de nadere regels voor de bewaring van die informatiegegevens opdat hun bewijskracht naar herkomst en datum vaststaat.<br>
 <br>
-§ 10. Elektronische formulieren, ter beschikking gesteld door het agentschap of Kind en Gezin in het kader van de toepassing van dit decreet en van het decreet van 7 juli 2017, alsook de weergave ervan op een leesbare drager, hebben dezelfde bewijswaarde als papieren formulieren met dezelfde titel, op voorwaarde dat ze ingevuld, gevalideerd en bezorgd worden overeenkomstig de voorwaarden die de Vlaamse Regering bepaalt.<br>
+§ 10. Elektronische formulieren, ter beschikking gesteld door het agentschap of&nbsp;het agentschap Opgroeien regie in het kader van de toepassing van dit decreet en van het decreet van 7 juli 2017, alsook de weergave ervan op een leesbare drager, hebben dezelfde bewijswaarde als papieren formulieren met dezelfde titel, op voorwaarde dat ze ingevuld, gevalideerd en bezorgd worden overeenkomstig de voorwaarden die de Vlaamse Regering bepaalt.<br>
 <br>
-Fotografische of elektronische afschriften van documenten, bewaard door de uitbetalingsactoren, door het agentschap, door Kind en Gezin of door de geschillencommissie, hebben, behoudens bewijs van het tegendeel, dezelfde bewijswaarde als de originele documenten, indien zij door deze instanties of onder hun controle werden verwerkt.<br>
+Fotografische of elektronische afschriften van documenten, bewaard door de uitbetalingsactoren, door het agentschap, door&nbsp;het agentschap Opgroeien regie of door de geschillencommissie, hebben, behoudens bewijs van het tegendeel, dezelfde bewijswaarde als de originele documenten, indien zij door deze instanties of onder hun controle werden verwerkt.<br>
 <br>
 § 11. De persoonsgegevens, vermeld in de tweede paragraaf, worden door de uitbetalingsactoren bewaard tot vijf jaar na de afsluiting van het gezinsdossier.<br>
 <br>
@@ -299,7 +301,7 @@ De Vlaamse Regering kan de nadere voorwaarden bepalen waaronder de toeslag, verm
 <br>
 Als de toekenning van de toeslag, vermeld in het eerste lid, het gevolg is van een weigering van behandeling, wordt de toeslag niet toegekend. De Vlaamse Regering kan ook bepalen door wie en volgens welke regels de weigering van behandeling wordt vastgesteld.<br>
 <br>
-§ 2. Kind en Gezin neemt de kosten van de medische onderzoeken die uitgevoerd zijn met toepassing van paragraaf 1, alsook de daaraan verbonden administratiekosten ten laste.
+§ 2.&nbsp;Het agentschap Opgroeien regie neemt de kosten van de medische onderzoeken die uitgevoerd zijn met toepassing van paragraaf 1, alsook de daaraan verbonden administratiekosten ten laste.
 
 ## HOOFDSTUK 3. Pleegzorgtoeslag
 
@@ -435,7 +437,7 @@ De Vlaamse Regering kan algemene vrijstellingen van het eerste lid, 1°, bepalen
 
 Een kinderopvangtoeslag van 3,17 euro per kinderopvangdag wordt toegekend aan een rechthebbend kind als vermeld in artikel 51.<br>
 <br>
-De organisatoren, vermeld in artikel 51, eerste lid, 3°, bezorgen, met het oog op de berekening van de kinderopvangtoeslagen, de nodige gegevens aan Kind en Gezin.<br>
+De organisatoren, vermeld in artikel 51, eerste lid, 3°, bezorgen, met het oog op de berekening van de kinderopvangtoeslagen, de nodige gegevens aan het agentschap Opgroeien regie.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels met betrekking tot de toeslag, vermeld in het eerste lid, inclusief voor welk dagdeel van een kinderopvangdag een kinderopvangtoeslag wordt toegekend. De Vlaamse Regering bepaalt ook de nadere regels van de gegevensverzameling en de gegevensoverdracht door de organisatoren, vermeld in het tweede lid.
 
@@ -467,7 +469,7 @@ Een kleutertoeslag van 130 euro wordt toegekend aan een rechthebbende leerling a
 
 ### ART 56.
 
-§ 1. Om het recht op een kleutertoeslag als vermeld in artikel 54 en 55, vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan Kind en Gezin:<br>
+§ 1. Om het recht op een kleutertoeslag als vermeld in artikel 54 en 55, vast te stellen, meldt het Vlaams Ministerie van Onderwijs en Vorming aan het agentschap Opgroeien regie:<br>
 1° welke leerlingen zijn ingeschreven in een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling voor kleuteronderwijs;<br>
 2° de datum van de inschrijving;<br>
 3° welke leerlingen zijn ingeschreven op de laatste schooldag van juni;<br>
@@ -1009,7 +1011,7 @@ De Vlaamse Regering kan, voor de toepassing van artikel 101, het niet-afleggen d
 
 § 1. Onverschuldigd betaalde toelagen in het kader van het gezinsbeleid worden teruggevorderd, behalve in de gevallen waarin een dergelijke terugvordering wordt uitgesloten door dit decreet, door inhoudingen, verricht door de uitbetalingsactor, overeenkomstig het bepaalde in artikel 1410, § 4, van het Gerechtelijk Wetboek, op nog te betalen toelagen in het kader van het gezinsbeleid.<br>
 <br>
-Als de toelage niet teruggevorderd kan worden door middel van inhoudingen, als de betrokkene niet reageert op minimaal twee aanmaningen van de uitbetalingsactor en als hij het afbetalingsplan dat in voorkomend geval is overeengekomen met de uitbetalingsactor, niet langer uitvoert, vordert de Vlaamse Belastingdienst de onverschuldigd betaalde toelagen in het kader van het gezinsbeleid terug. De uitbetalingsactor bezorgt de gegevens van de personen bij wie de ten onrechte betaalde toelagen in het kader van het gezinsbeleid moeten worden ingevorderd, via Kind en Gezin, aan de Vlaamse Belastingdienst.<br>
+Als de toelage niet teruggevorderd kan worden door middel van inhoudingen, als de betrokkene niet reageert op minimaal twee aanmaningen van de uitbetalingsactor en als hij het afbetalingsplan dat in voorkomend geval is overeengekomen met de uitbetalingsactor, niet langer uitvoert, vordert de Vlaamse Belastingdienst de onverschuldigd betaalde toelagen in het kader van het gezinsbeleid terug. De uitbetalingsactor bezorgt de gegevens van de personen bij wie de ten onrechte betaalde toelagen in het kader van het gezinsbeleid moeten worden ingevorderd, via het agentschap Opgroeien regie, aan de Vlaamse Belastingdienst.<br>
 <br>
 § 2. De uitbetalingsactor kan binnen de voorwaarden, bepaald door de Vlaamse Regering, afzien van de terugvordering van het onverschuldigd betaalde bedrag:<br>
 1° in bijzondere, gemotiveerde gevallen of in bepaalde categorieën van gevallen, op voorwaarde dat de schuldenaar te goeder trouw is;<br>
@@ -1031,7 +1033,7 @@ Als de toelage niet teruggevorderd kan worden door middel van inhoudingen, als d
 
 ### ART 104.
 
-Bij Kind en Gezin wordt een geschillencommissie opgericht.<br>
+Bij&nbsp;het agentschap Opgroeien regie wordt een geschillencommissie opgericht.<br>
 <br>
 Tegen de beslissing van de uitbetalingsactor over de toelagen in het kader van het gezinsbeleid of tegen het uitblijven ervan na afloop van de termijn waarin hij op basis van dit decreet een beslissing moet nemen, kan alleen beroep worden ingesteld bij de geschillencommissie.<br>
 <br>
@@ -1043,13 +1045,13 @@ Bij een geschil over de aanwijzing van de begunstigden wordt de vordering, op st
 
 § 1. De geschillencommissie bestaat uit een voorzitter en twee bijkomende leden. Voor elk van hen is er een plaatsvervanger. De leden worden benoemd door de minister die het beleidsdomein Welzijn, Volksgezondheid en Gezin onder zijn bevoegdheden heeft voor een hernieuwbare periode van vier jaar. De benoeming waarbij een lid vervangen wordt, neemt een einde als de oorspronkelijke benoeming een einde neemt.<br>
 <br>
-§ 2. Het eerste bijkomende lid en zijn plaatsvervanger worden voorgedragen door Kind en Gezin. Elk van de uitbetalingsactoren draagt een tweede bijkomend lid en zijn plaatsvervanger voor. De tweede bijkomende leden, of in voorkomend geval hun plaatsvervanger, nemen bij beurtrol zitting in de geschillencommissie.<br>
+§ 2. Het eerste bijkomende lid en zijn plaatsvervanger worden voorgedragen door het agentschap Opgroeien regie. Elk van de uitbetalingsactoren draagt een tweede bijkomend lid en zijn plaatsvervanger voor. De tweede bijkomende leden, of in voorkomend geval hun plaatsvervanger, nemen bij beurtrol zitting in de geschillencommissie.<br>
 <br>
 § 3. De Vlaamse Regering kan binnen de geschillencommissie op dezelfde manier bijkomende kamers oprichten.<br>
 <br>
 § 4. De leden van de geschillencommissie worden door de minister die het beleidsdomein Welzijn, Volksgezondheid en Gezin onder zijn bevoegdheden heeft, ontslagen, op eigen verzoek of om ernstige redenen. De Vlaamse Regering regelt de wijze van beëindiging van het mandaat van de leden.<br>
 <br>
-§ 5. De geschillencommissie wordt bijgestaan door een secretaris. Kind en Gezin neemt het secretariaat van de geschillencommissie waar.<br>
+§ 5. De geschillencommissie wordt bijgestaan door een secretaris. Het agentschap Opgroeien regie neemt het secretariaat van de geschillencommissie waar.<br>
 <br>
 De voorzitter en de secretaris beschikken over het diploma van doctor, licentiaat of master in de rechten.<br>
 <br>
@@ -1141,9 +1143,9 @@ De beslissingen van de geschillencommissie worden geanonimiseerd en bekendgemaak
 
 § 1. Een partij bij een geschil waarover de geschillencommissie heeft geoordeeld, kan, op straffe van verval, binnen drie maanden na de kennisgeving van de beslissing van de geschillencommissie beroep instellen bij de bevoegde rechtbank.<br>
 <br>
-Kind en Gezin wordt aangewezen als verwerende partij.<br>
+Het agentschap Opgroeien regie&nbsp;wordt aangewezen als verwerende partij.<br>
 <br>
-§ 2. Kind en Gezin geeft de instructie aan de uitbetalingsactor om binnen tien werkdagen de beslissing van de bevoegde rechtbank uit te voeren. De Vlaamse Regering kan de nadere regels bepalen waaraan die instructie moet voldoen.<br>
+§ 2. Het agentschap Opgroeien regie geeft de instructie aan de uitbetalingsactor om binnen tien werkdagen de beslissing van de bevoegde rechtbank uit te voeren. De Vlaamse Regering kan de nadere regels bepalen waaraan die instructie moet voldoen.<br>
 <br>
 Een onverschuldigd betaalde toelage wordt teruggevorderd overeenkomstig artikel 103, § 1.
 
@@ -1187,7 +1189,7 @@ In afwijking van het eerste lid, zijn de bepalingen van hoofdstuk 2, afdeling 3,
 1° de vergunningsnormen, vermeld in artikel 27 en 28 van het decreet van 7 juli 2017;<br>
 2° de subsidiëringsnormen, vermeld in hoofdstuk 6/1 van het decreet van 7 juli 2017.<br>
 <br>
-De zorginspecteurs brengen verslag uit aan Kind en Gezin over het door hen uitgeoefende toezicht.<br>
+De zorginspecteurs brengen verslag uit aan&nbsp;het agentschap Opgroeien regie over het door hen uitgeoefende toezicht.<br>
 <br>
 § 2. De gezinsinspecteurs zijn bevoegd om, overeenkomstig artikel 23 van het decreet van 7 juli 2017, toezicht uit te oefenen op de naleving van de regelgeving, bepaald bij of krachtens dit decreet, die geldt voor de burgers.<br>
 <br>
@@ -1197,11 +1199,11 @@ De gezinsinspecteurs brengen verslag uit aan het agentschap en aan de betrokken 
 
 § 1. Met behoud van de toepassing van artikel 10 van het decreet van 19 januari 2018 geeft elke uitbetalingsactor en elke begunstigde op verzoek van een toezichthouder de nodige inlichtingen en stelt de nodige documenten en gegevens ter beschikking voor het toezicht op de naleving van dit decreet en de uitvoeringsbesluiten ervan en op de naleving van het decreet van 7 juli 2017 en de uitvoeringsbesluiten ervan.<br>
 <br>
-§ 2. De Vlaamse Regering kan nadere regels bepalen voor de gegevens die de private uitbetalingsactoren en de gezinnen ter beschikking moeten stellen van de toezichthouders, van Kind en Gezin en van het agentschap, en voor de vorm van die gegevens.
+§ 2. De Vlaamse Regering kan nadere regels bepalen voor de gegevens die de private uitbetalingsactoren en de gezinnen ter beschikking moeten stellen van de toezichthouders, van&nbsp;het agentschap Opgroeien regie en van het agentschap, en voor de vorm van die gegevens.
 
 ### ART 123.
 
-Met behoud van de bevoegdheden van de toezichthouders, vermeld in artikel 3 van het decreet van 19 januari 2018, kunnen Kind en Gezin en het agentschap toezicht op stukken uitoefenen.
+Met behoud van de bevoegdheden van de toezichthouders, vermeld in artikel 3 van het decreet van 19 januari 2018, kunnen&nbsp;het agentschap Opgroeien regie en het agentschap toezicht op stukken uitoefenen.
 
 ## HOOFDSTUK 2. Bijzondere bepalingen over het toezicht door de gezinsinspecteurs
 
@@ -1581,7 +1583,7 @@ De Vlaamse Regering kan de nadere regels bepalen voor het opleggen en het betale
 
 ### ART 172.
 
-§ 1. Als wordt vastgesteld dat een private uitbetalingsactor een inbreuk pleegt op de vergunningsnormen, vermeld in hoofdstuk 6 van het decreet van 7 juli 2017, wordt de private uitbetalingsactor door Kind en Gezin schriftelijk aangemaand om binnen een bepaalde termijn de nodige maatregelen te nemen om de inbreuk te beëindigen en een herhaling ervan te voorkomen. De aanmaning bepaalt de termijn en kan de te nemen maatregelen preciseren.<br>
+§ 1. Als wordt vastgesteld dat een private uitbetalingsactor een inbreuk pleegt op de vergunningsnormen, vermeld in hoofdstuk 6 van het decreet van 7 juli 2017, wordt de private uitbetalingsactor door&nbsp;het agentschap Opgroeien regie schriftelijk aangemaand om binnen een bepaalde termijn de nodige maatregelen te nemen om de inbreuk te beëindigen en een herhaling ervan te voorkomen. De aanmaning bepaalt de termijn en kan de te nemen maatregelen preciseren.<br>
 <br>
 § 2. Bij hoogdringendheid of als aangetoond wordt dat de vastgestelde inbreuk niet hersteld kan worden, kan de aanmaning achterwege blijven en kan onmiddellijk een handhavingsmaatregel worden genomen als vermeld in hoofdstuk 2 van deze titel.
 
@@ -1593,7 +1595,7 @@ De Vlaamse Regering kan de nadere regels bepalen voor het opleggen en het betale
 
 § 1. Het agentschap kan de subsidie voor de werkingsmiddelen verminderen of stopzetten als de private uitbetalingsactor een inbreuk begaat op de subsidiëringsnormen, vermeld in hoofdstuk 6/1 van het decreet van 7 juli 2017.<br>
 <br>
-§ 2. Kind en Gezin kan de subsidie voor de uitbetaling van de toelagen in het kader van het gezinsbeleid verminderen of stopzetten als de private uitbetalingsactor een inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbesluiten ervan.<br>
+§ 2. Het agentschap Opgroeien regie kan de subsidie voor de uitbetaling van de toelagen in het kader van het gezinsbeleid verminderen of stopzetten als de private uitbetalingsactor een inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbesluiten ervan.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de vermindering of stopzetting van de subsidies, die minstens de mogelijkheid regelen om tegen de maatregelen een bezwaar in te dienen.
 
@@ -1605,20 +1607,20 @@ De Vlaamse Regering wijst de personeelsleden aan die belast zijn met de terugvor
 
 ### ART 175.
 
-Met inachtneming van artikel 14 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof kunnen Kind en Gezin en het agentschap beslissen om de subsidies waarvoor ze bevoegd zijn, op te schorten.
+Met inachtneming van artikel 14 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof kunnen&nbsp;het agentschap Opgroeien regie en het agentschap beslissen om de subsidies waarvoor ze bevoegd zijn, op te schorten.
 
 ## Afdeling 2. Bestuurlijke maatregelen
 
 ### ART 176.
 
-Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verkregen op basis van onjuiste gegevens, kan Kind en Gezin een of meer van de volgende bestuurlijke maatregelen opleggen:<br>
+Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verkregen op basis van onjuiste gegevens, kan&nbsp;het agentschap Opgroeien regie een of meer van de volgende bestuurlijke maatregelen opleggen:<br>
 1° een verbod om nieuwe begunstigden aan te sluiten;<br>
 2° de opmaak en uitvoering van een herstelplan;<br>
 3° de opheffing van de vergunning.
 
 ### ART 177.
 
-§ 1. Kind en Gezin betekent het voornemen tot het opleggen van een bestuurlijke maatregel aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing minstens het volgende:<br>
+§ 1. Het agentschap Opgroeien regie betekent het voornemen tot het opleggen van een bestuurlijke maatregel aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing minstens het volgende:<br>
 1° de motieven van de voorgenomen beslissing;<br>
 2° de termijn waarin de uitbetalingsactor zijn verweer kan formuleren en de kans krijgt om gehoord te worden;<br>
 3° de termijn waarin de beslissing definitief wordt;<br>
@@ -1626,7 +1628,7 @@ Als de private uitbetalingsactor een inbreuk pleegt of een vergunning heeft verk
 <br>
 De uitbetalingsactor wordt op zijn verzoek gehoord. De uitbetalingsactor mag zich daarbij laten bijstaan of vertegenwoordigen door een raadsman of een andere persoon.<br>
 <br>
-§ 2. Bij hoogdringendheid kan Kind en Gezin onmiddellijk een bestuurlijke maatregel nemen.
+§ 2. Bij hoogdringendheid kan&nbsp;het agentschap Opgroeien regie onmiddellijk een bestuurlijke maatregel nemen.
 
 ### ART 178.
 
@@ -1638,7 +1640,7 @@ De beslissing tot het al dan niet opleggen van een bestuurlijke maatregel wordt 
 
 ### ART 179.
 
-Tegen de opheffing van de vergunning kan de uitbetalingsactor bij Kind en Gezin met een kennisgeving bezwaar aantekenen binnen dertig dagen na de ontvangst van de kennisgeving van de beslissing.<br>
+Tegen de opheffing van de vergunning kan de uitbetalingsactor bij&nbsp;het agentschap Opgroeien regie met een kennisgeving bezwaar aantekenen binnen dertig dagen na de ontvangst van de kennisgeving van de beslissing.<br>
 <br>
 Het bezwaarschrift bevat, op straffe van niet-ontvankelijkheid, de motivering van het bezwaar.<br>
 <br>
@@ -1646,7 +1648,7 @@ De Vlaamse Regering kan nadere regels bepalen voor de ontvankelijkheidsvereisten
 
 ### ART 180.
 
-Kind en Gezin beslist binnen tien dagen na de kennisgeving van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de bezwaarindiener daarvan op de hoogte. Als er niet tijdig een beslissing is genomen, wordt het bezwaar geacht ontvankelijk te zijn.
+Het agentschap Opgroeien regie&nbsp;beslist binnen tien dagen na de kennisgeving van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de bezwaarindiener daarvan op de hoogte. Als er niet tijdig een beslissing is genomen, wordt het bezwaar geacht ontvankelijk te zijn.
 
 ### ART 181.
 
@@ -1662,7 +1664,7 @@ Het bezwaar schorst de uitvoering van de beslissing, tenzij de beslissing bij ho
 
 ### ART 183.
 
-§ 1. Kind en Gezin kan een exclusieve bestuurlijke geldboete van 200 tot 20.000 euro opleggen als de private uitbetalingsactor een andere inbreuk begaat dan de inbreuken, vermeld in artikel 189 en 190, of als hij de vergunningsvoorwaarden, vermeld in het decreet van 7 juli 2017 en de uitvoeringsbesluiten ervan, niet naleeft.<br>
+§ 1. Het agentschap Opgroeien regie kan een exclusieve bestuurlijke geldboete van 200 tot 20.000 euro opleggen als de private uitbetalingsactor een andere inbreuk begaat dan de inbreuken, vermeld in artikel 189 en 190, of als hij de vergunningsvoorwaarden, vermeld in het decreet van 7 juli 2017 en de uitvoeringsbesluiten ervan, niet naleeft.<br>
 <br>
 § 2. De exclusieve bestuurlijke geldboete kan worden opgelegd binnen een termijn van honderdtachtig dagen vanaf de dag van de vaststelling van de inbreuk, op voorwaarde dat de private uitbetalingsactor de kans kreeg om zijn verweer op nuttige wijze mee te delen. De private uitbetalingsactor mag vragen om gehoord te worden en kan zich daarbij laten bijstaan door een raadsman.<br>
 <br>
@@ -1672,15 +1674,15 @@ Als een exclusieve bestuurlijke geldboete wordt opgelegd, vermeldt de beslissing
 
 ### ART 184.
 
-§ 1. Voor de inbreuken, vermeld in artikel 189 en 190, kan Kind en Gezin de uitbetalingsactor die de inbreuk heeft gepleegd, een bestuurlijke geldboete opleggen van 300 tot 30.000 euro.<br>
+§ 1. Voor de inbreuken, vermeld in artikel 189 en 190, kan&nbsp; het agentschap Opgroeien regie&nbsp;de uitbetalingsactor die de inbreuk heeft gepleegd, een bestuurlijke geldboete opleggen van 300 tot 30.000 euro.<br>
 <br>
 § 2. Bij de vaststelling van een inbreuk als vermeld in paragraaf 1, bezorgt de zorginspecteur het proces-verbaal van vaststelling onmiddellijk aan het Openbaar Ministerie bij de rechtbank binnen het rechtsgebied waar de feiten zijn gepleegd. Samen met het proces-verbaal bezorgt de zorginspecteur een schriftelijk verzoek waarin het Openbaar Ministerie wordt gevraagd zich uit te spreken over de al dan niet strafrechtelijke behandeling van de inbreuk. Het Openbaar Ministerie beschikt daarvoor over een termijn van honderdtachtig dagen vanaf de dag waarop het verslag van vaststelling is verzonden.<br>
 <br>
 Een beslissing om de inbreuk strafrechtelijk te behandelen, sluit het opleggen van een bestuurlijke geldboete uit. Een beslissing om de inbreuk niet strafrechtelijk te behandelen en de beslissingstermijn stilzwijgend te laten verstrijken, houdt het verval van de strafvordering in.<br>
 <br>
-§ 3. Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de termijn stilzwijgend laat verstrijken, kan Kind en Gezin de procedure voor het opleggen van een alternatieve bestuurlijke geldboete starten.<br>
+§ 3. Als het Openbaar Ministerie tijdig beslist niet strafrechtelijk te behandelen of als het de termijn stilzwijgend laat verstrijken, kan&nbsp;het agentschap Opgroeien regie de procedure voor het opleggen van een alternatieve bestuurlijke geldboete starten.<br>
 <br>
-Kind en Gezin beschikt over een termijn van honderdtachtig dagen om een bestuurlijke geldboete op te leggen vanaf, al naargelang het geval, de kennisneming van de beslissing, vermeld in paragraaf 2, of het stilzwijgend verstrijken van de termijn, vermeld in dezelfde paragraaf.<br>
+Het agentschap Opgroeien regie&nbsp;beschikt over een termijn van honderdtachtig dagen om een bestuurlijke geldboete op te leggen vanaf, al naargelang het geval, de kennisneming van de beslissing, vermeld in paragraaf 2, of het stilzwijgend verstrijken van de termijn, vermeld in dezelfde paragraaf.<br>
 <br>
 § 4. De kennisgeving van een beboetingsbeslissing aan de beboete uitbetalingsactor vermeldt het bedrag, de wijze waarop en de termijn waarin de boete moet worden betaald, alsook de motivering voor het opleggen van de bestuurlijke geldboete en voor de hoogte van het bedrag. De kennisgeving vermeldt daarnaast de wijze waarop en de termijn waarin tegen de beslissing beroep kan worden ingesteld.
 
@@ -1734,7 +1736,7 @@ Onder gestructureerde criminele vereniging wordt verstaan een vereniging die nie
 
 ### ART 192.
 
-§ 1. Aan de door de Vlaamse Gemeenschap vergunde opvangplaats, waarbij de organisator niet werkt met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters, kan Kind en Gezin een bestuurlijke geldboete van 250 tot 1500 euro opleggen als de organisator de verplichting, vermeld in artikel 52, tweede lid, niet naleeft.<br>
+§ 1. Aan de door de Vlaamse Gemeenschap vergunde opvangplaats, waarbij de organisator niet werkt met het systeem inkomenstarief, vermeld in artikel 27 tot en met 36/1 van het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters, kan&nbsp;het agentschap Opgroeien regie een bestuurlijke geldboete van 250 tot 1500 euro opleggen als de organisator de verplichting, vermeld in artikel 52, tweede lid, niet naleeft.<br>
 <br>
 Als er sprake is van herhaling, bedraagt de geldboete minstens 500 euro en hoogstens 3.000 euro.<br>
 <br>
