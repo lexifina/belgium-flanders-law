@@ -55,7 +55,7 @@ Naast de bij of door de wet verplichte vermeldingen omvatten de regelen inzake d
 
 ### ART. 9.
 
-§ 1. Een Stuurgroep zal door de Vlaamse Regering worden opgericht met als   opdracht overleg te plegen over de voortgang van die projecten, in het kader van   de in artikel 5 toegewezen taken, waar het Vlaamse Gewest een hefboomfunctie te   vervullen heeft.<BR><BR>§ 2. De stuurgroep is samengesteld uit het hoofd van   elke Provinciale Ontwikkelingsmaatschappij en telkens één vertegenwoordiger van   de Vlaamse Administratie bevoegd voor Economie, Milieu, Ruimtelijke ordening en   Mobiliteit alsook een vertegenwoordiger van het Agentschap Innoveren en   Ondernemen.<BR><BR>De stuurgroep heeft steeds de mogelijkheid om bijkomende   deskundigen op te roepen indien in de voortgang van de projecten dit   noodzakelijk wordt geacht.<BR><BR>§ 3. Naast de toegewezen specifieke opdrachten   aan de Provinciale Ontwikkelingsmaatschappijen bedoeld onder artikel 5, § 3, zal   overleg worden gepleegd rond de punten die door de Provinciale   Ontwikkelingsmaatschappijen op de agenda worden geplaatst.<BR><BR>§ 4. De   Stuurgroep zal driemaandelijks vergaderen en na elke vergadering verslag   uitbrengen aan de Vlaamse Regering.
+...
 
 ## HOOFDSTUK V RECHTSOPVOLGING EN FINANCIËLE MIDDELEN
 
