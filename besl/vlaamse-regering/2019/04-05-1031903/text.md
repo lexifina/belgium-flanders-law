@@ -34,7 +34,7 @@ Besluit :
 
 In dit besluit wordt verstaan onder:<br>
 1° administrateur-generaal: het personeelslid dat belast is met de leiding van de administratie en van het fonds;<br>
-2° administratie: het intern verzelfstandigd agentschap Jongerenwelzijn, vermeld in artikel 59 van het decreet van 7 maart 2008;<br>
+2° administratie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° afdeling: een gedeelte van een voorziening of van een organisatie voor bijzondere jeugdzorg dat qua vestigingsplaats, organisatie, materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte van de voorziening of van de organisatie voor bijzondere jeugdzorg;<br>
 4° bemiddeling: de bemiddeling, vermeld in artikel 2, 1°, van het decreet van 15 februari 2019;<br>
 5° betrokken partij: de minderjarige, de ouders, en in voorkomend geval zijn opvoedingsverantwoordelijken, betrokken personen uit zijn leefomgeving en de betrokken jeugdhulpaanbieders;<br>
