@@ -168,7 +168,7 @@ De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de duu
 <br>
 § 3. De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden van de partnerorganisaties.<br>
 <br>
-§ 4. Paragrafen 1 tot 3 zijn niet van toepassing op het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, dat van rechtswege erkend is als partnerorganisatie.<br>
+§ 4. Paragrafen 1 tot 3 zijn niet van toepassing op het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat van rechtswege erkend is als partnerorganisatie.<br>
 <br>
 § 5. Organisaties met een erkenning als partnerorganisatie worden niet uitgesloten van een erkenning en/of subsidiëring als organisatie met terreinwerking.
 
@@ -514,7 +514,7 @@ De Vlaamse regering kan, ter uitvoering van artikel 6, initiatieven nemen die zi
 
 ### ART. 75.
 
-De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin en het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, die betrekking hebben op de preventieve gezondheidszorg moeten in overeenstemming zijn met de bepalingen van dit decreet en zijn uitvoeringsbesluiten.
+De maatregelen, genomen ter uitvoering van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid&nbsp;Opgroeien regie en het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding, die betrekking hebben op de preventieve gezondheidszorg moeten in overeenstemming zijn met de bepalingen van dit decreet en zijn uitvoeringsbesluiten.
 
 ## [TITEL IXbis Erkenning van afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, van departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en van gemeenschappelijke interne diensten voor preventie en bescherming op het werk (ing. decr. 20 maart 2009, art. 22)]
 
