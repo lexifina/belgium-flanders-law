@@ -92,7 +92,23 @@ Er wordt in een behoorlijke wijze voorzien in de lijkbezorging van behoeftigen, 
 
 ### ART. 15bis.
 
-Indien het overlijden plaats heeft in het Vlaamse Gewest, wordt, voor de begraving van een stoffelijk overschot, een kosteloze toestemming verleend door de ambtenaar van de burgerlijke stand van de gemeente waar het overlijden werd vastgesteld, of door de procureur des Konings van het arrondissement van de plaats waar zich ofwel de begraafplaats ofwel de hoofdverblijfplaats van de overledene bevindt, indien het overlijden heeft plaatsgehad in het buitenland.<br /><br />Voor de begraving van een stoffelijk overschot van een persoon die overleden is in het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest wordt met de toestemming tot begraving gelijkgesteld de machtiging die daartoe wordt verleend door de overheid die in dat gewest bevoegd is voor het verlenen van een toestemming tot begraving.
+§ 1. Als het overlijden plaatsvindt in het Vlaamse Gewest, wordt voor de begraving van het stoffelijk overschot een kosteloze toestemming verleend door de ambtenaar van de burgerlijke stand, of door zijn gemachtigde beambten, van de gemeente waar het overlijden is vastgesteld op basis van een overlijdensattest.<br>
+<br>
+Als voor de begraving van een stoffelijk overschot van een persoon die overleden is in een gemeente van het tweetalige gebied Brussel-Hoofdstad, van het Franse taalgebied, of van het Duitse taalgebied een machtiging vereist is, wordt met de toestemming tot begraving gelijkgesteld de machtiging die daartoe wordt verleend door de overheid die in dat taalgebied bevoegd is voor het verlenen van een toestemming tot begraving.<br>
+<br>
+Als het overlijden plaatsvindt in het buitenland, wordt de toestemming, vermeld in het eerste lid, verleend door de procureur des Konings van het arrondissement van de plaats waar zich ofwel de begraafplaats ofwel de hoofdverblijfplaats van de overledene bevindt.<br>
+<br>
+§ 2. Iedere aanvraag tot toestemming wordt ondertekend door degene die bevoegd is om in de lijkbezorging te voorzien of door zijn gemachtigde.<br>
+<br>
+De ambtenaar van de burgerlijke stand moet de toestemming weigeren als de overledene in een akte, die voldoet aan de voorwaarden inzake bekwaamheid en gesteld is in de vorm van de akten van uiterste wil, zijn voorkeur voor een andere wijze van lijkbezorging te kennen heeft gegeven, of als hij kennis heeft gekregen van het verzoek, vermeld in paragraaf 3.<br>
+<br>
+Die toestemming mag niet verleend worden voor een termijn van 24 uur verstreken is, die ingaat met de ontvangst van de aanvraag tot toestemming, behalve in de gevallen die door de politieverordeningen zijn bepaald.<br>
+<br>
+Als er tekenen of aanwijzingen zijn van een gewelddadige dood of andere omstandigheden die dat laten vermoeden, kan de toestemming tot begraving slechts worden verleend nadat de procureur des Konings heeft laten weten dat hij er zich niet tegen verzet.<br>
+<br>
+§ 3. Iedere persoon die bij het verlenen of de weigering van de toestemming belang heeft, kan daartoe bij de voorzitter van de rechtbank van eerste aanleg een verzoek indienen.<br>
+<br>
+De bevoegde voorzitter is die van de plaats waar de aanvraag om toestemming werd ingediend. Van het verzoek wordt kennis gegeven aan de partijen, die bij het verlenen of de weigering van de toestemming belang hebben, en aan de ambtenaar van de burgerlijke stand, bij wie de aanvraag tot toestemming werd ingediend.
 
 ### ART. 16.
 
@@ -110,9 +126,13 @@ Een niet-geconcedeerd graf wordt minstens tien jaar bewaard.<br /><br />Dergelij
 
 ### ART. 19.
 
-§ 1. Voor crematie is een toestemming vereist die wordt verleend door de ambtenaar van de burgerlijke stand, of door diens gemachtigde beambten van het gemeentebestuur,&nbsp;van de gemeente waar, het overlijden werd vastgesteld, indien dat overlijden in het Vlaamse Gewest heeft plaatsgehad, of door de procureur des Konings van het arrondissement van de plaats waar zich ofwel het crematorium ofwel de hoofdverblijfplaats van de overledene bevindt, indien het overlijden heeft plaatsgehad in het buitenland.<br>
-<br>
-Voor de crematie van een persoon die overleden het Brusselse Hoofdstedelijke Gewest of het Waalse Gewest wordt met de toestemming tot crematie gelijkgesteld de machtiging die daartoe wordt verleend door de overheid die in dat gewest bevoegd is voor het verlenen van een toestemming tot crematie.<br>
+§ 1. Artikel 15bis, met uitzondering van paragraaf 2, vierde lid, is van overeenkomstige toepassing op de toestemming tot crematie, met dien verstande dat:<br>
+1° het woord "begraving" gelezen wordt als het woord "crematie";<br>
+2° de woorden "ofwel de begraafplaats ofwel de hoofdverblijfplaats van de overledene" gelezen worden als de woorden "ofwel de begraafplaats ofwel het crematorium ofwel de hoofdverblijfplaats van de overledene";<br>
+3° bij de aanvraag tot toestemming tot crematie een attest moet worden gevoegd waarin de behandelende geneesheer of de geneesheer die het overlijden heeft vastgesteld, vermeldt of het overlijden te wijten is aan een natuurlijke of gewelddadige of verdachte of niet vast te stellen oorzaak.<br>
+Als de aanvraag tot toestemming tot crematie het lijk van een in een gemeente van het Vlaamse Gewest overleden persoon betreft, en de voormelde geneesheer heeft bevestigd dat het om een natuurlijk overlijden gaat, dan moet bovendien het verslag worden bijgevoegd van een beëdigd geneesheer uit de eigen gemeente of een andere gemeente van het Vlaamse Gewest die door de ambtenaar van de burgerlijke stand of door diens gemachtigde beambten van het gemeentebestuur is aangesteld om de doodsoorzaken na te gaan. In dat verslag wordt vermeld of het overlijden te wijten is aan een natuurlijke of gewelddadige of verdachte of niet vast te stellen oorzaak.<br>
+Het ereloon en alle daaraan verbonden kosten van de door de ambtenaar van de burgerlijke stand of door diens gemachtigde beambten van het gemeentebestuur aangestelde geneesheer vallen ten laste van het gemeentebestuur van de gemeente van het Vlaamse Gewest waar de overledene in de bevolkingsregisters, het vreemdelingen- of wachtregister is ingeschreven;<br>
+4° de ambtenaar van de burgerlijke stand het dossier aan de procureur des Konings van het arrondissement moet zenden wanneer omstandigheden het vermoeden van een gewelddadige of verdachte of niet vast te stellen oorzaak van overlijden wettigen of wanneer de geneesheer in een van de voorgeschreven documenten, vermeld in punt 3°, niet heeft kunnen bevestigen dat er geen tekens of aanwijzingen van een gewelddadige of verdachte of niet vast te stellen oorzaak van overlijden zijn. In dat geval kan toestemming tot crematie eerst worden verleend nadat de procureur des Konings aan de ambtenaar van de burgerlijke stand heeft laten weten dat hij er zich niet tegen verzet.<br>
 <br>
 § 2. Voor crematie na opgraving is de door artikel 4 bedoelde toestemming tot opgraving vereist.<br>
 <br>
@@ -126,33 +146,15 @@ De toestemming tot crematie wordt geweigerd of toegestaan door de procureur des 
 
 ### ART. 20.
 
-§ 1. Iedere aanvraag tot toestemming wordt ondertekend door degene die bevoegd is om in de lijkbezorging te voorzien of door zijn gemachtigde.<br>
-<br>
-§ 2. De toestemming moet door de ambtenaar van de burgerlijke stand, door diens gemachtigde beambten van het gemeentebestuur, of door de procureur des Konings geweigerd worden als de overledene in een akte, die voldoet aan de voorwaarden inzake bekwaamheid en gesteld is in de vorm van de akten van uiterste wil, zijn voorkeur voor een andere wijze van lijkbezorging te kennen heeft gegeven, of als hij kennis heeft gekregen van het verzoek bedoeld in § 4 van dit artikel.<br>
-<br>
-§ 3. Onverminderd het bepaalde in § 2 van artikel 21, mag de toestemming niet verleend worden voor het verstrijken van een termijn van vierentwintig uur, die ingaat met de ontvangst van de aanvraag tot toestemming.<br>
-<br>
-§ 4. Iedere persoon die bij het verlenen of de weigering van de toestemming belang heeft, kan daartoe bij de voorzitter van de rechtbank van eerste aanleg een verzoek indienen.<br>
-<br>
-De bevoegde voorzitter is die van de plaats waar de aanvraag om toestemming werd ingediend. Van het verzoek wordt kennis gegeven aan de partijen, die bij het verlenen of de weigering van de toestemming belang hebben, alsmede aan de ambtenaar van de burgerlijke stand of aan de procureur des Konings, bij wie de aanvraag tot toestemming werd ingediend.<br>
-<br>
-Het verzoek wordt behandeld en beoordeeld als in kort geding, het openbaar ministerie gehoord.
+...
 
 ### ART. 21.
 
-§ 1. Bij de aanvraag tot toestemming moet een attest worden gevoegd waarin de behandelende geneesheer of de geneesheer die het overlijden heeft vastgesteld, vermeldt of het overlijden te wijten is aan een natuurlijke of gewelddadige of verdachte of niet vast te stellen oorzaak.<br>
-<br>
-Als de aanvraag het lijk van een in een gemeente van het Vlaamse Gewest overleden persoon betreft, en de in het bovenstaande lid bedoelde geneesheer heeft bevestigd dat het om een natuurlijk overlijden gaat, dan moet bovendien het verslag worden bijgevoegd van een beëdigd geneesheer uit de eigen gemeente of een andere gemeente van het Vlaamse Gewest, die door de ambtenaar van de burgerlijke stand, of door diens gemachtigde beambten van het gemeentebestuur, is aangesteld om de doodsoorzaken na te gaan. In dat verslag wordt vermeld of het overlijden te wijten is aan een natuurlijke of gewelddadige of verdachte of niet vast te stellen oorzaak.<br>
-<br>
-Het ereloon en alle daaraan verbonden kosten van de door de ambtenaar van de burgerlijke stand, of door diens gemachtigde beambten van het gemeentebestuur, aangestelde geneesheer vallen ten laste van het gemeentebestuur van de gemeente van het Vlaamse Gewest waar de overledene in de bevolkingsregisters, het vreemdelingen- of wachtregister is ingeschreven.<br>
-<br>
-§ 2. De ambtenaar van de burgerlijke stand moet het dossier aan de procureur des Konings van het arrondissement zenden wanneer omstandigheden het vermoeden van een gewelddadige of verdachte of niet vast te stellen oorzaak van overlijden wettigen of wanneer de geneesheer in een van de onder § 1 voorgeschreven documenten, niet heeft kunnen bevestigen dat er geen tekens of aanwijzingen van een gewelddadige of niet vast te stellen oorzaak van overlijden zijn.<br>
-<br>
-In dat geval kan toestemming tot crematie eerst worden verleend nadat de procureur des Konings aan de ambtenaar van de burgerlijke stand heeft laten weten dat hij er zich niet tegen verzet.
+...
 
 ### ART. 22.
 
-De procureur des Konings handelt zoals voorgeschreven is in artikel 81 van het Burgerlijk Wetboek.<br /><br />De persoon die bevoegd is om in de lijkbezorging te voorzien, kan de lijkschouwing steeds doen bijwonen door een geneesheer van haar of zijn keuze.
+De persoon die bevoegd is om in de lijkbezorging te voorzien, kan de lijkschouwing steeds doen bijwonen door een geneesheer van haar of zijn keuze.
 
 ### ART. 23.
 
