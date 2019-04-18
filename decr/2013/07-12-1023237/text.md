@@ -10,8 +10,8 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 <p>§ 1. In dit decreet wordt verstaan onder :<br>
 1° ...;<br>
-2° agentschap Jongeren welzijn : het intern verzelfstandigd agentschap, vermeld in artikel 59 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
-3° agentschap Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+2° agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+3° agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 3° /1 algemene verordening gegevensbescherming : de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming);<br>
 4° ambulant : de hulp wordt in de voorziening aangeboden, maar de cliënt overnacht niet in de voorziening;<br>
 5° brede instap : jeugdhulpaanbieders die onder de toepassing vallen van minstens de regelgeving, vermeld in artikel 3, § 1, eerste lid, 2°, 4° en 7°, en die modules aanbieden die door de Vlaamse Regering zijn aangewezen als behorend tot de brede instap;<br>
@@ -20,7 +20,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 8° context : het sociale netwerk rond de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken, dat in functie van de hulpvraag van die personen van betekenis is;<br>
 9° crisissituatie : een acuut beleefde noodsituatie waarin onmiddellijk hulp moet worden geboden;<br>
 10° crisisjeugdhulpverlening : jeugdhulpverlening die bestaat uit een onmiddellijke en aangepaste actie in geval van een crisissituatie;<br>
-11° Departement Welzijn, Volksgezondheid en Gezin : het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein;<br>
+11° ...<br>
 12° diagnostiek : het proces van de verzameling en ordening van de beschikbare relevante gegevens vanuit de hulpvraag;<br>
 13° dienstverlener : hulp-, zorg- en dienstverleners die professioneel betrokken zijn bij het welzijn van minderjarigen;<br>
 14° erkende voorziening van de bijzondere jeugdbijstand : een voorziening die erkend is met toepassing van hoofdstuk 14/1;<br>
@@ -93,7 +93,7 @@ De vertrouwenspersoon die de ouder en, in voorkomend geval, de opvoedingsverantw
 1° het besluit van de Vlaamse Regering van 5 april 2019 betreffende de erkenningsvoorwaarden en de subsidienormen voor voorzieningen in de jeugdhulp;<br>
 2° het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br>
 3° het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
-4° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+4° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 5° het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
 6° artikel 40, § 2, 1°, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
 7° het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
@@ -360,7 +360,7 @@ Na een kennisgeving door het openbaar ministerie, door de minderjarige,   zijn o
 
 ### ART. 42.
 
-<p>§ 1. Met het oog op hulp- en zorgverlening bij kindermishandeling zijn er zes vertrouwenscentra kindermishandeling actief in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad, overeenkomstig artikel 8/1 van hoofdstuk III van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.</p>
+<p>§ 1. Met het oog op hulp- en zorgverlening bij kindermishandeling zijn er zes vertrouwenscentra kindermishandeling actief in het Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.</p>
 
 <p>De vertrouwenscentra kindermishandeling vervullen minstens de volgende opdrachten :<br>
 1° het onderzoeken van meldingen van kindermishandeling en vermoedens van kindermishandeling op verzoek van om het even welke persoon of instelling;<br>
@@ -622,7 +622,7 @@ De Vlaamse Regering bakent de regio's integrale jeugdhulp   af.
 
 <p>Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering middelen toekennen voor de implementatie van de doelstellingen, vermeld in artikel 8. De Vlaamse Regering bepaalt de voorwaarden om in aanmerking te komen voor subsidiëring, het subsidiebedrag en de procedure voor de subsidiëring. Ze bepaalt op welke wijze het gebruik van de subsidie verantwoord wordt.</p>
 
-<p>Voor de dossiers, vermeld in artikel 26, § 1, eerste lid, 6° of voor dossiers waarin de continuïteit van het lopende niet rechtstreeks toegankelijke hulpverleningstraject ernstig bedreigd is, kan het team Jeugdhulpregie of het hoofd van het agentschap Jongerenwelzijn subsidies toekennen voor een aanvullend geïndividualiseerd hulpaanbod aan de minderjarige volgens de regels die de Vlaamse Regering bepaalt. Die subsidies kunnen, volgens de regels die de Vlaamse Regering bepaalt, ook worden toegekend aan een of meer organisaties met het kwaliteitslabel "intersectoraal zorgnetwerk", die worden aangewezen na een oproep en die meerdere minderjarigen kunnen begeleiden.</p>
+<p>Voor de dossiers, vermeld in artikel 26, § 1, eerste lid, 6° of voor dossiers waarin de continuïteit van het lopende niet rechtstreeks toegankelijke hulpverleningstraject ernstig bedreigd is, kan het team Jeugdhulpregie of het hoofd van het agentschap Opgroeien&nbsp;subsidies toekennen voor een aanvullend geïndividualiseerd hulpaanbod aan de minderjarige volgens de regels die de Vlaamse Regering bepaalt. Die subsidies kunnen, volgens de regels die de Vlaamse Regering bepaalt, ook worden toegekend aan een of meer organisaties met het kwaliteitslabel "intersectoraal zorgnetwerk", die worden aangewezen na een oproep en die meerdere minderjarigen kunnen begeleiden.</p>
 
 ### ART. 68.
 
@@ -640,11 +640,11 @@ De toegangspoorten en de gemandateerde voorzieningen brengen de   administratiev
 
 <p>De Vlaamse Regering kan nadere regels bepalen over de vorm waarin en de wijze waarop de persoonsgegevens worden uitgewisseld. In dat kader wordt bijzondere aandacht besteed aan de gegevensverzameling van de afgelegde trajecten in de jeugdhulpverlening en aan de overgang van vrijwillige naar gerechtelijke jeugdhulpverlening. Ze bepaalt, in voorkomend geval ook de wijze waarop de persoonsgegevens worden gecodeerd.</p>
 
-<p>De initiatiefnemer van de registratie, vermeld in het eerste lid, in voorkomend geval het hoofd van het agentschap Jongerenwelzijn of het hoofd van het Departement Welzijn, Volksgezondheid en Gezin, is de&nbsp;verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, met het oog op de registratie.</p>
+<p>Het agentschap Opgroeien regie is de initiatiefnemer van de registratie en is de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, met het oog op de registratie.</p>
 
 ### ART. 71.
 
-Het Departement Welzijn, Volksgezondheid en Gezin ontwikkelt een   registratiesysteem met het oog op de monitoring van de uitvoering van de   doelstellingen, vermeld in artikel 8.
+Het agentschap Opgroeien regie&nbsp;ontwikkelt een registratiesysteem met het oog op de monitoring van de uitvoering van de doelstellingen, vermeld in artikel 8.
 
 ## HOOFDSTUK 13. Omgaan met persoonsgegevens in de jeugdhulp
 
@@ -671,7 +671,11 @@ Het elektronisch dossier bevat de volgende gegevens :<br>
 5° de jeugdhulpverleningsbeslissing of het jeugdhulpverleningsvoorstel.</p>
 
 <p>§ 3. De verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, is :<br>
-1° het hoofd van het agentschap Jongerenwelzijn, voor de verwerking van persoonsgegevens met het oog op de uitvoering van de opdrachten van de toegangspoort, vermeld in artikel 18 van dit decreet, de opdrachten van de Sociale Diensten voor Gerechtelijke Jeugdhulpverlening, vermeld in artikel 56 van dit decreet en de opdrachten van het ondersteuningscentrum Jeugdzorg, vermeld in artikel 33 van dit decreet;<br>
+1° het hoofd van het agentschap Opgroeien regie, voor de verwerking van persoonsgegevens:<br>
+&nbsp; &nbsp;1° met het oog op de uitvoering van de opdrachten van de toegangspoort, vermeld in artikel 18 van dit decreet;<br>
+&nbsp; &nbsp;2° met het oog op de uitvoering van de opdrachten van de sociale dienst, vermeld in artikel 56 van dit decreet;<br>
+&nbsp; &nbsp;3° met het oog op de uitvoering van de opdrachten van het ondersteuningscentrum Jeugdzorg, vermeld in artikel 33 van dit decreet;<br>
+&nbsp; &nbsp;4° bij de aanmelding door jeugdhulpaanbieders of door andere personen en voorzieningen die jeugdhulpverlening aanbieden bij de vertrouwenscentra kindermishandeling, in het kader van hun opdracht, vermeld in artikel 42, § 1, tweede lid, 4°, van dit decreet;<br>
 2° het vertrouwenscentrum kindermishandeling, voor de verwerking van persoonsgegevens met het oog op de uitvoering van zijn opdrachten, vermeld in artikel 42, § 1.</p>
 
 <p>§ 4. Voor de uitvoering van dit decreet worden de volgende instanties aangewezen als dienstenintegrator :<br>
@@ -860,6 +864,12 @@ Als voor de minderjarigen die werden geplaatst overeenkomstig dit decreet of het
 Tijdens de minderjarigheid kunnen de bedragen van het loon die op een spaar- of depositoboekje bij een kredietinstelling werden ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van de toegangspoort, de jeugdrechter of jeugdrechtbank.
 
 ## [Afdeling 2. Centra voor Kinderzorg en Gezinsondersteuning (ing. Decr. 1 maart 2019, art. 23, I: 18 april 2019)]
+
+### ART 78/7.
+
+In het kader van crisisopvang van jonge kinderen en bij verstoorde opvoedingssituaties kan de Vlaamse Regering centra voor kinderzorg en gezinsondersteuning erkennen en subsidiëren.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de opdrachten en de werking van de centra voor kinderzorg en gezinsondersteuning, alsook de voorwaarden en de procedure voor de erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning. De Vlaamse Regering kan bijkomende opdrachten toekennen aan de centra voor kinderzorg en gezinsondersteuning in het kader van de integrale jeugdhulp.
 
 ## HOOFDSTUK 15. Wijzigingsbepalingen
 
