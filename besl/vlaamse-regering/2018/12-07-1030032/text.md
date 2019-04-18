@@ -25,7 +25,7 @@ Besluit :
 In dit besluit wordt verstaan onder:<br>
 1° besluit van 21 februari 2014: het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp;<br>
 2° decreet van 27 april 2018: het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid;<br>
-3° evaluerende arts: een arts erkend door Kind en Gezin om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
+3° evaluerende arts: een arts erkend door&nbsp;het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vast te stellen;<br>
 4° koninklijk besluit van 28 maart 2003: het koninklijk besluit van 28 maart 2003 tot uitvoering van de artikelen 47, 56septies en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders en van artikel 88 van de programmawet (I) van 24 december 2002;<br>
 5° MDT-arts: een arts die binnen een multidisciplinair team werkt en die de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit vaststelt;<br>
 6° minister: de Vlaamse minister bevoegd voor de bijstand aan personen;<br>
@@ -152,21 +152,21 @@ Als het kind als eindresultaat als vermeld in artikel 6, § 5, minimaal 12 punte
 
 De gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, worden vastgesteld ofwel door een evaluerende arts, conform onderafdeling 2, ofwel door een MDT-arts, conform onderafdeling 3.<br>
 <br>
-Kind en Gezin is belast met het toezicht op de evaluerende arts en de MDT-arts, voor wat de door hen toegekende punten, vermeld in artikel 6, betreft.<br>
+Het agentschap Opgroeien regie&nbsp;is belast met het toezicht op de evaluerende arts en de MDT-arts, voor wat de door hen toegekende punten, vermeld in artikel 6, betreft.<br>
 <br>
 De evaluerende arts en de MDT-arts leven de wet van 22 augustus 2002 betreffende de rechten van de patiënt na bij de uitvoering van de onderzoeken om het aantal verkregen punten vast te stellen.<br>
 <br>
-Kind en Gezin bewaart de persoonsgegevens betreffende de vaststelling, vermeld in het eerste lid tot vijf jaar na ontvangst van deze gegevens.
+Het agentschap Opgroeien regie&nbsp;bewaart de persoonsgegevens betreffende de vaststelling, vermeld in het eerste lid tot vijf jaar na ontvangst van deze gegevens.
 
 ### ART 11.
 
-De aanvragen om de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerende arts worden ingediend bij de uitbetalingsactor door de begunstigde of begunstigden. De uitbetalingsactor bezorgt die aanvraag onmiddellijk aan Kind en Gezin.
+De aanvragen om de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerende arts worden ingediend bij de uitbetalingsactor door de begunstigde of begunstigden. De uitbetalingsactor bezorgt die aanvraag onmiddellijk aan het agentschap Opgroeien regie.
 
 ### ART 12.
 
-Kind en Gezin bezorgt onmiddellijk na de ontvangst van de aanvraag, vermeld in artikel 11, een inlichtingenformulier aan de begunstigde of begunstigden.<br>
+Het agentschap Opgroeien regie&nbsp;bezorgt onmiddellijk na de ontvangst van de aanvraag, vermeld in artikel 11, een inlichtingenformulier aan de begunstigde of begunstigden.<br>
 <br>
-De begunstigde of begunstigden bezorgen het ingevulde inlichtingenformulier aan Kind en Gezin. Ze kunnen medische of sociale verslagen bij het inlichtingenformulier voegen. De voormelde verslagen mogen maximaal drie maanden voordat de begunstigde of begunstigden deze bezorgen aan Kind en Gezin, zijn opgesteld.
+De begunstigde of begunstigden bezorgen het ingevulde inlichtingenformulier aan het agentschap Opgroeien regie. Ze kunnen medische of sociale verslagen bij het inlichtingenformulier voegen. De voormelde verslagen mogen maximaal drie maanden voordat de begunstigde of begunstigden deze bezorgen aan het agentschap Opgroeien regie, zijn opgesteld.
 
 ### ART 13.
 
@@ -176,9 +176,9 @@ De evaluerende arts houdt bij de vaststelling, vermeld in het eerste lid, naast 
 <br>
 Als de begunstigde of begunstigden de gevraagde documenten of informatie niet bezorgen binnen dertig dagen na ontvangst van het inlichtingenformulier stuurt de evaluerende arts een herinnering.<br>
 <br>
-§ 2. Kind en Gezin stuurt aan de begunstigde of de begunstigden een uitnodiging om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerende arts. Als geen gevolg gegeven wordt aan de uitnodiging, wordt een tweede oproeping gestuurd. Als ook aan de tweede oproeping geen gevolg wordt gegeven, doet de evaluerende arts zijn vaststelling alleen op basis van de beschikbare documenten.<br>
+§ 2. Het agentschap Opgroeien regie stuurt aan de begunstigde of de begunstigden een uitnodiging om de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, te laten vaststellen door een evaluerende arts. Als geen gevolg gegeven wordt aan de uitnodiging, wordt een tweede oproeping gestuurd. Als ook aan de tweede oproeping geen gevolg wordt gegeven, doet de evaluerende arts zijn vaststelling alleen op basis van de beschikbare documenten.<br>
 <br>
-Als de evaluerende arts niet over voldoende elementen beschikt om in het dossier een vaststelling te kunnen doen, deelt hij dat mee aan Kind en Gezin. Op basis van die informatie deelt de uitbetalingsactor aan de begunstigde of begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.<br>
+Als de evaluerende arts niet over voldoende elementen beschikt om in het dossier een vaststelling te kunnen doen, deelt hij dat mee aan het agentschap Opgroeien regie. Op basis van die informatie deelt de uitbetalingsactor aan de begunstigde of begunstigden de beslissing mee dat ze geen recht hebben op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte.<br>
 <br>
 Als het kind zich om medische redenen niet kan verplaatsen wordt het onderzoek ter plaatse verricht.<br>
 <br>
@@ -186,7 +186,7 @@ De begunstigde of begunstigden voor het kind en het kind zelf kunnen zich bij de
 
 ### ART 14.
 
-De evaluerende arts bezorgt, binnen dertig dagen nadat de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, zijn vastgesteld, het resultaat van de vaststelling, vermeld in artikel 6, § 5, aan Kind en Gezin. Kind en Gezin bezorgt dat eindresultaat aan de uitbetalingsactor.<br>
+De evaluerende arts bezorgt, binnen dertig dagen nadat de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, zijn vastgesteld, het resultaat van de vaststelling, vermeld in artikel 6, § 5, aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt dat eindresultaat aan de uitbetalingsactor.<br>
 <br>
 Op basis van de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vermeld in het eerste lid, beslist de uitbetalingsactor of er recht is op de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, vermeld in artikel 16, § 1, van het decreet van 27 april 2018. Hij begroot die toeslag conform artikel 9. De uitbetalingsactor deelt de beslissing tot toekenning of weigering van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, alsook de periode en het bedrag van de toeslag mee aan de begunstigde of begunstigden.
 
@@ -208,7 +208,7 @@ De minister kan de mogelijkheid om een beslissing te nemen op basis van stukken,
 
 ### ART 16.
 
-Het feit dat een rechtgevend kind door weigering van behandeling aanleiding zou kunnen geven tot de toekenning van een, eventueel hogere, zorgtoeslag voor een kind met een specifieke ondersteuningsbehoefte, wordt vastgesteld door de evaluerende arts. Kind en Gezin bezorgt die vaststelling aan de uitbetalingsactor. Op basis van die vaststelling weigert de uitbetalingsactor de zorgtoeslag voor die kinderen.
+Het feit dat een rechtgevend kind door weigering van behandeling aanleiding zou kunnen geven tot de toekenning van een, eventueel hogere, zorgtoeslag voor een kind met een specifieke ondersteuningsbehoefte, wordt vastgesteld door de evaluerende arts. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor. Op basis van die vaststelling weigert de uitbetalingsactor de zorgtoeslag voor die kinderen.
 
 ## Onderafdeling 3. Procedure tot vaststelling door een MDT-arts
 
@@ -216,7 +216,7 @@ Het feit dat een rechtgevend kind door weigering van behandeling aanleiding zou 
 
 Als een multidisciplinair team een aanvraagdocument opstelt met het oog op een aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening, in het kader van de toepassing van het besluit van 21 februari 2014, stelt de MDT-arts binnen het multidisciplinair team die betrokken was bij de opmaak van dat document, ook de gevolgen vast van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, vermeld in artikel 16, § 1, eerste lid van het decreet van 27 april 2018, conform artikel 6 en 7.<br>
 <br>
-De MDT-arts bezorgt de vaststelling, vermeld in het eerste lid, aan Kind en Gezin. Kind en Gezin bezorgt die vaststelling aan de uitbetalingsactor. De MDT-arts bezorgt ook alle relevante informatie over de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit van het kind aan Kind en Gezin.<br>
+De MDT-arts bezorgt de vaststelling, vermeld in het eerste lid, aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor. De MDT-arts bezorgt ook alle relevante informatie over de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit van het kind aan het agentschap Opgroeien regie.<br>
 <br>
 Op basis van de vaststelling door een MDT-arts beslist de uitbetalingsactor of er recht is op een zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, als vermeld in artikel 16, § 1, van het decreet van 27 april 2018. Hij begroot die toeslag conform artikel 9. De uitbetalingsactor deelt de beslissing tot toekenning of weigering van de zorgtoeslag voor kinderen met een specifieke ondersteuningsbehoefte, alsook de periode en het bedrag van de toeslag, mee aan de begunstigde of begunstigden.<br>
 <br>
@@ -226,7 +226,7 @@ De minister stelt de vergoeding vast voor de vaststellingen die de MDT-arts heef
 
 ### ART 18.
 
-Als door een vaststelling van een MDT-arts, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, rekening houdend met de periode die de arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft de nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de MDT-arts de vaststelling heeft meegedeeld aan Kind en Gezin.<br>
+Als door een vaststelling van een MDT-arts, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, rekening houdend met de periode die de arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heeft de nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de MDT-arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.<br>
 <br>
 Als een vaststelling wordt gedaan door een MDT-arts, terwijl er bij een evaluerende arts ook een procedure loopt tot vaststelling van de gevolgen van de aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, wordt die laatste procedure stopgezet.
 
@@ -238,19 +238,19 @@ Als een vaststelling wordt gedaan door een MDT-arts, terwijl er bij een evaluere
 <br>
 Van de tijdstippen, vermeld in het eerste lid, kan op gemotiveerde wijze worden afgeweken door de evaluerende arts of de MDT-arts. Die geeft dan het tijdstip op van de ambtshalve herziening.<br>
 <br>
-Kind en Gezin stuurt zes maanden voor de tijdstippen, vermeld in het eerste of het tweede lid, bereikt zijn, een brief met informatie over de ambtshalve herziening naar de begunstigde of begunstigden. De ambtshalve herziening vermeld in het eerste en tweede lid, verloopt conform artikel 12 tot en met 16.<br>
+Het agentschap Opgroeien regie&nbsp;stuurt zes maanden voor de tijdstippen, vermeld in het eerste of het tweede lid, bereikt zijn, een brief met informatie over de ambtshalve herziening naar de begunstigde of begunstigden. De ambtshalve herziening vermeld in het eerste en tweede lid, verloopt conform artikel 12 tot en met 16.<br>
 <br>
 De beslissing tot toekenning of weigering van de zorgtoeslag voor een kind met een specifieke ondersteuning, die voortvloeit uit de ambtshalve herziening, heeft uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
-§ 2. Als wordt vastgesteld dat er een materiële fout is begaan in de verwerking van de beslissing, wordt die rechtgezet door de evaluerende arts of de MDT-arts. De evaluerende arts of de MDT-arts bezorgt de vaststelling aan Kind en Gezin. Kind en Gezin bezorgt die vaststelling aan de uitbetalingsactor.<br>
+§ 2. Als wordt vastgesteld dat er een materiële fout is begaan in de verwerking van de beslissing, wordt die rechtgezet door de evaluerende arts of de MDT-arts. De evaluerende arts of de MDT-arts bezorgt de vaststelling aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie bezorgt die vaststelling aan de uitbetalingsactor.<br>
 <br>
-Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerende arts of de MDT-arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts of de MDT-arts de vaststelling heeft meegedeeld aan Kind en Gezin.
+Als door de rechtzetting, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil, voor de periode die de evaluerende arts of de MDT-arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts of de MDT-arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
 
 ### ART 20.
 
 De begunstigde of begunstigden kunnen op basis van nieuwe inlichtingen een aanvraag tot herziening van de vaststelling van de gevolgen van de aandoening waaruit de specifieke ondersteuningsbehoefte voortvloeit, indienen bij de uitbetalingsactor. De herziening verloopt conform artikel 11 tot en met 16.<br>
 <br>
-Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die de evaluerende arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heef die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts de vaststelling heeft meegedeeld aan Kind en Gezin.
+Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil. Hij baseert zich daarvoor op de periode die de evaluerende arts bepaalt. Als de nieuwe vaststelling tot een lager bedrag leidt, heef die nieuwe vaststelling pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts de vaststelling heeft meegedeeld aan het agentschap Opgroeien regie.
 
 ## [HOOFDSTUK 4. Evaluerend arts erkend door het agentschap Opgroeien regie om de gevolgen van een aandoening waaruit een specifieke ondersteuningsbehoefte voortvloeit, vast te stellen (verv. BVR 27 januari 2023, art. 6, I: 8 mei 2023)])]
 
@@ -260,7 +260,7 @@ Als door de herziening, vermeld in het eerste lid, een hoger bedrag kan worden t
 
 ### ART 21.
 
-Een arts kan een erkenning als evaluerende arts aanvragen bij Kind en Gezin. Kind en Gezin beslist over de toekenning van een erkenning aan een arts om als evaluerende arts in het kader van dit besluit te mogen optreden.<br>
+Een arts kan een erkenning als evaluerende arts aanvragen bij het agentschap Opgroeien regie. Het agentschap Opgroeien regie beslist over de toekenning van een erkenning aan een arts om als evaluerende arts in het kader van dit besluit te mogen optreden.<br>
 <br>
 De erkenning is drie jaar geldig.
 
@@ -268,58 +268,58 @@ De erkenning is drie jaar geldig.
 
 ### ART 22.
 
-§ 1. Om als evaluerende arts door Kind en Gezin erkend te kunnen worden, moet de arts:<br>
+§ 1. Om als evaluerende arts door&nbsp;het agentschap Opgroeien regie erkend te kunnen worden, moet de arts:<br>
 1° beschikken over een uittreksel uit het strafregister als vermeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, dat niet ouder is dan een maand of, voor wie niet in België gedomicilieerd is, een gelijkwaardig document kunnen voorleggen dat niet ouder is dan een maand waaruit onberispelijk gedrag voor het optreden als evaluerende arts blijkt;<br>
-2° beschikken over een goede algemene gezondheid voor de uit te voeren opdrachten. De betrokkene legt op verzoek van Kind en Gezin een medisch attest voor dat is geschreven door een andere arts en dat zijn goede algemene gezondheidstoestand voor de uit te voeren opdrachten bevestigt;<br>
+2° beschikken over een goede algemene gezondheid voor de uit te voeren opdrachten. De betrokkene legt op verzoek van&nbsp;het agentschap Opgroeien regie een medisch attest voor dat is geschreven door een andere arts en dat zijn goede algemene gezondheidstoestand voor de uit te voeren opdrachten bevestigt;<br>
 3° beschikken over een gevorderde en actieve kennis van het Nederlands;<br>
 4° verklaren kennisgenomen te hebben van de opdracht in het kader van dit besluit en van de bepalingen van dit besluit die op hem van toepassing zijn, door een digitaal startpakket te doorlopen;<br>
 5° niet het voorwerp geweest zijn van een opheffing van zijn erkenning als evaluerende arts.<br>
 <br>
 De minister bepaalt de nadere regels voor de gevorderde en actieve kennis van het Nederlands, vermeld in paragraaf 1, eerste lid, 6°, onder meer wat betreft het taalvaardigheidsniveau en de manier waarop dat bewezen kan worden.<br>
 <br>
-§ 2. Een evaluerende arts kan pas zelfstandig medische vaststellingen in het kader van dit besluit uitvoeren nadat hij een aantal vaststellingen, bepaald door Kind en Gezin, heeft bijgewoond of uitgevoerd onder begeleiding van een mentorarts, als bedoeld in artikel 32.<br>
+§ 2. Een evaluerende arts kan pas zelfstandig medische vaststellingen in het kader van dit besluit uitvoeren nadat hij een aantal vaststellingen, bepaald door het agentschap Opgroeien regie, heeft bijgewoond of uitgevoerd onder begeleiding van een mentorarts, als bedoeld in artikel 32.<br>
 <br>
 § 3. Om de erkenning als evaluerende arts te kunnen behouden of te verlengen moet de betrokkene:<br>
-1° zijn opdrachten vervullen conform de wetenschappelijke aanbevelingen, met inachtneming van de code van de geneeskundige plichtenleer. Kind en Gezin verstrekt de nodige informatie en aanbevelingen;<br>
-2° in het eerste jaar van de erkenning een vormingstraject volgen, aangeboden door Kind en Gezin en gebaseerd op wetenschappelijke bevindingen en aanbevelingen;<br>
+1° zijn opdrachten vervullen conform de wetenschappelijke aanbevelingen, met inachtneming van de code van de geneeskundige plichtenleer. Het agentschap Opgroeien regie verstrekt de nodige informatie en aanbevelingen;<br>
+2° in het eerste jaar van de erkenning een vormingstraject volgen, aangeboden door&nbsp;het agentschap Opgroeien regie en gebaseerd op wetenschappelijke bevindingen en aanbevelingen;<br>
 3° de erkenningsvoorwaarden en de bepalingen van dit besluit naleven;<br>
-4° bij de uitvoering van zijn opdracht de inhoudelijke en methodische doelstellingen die Kind en Gezin nastreeft, in acht nemen en zo mee vorm geven aan het kwaliteitskader van Kind en Gezin;<br>
-5° Kind en Gezin op de hoogte houden van elke wijziging in de gegevens die relevant zijn voor de erkenning.
+4° bij de uitvoering van zijn opdracht de inhoudelijke en methodische doelstellingen die&nbsp;het agentschap Opgroeien regie nastreeft, in acht nemen en zo mee vorm geven aan het kwaliteitskader van het agentschap Opgroeien regie;<br>
+5° Het agentschap Opgroeien regie op de hoogte houden van elke wijziging in de gegevens die relevant zijn voor de erkenning.
 
 ## Onderafdeling 3. Erkenningsvoorschriften
 
 ### ART 23.
 
 Bij de uitvoering van de opdrachten in het kader van dit besluit voldoet de evaluerende arts aan de volgende vereisten. De evaluerende arts:<br>
-1° verricht zijn opdrachten voor Kind en Gezin op zelfstandige basis;<br>
+1° verricht zijn opdrachten voor&nbsp;het agentschap Opgroeien regie op zelfstandige basis;<br>
 2° voert de opdrachten uit zonder te discrimineren op basis van geslacht, nationaliteit, taal, vermogen, geloofs-, ideologische, filosofische en politieke overtuiging, culturele, maatschappelijk of sociale afkomst;<br>
-3° maakt gebruik van het geïntegreerd elektronisch dossier waarin Kind en Gezin voorziet;<br>
+3° maakt gebruik van het geïntegreerd elektronisch dossier waarin&nbsp;het agentschap Opgroeien regie voorziet;<br>
 4° communiceert correct, volledig en gericht op de behoeften van de begunstigde of begunstigden;<br>
-5° werkt voor de uitvoering van zijn opdrachten samen met de medewerkers van Kind en Gezin;<br>
+5° werkt voor de uitvoering van zijn opdrachten samen met de medewerkers van het agentschap Opgroeien regie;<br>
 6° schoolt zich bij in relevante onderwerpen in het kader van dit besluit;<br>
-7° werkt alleen mee aan wetenschappelijk onderzoek bij de uitvoering van zijn opdracht in het kader van dit besluit na toestemming van Kind en Gezin.
+7° werkt alleen mee aan wetenschappelijk onderzoek bij de uitvoering van zijn opdracht in het kader van dit besluit na toestemming van het agentschap Opgroeien regie.
 
 ### ART 24.
 
-De evaluerende arts krijgt via het elektronische portaal, waarin Kind en Gezin voorziet, een opdracht toegewezen.
+De evaluerende arts krijgt via het elektronische portaal, waarin het agentschap Opgroeien regie voorziet, een opdracht toegewezen.
 
 ## Onderafdeling 4. Vergoeding
 
 ### ART 25.
 
-De evaluerende arts krijgt maandelijks een vergoeding van Kind en Gezin voor:<br>
+De evaluerende arts krijgt maandelijks een vergoeding van&nbsp;het agentschap Opgroeien regie voor:<br>
 1° de opdrachten die hij in de afgelopen maand in het kader van dit besluit heeft uitgevoerd;<br>
-2° de opleidingen die hij heeft gevolgd en waarvan Kind en Gezin heeft bepaald dat het die vergoedt.<br>
+2° de opleidingen die hij heeft gevolgd en waarvan&nbsp;het agentschap Opgroeien regie heeft bepaald dat het die vergoedt.<br>
 <br>
 De evaluerende arts beheert zijn opdrachten, opleidingen en vergoedingen in het elektronische portaal, vermeld in artikel 24. De evaluerende arts kan tot tien dagen na het einde van elke maand rechtzettingen doorgeven op de opdrachten en opleidingen van de afgelopen maand die in het portaal geregistreerd zijn.<br>
 <br>
-De minister stelt de vergoedingen vast voor de opdrachten die de evaluerende arts heeft uitgevoerd en de opleidingen die hij heeft gevolgd. De minister kan ook een vergoeding bepalen voor de tegenwerpelijke medische expertise als de evaluerende arts gevorderd wordt door de arbeidsrechtbank.
+De minister stelt de vergoedingen vast voor de opdrachten die de evaluerende arts heeft uitgevoerd en de opleidingen die hij heeft gevolgd. De minister kan ook een vergoeding bepalen voor de tegenwerpelijke medische expertise als de evaluerende arts gevorderd wordt door de arbeidsrechtbank.&nbsp;De minister kan het agentschap Opgroeien regie belasten met de evaluatie van de regels over de vergoedingen van de evaluerende artsen.
 
 ## Onderafdeling 5. Klachtenbehandeling
 
 ### ART 26.
 
-Kind en Gezin behandelt samen met de evaluerende arts de klachten die het over de evaluerende arts krijgt.
+Het agentschap Opgroeien regie&nbsp;behandelt samen met de evaluerende arts de klachten die het over de evaluerende arts krijgt.
 
 ## Afdeling 2. Procedure
 
@@ -327,13 +327,13 @@ Kind en Gezin behandelt samen met de evaluerende arts de klachten die het over d
 
 ### ART 27.
 
-De erkenning als evaluerende arts door Kind en Gezin kan alleen worden verleend als aan de volgende voorwaarden is voldaan:<br>
+De erkenning als evaluerende arts door&nbsp;het agentschap Opgroeien regie kan alleen worden verleend als aan de volgende voorwaarden is voldaan:<br>
 1° er is een ontvankelijke aanvraag ingediend;<br>
 2° er is voldaan aan de erkenningsvoorwaarden, vermeld in artikel 22.
 
 ### ART 28.
 
-De betrokkene dient de aanvraag tot erkenning elektronisch in bij Kind en Gezin met het aanvraagformulier dat Kind en Gezin ter beschikking stelt en vermeldt op straffe van niet-ontvankelijkheid de volgende gegevens:<br>
+De betrokkene dient de aanvraag tot erkenning elektronisch in bij&nbsp;het agentschap Opgroeien regie met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt en vermeldt op straffe van niet-ontvankelijkheid de volgende gegevens:<br>
 1° de voor- en achternaam, het e-mailadres, het correspondentieadres en het telefoonnummer van de aanvrager;<br>
 2° het rijksregisternummer en het RIZIV-nummer van de aanvrager;<br>
 3° alle nodige gegevens over de accreditering bij het RIZIV;<br>
@@ -343,18 +343,18 @@ De betrokkene dient de aanvraag tot erkenning elektronisch in bij Kind en Gezin 
 
 ### ART 29.
 
-§ 1. Nadat Kind en Gezin de aanvraag heeft ontvangen, stuurt het een elektronische ontvangstmelding naar de aanvrager.<br>
+§ 1. Nadat&nbsp;het agentschap Opgroeien regie de aanvraag heeft ontvangen, stuurt het een elektronische ontvangstmelding naar de aanvrager.<br>
 <br>
-§ 2. Binnen dertig dagen na de dag van ontvangst van de aanvraag deelt Kind en Gezin aan de aanvrager mee of de aanvraag ontvankelijk is.<br>
+§ 2. Binnen dertig dagen na de dag van ontvangst van de aanvraag deelt&nbsp;het agentschap Opgroeien regie aan de aanvrager mee of de aanvraag ontvankelijk is.<br>
 <br>
-Als de aanvraag niet ontvankelijk is omdat een of meer van de gegevens, vermeld in artikel 28, ontbreken, vraagt Kind en Gezin de ontbrekende gegevens op. De termijn voor de indiening van de gegevens of stukken bedraagt vijftien dagen. Tijdens die periode wordt de beslissingstermijn voor de ontvankelijkheid geschorst. Als er binnen die termijn geen gegevens of stukken elektronisch aan Kind en Gezin worden bezorgd, is de aanvraag onontvankelijk.<br>
+Als de aanvraag niet ontvankelijk is omdat een of meer van de gegevens, vermeld in artikel 28, ontbreken, vraagt&nbsp;het agentschap Opgroeien regie de ontbrekende gegevens op. De termijn voor de indiening van de gegevens of stukken bedraagt vijftien dagen. Tijdens die periode wordt de beslissingstermijn voor de ontvankelijkheid geschorst. Als er binnen die termijn geen gegevens of stukken elektronisch aan&nbsp;het agentschap Opgroeien regie worden bezorgd, is de aanvraag onontvankelijk.<br>
 <br>
-§ 3. Kind en Gezin behandelt de ontvankelijke aanvraag binnen drie maanden nadat aan de aanvrager is meegedeeld dat de aanvraag ontvankelijk is.<br>
-Kind en Gezin kan aanvullende informatie vragen aan de aanvrager. De aanvrager bezorgt de gevraagde aanvullende informatie aan Kind en Gezin binnen dertig dagen. De beslissingstermijn wordt niet geschorst.
+§ 3. Het agentschap Opgroeien regie behandelt de ontvankelijke aanvraag binnen drie maanden nadat aan de aanvrager is meegedeeld dat de aanvraag ontvankelijk is.<br>
+Het agentschap Opgroeien regie&nbsp;kan aanvullende informatie vragen aan de aanvrager. De aanvrager bezorgt de gevraagde aanvullende informatie aan&nbsp;het agentschap Opgroeien regie binnen dertig dagen. De beslissingstermijn wordt niet geschorst.
 
 ### ART 30.
 
-Kind en Gezin bezorgt de beslissing over de aanvraag tot erkenning als evaluerende arts uiterlijk na afloop van de termijn, vermeld in artikel 29, § 3, eerste lid, aan de aanvrager. De beslissing heeft betrekking op een van de volgende beslissingen:<br>
+Het agentschap Opgroeien regie&nbsp;bezorgt de beslissing over de aanvraag tot erkenning als evaluerende arts uiterlijk na afloop van de termijn, vermeld in artikel 29, § 3, eerste lid, aan de aanvrager. De beslissing heeft betrekking op een van de volgende beslissingen:<br>
 1° de toekenning van de erkenning;<br>
 2° het voornemen tot weigering van de erkenning.<br>
 <br>
@@ -362,7 +362,7 @@ De beslissing tot toekenning van de erkenning wordt elektronisch bezorgd aan de 
 <br>
 De aanvrager wordt met een aangetekende brief op de hoogte gebracht van het voornemen tot weigering van de erkenning. De kennisgeving van de beslissing bevat, in voorkomend geval, de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen.<br>
 <br>
-Als de aanvrager binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van Kind en Gezin van rechtswege omgezet in een beslissing tot weigering van de erkenning. De beslissing tot weigering van de erkenning wordt van rechtswege geacht te zijn meegedeeld.<br>
+Als de aanvrager binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van&nbsp;het agentschap Opgroeien regie van rechtswege omgezet in een beslissing tot weigering van de erkenning. De beslissing tot weigering van de erkenning wordt van rechtswege geacht te zijn meegedeeld.<br>
 <br>
 Als de evaluerende arts een ontvankelijk bezwaarschrift heeft ingediend, conform de bezwaarprocedure, vermeld in artikel 37 tot en met 42, wordt de beslissing over de opheffing van de erkenning genomen nadat de bezwaarprocedure is doorlopen conform de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, met dien verstande dat het bezwaarschrift, in afwijking van artikel 8, § 1, eerste lid van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, wordt behandeld door de kamer van gezondheidsvoorzieningen.
 
@@ -376,58 +376,58 @@ De erkenning van de evaluerende arts wordt van rechtswege verlengd met drie jaar
 
 ### ART 32.
 
-§ 1. Kind en Gezin kan een oproep doen bij de erkende evaluerende artsen, om op te treden als mentorarts. De oproep bevat minstens de volgende gegevens:<br>
+§ 1. Het agentschap Opgroeien regie kan een oproep doen bij de erkende evaluerende artsen, om op te treden als mentorarts. De oproep bevat minstens de volgende gegevens:<br>
 1° de periode waarin de aanvraag kan ingediend worden;<br>
 2° de vergelijkende procedure en het beslissingskader dat in de vergelijkende procedure wordt toegepast om de rangorde tussen de verschillende kandidaten vast te stellen;<br>
 3° de vereiste criteria en de competenties waaraan de evaluerende arts moet voldoen om te kunnen optreden als mentorarts;<br>
 4° de beslissingstermijn;<br>
 5° een aanvraagformulier.<br>
 <br>
-De oproep vermeld in het eerste lid, wordt via de elektronische communicatiekanalen van Kind en Gezin kenbaar gemaakt.<br>
+De oproep vermeld in het eerste lid, wordt via de elektronische communicatiekanalen van&nbsp;het agentschap Opgroeien regie kenbaar gemaakt.<br>
 <br>
-§ 2. De geïnteresseerde evaluerende artsen dienen de aanvraag elektronisch in bij Kind en Gezin binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat Kind en Gezin ter beschikking stelt.<br>
+§ 2. De geïnteresseerde evaluerende artsen dienen de aanvraag elektronisch in bij&nbsp;het agentschap Opgroeien regie binnen de indieningstermijn, vermeld in de oproep, met het aanvraagformulier dat&nbsp;het agentschap Opgroeien regie ter beschikking stelt.<br>
 <br>
-Kind en Gezin neemt binnen de termijn, vermeld in paragraaf 1, eerste lid, 4°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, eerste lid, 2°. Kind en Gezin bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.
+Het agentschap Opgroeien regie&nbsp;neemt binnen de termijn, vermeld in paragraaf 1, eerste lid, 4°, een beslissing conform de vergelijkende procedure en het beslissingskader, vermeld in paragraaf 1, eerste lid, 2°. Het agentschap Opgroeien regie bezorgt elke aanvrager elektronisch de beslissing over zijn aanvraag.
 
 ## Onderafdeling 4. Schorsing of opheffing van de erkenning
 
 ### ART 33.
 
-Kind en Gezin volgt de naleving van de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, op en kan daarvoor de nodige stukken opvragen bij de evaluerende arts.
+Het agentschap Opgroeien regie&nbsp;volgt de naleving van de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, op en kan daarvoor de nodige stukken opvragen bij de evaluerende arts.
 
 ### ART 34.
 
-Als wordt vastgesteld dat een evaluerende arts de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, niet naleeft, of het onmogelijk of moeilijk maakt die naleving op te volgen, wordt, behalve bij dringende noodzakelijkheid, de evaluerende arts uitgenodigd voor een gesprek met Kind en Gezin.<br>
+Als wordt vastgesteld dat een evaluerende arts de erkenningsvoorwaarden en erkenningsvoorschriften, vermeld in de artikelen 22 tot en met 24, niet naleeft, of het onmogelijk of moeilijk maakt die naleving op te volgen, wordt, behalve bij dringende noodzakelijkheid, de evaluerende arts uitgenodigd voor een gesprek met het agentschap Opgroeien regie.<br>
 <br>
-Kind en Gezin geeft de evaluerende arts informatie over de bepalingen en voorschriften die de arts niet heeft nageleefd.<br>
+Het agentschap Opgroeien regie&nbsp;geeft de evaluerende arts informatie over de bepalingen en voorschriften die de arts niet heeft nageleefd.<br>
 <br>
-Kind en Gezin waarschuwt de evaluerende arts voor de mogelijke schorsing of opheffing van zijn erkenning bij blijvende niet-naleving.
+Het agentschap Opgroeien regie&nbsp;waarschuwt de evaluerende arts voor de mogelijke schorsing of opheffing van zijn erkenning bij blijvende niet-naleving.
 
 ### ART 35.
 
-Kind en Gezin kan in de volgende gevallen beslissen om de erkenning te schorsen:<br>
+Het agentschap Opgroeien regie&nbsp;kan in de volgende gevallen beslissen om de erkenning te schorsen:<br>
 1° als een inbreuk op de erkenningsvoorwaarden en -voorschriften op korte termijn weggewerkt kan worden;<br>
 2° uit voorzorg, als er ernstige indicaties zijn dat er een inbreuk is op de erkenningsvoorwaarden en -voorschriften en dat daardoor de veiligheid en gezondheid van de begunstigde of begunstigden of rechtgevende kinderen in het gedrang komen, of bij dringende noodzakelijkheid;<br>
 3° als de evaluerende arts de opvolging van de naleving van de erkenningsvoorwaarden en -voorschriften bemoeilijkt of verhindert.<br>
 <br>
-Kind en Gezin brengt de evaluerende arts op de hoogte van de beslissing, vermeld in het eerste lid.<br>
+Het agentschap Opgroeien regie&nbsp;brengt de evaluerende arts op de hoogte van de beslissing, vermeld in het eerste lid.<br>
 <br>
-Kind en Gezin hoort zo snel mogelijk en uiterlijk binnen vijf werkdagen de evaluerende arts en neemt op basis daarvan een beslissing over de erkenning. De beslissing heeft betrekking op:<br>
+Het agentschap Opgroeien regie&nbsp;hoort zo snel mogelijk en uiterlijk binnen vijf werkdagen de evaluerende arts en neemt op basis daarvan een beslissing over de erkenning. De beslissing heeft betrekking op:<br>
 1° de opheffing van de schorsing, in voorkomend geval met naleving van de gemaakte afspraken met het oog op de naleving van de erkenningsvoorwaarden en -voorschriften;<br>
 2° het voornemen tot opheffing van de erkenning, vermeld in artikel 36.<br>
 <br>
-Kind en Gezin brengt de evaluerende arts met een aangetekende brief op de hoogte van de beslissing, vermeld in het derde lid.
+Het agentschap Opgroeien regie&nbsp;brengt de evaluerende arts met een aangetekende brief op de hoogte van de beslissing, vermeld in het derde lid.
 
 ### ART 36.
 
-Kind en Gezin kan in de volgende gevallen beslissen om de erkenning op te heffen:<br>
+Het agentschap Opgroeien regie&nbsp;kan in de volgende gevallen beslissen om de erkenning op te heffen:<br>
 1° als een inbreuk op de erkenningsvoorwaarden en -voorschriften niet op korte termijn weggewerkt kan worden;<br>
 2° als een inbreuk die aan de basis van een schorsing van de erkenning lag, niet weggewerkt is binnen de termijn die bepaald is in de beslissing tot die schorsing;<br>
 3° als de evaluerende arts op basis van onjuiste gegevens een erkenning verkregen heeft.<br>
 <br>
 Het voornemen tot opheffing van de erkenning wordt met een aangetekende brief bezorgd aan de evaluerende arts. De aangetekende brief bevat de informatie over de mogelijkheid, de voorwaarden en de procedure om een gemotiveerd bezwaarschrift in te dienen.<br>
 <br>
-§ 2. Als de evaluerende arts binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van Kind en Gezin omgezet in een beslissing tot opheffing van de erkenning. De evaluerende arts wordt van de voormelde beslissing op de hoogte gebracht met een aangetekende brief.<br>
+§ 2. Als de evaluerende arts binnen de termijn, vermeld in artikel 38, geen bezwaarschrift indient, wordt, nadat die termijn verstreken is, het voornemen van&nbsp;het agentschap Opgroeien regie omgezet in een beslissing tot opheffing van de erkenning. De evaluerende arts wordt van de voormelde beslissing op de hoogte gebracht met een aangetekende brief.<br>
 <br>
 Als de evaluerende arts een ontvankelijk bezwaarschrift heeft ingediend, conform de bezwaarprocedure, vermeld in artikel 37 tot en met 42, wordt de beslissing over de opheffing van de erkenning genomen nadat de bezwaarprocedure is doorlopen conform de regels die zijn vastgesteld bij of krachtens hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, met dien verstande dat het bezwaarschrift, in afwijking van artikel 8, § 1, eerste lid van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers, wordt behandeld door de kamer van gezondheidsvoorzieningen.
 
@@ -435,11 +435,11 @@ Als de evaluerende arts een ontvankelijk bezwaarschrift heeft ingediend, conform
 
 ### ART 37.
 
-De aanvrager of evaluerende arts kan bezwaar aantekenen bij Kind en Gezin tegen het voornemen tot weigering, vermeld in artikel 30, en het voornemen tot opheffing van de erkenning, vermeld in artikel 36.
+De aanvrager of evaluerende arts kan bezwaar aantekenen bij&nbsp;het agentschap Opgroeien regie tegen het voornemen tot weigering, vermeld in artikel 30, en het voornemen tot opheffing van de erkenning, vermeld in artikel 36.
 
 ### ART 38.
 
-De aanvrager of evaluerende arts dient met een aangetekende brief een gemotiveerd bezwaarschrift in bij Kind en Gezin in het geval, vermeld in artikel 37, op straffe van niet-ontvankelijkheid, uiterlijk dertig dagen na de kennisgeving van een voornemen tot een beslissing als vermeld in artikel 37.
+De aanvrager of evaluerende arts dient met een aangetekende brief een gemotiveerd bezwaarschrift in bij het agentschap Opgroeien regie in het geval, vermeld in artikel 37, op straffe van niet-ontvankelijkheid, uiterlijk dertig dagen na de kennisgeving van een voornemen tot een beslissing als vermeld in artikel 37.
 
 ### ART 39.
 
@@ -451,15 +451,15 @@ Het bezwaarschrift, vermeld in artikel 38, bevat op straffe van niet-ontvankelij
 
 ### ART 40.
 
-Kind en Gezin beslist uiterlijk tien dagen na de dag van de ontvangst van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de aanvrager of de evaluerende arts daarvan onmiddellijk op de hoogte met een aangetekende brief.
+Het agentschap Opgroeien regie&nbsp;beslist uiterlijk tien dagen na de dag van de ontvangst van het bezwaarschrift over de ontvankelijkheid van het bezwaar en brengt de aanvrager of de evaluerende arts daarvan onmiddellijk op de hoogte met een aangetekende brief.
 
 ### ART 41.
 
 Het bezwaar is schorsend.<br>
 <br>
-In afwijking van het eerste lid, kan Kind en Gezin bij een bezwaar tegen het voornemen tot opheffing van de erkenning binnen tien dagen na de dag van de ontvangst van het bezwaarschrift beslissen dat het bezwaar geen schorsend karakter heeft. Die mogelijkheid wordt beperkt tot de gevallen waarbij een ernstig gevaar dreigt voor de veiligheid en de gezondheid van de rechtgevende kinderen en de begunstigde of begunstigden.<br>
+In afwijking van het eerste lid, kan het agentschap Opgroeien regie bij een bezwaar tegen het voornemen tot opheffing van de erkenning binnen tien dagen na de dag van de ontvangst van het bezwaarschrift beslissen dat het bezwaar geen schorsend karakter heeft. Die mogelijkheid wordt beperkt tot de gevallen waarbij een ernstig gevaar dreigt voor de veiligheid en de gezondheid van de rechtgevende kinderen en de begunstigde of begunstigden.<br>
 <br>
-Als besloten wordt dat het bezwaar niet schorsend is, stuurt Kind en Gezin de beslissing onmiddellijk met een aangetekende brief naar de evaluerende arts.
+Als besloten wordt dat het bezwaar niet schorsend is, stuurt&nbsp;het agentschap Opgroeien regie de beslissing onmiddellijk met een aangetekende brief naar de evaluerende arts.
 
 ### ART 42.
 
@@ -469,7 +469,7 @@ Het bezwaar wordt behandeld met inachtneming van de regels die zijn vastgesteld 
 
 ### ART 43.
 
-Een evaluerende arts die besluit zijn activiteiten in uitvoering van dit besluit stop te zetten, meldt dat zo snel mogelijk elektronisch aan Kind en Gezin. Kind en Gezin zet de erkenning stop vanaf de opgegeven stopzettingsdatum.
+Een evaluerende arts die besluit zijn activiteiten in uitvoering van dit besluit stop te zetten, meldt dat zo snel mogelijk elektronisch aan het agentschap Opgroeien regie. Het agentschap Opgroeien regie zet de erkenning stop vanaf de opgegeven stopzettingsdatum.
 
 ## HOOFDSTUK 5. Pleegzorgtoeslag
 
@@ -540,7 +540,7 @@ Voor het kind, vermeld in het eerste lid, voor wie vanaf 1 januari 2019 een herz
 <br>
 De beslissing tot toekenning of weigering van de zorgtoeslag voor een kind met een specifieke ondersteuning die voortvloeit uit een ambtshalve herziening, heeft uitwerking vanaf de eerste dag van de maand na de einddatum van de geldigheid van de vorige beslissing.<br>
 <br>
-Als ten gevolge van de herziening op aanvraag een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerende arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts de beslissing heeft meegedeeld aan Kind en Gezin.<br>
+Als ten gevolge van de herziening op aanvraag een hoger bedrag kan worden toegekend, betaalt de uitbetalingsactor het verschil voor de periode die de evaluerende arts bepaalt. Als de nieuwe beslissing tot een lager bedrag leidt, heeft die nieuwe beslissing pas uitwerking vanaf de eerste dag van de maand die volgt op de maand waarin de evaluerende arts de beslissing heeft meegedeeld aan het agentschap Opgroeien regie.<br>
 <br>
 § 2. Het kind voor wie een lichamelijke en geestelijke ongeschiktheid en een graad van zelfredzaamheid is vastgesteld conform artikel 2 van het koninklijk besluit van 28 maart 2003 en dat door die beslissing recht heeft op een bijslag van 414,28 euro, 453,49 euro of 484,78 euro als vermeld in artikel 47, § 1, van de Algemene Kinderbijslagwet en afhankelijk van zijn graad van zelfredzaamheid, blijft zijn recht op die bijslag behouden zolang de beslissing niet herzien wordt.
 
@@ -548,7 +548,7 @@ Als ten gevolge van de herziening op aanvraag een hoger bedrag kan worden toegek
 
 Zolang de inschaling voor kinderen met een specifieke ondersteuningsbehoefte vanaf 1 januari 2019 conform het driepijlersysteem, vermeld in artikel 6 en 7 van het koninklijk besluit van 28 maart 2003, wordt uitgevoerd onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap, worden de beslissingen die daaruit voortvloeien automatisch overgenomen door de Vlaamse Gemeenschap, als het betrokken kind onder de bevoegdheid van de Vlaamse Gemeenschap komt te vallen. Die beslissing geldt voor de termijn die daarvoor bepaald is door de betrokken deelentiteiten en valt onder de toepassing van artikel 19 en 20 van dit besluit.<br>
 <br>
-Kind en Gezin beoordeelt of de inschaling, vermeld in het eerste lid, die gevoerd wordt onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie of de Duitstalige Gemeenschap, blijvend conform het driepijlersysteem, vermeld in het eerste lid, wordt uitgevoerd.
+Het agentschap Opgroeien regie&nbsp;beoordeelt of de inschaling, vermeld in het eerste lid, die gevoerd wordt onder de bevoegdheid van het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie of de Duitstalige Gemeenschap, blijvend conform het driepijlersysteem, vermeld in het eerste lid, wordt uitgevoerd.
 
 ### ART 51.
 
