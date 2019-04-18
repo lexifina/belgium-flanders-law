@@ -39,7 +39,7 @@ In dit besluit wordt verstaan onder:<br>
 
 De uitbetalingsactoren en begunstigden bezorgen, overeenkomstig artikel 122, § 1, van het decreet van 27 april 2018 op verzoek van de toezichthouders, alle informatie die betrekking heeft op de toelage in het kader van het gezinsbeleid die aan een controle wordt onderworpen. Als dat mogelijk is, worden die gegevens op elektronische wijze ter beschikking gesteld.<br>
 <br>
-De minister kan nadere regels bepalen over de aard, de vorm en de termijn waarin de private uitbetalingsactoren en de gezinnen gegevens ter beschikking moeten stellen van de toezichthouders, Kind en Gezin en het agentschap.
+De minister kan nadere regels bepalen over de aard, de vorm en de termijn waarin de private uitbetalingsactoren en de gezinnen gegevens ter beschikking moeten stellen van de toezichthouders, het agentschap Opgroeien regie en het agentschap.
 
 ## HOOFDSTUK II. Handhaving ten aanzien van de burgers
 
@@ -133,9 +133,9 @@ De minister kan verplichtingen opleggen aan de uitbetalingsactoren en het agents
 
 ### ART 12.
 
-§ 1. Als het agentschap of Kind en Gezin, overeenkomstig artikel 173, § 1 en § 2, van het decreet van 27 april 2018, beslist om subsidies voor de uitbetaling van de toelagen in het kader van het gezinsbeleid te verminderen of stop te zetten, geldt de procedure, vermeld in paragraaf 2, 3 en 4.<br>
+§ 1. Als het agentschap of het agentschap Opgroeien regie, overeenkomstig artikel 173, § 1 en § 2, van het decreet van 27 april 2018, beslist om subsidies voor de uitbetaling van de toelagen in het kader van het gezinsbeleid te verminderen of stop te zetten, geldt de procedure, vermeld in paragraaf 2, 3 en 4.<br>
 <br>
-§ 2. Het agentschap of Kind en Gezin betekent het voornemen om de subsidies te verminderen of stop te zetten aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing tot vermindering of stopzetting van de subsidies minstens het volgende:<br>
+§ 2. Het agentschap of het agentschap Opgroeien regie betekent het voornemen om de subsidies te verminderen of stop te zetten aan de private uitbetalingsactor en bepaalt in de voorgenomen beslissing tot vermindering of stopzetting van de subsidies minstens het volgende:<br>
 1° de motieven van de voorgenomen beslissing;<br>
 2° de termijn waarin de private uitbetalingsactor zijn verweer kan formuleren en de kans krijgt om gehoord te worden;<br>
 3° in voorkomend geval, de wijze waarop de inbreuk kan worden rechtgezet en de sanctie kan worden vermeden;<br>
@@ -144,9 +144,9 @@ De minister kan verplichtingen opleggen aan de uitbetalingsactoren en het agents
 <br>
 De private uitbetalingsactor wordt op zijn verzoek gehoord. Hij mag zich laten bijstaan of vertegenwoordigen door een raadsman of een andere persoon.<br>
 <br>
-Kind en Gezin en het agentschap informeren elkaar over de genomen maatregel.<br>
+Het agentschap Opgroeien regie en het agentschap informeren elkaar over de genomen maatregel.<br>
 <br>
-§ 3. Samen met het voornemen van Kind en Gezin of het agentschap, vermeld in paragraaf 2, kan een voornemen worden verzonden tot het opleggen van een bestuurlijke maatregel als vermeld in artikel 176 van het decreet van 27 april 2018, of van een onmiddellijke beslissing tot het nemen van een bestuurlijke maatregel bij hoogdringendheid als vermeld in artikel 177, § 2, van het voormelde decreet.<br>
+§ 3. Samen met het voornemen van het agentschap Opgroeien regie of het agentschap, vermeld in paragraaf 2, kan een voornemen worden verzonden tot het opleggen van een bestuurlijke maatregel als vermeld in artikel 176 van het decreet van 27 april 2018, of van een onmiddellijke beslissing tot het nemen van een bestuurlijke maatregel bij hoogdringendheid als vermeld in artikel 177, § 2, van het voormelde decreet.<br>
 <br>
 § 4. De private uitbetalingsactor wordt op de hoogte gebracht van de beslissing over de vermindering of stopzetting van de subsidies. Die beslissing vermeldt minstens het volgende:<br>
 1° de motieven van de beslissing;<br>
@@ -154,7 +154,7 @@ Kind en Gezin en het agentschap informeren elkaar over de genomen maatregel.<br>
 3° in voorkomend geval, de modaliteiten en gevolgen van de beslissing;<br>
 4° de mogelijkheid om bezwaar aan te tekenen.<br>
 <br>
-Kind en Gezin kan de beslissing om de subsidies voor de uitbetaling van de toelagen in het kader van het gezinsbeleid te verminderen of stop te zetten pas nemen na overleg met de private uitbetalingsactor, zodat de nodige maatregelen kunnen worden genomen om de continuïteit in de uitbetaling van de toelagen in het kader van het gezinsbeleid te verzekeren.
+Het agentschap Opgroeien regie kan de beslissing om de subsidies voor de uitbetaling van de toelagen in het kader van het gezinsbeleid te verminderen of stop te zetten pas nemen na overleg met de private uitbetalingsactor, zodat de nodige maatregelen kunnen worden genomen om de continuïteit in de uitbetaling van de toelagen in het kader van het gezinsbeleid te verzekeren.
 
 ### ART 13.
 
