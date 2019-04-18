@@ -46,53 +46,53 @@ Aan hoofdstuk VII van hetzelfde decreet, gewijzigd bij de decreten van 20 decemb
 
 ### ART. 9.
 
-§ 1. Bij het Agentschap Ondernemen is er een Comité voor Preventief Bedrijfsbeleid, hierna te noemen het Comité.<br /><br />§ 2. Het Comité heeft ais missie het Agentschap Ondernemen bij te staan op het vlak van het preventief bedrijfsbeleid, te weten het beleid van de Vlaamse overheid ter stimulering, ondersteuning en bevordering van financieel gezonde ondernemingen, middels, enerzijds, een flankerend, economisch en bedrijfsvriendelijk beleid en, anderzijds, het aanreiken van hulpmiddelen, eerstelijnsadvies en instrumenten die de ondernemingen zelf aanzetten en helpen in het voeren van een gezond financieel beheer.<br /><br />
+...
 
 ### ART. 10.
 
-§ 1. Het Comité bestaat uit zes leden.<br />Het hoofd van het Agentschap Ondernemen woont de vergaderingen van het Comité ambtshalve bij. Hij kan zich hiervoor laten vertegenwoordigen door een door hem aangeduid personeelslid van het Agentschap Ondernemen. Het hoofd van het Agentschap Ondernemen zet de adviezen van het Comité om in concrete acties op het terrein enerzijds en rapporteert aan het Comité de samengevatte analyses, bevindingen en voorstellen die door het Agentschap Ondernemen werden opgesteld.<br /><br />§ 2. De leden van het Comité worden door de Vlaamse Regering aangewezen.<br /><br />Het mandaat van lid van het Comité duurt zes jaar.<br /><br />De helft van de leden van het Comité wordt aangewezen uit een dubbeltal voorgedragen door de meest representatieve werknemersorganisaties. De andere helft van de leden wordt aangewezen uit een dubbeltal voorgedragen door de meest representatieve werkgeversorganisaties.<br /><br />Het Comité duidt, bij gewone meerderheid der stemmen, onder zijn leden een voorzitter en een ondervoorzitter aan voor een duurtijd van telkens drie jaar die hernieuwd kan worden. De voorzitter en ondervoorzitter behoren elk tot een van de in het derde lid bedoelde organisaties van een verschillend type.<br /><br />§ 3. Het Comité kan zich laten bijstaan door één of meerdere door het Comité aangestelde deskundigen.<br /><br />§ 4. De Vlaamse Regering bepaalt de vergoedingen die aan de leden van het Comité en, in voorkomend geval, aan de deskundigen vermeld in § 3, worden toegekend.<br /><br />§ 5. De Vlaamse Regering kan aan het mandaat van voorzitter, ondervoorzitter of lid van het Comité voortijdig een einde maken, om zwaarwichtige reden of op grond van een ernstige tekortkoming of van niet-naleving van de regel van onafhankelijkheid en objectiviteit vermeld in artikel 11.<br /><br />Een dergelijke beslissing van de Vlaamse Regering wordt met redenen omkleed.<br /><br />§ 6. Het Comité stelt een reglement van orde vast dat voor goedkeuring aan de Vlaamse Regering wordt voorgelegd.<br /><br />
+...
 
 ### ART. 11.
 
-§ 1. De leden van het Comité mogen geen functies en mandaten vervullen die de onafhankelijkheid en de objectiviteit waarmee zij hun mandaat uitoefenen, kunnen belemmeren.<br /><br />§ 2. Er is in elk geval onverenigbaarheid tussen het lidmaatschap van het Comité en de volgende functies en mandaten : <br />1° een mandaat of functie van personeelslid, directiecomitélid of bestuurder van een financiële instelling ongeacht of deze van privaat- of publiekrechtelijke aard is;<br />2° een mandaat in het Europees Parlement, de Kamer van Volksvertegenwoordigers, de Senaat, het Vlaams Parlement en het Brusselse Hoofdstedelijke Parlement;<br />3° het ambt van minister of staatssecretaris en de hoedanigheid van kabinetslid van de minister onder wiens toezicht het Agentschap Ondernemen valt;<br />4° onverminderd het bepaalde in artikel 10, § 1, tweede lid, het ambt van personeelslid van het Agentschap Ondernemen.<br /><br />
+...
 
 ### ART. 12.
 
-Het Agentschap Ondernemen verzorgt het secretariaat van het Comité.<br /><br />Het hoofd van het Agentschap Ondernemen wijst, binnen het personeelsbestand van dit agentschap, de ambtenaren of andere personeelsleden aan die het Comité bijstaan.<br /><br />
+...
 
 ## Afdeling II [... (opgeh. Decr. 15 maart 2019, art. 7, I: 18 april 2019)]
 
 ### ART. 13.
 
-Het Comité is belast met de volgende taken : <br />1° het adviseren van het Agentschap Ondernemen over de planning, de organisatie en de uitvoering van de taken van dit agentschap betreffende het preventief bedrijfsbeleid op het vlak van, enerzijds, het sensibiliseren van ondernemingen en, anderzijds het detecteren, de screening tot diagnose en het eerstelijnsadvies;<br />2° het adviseren van het Agentschap Ondernemen over de gegrondheid en de ernst van signalen, uitgaand van een ondernemingsraad, een vakbondsafvaardiging of van de werknemers van een specifieke onderneming of exploitatie-eenheid, met betrekking tot continuïteitsproblemen.<br />Indien het Comité tot het besluit komt dat een dergelijk signaal gefundeerd is, kan het Comité tot screening overgaan.<br />Een dergelijke screening behelst de beoordeling van continuïteitsproblemen aan de hand van indicaties en pre-screening resultaten en het adviseren over de verplichting, respectievelijk de wenselijkheid de resultaten ervan mee te delen aan de organen, respectievelijk de werknemers van de onderneming;<br />3° het adviseren van het Agentschap Ondernemen over de initiatieven van detectie die het Agentschap Ondernemen zou kunnen nemen.<br />Dergelijke adviezen kunnen ingegeven zijn door de nood om een preventief bedrijfsbeleid toe te spitsen op subregionale, sectorale of subsectorale analyses en acties;<br />4° op vraag van de minister van Economie, het adviseren van het Agentschap Ondernemen over de te voeren actie door dit agentschap indien er indicaties zijn dat een preventief bedrijfsbeleid moet toegespitst worden op specifieke situaties;<br />5° het uitbrengen van advies over en aanvullend op de verslagen van de werking van het Agentschap Ondernemen op het vlak van het preventief bedrijfsbeleid en over de eigen werking, samen met adviezen die het flankerend ondernemingsbeleid kunnen vervolledigen of bijsturen waar dit beleid een impact heeft of kan hebben op de financiële gezondheid van de ondernemingen in het Vlaamse Gewest.<br /><br />
+...
 
 ### ART. 14.
 
-De bepalingen van artikel 13 zijn niet van toepassing op ondernemingen of exploitatie-eenheden die door of krachtens een wet of een decreet onderworpen zijn aan een toezicht van de overheid. Het Comité stelt de lijst van deze ondernemingen of exploitatie-eenheden vast op voordracht van het Agentschap Ondernemen.<br /><br />
+...
 
 ### ART. 15.
 
-Het Comité beoordeelt de analyses verstrekt door het Agentschap Ondernemen en doet, volgens de bepalingen van artikel 13, aanbevelingen, het ene en het andere op basis van, onder meer, de volgende gegevens : <br />1° de jaarrekeningen van de ondernemingen of exploitatie-eenheden en andere gegevens die de onderneming krachtens een wet of decreet openbaar moet maken;<br />2° de gegevens die door de ondernemingen of exploitatie-eenheden vrijwillig ter beschikking worden gesteld;<br />3° andere gegevens door het Agentschap Ondernemen ter beschikking gesteld.<br /><br />
+...
 
 ### ART. 16.
 
-Het Comité brengt, op het tijdstip en volgens de voorwaarden nader te bepalen door de Vlaamse Regering, jaarlijks verslag uit over zijn werking en de resultaten ervan. Dat verslag wordt toegezonden aan het Agentschap Ondernemen en aan de Vlaamse Regering die dit op haar beurt aan het Vlaams Parlement meedeelt.<br /><br />
+...
 
 ### ART. 17.
 
-De kredieten die voor de werking van het Comité nodig zijn, worden ingeschreven op de werkingsmiddelen van het Agentschap Ondernemen.<br /><br />
+...
 
 ## Afdeling III [... (opgeh. Decr. 15 maart 2019, art. 7, I: 18 april 2019)]
 
 ### ART. 18.
 
-Onverminderd andersluidende verplichtingen opgelegd bij of krachtens wet of decreet en buiten de gevallen waarin ze in rechte dienen te getuigen, mogen de leden van het Comité, de ambtenaren of andere personeelsleden van het Agentschap Ondernemen die hen bijstaan en de externe deskundigen die in opdracht van het Comité analyses hebben verricht, of andere vormen van bijstand hebben verleend, geen ruchtbaarheid geven aan de gegevens of feiten waarvan zij wegens of in het kader van de uitvoering van hun opdracht kennis krijgen.<br /><br />Dezelfde confidentialiteitsplicht hebben alle personen die ambtshalve van deze gegevens of feiten kennis krijgen.<br /><br />De leden van het Comité, ambtenaren of andere personeelsleden van het Agentschap Ondernemen zijn gehouden door een geheimhoudingsplicht en een confidentialiteitsplicht in de benadering, de resultaten en de adviezen, inclusief de gegevens die hen door de onderneming worden toevertrouwd betreffende individuele dossiers.<br /><br />
+...
 
 ## HOOFDSTUK IV [... (opgeh. Decr. 15 maart 2019, art. 7, I: 18 april 2019)]
 
 ### ART. 19.
 
-§ 1. De Vlaamse Regering wordt gemachtigd om, met het oog op de inrichting van een fijnmazig netwerk van AO-aanspreekpunten dat het gehele grondgebied van het Vlaamse Gewest bestrijkt, erkenningen te verlenen als inrichter van AO-aanspreekpunten en erkenningen te verlenen als AO-aanspreekpunten.<br /><br />De erkenning als inrichter van AO-aanspreekpunten wordt verleend aan verenigingen zonder winstoogmerk op initiatief van een werkgevers- of zelfstandigenorganisatie, een sociaal verzekeringsfonds voor zelfstandigen, de kamers erkend door de Federatie der Kamers voor Handel en Nijverheid van België of een samenwerkingsverband tussen de verenigingen zonder winstoogmerk onderling of met andere rechtspersonen binnen de hierboven vermelde organisaties.<br /><br />De erkenning als erkend AO-aanspreekpunt kan worden verleend aan één of meerdere plaatselijke vestigingen van een erkende inrichter van AO-aanspreekpunten waarvan de Vlaamse Regering heeft vastgesteld dat zij aan de erkenningsvoorwaarden bedoeld in § 2, tweede lid, voldoet. De Vlaamse Regering kan een minimum en maximum vooropstellen van dergelijke vestigingen waaraan, per Vlaamse provincie, een dergelijke erkenning zal kunnen worden verleend.<br /><br />§ 2. De Vlaamse Regering stelt de voorwaarden vast waaraan moet zijn voldaan om de erkenning als erkende inrichter van AO-aanspreekpunten te kunnen bekomen. Deze voorwaarden dienen te verzekeren dat de erkenning als erkende inrichter van AO-aanspreekpunten enkel zal worden verleend aan entiteiten die getuigen van een voldoende mate van organisatie, kwaliteit, deskundigheid en ervaring, van een voldoende mate van aanwezigheid in Vlaanderen en van een bereidheid tot het verlenen van een vlotte medewerking aan de inrichting van de AO-aanspreekpunten om de doelstelling vermeld in het derde lid te bereiken.<br /><br />In dezelfde zin stelt de Vlaamse Regering de voorwaarden vast waaraan moet zijn voldaan om de erkenning als AO-aanspreekpunt te kunnen bekomen. Deze voorwaarden dienen te verzekeren dat de erkende AO-aanspreekpunten voldoende bemand zijn met deskundig personeel, dat zij beschikken over een voldoende mate van infrastructuur en dat zij vlot toegankelijk zijn voor het brede publiek.<br /><br />De door de Vlaamse Regering vastgestelde voorwaarden als bedoeld in de beide vorige leden dienen te verzekeren dat een netwerk van AO-aanspreekpunten over het gehele grondgebied van het Vlaamse Gewest tot stand wordt gebracht.<br /><br />§ 3. De Vlaamse Regering bepaalt de krachtlijnen van de procedure met het oog op de verlening van de in § 1, eerste lid, bedoelde erkenningen. De Vlaamse Regering regelt de beroepsmogelijkheid tegen beslissingen inzake de erkenningen.<br /><br />§ 4. Binnen de perken van de beschikbare begrotingskredieten, regelt de Vlaamse Regering de wijze waarop subsidies aan de erkende inrichters van AO-aanspreekpunten kunnen worden verleend.<br /><br />§ 5. De Vlaamse Regering bepaalt op welke wijze er met betrekking tot een erkende inrichter van AO-aanspreekpunten en een erkend AO-aanspreekpunt wordt gerapporteerd en aan welke vormen van evaluatie en inspectie de erkende AO-aanspreekpunten en de erkende inrichters van AO-aanspreekpunten worden onderworpen.<br /><br />§ 6. De Vlaamse Regering bepaalt welke sancties kunnen getroffen worden in geval een erkend AO-aanspreekpunt of een erkende inrichter van AO-aanspreekpunten een inbreuk op een reglementaire bepaling begaat.<br /><br />§ 7. De Vlaamse Regering kan de verdere maatregelen nemen die nodig zijn ter verzekering van de vlotte inrichting en werking van de erkende inrichters van AO-aanspreekpunten en van de erkende AO-aanspreekpunten.<br /><br />
+...
 
 ## HOOFDSTUK V Diverse bepalingen
 
