@@ -8,7 +8,22 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   adoptie van een gekend kind: een adoptie als vermeld in artikel 346-2, derde   lid, van het Burgerlijk Wetboek;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   decreet van 20 januari 2012: het decreet van 20 januari 2012 houdende regeling   van de interlandelijke adoptie van kinderen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   intrafamiliale adoptie: de interlandelijke adoptie van een kind dat tot in de   vierde graad verwant is met de adoptant, met zijn echtgenoot of met de persoon   met wie hij samenwoont, zelfs als die persoon overleden is, of van een kind dat   biologisch verwant is met een adoptiekind van de adoptant of van de adoptanten,   of van een kind dat het dagelijks leven op duurzame wijze gedeeld heeft met de   adoptant of de adoptanten met een relatie, zoals geldt voor ouders, voor de   adoptant of de adoptanten stappen met het oog op adoptie hebben   ondernomen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   kandidaat-adoptant : de persoon of de personen die samen een kind willen   adopteren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   personeelskosten:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   het brutosalaris, met inbegrip van de wettelijk verplichte   werkgeversbijdragen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   het vakantiegeld;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   de eindejaarspremie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">d)   de vergoeding voor woon-werkverkeer;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">e)   de managementondersteuning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">f)   eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de   loonfiche: maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering,   gsm, laptop, internet;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">g)   opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de   werking van het Steunpunt Adoptie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">h)   kosten voor een arbeidsongevallenverzekering en een bedrijfsgeneeskundige   dienst;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   kindprofiel: informatie over de kenmerken en behoeften van het kind dat   adopteerbaar is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 adoptie van een gekend kind: een adoptie als vermeld in artikel 346-2, derde lid, van het Burgerlijk Wetboek;<br>
+2° decreet van 20 januari 2012: het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen;<br>
+3° intrafamiliale adoptie: de interlandelijke adoptie van een kind dat tot in de vierde graad verwant is met de adoptant, met zijn echtgenoot of met de persoon met wie hij samenwoont, zelfs als die persoon overleden is, of van een kind dat biologisch verwant is met een adoptiekind van de adoptant of van de adoptanten, of van een kind dat het dagelijks leven op duurzame wijze gedeeld heeft met de adoptant of de adoptanten met een relatie, zoals geldt voor ouders, voor de adoptant of de adoptanten stappen met het oog op adoptie hebben ondernomen;<br>
+4° kandidaat-adoptant : de persoon of de personen die samen een kind willen adopteren;<br>
+5° personeelskosten:<br>
+a) het brutosalaris, met inbegrip van de wettelijk verplichte werkgeversbijdragen;<br>
+b) het vakantiegeld;<br>
+c) de eindejaarspremie;<br>
+d) de vergoeding voor woon-werkverkeer;<br>
+e) de managementondersteuning;<br>
+f) eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche: maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm, laptop, internet;<br>
+g) opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de werking van het Steunpunt Adoptie;<br>
+h) kosten voor een arbeidsongevallenverzekering en een bedrijfsgeneeskundige dienst;<br>
+6° kindprofiel: informatie over de kenmerken en behoeften van het kind dat adopteerbaar is.
 
 ## HOOFDSTUK 2 De voorbereiding
 
@@ -68,7 +83,7 @@ Tijdens   de voorbereidingssessies komen minstens de volgende onderwerpen aan   
 
 ### ART. 13.
 
-Conform artikel 7, § 1, van het decreet van 20 januari 2012 erkent Kind en Gezin één Steunpunt Adoptie volgens de procedures, vermeld in hoofdstuk 6 van dit besluit.<br>
+Conform artikel 7, § 1, van het decreet van 20 januari 2012 erkent het agentschap één Steunpunt Adoptie volgens de procedures, vermeld in hoofdstuk 6 van dit besluit.<br>
 <br>
 Overeenkomstig artikel 7, § 3, van het decreet van 20 januari 2012 voldoet het Steunpunt Adoptie aan de in die bepaling gestelde voorwaarden om erkend te worden. Daarnaast moet het:<br>
 1° beschikken over voldoende en voldoende opgeleid personeel om de taken, vermeld in artikel 7, § 2, van het decreet van 20 januari 2012 en in artikel 5, 6, 8 en 10 van het decreet Binnenlandse Adoptie van 3 juli 2015, kwaliteitsvol te kunnen uitvoeren;<br>
@@ -106,11 +121,15 @@ Het   Steunpunt Adoptie bezorgt jaarlijks, uiterlijk op 31 maart, een jaarversla
 
 <p>Het Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van 504.733,09&nbsp;euro voor personeels- en werkingskosten.</p>
 
-<p>Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 22 tot en met 26.</p>
+<p>Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 22 tot en met 26.</p>
 
 ### ART. 21.
 
-<P>§   1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal   in kwestie keert Kind en Gezin aan het Steunpunt Adoptie een voorschot uit. Het   bedrag van dat voorschot bedraagt een vierde van 90% van de subsidie, vermeld in   artikel 20, eerste lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   saldo van 10% van de jaarsubsidie wordt uitbetaald in de loop van het   daaropvolgende jaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als het Steunpunt Adoptie ertoe aangemaand wordt om de tekorten weg te werken   als vermeld in artikel 48 en 49, kan de uitbetaling van de subsidie geheel of   gedeeltelijk opgeschort worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal in kwestie keert het agentschap aan het Steunpunt Adoptie een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90% van de subsidie, vermeld in artikel 20, eerste lid.</p>
+
+<p>Het saldo van 10% van de jaarsubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.</p>
+
+<p>§ 2. Als het Steunpunt Adoptie ertoe aangemaand wordt om de tekorten weg te werken als vermeld in artikel 48 en 49, kan de uitbetaling van de subsidie geheel of gedeeltelijk opgeschort worden.</p>
 
 ## Onderafdeling 2 Subsidievoorschriften
 
@@ -128,7 +147,13 @@ Ten   minste 75% en maximaal 85% van de subsidie die krachtens dit besluit toege
 
 ### ART. 25.
 
-<P>§   1. Als de reële personeelsuitgaven en werkingskosten van het Steunpunt Adoptie   in een boekjaar minder bedragen dan de som van de subsidie die krachtens dit   besluit toegekend is, en de bijdragen, vermeld in artikel 23, tweede lid, worden   met dat overschot reserves opgebouwd. De aangelegde reserves moeten worden   opgenomen in de balans.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   reserves mogen alleen aangewend worden voor dezelfde doeleinden als de subsidie.   De aanwending van de reserves moet worden goedgekeurd door Kind en Gezin, tenzij   de reserves worden aangewend om het deficit van de werkingsperiode aan te   zuiveren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als de gecumuleerde reserves meer dan 50% van de laatst toegekende   jaarsubsidie van het Steunpunt Adoptie bedragen, wordt het bedrag in meer aan   Kind en Gezin teruggestort. Jaarlijks kan er maximaal 20% van de jaarsubsidie   als reserve worden opgebouwd. Als de opgebouwde reserves dat percentage   overschrijden, wordt het bedrag in meer teruggestort aan Kind en   Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Als het Steunpunt Adoptie zijn werking stopzet of zijn erkenning verliest,   worden de reserves die overblijven na aftrek van ontslagpremies en van kosten,   goedgekeurd door Kind en Gezin en de Inspectie van Financiën, integraal   teruggestort.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Als de reële personeelsuitgaven en werkingskosten van het Steunpunt Adoptie in een boekjaar minder bedragen dan de som van de subsidie die krachtens dit besluit toegekend is, en de bijdragen, vermeld in artikel 23, tweede lid, worden met dat overschot reserves opgebouwd. De aangelegde reserves moeten worden opgenomen in de balans.</p>
+
+<p>De reserves mogen alleen aangewend worden voor dezelfde doeleinden als de subsidie. De aanwending van de reserves moet worden goedgekeurd door het agentschap, tenzij de reserves worden aangewend om het deficit van de werkingsperiode aan te zuiveren.</p>
+
+<p>§ 2. Als de gecumuleerde reserves meer dan 50% van de laatst toegekende jaarsubsidie van het Steunpunt Adoptie bedragen, wordt het bedrag in meer aan het agentschap teruggestort. Jaarlijks kan er maximaal 20% van de jaarsubsidie als reserve worden opgebouwd. Als de opgebouwde reserves dat percentage overschrijden, wordt het bedrag in meer teruggestort aan het agentschap.</p>
+
+<p>§ 3. Als het Steunpunt Adoptie zijn werking stopzet of zijn erkenning verliest, worden de reserves die overblijven na aftrek van ontslagpremies en van kosten, goedgekeurd door het agentschap en de Inspectie van Financiën, integraal teruggestort.</p>
 
 ### ART. 26.
 
@@ -140,7 +165,7 @@ Het   Steunpunt Adoptie mag niet beleggen in effecten, fondsen of andere   waard
 
 ### ART. 27.
 
-Conform artikel 11 van het decreet van 20 januari 2012 erkent Kind en Gezin de dienst voor maatschappelijk onderzoek voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 6 van dit besluit.<br>
+Conform artikel 11 van het decreet van 20 januari 2012 erkent het agentschap de dienst voor maatschappelijk onderzoek voor een hernieuwbare periode van minimaal twee en maximaal vijf jaar, volgens de procedures, vermeld in hoofdstuk 6 van dit besluit.<br>
 <br>
 Het werkingsgebied van de dienst voor maatschappelijk onderzoek bestaat uit de provincies Antwerpen, Oost- en West-Vlaanderen, Limburg, Vlaams-Brabant en het Brusselse Hoofdstedelijke Gewest.".
 
@@ -171,11 +196,15 @@ De basissubsidie wordt, binnen het jaarlijks beschikbaar begrotingskrediet, verm
 2° maatschappelijke onderzoeken bij personen die al een kind hebben geadopteerd;<br>
 3° bijkomende maatschappelijke onderzoeken.</p>
 
-<p>§ 3. De dienst voor maatschappelijk onderzoek behoudt zijn recht op subsidie zolang hij erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikel 33 tot en met 36.</p>
+<p>§ 3. De dienst voor maatschappelijk onderzoek behoudt zijn recht op subsidie zolang hij erkend is door het agentschap en voldoet aan de subsidievoorschriften, vermeld in artikel 33 tot en met 36.</p>
 
 ### ART. 32.
 
-<P>§   1. Per semester en uiterlijk op het einde van de eerste maand van het semester   in kwestie keert Kind en Gezin aan de dienst voor maatschappelijk onderzoek een   voorschot uit. Het bedrag van dat voorschot bedraagt de helft van de jaarlijkse   basissubsidie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bijkomende bedrag, vermeld in artikel 31, § 1, tweede lid, wordt uitbetaald in   de loop van het daaropvolgende jaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als de dienst voor maatschappelijk onderzoek ertoe aangemaand wordt om de   tekorten weg te werken als vermeld in artikel 48 en 49, kan de uitbetaling van   de subsidie geheel of gedeeltelijk opgeschort worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Per semester en uiterlijk op het einde van de eerste maand van het semester in kwestie keert het agentschap aan de dienst voor maatschappelijk onderzoek een voorschot uit. Het bedrag van dat voorschot bedraagt de helft van de jaarlijkse basissubsidie.</p>
+
+<p>Het bijkomende bedrag, vermeld in artikel 31, § 1, tweede lid, wordt uitbetaald in de loop van het daaropvolgende jaar.</p>
+
+<p>§ 2. Als de dienst voor maatschappelijk onderzoek ertoe aangemaand wordt om de tekorten weg te werken als vermeld in artikel 48 en 49, kan de uitbetaling van de subsidie geheel of gedeeltelijk opgeschort worden.</p>
 
 ## Onderafdeling 2 Subsidievoorschriften
 
@@ -189,7 +218,13 @@ Ten   minste 70% en maximaal 85% van de subsidie die krachtens dit besluit toege
 
 ### ART. 35.
 
-<P>§   1. Als de reële personeelsuitgaven en werkingskosten van de dienst voor   maatschappelijk onderzoek in een boekjaar minder bedragen dan de subsidie die   krachtens dit besluit toegekend is, worden met dat overschot reserves opgebouwd.   De aangelegde reserves moeten worden opgenomen in de balans.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   reserves mogen alleen aangewend worden voor dezelfde doeleinden als de subsidie.   De aanwending van de reserves moet worden goedgekeurd door Kind en Gezin, tenzij   de reserves worden aangewend om het deficit van de werkingsperiode aan te   zuiveren.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als de gecumuleerde reserves 50% van de laatst toegekende jaarsubsidie van de   dienst voor maatschappelijk onderzoek overschrijden, wordt het bedrag in meer   aan Kind en Gezin teruggestort. Jaarlijks kan er maximaal 20% van de   jaarsubsidie als reserve worden opgebouwd. Als de opgebouwde reserves dat   percentage overschrijden, wordt het bedrag in meer teruggestort aan Kind en   Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Als de dienst voor maatschappelijk onderzoek zijn werking stopzet of zijn   erkenning verliest, worden de reserves die overblijven na aftrek van   ontslagpremies en van kosten, goedgekeurd door Kind en Gezin en de Inspectie van   Financiën, integraal teruggestort.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Als de reële personeelsuitgaven en werkingskosten van de dienst voor maatschappelijk onderzoek in een boekjaar minder bedragen dan de subsidie die krachtens dit besluit toegekend is, worden met dat overschot reserves opgebouwd. De aangelegde reserves moeten worden opgenomen in de balans.</p>
+
+<p>De reserves mogen alleen aangewend worden voor dezelfde doeleinden als de subsidie. De aanwending van de reserves moet worden goedgekeurd door het agentschap, tenzij de reserves worden aangewend om het deficit van de werkingsperiode aan te zuiveren.</p>
+
+<p>§ 2. Als de gecumuleerde reserves 50% van de laatst toegekende jaarsubsidie van de dienst voor maatschappelijk onderzoek overschrijden, wordt het bedrag in meer aan het agentschap teruggestort. Jaarlijks kan er maximaal 20% van de jaarsubsidie als reserve worden opgebouwd. Als de opgebouwde reserves dat percentage overschrijden, wordt het bedrag in meer teruggestort aan het agentschap.</p>
+
+<p>§ 3. Als de dienst voor maatschappelijk onderzoek zijn werking stopzet of zijn erkenning verliest, worden de reserves die overblijven na aftrek van ontslagpremies en van kosten, goedgekeurd door het agentschap en de Inspectie van Financiën, integraal teruggestort.</p>
 
 ### ART. 36.
 
@@ -219,19 +254,36 @@ Alle   bewijsstukken, waaronder de bewijsstukken die de uitgaven staven waarvoor
 
 ### ART. 41.
 
-<P>Een   aanvraag tot erkenning als Steunpunt Adoptie of dienst voor maatschappelijk   onderzoek moet met een aangetekende brief of met een brief tegen   ontvangstbevestiging ingediend worden bij Kind en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag, opgemaakt in de sjabloon die Kind en Gezin ter beschikking stelt,   bevat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de contactgegevens, de identiteit en de statuten van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden   voldaan is;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de motivering van de aanvraag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   een beleidsplan met strategische en operationele doelstellingen voor de duur van   de erkenning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   een verbintenis waarin de voorziening verklaart dat ze binnen een termijn van   één jaar aan de erkenningsvoorschriften zal voldoen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Een aanvraag tot erkenning als Steunpunt Adoptie of dienst voor maatschappelijk onderzoek moet met een aangetekende brief of met een brief tegen ontvangstbevestiging ingediend worden bij het agentschap.</p>
+
+<p>De aanvraag, opgemaakt in de sjabloon die het agentschap ter beschikking stelt, bevat:<br>
+1° de contactgegevens, de identiteit en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden voldaan is;<br>
+3° de motivering van de aanvraag;<br>
+4° een beleidsplan met strategische en operationele doelstellingen voor de duur van de erkenning;<br>
+5° een verbintenis waarin de voorziening verklaart dat ze binnen een termijn van één jaar aan de erkenningsvoorschriften zal voldoen.</p>
 
 ### ART. 42.
 
-<P>Kind   en Gezin onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig   kalenderdagen na de ontvangst van de aanvraag deelt Kind en Gezin de aanvrager   met een aangetekende brief mee of zijn aanvraag ontvankelijk is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin behandelt ontvankelijke aanvragen binnen een termijn van drie maanden   na de ontvangst ervan. De postdatum geldt daarbij als bewijs.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig kalenderdagen na de ontvangst van de aanvraag deelt het agentschap de aanvrager met een aangetekende brief mee of zijn aanvraag ontvankelijk is.</p>
+
+<p>Het agentschap behandelt ontvankelijke aanvragen binnen een termijn van drie maanden na de ontvangst ervan. De postdatum geldt daarbij als bewijs.</p>
 
 ### ART. 43.
 
-<P>Kind   en Gezin kan aanvullende informatie vragen aan de aanvrager van een   ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn   geschorst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager bezorgt de gevraagde aanvullende informatie aan Kind en Gezin binnen   vijftien kalenderdagen. Zo niet neemt Kind en Gezin een beslissing zonder   aanvullende informatie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap kan aanvullende informatie vragen aan de aanvrager van een ontvankelijke aanvraag. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>De aanvrager bezorgt de gevraagde aanvullende informatie aan het agentschap binnen vijftien kalenderdagen. Zo niet neemt het agentschap een beslissing zonder aanvullende informatie.</p>
 
 ### ART. 44.
 
-<P>Kind   en Gezin neemt op basis van de gegevens, vermeld in artikel 41, tweede lid, een   gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering   van de erkenning. Als geen enkele aanvrager bezwaar kan aantekenen omdat er niet   voldaan is aan een van de voorwaarden, vermeld in artikel 52, neemt Kind en   Gezin een definitieve beslissing.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin brengt de aanvrager met een aangetekende brief op de hoogte van de   voorgenomen of definitieve beslissing. Die kennisgeving vermeldt   minstens:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit en de contactgegevens van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de voorgenomen of definitieve beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering   van de bestuurshandelingen, de motivering van de voorgenomen of definitieve   beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de bezwaarprocedure, in geval van een voorgenomen beslissing.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap neemt op basis van de gegevens, vermeld in artikel 41, tweede lid, een gemotiveerd voornemen tot erkenning of een gemotiveerd voornemen tot weigering van de erkenning. Als geen enkele aanvrager bezwaar kan aantekenen omdat er niet voldaan is aan een van de voorwaarden, vermeld in artikel 52, neemt het agentschap een definitieve beslissing.</p>
+
+<p>Het agentschap brengt de aanvrager met een aangetekende brief op de hoogte van de voorgenomen of definitieve beslissing. Die kennisgeving vermeldt minstens:<br>
+1° de identiteit en de contactgegevens van de aanvrager;<br>
+2° de voorgenomen of definitieve beslissing;<br>
+3° overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen, de motivering van de voorgenomen of definitieve beslissing;<br>
+4° de bezwaarprocedure, in geval van een voorgenomen beslissing.</p>
 
 ### ART. 45.
 
@@ -241,7 +293,13 @@ Als   er geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in artik
 
 ### ART. 46.
 
-<P>De   aanvraag tot hernieuwing van de erkenning als Steunpunt Adoptie of dienst voor   maatschappelijk onderzoek wordt uiterlijk zes maanden voor de erkenning   verstrijkt, ingediend bij Kind en Gezin met een aangetekende brief of met een   brief tegen ontvangstbevestiging.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag, opgemaakt in de sjabloon die Kind en Gezin ter beschikking stelt,   bevat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de contactgegevens, de identiteit en de statuten van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en   -voorschriften voldaan is;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   een evaluatie van het beleidsplan, vermeld in artikel 41, tweede lid, 4°   ;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   een beleidsplan met strategische en operationele doelstellingen voor de nieuwe   erkenningsperiode.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De aanvraag tot hernieuwing van de erkenning als Steunpunt Adoptie of dienst voor maatschappelijk onderzoek wordt uiterlijk zes maanden voor de erkenning verstrijkt, ingediend bij het agentschap met een aangetekende brief of met een brief tegen ontvangstbevestiging.</p>
+
+<p>De aanvraag, opgemaakt in de sjabloon die het agentschap ter beschikking stelt, bevat:<br>
+1° de contactgegevens, de identiteit en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en -voorschriften voldaan is;<br>
+3° een evaluatie van het beleidsplan, vermeld in artikel 41, tweede lid, 4° ;<br>
+4° een beleidsplan met strategische en operationele doelstellingen voor de nieuwe erkenningsperiode.</p>
 
 ### ART. 47.
 
@@ -251,7 +309,9 @@ De   procedure verloopt verder conform artikel 42 tot en met 45.<BR   style="WHI
 
 ### ART. 48.
 
-<P>Kind   en Gezin moet voor het nemen van een voorgenomen beslissing tot opheffing of   schorsing van de erkenning een aanmaning sturen. Tenzij zich een situatie   voordoet die, als ze blijft duren, de essentiële belangen van de betrokkenen met   betrekking tot de gezondheid, de veiligheid of het welzijn zou kunnen aantasten.   In dat geval kan onmiddellijk tot opheffing of schorsing van de erkenning worden   overgegaan.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanmaning wordt aangetekend of met een deurwaardersexploot verstuurd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap moet voor het nemen van een voorgenomen beslissing tot opheffing of schorsing van de erkenning een aanmaning sturen. Tenzij zich een situatie voordoet die, als ze blijft duren, de essentiële belangen van de betrokkenen met betrekking tot de gezondheid, de veiligheid of het welzijn zou kunnen aantasten. In dat geval kan onmiddellijk tot opheffing of schorsing van de erkenning worden overgegaan.</p>
+
+<p>De aanmaning wordt aangetekend of met een deurwaardersexploot verstuurd.</p>
 
 ### ART. 49.
 
@@ -259,7 +319,15 @@ De   aanmaning, vermeld in artikel 48, vermeldt:<BR   style="WHITE-SPACE: normal
 
 ### ART. 50.
 
-<P>§   1. Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt   Kind en Gezin een voorgenomen beslissing tot opheffing of schorsing van de   erkenning.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin betekent de voorgenomen beslissing met een aangetekende zending of met   een deurwaardersexploot binnen drie maanden na afloop van de opgegeven termijn   in de aanmaning.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De voorgenomen beslissing vermeldt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit en de contactgegevens van het Steunpunt Adoptie of de dienst voor   maatschappelijk onderzoek;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering   van de bestuurshandelingen, de motivering van de voorgenomen   beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de mogelijke directe sancties;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de bezwaarprocedure.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt het agentschap een voorgenomen beslissing tot opheffing of schorsing van de erkenning.</p>
+
+<p>Het agentschap betekent de voorgenomen beslissing met een aangetekende zending of met een deurwaardersexploot binnen drie maanden na afloop van de opgegeven termijn in de aanmaning.</p>
+
+<p>§ 2. De voorgenomen beslissing vermeldt:<br>
+1° de identiteit en de contactgegevens van het Steunpunt Adoptie of de dienst voor maatschappelijk onderzoek;<br>
+2° overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen, de motivering van de voorgenomen beslissing;<br>
+3° de mogelijke directe sancties;<br>
+4° de bezwaarprocedure.</p>
 
 ### ART. 51.
 
@@ -269,11 +337,16 @@ Als   er geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in artik
 
 ### ART. 52.
 
-Er   kan bij Kind en Gezin bezwaar aangetekend worden tegen de voorgenomen beslissing   tot:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   weigering van de erkenningsaanvraag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   opheffing of schorsing van de erkenning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   weigering van de hernieuwing van de erkenning.
+Er kan bij het agentschap bezwaar aangetekend worden tegen de voorgenomen beslissing tot:<br>
+1° weigering van de erkenningsaanvraag;<br>
+2° opheffing of schorsing van de erkenning;<br>
+3° weigering van de hernieuwing van de erkenning.
 
 ### ART. 53.
 
-<P>Het   gemotiveerde bezwaarschrift moet, op straffe van niet-ontvankelijkheid,   ingediend worden uiterlijk dertig kalenderdagen na de datum van de betekening   van een voorgenomen beslissing als vermeld in artikel 52. De postdatum geldt   daarbij als bewijs.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bezwaarschrift moet met een aangetekende brief of met een brief tegen   ontvangstbevestiging aan Kind en Gezin worden bezorgd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het gemotiveerde bezwaarschrift moet, op straffe van niet-ontvankelijkheid, ingediend worden uiterlijk dertig kalenderdagen na de datum van de betekening van een voorgenomen beslissing als vermeld in artikel 52. De postdatum geldt daarbij als bewijs.</p>
+
+<p>Het bezwaarschrift moet met een aangetekende brief of met een brief tegen ontvangstbevestiging aan het agentschap worden bezorgd.</p>
 
 ### ART. 54.
 
@@ -281,7 +354,9 @@ Het   bezwaarschrift bevat, op straffe van niet-ontvankelijkheid, de volgende   
 
 ### ART. 55.
 
-<P>Kind   en Gezin onderzoekt de ontvankelijkheid van het bezwaarschrift. Binnen vijftien   kalenderdagen na de ontvangst ervan deelt Kind en Gezin de indiener met een   aangetekende brief mee of zijn bezwaarschrift ontvankelijk is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bezwaar is ontvankelijk als het de elementen, vermeld in artikel 54, bevat en   tijdig aan Kind en Gezin is bezorgd met een aangetekende brief of met een brief   tegen ontvangstbevestiging.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap onderzoekt de ontvankelijkheid van het bezwaarschrift. Binnen vijftien kalenderdagen na de ontvangst ervan deelt het agentschap de indiener met een aangetekende brief mee of zijn bezwaarschrift ontvankelijk is.</p>
+
+<p>Het bezwaar is ontvankelijk als het de elementen, vermeld in artikel 54, bevat en tijdig aan het agentschap is bezorgd met een aangetekende brief of met een brief tegen ontvangstbevestiging.</p>
 
 ### ART. 56.
 
