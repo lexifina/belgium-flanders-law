@@ -8,11 +8,21 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder : <BR>1° gebruikers : al wie   plaatselijk een beroep doet op kinderopvang en behoefte heeft aan   kinderopvang;<BR>2° Kind en Gezin : het intern verzelfstandigd agentschap met   rechtspersoonlijkheid, opgericht bij het decreet van 30 april 2004 tot   oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid   Kind en Gezin; <BR>3° lokaal bestuur : de gemeente en het Openbaar Centrum voor   Maatschappelijk Welzijn. Voor de gemeenten uit het tweetalige gebied   Brussel-Hoofdstad wordt de taak van het lokaal bestuur opgenomen door de Vlaamse   Gemeenschapscommissie;<BR>4° Lokaal Overleg Kinderopvang : een adviesraad van   het lokaal bestuur betreffende het lokaal beleid kinderopvang, voor de gemeenten   uit het tweetalige gebied Brussel-Hoofdstad een adviesraad van de Vlaamse   Gemeenschapscommissie;<BR>5° lokale actor : al wie plaatselijk een functie   vervult in de kinderopvang en al wie invulling geeft aan de vrije tijd van   kinderen voor en zolang ze naar de basisschool gaan;<BR>6° strategische   meerjarenplanning : de meerjarenplanning van de gemeenten en openbare centra   voor maatschappelijk welzijn, vermeld in artikel 146 van het Gemeentedecreet van   15 juli 2005 en artikel 146 van het decreet van 19 december 2008 betreffende de   organisatie van de openbare centra voor maatschappelijk   welzijn.<BR>
+&nbsp;In dit besluit wordt verstaan onder :<br>
+1° gebruikers : al wie plaatselijk een beroep doet op kinderopvang en behoefte heeft aan kinderopvang;<br>
+2° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+3° lokaal bestuur : de gemeente en het Openbaar Centrum voor Maatschappelijk Welzijn. Voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad wordt de taak van het lokaal bestuur opgenomen door de Vlaamse Gemeenschapscommissie;<br>
+4° Lokaal Overleg Kinderopvang : een adviesraad van het lokaal bestuur betreffende het lokaal beleid kinderopvang, voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad een adviesraad van de Vlaamse Gemeenschapscommissie;<br>
+5° lokale actor : al wie plaatselijk een functie vervult in de kinderopvang en al wie invulling geeft aan de vrije tijd van kinderen voor en zolang ze naar de basisschool gaan;<br>
+6° strategische meerjarenplanning : de meerjarenplanning van de gemeenten en openbare centra voor maatschappelijk welzijn, vermeld in artikel 146 van het Gemeentedecreet van 15 juli 2005 en artikel 146 van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.
 
 ### ART. 2.
 
-Het lokaal bestuur heeft een taak betreffende het lokaal beleid   kinderopvang. Die taak houdt in dat het lokaal bestuur : <BR>1° een Lokaal   Overleg Kinderopvang opricht;<BR>2° beleidsdoelstellingen voor kinderopvang   bepaalt;<BR>3° een advies kan geven aan Kind en Gezin over de uitbreiding van de   kinderopvang binnen het eigen grondgebied;<BR>4° lokale actoren en gebruikers   informeert.<BR>
+Het lokaal bestuur heeft een taak betreffende het lokaal beleid kinderopvang. Die taak houdt in dat het lokaal bestuur :<br>
+1° een Lokaal Overleg Kinderopvang opricht;<br>
+2° beleidsdoelstellingen voor kinderopvang bepaalt;<br>
+3° een advies kan geven aan het agentschap over de uitbreiding van de kinderopvang binnen het eigen grondgebied;<br>
+4° lokale actoren en gebruikers informeert.
 
 ## HOOFDSTUK 2 Lokaal Overleg Kinderopvang oprichten
 
@@ -38,7 +48,9 @@ Het lokaal bestuur neemt de beleidsdoelstellingen voor kinderopvang op in   de s
 
 ### ART. 7.
 
-<P>Het lokaal bestuur kan Kind en Gezin een advies geven over de uitbreiding van   de kinderopvang binnen het eigen grondgebied. <BR></P>  <P>Dat advies is gebaseerd op de strategische meerjarenplanning, en voor de   gemeenten uit het tweetalige gebied Brussel-Hoofdstad op de beleidsnota, vermeld   in artikel 6.<BR></P>
+<p>Het lokaal bestuur kan het agentschap een advies geven over de uitbreiding van de kinderopvang binnen het eigen grondgebied.</p>
+
+<p>Dat advies is gebaseerd op de strategische meerjarenplanning, en voor de gemeenten uit het tweetalige gebied Brussel-Hoofdstad op de beleidsnota, vermeld in artikel 6.</p>
 
 ## HOOFDSTUK 5 Lokale actoren en gebruikers informeren
 
