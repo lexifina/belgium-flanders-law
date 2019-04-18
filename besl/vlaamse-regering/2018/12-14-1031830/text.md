@@ -21,13 +21,14 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.<br>
+1°/1 decreet van 20 april 2012: het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters;<br>
 2° Huis van het Kind: het lokale samenwerkingsverband, vermeld in artikel 7 van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning.
 
 ### ART 2.
 
-Kind en Gezin kent een subsidie toe aan elk lokaal loket kinderopvang dat:<br>
-1° een aanvraag van een subsidie als vermeld in artikel 7 van dit besluit, indient bij Kind en Gezin;<br>
+Het agentschap&nbsp;kent een subsidie toe aan elk lokaal loket kinderopvang dat:<br>
+1° een aanvraag van een subsidie als vermeld in artikel 7 van dit besluit, indient bij het agentschap;<br>
 2° de vorm heeft van een private of publieke rechtspersoon zonder winstoogmerk;<br>
 3° de opdrachten, vermeld in artikel 13 van het decreet van 20 april 2012 en in artikel 3 van dit besluit, opneemt.
 
@@ -39,7 +40,7 @@ De opdrachten van het lokaal loket kinderopvang, vermeld in artikel 13 van het d
 1° het aantal unieke opvangvragen bij het lokaal loket kinderopvang registreren, met aparte vermelding van onbeantwoorde vragen, volgens de rubrieken, vermeld in het tweede lid;<br>
 2° gezinnen informeren over de beschikbare opvangplaatsen met aandacht voor de verschillende opvangvragen, vermeld in het tweede lid;<br>
 3° meewerken aan de doelstellingen van het Huis van het Kind, wanneer er een Huis van het Kind actief is binnen de gemeente;<br>
-4° de geregistreerde gegevens, vermeld in punt 1°, jaarlijks elektronisch bezorgen aan Kind en Gezin, conform de administratieve richtlijnen van Kind en Gezin;<br>
+4° de geregistreerde gegevens, vermeld in punt 1°, jaarlijks elektronisch bezorgen aan het agentschap, conform de administratieve richtlijnen van het agentschap;<br>
 5° de geregistreerde gegevens, vermeld in punt 1°, openbaar maken.<br>
 <br>
 De gegevens worden geregistreerd in de volgende rubrieken:<br>
@@ -75,7 +76,7 @@ De subsidie wordt betaald met een voorschot van 80% per kwartaal, behalve in gev
 
 ### ART 6.
 
-De subsidie wordt aangerekend op de begroting van Kind en Gezin.<br>
+De subsidie wordt aangerekend op de begroting van het agentschap.<br>
 <br>
 De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgavenbegroting van de Vlaamse overheid.
 
@@ -83,9 +84,9 @@ De subsidie kan alleen toegekend worden binnen de perken van de algemene uitgave
 
 ### ART 7.
 
-De aanvraag van een subsidie wordt elektronisch ingediend, conform de administratieve richtlijnen van Kind en Gezin. De aanvraag bevat de volgende gegevens:<br>
+De aanvraag van een subsidie wordt elektronisch ingediend, conform de administratieve richtlijnen van het agentschap. De aanvraag bevat de volgende gegevens:<br>
 1° de gegevens over het lokaal loket kinderopvang: de naam, de rechtsvorm, het adres en het ondernemingsnummer;<br>
-2° de gegevens over de contactpersoon voor Kind en Gezin en voor de gezinnen: de voor- en achternaam, het telefoonnummer en het e-mailadres;<br>
+2° de gegevens over de contactpersoon voor het agentschap en voor de gezinnen: de voor- en achternaam, het telefoonnummer en het e-mailadres;<br>
 3° het werkingsgebied van het lokaal loket kinderopvang;<br>
 4° de datum vanaf wanneer het lokaal loket kinderopvang de subsidie wil ontvangen;<br>
 5° het rekeningnummer, de rekeninghouder en de contactgegevens van een financieel contactpersoon;<br>
@@ -98,26 +99,26 @@ d) dat de persoon die de aanvraag indient, gemachtigd is om te handelen in naam 
 
 ### ART 8.
 
-Kind en Gezin neemt uiterlijk dertig kalenderdagen na de ontvangst van de volledige aanvraag een beslissing tot toekenning of weigering van de subsidie.
+Het agentschap&nbsp;neemt uiterlijk dertig kalenderdagen na de ontvangst van de volledige aanvraag een beslissing tot toekenning of weigering van de subsidie.
 
 ### ART 9.
 
-De subsidie gaat op zijn vroegst in vanaf de dag van de beslissing van Kind en Gezin en geldt voor onbepaalde duur, onder voorbehoud van de bepalingen, vermeld in artikel 13.
+De subsidie gaat op zijn vroegst in vanaf de dag van de beslissing van het agentschap en geldt voor onbepaalde duur, onder voorbehoud van de bepalingen, vermeld in artikel 13.
 
 ### ART 10.
 
-Het lokaal loket kinderopvang kan uiterlijk dertig kalenderdagen na de kennisgeving van de beslissing bezwaar aantekenen bij Kind en Gezin met een aangetekende brief. De aangetekende brief moet de volgende gegevens bevatten:<br>
+Het lokaal loket kinderopvang kan uiterlijk dertig kalenderdagen na de kennisgeving van de beslissing bezwaar aantekenen bij het agentschap met een aangetekende brief. De aangetekende brief moet de volgende gegevens bevatten:<br>
 1° de naam en het ondernemingsnummer van het lokaal loket kinderopvang;<br>
 2° de motivering van het bezwaar;<br>
 3° de datum en de handtekening van de persoon die gemachtigd is om te handelen in naam van het lokaal loket kinderopvang.<br>
 <br>
 De termijn voor het aantekenen van bezwaar begint te lopen vanaf de derde werkdag die volgt op de dag waarop de brief aan de postdiensten overhandigd is, tenzij de geadresseerde het tegendeel bewijst. Voor de berekening van de termijn is de vervaldag in de termijn begrepen. Als de vervaldag een zaterdag, een zondag of een wettelijke feestdag is wordt de vervaldag verplaatst naar de eerstvolgende werkdag.<br>
 <br>
-Kind en Gezin stuurt een elektronische ontvangstmelding en beslist over de ontvankelijkheid van het bezwaar uiterlijk tien kalenderdagen na de datum van de ontvangst van het bezwaar. Het bezwaar is ontvankelijk als het bezwaar aan de volgende voorwaarden voldoet. Het bezwaar:<br>
-1° is tijdig en aangetekend aan Kind en Gezin bezorgd;<br>
+Het agentschap&nbsp;stuurt een elektronische ontvangstmelding en beslist over de ontvankelijkheid van het bezwaar uiterlijk tien kalenderdagen na de datum van de ontvangst van het bezwaar. Het bezwaar is ontvankelijk als het bezwaar aan de volgende voorwaarden voldoet. Het bezwaar:<br>
+1° is tijdig en aangetekend aan het agentschap bezorgd;<br>
 2° bevat de nodige gegevens.<br>
 <br>
-Kind en Gezin neemt een definitieve beslissing over het bezwaar uiterlijk 90 kalenderdagen na de beslissing over de ontvankelijkheid.<br>
+Het agentschap&nbsp;neemt een definitieve beslissing over het bezwaar uiterlijk 90 kalenderdagen na de beslissing over de ontvankelijkheid.<br>
 <br>
 Het bezwaar schort de uitvoering van de beslissing niet op.
 
@@ -125,17 +126,17 @@ Het bezwaar schort de uitvoering van de beslissing niet op.
 
 ### ART 11.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit.
+Het agentschap&nbsp;ziet toe op de naleving van de bepalingen van dit besluit.
 
 ### ART 12.
 
-Als wordt vastgesteld dat een lokaal loket kinderopvang de bepalingen, vermeld in dit besluit, niet naleeft, wordt het lokaal loket kinderopvang schriftelijk aangemaand door Kind en Gezin. De aanmaning vermeldt een termijn waarin het lokaal loket kinderopvang moet voldoen aan de niet-nageleefde bepalingen, en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen. Bij dringende noodzakelijkheid kan de aanmaning achterwege gelaten worden.
+Als wordt vastgesteld dat een lokaal loket kinderopvang de bepalingen, vermeld in dit besluit, niet naleeft, wordt het lokaal loket kinderopvang schriftelijk aangemaand door het agentschap. De aanmaning vermeldt een termijn waarin het lokaal loket kinderopvang moet voldoen aan de niet-nageleefde bepalingen, en kan specifieke voorwaarden bevatten om te voldoen aan de niet-nageleefde bepalingen. Bij dringende noodzakelijkheid kan de aanmaning achterwege gelaten worden.
 
 ### ART 13.
 
-Kind en Gezin kan de subsidie schorsen of stopzetten.<br>
+Het agentschap&nbsp;kan de subsidie schorsen of stopzetten.<br>
 <br>
-Kind en Gezin beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
+Het agentschap&nbsp;beslist tot terugvordering van de subsidie conform artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.
 
 ## HOOFDSTUK 6. Slotbepalingen
 
@@ -144,7 +145,7 @@ Kind en Gezin beslist tot terugvordering van de subsidie conform artikel 57 van 
 Het lokaal loket kinderopvang dat voldoet aan de voorwaarden, vermeld in het tweede lid, kan gedurende een overgangsperiode van twee jaar beroep doen op een aanvullend subsidiebedrag, vermeld in het derde lid.<br>
 <br>
 Het lokaal loket kinderopvang:<br>
-1° krijgt voor 31 maart 2019 een subsidie van Kind en Gezin op basis van artikel 39 van het besluit van de Vlaamse Regering van 27 november 2015 houdende de voorwaarden voor de erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning groepsopvang en een plussubsidie, en van artikel 33, 34, 35 en 36 van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord;<br>
+1° krijgt voor 31 maart 2019 een subsidie van het agentschap op basis van artikel 39 van het besluit van de Vlaamse Regering van 27 november 2015 houdende de voorwaarden voor de erkenning en de subsidiëring van gemandateerde voorzieningen, coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, de voorwaarden voor de toestemming en de subsidiëring van lokale diensten buurtgerichte buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor organisatoren met een vergunning groepsopvang en een plussubsidie, en van artikel 33, 34, 35 en 36 van het besluit van de Vlaamse Regering van 17 maart 2017 betreffende de subsidiëring van de organisatoren kinderopvang en buitenschoolse opvang ter uitvoering van het Vlaams Intersectoraal Akkoord;<br>
 2° gebruikt de subsidie, vermeld in punt 1°, effectief voor de opdrachten, vermeld in artikel 13, eerste lid, van het decreet van 20 april 2012;<br>
 3° heeft een beslissing tot toekenning van de subsidie, vermeld in artikel 4, en dit subsidiebedrag is lager dan de subsidie, vermeld in punt 1°.<br>
 <br>
