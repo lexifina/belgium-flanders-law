@@ -10,13 +10,19 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ### ART. 1.
 
-Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, is dit besluit van toepassing op het personeel van Kind en Gezin.<br /><br />Dit besluit doet geen afbreuk aan de wettelijke, decretale of reglementaire bepalingen, die op specifieke categorieën van het personeel van Kind en Gezin van toepassing zijn.<br /><br />
+Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, is dit besluit van toepassing op het personeel van het agentschap Opgroeien regie.<br>
+<br>
+Dit besluit doet geen afbreuk aan de wettelijke, decretale of reglementaire bepalingen, die op specifieke categorieën van het personeel van het agentschap Opgroeien regie van toepassing zijn.<br>
+&nbsp;
 
 ## Afdeling II Algemene bepalingen
 
 ### ART. 2.
 
-In aanvulling op artikel I 2 van het VPS, wordt voor de toepassing van dit besluit verstaan onder :<br />1°VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br />2° de entiteit : Kind en Gezin;<br /><br />
+In aanvulling op artikel I 2 van het VPS, wordt voor de toepassing van dit besluit verstaan onder :<br>
+1°VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br>
+2° agentschap Opgroeien regie: het intern verzelfstandigd agentschap met rechtspersoonlijkheid dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie.<br>
+&nbsp;
 
 ## HOOFDSTUK II [De administratieve loopbaan (verv. BVR 23 december 2011, art. 1, I: 18 februari 2012)]
 
@@ -58,7 +64,11 @@ De salarisschalen A121C, A122C, A123C, A221P en A222P zijn opgenomen in bijlage 
 
 ### ART. 6.
 
-§ 1. Aan het personeelslid dat tewerkgesteld is in de backoffice van Kind en Gezin, wordt een toelage toegekend van 1.900 euro (100 %) op jaarbasis.<br /><br />§ 2. De toelage wordt toegekend naar rata van de prestaties van tewerkstelling in de backoffice.<br /><br />De toelage wordt berekend en betaald volgens de bepalingen van artikel VII 15, eerste lid, artikel VII 16 en artikel VII 17 van het VPS.
+§ 1. Aan het personeelslid dat tewerkgesteld is in de backoffice van het agentschap Opgroeien regie, wordt een toelage toegekend van 1.900 euro (100 %) op jaarbasis.<br>
+<br>
+§ 2. De toelage wordt toegekend naar rata van de prestaties van tewerkstelling in de backoffice.<br>
+<br>
+De toelage wordt berekend en betaald volgens de bepalingen van artikel VII 15, eerste lid, artikel VII 16 en artikel VII 17 van het VPS.
 
 ## Afdeling III [Verhoogde rente in geval van arbeidsongeval en ongeval op de weg naar en van het werk (verv. BVR 23 december 2011, art. 3, I: 18 februari 2012)]
 
