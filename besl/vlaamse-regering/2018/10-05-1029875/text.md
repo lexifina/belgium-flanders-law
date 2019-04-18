@@ -30,9 +30,9 @@ In dit besluit wordt verstaan onder:<br>
 
 ### ART 2.
 
-De private uitbetalingsactoren ontvangen jaarlijks een subsidie van Kind en Gezin, voor de uitbetaling van de toelagen in het kader van het gezinsbeleid die vastgesteld en toegekend wordt overeenkomstig artikel 30/1 van het decreet van 7 juli 2017 en conform artikel 3 tot en met 6, artikel 11 en 12 van dit besluit.<br>
+De private uitbetalingsactoren ontvangen jaarlijks een subsidie van het agentschap Opgroeien regie, voor de uitbetaling van de toelagen in het kader van het gezinsbeleid die vastgesteld en toegekend wordt overeenkomstig artikel 30/1 van het decreet van 7 juli 2017 en conform artikel 3 tot en met 6, artikel 11 en 12 van dit besluit.<br>
 <br>
-Elke transactie met betrekking tot de subsidie voor de toelagen in het kader van het gezinsbeleid en met betrekking tot de toelagenreserves, vermeld in artikel 12 gebeurt ten aanzien van Kind en Gezin.<br>
+Elke transactie met betrekking tot de subsidie voor de toelagen in het kader van het gezinsbeleid en met betrekking tot de toelagenreserves, vermeld in artikel 12 gebeurt ten aanzien van het agentschap Opgroeien regie.<br>
 <br>
 De private uitbetalingsactoren ontvangen van het agentschap jaarlijks een subsidie voor de werkingskosten, die vastgesteld en toegekend wordt overeenkomstig artikel 30/2 tot en met 30/4 van het voormelde decreet en conform artikel 3, artikel 7 tot en met 11 en artikel 13 en 14 van dit besluit.<br>
 <br>
@@ -40,25 +40,25 @@ Elke transactie met betrekking tot de subsidie voor werkingskosten en met betrek
 
 ### ART 3.
 
-Een private uitbetalingsactor heeft recht op de subsidies, vermeld in artikel 2, als hij voldoet aan alle vergunningsvoorwaarden vermeld in artikel 27 en 28 van het decreet van 7 juli 2017 en de vereiste verantwoording bezorgt met betrekking tot de aanwending van deze subsidies, in de vorm en binnen de termijn zoals gevraagd door Kind en Gezin of het agentschap.
+Een private uitbetalingsactor heeft recht op de subsidies, vermeld in artikel 2, als hij voldoet aan alle vergunningsvoorwaarden vermeld in artikel 27 en 28 van het decreet van 7 juli 2017 en de vereiste verantwoording bezorgt met betrekking tot de aanwending van deze subsidies, in de vorm en binnen de termijn zoals gevraagd door het agentschap Opgroeien regie of het agentschap.
 
 ## Afdeling 2. Procedure voor de vaststelling en toekenning van de subsidie voor de uitbetaling van toelagen in het kader van het gezinsbeleid
 
 ### ART 4.
 
-Ten laatste de twintigste van elke maand, bezorgen de private uitbetalingsactoren aan Kind en Gezin, op digitale wijze, een nauwkeurige raming van de financiële middelen die zij in de volgende maand nodig hebben voor de betaling van de toelagen in het kader van het gezinsbeleid.<br>
+Ten laatste de twintigste van elke maand, bezorgen de private uitbetalingsactoren aan het agentschap Opgroeien regie, op digitale wijze, een nauwkeurige raming van de financiële middelen die zij in de volgende maand nodig hebben voor de betaling van de toelagen in het kader van het gezinsbeleid.<br>
 <br>
-Kind en Gezin kan de in het eerste lid vastgelegde procedure wijzigen, indien de raming van de uit te betalen toelagen in het kader van het gezinsbeleid, kan berekend worden vanuit het kadaster.
+Het agentschap Opgroeien regie kan de in het eerste lid vastgelegde procedure wijzigen, indien de raming van de uit te betalen toelagen in het kader van het gezinsbeleid, kan berekend worden vanuit het kadaster.
 
 ### ART 5.
 
-Het agentschap stelt, in overleg met Kind en Gezin, de betaalkalender met de vervaldagen voor de uitbetaling van de toelagen in het kader van het gezinsbeleid op.<br>
+Het agentschap stelt, in overleg met het agentschap Opgroeien regie, de betaalkalender met de vervaldagen voor de uitbetaling van de toelagen in het kader van het gezinsbeleid op.<br>
 <br>
-Op elk van de vervaldagen, vastgesteld overeenkomstig het eerste lid, verstrekt Kind en Gezin de financiële middelen, vereist voor de uitbetaling van de toelagen in het kader van het gezinsbeleid aan de private uitbetalingsactor.
+Op elk van de vervaldagen, vastgesteld overeenkomstig het eerste lid, verstrekt het agentschap Opgroeien regie de financiële middelen, vereist voor de uitbetaling van de toelagen in het kader van het gezinsbeleid aan de private uitbetalingsactor.
 
 ### ART 6.
 
-Als een private uitbetalingsactor in de loop van een maand vaststelt dat de aangevraagde financiële middelen niet volstaan voor de uitbetaling van de toelagen op een van de vastgestelde vervaldata, vraagt hij op de door Kind en Gezin vastgestelde wijze, om een aanvullend voorschot. De uitbetalingsactor gebruikt, vooraleer een aanvullend voorschot te vragen, in eerste instantie de middelen van de toelagenreserves om de tekorten te dekken.<br>
+Als een private uitbetalingsactor in de loop van een maand vaststelt dat de aangevraagde financiële middelen niet volstaan voor de uitbetaling van de toelagen op een van de vastgestelde vervaldata, vraagt hij op de door het agentschap Opgroeien regie vastgestelde wijze, om een aanvullend voorschot. De uitbetalingsactor gebruikt, vooraleer een aanvullend voorschot te vragen, in eerste instantie de middelen van de toelagenreserves om de tekorten te dekken.<br>
 <br>
 Als een private uitbetalingsactor in de loop van een maand vaststelt dat de financiële middelen die hem ter beschikking zijn gesteld om redenen die hij niet kon voorzien, hoger zijn dan nodig, dient hij deze zo snel mogelijk aan te wenden bij de volgende betaling van de toelagen in het kader van het gezinsbeleid.
 
@@ -118,14 +118,14 @@ De minister stelt het te volgen boekhoudplan vast voor de private uitbetalingsac
 <br>
 De toelagenreserves van een private uitbetalingsactor bedragen op 31 december van het boekjaar, niet meer dan een percent van het bedrag van de toelagen in het kader van het gezinsbeleid, betaald door de private uitbetalingsactor tijdens datzelfde boekjaar.<br>
 <br>
-Indien dit plafond wordt overschreden, wordt het overschot aan Kind en Gezin gestort tijdens het volgende boekjaar. De private uitbetalingsactor die zijn overschot niet binnen de door Kind en Gezin vastgestelde termijn heeft gestort, is van rechtswege wettelijke interesten verschuldigd.<br>
+Indien dit plafond wordt overschreden, wordt het overschot aan het agentschap Opgroeien regie gestort tijdens het volgende boekjaar. De private uitbetalingsactor die zijn overschot niet binnen de door het agentschap Opgroeien regie vastgestelde termijn heeft gestort, is van rechtswege wettelijke interesten verschuldigd.<br>
 <br>
-Kind en Gezin kan op elk moment vragen om de toelagenreserves, geheel of gedeeltelijk, binnen een bepaalde termijn terug te storten.<br>
+Het agentschap Opgroeien regie kan op elk moment vragen om de toelagenreserves, geheel of gedeeltelijk, binnen een bepaalde termijn terug te storten.<br>
 <br>
 § 3. Op 31 december van elk boekjaar, dekken de toelagenreserves:<br>
 1° de financiële rekening, bestemd voor de uitbetaling van de toelagen in het kader van het gezinsbeleid;<br>
 2° de ten onrechte uitbetaalde toelagen in het kader van het gezinsbeleid die niet kunnen teruggevorderd worden wegens de verjaring vermeld in artikel 95 tot en met 99 van het decreet van 27 april 2018;<br>
-3° de verliezen die veroorzaakt zijn door elke andere oorzaak, mits het voorafgaand akkoord van Kind en Gezin.<br>
+3° de verliezen die veroorzaakt zijn door elke andere oorzaak, mits het voorafgaand akkoord van het agentschap Opgroeien regie.<br>
 <br>
 De minister kan nadere regels vastleggen in verband met het beheer en de aanwending van de toelagenreserves.
 
