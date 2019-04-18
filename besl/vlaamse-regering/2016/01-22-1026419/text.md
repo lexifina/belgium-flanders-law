@@ -18,7 +18,7 @@ Ter   uitvoering van artikel 6, tweede lid, van het decreet van 21 juni 2013 ver
 
 ### ART. 4.
 
-&nbsp;De Meldpunten verwerken de   persoonsgegevens, vermeld in artikel 3, met een digitaal systeem dat Kind en   Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, ter   beschikking stelt.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;De Meldpunten verwerken de persoonsgegevens, vermeld in artikel 3, met een digitaal systeem dat Opgroeien regie, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, ter beschikking stelt.
 
 ### ART. 5.
 
