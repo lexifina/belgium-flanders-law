@@ -29,7 +29,7 @@ Besluit :
 ### ART 1.
 
 In dit besluit wordt verstaan onder:<br>
-1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 2° besluit van 28 maart 2014: het besluit van de Vlaamse Regering van 28 maart 2014 tot uitvoering van het decreet van 29 november 2013 houdende de organisatie van preventieve gezinsondersteuning;<br>
 3° departement: het Departement Welzijn, Volksgezondheid en Gezin;<br>
 4° organisator: een feitelijke vereniging of een rechtspersoon, al dan niet in de vorm van een samenwerkingsverband.
