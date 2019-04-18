@@ -30,8 +30,9 @@ Besluit :
 
 ### ART 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<br>
-1° equivalentvolle FCUD-opvangplaats : een plaats gerealiseerd door inzet van FCUD personeel in de buitenschoolse kinderopvang;<br>
+In dit besluit wordt verstaan onder :<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 equivalentvolle FCUD-opvangplaats : een plaats gerealiseerd door inzet van FCUD personeel in de buitenschoolse kinderopvang;<br>
 2° openbaar bestuur : een organisator met een van de volgende rechtsvormen: een gemeentebestuur, een stadsbestuur, een provinciebestuur, een Europese instelling, een OCMW, een openbare instelling, een autonome vereniging, een openbare universitaire instelling, een gemeentelijke vzw, een vereniging van OCMW's of een vereniging van gemeenten;<br>
 3° organisator gezinsopvang : een organisator met een vergunning voor gezinsopvang van baby's en peuters als vermeld in artikel 4, eerste lid, 1°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters en een organisator met een vergunning voor groepsopvang van baby's en peuters als vermeld in artikel 4, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters die de subsidie, vermeld in artikel 59, § 1, van het Subsidiebesluit van 22 november 2013, ontvangt;<br>
 4° organisator groepsopvang : een organisator met een vergunning voor groepsopvang van baby's en peuters als vermeld in artikel 4, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters, met uitzondering van een organisator met een vergunning voor groepsopvang van baby's en peuters als vermeld in artikel 4, eerste lid, 2°, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters die de subsidie, vermeld in artikel 59, § 1, van het Subsidiebesluit van 22 november 2013, ontvangt;<br>
@@ -66,7 +67,7 @@ De subsidie wordt berekend op basis van het aantal gesubsidieerde opvangplaatsen
 <br>
 § 2. De subsidie wordt betaald met één voorschot per jaar en bedraagt maximaal 80% van de geraamde subsidie. Dat voorschot wordt betaald uiterlijk op 30 juni van het kalenderjaar in kwestie. Het saldo wordt uiterlijk afgerekend op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie.<br>
 <br>
-In afwijking van het eerste lid kan Kind en Gezin, bij ernstige problemen bij de organisator, en minstens als er een risico is op plotse stopzetting van de specifieke dienstverlening, of bij vermoeden van fraude door de organisator beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten.
+In afwijking van het eerste lid kan het agentschap, bij ernstige problemen bij de organisator, en minstens als er een risico is op plotse stopzetting van de specifieke dienstverlening, of bij vermoeden van fraude door de organisator beslissen om een specifieke regeling toe te passen voor de uitbetaling van de voorschotten.
 
 ### ART 5.
 
@@ -89,41 +90,41 @@ De volgende medewerkers worden in acht genomen:<br>
 
 ### ART 6.
 
-Een organisator groepsopvang met basissubsidie die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning, van 14,08 euro per gesubsidieerde kinderopvangplaats.
+Een organisator groepsopvang met basissubsidie die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning, van 14,08 euro per gesubsidieerde kinderopvangplaats.
 
 ### ART 7.
 
-Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
+Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
 1° 110,94 euro per gesubsidieerde kinderopvangplaats T2a als de gemiddelde leeftijd van de medewerkers, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
 2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 2,28 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
 
 ### ART 8.
 
-Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator groepsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 9.
 
-Een organisator groepsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 43,14 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
+Een organisator groepsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 43,14 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
 
 ## Afdeling 2 Gezinsopvang
 
 ### ART 10.
 
-Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 0,83 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
+Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning van 0,83 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
 
 ### ART 11.
 
-Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
+Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt:<br>
 1° 4,28 euro per gesubsidieerde kinderopvangplaats T2a als de gemiddelde leeftijd van de medewerkers, vermeld in artikel 5, vierde lid, twintig jaar is;<br>
 2° voor elk jaar boven de gemiddelde leeftijd, vermeld in punt 1°, van twintig jaar tot maximaal een gemiddelde leeftijd van zestig jaar, wordt het bedrag, vermeld in punt 1°, verhoogd met 0,11 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a ontvangt.
 
 ### ART 12.
 
-Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 13.
 
-&nbsp;Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 2,10 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
+&nbsp;Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 2,10 euro per gesubsidieerde kinderopvangplaats waarvoor de organisator een subsidie voor inkomenstarief T2a of T2b ontvangt.
 
 ### ART 14.
 
@@ -137,20 +138,20 @@ Een organisator gezinsopvang met een subsidie voor inkomenstarief T2a of T2b ont
 
 ### ART 15.
 
-Een organisator met een attest van toezicht voor groepsopvang als vermeld in artikel 3 van het kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 3,37 euro per geattesteerde opvangplaats.
+Een organisator met een attest van toezicht voor groepsopvang als vermeld in artikel 3 van het kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning van 3,37 euro per geattesteerde opvangplaats.
 
 ## Afdeling 2 Initiatief voor buitenschoolse opvang
 
 ### ART 16.
 
-Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning. De subsidie bedraagt :<br>
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning. De subsidie bedraagt :<br>
 1° 5,48 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 3,24 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
 3° 2,82 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
 
 ### ART 17.
 
-Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
 1° 33,04 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 19,57 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
 3° 16,98 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
@@ -164,11 +165,11 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang, ont
 
 ### ART 19.
 
-Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 20.
 
-&nbsp;Een organisator met een subsidie voor initiatief voor buitenschoolse opvang, die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie bedraagt :<br>
+&nbsp;Een organisator met een subsidie voor initiatief voor buitenschoolse opvang, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie bedraagt :<br>
 1° 13,77 euro per equivalentvolle opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 8,15 euro per equivalentvolle opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
 3° 7,07 euro per equivalentvolle opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
@@ -177,14 +178,14 @@ Een organisator met een subsidie voor initiatief voor buitenschoolse opvang die 
 
 ### ART 21.
 
-Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning. De subsidie bedraagt :<br>
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning. De subsidie bedraagt :<br>
 1° 11,23 euro per equivalentvolle FCUD-opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 7,02 euro per equivalentvolle FCUD-opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
 3° 6,59 euro per equivalentvolle FCUD-opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
 
 ### ART 22.
 
-Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie. De subsidie bedraagt :<br>
 1° 67,71 euro per equivalentvolle FCUD-opvangplaats voor de eerste 21 equivalentvolle opvangplaatsen;<br>
 2° 42,32 euro per equivalentvolle FCUD-opvangplaats vanaf de 22ste equivalentvolle opvangplaats;<br>
 3° 39,73 euro per equivalentvolle FCUD-opvangplaats vanaf de 232ste equivalentvolle opvangplaats.
@@ -198,7 +199,7 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 ### ART 24.
 
-Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD krijgt, met uitzondering van de projecten FCUD voor zieke kinderen, en die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 24/1.
 
@@ -208,43 +209,43 @@ Een organisator van buitenschoolse opvang die een subsidie voor een project FCUD
 
 ### ART 25.
 
-&nbsp;Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 7,40 euro per gesubsidieerde opvangplaats.
+&nbsp;Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning van 7,40 euro per gesubsidieerde opvangplaats.
 
 ### ART 26.
 
-Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie van 60,88 euro per gesubsidieerde opvangplaats.
+Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 60,88 euro per gesubsidieerde opvangplaats.
 
 ### ART 27.
 
-Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 28.
 
-&nbsp;Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 27,32 euro per gesubsidieerde opvangplaats.
+&nbsp;Een organisator met een subsidie voor buitenschoolse opvang in een afzonderlijke binnenruimte, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 27,32 euro per gesubsidieerde opvangplaats.
 
 ## Afdeling 5 Lokale diensten buitenschoolse opvang
 
 ### ART 29.
 
-Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 9,99 euro per gesubsidieerde opvangplaats.
+Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning van 9,99 euro per gesubsidieerde opvangplaats.
 
 ### ART 30.
 
-Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie van 82,16 euro per gesubsidieerde opvangplaats.
+Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 82,16 euro per gesubsidieerde opvangplaats.
 
 ### ART 31.
 
-Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+Een organisator met een subsidie voor lokale diensten, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 32.
 
-&nbsp;Een organisator met een subsidie voor lokale diensten, die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 28,93 euro per gesubsidieerde opvangplaats.
+&nbsp;Een organisator met een subsidie voor lokale diensten, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 28,93 euro per gesubsidieerde opvangplaats.
 
 ## [Afdeling 6. Ex-generatiepact (ing. BVR 6 oktober 2017, art. 14, I: 15 maart 2017)]
 
 ### ART 32/1.
 
-Een organisator met een subsidie voor ex-generatiepact, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.<br>
+Een organisator met een subsidie voor ex-generatiepact, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.<br>
 <br>
 In het eerste lid wordt verstaan onder subsidie voor ex-generatiepact: een subsidie voor buitenschoolse opvang als vermeld in artikel 89/1 tot en met 91 van het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014.
 
@@ -254,25 +255,25 @@ In het eerste lid wordt verstaan onder subsidie voor ex-generatiepact: een subsi
 
 ### ART 33.
 
-Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor managementondersteuning van 94,31 euro per voltijdsequivalent doelgroepwerknemer én per voltijdsequivalent coördinatiefunctie.
+Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor managementondersteuning van 94,31 euro per voltijdsequivalent doelgroepwerknemer én per voltijdsequivalent coördinatiefunctie.
 
 ### ART 34.
 
-&nbsp;Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor de eindejaarspremie van 775,73 euro per voltijdsequivalent doelgroepwerknemer én per voltijds equivalent coördinatiefunctie.
+&nbsp;Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor de eindejaarspremie van 775,73 euro per voltijdsequivalent doelgroepwerknemer én per voltijds equivalent coördinatiefunctie.
 
 ### ART 35.
 
-&nbsp;Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
+&nbsp;Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die geen openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering. De subsidie wordt berekend conform artikel 5.
 
 ### ART 36.
 
-Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die een openbaar bestuur is, ontvangt van Kind en Gezin een subsidie voor werkdrukvermindering van 236,98 euro per voltijdsequivalent doelgroepwerknemer én per voltijds equivalent coördinatiefunctie.
+Een organisator met een subsidie voor gemandateerde voorziening, coördinatiepunt of flexibele opvangpool, die een openbaar bestuur is, ontvangt van het agentschap een subsidie voor werkdrukvermindering van 236,98 euro per voltijdsequivalent doelgroepwerknemer én per voltijds equivalent coördinatiefunctie.
 
 ## HOOFDSTUK 5 Projecten gesco
 
 ### ART 37.
 
-&nbsp;Een organisator met een subsidie voor een project gesco ontvangt van Kind en Gezin een subsidie tot uitvoering van het Vlaams Intersectoraal Akkoord. De subsidie bedraagt :<br>
+&nbsp;Een organisator met een subsidie voor een project gesco ontvangt van het agentschap een subsidie tot uitvoering van het Vlaams Intersectoraal Akkoord. De subsidie bedraagt :<br>
 1° voor een organisator die geen openbaar bestuur is, 1851,94 euro per voltijdsequivalent weerwerkgesco;<br>
 2° voor een organisator die een openbaar bestuur is, 1292,80 euro per voltijdsequivalent weerwerkgesco.<br>
 <br>
