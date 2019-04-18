@@ -53,25 +53,25 @@ De organisator van kinderopvang bezorgt voor alle opgevangen kinderen die nog ni
 4° de naam en het dossiernummer van de kinderopvanglocatie waar het kind wordt opgevangen;<br>
 5° adres en telefoonnummer van de begunstigde als het kind op basis van de gegevens, vermeld in punt 1°, niet uniek identificeerbaar is.<br>
 <br>
-De organisator van kinderopvang bezorgt de gegevens, vermeld in het eerste lid, 1° tot en met 4°, aan Kind en Gezin:<br>
+De organisator van kinderopvang bezorgt de gegevens, vermeld in het eerste lid, 1° tot en met 4°, aan het agentschap Opgroeien regie:<br>
 1° één keer per maand, namelijk uiterlijk op de zevende dag van de maand die volgt op de maand waarin de kinderen werden opgevangen;<br>
-2° elektronisch, gebundeld voor een volledige maand en in de vorm zoals bepaald door Kind en Gezin.<br>
+2° elektronisch, gebundeld voor een volledige maand en in de vorm zoals bepaald door het agentschap Opgroeien regie.<br>
 <br>
-De organisator van kinderopvang bezorgt onverwijld de gegevens, vermeld in het eerste lid, 5°, op vraag van Kind en Gezin.<br>
+De organisator van kinderopvang bezorgt onverwijld de gegevens, vermeld in het eerste lid, 5°, op vraag van het agentschap Opgroeien regie.<br>
 <br>
-De organisator bewaart de gegevens, vermeld in het eerste lid, en de eventuele bewijsstukken gedurende vijf jaar voor controle of geschillenbeslechting. Kind en Gezin bewaart de gegevens, vermeld in het tweede lid, tot 5 jaar na ontvangst.
+De organisator bewaart de gegevens, vermeld in het eerste lid, en de eventuele bewijsstukken gedurende vijf jaar voor controle of geschillenbeslechting. Het agentschap Opgroeien regie bewaart de gegevens, vermeld in het tweede lid, tot 5 jaar na ontvangst.
 
 ### ART 5.
 
-Als de organisator van kinderopvang de gegevens, vermeld in artikel 4, eerste lid, niet bezorgt binnen de termijn, vermeld in artikel 4, tweede lid, 1°, maant Kind en Gezin de organisator aan om de gegevens onmiddellijk te bezorgen.<br>
+Als de organisator van kinderopvang de gegevens, vermeld in artikel 4, eerste lid, niet bezorgt binnen de termijn, vermeld in artikel 4, tweede lid, 1°, maant&nbsp;het agentschap Opgroeien regie de organisator aan om de gegevens onmiddellijk te bezorgen.<br>
 <br>
-Als een organisator van kinderopvang door overmacht de gegevens, vermeld in artikel 4, eerste lid, niet kan bezorgen binnen de termijn, vermeld in artikel 4, tweede lid, 1°, brengt de organisator van kinderopvang Kind en Gezin daarvan onmiddellijk op de hoogte. Kind en Gezin kan in dat geval een nieuwe termijn bepalen.<br>
+Als een organisator van kinderopvang door overmacht de gegevens, vermeld in artikel 4, eerste lid, niet kan bezorgen binnen de termijn, vermeld in artikel 4, tweede lid, 1°, brengt de organisator van kinderopvang het agentschap Opgroeien regie daarvan onmiddellijk op de hoogte. Het agentschap Opgroeien regie kan in dat geval een nieuwe termijn bepalen.<br>
 <br>
-Als Kind en Gezin in uitzonderlijke situaties vaststelt dat het niet mogelijk is de gegevens, vermeld in artikel 4, eerste lid, te ontvangen van de organisator van kinderopvang, meldt Kind en Gezin dat elektronisch aan de uitbetalingsactor. De uitbetalingsactor contacteert in dat geval de begunstigden. De begunstigden kunnen verklaren op een formulier dat de uitbetalingsactor daarvoor ter beschikking stelt welke uren op welke kinderopvangdagen het kind opgevangen werd in de kinderopvanglocatie. De begunstigden bezorgen de verklaring aan Kind en Gezin.
+Als&nbsp;het agentschap Opgroeien regie in uitzonderlijke situaties vaststelt dat het niet mogelijk is de gegevens, vermeld in artikel 4, eerste lid, te ontvangen van de organisator van kinderopvang, meldt&nbsp;het agentschap Opgroeien regie dat elektronisch aan de uitbetalingsactor. De uitbetalingsactor contacteert in dat geval de begunstigden. De begunstigden kunnen verklaren op een formulier dat de uitbetalingsactor daarvoor ter beschikking stelt welke uren op welke kinderopvangdagen het kind opgevangen werd in de kinderopvanglocatie. De begunstigden bezorgen de verklaring aan het agentschap Opgroeien regie.
 
 ### ART 6.
 
-Kind en Gezin bezorgt aan de uitbetalingsactoren minstens de volgende gegevens:<br>
+Het agentschap Opgroeien regie&nbsp;bezorgt aan de uitbetalingsactoren minstens de volgende gegevens:<br>
 1° het identificatienummer van het Rijksregister van het kind of het identificatienummer van de Kruispuntbank van de Sociale zekerheid, als vermeld in de wet van 15 januari 1990 houdende de oprichting en organisatie van een Kruispuntbank van Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is;<br>
 2° de uren per kinderopvangdag waarop het kind opgevangen wordt;<br>
 3° de datum waarop het kind volgens de organisator op school start;<br>
@@ -79,13 +79,13 @@ Kind en Gezin bezorgt aan de uitbetalingsactoren minstens de volgende gegevens:<
 <br>
 De gegevens worden elektronisch en uiterlijk op de vijftiende dag van de maand die volgt op de maand waarin de kinderen werden opgevangen, bezorgd.<br>
 <br>
-Als Kind en Gezin niet of niet tijdig de gegevens conform artikel 5, eerste en tweede lid, ontvangt, bezorgt Kind en Gezin de gegevens elektronisch aan de uitbetalingsactoren uiterlijk op de achtste dag na ontvangst van de gegevens.
+Als&nbsp;het agentschap Opgroeien regie niet of niet tijdig de gegevens conform artikel 5, eerste en tweede lid, ontvangt, bezorgt&nbsp;het agentschap Opgroeien regie de gegevens elektronisch aan de uitbetalingsactoren uiterlijk op de achtste dag na ontvangst van de gegevens.
 
 ## Afdeling 3. Betaling van de kinderopvangtoeslag
 
 ### ART 7.
 
-De uitbetalingsactor betaalt de kinderopvangtoeslag de twintigste dag van de maand waarin de uitbetalingsactor de gegevens van Kind en Gezin ontvangt, op voorwaarde dat de uitbetalingsactor minstens vijf dagen voordien de gegevens ontving. Als de twintigste dag van de maand geen werkdag is, dan wordt de betaling uitgevoerd de eerste werkdag die volgt na de twintigste. Onder werkdag wordt verstaan: een dag die geen zaterdag, zondag of wettelijke feestdag is.<br>
+De uitbetalingsactor betaalt de kinderopvangtoeslag de twintigste dag van de maand waarin de uitbetalingsactor de gegevens van&nbsp;het agentschap Opgroeien regie ontvangt, op voorwaarde dat de uitbetalingsactor minstens vijf dagen voordien de gegevens ontving. Als de twintigste dag van de maand geen werkdag is, dan wordt de betaling uitgevoerd de eerste werkdag die volgt na de twintigste. Onder werkdag wordt verstaan: een dag die geen zaterdag, zondag of wettelijke feestdag is.<br>
 <br>
 Als de uitbetalingsactor de gegevens niet minstens vijf dagen voordien ontving, betaalt hij de kinderopvangtoeslag de eerst mogelijke uitbetalingsdatum nadien.
 
@@ -113,15 +113,15 @@ In het geval, vermeld in het eerste lid, wordt de kleutertoeslag uitbetaald in d
 
 ### ART 10.
 
-Het Vlaams ministerie van Onderwijs en Vorming, bezorgt op vraag van Kind en Gezin de gegevens, vermeld in artikel 56, § 1, van het decreet van 27 april 2018, uit de centrale inschrijvingsdatabank van het kleuteronderwijs aan Kind en Gezin.<br>
+Het Vlaams ministerie van Onderwijs en Vorming, bezorgt op vraag van Kind en Gezin de gegevens, vermeld in artikel 56, § 1, van het decreet van 27 april 2018, uit de centrale inschrijvingsdatabank van het kleuteronderwijs aan het agentschap Opgroeien regie.<br>
 <br>
-Het Vlaams ministerie van Onderwijs en Vorming bezorgt de gegevens, vermeld in het eerste lid, elektronisch aan Kind en Gezin op de volgende momenten:<br>
+Het Vlaams ministerie van Onderwijs en Vorming bezorgt de gegevens, vermeld in het eerste lid, elektronisch aan&nbsp;het agentschap Opgroeien regie op de volgende momenten:<br>
 1° de gegevens, vermeld in artikel 56, § 1, 1° en 2°, van het voormelde decreet: één keer per maand, namelijk de maand na de inschrijving;<br>
 2° de gegevens, vermeld in artikel 56, § 1, 3° en 4°, van het voormelde decreet: één keer per schooljaar, namelijk zo snel mogelijk na het einde van het schooljaar.
 
 ### ART 11.
 
-Kind en Gezin bezorgt de gegevens, vermeld in artikel 10, elektronisch aan de uitbetalingsactoren zodra Kind en Gezin de voormelde gegevens ontvangen heeft.
+Het agentschap Opgroeien regie bezorgt de gegevens, vermeld in artikel 10, elektronisch aan de uitbetalingsactoren zodra het agentschap Opgroeien regie die gegevens ontvangen heeft.
 
 ## HOOFDSTUK 4. Slotbepalingen
 
