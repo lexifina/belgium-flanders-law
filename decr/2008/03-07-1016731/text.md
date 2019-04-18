@@ -4,34 +4,11 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br>
-1° ondersteuningscentrum : het ondersteuningscentrum Jeugdzorg, opgericht bij artikel 33 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-2° ...<br>
-3° ...<br>
-4° ...<br>
-5° erkende voorzieningen : voorzieningen die met toepassing van artikel 49 erkend zijn;<br>
-6° Fonds : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54;<br>
-7° gemeenschapsinstellingen : voorzieningen als vermeld in artikel 47, die hoofdzakelijk residentiële opvang of hulpverlening in residentieel verband aanbieden;<br>
-8° jeugdbijstandsregeling : het geheel van de wetten betreffende de opgave van maatregelen voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-9° Bestuursdecreet: het Bestuursdecreet van 7 december 2018;<br>
-10° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar. Voor de toepassing van dit decreet wordt de persoon die de maximumleeftijden, bepaald in artikel 36, § 2, niet heeft bereikt, gelijkgesteld met een minderjarige;<br>
-11° ...<br>
-12° ...<br>
-13° projecten : bijzondere initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere probleemsituatie;<br>
-14° toegangspoort : een orgaan als vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
-15° ...<br>
-16° ...<br>
-17° ...<br>
-18° voorzieningen : initiatieven die hulp- of dienstverlening aanbieden aan minderjarigen en gezinnen;<br>
-19° wet betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd : een wet die een aangelegenheid regelt, als vermeld in artikel 5, § 1, II, 6°, d), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de wet van 8 augustus 1988;<br>
-20° agentschap : het intern verzelfstandigd agentschap, vermeld in artikel 59;<br>
-21° opvoedingsverantwoordelijken : de natuurlijke personen, andere dan de ouders of de wettelijke vertegenwoordiger van de minderjarige, die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br>
-22° Vlaamse detentiecentra: voorzieningen als vermeld in artikel 47/1 die bestemd zijn voor de opvang van personen als vermeld in artikel 606 van het Wetboek van Strafvordering.<br>
-&nbsp;
+...
 
 ## HOOFDSTUK II Doel en basisprincipes van de bijzondere jeugdbijstand
 
@@ -43,13 +20,13 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 4.
 
-<P>...</P>
+...
 
 ## Afdeling II Basisprincipes
 
 ### ART. 5.
 
-<P>...</P>
+...
 
 ### ART. 5/1.
 
@@ -57,7 +34,7 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 6.
 
-<P>...</P>
+...
 
 ### ART. 7.
 
@@ -65,11 +42,11 @@ In dit decreet wordt verstaan onder :<br>
 
 ### ART. 8.
 
-Elke persoon die, in welke hoedanigheid ook, zijn medewerking verleent aan de toepassing van de jeugdbijstandsregeling moet de godsdienstige, de ideologische en de wijsgerige overtuiging van de minderjarigen en de gezinnen waartoe zij behoren, eerbiedigen.<br /><br />
+...
 
 ### ART. 9.
 
-Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig het decreet van 12 juli 2013 betreffende de integrale jeugdhulp   genomen wordt als ze uitgaven ten gevolge heeft die ten laste komen van het   Fonds.<BR><BR>
+...
 
 ## HOOFDSTUK III Vrijwillige jeugdbijstand
 
@@ -77,11 +54,11 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 10.
 
-<P>...</P>
+...
 
 ### ART. 11.
 
-<P>...</P>
+...
 
 ## Afdeling II Comité voor Bijzondere Jeugdzorg
 
@@ -89,67 +66,67 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 12.
 
-<P>...</P>
+...
 
 ### ART. 13.
 
-<P>...</P>
+...
 
 ### ART. 14.
 
-<P>...</P>
+...
 
 ### ART. 15.
 
-<P>...</P>
+...
 
 ## Onderafdeling II Bureau voor Bijzondere Jeugdbijstand
 
 ### ART. 16.
 
-<P>...</P>
+...
 
 ### ART. 17.
 
-<P>...</P>
+...
 
 ## Onderafdeling III Preventiecel
 
 ### ART. 18.
 
-<P>...</P>
+...
 
 ### ART. 19.
 
-<P>...</P>
+...
 
 ## Onderafdeling IV Sociale dienst voor vrijwillige jeugdbijstand
 
 ### ART. 20.
 
-<P>...</P>
+...
 
 ### ART. 21.
 
-<P>...</P>
+...
 
 ### ART. 22.
 
-<P>...</P>
+...
 
 ### ART. 23.
 
-<P>...</P>
+...
 
 ### ART. 24.
 
-<P>...</P>
+...
 
 ## Onderafdeling V Secretariaat
 
 ### ART. 25.
 
-<P>...</P>
+...
 
 ## Afdeling III Bemiddelingscommissie voor Bijzondere Jeugdbijstand
 
@@ -157,55 +134,55 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 26.
 
-<P>...</P>
+...
 
 ### ART. 27.
 
-<P>...</P>
+...
 
 ### ART. 28.
 
-<P>...</P>
+...
 
 ### ART. 29.
 
-<P>...</P>
+...
 
 ## Onderafdeling II Secretariaat
 
 ### ART. 30.
 
-<P>...</P>
+...
 
 ## Onderafdeling III Taken
 
 ### ART. 31.
 
-<P>...</P>
+...
 
 ### ART. 32.
 
-<P>...</P>
+...
 
 ### ART. 33.
 
-<P>...</P>
+...
 
 ## Onderafdeling IV Bemiddelingsprocedure
 
 ### ART. 34.
 
-<P>...</P>
+...
 
 ### ART. 35.
 
-<P>...</P>
+...
 
 ## Afdeling IV Voortzetting van de hulp- en bijstandsverlening vanaf achttien jaar
 
 ### ART. 36.
 
-<P>...</P>
+...
 
 ## HOOFDSTUK IV Gerechtelijke jeugdbijstand
 
@@ -213,7 +190,7 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 37.
 
-<P>...</P>
+...
 
 ## Afdeling II De afdwingbare pedagogische maatregelen
 
@@ -221,43 +198,43 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 38.
 
-<P>...</P>
+...
 
 ### ART. 39.
 
-<P>...</P>
+...
 
 ### ART. 40.
 
-<P>...</P>
+...
 
 ### ART. 41.
 
-<P>...</P>
+...
 
 ### ART. 42.
 
-<P>...</P>
+...
 
 ## Onderafdeling II Maatregelen in geval van hoogdringendheid
 
 ### ART. 43.
 
-<P>...</P>
+...
 
 ## Afdeling III Sociale dienst voor gerechtelijke jeugdbijstand
 
 ### ART. 44.
 
-<P>...</P>
+...
 
 ### ART. 45.
 
-<P>...</P>
+...
 
 ### ART. 46.
 
-<P>...</P>
+...
 
 ## HOOFDSTUK V Voorzieningen
 
@@ -341,11 +318,12 @@ Binnen het raam van de missie en de taken van het Fonds kan de Vlaamse Regering 
 
 ### ART. 59.
 
-Het Fonds wordt beheerd door de Vlaamse Regering, middels een door haar op te richten intern verzelfstandigd agentschap zonder rechtspersoonlijkheid.<br /><br />
+Het Fonds wordt beheerd door het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie.<br>
+&nbsp;
 
 ### ART. 60.
 
-De Vlaamse Regering regelt de werking van het Fonds. In afwijking van artikel III.6 van het Bestuursdecreet belast ze een hoofd van een agentschap van het beleidsdomein, vermeld in artikel 54, § 2, met de algemene leiding, de werking en de vertegenwoordiging van het Fonds.<br>
+Het hoofd van het agentschap Opgroeien regie, vermeld in artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie wordt belast met de algemene leiding, de werking en de vertegenwoordiging van het Fonds.<br>
 &nbsp;
 
 ### ART. 61.
@@ -376,30 +354,30 @@ Behoudens andersluidende bepalingen worden de begroting en de rekeningen opgemaa
 
 ### ART. 66.
 
-De Vlaamse Regering vaardigt algemeen geldende regels uit betreffende de   bijdrage van de minderjarigen en van de onderhoudsplichtige personen in de   onderhouds-, opvoedings- en behandelingskosten van de minderjarigen, evenals   betreffende de bestemming van het loon dat wordt toegekend aan de minderjarigen   die werden geplaatst overeenkomstig de bepalingen van de   jeugdbijstandsregeling.<BR><BR>Het ondersteuningscentrum, de toegangspoort of de   jeugdrechter bepaalt overeenkomstig deze regels de bijdrage van de minderjarige   en van de onderhoudsplichtige personen, evenals de bestemming die aan het loon   zal worden gegeven. Met betrekking tot de beslissing van het   ondersteuningscentrum of de toegangspoort hebben de betrokkenen het recht zich   bij verzoekschrift tot de jeugdrechtbank te wenden.<BR><BR>
+...
 
 ### ART. 67.
 
-Als voor de minderjarigen die werden geplaatst overeenkomstig de   jeugdbijstandsregeling, geldsommen op een spaar- of depositoboekje worden   ingeschreven, worden die sommen ingeschreven op een boekje dat op hun naam wordt   geopend bij een kredietinstelling. De Vlaamse Regering kan daarvoor de nadere   regels bepalen.<BR><BR>Tijdens de minderjarigheid kunnen de bedragen van het   loon die op een spaar- of depositoboekje bij een kredietinstelling werden   ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van het   ondersteuningscentrum, de toegangspoort of de   jeugdrechter.<BR><BR>
+...
 
 ## HOOFDSTUK VII Slotbepalingen
 
 ### ART. 68.
 
-In artikel 6 van de wet van 8 april 1965 betreffende de jeugdbescherming wordt het vierde lid opgeheven.<br /><br />
+...
 
 ### ART. 69.
 
-De volgende regelingen worden opgeheven :<br />1° de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990, gewijzigd bij de decreten van 21 december 1990, 25 juni 1992, 15 juli 1997 en 7 mei 2004;<br />2° het decreet van 7 mei 2004 tot omvorming van het Fonds Bijzondere Jeugdbijstand tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn en tot wijziging van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990, gewijzigd bij het decreet van 2 juni 2006, met uitzondering van de artikelen 1, 2, 14, 16, 17 en 19.<br /><br />
+...
 
 ### ART. 70.
 
-De besluiten die genomen zijn ter uitvoering van de decreten, vermeld in artikel 69, blijven van kracht zolang ze niet zijn opgeheven of zolang hun geldigheidsduur niet verstreken is.<br /><br />
+...
 
 ### ART 70/1.
 
-De voorzieningen, vermeld in artikel 48, § 1, die erkend zijn op 1 januari 2017, worden van rechtswege geacht voor een onbepaalde duur erkend te zijn.
+...
 
 ### ART. 71.
 
-De Vlaamse Regering stelt voor elke bepaling van dit decreet de datum van inwerkingtreding vast.<br /><br />
+...
