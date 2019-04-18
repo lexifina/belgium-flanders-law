@@ -8,7 +8,36 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° aanmelder: de   jeugdhulpaanbieder of de andere persoon of voorziening die jeugdhulpverlening   aanbiedt en die een minderjarige aanmeldt bij de toegangspoort of bij een   gemandateerde voorziening met toepassing van artikel 20, eerste lid, artikel 34,   eerste lid, of artikel 42, § 3, van het decreet van 12 juli 2013;<BR>2°   aanvraagdocument: het document dat wordt ingediend bij de toegangspoort voor de   aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in   artikel 18, § 1, van het decreet van 12 juli 2013, of van de voortzetting van de   jeugdhulpverlening, vermeld in artikel 18, § 3, van het voormelde decreet;<BR>3°   administrateur-generaal: het personeelslid dat belast is met de leiding van het   agentschap en het fonds;<BR>4° agentschap: het intern verzelfstandigd agentschap   Jongerenwelzijn, als vermeld in artikel 59 van het decreet van 7 maart 2008   inzake bijzondere jeugdbijstand;<BR>5° bemiddeling: een vrijwillig en   vertrouwelijk communicatieproces onder leiding van een onafhankelijke en   onpartijdige derde, de bemiddelaar, dat in elke fase van de jeugdhulpverlening   kan worden ingezet naar aanleiding van een conflict waarbij de minderjarige,   zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken betrokken   zijn, en dat beoogt de continuïteit van de jeugdhulpverlening te   garanderen;<BR>6° cliëntoverleg: een overleg dat plaatsvindt onder leiding van   een externe voorzitter en in aanwezigheid van de minderjarige, zijn ouders en,   in voorkomend geval, zijn opvoedingsverantwoordelijken, betrokken personen uit   de leefomgeving van de minderjarige en de betrokken jeugdhulpaanbieders, en dat   als doel heeft in complexe situaties de jeugdhulpverlening aan een minderjarige   te coördineren en de continuïteit ervan te bewaken. De hulpvraag van de   minderjarige en zijn context staan daarbij centraal en voormelde personen worden   maximaal betrokken bij het overleg;<BR>7° consulent: een personeelslid van het   ondersteuningscentrum of van de sociale dienst;<BR>8° decreet van 23 mei 2003:   het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en   betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en   welzijnsvoorzieningen;<BR>9° decreet van 7 maart 2008: het decreet van 7 maart   2008 inzake bijzondere jeugdbijstand;<BR>10° decreet van 12 juli 2013: het   decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<BR>11°   dossierverantwoordelijke: het personeelslid binnen de toegangspoort van het team   Indicatiestelling of van het team Jeugdhulpregie, dat de verantwoordelijkheid   draagt voor de indicatiestelling of de jeugdhulpregie in het dossier en dat de   aanspreekpersoon is voor de aanmelder, de minderjarige, zijn ouders of, in   voorkomend geval, zijn opvoedingsverantwoordelijken tijdens de indicatiestelling   of de jeugdhulpregie;<BR>12° erkend multidisciplinair team: een   multidisciplinair team dat vermeld is in artikel 35, § 1, van dit besluit of dat   erkend is in uitvoering van artikel 35, § 2, van dit besluit en dat diagnostiek   kan aanbieden aan de toegangspoort in functie van de aanvraag van niet   rechtstreeks toegankelijke jeugdhulpverlening bij de toegangspoort;<BR>13°   feitelijke verblijfplaats: het adres waar een natuurlijke persoon op bestendige   wijze feitelijk verblijft en dat zijn woonplaats niet is;<BR>14° fonds: het   intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds   Jongerenwelzijn, vermeld in artikel 54 van het decreet van 7 maart 2008 inzake   de bijzondere jeugdbijstand;<BR>15° gerechtelijke maatregel: een maatregel als   vermeld in artikel 48, § 1, eerste lid, of artikel 53, eerste lid, van het   decreet van 12 juli 2013;<BR>16° handelingsplan: een document als vermeld in   artikel 58, eerste lid, van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp en in artikel 68, derde lid en artikel 81, derde lid, van   dit besluit, dat door een jeugdhulpaanbieder wordt opgesteld en dat de   inhoudelijke invulling bevat van het jeugdhulpverleningsplan;<BR>17°   indicatiestellingsverslag: het verslag dat wordt opgesteld door het team   Indicatiestelling met toepassing van artikel 21, eerste lid, 2°, van het decreet   van 12 juli 2013, of door de sociale dienst met toepassing van artikel 57,   tweede lid, van het voormelde decreet;<BR>18° indicatiestellingsvoorstel: een   voorstel van indicatiestellingsverslag in termen van typemodules dat voor een   minderjarige kan worden ingediend bij de toegangspoort door een erkend   multidisciplinair team of door een gemandateerde voorziening;<BR>19°   jeugdhulpverlener: een persoon die of een team dat binnen een voorziening belast   is met het verstrekken van jeugdhulpverlening;<BR>20° jeugdhulpverleningsplan:   een document dat wordt opgemaakt door de gemandateerde voorziening of de sociale   dienst, waarin de doelstellingen en verwachtingen ten aanzien van de   minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken en de betrokken jeugdhulpaanbieder of   jeugdhulpaanbieders zijn opgenomen;<BR>21° kennisgeving: de gemotiveerde   beslissing van het team Indicatiestelling vermeld in artikel 21, derde lid, van   het decreet van 12 juli 2013;<BR>22° minister: de Vlaamse minister, bevoegd voor   de bijstand aan personen en bevoegd voor het gezondheidsbeleid;<BR>23°   ministers: de Vlaamse minister, bevoegd voor de bijstand aan personen en bevoegd   voor het gezondheidsbeleid, en de Vlaamse minister, bevoegd voor het   onderwijs;<BR>24° niet-begeleide minderjarige vreemdeling: iedere persoon voor   wie de voorwaarden, vermeld in artikel 5 van hoofdstuk 6 van titel XIII van de   programmawet (I) van 24 december 2002, vervuld zijn;<BR>25° team   Indicatiestelling: het team, vermeld in artikel 17 en 21 van het decreet van 12   juli 2013;<BR>26° team Jeugdhulpregie: het team, vermeld in artikel 17 en 26 van   het decreet van 12 juli 2013;<BR>27° vraagverhelderende gegevens: de gegevens   die verduidelijken wat de problemen, zorg- of hulpvragen van een minderjarige,   zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken of de   betrokken personen uit zijn leefomgeving zijn;<BR>28° woonplaats: het adres waar   een natuurlijke persoon officieel gedomicilieerd is.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° aanmelder: de jeugdhulpaanbieder of de andere persoon of voorziening die jeugdhulpverlening aanbiedt en die een minderjarige aanmeldt bij de toegangspoort of bij een gemandateerde voorziening met toepassing van artikel 20, eerste lid, artikel 34, eerste lid, of artikel 42, § 3, van het decreet van 12 juli 2013;<br>
+2° aanvraagdocument: het document dat wordt ingediend bij de toegangspoort voor de aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening, vermeld in artikel 18, § 1, van het decreet van 12 juli 2013, of van de voortzetting van de jeugdhulpverlening, vermeld in artikel 18, § 3, van het voormelde decreet;<br>
+3° administrateur-generaal: het personeelslid dat belast is met de leiding van het agentschap en het fonds;<br>
+4° agentschap Opgroeien: het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid dat is opgericht bij artikel 2 van het besluit van de Vlaamse Regering van 24 oktober 2008 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Opgroeien;<br>
+4/1° agentschap Opgroeien regie: het intern verzelfstandigd agentschap dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+5° bemiddeling: een vrijwillig en vertrouwelijk communicatieproces onder leiding van een onafhankelijke en onpartijdige derde, de bemiddelaar, dat in elke fase van de jeugdhulpverlening kan worden ingezet naar aanleiding van een conflict waarbij de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken betrokken zijn, en dat beoogt de continuïteit van de jeugdhulpverlening te garanderen;<br>
+6° cliëntoverleg: een overleg dat plaatsvindt onder leiding van een externe voorzitter en in aanwezigheid van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken, betrokken personen uit de leefomgeving van de minderjarige en de betrokken jeugdhulpaanbieders, en dat als doel heeft in complexe situaties de jeugdhulpverlening aan een minderjarige te coördineren en de continuïteit ervan te bewaken. De hulpvraag van de minderjarige en zijn context staan daarbij centraal en voormelde personen worden maximaal betrokken bij het overleg;<br>
+7° consulent: een personeelslid van het ondersteuningscentrum of van de sociale dienst;<br>
+8° decreet van 23 mei 2003: het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen;<br>
+9° decreet van 7 maart 2008: het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+10° decreet van 12 juli 2013: het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+11° dossierverantwoordelijke: het personeelslid binnen de toegangspoort van het team Indicatiestelling of van het team Jeugdhulpregie, dat de verantwoordelijkheid draagt voor de indicatiestelling of de jeugdhulpregie in het dossier en dat de aanspreekpersoon is voor de aanmelder, de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken tijdens de indicatiestelling of de jeugdhulpregie;<br>
+12° erkend multidisciplinair team: een multidisciplinair team dat vermeld is in artikel 35, § 1, van dit besluit of dat erkend is in uitvoering van artikel 35, § 2, van dit besluit en dat diagnostiek kan aanbieden aan de toegangspoort in functie van de aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening bij de toegangspoort;<br>
+13° feitelijke verblijfplaats: het adres waar een natuurlijke persoon op bestendige wijze feitelijk verblijft en dat zijn woonplaats niet is;<br>
+14° fonds: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54 van het decreet van 7 maart 2008 inzake de bijzondere jeugdbijstand;<br>
+15° gerechtelijke maatregel: een maatregel als vermeld in artikel 48, § 1, eerste lid, of artikel 53, eerste lid, van het decreet van 12 juli 2013;<br>
+16° handelingsplan: een document als vermeld in artikel 58, eerste lid, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en in artikel 68, derde lid en artikel 81, derde lid, van dit besluit, dat door een jeugdhulpaanbieder wordt opgesteld en dat de inhoudelijke invulling bevat van het jeugdhulpverleningsplan;<br>
+17° indicatiestellingsverslag: het verslag dat wordt opgesteld door het team Indicatiestelling met toepassing van artikel 21, eerste lid, 2°, van het decreet van 12 juli 2013, of door de sociale dienst met toepassing van artikel 57, tweede lid, van het voormelde decreet;<br>
+18° indicatiestellingsvoorstel: een voorstel van indicatiestellingsverslag in termen van typemodules dat voor een minderjarige kan worden ingediend bij de toegangspoort door een erkend multidisciplinair team of door een gemandateerde voorziening;<br>
+19° jeugdhulpverlener: een persoon die of een team dat binnen een voorziening belast is met het verstrekken van jeugdhulpverlening;<br>
+20° jeugdhulpverleningsplan: een document dat wordt opgemaakt door de gemandateerde voorziening of de sociale dienst, waarin de doelstellingen en verwachtingen ten aanzien van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken jeugdhulpaanbieder of jeugdhulpaanbieders zijn opgenomen;<br>
+21° kennisgeving: de gemotiveerde beslissing van het team Indicatiestelling vermeld in artikel 21, derde lid, van het decreet van 12 juli 2013;<br>
+22° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen en bevoegd voor het gezondheidsbeleid;<br>
+23° ministers: de Vlaamse minister, bevoegd voor de bijstand aan personen en bevoegd voor het gezondheidsbeleid, en de Vlaamse minister, bevoegd voor het onderwijs;<br>
+24° niet-begeleide minderjarige vreemdeling: iedere persoon voor wie de voorwaarden, vermeld in artikel 5 van hoofdstuk 6 van titel XIII van de programmawet (I) van 24 december 2002, vervuld zijn;<br>
+25° team Indicatiestelling: het team, vermeld in artikel 17 en 21 van het decreet van 12 juli 2013;<br>
+26° team Jeugdhulpregie: het team, vermeld in artikel 17 en 26 van het decreet van 12 juli 2013;<br>
+27° vraagverhelderende gegevens: de gegevens die verduidelijken wat de problemen, zorg- of hulpvragen van een minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken of de betrokken personen uit zijn leefomgeving zijn;<br>
+28° woonplaats: het adres waar een natuurlijke persoon officieel gedomicilieerd is.
 
 ### ART. 2.
 
@@ -18,7 +47,11 @@ Voor de toepassing van dit besluit worden de voogden voor niet-begeleide   minde
 
 ### ART. 3.
 
-Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met   toepassing van het decreet van 30 april 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin wordt   aangeboden door de:<BR>1° personeelsleden van Kind en Gezin, wat betreft de   taken vermeld in artikel 7, § 1, 1°, 2° en 4° van het decreet van 30 april 2004   tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Kind en Gezin; <BR>2° inloopteams, gesubsidieerd door Kind   en Gezin op basis van artikel 12 van het decreet van 30 april 2004 tot   oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid   Kind en Gezin;<BR>3° centra voor kinderzorg en gezinsondersteuning, vermeld in   artikel 2 van het besluit van de Vlaamse Regering van 9 november 2012 inzake   erkenning en subsidiëring van de centra voor kinderzorg en   gezinsondersteuning;<BR>4° vertrouwenscentra kindermishandeling, vermeld in   artikel 42 van het decreet van 12 juli 2013 en in artikel 2 van het besluit van   de Vlaamse Regering van 17 mei 2002 betreffende erkenning en subsidiëring van de   vertrouwenscentra kindermishandeling.<BR>
+Onder de integrale jeugdhulp valt de volgende jeugdhulpverlening die met toepassing van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie wordt aangeboden door de:<br>
+1° personeelsleden van het agentschap Opgroeien regie, wat betreft de taken vermeld in artikel 7, § 1, 1°, 2° en 4° van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
+2° inloopteams, erkend en gesubsidieerd door het agentschap Opgroeien regie op basis van het ministerieel besluit van 6 april 2014 betreffende de regels voor de erkenning en de subsidiëring van inloopteams;<br>
+3° centra voor kinderzorg en gezinsondersteuning, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning;<br>
+4° vertrouwenscentra kindermishandeling, vermeld in artikel 42 van het decreet van 12 juli 2013 en in artikel 2 van het besluit van de Vlaamse Regering van 17 november 2017 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling en de partnerorganisatie.
 
 ### ART. 4.
 
@@ -91,7 +124,21 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 ### ART. 17.
 
-<P>De toegangspoort bestaat uit:<BR>1° een team Indicatiestelling;<BR>2° een   team Jeugdhulpregie;<BR>3° een leidinggevende Toegangspoort voor het team   Indicatiestelling en Jeugdhulpregie;<BR>4° een team Administratie.<BR></P>  <P>Het team Indicatiestelling, vermeld in het eerste lid, 1°, bestaat minstens   uit de volgende functies:<BR>1° een deskundige Indicatiestelling;<BR>2° een   psycholoog of een pedagoog.<BR></P>  <P>Het team Jeugdhulpregie, vermeld in het eerste lid, 2°, bestaat minstens uit   deskundigen Jeugdhulpregie.<BR></P>  <P>De deskundigen Indicatiestelling en Jeugdhulpregie, vermeld in het tweede   lid, 1°, en het derde lid, zijn houder van een diploma dat blijk geeft van   voldoende pedagogische of sociale kennis. De administrateur-generaal van het   agentschap is bevoegd om de diplomavoorwaarden vast te leggen.<BR></P>  <P>De hoedanigheid van personeelslid van de toegangspoort is onverenigbaar met   de hoedanigheid van consulent en van vrijwillig consulent van het   ondersteuningscentrum of van de sociale dienst, lid van de algemene vergadering   of lid van de raad van bestuur van een jeugdhulpaanbieder.<BR></P>
+<p>De toegangspoort bestaat uit:<br>
+1° een team Indicatiestelling;<br>
+2° een team Jeugdhulpregie;<br>
+3° een leidinggevende Toegangspoort voor het team Indicatiestelling en Jeugdhulpregie;<br>
+4° een team Administratie.</p>
+
+<p>Het team Indicatiestelling, vermeld in het eerste lid, 1°, bestaat minstens uit de volgende functies:<br>
+1° een deskundige Indicatiestelling;<br>
+2° een psycholoog of een pedagoog.</p>
+
+<p>Het team Jeugdhulpregie, vermeld in het eerste lid, 2°, bestaat minstens uit deskundigen Jeugdhulpregie.</p>
+
+<p>De deskundigen Indicatiestelling en Jeugdhulpregie, vermeld in het tweede lid, 1°, en het derde lid, zijn houder van een diploma dat blijk geeft van voldoende pedagogische of sociale kennis. De administrateur-generaal van het agentschap Opgroeien is bevoegd om de diplomavoorwaarden vast te leggen.</p>
+
+<p>De hoedanigheid van personeelslid van de toegangspoort is onverenigbaar met de hoedanigheid van consulent en van vrijwillig consulent van het ondersteuningscentrum of van de sociale dienst, lid van de algemene vergadering of lid van de raad van bestuur van een jeugdhulpaanbieder.</p>
 
 ## Afdeling 2 Algemene bepalingen
 
@@ -113,7 +160,13 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 ### ART. 21.
 
-<P>Met uitzondering van een verzoek als vermeld in artikel 29 van het decreet   van 12 juli 2013, kan een aanvraag bij de toegangspoort als vermeld in artikel   18, § 1 en § 3, en artikel 27 van het decreet van 12 juli 2013, uitsluitend   ingediend worden door de nodige gegevens aan te leveren met het aanvraagdocument   waarvan het model wordt vastgelegd door de administrateur-generaal van het   agentschap. De aanmelding wordt gedaan via elektronische weg en komt terecht bij   het team Indicatiestelling.<BR></P>  <P>Het eerste lid is van overeenkomstige toepassing op de aanvraag die aan de   toegangspoort wordt gericht voor een herindicatiestelling als vermeld in artikel   23 van het decreet van 12 juli 2013, of voor een versnelde indicatiestelling en   toewijzing als vermeld in artikel 28, 1°, 3° en 4° van het voormelde   decreet.<BR></P>  <P>Het verzoek tot voortzetting van de jeugdhulpverlening, vermeld in artikel   18, § 3 van het voormelde decreet, wordt alleen met een aanvraagdocument   ingediend als er geen geldig indicatiestellingsverslag meer is voor de   betrokkene.<BR></P>  <P>Het aanvraagdocument en wijzigingen van het aanvraagdocument, vermeld in het   eerste lid, worden voor akkoord voorgelegd aan het Managementcomité Integrale   Jeugdhulp.<BR></P>  <P>Personen of voorzieningen die jeugdhulpverlening aanbieden en die geen   jeugdhulpaanbieder zijn, zijn gemachtigd als aanmelder bij de toegangspoort op   voorwaarde dat ze behoren tot de categorieën, vermeld in de bijlage die bij dit   besluit is gevoegd.<BR></P>
+<p>Met uitzondering van een verzoek als vermeld in artikel 29 van het decreet van 12 juli 2013, kan een aanvraag bij de toegangspoort als vermeld in artikel 18, § 1 en § 3, en artikel 27 van het decreet van 12 juli 2013, uitsluitend ingediend worden door de nodige gegevens aan te leveren met het aanvraagdocument waarvan het model wordt vastgelegd door de administrateur-generaal van het agentschap Opgroeien. De aanmelding wordt gedaan via elektronische weg en komt terecht bij het team Indicatiestelling.</p>
+
+<p>Het eerste lid is van overeenkomstige toepassing op de aanvraag die aan de toegangspoort wordt gericht voor een herindicatiestelling als vermeld in artikel 23 van het decreet van 12 juli 2013, of voor een versnelde indicatiestelling en toewijzing als vermeld in artikel 28, 1°, 3° en 4° van het voormelde decreet.</p>
+
+<p>Het verzoek tot voortzetting van de jeugdhulpverlening, vermeld in artikel 18, § 3 van het voormelde decreet, wordt alleen met een aanvraagdocument ingediend als er geen geldig indicatiestellingsverslag meer is voor de betrokkene.</p>
+
+<p>Personen of voorzieningen die jeugdhulpverlening aanbieden en die geen jeugdhulpaanbieder zijn, zijn gemachtigd als aanmelder bij de toegangspoort op voorwaarde dat ze behoren tot de categorieën, vermeld in de bijlage die bij dit besluit is gevoegd.</p>
 
 ### ART. 22.
 
@@ -214,7 +267,7 @@ De kennisgeving voldoet minstens aan de volgende voorwaarden:<BR>1° ze is   zo 
 
 <p>Multidisciplinaire teams die aanvragen voor individuele materiële bijstand indienen, moeten naast de algemene erkenningsvoorwaarden, vermeld in het eerste lid, voldoen aan de bijzondere erkenningsvoorwaarden, vermeld in artikel 23 en 24 van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de indiening en afhandeling van de aanvraag tot ondersteuning bij het Vlaams Agentschap voor Personen met een Handicap en het ministerieel besluit van 12 november 2010 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap.</p>
 
-<p>De leidend ambtenaar van het agentschap Jongerenwelzijn verleent de erkenning als multidisciplinair team. De minister bepaalt de erkenningsprocedure en kan bijkomende kwaliteitseisen bepalen voor de multidisciplinaire teams.</p>
+<p>De leidend ambtenaar van het agentschap Opgroeien regie verleent de erkenning als multidisciplinair team. De minister bepaalt de erkenningsprocedure en kan bijkomende kwaliteitseisen bepalen voor de multidisciplinaire teams.</p>
 
 <p>§ 3. Erkende multidisciplinaire teams, ontvangen een vergoeding voor de aanlevering van documenten in het kader van de afhandeling van een aanvraag van niet rechtstreeks toegankelijke jeugdhulpverlening door de toegangspoort ter uitvoering van het decreet van 12 juli 2013 en van dit besluit. De financiering van die vergoeding verloopt op de volgende wijze:<br>
 1° de voorzieningen, vermeld in paragraaf 1, ontvangen, in voorkomend geval, een vergoeding voor het indienen bij de toegangspoort van aanvraagdocumenten;<br>
@@ -373,15 +426,21 @@ De opgerichte ondersteuningscentra Jeugdzorg en hun werkgebied zijn   opgenomen 
 
 ### ART. 55.
 
-De administrateur-generaal van het agentschap bepaalt de zetel van de   ondersteuningscentra, vermeld in artikel 54. <BR>
+De administrateur-generaal van het agentschap Opgroeien bepaalt de zetel van de ondersteuningscentra, vermeld in artikel 54.
 
 ### ART. 56.
 
-<P>Het ondersteuningscentrum bestaat minstens uit de volgende functies:<BR>1°   consulent;<BR>2° teamverantwoordelijke.<BR></P>  <P>De consulenten, vermeld in het eerste lid, 1°, zijn houder van een diploma   dat blijk geeft van een voldoende pedagogische of sociale kennis. De   administrateur-generaal van het agentschap is bevoegd om de diplomavoorwaarden   vast te leggen.<BR></P>
+<p>Het ondersteuningscentrum bestaat minstens uit de volgende functies:<br>
+1° consulent;<br>
+2° teamverantwoordelijke.</p>
+
+<p>De consulenten, vermeld in het eerste lid, 1°, zijn houder van een diploma dat blijk geeft van een voldoende pedagogische of sociale kennis. De administrateur-generaal van het agentschap Opgroeien is bevoegd om de diplomavoorwaarden vast te leggen.</p>
 
 ### ART. 57.
 
-<P>Aan het ondersteuningscentrum kunnen na goedkeuring daarvan door de   administrateur-generaal van het agentschap, vrijwillige consulenten worden   toegevoegd.<BR></P>  <P>Aan de vrijwillige consulenten kunnen deeltaken worden toevertrouwd, die   worden uitgevoerd onder de leiding en de verantwoordelijkheid van de consulent   die met het dossier belast is. De vrijwillige consulenten hebben recht op   terugbetaling van hun reis- en verblijfkosten in het kader van hun opdrachten   volgens de normen die gelden voor de consulenten.<BR></P>
+<p>Aan het ondersteuningscentrum kunnen na goedkeuring daarvan door de administrateur-generaal van het agentschap Opgroeien, vrijwillige consulenten worden toegevoegd.</p>
+
+<p>Aan de vrijwillige consulenten kunnen deeltaken worden toevertrouwd, die worden uitgevoerd onder de leiding en de verantwoordelijkheid van de consulent die met het dossier belast is. De vrijwillige consulenten hebben recht op terugbetaling van hun reis- en verblijfkosten in het kader van hun opdrachten volgens de normen die gelden voor de consulenten.</p>
 
 ### ART. 58.
 
@@ -395,7 +454,14 @@ De hoedanigheid van consulent bij het ondersteuningscentrum is   onverenigbaar m
 
 ### ART. 60.
 
-<P>Het ondersteuningscentrum kan voor de inbreng van diagnostiek een beroep doen   op externe deskundigen of organisaties die niet betrokken zijn bij de   jeugdhulpverlening aan de betrokken minderjarige.<BR></P>  <P>De externe deskundigen, vermeld in het eerste lid, kunnen personen zijn met   de volgende expertises:<BR>1° medische expertise in handicap, stoornissen en   psychopathologie bij kinderen en jongeren;<BR>2° expertise in het   cliëntperspectief;<BR>3° andere expertise die relevant is voor de   indicatiestelling.<BR></P>  <P>De administrateur-generaal van het agentschap bepaalt de voorwaarden voor de   samenwerking met de deskundigen, vermeld in het eerste lid, en bepaalt de   vergoeding, de procedure en de wijze van uitbetaling van de vergoeding aan deze   deskundigen. <BR></P>
+<p>Het ondersteuningscentrum kan voor de inbreng van diagnostiek een beroep doen op externe deskundigen of organisaties die niet betrokken zijn bij de jeugdhulpverlening aan de betrokken minderjarige.</p>
+
+<p>De externe deskundigen, vermeld in het eerste lid, kunnen personen zijn met de volgende expertises:<br>
+1° medische expertise in handicap, stoornissen en psychopathologie bij kinderen en jongeren;<br>
+2° expertise in het cliëntperspectief;<br>
+3° andere expertise die relevant is voor de indicatiestelling.</p>
+
+<p>De administrateur-generaal van het agentschap Opgroeien bepaalt de voorwaarden voor de samenwerking met de deskundigen, vermeld in het eerste lid, en bepaalt de vergoeding, de procedure en de wijze van uitbetaling van de vergoeding aan deze deskundigen.</p>
 
 ### ART. 61.
 
@@ -405,7 +471,9 @@ Een afgesloten dossier wordt door de gemandateerde voorzieningen bewaard   tot m
 
 ### ART. 62.
 
-<P>Een aanmelding bij de gemandateerde voorziening gebeurt via elektronische   weg, door de nodige gegevens aan te leveren met het document aanmelding bij de   gemandateerde voorziening waarvan het model wordt vastgelegd door de   administrateur-generaal van het agentschap.<BR></P>  <P>Het document, vermeld in het eerste lid, en wijzigingen aan het document   worden voor akkoord voorgelegd aan het Managementcomité Integrale   Jeugdhulp.<BR></P>  <P>Personen of voorzieningen die jeugdhulpverlening aanbieden en die geen   jeugdhulpaanbieder zijn, zijn gemachtigd als aanmelder bij de gemandateerde   voorziening op voorwaarde dat ze behoren tot de categorieën, vermeld in de   bijlage die bij dit besluit is gevoegd.<BR></P>
+<p>Een aanmelding bij de gemandateerde voorziening gebeurt via elektronische weg, door de nodige gegevens aan te leveren met het document aanmelding bij de gemandateerde voorziening waarvan het model wordt vastgelegd door de administrateur-generaal van het agentschap Opgroeien.</p>
+
+<p>Personen of voorzieningen die jeugdhulpverlening aanbieden en die geen jeugdhulpaanbieder zijn, zijn gemachtigd als aanmelder bij de gemandateerde voorziening op voorwaarde dat ze behoren tot de categorieën, vermeld in de bijlage die bij dit besluit is gevoegd.</p>
 
 ### ART. 63.
 
@@ -447,7 +515,9 @@ Bij de keuze om een minderjarige aan te melden bij hetzij het   ondersteuningsce
 
 ### ART. 72.
 
-<P>De doorverwijzing, vermeld in artikel 39 van het decreet van 12 juli 2013,   gebeurt door de nodige gegevens aan te leveren met het document aanmelding bij   het openbaar ministerie waarvan het model wordt vastgelegd door de   administrateur-generaal van het agentschap.<BR></P>  <P>Het document, vermeld in het eerste lid, en wijzigingen aan het document   worden voor akkoord voorgelegd aan het Managementcomité Integrale   Jeugdhulp.<BR></P>  <P>De doorverwijzing naar het Openbaar Ministerie, vermeld in artikel 39 van het   decreet van 12 juli 2013, bevat naast de gegevens, vermeld in artikel 40 van het   voormelde decreet, de identificatiegegevens van de minderjarige, zijn ouders, in   voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit   zijn leefomgeving, waaronder het rijksregisternummer van de minderjarige en   gegevens met betrekking tot de jeugdhulpverlening die in het verleden werd   verleend aan de betrokken personen. <BR></P>
+<p>De doorverwijzing, vermeld in artikel 39 van het decreet van 12 juli 2013, gebeurt door de nodige gegevens aan te leveren met het document aanmelding bij het openbaar ministerie waarvan het model wordt vastgelegd door de administrateur-generaal van het agentschap Opgroeien.</p>
+
+<p>De doorverwijzing naar het Openbaar Ministerie, vermeld in artikel 39 van het decreet van 12 juli 2013, bevat naast de gegevens, vermeld in artikel 40 van het voormelde decreet, de identificatiegegevens van de minderjarige, zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving, waaronder het rijksregisternummer van de minderjarige en gegevens met betrekking tot de jeugdhulpverlening die in het verleden werd verleend aan de betrokken personen.</p>
 
 ## HOOFDSTUK 8 Een subsidiair aanbod crisisjeugdhulpverlening
 
@@ -494,7 +564,15 @@ De jeugdhulpaanbieders informeren de minderjarige, zijn ouders en, in   voorkome
 
 ### ART. 77.
 
-<P>De sociale dienst bestaat minstens uit de functies:<BR>1° consulent;<BR>2°   teamverantwoordelijke.<BR></P>  <P>De consulenten, vermeld in het eerste lid, 1°, zijn houder van een diploma   dat blijk geeft van een voldoende pedagogische of sociale kennis. De   administrateur-generaal van het agentschap is bevoegd om de diplomavoorwaarden   vast te leggen.<BR></P>  <P>De toevoeging van vrijwillige consulenten, vermeld in artikel 56, tweede lid,   van het decreet van 12 juli 2013, gebeurt na goedkeuring daarvan door de   administrateur-generaal van het agentschap. Aan de vrijwillige consulenten   kunnen deeltaken worden toevertrouwd, die worden uitgevoerd onder de leiding en   de verantwoordelijkheid van de consulent die met het dossier belast is. De   vrijwillige consulenten hebben recht op terugbetaling van hun reis- en   verblijfkosten in het kader van hun opdrachten volgens de normen die gelden voor   de consulenten.<BR></P>  <P>De hoedanigheid van consulent en van vrijwillig consulent bij de sociale   dienst is onverenigbaar met de hoedanigheid van personeelslid van de   toegangspoort of van een gemandateerde voorziening.<BR></P>
+<p>De sociale dienst bestaat minstens uit de functies:<br>
+1° consulent;<br>
+2° teamverantwoordelijke.</p>
+
+<p>De consulenten, vermeld in het eerste lid, 1°, zijn houder van een diploma dat blijk geeft van een voldoende pedagogische of sociale kennis. De administrateur-generaal van het agentschap Opgroeien is bevoegd om de diplomavoorwaarden vast te leggen.</p>
+
+<p>De toevoeging van vrijwillige consulenten, vermeld in artikel 56, tweede lid, van het decreet van 12 juli 2013, gebeurt na goedkeuring daarvan door de administrateur-generaal van het agentschap Opgroeien. Aan de vrijwillige consulenten kunnen deeltaken worden toevertrouwd, die worden uitgevoerd onder de leiding en de verantwoordelijkheid van de consulent die met het dossier belast is. De vrijwillige consulenten hebben recht op terugbetaling van hun reis- en verblijfkosten in het kader van hun opdrachten volgens de normen die gelden voor de consulenten.</p>
+
+<p>De hoedanigheid van consulent en van vrijwillig consulent bij de sociale dienst is onverenigbaar met de hoedanigheid van personeelslid van de toegangspoort of van een gemandateerde voorziening.</p>
 
 ### ART. 78.
 
