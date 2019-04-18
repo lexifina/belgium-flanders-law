@@ -2,16 +2,16 @@
   "codex_id": 1026573,
   "title": "Besluit van de Vlaamse Regering van 2016-02-19 betreffende de bemiddeling, nazorg en inzage bij binnenlandse adoptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026573/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "fb63bee0f8505cb73e27c732636510cb33a781ce45f93476708c1a6ddc23359d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026573/VolledigDocument?datum=2019-04-18",
+  "source_sha256": "fc78fdfa2711e9ad41d7e3e6e7a4a88dbb17407ff0b4c53d063ec856c6bd28a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026573&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-04-18",
   "made": "2016-02-19",
   "gazette": "2016-03-24",
   "numac": 2016035315,
   "document_start": "2016-03-24",
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2019-04-18",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-18; future article versions excluded; article text as the API gives it"
 }

@@ -8,7 +8,16 @@
 
 ### ART. 1.
 
-In   dit besluit wordt verstaan onder personeelskosten:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   het brutosalaris, met inbegrip van de wettelijk verplichte   werkgeversbijdragen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   het vakantiegeld;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de eindejaarspremie;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de vergoeding voor woon-werkverkeer;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   de managementondersteuning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">6°   eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de   loonfiche: maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering,   gsm, laptop en internetaansluiting;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">7°   opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de   werking van de dienst;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">8°   kosten voor een arbeidsongevallenverzekering en een bedrijfsgeneeskundige   dienst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+In dit besluit wordt verstaan onder personeelskosten:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien Regie;<br>
+1°/1 het brutosalaris, met inbegrip van de wettelijk verplichte werkgeversbijdragen;<br>
+2° het vakantiegeld;<br>
+3° de eindejaarspremie;<br>
+4° de vergoeding voor woon-werkverkeer;<br>
+5° de managementondersteuning;<br>
+6° eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche: maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm, laptop en internetaansluiting;<br>
+7° opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de werking van de dienst;<br>
+8° kosten voor een arbeidsongevallenverzekering en een bedrijfsgeneeskundige dienst.
 
 ## HOOFDSTUK 2 Vergunning en subsidiëring van de dienst voor binnenlandse adoptie
 
@@ -40,7 +49,7 @@ Conform   artikel 14, § 1, tweede lid, van het decreet Binnenlandse Adoptie van
 
 ### ART. 8.
 
-De   dienst voor binnenlandse adoptie bezorgt jaarlijks, uiterlijk op 31 maart, een   jaarverslag aan het Vlaams Centrum voor Adoptie. Het jaarverslag bevat   cijfergegevens over de taken van de dienst, vermeld in artikel 14 van het   decreet Binnenlandse Adoptie van 3 juli 2015 en wordt opgesteld volgens de   richtlijnen van Kind en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De dienst voor binnenlandse adoptie bezorgt jaarlijks, uiterlijk op 31 maart, een jaarverslag aan het Vlaams Centrum voor Adoptie. Het jaarverslag bevat cijfergegevens over de taken van de dienst, vermeld in artikel 14 van het decreet Binnenlandse Adoptie van 3 juli 2015 en wordt opgesteld volgens de richtlijnen van het agentschap.
 
 ### ART. 9.
 
@@ -64,7 +73,17 @@ De   dienst voor binnenlandse adoptie bezorgt jaarlijks, uiterlijk op 31 maart, 
 
 ### ART. 11.
 
-<P>§   1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal   keert Kind en Gezin aan de dienst voor binnenlandse adoptie een voorschot uit.   Het bedrag van dat voorschot bedraagt een vierde van 90% van de basissubsidie,   vermeld in artikel 10, § 1, eerste lid.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   saldo van 10% van de basissubsidie wordt uitbetaald in de loop van het   daaropvolgende jaar.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De forfaitaire subsidie, vermeld in artikel 10, § 1, tweede lid, wordt ieder   kwartaal uitbetaald na aanvraag door de dienst voor binnenlandse adoptie. De   dienst voor binnenlandse adoptie gebruikt daarvoor het modelformulier dat ter   beschikking gesteld wordt door Kind en Gezin. De aanvraag bevat de volgende   elementen:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de referentie waaronder het dossier bekend is en het aantal gesprekken die met   de afstandsouder gevoerd werden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de opsomming van de opdrachten ontvangen van de familierechtbank, met hun   referentie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   dienst voor binnenlandse adoptie bezorgt de aanvraag uiterlijk op het einde van   de eerste maand van ieder kwartaal aan Kind en Gezin. Het bedrag wordt uiterlijk   uitbetaald op het einde van de maand die volgt op de maand van de   aanvraag.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Als de dienst voor binnenlandse adoptie ertoe aangemaand wordt om de tekorten   weg te werken als vermeld in artikel 30 en 31, kan de uitbetaling van de   subsidie geheel of gedeeltelijk opgeschort worden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Per kwartaal en uiterlijk op het einde van de eerste maand van het kwartaal keert het agentschap aan de dienst voor binnenlandse adoptie een voorschot uit. Het bedrag van dat voorschot bedraagt een vierde van 90% van de basissubsidie, vermeld in artikel 10, § 1, eerste lid.</p>
+
+<p>Het saldo van 10% van de basissubsidie wordt uitbetaald in de loop van het daaropvolgende jaar.</p>
+
+<p>§ 2. De forfaitaire subsidie, vermeld in artikel 10, § 1, tweede lid, wordt ieder kwartaal uitbetaald na aanvraag door de dienst voor binnenlandse adoptie. De dienst voor binnenlandse adoptie gebruikt daarvoor het modelformulier dat ter beschikking gesteld wordt door het agentschap. De aanvraag bevat de volgende elementen:<br>
+1° de referentie waaronder het dossier bekend is en het aantal gesprekken die met de afstandsouder gevoerd werden;<br>
+2° de opsomming van de opdrachten ontvangen van de familierechtbank, met hun referentie.</p>
+
+<p>De dienst voor binnenlandse adoptie bezorgt de aanvraag uiterlijk op het einde van de eerste maand van ieder kwartaal aan het agentschap. Het bedrag wordt uiterlijk uitbetaald op het einde van de maand die volgt op de maand van de aanvraag.</p>
+
+<p>§ 3. Als de dienst voor binnenlandse adoptie ertoe aangemaand wordt om de tekorten weg te werken als vermeld in artikel 30 en 31, kan de uitbetaling van de subsidie geheel of gedeeltelijk opgeschort worden.</p>
 
 ## Onderafdeling 2 Subsidievoorschriften
 
@@ -78,7 +97,13 @@ Ten   minste 70% en maximum 85% van de subsidie die krachtens dit besluit wordt 
 
 ### ART. 14.
 
-<P>§   1. Als de dienst voor binnenlandse adoptie in een boekjaar minder reële   personeelsuitgaven en werkingskosten heeft dan het bedrag van de subsidie die   krachtens dit besluit toegekend is, kan de dienst met dat overschot reserves   opbouwen. De aangelegde reserves moeten worden opgenomen in de balans.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   dienst voor binnenlandse adoptie mag die reserves alleen aanwenden voor dezelfde   doeleinden als de subsidie. De aanwending van die reserves moet worden   goedgekeurd door Kind en Gezin, tenzij de reserves worden aangewend voor de   aanzuivering van het deficit van de werkingsperiode.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als de gecumuleerde reserves meer bedragen dan 50% van de laatst toegekende   jaarsubsidie van de dienst voor binnenlandse adoptie, wordt het bedrag in meer   aan Kind en Gezin teruggestort. De dienst voor binnenlandse adoptie kan   jaarlijks maximaal 20% van de jaarsubsidie als reserve opbouwen. Als de   opgebouwde reserves meer bedragen dan dat percentage, wordt het bedrag in meer   teruggestort aan Kind en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Als de dienst voor binnenlandse adoptie zijn werking stopzet of zijn   vergunning verliest, worden de reserves die overblijven na aftrek van   ontslagpremies en kosten, goedgekeurd door Kind en Gezin en de Inspectie van   Financiën, integraal teruggestort.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Als de dienst voor binnenlandse adoptie in een boekjaar minder reële personeelsuitgaven en werkingskosten heeft dan het bedrag van de subsidie die krachtens dit besluit toegekend is, kan de dienst met dat overschot reserves opbouwen. De aangelegde reserves moeten worden opgenomen in de balans.</p>
+
+<p>De dienst voor binnenlandse adoptie mag die reserves alleen aanwenden voor dezelfde doeleinden als de subsidie. De aanwending van die reserves moet worden goedgekeurd door het agentschap, tenzij de reserves worden aangewend voor de aanzuivering van het deficit van de werkingsperiode.</p>
+
+<p>§ 2. Als de gecumuleerde reserves meer bedragen dan 50% van de laatst toegekende jaarsubsidie van de dienst voor binnenlandse adoptie, wordt het bedrag in meer aan het agentschap teruggestort. De dienst voor binnenlandse adoptie kan jaarlijks maximaal 20% van de jaarsubsidie als reserve opbouwen. Als de opgebouwde reserves meer bedragen dan dat percentage, wordt het bedrag in meer teruggestort aan het agentschap.</p>
+
+<p>§ 3. Als de dienst voor binnenlandse adoptie zijn werking stopzet of zijn vergunning verliest, worden de reserves die overblijven na aftrek van ontslagpremies en kosten, goedgekeurd door het agentschap en de Inspectie van Financiën, integraal teruggestort.</p>
 
 ### ART. 15.
 
@@ -88,7 +113,12 @@ Ten   minste 70% en maximum 85% van de subsidie die krachtens dit besluit wordt 
 
 ### ART. 16.
 
-<P>Kind   en Gezin erkent trefgroepen voor een hernieuwbare periode van vijf jaar, volgens   de procedures, vermeld in hoofdstuk 5.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Om   erkend te worden voldoet de trefgroep aan de voorwaarden, vermeld in artikel 23   van het decreet Binnenlandse Adoptie van 3 juli 2015, en aan de volgende   voorwaarden:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   ze heeft de ondersteuning en de belangenbehartiging van adoptanten of   geadopteerden als voornaamste activiteit en toont op dat vlak een regelmatige   werking aan;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   ze heeft een ledenbestand van minimaal dertig adoptanten of   geadopteerden;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   ze staat open voor alle adoptanten of geadopteerden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap erkent trefgroepen voor een hernieuwbare periode van vijf jaar, volgens de procedures, vermeld in hoofdstuk 5.</p>
+
+<p>Om erkend te worden voldoet de trefgroep aan de voorwaarden, vermeld in artikel 23 van het decreet Binnenlandse Adoptie van 3 juli 2015, en aan de volgende voorwaarden:<br>
+1° ze heeft de ondersteuning en de belangenbehartiging van adoptanten of geadopteerden als voornaamste activiteit en toont op dat vlak een regelmatige werking aan;<br>
+2° ze heeft een ledenbestand van minimaal dertig adoptanten of geadopteerden;<br>
+3° ze staat open voor alle adoptanten of geadopteerden.</p>
 
 ### ART. 17.
 
@@ -122,29 +152,67 @@ Alle   bewijsstukken, waaronder de bewijsstukken van de uitgaven waarvoor subsid
 
 ### ART. 23.
 
-<P>§   1. De aanvraag van de vergunning als dienst voor binnenlandse adoptie of tot   erkenning als trefgroep, wordt met een aangetekende brief of tegen   ontvangstbevestiging ingediend bij Kind en Gezin.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag van een vergunning als dienst voor binnenlandse adoptie moet worden   ingediend met een modelformulier dat Kind en Gezin ter beschikking stelt en dat   de volgende gegevens bevat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit, de contactgegevens en de statuten van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een staving van de aanvraag waaruit blijkt dat aan de vergunningsvoorwaarden   voldaan is;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   de motivering van de aanvraag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   een beleidsplan met strategische en operationele doelstellingen voor de duur van   de erkenning en waarin de dienst aantoont hoe de voorwaarden, vermeld in artikel   16, 8° en 9°, van het decreet Binnenlandse Adoptie van 3 juli 2015, worden   gerealiseerd;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">5°   een verbintenis waarin de voorziening verklaart dat ze binnen een termijn van   één jaar aan de vergunningsvoorschriften zal voldoen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De aanvraag van een erkenning als trefgroep moet worden ingediend met een   modelformulier dat Kind en Gezin ter beschikking stelt en dat minstens de   volgende gegevens bevat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit, de contactgegevens en de statuten van de aanvrager.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de motivering van de aanvraag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   alle stukken waaruit blijkt dat aan de erkenningsvoorwaarden voldaan   is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De aanvraag van de vergunning als dienst voor binnenlandse adoptie of tot erkenning als trefgroep, wordt met een aangetekende brief of tegen ontvangstbevestiging ingediend bij het agentschap.</p>
+
+<p>De aanvraag van een vergunning als dienst voor binnenlandse adoptie moet worden ingediend met een modelformulier dat het agentschap ter beschikking stelt en dat de volgende gegevens bevat:<br>
+1° de identiteit, de contactgegevens en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de vergunningsvoorwaarden voldaan is;<br>
+3° de motivering van de aanvraag;<br>
+4° een beleidsplan met strategische en operationele doelstellingen voor de duur van de erkenning en waarin de dienst aantoont hoe de voorwaarden, vermeld in artikel 16, 8° en 9°, van het decreet Binnenlandse Adoptie van 3 juli 2015, worden gerealiseerd;<br>
+5° een verbintenis waarin de voorziening verklaart dat ze binnen een termijn van één jaar aan de vergunningsvoorschriften zal voldoen.</p>
+
+<p>§ 2. De aanvraag van een erkenning als trefgroep moet worden ingediend met een modelformulier dat het agentschap ter beschikking stelt en dat minstens de volgende gegevens bevat:<br>
+1° de identiteit, de contactgegevens en de statuten van de aanvrager.<br>
+2° de motivering van de aanvraag;<br>
+3° alle stukken waaruit blijkt dat aan de erkenningsvoorwaarden voldaan is.</p>
 
 ### ART. 24.
 
-<P>§   1. Kind en Gezin onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig   kalenderdagen na de ontvangst van de aanvraag brengt Kind en Gezin de aanvrager   met een aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet   ontvankelijk is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag is ontvankelijk als het de elementen, vermeld in artikel 23, § 1,   tweede lid, en § 2, bevat en tijdig aan Kind en Gezin werd bezorgd met een   aangetekende brief of door afgifte tegen ontvangstmelding.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Kind en Gezin behandelt de ontvankelijke aanvraag binnen een termijn van drie   maanden na de ontvangst ervan. De postdatum geldt daarbij als bewijs.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Binnen dertig kalenderdagen na de ontvangst van de aanvraag brengt&nbsp;het agentschap de aanvrager met een aangetekende brief ervan op de hoogte dat zijn aanvraag al of niet ontvankelijk is.</p>
+
+<p>De aanvraag is ontvankelijk als het de elementen, vermeld in artikel 23, § 1, tweede lid, en § 2, bevat en tijdig aan het agentschap werd bezorgd met een aangetekende brief of door afgifte tegen ontvangstmelding.</p>
+
+<p>§ 2. Het agentschap behandelt de ontvankelijke aanvraag binnen een termijn van drie maanden na de ontvangst ervan. De postdatum geldt daarbij als bewijs.</p>
 
 ### ART. 25.
 
-<P>Kind   en Gezin kan de aanvrager van een ontvankelijke aanvraag om aanvullende   informatie vragen. Tijdens die periode wordt de beslissingstermijn   geschorst.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvrager bezorgt de gevraagde aanvullende informatie aan Kind en Gezin binnen   vijftien kalenderdagen. Zo niet neemt Kind en Gezin een beslissing zonder   aanvullende informatie voor wat betreft de erkenning van de trefgroepen en geeft   het een advies voor wat betreft de vergunning voor de dienst voor binnenlandse   adoptie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap kan de aanvrager van een ontvankelijke aanvraag om aanvullende informatie vragen. Tijdens die periode wordt de beslissingstermijn geschorst.</p>
+
+<p>De aanvrager bezorgt de gevraagde aanvullende informatie aan het agentschap binnen vijftien kalenderdagen. Zo niet neemt het agentschap een beslissing zonder aanvullende informatie voor wat betreft de erkenning van de trefgroepen en geeft het een advies voor wat betreft de vergunning voor de dienst voor binnenlandse adoptie.</p>
 
 ### ART. 26.
 
-<P>§   1. Kind en Gezin neemt op basis van de gegevens, vermeld in artikel 23, een   voornemen tot erkenning of een voornemen tot weigering van de erkenning als   trefgroep. Kind en Gezin neemt een definitieve beslissing als geen enkele   aanvrager bezwaar kan aantekenen omdat er niet is voldaan aan één van de   voorwaarden, vermeld in artikel 34.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Kind   en Gezin brengt de aanvrager met een aangetekende brief op de hoogte van de   voorgenomen of definitieve beslissing. Die kennisgeving vermeldt   minstens:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit en de contactgegevens van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de voorgenomen of definitieve beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering   van de bestuurshandelingen, de motivering van de voorgenomen of definitieve   beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de bezwaarprocedure, in het geval van een voorgenomen beslissing.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Als er geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in   artikel 35, krijgt de voorgenomen beslissing van rechtswege een definitief   karakter nadat de termijn is afgelopen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Het agentschap neemt op basis van de gegevens, vermeld in artikel 23, een voornemen tot erkenning of een voornemen tot weigering van de erkenning als trefgroep. Het agentschap neemt een definitieve beslissing als geen enkele aanvrager bezwaar kan aantekenen omdat er niet is voldaan aan één van de voorwaarden, vermeld in artikel 34.</p>
+
+<p>Het agentschap brengt de aanvrager met een aangetekende brief op de hoogte van de voorgenomen of definitieve beslissing. Die kennisgeving vermeldt minstens:<br>
+1° de identiteit en de contactgegevens van de aanvrager;<br>
+2° de voorgenomen of definitieve beslissing;<br>
+3° overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen, de motivering van de voorgenomen of definitieve beslissing;<br>
+4° de bezwaarprocedure, in het geval van een voorgenomen beslissing.</p>
+
+<p>§ 2. Als er geen bezwaarschrift wordt ingediend binnen de termijn, vermeld in artikel 35, krijgt de voorgenomen beslissing van rechtswege een definitief karakter nadat de termijn is afgelopen.</p>
 
 ### ART. 27.
 
-<P>§   1. Kind en Gezin geeft op basis van de gegevens, vermeld in artikel 23, een   gemotiveerd en eensluidend advies aan de Vlaams Regering voor wat betreft de   vergunning van de dienst voor binnenlandse adoptie.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering brengt Kind en Gezin binnen één maand na ontvangst van het   advies op de hoogte van zijn beslissing.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Kind en Gezin bezorgt na ontvangst van de beslissing van de Vlaamse Regering,   onverwijld die beslissing aan de aanvrager. Deze kennisgeving vermeldt   minstens:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit en de contactgegevens van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering   van de bestuurshandelingen, de motivering van de beslissing;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   de beroepsmogelijkheid bij de Raad van State.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Het agentschap geeft op basis van de gegevens, vermeld in artikel 23, een gemotiveerd en eensluidend advies aan de Vlaams Regering voor wat betreft de vergunning van de dienst voor binnenlandse adoptie.</p>
+
+<p>De Vlaamse Regering brengt het agentschap binnen één maand na ontvangst van het advies op de hoogte van zijn beslissing.</p>
+
+<p>§ 2. Het agentschap bezorgt na ontvangst van de beslissing van de Vlaamse Regering, onverwijld die beslissing aan de aanvrager. Deze kennisgeving vermeldt minstens:<br>
+1° de identiteit en de contactgegevens van de aanvrager;<br>
+2° de beslissing;<br>
+3° overeenkomstig de wet van 29 juli 1991 betreffende de uitdrukkelijke motivering van de bestuurshandelingen, de motivering van de beslissing;<br>
+4° de beroepsmogelijkheid bij de Raad van State.</p>
 
 ## Afdeling 2 Procedure tot hernieuwing van de erkenning
 
 ### ART. 28.
 
-<P>De   aanvraag van de vernieuwing van de erkenning als trefgroep wordt uiterlijk zes   maanden voor het verstrijken van de erkenning ingediend bij Kind en Gezin met   een aangetekende brief of tegen ontvangstbevestiging.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanvraag wordt ingediend met het modelformulier dat Kind en Gezin ter   beschikking stelt en bevat:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de identiteit, de contactgegevens en de statuten van de aanvrager;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en   -voorschriften van dit besluit voldaan is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De aanvraag van de vernieuwing van de erkenning als trefgroep wordt uiterlijk zes maanden voor het verstrijken van de erkenning ingediend bij het agentschap met een aangetekende brief of tegen ontvangstbevestiging.</p>
+
+<p>De aanvraag wordt ingediend met het modelformulier dat het agentschap ter beschikking stelt en bevat:<br>
+1° de identiteit, de contactgegevens en de statuten van de aanvrager;<br>
+2° een staving van de aanvraag waaruit blijkt dat aan de erkenningsvoorwaarden en -voorschriften van dit besluit voldaan is.</p>
 
 ### ART. 29.
 
@@ -154,7 +222,9 @@ De   procedure verloopt verder conform artikel 24 tot en met 26.<BR   style="WHI
 
 ### ART. 30.
 
-<P>Kind   en Gezin stuurt aan de dienst voor binnenlandse adoptie of trefgroep een   aanmaning alvorens een voorgenomen beslissing tot opheffing of schorsing van de   erkenning of vergunning te nemen, tenzij in geval van fraude of als zich een   situatie voordoet die, als ze blijft duren, essentiële belangen van de   betrokkenen met betrekking tot de gezondheid, de veiligheid of het welzijn kan   aantasten. In dat geval kan onmiddellijk tot opheffing of schorsing van de   erkenning of vergunning worden overgegaan.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   aanmaning wordt verstuurd met een aangetekende zending of bij   deurwaardersexploot.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap stuurt aan de dienst voor binnenlandse adoptie of trefgroep een aanmaning alvorens een voorgenomen beslissing tot opheffing of schorsing van de erkenning of vergunning te nemen, tenzij in geval van fraude of als zich een situatie voordoet die, als ze blijft duren, essentiële belangen van de betrokkenen met betrekking tot de gezondheid, de veiligheid of het welzijn kan aantasten. In dat geval kan onmiddellijk tot opheffing of schorsing van de erkenning of vergunning worden overgegaan.</p>
+
+<p>De aanmaning wordt verstuurd met een aangetekende zending of bij deurwaardersexploot.</p>
 
 ### ART. 31.
 
@@ -162,9 +232,9 @@ De   aanmaning, vermeld in artikel 30, vermeldt:<BR   style="WHITE-SPACE: normal
 
 ### ART. 32.
 
-<p>§ 1. Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt Kind en Gezin een voorgenomen beslissing tot opheffing of schorsing van de erkenning of vergunning.<br>
+<p>§ 1. Als de tekorten binnen de vooropgestelde termijn niet weggewerkt zijn, neemt het agentschap een voorgenomen beslissing tot opheffing of schorsing van de erkenning of vergunning.<br>
 <br>
-Kind en Gezin betekent de voorgenomen beslissing met een aangetekende zending of bij deurwaardersexploot binnen drie maanden na afloop van de opgegeven termijn in de aanmaning.</p>
+Het agentschap betekent de voorgenomen beslissing met een aangetekende zending of bij deurwaardersexploot binnen drie maanden na afloop van de opgegeven termijn in de aanmaning.</p>
 
 <p>§ 2. De voorgenomen beslissing vermeldt:<br>
 1° de identiteit en de contactgegevens van de dienst voor binnenlandse adoptie of de trefgroep;<br>
@@ -180,11 +250,16 @@ Als   de dienst voor binnenlandse adoptie of de trefgroep geen bezwaarschrift in
 
 ### ART. 34.
 
-&nbsp;Er kan bij Kind en Gezin bezwaar   aangetekend worden tegen de voorgenomen beslissing tot:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   weigering van de erkenningsaanvraag;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   opheffing of schorsing van de erkenning of vergunning;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   weigering van de hernieuwing van de erkenning.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+&nbsp;Er kan bij het agentschap bezwaar aangetekend worden tegen de voorgenomen beslissing tot:<br>
+1° weigering van de erkenningsaanvraag;<br>
+2° opheffing of schorsing van de erkenning of vergunning;<br>
+3° weigering van de hernieuwing van de erkenning.
 
 ### ART. 35.
 
-<P>De   dienst voor binnenlandse adoptie of trefgroep dient het gemotiveerde   bezwaarschrift in, op straffe van niet-ontvankelijkheid, uiterlijk dertig   kalenderdagen vanaf de datum van de betekening van een voorgenomen beslissing   als vermeld in artikel 34. De postdatum geldt daarbij als bewijs.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bezwaarschrift wordt met een aangetekende brief of door afgifte van een brief   tegen ontvangstbevestiging aan Kind en Gezin bezorgd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De dienst voor binnenlandse adoptie of trefgroep dient het gemotiveerde bezwaarschrift in, op straffe van niet-ontvankelijkheid, uiterlijk dertig kalenderdagen vanaf de datum van de betekening van een voorgenomen beslissing als vermeld in artikel 34. De postdatum geldt daarbij als bewijs.</p>
+
+<p>Het bezwaarschrift wordt met een aangetekende brief of door afgifte van een brief tegen ontvangstbevestiging aan het agentschap bezorgd.</p>
 
 ### ART. 36.
 
@@ -192,7 +267,9 @@ Het   bezwaarschrift bevat, op straffe van niet-ontvankelijkheid, de volgende   
 
 ### ART. 37.
 
-<P>Kind   en Gezin onderzoekt de ontvankelijkheid van het bezwaarschrift. Binnen vijftien   kalenderdagen na de ontvangst brengt Kind en Gezin de indiener met een   aangetekende brief ervan op de hoogte dat zijn bezwaarschrift al of niet   ontvankelijk is.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   bezwaar is ontvankelijk als het de elementen, vermeld in artikel 36, bevat en   tijdig aan Kind en Gezin werd bezorgd met een aangetekende brief of door afgifte   tegen ontvangstmelding.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>Het agentschap onderzoekt de ontvankelijkheid van het bezwaarschrift. Binnen vijftien kalenderdagen na de ontvangst brengt het agentschap de indiener met een aangetekende brief ervan op de hoogte dat zijn bezwaarschrift al of niet ontvankelijk is.</p>
+
+<p>Het bezwaar is ontvankelijk als het de elementen, vermeld in artikel 36, bevat en tijdig aan het agentschap werd bezorgd met een aangetekende brief of door afgifte tegen ontvangstmelding.</p>
 
 ### ART. 38.
 
