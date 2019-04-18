@@ -59,11 +59,11 @@ De aanduiding van de bijkomende begunstigde heeft uitwerking vanaf de eerste dag
 
 § 1. Met toepassing van artikel 64, § 1, eerste lid en artikel 65, § 5, derde lid van het decreet van 27 april 2018 wijst de begunstigde op elektronische of schriftelijke wijze de uitbetalingsactor van zijn keuze aan en geeft een bankrekening op. Het verzoek wordt gedagtekend en ondertekend door de begunstigde.<br>
 <br>
-De begunstigde is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door Kind en Gezin en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
+De begunstigde is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door het agentschap Opgroeien regie en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
 <br>
 § 2. Met toepassing van artikel 65, § 1, eerste lid en tweede lid, van het decreet van 27 april 2018 wijzen de begunstigden op elektronische of schriftelijke wijze de uitbetalingsactor van hun keuze aan en geven ze een bankrekening op. Het verzoek wordt gedagtekend en ondertekend door beide begunstigden.<br>
 <br>
-Minstens een van de begunstigden is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door Kind en Gezin en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
+Minstens een van de begunstigden is titularis van de opgegeven bankrekening. De controle van de bankrekening geschiedt op basis van een door het agentschap Opgroeien regie en de financiële instelling van de begunstigde gesloten overeenkomst.<br>
 <br>
 § 3. De uitbetalingsactoren kunnen op eigen verantwoordelijkheid de gezinsbijslagen op de opgegeven bankrekening storten. Als ze na verloop van één maand geen bewijs hebben ontvangen dat minstens één van de begunstigden effectief titularis van de opgegeven bankrekening is, mogen de gezinsbijslagen niet langer op de opgegeven bankrekening worden gestort. In afwachting dat de begunstigden een nieuwe bankrekening opgeven, worden ze per circulaire cheque uitbetaald.<br>
 <br>
@@ -123,7 +123,7 @@ In de situaties, vermeld in het eerste en het tweede lid, informeert het agentsc
 
 De gezinsbijslagen, vermeld in boek 2, deel 1, van het decreet van 27 april 2018, verschuldigd voor een rechtgevend kind dat door bemiddeling of ten laste van een openbare overheid in een instelling is geplaatst, worden voor twee derde aan die instelling en voor één derde aan de begunstigden betaald.<br>
 <br>
-Als een rechtgevend kind ten laste van het Agentschap Jongerenwelzijn wordt geplaatst, wordt, in afwijking van het eerste lid, twee derde van de gezinsbijslagen aan het Fonds Jongerenwelzijn uitbetaald.<br>
+Als een rechtgevend kind ten laste van het het agentschap Opgroeien regie wordt geplaatst, wordt, in afwijking van het eerste lid, twee derde van de gezinsbijslagen aan het Fonds Jongerenwelzijn uitbetaald.<br>
 <br>
 De minister bepaalt de nadere regels voor de toepassing van de verdeelsleutel, vermeld in het eerste lid.
 
