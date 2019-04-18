@@ -20,11 +20,12 @@ In dit decreet wordt verstaan onder :<br>
 5° adoptiedienst : een door de Vlaamse Regering erkende instelling die aan adoptiebemiddeling doet en de&nbsp;nazorg verstrekt;<br>
 6° buitenlands kanaal : een instantie, instelling of persoon in het herkomstland van het kind die bij interlandelijke adoptie bemiddelt;<br>
 7° zelfstandige adoptie : de adoptie waarbij de adoptant geen beroep doet op een adoptiedienst en de adoptie zelfstandig tot stand brengt;<br>
-8° Vlaams Centrum voor Adoptie : de afdeling aangewezen binnen Kind en Gezin, die zal optreden als centrale autoriteit en belast is met de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet;<br>
+8° Vlaams Centrum voor Adoptie : de afdeling aangewezen binnen het agentschap, die zal optreden als centrale autoriteit en belast is met de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet;<br>
 9° Vlaamse adoptieambtenaar : de ambtenaar, benoemd binnen het Vlaams Centrum voor Adoptie, die de taken vervult die hem door dit decreet toegewezen worden;<br>
 10° Haags Verdrag : het verdrag inzake de bescherming van kinderen en de samenwerking op het gebied van de interlandelijke adoptie, ondertekend in Den Haag op 29 mei 1993;<br>
 11° samenwerkingsakkoord : het samenwerkingsakkoord van 12 december 2005 tussen de federale staat, de Vlaamse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie inzake de tenuitvoerlegging van de wet van 24 april 2003 tot hervorming van de adoptie;<br>
 12° Steunpunt Adoptie : een door de Vlaamse Regering erkende instelling die de taken, vermeld in artikel 7, § 2, uitvoert.<br>
+13° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie, dat is opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Opgroeien regie;<br>
 &nbsp;
 
 ## HOOFDSTUK 2 De informatie en voorbereiding door het Steunpunt Adoptie
@@ -229,7 +230,7 @@ De erkende adoptiediensten ontvangen de volgende subsidies :<br />1° een jaarli
 
 ### ART. 20.
 
-§ 1. Het Vlaams Centrum voor Adoptie is de afdeling binnen Kind en Gezin die zal optreden als centrale autoriteit inzake interlandelijke adoptie.<br>
+§ 1. Het Vlaams Centrum voor Adoptie is de afdeling binnen het agentschap die zal optreden als centrale autoriteit inzake interlandelijke adoptie.<br>
 <br>
 Het Vlaams Centrum voor Adoptie heeft als missie, samen met zijn partners, de nakoming van de door het Haags Verdrag opgelegde verplichtingen en opdrachten, vermeld in dit decreet.<br>
 <br>
@@ -269,7 +270,7 @@ b) onderzoek en goed- of afkeuring van het aangebrachte kanaal en het onverwijld
 <br>
 De Vlaamse Regering bepaalt de nadere regelen met betrekking tot de werking van het Vlaams Centrum voor Adoptie.<br>
 <br>
-§ 3. Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in titel II, hoofdstuk 5, van het Bestuursdecreet van 7 december 2018 moet Kind en Gezin alle klachten tegen partners, ook ouders, in de adoptieprocedure opnemen, behandelen en, eventueel, sanctioneren. De Vlaamse Regering bepaalt de verdere regels voor het opleggen van een eventuele sanctie.<br>
+§ 3. Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in titel II, hoofdstuk 5, van het Bestuursdecreet van 7 december 2018 moet het agentschap alle klachten tegen partners, ook ouders, in de adoptieprocedure opnemen, behandelen en, eventueel, sanctioneren. De Vlaamse Regering bepaalt de verdere regels voor het opleggen van een eventuele sanctie.<br>
 <br>
 § 4. Het Vlaams Centrum voor Adoptie voert de taken, vermeld in § 2, voor zover het om beleidsuitvoerende taken gaat, uit in samenhang met :<br>
 1° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid;<br>
@@ -287,7 +288,7 @@ Het Vlaams Centrum voor Adoptie registreert en verwerkt alle gegevens, met inbeg
 <br>
 De Vlaamse Regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en -verwerking, onverminderd de toepassing van de regelgeving over de bescherming van natuurlijke personen bij de verwerking van persoonsgegevens.<br>
 <br>
-§ 5. Het Vlaams Centrum voor Adoptie werkt voor de realisatie van zijn taken samen met overheden, instanties, instellingen, diensten en verenigingen die op het vlak van de toegewezen taken actief zijn en waarmee via Kind en Gezin samenwerkingsakkoorden zijn afgesloten.<br>
+§ 5. Het Vlaams Centrum voor Adoptie werkt voor de realisatie van zijn taken samen met overheden, instanties, instellingen, diensten en verenigingen die op het vlak van de toegewezen taken actief zijn en waarmee via het agentschap samenwerkingsakkoorden zijn afgesloten.<br>
 <br>
 § 6. ...<br>
 <br>
