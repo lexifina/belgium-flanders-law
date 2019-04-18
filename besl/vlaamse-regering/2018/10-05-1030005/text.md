@@ -189,7 +189,7 @@ De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte m
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
-§ 2. Het kind dat zich wegens of ten gevolge van een ziekte inschrijft voor minder dan zeventien lesuren per week, heeft recht op gezinsbijslagen op voorwaarde dat een arts attesteert dat de leerling door of ten gevolge van een ziekte niet in staat is meer lesuren te volgen. Kind en Gezin stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.<br>
+§ 2. Het kind dat zich wegens of ten gevolge van een ziekte inschrijft voor minder dan zeventien lesuren per week, heeft recht op gezinsbijslagen op voorwaarde dat een arts attesteert dat de leerling door of ten gevolge van een ziekte niet in staat is meer lesuren te volgen. Het agentschap Opgroeien regie stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.<br>
 <br>
 De minister bepaalt de nadere regels betreffende de vorm en inhoud van de attesten, vermeld in het eerste lid.<br>
 <br>
@@ -261,7 +261,7 @@ De ziekte van het kind wordt bewezen met ziekteattesten. Na zes maanden ziekte m
 <br>
 De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het tweede lid, uit te voeren.<br>
 <br>
-§ 2. Het kind dat zich wegens ziekte niet voor minstens 27 studiepunten kan inschrijven, heeft recht op gezinsbijslagen op voorwaarde dat een arts attesteert dat de student wegens ziekte niet in staat is meer studiepunten op te nemen. Kind en Gezin stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.<br>
+§ 2. Het kind dat zich wegens ziekte niet voor minstens 27 studiepunten kan inschrijven, heeft recht op gezinsbijslagen op voorwaarde dat een arts attesteert dat de student wegens ziekte niet in staat is meer studiepunten op te nemen. Het agentschap Opgroeien regie stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.<br>
 <br>
 De minister bepaalt de nadere voorwaarden betreffende vorm en inhoud van de attesten, vermeld in het eerste lid.<br>
 <br>
@@ -275,7 +275,7 @@ De minister wijst de dienst aan die bevoegd is om het onderzoek, vermeld in het 
 <br>
 § 5. Als het kind zich na het einde van de ziekteperiode in de loop van een academiejaar voor minder dan 27 studiepunten inschrijft, blijft het recht op gezinsbijslagen behouden voor het lopende academiejaar, op voorwaarde dat de arts attesteert dat het kind zich niet kan inschrijven voor minstens 27 studiepunten door de laattijdige inschrijving.<br>
 <br>
-Kind en Gezin stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.
+Het agentschap Opgroeien regie&nbsp;stelt hiertoe een attest ter beschikking dat de arts dient te hanteren.
 
 ### ART 27.
 
