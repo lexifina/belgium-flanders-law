@@ -16,7 +16,7 @@ De onbetwiste en opeisbare niet-fiscale schuldvorderingen inzake de toekenning v
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van het Departement Onderwijs en Vorming of een agentschap van het Vlaams Ministerie van Onderwijs en Vorming worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
-De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van Kind en Gezin, het Departement Welzijn, Volksgezondheid en Gezin, het agentschap Zorg en Gezondheid, het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, &nbsp;het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg en het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid,&nbsp;worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
+De onbetwiste en opeisbare niet-fiscale schuldvorderingen als gevolg van de taken van Opgroeien regie, het Departement Welzijn, Volksgezondheid en Gezin, het agentschap Zorg en Gezondheid, het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, &nbsp;het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg en het Vlaams Agentschap voor de Uitbetaling van Toelagen in het kader van het Gezinsbeleid,&nbsp;worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
 De onbetwiste en opeisbare niet-fiscale schuldvorderingen en de administratieve geldboeten als gevolg van de taken van het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen worden ingevorderd door personeelsleden van de Vlaamse Belastingdienst.<br>
 <br>
