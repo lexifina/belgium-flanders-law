@@ -30,10 +30,12 @@ Dit besluit is van toepassing op de afdeling Handhaving van het Departement Omge
 
 ### ART 2.
 
-Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren, namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscolleges gesubdelegeerd aan de volgende personen:<br>
+Met het oog een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren, namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscolleges gesubdelegeerd aan de volgende personen:<br>
+- Pieter Callebaut, adjunct van de directeur;<br>
+- Kris Franssens, adjunct van de directeur;<br>
 - Tine Renders, adviseur;<br>
-- Dries Wouters, adjunct van de directeur;<br>
-- Pieter Callebaut, adjunct van de directeur.<br>
+- Tania Van Laer, adjunct van de directeur;<br>
+- Dries Wouters, adjunct van de directeur.<br>
 <br>
 Deze subdelegatie omvat het nemen van beslissingen over:<br>
 a) Het instellen van rechtsgedingen;<br>
@@ -44,17 +46,19 @@ d) De afstand van het geding<br>
 
 ### ART 3.
 
-&nbsp;Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren (met uitzondering van de beslissingen over het instellen van rechtsgedingen, het berusten in een vonnis of arrest, of het instellen van rechtsmiddelen ertegen en de afstand van het geding), namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscolleges gesubdelegeerd aan de volgende personen:<br>
+Met het oog op een efficiënte en resultaatgerichte interne organisatie wordt de bevoegdheid om rechtsgedingen te voeren (met uitzondering van de beslissingen over het instellen van rechtsgedingen, het berusten in een vonnis of arrest, of het instellen van rechtsmiddelen ertegen en de afstand van het geding), namens de Vlaamse Regering als eiser, verweerder of tussenkomende partij voor de administratieve rechtscolleges gesubdelegeerd aan de volgende personen:<br>
 - Julie Cornelis, adjunct van de directeur;<br>
-- Ruth Dhaese, adjunct van de directeur;<br>
 - Lieveke De Frenne, adjunct van de directeur;<br>
+- Charlotte De Meersman, adjunct van de directeur;<br>
 - Deborah De Smet, adjunct van de directeur;<br>
+- Ruth D'haese, adjunct van de directeur;<br>
+- Hanne Diels, adjunct van de directeur;<br>
 - Sarah Meert, adjunct van de directeur;<br>
 - Katrien Op de Beeck, adjunct van de directeur;<br>
 - Christophe Schelfaut, adjunct van de directeur;<br>
-- Liesbeth Vanheusden, adjunct van de directeur;<br>
-- Tania Van Laer, adjunct van de directeur<br>
-&nbsp;
+- Leen Straetmans, adjunct van de directeur;<br>
+- Hannes Vanden Heule, adjunct van de directeur;<br>
+- Liesbeth Vanheusden, adjunct van de directeur.
 
 ### ART 4.
 
