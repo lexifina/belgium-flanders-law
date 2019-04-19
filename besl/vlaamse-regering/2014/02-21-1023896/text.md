@@ -148,7 +148,14 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 ### ART. 19.
 
-<P>De toegangspoort kan voor de inbreng van relevante expertise bij de   indicatiestelling en de jeugdhulpregie een beroep doen op externe deskundigen of   op organisaties die niet betrokken zijn bij de jeugdhulpverlening aan de   betrokken minderjarige.<BR></P>  <P>De externe deskundigen, vermeld in het eerste lid, kunnen personen zijn met   de volgende expertises:<BR>1° medische expertise in handicap, stoornissen en   psychopathologie bij kinderen en jongeren;<BR>2° expertise in het   cliëntperspectief;<BR>3° andere expertise die relevant is voor de   indicatiestelling.<BR></P>  <P>De administrateur-generaal van het agentschap bepaalt de voorwaarden voor de   samenwerking met de deskundigen, vermeld in het eerste lid, en bepaalt de   vergoeding, de procedure en de wijze van uitbetaling van de vergoeding aan de   deskundigen. <BR></P>
+<p>De toegangspoort kan voor de inbreng van relevante expertise bij de indicatiestelling en de jeugdhulpregie een beroep doen op externe deskundigen of op organisaties die niet betrokken zijn bij de jeugdhulpverlening aan de betrokken minderjarige.</p>
+
+<p>De externe deskundigen, vermeld in het eerste lid, kunnen personen zijn met de volgende expertises:<br>
+1° medische expertise in handicap, stoornissen en psychopathologie bij kinderen en jongeren;<br>
+2° expertise in het cliëntperspectief;<br>
+3° andere expertise die relevant is voor de indicatiestelling.</p>
+
+<p>De administrateur-generaal van het agentschap Opgroeien bepaalt de voorwaarden voor de samenwerking met de deskundigen, vermeld in het eerste lid, en bepaalt de vergoeding, de procedure en de wijze van uitbetaling van de vergoeding aan de deskundigen.</p>
 
 ### ART. 20.
 
