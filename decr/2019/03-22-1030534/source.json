@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030534,
+  "title": "Decreet van 2019-03-22 houdende wijziging van het decreet van 31 januari 2014 betreffende opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid voor Vlaams-Brabant aan de provincie Vlaams-Brabant",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030534/VolledigDocument?datum=2019-04-21",
+  "source_sha256": "383174f2d871af98461fa2f40d05c287426dd2fec1c5f36222435f7eda188232",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030534&param=informatie",
+  "as_of": "2019-04-21",
+  "made": "2019-03-22",
+  "gazette": "2019-04-11",
+  "numac": 2019011503,
+  "document_start": "2019-04-21",
+  "document_end": null,
+  "in_force": "2019-04-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
