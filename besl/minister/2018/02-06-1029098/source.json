@@ -2,16 +2,16 @@
   "codex_id": 1029098,
   "title": "Ministerieel besluit van 2018-02-06 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029098/VolledigDocument?datum=2018-03-18",
-  "source_sha256": "eef68cc9a3a013ba70a497c5b93f1514cc485f9af12523b0017e5b73f6a641ea",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029098/VolledigDocument?datum=2019-04-21",
+  "source_sha256": "682ab235322de0591da8217a5540b86020e2888248ad5a5f74af800ce50810db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029098&param=informatie",
-  "as_of": "2018-03-18",
+  "as_of": "2019-04-21",
   "made": "2018-02-06",
   "gazette": "2018-03-08",
   "numac": 2018011153,
   "document_start": "2018-03-18",
   "document_end": "2019-04-20",
-  "in_force": "2018-03-18",
+  "in_force": "2019-04-21",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-21; future article versions excluded; article text as the API gives it"
 }

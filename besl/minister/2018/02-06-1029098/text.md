@@ -18,12 +18,12 @@ Besluit :
 
 ### ART 1.
 
-Het Compendium voor Monsterneming en Analyse in het kader van het Materialendecreet en het Bodemdecreet, afgekort CMA, en de bijhorende inhoudstabel, gevoegd als bijlage bij dit besluit, worden goedgekeurd.
+...
 
 ### ART 2.
 
-Het ministerieel besluit van 10 januari 2017 houdende de vaststelling van het Compendium voor Monsterneming en Analyse wordt opgeheven.
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2018/03/08_1.pdf#page=80">Bijlage</a>
+...
