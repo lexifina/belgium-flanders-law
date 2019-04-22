@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031537,
+  "title": "Decreet van 2019-03-22 betreffende de toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen die voortvloeien uit hun gebruik",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031537/VolledigDocument?datum=2019-04-22",
+  "source_sha256": "639acbc1a215b1b5d670d2f4ff4c7f453671e775bb8d57bc9ad4330aa7ba16ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031537&param=informatie",
+  "as_of": "2019-04-22",
+  "made": "2019-03-22",
+  "gazette": "2019-04-12",
+  "numac": 2019011504,
+  "document_start": "2019-04-22",
+  "document_end": null,
+  "in_force": "2019-04-22",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2019-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
