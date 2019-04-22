@@ -2,16 +2,16 @@
   "codex_id": 1031536,
   "title": "Decreet van 2019-03-22 houdende wijziging van artikel 18, 19, 157, 184/1 en 218 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031536/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "63128716305feb8431c5c2dd2e6dfb46db4ed4d76654912b832efe4beae6c082",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031536/VolledigDocument?datum=2019-04-22",
+  "source_sha256": "25dfbb82f992d8ce2f2e446569491eaaef41c77b65f7804499861b681d3eff75",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031536&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-04-22",
   "made": "2019-03-22",
   "gazette": "2019-04-12",
   "numac": 2019011580,
   "document_start": "2019-04-22",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-04-22",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2019-04-22; future article versions excluded; article text as the API gives it"
 }
