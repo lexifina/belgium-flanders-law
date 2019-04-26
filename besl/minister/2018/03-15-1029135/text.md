@@ -23,8 +23,9 @@ Dit besluit treedt in werking op 15 maart 2018.
 
 ### BIJLAGE
 
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>De prestarterstrajecten zijn:</span></span></span>
-<table style='text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-color: initial; text-decoration-style: initial;' border="1">
+De prestarterstrajecten zijn:<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
 			<td>Traject</td>
@@ -74,8 +75,11 @@ Dit besluit treedt in werking op 15 maart 2018.
 			<td>Trajectbegeleiding met het oog op het bevorderen van ondernemerschap</td>
 			<td>Activiteitencoöperatie CVBA CO&amp;GO!</td>
 		</tr>
+		<tr>
+			<td>START 45+</td>
+			<td>Liantis</td>
+		</tr>
 	</tbody>
 </table>
 <br>
-<span style="font-size: medium;"><span style="color: rgb(0, 0, 0);"><span style='font-family: "Times New Roman";'>* met een minimum doorlooptijd van 6 weken.</span></span></span><br>
-&nbsp;
+*met een minimum doorlooptijd van 6 weken.
