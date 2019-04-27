@@ -63,6 +63,12 @@ Als de beoordelaar zijn contractuele verplichtingen niet langer kan nakomen, wor
 
 De beoordelaar stelt op regelmatige tijdstippen alle gemeten data, met respect voor de privacywetgeving, ter beschikking van de contracterende overheid. Het interval tussen die tijdstippen bedraagt maximaal drie maanden. De beoordelaar levert die data in een formaat dat geschikt is voor een opendatatoepassing.
 
+### ART 8/1.
+
+De Vlaamse Regering wordt belast met de evaluatie van de Vlaamse SIO-projecten. Op basis van die evaluatie formuleert ze aanbevelingen en maakt ze die bekend met het oog op de verdere kwalitatieve en kwantitatieve ontwikkeling van Vlaamse SIO-projecten.<br>
+<br>
+De Vlaamse Regering organiseert op verzoek ook de facilitaire ondersteuning van SIO-projecten van lokale besturen of ermee verbonden rechtspersonen.
+
 ### ART 9.
 
 In titel V, hoofdstuk 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, wordt een artikel 56bis ingevoegd, dat luidt als volgt:<br>
