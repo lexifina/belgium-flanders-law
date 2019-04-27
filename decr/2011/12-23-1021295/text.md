@@ -10,7 +10,7 @@ Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn 2008/98/EG van 
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder :<br>
+§ 1. In dit decreet wordt verstaan onder :<br>
 1° afvalstof : elke stof of elk voorwerp waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen. Worden niet als afvalstoffen beschouwd :<br>
 a) gasvormige effluenten die in de atmosfeer worden uitgestoten, en koolstofdioxide dat wordt afgevangen en getransporteerd met het oog op geologische opslag, en dat geologisch is opgeslagen overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond, dan wel op grond van artikel 37, tweede lid, van het decreet van 8 mei 2009 betreffende de diepe ondergrond buiten het toepassingsgebied van dit laatstgenoemde decreet valt;<br>
 b) dierlijke mest als vermeld in het decreet van 22 december 2006 houdende de bescherming van water tegen de verontreiniging door nitraten uit agrarische bronnen;<br>
@@ -22,6 +22,7 @@ f) radioactieve afvalstoffen, voor zover ze niet als vrijgegeven afvalstoffen wo
 3° afvalstoffenmakelaar : iedere onderneming die ten behoeve van anderen de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van makelaars die de afvalstoffen niet fysiek in hun bezit hebben;<br>
 4° afvalstoffenproducent : elke natuurlijke persoon of rechtspersoon wiens activiteiten afvalstoffen voortbrengen, zijnde de eerste afvalproducent, of eenieder die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;<br>
 5° afvalstoffenverwerking : nuttige toepassing of verwijdering, met inbegrip van voorbereidende handelingen die aan nuttige toepassing of verwijdering voorafgaan;<br>
+5° /1 asbesthoudende materialen: de materialen die op basis van -voorkennis en een beoordeling met het blote oog of op basis van een geldige monstername en analyse asbest bevatten;<br>
 6° bedrijfsafvalstoffen : afvalstoffen die ontstaan ten gevolge van een industriële, ambachtelijke of wetenschappelijke activiteit, en de afvalstoffen die daarmee gelijkgesteld worden bij een besluit van de Vlaamse Regering;<br>
 7° beheren van afvalstoffen : het inzamelen, het tussentijds opslaan en overslaan, het vervoeren, het nuttig toepassen en het verwijderen van afvalstoffen, met inbegrip van het houden van toezicht op die handelingen en het uitvoeren van de nazorg voor de stortplaatsen na sluiting, en met inbegrip van activiteiten van afvalstoffenhandelaars of -makelaars;<br>
 8° beste beschikbare technieken: beste beschikbare technieken als vermeld bij of krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 25 april 2014 betreffende de omgevingsvergunning;<br>
@@ -47,6 +48,18 @@ c) het gehalte aan schadelijke stoffen in stoffen en voorwerpen;<br>
 25° recyclage : elke nuttige toepassing waardoor afvalstoffen opnieuw worden bewerkt tot producten of stoffen, voor het oorspronkelijke doel of voor een ander doel. Dat omvat het opnieuw bewerken van organisch afval, maar het omvat niet energieterugwinning, noch het opnieuw bewerken tot materialen die bestemd zijn om te worden gebruikt als brandstof of als opvulmateriaal;<br>
 26° verwijdering : iedere handeling die geen nuttige toepassing is, zelfs indien de handeling er in tweede instantie toe leidt dat stoffen of energie worden teruggewonnen, alsook de handelingen die als dusdanig worden bepaald door de Vlaamse Regering;<br>
 27° voorbereiding voor hergebruik : elke nuttige toepassing die bestaat uit het controleren, schoonmaken of repareren, waarbij voorwerpen of componenten van voorwerpen die afvalstoffen zijn geworden, worden klaargemaakt zodat ze kunnen worden hergebruikt zonder dat verdere voorbehandeling nodig is.<br>
+<br>
+§ 2. Voor de toepassing van afdeling 6 van hoofdstuk 3 wordt verstaan onder:<br>
+1° asbest: de vezelachtige silicaten actinoliet, amosiet, anthofylliet, chrysotiel, crocidoliet en tremoliet;<br>
+2° constructie met risicobouwjaar: de constructie met inbegrip van al wat onroerend is geworden door bestemming of incorporatie, met bouwjaar 2000 of ouder, met uitsluiting van de openbare ondergrondse infrastructuur die bestemd is voor de transit, het transport, de transmissie of de distributie van vaste, vloeibare of gasvormige stoffen, energie of informatie. Een constructie is een gebouw, een bouwwerk, een vaste inrichting, een verharding met uitzondering van steenslag, al dan niet bestaande uit duurzame materialen, in de grond ingebouwd, aan de grond bevestigd of op de grond steunend omwille van de stabiliteit, en bestemd om ter plaatse te blijven staan of liggen, ook al kan het goed uit elkaar genomen worden, verplaatst worden, of is het goed volledig ondergronds;<br>
+3° eenvoudig bereikbare asbesthoudende materialen: de asbesthoudende materialen die waar te nemen en weg te nemen zijn zonder de bouwkundige integriteit van een constructie of erfgoedkenmerken van een beschermd onroerend erfgoed aan te tasten binnen de normale beheers- en onderhoudscycli of een vergelijkbare stilstand bij industriële installaties. Asbesthoudende materialen die bedekt zijn door een ander materiaal, met uitzondering van een laag verf, coating, behang, kunststof of textiel, zijn niet eenvoudig bereikbaar, tenzij het bedekkend materiaal kan worden weggenomen zonder het te beschadigen;<br>
+4° eigenaar: de volle of blote eigenaar. Wanneer het eigendomsrecht in onverdeeldheid is, wordt elk van de onverdeelde houders van dat recht hoofdelijk en ondeelbaar beschouwd als eigenaar;<br>
+5° hechtgebonden asbesthoudende materialen: asbestcement, asbesthoudende vloertegels en vloerbekledingen, asbesthoudende bitumen en roofingproducten en asbesthoudende pakkingen en dichtingen waarvan het bindmiddel bestaat uit cement, bitumen, kunststof of lijm;<br>
+6° niet-hechtgebonden asbesthoudende materialen: alle asbesthoudende materialen die niet hechtgebonden zijn;<br>
+7° openbare, technische toegankelijke constructie met risicobouwjaar: een voor mensen toegankelijke constructie met risicobouwjaar die van openbaar nut is met hoofdzakelijk technische functie vervat onder kunstwerken en lijninfrastructuur en hun aanhorigheden;<br>
+8° overdracht: het onder levenden overdragen van een eigendomsrecht, het onder levenden vestigen of overdragen van een recht van vruchtgebruik, een erfpacht, een opstalrecht of een zakelijk recht van gebruik. Een onteigening en een erfenis worden niet beschouwd als een overdracht;<br>
+9° toegankelijke constructie met risicobouwjaar: elke constructie met risicobouwjaar die mensen binnen kunnen betreden. Een constructie kan binnen betreden worden als ze minstens bestaat uit een dak dat gedragen wordt door constructie-elementen, en als een mens er normaal in kan staan of lopen;<br>
+10° publieke constructie met risicobouwjaar: elke constructie met risicobouwjaar die een publieke organisatie huisvest die aan een groot aantal personen overheidsdiensten verstrekken. Een publieke organisatie is een overheid, een parastatale, of een organisatie die publieke diensten aanbiedt die door een overheid worden verzorgd, uitbesteed of gesubsidieerd.<br>
 &nbsp;
 
 ### ART. 4.
@@ -89,7 +102,20 @@ Overeenkomstig het beginsel 'de vervuiler betaalt' worden de kosten van het afva
 
 ### ART. 12.
 
-§ 1. Het is verboden afvalstoffen achter te laten of te beheren in strijd met de voorschriften van dit decreet of de uitvoeringsbesluiten ervan.<br /><br />§ 2. Het is verboden materialen te gebruiken of te verbruiken in strijd met de voorschriften van dit decreet of de uitvoeringsbesluiten ervan.<br /><br />§ 3. De natuurlijke persoon of rechtspersoon die afvalstoffen beheert, is verplicht alle maatregelen te nemen die redelijkerwijs kunnen worden genomen om gevaar voor de gezondheid van de mens of voor het milieu, meer bepaald risico voor water, lucht, bodem, fauna en flora, geluids- of geurhinder, schade aan natuur- en landschapsschoon te voorkomen of zoveel mogelijk te beperken.<br /><br />De Vlaamse Regering kan die maatregelen nader omschrijven.<br /><br />
+§ 1. Het is verboden afvalstoffen achter te laten of te beheren in strijd met de voorschriften van dit decreet of de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 2. Het is verboden materialen te gebruiken of te verbruiken in strijd met de voorschriften van dit decreet of de uitvoeringsbesluiten ervan.<br>
+<br>
+§ 3. De natuurlijke persoon of rechtspersoon die afvalstoffen beheert, is verplicht alle maatregelen te nemen die redelijkerwijs kunnen worden genomen om gevaar voor de gezondheid van de mens of voor het milieu, meer bepaald risico voor water, lucht, bodem, fauna en flora, geluids- of geurhinder, schade aan natuur- en landschapsschoon te voorkomen of zoveel mogelijk te beperken.<br>
+<br>
+De Vlaamse Regering kan die maatregelen nader omschrijven.<br>
+<br>
+§ 4. De natuurlijke persoon of rechtspersoon die asbesthoudende materialen beheert, is verplicht alle maatregelen te nemen die redelijkerwijs kunnen worden genomen om het gevaar voor de gezondheid van de mens of voor het milieu, meer bepaald het risico voor water, lucht en bodem te voorkomen of zoveel mogelijk te beperken.<br>
+<br>
+Asbestverdacht materiaal wordt als asbesthoudend materiaal beschouwd tenzij op basis van een geldige monstername en analyse de afwezigheid van asbest met zekerheid kan worden aangetoond. Onder asbestverdacht materiaal wordt verstaan: materiaal dat op basis van voorkennis en een beoordeling met het blote oog mogelijk asbest bevat.<br>
+<br>
+De Vlaamse Regering kan de maatregelen, vermeld in het eerste lid, nader omschrijven.<br>
+&nbsp;
 
 ### ART. 13.
 
@@ -105,7 +131,22 @@ De Vlaamse Regering kan de invoer, uitvoer en doorvoer van afvalstoffen   verbie
 
 ### ART. 15.
 
-De Vlaamse Regering stelt nadere regels vast voor het toekennen van subsidies aan :<br />1° natuurlijke personen of rechtspersonen die maatregelen en initiatieven nemen overeenkomstig de doelstellingen, vermeld in artikel 4, onder meer ter bevordering van :<br />a) de preventie van afvalstoffen, het hergebruik en het efficiënter en minder milieubelastend gebruik van materialen via aangepaste productie- en consumptiepatronen;<br />b) de samenwerking tussen verschillende actoren binnen een of meer materiaalkringlopen met het oog op het verlagen van de milieueffecten van die materiaalkringlopen;<br />c) de gescheiden inzameling van afvalstoffen, de recyclage en het aanwenden van materialen in gesloten materiaalkringlopen;<br />d) de afzetmarkt voor uit afvalstoffen teruggewonnen producten en grondstoffen;<br />e) een optimalisatie van het beheer van materiaalkringlopen en afvalstoffen;<br />f) het onderzoek en de ontwikkeling voor de verwezenlijking van schonere en minder verspillende technologieën, producten en diensten, alsook de verspreiding en toepassing van de resultaten van onderzoek en ontwikkeling op dat gebied;<br />2° lokale besturen ten behoeve van opdrachten ter uitvoering van de uitvoeringsplannen die van toepassing zijn, als vermeld in artikel 18;<br />3° de natuurlijke personen of rechtspersonen, vermeld in artikel 9, § 2, die een kringloopcentrum uitbaten, voor de werking, investeringen of personeel;<br />4° de gemeenten en verenigingen van gemeenten, vermeld in artikel 27, eerste lid, voor de kosten van selectieve ophaling of inzameling.<br /><br />De subsidies worden steeds toegekend binnen de perken van de in de begroting opgenomen kredieten.<br /><br />
+De Vlaamse Regering stelt nadere regels vast voor het toekennen van subsidies aan :<br>
+1° natuurlijke personen of rechtspersonen die maatregelen en initiatieven nemen overeenkomstig de doelstellingen, vermeld in artikel 4, onder meer ter bevordering van :<br>
+a) de preventie van afvalstoffen, het hergebruik en het efficiënter en minder milieubelastend gebruik van materialen via aangepaste productie- en consumptiepatronen;<br>
+b) de samenwerking tussen verschillende actoren binnen een of meer materiaalkringlopen met het oog op het verlagen van de milieueffecten van die materiaalkringlopen;<br>
+c) de gescheiden inzameling van afvalstoffen, de recyclage en het aanwenden van materialen in gesloten materiaalkringlopen;<br>
+d) de afzetmarkt voor uit afvalstoffen teruggewonnen producten en grondstoffen;<br>
+e) een optimalisatie van het beheer van materiaalkringlopen en afvalstoffen;<br>
+f) het onderzoek en de ontwikkeling voor de verwezenlijking van schonere en minder verspillende technologieën, producten en diensten, alsook de verspreiding en toepassing van de resultaten van onderzoek en ontwikkeling op dat gebied;<br>
+2° lokale besturen ten behoeve van opdrachten ter uitvoering van de uitvoeringsplannen die van toepassing zijn, als vermeld in artikel 18;<br>
+3° de natuurlijke personen of rechtspersonen, vermeld in artikel 9, § 2, die een kringloopcentrum uitbaten, voor de werking, investeringen of personeel;<br>
+4° de gemeenten en verenigingen van gemeenten, vermeld in artikel 27, eerste lid, voor de kosten van selectieve ophaling of inzameling;<br>
+5° natuurlijke personen, rechtspersonen en overheden voor de inventarisatie, de ontmanteling, de inzameling, het transport of de verwerking van asbesthoudende materialen, vermeld in hoofdstuk 3, afdeling 6;<br>
+6° lokale besturen voor de organisatie van het toezicht op en de handhaving van het asbestafbouwbeleid.<br>
+<br>
+De subsidies worden steeds toegekend binnen de perken van de in de begroting opgenomen kredieten.<br>
+&nbsp;
 
 ### ART. 16.
 
@@ -203,7 +244,57 @@ De Vlaamse Regering kan nadere regels vaststellen waaraan de centra voor het dep
 
 ## [Onderafdeling 6.1 Algemene bepalingen (ing. decr. 29 maart 2019, art. 7, I: 27 april 2019)]
 
+### ART 33/1.
+
+Het is verboden constructies zoals zonnepanelen, overzetdaken en reclamepanelen te bevestigen aan of over asbesthoudende dak- en gevelbekleding. Het is eveneens verboden asbesthoudende dak- en gevelbekleding in te sluiten of te bedekken met andere materialen.
+
+### ART 33/2.
+
+Het is verboden dak- en gevelbekleding van asbestcement te reinigen of te ontmossen.
+
+### ART 33/3.
+
+De Vlaamse Regering kan nadere regels vaststellen voor het beheer van afstromend hemelwater van een dak- of gevelbekleding van asbestcement om de impact op mens en milieu te minimaliseren.
+
+### ART 33/4.
+
+De Vlaamse Regering kan het afleveren van een afgiftebewijs bij afgifte van asbesthoudende huishoudelijke afvalstoffen aan een natuurlijk persoon of rechtspersoon die overeenkomstig artikel 11 houder is van een vergunning voor de verwijdering van de afvalstoffen of aan een geregistreerde afvalstoffenhandelaar of -makelaar als vermeld in artikel 13, verplichten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vaststellen betreffende de inhoud en de aflevering van het afgiftebewijs, vermeld in het eerste lid.
+
 ## [Onderafdeling 6.2 Verwijderingsplicht asbesthoudende materialen (ing. decr. 29 maart 2019, art. 12, I: 27 april 2019)]
+
+### ART 33/5.
+
+Elke eigenaar van een publieke constructie met risicobouwjaar is verplicht zijn constructie met risicobouwjaar tegen 1 januari 2034 te ontdoen van de volgende asbesthoudende materialen:<br>
+1° alle eenvoudig bereikbare niet-hechtgebonden asbesthoudende materialen met uitzondering van asbesthoudend pleisterwerk op wanden dat een laag risico vormt als vermeld in artikel 33/6, derde lid;<br>
+2° alle dak- en gevelbekledingen, dakgoten, rookgaskanalen en hemelwaterafvoerkanalen bestaande uit asbestcement als ze zich aan de buitenzijde bevinden.<br>
+<br>
+Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, is voldaan. Voor de andere constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.<br>
+<br>
+De Vlaamse Regering kan een uitstel voor een duur van maximaal twee jaar verlenen voor de uitvoering van de verplichting, vermeld in het eerste lid, zowel voor bepaalde doelgroepen als voor bepaalde categorieën van constructies met risicobouwjaar.<br>
+<br>
+De Vlaamse Regering kan bepalen dat een uitstel kan worden bekomen tot 2040 als wordt aangetoond dat de verplichting, vermeld in het eerste lid, niet kan worden gerealiseerd zonder de openbare gezondheid of veiligheid in gevaar te brengen. De Vlaamse Regering bepaalt hiervoor de voorwaarden en de modaliteiten van de aanvraag.
+
+### ART 33/6.
+
+Elke eigenaar van een publieke constructie met risicobouwjaar is verplicht om:<br>
+1° tegen 1 januari 2040 zijn constructie met risicobouwjaar asbestveilig te maken;<br>
+2° de asbestveilige toestand na 1 januari 2040 te behouden.<br>
+<br>
+Een asbestveilige toestand is een toestand waarin bij normaal gebruik van de publieke constructie met risicobouwjaar geen blootstellingsrisico's kunnen ontstaan voor mens en milieu doordat men zich heeft ontdaan van alle eenvoudig bereikbare asbesthoudende materialen met niet-laag risico en de resterende asbesthoudende materialen veilig worden beheerd.<br>
+<br>
+Asbesthoudende materialen hebben een laag risico wanneer het op basis van hun aard, staat en voorkomen weinig waarschijnlijk is dat asbestvezels kunnen vrijkomen. Asbesthoudende materialen worden veilig beheerd als de materialen met laag risico deze status behouden en er voor de materialen met niet-laag risico maatregelen zijn getroffen om het risico op het vrijkomen van asbestvezels te verhinderen. In het inspectieprotocol, vermeld in artikel 33/10, § 3, kunnen nadere regels worden vastgesteld omtrent de risico-evaluatie en het veilig beheer van asbesthoudende materialen.<br>
+<br>
+Voor publieke constructies met risicobouwjaar waarvoor de eigenaar overeenkomstig artikel 33/9 over een asbestinventarisattest moet beschikken, bewijst dit attest of al dan niet aan de verplichting, vermeld in het eerste lid, 1°, is voldaan. Voor de andere constructies met risicobouwjaar kan de Vlaamse Regering bepalen hoe de naleving van deze verplichting kan worden aangetoond.
+
+### ART 33/7.
+
+Met behoud van de toepassing van de artikelen 33/5 en 33/6 ontdoet de eigenaar van een constructie zich via de geëigende kanalen bij onderhouds-, herstellings- of ontmantelingswerken in constructies altijd van alle asbesthoudende materialen die door de werken eenvoudig bereikbaar geworden zijn.
+
+### ART 33/8.
+
+De OVAM kan overgaan tot het uitvoeren van de ontmanteling, de inzameling, het transport of de verwerking van asbesthoudende materialen. Voor de ontzorging, prefinanciering en financiering daarvan door de OVAM kan de Vlaamse Regering een regeling treffen of een overeenkomst sluiten.
 
 ## [Onderafdeling 6.3 Asbestinventarisatie (ing. decr. 29 maart 2019, art. 17, I: 27 april 2019)]
 
@@ -534,7 +625,25 @@ De gemeenten zijn ertoe gerechtigd een beroep te doen op de OVAM met het oog op 
 
 ### ART. 66.
 
-§ 1. De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning als laboratorium voor de uitvoering van analyses op stalen van afvalstoffen en bodem, vermeld in artikel 7, tweede lid, afhankelijk stellen van de betaling van een retributie.<br /><br />De Vlaamse Regering kan de aanvraag tot opname in een register als vermeld in artikel 13, § 1, afhankelijk stellen van de betaling van een retributie.<br /><br />De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning of registratie voor het beheer van dierlijke bijproducten als vermeld in artikel 33, § 3, afhankelijk stellen van de betaling van een retributie.<br /><br />De Vlaamse Regering kan de beoordeling van een aanvraag tot aflevering van een grondstofverklaring als vermeld in artikel 40 voor de producent van de beoogde grondstof of de natuurlijke persoon of rechtspersoon die in diens naam optreedt, afhankelijk stellen van de betaling van een retributie.<br /><br />§ 2. Als de Vlaamse Regering in de gevallen, vermeld in paragraaf 1, een retributie vaststelt, moet, op straffe van onontvankelijkheid, het bewijs van betaling van de retributie bij de aanvraag gevoegd worden.<br /><br />§ 3. De Vlaamse Regering bepaalt het bedrag en de wijze van inning van de retributies, vermeld in paragraaf 1.<br />De Vlaamse Regering wijst de ambtenaren van de OVAM aan die belast zijn met de inning en de invordering van de retributies, vermeld in paragraaf 1, en stelt de nadere regels voor hun bevoegdheid vast.<br /><br />
+§ 1. De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning als laboratorium voor de uitvoering van analyses op stalen van afvalstoffen en bodem, vermeld in artikel 7, tweede lid, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+De Vlaamse Regering kan de aanvraag tot opname in een register als vermeld in artikel 13, § 1, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+De Vlaamse Regering kan de beoordeling van een aanvraag tot erkenning of registratie voor het beheer van dierlijke bijproducten als vermeld in artikel 33, § 3, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+De Vlaamse Regering kan de beoordeling van een aanvraag tot aflevering van een grondstofverklaring als vermeld in artikel 40 voor de producent van de beoogde grondstof of de natuurlijke persoon of rechtspersoon die in diens naam optreedt, afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+De Vlaamse Regering kan de aflevering van een asbestinventarisattest als vermeld in artikel 33/11 afhankelijk stellen van de betaling van een retributie.<br>
+<br>
+De Vlaamse Regering kan derden een retributie laten betalen om de databank asbestinventarisatie, vermeld in artikel 33/10, § 4, te consulteren.<br>
+<br>
+De Vlaamse Regering kan een retributie laten betalen om een aanvraag tot erkenning als certificatie-instelling als vermeld in artikel 33/16 te laten beoordelen.<br>
+<br>
+§ 2. Als de Vlaamse Regering in de gevallen, vermeld in paragraaf 1, een retributie vaststelt, moet, op straffe van onontvankelijkheid, het bewijs van betaling van de retributie bij de aanvraag gevoegd worden.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt het bedrag en de wijze van inning van de retributies, vermeld in paragraaf 1.<br>
+De Vlaamse Regering wijst de ambtenaren van de OVAM aan die belast zijn met de inning en de invordering van de retributies, vermeld in paragraaf 1, en stelt de nadere regels voor hun bevoegdheid vast.<br>
+&nbsp;
 
 ## [HOOFDSTUK 6 Transitie naar een circulaire economie (verv. decr. 30 juni 2017, art. 94, I: 17 juli 2017)]
 
