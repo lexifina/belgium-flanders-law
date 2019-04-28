@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031568,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-01 houdende invoeging van een hoofdstuk over adviesverlening over nieuwe diensten van de VRT in het besluit van de Vlaamse Regering van 30 juni 2006 betreffende de procedure voor de Vlaamse Regulator voor de Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031568/VolledigDocument?datum=2019-04-28",
+  "source_sha256": "276088efe14b807e129b4d122dd0ab687d15aa7ba7c66d92253a9ff0f315bb99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031568&param=informatie",
+  "as_of": "2019-04-28",
+  "made": "2019-03-01",
+  "gazette": "2019-04-18",
+  "numac": 2019011716,
+  "document_start": "2019-04-28",
+  "document_end": null,
+  "in_force": "2019-04-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
