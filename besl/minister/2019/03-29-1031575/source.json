@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031575,
+  "title": "Ministerieel besluit van 2019-03-29 houdende een oproep tot indiening van steunaanvragen als vermeld in het besluit van de Vlaamse Regering van 10 juli 2015 betreffende de regels voor steun voor de oprichting van producentenorganisaties voor 2019",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031575/VolledigDocument?datum=2019-04-28",
+  "source_sha256": "5018100214b46d5a1dc0216e23346f080c6f425ac824a8e196d54c460a8ba114",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031575&param=informatie",
+  "as_of": "2019-04-28",
+  "made": "2019-03-29",
+  "gazette": "2019-04-18",
+  "numac": 2019040916,
+  "document_start": "2019-04-28",
+  "document_end": null,
+  "in_force": "2019-04-28",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
