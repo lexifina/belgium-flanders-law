@@ -570,6 +570,14 @@ De onderzoekscel publiceert tweejaarlijks een wetenschappelijk woonrapport, waar
 
 De sociale woonorganisaties streven de realisatie van het recht op wonen na door hun activiteiten in te passen in de bijzondere doelstellingen, opgenomen in artikel 4.<br /><br />Ze voeren alle verrichtingen uit die uitdrukkelijk verband houden met hun opdracht en met de andere aspecten van het sociale woonbeleid, waaraan ze krachtens een decreet of een besluit van de Vlaamse regering moeten of kunnen meewerken.
 
+### ART 25bis.
+
+Op voorstel van de VMSW en na overleg met vertegenwoordigers van de sociale woonorganisaties en van de steden en gemeenten stelt de Vlaamse Regering normen en bouwtechnische en conceptuele richtlijnen vast voor de bouw, de renovatie, de verbetering en de aanpassing van sociale woningen en de aanleg of aanpassing van wooninfrastructuur voor sociale woonprojecten.<br>
+<br>
+Op verzoek van een initiatiefnemer of op eigen initiatief brengt de VMSW een advies uit over het al dan niet overeenstemmen van verrichtingen die deel uitmaken van sociale woonprojecten met de normen en richtlijnen, vermeld in het eerste lid. Onder de voorwaarden en volgens de procedure die de Vlaamse Regering bepaalt, kan de VMSW op dossierniveau afwijkingen van de richtlijnen toestaan.<br>
+<br>
+Er wordt een kwaliteitskamer opgericht. De kwaliteitskamer neemt beslissingen over verzoeken om los van een concreet project afwijkingen toe te staan van de richtlijnen, vermeld in het eerste lid, en over beroepen tegen ongunstige adviezen van de VMSW, overeenkomstig het tweede lid. De Vlaamse Regering stelt de nadere regels vast voor de samenstelling, organisatie en werking van de kwaliteitskamer.
+
 ### ART. 26.
 
 Wanneer de uitvoering van een verrichting, bedoeld in deze titel, de ontruiming van woningen ver-eist, is de initiatiefnemer verplicht de bewoners die voldoen aan de voorwaarden die worden vastgesteld op grond van artikel 95 en de bewoners van een woning die toebehoort aan een sociale woonorganisatie of de initiatiefnemer te herhuisvesten onder de door de Vlaamse regering gestelde voorwaarden.
@@ -613,7 +621,7 @@ a) de beslissingen tot beschikbaarstelling, inclusief bewijsstukken, voor verhur
 b) de beoordeling, inclusief bewijsstukken, van de kandidaat-huurders, -erfpachtnemers of -kopers door het beoordelingscomité.<br>
 7° de verrichtingen van de erkende verhuurdersoragnisaties, vermeld in artikel 77septies, die krachtens artikel 77octies worden gesubsidieerd.<br>
 <br>
-In het kader van de uitoefening van het toezicht heeft de toezichthouder het recht om plaatsbezoeken af te leggen en ter plaatse inzage te nemen in alle stukken en bescheiden.<br>
+In het kader van de uitoefening van het toezicht heeft de toezichthouder het recht om plaatsbezoeken af te leggen en ter plaatse inzage te nemen in alle stukken en bescheiden en op een elektronische toegang om digitale databanken en digitale beheersapplicaties in gebruik door de sociale woonorganisaties te raadplegen, zowel ter plaatse als vanop afstand. De toezichthouder kan voor de uitvoering van zijn taken een beroep doen op externe bijstand.<br>
 <br>
 De Vlaamse Regering bepaalt :<br>
 1° het profiel en het statuut van de toezichthouder;<br>
@@ -711,7 +719,8 @@ Daarnaast heeft de VMSW als opdracht :<br>
 ...<br>
 8° periodiek oproepen lanceren bij private actoren om projectvoorstellen in te dienen voor de verwezenlijking van sociale huurwoningen of sociale koopwoningen overeenkomstig de voor de sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen;<br>
 9° de conformiteit met de voor de sociale huisvestingsmaatschappijen geldende prijs- en kwaliteitsnormen beoordelen van woningen die door private actoren worden opgericht in het kader van een koop-verkoopovereenkomst met een sociale huisvestingsmaatschappij, die de woningen na de overname zal verhuren als sociale huurwoningen of overdragen als sociale koopwoningen;<br>
-10° te zorgen voor de opbouw en het beheer van een databank met informatie over de prestaties van de sociale woonorganisaties en andere door de Vlaamse Regering erkende instanties.<br>
+10° te zorgen voor de opbouw en het beheer van een databank met informatie over de prestaties van de sociale woonorganisaties en andere door de Vlaamse Regering erkende instanties;<br>
+11° aanspreekpunt te zijn voor verhuurders en voor kandidaat-verhuurders als ze woningen verhuren of willen verhuren aan een sociaal verhuurkantoor dat conform artikel 56 erkend is als huurdienst.<br>
 <br>
 De VMSW kan, onder de voorwaarden die de Vlaamse Regering bepaalt, gewaarborgde kredieten toestaan aan de instanties die bijzondere sociale leningen of sociale leningen toestaan als vermeld in artikelen 78 en 79.<br>
 <br>
@@ -723,7 +732,59 @@ De Vlaamse Regering bepaalt de opzet, de inhoud, de raadpleging, het gebruik en 
 <br>
 De Vlaamse Regering stelt een procedure vast voor de goedkeuring van de meerjarenplanning en de kortetermijnplanning, vermeld in het eerste lid, waarbij de betrokkenheid van de sociale woonorganisaties, de gemeenten en de entiteit die door de Vlaamse Regering belast wordt met de ondersteuning van het lokale woonbeleid, als uitgangspunt geldt.<br>
 <br>
-§ 4. De VMSW wordt belast met de uitvoering van een of meer opdrachten als vermeld in artikel 49, § 3, 3°, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992. Daartoe kan de Vlaamse Regering een overeenkomst met de VMSW sluiten waarin de voorwaarden worden bepaald. De VMSW kan voor de uitvoering van deze opdrachten jaarlijks een kostenvergoeding ontvangen lastens de begroting van het Vlaamse Gewest.
+Er wordt een beoordelingscommissie opgericht. De beoordelingscommissie neemt beslissingen over de opname van verrichtingen in de meerjarenplanning en in de kortetermijnplanning, over de schrapping van verrichtingen uit de voormelde planningen, en over het minimale budget voor de lancering van een oproep als vermeld in paragraaf 1, vierde lid, 8°. De Vlaamse Regering stelt de nadere regels vast voor de samenstelling, organisatie en werking van de beoordelingscommissie.<br>
+<br>
+§ 4. De VMSW wordt belast met de uitvoering van een of meer opdrachten als vermeld in artikel 49, § 3, 3°, van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992. Daartoe kan de Vlaamse Regering een overeenkomst met de VMSW sluiten waarin de voorwaarden worden bepaald. De VMSW kan voor de uitvoering van deze opdrachten jaarlijks een kostenvergoeding ontvangen lastens de begroting van het Vlaamse Gewest.<br>
+<br>
+§ 5. Op verzoek van de verhuurder op de private huurmarkt die een huurovereenkomst heeft gesloten met een sociaal verhuurkantoor dat conform artikel 56 erkend is, neemt de VMSW de verplichting tot betaling van de huurprijs over als wordt vastgesteld dat het sociaal verhuurkantoor de huurprijs niet heeft betaald op de dag die in de huurovereenkomst overeengekomen is en als de bedongen huurprijs niet hoger is dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 82.<br>
+<br>
+De VMSW neemt de verplichting tot betaling van de huurprijs maximaal gedurende negen opeenvolgende maanden over.<br>
+<br>
+De VMSW wordt van rechtswege in de plaats gesteld in de rechten van de verhuurder.<br>
+<br>
+De verhuurder richt met een beveiligde zending een verzoek aan de VMSW, waarbij het bewijs gevoegd is dat het betrokken sociaal verhuurkantoor een vervallen vordering van een huurvergoeding die volgens de huurovereenkomst in kwestie verschuldigd is en die niet betwist is, niet heeft betaald.<br>
+<br>
+Uiterlijk binnen een maand na het verzoek tot betaling meldt de VMSW aan de verhuurder of het verzoek wordt ingewilligd en kan worden overgegaan tot de betaalbaarstelling. De beslissing om het verzoek niet in te willigen, kan alleen worden genomen als een of meer van de volgende omstandigheden zich hebben voorgedaan:<br>
+1° de verhuurder heeft onjuiste verklaringen afgelegd of onjuiste documenten overhandigd;<br>
+2° de verhuurder heeft gehandeld in strijd met deze bepaling of de bepalingen in het besluit ter uitvoering ervan;<br>
+3° de verhuurder blijft in gebreke om het bewijs, vermeld in het vierde lid, voor te leggen.<br>
+<br>
+De bepalingen van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest zijn niet van toepassing op deze bepaling.<br>
+<br>
+De Vlaamse Regering bepaalt de aanvullende voorwaarden en de procedurele regels voor de overname van de verplichting tot betaling van de huurprijs.<br>
+<br>
+Als het sociaal verhuurkantoor de bedragen die de VMSW met toepassing van het eerste lid aan de verhuurder heeft betaald, niet op eenvoudig verzoek van de VMSW terugbetaalt, worden ze ingevorderd met een dwangbevel dat opgesteld, geviseerd en uitvoerbaar verklaard is door de ambtenaren die aangewezen zijn met toepassing van artikel 59.<br>
+<br>
+§ 6. De VMSW kan in onderlinge overeenstemming met de betrokken partijen de volgende verrichtingen doen:<br>
+1° een huurovereenkomst overnemen die gesloten is tussen een sociaal verhuurkantoor dat conform artikel 56 erkend is en een of meer verhuurders op de private huurmarkt. Enkel de huurovereenkomsten met een bedongen huurprijs die niet hoger is dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 82 kunnen overgenomen worden;<br>
+2° een huurovereenkomst die gesloten is tussen een sociaal verhuurkantoor dat conform artikel 56 erkend is en een of meer verhuurders op de private huurmarkt, en die de VMSW heeft overgenomen conform punt 1°, overdragen aan een sociaal verhuurkantoor dat conform artikel 56 erkend is.<br>
+<br>
+§ 7. Met behoud van de toepassing van paragraaf 6, 2°, treedt de VMSW onder de voorwaarden, vermeld in artikel 56ter, in de rechten en verplichtingen van het sociaal verhuurkantoor die voortvloeien uit een overeenkomst die gesloten is tussen het sociaal verhuurkantoor en een of meer verhuurders op de private huurmarkt.<br>
+<br>
+§ 8. In het geval, vermeld in paragraaf 6, 1°, neemt de VMSW de onderhuurovereenkomsten die gesloten zijn tussen het sociaal verhuurkantoor en een of meer onderhuurders van een sociale huurwoning over.<br>
+<br>
+De VMSW kan in de gevallen, vermeld in paragraaf 6, 1°, en in paragraaf 7, de woningen die het voorwerp uitmaken van de overgenomen overeenkomst opnieuw onderverhuren aan een of meer huurders die het goed gebruiken als hoofdverblijfplaats. De VMSW doet voor de toewijzing aan nieuwe onderhuurders een beroep op het kandidatenregister, vermeld in artikel 93, § 1, van het sociaal verhuurkantoor. Bij de toewijzing van de sociale huurwoning past ze de methodiek toe die de sociale verhuurkantoren hanteren.<br>
+<br>
+In het geval, vermeld in paragraaf 6, 2°, neemt het sociaal verhuurkantoor dat de huurovereenkomsten van de VMSW heeft overgenomen, de onderhuurovereenkomsten over die de VMSW had overgenomen of heeft gesloten. Het kandidatenregister, vermeld in artikel 93, § 1, van het oorspronkelijke sociaal verhuurkantoor wordt samengevoegd met het eigen kandidatenregister van het sociaal verhuurkantoor. De Vlaamse Regering bepaalt de voorwaarden om de registers samen te voegen.<br>
+<br>
+§ 9. De VMSW kan voor de uitvoering van de opdrachten van de sociale verhuurkantoren, vermeld in paragraaf 1, vierde lid, 11°, en paragraaf 5, 6, 7 en 8, jaarlijks een toelage ontvangen ten laste van de begroting van het Vlaamse Gewest.<br>
+<br>
+§ 10. Op verzoek van de verhuurder op de private huurmarkt die een huurovereenkomst heeft gesloten met een sociaal verhuurkantoor dat conform artikel 56 erkend is, neemt de VMSW de verplichting over tot betaling van een vergoeding van huurschade die voortvloeit uit een rechterlijke uitspraak die in kracht van gewijsde is gegaan wanneer wordt vastgesteld dat het sociaal verhuurkantoor de vergoeding niet op de in de rechterlijke uitspraak voorziene dag heeft betaald.<br>
+<br>
+De VMSW wordt van rechtswege in de rechten van de verhuurder gesteld.<br>
+<br>
+De verhuurder richt met een beveiligde zending een verzoek aan de VMSW, waarbij een afschrift gevoegd is van de rechterlijke uitspraak, vermeld in het eerste lid.<br>
+<br>
+Uiterlijk binnen een maand na het verzoek tot betaling meldt de VMSW aan de verhuurder of het verzoek wordt ingewilligd en kan worden overgegaan tot de betaalbaarstelling. De beslissing om het verzoek niet in te willigen, kan alleen worden genomen als een of meer van de volgende omstandigheden zich hebben voorgedaan:<br>
+1° de verhuurder heeft onjuiste verklaringen afgelegd of onjuiste documenten overhandigd;<br>
+2° de verhuurder heeft gehandeld in strijd met deze bepaling of de bepalingen in het besluit ter uitvoering daarvan;<br>
+3° de verhuurder blijft in gebreke om het afschrift van de rechterlijke uitspraak, vermeld in het derde lid, voor te leggen.<br>
+<br>
+De bepalingen van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld-, en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest zijn niet van toepassing op deze bepaling.<br>
+<br>
+De Vlaamse Regering bepaalt de aanvullende voorwaarden en procedurele regels voor de overname van de verplichting tot betaling van de vergoeding van de huurschade.<br>
+<br>
+Als het sociaal verhuurkantoor de bedragen die de VMSW met toepassing van het eerste lid aan de verhuurder heeft betaald, niet op eenvoudig verzoek van de VMSW terugbetaalt, worden ze ingevorderd met een dwangbevel dat opgesteld, geviseerd en uitvoerbaar verklaard wordt door de ambtenaren die aangewezen zijn met toepassing van artikel 59.
 
 ### ART. 34.
 
@@ -872,7 +933,18 @@ Als het Vlaamse Gewest, een provincie, gemeenten en openbare centra voor maatsch
 
 ### ART. 41.
 
-§ 1. De sociale huisvestingsmaatschappijen voeren binnen hun werkgebied de   volgende opdrachten uit :<BR>1° de woonvoorwaarden van de woonbehoeftige   gezinnen en alleenstaanden verbeteren, inzonderheid van de meest behoeftige   gezinnen en alleenstaanden, door te zorgen voor een voldoende aanbod van sociale   huurwoningen of sociale koopwoningen, eventueel met inbegrip van   gemeenschappelijke voorzieningen, met aandacht voor hun integratie in de lokale   woonstructuur;<BR>2° bijdragen tot de herwaardering van het woningbestand, door   ongeschikte woningen of ongeschikte gebouwen te renoveren, te verbeteren en aan   te passen of ze zo nodig te slopen en te vervangen;<BR>3° gronden en panden   verwerven voor de realisatie van sociale woonprojecten en de   terbeschikkingstelling van sociale kavels.<BR><BR>Een gedeelte van de sociale   huurwoningen moet aangepast zijn aan de behoeften van grote gezinnen, bejaarden   en personen met een handicap.<BR><BR>§ 2. De sociale huisvestingsmaatschappijen   kunnen ten belope van ten hoogste 20 procent van hun jaarlijkse   investeringsvolume een bescheiden woonaanbod in de zin van artikel 1.2, eerste   lid, 1°, van het decreet Grond- en Pandenbeleid, verwerven, verwezenlijken en   vervreemden. Dat bescheiden woonaanbod wordt verhuurd of vervreemd aan   woonbehoeftigen die geen andere woning volledig in volle eigendom of volledig in   vruchtgebruik hebben. De sociale huisvestingsmaatschappijen kunnen voor deze   autonome taken met betrekking tot een bescheiden woonaanbod geen subsidies of   tegemoetkomingen in de zin van titel VI of in de zin van artikelen 80, 94, 95 of   96, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december   1970 en bekrachtigd door de wet van 2 juli 1971 ontvangen of aanwenden. Zij   hanteren gescheiden boekhoudingen voor hun taken met betrekking tot het   bescheiden woonaanbod en hun taken met betrekking tot het sociaal woonaanbod. De   middelen die voortkomen uit hun taken met betrekking tot het bescheiden   woonaanbod worden wederaangewend voor deze taken of voor hun taken met   betrekking tot het sociaal woonaanbod. <BR><BR>§ 3. Sociale   huisvestingsmaatschappijen kunnen alleen niet-residentiële ruimten verwerven,   realiseren, verhuren en verkopen als dat aangewezen is in het kader van de   realisatie van sociale woonprojecten en de noodzaak ervan wordt verantwoord aan   de hand van ruimere omgevingsfactoren die van invloed zijn op collectieve   woonbehoeften of aan de hand van stedenbouwkundige voorschriften of aan de hand   van de architectonische en ruimtelijke aspecten die de voorziening minder   geschikt maken voor de uitoefening van het recht op wonen in al haar   subcomponenten zoals voorzien in artikel 3. De verrichtingen in dat verband   hebben steeds een subsidiair en accessoir karakter ten opzichte van de algemene   en bijzondere doelstellingen van het sociaal woonbeleid en kaderen in de ruimere   integratie van het woonbeleid in andere beleidsvelden. Deze verrichtingen komen   niet in aanmerking voor subsidies die worden verstrekt in het kader van het   sociaal woonbeleid. De inkomsten en uitgaven worden op een transparante wijze   afgezonderd van de andere financiële stromen van de sociale   huisvestingsmaatschappij. De sociale huisvestingsmaatschappij wendt de   netto-opbrengst van verkoop of verhuring aan in het kader van haar opdrachten,   vermeld in artikel 41. De Vlaamse Regering kan de voorwaarden waaronder sociale   huisvestingsmaatschappijen niet-residentiële ruimten kunnen verwerven,   realiseren, verhuren en verkopen nader regelen.<BR>
+§ 1. De sociale huisvestingsmaatschappijen voeren binnen hun werkgebied de volgende opdrachten uit :<br>
+1° de woonvoorwaarden van de woonbehoeftige gezinnen en alleenstaanden verbeteren, inzonderheid van de meest behoeftige gezinnen en alleenstaanden, door te zorgen voor een voldoende aanbod van sociale huurwoningen of sociale koopwoningen, eventueel met inbegrip van gemeenschappelijke voorzieningen, met aandacht voor hun integratie in de lokale woonstructuur;<br>
+2° bijdragen tot de herwaardering van het woningbestand, door ongeschikte woningen of ongeschikte gebouwen te renoveren, te verbeteren en aan te passen of ze zo nodig te slopen en te vervangen;<br>
+3° gronden en panden verwerven voor de realisatie van sociale woonprojecten en de terbeschikkingstelling van sociale kavels.<br>
+<br>
+Een gedeelte van de sociale huurwoningen moet aangepast zijn aan de behoeften van grote gezinnen, bejaarden en personen met een handicap.<br>
+<br>
+§ 2. De sociale huisvestingsmaatschappijen kunnen ten belope van ten hoogste 20 procent van hun jaarlijkse investeringsvolume een bescheiden woonaanbod in de zin van artikel 1.2, eerste lid, 1°, van het decreet Grond- en Pandenbeleid, verwerven, verwezenlijken en vervreemden. Dat bescheiden woonaanbod wordt verhuurd of vervreemd aan woonbehoeftigen die geen andere woning volledig in volle eigendom of volledig in vruchtgebruik hebben. De sociale huisvestingsmaatschappijen kunnen voor deze autonome taken met betrekking tot een bescheiden woonaanbod geen subsidies of tegemoetkomingen in de zin van titel VI of in de zin van artikelen 80, 94, 95 of 96, van de Huisvestingscode, gevoegd bij het koninklijk besluit van 10 december 1970 en bekrachtigd door de wet van 2 juli 1971 ontvangen of aanwenden. Zij hanteren gescheiden boekhoudingen voor hun taken met betrekking tot het bescheiden woonaanbod en hun taken met betrekking tot het sociaal woonaanbod. De middelen die voortkomen uit hun taken met betrekking tot het bescheiden woonaanbod worden wederaangewend voor deze taken of voor hun taken met betrekking tot het sociaal woonaanbod.<br>
+<br>
+§ 3. Sociale huisvestingsmaatschappijen kunnen alleen niet-residentiële ruimten verwerven, realiseren, verhuren en verkopen als dat aangewezen is in het kader van de realisatie van sociale woonprojecten en de noodzaak ervan wordt verantwoord aan de hand van ruimere omgevingsfactoren die van invloed zijn op collectieve woonbehoeften of aan de hand van stedenbouwkundige voorschriften of aan de hand van de architectonische en ruimtelijke aspecten die de voorziening minder geschikt maken voor de uitoefening van het recht op wonen in al haar subcomponenten zoals voorzien in artikel 3. De verrichtingen in dat verband hebben steeds een subsidiair en accessoir karakter ten opzichte van de algemene en bijzondere doelstellingen van het sociaal woonbeleid en kaderen in de ruimere integratie van het woonbeleid in andere beleidsvelden. Deze verrichtingen komen niet in aanmerking voor subsidies die worden verstrekt in het kader van het sociaal woonbeleid. De inkomsten en uitgaven worden op een transparante wijze afgezonderd van de andere financiële stromen van de sociale huisvestingsmaatschappij. De sociale huisvestingsmaatschappij wendt de netto-opbrengst van verkoop of verhuring aan in het kader van haar opdrachten, vermeld in artikel 41. De Vlaamse Regering kan de voorwaarden waaronder sociale huisvestingsmaatschappijen niet-residentiële ruimten kunnen verwerven, realiseren, verhuren en verkopen nader regelen.<br>
+<br>
+§ 4. De VMSW kan de sociale huisvestingsmaatschappijen die daar om verzoeken, machtigen om op te treden als kredietbemiddelaar van de VMSW bij het verstrekken van de bijzondere sociale leningen, vermeld in artikel 79. De Vlaamse Regering legt de voorwaarden vast waaronder de VMSW die machtiging verleent.
 
 ### ART. 42.
 
@@ -992,6 +1064,14 @@ De sociale verhuurkantoren hebben de volgende opdrachten:<br>
 <br>
 Het sociaal verhuurkantoor kan ter ondersteuning van de uitvoering van zijn opdrachten, bijkomende taken opnemen. De Vlaamse Regering kan daarvoor nadere regels bepalen.<br>
 <br>
+De Vlaamse Regering stelt voor de opdracht, vermeld in het derde lid, 1°, typehuurovereenkomsten vast. Van de typehuurovereenkomsten kan alleen worden afgeweken in de gevallen die de Vlaamse Regering bepaalt.<br>
+<br>
+De typehuurovereenkomst, vermeld in het vijfde lid, bevat minstens de volgende regelingen:<br>
+1° een regeling voor de duurtijd van de huurovereenkomst;<br>
+2° een regeling voor de opzegmogelijkheden van de huurder en de verhuurder;<br>
+3° een regeling als geopteerd wordt voor de mogelijkheid, vermeld in artikel 56ter;<br>
+4° de verplichtingen van de verhuurder en de hoofdhuurder.<br>
+<br>
 § 3. Om erkend te kunnen worden en te blijven als huurdienst moet ten minste aan volgende voorwaarden zijn voldaan:<br>
 1° de huurdienst is werkzaam en gevestigd in het Vlaamse Gewest;<br>
 2° de huurdienst verbindt er zich toe de opdrachten uit te voeren die hen worden opgelegd door:<br>
@@ -1024,6 +1104,22 @@ b) elk ander decreet of besluit, als dat betrekking heeft op aspecten van het so
 <br>
 § 4. De Vlaamse Regering kan de nadere regelen en procedure vastleggen voor het opleggen van de sancties vermeld in paragraaf 1 en 2.
 
+### ART 56ter.
+
+§ 1. Met behoud van de toepassing van artikel 56bis treedt de VMSW van rechtswege in de rechten en de verplichtingen van het sociaal verhuurkantoor die voortvloeien uit een overeenkomst die gesloten is tussen het sociaal verhuurkantoor en een of meer verhuurders op de private huurmarkt, onder de voorwaarden, vermeld in het tweede lid.<br>
+<br>
+De indeplaatsstelling, vermeld in het eerste lid, vindt plaats zodra de VMSW op eigen initiatief of na melding van een belanghebbende vaststelt dat de volgende voorwaarden cumulatief vervuld zijn:<br>
+1° de verhuurder heeft zijn toestemming verleend om de huurovereenkomst over te dragen;<br>
+2° het sociaal verhuurkantoor bevindt zich in een van de volgende gevallen:<br>
+a) de erkenning is ingetrokken;<br>
+b) de aanvraag van het faillissement, of een procedure tot vereffening is opgestart, of een vordering tot gerechtelijke ontbinding is ingeleid, of een beslissing tot vrijwillige ontbinding van het sociaal verhuurkantoor is genomen;<br>
+c) het sociaal verhuurkantoor slaagt er niet in om, na afloop van een periode van negen maanden waarin de VMSW met toepassing van artikel 33, § 5, de verplichting tot betaling van de huurprijs heeft overgenomen, zijn huurbetalingsverplichtingen terug na te komen;<br>
+3° de huurovereenkomst is gesloten tussen een verhuurder en een sociaal verhuur-kantoor dat op het moment waarop de huurovereenkomst is gesloten, conform artikel 56 erkend is als huurdienst, en bevat geen bedingen die onverenigbaar zijn met de bepalingen van dit decreet en de uitvoerings-besluiten ervan. De in de huurovereenkomst bedongen huurprijs mag niet hoger zijn dan de door de Vlaamse Regering vastgestelde huurprijsgrens voor het bekomen van een tegemoetkoming verleend met toepassing van artikel 82.<br>
+<br>
+De melding van een belanghebbende, vermeld in het tweede lid, bevat minstens een gedocumenteerde aanduiding van het toepassingsgeval, vermeld in het tweede lid, 2°, waarop ze gebaseerd is.<br>
+<br>
+§ 2. De Vlaamse Regering kan de nadere regelen en de procedure vastleggen voor de indeplaatsstelling, vermeld in paragraaf 1, eerste lid.
+
 ### ART. 57.
 
 De Vlaamse Regering erkent een ondersteuningsstructuur voor initiatieven ter bevordering van de positie van kandidaat-huurders en huurders op de private huurmarkt en in de sociale huisvesting, met bijzondere aandacht voor de meest kwetsbare gezinnen en alleenstaanden.<br /><br />De Vlaamse Regering stelt de bijzondere voorwaarden vast waaronder de erkenning van de ondersteuningsstructuur wordt verleend. De erkenning kan op elk moment worden ingetrokken als de gestelde voorwaarden niet worden nageleefd.<br /><br />De ondersteuningsstructuur heeft de volgende taken : <br />1° het ondersteunen van de erkende huurdersbonden bij het uitvoeren van de taken, vermeld in artikel 56, § 2, eerste en tweede lid, en hen vertegenwoordigen in advies- en overlegorganen inzake Wonen;<br />2° het ondersteunen van bewonersgroepen in de sociale huisvesting;<br />3° het nemen van initiatieven ten aanzien van andere organisaties of instanties, ter bevordering van de positie van kandidaat-huurders en huurders op de private huurmarkt en in de sociale huisvesting, met bijzondere aandacht voor de meest kwetsbare gezinnen en alleenstaanden.
@@ -1031,6 +1127,10 @@ De Vlaamse Regering erkent een ondersteuningsstructuur voor initiatieven ter bev
 ### ART. 58.
 
 <P>Binnen de perken van de kredieten die daarvoor op de begroting van het   Vlaamse Gewest ingeschreven worden, kan de Vlaamse Regering, onder de   voorwaarden die ze bepaalt, subsidies verlenen voor de werking van de erkende   huurdiensten, vermeld in artikel 56, en van de ondersteuningsstructuur, vermeld   in artikel 57. De subsidiëring ten laste van de uitgavenbegroting van het   Vlaamse Gewest of de Vlaamse Gemeenschap mag nooit meer bedragen dan 100 % van   de totale kosten. </P>
+
+### ART 58bis.
+
+De Vlaamse Regering kan aan de vzw Huurpunt of haar rechtsopvolger een subsidie verlenen als tegemoetkoming in de personeels- en werkingskosten die verbonden zijn aan de opdrachten die verband houden met de initiatieven van de Vlaamse Regering ter bevordering van de uitbreiding van het aanbod door de sociale verhuurkantoren van de woningen, vermeld in artikel 56, § 2, derde lid, 1°.
 
 ## TITEL VI INSTRUMENTEN VAN HET WOONBELEID
 
@@ -1272,11 +1372,22 @@ De kredietmaatschappij wendt de netto-opbrengst van de participatie, vermeld in 
 <br>
 § 4. De Vlaamse Regering legt de voorwaarden vast voor het interne beheer en het rekeningstelsel dat de kredietmaatschappijen, vermeld in paragraaf 1, eerste lid, 1°, hanteren.<br>
 <br>
-§ 5. Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 78, § 2, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 78, § 1, eerste lid, 1°, vermelde kredietmaatschappijen.
+§ 5. Bij uitwinning of ter voorkoming van een uitwinning van de waarborg vermeld in artikel 78, § 2, kan de Vlaamse Regering het VWF opdracht geven tot overname van de activa en passiva van de in artikel 78, § 1, eerste lid, 1°, vermelde kredietmaatschappijen.<br>
+<br>
+§ 6. Voor de aspecten die niet geregeld zijn in dit artikel of in de uitvoeringsbesluiten ervan, gelden de bepalingen van boek VII, titel 4, hoofdstuk 2, en titel 5, van het Wetboek van Economisch Recht.
 
 ### ART. 79.
 
-<P>§ 1. De Vlaamse regering stelt voor elk van de verrichtingen, vermeld in § 2,   de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een   bijzondere sociale lening kunnen aangaan bij de VMSW of bij het VWF. Ze bepaalt   onder meer&nbsp;de berekeningswijze van de sociale interestvoeten en de   voorwaarden voor de periodieke herziening van die interestvoet. De interestvoet   en de herziening ervan zijn gekoppeld aan het inkomen.<BR><BR>§ 2. De VMSW en   het VWF zijn ertoe gemachtigd om aan woonbehoeftige gezinnen en alleenstaanden   leningen als vermeld in paragraaf 1 toe te staan die bestemd zijn voor de   financiering van een of meer van de volgende verrichtingen : <BR>1° ...;<BR>2°   de aankoop of het behoud van een in het Vlaamse Gewest gelegen woning;<BR>3° de   renovatie, de verbetering of de aanpassing van een in het Vlaamse Gewest gelegen   woning;<BR>4° ... <BR><BR>De VMSW&nbsp; en het VWF kunnen in verhouding tot de   gezinsgrootte een extra interestvermindering toekennen die de Vlaamse regering   bepaalt.<BR><BR>§ 3. ...</P>  <P>§ 4. ...</P>
+<p>§ 1. De Vlaamse regering stelt voor elk van de verrichtingen, vermeld in § 2, de voorwaarden vast waaronder woonbehoeftige gezinnen en alleenstaanden een bijzondere sociale lening kunnen aangaan bij de VMSW of bij het VWF. Ze bepaalt onder meer&nbsp;de berekeningswijze van de sociale interestvoeten en de voorwaarden voor de periodieke herziening van die interestvoet. De interestvoet en de herziening ervan zijn gekoppeld aan het inkomen.<br>
+<br>
+§ 2. De VMSW en het VWF zijn ertoe gemachtigd om aan woonbehoeftige gezinnen en alleenstaanden leningen als vermeld in paragraaf 1 toe te staan die bestemd zijn voor de financiering van een of meer van de volgende verrichtingen :<br>
+1° ...;<br>
+2° de aankoop of het behoud van een in het Vlaamse Gewest gelegen woning;<br>
+3° de renovatie, de verbetering of de aanpassing van een in het Vlaamse Gewest gelegen woning;<br>
+<br>
+De VMSW&nbsp; en het VWF kunnen in verhouding tot de gezinsgrootte een extra interestvermindering toekennen die de Vlaamse regering bepaalt.<br>
+<br>
+§ 3. Voor de aspecten die niet geregeld zijn in dit artikel of in de uitvoeringsbesluiten ervan, gelden de bepalingen van boek VII, titel 4, hoofdstuk 2 en 4, en titel 5, van het Wetboek van Economisch Recht.</p>
 
 ### ART 79bis.
 
@@ -1542,6 +1653,8 @@ De sociale huurwoningen worden toegewezen door het bevoegd orgaan van de verhuur
 3° het toewijzingsreglement dat in voorkomend geval een lokale invulling geeft aan de prioriteiten en toewijzingsregels die de Vlaamse Regering vaststelt.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere regels voor de uitvoering van het vierde lid en besteedt bij de vaststelling van de prioriteiten en regels voor de toewijzing van sociale huurwoningen extra aandacht aan kandidaat-huurders die behoren tot de meest behoeftige gezinnen of alleenstaanden en aan bewoners van een sociale huurwoning die willen of moeten verhuizen naar een aangepaste woning. De Vlaamse Regering kan een toewijzing afhankelijk maken van een begeleidingsovereenkomst die gesloten wordt tussen de kandidaat-huurder en een welzijnsorganisatie.<br>
+<br>
+Bij de toewijzing van een sociale huurwoning door een sociaal verhuurkantoor kan het sociaal verhuurkantoor de toewijzing van een woning weigeren als het vaststelt dat het inkomen van de kandidaat-huurder niet in verhouding staat tot de hoogte van de huurprijs. De Vlaamse Regering kan nader bepalen op welke wijze het sociaal verhuurkantoor die weigering kan toepassen.<br>
 <br>
 De Vlaamse Regering stelt een verhaalprocedure in voor kandidaat-huurders die zich benadeeld achten bij de toewijzing van een sociale huurwoning. Die procedure bepaalt de termijn en de vorm van het indienen van een bezwaarschrift door de kandidaathuurder, alsook de mogelijkheid om gehoord te worden en de behandeling van het bezwaarschrift.<br>
 <br>
