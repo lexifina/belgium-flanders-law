@@ -57,7 +57,8 @@ Een bespreking op het lokaal woonoverleg is verplicht voor:<br>
 3° een gemeentelijk woningkwaliteitsreglement;<br>
 4° elke nieuwe inplanting of uitbreiding van een bestaand woonwagenterrein, met het oog op de indiening van een subsidieaanvraag conform het besluit van de Vlaamse Regering van 11 december 2015 houdende de subsidiëring van de verwerving, de inrichting, de renovatie en de uitbreiding van terreinen voor woonwagenbewoners;<br>
 5° elk project als vermeld in artikel 8, § 1, eerste lid, van het Procedurebesluit Wonen van 14 juli 2017, met het oog op hun opname in de Projectenlijst, vermeld in artikel 10 van het voormelde besluit;<br>
-6° de lokale woonbehoeften en de lijsten van de kandidaat-huurders voor een sociale of bescheiden huurwoning in de gemeente, conform artikel 8, § 3, van het Procedurebesluit Wonen van 14 juli 2017.<br>
+6° de lokale woonbehoeften en de lijsten van de kandidaat-huurders voor een sociale of bescheiden huurwoning in de gemeente, conform artikel 8, § 3, van het Procedurebesluit Wonen van 14 juli 2017;<br>
+7° elke behoeftebepaling van een sociaal verhuurkantoor dat actief is in de gemeente, als het sociaal verhuurkantoor conform artikel 10, § 1, van het besluit van 8 februari 2019 tot versterking van de SVK-werking voor de gemeente in kwestie een behoefte aan de inhuurneming van bijkomende woningen heeft vastgesteld.<br>
 <br>
 Een mededeling op het lokaal woonoverleg is verplicht voor de aspecten, vermeld in artikel 8, § 2, van het Procedurebesluit Wonen van 14 juli 2017.
 
