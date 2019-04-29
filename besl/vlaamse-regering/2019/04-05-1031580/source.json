@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031580,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft de erkenning van regelluwe zones voor energie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031580/VolledigDocument?datum=2019-04-29",
+  "source_sha256": "f3dd51ff54672f7ca2adfcbdb2762e70f3b9fe8ac498acbeaabb19ab77b29260",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031580&param=informatie",
+  "as_of": "2019-04-29",
+  "made": "2019-04-05",
+  "gazette": "2019-04-19",
+  "numac": 2019011868,
+  "document_start": "2019-04-29",
+  "document_end": null,
+  "in_force": "2019-04-29",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
