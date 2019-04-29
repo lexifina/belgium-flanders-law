@@ -1306,7 +1306,7 @@ Op het einde van de huurovereenkomst is de huurder ertoe gehouden de woning acht
 <br>
 Art. 24. Als er in de woning noodzakelijke of dringende herstellingen moeten gebeuren, die niet tot na de beëindiging van de huurovereenkomst kunnen worden uitgesteld, moet de huurder die zonder vergoeding laten uitvoeren, welke ongemakken hij daarvan ook ondervindt en al moet hij gedurende de herstellingen het genot van een gedeelte van de woning derven.<br>
 <br>
-Als die werken langer dan veertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
+Als die werken langer dan dertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
 <br>
 De huurder moet instemmen met een tijdelijke herhuisvesting als de verhuurder dat wegens renovatie-, sloop- of aanpassingswerkzaamheden aan het gehuurde goed noodzakelijk acht. De voorwaarden zijn opgenomen in het besluit van de Vlaamse Regering van 12 oktober 2007.<br>
 <br>
@@ -1542,7 +1542,7 @@ Op het einde van de huurovereenkomst is de huurder ertoe gehouden de woning acht
 <br>
 Art. 24. Als er in de woning noodzakelijke of dringende herstellingen uitgevoerd moeten worden, die niet tot na de beëindiging van de huurovereenkomst kunnen worden uitgesteld, moet de huurder die zonder vergoeding laten uitvoeren, welke ongemakken hij daarvan ook ondervindt en al moet hij gedurende de herstellingen het genot van een gedeelte van de woning derven.<br>
 <br>
-Als die werken langer dan veertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
+Als die werken langer dan dertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
 <br>
 De huurder moet instemmen met een tijdelijke herhuisvesting als de verhuurder dat wegens renovatie-, sloop- of aanpassingswerkzaamheden aan het gehuurde goed noodzakelijk acht. De voorwaarden zijn opgenomen in het besluit van de Vlaamse Regering van 12 oktober 2007.<br>
 <br>
@@ -1709,7 +1709,7 @@ De indexering kan ten vroegste gebeuren op de verjaardag van de inwerkingtreding
 <p>&nbsp;</p>
 
 <p><br>
-Het aanvangsindexcijfer is het gezondheidsindexcijfer van de maand vóór de sluiting van de onderhuurovereenkomst. Het nieuwe indexcijfer is het gezondheidsindexcijfer van de maand vóór de verjaardag van de inwerkingtreding van de onderhuurovereenkomst.<br>
+Het aanvangsindexcijfer is het gezondheidsindexcijfer van de maand vóór de&nbsp;inwerkingtreding van de onderhuurovereenkomst. Het nieuwe indexcijfer is het gezondheidsindexcijfer van de maand vóór de verjaardag van de inwerkingtreding van de onderhuurovereenkomst.<br>
 <br>
 De indexering is slechts van toepassing op schriftelijk verzoek van de belanghebbende partij en werkt slechts terug tot drie maanden voorafgaand aan die van het verzoek.<br>
 OF<br>
@@ -1719,13 +1719,31 @@ Partijen komen overeen dat gedurende de eerste .... jaren geen indexaanpassing v
 <br>
 HUURPRIJSHERZIENING<br>
 <br>
-Art. 7. Bij het verstrijken van iedere driejarige periode kan de huurprijs herzien worden tussen partijen tussen de negende en de zesde maand die voorafgaat aan het verstrijken van iedere driejarige periode. Bij niet-akkoord kan een verzoek bij de vrederechter ingeleid worden door de meest belanghebbende partij tussen de zesde en de derde maand die voorafgaat aan het verstrijken van iedere driejarige periode.<br>
+Art. 7. § 1. De partijen kunnen tussen de negende en de zesde maand die voorafgaan aan het verstrijken van elke driejarige periode overeenkomen dat de huurprijs wordt herzien.<br>
 <br>
-De huurprijs kan herzien worden op grond van 'nieuwe omstandigheden' als aangetoond wordt dat de normale huurwaarde daardoor met minstens 20 % gestegen of gedaald is. De huurprijs kan eveneens verhoogd worden als de normale huurwaarde tengevolge van werken uitgevoerd op kosten van de eigenaar-verhuurder/hoofdhuurder, met minstens 10 % gestegen is.<br>
+Bij gebrek aan overeenstemming tussen de partijen kan de rechter een herziening van de huurprijs toestaan als blijkt dat de normale huurwaarde van het gehuurde goed ten gevolge van nieuwe omstandigheden ten minste 20% hoger of lager is dan de eisbare huurprijs op het tijdstip van de indiening van het verzoek.<br>
 <br>
-Verbeteringswerken om de woning in overeenstemming te brengen met de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vermeld in artikel 5 van de Vlaamse Wooncode, komen daarvoor evenwel niet in aanmerking.<br>
+De rechter kan ook een verhoging van de huurprijs toestaan aan de eigenaar-verhuurder die bewijst dat de normale huurwaarde van het gehuurde goed met ten minste 10% van de eisbare huurprijs op het tijdstip van de indiening van het verzoek is gestegen ten gevolge van werkzaamheden die op zijn kosten in het gehuurde goed zijn uitgevoerd, met uitzondering van de werkzaamheden die noodzakelijk waren om het goed in overeenstemming te brengen met de vereisten, vermeld in artikel 5 van de Vlaamse Wooncode.<br>
 <br>
-Als de eigenaar-verhuurder om een huurprijsherziening verzoekt, wordt de onderhuurder daarvan zo snel mogelijk op de hoogte gebracht, zodat ook de onderhuurder zijn rechten kan behartigen.<br>
+De rechter doet uitspraak naar billijkheid.<br>
+<br>
+De vordering kan alleen maar worden ingesteld tussen de zesde en de derde maand vóór het verstrijken van de driejarige periode.<br>
+<br>
+De herziene huurprijs geldt vanaf de eerste dag van de volgende driejarige periode, maar de vroegere huurprijs kan voorlopig worden gevorderd tot op de dag van de definitieve beslissing.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 kunnen de partijen te allen tijde overeenkomen dat de huurprijs wordt herzien omdat aan het goed energiebesparende investeringen werden gedaan.<br>
+<br>
+Energiebesparende investeringen zijn investeringen die de energieprestatie van het goed, vermeld in artikel 1.1.3, 42° /1, van het Energiedecreet van 8 mei 2009, verbeteren.<br>
+<br>
+Bij gebrek aan overeenstemming tussen de partijen kan de rechter een herziening van de huurprijs toestaan als blijkt dat de normale huurwaarde van het gehuurde goed ten gevolge van de investeringen, vermeld in het eerste lid, ten minste 10% hoger ligt dan de eisbare huurprijs op het tijdstip van de indiening van het verzoek.<br>
+<br>
+De rechter doet uitspraak naar billijkheid.<br>
+<br>
+De herziene huurprijs geldt vanaf de maand nadat de investeringen, vermeld in het eerste lid, volledig zijn uitgevoerd.<br>
+<br>
+Indien de investeringen noodzakelijk waren om het goed in overeenstemming te brengen met de vereisten, vermeld in artikel 5 van de Vlaamse Wooncode, kan geen herziening van de huurprijs overeengekomen worden tussen de partijen of toegestaan worden door de rechter.<br>
+<br>
+§ 3. Als de eigenaar-verhuurder om een huurprijsherziening verzoekt, wordt de onderhuurder daarvan zo snel mogelijk op de hoogte gebracht, zodat ook de onderhuurder zijn rechten kan behartigen.<br>
 <br>
 KOSTEN EN LASTEN<br>
 <br>
@@ -1801,7 +1819,9 @@ Op het einde van de onderhuurovereenkomst is de onderhuurder ertoe gehouden de w
 <br>
 Art. 25. Als er in de woning noodzakelijke of dringende herstellingen moeten gebeuren, die niet tot na de beëindiging van de onderhuurovereenkomst kunnen worden uitgesteld, moet de onderhuurder die zonder vergoeding laten uitvoeren, welke ongemakken hij daarvan ook ondervindt, en al moet hij gedurende de herstellingen het genot van een gedeelte van de woning derven.<br>
 <br>
-Als die werken langer dan veertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
+Als die werken langer dan dertig dagen duren, wordt de huurprijs verminderd naar evenredigheid van de tijd en van het gedeelte van het verhuurde goed waarvan hij het genot heeft moeten derven.<br>
+<br>
+Als de herstellingen de normale bewoning onmogelijk maken, kan de onderhuurder de huur doen ontbinden.<br>
 <br>
 Art. 26. De onderhuurder mag alleen veranderingen aanbrengen aan de woning en haar aanhorigheden als het SVK daarvoor voorafgaandelijk schriftelijke toestemming heeft verleend, al dan niet onder voorbehoud van de herstelling in oorspronkelijke staat van de woning op het einde van de onderhuurovereenkomst. Een weigering moet worden gemotiveerd door het SVK.<br>
 <br>
@@ -1852,7 +1872,7 @@ Art. 34. Als de hoofdhuurovereenkomst wordt beëindigd door een opzeg, betekent 
 <br>
 Als de hoofdhuurovereenkomst een einde neemt op initiatief van de eigenaar-verhuurder, zal het SVK de onderhuurder binnen vijftien dagen na de ontvangst van de opzegbrief een afschrift bezorgen aan de onderhuurder en hem schriftelijk meedelen dat ook de onderhuurovereenkomst een einde neemt.<br>
 <br>
-Als de hoofdhuurovereenkomst een einde neemt op initiatief van het SVK zal het SVK de onderhuur opzeggen met een opzegtermijn van drie maanden en aan de onderhuurder tevens een afschrift van de opzegbrief aan de eigenaar-verhuurder bezorgen. Als het een negenjarige hoofdhuurovereenkomst betreft en het SVK de hoofdhuurovereenkomst vervroegd beëindigt, is het SVK een vergoeding van drie maanden huur verschuldigd aan de onderhuurder.<br>
+Als de hoofdhuurovereenkomst een einde neemt op initiatief van het SVK zal het SVK de onderhuur opzeggen met een opzegtermijn van drie maanden en aan de onderhuurder tevens een afschrift van de opzegbrief aan de eigenaar-verhuurder bezorgen. Het SVK is een vergoeding van drie maanden, twee maanden of één maand huur verschuldigd aan de onderhuurder naargelang de onderhuurovereenkomst een einde neemt gedurende respectievelijk het eerste, het tweede of het derde jaar.<br>
 <br>
 In geen geval kan de onderhuurovereenkomst langer duren dan de hoofdhuurovereenkomst. In de bovenstaande gevallen kan de onderhuurder dus geen verlenging wegens buitengewone omstandigheden verkrijgen.<br>
 <br>
@@ -1862,79 +1882,103 @@ Deze hoofdhuurovereenkomst is ingegaan op ...../...../........... voor een duur 
 <br>
 Als de hoofdhuurovereenkomst tegen het einde van de hoofdhuurovereenkomst niet wordt opgezegd, wordt deze onderhuurovereenkomst verlengd als volgt :<br>
 (schrappen wat niet past)<br>
-1° als de hoofdhuurovereenkomst voor negen jaar is gesloten, wordt deze onderhuurovereenkomst bij gebrek aan voorafgaande opzegging van zes maanden telkens verlengd voor periodes van drie jaar;<br>
-2° als de hoofdhuurovereenkomst een korte duur heeft (drie jaar of minder), zijn partijen gebonden door de overeengekomen duur en kan de hoofdhuurovereenkomst niet voortijdig opgezegd worden. Een hoofdhuurovereenkomst met een duur van minder dan drie jaar kan hoogstens eenmaal, schriftelijk, en onder dezelfde voorwaarden verlengd worden onder het korteduurstelsel, voorzover de gecumuleerde duur, te rekenen vanaf de aanvang van de oorspronkelijkehoofdhuurovereenkomst met een korte duur, een termijn van drie jaar niet overschrijdt. Als tegen het verstrijken van de overeengekomen, eventueel verlengde, korte duur niet is opgezegd met inachtneming van een opzegtermijn van minstens drie maanden, wordt ze omgezet in een negenjarige hoofdhuurovereenkomst, te rekenen vanaf de aanvang van de oorspronkelijk kortlopende hoofdhuurovereenkomst. Vanaf dat moment worden de opzegbepalingen van de negenjarige hoofdhuurovereenkomst van toepassing.<br>
+1° als de hoofdhuurovereenkomst voor een duur van negen jaar of meer is gesloten, wordt deze onderhuurovereenkomst bij gebrek aan voorafgaande opzegging van zes maanden telkens verlengd voor periodes van drie jaar;<br>
+2° als de hoofdhuurovereenkomst een korte duur heeft (drie jaar of minder), kan het SVK de hoofdhuurovereenkomst op ieder tijdstip beëindigen met inachtneming van een opzeggingstermijn van drie maanden. Een hoofdhuurovereenkomst met een duur van minder dan drie jaar kan hoogstens eenmaal, schriftelijk, en onder dezelfde voorwaarden verlengd worden onder het korteduurstelsel, voor zover de gecumuleerde duur, te rekenen vanaf de aanvang van de oorspronkelijke hoofdhuurovereenkomst met een korte duur, een termijn van drie jaar niet overschrijdt. Als tegen het verstrijken van de overeengekomen, eventueel verlengde, korte duur niet is opgezegd met inachtneming van een opzegtermijn van minstens drie maanden, wordt ze omgezet in een negenjarige hoofdhuurovereenkomst, te rekenen vanaf de aanvang van de oorspronkelijk kortlopende hoofdhuurovereenkomst. Vanaf dat moment worden de opzegbepalingen van de negenjarige hoofdhuurovereenkomst van toepassing.<br>
 <br>
-Art. 36. Bij een negenjarige hoofdhuurovereenkomst kan de eigenaar-verhuurder als volgt de hoofdhuurovereenkomst vroegtijdig beëindigen :<br>
-1° Opzegrecht van eigenaar-verhuurder voor eigen gebruik<br>
+Art. 36. Bij een hoofdhuurovereenkomst voor een duur van negen jaar of meer kan de eigenaar-verhuurder als volgt de hoofdhuurovereenkomst vroegtijdig beëindigen:<br>
+<br>
+1. Opzegrecht van eigenaar-verhuurder voor eigen gebruik<br>
+<br>
 (schrappen wat niet past)<br>
+<br>
 A. Opzeg voor eigen gebruik<br>
-De eigenaar-verhuurder kan op elk moment opzeggen met een opzegtermijn van zes maanden voor eigen gebruik of voor gebruik door zijn familieleden tot in de derde graad, (neven en nichten, nonkels en tantes inbegrepen) of voor gebruik door familieleden tot in de derde graad van zijn echtgen(o)t(e).<br>
+<br>
+De eigenaar-verhuurder kan de hoofdhuurovereenkomst te allen tijde beëindigen met inachtneming van een opzeggingstermijn van zes maanden, als hij het goed persoonlijk en werkelijk wil betrekken.<br>
+<br>
+De eigenaar-verhuurder kan de hoofdhuurovereenkomst te allen tijde beëindigen om de echtgenoot of wettelijk samenwonende partner van de eigenaar-verhuurder of de afstammelingen, aangenomen kinderen, bloedverwanten in de opgaande lijn of bloedverwanten in de zijlijn tot in de derde graad van de eigenaar-verhuurder of van zijn echtgenoot of wettelijk samenwonende partner het goed persoonlijk en werkelijk te laten betrekken. De opzeggingstermijn bedraagt zes maanden, tenzij de opzegging wordt gedaan tijdens de eerste driejarige periode. In dat geval kan de opzeggingstermijn niet verstrijken vóór het einde van de eerste driejarige periode vanaf de inwerkingtreding van de huurovereenkomst.<br>
+<br>
+De opzegging vermeldt de identiteit van de persoon die het goed zal betrekken en de band van verwantschap met de eigenaar-verhuurder. De eigenaar-verhuurder bewijst op verzoek van het SVK de band van verwantschap. De eigenaar-verhuurder voldoet aan dat verzoek binnen een termijn van twee maanden, te rekenen vanaf de kennisgeving ervan, zo niet kan het SVK de nietigverklaring van de opzegging vorderen. Die vordering moet op straffe van verval uiterlijk twee maanden vóór het verstrijken van de opzeggingstermijn worden ingesteld.<br>
+<br>
+Het goed moet worden betrokken binnen een jaar na het verstrijken van de opzegging door de eigenaar-verhuurder of na de teruggave van het goed door de onderhuurder als de teruggave later plaatsvindt. Het goed moet gedurende ten minste twee jaar werkelijk en doorlopend betrokken blijven. Als de eigenaar-verhuurder, zonder het bewijs te leveren van buitengewone omstandigheden, niet voldoet aan de voorwaarden, heeft het SVK recht op een vergoeding die gelijk is aan achttien maanden huur.<br>
+<br>
 OF<br>
+<br>
 B. Uitsluiting van opzeg voor eigen gebruik<br>
+<br>
 De eigenaar-verhuurder kan niet opzeggen voor eigen gebruik omdat het zo overeengekomen is in de hoofdhuurovereenkomst.<br>
+<br>
 OF<br>
+<br>
 C. Beperking van opzeg voor eigen gebruik<br>
-De eigenaar-verhuurder kan voor eigen gebruik alleen opzeggen vanaf................................. en/of voor............................................................................................., omdat het zo overeengekomen is in de hoofdhuurovereenkomst.<br>
-(In het eerste geval gaat het over een beperking in tijd, in het tweede geval over een beperking in verwantschap. Combinaties zij uiteraard ook mogelijk (zie ook hoofdhuurovereenkomst))<br>
+<br>
+(In het eerste geval gaat het over een beperking in tijd, in het tweede geval over een beperking in verwantschap. Combinaties zijn uiteraard ook mogelijk (zie ook hoofdhuurovereenkomst)).<br>
+<br>
+De eigenaar-verhuurder kan voor eigen gebruik alleen opzeggen vanaf ................ . . . . . ................. en/of voor ................................ . . . . . ............................................................., omdat het zo overeengekomen is in de hoofdhuurovereenkomst.<br>
 <br>
 2. Opzegrecht voor verbouwingswerken<br>
-(Kies voor A, B of C. Het SVK kan de eigenaar-eigenaar-verhuurder de mogelijkheid geven om tegen het derde of zesde jaar op te zeggen voor verbouwingswerken of deze mogelijkheid juist uitsluiten of beperken (in tijd). De niet-gekozen mogelijkheden worden geschrapt.)<br>
+<br>
+(Kies voor A, B of C. Het SVK kan de eigenaar-verhuurder de mogelijkheid geven om tegen het derde of zesde jaar op te zeggen voor verbouwingswerken of deze mogelijkheid juist uitsluiten of beperken (in tijd). De niet-gekozen mogelijkheden worden geschrapt.)<br>
+<br>
 A. Opzeg voor verbouwingswerken<br>
 <br>
-De eigenaar-verhuurder kan de hoofdhuurovereenkomst beëindigen tegen het verstrijken van het derde of zesde jaar, met een opzegtermijn van zes maanden, als hij verbouwingswerken aan het gehuurde goed wil uitvoeren.<br>
+De verhuurder-eigenaar kan de hoofdhuurovereenkomst te allen tijde beëindigen als hij het onroerend goed of een gedeelte ervan wil wederopbouwen, verbouwen of renoveren, en als al de volgende voorwaarden vervuld zijn:<br>
+1° de werkzaamheden worden uitgevoerd met eerbiediging van de decretale en verordeningsbepalingen over de ruimtelijke ordening;<br>
+2° de werkzaamheden worden uitgevoerd aan het gedeelte dat de onderhuurder bewoont;<br>
+3° de werkzaamheden kosten meer dan drie jaar huur van het verhuurde goed. Als het gebouw waarin dat goed gelegen is uit verscheidene verhuurde woningen bestaat die aan dezelfde eigenaar-verhuurder toebehoren en waaraan werkzaamheden worden uitgevoerd, kosten de werkzaamheden meer dan twee jaar huur voor al die woningen samen.<br>
 <br>
-Die werkzaamheden moeten aan bepaalde voorwaarden voldoen en het SVK kan bepaalde stukken of documenten opvragen waaruit blijkt dat de voorgenomen werkzaamheden aan de voorwaarden voldoen.<br>
-(De eigenaar-verhuurder kan opzeggen, als hij het voornemen heeft om het gehuurde goed of een gedeelte wederop te bouwen, te verbouwen of te renoveren, onder volgende voorwaarden :<br>
-- de werkzaamheden worden uitgevoerd met eerbiediging van de bestemming van het goed die voortvloeit uit de wets- en verordeningsbepalingen inzake stedenbouw;<br>
-- de werkzaamheden worden uitgevoerd aan het door de huurder bewoonde gedeelte;<br>
-- de werkzaamheden kosten meer dan drie jaar huur van het verhuurde goed.)<br>
+De opzeggingstermijn bedraagt zes maanden, tenzij de opzegging wordt gedaan tijdens de eerste driejarige periode. In dat geval kan de opzeggingstermijn niet verstrijken vóór het einde van de eerste driejarige periode vanaf de inwerkingtreding van de huurovereenkomst.<br>
 <br>
-Als het gebouw uit verschillende verhuurde woningen bestaat die aan dezelfde eigenaar-verhuurder toebehoren, en als de kostprijs van de werkzaamheden aan die woningen meer dan twee jaar huur bedraagt voor al die woningen samen, kan de eigenaar-verhuurder, met het oog op het goede verloop van die werken, op elk moment verschillende huurovereenkomsten beëindigen, met inachtneming van een opzegtermijn van zes maanden. In dat geval kan de hoofdhuurovereenkomst niet tijdens het eerste jaar worden opgezegd.<br>
+De verhuurder-eigenaar bezorgt de volgende documenten aan het SVK op het moment van de opzegging:<br>
+1° de hem verleende omgevingsvergunning voor stedenbouwkundige handelingen als deze voor de werkzaamheden vereist is; en<br>
+2° een omstandig bestek of een beschrijving van de werkzaamheden samen met een gedetailleerde kostenraming of een aannemingsovereenkomst.<br>
 <br>
-De eigenaar-verhuurder moet aan het SVK kennisgeven van de aan hem verleende bouwvergunning als dat vereist is, en een omstandig bestek of een beschrijving van de werkzaamheden, samen met een gedetailleerde kostenraming, of een aannemingsovereenkomst voorleggen.<br>
+De werken moeten worden aangevat binnen zes maanden en worden beëindigd binnen vierentwintig maanden na het verstrijken van de opzegging door de eigenaar-verhuurder of na de teruggave van het goed door de onderhuurder als de teruggave later plaatsvindt. Als de eigenaar-verhuurder de werkzaamheden niet binnen de gestelde termijn en voorwaarden uitvoert en geen bewijs van buitengewone omstandigheden kan leveren, heeft het SVK recht op een vergoeding die gelijk is aan achttien maanden huur.<br>
 <br>
-De werken moeten worden aangevat door de eigenaar/verhuurder binnen zes maanden en ze moeten worden beëindigd binnen vierentwintig maanden na het verstrijken van de opzegtermijn, of, in geval van verlenging als vermeld in artikel 33, na de teruggave van het goed door het SVK.<br>
+Het SVK kan de eigenaar-verhuurder verzoeken om haar kosteloos de documenten te bezorgen waaruit blijkt dat de werkzaamheden conform de voorwaarden, vermeld in dit artikel, zijn uitgevoerd.<br>
 <br>
-Als de eigenaar-verhuurder, zonder dat hij het bewijs levert van buitengewone omstandigheden, binnen de gestelde termijn en voorwaarden de werken niet uitvoert, heeft het SVK het recht op een vergoeding die gelijk is aan achttien maanden huur.<br>
-<br>
-Op verzoek van het SVK is de eigenaar-verhuurder verplicht hem kosteloos de documenten te bezorgen, waaruit blijkt dat de werken overeenkomstig de gestelde voorwaarden zijn uitgevoerd.<br>
 OF<br>
 <br>
 B. Uitsluiting van opzeg voor verbouwingswerken<br>
+<br>
 Met toepassing van artikel 18, § 3, van het Vlaams Woninghuurdecreet hebben de eigenaar-verhuurder en het SVK in de hoofdhuurovereenkomst voor de volledige duur van negen jaar de mogelijkheid voor de eigenaar-verhuurder uitgesloten om vroegtijdig op te zeggen voor verbouwingswerken.<br>
+<br>
 OF<br>
 <br>
 C. Beperking van opzeg voor verbouwingswerken<br>
-Met toepassing van artikel 18, § 3, van het Vlaams Woninghuurdecreet beperken partijen de mogelijkheid van het opzegrecht van de eigenaar-verhuurder voor verbouwingswerken en wel als volgt in de tijd :<br>
-.. .. .<br>
-.. .. .<br>
-.. .. .<br>
+<br>
+Met toepassing van artikel 18, § 3, van het Vlaams Woninghuurdecreet beperken partijen de mogelijkheid van het opzegrecht van de eigenaar-verhuurder voor verbouwingswerken en wel als volgt in de tijd:<br>
+. . . . .<br>
+. . . . .<br>
+. . . . . .<br>
 <br>
 3. Ongemotiveerd opzegrecht met betaling van vergoeding<br>
+<br>
 (Kies voor A, B of C. Het SVK kan de eigenaar-verhuurder de mogelijkheid geven om tegen het derde of zesde jaar ongemotiveerd op te zeggen, na betaling van een vergoeding aan het SVK van respectievelijk negen maanden of zes maanden huur of deze mogelijkheid juist uitsluiten of beperken in tijd. De niet-gekozen mogelijkheden worden geschrapt.)<br>
 <br>
 A. Ongemotiveerde opzeg met vergoeding<br>
-De eigenaar-verhuurder kan de hoofdhuurovereenkomst beëindigen tegen het verstrijken van het derde of zesde jaar,met een opzegtermijn van zes maanden, zonder motivering, maar met betaling van een vergoeding. Die vergoeding is gelijk aan negen dan wel zes maanden huur naargelang de hoofdhuurovereenkomst beëindigd wordt tegen het einde van het derde of het zesde jaar.<br>
+<br>
+De eigenaar-verhuurder kan de hoofdhuurovereenkomst beëindigen tegen het verstrijken van het derde of zesde jaar, met een opzegtermijn van zes maanden, zonder motivering, maar met betaling van een vergoeding. Die vergoeding is gelijk aan negen dan wel zes maanden huur naargelang de hoofdhuurovereenkomst beëindigd wordt tegen het einde van het derde of het zesde jaar.<br>
+<br>
 OF<br>
 <br>
 B. Uitsluiting van ongemotiveerde opzeg met vergoeding<br>
-Met toepassing van artikel 19, § 2 van het Vlaams Woninghuurdecreet hebben de eigenaar-verhuurder en het SVK in de hoofdhuurovereenkomst voor de volledige duur van negen jaar de mogelijkheid voor de eigenaar-verhuurder uitgesloten om vroegtijdig ongemotiveerd, maar met vergoeding op te zeggen.<br>
+<br>
+Met toepassing van artikel 19, § 2 van het Vlaams Woninghuurdecreet hebben de eigenaar-verhuurder en het SVK in de hoofdhuurovereenkomst voor de volledige duur de mogelijkheid voor de eigenaar-verhuurder uitgesloten om vroegtijdig ongemotiveerd, maar met vergoeding op te zeggen.<br>
+<br>
 OF<br>
 <br>
 C. Beperking van ongemotiveerde opzeg met vergoeding<br>
+<br>
 Met toepassing van artikel 19, § 2 van het Vlaams Woninghuurdecreet hebben de eigenaar-verhuurder en het SVK in de hoofdhuurovereenkomst de mogelijkheid van het ongemotiveerd opzeggingsrecht van de eigenaar-verhuurder, tegen betaling van een schadevergoeding, als volgt beperkt in de tijd :<br>
-.. .. .<br>
-.. .. .<br>
-.. .. .<br>
-. .. .<br>
-D. Van rechtswege ontbinding van de onderhuurovereenkomst<br>
+. . . . .<br>
+. . . . .<br>
+. . . . . .<br>
 <br>
 Art. 37. De onderhuurovereenkomst wordt van rechtswege ontbonden als de laatste onderhuurder die overeenkomstig titel VII van de Vlaamse Wooncode een persoonlijk recht heeft om de woning te bewonen overlijdt of de onderhuurovereenkomst heeft opgezegd of de woning niet langer als hoofdverblijfplaats betrekt zonder de onderhuurovereenkomst te hebben opgezegd. De nadere regels zijn bepaald in het besluit van de Vlaamse Regering van 12 oktober 2007.<br>
 <br>
 Overeenkomstig het gemeen huurrecht kan de onderhuurder in geval van een beëindiging van de onderhuurovereenkomst door het SVK, zich wenden tot de vrederechter, die bevoegd is om uitspraak te doen over de vordering tot ontbinding.<br>
 <br>
-Art. 38. De onderhuurder kan alleen om een verlenging wegens buitengewone omstandigheden verzoeken als de onderhuurovereenkomst wordt opgezegd, hetzij door het SVK, hetzij door de onderhuurder. In ieder geval moet het verzoek tot verlenging wegens buitengewone omstandigheden uiterlijk één maand voor het verstrijken van de opzegtermijn met een aangetekende brief betekend zijn aan het SVK. Bij niet-akkoord beslist de vrederechter over het al dan niet toestaan van die verlenging.<br>
+Art. 38. De onderhuurder kan alleen om een verlenging wegens buitengewone omstandigheden verzoeken als de onderhuurovereenkomst wordt opgezegd, hetzij door het SVK, hetzij door de onderhuurder. Die verlenging wordt, op straffe van nietigheid, uiterlijk een maand voor de vervaldag van de huur aan het SVK gevraagd met een aangetekende brief, door afgifte tegen ontvangstbewijs of door betekening van een gerechtsdeurwaardersexploot. Bij niet-akkoord beslist de vrederechter over het al dan niet toestaan van die verlenging.<br>
 <br>
 Art. 39. Gedurende de opzegtermijn, evenals in de periode dat het gehuurde goed te koop wordt gesteld, heeft het SVK het recht de woning over een periode van drie maanden gedurende twee dagen in de week en twee opeenvolgende uren per dag door kandidaat-huurders of kandidaat-kopers te laten bezichtigen. Elke partij bepaalt een van die twee dagen en uren. Als de eigenaar-verhuurder de woning te koop of te huur stelt, zal de onderhuurder moeten aanvaarden dat een affichering wordt aangebracht aan de voorgevel op een goed zichtbare plaats.<br>
 <br>
