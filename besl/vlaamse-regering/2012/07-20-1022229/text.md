@@ -119,7 +119,7 @@ De erkenning gaat in op de datum van de ondertekening van het erkenningsbesluit 
 
 Elk sociaal verhuurkantoor maakt een jaarverslag op conform het model dat het agentschap ter beschikking stelt.<br>
 <br>
-Elk sociaal verhuurkantoor dat een subsidie ontvangt als vermeld in dit besluit, maakt een financiële planning op voor de komende vijf jaar conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
+Elk sociaal verhuurkantoor dat een subsidie ontvangt als vermeld in artikel 8, eerste lid, 2° tot en met 6° van dit besluit, maakt een financiële planning op voor de komende vijf jaar conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
 <br>
 Het jaarverslag en de financiële planning worden jaarlijks uiterlijk op 15 maart bij het agentschap en bij de ondersteuningsstructuur ingediend, voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor is erkend.
 
@@ -278,26 +278,32 @@ Het gedeelte van de groeisubsidie, dat niet in het jaar van toekenning kan worde
 
 ### ART. 16.
 
-§ 1. Elk sociaal verhuurkantoor dat de juridische structuur van een vzw heeft en een subsidie als vermeld in dit besluit, ontvangt, voert een boekhouding conform het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen met inbegrip van artikel III.82, III.83, III.84, III.86, III.87, III.88, III.89, III.90, III.92 van het Wetboek van economisch recht en de uitvoeringsbesluiten ervan. Elk sociaal verhuurkantoor dat de juridische structuur heeft van een OCMW-vereniging, welzijnsvereniging, of opgericht is in de schoot van een gemeente of OCMW, en een subsidie als vermeld in dit besluit, ontvangt, voert een boekhouding conform het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn.<br>
+§ 1. Elk sociaal verhuurkantoor dat de juridische structuur van een vzw heeft en een subsidie ontvangt als vermeld in artikel 8, eerste lid, 2° tot en met 6° van dit besluit, voert een boekhouding conform het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen met inbegrip van artikel III.82, III.83, III.84, III.86, III.87, III.88, III.89, III.90, III.92 van het Wetboek van economisch recht en de uitvoeringsbesluiten ervan. Elk sociaal verhuurkantoor dat de juridische structuur heeft van een OCMW-vereniging of, welzijnsvereniging, en een subsidie ontvangt als vermeld in artikel 8, eerste lid, 2° tot en met 6° van dit besluit, voert een boekhouding conform het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn.<br>
 <br>
 De minister bepaalt de nadere regels en stelt de verdere indeling vast van:<br>
 1° het minimale algemene rekeningstelsel, vermeld in artikel 3 en 4 en in de bijlage bij het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekeningen van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen, dat de sociale verhuurkantoren die als vereniging zonder winstoogmerk zijn opgericht, bij het voeren van hun boekhouding volgen;<br>
-2° de rekeningen, vermeld in artikel 15 van het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn en in het genormaliseerde stelsel van de algemene rekeningen, opgenomen in de bijlage bij het voormelde ministerieel besluit, dat de sociale verhuurkantoren die als OCMW-vereniging, welzijnsvereniging, of in de schoot van een gemeente of OCMW zijn opgericht, bij het voeren van hun boekhouding volgen.<br>
+2° de rekeningen, vermeld in artikel 15 van het ministerieel besluit van 1 oktober 2010 tot vaststelling van de modellen en de nadere voorschriften van de beleidsrapporten en de toelichting ervan, en van de rekeningstelsels van de gemeenten, de provincies en de openbare centra voor maatschappelijk welzijn en in het genormaliseerde stelsel van de algemene rekeningen, opgenomen in de bijlage bij het voormelde ministerieel besluit, dat de sociale verhuurkantoren die als OCMW-vereniging of, welzijnsvereniging, bij het voeren van hun boekhouding volgen.<br>
 <br>
-§ 2. Het sociaal verhuurkantoor dat een subsidie als vermeld in dit besluit, ontvangt, rapporteert uiterlijk op de dertigste kalenderdag van ieder kwartaal aan de ondersteuningsstructuur over:<br>
+§ 2. Een sociaal verhuurkantoor rapporteert uiterlijk op de dertigste kalenderdag van ieder kwartaal aan de ondersteuningsstructuur over:<br>
 1° het saldo van de zichtrekeningen en de beleggingsrekeningen op het einde van het vorige kwartaal;<br>
 2° de openstaande saldi van de aangegane leningen op het einde van het vorige kwartaal;<br>
 3° de vervaldagenbalans van de vorderingen van het sociaal verhuurkantoor op het einde van het vorige kwartaal;<br>
 4° de vervaldagenbalans van de schulden van het sociaal verhuurkantoor op het einde van het vorige kwartaal;<br>
 5° de kasstroomrapportering over het voorbije kwartaal.<br>
 <br>
-In het eerste lid wordt verstaan onder vervaldagenbalans: een rapport dat het sociaal verhuurkantoor op maandelijkse basis genereert, waarin de verdeling van de openstaande vorderingen en schulden op basis van de vervaldatum ervan worden geclassificeerd.<br>
+Een sociaal verhuurkantoor dat is opgericht in de schoot van een gemeente of OCMW, geen subsidie of enkel de opstartsubsidie, als vermeld in artikel 8, eerste lid, 1°, ontvangt, rapporteert uiterlijk op de dertigste kalenderdag van ieder kwartaal aan de ondersteuningsstructuur over:<br>
+1° het saldo van de zichtrekeningen en de beleggingsrekeningen op het einde van het vorige kwartaal, op voorwaarde dat die afgezonderd zijn voor de werking van het sociaal verhuurkantoor;<br>
+2° de openstaande saldi van de aangegane leningen op het einde van het vorige kwartaal, als die leningen werden aangegaan ter financiering van de activiteiten van het sociaal verhuurkantoor;<br>
+3° de vervaldagenbalans van de huurvorderingen van het sociaal verhuurkantoor op het einde van het vorige kwartaal;<br>
+4° de vervaldagenbalans van de huurschulden van het sociaal verhuurkantoor op het einde van het vorige kwartaal.<br>
+<br>
+Onder vervaldagenbalans wordt verstaan: een rapport dat het sociaal verhuurkantoor op maandelijkse basis genereert, waarin de verdeling van de openstaande vorderingen en schulden op basis van de vervaldatum ervan worden geclassificeerd.<br>
 <br>
 De rapporteringen verlopen elektronisch conform het model dat de ondersteuningsstructuur ter beschikking stelt.<br>
 <br>
-Punt 3°, 4° en 5° van het eerste lid treden in werking op 1 januari 2020.<br>
+Punt 3°, 4° en 5° van het eerste lid, en punt 3° en 4° van het tweede lid treden in werking op 1 januari 2020.<br>
 <br>
-§ 3. Het sociaal verhuurkantoor bezorgt jaarlijks uiterlijk op 15 maart en voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor gesubsidieerd is, de volgende stukken aan het agentschap:<br>
+§ 3. Het sociaal verhuurkantoor dat een subsidie ontvangt als vermeld in artikel 8, eerste lid, 2° tot en met 6°, bezorgt jaarlijks uiterlijk op 15 maart en voor de eerste keer uiterlijk op 15 maart van het jaar dat volgt op het jaar waarin het sociaal verhuurkantoor gesubsidieerd is, de volgende stukken aan het agentschap:<br>
 1° een gedetailleerde afrekening van de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, aangevuld met de resultatenrekening en een balans over het voorbije werkingsjaar, conform het genormaliseerde rekeningstelsel, vermeld in paragraaf 1, tweede lid, alsook een begroting voor het lopende kalenderjaar die het bevoegde bestuursorgaan goedgekeurd heeft. Als de werking van het sociaal verhuurkantoor deel uitmaakt van een breder opdrachtenpakket, voert de rechtspersoon een volledige analytische boekhouding, zodat de activa en passiva van het sociaal verhuurkantoor kunnen worden afgezonderd in de balans en de kosten en opbrengsten die verbonden zijn aan de werking van het sociaal verhuurkantoor, afzonderlijk gerapporteerd en bewezen kunnen worden;<br>
 2° een gedetailleerde afrekening van de personeelskosten met onder meer een afschrift van de RSZ-staten en de individuele jaarrekeningen over de gesubsidieerde periode;<br>
 3° een gedetailleerd overzicht, in overeenstemming met de boekhouding, van de waardeverminderingen en terugnemingen daarvan op huurvorderingen, alsook de minder- en meerwaarden op de realisatie van huurvorderingen.<br>
