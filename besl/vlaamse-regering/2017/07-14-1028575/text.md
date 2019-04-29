@@ -545,7 +545,45 @@ Met het oog op de rapportering aan de beoordelingscommissie over de toewijzingen
 2° de benuttingsgraad van de financieringswijzen, vermeld in artikel 1, 9°, b), c), d), e), f) en g), in het huidige en het voorgaande begrotingsjaar;<br>
 3° de verwervingen van onbebouwde onroerende goederen en van andere bebouwde onroerende goederen dan goede woningen, waarvan de bouw- of investeringsverrichting is opgenomen in de meerjarenplanning of in de kortetermijnplanning, en een prognose voor de impact van de verwervingen op de financiering in het huidige en het volgende begrotingsjaar.
 
+### ART 25.
+
+§ 1. Een kwaliteitskamer wordt opgericht.<br>
+<br>
+De kwaliteitskamer wordt als volgt samengesteld :<br>
+1° de minister of zijn gemachtigde, die optreedt als voorzitter;<br>
+2° één vertegenwoordiger van de VMSW;<br>
+3° één vertegenwoordiger van Wonen-Vlaanderen;<br>
+4° één vertegenwoordiger, voorgedragen door de sociale huisvestingsmaatschappijen;<br>
+5° de Vlaams Bouwmeester of een vertegenwoordiger van zijn team.<br>
+<br>
+Het secretariaat van de kwaliteitskamer worden waargenomen door de VMSW.<br>
+<br>
+§ 2. De kwaliteitskamer houdt jaarlijks ten minste viermaal, verspreid over het jaar, een bijeenkomst. Op de derde bijeenkomst van een werkingsjaar legt de kwaliteitskamer de data vast van de bijeenkomsten in het volgende werkingsjaar.<br>
+<br>
+§ 3. De kwaliteitskamer neemt op elke bijeenkomst een beslissing over de volgende aangelegenheden :<br>
+1° verzoeken om een afwijking op de bouwtechnisch en conceptuele richtlijnen toe te staan conform artikel 3, § 2, vijfde lid;<br>
+2° de beroepen die bij haar zijn ingediend conform artikel 26.
+
 ## Afdeling 5 Beroepsmogelijkheden
+
+### ART 26.
+
+De initiatiefnemer kan bij de kwaliteitskamer beroep aantekenen tegen de volgende adviezen of beslissingen van de VMSW :<br>
+1° een ongunstig advies in het kader van de renovatietoets conform artikel 7, vijfde lid;<br>
+2° een ongunstig advies bij een voorontwerp conform artikel 14, § 3, vijfde lid;<br>
+3° een ongunstig advies bij een uitvoeringsdossier conform artikel 17, § 3, vijfde lid;<br>
+4° een beslissing tot schrapping van een verrichting uit de kortetermijnplanning conform artikel 20;<br>
+5° een beslissing tot verlies van het recht op financiering als vermeld in artikel 1, 9°, b), e) of f), voor een verrichting conform artikel 22, tweede en derde lid.<br>
+<br>
+Het beroep wordt op straffe van onontvankelijkheid betekend met een beveiligde zending binnen een termijn van zestig kalenderdagen die ingaat op de dag na de invoering van het advies of de beslissing van de VMSW in het Projectportaal.<br>
+<br>
+De kwaliteitskamer neemt over het beroep een beslissing binnen een termijn van negentig kalenderdagen, die ingaat op de dag na de betekening, vermeld in het tweede lid. De VMSW voert de beslissing van de kwaliteitskamer in het Projectportaal in, en brengt de initiatiefnemer met een beveiligde zending op de hoogte.<br>
+<br>
+Als de kwaliteitskamer door de onvolledigheid van het dossier bijkomende documenten of inlichtingen moet opvragen, wordt de vervaltermijn, vermeld in het derde lid, geschorst. De termijn begint opnieuw te lopen op de zevende kalenderdag nadat de initiatiefnemer alle bijkomende documenten of inlichtingen met een beveiligde zending heeft betekend.<br>
+<br>
+Als de beslissing van de kwaliteitskamer niet tijdig wordt betekend aan de initiatiefnemer, wordt het beroep geacht ingewilligd te zijn.<br>
+<br>
+De beslissing van de kwaliteitskamer heeft dezelfde gevolgen als het advies van de VMSW, vermeld in artikel 7, artikel 14, § 3, en artikel 17, § 3, en de beslissing van de VMSW, vermeld in artikel 20 en artikel 22.
 
 ## HOOFDSTUK 3 Specifieke bepalingen voor projecten met een last inzake bescheiden woonaanbod
 
