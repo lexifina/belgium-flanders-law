@@ -2,16 +2,16 @@
   "codex_id": 1028648,
   "title": "Ministerieel besluit van 2017-08-28 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028648/VolledigDocument?datum=2019-01-24",
-  "source_sha256": "e243edb127f640406e59cd0dc71e78d645e9f2b9dd2efa3c458455b8b427bf6d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028648/VolledigDocument?datum=2019-04-29",
+  "source_sha256": "c39444a6fde7bb43d64011b20ea6fc515c455b2529190bb971cacf983fc0f9fc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028648&param=informatie",
-  "as_of": "2019-01-24",
+  "as_of": "2019-04-29",
   "made": "2017-08-28",
   "gazette": "2017-10-09",
   "numac": 2017204976,
   "document_start": "2017-10-19",
   "document_end": "2020-04-23",
-  "in_force": "2019-01-24",
+  "in_force": "2019-04-29",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-01-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-04-29; future article versions excluded; article text as the API gives it"
 }
