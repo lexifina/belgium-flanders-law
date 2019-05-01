@@ -98,7 +98,15 @@ De gouverneur mag niet afwezig zijn zonder verlof of vakantie.<br /><br />De gou
 
 ### ART. 15.
 
-Elke periode van dienstactiviteit geeft recht op jaarlijkse vakantiedagen.<br /><br />Wanneer een gouverneur in de loop van het jaar in dienst treedt of zijn ambt definitief neerlegt, wordt zijn vakantieverlof in evenredige mate verminderd tijdens het lopende jaar.<br /><br />Het aantal vakantiedagen wordt in evenredige mate verminderd met het aantal onbezoldigde verlofdagen tijdens het lopende jaar en, indien niet meer mogelijk, tijdens het daaropvolgende jaar.<br /><br />Het aantal zo berekende vakantiedagen bedraagt steeds een halve of een volledige dag. De afronding gebeurt naar de hogere halve of hele dag.
+Elke periode van dienstactiviteit geeft recht op jaarlijkse vakantiedagen.<br>
+<br>
+Wanneer een gouverneur in de loop van het jaar in dienst treedt of zijn ambt definitief neerlegt, wordt zijn vakantieverlof in evenredige mate verminderd tijdens het lopende jaar.<br>
+<br>
+Het aantal vakantiedagen wordt in evenredige mate verminderd met het aantal onbezoldigde verlofdagen tijdens het lopende jaar en, indien niet meer mogelijk, tijdens het daaropvolgende jaar.<br>
+<br>
+In afwijking van het derde lid wordt het jaarlijks vakantieverlof van de gouverneur niet evenredig verminderd in geval van pleegzorgverlof en pleegouderverlof.<br>
+<br>
+Het aantal zo berekende vakantiedagen bedraagt steeds een halve of een volledige dag. De afronding gebeurt naar de hogere halve of hele dag.
 
 ### ART. 16.
 
@@ -136,13 +144,55 @@ De periode van bezoldiging van de moederschapsrust mag niet meer dan vijftien we
 
 ### ART. 23.
 
-De gouverneur krijgt op zijn aanvraag een opvangverlof wanneer zijn gezin een kind beneden tien jaar in zijn gezin opneemt met het oog op adoptie of pleegvoogdij.<br /><br />Het verlof bedraagt ten hoogste zes weken als het kind de leeftijd van drie jaar nog niet heeft bereikt. Als het kind deze leeftijd wel al bereikt heeft, bedraagt het verlof ten hoogste vier weken.<br /><br />De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind mindervalide is en aan de voorwaarden voldoet om kinderbijslag te genieten overeenkomstig artikel 47 van de gecoördineerde wetten betreffende de kinderbijslag van de loonarbeiders of artikel 26 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van de zelfstandigen.<br /><br />Indien slechts één van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.
+De gouverneur krijgt op zijn aanvraag een opvangverlof wanneer zijn gezin een minderjarig kind in zijn gezin opneemt met het oog op adoptie of pleegvoogdij.<br>
+<br>
+Het opvangverlof bedraagt zes weken. De zes weken opvangverlof worden als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf 1 januari 2021;<br>
+3° met drie weken vanaf 1 januari 2023;<br>
+4° met vier weken vanaf 1 januari 2025;<br>
+5° met vijf weken vanaf 1 januari 2027.<br>
+<br>
+Indien beide ouders het kind adopteren of pleegvoogd worden dan worden de bijkomende weken onderling verdeeld..<br>
+<br>
+De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind een handicap heeft.<br>
+<br>
+De maximumduur van het opvangverlof wordt met twee weken verlengd bij de gelijktijdige adoptie of pleegvoogdij van meerdere minderjarige kinderen.<br>
+<br>
+Indien slechts één van de samenwonende partners adopteert of de pleegvoogdij uitoefent, kan alleen die persoon het verlof genieten.<br>
+<br>
+In het kader van een interlandelijke adoptie kan het opvangverlof ook de periode bestrijken die voorafgaat aan de daadwerkelijke opvang van het geadopteerde kind in België, voor zover deze voorafgaande periode vier weken niet overschrijdt en ze wordt besteed aan de voorbereiding van de daadwerkelijke opvang van het kind.
 
 ### ART. 24.
 
 Dit verlof wordt gelijkgesteld met een periode van dienstactiviteit.
 
 ## [HOOFDSTUK III PLEEGZORGVERLOF EN PLEEGOUDERVERLOF (ing. BVR 28 juni 2019, art. 40, I: 1 mei 2019)]
+
+### ART 24/1.
+
+Een gouverneur heeft per kalenderjaar recht op zes dagen pleegzorgverlof.<br>
+<br>
+In geval van langdurige pleegzorg heeft de gouverneur die in het kader van een langdurige pleegzorg een kind in zijn gezin onthaalt, met het oog op de zorg voor dit kind, recht op pleegouderverlof gedurende een aaneengesloten periode van maximum zes weken.<br>
+<br>
+Het pleegouderverlof van zes weken wordt als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf uiterlijk 1 januari 2021;<br>
+3° met drie weken vanaf uiterlijk 1 januari 2023;<br>
+4° met vier weken vanaf uiterlijk 1 januari 2025;<br>
+5° met vijf weken vanaf uiterlijk 1 januari 2027.<br>
+<br>
+Indien beide ouders werden aangesteld als pleegouder dan worden de bijkomende weken onderling verdeeld.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt verdubbeld als het in het gezin opgenomen kind een handicap heeft.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt met twee weken verlengd indien op hetzelfde moment meerdere pleegkinderen langdurig in het gezin worden opgenomen.<br>
+<br>
+Langdurige pleegzorg is pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden aan de gouverneur op overeenkomstige wijze toegekend als aan een ambtenaar van de diensten van de Vlaamse overheid.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden gelijkgesteld met dienstactiviteit.
 
 ## TITEL IV ZIEKTEVERLOF
 
