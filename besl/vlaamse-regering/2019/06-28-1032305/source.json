@@ -2,16 +2,16 @@
   "codex_id": 1032305,
   "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris en het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant, wat betreft de verlofregeling en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032305/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "66f497627b72ddb62c9420aa992036e3a2875156a5213233788d5fe7d7fe1c2a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032305/VolledigDocument?datum=2019-05-01",
+  "source_sha256": "04c5ea3cf4d463c6edc330c5ad2c64c44e49e49ac211ee0454f69f9396189b3b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032305&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-05-01",
   "made": "2019-06-28",
   "gazette": "2019-10-03",
   "numac": 2019014726,
   "document_start": "2019-10-04",
   "document_end": null,
-  "in_force": "2019-01-01",
-  "article_versions": 9,
-  "record_form": "consolidated version as in force on 2019-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-05-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2019-05-01; future article versions excluded; article text as the API gives it"
 }

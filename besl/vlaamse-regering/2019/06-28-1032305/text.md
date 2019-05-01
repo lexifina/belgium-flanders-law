@@ -24,6 +24,78 @@ Besluit :
 
 ## HOOFDSTUK 1. Wijzigingen van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de arrondissementscommissarissen en de adjunct-arrondissementscommissaris
 
+### ART 9.
+
+In artikel 50 van hetzelfde besluit worden tussen het tweede en het derde lid, twee leden ingevoegd, die luiden als volgt:<br>
+<br>
+"Het aantal vakantiedagen wordt in evenredige mate verminderd met het aantal onbezoldigde verlofdagen tijdens het lopende jaar en, als dat niet meer mogelijk is, tijdens het daaropvolgende jaar.<br>
+<br>
+In afwijking van het derde lid wordt het jaarlijks vakantieverlof van de arrondissementscommissaris niet evenredig verminderd in geval van pleegzorgverlof en pleegouderverlof.".
+
+### ART 10.
+
+n deel V van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 18 juni 2010, 9 september 2011 en 9 september 2016, wordt het opschrift van titel 3 vervangen door wat volgt:<br>
+<br>
+"Titel 3. Moederschapsrust, vader- of meemoederschapsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof".
+
+### ART 13.
+
+In artikel 57 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "een kind beneden tien jaar" vervangen door de woorden "een minderjarig kind";<br>
+<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+<br>
+"Het opvangverlof bedraagt zes weken. De zes weken opvangverlof worden als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf 1 januari 2021;<br>
+3° met drie weken vanaf 1 januari 2023;<br>
+4° met vier weken vanaf 1 januari 2025;<br>
+5° met vijf weken vanaf 1 januari 2027.<br>
+<br>
+Indien beide ouders het kind adopteren of pleegvoogd worden dan worden de bijkomende weken onderling verdeeld.";<br>
+<br>
+3° het derde lid wordt vervangen door wat volgt :<br>
+<br>
+"De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind een handicap heeft";<br>
+<br>
+4° tussen het derde en vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De maximumduur van het opvangverlof wordt met twee weken verlengd bij de gelijktijdige adoptie of pleegvoogdij van meerdere minderjarige kinderen.";<br>
+<br>
+5° er wordt een lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In het kader van een interlandelijke adoptie kan het opvangverlof ook de periode bestrijken die voorafgaat aan de daadwerkelijke opvang van het geadopteerde kind in België, voor zover deze voorafgaande periode vier weken niet overschrijdt en ze wordt besteed aan de voorbereiding van de daadwerkelijke opvang van het kind.".
+
+### ART 14.
+
+Aan deel V, titel 3, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt een hoofdstuk 3, dat bestaat uit artikel 58/1, toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 3. Pleegzorgverlof en pleegouderverlof<br>
+<br>
+Art. 58/1. Een arrondissementscommissaris heeft per kalenderjaar recht op zes dagen pleegzorgverlof.<br>
+<br>
+In geval van langdurige pleegzorg heeft de arrondissementscommissaris die in het kader van een langdurige pleegzorg een kind in zijn gezin onthaalt, met het oog op de zorg voor dit kind, recht op pleegouderverlof gedurende een aaneengesloten periode van maximum zes weken.<br>
+<br>
+Het pleegouderverlof van zes weken wordt als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf uiterlijk 1 januari 2021;<br>
+3° met drie weken vanaf uiterlijk 1 januari 2023;<br>
+4° met vier weken vanaf uiterlijk 1 januari 2025;<br>
+5° met vijf weken vanaf uiterlijk 1 januari 2027.<br>
+<br>
+Indien beide ouders werden aangesteld als pleegouder dan worden de bijkomende weken onderling verdeeld.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt verdubbeld als het in het gezin opgenomen kind een handicap heeft.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt met twee weken verlengd indien op hetzelfde moment meerdere pleegkinderen langdurig in het gezin worden opgenomen.<br>
+<br>
+Langdurige pleegzorg is pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden aan de arrondissementscommissaris op overeenkomstige wijze toegekend als aan een ambtenaar van de diensten van de Vlaamse overheid.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden gelijkgesteld met dienstactiviteit.".
+
 ### ART 17.
 
 In artikel 63 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 9 september 2011, worden de volgende wijzigingen aangebracht:<br>
@@ -117,6 +189,76 @@ In artikel 81/7 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse 
 In artikel 81/8 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 18 juni 2010, wordt de zinsnede "81/4, eerste lid, 1°, 2° en 3° " vervangen door de zinsnede " 81/4, eerste lid, 1°, 2°, 2° /1 en 3° ".
 
 ## HOOFDSTUK 2. Wijzigingen van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant
+
+### ART 36.
+
+In artikel 15 van hetzelfde besluit wordt, tussen het derde en vierde lid, een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"In afwijking van het derde lid wordt het jaarlijks vakantieverlof van de gouverneur niet evenredig verminderd in geval van pleegzorgverlof en pleegouderverlof.".
+
+### ART 37.
+
+In deel IV van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 9 september 2011 en 9 september 2016, wordt het opschrift van titel III vervangen door wat volgt:<br>
+<br>
+"Titel III Moederschapsrust, vader- of meemoederschapsverlof, opvangverlof, pleegzorgverlof en pleegouderverlof".
+
+### ART 39.
+
+In artikel 23 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2011, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in het eerste lid worden de woorden "een kind beneden tien jaar" vervangen door de woorden "een minderjarig kind";<br>
+<br>
+2° het tweede lid wordt vervangen door wat volgt:<br>
+<br>
+"Het opvangverlof bedraagt zes weken. De zes weken opvangverlof worden als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf 1 januari 2021;<br>
+3° met drie weken vanaf 1 januari 2023;<br>
+4° met vier weken vanaf 1 januari 2025;<br>
+5° met vijf weken vanaf 1 januari 2027.<br>
+<br>
+Indien beide ouders het kind adopteren of pleegvoogd worden dan worden de bijkomende weken onderling verdeeld.";<br>
+<br>
+3° het derde lid wordt vervangen door wat volgt:<br>
+<br>
+"De maximumduur van het opvangverlof wordt verdubbeld wanneer het opgenomen kind een handicap heeft."<br>
+<br>
+4° tussen het derde en vierde lid wordt een lid ingevoegd, dat luidt als volgt:<br>
+<br>
+"De maximumduur van het opvangverlof wordt met twee weken verlengd bij de gelijktijdige adoptie of pleegvoogdij van meerdere minderjarige kinderen.";<br>
+<br>
+5° er wordt een lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In het kader van een interlandelijke adoptie kan het opvangverlof ook de periode bestrijken die voorafgaat aan de daadwerkelijke opvang van het geadopteerde kind in België, voor zover deze voorafgaande periode vier weken niet overschrijdt en ze wordt besteed aan de voorbereiding van de daadwerkelijke opvang van het kind.".
+
+### ART 40.
+
+Aan deel IV, titel III, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 9 september 2011, wordt een hoofdstuk III, dat bestaat uit artikel 24/1, toegevoegd, dat luidt als volgt:<br>
+<br>
+" Hoofdstuk III. Pleegzorgverlof en pleegouderverlof<br>
+<br>
+Art. 24/1. Een gouverneur heeft per kalenderjaar recht op zes dagen pleegzorgverlof.<br>
+<br>
+In geval van langdurige pleegzorg heeft de gouverneur die in het kader van een langdurige pleegzorg een kind in zijn gezin onthaalt, met het oog op de zorg voor dit kind, recht op pleegouderverlof gedurende een aaneengesloten periode van maximum zes weken.<br>
+<br>
+Het pleegouderverlof van zes weken wordt als volgt opgetrokken:<br>
+1° met één week vanaf 1 januari 2019;<br>
+2° met twee weken vanaf uiterlijk 1 januari 2021;<br>
+3° met drie weken vanaf uiterlijk 1 januari 2023;<br>
+4° met vier weken vanaf uiterlijk 1 januari 2025;<br>
+5° met vijf weken vanaf uiterlijk 1 januari 2027.<br>
+<br>
+Indien beide ouders werden aangesteld als pleegouder dan worden de bijkomende weken onderling verdeeld.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt verdubbeld als het in het gezin opgenomen kind een handicap heeft.<br>
+<br>
+De maximumduur van het pleegouderverlof wordt met twee weken verlengd indien op hetzelfde moment meerdere pleegkinderen langdurig in het gezin worden opgenomen.<br>
+<br>
+Langdurige pleegzorg is pleegzorg waarvan bij aanvang duidelijk is dat het kind voor minstens zes maanden in hetzelfde pleeggezin bij dezelfde pleegouders zal verblijven.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden aan de gouverneur op overeenkomstige wijze toegekend als aan een ambtenaar van de diensten van de Vlaamse overheid.<br>
+<br>
+Het pleegzorgverlof en pleegouderverlof worden gelijkgesteld met dienstactiviteit. ".
 
 ### ART 43.
 
