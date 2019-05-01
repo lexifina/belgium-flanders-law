@@ -1279,6 +1279,14 @@ Bovendien nemen de betrokken scholen voor deeltijds kunstonderwijs en de basissc
 
 ## [Hoofdstuk 12. Netwerk Islamexperten (ing. decr. 5 april 2019, art. 141, I: 1 mei 2019)]
 
+### ART IV. 52.
+
+Binnen de beschikbare kredieten subsidieert de Vlaamse Regering jaarlijks de door het Executief van de Moslims van België erkende vzw die optreedt als erkende instantie van het islamitische godsdienstonderwijs in de Vlaamse Gemeenschap.<br>
+<br>
+De subsidie strekt ertoe om de loonkost van de medewerkers in kwestie en de werkingskost van het ingediende project te dekken. Dat project moet activiteiten omvatten op het vlak van levensbeschouwelijke diversiteit, polarisering, radicalisering en extremisme binnen de werking van onderwijsinstellingen, vormingscentra en centra voor leerlingenbegeleiding die door de Vlaamse Gemeenschap zijn erkend.<br>
+<br>
+De Vlaamse Regering sluit met vermelde vzw een beheersovereenkomst telkens voor maximaal vier jaren waarin opzet en doelstellingen, invulling, evaluatie en aanwending van de subsidie nader zijn omschreven.
+
 ## [Hoofdstuk 13. Verbetering van de arbeidsvoorwaarden en arbeidsomstandigheden voor MVDP+ (ing. decr. 5 april 2019, art. 43, I: 1 september 2021)]
 
 ## DEEL V RECHTSPOSITIE ONDERWIJSPERSONEEL
