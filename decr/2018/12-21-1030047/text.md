@@ -46,6 +46,56 @@ In artikel 2.7.1.0.2, tweede lid, van hetzelfde decreet, ingevoegd bij het decre
 
 In artikel 2.7.3.2.4, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, worden de woorden "de registers van de hypotheekbewaarders" vervangen door de woorden "de registers van de hypothecaire openbaarmaking of in de registers van het Belgisch Scheepsregister".
 
+### ART 9.
+
+In artikel 2.7.4.2.2 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, 2°, wordt de zinsnede "op voorwaarde dat de aandelen van de vennootschap op het ogenblik van het overlijden voor ten minste 50% in volle eigendom toebehoren aan de erflater en zijn familie" vervangen door de zinsnede "op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van het overlijden in volle eigendom toebehoren aan de erflater en zijn familie ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen";<br>
+<br>
+2° in paragraaf 1 wordt het tweede lid vervangen door wat volgt:<br>
+"In afwijking van het eerste lid vertegenwoordigen de aandelen van de vennootschap die op het ogenblik van het overlijden in volle eigendom toebehoren aan de erflater en zijn familie minstens 30% van de stemrechten in die vennootschap, als hij en zijn familie aan een van de volgende voorwaarden voldoen:<br>
+1° samen met één andere aandeelhouder en zijn familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 70% van de stemrechten in die vennootschap vertegenwoordigen;<br>
+2° samen met twee andere aandeelhouders en hun familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 90% van de stemrechten in die vennootschap vertegenwoordigen.";<br>
+<br>
+3° in paragraaf 2, 2°, wordt het woord "doel" vervangen door het woord "voorwerp";<br>
+<br>
+4° in paragraaf 3 wordt het woord "doel" vervangen door het woord "voorwerp".
+
+### ART 10.
+
+In artikel 2.7.4.2.3, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt punt 3° vervangen door wat volgt:<br>
+<br>
+"3° naargelang het geval:<br>
+a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van het overlijden van de erflater;<br>
+b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van het overlijden van de erflater door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van het overlijden verrichte inbrengen, zoals dat blijkt uit de jaarrekening.".
+
+### ART 11.
+
+In artikel 2.8.4.1.1, § 3, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt tussen het woord "schenkingen" en het woord "aan" de zinsnede ", inclusief inbrengen om niet," ingevoegd.
+
+### ART 12.
+
+In artikel 2.8.6.0.3 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in paragraaf 1, eerste lid, 2°, wordt de zinsnede "op voorwaarde dat de aandelen van de vennootschap op het ogenblik van de schenking onder de levenden voor ten minste 50% in volle eigendom toebehoren aan de schenker en zijn familie" vervangen door de zinsnede "op voorwaarde dat de aandelen van de vennootschap die op het ogenblik van de schenking onder de levenden in volle eigendom toebehoren aan de schenker en zijn familie, ten minste 50% van de stemrechten in die vennootschap vertegenwoordigen";<br>
+<br>
+2° in paragraaf 1 wordt het tweede lid vervangen door wat volgt:<br>
+"In afwijking van het eerste lid vertegenwoordigen de aandelen van de vennootschap die op het ogenblik van de schenking in volle eigendom toebehoren aan de schenker en zijn familie, minstens 30% van de stemrechten in die vennootschap, als hij en zijn familie aan een van de volgende voorwaarden voldoen:<br>
+1° samen met één andere aandeelhouder en zijn familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 70% van de stemrechten in die vennootschap vertegenwoordigen;<br>
+2° samen met twee andere aandeelhouders en hun familie volle eigenaar zijn van de aandelen van de vennootschap die minstens 90% van de stemrechten in die vennootschap vertegenwoordigen.";<br>
+<br>
+3° in paragraaf 2, 2°, wordt het woord "doel" vervangen door het woord "voorwerp";<br>
+<br>
+4° in paragraaf 3 wordt het woord "doel" vervangen door het woord "voorwerp".
+
+### ART 13.
+
+In artikel 2.8.6.0.6, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt punt 3° vervangen door wat volgt:<br>
+<br>
+"3° naargelang het geval:<br>
+a) wanneer de familiale vennootschap een naamloze vennootschap, een Europese vennootschap of een Europese coöperatieve vennootschap is, dan wel een vennootschap met een andere rechtsvorm waarvoor het Belgische of buitenlandse recht dat haar beheerst, voorziet in een vergelijkbaar begrip: het kapitaal daalt niet door uitkeringen of terugbetalingen gedurende drie jaar vanaf de datum van de authentieke akte van schenking;<br>
+b) wanneer de familiale vennootschap een vennootschapsvorm heeft waarvoor het Belgische of buitenlandse recht dat de vennootschap beheerst, niet voorziet in het begrip kapitaal of een vergelijkbaar begrip: het eigen vermogen daalt niet gedurende drie jaar vanaf de datum van de authentieke akte van schenking door uitkeringen of terugbetalingen tot onder het bedrag van de tot op de datum van de authentieke akte van schenking verrichte inbrengen, zoals dat blijkt uit de jaarrekening.".
+
 ### ART 14.
 
 In artikel 2.8.6.0.8, § 3, van hetzelfde decreet, ingevoegd bij het decreet van 22 december 2017, worden de woorden "derde en vierde lid" vervangen door de woorden "vierde en vijfde lid".
@@ -57,6 +107,22 @@ In artikel 2.8.6.0.9 van hetzelfde decreet, ingevoegd bij het decreet van 6 juli
 1° in punt 1° worden de woorden "op de betrokken categorie goederen" opgeheven;<br>
 <br>
 2° in punt 3° worden de woorden "in de betrokken categorie" opgeheven.
+
+### ART 16.
+
+In artikel 2.9.1.0.4 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Het verkooprecht wordt ook gevestigd op de verkrijging, op welke wijze ook, anders dan bij inbreng in een vennootschap, door een of meer vennoten van onroerende goederen die in België liggen en die voortkomen van een vennootschap onder firma, van een commanditaire vennootschap, van een besloten vennootschap of van een coöperatieve vennootschap.";<br>
+<br>
+2° het derde lid wordt vervangen door wat volgt:<br>
+"In geval van verkrijging van maatschappelijke onroerende goederen door al de vennoten door een gehele of gedeeltelijke vereffening conform boek 2, titel 8, hoofdstuk 1, afdeling 2, van het Wetboek van Vennootschappen en Verenigingen, is, naargelang van het geval, de registratiebelasting die met toepassing van het eerste of het tweede lid is gevestigd, van toepassing op de latere toebedeling van de goederen aan een of meer vennoten.".
+
+### ART 17.
+
+In artikel 2.9.1.0.5 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, wordt het eerste lid vervangen door wat volgt:<br>
+<br>
+"Het verkooprecht wordt ook gevestigd op de verkrijging, op welke wijze ook, door een of meer vennoten van onroerende goederen die in België liggen en die voortkomen van een naamloze vennootschap, van een Europese vennootschap of van een Europese coöperatieve vennootschap.".
 
 ### ART 18.
 
@@ -122,6 +188,19 @@ Aan artikel 2.9.5.0.5 van hetzelfde decreet, ingevoegd bij het decreet van 18 me
 1° in het eerste en het tweede lid wordt de zinsnede "de verkoopovereenkomst, bepaald conform artikel 2.9.3.0.1," vervangen door de woorden "de verkrijging";<br>
 <br>
 2° in het derde lid worden de woorden "de verkoopovereenkomst" vervangen door de woorden "de verkrijging".
+
+### ART 24.
+
+In artikel 2.9.6.0.1, eerste lid, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 23 december 2016, worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° in punt 6° wordt de zinsnede "een samenwerkingsverband, beheerst door de wet van 17 juli 1989 betreffende de economische samenwerkingsverbanden of in" opgeheven;<br>
+<br>
+2° punt 7° wordt vervangen door wat volgt:<br>
+"7° de teruggave van de onroerende goederen aan de leden van een economisch samenwerkingsverband of van een Europees economisch samenwerkingsverband die de goederen hebben ingebracht door de ontbinding van het samenwerkingsverband of de uittreding van de leden.".
+
+### ART 25.
+
+In artikel 2.9.6.0.5, eerste lid, 1°, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014, worden de woorden "vennootschap met een sociaal oogmerk" vervangen door de woorden "coöperatieve vennootschap erkend als sociale onderneming".
 
 ### ART 26.
 
@@ -222,6 +301,10 @@ In artikel 3.12.1.0.9, eerste lid, van hetzelfde decreet worden de woorden "in d
 ### ART 45.
 
 In artikel 3.12.1.0.14, § 4, van hetzelfde decreet wordt de zinsnede "60 van de wet van 31 januari 2009 betreffende de continuïteit van de ondernemingen" vervangen door de zinsnede "XX.85 van het Wetboek van Economisch Recht".
+
+### ART 46.
+
+In artikel 3.12.3.0.1 van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en het laatst gewijzigd bij het decreet van 6 juli 2018, wordt in paragraaf 5, eerste lid, 3°, tussen de zinsnede "van andere bij naam te noemen mede-aandeelhouders," en de woorden "en anderzijds" de zinsnede "alsook met het percentage van de stemrechten dat zij vertegenwoordigen," ingevoegd.
 
 ### ART 47.
 
