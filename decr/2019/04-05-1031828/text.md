@@ -66,6 +66,14 @@ In artikel 13, § 3, eerste lid, 2° en 3°, van het decreet van 7 mei 2004 tot 
 
 ## HOOFDSTUK 7. Wijzigingen van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs
 
+### ART 45.
+
+In artikel 100 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 3 wordt vervangen door wat volgt:<br>
+" § 3. De vastbenoemde en tot de proeftijd toegelaten directeurs die op 31 augustus titularis zijn van een betrekking en die na een fusieoperatie niet opnieuw als directeur worden aangesteld, worden aangesteld in het ambt van adjunct-directeur. Ze behouden hun salarisschaal, tenzij ze door het besluit van de Vlaamse Regering dat de salarisschalen regelt, recht hebben op een gunstiger salaris.";<br>
+2° paragraaf 4 wordt vervangen door wat volgt:<br>
+" § 4. Aan de puntenenveloppe waarop het centrum volgens artikel 105, § 3, recht heeft, worden voor de toepassing van paragraaf 3 per betrekking van directeur 130 punten toegevoegd. Als er voor 1 september 2019 een einde komt aan de aanstelling van de vastbenoemde directeur in het ambt van adjunct-directeur behoudt het centrum de toegevoegde punten tot 31 augustus 2019. Als er vanaf 1 september 2019 een einde komt aan de aanstelling van de vastbenoemde directeur in het ambt van adjunct-directeur dan worden de 130 punten toegevoegd aan het totale beschikbare volume aan punten voor het volwassenenonderwijs, vermeld in artikel 105, § 3.".
+
 ## HOOFDSTUK 8. Wijzigingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 9. Wijzigingen van het decreet van 30 april 2009 betreffende de kwalificatiestructuur
@@ -209,6 +217,22 @@ In artikel V.172/1, vierde lid, van dezelfde codex, ingevoegd bij het decreet va
 ## HOOFDSTUK 13. Wijzigingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen
 
 ## HOOFDSTUK 14. Wijzigingen van de codificatie sommige bepalingen voor het onderwijs van 28 oktober 2016
+
+### ART 141.
+
+In dezelfde codificatie, wordt aan deel IV een hoofdstuk 12 toegevoegd, dat luidt als volgt:<br>
+<br>
+"Hoofdstuk 12. Netwerk Islamexperten".
+
+### ART 142.
+
+In dezelfde codificatie wordt in hoofdstuk 12, ingevoegd bij artikel 141, een artikel IV.52 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. IV.52. Binnen de beschikbare kredieten subsidieert de Vlaamse Regering jaarlijks de door het Executief van de Moslims van België erkende vzw die optreedt als erkende instantie van het islamitische godsdienstonderwijs in de Vlaamse Gemeenschap.<br>
+<br>
+De subsidie strekt ertoe om de loonkost van de medewerkers in kwestie en de werkingskost van het ingediende project te dekken. Dat project moet activiteiten omvatten op het vlak van levensbeschouwelijke diversiteit, polarisering, radicalisering en extremisme binnen de werking van onderwijsinstellingen, vormingscentra en centra voor leerlingenbegeleiding die door de Vlaamse Gemeenschap zijn erkend.<br>
+<br>
+De Vlaamse Regering sluit met vermelde vzw een beheersovereenkomst telkens voor maximaal vier jaren waarin opzet en doelstellingen, invulling, evaluatie en aanwending van de subsidie nader zijn omschreven.".
 
 ## HOOFDSTUK 15. Wijzigingen van het decreet van 7 juli 2017 betreffende de rechtspositie van de personeelsleden in de basiseducatie
 
