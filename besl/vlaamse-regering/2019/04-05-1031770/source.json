@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031770,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot wijziging van het besluit van de Vlaamse Regering van 9 mei 2014 houdende de regels voor de erkenning van meerdere vestigingen van een woonzorgcentrum, een centrum voor kortverblijf of een woonzorgcentrum met een bijkomende erkenning als één woonzorgcentrum, één centrum voor kortverblijf of één woonzorgcentrum met een bijkomende erkenning, betreffende het opheffen van de minimale capaciteit per vestiging van een woonzorgcentrum",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031770/VolledigDocument?datum=2019-05-01",
+  "source_sha256": "fa9c244bc964dc543a246ab81b31167384fa459399785fec97c10a55be0d7e6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031770&param=informatie",
+  "as_of": "2019-05-01",
+  "made": "2019-04-05",
+  "gazette": "2019-06-12",
+  "numac": 2019012864,
+  "document_start": "2019-05-01",
+  "document_end": null,
+  "in_force": "2019-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
