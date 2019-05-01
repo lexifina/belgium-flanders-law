@@ -2,16 +2,16 @@
   "codex_id": 1015618,
   "title": "Besluit van de Vlaamse Regering van 2007-02-02 tot instelling van een tegemoetkoming in de huurprijs voor woonbehoeftige huurders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015618/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "3ab86139981af3179407fa2a2fde4a983ce31b873811361b96058cfc5f721533",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015618/VolledigDocument?datum=2019-05-01",
+  "source_sha256": "867ca8b2848efdb25564c5f9fc218d3892a69ac152512f3588b94bd57fc13a8a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015618&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-05-01",
   "made": "2007-02-02",
   "gazette": "2007-03-09",
   "numac": 2007035284,
   "document_start": "2007-05-01",
   "document_end": "2020-12-31",
-  "in_force": "2018-05-25",
+  "in_force": "2019-05-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-05-01; future article versions excluded; article text as the API gives it"
 }
