@@ -354,7 +354,7 @@ Het de-minimisquotum wordt vastgelegd op 18 ton tong. De drempelwaarde vermeld i
 <br>
 In afwijking van het eerste lid is het vanaf 1 februari 2019 tot 31 oktober 2019, alleen voor de vissersvaartuigen van het KVS, die op de lijst "Vismachtiging Bristolkanaal KVS 2019" voorkomen, toegestaan om in de ICES-gebieden VIIf, g, aanwezig te zijn.<br>
 <br>
-Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen voor 21 januari 2019 met een aangetekende brief, per fax of per e-mail een aanvraag tot de bevoegde entiteit.<br>
+Om aan de lijst, vermeld in het tweede lid, toegevoegd te kunnen worden, richten de eigenaars van vissersvaartuigen voor 21 januari 2019 met een aangetekende brief, per fax of per e-mail een aanvraag tot de bevoegde entiteit. Vaartuigen van het KVS die volgens de Officiële lijst der Belgische zeeschepen 2019 uitsluitend zijn uitgerust om met de planken te vissen, worden met ingang van 1 mei 2019 aan de lijst toegevoegd.<br>
 <br>
 Ingeval het aantal ingeschreven vaartuigen te hoog is in verhouding tot de beschikbare tongquota, zal via loting dat aantal worden beperkt.<br>
 <br>
