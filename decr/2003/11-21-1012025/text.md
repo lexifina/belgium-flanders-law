@@ -385,7 +385,9 @@ De individuele zorgaanbieder heeft de plicht tegenover de besmette persoon die h
 
 ### ART. 51.
 
-De Vlaamse regering kan initiatieven nemen voor de preventie van aandoeningen, veroorzaakt door fysische of chemische factoren. Die factoren situeren zich zowel binnen gebouwen als er buiten.
+De Vlaamse regering kan initiatieven nemen voor de preventie van aandoeningen, veroorzaakt door fysische of chemische factoren. Die factoren situeren zich zowel binnen gebouwen als er buiten.<br>
+<br>
+De Vlaamse Regering sensibiliseert voor de problematiek van de blootstelling aan chemische stoffen die de normale hormonale werking tijdens belangrijke ontwikkelingsfasen van het menselijk organisme ontregelen of kunnen ontregelen, en neemt initiatieven voor de preventie van aandoeningen die door die chemische stoffen worden veroorzaakt.
 
 ### ART. 52.
 
