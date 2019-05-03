@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031592,
+  "title": "Decreet van 2019-04-05 houdende wijziging van het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, wat betreft de sensibiliseringsplicht en het preventieve beleid met betrekking tot de blootstelling aan chemische stoffen die de normale hormonale werking van het menselijk organisme ontregelen of kunnen ontregelen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031592/VolledigDocument?datum=2019-05-03",
+  "source_sha256": "18dc7dd60d32c20d314fef97a2c92fd8b2a822dd226d2fc9ce5ca4b2cf4202a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031592&param=informatie",
+  "as_of": "2019-05-03",
+  "made": "2019-04-05",
+  "gazette": "2019-04-23",
+  "numac": 2019011953,
+  "document_start": "2019-05-03",
+  "document_end": null,
+  "in_force": "2019-05-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
