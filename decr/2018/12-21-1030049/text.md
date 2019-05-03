@@ -410,7 +410,7 @@ In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding
 
 ### ART 36.
 
-Voor de landbouwrampen erkend vanaf 1 september 2019, zijn teelten en oogsten geen vergoedbare goederen meer in het kader van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen.
+Voor de landbouwrampen erkend vanaf 31 december 2019, zijn teelten en oogsten geen vergoedbare goederen meer in het kader van de wet van 12 juli 1976 betreffende het herstel van zekere schade veroorzaakt aan private goederen door natuurrampen.
 
 ## HOOFDSTUK 12. Onderwijs en Vorming
 
@@ -789,7 +789,7 @@ Het extra werkingsbudget wordt aan de schoolbesturen uitbetaald uiterlijk op 31 
 
 Dit decreet treedt in werking op 1 januari 2019, met uitzondering van:<br>
 1° artikelen 7, 55 en 68, die uitwerking hebben vanaf 1 september 2018;<br>
-2° artikelen 11 en 12, die in werking treden vanaf 1 september 2019, met dien verstande dat de schade aan teelten en oogsten die het rechtstreekse gevolg is van een algemene ramp die als dusdanig voor 1 september 2019 erkend is door de Vlaamse Regering en die vergoed kan worden krachtens het decreet van 3 juni 2016 betreffende de tegemoetkoming voor schade, aangericht door algemene rampen in het Vlaamse Gewest, nog wel vergoed kan worden;<br>
+2° artikelen 11 en 12, die in werking treden vanaf&nbsp;31 december 2019, met dien verstande dat de schade aan teelten en oogsten die het rechtstreekse gevolg is van een algemene ramp die als dusdanig voor 31 december 2019 erkend is door de Vlaamse Regering en die vergoed kan worden krachtens het decreet van 3 juni 2016 betreffende de tegemoetkoming voor schade, aangericht door algemene rampen in het Vlaamse Gewest, nog wel vergoed kan worden;<br>
 3° artikelen 56, 57 en 58, die in werking treden vanaf 1 september 2019;<br>
 4° artikel 35, 3° en 5° , die uitwerking hebben vanaf 1 januari 2018;<br>
 5° artikelen 39 en 46, die uitwerking hebben vanaf 1 oktober 2018.
