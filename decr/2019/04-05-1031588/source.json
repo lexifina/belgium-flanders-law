@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031588,
+  "title": "Decreet van 2019-04-05 houdende instemming met het samenwerkingsakkoord van 15 februari 2019 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de classificatie van films, vertoond in Belgische bioscoopzalen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031588/VolledigDocument?datum=2019-05-03",
+  "source_sha256": "5890f3fafd899413937073a6821ad62ed310b470507835e0934ea9fe7fc8c5e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031588&param=informatie",
+  "as_of": "2019-05-03",
+  "made": "2019-04-05",
+  "gazette": "2019-04-23",
+  "numac": 2019011954,
+  "document_start": "2019-05-03",
+  "document_end": null,
+  "in_force": "2019-05-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
