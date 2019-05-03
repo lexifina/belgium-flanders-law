@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031594,
+  "title": "Ministerieel besluit van 2019-03-14 tot wijziging van artikel 2, 6, 10 en 17 van het ministerieel besluit van 30 juli 2008 tot bepaling van nadere regels voor het vaststellen, de wijze van bijhouden, de inhoud en het actualiseren van het inschrijvingsregister voor kandidaat-huurders",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031594/VolledigDocument?datum=2019-05-03",
+  "source_sha256": "981f91b5cdfe8a452273e103f2f705b529cd8e2c9402931d3a56b680b085aafc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031594&param=informatie",
+  "as_of": "2019-05-03",
+  "made": "2019-03-14",
+  "gazette": "2019-04-23",
+  "numac": 2019011740,
+  "document_start": "2019-05-03",
+  "document_end": null,
+  "in_force": "2019-05-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
