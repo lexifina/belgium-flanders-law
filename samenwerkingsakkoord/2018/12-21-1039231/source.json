@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039231,
+  "title": "Samenwerkingsakkoord van 2018-12-21 tussen de Franse Gemeenschap en de Vlaamse Gemeenschap betreffende de aanwending van digitale frequenties voor DAB+ op elkaars grondgebied",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039231/VolledigDocument?datum=2019-05-03",
+  "source_sha256": "74f5d0adad0a1723a82df0f049f1b13cfd0bcc43ecb67a50cf61d52acc67a68d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039231&param=informatie",
+  "as_of": "2019-05-03",
+  "made": "2018-12-21",
+  "gazette": "2024-01-19",
+  "numac": 2024000457,
+  "document_start": "2019-05-03",
+  "document_end": null,
+  "in_force": "2019-05-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
