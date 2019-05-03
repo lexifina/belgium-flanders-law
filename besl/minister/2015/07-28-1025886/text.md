@@ -14,8 +14,8 @@
 
 ### Enig artikel.
 
-Het   Algemeen Reglement van de Certificering, gevoegd als bijlage bij dit besluit,   wordt goedgekeurd.
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/09/09_1.pdf#page=113">Bijlage</A>
+...
