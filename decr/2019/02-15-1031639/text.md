@@ -86,6 +86,10 @@
 
 ## Afdeling 7. Wijzigingen van het decreet van 18 mei 2018 houdende de Vlaamse sociale bescherming
 
+### ART 85.
+
+In artikel 116, eerste lid, en in artikel 117, § 1, eerste lid, van hetzelfde decreet worden tussen de woorden "systematische afwijkingen" en de woorden "worden vastgesteld" de woorden "of fraude" ingevoegd.
+
 ## Afdeling 8. Wijzigingen van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging
 
 ## HOOFDSTUK 10. Slotbepalingen
