@@ -280,7 +280,7 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8
 1° 20 % van de onroerende voorheffing gedurende tien jaar voor woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E60;<br>
 2° 20 % van de onroerende voorheffing gedurende tien jaar voor andere gebouwde onroerende goederen dan woningen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E70;<br>
 3° 40 % van de onroerende voorheffing gedurende tien jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend vóór 1 januari 2013 en die op 1 januari van het aanslagjaar een E-peil hebben van ten hoogste E40;<br>
-4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben volgens de volgende tabel:<br>
+4° 50% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning na 31 december 2012 is ingediend en die op 1 januari van het aanslagjaar ten hoogste een E-peil hebben volgens de onderstaande tabel:<br>
 &nbsp;</p>
 
 <table border="1">
@@ -291,32 +291,35 @@ Eenheden boven het tiende geven recht op een verhoging van de vermindering met 8
 			<td>E-peil ingrijpende energetische renovatie</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 januari 2013<br>
-			tot en met 31 december 2013</td>
+			<td>vanaf 1 januari 2013 tot en met 31 december 2013</td>
 			<td>E50</td>
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 januari 2014<br>
-			tot en met 31 december 2015</td>
+			<td>vanaf 1 januari 2014 tot en met 31 december 2015</td>
 			<td>E40</td>
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>Vanaf 1 januari 2016<br>
-			tot en met 30 september 2016</td>
+			<td>vanaf 1 januari 2016 tot en met 30 september 2016</td>
 			<td>E30</td>
 			<td>/</td>
 		</tr>
 		<tr>
-			<td>vanaf 1 oktober 2016</td>
+			<td>vanaf 1 oktober 2016 tot en met 31 december 2019</td>
 			<td>E30</td>
 			<td>E90</td>
 		</tr>
+		<tr>
+			<td>vanaf 1 januari 2020</td>
+			<td>E30</td>
+			<td>/</td>
+		</tr>
 	</tbody>
 </table>
-<br>
-5° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar een E-peil hebben volgens de volgende tabel:
+
+<p>5° 100% van de onroerende voorheffing gedurende vijf jaar voor gebouwde onroerende goederen waarvoor de aanvraag van een stedenbouwkundige vergunning is ingediend na 31 december 2012 en die op 1 januari van het aanslagjaar een E-peil hebben volgens de volgende tabel:</p>
+
 <table border="1">
 	<tbody>
 		<tr>
