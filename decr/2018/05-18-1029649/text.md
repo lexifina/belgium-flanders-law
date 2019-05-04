@@ -1227,7 +1227,7 @@ De Vlaamse Regering regelt de controle door de zorgkassen op de aanrekening door
 
 ### ART 116.
 
-Als er systematische afwijkingen worden vastgesteld in het kader van de aanrekening van de bedragen, vermeld in artikel 114, kan de machtiging van de betreffende verstrekker van mobiliteitshulpmiddelen, verleend conform artikel 122, worden geschorst of ingetrokken.<br>
+Als er systematische afwijkingen of fraude worden vastgesteld in het kader van de aanrekening van de bedragen, vermeld in artikel 114, kan de machtiging van de betreffende verstrekker van mobiliteitshulpmiddelen, verleend conform artikel 122, worden geschorst of ingetrokken.<br>
 <br>
 De Vlaamse Regering bepaalt wat wordt verstaan onder systematische afwijkingen als vermeld in het eerste lid, en door wie de schorsing of de intrekking van de machtiging wordt opgelegd. De Vlaamse Regering legt de periode van de schorsing van de machtiging vast.<br>
 <br>
@@ -1237,7 +1237,7 @@ Na uitputting van de bezwaarprocedure, vermeld in het derde lid, kan tegen de be
 
 ### ART 117.
 
-§ 1. Als er systematische afwijkingen worden vastgesteld in het kader van de aanrekening van de bedragen, vermeld in artikel 114, kan het agentschap aan de betreffende verstrekker van mobiliteitshulpmiddelen of aan de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt, een administratieve geldboete opleggen.<br>
+§ 1. Als er systematische afwijkingen of fraude worden vastgesteld in het kader van de aanrekening van de bedragen, vermeld in artikel 114, kan het agentschap aan de betreffende verstrekker van mobiliteitshulpmiddelen of aan de onderneming in opdracht waarvan de betreffende verstrekker van mobiliteitshulpmiddelen werkt, een administratieve geldboete opleggen.<br>
 <br>
 De Vlaamse Regering bepaalt wat wordt verstaan onder systematische afwijkingen als vermeld in paragraaf 1, eerste lid.<br>
 <br>
