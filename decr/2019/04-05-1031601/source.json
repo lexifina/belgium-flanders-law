@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031601,
+  "title": "Decreet van 2019-04-05 houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat de wijziging van de voorwaarden voor de vermindering van de onroerende voorheffing bij ingrijpende energetische renovatie betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031601/VolledigDocument?datum=2019-05-04",
+  "source_sha256": "9fbb0f9b3dfdcba95276f1de08606043680155a16ad4b27828ab2ae1cfea2738",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031601&param=informatie",
+  "as_of": "2019-05-04",
+  "made": "2019-04-05",
+  "gazette": "2019-04-24",
+  "numac": 2019011878,
+  "document_start": "2019-05-04",
+  "document_end": null,
+  "in_force": "2019-05-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
