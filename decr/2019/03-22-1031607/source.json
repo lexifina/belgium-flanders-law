@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031607,
+  "title": "Decreet van 2019-03-22 houdende wijziging van de wet van 14 augustus 1986 betreffende de bescherming en het welzijn der dieren, wat betreft het instellen van een verbod op het houden van pelsdieren en op het houden van dieren voor de productie van foie gras door middel van dwangvoedering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031607/VolledigDocument?datum=2019-05-05",
+  "source_sha256": "a42c6d487d56983a3c98b6514207558e260aa9c095ba4be7aa3a351521317188",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031607&param=informatie",
+  "as_of": "2019-05-05",
+  "made": "2019-03-22",
+  "gazette": "2019-04-25",
+  "numac": 2019011806,
+  "document_start": "2019-05-05",
+  "document_end": null,
+  "in_force": "2019-05-05",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2019-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
