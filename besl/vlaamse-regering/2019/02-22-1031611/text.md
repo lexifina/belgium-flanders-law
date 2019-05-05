@@ -72,3 +72,17 @@ In artikel 59, § 2, tweede lid, van hetzelfde besluit, ingevoegd bij het beslui
 ### ART 10.
 
 Het besluit van de Vlaamse Regering van 14 december 2018 tot toekenning van een eenmalige subsidie in 2018 voor de informatisering in het kader van de kinderopvangtoeslag wordt opgeheven.
+
+### ART 11.
+
+Artikel 1 tot en met 3, artikel 4, 2°, artikel 7 en artikel 9 hebben uitwerking met ingang van 1 januari 2019.<br>
+<br>
+Artikel 8 heeft uitwerking met ingang van 1 december 2018.<br>
+<br>
+Artikel 6 heeft uitwerking met ingang van 1 januari 2017 en artikel 4, 1°, en artikel 5 hebben uitwerking met ingang van 1 juli 2018.<br>
+<br>
+Artikel 10 treedt in werking op de dag van de ondertekening van dit besluit.
+
+### ART 12.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
