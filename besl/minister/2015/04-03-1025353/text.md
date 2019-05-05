@@ -388,7 +388,20 @@ Het   beheerpakket aanleg en onderhoud strategisch grasland beoogt de bestrijdin
 
 ### ART. 40.
 
-<P>De   instapvoorwaarden van het beheerpakket aanleg en onderhoud strategisch grasland   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het perceel ligt in het beheergebied voor erosiebestrijding, vermeld in artikel   17;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het perceel is door de afdeling Land- en Bodembescherming, Ondergrond en   Natuurlijke Rijkdommen van het Departement aangeduid als perceel dat in   aanmerking komt voor de aanleg van extra grasland omdat het perceel strategisch   gelegen is om erosie te bestrijden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   op het perceel waarvoor het beheerpakket wordt aangevraagd, werd gedurende de   vijf jaar voorafgaand aan de gewenste aanvangsdatum van de beheerovereenkomst   een eenjarige akkerteelt exclusief grasland verbouwd en als zodanig   geregistreerd in de verzamelaanvraag;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   het beheervoorwerp wordt jaarlijks als een perceel geregistreerd in de   verzamelaanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   beheervoorwaarden van het beheerpakket aanleg en onderhoud strategisch grasland   zijn:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het beheerpakket wordt toegepast voor de afmetingen vermeld in de   beheerovereenkomst;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de   beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij   het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de   Vlaamse Regering van 19 september 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het perceel wordt voor 31 mei van het eerste jaar van de beheerovereenkomst   ingezaaid met een gras- of een graskruidenmengsel;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   het beheervoorwerp bestaat gedurende de volledige looptijd van de   beheerovereenkomst uit een aaneengesloten grasmat; schade aan de grasmat moet   meteen hersteld worden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het beheervoorwerp wordt niet gebruikt om te voldoen aan een inzaaiverplichting   in het kader van de vergroeningsmaatregel tot behoud van blijvend grasland,   vermeld in artikel 45 van Verordening (EU) nr. 1307/2013.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   volgende basisnorm geldt bij het beheerpakket aanleg en onderhoud strategisch   grasland: het perceel wordt minstens om de twee jaar gemaaid waarbij het maaisel   wordt afgevoerd om verruiging en verbossing tegen te gaan.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>De instapvoorwaarden van het beheerpakket aanleg en onderhoud strategisch grasland zijn:<br>
+1° het perceel ligt in het beheergebied voor erosiebestrijding, vermeld in artikel 17;<br>
+2° het perceel is door de subentiteit van het Departement Omgeving, bevoegd voor de bodembescherming aangeduid als perceel dat in aanmerking komt voor de aanleg van extra grasland omdat het perceel strategisch gelegen is om erosie te bestrijden;<br>
+3° op het perceel waarvoor het beheerpakket wordt aangevraagd, werd gedurende de vijf jaar voorafgaand aan de gewenste aanvangsdatum van de beheerovereenkomst een eenjarige akkerteelt exclusief grasland verbouwd en als zodanig geregistreerd in de verzamelaanvraag;<br>
+4° het beheervoorwerp wordt jaarlijks als een perceel geregistreerd in de verzamelaanvraag.</p>
+
+<p>De beheervoorwaarden van het beheerpakket aanleg en onderhoud strategisch grasland zijn:<br>
+1° het beheerpakket wordt toegepast voor de afmetingen vermeld in de beheerovereenkomst;<br>
+2° de beheerder heeft het beheervoorwerp gedurende de volledige looptijd van de beheerovereenkomst in gebruik volgens de gegevens opgenomen in het GBCS, tenzij het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de Vlaamse Regering van 19 september 2014;<br>
+3° het perceel wordt voor 31 mei van het eerste jaar van de beheerovereenkomst ingezaaid met een gras- of een graskruidenmengsel;<br>
+4° het beheervoorwerp bestaat gedurende de volledige looptijd van de beheerovereenkomst uit een aaneengesloten grasmat; schade aan de grasmat moet meteen hersteld worden;<br>
+5° het beheervoorwerp wordt niet gebruikt om te voldoen aan een inzaaiverplichting in het kader van de vergroeningsmaatregel tot behoud van blijvend grasland, vermeld in artikel 45 van Verordening (EU) nr. 1307/2013.</p>
+
+<p>De volgende basisnorm geldt bij het beheerpakket aanleg en onderhoud strategisch grasland: het perceel wordt minstens om de twee jaar gemaaid waarbij het maaisel wordt afgevoerd om verruiging en verbossing tegen te gaan.</p>
 
 ### ART. 41.
 
@@ -1142,7 +1155,7 @@ De beheervoorwaarden van het beheerpakket aanleg en onderhoud luzernestrook voge
 3° de luzernestrook wordt tot stand gebracht door een bestaande luzernestrook te behouden of door de strook voor 1 mei van het eerste jaar van de beheerovereenkomst in te zaaien met luzerne of een mengsel van luzerne, rode klaver en voederwikke waarbij het mengsel uit minimaal 75 % luzerne bestaat;<br>
 4° vanaf het derde jaar van de beheerovereenkomst mag de luzernestrook eenmaal opnieuw ingezaaid worden met luzerne of een mengsel van luzerne, rode klaver en voederwikke waarbij het mengsel uit minimaal 75 % luzerne bestaat; de luzernestrook wordt ingezaaid tussen 1 januari en 1 mei;<br>
 5° op de luzernestrook worden geen bestrijdingsmiddelen gebruikt, uitgezonderd voor de manuele pleksgewijze bestrijding van akkerdistel;<br>
-6° de luzernestrook wordt jaarlijks drie keer gemaaid, waarbij het maaisel wordt afgevoerd binnen vijftien dagen na het maaien. De eerste maaibeurt wordt uitgevoerd in de periode vanaf 1 mei tot en met 31 mei. De tweede maaibeurt wordt minstens zestig dagen later dan de eerste maaibeurt uitgevoerd en uiterlijk voor 1 september. De derde maaibeurt vindt plaats in de periode vanaf 1 oktober tot en met 1 maart van het daaropvolgende kalenderjaar. De derde maaibeurt mag vervangen worden door klepelen of door maaien zonder dat het maaisel afgevoerd wordt. In het eerste jaar van de beheerovereenkomst en in het jaar dat de luzerne heringezaaid wordt, mag ook de eerste maaibeurt vervangen worden door klepelen of maaien zonder afvoer van het maaisel;<br>
+6° de luzernestrook wordt jaarlijks minstens twee keer gemaaid in de periode van 1 maart tot en met 30 september met een tijdsinterval van telkens minstens zestig dagen tussen twee opeenvolgende maaibeurten. De luzernestrook mag bijkomend jaarlijks gemaaid of geklepeld worden in de periode van 1 oktober tot en met 28 februari van het daaropvolgende jaar. Als er gemaaid wordt, moet telkens minstens 75% van de luzernestrook gemaaid worden en moet het maaisel afgevoerd worden binnen vijftien dagen nadat er gemaaid is. In het jaar van de (her)inzaai van de luzerne mag de eerste maaibeurt vervangen worden door klepelen of maaien zonder het maaisel af te voeren;<br>
 7° op de luzernestrook mogen alleen de volgende activiteiten worden uitgevoerd:<br>
 a) inzaaien of herinzaaien;<br>
 b) frezen voor de inzaai of herinzaai;<br>
@@ -1215,7 +1228,7 @@ De beheervoorwaarden van het beheerpakket aanleg en onderhoud luzernestrook hams
 3° de luzernestrook wordt tot stand gebracht door een bestaande luzernestrook te behouden of door de strook voor 1 mei van het eerste jaar van de beheerovereenkomst in te zaaien met luzerne of een mengsel van luzerne, rode klaver en voederwikke waarbij het mengsel uit minimaal 75 % luzerne bestaat;<br>
 4° op de luzernestrook worden geen bestrijdingsmiddelen gebruikt, uitgezonderd voor de manuele pleksgewijze bestrijding van akkerdistel;<br>
 5° op de strook worden geen meststoffen of bodemverbeteringsmiddelen opgebracht, uitgezonderd voorafgaand aan de inzaai van de luzerne;<br>
-6° de luzernestrook wordt in het eerste jaar van de beheerovereenkomst twee maal gemaaid of twee maal geklepeld voor 1 oktober; de eerste maai- of klepelbeurt gebeurt in de periode vanaf 1 mei tot en met 31 mei;<br>
+6° de luzernestrook wordt in het eerste jaar van de beheerovereenkomst twee maal gemaaid of twee maal geklepeld voor 1 oktober;<br>
 7° de luzernestrook wordt in het tweede en het derde jaar van de beheerovereenkomst jaarlijks minstens eenmaal gemaaid of geklepeld in de periode vanaf 1 oktober tot en met 1 maart van het daaropvolgend kalenderjaar;<br>
 8° de luzernestrook wordt in het vierde jaar van de beheerovereenkomst ingezaaid met wintertarwe in de periode vanaf 1 november tot en met 31 december en de wintertarwe wordt gedurende het vijfde jaar van de beheerovereenkomst behouden;<br>
 9° op de luzernestrook wordt geen enkele activiteit uitgevoerd, behoudens maaien of klepelen of het inzaaien van wintertarwe;<br>
@@ -1248,7 +1261,7 @@ De instapvoorwaarden van het beheerpakket hamstervriendelijke nateelt zijn :<br>
 De beheervoorwaarden van het beheerpakket hamstervriendelijke nateelt zijn :<br>
 1° de oppervlakte correct gemelde percelen is minstens de minimale oppervlakte, vermeld in de beheerovereenkomst;<br>
 2° de beheerder heeft de gemelde percelen gedurende het volledige jaar in gebruik volgens de gegevens opgenomen in het GBCS, tenzij het beheervoorwerp wordt overgenomen conform artikel 25 van het besluit van de Vlaamse Regering van 19 september 2014;<br>
-3° op de gemelde percelen wordt binnen veertien dagen na de oogst van de hoofdteelt en uiterlijk voor 1 augustus een nateelt ingezaaid; de nateelt wordt behouden tot 1 maart van het daaropvolgend kalenderjaar;<br>
+3° op de gemelde percelen wordt een graangewas, uitgezonderd maïs, als hoofdteelt geteeld. Binnen veertien dagen na de oogst van het graangewas en uiterlijk voor 1 augustus wordt een nateelt ingezaaid. De nateelt wordt behouden tot en met 1 maart van het daaropvolgende kalenderjaar;<br>
 4° de nateelt wordt ingezaaid met een mengsel als vermeld in bijlage 5, die bij dit besluit is gevoegd;<br>
 5° de facturen of de aankoopbewijzen en de zaaizaadetiketten van de jaarlijks ingezaaide nateelten worden bijgehouden tot drie jaar na afloop van de beheerovereenkomst;<br>
 6° op de gemelde percelen worden geen bestrijdingsmiddelen gebruikt na de inzaai van de nateelt, uitgezonderd voor de manuele pleksgewijze bestrijding van akkerdistel;<br>
@@ -1259,7 +1272,7 @@ De volgende basisnorm geldt bij het beheerpakket hamstervriendelijke nateelt : a
 
 ### ART 112/12.
 
-De jaarlijkse beheervergoeding voor het beheerpakket hamstervriendelijke nateelt bedraagt 130 euro per hectare.
+De jaarlijkse beheervergoeding voor het beheerpakket hamstervriendelijke nateelt bedraagt&nbsp;584 euro per hectare.
 
 ## Afdeling 6 De beheerpakketten die ingezet kunnen worden voor de beheerdoelstelling bijdragen aan de realisatie van instandhoudingsdoelstellingen
 
@@ -1419,14 +1432,15 @@ Het   beheerpakket waterkwaliteit draagt bij aan de verbetering van de waterkwal
 a) als de hoofdteelt bestaat uit korrelmaïs en het strooisel op het perceel blijft;<br>
 b) als de hoofdteelt bestaat uit grasland dat een volledig jaar behouden wordt;<br>
 c) als de hoofdteelt een zaadleverend gewas of gewasmengsel is als vermeld in bijlage 8 dat is ingezaaid in uitvoering van een beheerovereenkomst voor het beheerpakket faunabeheer akkerland voedselgewas;<br>
-d) als de hoofdteelt bestaat uit suikerbieten of spruitkool.<br>
+d) als de hoofdteelt bestaat uit suikerbieten of spruitkool;<br>
+e) als de hoofdteelt bestaat uit klaver of luzerne die een volledig jaar behouden wordt;<br>
 5° op minstens 90 procent van het areaal bouwland van het bedrijf worden als hoofdteelt laag-risicoteelten verbouwd;<br>
 6° op het areaal bouwland van het bedrijf worden als hoofdteelt minstens vier verschillende gewassen verbouwd, waarvan minstens drie laag-risicoteelten; elk van deze drie laag-risicoteelten wordt verbouwd op minstens vijf procent van het areaal bouwland van het bedrijf; hoofdteelten die tot één teeltgroep behoren in het kader van de vergroeningspraktijk gewasdiversificatie, worden als eenzelfde gewas beschouwd;<br>
 7° in het eerste jaar van de beheerovereenkomst worden op alle percelen landbouwgrond van het bedrijf die groter zijn dan 0,3 hectare een bodemanalyse uitgevoerd, waarbij minstens het koolstofgehalte en de zuurtegraad worden bepaald; de bodemanalyse gebeurt met inachtneming van de volgende voorwaarden:<br>
 a) de analyse gebeurt in de periode vanaf 1 oktober tot en met 15 november door een erkend laboratorium in de discipline bodem, deeldomein bodembescherming als vermeld in artikel 6, 5°, c) van het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu (VLAREL);<br>
 b) per oppervlakte van 2 hectare en per perceel wordt de analyse uitgevoerd; de maatschappij bepaalt welke perceelsgegevens gebruikt worden voor het bepalen van het aantal staalnamen voor koolstof en zuurtegraad;<br>
 c) als een laboratorium vaststelt dat het koolstofgehalte en de zuurtegraad lager is dan de rapportagegrens die het laboratorium kan vaststellen dan wordt het koolstofgehalte en de zuurtegraad herleid tot die rapportagegrens;<br>
-8° tijdens de looptijd van de beheerovereenkomst wordt minstens een keer een beroep gedaan op begeleiding door een bedrijfsadviseur van de maatschappij;<br>
+8° ...;<br>
 9° de beheerder laat jaarlijks op alle percelen landbouwgrond van het bedrijf die groter zijn dan 0,3 hectare een nitraatresidubepaling uitvoeren met inachtneming van de volgende voorwaarden:<br>
 a) de nitraatresidubepaling gebeurt jaarlijks in de periode vanaf 1 oktober tot en met 15 november door een erkend laboratorium in de discipline bodem, deeldomein bemesting als vermeld in artikel 6, 5°, d) van het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu (VLAREL);<br>
 b) het nitraatresidu wordt gemeten tot op een diepte van 0,90 meter;<br>
@@ -1663,7 +1677,154 @@ Tabel b)<br>
 	</tbody>
 </table>
 <br>
-2° in paragraaf 3, tabel c), wordt het woord "zomertarwe" vervangen door het woord " tarwe" en wordt het woord "zomerhaver" vervangen door het woord "haver".
+2° in paragraaf 3, tabel c), wordt het woord "zomertarwe" vervangen door het woord " tarwe" en wordt het woord "zomerhaver" vervangen door het woord "haver".<br>
+<br>
+* Bij MB van 7 maart 2019, BS 25 april 2019, wordt met ingang van 5 mei 2019 in paragraaf 2, tabel b) vervangen als volgt:<br>
+<br>
+Tabel b)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Nederlandse benaming bloemenmengsels en mengsels van vlinderbloemigen</td>
+			<td>wetenschappelijke naam</td>
+			<td>zaaihoeveelheid: minimaal gewicht per hectare</td>
+			<td>maximaal percentage van het ingezaaide gewicht</td>
+		</tr>
+		<tr>
+			<td>Tübinger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Brandenburger</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>eenjarig bloemenmengsel</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>korenbloem</td>
+			<td>Centaurea cyanus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+		<tr>
+			<td>grote klaproos</td>
+			<td>Papaver rhoeas</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 %</td>
+		</tr>
+		<tr>
+			<td>echte kamille</td>
+			<td>Matricaria chamomilla</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>groep: kruisbloemigen (minstens twee van de onderstaande soorten en altijd zwarte mosterd):</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>30 %</td>
+		</tr>
+		<tr>
+			<td>koolzaad</td>
+			<td>Brassica napus</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>raapzaad</td>
+			<td>Brassica rapa subsp. oleifera</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>zwarte mosterd</td>
+			<td>Brassica nigra</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>groep: vlinderbloemigen (minstens drie van de onderstaande soorten):</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>30 %</td>
+		</tr>
+		<tr>
+			<td>luzerne</td>
+			<td>Medicago sativa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>bonte wikke</td>
+			<td>Vicia villosa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>vogelwikke</td>
+			<td>Vicia cracca</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>esparcette</td>
+			<td>Onobrychis viccifolia</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>incarnaatklaver</td>
+			<td>Trifolium incarnatum</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>meerjarig mengsel van vlinderbloemigen</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;15 kg/ha</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>rode klaver</td>
+			<td>Trifolium pratense</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;40 %</td>
+		</tr>
+		<tr>
+			<td>luzerne</td>
+			<td>Medicago sativa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>incarnaatklaver</td>
+			<td>Trifolium incarnatum</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>esparcette</td>
+			<td>Onobrychis viccifolia</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;10 %</td>
+		</tr>
+		<tr>
+			<td>bonte wikke</td>
+			<td>Vicia villosa</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;30 %</td>
+		</tr>
+	</tbody>
+</table>
 
 ### BIJLAGE 6
 
@@ -1675,7 +1836,10 @@ Tabel b)<br>
 
 ### BIJLAGE 8
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/13_1.pdf#page=143">Bijlage   8</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2015/05/13_1.pdf#page=143">Bijlage 8</a><br>
+<br>
+* Bij MB van 7 maart 2019, BS 25 april 2019, wordt met ingang van 5 mei 2019 aan de bijlage 8 een punt 12 toegevoegd dat luidt als volgt:<br>
+12) een mengsel dat de maatschappij goedgekeurd heeft.
 
 ### BIJLAGE 9
 
