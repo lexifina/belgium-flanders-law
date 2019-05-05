@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031609,
+  "title": "Besluit van de Vlaamse Regering van 2018-12-07 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031609/VolledigDocument?datum=2019-05-05",
+  "source_sha256": "76829cc6357eb0bbca599c4a99f643485e061dbb63edec3e50a42919c16aa489",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031609&param=informatie",
+  "as_of": "2019-05-05",
+  "made": "2018-12-07",
+  "gazette": "2019-04-25",
+  "numac": 2019011947,
+  "document_start": "2019-05-05",
+  "document_end": null,
+  "in_force": "2019-05-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
