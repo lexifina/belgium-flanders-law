@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031615,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-22 tot vaststelling van het landinrichtingsplan IJsevallei",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031615/VolledigDocument?datum=2019-05-05",
+  "source_sha256": "1ba193afd9e08d70d93eec3245fc8153dcca556c31576f19a983ad42e3762f8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031615&param=informatie",
+  "as_of": "2019-05-05",
+  "made": "2019-02-22",
+  "gazette": "2019-04-25",
+  "numac": 2019011775,
+  "document_start": "2019-05-05",
+  "document_end": null,
+  "in_force": "2019-05-05",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2019-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
