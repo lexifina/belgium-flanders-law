@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031630,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-22 tot wijziging van het koninklijk besluit van 1 december 1975 houdende algemeen reglement op de politie van het wegverkeer en van het gebruik van de openbare weg, wat betreft de afmetingen van de lading",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031630/VolledigDocument?datum=2019-05-10",
+  "source_sha256": "149a5631d3eafaf65331d62dbf36638da96646037ab95cfb01f33308c8cebc21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031630&param=informatie",
+  "as_of": "2019-05-10",
+  "made": "2019-03-22",
+  "gazette": "2019-04-30",
+  "numac": 2019012003,
+  "document_start": "2019-05-10",
+  "document_end": null,
+  "in_force": "2019-05-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
