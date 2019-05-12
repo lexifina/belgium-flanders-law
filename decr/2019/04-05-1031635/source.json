@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031635,
+  "title": "Decreet van 2019-04-05 houdende instemming met de multilaterale overeenkomst ter implementatie van aan belastingverdragen gerelateerde maatregelen ter voorkoming van grondslaguitholling en winstverschuiving en met de verklarende nota, gedaan te Parijs op 24 november 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031635/VolledigDocument?datum=2019-05-12",
+  "source_sha256": "9bad9ede431091256e8be91da653e2c7550349c07ce3d1cd8db3593aafe60558",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031635&param=informatie",
+  "as_of": "2019-05-12",
+  "made": "2019-04-05",
+  "gazette": "2019-05-02",
+  "numac": 2019041037,
+  "document_start": "2019-05-12",
+  "document_end": null,
+  "in_force": "2019-05-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
