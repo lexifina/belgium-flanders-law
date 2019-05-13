@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031640,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-29 over de transitie van de personen met een handicap die zorg en ondersteuning krijgen in het buitenland en tot wijziging van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, wat betreft de besteding van het budget in het buitenland",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031640/VolledigDocument?datum=2019-05-13",
+  "source_sha256": "7fd0bf75a822a8cc28f88a9f777601c2a79afba085322a994eb0321d09735431",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031640&param=informatie",
+  "as_of": "2019-05-13",
+  "made": "2019-03-29",
+  "gazette": "2019-05-03",
+  "numac": 2019041069,
+  "document_start": "2019-05-13",
+  "document_end": null,
+  "in_force": "2019-05-13",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-05-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
