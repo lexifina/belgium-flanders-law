@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031645,
+  "title": "Ministerieel besluit van 2018-01-15 betreffende de vaststelling van het model van jaarverslag en het model van basisregistratie voor de erkende instellingen voor schuldbemiddeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031645/VolledigDocument?datum=2019-05-17",
+  "source_sha256": "1581266f808a51977a77ac79f832f9160dba5a2d6d4bf7b8d0b71cee568fa1c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031645&param=informatie",
+  "as_of": "2019-05-17",
+  "made": "2018-01-15",
+  "gazette": "2019-05-07",
+  "numac": 2019011610,
+  "document_start": "2019-05-17",
+  "document_end": null,
+  "in_force": "2019-05-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
