@@ -715,7 +715,13 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.1.0.0.3.
 
-<P>De vergoeding, vermeld in artikel 3.1.0.0.6 van de Vlaamse Codex Fiscaliteit   van 13 december 2013, wordt uiterlijk op 31 mei van het jaar dat volgt op het   aanslagjaar in kwestie, berekend op basis van:<BR>1° de door het kadaster   aangeleverde informatie over materieel en outillage ingevolge de toepassing van   artikel 2.1.6.0.1, eerste lid, 4° en 9°, van de Vlaamse Codex Fiscaliteit van 13   december 2013;<BR>2° de door het Vlaams Energieagentschap aangeleverde   informatie over de energiezuinige woningen en gebouwen ingevolge de toepassing   van artikel 2.1.5.0.1, § 2, van de Vlaamse Codex Fiscaliteit van 13 december   2013;<BR>3° de meldingen, vermeld in artikel 2.1.4.0.1, § 2, derde en vierde   lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013.</P>
+De vergoeding, vermeld in artikel 3.1.0.0.6 van de Vlaamse Codex Fiscaliteit van 13 december 2013, wordt uiterlijk op 31 mei van het jaar dat volgt op het aanslagjaar in kwestie, berekend op basis van:<br>
+1° de gegevens over de eigendommen van de erkende sociale verhuurkantoren voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 5°, van de voormelde codex;<br>
+2° de meldingen, vermeld in artikel 2.1.4.0.1, § 2, derde lid, van de voormelde codex, voor de toepassing van artikel 2.1.4.0.1, § 2, eerste lid, 7°, van de voormelde codex;<br>
+3° de meldingen, vermeld in artikel 2.1.4.0.1, § 2/1, tweede lid, van de voormelde codex;<br>
+4° de informatie over de energiezuinige woningen en gebouwen die het Vlaams Energieagentschap aanlevert voor de toepassing van artikel 2.1.5.0.1, § 2, van de voormelde codex;<br>
+5° de aanvragen, vermeld in artikel 2.1.6.0.2 van de voormelde codex;<br>
+6° de aanvragen, vermeld in artikel 2.2.6.0.1, § 3, eerste lid, van de voormelde codex, voor de toepassing van artikel 2.2.6.0.1, § 2, 2°, van de voormelde codex.
 
 ### ART. 3.1.0.0.4.
 
@@ -724,6 +730,10 @@ De vergoeding, vermeld in artikel 3.1.0.0.3, wordt uitbetaald, samen met   het s
 ### ART. 3.1.0.0.5.
 
 Gederfde opbrengsten die ontstaan na het tijdstip, vermeld in artikel   3.1.0.0.3, worden halfjaarlijks, uiterlijk op de laatste bankwerkdag van de   maand december en de maand juni, doorgestort.
+
+### ART 3.1.0.0.5/1.
+
+In afwijking van artikel 3.1.0.0.3 tot en met 3.1.0.0.5 worden de inkomsten die gederfd zijn met toepassing van artikel 2.2.6.0.1, § 3, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, doorgestort uiterlijk op de laatste bankwerkdag van de maand juli die volgt op het kalenderjaar waarin de vrijstelling, vermeld in artikel 2.2.6.0.1, § 2, 2°, van de voormelde codex, is toegekend.
 
 ### ART 3.1.0.0.6.
 
