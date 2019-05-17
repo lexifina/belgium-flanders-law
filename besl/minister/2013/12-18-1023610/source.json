@@ -2,16 +2,16 @@
   "codex_id": 1023610,
   "title": "Ministerieel besluit van 2013-12-18 betreffende de vaststelling van het model van jaarverslag dat de erkende instellingen voor schuldbemiddeling moeten gebruiken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023610/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "0aeb08a346b21cab5b234bc713bea2c527498966fe8009a3be92f289f4248d8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023610/VolledigDocument?datum=2019-05-17",
+  "source_sha256": "d0182eb80907c100f38a19437ee679f18fcbdb1bbe3adeca7e9468f7a17ceb84",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023610&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2019-05-17",
   "made": "2013-12-18",
   "gazette": "2014-01-20",
   "numac": 2013036232,
   "document_start": "2014-01-01",
   "document_end": "2019-05-16",
-  "in_force": "2014-01-01",
+  "in_force": "2019-05-17",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-05-17; future article versions excluded; article text as the API gives it"
 }

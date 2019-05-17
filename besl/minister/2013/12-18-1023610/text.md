@@ -12,12 +12,12 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 7bis, § 1, van het besluit van de Vlaamse   Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996   houdende regeling tot erkenning en subsidiëring van de instellingen voor   schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast wordt   het model van jaarverslag dat de erkende instellingen voor schuldbemiddeling   moeten bezorgen aan de administratie, opgenomen in de bijlage die bij dit   besluit is gevoegd.<BR>
+...
 
 ### ART. 2.
 
-&nbsp;Dit besluit treedt in werking op 1 januari 2014.<BR>
+...
 
 ### BIJLAGE
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/20_2.pdf#page=9">Bijlage</A></P>
+...
