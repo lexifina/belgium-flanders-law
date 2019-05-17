@@ -826,6 +826,41 @@ c) de temperatuurcurve.<br>
 <br>
 4.6.9.4. De ammoniakemissie bedraagt 0,021 kg NH<sub>3</sub> per dierplaats per jaar.
 
+### ART 4.6.10.
+
+4.6.10. Systeem P-6.10. Stal met warmwaterbuizenverwarming<br>
+<br>
+4.6.10.1. De ammoniakemissie wordt beperkt door het strooisel met warme lucht te drogen. Bij dit systeem wordt gebruikgemaakt van de thermische opstijging van warme lucht van de verwarmingsbuizen die aan de binnenkant van de zijmuren van de stal zijn geplaatst. De warmte van de buizen stijgt door de thermiek en beweegt zich samen met de binnenkomende lucht van de luchtinlaatventielen langs het plafond naar het midden van de stal. Daar komen de luchtstromen van beide kanten van de stal samen en bewegen naar omlaag en vervolgens weer naar de zijmuren. De opgewarmde lucht kan vocht opnemen dat uit het strooisel verdampt. Een deel van de stallucht wordt afgezogen zodat het verdampte vocht uit de stal direct wordt afgevoerd. Door de uniforme warmteafgifte van de warmtebuizen over het hele staloppervlak wordt een uniforme droging van het strooisel verkregen.<br>
+<br>
+4.6.10.2. Voor de uitvoering van dit systeem gelden de volgende eisen:<br>
+1° de stal is uitgevoerd als een volledige strooiselvloer;<br>
+2° alle lucht komt binnen via zij-inlaatventielen;<br>
+3° de vloer is een betonvloer op zand met een totale gezamenlijke dikte van minimaal 25 cm;<br>
+4° de stal is uitgevoerd met een antimorsdrinkwatervoorziening;<br>
+5° er zijn verwarmings- en luchtcirculatiesystemen:<br>
+a) het verbrandingstoestel is niet in de stalruimte van de dieren geplaatst. Het warm water wordt vanuit het verbrandingstoestel via een buizensysteem (warmtebuizen) in de stal gebracht;<br>
+b) de warmtebuizen hangen horizontaal in de lengterichting aan de binnenkant van de zijmuren bij de inlaatventielen. De warmtebuizen hangen over de volledige lengte van de zijmuren;<br>
+c) de minimaal te installeren capaciteit van de warmtebuizen bedraagt 125 watt per m2 (bestaande stallen) of 100 watt per m2 (nieuwe stallen) bij 35 ° C omgevingstemperatuur. De te installeren warmtecapaciteit kan met een warmtebalansberekening bepaald worden;<br>
+d) de stal wordt mechanisch geventileerd op basis van onderdruk. De afzuiging is ofwel deels in de nok en deels in de eindgevel, ofwel volledig via de eindgevel;<br>
+6° de volgende registratieapparatuur is aanwezig:<br>
+a) apparatuur om de gerealiseerde temperatuurcurve te registreren;<br>
+b) apparatuur om het gerealiseerde ventilatiedebiet te registreren;<br>
+c) apparatuur om de luchtvochtigheid te registreren;<br>
+7° de registratieapparatuur, vermeld in punt 6°, registreert gedurende de ronde continu de waarden. De geregistreerde waarden blijven minstens vijftig dagen na het einde van de ronde bewaard.<br>
+<br>
+4.6.10.3. Voor het gebruik van dit systeem gelden de volgende eisen:<br>
+1° de dierbezetting bedraagt maximaal 18 - 24 dieren per m2, afhankelijk van de bedrijfssituatie;<br>
+2° de verwarming wordt ingeschakeld naarmate er behoefte is aan extra warmte in de stal. Daarvoor wordt de temperatuurcurve gevolgd. De verwarming wordt ingeschakeld als de ruimtetemperatuur 0,5 ° C onder de streefwaarde komt;<br>
+3° de warmte stijgt door de thermiek en beweegt zich samen met de binnenkomende lucht van de luchtinlaatventielen langs het plafond naar het midden van de stal. Daar komen de luchtstromen van beide kanten van de stal samen en bewegen naar omlaag en vervolgens weer naar de zijmuren;<br>
+4° de luchtvochtigheid van de stal bedraagt maximaal 75%;<br>
+5° de luchtvochtigheid van de stal wordt continu gemeten met een luchtvochtigheidssensor die aangesloten zit op de klimaatcomputer. Als de vochtigheid van het strooisel oploopt en daardoor de stalluchtvochtigheid, reageert de computer daarop door de temperatuur van het water in het buizensysteem te verhogen zodat er meer vocht in de stal wordt verdampt en afgevoerd via het ventilatiesysteem;<br>
+6° voor een controle op de werking van het systeem worden de volgende gegevens automatisch en continu geregistreerd:<br>
+a) de gerealiseerde temperatuurcurve;<br>
+b) het gerealiseerde ventilatiedebiet;<br>
+c) de gerealiseerde luchtvochtigheid.<br>
+<br>
+4.6.10.4. De ammoniakemissie bedraagt 0,012 kg NH3 per dierplaats per jaar.
+
 ## [Afdeling 7 Ammoniakemissiearme stalsystemen voor opfokpoeljen slachtkuikenouderdieren (ing. MB 31 mei 2011, art. 1, I: 8 juli 2011)]
 
 ### 4.7.1.

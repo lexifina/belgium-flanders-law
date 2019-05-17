@@ -2,16 +2,16 @@
   "codex_id": 1013472,
   "title": "Ministerieel besluit van 2004-03-19 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013472/VolledigDocument?datum=2018-07-22",
-  "source_sha256": "01f763f9acd67014baa7ed31b13cf3bcda8e67f8f2c6e77f1ab50a7433b2019c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013472/VolledigDocument?datum=2019-05-17",
+  "source_sha256": "fecff8d09efc84228bab7f355a4531f18b03ff1a2ac2db6df1007432309f6b82",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013472&param=informatie",
-  "as_of": "2018-07-22",
+  "as_of": "2019-05-17",
   "made": "2004-03-19",
   "gazette": "2004-10-14",
   "numac": 2004036442,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-07-22",
-  "article_versions": 97,
-  "record_form": "consolidated version as in force on 2018-07-22; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-05-17",
+  "article_versions": 98,
+  "record_form": "consolidated version as in force on 2019-05-17; future article versions excluded; article text as the API gives it"
 }
