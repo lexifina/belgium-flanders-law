@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031644,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 houdende de wijziging van het besluit Vlaamse Codex Fiscaliteit van 20 december 2013 betreffende de vergoeding voor gederfde opcentiemen op de onroerende voorheffing en de inwerkingtreding van wijzigingen naar aanleiding van de hervorming van het federale Wetboek van Vennootschappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031644/VolledigDocument?datum=2019-05-17",
+  "source_sha256": "f2eb56ea45718d04c9a15d4015fefbeb65024cb7fc166f3faa7c4a0082cbd385",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031644&param=informatie",
+  "as_of": "2019-05-17",
+  "made": "2019-04-05",
+  "gazette": "2019-05-07",
+  "numac": 2019012174,
+  "document_start": "2019-05-17",
+  "document_end": null,
+  "in_force": "2019-05-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
