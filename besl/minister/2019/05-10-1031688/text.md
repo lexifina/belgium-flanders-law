@@ -52,7 +52,22 @@ Overwegende dat voor de plankenvissers uit het klein vlootsegment voor de visser
 <br>
 Besluit :
 
+### ART 1.
+
+In artikel 5 van het ministerieel besluit van 19 december houdende tijdelijke aanvullende maatregelen voor het jaar 2019 en tot het behoud van de visbestanden in zee, wordt een punt 2° bis ingevoegd dat luidt als volgt:<br>
+"2° bis gecombineerde visreizen uit te voeren met het ICES-gebied IV, behalve voor visreizen in de Noordzee en de aanpalende zone ICES-gebied VIId, het Oostelijk deel van het Engels Kanaal;"
+
 ### ART 2.
 
 Aan artikel 16, § 2, derde lid, van hetzelfde besluit wordt de volgende zin toegevoegd:<br>
 "Vaartuigen van het KVS die volgens de Officiële lijst der Belgische zeeschepen 2019 uitsluitend zijn uitgerust om met de planken te vissen, worden met ingang van 1 mei 2019 aan de lijst toegevoegd.".
+
+### ART 3.
+
+Aan artikel 21 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 3 wordt de zinsnede "18 kg" vervangen door de zinsnede "19 kg";<br>
+2° paragraaf 4 wordt opgeheven.
+
+### ART 4.
+
+Dit besluit treedt in werking op 18 mei 2019, met uitzondering van artikel 2, dat in werking treedt op 1 mei 2019. Het besluit houdt op van kracht te zijn op 1 januari 2020.
