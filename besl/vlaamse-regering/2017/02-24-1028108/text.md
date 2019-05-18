@@ -76,6 +76,8 @@ De erkenningscommissie voor huisartsen is samengesteld uit:<br>
 <br>
 In afwijking van het eerste, tweede en derde lid, is het aantal erkende jaren niet van belang als voor de eerste samenstelling van een erkenningscommissie of voor de eerste uitbreiding van een erkenningscommissie voor een nieuwe bijzondere beroepstitel leden worden voorgedragen.<br>
 <br>
+§ 1/1. De erkenningscommissies, vermeld in paragraaf 1, worden samengesteld uit een gelijk aantal leden voorgedragen door de beroepsverenigingen en voorgedragen door de Vlaamse geneeskundefaculteiten.<br>
+<br>
 § 2. De leden van de erkenningscommissies worden door de administrateur-generaal benoemd voor een hernieuwbare termijn van zes jaar. Ze blijven in functie tot de administrateur-generaal over de hernieuwing van hun mandaten een beslissing heeft genomen.<br>
 <br>
 Als het mandaat van een lid niet meer wordt ondersteund door de beroepsvereniging of de Vlaamse geneeskundefaculteit die hem heeft voorgedragen, kan het lid op verzoek van zijn beroepsvereniging of geneeskundefaculteit worden vervangen door een vervangend lid dat de administrateur-generaal benoemt voor de resterende duur van het mandaat van het lid dat hij vervangt.<br>
@@ -198,11 +200,17 @@ De kandidaat legt elke wijziging in zijn stageplan vooraf aan het agentschap voo
 <br>
 § 2. In afwijking van paragraaf 1 kan het agentschap, na het advies van de erkenningscommissie, een onderbreking toestaan. De kandidaat meldt daarvoor onmiddellijk een onderbreking van de stage aan het agentschap.<br>
 <br>
+Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd.<br>
+<br>
+De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
 § 3. Tijdens de effectieve opleidingsduur heeft de kandidaat recht op een onderbreking van in totaal maximaal vijftien weken, wegens zwangerschapsverlof als vermeld in de Arbeidswet van 16 maart 1971, wegens palliatief verlof als vermeld in de Herstelwet van 22 januari 1985 houdende sociale bepalingen, en om medische redenen, zonder verlenging van de stage.<br>
 <br>
-§ 4. Voor elke onderbreking, vermeld in paragraaf 2 en 3, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
+Voor elke onderbreking, vermeld in het eerste lid, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
 <br>
-De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.
+De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
+§ 4. ...
 
 ### ART 11.
 
@@ -222,11 +230,11 @@ De bevoegde erkenningscommissie hoort de kandidaat en de stagemeester.<br>
 <br>
 Als het geschil blijft bestaan, kan de erkenningscommissie een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag brengt de erkenningscommissie advies uit.<br>
+Als er een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
+Het agentschap bezorgt zijn definitieve beslissing, na advies van de erkenningscommissie, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
 § 2. Als de voorzitter, de ondervoorzitter of de secretaris van de bevoegde erkenningscommissie onregelmatigheden vaststelt tijdens de uitvoering van de procedure, vermeld in paragraaf 1, kan het geschil verder worden behandeld door het voorzitterscollege.<br>
 <br>
@@ -234,11 +242,11 @@ Het voorzitterscollege hoort de kandidaat en de stagemeester.<br>
 <br>
 Als het geschil blijft bestaan, kan het voorzitterscollege een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag brengt het voorzitterscollege advies uit.<br>
+Als er een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan het voorzitterscollege.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de kandidaat, de stagemeester en de coördinerende stagemeester.
+Het agentschap bezorgt zijn definitieve beslissing, na advies van het voorzitterscollege, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
 
 ### ART 13.
 
@@ -248,12 +256,15 @@ De bevoegde erkenningscommissie hoort de kandidaat en de stagemeester.<br>
 <br>
 Als de stagemeester bij zijn standpunt blijft, kan de erkenningscommissie een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag adviseert de erkenningscommissie ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die gevolgd is bij de eerste stagemeester, in aanmerking zal worden genomen bij de berekening van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
+Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
+<br>
+De erkenningscommissie adviseert ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die gevolgd is bij de eerste stagemeester, in aanmerking zal worden genomen bij de berekening van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
 <br>
 Als ook de tweede stagemeester na de uitvoering van het gewijzigde stageplan een ongunstig evaluatie geeft, kan de erkenningscommissie adviseren de kandidaat niet toe te laten zijn stage in de discipline in kwestie voort te zetten.<br>
-Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het vijfde en het zesde lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
+<br>
+Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het zesde en het zevende lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
 § 2. Als de bevoegde erkenningscommissie in de loop van of op het einde van de stageperiode van oordeel is dat de kandidaat niet geschikt is om de gekozen discipline uit te oefenen, deelt ze dat schriftelijk mee aan de kandidaat en aan het agentschap, met vermelding van de motieven waarop ze haar beoordeling baseert.<br>
 <br>
@@ -261,13 +272,15 @@ De erkenningscommissie hoort de kandidaat en de stagemeester.<br>
 <br>
 Als de erkenningscommissie bij haar standpunt blijft, kan ze een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag adviseert de erkenningscommissie ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die gevolgd is bij de eerste stagemeester, in aanmerking zal worden genomen bij het berekenen van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
+Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
+<br>
+De erkenningscommissie adviseert ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die gevolgd is bij de eerste stagemeester, in aanmerking zal worden genomen bij het berekenen van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
 <br>
 Als de tweede stagemeester na de uitvoering van het gewijzigde stageplan een ongunstige evaluatie geeft, kan de erkenningscommissie adviseren de kandidaat niet toe te laten zijn stage in de discipline in kwestie voort te zetten.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het vijfde en het zesde lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
+Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het zesde en het zevende lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.<br>
 <br>
 § 3. Als de voorzitter, de ondervoorzitter of de secretaris van de bevoegde erkenningscommissie onregelmatigheden vaststelt tijdens de uitvoering van de procedure, vermeld in paragraaf 1 of 2, kan de geschiktheid van de kandidaat voor de gekozen discipline verder worden onderzocht door het voorzitterscollege.<br>
 <br>
@@ -275,11 +288,11 @@ Het voorzitterscollege hoort de kandidaat, de stagemeester en een lid van de bev
 <br>
 Als de stagemeester of de erkenningscommissie bij hetzelfde standpunt blijft, kan het voorzitterscollege een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag brengt het voorzitterscollege advies uit.<br>
+Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan het voorzitterscollege.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de kandidaat, de stagemeester en de coördinerende stagemeester.
+Het agentschap bezorgt zijn definitieve beslissing, na advies van het voorzitterscollege, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
 
 ## Afdeling 2 De erkenning
 
@@ -296,6 +309,8 @@ Bij de aanvraag zijn de volgende documenten gevoegd:<br>
 4° het diploma van master in de specialistische geneeskunde van het overeenkomstige specialisme of van master in de huisartsgeneeskunde, of een ander bewijsstuk dat aantoont dat de aanvrager aan de algemene erkenningscriteria in verband met de theoretische opleiding, vermeld in artikel 3 en 19 van het ministerieel besluit van 23 april 2014 tot vaststelling van de algemene criteria voor de erkenning van arts- specialisten, stagemeesters en stagediensten of in artikel 4 van het ministerieel besluit van 1 maart 2010 tot vaststelling van de criteria voor de erkenning van huisartsen, voldoet;<br>
 5° de documenten die aantonen dat de aanvrager aan de specifieke erkenningscriteria van de desbetreffende discipline voldoet.<br>
 <br>
+In afwijking van het derde lid, 4°, kan de aanvrager die zijn opleiding conform artikel 46 van het ministerieel besluit van 23 april 2014 tot vaststelling van de algemene criteria voor de erkenning van arts-specialisten, stagemeesters en stagediensten heeft voortgezet met toepassing van het ministerieel besluit van 30 april 1999 tot vaststelling van de algemene criteria voor de erkenning van geneesheren-specialisten, stagemeesters en stagediensten een attest voorleggen dat aantoont dat hij een specifieke universitaire opleiding heeft gevolgd die gelijktijdig heeft plaatsgevonden met de eerste twee jaar van zijn opleiding.<br>
+<br>
 § 2. Alleen volledige dossiers worden aan de erkenningscommissie voorgelegd.<br>
 <br>
 Het agentschap vraagt bij de aanvrager, in geval van onvolledigheid van het dossier, de ontbrekende documenten op. Als de aanvrager die documenten niet binnen drie maanden na de opvraging bezorgt, kan de aanvraag administratief worden afgesloten na advies van de erkenningscommissie.<br>
@@ -308,7 +323,7 @@ Als de kandidaat die voor de vergadering van de erkenningscommissie is uitgenodi
 <br>
 § 4. Het agentschap beslist, na advies van de erkenningscommissie, over de aanvraag tot erkenning als arts-specialist of als huisarts. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
 <br>
-§ 5. De kandidaat die twaalf maanden na de beëindiging van de stage geen erkenningsaanvraag heeft ingediend, kan worden uitgenodigd voor de vergadering van de erkenningscommissie.<br>
+§ 5. De kandidaat-specialist die twaalf maanden na de beëindiging van de stage geen erkenningsaanvraag heeft ingediend, kan worden uitgenodigd voor de vergadering van de erkenningscommissie. De kandidaat-huisarts die drie maanden na de beëindiging van de stage geen erkenningsaanvraag heeft ingediend, kan worden uitgenodigd voor de vergadering van de erkenningscommissie.<br>
 <br>
 Als de kandidaat die voor de vergadering van de erkenningscommissie is uitgenodigd, niet aanwezig kan zijn, kan de erkenningscommissie adviseren op basis van het dossier.<br>
 <br>
@@ -354,7 +369,7 @@ Het agentschap bezorgt zijn definitieve beslissing aan de aanvrager, tenzij het 
 
 ### ART 18.
 
-Als een arts-specialist of huisarts niet meer aan de erkenningscriteria of de criteria voor het behoud van de erkenning voldoet, kan het agentschap de erkenning van die arts-specialist of huisarts intrekken.<br>
+Als een arts-specialist of huisarts niet meer aan&nbsp;de criteria voor het behoud van de erkenning voldoet, kan het agentschap de erkenning van die arts-specialist of huisarts intrekken.<br>
 <br>
 Het agentschap kan een erkenning pas intrekken nadat het daarover het advies van de erkenningscommissie heeft ingewonnen, en nadat het, na het advies van de erkenningscommissie ontvangen te hebben, zijn voornemen tot intrekking aan de arts-specialist of huisarts heeft bekendgemaakt.<br>
 <br>
