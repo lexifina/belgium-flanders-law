@@ -14,6 +14,10 @@ De begrippen en definities, vermeld in verordening (EU) nr. 142/2011 van de Comm
 <br>
 § 2. In dit besluit gelden ook de volgende definities :<br>
 1° beheren : het inzamelen, vervoeren, hanteren, opslaan, verwerken, verbranden of meeverbranden, omzetten in biogas of compost van dierlijke bijproducten of afgeleide producten, met inbegrip van het houden van toezicht op die activiteiten en met inbegrip van activiteiten van inzamelaars, handelaars of makelaars;<br>
+1°/1 beveiligde zending: een van de hiernavolgende betekeniswijzen:<br>
+a) een aangetekend schrijven;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de Vlaamse Regering toegelaten betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
 2° geregistreerde inzamelaar, handelaar of makelaar : inzamelaar, afvalstoffenhandelaar of -makelaar die geregistreerd is als vermeld in artikel 6.1.3.1, eerste en tweede lid, en artikel 6.1.3.2 tot en met artikel 6.1.3.5 van het VLAREMA;<br>
 3° geregistreerde vervoerder : een vervoerder die beschikt over een registratie zoals bepaald in afdeling 6.1.2 van het VLAREMA;<br>
 4° inzamelaar : de natuurlijke persoon of rechtspersoon die overgaat tot de inzameling van dierlijke bijproducten en afgeleide producten;<br>
@@ -30,13 +34,34 @@ De begrippen en definities, vermeld in verordening (EU) nr. 142/2011 van de Comm
 
 ### ART. 2.
 
-<P>Dit besluit is van toepassing op dierlijke bijproducten en afgeleide   producten die voldoen aan de definitie van afvalstof, vermeld in artikel 3, 1°,   van het decreet van 23 december 2011, en die vallen onder het toepassingsgebied   van verordening (EG) nr. 1069/2009.<BR></P>  <P>Overeenkomstig artikel 36.3 van verordening (EU) nr. 142/2011 is dit besluit   niet van toepassing op voormalige voedingsmiddelen, waaronder begrepen wordt   producten van dierlijke oorsprong, of voedingsmiddelen die producten van   dierlijke oorsprong bevatten, die niet langer voor menselijke consumptie bestemd   zijn om commerciële redenen of wegens productieproblemen, verpakkingsgebreken,   of andere problemen die geen risico inhouden voor de volksgezondheid of   diergezondheid, als het volume van die dierlijke bijproducten niet meer dan 20   kilogram per week bedraagt voor de houder. Deze uitzondering is alleen geldig   voor de termijn die wordt vastgelegd in artikel 36.3 van de voornoemde   verordening.<BR></P>
+<p>Dit besluit is van toepassing op dierlijke bijproducten en afgeleide producten die voldoen aan de definitie van afvalstof, vermeld in artikel 3, 1°, van het decreet van 23 december 2011, en die vallen onder het toepassingsgebied van verordening (EG) nr. 1069/2009.</p>
+
+<p>Overeenkomstig artikel 36.3 van verordening (EU) nr. 142/2011 is dit besluit niet van toepassing op voormalige voedingsmiddelen, waaronder begrepen wordt producten van dierlijke oorsprong, of voedingsmiddelen die producten van dierlijke oorsprong bevatten, die niet langer voor menselijke consumptie bestemd zijn om commerciële redenen of wegens productieproblemen, verpakkingsgebreken, of andere problemen die geen risico inhouden voor de volksgezondheid of diergezondheid, als het volume van die dierlijke bijproducten niet meer dan 20 kilogram per week bedraagt voor de houder. Deze uitzondering is alleen geldig voor de termijn die wordt vastgelegd in artikel 36.3 van de voornoemde verordening.<br>
+<br>
+Dit besluit is niet van toepassing op de compostering van categorie 3-materiaal, meer bepaald keukenafval en etensresten, binnen huishoudens of verbonden aan een wooncomplex of wijk met een opslag- of composteerruimte van maximaal 25 m3, op voorwaarde dat de geproduceerde compost alleen wordt afgezet binnen die huishoudens en wooncomplexen of wijken. De compost mag niet worden verhandeld.</p>
 
 ## HOOFDSTUK 2 Meldingsplicht
 
 ### ART. 3.
 
-<P>§ 1. De producenten van dierlijke bijproducten melden de aanwezigheid ervan   binnen vierentwintig uur na de productie aan een geregistreerde inzamelaar,   handelaar of makelaar van dierlijke bijproducten.<BR></P>  <P>Als de dierlijke bijproducten kadavers van landbouwhuisdieren zijn, geldt   deze melding als de melding, vermeld in artikel 23 van   Materialendecreet.<BR></P>  <P>§ 2. De melding, vermeld in paragraaf 1, eerste lid, is niet verplicht voor   :<BR>1° kadavers die minder dan 1 kilogram wegen;<BR>2° dierlijke bijproducten   bij particulieren, met uitzondering van kadavers van landbouwhuisdieren;<BR>3°   dierlijke bijproducten, waarvan de productie voorspelbaar is en de inzameling   vooraf is geregeld in een overeenkomst tussen de producent en de geregistreerde   inzamelaar, handelaar of makelaar. De minister kan nadere regels vastleggen voor   de overeenkomst. <BR></P>  <P>De vrijstelling van de meldingsplicht is niet van toepassing als er een   vermoeden bestaat dat bij de betrokken producenten problemen kunnen ontstaan die   een gevaar betekenen voor de volksgezondheid of de diergezondheid. <BR></P>  <P>§ 3. De melding binnen vierentwintig uur, vermeld in paragraaf 1, eerste lid,   is niet verplicht als het gaat om dierlijke bijproducten, met uitzondering van   kadavers van landbouwhuisdieren, op plaatsen waar dierlijke bijproducten veeleer   occasioneel voorkomen. Dierenartsenpraktijken, dierenklinieken en erkende   opvangcentra voor wilde dieren worden beschouwd als plaatsen waar dierlijke   bijproducten veeleer occasioneel voorkomen.<BR></P>  <P>De minister kan bijkomende plaatsen aanduiden waar dierlijke bijproducten   veeleer occasioneel voorkomen.<BR></P>  <P>§ 4. De producenten van de dierlijke bijproducten, vermeld in paragraaf 2 en   3, beheren de dierlijke bijproducten in overeenstemming met de wettelijke   voorschriften die van toepassing zijn. <BR></P>
+<p>§ 1. De producenten van dierlijke bijproducten melden de aanwezigheid ervan binnen vierentwintig uur na de productie aan een geregistreerde inzamelaar, handelaar of makelaar van dierlijke bijproducten.<br>
+<br>
+Als de dierlijke bijproducten kadavers van landbouwhuisdieren zijn, geldt deze melding als de melding, vermeld in artikel 23 van Materialendecreet.<br>
+<br>
+§ 2. De melding, vermeld in paragraaf 1, eerste lid, is niet verplicht voor :<br>
+1° kadavers die minder dan 1 kilogram wegen;<br>
+2° dierlijke bijproducten bij particulieren, met uitzondering van kadavers van landbouwhuisdieren;<br>
+3° dierlijke bijproducten, waarvan de productie voorspelbaar is en de inzameling vooraf is geregeld in een overeenkomst tussen de producent en de geregistreerde inzamelaar, handelaar of makelaar. De minister kan nadere regels vastleggen voor de overeenkomst.</p>
+
+<p>De vrijstelling van de meldingsplicht is niet van toepassing als er een vermoeden bestaat dat bij de betrokken producenten problemen kunnen ontstaan die een gevaar betekenen voor de volksgezondheid of de diergezondheid.<br>
+<br>
+In afwijking van het eerste lid, 1°, melden professionele veehouders de aanwezigheid van dergelijke kadavers minstens één keer per week aan een erkende ophaler.<br>
+<br>
+§ 3. De melding binnen vierentwintig uur, vermeld in paragraaf 1, eerste lid, is niet verplicht als het gaat om dierlijke bijproducten, met uitzondering van kadavers van landbouwhuisdieren, op plaatsen waar dierlijke bijproducten veeleer occasioneel voorkomen. Dierenartsenpraktijken, dierenklinieken en erkende opvangcentra voor wilde dieren worden beschouwd als plaatsen waar dierlijke bijproducten veeleer occasioneel voorkomen.<br>
+<br>
+De minister kan bijkomende plaatsen aanduiden waar dierlijke bijproducten veeleer occasioneel voorkomen.<br>
+<br>
+§ 4. De producenten van de dierlijke bijproducten, vermeld in paragraaf 2 en 3, beheren de dierlijke bijproducten in overeenstemming met de wettelijke voorschriften die van toepassing zijn.</p>
 
 ## HOOFDSTUK 3 Financiering van de inzameling
 
@@ -52,7 +77,18 @@ De begrippen en definities, vermeld in verordening (EU) nr. 142/2011 van de Comm
 
 ### ART. 6.
 
-<P>Voor het storten, het begraven, het verbranden ter plaatse of het verwijderen   op een andere wijze dan toegelaten is volgens verordening (EG) nr. 1069/2009,   kan de OVAM in de volgende omstandigheden een schriftelijke toestemming verlenen   :<BR>1° als de dierlijke bijproducten zich bevinden in afgelegen gebieden;<BR>2°   als de dierlijke bijproducten zich bevinden in gebieden die alleen toegankelijk   zijn onder omstandigheden die, om geografische of klimatologische redenen, of   ten gevolge van een natuurramp, risico's inhouden voor de gezondheid en   veiligheid van het personeel dat het afval inzamelt, of een inzet van   onevenredige middelen voor het verzamelen van het materiaal zou vereisen;<BR>3°   bij uitbraak van een meldingsplichtige ziekte, als het vervoer naar het   dichtstbijzijnde erkende verwerkings- of verwijderingsbedrijf het gevaar van   verspreiding van gezondheidsrisico's zou doen toenemen;<BR>4° als door een   wijdverbreide uitbraak van epizoötie een gebrek aan destructiecapaciteit zou   ontstaan.<BR></P>  <P>Volgende handelingen zijn van rechtswege toegelaten zonder schriftelijke   toestemming :<BR>1° het begraven van dode gezelschapsdieren, op voorwaarde dat   de kadavers rechtstreeks worden verwijderd door begraving op een terrein dat ter   beschikking staat van de eigenaar of houder van de desbetreffende dode dieren,   dan wel op een vergunde dierenbegraafplaats die is ingericht conform de daarvoor   geldende milieureglementering of voorschriften;<BR>2° het verbranden of begraven   van dierlijke bijproducten van bijen en bijenteelt, in omstandigheden waarmee de   overdracht van risico's voor de volksgezondheid en de dierengezondheid wordt   voorkomen.<BR></P>
+<p>Voor het storten, het begraven, het verbranden ter plaatse of het verwijderen op een andere wijze dan toegelaten is volgens verordening (EG) nr. 1069/2009, kan de OVAM in de volgende omstandigheden een schriftelijke toestemming verlenen :<br>
+1° als de dierlijke bijproducten zich bevinden in afgelegen gebieden;<br>
+2° als de dierlijke bijproducten zich bevinden in gebieden die alleen toegankelijk zijn onder omstandigheden die, om geografische of klimatologische redenen, of ten gevolge van een natuurramp, risico's inhouden voor de gezondheid en veiligheid van het personeel dat het afval inzamelt, of een inzet van onevenredige middelen voor het verzamelen van het materiaal zou vereisen;<br>
+3° bij uitbraak van een meldingsplichtige ziekte, als het vervoer naar het dichtstbijzijnde erkende verwerkings- of verwijderingsbedrijf het gevaar van verspreiding van gezondheidsrisico's zou doen toenemen;<br>
+4° als door een wijdverbreide uitbraak van epizoötie een gebrek aan destructiecapaciteit zou ontstaan.<br>
+<br>
+Volgende handelingen zijn van rechtswege toegelaten zonder schriftelijke toestemming :<br>
+1° het begraven van dode gezelschapsdieren, op voorwaarde dat de kadavers rechtstreeks worden verwijderd door begraving op een terrein dat ter beschikking staat van de eigenaar of houder van de desbetreffende dode dieren, dan wel op een vergunde dierenbegraafplaats die is ingericht conform de daarvoor geldende milieureglementering of voorschriften;<br>
+2° het verbranden of begraven van dierlijke bijproducten van bijen en bijenteelt, in omstandigheden waarmee de overdracht van risico's voor de volksgezondheid en de dierengezondheid wordt voorkomen;<br>
+3° het verwijderen op het agrarische bedrijf van dierlijke bijproducten, uitgezonderd categorie 1-materiaal, die ontstaan bij chirurgische ingrepen bij levende dieren of bij de geboorte van dieren op dat bedrijf;<br>
+4° het verwijderen op een andere wijze dan toegelaten is conform verordening (EG) nr. 1069/2009, van categorie 2- en 3-materiaal dat afkomstig is van inrichtingen met een toelating om het te gebruiken voor onderzoek en andere specifieke doeleinden, als de hoeveelheid per week niet meer dan 20 kg bedraagt;<br>
+5° het verwijderen op een andere wijze dan toegelaten is conform verordening (EG) nr. 1069/2009, van dierlijk materiaal dat wordt opgevangen bij het voorbehandelingsproces van de afvalwaterbehandeling in bedrijfsruimten die alleen categorie 3-materiaal ontvangen, als de hoeveelheid per week niet meer dan 20 kg bedraagt.</p>
 
 ## HOOFDSTUK 5 De inzameling en het vervoeren van dierlijke bijproducten en afgeleide producten
 
@@ -78,15 +114,69 @@ Elk vervoer van dierlijke bijproducten en afgeleide producten gebeurt door   een
 
 ### ART. 11.
 
-Dierlijke bijproducten en afgeleide producten worden als volgt opgehaald   en vervoerd :<BR>1° dierlijke bijproducten worden in opdracht van een   geregistreerde inzamelaar, handelaar of makelaar van dierlijke bijproducten   vervoerd naar erkende of vergunde bedrijven voor het beheren van dierlijke   bijproducten; <BR>2° afgeleide producten worden in opdracht van een   geregistreerde inzamelaar, handelaar of makelaar van afgeleide producten   vervoerd naar erkende of vergunde bedrijven voor het beheren van afgeleide   producten;<BR>3° de vervoermiddelen, dekzeilen en recipiënten voor dierlijke   bijproducten en afgeleide producten, die opnieuw kunnen worden gebruikt, worden   na ieder gebruik gereinigd en ontsmet met een door de bevoegde overheid erkend   ontsmettingsmiddel. <BR>
+Dierlijke bijproducten en afgeleide producten worden als volgt opgehaald en vervoerd :<br>
+1° dierlijke bijproducten worden in opdracht van een geregistreerde inzamelaar, handelaar of makelaar van dierlijke bijproducten vervoerd naar erkende of vergunde bedrijven voor het beheren van dierlijke bijproducten;<br>
+2° afgeleide producten worden in opdracht van een geregistreerde inzamelaar, handelaar of makelaar van afgeleide producten vervoerd naar erkende of vergunde bedrijven voor het beheren van afgeleide producten;<br>
+3° de vervoermiddelen, dekzeilen en recipiënten voor dierlijke bijproducten en afgeleide producten, die opnieuw kunnen worden gebruikt, worden na ieder gebruik gereinigd en ontsmet met een door de bevoegde overheid erkend ontsmettingsmiddel.<br>
+<br>
+Het eerste lid, 3°, is niet van toepassing op vervoermiddelen en recipiënten die gebruikt worden bij inzamelrondes van keukenafval dat afkomstig is van particulieren of van inrichtingen met keukenafval dat een vergelijkbare aard en samenstelling heeft.
 
 ### ART. 12.
 
-<P>§ 1. Bij elk vervoer van dierlijke bijproducten en afgeleide producten moet   het handelsdocument gevoegd zijn, vermeld in bijlage VIII, hoofdstuk III, punt 6   van verordening (EU) nr. 142/2011. <BR></P>  <P>§ 2. Als de inzamelaar, handelaar of makelaar en de ontvanger dezelfde zijn,   volstaat de opmaak van alleen de volgende twee exemplaren van het   handelsdocument :<BR>1° het originele exemplaar dat samen met de zending naar de   eindbestemming gaat;<BR>2° een afschrift dat de producent bewaart.<BR></P>  <P>Als dierlijke bijproducten of afgeleide producten die tijdens dezelfde ronde   zijn ingezameld door de geregistreerde inzamelaar, handelaar of makelaar naar   een eerste ontvangende inrichting worden gevoerd, mag voor het transport naar   die ontvangende inrichting gebruik gemaakt worden van een overkoepelend   handelsdocument, dat expliciet verwijst naar alle betrokken handelsdocumenten   van die inzamelronde. In dat geval volstaat de opmaak van alleen de volgende   twee exemplaren van het overkoepelend handelsdocument :<BR>1° het originele   exemplaar dat samen met de zending naar de eindbestemming gaat;<BR>2° een   afschrift dat de geregistreerde inzamelaar, handelaar of makelaar   bewaart.<BR></P>  <P>§ 3. Elk handelsdocument is geïdentificeerd aan de hand van een uniek   nummer.<BR></P>  <P>§ 4. Een kopie van het volledig ingevulde en ondertekende handelsdocument   wordt teruggestuurd naar de producent en geldt als verwerkingsattest.<BR></P>  <P>Een factuur van de inzameling die aan de producent gericht is, waarop formeel   en eenduidig de referentie van de handelsdocumenten, de categorie, de aard en de   hoeveelheid van de dierlijke bijproducten worden vermeld, kan ook als   verwerkingsattest gelden. De factuur bevat in dat geval integraal de volgende   tekst : De verantwoordelijke van de onderneming die een registratie heeft voor   het inzamelen van de dierlijke bijproducten die op deze factuur zijn vermeld,   bevestigt dat het afval in zijn geheel overgedragen is aan een inrichting die   erkend of vergund is voor het beheer ervan.<BR></P>  <P>§ 5. De producent die het verwerkingsattest ontvangt, voegt een kopie van dat   attest bij de bijbehorende handelsdocumenten. Hij bewaart die documenten   gedurende tenminste twee jaar, zodat hij ze op elk verzoek van een   toezichthouder kan voorleggen. <BR></P>  <P>§ 6. De exploitant brengt de OVAM systematisch en schriftelijk op de hoogte   in de volgende twee gevallen :<BR>1° als op de factuur of het handelsdocument   vermeldingen ontbreken die het afval beschrijven en die bewijzen dat het afval   gehanteerd, verzameld, verwerkt of gebruikt is;<BR>2° als er geen factuur of   handelsdocument is terugbezorgd.<BR></P>
+§ 1. Bij elk vervoer van dierlijke bijproducten en afgeleide producten moet het handelsdocument gevoegd zijn, vermeld in bijlage VIII, hoofdstuk III, punt 6 van verordening (EU) nr. 142/2011.<br>
+<br>
+§ 2. Als de inzamelaar, handelaar of makelaar en de ontvanger dezelfde zijn, volstaat de opmaak van alleen de volgende twee exemplaren van het handelsdocument:<br>
+1° het originele exemplaar dat samen met de zending naar de eindbestemming gaat;<br>
+2° een afschrift dat de producent bewaart.<br>
+<br>
+Als dierlijke bijproducten of afgeleide producten die tijdens dezelfde ronde zijn ingezameld door de geregistreerde inzamelaar, handelaar of makelaar naar een eerste ontvangende inrichting worden gevoerd, mag voor het transport naar die ontvangende inrichting gebruik gemaakt worden van een overkoepelend handelsdocument, dat expliciet verwijst naar alle betrokken handelsdocumenten van die inzamelronde.<br>
+<br>
+In geval van keukenafval, ingezameld bij particulieren of bij inrichtingen met keukenafval van vergelijkbare aard, samenstelling en hoeveelheid, dat tijdens dezelfde ronde door de geregistreerde inzamelaar, handelaar of makelaar naar een eerste ontvangende inrichting wordt vervoerd, mag gebruik gemaakt worden van een overkoepelend handelsdocument. De volgende gegevens zijn opgenomen in dit handelsdocument of in een document dat bij het handelsdocument gevoegd is:<br>
+1° in geval van inzameling bij particulieren: de naam van de gemeenten van oorsprong;<br>
+2° in geval van inzameling bij inrichtingen: de naam en het adres van de producenten.";<br>
+<br>
+In de gevallen, vermeld in het tweede en derde lid, volstaat de opmaak van alleen de volgende twee exemplaren van het overkoepelend handelsdocument:<br>
+1° het originele exemplaar dat samen met de zending naar de eindbestemming gaat;<br>
+2° een afschrift dat de geregistreerde inzamelaar, handelaar of makelaar bewaart.<br>
+<br>
+§ 3. Elk handelsdocument is geïdentificeerd aan de hand van een uniek nummer.<br>
+<br>
+§ 4. Een kopie van het volledig ingevulde en ondertekende handelsdocument wordt teruggestuurd naar de producent en geldt als verwerkingsattest.<br>
+<br>
+Een factuur van de inzameling die aan de producent gericht is, waarop formeel en eenduidig de referentie van de handelsdocumenten, de categorie, de aard en de hoeveelheid van de dierlijke bijproducten worden vermeld, kan ook als verwerkingsattest gelden. De factuur bevat in dat geval integraal de volgende tekst: "De verantwoordelijke van de onderneming die een registratie heeft voor het inzamelen van de dierlijke bijproducten die op deze factuur zijn vermeld, bevestigt dat het afval in zijn geheel overgedragen is aan een inrichting die erkend of vergund is voor het beheer ervan.".<br>
+<br>
+§ 5. De producent die het verwerkingsattest ontvangt, voegt een kopie van dat attest bij de bijbehorende handelsdocumenten. Hij bewaart die documenten gedurende tenminste twee jaar, zodat hij ze op elk verzoek van een toezichthouder kan voorleggen.<br>
+<br>
+§ 6. De exploitant brengt de OVAM systematisch en schriftelijk op de hoogte in de volgende twee gevallen:<br>
+1° als op de factuur of het handelsdocument vermeldingen ontbreken die het afval beschrijven en die bewijzen dat het afval gehanteerd, verzameld, verwerkt of gebruikt is;<br>
+2° als er geen factuur of handelsdocument is terugbezorgd.<br>
+<br>
+§ 7. Paragraaf 4, 5 en 6 zijn niet van toepassing op de inzameling van keukenafval bij particulieren en inrichtingen met keukenafval van vergelijkbare aard, samenstelling en hoeveelheid, dat tijdens eenzelfde ronde door de geregistreerde inzamelaar, handelaar of makelaar naar een eerste ontvangende inrichting wordt gevoerd.
 
 ### ART. 13.
 
-<P>§ 1. In afwijking van artikel 12, § 1, kan voor elk vervoer van kadavers een   identificatieformulier voor kadavers worden opgemaakt waarop de volgende   gegevens vermeld zijn :<BR>1° het unieke volgnummer;<BR>2° de naam en het adres   van de producent en het verzendingsadres, als dat niet het adres van de   producent is;<BR>3° indien van toepassing, het erkenningsnummer of het   registratienummer van de inrichting of het bedrijf van oorsprong; <BR>4° de   datum van de melding;<BR>5° de datum waarop het materiaal is ingezameld;<BR>6°   de categorie en de diersoort;<BR>7° indien van toepassing, het oormerknummer of   het chipnummer;<BR>8° de hoeveelheid materiaal, uitgedrukt in volume of   gewicht;<BR>9° de naam, het adres en, indien van toepassing, het   registratienummer van de geregistreerde inzamelaar, handelaar of   makelaar;<BR>10° de naam, het adres en het registratienummer van de vervoerder,   als die gegevens verschillen met de gegevens, vermeld in punt 9° ;<BR>11° de   naam, het adres en, indien van toepassing, het erkenningsnummer van de vergunde   of erkende bestemming van de dierlijke bijproducten.<BR></P>  <P>§ 2. Het identificatieformulier is bij de kadavers gevoegd tijdens het   vervoer ervan.<BR></P>  <P>§ 3. Het identificatieformulier wordt tenminste in drievoud opgemaakt,   namelijk een origineel en twee afschriften. Het origineel gaat samen met de   zending naar de eindbestemming. De ontvanger bewaart het. De geregistreerde   inzamelaar, handelaar of makelaar en de producent bewaren ieder een   afschrift.<BR></P>  <P>De documenten worden ter inzage van de toezichthouder gehouden gedurende een   periode van twee jaar.<BR></P>  <P>§ 4. Als de geregistreerde inzamelaar, handelaar of makelaar en de ontvanger   dezelfde zijn, volstaat de opmaak van alleen de volgende twee exemplaren van het   identificatieformulier :<BR>1° het originele exemplaar dat samen met de zending   naar de eindbestemming gaat;<BR>2° een afschrift dat de producent   bewaart.<BR></P>
+<p>§ 1. In afwijking van artikel 12, § 1, kan voor elk vervoer van kadavers een identificatieformulier voor kadavers worden opgemaakt waarop de volgende gegevens vermeld zijn :<br>
+1° het unieke volgnummer;<br>
+2° de naam en het adres van de producent en het verzendingsadres, als dat niet het adres van de producent is;<br>
+3° het erkenningsnummer of het registratienummer in het kader van verordening (EG) nr. 1069/2009 van de inrichting of het bedrijf van oorsprong als dat van toepassing is;<br>
+4° de datum van de melding;<br>
+5° de datum waarop het materiaal is ingezameld;<br>
+6° de categorie en de diersoort;<br>
+7° het gemelde oormerknummer of chipnummer van landbouwhuisdieren als dat van toepassing is;<br>
+8° de hoeveelheid materiaal, uitgedrukt in volume of gewicht;<br>
+9° de naam, het adres en, indien van toepassing, het registratienummer van de geregistreerde inzamelaar, handelaar of makelaar;<br>
+10° de naam, het adres en het registratienummer van de vervoerder, als die gegevens verschillen met de gegevens, vermeld in punt 9° ;<br>
+11° de naam, het adres en, indien van toepassing, het erkenningsnummer van de vergunde of erkende bestemming van de dierlijke bijproducten.<br>
+<br>
+§ 2. Het identificatieformulier is bij de kadavers gevoegd tijdens het vervoer ervan.<br>
+<br>
+§ 3. Het identificatieformulier wordt tenminste in drievoud opgemaakt, namelijk een origineel en twee afschriften. Het origineel gaat samen met de zending naar de eindbestemming. De ontvanger bewaart het. De geregistreerde inzamelaar, handelaar of makelaar en de producent bewaren ieder een afschrift.<br>
+<br>
+De documenten worden ter inzage van de toezichthouder gehouden gedurende een periode van twee jaar.<br>
+<br>
+§ 4. Als de geregistreerde inzamelaar, handelaar of makelaar en de ontvanger dezelfde zijn, volstaat de opmaak van alleen de volgende twee exemplaren van het identificatieformulier :<br>
+1° het originele exemplaar dat samen met de zending naar de eindbestemming gaat;<br>
+2° een afschrift dat de producent bewaart.</p>
 
 ### ART. 14.
 
@@ -114,7 +204,17 @@ De OVAM verleent advies aan de afdeling Mestbank van de bij het decreet   van 21
 
 ### ART. 19.
 
-<P>De aanvraag voor een erkenning als vermeld in artikel 17, wordt met een   aangetekende brief ingediend bij de OVAM. <BR></P>  <P>Uiterlijk negentig kalenderdagen na de ontvangst van de aanvraag, verklaart   de OVAM de aanvraag al dan niet ontvankelijk en volledig en brengt ze die   beslissing ter kennis van de aanvrager.<BR></P>  <P>Als de OVAM bij een onvolledige aanvraag om aanvullingen verzoekt, wordt de   termijn, vermeld in het tweede lid, gestuit en loopt de termijn verder vanaf de   ontvangst van de aanvullingen.<BR></P>  <P>Als de aanvraag ontvankelijk en volledig is, doet de OVAM uitspraak uiterlijk   dertig kalenderdagen na de datum van de kennisgeving van de beslissing over de   ontvankelijkheid en volledigheid aan de aanvrager.<BR></P>  <P>In uitzonderlijke gevallen kan een erkenning verleend worden na een   spoedprocedure die op maat van de situatie wordt voorgesteld aan de aanvrager.   De aanvrager moet minstens een beschrijving van de werkwijze en de bestemming   van het afval opgeven. <BR></P>  <P>In voorkomend geval kan een aanvraag worden ingediend voor een erkenning met   expliciete vermelding van de diersoort van de dierlijke bijproducten, waartoe   het bedrijf zich zal beperken. De OVAM kan in dat geval extra informatie   opvragen en advies inwinnen van andere   overheidsinstanties.<BR></P>
+<p>De aanvraag voor een erkenning als vermeld in artikel 17, wordt met een beveiligde zending ingediend bij de OVAM.<br>
+<br>
+Uiterlijk negentig kalenderdagen na de ontvangst van de aanvraag, verklaart de OVAM de aanvraag al dan niet ontvankelijk en volledig en brengt ze die beslissing ter kennis van de aanvrager.<br>
+<br>
+Als de OVAM bij een onvolledige aanvraag om aanvullingen verzoekt, wordt de termijn, vermeld in het tweede lid, gestuit en loopt de termijn verder vanaf de ontvangst van de aanvullingen.<br>
+<br>
+Als de aanvraag ontvankelijk en volledig is, doet de OVAM uitspraak uiterlijk dertig kalenderdagen na de datum van de kennisgeving van de beslissing over de ontvankelijkheid en volledigheid aan de aanvrager.<br>
+<br>
+In uitzonderlijke gevallen kan een erkenning verleend worden na een spoedprocedure die op maat van de situatie wordt voorgesteld aan de aanvrager. De aanvrager moet minstens een beschrijving van de werkwijze en de bestemming van het afval opgeven.<br>
+<br>
+In voorkomend geval kan een aanvraag worden ingediend voor een erkenning met expliciete vermelding van de diersoort van de dierlijke bijproducten, waartoe het bedrijf zich zal beperken. De OVAM kan in dat geval extra informatie opvragen en advies inwinnen van andere overheidsinstanties.</p>
 
 ### ART. 20.
 
@@ -136,7 +236,26 @@ c) de naam van de natuurlijke persoon die verantwoordelijk is voor de exploitati
 
 ### ART. 21.
 
-<P>§ 1. De OVAM verleent of weigert de erkenning binnen de termijn, vermeld in   artikel 19. Elk erkend bedrijf krijgt een officieel nummer.<BR></P>  <P>§ 2. De erkenning geldt slechts voor de gegeven termijn. De maximumtermijn   van de erkenning bedraagt vijf jaar. De minister kan voorwaarden vaststellen   waaronder die termijn kan worden overschreden. <BR></P>  <P>De erkenning kan niet aan derden worden overgedragen.<BR></P>  <P>§ 3. Als uit controles van de toezichthouders blijkt dat niet voldaan wordt   aan de voorwaarden van het erkenningsbesluit, kan de OVAM de erkenning op   verzoek van de toezichthouders schorsen. De OVAM brengt de schorsingsbeslissing   binnen de veertien kalenderdagen na de uitspraak met een aangetekende brief ter   kennis van de houder van de erkenning. <BR></P>  <P>§ 4. Vanaf de ontvangst van de schorsingsbeslissing beschikt de houder van de   erkenning over dertig kalenderdagen om zijn verweermiddelen met een aangetekende   brief naar de OVAM te sturen. Bij overschrijding van die termijn heft de OVAM de   erkenning op. De OVAM brengt de opheffingsbeslissing met een aangetekende brief   ter kennis van de houder van de erkenning binnen veertien kalenderdagen na de   uitspraak. <BR></P>  <P>§ 5. De OVAM maakt de schorsing ongedaan of heft de erkenning op binnen   zestig kalenderdagen na de ontvangst van de verweermiddelen. De OVAM brengt de   beslissing met een aangetekende brief ter kennis van de houder van de erkenning   binnen veertien kalenderdagen na de uitspraak.<BR></P>  <P>§ 6. De erkenning kan ook opgeheven worden door de OVAM in een van de   volgende gevallen :<BR>1° het bedrijf is binnen één jaar na de betekening van de   erkenning niet in werking gesteld;<BR>2° het bedrijf heeft gedurende een   ononderbroken periode van twee jaar niet gewerkt;<BR>3° de houder van een   erkenning heeft aan de erkenningverlenende overheid schriftelijk verklaard dat   hij zijn erkenning niet gebruikt.<BR></P>  <P>Voor de erkenning op basis van het eerste lid, 1° en 2° wordt opgeheven,   krijgt de erkenninghouder de gelegenheid om binnen een vastgestelde termijn de   inrichting alsnog in overeenstemming te brengen met de voorwaarden die in de   erkenning zijn vastgelegd of met de technische eisen, gesteld in vervoers- en   handelsdocumenten en in de erkenningsaanvraag.<BR></P>  <P>§ 7. Als een erkenning wordt geschorst of opgeheven, neemt de toezichthouder   alle maatregelen om de activiteiten van de erkenningsplichtige inrichting te   beëindigen en om hinder voor de omgeving en verontreiniging van het leefmilieu   te doen stoppen of te voorkomen.<BR></P>
+<p>§ 1. De OVAM verleent of weigert de erkenning binnen de termijn, vermeld in artikel 19. Elk erkend bedrijf krijgt een officieel nummer.<br>
+<br>
+§ 2. De erkenning geldt slechts voor de gegeven termijn. De maximumtermijn van de erkenning bedraagt vijf jaar. De minister kan voorwaarden vaststellen waaronder die termijn kan worden overschreden.<br>
+<br>
+De erkenning kan niet aan derden worden overgedragen.<br>
+<br>
+§ 3. Als uit controles van de toezichthouders blijkt dat niet voldaan wordt aan de voorwaarden van het erkenningsbesluit, kan de OVAM de erkenning op verzoek van de toezichthouders schorsen. De OVAM brengt de schorsingsbeslissing binnen de veertien kalenderdagen na de uitspraak met een beveiligde zending ter kennis van de houder van de erkenning.<br>
+<br>
+§ 4. Vanaf de ontvangst van de schorsingsbeslissing beschikt de houder van de erkenning over dertig kalenderdagen om zijn verweermiddelen met een beveiligde zending naar de OVAM te sturen. Bij overschrijding van die termijn heft de OVAM de erkenning op. De OVAM brengt de opheffingsbeslissing met een beveiligde zending ter kennis van de houder van de erkenning binnen veertien kalenderdagen na de uitspraak.<br>
+<br>
+§ 5. De OVAM maakt de schorsing ongedaan of heft de erkenning op binnen zestig kalenderdagen na de ontvangst van de verweermiddelen. De OVAM brengt de beslissing met een beveiligde zending ter kennis van de houder van de erkenning binnen veertien kalenderdagen na de uitspraak.<br>
+<br>
+§ 6. De erkenning kan ook opgeheven worden door de OVAM in een van de volgende gevallen :<br>
+1° het bedrijf is binnen één jaar na de betekening van de erkenning niet in werking gesteld;<br>
+2° het bedrijf heeft gedurende een ononderbroken periode van twee jaar niet gewerkt;<br>
+3° de houder van een erkenning heeft aan de erkenningverlenende overheid schriftelijk verklaard dat hij zijn erkenning niet gebruikt.<br>
+<br>
+Voor de erkenning op basis van het eerste lid, 1° en 2° wordt opgeheven, krijgt de erkenninghouder de gelegenheid om binnen een vastgestelde termijn de inrichting alsnog in overeenstemming te brengen met de voorwaarden die in de erkenning zijn vastgelegd of met de technische eisen, gesteld in vervoers- en handelsdocumenten en in de erkenningsaanvraag.<br>
+<br>
+§ 7. Als een erkenning wordt geschorst of opgeheven, neemt de toezichthouder alle maatregelen om de activiteiten van de erkenningsplichtige inrichting te beëindigen en om hinder voor de omgeving en verontreiniging van het leefmilieu te doen stoppen of te voorkomen.</p>
 
 ### ART. 22.
 
