@@ -193,6 +193,7 @@ Aan de vissersvaartuigen van de Scheldevissersvloot die alleen binnengaats mogen
 In de periode van 1 januari 2019 tot en met 31 december 2019 is het verboden:<br>
 1° te vissen in het ICES-gebied IIIa, zijnde Skagerrak;<br>
 2° te vissen in het ICES-gebied VIa, zijnde West van Schotland;<br>
+2° bis gecombineerde visreizen uit te voeren met het ICES-gebied IV, behalve voor visreizen in de Noordzee en de aanpalende zone ICES-gebied VIId, het Oostelijk deel van het Engels Kanaal<br>
 3° haring te vissen in de ICES-gebieden I, II;<br>
 4° de visserij te beoefenen met een vissersvaartuig van het KVS in de ICES-gebieden VIIa, h, j en k;<br>
 5° de spanvisserij op kabeljauw te beoefenen;<br>
@@ -418,13 +419,11 @@ Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden, moeten 
 <br>
 Ingeval de vangstrechten van de ingeschreven vaartuigen 18.000 kW in significante mate overtreft, zal er een loting plaatsvinden.<br>
 <br>
-§ 3. Vanaf 1 juni 2019 tot en met 30 september 2019 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 18 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 10 april 2019 genomen.<br>
+§ 3. Vanaf 1 juni 2019 tot en met 30 september 2019 is het verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 19 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt de situatie op 10 april 2019 genomen.<br>
 <br>
 De hoeveelheid vermeld in vorig lid kan door de dienst Zeevisserij van het departement Landbouw en Visserij worden herzien.<br>
 <br>
-§ 4. Indien de Belgische vaartuigen vanaf 30 maart 2019 geen toegang tot de wateren van het Verenigd Koninkrijk meer zouden hebben, dan is het vanaf 1 juni 2019 tot en met 30 september 2019 verboden dat in de ICES-gebieden VIIIa en b de tongvangst van een vissersvaartuig, dat voorkomt op de lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW. In dit geval kan het aantal ingeschreven vaartuigen op de lijst "Visvergunningen Golf van Gascogne 2019" toenemen tot aan de grens van 26.583 kW vangstrechten.<br>
-<br>
-De bepalingen in artikel 21 kunnen in voorkomend geval worden herzien.<br>
+§ 4. ....<br>
 <br>
 § 5. Ingeval de hoeveelheden tong, vermeld in § 3, worden overschreden, worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt toegekend voor 2020.<br>
 <br>
