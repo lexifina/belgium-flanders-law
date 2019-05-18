@@ -250,7 +250,8 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren, zijn :<br>
 1° Sport Vlaanderen;<br>
-2° Vlaamse Regulator voor de Media.<br>
+2° Vlaamse Regulator voor de Media;<br>
+3° Koninklijk Museum voor Schone Kunsten Antwerpen.<br>
 <br>
 § 3. ...<br>
 <br>
