@@ -13,7 +13,8 @@ In dit decreet wordt verstaan onder :<br>
 2° Vlabinvest apb: het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant, opgericht als het Agentschap voor Grond- en Woonbeleid voor Vlaams-Brabant bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22 oktober 2013, en omgevormd tot het Agentschap voor Woon- en Zorginfrastructuurbeleid voor Vlaams-Brabant bij besluit van de provincieraad van Vlaams-Brabant;<br>
 3° welzijns- en gezondheidsvoorzieningen: organisaties die activiteiten uitoefenen op het domein van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, en van de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organisaties die activiteiten uitoefenen op het domein van het onthaal en de integratie van inwijkelingen, het medisch schooltoezicht en de medisch verantwoorde sportbeoefening;<br>
 4° initiatiefnemers: gemeenten, openbare centra voor maatschappelijk welzijn, verenigingen van gemeenten of van openbare centra voor maatschappelijk welzijn, publiekrechtelijke of privaatrechtelijke rechtspersonen die in Vlaams-Brabant een activiteit uitoefenen of in de toekomst een activiteit willen uitoefenen op het domein van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, en van de aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van de organisaties die activiteiten uitoefenen op het domein van het onthaal en de integratie van inwijkelingen, het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, of publiekrechtelijke of privaatrechtelijke rechtspersonen die voor investeringen in zorginfrastructuur samenwerken met een welzijns- of gezondheidsvoorziening als vermeld in punt 3° ;<br>
-5° sector: een aangelegenheid als vermeld in punt 3°, of een onderdeel ervan.
+5° sector: een aangelegenheid als vermeld in punt 3°, of een onderdeel ervan.<br>
+6° VMSW: de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
 
 ## [HOOFDSTUK 2 Opdracht van bevoegdheid voor het voeren van een specifiek grond- en woonbeleid en een specifiek welzijns- en gezondheidsinfrastructuurbeleid (verv. decr. 22 december 2017, art. 5, I: 1 januari 2018)]
 
@@ -69,9 +70,11 @@ De onroerende goederen, vermeld in artikel 6/1, worden kosteloos toegewezen aan 
 
 ### ART. 7.
 
-<p>Op 1 februari van ieder kalenderjaar wordt een subsidie ten laste van de begroting van het Vlaamse Gewest van 736.000 euro aan Vlabinvest apb overgemaakt. Dit subsidie- bedrag wordt met ingang van het begrotingsjaar 2014 jaarlijks minstens aangepast met de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van het Vlaamse Gewest.</p>
+<p>Op 1 februari van ieder kalenderjaar wordt een subsidie ten laste van de begroting van het Vlaamse Gewest van 736.000 euro aan Vlabinvest apb overgemaakt. Dit subsidie- bedrag wordt met ingang van het begrotingsjaar 2014 jaarlijks minstens aangepast met de indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de begroting van het Vlaamse Gewest.<br>
+<br>
+De VMSW vult het subsidiebedrag, vermeld in het eerste lid, aan met de winsten die gerealiseerd werden bij de verkoop van onroerende goederen vanuit het Rollend Grondfonds als bepaald door de Vlaamse Regering, aan particulieren in het kader van projecten uitgevoerd door Vlabinvest apb en put daarvoor de nodige middelen uit het vermelde Rollend Grondfonds. Als er verliezen zijn bij de verkoop van onroerende goederen aan particulieren in het kader van projecten uitgevoerd door Vlabinvest apb, vult Vlabinvest apb die aan in het vermelde Rollend Grondfonds.</p>
 
-<p>De subsidie, vermeld in het eerste lid, wordt door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.</p>
+<p>De subsidie, vermeld in het eerste en tweede lid, wordt door Vlabinvest apb geboekt in het intern financieringsfonds Wonen.</p>
 
 ### ART 7/1.
 
@@ -99,7 +102,7 @@ Jaarlijks stelt de raad van bestuur van Vlabinvest apb naar aanleiding van de op
 
 ### ART. 8.
 
-Tussen de Vlaamse Maatschappij voor Sociaal Wonen, opgericht bij artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode, en Vlabinvest apb wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan Vlabinvest apb van de nodige diensten en personeelsleden door de Vlaamse Maatschappij voor Sociaal Wonen, in het kader van de toegewezen opdracht van bevoegdheid voor het voeren van een grond- en woonbeleid, vermeld in artikel 3. De Vlaamse Maatschappij voor Sociaal Wonen ontvangt hiervoor jaarlijks een kostenvergoeding van Vlabinvest apb.
+Tussen de VMSW en Vlabinvest apb wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan Vlabinvest apb van de nodige diensten en personeelsleden door de VMSW, in het kader van de toegewezen opdracht van bevoegdheid voor het voeren van een grond- en woonbeleid, vermeld in artikel 3. De VMSW ontvangt hiervoor jaarlijks een kostenvergoeding van Vlabinvest apb.
 
 ## HOOFDSTUK 6 Beleidsoverleg
 
