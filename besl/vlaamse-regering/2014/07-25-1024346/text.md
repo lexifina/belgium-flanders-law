@@ -115,6 +115,7 @@ g) de Vlaamse Regulator voor de Media;<br>
 h) het Vlaams-Brusselfonds;<br>
 i) Muntpunt;<br>
 j) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
+k) het Koninklijk Museum voor Schone Kunsten Antwerpen.<br>
 <br>
 5° de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<br>
 a) het Agentschap&nbsp;Overheidspersoneel;<br>
