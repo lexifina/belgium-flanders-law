@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031649,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende dierlijke bijproducten en afgeleide producten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031649/VolledigDocument?datum=2019-05-18",
+  "source_sha256": "7c16462d458c9a3c2480b44e4dc4d4ac5ec998214e6b70a32cc2534e8b2b28a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031649&param=informatie",
+  "as_of": "2019-05-18",
+  "made": "2019-03-15",
+  "gazette": "2019-05-08",
+  "numac": 2019012115,
+  "document_start": "2019-05-18",
+  "document_end": null,
+  "in_force": "2019-05-18",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
