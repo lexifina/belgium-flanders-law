@@ -168,11 +168,17 @@ De kandidaat legt elke wijziging van zijn stageplan vooraf aan het agentschap te
 <br>
 § 2. In afwijking van paragraaf 1 kan het agentschap, na het advies van de erkenningscommissie, een onderbreking toestaan. De kandidaat meldt daarvoor onmiddellijk een onderbreking van de stage aan het agentschap.<br>
 <br>
+Voor elke onderbreking, vermeld in het eerste lid, wordt de stage verlengd.<br>
+<br>
+De kandidaat legt een voorstel van stageverlenging ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
 § 3. Tijdens de effectieve opleidingsduur heeft de kandidaat bovendien recht op een onderbreking van in totaal maximaal vijftien weken wegens zwangerschapsverlof als vermeld in de Arbeidswet van 16 maart 1971, wegens palliatief verlof als vermeld in de Herstelwet van 22 januari 1985 houdende sociale bepalingen, of om medische redenen, zonder verlenging van de stage.<br>
 <br>
-§ 4. Voor elke onderbreking, vermeld in paragraaf 2 en 3, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
+Voor elke onderbreking, vermeld in het eerste lid, van meer dan vijftien weken wordt de stage verlengd naar rato van het deel van de onderbreking dat de vijftien weken overschrijdt.<br>
 <br>
-De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.
+De kandidaat legt een voorstel van stageverlenging voor het deel van de onderbreking dat de vijftien weken overschrijdt, ter goedkeuring voor aan het agentschap. Het agentschap beslist na advies van de erkenningscommissie. Het gemotiveerde advies van de erkenningscommissie wordt bij de beslissing gevoegd.<br>
+<br>
+§ 4. ...
 
 ### ART 11.
 
@@ -192,11 +198,11 @@ De bevoegde erkenningscommissie hoort de kandidaat en de stagemeester.<br>
 <br>
 Als het geschil blijft bestaan, kan de erkenningscommissie een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek ter plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag brengt de erkenningscommissie advies uit.<br>
+Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing aan de kandidaat en de stagemeester.
+Het agentschap bezorgt zijn definitieve beslissing, na advies van de erkenningscommissie, aan de kandidaat en de stagemeester.
 
 ### ART 13.
 
@@ -206,13 +212,15 @@ De bevoegde erkenningscommissie hoort de kandidaat en de stagemeester.<br>
 <br>
 Als de stagemeester bij zijn standpunt blijft, kan de erkenningscommissie een onderzoekscommissie, die bestaat uit ten minste twee van haar leden, belasten met een onderzoek ter plaatse.<br>
 <br>
-Een personeelslid van het agentschap woont het onderzoek te plaatse bij.<br>
+Als een onderzoek ter plaatse gebeurt, woont een personeelslid van het agentschap dat onderzoek ter plaatse bij.<br>
 <br>
-Na inzage van het verslag adviseert de erkenningscommissie ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die hij gevolgd heeft bij de eerste stagemeester, in aanmerking zal worden genomen bij de berekening van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
+Als een onderzoek ter plaatse gebeurt, bezorgt de onderzoekscommissie een verslag aan de erkenningscommissie.<br>
+<br>
+De erkenningscommissie adviseert ofwel om een einde te maken aan de stage, ofwel om de stage te laten voortzetten. In het laatste geval adviseert de erkenningscommissie dat de kandidaat een nieuwe stagemeester zoekt en in welke mate de stage die hij gevolgd heeft bij de eerste stagemeester, in aanmerking zal worden genomen bij de berekening van de totale stageduur. De kandidaat legt een wijziging van het stageplan ter goedkeuring voor aan het agentschap.<br>
 <br>
 Als ook de tweede stagemeester na de uitvoering van het gewijzigde stageplan een ongunstige evaluatie geeft, kan de erkenningscommissie adviseren de kandidaat niet toe te laten zijn stage in de discipline in kwestie voort te zetten.<br>
 <br>
-Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het vijfde en het zesde lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
+Het agentschap bezorgt zijn definitieve beslissing, na een advies van de erkenningscommissie als vermeld in het zesde en het zevende lid, aan de kandidaat, de stagemeester en de coördinerende stagemeester.
 
 ## Afdeling 2 De erkenning
 
