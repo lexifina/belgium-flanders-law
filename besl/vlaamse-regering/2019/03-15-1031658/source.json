@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031658,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-15 tot verplichte wijziging van de ligging van de installaties voor het vervoer van aardgas door middel van leidingen van Fluxys Belgium NV, gelegen in het openbaar domein, eigendom van het Vlaams Gewest, op het grondgebied van Sint-Pieters-Leeuw",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031658/VolledigDocument?datum=2019-05-20",
+  "source_sha256": "c4e5ef53f6740a68024f69708f46593f322dfd87d3ffa7c766e34bcd3ae70510",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031658&param=informatie",
+  "as_of": "2019-05-20",
+  "made": "2019-03-15",
+  "gazette": "2019-05-10",
+  "numac": 2019012113,
+  "document_start": "2019-05-20",
+  "document_end": null,
+  "in_force": "2019-05-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
