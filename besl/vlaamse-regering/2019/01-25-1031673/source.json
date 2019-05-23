@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031673,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot erkenning van de beroepskwalificatie host",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031673/VolledigDocument?datum=2019-05-23",
+  "source_sha256": "ec86a166da37633c508882888a354d11e0f814719c3bf71fa9dcb9e97822bd58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031673&param=informatie",
+  "as_of": "2019-05-23",
+  "made": "2019-01-25",
+  "gazette": "2019-05-13",
+  "numac": 2019040990,
+  "document_start": "2019-05-23",
+  "document_end": null,
+  "in_force": "2019-05-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
