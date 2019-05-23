@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031667,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot erkenning van de beroepskwalificatie productievoorbereider kleding, confectie en meubelstoffering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031667/VolledigDocument?datum=2019-05-23",
+  "source_sha256": "c22eb6bce261f40245c2b9ca445629215ebda6fadc59d2d044deffcc6efb6f8f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031667&param=informatie",
+  "as_of": "2019-05-23",
+  "made": "2019-01-25",
+  "gazette": "2019-05-13",
+  "numac": 2019040995,
+  "document_start": "2019-05-23",
+  "document_end": null,
+  "in_force": "2019-05-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
