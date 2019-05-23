@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031772,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 houdende aanwijzing van de entiteit die instaat voor de inontvangstneming en verwerking van gerechtelijke beslissingen ter uitvoering van artikel 39 en 77 van het kaderdecreet Bestuurlijke Handhaving van 22 maart 2019",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031772/VolledigDocument?datum=2019-05-23",
+  "source_sha256": "04be570ace90b1203d28031789db7f74e9a5f3baabcaae18e5cc3c07e87d1b8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031772&param=informatie",
+  "as_of": "2019-05-23",
+  "made": "2019-04-05",
+  "gazette": "2019-06-12",
+  "numac": 2019012852,
+  "document_start": "2019-05-23",
+  "document_end": "2026-09-07",
+  "in_force": "2019-05-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
