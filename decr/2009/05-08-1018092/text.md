@@ -760,7 +760,9 @@ Een netbeheerder en zijn werkmaatschappij kunnen geen activiteiten ondernemen in
 
 ### ART. 4.1.8/1.
 
-Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten   inzake het aanbieden van commerciële energiediensten of het optreden als   aggregator.<BR><BR>Niettegenstaande het eerste lid kan de netbeheerder of zijn   werkmaatschappij diensten aanbieden aan aandeelhouders/vennoten of op grond van   een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten   worden opgelegd.
+Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten inzake het aanbieden van commerciële energiediensten of het optreden als aggregator.<br>
+<br>
+Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij diensten aanbieden aan aandeelhouders/vennoten of op grond van een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten worden opgelegd, of die voortvloeien uit de gunning van overheidsopdrachten, uitgeschreven door een andere aanbestedende overheid dan de overheden die aandeelhouder/vennoot zijn en voor zover die gunning betrekking heeft op energiediensten die rechtstreeks ten gunste komen van die aandeelhouders/vennoten.
 
 ## [Onderafdeling III. Activiteiten inzake databeheer (ing. decr. 26 april 2019, art. 10, I: 21 juni 2019)]
 
@@ -2098,6 +2100,13 @@ De Vlaamse Regering kan de warmte- of koudenetbeheerders openbaredienstverplicht
 ...
 
 ## [HOOFDSTUK IX. De openbare centra voor maatschappelijk welzijn als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen (ing. decr. 26 april 2019, art. 3, I: 26 mei 2019)]
+
+### ART 7.9.1.
+
+De Vlaamse Regering kan aan de openbare centra voor maatschappelijk welzijn rechtstreeks of onrechtstreeks taken opdragen ter stimulering van:<br>
+1° de toepassing van energiezuinige producten, technieken en systemen;<br>
+2° een rationeel energiebeheer;<br>
+3° de toepassing van hernieuwbare energietechnologieën.
 
 ## TITEL VIII. TEGEMOETKOMINGEN TER BEVORDERING VAN HET RATIONEEL ENERGIEGEBRUIK, HET RATIONEEL ENERGIEBEHEER, HET GEBRUIK VAN HERNIEUWBARE ENERGIEBRONNEN [... (geschr. Decr. 14 februari 2014, art. 36, I: 6 mei 2014)]
 
