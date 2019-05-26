@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031689,
+  "title": "Decreet van 2019-04-26 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft het OCMW als promotor van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031689/VolledigDocument?datum=2019-05-26",
+  "source_sha256": "6d733b1c216c0aebd80b7143a56cbbf1c34afe3518deb100babd5691fbf73314",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031689&param=informatie",
+  "as_of": "2019-05-26",
+  "made": "2019-04-26",
+  "gazette": "2019-05-16",
+  "numac": 2019012341,
+  "document_start": "2019-05-26",
+  "document_end": null,
+  "in_force": "2019-05-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
