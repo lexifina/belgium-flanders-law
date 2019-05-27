@@ -216,7 +216,9 @@ De Vlaamse Regering kan collectiebeherende cultureelerfgoedorganisaties met een 
 
 ### ART 25.
 
-Een aanvraag voor indeling bij het landelijke of regionale niveau is onderdeel van de aanvraag voor werkingssubsidies, vermeld in artikel 46. De beslissing erover wordt genomen samen met de beslissing over de werkingssubsidie, vermeld in artikel 33.
+Een aanvraag voor indeling bij het landelijke of regionale niveau is onderdeel van de aanvraag voor werkingssubsidies, vermeld in artikel 46. De beslissing erover wordt genomen samen met de beslissing over de werkingssubsidie, vermeld in artikel 33.<br>
+<br>
+In afwijking van het eerste lid kunnen organisaties die de Vlaamse Regering zelf beheert of organisaties die niet voldoen aan de subsidiëringsvoorwaarde, vermeld in artikel 48, een aanvraag tot indeling doen zonder dat dat een aanvraag is van werkingssubsidies. De aanvraag wordt op dezelfde wijze behandeld als een aanvraag tot indeling die onderdeel is van een aanvraag van werkingssubsidies.
 
 ### ART 26.
 
@@ -277,9 +279,15 @@ De Vlaamse Regering beslist over de toekenning en het bedrag van de werkingssubs
 
 ### ART 34.
 
-&nbsp;De Vlaamse Regering sluit een beheersovereenkomst met de cultureelerfgoedorganisaties waaraan ze een werkingssubsidie toekent voor een doelstelling op landelijk niveau als vermeld in afdeling 2, 3, 4 en 5.<br>
+&nbsp;De Vlaamse Regering sluit een beheersovereenkomst met de cultureelerfgoedorganisaties waaraan ze een werkingssubsidie toekent voor een doelstelling op landelijk niveau als vermeld in afdeling 2, 3, 4, 4/1&nbsp;en 5.<br>
 <br>
-De Vlaamse Regering sluit een cultureelerfgoedconvenant met de besturen waaraan ze een werkingssubsidie toekent, vermeld in artikel 57.
+De Vlaamse Regering sluit een cultureelerfgoedconvenant met de besturen waaraan ze een werkingssubsidie toekent, vermeld in artikel 57.<br>
+<br>
+De beheersovereenkomst met het in artikel 53/1 vermelde steunpunt, loopt over een periode van vijf opeenvolgende jaren, en gaat in bij de start van een beleidsperiode als vermeld in artikel 31.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit, blijft de lopende beheersovereenkomst van kracht.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit, en er geen lopende beheersovereenkomst is, is de werkingssubsidie van het steunpunt, bij gelijke werking en opdracht, gelijk aan de werkingssubsidie die op basis van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de voorgaande beleidsperiode is toegekend.
 
 ### ART 35.
 
@@ -409,6 +417,44 @@ De volgende criteria zijn van toepassing voor de toekenning en de bepaling van h
 5° de kwaliteit van het zakelijke beheer, en de haalbaarheid en het realiteitsgehalte van de begroting. De noodzaak voor een werkingssubsidie wordt aangetoond in de begroting, rekening houdend met de ontvangsten uit de werking.
 
 ## [Afdeling 4/1 Het steunpunt (ing. decr. 29 maart 2019, art. 72, I: 27 mei 2019)]
+
+### ART 53/1.
+
+De Vlaamse Regering kan een werkingssubsidie toekennen aan een steunpunt voor cultureel erfgoed. Het steunpunt heeft als doel, op een landelijk niveau, cultureelerfgoedorganisaties, beheerders van cultureel erfgoed, en erfgoedgemeenschappen te ondersteunen en de ontwikkeling van het cultureelerfgoedveld te stimuleren met het oog op de doelstellingen, vermeld in artikel 4, § 1, van dit decreet.<br>
+<br>
+Het steunpunt realiseert zijn dienstverlenende rol via de volgende kerntaken:<br>
+1° praktijkondersteuning: het steunpunt levert als antwoord op praktijkvragen een actieve dienstverlening met het oog op deskundigheidsbevordering, kwaliteitsbevordering, relevante maatschappelijke en sectorgebonden evoluties, innovatie, professionalisering en een duurzame ontwikkeling van het veld. Het steunpunt begeleidt individuen en organisaties bij de uitbouw van hun erfgoedpraktijk;<br>
+2° praktijkontwikkeling: het steunpunt levert een bijdrage aan een continue ontwikkeling van het veld, op basis van evaluatie, onderzoek en kennisontwikkeling. Op verzoek stelt het steunpunt ook zijn terreinkennis en specifieke expertise ter beschikking aan de Vlaamse Regering met het oog op beleidsvoorbereiding, beleidsontwikkeling en beleidsevaluatie. Zowel het opstellen van een onderzoeksagenda, als het uitbesteden van het benodigde onderzoek, wordt geformaliseerd in een gecoördineerd Afsprakenkader Onderzoek tussen de administratie en het Kunstensteunpunt, het steunpunt voor cultureel erfgoed en het steunpunt voor sociaal-cultureel werk;<br>
+3° beeldvorming en promotie: het steunpunt organiseert en coördineert sectorale activiteiten die de kennis over het veld bevorderen, die relevante sectorale thema's onder de aandacht brengen en die de praktijkgemeenschap versterken en promoten, zowel binnen Vlaanderen als internationaal;<br>
+4° platform: het steunpunt functioneert als draaischijf tussen de verschillende actoren in de sector en faciliteert daarbinnen actief ontmoetingen, dialoog, netwerkgelegenheden en samenwerkingen. Het steunpunt kan ook een rol opnemen met betrekking tot thematische en territoriale vraagstukken in samenspraak met relevante thematische of territoriale expertisecentra en steunpunten.<br>
+<br>
+De Vlaamse Regering kan nader bepalen wat een Afsprakenkader Onderzoek inhoudt, alsook zijn geldigheidsduur, de te bevatten elementen, hoe en met wie een Afsprakenkader Onderzoek wordt opgesteld, en wanneer en op welke wijze dat wordt bekend gemaakt.
+
+### ART 53/2.
+
+Een aanvraag van een werkingssubsidie als vermeld in artikel 53/1, wordt ingediend voor de volledige beleidsperiode.<br>
+<br>
+De Vlaamse Regering richt per beoordelingsronde voor een steunpunt een afzonderlijke beoordelingscommissie op om advies uit de brengen over de aanvraag, vermeld in het eerste lid. Die beoordelingscommissie is samengesteld conform artikel 79.
+
+### ART 53/3.
+
+De volgende criteria zijn van toepassing voor de toekenning en de bepaling van het bedrag van de werkingssubsidie:<br>
+1° de kwaliteit van de aanwezige expertise;<br>
+2° de wijze waarop de kerntaken, vermeld in artikel 53/1, worden opgenomen;<br>
+3° de mate waarin de werking inspeelt op de noden van cultureel erfgoed, beheerders ervan of cultureelerfgoedgemeenschappen;<br>
+4° de schaalgrootte en de landelijke reikwijdte van de werking;<br>
+5° de samenwerking en netwerking, zowel binnen Vlaanderen als internationaal;<br>
+6° de mate waarin uitvoering wordt gegeven aan de strategische visienota, vermeld in artikel 5, in de eigen werking en in de dienstverlening aan derden;<br>
+7° de mate waarin de noden van cultureelerfgoedorganisaties, beheerders van cultureel erfgoed en cultureelerfgoedgemeenschappen in kaart gebracht zijn via een sectorbrede bevraging, en beantwoord worden in de werking en in de beleidsnota van het steunpunt;<br>
+8° de kwaliteit van het zakelijke beheer en de haalbaarheid en het realiteitsgehalte van de begroting. De noodzaak van een werkingssubsidie wordt aangetoond in de begroting, rekening houdend met de eigen ontvangsten uit de werking.
+
+### ART 53/4.
+
+Een benoeming tot lid van de raad van bestuur of algemene vergadering van het steunpunt is onverenigbaar met:<br>
+1° een functie als personeelslid van een belangenbehartiger voor een culturele sector of discipline;<br>
+2° een functie als lid van de raad van bestuur van een belangenbehartiger voor een culturele sector of discipline;<br>
+3° een functie als personeelslid in dienst van de Vlaamse overheid dat in het kader van zijn functie betrokken is bij de uitvoering van dit decreet;<br>
+4° een mandaat als lid van de Raad voor Cultuur, Jeugd, Sport en Media, zoals opgericht bij het decreet van 30 november 2007 houdende de oprichting van de Raad voor Cultuur, Jeugd, Sport en Media.
 
 ## Afdeling 5 Werkingssubsidies voor cultureelerfgoedorganisaties voor dienstverlenende rollen op landelijk niveau
 
@@ -637,7 +683,8 @@ De leden van de adviescommissie hebben een totaalvisie op het cultureelerfgoedve
 De Vlaamse Regering richt beoordelingscommissies op voor de advisering over:<br>
 1° de aanduiding als cultureelerfgoedinstelling;<br>
 2° aanvragen voor indeling;<br>
-3° aanvragen voor werkingssubsidies.<br>
+3° aanvragen voor werkingssubsidies;<br>
+4° aanvragen voor werkingssubsidies voor het steunpunt als vermeld in artikel 53/1.<br>
 <br>
 De Vlaamse Regering stelt externe experten aan die de door de Vlaamse Regering aangewezen dienst kunnen bijstaan bij:<br>
 1° de advisering van aanvragen voor kwaliteitslabels;<br>
@@ -750,6 +797,10 @@ Voor de behandeling van de eerste aanvraag van het steunpunt, geldt, in afwijkij
 De van toepassing zijnde data en termijnen bepaald in uitvoering van artikel 41 voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt, schuiven eenmalig mee op in functie van deze eerste indiendatum. De Vlaamse Regering beslist over deze eerste aanvraag uiterlijk 2 maanden na bekrachtiging van het decreet houdende diverse bepalingen in het beleidsveld cultuur.<br>
 <br>
 Voor de behandeling van de in het eerste lid vermelde eerste aanvraag van het steunpunt dienen de noden van cultureelerfgoedorganisaties, beheerders van cultureel erfgoed en cultureelerfgoedgemeenschappen, vermeld in artikel 53/3, 7°, niet te worden bevraagd.
+
+### ART 96/2.
+
+In afwijking van artikel 95 worden de werkingssubsidies die werden toegekend op basis van artikel 100 van het Cultureelerfgoeddecreet van 6 juli 2012, zoals het van kracht was op het moment van de opheffing ervan door het Cultureelerfgoeddecreet van 24 februari 2017, voortgezet conform de bepalingen van het voormelde decreet tot 31 december 2023 of tot de datum waarop nieuwe regelgeving van toepassing wordt met betrekking tot de werkingssubsidies voor cultureelerfgoedpublicaties of waarop de betrokken organisatie een werkingssubsidie ontvangt op basis van dit decreet indien dat voor 31 december 2023 het geval is.
 
 ### ART 97.
 
