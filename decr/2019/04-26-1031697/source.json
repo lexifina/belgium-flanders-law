@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031697,
+  "title": "Decreet van 2019-04-26 houdende een reglementering op het gebruik van vuurwerk, voetzoekers, carbuurkanonnen en wensballonnen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031697/VolledigDocument?datum=2019-05-27",
+  "source_sha256": "4da6fab8549aaf772ef6ac25b100938cd564b3e22822cdbe939bdaa986b3bf08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031697&param=informatie",
+  "as_of": "2019-05-27",
+  "made": "2019-04-26",
+  "gazette": "2019-05-17",
+  "numac": 2019012337,
+  "document_start": "2019-05-27",
+  "document_end": null,
+  "in_force": "2019-05-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
