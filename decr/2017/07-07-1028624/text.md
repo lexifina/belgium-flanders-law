@@ -606,11 +606,78 @@ De projectsubsidies kunnen vanaf 2018 worden toegekend. Een projectsubsidie kan 
 
 ## [TITEL 4/1 Subsidies aan het steunpunt sociaal-cultureel werk (ing. decr. 29 maart 2019, art. 81, I: 27 mei 2019)]
 
+### ART 47/1.
+
+De Vlaamse Regering kan een subsidie-enveloppe toekennen aan een steunpunt voor sociaal-cultureel werk. Het steunpunt is een intermediaire organisatie tussen het sociaal-culturele veld en de Vlaamse overheid met als doel bij te dragen tot de ondersteuning en ontwikkeling van zowel het sociaal-culturele veld als zijn sociaal-culturele werkers, en zijn sociaal-culturele organisaties. Het steunpunt treedt niet in de plaats van belangenbehartigende organisaties.<br>
+<br>
+Het steunpunt beschikt over een rechtspersoonlijkheid met een niet commercieel karakter en is gevestigd in het Nederlandse taalgebied of het tweetalig gebied Brussel-Hoofdstad.
+
+### ART 47/2.
+
+Het steunpunt heeft de volgende kerntaken:<br>
+1° praktijkondersteuning: het steunpunt levert als antwoord op praktijkvragen een actieve dienstverlening met het oog op deskundigheidsbevordering, kwaliteitsbevordering, relevante maatschappelijke en sectorgebonden evoluties, innovatie, professionalisering en een duurzame ontwikkeling van het veld. Het steunpunt begeleidt individuen en organisaties bij de uitbouw van hun sociaal-culturele praktijk;<br>
+2° praktijkontwikkeling: het steunpunt levert een bijdrage aan een continue ontwikkeling van het veld, op basis van evaluatie, onderzoek en kennisontwikkeling. Op verzoek stelt het steunpunt ook zijn terreinkennis en specifieke expertise ter beschikking aan de Vlaamse Regering met het oog op beleidsvoorbereiding, beleidsontwikkeling en beleidsevaluatie. Zowel het opstellen van een onderzoeksagenda, als het uitbesteden van het benodigde onderzoek, wordt geformaliseerd in een gecoördineerd Afsprakenkader Onderzoek tussen de administratie en het Kunstensteunpunt, het steunpunt voor cultureel erfgoed en het steunpunt voor sociaal-cultureel werk;<br>
+3° beeldvorming en promotie: het steunpunt organiseert en coördineert sectorale activiteiten die de kennis over het veld bevorderen, die relevante sectorale thema's onder de aandacht brengen en die de praktijkgemeenschap versterken en promoten, zowel binnen Vlaanderen als internationaal;<br>
+4° platform: het steunpunt functioneert als draaischijf tussen de verschillende actoren in de sector en faciliteert daarbinnen actief ontmoetingen, dialoog, netwerkgelegenheden en samenwerkingen. Het steunpunt kan ook een rol opnemen met betrekking tot thematische en territoriale vraagstukken, maar in samenspraak met relevante thematische of territoriale expertisecentra en steunpunten.<br>
+<br>
+De Vlaamse Regering kan nader bepalen wat een Afsprakenkader Onderzoek inhoudt, alsook zijn geldigheidsduur, de te bevatten elementen, hoe en met wie een Afsprakenkader Onderzoek wordt opgesteld, en wanneer en op welke wijze dat wordt bekend gemaakt.<br>
+<br>
+Een benoeming tot lid van de raad van bestuur of algemene vergadering van het steunpunt voor sociaal-cultureel werk is onverenigbaar met:<br>
+1° een functie als personeelslid van een belangenbehartiger voor een culturele sector of discipline;<br>
+2° een functie als lid van de raad van bestuur van een belangenbehartiger voor een culturele sector of discipline;<br>
+3° een functie als personeelslid in dienst van de Vlaamse overheid dat in het kader van zijn functie betrokken is bij de uitvoering van dit decreet;<br>
+4° een mandaat als lid van de Raad voor Cultuur, Jeugd, Sport en Media, zoals opgericht bij het decreet van 30 november 2007 houdende de oprichting van de Raad voor Cultuur, Jeugd, Sport en Media.
+
+### ART 47/3.
+
+Een aanvraag van een subsidie-enveloppe als vermeld in artikel 47/1, wordt ingediend voor de volledige beleidsperiode. De subsidieaanvraag wordt uiterlijk op 1 juni van het laatste jaar van de vorige beleidsperiode ingediend en is in het Nederlands opgesteld.<br>
+<br>
+De Vlaamse Regering richt per beoordelingsronde voor een steunpunt een afzonderlijke beoordelingscommissie op om advies uit de brengen over de aanvraag, vermeld in het eerste lid. De beoordelingscommissie is samengesteld conform artikel 14. In afwijking van artikel 14 maken externe deskundigen van de visitatiecommissies als vermeld in artikel 18, geen deel uit van de beoordelingscommissie voor het steunpunt.<br>
+<br>
+De beoordelingscommissie beoordeelt de inhoudelijke en zakelijke kwaliteit van de subsidieaanvraag, vermeld in het eerste lid, en maakt een advies op met een voorstel voor de subsidie-enveloppe voor de volgende beleidsperiode op basis van de beoordelingscriteria, vermeld in het vierde lid. De Vlaamse Regering kan de te volgen wijze waarop de ingediende aanvraagdossiers voor het steunpunt worden beoordeeld nader bepalen.<br>
+<br>
+<br>
+De volgende beoordelingscriteria zijn van toepassing voor de toekenning en de bepaling van het bedrag van de subsidie-enveloppe:<br>
+1° de kwaliteit van de aanwezige expertise;<br>
+2° de wijze waarop de doelstelling, vermeld in artikel 47/1, en de kerntaken, vermeld in artikel 47/2, eerste lid, worden opgenomen;<br>
+3° de mate waarin de werking inspeelt op de noden van het sociaal-cultureel werk, beheerders ervan of actoren in het sociaal-culturele veld;<br>
+4° de schaalgrootte en de landelijke reikwijdte van de werking;<br>
+5° de samenwerking en netwerking, zowel binnen Vlaanderen als internationaal;<br>
+6° de wijze waarop ondersteuning geboden wordt aan het doel, vermeld in artikel 3, eerste lid;<br>
+7° de mate waarin de noden van organisaties en stakeholders die tot de doelgroep van de dienstverlening horen, in kaart gebracht zijn via een sectorbrede bevraging, en beantwoord worden in de werking en in de beleidsnota van het steunpunt;<br>
+8° de kwaliteit van het zakelijke beheer en de haalbaarheid en het realiteitsgehalte van de begroting. De noodzaak van een subsidie-enveloppe wordt aangetoond in de begroting, rekening houdend met de eigen ontvangsten uit de werking.
+
+### ART 47/4.
+
+De Vlaamse Regering sluit met het steunpunt een beheersovereenkomst.<br>
+<br>
+Een beheersovereenkomst als vermeld in het eerste lid, heeft een duur van vijf werkjaren en gaat in bij de start van een beleidsperiode als vermeld in artikel 2, 16°.
+
+### ART 47/5.
+
+Een beheersovereenkomst als vermeld in artikel 47/4, eerste lid, bevat minstens bepalingen over:<br>
+1° de missie;<br>
+2° de invulling van de kerntaken;<br>
+3° de eventuele bijkomende opdrachten die de Vlaamse Regering geeft;<br>
+4° de samenwerking, naargelang de inhoudelijke noodzaak, met andere organisaties, binnen of buiten het werkveld van het sociaal-cultureel werk;<br>
+5° als dat van toepassing is, de modaliteiten over het gebruik van de infrastructuur van de Vlaamse Gemeenschap;<br>
+6° de toegekende subsidie-enveloppe per werkjaar.<br>
+<br>
+De beheersovereenkomst, vermeld in artikel 47/4, eerste lid, bevat de concrete uitwerking op praktisch vlak van de in het eerste lid genoemde elementen.
+
+### ART 47/6.
+
+De Vlaamse Regering sluit een beheersovereenkomst als vermeld in artikel 47/4, eerste lid, voor de aanvang van een beleidsperiode als vermeld in artikel 2, 16°.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit, blijft de lopende beheersovereenkomst van kracht.<br>
+<br>
+Als de Vlaamse Regering niet tijdig een beheersovereenkomst sluit, en er geen lopende beheersovereenkomst is, is de subsidie-enveloppe van het steunpunt, bij gelijke werking en opdracht, gelijk aan de subsidie-enveloppe die op basis van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor de voorgaande beleidsperiode is toegekend.
+
 ## TITEL 5 Verplichtingen voor de ontvanger van een subsidie, toezicht op de subsidieaanwending en sancties.
 
 ### ART 48.
 
-§ 1. Elke sociaal-culturele volwassenenorganisatie die op grond van dit decreet een subsidie ontvangt op basis van titel 2 en 3, is onderworpen aan de volgende verplichtingen:<br>
+§ 1. Elke sociaal-culturele volwassenenorganisatie die op grond van dit decreet een subsidie ontvangt op basis van titel 2 en 3, en het steunpunt dat op grond van dit decreet een subsidie ontvangt op basis van titel 4/1, is onderworpen aan de volgende verplichtingen:<br>
 1° in het derde jaar van de beleidsperiode tijdig een volledig voortgangsrapport indienen in het Nederlands;<br>
 2° jaarlijks een financieel verslag, financiële afrekening en een balans, waaruit blijkt dat de sociaal-culturele volwassenenorganisatie sluitend of met batig saldo kan werken, en een begroting indienen. Positieve financiële resultaten van de organisatie kunnen uitsluitend naar het maatschappelijk doel van de organisatie gaan;<br>
 3° jaarlijks in het Nederlands alle nuttige en noodzakelijke gegevens over de werking verstrekken in de gevraagde vorm;<br>
@@ -652,7 +719,9 @@ De kredieten die het Vlaams Parlement jaarlijks goedkeurt, bepalen het maximale 
 
 ### ART 51.
 
-De subsidie-enveloppes en bedragen, vermeld in artikel 5, en de subsidie-enveloppe, vermeld in artikel 30, § 2, worden jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, worden de subsidie-enveloppes en bedragen, vermeld in artikel 5 van dit decreet, de subsidie-enveloppe, vermeld in artikel 30, § 2, van dit decreet, en de subsidie-enveloppe, vermeld in artikel 47/1 van dit decreet, jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen.<br>
+<br>
+Voor het gedeelte werkingskosten van de subsidie-enveloppe, vermeld in het eerste lid, wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt.
 
 ### ART 52.
 
