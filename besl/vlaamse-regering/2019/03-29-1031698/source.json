@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031698,
+  "title": "Besluit van de Vlaamse Regering van 2019-03-29 houdende de regeling van subsidies aan gemeenten in het kader van veilige schoolomgevingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031698/VolledigDocument?datum=2019-05-27",
+  "source_sha256": "21cbe24dda5445c9b9fb00f9eb1a1ef4832121ea0b38f39e76c72f20508064c8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031698&param=informatie",
+  "as_of": "2019-05-27",
+  "made": "2019-03-29",
+  "gazette": "2019-05-17",
+  "numac": 2019012232,
+  "document_start": "2019-05-27",
+  "document_end": null,
+  "in_force": "2019-05-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
