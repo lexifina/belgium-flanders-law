@@ -2,16 +2,16 @@
   "codex_id": 1024099,
   "title": "Decreet van 2013-12-13 betreffende de ondersteuning van de professionele kunsten [citeeropschrift: \"Kunstendecreet\"]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024099/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "4728914d1e0dcd5168c641f456138af62da8ce5394cdfecda3049a0e8d7bf8da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024099/VolledigDocument?datum=2019-05-27",
+  "source_sha256": "a62b4152894a2a5c33debbbc04765dea9a51a0149878333151484c4dc3184baf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024099&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-05-27",
   "made": "2013-12-13",
   "gazette": "2014-05-19",
   "numac": 2014035384,
   "document_start": "2014-05-29",
   "document_end": "2021-12-31",
-  "in_force": "2019-01-01",
-  "article_versions": 185,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-05-27",
+  "article_versions": 186,
+  "record_form": "consolidated version as in force on 2019-05-27; future article versions excluded; article text as the API gives it"
 }

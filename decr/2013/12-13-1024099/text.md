@@ -12,7 +12,19 @@ Dit decreet wordt aangehaald als "Kunstendecreet".<BR>
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder:<BR>1° beurs: een subsidie aan een   kunstenaar om uitzonderlijke inspanningen op het gebied van de kunsten mogelijk   te maken of om de kunstenaar mogelijkheden te bieden tot persoonlijk initiatief   op het gebied van zijn professioneel traject. Een beurs wordt belangeloos   toegekend en zonder enige compensatie ten voordele van de   subsidieverstrekker;<BR>2° discipline: verschillende vormen, uitingen of   richtingen van kunst;<BR>3° eigen opbrengsten: alle opbrengsten verworven in een   werkjaar, inclusief de opbrengsten uit private fondsen, met uitzondering van   opbrengsten uit subsidies;<BR>4° functie: kernopdracht die een organisatie of   een kunstenaar voor zichzelf heeft bepaald;<BR>5° grensbedrag: een bedrag van   een toegekende werkingssubsidie waarboven een organisatie niet in aanmerking   komt voor een bijkomende subsidie;<BR>6° internationaal subsidieprogramma: een   subsidieregeling van een internationale overheid of overheidsinstantie, of van   een bilaterale, een multilaterale, of een supranationale organisatie;<BR>7°   professionele organisatie: een organisatie die voor haar activiteiten een of   meer medewerkers permanent op contractuele basis in dienst heeft;<BR>8°   projectsubsidie: een subsidie die toegekend wordt ter ondersteuning van   specifieke kosten voortvloeiend uit een activiteit die zowel qua opzet of   doelstelling als in tijd kan worden afgebakend met een maximale looptijd van   drie opeenvolgende jaren;<BR>9° subsidie: financiële steun toegekend door een   overheid, een publiek fonds of de Nationale Loterij;<BR>10° werkjaar: een   periode van 1 januari tot en met 31 december;<BR>11° werkingssubsidie: een   subsidie die toegekend wordt ter ondersteuning van de personeels- en   werkingskosten voortvloeiend uit een structurele activiteit die een continu en   permanent karakter vertoont en die de subsidiëring van een kern van   personeelsleden, de jaarlijkse toekenning van een basistoelage voor de werking   en een subsidiëring op grond van werkelijk gepresteerde activiteiten   omvat;<BR>12° algemene groepsvrijstellingsverordening : verordening (EU) nr.   651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op   grond van de artikelen 107 en 108 van het Verdrag met de interne markt   verenigbaar worden verklaard.<BR>
+In dit decreet wordt verstaan onder:<br>
+1° beurs: een subsidie aan een kunstenaar om uitzonderlijke inspanningen op het gebied van de kunsten mogelijk te maken of om de kunstenaar mogelijkheden te bieden tot persoonlijk initiatief op het gebied van zijn professioneel traject. Een beurs wordt belangeloos toegekend en zonder enige compensatie ten voordele van de subsidieverstrekker;<br>
+2° discipline: verschillende vormen, uitingen of richtingen van kunst;<br>
+3° eigen opbrengsten: alle opbrengsten verworven in een werkjaar, inclusief de opbrengsten uit private fondsen, met uitzondering van opbrengsten uit subsidies;<br>
+4° functie: kernopdracht die een organisatie of een kunstenaar voor zichzelf heeft bepaald;<br>
+5° grensbedrag: een bedrag van een toegekende werkingssubsidie waarboven een organisatie niet in aanmerking komt voor een bijkomende subsidie;<br>
+6° internationaal subsidieprogramma: een subsidieregeling van een internationale overheid of overheidsinstantie, of van een bilaterale, een multilaterale, of een supranationale organisatie;<br>
+7° professionele organisatie: een organisatie die voor haar activiteiten een of meer medewerkers permanent op contractuele basis in dienst heeft;<br>
+8° projectsubsidie: een subsidie die toegekend wordt ter ondersteuning van specifieke kosten voortvloeiend uit een activiteit die zowel qua opzet of doelstelling als in tijd kan worden afgebakend met een maximale looptijd van drie opeenvolgende jaren. Voor organisaties die een continue werking hebben, kan een projectsubsidie zoals beschreven in de vorige zin, een opstap zijn naar werkingssubsidies, mits de artistieke activiteit in dit project centraal staat;<br>
+9° subsidie: financiële steun toegekend door een overheid, een publiek fonds of de Nationale Loterij;<br>
+10° werkjaar: een periode van 1 januari tot en met 31 december;<br>
+11° werkingssubsidie: een subsidie die toegekend wordt ter ondersteuning van de personeels- en werkingskosten voortvloeiend uit een structurele activiteit die een continu en permanent karakter vertoont en die de subsidiëring van een kern van personeelsleden, de jaarlijkse toekenning van een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten omvat;<br>
+12° algemene groepsvrijstellingsverordening : verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard.
 
 ### ART. 4.
 
@@ -197,7 +209,9 @@ b) kwaliteit van de wijze waarop de reflectie toegankelijk gemaakt wordt.</p>
 
 § 1. De Vlaamse Regering kan een werkingssubsidie toekennen. Een werkingssubsidie ondersteunt een organisatie bij de uitvoering van een werking die inzet op een of meerdere functies en disciplines voor een periode van vijf jaar. Een aanvraag wordt ingediend bij de door de Vlaamse Regering aangewezen dienst uiterlijk op 1 december van het voorlaatste jaar dat voorafgaat aan een vijfjarige subsidieperiode.<br>
 <br>
-§ 2. Bij de aanvang van elk werkingsjaar mag de Vlaamse Regering de werkingssubsidies aanpassen ter financiering van de extra personeelsuitgaven die voortvloeien uit de stijging van het indexcijfer op basis waarvan de salarissen van de Vlaamse ambtenaren worden berekend. Onder voorbehoud van de toepassing van artikel 4, worden deze werkingssubsidies aangepast binnen de perken van de door het Vlaams Parlement goedgekeurde kredieten.
+§ 2. Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, worden de werkingssubsidies, vermeld in paragraaf 1, jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen.<br>
+<br>
+Voor het gedeelte werkingskosten van de werkingssubsidie, vermeld in het eerste lid, wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt.
 
 ### ART. 26.
 
@@ -624,7 +638,21 @@ De mandaatfuncties worden voor elke erkende kunstinstelling nader bepaald in de 
 
 ### ART. 72.
 
-<P>§ 1. De kerntaken van het Kunstensteunpunt zijn:<BR>1° praktijkondersteuning:   een actieve dienstverlening verzorgen op het vlak van deskundigheidsbevordering   en kwaliteitszorg omtrent de verschillende functies in de artistieke praktijk,   door vorming, begeleiding, kennisuitwisseling en samenwerking;<BR>2°   veldanalyse: op basis van permanente evaluatie en het daartoe nodige onderzoek   een bijdrage leveren aan een continue ontwikkeling van het kunstenveld en het   overheidsbeleid ter zake, onder meer door de opmaak van een landschapstekening   bij aanvang van elke nieuwe legislatuur;<BR>3° actief bijdragen aan de   ontwikkeling van de internationale dimensie van de kunsten uit Vlaanderen door   internationale communicatie en promotie.<BR></P>  <P>Bij de uitvoering van deze kerntaken kan het Kunstensteunpunt functionele of   disciplinegerichte deelwerkingen ontwikkelen.<BR></P>  <P>Het Kunstensteunpunt besteedt binnen zijn werking aandacht aan de bevordering   van culturele diversiteit. Het ondersteunt tevens kunstenaars en   kunstenorganisaties op het vlak van kunsteducatie, sociaal-artistiek werk en de   participatie van kinderen en jongeren. Het Kunstensteunpunt kan daarvoor   samenwerken met andere organisaties die op die terreinen over de nodige   expertise beschikken.<BR></P>  <P>§ 2. De Vlaamse Regering kan aanvullende taken toewijzen aan het   Kunstensteunpunt.<BR></P>
+Het Kunstensteunpunt heeft de volgende kerntaken:<br>
+1° praktijkondersteuning: het steunpunt levert als antwoord op praktijkvragen een actieve dienstverlening met het oog op deskundigheidsbevordering, kwaliteitsbevordering, relevante maatschappelijke en sectorgebonden evoluties, innovatie, professionalisering en een duurzame ontwikkeling van het veld. Het steunpunt begeleidt individuen en organisaties bij de uitbouw van hun artistieke praktijk;<br>
+2° praktijkontwikkeling: het steunpunt levert een bijdrage aan een continue ontwikkeling van het veld, op basis van evaluatie, onderzoek en kennisontwikkeling. Op verzoek stelt het steunpunt ook zijn terreinkennis en specifieke expertise ter beschikking aan de Vlaamse Regering met het oog op beleidsvoorbereiding, beleidsontwikkeling en beleidsevaluatie. Het opstellen van de landschapstekening, vermeld in artikel 7, § 3, maakt daar deel van uit. Zowel het opstellen van een onderzoeksagenda, als het uitbesteden van het benodigde onderzoek, wordt geformaliseerd in een gecoördineerd Afsprakenkader Onderzoek tussen de administratie en het Kunstensteunpunt, het steunpunt voor cultureel erfgoed en het steunpunt voor sociaal-cultureel werk;<br>
+3° beeldvorming en promotie: het steunpunt organiseert en coördineert sectorale activiteiten die de kennis over het veld bevorderen, die relevante sectorale thema's onder de aandacht brengen en die de praktijkgemeenschap versterken en promoten, zowel binnen Vlaanderen als internationaal;<br>
+4° platform: het steunpunt functioneert als draaischijf tussen de verschillende actoren in de sector en faciliteert daarbinnen actief ontmoetingen, dialoog, netwerkgelegenheden en samenwerkingen. Het steunpunt kan ook een rol opnemen met betrekking tot thematische en territoriale vraagstukken in samenspraak met relevante thematische of territoriale expertisecentra en steunpunten.<br>
+<br>
+De Vlaamse Regering kan nader bepalen wat een Afsprakenkader Onderzoek inhoudt, alsook zijn geldigheidsduur, de te bevatten elementen, hoe en met wie een Afsprakenkader Onderzoek wordt opgesteld, en wanneer en op welke wijze dat wordt bekend gemaakt.<br>
+<br>
+Het Kunstensteunpunt besteedt binnen zijn werking aandacht aan de bevordering van culturele diversiteit. Het ondersteunt ook kunstenaars en kunstenorganisaties op het vlak van kunsteducatie, sociaal-artistiek werk en de participatie van kinderen en jongeren. Het steunpunt kan daarvoor samenwerken met andere organisaties die op die terreinen over de nodige expertise beschikken.<br>
+<br>
+Een benoeming tot lid van de raad van bestuur of algemene vergadering van het Kunstensteunpunt is onverenigbaar met:<br>
+1° een functie als personeelslid van een belangenbehartiger voor een culturele sector of discipline;<br>
+2° een functie als lid van de raad van bestuur van een belangenbehartiger voor een culturele sector of discipline;<br>
+3° een functie als personeelslid in dienst van de Vlaamse overheid dat in het kader van zijn functie betrokken is bij de uitvoering van dit decreet;<br>
+4° een mandaat als lid van de Raad voor Cultuur, Jeugd, Sport en Media, zoals opgericht bij het decreet van 30 november 2007 houdende de oprichting van de Raad voor Cultuur, Jeugd, Sport en Media.
 
 ## Afdeling 2 Vlaams Architectuurinstituut
 
@@ -652,7 +680,11 @@ De mandaatfuncties worden voor elke erkende kunstinstelling nader bepaald in de 
 
 ### ART. 77.
 
-<P>§ 1. De Vlaamse Regering sluit met elke erkende kunstinstelling en elke   ondersteunende organisatie een beheersovereenkomst als vermeld in artikel 6, 5°.   <BR></P>  <P>§ 2. Een beheersovereenkomst als vermeld in paragraaf 1, heeft een duur van   vijf werkjaren en gaat in op 1 januari van het derde volledige kalenderjaar van   de Vlaamse legislatuur.<BR></P>
+<p>§ 1. De Vlaamse Regering sluit met elke erkende kunstinstelling en elke ondersteunende organisatie een beheersovereenkomst als vermeld in artikel 6, 5°.</p>
+
+<p>§ 2. Een beheersovereenkomst als vermeld in paragraaf 1, heeft een duur van vijf werkjaren en gaat in op 1 januari van het derde volledige kalenderjaar van de Vlaamse legislatuur.<br>
+<br>
+&nbsp;§ 3. In afwijking van paragraaf 2, heeft de eerste beheersovereenkomst met het Kunstensteunpunt, vermeld in artikel 71, een duur van drie werkjaren en gaat ze in op 1 januari 2019.</p>
 
 ### ART. 78.
 
@@ -660,11 +692,32 @@ De mandaatfuncties worden voor elke erkende kunstinstelling nader bepaald in de 
 
 ### ART. 79.
 
-<P>§ 1. Een beheersovereenkomst als vermeld in artikel 6, 5°, bevat bepalingen   over:<BR>1° de missie;<BR>2° de invulling van de kerntaken;<BR>3° de eventuele   bijkomende opdrachten die de Vlaamse Regering geeft;<BR>4° de samenwerking,   naargelang de inhoudelijke noodzaak, met andere organisaties, binnen of buiten   het kunstenveld;<BR>5° indien van toepassing, de modaliteiten inzake het gebruik   van de infrastructuur van de Vlaamse Gemeenschap;<BR>6° het toegekende   subsidiebedrag per werkjaar;<BR>7° de betaalmodaliteiten;<BR>8° de subsidie- en   financieringsvoorwaarden;<BR>9° de reservebepalingen indien afwijkend of   aanvullend bij de bepalingen, vermeld in artikel 61 tot en met artikel   67;<BR>10° de modaliteiten inzake werking en evaluatie;<BR>11° de modaliteiten   inzake toezicht en sancties. Hierbij kan afgeweken worden van de wet van 16 mei   2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen,   de controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof.<BR></P>  <P>§ 2. Indien een beheersovereenkomst geen bepalingen bevat over de   onderwerpen, vermeld in § 1, 7° tot en met 11°, gelden de bepalingen, vermeld in   artikel 50 tot en met artikel 67.<BR><BR>&nbsp;§ 3. Bij de aanvang van elk   werkingsjaar mag de Vlaamse Regering de subsidies aanpassen ter financiering van   de extra personeelsuitgaven die voortvloeien uit de stijging van het indexcijfer   op basis waarvan de salarissen van de Vlaamse ambtenaren worden berekend. Onder   voorbehoud van de toepassing van artikel 4, worden deze subsidies aangepast   binnen de perken van de door het Vlaams Parlement goedgekeurde   kredieten.<BR></P>
+<p>§ 1. Een beheersovereenkomst als vermeld in artikel 6, 5°, bevat bepalingen over:<br>
+1° de missie;<br>
+2° de invulling van de kerntaken;<br>
+3° de eventuele bijkomende opdrachten die de Vlaamse Regering geeft;<br>
+4° de samenwerking, naargelang de inhoudelijke noodzaak, met andere organisaties, binnen of buiten het kunstenveld;<br>
+5° indien van toepassing, de modaliteiten inzake het gebruik van de infrastructuur van de Vlaamse Gemeenschap;<br>
+6° het toegekende subsidiebedrag per werkjaar;<br>
+7° de betaalmodaliteiten;<br>
+8° de subsidie- en financieringsvoorwaarden;<br>
+9° de reservebepalingen indien afwijkend of aanvullend bij de bepalingen, vermeld in artikel 61 tot en met artikel 67;<br>
+10° de modaliteiten inzake werking en evaluatie;<br>
+11° de modaliteiten inzake toezicht en sancties. Hierbij kan afgeweken worden van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.</p>
+
+<p>§ 2. Indien een beheersovereenkomst geen bepalingen bevat over de onderwerpen, vermeld in § 1, 7° tot en met 11°, gelden de bepalingen, vermeld in artikel 50 tot en met artikel 67.<br>
+<br>
+§ 3. Met behoud van de toepassing van artikel 47, § 1, van het decreet van 23 december 2016 houdende bepalingen tot begeleiding van de begroting 2017, wordt het subsidiebedrag, vermeld in paragraaf 1, 6°, jaarlijks gekoppeld aan het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, § 1, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen.<br>
+<br>
+Voor het gedeelte werkingskosten van de werkingssubsidie, vermeld in het eerste lid, wordt het prijsindexcijfer beperkt tot 75 %, tenzij de Vlaamse Regering een ander percentage bepaalt..</p>
 
 ### ART. 80.
 
-<P>§ 1. De Vlaamse Regering sluit een beheersovereenkomst als vermeld in artikel   77, § 1, ten laatste één maand voor de aanvang van een subsidie- of   financieringsperiode.<BR></P>  <P>De Vlaamse Regering deelt een beheersovereenkomst als vermeld in artikel 77,   § 1, mee aan het Vlaams Parlement.<BR></P>  <P>§ 2. Indien de Vlaamse Regering een beheersovereenkomst niet tijdig sluit,   blijft de lopende beheersovereenkomst van kracht.<BR></P>  <P>§ 3. Indien de Vlaamse Regering een beheersovereenkomst niet tijdig sluit,   gelden voor kunstinstellingen of ondersteunende organisaties zonder lopende   beheersovereenkomst de bepalingen, vermeld in artikel 50 tot en met artikel   67.<BR></P>
+<p>§ 1. De Vlaamse Regering sluit een beheersovereenkomst als vermeld in artikel 77, § 1, ten laatste één maand voor de aanvang van een subsidie- of financieringsperiode.<br>
+<br>
+§ 2. Indien de Vlaamse Regering een beheersovereenkomst niet tijdig sluit, blijft de lopende beheersovereenkomst van kracht.<br>
+<br>
+§ 3. Indien de Vlaamse Regering een beheersovereenkomst niet tijdig sluit, gelden voor kunstinstellingen of ondersteunende organisaties zonder lopende beheersovereenkomst de bepalingen, vermeld in artikel 50 tot en met artikel 67.</p>
 
 ## Afdeling 2 Bepalingen voor het indienen van een beleidsplan
 
@@ -731,6 +784,8 @@ De door de Vlaamse Regering aangewezen dienst neemt het secretariaat waar   van 
 4° de inspanningen op het vlak van maatschappelijke en culturele diversiteit;<br>
 5° de kwaliteit van het zakelijke beheer;<br>
 5° /1 de mate waarin het beleidsplan een of meer aandachtspunten uitvoert uit de strategische visienota, vermeld in artikel 7, § 2, 5° ;<br>
+5° /1 de mate waarin uitvoering wordt gegeven aan de strategische visienota, vermeld in artikel 7, § 1, in de eigen werking en in de dienstverlening aan derden;<br>
+5° /2 de mate waarin de noden van organisaties en stakeholders die tot de doelgroep van de dienstverlening horen, in kaart gebracht zijn via een sectorbrede bevraging, en beantwoord worden in de werking en in de beleidsnota van het steunpunt;<br>
 6° indien van toepassing, de nadere bepaling door de Vlaamse Regering van de criteria;<br>
 7° eventuele bijkomende criteria die in de beheersovereenkomst zijn opgenomen.</p>
 
@@ -1218,3 +1273,7 @@ De eerste vijfjarige subsidieperiode voor werkingssubsidies, vermeld in   artike
 ### ART 185.
 
 Artikel 70, § 2/1, is vanaf 1 januari 2019 van toepassing op alle nieuwe aanstellingen van artistieke en zakelijke eindverantwoordelijken door kunstinstellingen.
+
+### ART 185.
+
+In afwijking van artikel 88, 5° /2, wordt er bij de beoordeling van het eerste beleidsplan voor het Kunstensteunpunt, die slaat op de termijn, vermeld in artikel 77, § 3, geen rekening gehouden met het in kaart brengen van de noden, organisaties en stakeholders die tot de doelgroep van de dienstverlening horen, via een sectorbrede bevraging.
