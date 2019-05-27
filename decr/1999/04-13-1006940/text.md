@@ -42,7 +42,13 @@ De middelen van de vereniging zijn:<br /><br />1° de jaarlijkse financiële teg
 
 ### ART. 7.
 
-<P>§ 1. De beheersovereenkomsten worden gesloten voor een periode van minimaal   drie en maximaal vijf jaar.<BR><BR>§ 2. Uiterlijk zes maanden voor het   verstrijken van elke beheersovereenkomst legt de vereniging een ontwerp van   beheersovereenkomst voor de volgende periode voor aan de Vlaamse Regering. Als   bij het verstrijken van een beheersovereenkomst geen nieuwe beheersovereenkomst   in werking is getreden, wordt, behalve in geval van de opzegging door de Vlaamse   Regering, de beheersovereenkomst van rechtswege verlengd tot het ogenblik dat   een nieuwe beheersovereenkomst in werking is getreden.<BR><BR>§ 3. Elke   beheersovereenkomst en elke wijziging en verlenging van een beheersovereenkomst   worden door de Vlaamse Regering meegedeeld aan het Vlaams Parlement.<BR><BR>§ 4.   De Vlaamse Regering kan aan de vereniging aanvullende opdrachten waaronder   adviesopdrachten, toekennen die aansluiten bij het doel van de vereniging,   vermeld in artikel 3. De Vlaamse Regering neemt dat op in de   beheersovereenkomsten of in een afzonderlijke overeenkomst met de   vereniging.</P>
+<p>§ 1. De beheersovereenkomsten worden gesloten voor een periode van minimaal drie en maximaal vijf jaar.<br>
+<br>
+§ 2. Uiterlijk zes maanden voor het verstrijken van elke beheersovereenkomst legt de vereniging een ontwerp van beheersovereenkomst voor de volgende periode voor aan de Vlaamse Regering. Als bij het verstrijken van een beheersovereenkomst geen nieuwe beheersovereenkomst in werking is getreden, wordt, behalve in geval van de opzegging door de Vlaamse Regering, de beheersovereenkomst van rechtswege verlengd tot het ogenblik dat een nieuwe beheersovereenkomst in werking is getreden.<br>
+<br>
+§ 3. Elke ontwerp-beheersovereenkomst en elke wijziging en verlenging ervan wordt ter bespreking voorgelegd aan het Vlaams Parlement en aan de Raad voor Cultuur, Jeugd, Sport en Media.<br>
+<br>
+§ 4. De Vlaamse Regering kan aan de vereniging aanvullende opdrachten waaronder adviesopdrachten, toekennen die aansluiten bij het doel van de vereniging, vermeld in artikel 3. De Vlaamse Regering neemt dat op in de beheersovereenkomsten of in een afzonderlijke overeenkomst met de vereniging.</p>
 
 ### ART. 8.
 
