@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031707,
+  "title": "Decreet van 2019-04-26 houdende bekrachtiging van het besluit van de Vlaamse Regering van 1 februari 2019 betreffende de deelname van de particuliere niet-lineaire televisieomroeporganisaties aan de productie van Vlaamse audiovisuele werken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031707/VolledigDocument?datum=2019-05-30",
+  "source_sha256": "7ee453f4822b1f5fe209e73e18c00d28d37d607014c35dcb5ca29377c4dd47ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031707&param=informatie",
+  "as_of": "2019-05-30",
+  "made": "2019-04-26",
+  "gazette": "2019-05-20",
+  "numac": 2019030509,
+  "document_start": "2019-05-30",
+  "document_end": null,
+  "in_force": "2019-05-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
