@@ -103,7 +103,7 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
-53° garantie van oorsprong : uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om de eindafnemer aan te tonen dat een bepaald aandeel of een bepaalde hoeveelheid energie geproduceerd is op basis van hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br>
+53° garantie van oorsprong: uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om aan de eindafnemer aan te tonen uit welke energiebron een bepaalde hoeveelheid energie geproduceerd is;<br>
 54° gaswinningsinstallatie : installatie waarmee aardgas wordt gewonnen uit de ondergrond of waarin biogas wordt geproduceerd;<br>
 55° gebied bestemd voor bewoning : gebied dat volgens het gewestplan of ruimtelijk uitvoeringsplan één van de volgende bestemmingen heeft :<br>
 a) woongebied;<br>
@@ -2001,11 +2001,30 @@ Als een leverancier die kosten expliciet vermeldt op de factuur, mag het vermeld
 
 ### ART. 7.1/1.1.
 
-§ 1. De VREG kent een garantie van oorsprong toe aan de eigenaar van een productie-installatie die in het Vlaamse Gewest ligt, of aan de natuurlijke persoon of rechtspersoon die daarvoor door hem is aangewezen, voor iedere 1 000 kWh elektriciteit die in de installatie wordt opgewekt uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling.<br /><br />§ 2. De Vlaamse Regering legt de nadere toepassingsregels en procedures vast voor de vorm, de inhoud, de aanvraag en de toekenning van de garanties van oorsprong.<br /><br />§ 3. De garanties van oorsprong die de VREG toegekend heeft, worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per garantie van oorsprong in de centrale databank worden opgenomen.
+§ 1. De Vlaamse Regering bepaalt onder welke voorwaarden de VREG een garantie van oorsprong toekent aan de eigenaar van een productie-installatie die in het Vlaamse Gewest ligt, of aan de natuurlijke persoon of rechtspersoon die de eigenaar daarvoor heeft aangewezen, voor:<br>
+1° elke MWh elektriciteit die in de installatie wordt opgewekt uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling;<br>
+2° elke MWh gas die in de installatie wordt opgewekt uit hernieuwbare energiebronnen;<br>
+3° elke MWh warmte of koude die in de installatie wordt opgewekt uit hernieuwbare energiebronnen.<br>
+<br>
+De Vlaamse Regering kan beslissen om ook garanties van oorsprong toe te laten kennen voor elektriciteit, gas, warmte of koude die is opgewekt uit andere energiebronnen, en voor vloeibare of vaste brandstoffen.<br>
+<br>
+De VREG kent die garanties van oorsprong toe op basis van de productiewaarden en gegevens die met dat doel worden bezorgd door de instantie die de Vlaamse Regering daarvoor heeft aangewezen.<br>
+<br>
+§ 2. De Vlaamse Regering legt de nadere toepassingsregels en procedures vast voor de vorm, de inhoud, de aanvraag en de toekenning van de garanties van oorsprong, en voor de meting, bepaling en controle van de geproduceerde hoeveelheid elektriciteit, gas, warmte of koude waarvoor de garanties van oorsprong worden toegekend.<br>
+<br>
+§ 2/1. De Vlaamse Regering kan uitzonderingen vastleggen voor de toekenning van garanties van oorsprong, afhankelijk van een minimumcapaciteit van de productie-installatie, het ontvangen van financiële steun en het al dan niet verbruiken van energie ter plaatse op de site van opwekking.<br>
+<br>
+§ 3. De garanties van oorsprong die de VREG toegekend heeft, worden geregistreerd in een centrale databank. De Vlaamse Regering bepaalt de specificaties die per garantie van oorsprong in de centrale databank worden opgenomen.
 
 ### ART. 7.1/1.2.
 
-De levering van elektriciteit in het Vlaamse Gewest als een hoeveelheid elektriciteit uit hernieuwbare energiebronnen of elektriciteit uit kwalitatieve warmte-krachtkoppeling is toegestaan als de aldus geleverde hoeveelheid elektriciteit overeenstemt met het overeenstemmend aantal kWh van de garanties van oorsprong respectievelijk inzake elektriciteit uit hernieuwbare energiebronnen of elektriciteit uit kwalitatieve warmtekrachtkoppeling, die ingeleverd zijn in de centrale databank.
+De levering van elektriciteit in het Vlaamse Gewest als een hoeveelheid elektriciteit uit hernieuwbare energiebronnen of elektriciteit uit kwalitatieve warmte-krachtkoppeling is toegestaan als de aldus geleverde hoeveelheid elektriciteit overeenstemt met het overeenstemmend aantal MWh van de garanties van oorsprong respectievelijk inzake elektriciteit uit hernieuwbare energiebronnen of elektriciteit uit kwalitatieve warmtekrachtkoppeling, die ingeleverd zijn in de centrale databank.<br>
+<br>
+De levering van gas in het Vlaamse Gewest als gas die is opgewekt uit hernieuwbare energiebronnen, is toegestaan als de op die wijze geleverde hoeveelheid gas overeenstemt met het aantal MWh van de garanties van oorsprong voor gas uit hernieuwbare energiebronnen die ingeleverd zijn in de centrale databank, vermeld in artikel 7.1/1.1, § 3.<br>
+<br>
+De levering van warmte of koude in het Vlaamse Gewest als warmte of koude die is opgewekt uit hernieuwbare energiebronnen, is toegestaan als de op die wijze geleverde hoeveelheid warmte of koude overeenstemt met het overeenstemmend aantal MWh van de garanties van oorsprong voor warmte of koude uit hernieuwbare energiebronnen die ingeleverd zijn in de centrale databank, vermeld in artikel 7.1/1.1, § 3.<br>
+<br>
+Als de Vlaamse Regering een systeem van garanties van oorsprong invoert voor andere energiebronnen of voor vaste of vloeibare brandstoffen, mogen die specifieke energiebronnen of brandstoffen met hun overeenkomstige specifieke oorsprongskarakteristieken alleen als dusdanig worden verkocht als voor een overeenstemmend aantal MWh garanties van oorsprong worden ingeleverd, overeenkomstig de daarvoor gedefinieerde procedure.
 
 ### ART. 7.1/1.3.
 
@@ -2013,7 +2032,7 @@ De Vlaamse Regering bepaalt onder welke voorwaarden garanties van oorsprong die 
 
 ### ART. 7.1/1.4.
 
-Een garantie van oorsprong kan enkel worden ingeleverd, zoals vermeld in artikel 7.1/1.2, binnen twaalf maanden na het einde van de productieperiode van de desbetreffende energiehoeveelheid.<br /><br />Ingeval de garanties van oorsprong door een oorzaak die niet bij de certificaatgerechtigde ligt, later dan zes maanden na het einde van de productieperiode worden uitgereikt, mogen deze in afwijking van het eerste lid ingeleverd worden tot zes maanden na de toekenning ervan.
+Een garantie van oorsprong kan alleen worden ingeleverd op de wijze, vermeld in artikel 7.1/1.2, voor de staving van de levering van een hoeveelheid energie uit hernieuwbare energiebronnen of kwalitatieve warmte-krachtkoppeling, als die levering plaatsvindt binnen twaalf maanden na het einde van de productieperiode van de energie waarvoor de garanties van oorsprong werden toegekend.
 
 ## [HOOFDSTUK I/2. Werkzaamheden van maatschappelijk belang (ing. decr. 16 november 2018, art. 29, I: 24 december 2018)]
 
@@ -2025,15 +2044,15 @@ Onverminderd enige andersluidende bepaling worden de bouw en de aanleg, met inbe
 
 ### ART. 7.2.1.
 
-De Vlaamse Regering kan een systeem van groenewarmtecertificaten instellen.
+...
 
 ### ART. 7.2.2.
 
-De VREG verleent op aanvraag van een producent per schijf van 1000 kWh groene warmte een certificaat voor de hoeveelheid groene warmte waarvan de aanvrager heeft aangetoond dat die geleverd wordt aan een warmteverbruiker en in het Vlaamse Gewest is geproduceerd.<br /><br />De Vlaamse Regering stelt nadere toepassingsregels en procedures vast voor het toekennen van groenewarmtecertificaten.
+...
 
 ### ART. 7.2.3.
 
-§ 1. De Vlaamse Regering kan, na advies van de VREG, iedere leverancier   van aardgas aan afnemers via het aardgasdistributienet of vervoersnet,   verplich-ten jaarlijks een door de Vlaamse Regering te bepalen aantal   groenewarmtecertificaten in te dienen bij de VREG.<BR><BR>§ 2. De Vlaamse   Regering bepaalt welke groenewarmtecertificaten in aanmerking komen om te   voldoen aan die openbaredienstverplichting.<BR><BR>§ 3. De Vlaamse Regering   bepaalt onder welke omstandigheden het voorleggen van het aantal   groenewarmtecertificaten geheel of gedeeltelijk kan worden vervangen door het   voorleggen van een aantal groenestroomcertificaten.
+...
 
 ## HOOFDSTUK III. Beperking aansluitkosten productie-installaties voor elektriciteit uit warmtekrachtinstallaties
 
