@@ -40,6 +40,10 @@ In artikel 2 van hetzelfde besluit wordt de zinsnede "30, § 3," vervangen door 
 
 In artikel 5, § 1 van hetzelfde besluit wordt de tekst "gegegevens" vervangen door het woord "gegevens".
 
+### ART 4.
+
+In artikel 6 van hetzelfde besluit worden de woorden "of fax" opgeheven.
+
 ### ART 5.
 
 In artikel 15, § 2, van hetzelfde besluit wordt de zinsnede ", noch de samenwerking met samenwerkingsinitiatieven eerstelijnsgezondheidszorg of met centra voor geestelijke gezondheidszorg uit zijn werkgebied bemoeilijken" vervangen door de woorden "en moet garanderen dat het locoregionaal karakter van het takenpakket gerespecteerd blijft".
@@ -47,6 +51,23 @@ In artikel 15, § 2, van hetzelfde besluit wordt de zinsnede ", noch de samenwer
 ### ART 6.
 
 In artikel 16 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 mei 2014, worden tussen het woord "organisaties" en het woord "en" de woorden "of samenwerkingsverbanden" ingevoegd.
+
+### ART 7.
+
+In artikel 17 van hetzelfde besluit, vervangen bij besluit van de Vlaamse Regering van 16 mei 2014, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 1, eerste lid, 2°, 5° en 7°, l), en in paragraaf 2, tweede lid, 1° en 2°, en derde lid, wordt het woord "methodieken" telkens vervangen door het woord "preventiemethodieken";<br>
+2° aan paragraaf 1, eerste lid, 4°, wordt de zinsnede ", in het bijzonder de preventieorganisaties, vermeld in artikel 1 van de bijlage die bij dit besluit is gevoegd" toegevoegd;<br>
+3° in paragraaf 1, eerste lid, 5°, a), en paragraaf 2, tweede lid, 1°, b), en 2°, b) tot en met e), wordt het woord "methodiek" telkens vervangen door het woord "preventiemethodiek";<br>
+4° in paragraaf 1, eerste lid, 5° wordt een punt e) toegevoegd dat luidt: "e) het helpen bij het organiseren van vormingen voor preventieorganisaties zodat zij acties kunnen opzetten op basis van de preventiemethodieken en die structureel kunnen verankeren in hun werking.";<br>
+5° in paragraaf 1, eerste lid, 6°, en paragraaf 2, tweede lid, 3°, en derde lid, 2°, wordt de zinsnede worden de woorden "gemeente- en OCMW-besturen" vervangen door de woorden "lokale besturen";<br>
+6° in paragraaf 1, eerste lid, 6° wordt de zin "De begeleiding en ondersteuning gebeurt op basis van de methodieken, vermeld in punt 4° " geschrapt;<br>
+7° in paragraaf 1, eerste lid, 7°, a), wordt het getal "5" vervangen door het getal "6";<br>
+8° in paragraaf 1, eerste lid, 7°, d), wordt het woord "gemeentebestuur" vervangen door de woorden "lokaal bestuur";<br>
+9° in paragraaf 1, eerste lid, 7°, i), worden de woorden "methodiekontwikkeling en ontwikkeling van ondersteuningsmiddelen" vervangen door de woorden "ontwikkeling van preventiemethodieken";<br>
+10° in paragraaf 1, eerste lid, 7°, wordt punt j) vervangen door wat volgt:<br>
+"j) het detecteren en signaleren van, het meewerken aan de impactinschatting van, en het bieden van ondersteuning in de opvolging van lokale milieugerelateerde potentiële gezondheidsproblemen;";<br>
+11° in paragraaf 1, eerste lid, 7°, l), worden de woorden "en materialen" opgeheven;<br>
+12° in paragraaf 1, tweede lid, wordt het getal "6" vervangen door het getal "7".
 
 ### ART 8.
 

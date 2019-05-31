@@ -2,16 +2,16 @@
   "codex_id": 1031712,
   "title": "Besluit van de Vlaamse Regering van 2019-04-05 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 30 januari 2009 betreffende de Logo's",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031712/VolledigDocument?datum=2019-04-05",
-  "source_sha256": "27b0e328de9b494a7a74bfaa329b50770e5a3f5962898111403b5d2af550d6cb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031712/VolledigDocument?datum=2019-05-31",
+  "source_sha256": "bfe3d279d6922701ad92f0f351f64f22ce78bfc4118b5376c6786a8ac6e7b502",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031712&param=informatie",
-  "as_of": "2019-04-05",
+  "as_of": "2019-05-31",
   "made": "2019-04-05",
   "gazette": "2019-05-21",
   "numac": 2019012340,
   "document_start": "2019-04-05",
   "document_end": null,
-  "in_force": "2019-04-05",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2019-04-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-05-31",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2019-05-31; future article versions excluded; article text as the API gives it"
 }
