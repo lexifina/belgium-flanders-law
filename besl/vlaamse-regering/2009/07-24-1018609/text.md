@@ -2366,6 +2366,20 @@ Als over een aanvraag tot erkenning van een dagverzorgingscentrum waarvoor een g
 
 De dagverzorgingscentra die op 17 december 2012 erkend of vergund zijn, behouden hun erkenning of voorafgaande vergunning.
 
+### ART 60.
+
+Dagverzorgingscentra die in het kader van de projecten "alternatieve zorg aan kwetsbare ouderen" van het RIZIV van 1 maart 2010 tot en met 31 mei 2019 zonder erkenning worden uitgebaat als een dagcentrum, kunnen een voorafgaande vergunning en een erkenning verkrijgen als dagverzorgingscentrum dat uitsluitend gebruikers met een chronische aandoening verzorgt, namelijk gebruikers met jongdementie, ook als in hun regio de programmatie al volledig ingenomen is.<br>
+<br>
+Om een voorafgaande vergunning te verkrijgen, toont de voorziening bij de aanvraag van de voorafgaande vergunning bijkomend een bezetting gedurende de periode vanaf 1 mei 2014 tot en met 30 april 2019 aan.<br>
+<br>
+Het dagverzorgingscentrum dient de bezettingsgegevens in bij het agentschap met het formulier dat het agentschap op zijn website ter beschikking stelt.<br>
+<br>
+De voorafgaande vergunning en de erkenning worden samen aangevraagd.<br>
+<br>
+De erkenning gaat in op 1 juni 2019.<br>
+<br>
+Zolang de overprogrammatie niet geneutraliseerd is en er geen ruimte is in de geldende programmatie, kunnen er geen nieuwe voorafgaande vergunningen verleend worden.
+
 ## BIJLAGE X Centra voor herstelverblijf
 
 ## HOOFDSTUK I Definities
