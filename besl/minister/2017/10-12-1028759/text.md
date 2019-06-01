@@ -30,7 +30,11 @@ Besluit :<br>
 
 ### ART 2.
 
-De diverse voorzieningen voor thuiscompostering met toebehoren komen in aanmerking voor subsidiëring.<br>
+De diverse voorzieningen voor thuiscompostering inclusief beluchtingsstokken komen in aanmerking voor subsidiëring.<br>
+<br>
+De kunststof compostvaten en compostbakken moeten voor minstens 80% bestaan uit gerecycleerde materialen.<br>
+<br>
+Het hout, gebruikt voor compostbakken, moet van duurzame oorsprong zijn, zijnde FSC- of PEFC-label of gelijkaardig.<br>
 <br>
 De maximaal subsidieerbare bedragen zijn voor :<br>
 1° compostvaten : 80 euro per m®;<br>
@@ -47,7 +51,7 @@ De minimumaantallen per subsidieaanvraag bedragen voor :<br>
 
 ### ART 3.
 
-Diverse voorzieningen in het kader van duurzame afvalvoorkomingsprojecten en voor het afvalbeheer van specifieke afvalstromen en voorzieningen in het kader van het duurzaam beheer van materialen en de circulaire economie komen in aanmerking voor subsidiëring.<br>
+Diverse aankopen en investeringen in het kader van duurzame afvalvoorkomingsprojecten en voor het afvalbeheer van specifieke afvalstromen en voorzieningen in het kader van het duurzaam beheer van materialen en de circulaire economie komen in aanmerking voor subsidiëring. Investeringen in herbruikbare bekers komen in aanmerking voor subsidiëring tot 31 mei 2022.<br>
 <br>
 De subsidieaanvrager verschaft de detailinformatie, gevraagd in de subsidiebeslissing, aan de bevoegde administratie.<br>
 <br>
@@ -62,10 +66,10 @@ Indien er geen detailinformatie wordt gevraagd in de subsidiebeslissing, geldt e
 
 ### ART 4.
 
-De diverse voorzieningen die deel uitmaken van een diftar-systeem voor de ophaling van huishoudelijke en daarmee vergelijkbare afvalstoffen, komen in aanmerking voor subsidiëring.<br>
+De diverse voorzieningen die deel uitmaken van een diftar-systeem met identificatie en registratie voor de ophaling van huishoudelijke afvalstoffen, komen in aanmerking voor subsidiëring.<br>
 <br>
 De maximaal subsidieerbare bedragen zijn :<br>
-1° 17 euro per recipiënt ongeacht het aantal liter;<br>
+1° 17 euro per recipiënt dat voor minstens 50% bestaat uit gerecycleerde materialen, ongeacht het aantal liter;<br>
 2° 3 euro per identificatiemogelijkheid met inbegrip van plaatsing;<br>
 3° 40.000 euro voor de meerkosten van het plaatsen van een beladingssysteem op een vrachtwagen nodig voor een systeem van gewichtsdiftar.<br>
 <br>
@@ -91,6 +95,8 @@ Brengsystemen moeten aangepast zijn aan de in te zamelen fractie en zodanig ontw
 Het maximaal subsidieerbare bedrag is 8.000 euro per recipiënt met volumediftar-systeem of een systeem met identificatie van de aanbieder, plaatsingskosten inbegrepen.<br>
 <br>
 Het maximaal subsidieerbare bedrag is 12.000 euro per recipiënt met gewichtsdiftar-systeem, plaatsingskosten inbegrepen.<br>
+<br>
+Bij het plaatsen van een duo-container wordt het maximaal subsidieerbare bedrag verhoogd met 4.000 euro voor het plaatsen van een extra zuil met diftar-systeem<br>
 <br>
 De subsidieaanvrager verschaft de detailinformatie, vermeld in de subsidiebeslissing, aan de bevoegde administratie.<br>
 <br>
@@ -135,13 +141,13 @@ De subsidieaanvrager verschaft de detailinformatie, vermeld in de subsidiebeslis
 2° infrastructuurwerken en receptie-infrastructuur;<br>
 3° voorzieningen voor de tijdelijke opslag van afvalstoffen;<br>
 4° opslagruimte voor kga;<br>
-5° toestellen die het afval verkleinen of het volume ervan reduceren, met uitzondering van hakselaars.<br>
+5° toestellen die het afval verkleinen of het volume ervan reduceren.<br>
 <br>
 § 3. Bij de berekening van het subsidieerbare bedrag worden de volgende beperkingen in acht genomen :<br>
 1° infrastructuurwerken en receptie-infrastructuur : 90 euro per m², tot maximaal 2000 m² verharde oppervlakte per pakket;<br>
 2° voorzieningen voor de tijdelijke opslag van recycleerbare afvalstoffen : maximaal 240 m® per pakket;<br>
 3° opslagruimte voor kga : maximaal 40 m² verharde en overdekte oppervlakte per pakket, die voldoet aan de VLAREM-reglementering;<br>
-4° toestellen en recipiënten die het afval verkleinen of het volume ervan reduceren, met uitzondering van hakselaars om groenafval te verhakselen : één per pakket.<br>
+4° toestellen en recipiënten die het afval verkleinen of het volume ervan reduceren: één per pakket.<br>
 <br>
 § 4. Naast de bepalingen, vermeld in paragraaf 3, gelden de volgende bijzondere bepalingen :<br>
 1° de gemeenten van minder dan 7.500 inwoners hebben recht op één pakket, overeenkomstig de onderdelen van een diftar-recyclagepark als vermeld in paragraaf 2. Voor de andere gemeenten mag per schijf van 7.500 inwoners één pakket worden aangevraagd als nieuw diftar-recyclagepark of als uitbreiding van een bestaand diftar-recyclagepark;<br>
@@ -180,7 +186,7 @@ De oprichting en uitbating van een mini-recyclagepark is ook subsidieerbaar als 
 
 ### ART 10.
 
-Het maximaal betoelaagbaar bedrag voor een mobiel mini-recyclagepark bedraagt 1200 euro/dag dat het mobiel mini-recyclagepark effectief ingezet wordt. Er wordt maximum 1 mobiel park per begonnen schijf tot 100.000 inwoners gesubsidieerd gedurende twee jaar. Een minimale inzet van 5 dagen in het eerste werkingsjaar en 10 dagen in het tweede werkingsjaar is een vereiste om in aanmerking te komen voor subsidie.<br>
+Het maximaal betoelaagbaar bedrag voor een mobiel mini-recyclagepark bedraagt 1200 euro/dag dat het mobiel mini-recyclagepark effectief ingezet wordt. Er wordt maximum 1 mobiel park per begonnen schijf tot 100.000 inwoners gesubsidieerd gedurende twee jaar. Een minimale inzet van 10 dagen per werkingsjaar is een vereiste om in aanmerking te komen voor subsidie.<br>
 <br>
 Indien in het mobiel mini-recyclagepark ook fracties ingezameld worden die op het grondgebied van het lokaal bestuur ook huis-aan-huis ingezameld worden, geldt hetzelfde tarief als bij de reguliere huis-aan-huisinzameling. Indien via het mobiel mini-recyclagepark betalende stromen ingezameld worden, gelden in het mobiel mini-recyclagepark dezelfde tarieven als op het diftar-recyclagepark waar de inwoners van het grondgebied van het lokaal bestuur terecht kunnen<br>
 <br>
@@ -288,6 +294,18 @@ De subsidies voor deze investeringen worden als volgt uitbetaald :<br>
 
 ## Afdeling 5 Ondersteuning van lokale besturen
 
+### ART 21/1.
+
+Het uitvoeren van sorteeranalyses van huisvuil als ondersteuning van het lokale en Vlaamse afvalbeleid met als doel informatie te verstrekken om de restafvaldoelstellingen te realiseren, komt in aanmerking voor subsidiëring.<br>
+<br>
+Om te garanderen dat het resultaat interpreteerbaar en vergelijkbaar is met de meest recente sorteeranalyses van huisvuil van het Vlaamse Gewest, wordt een vergelijkbare methodologie gevolgd.<br>
+<br>
+De kosten voor de uitvoering van de sorteeranalyse komen in aanmerking voor subsidiëring.<br>
+<br>
+De uitbetaling van de subsidies gebeurt voor 100% na ontvangst van de eindafrekening en het rapport van de uitgevoerde sorteeranalyse.<br>
+<br>
+Sorteeranalyses komen slechts eenmaal om de 5 jaar voor eenzelfde onderzocht gebied in aanmerking voor subsidiëring.
+
 ### ART 22.
 
 Taken waarvoor verenigingen van steden en gemeenten in het vigerend uitvoeringsplan voor huishoudelijk afval zijn aangeduid als trekker, komen in aanmerking voor subsidiëring. De subsidiering betreft de werkings- en personeelskost in zoverre die rechtstreeks verbonden is aan de uit te voeren actie. De subsidieerbare periode is de tijd die, conform het uitvoeringsplan nodig is om de actie uit te voeren. Uitbetaling per jaar is mogelijk.<br>
@@ -307,32 +325,30 @@ De voorvergistingsinstallaties die voor een gft-composteerinstallatie worden opg
 
 ### ART 25.
 
-Impulsprojecten die een versnelde asbestafbouw faciliteren komen in aanmerking voor subsidiëring. Een projectaanvrager dient hierbij een projectaanvraag in voor bronophaling, bronverpakking van asbestcement of projecten die een samenkoopformule asbestverwijdering beogen.<br>
+Projecten die een versnelde asbestafbouw faciliteren komen in aanmerking voor subsidiëring. Een projectaanvrager dient een projectaanvraag in voor één of meerdere projectformules. Binnen de verschillende projectformules 'groepsverwijdering' beperkt de projectaanvrager zich tot de keuze van één formule per aanvraag. Het maximale aantal actieve projectjaren per projectformule bedraagt 3 jaar. Het eerste projectjaar start op de datum van ondertekening van het projectgebonden ministerieel besluit.<br>
 <br>
-De volgende projectformules komen in aanmerking voor subsidiëring :<br>
-1° afvalprojecten voor bronophaling en bronverpakking :<br>
-a) variant 1 : bronophaling via platen- en/of `big bag'-zakken;<br>
-b) variant 2 : bronophaling via containers;<br>
-c) variant 3 : verstrekken van kleine asbestzakken voor bronverpakking;<br>
-2° samenkoopprojecten :<br>
-a) variant 1 : samenkoop leidingisolatie;<br>
-b) variant 2 : samenkoop vloerbedekking;<br>
-c) variant 3 : samenkoop dakvervanging;<br>
-d) variant 4 : samenkoop asbestinventarisatie.<br>
+De volgende projectformules komen in aanmerking voor subsidiëring:<br>
+1° afvalprojecten voor bronophaling en bronverpakking:<br>
+a) bronophaling via platen- en/of `big bag'-zakken en/of containers;<br>
+b) verstrekken van kleine asbestzakken voor bronverpakking;<br>
+2° projecten groepsverwijdering:<br>
+a) groepsverwijdering leidingisolatie in hermetische zone;<br>
+b) groepsverwijdering vloerbedekking in hermetische zone;<br>
+c) groepsverwijdering dak- en gevelbekleding;<br>
+3° projecten asbestinventarisatie.<br>
 <br>
-Het subsidiepercentage voor bronophalingsprojecten voor asbestcement via platen- en/of `big bag'-zakken als vermeld in het tweede lid, 1°, a) bedraagt 90 % voor projectaanvragen in 2018 en 75 % voor aanvragen vanaf 1 januari 2019 met een maximaal subsidieerbaar bedrag van 320 euro per opgehaalde ton asbestcement. Dit subsidiebedrag wordt aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,1 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 5 euro per gerealiseerde bronophalingslocatie.<br>
+Het subsidiepercentage voor bronophalingsprojecten voor asbestcement via platen- en/of `big bag'-zakken als vermeld in het tweede lid, 1°, a) bedraagt 90% met een maximaal subsidieerbaar bedrag van 320 euro per opgehaalde ton asbestcement. Het subsidiepercentage voor bronophalingsprojecten via containers als vermeld in het tweede lid, 1°, a) bedraagt 90 % met een maximaal subsidieerbaar bedrag van 200 euro per opgehaalde ton asbestcement. Voor een bronophalingsproject via platen- en/of `big bag'-zakken en/of containers wordt het subsidiebedrag aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,1 euro per inwoner binnen het projectgebied per actief projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 5 euro per gerealiseerde bronophalingslocatie.<br>
 <br>
-Het subsidiepercentage voor bronophalingsprojecten via containers als vermeld in het tweede lid, 1°, b) bedraagt 90 % voor projectaanvragen in 2018 en 75 % voor aanvragen vanaf 1 januari 2019 met een maximaal subsidieerbaar bedrag van 200 euro per opgehaalde ton asbestcement. Dit subsidiebedrag wordt aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,1 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 5 euro per gerealiseerde bronophalingslocatie.<br>
+Bij bronverpakkingsprojecten voor kleine hoeveelheden als vermeld in het tweede lid, 1°, b) bedraagt het subsidiepercentage voor de projectaanvrager voor de aan marktconforme prijs aangekochte zakken of folie 90 % met een maximaal subsidieerbaar bedrag van 0,50 euro per zak.<br>
 <br>
-Bij de bronverpakkingsformule voor kleine hoeveelheden als vermeld in het tweede lid, 1°, c) bedraagt het subsidiepercentage voor de projectaanvrager voor de aan aankoopprijs verkochte zakken of folie 90 % voor projectaanvragen in 2018 en 75 % voor aanvragen vanaf 1 januari 2019.<br>
+Het subsidiepercentage voor groepsverwijdering asbesthoudende leidingisolatie in hermetische zone als vermeld in het tweede lid, 2°, a) bedraagt 50% met een maximaal subsidieerbaar bedrag van 8.000 euro per stookinstallatie. Voor een appartementsgebouw geldt een maximaal subsidieerbaar bedrag van 12.000 euro. Dit subsidiebedrag komt rechtstreeks ten gunste van de projectdeelnemer, conform de geformuleerde werkwijze binnen de Algemene Richtlijn bij dit besluit. Dit subsidiebedrag wordt ten gunste van de projectaanvrager aangevuld met een forfaitair subsidiebedrag voor<br>
+projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per actief projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde verwijdering. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres.<br>
 <br>
-Het subsidiepercentage voor samenkoopprojecten verwijdering asbesthoudende leidingisolatie als vermeld in het tweede lid, 2°, a) bedraagt 50 % voor projectaanvragen in 2018 met een maximaal subsidieerbaar bedrag van 10.000 euro per stookinstallatie. Voor een appartementsgebouw geldt een maximaal subsidieerbaar bedrag van 14.000 euro. Voor projectaanvragen vanaf 1 januari 2019 wordt dit subsidiepercentage verlaagd van 50 % naar 30 %. Voor beschermde afnemers zoals vermeld in het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid, blijft het subsidiepercentage van 50 % behouden. Dit subsidiebedrag komt rechtstreeks ten gunste van de projectdeelnemer, conform de geformuleerde werkwijze binnen de Algemene Richtlijn bij dit besluit. Dit subsidiebedrag wordt ten gunste van de projectaanvrager aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde verwijdering. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres. Voor projectaanvragen vanaf 1 januari 2019 wordt dit subsidiepercentage verlaagd van 90 % naar 75 %.<br>
+Het subsidiepercentage voor groepsverwijdering asbesthoudende vloerbedekking in hermetische zone als vermeld in het tweede lid, 2°, b) bedraagt 50% met een maximaal subsidieerbaar bedrag van 8.000 euro per wooneenheid. Dit subsidiebedrag komt rechtstreeks ten gunste van de projectdeelnemer, conform de geformuleerde werkwijze binnen de Algemene Richtlijn bij dit besluit. Dit subsidiebedrag wordt ten gunste van de projectaanvrager aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per actief projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde wooneenheid. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres.<br>
 <br>
-Het subsidiepercentage voor samenkoopprojecten voor verwijdering asbesthoudende vloerbedekking als vermeld in het tweede lid, 2°, b) bedraagt 50 % voor projectaanvragen in 2018 met een maximaal subsidieerbaar bedrag van 10.000 euro per wooneenheid. Voor projectaanvragen vanaf 1 januari 2019 wordt dit subsidiepercentage verlaagd van 50 % naar 30 %. Voor beschermde afnemers zoals vermeld in het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid, blijft het subsidiepercentage van 50 % behouden. Dit subsidiebedrag komt rechtstreeks ten gunste van de projectdeelnemer, conform de geformuleerde werkwijze binnen de Algemene Richtlijn bij dit besluit. Dit subsidiebedrag wordt ten gunste van de projectaanvrager aangevuld met een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde wooneenheid. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres. Voor projectaanvragen vanaf 1 januari 2019 wordt dit subsidiepercentage verlaagd van 90 % naar 75 %.<br>
+Het subsidiepercentage voor groepsverwijdering dak- en gevelbekleding als vermeld in het tweede lid, 2°, c) bedraagt 90% met een maximaal subsidieerbaar bedrag als vermeld in het eerste lid bij a) bronophaling via platen- en/of `big bag'-zakken en/of containers. De verwijderingswerkzaamheden zelf vallen niet onder de gesubsidieerde kosten. De projectaanvrager ontvangt een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per actief projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde wooneenheid. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90% met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres.<br>
 <br>
-Het subsidiepercentage voor samenkoopprojecten voor dakvervanging als vermeld in het tweede lid, 2°, c) bedraagt 90 % voor projectaanvragen in 2018 en 75 % voor aanvragen vanaf 1 januari 2019 met een maximaal subsidieerbaar bedrag van 320 euro per opgehaalde ton asbestcement. Voor beschermde afnemers zoals vermeld in het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid, blijft het subsidiepercentage van 90 % behouden. Deze subsidie komt ten gunste van de projectdeelnemer. De projectaanvrager ontvangt een forfaitair subsidiebedrag voor projectcoördinatie ten bedrage van 0,2 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 50 euro per gerealiseerde wooneenheid. Het subsidiepercentage voor een verplicht aan te stellen extern deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 155 euro per uniek adres. Voor projectaanvragen vanaf 2019 wordt dit subsidiepercentage verlaagd van 90 % naar 75 %.<br>
-<br>
-Na een projectoproep door de OVAM kunnen lokale besturen een aanvraag indienen voor een asbestinventarisatieproject als vermeld in het tweede lid, 2°, d). Het forfaitair subsidiebedrag voor projectcoördinatie bedraagt 0,2 euro per inwoner binnen het projectgebied per projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 5 euro per gerealiseerde wooneenheid. Bij deze projecten wordt een deskundige met asbest- en bouwexpertise ingezet voor asbestdetectie en opmaak van een inventaris volgens de inventarisatiewijze zoals geformuleerd in de projectoproep. Het subsidiepercentage voor de aangestelde deskundige met asbest- en bouwexpertise bedraagt 90 % met een maximaal subsidieerbaar bedrag van 110 euro per uniek adres.
+Alleen na een projectoproep vanwege de OVAM kunnen lokale besturen een aanvraag indienen voor een asbestinventarisatieproject als vermeld in het derde lid, 3°. Het forfaitair subsidiebedrag voor projectcoördinatie bedraagt 0,2 euro per inwoner binnen het projectgebied per actief projectjaar met een variabel subsidiebedrag voor projectcoördinatie van 5 euro per gerealiseerde wooneenheid. Bij deze projecten wordt een asbestdeskundige inventarisatie ingezet voor asbestdetectie en opmaak van een inventaris volgens de inventarisatiewijze zoals geformuleerd bij de projectoproep. Het subsidiepercentage voor de aangestelde asbestdeskundige inventarisatie bedraagt 90 % met een maximaal subsidieerbaar bedrag van 110 euro per uniek adres.
 
 ## Afdeling 8 Slotbepalingen
 
