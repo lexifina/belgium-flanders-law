@@ -36,7 +36,7 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 - Jeugdraad voor de Vlaamse Gemeenschap;<br>
 - Raad van Niet-openbare Radio's;<br>
 - Mediaraad van de Vlaamse Gemeenschap;<br>
-- de commissie ad hoc in het kader van de afwijkingsprocedure voor de ontwikkelingsdoelen en eindtermen;<br>
+- de commissie van deskundigen in het kader van de procedure tot gelijkwaardigheid voor de eindtermen, de uitbreidingsdoelen Nederlands, de ontwikkelingsdoelen en de specifieke eindtermen;<br>
 - de Raad voor Cultuur, de Raad voor de Kunsten, de Raad voor Volksontwikkeling en Cultuurspreiding, de commissies, de werkgroepen en de beoordelingscommissies, bedoeld in het decreet van 19 december 1997 houdende oprichting van een Raad voor Cultuur, een Raad voor de Kunsten, een Raad voor Volksontwikkeling en Cultuurspreiding en van een adviserende beroepscommissie inzake culturele aangelegenheden;<br>
 - de adviescommissie experimenteel of vernieuwend jeugdwerk;<br>
 - de adviescommissie informatie-, communicatie- en inspraakprojecten voor de jeugd;<br>
