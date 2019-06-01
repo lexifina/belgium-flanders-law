@@ -92,6 +92,11 @@ Artikel VII 102, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 <br>
 § 6. Op straffe van verval van recht, dient het personeelslid de aanvraag van een fietsvergoeding uiterlijk in op de laatste dag van de maand die volgt op de maand waarop de fietsvergoeding betrekking heeft.".
 
+### ART 27.
+
+In artikel VII 109novies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt het vierde lid vervangen door wat volgt:<br>
+"De periodes van afwezigheid door ziekteverlof, moederschapsrust, vader- of meemoederschapsverlof, geboorteverlof en de dienstvrijstelling in het kader van artikel 42 van de arbeidswet van 16 maart 1971 worden gelijkgesteld met werkelijk geleverde prestaties.".
+
 ### ART 30.
 
 In artikel VII 199, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 december 2017, wordt tussen de woorden "van de brutojaarwedde" en het woord "ontving" de zinsnede "(verhoogd met de haard- of standplaatstoelage)" ingevoegd.
