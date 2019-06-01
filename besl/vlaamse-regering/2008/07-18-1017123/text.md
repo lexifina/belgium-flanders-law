@@ -67,7 +67,7 @@ Voor de toekenning van de VOP bepaalt de VDAB het recht en de duur van het recht
 1° een attest waaruit blijkt dat de persoon met een indicatie van een arbeidshandicap een aandoening of voorgeschiedenis heeft die voorkomt op een door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, na advies van de raad van bestuur van de VDAB, vastgestelde lijst;<br>
 2° of, een multidisciplinair arbeidsonderzoek waaruit blijkt dat de persoon met een indicatie van een arbeidshandicap voldoet aan een van de voorwaarden op een door de Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, na advies van de raad van bestuur van de VDAB, vastgestelde lijst;<br>
 3° en, de woon- en werklocatie van de persoon met een indicatie van een arbeidshandicap:<br>
-a) hij woont op het grondgebied van het Vlaamse Gewest of het Brusselse Hoofdstedelijke Gewest;<br>
+a) hij woont op het grondgebied van het Vlaamse Gewest;<br>
 b) hij woont op het grondgebied van een van de andere lidstaten van de Europese Unie (EU) of van de Europese Economische Ruimte (EER) en werkt op het grondgebied van het Vlaamse Gewest.
 
 ## HOOFDSTUK III. Aanpassingen van en aan de arbeidsomgeving
@@ -343,6 +343,14 @@ De VDAB neemt voor de personen met een auditieve arbeidshandicap de dienstverlen
 De ten laste genomen dienstverlening wordt op jaarbasis beperkt tot maximaal 10 % van de effectieve werktijd die de gebruiker presteert.<br>
 <br>
 De VDAB kan een afwijking toestaan van het maximum, vermeld in het vorige lid, wanneer de aard van de arbeid dit rechtvaardigt of in geval van uitbreiding van werkzaamheden, van promotie of van bijscholing van de persoon met een auditieve arbeidshandicap, voor wie de beperking tot 10 % van de effectieve werktijd niet volstaat. Die verhoogde tenlasteneming mag op jaarbasis 30 % van de effectieve werktijd niet overschrijden.<br>
+<br>
+De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.
+
+### ART 27/1.
+
+De VDAB neemt voor de leerlingen in alternerende opleidingen met een auditieve arbeidshandicap de dienstverlening door een tolk voor doven en slechthorenden ten laste als de begeleiding op de werkplek occasionele taken of omstandigheden met zich meebrengt waarvoor verbale communicatie nodig is om tot een optimale functie-uitoefening en taakuitvoering te komen, en die technische ondersteuning door een deskundig opgeleide tolk verantwoorden.<br>
+<br>
+De ten laste genomen dienstverlening is op maat van de leerling en wordt in overleg met de werkplek bepaald naargelang van de effectieve opleidingstijd van de leerling op de werkplek.<br>
 <br>
 De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.
 
