@@ -31,6 +31,10 @@ b) de K-IBO;<br>
 c) de maatregelen, vermeld in artikel 41 tot en met 44, artikel 84 tot en met 84/8 en artikel 111/0/1 tot en met 111/0/29 van het besluit van 5 juni 2009;<br>
 d) de gespecialiseerde beroepsverkennende stage, vermeld in artikel 3, § 3 en § 4, van het besluit van de Vlaamse Regering van 15 februari 2008 tot vaststelling van de regels voor de erkenning en financiering door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding van de gespecialiseerde trajectbepalings- en -begeleidingsdienst, de gespecialiseerde arbeidsonderzoeksdiensten en de gespecialiseerde opleidings-, begeleidings- en bemiddelingsdiensten.".
 
+### ART 2.
+
+In artikel 4, tweede lid, 3°, a), van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 26 oktober 2018, worden de woorden "of het Brusselse Hoofdstedelijke Gewest" opgeheven.
+
 ### ART 3.
 
 Aan artikel 13 van hetzelfde besluit wordt een punt 3° toegevoegd, dat luidt als volgt:<br>
@@ -48,6 +52,16 @@ In artikel 26, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse R
 "De VDAB kan een afwijking van het aantal uren toestaan op het maximum, vermeld in het tweede lid, in de volgende gevallen:<br>
 1° wegens bijzondere individuele omstandigheden als de vraag tot uitbreiding betrekking heeft op sollicitatiegesprekken;<br>
 2° als de vraag tot uitbreiding past in de begeleiding naar werk, vermeld in artikel 36 van het besluit van 5 juni 2009.".
+
+### ART 6.
+
+In hetzelfde besluit, laatst gewijzigd bij besluit van de Vlaamse Regering van 26 oktober 2018, wordt een artikel 27/1 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 27/1. De VDAB neemt voor de leerlingen in alternerende opleidingen met een auditieve arbeidshandicap de dienstverlening door een tolk voor doven en slechthorenden ten laste als de begeleiding op de werkplek occasionele taken of omstandigheden met zich meebrengt waarvoor verbale communicatie nodig is om tot een optimale functie-uitoefening en taakuitvoering te komen, en die technische ondersteuning door een deskundig opgeleide tolk verantwoorden.<br>
+<br>
+De ten laste genomen dienstverlening is op maat van de leerling en wordt in overleg met de werkplek bepaald naargelang van de effectieve opleidingstijd van de leerling op de werkplek.<br>
+<br>
+De VDAB neemt de werkelijk gemaakte verplaatsingskosten van de tolk ten laste.".
 
 ### ART 7.
 
