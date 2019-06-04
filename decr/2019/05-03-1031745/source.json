@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031745,
+  "title": "Decreet van 2019-05-03 houdende de instemming met het samenwerkingsakkoord van 31 januari 2019 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie met betrekking tot kinderopvang in Brussel",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031745/VolledigDocument?datum=2019-06-04",
+  "source_sha256": "fde7d1b93b38e343cc02c2a42a3cb97d1659044713ef0a53e6decbf267da0900",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031745&param=informatie",
+  "as_of": "2019-06-04",
+  "made": "2019-05-03",
+  "gazette": "2019-06-04",
+  "numac": 2019012667,
+  "document_start": "2019-06-04",
+  "document_end": null,
+  "in_force": "2019-06-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2019-06-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
