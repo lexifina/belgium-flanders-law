@@ -397,6 +397,33 @@ De Vlaamse Regering kan bijkomende opdrachten aan de Strategische Begeleidingsco
 
 ## [Afdeling 6. Administratieve geldboeten (ing. Decr. 3 mei 2019, art. 2, I: 8 juni 2019)]
 
+### ART 28/1.
+
+§1. Het agentschap kan aan een zorgkas een administratieve geldboete opleggen in elk van de volgende gevallen:<br>
+1° de zorgkas voert de rapportering, vermeld in artikel 22, eerste lid, 4°, en artikel 49, § 7, niet of niet tijdig uit;<br>
+2° de zorgkas legt het boekhoudkundige verslag, vermeld in artikel 30, niet, niet tijdig of niet volledig voor aan het agentschap;<br>
+3° het agentschap stelt bij de zorgkas fraude of ernstige nalatigheid vast die aanleiding geeft tot een fout bij de toekenning van het persoonsvolgend budget, vermeld in artikel 59.<br>
+<br>
+De Vlaamse Regering bepaalt wat moet worden verstaan onder niet tijdig rapporteren als vermeld in het eerste lid, 1°, en onder niet tijdig voorleggen als vermeld in het eerste lid, 2°.<br>
+<br>
+§2. Het bedrag van de administratieve geldboete die kan worden opgelegd in de gevallen, vermeld in paragraaf 1, eerste lid, 1° en 2°, bedraagt minstens 500 euro en maximaal 5000 euro.<br>
+<br>
+Het bedrag van de administratieve geldboete die kan worden opgelegd in het geval, vermeld in paragraaf 1, eerste lid, 3°, bedraagt 125 euro per gebruiker die getroffen is door de fout bij de toekenning van het persoonsvolgend budget.<br>
+<br>
+Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het eerste lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het eerste lid, en het bedrag, vermeld in het tweede lid.<br>
+<br>
+De door de Vlaamse Regering aangewezen ambtenaar kan volledig of gedeeltelijk uitstel verlenen van betaling van de administratieve geldboete als er tijdens de twee vorige jaren geen enkele administratieve geldboete voor soortgelijke inbreuken als vermeld in paragraaf 1, eerste lid, is opgelegd.<br>
+<br>
+Als hetzelfde feit verschillende inbreuken uitmaakt, wordt alleen de zwaarste sanctie toegepast. Bij samenloop van verschillende inbreuken als vermeld in paragraaf 1, eerste lid, worden de administratieve geldboeten samengevoegd.<br>
+<br>
+§3. De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in paragraaf 1, eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
+<br>
+§4. De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
+
 ## HOOFDSTUK 3. Toezicht
 
 ### ART 29.
@@ -1577,6 +1604,22 @@ De vordering tot voldoening van de administratieve geldboete verjaart na verloop
 <br>
 Het agentschap kan een beroep doen op het betrokken team van de Zorgkassencommissie in het kader van het verweer voor de arbeidsrechtbank.
 
+### ART 146/1.
+
+Als een woonzorgcentrum met een bijkomende erkenning het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het woonzorgcentrum in kwestie een administratieve geldboete opleggen.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
+<br>
+Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het tweede lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in het eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
+<br>
+De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
+
 ### ART 147.
 
 De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt door de tegemoetkoming, vermeld in artikel 145.
@@ -1598,6 +1641,22 @@ In het kader van de controles die worden verricht met het oog op de toepassing v
 Artikel 146 is van overeenkomstige toepassing op de woonzorgcentra, vermeld in dit artikel.<br>
 <br>
 § 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de woonzorgcentra, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+
+### ART 148/1.
+
+Als een woonzorgcentrum zonder bijkomende erkenning het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het woonzorgcentrum in kwestie een administratieve geldboete opleggen.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
+<br>
+Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het tweede lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in het eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
+<br>
+De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
 
 ### ART 149.
 
@@ -1623,6 +1682,22 @@ Artikel 146 is van overeenkomstige toepassing op de dagverzorgingscentra, vermel
 <br>
 § 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor dagverzorging, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
 
+### ART 150/1.
+
+Als een dagverzorgingscentrum het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het dagverzorgingscentrum in kwestie een administratieve geldboete opleggen.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
+<br>
+Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het tweede lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in het eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
+<br>
+De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
+
 ### ART 151.
 
 De Vlaamse Regering bepaalt de inhoud van het pakket aan zorg dat gedekt wordt door de tegemoetkoming, vermeld in artikel 150.
@@ -1646,6 +1721,22 @@ In het kader van de controles die worden verricht met het oog op de toepassing v
 Artikel 146 is van overeenkomstige toepassing op de centra voor kortverblijf, vermeld in dit artikel.<br>
 <br>
 § 3. De zorgkassen worden belast met de uitbetaling van de tegemoetkomingen aan de centra voor kortverblijf, vermeld in paragraaf 1, eerste lid. De Vlaamse Regering bepaalt de procedure voor de uitbetaling van de tegemoetkomingen door de zorgkassen.
+
+### ART 152/1.
+
+Als een centrum voor kortverblijf het agentschap opzettelijk verkeerde gegevens verstrekt om een hogere tegemoetkoming te verkrijgen dan de tegemoetkoming waarop het op basis van de reële gegevens recht heeft, kan het agentschap, naast de terugvordering van de tegemoetkomingen die ten onrechte zijn uitbetaald, aan het centrum voor kortverblijf in kwestie een administratieve geldboete opleggen.<br>
+<br>
+Het bedrag van de administratieve geldboete, vermeld in het eerste lid, bedraagt minstens 500 euro en maximaal 50.000 euro.<br>
+<br>
+Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan het minimumbedrag, vermeld in het tweede lid. Het bedrag van de administratieve geldboete kan evenwel niet lager zijn dan 50% van het minimumbedrag, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete, vermeld in het eerste lid, en de beroepsmogelijkheden. Ze wijst de ambtenaren aan die de administratieve geldboete kunnen opleggen.<br>
+<br>
+De administratieve geldboete, verhoogd met de invorderingskosten, kan bij dwangbevel worden ingevorderd. Het dwangbevel wordt geviseerd en uitvoerbaar verklaard door de ambtenaar die de Vlaamse Regering daarvoor aanwijst. Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot met bevel tot betaling.<br>
+<br>
+De bepalingen van deel V van het Gerechtelijk Wetboek zijn van toepassing op het dwangbevel.<br>
+<br>
+De vordering tot voldoening van de administratieve geldboete verjaart na verloop van vijf jaar vanaf de dag waarop ze is ontstaan. De verjaring wordt gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.
 
 ### ART 153.
 
