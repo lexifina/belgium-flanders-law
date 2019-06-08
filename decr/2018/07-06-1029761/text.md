@@ -137,10 +137,34 @@ De Vlaamse Regering bepaalt:<br>
 
 ### ART 9.
 
-De Vlaamse Regering bepaalt de gevolgen ingeval de verzekeringsinstellingen:<br>
-1° ten gevolge van een fout, vergissing of nalatigheid, onverschuldigde tegemoetkomingen, of te hoge tegemoetkomingen betalen aan een zorgvoorziening, of, in het voorkomend geval, aan de rechthebbende of de vervoerder;<br>
-2° door een fout, vergissing of nalatigheid nalaten om een tegemoetkoming volgens de bepalingen van dit decreet te betalen of een bedrag te betalen dat lager is dan het bedrag dat werkelijk verschuldigd is, tenzij in de door de Vlaamse Regering bepaalde gevallen waarin dat is toegestaan;<br>
-3° onjuiste inlichtingen en documenten bezorgen aan een agentschap dat de Vlaamse Regering aanwijst, in het kader van het toezicht, vermeld in artikel 41.
+§1. Met behoud van de toepassing van eventuele strafrechtelijke gevolgen legt de door de Vlaamse Regering aangewezen ambtenaar de verzekeringsinstellingen de volgende administratieve geldboeten op voor de volgende inbreuken:<br>
+1° een administratieve geldboete van 125 euro per rechthebbende of per vervoerder als de verzekeringsinstellingen ten gevolge van een fout, vergissing of nalatigheid onverschuldigde tegemoetkomingen of te hoge tegemoetkomingen betalen aan een zorgvoorziening of, in voorkomend geval, aan de rechthebbende of de vervoerder;<br>
+2° een administratieve geldboete van 125 euro per rechthebbende als de verzekeringsinstellingen door een fout, vergissing of nalatigheid nalaten om een tegemoetkoming conform dit decreet te betalen of een bedrag betalen dat lager is dan het bedrag dat werkelijk verschuldigd is, tenzij in de gevallen dat dit is toegestaan door Vlaamse Regering;<br>
+3° een administratieve geldboete van 1250 euro als de verzekeringsinstellingen onjuiste inlichtingen en documenten bezorgen aan een agentschap dat de Vlaamse Regering aanwijst met het oog op de analyse, vermeld in artikel 13, § 6, eerste lid, of in het kader van het toezicht, vermeld in artikel 41.<br>
+<br>
+Als de inbreuken, vermeld in het eerste lid, 1° en 2°, een gevolg zijn van terugkerende tekortkomingen, wordt de administratieve geldboete opgelegd als de verzekeringsinstelling ondanks een schriftelijke waarschuwing de terugkerende tekortkomingen niet oplost binnen twaalf maanden vanaf de datum waarop de waarschuwing werd ontvangen. Als uitzonderlijke omstandigheden dat rechtvaardigen, kan die regularisatietermijn van twaalf maanden worden verlengd op verzoek van de verzekeringsinstelling conform de door de Vlaamse Regering bepaalde procedure en voorwaarden.<br>
+<br>
+§2. Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar, een administratieve geldboete opleggen die lager is dan de administratieve geldboeten, vermeld in paragraaf 1, eerste lid, maar die niet lager kan zijn dan 50% van de bedragen, vermeld in paragraaf 1, eerste lid. Hij kan overigens volledig of gedeeltelijk uitstel van betaling van de administratieve geldboete toekennen als er tijdens de twee vorige jaren geen enkele administratieve geldboete voor soortgelijke inbreuken als vermeld in paragraaf 1, eerste lid, is uitgesproken.<br>
+<br>
+Als hetzelfde feit verschillende inbreuken uitmaakt, wordt alleen de zwaarste sanctie toegepast. Bij samenloop van verschillende inbreuken als vermeld in paragraaf 1, eerste lid, en artikel 37, § 1, worden de administratieve geldboeten, vermeld in de voormelde bepalingen, samengevoegd.<br>
+<br>
+§3. De Vlaamse Regering bepaalt de nadere regels voor de oplegging, betaling en bestemming van de administratieve geldboeten.<br>
+<br>
+De wijze waarop de inbreuken, vermeld in paragraaf 1, eerste lid, worden vastgesteld, zowel bij de interne als de externe controles, maakt deel uit van de overeenkomst met de verzekeringsinstellingen, vermeld in artikel 6, tweede lid.<br>
+<br>
+§4. Een administratieve geldboete kan niet meer worden uitgesproken als er twee jaar verlopen is vanaf het einde van de maand waarin de inbreuk is gepleegd. De kennisgeving van het verslag met de vaststelling van de inbreuk stuit de verjaring.<br>
+<br>
+De betrokken verzekeringsinstelling beschikt over een termijn van twee maanden vanaf de dag die volgt op de dag waarop het verslag is ontvangen, om verweermiddelen te laten gelden door een aangetekende zending te sturen naar de door de Vlaamse Regering aangewezen ambtenaar.<br>
+<br>
+De door de Vlaamse Regering aangewezen ambtenaar beslist of een administratieve geldboete wordt opgelegd nadat hij de verzekeringsinstelling uitgenodigd heeft om verweermiddelen te laten gelden.<br>
+<br>
+Als de verzekeringsinstelling de administratieve geldboete niet betaalt, wordt de beslissing van de door de Vlaamse Regering aangewezen ambtenaar die niet is betwist of de gerechtelijke beslissing die in kracht van gewijsde is gegaan, aan de Vlaamse Belastingdienst bezorgd om het bedrag van de administratieve geldboete in te vorderen.<br>
+<br>
+§5. De uitgesproken administratieve geldboete verjaart na vijf jaar. De verjaringstermijn begint op de dag na de dag van de kennisgeving.<br>
+<br>
+Als de verzekeringsinstelling beroep heeft ingesteld bij de arbeidsrechtbank, wordt de verjaring geschorst totdat een beslissing die in kracht van gewijsde is gegaan, een einde heeft gemaakt aan het geding. De verjaring wordt verder gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
+<br>
+Als de inbreuk aanleiding heeft gegeven tot strafrechtelijke vervolging, wordt de verjaring geschorst totdat een beslissing die in kracht van gewijsde is gegaan, een einde heeft gemaakt aan het geding.
 
 ### ART 10.
 
@@ -400,10 +424,32 @@ Deze bedragen worden vastgelegd door de Vlaamse Regering.<br>
 
 ### ART 37.
 
-De Vlaamse Regering bepaalt de gevolgen, als de verzekeringsinstellingen:<br>
-1° de verjaring voor de terugvordering van onverschuldigde betalingen niet stuiten;<br>
-2° bedragen op lijsten van daadwerkelijk teruggevorderde bedragen inschrijven terwijl het bedrag er niet op mocht voorkomen of het ten onrechte vermeld bedrag van een vorig jaar werd geregulariseerd;<br>
-3° onverschuldigde bedragen conform artikel 30 boeken en in mindering brengen van de uitgaven van de Vlaamse Gemeenschap.
+§1. Met behoud van de toepassing van eventuele strafrechtelijke vervolging kan de door de Vlaamse Regering aangewezen ambtenaar de verzekeringsinstellingen de volgende administratieve geldboeten opleggen voor de volgende inbreuken:<br>
+1° een administratieve geldboete van 62,50 euro als de verzekeringsinstellingen de verjaring niet hebben gestuit voor de terugvordering van onverschuldigde betalingen;<br>
+2° een administratieve geldboete van 50 euro per bedrag als de verzekeringsinstellingen ten onrechte bedragen meedelen aan het agentschap om werkingskosten te verwerven voor terugvorderingen die het gevolg zijn van een fout of nalatigheid van de verzekeringsinstellingen;<br>
+3° een administratieve geldboete van 125 euro per bedrag als de verzekeringsinstellingen onverschuldigde bedragen niet conform artikel 30 boeken en in mindering brengen van de uitgaven van de Vlaamse Gemeenschap.<br>
+<br>
+§2. Als er verzachtende omstandigheden zijn, kan de door de Vlaamse Regering aangewezen ambtenaar een administratieve geldboete opleggen die lager is dan de administratieve geldboeten, vermeld in paragraaf 1, eerste lid, maar die niet lager kan zijn dan 50% van de bedragen, vermeld in paragraaf 1, eerste lid. Hij kan overigens volledig of gedeeltelijk uitstel van betaling van de administratieve geldboete toekennen als er tijdens de twee vorige jaren geen enkele administratieve geldboete voor soortgelijke inbreuken als vermeld in paragraaf 1, is uitgesproken.<br>
+<br>
+Als hetzelfde feit verschillende inbreuken uitmaakt, wordt alleen de zwaarste sanctie toegepast. Bij samenloop van verschillende inbreuken als vermeld in paragraaf 1, en artikel 9, § 1, eerste lid, worden de administratieve geldboeten, vermeld in de voormelde bepalingen, samengevoegd.<br>
+<br>
+§3. De Vlaamse Regering bepaalt de nadere regels voor de oplegging, betaling en bestemming van de administratieve geldboeten.<br>
+<br>
+De wijze waarop de inbreuken, vermeld in paragraaf 1, worden vastgesteld, zowel bij de interne als de externe controles, maakt deel uit van de overeenkomst met de verzekeringsinstellingen, vermeld in artikel 6, tweede lid.<br>
+<br>
+§4. Een administratieve geldboete kan niet meer worden uitgesproken als er twee jaar verlopen is vanaf het einde van de maand waarin de inbreuk is gepleegd. De kennisgeving van het verslag met de vaststelling van de inbreuk stuit de verjaring.<br>
+<br>
+De betrokken verzekeringsinstelling beschikt over een termijn van twee maanden vanaf de dag die volgt op de dag waarop ze het verslag heeft ontvangen, om verweermiddelen te laten gelden door een aangetekende zending te sturen naar de door de Vlaamse Regering aangewezen ambtenaar.<br>
+<br>
+De door de Vlaamse Regering aangewezen ambtenaar beslist of een administratieve geldboete wordt opgelegd nadat hij de verzekeringsinstelling uitgenodigd heeft om verweermiddelen te laten gelden.<br>
+<br>
+Als de verzekeringsinstelling de administratieve geldboete niet betaalt, wordt de beslissing van de door de Vlaamse Regering aangewezen ambtenaar die niet is betwist of de gerechtelijke beslissing die in kracht van gewijsde is gegaan, aan de Vlaamse Belastingdienst bezorgd om het bedrag van de administratieve geldboete in te vorderen.<br>
+<br>
+§5. De uitgesproken administratieve geldboete verjaart na vijf jaar. De verjaringstermijn begint op de dag na de dag van de kennisgeving.<br>
+<br>
+Als de verzekeringsinstelling beroep heeft ingesteld bij de arbeidsrechtbank, wordt de verjaring geschorst totdat een beslissing die in kracht van gewijsde is gegaan, een einde heeft gemaakt aan het geding. De verjaring wordt verder gestuit conform artikel 2244 tot en met 2250 van het Burgerlijk Wetboek.<br>
+<br>
+Als de inbreuk aanleiding heeft gegeven tot strafrechtelijke vervolging, wordt de verjaring geschorst totdat een beslissing die in kracht van gewijsde is gegaan, een einde heeft gemaakt aan het geding.
 
 ### ART 38.
 
@@ -447,7 +493,7 @@ De zorggebruiker die op basis van een door hem afgelegde valse verklaring of een
 <br>
 Met behoud van de toepassing van eventuele strafrechtelijke sancties, kan de door de Vlaamse Regering aangewezen ambtenaar bijkomend de rechthebbende of de vervoerder, vermeld in het eerste lid, een administratieve geldboete opleggen die niet meer kan bedragen dan 100% van het terug te betalen bedrag. Die administratieve geldboete kan ook geheel of gedeeltelijk met uitstel van de tenuitvoerlegging ervan worden opgelegd. Het uitstel kan toegestaan worden gedurende een termijn van twee jaar vanaf de datum van de beslissing wanneer bij het uitspreken van een administratieve geldboete is vastgesteld dat de rechthebbende generlei administratieve geldboete is opgelegd in het voorgaande jaar. De beslissing waarin het uitstel wordt toegestaan of geweigerd, moet met redenen omkleed zijn. Als de verzekerde gedurende deze termijn van twee jaar een nieuwe inbreuk pleegt, worden de uitgestelde en de nieuwe sanctie samengevoegd. In het geval van herhaling van dezelfde inbreuk binnen een tijdsspanne van drie jaar na de beslissing, kan het bedrag van de boete worden verdubbeld.<br>
 <br>
-De Vlaamse Regering bepaalt de nadere regels voor de oplegging en de betaling van de administratieve geldboete.<br>
+De Vlaamse Regering bepaalt de nadere regels voor de oplegging, betaling en bestemming van de administratieve geldboete en de verjaring van de inbreuk die wordt bestraft met de administratieve geldboete.<br>
 <br>
 Het bedrag van de administratieve geldboete bedraagt maximaal 500 euro.<br>
 <br>
@@ -495,7 +541,7 @@ De administratieve geldboete kan enkel worden opgelegd, voor zover het Openbaar 
 <br>
 § 5. Als de Vlaamse Gemeenschap zich burgerlijke partij stelt met het oog op de terugvordering van de door de verzekeringsinstelling onverschuldigde betaalde tegemoetkomingen die worden toegekend op basis van dit decreet, worden de teruggevorderde bedragen geboekt als inkomsten van de Vlaamse Gemeenschap.<br>
 <br>
-§ 6. Met behoud van de toepassing van artikel 41 bepaalt de Vlaamse Regering de nadere regels voor de oplegging en de betaling van de administratieve geldboete.
+§6. Met behoud van de toepassing van artikel 41 bepaalt de Vlaamse Regering de nadere regels voor de oplegging, betaling en bestemming van de administratieve geldboete en de verjaring van de inbreuk die wordt bestraft met de administratieve geldboete.
 
 ### ART 44.
 
