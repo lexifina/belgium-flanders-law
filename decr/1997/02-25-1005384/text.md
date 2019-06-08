@@ -1677,6 +1677,10 @@ De regering bepaalt de bekwaamheidsbewijzen die toegang verlenen tot een onderwi
 
 Ieder schooljaar krijgen de schoolbesturen een werkingsbudget voor de werking, de uitrusting, het groot onderhoud van hun scholen, voor het werken aan rationeel energiegebruik in hun scholen en om tegemoet te komen aan de kosteloosheid vermeld in artikel 27 en aan de maximumfacturen vermeld in artikel 27bis.<br /><br />Bij de aanwending van het werkingsbudget moet ieder schoolbestuur rekening houden met een gelijke behandeling van al zijn gefinancierde of gesubsidieerde scholen en van al zijn leerlingen.
 
+### ART 76bis.
+
+Vanaf het schooljaar 2019-2020 worden de werkingsmiddelen voor het kleuteronderwijs gelijkgeschakeld met die van het lager onderwijs. De Vlaamse Regering wordt gemachtigd daartoe een regeling uit te werken.
+
 ### ART. 77.
 
 Ieder schoolbestuur van een gesubsidieerde school moet aan Agodi verantwoording afleggen over het gebruik van zijn werkingsbudget. De verificatiediensten van Agodi kunnen ter plaatse controle uitoefenen zonder dat die controle betrekking mag hebben op de opportuniteit.<br /><br />De regering bepaalt nader de controlemaatregelen en ontwikkelt een methode die jaarlijks toelaat om een globaal zicht te krijgen op de besteding van de werkingsbudgetten in het basisonderwijs.
