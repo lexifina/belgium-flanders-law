@@ -63,6 +63,14 @@ In artikel 9, § 4, derde lid, van hetzelfde decreet, gewijzigd bij het decreet 
 
 In artikel 12, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, worden de woorden "Afdeling Toezicht en Handhaving" vervangen door de woorden "afdeling Vlaamse Sociale Inspectie".
 
+### ART 12.
+
+Aan artikel 13, § 2, van hetzelfde decreet, ingevoegd bij het decreet van 10 december 2010, worden een punt 20° tot en met 23° toegevoegd, die luiden als volgt:<br>
+"20° iedere persoon, zijn lasthebbers of aangestelden, die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+21° het bureau, zijn lasthebbers of aangestelden, die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars samenwerken met een bureau dat niet voorafgaandelijk geregistreerd is;<br>
+22° het bureau, zijn lasthebbers of aangestelden die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
+23° de werkgever die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.".
+
 ### ART 13.
 
 In artikel 17 van hetzelfde decreet, gewijzigd bij de decreten van 9 juli 2010, 24 april 2015 en 7 juli 2017, worden de volgende wijzigingen aangebracht:<br>
@@ -126,6 +134,99 @@ In artikel 5 van hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2018, w
 
 In artikel 17 van hetzelfde decreet, gewijzigd bij het decreet van 19 december 2014, worden de woorden "Afdeling Toezicht en Handhaving" vervangen door de woorden "afdeling Vlaamse Sociale Inspectie".
 
+### ART 19.
+
+In hetzelfde decreet wordt een hoofdstuk 3/1, dat bestaat uit artikel 20/1 tot en met 20/12, ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk 3/1. Voorwaarden inzake de activiteiten voor sportmakelaars<br>
+<br>
+Afdeling 1. - Voorwaarden tot registratie<br>
+<br>
+Art. 20/1. Voor het verrichten van diensten van private arbeidsbemiddeling voor sportbeoefenaars of voor rekening van werkgevers met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wordt de sportmakelaar aan een voorafgaande registratieplicht onderworpen.<br>
+<br>
+§ 2. Met behoud van de toepassing van artikel 5, voldoet de sportmakelaar aan de volgende bijkomende voorwaarden:<br>
+1° de sportmakelaar is geen achterstallige belastingen, boeten of intresten verschuldigd, noch sociale zekerheidsbijdragen, met sociale zekerheid gelijkgestelde bijdragen, boeten of intresten verschuldigd aan de Rijksdienst voor Sociale Zekerheid, noch bijdragen, boeten of intresten verschuldigd aan het Rijksinstituut voor de Sociale Verzekeringen der Zelfstandigen;<br>
+2° de sportmakelaar werkt, op straffe van nietigheid van de overeenkomst voor private arbeidsbemiddeling van betaalde sportbeoefenaars, niet samen met niet-geregistreerde sportmakelaars;<br>
+3° de sportmakelaar maakt bij externe communicatie, ongeacht onder welke vorm, melding van zijn registratienummer. De Vlaamse Regering kan bepalen wat onder externe communicatie moet worden begrepen;<br>
+4° de sportmakelaar onthoudt zich van elke vorm van publiciteit die potentiële betaalde sportbeoefenaars kan misleiden;<br>
+5° de sportmakelaar verbindt zich ertoe te voldoen aan de verplichting van artikel 20/2.<br>
+<br>
+Art. 20/2. § 1. De sportmakelaar stort een borgsom van vijfentwintigduizend euro bij een kredietinstelling of verzekeraar.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden en de nadere regels met betrekking tot de storting en de bestemming van de borgsom en de duur waarvoor de borgsom moet worden verstrekt, alsook wat er met deze borgsom gebeurt in geval van faillissement.<br>
+<br>
+§ 2. Sportmakelaars die geen zetel hebben in het Vlaamse Gewest kunnen het gelijkwaardigheidsbeginsel inroepen ten aanzien van een waarborg, volstort in een andere lidstaat.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels met betrekking tot de gelijkwaardigheid van buitenlandse waarborgen.<br>
+<br>
+Art. 20/3. Voor het verrichten van diensten van private arbeidsbemiddeling voor minderjarige sportbeoefenaars, voldoet de sportmakelaar aan volgende bijkomende voorwaarden:<br>
+1° de sportmakelaar benadert geen sportbeoefenaars jonger dan vijftien jaar, direct of indirect, met het oog op het afsluiten van een overeenkomst voor het verrichten van diensten van private arbeidsbemiddeling voor sportbeoefenaars;<br>
+2° de sportmakelaar vraagt onder geen beding een vergoeding voor het verrichten van diensten van private arbeidsbemiddeling voor een minderjarige sportbeoefenaar.<br>
+<br>
+Afdeling 2. - Voorafgaande registratie als sportmakelaar<br>
+<br>
+Art. 20/4. De sportmakelaar laat zich registreren bij de administratie.<br>
+<br>
+Art. 20/5. De registratie geldt voor onbepaalde duur.<br>
+<br>
+Art. 20/6. De Vlaamse Regering bepaalt de nadere regels inzake de procedure voor de registratie als sportmakelaar.<br>
+<br>
+Art. 20/7. De Vlaamse Regering bepaalt de gegevens die kunnen worden uitgewisseld tussen de administratie en de sportorganisaties die beschikken over een licentie of registratie als sportmakelaar.<br>
+<br>
+Afdeling 3. - Schorsing of intrekking van de registratie<br>
+<br>
+Art. 20/8. De registratie kan door de Vlaamse Regering worden geschorst of ingetrokken als:<br>
+1° de sportmakelaar de bepalingen van dit decreet of zijn uitvoeringsbesluiten niet naleeft;<br>
+2° de sportmakelaar een onherroepelijke veroordeling heeft opgelopen wegens valsheid in geschrifte of wegens misdaden en wanbedrijven als vermeld in titel VII en IX van het Strafwetboek of een gelijkaardige wetgeving in de lidstaat van vestiging, alsmede wegens de inbreuken, vermeld in artikel 24 van dit decreet.<br>
+<br>
+De Vlaamse Regering kan de registratie slechts schorsen of intrekken indien voorafgaandelijk het advies van de adviescommissie wordt ingewonnen, en de sportmakelaar door de adviescommissie en<br>
+de Vlaamse Regering wordt gehoord of daartoe minstens behoorlijk wordt opgeroepen.<br>
+<br>
+De Vlaamse Regering bepaalt de hoor- en de oproepprocedure.<br>
+<br>
+Art. 20/9. De beslissing tot schorsing of intrekking van de registratie wordt ter kennis gebracht aan de sportmakelaar.<br>
+<br>
+Art. 20/10. De voorzitter van de adviescommissie kan de feiten die wijzen op de niet-naleving van dit decreet of de uitvoeringsbesluiten en waarvan hij uit hoofde van zijn opdracht kennis krijgt, melden aan de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie.<br>
+<br>
+Art. 20/11. Vanaf de dag waarop de intrekking van de registratie van kracht wordt, mag de sportmakelaar geen nieuwe overeenkomsten meer afsluiten.<br>
+<br>
+De Vlaamse Regering kan niettemin, na advies van de adviescommissie en in het belang van de betaalde sportbeoefenaar, de sportmakelaar de toestemming verlenen de lopende overeenkomsten verder uit te voeren voor een maximumduur van zes maanden, zonder dat de overeenkomst wordt gewijzigd, hernieuwd of verlengd.<br>
+<br>
+Indien de Vlaamse Regering de in het vorige lid bedoelde toestemming niet verleent, mogen de lopende overeenkomsten niet langer worden uitgevoerd en dient de sportmakelaar zijn activiteiten onmiddellijk stop te zetten.<br>
+<br>
+Art. 20/12. Als de sportmakelaar zijn activiteiten definitief stopzet, wordt de registratie van de sportmakelaar geschrapt.".
+
+### ART 20.
+
+In hetzelfde decreet wordt afdeling 4, die bestaat uit artikel 20, vervangen door wat volgt:<br>
+"Hoofdstuk 3/2. Adviescommissie voor uitzendactiviteiten en activiteiten voor sportmakelaars<br>
+<br>
+Art. 20/13. § 1. Door de Vlaamse Regering wordt een adviescommissie voor uitzendactiviteiten en activiteiten voor sportmakelaars opgericht.<br>
+<br>
+De adviescommissie verleent de Vlaamse Regering advies inzake:<br>
+1° de aanvraag van de erkenning, de hernieuwing, de vervanging, de omzetting en de intrekking van de erkenning van het uitzendbureau;<br>
+2° de schorsing en de intrekking van de registratie van sportmakelaars.<br>
+<br>
+De Vlaamse Regering kan de opdrachten van de adviescommissie uitbreiden.<br>
+<br>
+§ 2. De adviescommissie is samengesteld uit:<br>
+1° een voorzitter;<br>
+2° een gelijk aantal vertegenwoordigers van de representatieve werkgevers- en werknemersorganisaties, die vertegenwoordigd zijn in de SERV;<br>
+3° een deskundige die onafhankelijk is van enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus en die houder is van een universitair diploma in de rechten;<br>
+4° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+5° een vertegenwoordiger van het Agentschap Sport Vlaanderen.<br>
+<br>
+De adviescommissie kan zich laten bijstaan door een deskundige op het gebied van de regelgeving omtrent sportmakelaars die onafhankelijk is van enerzijds de organisaties die in de adviescommissie vertegenwoordigd zijn en anderzijds de bureaus.<br>
+<br>
+De voorzitter en zijn plaatsvervanger zijn onafhankelijk ten opzichte van de representatieve werkgevers- en werknemersorganisaties en worden door de Vlaamse Regering benoemd. Bij afwezigheid van de voorzitter neemt zijn plaatsvervanger het voorzitterschap over.<br>
+<br>
+De leden van de adviescommissie worden door de Vlaamse Regering benoemd. De effectieve en plaatsvervangende leden van de representatieve werkgeversorganisaties en de representatieve werknemersorganisaties worden voorgedragen door de respectieve werkgevers- en werknemersorganisaties via een lijst van kandidaten. De Vlaamse Regering bepaalt de nadere regels inzake de samenstelling, de werkwijze en de vergoedingsregeling van de adviescommissie.<br>
+<br>
+Alleen de leden, vermeld in het eerste lid, 2°, zijn stemgerechtigd.<br>
+<br>
+§ 3. Er is onverenigbaarheid inzake het mandaat van lid van de adviescommissie en de hoedanigheid van bestuurder, zaakvoerder, eigenaar, aandeelhouder, lasthebber of aangestelde van een privaat arbeidsbemiddelingsbureau of uitzendbureau.<br>
+<br>
+§ 4. De adviescommissie wordt door de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie op de hoogte gebracht van de overtredingen die aanleiding kunnen geven tot weigering of intrekking van een erkenning als uitzendbureau en tot schorsing of intrekking van een registratie als sportmakelaar.".
+
 ### ART 21.
 
 In artikel 23 van hetzelfde decreet, worden de volgende wijzigingen aangebracht:<br>
@@ -133,6 +234,14 @@ In artikel 23 van hetzelfde decreet, worden de volgende wijzigingen aangebracht:
 "2° het bureau, zijn lasthebbers of aangestelden die diensten verrichten die conform het verdrag betreffende maritieme arbeid, aangenomen in Genève op 23 februari 2006, verboden zijn;";<br>
 2° er wordt een punt 15° toegevoegd, dat luidt als volgt:<br>
 "15° het bureau dat gebruikmaakt van middelen, mechanismen of lijsten om vissers te verhinderen werk te vinden.".
+
+### ART 22.
+
+Aan artikel 24 van hetzelfde decreet, gewijzigd bij het decreet van 8 juni 2018, worden een punt 20° tot en met 23° toegevoegd, die luiden als volgt:<br>
+"20° iedere persoon, zijn lasthebbers of aangestelden, die een bureau als sportmakelaar uitbaten dat niet voorafgaandelijk geregistreerd is;<br>
+21° het bureau, zijn lasthebbers of aangestelden, die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars samenwerken met een bureau dat niet voorafgaandelijk geregistreerd is;<br>
+22° het bureau, zijn lasthebbers of aangestelden, die na de schorsing of intrekking van de registratie nog activiteiten als sportmakelaar uitoefenen;<br>
+23° de werkgever die voor de arbeidsbemiddeling met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars wetens en willens een beroep doet op een bureau dat niet voorafgaandelijk geregistreerd is.".
 
 ## HOOFDSTUK 7. Slotbepalingen
 
