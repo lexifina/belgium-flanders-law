@@ -12,7 +12,18 @@ Dit besluit van de Vlaamse regering voorziet in de omzetting van de Richtlijn 20
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   10 december 2010 betreffende de private arbeidsbemiddeling;<BR>2° uitzendarbeid   : de tewerkstelling, vermeld in artikel 3, 1°, c), van het decreet;<BR>3°   outplacementactiviteiten : een vorm van arbeidsbemiddeling waarbij begeleidende   adviezen en diensten in opdracht en op kosten van een werkgever aan een   ontslagen of met ontslag bedreigde werknemer worden verstrekt om deze in staat   te stellen zo vlug mogelijk een betrekking bij een nieuwe werkgever te vinden of   een beroepsactiviteit als zelfstandige te ontplooien;<BR>4° werving en   selectieactiviteiten : diensten als vermeld in artikel 3, 1°, b), van het   decreet;<BR>5° de minister : de Vlaamse minister bevoegd voor het   tewerkstellingsbeleid;<BR>6° beroepsfederatie : de meest representatieve   beroepsfederatie(s) in de door de SERV vastgestelde sector, die erkend zijn door   de minister, na advies van de SERV;<BR>7° protocolakkoord : een   samenwerkingsovereenkomst, na advies van de adviescommissie, tussen de minister   en de respectieve beroepsfederaties in verband met het verstrekken door de   beroepsfederaties van relevante arbeidsmarktinformatie. In een protocolakkoord   worden onder meer gegevens vastgelegd die inspelen op de afstemming tussen vraag   en aanbod, gegevens met betrekking tot de werkzoekenden en een vacature-analyse   omvattende gegevens met betrekking tot de kenmerken van de vacatures, het   verloop van de invulling, de effectieve invulling, de kwaliteit van de arbeid,   de aanbodzijde en de vormingsbehoeften;<BR>8° bouwsector : de ondernemingen die   ressorteren onder het Paritair Comité voor het Bouwbedrijf;<BR>9° artistieke   sector : de personen, de verenigingen in rechte of in feite of ondernemingen   actief in de creatie en/of uitvoering of interpretatie van artistieke oeuvres in   de audiovisuele en de beeldende kunsten, in de muziek, de literatuur, het   spektakel, het theater en de choreografie. De prestaties die uitgevoerd worden   door podiumtechnici, kunnen daarmee worden gelijkgesteld;<BR>10° administratie:   het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie;<BR>11° de adviescommissie : de adviescommissie voor   uitzendactiviteiten, opgericht bij het decreet van 10 december 2010 betreffende   de private arbeidsbemiddeling.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<br>
+2° uitzendarbeid : de tewerkstelling, vermeld in artikel 3, 1°, c), van het decreet;<br>
+3° outplacementactiviteiten : een vorm van arbeidsbemiddeling waarbij begeleidende adviezen en diensten in opdracht en op kosten van een werkgever aan een ontslagen of met ontslag bedreigde werknemer worden verstrekt om deze in staat te stellen zo vlug mogelijk een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien;<br>
+4° werving en selectieactiviteiten : diensten als vermeld in artikel 3, 1°, b), van het decreet;<br>
+5° de minister : de Vlaamse minister bevoegd voor het tewerkstellingsbeleid;<br>
+6° beroepsfederatie : de meest representatieve beroepsfederatie(s) in de door de SERV vastgestelde sector, die erkend zijn door de minister, na advies van de SERV;<br>
+7° protocolakkoord : een samenwerkingsovereenkomst, na advies van de adviescommissie, tussen de minister en de respectieve beroepsfederaties in verband met het verstrekken door de beroepsfederaties van relevante arbeidsmarktinformatie. In een protocolakkoord worden onder meer gegevens vastgelegd die inspelen op de afstemming tussen vraag en aanbod, gegevens met betrekking tot de werkzoekenden en een vacature-analyse omvattende gegevens met betrekking tot de kenmerken van de vacatures, het verloop van de invulling, de effectieve invulling, de kwaliteit van de arbeid, de aanbodzijde en de vormingsbehoeften;<br>
+8° bouwsector : de ondernemingen die ressorteren onder het Paritair Comité voor het Bouwbedrijf;<br>
+9° artistieke sector : de personen, de verenigingen in rechte of in feite of ondernemingen actief in de creatie en/of uitvoering of interpretatie van artistieke oeuvres in de audiovisuele en de beeldende kunsten, in de muziek, de literatuur, het spektakel, het theater en de choreografie. De prestaties die uitgevoerd worden door podiumtechnici, kunnen daarmee worden gelijkgesteld;<br>
+10° administratie: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+11° adviescommissie: de adviescommissie, vermeld in 20/13 van het decreet.
 
 ## HOOFDSTUK 2. Algemene bepalingen inzake arbeidsbemiddeling
 
@@ -78,11 +89,94 @@ De minister kan de hoor- en oproepprocedure inzake de hernieuwing, intrekking, v
 
 ## [Afdeling 1. Voorwaarden tot registratie (ing. BVR 7 juni 2019, art. 2, I: 11 juni 2019)]
 
+### ART 13/1.
+
+§ 1. Overeenkomstig artikel 20/1, § 1, van het decreet is een voorafgaande registratie als sportmakelaar vereist om diensten van private arbeidsbemiddeling voor sportbeoefenaars of voor rekening van werkgevers met het oog op het afsluiten van een arbeidsovereenkomst voor betaalde sportbeoefenaars te verrichten.<br>
+<br>
+§ 2. Overeenkomstig artikel 20/1, § 2, 3°, van het decreet vermeldt de sportmakelaar zijn registratienummer bij externe communicatie, ongeacht in welke vorm.<br>
+<br>
+In het eerste lid wordt verstaan onder externe communicatie: al de volgende gegevensbronnen, ongeacht in welke vorm:<br>
+1° overeenkomsten;<br>
+2° offertes;<br>
+3° facturen;<br>
+4° briefwisseling;<br>
+5° e-mailverkeer;<br>
+6° advertenties die worden gepubliceerd via geschreven of visuele media;<br>
+7° websites.<br>
+<br>
+§ 3. De sportmakelaar die zijn maatschappelijke zetel buiten het Vlaamse Gewest heeft of die als natuurlijke persoon kantoor houdt buiten het Vlaamse Gewest, houdt voor een administratieve controle de documenten en stukken die door de wet zijn vereist, en ook de documenten en de stukken die met de uitoefening van de activiteiten in het Vlaamse Gewest verband houden, op verzoek van de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie naar eigen keuze ter beschikking op een van de volgende locaties:<br>
+1° op de plaats in het Vlaamse Gewest waar de diensten worden verricht;<br>
+2° op een adres in het Vlaamse Gewest die door het bureau is aangewezen.
+
+### ART 13/2.
+
+§ 1. Conform artikel 20/2 van het decreet stelt de sportmakelaar een waarborg van vijfentwintigduizend euro bij een financiële instelling of verzekeraar.<br>
+<br>
+§ 2. Uiterlijk dertig dagen na de registratie levert de sportmakelaar aan de administratie het bewijs dat de waarborg is gestort.<br>
+<br>
+§ 3. Sportmakelaars die geen zetel in België hebben, kunnen het gelijkwaardigheidsbeginsel inroepen van de waarborg die is gestort in een andere lidstaat.<br>
+<br>
+In dat geval bewijst de sportmakelaar de gelijkwaardigheid, met betrekking tot het doel en de dekking die de waarborg biedt wat het verzekerde risico en de verzekerde som betreft.<br>
+<br>
+De administratie beoordeelt de gelijkwaardigheid van de buitenlandse waarborg.<br>
+<br>
+§ 4. De waarborg blijft geblokkeerd gedurende de volledige periode van de registratie.<br>
+<br>
+Als de registratie wordt ingetrokken conform artikel 20/8 van het decreet, of als de activiteiten vrijwillig definitief worden stopgezet conform artikel 20/12 van het decreet, gaat de administratie na of er nog bedragen verschuldigd zijn aan de administratie. Als dat het geval is, wordt het bedrag van de borgsom gebruikt voor de aanzuivering van die schuldvorderingen. Het resterende bedrag wordt teruggestort.
+
 ## [Afdeling 2. Registratieprocedure (ing. BVR 7 juni 2019, art. 2, I: 11 juni 2019)]
+
+### ART 13/3.
+
+De sportmakelaar registreert zich bij de administratie via een registratieformulier dat de administratie ter beschikking stelt.
+
+### ART 13/4.
+
+De registratie bevat al de volgende gegevens:<br>
+1° de voornaam en naam, of de benaming van de firma;<br>
+2° het adres van de maatschappelijke zetel, en in voorkomend geval het adres van de vestigingen in het Vlaamse Gewest;<br>
+3° de rechtsvorm;<br>
+4° de datum van de oprichting van het bureau;<br>
+5° de sporttakken waarin het bureau arbeidsbemiddelingsdiensten zal verrichten.
+
+### ART 13/5.
+
+De administratie publiceert een lijst van de geregistreerde sportmakelaars, die al de volgende gegevens vermeldt:<br>
+1° de voornaam en naam, of de benaming van de firma;<br>
+2° het adres van de maatschappelijke zetel;<br>
+3° indien de maatschappelijke zetel zich buiten het Vlaams Gewest bevindt maar de onderneming wel een vestigingseenheid heeft in het Vlaams Gewest, het adres van de vestigingseenheid in het Vlaams Gewest;<br>
+4° de rechtsvorm;<br>
+5° het registratienummer;<br>
+6° het ondernemingsnummer van de firma.
 
 ## [Afdeling 3. Gegevensuitwisseling met de sportorganisaties (ing. BVR 7 juni 2019, art. 2, I: 11 juni 2019)]
 
+### ART 13/6.
+
+De sportorganisatie die gevestigd is op het Belgische grondgebied, en die een licentie als sportmakelaar uitvaardigt of waarbij een sportmakelaar zich kan laten registreren, bezorgt de afdeling Vlaamse Sociale Inspectie van het Departement Werk en Sociale Economie op diens verzoek de volgende gegevens, in zoverre zij de Vlaamse Sociale Inspectie kunnen aanbelangen bij de uitoefening van het toezicht waarmee zij is belast:<br>
+1° de namen van alle bij haar gelicentieerde of geregistreerde sportmakelaars;<br>
+2° in voorkomend geval, het overzicht van alle bij haar geregistreerde transacties waarbij sportmakelaars zijn betrokken;<br>
+3° het overzicht van de sportmakelaars aan wie ze een sanctie hebben opgelegd, met vermelding van het type sanctie en de motivering voor de oplegging van die sanctie.<br>
+<br>
+De gegevensuitwisseling, vermeld in het eerste lid, wordt tot stand gebracht met het oog op het toezicht op de naleving van de voorwaarden inzake de activiteiten voor sportmakelaars, zoals bepaald in het decreet en dit besluit.
+
 ## [Afdeling 4. Procedure voor de schorsing of intrekking van de registratie van de sportmakelaar (ing. BVR 7 juni 2019, art. 2, I: 11 juni 2019)]
+
+### ART 13/7.
+
+§ 1. De sportmakelaar wordt minstens tien kalenderdagen voor de hoorzitting opgeroepen door de adviescommissie. De uitnodiging vermeldt in het kort de reden van de oproeping, alsmede de plaats, de dag en het uur van de zitting.<br>
+<br>
+De adviescommissie brengt de minister binnen een termijn van veertien kalenderdagen op de hoogte van de uitgebrachte adviezen.<br>
+<br>
+De minister beslist, na het advies van de adviescommissie, over de schorsing van de registratie voor een periode van maximaal een jaar. De beslissing van de minister wordt door de administratie aan de sportmakelaar meegedeeld.<br>
+<br>
+Na afloop van de termijn, vermeld in het derde lid, en als de sportmakelaar zich niet heeft gehouden aan de voorwaarden van de beslissing tot opschorting van de registratie, wordt de registratie ingetrokken conform de procedure, vermeld in paragraaf 2.<br>
+<br>
+§ 2. De minister beslist na het advies van de adviescommissie over de intrekking van de registratie. De sportmakelaar wordt minstens tien kalenderdagen voor de hoorzitting opgeroepen door de adviescommissie. De uitnodiging vermeldt in het kort de reden van de oproeping, alsmede de plaats, de dag en het uur van de zitting.<br>
+<br>
+De adviescommissie brengt de minister binnen een termijn van veertien kalenderdagen op de hoogte van de uitgebrachte adviezen.<br>
+<br>
+De beslissing van de minister wordt door de administratie aan de sportmakelaar meegedeeld.
 
 ## HOOFDSTUK 5. Klachtenprocedure
 
@@ -136,6 +230,18 @@ De adviescommissie kan een beroep doen op externe deskundigen en permanente of t
 Het bureau verbindt er zich toe de diensten inzake private arbeidsbemiddeling te verrichten conform de gedragscodes, opgenomen in de bijlagen 2, 3 en 4 die bij dit besluit zijn gevoegd.<br /><br />Die gedragscodes zijn slechts van toepassing bij ontstentenis van gelijkwaardige gedragscodes, opgesteld door de respectieve beroepsfederaties.<br /><br />De minister stelt de gelijkwaardigheid vast, na het advies van de adviescommissie.
 
 ## [HOOFDSTUK 8/1. Bepalingen inzake gegevensverwerking (ing. BVR 7 juni 2019, art. 4, I: 11 juni 2019)]
+
+### ART 19/1.
+
+De administratie treedt op als de verwerkingsverantwoordelijke van persoonsgegevens, zoals bedoeld in artikel 4, 7), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming), hierna de algemene verordening gegevensbescherming te noemen, voor de verwerking van persoonsgegevens in het kader van de erkenning als uitzendbureau en de registratie als sportmakelaar.
+
+### ART 19/2.
+
+Onverminderd artikel 32 van de algemene verordening gegevensbescherming, worden de persoonsgegevens beveiligd volgens de dataclassificatie en de richtlijnen van het stuurorgaan Vlaams Informatie- en ICT-beleid, overeenkomstig artikel 3, tweede lid, 3°, van het decreet van 23 december 2016 houdende de oprichting van het stuurorgaan Vlaams Informatie- en ICT-beleid.
+
+### ART 19/3.
+
+De persoonsgegevens die overeenkomstig dit besluit worden opgevraagd, worden slechts zo lang bewaard als nodig voor het toekennen van de erkenning als uitzendbureau, de registratie als sportmakelaar en het toezicht op de naleving van de bepalingen van het decreet en dit besluit.
 
 ## HOOFDSTUK 9. Wijzigingsbepalingen
 
