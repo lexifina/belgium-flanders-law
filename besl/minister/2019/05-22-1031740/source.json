@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031740,
+  "title": "Ministerieel besluit van 2019-05-22 tot vaststelling van het model van de oproepingsbrief voor de buitengewone gemeenteraadsverkiezing van 16 juni 2019 in Bilzen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031740/VolledigDocument?datum=2019-06-13",
+  "source_sha256": "4d848acfaca791d690b761766ca1661273e1adc0d2683bdb5a5d9c6656845682",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031740&param=informatie",
+  "as_of": "2019-06-13",
+  "made": "2019-05-22",
+  "gazette": "2019-05-31",
+  "numac": 2019012945,
+  "document_start": "2019-06-13",
+  "document_end": null,
+  "in_force": "2019-06-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2019-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
