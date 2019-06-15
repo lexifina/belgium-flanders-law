@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031785,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 13 juni 2008 betreffende de verzekering gewaarborgd wonen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031785/VolledigDocument?datum=2019-06-15",
+  "source_sha256": "ca10fb0c0e848fb1feb4c74095df893d1bcfecf51b84886318c62a133bede083",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031785&param=informatie",
+  "as_of": "2019-06-15",
+  "made": "2019-05-24",
+  "gazette": "2019-06-14",
+  "numac": 2019013189,
+  "document_start": "2019-06-15",
+  "document_end": null,
+  "in_force": "2019-06-15",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2019-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
