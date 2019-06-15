@@ -30,13 +30,16 @@ c) een middendrukleiding, categorie A of B, is aanwezig langs de openbare weg te
 8°/3 achterliggende netgebruiker : natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een gesloten distributienet of een privédistributienet;<br>
 9° actieverplichting : een door de Vlaamse Regering aan de netbeheerders in het kader van een openbaredienstverplichting opgelegde REG-actie;<br>
 9°/1 aerothermische energie : energie die in de vorm van warmte is opgeslagen in de omgevingslucht;<br>
+9° /2 afgeleide persoonsgegevens: persoonsgegevens die afgeleid kunnen worden uit de persoonsgegevens die in het kader van dit decreet verzameld worden;<br>
 10° afnamepunt : punt waar elektriciteit of aardgas van het net wordt afgenomen en verbruikt;<br>
 10° /1 afnamepunt voor thermische energie: punt waar thermische energie van het warmte- of koudenet wordt afgenomen en verbruikt;<br>
 11° afnemer : elke natuurlijke persoon of rechtspersoon die elektriciteit of aardgas afneemt om te voorzien in zijn eigen behoeftes;<br>
 11° /1 afnemer van thermische energie: elke natuurlijke persoon of rechtspersoon die thermische energie afneemt om te voorzien in zijn eigen behoeftes;<br>
 12° afsluiten : het buiten dienst stellen van de aansluiting of het ontzeggen van de toegang tot het net door de aansluiting af te koppelen van de installaties van de afnemer;<br>
 12/1° aggregator: dienstenverrichter die meerdere capaciteiten voor afname, consumptie, productie of injectie combineert om in georganiseerde energiemarkten te verkopen of te veilen;<br>
+12° /2 algemene verordening gegevensbescherming: de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG ("algemene verordening gegevensbescherming" of "AVG");<br>
 13° allocatie : toewijzing van energiehoeveelheden aan de verschillende marktpartijen;<br>
+13° /0 analoge meter: meter die op een elektromechanische manier energiestromen meet en registreert;<br>
 13° /1 bandingdeler : de bandingdeler is gelijk aan :<br>
 a) 97 euro per groenestroomcertificaat voor de berekening van de bandingfactor voor de toekenning van groenestroomcertificaten;<br>
 b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor voor de toekenning van warmte-krachtcertificaten;<br>
@@ -60,6 +63,7 @@ b) 35 euro per warmte-krachtcertificaat voor de berekening van de bandingfactor 
 24° budgetmeter voor aardgas: aardgasmeter met hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25° budgetmeter voor elektriciteit: elektriciteitsmeter met begrenzer en hulpkrediet die toelaat te werken via een systeem van voorafbetaling in het kader van een aan de netbeheerder opgelegde openbaredienstverplichting inzake de bescherming van huishoudelijke afnemers bij wanbetaling;<br>
 25°/1 datum van indienstneming : datum waarop een productie-installatie voor het eerst in dienst werd genomen of datum waarop een warmte-krachtinstallatie ingrijpend gewijzigd werd. Voor groenestroominstallaties is dit de datum waarop de productie-installatie voor het eerst elektriciteit uit een hernieuwbare energiebron produceerde. Voor warmte-krachtinstallaties is dat de datum waarop de eerste gelijktijdige productie van elektriciteit of mechanische energie, en nuttige warmte plaatsvond, of de datum waarop de laatste ingrijpende wijziging voor het eerst gelijktijdig elektriciteit of mechanische energie, en nuttige warmte produceerde;<br>
+25° /2 digitale meter: een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden zodat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br>
 26° directe lijn : een elektriciteitslijn met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, die een productieinstallatie met een afnemer verbindt;<br>
 27° directe leiding : elke leiding voor aardgasdistributie die geen deel uitmaakt van een aardgasdistributienet;<br>
 28° distributie : de activiteit die erin bestaat elektriciteit via elektrische lijnen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, of aardgas via plaatselijke aardgasleidingen te brengen tot bij afnemers, de levering zelf niet inbegrepen;<br>
@@ -73,7 +77,7 @@ c) het transmissienet;<br>
 31° eindverbruiksector : ondernemingen en particulieren die energie afnemen of produceren om geheel of overwegend in de eigen energiebehoefte te voorzien;<br>
 32° elektriciteitsdistributienet : geheel van onderling verbonden elektrische leidingen met een nominale spanning die gelijk is aan of minder is dan 70 kilovolt, en de bijbehorende installaties, die noodzakelijk zijn voor de distributie van elektriciteit aan afnemers binnen een geografisch afgebakend gebied in het Vlaamse Gewest, dat geen gesloten distributienet, privédistributienet of directe lijn is;<br>
 33° elektriciteitsdistributienetbeheerder : beheerder van een elektriciteitsdistributienet, aangewezen overeenkomstig artikel 4.1.1;<br>
-34° ...<br>
+34° elektronische meter: een meter die op een digitale manier energiestromen meet en registreert en die al dan niet uitgerust is met een communicatiemiddel dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden;<br>
 35° ...<br>
 36° ...<br>
 37° energiebeleidsovereenkomst : iedere overeenkomst tussen het Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en een andere partij, waarbij die andere partij zich engageert om binnen een afgesproken termijn een vooropgestelde verbetering inzake energie-efficiëntie te behalen of te stimuleren, tot de wereldtop inzake energie-efficiëntie in haar sector te behoren of een bepaald percentage van het energieverbruik te dekken met behulp van hernieuwbare energietechnologieën of daarvoor stimulansen te verstrekken;<br>
@@ -101,6 +105,7 @@ g) informatie bezorgen die niet consistent of in overeenstemming met de werkelij
 47/1° EPB-eenheid: elke eenheid van aangrenzende lokalen die in hetzelfde gebouw liggen, die het voorwerp zijn van werken van dezelfde aard, die ontworpen of aangepast zijn om afzonderlijk te worden gebruikt en die ten hoogste één wooneenheid bevatten;<br>
 48° EPB-eisen : eisen op het vlak van de energieprestaties en het binnenklimaat, dat wil zeggen het geheel van voorwaarden waaraan een gebouw, een technisch bouwsysteem of de constructieonderdelen inzake energetische prestaties, thermische isolatie, binnenklimaat, systeemeisen en ventilatie moet voldoen;<br>
 49° erkende instelling voor schuldbemiddeling : instelling die erkend is volgens het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling;<br>
+49° /1 ESCO: een natuurlijk persoon of rechtspersoon die in de inrichtingen of gebouwen van een netgebruiker energiediensten of andere maatregelen ter verbetering van de energie-efficiëntie levert waarbij de terugbetaling van de investering gebeurt op basis van de terugverdientijd van de investering;<br>
 50° evenwichtsverantwoordelijke : rechtspersoon die een contract heeft afgesloten met de beheerder van het transmissienet met betrekking tot de transmissie van elektriciteit tussen een of meer injectiepunten en afnamepunten en die voor een geheel van toegangspunten zorg draagt voor het evenwicht tussen de injectie en de afname van elektriciteit op die toegangspunten;<br>
 51° federale Elektriciteitswet: de wet van 29 april 1999 betreffende de organisatie van de elektriciteitsmarkt;<br>
 53° garantie van oorsprong: uniek, verhandelbaar en overdraagbaar elektronisch document dat uitsluitend tot doel heeft om aan de eindafnemer aan te tonen uit welke energiebron een bepaalde hoeveelheid energie geproduceerd is;<br>
@@ -128,6 +133,7 @@ b) het distribueert primair elektriciteit of aardgas aan de eigenaar of beheerde
 64° heffingsjaar : het kalenderjaar waarvoor de heffing, vermeld in titel XIV, is verschuldigd;<br>
 65° hernieuwbare energiebronnen : hernieuwbare niet-fossiele en niet-nucleaire energiebronnen, met name wind, zon, aerothermische, geothermische, hydrothermische energie en energie uit de oceanen, waterkracht, biomassa, stortgas, gas van rioolwaterzuiveringsinstallaties en biogas;<br>
 66° hernieuwbare energietechnologieën : technologieën die gebruikmaken van hernieuwbare energiebronnen;<br>
+66° /0 hoofdmeter: analoge meter, elektronische meter of digitale meter die energiestromen minstens meet en weergeeft en als eerste meter op een toegangspunt is aangesloten;<br>
 66° /1 hoogspanning: een nominaal spanningsniveau van 30 kilovolt of hoger;<br>
 67° huishoudelijke afnemer : elke natuurlijke persoon aangesloten op een aardgasdistributienet of een elektriciteitsdistributienet op een spanning gelijk aan 1 000 volt of minder, die elektriciteit of aardgas afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit respectievelijk aardgas op het afnamepunt in kwestie werd gesloten door een onderneming, als vermeld in artikel I.4, 1°, van het Wetboek van Economisch Recht;<br>
 67° /1 huishoudelijke afnemer van thermische energie: elke natuurlijke persoon die thermische energie afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn;<br>
@@ -163,8 +169,9 @@ en dat binnen het scala van prestatieniveaus ligt waar de berekende kosten-baten
 a) 31 juli;<br>
 b) ...;<br>
 80° m3(n) : de hoeveelheid gas die, bij een temperatuur van nul graden Celsius en onder absolute druk van 1,01325 bar, een volume van één kubieke meter inneemt;<br>
-81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, leverancier, tussenpersoon, bevrachter of evenwichtsverantwoordelijke;<br>
+81° marktpartij : producent, aardgasinvoerder, distributienetbeheerder, beheerder van het plaatselijk vervoernet van elektriciteit, beheerder van het transmissienet, de beheerder van het vervoernet, werkmaatschappij, aanbieder van energiediensten, leverancier, tussenpersoon, bevrachter of evenwichtsverantwoordelijke;<br>
 82° marktintroductieproject : project voor het installeren en monitoren van het gebruik van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën die nog niet ruim verspreid zijn in het Vlaamse Gewest, door een particulier, een niet-commerciële instelling, een publiekrechtelijke persoon of een onderneming, die niet de ontwikkelaar, fabrikant of distributeur ervan is;<br>
+82° /1 meetgegevens: gegevens die verkregen worden door of gebaseerd zijn op een telling of meting door middel van een meetinrichting;<br>
 83° melding : de verplichte melding van de handelingen aan het college van burgemeester en schepenen, vermeld in artikel 4.2.2 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br>
 84° met een onderneming geassocieerde ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders, waarin de onderneming een deelneming bezit en waarin ze een invloed van betekenis uitoefent op de oriëntatie van het beleid; behoudens tegenbewijs wordt een invloed van betekenis vermoed als de stemrechten die aan deze deelneming verbonden zijn één vijfde of meer vertegenwoordigen van het totaal aantal stemrechten van de aandeel-houders of vennoten van deze ondernemingen;<br>
 85° met een onderneming verbonden ondernemingen : de ondernemingen, met uitsluiting van de gemeenten en de netbeheerders :<br>
@@ -183,6 +190,7 @@ c) beantwoorden aan het zelfstandigheidscriterium;<br>
 90° netbeheerder : een elektriciteitsdistributienetbeheerder, een aardgasdistributienetbeheerder of de beheerder van het plaatselijk vervoernet van elektriciteit;<br>
 91° neteigenaar : eigenaar van een net;<br>
 91°/1 netgebruiker : een natuurlijke persoon of rechtspersoon die elektriciteit of aardgas injecteert op of afneemt van een distributienet;<br>
+91° /2 netto-afname: de afname op een toegangspunt verminderd met de injectie van een productie-installatie aangesloten op hetzelfde toegangspunt;<br>
 92° niet-commerciële instellingen : scholen, universiteiten, verzorgingsinstellingen en andere gemeenschapsdiensten, verenigingen van mede-eigenaars, kerkfabrieken, verenigingen zonder winstoogmerk en feitelijke verenigingen die een filantropisch, wetenschappelijk, technisch of pedagogisch doel nastreven op het gebied van energie, milieubescherming of bestrijding van sociale uitsluiting;<br>
 92° /1/1 nieuwe groenestroominstallatie: een nieuw opgerichte installatie die volledig zelfstandig en onafhankelijk elektriciteit uit hernieuwbare energiebronnen opwekt, en waarbij de noodzakelijke onderdelen van de installatie nog niet eerder gebruikt zijn in een groenestroominstallatie;<br>
 92° /1/2 nieuwe productie-installatie: een nieuwe groenestroominstallatie of een nieuwe warmte-krachtinstallatie;<br>
@@ -209,27 +217,27 @@ e) in het geval van een onderneming die geen kmo is: wanneer de afgelopen twee j
 97° /1 peil van de energetische prestatie van de schil (of S-peil): peil dat de energetische prestatie van de schil van de EPB-eenheid weergeeft zoals vastgelegd door de Vlaamse Regering;<br>
 98° peil van globale warmte-isolatie (of K-peil) : peil van de globale warmte-isolatie zoals dat gedefinieerd is volgens de Belgische norm of de door de Vlaamse overheid vastgelegde specificaties;<br>
 99° peil van primair energieverbruik (of E-peil) : peil dat de globale energetische prestatie weergeeft en uitgedrukt wordt door de verhouding van het karakteristiek jaarlijks primair energieverbruik tot een referentiewaarde;<br>
+99° /1 persoonsgegevens: persoonsgegevens, vermeld in artikel 4, 1), van de algemene verordening gegevensbescherming;<br>
 100° plaatselijk vervoernet van elektriciteit : het geheel van elektrische leidingen met een nominale spanning tot en met 70 kilovolt en de bijbehorende installaties, die gelegen zijn in het Vlaamse Gewest, dat voornamelijk gebruikt wordt om het vervoer van elektriciteit naar distributienetten mogelijk te maken en dat wordt vastgesteld overeenkomstig artikel 4.1.2;<br>
 100/1° primaire energie: energie uit hernieuwbare en niet-hernieuwbare bronnen die geen omzetting of transformatie heeft ondergaan;<br>
 101° primair energieverbruik : de totale hoeveelheid energie die Vlaanderen nodig heeft om aan de energiebehoefte te voldoen;<br>
-101/1° privacywetgeving:<br>
-a) wet van 8 december 1992 voor de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens en diens uitvoeringsbesluiten;<br>
-b) decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer;<br>
+101/1° ...<br>
 101°/2 privédistributienet : een elektriciteitslijn, aardgasleiding of net voor distributie van elektriciteit of aardgas dat niet wordt uitgebaat door een door de VREG aangewezen distributienetbeheerder noch door de beheerder van het plaatselijk vervoersnet, en dat geen gesloten distributienet, directe lijn of directe leiding is;<br>
-102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint;<br>
+102° producent : iedere natuurlijke persoon of rechtspersoon die elektriciteit opwekt, biogas produceert en/of aardgas wint, met uitsluiting van prosumenten;<br>
 103° promotor-bouwheer : een natuurlijke persoon of rechtspersoon die als geregelde werkzaamheid heeft om gebouwen op te richten, te laten oprichten of te verbouwen om ze onder bezwarende titel te vervreemden;<br>
-104° ...<br>
+104° prosument: elektriciteitsdistributienetgebruiker met toegangspunt voor afname, al dan niet rechtstreeks op een transformator aangesloten, en met een decentrale productie-eenheid met een maximaal AC-vermogen kleiner dan of gelijk aan 10 kVA die hem in staat stelt elektriciteit te injecteren op het elektriciteitsdistributienet;<br>
 105° rationeel energiebeheer : het geheel van handelingen die ondernomen worden om het energiegebruik te meten, te analyseren, te verminderen en te volgen met het oog op het verkrijgen van een rationeel energiegebruik, met inbegrip van het volgen van vormingsactiviteiten rond rationeel energiegebruik en het ondernemen van haalbaarheidsstudies voor de installatie van een energiezuinig product, systeem of een energiezuinige techniek;<br>
 106° rationeel energiegebruik : het zo efficiënt mogelijke gebruik van energie;<br>
 107° reconciliatie : onderlinge verrekening tussen marktpartijen op basis van het verschil tussen gealloceerde en werkelijk gemeten energiehoeveelheden;<br>
 108° ...<br>
 109° referentieproject : project voor het installeren en monitoren bij een eerste gebruiker, die niet de ontwikkelaar, fabrikant of distributeur is, van voor het Vlaamse Gewest nieuwe energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën of van voor het Vlaamse Gewest nieuwe toepassingen van energiezuinige producten, technieken, systemen of hernieuwbare energietechnologieën door de ontwikkelaar, fabrikant of distributeur ervan;<br>
 110° REG-actieplan : actieplan voor de bevordering van het rationeel energiegebruik, waarbij de acties minstens bestaan uit het geven van een financiële stimulans aan de afnemers voor het uitvoeren van maatregelen en uit het verlenen van informatie, waardoor de aandacht op de actie wordt gevestigd en de doelgroep de nodige informatie krijgt over de besparingsmogelijkheden ervan;<br>
+110° /1 relationele gegevens: gegevens die betrekking hebben op de verhouding tussen de netgebruiker en een marktpartij of tussen marktpartijen onderling;<br>
 111° rendabele investeringen : investeringen met een interne rentevoet na belastingen die hoger is dan een minimum, dat vastgelegd is door de Vlaamse Regering;<br>
 111° /1 residentiële afnemer: elke natuurlijke persoon aangesloten op een elektriciteitsdistributienet op laagspanning, die elektriciteit afneemt om te voorzien in zijn behoeften of die van de personen die samen met hem in de woning in kwestie gedomicilieerd zijn, behoudens in het geval dat het leveringscontract voor de levering van elektriciteit op het afnamepunt in kwestie werd gesloten door een onderneming, zoals bedoeld in artikel I.4, 1°, van het Wetboek van Economisch Recht;<br>
 112° richtlijn 2010/31/EU : richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen;<br>
 113° richtlijn 2009/28/EG: de richtlijn 2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van richtlijn 2001/77/EG en richtlijn 2003/30/EG;<br>
-113°/1 slimme meter : een elektronische meter die energiestromen en aanverwante fysische grootheden meet en registreert en die uitgerust is met een tweerichtingscommunicatiemiddel, dat ervoor zorgt dat de gegevens niet alleen lokaal, maar ook op afstand uitgelezen kunnen worden en dat de meter in staat is om op basis van de gegevens die hij lokaal of van op afstand ontvangt bepaalde acties uit te voeren;<br>
+113°/1 ...<br>
 113/1/1° SPF: de seizoensprestatiefactor van een warmtepomp;<br>
 113/1/1° stadsverwarming of -koeling: de distributie van thermische energie in de vorm van stoom, warm water of gekoelde vloeistoffen vanuit een centrale productie-installatie via een netwerk dat verbonden is met meerdere gebouwen of locaties, voor het verwarmen of koelen van ruimten of processen;<br>
 113° /2 startdatum : voor wat betreft projecten die niet over een omgevingsvergunning dienen te beschikken, de datum van indienstneming van de installatie;<br>
@@ -241,10 +249,12 @@ c) er zijn voor installaties op basis van zonne-energie minstens twaalf maanden 
 114° startverklaring : een schriftelijke verklaring met de startdatum van de werkzaamheden en het overzicht van de prestaties inzake EPB-eisen die voor het gebouw worden nagestreefd;<br>
 114/1° ...;<br>
 114° /2 storing : elke overschrijding van de norm NBN EN 50160 in de elektriciteitstoevoer of elke afwijking van de toegelaten drukniveaus van het aardgasdistributienet;<br>
+114° /3 submeter: meter die stroomafwaarts van de hoofdmeter opgesteld is en energiestromen in een beperkt deel van een energienetwerk kan meten en registreren;<br>
 115° subsidieovereenkomst : een overeenkomst waarin de rechten en de verplichtingen van de Vlaamse Regering en van de begunstigde van de subsidie worden geregeld;<br>
 115/1° systeemeisen : eisen in verband met de totale energieprestatie, het adequaat installeren, dimensioneren, afstellen en controleren van de technische bouwsystemen die in nieuwe gebouwen worden geïnstalleerd of in bestaande gebouwen nieuw worden geïnstalleerd, vervangen of verbeterd;<br>
-115° /1/1 tariefdrager: objectieve, meetbare eenheid waarvoor er een distributienettarief bestaat;<br>
+115° /1/1 tariefdrager: objectieve, meetbare eenheid waarop een distributienettarief berekend wordt;<br>
 115/2° technisch bouwsysteem : de installaties voor energieopwekking, ruimteverwarming, bereiding van sanitair warm water, koeling, ventilatie en verlichting of een combinatie daarvan;<br>
+115° /3 technische gegevens: gegevens die de aansluiting of de technische toestand en specificaties van de meter voor elektriciteit of de meter voor aardgas omschrijven;<br>
 116° technische reglementen : het technisch reglement distributie elektriciteit, het technisch reglement distributie gas en het technisch reglement plaatselijk vervoer van elektriciteit;<br>
 117° technisch reglement distributie elektriciteit : de technische en operationele regels die verbonden zijn aan het beheer van het elektriciteitsdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br>
 118° technisch reglement distributie gas : de technische en operationele regels die verbonden zijn aan het beheer van het aardgasdistributienet, inclusief de regels inzake aansluiting, meting en toegang, vermeld in artikel 4.2.1;<br>
@@ -1112,7 +1122,22 @@ De technische reglementen treden pas in werking na bekendmaking in het Belgisch 
 
 ### ART. 4.3.1.
 
-§ 1. De levering van elektriciteit en aardgas via het distributienet of het plaatselijk vervoersnet van elektriciteit, aan afnemers, is onderworpen aan de voorafgaande toekenning van een leveringsvergunning door de VREG of aan de eisen, gesteld door een andere lidstaat van de Europese Economische Ruimte, de federale overheid of een andere gewestelijke bevoegde overheid in verband met de levering van elektriciteit of aardgas.<br /><br />De levering van elektriciteit en aardgas door een netbeheerder in het kader van zijn taken, vermeld in artikel 4.1.6, of een openbaredienstverplichting die opgelegd is in dit decreet of een uitvoeringsbesluit ervan, is niet onderworpen aan de toekenning van een leveringsvergunning.<br /><br />§ 2. De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot toekenning, wijziging en opheffing van een leveringsvergunning.<br /><br />De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval betrekking op :<br />1° de technische, organisatorische en financiële capaciteit van de aanvrager;<br />2° de professionele betrouwbaarheid van de aanvrager;<br />3° de capaciteit van de aanvrager om aan de behoeften van zijn afnemers te voldoen;<br />4° de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br />5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders.<br /><br />Bij gebrek aan een beslissing door de VREG binnen twee maanden na de ontvangst van een volledig aanvraagdossier, waarvan het model wordt vastgesteld door de VREG, wordt de leveringsvergunning geacht verleend te zijn.<br /><br />§ 3. Iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest voldoet aan de handels- en balanceringsvereisten, vastgelegd in de technische reglementen.
+§ 1. De levering van elektriciteit en aardgas via het distributienet of het plaatselijk vervoersnet van elektriciteit, aan afnemers, is onderworpen aan de voorafgaande toekenning van een leveringsvergunning door de VREG.<br>
+<br>
+De levering van elektriciteit en aardgas door een netbeheerder in het kader van zijn taken, vermeld in artikel 4.1.6, of een openbaredienstverplichting die opgelegd is in dit decreet of een uitvoeringsbesluit ervan, is niet onderworpen aan de toekenning van een leveringsvergunning.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt, na advies van de VREG, de voorwaarden en de procedure tot toekenning, wijziging en opheffing van een leveringsvergunning.<br>
+<br>
+De voorwaarden tot toekenning van een leveringsvergunning hebben in ieder geval betrekking op :<br>
+1° de technische, organisatorische en financiële capaciteit van de aanvrager;<br>
+2° de professionele betrouwbaarheid van de aanvrager;<br>
+3° de capaciteit van de aanvrager om aan de behoeften van zijn afnemers te voldoen;<br>
+4° de openbaredienstverplichtingen die opgelegd zijn aan de leveranciers volgens dit decreet of de uitvoeringsbepalingen ervan;<br>
+5° de beheersmatige en juridische onafhankelijkheid van de aanvrager ten opzichte van de netbeheerders.<br>
+<br>
+Bij gebrek aan een beslissing door de VREG binnen twee maanden na de ontvangst van een volledig aanvraagdossier, waarvan het model wordt vastgesteld door de VREG, wordt de leveringsvergunning geacht verleend te zijn.<br>
+<br>
+§ 3. Iedere leverancier die elektriciteit of aardgas levert aan afnemers in het Vlaamse Gewest voldoet aan de handels- en balanceringsvereisten, vastgelegd in de technische reglementen.
 
 ## Afdeling II. Openbaredienstverplichtingen opgelegd aan de leveranciers
 
@@ -1632,7 +1657,7 @@ Een installatie met startdatum vanaf 1 januari 2013 krijgt enkel groenestroomcer
 <br>
 Het aantal groenestroomcertificaten dat wordt toegekend voor elke 1 000 kWh elektriciteit die wordt opgewekt uit hernieuwbare energiebronnen in installaties met startdatum vanaf 1 januari 2013, is gelijk aan 1, vermenigvuldigd met de van toepassing zijnde bandingfactor.<br>
 <br>
-De Vlaamse Regering kan, in afwijking van het derde lid, een alternatieve methode voor toekennen van groenestroomcertificaten vastleggen op basis van het aantal vollasturen gehanteerd in de berekeningsmethodiek van de onrendabele top voor die hernieuwbare energietechnologie.<br>
+De Vlaamse Regering kan de toekenning van groenestroomcertificaten ook beperken op basis van het aantal vollasturen die gehanteerd worden in de berekeningsmethodiek van de onrendabele top voor die hernieuwbare energietechnologie. De Vlaamse Regering kan daarnaast voor nieuwe installaties en verlengingsaanvragen met betrekking tot de periodes, vermeld in artikel 7.1.1, § 1, vierde en vijfde lid, van bestaande installaties het aantal groenestroomcertificaten begrenzen tot een bepaalde hoeveelheid groenestroomcertificaten.<br>
 <br>
 Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum vanaf 1 januari 2013 komen uitbreidingen die vanaf 1 september 2019 in dienst genomen zijn en die aangesloten zijn op hetzelfde toegangspunt, waarbij het gezamenlijke maximale vermogen van de omvormers van de installatie na de uitbreiding meer bedraagt dan 750 kW, niet in aanmerking voor het toekennen van groenestroomcertificaten, voor zover niet minstens 36 maanden verstreken zijn vanaf de ingebruikname van de installatie of de ingebruikname van de laatste uitbreiding op dat toegangspunt, tenzij voor zowel de bestaande installatie als voor de uitbreiding(en) een nieuwe aparte projectspecifieke bandingfactor wordt berekend, waarbij voor elk deel van de installatie wordt gebruikgemaakt van de respectievelijke afschrijvingstermijn en de startdatum van de bestaande installatie behouden blijft.<br>
 <br>
@@ -1640,7 +1665,9 @@ Bij productie-installaties voor fotovoltaïsche zonne-energie met startdatum van
 <br>
 De Vlaamse Regering legt de periode en de voorwaarden vast voor de toekenning van die extra certificaten, inclusief de manier waarop de bandingfactoren voor die extra steunperiode worden berekend.<br>
 <br>
-Het aantal extra groenestroomcertificaten dat kan worden toegekend voor elke 1 000 kWh elektriciteit die wordt opgewekt uit hernieuwbare energiebronnen in een dergelijke installatie, is gelijk aan 1, vermenigvuldigd met de van toepassing zijnde bandingfactor. De bandingfactor is maximaal gelijk aan Btot
+Het aantal extra groenestroomcertificaten dat kan worden toegekend voor elke 1 000 kWh elektriciteit die wordt opgewekt uit hernieuwbare energiebronnen in een dergelijke installatie, is gelijk aan 1, vermenigvuldigd met de van toepassing zijnde bandingfactor. De bandingfactor is maximaal gelijk aan Btot<br>
+<br>
+§ 4. De Vlaamse Regering kan bepalen dat er geen groenestroomcertificaten worden toegekend voor de productie tijdens periodes met negatieve elektriciteitsprijzen. De Vlaamse Regering bepaalt hierbij de nadere modaliteiten.
 
 ### ART. 7.1.2.
 
@@ -1664,7 +1691,9 @@ Het aantal extra warmte-krachtcertificaten dat kan worden toegekend voor elke 1 
 <br>
 De bandingfactor is in dit geval maximaal gelijk aan 0,75.<br>
 <br>
-§ 4. De Vlaamse Regering legt de voorwaarden vast waaraan een warmte-krachtinstallatie moet voldoen om te worden beschouwd als een kwalitatieve warmte-krachtinstallatie en bepaalt de referentie-installaties.
+§ 4. De Vlaamse Regering legt de voorwaarden vast waaraan een warmte-krachtinstallatie moet voldoen om te worden beschouwd als een kwalitatieve warmte-krachtinstallatie en bepaalt de referentie-installaties.<br>
+<br>
+&nbsp;§ 5. De Vlaamse Regering kan bepalen dat er geen warmte-krachtcertificaten worden toegekend voor de productie tijdens periodes met negatieve elektriciteitsprijzen. De Vlaamse Regering bepaalt hierbij de nadere modaliteiten.
 
 ### ART. 7.1.3.
 
@@ -3352,6 +3381,16 @@ Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 e
 ### ART 15.3.5/12.
 
 [...&nbsp;<em>(vernietigd bij arrest 5/2021 van het Grondwettelijk Hof van 14 januari 2021)</em>]
+
+### ART 15.3.5/13.
+
+Voor productie-installaties voor zonne-energie met een maximaal AC-vermogen van 10 kVA die geïnstalleerd worden vanaf 1 januari 2021 moet de elektrische productie die geïnjecteerd wordt op het distributienet worden opgekocht.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere modaliteiten, en wie tegen welke minimumvergoeding moet opkopen.
+
+### ART 15.3.5/15.
+
+De leveranciers die actief zijn in het Vlaamse Gewest en die op de dag van inwerkingtreding van artikel 4.3.1, § 1, eerste lid, van dit decreet, zoals gewijzigd bij het decreet van 26 april 2019 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de uitrol van digitale meters en tot wijziging van artikel 7.1.1, 7.1.2 en 7.1.5 van hetzelfde decreet, nog geen leveringsvergunning van de VREG zouden hebben, krijgen bij wijze van overgangsregeling zes maanden de tijd vanaf de dag van inwerkingtreding van voormeld artikel om een leveringsvergunning van de VREG te verkrijgen.
 
 ### ART 15.3.5/17.
 
