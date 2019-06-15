@@ -27,41 +27,94 @@ In dit besluit wordt verstaan onder :<br>
 1° minister : de Vlaamse minister, bevoegd voor de huisvesting;<br>
 2° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Omgeving;<br>
 3° verzekeraar : een private instelling aan wie het Vlaamse Gewest de verzekeringsopdracht, vermeld in artikel 2, heeft uitbesteed;<br>
-4° aanvrager : de natuurlijke meerderjarige persoon die alleen of samen met een andere natuurlijke persoon een hypothecaire lening aangaat;<br>
-5° gemiddeld maandelijks netto-inkomen :<br>
-a) als de aanvrager een werknemer is, het gemiddelde over de laatste zes maanden die aan de werkloosheid of de arbeidsongeschiktheid voorafgaan, van het bruto belastbare maandloon, verminderd met het personenbelastingstarief dat erop van toepassing is. Voor seizoensarbeid wordt het gemiddelde berekend over de laatste twaalf maanden;<br>
-b) als de aanvrager een zelfstandige is, het twaalfde deel van het nettoresultaat van het laatst beschikbare aanslagjaar, verlaagd met de basisbelasting en verhoogd met de belastingvermindering op de belastingvrije sommen. Als bij de laatst beschikbare aanslag het huwelijksquotiënt werd toegepast, moet het nettoresultaat tevens verminderd worden met de basisbelasting voor de partner en verhoogd met de belastingvermindering op de belastingvrije som voor de partner;<br>
+4° aanvrager: de lener die de verzekering gewaarborgd wonen aanvraagt, conform artikel 6;<br>
+5° gemiddeld maandelijks netto-inkomen:<br>
+a) van een werknemer: het gemiddelde over de laatste zes maanden die aan de werkloosheid of de arbeidsongeschiktheid voorafgaan, van het bruto belastbare maandloon, verminderd met het personenbelastingtarief dat erop van toepassing is. Voor seizoensarbeid wordt het gemiddelde berekend over de laatste twaalf maanden;<br>
+b) van een zelfstandige: het twaalfde deel van het nettoresultaat van het laatst beschikbare aanslagjaar, verlaagd met de basisbelasting en verhoogd met de belastingvermindering op de belastingvrije sommen. Als bij de laatst beschikbare aanslag het huwelijksquotiënt is toegepast, wordt het nettoresultaat bovendien verminderd met de basisbelasting voor de partner en verhoogd met de belastingvermindering op de belastingvrije som voor de partner;<br>
 6° nettovervangingsinkomen : het brutovervangingsinkomen, verminderd met het personenbelastingtarief dat erop van toepassing is;<br>
 7° aanvraagdatum : de datum waarop de aanvraag voor de verzekering is ingediend overeenkomstig artikel 6 en die vermeld staat in de ontvangstmelding van het agentschap;<br>
-8° arbeidsongeschiktheid : elke toestand die aanleiding geeft tot het verkrijgen van tegemoetkomingen in het kader van de verplichte verzekering tegen ziekte en invaliditeit en waarbij de persoon in kwestie geen andere belastbare beroepsinkomsten heeft, noch als werknemer, noch als zelfstandige. Arbeidsongeschiktheid ten gevolge van een arbeidsongeval of een beroepsziekte komt niet in aanmerking;<br>
+8° arbeidsongeschiktheid : elke toestand die aanleiding geeft tot het verkrijgen van een arbeidsongeschiktheidsuitkering en waarbij de persoon in kwestie geen andere belastbare beroepsinkomsten heeft, noch als werknemer, noch als zelfstandige. Arbeidsongeschiktheid ten gevolge van een arbeidsongeval of een beroepsziekte komt niet in aanmerking;<br>
 9° onvrijwillige werkloosheid : elke toestand van onvrijwillige volledige werkloosheid die aanleiding geeft tot het verkrijgen van werkloosheidsuitkeringen van de Rijksdienst voor Arbeidsvoorziening en waarbij de persoon in kwestie geen andere belastbare beroepsinkomsten heeft, noch als werknemer, noch als zelfstandige. Bruggepensioneerden worden niet als werklozen beschouwd;<br>
-10° kredietinstelling : een instelling die ofwel ingeschreven is overeenkomstig het koninklijk besluit nr. 225 van 7 januari 1936 tot reglementering van de hypothecaire leningen en tot inrichting van de controle op de hypothecaire leningen of vrijgesteld is van die inschrijving, ofwel ingeschreven of geregistreerd is overeenkomstig de wet van 4 augustus 1992 op het hypothecair krediet;<br>
-11° lening : een hypothecair krediet als vermeld in de wet van 4 augustus 1992 op het hypothecair krediet, gewaarborgd door een hypotheek of een voorrecht op de te kopen of te bouwen woning;<br>
-12° inkomen : het aan de personenbelasting onderworpen inkomen van de aanvrager<br>
+10° kredietinstelling: de kredietinstelling vermeld in artikel 1, § 3, van de wet van 25 april 2014 op het statuut van en het toezicht op kredietinstellingen en beursvennootschappen;<br>
+11° lening : een hypothecair krediet als vermeld in artikel I.9, 53° /1° van het Wetboek Economisch Recht, gewaarborgd door een hypotheek of een voorrecht op de te kopen of te bouwen woning;<br>
+12° inkomen : het aan de personenbelasting onderworpen inkomen van de lener;<br>
 13° persoon ten laste :<br>
 a) het inwonende kind dat op datum van de aanvraag tot verzekering geen 18 jaar is of voor wie op die datum aan de aanvrager kinderbijslag of wezenrente wordt uitbetaald;<br>
 b) de aanvrager of een familielid dat deel uitmaakt van zijn gezin en met hem de woning betrekt of zal betrekken, voorzover de aanvrager of het familielid als ernstig gehandicapt wordt beschouwd overeenkomstig het besluit van de Vlaamse Regering van 12 oktober 1988 tot bepaling van de attesten die in aanmerking worden genomen om een ernstige handicap vast te stellen;<br>
-14° Energiedecreet : het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid.
+14° Energiedecreet : het decreet van 8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid;<br>
+15° lener: een of meer natuurlijke personen die de hypothecaire lening aangaan;<br>
+16° verzekerde: de aanvrager die een aanvraag, conform artikel 6, § 1, heeft ingediend, waarvan het agentschap heeft beslist dat die in aanmerking komt voor de verzekering, conform artikel 6, § 5.
 
 ### ART. 2.
 
-Afhankelijk van de stand van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, kan de minister, onder de voorwaarden en voor de bedragen, vermeld in dit besluit, de volgende risico's verzekeren : <br />1° het risico van de werknemer die ten gevolge van onvrijwillige werkloosheid of arbeidsongeschiktheid niet in staat is de contractuele verplichtingen na te komen die voortvloeien uit een lening voor de bouw, de koop, de koop met renovatie of de renovatie van zijn enige woning;<br />2° het risico van de zelfstandige die ten gevolge van arbeidsongeschiktheid niet in staat is de contractuele verplichtingen na te komen die voortvloeien uit een lening voor de bouw, de koop, de koop met renovatie of de renovatie van zijn enige woning.<br /><br />De verzekering, vermeld in het eerste lid, wordt uitbesteed aan de verzekeraar, die een geregelde verslaggeving en de nodige controlemogelijkheden biedt aan het agentschap. <br /><br />
+Afhankelijk van de stand van de kredieten die daartoe op de begroting van het Vlaamse Gewest worden ingeschreven, kan de minister, onder de voorwaarden en voor de bedragen, vermeld in dit besluit, de volgende risico's verzekeren :<br>
+1° het risico van de werknemer die ten gevolge van onvrijwillige werkloosheid of arbeidsongeschiktheid niet in staat is de contractuele verplichtingen na te komen die voortvloeien uit een lening voor de bouw, de koop, de koop met renovatie of de renovatie van zijn enige woning;<br>
+2° het risico van de zelfstandige die ten gevolge van arbeidsongeschiktheid niet in staat is de contractuele verplichtingen na te komen die voortvloeien uit een lening voor de bouw, de koop, de koop met renovatie of de renovatie van zijn enige woning;<br>
+3° het risico van de zelfstandige die ten gevolge van de onvrijwillige stopzetting van zijn zelfstandige activiteit niet in staat is de contractuele verplichtingen na te komen die voortvloeien uit een lening voor de bouw, de koop, de koop met renovatie of de renovatie van zijn enige woning.<br>
+<br>
+De verzekering, vermeld in het eerste lid, wordt uitbesteed aan de verzekeraar, die een geregelde verslaggeving en de nodige controlemogelijkheden biedt aan het agentschap.<br>
+&nbsp;
 
 ## HOOFDSTUK II Voorwaarden van de verzekering gewaarborgd wonen
 
 ### ART. 3.
 
-De aanvrager van een verzekering gewaarborgd wonen moet op de aanvraagdatum voldoen aan de volgende voorwaarden :<br />1° een lening gesloten hebben voor het bouwen, met inbegrip van vervangingsbouw, het kopen, het kopen en renoveren of het renoveren van een woning die voldoet aan de voorwaarden, vermeld in artikel 4, § 1; <br />2° geen andere woning volledig in volle eigendom of volledig in vruchtgebruik hebben op de aanvraagdatum, tenzij het gaat om een woning die het voorwerp is van de toepassing van artikel 19 van de Vlaamse Wooncode of van een onteigeningsbesluit; <br />3° een beroepsactiviteit uitoefenen, waaronder wordt verstaan :<br />a) als de aanvrager een werknemer is, dat hij minstens in een deeltijdse betrekking tewerkgesteld is met een contract van onbepaalde duur waarvan de proefperiode al voltooid is, ofwel in een tijdelijk contract voor zover hij niet tewerkgesteld is op basis van een uitzendcontract en kan bewijzen dat hij gedurende minstens een jaar arbeidsprestaties heeft verricht bij zijn laatste werkgever;<br />b) als de aanvrager een zelfstandige is, dat hij zijn zelfstandige activiteit gedurende ten minste twaalf maanden in hoofdberoep uitgeoefend heeft; <br />4° niet arbeidsongeschikt zijn; <br />5° voor de aanvraagdatum twaalf volledige maanden arbeidsprestaties hebben geleverd, met uitzondering van onderbrekingen ingevolge een of meer infectieziekten van beperkte duur of het wettelijke zwangerschapsverlof.<br /><br />De volgende leningen en personen komen niet in aanmerking voor de verzekering gewaarborgd wonen : <br />1° leningen waarvan de eerste kapitaalsopname plaatsvindt voor 1 april 2008; <br />2° leningen waarvan de eerste kapitaalsopname heeft plaatsgevonden meer dan een jaar voor de aanvraagdatum behalve als die opname dateert van 1 april 2008 tot 1 juli 2008 en de aanvraag overeenkomstig artikel 6, § 1, uiterlijk op 1 juli 2009 wordt ingediend;<br />3° het gedeelte van een lening dat betrekking heeft op de vervanging van een andere hypothecaire lening; <br />4° leningen waarvan het geleende bedrag minder bedraagt dan :<br />a) 50.000 euro als het gaat over een lening voor het bouwen, het kopen <br />of het kopen en renoveren van een woning;<br />b) 25.000 euro als het gaat over een lening voor het renoveren van een woning; <br />5° het gedeelte van een lening dat wordt gesloten op naam van een rechtspersoon of dat bestemd is voor een gebouw of een deel van een gebouw dat gebruikt wordt voor handels- of beroepsdoeleinden; <br />6° leningen die enkel bestemd zijn voor de financiering van de aankoop van een bouwgrond; <br />7° overbruggingskredieten; <br />8° personen die voor dezelfde woning een verzekeringsdekking hebben genoten op basis van het besluit van de Vlaamse Regering van 12 mei 1998 betreffende de verzekering tegen inkomensverlies door onvrijwillige werkloosheid en arbeidsongeschiktheid bij hypothecaire leningen voor de bouw, de koop, de renovatie of de koop met renovatie van bepaalde woningen in het Vlaamse Gewest;<br />9° personen die voor dezelfde woning een verzekeringsdekking hebben genoten op basis van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de verzekering gewaarborgd wonen;<br />10° personen die een lening aangaan voor het bouwen van een woning, met inbegrip van vervangingsbouw, waarvan het peil van primair energieverbruik, vermeld in artikel 1.1.3, 99°, van het Energiedecreet van 8 mei 2009, hoger is dan E70, voor zover het inkomen, vastgesteld op basis van het laatst gekende aanslagbiljet, meer bedraagt dan :<br />a) 35.000 euro voor een alleenstaande;<br />b) 50.000 euro voor wettelijk of feitelijk samenwonenden, te verhogen met 2.800 euro per persoon ten laste;<br />c) 50.000 euro voor een alleenstaande met een persoon ten laste, te verhogen met 2.800 euro per persoon ten laste vanaf de tweede persoon ten laste.<br /><br />De bedragen, vermeld in het tweede lid, 10°, worden gekoppeld aan het gezondheidsindexcijfer 104,32 van oktober 2006. Ze worden jaarlijks op 1 januari aangepast aan het gezondheidsindexcijfer van de maand oktober, die voorafgaat aan de aanpassing, en afgerond op het hogere tiental.<br /><br />
+De aanvrager van een verzekering gewaarborgd wonen moet voldoen aan al de volgende voorwaarden:<br>
+1° een lening sluiten om een woning die voldoet aan de voorwaarden, vermeld in artikel 4, § 1:<br>
+a) te bouwen, met inbegrip van vervangingsbouw;<br>
+b) te kopen;<br>
+c) te kopen en te renoveren;<br>
+d) te renoveren;<br>
+2° niet arbeidsongeschikt zijn op de aanvraagdatum en de twaalf maanden die voorafgaan aan de aanvraagdatum, met uitzondering van onderbrekingen door het wettelijk zwangerschapsverlof en het profylactisch verlof;<br>
+3° op de aanvraagdatum en gedurende twaalf volledige maanden die voorafgaan aan de aanvraagdatum zonder onderbrekingen een beroepsactiviteit uitoefenen, waaronder wordt verstaan:<br>
+a) als de aanvrager een werknemer is en op de aanvraagdatum minstens in een deeltijdse betrekking werkt met een contract van onbepaalde duur waarvan de proefperiode al voltooid is of met een tijdelijk contract of op basis van een uitzendcontract, gedurende twaalf volledige maanden die voorafgaan aan de aanvraagdatum, ononderbroken verbonden zijn door een arbeidsovereenkomst, met uitzondering van korte onderbrekingen waarvan de totale duur gedurende twaalf maanden die voorafgaan aan de aanvraagdatum niet meer bedraagt dan tien dagen. Voor de werknemer in het onderwijs wordt het Vlaams Ministerie van Onderwijs en Vorming beschouwd als werkgever en worden onderbrekingen van de arbeidsovereenkomst tijdens de maanden juli en augustus met uitgestelde bezoldiging gelijkgesteld met gewerkte periodes;<br>
+b) als de aanvrager een zelfstandige is, op de aanvraagdatum zijn zelfstandige activiteit gedurende minstens twaalf maanden in hoofdberoep uitoefenen.<br>
+<br>
+De volgende leningen en personen komen niet in aanmerking voor de verzekering gewaarborgd wonen :<br>
+1° leningen waarvan de eerste kapitaalsopname plaatsvindt voor 1 april 2008;<br>
+2° leningen waarvan de eerste kapitaalsopname heeft plaatsgevonden meer dan een jaar voor de aanvraagdatum behalve als die opname dateert van 1 april 2008 tot 1 juli 2008 en de aanvraag overeenkomstig artikel 6, § 1, uiterlijk op 1 juli 2009 wordt ingediend;<br>
+3° het gedeelte van een lening dat betrekking heeft op de vervanging van een andere hypothecaire lening;<br>
+4° leningen waarvan het geleende bedrag minder bedraagt dan :<br>
+a) 50.000 euro als het gaat over een lening voor het bouwen, het kopen<br>
+of het kopen en renoveren van een woning;<br>
+b) 25.000 euro als het gaat over een lening voor het renoveren van een woning;<br>
+5° het gedeelte van een lening dat wordt gesloten op naam van een rechtspersoon of dat bestemd is voor een gebouw of een deel van een gebouw dat gebruikt wordt voor handels- of beroepsdoeleinden;<br>
+6° leningen die enkel bestemd zijn voor de financiering van de aankoop van een bouwgrond;<br>
+7° overbruggingskredieten;<br>
+8° personen die voor dezelfde woning een verzekeringsdekking hebben genoten op basis van het besluit van de Vlaamse Regering van 12 mei 1998 betreffende de verzekering tegen inkomensverlies door onvrijwillige werkloosheid en arbeidsongeschiktheid bij hypothecaire leningen voor de bouw, de koop, de renovatie of de koop met renovatie van bepaalde woningen in het Vlaamse Gewest;<br>
+9° personen die voor dezelfde woning een verzekeringsdekking hebben genoten op basis van het besluit van de Vlaamse Regering van 18 juli 2003 betreffende de verzekering gewaarborgd wonen;<br>
+9° /1 personen die voor dezelfde woning een verzekeringsdekking hebben gekregen op basis van dit besluit;<br>
+10° de lener die een lening aangaat voor het bouwen van een woning, met inbegrip van vervangingsbouw, waarvan het peil van primair energieverbruik, vermeld in artikel 1.1.3, 99°, van het Energiedecreet van 8 mei 2009, hoger is dan E70, voor zover het inkomen, vastgesteld op basis van het laatst gekende aanslagbiljet, meer bedraagt dan :<br>
+a) 35.000 euro voor een alleenstaande;<br>
+b) 50.000 euro voor wettelijk of feitelijk samenwonenden, te verhogen met 2.800 euro per persoon ten laste;<br>
+c) 50.000 euro voor een alleenstaande met een persoon ten laste, te verhogen met 2.800 euro per persoon ten laste vanaf de tweede persoon ten laste.<br>
+<br>
+De bedragen, vermeld in het tweede lid, 10°, worden gekoppeld aan het gezondheidsindexcijfer 104,32 van oktober 2006. Ze worden jaarlijks op 1 januari aangepast aan het gezondheidsindexcijfer van de maand oktober, die voorafgaat aan de aanpassing, en afgerond op het hogere tiental.<br>
+&nbsp;
 
 ### ART. 4.
 
-§ 1. De woning die de aanvrager bouwt, koopt, koopt en renoveert of   renoveert, moet bestemd zijn om er zijn hoofdverblijfplaats te vestigen.   <BR><BR>De verkoopwaarde van de woning mag, eventueel na de uitvoering van de   geplande werkzaamheden, niet hoger zijn dan 320.000 euro. De kredietinstelling   raamt de verkoopwaarde bij het afsluiten van de hypothecaire lening. <BR><BR>Het   bedrag van 320.000 euro, vermeld in het tweede lid, wordt verhoogd met 15   procent als de woning gelegen is in het werkgebied van Vlabinvest APB, opgericht   bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013.   <BR><BR>§ 2. Op de aanvraagdatum moet de aanvrager de hypothecaire leningen   bundelen waarvoor hij verzekerd wil worden.<BR><BR>
+§ 1. De woning die de aanvrager bouwt, koopt, koopt en renoveert of renoveert, moet bestemd zijn om er zijn hoofdverblijfplaats te vestigen.<br>
+<br>
+Overeenkomstig artikel 80, eerste lid van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode mag de lener geen andere woning, dan de woning vermeld in het eerste lid, volledig in volle eigendom bezitten, tenzij die woning ongeschikt is.<br>
+<br>
+De verkoopwaarde van de woning mag, eventueel na de uitvoering van de geplande werkzaamheden, niet hoger zijn dan 320.000 euro. De kredietinstelling raamt de verkoopwaarde bij het afsluiten van de hypothecaire lening.<br>
+<br>
+Het bedrag van 320.000 euro, vermeld in het tweede lid, wordt verhoogd met 15 procent als de woning gelegen is in het werkgebied van Vlabinvest APB, opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober 2013.<br>
+<br>
+De bedragen vermeld in het derde en vierde lid, worden gekoppeld aan het gezondheidsindexcijfer 108,26 van oktober 2018. Ze worden jaarlijks op 1 januari aangepast aan het gezondheidsindexcijfer van de maand oktober, die voorafgaat aan de aanpassingen, en afgerond op het hogere tiental.<br>
+<br>
+§ 2. Op de aanvraagdatum moet de aanvrager de hypothecaire leningen bundelen waarvoor hij verzekerd wil worden.<br>
+&nbsp;
 
 ## HOOFDSTUK III Nadere regelen voor de verzekering
 
 ### ART. 5.
 
-De verzekeringsdekking vangt aan op de aanvraagdatum en loopt gedurende tien jaar of tot op het ogenblik dat de aanvrager de gehypothekeerde woning niet meer bewoont.<br /><br />De looptijd van de verzekering kan niet worden opgeschort.<br /><br />
+De verzekeringsdekking vangt aan op de aanvraagdatum en loopt gedurende tien jaar of tot op het ogenblik dat de&nbsp;verzekerde de gehypothekeerde woning niet meer bewoont.<br>
+<br>
+De looptijd van de verzekering kan niet worden opgeschort.<br>
+&nbsp;
 
 ### ART. 6.
 
@@ -71,7 +124,7 @@ a) de aard van de verrichting waarvoor hij de lening heeft aangegaan;<br>
 b) de bestemming van de woning als hoofdverblijfplaats gedurende de looptijd van de verzekering;<br>
 c) zijn volledige arbeidsgeschiktheid en zijn goede gezondheid.<br>
 2° het bewijs dat de aanvrager een beroepsactiviteit uitoefent, inzonderheid :<br>
-a) als hij een werknemer is, een attest van zijn werkgever waarin die bevestigt dat de aanvrager op het ogenblik van de aanvraag voor de verzekering minstens deeltijds in zijn bedrijf werkt met een arbeidsovereenkomst van onbepaalde duur, waarvan de proefperiode al is verstreken, of ten minste gedurende één volledig jaar voltijdse of deeltijdse arbeidsprestaties heeft geleverd binnen het kader van een lopende arbeidsovereenkomst van bepaalde duur;<br>
+a) als hij een werknemer is: een attest van zijn werkgever waarin die bevestigt dat de aanvrager op het ogenblik van de aanvraag van de verzekering minstens deeltijds in zijn bedrijf werkt. De tijdelijke leerkracht legt de nodige werkattesten voor van het schoolbestuur of centrumbestuur waaruit blijkt dat hij voldoet aan de voorwaarde vermeld in artikel 3, eerste lid, 3°, a);<br>
 b) als hij een zelfstandige is, een attest van het sociaal verzekeringsfonds voor zelfstandigen waarin die instelling bevestigt dat de aanvrager op het ogenblik van de aanvraag voor de verzekering sedert ten minste twaalf maanden zijn zelfstandige activiteit in hoofdberoep uitoefent;<br>
 3° een door de kredietinstelling opgemaakte tabel van de maandelijkse lasten van de lening en een document van de kredietinstelling met het refertenummer van de betreffende lening. Bij leningen met variabele interestvoet wordt gerekend met de interestvoet die van toepassing was op het ogenblik dat de lening gesloten werd;<br>
 4° een verklaring van de kredietinstelling dat ze op de hoogte is van het bestaan van de verzekering en dat ze de hypothecaire schuldenaars zal ontlasten van alle betalingen die ze ter uitvoering van de verzekering in de toekomst zal ontvangen en dat ze er zich toe verbindt ten onrechte ontvangen tegemoetkomingen aan de verzekeraar terug te storten op eenvoudig verzoek.<br>
@@ -80,7 +133,11 @@ b) als hij een zelfstandige is, een attest van het sociaal verzekeringsfonds voo
 a) een kopie van het laatst bekende aanslagbiljet voor de personenbelasting;<br>
 b) een kopie van de startverklaring, vermeld in artikel 11.1.7 van het Energiedecreet van 8 mei 2009, waaruit het peil van primair energieverbruik blijkt dat voor de woning wordt nagestreefd.<br>
 <br>
-§ 2. Het agentschap verkrijgt bij de bevoegde diensten van de Federale Overheidsdienst Financiën, bij het Rijksregister, bij de Kruispuntbank van de Sociale Zekerheid en bij het Vlaams Energieagentschap digitaal de noodzakelijke gegevens over zijn identiteit en de voorwaarden, vermeld in artikel 3, eerste lid, 2°, 3°, 4° en 5°, en tweede lid, 10°.<br>
+Het agentschap vraagt bij de bevoegde diensten van de Federale Overheidsdienst Financiën en het Vlaams Energieagentschap digitaal de noodzakelijke gegevens op over de naleving door de lener van de voorwaarden, vermeld in artikel 3, tweede lid, 10° en artikel 4, § 1, tweede lid.<br>
+<br>
+Het agentschap vraagt bij de Kruispuntbank van de Sociale Zekerheid digitaal de noodzakelijke gegevens op over de naleving door de aanvrager van de voorwaarden, vermeld in artikel 3, eerste lid, 2° en 3°.<br>
+<br>
+§ 2. ...<br>
 <br>
 § 3. Het agentschap stuurt binnen vijftien vrije werkdagen een ontvangstmelding waarin de datum van ontvangst, het dossiernummer en de behandelingsprocedure, met inbegrip van de bepaling van § 4, tweede lid, worden meegedeeld.<br>
 <br>
@@ -103,7 +160,28 @@ Als de beslissing in beroep niet wordt betekend binnen een maand na de datum van
 
 ### ART. 7.
 
-§ 1. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde nadat een wachttijd van drie maanden ononderbroken arbeidsongeschiktheid voltooid en door de verzekerde aangetoond is.<br /><br />§ 2. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde nadat een wachttijd van drie maanden ononderbroken onvrijwillige volledige werkloosheid voltooid en door de verzekerde aangetoond is. <br /><br />De verzekerde heeft recht op de tegemoetkomingen ingevolge onvrijwillige volledige werkloosheid gedurende maximaal achttien opeenvolgende maanden. <br /><br />Om in aanmerking te komen voor een volgende periode van tegemoetkomingen, moeten voltijdse of deeltijdse arbeidsprestaties in het kader van een arbeidsovereenkomst worden aangetoond gedurende een periode van minimaal drie volledige maanden na de eerste periode van achttien maanden waarin de tegemoetkoming genoten werd. De berekeningswijze, vermeld in artikel 9, § 2, blijft in dat geval onverminderd gelden.<br /><br />§ 3. De periode van tegemoetkomingen eindigt op het ogenblik dat de verzekerde niet meer onvrijwillig werkloos of arbeidsongeschikt is. Als de periode van onvrijwillige werkloosheid of arbeidsongeschiktheid eindigt tijdens de eerste vijftien kalenderdagen van een kalendermaand, dan wordt voor die maand geen tegemoetkoming verleend. In het andere geval wordt een tegemoetkoming voor de gehele maand gegeven.<br /><br />De verzekeraar komt in de aflossing van de hypothecaire lasten tegemoet gedurende maximaal 36 maanden. <br /><br />De periode van tegemoetkomingen kan langer zijn dan de periode van de verzekering. <br /><br />
+§ 1. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde nadat een wachttijd van drie maanden ononderbroken arbeidsongeschiktheid voltooid en door de verzekerde aangetoond is.<br>
+<br>
+§ 2. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde werknemer die onvrijwillig werkloos is geworden nadat een wachttijd van drie maanden ononderbroken onvrijwillige volledige werkloosheid voltooid en door de verzekerde aangetoond is.<br>
+<br>
+De verzekerde heeft recht op de tegemoetkomingen ingevolge onvrijwillige volledige werkloosheid gedurende maximaal achttien opeenvolgende maanden.<br>
+<br>
+Om in aanmerking te komen voor een volgende periode van tegemoetkomingen, moeten voltijdse of deeltijdse arbeidsprestaties in het kader van een arbeidsovereenkomst worden aangetoond gedurende een periode van minimaal drie volledige maanden na de eerste periode van achttien maanden waarin de tegemoetkoming genoten werd. De berekeningswijze, vermeld in artikel 9, § 2, blijft in dat geval onverminderd gelden.<br>
+<br>
+§ 3. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde zelfstandige die zijn zelfstandige activiteit onvrijwillig heeft moeten stopzetten en voor wie het overbruggingsrecht geldt, vermeld in artikel 3 van de wet van 22 december 2016 houdende invoering van een overbruggingsrecht ten gunste van zelfstandigen. De verzekerde heeft recht op de tegemoetkoming ingevolge onvrijwillige stopzetting van de zelfstandige activiteit voor de periode waarin het overbruggingsrecht wordt uitbetaald.<br>
+<br>
+§ 4. De verzekeraar komt tegemoet in de aflossing van de hypothecaire lasten van de verzekerde zelfstandige die zijn zelfstandige activiteit heeft stopgezet en recht heeft op een werkloosheidsvergoeding, nadat een wachttijd van drie maanden ononderbroken onvrijwillige volledige werkloosheid voltooid en door de verzekerde aangetoond is.<br>
+<br>
+De verzekerde heeft recht op de tegemoetkomingen ingevolge onvrijwillige volledige werkloosheid gedurende maximaal achttien opeenvolgende maanden.<br>
+<br>
+Om in aanmerking te komen voor een volgende periode van tegemoetkomingen, worden voltijdse of deeltijdse arbeidsprestaties in het kader van een arbeidsovereenkomst aangetoond gedurende een periode van minimaal drie volledige maanden na de eerste periode van achttien maanden waarin de tegemoetkoming is verkregen. De berekeningswijze, vermeld in artikel 9, § 2, blijft in dat geval onverminderd gelden.<br>
+<br>
+§ 5. De verzekeraar komt in de aflossing van de hypothecaire lasten tegemoet gedurende maximaal 36 maanden. De periode van tegemoetkoming eindigt op het ogenblik dat de periode waarin het overbruggingsrecht wordt uitbetaald eindigt, of als de verzekerde niet langer onvrijwillig werkloos of arbeidsongeschikt is.<br>
+<br>
+Als de periode van onvrijwillige werkloosheid, arbeidsongeschiktheid of de periode van uitbetaling van het overbruggingsrecht eindigt tijdens de eerste vijftien dagen van een kalendermaand, wordt voor die maand geen tegemoetkoming verleend. In het andere geval wordt een tegemoetkoming voor de hele maand gegeven.<br>
+<br>
+De periode van tegemoetkoming kan langer zijn dan de periode van de verzekering. Als de periode van maximaal achttien opeenvolgende maanden, vermeld in paragraaf 2, tweede lid en paragraaf 4, tweede lid, zich uitstrekt voorbij de periode van verzekering, is een volgende periode van tegemoetkoming, vermeld in paragraaf 2, derde lid en paragraaf 4, derde lid, uitgesloten.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -111,11 +189,61 @@ De tegemoetkomingen worden maandelijks uitgekeerd. De begunstigde is de kredieti
 
 ### ART. 9.
 
-§ 1. Het bedrag van de tegemoetkoming is afhankelijk van de hypothecaire lasten van de verzekerde, het gemiddelde maandelijkse netto-inkomen tijdens de periode die voorafgaat aan de periode van onvrijwillige werkloosheid of arbeidsongeschiktheid en het nettovervangingsinkomen tijdens de periode van onvrijwillige werkloosheid of arbeidsongeschiktheid. <br /><br />De maandelijkse afbetaling is gelijk aan een twaalfde deel van het geheel van de financiële verplichtingen die de verzekerde in de loop van een jaar verschuldigd is. Bij een lening met schuldsaldoverzekering omvat dat geheel de interestlasten, de aflossingen van het kapitaal en de premie voor de schuldsaldoverzekering. Bij een lening met een gemengde levensverzekering bestaat het geheel uit de interesten en de premie voor de gemengde levensverzekering.<br /><br />Het bedrag van de tegemoetkoming is niet groter dan het werkelijk geleden inkomensverlies. Het werkelijk geleden inkomensverlies van de verzekerde is gelijk aan het verschil van het gemiddelde nettomaandloon tijdens de periode die voorafgaat aan de onvrijwillige werkloosheid of arbeidsongeschiktheid en het maandelijkse nettovervangingsinkomen tijdens de periode van onvrijwillige werkloosheid of arbeidsongeschiktheid.<br /><br />Het bedrag van de maandelijkse tegemoetkoming bedraagt maximaal vijfhonderd euro. Dat bedrag wordt verhoogd tot maximaal zeshonderd euro als de lening betrekking heeft op de bouw van een woning, met inbegrip van vervangingsbouw, waarvan het peil van primair energieverbruik, vermeld in artikel 1.1.3, 99°, van het Energiedecreet van 8 mei 2009, lager is of gelijk is aan E70 en de aanvrager tevens voldoet aan de inkomensgrenzen, vermeld in artikel 3, tweede lid, 10°.<br /><br />§ 2. Het bedrag van de maandelijkse tegemoetkoming is tevens afhankelijk van de gecumuleerde duur van de periodes van onvrijwillige werkloosheid of arbeidsongeschiktheid gedurende de volledige looptijd van de verzekering.<br /><br />Voor de eerste twaalf maanden van onvrijwillige werkloosheid of arbeidsongeschiktheid waarin de tegemoetkoming wordt genoten, wordt de maandelijkse tegemoetkoming beperkt tot 70 % van de maandelijkse afbetaling.<br /><br />Voor de volgende twaalf maanden van onvrijwillige werkloosheid of arbeidsongeschiktheid waarin de tegemoetkoming wordt genoten, wordt de tegemoetkoming beperkt tot 56 % van de maandelijkse afbetaling.<br /><br />Voor de daaropvolgende twaalf maanden van vergoede onvrijwillige werkloosheid of arbeidsongeschiktheid wordt de tegemoetkoming beperkt tot 42 % van de maandelijkse afbetaling.<br /><br />§ 3. De uitbetaling wordt in elk geval stopgezet met ingang van de maand die volgt op de volledige terugbetaling van de lening. De aanvrager of de kredietinstelling brengt de verzekeraar daarvan onmiddellijk op de hoogte. De kredietinstelling stort de eventueel te veel betaalde bedragen terug.<br /><br />
+§ 1. Het bedrag van de tegemoetkoming is afhankelijk van de hypothecaire lasten van de verzekerde, het gemiddelde maandelijkse netto-inkomen tijdens de periode die voorafgaat aan de periode van onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid en het nettovervangingsinkomen tijdens de periode van onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid.<br>
+<br>
+De maandelijkse afbetaling is gelijk aan een twaalfde deel van het geheel van de financiële verplichtingen die de verzekerde in de loop van een jaar verschuldigd is. Bij een lening met schuldsaldoverzekering omvat dat geheel de interestlasten, de aflossingen van het kapitaal en de premie voor de schuldsaldoverzekering. Bij een lening met een gemengde levensverzekering bestaat het geheel uit de interesten en de premie voor de gemengde levensverzekering.<br>
+<br>
+Het bedrag van de tegemoetkoming is niet groter dat het werkelijk geleden inkomensverlies. Het werkelijk geleden inkomensverlies van de verzekerde is gelijk aan het verschil van het gemiddelde maandelijkse netto-inkomen en het maandelijkse nettovervangingsinkomen tijdens de periode van onvrijwillige werkloosheid, de stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid.<br>
+<br>
+Het bedrag van de maandelijkse tegemoetkoming bedraagt maximaal vijfhonderd euro. Dat bedrag wordt verhoogd tot maximaal zeshonderd euro als de lening betrekking heeft op de bouw van een woning, met inbegrip van vervangingsbouw, waarvan het peil van primair energieverbruik, vermeld in artikel 1.1.3, 99°, van het Energiedecreet van 8 mei 2009, lager is of gelijk is aan E70 en de lener tevens voldoet aan de inkomensgrenzen, vermeld in artikel 3, tweede lid, 10°.<br>
+<br>
+§ 2. Het bedrag van de maandelijkse tegemoetkoming is tevens afhankelijk van de gecumuleerde duur van de periodes van onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid gedurende de volledige looptijd van de verzekering.<br>
+<br>
+Voor de eerste twaalf maanden van onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid waarin de tegemoetkoming wordt genoten, wordt de maandelijkse tegemoetkoming beperkt tot 70 % van de maandelijkse afbetaling.<br>
+<br>
+Voor de volgende twaalf maanden van onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid waarin de tegemoetkoming wordt genoten, wordt de tegemoetkoming beperkt tot 56 % van de maandelijkse afbetaling.<br>
+<br>
+Voor de daaropvolgende twaalf maanden van vergoede onvrijwillige werkloosheid, stopzetting van de zelfstandige activiteit of arbeidsongeschiktheid wordt de tegemoetkoming beperkt tot 42 % van de maandelijkse afbetaling.<br>
+<br>
+§ 3. De uitbetaling wordt in elk geval stopgezet met ingang van de maand die volgt op de volledige terugbetaling van de lening. De aanvrager of de kredietinstelling brengt de verzekeraar daarvan onmiddellijk op de hoogte. De kredietinstelling stort de eventueel te veel betaalde bedragen terug.<br>
+&nbsp;
 
 ### ART. 10.
 
-De aanvraag voor de tegemoetkoming wordt met een aangetekende brief of tegen afgifte van een ontvangstbewijs ingediend bij de verzekeraar. Als de aanvraag voor de tegemoetkoming meer dan twaalf maanden na het verlopen van de wachttijd van drie maanden, vermeld in artikel 7, § 1 of § 2, wordt ingediend, dan vervalt het recht op een tegemoetkoming voor de periode die overeenstemt met de periode dat de aanvrager zijn aanvraag te laat ingediend heeft. <br /><br />Bij de aanvraag worden de volgende stukken gevoegd :<br />1° als de verzekerde werknemer is en onvrijwillig werkloos : <br />a) kopieën van de loonfiches van de laatste zes maanden (voor seizoensarbeiders de laatste twaalf maanden) die aan de periode van onvrijwillige werkloosheid voorafgaan; <br />b) een attest van de RVA of van de instelling die de werkloosheidsvergoedingen uitbetaalt, dat de datum vermeldt waarop de werkloosheidsvergoedingen een aanvang genomen hebben, alsook een kopie van het werkloosheidsbewijs - arbeidsbewijs formulier C4 van de RVA en de opzeggingsbrief van de werkgever van de aanvrager; <br />c) een maandelijks bewijs van de betalingen van werkloosheidsuitkeringen zolang de werkloosheid aanhoudt; <br />d) een attest, verstrekt door de RVA, dat aantoont dat de verzekerde zich niet in een toestand bevindt van verminderde uitkeringen ingevolge sancties in het kader van de activering van het zoekgedrag naar werk.<br />2° als de verzekerde werknemer is en arbeidsongeschikt : <br />a) kopieën van de loonfiches van de laatste zes maanden (voor seizoensarbeiders de laatste twaalf maanden) die aan de periode van arbeidsongeschiktheid voorafgaan; <br />b) een medisch attest met vermelding van de aanvangsdatum en de aard van de arbeidsongeschiktheid; <br />c) een bewijs van de periodieke betalingen door het ziekenfonds zolang de arbeidsongeschiktheid aanhoudt.<br />3° als de verzekerde zelfstandig is en arbeidsongeschikt : <br />a) een afschrift van het laatste beschikbare aanslagbiljet van de directe belastingen; <br />b) een medisch attest met vermelding van de aanvang en de aard van de arbeidsongeschiktheid; <br />c) een bewijs van de periodieke betalingen door het ziekenfonds zolang de arbeidsongeschiktheid aanhoudt.<br /><br />Als de verzekerde aanspraak wil maken op de verhoging van de maandelijkse tegemoetkoming, vermeld in artikel 9, § 1, vierde lid, dan voegt hij bij zijn aanvraag een uitdrukkelijke verklaring, die de verzekeraar machtigt bij het Vlaams Energieagentschap de gegevens inzake zijn EPB-aangifte te verifiëren.<br /><br />
+De aanvraag van de tegemoetkoming wordt met een aangetekende brief of tegen afgifte van een ontvangstbewijs ingediend bij de verzekeraar. Als de aanvraag van de tegemoetkoming meer dan twaalf maanden na het verlopen van de wachttijd van drie maanden, vermeld in artikel 7, § 1, § 2, eerste en derde lid, of § 4, eerste en derde lid, wordt ingediend, of in voorkomend geval meer dan twaalf maanden nadat het overbruggingsrecht een aanvang heeft genomen, zoals vermeld op het attest van de sociale verzekeringskas, vermeld in het tweede lid, 4°, b) vervalt het recht op een tegemoetkoming voor de periode die overeenstemt met de periode waarin de aanvrager zijn aanvraag te laat heeft ingediend.<br>
+<br>
+Bij de aanvraag worden de volgende stukken gevoegd :<br>
+1° als de verzekerde werknemer is en onvrijwillig werkloos :<br>
+a) kopieën van de loonfiches van de laatste zes maanden (voor seizoensarbeiders de laatste twaalf maanden) die aan de periode van onvrijwillige werkloosheid voorafgaan;<br>
+b) een attest van de RVA of van de instelling die de werkloosheidsvergoedingen uitbetaalt, dat de datum vermeldt waarop de werkloosheidsvergoedingen een aanvang genomen hebben, alsook een kopie van het werkloosheidsbewijs - arbeidsbewijs formulier C4 van de RVA en de opzeggingsbrief van de werkgever van de aanvrager;<br>
+c) een maandelijks bewijs van de betalingen van werkloosheidsuitkeringen zolang de werkloosheid aanhoudt;<br>
+d) een attest, verstrekt door de RVA, dat aantoont dat de verzekerde zich niet in een toestand bevindt van verminderde uitkeringen ingevolge sancties in het kader van de activering van het zoekgedrag naar werk.<br>
+2° als de verzekerde werknemer is en arbeidsongeschikt :<br>
+a) kopieën van de loonfiches van de laatste zes maanden (voor seizoensarbeiders de laatste twaalf maanden) die aan de periode van arbeidsongeschiktheid voorafgaan;<br>
+b) een medisch attest met vermelding van de aanvangsdatum en de aard van de arbeidsongeschiktheid;<br>
+c) een bewijs van de periodieke betalingen door het ziekenfonds zolang de arbeidsongeschiktheid aanhoudt.<br>
+3° als de verzekerde zelfstandig is en arbeidsongeschikt :<br>
+a) een afschrift van het laatste beschikbare aanslagbiljet van de directe belastingen;<br>
+b) een medisch attest met vermelding van de aanvang en de aard van de arbeidsongeschiktheid;<br>
+c) een bewijs van de periodieke betalingen door het ziekenfonds zolang de arbeidsongeschiktheid aanhoudt;<br>
+4° als de verzekerde zijn zelfstandige activiteit heeft stopgezet en als voor hem het overbruggingsrecht geldt:<br>
+a) een afschrift van het laatste beschikbare aanslagbiljet van de directe belastingen;<br>
+b) een attest van de sociale verzekeringskas met vermelding van de datum waarop het overbruggingsrecht een aanvang heeft genomen;<br>
+c) een maandelijks bewijs van de betalingen van het overbruggingsrecht zolang de uitbetaling duurt;<br>
+5° als de verzekerde zijn zelfstandige activiteit heeft stopgezet en een werkloosheidsuitkering krijgt op basis van een vroegere tewerkstelling:<br>
+a) een afschrift van het laatst beschikbare aanslagbiljet van de directe belastingen;<br>
+b) een attest van de RVA of van de instelling die de werkloosheidsvergoeding uitbetaalt, dat de datum vermeldt waarop de werkloosheidsvergoedingen een aanvang hebben genomen, alsook een kopie van het werkloosheidsbewijs - arbeidsbewijs formulier C4 van de RVA en de opzeggingsbrief van de voormalige werkgever of de attestering van de voormalige werkgever dat hij de verzekerde niet meer zal tewerk stellen;<br>
+c) een maandelijks bewijs van de betalingen van de werkloosheidsuitkeringen zolang de werkloosheid aanhoudt;<br>
+d) een attest van de RVA, dat aantoont dat de verzekerde geen verminderde uitkeringen krijgt ingevolge sancties in het kader van de activering van het zoekgedrag naar werk.<br>
+<br>
+Als de verzekerde aanspraak wil maken op de verhoging van de maandelijkse tegemoetkoming, vermeld in artikel 9, § 1, vierde lid, dan voegt hij bij zijn aanvraag een uitdrukkelijke verklaring, die de verzekeraar machtigt bij het Vlaams Energieagentschap de gegevens inzake zijn EPB-aangifte te verifiëren.<br>
+&nbsp;
+
+### ART 10/1.
+
+Het agentschap is verwerkingsverantwoordelijke, zoals gedefinieerd in artikel 4, 7) van de verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van Richtlijn 95/46/EG, en neemt gepaste technische en organisatorische maatregelen tegen onbevoegde of onrechtmatige verwerking en evalueert op regelmatige basis de geschiktheid van deze veiligheidsmaatregelen en past ze aan waar nodig.<br>
+<br>
+De verwerkte gegevens worden gedurende zeven jaar bewaard.
 
 ## HOOFDSTUK V Slotbepalingen
 
