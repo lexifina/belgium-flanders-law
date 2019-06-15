@@ -2,16 +2,16 @@
   "codex_id": 1031748,
   "title": "Decreet van 2019-04-26 tot wijziging van het Energiedecreet van 8 mei 2009, wat betreft de uitrol van digitale meters en tot wijziging van artikel 7.1.1, 7.1.2 en 7.1.5 van hetzelfde decreet",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031748/VolledigDocument?datum=2018-04-01",
-  "source_sha256": "65bb7dabc6a75adad77492a7286d5c689d39b636dae55c27fa5d7e9e6a91f794",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031748/VolledigDocument?datum=2019-06-15",
+  "source_sha256": "b75cd08c887e40e93f5df853e0043d3266f2c3183be3dd02c041393dbe44554c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031748&param=informatie",
-  "as_of": "2018-04-01",
+  "as_of": "2019-06-15",
   "made": "2019-04-26",
   "gazette": "2019-06-05",
   "numac": 2019012842,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-04-01",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2018-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-06-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2019-06-15; future article versions excluded; article text as the API gives it"
 }
