@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031751,
+  "title": "Decreet van 2019-05-03 houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie, wat de toegang tot een betalende niet-lineaire televisiedienst betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031751/VolledigDocument?datum=2019-06-16",
+  "source_sha256": "e891d714a51174ab8ed8e525e78be3d08f34bccd443ae87d414c3cc46c72601b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031751&param=informatie",
+  "as_of": "2019-06-16",
+  "made": "2019-05-03",
+  "gazette": "2019-06-06",
+  "numac": 2019012827,
+  "document_start": "2019-06-16",
+  "document_end": null,
+  "in_force": "2019-06-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
