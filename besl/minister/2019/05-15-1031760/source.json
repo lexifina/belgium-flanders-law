@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031760,
+  "title": "Ministerieel besluit van 2019-05-15 houdende de vaststelling van het kiesmateriaal voor de telbureaus bij de buitengewone gemeenteraadsverkiezing van 16 juni 2019 in Bilzen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031760/VolledigDocument?datum=2019-06-16",
+  "source_sha256": "ef2721577e677238d112b2806a66e8a2db9d4964f0a24140c6b17679565b6bd0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031760&param=informatie",
+  "as_of": "2019-06-16",
+  "made": "2019-05-15",
+  "gazette": "2019-06-07",
+  "numac": 2019012939,
+  "document_start": "2019-06-16",
+  "document_end": null,
+  "in_force": "2019-06-16",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2019-06-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
