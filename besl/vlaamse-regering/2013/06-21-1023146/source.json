@@ -2,16 +2,16 @@
   "codex_id": 1023146,
   "title": "Besluit van de Vlaamse Regering van 2013-06-21 betreffende dierlijke bijproducten en afgeleide producten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023146/VolledigDocument?datum=2019-05-18",
-  "source_sha256": "9f40cc972ce0588f1e4030c7c74fcc72ad22bb912155c885a8ba0f6c1e8eb141",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023146/VolledigDocument?datum=2019-06-17",
+  "source_sha256": "04f6e30b78e4f8dbc6981f80f373c4b02266ce1a90d9054d6b018e1553d3eede",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023146&param=informatie",
-  "as_of": "2019-05-18",
+  "as_of": "2019-06-17",
   "made": "2013-06-21",
   "gazette": "2013-08-06",
   "numac": 2013035670,
   "document_start": "2013-08-16",
   "document_end": null,
-  "in_force": "2019-05-18",
+  "in_force": "2019-06-17",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2019-05-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-06-17; future article versions excluded; article text as the API gives it"
 }

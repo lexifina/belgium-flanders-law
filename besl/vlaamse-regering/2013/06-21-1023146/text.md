@@ -98,7 +98,7 @@ Elke inzameling van dierlijke bijproducten en afgeleide producten gebeurt   door
 
 ### ART. 8.
 
-Elk vervoer van dierlijke bijproducten en afgeleide producten gebeurt door   een geregistreerde vervoerder. Een geregistreerde vervoerder werkt steeds in   opdracht van een geregistreerde inzamelaar, handelaar of   -makelaar.<BR>
+Elk vervoer van dierlijke bijproducten en afgeleide producten gebeurt door een geregistreerde vervoerder die geregistreerd is voor een of meer van de afvalcategorieën zoals vermeld in artikel 7. Een geregistreerde vervoerder werkt steeds in opdracht van een geregistreerde inzamelaar, handelaar of -makelaar.
 
 ## Afdeling 1 Bewaringsmaatregelen
 
