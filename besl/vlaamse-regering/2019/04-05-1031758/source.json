@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031758,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2019 in het kader van Gepersonaliseerde Geneeskunde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031758/VolledigDocument?datum=2019-06-17",
+  "source_sha256": "21484ad5740abae0e299d3cc6849a8a33e32a8a0142500009219d2281a653c91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031758&param=informatie",
+  "as_of": "2019-06-17",
+  "made": "2019-04-05",
+  "gazette": "2019-06-07",
+  "numac": 2019012664,
+  "document_start": "2019-06-17",
+  "document_end": null,
+  "in_force": "2019-06-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
