@@ -350,7 +350,7 @@ De VREG heeft als missie de regulering van, de controle op en de bevordering van
 
 ### ART. 3.1.3.
 
-Om haar missie waar te maken, vervult de VREG de volgende taken :<br>
+Om&nbsp;zijn missie waar te maken, vervult de VREG de volgende taken :<br>
 1° toezichthoudende en controlerende taken :<br>
 a) het toezicht en de controle op de naleving van de bepalingen van titels IV,&nbsp;VI en hoofdstuk I tot en met IV van titel VII van dit decreet, evenals de bijbehorende uitvoeringsbepalingen;<br>
 b) het toezicht en de controle op de naleving van de technische reglementen;<br>
@@ -386,6 +386,8 @@ g) het informeren van de marktactoren en de warmte- of koudeafnemers over de wer
 h) het informeren van de warmte- of koudeafnemers over de prijzen en voorwaarden die de warmte- of koudeleveranciers hanteren, met inbegrip van het eventueel aanbieden of laten aanbieden van een objectieve vergelijking van die prijzen en voorwaarden;<br>
 i) het opstellen en publiceren van statistieken en gegevens over de werking van de warmte- of koudenetten;<br>
 j) het jaarlijks voor 15 mei publiceren van een in samenwerking met de federale energieregulator, en eventueel de andere gewestelijke energieregulatoren, opgestelde studie rond de verschillende componenten van de energiekost die minstens een benchmark met de buurlanden bevat.<br>
+k) een vijfjaarlijkse evaluatie van de activiteiten inzake databeheer door de netbeheerder, met inbegrip van een studie over het aanbieden van de specifieke activiteiten en het opnemen van taken en verplichtingen met betrekking tot activiteiten inzake databeheer in de andere gewesten en in de ons omliggende landen;<br>
+l) tweejaarlijks rapporteren aan de Vlaamse Regering over de naleving van de voorwaarden waaraan de netbeheerders zijn gebonden bij de uitoefening van hun activiteiten inzake databeheer, met inbegrip van de resultaten van de vijfjaarlijkse evaluatie.<br>
 5° adviserende taken :<br>
 a) het op verzoek of op eigen initiatief verlenen van adviezen met betrekking tot de elektriciteits- en gasmarkt aan het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
 b) het uitvoeren van studies of onderzoeken betreffende de elektriciteits- en gasmarkt, op eigen initiatief of op verzoek van het Vlaams Parlement, de minister of de Vlaamse Regering;<br>
@@ -695,19 +697,22 @@ De aanwijzing, vermeld in artikel 4.1.1 en artikel 4.1.2, tweede lid, is geldig 
 1° de technische, organisatorische en financiële capaciteit van de (kandidaat-)netbeheerder;<br>
 2° de professionele betrouwbaarheid van de (kandidaat-)netbeheerder;<br>
 3° het exploitatie- of gebruiksrecht van de (kandidaat-)netbeheerder over het distributienet in kwestie;<br>
-4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br>
+4° de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)elektriciteitsdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren&nbsp;en producenten die actief zijn in het Vlaamse Gewest, en de met deze ondernemingen verbonden en geassocieerde ondernemingen en de beheersmatige en juridische onafhankelijkheid van de (kandidaat-)aardgasdistributienetbeheerder ten aanzien van de leveranciers, tussenpersonen en aardgasinvoerders die actief zijn in het Vlaamse Gewest.<br>
+5° de capaciteit om bij de uitoefening van zijn activiteiten inzake databeheer, zoals vermeld in artikel 4.1.8/2, te voldoen aan de vereisten van de algemene verordening gegevensbescherming;<br>
+6° de capaciteit om de uniforme voorwaarden na te leven voor een continu risicobeheersingssysteem met betrekking tot de waarschijnlijkheid en ernst van de uiteenlopende risico's voor de rechten en vrijheden van natuurlijke personen.<br>
 <br>
 § 3. De voorwaarden, vermeld in § 2, 4°, hebben onder meer betrekking op de activiteiten van de netbeheerder, de deelneming van andere ondernemingen in de netbeheerder, de deelneming van de netbeheerder in andere ondernemingen, de verhouding van de netbeheerder tot derden, het bestuursorgaan van de netbeheerder, het orgaan dat belast is met de dagelijkse leiding van de netbeheerder en de personeelsleden van de netbeheerder.<br>
 <br>
 § 4. De voorwaarden en gevallen waarin kan of moet worden overgegaan tot wijziging van de aanwijzing of beëindiging van de aanwijzing van de netbeheerder, vermeld in § 1, 2°, bepalen onder meer dat de aanwijzing van de netbeheerder eindigt bij faillissement, ontbinding of fusie en dat de VREG de aanwijzing van een netbeheerder kan herroepen, op voorwaarde dat die werd gehoord of naar behoren werd opgeroepen, bij :<br>
-1° een significante wijziging in het aandeelhouderschap van de netbeheerder of de werkmaatschappij waarop de netbeheerder een beroep doet, die de onafhankelijkheid van het beheer van het net in kwestie in gevaar zou kunnen brengen;<br>
-2° een grove tekortkoming van de netbeheerder of de werkmaatschappij waarop hij een beroep doet, met betrekking tot de verplichtingen krachtens dit decreet of de uitvoeringsbepalingen ervan.
+1° een significante wijziging in het aandeelhouderschap van de netbeheerder of de werkmaatschappij waarop de netbeheerder een beroep doet, die de onafhankelijkheid van het beheer van het net of de activiteiten inzake databeheer&nbsp;in kwestie in gevaar zou kunnen brengen;<br>
+2° een grove tekortkoming van de netbeheerder of de werkmaatschappij waarop hij een beroep doet, met betrekking tot de verplichtingen krachtens dit decreet of de uitvoeringsbepalingen ervan.<br>
+3° een grove tekortkoming met betrekking tot de naleving van de algemene verordening gegevensbescherming.
 
 ## Afdeling II. Werkmaatschappij
 
 ### ART 4.1.5.
 
-Als een distributienetbeheerder voor de exploitatie van het distributienet en de uitvoering van openbaredienstverplichtingen een beroep wil doen op een werkmaatschappij, moet voorafgaandelijk toestemming verkregen worden van de VREG.<br>
+Als een distributienetbeheerder voor de exploitatie van het distributienet, activiteiten inzake databeheer en de uitvoering van openbaredienstverplichtingen een beroep wil doen op een werkmaatschappij, moet voorafgaandelijk toestemming verkregen worden van de VREG.<br>
 <br>
 De distributienetbeheerders kunnen op elk moment maar op één gezamenlijke werkmaatschappij een beroep doen gedurende een door de VREG aanvaarde periode. Die periode is voor iedere afzonderlijke distributienetbeheerder niet langer dan de duur van de aanwijzing van die distributienetbeheerder, maar is hernieuwbaar na afloop van die termijn.<br>
 <br>
@@ -721,7 +726,7 @@ De VREG kan haar toestemming, vermeld in het eerste lid, intrekken wanneer zij v
 
 ### ART 4.1.5/1.
 
-De raad van bestuur van de werkmaatschappij telt maximaal twintig leden, waarbij elke deelnemende distributienetbeheerder ten minste één vertegenwoordiger heeft.<br>
+§1. De raad van bestuur van de werkmaatschappij telt maximaal twintig leden, waarbij elke deelnemende distributienetbeheerder ten minste één vertegenwoordiger heeft.<br>
 <br>
 Het mandaat van lid van de raad van bestuur, vermeld in het eerste lid, is onverenigbaar met:<br>
 1° het lidmaatschap van de wetgevende kamers, het Europees Parlement, de gemeenschaps- en gewestparlementen, de Vergadering van de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad, de Vlaamse Gemeenschapscommissie of de Franse Gemeenschapscommissie;<br>
@@ -729,7 +734,9 @@ Het mandaat van lid van de raad van bestuur, vermeld in het eerste lid, is onver
 <br>
 Om een meer evenwichtige participatie van mannen en vrouwen te bevorderen mag ten hoogste twee derde van de leden van de raad van bestuur, vermeld in het eerste lid, van hetzelfde geslacht zijn.<br>
 <br>
-Telkens als er door een voordrachtprocedure één of meer mandaten vacant zijn in de raad van bestuur, vermeld in het eerste lid, en de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting, vermeld in het derde lid, wordt de voordrachtprocedure hernomen.
+Telkens als er door een voordrachtprocedure één of meer mandaten vacant zijn in de raad van bestuur, vermeld in het eerste lid, en de voorgedragen kandidaturen het niet mogelijk maken om te voldoen aan de verplichting, vermeld in het derde lid, wordt de voordrachtprocedure hernomen.<br>
+<br>
+§ 2. De werkmaatschappij en de personeelsleden van de werkmaatschappij die zijn aangesteld als functionaris voor gegevensbescherming ontvangen bij de uitvoering van de aan hen en aan de werkmaatschappij in het kader van de algemene verordening gegevensbescherming opgelegde verplichtingen geen directe instructies van de raad van bestuur van de werkmaatschappij, de netbeheerder, de Vlaamse overheid of van de publieke of particuliere rechtspersonen, vermeld in artikel 4.1.22/7 tot en met 4.1.22/12.
 
 ### ART 4.1.5/2.
 
@@ -741,22 +748,42 @@ De jaarlijkse bezoldiging van de gedelegeerd bestuurder, de CEO en de leden van 
 
 ### ART. 4.1.6.
 
-Het beheer van een distributienet en het plaatselijk vervoernet van elektriciteit omvat, onder meer, de volgende taken :<br>
-1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu en de energie-efficiëntie van het net, en in dat verband, het instaan voor de nodige ondersteunende diensten;<br>
-2° het aanhouden van voldoende capaciteit om de elektriciteits- en aardgasbehoefte te dekken van de afnemers die aangesloten zijn op zijn net en het vervoer van elektriciteit en aardgas naar distributienetten mogelijk te maken;<br>
-3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij werd aangewezen of, als er nog geen net aanwezig is, de aanleg van het net in dit geografisch afgebakende gebied;<br>
+§ 1. Het beheer van een distributienet en het plaatselijk vervoernet van elektriciteit omvat de volgende taken:<br>
+1° het beheer en onderhoud en het ontwikkelen onder economische voorwaarden van een veilig, betrouwbaar en efficiënt net met inachtneming van het milieu en de energie-efficiëntie van het net, en de nodige ondersteunende diensten daarvoor verlenen;<br>
+2° het aanhouden van voldoende netcapaciteit om de elektriciteits- en aardgasbehoefte te dekken van de afnemers die aangesloten zijn op zijn net en om het vervoer van elektriciteit en aardgas naar de distributienetten mogelijk te maken;<br>
+3° de uitbreiding van zijn net in het geografisch afgebakende gebied waarvoor hij is aangewezen, of, als er nog geen net aanwezig is, de aanleg van het net in dat geografisch afgebakende gebied;<br>
 4° de herstelling, het preventieve onderhoud, de vernieuwing en de verbetering van zijn net en de bijbehorende installaties;<br>
-5° het herstellen van onderbrekingen en storingen bij de elektriciteits- of aardgastoevoer via zijn net;<br>
+5° het oplossen van onderbrekingen en storingen bij de elektriciteits- of aardgastoevoer via zijn net;<br>
 6° het opstellen, het bewaren en ter beschikking stellen van de plannen van zijn net;<br>
-7° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn net en het verzwaren van de aansluitingen op zijn net;<br>
-8° het verlenen van toegang tot zijn net;<br>
-9° het beheren van het toegangsregister van zijn net;<br>
-10° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
-11° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
-12° het verstrekken van de nodige meetgegevens en andere gegevens aan de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG;<br>
-13° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waarmee zijn net in kwestie verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
-14° als elektriciteitsdistributienetbeheerder transparante, niet-discriminerende en op de markt gebaseerde procedures hanteren bij de aankoop van elektriciteit;<br>
-15° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden.
+7° het aansluiten, verzegelen, afsluiten en heraansluiten van installaties op zijn net en het aanpassen van de aansluitingen op zijn net;<br>
+8° het verlenen van nettoegang;<br>
+9° het verstrekken van de nodige inlichtingen aan de beheerders van de netten waarmee zijn net in kwestie verbonden is, om een veilige en efficiënte uitbating, een gecoördineerde ontwikkeling en een goede wisselwerking tussen de netten te waarborgen;<br>
+10° als elektriciteitsdistributienetbeheerder transparante, niet-discriminerende en op de markt gebaseerde procedures hanteren bij de aankoop van elektriciteit;<br>
+11° alle vormen van energiefraude, gerelateerd aan hun activiteiten, actief detecteren en vaststellen, en maatregelen nemen om energiefraude te vermijden.<br>
+<br>
+§ 2. Het beheer van het distributienet omvat bovendien het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud, het herstellen en het actief beheren van digitale, elektronische en analoge meters en tellers.<br>
+<br>
+§ 3. Het beheer van het plaatselijk vervoernet van elektriciteit omvat bovendien de volgende taken:<br>
+1° het beheren van het toegangsregister van zijn net;<br>
+2° het ter beschikking stellen, de plaatsing, de activering, de desactivering, het onderhoud en het herstellen van meters en tellers op de toegangspunten op zijn net;<br>
+3° het aflezen van de meters en tellers op de toegangspunten op zijn net, de bepaling van de injectie en de afname van de producenten en afnemers die aangesloten zijn op zijn net en de verwerking en de bewaring van die gegevens;<br>
+4° het verstrekken van de nodige meetgegevens en andere gegevens aan de distributienetbeheerder, de beheerder van het transmissienet, de vervoeronderneming, de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de afnemers en de VREG.
+
+### ART 4.1.6/1.
+
+De netbeheerder zorgt met eigen personeel en middelen of via een werkmaatschappij voor de voorbereiding van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het netbeheer:<br>
+1° de exploitatie, het onderhoud en de ontwikkeling van het distributienet of het plaatselijk vervoernet van elektriciteit;<br>
+2° de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit, de aansluiting en aansluitingsvoorwaarden, de technische voorwaarden en de tarieven;<br>
+3° de boekhouding met betrekking tot het netbeheer;<br>
+4° de uitbesteding van de werkzaamheden voor de aansluiting, het netbeheer en meterbeheer.<br>
+<br>
+De netbeheerder en zijn werkmaatschappij kunnen geen beroep doen op producenten, invoerders van buitenlands aardgas, leveranciers of tussenpersonen of op ondernemingen die ermee verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het netbeheer:<br>
+1° contacten met de in aanmerking komende afnemers over de toegang tot het distributienet of het plaatselijk vervoernet van elektriciteit, de aansluitingsvoorwaarden, de technische voorwaarden en de tarieven;<br>
+2° de boekhouding met betrekking tot het netbeheer.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, bepalen welke aanvullende aangelegenheden als strategisch en vertrouwelijk worden beschouwd in de zin van het eerste of tweede lid.<br>
+<br>
+In afwijking van het eerste lid, kan de Vlaamse Regering de nadere voorwaarden bepalen waaronder de netbeheerder voor de uitoefening van zijn taken, vermeld in het eerste lid, toch een beroep kan doen op derden, met uitzondering van producenten, invoerders van buitenlands aardgas, leveranciers of tussenpersonen, bedrijven die als kerntaak het verwerken van data hebben of op ondernemingen die met die ondernemingen verbonden of geassocieerd zijn.
 
 ## [Onderafdeling II. Activiteiten inzake levering, productie, verschaffen van energiediensten, energieopslag en oplaadpunten voor elektrische voertuigen door de netbeheerder en zijn werkmaatschappij (verv. decr. 2 april 2021, art. 14, I: 7 juni 2021)]
 
@@ -766,7 +793,15 @@ Een netbeheerder en zijn werkmaatschappij kunnen geen activiteiten ondernemen in
 
 ### ART. 4.1.8.
 
-§ 1. De beheerder van het plaatselijk vervoernet van elektriciteit kan geen andere activiteiten ondernemen voor de productie van elektriciteit dan de productie van elektriciteit die nodig is om zijn taken als netbeheerder goed te kunnen uitoefenen.<br /><br />§ 2. Een distributienetbeheerder en zijn werkmaatschappij kunnen geen activiteiten ondernemen inzake de productie van elektriciteit of gas, behoudens de productie van elektriciteit uit hernieuwbare energiebronnen en kwalitatieve warmtekrachtkoppeling in productie-installaties waarvan de distributienetbeheerder op 1 oktober 2006 eigenaar is en die op het net van deze distributienetbeheerder aangesloten zijn. De elektriciteit die in deze installaties wordt opgewekt, wordt alleen aangewend voor de dekking van het eigen verbruik van de distributienetbeheerder, het eigen verbruik van de werkmaatschappij en/of de netverliezen. De verdere exploitatie van kwalitatieve warmtekrachtinstallaties waarvan hij op 1 oktober 2006 eigenaar is, vormt een openbaredienstverplichting voor de distributienetbeheerder zolang de certificaten die toegekend zijn voor de primaire energiebesparing die de installatie realiseert, niet aanvaard worden voor de certificatenverplichting, vermeld in artikel 7.1.11. De distributienetbeheerder streeft daarbij naar een maximale primaire energiebesparing.
+§ 1. De beheerder van het plaatselijk vervoernet van elektriciteit kan geen andere activiteiten ondernemen voor de productie van elektriciteit dan de productie van elektriciteit die nodig is om zijn taken als netbeheerder goed te kunnen uitoefenen.<br>
+<br>
+§ 2. Een distributienetbeheerder, zijn werkmaatschappij, en hun dochtervennootschappen die rechtspersoonlijkheid hebben, kunnen:<br>
+1° geen activiteiten ondernemen voor de productie van energie, behalve om het energieverbruik van de eigen gebouwen te dekken;<br>
+2° niet participeren in een rechtspersoon die actief is in de productie van energie. Hieronder valt niet de productie om het energieverbruik van de eigen gebouwen van die rechtspersoon te dekken.<br>
+<br>
+In afwijking van het eerste lid kunnen een distributienetbeheerder, zijn werkmaatschappij of hun dochtervennootschappen die rechtspersoonlijkheid hebben, activiteiten ondernemen voor de productie van thermische energie of participeren in een rechtspersoon die actief is in de productie van thermische energie voor zover deze activiteit tijdelijk is.<br>
+<br>
+De maximale tijdsperiode waarbinnen de distributienetbeheerder, zijn werkmaatschappij of hun dochtervennootschappen die rechtspersoonlijkheid hebben, de activiteiten, vermeld in het tweede lid, kunnen ondernemen, bedraagt vijf jaar. Deze termijn van vijf jaar kan evenwel op basis van een grondig onderbouwde motivatie maximaal driemaal met twaalf maanden verlengd worden. De Vlaamse Regering bepaalt de nadere regels aangaande de uitvoering van deze uitzondering.
 
 ### ART. 4.1.8/1.
 
@@ -775,6 +810,49 @@ Een netbeheerder en zijn werkmaatschappij ondernemen geen activiteiten inzake he
 Niettegenstaande het eerste lid kan de netbeheerder of zijn werkmaatschappij diensten aanbieden aan aandeelhouders/vennoten of op grond van een openbaredienstverplichting die door dit decreet en zijn uitvoeringsbesluiten worden opgelegd, of die voortvloeien uit de gunning van overheidsopdrachten, uitgeschreven door een andere aanbestedende overheid dan de overheden die aandeelhouder/vennoot zijn en voor zover die gunning betrekking heeft op energiediensten die rechtstreeks ten gunste komen van die aandeelhouders/vennoten.
 
 ## [Onderafdeling III. Activiteiten inzake databeheer (ing. decr. 26 april 2019, art. 10, I: 21 juni 2019)]
+
+### ART 4.1.8/2.
+
+De activiteiten inzake databeheer omvatten volgende taken:<br>
+1° het af- en uitlezen van de digitale, elektronische en analoge meters en tellers op de toegangspunten van het distributienet voor:<br>
+a) allocatie, reconciliatie en facturatie in het kader van de aankoop en verkoop van elektriciteit en aardgas;<br>
+b) het aanbieden van energiediensten door een derde na expliciete en geïnformeerde toestemming van de afnemer;<br>
+c) netbeheer en operationele veiligheid;<br>
+2° het beheren van het toegangsregister;<br>
+3° het beheren, verwerken, beveiligen en bewaren van de technische, relationele en meetgegevens met betrekking tot de toegangspunten van het distributienet, en het instaan voor de waarachtigheid en nauwkeurigheid ervan;<br>
+4° de bepaling en de validatie van de injectie en de afname van de producenten en afnemers die aangesloten zijn op het distributienet;<br>
+5° het verstrekken van de nodige gegevens aan andere netbeheerders, de beheerder van het transmissienet, de vervoeronderneming en de beheerder van het plaatselijk vervoernet in het kader van netbeheer en operationele veiligheid;<br>
+6° het faciliteren van de ontwikkeling van innovatieve diensten en producten als dat conform de regelgeving met betrekking tot de verwerking van persoonsgegevens is;<br>
+7° het verstrekken van de nodige gegevens aan de producenten, de evenwichtsverantwoordelijken, de bevrachters, de tussenpersonen, de leveranciers, de beheerder van het plaatselijk vervoernet, de transmissienetbeheerder, de aanbieders van energiediensten, de ESCO's, de aggregatoren, de afnemers en de VREG, voor het vervullen van hun taken of om de energiemarkt te faciliteren en dit op een evenwaardige manier;<br>
+8° het verstrekken van de nodige gegevens aan overheden voor het uitoefenen van hun taak;<br>
+9° het verstrekken van geanonimiseerde gegevens voor wetenschappelijk onderzoek.<br>
+<br>
+De netbeheerder is verantwoordelijk voor het verzekeren van het recht van toegang en het recht van verbetering voor wat betreft de gegevens die hij beheert, verwerkt, valideert en bewaart.<br>
+<br>
+De netbeheerder verstrekt de gegevens, vermeld in het eerste lid, 5°, 7°, 8° en 9°, op een transparante, onpartijdige en niet-discriminatoire wijze, zowel ten aanzien van zichzelf als ten aanzien van de partijen, vermeld in het eerste lid, 5°, 7°, 8° en 9°.<br>
+<br>
+De Vlaamse Regering kan, na advies van de VREG, aan de netbeheerder taken en openbaredienstverplichtingen opleggen met betrekking tot zijn dienstverlening aan onder andere netbeheerders, producenten, leveranciers, aanbieders van energiediensten en afnemers, en met betrekking tot zijn dienstverlening op het vlak van submeting.
+
+### ART 4.1.8/3.
+
+De netbeheerder of zijn werkmaatschappij zorgt met eigen personeel en middelen voor de voorbereiding van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het databeheer, vermeld in artikel 4.1.8/2:<br>
+1° het aflezen van de meters en tellers;<br>
+2° het beheer en de beveiliging van de technische, relationele en meetgegevens.<br>
+<br>
+De netbeheerder of zijn werkmaatschappij kan geen beroep doen op producenten, invoerders van buitenlands aardgas, leveranciers, tussenpersonen, aanbieders van energiediensten, ESCO's, aggregatoren of ondernemingen die met die ondernemingen verbonden of geassocieerd zijn, voor de uitvoering van de beslissingen over de volgende strategische en vertrouwelijke aangelegenheden voor het databeheer, zoals vermeld in artikel 4.1.8/2:<br>
+1° contacten met de afnemers over de toegang tot hun gegevens;<br>
+2° het aflezen van de meters en tellers;<br>
+3° het beheer en de beveiliging van de technische, de relationele en de meetgegevens.<br>
+<br>
+De Vlaamse Regering kan bepalen welke aanvullende aangelegenheden als strategisch en vertrouwelijk worden beschouwd in de zin van het eerste of tweede lid.<br>
+<br>
+De Vlaamse Regering kan de nadere voorwaarden bepalen waaronder de netbeheerder of zijn werkmaatschappij voor de uitvoering van deze taken een beroep kan doen op derden.<br>
+<br>
+In afwijking van het eerste lid, kan de Vlaamse Regering de nadere voorwaarden bepalen waaronder de netbeheerder of zijn werkmaatschappij voor de uitoefening van zijn taken, vermeld in het eerste lid, toch een beroep kan doen op derden, met uitzondering van producenten, invoerders van buitenlands aardgas, leveranciers of tussenpersonen, bedrijven die als kerntaak het verwerken van data hebben of op ondernemingen die met die ondernemingen verbonden of geassocieerd zijn.
+
+### ART 4.1.8/4.
+
+De netbeheerder en zijn werkmaatschappij kunnen de gegevens verkregen bij de uitoefening van zijn taken inzake databeheer, vermeld in artikel 4.1.8/2, niet gebruiken om commerciële diensten aan te bieden.
 
 ## [Onderafdeling IV. Andere activiteiten van de netbeheerders (ing. decr. 2 april 2021, art. 20, I: 7 juni 2021)]
 
@@ -827,6 +905,12 @@ De distributienetbeheerder is een aanvrager van een heraansluiting op zijn   net
 § 1. De netbeheerder is de netgebruiker, aangesloten op het   distributienet, een vergoeding verschuldigd in geval van een niet-geplande   stroomonderbreking met technische oorzaak van minstens vier uur.<BR><BR>De   vergoeding bedraagt 35 euro voor de huishoudelijke netgebruiker, vermeerderd met   20 euro voor elke bijkomende periode van vier uur. Deze bedragen worden   verdubbeld als de onderbreking plaatsvindt in de periode vermeld in artikel   6.1.2, § 1, derde lid.<BR><BR>Voor de niet-huishoudelijke netgebruiker bedraagt   de vergoeding 20% van het bedrag overeenkomstig de distributiekosten voor de   maand die voorafgaat aan de maand waarin de onderbreking zich heeft voorgedaan,   met een minimum van 35 euro. Dat bedrag wordt vermeerderd met de helft van het   bedrag, met een minimum van 20 euro, voor elke bijkomende periode van vier   uur.<BR><BR>§ 2. De vergoedingsplicht, vermeld in paragraaf 1, geldt niet in   geval van een onderbreking als gevolg van een noodsituatie of overmacht, zoals   omschreven in de technische reglementen.<BR><BR>§ 3. De netgebruiker dient de   aanvraag voor de vergoeding in bij de distributienetbeheerder, op straffe van   onontvankelijkheid binnen dertig kalenderdagen die volgen op de langdurige   onderbreking. Binnen zestig kalenderdagen die volgen op de indiening van de   aanvraag, wordt de vergoeding door de distributienetbeheerder betaald als de   aanvraag gegrond is.<BR><BR>§ 4. De distributienetbeheerder wordt in de rechten   van de netgebruiker gesteld ten opzichte van degene die het ontstaan of het   aanhouden van de onderbreking veroorzaakte, voor de door hem betaalde vergoeding   met toepassing van dit artikel.<BR><BR>De Vlaamse Regering bepaalt, na advies   van de VREG, de voorwaarden en de procedure tot indiening van de aanvraag van de   vergoeding.
 
 ## [Onderafdeling VI. Schadevergoeding bij inbreuk in verband met persoonsgegevens (ing. decr. 23 december 2022, art. 9, I: 1 april 2023)]
+
+### ART 4.1.11/6.
+
+Onverminderd de toepassing van artikel 82 van de algemene verordening gegevensbescherming is de netbeheerder aan de betrokkene vergoeding verschuldigd van de schade die de betrokkene lijdt als gevolg van een inbreuk in verband met de persoonsgegevens die de netbeheerder beheert, valideert en bewaart. De betrokkene dient hiervoor enkel de schade en het oorzakelijk verband tussen de inbreuk en de schade te bewijzen.<br>
+<br>
+De netbeheerder wordt in de rechten van de betrokkene gesteld ten opzichte van de veroorzaker van de inbreuk, voor de vergoeding die hij heeft betaald met toepassing van dit artikel.
 
 ## [Onderafdeling VII. Forfaitaire vergoeding bij laattijdige plaatsing van een digitale meter (ing. decr. decr. 23 december 2022, art. 10, I: 1 april 2023)]
 
@@ -964,9 +1048,124 @@ De Vlaamse Regering kan, na advies van de VREG, de netbeheerders extra openbared
 
 ### ART. 4.1.22/2.
 
-§ 1. De Vlaamse Regering bepaalt de situaties waarin de netbeheerder en de   beheerder van een gesloten distributienet een slimme meter plaatsen.<BR><BR>§ 2.   In het geval dat een slimme meter wordt geplaatst, zorgen de netbeheerder en de   beheerder van een gesloten distributienet ervoor dat de afnemer voldoende   geïnformeerd en geadviseerd wordt over zijn rechten en plichten en het volledige   potentieel dat de meter heeft, onder meer inzake het gebruik van de gegevens van   de slimme meter en inzake de mogelijkheid voor de afnemer tot controle van zijn   energieverbruik.<BR><BR>§ 3. De Vlaamse Regering bepaalt aan welke voorwaarden   deze slimme meters moeten voldoen.<BR><BR>§ 4. De Vlaamse Regering bepaalt welke   partijen voor welke doeleinden toegang krijgen tot welke gegevens uit slimme   meters.<BR><BR>§ 5. De partijen die via dit decreet en zijn   uitvoeringsbepalingen toegang krijgen tot de gegevens uit deze slimme meters,   zorgen ervoor dat te allen tijde de dataveiligheid gegarandeerd wordt en voldaan   wordt aan de privacywetgeving.
+De netbeheerder plaatst een digitale meter bij netgebruikers met een laagspanningsaansluiting &lt; 56 kVA en in de volgende gevallen met voorrang:<br>
+1° bij nieuwbouw en ingrijpende renovatie;<br>
+2° bij verplichte metervervanging;<br>
+3° bij installatie van nieuwe decentrale productie-installaties met een maximaal AC-vermogen van 10 kVa;<br>
+4° bij vervanging van bestaande actieve budgetmeters en plaatsing van nieuwe budgetmeters;<br>
+5° bij bestaande prosumenten;<br>
+6° bij vervanging van de meters die geplaatst werden in het proefproject slimme meters en in het proefproject digitale budgetmeter van de distributienetbeheerders;<br>
+7° op verzoek van de netgebruiker.<br>
+<br>
+[... <em>(vernietigd bij arrest 5/2021 van het Grondwettelijk Hof van 14 januari 2021)</em>]<br>
+<br>
+Op expliciete vraag van de netgebruiker in de situatie, vermeld in punt 3° en 5°, wordt de productiemeter vervangen door de netbeheerder en desgevallend gekoppeld aan de digitale meter. De netgebruiker staat in voor de kosten van deze productiemeter, de plaatsing en de indienststelling.<br>
+<br>
+De Vlaamse Regering kan op basis van de kosten-batenanalyse bijkomende gevallen bepalen waarin de netbeheerder een digitale meter met voorrang plaatst.<br>
+<br>
+De Vlaamse Regering bepaalt de timing en de modaliteiten voor het plaatsen van de meters, vermeld in het eerste en vierde lid.
+
+### ART 4.1.22/3.
+
+De digitale meter:<br>
+1° kan energiestromen en de kwaliteit ervan meten en registreren;<br>
+2° kan op afstand communiceren met de distributienetbeheerder;<br>
+3° bezit de technische mogelijkheid tot communiceren met applicaties van andere marktpartijen;<br>
+4° kan op afstand het toegangsvermogen instellen en de toegang tot het distributienet verlenen en onderbreken.<br>
+<br>
+De marktpartijen, vermeld in het eerste lid, 3°, verwerken alleen de gegevens die strikt noodzakelijk zijn om hun diensten te verlenen en waarover een overeenkomst werd afgesloten met de betrokkene. Die gegevens zijn toereikend, ter zake dienend en niet overmatig ten opzichte van de doeleinden waarvoor ze gebruikt zullen worden.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden waaraan de digitale meters moeten voldoen.
 
 ## [Onderafdeling II. Verwerking van gegevens (ing. Decr. 26 april 2019, art. 19, I: 21 juni 2019)]
+
+### ART 4.1.22/4.
+
+De betrokkene behoudt de zeggenschap over zijn persoonsgegevens uit de digitale meter, de elektronische meter en de analoge meter conform de diverse rechten en plichten voorzien door de wetgever, tenzij op basis van de gevallen en onder de voorwaarden en waarborgen, bepaald door of krachtens wet of decreet.
+
+### ART 4.1.22/5.
+
+De netbeheerder of zijn werkmaatschappij verleent, met inachtneming van het tweede lid en hetgeen bepaald is in artikel 4.1.8/2, aan de volgende partijen toegang tot de gegevens verzameld uit de digitale, elektronische of analoge meter:<br>
+1° de overheden voor de gegevens die ze gemachtigd zijn te kennen uit hoofde van een wet, een decreet of een ordonnantie;<br>
+2° de instellingen en de natuurlijke personen of rechtspersonen voor de informatie die ze nodig hebben om de opdrachten van algemeen belang te vervullen die hun zijn toevertrouwd door of krachtens een wet, een decreet of een ordonnantie;<br>
+3° distributienetbeheerders en hun werkmaatschappij, beheerders van een gesloten distributienet, de beheerder van het transmissienet, de vervoeronderneming, de beheerder van het plaatselijk vervoernet, producenten, leveranciers, tussenpersonen, bevrachters, evenwichtsverantwoordelijken en de VREG;<br>
+4° de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt;<br>
+5° een andere partij, op voorwaarde dat de netgebruiker en in voorkomend geval de natuurlijke persoon van wie de persoonsgegevens worden verwerkt, toestemming heeft gegeven aan die partij;<br>
+6° elke partij voor zover de gegevens die worden verwerkt volledig geanonimiseerd zijn.<br>
+<br>
+De netbeheerder of zijn werkmaatschappij verleent de partijen, vermeld in het eerste lid, alleen toegang tot die gegevens die strikt noodzakelijk zijn om hun respectieve taken uit te oefenen. Die gegevens zijn toereikend, ter zake dienend en niet overmatig ten opzichte van de doeleinden waarvoor ze gebruikt zullen worden.<br>
+<br>
+De Vlaamse Regering kan nadere voorwaarden en modaliteiten vastleggen met betrekking tot de gegevensuitwisseling tussen netbeheerder of zijn werkmaatschappij en de andere gelegitimeerde partijen.
+
+### ART 4.1.22/6.
+
+De netbeheerder of zijn werkmaatschappij beheert, verwerkt, beveiligt en bewaart de technische, relationele en meetgegevens met betrekking tot de toegangspunten tot zijn net, met het oog op de uitvoering van de taken inzake databeheer die hem worden opgelegd in artikel 4.1.8/2.<br>
+<br>
+De netbeheerder of zijn werkmaatschappij beheert, verwerkt, beveiligt en bewaart de technische, relationele en meetgegevens met betrekking tot de toegangspunten tot zijn net, met het oog op de uitvoering van de taken als beheerder van het distributienet en het plaatselijk vervoernet van elektriciteit, die hem worden opgelegd in de artikelen 4.1.6 en 4.1.22, eerste lid, 2° en 4°.<br>
+<br>
+De technische gegevens, de relationele gegevens en de meetgegevens, vermeld in het eerste en tweede lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste, tweede en derde lid, is de netbeheerder de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.<br>
+<br>
+De personeelsleden van de netbeheerder die zijn aangesteld als functionaris voor gegevensbescherming ontvangen bij de uitvoering van de aan hen of hun werkmaatschappij in het kader van de algemene verordening gegevensbescherming opgelegde verplichtingen geen directe instructies van de raad van bestuur van de netbeheerder, de Vlaamse overheid of van de publieke of particuliere rechtspersonen, vermeld in artikelen 4.1.22/7 tot en met 4.1.22/12.
+
+### ART 4.1.22/7.
+
+De leveranciers verwerken de relationele gegevens en de meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op het klantbeheer en de facturatie, vermeld in artikel 4.3.2.<br>
+<br>
+Alle relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, zijn de leveranciers de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 4.1.22/8.
+
+De aanbieders van energiediensten verwerken technische gegevens, relationele gegevens en meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op klantbeheer en het aanbieden van diensten.<br>
+<br>
+Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, zijn de aanbieders van energiediensten de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 4.1/22/9.
+
+De evenwichtsverantwoordelijke en bevrachter verwerken meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, om tot een evenwicht van het net te komen.<br>
+<br>
+Als deze meetgegevens, vermeld in het eerste lid, ook persoonsgegevens zijn, zijn de evenwichtsverantwoordelijke en de bevrachter voor de verwerkingen van persoonsgegevens in het kader van het doeleinde, vermeld in het eerste lid, de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 4.1.22/10.
+
+De overheden verwerken de technische gegevens, de relationele gegevens en de meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op de uitoefening van taken die hun worden opgelegd door of krachtens een wet, een decreet of een ordonnantie.<br>
+<br>
+Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+De overheden zijn de verwerkingsverantwoordelijke, vermeld in de wetgeving met betrekking tot de verwerking van persoonsgegevens, bij de verwerking van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid.
+
+### ART 4.1.22/11.
+
+De instellingen en de natuurlijke personen of rechtspersonen, vermeld in artikel 4.1.22/5, eerste lid, 2°, verwerken technische gegevens, relationele gegevens en meetgegevens, waartoe zij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang hebben, met het oog op het vervullen van de opdrachten van algemeen belang die hun zijn toevertrouwd door of krachtens een wet, een decreet of een ordonnantie.<br>
+<br>
+Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+De instellingen en de natuurlijke personen of rechtspersonen, vermeld in artikel 4.1.22/5, eerste lid, 2°, zijn de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming, bij de verwerking van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid.
+
+### ART 4.1.22/12.
+
+De VREG verwerkt technische gegevens, relationele gegevens en meetgegevens, waartoe hij via de netbeheerder of zijn werkmaatschappij overeenkomstig artikel 4.1.22/5 toegang heeft, met het oog op het uitvoeren van zijn taken die hem worden opgelegd door of krachtens dit decreet.<br>
+<br>
+Alle technische gegevens, relationele gegevens en meetgegevens, vermeld in het eerste lid, kunnen ook persoonsgegevens zijn.<br>
+<br>
+Voor de verwerkingen van persoonsgegevens in het kader van de doeleinden, vermeld in het eerste lid, is de VREG de verwerkingsverantwoordelijke, vermeld in artikel 4, 7), van de algemene verordening gegevensbescherming.
+
+### ART 4.1.22/13.
+
+Als een digitale meter wordt geplaatst, zorgt de netbeheerder ervoor dat de netgebruiker en in voorkomend geval de betrokkene voldoende geïnformeerd en geadviseerd worden over:<br>
+1° de verplichte informatie met betrekking tot de verwerking van hun persoonsgegevens die op grond van de algemene verordening gegevensbescherming verstrekt moet worden;<br>
+2° het volledige potentieel dat de meter heeft, over het gebruik van de gegevens van de digitale meter en over de mogelijkheid om hun energieverbruik te controleren.<br>
+<br>
+De partijen, vermeld in artikel 4.1.22/6 tot en met artikel 4.1.22/12, stellen een continu risicobeheersingssysteem met betrekking tot de waarschijnlijkheid en ernst van de uiteenlopende risico's voor de rechten en vrijheden van natuurlijke personen op. De voormelde partijen brengen de betrokkenen op de hoogte van de periode waarin hun persoonsgegevens zullen worden opgeslagen, of als dat niet mogelijk is, de criteria om die termijn te bepalen. Als de voormelde partijen gebruikmaken van onderzoekstechnieken zoals datamining, profilering en geautomatiseerde besluitvorming, vermelden ze dat uitdrukkelijk en geven ze inzage in de gebruikte methodologische keuzes.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere procedures en modaliteiten om de transparantie ten aanzien van de betrokkenen te garanderen en misbruik van die gegevens zoveel mogelijk te voorkomen. De Vlaamse Regering bepaalt de uniforme voorwaarden voor het risicobeheersingssysteem, vermeld in het tweede lid.<br>
+<br>
+De Vlaamse Regering kan in samenwerking met de betrokken partijen een gedragscode opstellen waarin bepaald wordt hoe deze partijen moeten omgaan met de gegevens verkregen uit de submeter.
 
 ## [Afdeling X. Prerogatieven van de netbeheerders (ing. Decr. 16 maart 2012, art. 6, I: 1 juli 2012)]
 
@@ -1022,7 +1221,7 @@ De domeinbeheerder kan om redenen van algemeen belang op elk moment voorwaarden 
 
 ### ART. 4.1.29.
 
-De aansluiting op en het gebruik van het distributienet voor de afname   en/of injectie van elektriciteit, aardgas of biogas, met inbegrip van de   meetdiensten en, in voorkomend geval, de ondersteunende diensten en de   openbaredienstverplichtingen, maken het voorwerp uit van gereguleerde   tarieven.
+De aansluiting op en het gebruik van het distributienet voor de afname en/of injectie van elektriciteit, aardgas of biogas, de activiteiten inzake databeheer, in voorkomend geval, de ondersteunende diensten en de openbaredienstverplichtingen, maken het voorwerp uit van gereguleerde tarieven.
 
 ## [Onderafdeling II. Algemene bepalingen (ing. decr. 27 november 2015, art. 11, I: 10 december 2015)]
 
@@ -1049,7 +1248,7 @@ De aansluiting op en het gebruik van het distributienet voor de afname   en/of i
 2° onverminderd de mogelijkheid om conform artikel 4.1.33, § 4, de tariefmethodologie tussentijds te herzien, stelt de tariefmethodologie het aantal jaren vast van de reguleringsperiode die aanvangt op 1 januari van het jaar dat volgt op het jaar waarin de VREG de tariefmethodologie heeft vastgesteld;<br>
 3° de criteria voor de verwerping van kosten zijn niet-discriminerend en transparant;<br>
 4° de tarieven zijn niet-discriminerend en proportioneel;<br>
-5° de tarieven zijn een afspiegeling van de werkelijk gemaakte kosten, voor zover deze overeenkomen met die van een efficiënte en structureel vergelijkbare distributienetbeheerder;<br>
+5° de tarieven zijn een afspiegeling van de werkelijk gemaakte kosten, voor zover deze overeenkomen met die van een efficiënte vergelijkbare entiteit of activiteit;<br>
 6° de tarieven strekken ertoe een juist evenwicht te bieden tussen de kwaliteit van de gepresteerde diensten en de prijzen die door de netgebruikers worden gedragen. Dit wordt door de VREG onder andere gecontroleerd door middel van een vergelijking met distributienetactiviteiten in de andere gewesten en de buurlanden;<br>
 7° de verschillende tarieven worden gevormd op basis van een uniforme structuur op het grondgebied dat de distributienetbeheerder beheert;<br>
 8° in geval van fusie of wijzigingen van distributienetbeheerders kunnen tot het einde van de op het moment van die fusie of van die wijzigingen lopende evenals de daaropvolgende reguleringsperiode in elke geografische zone verschillende tarieven verder worden toegepast;<br>
@@ -1111,6 +1310,10 @@ De reglementen bevatten telkens de bepalingen van toepassing op de gesloten dist
 7° de prioriteit die moet worden gegeven aan kwalitatieve warmtekrachtinstallaties en aan productie-installaties van groene stroom;<br>
 8° de verplichting voor de netbeheerders tot het verstrekken van informatie aan de VREG over de beoordeling die zij uitvoeren van het potentieel voor energie-efficiëntie van hun gas- en elektriciteitsinfrastructuur, in het bijzonder wat betreft transport, distributie, beheer van de belasting van het net en interoperabiliteit, en de aansluiting op installaties voor energieopwekking, inclusief de toegangsmogelijkheden voor micro-energiegeneratoren;<br>
 9° de vaststelling of goedkeuring van niet-tarifaire toegangs- en aansluitingsvoorwaarden.<br>
+10° de technische en operationele regels die verbonden zijn aan de taken die behoren tot het databeheer, vermeld in artikel 4.1.8/2;<br>
+11° de limitatieve lijst van rubrieken van gegevens die de netbeheerder nodig heeft voor de uitvoering van de taken die hem in of krachtens voorliggend decreet worden opgelegd;<br>
+12° de limitatieve lijst van persoonsgegevens, zoals meetgegevens en afgeleide gegevens, die de distributienetnetbeheerder nodig heeft voor de uitvoering van de taken die hem in of krachtens voorliggend decreet worden opgelegd;<br>
+13° de lijst van gegevens, waaronder ook persoonsgegevens, die in het toegangsregister worden opgenomen.<br>
 <br>
 § 3. De technische reglementen, vermeld in paragraaf 1, worden na een openbare consultatie goedgekeurd door de raad van bestuur van de VREG.<br>
 <br>
@@ -1559,12 +1762,12 @@ Behoudens de gevallen, vermeld in artikel 6.1.2, heeft iedere   huishoudelijke a
 2° bij een leegstaande woning, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
 3° bij&nbsp;energiefraude als vermeld in artikel 1.1.3, 40° /1, a), b), c), d) en g) van de huishoudelijke afnemer, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
 4° als de huishoudelijke afnemer geen wanbetaler is en weigert om een leveringscontract te sluiten, na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
-5° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor de plaatsing, de inschakeling, de controle of de meteropname van de elektriciteitsmeter, inclusief de budgetmeter voor elektriciteit en de stroombegrenzer of van de aardgasmeter, inclusief de budgetmeter voor aardgas;<br>
-6° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de budgetmeter voor elektriciteit is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor het uitschakelen van de stroombegrenzer in de budgetmeter voor elektriciteit;<br>
+5° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de elektriciteits- of aardgasmeter is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor de plaatsing, de inschakeling, de controle of de meteropname van de elektriciteitsmeter, inclusief de budgetmeter voor elektriciteit en de stroombegrenzer of van de aardgasmeter, inclusief de budgetmeter voor aardgas of voor werken aan de aansluiting;<br>
+6° als de huishoudelijke afnemer weigert om aan de netbeheerder toegang te geven tot de ruimte waarin de budgetmeter voor elektriciteit is opgesteld en waarover hij het eigendoms- of gebruiksrecht heeft, voor technische ingrepen aan de meter die nodig zijn om de opgelegde regelingen in het kader van de sociale openbaredienstverplichtingen mogelijk te maken en die niet vanop afstand uitgevoerd kunnen worden;<br>
 7° als de huishoudelijke afnemer weigert om met de netbeheerder een afbetalingsplan te sluiten of als hij het gesloten afbetalingsplan met de netbeheerder niet naleeft, onder de voorwaarden die door de Vlaamse Regering worden bepaald, en na het volgen van een procedure die door de Vlaamse Regering wordt bepaald;<br>
 8° als het leveringscontract van de huishoudelijke afnemer werd opgezegd om een andere reden dan wanbetaling en als de huishoudelijke afnemer binnen een periode die door de Vlaamse Regering wordt vastgelegd, geen leveringscontract heeft gesloten, tenzij de betreffende afnemer kan aantonen dat hij geen leveringscontract heeft kunnen sluiten.<br>
 <br>
-In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de afsluiting pas na een advies van de lokale adviescommissie.<br>
+[...&nbsp;<em>(vernietigd bij arrest 5/2021 van het Grondwettelijk Hof van 14 januari 2021)</em>]<br>
 <br>
 In de gevallen, vermeld in 5°, 6°, 7° en 8°, van het eerste lid, kan de Vlaamse Regering de afsluiting van de elektriciteits- of aardgastoevoer in bepaalde periodes beperken of verbieden.<br>
 <br>
@@ -2742,7 +2945,7 @@ Elke overtreding van het beroepsgeheim, zoals vermeld in de artikelen 3.1.12 , 4
 
 § 1. Tenzij dit decreet in een specifieke procedure voorziet, kan de VREG elke natuurlijke persoon of rechtspersoon schriftelijk in gebreke stellen bij niet-naleving van de bepalingen van&nbsp;titel IV, IV/1, V, VI hoofdstuk I tot en met IV van titel VII en artikel 13.1.2, van dit decreet en de bijbehorende uitvoeringsbesluiten, met inbegrip van de technische reglementen en het technisch reglement warmte- of koudenetten.<br>
 <br>
-§ 2. De VREG kan de persoon die in gebreke werd gesteld overeenkomstig § 1 en werd gehoord of daartoe naar behoren werd opgeroepen, een van de administratieve geldboetes, vermeld in artikel 13.3.2. tot en met 13.3.4, opleggen. De VREG zorgt ervoor dat er in deze gevallen geen kennelijke wanverhouding bestaat tussen de feiten die aan de administratieve boete ten grondslag ligt en de administratieve boete die op grond van die feiten wordt opgelegd.<br>
+§ 2. De VREG kan de persoon die in gebreke werd gesteld overeenkomstig § 1 en werd gehoord of daartoe naar behoren werd opgeroepen,&nbsp;een van de administratieve geldboetes, vermeld in artikel 13.3.2, 13.3.3, 13.3.4 of 13.3.6, opleggen. De VREG zorgt ervoor dat er in deze gevallen geen kennelijke wanverhouding bestaat tussen de feiten die aan de administratieve boete ten grondslag ligt en de administratieve boete die op grond van die feiten wordt opgelegd.<br>
 <br>
 De VREG legt de persoon die in gebreke werd gesteld wegens niet-naleving van de artikelen 7.1.10, 7.1.11 of 7.2.3, en werd gehoord of daartoe naar behoren werd opgeroepen, de administratieve boete op, voorzien in artikel 13.3.5.<br>
 <br>
@@ -2807,6 +3010,10 @@ b) 38 euro per warmtekrachtcertificaat dat de certificaatplichtige na 31 maart 2
 De VREG kan haar beslissing herroepen of het bedrag van de administratieve geldboete aanpassen als blijkt dat er materiële vergissingen of rekenfouten gemaakt zouden zijn. Zoniet wijst zij het bezwaar van betrokkene af.
 
 ## [Afdeling V. Administratieve geldboete bij misbruik van gegevens uit meters (ing. Decr. 26 april 2019, art. 40, I: 21 juni 2019)]
+
+### ART 13.3.6.
+
+De VREG legt aan iedere natuurlijke persoon of rechtspersoon die de gegevens die de netbeheerder verzamelt conform artikel 4.1.8/2, aanwendt op een wijze die niet in overeenstemming is met de bepalingen van dit decreet en de uitvoeringsbesluiten ervan, een administratieve geldboete op die niet lager mag zijn dan 1000 euro en niet hoger mag zijn dan 20 miljoen euro of voor een onderneming 4% van de totale wereldwijde jaaromzet in het voorgaande boekjaar, als dat cijfer hoger is.
 
 ## HOOFDSTUK IV. Administratieve sancties opgelegd door [het VEKA (verv. decr. 4 december 2020, art. 35, I: 1 januari 2021)]
 
@@ -3387,6 +3594,10 @@ Indien de afnamepunten, vermeld in het eerste en tweede lid, op 1 januari 2021 e
 Voor productie-installaties voor zonne-energie met een maximaal AC-vermogen van 10 kVA die geïnstalleerd worden vanaf 1 januari 2021 moet de elektrische productie die geïnjecteerd wordt op het distributienet worden opgekocht.<br>
 <br>
 De Vlaamse Regering bepaalt de nadere modaliteiten, en wie tegen welke minimumvergoeding moet opkopen.
+
+### ART 15.3.5/14.
+
+Artikel 4.1.8, § 2, is niet van toepassing op de productie van thermische energie in projecten die op datum 1 januari 2018 al in aanbouw of operationeel zijn, of waarvoor op die datum de nodige vergunningen werden verkregen.
 
 ### ART 15.3.5/15.
 
