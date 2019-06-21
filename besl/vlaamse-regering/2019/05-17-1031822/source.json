@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031822,
+  "title": "Besluit van de Vlaamse Regering van 2019-05-17 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de uitrol van digitale meters",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031822/VolledigDocument?datum=2019-06-21",
+  "source_sha256": "4fba9804d6da4f9aaf219217c14393c60685a0265fcf6b64953d1e7c74ba2b2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031822&param=informatie",
+  "as_of": "2019-06-21",
+  "made": "2019-05-17",
+  "gazette": "2019-06-21",
+  "numac": 2019041225,
+  "document_start": "2019-06-21",
+  "document_end": null,
+  "in_force": "2019-06-21",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2019-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
