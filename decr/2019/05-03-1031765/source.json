@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031765,
+  "title": "Decreet van 2019-05-03 houdende instemming met het Verdrag van Straatsburg van 2012 inzake de beperking van aansprakelijkheid in de binnenvaart (CLNI 2012), ondertekend te Straatsburg op 27 september 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031765/VolledigDocument?datum=2019-06-22",
+  "source_sha256": "0804b45a1fb26f67502e3f081524fc3da31a1a0623868a5c589be56eaf2c4b37",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031765&param=informatie",
+  "as_of": "2019-06-22",
+  "made": "2019-05-03",
+  "gazette": "2019-06-12",
+  "numac": 2019012935,
+  "document_start": "2019-06-22",
+  "document_end": null,
+  "in_force": "2019-06-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
