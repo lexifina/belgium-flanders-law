@@ -8,7 +8,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 ### ART. 2.
 
-<P>In dit decreet wordt verstaan onder :<BR>1° personen met een handicap of een   ernstig beperkte mobiliteit : alle personen van wie de mobiliteit bij het   gebruik van vervoer ernstig beperkt is, waarvoor het geregeld vervoer geen   adequaat alternatief biedt en van wie de situatie vereist dat ze passende   aandacht krijgen;<BR>2° vervoerder : een organisatie die met toepassing van   artikel 5, tweede lid, belast is met <BR>het vervoer van personen met een   handicap of een ernstig beperkte mobiliteit.<BR></P>  <P>De Vlaamse Regering kan de personen met een handicap of een ernstig beperkte   mobiliteit nader omschrijven.<BR></P>
+<p>In dit decreet wordt verstaan onder :<br>
+1° personen met een handicap of een ernstig beperkte mobiliteit : alle personen van wie de mobiliteit bij het gebruik van vervoer ernstig beperkt is, waarvoor het geregeld vervoer geen adequaat alternatief biedt en van wie de situatie vereist dat ze passende aandacht krijgen;<br>
+2° vervoerder : een organisatie die met toepassing van artikel 5, tweede lid, belast is met<br>
+het vervoer van personen met een handicap of een ernstig beperkte mobiliteit;<br>
+3° Mobiliteitscentrale: het orgaan, vermeld in artikel 33 van het decreet van 26 april 2019 betreffende de basisbereikbaarheid.</p>
+
+<p>De Vlaamse Regering kan de personen met een handicap of een ernstig beperkte mobiliteit nader omschrijven.</p>
 
 ### ART. 3.
 
@@ -24,7 +30,21 @@ Dit decreet is niet van toepassing op het zieken-, collectieve leerlingen-   en 
 
 ### ART. 6.
 
-<P>Binnen de door het Vlaams Parlement goedgekeurde kredieten en onder de   voorwaarden vermeld in dit decreet, compenseert de Vlaamse Regering de   openbaredienstverplichting, vermeld in artikel 5.<BR></P>  <P>De Vlaamse Regering bepaalt het maximale bedrag van de compensatie, vermeld   in het <BR>eerste lid, van openbaredienstverplichting, op basis van de volgende   parameters :<BR>1° de compensatie is niet hoger dan nodig om de kosten van de   uitvoering van de openbaredienstverplichting, vermeld in artikel 5, geheel of   gedeeltelijk te dekken, rekening houdend met de opbrengsten;<BR>2° de maximale   compensatie wordt vastgesteld op basis van de kosten die een gemiddelde, goed   beheerde onderneming die voldoende met vervoermiddelen is uitgerust, zou hebben   gemaakt.<BR></P>  <P>De Vlaamse Regering zal bij het bepalen van het bedrag van de compensatie als   vermeld in het tweede lid, vermijden dat de compensatie een economisch voordeel   bevat waardoor de gecompenseerde ondernemingen ten opzichte van concurrerende   ondernemingen kunnen worden bevoordeeld.<BR></P>  <P>De compensatie, vermeld in het eerste lid, kan bestaan uit een variabel en   een vast gedeelte, namelijk :<BR>1° een variabel gedeelte voor de gereden   kilometers met de persoon met een handicap of een ernstig beperkte   mobiliteit;<BR>2° een vast gedeelte voor :<BR>a) de begeleiding bij het op- en   afhalen van de persoon met een handicap of een ernstig beperkte   mobiliteit;<BR>b) de hard- en software om de uit te voeren ritten te   optimaliseren;<BR>c) de bemanning van de centrale.<BR></P>
+<p>Binnen de door het Vlaams Parlement goedgekeurde kredieten en onder de voorwaarden vermeld in dit decreet, compenseert de Vlaamse Regering de openbaredienstverplichting, vermeld in artikel 5.</p>
+
+<p>De Vlaamse Regering bepaalt het maximale bedrag van de compensatie, vermeld in het<br>
+eerste lid, van openbaredienstverplichting, op basis van de volgende parameters :<br>
+1° de compensatie is niet hoger dan nodig om de kosten van de uitvoering van de openbaredienstverplichting, vermeld in artikel 5, geheel of gedeeltelijk te dekken, rekening houdend met de opbrengsten;<br>
+2° de maximale compensatie wordt vastgesteld op basis van de kosten die een gemiddelde, goed beheerde onderneming die voldoende met vervoermiddelen is uitgerust, zou hebben gemaakt.</p>
+
+<p>De Vlaamse Regering zal bij het bepalen van het bedrag van de compensatie als vermeld in het tweede lid, vermijden dat de compensatie een economisch voordeel bevat waardoor de gecompenseerde ondernemingen ten opzichte van concurrerende ondernemingen kunnen worden bevoordeeld.</p>
+
+<p>De compensatie, vermeld in het eerste lid, kan bestaan uit een variabel en een vast gedeelte, namelijk :<br>
+1° een variabel gedeelte voor de gereden kilometers met de persoon met een handicap of een ernstig beperkte mobiliteit;<br>
+2° een vast gedeelte voor :<br>
+a) de begeleiding bij het op- en afhalen van de persoon met een handicap of een ernstig beperkte mobiliteit;<br>
+b) de hard- en software om de uit te voeren ritten te optimaliseren;<br>
+c) ...</p>
 
 ### ART. 7.
 
@@ -36,7 +56,18 @@ Dit decreet is niet van toepassing op het zieken-, collectieve leerlingen-   en 
 
 ### ART. 9.
 
-<P>De compensatie, vermeld in artikel 6, wordt uitbetaald na de goedkeuring van   de aanvraag van de compensatie op basis van informatie over :<BR>1° de   aanvrager;<BR>2° de dienstverlening;<BR>3° de ingezette voertuigen : alle   documenten waaruit blijkt dat de ingezette voertuigen voldoen aan de technische,   veiligheids-, toegankelijkheids- en comfortvereisten;<BR>4° de uitgevoerde   ritten;<BR>5° de boekhoudkundige documenten waaruit blijkt dat aan de voorwaarde   van artikel 10, eerste lid, is voldaan.<BR></P>  <P>Als de gecompenseerde vervoerder naast de openbaredienstverplichting andere   activiteiten dan die, vermeld in artikel 5, verricht, worden in de interne   boekhouding de kosten en inkomsten die met het vervoer, vermeld in artikel 5,   verband houden, en die van de andere diensten, alsook de parameters voor de   toekenning van die kosten en inkomsten, gescheiden opgenomen.<BR></P>  <P>De Vlaamse Regering kan, nadat ze de aanvraag ontvangen heeft, alle gegevens   over de ritten opvragen bij de vervoerder.<BR></P>  <P>De Vlaamse Regering bepaalt de verdere voorwaarden voor de aanvraag en de   uitbetaling van de compensatie, vermeld in artikel 6.<BR></P>
+<p>De compensatie, vermeld in artikel 6, wordt uitbetaald na de goedkeuring van de aanvraag van de compensatie op basis van informatie over :<br>
+1° de aanvrager;<br>
+2° de dienstverlening;<br>
+3° de ingezette voertuigen : alle documenten waaruit blijkt dat de ingezette voertuigen voldoen aan de technische, veiligheids-, toegankelijkheids- en comfortvereisten;<br>
+4° de uitgevoerde ritten;<br>
+5° de boekhoudkundige documenten waaruit blijkt dat aan de voorwaarde van artikel 10, eerste lid, is voldaan.</p>
+
+<p>Als de gecompenseerde vervoerder naast de openbaredienstverplichting andere activiteiten dan die, vermeld in artikel 5, verricht, worden in de interne boekhouding de kosten en inkomsten die met het vervoer, vermeld in artikel 5, verband houden, en die van de andere diensten, alsook de parameters voor de toekenning van die kosten en inkomsten, gescheiden opgenomen.</p>
+
+<p>De Vlaamse Regering kan, nadat ze de aanvraag ontvangen heeft, alle gegevens over de ritten opvragen bij de vervoerder of bij de Mobiliteitscentrale.</p>
+
+<p>De Vlaamse Regering bepaalt de verdere voorwaarden voor de aanvraag en de uitbetaling van de compensatie, vermeld in artikel 6.</p>
 
 ### ART. 10.
 
@@ -44,11 +75,21 @@ Dit decreet is niet van toepassing op het zieken-, collectieve leerlingen-   en 
 
 ### ART. 11.
 
-<P>Elk jaar bezorgt elke gecompenseerde vervoerder aan de Vlaamse Regering   exploitatiestatistieken met de volgende gegevens over het afgelopen kalenderjaar   :<BR>1° afgelegde kilometers met een klant;<BR>2° aantal ritten;<BR>3° aantal   aanvragen;<BR>4° aantal uitgevoerde aanvragen;<BR>5° aantal afgezegde of   geweigerde ritten, alsook de motieven op grond waarvan de ritten werden   geweigerd;<BR>6° aantal klachten.<BR></P>  <P>De Vlaamse Regering kan aanvullende statistische gegevens bepalen die de   vervoerder aan de Vlaamse Regering moet bezorgen.<BR></P>
+<p>Elk jaar bezorgt elke gecompenseerde vervoerder aan de Vlaamse Regering exploitatiestatistieken met de volgende gegevens over het afgelopen kalenderjaar :<br>
+1° afgelegde kilometers met een klant;<br>
+2° aantal ritten;<br>
+3° aantal aanvragen;<br>
+4° aantal uitgevoerde aanvragen;<br>
+5° aantal afgezegde of geweigerde ritten, alsook de motieven op grond waarvan de ritten werden geweigerd;<br>
+6° aantal klachten.<br>
+<br>
+De Vlaamse Regering kan de gegevens, vermeld in het eerste lid, in voorkomend geval rechtstreeks opvragen bij de Mobiliteitscentrale.<br>
+<br>
+De Vlaamse Regering kan aanvullende statistische gegevens bepalen die de vervoerder of de Mobiliteitscentrale aan de Vlaamse Regering moet bezorgen.</p>
 
 ### ART. 12.
 
-De gecompenseerde vervoerder vermeldt bij elke mededeling, informatie of   publicatie dat het vervoer door de Vlaamse overheid wordt   gecompenseerd.<BR>
+De gecompenseerde vervoerder en de Mobiliteitscentrale vermelden bij elke mededeling, informatie of publicatie dat het vervoer door de Vlaamse overheid wordt gecompenseerd.
 
 ## HOOFDSTUK 2 Slotbepalingen
 
