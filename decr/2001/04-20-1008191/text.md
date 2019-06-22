@@ -74,7 +74,11 @@ Onverminderd artikel 25 van het decreet van 31 juli 1990 tot oprichting van de V
 
 ### ART. 16.
 
-Het niet-grensoverschrijdend bezoldigd geregeld vervoer wordt uitsluitend georganiseerd door de VVM.<br /><br />De VVM kan de exploitatie van het geregeld vervoer toevertrouwen aan derden.<br /><br />Onverminderd het eerste lid, kan het Vlaamse Gewest een samenwerkingsakkoord sluiten met een ander Gewest omtrent de gewestgrensoverschrijdende dienstverlening.<br /><br />De Vlaamse regering bepaalt het minimumpercentage van de totale exploitatie van het geregeld vervoer dat door de VVM aan derden wordt toevertrouwd. De Vlaamse regering bepaalt de nadere regels voor de uitvoering van deze bepaling.<br /><br />[Onder de voorwaarden bepaald door de Vlaamse regering kan de VVM toezichts- en administratiekosten innen wegens de inbreuken die zij vaststelt op dit decreet en de uitvoeringsbesluiten ervan.  <span class="reference">(ing. decr. 13 februari 2004, art. 3, I: 9 april 2004)</span> ]
+§ 1. In geval van aanduiding van een interne operator kan de Vlaamse Regering vergunningen uitreiken voor het uitoefenen van geregeld vervoer dat niet wordt aangeboden door de interne operator.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de voorwaarden voor het verlenen van een vergunning.<br>
+<br>
+De Vlaamse Regering kan een vergunning weigeren als ze besluit dat het vervoer de levensvatbaarheid van vergelijkbaar vervoer op de directe verbindingen in kwestie, waarvoor reeds een openbaredienstencontract is afgesloten, ernstig in het gedrang kan brengen.
 
 ### ART. 17.
 
@@ -82,27 +86,27 @@ Het niet-grensoverschrijdend bezoldigd geregeld vervoer wordt uitsluitend georga
 
 ### ART. 18.
 
-Onder de voorwaarden bepaald door de Vlaamse regering, kunnen exploitanten van geregelde vervoersdiensten, colli vervoeren.<br /><br />Het vervoer van colli is ondergeschikt aan het vervoer van personen.
+...
 
 ### ART. 18bis.
 
-De wegbeheerder garandeert de vlotte doorstroming van het geregeld vervoer en brengt daartoe de nodige infrastructuur aan en onderhoudt die.  <span class="reference">(ing. decr. 13 februari 2004, art. 4, I: 9 april 2004)</span> ]
+...
 
 ### ART. 18ter.
 
-De beheerder van de gewestwegen stelt, in samenspraak met de VVM, jaarlijks een prioriteitenlijst van de doorstromingsprojecten voor het geheel van gewestwegen op en maakt daarbij gebruik van de doorstromingsknelpunten op deze wegen, opgemeten door de VVM.<br /><br />De Vlaamse regering stelt de prioriteitenlijst voor het geheel van de gewestwegen vast op basis van het gemeenschappelijke voorstel van de wegbeheerder en de VVM.<br /><br />De beheerder van de gemeentewegen op het grondgebied van de grootstedelijke en stedelijke gebieden stelt, in samenspraak met de VVM, jaarlijks een prioriteitenlijst van de doorstromingsprojecten voor deze gemeentewegen op en maakt daarbij gebruik van de doorstromingsknelpunten op deze wegen, opgemeten door de VVM.  <span class="reference">(ing. decr. 13 februari 2004, art. 4, I: 9 april 2004)</span> ]
+...
 
 ### ART. 18quater.
 
-§ 1. De gemeentelijke beslissingen en reglementen mogen niet van die aard zijn dat de voertuigen van de VVM er permanent doorstromingsproblemen door ondervinden op een traject van geregeld vervoer.<br /><br />§ 2. De gemeenten brengen de VVM op de hoogte van de ontwerpen van gemeentelijke reglementen die een permanente invloed kunnen hebben op de exploitatie van de VVM, namelijk op de lijnvoering, op de benodigde capaciteit van de voertuigen, op de commerciële snelheid, op de bediening van de belangrijkste aantrekkingspolen en op de voorrang van het geregeld vervoer op het andere gemotoriseerde verkeer. Bedoeld zijn reglementen die, op een traject van geregeld vervoer, tot doel hebben:<br /><br />1° de verkeerscirculatie te wijzigen;<br /><br />2° snelheidsremmende infrastructuur aan te leggen;<br /><br />3° de toegang tot de wegen onder het beheer van de gemeente voor de voertuigen van de VVM te verbieden of te beperken;<br /><br />4° haltes van geregeld vervoer in te planten;<br /><br />5° het parkeeraanbod aan te passen;<br /><br />6° kruispunten aan te leggen of te herinrichten;<br /><br />7° verkeerslichten te plaatsen of te regelen.<br /><br />De VVM verleent voorafgaand advies over deze reglementen. De reglementen worden minstens dertig dagen voor de voorlegging aan de gemeenteraad aan de VVM bezorgd. De VVM verleent haar advies ten laatste acht dagen voor de beraadslaging van de gemeenteraad. Bij ontstentenis van een advies van de VVM, wordt het advies van de VVM geacht positief te zijn.  <span class="reference">(ing. decr. 13 februari 2004, art. 4, I: 29 maart 2004)</span> ]
+...
 
 ### ART. 18quinquies.
 
-De gemeentelijke beslissingen en reglementen mogen niet van die aard zijn dat de normen voor het minimumaanbod, zoals bedoeld in artikelen 4 tot 6 van dit decreet, niet kunnen worden nageleefd.  <span class="reference">(ing. decr. 13 februari 2004, art. 4, I: 9 april 2004)</span> ]
+...
 
 ### ART. 18sexies.
 
-De Vlaamse regering kan de gemeenteraden verzoeken te beraadslagen over de aanvullende reglementen die zij voorstelt om het verkeer van het geregeld vervoer op het grondgebied van de gemeente te vergemakkelijken, met de bedoeling om:<br /><br />1° de doorstroming van het geregeld vervoer op het grondgebied van de gemeente te vergemakkelijken;<br /><br />2° de exploitatiekosten die de VVM ten gevolge van doorstromingsproblemen moet maken, te beheersen;<br /><br />3° de commerciële snelheid van het geregeld vervoer te verhogen.<br /><br />De aanvullende reglementen die door de gemeenteraden worden vastgesteld op verzoek van de Vlaamse regering worden ter goedkeuring aan de Vlaamse regering voorgelegd.<br /><br />Als de gemeenteraden aan het verzoek van de Vlaamse regering geen gevolg hebben gegeven binnen de termijn, vastgesteld door de regering, of als de Vlaamse regering niet kan instemmen met het reglement, vastgesteld door de gemeenteraden, kan de Vlaamse regering het aanvullende reglement vaststellen.  <span class="reference">(ing. decr. 13 februari 2004, art. 4, I: 9 april 2004)</span> ]
+...
 
 ## HOOFDSTUK III DE BIJZONDERE VORMEN VAN GEREGELD VERVOER
 
@@ -338,7 +342,26 @@ De exploitant, die door het bevoegde college ertoe gemachtigd wordt een dienst v
 
 ### ART. 63.
 
-§ 1. Worden gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 500 euro tot 10.000 euro, of met een van die straffen alleen, de personen die :<br />1° zonder vergunning als vermeld in artikel 17, een dienst voor het geregeld vervoer exploiteren;<br />2° zonder vergunning of overeenkomst als vermeld in artikel 19, een dienst voor de bijzondere vormen van geregeld vervoer exploiteren;<br />3° zonder attest als vermeld in artikel 23, aan vervoer voor eigen rekening doen;<br />4° zonder vergunning voor toegang tot het beroep als vermeld in artikel 24bis, een dienst voor het geregeld vervoer of een dienst voor de bijzondere vormen van geregeld vervoer, exploiteren;<br />5° zonder vergunning als vermeld in artikel 25, een taxidienst exploiteren;<br />6° zonder vergunning als vermeld in artikel 25, onwettig ronselen;<br />7° zonder vergunning als vermeld in artikel 41, een dienst voor het verhuren van voertuigen met bestuurder exploiteren;<br />8° de vergunning oneigenlijk gebruiken als vermeld in artikel 32bis ;<br />9° de door de gemeenteraad of de door de algemene vergunningsvoorwaarden vastgestelde tarieven als vermeld in artikel 26, § 4, niet respecteren;<br />10° artikel 42, § 1, 3°, 4°, 5° of 7°, overtreden.<br /><br />§ 2. Onverminderd de schadevergoeding, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 10 000 euro, of met een van deze straffen alleen degene die een andere inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbepalingen ervan, andere dan deze bedoeld in artikel 66, § 1 en artikel 66bis.<br /><br />Met behoud van de toepassing van § 1, worden personen eveneens gestraft met de straffen, vermeld in het eerste lid, als ze bij herhaling de bepalingen overtreden van de vergunning voor geregeld vervoer, de vergunning of de overeenkomst voor de bijzondere vormen van geregeld vervoer, het attest voor het vervoer voor eigen rekening, de vergunning voor de toegang tot het beroep, de vergunning voor de taxidiensten of de vergunning voor het verhuren van voertuigen met bestuurder.<br /><br />§ 3. De bepalingen van boek I van het Strafwetboek, inclusief hoofdstuk VII en artikel 85, zijn op de in §§ 1 en 2 bedoelde overtredingen van toepassing.<br /><br />§ 4. De politierechtbanken nemen kennis van de inbreuken, vermeld in dit artikel.
+§ 1. Worden gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 500 euro tot 10.000 euro, of met een van die straffen alleen, de personen die :<br>
+1° zonder vergunning als vermeld in artikel 17, een dienst voor het geregeld vervoer exploiteren;<br>
+1° bis zonder vergunning als vermeld in artikel 16 een dienst voor het geregeld vervoer exploiteren;<br>
+2° zonder vergunning of overeenkomst als vermeld in artikel 19, een dienst voor de bijzondere vormen van geregeld vervoer exploiteren;<br>
+3° zonder attest als vermeld in artikel 23, aan vervoer voor eigen rekening doen;<br>
+4° zonder vergunning voor toegang tot het beroep als vermeld in artikel 24bis, een dienst voor het geregeld vervoer of een dienst voor de bijzondere vormen van geregeld vervoer, exploiteren;<br>
+5° zonder vergunning als vermeld in artikel 25, een taxidienst exploiteren;<br>
+6° zonder vergunning als vermeld in artikel 25, onwettig ronselen;<br>
+7° zonder vergunning als vermeld in artikel 41, een dienst voor het verhuren van voertuigen met bestuurder exploiteren;<br>
+8° de vergunning oneigenlijk gebruiken als vermeld in artikel 32bis ;<br>
+9° de door de gemeenteraad of de door de algemene vergunningsvoorwaarden vastgestelde tarieven als vermeld in artikel 26, § 4, niet respecteren;<br>
+10° artikel 42, § 1, 3°, 4°, 5° of 7°, overtreden.<br>
+<br>
+§ 2. Onverminderd de schadevergoeding, wordt gestraft met een gevangenisstraf van acht dagen tot drie maanden en met een geldboete van 26 euro tot 10 000 euro, of met een van deze straffen alleen degene die een andere inbreuk pleegt op de bepalingen van dit decreet of de uitvoeringsbepalingen ervan, andere dan deze bedoeld in artikel 66, § 1 en artikel 66bis.<br>
+<br>
+Met behoud van de toepassing van § 1, worden personen eveneens gestraft met de straffen, vermeld in het eerste lid, als ze bij herhaling de bepalingen overtreden van de vergunning voor geregeld vervoer, de vergunning of de overeenkomst voor de bijzondere vormen van geregeld vervoer, het attest voor het vervoer voor eigen rekening, de vergunning voor de toegang tot het beroep, de vergunning voor de taxidiensten of de vergunning voor het verhuren van voertuigen met bestuurder.<br>
+<br>
+§ 3. De bepalingen van boek I van het Strafwetboek, inclusief hoofdstuk VII en artikel 85, zijn op de in §§ 1 en 2 bedoelde overtredingen van toepassing.<br>
+<br>
+§ 4. De politierechtbanken nemen kennis van de inbreuken, vermeld in dit artikel.
 
 ### ART. 64.
 

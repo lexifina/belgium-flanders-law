@@ -2,16 +2,16 @@
   "codex_id": 1008191,
   "title": "Decreet van 2001-04-20 betreffende de organisatie van het personenvervoer over de weg [...]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008191/VolledigDocument?datum=2018-05-25",
-  "source_sha256": "5d1e873ef6807a2f1a099a3d7f4d4df5a62606dfb56feece742e480a6b17ea90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008191/VolledigDocument?datum=2019-06-22",
+  "source_sha256": "96f055dbce937ee75838ffe3ba62d9d9c41d1e084490e6ac368030047b1fa8e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008191&param=informatie",
-  "as_of": "2018-05-25",
+  "as_of": "2019-06-22",
   "made": "2001-04-20",
   "gazette": "2001-08-21",
   "numac": 2001035930,
   "document_start": null,
   "document_end": null,
-  "in_force": "2018-05-25",
+  "in_force": "2019-06-22",
   "article_versions": 91,
-  "record_form": "consolidated version as in force on 2018-05-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-06-22; future article versions excluded; article text as the API gives it"
 }
