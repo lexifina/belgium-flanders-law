@@ -176,7 +176,97 @@ Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisc
 
 ### BIJLAGE I
 
-I. A. Boomsoorten en hun kunstmatige hybriden, verplicht onderhevig aan het besluit van de Vlaamse regering betreffende de procedure tot erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal:<br /><br />1° Abies alba Mill.<br /><br />2° Abies cephalonica Loud.<br /><br />3° Abies grandis Lindl.<br /><br />4° Abies pinsapo Boiss.<br /><br />5° Acer platanoides L.<br /><br />6° Acer pseudoplatanus L.<br /><br />7° Alnus glutinosa Gaertn.<br /><br />8° Alnus incana Moench.<br /><br />9° Betula pendula Roth.<br /><br />10° Betula pubescens Ehrh.<br /><br />11° Carpinus betulus L.<br /><br />12° Castanea sativa Mill.<br /><br />13° Cedrus atlantica Carr.<br /><br />14° Cedrus libani A. Richard<br /><br />15° Fagus sylvatica L.<br /><br />16° Fraxinus angustifolia Vahl.<br /><br />17° Fraxinus excelsior L.<br /><br />18° Larix decidua Mill.<br /><br />19° Larix x eurolepis Henry<br /><br />20° Larix kaempferi Carr.<br /><br />21° Larix sibirica Ledeb.<br /><br />22° Picea abies Karst.<br /><br />23° Picea sitchensis Carr.<br /><br />24° Pinus brutia Ten.<br /><br />25° Pinus canariensis C. Smith<br /><br />26° Pinus cembra L.<br /><br />27° Pinus contorta Loud.<br /><br />28° Pinus halepensis Mill.<br /><br />29° Pinus leucodermis Antoine<br /><br />30° Pinus nigra Arnold<br /><br />31° Pinus pinaster Ait.<br /><br />32° Pinus pinea L.<br /><br />33° Pinus radiata D. Don<br /><br />34° Pinus sylvestris L.<br /><br />35° Populus spp. en kunstmatige hybriden van die soorten<br /><br />36° Prunus avium L.<br /><br />37° Pseudotsuga menziesii Franco<br /><br />38° Quercus cerris L.<br /><br />39° Quercus ilex L.<br /><br />40° Quercus petraea Liebl.<br /><br />41° Quercus pubescens Willd.<br /><br />42° Quercus robur L.<br /><br />43° Quercus rubra L.<br /><br />44° Quercus suber L.<br /><br />45° Robinea pseudoacacia L.<br /><br />46° Tilia cordata Mill.<br /><br />47° Tilia platyphyllos Scop.<br /><br />I. B. Boom- en struiksoorten die facultatief kunnen worden onderworpen aan het besluit van de Vlaamse regering betreffende de procedure tot erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal:<br /><br />1° Acer campestre L.<br /><br />2° Cornus sanguinea L.<br /><br />3° Corylus avellana L.<br /><br />4° Crataegus monogyna Jacquin<br /><br />5° Crataegus laevigata (Poiret) DC<br /><br />6° Euonymus europaeus L.<br /><br />7° Hippophae rhamnoides L.<br /><br />8° Ilex aquifolium L.<br /><br />9° Juniperus communis L.<br /><br />10° Ligustrum vulgare L.<br /><br />11° Malus sylvestris Miller<br /><br />12° Mespilus germanica L.<br /><br />13° Myrica gale L.<br /><br />14° Prunus padus L.<br /><br />15° Prunus spinosa L.<br /><br />16° Rosa canina L.<br /><br />17° Rosa arvensis Hudson<br /><br />18° Rosa rubiginosa L.<br /><br />19° Rhamnus frangula<br /><br />20° Salix alba L.<br /><br />21° Salix aurita L.<br /><br />22° Salix caprea L.<br /><br />23° Salix cinerea L.<br /><br />24° Salix fragilis L.<br /><br />25° Salix purpurea L.<br /><br />26° Salix repens L.<br /><br />27° Salix x rubens Schrank<br /><br />28° Salix triandra L.<br /><br />29° Sambucus nigra L.<br /><br />30° Sorbus aucuparia L.<br /><br />31° Ulmus glabra Hudson<br /><br />32° Ulmus laevis Pallas<br /><br />33° Ulmus minor Miller<br /><br />34° Viburnum opulus L.
+I. A. Boomsoorten en hun kunstmatige hybriden, verplicht onderhevig aan het besluit van de Vlaamse regering betreffende de procedure tot erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal:<br>
+1° Abies alba Mill.<br>
+2° Abies cephalonica Loud.<br>
+3° Abies grandis Lindl.<br>
+4° Abies pinsapo Boiss.<br>
+5° Acer platanoides L.<br>
+6° Acer pseudoplatanus L.<br>
+7° Alnus glutinosa Gaertn.<br>
+8° Alnus incana Moench.<br>
+9° Betula pendula Roth.<br>
+10° Betula pubescens Ehrh.<br>
+11° Carpinus betulus L.<br>
+12° Castanea sativa Mill.<br>
+13° Cedrus atlantica Carr.<br>
+14° Cedrus libani A. Richard<br>
+15° Fagus sylvatica L.<br>
+16° Fraxinus angustifolia Vahl.<br>
+17° Fraxinus excelsior L.<br>
+18° Larix decidua Mill.<br>
+19° Larix x eurolepis Henry<br>
+20° Larix kaempferi Carr.<br>
+21° Larix sibirica Ledeb.<br>
+22° Picea abies Karst.<br>
+23° Picea sitchensis Carr.<br>
+24° Pinus brutia Ten.<br>
+25° Pinus canariensis C. Smith<br>
+26° Pinus cembra L.<br>
+27° Pinus contorta Loud.<br>
+28° Pinus halepensis Mill.<br>
+29° Pinus leucodermis Antoine<br>
+30° Pinus nigra Arnold<br>
+31° Pinus pinaster Ait.<br>
+32° Pinus pinea L.<br>
+33° Pinus radiata D. Don<br>
+34° Pinus sylvestris L.<br>
+35° Populus spp. en kunstmatige hybriden van die soorten<br>
+36° Prunus avium L.<br>
+37° Pseudotsuga menziesii Franco<br>
+38° Quercus cerris L.<br>
+39° Quercus ilex L.<br>
+40° Quercus petraea Liebl.<br>
+41° Quercus pubescens Willd.<br>
+42° Quercus robur L.<br>
+43° Quercus rubra L.<br>
+44° Quercus suber L.<br>
+45° Robinea pseudoacacia L.<br>
+46° Tilia cordata Mill.<br>
+47° Tilia platyphyllos Scop.<br>
+<br>
+I. B. Boom- en struiksoorten die facultatief kunnen worden onderworpen aan het besluit van de Vlaamse regering betreffende de procedure tot erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal:<br>
+1° Acer campestre L.<br>
+2° Cornus sanguinea L.<br>
+3° Corylus avellana L.<br>
+4° Crataegus monogyna Jacquin<br>
+5° Crataegus laevigata (Poiret) DC<br>
+6° Euonymus europaeus L.<br>
+7° Hippophae rhamnoides L.<br>
+8° Ilex aquifolium L.<br>
+9° Juniperus communis L.<br>
+10° Ligustrum vulgare L.<br>
+11° Malus sylvestris Miller<br>
+12° Mespilus germanica L.<br>
+13° Myrica gale L.<br>
+14° Prunus padus L.<br>
+15° Prunus spinosa L.<br>
+16° Rosa canina L.<br>
+17° Rosa arvensis Hudson<br>
+18° Rosa rubiginosa L.<br>
+19° Rhamnus frangula<br>
+20° Salix alba L.<br>
+21° Salix aurita L.<br>
+22° Salix caprea L.<br>
+23° Salix cinerea L.<br>
+24° Salix fragilis L.<br>
+25° Salix purpurea L.<br>
+26° Salix repens L.<br>
+27° Salix x rubens Schrank<br>
+28° Salix triandra L.<br>
+29° Sambucus nigra L.<br>
+30° Sorbus aucuparia L.<br>
+31° Ulmus glabra Hudson<br>
+32° Ulmus laevis Pallas<br>
+33° Ulmus minor Miller<br>
+34° Viburnum opulus L.<br>
+35° Rosa agrestis;<br>
+36° Rosa tomentosa;<br>
+37° Rhamnus cathartica;<br>
+38° Prunus domestica subsp. Insititia;<br>
+39° Cornus mas;<br>
+40° Ulex europaeus;<br>
+41° Cytisus scoparius.
 
 ## Bijlage II Minimumeisen voor de erkenning van uitgangsmateriaal bestemd voor de productie van als "van bekende origine" te certificeren teeltmateriaal
 
