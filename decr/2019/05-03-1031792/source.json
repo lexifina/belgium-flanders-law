@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031792,
+  "title": "Decreet van 2019-05-03 tot wijziging van diverse bepalingen van het decreet van 27 november 2015 betreffende lage-emissiezones",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031792/VolledigDocument?datum=2019-06-27",
+  "source_sha256": "4016d1676c4bae1a2d6e71a9e2906433bff5656f1fc764e45d7289f5e9a9d772",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031792&param=informatie",
+  "as_of": "2019-06-27",
+  "made": "2019-05-03",
+  "gazette": "2019-06-17",
+  "numac": 2019041146,
+  "document_start": "2019-06-27",
+  "document_end": null,
+  "in_force": "2019-06-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2019-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
