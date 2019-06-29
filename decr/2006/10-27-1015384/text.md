@@ -132,7 +132,13 @@ De Vlaamse Regering stelt een lijst vast van risicoinrichtingen.<br /><br />
 
 Op de erkenning als bodemsaneringsdeskundige zijn de bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid van toepassing.<br>
 <br>
-De OVAM is erkend als bodemsaneringsdeskundige. De Vlaamse Instelling voor Technologisch Onderzoek is erkend als bodemsaneringsdeskundige voor de taken die ze in opdracht van de OVAM uitvoert in het kader van dit decreet. De bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn niet van toepassing op de erkenning van de OVAM en de VITO.
+De OVAM is erkend als bodemsaneringsdeskundige. De Vlaamse Instelling voor Technologisch Onderzoek is erkend als bodemsaneringsdeskundige voor de taken die ze in opdracht van de OVAM uitvoert in het kader van dit decreet. De bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn niet van toepassing op de erkenning van de OVAM en de VITO.<br>
+<br>
+De Vlaamse Milieumaatschappij is erkend als bodemsaneringsdeskundige voor de uitvoering van de volgende aspecten van de taken van een erkend bodemsaneringsdeskundige in het kader van dit decreet en zijn uitvoeringsbesluiten:<br>
+1° de monsterneming van de waterbodem en het opmaken van het verslag van de monsterneming conform het Compendium voor Monsterneming en Analyse;<br>
+2° de bepaling van het waterbodemvolume.<br>
+<br>
+De bepalingen van titel V, hoofdstuk 6, van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid zijn niet van toepassing op de erkenning van de Vlaamse Milieumaatschappij.
 
 ## [Afdeling II Kwaliteitsborging (ing. decr. 8 december 2017, art. 7, I: 12 februari 2018)]
 
@@ -142,7 +148,7 @@ De erkende bodemsaneringsdeskundige verleent zijn medewerking aan audits die de 
 <br>
 De bodemsaneringsdeskundige geeft op verzoek van de OVAM het nodige gevolg aan het auditverslag en legt in voorkomend geval een plan van aanpak met corrigerende maatregelen en termijnen van uitvoering voor aan de OVAM ter goedkeuring. De bodemsaneringsdeskundige voert de corrigerende maatregelen uit binnen de termijn die vastgelegd is in het goedgekeurde plan van aanpak.<br>
 <br>
-De Vlaamse Regering kan nadere regels vaststellen over de uitvoering van de audit, het auditverslag, de corrigerende maatregelen en het plan van aanpak.
+De Vlaamse Regering kan nadere regels vaststellen over de inhoud en de uitvoering van de audit, het auditverslag, de corrigerende maatregelen en het plan van aanpak. Verder kan de Vlaamse Regering bepalen onder welke voorwaarden en in welke mate de OVAM bij de invulling van haar audit rekening kan houden met een externe auditering van de bodemsaneringsdeskundige..
 
 ## HOOFDSTUK III Verplichting om het beschrijvend bodemonderzoek en de bodemsanering uit te voeren en te (pre)financieren
 
@@ -676,7 +682,12 @@ De Vlaamse Regering stelt nadere regelen vast betreffende de kennisgeving van de
 
 ### ART. 67.
 
-§ 1. De bodemsaneringswerken worden beëindigd na het bereiken van de doelstellingen van de bodemsanering.<br /><br />§ 2. Na de uitvoering van de bodemsaneringswerken wordt een eindevaluatieonderzoek uitgevoerd waarin de resultaten van de bodemsaneringswerken worden opgenomen en waarin zo nodig een voorstel van nazorg wordt geformuleerd.<br /><br />§ 3. Een eindevaluatieonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke standaardprocedure wordt het eindevalutatieonderzoek uitgevoerd volgens een code van goede praktijk.<br /><br />
+§ 1. De bodemsaneringswerken worden beëindigd na het bereiken van de doelstellingen van de bodemsanering.<br>
+<br>
+§ 2. Na de uitvoering van de bodemsaneringswerken wordt een eindevaluatieonderzoek uitgevoerd waarin de resultaten van de bodemsaneringswerken worden opgenomen en waarin zo nodig een voorstel van nazorg wordt geformuleerd.<br>
+<br>
+§ 3. Een eindevaluatieonderzoek wordt uitgevoerd onder leiding van een bodemsaneringsdeskundige conform de standaardprocedure, vastgesteld door de Vlaamse Regering op voorstel van de OVAM. Bij gebrek aan dergelijke standaardprocedure wordt het eindevalutatieonderzoek uitgevoerd volgens een code van goede praktijk. Een verslag van het eindevaluatieonderzoek wordt opgemaakt en bij de OVAM ingediend door de bodemsaneringsdeskundige conform de voormelde standaardprocedure.<br>
+&nbsp;
 
 ### ART. 68.
 
@@ -688,13 +699,29 @@ Als de doelstellingen van de bodemsanering worden bereikt, levert de OVAM   op b
 
 ### ART. 69.
 
-§ 1. Als de OVAM van oordeel is dat bodemverontreiniging een onmiddellijk   gevaar vormt, legt ze veiligheidsmaatregelen op. Deze bevoegdheid doet geen   afbreuk aan de bevoegdheid van andere overheden om veiligheidsmaatregelen te   treffen.<BR><BR>§ 2. Een bodemsaneringsdeskundige die in het kader van de   uitvoering van een opdracht krachtens deze titel van oordeel is dat   bodemverontreiniging een onmiddellijk gevaar vormt en veiligheidsmaatregelen   noodzakelijk zijn, maakt hiervan op gemotiveerde wijze onverwijld melding aan de   OVAM.<BR><BR>§ 3. Als de veiligheidsmaatregelen handelingen, inrichtingen of   activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens titel   V van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid of krachtens titel IV, hoofdstuk II, van de Vlaamse Codex   Ruimtelijke Ordening, geldt het conformiteitsattest als meldingsakte of   omgevingsvergunning.<BR><BR>§ 4. Veiligheidsmaatregelen worden uitgevoerd onder   leiding van een bodemsaneringsdeskundige.<BR><BR>
+§ 1. Als de OVAM van oordeel is dat bodemverontreiniging een onmiddellijk gevaar vormt, legt ze veiligheidsmaatregelen op. Deze bevoegdheid doet geen afbreuk aan de bevoegdheid van andere overheden om veiligheidsmaatregelen te treffen.<br>
+<br>
+§ 2. Een bodemsaneringsdeskundige die in het kader van de uitvoering van een opdracht krachtens deze titel van oordeel is dat bodemverontreiniging een onmiddellijk gevaar vormt en veiligheidsmaatregelen noodzakelijk zijn, maakt hiervan op gemotiveerde wijze onverwijld melding aan de OVAM.<br>
+<br>
+§ 3. Als de veiligheidsmaatregelen handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid of krachtens titel IV, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening, geldt de beslissing van de OVAM, vermeld in paragraaf 1, als meldingsakte of omgevingsvergunning.<br>
+<br>
+§ 4. Veiligheidsmaatregelen worden uitgevoerd onder leiding van een bodemsaneringsdeskundige.<br>
+&nbsp;
 
 ## Afdeling II Voorzorgsmaatregelen
 
 ### ART. 70.
 
-§ 1. De OVAM kan voorzorgsmaatregelen opleggen met het oog op het   beschermen van de mens of het milieu tegen de risico's van bodemverontreiniging   in afwachting van de uitvoering van bodemsaneringswerken.<BR><BR>§ 2. Een   bodemsaneringsdeskundige die in het kader van de uitvoering van een opdracht   krachtens deze titel van oordeel is dat voorzorgsmaatregelen noodzakelijk zijn,   maakt hiervan op gemotiveerde wijze onverwijld melding aan de OVAM. De   exploitanten, gebruikers of eigenaars van de verontreinigde gronden kunnen   hierbij onder leiding van een bodemsaneringsdeskundige voorzorgsmaatregelen   voorstellen aan de OVAM.<BR><BR>Binnen een termijn van zestig dagen na ontvangst   van het voorstel spreekt de OVAM zich uit over de voorgestelde   voorzorgsmaatregelen en kan ze voorzorgsmaatregelen opleggen.<BR><BR>§ 3. Als de   voorzorgsmaatregelen handelingen, inrichtingen of activiteiten omvatten die   meldings- of vergunningsplichtig zijn krachtens titel V van het decreet van 5   april 1995 houdende algemene bepalingen inzake milieubeleid of krachtens titel   IV, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening, geldt het   conformiteitsattest als meldingsakte of omgevingsvergunning.<BR><BR>§ 4.   Voorzorgsmaatregelen worden uitgevoerd onder leiding van een   bodemsaneringsdeskundige.<BR><BR>
+§ 1. De OVAM kan voorzorgsmaatregelen opleggen met het oog op het beschermen van de mens of het milieu tegen de risico's van bodemverontreiniging in afwachting van de uitvoering van bodemsaneringswerken.<br>
+<br>
+§ 2. Een bodemsaneringsdeskundige die in het kader van de uitvoering van een opdracht krachtens deze titel van oordeel is dat voorzorgsmaatregelen noodzakelijk zijn, maakt hiervan op gemotiveerde wijze onverwijld melding aan de OVAM. De exploitanten, gebruikers of eigenaars van de verontreinigde gronden kunnen hierbij onder leiding van een bodemsaneringsdeskundige voorzorgsmaatregelen voorstellen aan de OVAM.<br>
+<br>
+Binnen een termijn van zestig dagen na ontvangst van het voorstel spreekt de OVAM zich uit over de voorgestelde voorzorgsmaatregelen en kan ze voorzorgsmaatregelen opleggen.<br>
+<br>
+§ 3. Als de voorzorgsmaatregelen handelingen, inrichtingen of activiteiten omvatten die meldings- of vergunningsplichtig zijn krachtens titel V van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid of krachtens titel IV, hoofdstuk II, van de Vlaamse Codex Ruimtelijke Ordening, geldt de beslissing van de OVAM, vermeld in paragraaf 1 of 2, als meldingsakte of omgevingsvergunning.<br>
+<br>
+§ 4. Voorzorgsmaatregelen worden uitgevoerd onder leiding van een bodemsaneringsdeskundige.<br>
+&nbsp;
 
 ## Afdeling III Nazorg
 
@@ -1004,7 +1031,7 @@ Als een erkende bodemsaneringsorganisatie de verplichtingen in deze afdeling nie
 
 § 1. Risicogronden kunnen slechts overgedragen worden als er vooraf een orienterend bodemonderzoek werd uitgevoerd en het verslag ervan aan de OVAM werd bezorgd.<br>
 <br>
-In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek.<br>
+In afwijking van het eerste lid geldt de regeling, vermeld in artikel 30, voor de uitvoering van een oriënterend bodemonderzoek in het kader van de overdracht van een privatief deel van een onroerend goed dat valt onder het stelsel van gedwongen mede-eigendom zoals bedoeld in artikel 577-3 van het Burgerlijk Wetboek of dat valt onder toepassing van artikel 577-2 van het Burgerlijk Wetboek. Als voor de overdracht van een privatief deel met toepassing van artikel 30 geen oriënterend bodemonderzoek hoeft te worden uitgevoerd, zijn de bepalingen van artikel 104 tot en met 115 ook niet van toepassing op die overdracht.<br>
 <br>
 De eigenaar van de risicogrond die een vrijstelling van de bodemonderzoeksplicht, vermeld in artikel 31, § 1, heeft verkregen, is van rechtswege vrijgesteld van de onderzoeksplicht, vermeld in het eerste lid en artikel 29, als sedert de vrijstellingsbeslissing op de risicogrond geen risico-inrichtingen zijn geëxploiteerd.<br>
 <br>
@@ -1480,7 +1507,10 @@ De inschrijving heeft plaats, niettegenstaande beroep, op voorlegging van een af
 
 ### ART. 164.
 
-In verband met de toepassing van de bepalingen van artikelen 9 tot en met 135 en artikel 160 kan de Vlaamse Regering alle schikkingen, voorstellen tot concordaat inbegrepen, aannemen, dadingen sluiten, schuldvorderingen en zekerheden overdragen, derden in haar rechten subrogeren, van verhaal afzien, afwijkingen toestaan en overeenkomsten sluiten.<br /><br />
+In verband met de toepassing van de bepalingen van artikelen 9 tot en met 135 en artikel 160 kan de Vlaamse Regering alle schikkingen, voorstellen tot concordaat inbegrepen, aannemen, dadingen sluiten, schuldvorderingen en zekerheden overdragen, derden in haar rechten subrogeren, van verhaal afzien, afwijkingen toestaan en overeenkomsten sluiten.<br>
+<br>
+De verbintenis tot uitvoering van een bodemonderzoek, bodemsanering en eventuele nazorg die in het kader van een overeenkomst met toepassing van het eerste lid wordt aangegaan, moet worden uitgevoerd conform de voorwaarden en de termijn van de voormelde overeenkomst.<br>
+&nbsp;
 
 ### ART. 165.
 
