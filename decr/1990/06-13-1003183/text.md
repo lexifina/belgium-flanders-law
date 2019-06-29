@@ -318,7 +318,13 @@ Voor de beplanting met houtachtige gewassen van gronden die eigendom zijn van pu
 
 ### ART. 50.
 
-Met uitzondering van de kappingen bedoeld in artikel 55, § 2, punt 3 mag   een kapping in andere dan domeinbossen die niet is opgenomen in het beheersplan   slechts worden uitgevoerd en mag de verkoop of de exploitatie van het hout boven   de door het beheersplan bepaalde gewone of bijkomende kappingen alleen   plaatshebben met de machtiging van het Agentschap.<BR><BR>Overeenkomstig artikel   6.4.4, § 3, van het decreet van 12 juli 2013 betreffende het onroerend erfgoed   wordt voor het verlenen van een machtiging zoals vermeld in het eerste lid, die   betrekking heeft op een handeling aan of in beschermde goederen zoals bedoeld in   dat decreet, advies gevraagd aan de entiteit die door de Vlaamse Regering is   belast met de beleidsuitvoering inzake onroerend erfgoed. <BR><BR>Beroep tegen   de beslissing van het Agentschap kan worden ingesteld overeenkomstig artikel   43.<BR><BR>Bij overtreding van het bepaalde in het eerste lid, is de verkoop   nietig. De kopers hebben een recht van verhaal tegen diegenen die zonder   toestemming van het Agentschap, de kappingen bevolen of toegelaten   hebben.<BR><BR>De Vlaamse Regering kan de kappingen bepalen die door hun geringe   impact vrijgesteld worden van machtiging.
+Met uitzondering van de kappingen bedoeld in artikel 55, § 2, punt 3 mag een kapping in andere dan domeinbossen die niet is opgenomen in het beheersplan slechts worden uitgevoerd en mag de verkoop of de exploitatie van het hout boven de door het beheersplan bepaalde gewone of bijkomende kappingen alleen plaatshebben met de machtiging van het Agentschap.<br>
+<br>
+Overeenkomstig artikel 6.4.4, § 3, van het decreet van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van een machtiging zoals vermeld in het eerste lid, die betrekking heeft op een handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies gevraagd aan de entiteit die door de Vlaamse Regering is belast met de beleidsuitvoering inzake onroerend erfgoed.<br>
+<br>
+Bij overtreding van het bepaalde in het eerste lid, is de verkoop nietig. De kopers hebben een recht van verhaal tegen diegenen die zonder toestemming van het Agentschap, de kappingen bevolen of toegelaten hebben.<br>
+<br>
+De Vlaamse Regering kan de kappingen bepalen die door hun geringe impact vrijgesteld worden van machtiging.
 
 ### ART. 51.
 
@@ -326,41 +332,56 @@ In de openbare bossen mogen geen gebruiksrechten, van welke aard ook worden verl
 
 ### ART. 52.
 
-Het merk van de hamers waarvan de door het hoofd van het Agentschap aangewezen personen gebruik maken voor het merken van delicthout en windworp enerzijds, en voor het hameren of merken van te sparen of te kappen hout anderzijds, wordt neergelegd bij de rechtbanken van het ambtsgebied.<br /><br />Het merk van de hamers, waarvan de aangestelden voorzien zijn, wordt neergelegd op de griffies van de rechtbanken van eerste aanleg in het rechtsgebied waarin zij hun bediening uitoefenen.<br /><br />Het merk van de bijzondere hamer, waarvan de aangewezen ambtenaar houder is, wordt neergelegd op de griffies van de rechtbanken van eerste aanleg en van de Hoven van Beroep van het ambtsgebied.
+De Vlaamse Regering bepaalt de mogelijke manieren om bomen te merken als ze gekapt of verkocht worden of als ze voorbehouden zijn.
 
 ### ART. 53.
 
-De eigenaar beslist of het hout bestemd is voor eigen gebruik, dan wel of het openbaar verkocht wordt volgens de bepalingen vervat in artikel 55.
+De eigenaar beslist of het hout bestemd is voor eigen gebruik, dan wel of het&nbsp;verkocht wordt volgens de bepalingen vervat in artikel 55.
+
+### ART 53bis.
+
+Om beroepsmatig als koper of exploitant te kunnen optreden in de openbare bossen, is een erkenning nodig. De Vlaamse Regering stelt de procedure en de voorwaarden vast voor die erkenning.<br>
+<br>
+De Vlaamse Regering kan bepalen dat de erkenning, vermeld in het eerste lid, niet nodig is in de volgende gevallen:<br>
+1° voor kopers of exploitanten die jaarlijks maximaal een beperkte hoeveelheid hout kopen of exploiteren. De Vlaamse Regering bepaalt die hoeveelheid;<br>
+2° om hout te kopen waarvoor geen bosexploitatiewerkzaamheden uitgevoerd hoeven te worden;<br>
+3° om resthout te versnipperen dat bestemd is voor de afvoer als biomassa, als het resthout versnipperd wordt op de wegen die bestemd zijn voor het houttransport of op een houtstapelplaats die daarvoor ingericht is, en er bij het proces geen bosexploitatiewerkzaamheden meer uitgevoerd hoeven te worden.
 
 ## AFDELING 2 VERKOPINGEN
 
 ### ART. 54.
 
-De Vlaamse regering bepaalt de werkwijze en de voorwaarden die moeten gevolgd worden bij de openbare verkopingen van hout en van andere bosprodukten waarbij eigenaars van openbaar bos betrokken zijn.
+De Vlaamse regering bepaalt de werkwijze en de voorwaarden die moeten gevolgd worden als hout en andere bosproducten worden verkocht.
 
 ### ART. 55.
 
-§ 1. Het hout bestemd voor de verkoop wordt openbaar verkocht.<br /><br />Dag, uur en plaats worden tenminste veertien dagen tevoren aangekondigd via publikatie in vakbladen en door andere gebruikelijke vormen van bekendmaking.<br /><br />Elke verkoop die niet aan de gestelde voorwaarden voldoet is nietig.<br /><br />§ 2. De Vlaamse regering bepaalt bij besluit de voorwaarden waarin, in de hierna opgesomde gevallen, uitzonderlijk een verkoop uit de hand toegelaten is:<br />1. voor de loten waarvoor geen voldoende aanbod werd verkregen bij twee openbare verkopingen, die georganiseerd werden volgens de in § 1 hiervoor voorgeschreven procedure;<br />2. voor de windworp in de reeds toegewezen kappen; deze windworp wordt in de eerste plaats aangeboden aan de kopers van de loten; <br />3. voor de bomen die dringend geëxploiteerd moeten worden om sanitaire of veiligheidsredenen;<br />4. voor het delicthout;<br />5. voor de bosprodukten andere dan het hout;<br />6. voor de loten van gering belang.<br /><br />De prijzen van de verkoop uit de hand in de domeinbossen worden vastgesteld door de Vlaamse regering of haar afgevaardigde. Voor de andere openbare bossen worden deze prijzen vastgesteld door de eigenaar, op voorstel van het Agentschap. <br />
+§ 1. Het hout wordt verkocht volgens de principes van openbaarheid, transparantie en mededinging.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt bij besluit de voorwaarden waarin, in de hierna opgesomde gevallen, uitzonderlijk een verkoop uit de hand toegelaten is:<br>
+1. voor de loten waarvoor geen voldoende aanbod werd verkregen bij verkoop volgens de principes van openbaarheid, transparantie en mededinging;<br>
+2. voor de windworp van niet-toegewezen bomen in de al toegewezen loten; deze windworp wordt in de eerste plaats aangeboden aan de kopers van de loten;<br>
+3. voor de bomen die dringend geëxploiteerd moeten worden om sanitaire of veiligheidsredenen;<br>
+4. voor het hout dat op onrechtmatige wijze is gekapt;<br>
+5. voor de bosprodukten andere dan het hout;<br>
+6. voor de loten van gering belang.<br>
+<br>
+De Vlaamse Regering bepaalt bij besluit de wijze waarop de marktconforme prijzen van onderhandse verkoop in domeinbossen worden vastgesteld. Voor de andere openbare bossen worden deze prijzen vastgesteld door de eigenaar, op voorstel van het Agentschap.
 
 ### ART. 56.
 
-De openbare verkoping van hout en andere bosproducten uit de domeinbossen wordt georganiseerd en voorgezeten door het Agentschap. Op vraag van het openbaar bestuur of van een erkende bosgroep, overeenkomstig artikel 41ter, kan een afgevaardigde van het Agentschap als voorzitter optreden van de openbare verkoping van hout en andere bosproducten uit bossen van deze openbare boseigenaars of van bosbeheerders die lid zijn van deze erkende bosgroep.<br /><br />Op vraag van het Agentschap of van andere openbare boseigenaars, kan de medewerking van de erkende bosgroep ingeroepen worden voor de organisatie van de houtverkoping, wat het hout uit deze openbare bossen betreft. <br /><br />Alle in de loop van de openbare verkoping gerezen geschillen over de geldigheid van een op- of afbod of van de inschrijvingen, alsmede over de solvabiliteit van de kandidaat-koper en borgen worden onmiddellijk beslecht door de Voorzitter van de openbare verkoping.
+...
 
 ### ART. 57.
 
-Iedere koper moet, op het ogenblik van de koop, de in de verkoopsvoorwaarden voorgeschreven borgen en betalingsvoorwaarden stellen. Met uitzondering van kopen van gering belang, waarvan het maximumbedrag door de Vlaamse regering wordt vastgesteld, stelt de koper vóór de sluiting van de zitting een betalingswaarborg die de gehele aankoopsom dekt, wat ook de betalingswijze is, om aan de financiële en contractuele verplichtingen te voldoen.<br>
-<br>
-De koper die aan de verplichting van&nbsp;borg en betalingswaarborg niet voldoet, verliest zijn recht op het gekochte; er wordt onmiddellijk tot een nieuwe verkoop overgegaan.<br>
-<br>
-De koper die aldus zijn recht heeft verloren, is verplicht het verschil te betalen tussen zijn prijs en de eventuele lagere prijs van het nieuwe bod; als de nieuwe prijs hoger is dan zijn prijs; kan hij het verschil niet opeisen.
+...
 
 ### ART. 58.
 
-Een eventuele commandsverklaring moet onmiddellijk na de toewijzing bekend worden gemaakt.
+...
 
 ### ART. 59.
 
-In de bossen waarin onverdeelde rechten bestaan ontvangt iedere medeëigenaar, na aftrek van de opmetings- en exploitatiekosten, zijn deel van de opbrengst van de verkopen.<br /><br />In dit geval komen de beheers- en bewakingskosten ten laste van alle medeëigenaars in verhouding tot hun rechten.
+...
 
 ### ART. 60.
 
@@ -368,83 +389,95 @@ In geval van onverdeeldheid tussen de Staat, de Vlaamse Gemeenschap of het Vlaam
 
 ### ART. 61.
 
-De verkopen in de openbare bossen, andere dan de domeinbossen, geschieden door de zorg van de eigenaar, in aanwezigheid van het Agentschap en met inachtneming van artikel 54.
+...
 
 ## AFDELING 3 EXPLOITATIE
 
 ### ART. 62.
 
-De koper mag het kappen niet beginnen zonder een voorafgaandelijke schriftelijke kapvergunning van de aangewezen ambtenaar.<br /><br />De Vlaamse regering bepaalt de vorm van de kapvergunning en de wijze waarop ze wordt afgeleverd.
+Voor de loten die verkocht zijn bij een verkoop die het Agentschap georganiseerd heeft, mag niet begonnen worden met de kapping zonder een voorafgaande betalingsbevestiging van het Agentschap.<br>
+<br>
+Voor de loten die verkocht zijn bij een verkoop die een ander openbaar bestuur of zijn aangestelde georganiseerd heeft, mag niet begonnen worden met de kapping zonder een voorafgaande betalingsbevestiging van het betrokken openbaar bestuur of de betrokken aangestelde.<br>
+<br>
+De Vlaamse Regering bepaalt de modaliteiten voor de betalingsbevestiging, vermeld in het eerste lid.
 
 ### ART. 63.
 
-De koper moet alle te sparen bomen kunnen aanwijzen en is verplicht alle voorbehouden bomen, op welke manier ook aangewezen, onaangeroerd te laten.<br /><br />Onverminderd de bepalingen van artikel 184 van het Strafwetboek mogen de kopers geen merken aanbrengen op voorbehouden bomen.<br /><br />Wederrechtelijk gekapte bomen kunnen door de koper niet gecompenseerd worden door voor kapping gemerkte bomen te laten staan.<br /><br />De waarde van de wederrechtelijke gekapte bomen dient vergoed te worden, alsmede de eventuele schade die hierdoor is ontstaan.<br /><br />Wanneer te sparen bomen gebroken of omgeworpen zijn, moet de koper ze ter plaatse laten liggen en onmiddellijk de aangestelde waarschuwen.<br /><br />Het merkteken van de hamer op de stam of op de stronk aangebracht is het enige middel waarmee de koper de exploitatie van de bomen kan rechtvaardigen.
+...
 
 ### ART. 64.
 
-De koper dient de nodige voorzorgen te nemen om de te sparen bomen en het bosbestand niet te beschadigen.<br /><br />Wanneer een gevelde boom is blijven hangen op een voorbehouden of te sparen boom, mag de koper de voorbehouden of te sparen boom alleen kappen mits machtiging van de aangewezen ambtenaar en na vaststelling op tegenspraak van de schade die voortspruit uit de noodzakelijkheid om de voorbehouden of te sparen boom te vellen.<br /><br />Indien de schadeloosstelling in natura mogelijk is, kan men ter vervanging van de beschadigde bomen, gemerkte bomen van minstens gelijke waarde aanduiden, rekening houdend met de toekomstwaarde, of bomen van mindere waarde mits betaling van het verschil.<br /><br />Indien de koper niet akkoord gaat met deze vervanging schat men de waarde van de beschadigde bomen; daaraan wordt de schade aan het bestand toegevoegd.<br /><br />Indien de koper niet bewijst dat hij alle voorzorgen heeft genomen om beschadiging van de te sparen bomen te voorkomen, worden deze als delicthout beschouwd en overeenkomstig artikel 55 verkocht onverminderd de door de koper te betalen schadeloosstelling en in voorkomend geval, de krachtens de verkoopsvoorwaarden verschuldigde boeten.
+De Vlaamse Regering stelt nadere regels vast voor de volgende aspecten van de exploitatie:<br>
+1° de omgang met bomen die tijdens de exploitatie ten onrechte gekapt zijn;<br>
+2° het vermijden van schade bij de uitvoering van de exploitatie;<br>
+3° het tijdstip van de exploitatie;<br>
+4° de termijn voor de uitvoering van de exploitatie;<br>
+5° het transport van hout en andere bosproducten;<br>
+6° de controle van de exploitatie.
 
 ### ART. 65.
 
-De koper mag geen hout hakken of weghalen op zon- en feestdagen, noch voor de officiële zonsopgang of na de officiële zonsondergang.<br /><br />Alleen in bijzondere gevallen kan hem door de aangewezen ambtenaar machtiging gegeven worden om hiervan af te wijken.
+...
 
 ### ART. 66.
 
-Het is de koper verboden hout van zijn koop op stam te schillen of te ontschorsen, tenzij de verkoopsvoorwaarden dit uitdrukkelijk toestaan.
+...
 
 ### ART. 67.
 
-Elke overtreding van de verkoopsvoorwaarden is verboden.
+...
 
 ### ART. 68.
 
-Ten behoeve van de exploitatie mag geen put of oven voor houtschool worden gemaakt; geen werkplaats of keet, woonwagen, caravan of tent worden geplaatst, behalve op de plaatsen aangewezen door de aangewezen ambtenaar of zijn afgevaardigde.
+...
 
 ### ART. 69.
 
-Het is de koper en zijn arbeiders verboden elders vuur te maken dan op de in verkoopsvoorwaarden of door de aangestelde toegelaten plaatsen.
+...
 
 ### ART. 70.
 
-Het hout wordt vervoerd langs de wegen, die daarvoor gewoonlijk gebruikt worden of op de wijze, die door de aangewezen ambtenaar of zijn gemachtigde wordt aangewezen.<br /><br />In geen geval mag de koper nieuwe doorgangen of wegen aanleggen.
+...
 
 ### ART. 71.
 
-Alle voor kapping gemerkte bomen dienen gekapt en opgeruimd te worden binnen de door de verkoopsvoorwaarden gestelde termijn.<br /><br />Voor zover in de verkoopsvoorwaarden een afwijkingsmogelijkheid wordt voorzien, kan alleen om gemotiveerde redenen aan de kopers een verlenging van deze termijn worden toegestaan.<br /><br />Indien de kopers de door de verkoopsvoorwaarden opgelegde werkzaamheden niet verrichten binnen de gestelde termijn, komen de niet-gekapte en de niet-opgeruimde bomen, onverminderd de schadevergoeding opnieuw toe aan de eigenaar.
+...
 
 ### ART. 72.
 
-De kopers mogen in hun kavels alleen hout leggen dat daarvan afkomstig is.
+...
 
 ### ART. 73.
 
-De kopers en hun borgen zijn vanaf de uitreiking van de kapvergunning tot de schouwing aansprakelijk voor de schade veroorzaakt door elk bosmisdrijf dat in hun kavels gepleegd wordt, tenzij zij binnen acht dagen na kennisname van het misdrijf hiervan aangifte doen aan de aangewezen ambtenaar of aangestelde.<br /><br />Deze mededeling ontslaat de koper geenszins van zijn aansprakelijkheid, tenzij hij de schuldige kan aanwijzen of bij ontstentenis daarvan kan bewijzen dat hij voldoende pogingen heeft gedaan om de schuldige te ontdekken.
+...
 
 ### ART. 74.
 
-De kopers en hun borgen zijn burgerlijk aansprakelijk voor de schadevergoedingen en teruggaven voor bosmisdrijven die in de kavel gepleegd zijn door de houthakkers, vervoerders en alle personen die voor rekening van de kopers werken.
+De kopers en hun borgen zijn burgerlijk aansprakelijk voor de schadevergoedingen en teruggaven voor bosmisdrijven die in het lot gepleegd zijn door de houthakkers, vervoerders en alle personen die voor rekening van de kopers werken.<br>
+<br>
+In voorkomend geval zijn aannemers van een exploitatie, bij bosmisdrijven als vermeld in het eerste lid, hoofdelijk aansprakelijk, samen met de koper.
 
 ### ART. 75.
 
-De kopers en hun borgen zijn vanaf de uitreiking van de kapvergunning tot de schouwing aansprakelijk voor de bomen die gekapt of beschadigd worden op minder dan honderd meter van de grenzen van de kavel.  Zij betalen als teruggave een som die gelijk is aan tweemaal de waarde van die bomen en van de aangerichte schade.<br /><br />Wanneer een koper geen mededeling doet aan de aangewezen ambtenaar of de aangestelde binnen acht dagen na de datum van kennisneming van het misdrijf, wordt dat als bedrog beschouwd.<br /><br />De aangewezen ambtenaar of aangestelde verleent in geen geval een machtiging voor deze feiten.
+...
 
 ## AFDELING 4 [... (opgeh. decr. 26 april 2019, art. 47, I: 29 juni 2019)]
 
 ### ART. 76.
 
-Na de volledige kapping van de gemerkte bomen in een kavel en voor het begin van de ruiming van het hout, kan het Agentschap schouwing doen ter controle. Elke kap wordt door het Agentschap geschouwd binnen twee maanden te rekenen van de dag waarop de termijn voor de opruiming verstreken is.<br /><br />Indien het Agentschap geen schouwing gedaan heeft binnen deze twee maanden na de betekening van de ingebrekestelling, is de koper bevrijd.
+...
 
 ### ART. 77.
 
-Van de dag en het uur van de schouwing wordt aan de koper kennis gegeven bij een akte, die ten- minste tien dagen tevoren aan de gekozen woonplaats betekend wordt.<br /><br />Indien hij niet verschijnt en de aangewezen ambtenaar misdrijven vaststelt, wordt een tweede schouwing gehouden, waartoe hij wordt opgeroepen bij een akte, die hem tien dagen tevoren op zijn kosten betekend wordt aan de gekozen woonplaats en die dag en uur van de nieuwe schouwing vermeldt.<br /><br />Indien hij niet verschijnt wordt het proces-verbaal van de tweede schouwing geacht op tegenspraak te zijn opgemaakt.<br /><br />Indien er geen wetsovertreding vastgesteld wordt, ontslaat het Agentschap de koper ten aanzien van de exploitatie.<br /><br />Wordt dit ontslag niet verleend binnen een maand na het proces-verbaal, dan is de koper van rechtswege bevrijd.
+...
 
 ### ART. 78.
 
-De aannemers van de exploitatie dienen zich ten aanzien van de exploitatie, het werk en het opruimen van de kapping te gedragen naar hetgeen voor de kopers is voorgeschreven in de artikel 62 tot en met 77.<br /><br />In geval van misdrijven zijn zij met de koper hoofdelijk aansprakelijk.
+...
 
 ### ART. 79.
 
-Niemand kan zonder voorafgaande, schriftelijke erkenning beroepsmatig als koper of exploitant optreden in de openbare bossen.<br /><br />De Vlaamse regering stelt de voorwaarden en de procedure van de erkenning vast.<br /><br />De bepalingen van dit artikel zijn ook van toepassing op natuurlijke personen of rechtspersonen van wie de zetel of de domicilie in het buitenland is gevestigd, ongeacht de nationaliteit en de verblijfplaats van het tewerkgestelde personeel.
+...
 
 ## HOOFDSTUK VII BIJZONDERE BEPALINGEN BETREFFENDE DE PRIVE-BOSSEN
 
@@ -454,7 +487,19 @@ Niemand kan zonder voorafgaande, schriftelijke erkenning beroepsmatig als koper 
 
 ### ART. 81.
 
-Kappingen voorzien in een goedgekeurd beheersplan mogen onmiddellijk   worden uitgevoerd en zijn niet meldingsplichtig.<BR><BR>Indien onverwijld moet   worden overgegaan tot kapping om veiligheidsredenen moet de kapping en de   motivering ervan ten laatste 24 uur na het aanvangen van de kapping schriftelijk   worden medegedeeld aan het Agentschap. Indien dringend moet worden overgegaan   tot kapping om sanitaire redenen, moet de kapping en de motivering ervan   minstens veertien dagen voor het aanvangen van de kapping aan het Agentschap   schriftelijk worden meegedeeld. <BR><BR>Binnen een termijn van zes maanden na   het uitvoeren van de voormelde kappingen dient de bosbeheerder een voorstel van   herstelmaatregelen, gaande van de herbebossing van de gekapte of beschadigde   percelen tot een gelijkwaardige oppervlakte, met inbegrip van spontane   herbebossing, ter goedkeuring aan het Agentschap voor te leggen. Wanneer de   bosbeheerder geen herstelmaatregelen voorlegt binnen die termijn of wanneer hij   in gebreke blijft om de goedgekeurde herstelmaatregelen uit te voeren binnen een   termijn van één jaar na de goedkeuring van het al dan niet gewijzigde voorstel   of wanneer binnen deze termijn de spontane herbebossing geen of onvoldoende   resultaten opgeleverd heeft, kan het Agentschap de werken op kosten van de   bosbeheerders laten uitvoeren. De kosten worden verhaald door toezending via een   aangetekende zending van de kostenstaat aan de bosbeheerder. <BR><BR>Voor alle   andere kappingen moet een machtiging gevraagd worden aan het Agentschap.   Kappingen andere dan vermeld in het eerste tot en met het derde lid waarvoor   geen machtiging is verleend, alsook het niet naleven van de voorwaarden van een   machtiging, zijn verboden.<BR><BR>Overeenkomstig artikel 6.4.4, § 3, van het   decreet van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het   verlenen van een machtiging zoals vermeld in het vierde lid, die betrekking   heeft op een handeling aan of in beschermde goederen zoals bedoeld in dat   decreet, advies gevraagd aan de entiteit die door de Vlaamse Regering is belast   met de beleidsuitvoering inzake onroerend erfgoed. <BR><BR>Het Agentschap   beslist binnen de zestig dagen na de datum van indiening van het verzoek of de   kapping kan worden uitgevoerd, waarvan onverwijld mededeling wordt gegeven aan   de betrokken gemeentebesturen. Na verloop van deze termijn wordt het verzoek   geacht te zijn ingewilligd.<BR><BR>Beroep tegen de beslissing van het Agentschap   vermeld in het vorige lid kan worden ingesteld overeenkomstig artikel   43.<BR><BR>De Vlaamse Regering kan de kappingen bepalen die door hun geringe   impact vrijgesteld worden van machtiging.
+Kappingen voorzien in een goedgekeurd beheersplan mogen onmiddellijk worden uitgevoerd en zijn niet meldingsplichtig.<br>
+<br>
+Indien onverwijld moet worden overgegaan tot kapping om veiligheidsredenen moet de kapping en de motivering ervan ten laatste 24 uur na het aanvangen van de kapping schriftelijk worden medegedeeld aan het Agentschap. Indien dringend moet worden overgegaan tot kapping om sanitaire redenen, moet de kapping en de motivering ervan minstens veertien dagen voor het aanvangen van de kapping aan het Agentschap schriftelijk worden meegedeeld.<br>
+<br>
+Binnen een termijn van zes maanden na het uitvoeren van de voormelde kappingen dient de bosbeheerder een voorstel van herstelmaatregelen, gaande van de herbebossing van de gekapte of beschadigde percelen tot een gelijkwaardige oppervlakte, met inbegrip van spontane herbebossing, ter goedkeuring aan het Agentschap voor te leggen. Wanneer de bosbeheerder geen herstelmaatregelen voorlegt binnen die termijn of wanneer hij in gebreke blijft om de goedgekeurde herstelmaatregelen uit te voeren binnen een termijn van één jaar na de goedkeuring van het al dan niet gewijzigde voorstel of wanneer binnen deze termijn de spontane herbebossing geen of onvoldoende resultaten opgeleverd heeft, kan het Agentschap de werken op kosten van de bosbeheerders laten uitvoeren. De kosten worden verhaald door toezending via een aangetekende zending van de kostenstaat aan de bosbeheerder.<br>
+<br>
+Voor alle andere kappingen moet een machtiging gevraagd worden aan het Agentschap. Kappingen andere dan vermeld in het eerste tot en met het derde lid waarvoor geen machtiging is verleend, alsook het niet naleven van de voorwaarden van een machtiging, zijn verboden.<br>
+<br>
+Overeenkomstig artikel 6.4.4, § 3, van het decreet van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van een machtiging zoals vermeld in het vierde lid, die betrekking heeft op een handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies gevraagd aan de entiteit die door de Vlaamse Regering is belast met de beleidsuitvoering inzake onroerend erfgoed.<br>
+<br>
+Het Agentschap beslist binnen de zestig dagen na de datum van indiening van het verzoek of de kapping kan worden uitgevoerd, waarvan onverwijld mededeling wordt gegeven aan de betrokken gemeentebesturen. Na verloop van deze termijn wordt het verzoek geacht te zijn ingewilligd.<br>
+<br>
+De Vlaamse Regering kan de kappingen bepalen die door hun geringe impact vrijgesteld worden van machtiging.
 
 ### ART. 82.
 
@@ -486,9 +531,9 @@ De Vlaamse regering bepaalt de nadere voorwaarden en de wijze van toekenning voo
 <br>
 Indien de voorwaarden, die aan de subsidies verbonden werden, niet werden nageleefd, kan de subsidie teruggevorderd worden en toegewezen aan het Fonds voor Prevente en Sanering inzake Leefmilieu en Natuur dat is ingeschreven in de begroting van het Vlaamse Gewest overeenkomstig de bepalingen van artikel 13. Wanneer de teruggevorderde subsidie afkomstig is uit het Fonds voor Compenserende Bebossing zoals bedoeld in artikel 17 van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002, wordt zij toegewezen aan dat Fonds.<br>
 <br>
-Voor de beplanting met houtachtige gewassen van gronden gelegen in agrarisch gebied verleent het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.<br>
+Voor de beplanting met houtachtige gewassen van gronden gelegen in agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied verleent het daartoe aangestelde personeelslid van het departement Landbouw en Visserij een advies in het kader van de in artikel 35bis, § 5, van het Veldwetboek vereiste vergunning van het College van Burgemeester en Schepenen. Het advies wordt verleend binnen een termijn van 20 dagen. De termijn begint te lopen op de datum van verzending. Bij gebrek aan advies binnen deze termijn, wordt het advies geacht gunstig te zijn.<br>
 <br>
-Voor de rooiing binnen een termijn van 22 jaar na de aanplanting of na spontane bebossing, is in afwijking van de stedenbouwkundige&nbsp;vergunningsplicht voor ontbossing, zoals bepaald in artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening, enkel een voorafgaande eenvoudige melding van de rooiing aan de landbouwkundig ingenieur van de Dienst Landbouw en de ambtenaar vereist. In het geval van exploitatie van de houtachtige gewassen, vermeld in het vierde lid, bedraagt deze termijn evenwel drie jaar na de laatste exploitatie. Van deze melding stelt de ambtenaar onverwijld het college van burgemeester en schepenen en het Departement Omgeving in kennis. De hiervoor bedoelde termijnen kunnen door de Vlaamse Regering worden aangepast.<br>
+Voor de rooiing binnen een termijn van 22 jaar na de aanplanting of na spontane bebossing met als bedoeling terug te keren naar gebruik als landbouwgrond als vermeld in artikel 2, 12°, van het decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke identificatie van landbouwer, exploitatie en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, is in afwijking van de stedenbouwkundige&nbsp;vergunningsplicht voor ontbossing, zoals bepaald in artikel 4.2.1 van de Vlaamse Codex Ruimtelijke Ordening, enkel een voorafgaande eenvoudige melding van de rooiing aan de landbouwkundig ingenieur van de Dienst Landbouw en de ambtenaar vereist. In het geval van exploitatie van de houtachtige gewassen, vermeld in het vierde lid, bedraagt deze termijn evenwel drie jaar na de laatste exploitatie. Van deze melding stelt de ambtenaar onverwijld het college van burgemeester en schepenen en het Departement Omgeving in kennis. De hiervoor bedoelde termijnen kunnen door de Vlaamse Regering worden aangepast.<br>
 <br>
 De Vlaamse regering bepaalt criteria voor ecologisch verantwoorde bebossing en bosuitbreiding.
 
@@ -504,7 +549,13 @@ Op basis van de goedgekeurde lange-termijnplanning zoals bepaald in artikel 6 ka
 
 ### ART. 90.
 
-Openbare onroerende goederen, die onder de toepassing van het decreet vallen, kunnen niet vervreemd worden zonder machtiging van de Vlaamse regering.<br /><br />In alle bossen kunnen werkzaamheden, die wijzigingen van de fysische toestand voor gevolg hebben, slechts worden uitgevoerd na machtiging van het Agentschap of indien ze voorzien zijn in het goedgekeurd beheersplan.<br /><br />De Vlaamse Regering kan in een algemeen besluit de samenstelling van het aanvraagdossier, de behandelingstermijn, de procedure en de mogelijk op te leggen voorwaarden regelen. <br /><br />De Vlaamse regering kan in een algemeen besluit de uitvoering van deze werkzaamheden, handelingen of wijzigingen van de fysische toestand regelen alsook de wijzigingen van de fysische toestand bepalen die door hun geringe omvang vrijgesteld worden van een machtiging.<br /><br />Beroep tegen de beslissingen van het Agentschap kan worden ingesteld overeenkomstig artikel 43.
+Openbare onroerende goederen, die onder de toepassing van het decreet vallen, kunnen niet vervreemd worden zonder machtiging van de Vlaamse regering.<br>
+<br>
+In alle bossen kunnen werkzaamheden, die wijzigingen van de fysische toestand voor gevolg hebben, slechts worden uitgevoerd na machtiging van het Agentschap of indien ze voorzien zijn in het goedgekeurd beheersplan.<br>
+<br>
+De Vlaamse Regering kan in een algemeen besluit de samenstelling van het aanvraagdossier, de behandelingstermijn, de procedure en de mogelijk op te leggen voorwaarden regelen.<br>
+<br>
+De Vlaamse regering kan in een algemeen besluit de uitvoering van deze werkzaamheden, handelingen of wijzigingen van de fysische toestand regelen alsook de wijzigingen van de fysische toestand bepalen die door hun geringe omvang vrijgesteld worden van een machtiging.
 
 ### ART. 90bis.
 
@@ -539,6 +590,10 @@ De&nbsp;vergunning tot ontbossing van een grond in een in § 2,2°, bedoelde ver
 Voor ontbossingen groter dan drie hectare is steeds een volledige compensatie in natura vereist.<br>
 <br>
 De integrale compensatie in natura betreft ten minste een gelijke oppervlakte. Voor bossen die een bijdrage kunnen leveren aan de realisatie van de instandhoudingsdoelstellingen, als vermeld in artikel 2, punt 65°, van het decreet Natuurbehoud, bedraagt de compensatie een drievoud van de ontboste oppervlakte. De Vlaamse Regering bepaalt de nadere regels inzake de wijze en de omvang van de compensatie waarbij differentiatie mogelijk is, bepaalt de gebieden die in aanmerking komen voor compensatie in natura en stelt een lijst vast van bostypes die een bijdrage leveren aan de realisatie van de vermelde instandhoudingsdoelstellingen.<br>
+<br>
+Gronden die via eenvoudige melding als vermeld in artikel 87, vijfde lid, worden gerooid na inwerkingtreding van het decreet van 26 april 2019 houdende diverse bepalingen inzake omgeving, natuur en landbouw, komen niet in aanmerking voor compensatie in natura in de volgende gevallen:<br>
+1° gedurende 20 jaar na de melding indien de grond gelegen is in agrarisch gebied of een daarmee gelijkgesteld bestemmingsgebied;<br>
+2° tot aan de datum van inwerkingtreding van de bestemmingswijziging van de grond naar een bestemming die ressorteert onder de categorie van gebiedsaanduiding `bos', `overig groen' of `reservaat en natuur' of tot aan de datum van inwerkingtreding van de aanduiding van de grond als `watergevoelig openruimtegebied' conform artikel 5.6.8, § 1, van de Vlaamse Codex Ruimtelijke Ordening.<br>
 <br>
 § 5. De aanvrager van de&nbsp;vergunning tot ontbossing of van de in § 2, 2°, bedoelde verkavelingsvergunning stelt de compensatie voor overeenkomstig de eisen van het in § 4, derde lid, bedoelde besluit en dient het voorstel in bij de vergunningverlenende overheid, die het ter goedkeuring voorlegt aan het Agentschap.<br>
 <br>
@@ -586,7 +641,34 @@ Behoudens machtiging van het Agentschap of in de gevallen en onder de voorwaarde
 
 ### ART. 97.
 
-§ 1. Onverminderd de verbodsbepalingen in wetten, decreten en reglementen   is het, zonder toestemming van de eigenaar en machtiging van het Agentschap of   zonder dat het bepaald is in het goedgekeurd beheersplan, in alle openbare   bossen en voor wat de bosreservaten betreft, de commissie gehoord,   verboden:<BR>1. het strooisel te verwijderen;<BR>2. het dode hout, op de grond   liggend of nog aan de stam bevestigd, te verwijderen tenzij het behoort tot een   partij verkochte bomen;<BR>3. knoppen, scheuten, twijgen, bloeiwijzen, kegels,   vruchten, zaden te verzamelen en te verwijderen;<BR>4. bomen op te snoeien,   behoudens wanneer deze maatregel werd opgenomen in het goedgekeurd   beheersplan;<BR>5. keten, loodsen en alle andere constructies en   verblijfsgelegenheden op te richten, en tenten en woonwagens, al dan niet op   wielen, te plaatsen, met uitzondering van die welke vereist zijn voor het beheer   en de bewaking van de bossen en voor de veiligheid en het welzijn van de   personen die op rechtmatige wijze in het bos aanwezig zijn;<BR>6. reclame aan de   bomen te bevestigen, reclameborden te plaatsen en onverschillig welk ander   middel van commerciële reclame te gebruiken;<BR>7. de rust in het bos en van de   bezoekers op welke wijze ook te verstoren;<BR>8. resten, vuilnis en afval, van   welke aard ook, achter te laten buiten de daartoe ter beschikking gestelde   verzamelplaatsen, met uitzondering van houtafval en boomschors die achterblijven   na een toegestane exploitatie;<BR>9. dieren te houden binnen omheiningen;   <BR>10. bomen te beschadigen, planten weg te nemen, uit te rukken of af te   snijden;<BR>11. onverschillig welk voorwerp dat tot de uitrusting van het bos   behoort te vernielen, te beschadigen, te verplaatsen en te misbruiken;<BR>12.   prikkeldraad aan te brengen en/of in stand te houden in en om de bossen, tenzij   anders voorzien in het beheersplan.<BR><BR>§ 2. Onverminderd de   verbodsbepalingen opgenomen in wetten, decreten en reglementen is het, zonder   toestemming van de bosbeheerder en machtiging van het Agentschap of zonder dat   het voorzien is in het goedgekeurd beheersplan, in alle privé-bossen   verboden:<BR>1. keten, loodsen en alle andere constructies en   verblijfsgelegenheden op te richten, en tenten en woonwagens, al dan niet op   wielen, te plaatsen, met uitzondering van die welke vereist zijn voor het beheer   en de bewaking van de bossen en voor de veiligheid en het welzijn van de   personen die op rechtmatige wijze in het bos aanwezig zijn;<BR>2. reclame aan de   bomen te bevestigen, reclameborden te plaatsen en onverschillig welk ander   middel van commerciële reclame te gebruiken;<BR>3. de rust in het bos en van de   bezoekers op welke wijze ook te verstoren;<BR>4. resten, vuilnis en afval, van   welke aard ook, achter te laten buiten de daartoe ter beschikking gestelde   verzamelplaatsen, met uitzondering van houtafval en boomschors die achterblijven   na een toegestane exploitatie;<BR>5. bomen te beschadigen, planten weg te nemen,   uit te rukken of af te snijden, tenzij als beheersmaatregel;<BR>6. onverschillig   welk voorwerp dat tot de uitrusting van het bos behoort te vernielen, te   beschadigen, te verplaatsen en te misbruiken;<BR>7. prikkeldraad aan te brengen   en/of in stand te houden in en om de bossen, tenzij anders voorzien in het   beheersplan;<BR>8. het strooisel te verwijderen;<BR>9. dieren te houden binnen   omheiningen. Omvorming van bestaande bossen tot graasweide, wordt gelijkgesteld   met ontbossing.<BR><BR>§ 3. Overeenkomstig artikel 6.4.4, § 3, van het decreet   van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van   een machtiging zoals vermeld in de paragrafen 1 en 2, die betrekking heeft op   een handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies   gevraagd aan de entiteit die door de Vlaamse Regering is belast met de   beleidsuitvoering inzake onroerend erfgoed. <BR>
+§ 1. Onverminderd de verbodsbepalingen in wetten, decreten en reglementen is het, zonder toestemming van de eigenaar en machtiging van het Agentschap of zonder dat het bepaald is in het goedgekeurd beheersplan, in alle openbare bossen&nbsp;verboden:<br>
+1. het strooisel te verwijderen;<br>
+2. het dode hout, op de grond liggend of nog aan de stam bevestigd, te verwijderen tenzij het behoort tot een partij verkochte bomen;<br>
+3. knoppen, scheuten, twijgen, bloeiwijzen, kegels, vruchten, zaden te verzamelen en te verwijderen;<br>
+4. bomen op te snoeien, behoudens wanneer deze maatregel werd opgenomen in het goedgekeurd beheersplan;<br>
+5. keten, loodsen en alle andere constructies en verblijfsgelegenheden op te richten en in stand te houden, en tenten en woonwagens, al dan niet op wielen, te plaatsen, met uitzondering van die welke vereist zijn voor het beheer en de bewaking van de bossen en voor de veiligheid en het welzijn van de personen die op rechtmatige wijze in het bos aanwezig zijn;<br>
+6. reclame aan de bomen te bevestigen, reclameborden te plaatsen en onverschillig welk ander middel van commerciële reclame te gebruiken;<br>
+7. de rust in het bos en van de bezoekers op welke wijze ook te verstoren;<br>
+8. resten, vuilnis en afval, van welke aard ook, achter te laten buiten de daartoe ter beschikking gestelde verzamelplaatsen, met uitzondering van houtafval en boomschors die achterblijven na een toegestane exploitatie;<br>
+9. dieren te houden binnen omheiningen;<br>
+10. bomen te beschadigen, planten weg te nemen, uit te rukken of af te snijden;<br>
+11. onverschillig welk voorwerp dat tot de uitrusting van het bos behoort te vernielen, te beschadigen, te verplaatsen en te misbruiken;<br>
+12. prikkeldraad aan te brengen en/of in stand te houden in en om de bossen, tenzij anders voorzien in het beheersplan.<br>
+<br>
+§ 2. Onverminderd de verbodsbepalingen opgenomen in wetten, decreten en reglementen is het, zonder toestemming van de bosbeheerder en machtiging van het Agentschap of zonder dat het voorzien is in het goedgekeurd beheersplan, in alle privé-bossen verboden:<br>
+1. keten, loodsen en alle andere constructies en verblijfsgelegenheden op te richten en in stand te houden, en tenten en woonwagens, al dan niet op wielen, te plaatsen, met uitzondering van die welke vereist zijn voor het beheer en de bewaking van de bossen en voor de veiligheid en het welzijn van de personen die op rechtmatige wijze in het bos aanwezig zijn;<br>
+2. reclame aan de bomen te bevestigen, reclameborden te plaatsen en onverschillig welk ander middel van commerciële reclame te gebruiken;<br>
+3. de rust in het bos en van de bezoekers op welke wijze ook te verstoren;<br>
+4. resten, vuilnis en afval, van welke aard ook, achter te laten buiten de daartoe ter beschikking gestelde verzamelplaatsen, met uitzondering van houtafval en boomschors die achterblijven na een toegestane exploitatie;<br>
+5. bomen te beschadigen, planten weg te nemen, uit te rukken of af te snijden, tenzij als beheersmaatregel;<br>
+6. onverschillig welk voorwerp dat tot de uitrusting van het bos behoort te vernielen, te beschadigen, te verplaatsen en te misbruiken;<br>
+7. prikkeldraad aan te brengen en/of in stand te houden in en om de bossen, tenzij anders voorzien in het beheersplan;<br>
+8. het strooisel te verwijderen;<br>
+9. dieren te houden binnen omheiningen. Omvorming van bestaande bossen tot graasweide, wordt gelijkgesteld met ontbossing.<br>
+<br>
+§ 3. Overeenkomstig artikel 6.4.4, § 3, van het decreet van 12 juli 2013 betreffende het onroerend erfgoed wordt voor het verlenen van een machtiging zoals vermeld in de paragrafen 1 en 2, die betrekking heeft op een handeling aan of in beschermde goederen zoals bedoeld in dat decreet, advies gevraagd aan de entiteit die door de Vlaamse Regering is belast met de beleidsuitvoering inzake onroerend erfgoed.<br>
+<br>
+§ 4. De verboden, vermeld in paragraaf 1 en 2, gelden niet in de natuurreservaten, vermeld in artikel 16ter decies van het decreet Natuurbehoud.
 
 ### ART. 98.
 
