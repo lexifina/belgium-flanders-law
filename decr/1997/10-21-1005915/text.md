@@ -615,6 +615,8 @@ Met behoud van de toepassing van de mogelijkheid tot terugvordering van subsidie
 1° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, andere subsidies voor dezelfde activiteit heeft verkregen, waardoor de totale subsidies 100% van de totale aangetoonde kostprijs van de gesubsidieerde activiteit overschrijden;<br>
 2° als blijkt dat een begunstigde van subsidies, verleend op basis van dit artikel, niet langer voldoet aan de vereisten om in aanmerking te komen voor die subsidies.<br>
 <br>
+De terugvordering van de subsidie staat in verhouding tot de mate waarin de beheermaatregelen, opgenomen in het goedgekeurde natuurbeheerplan, niet zijn uitgevoerd, de verbintenissen niet zijn nageleefd, en de beheerdoelstellingen niet zijn bereikt.<br>
+<br>
 De Vlaamse Regering bepaalt ook:<br>
 1° de wijze van berekening van de subsidie;<br>
 2° de procedures voor de aanvraag, de beoordeling, de toekenning en de uitbetaling van de subsidie en de evaluatie van de bereikte resultaten;<br>
@@ -744,9 +746,9 @@ Naast de maatregelen vermeld in hoofdstuk IV, afdeling 4 van dit hoofdstuk en ho
 § 2. ...<br>
 <br>
 § 3. In de GEN en de GENO gelden de volgende voorschriften:<br>
-1° het gebruik van meststoffen wordt geregeld overeenkomstig het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen;<br>
+1° het gebruik van meststoffen wordt geregeld overeenkomstig het Mestdecreet;<br>
 2° behoudens individuele ontheffing, verleend door het Agentschap voor Natuur en Bos of algemene ontheffing, is het verboden:<br>
-1) pesticiden te gebruiken. Dit verbod geldt niet voor de percelen van de landbouwbedrijven waar in het kader van artikel 15, § 5, lid twee en vier, van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen, een ontheffing geldt; noch voor de percelen van landbouwbedrijven die onder de bepalingen van artikel 14 of artikel 15, §§ 1 tot 4 en § 6 van bovengenoemd decreet vallen; noch voor gronden die louter om de reden dat deze verworven zijn in de periode tussen de aangifte 95 en de inwerkingtreding van het mestdecreet niet onder de toepassing van hogervermelde ontheffing vallen, behalve in bepaalde gevallen aangeduid door de Vlaamse regering, waarbij de modaliteiten of middelen nader kunnen worden gespecificeerd zonder nochtans tot een volledig verbod te kunnen overgaan;<br>
+1) pesticiden te gebruiken op percelen waar de bemesting conform artikel 41bis en 41ter van het Mestdecreet beperkt is tot rechtstreekse uitscheiding bij begrazing, tot twee grootvee-eenheden per hectare op jaarbasis, in voorkomend geval vermeerderd met een supplementaire bemesting van maximaal 100 kg stikstof uit kunstmest per hectare per jaar. De Vlaamse Regering kan, voor bepaalde gevallen van percelen die niet onder dit verbod vallen, de modaliteiten of de middelen voor het gebruik van pesticiden nader specificeren, zonder dat ze echter tot een volledig verbod kan overgaan;<br>
 2) behoudens in toepassing van een goedgekeurd beheersplan conform het bosdecreet van 13 juni 1990 of met toepassing van een natuurbeheerplan conform dit decreet, de vegetatie, met inbegrip van meerjarige cultuurgewassen of van kleine landschapselementen te wijzigen;<br>
 3) het reliëf van de bodem te wijzigen;<br>
 4) werkzaamheden uit te voeren die rechtstreeks of onrechtstreeks het grondwaterpeil verlagen, alsook maatregelen die de bestaande ont- en afwatering versterken;<br>
@@ -1195,7 +1197,38 @@ Onder meer met het oog op de evaluatie, vermeld in artikel 50quater, § 3,   en 
 
 ### ART. 51.
 
-§ 1. De Vlaamse regering neemt, na advies van de MiNa-Raad, alle maatregelen die ze nuttig acht:<br />1° inzake de instandhouding van populaties van soorten of ondersoorten van organismen vermeld in de bijlagen III en IV van dit decreet en van hun habitats;<br />2° om populaties van de overige soorten of ondersoorten van organismen in stand te houden, te herstellen of te ontwikkelen.<br /><br />Deze maatregelen kunnen overal of voor bepaalde gebieden of habitats worden genomen, ze kunnen soortenbescherming omvatten en kunnen betrekking hebben op onder meer:<br />1° alle ontwikkelingsvormen van organismen;<br />2° een verbod op het opzettelijk verstoren van soorten en hun habitats, tijdens de periode van voortplanting, afhankelijkheid van de jongen, trek en overwintering;<br />3° beschermingsmaatregelen voor geregeld voorkomende trekvogels in hun broed-, rui-, foerageer- en overwinteringsgebieden en rustplaatsen in hun trekzones;<br />4° een verbod op het opzettelijk vernielen of rapen van eieren van in het wild levende soorten;<br />5° een verbod op het beschadigen of vernielen van de woongebieden;<br />6° een verbod op het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van plantensoorten;<br />7° een verbod op het exploiteren van bepaalde populaties;<br />8° een verbod op het gebruik van alle niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van de populaties vermeld in de bijlage III van dit decreet tot gevolg kunnen hebben;<br />9° het instellen van een stelsel van onttrekkingsvergunningen of quota;<br />10° het revalideren van gekwetste in het wild levende diersoorten.<br /><br />Deze maatregelen kunnen blijvend, voor een bepaalde periode of tijdelijk van toepassing zijn en kunnen worden ondersteund door vergoedingen waartoe ze, binnen de perken van de begrotingsmiddelen, een financiële regeling kunnen vaststellen.<br /><br />De Vlaamse regering stelt nadere regels vast inzake de maatregelen en de procedure.<br /><br />§ 2. De Vlaamse regering kan, onverminderd de bepalingen van het voormelde Jachtdecreet, maatregelen nemen om de volgende activiteiten tijdelijk of permanent, plaatselijk of over het hele grondgebied te regelen of te verbieden: het in het bezit houden voor persoonlijke of commerciële doeleinden, vangen, doden, onttrekken, het gebruik van bepaalde middelen voor het vangen en doden, verzamelen, wegnemen of vernielen, het in de handel brengen, het ruilen, het te koop of in ruil aanbieden, het te koop vragen, het vervoeren en het in- of uitvoeren van elk organisme, levend of dood, of van gemakkelijk herkenbare delen of elk daaruit verkregen product.<br /><br />§ 3. De Vlaamse regering kan maatregelen nemen om het uitzetten van diersoorten of van plantensoorten of organismen te regelen of te verbieden voorzover deze uitzetting een bedreiging vormt voor de natuur of het natuurlijk milieu en om het vervoeren van diersoorten of hun krengen of plantensoorten te regelen of te verbieden.
+§ 1. De Vlaamse regering neemt, na advies van de MiNa-Raad, alle maatregelen die ze nuttig acht:<br>
+1° inzake de instandhouding van populaties van soorten of ondersoorten van organismen vermeld in de bijlagen III en IV van dit decreet en van hun habitats;<br>
+2° om populaties van de overige soorten of ondersoorten van organismen in stand te houden, te herstellen of te ontwikkelen.<br>
+<br>
+Deze maatregelen kunnen overal of voor bepaalde gebieden of habitats worden genomen, ze kunnen soortenbescherming omvatten en kunnen betrekking hebben op onder meer:<br>
+1° alle ontwikkelingsvormen van organismen;<br>
+2° een verbod op het opzettelijk verstoren van soorten en hun habitats, tijdens de periode van voortplanting, afhankelijkheid van de jongen, trek en overwintering;<br>
+3° beschermingsmaatregelen voor geregeld voorkomende trekvogels in hun broed-, rui-, foerageer- en overwinteringsgebieden en rustplaatsen in hun trekzones;<br>
+4° een verbod op het opzettelijk vernielen of rapen van eieren van in het wild levende soorten;<br>
+5° een verbod op het beschadigen of vernielen van de woongebieden;<br>
+6° een verbod op het opzettelijk plukken en verzamelen, afsnijden, ontwortelen of vernielen van plantensoorten;<br>
+7° een verbod op het exploiteren van bepaalde populaties;<br>
+8° een verbod op het gebruik van alle niet-selectieve middelen die de plaatselijke verdwijning of ernstige verstoring van de rust van de populaties vermeld in de bijlage III van dit decreet tot gevolg kunnen hebben;<br>
+9° het instellen van een stelsel van onttrekkingsvergunningen of quota;<br>
+10° het revalideren van gekwetste in het wild levende diersoorten.<br>
+<br>
+Deze maatregelen kunnen blijvend, voor een bepaalde periode of tijdelijk van toepassing zijn en kunnen worden ondersteund door vergoedingen waartoe ze, binnen de perken van de begrotingsmiddelen, een financiële regeling kunnen vaststellen.<br>
+<br>
+De Vlaamse regering stelt nadere regels vast inzake de maatregelen en de procedure.<br>
+<br>
+§ 2. De Vlaamse regering kan, onverminderd de bepalingen van het voormelde Jachtdecreet, maatregelen nemen om de volgende activiteiten tijdelijk of permanent, plaatselijk of over het hele grondgebied te regelen of te verbieden: het in het bezit houden voor persoonlijke of commerciële doeleinden, vangen, doden, onttrekken, het gebruik van bepaalde middelen voor het vangen en doden, verzamelen, wegnemen of vernielen, het in de handel brengen, het ruilen, het te koop of in ruil aanbieden, het te koop vragen, het vervoeren en het in- of uitvoeren van elk organisme, levend of dood, of van gemakkelijk herkenbare delen of elk daaruit verkregen product.<br>
+<br>
+§ 3. De Vlaamse regering kan maatregelen nemen om het uitzetten van diersoorten of van plantensoorten of organismen te regelen of te verbieden voorzover deze uitzetting een bedreiging vormt voor de natuur of het natuurlijk milieu en om het vervoeren van diersoorten of hun krengen of plantensoorten te regelen of te verbieden.<br>
+<br>
+Met behoud van de bevoegdheden van de toezichthoudende ambtenaren krachtens andere wetten of decreten, kunnen ambtshalve op private terreinen door het agentschap of personen in opdracht van het agentschap maatregelen worden uitgevoerd inzake beheer en bestrijding van:<br>
+1° in het wild voorkomende, voor de Europese Unie zorgwekkende invasieve uitheemse soorten. Dat zijn uitheemse soorten waarvan de negatieve effecten zodanig zijn dat conform artikel 4, lid 3, van verordening nr. 1143/2014 van het Europees Parlement en de Raad van 22 oktober 2014 betreffende de preventie en beheersing van de introductie en verspreiding van invasieve uitheemse soorten, gezamenlijk optreden op het niveau van de Unie vereist is;<br>
+2° in het wild voorkomende, voor het Vlaamse Gewest zorgwekkende invasieve soorten. Dat zijn soorten die in het Vlaamse Gewest op een lijst zijn geplaatst als vermeld in artikel 12 van de voormelde verordening;<br>
+3° in het wild voorkomende, voor België zorgwekkende invasieve soorten. Dat zijn soorten die op een nationale lijst zijn geplaatst.<br>
+<br>
+De maatregelen, vermeld in het tweede lid, kunnen alleen maatregelen zijn die zijn opgenomen in een beheerregeling die de Vlaamse Regering vaststelt.<br>
+<br>
+De maatregelen, vermeld in het tweede lid, kunnen alleen ambtshalve worden uitgevoerd indien de eigenaar, de huurder, de exploitant of de grondgebruiker van een privaat terrein na schriftelijk verzoek niet zelf in beheer of bestrijding voorziet. Voor de ambtshalve uitvoering moet schriftelijke toestemming door de eigenaar, de huurder, de exploitant of de grondgebruiker zijn bekomen. Ingeval geen toestemming wordt bekomen, kan de eigenaar, de huurder, de exploitant of de grondgebruiker aansprakelijk worden gesteld voor de beheerkosten of herstelkosten die voortkomen uit de populatie van de betreffende soort op zijn terrein.
 
 ### ART. 52.
 
