@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031801,
+  "title": "Besluit van de Vlaamse Regering van 2019-04-05 waarbij de overvloedige regenval en rukwinden met een lokaal karakter die hebben plaatsgevonden op 27 juli 2018 te Alveringem als een algemene ramp worden beschouwd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031801/VolledigDocument?datum=2019-06-29",
+  "source_sha256": "a0302513c5c15d2bba293a75102d6092eeeb5fd1e1023a4236aac4efe677f571",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031801&param=informatie",
+  "as_of": "2019-06-29",
+  "made": "2019-04-05",
+  "gazette": "2019-06-19",
+  "numac": 2019013122,
+  "document_start": "2019-06-29",
+  "document_end": null,
+  "in_force": "2019-06-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
