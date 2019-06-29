@@ -26,7 +26,17 @@ In dit decreet wordt verstaan onder :<br>
 ### ART. 4.
 
 De Vlaamse Regering kan, binnen de bevoegdheden, vermeld in artikel 6, § 1, V, en artikel 6, § 1, VI, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, ten aanzien van de activiteiten, vermeld in artikel 3, § 1, en van de producten die het resultaat zijn van die activiteiten :<br>
-1° alle maatregelen nemen voor de uitvoering van de Europese en andere internationale akten;<br>
+1° alle maatregelen nemen voor de uitvoering van de Europese en andere internationale akten die het Europese en internationale landbouw- en visserijbeleid vorm geven, en die:<br>
+a) de garantie en de verdeling regelen van het inkomen van de actoren die actief zijn in de landbouwsector;<br>
+b) het beheer van de vissersvloot en de visbestanden regelen, en die de voorwaarden daarvoor bepalen;<br>
+c) de productie van aquacultuurproducten, zowel op land als op zee, regelen, en die de voorwaarden daarvoor bepalen;<br>
+d) de werking van de markt van landbouw-, visserij- en aquacultuurproducten ondersteunen of stabiliseren;<br>
+e) de ontwikkeling van het Europese platteland stimuleren en leefbare plattelandsgemeenschappen ondersteunen, en die de voorwaarden daarvoor bepalen;<br>
+f) een dynamische visserijsector bevorderen en leefbare visserijgemeenschappen waarborgen;<br>
+g) het kader vormen waarin de landbouw-, aquacultuur- en visserijsector ondersteund kan worden door de toekenning van staatssteun;<br>
+h) toelaten reclame te voeren en de afzet te bevorderen voor landbouw-, visserij- en aquacultuurproducten binnen de Europese markt;<br>
+i) de kwaliteit en de diversiteit van de Europese landbouw-, visserij- en aquacultuurproducten garanderen;<br>
+j) het financierings- en toezichtskader daarbij vormen;<br>
 2° de voorwaarden bepalen voor :<br>
 a) alle handelingen die verricht zijn in het kader van de activiteiten, vermeld in artikel 3, § 1, en die handelingen of de steller van die handelingen onderwerpen aan een voorafgaande keuring, erkenning of machtiging, en de voorwaarden tot verlening, wijziging, behoud, verlenging, inperking, uitbreiding, schorsing, opheffing en intrekking van de erkenning of machtiging bepalen;<br>
 b) de samenstelling, kwaliteit, eigenschappen, echtheid en zuiverheid van ras, indeling, hoeveelheid, maat, gewicht, vorm, toestand, oorsprong, herkomst, en de analyse van de producten die het resultaat zijn van de activiteiten, vermeld in artikel 3, § 1, voor zover die opgelegd worden ter verbetering van de kwaliteit of van de foktechnische eigenschappen;<br>
@@ -46,7 +56,7 @@ d) de toekenning van steun voor de beoefening van landbouw-, zeevisserij-, en aq
 
 ### ART. 6.
 
-<P>De Vlaamse Regering is belast met de uitbouw en het beheer van een databank   voor de-minimissteun, verleend met toepassing van Verordening (EG) nr. 1535/2007   van de Commissie van 20 december 2007 betreffende de toepassing van de artikelen   87 en 88 van het EG-verdrag op de-minimissteun in de   landbouwproductiesector.<BR></P>  <P>De uitbouw van deze databank impliceert geen verplichting voor de   verstrekkers of ontvangers van steun tot aanlevering van de gegevens die   opgenomen worden in de databank.<BR></P>  <P>De Vlaamse Regering kan de procedure en voorwaarden bepalen voor de   aanlevering van de gegevens die in de databank, vermeld in het eerste lid,   zullen worden opgenomen.<BR></P>
+De Vlaamse Regering kan alle verplichtingen uitvoeren die voortvloeien uit de toepassing van het Europese staatssteunkader.
 
 ### ART. 7.
 
@@ -126,7 +136,7 @@ De Vlaamse Regering kan een vergoeding voor sociale promotie toekennen aan   per
 
 <p>Een vereniging kan als centrum voor landbouwvorming erkend worden als ze aan de volgende voorwaarden voldoet :<br>
 1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van naschoolse vormingsactiviteiten als vermeld in artikel 12;<br>
-2° ze&nbsp;stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+2° ze stelt op eenvoudig verzoek alle gegevens ter beschikking die nodig zijn voor de controle op en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
 3° ze biedt alle waarborgen voor een adequate organisatie en planning van de verschillende types vormingsactiviteiten, bepaald door de Vlaamse Regering;<br>
 4° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
 
@@ -150,7 +160,7 @@ Met behoud van de toepassing van artikel 10, § 1, tweede lid, kunnen, ter   bev
 
 <p>Een vereniging kan als centrum voor sensibilisering van duurzame landbouw worden erkend als ze aan de volgende voorwaarden voldoet :<br>
 1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van sensibiliseringsacties als vermeld in artikel 16;<br>
-2° ze&nbsp;stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+2° ze stelt op eenvoudig verzoek alle gegevens ter beschikking die nodig zijn voor de controle op en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
 3° ze heeft de nodige ervaring met de organisatie en uitvoering van sensibiliseringsactiviteiten als vermeld in artikel 16, of van sensibiliseringsactiviteiten in sectoren die verwant zijn met landbouw;<br>
 4° ze biedt alle waarborgen voor een adequate organisatie en planning van de sensibiliseringsacties, vermeld in artikel 16;<br>
 5° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
@@ -175,7 +185,7 @@ Met behoud van de toepassing van artikel 10, § 1, tweede lid, kunnen, ter   bev
 
 <p>Een vereniging kan als centrum voor landbouweducatie erkend worden als ze aan de volgende voorwaarden voldoet :<br>
 1° ze is opgericht in de vorm van een vereniging zonder winstoogmerk met als statutair doel de organisatie van landbouweducatieve activiteiten als vermeld in artikel 19;<br>
-2° ze stelt op eenvoudig verzoek alle gegevens die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is ter beschikking, die nodig zijn voor de controle en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
+2° ze stelt op eenvoudig verzoek alle gegevens ter beschikking die nodig zijn voor de controle op en de uitvoering van de activiteiten waarvoor ze erkend is;<br>
 3° ze heeft de nodige ervaring met educatieve initiatieven, al dan niet in de landbouwsfeer;<br>
 4° ze biedt alle waarborgen voor een adequate organisatie en planning van de landbouweducatieve activiteiten, vermeld in artikel 19;<br>
 5° ze aanvaardt de administratieve en financiële controle van de Vlaamse overheid en de Europese Unie.</p>
@@ -308,6 +318,10 @@ Deze onderafdeling is ook van toepassing op de andere afdelingen van   hoofdstuk
 
 <p>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht kunnen doorgegeven worden binnen het beleidsdomein Landbouw en Visserij, aan de controleorganen, vermeld in artikel 45, en aan derden. De Vlaamse Regering kan hiervoor nadere modaliteiten bepalen.</p>
 
+### ART 44/1.
+
+De statutaire en contractuele personeelsleden die de Vlaamse Regering aanwijst, kunnen in het kader van een onderzoek door het Europees Bureau voor fraudebestrijding, zoals opgericht bij het besluit van de Europese Commissie van 28 april 1999 houdende oprichting van het Europees Bureau voor fraudebestrijding (OLAF), bijstand verlenen aan de toezichthouders van het OLAF. De toezichthouders van het OLAF kunnen bij hun onderzoeken de toezichtsmogelijkheden vermeld in artikel 43 tot 54 en artikel 64 en 65 toepassen.
+
 ### ART. 45.
 
 <P>De Vlaamse Regering kan de toezichtopdracht voor de door haar bepaalde   aangelegenheden toevertrouwen aan één of meer controleorganen.<BR></P>  <P>De Vlaamse Regering kan de erkenning van de controleorganen en het toezicht   op die controleorganen nader regelen en de opdrachten van de controleorganen   vaststellen.<BR></P>  <P>De resultaten van controles uitgevoerd in het kader van de toezichtopdracht   kunnen doorgegeven worden aan entiteiten van het beleidsdomein Landbouw en   Visserij, aan de controleorganen en aan derden. De Vlaamse Regering kan hiervoor   nadere modaliteiten bepalen.<BR></P>
@@ -368,19 +382,19 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 53.
 
-<p>Bij vermoeden van inbreuk op dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid, maakt de toezichthouder daarvan melding in het controleverslag.</p>
-
 <p>Bij de vaststelling van inbreuken die aanleiding geven tot een zwaardere sanctie dan het geven van een waarschuwing, maakt de toezichthouder een proces-verbaal op.</p>
 
 <p>De processen-verbaal die de toezichthouders opmaken, hebben bewijswaarde tot het tegenbewijs is geleverd. Een kopie ervan wordt door de toezichthouder binnen een termijn van twintig dagen na de datum van verbalisering aangetekend verstuurd naar de persoon of de personen ten laste van wie het proces-verbaal is opgesteld, als de persoon van de overtreder bekend is. Als er ook nader onderzoek nodig is om de persoon van de overtreder en zijn verblijfplaats te achterhalen, wordt een kopie van het proces-verbaal binnen een termijn van twintig dagen na de datum waarop de persoon van de overtreder en zijn verblijfplaats bekend zijn, verstuurd naar die persoon.</p>
 
-<p>Indien de termijnen, vermeld in het derde lid niet nageleefd worden, verliest het procesverbaal zijn bijzondere bewijswaarde tot bewijs van het tegendeel.</p>
+<p>Indien de termijnen, vermeld in het&nbsp;tweede lid niet nageleefd worden, verliest het procesverbaal zijn bijzondere bewijswaarde tot bewijs van het tegendeel.</p>
 
 <p>De uitbetaling van steun kan worden opgeschort tijdens het onderzoek naar de naleving van dit decreet, en de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Europese Gemeenschappelijk Visserijbeleid.</p>
 
 ### ART. 54.
 
-<P>De toezichthouders kunnen, bij administratieve maatregel, bewarend beslag   leggen op producten, grondstoffen en productiemiddelen die het resultaat zijn   van of gebruikt worden voor de activiteiten, vermeld in artikel 3, § 1, waarvan   ze vermoeden dat het gebruik of de productie niet beantwoordt aan de bepalingen   van dit decreet, de uitvoeringsbesluiten ervan en de bepalingen van het Europese   landbouw- of zeevisserijbeleid.<BR></P>  <P>De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen,   tenzij een langere periode noodzakelijk is voor de analyse van het monster. Het   bewarend beslag wordt gelicht bij beslissing van de persoon die het heeft   gelegd, door het verstrijken van de termijn of door het beslag, vermeld in   artikel 62.<BR></P>
+De toezichthouders kunnen, bij administratieve maatregel, bewarend beslag leggen op producten, grondstoffen en productiemiddelen die het resultaat zijn van of gebruikt worden voor de activiteiten, vermeld in artikel 3, § 1, waarvan ze vermoeden dat het gebruik of de productie niet beantwoordt aan de bepalingen van dit decreet, de uitvoeringsbesluiten ervan en de bepalingen van het Europese landbouw- of zeevisserijbeleid, als dat noodzakelijk is voor de opsporing, voor het onderzoek, voor het leveren van het bewijs voor de inbreuken of als het gevaar bestaat dat met die zaken de inbreuken worden voortgezet of nieuwe inbreuken zullen worden gepleegd.<br>
+<br>
+De duur van het bewarend beslag mag niet meer bedragen dan dertig dagen, tenzij een langere periode noodzakelijk is om het monster te analyseren. De toezichthouders geven de beslagene een kopie van het schriftelijke bewijs van inbeslagname met een inventaris van de in beslag genomen goederen. Het bewarend beslag wordt gelicht bij beslissing van de persoon die het heeft gelegd, door het verstrijken van de termijn of door het beslag, vermeld in artikel 62.
 
 ## Onderafdeling 2 Handhaving
 
@@ -397,7 +411,30 @@ Bij de uitoefening van hun toezichtrechten mogen toezichthouders zich   laten bi
 
 ### ART. 56.
 
-<P>§ 1. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete   van minimaal 25 euro en maximaal 1.000 euro : <BR>1° inbreuken op   administratieve verplichtingen die voortvloeien uit dit decreet, de   uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk   Landbouwbeleid;<BR>2° het oneigenlijk indienen van steunaanvragen;<BR>3° het   verstrekken van onjuiste of onvolledige informatie, zonder het oogmerk om ten   onrechte een vergoeding of steun te verkrijgen of te behouden, die geheel of   gedeeltelijk ten laste is van de Vlaamse overheid, van de Europese Unie of een   andere internationale instelling.<BR></P>  <P>§ 2. Personen die binnen een termijn van dertig dagen na aanmaning de   verplichte bijdragen en retributies opgelegd in uitvoering van dit decreet, de   uitvoeringsbesluiten ervan en het decreet van 19 mei 2006 betreffende de   oprichting en de werking van het Fonds voor Landbouw en Visserij en de   uitvoeringsbesluiten ervan niet betalen, kunnen het voorwerp uitmaken van een   exclusieve bestuurlijke geldboete van minimaal 100 euro en maximaal 5.000   euro.<BR></P>  <P>§ 3. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete   van minimaal 100 euro tot maximaal 15.000 euro : <BR>1° inbreuken op dit   decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk   Landbouwbeleid;<BR>2° het verhinderen van of niet-meewerken aan een controle ter   uitvoering van dit decreet, de uitvoeringsbesluiten ervan, of het Europese   Gemeenschappelijk Landbouwbeleid; <BR>3° het bewust afleggen van valse of   onvolledige verklaringen om een vergoeding of steun te verkrijgen of te behouden   die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het   Europese Gemeenschappelijk Landbouwbeleid wordt toegekend; <BR>4° het voorwenden   van een bepaalde situatie met het oog op het verkrijgen of behouden van steun   die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het   Europese Gemeenschappelijk Landbouwbeleid wordt toegekend.<BR></P>  <P>§ 4. Bij samenloop van verschillende inbreuken worden de bedragen van de   exclusieve bestuurlijke geldboeten samengevoegd, zonder dat die samen hoger   mogen zijn dan het dubbel van het maximumbedrag, vermeld in de derde   paragraaf.<BR></P>  <P>Bij herhaling binnen drie jaar na de oplegging van een exclusieve   bestuurlijke geldboete, wegens een van de inbreuken, vermeld in de vorige   paragrafen, kan de exclusief bestuurlijke geldboete verdubbeld worden.<BR></P>  <P>§ 5. Als een inbreuk betrekking heeft op steun die toegekend wordt ter   uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese   Gemeenschappelijk Landbouwbeleid kan bovenop de sancties, vermeld in de   voorgaande paragrafen een weigering of verlaging van steun worden   opgelegd.<BR></P>  <P>Als een door de Vlaamse Regering aan te duiden ernstige inbreuk betrekking   heeft op steun die toegekend wordt ter uitvoering van dit decreet, de   uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid, kan   bovenop de sancties, vermeld in de vorige paragrafen een uitsluiting van steun   worden opgelegd voor een termijn van maximaal vijf jaar.<BR></P>  <P>§ 6. De exclusieve bestuurlijke geldboeten, vermeld in dit artikel kunnen   worden vermeerderd met een bedrag dat overeenkomt met het economisch voordeel   dat voortvloeit uit het plegen van de inbreuk. Bovendien kunnen ook de   expertisekosten ten laste worden gelegd van de overtreder.<BR></P>  <P>De exclusieve bestuurlijke geldboeten, laten de mogelijkheid tot   niet-uitbetaling van toegekende steun of de terugvordering van de uitbetaalde   steun, de intrekking van de eventuele erkenning en de terugbetaling van de   kosten voor het onderzoek onverlet.<BR></P>
+<p>§ 1. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 25 euro en maximaal 1.000 euro :<br>
+1° inbreuken op administratieve verplichtingen die voortvloeien uit dit decreet, de uitvoeringsbesluiten ervan, het Europese Gemeenschappelijk Landbouwbeleid of het Gemeenschappelijk Visserijbeleid;<br>
+2° het oneigenlijk indienen van steunaanvragen;<br>
+3° het verstrekken van onjuiste of onvolledige informatie, zonder het oogmerk om ten onrechte een vergoeding of steun te verkrijgen of te behouden, die geheel of gedeeltelijk ten laste is van de Vlaamse overheid, van de Europese Unie of een andere internationale instelling.</p>
+
+<p>§ 2. Personen die binnen een termijn van dertig dagen na aanmaning de verplichte bijdragen en retributies opgelegd in uitvoering van dit decreet, de uitvoeringsbesluiten ervan en het decreet van 19 mei 2006 betreffende de oprichting en de werking van het Fonds voor Landbouw en Visserij en de uitvoeringsbesluiten ervan niet betalen, kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 100 euro en maximaal 5.000 euro.</p>
+
+<p>§ 3. Kunnen het voorwerp uitmaken van een exclusieve bestuurlijke geldboete van minimaal 100 euro tot maximaal 250.000 euro :<br>
+1° inbreuken op dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid;<br>
+2° het verhinderen van of niet-meewerken aan een controle ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan, of het Europese Gemeenschappelijk Landbouwbeleid;<br>
+3° het bewust afleggen van valse of onvolledige verklaringen om een vergoeding of steun te verkrijgen of te behouden die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid wordt toegekend;<br>
+4° het voorwenden van een bepaalde situatie met het oog op het verkrijgen of behouden van steun die ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid wordt toegekend.</p>
+
+<p>§ 4. Bij samenloop van verschillende inbreuken worden de bedragen van de exclusieve bestuurlijke geldboeten samengevoegd, zonder dat die samen hoger mogen zijn dan het dubbel van het maximumbedrag, vermeld in de derde paragraaf.</p>
+
+<p>Bij herhaling binnen drie jaar na de oplegging van een exclusieve bestuurlijke geldboete, wegens een van de inbreuken, vermeld in de vorige paragrafen, kan de exclusief bestuurlijke geldboete verdubbeld worden.</p>
+
+<p>§ 5. Als een inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid kan bovenop de sancties, vermeld in de voorgaande paragrafen een weigering of verlaging van steun worden opgelegd.</p>
+
+<p>Als een door de Vlaamse Regering aan te duiden ernstige inbreuk betrekking heeft op steun die toegekend wordt ter uitvoering van dit decreet, de uitvoeringsbesluiten ervan of het Europese Gemeenschappelijk Landbouwbeleid, kan bovenop de sancties, vermeld in de vorige paragrafen een uitsluiting van steun worden opgelegd voor een termijn van maximaal vijf jaar.</p>
+
+<p>§ 6. De exclusieve bestuurlijke geldboeten, vermeld in dit artikel kunnen worden vermeerderd met een bedrag dat overeenkomt met het economisch voordeel dat voortvloeit uit het plegen van de inbreuk. Bovendien kunnen ook de expertisekosten ten laste worden gelegd van de overtreder.</p>
+
+<p>De exclusieve bestuurlijke geldboeten, laten de mogelijkheid tot niet-uitbetaling van toegekende steun of de terugvordering van de uitbetaalde steun, de intrekking van de eventuele erkenning en de terugbetaling van de kosten voor het onderzoek onverlet.</p>
 
 ### ART. 57.
 
@@ -417,9 +454,31 @@ De Vlaamse Regering wijst de personeelsleden aan die de exclusieve bestuurlijke 
 
 <p>§ 3. De Vlaamse Regering kan de procedure voor het opleggen van de exclusieve bestuurlijke geldboete, vermeld in artikel 56, nader uitwerken.</p>
 
+### ART 58/1.
+
+§ 1. Het personeelslid, vermeld in artikel 58, kan besluiten dat de beslissing tot oplegging van een exclusieve bestuurlijke geldboete, vermeld in artikel 56, niet of maar gedeeltelijk zal worden uitgevoerd als tijdens de periode van vijf jaar die aan de nieuwe inbreuk voorafgaat:<br>
+1° aan de overtreder geen administratieve geldboete als vermeld in artikel 56, is opgelegd;<br>
+2° de overtreder niet veroordeeld is tot een strafrechtelijke geldboete van 50 tot 500 euro, van 100 tot 1000 euro, van 600 tot 6000 euro, of een gevangenisstraf van zes maanden tot drie jaar.<br>
+<br>
+Een strafrechtelijke sanctie of exclusieve bestuurlijke geldboete die vroeger uitgesproken is of opgelegd is voor feiten die voortvloeien uit hetzelfde misdadige opzet, vormt geen beletsel om uitstel te verlenen.<br>
+<br>
+§ 2. Het personeelslid, vermeld in artikel 58, verleent het uitstel bij dezelfde beslissing als de beslissing waarbij hij de exclusieve bestuurlijke geldboete oplegt.<br>
+<br>
+§ 3. De referteperiode mag niet korter dan een jaar en niet langer dan drie jaar zijn vanaf de datum van de kennisgeving van de beslissing tot oplegging van de exclusieve bestuurlijke geldboete.<br>
+<br>
+§ 4. Het uitstel wordt van rechtswege herroepen als gedurende de referteperiode een nieuwe inbreuk begaan wordt waarvoor een hogere exclusieve bestuurlijke geldboete geldt dan de exclusieve bestuurlijke geldboete waarvoor uitstel is verleend.<br>
+<br>
+§ 5. Het uitstel kan herroepen worden als gedurende de referteperiode een nieuwe inbreuk begaan wordt waarvoor dezelfde of een lagere exclusieve bestuurlijke geldboete geldt dan de exclusieve bestuurlijke geldboete waarvoor uitstel is verleend.<br>
+<br>
+§ 6. Het uitstel wordt herroepen bij dezelfde beslissing als die waarbij de exclusieve bestuurlijke geldboete voor de nieuwe inbreuk die begaan is tijdens de referteperiode, wordt opgelegd.<br>
+<br>
+De herroeping van het uitstel in de beslissing wordt zowel vermeld als de herroeping van rechtswege gebeurt, als wanneer de bevoegde administratie de herroeping beoordeelt.<br>
+<br>
+§ 7. De exclusieve bestuurlijke geldboete die uitvoerbaar wordt als gevolg van de herroeping van het uitstel, wordt zonder beperking samengevoegd met de exclusieve bestuurlijke geldboete die opgelegd is wegens de nieuwe inbreuk.
+
 ### ART. 59.
 
-<P>Diegene aan wie een exclusief bestuurlijke geldboete, als vermeld in artikel   56 is opgelegd, kan tegen de beslissing, vermeld in artikel 58, beroep instellen   bij de door de Vlaamse Regering aan te duiden beroepsinstantie binnen een   termijn van dertig dagen die aanvangt op de dag van kennisgeving van de   bestreden beslissing.<BR></P>  <P>De Vlaamse Regering zal de beroepsprocedure, vermeld in het eerste lid,   uitwerken.<BR></P>
+Degene aan wie een exclusief bestuurlijke geldboete als vermeld in artikel 56, is opgelegd, kan op straffe van verval binnen zestig dagen vanaf de kennisgeving van de beslissing beroep aantekenen bij de Raad van State, die oordeelt met volle rechtsmacht. Dat beroep schorst de beslissing
 
 ### ART. 60.
 
