@@ -51,18 +51,18 @@ Bij ontstentenis van een advies binnen de voormelde termijn wordt het advies ove
 <br>
 Bij ontstentenis van een advies binnen de voormelde termijn wordt het advies over het verzoek tot heraansluiting van de huishoudelijke afnemer van thermische energie, vermeld in het eerste lid, 2°, geacht positief te zijn.<br>
 <br>
-§3. Wat de minimumlevering van water betreft, brengt de lokale adviescommissie binnen dertig kalenderdagen na ontvangst van het verzoek en na een contradictoir onderzoek, een gemotiveerd advies uit over de volgende gevallen :<br>
-1° het verzoek van de exploitant om de toevoer van de minimale levering van water bij een huishoudelijke abonnee af te sluiten in de gevallen, vermeld in artikel 5, § 5, eerste lid, 7° tot en met 9°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
-2° het verzoek tot heraansluiting van de huishoudelijke abonnee na een weigering van de exploitant om de abonnee weer aan te sluiten na beëindiging van de gevallen, vermeld in artikel 5, § 5, eerste lid, 7° tot en met 9°, van het voormelde decreet.<br>
+§3. Voor de levering van water brengt de lokale adviescommissie binnen dertig kalenderdagen na de ontvangst van het verzoek en na een tegensprekelijk onderzoek een gemotiveerd advies uit over in voorkomend geval:<br>
+1° het verzoek van de exploitant om de levering van water bij een huishoudelijke abonnee te begrenzen in debiet of af te sluiten in de gevallen, vermeld in artikel 2.2.2, § 6, eerste lid, 7° tot en met 9°, 12° en 13°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+2° het verzoek om de begrenzing van het debiet weg te nemen of de huishoudelijke abonnee weer aan te sluiten na een weigering van de exploitant om de begrenzing van het debiet bij de huishoudelijke abonnee weg te nemen of de huishoudelijke abonnee weer aan te sluiten na beëindiging van de gevallen, vermeld in artikel 2.2.2, § 6, eerste lid, 7° tot en met 9°, 12° en 13°, van het voormelde decreet.<br>
 <br>
 Bij ontstentenis van een advies binnen de voormelde termijn, wordt het advies betreffende het verzoek van een exploitant, bedoeld in het eerste lid, 1°, geacht negatief te zijn.<br>
 <br>
 Bij ontstentenis van een advies binnen de voormelde termijn wordt het advies betreffende het verzoek tot heraansluiting van een huishoudelijke abonnee, bedoeld in het eerste lid, 2°, geacht positief te zijn.<br>
 <br>
-Het advies betreffende het verzoek tot heraansluiting van een huishoudelijke abonnee, bedoeld in het eerste lid, 2°, is dwingend voor de exploitant.<br>
+Het advies betreffende het verzoek tot wegnemen van de begrenzing van het debiet of heraansluiting van een huishoudelijke abonnee, bedoeld in het eerste lid, 2°, is dwingend voor de exploitant.<br>
 <br>
 § 4. Een huishoudelijke afnemer of een huishoudelijke abonnee kan in de lokale adviescommissie bedoeld in dit artikel, gebruik maken van het recht om gehoord te worden en hij kan zich hierbij eventueel laten bijstaan of laten vertegenwoordigen door een raadsman of een vertrouwenspersoon.
 
 ### ART. 8.
 
-De kosten verbonden aan de minimale levering van water overeenkomstig de bepalingen van dit decreet zijn ten laste van de betrokken distributeur.
+...
