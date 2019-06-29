@@ -78,7 +78,16 @@ De Vlaamse Regering kan met het oog op het bereiken van de doelstellingen, verme
 
 ### ART. 6.
 
-§ 1. De natuurlijke personen en rechtspersonen die afvalstoffen beheren,   houden een chronologisch afvalstoffenregister bij waarin onder meer de   aangevoerde en afgevoerde hoeveelheid, aard, oorsprong en, als dat van   toepassing is, bestemming, frequentie van de inzameling, wijze van vervoer en   van behandeling van de ingezamelde, opgehaalde, vervoerde, verwijderde of nuttig   toegepaste afvalstoffen zijn vermeld. De Vlaamse Regering stelt nadere regels   vast met betrekking tot de inhoud en de voorwaarden van dat   afvalstoffenregister. De Vlaamse Regering kan groepen van natuurlijke personen   en rechtspersonen van die plicht ontslaan. Met behoud van de bepalingen van het   decreet van 28 juni 1985 betreffende de milieuvergunning, kan de Vlaamse   Regering toestaan dat bij de individuele beoordeling van vergunningsplichtige of   meldingsplichtige activiteiten, vermeld in artikel 11, wordt afgeweken van de   inhoud en de voorwaarden van het afvalstoffenregister.<BR><BR>De natuurlijke   personen en rechtspersonen die afvalstoffen beheren, melden bepaalde gegevens   met betrekking tot de ingezamelde, opgehaalde, verwijderde of nuttig toegepaste   afvalstoffen aan de OVAM. De Vlaamse Regering kan vaststellen dat de OVAM   natuurlijke personen en rechtspersonen selecteert om gegevens te melden. De   Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke wijze dat   gebeurt.<BR><BR>§ 2. De Vlaamse Regering kan bepalen dat afvalstoffen bij hun   vervoer vergezeld moeten gaan van een identificatieformulier, al dan niet in   elektronische vorm.<BR><BR>§ 3. De Vlaamse Regering kan bepalen dat voor   specifieke materialen materialenregisters worden bijgehouden met het oog op het   verkrijgen van informatie over het efficiënt en rechtmatig gebruik van   materialen overeenkomstig de doelstelling, vermeld in artikel 4. Die registers   kunnen slaan op hoeveelheden van in- en uitgaande materiaalstromen en hun   herkomst en bestemming. De Vlaamse Regering kan daarvoor nadere regels   vaststellen.<BR><BR>De Vlaamse Regering kan vaststellen dat de OVAM natuurlijke   personen en rechtspersonen selecteert om gegevens uit het materialenregister te   melden. De Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke   wijze dat gebeurt.<BR><BR>
+§ 1. De natuurlijke personen en rechtspersonen die afvalstoffen beheren, houden een chronologisch afvalstoffenregister bij waarin onder meer de aangevoerde en afgevoerde hoeveelheid, aard, oorsprong en, als dat van toepassing is, bestemming, frequentie van de inzameling, wijze van vervoer en van behandeling van de ingezamelde, opgehaalde, vervoerde, verwijderde of nuttig toegepaste afvalstoffen zijn vermeld. De Vlaamse Regering stelt nadere regels vast met betrekking tot de inhoud en de voorwaarden van dat afvalstoffenregister. De Vlaamse Regering kan groepen van natuurlijke personen en rechtspersonen van die plicht ontslaan. Met behoud van de bepalingen van het decreet van 25 april 2014 betreffende de omgevingsvergunning, kan de Vlaamse Regering toestaan dat bij de individuele beoordeling van vergunningsplichtige of meldingsplichtige activiteiten, vermeld in artikel 11, wordt afgeweken van de inhoud en de voorwaarden van het afvalstoffenregister.<br>
+<br>
+De natuurlijke personen en rechtspersonen die afvalstoffen beheren, melden bepaalde gegevens met betrekking tot de ingezamelde, opgehaalde, verwijderde of nuttig toegepaste afvalstoffen aan de OVAM. De Vlaamse Regering kan vaststellen dat de OVAM natuurlijke personen en rechtspersonen selecteert om gegevens te melden. De Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke wijze dat gebeurt.<br>
+<br>
+§ 2. De Vlaamse Regering kan bepalen dat afvalstoffen bij hun vervoer vergezeld moeten gaan van een identificatieformulier, al dan niet in elektronische vorm.<br>
+<br>
+§ 3. De Vlaamse Regering kan bepalen dat voor specifieke materialen materialenregisters worden bijgehouden met het oog op het verkrijgen van informatie over het efficiënt en rechtmatig gebruik van materialen overeenkomstig de doelstelling, vermeld in artikel 4. Die registers kunnen slaan op hoeveelheden van in- en uitgaande materiaalstromen en hun herkomst en bestemming. De Vlaamse Regering kan daarvoor nadere regels vaststellen.<br>
+<br>
+De Vlaamse Regering kan vaststellen dat de OVAM natuurlijke personen en rechtspersonen selecteert om gegevens uit het materialenregister te melden. De Vlaamse Regering bepaalt welke gegevens worden gemeld en op welke wijze dat gebeurt.<br>
+&nbsp;
 
 ### ART. 7.
 
@@ -90,7 +99,20 @@ De Vlaamse Regering kan nadere regels vaststellen voor de monsterneming en   ana
 
 ### ART. 9.
 
-§ 1. De Vlaamse Regering neemt de nodige passende maatregelen om ervoor te zorgen dat :<br />1° het hergebruik van voorwerpen en componenten van voorwerpen en activiteiten ter voorbereiding van hergebruik worden bevorderd;<br />2° afvalstoffen overeenkomstig artikel 4, § 3, of artikel 8, een handeling van hergebruik, recyclage of andere vorm van nuttige toepassing ondergaan;<br />3° recyclage van een hoge kwaliteit wordt bevorderd.<br /><br />Met het oog op de naleving van de bepalingen in het eerste lid, en overeenkomstig de doelstellingen, vermeld in artikel 4, neemt de Vlaamse Regering de nodige maatregelen opdat, als dat haalbaar is op technisch, milieu- en economisch gebied, afvalstoffen gescheiden worden ingezameld, en niet gemengd worden met afvalstoffen of materialen die niet dezelfde eigenschappen hebben.<br /><br />De Vlaamse Regering kan :<br />1° de gescheiden aanbieding en inzameling van bepaalde afvalstoffen verplichten en regels vaststellen voor hun inzamelwijze;<br />2° doelstellingen vastleggen voor gescheiden inzameling en voor hergebruik, recyclage en andere vormen van nuttige toepassing;<br />3° voor bepaalde afvalstoffen afvalverwerkingshandelingen opleggen of verbieden.<br /><br />§ 2. De natuurlijke personen of rechtspersonen die een kringloopcentrum uitbaten waar voorwerpen die in aanmerking komen voor producthergebruik worden ingezameld voor selectie met het oog op hergebruik, of worden opgeslagen, gesorteerd, gereinigd of hersteld en verkocht, zijn onderworpen aan een door de Vlaamse Regering te verlenen erkenning. De Vlaamse Regering stelt de nadere regels voor die erkenning vast.<br /><br />
+§ 1. De Vlaamse Regering neemt de nodige passende maatregelen om ervoor te zorgen dat :<br>
+1° het hergebruik van voorwerpen en componenten van voorwerpen en activiteiten ter voorbereiding van hergebruik worden bevorderd;<br>
+2° afvalstoffen overeenkomstig artikel 4, § 3, of artikel 8, een handeling van hergebruik, recyclage of andere vorm van nuttige toepassing ondergaan;<br>
+3° recyclage van een hoge kwaliteit wordt bevorderd.<br>
+<br>
+Met het oog op de naleving van de bepalingen in het eerste lid, en overeenkomstig de doelstellingen, vermeld in artikel 4, neemt de Vlaamse Regering de nodige maatregelen opdat, als dat haalbaar is op technisch, milieu- en economisch gebied, afvalstoffen gescheiden worden ingezameld, en niet gemengd worden met afvalstoffen of materialen die niet dezelfde eigenschappen hebben.<br>
+<br>
+De Vlaamse Regering kan :<br>
+1° de gescheiden aanbieding en inzameling van bepaalde afvalstoffen verplichten en regels vaststellen voor hun inzamelwijze;<br>
+2° doelstellingen vastleggen voor gescheiden inzameling en voor hergebruik, recyclage en andere vormen van nuttige toepassing;<br>
+3° voor bepaalde afvalstoffen afvalverwerkingshandelingen opleggen of verbieden.<br>
+<br>
+§ 2. De natuurlijke personen of rechtspersonen die een kringloopcentrum uitbaten waar voorwerpen die in aanmerking komen voor producthergebruik worden ingezameld voor selectie met het oog op hergebruik, of worden opgeslagen, gesorteerd, gereinigd of hersteld en verkocht, moeten beschikken over een erkenning. De Vlaamse Regering stelt de nadere regels voor de erkenning vast. Ze bepaalt de voorwaarden en de procedure tot erkenning en de voorwaarden en de procedure tot opheffing, intrekking en schorsing ervan.<br>
+&nbsp;
 
 ### ART. 10.
 
@@ -166,7 +188,10 @@ In de bestekken van besturen van het Vlaamse Gewest en van lokale besturen worde
 
 ### ART. 20.
 
-Om de doelstellingen, vermeld in artikel 4, te realiseren, kan de Vlaamse Regering milieubeleidsovereenkomsten sluiten overeenkomstig de decretale bepalingen die van toepassing zijn.<br /><br />
+Om de doelstellingen, vermeld in artikel 4, te realiseren, kan de Vlaamse Regering milieubeleidsovereenkomsten sluiten overeenkomstig de decretale bepalingen die van toepassing zijn.<br>
+<br>
+Om uitvoering te geven aan de maatregelen, vermeld in artikel 21, § 1, kan de Vlaamse Regering voorzien in de mogelijkheid om convenanten te sluiten. De Vlaamse Regering kan aan het sluiten van een convenant voorwaarden opleggen en kan nadere regels vaststellen over de inhoud, wijze van totstandkoming, bekendmaking, wijziging en opzegging van een convenant.<br>
+&nbsp;
 
 ### ART. 21.
 
@@ -389,11 +414,9 @@ In de gevallen vermeld in het eerste lid, 1° en 2°, is de heffingsplichtige de
 <br>
 In het eerste lid, 3°, 5° en 9°, wordt verstaan onder brandbare afvalstoffen : afvalstoffen met een gloeiverlies &gt; 10 % en een TOC-gehalte &gt; 6 %.<br>
 <br>
-In afwijking van de gevallen vermeld in het eerste lid, 16° en 17°, geldt met ingang van het heffingsjaar 2019 voor de verwerking van verpulpingsresidu's en ontinktingsslib van papier- en kartonafval die ontstaan bij bedrijven die papier- en kartonafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten volgende heffingen:<br>
-1° voor het verbranden en meeverbranden met een energierecuperatie kleiner dan 65 %: 7 euro per ton;<br>
-2° voor het verbranden en meeverbranden met een energierecuperatie tussen 65 % en 80 %: 2 euro per ton;<br>
-3° voor het verbranden en meeverbranden met energierecuperatie van meer dan 80 %: 0 euro per ton.<br>
-In afwijking van de gevallen vermeld in het eerste lid, 16° en 17°, geldt voor recyclageresidu's van kunststofafval van bedrijven die kunststofafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten, met ingang van het heffingsjaar 2010, een heffingstarief van 2 euro per ton.<br>
+In afwijking van de gevallen, vermeld in het eerste lid, 16° en 17°, geldt met ingang van het heffingsjaar 2019 voor de verwerking van verpulpingsresidu's en ontinktingsslib van papier- en kartonafval die ontstaan bij bedrijven die papier- en kartonafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten, een heffingstarief van 0 euro per ton.<br>
+<br>
+In afwijking van de gevallen, vermeld in het eerste lid, 16° en 17°, geldt voor recyclageresidu's van kunststofafval van bedrijven die kunststofafval gebruiken als grondstof voor de aanmaak van nieuwe stoffen of producten, met ingang van het heffingsjaar 2010, een heffingstarief van 3,69 euro per ton..<br>
 <br>
 In afwijking van de gevallen vermeld in het eerste lid, 16° en 17°, geldt voor het verbranden of meeverbranden van afvalstoffen van bodemsaneringsoperaties waarbij overeenkomstig het advies van de OVAM andere saneringswijzen dan uitgraven en verbranden of meeverbranden onredelijk hoge kosten met zich meebrengen of onmogelijk zijn, met ingang van het heffingsjaar 2013, een heffingstarief van 2,2 euro/ton. Vanaf 1 januari 2019 geldt een tarief van 0 euro per ton.&nbsp;In afwijking hiervan geldt het heffingstarief van 0 euro per ton voor het verbranden of meeverbranden in een daartoe vergunde inrichting van afvalstoffen afkomstig van door de OVAM goedgekeurde bodemsaneringswerken, al dan niet in het kader van een overeengekomen convenant, waarvoor uiterlijk op 31 december 2012 door de OVAM een verklaring is afgeleverd dat het nultarief van toepassing is.<br>
 <br>
