@@ -2324,7 +2324,7 @@ De artikelen, vermeld in het eerste lid, 5°, treden ten vroegste in werking op 
 
 ### ART 238.
 
-De artikelen 85, 87, 2°, en 88, 2°, treden in werking veertien dagen na de publicatie in het Belgisch Staatsblad van de eerste aanduiding van watergevoelige openruimtegebieden met toepassing van artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening.
+De artikelen 85, 2°, 87, 2°, en 88, 2°, treden in werking veertien dagen na de publicatie in het Belgisch Staatsblad van de eerste aanduiding van watergevoelige openruimtegebieden met toepassing van artikel 5.6.8 van de Vlaamse Codex Ruimtelijke Ordening.
 
 ### ART 239.
 

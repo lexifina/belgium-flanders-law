@@ -2,16 +2,16 @@
   "codex_id": 1028835,
   "title": "Decreet van 2017-12-08 houdende wijziging van diverse bepalingen inzake ruimtelijke ordening, milieu en omgeving",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028835/VolledigDocument?datum=2019-03-07",
-  "source_sha256": "52d25eb8b78dcda4427d2c07702d4f7ab5b264399290df264eb69e659665b670",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028835/VolledigDocument?datum=2019-06-29",
+  "source_sha256": "4660d8f149b841eec50ea65bbb1d3b8d9f1726acb1bcd7f1cc2535652547733f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028835&param=informatie",
-  "as_of": "2019-03-07",
+  "as_of": "2019-06-29",
   "made": "2017-12-08",
   "gazette": "2017-12-20",
   "numac": 2017040986,
   "document_start": "2017-12-30",
   "document_end": null,
-  "in_force": "2019-03-07",
+  "in_force": "2019-06-29",
   "article_versions": 241,
-  "record_form": "consolidated version as in force on 2019-03-07; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-06-29; future article versions excluded; article text as the API gives it"
 }
