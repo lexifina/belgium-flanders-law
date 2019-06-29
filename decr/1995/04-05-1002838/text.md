@@ -256,9 +256,9 @@ In deze titel van het decreet wordt verstaan onder:<BR>1° inrichtingen en   act
 <br>
 § 4. De milieucoördinator kan een werknemer zijn van de exploitant of een persoon die geen werknemer is van de exploitant.<br>
 <br>
-Wanneer dit geen afbreuk doet aan een goede taakvervulling kan, met instemming van de door de Vlaamse Regering aangewezen afdeling, voor twee of meer inrichtingen of activiteiten gezamenlijk een milieucoördinator worden aangesteld of kan een beroep worden gedaan op de diensten van een persoon die geen werknemer is van de exploitant.<br>
+Wanneer dit geen afbreuk doet aan een goede taakvervulling kan, met instemming van de&nbsp;bevoegde afdeling, voor twee of meer inrichtingen of activiteiten gezamenlijk een milieucoördinator worden aangesteld of kan een beroep worden gedaan op de diensten van een persoon die geen werknemer is van de exploitant.<br>
 <br>
-Dergelijke instemming is evenwel niet vereist wanneer het de aanstelling betreft van een milieucoördinator voor verschillende inrichtingen of activiteiten tegelijk die samen een bedrijfslocatie vormen onder controle van eenzelfde persoon of rechtspersoon. Deze instemming is evenmin vereist indien het de gezamenlijke aanstelling betreft van een persoon die erkend is als milieucoördinator. In dit laatste geval wordt van de gezamenlijke aanstelling van de milieucoördinator door de exploitant onmiddellijk kennis gegeven aan de door de Vlaamse Regering aangewezen afdeling.<br>
+Dergelijke instemming is evenwel niet vereist wanneer het de aanstelling betreft van een milieucoördinator voor verschillende inrichtingen of activiteiten tegelijk die samen een bedrijfslocatie vormen onder controle van eenzelfde persoon of rechtspersoon. Deze instemming is evenmin vereist indien het de gezamenlijke aanstelling betreft van een persoon die erkend is als milieucoördinator.<br>
 <br>
 § 5. Wanneer verschillende inrichtingen of activiteiten samen naar het oordeel van de vergunningverlenende overheid een milieutechnische eenheid vormen, kan zij de aanstelling van een gezamenlijke milieucoördinator verplicht stellen.<br>
 <br>
@@ -288,7 +288,11 @@ Op de erkenning als milieucoördinator zijn de bepalingen van titel V, hoofdstuk
 
 ### ART. 3.2.3.
 
-§ 1. Als milieucoördinator kan enkel een persoon worden aangesteld die   over de vereiste kwalificaties en eigenschappen beschikt om de in artikel 3.2.2.   bedoelde taken naar behoren te vervullen.<BR><BR>§ 2. De Vlaamse regering kan   door middel van algemene of sectorale milieuvoorwaarden nadere eisen stellen   inzake de opleiding, de beroepservaring en de overige voorwaarden waaraan de   milieucoördinator moet voldoen. De Vlaamse regering, kan overgangsmaatregelen   treffen met betrekking tot deze voorwaarden, indien nodig, voor degenen die de   taken van milieucoördinator, in de hoedanigheid van werknemer van de exploitant,   al uitoefenen voor het van kracht worden van dit decreet.<BR><BR>§ 3. De   exploitant brengt de aanstelling van de milieucoördinator ter kennis van de door   de Vlaamse Regering aangewezen afdeling. Wanneer de milieucoördinator niet   voldoet aan de in § 1 en in voorkomend geval aan de in § 2 bedoelde voorwaarden,   kan de bevoegde afdeling eisen dat de exploitant binnen een termijn die het   bepaalt, een andere persoon aanstelt.
+§ 1. Als milieucoördinator kan enkel een persoon worden aangesteld die over de vereiste kwalificaties en eigenschappen beschikt om de in artikel 3.2.2. bedoelde taken naar behoren te vervullen.<br>
+<br>
+§ 2. De Vlaamse regering kan door middel van algemene of sectorale milieuvoorwaarden nadere eisen stellen inzake de opleiding, de beroepservaring en de overige voorwaarden waaraan de milieucoördinator moet voldoen. De Vlaamse regering, kan overgangsmaatregelen treffen met betrekking tot deze voorwaarden, indien nodig, voor degenen die de taken van milieucoördinator, in de hoedanigheid van werknemer van de exploitant, al uitoefenen voor het van kracht worden van dit decreet.<br>
+<br>
+§ 3. De exploitant houdt het aanstellingsdossier op de exploitatiezetel ter beschikking van de bevoegde afdeling. Wanneer de milieucoördinator niet voldoet aan de in § 1 en in voorkomend geval aan de in § 2 bedoelde voorwaarden, kan de bevoegde afdeling eisen dat de exploitant binnen een termijn die het bepaalt, een andere persoon aanstelt.
 
 ### ART. 3.2.4.
 
@@ -434,7 +438,7 @@ De Vlaamse regering bepaalt de inhoud van het integraal milieujaarverslag, alsme
 2° veiligheidsrapportage: de procedure die al dan niet leidt tot het opstellen en goedkeuren van een ruimtelijk veiligheidsrapport of een omgevingsveiligheidsrapport over een voorgenomen actie en in voorkomend geval tot het gebruik ervan als hulpmiddel bij de besluitvorming omtrent deze actie, hierna v.r. te noemen;<br>
 3° actie: een plan, programma en/of project;<br>
 4° plan of programma : plan of programma, met inbegrip van die welke door de Europese Unie worden medegefinancierd, alsook de wijzigingen ervan, dat :<br>
-a) door een instantie op regionaal, provinciaal of lokaal niveau wordt opgesteld en/of vastgesteld of dat door een instantie wordt opgesteld om middels een wetgevingsprocedure door het Vlaams Parlement of de Vlaamse Regering te worden vastgesteld;<br>
+a) door een instantie op regionaal, provinciaal of&nbsp;gemeentelijk niveau wordt opgesteld en/of vastgesteld of dat door een instantie wordt opgesteld om middels een wetgevingsprocedure door het Vlaams Parlement of de Vlaamse Regering te worden vastgesteld;<br>
 en<br>
 b) op grond van decretale of van bestuursrechtelijke bepalingen is voorgeschreven.<br>
 5° project:<br>
@@ -1861,7 +1865,7 @@ e) het verwerken van de hierboven bedoelde gegevens en informatie met het oog op
 2° het ontwerpen van preventieprogramma's en uitvoeringsplannen als vermeld in artikel 17 en 18 van het Materialendecreet, alsook het controleren en opvolgen van de uitvoering van voormelde preventieprogramma's en uitvoeringsplannen en het voorbereiden en mee uitwerken van programma's overeenkomstig de geldende internationale en Europese voorschriften, waarvan de uitvoering binnen het toepassingsgebied van het Materialendecreet valt;<br>
 3° het sluiten van overeenkomsten met de gemeenten of verenigingen van gemeenten ter bevordering of begeleiding van de organisatie van de selectieve ophaling of inzameling van huishoudelijke afvalstoffen als vermeld in artikel 27 van het Materialendecreet;<br>
 4° het voorbereiden van de onderhandelingen met het oog op het sluiten van de milieubeleidsovereenkomsten, vermeld in het Materialendecreet;<br>
-5° het behandelen van de aanvragen en het adviseren van de Vlaamse Regering over de erkenning, vermeld in artikel 7 van het Materialendecreet;<br>
+5° het behandelen van de aanvragen en het verlenen, schorsen en opheffen van de erkenningen, vermeld in artikel 7, 9, 32/1 en 33 van het Materialendecreet;<br>
 6° het leveren van een bijdrage aan het beleid inzake de ingedeelde inrichtingen en activiteiten, bedoeld in titel V;<br>
 7° het uitvoeren van de taken in het kader van de uitgebreide producentenverantwoordelijkheid, vermeld in artikel 21 van het Materialendecreet, en de terugnameplicht, vermeld in het samenwerkingsakkoord Verpakkingsafval;<br>
 8° het vestigen, innen en invorderen van de milieuheffing op de verwerking van afvalstoffen, vermeld in artikel 44 tot en met artikel 65 van het Materialendecreet;<br>
@@ -2536,6 +2540,7 @@ De bepalingen van deze titel zijn van toepassing op de hiernavolgende wetten en 
 3° de wet van 1 juli 1954 op de riviervisserij;<br>
 4° de Jachtwet van 28 februari 1882;<br>
 5° de wet van 28 december 1964 betreffende de bestrijding van de luchtverontreiniging;<br>
+5° /1 de wet van 28 december 1967 betreffende de onbevaarbare waterlopen;<br>
 6° de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging, met uitsluiting van hoofdstuk IV, afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van hoofdstuk IIIbis en de uitvoeringsbesluiten ervan betreft;<br>
 6°/1 ...;<br>
 7° de wet van 12 juli 1973 op het natuurbehoud;<br>
