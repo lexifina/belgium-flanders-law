@@ -78,7 +78,11 @@ b) de exploitatie van de ingedeelde inrichting of activiteit van de derde klasse
 
 ### ART. 7.
 
-Met behoud van de toepassing van artikel 5.2.1, § 3 en § 4, van het DABM,   geldt de omgevingsvergunning als aktename voor het deel van het project dat   meldingsplichtig is, als het project zowel aan de meldings- als aan de   vergunningsplicht wordt onderworpen.<BR>
+§ 1. Met behoud van de toepassing van artikel 5.2.1, § 3 en § 4, van het DABM, geldt de omgevingsvergunning als aktename voor het deel van het project dat meldingsplichtig is, als het project zowel aan de meldings- als aan de vergunningsplicht wordt onderworpen.<br>
+<br>
+§ 2. Als het project elementen bevat die onderworpen zijn aan meerdere vergunnings- of meldingsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, omvat de vergunningsaanvraag de betrokken aspecten op straffe van onontvankelijkheid als minstens één element van de aanvraag vergunningsplichtig is.<br>
+<br>
+De verplichting tot gezamenlijke indiening, vermeld in het eerste lid, geldt niet voor het aanvragen of melden van stedenbouwkundige handelingen en exploitatie van ingedeelde inrichtingen of activiteiten die alleen nodig zijn tijdens de uitvoeringsfase van het project. Als voor het project een milieueffectrapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.
 
 ## Afdeling 3 Projectvergadering
 
@@ -241,10 +245,6 @@ Voor de kennisneming van en de beslissing over een vergunningsaanvraag voor een 
 
 <p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.<br>
 <br>
-Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.<br>
-<br>
-De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die alleen nodig is tijdens de uitvoeringsfase van het project anderzijds. Als voor het project een milieueffect-rapport moet worden opgesteld en het milieueffectrapport relevante uitspraken doet over de uitvoeringswijze, wordt gestreefd naar een gezamenlijke indiening voor wat betreft de aspecten die in het milieueffectrapport worden behandeld.<br>
-<br>
 De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
 ### ART. 19.
@@ -376,10 +376,6 @@ De Vlaamse Regering bepaalt de nadere regels voor de gewone   vergunningsprocedu
 ### ART. 37.
 
 <p>De vergunningsaanvraag wordt per beveiligde zending ingediend bij de bevoegde overheid, vermeld in artikel 15.<br>
-<br>
-Als het project elementen bevat die onderworpen zijn aan meerdere vergunningsplichten, bij of krachtens de decreten, vermeld in artikel 5, en die aspecten onlosmakelijk met elkaar verbonden zijn, wordt de vergunningsaanvraag ingediend voor de betrokken aspecten gezamenlijk.<br>
-<br>
-De verplichting tot gezamenlijke indiening, vermeld in het tweede lid, geldt niet voor het aanvragen van een omgevingsvergunning voor een project enerzijds, en voor het aanvragen van een omgevingsvergunning die enkel nodig is tijdens de uitvoeringsfase van het project anderzijds.<br>
 <br>
 De Vlaamse Regering bepaalt de inhoud van de vergunningsaanvraag.</p>
 
@@ -620,7 +616,7 @@ De mededeling van de termijnverlenging wordt aan de aanvrager en de beroepsindie
 <br>
 Als geen beslissing is genomen binnen de vastgestelde of in voorkomend geval verlengde termijn, wordt het beroep of worden de beroepen geacht te zijn afgewezen en wordt de bestreden beslissing als definitief aanzien.<br>
 <br>
-§ 4. Artikel 33 en 34 zijn van overeenkomstige toepassing op de beslissing.<br>
+§ 4. Artikel 33, 34, 47 en 48 zijn van overeenkomstige toepassing op de beslissing.<br>
 <br>
 § 5. De bevoegde overheid kan over een vergunningsaanvraag als vermeld in artikel 5.4.1 en 5.4.2 van het Onroerenderfgoeddecreet van 12 juli 2013, waarbij een gemelde archeologienota werd toegevoegd bij de aanvraag, maar een beslissing nemen als de archeologienota waarvan akte is genomen&nbsp;is bezorgd. Als er geen&nbsp;archeologienota waarvan akte is genomen&nbsp;is bezorgd voor het verstrijken van de termijn, vermeld in paragraaf 1 tot en met 3, dan moet de omgevingsvergunning worden geweigerd.</p>
 
@@ -932,7 +928,9 @@ De overheid bezorgt haar beslissing uiterlijk de dag van het verstrijken van de 
 
 ### ART. 100.
 
-<P>De omgevingsvergunning blijft onverkort geldig als de exploitatie van een   ingedeelde inrichting of activiteit van een project door een wijziging van de   indelingslijst van klasse 1 naar klasse 2 overgaat of omgekeerd.<BR></P>  <P>In geval de exploitatie van een ingedeelde inrichting of activiteit van een   project door een wijziging van de indelingslijst van klasse 1 of 2 naar klasse 3   overgaat, geldt de vergunning als aktename en blijven de bijzondere voorwaarden   gelden.<BR></P>
+<p>De omgevingsvergunning blijft onverkort geldig als de exploitatie van een ingedeelde inrichting of activiteit van een project door een wijziging van de indelingslijst van klasse 1 naar klasse 2 overgaat of omgekeerd.</p>
+
+<p>In geval de exploitatie van een ingedeelde inrichting of activiteit van een project door een wijziging van de indelingslijst of door een gedeeltelijke stopzetting van klasse 1 of 2 naar klasse 3 overgaat, geldt de vergunning als meldingsakte en blijven de bijzondere voorwaarden gelden.</p>
 
 ### ART. 101.
 
