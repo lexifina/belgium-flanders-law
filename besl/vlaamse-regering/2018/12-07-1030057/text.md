@@ -57,15 +57,45 @@ het agentschap wijzigt ambtshalve het aantal gefactureerde dagen voor de patiën
 <br>
 Bij afwezigheid van de lijst, vermeld in het eerste lid, 2°, binnen de termijn die het agentschap de zorgvoorziening heeft gegeven, vermindert het agentschap ambtshalve het aantal uren van de werknemers in zorg, vermeld in artikel 3, § 2, d), van het voormelde ministerieel besluit van 6 november 2003, in alfabetische volgorde op de familienaam van die werknemers in zorg.".
 
+### ART 4.
+
+In artikel 473 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° aan paragraaf 1 wordt een punt 17° toegevoegd, dat luidt als volgt:<br>
+"17° deel K: de financiering van ondersteunend personeel.";<br>
+<br>
+2° in paragraaf 3, eerste lid, wordt de zinsnede "((A1+A2+A3+B1+B2+C+D+E1+E2+E3+F+G+H) * 0,998527 * 1,022318) + E4 + I + J" vervangen door de zinsnede "((A1+A2+A3+B1+B2+C+D+E1+E2+E3+F+G+H) * 0,998527 * 1,022318) + E4 + I + J + K";<br>
+<br>
+3° aan paragraaf 3, eerste lid, wordt een punt 18° toegevoegd, dat luidt als volgt:<br>
+"18° K = de financiering conform de bepalingen van onderafdeling 18.";<br>
+<br>
+4° in paragraaf 3, derde lid, wordt de zinsnede "tot en met 17° " vervangen door de zinsnede "tot en met 18° ";.
+
 ### ART 5.
 
 In artikel 475, § 2, 2°, van hetzelfde besluit, wordt punt k) vervangen door wat volgt:<br>
 <br>
 "k) de personeelsleden die gefinancierd worden ter uitvoering van de sociale akkoorden van 2011 en 2013 met betrekking tot jobcreatie;".
 
+### ART 6.
+
+In artikel 486, § 1, 1°, § 2, 1°, § 3, 1° en § 4, 1°, van hetzelfde besluit wordt het bedrag "18,17 euro" vervangen door het bedrag "22,77 euro".
+
+### ART 7.
+
+In artikel 487, § 2, eerste lid, van hetzelfde besluit wordt het percentage "78 %" vervangen door het percentage "100 %" en wordt het percentage "9,74 %" vervangen door het percentage "13,50 %".
+
 ### ART 8.
 
 In artikel 498, § 2, eerste lid, 3°, van hetzelfde besluit wordt de zinsnede "artikel 4bis van het koninklijk besluit van 17 augustus 2007 tot uitvoering van de artikelen 57 en 59 van de programmawet van 2 januari 2001 wat de harmonisering van de barema's en de loonsverhogingen in bepaalde gezondheidsinrichtingen betreft" vervangen door de zinsnede "de sociale akkoorden van 2011 en 2013 met betrekking tot jobcreatie".
+
+### ART 9.
+
+Aan boek 3, deel 2, titel 3, hoofdstuk 1, afdeling 1, van hetzelfde besluit wordt een onderafdeling 18, die bestaat uit artikel 504/1, toegevoegd, die luidt als volgt:<br>
+<br>
+"Onderafdeling 18. Deel K: Financiering van ondersteunend personeel<br>
+<br>
+Art. 504/1. De tegemoetkoming per verblijfsdag en per gebruiker voor de financiering van ondersteunend personeel bedraagt 3,92 euro.".
 
 ### ART 10.
 
