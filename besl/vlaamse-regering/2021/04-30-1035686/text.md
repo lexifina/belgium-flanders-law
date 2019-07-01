@@ -32,3 +32,8 @@ In artikel VI 167 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaams
 In artikel VI 168, tweede en derde lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 28 juni 2019, worden de volgende wijzigingen aangebracht:<br>
 1° "de zinsnede "conform artikel VII 209" wordt vervangen door de zinsnede "conform artikel VII 210";<br>
 2° de zinsnede "vermeld in artikel VII 209", wordt vervangen door de zinsnede "vermeld in de artikelen VII 209 en VII 210, § 2".
+
+### ART 21.
+
+Aan artikel VII 206, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 15 maart 2019, wordt een punt 7° toegevoegd, dat luidt als volgt:<br>
+"7° de contractuele personeelsleden die op 1 januari 2014 overgeheveld zijn van de Vlaamse Regulator van de Elektriciteits- en Gasmarkt.".
