@@ -48,6 +48,15 @@ In afwijking van artikel VI 26, § 2 behoudt het contractuele personeelslid dat 
 <br>
 In afwijking van artikel VI 26, § 3, behoudt het contractuele personeelslid dat vanaf 1 januari 2015 tot 31 december 2018 in het kader van een staatshervorming en het contractuele personeelslid dat vanaf 1 januari 2018 in het kader van de afslanking van de provincies overgeheveld is naar de diensten van de Vlaamse overheid en dat respectievelijk conform artikel VII 190 en artikel VII 202 met ingang van de datum van de overheveling tewerkgesteld is in de betrekking en bezoldigd in de salarisschaal respectievelijk conform bijlage 14 en bijlage 17, die bij dit besluit zijn gevoegd, bij overplaatsing door horizontale mobiliteit naar een statutaire functie met een overeenstemmende of gelijkwaardige inhoud van dezelfde rang zijn salarisschaal in overgangsregeling tot op het moment dat zijn organieke regeling voordeliger is.".
 
+### ART 16.
+
+In artikel VII 12, § 1, 4°, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt in de tabel de rij<br>
+"Vakantiewerker: 80% van D111"<br>
+Vervangen als volgt:<br>
+"vakantiewerker: 80% van D111<br>
+vakantiewerker bij Agentschap Opgroeien regie als consultatiebureau-arts: 80% van A111.<br>
+De tewerkstelling als vakantiewerker consultatiebureau-arts is enkel mogelijk tijdens de maanden juli, augustus en september aansluitend op het academiejaar waarin de student het diploma van master in de geneeskunde heeft behaald, en op voorwaarde dat de student aansluitend op zijn tewerkstelling als jobstudent niet in dienst wordt genomen bij Agentschap Opgroeien regie.".
+
 ### ART 17.
 
 Aan artikel VII 45, § 2, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en laatst gewijzigd bij het besluit van de Vlaamse Regering van 20 april 2018, wordt een rij toegevoegd, die luidt als volgt:
