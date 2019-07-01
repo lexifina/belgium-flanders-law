@@ -43,7 +43,7 @@ De heer Jan De Groof, commissaris, oefent in het academiejaar 2018-2019 het toez
 
 ### ART 3.
 
-De heer Jozef De Cuyper, commissaris, oefent in het academiejaar 2018-2019, het toezicht uit op:<br>
+Mevrouw Marleen Deputter, commissaris, oefent tot het einde van het academiejaar 2018-2019 het toezicht uit op::<br>
 1° Katholieke Universiteit Leuven;<br>
 2° Universitair Ziekenhuis Leuven;<br>
 3° Vives Noord;<br>
