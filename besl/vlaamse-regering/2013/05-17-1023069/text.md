@@ -90,7 +90,8 @@ a) veroordeeld wegens faillissement, bedrieglijk onvermogen, valsheid in geschri
 b) aansprakelijk gesteld voor de verbintenissen of de schulden van een gefailleerde vennootschap met toepassing van artikelen 229, 5°, 265, 315, 456, 4°, en 530, van het Wetboek van Vennootschappen of een gelijkaardige wetgeving in de lidstaat van vestiging of hebben meermaals een functie van zaakvoerder of gemachtigde uitgeoefend in een gefailleerde vennootschap;<br>
 c) herhaaldelijk in overtreding gesteld op het gebied van de fiscale, sociale verplichtingen of van de wettelijke en reglementaire bepalingen;<br>
 d) onderworpen aan een exploitatieverbod met bedrijfssluiting, of aan een beroepsverbod met bedrijfssluiting;<br>
-e) ontheven van hun burgerrechten en politieke rechten.<br>
+e) ontheven van hun burgerrechten en politieke rechten;<br>
+9° als de onderneming een rechtspersoon is, toont ze aan dat loopbaanbegeleiding past binnen de activiteiten die vermeld zijn in haar statuten of haar wettelijke of decretale opdrachten.<br>
 <br>
 In het tweede lid wordt verstaan onder :<br>
 1° lidstaat van vestiging : een lidstaat van de Europese Economische Ruimte op het grondgebied waarvan de zetel van de dienstverrichter is gevestigd;<br>
