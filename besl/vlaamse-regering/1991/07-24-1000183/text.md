@@ -34,7 +34,13 @@ Wanneer het aanvraagdossier volledig is, legt de administratie van de provincial
 
 ### ART. 5bis
 
-De provinciale evaluatiecommissie bepaalt of de aanvrager getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, en of hij behoefte heeft aan ondersteuning. Ze stelt de aard en de graad vast van de ondersteuning die vereist is om de maatschappelijke integratie mogelijk te maken.<br /><br />De provinciale evaluatiecommissie steunt haar beoordeling op het multidisciplinaire verslag van een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br /><br />De provinciale evaluatiecommissie kan daarnaast aanvullende onderzoeken verrichten of laten verrichten. Ze kan de persoon met een handicap horen.<br /><br />De provinciale evaluatiecommissie bezorgt haar beoordeling en haar beslissing over de vereiste ondersteuning aan het agentschap binnen twee maanden na het indienen van de aanvraag.
+De provinciale evaluatiecommissie bepaalt of de aanvrager getroffen is door een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.<br>
+<br>
+De provinciale evaluatiecommissie steunt haar beoordeling op het multidisciplinaire verslag van een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren.<br>
+<br>
+De provinciale evaluatiecommissie kan daarnaast aanvullende onderzoeken verrichten of laten verrichten. Ze kan de persoon met een handicap horen.<br>
+<br>
+De provinciale evaluatiecommissie bezorgt haar beoordeling en haar beslissing over de vereiste ondersteuning aan het agentschap binnen twee maanden na het indienen van de aanvraag.
 
 ### ART. 6.
 
@@ -70,27 +76,59 @@ Ingeval de toestand van de persoon met een handicap hem niet toelaat de aanvraag
 
 ### ART. 10.
 
-Het agentschap beslist over de toewijzing op grond van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap en eventueel op basis van de vaststelling van de vereiste ondersteuning, rekening houdend met de reglementering die van toepassing is op de gevraagde ondersteuning en met de bepalingen van artikel 14 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
+Het agentschap beslist over de toewijzing op grond van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap, rekening houdend met de reglementering die van toepassing is op de gevraagde ondersteuning en met de bepalingen van artikel 14 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.
 
 ### ART. 10bis
 
-§ 1. Binnen dertig dagen na de ontvangst van de beoordeling van de handicap van de provinciale evaluatiecommissie en de beoordeling van de provinciale evaluatiecommissie van de vereiste ondersteuning formuleert het agentschap zijn voornemen met betrekking tot de toewijzing. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, betekent het agentschap onmiddellijk een beslissing over de toewijzing aan de aanvrager of zijn wettelijke vertegenwoordiger, en eventueel aan de voorziening die aan de persoon met een handicap ondersteuning verleent.<br /><br />§ 2. Als het door het agentschap geformuleerde voornemen de aanvraag weigert of ervan afwijkt, geeft het agentschap aan de aanvrager of zijn wettelijke vertegenwoordiger onmiddellijk kennis van zijn gemotiveerde voornemen om de aanvraag niet of niet volledig ten laste te nemen. Bij die kennisgeving voegt het agentschap een kopie van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap en van de vereiste ondersteuning.<br /><br />Binnen dertig dagen na de ontvangst van die kennisgeving kan de aanvrager of zijn wettelijke vertegenwoordiger per aangetekende brief aan het agentschap een gemotiveerd verzoekschrift richten om zijn voornemen in heroverweging te nemen na advies van een adviescommissie als vermeld in artikel 29. In dat verzoekschrift kan de aanvrager of zijn wettelijke vertegenwoordiger vragen om door de adviescommissie gehoord te worden.<br /><br />De termijn, vermeld in het tweede lid, begint pas te lopen op het ogenblik dat de aanvrager of zijn wettelijke vertegenwoordiger effectief kennis heeft kunnen nemen van het voornemen van het agentschap, in geval hij overmacht aantoont of omstandigheden buiten zijn wil.<br /><br />Als de aanvrager of zijn wettelijke vertegenwoordiger binnen die termijn niet een dergelijk verzoekschrift aan het agentschap heeft gericht, wordt hij geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en betekent het agentschap hem onmiddellijk de beslissing.<br /><br />§ 3. Als de aanvrager of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in § 2, tweede lid, aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk aan de adviescommissie voor advies. Als de aanvrager of zijn wettelijke vertegenwoordiger dat in het verzoekschrift heeft gevraagd, wordt hij door de adviescommissie gehoord binnen zestig dagen na de ontvangst van het dossier.<br /><br />De aanvrager of zijn wettelijke vertegenwoordiger kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling van zijn keuze.<br /><br />§ 4. Binnen dertig dagen na de dag waarop de aanvrager of zijn vertegenwoordiger door de adviescommissie werd gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de aanvrager al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br /><br />Binnen dertig dagen na de ontvangst van het advies van de adviescommissie betekent het agentschap zijn gemotiveerde beslissing en het advies van de adviescommissie aan de aanvrager of zijn wettelijke vertegenwoordiger, en eventueel aan de voorziening die aan de persoon met een handicap ondersteuning verleent.
+§ 1. Binnen dertig dagen na de ontvangst van de beoordeling van de handicap van de provinciale evaluatiecommissie&nbsp; formuleert het agentschap zijn voornemen met betrekking tot de toewijzing. Als het door het agentschap geformuleerde voornemen de aanvraag volledig inwilligt, betekent het agentschap onmiddellijk een beslissing over de toewijzing aan de aanvrager of zijn wettelijke vertegenwoordiger.<br>
+<br>
+§ 2. Als het door het agentschap geformuleerde voornemen de aanvraag weigert of ervan afwijkt, geeft het agentschap aan de aanvrager of zijn wettelijke vertegenwoordiger onmiddellijk kennis van zijn gemotiveerde voornemen om de aanvraag niet of niet volledig ten laste te nemen. Bij die kennisgeving voegt het agentschap een kopie van de door de provinciale evaluatiecommissie meegedeelde beoordeling van de handicap.<br>
+<br>
+Binnen dertig dagen na de ontvangst van die kennisgeving kan de aanvrager of zijn wettelijke vertegenwoordiger per aangetekende brief aan het agentschap een gemotiveerd verzoekschrift richten om zijn voornemen in heroverweging te nemen na advies van een adviescommissie als vermeld in artikel 29. In dat verzoekschrift kan de aanvrager of zijn wettelijke vertegenwoordiger vragen om door de adviescommissie gehoord te worden.<br>
+<br>
+De termijn, vermeld in het tweede lid, begint pas te lopen op het ogenblik dat de aanvrager of zijn wettelijke vertegenwoordiger effectief kennis heeft kunnen nemen van het voornemen van het agentschap, in geval hij overmacht aantoont of omstandigheden buiten zijn wil.<br>
+<br>
+Als de aanvrager of zijn wettelijke vertegenwoordiger binnen die termijn niet een dergelijk verzoekschrift aan het agentschap heeft gericht, wordt hij geacht onweerlegbaar met het voornemen van het agentschap in te stemmen en betekent het agentschap hem onmiddellijk de beslissing.<br>
+<br>
+§ 3. Als de aanvrager of zijn wettelijke vertegenwoordiger binnen de termijn, vermeld in § 2, tweede lid, aan het agentschap een verzoek tot heroverweging heeft gericht, stuurt het agentschap het dossier onmiddellijk aan de adviescommissie voor advies. Als de aanvrager of zijn wettelijke vertegenwoordiger dat in het verzoekschrift heeft gevraagd, wordt hij door de adviescommissie gehoord binnen zestig dagen na de ontvangst van het dossier.<br>
+<br>
+De aanvrager of zijn wettelijke vertegenwoordiger kan zich voor de adviescommissie laten bijstaan of vertegenwoordigen door een persoon of een instelling van zijn keuze.<br>
+<br>
+§ 4. Binnen dertig dagen na de dag waarop de aanvrager of zijn vertegenwoordiger door de adviescommissie werd gehoord, of binnen negentig dagen na de dag waarop de adviescommissie het dossier heeft ontvangen, naargelang de aanvrager al dan niet heeft gevraagd om gehoord te worden, deelt ze haar advies mee aan het agentschap.<br>
+<br>
+Binnen dertig dagen na de ontvangst van het advies van de adviescommissie betekent het agentschap zijn gemotiveerde beslissing en het advies van de adviescommissie aan de aanvrager of zijn wettelijke vertegenwoordiger, en eventueel aan de voorziening die aan de persoon met een handicap ondersteuning verleent.
 
 ### ART. 11.
 
-De toewijzing kan op zijn vroegst uitwerking krijgen vanaf de eerste dag van de kalendermaand waarin een schriftelijke aanvraag tot ondersteuning wordt ingediend als uiterlijk binnen een periode van zes maanden vanaf de datum van de schriftelijke aanvraag een volledige aanvraag wordt ingediend overeenkomstig dit besluit.<br /> <br />Als de aanvraag niet binnen de termijn, vermeld in het eerste lid wordt vervolledigd, kan de toewijzing op zijn vroegst uitwerking krijgen vanaf de eerste dag van de kalendermaand waarin de aanvraag vervolledigd wordt.<br /><br />Het eerste lid blijft van toepassing als de instantie die erkend is voor het afleveren van een multidisciplinair verslag of de aanvrager overmacht inroepen.<br /><br />De toewijzing van ondersteuning met toepassing van artikel 8, § 1, 1°, kan op zijn vroegst uitwerking krijgen vanaf de datum van de aanvraag, vermeld in artikel 2, § 1, derde lid. De toewijzing van ondersteuning met toepassing van artikel 8, § 1, 2° en 3°, kan op zijn vroegst uitwerking krijgen vanaf de datum van de aanvraag.<br /><br />De datum van de aanvraag is de datum van de poststempel of de datum van het ontvangstbewijs, in geval van afgifte. Als die datum op een maandag valt, is de datum van de zaterdag die daar onmiddellijk aan voorafgaat de datum van de aanvraag.
+De toewijzing kan op zijn vroegst uitwerking krijgen vanaf de eerste dag van de kalendermaand waarin een schriftelijke aanvraag tot ondersteuning wordt ingediend als uiterlijk binnen een periode van zes maanden vanaf de datum van de schriftelijke aanvraag een volledige aanvraag wordt ingediend overeenkomstig dit besluit.<br>
+<br>
+Als de aanvraag niet binnen de termijn, vermeld in het eerste lid wordt vervolledigd, kan de toewijzing op zijn vroegst uitwerking krijgen vanaf de eerste dag van de kalendermaand waarin de aanvraag vervolledigd wordt.<br>
+<br>
+Het eerste lid blijft van toepassing als de instantie die erkend is voor het afleveren van een multidisciplinair verslag of de aanvrager overmacht inroepen.<br>
+<br>
+De datum van de aanvraag is de datum van de poststempel of de datum van het ontvangstbewijs, in geval van afgifte. Als die datum op een maandag valt, is de datum van de zaterdag die daar onmiddellijk aan voorafgaat de datum van de aanvraag.
 
 ## [AFDELING 5 HERZIENING OP INITIATIEF VAN HET AGENTSCHAP (ing. B.V.R. 3 juni 1992, art. 5)]
 
 ### ART. 11bis.
 
-Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap en/of van de vereiste ondersteuning noodzakelijk blijkt, en betrokkene zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, leidt het agentschap bij de uit hoofde van de woonplaats van de persoon met een handicap bevoegde provinciale evaluatiecommissie de aanvraag tot herziening in.<br /><br />Deze aanvraag wordt geformuleerd bij gewone brief ondertekend door de administrateur- generaal van het agentschap of een daartoe door hem gemachtigd ambtenaar, met de vermeldingen bedoeld in artikel 2, § 3, en de motieven en argumenten die het agentschap ertoe aanzetten de herziening aan te vragen.<br /><br />De behandeling van de aanvraag geschiedt overeenkomstig de bepalingen van de artikelen 17 tot en met 21.<br />
+Indien zich in de toestand van de persoon met een handicap een zodanig belangrijke wijziging voordoet dat een herziening van de beoordeling van de handicap noodzakelijk blijkt, en betrokkene zelf geen aanvraag tot herziening indient overeenkomstig de bepalingen van afdeling I, leidt het agentschap bij de uit hoofde van de woonplaats van de persoon met een handicap bevoegde provinciale evaluatiecommissie de aanvraag tot herziening in.<br>
+<br>
+Deze aanvraag wordt geformuleerd bij gewone brief ondertekend door de administrateur- generaal van het agentschap of een daartoe door hem gemachtigd ambtenaar, met de vermeldingen bedoeld in artikel 2, § 3, en de motieven en argumenten die het agentschap ertoe aanzetten de herziening aan te vragen.<br>
+<br>
+De behandeling van de aanvraag geschiedt overeenkomstig de bepalingen van de artikelen 17 tot en met 21.
 
 ## HOOFDSTUK II DE PROVINCIALE EVALUATIECOMMISSIES
 
 ### ART. 12.
 
-Er wordt in elke provincie een evaluatiecommissie opgericht. Deze   evaluatiecommissie bepaalt de handicap en de behoefte aan ondersteuning en   bepaalt de aard en de graad van de ondersteuning die vereist is om de   maatschappelijke integratie mogelijk te maken . <BR><BR>De provinciale   evaluatiecommissie maakt bij de uitvoering van haar opdrachten gebruik van de   instrumenten voor diagnose en indicatiestelling die door de Vlaamse minister,   bevoegd voor de bijstand aan personen, worden vastgesteld.<BR><BR>De zetel van   elke evaluatiecommissie is gevestigd in de hoofdplaats van de   provincie.<BR><BR>De provinciale evaluatiecommissie Vlaams-Brabant onderzoekt de   aanvragen die ingediend zijn door de personen met een handicap die wonen in het   arrondissement Leuven en in het administratief arrondissement Halle-Vilvoorde,   alsmede door de personen met een handicap die wonen in Brussel-Hoofdstad en hun   aanvraag indienden overeenkomstig de bepalingen van artikel 1, §3. Diezelfde   evaluatiecommissie onderzoekt de aanvragen, bedoeld in artikel 1, § 4.
+Er wordt in elke provincie een evaluatiecommissie opgericht. Deze evaluatiecommissie bepaalt de handicap.<br>
+<br>
+De provinciale evaluatiecommissie maakt bij de uitvoering van haar opdrachten gebruik van de instrumenten voor diagnose en indicatiestelling die door de Vlaamse minister, bevoegd voor de bijstand aan personen, worden vastgesteld.<br>
+<br>
+De zetel van elke evaluatiecommissie is gevestigd in de hoofdplaats van de provincie.<br>
+<br>
+De provinciale evaluatiecommissie Vlaams-Brabant onderzoekt de aanvragen die ingediend zijn door de personen met een handicap die wonen in het arrondissement Leuven en in het administratief arrondissement Halle-Vilvoorde, alsmede door de personen met een handicap die wonen in Brussel-Hoofdstad en hun aanvraag indienden overeenkomstig de bepalingen van artikel 1, §3. Diezelfde evaluatiecommissie onderzoekt de aanvragen, bedoeld in artikel 1, § 4.
 
 ## AFDELING 1 SAMENSTELLING
 

@@ -2,16 +2,16 @@
   "codex_id": 1000183,
   "title": "Besluit van de Vlaamse Regering van 1991-07-24 betreffende de [indiening en afhandeling van de aanvraag tot ondersteuning] bij het Vlaams Agentschap voor Personen met een Handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000183/VolledigDocument?datum=2019-01-01",
-  "source_sha256": "e9823e28aa1d17a36be1e7b928f7c5f8b9d3fb3cdba0780caf90ed4fe1476c4f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000183/VolledigDocument?datum=2019-07-01",
+  "source_sha256": "ee11d50f0c4bdaf7c14c82687194a409d30d76cc6536efbb34147d283daddce0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000183&param=informatie",
-  "as_of": "2019-01-01",
+  "as_of": "2019-07-01",
   "made": "1991-07-24",
   "gazette": "1991-10-29",
   "numac": 1991036327,
   "document_start": null,
   "document_end": null,
-  "in_force": "2019-01-01",
+  "in_force": "2019-07-01",
   "article_versions": 71,
-  "record_form": "consolidated version as in force on 2019-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-07-01; future article versions excluded; article text as the API gives it"
 }
