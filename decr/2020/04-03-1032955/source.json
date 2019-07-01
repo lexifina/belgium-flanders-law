@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032955,
+  "title": "Decreet van 2020-04-03 houdende omzetting van richtlijn 2017/1852/EU van de Raad van 10 oktober 2017 betreffende mechanismen ter beslechting van belastinggeschillen in de Europese Unie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032955/VolledigDocument?datum=2019-07-01",
+  "source_sha256": "cf8ba7b8b0462c0230e8cbdb87b967e5010ce39179f0dbc988ff0a860f0b84a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032955&param=informatie",
+  "as_of": "2019-07-01",
+  "made": "2020-04-03",
+  "gazette": "2020-05-04",
+  "numac": 2020010371,
+  "document_start": "2019-07-01",
+  "document_end": null,
+  "in_force": "2019-07-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2019-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
