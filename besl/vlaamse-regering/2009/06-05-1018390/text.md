@@ -685,20 +685,24 @@ De IBO-premie bedraagt:<br>
 <br>
 De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
 <br>
+De IBO-premie wordt berekend aan de hand van het GGMMI dat van toepassing is op de werknemers die ten minste 20 jaar oud zijn en ten minste 12 maanden anciënniteit hebben in de onderneming die hen tewerkstelt.<br>
+<br>
 § 2. Bij een deeltijdse IBO wordt de IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
 <br>
 § 3. De cursist die een IBO volgt, heeft recht op de vergoedingen, vermeld in artikel 6, § 2, als hij voldoet aan de voorwaarden, vermeld in artikel 6.<br>
 <br>
 § 4. De VDAB betaalt maandelijks de IBO-premie aan de cursist. De VDAB geeft de cursist een overzicht van de premie en de vergoedingen die aan hem zijn uitbetaald.<br>
 <br>
-§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar de cursist de individuele beroepsopleiding volgt, is aan de VDAB maandelijks een kostprijs verschuldigd. Deze bedraagt:<br>
-1° 650 euro als de loonschaal minder dan 1 700 euro bedraagt;<br>
-2° 800 euro als de loonschaal tussen de 1 700 en 2 000 euro bedraagt;<br>
-3° 1 000 euro als de loonschaal tussen de 2 000 en 2 300 euro bedraagt;<br>
-4° 1 200 euro als de loonschaal tussen de 2 300 en 2 600 euro bedraagt;<br>
-5° 1 400 euro als de loonschaal meer dan 2 600 euro bedraagt.<br>
+§ 5. De onderneming, de vereniging zonder winstoogmerk of de administratieve overheid waar de cursist de individuele beroepsopleiding volgt, betalen maandelijks de volgende kostprijs aan de VDAB:<br>
+1° 650 euro als de loonschaal minder dan 1.734 euro bedraagt;<br>
+2° 800 euro als de loonschaal tussen de 1.734 en 2.040 euro bedraagt;<br>
+3° 1.000 euro als de loonschaal tussen de 2.041 en 2.346 euro bedraagt;<br>
+4° 1.200 euro als de loonschaal tussen de 2.347 en 2.652 euro bedraagt;<br>
+5° 1.400 euro als de loonschaal meer dan 2.652 euro bedraagt.<br>
 <br>
 § 6. Bij een deeltijdse IBO wordt de kostprijs berekend volgens de tewerkstellingsbreuk.<br>
+<br>
+Bij een afwezigheid van ten minste zeven aaneensluitende kalenderdagen van de cursist wordt de kostprijs voor de werkgever pro rata berekend vanaf de achtste kalenderdag afwezigheid van de cursist.<br>
 <br>
 § 7. De bedragen van de loonschalen, vermeld in paragraaf 5, worden aangepast aan de spilindex.
 
@@ -755,6 +759,8 @@ De IBO-premie bedraagt:<br>
 4° 80 % van het GGMMI als de cursist geen inkomen heeft.<br>
 <br>
 De bedragen van het vervangingsinkomen, vermeld in het tweede lid, worden aangepast aan de spilindex.<br>
+<br>
+De IBO-premie wordt berekend aan de hand van het GGMMI dat van toepassing is op de werknemers die ten minste 20 jaar oud zijn en ten minste 12 maanden anciënniteit hebben in de onderneming die hen tewerkstelt.<br>
 <br>
 § 2. Bij een deeltijdse K-IBO wordt de K-IBO-premie berekend volgens de tewerkstellingsbreuk.<br>
 <br>
