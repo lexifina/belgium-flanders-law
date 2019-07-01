@@ -6,8 +6,8 @@
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
 1° het decreet: het decreet van 20 december 1996 tot regeling van de rol van de lokale adviescommissie in het kader van het recht op minimumlevering van elektriciteit, gas en water en de levering van thermische energie;<br>
-2° huishoudelijke abonnee : een abonnee als vermeld in artikel 2, 28°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
-3° exploitant : de exploitant van een openbaar waterdistributienetwerk, vermeld in artikel 2, 3°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
+2° huishoudelijke abonnee : een abonnee als vermeld in artikel 2.1.2, 16°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+3° exploitant : de exploitant van een openbaar waterdistributienetwerk, vermeld in artikel 2.1.2, 9°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 4° commissie: de lokale adviescommissie bedoeld in artikel 7 van het decreet;<br>
 5° erkende instelling voor schuldbemiddeling: instelling erkend volgens het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling in de Vlaamse Gemeenschap;<br>
 6° huishoudelijk afnemer van thermische energie: afnemer als vermeld in artikel 1.1.3, 67/1°, van het Energiedecreet van 8 mei 2009;<br>
@@ -40,8 +40,8 @@ De commissie vergadert in de volgende gevallen :<br>
 a) op verzoek van de netbeheerder of de aardgasnetbeheerder om respectievelijk de huishoudelijke afnemer of de huishoudelijke aardgasafnemer af te sluiten in de gevallen, vermeld in artikel 6.1.2, § 1, 5°, 6°, 7° en 8,° van het Energiedecreet van 8 mei 2009;<br>
 b) op verzoek tot heraansluiting van de huishoudelijke afnemer of de huishoudelijke aardgasafnemer, na beëindiging van de toestand, vermeld in artikel 6.1.2, § 1, 1°, 2°, 3°, 4°, 5°, 6°, 7° en 8°, van het Energiedecreet van 8 mei 2009.<br>
 2° in geval van water :<br>
-a) op verzoek van de exploitant tot afsluiting van de toevoer van de minimale levering van water, in de gevallen, vermeld in artikel 5, § 5, 7° en 8°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
-b) op verzoek van de huishoudelijke abonnee tot heraansluiting van de toevoer van water, na beëindiging van de toestand, vermeld in artikel 5, § 5, 7° en 8°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending;<br>
+a) op verzoek van de exploitant om de toevoer van water bij de huishoudelijke abonnee te begrenzen in debiet of af te sluiten, in de gevallen, vermeld in artikel 2.2.2, § 6, eerste lid, 7° en 8°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
+b) op verzoek van de huishoudelijke abonnee tot het wegnemen van de begrenzing van de watertoevoer of tot heraansluiting, na beëindiging van de toestand, vermeld in artikel 2.2.2, § 6, eerste lid, 7° en 8°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 3° in geval van thermische energie:<br>
 a) op verzoek van de warmte- of koudeleverancier om de huishoudelijke afnemer van thermische energie af te sluiten in de gevallen, vermeld in artikel 6.2.2, § 1, eerste lid, 5°, 6° en 7°, van het Energiedecreet van 8 mei 2009;<br>
 b) op verzoek tot heraansluiting van de huishoudelijke afnemer van thermische energie, na beëindiging van de toestand, vermeld in artikel 6.2.2, § 1, eerste lid, 1°, 2°, 3°, 4°, 5°, 6° en 7°, van het Energiedecreet van 8 mei 2009.
@@ -52,7 +52,7 @@ b) op verzoek tot heraansluiting van de huishoudelijke afnemer van thermische en
 
 Wat betreft elektriciteit en gas wordt het verzoek van de netbeheerder of de aardgasnetbeheerder, vermeld in artikel 3, 1°, a), bij gewone brief gericht aan de voorzitter van de commissie. Er moet een verantwoordingsnota bijgevoegd zijn, die elementen bevat die de reden voor de afsluiting van de huishoudelijke afnemer of huishoudelijke aardgasafnemer aantonen. Indien van toepassing, moet uit de bijgevoegde verantwoordingsnota eveneens blijken dat de procedure bij wanbetaling volledig doorlopen is.<br>
 <br>
-Wat betreft water wordt het verzoek van de exploitant, vermeld in artikel 3, 2°, a), met een gewone brief gericht aan de voorzitter van de commissie. Er wordt een verantwoordingsnota bijgevoegd, met elementen die de reden voor de afsluiting van de huishoudelijke abonnee aantonen. Als dat van toepassing is, blijkt uit de bijgevoegde verantwoordingsnota ook dat de procedure bij wanbetaling volledig doorlopen is.<br>
+Wat betreft water wordt het verzoek van de exploitant, vermeld in artikel 3, 2°, a), met een gewone brief gericht aan de voorzitter van de commissie. Er wordt een verantwoordingsnota bijgevoegd, met elementen die de reden voor de begrenzing van het debiet van de watertoevoer of de afsluiting van de huishoudelijke abonnee aantonen. Als dat van toepassing is, blijkt uit de bijgevoegde verantwoordingsnota ook dat de procedure bij wanbetaling volledig doorlopen is.<br>
 <br>
 Wat betreft thermische energie wordt het verzoek van de warmte- of koudeleverancier, vermeld in artikel 3, 3°, a), met een gewone brief gericht aan de voorzitter van de commissie. Er moet een verantwoordingsnota bijgevoegd zijn, die elementen bevat die de reden voor de afsluiting van de huishoudelijke afnemer van thermische energie aantonen. Als dat van toepassing is, moet uit de bijgevoegde verantwoordingsnota ook blijken dat de procedure bij wanbetaling volledig doorlopen is.
 
@@ -82,11 +82,11 @@ Als de netbeheerder of de aardgasnetbeheerder, naargelang van het geval, binnen 
 <br>
 Het verzoek tot heraansluiting van de huishoudelijke afnemer of de huishoudelijke aardgasafnemer wordt bij gewone brief gericht aan de voorzitter van de commissie.<br>
 <br>
-§ 2. Wat betreft water richt de huishoudelijke abonnee die van mening is dat zijn afsluiting niet langer noodzakelijk is omdat er een einde gekomen is aan de toestand, vermeld in artikel 5, § 5, 7° en 8°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, een schriftelijk verzoek aan de exploitant tot heraansluiting.<br>
+§ 2. Wat betreft water richt de huishoudelijke abonnee die van mening is dat de begrenzing in debiet van zijn watertoevoer of zijn afsluiting niet langer noodzakelijk is omdat er een einde gekomen is aan de toestand, vermeld in artikel 2.2.2, § 6, eerste lid, 7° en 8°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, een schriftelijk verzoek aan de exploitant tot het wegnemen van de begrenzing van het debiet van zijn watertoevoer of tot heraansluiting.<br>
 <br>
-Als de exploitant binnen vijf dagen na de verzending van het verzoek niet is overgegaan tot heraansluiting, heeft de huishoudelijke abonnee het recht een verzoek tot heraansluiting in te dienen bij de lokale adviescommissie als vermeld in artikel 3, 2°, b).<br>
+Als de exploitant binnen vijf dagen na de verzending van het verzoek niet is overgegaan tot het wegnemen van de begrenzing van het debiet van zijn watertoevoer of&nbsp;tot heraansluiting, heeft de huishoudelijke abonnee het recht een verzoek tot het wegnemen van de begrenzing van het debiet van zijn watertoevoer of tot heraansluiting in te dienen bij de lokale adviescommissie als vermeld in artikel 3, 2°, b).<br>
 <br>
-Het verzoek tot heraansluiting van de huishoudelijke abonnee wordt met een gewone brief gericht aan de voorzitter van de commissie.<br>
+Het verzoek tot het wegnemen van de begrenzing van het debiet van zijn watertoevoer of tot heraansluiting van de huishoudelijke abonnee wordt met een gewone brief gericht aan de voorzitter van de commissie.<br>
 <br>
 § 3. Wat betreft thermische energie richt de huishoudelijke afnemer van thermische energie die van mening is dat zijn afsluiting niet langer noodzakelijk is omdat er een einde gekomen is aan de toestand, vermeld in artikel 6.2.2, § 1, eerste lid, 1°, 2°, 3°, 4°, 5°, 6° en 7°, van het Energiedecreet van 8 mei 2009, een schriftelijk verzoek tot heraansluiting aan de warmte- of koudeleverancier.<br>
 <br>
@@ -102,7 +102,7 @@ De voorzitter verzoekt de netbeheerder of de aardgasnetbeheerder om binnen vijf 
 <br>
 § 2. Wat betreft water stuurt de voorzitter van de commissie het verzoek van de huishoudelijke abonnee onmiddellijk naar de leden van de commissie. Hij stelt ook de datum en het uur vast waarop de commissie zal vergaderen.<br>
 <br>
-De voorzitter verzoekt de exploitant om binnen vijf dagen na de ontvangst van het verzoek van de huishoudelijke abonnee gemotiveerd mee te delen of de toestand, vermeld in artikel 5, § 5, 7° of 8°, van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, als beëindigd kan worden beschouwd en of tot heraansluiting kan worden overgegaan, als het een verzoek betreft als vermeld in artikel 3, 2°, b), van dit besluit.<br>
+De voorzitter verzoekt de exploitant om binnen vijf dagen na de ontvangst van het verzoek van de huishoudelijke abonnee gemotiveerd mee te delen of de toestand, vermeld in artikel 2.2.2, § 6, eerste lid, 7° en 8°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018, als beëindigd kan worden beschouwd en of tot het wegnemen van de begrenzing van het debiet van zijn watertoevoer of tot heraansluiting kan worden overgegaan, als het een verzoek betreft als vermeld in artikel 3, 2°, b), van dit besluit.<br>
 <br>
 § 3. Wat betreft thermische energie stuurt de voorzitter van de commissie het verzoek van de huishoudelijke afnemer van thermische energie onmiddellijk naar de leden van de commissie. Hij stelt ook de datum en het uur vast waarop de commissie zal vergaderen.<br>
 <br>
