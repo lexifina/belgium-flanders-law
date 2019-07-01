@@ -75,7 +75,7 @@ De volgende sportorganisaties zijn voor onbepaalde duur erkend als Vlaamse sport
 49° Vlaamse Rollerbond vzw, Esperantolaan 13, bus 8, 3300 Tienen, met ondernemingsnummer 0418.543.122;<br>
 50° Vlaamse Schermbond vzw, Zuiderlaan 14, 9000 Gent, met ondernemingsnummer 0418.821.452;<br>
 51° Vlaamse Schietsportkoepel vzw, Boomgaardstraat 22, bus 7, 2600 Berchem, met ondernemingsnummer 0436.786.644;<br>
-51° /1 Vlaamse Snelschaatsbond vzw, Hogepontstraat 20, 9050 Gentbrugge, met ondernemingsnummer 0454.098.867;<br>
+51° /1 ...;<br>
 52° Vlaamse Snookerfederatie vzw, Zuiderlaan 13, bus 17, 9000 Gent, met ondernemingsnummer 0461.852.533;<br>
 53° Vlaamse Squashfederatie vzw, Vorselaarsebaan 62, 2200 Herentals, met ondernemingsnummer 0456.423.206;<br>
 54° Vlaamse Taekwondo Bond vzw, H. Van Veldekesingel 150, bus 73, 3500 Hasselt, met ondernemingsnummer 0425.982.329;<br>
