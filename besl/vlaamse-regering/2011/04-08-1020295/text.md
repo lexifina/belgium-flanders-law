@@ -12,9 +12,9 @@ In dit besluit wordt verstaan onder :<br>
 1° decreet van 18 juli 2003: het decreet van 18 juli 2003 betreffende het integraal waterbeleid, gecoördineerd op 15 juni 2018;<br>
 2° het besluit van 13 december 2002 : het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie;<br>
 3° ...;<br>
-4° binneninstallatie : het huishoudelijke leidingnet, vermeld in artikel 2.1.2, 17°&nbsp;van het decreet van 18 juli 2003, alsmede alle systemen en toestellen die ermee verbonden zijn;<br>
-5° controleambtenaar : de ambtenaar, vermeld in artikel&nbsp;2.4.1 van het decreet van&nbsp;18 juli 2003;<br>
-6° exploitant : de exploitant van een openbaar waterdistributienetwerk, vermeld in artikel 2.1.2, 9°&nbsp;van het decreet van 18 juli 2003;<br>
+4° binneninstallatie : het deel van het huishoudelijke leidingnet, vermeld in artikel&nbsp;2.1.2,17°, van het decreet van 18 juli 2003, alsmede alle systemen en toestellen die ermee verbonden zijn, dat verbonden is met het openbaar waterdistributienetwerk;<br>
+5° controleambtenaar : de ambtenaar, vermeld in artikel&nbsp;2.4.1 van het decreet van 18 juli 2003;<br>
+6° exploitant : de exploitant van een openbaar waterdistributienetwerk, vermeld in artikel&nbsp;2.1.2, 9°, van het decreet van 18 juli 2003;<br>
 7° ecologisch toezichthouder : het afdelingshoofd van de afdeling, bevoegd voor het ecologische toezicht, van de Vlaamse Milieumaatschappij of de door hem aangestelde van de afdeling;<br>
 8° erkende instelling voor schuldbemiddeling : instelling, erkend volgens het decreet van 24 juli 1996 houdende regeling tot erkenning van de instellingen voor schuldbemiddeling van de Vlaamse Gemeenschap;<br>
 9° gemiddelde jaarverbruik : het gemiddelde verbruik per jaar van water bestemd voor menselijke consumptie, geleverd door de exploitant, dat berekend wordt op basis van de verbruiken in de drie voorgaande gemeten én gefactureerde verbruiksperioden, telkens omgerekend naar 365 dagen;<br>
@@ -24,6 +24,7 @@ a) de abonnee;<br>
 b) de abonnee die over een huisaansluiting beschikt of van wie onweerlegbaar vermoed wordt dat hij over een huisaansluiting beschikt;<br>
 c) de gebruiker van een private waterwinning die over een huisaansluiting beschikt of van wie onweerlegbaar vermoed wordt dat hij over een huisaansluiting beschikt;<br>
 d) de gebruiker van de individuele sanering;<br>
+11° /1 minister : de Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, vermeld in artikel 6, § 1, II van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 12° openbaar saneringsnetwerk : alle openbare gemeentelijke en bovengemeentelijke saneringsinfrastructuur, waaronder :<br>
 a) openbare infrastructuur bijvoorbeeld leidingen, retentievoorzieningen ... voor de afvoer van afvalwater;<br>
 b) openbare infrastructuur bijvoorbeeld leidingen, retentie- en infiltratievoorzieningen, bufferbekkens ... die niet behoort tot het hydrografische net en die bestemd is voor de infiltratie of de afvoer van niet-verontreinigd hemelwater indien een gescheiden stelsel aanwezig is;<br>
@@ -32,14 +33,14 @@ d) huisaansluitingen;<br>
 e) straatkolkaansluitingen, met inbegrip van de straatkolken en sifons;<br>
 f) individuele sanering, met uitzondering van de privéwaterafvoer;<br>
 13° openbaar waterdistributienetwerk : openbaar leidingnet en alle toebehoren voor de levering van water, bestemd voor menselijke consumptie;<br>
-14° privéwaterafvoer : geheel van leidingen, greppels en toestellen, bestemd voor het opvangen, transporteren en in voorkomend geval zuiveren van afvalwater of niet-verontreinigd hemelwater, stroomopwaarts van de rooilijn of het aansluitingspunt voor de individuele sanering;<br>
+14° privéwaterafvoer : geheel van leidingen, greppels en toestellen, bestemd voor het opvangen, vasthouden, transporteren en, in voorkomend geval, zuiveren, voorafgaand aan het afvoeren, van afvalwater, niet-verontreinigd hemelwater stroomopwaarts van de rooilijn, inclusief de individuele sanering in beheer van de klant of titularis;<br>
 15° titularis : elke persoon die beschikt over een recht van eigendom, van vruchtgebruik of van opstal of die enig zakelijk recht geniet op het onderscheiden deel van het onroerend goed dat aangesloten is of wordt op het openbaar waterdistributienetwerk of saneringsnetwerk, en daardoor voor zijn deel de voorwaarden van het algemeen en van het bijzonder waterverkoopreglement onderschrijft, waardoor hij de verplichtingen die inherent zijn aan de leveringen en diensten door de exploitant, mee moet naleven;<br>
 16° toezichthoudende ambtenaar : de ambtenaar, vermeld in artikel&nbsp;5.2.1.1 van het decreet van 18 juli 2003;<br>
 17° Vlarem : het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne;<br>
 18° ...;<br>
 19° werkdag : elke dag van de week, met uitzondering van zaterdagen, zondagen, wettelijke feestdagen en de feestdag van de Vlaamse Gemeenschap;<br>
 20° ...;<br>
-21° huishoudelijke klant : de huishoudelijke abonnee, vermeld in artikel 2.1.2, 16°&nbsp;van het decreet van 18 juli 2003;<br>
+21° huishoudelijke klant : de huishoudelijke abonnee, vermeld in artikel&nbsp;2.1.2, 16°, van het decreet van 18 juli 2003;<br>
 22° niet-huishoudelijke klant : elke klant die geen huishoudelijke klant is;<br>
 23° beschermde klant : een huishoudelijke klant die zelf of van wie een gezinslid dat gedomicilieerd is op hetzelfde adres, behoort tot één van de volgende categorieën :<br>
 a) persoon die van het leefloon geniet, ingevoerd bij wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie;<br>
@@ -53,7 +54,9 @@ h) persoon die geniet van een tegemoetkoming aan gehandicapten ingevolge een bli
 i) persoon die geniet van een tegemoetkoming voor hulp aan bejaarde gehandicapten, overeenkomstig de artikelen 127 en volgende van de programmawet van 22 december 1989;<br>
 j) persoon die geniet van een tegemoetkoming voor hulp van derden, overeenkomstig de wet van 27 juni 1969 betreffende de tegemoetkoming aan gehandicapten.<br>
 24° toezichthoudende ambtenaar Leefmilieu : de ambtenaar, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 13 mei 2011 tot uitvoering van diverse bepalingen van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, en tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 houdende reglementering inzake de kwaliteit en levering van water, bestemd voor menselijke consumptie.<br>
-25° onderneming : een onderneming als vermeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichtingen van erkende ondernemingsloketten en houdende diverse bepalingen.<br>
+25° onderneming : een onderneming als vermeld in artikel 2, 3°, van de wet van 16 januari 2003 tot oprichting van een Kruispuntbank van Ondernemingen, tot modernisering van het handelsregister, tot oprichtingen van erkende ondernemingsloketten en houdende diverse bepalingen;<br>
+26° installatie voor tweedecircuitwater : het geheel van systemen en leidingen voor de winning, opvang of productie van tweedecircuitwater en voor de opslag en het gebruik ervan;<br>
+27° niet-aangesloten binneninstallatie : een huishoudelijk leidingnet als vermeld in artikel 2.1.2, 17°, van het decreet van 18 juli 2003, en alle systemen en toestellen die ermee verbonden zijn, dat niet verbonden is met het openbaar waterdistributienetwerk.<br>
 <br>
 De definities, vermeld in artikel 2.1.2 van het decreet van 18 juli 2003 en de definities vermeld in artikel 1 van het besluit van de Vlaamse Regering van 13 december 2002 zijn van toepassing in dit besluit.<br>
 &nbsp;
@@ -194,7 +197,53 @@ Wanneer de exploitant een contract sluit zoals bedoeld in het tweede lid, dient 
 
 ### ART. 10.
 
-§ 1. Een verzoek tot aansluiting op het openbaar saneringsnetwerk moet altijd worden gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br /><br />Behoudens uitdrukkelijke en voorafgaande weigering van de titularis acht de exploitant het bewezen dat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk het akkoord van de titularis daarvoor heeft verkregen.<br /><br />De exploitant gaat over tot effectieve aansluiting op het openbaar saneringsnetwerk nadat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk zich akkoord heeft verklaard met de wijze van aanrekening van de kosten, het algemeen waterverkoopreglement en indien van toepassing het bijzonder waterverkoopreglement.<br /><br />§ 2. De verplichtingen van de klant gaan in vanaf de datum van de (her)ingebruikname van de waterlevering, de ingebruikname van de private waterwinning als de klant beschikt over een aansluiting op het openbaar saneringsnetwerk of, voor de klant die beschikt over een private waterwinning voordat het openbaar saneringsnetwerk beschikbaar was, wanneer het openbaar saneringsnetwerk beschikbaar is.<br /><br />§ 3. De overname van de sanering is gekoppeld aan de overname van de waterlevering. Dat geldt tevens voor de sanering van het afvalwater dat afkomstig is van de private waterwinning wanneer de klant aangesloten is op het openbaar waterdistributienetwerk. De overeenkomstige regels, vermeld in artikel 2, zijn van toepassing.<br /><br />Wanneer de klant die aangesloten is op het openbaar saneringsnetwerk uitsluitend over een private waterwinning beschikt, kan er een tegensprekelijke overname gebeuren. Bij een tegensprekelijke overname worden de volgende gegevens, ondertekend door zowel de vertrekkende als de volgende klant, aan de exploitant verstrekt :<br />1° de datum van de overname;<br />2° het verzendingsadres van de vertrekkende klant;<br />3° voor zover beschikbaar, een bankrekeningnummer van de vertrekkende klant voor een eventuele terugbetaling;<br />4° de contactgegevens van de volgende klant.<br /><br />De tegensprekelijke overname wordt zowel door de vertrekkende klant als door de volgende klant ondertekend, en wordt onverwijld aan de exploitant bezorgd, die een eindfactuur opstelt.<br /><br />De exploitant bevestigt aan zowel de vertrekkende klant als de opvolgende klant de tegensprekelijke overname.<br /><br />Bij ontstentenis van een tegensprekelijke overname is de overname van de sanering gekoppeld aan de overname, in eigendom of huur, van het onroerend goed waarmee de private waterwinning verbonden is.<br /><br />§ 4. Voor de klant die uitsluitend over een aansluiting op het openbaar waterdistributienetwerk beschikt is de opzegging van de sanering gekoppeld aan de opzegging van de waterlevering. De regels, vermeld in artikel 2, zijn overeenkomstig van toepassing.<br /><br />Voor de klant die zowel over een aansluiting op het openbaar waterdistributienetwerk beschikt als over een private waterwinning is de opzegging van de sanering gekoppeld aan de opzegging van de waterlevering en de afmelding van de private waterwinning. De regels in artikel 2 zijn overeenkomstig van toepassing. De klant die zowel over een aansluiting op het openbaar waterdistributienetwerk beschikt als over een private waterwinning kan de aansluiting op het openbaar waterdistributienetwerk opzeggen respectievelijk de private waterwinning afmelden, los van de opzegging van de huisaansluiting.<br /><br />Voor de klant die uitsluitend over een private waterwinning beschikt en die aangesloten is op het openbaar saneringsnetwerk is de opzegging van de sanering gekoppeld aan de afmelding van de private waterwinning.<br /><br />§ 5. Een verzoek tot afkoppeling, buitendienststelling of verwijdering van de huisaansluiting op het openbaar saneringsnetwerk moet door de klant gericht worden aan de exploitant en is alleen mogelijk als de klant kan aantonen dat hij voldoet aan de wettelijke en reglementaire verplichtingen inzake de afvoer en zuivering van afvalwater en niet-verontreinigd hemelwater. De afkoppeling en uitname worden uitgevoerd op kosten van de klant.<br /><br />De exploitant kan om redenen van volksgezondheid, veiligheid of de goede werking van het openbaar saneringsnetwerk de huisaansluiting of de individuele sanering altijd afkoppelen en geheel of gedeeltelijk verwijderen. De kosten hiervoor zijn niet ten laste van de klant of titularis tenzij door deze een aantoonbare fout werd begaan die in oorzakelijk verband staat met de reden voor de afkoppeling of met de gehele of gedeeltelijke verwijdering van de huisaansluiting of de individuele sanering.<br /><br />De exploitant beslist over de wijze van afkoppeling en over de gehele of gedeeltelijke verwijdering van de huisaansluitingen of de individuele sanering.<br /><br />§ 6. Wanneer de exploitant een contract sluit zoals voorzien in artikel 8, tweede lid van dit besluit, zijn, in afwijking van artikel 8, derde lid van dit besluit, de paragrafen 2 tot en met 4 van dit artikel van toepassing in de verhouding van de klant tot de exploitant zoals bedoeld in artikel 1, 6°.<br /><br />Ten aanzien van de betrokken gemeente, het betrokken gemeentebedrijf, de betrokken intercommunale of het betrokken intergemeentelijk samenwerkingsverband of de betrokken door de gemeente na een publieke marktbevraging aangestelde entiteit gelden, desgevallend beperkt tot die aangelegenheden waarvoor deze contractueel verantwoordelijk zijn, de in dit besluit vermelde verplichtingen van de klant van zodra en zolang de klant op enigerlei wijze, niet noodzakelijk doorlopend, gebruik maakt van of aangesloten is op het openbaar saneringsnetwerk.<br /><br />
+§ 1. Alleen de exploitant of zijn aangestelde mag de huisaansluiting plaatsen, wijzigen, versterken, verplaatsen, wegnemen, onderhouden, herstellen, in dienst stellen en buiten dienst stellen, of werkzaamheden daarvoor laten uitvoeren. De huisaansluiting is eigendom van de exploitant, zonder afbreuk te doen aan bestaande zakelijke rechten die voor de inwerkingtreding van dit besluit zijn gevestigd.<br>
+<br>
+De exploitant of zijn aangestelde zorgt voor de goede uitvoering ervan en draagt de kosten. Als de werkzaamheden door de klant of titularis aangevraagd worden of als ze noodzakelijk zijn door schade of storing die de klant of titularis heeft aangericht, kan de exploitant daarvoor een bijdrage van de klant vragen.<br>
+<br>
+Principieel wordt per onroerend goed in één huisaansluiting voor de afvoer van afvalwater en, als dat van toepassing is, in één huisaansluiting voor de afvoer van niet-verontreinigd hemelwater voorzien. Als de aanvrager meer huisaansluitingen wil, bepaalt de exploitant in overleg met hem het aantal huisaansluitingen en legt hij de voorwaarden vast.<br>
+<br>
+Een verzoek tot aansluiting op het openbaar saneringsnetwerk moet altijd worden gericht tot de exploitant. Afhankelijk van de situatie verwijst de exploitant de aanvrager door naar de gemeente voor een voorafgaande goedkeuring tot aansluiting.<br>
+<br>
+Behoudens uitdrukkelijke en voorafgaande weigering van de titularis acht de exploitant het bewezen dat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk het akkoord van de titularis daarvoor heeft verkregen.<br>
+<br>
+De exploitant gaat over tot effectieve aansluiting op het openbaar saneringsnetwerk nadat de aanvrager van een verzoek tot aansluiting op het openbaar saneringsnetwerk zich akkoord heeft verklaard met de wijze van aanrekening van de kosten, het algemeen waterverkoopreglement en indien van toepassing het bijzonder waterverkoopreglement.<br>
+<br>
+§ 2. De verplichtingen van de klant gaan in vanaf de datum van de (her)ingebruikname van de waterlevering, de ingebruikname van de private waterwinning als de klant beschikt over een aansluiting op het openbaar saneringsnetwerk of, voor de klant die beschikt over een private waterwinning voordat het openbaar saneringsnetwerk beschikbaar was, wanneer het openbaar saneringsnetwerk beschikbaar is.<br>
+<br>
+§ 3. De overname van de sanering is gekoppeld aan de overname van de waterlevering. Dat geldt tevens voor de sanering van het afvalwater dat afkomstig is van de private waterwinning wanneer de klant aangesloten is op het openbaar waterdistributienetwerk. De overeenkomstige regels, vermeld in artikel 2, zijn van toepassing.<br>
+<br>
+Wanneer de klant die aangesloten is op het openbaar saneringsnetwerk uitsluitend over een private waterwinning beschikt, kan er een tegensprekelijke overname gebeuren. Bij een tegensprekelijke overname worden de volgende gegevens, ondertekend door zowel de vertrekkende als de volgende klant, aan de exploitant verstrekt :<br>
+1° de datum van de overname;<br>
+2° de contactgegevens van de vertrekkende klant, inclusief het verzendingsadres van de vertrekkende klant;<br>
+3° voor zover beschikbaar, een bankrekeningnummer van de vertrekkende klant voor een eventuele terugbetaling;<br>
+4° de contactgegevens van de volgende klant;<br>
+5° het rijksregisternummer of het ondernemingsnummer, met specificering van de aard van de bedrijfsactiviteit, van de opvolgende klant.<br>
+<br>
+De tegensprekelijke overname wordt zowel door de vertrekkende klant als door de volgende klant ondertekend, en wordt onverwijld aan de exploitant bezorgd, die een eindfactuur opstelt.<br>
+<br>
+De exploitant bevestigt aan zowel de vertrekkende klant als de opvolgende klant de tegensprekelijke overname.<br>
+<br>
+Bij ontstentenis van een tegensprekelijke overname is de overname van de sanering gekoppeld aan de overname, in eigendom of huur, van het onroerend goed waarmee de private waterwinning verbonden is.<br>
+<br>
+§ 4. Voor de klant die uitsluitend over een aansluiting op het openbaar waterdistributienetwerk beschikt is de opzegging van de sanering gekoppeld aan de opzegging van de waterlevering. De regels, vermeld in artikel 2, zijn overeenkomstig van toepassing.<br>
+<br>
+Voor de klant die zowel over een aansluiting op het openbaar waterdistributienetwerk beschikt als over een private waterwinning is de opzegging van de sanering gekoppeld aan de opzegging van de waterlevering en de afmelding van de private waterwinning. De regels in artikel 2 zijn overeenkomstig van toepassing. De klant die zowel over een aansluiting op het openbaar waterdistributienetwerk beschikt als over een private waterwinning kan de aansluiting op het openbaar waterdistributienetwerk opzeggen respectievelijk de private waterwinning afmelden, los van de opzegging van de huisaansluiting.<br>
+<br>
+Voor de klant die uitsluitend over een private waterwinning beschikt en die aangesloten is op het openbaar saneringsnetwerk is de opzegging van de sanering gekoppeld aan de afmelding van de private waterwinning.<br>
+<br>
+§ 5. Een verzoek tot afkoppeling, buitendienststelling of verwijdering van de huisaansluiting op het openbaar saneringsnetwerk moet door de klant gericht worden aan de exploitant en is alleen mogelijk als de klant kan aantonen dat hij voldoet aan de wettelijke en reglementaire verplichtingen inzake de afvoer en zuivering van afvalwater en niet-verontreinigd hemelwater. De afkoppeling en uitname worden uitgevoerd op kosten van de klant.<br>
+<br>
+De exploitant kan om redenen van volksgezondheid, veiligheid of de goede werking van het openbaar saneringsnetwerk de huisaansluiting of de individuele sanering altijd afkoppelen en geheel of gedeeltelijk verwijderen. De kosten daarvoor zijn niet ten laste van de klant of titularis, behalve in de volgende gevallen :<br>
+1° ze kunnen in causaal verband worden gebracht met een aantoonbare fout van de klant of titularis;<br>
+2° ze zijn gekoppeld aan een melding van de afbraak van een gebouw.<br>
+<br>
+De exploitant beslist over de wijze van afkoppeling en over de gehele of gedeeltelijke verwijdering van de huisaansluitingen of de individuele sanering.<br>
+<br>
+§ 6. Wanneer de exploitant een contract sluit zoals voorzien in artikel 8, tweede lid van dit besluit, zijn, in afwijking van artikel 8, derde lid van dit besluit, de paragrafen 2 tot en met 4 van dit artikel van toepassing in de verhouding van de klant tot de exploitant zoals bedoeld in artikel 1, 6°.<br>
+<br>
+Ten aanzien van de betrokken gemeente, het betrokken gemeentebedrijf, de betrokken intercommunale of het betrokken intergemeentelijk samenwerkingsverband of de betrokken door de gemeente na een publieke marktbevraging aangestelde entiteit gelden, desgevallend beperkt tot die aangelegenheden waarvoor deze contractueel verantwoordelijk zijn, de in dit besluit vermelde verplichtingen van de klant van zodra en zolang de klant op enigerlei wijze, niet noodzakelijk doorlopend, gebruik maakt van of aangesloten is op het openbaar saneringsnetwerk.<br>
+&nbsp;
 
 ### ART. 11.
 
@@ -210,7 +259,22 @@ Wanneer de exploitant een contract sluit zoals bedoeld in het tweede lid, dient 
 
 ### ART. 13.
 
-§ 1. De watermeterstand wordt opgenomen door de exploitant of zijn aangestelde, of, in voorkomend geval, door de klant zelf op de wijze die de exploitant vaststelt. De stand van de watermeter is bindend. De exploitant zorgt ervoor dat de klant automatisch of via de door hem aangestelde die de meterstand opneemt, geïnformeerd wordt als het verbruik, herrekend op jaarbasis, met minimum 50 % en met minstens 100 m3 is toegenomen ten opzichte van de vorige verbruiksperiode.<br /><br />Als er geen watermeterstand verkregen werd of als de watermeter defect is, buiten gebruik is of verdwenen is, als hij om technische redenen niet meer kan worden getest of als de aftakking tijdelijk niet van een watermeter voorzien is, wordt het verbruikte volume berekend op basis van het geraamde of bij vorige opnames genoteerde verbruik. De exploitant kan evenwel rekening houden met het door de nieuwe watermeter aangegeven verbruik. Daarbij wordt rekening gehouden met elementen die aangevoerd zijn door beide partijen.<br /><br />§ 2. Als de klant een hoog verbruik van water, bestemd voor menselijke consumptie, vaststelt bij de opgave van de meterstand of bij de ontvangst van de jaarfactuur of eindfactuur, dat niet kan worden verklaard door gewijzigde afnamekarakteristieken, kan hij binnen de zes maanden na de factuurdatum van de jaarfactuur of eindfactuur contact opnemen met de exploitant.<br /><br />De exploitant hoeft niet aan te tonen of te verklaren waarvoor het geleverde water bestemd voor menselijke consumptie werd gebruikt.<br /><br />De exploitant adviseert de klant over te nemen maatregelen. Als uit een vergelijking met het watergebruik in voorafgaande perioden of op basis van kencijfers over het watergebruik vastgesteld kan worden dat het om een afwijkend verbruik gaat, voert de exploitant, ingeval het meerverbruik, herrekend op jaarbasis, minimum 50 % en minstens 100 m3 bedraagt, binnen een redelijke termijn in onderling overleg kosteloos op verzoek en in aanwezigheid van de klant een eerste controleonderzoek uit waarbij de oorzaak van het afwijkende verbruik wordt onderzocht.<br /><br />In geval van twijfel over de goede werking van de watermeter voert de exploitant een controleonderzoek uit. Bij aangehouden betwisting heeft zowel de exploitant, als de klant het recht de technische controle van de watermeter te laten verrichten volgens de wettelijke reglementering op de metrologie. Als de aan de controle onderworpen watermeter conform de normen wordt bevonden, zoals die vermeld worden in de reglementering die van toepassing is, zijn de integrale kosten met betrekking tot de technische controle ten laste van de klant. Als de watermeter niet conform is, worden de kosten van de technische controle door de exploitant gedragen. Afhankelijk van de resultaten van een controle van de watermeter kan de betwiste facturering worden herzien. Het verschil zal niet verrekend worden als het rekenkundig gemiddelde van de gemeten procentuele afwijkingen van de onderzochte watermeter binnen de desbetreffende metrologische normen valt.<br /><br />
+§ 1. De watermeterstand wordt opgenomen door de exploitant of zijn aangestelde, of, in voorkomend geval, door de klant zelf op de wijze die de exploitant vaststelt. De stand van de watermeter is bindend. De exploitant zorgt ervoor dat de klant automatisch of via de door hem aangestelde die de meterstand opneemt, geïnformeerd wordt als het verbruik, herrekend op jaarbasis, met minimum 50 % en met minstens 100 m3 is toegenomen ten opzichte van de vorige verbruiksperiode.<br>
+<br>
+Als er geen watermeterstand verkregen werd of als de watermeter defect is, buiten gebruik is of verdwenen is, als hij om technische redenen niet meer kan worden getest of als de aftakking tijdelijk niet van een watermeter voorzien is, wordt het verbruikte volume berekend op basis van het bij vorige opnames genoteerde verbruik. Als die gegevens niet beschikbaar zijn, berekent de exploitant het verbruik op basis van de beschikbare parameters of kencijfers. De exploitant kan evenwel rekening houden met het door de nieuwe watermeter aangegeven verbruik. Daarbij wordt rekening gehouden met elementen die aangevoerd zijn door beide partijen. Als de klant twee opeenvolgende verbruiksjaren zijn meterstand niet doorgeeft en niet ingaat op de uitnodigingen van de exploitant om de meterstand ter plaatse op te nemen, kan het verbruik, tot op het moment dat de werkelijke meterstand wordt verkregen, berekend worden op basis van een raming waarbij naast de verbruiksparameters en kencijfers andere reële risico's op een onderschatting van het factureerbare waterverbruik in acht kunnen worden genomen. Een dergelijke raming bedraagt maximaal 150% van het verbruik dat geraamd is op basis van de beschikbare parameters of kencijfers of van het voorgaande geraamde verbruik.<br>
+<br>
+De exploitant informeert de klant schriftelijk bij de laatste oproep om de meterstand door te geven, dat het niet-doorgeven ervan aanleiding geeft tot een verbruiksfactuur die wordt opgemaakt op basis van een geraamd verbruik. De exploitant vermeldt de redenen waarom de raming wordt toegepast, de gehanteerde parameters en kencijfers en de stappen die de klant kan ondernemen om een dergelijke raming kosteloos te vermijden.<br>
+<br>
+De exploitant vermeldt de raming ook op de verbruiksfactuur conform artikel 17.<br>
+<br>
+§ 2. Als de klant een hoog verbruik van water, bestemd voor menselijke consumptie, vaststelt bij de opgave van de meterstand of bij de ontvangst van de jaarfactuur of eindfactuur, dat niet kan worden verklaard door gewijzigde afnamekarakteristieken, kan hij binnen de zes maanden na de factuurdatum van de jaarfactuur of eindfactuur contact opnemen met de exploitant.<br>
+<br>
+De exploitant hoeft niet aan te tonen of te verklaren waarvoor het geleverde water bestemd voor menselijke consumptie werd gebruikt.<br>
+<br>
+De exploitant adviseert de klant over te nemen maatregelen. Als uit een vergelijking met het watergebruik in voorafgaande perioden of op basis van kencijfers over het watergebruik vastgesteld kan worden dat het om een afwijkend verbruik gaat, voert de exploitant, ingeval het meerverbruik, herrekend op jaarbasis, minimum 50 %&nbsp;of minstens 100 m3 bedraagt, binnen een redelijke termijn in onderling overleg kosteloos op verzoek en in aanwezigheid van de klant een eerste controleonderzoek uit waarbij de oorzaak van het afwijkende verbruik wordt onderzocht.<br>
+<br>
+In geval van twijfel over de goede werking van de watermeter voert de exploitant een controleonderzoek uit. Bij aangehouden betwisting heeft zowel de exploitant, als de klant het recht de technische controle van de watermeter te laten verrichten volgens de wettelijke reglementering op de metrologie. Als de aan de controle onderworpen watermeter conform de normen wordt bevonden, zoals die vermeld worden in de reglementering die van toepassing is, zijn de integrale kosten met betrekking tot de technische controle ten laste van de klant. Als de watermeter niet conform is, worden de kosten van de technische controle door de exploitant gedragen. Afhankelijk van de resultaten van een controle van de watermeter kan de betwiste facturering worden herzien. Het verschil zal niet verrekend worden als het rekenkundig gemiddelde van de gemeten procentuele afwijkingen van de onderzochte watermeter binnen de desbetreffende metrologische normen valt.<br>
+&nbsp;
 
 ### ART. 14.
 
@@ -299,7 +363,7 @@ Op of bij de verbruiksfactuur en de eindfactuur met betrekking tot het waterverb
 1° de naam van de klant;<br>
 2° het leveringsadres en, in geval van een private waterwinning, het adres van de private waterwinning;<br>
 3° de periode waarop de factuur betrekking heeft;<br>
-4° het vastgestelde verbruik in die periode;<br>
+4° het vastgestelde verbruik in die periode of indien van toepassing het geraamde verbruik, dat duidelijk vermeld wordt;<br>
 5° het vastgestelde verbruik van het geleverde water in de vorige vergelijkbare verbruiksperiode;<br>
 6° het aantal in rekening gebrachte gedomicilieerde personen, als dat van toepassing is;<br>
 7° als dat van toepassing is, het vastgestelde of forfaitair bepaalde verbruik van water, afkomstig van een private waterwinning, in die periode;<br>
@@ -307,7 +371,7 @@ Op of bij de verbruiksfactuur en de eindfactuur met betrekking tot het waterverb
 9° het vastrecht met duidelijke vermelding van de berekening ervan per component van de integrale waterfactuur;<br>
 10° de variabele prijs met duidelijke vermelding van de berekening ervan per component van de integrale waterfactuur;<br>
 11° de andere vergoedingen die worden aangerekend;<br>
-12° het totale bedrag, dat bestaat uit de kostprijs van het verbruikte water, bestemd voor menselijke consumptie, de gemeentelijke en bovengemeentelijke saneringsbijdrage en de gemeentelijke en bovengemeentelijke saneringsvergoeding, als die van toepassing zijn;<br>
+12° het totale bedrag, dat bestaat uit de kostprijs van het verbruikte water, bestemd voor menselijke consumptie, de gemeentelijke en bovengemeentelijke bijdrage en de gemeentelijke en bovengemeentelijke vergoeding, als die van toepassing zijn;<br>
 13° de btw;<br>
 14° het al aangerekende bedrag via aanbetalingen of tussentijdse facturen;<br>
 15° de factuurdatum;<br>
@@ -323,37 +387,43 @@ De exploitant bezorgt op verzoek van de klant kosteloos een duplicaat van de fac
 <br>
 De exploitant bezorgt op verzoek van de klant kosteloos een meer gedetailleerd document ter verduidelijking van de verbruiksfactuur of eindfactuur. Een dergelijk document kan door de klant worden opgevraagd binnen een termijn van vierentwintig maanden vanaf de factuurdatum. Het document bevat minimaal informatie over de verschillende componenten. Voor de klanten, vermeld in artikel 4.3.2.1 van het decreet van 18 juli 2003, wordt minstens een gedetailleerde toelichting gegeven bij de berekeningswijze van de saneringscomponent en de bijbehorende relevante achtergrondinformatie.<br>
 <br>
+De exploitant bezorgt aan de klant van wie de initiële verbruiksfactuur gebaseerd is op een geraamd verbruik conform artikel 13, § 1, kosteloos een aangepaste factuur op basis van de doorgegeven meterstand als de klant die alsnog aanlevert. Die factuuraanpassing wordt aangevraagd binnen zes maanden na de dag waarop de initiële factuur is opgemaakt.<br>
+<br>
 § 2. De exploitant heeft het recht om tussentijds aan te rekenen op het waterverbruik en op de bijdrage of de vergoeding voor sanering. Deze tussentijdse aanrekening komt in mindering van de verbruiksfactuur of de eindfactuur. Het aan te rekenen bedrag wordt bepaald op basis van de voorafgaande afnamekarakteristieken van de klant. Op verzoek van de klant kan het aangerekende bedrag worden aangepast op basis van een wijziging in de afnamekarakteristieken.<br>
 <br>
 De tussentijdse aanrekening gebeurt via een aanbetaling of een tussentijdse factuur. De exploitant bepaalt de betalingsvoorwaarde van de aanbetaling. De klant, die zich niet akkoord verklaart met een aanbetaling, ontvangt een tussentijdse factuur.<br>
 <br>
 De klant heeft het recht om op zijn vraag een aanbetaling te doen of een tussentijdse factuur te ontvangen. De frequentie is hierbij driemaandelijks.<br>
 <br>
-Op een tussentijdse factuur moeten ten minste de volgende gegevens medegedeeld worden :<br>
+Een tussentijdse factuur bevat ten minste de volgende gegevens :<br>
 1° de naam van de klant;<br>
 2° het leveringsadres of het adres van de private waterwinning;<br>
 3° de periode waarop de factuur betrekking heeft;<br>
-4° het totale bedrag, dat bestaat uit de kostprijs van het geraamde verbruik water, bestemd voor menselijke consumptie, de gemeentelijke en bovengemeentelijke saneringsbijdrage en de gemeentelijke en bovengemeentelijke saneringsvergoeding als die van toepassing zijn;<br>
-6° de factuurdatum;<br>
-7° de uiterste betalingsdatum;<br>
-8° informatie over de gevolgen bij laattijdige betaling;<br>
-9° de gegevens van het contactpunt waar de klant terecht kan als hij vragen heeft over de factuur.<br>
+4° het totale bedrag, dat bestaat uit de kostprijs van het geraamde verbruik water, bestemd voor menselijke consumptie, de gemeentelijke en bovengemeentelijke bijdrage en de gemeentelijke en bovengemeentelijke vergoeding als die van toepassing zijn;<br>
+5° de factuurdatum;<br>
+6° de uiterste betalingsdatum;<br>
+7° informatie over de gevolgen bij laattijdige betaling;<br>
+8° de gegevens van het contactpunt waar de klant terechtkan als hij vragen heeft over de factuur.<br>
 <br>
 § 3. De facturen voor andere door de exploitant geleverde diensten met betrekking tot de waterlevering, bijvoorbeeld werkzaamheden aan de aftakking, of eventuele beginfacturen zijn eveneens gemakkelijk verstaanbaar en volledig.<br>
 <br>
-§ 4. De uiterste betalingsdatum die op bovenvermelde facturen vermeld wordt, valt niet vroeger dan vijftien kalenderdagen na ontvangst. De factuur wordt geacht ontvangen te zijn op de derde werkdag na de factuurdatum. Als de klant na het verstrijken van de uiterste betalingsdatum niet heeft betaald, stuurt de exploitant hem een herinneringsbrief. In de herinneringsbrief vermeldt de exploitant de procedure voor ingebrekestelling, vermeld in § 5.<br>
+§ 4. De uiterste betalingsdatum die op de bovenvermelde facturen vermeld wordt, valt niet vroeger dan dertig dagen na de factuurdatum.<br>
 <br>
-§ 5. Als de klant na het verstrijken van de uiterste datum voor het treffen van een regeling voor de betaling van de openstaande rekeningen, maar met een minimumtermijn van vijftien kalenderdagen na de verzending van de herinneringsbrief, nog geen regeling heeft getroffen voor de betaling van de openstaande rekening, stelt de exploitant de klant in gebreke met een aangetekende brief.<br>
+De klant kan binnen dertig dagen na de factuurdatum betalingsuitstel vragen, waardoor de uiterste betalingsdatum minimaal met een termijn van vijftien dagen eenmalig verlaat wordt.<br>
 <br>
-§ 6. De exploitant vermeldt zowel in de herinneringsbrief als in de ingebrekestelling de volgende gegevens :<br>
+Als de klant niet heeft betaald nadat de uiterste betalingsdatum verstreken is, stuurt de exploitant hem kosteloos een eerste schriftelijke herinnering. In de herinnering vermeldt de exploitant de procedure voor ingebrekestelling, vermeld in paragraaf 5.<br>
+<br>
+§ 5. Als de klant na het verstrijken van de uiterste datum voor het treffen van een regeling voor de betaling van de openstaande rekeningen, maar met een minimumtermijn van vijftien kalenderdagen na de verzending van de eerste schriftelijke herinnering, nog geen regeling heeft getroffen voor de betaling van de openstaande rekening, stelt de exploitant de klant in gebreke met een aangetekende brief.<br>
+<br>
+§ 6. De exploitant vermeldt zowel in de eerste schriftelijke herinnering als in de ingebrekestelling de volgende gegevens :<br>
 1° de naam en het telefoonnummer van zijn bevoegde dienst;<br>
 2° de van toepassing zijnde mogelijkheden om in geval van betalingsmoeilijkheden een regeling te treffen voor de betaling van de openstaande rekeningen. Die mogelijkheden kunnen zijn :<br>
 a) de uitwerking van een afbetalingsplan met de exploitant;<br>
 b) de uitwerking van een afbetalingsplan via het OCMW;<br>
 c) de uitwerking van een afbetalingsplan via een erkende instelling voor schuldbemiddeling;<br>
-3° de procedure voor het afsluiten van de watertoevoer.<br>
+3° de procedure voor de begrenzing van het debiet en het afsluiten van de watertoevoer.<br>
 <br>
-Alle kosten die voortvloeien uit het feit dat de klant de facturen niet betaalt binnen de gestelde termijnen, alsook de verwijlintresten, berekend tegen de wettelijke rentevoet vanaf de datum van ingebrekestelling, kunnen aan de klant worden aangerekend.<br>
+Alle kosten, tenzij anders gespecificeerd in het decreet van 18 juli 2003 en in dit besluit, die voortvloeien uit het feit dat de klant de facturen niet betaalt binnen de gestelde termijnen, alsook de verwijlintresten, berekend tegen de wettelijke rentevoet vanaf de datum van ingebrekestelling, kunnen aan de klant worden aangerekend. De exploitant hanteert overeenkomstige betaaltermijnen en regelingen voor kosten en verwijlinteresten ten aanzien van de klant die recht heeft op tegoeden.<br>
 <br>
 Indien de huishoudelijke klant gebruik wenst de maken van de mogelijkheid om via het O.C.M.W. of een erkende instelling voor schuldbemiddeling een afbetalingsplan uit te werken, maakt hij schriftelijk zijn keuze over aan de exploitant. De exploitant maakt, afhankelijk van de keuze van huishoudelijke klant, het betalingsdossier over aan het O.C.M.W. van diens woonplaats of aan de door de huishoudelijke klant aangeduide erkende instelling voor schuldbemiddeling.<br>
 <br>
@@ -373,11 +443,52 @@ b) een afbetalingsplan aanvaard;<br>
 
 ### ART. 18.
 
-§ 1. Klanten die niet akkoord gaan met een of meer elementen van de factuur, wenden zich tot de exploitant. De exploitant behandelt de klacht volgens de bepalingen van artikel 26, § 3, van dit besluit.<br /><br />§ 2. Als de bedragen die van de klant gevorderd worden verkeerd of onvolledig zijn, voert de exploitant een rechtzetting uit op eigen initiatief of op verzoek van de klant. De klant blijft in dat geval wel gehouden tot betaling van de niet-betwiste bedragen.<br /><br />Voor de rechtzetting van verschuldigde bedragen kan maximaal vierentwintig maanden in de tijd worden teruggegaan te tellen vanaf de factuurdatum. Daarop kan een uitzondering worden gemaakt : op basis van de resultaten van de controle van de watermeter kan de betwiste verbruiksfacturering worden herzien als de watermeter buiten de metrologische normen valt. Eventuele aanpassingen ten gevolge van de aanvraag tot vrijstelling van de gemeentelijke of bovengemeentelijke vergoeding of bijdrage worden niet beschouwd als een rechtzetting.<br /><br />§ 3. Als de rechtzetting in het voordeel is van de exploitant, ontvangt de klant een rechtzettingsfactuur of, in geval van een voorafgaande betaling door de klant, een aanvullende factuur. De uiterste betalingsdatum van die factuur valt niet vroeger dan vijftien kalenderdagen na de verzending ervan.<br /><br />Als de rechtzetting in het voordeel is van de klant, ontvangt hij een rechtzettingsfactuur waarop een uiterste betalingsdatum wordt vermeld die niet vroeger is dan vijftien kalenderdagen na de verzending van de factuur. In geval van voorafgaande betaling door de klant kan het verschuldigde bedrag in mindering komen van de daaropvolgende voorschotfactuur of integrale waterfactuur. Op eenvoudig verzoek van de klant betaalt de exploitant hem het verschuldigde bedrag binnen de daaropvolgende tien werkdagen terug. De klant krijgt binnen één maand na het verzoek tot rechtzetting uitsluitsel van de exploitant.<br /><br />
+§ 1. Klanten die niet akkoord gaan met een of meer elementen van de factuur, wenden zich tot de exploitant. De exploitant behandelt de klacht volgens de bepalingen van artikel 26, § 3, van dit besluit.<br>
+<br>
+§ 2. Als de bedragen die van de klant gevorderd worden verkeerd of onvolledig zijn, voert de exploitant een rechtzetting uit op eigen initiatief of op verzoek van de klant. De klant blijft in dat geval wel gehouden tot betaling van de niet-betwiste bedragen.<br>
+<br>
+Voor de rechtzetting van verschuldigde bedragen kan maximaal vierentwintig maanden in de tijd worden teruggegaan te tellen vanaf de factuurdatum. Daarop kan een uitzondering worden gemaakt : op basis van de resultaten van de controle van de watermeter kan de betwiste verbruiksfacturering worden herzien als de watermeter buiten de metrologische normen valt. Eventuele aanpassingen ten gevolge van de aanvraag van het sociaal tarief of de vrijstelling, vermeld in artikel 4.3.3.1, artikel 4.3.3.2 tot en met 4.3.3.4 van het decreet van 18 juli 2003, en artikel 27/2 van dit besluit, worden niet beschouwd als een rechtzetting.<br>
+<br>
+§ 3. Als de rechtzetting in het voordeel is van de exploitant, ontvangt de klant een rechtzettingsfactuur of, in geval van een voorafgaande betaling door de klant, een aanvullende factuur. De uiterste betalingsdatum van die factuur valt niet vroeger dan vijftien kalenderdagen na de verzending ervan.<br>
+<br>
+Als de rechtzetting in het voordeel is van de klant, ontvangt hij een rechtzettingsfactuur waarop een uiterste betalingsdatum wordt vermeld die niet vroeger is dan vijftien kalenderdagen na de verzending van de factuur. In geval van voorafgaande betaling door de klant kan het verschuldigde bedrag in mindering komen van de daaropvolgende voorschotfactuur of integrale waterfactuur. Op eenvoudig verzoek van de klant betaalt de exploitant hem het verschuldigde bedrag binnen de daaropvolgende tien werkdagen terug. De klant krijgt binnen één maand na het verzoek tot rechtzetting uitsluitsel van de exploitant.<br>
+&nbsp;
 
 ### ART. 19.
 
-De klant kan binnen zes maanden na de factuurdatum van de verbruiksfactuur   of eindfactuur een verzoek tot minnelijke schikking indienen bij de exploitant   in geval van een afwijkend verbruik.<BR><BR>De klant blijft gehouden tot   betaling van het deel van de verbruiksfactuur en eindfactuur waarvoor geen   minnelijke schikking werd aangevraagd.<BR><BR>De klant heeft recht op een   minnelijke schikking voor het abnormaal hoge verbruik als aan de volgende   voorwaarden is voldaan :<BR>1° de klant heeft gehandeld als een goede   huisvader;<BR>2° het abnormaal hoge verbruik is het gevolg van een verborgen   oorzaak. Onder een verborgen oorzaak wordt ten minste verstaan :<BR>a) lekken in   ondergrondse leidingen;<BR>b) lekken in leidingen die in de vloer zijn   ingewerkt;<BR>c) lekken in ontoegankelijke kruipruimtes;<BR>d) lekken in een   meterput;<BR>e) mits aan de gangbare wettelijke en technische voorschriften voor   de binneninstallatie is voldaan na herstelling :<BR>1° een overdrukventiel aan   een warmwaterproductie of een waterontharder die blijft lopen;<BR>2° een defect   aan een waterbehandelingsapparaat die meer spoelt dan vroeger, of een   bijvulinstallatie voor regenwater die meer bijvult dan gewenst;<BR>3° het   abnormaal hoge verbruik, herrekend op jaarbasis, moet het gemiddelde   jaarverbruik met minstens 100 % overschrijden en minimaal 100 m<SUP>3</SUP>   bedragen. Als er geen historische verbruiksgegevens bestaan, wordt het   gemiddelde jaarverbruik bepaald via een opname van de meterstand drie maanden na   de herstelling van de oorzaak van het abnormaal hoge verbruik;<BR>4° de oorzaak   van het abnormaal hoge verbruik moet worden vastgesteld door de exploitant of   moet door de klant bewezen worden door de herstellingsfactuur;<BR>5° de oorzaak   van het abnormaal hoge verbruik moet hersteld of weggenomen zijn. De exploitant   kan in dit kader een keuring van de binneninstallatie opleggen waarvan de kosten   ten laste zijn van de klant;<BR>6° er is geen sprake van kwaad opzet of   bedrog;<BR>7° het abnormaal hoge verbruik wordt niet in stand gehouden door een   inbreuk op de gangbare wettelijke en technische voorschriften voor de   binneninstallatie.<BR><BR>Als aan de voorwaarde voor een minnelijke schikking   voor een abnormaal hoog verbruik is voldaan, geldt de volgende regeling :<BR>1°   het gemiddelde jaarverbruik wordt per component aangerekend tegen het berekende   variabele tarief dat van toepassing is;<BR>2° als de klant geen onderneming is   of als de klant een vereniging van mede-eigenaars is die het door de exploitant   geleverde water hoofdzakelijk gebruikt om te voorzien in de huishoudelijk   behoeften, wordt het abnormaal hoge verbruik als volgt aangerekend:<BR>a)   maximaal 50% van het berekende variabele tarief voor het abnormaal hoge verbruik   tot en met 300 m® per wooneenheid;<BR>b) maximaal 10% van het berekende   variabele tarief voor het abnormaal hoge verbruik vanaf 300 m® per   wooneenheid;<BR>3° als de klant een onderneming of een vereniging van   mede-eigenaars is die het door de exploitant geleverde water niet hoofdzakelijk   gebruikt om te voorzien in de huishoudelijke behoeften, wordt het abnormaal hoge   verbruik aangerekend tegen maximaal 50% van het berekende variabele   tarief.<BR><BR>Het berekende variabele tarief per component is de verhouding van   de variabele prijs vermeld op de verbruiksfactuur of eindfactuur waarvoor de   klant een verzoek tot minnelijke schikking indiende bij de exploitant en het   verbruik waarop de verbruiksfactuur of eindfactuur betrekking heeft.<BR><BR>De   exploitant legt een procedure voor een minnelijke schikking vast en bezorgt die   voor kennisgeving aan de toezichthoudende ambtenaar en de economisch   toezichthouder.<BR><BR>
+De klant kan binnen zes maanden na de factuurdatum van de verbruiksfactuur of eindfactuur een verzoek tot minnelijke schikking indienen bij de exploitant in geval van een afwijkend verbruik.<br>
+<br>
+De klant blijft gehouden tot betaling van het deel van de verbruiksfactuur en eindfactuur waarvoor geen minnelijke schikking werd aangevraagd.<br>
+<br>
+De exploitant berekent het abnormaal hoge verbruik, namelijk het totale verbruik van de verbruiksperiode met het abnormaal hoge verbruik, verminderd met het verbruik dat voor de verbruiksperiode in kwestie op basis van het gemiddelde jaarverbruik kon worden verwacht.<br>
+<br>
+De klant heeft recht op een minnelijke schikking voor het abnormaal hoge verbruik als aan de volgende voorwaarden is voldaan :<br>
+1° de klant heeft gehandeld als een goede huisvader;<br>
+2° het abnormaal hoge verbruik is het gevolg van een verborgen oorzaak. Onder een verborgen oorzaak wordt ten minste verstaan :<br>
+a) lekken in ondergrondse leidingen;<br>
+b) lekken in leidingen die in de vloer zijn ingewerkt;<br>
+c) lekken in ontoegankelijke kruipruimtes;<br>
+d) lekken in een meterput;<br>
+e) mits aan de gangbare wettelijke en technische voorschriften voor de binneninstallatie is voldaan na herstelling :<br>
+1° een overdrukventiel aan een warmwaterproductie of een waterontharder die blijft lopen;<br>
+2° een defect aan een waterbehandelingsapparaat die meer spoelt dan vroeger, of een bijvulinstallatie voor regenwater die meer bijvult dan gewenst;<br>
+3° het abnormaal hoge verbruik, herrekend op jaarbasis, moet het gemiddelde jaarverbruik met minstens&nbsp;50 % overschrijden&nbsp;of minimaal 100 m<sup>3</sup> bedragen. Als er geen historische verbruiksgegevens bestaan, wordt het gemiddelde jaarverbruik bepaald via een opname van de meterstand drie maanden na de herstelling van de oorzaak van het abnormaal hoge verbruik;<br>
+4° de oorzaak van het abnormaal hoge verbruik moet worden vastgesteld door de exploitant of moet door de klant bewezen worden door de herstellingsfactuur;<br>
+5° de oorzaak van het abnormaal hoge verbruik moet hersteld of weggenomen zijn. De exploitant kan in dit kader een keuring van de binneninstallatie opleggen waarvan de kosten ten laste zijn van de klant;<br>
+6° er is geen sprake van kwaad opzet of bedrog;<br>
+7° het abnormaal hoge verbruik wordt niet in stand gehouden door een inbreuk op de gangbare wettelijke en technische voorschriften voor de binneninstallatie.<br>
+<br>
+Als aan de voorwaarde voor een minnelijke schikking voor een abnormaal hoog verbruik is voldaan, geldt de volgende regeling :<br>
+1° het gemiddelde jaarverbruik wordt per component aangerekend tegen het berekende variabele tarief dat van toepassing is;<br>
+2° als de klant geen onderneming is of als de klant een vereniging van mede-eigenaars is die het door de exploitant geleverde water hoofdzakelijk gebruikt om te voorzien in de huishoudelijk behoeften, wordt het abnormaal hoge verbruik als volgt aangerekend:<br>
+a) maximaal 25% van het berekende variabele tarief voor het abnormaal hoge verbruik tot en met 300 m® per wooneenheid als de klant in de progressieve tariefstructuur zit en maximaal 50% als de klant in de vlakke tariefstructuur zit;<br>
+b) maximaal 5% van het berekende variabele tarief voor het abnormaal hoge verbruik vanaf 300 m® per wooneenheid als de klant in de progressieve tariefstructuur zit en maximaal 10% als de klant in de vlakke tariefstructuur zit;<br>
+3° als de klant een onderneming of een vereniging van mede-eigenaars is die het door de exploitant geleverde water niet hoofdzakelijk gebruikt om te voorzien in de huishoudelijke behoeften, wordt het abnormaal hoge verbruik aangerekend tegen maximaal 25% van het berekende variabele tarief als de klant in de progressieve tariefstructuur zit en maximaal 50% als de klant in de vlakke tariefstructuur zit.<br>
+<br>
+Het berekende variabele tarief per component is de verhouding van de variabele prijs vermeld op de verbruiksfactuur of eindfactuur waarvoor de klant een verzoek tot minnelijke schikking indiende bij de exploitant en het verbruik waarop de verbruiksfactuur of eindfactuur betrekking heeft.<br>
+<br>
+De exploitant legt een procedure voor een minnelijke schikking vast en bezorgt die voor kennisgeving aan de toezichthoudende ambtenaar en de economisch toezichthouder.<br>
+&nbsp;
 
 ### ART. 20.
 
@@ -455,17 +566,17 @@ De exploitant stelt, als dat van toepassing is, aan het bevoegde openbaar   cent
 
 ### ART. 27/2.
 
-<p>Voor de huishoudelijke klant die voldoet aan een of meer van de voorwaarden, vermeld in artikel 4.3.2.1, van het decreet van 18 juli 2003, past de exploitant een sociaal tarief toe op de drinkwatercomponent dat een vijfde bedraagt voor zowel het vastrecht als de variabele prijs, vermeld in het decreet van 18 juli 2003.<br>
+<p>Voor de huishoudelijke klant die voldoet aan een of meer van de voorwaarden, vermeld in artikel 16sexies, § 1, van het decreet van 24 mei 2002, past de exploitant een sociaal tarief toe op de drinkwatercomponent dat een vijfde bedraagt voor zowel het vastrecht als de variabele prijs, vermeld in het decreet van 24 mei 2002.<br>
 <br>
-De verbruiker die met toepassing van de artikelen 4.3.2.1 en 4.3.2.2, van het decreet van 18 juli 2003, compensatiegerechtigd is, ontvangt van de exploitant een financiële compensatie voor zijn aandeel in de drinkwatercomponent. De voorwaarden en procedures, vermeld in artikel 4.3.2.2, van het decreet van 18 juli 2003, gelden voor de toekenning en de verlening van die compensatie.<br>
+De verbruiker die met toepassing van artikel 16sexies, § 2 en § 3, van het decreet van 24 mei 2002, compensatiegerechtigd is, ontvangt van de exploitant een financiële compensatie voor zijn aandeel in de drinkwatercomponent. De voorwaarden en procedures, vermeld in artikel 16sexies, § 3, van het decreet van 24 mei 2002, gelden voor de toekenning en de verlening van die compensatie.<br>
 <br>
-Het bedrag van de compensatie wordt als volgt bepaald: Cd = Ad + M x 30 m³ x T1, waarbij:<br>
+Het bedrag van de compensatie wordt als volgt bepaald: Cd = Ad + M x 30 m® x T1, waarbij:<br>
 1° Cd = de compensatie;<br>
-2° Ad = het vastrecht, vermeld in artikel 4.4.1 van het decreet van 18 juli 2003, vermenigvuldigd met 0,80;<br>
+2° Ad = het vastrecht, vermeld in artikel 16quater/4 van het decreet van 24 mei 2002, vermenigvuldigd met 0,80;<br>
 3° M = het aantal gedomicilieerden van het gezin van de compensatiegerechtigde op 1 januari van het kalenderjaar op het domicilieadres van de compensatiegerechtigde;<br>
 4° T1 = het tarief, vermeld in artikel 14/1, § 3, van dit besluit, vermenigvuldigd met 0,80.<br>
 <br>
-Voor de saneringscomponent zijn de vrijstellingen of compensaties, vermeld in het decreet van 18 juli 2003, van toepassing.</p>
+Voor de saneringscomponent zijn het sociaal tarief, of compensaties, vermeld in het decreet van 18 juli 2003, van toepassing.</p>
 
 ### ART. 27/3.
 
