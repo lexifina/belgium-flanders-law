@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032286,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-07 houdende de overdracht van de personeelsleden het Agentschap Wegen en Verkeer aan het Departement Mobiliteit en Openbare Werken en de Vlaamse Waterweg nv en de overdracht van personeelsleden van het Departement Mobiliteit en Openbare Werken aan het Agentschap Wegen en Verkeer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032286/VolledigDocument?datum=2019-07-01",
+  "source_sha256": "6bf548df08f7cc468d6160385acc98e4171ed5502dc734160f1f986670c238f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032286&param=informatie",
+  "as_of": "2019-07-01",
+  "made": "2019-06-07",
+  "gazette": "2019-09-23",
+  "numac": 2019014455,
+  "document_start": "2019-07-01",
+  "document_end": null,
+  "in_force": "2019-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2019-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
