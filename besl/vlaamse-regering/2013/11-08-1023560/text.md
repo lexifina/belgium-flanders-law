@@ -28,39 +28,62 @@
 
 ### ART. 2.
 
-<P>De typemodules binnen de pleegzorg, vermeld in artikel 3 tot en met 6, worden   naar frequentie, duur, intensiteit, doelgroep, activiteiten en combinaties met   typemodules binnen en buiten de pleegzorg beschreven conform de regels die   daarvoor zijn bepaald bij het besluit van 9 december 2005.<BR></P>  <P>Voor pleeggasten kunnen de typemodules binnen de pleegzorg alleen worden   ingezet als die personen nood hebben aan pleegzorg vanwege psychiatrische   problemen of vanwege een handicap. De diensten voor pleegzorg tonen aan de hand   van een document dat is opgesteld door een arts of met medewerking van een arts,   aan dat aan die voorwaarde voldaan is. Die voorwaarde geldt echter niet als de   toegangspoort voor pleeggasten beslist tot de voortzetting van   jeugdhulpverlening in de vorm van pleegzorg, met toepassing van het decreet van   12 juli 2013 betreffende de integrale jeugdhulp.<BR></P>  <P>In het tweede lid wordt onder handicap verstaan : elk langdurig en belangrijk   participatieprobleem van een persoon dat te wijten is aan het samenspel tussen   functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard,   beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe   factoren.<BR></P>
+<p>De typemodules binnen de pleegzorg, vermeld in artikel 3 tot en met 6, worden naar frequentie, duur, intensiteit, doelgroep, activiteiten en combinaties met typemodules binnen en buiten de pleegzorg beschreven conform de regels die daarvoor zijn bepaald bij het besluit van 9 december 2005.</p>
+
+<p>Voor pleeggasten kunnen de typemodules binnen de pleegzorg alleen worden ingezet als die personen nood hebben aan pleegzorg vanwege psychiatrische problemen of vanwege een handicap. De diensten voor pleegzorg tonen aan de hand van een document dat is opgesteld door een arts of met medewerking van een arts, aan dat aan die voorwaarde voldaan is.</p>
+
+<p>In het tweede lid wordt onder handicap verstaan : elk langdurig en belangrijk participatieprobleem van een persoon dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren.</p>
 
 ### ART. 3.
 
-<P>De typemodules die deel uitmaken van de ondersteunende pleegzorg, zijn :   <BR>1° crisisverblijf in een pleeggezin;<BR>2° verblijf in een pleeggezin   (ondersteunend - lage frequentie); <BR>3° verblijf in een pleeggezin   (ondersteunend - korte duur);<BR>4° begeleiding voor pleeggezinnen, gezinnen,   pleegkinderen of pleeggasten (crisisverblijf);<BR>5° begeleiding voor   pleeggezinnen, gezinnen, pleegkinderen of pleeggasten (ondersteunende   pleegzorg). <BR></P>  <P>Met toepassing van artikel 4 van het decreet van 29 juni 2012 zijn de   typemodules, vermeld in het eerste lid, rechtstreeks toegankelijk.   <BR></P>
+<p>De ondersteunende pleegzorg omvat de volgende typemodules:<br>
+1° crisisverblijf in een pleeggezin;<br>
+2° ondersteunend verblijf in een pleeggezin - lage frequentie;<br>
+3° ondersteunend verblijf in een pleeggezin - korte duur.</p>
+
+<p>Met toepassing van artikel 4 van het decreet van 29 juni 2012 zijn de typemodules, vermeld in het eerste lid, rechtstreeks toegankelijk.</p>
 
 ### ART. 4.
 
-De typemodules die deel uitmaken van de perspectiefzoekende pleegzorg,   zijn : <BR>1° verblijf in een pleeggezin (perspectiefzoekend);<BR>2° begeleiding   voor pleeggezinnen, gezinnen, pleegkinderen of pleeggasten (perspectiefzoekende   pleegzorg). <BR>
+De typemodule die deel uitmaakt van de perspectiefzoekende pleegzorg, is: perspectiefzoekend verblijf in een pleeggezin.
 
 ### ART. 5.
 
-De typemodules die deel uitmaken van de perspectiefbiedende pleegzorg,   zijn : <BR>1° verblijf in een pleeggezin (perspectiefbiedend - lage   frequentie);<BR>2° verblijf in een pleeggezin (perspectiefbiedend - hoge   frequentie);<BR>3° begeleiding voor pleeggezinnen, gezinnen, pleegkinderen of   pleeggasten (perspectiefbiedende pleegzorg).<BR>
+De typemodule die deel uitmaakt van de perspectiefbiedende pleegzorg, is: perspectiefbiedend verblijf in een pleeggezin.
 
 ### ART. 6.
 
-De typemodules die deel uitmaken van behandelingspleegzorg, zijn : <BR>1°   verblijf in een pleeggezin als vermeld in artikel 4, 1°, of artikel 5, 1° of   2°;<BR>2° begeleiding voor pleeggezinnen, gezinnen, pleegkinderen of pleeggasten   als vermeld in artikel 4, 2°, of artikel 5, 3°, die moet worden gecombineerd met   een typemodule verblijf als vermeld in de voormelde artikels;<BR>3° behandeling,   aangeboden door een van de volgende instanties : <BR>a) de dienst voor   pleegzorg;<BR>b) een voorziening die gespecialiseerd is in de behandeling van   gedrags- of emotionele problemen of psychiatrische problemen.<BR>
+§ 1. De typemodule die deel uitmaakt van de behandelingspleegzorg is: behandelingspleegzorg.<br>
+<br>
+§ 2. Een dienst komt in aanmerking voor de subsidiëring van een module behandelingspleegzorg als het aanbod dat hij wil doen vooraf door de administrateur-generaal is goedgekeurd.<br>
+<br>
+De aanvraag tot goedkeuring van het aanbod is alleen ontvankelijk als aan al de volgende voorwaarden is voldaan:<br>
+1° de dienst voor pleegzorg dient de aanvraag schriftelijk in bij het agentschap;<br>
+2° de aanvraag bevat al de volgende gegevens:<br>
+a) de contactgegevens van de dienst voor pleegzorg;<br>
+b) een omschrijving van het aanbod, die de volgende elementen bevat en waaruit blijkt dat het aanbod voldoet aan de definitie, vermeld in artikel 2, 1°, van het decreet van 29 juni 2012:<br>
+1) duidelijk omschreven doelgroep, doelstelling, acties en randvoorwaarden;<br>
+2) de wetenschappelijke onderbouw;<br>
+3) de specificiteit;<br>
+4) de intensiteit.
 
 ### ART. 7.
 
-In artikel 3, eerste lid, 4° en 5°, artikel 4, 2°, artikel 5, 3°, en   artikel 6, 2°, wordt onder gezinnen verstaan : gezinnen van   oorsprong.<BR>
+...
 
 ### ART. 8.
 
-<P>Voor pleegkinderen wordt met toepassing van het besluit van 9 december 2005   bepaald of de typemodules, vermeld in artikel 4,5 en 6, 3°, a), rechtstreeks   toegankelijk of niet rechtstreeks toegankelijk zijn.<BR></P>  <P>Voor pleeggasten zijn de typemodules, vermeld in artikel 4, 5 en 6, 3°, a),   rechtstreeks toegankelijk.<BR></P>
+<p>Voor pleegkinderen wordt met toepassing van het besluit van 9 december 2005 bepaald of de typemodules, vermeld in artikel 4,5 en 6 rechtstreeks toegankelijk of niet rechtstreeks toegankelijk zijn.</p>
+
+<p>Voor pleeggasten zijn de typemodules, vermeld in artikel 4, 5 en 6 rechtstreeks toegankelijk.</p>
 
 ### ART. 9.
 
-De regels die bij het besluit van 9 december 2005 zijn bepaald om modules   te beschrijven en te combineren, zijn van overeenkomstige toepassing voor de   beschrijving van modules op basis van de typemodules, vermeld in artikel 3, 4, 5   en 6, 3°, en voor de combinatie van die modules.<BR>
+De regels die bij het besluit van 9 december 2005 zijn bepaald om modules te beschrijven, zijn van overeenkomstige toepassing voor de beschrijving van modules op basis van de typemodules, vermeld in artikel 3, 4, 5 en 6.
 
 ### ART. 10.
 
-Typemodules verblijf en begeleiding als vermeld in artikel 3 tot en met 5   van dit besluit, kunnen gecombineerd worden met thuisbegeleiding als vermeld in   artikel 5 van het decreet van 29 juni 2012, als dat nodig is om de   doelstellingen, vermeld in artikel 27, tweede lid, 3°, te   behalen.<BR>
+...
 
 ## HOOFDSTUK 3 Diensten voor pleegzorg
 
@@ -73,6 +96,20 @@ Typemodules verblijf en begeleiding als vermeld in artikel 3 tot en met 5   van 
 ### ART. 12.
 
 <P>&nbsp;Conform artikel 7, § 2, eerste lid, 8°, van het decreet van 29 juni   2012 organiseert de dienst voor pleegzorg vorming voor kandidaat-pleegzorgers,   pleegzorgers en pleeggezinnen afhankelijk van de behoeften.<BR></P>  <P>De dienst organiseert een specifieke vorming voor kandidaat-pleegzorgers,   pleegzorgers en pleeggezinnen aan wie pleegkinderen of pleeggasten voor   crisispleegzorg worden toevertrouwd.<BR></P>  <P>In het tweede lid wordt verstaan onder crisispleegzorg : een zeer intensieve   en kortdurende vorm van pleegzorg als antwoord op een crisissituatie.   <BR></P>
+
+### ART 12/1.
+
+§ 1. De dienst voor pleegzorg neemt de rol van bevoegd orgaan voor pleegzorg als vermeld in artikel 387quinquies tot en met artikel 387septies van het Burgerlijk Wetboek, op.<br>
+<br>
+§ 2. De dienst voor pleegzorg voorziet in een evaluatie van elke pleegzorgsituatie.<br>
+<br>
+Voor perspectiefbiedende pleegzorg wordt jaarlijks een evaluatieverslag opgemaakt. In voorkomend geval wordt dat verslag bezorgd aan het ondersteuningscentrum jeugdzorg of de sociale dienst.<br>
+<br>
+Voor perspectiefzoekende pleegzorg wordt zesmaandelijks een evaluatieverslag opgemaakt. In voorkomend geval wordt dat verslag bezorgd aan het ondersteuningscentrum jeugdzorg of de sociale dienst.<br>
+<br>
+§ 3. Als er persoonsvolgende financiering wordt toegekend aan een pleegkind of pleeggast en als de betaalde taken worden uitgevoerd door een pleegzorger, controleert en bewaakt de dienst voor pleegzorg, de toegevoegde waarde van die betaalde taken, in functie van het al dan niet voortzetten van pleegzorg.<br>
+<br>
+§ 4. De dienst voor pleegzorg wisselt goede praktijken en expertise over zijn diverse opdrachten uit met de andere diensten voor pleegzorg en de partnerorganisatie. Hij stemt zijn procedures, minimaal voor de screening, vermeld in artikel 14 van het decreet van 29 juni 2012, af om efficiënt en optimaal kandidaat-pleeggezinnen te vinden.
 
 ### ART. 13.
 
@@ -106,7 +143,7 @@ Conform artikel 11, eerste lid, 4°, van het decreet van 29 juni 2012   beschikt
 
 ### ART. 19.
 
-De dienst voor pleegzorg waakt erover dat zijn personeelsleden van goed   zedelijk gedrag zijn. Hij vraagt daarvoor minstens bij de aanwerving van elke   nieuwe medewerker een uittreksel uit het strafregister model twee op als vermeld   in artikel 596 van het Wetboek van strafvordering. Een gelijkwaardig document   als het bedoelde uittreksel uit het strafregister dat is verleend door andere   lidstaten van de Europese Unie of door staten die ermee gelijkgesteld zijn op   het vlak van de toegang tot het uitoefenen van beroepswerkzaamheden, wordt ook   in aanmerking genomen. <BR>
+De dienst voor pleegzorg waakt erover dat zijn personeelsleden van goed zedelijk gedrag zijn. Hij vraagt daarvoor minstens bij de aanwerving van elke nieuwe medewerker een&nbsp;uittreksel als vermeld in artikel 596, tweede lid, van het Wetboek van strafvordering. Een gelijkwaardig document als het bedoelde uittreksel uit het strafregister dat is verleend door andere lidstaten van de Europese Unie of door staten die ermee gelijkgesteld zijn op het vlak van de toegang tot het uitoefenen van beroepswerkzaamheden, wordt ook in aanmerking genomen.
 
 ### ART. 20.
 
@@ -146,7 +183,16 @@ De dienst voor pleegzorg, de pleegzorger en, als hij daarvoor bekwaam   wordt ge
 
 ### ART. 29.
 
-<P>De dienst voor pleegzorg heeft voor elk pleegkind of elke pleeggast een   dossier dat minstens de volgende elementen bevat : <BR>1° inlichtingen van   administratieve aard;<BR>2° de relevante individuele en sociale gegevens van het   pleegkind en zijn gezin van oorsprong of van de pleeggast en zijn persoonlijke   netwerk;<BR>3° het handelingsplan, vermeld in artikel 27;<BR>4° de   afsprakennota, vermeld in artikel 28;<BR>5° een rapportering van alle stappen in   het dossier waaruit blijkt dat de begeleiding of behandeling en de ondersteuning   een gepast antwoord bieden op de hulpvraag;<BR>6° de reden van de stopzetting   van de begeleiding of behandeling.<BR></P>  <P>Het dossier wordt door de dienst voor pleegzorg bewaard gedurende minimaal   vijf jaar en maximaal dertig jaar na de beëindiging van de   hulpverlening.<BR></P>
+<p>De dienst voor pleegzorg heeft voor elk pleegkind of elke pleeggast een dossier dat minstens de volgende elementen bevat :<br>
+1° inlichtingen van administratieve aard;<br>
+2° de relevante individuele en sociale gegevens van het pleegkind en zijn gezin van oorsprong of van de pleeggast en zijn persoonlijke netwerk;<br>
+3° het handelingsplan, vermeld in artikel 27;<br>
+4° de afsprakennota, vermeld in artikel 28;<br>
+5° een rapportering van alle stappen in het dossier waaruit blijkt dat de begeleiding of behandeling en de ondersteuning een gepast antwoord bieden op de hulpvraag;<br>
+6° de reden van de stopzetting van de begeleiding of behandeling;<br>
+7° het evaluatieverslag, vermeld in artikel 12/1, § 2.</p>
+
+<p>Het dossier wordt door de dienst voor pleegzorg bewaard gedurende minimaal vijf jaar en maximaal dertig jaar na de beëindiging van de hulpverlening.</p>
 
 ### ART. 30.
 
@@ -158,13 +204,20 @@ De dienst voor pleegzorg meldt elke ernstige gebeurtenis waarbij het   pleegkind
 
 ### ART. 32.
 
-De dienst voor pleegzorg leeft de kwaliteitsnormen na die gelden voor de   voorzieningen, vermeld in artikel 48 van het decreet van 7 maart 2008 inzake   bijzondere jeugdbijstand.<BR>
+De dienst voor pleegzorg leeft de kwaliteitsnormen na die gelden voor de voorzieningen, vermeld in artikel 78/1 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
 
 ## Onderafdeling 2 Procedure voor het verlenen, verlengen en intrekken van de vergunning
 
 ### ART. 33.
 
-<P>Een vergunning voor een dienst voor pleegzorg wordt verleend na een oproep   van de minister, die wordt bekendgemaakt in het Belgisch Staatsblad. De oproep   vermeldt : <BR>1° de termijn waarin een vergunningsaanvraag kan worden   ingediend;<BR>2° de wijze waarop de vergunningsaanvraag moet worden   ingediend;<BR>3° de beslissingstermijnen;<BR>4° de ontvankelijheids- en   gegrondheidsvoorwaarden;<BR>5° het maximale aantal te vergunnen diensten;<BR>6°   de criteria voor de beoordeling van de vergunningsaanvragen en het gewicht van   die criteria;<BR>7° de duur van de vergunning.<BR></P>  <P>De vergunning wordt verleend voor maximaal zes jaar. <BR></P>
+<p>Een vergunning voor een dienst voor pleegzorg wordt verleend na een oproep van de minister, die wordt bekendgemaakt in het Belgisch Staatsblad. De oproep vermeldt :<br>
+1° de termijn waarin een vergunningsaanvraag kan worden ingediend;<br>
+2° de wijze waarop de vergunningsaanvraag moet worden ingediend;<br>
+3° de beslissingstermijnen;<br>
+4° de ontvankelijheids- en gegrondheidsvoorwaarden;<br>
+5° het maximale aantal te vergunnen diensten;<br>
+6° de criteria voor de beoordeling van de vergunningsaanvragen en het gewicht van die criteria;<br>
+7° de duur van de vergunning.</p>
 
 ### ART. 34.
 
@@ -184,7 +237,7 @@ Het agentschap onderzoekt de ontvankelijkheid van de aanvraag. Als de   vergunni
 
 ### ART. 38.
 
-<P>Een aanvraag tot verlenging van de vergunning is ontvankelijk als de   inrichtende macht van de dienst uiterlijk negen maanden voor het verstrijken van   de duur van de vergunning die aanvraag met een aangetekende zending, door   afgifte tegen ontvangstbewijs of op een andere wijze die de minister bepaalt,   indient bij het agentschap en als ze de volgende gegevens en stukken bevat :   <BR>1° een aanvraagformulier dat door het agentschap ter beschikking gesteld   wordt. Dat formulier bevat de volgende gegevens : <BR>a) de identiteitsgegevens   van de inrichtende macht en van de dienst voor pleegzorg;<BR>b) de modules die   de dienst zal aanbieden;<BR>2° de rechtsgeldige beslissing om de verlenging van   de vergunning aan te vragen;<BR>3° het bewijs dat de gebouwen van de dienst voor   pleegzorg aan de toepasselijke brandveiligheidsreglementering voldoen;<BR>4° de   datum en handtekening.<BR></P>  <P>De aanvraag tot verlenging is bovendien alleen ontvankelijk als volgens het   meest recente inspectieverslag waarover de dienst voor pleegzorg beschikt, de   dienst aan alle vergunningsvoorwaarden voldoet.<BR></P>  <P>Het agentschap onderzoekt de ontvankelijkheid van de aanvraag tot verlenging.   Als de vergunningsaanvraag niet ontvankelijk is, meldt het agentschap dat aan de   inrichtende macht binnen een termijn van acht kalenderdagen na de ontvangst van   de aanvraag. Na het verstrijken van die termijn wordt de aanvraag geacht   ontvankelijk te zijn.<BR></P>  <P>Het agentschap onderzoekt de gegrondheid van de ontvankelijke aanvraag tot   verlenging en toetst daarbij de aanvraag aan de vergunningsvoorwaarden. Binnen   twee maanden na de ontvangst van de aanvraag wordt aan de inrichtende macht   hetzij de beslissing van de administrateur-generaal van het agentschap om de   verlenging van de vergunning te verlenen, hetzij zijn voornemen om de verlenging   te weigeren, betekend met een aangetekende brief of op een andere wijze die de   minister bepaalt. De beslissing van de administrateur-generaal bevat de   gegevens, vermeld in artikel 36, vierde lid. Het voornemen van de   administrateur-generaal bevat de gegevens, vermeld in artikel 36, vijfde   lid.<BR></P>  <P>Op straffe van niet-ontvankelijkheid kan de inrichtende macht tot uiterlijk   vijftien kalenderdagen na de ontvangst van het voornemen tot weigering van de   verlenging van de vergunning tegen dat voornemen met een aangetekende zending of   door afgifte tegen ontvangstbewijs een gemotiveerd bezwaarschrift indienen bij   het agentschap. Als de inrichtende macht geen ontvankelijk bezwaarschrift   indient binnen die termijn, wordt na het verstrijken van die termijn het   voornemen van de administrateur-generaal van het agentschap van rechtswege   geacht een weigeringsbeslissing van de administrateur-generaal te zijn. Het   agentschap brengt de inrichtende macht binnen vijftien kalenderdagen na het   verstrijken van die termijn daarvan op de hoogte met een aangetekende   zending.<BR></P>  <P>De vergunning kan telkens met maximaal zes jaar worden   verlengd.<BR></P>
+...
 
 ### ART. 39.
 
@@ -230,11 +283,11 @@ Het agentschap en Zorginspectie van het Departement Welzijn,   Volksgezondheid e
 
 ### ART. 48.
 
-Uiterlijk vijf jaar na het verlenen van de vergunning evalueert het   agentschap de werking van elke dienst voor pleegzorg.<BR>In functie van die   evaluatie rapporteert de dienst voor pleegzorg jaarlijks over zijn werking en   zijn kwaliteitsbeleid aan het agentschap. De minister zal daarvoor, in overleg   met het werkveld, nadere richtlijnen opstellen.<BR>
+...
 
 ### ART. 49.
 
-Het agentschap bespreekt het resultaat van de evaluatie, vermeld in   artikel 48, met de betrokken dienst voor pleegzorg. Het agentschap kan tijdens   dat gesprek doelstellingen opleggen aan die dienst voor pleegzorg. De dienst   behaalt die doelstellingen binnen de termijn die het agentschap   oplegt.<BR>
+...
 
 ### ART. 50.
 
@@ -244,7 +297,78 @@ Als een dienst voor pleegzorg niet aan de bepalingen van dit besluit   voldoet, 
 
 ### ART. 51.
 
-<P>Vergunde diensten voor pleegzorg ontvangen per module begeleiding of   behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt   vastgesteld volgens de onderstaande tabel.<BR><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Module       <TD>Personeel (P)       <TD>Anciënniteit extra boven 5 jaar (A)       <TD>Werking (W)       <TD>Totaal (T = P+W)<BR>    <TR>      <TD>Begeleiding (ondersteunende pleegzorg) (artikel 3, eerste lid, 4° )       <TD>2.986,58       <TD>71,86       <TD>596,10       <TD>3.582,68<BR>    <TR>      <TD>Begeleiding (crisisverblijf) (artikel 3, eerste lid, 5° )       <TD>23.892,64       <TD>574,88       <TD>4.768,80       <TD>28.661,44<BR>    <TR>      <TD>Begeleiding (perspectiefzoekende pleegzorg) (artikel 4, 2° )       <TD>11.946,32       <TD>287,44       <TD>2.384,40       <TD>14.330,72<BR>    <TR>      <TD>Begeleiding (perspectiefbiedende pleegzorg) (artikel 5, 3° )       <TD>2.986,58       <TD>71,86       <TD>596,10       <TD>3582,68<BR>    <TR>      <TD>Behandeling (artikel 6, 3°, a)       <TD>2.986,58       <TD>71,86       <TD>596,10       <TD>3582,68<BR></TD></TR></TBODY></TABLE><BR>Binnen de beschikbare   begrotingskredieten heeft een vergunde dienst voor pleegzorg voor het   betreffende jaar recht op een subsidie die wordt berekend als volgt :<BR>1° per   module wordt het overeenstemmende bedrag T vermeerderd met het overeenstemmende   bedrag A voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden   van de dienst de basisanciënniteit van vijf jaar overschrijdt. De anciënniteit   wordt berekend op 1 januari van het betreffende jaar en afgerond op een   decimaal;<BR>2° het bedrag dat per module wordt verkregen met toepassing van   punt 1°, wordt vermenigvuldigd met het aantal modules van die aard dat door de   dienst was ingezet op 31 december van het voorgaande jaar of, als dat aantal   hoger ligt, door het aantal modules van die aard dat door de dienst per dag   gemiddeld was ingezet tijdens het voorgaande jaar.<BR><BR>Voor de berekening van   de subsidie, vermeld in het tweede lid, mag het aantal modules begeleiding,   vermeld in artikel 4, 2°, en artikel 5, 3°, die met toepassing van artikel 6,   2°, worden ingezet binnen de behandelingspleegzorg, op jaarbasis samen maximaal   25 % bedragen van de som van het totale aantal modules begeleiding, vermeld in   artikel 4, 2°, en artikel 5, 3°, dat buiten de behandelingspleegzorg wordt   ingezet. Binnen dat percentage zet de dienst voor pleegzorg de modules   begeleiding die deel uitmaken van behandelingspleegzorg, tijdens het betreffende   jaar voor minimaal 80 % in.<BR><BR>De bedragen, vermeld in het eerste lid, zijn   gekoppeld aan de spilindex die van toepassing is op 1 januari 2015.<BR><BR>De   inzet van modules wordt door het agentschap gemonitord en halfjaarlijks   gerapporteerd aan de financiële overheden.</P>
+Vergunde diensten voor pleegzorg ontvangen per module begeleiding of behandeling die ze inzetten, een forfaitaire subsidie die op jaarbasis wordt vastgesteld volgens de volgende tabel:<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>module</td>
+			<td>personeel (P)</td>
+			<td>anciënniteit extra boven 5 jaar (A)</td>
+			<td>werking (W)</td>
+			<td>totaal (T=P+W)</td>
+		</tr>
+		<tr>
+			<td>ondersteunend verblijf in een pleeggezin - lage frequentie, vermeld in artikel 3, eerste lid, 2°</td>
+			<td>4.217,65</td>
+			<td>101,68</td>
+			<td>794,80</td>
+			<td>5.012,45</td>
+		</tr>
+		<tr>
+			<td>ondersteunend verblijf in een pleeggezin - korte duur, vermeld in artikel 3, eerste lid, 3°</td>
+			<td>4.217,65</td>
+			<td>101,68</td>
+			<td>794,80</td>
+			<td>5.012,45</td>
+		</tr>
+		<tr>
+			<td>crisisverblijf in een pleeggezin, vermeld in artikel 3, eerste lid, 1°</td>
+			<td>25.305,90</td>
+			<td>610,08</td>
+			<td>4.768,80</td>
+			<td>30.074,70</td>
+		</tr>
+		<tr>
+			<td>perspectiefzoekend verblijf in een pleeggezin, vermeld in artikel 4</td>
+			<td>4.217,65</td>
+			<td>101,68</td>
+			<td>794,80</td>
+			<td>5.012,45</td>
+		</tr>
+		<tr>
+			<td>perspectiefbiedend verblijf in een pleeggezin, vermeld in artikel 5</td>
+			<td>4.217,65</td>
+			<td>101,68</td>
+			<td>794,80</td>
+			<td>5.012,45</td>
+		</tr>
+		<tr>
+			<td>behandelingspleegzorg, vermeld in artikel 6, § 1</td>
+			<td>7.908,09</td>
+			<td>190,65</td>
+			<td>1.490,25</td>
+			<td>9.398,34</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Binnen de beschikbare begrotingskredieten heeft een vergunde dienst voor pleegzorg voor het betreffende jaar recht op een subsidie die wordt berekend als volgt :<br>
+1° per module wordt het overeenstemmende bedrag T vermeerderd met het overeenstemmende bedrag A voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden van de dienst de basisanciënniteit van vijf jaar overschrijdt. De anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op een decimaal;<br>
+2° het bedrag dat per module wordt verkregen met toepassing van punt 1°, wordt vermenigvuldigd met het aantal modules van die aard dat door de dienst was ingezet op 31 december van het voorgaande jaar of, als dat aantal hoger ligt, door het aantal modules van die aard dat door de dienst per dag gemiddeld was ingezet tijdens het voorgaande jaar.<br>
+<br>
+Voor de berekening van de subsidie, vermeld in het tweede lid, mag het aantal modules begeleiding, vermeld in artikel 4, 2°, en artikel 5, 3°, die met toepassing van artikel 6, 2°, worden ingezet binnen de behandelingspleegzorg, op jaarbasis samen maximaal 15 % bedragen van de som van het totale aantal modules begeleiding, vermeld in artikel 4, 2°, en artikel 5, 3°, dat buiten de behandelingspleegzorg wordt ingezet. Binnen dat percentage zet de dienst voor pleegzorg de modules begeleiding die deel uitmaken van behandelingspleegzorg, tijdens het betreffende jaar voor minimaal 80 % in.<br>
+<br>
+De bedragen, vermeld in het eerste lid, zijn gekoppeld aan de index van de consumptieprijzen die van toepassing is op 1 januari 2019.<br>
+<br>
+De inzet van modules wordt door het agentschap gemonitord en halfjaarlijks gerapporteerd aan de financiële overheden.
+<p>&nbsp;</p>
+
+### ART 51/1.
+
+Als de som van het aantal ingezette modules perspectiefzoekende, perspectiefbiedende en ondersteunende pleegzorg op 30 juni van het jaar in kwestie 2% hoger ligt dan de som van het aantal modules dat de basis vormde voor de subsidiëring van het jaar in kwestie, kan binnen de beschikbare begrotingskredieten vanaf 1 augustus van het jaar in kwestie een aanpassing van de subsidie toegepast worden.<br>
+<br>
+De dienst voor pleegzorg dient op uiterlijk 15 juli van het jaar in kwestie een aanvraag in bij het agentschap om een aanpassing als vermeld in het eerste lid, te krijgen.
 
 ### ART. 52.
 
@@ -258,21 +382,79 @@ Als een dienst voor pleegzorg niet aan de bepalingen van dit besluit   voldoet, 
 
 <P>De dienst voor pleegzorg kan op volgende wijze reserves opbouwen met de   subsidies, vermeld in dit besluit : <BR>1° de reserves worden aangewend om de   specifieke dienstverlening, vermeld in dit besluit, te kunnen realiseren;<BR>2°   maximaal 20 % van de jaarlijkse subsidiebedragen, vermeld in dit besluit, kan   als reserve overgedragen worden naar het volgend kalenderjaar;<BR>3°de   gecumuleerde reserve, opgebouwd uit de jaarlijkse subsidiebedragen, vermeld in   punt 2°, is maximaal 50 % van de jaarlijkse subsidiebedragen, vermeld in punt   2°;<BR>4° als het maximum, vermeld in punt 2° en 3°, overschreden wordt, wordt   het overschreden bedrag teruggestort aan de Vlaamse administratie, tenzij de   dienst voor pleegzorg een aanwendingsplan of aanzuiveringsplan heeft dat voldoet   aan een aantal criteria, waaronder de goedkeuring van Inspectie van   Financiën.<BR></P>  <P>De minister bepaalt de nadere regels met betrekking tot de terugbetaling en   het aanwendingsplan of aanzuiveringsplan, vermeld in het eerste lid, 4°, onder   meer de criteria waaraan het aanwendingsplan of aanzuiveringsplan moet   voldoen.<BR></P>
 
+### ART 54/1.
+
+Voor de organisatie en coördinatie van een project als, vermeld in artikel 13/1, van het decreet van 29 juni 2012, kan ten laste van het fonds en binnen de begrotingskredieten, aan een of meer diensten voor pleegzorg of partnerorganisatie, op hun aanvraag, een subsidie worden verleend.<br>
+<br>
+Een subsidieaanvraag is alleen ontvankelijk als ze voldoet aan al de volgende voorwaarden:<br>
+1° ze wordt door de dienst(en) voor pleegzorg of partnerorganisatie met een beveiligde zending bij de administratie ingediend;<br>
+2° ze bevat al de volgende elementen:<br>
+a) de identiteit en het adres van de dienst voor pleegzorg of partnerorganisatie;<br>
+b) een omschrijving van het project, die al de volgende elementen bevat:<br>
+1) de probleemstelling die aan de grondslag ligt van het project;<br>
+2) de manier waarop het project op de probleemstelling ingrijpt;<br>
+3) de verhouding van het project tot het bestaande aanbod;<br>
+4) de maatschappelijke relevantie van het project;<br>
+5) de doelgroep en het aantal minderjarigen op wie het project betrekking heeft;<br>
+6) de verwijzingen naar bestaand onderzoek als dat beschikbaar is;<br>
+7) de beoogde effecten van het project;<br>
+8) de indicatoren en meetfactoren om de beoogde effecten te meten;<br>
+9) de wijze waarop en de persoon door wie het project wordt opgevolgd en geëvalueerd;<br>
+10) de wijze waarop het project structureel gemaakt kan worden;<br>
+11) de duurtijd en fasering van het project;<br>
+12) een begroting van alle inkomsten en uitgaven die betrekking hebben op de realisatie van het project.<br>
+<br>
+Artikel 17 tot en met 32 zijn van overeenkomstige toepassing op de projecten.<br>
+<br>
+De duurtijd, vermeld in het tweede lid, 2°, b), 11), bedraagt maximaal vijf jaar. Overschrijding van die termijn kan alleen op beslissing van de minister, nadat de inrichtende macht daarvoor een aanvraag indient die, behalve de elementen, vermeld in het tweede lid, 2°, een motivatie voor de verlenging bevat.<br>
+<br>
+De subsidie wordt verleend in het kader van een overeenkomst die wordt gesloten met de minister. De overeenkomst bevat:<br>
+1° de identiteit en het adres van de contracterende partijen;<br>
+2° de omschrijving van het project, vermeld in het tweede lid, 2°, b);<br>
+3° een verwijzing naar het vierde lid;<br>
+4° een verwijzing naar de specifieke criteria, vermeld in het derde lid;<br>
+5° een beschrijving van de manier waarop over de voortgang van het project wordt gerapporteerd, zowel inhoudelijk als financieel;<br>
+6° de opgave van de subsidiebedragen en van de bestemming van de bedragen;<br>
+7° de uitbetalingsmodaliteiten van de subsidies;<br>
+8° de looptijd van de overeenkomst;<br>
+9° de vermelding van de manier waarop de overeenkomst wordt beëindigd.<br>
+<br>
+De subsidie wordt verleend op voorwaarde dat:<br>
+1° ze uitsluitend wordt aangewend voor de personeelskosten en de werkingskosten die nodig zijn om het project te realiseren;<br>
+2° er een boekhoudplan wordt gebruikt conform een rekeningstelsel dat de minister bepaalt;<br>
+3° toezicht van de administratie mogelijk is op de boekhouding en op de aanwending van de subsidies, zowel op basis van stukken als ter plaatse.
+
 ## HOOFDSTUK 4 Pleegzorgers en pleeggezinnen
 
 ## Afdeling 1 Screening en attestering
 
 ### ART. 55.
 
-<P>§ 1. De dienst voor pleegzorg screent kandidaat-pleegzorgers en pleegzorgers   voor bestandspleegzorg op de wijze, vermeld in paragraaf 2 en paragraaf   3.<BR></P>  <P>§ 2. De dienst selecteert kandidaat-pleegzorgers aan de hand van de   voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni   2012. De selectieprocedure resulteert in een gemotiveerde schriftelijke   beslissing waaruit blijkt dat een kandidaat-pleegzorger al dan niet als   pleegzorger wordt geselecteerd. <BR></P>  <P>De beslissing waarin de kandidaat-pleegzorger wordt geselecteerd, wordt aan   de kandidaat-pleegzorger bezorgd, samen met zijn profiel. In dat profiel wordt   onder meer vermeld welk profiel van pleegkinderen of -gasten aan zijn gezin   kunnen worden toevertrouwd en welke typemodule of typemodules hij kan   uitvoeren.<BR></P>  <P>De beslissing waarin de kandidaat-pleegzorger niet wordt geselecteerd, wordt   aan de kandidaat-pleegzorger meegedeeld, met vermelding van de mogelijkheid om   binnen een maand na de ontvangst van de mededeling een herscreening te vragen   als vermeld in artikel 14, § 5, eerste lid, van het decreet van 29 juni   2012.<BR></P>  <P>§ 3. Als na de toetsing van de kenmerken van een pleegkind of pleeggast aan   het profiel van de geselecteerde pleegzorger, vermeld in paragraaf 2, tweede   lid, blijkt dat het gezin van de pleegzorger geschikt is om als pleeggezin voor   het pleegkind of de pleeggast te fungeren, gaat de dienst voor pleegzorg na of   het pleeggezin voldoet aan de voorwaarden, vermeld in artikel 14, § 2, eerste   lid, van het decreet van 29 juni 2012. Als ook aan die voorwaarden is voldaan,   levert de dienst voor pleegzorg aan de pleegzorger een attest af waarin wordt   gemotiveerd waarom het pleegkind of de pleeggast aan zijn gezin wordt   toevertrouwd.<BR></P>  <P>Bij de toetsing van de kenmerken van een pleegkind of pleeggast aan het   profiel van de pleegzorger houdt de dienst voor pleegzorg in voorkomend geval   rekening met bevindingen uit hulpverlening die voordien aan het pleegkind of de   pleeggast werden verstrekt. Ook waakt de dienst erover dat de ideologische,   filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en   zijn gezin van oorsprong gerespecteerd worden.<BR></P>
+<p>§ 1. De dienst voor pleegzorg screent kandidaat-pleeggezin en pleeggezin voor bestandspleegzorg op de wijze, vermeld in paragraaf 2 en paragraaf 3.</p>
+
+<p>§ 2. De dienst selecteert kandidaat-pleeggezinnen aan de hand van de voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni 2012. De selectieprocedure resulteert in een gemotiveerde schriftelijke beslissing waaruit blijkt dat een kandidaat-pleeggezin al dan niet als pleeggezin wordt geselecteerd.</p>
+
+<p>De beslissing waarin het kandidaat-pleeggezin wordt geselecteerd, wordt aan het kandidaat-pleeggezin bezorgd, samen met zijn profiel. In dat profiel wordt onder meer vermeld welk profiel van pleegkinderen of -gasten aan zijn gezin kunnen worden toevertrouwd en welke typemodule of typemodules hij kan uitvoeren.</p>
+
+<p>De beslissing waarin het kandidaat-pleeggezin niet wordt geselecteerd, wordt aan het kandidaat-pleeggezin meegedeeld, met vermelding van de mogelijkheid om binnen een maand na de ontvangst van de mededeling een herscreening te vragen als vermeld in artikel 14, § 5, eerste lid, van het decreet van 29 juni 2012.</p>
+
+<p>§ 3. Als na de toetsing van de kenmerken van een pleegkind of pleeggast aan het profiel van het geselecteerde pleeggezin, vermeld in paragraaf 2, tweede lid, blijkt dat het pleeggezin geschikt is om als pleeggezin voor het pleegkind of de pleeggast te fungeren, gaat de dienst voor pleegzorg na of het pleeggezin voldoet aan de voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni 2012. Als ook aan die voorwaarden is voldaan, levert de dienst voor pleegzorg aan het pleeggezin een attest af waarin wordt gemotiveerd waarom het pleegkind of de pleeggast aan het pleeggezin wordt toevertrouwd.</p>
+
+<p>Bij de toetsing van de kenmerken van een pleegkind of pleeggast aan het profiel van het pleeggezin houdt de dienst voor pleegzorg in voorkomend geval rekening met bevindingen uit hulpverlening die voordien aan het pleegkind of de pleeggast werden verstrekt. Ook waakt de dienst erover dat de ideologische, filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en het pleeggezin van oorsprong gerespecteerd worden.</p>
 
 ### ART. 56.
 
-<P>De dienst voor pleegzorg screent kandidaat-pleegzorgers en pleegzorgers voor   netwerkpleegzorg binnen zes weken na de dag dat hij op de hoogte is gebracht van   de opvang van een pleegkind of pleeggast in het gezin van de   kandidaat-pleegzorger of de pleegzorger in een geval als vermeld in artikel 14,   § 3, eerste lid, van het decreet van 29 juni 2012. Als de dienst van oordeel is   dat niet rechtstreeks toegankelijke pleegzorg aangewezen is, meldt hij het   pleegkind onmiddellijk nadat hij van de voormelde opvang op de hoogte is   gebracht, aan bij de toegangspoort conform het decreet van 12 juli 2013   betreffende de integrale jeugdhulp.<BR></P>  <P>Als het pleeggezin voldoet aan de voorwaarden, vermeld in artikel 14, § 2,   eerste lid, van het decreet van 29 juni 2012, en als de ideologische,   filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en   zijn gezin van oorsprong gerespecteerd worden, levert de dienst voor pleegzorg   aan de kandidaat-pleegzorger of pleegzorger een attest af waarin wordt   gemotiveerd waarom het pleegkind of de pleeggast aan zijn gezin wordt   toevertrouwd.<BR></P>  <P>De beslissing waarin het attest wordt geweigerd omdat niet voldaan is aan de   voorwaarden, vermeld in het eerste lid, wordt aan de kandidaat-pleegzorger of   pleegzorger meegedeeld, met vermelding van de mogelijkheid om binnen een maand   na de ontvangst van de mededeling een herscreening aan te vragen als vermeld in   artikel 14, § 5, eerste lid, van het decreet van 29 juni   2012.<BR></P>
+<p>De dienst voor pleegzorg screent kandidaat-pleeggezin en pleeggezin voor netwerkpleegzorg binnen zes weken na de dag dat hij op de hoogte is gebracht van de opvang van een pleegkind of pleeggast in het pleeggezin in een geval als vermeld in artikel 14, § 3, eerste lid, van het decreet van 29 juni 2012. Als de dienst van oordeel is dat niet rechtstreeks toegankelijke pleegzorg aangewezen is, meldt hij het pleegkind onmiddellijk nadat hij van de voormelde opvang op de hoogte is gebracht, aan bij de toegangspoort conform het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.</p>
+
+<p>Als het pleeggezin voldoet aan de voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni 2012, en als de ideologische, filosofische en godsdienstige overtuiging van het pleegkind of de pleeggast en het pleeggezin van oorsprong gerespecteerd worden, levert de dienst voor pleegzorg aan het kandidaat-pleeggezin of pleeggezin een attest af waarin wordt gemotiveerd waarom het pleegkind of de pleeggast aan het pleeggezin wordt toevertrouwd.</p>
+
+<p>De beslissing waarin het attest wordt geweigerd omdat niet voldaan is aan de voorwaarden, vermeld in het eerste lid, wordt aan het kandidaat-pleeggezin of pleeggezin meegedeeld, met vermelding van de mogelijkheid om binnen een maand na de ontvangst van de mededeling een herscreening aan te vragen als vermeld in artikel 14, § 5, eerste lid, van het decreet van 29 juni 2012.</p>
 
 ### ART. 57.
 
-<P>Bij de screening van de draagkracht, vermeld in artikel 14, § 2, eerste lid,   2°, van het decreet van 29 juni 2012, wordt minstens rekening gehouden met de   kenmerken van de persoon van de pleegzorger, de nodige competenties van de   pleegzorger om adequaat om te gaan met een pleegzorgsituatie, de materiële   mogelijkheden, de gezinssituatie en de sociale context van de   pleegzorger.<BR></P>  <P>In het geval, vermeld in artikel 55, § 3, eerste lid, of artikel 56, eerste   lid, van dit besluit, wordt bij de screening van de draagkracht ook rekening   gehouden met de kenmerken van het pleegkind of de   pleeggast.<BR></P>
+<p>Bij de screening van de draagkracht, vermeld in artikel 14, § 2, eerste lid, 2°, van het decreet van 29 juni 2012, wordt minstens rekening gehouden met de kenmerken van het pleeggezin, de nodige competenties van het pleeggezin om adequaat om te gaan met een pleegzorgsituatie, de materiële mogelijkheden, de gezinssituatie en de sociale context van het pleeggezin.</p>
+
+<p>In het geval, vermeld in artikel 55, § 3, eerste lid, of artikel 56, eerste lid, van dit besluit, wordt bij de screening van de draagkracht ook rekening gehouden met de kenmerken van het pleegkind of de pleeggast.</p>
 
 ### ART. 58.
 
@@ -282,25 +464,27 @@ Rekening houdend met artikel 55, 56 en 57 expliciteert de dienst voor   pleegzor
 
 ### ART. 59.
 
-<P>Een attest kan door de dienst voor pleegzorg worden ingetrokken als het   pleeggezin niet langer voldoet aan een van de voorwaarden, vermeld in artikel   14, § 2, eerste lid, van het decreet van 29 juni 2012. Vooraleer het attest in   te trekken nodigt de dienst de betrokken pleegzorger uit om hem te horen.   <BR></P>  <P>De beslissing tot intrekking van het attest wordt aan de pleegzorger   meegedeeld met vermelding van de mogelijkheid om binnen een maand na de   ontvangst van de mededeling een herscreening te vragen als vermeld in artikel   14, § 5, eerste lid, van het decreet van 29 juni 2012.<BR></P>
+<p>Een attest kan door de dienst voor pleegzorg worden ingetrokken als het pleeggezin niet langer voldoet aan een van de voorwaarden, vermeld in artikel 14, § 2, eerste lid, van het decreet van 29 juni 2012. Vooraleer het attest in te trekken nodigt de dienst de volwassen leden van het pleeggezin in kwestie uit om hem te horen.</p>
+
+<p>De beslissing tot intrekking van het attest wordt aan het pleeggezin meegedeeld met vermelding van de mogelijkheid om binnen een maand na de ontvangst van de mededeling een herscreening te vragen als vermeld in artikel 14, § 5, eerste lid, van het decreet van 29 juni 2012.</p>
 
 ### ART. 60.
 
-Het attest vervalt als het verblijf van het pleegkind of de pleeggast in   het pleeggezin wordt beëindigd vanwege de gewijzigde situatie van het pleegkind   of de pleeggast in vergelijking met de situatie van het moment van de screening,   in voorkomend geval na een beslissing van de verwijzer.<BR>
+Het attest vervalt als het verblijf van het pleegkind of de pleeggast in het pleeggezin wordt beëindigd als het pleegkind of de pleeggast niet langer in het pleeggezin verblijft, in voorkomend geval na een beslissing van de verwijzer.
 
 ## [Afdeling 2/1 Bezwaar tegen de weigering of intrekking van een attest (ing. BVR 14 febuari 2014, art. 2, I: 1 maart 2014)]
 
 ### ART. 60/1.
 
-Op straffe van niet-ontvankelijkheid kan de kandidaat-pleegzorger of   pleegzorger tot uiterlijk dertig kalenderdagen na de ontvangst van de beslissing   die volgt op een herscreening als vermeld in artikel 55, § 2, derde lid, artikel   56, derde lid, of artikel 59, tweede lid, tegen die beslissing met een   aangetekende zending een gemotiveerd bezwaarschrift indienen bij het   secretariaat van de Adviescommissie.
+Op straffe van niet-ontvankelijkheid kan&nbsp;het kandidaat-pleeggezin of pleeggezin tot uiterlijk dertig kalenderdagen na de ontvangst van de beslissing die volgt op een herscreening als vermeld in artikel 55, § 2, derde lid, artikel 56, derde lid, of artikel 59, tweede lid, tegen die beslissing met een aangetekende zending een gemotiveerd bezwaarschrift indienen bij het secretariaat van de Adviescommissie.
 
 ### ART. 60/2.
 
-De Adviescommissie behandelt het bezwaarschrift, vermeld in artikel 60/1   van dit besluit, volgens de regels, vermeld in hoofdstuk 5/1 van het besluit van   de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.   De dienst voor pleegzorg die na een herscreening van de kandidaat-pleegzorger of   de pleegzorger de beslissing heeft genomen waartegen het bezwaar is gericht, en   de dienst voor pleegzorg van de verblijfplaats van de kandidaat-pleegzorger of   pleegzorger verlenen daaraan hun medewerking conform de bepalingen van dat   hoofdstuk.
+De Adviescommissie behandelt het bezwaarschrift, vermeld in artikel 60/1 van dit besluit, volgens de regels, vermeld in hoofdstuk 5/1 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers. De dienst voor pleegzorg die na een herscreening van het kandidaat-pleeggezin of het pleeggezin de beslissing heeft genomen waartegen het bezwaar is gericht, en de dienst voor pleegzorg van de verblijfplaats van het kandidaat-pleeggezin of pleeggezin verlenen daaraan hun medewerking conform de bepalingen van dat hoofdstuk.
 
 ### ART. 60/3.
 
-Binnen dertig kalenderdagen na de ontvangst van het advies van de   Adviescommissie deelt de dienst voor pleegzorg van de verblijfplaats van de   kandidaat-pleegzorger of pleegzorger zijn gemotiveerde beslissing over het   bezwaarschrift, vermeld in artikel 60/1 van dit besluit, met een aangetekende   zending mee aan de kandidaat-pleegzorger of pleegzorger. Overeenkomstig artikel   15, tweede lid, van het decreet van 7 december 2007 houdende de oprichting van   de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en   Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn,   Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers kan de dienst over het   bezwaarschrift pas een beslissing nemen na ontvangst van het advies van de   Adviescommissie. Als echter de Adviescommissie haar advies niet heeft meegedeeld   binnen de daarvoor bepaalde termijn, deelt de dienst zijn gemotiveerde   beslissing over het bezwaarschrift met een aangetekende zending mee aan de   kandidaat-pleegzorger of pleegzorger binnen dertig kalenderdagen na het   verstrijken van die termijn.
+Binnen dertig kalenderdagen na de ontvangst van het advies van de Adviescommissie deelt de dienst voor pleegzorg van de verblijfplaats van het kandidaat-pleeggezin of pleeggezin zijn gemotiveerde beslissing over het bezwaarschrift, vermeld in artikel 60/1 van dit besluit, met een aangetekende zending mee aan het kandidaat-pleeggezin of pleeggezin. Overeenkomstig artikel 15, tweede lid, van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers kan de dienst over het bezwaarschrift pas een beslissing nemen na ontvangst van het advies van de Adviescommissie. Als echter de Adviescommissie haar advies niet heeft meegedeeld binnen de daarvoor bepaalde termijn, deelt de dienst zijn gemotiveerde beslissing over het bezwaarschrift met een aangetekende zending mee aan het kandidaat-pleeggezin of pleeggezin binnen dertig kalenderdagen na het verstrijken van die termijn.
 
 ## Afdeling 3 Registratie van weigering en intrekking van attest
 
@@ -312,7 +496,57 @@ Conform artikel 15 van het decreet van 29 juni 2012 deelt de dienst voor   pleeg
 
 ### ART. 62.
 
-§ 1. Aan de pleegzorgers wordt, binnen de beschikbare begrotingskredieten,   per pleegkind of pleeggast, voor wie met toepassing van artikel 55, § 3, eerste   lid, of artikel 56, tweede lid, een attest is afgeleverd, en per opvangdag een   forfaitaire kostenvergoeding uitbetaald volgens de onderstaande tabel. Er wordt   slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag   : hij wordt bestempeld als dag van de opname. De minister kan bepaalde dagen   afwezigheid gelijkstellen met werkelijke aanwezigheid, afhankelijk van de   ingezette modules.<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>leeftijd       <TD>bedrag vergoeding <BR>    <TR>      <TD>0-6 jaar met gezinsbijslag       <TD>13,00 <BR>    <TR>      <TD>6-12 jaar met gezinsbijslag       <TD>13,40 <BR>    <TR>      <TD>12-15 jaar met gezinsbijslag       <TD>15,20 <BR>    <TR>      <TD>15-18 jaar met gezinsbijslag       <TD>16,60 <BR>    <TR>      <TD>+18 jaar met gezinsbijslag       <TD>18,00 <BR>    <TR>      <TD>0-12 zonder gezinsbijslag       <TD>19,40 <BR>    <TR>      <TD>12-18 zonder gezinsbijslag       <TD>20,95 <BR>    <TR>      <TD>+ 18 jaar met eigen inkomsten       <TD>7,00<BR></TD></TR></TBODY></TABLE>  <P><BR>Aan de vergunde diensten voor pleegzorg wordt een bijkomende forfaitaire   subsidie van 0,7 euro per pleegkind of pleeggast als vermeld in het eerste lid,   en per opvangdag toegekend. Met die extra middelen kan de dienst voor pleegzorg   zelf een bedrag toekennen aan de pleegzorger voor een aantoonbare verhoogde   zorgzwaartesituatie, af te bakenen in de tijd. Die middelen worden door de   dienst voor pleegzorg beheerd en jaarlijks verantwoord. Ze kunnen niet als   reserve worden aangelegd. Daarvoor worden afspraken gemaakt tussen de   verschillende vergunde diensten, die door elke dienst voor overleg worden   voorgelegd aan de participatieraad, vermeld in artikel 13.<BR></P>  <P>Als een pleegzorger een pleeggast opvangt die eigen inkomsten heeft, bedraagt   de bijdrage van de pleeggast in de kosten van de pleegzorg 513 euro per maand.   Als echter de eigen inkomsten van de pleeggast, na vrijstelling voor een bedrag   van 344 euro, lager zijn dan 513 euro per maand, wordt het verschil bijkomend   gesubsidieerd. <BR></P>  <P>De bedragen, vermeld in het eerste tot en met derde lid, zijn gekoppeld aan   de spilindex die van toepassing was op 1 januari 2013.<BR></P>  <P>§ 2. De kostenvergoeding wordt in maandelijkse voorschotten uitgekeerd aan de   diensten voor pleegzorg die de kostenvergoeding onmiddellijk doorstorten aan de   pleegzorgers. Het bedrag van het maandelijkse voorschot wordt berekend op basis   van de jaarlijks te verwachten uitgaven. De afrekening gebeurt in het volgende   kalenderjaar.<BR></P>
+§ 1. Per pleegkind of pleeggast voor wie met toepassing van artikel 55, § 3, eerste lid, of artikel 56, tweede lid, een attest is afgegeven, wordt binnen de beschikbare begrotingskredieten en per opvangdag een forfaitaire kostenvergoeding uitbetaald volgens de volgende tabel. Er wordt maar één dag aangerekend voor de dag van de opname en de dag van het ontslag. Die dag wordt bestempeld als dag van de opname. De minister kan bepaalde dagen afwezigheid gelijkstellen met werkelijke aanwezigheid, afhankelijk van de ingezette modules. De forfaitaire kostenvergoeding wordt uitbetaald aan het pleeggezin. Als het pleegkind of de pleeggast bij meerdere pleeggezinnen is ondergebracht, wordt de forfaitaire kostenvergoeding evenredig verdeeld.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>leeftijd</td>
+			<td>bedrag vergoeding</td>
+		</tr>
+		<tr>
+			<td>0-6 jaar met gezinsbijslag</td>
+			<td>13,00</td>
+		</tr>
+		<tr>
+			<td>6-12 jaar met gezinsbijslag</td>
+			<td>13,40</td>
+		</tr>
+		<tr>
+			<td>12-15 jaar met gezinsbijslag</td>
+			<td>15,20</td>
+		</tr>
+		<tr>
+			<td>15-18 jaar met gezinsbijslag</td>
+			<td>16,60</td>
+		</tr>
+		<tr>
+			<td>+18 jaar met gezinsbijslag</td>
+			<td>18,00</td>
+		</tr>
+		<tr>
+			<td>0-12 zonder gezinsbijslag</td>
+			<td>19,40</td>
+		</tr>
+		<tr>
+			<td>12-18 zonder gezinsbijslag</td>
+			<td>20,95</td>
+		</tr>
+		<tr>
+			<td>+ 18 jaar met eigen inkomsten</td>
+			<td>7,00</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+Aan de vergunde diensten voor pleegzorg wordt een bijkomende forfaitaire subsidie van 0,7 euro per pleegkind of pleeggast als vermeld in het eerste lid, en per opvangdag toegekend. Met die extra middelen kan de dienst voor pleegzorg zelf een bedrag toekennen aan de pleegzorger voor een aantoonbare verhoogde zorgzwaartesituatie, af te bakenen in de tijd. Die middelen worden door de dienst voor pleegzorg beheerd en jaarlijks verantwoord. Ze kunnen niet als reserve worden aangelegd. Daarvoor worden afspraken gemaakt tussen de verschillende vergunde diensten, die door elke dienst voor overleg worden voorgelegd aan de participatieraad, vermeld in artikel 13.</p>
+
+<p>Als een pleegzorger een pleeggast opvangt die eigen inkomsten heeft, bedraagt de bijdrage van de pleeggast in de kosten van de pleegzorg 513 euro per maand. Als echter de eigen inkomsten van de pleeggast, na vrijstelling voor een bedrag van 344 euro, lager zijn dan 513 euro per maand, wordt het verschil bijkomend gesubsidieerd. De minister kan een lijst opstellen met de eigen inkomsten die mee in rekening genomen worden om de eigen inkomsten te berekenen.</p>
+
+<p>De bedragen, vermeld in het eerste tot en met derde lid, zijn gekoppeld aan de spilindex die van toepassing was op 1 januari 2013.</p>
+
+<p>§ 2. De kostenvergoeding wordt in maandelijkse voorschotten uitgekeerd aan de diensten voor pleegzorg die de kostenvergoeding onmiddellijk doorstorten aan de pleegzorgers. Het bedrag van het maandelijkse voorschot wordt berekend op basis van de jaarlijks te verwachten uitgaven. De afrekening gebeurt in het volgende kalenderjaar.</p>
 
 ### ART. 63.
 
@@ -326,7 +560,34 @@ Conform artikel 15 van het decreet van 29 juni 2012 deelt de dienst voor   pleeg
 
 ### ART. 65.
 
-<P>§ 1. Om in aanmerking te komen voor een subsidie via een convenant moet een   partnerorganisatie aan al de volgende voorwaarden voldoen : <BR>1° de   voorwaarden, vermeld in artikel 19, § 1, tweede lid, van het decreet 29 juni   2012, en vermeld in dit hoofdstuk, naleven;<BR>2° de bepalingen van het   convenant naleven;<BR>3° per werkingsjaar een jaarplan indienen dat kadert in   het beleidsplan, vermeld in artikel 64, § 1, eerste lid, 6°, van dit   besluit;<BR>4° het jaarplan uitvoeren;<BR>5° een jaarverslag als vermeld in   paragraaf 2, indienen; <BR>6° een financieel verslag als vermeld in paragraaf 3,   indienen;<BR>7° beschikken over een huishoudelijk reglement dat zijn werking   beschrijft;<BR>8° voorzien in een gelijkwaardige participatie van de bij de   pleegzorg betrokken actoren en van experten bij haar werking.<BR></P>  <P>§ 2. Het jaarverslag, vermeld in paragraaf 1, 5°, voldoet aan de volgende   voorwaarden : <BR>1° het jaarverslag bevat ten minste de gegevens om aan de hand   van de evaluatiecriteria de uitvoering van de activiteiten te kunnen beoordelen,   en een samenvatting van het jaarverslag die aangevuld kan worden met bijlagen;   <BR>2° het jaarverslag wordt, tenzij het anders bepaald is in het convenant,   ingediend bij het agentschap voor 31 maart van het jaar dat volgt op het   werkingsjaar in kwestie;<BR>3° de structuur van het jaarverslag is afgestemd op   de structuur van het jaarplan;<BR>4° het jaarverslag, of de samenvatting ervan,   kan beschikbaar worden gesteld op de website van het agentschap. <BR></P>  <P>§ 3. Een financieel verslag als vermeld in paragraaf 1, 6°, wordt, tenzij het   anders bepaald is in de beheersovereenkomst, ingediend bij het agentschap voor   31 maart van het jaar dat volgt op het werkingsjaar in kwestie en bevat al de   volgende gegevens : <BR>1° een resultatenrekening over het convenant;<BR>2° de   oorsprong, de omvang en de besteding van de middelen die verkregen zijn buiten   de beheersovereenkomst en die aangewend worden om de activiteiten, vermeld in   het convenant, te realiseren;<BR>3° een genummerde lijst van de kosten die   gemaakt zijn, met verwijzing naar de uitgavencategorie. De originele   bewijsstukken worden bijgehouden door de organisatie;<BR>4° een voor waar en   echt verklaarde schuldvordering;<BR>5° indien van toepassing, een   afschrijvingstabel met de lopende en de nieuwe afschrijvingen.<BR></P>  <P>De resultatenrekening, vermeld in het eerste lid, 1°, geeft onder andere   informatie over : <BR>1° de besteding van de subsidie per uitgavencategorie, en   in het bijzonder over : <BR>a) de besteding van de subsidie aan personeelskosten   per medewerker, met vermelding van de functie en de tewerkstellingstijd per   medewerker;<BR>b) de besteding van de subsidie aan de uitbesteding van   activiteiten; <BR>2° als het zo bepaald is in het convenant of het jaarplan, de   besteding van de subsidie en de eventuele reserve, verdeeld per resultaatgebied,   per activiteit of per groepering van activiteiten.<BR></P>
+<p>§ 1. Om in aanmerking te komen voor een subsidie via een convenant moet een partnerorganisatie aan al de volgende voorwaarden voldoen :<br>
+1° de voorwaarden, vermeld in artikel 19, § 1, tweede lid, van het decreet 29 juni 2012, en vermeld in dit hoofdstuk, naleven;<br>
+2° de bepalingen van het convenant naleven;<br>
+3° per werkingsjaar een jaarplan indienen dat kadert in het beleidsplan, vermeld in artikel 64, § 1, eerste lid, 6°, van dit besluit;<br>
+4° het jaarplan uitvoeren;<br>
+5° een jaarverslag als vermeld in paragraaf 2, indienen;<br>
+6° een financieel verslag als vermeld in paragraaf 3, indienen;<br>
+7° beschikken over een huishoudelijk reglement dat zijn werking beschrijft;<br>
+8° voorzien in een gelijkwaardige participatie van de bij de pleegzorg betrokken actoren en van experten bij haar werking.</p>
+
+<p>§ 2. Het jaarverslag, vermeld in paragraaf 1, 5°, voldoet aan de volgende voorwaarden :<br>
+1° het jaarverslag bevat ten minste de gegevens om aan de hand van de evaluatiecriteria de uitvoering van de activiteiten te kunnen beoordelen, en een samenvatting van het jaarverslag die aangevuld kan worden met bijlagen;<br>
+2° het jaarverslag wordt, tenzij het anders bepaald is in het convenant, ingediend bij het agentschap voor 31 maart van het jaar dat volgt op het werkingsjaar in kwestie;<br>
+3° ...;<br>
+4° het jaarverslag, of de samenvatting ervan, kan beschikbaar worden gesteld op de website van het agentschap.</p>
+
+<p>§ 3. Een financieel verslag als vermeld in paragraaf 1, 6°, wordt, tenzij het anders bepaald is in de beheersovereenkomst, ingediend bij het agentschap voor 31 maart van het jaar dat volgt op het werkingsjaar in kwestie en bevat al de volgende gegevens :<br>
+1° een resultatenrekening over het convenant;<br>
+2° de oorsprong, de omvang en de besteding van de middelen die verkregen zijn buiten de beheersovereenkomst en die aangewend worden om de activiteiten, vermeld in het convenant, te realiseren;<br>
+3° een genummerde lijst van de kosten die gemaakt zijn, met verwijzing naar de uitgavencategorie. De originele bewijsstukken worden bijgehouden door de organisatie;<br>
+4° een voor waar en echt verklaarde schuldvordering;<br>
+5° indien van toepassing, een afschrijvingstabel met de lopende en de nieuwe afschrijvingen.</p>
+
+<p>De resultatenrekening, vermeld in het eerste lid, 1°, geeft onder andere informatie over :<br>
+1° de besteding van de subsidie per uitgavencategorie, en in het bijzonder over :<br>
+a) de besteding van de subsidie aan personeelskosten per medewerker, met vermelding van de functie en de tewerkstellingstijd per medewerker;<br>
+b) de besteding van de subsidie aan de uitbesteding van activiteiten;<br>
+2° als het zo bepaald is in het convenant of het jaarplan, de besteding van de subsidie en de eventuele reserve, verdeeld per resultaatgebied, per activiteit of per groepering van activiteiten.</p>
 
 ## HOOFDSTUK 6 Administratieve geldboeten
 
