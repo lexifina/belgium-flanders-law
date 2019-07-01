@@ -62,7 +62,7 @@ Vanaf het werkingsjaar 2020 worden de percentages, vermeld in het eerste lid, 1�
 <br>
 Vanaf het werkingsjaar 2021 worden de percentages, vermeld in het eerste lid, 1°, 3° en 4°, respectievelijk vervangen door 35 %, 2,7 % en 17 %.<br>
 <br>
-De percentages, vermeld in het eerste lid, 1°, 2°, 3° en 4°, worden driejaarlijks geëvalueerd.<br>
+De percentages, vermeld in het eerste lid, 1°, 2°, 3° en 4°, worden in september 2019 en daarna driejaarlijks geëvalueerd.<br>
 <br>
 De gebruikersbijdrage gezinszorg, vermeld in het eerste lid, 2°, wordt geïndexeerd conform de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de index die van toepassing is op 1 januari 2019. De koppeling aan het prijsindexcijfer gebeurt op 1 januari van het jaar dat op de indexsprong volgt.<br>
 <br>
@@ -92,7 +92,7 @@ Voor de effectief gepresteerde uren gezinszorg, vermeld in het eerste lid, worde
 <br>
 Aan een dienst worden niet meer extra uren gezinszorg toegekend dan hij aangevraagd heeft.<br>
 <br>
-Extra uren voor een bepaalde regionale stad die niet aan de betrokken diensten kunnen worden toegewezen omdat er meer uren beschikbaar zijn dan aangevraagd, worden overgedragen naar de regionale stad met de laagste invulling van de programmatie waar er nog aanvragen zijn die niet volledig gehonoreerd zijn.
+Extra uren voor een bepaalde regionale stad die niet aan de betrokken diensten kunnen worden toegewezen omdat er meer uren beschikbaar zijn dan aangevraagd, worden gelijkmatig overgedragen aan de vijf regionale steden met de laagste invulling van de programmatie waar er nog aanvragen zijn die niet volledig gehonoreerd zijn.
 
 ### ART 6.
 
