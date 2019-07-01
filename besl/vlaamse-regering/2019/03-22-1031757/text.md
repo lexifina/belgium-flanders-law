@@ -914,6 +914,62 @@ In artikel 6.1.3.1, derde lid, van hetzelfde besluit, gewijzigd bij het besluit 
 
 In artikel 6.1.3.5 van hetzelfde besluit worden de woorden "aangetekende brief" vervangen door de woorden "beveiligde zending".
 
+### ART 77.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 22 december 2017, worden de artikelen 6.2.6 tot 6.2.18 toegevoegd die luiden als volgt:<br>
+<br>
+"Art. 6.2.6. Specifieke inrichtingen die vergund zijn voor de nuttige toepassing van afvalstoffen, kunnen bij de OVAM een goedkeuring aanvragen als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen als vermeld in artikel 14 van de verordening. Ze maken daarvoor gebruik van het webloket dat de OVAM via haar website ter beschikking stelt.<br>
+<br>
+Art. 6.2.7. De OVAM stelt een register van vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen ter beschikking via haar website.<br>
+<br>
+Art. 6.2.8. De aanvraag van goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen moet al de volgende gegevens bevatten:<br>
+1° de volgende administratieve gegevens: naam, straat en nummer, postnummer en gemeente, land, telefoonnummer, faxnummer, contactpersoon, e-mailadres en het ondernemingsnummer en, als dat beschikbaar is, het vestigingsnummer van de inrichting waarop de aanvraag betrekking heeft;<br>
+2° de vermelding van de afvalstoffen waarvoor de aanvrager de registratie wenst te verkrijgen, met de vermelding van de BAZEL/OESO-code, vermeld in bijlage IV van de verordening. De aanvrager voegt ook altijd een omschrijving van de afvalstoffen toe;<br>
+3° een afschrift van de milieuvergunning of omgevingsvergunning van de inrichting en een gedetailleerde beschrijving van de verwerking van de afvalstoffen;<br>
+4° de einddatum van de milieuvergunning of de omgevingsvergunning;<br>
+5° de vergunde hoeveelheden te verwerken afvalstoffen per afvalstof en voor de gehele inrichting, als die gespecificeerd worden in de milieuvergunning of omgevingsvergunning;<br>
+6° een beschrijving van de processen en methoden die worden gebruikt voor de nuttige toepassing van de afvalstoffen, waarbij specifiek aandacht wordt besteed aan de aspecten die voor de beoordeling van de aanvraag in beschouwing genomen worden;<br>
+7° de volgende verklaring: de aanvraag van goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen, die ondertekend en gedateerd is, en waarbij de ondertekenaar verklaart dat de door hem verstrekte inlichtingen volledig en correct zijn. De naam en de functie van de ondertekenaar worden vermeld.<br>
+<br>
+Art. 6.2.9. De aanvrager van een goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen dient zijn aanvraag elektronisch in bij de OVAM. Daarvoor maakt hij gebruik van het webloket dat de OVAM via haar website ter beschikking stelt.<br>
+<br>
+Art. 6.2.10. Bij de beoordeling van de aanvragen worden minstens de volgende aspecten in beschouwing genomen:<br>
+1° de bewezen milieukwaliteit van de nuttige toepassing van de afvalstoffen tijdens de voorbije jaren;<br>
+2° de bewezen ervaring met het nuttig toepassen van de afvalstoffen waarvoor een registratie als vooraf goedgekeurde inrichting wordt aangevraagd;<br>
+3° de mate waarin de wijze van nuttige toepassing aansluit bij het Vlaamse afvalstoffen- en materialenbeleid;<br>
+4° de mate waarin de voorgestelde nuttige toepassing een bijdrage levert aan de effectieve materiaalrecyclage van de afvalstoffen;<br>
+5° de overtredingen en misbruiken van de milieuregelgeving die al zijn vastgesteld.<br>
+<br>
+Art. 6.2.11. De OVAM brengt de aanvrager op de hoogte van de ontvangst van de aanvraag door een elektronische melding in het webloket voor vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen. Zolang de aanvrager geen elektronische ontvangstmelding ontvangt, wordt de aanvraag beschouwd als niet ingediend.<br>
+<br>
+Art. 6.2.12 De OVAM beslist over de aanvraag van goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen en brengt de aanvrager op de hoogte van de toekenning of de weigering via een elektronische melding uiterlijk dertig kalenderdagen na de ontvangstdatum van de aanvraag. De behandeltermijn start op de eerstvolgende werkdag na de melding van ontvangst van de aanvraag.<br>
+<br>
+Art. 6.2.13. Als de OVAM bij de behandeling van de aanvraag, vermeld in artikel 6.2.8, om aanvullingen verzoekt, wordt de termijn van de behandeling, vermeld in artikel 6.2.12, geschorst vanaf de verzending van dat verzoek en begint die opnieuw te lopen op de eerstvolgende werkdag vanaf de ontvangst van de aanvullingen. Als de aanvrager de aanvullingen niet binnen negentig kalenderdagen aan de OVAM bezorgt, wordt de aanvraag geacht geweigerd te zijn. De voormelde termijn van negentig kalenderdagen kan in overleg tussen de aanvrager en de OVAM verlengd worden.<br>
+<br>
+Voor de verzending van het verzoek tot aanvullingen door de OVAM en het ontvangen van de aanvullingen stelt de OVAM een webloket ter beschikking via de website van de OVAM. De OVAM stuurt een elektronische ontvangstmelding van de aanvullingen naar de aanvrager.<br>
+<br>
+Na een weigering van de goedkeuring van de aanvraag van goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen wordt een nieuwe aanvraag door de OVAM alleen behandeld als de aanvrager elementen kan aandragen die een nieuwe aanvraag rechtvaardigen.<br>
+<br>
+Art. 6.2.14. De goedkeuring geldt voor een bepaalde periode, maar nooit langer dan de geldigheidsperiode van de milieuvergunning of de omgevingsvergunning van de inrichting.<br>
+<br>
+Art. 6.2.15. Elke wijziging in de gegevens van de vooraf goedgekeurde inrichting wordt elektronisch aan de OVAM meegedeeld. Daarvoor maakt de vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen gebruik van het webloket dat de OVAM via haar website ter beschikking stelt. De gewijzigde gegevens worden in het register van vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen aangepast.<br>
+<br>
+Art. 6.2.16. De goedkeuring als vooraf goedgekeurde inrichting kan niet aan derden worden doorgegeven, uitgezonderd wanneer de vooraf goedgekeurde inrichting wordt overgenomen.<br>
+<br>
+Bij een overname van de vooraf goedgekeurde inrichting deelt de goedgekeurde inrichting de administratieve gegevens zoals vermeld in artikel 6.2.8, 1°, en een bewijs van de overname mee aan de OVAM. Daarvoor maakt hij gebruik van het webloket dat de OVAM via haar website ter beschikking stelt. De nieuwe goedkeuring als vooraf goedgekeurde inrichting op naam van de overnemer is geldig met onmiddellijke ingang.<br>
+<br>
+Bij stopzetting van de activiteiten kan de vooraf goedgekeurde inrichting op zijn verzoek de goedkeuring laten opheffen. De goedkeuring wordt dan geschrapt uit het register van vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen. De houder van een vooraf goedgekeurde inrichting meldt de stopzetting van de activiteiten elektronisch aan de OVAM. Daarvoor maakt hij gebruik van het webloket dat de OVAM via haar website ter beschikking stelt. De OVAM stuurt een elektronische ontvangstmelding van de aanvraag tot opheffing en een elektronische melding van de opheffing.<br>
+<br>
+Art. 6.2.17. De vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen meldt de stopzetting van haar activiteiten elektronisch aan de OVAM. Daarvoor maakt ze gebruik van het webloket dat de OVAM via haar website ter beschikking stelt. De OVAM heft de goedkeuring dan op. De vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen wordt dan verwijderd uit het register van vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen.<br>
+<br>
+Art. 6.2.18. Elk misbruik van de goedkeuring en elke overtreding van de milieuwetgeving kan leiden tot de schorsing van de goedkeuring.<br>
+<br>
+Bij een vaststelling van misbruik van de goedkeuring of van een overtreding van de milieuwetgeving wordt de vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen door de OVAM met een beveiligde zending op de hoogte gebracht van de voorgenomen beslissing tot schorsing en de motieven daarvoor. De vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen beschikt over veertien dagen om haar verweermiddelen kenbaar te maken of om aan te tonen dat haar zaken ondertussen in orde zijn gebracht. Ze kan vragen om gehoord te worden.<br>
+<br>
+De schorsing wordt door de OVAM met een beveiligde zending aan de vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen meegedeeld, met vermelding van de motieven. Na de schorsing wordt de vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen verwijderd uit het register van vooraf goedgekeurde inrichtingen voor de nuttige toepassing van afvalstoffen.<br>
+<br>
+Een schorsing van de goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen blijft van kracht voor een termijn die afloopt samen met de einddatum van de goedkeuring. Als door de geschorste vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen intussen kan worden aangetoond dat de aanleiding tot schorsing niet meer bestaat, kan de schorsing ongedaan worden gemaakt. Tijdens de periode van de schorsing kan de vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen geen nieuwe goedkeuring als vooraf goedgekeurde inrichting voor de nuttige toepassing van afvalstoffen verkrijgen.".
+
 ### ART 78.
 
 In artikel 7.2.3.2 van hetzelfde besluit wordt tussen de woorden "de OVAM" en de woorden "en de houder van het register" de zinsnede ", de toezichthouder" ingevoegd.
