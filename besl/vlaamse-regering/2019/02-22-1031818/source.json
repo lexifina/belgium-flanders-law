@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031818,
+  "title": "Besluit van de Vlaamse Regering van 2019-02-22 tot erkenning van de beroepskwalificatie procesoperator textielverzorging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031818/VolledigDocument?datum=2019-07-01",
+  "source_sha256": "1b90e6e8bb8998a387700bb522c4322447ed5bff511eb7f7a8f5a70e44c32485",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031818&param=informatie",
+  "as_of": "2019-07-01",
+  "made": "2019-02-22",
+  "gazette": "2019-06-21",
+  "numac": 2019030466,
+  "document_start": "2019-07-01",
+  "document_end": null,
+  "in_force": "2019-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
