@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033722,
+  "title": "Besluit van de Vlaamse Regering van 2020-09-18 tot wijziging van het besluit van de Vlaamse Regering van 7 december 2018 tot financiering van sommige sociale akkoorden in bepaalde gezondheidsinrichtingen en -diensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033722/VolledigDocument?datum=2019-07-01",
+  "source_sha256": "2ffd6f4d7c5a0b20469048e1749a2b7f3fa8c30f44d9528f7064b582cb59b25c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033722&param=informatie",
+  "as_of": "2019-07-01",
+  "made": "2020-09-18",
+  "gazette": "2020-10-13",
+  "numac": 2020015727,
+  "document_start": "2020-07-01",
+  "document_end": null,
+  "in_force": "2019-07-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2019-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
