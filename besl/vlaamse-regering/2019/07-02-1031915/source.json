@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031915,
+  "title": "Besluit van de Vlaamse Regering van 2019-07-02 tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031915/VolledigDocument?datum=2019-07-02",
+  "source_sha256": "cae789ae06c6e7806f3c01139636bae436d87b2e0c11d0532fe11b144465e5b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031915&param=informatie",
+  "as_of": "2019-07-02",
+  "made": "2019-07-02",
+  "gazette": "2019-07-17",
+  "numac": 2019030721,
+  "document_start": "2019-07-02",
+  "document_end": null,
+  "in_force": "2019-07-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2019-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
