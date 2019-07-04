@@ -41,6 +41,14 @@ Elke persoon die het terugkommoment volgt, is een vergoeding verschuldigd. De Vl
 De Vlaamse Regering bepaalt de regels voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de instellingen die het terugkommoment organiseren.<br>
 &nbsp;
 
+### ART 6/1.
+
+De instelling die een erkenning wenst te bekomen, is bij de aanvraag tot erkenning en hierna jaarlijks, zolang de erkenning behouden blijft, een retributie verschuldigd.<br>
+<br>
+De lesgever die een onderdeel van het terugkommoment wenst te geven en hiertoe een erkenning wenst te bekomen, is bij de aanvraag tot erkenning een retributie verschuldigd.<br>
+<br>
+De Vlaamse Regering stelt de bedragen van deze retributies alsook de wijze waarop aan de retributie moet worden voldaan, vast.
+
 ### ART 7.
 
 De Vlaamse Regering kan de nadere regels bepalen waaronder subsidies verleend worden aan de erkende instellingen voor de organisatie van het terugkommoment.<br>
@@ -48,13 +56,41 @@ De Vlaamse Regering kan de nadere regels bepalen waaronder subsidies verleend wo
 
 ## [HOOFDSTUK 4/1 Controle (ing. decr. 26 april 2019, art. 31, I: 4 juli 2019)]
 
+### ART 7/1.
+
+Zowel de erkende instellingen als de lesgevers die erkend zijn om een onderdeel van het terugkommoment te geven, kunnen door inspecteurs gecontroleerd worden op de naleving van de bepalingen van dit decreet en van zijn uitvoeringsbesluiten.<br>
+<br>
+De nadere regels betreffende deze controle en de aanwijzing van de inspecteurs die deze controle verrichten, worden bepaald door de Vlaamse Regering.
+
+### ART 7/2.
+
+Met toepassing van artikel 23, lid 1, e) en h), van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG (algemene verordening gegevensbescherming) kunnen de inspecteurs, vermeld in artikel 7/1 van dit decreet, beslissen de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet toe te passen bij de verwerkingen van persoonsgegevens in het kader van een onderzoek dat betrekking heeft op een welbepaalde natuurlijke persoon, als voldaan is aan de voorwaarden, vermeld in het tweede tot en met het tiende lid.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het eerste lid, geldt alleen gedurende de periode waarin de betrokkene het voorwerp uitmaakt van een controle, een onderzoek of de voorbereidende werkzaamheden die daarmee verband houden, in het kader van de decretale en reglementaire opdrachten van de inspecteurs, vermeld in artikel 7/1 van dit decreet, en op voorwaarde dat het voor het goede verloop van het onderzoek noodzakelijk is of kan zijn dat de verplichtingen en de rechten, vermeld in artikel 12 tot en met 22 van de voormelde verordening, niet worden toegepast.<br>
+<br>
+De persoonsgegevens worden niet langer bewaard dan nodig is voor de doeleinden waarvoor zij worden verwerkt.<br>
+<br>
+De afwijkingsmogelijkheid, vermeld in het eerste lid, heeft geen betrekking op de gegevens die los staan van het voorwerp van het onderzoek dat of van de controle die de weigering of beperking van de rechten, vermeld in het eerste lid, rechtvaardigt.<br>
+<br>
+Als de betrokkene in het geval, vermeld in het eerste lid, tijdens de periode, vermeld in het tweede lid, een verzoek indient op basis van artikel 12 tot en met 22 van de voormelde verordening, bevestigt de bevoegde functionaris voor gegevensbescherming de ontvangst daarvan.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene schriftelijk, zo snel mogelijk en in elk geval binnen de termijn van een maand na ontvangst van het verzoek, over elke weigering of beperking van de rechten, vermeld in het eerste lid. De informatie over de weigering of beperking hoeft niet te worden verstrekt als de verstrekking daarvan de decretale en reglementaire opdrachten van de inspecteurs, vermeld in artikel 7/1 van dit decreet, zou ondermijnen, met behoud van het achtste lid. Indien nodig kan die termijn met twee maanden worden verlengd, rekening houdend met het aantal aanvragen en de complexiteit ervan. De verwerkingsverantwoordelijke stelt de betrokkene binnen één maand na ontvangst van het verzoek in kennis van deze verlenging en van de redenen voor het uitstel.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming informeert de betrokkene ook over de mogelijkheid om een verzoek in te dienen bij de Vlaamse toezichtcommissie voor de verwerking van persoonsgegevens overeenkomstig artikel 10/5, van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer en om een beroep in rechte in te stellen.<br>
+<br>
+De bevoegde functionaris voor gegevensbescherming noteert de feitelijke of juridische gronden waarop de beslissing is gebaseerd. Die informatie houdt hij ter beschikking van de voornoemde Vlaamse toezichtcommissie.<br>
+<br>
+Nadat het onderzoek afgesloten is, worden de rechten, vermeld in artikel 13 tot en met 22 van de voormelde verordening, in voorkomend geval, conform artikel 12 van de voormelde verordening opnieuw toegepast.<br>
+<br>
+Als een dossier dat persoonsgegevens als vermeld in het eerste lid bevat, is verzonden naar het Openbaar Ministerie en kan leiden tot activiteiten onder leiding van het Openbaar Ministerie of een onderzoeksrechter, en er onduidelijkheid is over het geheim van het onderzoek onder leiding van het Openbaar Ministerie of een onderzoeksrechter, mag de bevoegde functionaris voor gegevensbescherming op verzoek van de betrokkene overeenkomstig artikel 12 tot en met 22 van de voormelde verordening pas antwoorden nadat het Openbaar Ministerie of, in voorkomend geval, de onderzoeksrechter heeft bevestigd dat een antwoord het onderzoek niet in het gedrang brengt of kan brengen.
+
 ## HOOFDSTUK 5 Handhaving
 
 ### ART 8.
 
 Iedereen die het terugkommoment, vermeld in artikel 4, niet tijdig volgt, wordt gestraft met een geldboete van 50 euro tot 500 euro.<br>
 <br>
-De strafvordering die het gevolg is van dit misdrijf, verjaart één jaar na de dag waarop het misdrijf is begaan, onverminderd een eventuele stuiting of schorsing.<br>
+De strafvordering die het gevolg is van dit misdrijf, verjaart&nbsp;twee jaar na de dag waarop het misdrijf is begaan, onverminderd een eventuele stuiting of schorsing.<br>
 &nbsp;
 
 ### ART 9.
@@ -112,6 +148,14 @@ De vordering tot voldoening van de bestuurlijke geldboete verjaart vijf jaar na 
 &nbsp;
 
 ## [HOOFDSTUK 5/1 Verwerking van gegevens (ing. decr. 26 april 2019, art. 33, I: 4 juli 2019)]
+
+### ART 11/1.
+
+Met het oog op de uitvoering van de bevoegdheden en de taken vermeld in of ter uitvoering van dit decreet worden gegevens, inclusief de gegevens, vermeld in artikel 9, lid 1, en 10 van verordening (EU) 2016/679 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens en tot intrekking van richtlijn 95/46/EG, verwerkt.<br>
+<br>
+Die gegevens worden verwerkt met naleving van de regelgeving op de bescherming van natuurlijke personen met betrekking tot de verwerking van persoonsgegevens.<br>
+<br>
+De Vlaamse Regering bepaalt welke gegevens worden verwerkt, stelt de wijze vast waarop die gegevens worden verwerkt en wijst de verantwoordelijke voor de verwerking aan.
 
 ## HOOFDSTUK 6 Wijziging van het Gerechtelijk Wetboek
 
