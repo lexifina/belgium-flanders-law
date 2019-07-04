@@ -6,6 +6,10 @@
 
 Dit decreet regelt een gewestaangelegenheid.
 
+### ART 1bis.
+
+Dit decreet voorziet in de gedeeltelijke omzetting van richtlijn (EU) 2016/1629 van het Europees Parlement en de Raad van 14 september 2016 tot vaststelling van de technische voorschriften voor binnenschepen, tot wijziging van richtlijn 2009/100/EG en tot intrekking van richtlijn 2006/87/EG, en richtlijn 2008/68/EG van het Europees Parlement en de Raad van 24 september 2008 betreffende het vervoer van gevaarlijke goederen over land.
+
 ### ART. 2.
 
 Voor de toepassing van dit decreet wordt verstaan onder:<br>
@@ -84,6 +88,8 @@ Bovendien is de vennootschap in ieder geval belast met de volgende taken:<br>
 8° bis de ontwikkeling van het netwerk van de waterwegen en de omgeving ervan als samenhangend geheel ter creatie van economische en maatschappelijke meerwaarde en ter bevordering van welvaart en leefbaarheid;<br>
 8° ter de organisatie van streek- en watergebonden overleg met regionale en lokale besturen en belangenvertegenwoordigingen;<br>
 8° quater de verhoging van de trafiek via de waterwegen;<br>
+8° quinquies het toezicht op de naleving en de bestuurlijke handhaving van de regels van politie over het verkeer op de waterwegen;<br>
+8° sexies het uitvoeren van de voorschriften voor de waterwegen en havens met betrekking tot het vervoer van gevaarlijke goederen over de binnenwateren, met uitzondering van de voorschriften voor het vervoer van radioactieve stoffen, explosieven en dierlijke stoffen die een gevaar vormen voor de bevolking. De vennootschap is ook belast met het toezicht op de naleving en de bestuurlijke handhaving van die voorschriften;<br>
 9° alle andere soortgelijke werkzaamheden die aan de vennootschap worden opgedragen door de Vlaamse regering.<br>
 <br>
 De taken, vermeld in het tweede lid, 2°, 3° en 4°, kunnen ook worden uitgeoefend op, onder of over onroerende goederen die behoren tot het openbare en het private domein van de federale overheid, het Vlaamse Gewest, de Vlaamse Gemeenschap, de provincies, de gemeenten, de havenbedrijven en de instellingen die eronder ressorteren, met toestemming van de eigenaar. Die toestemming wordt met een aangetekende brief gevraagd.<br>
@@ -94,7 +100,16 @@ De taken, vermeld in het tweede lid, 2°, 3° en 4°, kunnen ook worden uitgeoef
 <br>
 § 5. De vennootschap kan andere rechtspersonen oprichten, erin deelnemen of zich erin laten vertegenwoordigen, als dat past in zijn opdrachten. De oprichting, deelname of vertegenwoordiging mag geen speculatieve oogmerken nastreven en gebeurt in overeenstemming met het gelijkheidsbeginsel, de regelgeving over mededinging en staatssteun, en het ondernemingsplan. De beslissing tot oprichting, deelname of vertegenwoordiging toont aan dat aan de voormelde voorwaarden is voldaan.<br>
 <br>
-Het verzoek tot oprichting, deelname of vertegenwoordiging wordt binnen dertig dagen aan de Vlaamse Regering verzonden. Tot de oprichting, deelname of vertegenwoordiging kan pas worden overgegaan na machtiging van de Vlaamse Regering.
+Het verzoek tot oprichting, deelname of vertegenwoordiging wordt binnen dertig dagen aan de Vlaamse Regering verzonden. Tot de oprichting, deelname of vertegenwoordiging kan pas worden overgegaan na machtiging van de Vlaamse Regering.<br>
+<br>
+§ 6. De vennootschap is belast met de scheepvaartcontrole. Ze is in het bijzonder belast met de volgende taken:<br>
+1° de onderzoeken en de afgifte van certificaten, attesten, verklaringen en goedkeuringen over de technische voorschriften voor binnenschepen en binnenschepen die ook voor niet-internationale zeereizen worden gebruikt, met uitzondering van pleziervaartuigen. De vennootschap is ook belast met het toezicht op de naleving en de bestuurlijke handhaving van die technische voorschriften;<br>
+2° de onderzoeken en de afgifte van certificaten, attesten, verklaringen en goedkeuringen over de voorschriften voor de schepen voor het vervoer van gevaarlijke goederen over de binnenwateren, met uitzondering van het vervoer van radioactieve stoffen, explosieven en dierlijke stoffen die een gevaar vormen voor de bevolking. De vennootschap is ook belast met het toezicht op de naleving en de bestuurlijke handhaving van die voorschriften;<br>
+3° de uitvoering van de regelgeving over de meting van binnenschepen, alsook het toezicht op de naleving en de bestuurlijke handhaving van de desbetreffende voorschriften;<br>
+4° de uitvoering van de regelgeving over de bemanningsvoorschriften en de bekwaamheidsbewijzen in de binnenvaart, alsook het toezicht op de naleving en de bestuurlijke handhaving van die regelgeving;<br>
+5° de uitvoering van het Verdrag inzake de verzameling, afgifte en inname van afval in de Rijn- en binnenvaart, ondertekend in Straatsburg op 9 september 1996, en van de regelgeving tot uitvoering van dat verdrag, alsook het toezicht op de naleving en de bestuurlijke handhaving van die regelgeving, binnen de perken van de gewestelijke bevoegdheden.<br>
+<br>
+§ 7. De Vlaamse Regering kan de maatschappelijke opdracht van de vennootschap nader omschrijven en de Vlaamse Regering kan randvoorwaarden vastleggen voor de uitvoering van haar taken.
 
 ## AFDELING 2 BEVOEGDHEDEN
 
@@ -104,7 +119,7 @@ Het verzoek tot oprichting, deelname of vertegenwoordiging wordt binnen dertig d
 
 Met behoud van de toepassing van artikel 5, § 3, oefent de vennootschap haar bevoegdheden uit op de volgende manier:<br>
 1° voor het doel, vermeld in artikel 5, § 1, eerste lid: binnen de grenzen, vastgelegd in het besluit van de Vlaamse Regering en de bijgevoegde plannen, vermeld in artikel 5, § 1, eerste lid;<br>
-2° voor het doel, vermeld in artikel 5, § 1, derde lid: binnen het Vlaamse Gewest.
+2° voor het doel, vermeld in artikel 5, § 1, derde lid, en de taken, vermeld in artikel 5, § 6: binnen het Vlaamse Gewest.
 
 ## [ONDERAFDELING 1bis (verv. decr. 23 december 2016, art. 14, I: 10 februari 2017)] DOMEINBEHEER
 
@@ -227,7 +242,12 @@ In dringende gevallen evenwel mag met de uitvoering van de werken worden begonne
 
 De vennootschap is bevoegd binnen zijn gebiedsomschrijving zoals bedoeld in artikel 5, § 1, eerste lid, tot het innen van rechten van welke aard ook, wegens het gebruik van een waterweg, van zijn infrastructuur en van zijn aanhorigheden, alsmede van de watervangen, van de watergebonden gronden en van de infrastructuur daarop.<br>
 <br>
-De rechten, bedoeld in het eerste lid, worden bij uitsluiting van alle andere overheden geïnd door de vennootschap en ze komen ten goede aan de vennootschap.<br>
+De vennootschap is bevoegd om de volgende retributies te innen:<br>
+1° retributies voor prestaties om vaartuigen voor de binnenvaart te certificeren en te meten;<br>
+2° retributies voor de bemanningsvoorschriften en de bekwaamheidsbewijzen;<br>
+3° retributies voor de verzameling, de afgifte en de inname van afval in de Rijn- en binnenvaart.<br>
+<br>
+De rechten, bedoeld in het eerste en het tweede&nbsp;lid, worden bij uitsluiting van alle andere overheden geïnd door de vennootschap en ze komen ten goede aan de vennootschap.<br>
 <br>
 De raad van bestuur stelt de tarieven vast.
 
@@ -251,7 +271,31 @@ De raad van bestuur kan de verstrekking van bijzondere diensten al dan niet door
 
 ## [ONDERAFDELING 8 SCHEEPVAARTCONTROLE (ing. decr. 26 april 2019, art. 38, I: 4 juli 2019)]
 
+### ART 20ter.
+
+Onder de binnenvaartcommissie binnen de vennootschap ressorteert een Commissie van Deskundigen.<br>
+<br>
+De Commissie van Deskundigen is onder meer belast met de volgende taken:<br>
+1° de taken van de Commissie van Deskundigen, vermeld in het Reglement Onderzoek Schepen op de Rijn en het Reglement betreffende het Scheepvaartpersoneel op de Rijn, aangenomen door de Centrale Commissie voor de Rijnvaart;<br>
+2° al dan niet voorlopige Uniebinnenvaartcertificaten en aanvullende Uniebinnenvaartcertificaten, andere attesten, verklaringen en goedkeuringen over de technische voorschriften voor binnenschepen en scheepsonderdelen afleveren, vernieuwen en verlengen, en de onderzoeken met het oog daarop uitvoeren;<br>
+3° het aanvullende Uniebinnenvaartcertificaat van binnenschepen die ook voor niet-internationale zeereizen worden gebruikt, annoteren en die annotatie bekrachtigen, en onderzoeken met het oog daarop uitvoeren;<br>
+4° al dan niet voorlopige certificaten van goedkeuring, andere attesten, verklaringen en goedkeuringen over de voorschriften voor het vervoer van gevaarlijke goederen over de binnenwateren afleveren, vernieuwen en verlengen, en toezicht houden op de onderzoeken met het oog daarop;<br>
+5° verklaringen over de uitrustingsstandaarden waaraan binnenschepen al dan niet voldoen en de eventuele verhoging van de minimumbemanning waarmerken, inschrijven of afgeven, en de onderzoeken met het oog daarop uitvoeren;<br>
+6° op grond van de regelgeving over de taken, vermeld in punt 1° tot en met 5°, individuele deskundigen, deskundige bedrijven en technische diensten, met uitzondering van de classificatiebureaus, erkennen of aanwijzen.<br>
+<br>
+De Commissie van Deskundigen is niet belast met handhaving.<br>
+<br>
+De Vlaamse Regering bepaalt, ter uitvoering van internationale of Unierechtelijke regels die met de hierboven vermelde taken samenhangen, de overige taken die aan de commissie worden opgedragen.<br>
+<br>
+De Vlaamse Regering stelt de nadere voorschriften vast voor de samenstelling van de Commissie van Deskundigen en de aanstelling van de leden ervan en de voorschriften met het oog op de autonome en functioneel onafhankelijke besluitvorming ervan.
+
 ## [ONDERAFDELING 9 BEKENDMAKINGEN (ing. decr. 26 april 2019, art. 40, I: 4 juli 2019)]
+
+### ART 20quater.
+
+Als de vennootschap voor de burgers bindende voorschriften of inlichtingen bekendmaakt, worden ze bekendgemaakt op een website van de vennootschap, met vermelding van zowel de datum waarop ze voor de burgers bindend worden, als de datum waarop ze op de website zijn bekendgemaakt. De bekendmaking en de datum van bekendmaking blijken uit de aantekening in een speciaal register.<br>
+<br>
+De Vlaamse Regering bepaalt de wijze waarop dat speciale register bijgehouden wordt.
 
 ## HOOFDSTUK IV STATUUT, DUUR, ONTBINDING, KAPITAAL EN AANDELEN VAN [DE VENNOOTSCHAP (verv. decr. 23 december 2016, art. 10, I: 10 februari 2017)]
 
