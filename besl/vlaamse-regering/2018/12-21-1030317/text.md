@@ -74,7 +74,7 @@ Voor schade aan de landbouwproductie kan alleen een tegemoetkoming worden verlee
 
 ### ART 4.
 
-De tegemoetkoming voor de schade wordt berekend conform artikel 25 van de verordening nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieėn steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L193 van 1 juli 2014.
+De tegemoetkoming voor de schade wordt berekend conform hoofdstuk I en II en artikel 25 van de verordening nr. 702/2014 van de Commissie van 25 juni 2014 waarbij bepaalde categorieėn steun in de landbouw- en de bosbouwsector en in plattelandsgebieden op grond van de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie met de interne markt verenigbaar worden verklaard, gepubliceerd in het Publicatieblad van de Europese Unie L193 van 1 juli 2014.
 
 ### ART 5.
 
