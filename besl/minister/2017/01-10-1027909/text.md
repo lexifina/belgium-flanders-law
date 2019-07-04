@@ -26,7 +26,7 @@ In dit besluit wordt verstaan onder samenwerkingsakkoord van 16 februari 2016: h
 
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen coördinerende dienst, vermeld in artikel 4, § 1, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
 1° Carolien Allebosch;<br>
-2° Marc Bogaert;<br>
+2° ...;<br>
 3° Vital Debroey;<br>
 4° Kathleen Derbaix;<br>
 5° Griet Goossens;<br>
@@ -36,7 +36,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
-12° Paul Van Snick;<br>
+12° ...;<br>
 13° Mark Schaerlaekens.<br>
 &nbsp;
 
@@ -44,7 +44,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen beoordelingsdienst, vermeld in artikel 4, § 2, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
 1° Carolien Allebosch;<br>
-2° Marc Bogaert;<br>
+2° ...;<br>
 3° Vital Debroey;<br>
 4° Kathleen Derbaix;<br>
 5° Griet Goossens;<br>
@@ -54,14 +54,14 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 9° Erwin Mariën;<br>
 10° Karolien Schoonjans;<br>
 11° Leen Torfs;<br>
-12° Paul Van Snick;<br>
+12°...;<br>
 13° Mark Schaerlaekens.<br>
 &nbsp;
 
 ### ART 4.
 
 De volgende personen worden aangewezen als ambtenaren die belast zijn met de opdrachten van de voor het Vlaamse Gewest aangewezen inspectiedienst, vermeld in artikel 4, § 3, 1°, van het samenwerkingsakkoord van 16 februari 2016:<br>
-1° Paul Bernaert;<br>
+1° ...;<br>
 2° Wilfried Biesemans;<br>
 3° Peter De Neve;<br>
 4° Christof De Pauw;<br>
@@ -70,7 +70,7 @@ De volgende personen worden aangewezen als ambtenaren die belast zijn met de opd
 7° Nele Loos;<br>
 8° Ingrid Roels;<br>
 9° Philip Tanghe;<br>
-10° Leentje Timmerman;<br>
+10° ...;<br>
 11° Wilfried Van den Acker;<br>
 12° Marc Van Kerckvoorde.
 
