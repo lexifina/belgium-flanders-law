@@ -1,0 +1,4 @@
+# Art. 44quinquies
+§ 1. De lijncontroleur stelt de overtredingen van de reisvoorwaarden vast bij proces-verbaal met bewijswaarde tot bewijs van het tegendeel. De lijncontroleur brengt, als dat mogelijk is, de overtreder ter plaatse ervan op de hoogte dat hij de administratieve sanctieprocedure voor het opleggen van een administratieve geldboete zal inleiden.
+§ 2. Op verzoek van de meerderjarige overtreder kan de lijncontroleur de geldboete, of een gedeelte daarvan, onmiddellijk innen. Het bedrag dat onmiddellijk wordt geïnd, is het basisbedrag van de geldboete voor de overtreding in kwestie, of een gedeelte daarvan. Betaling van de geldboete of een deel ervan, ontneemt de overtreder niet het recht om een administratief of gerechtelijk beroep in te stellen tegen het opleggen van het basisbedrag van de geldboete.
+De lijncontroleur bezorgt zijn proces-verbaal aan een sanctionerend personeelslid.
