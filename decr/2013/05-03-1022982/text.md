@@ -91,7 +91,11 @@ Elk proefproject wordt jaarlijks geëvalueerd. De Vlaamse Regering bepaalt de pr
 
 ### ART. 10.
 
-De Vlaamse Regering kan het uitzonderlijk vervoer verbieden op bepaalde   tijdstippen, plaatsen of in bepaalde omstandigheden, of het onderwerpen aan   bepaalde voorwaarden.<BR>
+De Vlaamse Regering kan het uitzonderlijk vervoer verbieden op bepaalde tijdstippen, plaatsen of in bepaalde omstandigheden, of het onderwerpen aan bepaalde voorwaarden.<br>
+<br>
+De Vlaamse Regering kan de regels bepalen voor de toekenning, weigering, verlenging, schorsing en intrekking van de erkenning van de bestuurder van het uitzonderlijk voertuig, alsook van de verkeerscoördinator en de begeleiders die het uitzonderlijk vervoer begeleiden.<br>
+<br>
+Aan elke rechtspersoon of natuurlijke persoon die een erkenningsaanvraag indient, kan voor de behandeling van de erkenningsaanvraag een retributie worden gevraagd. Dezelfde retributie kan worden gevraagd voor de uitoefening van het toezicht op de erkenningsvoorwaarden. De Vlaamse Regering bepaalt voor welke erkenningsaanvragen of toezichtverplichtingen een retributie is verschuldigd en stelt de bedragen vast, alsook de wijze waarop de retributie moet worden voldaan.
 
 ### ART. 11.
 
