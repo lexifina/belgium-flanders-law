@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032312,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 betreffende de retributies voor prestaties inzake het certificeren en het meten van vaartuigen voor de binnenvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032312/VolledigDocument?datum=2019-07-04",
+  "source_sha256": "8a0f8c9e3a7107379544c848e12e1308a4c8f7cfc3b96e3cecd22712eab951f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032312&param=informatie",
+  "as_of": "2019-07-04",
+  "made": "2019-06-28",
+  "gazette": "2019-10-07",
+  "numac": 2019041989,
+  "document_start": "2019-07-04",
+  "document_end": null,
+  "in_force": "2019-07-04",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2019-07-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
