@@ -307,6 +307,12 @@ Onverminderd artikel 33 kan het Vlaamse Gewest de in artikelen 29 tot 32 bedoeld
 
 Investeringslasten in suprastructuren komen nooit ten laste van het Vlaamse Gewest.
 
+### ART 35bis.
+
+De Vlaamse Regering kan, onder voorbehoud van goedkeuring door de Europese Commissie, binnen de perken van de kredieten die daarvoor beschikbaar zijn op de begroting, subsidies verlenen aan ondernemingen die de hinterland-connectiviteit van de Vlaamse zeehavens structureel verbeteren door de massificatie van het goederenvervoer per binnenschip en per spoor te stimuleren en de volumes beter te bundelen.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere regels inzake de subsidies.
+
 ## HOOFDSTUK V WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
 ### ART. 36.
