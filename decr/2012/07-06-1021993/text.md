@@ -22,7 +22,9 @@ De Vlaamse Regering legt nadere regels vast voor het vervoer van gevaarlijke goe
 
 ### ART. 6.
 
-De bevoegde autoriteit kan, als de veiligheid niet in het gevaar komt en in uitzonderlijke gevallen, individuele toestemming verlenen voor het vervoer van gevaarlijke goederen op een bepaald traject over de binnenwateren dat krachtens dit decreet en de uitvoeringsbesluiten ervan verboden is of erin toestemmen dat het vervoer onder andere voorwaarden plaatsvindt dan de voorwaarden bepaald door de Vlaamse Regering, op voorwaarde dat het vervoer duidelijk is gespecificeerd, van tijdelijke aard is en dat de gepaste maatregelen worden genomen om een vergelijkbaar veiligheidsniveau te bereiken.<br /><br />Onder bevoegde autoriteit, vermeld in het eerste lid, wordt verstaan de diensten van het Vlaamse Gewest die de Vlaamse Regering belast met de uitvoering van de bepalingen van dit decreet.
+De bevoegde autoriteit kan, als de veiligheid niet in het gevaar komt en in uitzonderlijke gevallen, individuele toestemming verlenen voor het vervoer van gevaarlijke goederen op een bepaald traject over de binnenwateren dat krachtens dit decreet en de uitvoeringsbesluiten ervan verboden is of erin toestemmen dat het vervoer onder andere voorwaarden plaatsvindt dan de voorwaarden bepaald door de Vlaamse Regering, op voorwaarde dat het vervoer duidelijk is gespecificeerd, van tijdelijke aard is en dat de gepaste maatregelen worden genomen om een vergelijkbaar veiligheidsniveau te bereiken.<br>
+<br>
+Onder bevoegde autoriteit, vermeld in het eerste lid, wordt verstaan de diensten die de Vlaamse Regering belast met de uitvoering van de bepalingen van dit decreet.
 
 ### ART. 7.
 
