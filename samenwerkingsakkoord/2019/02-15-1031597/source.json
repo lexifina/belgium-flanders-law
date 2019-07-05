@@ -2,16 +2,16 @@
   "codex_id": 1031597,
   "title": "Samenwerkingsakkoord van 2019-02-15 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de classificatie van films, vertoond in Belgische bioscoopzalen",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031597/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "36ef406c2e63da2824a8a5b1468d7c6a9cbff48d3ca9c9ab8f708f936e3c9476",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031597/VolledigDocument?datum=2019-07-05",
+  "source_sha256": "06660d00b72114f28ad3f373c59b4b4b3dd4597bd49e23dc14f2c7bcd6883e12",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031597&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2019-07-05",
   "made": "2019-02-15",
   "gazette": "0001-01-01",
   "numac": 0,
   "document_start": "2019-07-05",
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-07-05",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2019-07-05; future article versions excluded; article text as the API gives it"
 }
