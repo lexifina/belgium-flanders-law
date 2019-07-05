@@ -2,16 +2,16 @@
   "codex_id": 1031878,
   "title": "Besluit van de Vlaamse Regering van 2019-06-19 betreffende de werkverdeling van de regeringscommissarissen in het kader van het toezicht in het hoger onderwijs en betreffende sommige aangelegenheden met betrekking tot het statuut van de regeringscommissarissen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031878/VolledigDocument?datum=2019-07-01",
-  "source_sha256": "4004cc281b00eeb40e7c205f944f8bdcd91a0d3dff45c3931ec2d8194f398c20",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031878/VolledigDocument?datum=2019-07-05",
+  "source_sha256": "690831b4fd18a60516eb1555fa90246b5875185ec90ce19f0a35704ef7713ac5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031878&param=informatie",
-  "as_of": "2019-07-01",
+  "as_of": "2019-07-05",
   "made": "2019-06-19",
   "gazette": "2019-07-05",
   "numac": 2019030597,
   "document_start": "2019-07-05",
   "document_end": null,
-  "in_force": "2019-07-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2019-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-07-05",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2019-07-05; future article versions excluded; article text as the API gives it"
 }
