@@ -114,6 +114,14 @@ In artikel 26, § 1, vijfde lid, 1°, van hetzelfde decreet wordt de zinsnede "5
 
 In artikel 28, eerste lid, van hetzelfde decreet wordt het woord "urgente" opgeheven.
 
+### ART 18.
+
+Artikel 29 van hetzelfde decreet wordt vervangen door wat volgt :<br>
+<br>
+"Art. 29. Een minderjarige die minstens twaalf jaar is of, als hij jonger dan twaalf jaar is, tot een redelijke beoordeling van zijn belangen in staat is, zijn ouders of opvoedingsverantwoordelijken kunnen bij de toegangspoort een aanvraag tot niet rechtstreeks toegankelijke jeugdhulp indienen.<br>
+<br>
+De Vlaamse Regering bepaalt de voorwaarden om een aanvraag als vermeld in het eerste lid, te kunnen indienen.".
+
 ### ART 19.
 
 In artikel 33, § 1, 3°, van hetzelfde decreet worden tussen de woorden "wordt verleend in" en de woorden "verontrustende situaties" de woorden "bij het ondersteuningscentrum jeugdzorg aangemelde" ingevoegd.
