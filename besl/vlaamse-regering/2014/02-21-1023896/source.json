@@ -2,16 +2,16 @@
   "codex_id": 1023896,
   "title": "Besluit van de Vlaamse Regering van 2014-02-21 betreffende de integrale jeugdhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023896/VolledigDocument?datum=2019-04-19",
-  "source_sha256": "ebf5930130d278ad6d12630647d02becde2e949a987a5b60080c9f885b17ee0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023896/VolledigDocument?datum=2019-07-07",
+  "source_sha256": "e912f3ab4ef2693939c4bdea607262713de0e6fc136cb6e52ddc5c007a82dd18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023896&param=informatie",
-  "as_of": "2019-04-19",
+  "as_of": "2019-07-07",
   "made": "2014-02-21",
   "gazette": "2014-02-28",
   "numac": 2014035219,
   "document_start": "2014-02-28",
   "document_end": null,
-  "in_force": "2019-04-19",
-  "article_versions": 147,
-  "record_form": "consolidated version as in force on 2019-04-19; future article versions excluded; article text as the API gives it"
+  "in_force": "2019-07-07",
+  "article_versions": 153,
+  "record_form": "consolidated version as in force on 2019-07-07; future article versions excluded; article text as the API gives it"
 }

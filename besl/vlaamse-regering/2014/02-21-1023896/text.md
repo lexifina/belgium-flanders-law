@@ -97,7 +97,7 @@ Onder de integrale jeugdhulp valt de jeugdhulpverlening die met toepassing   van
 ### ART. 12.
 
 Om de jeugdhulp te ondersteunen bij de opdrachten, vermeld in artikel 9 van het decreet van 12 juli 2013:<br>
-1° brengt het Managementcomité een vormingsaanbod tot stand dat jeugdhulpaanbieders versterkt in het aanbieden van een krachtgerichte jeugdhulpverlening;<br>
+1° brengt het agentschap&nbsp;Opgroeien regie een vormingsaanbod tot stand dat jeugdhulpaanbieders versterkt in het aanbieden van een krachtgerichte jeugdhulpverlening;<br>
 2° kan de minister binnen de beschikbare begrotingskredieten, middelen toekennen voor het inzetten van krachtgerichte methodieken als vermeld in artikel 9, tweede lid, van het decreet van 12 juli 2013. De minister bepaalt de voorwaarden en de modaliteiten voor de subsidiëring van die methodieken.
 
 ### ART. 13.
@@ -108,11 +108,18 @@ Het ondersteuningsplan, vermeld in artikel 10 van het decreet van 12 juli   2013
 
 ### ART. 14.
 
-Om de toegankelijkheid van de jeugdhulpverlening te verbeteren voor   bijzondere doelgroepen die vanwege hun taal, culturele kenmerken,   socio-economische situatie of een handicap moeilijker toegang hebben tot de   jeugdhulpverlening, overlegt het Managementcomité met organisaties die een   expertise hebben met betrekking tot die doelgroepen en neemt het   Managementcomité maatregelen die voor deze bijzondere doelgroepen bijdragen   tot:<BR>1° de ontwikkeling van expertise met betrekking tot de toegankelijkheid   van de jeugdhulpverlening;<BR>2° de maximale ontsluiting van het   jeugdhulpverleningsaanbod;<BR>3° de versterking van de rechtstreeks   toegankelijke jeugdhulpverlening met het oog op hun inclusie.<BR>
+Om de toegankelijkheid van de jeugdhulpverlening te verbeteren voor bijzondere doelgroepen die vanwege hun taal, culturele kenmerken, socio-economische situatie of een handicap moeilijker toegang hebben tot de jeugdhulpverlening, overlegt het agentschap Opgroeien regie met organisaties die een expertise hebben met betrekking tot die doelgroepen en neemt het&nbsp;agentschap Opgroeien regie maatregelen die voor deze bijzondere doelgroepen bijdragen tot:<br>
+1° de ontwikkeling van expertise met betrekking tot de toegankelijkheid van de jeugdhulpverlening;<br>
+2° de maximale ontsluiting van het jeugdhulpverleningsaanbod;<br>
+3° de versterking van de rechtstreeks toegankelijke jeugdhulpverlening met het oog op hun inclusie.
 
 ### ART. 15.
 
-<P>Het jeugdhulpverleningsaanbod dat tot de brede instap behoort, wordt   bekendgemaakt door de betrokken sectoren op een wijze die afgestemd is in het   Managementcomité en voldoet aan de volgende intersectorale   kwaliteitseisen:<BR>1° het voorziet in een specifieke instapprocedure,   informatieverstrekking en korte hulp, los van probleemkenmerken;<BR>2° het leidt   de minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken indien nodig, en bij voorkeur zonder verdere   tussenstappen, naar het jeugdhulpverleningsaanbod dat het best bij de hulpvraag   aansluit.<BR></P>  <P>De instapprocedure, vermeld in het eerste lid, 1°, omvat een onthaal, een   vraagverheldering, een aanbodverheldering, een ontwerp van jeugdhulpverlening   en, in voorkomend geval, een verwijzing.<BR></P>
+<p>Het jeugdhulpverleningsaanbod dat tot de brede instap behoort, wordt bekendgemaakt door de betrokken sectoren op een wijze die afgestemd is in het agentschap Opgroeien regie en voldoet aan de volgende intersectorale kwaliteitseisen:<br>
+1° het voorziet in een specifieke instapprocedure, informatieverstrekking en korte hulp, los van probleemkenmerken;<br>
+2° het leidt de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken indien nodig, en bij voorkeur zonder verdere tussenstappen, naar het jeugdhulpverleningsaanbod dat het best bij de hulpvraag aansluit.</p>
+
+<p>De instapprocedure, vermeld in het eerste lid, 1°, omvat een onthaal, een vraagverheldering, een aanbodverheldering, een ontwerp van jeugdhulpverlening en, in voorkomend geval, een verwijzing.</p>
 
 ## HOOFDSTUK 5 De toegangspoort
 
@@ -159,7 +166,7 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 ### ART. 20.
 
-&nbsp;Een afgesloten dossier wordt door de toegangspoort bewaard tot   maximaal tien jaar na het bereiken door de betrokkene van de meerderjarigheid.   Een maand voor de vernietiging van het dossier wordt de betrokkene schriftelijk   op de hoogte gebracht van het feit dat hij een kopie van het dossier kan   verkrijgen.<BR>
+&nbsp;Een afgesloten dossier wordt door de toegangspoort bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt. Bij het afsluiten van het dossier wordt de betrokkene hiervan op de hoogte gebracht.
 
 ## Afdeling 3 Werking van de toegangspoort
 
@@ -177,7 +184,16 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 ### ART. 22.
 
-&nbsp;In geval van een verzoek tot toekenning van jeugdhulpverlening   vanwege de minderjarige, zijn ouders of, in voorkomend geval, zijn   opvoedingsverantwoordelijken als vermeld in artikel 29 van het decreet van 12   juli 2013, stelt het team Indicatiestelling het deel van het aanvraagdocument   met betrekking tot de identificatiegegevens in overleg met de betrokkenen op en   stelt het een erkend multidisciplinair team aan om het aanvraagdocument volledig   in te vullen in overleg met de minderjarige, zijn ouders of, in voorkomend   geval, zijn opvoedingsverantwoordelijken.<BR>
+Een aanvraag, zoals bedoeld in artikel 29, eerste lid, van het decreet van 12 juli 2013 betreffende integrale jeugdhulp kan worden ingediend als cumulatief de volgende voorwaarden vervuld zijn:<br>
+1° de minderjarige, zijn ouders of opvoedingsverantwoordelijken hebben een hulpvraag gesteld in de rechtstreeks toegankelijke of niet rechtstreeks toegankelijke jeugdhulpverlening, maar die hulpvraag is niet beantwoord om een andere reden dan de volledige bezetting van de capaciteit;<br>
+2° de minderjarige, zijn ouders of opvoedingsverantwoordelijken kunnen aantonen dat er een poging tot bemiddeling, als vermeld in artikel 30, tweede lid, van het decreet van 12 juli 2013 betreffende integrale jeugdhulp kan heeft plaatsgevonden;<br>
+3° de minderjarige, zijn ouders of opvoedingsverantwoordelijken zijn niet betrokken bij een procedure bij het ondersteuningscentrum of bij het vertrouwenscentrum kindermishandeling.<br>
+<br>
+Het verzoek moet gestaafd worden met een document dat aantoont dat er een poging tot bemiddeling heeft plaatsgevonden. Een poging tot bemiddeling als vermeld in het eerste lid, 2°, impliceert dat de vraag naar bemiddeling is gesteld, maar ofwel dat bemiddeling heeft plaatsgevonden, maar niet heeft geleid tot een conflictoplossing, ofwel dat bemiddeling niet heeft plaatsgevonden omdat een van de betrokken partijen zich niet heeft aangeboden bij de bemiddelaar of omdat er binnen een redelijke termijn geen bemiddeling werd georganiseerd.<br>
+<br>
+Als een jeugdhulpaanbieder jeugdhulpverlening weigert aan een minderjarige, een ouder of een opvoedingsverantwoordelijke, moet hij een attest van weigering opmaken waarin die weigering wordt gemotiveerd en waarin de mogelijkheid voor de minderjarige, de ouders of de opvoedingsverantwoordelijke wordt vermeld om bij de toegangspoort een verzoek tot toekenning van jeugdhulpverlening in te dienen. Hij moet de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken ook informeren over die mogelijkheid.<br>
+<br>
+In geval van een aanvraag als vermeld in het eerste lid, stelt het team Indicatiestelling het deel van het aanvraagdocument over de identificatiegegevens in overleg met de betrokkenen op en stelt het een erkend multidisciplinair team aan om het aanvraagdocument volledig in te vullen in overleg met de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken
 
 ### ART. 23.
 
@@ -204,7 +220,7 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 <p>Een voortzetting van de jeugdhulpverlening als vermeld in het eerste lid, 3° :<br>
 1° vereist niet dat de persoon op het ogenblik van de aanvraag nog van niet rechtstreeks toegankelijke jeugdhulpverlening gebruik maakt;<br>
-2° kan aangevraagd worden op voorwaarde dat voor deze persoon in het verleden niet-rechtstreeks toegankelijke jeugdhulpverlening is aangevraagd aan de op dat ogenblik bevoegde instantie voor die aanvraag;<br>
+2° kan aangevraagd worden op voorwaarde dat voor deze persoon in het verleden rechtstreeks toegankelijke of niet-rechtstreeks toegankelijke jeugdhulpverlening is aangevraagd aan de op dat ogenblik bevoegde instantie voor die aanvraag;<br>
 3° kan alleen toegekend worden als het indicatiestellingsverslag typemodules bevat die kunnen worden ingezet voor personen ouder dan achttien jaar.</p>
 
 <p>Het team indicatiestelling overweegt voor elk verzoek tot voortzetting van de jeugdhulpverlening, vermeld in artikel 18, § 3, van het decreet van 12 juli 2013, in eerste instantie of hulpverlening voor meerderjarigen in aanmerking komt voor de betrokkenen.</p>
@@ -217,7 +233,7 @@ De opgerichte toegangspoorten en hun werkgebied zijn opgenomen in de   volgende 
 
 <p>De typemodules die zijn opgenomen in het indicatiestellingsverslag als vermeld in artikel 21, eerste lid, 2°, van het decreet van 12 juli 2013, worden bepaald rekening houdend met de probleemdomeinen die aangegeven zijn in het aanvraagdocument en de kenmerken van de minderjarige. De typemodules binnen dezelfde functie en hetzelfde probleemgebied die een lagere frequentie hebben dan de typemodules opgenomen in het indicatiestellingsverslag, zijn inbegrepen in het indicatiestellingsverslag, tenzij ze expliciet wordt uitgesloten met toepassing van artikel 21, eerste lid, 2°, van het voormelde decreet.</p>
 
-<p>Het Managementcomité staat in voor monitoring en evaluatie van de jeugdhulpverlening waarbij typemodules binnen een sector of over verschillende sectoren voorzieningen overschrijdend worden gecombineerd in het indicatiestellingsverslag met het oog op het realiseren van meer administratieve en financiële afstemming tussen de verschillende betrokken sectoren.</p>
+<p>Het&nbsp;agentschap Opgroeien regie staat in voor monitoring en evaluatie van de jeugdhulpverlening waarbij typemodules binnen een sector of over verschillende sectoren voorzieningen overschrijdend worden gecombineerd in het indicatiestellingsverslag met het oog op het realiseren van meer administratieve en financiële afstemming tussen de verschillende betrokken sectoren.</p>
 
 ### ART. 27.
 
@@ -302,7 +318,7 @@ De kennisgeving voldoet minstens aan de volgende voorwaarden:<BR>1° ze is   zo 
 2° de toekenning van subsidies voor een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 67, tweede lid, van het decreet van 12 juli 2013, als de inschakeling van een intersectoraal zorgnetwerk als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 9 oktober 2015 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen, niet noodzakelijk is;<br>
 3° de aanwending van het resterende bedrag van het derde van de gezinsbijslagen ter uitvoering van artikel 68, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid.</p>
 
-<p>De bedragen, overgeschreven op de spaarrekeningen van de minderjarigen die geplaatst zijn in uitvoering van het decreet van 12 juli 2013, kunnen niet worden afgehaald zonder uitdrukkelijke machtiging van de toegangspoort, het ondersteuningscentrum of de jeugdrechter.</p>
+<p>De bedragen, overgeschreven op de spaarrekeningen van de minderjarigen die geplaatst zijn in uitvoering van het decreet van 12 juli 2013, kunnen niet worden afgehaald zonder uitdrukkelijke machtiging van de toegangspoort of de jeugdrechter.</p>
 
 <p>Als de minderjarige bij het beëindigen van de hulpverlening één of meer spaarrekeningen heeft, licht de jeugdhulpaanbieder of de sociale dienst die met het dossier is belast, de ouders van de minderjarige en de minderjarige in van het bestaan van die spaarrekeningen.</p>
 
@@ -324,15 +340,64 @@ De prioritering, vermeld in het eerste lid, houdt in dat een dossier voorrang kr
 
 ### ART. 39.
 
-<P>§ 1. De criteria voor de prioritering van een dossier door het team   Jeugdhulpregie of door de Intersectorale Regionale Prioriteitencommissie,   vermeld in artikel 37, eerste lid, 1°, en artikel 38, eerste lid zijn de   volgende:<BR>1° het feit dat het gaat om een minderjarige die al gebruikmaakt   van niet rechtstreeks toegankelijke jeugdhulpverlening en die een vraag stelt   naar dezelfde of naar een op basis van de weging ondergeschikte module   jeugdhulpverlening bij een andere jeugdhulpaanbieder;<BR>2° het feit dat het   gaat om een broer of zus van een minderjarige die al gebruik maakt van niet   rechtstreeks toegankelijke jeugdhulpverlening, tenzij het niet aangewezen is om   de minderjarige samen met zijn broer of zus te laten gebruikmaken van het aanbod   van dezelfde jeugdhulpaanbieder.<BR></P>  <P>Het criterium, vermeld in het eerste lid, 1°, geldt alleen als de   minderjarige bij de overstap naar een andere jeugdhulpaanbieder niet meer   gebruik maakt van het aanbod van de jeugdhulpaanbieder waarvan hij op het   ogenblik van de beslissing gebruik maakt.<BR></P>  <P>§ 2. Naast de criteria, vermeld in paragraaf 1, eerste lid, kan overgegaan   worden tot de prioritering van een dossier na een overweging van de volgende   elementen:<BR>1° de inschatting of de integriteit van de minderjarige in gevaar   is;<BR>2° de inschatting van de aanwezigheid van een netwerk voor de   minderjarige en van de eigen krachten in het netwerk;<BR>3° de inschatting van   het effect van de lopende jeugdhulpverlening;<BR>4° de inschatting van de al   verleende jeugdhulpverlening of hulpverlening.<BR></P>  <P>§ 3. Het team Jeugdhulpregie of de Intersectorale Regionale   Prioriteitencommissie toetst bij de prioritering of een dossier beantwoordt aan   de criteria, vermeld in paragraaf 1, of maakt een inschatting van de criteria,   vermeld in paragraaf 2, en beslist voor de dossiers die in het   indicatiestellingsverslag dezelfde typemodules hebben, welke dossiers prioritair   zijn, rekening houdend met het aantal vrijkomende plaatsen voor de typemodule in   kwestie. Het deel van het aantal vrijkomende plaatsen dat kan worden ingezet   voor prioritaire dossiers wordt bepaald door het Managementcomité Integrale   Jeugdhulp.<BR></P>  <P>§ 4. Bij de prioritering van een dossier van een minderjarige worden de   minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken daarvan op de hoogte gebracht. Als de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken niet   ingaan op een module die is opgenomen in de jeugdhulpverleningsbeslissing en die   wordt aangeboden, verliest het dossier in kwestie van de minderjarige het   statuut van een prioritair toe te wijzen hulpvraag.<BR></P>
+<p>§ 1. De criteria voor de prioritering van een dossier door het team Jeugdhulpregie of door de Intersectorale Regionale Prioriteitencommissie, vermeld in artikel 37, eerste lid, 1°, en artikel 38, eerste lid zijn de volgende:<br>
+1° het feit dat het gaat om een minderjarige die al gebruikmaakt van niet rechtstreeks toegankelijke jeugdhulpverlening en die een vraag stelt naar dezelfde&nbsp;module jeugdhulpverlening bij een andere jeugdhulpaanbieder;<br>
+2° het feit dat het gaat om een broer of zus van een minderjarige die al gebruik maakt van niet rechtstreeks toegankelijke jeugdhulpverlening, tenzij het niet aangewezen is om de minderjarige samen met zijn broer of zus te laten gebruikmaken van het aanbod van dezelfde jeugdhulpaanbieder.</p>
+
+<p>Het criterium, vermeld in het eerste lid, 1°, geldt alleen als de minderjarige bij de overstap naar een andere jeugdhulpaanbieder niet meer gebruik maakt van het aanbod van de jeugdhulpaanbieder waarvan hij op het ogenblik van de beslissing gebruik maakt.</p>
+
+<p>§ 2. Naast de criteria, vermeld in paragraaf 1, eerste lid, kan overgegaan worden tot de prioritering van een dossier na een overweging van de volgende elementen:<br>
+1° de inschatting of de integriteit van de minderjarige in gevaar is;<br>
+2° de inschatting van de aanwezigheid van een netwerk voor de minderjarige en van de eigen krachten in het netwerk;<br>
+3° de inschatting van het effect van de lopende jeugdhulpverlening;<br>
+4° de inschatting van de al verleende jeugdhulpverlening of hulpverlening.</p>
+
+<p>§ 3. Het team Jeugdhulpregie of de Intersectorale Regionale Prioriteitencommissie toetst bij de prioritering of een dossier beantwoordt aan de criteria, vermeld in paragraaf 1, of maakt een inschatting van de criteria, vermeld in paragraaf 2, en beslist voor de dossiers die in het indicatiestellingsverslag dezelfde typemodules hebben, welke dossiers prioritair zijn, rekening houdend met het aantal vrijkomende plaatsen voor de typemodule in kwestie. Het deel van het aantal vrijkomende plaatsen dat kan worden ingezet voor prioritaire dossiers wordt bepaald door het agentschap Opgroeien.</p>
+
+<p>§ 4. Bij de prioritering van een dossier van een minderjarige worden de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken daarvan op de hoogte gebracht. Als de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken niet ingaan op een module die is opgenomen in de jeugdhulpverleningsbeslissing en die wordt aangeboden, verliest het dossier in kwestie van de minderjarige het statuut van een prioritair toe te wijzen hulpvraag.</p>
 
 ### ART. 40.
 
-<P>§ 1. De toekenning van subsidies voor een aanvullend geïndividualiseerd   hulpaanbod als vermeld in artikel 37, eerste lid, 2°, houdt in dat het team   Jeugdhulpregie:<BR>1° beslist over de inhoud van het aanvullend   geïndividualiseerd hulpaanbod;<BR>2° binnen de grenzen van de kredieten die   eraan zijn toegewezen, het bedrag bepaalt dat kan worden ingezet voor het   aanvullend geïndividualiseerd hulpaanbod;<BR>3° de middelen toewijst aan de   personen of voorzieningen die jeugdhulpverlening aanbieden en die het   aanvullende geïndividualiseerde hulpaanbod uitvoeren.<BR></P>  <P>§ 2. Het aanvullende geïndividualiseerde hulpaanbod, vermeld in § 1, bestaat   uit een aanbod dat: <BR>1° niet zonder meer geboden kan worden in het kader van   de jeugdhulpregie;<BR>2° aanvullend wordt ingezet naast niet rechtstreeks   toegankelijke jeugdhulpverlening die geboden wordt aan de minderjarige;<BR>3°   geboden wordt door een of meer dienstverleners of materiële of praktische hulp   is;<BR>4° het mogelijk maakt om jeugdhulpverlening alsnog op te starten of voort   te zetten.<BR></P>  <P>Het aanvullende geïndividualiseerde hulpaanbod moet beschreven zijn in een   zorgplan voor de minderjarige, dat wordt opgemaakt en ingediend bij het team   Jeugdhulpregie door de uitvoerder van het hulpaanbod. Het zorgplan wordt   opgesteld op basis van de afspraken die gemaakt zijn in minstens één   cliëntoverleg.<BR></P>  <P>Het zorgplan, vermeld in het eerste lid, is een plan dat wordt opgesteld in   het kader van de inzet van een aanvullend geïndividualiseerde hulpaanbod. Het   Managementcomité Integrale Jeugdhulp legt de vormvereisten van het zorgplan vast   en de administrateur-generaal keurt het goed.<BR></P>  <P>Het team Jeugdhulpregie kan de opdracht geven om cliëntoverleg te organiseren   met het oog op de realisatie van een aanvullend geïndividualiseerd hulpaanbod   voor een dossier. Jeugdhulpaanbieders zijn ertoe gehouden om deel te nemen aan   dat cliëntoverleg waarvoor ze zijn uitgenodigd.<BR></P>  <P>Het team Jeugdhulpregie evalueert, met betrokkenheid van de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken minstens   om de zes maanden de uitvoering van het zorgplan en kan na een evaluatie   beslissen om de subsidiëring van het aanvullende geïndividualiseerde hulpaanbod   stop te zetten.<BR></P>  <P>§ 3. Per dossier kan het aanvullende geïndividualiseerde hulpaanbod   gesubsidieerd worden tot een bedrag van maximaal 35.000 euro. Dit bedrag mag als   volgt ingezet worden voor de minderjarige: in het eerste jaar maximaal 20.000   euro, in het tweede jaar maximaal 10.000 euro, in het derde jaar maximaal 5.000   euro. Op beslissing van de administrateur-generaal en na gemotiveerd advies van   het team Jeugdhulpregie&nbsp;kan afgeweken worden van die maximumbedragen en   termijnen.<BR></P>  <P>De kosten van het aanvullende geïndividualiseerd aanbod, vermeld in het   eerste lid, komen voor subsidiëring in aanmerking als tegelijkertijd aan de   volgende voorwaarden voldaan is:<BR>1° de voorgelegde uitgaven liggen binnen de   grenzen van het bedrag, bepaald met toepassing van het eerste lid;<BR>2° de   uitgaven worden bewezen ten aanzien van het fonds door voorlegging van een kopie   van de boekhoudkundige uitgavestukken;<BR>3° de vraag tot terugbetaling wordt   voorgelegd aan het fonds binnen het kwartaal dat volgt op het kwartaal waarop de   kosten betrekking hebben.<BR></P>
+<p>§ 1. De toekenning van subsidies voor een aanvullend geïndividualiseerd hulpaanbod als vermeld in artikel 37, eerste lid, 2°, houdt in dat het team Jeugdhulpregie:<br>
+1° beslist over de inhoud van het aanvullend geïndividualiseerd hulpaanbod;<br>
+2° binnen de grenzen van de kredieten die eraan zijn toegewezen, het bedrag bepaalt dat kan worden ingezet voor het aanvullend geïndividualiseerd hulpaanbod;<br>
+3° de middelen toewijst aan de personen of voorzieningen die jeugdhulpverlening aanbieden en die het aanvullende geïndividualiseerde hulpaanbod uitvoeren.</p>
+
+<p>§ 2. Het aanvullende geïndividualiseerde hulpaanbod, vermeld in § 1, bestaat uit een aanbod dat:<br>
+1° niet zonder meer geboden kan worden in het kader van de jeugdhulpregie;<br>
+2° aanvullend wordt ingezet naast niet rechtstreeks toegankelijke jeugdhulpverlening die geboden wordt aan de minderjarige;<br>
+3° geboden wordt door een of meer dienstverleners of materiële of praktische hulp is;<br>
+4° het mogelijk maakt om jeugdhulpverlening alsnog op te starten of voort te zetten.<br>
+<br>
+Op beslissing van de administrateur-generaal kan het aanbod, in afwijking van de voorwaarde, vermeld in het eerste lid, 2°, ingezet worden naast andere hulpverlening dan niet rechtstreeks toegankelijke jeugdhulpverlening die geboden wordt aan de minderjarige.</p>
+
+<p>Het aanvullende geïndividualiseerde hulpaanbod moet beschreven zijn in een zorgplan voor de minderjarige, dat wordt opgemaakt en ingediend bij het team Jeugdhulpregie door de uitvoerder van het hulpaanbod. Het zorgplan wordt opgesteld op basis van de afspraken die gemaakt zijn in minstens één cliëntoverleg.</p>
+
+<p>Het zorgplan, vermeld in het eerste lid, is een plan dat wordt opgesteld in het kader van de inzet van een aanvullend geïndividualiseerde hulpaanbod. Het agentschap Opgroeien legt de vormvereisten van het zorgplan vast en de administrateur-generaal keurt het goed.</p>
+
+<p>Het team Jeugdhulpregie kan de opdracht geven om cliëntoverleg te organiseren met het oog op de realisatie van een aanvullend geïndividualiseerd hulpaanbod voor een dossier. Jeugdhulpaanbieders zijn ertoe gehouden om deel te nemen aan dat cliëntoverleg waarvoor ze zijn uitgenodigd.</p>
+
+<p>Het team Jeugdhulpregie evalueert, met betrokkenheid van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken minstens om de zes maanden de uitvoering van het zorgplan en kan na een evaluatie beslissen om de subsidiëring van het aanvullende geïndividualiseerde hulpaanbod stop te zetten.</p>
+
+<p>§ 3. Per dossier kan het aanvullende geïndividualiseerde hulpaanbod gesubsidieerd worden tot een bedrag van maximaal 35.000 euro. Dit bedrag mag als volgt ingezet worden voor de minderjarige: in het eerste jaar maximaal 20.000 euro, in het tweede jaar maximaal 10.000 euro, in het derde jaar maximaal 5.000 euro. Op beslissing van de administrateur-generaal en na gemotiveerd advies van het team Jeugdhulpregie&nbsp;kan afgeweken worden van die maximumbedragen en termijnen.</p>
+
+<p>De kosten van het aanvullende geïndividualiseerd aanbod, vermeld in het eerste lid, komen voor subsidiëring in aanmerking als tegelijkertijd aan de volgende voorwaarden voldaan is:<br>
+1° de voorgelegde uitgaven liggen binnen de grenzen van het bedrag, bepaald met toepassing van het eerste lid;<br>
+2° de uitgaven worden bewezen ten aanzien van het fonds door voorlegging van een kopie van de boekhoudkundige uitgavestukken;<br>
+3° de vraag tot terugbetaling wordt voorgelegd aan het fonds binnen het kwartaal dat volgt op het kwartaal waarop de kosten betrekking hebben.</p>
 
 ### ART. 41.
 
-<P>De dossierverantwoordelijke die een dossier krijgt toegewezen als vermeld in   artikel 26 van het decreet van 12 juli 2013, heeft achtereenvolgens de volgende   opdrachten:<BR>1° als het indicatiestellingsverslag voldoet aan de voorwaarden,   vermeld in artikel 32, agendeert hij het dossier op een vergadering van het team   Jeugdhulpregie of van de Intersectorale Regionale Prioriteitencommissie   overeenkomstig artikel 26, § 1, derde lid, van het decreet van 12 juli 2013 met   het oog op de behandeling ervan;<BR>2° hij bezorgt het   jeugdhulpverleningsvoorstel of de jeugdhulpverleningsbeslissing aan de aanmelder   en aan de minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken;<BR>3° hij brengt voor een verzoek van de   jeugdrechter, de sociale dienst ervan op de hoogte waar en wanneer de niet   rechtstreeks toegankelijke jeugdhulpverlening kan worden uitgevoerd.<BR></P>  <P>Jeugdhulpaanbieders melden de opstart van de jeugdhulpverlening in uitvoering   van de jeugdhulpverleningsbeslissing, binnen 24 uur na de opstart ervan, aan het   team Jeugdhulpregie van de toegangspoort.<BR></P>  <P>Jeugdhulpaanbieders geven in uitvoering van artikel 18, § 4, tweede lid van   het decreet van 12 juli 2013, plaatsen die zullen vrijkomen in hun voorziening   door aan het team Jeugdhulpregie van de toegangspoort. Ze geven dit door,   veertien dagen voordat de plaats effectief vrijkomt of onmiddellijk voor   plaatsen die onvoorzien vrijkomen.<BR></P>  <P>De administrateur-generaal is bevoegd voor de organisatie van de   werkzaamheden en de processen binnen het team   Jeugdhulpregie.<BR></P>
+<p>De dossierverantwoordelijke die een dossier krijgt toegewezen als vermeld in artikel 26 van het decreet van 12 juli 2013, heeft achtereenvolgens de volgende opdrachten:<br>
+1° als het indicatiestellingsverslag voldoet aan de voorwaarden, vermeld in artikel 32, agendeert hij het dossier op een vergadering van het team Jeugdhulpregie of van de Intersectorale Regionale Prioriteitencommissie overeenkomstig artikel 26, § 1, derde lid, van het decreet van 12 juli 2013 met het oog op de behandeling ervan;<br>
+2° hij bezorgt het jeugdhulpverleningsvoorstel of de jeugdhulpverleningsbeslissing aan de aanmelder en aan de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken;<br>
+3° hij brengt voor een verzoek van de jeugdrechter, de sociale dienst ervan op de hoogte waar en wanneer de niet rechtstreeks toegankelijke jeugdhulpverlening kan worden uitgevoerd.</p>
+
+<p>Jeugdhulpaanbieders melden de opstart van de jeugdhulpverlening in uitvoering van de jeugdhulpverleningsbeslissing, binnen&nbsp;twee werkdagen&nbsp;na de opstart ervan, aan het team Jeugdhulpregie van de toegangspoort.</p>
+
+<p>Jeugdhulpaanbieders geven in uitvoering van artikel 18, § 4, tweede lid van het decreet van 12 juli 2013, plaatsen die zullen vrijkomen in hun voorziening door aan het team Jeugdhulpregie van de toegangspoort. Ze geven dit door, veertien dagen voordat de plaats effectief vrijkomt of onmiddellijk voor plaatsen die onvoorzien vrijkomen.</p>
+
+<p>De administrateur-generaal is bevoegd voor de organisatie van de werkzaamheden en de processen binnen het team Jeugdhulpregie.</p>
 
 ### ART. 42.
 
@@ -340,7 +405,45 @@ De prioritering, vermeld in het eerste lid, houdt in dat een dossier voorrang kr
 
 ### ART. 43.
 
-<P>§ 1. Bij een verzoek om een versnelde indicatiestelling en toewijzing in de   gevallen, vermeld in artikel 28, eerste lid, 1°, 3° en 4°, van het decreet van   12 juli 2013, wordt het dossier toegewezen aan een dossierverantwoordelijke van   het team Indicatiestelling, met uitzondering van een verzoek om een versnelde   indicatiestelling en toewijzing in een geval als vermeld in artikel 28, eerste   lid, 1°, van het voormelde decreet dat bij de toegangspoort wordt ingediend door   de sociale dienst.<BR></P>  <P>De dossierverantwoordelijke van het team Indicatiestelling heeft bij een   versnelde indicatiestelling en toewijzing als vermeld in het eerste lid, de   volgende opdrachten:<BR>1° als de vraag ontvankelijk is op basis van de   voorwaarden, vermeld in artikel 28, eerste lid, 1°, 3° of 4°, van het voormelde   decreet, en op basis van de voorwaarden, vermeld in paragraaf 2, eerste lid, en   paragraaf 3, eerste lid, stelt hij een indicatiestellingsverslag op met daarin   de aangewezen typemodules;<BR>2° hij beslist, in voorkomend geval, over de   wenselijkheid en de grootteorde van de financiering van de specifieke acties,   vermeld in artikel 28, eerste lid, 4°, van het voormelde decreet;<BR>3° hij   bezorgt het indicatiestellingsverslag, vermeld in punt 2°, binnen een termijn   van vijf werkdagen of binnen een termijn van dertig werkdagen voor het verzoek   om een versnelde indicatiestelling en toewijzing in een geval als vermeld in   artikel 28, eerste lid, 4°, van het voormelde decreet, na de ontvangst van het   dossier aan het team Jeugdhulpregie als de minderjarige, zijn ouders en, in   voorkomend geval, zijn opvoedingsverantwoordelijken hun instemming   geven.<BR></P>  <P>Een verzoek om een versnelde indicatiestelling en toewijzing in een geval als   vermeld in artikel 28, eerste lid, 1°, van het voormelde decreet, dat bij de   toegangspoort wordt ingediend door een sociale dienst wordt onmiddellijk   toegewezen aan een dossierverantwoordelijke van het team Jeugdhulpregie. De   dossierverantwoordelijke van de sociale dienst heeft voor de indiening van het   verzoek bij de toegangspoort de opdrachten, vermeld in het tweede lid, 1° en 2°,   uitgevoerd.<BR></P>  <P>§ 2. Een versnelde indicatiestelling en toewijzing die geïndiceerd is vanuit   het hulpprogramma crisis, vermeld in artikel 28, eerste lid, 3°, van het decreet   van 12 juli 2013, is alleen ontvankelijk als tegelijkertijd aan de volgende   voorwaarden voldaan is:<BR>1° de aanvraag wordt ingediend door een centraal   permanent crisismeldpunt als vermeld in artikel 44, § 2, 1°, van het voormelde   decreet;<BR>2° de minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken verlenen hun instemming;<BR>3° uit de aanvraag   blijkt dat de aanmelder overleg gepleegd heeft met de betrokkenen;<BR>4° uit de   aanvraag blijkt dat residentiële crisisjeugdhulpverlening lopend is en dat niet   rechtstreeks toegankelijke jeugdhulpverlening dringend nodig is.<BR></P>  <P>Voor de dossiers, vermeld in het eerste lid, maakt de   dossierverantwoordelijke van het team Jeugdhulpregie een   jeugdhulpverleningsbeslissing op binnen een maximale termijn van vijftien   werkdagen na de ontvangst van het indicatiestellingsverslag in het geval dat de   gevraagde niet rechtstreeks toegankelijke jeugdhulpverlening gerealiseerd kan   worden binnen zeven werkdagen. Indien dit niet het geval is, wijst hij de   aanvraag af en brengt hij de aanmelder, de minderjarige, zijn ouders en, in   voorkomend geval, zijn opvoedingsverantwoordelijken daarvan op gemotiveerde   wijze op de hoogte.<BR></P>  <P>De jeugdhulpverleningsbeslissing, vermeld in het tweede lid, 3°, bevat   afspraken over het verloop en de stopzetting van de niet rechtstreeks   toegankelijke jeugdhulpverlening en de overgang naar een indicatiestelling en   kan maximaal 120 kalenderdagen geldig zijn. De niet rechtstreeks toegankelijke   jeugdhulpverlening moet naadloos aansluiten bij de lopende   crisisjeugdhulpverlening en moet residentiële jeugdhulpverlening zijn.<BR></P>  <P>§ 3. Een versnelde indicatiestelling en toewijzing waarbij er behoefte is aan   de financiering van specifieke acties, vermeld in artikel 28, eerste lid, 4°,   van het voormelde decreet, is alleen ontvankelijk als uit de aanvraag blijkt dat   tegelijkertijd aan de volgende voorwaarden voldaan is:<BR>1° de aanmelder heeft   een ondersteuningsplan opgesteld;<BR>2° door de specifieke acties te financieren   wordt het inzetten van meer ingrijpende jeugdhulpverlening vermeden;<BR>3° de   specifieke acties worden niet aangewend om een feitelijk ononderbroken   uithuisplaatsing te realiseren;<BR>4° de specifieke acties worden niet gebruikt   voor een louter financiële tegemoetkoming.<BR></P>  <P>In het eerste lid, 1°, wordt verstaan onder ondersteuningsplan: een plan als   vermeld in artikel 10 van het decreet van 12 juli 2013.<BR></P>  <P>Het ondersteuningsplan, vermeld in het eerste lid, 1°, moet in het kader van   een versnelde indicatiestelling en toewijzing waarbij er behoefte is aan de   financiering van specifieke acties:<BR>1° aangevuld worden met een raming van de   kosten van de specifieke acties;<BR>2° verduidelijken waarvoor de financiële   ondersteuning precies wordt ingezet en op welke manier het te betalen aanbod een   bijdrage zal leveren aan de versterking van de draagkracht van de minderjarigen,   zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en de   betrokken personen uit zijn leefomgeving;<BR>3° aangeven waarom de ouders of de   opvoedingsverantwoordelijken niet zelf kunnen instaan voor de financiering van   de specifieke acties;<BR>4° verduidelijken waarom gekozen wordt voor het   specifieke aanbod van een dienstverlener en op welke wijze de aanvrager zal   instaan voor de opvolging en evaluatie;<BR>5° zo vaak als dat nodig is en   minimaal twee keer per jaar geëvalueerd worden.<BR></P>  <P>Een verklaring op erewoord ondertekend door de ouders of de   opvoedingsverantwoordelijken van de minderjarige, waarin ze bevestigen dat ze   niet over de financiële middelen beschikken om de gevraagde dienstverlening zelf   te financieren, wordt door de aanmelder bewaard in zijn dossier.<BR></P>  <P>Voor de dossiers, vermeld in het eerste lid, maakt de   dossierverantwoordelijke een jeugdhulpverleningsbeslissing op in het geval dat   de specifieke acties gerealiseerd kunnen worden binnen een termijn van vijftien   werkdagen. Indien dit niet het geval is, maakt hij een   jeugdhulpverleningsvoorstel op en bezorgt hij dat aan de aanmelder, aan de   minderjarige, aan zijn ouders en, in voorkomend geval, aan zijn   opvoedingsverantwoordelijken.<BR></P>  <P>De toekenning van een financiering van een of meer specifieke acties als   vermeld in het derde lid, 1°, houdt in dat het team Jeugdhulpregie, binnen de   grenzen van de kredieten die aan het team Jeugdhulpregie zijn toegewezen, de   middelen toewijst aan een of meer dienstverleners die de specifieke acties   uitvoeren.<BR></P>
+<p>§ 1. Bij een verzoek om een versnelde indicatiestelling en toewijzing in de gevallen, vermeld in artikel 28, eerste lid, 1°, 3° en 4°, van het decreet van 12 juli 2013, wordt het dossier toegewezen aan een dossierverantwoordelijke van het team Indicatiestelling, met uitzondering van een verzoek om een versnelde indicatiestelling en toewijzing in een geval als vermeld in artikel 28, eerste lid, 1°, en 3°, van het voormelde decreet dat bij de toegangspoort wordt ingediend door de sociale dienst.</p>
+
+<p>De dossierverantwoordelijke van het team Indicatiestelling heeft bij een versnelde indicatiestelling en toewijzing als vermeld in het eerste lid, de volgende opdrachten:<br>
+1° als de vraag ontvankelijk is op basis van de voorwaarden, vermeld in artikel 28, eerste lid, 1°, 3° of 4°, van het voormelde decreet, en op basis van de voorwaarden, vermeld in paragraaf 2, eerste lid, en paragraaf 3, eerste lid, stelt hij een indicatiestellingsverslag op met daarin de aangewezen typemodules;<br>
+2° hij beslist, in voorkomend geval, over de wenselijkheid en de grootteorde van de financiering van de specifieke acties, vermeld in artikel 28, eerste lid, 4°, van het voormelde decreet;<br>
+3° hij bezorgt het indicatiestellingsverslag, vermeld in punt 2°, binnen een termijn van vijf werkdagen of binnen een termijn van dertig werkdagen voor het verzoek om een versnelde indicatiestelling en toewijzing in een geval als vermeld in artikel 28, eerste lid, 4°, van het voormelde decreet, na de ontvangst van het dossier aan het team Jeugdhulpregie als de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken hun instemming geven.</p>
+
+<p>Een verzoek om een versnelde indicatiestelling en toewijzing in een geval als vermeld in artikel 28, eerste lid, 1°, en 3°, van het voormelde decreet, dat bij de toegangspoort wordt ingediend door een sociale dienst wordt onmiddellijk toegewezen aan een dossierverantwoordelijke van het team Jeugdhulpregie. De dossierverantwoordelijke van de sociale dienst heeft voor de indiening van het verzoek bij de toegangspoort de opdrachten, vermeld in het tweede lid, 1° en 2°, uitgevoerd.</p>
+
+<p>§ 2. Een versnelde indicatiestelling en toewijzing die geïndiceerd is vanuit het hulpprogramma crisis, vermeld in artikel 28, eerste lid, 3°, van het decreet van 12 juli 2013, is alleen ontvankelijk als tegelijkertijd aan de volgende voorwaarden voldaan is:<br>
+1° de aanvraag wordt ingediend door een centraal permanent crisismeldpunt als vermeld in artikel 44, § 2, 1°, van het voormelde decreet;<br>
+2° de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken verlenen hun instemming;<br>
+3° uit de aanvraag blijkt dat de aanmelder overleg gepleegd heeft met de betrokkenen;<br>
+4° uit de aanvraag blijkt dat residentiële crisisjeugdhulpverlening lopend is en dat niet rechtstreeks toegankelijke jeugdhulpverlening dringend nodig is.</p>
+
+<p>Voor de dossiers, vermeld in het eerste lid, maakt de dossierverantwoordelijke van het team Jeugdhulpregie een jeugdhulpverleningsbeslissing op binnen een maximale termijn van vijftien werkdagen na de ontvangst van het indicatiestellingsverslag in het geval dat de gevraagde niet rechtstreeks toegankelijke jeugdhulpverlening gerealiseerd kan worden binnen zeven werkdagen. Indien dit niet het geval is, wijst hij de aanvraag af en brengt hij de aanmelder, de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken daarvan op gemotiveerde wijze op de hoogte.</p>
+
+<p>De jeugdhulpverleningsbeslissing, vermeld in het tweede lid,&nbsp;bevat afspraken over het verloop en de stopzetting van de niet rechtstreeks toegankelijke jeugdhulpverlening en de overgang naar een indicatiestelling en kan maximaal 120 kalenderdagen geldig zijn. De niet rechtstreeks toegankelijke jeugdhulpverlening moet naadloos aansluiten bij de lopende crisisjeugdhulpverlening en moet residentiële jeugdhulpverlening zijn.</p>
+
+<p>§ 3. Een versnelde indicatiestelling en toewijzing waarbij er behoefte is aan de financiering van specifieke acties, vermeld in artikel 28, eerste lid, 4°, van het voormelde decreet, is alleen ontvankelijk als uit de aanvraag blijkt dat tegelijkertijd aan de volgende voorwaarden voldaan is:<br>
+1° de aanmelder heeft een ondersteuningsplan opgesteld;<br>
+2° door de specifieke acties te financieren wordt het inzetten van meer ingrijpende jeugdhulpverlening vermeden;<br>
+3° de specifieke acties worden niet aangewend om een feitelijk ononderbroken uithuisplaatsing te realiseren;<br>
+4° de specifieke acties worden niet gebruikt voor een louter financiële tegemoetkoming.</p>
+
+<p>In het eerste lid, 1°, wordt verstaan onder ondersteuningsplan: een plan als vermeld in artikel 10 van het decreet van 12 juli 2013.</p>
+
+<p>Het ondersteuningsplan, vermeld in het eerste lid, 1°, moet in het kader van een versnelde indicatiestelling en toewijzing waarbij er behoefte is aan de financiering van specifieke acties:<br>
+1° aangevuld worden met een raming van de kosten van de specifieke acties;<br>
+2° verduidelijken waarvoor de financiële ondersteuning precies wordt ingezet en op welke manier het te betalen aanbod een bijdrage zal leveren aan de versterking van de draagkracht van de minderjarigen, zijn ouders, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving;<br>
+3° aangeven waarom de ouders of de opvoedingsverantwoordelijken niet zelf kunnen instaan voor de financiering van de specifieke acties;<br>
+4° verduidelijken waarom gekozen wordt voor het specifieke aanbod van een dienstverlener en op welke wijze de aanvrager zal instaan voor de opvolging en evaluatie;<br>
+5° zo vaak als dat nodig is en minimaal twee keer per jaar geëvalueerd worden.</p>
+
+<p>Een verklaring op erewoord ondertekend door de ouders of de opvoedingsverantwoordelijken van de minderjarige, waarin ze bevestigen dat ze niet over de financiële middelen beschikken om de gevraagde dienstverlening zelf te financieren, wordt door de aanmelder bewaard in zijn dossier.</p>
+
+<p>Voor de dossiers, vermeld in het eerste lid, maakt de dossierverantwoordelijke een jeugdhulpverleningsbeslissing op in het geval dat de specifieke acties gerealiseerd kunnen worden binnen een termijn van vijftien werkdagen. Indien dit niet het geval is, maakt hij een jeugdhulpverleningsvoorstel op en bezorgt hij dat aan de aanmelder, aan de minderjarige, aan zijn ouders en, in voorkomend geval, aan zijn opvoedingsverantwoordelijken.</p>
+
+<p>De toekenning van een financiering van een of meer specifieke acties als vermeld in het derde lid, 1°, houdt in dat het team Jeugdhulpregie, binnen de grenzen van de kredieten die aan het team Jeugdhulpregie zijn toegewezen, de middelen toewijst aan een of meer dienstverleners die de specifieke acties uitvoeren.</p>
 
 ### ART. 44.
 
@@ -374,7 +477,7 @@ Artikel 37 tot en met 47 zijn van overeenkomstige toepassing op de   herziening 
 
 <p>Het Vlaams Agentschap voor Personen met een Handicap, vermeld in het eerste lid, 6°, en in paragraaf 6, is het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, vermeld in artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap.</p>
 
-<p>§ 2. Het Managementcomité Integrale Jeugdhulp benoemt de leden en de plaatsvervangende leden van de Intersectorale Regionale Prioriteitencommissie.</p>
+<p>§ 2. Het agentschap Opgroeien regie benoemt de leden en de plaatsvervangende leden van de Intersectorale Regionale Prioriteitencommissie.</p>
 
 <p>De leden kiezen onder zich een voorzitter. Bij afwezigheid van de voorzitter, neemt de leidinggevende van de toegangspoort het voorzitterschap op zich.</p>
 
@@ -389,7 +492,7 @@ Artikel 37 tot en met 47 zijn van overeenkomstige toepassing op de   herziening 
 
 <p>De leden van de Intersectorale Regionale Prioriteitencommissie streven naar consensus. Bij onenigheid wordt er gewerkt via stemming. Alle aanwezige leden, vermeld in paragraaf 1, eerste lid, hebben elk één stem en de Intersectorale Regionale Prioriteitencommissie beslist met gewone meerderheid.Wanneer deze stemming geen uitsluitsel geeft dan is de stem van de voorzitter of van zijn vervanger doorslaggevend.<br>
 <br>
-Het Managementcomité Integrale Jeugdhulp stelt een huishoudelijk reglement op dat&nbsp;de werking van de Intersectorale Regionale Prioriteitencommissie bepaalt.</p>
+Het agentschap Opgroeien regie stelt een huishoudelijk reglement op dat&nbsp;de werking van de Intersectorale Regionale Prioriteitencommissie bepaalt.</p>
 
 <p>§ 4. Met behoud van de toepassing van het tweede lid, wordt aan de leden, vermeld in paragraaf 1, eerste lid, 1°, of aan hun plaatsvervangers een presentiegeld toegekend van 20 euro per vergadering van de Intersectorale Regionale Prioriteitencommissie waaraan ze deelnemen. Die leden ontvangen alleen een presentiegeld als ze het lidmaatschap opnemen in het kader van een arbeidsovereenkomst en de vergoeding wordt aan de werkgever van de betrokken persoon toegekend. De vergoeding valt ten laste van de begroting van de Vlaamse Gemeenschap.</p>
 
@@ -409,7 +512,63 @@ De jeugdhulpaanbieders die betrokken zijn bij de jeugdhulpverlening, en,   in vo
 
 ### ART. 51.
 
-De minister kent, binnen de beschikbare begrotingskredieten, middelen toe   voor het inzetten van cliëntoverleg en bemiddeling. De minister bepaalt de   voorwaarden en de modaliteiten voor de subsidiëring van cliëntoverleg en   bemiddeling. <BR>
+§ 1. De bemiddeling voldoet aan de voorwaarden, vermeld in artikel 30, tweede en derde lid, van het decreet van 12 juli 2013.<br>
+<br>
+Bij de bemiddeling werken de partijen aan een gedragen en gedeelde oplossing. Dat kan inhouden dat jeugdhulpverlening wordt opgestart of dat bestaande jeugdhulpverlening wordt voortgezet, aangepast of stopgezet.<br>
+<br>
+§ 2. De bemiddeling kan niet worden ingezet voor de beslissingen van de intersectorale toegangspoort, de sociale dienst en de gemandateerde voorzieningen. Ze kan alleen worden ingezet in een conflict tussen de minderjarige, zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken en een jeugdhulpaanbieder of tussen de minderjarige en zijn ouders of, in voorkomend geval, zijn opvoedingsverantwoordelijken. De bemiddeling schort het proces bij de gemandateerde voorzieningen, de intersectorale toegangspoort of de sociale dienst niet op.<br>
+<br>
+§ 3. Het resultaat van een bemiddeling kan, als alle partijen daarmee instemmen, worden neergeschreven in een overeenkomst. Partijen kunnen in de overeenkomst opnemen of ze daarover willen rapporteren, aan wie en op welke manier.<br>
+<br>
+§ 4. Bemiddeling vindt plaats onder leiding van een erkende bemiddelaar.
+
+### ART 51/1.
+
+§ 1. De bemiddelaar moet voldoen aan al de volgende kwaliteitseisen:<br>
+1° een door de Vlaamse overheid georganiseerde vorming tot bemiddelaar in de jeugdhulp gevolgd hebben;<br>
+2° minimaal één keer per jaar deelnemen aan een intervisiemoment in het kader van bemiddeling;<br>
+3° de deontologische code voor voorzitters cliëntoverleg, die is goedgekeurd door de Vlaamse overheid, naleven;<br>
+4° een overeenkomst met de Vlaamse Gemeenschap ondertekenen.<br>
+<br>
+De vorming, vermeld in het eerste lid, 1°, is alleen toegankelijk voor personen die een basisopleiding bemiddeling hebben gevolgd die erkend is door de federale overheid. Personen die veel ervaring in bemiddeling hebben, kunnen vrijgesteld worden van de vorming, vermeld in het eerste lid, 1°, als hun eerder verworven competenties die aangetoond zijn in een dossier, geaccepteerd worden door een beoordelingscommissie die het agentschap Opgroeien regie daarvoor aangesteld heeft.<br>
+<br>
+§ 2. Om vergoed te worden, moet de bemiddelaar:<br>
+1° de persoonsgegevens die voor de organisatie van bemiddeling noodzakelijk zijn, registreren en verwerken in een systeem dat de Vlaamse overheid daarvoor ter beschikking stelt;<br>
+2° een attest opmaken dat er een bemiddelingspoging heeft plaatsgevonden, als een partij daarnaar vraagt.
+
+### ART 51/2.
+
+§ 1. Het cliëntoverleg voldoet aan de voorwaarden, vermeld in artikel 30, tweede lid en derde lid, van het decreet van 12 juli 2013.<br>
+<br>
+Het cliëntoverleg kan ingezet worden op voorwaarde dat verschillende jeugdhulpaanbieders of andere personen en voorzieningen die jeugdhulpverlening aanbieden, erbij betrokken zijn of een engagement opnemen of willen opnemen om betrokken te worden bij de jeugdhulpverlening.<br>
+<br>
+§ 2. Een cliëntoverleg resulteert altijd in een werkplan dat wordt opgesteld conform een sjabloon dat de Vlaamse overheid heeft goedgekeurd, en dat wordt opgevolgd en geëvalueerd door een hulpcoördinator die aangesteld is in samenspraak met de cliënt, zijn ouders en, in voorkomend geval, de opvoedingsverantwoordelijken. Elke jeugdhulpaanbieder die bij de jeugdhulpverlening aan de minderjarige betrokken is, kan de rol van hulpcoördinator opnemen.<br>
+<br>
+§ 3. Met de instemming van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken kunnen maximaal twee deskundigen, die niet betrokken zijn bij de lopende hulpverlening, uitgenodigd worden. Ze adviseren de deelnemers aan het overleg.<br>
+<br>
+§ 4. De externe voorzitter is onafhankelijk ten opzichte van de aan het cliëntoverleg deelnemende jeugdhulpaanbieders, de minderjarige en zijn context.
+
+### ART 51/3.
+
+§ 1. De externe voorzitter moet voldoen aan al de volgende kwaliteitseisen:<br>
+1° een door de Vlaamse overheid georganiseerde vorming tot voorzitter cliëntoverleg in de integrale jeugdhulp gevolgd hebben;<br>
+2° minimaal één keer per jaar deelnemen aan een intervisiemoment in het kader van cliëntoverleg integrale jeugdhulp;<br>
+3° de deontologische code voor voorzitters cliëntoverleg, die is goedgekeurd door de Vlaamse overheid, naleven;<br>
+4° een overeenkomst met de Vlaamse Gemeenschap ondertekenen.<br>
+<br>
+Personen die een ruime ervaring in cliëntoverleg hebben, kunnen vrijgesteld worden van de vorming, vermeld in het eerste lid, 1°, als hun eerder verworven competenties, aangetoond in een dossier, geaccepteerd worden door een beoordelingscommissie die het agentschap Opgroeien regie daarvoor aangesteld heeft.<br>
+<br>
+§ 2. Om vergoed te worden, moeten de externe (co)voorzitters:<br>
+1° de persoonsgegevens die noodzakelijk zijn voor de organisatie van bemiddeling in de jeugdhulp, registreren en verwerken in een systeem dat de Vlaamse overheid daarvoor ter beschikking stelt;<br>
+2° een werkplan opmaken conform het sjabloon die de Vlaamse overheid ter beschikking stelt.<br>
+<br>
+§ 3. De deskundige, vermeld in artikel 51/2, § 3, moet voldoen aan de kwaliteitseis, vermeld in paragraaf 1, eerste lid, 4°.
+
+### ART 51/4.
+
+§ 1. De minister kan bijkomende kwaliteitseisen bepalen voor het inzetten van cliëntoverleg en bemiddeling.<br>
+<br>
+§ 2. De minister bepaalt de organisatie van bemiddeling en cliëntoverleg en de vergoeding van bemiddelaars en voorzitters.
 
 ## HOOFDSTUK 7 Gepast omgaan met verontrustende situaties in de jeugdhulpverlening en de gemandateerde voorzieningen
 
@@ -417,11 +576,16 @@ De minister kent, binnen de beschikbare begrotingskredieten, middelen toe   voor
 
 ### ART. 52.
 
-Om de jeugdhulp te ondersteunen in het omgaan met verontrustende   situaties, heeft het Managementcomité de volgende opdrachten:<BR>1° het brengt   een vormingsaanbod tot stand dat jeugdhulpaanbieders versterkt in het passend   omgaan met verontrusting;<BR>2° het evalueert jaarlijks de situatie in de   jeugdhulpverlening op basis van informatie van het agentschap Kind en Gezin en   van het agentschap Jongerenwelzijn;<BR>3° het beslist, in voorkomend geval, over   gerichte acties met het oog op de versterking van jeugdhulpaanbieders om met   verontrustende situaties om te gaan.<BR>
+Om de jeugdhulp te ondersteunen in het omgaan met verontrustende situaties, heeft het agentschap Opgroeien de volgende opdrachten:<br>
+1° het brengt een vormingsaanbod tot stand dat jeugdhulpaanbieders versterkt in het passend omgaan met verontrusting;<br>
+2° het evalueert jaarlijks de situatie in de jeugdhulpverlening op basis van informatie van het agentschap Opgroeien regie en van het agentschap Opgroeien;<br>
+3° het beslist, in voorkomend geval, over gerichte acties met het oog op de versterking van jeugdhulpaanbieders om met verontrustende situaties om te gaan.
 
 ### ART. 53.
 
-Om de jeugdhulp te ondersteunen in het omgaan met verontrustende   situaties, heeft het Intersectoraal Regionaal Overleg Jeugdhulp de volgende   opdrachten:<BR>1° het overlegt jaarlijks met vertegenwoordigers van de   gemandateerde voorzieningen in de regio;<BR>2° het beslist, in voorkomend geval,   op basis van de informatie uit het overleg, vermeld in punt 1°, en op basis van   de beslissing van het Managementcomité, vermeld in artikel 52, 3°, van dit   besluit, over gerichte acties in de regio met het oog op de versterking van   jeugdhulpaanbieders om met verontrustende situaties om te   gaan.<BR>
+Om de jeugdhulp te ondersteunen in het omgaan met verontrustende situaties, heeft het Intersectoraal Regionaal Overleg Jeugdhulp de volgende opdrachten:<br>
+1° het overlegt jaarlijks met vertegenwoordigers van de gemandateerde voorzieningen in de regio;<br>
+2° het beslist, in voorkomend geval, op basis van de informatie uit het overleg, vermeld in punt 1°, en op basis van de beslissing van het agentschap Opgroeien regie, vermeld in artikel 52, 3°, van dit besluit, over gerichte acties in de regio met het oog op de versterking van jeugdhulpaanbieders om met verontrustende situaties om te gaan.
 
 ## Afdeling 2 De gemandateerde voorzieningen
 
@@ -472,7 +636,7 @@ De hoedanigheid van consulent bij het ondersteuningscentrum is   onverenigbaar m
 
 ### ART. 61.
 
-Een afgesloten dossier wordt door de gemandateerde voorzieningen bewaard   tot maximaal tien jaar na het bereiken door de betrokkene van de   meerderjarigheid. Een maand voor de vernietiging van het dossier wordt de   betrokkene schriftelijk op de hoogte gebracht van het feit dat hij een kopie van   het dossier kan verkrijgen.<BR>
+Een afgesloten dossier wordt door de gemandateerde voorzieningen bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt. Bij het afsluiten van het dossier wordt de betrokkene hiervan op de hoogte gebracht.
 
 ## Onderafdeling 3 Werking van de gemandateerde voorzieningen voor het onderzoek en de opvolging van verontrustende situaties
 
@@ -530,7 +694,13 @@ Bij de keuze om een minderjarige aan te melden bij hetzij het   ondersteuningsce
 
 ### ART. 73.
 
-<P>Alle jeugdhulpaanbieders die in een regio crisisjeugdhulpverlening aanbieden,   realiseren in hun regio gezamenlijk een hulpprogramma crisisjeugdhulpverlening   als vermeld in artikel 44, § 2, van het decreet van 12 juli 2013.<BR></P>  <P>Het hulpprogramma crisisjeugdhulpverlening moet erkend worden door het   Managementcomité. Om erkend te kunnen worden moet het hulpprogramma opgenomen   zijn in een samenwerkingsprotocol dat ondertekend is door de betrokken   jeugdhulpaanbieders en dat goedgekeurd is door het Managementcomité, na advies   van het Intersectoraal Regionaal Overleg Jeugdhulp.<BR></P>  <P>Het centraal permanent crisismeldpunt binnen het hulpprogramma   crisisjeugdhulpverlening, is permanent bereikbaar en registreert elke aanmelding   op gecodeerde wijze in het registratiesysteem crisisjeugdhulpverlening.<BR></P>  <P>De minister bepaalt de inhoud en de geldigheidsduur van het   samenwerkingsprotocol, vermeld in het tweede lid, de nadere regels voor de   werking van de centrale permanente crisismeldpunten, vermeld in het derde lid,   en de aanmeldingswijze bij het crisismeldpunt.<BR></P>
+<p>Alle jeugdhulpaanbieders die in een regio crisisjeugdhulpverlening aanbieden, realiseren in hun regio gezamenlijk een hulpprogramma crisisjeugdhulpverlening als vermeld in artikel 44, § 2, van het decreet van 12 juli 2013.</p>
+
+<p>Het hulpprogramma crisisjeugdhulpverlening moet erkend worden door het agentschap. Om erkend te kunnen worden moet het hulpprogramma opgenomen zijn in een samenwerkingsprotocol dat ondertekend is door de betrokken jeugdhulpaanbieders en dat goedgekeurd is door het agentschap Opgroeien regie, na advies van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
+
+<p>Het centraal permanent crisismeldpunt binnen het hulpprogramma crisisjeugdhulpverlening, is permanent bereikbaar en registreert elke aanmelding op gecodeerde wijze in het registratiesysteem crisisjeugdhulpverlening.</p>
+
+<p>De minister bepaalt de inhoud en de geldigheidsduur van het samenwerkingsprotocol, vermeld in het tweede lid, de nadere regels voor de werking van de centrale permanente crisismeldpunten, vermeld in het derde lid, en de aanmeldingswijze bij het crisismeldpunt.</p>
 
 ### ART. 74.
 
@@ -547,17 +717,79 @@ Bij de keuze om een minderjarige aan te melden bij hetzij het   ondersteuningsce
 
 <p>De vergoeding wordt niet toegekend voor de crisisinterventie, -begeleiding of -opvang gepresteerd door de diensten voor crisishulp aan huis, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 5 april 2019 inzake de erkenningsvoorwaarden en de subsidienormen voor voorzieningen voor jeugdhulp.</p>
 
-<p>§ 2. Als een jeugdhulpaanbieder, op verzoek van een Intersectoraal Regionaal Overleg Jeugdhulp en na goedkeuring door het Managementcomité of op beslissing van het Managementcomité, een beperkte capaciteit vrijhoudt in het raam van de opdracht van het hulpprogramma crisisjeugdhulpverlening, wordt die capaciteit geacht volzet te zijn voor de toepassing van de sectorale regelgeving met betrekking tot de erkenning en de subsidiëring van die jeugdhulpaanbieder.</p>
+<p>§ 2. Als een jeugdhulpaanbieder, op verzoek van een Intersectoraal Regionaal Overleg Jeugdhulp en na goedkeuring door het agentschap Opgroeien regie of op beslissing van het agentschap Opgroeien regie, een beperkte capaciteit vrijhoudt in het raam van de opdracht van het hulpprogramma crisisjeugdhulpverlening, wordt die capaciteit geacht volzet te zijn voor de toepassing van de sectorale regelgeving met betrekking tot de erkenning en de subsidiëring van die jeugdhulpaanbieder.</p>
 
 ## [HOOFDSTUK 8/1 Hulpprogramma gespecialiseerde geestelijke gezondheidszorg in de gemeenschapsinstellingen (ing. BVR 22 maart 2019, art. 15, I: 7 juli 2019)]
 
+### ART 74/1.
+
+De jeugdhulp organiseert voor minderjarigen met een hulpvraag rond geestelijke gezondheid die verblijven in een gemeenschapsinstelling, een hulpprogramma gespecialiseerde geestelijke gezondheidszorg.<br>
+<br>
+Het hulpprogramma wordt bij voorkeur zo dicht mogelijk bij de verblijfplaats van de minderjarige in een gemeenschapsinstelling uitgevoerd.<br>
+<br>
+De aanmelding voor het hulpprogramma gespecialiseerde geestelijke gezondheidszorg kan alleen gebeuren door een personeelslid met de functie van psycholoog of pedagoog in een gemeenschapsinstelling ten behoeve van minderjarigen waarvan men inschat dat psychiatrische expertise noodzakelijk is om een of meer van de volgende redenen:<br>
+1° kennisuitwisseling en -verruiming;<br>
+2° verzamelen van klinische en psychometrisch onderbouwde informatie voor een behandeladvies of de vaststelling van de vereiste jeugdpsychiatrische zorgintensiteit met het oog op vervolghulpverlening of het formuleren van een oriëntatievoorstel als vermeld in artikel 26, § 4, van het decreet van 15 februari 2019 betreffende het jeugddelinquentierecht;<br>
+3° gespecialiseerde behandeling voor geestelijke gezondheidsproblemen in de gemeenschapsinstelling met mogelijkheid tot voortzetting van dat aanbod na het verblijf van de jongere in de gemeenschapsinstelling;<br>
+4° de gemeenschapsinstelling wordt geconfronteerd met een crisissituatie en schat in dat ze zelf of met een doorverwijzing in de jeugdhulpverlening niet tijdig tot een gepaste oplossing kan komen.<br>
+<br>
+Het hulpprogramma gespecialiseerde geestelijke gezondheidszorg omvat de volgende modules die al dan niet gecombineerd kunnen worden ingezet:<br>
+1° de module info en advies;<br>
+2° de module diagnostiek: diagnostisch onderzoek met het oog op behandeladvies en bepaling van zorgintensiteit;<br>
+3° de module behandeling: persoonsgerichte, gespecialiseerde behandeling voor geestelijke gezondheidsproblemen die zowel ambulant als mobiel aangeboden kan worden, inclusief de organisatie van nazorg;<br>
+4° de module crisisverblijf: een residentieel aanbod in een voorziening binnen de geestelijke gezondheidszorg.<br>
+<br>
+Het hulpprogramma gespecialiseerde geestelijke gezondheidszorg in de gemeenschapsinstellingen moet erkend worden door het agentschap Opgroeien regie. Om erkend te kunnen worden, moet het hulpprogramma opgenomen zijn in een samenwerkingsprotocol dat ondertekend is door de betrokken jeugdhulpaanbieders, algemene of psychiatrische ziekenhuizen of revalidatiecentra, en dat goedgekeurd is door het agentschap Opgroeien regie, na advies van het Intersectoraal Regionaal Overleg Jeugdhulp.<br>
+<br>
+In het vijfde lid wordt verstaan onder:<br>
+1° algemeen ziekenhuis: een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+2° psychiatrisch ziekenhuis: een ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+3° revalidatievoorziening: een zorgvoorziening als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, die een van de volgende revalidatieovereenkomsten heeft afgesloten: een revalidatieovereenkomst met de Centra voor Ambulante Revalidatie van diverse taal-, spraak- en stemstoornissen, mentale stoornissen en gedragsstoornissen, een revalidatieovereenkomst met de psychosociale revalidatievoorzieningen voor kinderen en jongeren met een ernstige medisch-psychologische aandoening of een revalidatieovereenkomst met revalidatiecentra voor personen met een verslavingsproblematiek.<br>
+<br>
+De minister bepaalt de inhoud en de geldigheidsduur van het samenwerkingsprotocol, vermeld in het vijfde lid.<br>
+<br>
+De minister kent, met behoud van de toepassing van de sectorale subsidieregels die van toepassing zijn, binnen de beschikbare kredieten middelen toe voor het hulpprogramma gespecialiseerde geestelijke gezondheidszorg in een gemeenschapsinstelling.
+
 ## [HOOFDSTUK 8/2 Hulpprogramma gespecialiseerde geestelijke gezondheidszorg in jeugdhulpvoorzieningen (ing. BVR 22 maart 2019, art. 15, I: 7 juli 2019)]
+
+### ART 74/2.
+
+De jeugdhulp organiseert in elke regio voor minderjarigen met een hulpvraag rond geestelijke gezondheid die residentieel in een jeugdhulpvoorziening verblijven, een hulpprogramma gespecialiseerde geestelijke gezondheidszorg.<br>
+<br>
+Het hulpprogramma wordt bij voorkeur zo dicht mogelijk bij de verblijfplaats van de minderjarige in de jeugdhulpvoorziening uitgevoerd.<br>
+<br>
+De aanmelding voor het hulpprogramma gespecialiseerde geestelijke gezondheidszorg kan alleen gebeuren bij een centraal permanent meldpunt, georganiseerd door de regionale medewerkers continuïteit en toegang, dat instaat voor de doorverwijzing binnen elke regio ten behoeve van minderjarigen waarvan men inschat dat psychiatrische expertise noodzakelijk is om één een of meer van de volgende redenen:<br>
+1° kennisuitwisseling en -verruiming of voorbereiding van een intake;<br>
+2° verzamelen van klinische en psychometrisch onderbouwde informatie voor een behandeladvies of de vaststelling van de vereiste jeugdpsychiatrische zorgintensiteit met het oog op vervolghulpverlening;<br>
+3° jeugdpsychiatrische begeleiding in de jeugdhulpvoorziening met mogelijkheid tot voortzetting van dat aanbod na het verblijf van de jongere in de jeugdhulpvoorziening.<br>
+<br>
+Het hulpprogramma gespecialiseerde geestelijke gezondheidszorg in jeugdhulpvoorzieningen omvat de volgende modules die al dan niet gecombineerd kunnen worden ingezet:<br>
+1° de module info en advies, inclusief vroegdetectie van geestelijke gezondheidsproblemen;<br>
+2° de module diagnostiek: jeugdpsychiatrisch diagnostisch onderzoek in functie van behandeladvies en bepaling van zorgintensiteit;<br>
+3° de module behandeling, inclusief vroeginterventie en persoonsgerichte, gespecialiseerde behandeling voor geestelijke gezondheidsproblemen, die zowel residentieel, ambulant als mobiel aangeboden kan worden, inclusief de organisatie van nazorg.<br>
+<br>
+Het hulpprogramma gespecialiseerde geestelijke gezondheidszorg in jeugdhulpvoorzieningen moet erkend worden door het agentschap Opgroeien regie. Om erkend te kunnen worden, moet het hulpprogramma opgenomen zijn in een samenwerkingsprotocol dat ondertekend is door de betrokken jeugdhulpaanbieders, algemene of psychiatrische ziekenhuizen of revalidatiecentra, en dat goedgekeurd is door het agentschap Opgroeien regie, na advies van het Intersectoraal Regionaal Overleg Jeugdhulp.<br>
+<br>
+In het vijfde lid wordt verstaan onder:<br>
+1° algemeen ziekenhuis: een ziekenhuis als vermeld in artikel 2 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+2° psychiatrisch ziekenhuis: een ziekenhuis als vermeld in artikel 3 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen;<br>
+3° revalidatievoorziening: een zorgvoorziening als vermeld in artikel 2, 16°, van het decreet van 6 juli 2018 betreffende de overname van de sectoren psychiatrische verzorgingstehuizen, initiatieven van beschut wonen, revalidatieovereenkomsten, revalidatieziekenhuizen en multidisciplinaire begeleidingsequipes voor palliatieve verzorging, die een van de volgende revalidatieovereenkomsten heeft afgesloten: een revalidatieovereenkomst met de Centra voor Ambulante Revalidatie van diverse taal-, spraak- en stemstoornissen, mentale stoornissen en gedragsstoornissen, een revalidatieovereenkomst met de psychosociale revalidatievoorzieningen voor kinderen en jongeren met een ernstige medisch-psychologische aandoening of een revalidatieovereenkomst met revalidatiecentra voor personen met een verslavingsproblematiek.<br>
+<br>
+De minister bepaalt de inhoud en de geldigheidsduur van het samenwerkingsprotocol, vermeld in het vijfde lid.<br>
+<br>
+De minister kent, met behoud van de toepassing van de sectorale subsidieregels die van toepassing zijn, binnen de beschikbare kredieten middelen toe voor het hulpprogramma gespecialiseerde geestelijke gezondheidszorg in jeugdhulpvoorzieningen.
 
 ## HOOFDSTUK 9 Een participatieve jeugdhulpverlening
 
 ### ART. 75.
 
-Met het oog op de versterking van de participatie van de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken in de   jeugdhulpverlening gaat het Managementcomité over tot:<BR>1° het inrichten van   een vormingsaanbod dat jeugdhulpaanbieders versterkt in het hanteren van een   participatieve basishouding;<BR>2° de gerichte ondersteuning van de   cliëntvertegenwoordigers in de Adviesraad en in het Intersectoraal Regionaal   Overleg Jeugdhulp;<BR>3° het installeren van een intersectoraal en   interregionaal cliëntenforum waarin minstens minderjarigen en ouders   vertegenwoordigd zijn om aan participatie in de jeugdhulpverlening vorm te   geven;<BR>4° een monitoring van de uitoefening door minderjarigen, hun ouders,   in voorkomend geval, hun opvoedingsverantwoordelijken en door de betrokken   personen uit hun leefomgeving van de rechten, vermeld in het decreet van 12 juli   2013 en in het decreet van 7 mei 2004 betreffende de rechtspositie van de   minderjarige in de integrale jeugdhulp;<BR>5° een driejaarlijkse rapportage aan   de ministers van de monitoring, vermeld in punt 4° ;<BR>6° gerichte acties om de   uitoefening van de rechten, vermeld in punt 4°, door minderjarigen, hun ouders   en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken   personen uit hun leefomgeving te waarborgen. <BR>
+Met het oog op de versterking van de participatie van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken in de jeugdhulpverlening gaat het agentschap Opgroeien regie over tot:<br>
+1° het inrichten van een vormingsaanbod dat jeugdhulpaanbieders versterkt in het hanteren van een participatieve basishouding;<br>
+2° de gerichte ondersteuning van de cliëntvertegenwoordigers in de Adviesraad en in het Intersectoraal Regionaal Overleg Jeugdhulp;<br>
+3° het installeren van een intersectoraal en interregionaal cliëntenforum waarin minstens minderjarigen en ouders vertegenwoordigd zijn om aan participatie in de jeugdhulpverlening vorm te geven;<br>
+4° een monitoring van de uitoefening door minderjarigen, hun ouders, in voorkomend geval, hun opvoedingsverantwoordelijken en door de betrokken personen uit hun leefomgeving van de rechten, vermeld in het decreet van 12 juli 2013 en in het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp;<br>
+5° een driejaarlijkse rapportage aan de ministers van de monitoring, vermeld in punt 4° ;<br>
+6° gerichte acties om de uitoefening van de rechten, vermeld in punt 4°, door minderjarigen, hun ouders en, in voorkomend geval, hun opvoedingsverantwoordelijken en de betrokken personen uit hun leefomgeving te waarborgen.
 
 ### ART. 76.
 
@@ -589,7 +821,19 @@ De vestigingsplaats van de sociale dienst voor gerechtelijke   jeugdhulpverlenin
 
 ### ART. 79.
 
-<P>Een navorsingsopdracht die de sociale dienst uitvoert met toepassing van   artikel 57, tweede lid, van het decreet van 12 juli 2013, resulteert in een   schriftelijk verslag dat de volgende gegevens bevat:<BR>1° inlichtingen over de   identiteit van de minderjarige, zijn ouders en, in voorkomend geval, zijn   opvoedingsverantwoordelijken en de betrokken personen uit zijn   leefomgeving;<BR>2° een analyse van de situatie van de personen, vermeld in punt   1°, en de gegevens die nodig zijn om de situatie die aanleiding vormt voor de   gerechtelijke tussenkomst, in te schatten;<BR>3° een inschatting van de nood aan   een gerechtelijke maatregel;<BR>4° zo nodig een indicatiestellingsverslag;<BR>5°   zo mogelijk de aanwijzing van de jeugdhulpaanbieder aan wie de uitvoering van de   jeugdhulpverlening, opgenomen in het indicatiestellingsverslag, vermeld in punt   4°, kan worden toevertrouwd, en de geplande duur van de   jeugdhulpverlening;<BR>6° de vermelding van de natuurlijke personen of   rechtspersonen die wettelijk, bij overeenkomst of bij rechterlijke uitspraak,   ertoe gehouden zijn geheel of gedeeltelijk de kosten van de jeugdhulpverlening   te dekken, alsook van de elementen die de verplichtingen van die personen staven   met een beoordeling van de opportuniteit om hun tussenkomst te vragen;<BR>7° een   raming van de mogelijke bijdragen in de kosten van de jeugdhulpverlening door de   minderjarige, de onderhoudsplichtige personen en de personen, vermeld in punt 6°   ;<BR>8° de aanwending van het resterende bedrag van het derde van de   kinderbijslag.<BR></P>  <P>Het indicatiestellingsverslag dat de sociale dienst opstelt in het raam van   zijn navorsingsopdrachten, beantwoordt aan de kwaliteitsvereisten, vermeld in   artikel 31 van dit besluit, en is maximaal geformuleerd in termen van   typemodules.<BR></P>  <P>Tijdens de uitvoering van de navorsingsopdrachten worden de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken door de   sociale dienst gehoord en wordt hun bereidheid tot medewerking aan de realisatie   van het jeugdhulpverleningsplan getoetst.<BR></P>
+<p>Een navorsingsopdracht die de sociale dienst uitvoert met toepassing van artikel 57, tweede lid, van het decreet van 12 juli 2013, resulteert in een schriftelijk verslag dat de volgende gegevens bevat:<br>
+1° inlichtingen over de identiteit van de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken en de betrokken personen uit zijn leefomgeving;<br>
+2° een analyse van de situatie van de personen, vermeld in punt 1°, en de gegevens die nodig zijn om de situatie die aanleiding vormt voor de gerechtelijke tussenkomst, in te schatten;<br>
+3° een inschatting van de nood aan een gerechtelijke maatregel;<br>
+4° zo nodig een indicatiestellingsverslag;<br>
+5° zo mogelijk de aanwijzing van de jeugdhulpaanbieder aan wie de uitvoering van de jeugdhulpverlening, opgenomen in het indicatiestellingsverslag, vermeld in punt 4°, kan worden toevertrouwd, en de geplande duur van de jeugdhulpverlening;<br>
+6° de vermelding van de natuurlijke personen of rechtspersonen die wettelijk, bij overeenkomst of bij rechterlijke uitspraak, ertoe gehouden zijn geheel of gedeeltelijk de kosten van de jeugdhulpverlening te dekken, alsook van de elementen die de verplichtingen van die personen staven met een beoordeling van de opportuniteit om hun tussenkomst te vragen;<br>
+7° een raming van de mogelijke bijdragen in de kosten van de jeugdhulpverlening door de minderjarige, de onderhoudsplichtige personen en de personen, vermeld in punt 6° ;<br>
+8° de aanwending van het resterende bedrag van het derde van de gezinsbijslagen ter uitvoering van artikel 68, § 2, van het decreet van 27 april 2018 tot regeling van de toelagen in het kader van het gezinsbeleid..</p>
+
+<p>Het indicatiestellingsverslag dat de sociale dienst opstelt in het raam van zijn navorsingsopdrachten, beantwoordt aan de kwaliteitsvereisten, vermeld in artikel 31 van dit besluit, en is maximaal geformuleerd in termen van typemodules.</p>
+
+<p>Tijdens de uitvoering van de navorsingsopdrachten worden de minderjarige, zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken door de sociale dienst gehoord en wordt hun bereidheid tot medewerking aan de realisatie van het jeugdhulpverleningsplan getoetst.</p>
 
 ### ART. 80.
 
@@ -613,7 +857,7 @@ Met toepassing van artikel 55 van het decreet van 12 juli 2013 kan de   jeugdrec
 
 ### ART. 85.
 
-Het dossier van een minderjarige wordt door de sociale dienst bewaard tot   maximaal tien jaar na het bereiken door de betrokkene van de meerderjarigheid.   Een maand voor de vernietiging van het dossier wordt de betrokkene schriftelijk   op de hoogte gebracht van het feit dat hij een kopie van het dossier kan   verkrijgen. <BR>
+Het dossier van een minderjarige wordt door de sociale dienst bewaard tot de betrokkene de leeftijd van vijfendertig jaar heeft bereikt. Bij het afsluiten van het dossier wordt de betrokkene hiervan op de hoogte gebracht.
 
 ## Afdeling 2 Uitvoering van de gerechtelijke maatregelen en de procedure
 
@@ -633,25 +877,25 @@ Het dossier van een minderjarige wordt door de sociale dienst bewaard tot   maxi
 
 ### ART. 88.
 
-De voorzitter en de leden van de Adviesraad, en hun plaatsvervangers,   vermeld in artikel 60 van het decreet van 12 juli 2013 worden door de ministers   benoemd en de ministers beslissen over hun vervanging. De leden en   plaatsvervangende leden worden op de volgende wijze aangewezen:<BR>1° de   vertegenwoordigers van minderjarigen:<BR>a) waarvan minstens één   vertegenwoordiger uit een vereniging van minderjarigen, die ervaring heeft in de   jeugdhulpverlening, op basis van kandidaatstelling door te schrijven naar een   naamlijst van verenigingen;<BR>b) waarvan minstens één vertegenwoordiger wordt   voorgedragen door de Kinderrechtencoalitie;<BR>c) waarvan minstens één   vertegenwoordiger wordt voorgedragen door de Vlaamse Jeugdraad;<BR>2° de   vertegenwoordigers van ouders: op basis van kandidaatstelling door te schrijven   naar een naamlijst van verenigingen waarvan minstens één vertegenwoordiger komt   uit een vereniging van ouders met ervaring in de jeugdhulpverlening;<BR>3° de   vertegenwoordiger van etnisch-culturele minderheden: op voordracht van het   Minderhedenforum;<BR>4° de vertegenwoordiger van mensen in armoede: op   voordracht van het Vlaams Netwerk van verenigingen waar armen het woord   nemen;<BR>5° de vertegenwoordiger van mensen met een handicap: op voordracht van   het Vlaams Gebruikersoverleg voor Personen met een Handicap;<BR>6° de   vertegenwoordigers per sector: op voordracht van de representatieve organisaties   in het jeugdhulpaanbod.<BR>
+...
 
 ### ART. 89.
 
-<P>De vertegenwoordigers, vermeld in artikel 88, 6°, van dit besluit, en hun   plaatsvervangers voldoen aan de volgende profielvereisten:<BR>1° ze hebben bij   voorkeur minstens vijf jaar ervaring in een of meer sectoren van de integrale   jeugdhulp;<BR>2° ze wonen in het Nederlandse taalgebied of in het tweetalige   gebied Brussel-Hoofdstad;<BR>3° ze kunnen een uittreksel uit het strafregister,   model 2 voorleggen.<BR></P>  <P>De vertegenwoordigers, vermeld in artikel 88, 2°, 1°, 3°, 4° en 5°, van dit   besluit, en hun plaatsvervangers voldoen aan de volgende profielvereisten:<BR>1°   ze wonen in het Nederlandse taalgebied of in het tweetalige gebied   Brussel-Hoofdstad;<BR>2° ze kunnen een uittreksel uit het strafregister, model 2   voorleggen;<BR>3° ze zijn niet als personeelslid of bestuurslid actief in de   jeugdhulpverlening van de sectoren;<BR>4° ze kunnen een gemotiveerde   kandidaatstelling voorleggen.<BR></P>
+...
 
 ### ART. 90.
 
-<P>De ministers kunnen aan het mandaat van voorzitter, lid of plaatsvervanger   een einde stellen:<BR>1° op verzoek van de betrokkene;<BR>2° op gefundeerd   verzoek van de Adviesraad;<BR>3° op gefundeerd verzoek van de voordragende   organisatie.<BR></P>  <P>De ministers stellen ambtshalve een einde aan het mandaat van lid of   plaatsvervanger als de betrokkene niet meer beantwoordt aan de vereisten,   vermeld in artikel 88 en 89.<BR></P>  <P>Als het mandaat van voorzitter, lid of plaatsvervanger vroegtijdig vacant   wordt, benoemen de ministers een vervanger, die het mandaat van zijn voorganger   voleindigt. <BR></P>
+...
 
 ## Onderafdeling 2 [... (opgeh. BVR 22 maart 2019, art. 19, I: 7 juli 2019)]
 
 ### ART. 91.
 
-<P>De Adviesraad stelt een huishoudelijk reglement op dat minstens de volgende   vermeldingen bevat:<BR>1° de frequentie van de vergaderingen;<BR>2° de wijze van   samenroeping van de vergaderingen;<BR>3° de wijze van beraadslaging en   stemming;<BR>4° de vervanging van de voorzitter bij afwezigheid;<BR>5° de   mogelijkheid voor de leden om zich te laten vervangen.<BR></P>  <P>Uiterlijk drie maanden na de installatievergadering legt de voorzitter het   huishoudelijk reglement ter bekrachtiging voor aan de ministers. Wijzigingen aan   het huishoudelijk reglement worden tevens voorgelegd aan de ministers.<BR></P>  <P>Het agentschap Jongerenwelzijn verzorgt de ondersteuning en het secretariaat   van de Adviesraad. <BR></P>
+...
 
 ### ART. 92.
 
-<P>Met behoud van de toepassing van het tweede lid wordt aan de voorzitter, de   leden of hun plaatsvervangers een presentiegeld toegekend per vergadering van de   Adviesraad waaraan ze deelnemen, overeenkomstig artikel 3 van het besluit van de   Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot   harmonisatie van de werking en van de presentiegelden en vergoedingen van   adviesorganen.<BR><BR>In afwijking van het eerste lid ontvangen de leden,   vermeld in artikel 88, 1° en 2°, een presentiegeld dat gelijk is aan tweemaal   het bedrag, vermeld in het eerste lid. Die leden ontvangen alleen een   presentiegeld als ze het lidmaatschap opnemen in het kader van een   arbeidsovereenkomst en de vergoeding wordt aan de werkgever van de betrokken   persoon toegekend.<BR><BR>De voorzitter, de leden of hun plaatsvervangers hebben   recht op de terugbetaling van hun reiskosten volgens de normen die gelden voor   het personeel van de Vlaamse overheid.</P>  <P>De werkingskosten van de Adviesraad alsook de vergoedingen, vermeld in het   eerste, het tweede en het derde&nbsp;lid, vallen ten laste van de begroting van   de Vlaamse Gemeenschap.<BR></P>
+...
 
 ## Afdeling 2 [... (opgeh. BVR 22 maart 2019, art. 19, I: 7 juli 2019)]
 
@@ -659,21 +903,21 @@ De voorzitter en de leden van de Adviesraad, en hun plaatsvervangers,   vermeld 
 
 ### ART. 93.
 
-<P>§ 1. Het Managementcomité is samengesteld uit de houders van een   managementfunctie van N-niveau van de departementen en de agentschappen, die   bevoegd zijn voor de jeugdhulpverlening, vermeld in hoofdstuk 2. Voor de   jeugdhulpverlening, vermeld in artikel 7, is dit de secretaris-generaal van het   Departement Onderwijs en Vorming, vermeld in artikel 22 van het besluit van 3   juni 2005 van de Vlaamse Regering met betrekking tot de organisatie van de   Vlaamse administratie.<BR></P>  <P>De ministers kunnen toestaan dat leidend ambtenaren van de federale overheid   worden uitgenodigd om te participeren aan de vergaderingen van het   Managementcomité.<BR></P>  <P>§ 2. Overeenkomstig artikel 62 van het decreet van 12 juli 2013 wordt, voor   overleg en beslissingen over de autonome werking van de toegangspoort, het   Managementcomité uitgebreid met de in dat artikel vermelde vertegenwoordigers.   Die vertegenwoordigers en hun plaatsvervangers worden door de ministers benoemd   en de ministers beslissen over hun vervanging.<BR></P>  <P>De vertegenwoordigers, vermeld in artikel 62, 3°, van het voormelde decreet   en hun plaatsvervangers beantwoorden aan de profielvereisten, vermeld in artikel   89, eerste lid van dit besluit.<BR></P>  <P>De vertegenwoordigers, vermeld in artikel 62, 1° en 2°, van het voormelde   decreet, en hun plaatsvervangers voldoen aan de profielvereisten, vermeld in   artikel 89, tweede lid,&nbsp;van dit besluit.</P>  <P>Met behoud van de toepassing van het vijfde lid, wordt aan de leden of hun   plaatsvervangers, vermeld in artikel 62, 1° en 2° van het voormelde decreet, een   presentiegeld toegekend van 20 euro per vergadering van het Managementcomité   waaraan ze deelnemen. Die leden ontvangen alleen een presentiegeld als ze het   lidmaatschap opnemen in het kader van een arbeidsovereenkomst en de vergoeding   wordt aan de werkgever van de betrokken persoon toegekend. De vergoeding valt   ten laste van de begroting van de Vlaamse Gemeenschap.<BR><BR>De   vertegenwoordigers, vermeld in het vierde lid, hebben recht op de terugbetaling   van hun reiskosten volgens de normen die gelden voor het personeel van de   Vlaamse overheid.</P>
+...
 
 ### ART. 94.
 
-Het voorzitterschap van het Managementcomité wordt waargenomen door de   leidend ambtenaar van het agentschap Jongerenwelzijn.<BR>
+...
 
 ## Onderafdeling 2 [... (opgeh. BVR 22 maart 2019, art. 19, I: 7 juli 2019)]
 
 ### ART. 95.
 
-<P>Het Managementcomité stelt een huishoudelijk reglement op dat minstens de   volgende vermeldingen bevat:<BR>1° de frequentie van de vergaderingen;<BR>2° de   wijze van samenroeping van de vergaderingen;<BR>3° de wijze van beraadslaging en   stemming;<BR>4° de vervanging van de voorzitter bij afwezigheid;<BR>5° de   mogelijkheid voor de leden om zich te laten vervangen.<BR></P>  <P>Uiterlijk drie maanden na de installatievergadering legt de voorzitter het   huishoudelijk reglement ter bekrachtiging voor aan de ministers. Wijzigingen aan   het huishoudelijk reglement worden tevens voorgelegd aan de ministers.<BR></P>  <P>Het agentschap Jongerenwelzijn verzorgt de ondersteuning en het secretariaat   van het Managementcomité.<BR></P>
+...
 
 ### ART. 96.
 
-<P>Het Managementcomité stelt een kader op voor het actieplan van elk   Intersectoraal Regionaal Overleg Jeugdhulp dat de regionale opdrachten faseert,   prioriteert en aanstuurt. Jaarlijks organiseert het Managementcomité een overleg   met de voorzitters van elk Intersectoraal Regionaal Overleg Jeugdhulp.<BR></P>  <P>Elk lid van het Managementcomité informeert het Managementcomité over   sectorale ontwikkelingen die een impact kunnen hebben op de andere sectoren. Het   Managementcomité neemt daarvan kennis en formuleert, in voorkomend geval, een   advies voor de ministers.<BR></P>  <P>Het Managementcomité overlegt minstens jaarlijks over de uitbreiding of   herschikking van het jeugdhulpaanbod en werkt een aanpak uit voor de   concretisering van de intersectorale toetsing, vermeld in artikel 61, tweede   lid, van het decreet van 12 juli 2013.<BR></P>
+...
 
 ## Afdeling 3 Het Intersectoraal Regionaal Overleg Jeugdhulp
 
@@ -681,13 +925,44 @@ Het voorzitterschap van het Managementcomité wordt waargenomen door de   leiden
 
 ### ART. 97.
 
-<P>Met behoud van de toepassing van artikel 66, eerste en derde lid, van het   decreet van 12 juli 2013 is het Intersectoraal Regionaal Overleg Jeugdhulp   samengesteld uit een voorzitter, effectieve en plaatsvervangende leden.<BR></P>  <P>De leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli   2013, worden als volgt aangewezen:<BR>1° de vertegenwoordiger van minderjarigen:   op basis van een gemotiveerde kandidaatstelling door te schrijven naar een   naamlijst van verenigingen in de betreffende regio;<BR>2° de vertegenwoordiger   van ouders: op basis van een gemotiveerde kandidaatstelling door te schrijven   naar een naamlijst van verenigingen in de betreffende regio;<BR>3° de   vertegenwoordiger van etnisch-culturele minderheden: op voordracht van het   Minderhedenforum;<BR>4° de vertegenwoordiger van mensen in armoede: op   voordracht van het Vlaams Netwerk van verenigingen waar armen het woord   nemen;<BR>5° de vertegenwoordiger van mensen met een handicap: op voordracht van   het Vlaams Gebruikersoverleg voor Personen met een Handicap;<BR>6° de   vertegenwoordigers van de jeugdhulpaanbieders van de regio: op voordracht van de   representatieve organisaties van het jeugdhulpaanbod in de regio;<BR>7° de   vertegenwoordiger van de toegangspoort in de regio: de regionale directeur van   de toegangspoort;<BR>8° de vertegenwoordiger van het vertrouwenscentrum   Kindermishandeling in de regio: op voordracht van de directie van het   vertrouwenscentrum Kindermishandeling;<BR>9° de vertegenwoordiger van de   ondersteuningscentra en de sociale diensten in de regio: de   regioverantwoordelijke van de ondersteuningscentra;<BR>10° een vertegenwoordiger   van de afdeling Beleidsontwikkeling van het Departement Welzijn, Volksgezondheid   en Gezin;<BR>11° een vertegenwoordiger van de provinciale overheid of van de   Vlaamse Gemeenschapscommissie voor de regio Brussel: op voordracht van de   provinciale overheid of van de Vlaamse Gemeenschapscommissie.<BR></P>  <P>In elke regio wordt het Intersectoraal Regionaal Overleg Jeugdhulp, naast de   leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli 2013,   uitgebreid met:<BR>1° een vertegenwoordiger van de Dienst voor Pleegzorg in de   betrokken regio;<BR>2° een vertegenwoordiger van het netwerk of de netwerken   geestelijke gezondheidszorg kinder- en jeugdpsychiatrie in de betrokken   regio;<BR></P>  <P>Het Intersectoraal Regionaal Overleg Jeugdhulp kan beslissen om leden toe te   voegen en een vertegenwoordiger van de jeugdmagistratuur in de betrokken regio   kan deelnemen aan overleg van het Intersectoraal Regionaal Overleg   Jeugdhulp.<BR></P>  <P>Het Intersectoraal Regionaal Overleg Jeugdhulp wijst zijn voorzitter aan die   een mandaat heeft voor een periode van drie jaar. Dat mandaat kan worden   verlengd. De voorzitter mag geen personeelslid zijn van de Vlaamse   overheid.<BR></P>  <P>De voorzitter stelt zich altijd neutraal op. Als de voorzitter in een   bepaalde sector werkt, wordt hij niet als vertegenwoordiger van die sector   beschouwd voor de minimale samenstelling van het Intersectoraal Regionaal   Overleg Jeugdhulp.<BR></P>  <P>De ministers bepalen hoe de leden van het Intersectoraal Regionaal Overleg   Jeugdhulp worden benoemd en hoe ze, in voorkomend geval, worden   vervangen.<BR></P>
+<p>Met behoud van de toepassing van artikel 66, eerste en derde lid, van het decreet van 12 juli 2013 is het Intersectoraal Regionaal Overleg Jeugdhulp samengesteld uit een voorzitter, effectieve en plaatsvervangende leden.</p>
+
+<p>De leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli 2013, worden als volgt aangewezen:<br>
+1° de vertegenwoordiger van minderjarigen: op basis van een gemotiveerde kandidaatstelling door te schrijven naar een naamlijst van verenigingen in de betreffende regio;<br>
+2° de vertegenwoordiger van ouders: op basis van een gemotiveerde kandidaatstelling door te schrijven naar een naamlijst van verenigingen in de betreffende regio;<br>
+3° de vertegenwoordiger van etnisch-culturele minderheden: op voordracht van het Minderhedenforum;<br>
+4° de vertegenwoordiger van mensen in armoede: op voordracht van het Vlaams Netwerk van verenigingen waar armen het woord nemen;<br>
+5° de vertegenwoordiger van mensen met een handicap: op voordracht van het Vlaams Gebruikersoverleg voor Personen met een Handicap;<br>
+6° de vertegenwoordigers van de jeugdhulpaanbieders van de regio: op voordracht van de representatieve organisaties van het jeugdhulpaanbod in de regio;<br>
+7° de vertegenwoordiger van de toegangspoort in de regio: de regionale directeur van de toegangspoort;<br>
+8° de vertegenwoordiger van het vertrouwenscentrum Kindermishandeling in de regio: op voordracht van de directie van het vertrouwenscentrum Kindermishandeling;<br>
+9° de vertegenwoordiger van de ondersteuningscentra en de sociale diensten in de regio: de regioverantwoordelijke van de ondersteuningscentra;<br>
+10° ...;<br>
+11° een vertegenwoordiger van de Vlaamse Gemeenschapscommissie voor de regio Brussel: op voordracht van de Vlaamse Gemeenschapscommissie.</p>
+
+<p>In elke regio wordt het Intersectoraal Regionaal Overleg Jeugdhulp, naast de leden, vermeld in artikel 66, eerste lid, van het decreet van 12 juli 2013, uitgebreid met:<br>
+1° een vertegenwoordiger van de Dienst voor Pleegzorg in de betrokken regio;<br>
+2° een vertegenwoordiger van het netwerk of de netwerken geestelijke gezondheidszorg kinder- en jeugdpsychiatrie in de betrokken regio;</p>
+
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp kan beslissen om leden toe te voegen en een vertegenwoordiger van de jeugdmagistratuur in de betrokken regio kan deelnemen aan overleg van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
+
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp wijst zijn voorzitter aan die een mandaat heeft voor een periode van drie jaar. Dat mandaat kan worden verlengd. De voorzitter mag geen personeelslid zijn van de Vlaamse overheid.</p>
+
+<p>De voorzitter stelt zich altijd neutraal op. Als de voorzitter in een bepaalde sector werkt, wordt hij niet als vertegenwoordiger van die sector beschouwd voor de minimale samenstelling van het Intersectoraal Regionaal Overleg Jeugdhulp.</p>
+
+<p>De ministers bepalen hoe de leden van het Intersectoraal Regionaal Overleg Jeugdhulp worden benoemd en hoe ze, in voorkomend geval, worden vervangen.</p>
 
 ## Onderafdeling 2 Werking
 
 ### ART. 98.
 
-<P>Het Intersectoraal Regionaal Overleg Jeugdhulp stelt een huishoudelijk   reglement op dat minstens de volgende vermeldingen bevat:<BR>1° de wijze van   samenroeping van de vergaderingen;<BR>2° de wijze van beraadslaging en   stemming;<BR>3° de vervanging van de voorzitter bij afwezigheid;<BR>4° de   mogelijkheid voor de leden om zich te laten vervangen.<BR></P>  <P>Het Managementcomité legt het kader vast voor het huishoudelijk reglement,   vermeld in het eerste lid. Uiterlijk drie maanden na de aanwijzing van de   voorzitter wordt het huishoudelijk reglement door de voorzitter ter   bekrachtiging voorgelegd aan het Managementcomité. <BR></P>
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp stelt een huishoudelijk reglement op dat minstens de volgende vermeldingen bevat:<br>
+1° de wijze van samenroeping van de vergaderingen;<br>
+2° de wijze van beraadslaging en stemming;<br>
+3° de vervanging van de voorzitter bij afwezigheid;<br>
+4° de mogelijkheid voor de leden om zich te laten vervangen.</p>
+
+<p>Het agentschap Opgroeien regie legt het kader vast voor het huishoudelijk reglement, vermeld in het eerste lid. Uiterlijk drie maanden na de aanwijzing van de voorzitter wordt het huishoudelijk reglement door de voorzitter ter bekrachtiging voorgelegd aan het agentschap Opgroeien regie.</p>
 
 ### ART. 99.
 
@@ -695,7 +970,13 @@ Het voorzitterschap van het Managementcomité wordt waargenomen door de   leiden
 
 ### ART. 100.
 
-<P>Het Intersectoraal Regionaal Overleg Jeugdhulp voert de opdrachten, vermeld   in artikel 65, tweede lid, van het decreet van 12 juli 2013, uit door een   actieplan op te stellen op basis van het kader dat is opgesteld door het   Managementcomité met toepassing van artikel 96, eerste lid, van dit besluit. Het   actieplan van het Intersectoraal Regionaal Overleg Jeugdhulp is geldig voor een   periode van drie jaar en wordt goedgekeurd door het Managementcomité.<BR></P>  <P>Het Intersectoraal Regionaal Overleg Jeugdhulp beschikt over werkingsmiddelen   om het actieplan, vermeld in het eerste lid, uit te voeren. De ministers bepalen   de nadere regels daarvoor. De werkingsmiddelen vallen ten laste van de begroting   van de Vlaamse Gemeenschap.<BR></P>  <P>Het Intersectoraal Regionaal Overleg Jeugdhulp kan samenwerken met het   Intersectoraal Regionaal Overleg Jeugdhulp van een of meer andere regio's met   het oog op de uitvoering van zijn actieplan.<BR></P>  <P>Als het Intersectoraal Regionaal Overleg Jeugdhulp overgaat tot de oprichting   van netwerken met toepassing van artikel 65, tweede lid, van het decreet van 12   juli 2013, gebeurt de opdeling van netwerken overeenkomstig de bepalingen van   het decreet van 23 mei 2003.<BR></P>
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp voert de opdrachten, vermeld in artikel 65, tweede lid, van het decreet van 12 juli 2013, uit door een actieplan op te stellen op basis van het kader dat is opgesteld door het agentschap Opgroeien regie met toepassing van artikel 96, eerste lid, van dit besluit. Het actieplan van het Intersectoraal Regionaal Overleg Jeugdhulp is geldig voor een periode van drie jaar en wordt goedgekeurd door het agentschap Opgroeien regie.</p>
+
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp beschikt over werkingsmiddelen om het actieplan, vermeld in het eerste lid, uit te voeren. De ministers bepalen de nadere regels daarvoor. De werkingsmiddelen vallen ten laste van de begroting van de Vlaamse Gemeenschap.</p>
+
+<p>Het Intersectoraal Regionaal Overleg Jeugdhulp kan samenwerken met het Intersectoraal Regionaal Overleg Jeugdhulp van een of meer andere regio's met het oog op de uitvoering van zijn actieplan.</p>
+
+<p>Als het Intersectoraal Regionaal Overleg Jeugdhulp overgaat tot de oprichting van netwerken met toepassing van artikel 65, tweede lid, van het decreet van 12 juli 2013, gebeurt de opdeling van netwerken overeenkomstig de bepalingen van het decreet van 23 mei 2003.</p>
 
 ## HOOFDSTUK 12 Wijzigingsbepalingen
 
