@@ -2,16 +2,16 @@
   "codex_id": 1029135,
   "title": "Ministerieel besluit van 2018-03-15 tot uitvoering van artikel 12 van het besluit van de Vlaamse Regering van 23 februari 2018 tot uitvoering van het decreet van 22 december 2017 houdende een premie om de transitie van werkzoekenden naar ondernemerschap te stimuleren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029135/VolledigDocument?datum=2019-04-26",
-  "source_sha256": "db1acea4d3e645512081c30fe99deafa1f35dd23629de575b76d7bf2425e7ad4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029135/VolledigDocument?datum=2019-07-09",
+  "source_sha256": "10597139ace5e1a122067323289496fd9102ed35f5865d44dcde253a6b0e06ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029135&param=informatie",
-  "as_of": "2019-04-26",
+  "as_of": "2019-07-09",
   "made": "2018-03-15",
   "gazette": "2018-03-19",
   "numac": 2018011367,
   "document_start": "2018-03-15",
   "document_end": null,
-  "in_force": "2019-04-26",
+  "in_force": "2019-07-09",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2019-04-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2019-07-09; future article versions excluded; article text as the API gives it"
 }

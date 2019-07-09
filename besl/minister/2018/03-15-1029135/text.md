@@ -49,7 +49,7 @@ De prestarterstrajecten zijn:<br>
 		</tr>
 		<tr>
 			<td>Opleiding bedrijfsbeheer*</td>
-			<td>Centrum voor Volwassenonderwijs</td>
+			<td>Centrum voor Volwassenenonderwijs</td>
 		</tr>
 		<tr>
 			<td>Werkzoekenden naar ondernemerschap (Maak Werk van je Zaak)</td>
@@ -78,6 +78,14 @@ De prestarterstrajecten zijn:<br>
 		<tr>
 			<td>START 45+</td>
 			<td>Liantis</td>
+		</tr>
+		<tr>
+			<td>Bryo StandUp</td>
+			<td>VOKA</td>
+		</tr>
+		<tr>
+			<td>Opleiding Ondernemerschap</td>
+			<td>Centrum voor Volwassenenonderwijs</td>
 		</tr>
 	</tbody>
 </table>
