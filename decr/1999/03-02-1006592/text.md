@@ -115,7 +115,10 @@ Onverminderd artikel 9 van de wet van 19 juni 1978 betreffende het beheer van he
 
 ### ART. 14.
 
-Onder ieder havenbedrijf ressorteert een havenkapiteindienst opgericht overeenkomstig de wettelijke regeling van 15 mei 1936 op de havenkapiteindiensten, die instaat voor het nemen van alle maatregelen ter vrijwaring van de openbare orde, rust, veiligheid van de havenbedrijvigheid, zoals:<br /><br />1° de regeling van de goederenbehandeling en -opslag en het in- en ontschepen van passagiers;<br /><br />2° de regeling van de toegankelijkheid van en de verkeersafwikkeling in het havengebied;<br /><br />3° de vrijwaring van het milieu, de integriteit en de veiligheid van het havengebied.
+Onder ieder havenbedrijf ressorteert een havenkapiteinsdienst, die instaat voor het nemen van alle maatregelen ter vrijwaring van de openbare orde, rust, veiligheid van de havenbedrijvigheid, zoals:<br>
+1° de regeling van de goederenbehandeling en -opslag en het in- en ontschepen van passagiers;<br>
+2° de regeling van de toegankelijkheid van en de verkeersafwikkeling in het havengebied;<br>
+3° de vrijwaring van het milieu, de integriteit en de veiligheid van het havengebied.
 
 ### ART. 14bis.
 
@@ -139,7 +142,7 @@ De bijzondere verkeersregels van de verordening gelden vanaf de plaats waar een 
 <br>
 De opdrachtgever en de verlader worden met toepassing van de strafbepalingen, vermeld in het eerste lid, gestraft als ze instructies hebben gegeven of daden hebben gesteld die hebben geleid tot een inbreuk op de verordening.<br>
 <br>
-De artikelen 13 en 14, eerste en tweede lid, van de wet van 5 mei 1936 tot vaststelling van het statuut der havenkapiteins gelden voor de inbreuken op de verordening, vermeld in paragraaf 1.
+Inbreuken op de verordening, vermeld in paragraaf 1, behoren tot de bevoegdheid van de havenkapiteinsdienst.
 
 ### ART. 15.
 
