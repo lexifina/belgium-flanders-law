@@ -1942,7 +1942,26 @@ De omgevingsvergunning voor de handelingen, vermeld in artikel 4.2.1, 1°,   6°
 
 ### ART. 4.3.8.
 
-§ 1. Een omgevingsvergunning kan niet worden verleend voor het bouwen of   herbouwen van een constructie op een stuk grond dat door een rooilijn is   getroffen, of voor verbouwings- of uitbreidingswerken, andere dan   stabiliteitswerken, aan een door een rooilijn of een achteruitbouwstrook   getroffen constructie, behoudens onder de voorwaarden die worden bepaald bij of   krachtens het decreet van 8 mei 2009 houdende vaststelling en realisatie van de   rooilijnen.<BR><BR>§ 2. Een omgevingsvergunning kan niet worden verleend voor   het bouwen van een constructie in een reservatiestrook, behoudens indien voldaan   is aan een van volgende voorwaarden :<BR>1° de aanvraag heeft betrekking op de   uitvoering, bescherming of instandhouding van handelingen die betrekking hebben   op openbare infrastructuren of openbare wegen of nutsvoorzieningen en kan worden   gekaderd binnen de vigerende stedenbouwkundige voorschriften;<BR>2° uit de   adviezen van de bevoegde instanties blijkt dat de reservatiestrook niet binnen   vijf jaar na afgifte van de vergunning zal worden aangewend voor de uitvoering,   bescherming of instandhouding van handelingen, vermeld in 1°.<BR><BR>In geval   van onteigening na het verstrijken van de termijn, vermeld in het eerste lid,   2°, wordt bij het bepalen van de vergoeding geen rekening gehouden met de   waardevermeerdering die uit de vergunde werken voortvloeit.<BR><BR>§ 3. De   Vlaamse Regering kan nadere formele en procedurele regelen voor de toepassing   van § 1 en § 2 bepalen.<BR><BR>
+§ 1. Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen kan niet worden verleend voor het bouwen, verbouwen, herbouwen of uitbreiden van een constructie op een stuk grond dat door een rooilijn of een achteruitbouwstrook is getroffen, behoudens onder de voorwaarden die worden bepaald bij of krachtens het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen.<br>
+<br>
+§ 2. Een omgevingsvergunning kan niet worden verleend voor&nbsp;handelingen, vermeld in artikel 4.2.1, 1°, in een reservatiestrook, behoudens indien voldaan is aan een van volgende voorwaarden :<br>
+1° de aanvraag heeft betrekking op de uitvoering, bescherming of instandhouding van handelingen die betrekking hebben op openbare infrastructuren of openbare wegen of nutsvoorzieningen en kan worden gekaderd binnen de vigerende stedenbouwkundige voorschriften;<br>
+2° uit de adviezen van de bevoegde instanties blijkt dat de reservatiestrook niet binnen vijf jaar na afgifte van de vergunning zal worden aangewend voor de uitvoering, bescherming of instandhouding van handelingen, vermeld in 1°.<br>
+<br>
+Als de onteigening alsnog plaatsvindt vóór het verstrijken van de termijn, vermeld in het eerste lid, 2°, wordt bij het bepalen van de vergoeding volledig rekening gehouden met de eventuele waardevermeerdering die voortvloeit uit de vergunde, gemelde of vrijgestelde handelingen.<br>
+<br>
+De Vlaamse Regering bepaalt of en in welke mate bij onteigening na het verstrijken van de termijn, vermeld in het eerste lid, 2°, bij het bepalen van de vergoeding rekening wordt gehouden met de waardevermeerdering die voortvloeit uit vergunde, gemelde of vrijgestelde handelingen.<br>
+<br>
+Er wordt rekening gehouden met de eventuele waardevermeerdering die voortvloeit uit de volgende handelingen aan bestaande, hoofdzakelijk vergunde constructies:<br>
+1° onderhoudswerken;<br>
+2° vergunde stabiliteitswerken;<br>
+3° van vergunning vrijgestelde handelingen binnen het bestaande bouwvolume;<br>
+4° vergunde verbouwingen binnen het bestaande bouwvolume;<br>
+5° vergunde herstelwerken na vernietiging of beschadiging door vreemde oorzaak;<br>
+6° handelingen als vermeld in artikel 4.4.19, § 1.<br>
+<br>
+§ 3. De Vlaamse Regering kan nadere formele en procedurele regelen voor de toepassing van § 1 en § 2 bepalen.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Afwijkingen van stedenbouwkundige voorschriften
 
