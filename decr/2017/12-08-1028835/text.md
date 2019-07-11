@@ -723,6 +723,26 @@ Aan artikel 4.3.6 van dezelfde codex, gewijzigd bij het decreet van 25 april 201
 "Een vergunning wordt geweigerd als de aanvraag betrekking heeft op het oprichten van een tweede of een bijkomende, vrijstaande bedrijfswoning bij eenzelfde bedrijf.".<br>
 &nbsp;
 
+### ART 61.
+
+&nbsp;In artikel 4.3.8 van dezelfde codex, gewijzigd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° paragraaf 1 wordt vervangen door wat volgt:<br>
+" § 1. Een stedenbouwkundige vergunning of omgevingsvergunning voor stedenbouwkundige handelingen kan niet worden verleend voor het bouwen, verbouwen, herbouwen of uitbreiden van een constructie op een stuk grond dat door een rooilijn of een achteruitbouwstrook is getroffen, behoudens onder de voorwaarden die worden bepaald bij of krachtens het decreet van 8 mei 2009 houdende vaststelling en realisatie van de rooilijnen.";<br>
+2° in de inleidende zin van paragraaf 2, eerste lid, worden de woorden "het bouwen van een constructie" vervangen door de zinsnede "handelingen, vermeld in artikel 4.2.1, 1°, ";<br>
+3° in paragraaf 2 wordt het tweede lid vervangen door wat volgt:<br>
+"Als de onteigening alsnog plaatsvindt vóór het verstrijken van de termijn, vermeld in het eerste lid, 2°, wordt bij het bepalen van de vergoeding volledig rekening gehouden met de eventuele waardevermeerdering die voortvloeit uit de vergunde, gemelde of vrijgestelde handelingen.";<br>
+4° aan paragraaf 2 worden een derde en vierde lid toegevoegd, die luiden als volgt:<br>
+"De Vlaamse Regering bepaalt of en in welke mate bij onteigening na het verstrijken van de termijn, vermeld in het eerste lid, 2°, bij het bepalen van de vergoeding rekening wordt gehouden met de waardevermeerdering die voortvloeit uit vergunde, gemelde of vrijgestelde handelingen.<br>
+<br>
+Er wordt rekening gehouden met de eventuele waardevermeerdering die voortvloeit uit de volgende handelingen aan bestaande, hoofdzakelijk vergunde constructies:<br>
+1° onderhoudswerken;<br>
+2° vergunde stabiliteitswerken;<br>
+3° van vergunning vrijgestelde handelingen binnen het bestaande bouwvolume;<br>
+4° vergunde verbouwingen binnen het bestaande bouwvolume;<br>
+5° vergunde herstelwerken na vernietiging of beschadiging door vreemde oorzaak;<br>
+6° handelingen als vermeld in artikel 4.4.19, § 1.".<br>
+&nbsp;
+
 ### ART 62.
 
 In artikel 4.4.1 van dezelfde codex, gewijzigd bij de decreten van 16 juli 2010, 11 mei 2012, 25 april 2014 en 18 december 2015, worden de volgende wijzigingen aangebracht:<br>
