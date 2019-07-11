@@ -222,9 +222,7 @@ Overtreding van de verordeningen, bedoeld in artikel 17, wordt bestraft met een 
 
 ### ART 18bis.
 
-Onder de vennootschap ressorteert een havenkapiteinsdienst.<br>
-<br>
-De werking en de organisatie van de havenkapiteinsdienst worden geregeld door de wet van 5 mei 1936 tot vaststelling van het statuut der havenkapiteins.
+Onder de vennootschap ressorteert een havenkapiteinsdienst.
 
 ### ART 18ter.
 
