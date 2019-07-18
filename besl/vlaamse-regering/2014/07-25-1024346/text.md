@@ -31,13 +31,13 @@ Zij draagt de titel "Vlaams minister van Binnenlands Bestuur, Inburgering, Wonen
 <br>
 Zij draagt de titel "Vlaams minister van Onderwijs".<br>
 <br>
-§ 4. De heer Sven Gatz, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
-1° het beleidsdomein cultuur, jeugd, sport en media, vermeld in artikel 10 van het organisatiebesluit, met uitzondering van het beleidsveld sport;<br>
-2° het beleidsveld coördinatie Brussel.<br>
+§ 4. Mevrouw Lydia Peeters, viceminister-president van de Vlaamse Regering, is bevoegd voor:<br>
+1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
+2° het beleidsveld energie;<br>
+3° het beleidsdomein cultuur, jeugd, sport en media, vermeld in artikel 10 van het organisatiebesluit, met uitzondering van het beleidsveld sport;<br>
+4° het toezicht op de Vlaamse Gemeenschapscommissie overeenkomstig het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie.<br>
 <br>
-Hij wordt aangewezen om als Brussels lid van de Vlaamse Regering de vergaderingen van het College van de Vlaamse Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen.<br>
-<br>
-Hij draagt de titel "Vlaams minister van Cultuur, Media, Jeugd en Brussel".<br>
+Zij draagt de titel "Vlaams minister van Begroting, Financiën, Energie, Cultuur, Media en Jeugd"<br>
 <br>
 § 5. De heer Ben Weyts, vice-minister-president van de Vlaamse Regering, is bevoegd voor:<br>
 1° het beleidsdomein mobiliteit en openbare werken, vermeld in artikel 14 van het organisatiebesluit;<br>
@@ -62,11 +62,11 @@ Hij draagt de titel "Vlaams minister van Welzijn, Volksgezondheid en Gezin".<br>
 <br>
 Hij draagt de titel "Vlaams minister van Werk, Economie, Innovatie en Sport".<br>
 <br>
-§ 9. Mevrouw Lydia Peeters, is bevoegd voor:<br>
-1° het beleidsdomein financiën en begroting, vermeld in artikel 5 van het organisatiebesluit;<br>
-2° het beleidsveld energie.<br>
+§ 9. De heer Sven Gatz is bevoegd voor het beleidsveld coördinatie Brussel, met uitzondering van het toezicht op de Vlaamse Gemeenschapscommissie overeenkomstig het decreet van 5 juli 1989 tot organisatie van het toezicht op de Vlaamse Gemeenschapscommissie.<br>
 <br>
-Zij draagt de titel "Vlaams minister van Begroting, Financiën en Energie".<br>
+Hij wordt aangewezen om als Brussels lid van de Vlaamse Regering de vergaderingen van het College van de Vlaamse Gemeenschapscommissie en van het Verenigd College van de Gemeenschappelijke Gemeenschapscommissie met raadgevende stem bij te wonen, zoals bepaald in artikel 76 van de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen.<br>
+<br>
+Hij draagt de titel "Vlaams minister van Brusselse aangelegenheden".<br>
 <br>
 § 10. De heer Koen Van den Heuvel is bevoegd voor:<br>
 1° het beleidsdomein landbouw en visserij, vermeld in artikel 12 van het organisatiebesluit;<br>
@@ -87,7 +87,7 @@ d) de Sociaal-Economische Raad van Vlaanderen;<br>
 2° de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<br>
 a) het Agentschap Overheidspersoneel;<br>
 b) het Agentschap Facilitair Bedrijf;<br>
-c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn, en met de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
+c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn, en met de Vlaamse minister van Brusselse aangelegenheden;<br>
 d) de Vlaamse Vereniging voor ICT-personeel ("Vlaanderen connect.");<br>
 e) het Agentschap Integratie en Inburgering;<br>
 f) Wonen-Vlaanderen;<br>
@@ -109,17 +109,17 @@ e) de Vlaamse Onderwijsraad;<br>
 f) het Gemeenschapsonderwijs;<br>
 g) ...;<br>
 <br>
-4° de Vlaamse minister van Cultuur, Media, Jeugd en Brussel is bevoegd voor:<br>
-a) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
-b) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
-c) het Fonds Culturele Infrastructuur;<br>
-d) het Vlaams Fonds voor de Letteren;<br>
-e) het Topstukkenfonds;<br>
-f) de Vlaamse Radio- en Televisieomroep;<br>
-g) de Vlaamse Regulator voor de Media;<br>
-h) het Vlaams-Brusselfonds;<br>
-i) Muntpunt;<br>
-j) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
+4° de Vlaamse minister van Begroting, Financiën, Energie, Cultuur, Media en Jeugd is bevoegd voor:<br>
+a) de Vlaamse Belastingdienst;<br>
+b) het Vlaams Fonds voor de Lastendelging;<br>
+c) het Vlaams Energieagentschap;<br>
+d) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
+e) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
+f) het Fonds Culturele Infrastructuur;<br>
+g) het Vlaams Fonds voor de Letteren;<br>
+h) het Topstukkenfonds;<br>
+i) de Vlaamse Radio- en Televisieomroep;<br>
+j) de Vlaamse Regulator voor de Media;<br>
 k) het Koninklijk Museum voor Schone Kunsten Antwerpen.<br>
 <br>
 5° de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Buitenlands Beleid, Onroerend Erfgoed en Dierenwelzijn is bevoegd voor:<br>
@@ -136,7 +136,7 @@ j) het Pendelfonds;<br>
 k) het Eigen Vermogen Flanders Hydraulics;<br>
 l) de Rand;<br>
 m) Toerisme Vlaanderen;<br>
-n) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
+n) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Brusselse aangelegenheden;<br>
 o) het Vlaams Agentschap voor Internationaal Ondernemen;<br>
 p) Onroerend Erfgoed;<br>
 q) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de ruimtelijke ordening.<br>
@@ -178,10 +178,10 @@ p) het ESF-Agentschap;<br>
 q) Sport Vlaanderen;<br>
 r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
 <br>
-9° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
-a) de Vlaamse Belastingdienst;<br>
-b) het Vlaams Fonds voor de Lastendelging;<br>
-c) het Vlaams Energieagentschap;<br>
+9° de Vlaamse minister van Brusselse aangelegenheden is bevoegd voor:<br>
+a) het Vlaams-Brusselfonds;<br>
+b) Muntpunt;<br>
+c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;<br>
 <br>
 10° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
 a) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
