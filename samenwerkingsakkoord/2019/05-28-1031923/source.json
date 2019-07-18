@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031923,
+  "title": "Samenwerkingsakkoord van 2019-05-28 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap tot wijziging van het Samenwerkingsakkoord van 6 december 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap houdende uitvoering van het samenwerkingsakkoord van 2 februari 2018 tussen de Federale Staat, het Waals Gewest, het Vlaams Gewest, het Brussels-Hoofdstedelijk Gewest en de Duitstalige Gemeenschap met betrekking tot de coördinatie tussen het beleid inzake de toelatingen tot arbeid en het beleid inzake de verblijfsvergunningen en inzake de normen betreffende de tewerkstelling en het verblijf van buitenlandse arbeidskrachten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031923/VolledigDocument?datum=2019-07-18",
+  "source_sha256": "c97ef6988cfb911b911218f8bee99eb9e81c0a35659f42e76283bc0e6cef0e69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031923&param=informatie",
+  "as_of": "2019-07-18",
+  "made": "2019-05-28",
+  "gazette": "2019-07-18",
+  "numac": 2019013568,
+  "document_start": "2019-07-18",
+  "document_end": null,
+  "in_force": "2019-07-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2019-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
