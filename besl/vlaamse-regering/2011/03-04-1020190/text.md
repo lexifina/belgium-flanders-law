@@ -78,7 +78,20 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, kan op gemotiveerde 
 
 ### ART. 4.
 
-De infrastructuur van een vertrouwenscentrum kindermishandeling moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen : <br />1° de lokalen voor de ontvangst zijn volledig gescheiden van de lokalen waar de hulp- en dienstverlening plaatsvindt;<br />2° de lokalen zijn aangepast aan de hulp- en dienstverleningsdoeleinden en de lokalen waar de ontvangst en de hulp- en dienstverlening plaatsvinden of waar de opvang gebeurt, zijn voldoende geïsoleerd tegen het geluid;<br />3° de basisinfrastructuur van een vertrouwenscentrum kindermishandeling bestaat tenminste uit de hierna vermelde lokalen, waarbij de opgegeven nuttige vloeroppervlakten minima zijn : <br />a) voor de secretariaatsfunctie : <br />1) een secretariaat van 20 m2;<br />2) een archief van 10 m2;<br />3) een berging van 5 m2;<br />b) voor de hulpverleningsfunctie : <br />1) twee gescheiden wachtkamers van samen 35 m2;<br />2) één of meer multifunctionele ruimtes van samen 25 m2, te vermeerderen met 4 m2 per door de Vlaamse overheid gesubsidieerde voltijdse equivalent;<br />3) één of meer gespreksruimtes van elk 20 m2;<br />4) een extra gespreksruimte voor jonge kinderen van 20 m2;<br />5) een medisch kabinet voor klinisch onderzoek van 15 m2, met een vaste wastafel;<br />6) een sanitaire ruimte van 10 m2, met gescheiden wc voor mannen en vrouwen en met een verluierruimte voor ouders met jonge kinderen.<br /><br />
+De infrastructuur van een vertrouwenscentrum kindermishandeling moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° de lokalen voor de ontvangst zijn volledig gescheiden van de lokalen waar de hulp- en dienstverlening plaatsvindt;<br>
+2° de lokalen zijn aangepast aan de hulp- en dienstverleningsdoeleinden en de lokalen waar de ontvangst en de hulp- en dienstverlening plaatsvinden of waar de opvang gebeurt, zijn voldoende geïsoleerd tegen het geluid;<br>
+3° de basisinfrastructuur van een vertrouwenscentrum kindermishandeling bestaat ten minste uit de volgende lokalen, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) voor de secretariaatsfunctie :<br>
+1) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+2) een archief- en bergruimte van samen 10 m<sup><span style="font-size: small;">2</span></sup>;<br>
+b) voor de hulpverleningsfunctie :<br>
+1) twee gescheiden wachtruimtes van samen 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+2) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
+3) een gespreksruimte van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
+4) een spelruimte voor jonge kinderen van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+5) een consultatieruimte van 16 m<sup><span style="font-size: small;">2</span></sup>, met een vaste wastafel;<br>
+6) een sanitaire ruimte van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen en met een verluierruimte voor ouders met jonge kinderen, en met minstens één rolstoeltoegankelijk toilet.
 
 ### ART. 5.
 
@@ -86,7 +99,27 @@ De infrastructuur van een vertrouwenscentrum kindermishandeling moet voldoen aan
 
 ### ART. 6.
 
-De infrastructuur van een centrum voor kinderzorg en gezinsondersteuning   moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om   voor een investeringssubsidie in aanmerking te komen : <BR>1° ...;<BR>2° bij   nieuwbouw is er in voldoende, passende en veilige buitenspeelruimte voorzien   voor de residentieel of ambulant opgevangen kinderen. Deze bepaling geldt niet   voor de infrastructuur waarin alleen ambulante trainingen worden georganiseerd   waarbij de aanwezigheid van kinderen niet vereist is;<BR>3° de   basisinfrastructuur van een centrum voor kinderzorg en gezinsondersteuning   bestaat ten minste uit de volgende lokalen, waarbij de opgegeven nuttige   vloeroppervlakten minima zijn:<BR>a) voor de secretariaatsfunctie: voldoende   administratieve ruimte;<BR>b) voor de residentiële functie:<BR>1) voldoende   ruime kamers naargelang van de leeftijd van de kinderen;<BR>2) voldoende   slaapruimtes voor baby's en peuters;<BR>3) minimaal één toilet en badgelegenheid   per vijf residentiële bewoners;<BR>4) voldoende multifunctionele ruimtes;<BR>5)   een sanitaire ruimte van 10 m², met gescheiden wc voor mannen en vrouwen en met   een verluierruimte voor ouders met jonge kinderen;<BR>6) een of meer   gespreksruimtes;<BR>7) voldoende administratieve ruimtes;<BR>c) voor de   ambulante dagopvang en voor de ambulante trainingen is er naast de leef- en   trainingsruimte in voldoende rust-, gespreks- en kantoorruimte voorzien;<BR>d)   voor de mobiele dienstverlening zijn er voldoende administratieve ruimtes,   gespreksruimtes en multifunctionele ruimtes in overeenstemming met het aantal   begeleidingen.
+De infrastructuur van een centrum voor kinderzorg en gezinsondersteuning moet voldoen aan de volgende specifieke bouwtechnische en bouwfysische normen om voor een investeringssubsidie in aanmerking te komen :<br>
+1° ...;<br>
+2° bij nieuwbouw is er in voldoende, passende en veilige buitenspeelruimte voorzien voor de residentieel of ambulant opgevangen kinderen. Deze bepaling geldt niet voor de infrastructuur waarin alleen ambulante trainingen worden georganiseerd waarbij de aanwezigheid van kinderen niet vereist is;<br>
+3° de basisinfrastructuur van een centrum voor kinderzorg en gezinsondersteuning bestaat ten minste uit de volgende ruimtes, waarbij de opgegeven nettovloeroppervlakten minima zijn :<br>
+a) een administratieve ruimte en ontvangstruimte van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+b) een sanitaire ruimte van 10 m<sup><span style="font-size: small;">2</span></sup>, met gescheiden toilet voor mannen en vrouwen, met een verluierruimte voor ouders met jonge kinderen, en met minstens één rolstoeltoegankelijk toilet;<br>
+c) voor de residentiële functie gelden bijkomend, naast de vereisten, vermeld in punt a) en b), de volgende vereisten :<br>
+1) voldoende ruime kamers naargelang van de leeftijd van de kinderen, met een nettovloeroppervlakte van ten minste 16 m<sup><span style="font-size: small;">2</span></sup>, met afwijkingsmogelijkheid van ten minste 12 m<sup><span style="font-size: small;">2</span></sup> voor minderjarigen;<br>
+2) voldoende rustruimtes voor baby's en peuters, met een nettovloeroppervlakte minstens 2 m<sup><span style="font-size: small;">2</span></sup> per bedplaats;<br>
+3) minimaal één toilet en badgelegenheid per vijf residentiële bewoners, met minstens één rolstoeltoegankelijk toilet met wastafel;<br>
+4) een multifunctionele ruimte van 25 m<sup><span style="font-size: small;">2</span></sup> die opdeelbaar is in functie van de noden van de voorziening;<br>
+5) een gespreksruimte van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
+d) voor de ambulante dagopvang en voor de ambulante trainingen gelden, naast de vereisten, vermeld in punt a) en b), de volgende vereisten :<br>
+1) een leef- en trainingsruimte;<br>
+2) voldoende rustruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
+3) voldoende gespreksruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
+4) voldoende bureauruimtes van 12 m<sup><span style="font-size: small;">2</span></sup>;<br>
+e) voor de mobiele dienstverlening gelden, naast de vereisten, vermeld in punt a) en b), de volgende vereisten, in overeenstemming met het aantal begeleidingen :<br>
+1) voldoende vergaderruimtes van 20 m<sup><span style="font-size: small;">2</span></sup>;<br>
+2) voldoende gespreksruimtes van 16 m<sup><span style="font-size: small;">2</span></sup>;<br>
+3) voldoende multifunctionele ruimtes van 25 m<sup><span style="font-size: small;">2</span></sup>, die opdeelbaar zijn in functie van de noden van de voorziening.
 
 ### ART. 7.
 
